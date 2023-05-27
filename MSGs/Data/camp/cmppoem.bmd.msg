@@ -1,0 +1,20 @@
+[msg CMPPOEM_PATHOS]
+[f 0 5 65278][f 2 1]夷Qu姻 patos deber胤a sentir?[n][f 1 1][e]
+
+[msg CMPPOEM_NOT_PATHOS]
+[f 0 5 65278][f 2 1]No siento nada ahora...[n][f 1 1][e]
+
+[sel CMPPOEM_SELECT_1 top]
+[f 0 5 65278][f 2 1]"A los Insensatos"[e]
+[f 0 5 65278][f 2 1]The Mongrels' Lullaby #[e]
+[f 0 5 65278][f 2 1]"Bloody Bride"[e]
+[f 0 5 65278][f 2 1]Surprise Birthday #[e]
+[f 0 5 65278][f 2 1]"Law"[e]
+[f 0 5 65278][f 2 1]"Los siete pecados mortales"[e]
+[f 0 5 65278][f 2 1]???[e]
+[f 0 5 65278][f 2 1]???[e]
+[f 0 5 65278][f 2 1]???[e]
+[f 0 5 65278][f 2 1]???[e]
+[f 0 5 65278][f 2 1]???[e]
+[f 0 5 65278][f 2 1]???[e]
+

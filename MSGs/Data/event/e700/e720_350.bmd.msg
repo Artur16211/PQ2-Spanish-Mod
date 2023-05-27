@@ -1,0 +1,17 @@
+[msg MSG_000 [Futaba]]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 26 2 99 1][f 3 1 6 0 0 500][f 3 1 1 0 0 26620]斡Espera un segundo! 斡Estoy viendo enemigos all茨![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_001 [Naoto]]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 0]Hay una posibilidad de que se preparen[n]para emboscarnos... Si progresamos m茨s,[n]tendremos una pelea en nuestras manos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Estamos listos para hacer esto, Joker?[n][f 1 3 65535][f 1 1][e]
+
+[sel SEL_002 top]
+[f 0 5 65278][f 2 1]Listos como siempre estaremos.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]Un momento...[f 2 7 1 20 6 32][e]
+
+[msg MSG_003 [Makoto]]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 4 1 1][f 3 1 1 0 0 25107][f 6 1 2 0 0 6]Excelente. 斡Mu姻strales todo nuestro poder![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_004 [Haru]]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 27 12 0 1][f 3 1 1 0 0 27067]Bien, deber胤amos asegurarnos de que[n]estemos completamente preparados primero.[n][f 1 3 65535][f 1 1][e]
+
