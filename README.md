@@ -1,4 +1,4 @@
-# PQ2-Spanish-Mod
+# Persona Q2 Spanish Mod
 --------
 Requirements
 --------
