@@ -392,19 +392,19 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 2]Reduce[n]su ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_083]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que se salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico ligero que se salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_084]
-[f 0 5 65278][f 2 1]2 ataques F胤sicos ligeros. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2 ataques F胤sicos ligeros. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_085]
 [f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad[n]media de agilidad Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_086]
-[f 0 5 65278][f 2 1]3 ataques F胤sicos medios. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3 ataques F胤sicos medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_087]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_088]
 [f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad[n]media de agilidad Restricci吋n[f 0 1 0].[n](1 Enemigo)[n][e]
@@ -413,7 +413,7 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad de[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_08A]
-[f 0 5 65278][f 2 1]2-6 ataques f胤sicos ligeros a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2-6 ataques f胤sicos ligeros a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_08B]
 [f 0 5 65278][f 2 1]Ataque de hielo ligero que salpica a ambos lados.[n](1 Enemigo)[n][e]
@@ -431,7 +431,7 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero, [f 0 1 2] da隠o m茨s alto si[n]el objetivo tiene estado alterado[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_090]
-[f 0 5 65278][f 2 1]2-6 ataques f胤sicos medios. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2-6 ataques f胤sicos medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_091]
 [f 0 5 65278][f 2 1]Ligero ataque Psy que salpica a ambos lados.[n](1 Enemigo)[n][e]
@@ -449,7 +449,7 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de[n]medio de Restricci吋n f胤sica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_096]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico ligero que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_097]
 [f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n de Agilidad[f 0 1 0].[n](1 fila)[n][e]
@@ -461,25 +461,25 @@
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_09A]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico medio que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09B]
-[f 0 5 65278][f 2 1]2 Ataques f胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2 Ataques f胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09C]
 [f 0 5 65278][f 2 1]Ataque f胤sico pesado. [f 0 1 2]Baja el[n]ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_09D]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado que afecta hasta la fila trasera.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico pesado que afecta hasta la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09E]
-[f 0 5 65278][f 2 1]6-8 Ataques f胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]6-8 Ataques f胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09F]
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero, [f 0 1 2] da隠o m茨s alto si[n]el objetivo est茨 atado, pero disipa Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0A0]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico medio. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A1]
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad[n]media de dormir[f 0 1 0]. (1 Enemigo)[n][e]
@@ -488,22 +488,22 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero inmediato. [f 0 1 2]Mejor[n]defensa[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_0A3]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A4]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (Todos los enemigos)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A5]
-[f 0 5 65278][f 2 1]Los f胤sicos pesados atacan a ambos lados.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Los f胤sicos pesados atacan a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A6]
 [f 0 5 65278][f 2 1]Ataque de hielo medio que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0A7]
-[f 0 5 65278][f 2 1]4 Ataques f胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]4 Ataques f胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A8]
-[f 0 5 65278][f 2 1]5-7 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]5-7 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A9]
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad[n]media de Confusi吋n[f 0 1 0].[n](1 Enemigo)[n][e]
@@ -512,10 +512,10 @@
 [f 0 5 65278][f 2 1]Ataque nuclear ligero que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_0AB]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. (Todos los enemigos)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico medio. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0AC]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0AD]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
@@ -533,22 +533,22 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico pesado. [f 0 1 4]Si no se hace da隠o durante[n]el turno, el ataque adicional activa[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0B2]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B3]
-[f 0 5 65278][f 2 1]3 ataques f胤sicos pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3 ataques f胤sicos pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B4]
-[f 0 5 65278][f 2 1]8 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]8 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B5]
-[f 0 5 65278][f 2 1]3-8 ataques f胤sicos pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3-8 ataques f胤sicos pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B6]
-[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B7]
-[f 0 5 65278][f 2 1]3-10 Ataques f胤sicos graves a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3-10 Ataques f胤sicos graves a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B8]
 [f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de[n]muerte instant茨nea[f 0 1 0]. (1 Enemigo)[n][e]
@@ -713,7 +713,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y Protege a un aliado.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0EE]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Fila de usuario)[n][e]
 
 [msg skill_0EF]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Grupo)[n][e]
@@ -1196,10 +1196,10 @@
 [f 0 5 65278][f 2 1]Agilidad duradera Restricci吋n Skill ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_18F]
-[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos) (Requires Circles)[n][e]
+[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos) (Requiere Círculos)[n][e]
 
 [msg skill_190]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](Todos los enemigos) (Requires Circles)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](Todos los enemigos) (Requiere Círculos)[n][e]
 
 [msg skill_191]
 [f 0 5 65278][f 2 1]Gran disminuci吋n de PS cada turno, pero [f 0 1 4] gran[n]aumento de ataque[f 0 1 0] mientras esta activo. (Propio)[n][e]
@@ -1217,19 +1217,19 @@
 [f 0 5 65278][f 2 1]Desactivar el modo Orgia.[n][e]
 
 [msg skill_196]
-[f 0 5 65278][f 2 1]Restauraci吋n ligera PS al final del[n]turno por 3 turnos. (User's Row)[n][e]
+[f 0 5 65278][f 2 1]Restauraci吋n ligera PS al final del[n]turno por 3 turnos. (Fila de usuario)[n][e]
 
 [msg skill_197]
 [f 0 5 65278][f 2 1]Recuperaci吋n Oraci吋n Habilidad ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_198]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0] al final del[n]turno por 3 turnos. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0] al final del[n]turno por 3 turnos. (Fila de usuario)[n][e]
 
 [msg skill_199]
 [f 0 5 65278][f 2 1]Libertad de oraci吋n La habilidad ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_19A]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina los estados alterados[f 0 1 0] al[n]final del turno por 3 turnos. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina los estados alterados[f 0 1 0] al[n]final del turno por 3 turnos. (Fila de usuario)[n][e]
 
 [msg skill_19B]
 [f 0 5 65278][f 2 1]Oraci吋n Cure La habilidad ayuda texto[n]no utilizado.[n][e]
@@ -1250,7 +1250,7 @@
 [f 0 5 65278][f 2 1]Follow Up Skill ayuda texto no utilizado.[n][e]
 
 [msg skill_1A1]
-[f 0 5 65278][f 2 1]Media probabilidad de que los aliados pueden realizar[n]ataques de seguimiento durante 3 turnos. (User's Row)[n][e]
+[f 0 5 65278][f 2 1]Media probabilidad de que los aliados pueden realizar[n]ataques de seguimiento durante 3 turnos. (Fila de usuario)[n][e]
 
 [msg skill_1A2]
 [f 0 5 65278][f 2 1]Ataque con truco[n]Explicaci吋n de la ayuda para habilidades[n][e]
@@ -1499,7 +1499,7 @@
 [f 0 5 65278][f 2 1]Alta oportunidad de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec/[n]Viento/Psy/Nuclear[f 0 1 0] a la fila del usuario. (Auto)[n][e]
 
 [msg skill_1F4]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec/[n]Viento/Psy/Nuclear[f 0 1 0] to user's row. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec/[n]Viento/Psy/Nuclear[f 0 1 0] to Fila de usuario. (Auto)[n][e]
 
 [msg skill_1F5]
 [f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4] Da隠o f胤sico[n][f 0 1 0] a la fila del usuario. (Auto)[n][e]
@@ -2267,7 +2267,7 @@
 [f 0 5 65278][f 2 1]0x2F3[n][e]
 
 [msg skill_2F4]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la posibilidad de infligir[n]estados alterados / restricciones. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente la posibilidad de infligir[n]estados alterados/restricciones. (Auto)[n][e]
 
 [msg skill_2F5]
 [f 0 5 65278][f 2 1]Aumenta la probabilidad de infligir[n]estados alterados/Restricciones. (Auto)[n][e]
@@ -2738,7 +2738,7 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de medio de Restricci吋n f胤sica[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_391]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico ligero que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_392]
 [f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad media de agilidad Restricci吋n[f 0 1 0].[n](1 Enemigo)[n][e]
@@ -2759,7 +2759,7 @@
 [f 0 5 65278][f 2 1]Ataque f胤sico pesado. [f 0 1 2]Baja[n]el ataque[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_398]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado que perfora hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico pesado que perfora hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_399]
 [f 0 5 65278][f 2 1]6-8 ataques f胤sicos pesados.[n](1 Enemigo)[n][e]
@@ -3005,7 +3005,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a un aliado.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_3EA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Fila de usuario)[n][e]
 
 [msg skill_3EB]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Grupo)[n][e]
@@ -3284,7 +3284,7 @@
 [f 0 5 65278][f 2 1]Las habilidades de ataque de alta probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_447]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_448]
 [f 0 5 65278][f 2 1]0x448[n][e]
@@ -4244,22 +4244,22 @@
 [f 0 5 65278][f 2 1]Ataque ps胤quico severo.[n](Todos los enemigos)[n][e]
 
 [msg skill_587]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico pesado.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_588]
-[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_589]
-[f 0 5 65278][f 2 1]Ataques de F胤sicas pesados.[n](Todos los enemigos) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataques de F胤sicas pesados.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58A]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_58B]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58C]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sico grave que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58D]
 [f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad[n]de Hex[f 0 1 0]. (1 Enemigo)[n][e]

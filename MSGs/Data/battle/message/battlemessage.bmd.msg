@@ -1319,7 +1319,7 @@
 [f 0 5 65278][f 2 1]斡Es nuestra oportunidad! 夷Quieres ir por ello?[n][e]
 
 [msg BTLMSGID_ALL_ATK_MONA [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Todos right! Time for an[n]all-out attack![n][e]
+[f 0 5 65278][f 2 1]Todos right! Time for an[n]Ataque Combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_YUSUKE [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Esta es nuestra oportunidad! 夷Alguna objeci吋n?[n][e]

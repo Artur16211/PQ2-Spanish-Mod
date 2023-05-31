@@ -758,11 +758,11 @@
 [f 0 5 65278][f 2 1]消耗品　0x5FC　１行目[n]消耗品　0x5FC　２行目[n][e]
 
 [msg item_5FD]
-[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la[n]estaci吋n de Iwatodai. [f 0 1 4]Restaura 50% PS[f 0 1 0]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la[n]estaci吋n Iwatodai. [f 0 1 4]Restaura 50% de PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_5FE]
 [f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_5FF]
-[f 0 5 65278][f 2 1]Especialidad de un caf de callej吋n en[n]Yongen- Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un café en[n]Yongen- Jaya. [f 0 1 4]Restaura 50% de PE[f 0 1 0]. (Grupo)[n][e]
 

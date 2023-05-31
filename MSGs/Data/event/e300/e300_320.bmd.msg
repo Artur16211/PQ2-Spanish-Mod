@@ -85,7 +85,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30]夷Y t雨 eres...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 31]斡S胤, todav胤a no nos hemos presentado![n]Soy Kanji Tatsumi, un primer a隠o en Yasogami High.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 31]斡S胤, todav胤a no nos hemos presentado![n]Soy Kanji Tatsumi, un primer a隠o en Instituto Yasogami.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Chico Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 2 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]夷Primer a隠o? As胤 que eres m茨s joven que yo...[n][f 1 3 65535][f 1 1][e]

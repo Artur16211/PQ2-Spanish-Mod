@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]Me siento mucho mejor sabiendo que[n]est茨s a salvo. Estaba preocupada por encontrarte...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chico Con Gorra De B姻isbol]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11016][f 6 1 2 0 0 4]As胤 que... 夷Eres estudiante de Gekkoukan High?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11016][f 6 1 2 0 0 4]As胤 que... 夷Eres estudiante de Instituto Gekkoukan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][f 3 1 1 0 0 19018][f 6 1 2 0 4]Huh?[n]夷De qu姻 est茨s hablando, Junpei?[n][f 1 3 65535][f 1 1][e]
