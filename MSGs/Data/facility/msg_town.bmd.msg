@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1]No has tomado ninguna prueba especial.[n]夷Est茨s seguro?[n][f 1 1][e]
 
 [msg town_warning_persona [Rise]]
-[f 0 5 65278][f 2 1]Senpai, ten cuidado. Hay alguien en tu[n]fiesta que no ha tomado una Sub-Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Senpai, ten cuidado. Hay alguien en tu[n]grupo que no ha tomado una Sub-Persona.[n][f 1 1][e]
 
 [msg town_warning_both [Rise]]
 [f 0 5 65278][f 2 1]Senpai, ten cuidado. Hay alguien en tu[n]fiesta que no ha tomado una Sub-Persona.[n][f 1 1][e]
