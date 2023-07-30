@@ -128,7 +128,7 @@ dropdown.grid(row=3, column=0, padx=10, pady=10)
 
 
 # specify the size of the window
-root.geometry("680x600")
+root.geometry("820x600")
 
 # disable resizing the GUI
 root.resizable(False, False)
