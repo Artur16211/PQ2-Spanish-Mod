@@ -13,3 +13,6 @@ Run the program with the following command:
 ```python
 python CompileMSG.py
 ```
+--------
+MSG Editor:
+https://github.com/Artur16211/MSG_Viewer
