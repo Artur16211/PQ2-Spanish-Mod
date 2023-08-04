@@ -481,6 +481,6 @@ customtkinter.set_appearance_mode("dark")
 
 root.iconbitmap("dependencies/test2.ico")
 
-root.title("Persona Q2 MSG Compiler")
+root.title("Persona Q2 SET N")
 
 root.mainloop()
