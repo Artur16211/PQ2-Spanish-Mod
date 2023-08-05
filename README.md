@@ -13,3 +13,12 @@ Run the program with the following command:
 ```python
 python CompileMSG.py
 ```
+--------
+MSG Editor:
+https://github.com/Artur16211/MSG_Viewer
+--------
+
+Ejecuta el setn.py para configurar los [n] de forma que el texto quede dentro del cuadro de diálogo luego de realizar una edición.
+
+Ejecuta CompileMSG.py para tener una version del mod lista para el Mod Compendium.
+https://github.com/tge-was-taken/Mod-Compendium/releases
