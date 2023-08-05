@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 6]T雨 tambi姻n est茨s aqu胤, Recluso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 0]Oye, Recluso, 夷d吋nde estamos? 夷Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 0]Oye, recluso, 夷d吋nde estamos? 夷qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Ni idea.[f 2 7 1 64 6 32][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 2]¿Qué crees que haces?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 13]Espera, Caroline. Dudo que el prisionero sea capaz de algo así.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 13]Espera, Caroline. Dudo que el recluso sea capaz de algo así.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Probablemente no tenga ni idea de lo que está pasando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Caroline]]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 4]No, no es eso, pero... 夷Me siento bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Justine]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 4 6 78 1 0 1][f 4 6 79 12 0 4][f 3 1 1 0 0 23]En cualquier caso, cuéntanos tu situación aquí, Recluso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 4 6 78 1 0 1][f 4 6 79 12 0 4][f 3 1 1 0 0 23]En cualquier caso, cuéntanos tu situación aquí, recluso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 24]Vamos a escuchar lo que tienes que decir en esa habitación.... ¡Eh, tú! ¡Gato![n][f 1 3 65535][f 1 1][e]
@@ -139,5 +139,5 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 68 0 0 0][f 3 1 1 0 0 47]Si son conocidas de [f 6 1 30 0 0], creo que podemos confiar en ellas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 48]Estaré bien. Vamos, no puedes hacerlas esperar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 48]Estaré bien. Vamos, no podemos hacerlas esperar.[n][f 1 3 65535][f 1 1][e]
 
