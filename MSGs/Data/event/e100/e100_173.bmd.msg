@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Parece que necesitaremos algo de tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 18]Has sido capaz de manejar a[n]innumerables Personas, 夷no, Recluso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 18]Has sido capaz de manejar a[n]innumerables Personas, 夷no, recluso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 19]Nos referimos a esa habilidad de[n]"Comodín".[n][f 1 3 65535][f 1 1][e]
