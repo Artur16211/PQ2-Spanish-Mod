@@ -287,6 +287,51 @@ def run_program():
         for line in mod_msgs:
             mod_msgs_nfix.append(line)
 
+        replacement_dict = {
+            'á': '茨',
+            'é': '姻',
+            'í': '胤',
+            'ó': '吋',
+            'ú': '雨',
+            'ñ': '隠',
+            '¿': '夷',
+            '¡': '斡',
+            'Á': '威',
+            'É': '畏',
+            'Í': '緯',
+            'Ó': '遺',
+            'Ú': '郁',
+            'Ñ': '謂'
+        }
+        replacement_dict_pq_fix = {
+            '係': '茨',
+            '契': '姻',
+            '慶': '胤',
+            '矩': '吋',
+            '具': '雨',
+            '狗': '隠',
+            '空': '夷',
+            '緊': '斡',
+            '寓': '威',
+            '掘': '畏',
+            '轡': '緯',
+            '繰': '遺',
+            '訓': '郁',
+            '粂': '謂'
+        }
+
+        # replace the characters in the list
+        for i in range(len(mod_msgs_nfix)):
+            for key in replacement_dict:
+                mod_msgs_nfix[i] = mod_msgs_nfix[i].replace(
+                    key, replacement_dict[key])
+
+        # replace the characters in the list
+        for i in range(len(mod_msgs_nfix)):
+            for key in replacement_dict_pq_fix:
+                mod_msgs_nfix[i] = mod_msgs_nfix[i].replace(
+                    key, replacement_dict_pq_fix[key])
+
         # print(mod_msg_names_es)
         # Create a dictionary with the messages in english as keys and the messages in spanish as values
         mod_msgs_dict = dict(zip(mod_msgs, mod_msgs_nfix))

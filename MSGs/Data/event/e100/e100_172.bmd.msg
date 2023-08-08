@@ -32,7 +32,7 @@
 
 [msg MSG_010 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 10]Espera, Caroline.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Esa mirada en tu cara... Parece no tiene ni idea.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Esa mirada en su cara... Parece no tiene ni idea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 2]¿Qué crees que haces?[n][f 1 3 65535][f 1 1][e]

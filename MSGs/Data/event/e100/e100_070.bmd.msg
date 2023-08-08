@@ -1,5 +1,5 @@
 [msg MSG_000 [Una Mujer Graciosa]]
-[f 0 5 65278][f 2 1][f 4 6 65 5 0 1][f 4 6 81 1 2 6][f 4 6 84 0 2 3][f 3 1 1 0 0 1]夷Puedes detenerte? Est茨s asustando a[n]Hikari-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 5 0 1][f 4 6 81 1 2 6][f 4 6 84 0 2 3][f 3 1 1 0 0 1]夷Puedes detenerte? Est茨s asustando a[n]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 1][f 3 1 1 0 0 2][f 6 1 2 0 0 4]夷No son enemigos?[n][f 1 3 65535][f 1 1][e]

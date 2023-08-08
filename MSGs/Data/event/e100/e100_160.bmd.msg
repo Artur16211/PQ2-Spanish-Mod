@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 66 6 0 0][f 3 1 1 0 0 6]Lo siento, 夷fue algo que dije?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 7]Estoy seguro de que ese no es el [n]caso.... Hikari-san no sabe cómo reaccionar a[n]esto todavía, eso es todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 7]Estoy seguro de que ese no es el [n]caso.... Hikari no sabe cómo reaccionar a[n]esto todavía, eso es todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 7 0 0 0][f 4 6 70 0 0 3][f 3 1 1 0 0 8]Hikari...[n][f 1 3 65535][f 1 1][e]
@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 1 0][f 3 1 1 0 0 14]Estoy bastante segura... que es diferente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 7 0 0 0][f 4 6 84 1 0 1][f 4 6 72 12 0 3][f 3 1 1 0 0 15]夷No tienes ni idea, Nagi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 7 0 0 0][f 4 6 84 1 0 1][f 4 6 72 12 0 3][f 3 1 1 0 0 15]夷No tienes ni idea, Nagi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Nagi]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 16]Correcto, no tengo ni idea de lo que podr胤a ser.[n][f 1 3 65535][f 1 1][e]
