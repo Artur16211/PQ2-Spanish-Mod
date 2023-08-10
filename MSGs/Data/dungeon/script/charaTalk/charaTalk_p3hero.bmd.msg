@@ -16,19 +16,19 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]Parece que algo estËå® aquËÉ§. Â§∑Quieres[n]echar un vistazo mËå®s cerca?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä[n][f 3 1 1 0 0 2001]Looks like something's here.[n]Want to take a closer look?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2066]SËÉ§, es mejor tener cuidado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2066]SËÉ§, es mejor tener cuidado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2065]Claro. DeberËÉ§amos hacerlo bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2065]Claro. DeberËÉ§amos hacerlo bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 0 0 2069]Siempre podemos volver[n]si cambiamos de opiniÂêãn.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2069]Siempre podemos volver si cambiamos de[n]opiniÂêãn.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]Parece que hemos terminado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2041]Parece que hemos terminado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2378]Phew...[n][f 1 6 65535][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2380]Êñ°SËÉ§![n][f 1 6 65535][e]
 
 [msg MSG_008 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2038]Whew... Eso se encarga de eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2038]Whew... Eso se encarga de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2381]Êñ°Genial![n][f 1 6 65535][e]
@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2383]Êñ°Felicidades![n][f 1 6 65535][e]
 
 [msg MSG_012 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2044] Eso podrËÉ§a funcionar[n]como un atajo. Â§∑DeberËÉ§amos pasar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2044]Eso podrËÉ§a funcionar como un atajo. Â§∑DeberËÉ§amos[n]pasar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Hero]]
 [f 0 5 65278][f 2 1]Êñ°Oh[n][f 1 6 65535][e]
@@ -61,40 +61,40 @@
 [f 0 5 65278][f 2 1]Êñ°Oh[n][f 1 6 65535][e]
 
 [msg MSG_015 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]Parece que no podemos pasar por aquËÉ§...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2086]Parece que no podemos pasar por aquËÉ§...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]Â§∑Por quÂßª[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„ÄÂ§∑Por quÂßª[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]Â§∑Por quÂßª[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„ÄÂ§∑Por quÂßª[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 0 0 2082]Algo malo estËå®[n]acechando en las sombras aquËÉ§. Â§∑QuÂßª haremos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2082]Algo malo estËå® acechando en las sombras aquËÉ§.[n]Â§∑QuÂßª haremos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2069] Muy bien.[n]Mantengamos la guardia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2069]Muy bien. Mantengamos la guardia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2066]SËÉ§. Volvamos por ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2066]SËÉ§. Volvamos por ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2095] Fue un oponente muy duro...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2095]Fue un oponente muy duro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2023] Estoy viendo muchas[n]sombras cerca de...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2023]Estoy viendo muchas sombras cerca de...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2069] Muy bien.[n]Mantengamos la guardia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2069]Muy bien. Mantengamos la guardia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2066]SËÉ§. Volvamos por ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2066]SËÉ§. Volvamos por ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2041] Creo que es eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2041]Creo que es eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][f 3 1 1 0 0 2001]Podemos volver por[n]aquËÉ§. Â§∑Ese es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2001]Podemos volver por aquËÉ§. Â§∑Ese es el plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2384]Êñ°Cuidado![n][f 1 6 65535][e]

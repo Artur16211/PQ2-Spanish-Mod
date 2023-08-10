@@ -16,16 +16,16 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14501]Parece que podr胤a haber un tesoro en[n]ese lugar. 夷Quieres comprobarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14501]Parece que podr胤a haber un tesoro en ese[n]lugar. 夷Quieres comprobarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14574]斡Correcto! 斡Cuidado, todos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14573]斡Entendido! 斡Vamos a doblar en busca de art胤culos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14573]斡Entendido! 斡Vamos a doblar en busca de[n]art胤culos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14569]Vale, lo entiendo. Vamos a tomar un[n]riesgo calculado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14569]Vale, lo entiendo. Vamos a tomar un riesgo[n]calculado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14503]斡Eso es todo! Buen trabajo, todos.[n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14407]斡Interesante![n][f 1 6 65535][e]
 
 [msg MSG_008 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14633]Buen trabajo, todos. Parece que hemos[n]terminado aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14633]Buen trabajo, todos. Parece que hemos terminado[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14408]斡Eso es raro![n][f 1 6 65535][e]
@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0](仮)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14588]No podemos pasar de aqu胤. Vamos a[n]comprobar el otro lado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14588]No podemos pasar de aqu胤. Vamos a comprobar[n]el otro lado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14557]斡Espera, espera! 斡Estoy captando la[n]se隠al de algo realmente vicioso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14557]斡Espera, espera! 斡Estoy captando la se�al de[n]algo realmente vicioso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Esta bien... qu姻date a salvo![n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14540]Eso estuvo cerca... 夷Est茨n todos bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Estoy detectando sombras en la zona! 斡Atenci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Estoy detectando sombras en la zona![n]斡Atenci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14567]斡Est茨 bien! 斡Puedes contar conmigo![n][f 1 3 65535][f 1 1][e]

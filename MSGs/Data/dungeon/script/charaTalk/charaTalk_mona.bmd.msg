@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23001]Estoy viendo el Tesoro aqu胤![n]夷Deber胤amos echar un vistazo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23001]Estoy viendo el Tesoro aqu胤! 夷Deber胤amos[n]echar un vistazo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23070]Tienes raz吋n. Ten cuidado mirando alrededor.[n][f 1 3 65535][f 1 1][e]
@@ -73,16 +73,16 @@
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23061]斡Joker! 斡Estoy viendo peligro cerca![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23076]斡Muy bien! 斡No decepciones a tu guardia![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23076]A-斡Muy bien! 斡No decepciones a tu guardia![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23070]斡Tienes raz吋n! 斡Asegur姻monos de que[n]estemos preparados primero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23070]斡Tienes raz吋n! 斡Asegur姻monos de que estemos[n]preparados primero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23039]Esa era una sombra dura...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23017]Estoy viendo muchas sombras...[n]Probablemente tendremos que luchar. 夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23017]Estoy viendo muchas sombras... Probablemente[n]tendremos que luchar. 夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 23072]斡Muy bien! 斡No decepciones a tu guardia![n][f 1 3 65535][f 1 1][e]

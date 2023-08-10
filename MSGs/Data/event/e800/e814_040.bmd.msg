@@ -1,5 +1,5 @@
 [msg MSG_000 [P4 Protag]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0][f 3 1 0 0 1068] Vale, una puerta[n]cubierta de vid. Noir, 夷podr胤as, por favor?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1068]Okay, a vine-covered door. Noir, would[n]you please?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]Claro. Un momento.[n][f 1 3 65535][f 1 1][e]

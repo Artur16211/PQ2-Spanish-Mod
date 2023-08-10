@@ -116,22 +116,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27311]No se rinde f茨cilmente, eso es seguro.[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27312]夷Alguien puede curarme?[n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27314]Lo siento, no creo que pueda seguir...[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg HARU_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27315]Necesito sanar pronto...[n][f 1 6 65535][e]
@@ -161,10 +161,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27317]No estoy en la mejor forma...[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27318]Lo intento pero... Apenas puedo[n]permanecer despierto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27318]Lo intento pero... Apenas puedo permanecer[n]despierto.[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27319]Poner un pie delante del otro es[n]dif胤cil para m胤 en mi estado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27319]Poner un pie delante del otro es dif胤cil para[n]m胤 en mi estado...[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27320]Podr胤a haberme presionado demasiado...[n][f 1 6 65535][e]
@@ -173,7 +173,7 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg HARU_ITEM_90_BATTLE_2]
-[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg HARU_ITEM_90_BATTLE_3]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27323]斡Todos est茨n tan en姻rgicos![n][f 1 6 65535][e]
 
 [msg HARU_BATTLE_CHANGE_DUNGE]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg HARU_BATTLE_CHANGE_DUNGE_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg HARU_BATTLE_CHANGE_DUNGE_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg HARU_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27365]斡Listo, listo, vamos![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27352]斡Estoy tan emocionada de ver la versi吋n final![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27352]斡Estoy tan emocionada de ver la versi吋n[n]final![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27353]斡Est茨 empezando a parecer un mapa![n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27358]斡Hurra! 斡Terminamos el mapa![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27359]斡Mira! 斡Result吋 un mapa maravilloso![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27359]斡Mira! 斡Result� un mapa maravilloso![n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_ICON_ALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27342]斡Vaya! 斡Eso es muy bueno![n][f 1 6 65535][e]
@@ -260,7 +260,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27345]As胤 es como lo recuerdo.[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_CHANGE_COLO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27346]*giggle* A隠adiendo un toque personal, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27346]*giggle* A�adiendo un toque personal,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_CHANGE_COLO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27347]夷Cambiando el color?[n][f 1 6 65535][e]

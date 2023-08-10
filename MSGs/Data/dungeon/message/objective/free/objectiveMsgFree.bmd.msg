@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1]Proceded onward[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__10]
-[f 0 5 65278][f 2 1]Aprende lo extra隠o que es el sonido[n][e]
+[f 0 5 65278][f 2 1]Aprende lo extra�o que es el sonido[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__11]
 [f 0 5 65278][f 2 1]Encontrar un camino que pasa por los 茨rboles[n][e]
@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1]Proceded onward[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Encuentra al due隠o del Evoker[n][e]
+[f 0 5 65278][f 2 1]Encuentra al due�o del Evoker[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__3]
 [f 0 5 65278][f 2 1]Encontrar Aigis y su l胤der[n][e]

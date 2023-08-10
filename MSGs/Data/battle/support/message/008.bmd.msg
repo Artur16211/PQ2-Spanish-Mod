@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_008_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8300]No podemos alejarnos de esta pelea.[n]斡Nuestra 雨nica oportunidad es salir victorioso![n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8300]No podemos alejarnos de esta pelea. 斡Nuestra[n]雨nica oportunidad es salir victorioso![n][f 1 6 65534][e]
 
 [msg BTL_MES_008_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8301]Acaso no es cierto[n][f 1 6 65534][e]
@@ -14,10 +14,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8303]Acaso no es cierto[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8304]Un FOE... 斡Pero podr胤amos tener la[n]fuerza para derrotarlo ahora![n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8304]Un FOE... 斡Pero podr胤amos tener la fuerza[n]para derrotarlo ahora![n][f 1 6 65534][e]
 
 [msg BTL_MES_008_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8305]Una rara sombra... Ciertamente lo veo[n]como una oportunidad para nosotros.[n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8305]Una rara sombra... Ciertamente lo veo como[n]una oportunidad para nosotros.[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8306]斡No[n][f 1 6 65534][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8321]Alternativamente[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8322]Nunca hemos encontrado a este enemigo[n]antes. Vamos a determinar su debilidad.[n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8322]Nunca hemos encontrado a este enemigo antes.[n]Vamos a determinar su debilidad.[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8323]Acaso no es necesario[n][f 1 6 65534][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8342]Acaso no hay nada que ver[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8343]Puedo golpear con exactamente lo que es[n]d姻bil contra...[n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8343]Puedo golpear con exactamente lo que es d姻bil[n]contra...[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8344]Siempre podemos pasar el bast吋n.[n][f 1 6 65534][e]
@@ -182,7 +182,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8503]夷Qu姻[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_061]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8504][n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8504][e]
 
 [msg BTL_MES_008_062]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8505]- 夷Qu姻? 斡No[n][f 1 6 65534][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8518]斡M茨s tarde[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_076]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8519][n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8519][e]
 
 [msg BTL_MES_008_077]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8520]斡M茨s informaci吋n[n][f 1 6 65534][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8521]斡M茨s informaci吋n[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_079]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8522]√?o ?ени нени ни нени нени нени не нени[n]ни нени не ни нени ни не не ни нени[n]нени ни ни ни ни ни ни ни ни ни ный ни ни[n]ни ни ни ни ни ни ни ни ни ни ни ный ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни ни н[n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8522]�?o ?ени нени ни нени нени нени не нени ни[n]нени не ни нени ни не не ни нени нени ни[n]ни ни ни ни ни ни ни ни ный ни ни ни ни[n]ни ни ни ни ни ни ни ни ни ный ни ни ни[n]ни ни ни ни ни ни ни ни ни ни ни ни ни[n]ни ни ни ни ни ни ни ни ни ни ни ни ни ни[n]ни ни ни н[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_080]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8523]斡No[n][f 1 6 65534][e]
@@ -251,11 +251,11 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8526]Alternativamente[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_084]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8527]?елиногонныеннный やнениенногониныеннный[n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8527]?елиногонныеннный �нениенногониныеннный[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_085]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 8528]斡No[n][f 1 6 65534][e]
 
 [msg BTL_MES_008_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 8430]斡Ahora es mi momento para reventar a[n]todos con lo que puedo hacer![n][f 1 6 65534][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 8430]斡Ahora es mi momento para reventar a todos[n]con lo que puedo hacer![n][f 1 6 65534][e]
 

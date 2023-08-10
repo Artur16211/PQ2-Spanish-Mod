@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12306]Parece que ya no nos sigue...[n][f 1 6 65535][e]
 
 [msg SANADA_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12307]夷Ya se rindi吋? Hah. Tendr胤as m茨s agallas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12307]夷Ya se rindi�? Hah. Tendr胤as m茨s agallas.[n][f 1 6 65535][e]
 
 [msg SANADA_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12308]夷No vamos a luchar? Es una pena.[n][f 1 6 65535][e]
@@ -35,10 +35,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12371]Stealth no suele ser mi estilo...[n][f 1 6 65535][e]
 
 [msg SANADA_DENKISAKU_REACTIO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12372]Una puerta el姻ctrica... Tendremos que rodearlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12372]Una puerta el姻ctrica... Tendremos que[n]rodearlo.[n][f 1 6 65535][e]
 
 [msg SANADA_DENKISAKU_REACTIO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12373]Sin dolor, sin ganancia, supongo...[n]Pero esto no es bueno.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12373]Sin dolor, sin ganancia, supongo... Pero esto[n]no es bueno.[n][f 1 6 65535][e]
 
 [msg SANADA_DENKISAKU_REACTIO_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12374]Odio estas trampas.[n][f 1 6 65535][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12324]Escaleras... Vamos.[n][f 1 6 65535][e]
 
 [msg SANADA_STAIR_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12325]Veamos qu姻 tipo de desaf胤os est茨n esperando...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12325]Veamos qu姻 tipo de desaf胤os est茨n[n]esperando...[n][f 1 6 65535][e]
 
 [msg SANADA_STAIR_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12326]Parece que podemos seguir yendo de all胤.[n][f 1 6 65535][e]
@@ -68,10 +68,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12328]Una caja de tesoros... 夷Quieres abrirla?[n][f 1 6 65535][e]
 
 [msg SANADA_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12329]Me pregunto qu姻 hay dentro... 夷Crees[n]que es prote胤na?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12329]Me pregunto qu姻 hay dentro... 夷Crees que es[n]prote胤na?[n][f 1 6 65535][e]
 
 [msg SANADA_CHECK_WALL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12330]Parece extra隠o. Vamos a comprobarlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12330]Parece extra�o. Vamos a comprobarlo.[n][f 1 6 65535][e]
 
 [msg SANADA_CHECK_WALL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12331]Hay algo ah胤... Me pregunto qu姻 es.[n][f 1 6 65535][e]
@@ -80,10 +80,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12332]夷Qu姻 es eso? 夷Deber胤amos revisarlo?[n][f 1 6 65535][e]
 
 [msg SANADA_SWITCH_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12333]Un interruptor... 夷Alguna idea de lo que hace?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12333]Un interruptor... 夷Alguna idea de lo que[n]hace?[n][f 1 6 65535][e]
 
 [msg SANADA_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12334]Parece que es un interruptor. 夷Qu姻 vamos a hacer?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12334]Parece que es un interruptor. 夷Qu姻 vamos a[n]hacer?[n][f 1 6 65535][e]
 
 [msg SANADA_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12335]夷Lo presionaremos?[n][f 1 6 65535][e]
@@ -116,22 +116,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12311]夷Un FOE? Bueno, estoy calentado.[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg SANADA_1PERSON_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12312]夷Era... una campana del lado del anillo?[n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12314]Ngh... hah... 夷Es tan lejos como puedo ir...?[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg SANADA_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg SANADA_1PERSON_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12315]A este ritmo, ser姻 KO'ed... Necesito sanar.[n][f 1 6 65535][e]
@@ -158,7 +158,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12316]Pens姻 que era bueno en la resistencia...[n][f 1 6 65535][e]
 
 [msg SANADA_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12317]Esto se est茨 poniendo mal... 夷Puede[n]alguien curarme?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12317]Esto se est茨 poniendo mal... 夷Puede alguien[n]curarme?[n][f 1 6 65535][e]
 
 [msg SANADA_1PERSON_TP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12318]斡Maldita sea! 斡Mi cuerpo no me escuchar茨![n][f 1 6 65535][e]
@@ -173,13 +173,13 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg SANADA_ITEM_90_BATTLE_2]
-[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg SANADA_ITEM_90_BATTLE_3]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg SANADA_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12321]Esto ni siquiera ser茨 suficiente para calentarse.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12321]Esto ni siquiera ser茨 suficiente para[n]calentarse.[n][f 1 6 65535][e]
 
 [msg SANADA_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12322]Prefiero luchar contra alguien m茨s fuerte.[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12323]斡Buenas t茨cticas! 斡Lo hicimos![n][f 1 6 65535][e]
 
 [msg SANADA_BATTLE_CHANGE_DUN]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg SANADA_BATTLE_CHANGE_DUN_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg SANADA_BATTLE_CHANGE_DUN_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg SANADA_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -212,7 +212,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12361]Estoy listo. Hag茨moslo.[n][f 1 6 65535][e]
 
 [msg SANADA_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12362]Date prisa. Tengo que quedarme en modo[n]de ejercicio.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12362]Date prisa. Tengo que quedarme en modo de[n]ejercicio.[n][f 1 6 65535][e]
 
 [msg SANADA_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12363]夷D吋nde est茨 el objetivo? Terminemos esto.[n][f 1 6 65535][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12352]夷Puede este piso ser m茨s grande...?[n][f 1 6 65535][e]
 
 [msg SANADA_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12353]Acabamos de empezar. Todos qu姻dense en sus dedos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12353]Acabamos de empezar. Todos qu姻dense en sus[n]dedos.[n][f 1 6 65535][e]
 
 [msg SANADA_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12354]夷Estamos cerca de la mitad?[n][f 1 6 65535][e]
@@ -275,7 +275,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12350]Ahora no lo olvidaremos.[n][f 1 6 65535][e]
 
 [msg SANADA_MAPPING_MEMO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12351]夷Quieres que incluya nuestro programa[n]de entrenamiento?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12351]夷Quieres que incluya nuestro programa de[n]entrenamiento?[n][f 1 6 65535][e]
 
 [msg SANADA_DOOR_OPEN_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12366]Por aqu胤.[n][f 1 6 65535][e]

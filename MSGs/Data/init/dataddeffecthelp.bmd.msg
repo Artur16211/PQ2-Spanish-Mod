@@ -203,16 +203,16 @@
 [f 0 5 65278][f 2 1]Todas las estadèƒ¤sticas +5[n][e]
 
 [msg addeffect_068]
-[f 0 5 65278][f 2 1]El poder de ataque de fuego aumentå‹ un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de fuego aumentå un 25%[n][e]
 
 [msg addeffect_069]
-[f 0 5 65278][f 2 1]El poder de ataque de hielo aumentå‹ un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de hielo aumentå un 25%[n][e]
 
 [msg addeffect_070]
-[f 0 5 65278][f 2 1]El poder de ataque de Elec aumentå‹ un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de Elec aumentå un 25%[n][e]
 
 [msg addeffect_071]
-[f 0 5 65278][f 2 1]Energèƒ¤a de ataque de viento aumentå‹ un 25%[n][e]
+[f 0 5 65278][f 2 1]Energèƒ¤a de ataque de viento aumentå un 25%[n][e]
 
 [msg addeffect_072]
 [f 0 5 65278][f 2 1]Chance to reflect Phys[n][e]
@@ -284,64 +284,64 @@
 [f 0 5 65278][f 2 1]Chance of inflicting all ailments+[n][e]
 
 [msg addeffect_095]
-[f 0 5 65278][f 2 1]Daéš o fèƒ¤sico reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daéšo fèƒ¤sico reducido en 10%[n][e]
 
 [msg addeffect_096]
-[f 0 5 65278][f 2 1]Daéš o fèƒ¤sico reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daéšo fèƒ¤sico reducido en 20%[n][e]
 
 [msg addeffect_097]
-[f 0 5 65278][f 2 1]Daéš o fèƒ¤sico reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daéšo fèƒ¤sico reducido en 30%[n][e]
 
 [msg addeffect_098]
-[f 0 5 65278][f 2 1]Daéš o al fuego reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al fuego reducido en 10%[n][e]
 
 [msg addeffect_099]
-[f 0 5 65278][f 2 1]Daéš o al fuego reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al fuego reducido en 20%[n][e]
 
 [msg addeffect_100]
-[f 0 5 65278][f 2 1]Daéš o al fuego reducido en un 30%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al fuego reducido en un 30%[n][e]
 
 [msg addeffect_101]
-[f 0 5 65278][f 2 1]Daéš o al hielo reducido en un 10%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al hielo reducido en un 10%[n][e]
 
 [msg addeffect_102]
-[f 0 5 65278][f 2 1]Daéš o por hielo reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daéšo por hielo reducido en 20%[n][e]
 
 [msg addeffect_103]
-[f 0 5 65278][f 2 1]Daéš o por hielo reducido en un 30%[n][e]
+[f 0 5 65278][f 2 1]Daéšo por hielo reducido en un 30%[n][e]
 
 [msg addeffect_104]
-[f 0 5 65278][f 2 1]Daéš o al viento reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al viento reducido en 10%[n][e]
 
 [msg addeffect_105]
-[f 0 5 65278][f 2 1]Daéš o al viento reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al viento reducido en 20%[n][e]
 
 [msg addeffect_106]
-[f 0 5 65278][f 2 1]Daéš o al viento reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daéšo al viento reducido en 30%[n][e]
 
 [msg addeffect_107]
-[f 0 5 65278][f 2 1]Daéš o de Elec reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daéšo de Elec reducido en 10%[n][e]
 
 [msg addeffect_108]
-[f 0 5 65278][f 2 1]Daéš o de Elec reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daéšo de Elec reducido en 20%[n][e]
 
 [msg addeffect_109]
-[f 0 5 65278][f 2 1]Daéš o de Elec reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daéšo de Elec reducido en 30%[n][e]
 
 [msg addeffect_110]
-[f 0 5 65278][f 2 1]Daéš o mèŒ¨gico reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daéšo mèŒ¨gico reducido en 10%[n][e]
 
 [msg addeffect_111]
-[f 0 5 65278][f 2 1]Daéš o mèŒ¨gico reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daéšo mèŒ¨gico reducido en 20%[n][e]
 
 [msg addeffect_112]
-[f 0 5 65278][f 2 1]Daéš o mèŒ¨gico reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daéšo mèŒ¨gico reducido en 30%[n][e]
 
 [msg addeffect_113]
 [f 0 5 65278][f 2 1]Reducir la posibilidad de tropezar[n][e]
 
 [msg addeffect_114]
-[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de tropezar[n][e]
+[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de[n]tropezar[n][e]
 
 [msg addeffect_115]
 [f 0 5 65278][f 2 1]Gran reducciå‹n de la posibilidad de tropiezo[n][e]
@@ -578,14 +578,14 @@
 [f 0 5 65278][f 2 1]Elec ataca[n][e]
 
 [msg addeffect_193]
-[f 0 5 65278][f 2 1]Daéš o al fuego[n][e]
+[f 0 5 65278][f 2 1]Daéšo al fuego[n][e]
 
 [msg addeffect_194]
-[f 0 5 65278][f 2 1]Daéš o por hielo[n][e]
+[f 0 5 65278][f 2 1]Daéšo por hielo[n][e]
 
 [msg addeffect_195]
-[f 0 5 65278][f 2 1]Daéš o al viento[n][e]
+[f 0 5 65278][f 2 1]Daéšo al viento[n][e]
 
 [msg addeffect_196]
-[f 0 5 65278][f 2 1]Elec daéš å‹[n][e]
+[f 0 5 65278][f 2 1]Elec daéšå‹[n][e]
 

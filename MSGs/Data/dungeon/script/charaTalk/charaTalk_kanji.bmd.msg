@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7001]Oye, podemos coger algunas cosas aqu胤.[n]夷Quieres parar un segundo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7001]Oye, podemos coger algunas cosas aqu胤. 夷Quieres[n]parar un segundo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7077]斡Lo tengo![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7380]斡Claro que s胤![n][f 1 6 65535][e]
 
 [msg MSG_008 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7097]Eso estuvo cerca. Supongo que tenemos[n]todo lo que podemos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7097]Eso estuvo cerca. Supongo que tenemos todo[n]lo que podemos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7381]斡Bien![n][f 1 6 65535][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7011]Este lugar no est茨 bien. Algo se siente fuera...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7011]Este lugar no est茨 bien. Algo se siente[n]fuera...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7077]斡Muy bien! 斡Demos todo lo que tenemos![n][f 1 3 65535][f 1 1][e]
@@ -79,10 +79,10 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7068]S胤, probablemente m茨s seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7097]Sali吋 de la nada... Eso fue una locura...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7097]Sali� de la nada... Eso fue una locura...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7010]Se siente bonita Sombr胤as por aqu胤.[n]夷Cu茨l es tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7010]Se siente bonita Sombr胤as por aqu胤. 夷Cu茨l es[n]tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7077]斡Lo tengo![n][f 1 3 65535][f 1 1][e]

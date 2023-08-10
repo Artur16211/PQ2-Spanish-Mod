@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] learned[n][f 0 1 1][f 2 4 1][f 0 1 0]![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT04]
-[f 0 5 65278][f 2 1]Todas las ranuras de habilidad estËå®n[n]actualmente llenas. Por favor, seleccione[n]una habilidad para borrar.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Todas las ranuras de habilidad estËå®n actualmente[n]llenas. Por favor, seleccione una[n]habilidad para borrar.[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT05]
 [f 0 5 65278][f 2 1]Borrar [f 0 1][f 2 4 0][f 0 1 0]?[n][f 1 1][e]
@@ -30,37 +30,37 @@
 [f 0 5 65278][f 2 1]Algo va a suceder a [f 2 4 1]...[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT10]
-[f 0 5 65278][f 2 1][f 2 4 0]Deja un grito agudo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Deja un grito agudo.[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT11]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT11[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT11[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT12]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT12[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT12[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT13]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT13[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT13[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT14]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT14[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT14[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT15]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT15[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT15[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT16]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT16[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT16[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT17]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT17[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT17[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT18]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT18[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT18[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT19]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT19[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT19[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT20]
-[f 0 5 65278][f 2 1]‚ñ† BTLMSGID_RESULT12[n][f 1 1][e]
+[f 0 5 65278][f 2 1]‚ñ BTLMSGID_RESULT12[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT21]
 [f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]Êñ°las ranuras de habilidad aumentaron![n][f 1 1][e]
@@ -69,17 +69,17 @@
 [f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] was reborn[n]as [f 0 1 1][f 2 4 1][f 0 1 0]![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT23]
-[f 0 5 65278][f 2 1]Parece que un potencial oculto ha[n]despertado en [f 0 1][f 2 4 0][f 0 1 0]...![n][f 1 1][e]
+[f 0 5 65278][f 2 1]Parece que un potencial oculto ha despertado[n]en [f 0 1][f 2 4 0][f 0 1 0]...![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT24]
-[f 0 5 65278][f 2 1]AprendiÂêã todas las habilidades de mami MSG.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]AprendiÂê todas las habilidades de mami MSG.[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT25]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]Retenido su forma, pero se ha vuelto mËå®s poderoso![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Retenido su forma, pero se ha vuelto mËå®s[n]poderoso![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT26]
-[f 0 5 65278][f 2 1]Renacer como [f 0 1][f 2 4 0][f 0 1 0] despierta nuevos poderes![n][f 1 1][e]
+[f 0 5 65278][f 2 1]Renacer como [f 0 1][f 2 4 0][f 0 1 0][n]despierta nuevos poderes![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT27]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]Ha sido actualizado![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Ha sido actualizado![n][f 1 1][e]
 

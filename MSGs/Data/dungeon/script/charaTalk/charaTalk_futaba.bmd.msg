@@ -16,10 +16,10 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26562]夷夷Oh? Parece un buen lugar para reunir[n]algunos materiales. 夷Qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26562]夷夷Oh? Parece un buen lugar para reunir algunos[n]materiales. 夷Qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000_1 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26062]夷夷Oh? Parece un buen lugar para reunir[n]algunos materiales. 夷Qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26062]夷夷Oh? Parece un buen lugar para reunir algunos[n]materiales. 夷Qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26572]Suena bien. Ten cuidado.[n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26409]斡Un poco raro![n][f 1 6 65535][e]
 
 [msg MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26410]斡Cari隠o![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26410]斡Cari�o![n][f 1 6 65535][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26615]Es un atajo. 夷Vamos a pasar?[n][f 1 3 65535][f 1 1][e]
@@ -106,10 +106,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26513]Ese Treasure Spot parece peligroso...[n]夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26513]Ese Treasure Spot parece peligroso... 夷Cu茨l[n]es el plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018_1 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26013]Ese Treasure Spot parece peligroso...[n]夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26013]Ese Treasure Spot parece peligroso... 夷Cu茨l[n]es el plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26577]斡Lo tengo! 斡Ten cuidado![n][f 1 3 65535][f 1 1][e]
@@ -118,10 +118,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26077]斡Lo tengo! 斡Ten cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26571]S胤, parece peligroso. Es mejor jugarlo a salvo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26571]S胤, parece peligroso. Es mejor jugarlo a[n]salvo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020_1 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26071]S胤, parece peligroso. Es mejor jugarlo a salvo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26071]S胤, parece peligroso. Es mejor jugarlo a[n]salvo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26514]Maldita sea... Fue dif胤cil. No gracias...[n][f 1 3 65535][f 1 1][e]

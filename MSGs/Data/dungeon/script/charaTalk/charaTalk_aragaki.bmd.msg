@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18001]Parece que podemos reunir cosas aqu胤.[n]夷Cu茨l es tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18001]Parece que podemos reunir cosas aqu胤. 夷Cu茨l[n]es tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0]Lo tengo. Mant姻n los ojos abiertos.[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18110]Tengo un mal presentimiento sobre este[n]lugar... 夷Qu姻 piensas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18110]Tengo un mal presentimiento sobre este lugar...[n]夷Qu姻 piensas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18077]Muy bien. Hag茨moslo.[n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18067]Buena elecci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18097]Eso fue duro. Menos mal que se acab吋...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18097]Eso fue duro. Menos mal que se acab�...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18002]Sensin' Shadows cerca. 夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]

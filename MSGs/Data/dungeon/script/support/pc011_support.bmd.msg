@@ -98,13 +98,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17338]斡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_PARTY_DEAD_1]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_DEAD_2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_DEAD_3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_FOE_WARNING_NEA]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17309]斡Arf![n][f 1 6 65535][e]
@@ -116,22 +116,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17311]斡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_HP10_1]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_HP10_3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_1PERSON_HPTP10_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17312]斡Arf![n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17314]斡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_PARTY_TP10_1]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_TP10_2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_PARTY_TP10_3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_1PERSON_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17315]斡Arf![n][f 1 6 65535][e]
@@ -170,13 +170,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17320]斡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_ITEM_90_BATTLE_]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_ITEM_90_BATTLE__2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_ITEM_90_BATTLE__3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_1PERSON_HP80_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17321]斡Arf![n][f 1 6 65535][e]
@@ -188,22 +188,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17323]斡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_BATTLE_CHANGE_D]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg KOROMARU_BATTLE_CHANGE_D_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg KOROMARU_BATTLE_CHANGE_D_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg KOROMARU_ITEM_90_DUNGEON]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_ITEM_90_DUNGEON_2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_ITEM_90_DUNGEON_3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_DUNGEON_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17360]斡Arf![n][f 1 6 65535][e]
@@ -287,11 +287,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17011]*pant* *pant* *pant*[n][f 1 6 65535][e]
 
 [msg KOROMARU_KARITORU_ENCOUN]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_KARITORU_ENCOUN_2]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg KOROMARU_KARITORU_ENCOUN_3]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 

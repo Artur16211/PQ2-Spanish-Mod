@@ -12,8 +12,8 @@
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 3]夷De qu姻 est茨s hablando? Es lo mismo que[n]siempre aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 12 0 1][f 3 1 1 0 0 4]夷Quiz茨 sea debido a que Marie no est茨 presente?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Est茨 haciendo un peque隠o recados en[n]este momento, pero deber胤a regresar pronto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 12 0 1][f 3 1 1 0 0 4]夷Quiz茨 sea debido a que Marie no est茨[n]presente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Est茨 haciendo un peque�o recados en este[n]momento, pero deber胤a regresar pronto.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Un recados?[f 2 7 1 64 0 32][e]
@@ -21,7 +21,7 @@
 
 [msg MSG_006 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 6]No es nada importante.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Parec胤a bastante aburrida, as胤 que la[n]envi姻 a ayudar a Theo con algunas compras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Parec胤a bastante aburrida, as胤 que la envi姻[n]a ayudar a Theo con algunas compras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007]
 [f 0 5 65278][f 2 1][f 4 6 64 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]...?[n][f 1 3 65535][f 1 1][e]
@@ -34,20 +34,20 @@
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 4]夷Es... algo de papeler胤a?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 2 0 1][f 3 1 1 0 0 10]夷Es de Marie? Ella hace eso de vez en[n]cuando... *chuckle*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 2 0 1][f 3 1 1 0 0 10]夷Es de Marie? Ella hace eso de vez en cuando...[n]*chuckle*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011]
-[f 0 5 65278][f 2 1][f 4 6 64 5 1 0][f 3 1 1 0 0 0]Parece que esta papeler胤a pertenece a Marie...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 5 1 0][f 3 1 1 0 0 0]Parece que esta papeler胤a pertenece a[n]Marie...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Algo ha sido arrasado vigorosamente en 姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 1][f 3 1 1 0 0 0]"A los Insensatos"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 0 0][f 3 1 1 0 0 0]斡Una oportunidad de nacimientos de[n]crisis! 夷Me entiendes[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Odio las probabilidades? 斡As胤[n]funciona! 斡Entr姻gate[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 0 0][f 3 1 1 0 0 0]斡Una oportunidad de nacimientos de crisis![n]夷Me entiendes[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Odio las probabilidades? 斡As胤 funciona![n]斡Entr姻gate[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Dudas? 夷Para qu姻? 夷Por qu姻[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Maldita sea! 斡Maldita sea si no! (DAMN TODO!)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Maldita sea! 斡Maldita sea si no! (DAMN[n]TODO!)[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero... Mejor cu胤date.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Entendido? (L-O-V-E)[n][f 1 3 65535][f 1 1][e]
 
@@ -71,18 +71,18 @@
 [f 0 5 65278][f 2 1][f 4 6 85 8 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷EST威S LISTO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]斡No, lo le胤ste! 斡Est茨 escrito en tu[n]cara! 斡L-I-A-R![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]斡No, lo le胤ste! 斡Est茨 escrito en tu cara![n]斡L-I-A-R![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 8 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 0]夷LO DICES EN SERIO?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡Ese esmirante en tu cara! 斡Lo sab胤a, L-I-A-R![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡Ese esmirante en tu cara! 斡Lo sab胤a,[n]L-I-A-R![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 85 0 2 0][f 3 1 1 0 0 18][f 6 1 2 0 0 10]斡No es lo que piensas! Estas son solo[n]palabras saliendo de mi cabeza. 斡No son[n]poemas ni nada de eso![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 0]夷Por qu姻 est茨s leyendo las cosas de[n]otros? 夷Por qu姻? 夷Para qui姻n?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 16 1 0][f 3 1 1 0 0 20][f 6 1 2 0 0 6]斡Crisis oportunidad de nacimientos![n]斡S胤, mi oportunidad! 斡MINE![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 85 0 2 0][f 3 1 1 0 0 18][f 6 1 2 0 0 10]斡No es lo que piensas! Estas son solo palabras[n]saliendo de mi cabeza. 斡No son poemas[n]ni nada de eso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 0]夷Por qu姻 est茨s leyendo las cosas de otros?[n]夷Por qu姻? 夷Para qui姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 16 1 0][f 3 1 1 0 0 20][f 6 1 2 0 0 6]斡Crisis oportunidad de nacimientos! 斡S胤, mi[n]oportunidad! 斡MINE![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 17 1 0][f 3 1 1 0 0 21]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 22][f 6 1 2 0 0 6]Est雨pidosyheartlessjerkDAMNYOU! 斡Si[n]vuelves a pasar por mis patos, lo lamentar茨s![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 22][f 6 1 2 0 0 6]Est雨pidosyheartlessjerkDAMNYOU! 斡Si vuelves[n]a pasar por mis patos, lo lamentar茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]Marie est茨 brillando...[n][f 1 3 65535][f 1 1][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 4 6 79 6 0 0][f 3 1 1 0 0 25]"Damned if you do..."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 26][f 6 1 2 0 0 6]斡STOOOOOOP! 斡Deja de citar, deja de[n]citar, deja de citar![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 26][f 6 1 2 0 0 6]斡STOOOOOOP! 斡Deja de citar, deja de citar,[n]deja de citar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 75 2 0 6][f 3 1 1 0 0 27]*chuckle*[n][f 1 3 65535][f 1 1][e]
@@ -107,8 +107,8 @@
 [f 0 5 65278][f 2 1][f 4 6 64 8 32 0][f 3 1 1 0 0 0]Parece que no quer胤a que nadie leyera eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Marie]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 29]夷C吋mo termin吋 esto hasta all胤? No entiendo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 29]夷C吋mo termin� esto hasta all胤? No entiendo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi吋 a su lugar habitual,[n]notablemente inestable...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi� a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
 

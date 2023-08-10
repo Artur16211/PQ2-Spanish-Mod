@@ -1,3 +1,5 @@
 config.ini
 AtlusScriptCompiler.log
 /webeditor
+/MSGs/compiled
+/MSGs/setn

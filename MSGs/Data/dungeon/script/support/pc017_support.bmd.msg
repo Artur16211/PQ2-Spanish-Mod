@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23373]夷Qu姻 hacemos con esto?[n][f 1 6 65535][e]
 
 [msg MONA_DENKISAKU_REACTION__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23374]No lo toques, 夷de acuerdo? Esta cosa es peligrosa.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23374]No lo toques, 夷de acuerdo? Esta cosa es[n]peligrosa.[n][f 1 6 65535][e]
 
 [msg MONA_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23375]夷Srowf?[n][f 1 6 65535][e]
@@ -116,22 +116,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23311]No decepciones a tu guardia. 斡Sigue viniendo![n][f 1 6 65535][e]
 
 [msg MONA_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg MONA_1PERSON_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23312]No me cuentes todav胤a... Nngh...[n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23314]Esto es malo...[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MONA_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MONA_1PERSON_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23315]No creo que pueda durar mucho m茨s...[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23318]No creo que pueda ir m茨s lejos...[n][f 1 6 65535][e]
 
 [msg MONA_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23319]Tenemos que asegurarnos de que no lo[n]superemos, 夷vale?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23319]Tenemos que asegurarnos de que no lo superemos,[n]夷vale?[n][f 1 6 65535][e]
 
 [msg MONA_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23320]Esto es bastante dif胤cil...[n][f 1 6 65535][e]
@@ -173,7 +173,7 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg MONA_ITEM_90_BATTLE_2]
-[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg MONA_ITEM_90_BATTLE_3]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23323]Vamos, chicos.[n][f 1 6 65535][e]
 
 [msg MONA_BATTLE_CHANGE_DUNGE]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg MONA_BATTLE_CHANGE_DUNGE_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg MONA_BATTLE_CHANGE_DUNGE_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg MONA_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23352]El mapa est茨 empezando a reunirse.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23353]Finalmente estamos empezando a tener[n]una idea de este lugar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23353]Finalmente estamos empezando a tener una idea[n]de este lugar.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23354]Estamos a mitad de camino.[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23355]Estamos a mitad de camino.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23356]Realmente tendremos que hacerlo contar desde aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23356]Realmente tendremos que hacerlo contar desde[n]aqu胤.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23357]S吋lo un poco m茨s para ir.[n][f 1 6 65535][e]

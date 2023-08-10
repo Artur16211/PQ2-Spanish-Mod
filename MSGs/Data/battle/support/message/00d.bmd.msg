@@ -2,19 +2,19 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13300]Disculpas, pero no podemos retroceder.[n]斡La victoria ser茨 nuestra![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13300]Disculpas, pero no podemos retroceder. 斡La[n]victoria ser茨 nuestra![n][f 1 6 65535][e]
 
 [msg BTL_MES_013_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13301]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13302]Un FOE... El retiro puede ser la mejor[n]opci吋n aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13302]Un FOE... El retiro puede ser la mejor opci吋n[n]aqu胤.[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13303]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13304]Un FOE... Pero este parece bien dentro[n]de nuestros medios.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13304]Un FOE... Pero este parece bien dentro de[n]nuestros medios.[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_006]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13305]斡Es una rara Sombra! 斡No dejes que escape![n][f 1 6 65535][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13310]? Significativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13311]?елититинанитинанитинанитинанитинани[n]нанитенинани наните[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13311]?елититинанитинанитинанитинанитинани нанитенинани[n]наните[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_010]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13312]Alternativamente[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13321]Ненннанниенннаннийнаннинанннинаннный[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13322]Un nuevo enemigo. 斡Mant姻n la calma y[n]encuentra su punto d姻bil![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13322]Un nuevo enemigo. 斡Mant姻n la calma y encuentra[n]su punto d姻bil![n][f 1 6 65535][e]
 
 [msg BTL_MES_013_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13323]< Presionar[n][f 1 6 65535][e]
@@ -89,7 +89,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13406]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_030]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13407]Чнопринанинаннинаннинининыениниениныманипенные..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13407]Чноп�инанинаннинаннинининыениниениныманипенные..[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_031]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13408]Alternativamente..[n][f 1 6 65535][e]
@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13416]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_040]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13417]Alternativamente a la lectura de la p茨gina web[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13417]Alternativamente a la lectura de la p茨gina[n]web[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_041]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13418]Acaso no se sabe nada[n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13341]斡Ahora es mi turno! 斡Prep茨rate![n][f 1 6 65535][e]
 
 [msg BTL_MES_013_054]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13342]Alternativamente... Acaso no hay nada que hacer[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13342]Alternativamente... Acaso no hay nada que[n]hacer[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_055]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13343]Perm胤tanme exponer su debilidad.[n][f 1 6 65535][e]
@@ -170,7 +170,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13344]Un pase de Baton puede servirnos bien.[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13345]Supongo que se llama un espect茨culo de fuerza.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13345]Supongo que se llama un espect茨culo de[n]fuerza.[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13501]斡No[n][f 1 6 65535][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13508]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_066]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13509]■ 声のしししのの の?の?????[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13509]� 声のししし�の の?の?????[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_067]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13510]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13517]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_075]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13518]Нельныхнинаннинанинанинаннинанннинаннинаннннинаннный[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13518]Нельны�нинаннинанинанинаннинанннинаннинаннннинаннный[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_076]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13519]斡No[n][f 1 6 65535][e]
@@ -254,8 +254,8 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13527]Пелиногилилинилинининаниканиениениениениениениелиниениениениениениениениениниениниениени[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_085]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13528]─ La verdad es que no es cierto[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13528]� La verdad es que no es cierto[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13430]Supongo que es hora de ense隠arte de lo[n]que soy capaz.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13430]Supongo que es hora de ense�arte de lo que[n]soy capaz.[n][f 1 6 65535][e]
 

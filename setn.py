@@ -426,6 +426,16 @@ def run_program():
         # Rename the temporary file to the original name
         os.rename(name_file_output + ".tmp", name_file_output)
 
+    # def fix_FemMC(name_file):
+    #     # read the lines of the file
+    #     with open(name_file, 'r', encoding='utf-8-sig', errors='ignore') as f:
+    #         lines = f.readlines()
+    #     # the next line after the line what finish with [P3 Fem Protag]] is the line to modify
+    #     for i in range(len(lines)):
+    #         if lines[i].endswith("[P3 Fem Protag]]\n"):
+    #             lines[i+1] = lines[i+1].replace(
+    #                # replace [f 1 5][f 6 1 28 0 0 0] with
+
     # Delete all files that are not .msg or .bf
     # print("Deleting all files that are not .msg or .bf")
     # for folder in [mod_folder]:

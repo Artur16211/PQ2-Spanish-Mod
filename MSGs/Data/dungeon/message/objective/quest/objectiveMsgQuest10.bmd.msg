@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]斡Prueba pescar![n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-[f 0 5 65278][f 2 1]Encontrar cebo de pescado en alg雨n lugar h雨medo[n][e]
+[f 0 5 65278][f 2 1]Encontrar cebo de pescado en alg雨n lugar[n]h雨medo[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 [f 0 5 65278][f 2 1]Cabeza al lago[n][e]

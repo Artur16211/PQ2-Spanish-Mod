@@ -26,13 +26,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4308]斡Parece que nos escapamos del FOE![n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4369]Voy a necesitar medicamentos para el[n]coraz吋n antes de que esto termine...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4369]Voy a necesitar medicamentos para el coraz吋n[n]antes de que esto termine...[n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4370]Cuidado... Despacio ahora...[n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4371]No estoy de humor para ser visto y[n]perseguido, 夷de acuerdo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4371]No estoy de humor para ser visto y perseguido,[n]夷de acuerdo?[n][f 1 6 65535][e]
 
 [msg CHIE_DENKISAKU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4372]Ser胤a tonto tocar eso.[n][f 1 6 65535][e]
@@ -116,25 +116,25 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4311]夷A雨n nos persigue?[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4312]Por favor, d姻jame parar y comer algo de carne.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4312]Por favor, d姻jame parar y comer algo de[n]carne.[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4313]No puedo seguir...[n][f 1 6 65535][e]
@@ -143,16 +143,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4314]Creo que esto es para m胤...[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg CHIE_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4315]斡No muy confiado por aqu胤! 斡Por favor, curame![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4315]斡No muy confiado por aqu胤! 斡Por favor,[n]curame![n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4316]No puedo seguir...[n][f 1 6 65535][e]
@@ -164,16 +164,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4318]Si tuviera m茨s carne...[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4319]Dispara, 夷podemos tomar un descanso o algo...?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4319]Dispara, 夷podemos tomar un descanso o[n]algo...?[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4320]Esto es muy dif胤cil para m胤... Me[n]recuerda la carne m茨s rica que com胤...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4320]Esto es muy dif胤cil para m胤... Me recuerda[n]la carne m茨s rica que com胤...[n][f 1 6 65535][e]
 
 [msg CHIE_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg CHIE_ITEM_90_BATTLE_2]
-[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg CHIE_ITEM_90_BATTLE_3]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4323]斡Hm! 斡No est茨 mal![n][f 1 6 65535][e]
 
 [msg CHIE_BATTLE_CHANGE_DUNGE]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg CHIE_BATTLE_CHANGE_DUNGE_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg CHIE_BATTLE_CHANGE_DUNGE_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg CHIE_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4343]斡Parece correcto![n][f 1 6 65535][e]
 
 [msg CHIE_MAPPING_ICON_KAIDAN]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4344]Ahora podemos usar nuestros recursos[n]mentales para otras cosas, como la carne.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4344]Ahora podemos usar nuestros recursos mentales[n]para otras cosas, como la carne.[n][f 1 6 65535][e]
 
 [msg CHIE_MAPPING_ICON_KAIDAN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4345]斡S胤, es importante![n][f 1 6 65535][e]

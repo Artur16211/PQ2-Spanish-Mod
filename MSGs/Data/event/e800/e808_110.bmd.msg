@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 3][f 3 1 1 0 0 6128]斡Bienvenido! 斡Lo hiciste genial,[n]Naoto-kun, Futaba-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 1][f 3 1 1 0 0 0]S胤, me impresion吋 mucho tanto la[n]memoria de Futaba como las habilidades de[n]an茨lisis de Shirogane-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 1][f 3 1 1 0 0 0]S胤, me impresion� mucho tanto la[n]memoria de Futaba como las habilidades de[n]an茨lisis de Shirogane-san.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Gracias a ustedes dos, pudimos resolver el crimen.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_002 top]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 26045]斡S胤! 斡Quiz茨 podamos hacer algo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 4][f 3 1 1 0 0 0]*chuckle* Futaba-san eras un gran[n]compa隠ero. Me gustar胤a mucho trabajar contigo de nuevo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 4][f 3 1 1 0 0 0]*chuckle* Futaba-san eras un gran[n]compa�ero. Me gustar胤a mucho trabajar contigo de nuevo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 1][f 3 1 1 0 0 23092]Vamos... Que tengan su momento.[n][f 1 3 65535][f 1 1][e]
@@ -43,7 +43,7 @@
 
 [msg MSG_013 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 2 0 3][f 3 1 1 0 0 28033]Haha. Espero que pueda ayudar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por cierto, lo que vi hoy fue genial.[n]Realmente ayud吋 a ampliar mis horizontes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por cierto, lo que vi hoy fue genial.[n]Realmente ayud� a ampliar mis horizontes.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si alguna vez tenemos la oportunidad,[n]perm胤teme ayudarte, detective Prince.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Naoto]]

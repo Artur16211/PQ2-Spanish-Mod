@@ -1,9 +1,9 @@
 [msg MSG_000 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 3][f 3 1 1 0 0 6570][f 3 1 6 0 0 500][f 6 1 2 0 0 4]夷Est茨n todos listos? 夷Recuerdas la[n]ubicaci吋n del tesoro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 3][f 3 1 1 0 0 6570][f 3 1 6 0 0 500][f 6 1 2 0 0 4]夷Est茨n todos listos? 夷Recuerdas la ubicaci吋n[n]del tesoro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 0]斡Claro que s胤![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esto no es nada. 斡Estaremos all胤 en[n]cualquier momento![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esto no es nada. 斡Estaremos all胤 en cualquier[n]momento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 0][f 3 1 1 0 0 26589][f 3 1 6 0 0 500]夷Oh? 夷Qu姻 es esto?[n][f 1 3 65535][f 1 1][e]
@@ -14,7 +14,7 @@
 
 [msg MSG_004 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 23091]Aficionados.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A veces as胤, debes mantener la calma y[n]buscar una ruta alternativa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A veces as胤, debes mantener la calma y buscar[n]una ruta alternativa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 4 0 0][f 3 1 1 0 0 9036][f 6 1 2 0 0 3]S胤, s胤.[n][f 1 3 65535][f 1 1][e]
@@ -34,15 +34,15 @@
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No, ese era obvio...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 15129]Koromaru-san dijo: "Ya estoy cansado",[n]y usted respondi吋 con, "Yo tambi姻n..."[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 15 10 0 4][f 3 1 1 0 0 0]Joker-san! No sab胤a que pose胤as una[n]funci吋n de traducci吋n tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 15129]Koromaru-san dijo: "Ya estoy cansado", y[n]usted respondi� con, "Yo tambi姻n..."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 10 0 4][f 3 1 1 0 0 0]Joker-san! No sab胤a que pose胤as una funci吋n[n]de traducci吋n tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No creo que estuviera diciendo nada en[n]particular... Espera, 夷s吋lo te has ido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 14 12 100 1][f 3 1 1 0 0 14504][f 3 1 6 0 0 500]Es un camino m茨s largo, pero hay otra[n]ruta hacia el sur.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Dicen que lento y constante gana la[n]carrera. No hay necesidad de correr.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 14 12 100 1][f 3 1 1 0 0 14504][f 3 1 6 0 0 500]Es un camino m茨s largo, pero hay otra ruta[n]hacia el sur.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Dicen que lento y constante gana la carrera.[n]No hay necesidad de correr.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 9121][f 6 1 2 0 0 6]斡Y Teddie toma la delantera! 斡Aqu胤 voy![n][f 1 3 65535][f 1 1][e]

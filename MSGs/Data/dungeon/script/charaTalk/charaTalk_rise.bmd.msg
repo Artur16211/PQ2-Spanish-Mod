@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6568]斡S胤! 斡Mejor seguro que lo siento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6567]S胤, vamos a conseguir todo lo que podemos llevar![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6567]S胤, vamos a conseguir todo lo que podemos[n]llevar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6569]斡Retrocediendo, lo tengo![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6407]斡S胤![n][f 1 6 65535][e]
 
 [msg MSG_008 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0]斡Esa 雨ltima Sombra no sab胤a lo que la[n]golpe吋! Al menos, espero que sea el 雨ltimo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0]斡Esa 雨ltima Sombra no sab胤a lo que la golpe�![n]Al menos, espero que sea el 雨ltimo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6408]斡Una rareza![n][f 1 6 65535][e]
@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0](仮)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6589]No puedo pasar por ah胤. 斡Pero mira el otro lado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6589]No puedo pasar por ah胤. 斡Pero mira el otro[n]lado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
@@ -70,19 +70,19 @@
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6605]斡Espera! 斡Ten cuidado, hay algo muy peligroso ah胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6605]斡Espera! 斡Ten cuidado, hay algo muy peligroso[n]ah胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6619]Muy bien. 斡Har姻 todo lo que pueda para[n]brindar apoyo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6619]Muy bien. 斡Har姻 todo lo que pueda para brindar[n]apoyo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6574]Muy bien, entonces. Retrocede...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6609]夷Est茨n bien? Era una sombra fuerte. 斡Bien hecho![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6609]夷Est茨n bien? Era una sombra fuerte. 斡Bien[n]hecho![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6516]斡Estoy recogiendo m雨ltiples Sombras[n]aqu胤! 斡Si insistes en buscarlo, mantente alerta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6516]斡Estoy recogiendo m雨ltiples Sombras aqu胤![n]斡Si insistes en buscarlo, mantente alerta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 6568]Muy bien, pero por favor ten cuidado![n][f 1 3 65535][f 1 1][e]

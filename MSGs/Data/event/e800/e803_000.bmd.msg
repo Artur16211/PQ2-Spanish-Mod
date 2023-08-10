@@ -2,13 +2,13 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 1][f 3 1 1 0 0 23091]Parece que es un callej吋n sin salida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 22 6 0 1][f 3 1 1 0 0 22109][f 6 1 2 0 0 9]夷Podemos tomar un descanso? Hace mucho[n]calor aqu胤, y tengo tanta sed.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 22 6 0 1][f 3 1 1 0 0 22109][f 6 1 2 0 0 9]夷Podemos tomar un descanso? Hace mucho calor[n]aqu胤, y tengo tanta sed.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28109]Bueno, no es de extra隠ar que est姻[n]caliente. Este lugar fue dise隠ado[n]especialmente para los dinosaurios, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28109]Bueno, no es de extra�ar que est姻 caliente.[n]Este lugar fue dise�ado especialmente[n]para los dinosaurios, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 5 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Est茨s bien, Mona? 夷Tal vez deber胤as quitarte eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 5 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Est茨s bien, Mona? 夷Tal vez deber胤as quitarte[n]eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 23085][f 6 1 2 0 0 6]斡No es un disfraz![n][f 1 3 65535][f 1 1][e]
@@ -51,5 +51,5 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 1 0][f 3 1 1 0 0 21027]斡Mi culpa! Ya voy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "Clash[n]of the Thugs" se ha a隠adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "Clash of the[n]Thugs" se ha a�adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
 
