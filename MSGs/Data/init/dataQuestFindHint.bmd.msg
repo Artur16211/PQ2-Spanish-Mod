@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1]Investigar la Zona 2 de A.I.G.I.S.[n][e]
 
 [msg quest_hint_018]
-[f 0 5 65278][f 2 1]Investigar la planta de laboratorio 2 de[n]A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Investigar la planta de laboratorio 2[n]de A.I.G.I.S.[n][e]
 
 [msg quest_hint_019]
 [f 0 5 65278][f 2 1]Alcance el servidor central en A.I.G.I.S.[n][e]
@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1]※[n][e]
 
 [msg quest_hint_021]
-[f 0 5 65278][f 2 1]Investigar la planta de laboratorio 1 de[n]A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Investigar la planta de laboratorio 1[n]de A.I.G.I.S.[n][e]
 
 [msg quest_hint_022]
-[f 0 5 65278][f 2 1]Investigar la planta de laboratorio 2 de[n]A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Investigar la planta de laboratorio 2[n]de A.I.G.I.S.[n][e]
 
 [msg quest_hint_023]
-[f 0 5 65278][f 2 1]Despu姻s de completar una prueba especial,[n]investigue el piso de laboratorio 2 de[n]A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Despu姻s de completar una prueba[n]especial, investigue el piso de laboratorio 2[n]de A.I.G.I.S.[n][e]
 
 [msg quest_hint_024]
 [f 0 5 65278][f 2 1]Investigar la Ley 2 de [f 6 1 40 0 0].[n][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1]Vayan a la taquilla.[n][e]
 
 [msg quest_hint_028]
-[f 0 5 65278][f 2 1]Despu姻s de completar una selecci吋n especial,[n]dir胤jase a la taquilla.[n][e]
+[f 0 5 65278][f 2 1]Despu姻s de completar una selecci吋n[n]especial, dir胤jase a la taquilla.[n][e]
 
 [msg quest_hint_029]
 [f 0 5 65278][f 2 1]Investigar la Ley 1 de [f 6 1 40 0].[n][e]

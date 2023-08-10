@@ -1,4 +1,4 @@
-[sel OK_SEL top]
+[sel OK top]
 [f 0 5 65278][f 2 1]OK[e]
 
 [sel YESNO_SEL top]
