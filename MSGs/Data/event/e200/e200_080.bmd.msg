@@ -28,23 +28,23 @@
 
 [msg MSG_008 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 10]Oh, tal vez esto es lo que Oracle hab胤a[n]mencionado cuando entramos en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]夷Sabes c吋mo hay m雨ltiples presencias poderosas[n]aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]夷Sabes cómo hay m雨ltiples presencias poderosas[n]aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 8 2 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 12]Hey! 斡Quiz茨s sean mis compa�eros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 8 2 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 12]Hey! 斡Quiz茨s sean mis compañeros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 13]Eso tiene sentido... Si son humanos con[n]poderes fuertes, podr胤a ser correcto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Sin embargo, normalmente, no deber胤a haber[n]humanos en esta pel胤cula. Probablemente[n]sea mejor permanecer cauteloso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 15]Tienes raz吋n. Adem茨s, tengo curiosidad por[n]la parte de alta velocidad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 15]Tienes razón. Adem茨s, tengo curiosidad por[n]la parte de alta velocidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 2 99 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6]Tu curiosidad est茨 a punto de estar satisfecha...[n]斡Se est茨n acercando ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 24 0 0 4][f 3 1 1 0 0 17]Parece que no tenemos tiempo para acabar con[n]esto. Joker, 夷cu茨l es tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 24 0 0 4][f 3 1 1 0 0 17]Parece que no tenemos tiempo para acabar con[n]esto. Joker, 夷cu茨l es tu decisión?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_014 top]
 [f 0 5 65278][f 2 1]Hagamos el primer movimiento.[f 2 7 1 20 0 1][e]

@@ -9,8 +9,8 @@
 [f 0 5 65278][f 2 1][f 4 6 12 10 0 0][f 3 1 1 0 0 12058][f 6 1 2 0 0 0]Whoa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 4][f 3 1 1 0 0 0]C茨lmense, ustedes dos. Primero, tenemos que[n]evaluar la situaci吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 4][f 3 1 1 0 0 0]Vea la orientaci吋n del enemigo. Medir su[n]velocidad, movimientos y posici吋n. Observa,[n]entonces predecir sus acciones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 4][f 3 1 1 0 0 0]C茨lmense, ustedes dos. Primero, tenemos que[n]evaluar la situación.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 4][f 3 1 1 0 0 0]Vea la orientación del enemigo. Medir su[n]velocidad, movimientos y posición. Observa,[n]entonces predecir sus acciones.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de eso, puedes decidir la mejor manera[n]de responder.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akihiko]]

@@ -7,7 +7,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 1 3][f 3 1 1 0 0 0]Son todos tan memorables... como las grandes[n]pel胤culas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Ya es hora de que te tomes un descanso.[n]Disfruta de una proyecci吋n del tipo especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Ya es hora de que te tomes un descanso.[n]Disfruta de una proyección del tipo especial.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Parecer胤a que una sombra mortal ha aparecido[n]en las profundidades de la pel胤cula de[n]Hikari.[n][f 1 3 65535][f 1 1][e]
@@ -31,13 +31,13 @@
 
 [msg MSG_008 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 54056]Ah s胤, [f 6 1 27 0 0].[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Seg雨n el ticket, usted parece ser el miembro[n]de fundici吋n especificado para esta[n]proyecci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Seg雨n el ticket, usted parece ser el miembro[n]de fundición especificado para esta[n]proyección.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19056][f 6 1 2 0 0 0]W-Wait, me!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]De hecho. Por favor aseg雨rate de participar[n]en esta batalla [f 6 1 27 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Indeed so. Please make certain that[n]you participate in this battle,[n][f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11045]斡Lo tienes, dama l胤der![n][f 1 3 65535][f 1 1][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y cuando hayas logrado esta obra con tu[n]habitual aplomo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 54029][f 6 1 2 0 0 7]斡Finalmente, mi tiempo llegar茨...! 斡Oh, la[n]emoci吋n! 斡Mi coraz吋n est茨 golpeando![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 54029][f 6 1 2 0 0 7]斡Finalmente, mi tiempo llegar茨...! 斡Oh, la[n]emoción! 斡Mi corazón est茨 golpeando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 9]She seems kinda distracted, so...[n]we'd better focus on beating that[n]enemy down there.[n][f 1 3 65535][f 1 1][e]

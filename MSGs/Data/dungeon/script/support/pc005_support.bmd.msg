@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5305]夷No es un FOE?[n][f 1 6 65535][e]
 
 [msg YUKIKO_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5306]Parece que nos renunci�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5306]Parece que nos renunció.[n][f 1 6 65535][e]
 
 [msg YUKIKO_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5307]Gracias a Dios que salimos.[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5343]斡Este mapa es muy preciso![n][f 1 6 65535][e]
 
 [msg YUKIKO_MAPPING_ICON_KAID]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5344]Estoy seguro de que ayudar茨 si sabemos d吋nde[n]est茨n las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5344]Estoy seguro de que ayudar茨 si sabemos dónde[n]est茨n las escaleras.[n][f 1 6 65535][e]
 
 [msg YUKIKO_MAPPING_ICON_KAID_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5345]Es bueno marcar puntos de inter姻s.[n][f 1 6 65535][e]

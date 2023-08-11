@@ -5,11 +5,11 @@
 [f 0 5 65278][f 2 1][f 4 6 71 4 1 0][f 3 1 1 0 0 0]Vaya. Me preocupo por mi piel todo el tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 0 0][f 3 1 1 0 0 0]Tambi姻n he estado buscando ayunar. 夷D吋nde[n]vas un per胤odo de tiempo sin comer nada?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 0 0][f 3 1 1 0 0 0]Tambi姻n he estado buscando ayunar. 夷Dónde[n]vas un per胤odo de tiempo sin comer nada?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Escuch姻 que muchos modelos y actrices lo[n]hacen en el extranjero, as胤 que me gustar胤a[n]probarlo cuando sea un poco mayor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4066][f 6 1 2 0 0 9]夷F-Fasting? S吋lo pensar en ello me hace[n]sentir... Nunca podr胤a hacer eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4066][f 6 1 2 0 0 9]夷F-Fasting? Sólo pensar en ello me hace[n]sentir... Nunca podr胤a hacer eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si es piel suave que quieres, siempre puedes[n]usar los manantiales calientes en la[n]posada de mi familia. Eso funciona muy[n]bien.[n][f 1 3 65535][f 1 1][e]
@@ -28,14 +28,14 @@
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 0][f 3 1 1 0 0 0]Ya veo. Eso es desafortunado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 4][f 3 1 1 0 0 9002][f 6 1 2 0 0 4]斡Hola, se�oritas! 夷De qu姻 estamos hablando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 4][f 3 1 1 0 0 9002][f 6 1 2 0 0 4]斡Hola, señoritas! 夷De qu姻 estamos hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 8 1 1][f 3 1 1 0 0 0]夷Eh? 斡No me digas! Es una charla de chicas...[n]S吋lo bromeaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 8 1 1][f 3 1 1 0 0 0]夷Eh? 斡No me digas! Es una charla de chicas...[n]Sólo bromeaba.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 6 1 0 0][f 4 6 9 10 0 0][f 3 1 1 0 0 9058][f 6 1 2 0 0 6]夷Hablar con chicas? 斡Escuch姻 sobre esto de[n]Yosuke![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Dijo que es un refugio secreto donde las[n]chicas comparten sus pensamientos sobre el[n]amor, la infatuaci吋n y el romance![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Dijo que es un refugio secreto donde las[n]chicas comparten sus pensamientos sobre el[n]amor, la infatuación y el romance![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0]Eso es b茨sicamente lo mismo. 夷Qu姻 demonios[n]te ha dicho Yosuke?[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero no soy tan bonita como una chica? Eso[n]deber胤a ser suficiente... 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 8 1 1][f 3 1 1 0 0 0]斡Eso no es lo mismo! S吋lo las chicas pueden[n]hablar con chicas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 8 1 1][f 3 1 1 0 0 0]斡Eso no es lo mismo! Sólo las chicas pueden[n]hablar con chicas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, supongo que puedes unirte esta vez.[n]Est茨bamos hablando de belleza y cuidado[n]de la piel.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Teddie]]
@@ -84,5 +84,5 @@
 [f 0 5 65278][f 2 1][f 4 6 9 4 0 0][f 3 1 1 0 0 9107][f 6 1 2 0 0 6]Rrrrraaahh, desaf胤o aceptado! 斡Te mostrar姻[n]mi poder femenino![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "El Secreto[n]a la Belleza" se ha a�adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "El Secreto[n]a la Belleza" se ha añadido a la taquilla.[n][f 1 3 65535][f 1 1][e]
 

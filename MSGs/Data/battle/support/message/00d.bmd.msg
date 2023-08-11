@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13301]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13302]Un FOE... El retiro puede ser la mejor opci吋n[n]aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13302]Un FOE... El retiro puede ser la mejor opción[n]aqu胤.[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13303]- 夷Qu姻[n][f 1 6 65535][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13312]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13320]Este parece poderoso... 夷C吋mo procederemos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13320]Este parece poderoso... 夷Cómo procederemos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13321]Ненннанниенннаннийнаннинанннинаннный[n][f 1 6 65535][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13326]斡Los pudriremos aqu胤 y ahora![n][f 1 6 65535][e]
 
 [msg BTL_MES_013_018]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13327]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13327]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_019]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13328]夷Qu姻...? 夷Ha cambiado esa Sombra?[n][f 1 6 65535][e]
@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13410]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_034]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13411]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13411]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_035]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13412]斡Comprando[n][f 1 6 65535][e]
@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13415]の?[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_039]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13416]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13416]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_040]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13417]Alternativamente a la lectura de la p茨gina[n]web[n][f 1 6 65535][e]
@@ -191,22 +191,22 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13506]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_064]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13507]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13507]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13508]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13508]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_066]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13509]� 声のししし�の の?の?????[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_067]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13510]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13510]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_068]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13511]ANTERIORACI遺N DE LOS RESPECTOS, [n][f 1 6 65535][e]
 
 [msg BTL_MES_013_069]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13512]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13512]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_070]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13513]Alternativamente[n][f 1 6 65535][e]
@@ -215,7 +215,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13514]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_072]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13515]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13515]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_073]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13516]斡No[n][f 1 6 65535][e]
@@ -230,16 +230,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13519]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_077]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13520]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13520]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_078]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13521]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_079]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13522]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13522]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_080]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13523]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13523]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_081]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13524]- No[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 13528]� La verdad es que no es cierto[n][f 1 6 65535][e]
 
 [msg BTL_MES_013_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 13430]Supongo que es hora de ense�arte de lo que[n]soy capaz.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 13430]Supongo que es hora de enseñarte de lo que[n]soy capaz.[n][f 1 6 65535][e]
 

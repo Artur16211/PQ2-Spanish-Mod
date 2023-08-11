@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 10 0 1][f 3 1 1 0 0 21048][f 6 1 2 0 0 0]Wow... 夷Esto es real? En serio entramos en[n]la pel胤cula...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷C吋mo deber胤amos proceder de aqu胤? No ser胤a[n]prudente pasear sin rumbo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷Cómo deber胤amos proceder de aqu胤? No ser胤a[n]prudente pasear sin rumbo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 3][f 3 1 1 0 0 22018][f 6 1 2 0 0 4]夷Qu姻 es ese ruido?[n][f 1 3 65535][f 1 1][e]
@@ -20,14 +20,14 @@
 [f 0 5 65278][f 2 1][f 4 6 26 10 100 1][f 3 1 1 0 0 26572][f 6 1 2 0 0 6][f 3 1 6 0 0 500]斡Ah! Me alegra escucharlos. 斡Parece que est茨n[n]bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Espera, 夷por qu姻 tienes puesto tu traje ladr吋n[n]fantasma tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Espera, 夷por qu姻 tienes puesto tu traje ladrón[n]fantasma tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007_1 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]Emm... Todo lo que s姻 es que mi ropa cambi吋[n]en el momento en que ustedes entraron a[n]la pel胤cula.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 3]夷C吋mo funciona toda esta locura?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]Emm... Todo lo que s姻 es que mi ropa cambió[n]en el momento en que ustedes entraron a[n]la pel胤cula.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 3]夷Cómo funciona toda esta locura?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007_2 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es s吋lo el Metaverso.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es sólo el Metaverso.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]No lo s姻.[f 2 7 1 20 6 32][e]
 
 [msg MSG_007_3 [Futaba]]
@@ -40,8 +40,8 @@
 
 [msg MSG_008 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 99 0][f 3 1 1 0 0 26513][f 6 1 2 0 0 3]No. Ya lo intent姻.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso ahora, puedo decir d吋nde est茨n, pero[n]eso es todo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1]Tampoco puedo ver d吋nde est茨n Queen o Noir.[n]Lo siento...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso ahora, puedo decir dónde est茨n, pero[n]eso es todo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1]Tampoco puedo ver dónde est茨n Queen o Noir.[n]Lo siento...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 0]Muy bien, tendremos que buscarlos.[n][f 1 3 65535][f 1 1][e]

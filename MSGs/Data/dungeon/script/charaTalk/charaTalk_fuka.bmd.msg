@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14557]斡Espera, espera! 斡Estoy captando la se�al de[n]algo realmente vicioso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14557]斡Espera, espera! 斡Estoy captando la señal de[n]algo realmente vicioso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Esta bien... qu姻date a salvo![n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14540]Eso estuvo cerca... 夷Est茨n todos bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Estoy detectando sombras en la zona![n]斡Atenci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Estoy detectando sombras en la zona![n]斡Atención![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14567]斡Est茨 bien! 斡Puedes contar conmigo![n][f 1 3 65535][f 1 1][e]

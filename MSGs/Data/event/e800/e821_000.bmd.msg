@@ -11,7 +11,7 @@
 
 [msg MSG_003 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 7 1 0][f 3 1 1 0 0 0]Como estoy seguro de que ya has adivinado...[n]Tengo mucha hambre...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Casi me muero de la cola de Mona porque[n]parec胤a un anguila... 斡Mi est吋mago est茨[n]vac胤o![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Casi me muero de la cola de Mona porque[n]parec胤a un anguila... 斡Mi estómago est茨[n]vac胤o![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12110][f 6 1 2 0 0 4]夷Qu姻 pasa, Fox? 夷Te sientes enfermo o algo[n]as胤?[n][f 1 3 65535][f 1 1][e]
@@ -28,11 +28,11 @@
 [f 0 5 65278][f 2 1][f 4 6 24 10 0 0][f 3 1 1 0 0 24063][f 6 1 2 0 0 6]斡Ahh! 斡Esto es...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 4 0][f 4 6 12 6 1 0][f 3 1 1 0 0 12030]斡Una barra de prote胤nas! No s吋lo es saludable,[n]pero tambi姻n es f茨cil de comer.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 4 0][f 4 6 12 6 1 0][f 3 1 1 0 0 12030]斡Una barra de prote胤nas! No sólo es saludable,[n]pero tambi姻n es f茨cil de comer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 7 1 0][f 3 1 1 0 0 12003]Para mantenerse en forma, tiene que estar[n]seguro de hacer ejercicio y obtener mucha[n]nutrici吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puedes ejercitar todo lo que quieras, pero[n]sin nutrici吋n, no tiene sentido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 7 1 0][f 3 1 1 0 0 12003]Para mantenerse en forma, tiene que estar[n]seguro de hacer ejercicio y obtener mucha[n]nutrición.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puedes ejercitar todo lo que quieras, pero[n]sin nutrición, no tiene sentido.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 6][f 3 1 1 0 0 12130]斡Por eso tienes que tomar prote胤nas![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es mejor tomarlo aproximadamente 45 minutos[n]despu姻s de que trabajes, as胤 que llevo...[n][f 1 3 65535][f 1 1][e]
 
@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12032]Ha pasado tanto tiempo desde que com胤 algo[n]hecho por ti. Me pregunto qu姻 deber胤amos[n]hacer...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18112][f 6 1 2 0 0 9]夷C吋mo es que est茨s llamando a los disparos[n]aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18112][f 6 1 2 0 0 9]夷Cómo es que est茨s llamando a los disparos[n]aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 4 0 0][f 3 1 1 0 0 12031][f 6 1 2 0 0 6]夷A qui姻n le importan los detalles?[n][f 1 3 65535][f 1 1][e]
@@ -99,5 +99,5 @@
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 0]De cualquier manera, no puedo hacer nada[n]hasta que consigas esos ingredientes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "El precio de[n]una comida gratis" se ha a�adido a la[n]taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "El precio de[n]una comida gratis" se ha añadido a la[n]taquilla.[n][f 1 3 65535][f 1 1][e]
 

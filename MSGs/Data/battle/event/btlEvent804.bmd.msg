@@ -2,10 +2,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 201][f 6 1 1 0 0 1][f 6 1 2 0 0 6][f 6 1 3 0 0 2]GRUUUUUUUAAAAH...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000_5 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 10 0 8][f 3 1 3 0 0 202]夷Se transform�? 夷Puede realmente hacer eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 10 0 8][f 3 1 3 0 0 202]夷Se transformó? 夷Puede realmente hacer eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000_7 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 2 1 7][f 1 5][f 6 1 13 0 0 0]��Ngh... Parece que terminamos de hablar de[n]esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 2 1 7][f 1 5][f 6 1 13 0 0 0]��[n][f 3 1 3 0 0 203]Ngh... Parece que terminamos de hablar de[n]esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 8][f 3 1 3 0 0 204]Has renunciado a todos tus propios pensamientos...[n]夷Es as胤 como quieres vivir?[n][f 1 3 65535][f 1 1][e]
@@ -14,13 +14,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 205][f 6 1 3 0 0 2]斡C茨llate, c茨llate! Si no hago esto... Yo...[n]yo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001_5 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 206][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 2]No tengo opci吋n... 斡pero sacarte![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 206][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 2]No tengo opción... 斡pero sacarte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 8][f 3 1 3 0 0 207][f 6 1 2 0 0 6]斡Maldita sea, se ha ido completamente loco![n]斡Sal de ah胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_5 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 2 1 7][f 1 5][f 6 1 13 0 0 0]��斡Todos, listos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 2 1 7][f 1 5][f 6 1 13 0 0 0]��[n][f 3 1 3 0 0 208]斡Todos, listos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 209][f 6 1 3 0 0 2]No puedo...[n][f 1 3 65535][f 1 1][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 210]夷Qu姻? No puedes salir de esto ahora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Enorme Herb胤voro]]
-[f 0 5 65278][f 2 1][f 4 6 48 0 1 0][f 3 1 3 0 0 211]La mayor胤a ha hablado - o, 夷preferir胤as ser[n]expulsado del reba�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 48 0 1 0][f 3 1 3 0 0 211]La mayor胤a ha hablado - o, 夷preferir胤as ser[n]expulsado del rebaño?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 212][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 2]No... 斡No quiero que me echen![n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 90 0 1 3][f 3 1 3 0 0 217][f 6 1 2 0 0 10]Eh, eh... Si sigue as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Enorme Herb胤voro]]
-[f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 3 0 0 218][f 6 1 2 0 0 6]Quieres quedarte con el reba�o, 夷verdad?[n]斡Entonces ser茨 mejor que lo pruebes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 3 0 0 218][f 6 1 2 0 0 6]Quieres quedarte con el rebaño, 夷verdad?[n]斡Entonces ser茨 mejor que lo pruebes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 219][f 6 1 2 0 0 0][f 6 1 3 0 0 2]斡Aaaaargh! 斡Bien! Lo har姻... Eso es lo que[n]quieres, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 1][f 3 1 3 0 0 228]... 斡Hazlo ya![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 10 0 7][f 3 1 1 0 0 27051][f 3 1 1 0 0 0]Parece que s吋lo est茨 luchando por los[n]dinosaurios detr茨s de 姻l...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 10 0 7][f 3 1 1 0 0 27051][f 3 1 1 0 0 0]Parece que sólo est茨 luchando por los[n]dinosaurios detr茨s de 姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 8][f 3 1 1 0 0 0]斡Maldita sea, esto es terrible! 夷Qu姻 vamos[n]a hacer?[n][f 1 3 65535][f 1 1][e]

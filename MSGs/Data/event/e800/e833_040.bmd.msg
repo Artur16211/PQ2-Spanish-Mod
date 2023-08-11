@@ -10,7 +10,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11030][f 6 1 2 0 0 7]斡Hahah! Mira, hay un tipo que sabe la calidad[n]cuando lo ve. Buen trabajo, Junpei.[n]Gracias. 斡Junpei![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0]Y se quejaba mucho antes... Seguro que[n]rebot�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0]Y se quejaba mucho antes... Seguro que[n]rebotó.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11020][f 6 1 2 0 0 4]夷Oh? 夷Ahora me estoy volviendo demasiado[n]predecible? 夷Quieres que pruebe un poco de[n]ropa interior?[n][f 1 3 65535][f 1 1][e]
@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0]No, no creo que necesites. Ese tipo de sonidos[n]como tu vida ya.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]*Grecha* 斡Me alegro de que te est姻s divirtiendo[n]ahora! S吋lo hay un lugar m茨s para[n]buscar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]*Grecha* 斡Me alegro de que te est姻s divirtiendo[n]ahora! Sólo hay un lugar m茨s para[n]buscar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 0]斡Heh! Tenemos a Joker dirigiendo el camino.[n]Esto deber胤a ser f茨cil.[n][f 1 3 65535][f 1 1][e]

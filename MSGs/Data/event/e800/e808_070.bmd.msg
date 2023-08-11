@@ -38,14 +38,14 @@
 [f 0 5 65278][f 2 1]Estoy bien.[f 2 7 1 20 6 32][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 0]斡Roger! Preste atenci吋n ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 0]斡Roger! Preste atención ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 1][f 6 1 2 0 0 6][f 3 1 1 0 0 26070]斡Est茨 bien! 斡A la fase de pensamiento![n]斡Ll姻venselo, detective![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8114]El punto principal es que s吋lo uno de ellos[n]est茨 mintiendo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Necesitamos comparar estos testimonios y[n]destacar a cualquier sospechoso que viole[n]nuestra regla de que "hay s吋lo un[n]mentiroso"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8114]El punto principal es que sólo uno de ellos[n]est茨 mintiendo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Necesitamos comparar estos testimonios y[n]destacar a cualquier sospechoso que viole[n]nuestra regla de que "hay sólo un[n]mentiroso"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por lo tanto, simplemente necesitamos probar[n]qu姻 testimonio es nuestra 雨nica mentira,[n]y ver si los testimonios restantes son[n]verdaderos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
@@ -90,5 +90,5 @@
 
 [msg MSG_024 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8122]Muy bien, vamos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si tienes raz吋n, probablemente nos encontraremos[n]con una pelea. Aseg雨rate de que[n]estemos listos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si tienes razón, probablemente nos encontraremos[n]con una pelea. Aseg雨rate de que[n]estemos listos.[n][f 1 3 65535][f 1 1][e]
 

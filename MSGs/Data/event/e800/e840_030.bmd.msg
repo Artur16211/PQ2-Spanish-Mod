@@ -22,9 +22,9 @@
 
 [msg MSG_007 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 61151]Estoy bien.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tengo una extra�a sensaci吋n aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 6 0 1][f 3 1 1 0 0 0]Es extra�o, extra�o... Y aterrador.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero por alguna raz吋n, estoy c吋modo aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tengo una extraña sensación aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 0 1][f 3 1 1 0 0 0]Es extraño, extraño... Y aterrador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero por alguna razón, estoy cómodo aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3]Bueno, es tu pel胤cula.[f 2 7 1 20 0 32][e]

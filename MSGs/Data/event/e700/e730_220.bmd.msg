@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35014]CLARO, PUEDO SERVIR COMO UN IDIOTA...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 26135][f 6 1 2 0 0 6]斡No hay escudos vivos! 斡Nadie te pidi� que[n]hicieras eso! S胤guenos, 夷vale?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 26135][f 6 1 2 0 0 6]斡No hay escudos vivos! 斡Nadie te pidió que[n]hicieras eso! S胤guenos, 夷vale?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Robot Con Cinta]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35007]PERO...[n][f 1 3 65535][f 1 1][e]
@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 3][f 3 1 1 0 0 0]No tengo idea de si habr胤a o no alg雨n efecto[n]malo para ella...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 1][f 3 1 1 0 0 26009]La maquinaria de precisi吋n es muy delicada.[n]No deber胤amos traerla a ning雨n escenario[n]para el que no est姻 dise�ada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 1][f 3 1 1 0 0 26009]La maquinaria de precisión es muy delicada.[n]No deber胤amos traerla a ning雨n escenario[n]para el que no est姻 diseñada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos tratar de esconderla en alguna[n]parte? 夷Y si la atraparon esos robots de[n]seguridad?[n][f 1 3 65535][f 1 1][e]
@@ -58,14 +58,14 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 3][f 3 1 1 0 0 24047]夷Oh? Suena 雨til. Entonces, seguir姻 adelante[n]y activar姻..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oye! 斡No vayas con su configuraci吋n sin su[n]permiso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oye! 斡No vayas con su configuración sin su[n]permiso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 12 0 3][f 3 1 1 0 0 25009]Incluso si eres capaz de evitar sus sensores,[n]me preocupa dejarte aqu胤 al[n]descubierto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 no te cubres en alg雨n lugar antes[n]de hacer el modo de sue�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 no te cubres en alg雨n lugar antes[n]de hacer el modo de sueño?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1066]I agree. That definitely sounds like it[n]would be safer.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, nuestro pr吋ximo objetivo es encontrar[n]a los miembros restantes de SEES.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, nuestro próximo objetivo es encontrar[n]a los miembros restantes de SEES.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 0]斡Vamos![n][f 1 3 65535][f 1 1][e]
 

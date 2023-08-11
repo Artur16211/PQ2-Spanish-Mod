@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 87 2 1 1][f 3 1 1 0 0 1]Tus acciones son in雨tiles. Eres incapaz de[n]derrotarme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 4 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 6]斡No! Su velocidad de procesamiento es demasiado[n]r茨pida... 斡Se mantiene inmediatamente[n]reescribiendo su codificaci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 4 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 6]斡No! Su velocidad de procesamiento es demasiado[n]r茨pida... 斡Se mantiene inmediatamente[n]reescribiendo su codificación![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 2 0 0 10]斡Tambi姻n estamos tan cerca![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ribbon]]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]MI MEMORIA ES... AH... NO... YO... YO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Madre Computadora]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 11]夷C吋mo te sientes ahora, UIY-2249?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 11]夷Cómo te sientes ahora, UIY-2249?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12][f 6 1 3 0 0 1]Todo su sufrimiento se debe a su[n]individualidad.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 1]Discuta esta irregularidad.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 3 0 0 1][f 6 1 2 0 0 6]Todo lo que debes hacer es dejar de pensar,[n]emular a los dem茨s a tu alrededor, y[n]seguir trabajando para toda la eternidad![n][f 1 3 65535][f 1 1][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 2 4 0][f 3 1 1 0 0 20][f 6 1 2 0 0 4]MI... 夷OPORTUNIDAD?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Madre Computadora]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 21]Eso es correcto. Usted debe ense�ar esto a[n]esas irregularidades tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 21]Eso es correcto. Usted debe enseñar esto a[n]esas irregularidades tambi姻n.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 3 0 0 1]Discutir la individualidad es alcanzar la[n]felicidad, esa es la norma de la sociedad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ribbon]]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 14 1 6][f 3 1 1 0 0 30][f 6 1 2 0 0 6]Ribbon, 斡no lo escuches! 斡Tus sentimientos[n]no son un error![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 8 1 6][f 3 1 1 0 0 31]斡Tiene raz吋n! As胤 es como te sientes... 斡Es[n]tu propio coraz吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 8 1 6][f 3 1 1 0 0 31]斡Tiene razón! As胤 es como te sientes... 斡Es[n]tu propio corazón![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡La cinta que amaba las flores y acariciando[n]a Koromaru, eso es lo que realmente[n]eres![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ribbon]]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 8 1 1][f 3 1 1 0 0 37][f 6 1 2 0 0 0]Oracle?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 6]Yo... Me gusta c吋mo est茨s ahora, Ribbon. 斡Por[n]eso deber胤as quedarte as胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 6]Yo... Me gusta cómo est茨s ahora, Ribbon. 斡Por[n]eso deber胤as quedarte as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷C遺MO ESTOY AHORA?[n][f 1 3 65535][f 1 1][e]
@@ -174,8 +174,8 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 71][f 6 1 2 0 0 6][f 6 1 3 0 0 3]Estar姻 satisfecho... Ggg... 斡As胤 es como...[n]realmente soy![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Madre Computadora]]
-[f 0 5 65278][f 2 1][f 4 6 87 2 1 1][f 3 1 1 0 0 72]Nghhh... Ggg... Esto... Mi funci吋n de[n]recuperaci吋n... es...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 73][f 6 1 2 0 0 6]夷C吋mo te atreves? 斡T雨 no eres nada, pero una[n]irreligencia![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 87 2 1 1][f 3 1 1 0 0 72]Nghhh... Ggg... Esto... Mi función de[n]recuperación... es...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 73][f 6 1 2 0 0 6]夷Cómo te atreves? 斡T雨 no eres nada, pero una[n]irreligencia![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 74][f 6 1 3 0 0 3]Gggg...gg...[n][f 1 3 65535][f 1 1][e]
@@ -195,7 +195,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 0 4 0][f 3 1 1 0 0 78][f 6 1 2 0 0 6]Definitivamente ayudaremos a crear el mundo[n]que Ribbon quiere![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 4 99 6][f 3 1 1 0 0 79]Ribbon-chan detuvo la funci吋n de recuperaci吋n[n]autom茨tica de la computadora madre![n]斡Ahora es tu oportunidad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 4 99 6][f 3 1 1 0 0 79]Ribbon-chan detuvo la función de recuperación[n]autom茨tica de la computadora madre![n]斡Ahora es tu oportunidad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 0][f 3 1 1 0 0 80][f 6 1 2 0 0 6]斡Todos, listos![n][f 1 3 65535][f 1 1][e]

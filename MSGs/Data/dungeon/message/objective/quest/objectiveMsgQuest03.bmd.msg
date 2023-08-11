@@ -8,5 +8,5 @@
 [f 0 5 65278][f 2 1]Compruebe los 2 lugares restantes[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-[f 0 5 65278][f 2 1]Compruebe la 雨ltima ubicaci吋n[n][e]
+[f 0 5 65278][f 2 1]Compruebe la 雨ltima ubicación[n][e]
 

@@ -48,7 +48,7 @@
 
 [msg MSG_015 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 19][f 6 1 2 0 0 6]S胤. 斡Lo sabes![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 20]Tengo galletas, chocolate y un mont吋n de[n]palomitas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 20]Tengo galletas, chocolate y un montón de[n]palomitas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]Nunca te tom姻 por el tipo de palomitas,[n]Yuka-tan.[n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 3 1 1 0 0 31]Pero, me pregunto... Siento que he estado[n]deseando verlos por mucho tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 32][f 6 1 2 0 0 4]夷Tuviste un mal sue�o o algo as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 32][f 6 1 2 0 0 4]夷Tuviste un mal sueño o algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 33]Umm, I don't think that's it...[n][f 1 3 65535][f 1 1][e]
@@ -95,10 +95,10 @@
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]Nuestro Jefe nos ha dado la luz verde para[n]hacerlo. 斡Vamos, chica![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 13 12 0 6][f 3 1 1 0 0 37][f 6 1 2 0 0 4]...me he estado preguntando esto desde hace[n]bastante tiempo, pero 夷d吋nde en el mundo[n]aprendes tal lenguaje?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 13 12 0 6][f 3 1 1 0 0 37][f 6 1 2 0 0 4]...me he estado preguntando esto desde hace[n]bastante tiempo, pero 夷dónde en el mundo[n]aprendes tal lenguaje?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 16 0 0 1][f 3 1 1 0 0 38]Lo ver茨s con nosotros, 夷verdad? Es una pel胤cula[n]de ciencia ficci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 16 0 0 1][f 3 1 1 0 0 38]Lo ver茨s con nosotros, 夷verdad? Es una pel胤cula[n]de ciencia ficción.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 39][f 6 1 2 0 0 4]Watch a movie? A... sci-fi movie?[n][f 1 3 65535][f 1 1][e]

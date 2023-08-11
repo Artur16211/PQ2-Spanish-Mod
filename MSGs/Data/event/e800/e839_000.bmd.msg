@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11067][f 6 1 2 0 0 7]No te pongas as胤 en Hikari-chan; ella no[n]quer胤a ser una carga. 斡Pero ella no sabe[n]que esto es f茨cil para nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 10 0 0 0][f 3 1 1 0 0 0]夷C吋mo lo sabes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 10 0 0 0][f 3 1 1 0 0 0]夷Cómo lo sabes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Porque soy yo, el mejor t胤o de SEES, justo[n]delante de tu ojo! 夷No ves la grandeza[n]de SEES?[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Pero te echar姻 de menos, Yuka-tan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 3][f 4 6 3 12 0 1][f 3 1 1 0 0 3109][f 6 1 2 0 0 6]Descansa. 斡Y no olvides que el Equipo de[n]Investigaci吋n est茨 aqu胤 tambi姻n! 夷Verdad,[n]compa�ero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 3][f 4 6 3 12 0 1][f 3 1 1 0 0 3109][f 6 1 2 0 0 6]Descansa. 斡Y no olvides que el Equipo de[n]Investigación est茨 aqu胤 tambi姻n! 夷Verdad,[n]compañero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 2 0 4][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]That's right. We're the ones Hikari can[n]really rely on.[n][f 1 3 65535][f 1 1][e]
@@ -69,10 +69,10 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 11029][f 6 1 2 0 0 7]斡Y tienes a este tipo, el mejor que SEES haya[n]visto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Puedes contar conmigo para navegar. Y con[n]Fuuka y Rise, 斡tienes una s吋lida base de[n]apoyo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Puedes contar conmigo para navegar. Y con[n]Fuuka y Rise, 斡tienes una sólida base de[n]apoyo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 65 6 0 1][f 3 1 1 0 0 21091][f 6 1 2 0 0 9]Vamos, no seas un llor吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 65 6 0 1][f 3 1 1 0 0 21091][f 6 1 2 0 0 9]Vamos, no seas un llorón.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 0]Con todos nosotros juntos, somos pr茨cticamente[n]invencibles. Nada puede interponerse[n]en nuestro camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Morgana]]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3068][f 6 1 2 0 0 6]斡S胤, d姻janoslo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Y espero que vea que SEES acepta s吋lo lo[n]mejor![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Y espero que vea que SEES acepta sólo lo[n]mejor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No lo s姻, he o胤do que ha habido un cambio de[n]mar en los est茨ndares de SEES. A diferencia[n]de nosotros, los navegantes, por[n]supuesto.[n][f 1 3 65535][f 1 1][e]
@@ -99,5 +99,5 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 70 2 0 1][f 3 1 1 0 0 26127][f 6 1 2 0 0 6]Ah胤 lo tienes, [f 6 1 30 0 0]. 斡Contamos con[n]su liderazgo cuando llegue el momento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "La Forma de[n]los Huesos" se ha a�adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "La Forma de[n]los Huesos" se ha añadido a la taquilla.[n][f 1 3 65535][f 1 1][e]
 

@@ -65,13 +65,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24330]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 24331]Una situaci吋n desafortunada...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 24331]Una situación desafortunada...[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24332]♪♪[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_024]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 24401]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 24401]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_025]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24402]Acaso se trata de una nueva manera... 斡No[n][f 1 6 65535][e]
@@ -182,7 +182,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24503]斡Rescribir[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_061]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 24504]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 24504]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_062]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24505]Alternativamente[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24521]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_079]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 24522]< imitaci吋n, contrase�a[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 24522]< imitación, contraseña[n][f 1 6 65535][e]
 
 [msg BTL_MES_024_080]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 24523]Alternativamente[n][f 1 6 65535][e]

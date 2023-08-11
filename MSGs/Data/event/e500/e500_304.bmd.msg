@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 4 0 7][f 3 1 1 0 0 7][f 6 1 2 0 0 6]Grrrrrr...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 8][f 3 1 1 0 0 8]As胤 que lo que vemos aqu胤 es la versi吋n[n]distorsionada de la pel胤cula, 夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 8][f 3 1 1 0 0 8]As胤 que lo que vemos aqu胤 es la versión[n]distorsionada de la pel胤cula, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 6 0 7][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 9][f 6 1 2 0 0 3]That would mean the consciousness[n]of the people in the theaters is still[n]distorted...[n][f 1 3 65535][f 1 1][e]
@@ -42,7 +42,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15]Los protagonistas en las pel胤culas que quiero[n]ver siempre vuelven a sus pies, sin[n]importar lo lastimados que terminen.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Doe]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 3 0 0 2]夷No es esto lo que quer胤as? 夷M茨s que nadie[n]m茨s? S吋lo mira y pronto estar茨s a gusto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 3 0 0 2]夷No es esto lo que quer胤as? 夷M茨s que nadie[n]m茨s? Sólo mira y pronto estar茨s a gusto.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_014 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Eso es evitar la realidad.[f 2 7 1 20 0 32][e]
@@ -53,7 +53,7 @@
 
 [msg MSG_016 [Doe]]
 [f 0 5 65278][f 2 1][f 4 6 88 2 0 9][f 3 1 1 0 0 18][f 6 1 1 0 0 1]Ngh... Nngh... Gggghhhh...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 1 0 0 1]Si s吋lo... no estaban todos aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 1 0 0 1]Si sólo... no estaban todos aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 1 7][f 3 1 1 0 0 20][f 6 1 2 0 0 6]斡Prep茨rate! 斡Aqu胤 viene![n][f 1 3 65535][f 1 1][e]

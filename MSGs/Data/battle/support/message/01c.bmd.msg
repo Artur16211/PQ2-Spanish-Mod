@@ -164,10 +164,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28342]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28343]Una sombra con esa debilidad... S吋lo d姻jame[n]ocuparme de ello.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28343]Una sombra con esa debilidad... Sólo d姻jame[n]ocuparme de ello.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_056]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28344]夷Intentamos pasar el bast吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28344]夷Intentamos pasar el bastón?[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_057]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28345]Parece que lo hacemos f茨cil con nosotros[n]mismos apuntando a su debilidad.[n][f 1 6 65535][e]

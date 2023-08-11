@@ -20,11 +20,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que termino jodiendo de vuelta al[n]dormitorio, empapado en sudor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18097][f 6 1 2 0 0 9]Maldici吋n. Aki, eres un dolor en el culo en[n]ese mundo tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18097][f 6 1 2 0 0 9]Maldición. Aki, eres un dolor en el culo en[n]ese mundo tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]夷A qui姻n llamas dolor en el culo? Es importante[n]que entrenes diariamente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy seguro que el otro yo s吋lo lo est茨[n]haciendo porque le importas, [f 6 1 27 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]I'm sure the other me is only doing it[n]because he cares about you,[n][f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19018][f 6 1 2 0 0 10]Huh? Sure... Ahaha...[n][f 1 3 65535][f 1 1][e]
@@ -59,5 +59,5 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Ser茨 mejor que controlen sus temperamentos.[n]夷Entendido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "Confianza[n]Transcendental" se ha a�adido a la[n]taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "Confianza[n]Transcendental" se ha añadido a la[n]taquilla.[n][f 1 3 65535][f 1 1][e]
 

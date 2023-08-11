@@ -31,7 +31,7 @@
 
 [msg MSG_009 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 14]You've all grown so much today―and I'm[n]sure you'll continue getting stronger...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15]Pero, para tu propio futuro, y el de tus[n]compa�eros, pedimos que conf胤es en nuestra[n]fuerza para esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15]Pero, para tu propio futuro, y el de tus[n]compañeros, pedimos que conf胤es en nuestra[n]fuerza para esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 16][f 6 1 2 0 0 6]... Gracias a todos. 斡Bien, peleemos juntos![n][f 1 3 65535][f 1 1][e]

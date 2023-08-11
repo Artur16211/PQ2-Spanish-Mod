@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 803][f 6 1 2 0 0 10][f 6 1 3 0 0 2]Supongo que fuimos demasiado f茨ciles con[n]ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Justine]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 804][f 6 1 3 0 0 2]...Entonces el tiempo de juego se acab吋[n]oficialmente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 804][f 6 1 3 0 0 2]...Entonces el tiempo de juego se acabó[n]oficialmente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Caroline]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 805][f 6 1 2 0 0 3][f 6 1 3 0 0 2]Ngh... 斡No hemos terminado contigo todav胤a![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0][f 6 1 3 0 0 2]※[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Margaret]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 815][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*chuckle* Ha pasado bastante tiempo desde[n]que sent胤 tanta pasi吋n a trav姻s de m胤.[n]Maravilloso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 815][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*chuckle* Ha pasado bastante tiempo desde[n]que sent胤 tanta pasión a trav姻s de m胤.[n]Maravilloso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Theodore]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 816][f 6 1 3 0 0 2]De aqu胤 en adelante, entrar姻.[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 817][f 6 1 2 0 0 2][f 6 1 3 0 0 2]夷Qu姻? 斡No te metas en nuestro camino![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Theodore]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 818][f 6 1 2 0 0 4][f 6 1 3 0 0 2]Dios m胤o, 夷realmente esperas pelear en esa[n]condici吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 818][f 6 1 2 0 0 4][f 6 1 3 0 0 2]Dios m胤o, 夷realmente esperas pelear en esa[n]condición?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Justine]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 819][f 6 1 3 0 0 2]... Tal vez sea mejor que nos calmemos y[n]aceptemos su ayuda...[n][f 1 3 65535][f 1 1][e]
@@ -96,7 +96,7 @@
 
 [msg MSG_093 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 835][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*chuckle* Bueno, rara vez podemos disfrutar[n]de una pelea de este calibre.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 836][f 6 1 2 0 0 6][f 6 1 3 0 0 2]T吋malo de m胤, 斡necesita mantener suficiente[n]compostura para disfrutarlo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 836][f 6 1 2 0 0 6][f 6 1 3 0 0 2]Tómalo de m胤, 斡necesita mantener suficiente[n]compostura para disfrutarlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_100 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54026][f 6 1 3 0 0 2]Bien hecho.[n][f 1 3 65535][f 1 1][e]
@@ -108,5 +108,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 838][f 6 1 2 0 0 6][f 6 1 3 0 0 2]Hmph. 斡Nos lo pasaste bien, presos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_112 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 837][f 6 1 3 0 0 2]Una victoria perfecta... Te ofrezco las[n]alabanzas m茨s altas, desde las profundidades[n]de mi coraz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 837][f 6 1 3 0 0 2]Una victoria perfecta... Te ofrezco las[n]alabanzas m茨s altas, desde las profundidades[n]de mi corazón.[n][f 1 3 65535][f 1 1][e]
 

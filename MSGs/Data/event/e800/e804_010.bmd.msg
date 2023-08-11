@@ -1,11 +1,11 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54007]Para esta proyecci吋n especial, todos ustedes[n]ser茨n obligados a completar una determinada[n]misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54007]Para esta proyección especial, todos ustedes[n]ser茨n obligados a completar una determinada[n]misión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Misi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Misión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Me gustar胤a que llegaras a la ubicaci吋n que[n]especifique.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Me gustar胤a que llegaras a la ubicación que[n]especifique.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4018]夷Huh? 夷Eso es todo? 斡Eso suena f茨cil![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4049]斡S胤, es perfecto![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Deslizar los focos de b雨squeda es algo que[n]un ladr吋n fantasma har胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Deslizar los focos de b雨squeda es algo que[n]un ladrón fantasma har胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 8 1 1][f 3 1 1 0 0 21010][f 6 1 2 0 0 4]夷Qu姻 tienen esos dos tan preparados? 夷Algo[n]sucede?[n][f 1 3 65535][f 1 1][e]

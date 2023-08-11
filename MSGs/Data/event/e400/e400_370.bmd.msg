@@ -51,7 +51,7 @@
 
 [msg MSG_014 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]Umm... How should I put it...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 3 1 1 0 0 0]Todos aqu胤 han tenido un papel que s吋lo pueden[n]llenar, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 3 1 1 0 0 0]Todos aqu胤 han tenido un papel que sólo pueden[n]llenar, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero ese no es el caso para m胤. Mi papel[n]estaba lleno de "姻l", en cambio...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 3 1 1 0 0 0]Por eso no pude evitar pensar, una y otra[n]vez...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"夷Cu茨l es mi papel aqu胤? 夷Estoy aqu胤 por[n]alg雨n error?" Cosas as胤.[n][f 1 3 65535][f 1 1][e]
@@ -63,10 +63,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Huh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 1 0 0 61083][f 6 1 2 0 0 4]Quiero decir, la gente de SEES te ha aceptado,[n][f 6 1 27 0 0]-chan. 夷Verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 1 0 0 61083][f 6 1 2 0 0 4]Quiero decir, la gente de SEES te ha aceptado,-chan. 夷Verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 0]... puedo recordar ahora. Estoy seguro de[n]que sent胤 exactamente lo mismo de vuelta[n]a casa que t雨.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuanto m茨s pensaba en cosas como la raz吋n[n]para ser yo o por qu姻 existo, m茨s confianza[n]en m胤 mismo perd胤...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 1 0 0 0]Pero, conocerme me ayudaste a darme cuenta[n]de algo importante. No hay nadie en este[n]mundo que no tenga raz吋n para existir.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuanto m茨s pensaba en cosas como la razón[n]para ser yo o por qu姻 existo, m茨s confianza[n]en m胤 mismo perd胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 1 0 0 0]Pero, conocerme me ayudaste a darme cuenta[n]de algo importante. No hay nadie en este[n]mundo que no tenga razón para existir.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es porque estuviste conmigo todo este tiempo[n]que gan姻 el valor para enfrentar mis miedos, [f 6 1 27 0 0 0][n]-chan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
@@ -82,7 +82,7 @@
 
 [msg MSG_021 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15063]Ustedes dos tienen especificaciones incannily[n]similares...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, la posici吋n especial en la que[n]est茨s es totalmente tuya, [f 6 1 27 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, la posición especial en la que[n]est茨s es totalmente tuya, [f 6 1 27 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0][f 4 6 19 8 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19033][f 6 1 2 0 0 10]Th-This is kinda embarrassing. I hadn't[n]thought of it as anything useful...[n][f 1 3 65535][f 1 1][e]

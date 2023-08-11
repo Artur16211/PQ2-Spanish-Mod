@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 3][f 3 1 1 0 0 0]夷As胤 que tenemos que ir a coger una mariposa?[n]夷Un espec胤fico o alguno de ellos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Si estamos pasando por el problema de todos[n]modos, preferir胤a que atraparas a un[n]verdadero ladr吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Si estamos pasando por el problema de todos[n]modos, preferir胤a que atraparas a un[n]verdadero ladrón.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 4][f 3 1 1 0 0 26013]夷Pueden las mariposas ser "lunkers"? 夷No es[n]algo de pescado?[n][f 1 3 65535][f 1 1][e]
@@ -24,7 +24,7 @@
 
 [msg MSG_007 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 3][f 3 1 1 0 0 0]夷Insectos? Incluso tengo mis l胤mites.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque... Quiz茨s si no hubiera otra opci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque... Quiz茨s si no hubiera otra opción...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 4][f 4 6 8 10 0 1][f 3 1 1 0 0 0]夷Es demasiado tarde para plantear objeciones?[n][f 1 3 65535][f 1 1][e]

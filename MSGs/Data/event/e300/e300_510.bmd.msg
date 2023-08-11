@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4044][f 6 1 2 0 0 6]斡Ha vuelto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 6][f 3 1 1 0 0 26097]Parece que el choque de ese ataque activ� su[n]modo de sue�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 6][f 3 1 1 0 0 26097]Parece que el choque de ese ataque activó su[n]modo de sueño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 0]REBOOT COMPLETE... SCAN DIAGNOSTICO[n]INITADO...[n][f 1 3 65535][f 1 1][e]
@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]夷TE PUEDES MOVER PARA O緯R POR SER FELIZ? 夷O[n]SAD? 夷O RELIEVADO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 28 2 0 0][f 3 1 1 0 0 0]Supongo que podr胤as decir que hay muchas[n]emociones diferentes que pueden evocar tal[n]reacci吋n cuando se siente intensamente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 28 2 0 0][f 3 1 1 0 0 0]Supongo que podr胤as decir que hay muchas[n]emociones diferentes que pueden evocar tal[n]reacción cuando se siente intensamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]AS緯 QUE PUEDE SER DIFERENTE LAS EMOCIONES...[n]夷ESO ES LO QUE ME PAS遺 M威S TEMPRANO?[n][f 1 3 65535][f 1 1][e]
@@ -75,8 +75,8 @@
 
 [sel SEL_024 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Fue una rabia.[f 2 7 1 20 0 32][e]
-[f 0 5 65278][f 2 1]Fue frustraci吋n.[f 2 7 1 20 0 32][e]
-[f 0 5 65278][f 2 1]Era tu coraz吋n rebelde.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Fue frustración.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Era tu corazón rebelde.[f 2 7 1 20 0 32][e]
 
 [msg MSG_025 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 6][f 3 1 1 0 0 18069]Bien. Es natural enojarse si alguien intenta[n]negar su existencia como individuo.[n][f 1 3 65535][f 1 1][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Alguien m茨s decidiendo por su cuenta lo que[n]se supone que es? Eso tambi姻n me cabrea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 0 6][f 3 1 1 0 0 26068]S胤. 畏l neg� la validez de su existencia,[n]Ribbon. Por supuesto que te ha funcionado[n]lo suficiente para desafiarlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 0 6][f 3 1 1 0 0 26068]S胤. 畏l negó la validez de su existencia,[n]Ribbon. Por supuesto que te ha funcionado[n]lo suficiente para desafiarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022]VEO... LAS EMOCIONES SON COMPLICADAS Y[n]DIF緯CILES DE COMPRENDER.[n][f 1 3 65535][f 1 1][e]
@@ -101,13 +101,13 @@
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35002]S緯. ME GUSTAR緯A TERMINAR.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Overseer]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]斡Atenci吋n, todas las unidades en patrulla![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]斡Atención, todas las unidades en patrulla![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 14 1 3][f 3 1 1 0 0 11065][f 6 1 2 0 0 0]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Overseer]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Las anomal胤as peligrosas est茨n causando[n]estragos en la instalaci吋n. Incrementar las[n]medidas de seguridad inmediatamente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Las anomal胤as peligrosas est茨n causando[n]estragos en la instalación. Incrementar las[n]medidas de seguridad inmediatamente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 36006][f 6 1 9 0 0 1]Estos errores deben ser manejados de manera[n]apropiada a la vista. 斡La irregularidad[n]debe ser objeto de error![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yosuke]]
@@ -121,8 +121,8 @@
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una computadora madre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28008]La unidad de control maestro que ordena este[n]mundo. Son bastante est茨ndar en pel胤culas[n]de ciencia ficci吋n con sociedades[n]rob吋ticas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso significar胤a que el Overseer que derrotamos[n]fue s吋lo una parte de dicha[n]computadora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28008]La unidad de control maestro que ordena este[n]mundo. Son bastante est茨ndar en pel胤culas[n]de ciencia ficción con sociedades[n]robóticas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso significar胤a que el Overseer que derrotamos[n]fue sólo una parte de dicha[n]computadora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 6 0 1][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]In other words, until we destroy the[n]root cause, this world can't be righted.[n][f 1 3 65535][f 1 1][e]
@@ -142,7 +142,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 1 4][f 3 1 1 0 0 23067][f 6 1 2 0 0 6]Todos estamos en la misma longitud de onda.[n]斡No hay necesidad de atropellarlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12067]Bien, llevemos nuestros pu�os a la fuente.[n]No hay necesidad de retener.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12067]Bien, llevemos nuestros puños a la fuente.[n]No hay necesidad de retener.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 35 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡HAG威MOSLO![n][f 1 3 65535][f 1 1][e]
@@ -154,7 +154,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35005]S緯. MI PECHO SE SIENTE DE NUEVO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 6][f 3 1 1 0 0 0]斡Heh! Pero no tienes ninguna funci吋n de[n]batalla, 夷verdad? D姻janos la computadora[n]madre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 6][f 3 1 1 0 0 0]斡Heh! Pero no tienes ninguna función de[n]batalla, 夷verdad? D姻janos la computadora[n]madre.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 1 0 3][f 4 6 35 0 0 0][f 3 1 1 0 0 35010]O SEA, SI HABLO CONTIGO POR UN MOMENTO...[n][f 1 3 65535][f 1 1][e]
@@ -182,19 +182,19 @@
 
 [msg MSG_057 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 26 14 1 3][f 3 1 1 0 0 26054][f 6 1 2 0 0 6]斡Ah-H-Hold en un segundo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero hacer una vez m茨s la programaci吋n de[n]Ribbon, solo para asegurarme de que no[n]haya sufrido ning雨n da�o real.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero hacer una vez m茨s la programación de[n]Ribbon, solo para asegurarme de que no[n]haya sufrido ning雨n daño real.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 1 0 3][f 4 6 25 2 0 6][f 3 1 1 0 0 0]Bueno, entonces, 夷qu姻 decimos que esperemos[n]hasta que estos dos est姻n listos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 26 15 1 3][f 3 1 1 0 0 26069][f 6 1 2 0 0 6]Lo siento, lo har姻 s雨per r茨pido. 斡S吋lo dame[n]un segundo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 26 15 1 3][f 3 1 1 0 0 26069][f 6 1 2 0 0 6]Lo siento, lo har姻 s雨per r茨pido. 斡Sólo dame[n]un segundo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 1 0][f 3 1 1 0 0 0]OR威CULO... ME ENTREGO A TI.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13115][f 6 1 2 0 0 4]Sabes, obtuvimos una tarjeta clave del[n]Overseer, 夷d吋nde crees que se usa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13115][f 6 1 2 0 0 4]Sabes, obtuvimos una tarjeta clave del[n]Overseer, 夷dónde crees que se usa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0]Llegamos a una puerta cerrada antes. 夷Quiz茨[n]podamos usarlo all胤?[n][f 1 3 65535][f 1 1][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0]No lo s姻, pero probablemente deber胤amos buscar[n]un lugar donde podamos probarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 4 1 0][f 3 1 1 0 0 0]Tienes raz吋n. Eso podr胤a abrir un nuevo camino[n]para nosotros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 4 1 0][f 3 1 1 0 0 0]Tienes razón. Eso podr胤a abrir un nuevo camino[n]para nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 26072]Y ah胤... 斡Vamos![n][f 1 3 65535][f 1 1][e]

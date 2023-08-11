@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54131]Buen trabajo. 斡Has salido victorioso de una[n]lucha m茨s viciosa! S吋lo puedo darte una[n]ovaci吋n de pie.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54131]Buen trabajo. 斡Has salido victorioso de una[n]lucha m茨s viciosa! Sólo puedo darte una[n]ovación de pie.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y como lo hab胤a predicho, has adquirido otra[n]pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P4 Hero]]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Todo eso aparte, has satisfecho la solicitud.[n]La Sombra est茨 muerta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Y as胤 se le debe una recompensa apropiada.[n][f 6 1 13 0 0] nos dio un buen[n]rendimiento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Y as胤 se le debe una recompensa apropiada. nos dio un buen[n]rendimiento.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que est姻 completamente preparado para[n]mostrar su poder, venga a hablarme de[n]nuevo, como antes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Morgana]]

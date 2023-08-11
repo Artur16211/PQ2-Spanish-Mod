@@ -4,7 +4,7 @@
 
 [msg MSG_001 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8067]S胤, pero no ser胤a prudente buscar ciegamente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]Theodore nos dio un consejo sobre d吋nde[n]encontrar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]Theodore nos dio un consejo sobre dónde[n]encontrar...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_002 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Lugares brillantes.[f 2 7 1 20 0 32][e]
@@ -19,14 +19,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En ese caso, probablemente deber胤amos concentrar[n]nuestra b雨squeda cerca de los cuerpos[n]de agua.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 8071]S胤, mencion� buscar en sitios h雨medos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 8071]S胤, mencionó buscar en sitios h雨medos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En ese caso, queremos concentrar nuestra[n]b雨squeda cerca de cuerpos de agua.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Por cierto, 夷por qu姻 necesitamos las[n]palomitas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28008]Actualmente s吋lo tenemos pruebas circunstanciales,[n]por lo que no tenemos m茨s remedio[n]que atrapar al culpable en el acto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28008]Actualmente sólo tenemos pruebas circunstanciales,[n]por lo que no tenemos m茨s remedio[n]que atrapar al culpable en el acto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 8075]Por lo tanto, le pediremos a Theodore que[n]vuelva a hacer su nueva palomita...[n][f 1 3 65535][f 1 1][e]

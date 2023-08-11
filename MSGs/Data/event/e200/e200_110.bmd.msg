@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 6]Whoa, daaaamn! 斡Esto es realmente un cine![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chica Reservada]]
-[f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]Esto es incre胤ble... 夷D吋nde fue el bosque?[n]夷La isla? 夷Los ammonitas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]Esto es incre胤ble... 夷Dónde fue el bosque?[n]夷La isla? 夷Los ammonitas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 4]Nadie se preocupa por los ammonitas. Son[n]espeluznantes. Tienen demasiadas piernas.[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 
 [sel SEL_015 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]La salvaremos, no importa qu姻.[f 2 7 1 64 2 32][e]
-[f 0 5 65278][f 2 1]No pierdas el coraz吋n.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]No pierdas el corazón.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Haremos lo que podamos.[f 2 7 1 64 0 32][e]
 
 [msg MSG_016 [Un Chico Amenazador]]
@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 4][f 3 1 1 0 0 22]Gracias. Y no deber胤amos sacudirnos... Tenemos[n]que mantener la calma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 23]S吋lo conozco a todos por un corto tiempo,[n]pero todos son personas muy confiables.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 23]Sólo conozco a todos por un corto tiempo,[n]pero todos son personas muy confiables.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Adem茨s, es natural ayudarnos mutuamente,[n]especialmente en un momento como este.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chico Compuesto]]
@@ -90,7 +90,7 @@
 
 [msg MSG_027 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 66 10 0 1][f 3 1 1 0 0 34][f 6 1 2 0 0 0]斡De ninguna manera! 夷M茨s gente?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 35][f 6 1 2 0 0 4]夷Qui姻n es? 夷La conoces?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 35][f 6 1 2 0 0 4]I mean, who's that? Do you know her,[n][f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_028 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Parece algo familiar.[f 2 7 1 64 2 32][e]
@@ -108,7 +108,7 @@
 
 [msg MSG_032 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 39]Hey, suficiente con la broma.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 4 6 23 2 0 1][f 6 1 2 0 0 6]Welp, hay un tipo para ti... Mis ojos son[n]s吋lo para Lady Ann, sin embargo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 4 6 23 2 0 1][f 6 1 2 0 0 6]Welp, hay un tipo para ti... Mis ojos son[n]sólo para Lady Ann, sin embargo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Mujer Azul]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 75 0 0 1][f 3 1 1 0 0 41]El destino de alg雨n tipo debe habernos[n]convocado aqu胤... Despu姻s de todo, nada[n]innecesario sucede con nosotros.[n][f 1 3 65535][f 1 1][e]
@@ -134,7 +134,7 @@
 [sel SEL_039 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Eso es todo lo que tienes?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Encantado.[f 2 7 1 64 2 32][e]
-[f 0 5 65278][f 2 1]夷Eres residente de Habitaci吋n Terciopelo?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]夷Eres residente de Habitación Terciopelo?[f 2 7 1 64 0 32][e]
 
 [msg MSG_040 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 4 0 0][f 3 1 1 0 0 50][f 6 1 2 0 0 10]夷Qu姻? 夷Qu姻 m茨s se supone que diga?[n][f 1 3 65535][f 1 1][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 61]Estoy seguro de que est茨n exhaustos, as胤 que[n]por favor, descansa aqu胤 un rato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 1 1 0 3][f 4 6 75 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 4]De hecho, 夷por qu姻 no averiguar esta situaci吋n[n]en la que todos ustedes se han encontrado[n]durante este tiempo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 1 1 0 3][f 4 6 75 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 4]De hecho, 夷por qu姻 no averiguar esta situación[n]en la que todos ustedes se han encontrado[n]durante este tiempo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 63]Volveremos una vez que se haya preparado la[n]medicina.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Marie]]

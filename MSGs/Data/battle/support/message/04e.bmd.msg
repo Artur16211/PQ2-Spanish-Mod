@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58352]El ataque f胤sico de este tipo es una molestia.[n]No lo olvides.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58353]Cuidado con sus ataques m茨gicos. 斡Atenci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58353]Cuidado con sus ataques m茨gicos. 斡Atención![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_010]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58354]Se vuelve violento cuando se debilita. 斡M茨tala[n]r茨pido![n][f 1 6 65535][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58312]Este... 斡Tiene un ataque de muerte[n]instant茨nea![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_018]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58317]斡Oye! 斡Atenci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58317]斡Oye! 斡Atención![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_019]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58313]斡No uses ataques de afinidad ahora mismo![n][f 1 6 65535][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58325]En otras palabras, es f茨cil presa![n]斡Term胤nalo![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_029]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58326]Eh, s吋lo un peque�o fre胤r.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58326]Eh, sólo un pequeño fre胤r.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_030]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58327]斡Hmph! 斡Entonces no deber胤a tardar mucho![n][f 1 6 65535][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58630]斡Deprisa y cura ya![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_066]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58401]斡Tch-petrificaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58401]斡Tch-petrificación![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_067]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58402]斡Un aliado ha sido acosado![n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58413]斡Ese es d姻bil contra el Fuego![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_079]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58415]斡El hielo es una opci吋n fuerte para manejar[n]este![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58415]斡El hielo es una opción fuerte para manejar[n]este![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_080]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58417]Esa Sombra es d姻bil para Wind...[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58425]斡La afinidad de los Bless es la que quieres[n]usar contra este enemigo![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_085]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58427]斡Usa la afinidad de la maldici吋n para utilizar[n]su debilidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58427]斡Usa la afinidad de la maldición para utilizar[n]su debilidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_086]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58412]斡Oye! 斡Intente golpearlos con su ataque[n]f胤sico![n][f 1 6 65535][e]
@@ -281,13 +281,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58426]斡Puedes golpear su debilidad con la afinidad[n]de los Bless! 斡B茨jala![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_094]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58428]Son d姻biles contra la afinidad de la maldici吋n.[n]斡Malditos a un castigo eterno![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58428]Son d姻biles contra la afinidad de la maldición.[n]斡Malditos a un castigo eterno![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_095]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58501]夷Sabes lo que necesitas hacer?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_096]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58502]斡No hay raz吋n para no usarlo! 夷Me oyes?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58502]斡No hay razón para no usarlo! 夷Me oyes?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_097]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58503]斡Yosuke, no nos decepciones![n][f 1 6 65535][e]
@@ -326,7 +326,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_109]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58515]Aigis, esto es justo en tu callej吋n, 夷no?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58515]Aigis, esto es justo en tu callejón, 夷no?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_110]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58516]夷Qu姻 te parece, Ken? 斡Aqu胤 es donde puedes[n]mostrarte![n][f 1 6 65535][e]
@@ -374,13 +374,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58342]Ahora... 夷qu姻 sigue?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_125]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58347]T吋mate tu tiempo, pero no demasiado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58347]Tómate tu tiempo, pero no demasiado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_126]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58348]Esto me hace querer unirme a la fraternidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_127]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58343]Oye, 夷qu姻 tal pasar el bast吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58343]Oye, 夷qu姻 tal pasar el bastón?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_128]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58344]斡Haz un pase de Baton![n][f 1 6 65535][e]
@@ -503,7 +503,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59351]Se est茨 preparando para un ataque masivo.[n]Tenga cuidado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_168]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59352]Its physical attacks may cause you[n]problems... Ten cuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59352]Its physical attacks may cause you problems...[n]Ten cuidado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_169]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59353]La fuerza de este enemigo est茨 en sus ataques[n]m茨gicos. No olvides esto.[n][f 1 6 65535][e]
@@ -596,10 +596,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59602]Parece que necesitan ayuda.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_199]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59603]夷Vas a ignorar la condici吋n de Yosuke?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59603]夷Vas a ignorar la condición de Yosuke?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_200]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59604]Chie no est茨 en una buena situaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59604]Chie no est茨 en una buena situación.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_201]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59605]Yukiko podr胤a terminar derrotado.[n][f 1 6 65535][e]
@@ -647,7 +647,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59619]Un miembro del partido podr胤a desmayarse[n]pronto...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_216]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59620]Joker, 夷tienes intenci吋n de morir aqu胤?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59620]Joker, 夷tienes intención de morir aqu胤?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_217]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59621]La salud de Skull est茨 bajando un poco.[n][f 1 6 65535][e]
@@ -671,10 +671,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59627]Noir podr胤a desmayarse pronto.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_224]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59628]夷Tiene la intenci吋n de dejar a Crow en su[n]condici吋n actual?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59628]夷Tiene la intención de dejar a Crow en su[n]condición actual?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_225]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59630]Recomiendo priorizar la curaci吋n primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59630]Recomiendo priorizar la curación primero.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_226]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59401]Alguien se ha petrificado.[n][f 1 6 65535][e]
@@ -731,10 +731,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59423]Estas Sombras son d姻biles contra la[n]Psicokinesis.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_244]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59425]Ese enemigo debe ser el que est茨 d姻bil contra[n]la afinidad de la Bendici吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59425]Ese enemigo debe ser el que est茨 d姻bil contra[n]la afinidad de la Bendición.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_245]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59427]Si quieres golpear su debilidad, intenta usar[n]la afinidad de la maldici吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59427]Si quieres golpear su debilidad, intenta usar[n]la afinidad de la maldición.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_246]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59412]Debilidad contra ataques f胤sicos... Qu姻 sombra[n]sin espinas.[n][f 1 6 65535][e]
@@ -761,7 +761,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59426]Bendice a la Sombra y ese ser茨 su fin.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_254]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59428]Utilice la afinidad de la maldici吋n para[n]aprovechar su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59428]Utilice la afinidad de la maldición para[n]aprovechar su debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_255]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59501]No hay necesidad de retener.[n][f 1 6 65535][e]
@@ -782,7 +782,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_261]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59507]Kanji, mu姻stranos c吋mo debe ser un hombre.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59507]Kanji, mu姻stranos cómo debe ser un hombre.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_262]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59508]Bueno, Naoto, depende de ti.[n][f 1 6 65535][e]
@@ -842,13 +842,13 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_281]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59527]Ve a ense�arles c吋mo usar un hacha, Noir.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59527]Ve a enseñarles cómo usar un hacha, Noir.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_282]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59528]Term胤nalos, Crow.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_283]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59341]夷Cu茨l es nuestro pr吋ximo movimiento?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59341]夷Cu茨l es nuestro próximo movimiento?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_284]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59342]Ser capaz de luchar as胤 es bastante[n]refrescante.[n][f 1 6 65535][e]
@@ -863,7 +863,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59343]Usted podr胤a golpear una debilidad si usted[n]cambia entre s胤.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_288]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 59344]Esta puede ser la mejor soluci吋n si desea[n]golpear una debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 59344]Esta puede ser la mejor solución si desea[n]golpear una debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_289]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 59201]Parece que ha sido impulsado.[n][f 1 6 65535][e]

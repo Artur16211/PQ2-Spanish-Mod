@@ -21,13 +21,13 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 1][f 3 1 1 0 0 14614][f 3 1 6 0 0 500][f 6 1 2 0 0 6]斡Oh! 斡Todos, voy a recoger otra lectura de[n]FOE m茨s fuerte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Te tengo. Entonces, 夷d吋nde est茨, Fuuka?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Te tengo. Entonces, 夷dónde est茨, Fuuka?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 14620]夷Parece que se mueve? [f 0 1 2] Se est茨 acercando[f 0 1 0][n]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 99 0][f 3 1 1 0 0 14560][f 6 1 2 0 0 6]斡Oh no! 斡Es s吋lo a tu izquierda! 斡Ten[n]cuidado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 99 0][f 3 1 1 0 0 14560][f 6 1 2 0 0 6]斡Oh no! 斡Es sólo a tu izquierda! 斡Ten[n]cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]Izquierda, eh...[n][f 1 3 65535][f 1 1][e]
@@ -55,6 +55,6 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser胤a m茨s prudente tomar el camino detr茨s de[n]nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11074]Muy bien, ahora que hemos llegado a un acuerdo[n]sobre nuestra direcci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11074]Muy bien, ahora que hemos llegado a un acuerdo[n]sobre nuestra dirección...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 1][f 3 1 1 0 0 11134][f 6 1 2 0 0 1]斡RUUUUUUUN![n][f 1 3 65535][f 1 1][e]
 

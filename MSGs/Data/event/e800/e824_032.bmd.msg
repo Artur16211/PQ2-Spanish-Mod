@@ -1,25 +1,25 @@
 [msg MSG_000 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 4 6 5 0 0 6][f 4 6 11 10 0 3][f 3 1 1 0 0 11058]夷Eh? 夷Cambi� la historia?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 4 6 5 0 0 6][f 4 6 11 10 0 3][f 3 1 1 0 0 11058]夷Eh? 夷Cambió la historia?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 1][f 3 1 1 0 0 0]No estoy seguro por qu姻 estoy preguntando[n]esto, pero... 夷c吋mo termina la historia?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 1][f 3 1 1 0 0 0]No estoy seguro por qu姻 estoy preguntando[n]esto, pero... 夷cómo termina la historia?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5069]La chica aprende lo b茨sico de cocinar del[n]t胤tere y se convierte en chef profesional.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces los dos comienzan un peque�o[n]restaurante en la ciudad y viven felices para[n]siempre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces los dos comienzan un pequeño[n]restaurante en la ciudad y viven felices para[n]siempre.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11057][f 6 1 2 0 0 6]夷Felizmente? 夷Por qu姻 feliz?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 1][f 3 1 1 0 0 10091]Esto es agotador.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y, Junpei, 夷le dar胤as un descanso a la est雨pida[n]narraci吋n? Est茨s perdiendo nuestro[n]tiempo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y, Junpei, 夷le dar胤as un descanso a la est雨pida[n]narración? Est茨s perdiendo nuestro[n]tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]夷Qu姻? 斡Pero me desmay姻 antes de llegar a la[n]buena parte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 5007]Y ah胤 lo tienen, amigos. Tune en la pr吋xima[n]semana para otro emocionante episodio de[n]"Yukiko lo cree, o no lo haga"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 5007]Y ah胤 lo tienen, amigos. Tune en la próxima[n]semana para otro emocionante episodio de[n]"Yukiko lo cree, o no lo haga"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 0]夷Eh? 夷Otro episodio?[n][f 1 3 65535][f 1 1][e]

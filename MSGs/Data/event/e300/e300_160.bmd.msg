@@ -44,7 +44,7 @@
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26099]De todos modos, 斡no necesitas ser formateado![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Deja de llamarte una irregularidad s吋lo porque[n]hay algo diferente en ti.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Deja de llamarte una irregularidad sólo porque[n]hay algo diferente en ti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Robot Con Cinta]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35007]PERO ESO ES LO QUE NUESTRO OVERSEER HA FALLADO.[n]MI 郁NICA PISTA COMO UNA UNIDAD ES[n]PARA 畏L.[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]夷POR QU� ES ESO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]Si usted s吋lo segu胤a los mandamientos de los[n]dem茨s para toda su vida, no habr胤a[n]significado personal para existir, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]Si usted sólo segu胤a los mandamientos de los[n]dem茨s para toda su vida, no habr胤a[n]significado personal para existir, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Robot Con Cinta]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]夷UN SIGNIFICADO PERSONAL PARA MI EXPERIENCIA?[n][f 1 3 65535][f 1 1][e]
@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 6][f 3 1 1 0 0 11044][f 6 1 2 0 0 6]斡Eso tiene que ser Ai-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Ser胤a posible saber a d吋nde fue ese robot?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Ser胤a posible saber a dónde fue ese robot?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Robot Con Cinta]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]ELLA FUE CONDENADA A UNA SEGURIDAD TRIPLE Y[n]LLEVADA AL LABORATORIO ARRIBA.[n][f 1 3 65535][f 1 1][e]
@@ -131,7 +131,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 35 12 0 1][f 3 1 1 0 0 35023]NO HE SIDO DESIGNADO COMO UN GU緯A.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 0]Pero sabes d吋nde est茨 el laboratorio, 夷verdad?[n]Todo lo que tendr胤as que hacer es[n]llevarnos all胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 0]Pero sabes dónde est茨 el laboratorio, 夷verdad?[n]Todo lo que tendr胤as que hacer es[n]llevarnos all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Robot Con Cinta]]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35007]PERO, LAS ACCIONES QUE EST威N FUERA DE NUESTROS[n]PARAMETROS ESTANCADOS SON...[n][f 1 3 65535][f 1 1][e]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Estoy preguntando si es tu voluntad de ser[n]borrado, o si solo vas con 姻l porque eso[n]es lo que alguien m茨s decidi�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Estoy preguntando si es tu voluntad de ser[n]borrado, o si solo vas con 姻l porque eso[n]es lo que alguien m茨s decidió.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Robot Con Cinta]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35014]夷MI VOLUNTAD?[n][f 1 3 65535][f 1 1][e]
@@ -163,7 +163,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27003]夷Por qu姻 no vienes con nosotros al laboratorio?[n]Usted puede ser capaz de encontrar[n]las respuestas all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 0 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Suena como tu mejor opci吋n. A este ritmo,[n]vas a terminar siendo formateado, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 0 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Suena como tu mejor opción. A este ritmo,[n]vas a terminar siendo formateado, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 6][f 3 1 1 0 0 0]As胤 que, deber胤as dejar que tus sentimientos[n]te gu胤en ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Robot Con Cinta]]

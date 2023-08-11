@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21307]斡Genial! 斡Lo perdimos![n][f 1 6 65535][e]
 
 [msg RYUJI_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21308]Parece que se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21308]Parece que se rindió.[n][f 1 6 65535][e]
 
 [msg RYUJI_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21369]Intenta no ser visto, 夷verdad?[n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21376]斡Shiiit![n][f 1 6 65535][e]
 
 [msg RYUJI_KYOUHU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21377]夷Me est茨s enga�ando?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21377]夷Me est茨s engañando?[n][f 1 6 65535][e]
 
 [msg RYUJI_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21324]斡Oye! 斡Encontramos un camino que podemos[n]tomar![n][f 1 6 65535][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21333]夷Eso es un cambio?[n][f 1 6 65535][e]
 
 [msg RYUJI_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21334]Es un tipo de bot吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21334]Es un tipo de botón.[n][f 1 6 65535][e]
 
 [msg RYUJI_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21335]夷Vas a presionarlo?[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg RYUJI_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21312]Maldici吋n, he terminado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21312]Maldición, he terminado...[n][f 1 6 65535][e]
 
 [msg RYUJI_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21313]Hombre... estoy vencido...[n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]A mitad de camino, 夷eh?[n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_50_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]斡Aqu胤 es donde comienza la verdadera[n]diversi吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]斡Aqu胤 es donde comienza la verdadera[n]diversión![n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_75_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]斡Hemos ido muy lejos![n][f 1 6 65535][e]

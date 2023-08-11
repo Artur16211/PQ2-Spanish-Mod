@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 22012][f 6 1 2 0 0 3]S胤. Eso definitivamente har胤a las cosas m茨s[n]f茨ciles...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 4 3 6][f 3 1 1 0 0 0]No bromees. Ya estar胤amos acabados con la[n]proyecci吋n si fueran negocios como siempre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 3 6][f 3 1 1 0 0 0]No bromees. Ya estar胤amos acabados con la[n]proyección si fueran negocios como siempre.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Piense en todas esas paredes que tuvimos que[n]saltar y los l茨seres de seguridad que[n]tuvimos que pasar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ken]]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 1 0 0][f 4 6 22 12 0 0][f 3 1 1 0 0 0]Vale, vale, s茨lvalo para las Sombras. Deber胤amos[n]irnos.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_014 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Comienzo de la misi吋n.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Comienzo de la misión.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Empecemos.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Sigue nuestra pista.[f 2 7 1 20 0 32][e]
 

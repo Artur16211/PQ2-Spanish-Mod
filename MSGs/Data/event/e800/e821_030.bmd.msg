@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 1]S胤... 斡Podemos comer esto! Este... 斡Ese...![n]斡Hahahahaha! 斡Es una mina de oro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Por favor... Es s吋lo un pasto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Por favor... Es sólo un pasto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 22006]Bueno, lo que sea, vamos a reunir lo que[n]podamos. Estoy seguro de que Fox nos dir茨[n]si es bueno o no.[n][f 1 3 65535][f 1 1][e]
@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Decidimos reunir algunas plantas silvestres[n]comestibles...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 26533][f 3 1 6 0 0 500]Un mont吋n de persas recolectando plantas[n]silvestres... No lo ves todos los d胤as.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 26533][f 3 1 6 0 0 500]Un montón de persas recolectando plantas[n]silvestres... No lo ves todos los d胤as.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 1 0][f 3 1 1 0 0 11091][f 6 1 2 0 0 9]Ughhh... Me duele la espalda. Voy a tomar un[n]descanso...[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 
 [msg MSG_015 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24067]Bueno, me gustan las plantas silvestres. Ser[n]capaz de sobrevivir solo de las bendiciones[n]de la naturaleza es una cosa[n]verdaderamente maravillosa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, sinceramente, hay otra raz吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, sinceramente, hay otra razón...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 0 0][f 3 1 1 0 0 24029][f 6 1 2 0 0 6]斡Exactamente! 斡Y, como pobre hombre, es una[n]excelente manera de ahorrar dinero![n][f 1 3 65535][f 1 1][e]
@@ -77,13 +77,13 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24031]Me esfuerzo por insertar cada parte de mi[n]ser en mi arte... Es lo que me ha mantenido[n]yendo todo este tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12076]Esa es una forma bastante est吋tica de pensar...[n]Pero me gusta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12076]Esa es una forma bastante estótica de pensar...[n]Pero me gusta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 0 0][f 3 1 1 0 0 24063][f 6 1 2 0 0 6]斡S胤, me entiendes, Sanada-san![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12070]S胤. S姻 la sensaci吋n de hacer sacrificios para[n]conseguir lo que realmente quieres.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12070]S胤. S姻 la sensación de hacer sacrificios para[n]conseguir lo que realmente quieres.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si significa fortalecerme... entonces estoy[n]m茨s que dispuesto a arriesgar mi vida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Shinjiro]]
@@ -126,7 +126,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23053][f 6 1 2 0 0 6]斡Heheh! 斡Por fin voy a comer sushi![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Qu姻? 夷Sushi prehist吋rico? Siento que tomar胤a[n]algo serio para comer ese tipo de[n]pescado crudo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Qu姻? 夷Sushi prehistórico? Siento que tomar胤a[n]algo serio para comer ese tipo de[n]pescado crudo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 1 6][f 3 1 1 0 0 0]Lo siento, pero no puedo hacer sushi. Lo[n]mejor que puedo hacer es cocinar el pescado.[n][f 1 3 65535][f 1 1][e]
@@ -138,7 +138,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 2]Diablos no. Ve a buscar comida de verdad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 7 1 1][f 3 1 1 0 0 24101][f 6 1 2 0 0 3]斡Mi visi吋n est茨 borrosa! No creo que pueda[n]continuar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 7 1 1][f 3 1 1 0 0 24101][f 6 1 2 0 0 3]斡Mi visión est茨 borrosa! No creo que pueda[n]continuar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0]Mira, este tipo va a morir de hambre si no[n]hacemos algo r茨pido.[n][f 1 3 65535][f 1 1][e]

@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12306]Parece que ya no nos sigue...[n][f 1 6 65535][e]
 
 [msg SANADA_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12307]夷Ya se rindi�? Hah. Tendr胤as m茨s agallas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12307]夷Ya se rindió? Hah. Tendr胤as m茨s agallas.[n][f 1 6 65535][e]
 
 [msg SANADA_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12308]夷No vamos a luchar? Es una pena.[n][f 1 6 65535][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12374]Odio estas trampas.[n][f 1 6 65535][e]
 
 [msg SANADA_KYOUHU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12375]斡Agh, maldici吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12375]斡Agh, maldición![n][f 1 6 65535][e]
 
 [msg SANADA_KYOUHU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12376]夷Qu姻...[n][f 1 6 65535][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12329]Me pregunto qu姻 hay dentro... 夷Crees que es[n]prote胤na?[n][f 1 6 65535][e]
 
 [msg SANADA_CHECK_WALL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12330]Parece extra�o. Vamos a comprobarlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12330]Parece extraño. Vamos a comprobarlo.[n][f 1 6 65535][e]
 
 [msg SANADA_CHECK_WALL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12331]Hay algo ah胤... Me pregunto qu姻 es.[n][f 1 6 65535][e]
@@ -215,7 +215,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12362]Date prisa. Tengo que quedarme en modo de[n]ejercicio.[n][f 1 6 65535][e]
 
 [msg SANADA_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12363]夷D吋nde est茨 el objetivo? Terminemos esto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12363]夷Dónde est茨 el objetivo? Terminemos esto.[n][f 1 6 65535][e]
 
 [msg SANADA_QUEST_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12364]Esto es perfecto para el entrenamiento.[n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12354]夷Estamos cerca de la mitad?[n][f 1 6 65535][e]
 
 [msg SANADA_TOUHA_50_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12355]Casi a mitad de camino. 夷C吋mo est茨n todos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12355]Casi a mitad de camino. 夷Cómo est茨n todos?[n][f 1 6 65535][e]
 
 [msg SANADA_TOUHA_75_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12356]Estamos a punto de terminar con este piso.[n][f 1 6 65535][e]

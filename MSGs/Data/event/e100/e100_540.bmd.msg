@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 82 2 1 1][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 6]Nnnghhhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]B-Pero, 夷correr d吋nde?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]B-Pero, 夷correr dónde?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 0]Nnh...[n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 71 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Est茨... bien ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 1 6][f 3 1 1 0 0 0]Oye, mira... Doe dej� algo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 1 6][f 3 1 1 0 0 0]Oye, mira... Doe dejó algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Hrmm? Eso es...[n][f 1 3 65535][f 1 1][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 3][f 3 1 1 0 0 0]斡Oye, Doe! 斡Resp吋ndenos, imb姻cil![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 3][f 3 1 1 0 0 0]斡Oye, Doe! 斡Respóndenos, imb姻cil![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Doe]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
@@ -125,10 +125,10 @@
 [f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Wah! 夷Qui姻nes son?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 0]Bueno, la versi吋n TL;DR es: son la Brigada[n]Azul.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 0]Bueno, la versión TL;DR es: son la Brigada[n]Azul.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Tienes raz吋n, son bastante azules..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Tienes razón, son bastante azules..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Espera, 夷qu姻? 夷Por qu姻 es palomitas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Theodore]]
@@ -136,7 +136,7 @@
 
 [msg MSG_044 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Ahora, 夷cu茨l ser茨?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Vas a probar la llave? 夷O no? 夷Cu茨l es tu[n]decisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Vas a probar la llave? 夷O no? 夷Cu茨l es tu[n]decisión?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_045 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Vamos a probarlo.[f 2 7 1 64 2 32][e]
@@ -147,7 +147,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 0]Estoy de acuerdo. Si no lo intentamos, no[n]haremos ning雨n progreso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 6 0 1][f 3 1 1 0 0 0]Quiero decir, sali� de su cuerpo... Tambi姻n[n]me asust姻.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 6 0 1][f 3 1 1 0 0 0]Quiero decir, salió de su cuerpo... Tambi姻n[n]me asust姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 0]Pero no tenemos nada m茨s que seguir. Creo[n]que vale la pena probarlo.[n][f 1 3 65535][f 1 1][e]
@@ -159,7 +159,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 0]Bueno, entonces, vamos a probarlo a la vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 8 1 1][f 3 1 1 0 0 0]Si se ha llegado a una decisi吋n, vamos a[n]calmarnos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 8 1 1][f 3 1 1 0 0 0]Si se ha llegado a una decisión, vamos a[n]calmarnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 1 0 1][f 4 6 69 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qui姻n es esa gente con ropa azul?[n][f 1 3 65535][f 1 1][e]

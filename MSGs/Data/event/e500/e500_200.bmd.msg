@@ -3,7 +3,7 @@
 
 [sel SEL_001 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Es de un carrete de pel胤cula diferente.[f 2 7 1 20 6 32][e]
-[f 0 5 65278][f 2 1]Es una repetici吋n.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Es una repetición.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Ese es su hermano gemelo.[f 2 7 1 20 2 32][e]
 
 [msg MSG_002 [Akechi]]
@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 8][f 3 1 1 0 0 6]No, este es m茨s probable de una pel胤cula[n]diferente que la que editamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 12 0 7][f 3 1 1 0 0 7]La primera pel胤cula cambi� junto con la[n]conciencia de Hikari...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 12 0 7][f 3 1 1 0 0 7]La primera pel胤cula cambió junto con la[n]conciencia de Hikari...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8]Pero las personas que est茨n viendo ahora[n]siguen atrapadas en esa forma distorsionada[n]de pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Haru]]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 22 4 0 7][f 3 1 1 0 0 19][f 6 1 2 0 0 4]As胤 que, como, el negro ser胤a blanco si lo[n]dijeras? 夷Qu姻 eres, est雨pido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 8][f 3 1 1 0 0 20]Incluso los ni�os saben que tal racionalidad[n]es profundamente imperfecta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 8][f 3 1 1 0 0 20]Incluso los niños saben que tal racionalidad[n]es profundamente imperfecta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 0 3 0][f 3 1 1 0 0 21]斡Nada cambiar茨, no importa lo que digas![n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 0 0 7][f 3 1 1 0 0 24]Hah! No podr胤as estar m茨s equivocado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 8][f 3 1 1 0 0 25]De hecho. Por definici吋n, los h姻roes ayudan[n]a los d姻biles al levantarse hacia los[n]fuertes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 8][f 3 1 1 0 0 25]De hecho. Por definición, los h姻roes ayudan[n]a los d姻biles al levantarse hacia los[n]fuertes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 7][f 3 1 1 0 0 26][f 6 1 2 0 0 6]B茨sicamente, el effin total frente a ti![n][f 1 3 65535][f 1 1][e]

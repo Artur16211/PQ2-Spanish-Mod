@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54125]Ahora, para esta proyecci吋n especial...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54125]Ahora, para esta proyección especial...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Vas a ir a la Tierra de Junessic y terminar[n]con la tiran胤a sin control de la Bestia[n]Ravenosa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Rise]]
@@ -7,23 +7,23 @@
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54059]Correcto... Es una amenaza mucho m茨s maliciosa[n]que cualquier dinosaurio com雨n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Devorando todo a la vista, es la definici吋n[n]de B-E-A-S-T.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Devorando todo a la vista, es la definición[n]de B-E-A-S-T.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Actualmente se est茨 volviendo loco, haciendo[n]lo que quiera, donde quiera que[n]quiera...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 54080]Si algo no se hace pronto, es seguro que te[n]precipite tarde o temprano... o as胤 me[n]temo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 3][f 3 1 1 0 0 0]La mierda que dices que no coincide con tu[n]expresi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 3][f 3 1 1 0 0 0]La mierda que dices que no coincide con tu[n]expresión...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 6][f 3 1 1 0 0 12030]Eso suena como un oponente aterrador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 10 1 3][f 3 1 1 0 0 18133]Igual que t雨...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 18 1 0 0][f 3 1 1 0 0 18112]Entonces, 夷c吋mo encontramos esta cosa? 夷Pueden[n]los navegantes verlo por nosotros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 1 0 0][f 3 1 1 0 0 18112]Entonces, 夷cómo encontramos esta cosa? 夷Pueden[n]los navegantes verlo por nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 12 1 0 0][f 4 6 6 6 0 1][f 3 1 1 0 0 6009]Se est茨 moviendo tanto, no creo que podamos[n]determinar su ubicaci吋n exacta...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 6 12 0 1][f 3 1 1 0 0 0]Si tan solo tuvi姻ramos alguna pista de d吋nde[n]podr胤a ser...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 1 0 0][f 4 6 6 6 0 1][f 3 1 1 0 0 6009]Se est茨 moviendo tanto, no creo que podamos[n]determinar su ubicación exacta...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 0 1][f 3 1 1 0 0 0]Si tan solo tuvi姻ramos alguna pista de dónde[n]podr胤a ser...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Busquemos huesos.[f 2 7 1 64 0 32][e]
@@ -31,7 +31,7 @@
 
 [msg MSG_008 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 1][f 3 1 1 0 0 28075]Buena idea. Todo lo que tenemos que hacer es[n]buscar las pistas que quedan por detr茨s[n]por esta Bestia Ravenosa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si est茨 atacando y comiendo todo lo que pone[n]los ojos, entonces podemos seguir su[n]rastro de alimentaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si est茨 atacando y comiendo todo lo que pone[n]los ojos, entonces podemos seguir su[n]rastro de alimentación...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 3][f 3 1 1 0 0 18091]Y eventualmente nos enfrentaremos con el[n]bastardo, 夷eh? Bastante horrible.[n][f 1 3 65535][f 1 1][e]

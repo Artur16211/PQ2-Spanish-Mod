@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1]No uses[e]
 
 [msg ONEWAY_ASK]
-[f 0 5 65278][f 2 1]Este atajo parece que s吋lo va de una manera;[n]puedo pasar, [f 0 1 2] pero no podr姻[n]volver del otro lado...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Este atajo parece que sólo va de una manera;[n]puedo pasar, [f 0 1 2] pero no podr姻[n]volver del otro lado...[n][f 1 1][e]
 
 [sel SEL_ONEWAY_ASK top]
 [f 0 5 65278][f 2 1]Uso[e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1]夷Qu姻 debo hacer?[n][f 1 1][e]
 
 [msg FIND_QUEST_TEST]
-[f 0 5 65278][f 2 1]Quiz茨s deber胤amos volver al Cine y comprobar[n]el estado de la misi吋n...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Quiz茨s deber胤amos volver al Cine y comprobar[n]el estado de la misión...[n][f 1 1][e]
 
 [sel SEL_QUEST_ESCAPE_TEST top]
 [f 0 5 65278][f 2 1]Volver al Cine[e]
@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1]Cancelar[e]
 
 [msg USE_AUTO_RECOVER_ASK]
-[f 0 5 65278][f 2 1]夷Deber胤a usar la recuperaci吋n autom茨tica?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Deber胤a usar la recuperación autom茨tica?[n][f 1 1][e]
 
 [sel AUTO_RECOVER_SEL top]
 [f 0 5 65278][f 2 1]Uso[e]
@@ -83,13 +83,13 @@
 [f 0 5 65278][f 2 1]Tal vez no.[n][f 1 1][e]
 
 [msg AUTO_RECOVER_NOT_USE_MSG_2]
-[f 0 5 65278][f 2 1]Nadie necesita curaci吋n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Nadie necesita curación.[n][f 1 1][e]
 
 [msg AUTO_RECOVER_NOT_USE_MSG_3]
-[f 0 5 65278][f 2 1]No hay suficiente SP para usar la habilidad[n]de recuperaci吋n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No hay suficiente SP para usar la habilidad[n]de recuperación.[n][f 1 1][e]
 
 [msg AUTO_RECOVER_NOT_USE_MSG_4]
-[f 0 5 65278][f 2 1]Nadie en la fiesta puede usar una habilidad[n]de recuperaci吋n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Nadie en la fiesta puede usar una habilidad[n]de recuperación.[n][f 1 1][e]
 
 [msg MSG_TUTORIAL_OTAKARA_GET]
 [f 0 5 65278][f 2 1]� Treasure Spot event[n][f 1 1][e]
@@ -117,17 +117,17 @@
 [f 0 5 65278][f 2 1]� Inventario evento completo[n][f 1 1][e]
 
 [msg MSG_TUTORIAL_QUEST_MAP_0]
-[f 0 5 65278][f 2 1]Si entras en un laberinto durante una proyecci吋n[n]especial, [f 0 1 2] algunos caminos ser茨n inaccesibles[f 0 1 0][n]. Podr胤a[n]haber otros cambios tambi姻n.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 0 1 2]El mapa puede mostrar algunas diferencias en[n]el dise�o del suelo. [f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Si entras en un laberinto durante una proyección[n]especial, [f 0 1 2] algunos caminos ser茨n inaccesibles[f 0 1 0][n]. Podr胤a[n]haber otros cambios tambi姻n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 2]El mapa puede mostrar algunas diferencias en[n]el diseño del suelo. [f 0 1 0].[n][f 1 1][e]
 
 [msg MSG_TUTORIAL_QUEST_MAP_1]
 [f 0 5 65278][f 2 1]Las 茨reas inaccesibles ser茨n [f 0 1 2] de color rojo[f 0 1 0][n]y [f 0 1 2] marcados con un icono especial[f 0 1 0][n]en la[n]pantalla inferior.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Mantenga un ojo en la pantalla inferior y[n]mant姻ngase alerta al explorar laberintos[n]durante ex茨menes especiales.[n][f 1 1][e]
 
 [msg MSG_TUTORIAL_QUEST_MAP_2]
-[f 0 5 65278][f 2 1]Adem茨s, aparecer茨 en la pantalla inferior[n]una paleta de detecci吋n especial [f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Los iconos de esta paleta [f 0 1 2] s吋lo se pueden colocar durante una proyecci吋n especial[f 0 1 0][n][n].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Uso estos para marcar eventos que s吋lo ocurren[n]durante ex茨menes especiales.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Adem茨s, aparecer茨 en la pantalla inferior[n]una paleta de detección especial [f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Los iconos de esta paleta [f 0 1 2] sólo se pueden colocar durante una proyección especial[f 0 1 0][n][n].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Uso estos para marcar eventos que sólo ocurren[n]durante ex茨menes especiales.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Hacer uso de la paleta y tratar de completar[n]la b雨squeda.[n][f 1 1][e]
 
 [msg MSG_TUTORIAL_QUEST_TREAS]
@@ -144,7 +144,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26386]斡Uno duro en el camino! 斡Prep茨rate![n][f 1 6 65535][e]
 
 [msg MSG_FUKA_IP_BTL_MSG_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14384]Estoy captando una se�al... 斡Cuidado, es el[n]Segador![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14384]Estoy captando una señal... 斡Cuidado, es el[n]Segador![n][f 1 6 65535][e]
 
 [msg MSG_FUKA_IP_BTL_MSG_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14385]斡El Segador te est茨 cerrando! 斡Por favor,[n]qu姻date en tu guardia![n][f 1 6 65535][e]
@@ -159,7 +159,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6385]斡Siento al Segador! 斡Qu姻date en tu guardia![n][f 1 6 65535][e]
 
 [msg MSG_RISE_IP_BTL_MSG_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6386]斡Recogiendo una se�al del Segador! 斡Viene[n]por aqu胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6386]斡Recogiendo una señal del Segador! 斡Viene[n]por aqu胤![n][f 1 6 65535][e]
 
 [msg MSG_JUSTINE_IP_BTL_MSG_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59384]El Segador se acerca. Por favor, ten cuidado.[n][f 1 6 65535][e]
@@ -186,7 +186,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54385]Con mis incre胤bles orejas, puedo o胤r la[n]llamada de Segador.[n][f 1 6 65535][e]
 
 [msg MSG_ELIZABETH_IP_BTL_MSG_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54386]Ese sonido... S吋lo puede ser un Segador.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54386]Ese sonido... Sólo puede ser un Segador.[n][f 1 6 65535][e]
 
 [msg MSG_THEODOR_IP_BTL_MSG_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56384]Ojal茨 esto no fuera verdad, 斡pero viene un[n]Segador![n][f 1 6 65535][e]
@@ -232,5 +232,5 @@
 [f 0 5 65278][f 2 1]Esperemos a que se vaya antes de ir m茨s[n]lejos.[n][f 1 1][e]
 
 [msg MSG_GET_TRESURE_MAP]
-[f 0 5 65278][f 2 1]La [f 0 1 2]ubicaci吋n del tesoro[f 0 1 0][n]oculto en esta pel胤cula ha sido marcada en[n]el mapa.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La [f 0 1 2]ubicación del tesoro[f 0 1 0][n]oculto en esta pel胤cula ha sido marcada en[n]el mapa.[n][f 1 1][e]
 

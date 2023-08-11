@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 80 2 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Eres t雨 quien me dijo que hiciera esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 54026]斡Has ejecutado con 姻xito al verdugo! 斡Lo[n]arranc� a chatarra![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 54026]斡Has ejecutado con 姻xito al verdugo! 斡Lo[n]arrancó a chatarra![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que puedes tomar cualquier obst茨culo[n]que el enemigo te tira...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Hm...?[n][f 1 3 65535][f 1 1][e]
 
@@ -52,14 +52,14 @@
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Entonces seamos m茨s fuertes! 斡Akihiko-san[n]puede ayudarnos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0]Bueno... Tal vez eso pueda esperar hasta la[n]pr吋xima vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0]Bueno... Tal vez eso pueda esperar hasta la[n]próxima vez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 7 1 0 0][f 4 6 12 12 0 1][f 3 1 1 0 0 12029][f 6 1 2 0 0 6]斡Lo o胤 todo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 0]Ya te hice un r姻gimen de entrenamiento. 斡Lo[n]tengo cubierto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Dije la pr吋xima vez! 夷No has o胤do esa parte?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Dije la próxima vez! 夷No has o胤do esa parte?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 2 2 6][f 3 1 1 0 0 0]Junpei-san... 斡Lo tienes! 斡Te estoy animando![n][f 1 3 65535][f 1 1][e]

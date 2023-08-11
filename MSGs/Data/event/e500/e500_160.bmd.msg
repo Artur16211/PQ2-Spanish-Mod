@@ -1,8 +1,8 @@
 [msg MSG_000]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]El Cine de Hikari, la sala de proyecci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]El Cine de Hikari, la sala de proyección...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 0 0 1][f 3 1 1 0 0 1]Veamos, 夷d吋nde est茨n las pel胤culas revisadas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 0 0 1][f 3 1 1 0 0 1]Veamos, 夷dónde est茨n las pel胤culas revisadas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 1][f 3 1 1 0 0 2][f 6 1 2 0 0 4]夷Este es?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Kanji]]
@@ -39,7 +39,7 @@
 
 [msg MSG_011 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 6][f 3 1 1 0 0 15][f 6 1 2 0 0 10]斡As胤 es! Nos dirigimos directamente a la base[n]principal del enemigo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Si nos encontramos con esa se�ora de nuevo,[n]incluso podr胤a terminar haciendo da�o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Si nos encontramos con esa señora de nuevo,[n]incluso podr胤a terminar haciendo daño...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 17]Por eso quiero ir... Todav胤a hay algo que[n]necesito decirle en persona.[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 
 [msg MSG_018 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 26]Parece que no hay necesidad de preocuparse.[n]Deber胤amos traerla con nosotros si Futaba[n]lo dice.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]No importa lo que pase en esta misi吋n, podremos[n]protegerla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]No importa lo que pase en esta misión, podremos[n]protegerla.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 12 0 3][f 3 1 1 0 0 28][f 6 1 2 0 0 7]斡Muy bien, tenemos esto! 斡Aunque aparezcan[n]algunos malos, los sacaremos del parque[n]con nuestras Personas![n][f 1 3 65535][f 1 1][e]
@@ -82,5 +82,5 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 2 6 1][f 3 1 1 0 0 30][f 6 1 2 0 0 6]斡Muchas gracias![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 31]Bueno, regresemos al vest胤bulo. Debemos[n]prepararnos para nuestra misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 31]Bueno, regresemos al vest胤bulo. Debemos[n]prepararnos para nuestra misión.[n][f 1 3 65535][f 1 1][e]
 

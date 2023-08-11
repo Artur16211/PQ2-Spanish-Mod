@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 7]Arf! 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 4][f 3 1 1 0 0 13052]Ven ahora, no te pongas demasiado juguet吋n.[n]Ribbon no est茨 seguro de c吋mo reaccionar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 4][f 3 1 1 0 0 13052]Ven ahora, no te pongas demasiado juguetón.[n]Ribbon no est茨 seguro de cómo reaccionar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ribbon]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1]夷Est茨s creciendo m茨s musculoso?[f 2 7 1 20 8 32][e]
 
 [msg MSG_012 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 6][f 3 1 1 0 0 22018]No creo que sea exactamente correcto.[n]Probablemente sea m茨s un sentimiento so�ado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 6][f 3 1 1 0 0 22018]No creo que sea exactamente correcto.[n]Probablemente sea m茨s un sentimiento soñado.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Oh, tal vez algo como, "D'awww", lo cubrir胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ribbon]]
@@ -56,13 +56,13 @@
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 1][f 3 1 1 0 0 12078][f 6 1 2 0 0 4]Espera, ella es un robot - 夷no significa que[n]no tiene m雨sculos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Si incluso Aki puede detectar el problema[n]con tu l吋gica, se acab�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Si incluso Aki puede detectar el problema[n]con tu lógica, se acabó.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 20 1 0 3][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]I think what Ribbon-chan is trying to say[n]is a feeling of seeing something cute that[n]makes you happy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 35 1 0 1][f 4 6 5 2 0 3][f 3 1 1 0 0 5069]Mmhm, es esta sensaci吋n que tienes cuando[n]algo es tan adorable, s吋lo quieres apretarlo[n]apretado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 35 1 0 1][f 4 6 5 2 0 3][f 3 1 1 0 0 5069]Mmhm, es esta sensación que tienes cuando[n]algo es tan adorable, sólo quieres apretarlo[n]apretado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]夷SQUEEZE?[n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 
 [msg MSG_024 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 7 12 0 0][f 3 1 1 0 0 7032]La compatibilidad no tiene nada que ver con[n]eso...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ver algo lindo y tener sentimientos sobre 姻l[n]es totalmente normal... 斡S吋lo hace que[n]quieras acariciarlo, es todo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ver algo lindo y tener sentimientos sobre 姻l[n]es totalmente normal... 斡Sólo hace que[n]quieras acariciarlo, es todo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]夷ESO ES AS緯? ENTONCES, 夷QUIERES HACERLE UNA[n]PREGUNTA TAN BIEN, KANJI-SAN?[n][f 1 3 65535][f 1 1][e]
@@ -94,11 +94,11 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Te est茨 advirtiendo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 27 12 0 3][f 3 1 1 0 0 27001]Oye, Ribbon-chan... No creo que tengas que[n]tomar una decisi吋n sobre c吋mo te sientes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 27 12 0 3][f 3 1 1 0 0 27001]Oye, Ribbon-chan... No creo que tengas que[n]tomar una decisión sobre cómo te sientes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 24067]De hecho... Otros no deber胤an ser los que[n]dictan c吋mo debes sentirte.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 0]Adem茨s, mencionaste que tus sentimientos no[n]son adecuados para un robot, pero mira[n]c吋mo es Aigis sin preocupaciones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 24067]De hecho... Otros no deber胤an ser los que[n]dictan cómo debes sentirte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 0]Adem茨s, mencionaste que tus sentimientos no[n]son adecuados para un robot, pero mira[n]cómo es Aigis sin preocupaciones.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 1][f 3 1 1 0 0 26033]Est茨 ah胤.[n][f 1 3 65535][f 1 1][e]
@@ -141,7 +141,7 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 4 6 17 2 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 35 1 0 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷qu姻 te parece? 夷C吋mo se sent胤a[n]para mascotas Koromaru?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 35 1 0 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷qu姻 te parece? 夷Cómo se sent胤a[n]para mascotas Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35022]ESTABA TAN... WARM... Y MUY... FLUFFY...[n][f 1 3 65535][f 1 1][e]

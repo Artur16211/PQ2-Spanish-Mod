@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻 est茨n haciendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]斡Nada de qu姻 preocuparse! Haciendo un poco[n]de entrenamiento. Una peque�a batalla para[n]conseguir la bombeo de sangre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]斡Nada de qu姻 preocuparse! Haciendo un poco[n]de entrenamiento. Una pequeña batalla para[n]conseguir la bombeo de sangre.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Alguien saldr茨 herido...[f 2 7 1 20 0 32][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25011][f 6 1 2 0 0 4]夷Esto es todo lo que ustedes dos han...?[n]夷Siempre entrenas tanto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Mi rutina habitual es correr, luego practico[n]mis patadas... 斡Finalmente, termino con[n]un taz吋n de carne![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Mi rutina habitual es correr, luego practico[n]mis patadas... 斡Finalmente, termino con[n]un tazón de carne![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]S胤. Tienes que lanzar tu cuerpo en un[n]entrenamiento duro, luego sellar el trato con[n]una mordida saludable de prote胤nas.[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo mismo se aplica a su dieta. No puedes[n]comer prote胤na y nada m茨s. Tienes que pensar[n]en el equilibrio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 7 1 0][f 3 1 1 0 0 12075]斡Eso es! Practicas aikido, 夷verdad, Queen?[n]Bueno, no puedo negar la idea de un[n]compa�ero de caza...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 7 1 0][f 3 1 1 0 0 12075]斡Eso es! Practicas aikido, 夷verdad, Queen?[n]Bueno, no puedo negar la idea de un[n]compañero de caza...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]As胤 que ahora tambi姻n soy parte de esto,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -77,11 +77,11 @@
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Pero si voy a hacer eso, necesito medir la[n]fuerza de todo el mundo para que pueda[n]encontrar hitos realistas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25053][f 6 1 2 0 0 9]No t雨 tambi姻n... Aunque supongo que no me[n]importar胤a ense�arte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25053][f 6 1 2 0 0 9]No t雨 tambi姻n... Aunque supongo que no me[n]importar胤a enseñarte.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Pero si voy a hacer eso, necesito medir la[n]fuerza de todo el mundo para que pueda[n]encontrar hitos realistas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25036][f 6 1 2 0 0 9]夷Es este el momento de decir eso? Bueno,[n]supongo que no me importa ense�arte...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25036][f 6 1 2 0 0 9]夷Es este el momento de decir eso? Bueno,[n]supongo que no me importa enseñarte...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Pero si voy a hacer eso, necesito medir la[n]fuerza de todo el mundo para que pueda[n]encontrar hitos realistas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Haru]]

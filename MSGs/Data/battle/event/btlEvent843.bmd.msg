@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Reservado[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_101]
-[f 0 5 65278][f 2 1]"Team Convert" Has ganado la capacidad de[n]cambiar tu equipo en medio del combate. Presione el bot吋n Y en la pantalla CONVERT para realizar esta acci吋n, conocida como [f 0 1 2][n][n][n]Team Convert[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]"Team Convert" Has ganado la capacidad de[n]cambiar tu equipo en medio del combate. Presione el botón Y en la pantalla CONVERT para realizar esta acción, conocida como [f 0 1 2][n][n][n]Team Convert[f 0 1 0].[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_102]
 [f 0 5 65278][f 2 1]"Team Convert" Despu姻s de iniciar Team Convert,[n]el equipo actual utilizar茨 cada uno[n]de sus turnos para defender hasta que[n]llegue el otro equipo.[n][f 1 1][e]

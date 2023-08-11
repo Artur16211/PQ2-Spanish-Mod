@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54029]Bueno, todo el mundo, ha llegado el momento.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Has adquirido cuatro piezas de pel胤cula.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De ellos, tres han recuperado su brillo, y[n]s吋lo uno permanece sooty...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De ellos, tres han recuperado su brillo, y[n]sólo uno permanece sooty...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 3][f 3 1 1 0 0 0]As胤 que, una vez que mostramos nuestra[n]capacidad de un 雨ltimo 茨rbitro de poder...[n][f 1 3 65535][f 1 1][e]
@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 10 0 3][f 3 1 1 0 0 14064]斡Aah! Me sorprendiste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 4 100 0][f 3 1 1 0 0 0]En este momento crucial del destino, 夷qui姻n[n]aparecer茨 como el pr吋ximo gobernador del[n]poder?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 100 0][f 3 1 1 0 0 0]En este momento crucial del destino, 夷qui姻n[n]aparecer茨 como el próximo gobernador del[n]poder?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷De qu姻 est茨 trabajando? 夷Tiene que[n]preguntar?[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]斡No te oigo! 夷Alguien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]斡Entonces! Eres el l胤der aqu胤, [f 6 1 30 0 0][n]. 斡Dejemos que responda![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Well then! You're the leader here,[n][f 6 1 30 0 0 0]. Let's have you answer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 23 0 3 6][f 3 1 1 0 0 23091][f 6 1 2 0 0 9]Oye, probablemente deber胤as responder...[n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1]斡夷Elizabeth?[f 2 7 1 64 12 0][e]
 
 [msg MSG_013 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 10 100 0][f 3 1 1 0 0 54001]斡Qu姻 sorpresa! 斡Tienes raz吋n! Supongo que no[n]eres un l胤der para nada, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 10 100 0][f 3 1 1 0 0 54001]斡Qu姻 sorpresa! 斡Tienes razón! Supongo que no[n]eres un l胤der para nada, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Yo, Elizabeth, me esforzar姻 por demostrarme[n]digno de este honor.[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 
 [msg MSG_014 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19020]Huh...? Where's she going?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Es la se�al de Kamoshidaman? 夷Qu姻 est茨[n]haciendo ah胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Es la señal de Kamoshidaman? 夷Qu姻 est茨[n]haciendo ah胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]Recuperando algo por detr茨s, aparentemente.[n][f 1 3 65535][f 1 1][e]

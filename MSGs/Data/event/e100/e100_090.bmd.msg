@@ -23,19 +23,19 @@
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 6][f 3 1 1 0 0 8][f 6 1 2 0 0 4]夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 9]Es realmente extra�o... Desde que ocurri� la[n]anomal胤a, s吋lo esa pel胤cula ha estado[n]en cartelera.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 2 0 0 4]夷Est茨 consciente del extra�o proyectoionista[n]en la sala de proyecci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 9]Es realmente extraño... Desde que ocurrió la[n]anomal胤a, sólo esa pel胤cula ha estado[n]en cartelera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 2 0 0 4]夷Est茨 consciente del extraño proyectoionista[n]en la sala de proyección?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 11]Supongo que no te refieres a ese extra�o[n]objeto negro... 夷El que es es esponjoso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 11]Supongo que no te refieres a ese extraño[n]objeto negro... 夷El que es es esponjoso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 10 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 0]夷Ese es el proyectoionista? No es una mu�eca...[n]夷Est茨 vivo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 10 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 0]夷Ese es el proyectoionista? No es una muñeca...[n]夷Est茨 vivo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 13]Lo llamamos as胤 desde que pone las pel胤culas,[n]pero no tenemos idea de qui姻n o qu姻[n]puede ser realmente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Ese extra�o ser apareci� en la sala de[n]proyecci吋n despu姻s de que la anomal胤a golpe吋[n]este Cine...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15]No sabemos sus intenciones, s吋lo que sigue[n]filmando la misma pel胤cula, una y otra[n]vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Ese extraño ser apareció en la sala de[n]proyección despu姻s de que la anomal胤a golpeó[n]este Cine...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15]No sabemos sus intenciones, sólo que sigue[n]filmando la misma pel胤cula, una y otra[n]vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 2 4][f 3 1 1 0 0 16]Me asusta... No quiero acercarme a 姻l...[n][f 1 3 65535][f 1 1][e]
@@ -50,12 +50,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 3 0 0 1]No, viene de John Doe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 6 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 4]夷John qui姻n? 夷Es un extra�o? 夷Conoces a[n]alguien con ese nombre?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 6 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 4]John who? Is that some kinda foreigner?[n]You know anyone with that name,[n][f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_017 top]
 [f 0 5 65278][f 2 1]Apuesto a que es un m雨sico legendario.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Suena como un actor famoso.[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]Es s吋lo un nombre provisional.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]Es sólo un nombre provisional.[f 2 7 1 64 0 32][e]
 
 [msg MSG_018 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 4][f 3 1 1 0 0 21]Ese no es el nombre de alguna celebridad...[n][f 1 3 65535][f 1 1][e]
@@ -78,7 +78,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 81 4 2 0][f 3 1 1 0 0 28]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 29]Me recuerda c吋mo sol胤a ser...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 29]Me recuerda cómo sol胤a ser...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 30]夷Hm? 夷Has dicho algo, Futaba?[n][f 1 3 65535][f 1 1][e]
@@ -87,15 +87,15 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 31]Oh, nah. No es nada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Pero la pel胤cula que Doe est茨 reproduciendo,[n]夷por qu姻 Kamoshida est茨 en ella, y en[n]el papel protag吋nico?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 33]夷Hay alg雨n tipo de conexi吋n entre Doe y[n]Kamoshida?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Pero la pel胤cula que Doe est茨 reproduciendo,[n]夷por qu姻 Kamoshida est茨 en ella, y en[n]el papel protagónico?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 33]夷Hay alg雨n tipo de conexión entre Doe y[n]Kamoshida?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 34]O quiz茨 sea una conexi吋n entre este Cine y[n]Kamoshida...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 34]O quiz茨 sea una conexión entre este Cine y[n]Kamoshida...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 35]Oh, espera un momento. Parece que has entendido[n]mal...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]S吋lo desde que llegaron aqu胤, la pel胤cula se[n]convirti� en la de "Kamoshidaman"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]Sólo desde que llegaron aqu胤, la pel胤cula se[n]convirtió en la de "Kamoshidaman"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yusuke]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷"Llegaron"?[n][f 1 3 65535][f 1 1][e]
@@ -110,10 +110,10 @@
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 40]La trama de la pel胤cula era la misma, pero[n]la cara y el nombre del h姻roe eran[n]completamente diferentes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Ann]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷C吋mo podr胤a un personaje de cine cambiar[n]as胤 de repente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷Cómo podr胤a un personaje de cine cambiar[n]as胤 de repente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 42]As胤 que todos estos acontecimientos extra�os,[n]incluyendo la pel胤cula adaptativa,[n]est茨n ligados a la anomal胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 42]As胤 que todos estos acontecimientos extraños,[n]incluyendo la pel胤cula adaptativa,[n]est茨n ligados a la anomal胤a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 43]Su propio salto fuera de la pel胤cula tambi姻n...[n]Esto ha sido una serie interminable[n]de sorpresas.[n][f 1 3 65535][f 1 1][e]
@@ -131,7 +131,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 47]S胤, de repente salieron de la pantalla del[n]Cine.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 6 0 0][f 3 1 1 0 0 48][f 6 1 2 0 0 0]斡Espera, espera! 夷C吋mo tiene sentido eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 6 0 0][f 3 1 1 0 0 48][f 6 1 2 0 0 0]斡Espera, espera! 夷Cómo tiene sentido eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 49]Pero, de hecho aparec胤an en la pantalla...[n]Hikari-san, t雨 tambi姻n lo viste, 夷no?[n][f 1 3 65535][f 1 1][e]

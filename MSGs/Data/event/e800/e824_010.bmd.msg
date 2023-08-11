@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 3][f 3 1 1 0 0 54010]El objetivo de esta proyecci吋n especial es[n]desactivar el nuevo sistema de seguridad[n]y escape de A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 3][f 3 1 1 0 0 54010]El objetivo de esta proyección especial es[n]desactivar el nuevo sistema de seguridad[n]y escape de A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La tecnolog胤a que se encuentra all胤 ciertamente[n]es sorprendente, es decir, fuera de[n]este mundo o quiz茨s O.M.G.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A la luz de este cambio de seguridad, me[n]gustar胤a que investigaras.[n][f 1 3 65535][f 1 1][e]
 
@@ -53,5 +53,5 @@
 
 [msg MSG_015 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 69 12 0 1][f 3 1 1 0 0 0]Bueno, el sistema de seguridad ha cambiado,[n]as胤 que tendremos que proceder con[n]cuidado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuidado con el paso, [f 6 1 29 0 0]-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Watch your step out there,[n][f 6 1 29 0 0 0]-kun.[n][f 1 3 65535][f 1 1][e]
 

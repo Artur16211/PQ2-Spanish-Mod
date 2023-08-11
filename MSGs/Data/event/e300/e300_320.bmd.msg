@@ -20,23 +20,23 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 7]Oh, um... Bueno, todos los dem茨s estaban muy[n]preocupados, as胤 que...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 8]Por cierto, alguien me dijo que no puedes[n]recordar c吋mo o por qu姻 viniste aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 8]Por cierto, alguien me dijo que no puedes[n]recordar cómo o por qu姻 viniste aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-Mmhm... Cuando me despert姻, ya estaba[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chico Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 3 1 1 0 0 10]No te preocupes. Saldremos de este lugar[n]juntos, seguro.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]... Por supuesto, eso puede parecer extra�o[n]viniendo de alguien que acaba de llegar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]... Por supuesto, eso puede parecer extraño[n]viniendo de alguien que acaba de llegar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 81 4 2 0][f 3 1 1 0 0 12]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 2 0 0 1][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷C吋mo est茨 Aigis?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 2 0 0 1][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Cómo est茨 Aigis?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 14]Al igual que sospechaba Mitsuru-senpai, parece[n]que s吋lo est茨 temporalmente bajada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 14]Al igual que sospechaba Mitsuru-senpai, parece[n]que sólo est茨 temporalmente bajada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 4]Futaba, 夷puedes echar una mano ah胤? Eres[n]bueno en cosas de techy as胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 0 0 3][f 3 1 1 0 0 18]En ese caso, por favor s胤gueme...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yusuke]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]夷C吋mo te fue, Futaba?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]夷Cómo te fue, Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 18 1 1][f 3 1 1 0 0 20][f 6 1 2 0 0 6]Omigod... Est茨 compuesta de todas estas partes[n]locas con tecnolog胤a loca y... 斡De[n]todos modos, es una locura![n][f 1 3 65535][f 1 1][e]
@@ -62,8 +62,8 @@
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 6][f 3 1 1 0 0 21]Tampoco lo entiendo, pero entiendo la idea[n]de que es una locura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 18 1 0][f 3 1 1 0 0 22]Parece que tiene una funci吋n autom茨tica de[n]auto-reparaci吋n, 斡las partes rotas se[n]est茨n arreglando solas![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 0]夷Qu姻 clase de tecnolog胤a hace eso? 斡Esto no[n]es nada menos que un mago de ciencia[n]ficci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 18 1 0][f 3 1 1 0 0 22]Parece que tiene una función autom茨tica de[n]auto-reparación, 斡las partes rotas se[n]est茨n arreglando solas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 0]夷Qu姻 clase de tecnolog胤a hace eso? 斡Esto no[n]es nada menos que un mago de ciencia[n]ficción![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 13 12 0 0][f 3 1 1 0 0 24]Todas sus funciones parecen funcionar[n]normalmente. No hay problemas para el momento.[n][f 1 3 65535][f 1 1][e]
@@ -85,10 +85,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30]夷Y t雨 eres...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 31]斡S胤, todav胤a no nos hemos presentado! Soy[n]Kanji Tatsumi, un primer a�o en Instituto[n]Yasogami.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 31]斡S胤, todav胤a no nos hemos presentado! Soy[n]Kanji Tatsumi, un primer año en Instituto[n]Yasogami.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]夷Primer a�o? As胤 que eres m茨s joven que yo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]夷Primer año? As胤 que eres m茨s joven que yo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 6][f 3 1 1 0 0 33][f 6 1 2 0 0 9]T姻cnicamente, podr胤a ser incluso m茨s joven[n]de lo que crees...[n][f 1 3 65535][f 1 1][e]
@@ -98,7 +98,7 @@
 
 [msg MSG_031 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 72 12 0 0][f 3 1 1 0 0 35]Todos nos hemos originado en diferentes[n]lugares... y en diferentes momentos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]No s吋lo eso, algunos de nosotros aparentemente[n]estamos tratando con experiencias a雨n[n]m茨s an吋malas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]No sólo eso, algunos de nosotros aparentemente[n]estamos tratando con experiencias a雨n[n]m茨s anómalas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 25 0 0 0][f 4 6 19 7 0 3][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 37]...[n][f 1 3 65535][f 1 1][e]

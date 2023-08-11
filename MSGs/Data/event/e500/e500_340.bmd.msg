@@ -20,11 +20,11 @@
 [f 0 5 65278][f 2 1][f 4 6 8 2 1 3][f 3 1 1 0 0 6][f 6 1 2 0 0 6]斡Enlil![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Enlil]]
-[f 0 5 65278][f 2 1][f 4 6 39 6 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Es incomprensible para m胤, 夷por qu姻 est茨s[n]poniendo tanto esfuerzo en luchar por[n]completos extra�os?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 6 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Es incomprensible para m胤, 夷por qu姻 est茨s[n]poniendo tanto esfuerzo en luchar por[n]completos extraños?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8]Si hubieras escuchado mi palabra y regresado[n]a tus mundos, todas tus luchas aqu胤[n]ser胤an terminadas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 9]Puedo entender la sensaci吋n de querer huir,[n]y no querer salir lastimado...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 9]Puedo entender la sensación de querer huir,[n]y no querer salir lastimado...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 10][f 6 1 2 0 0 6]斡Pero por eso no puedo alejarme de lo que[n]est茨s haciendo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ann]]
@@ -41,8 +41,8 @@
 [f 0 5 65278][f 2 1]斡Vamos a tomar tu pel胤cula![f 2 7 1 20 0 2][e]
 
 [msg MSG_013 [Enlil]]
-[f 0 5 65278][f 2 1][f 4 6 39 1 2 0][f 3 1 1 0 0 14]"Madame Enlil, comisario de los cines de[n]enga�o..."[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15]"Desde que juegas pel胤culas que abogan por[n]la auto-abuso y enga�an a los miembros de[n]la audiencia para confundir la insensatez[n]por la paz..."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 1 2 0][f 3 1 1 0 0 14]"Madame Enlil, comisario de los cines de[n]engaño..."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15]"Desde que juegas pel胤culas que abogan por[n]la auto-abuso y engañan a los miembros de[n]la audiencia para confundir la insensatez[n]por la paz..."[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16]"Te robaremos esas pel胤culas distorsionadas.[n]Firmado, el Ladrones Fantasma."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Enlil]]
@@ -50,7 +50,7 @@
 
 [msg MSG_015 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 18]A menos que cambiemos las creencias de estos[n]corredores de Cine, alejarlos para[n]siempre ser茨 imposible.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]Por eso tuvimos que dise�ar un plan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]Por eso tuvimos que diseñar un plan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 14 1 6][f 3 1 1 0 0 20]S胤, encontramos una manera de cambiar[n]radicalmente los corazones de todos aqu胤.[n][f 1 3 65535][f 1 1][e]

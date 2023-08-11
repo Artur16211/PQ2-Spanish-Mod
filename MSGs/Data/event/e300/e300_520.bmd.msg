@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 16118][f 6 1 2 0 0 6]斡Oh! 斡Mira eso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 35 1 0 1][f 4 6 8 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una monta�a de robots? Son estas unidades...[n]夷Se desmoronaron?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 1 0 1][f 4 6 8 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una montaña de robots? Son estas unidades...[n]夷Se desmoronaron?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35008]NO, ESO ES INCOLORO... SON PANECILLOS[n]DESAPARECIDOS DE MORA A SUS PUERTAS.[n][f 1 3 65535][f 1 1][e]
@@ -58,8 +58,8 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]SI FUERA UN QUIR遺FANO, NADA DE ESTA EMOCI遺N[n]O SUS EFECTOS ESTAR緯AN OCULT威NDOSE...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]No es s吋lo tristeza.[f 2 7 1 20 6 32][e]
-[f 0 5 65278][f 2 1]Esa emoci吋n es importante.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]No es sólo tristeza.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1]Esa emoción es importante.[f 2 7 1 20 0 32][e]
 
 [msg MSG_019 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19053]The sadness you're feeling, and how you[n]find flowers beautiful... Both are thanks[n]to you being yourself, Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 
 [msg MSG_020 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 0 6][f 3 1 1 0 0 26108][f 6 1 2 0 0 6]斡S胤! Si algo, no quiero que no sientas nada[n]sobre esta horrible vista, Ribbon![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser capaz de sentir tristeza por otros robots[n]es prueba no s吋lo de su bondad, sino[n]tambi姻n de su fuerza.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser capaz de sentir tristeza por otros robots[n]es prueba no sólo de su bondad, sino[n]tambi姻n de su fuerza.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Creo que deber胤as enorgullecerte de ese[n]sentimiento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ribbon]]
@@ -81,7 +81,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Estoy seguro de que todo el mundo es feliz[n]por ti mismo, Ribbon-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5069]Teddie tiene raz吋n. Creo que eres maravillosa[n]exactamente como eres.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5069]Teddie tiene razón. Creo que eres maravillosa[n]exactamente como eres.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 0]夷QU� TAL? LO QUE USTED CONSIDERA A LOS BRINDIS[n]NOBLES TAN GRANDEMENTE DE LOS BRAZOS[n]DE ESTE MUNDO.[n][f 1 3 65535][f 1 1][e]
@@ -99,10 +99,10 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Bueno, lo que sea! 斡Podemos discutir todo[n]esto serio despu姻s de golpear al jefe![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 25068]Tienes raz吋n. En este momento, Ribbon ha sido[n]blanco para su eliminaci吋n por toda la[n]instalaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 25068]Tienes razón. En este momento, Ribbon ha sido[n]blanco para su eliminación por toda la[n]instalación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ser茨 mejor que vayamos a cerrar esa computadora[n]madre para empujar esta pel胤cula en[n]una direcci吋n diferente![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ser茨 mejor que vayamos a cerrar esa computadora[n]madre para empujar esta pel胤cula en[n]una dirección diferente![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_030 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Hag茨moslo..[e]

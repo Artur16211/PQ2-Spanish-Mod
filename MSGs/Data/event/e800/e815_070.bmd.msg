@@ -4,7 +4,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Qu姻 espect茨culo tan espl姻ndido. Fue una[n]muestra perfecta de las duras leyes de la[n]naturaleza.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 10033]Ahaha... Nos llam� bestias...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 10033]Ahaha... Nos llamó bestias...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 6][f 3 1 1 0 0 0]Nunca le dir胤a que no a un oponente dif胤cil.[n]Esperando al siguiente.[n][f 1 3 65535][f 1 1][e]
@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 3][f 3 1 1 0 0 0]El 雨nico sanguinario aqu胤 eres t雨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 72 12 0 1][f 3 1 1 0 0 28007]Bueno, entonces, creo que tomar姻 un descanso,[n][f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 72 12 0 1][f 3 1 1 0 0 28007]Well then, I think I'll take a break,[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 6 0 1][f 3 1 1 0 0 28097]Phew...[n][f 1 3 65535][f 1 1][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 72 1 0 1][f 3 1 1 0 0 28019]...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 12 0 3][f 3 1 1 0 0 16009]Me di cuenta de que tu expresi吋n cambia cuando[n]est茨s con Koromaru...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 12 0 3][f 3 1 1 0 0 16009]Me di cuenta de que tu expresión cambia cuando[n]est茨s con Koromaru...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me siento a gusto cuando estoy con 姻l[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me hizo pensar que... tal vez somos iguales,[n]Akechi-san.[n][f 1 3 65535][f 1 1][e]
 
@@ -61,7 +61,7 @@
 
 [msg MSG_018 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1013]That's an unexpected pair.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Parec胤a una discusi吋n bastante seria. 夷De[n]qu姻 crees que estaban hablando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Parec胤a una discusión bastante seria. 夷De[n]qu姻 crees que estaban hablando?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_019 top]
 [f 0 5 65278][f 2 1]夷Problemas personales?[f 2 7 1 64 0 32][e]
@@ -80,7 +80,7 @@
 
 [msg MSG_023 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 1 1 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1015]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 0]Esto es s吋lo un pensamiento, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 0]Esto es sólo un pensamiento, pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que cada uno tiene algo sobre ellos[n]que no siente que realmente puedan hablar.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1083]Y sean cuales sean esas cosas, eventualmente[n]llevar茨n a...[n][f 1 3 65535][f 1 1][e]
 

@@ -15,5 +15,5 @@
 
 [msg MSG_005 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 506][f 6 1 3 0 0 2]Los humanos innumerables han venido aqu胤, la[n]estructura de ansia y la seguridad.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 507][f 6 1 3 0 0 2]Tu resistencia a mi salvaci吋n no es m茨s que[n]una absoluta conceitencia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 507][f 6 1 3 0 0 2]Tu resistencia a mi salvación no es m茨s que[n]una absoluta conceitencia.[n][f 1 3 65535][f 1 1][e]
 

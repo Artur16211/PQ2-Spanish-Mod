@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 0]Hab胤a utensilios de cocina en el contenedor[n]congelador, as胤 que deber胤amos hacer uso[n]de esos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 1][f 3 1 1 0 0 21004][f 6 1 2 0 0 4]Por cierto, 夷d吋nde vamos a cocinar? No he[n]visto una cocina en esta selva.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 1][f 3 1 1 0 0 21004][f 6 1 2 0 0 4]Por cierto, 夷dónde vamos a cocinar? No he[n]visto una cocina en esta selva.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0]Um... 夷En el cine?[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 
 [msg MSG_022 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 4][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1015]Joker does make a good point...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Considerando lo grande que es este corte de[n]carne, ser胤a dif胤cil cocinar con llamas[n]de tama�o ordinario.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Considerando lo grande que es este corte de[n]carne, ser胤a dif胤cil cocinar con llamas[n]de tamaño ordinario.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡S胤, eso! 斡Es demasiado peligroso para cocinar[n]en interiores! Grilling fuera ser茨[n]mucho m茨s f茨cil, y m茨s seguro...[n][f 1 3 65535][f 1 1][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 4][f 3 1 1 0 0 28074]Eso es verdad, Joker hace un buen punto. No[n]hab胤a rangos de gas ni nada de esa[n]naturaleza en el cine...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡S胤, s胤! Ni siquiera podemos hacerlo all胤 de[n]todos modos, as胤 que 夷no ser胤a mejor[n]una configuraci吋n al aire libre?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡S胤, s胤! Ni siquiera podemos hacerlo all胤 de[n]todos modos, as胤 que 夷no ser胤a mejor[n]una configuración al aire libre?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]Ser茨 m茨s f茨cil escapar, tambi姻n...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yusuke]]

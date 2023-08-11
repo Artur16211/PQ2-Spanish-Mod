@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 3][f 3 1 1 0 0 11018][f 6 1 2 0 0 4]Hmm? 夷Por qu姻 me miras, Yuka-tan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 3030]Bueno, ciertamente es diferente de otro animal[n]que s姻 que s吋lo piensa en perseguir[n]faldas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 3030]Bueno, ciertamente es diferente de otro animal[n]que s姻 que sólo piensa en perseguir[n]faldas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 4 0 3][f 3 1 1 0 0 9033][f 6 1 2 0 0 2]斡Oye! 夷Por qu姻 me miras?[n][f 1 3 65535][f 1 1][e]

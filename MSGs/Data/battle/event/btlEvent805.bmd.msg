@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 313][f 6 1 2 0 0 6][f 6 1 3 0 0 2]鏂IY-2249! 鏂er濮籭s borrados junto con estas[n]otras irregularidades![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 10 0 3][f 3 1 3 0 0 314][f 6 1 2 0 0 0]澶稴e san鍚?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 10 0 3][f 3 1 3 0 0 314][f 6 1 2 0 0 0]澶稴e san贸?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 1][f 3 1 6 0 0 500][f 3 1 3 0 0 315]Parece que se cura autom鑼╰icamente cuando su[n]salud disminuye lo suficiente![n][f 1 3 65535][f 1 1][e]
@@ -33,12 +33,12 @@
 [msg MSG_009 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 3 0 0 323][f 6 1 2 0 0 7]Mweheheh... 鏂mma lo hackea![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 324]Los circuitos de Ribbon est鑼╪ conectados a[n]la computadora madre, 鏂so es el boleto![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 3 0 0 325][f 6 1 2 0 0 6]Ribbon y yo vamos a trabajar y tratar de[n]desactivar esa funci鍚媙 de recuperaci鍚媙[n]autom鑼╰ica![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 326]Mientras tanto, necesito que mantengan la[n]atenci鍚媙.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 3 0 0 325][f 6 1 2 0 0 6]Ribbon y yo vamos a trabajar y tratar de[n]desactivar esa funci贸n de recuperaci贸n[n]autom鑼╰ica![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 326]Mientras tanto, necesito que mantengan la[n]atenci贸n.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 327]Voy a emitir la orden de ataque cuando est濮籟n]listo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 2 4][f 1 5][f 6 1 27 0 0 0]銆銆Gotcha - d濮籮alo a nosotros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 2 4][f 1 5][f 6 1 27 0 0 0]銆銆[n][f 3 1 3 0 0 328]Gotcha - d濮籮alo a nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 3 0 0 329][f 6 1 2 0 0 6]Ya veo... 鏂o tienes, Oracle![n][f 1 3 65535][f 1 1][e]

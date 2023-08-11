@@ -13,7 +13,7 @@
 
 [msg MSG_004 [Calma La Voz Del Hombre]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 9 0 0 1]斡Ah! Ya veo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7][f 6 1 9 0 0 1]Entonces, 夷por qu姻 no vamos a ver una pel胤cula[n]juntos el pr吋ximo domingo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7][f 6 1 9 0 0 1]Entonces, 夷por qu姻 no vamos a ver una pel胤cula[n]juntos el próximo domingo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Chica Joven]]
 [f 0 5 65278][f 2 1][f 4 6 38 12 3 0][f 3 1 1 0 0 8][f 6 1 2 0 0 0]夷En serio? 夷Y tu trabajo?[n][f 1 3 65535][f 1 1][e]
@@ -38,7 +38,7 @@
 [msg MSG_011 [Chica Joven]]
 [f 0 5 65278][f 2 1][f 4 6 38 12 3 9][f 3 1 1 0 0 16][f 6 1 2 0 0 6]Cuando crezca, har姻 pel胤culas![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Te encantan las pel胤culas, 夷verdad pap茨? Yo[n]tambi姻n los amo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Por eso voy a hacer un mont吋n de ellos para[n]que lo veas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Por eso voy a hacer un montón de ellos para[n]que lo veas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 38 2 4 9][f 3 1 1 0 0 19][f 6 1 2 0 0 6]Cuando termine uno, ven a verlo, 夷de acuerdo?[n]夷Me lo prometes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Calma La Voz Del Hombre]]

@@ -9,7 +9,7 @@
 
 [msg MSG_003 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 10 1 1][f 3 1 1 0 0 4]Gobiernan el poder...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Para vencer a todos nosotros, en conjunto,[n]no menos, no es una simple haza�a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Para vencer a todos nosotros, en conjunto,[n]no menos, no es una simple hazaña...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1]Es prueba de nuestro crecimiento.[f 2 7 1 64 0 32][e]
@@ -20,21 +20,21 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 6]S胤... Hemos sido testigos de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 0 1][f 3 1 1 0 0 7]Mi, tan tranquilo y compuesto... 夷C吋mo se[n]llama esa sonrisa? 夷"Irritantemente,[n]ferozmente hinchado"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 0 1][f 3 1 1 0 0 7]Mi, tan tranquilo y compuesto... 夷Cómo se[n]llama esa sonrisa? 夷"Irritantemente,[n]ferozmente hinchado"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 8]Bueno, estas cosas suceden cuando desatan[n]nuestro pleno poder.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 0 0 4][f 3 1 1 0 0 9]Este fuego en mi coraz吋n, esta emoci吋n a[n]trav姻s de m胤... Una batalla de tal magnitud[n]es bastante rara.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 0 0 4][f 3 1 1 0 0 9]Este fuego en mi corazón, esta emoción a[n]trav姻s de m胤... Una batalla de tal magnitud[n]es bastante rara.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 76 2 0 4][f 3 1 1 0 0 10]De hecho... todos hab姻is crecido[n]magn胤ficamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 0 1][f 3 1 1 0 0 11]Siento como si finalmente hubiera visto la[n]verdadera raz吋n por la que nos llamaron[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 0 1][f 3 1 1 0 0 11]Siento como si finalmente hubiera visto la[n]verdadera razón por la que nos llamaron[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 6 0 1][f 3 1 1 0 0 12]S胤, debo estar de acuerdo. Tal vez esta es[n]la forma que nuestro propio viaje debe[n]tomar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Usted puede ver esto como una mera distracci吋n,[n]una derivaci吋n de su vida[n]ordinaria...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Usted puede ver esto como una mera distracción,[n]una derivación de su vida[n]ordinaria...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 1][f 3 1 1 0 0 14]Sin embargo... sea cual sea el camino que[n]caminas, el camino que tomas trae cambio[n]sobre ti y todos los que afectes.[n][f 1 3 65535][f 1 1][e]
@@ -54,12 +54,12 @@
 [f 0 5 65278][f 2 1][f 4 6 76 12 0 1][f 3 1 1 0 0 20]Pero como aquellos obligados a apoyarte en[n]tus viajes, seguiremos sirviendo tus[n]necesidades.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 79 1 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 21]S胤. Y no s吋lo las fusiones de Persona,[n]tampoco.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 79 1 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 21]S胤. Y no sólo las fusiones de Persona,[n]tampoco.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22]Si alguna vez quieres pelear con nosotros de[n]nuevo, ve a la taquilla.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 78 2 0 1][f 3 1 1 0 0 23][f 6 1 2 0 0 6]Tomaremos una revancha en cualquier momento.[n]Ser茨 mejor que est姻s agradecido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 3 1 1 0 0 24]No creo que vaya tan bien para ti la pr吋xima[n]vez. T吋malo en serio, Recluso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 3 1 1 0 0 24]No creo que vaya tan bien para ti la próxima[n]vez. Tómalo en serio, Recluso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 2 0 1][f 3 1 1 0 0 25]De cualquier manera, te debo mi gratitud.[n]Gracias por mostrarnos un magn胤fico brillo[n]de la vida.[n][f 1 3 65535][f 1 1][e]
@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 6 1 1][f 3 1 1 0 0 28]Gulp.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Rise]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 6 12 0 3][f 3 1 1 0 0 29]S胤, tienes raz吋n... Ella es la que nos sigue[n]dando perros calientes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 6 12 0 3][f 3 1 1 0 0 29]S胤, tienes razón... Ella es la que nos sigue[n]dando perros calientes.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30]La he visto sacar algo de detr茨s del cartel[n]de Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Elizabeth]]
@@ -98,10 +98,10 @@
 
 [msg MSG_027 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 3 1 1 0 0 38]Sobre eso. Suponiendo que los prisioneros[n]sean inocentes de la robo de un perro[n]caliente...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 4]夷Esto significa... 夷El que nos rob吋[n]Elizabeth?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 4]夷Esto significa... 夷El que nos robó[n]Elizabeth?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 40]De hecho, yo fui quien asalt� el secreto de[n]Caroline.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 40]De hecho, yo fui quien asaltó el secreto de[n]Caroline.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 16 1 1][f 3 1 1 0 0 41]Sin embargo, no puedo explicar la parte que[n]falta de Justine.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Justine]]
@@ -110,7 +110,7 @@
 [msg MSG_030 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 4 0 1][f 3 1 1 0 0 43]Bueno... 斡Eso es...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 44]斡Debo ser los usuarios de Persona! 斡No s姻[n]nada![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 45][f 6 1 2 0 0 10]Quiero decir, si los escondes en un lugar[n]f茨cil de encontrar como la sala de proyecci吋n,[n]斡por supuesto que ser茨n robados![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 45][f 6 1 2 0 0 10]Quiero decir, si los escondes en un lugar[n]f茨cil de encontrar como la sala de proyección,[n]斡por supuesto que ser茨n robados![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 1 1 4][f 3 1 1 0 0 46]...[n][f 1 3 65535][f 1 1][e]
@@ -128,17 +128,17 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 50]Ment胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 8 1 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]斡Gah! 夷C吋mo te atreves, Justine? 斡Eso no es[n]justo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 8 1 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]斡Gah! 夷Cómo te atreves, Justine? 斡Eso no es[n]justo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 6 1 4][f 3 1 1 0 0 52]Ya veo. Y as胤 la verdad se hace clara.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 53]Caroline, hab胤as estado metiendo mi parte de[n]perros calientes detr茨s de mi espalda.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54]Cuando todos los perros calientes desaparecieron...[n]aprovecharon la oportunidad para[n]forzar toda la culpa al prisionero.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 2 0 0 2]... 夷Quiz茨 no est姻 solo en necesitar[n]rehabilitaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 2 0 0 2]... 夷Quiz茨 no est姻 solo en necesitar[n]rehabilitación?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 8 1 1][f 3 1 1 0 0 56][f 6 1 2 0 0 10]斡Eso no es verdad! 斡S吋lo me he tomado un poco[n]de la tuya![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 57]Pero entonces todos mis perros calientes de[n]repente desaparecieron, as胤 que... No[n]tuve elecci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 8 1 1][f 3 1 1 0 0 56][f 6 1 2 0 0 10]斡Eso no es verdad! 斡Sólo me he tomado un poco[n]de la tuya![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 57]Pero entonces todos mis perros calientes de[n]repente desaparecieron, as胤 que... No[n]tuve elección...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_039 top]
 [f 0 5 65278][f 2 1]斡Eres el culpable![f 2 7 1 64 0 32][e]
@@ -151,7 +151,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 6 1 1][f 3 1 1 0 0 59]... 斡Bien! Soy una mujer muy ocupada, y tengo[n]muchas cosas que hacer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 1 4][f 3 1 1 0 0 60]Todos, les pido adi吋s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 1 4][f 3 1 1 0 0 60]Todos, les pido adiós.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 4 0 1][f 3 1 1 0 0 61][f 6 1 2 0 0 9]Y ella se va.[n][f 1 3 65535][f 1 1][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 6 0 1][f 3 1 1 0 0 89]Sin embargo, tenemos una medida de su fuerza[n]actual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 12 0 1][f 3 1 1 0 0 90]Estoy seguro de que todav胤a tienes un mayor[n]potencial de sue�o dentro de ti. Espero[n]que un d胤a se haya dado cuenta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 12 0 1][f 3 1 1 0 0 90]Estoy seguro de que todav胤a tienes un mayor[n]potencial de sueño dentro de ti. Espero[n]que un d胤a se haya dado cuenta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 0 1][f 3 1 1 0 0 91]Te animamos a desafiarnos de nuevo cuando[n]quieras. Esto es una verdadera prueba,[n]despu姻s de todo.[n][f 1 3 65535][f 1 1][e]

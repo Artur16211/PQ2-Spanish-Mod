@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24067]De hecho, mi movimiento se ha vuelto mucho[n]m茨s fluido que antes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 0]Pero estamos olvidando una parte importante[n]de c吋mo luchan los Ladrones Fantasma,[n]夷s胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 0]Pero estamos olvidando una parte importante[n]de cómo luchan los Ladrones Fantasma,[n]夷s胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 22067]夷Te refieres a Relevoes?[n][f 1 3 65535][f 1 1][e]

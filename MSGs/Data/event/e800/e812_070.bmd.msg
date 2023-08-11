@@ -1,9 +1,9 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54115]Bien hecho, todos. Recib胤 el Cinnamon Fern[n]que me trajiste.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Trat姻 de alimentar uno a Theo, pero se quej吋[n]y dijo cosas como, "Es amargo", y, "A雨n[n]no est茨 maduro"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Trat姻 de alimentar uno a Theo, pero se quejó[n]y dijo cosas como, "Es amargo", y, "A雨n[n]no est茨 maduro"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 3][f 3 1 1 0 0 0]Oh... Se comi� esto crudo... Debo admitir[n]que siento pena por 姻l.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 3][f 3 1 1 0 0 0]Oh... Se comió esto crudo... Debo admitir[n]que siento pena por 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54053]Para pensar que ten胤amos que secarlo y luego[n]molerlo en un polvo fino...[n][f 1 3 65535][f 1 1][e]
@@ -30,7 +30,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]We'll have so much time to talk, Theo[n]will need to work extra hard.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 2 0 6][f 3 1 1 0 0 22033]Lo s姻, lo s姻. C吋rtame un poco.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 2 0 6][f 3 1 1 0 0 22033]Lo s姻, lo s姻. Córtame un poco.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Tendr姻 que luchar tanto como pueda y quemar[n]algunas de esas calor胤as![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P3 Fem Protag]]

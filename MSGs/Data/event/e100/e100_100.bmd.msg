@@ -1,12 +1,12 @@
 [msg MSG_000 [Yusuke]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 68 12 0 3][f 3 1 1 0 0 1]...夷El puesto de concesi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 68 12 0 3][f 3 1 1 0 0 1]...夷El puesto de concesión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 2]夷Les servir茨 de algo la mercanc胤a?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Desde que ocurri� la anomal胤a, el stock parece[n]haber cambiado un poco...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Desde que ocurrió la anomal胤a, el stock parece[n]haber cambiado un poco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Parece que el equipo y los objetos se pueden[n]comprar y vender en este puesto de[n]concesi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Parece que el equipo y los objetos se pueden[n]comprar y vender en este puesto de[n]concesión...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Tambi姻n podemos almacenar y recuperar objetos[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 1][f 3 1 1 0 0 37]夷A qui姻n le importa? 斡Lo averiguaremos m茨s[n]tarde! Encontrar Makoto y Haru es primero,[n]夷s胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 38]Lo siento, es s吋lo un mal h茨bito m胤o, por[n]ser detective y eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 38]Lo siento, es sólo un mal h茨bito m胤o, por[n]ser detective y eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ryuji]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 3 0 0 1]Welp, volvamos a esa maldita pantalla.[n][f 1 3 65535][f 1 1][e]
@@ -123,10 +123,10 @@
 
 [msg MSG_037 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 43]No lo haremos, he decidido quedarme atr茨s[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 44]Quiero investigar este Cine y ver si puedo[n]reunir informaci吋n 雨til.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 44]Quiero investigar este Cine y ver si puedo[n]reunir información 雨til.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 45][f 6 1 2 0 0 4]夷Qu姻 clase de informaci吋n? 夷No miramos por[n]todas partes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 45][f 6 1 2 0 0 4]夷Qu姻 clase de información? 夷No miramos por[n]todas partes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 8 1 0][f 3 1 1 0 0 46]Equipo... 夷podemos hablar un momento?[n][f 1 3 65535][f 1 1][e]
@@ -139,7 +139,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 49][f 6 1 3 0 0 1]La mejor estrategia ahora ser胤a investigar[n]si est茨n siendo honestas con nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 50]Ya veo, tienes raz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 50]Ya veo, tienes razón.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 51]Por ahora, vayan a revisar dentro de la[n]pel胤cula. 夷Entendido?[n][f 1 3 65535][f 1 1][e]
@@ -195,7 +195,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 6][f 3 1 1 0 0 66][f 6 1 2 0 0 4]夷Podr胤a ser para nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 3 0][f 3 1 1 0 0 67]T吋malo contigo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 3 0][f 3 1 1 0 0 67]Tómalo contigo.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_061 top]
 [f 0 5 65278][f 2 1]Gracias.[f 2 7 1 64 2 32][e]
@@ -224,10 +224,10 @@
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 6][f 3 1 1 0 0 74]Lo siento, gracias, 斡nos lo llevaremos con[n]nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 66 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 75]Entonces deber胤amos comenzar nuestra misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 75]Entonces deber胤amos comenzar nuestra misión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 0 3][f 3 1 1 0 0 76]Nuestra misi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 0 3][f 3 1 1 0 0 76]Nuestra misión...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 77]He estado pregunt茨ndome...[n][f 1 3 65535][f 1 1][e]
@@ -238,7 +238,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 1][f 3 1 1 0 0 80]夷Eh? 夷Los... ladrones fantasmas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 81][f 6 1 2 0 0 0]斡Mierda! 斡Ya lo descubri�![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 81][f 6 1 2 0 0 0]斡Mierda! 斡Ya lo descubrió![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 6 1 0][f 3 1 1 0 0 82][f 6 1 2 0 0 10]Bueno... sobre lo del Ladrones Fantasma...[n][f 1 3 65535][f 1 1][e]
@@ -261,7 +261,7 @@
 
 [msg MSG_079 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 23 1 0 0][f 4 6 84 12 0 0][f 3 1 1 0 0 89]Hablando de los Ladrones Fantasma, hay una[n]cosa que de la que tengo curiosidad...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 90]夷El vestuario y los efectos especiales de la[n]pel胤cula estaban relacionados con cosplay[n]o con alguna situaci吋n similar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 90]夷El vestuario y los efectos especiales de la[n]pel胤cula estaban relacionados con cosplay[n]o con alguna situación similar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Ann]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 66 6 0 0][f 3 1 1 0 0 91]Ella vio todo...[n][f 1 3 65535][f 1 1][e]
@@ -269,10 +269,10 @@
 [msg MSG_081 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 92]Sobre eso, Nagi: no estamos seguros[n]tampoco...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 93]Mientras estamos dentro de la pel胤cula,[n]podemos aprovechar un poder llamado "Persona"[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 94]Puede ser una situaci吋n similar a c吋mo el[n]h姻roe en la pel胤cula fue alterado para[n]convertirse en Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 94]Puede ser una situación similar a cómo el[n]h姻roe en la pel胤cula fue alterado para[n]convertirse en Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 95]斡De verdad las enga�o![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 95]斡De verdad las engaño![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 96]夷Es eso?[n][f 1 3 65535][f 1 1][e]

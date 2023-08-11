@@ -3,7 +3,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Recuerdo que hay muchas flores aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 12 0 1][f 3 1 1 0 0 0]Ya puse una marca en tu mapa para la ubicaci吋n[n]de una flor que me gustaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 12 0 1][f 3 1 1 0 0 0]Ya puse una marca en tu mapa para la ubicación[n]de una flor que me gustaba.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_002 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]Muchas gracias.[f 2 7 1 20 2 32][e]
@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 8 0 0][f 3 1 1 0 0 65076]斡No me gustas ni nada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Ahora hay una especie en peligro de extinci吋n[n]de un clich![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Ahora hay una especie en peligro de extinción[n]de un clich![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 8 0 0][f 3 1 1 0 0 65076]No quiero perderme, supongo que es verdad[n]para todos?[n][f 1 3 65535][f 1 1][e]

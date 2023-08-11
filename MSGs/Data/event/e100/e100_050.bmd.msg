@@ -59,10 +59,10 @@
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 17]Aceptar la derrota con gracia puede ser[n]admirable, pero no hagamos eso todav胤a.[n]夷Encontramos las llaves?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 18]No pude encontrarlas, ni nada m茨s, ni siquiera[n]un rat吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 18]No pude encontrarlas, ni nada m茨s, ni siquiera[n]un ratón...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Morgana]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 4][f 6 1 3 0 0 1]夷C吋mo les fue? 夷Alguna se�al de Makoto o[n]Haru?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 4][f 6 1 3 0 0 1]夷Cómo les fue? 夷Alguna señal de Makoto o[n]Haru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 20][f 6 1 2 0 0 10]Para nada. Tambi姻n buscamos por todas[n]partes...[n][f 1 3 65535][f 1 1][e]
@@ -78,6 +78,6 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Tal vez llegaron all胤 despu姻s de que nos[n]fuimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 25]S胤, la se�orita Ann tiene un punto, y no[n]tiene sentido preocuparse por eso aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 25]S胤, la señorita Ann tiene un punto, y no[n]tiene sentido preocuparse por eso aqu胤...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Muy bien, regresemos![n][f 1 3 65535][f 1 1][e]
 

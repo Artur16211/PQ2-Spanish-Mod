@@ -66,16 +66,16 @@
 
 [msg MSG_021 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 0][f 3 1 1 0 0 5009][f 6 1 2 0 0 10]Oh, um... Lo siento.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Tengo esta extra�a sensaci吋n de verlos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Tengo esta extraña sensación de verlos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una sensaci吋n extra�a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una sensación extraña?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Cuando era peque�a, nunca me cost� ser honesto[n]acerca de mis sentimientos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Cuando era pequeña, nunca me costó ser honesto[n]acerca de mis sentimientos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No me preocup姻 por nada, y pude divertirme[n]todos los d胤as.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Pero, un d胤a, las cosas se complicaron entre[n]mi familia y...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ya no pude ser honesto con mis sentimientos...[n]como c吋mo Kyubei est茨 siendo ahora...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ya no pude ser honesto con mis sentimientos...[n]como cómo Kyubei est茨 siendo ahora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 27076]Oh... Ya sabes, Yukiko-chan, soy como t雨.[n][f 1 3 65535][f 1 1][e]
@@ -97,7 +97,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]Incluso si piensas diferente a ellos, estoy[n]seguro de que estar胤an felices de verte[n]seguir lo que crees.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 5039]S胤... Tienes raz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 5039]S胤... Tienes razón.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Herb胤voro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Kyu![n][f 1 3 65535][f 1 1][e]

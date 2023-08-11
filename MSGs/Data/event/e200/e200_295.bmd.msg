@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 1 1 0 6][f 4 6 4 4 1 1][f 3 1 1 0 0 4061][f 6 1 2 0 0 0]夷Est茨n bien? Quiero decir... 斡Ustedes acaban[n]de hacer algo totalmente loco![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6][f 3 1 6 0 0 500]Hab胤a una especie de choque de poderes, y[n]algo de fusi吋n... 斡Fue tan intenso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6][f 3 1 6 0 0 500]Hab胤a una especie de choque de poderes, y[n]algo de fusión... 斡Fue tan intenso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 1][f 3 1 1 0 0 0]Senpai y Joker estaban asombrados ah胤 fuera![n][f 1 3 65535][f 1 1][e]
@@ -11,11 +11,11 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 28 4 0 0][f 3 1 1 0 0 28110][f 6 1 2 0 0 6]斡Espera! Tan impresionante como era, tenemos[n]que poner esto en marcha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 0]Tiene raz吋n; el carn胤voro apenas est茨 siendo[n]retenido ahora mismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 0]Tiene razón; el carn胤voro apenas est茨 siendo[n]retenido ahora mismo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si no nos apuramos, sus esfuerzos habr茨n sido[n]por nada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 8 1 0 1][f 4 6 24 4 1 3][f 3 1 1 0 0 24022]夷Qu姻? Hay un panel con un bot吋n en el lado[n]opuesto del panel.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 1 0 1][f 4 6 24 4 1 3][f 3 1 1 0 0 24022]夷Qu姻? Hay un panel con un botón en el lado[n]opuesto del panel.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Es dif胤cil imaginar que es una caracter胤stica[n]sin sentido. 斡Es probable que valga la[n]pena intentarlo![n][f 1 3 65535][f 1 1][e]
@@ -36,10 +36,10 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 23 12 1 1][f 3 1 1 0 0 23106][f 6 1 2 0 0 6]斡Joker, voltea el interruptor! Ser茨 mejor[n]que funcione esta vez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Funcion�...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Funcionó...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 26544]Misi吋n completa, chicos! El objetivo ha sido[n]capturado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 26544]Misión completa, chicos! El objetivo ha sido[n]capturado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Whew... 斡Qu姻 alivio![n][f 1 3 65535][f 1 1][e]

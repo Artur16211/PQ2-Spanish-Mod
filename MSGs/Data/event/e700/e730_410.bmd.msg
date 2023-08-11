@@ -1,15 +1,15 @@
 [msg MSG_000 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 1][f 3 1 1 0 0 10019][f 6 1 2 0 0 9]Parece que hemos llegado a una nueva zona...[n]斡Y una enorme en eso![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n hay robots por todas partes. Me[n]pregunto c吋mo mantienen esto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n hay robots por todas partes. Me[n]pregunto cómo mantienen esto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 1 3][f 3 1 1 0 0 11012]Bueno, son m茨quinas que siguen 吋rdenes, as胤[n]que 夷no ser胤a f茨cil mantener todo esto[n]limpio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 1 3][f 3 1 1 0 0 11012]Bueno, son m茨quinas que siguen órdenes, as胤[n]que 夷no ser胤a f茨cil mantener todo esto[n]limpio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 1][f 3 1 1 0 0 0]斡Lo s姻! Estoy hablando de la actitud general[n]que me est茨 molestando...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28015]夷Est茨s preguntando qui姻n decidi� lo "normal"[n]que se supone que est茨 en este mundo,[n]Takeba-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28015]夷Est茨s preguntando qui姻n decidió lo "normal"[n]que se supone que est茨 en este mundo,[n]Takeba-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 2 1][f 3 1 1 0 0 10071][f 6 1 2 0 0 6]斡S胤, eso! Quiero saber qui姻n ha programado[n]este tipo de estilo de vida en las[n]m茨quinas.[n][f 1 3 65535][f 1 1][e]
@@ -18,14 +18,14 @@
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 16009][f 6 1 2 0 0 4]夷Quiz茨s los humanos que hicieron los robots?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]En las pel胤culas de ciencia ficci吋n, alg雨n[n]tipo de computadora madre es el t胤pico[n]controlador de una sociedad rob吋tica...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]En las pel胤culas de ciencia ficción, alg雨n[n]tipo de computadora madre es el t胤pico[n]controlador de una sociedad robótica...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 10 1 1][f 3 1 1 0 0 22116]斡Creo que he o胤do hablar de eso! Normalmente[n]aparecen como el obst茨culo final para[n]que el h姻roe pueda vencer.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si recuerdo bien, est茨n conectados a todos[n]los robots y sus funciones... O algo[n]salvaje como eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 3][f 3 1 1 0 0 3013]As胤 que dices que son una especie de l胤der[n]electr吋nico... 夷Eso no describe el Overseer,[n]entonces?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 3][f 3 1 1 0 0 3013]As胤 que dices que son una especie de l胤der[n]electrónico... 夷Eso no describe el Overseer,[n]entonces?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 1 0 0][f 4 6 4 12 0 1][f 3 1 1 0 0 4087]En ese caso, 夷no arreglar胤amos la pel胤cula[n]si le pegamos?[n][f 1 3 65535][f 1 1][e]

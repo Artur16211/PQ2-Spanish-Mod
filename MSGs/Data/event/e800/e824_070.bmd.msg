@@ -13,18 +13,18 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 11045]夷Oh? Si est茨s tan interesado, estar胤a feliz[n]de mostrarte las cuerdas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 11 1 0 1][f 4 6 5 12 0 4][f 3 1 1 0 0 5069]Yo tambi姻n. Me gustar胤a ser un mejor anfitri吋n[n]para "Yukiko lo cree, o no"[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mi pr吋xima historia ser茨 titulada: "El pepino[n]gigante del mar en el Cine Cursed"...[n]夷C吋mo suena eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 1 0 1][f 4 6 5 12 0 4][f 3 1 1 0 0 5069]Yo tambi姻n. Me gustar胤a ser un mejor anfitrión[n]para "Yukiko lo cree, o no"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mi próxima historia ser茨 titulada: "El pepino[n]gigante del mar en el Cine Cursed"...[n]夷Cómo suena eso?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Suena divertido.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]夷Por qu姻 un pepino de mar?[f 2 7 1 20 0 32][e]
 
 [msg MSG_006 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5029][f 6 1 2 0 0 7]Lo s姻, 夷verdad? Y luego el pepino del mar[n]dispara un rayo l茨ser y entra en su tercera[n]evoluci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5029][f 6 1 2 0 0 7]Lo s姻, 夷verdad? Y luego el pepino del mar[n]dispara un rayo l茨ser y entra en su tercera[n]evolución.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Eso es Yukiko-chan para ti, creativo m茨s all茨[n]de la comprensi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Eso es Yukiko-chan para ti, creativo m茨s all茨[n]de la comprensión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 5093][f 6 1 2 0 0 4]夷Eh? 夷Hay algo malo con pepinos de mar?[n][f 1 3 65535][f 1 1][e]

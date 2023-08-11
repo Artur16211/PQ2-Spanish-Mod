@@ -1,5 +1,5 @@
 [msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 3][f 3 1 1 0 0 21045]夷Ves esa se�al? Hay una mierda de gente aqu胤[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 3][f 3 1 1 0 0 21045]夷Ves esa señal? Hay una mierda de gente aqu胤[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 0]Este lugar parece muy popular. Esto debe ser[n]todo.[n][f 1 3 65535][f 1 1][e]
@@ -10,7 +10,7 @@
 
 [msg MSG_003 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11054][f 6 1 2 0 0 6]斡Espera! 夷Quieres irte a casa?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Llegamos tan lejos, y ni siquiera quieres[n]ver c吋mo es!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Llegamos tan lejos, y ni siquiera quieres[n]ver cómo es!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡As胤 es! 斡A veces un oso tiene que luchar[n]por su derecho a la fiesta![n][f 1 3 65535][f 1 1][e]
@@ -23,26 +23,26 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 4 0 3][f 3 1 1 0 0 3034][f 6 1 2 0 0 6]斡Hola! 斡Chicos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Teddie]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 9039][f 6 1 2 0 0 3]No fue de utilidad... El guardia no me dej吋[n]entrar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 9039][f 6 1 2 0 0 3]No fue de utilidad... El guardia no me dejó[n]entrar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]S吋lo es VIP. Probablemente necesitemos alg雨n[n]tipo de membres胤a o algo as胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Sólo es VIP. Probablemente necesitemos alg雨n[n]tipo de membres胤a o algo as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]No... No es s吋lo VIP.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]No... No es sólo VIP.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3019][f 6 1 2 0 0 4]夷Eh? Entonces, 夷por qu姻 no pudiste entrar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 7 0 0][f 3 1 1 0 0 0]Los chicos no pueden entrar solos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Seguridad dice que los chicos s吋lo pueden[n]entrar si tienen chicas con ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Seguridad dice que los chicos sólo pueden[n]entrar si tienen chicas con ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 0]Es un mundo duro para nosotros chicos[n]solitarios...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11099][f 6 1 2 0 0 3]斡No estoy sola! Maldici吋n... Si tuviera mi[n]dulce Chidorita...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11099][f 6 1 2 0 0 3]斡No estoy sola! Maldición... Si tuviera mi[n]dulce Chidorita...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1]Esto requiere medidas dr茨sticas. Si pedimos[n]ayuda a nuestras encantadoras damas,[n]estoy seguro de que..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukari]]
@@ -59,11 +59,11 @@
 
 [msg MSG_016_2 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 9015]斡Espera! 斡Tenemos profesionales con nosotros![n]斡Quiz茨 puedan ayudar![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Maestros de la noche! 斡Ens姻�anos tus caminos![n]斡Por favor![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Maestros de la noche! 斡Ens姻ñanos tus caminos![n]斡Por favor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 2 6 0 1][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 2017][f 6 1 2 0 0 9]Our ways...?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Alguna idea de c吋mo podemos enga�ar a la[n]seguridad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Alguna idea de cómo podemos engañar a la[n]seguridad?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]夷Ropa cruzada?[f 2 7 1 20 0 32][e]
@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 0]Teddie se ha ido, amigo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 1][f 3 1 1 0 0 9135]Oh-hoh... 夷Un poco de acci吋n insuficiente,[n]dices? Realmente eres un chico malo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 1][f 3 1 1 0 0 9135]Oh-hoh... 夷Un poco de acción insuficiente,[n]dices? Realmente eres un chico malo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Bueno, 夷con qu姻 diablos se supone que debemos[n]sobornarlos?[n][f 1 3 65535][f 1 1][e]
@@ -100,13 +100,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Los traer姻 con una sorpresa de caramelo[n]medio comido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 1 4][f 4 6 9 6 0 1][f 3 1 1 0 0 9040][f 6 1 2 0 0 6]斡No funcion�![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 1 4][f 4 6 9 6 0 1][f 3 1 1 0 0 9040][f 6 1 2 0 0 6]斡No funcionó![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 13 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡Dah! 斡Pensaban que ibas a venir con ellos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 3057][f 6 1 2 0 0 6]斡Mierda, tenemos compa�胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 3057][f 6 1 2 0 0 6]斡Mierda, tenemos compañ胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 2 6 0 1][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]Are those... Shadows!? Guess it's a fight,[n]then.[n][f 1 3 65535][f 1 1][e]

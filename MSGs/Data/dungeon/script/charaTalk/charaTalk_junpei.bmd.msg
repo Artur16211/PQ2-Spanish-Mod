@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11074]Awriiight! 斡Echemos un vistazo m茨s de cerca![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11018]夷夷Oh? 夷Cambiar de opini吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11018]夷夷Oh? 夷Cambiar de opinión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11074]Awriiight! 斡Todo listo![n][f 1 3 65535][f 1 1][e]

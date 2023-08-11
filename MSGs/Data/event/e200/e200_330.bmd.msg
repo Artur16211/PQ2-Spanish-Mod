@@ -18,13 +18,13 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No ser茨 imposible a menos que cambiemos ese[n]tipo de pensamiento?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4104]夷C吋mo vamos a hacer eso? 夷Deber胤amos preparar[n]unos bonitos filetes para intentar[n]ganarlos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4104]夷Cómo vamos a hacer eso? 夷Deber胤amos preparar[n]unos bonitos filetes para intentar[n]ganarlos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Eso solo funcionar胤a contigo, Chie. Esos[n]tipos son herbivores, de todos modos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]No parec胤an todo eso receptivo a la persuasi吋n,[n]tampoco. Necesitamos una manera de[n]cambiar sus mentes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]No parec胤an todo eso receptivo a la persuasión,[n]tampoco. Necesitamos una manera de[n]cambiar sus mentes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 4 1 3][f 3 1 1 0 0 24017][f 6 1 2 0 0 4]Esos dinosaurios son el misterio... 夷Por qu姻[n]son tan firmes en negar posibilidades[n]alternativas?[n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 27074]S胤, supongo que podr胤as decir que prefieren[n]ir con el flujo. Tienen miedo de alejarse[n]de la multitud y destacar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27011]Bueno, el tama�o de sus cuerpos y la fuerza[n]de sus corazones son asuntos separados...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27011]Bueno, el tamaño de sus cuerpos y la fuerza[n]de sus corazones son asuntos separados...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0]Supongo que podr胤as decir que prefieren ir[n]con el flujo. Tienen miedo de alejarse de[n]la multitud y destacar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]
@@ -60,7 +60,7 @@
 
 [msg MSG_017 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 1][f 3 1 1 0 0 0]Usar la mayor胤a para tomar decisiones no es[n]necesariamente incorrecto...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 1][f 3 1 1 0 0 0]Pero, 夷ser incapaz de hablar siquiera tu[n]propia mente, s吋lo porque est茨s en la minor胤a?[n]Eso es...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 1][f 3 1 1 0 0 0]Pero, 夷ser incapaz de hablar siquiera tu[n]propia mente, sólo porque est茨s en la minor胤a?[n]Eso es...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es injusto.[f 2 7 1 20 2 32][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 5069]Deben recibirse opiniones diferentes,[n]independientemente de los n雨meros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21091][f 6 1 2 0 0 3]夷Verdad? Tener tu opini吋n cerrada todo porque[n]es diferente de los dem茨s es s吋lo el[n]peor...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21091][f 6 1 2 0 0 3]夷Verdad? Tener tu opinión cerrada todo porque[n]es diferente de los dem茨s es sólo el[n]peor...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Por supuesto que diferentes personas tendr茨n[n]opiniones diferentes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yusuke]]
@@ -79,28 +79,28 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La diversidad debe ser m茨s valorada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 0 1 3][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]S胤, como todos somos compa�eros, pero cada[n]uno de nosotros tiene una manera diferente[n]de pensar y sentir cosas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, si todos lo discutimos correctamente,[n]s姻 que podr胤amos llegar a la mejor[n]soluci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 0 1 3][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]S胤, como todos somos compañeros, pero cada[n]uno de nosotros tiene una manera diferente[n]de pensar y sentir cosas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, si todos lo discutimos correctamente,[n]s姻 que podr胤amos llegar a la mejor[n]solución.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 1][f 3 1 1 0 0 0]Ser capaz de decir lo que est茨 en tu mente,[n]aunque podr胤a pasar mal...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]Supongo que es una especie de coraje que esos[n]dinosaurios no tienen.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 4][f 3 1 1 0 0 9038]Yosukesaurus parec胤a tan molesto cuando el[n]reba�o votaba...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 4][f 3 1 1 0 0 9038]Yosukesaurus parec胤a tan molesto cuando el[n]rebaño votaba...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que, en el fondo, no quer胤a echarnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]S胤, definitivamente era vacilante. Al final,[n]parec胤a que ten胤a que convencerse[n]realmente de caer en la l胤nea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 0 1 1][f 3 1 1 0 0 0]As胤 que no ten胤a el coraje de dar ese peque�o[n]paso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 0 1 1][f 3 1 1 0 0 0]As胤 que no ten胤a el coraje de dar ese pequeño[n]paso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 23103][f 6 1 2 0 0 0]夷Srow-ow-ow?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Eso me asust� la mierda... 夷Qu姻 fue eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Eso me asustó la mierda... 夷Qu姻 fue eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 0]Sonaba como si algo grande cayera cerca.[n]Deber胤amos investigar, Joker.[n][f 1 3 65535][f 1 1][e]

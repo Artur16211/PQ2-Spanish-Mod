@@ -9,16 +9,16 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 3][f 3 1 1 0 0 0]Qu姻 magn胤fico... La forma y la suavidad...[n]斡No podr胤as recrear tal belleza natural![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_1 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Imag胤nate c吋mo andaba esta criatura sobre[n]estas tierras! 斡Realmente inspirador![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Imag胤nate cómo andaba esta criatura sobre[n]estas tierras! 斡Realmente inspirador![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 1 6][f 3 1 1 0 0 21004][f 6 1 2 0 0 4]斡Oh, yo! 夷No podr胤amos llevarnos esto y[n]convertirlo en un arma?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 6 0 0 500][f 3 1 1 0 0 0]斡Las armas de dinosaurios ser胤an un sue�o[n]hecho realidad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 6 0 0 500][f 3 1 1 0 0 0]斡Las armas de dinosaurios ser胤an un sueño[n]hecho realidad![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Eso ser胤a bastante ex吋tico.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Eso ser胤a bastante exótico.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]夷En serio?[f 2 7 1 20 8 32][e]
 [f 0 5 65278][f 2 1]Estoy m茨s interesado en la carne.[f 2 7 1 20 12 0][e]
 
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25010]Lo que digas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 4][f 3 1 1 0 0 0]斡La Queen dej� de pensar por s胤 misma![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 4][f 3 1 1 0 0 0]斡La Queen dejó de pensar por s胤 misma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 1 2 0 3][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 9]...Your team's quite a cast of characters,[n]isn't it?[n][f 1 3 65535][f 1 1][e]

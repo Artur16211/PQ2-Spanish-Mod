@@ -15,8 +15,8 @@
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 0]Parece que son los negativos de una pel胤cula[n]que est茨n siendo analizados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 1 1][f 3 1 1 0 0 61172]As胤 es. La raz吋n por la que los negativos[n]hacen que la gente se sienta enferma es la[n]inversi吋n de los colores girando la luz[n]y la oscuridad...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La pel胤cula se desinvierte durante la impresi吋n,[n]por lo que al final, los colores[n]salen como si normalmente los vieras en la[n]pantalla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 1 1][f 3 1 1 0 0 61172]As胤 es. La razón por la que los negativos[n]hacen que la gente se sienta enferma es la[n]inversión de los colores girando la luz[n]y la oscuridad...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La pel胤cula se desinvierte durante la impresión,[n]por lo que al final, los colores[n]salen como si normalmente los vieras en la[n]pantalla.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Ya veo...[f 2 7 1 20 8 32][e]
@@ -32,7 +32,7 @@
 [msg MSG_009 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 8 16 0][f 3 1 1 0 0 0]Dado que cualquier pel胤cula invertida se[n]llama "negativos", los re-reversados podr胤an[n]ser llamados "positivos"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n hay algo llamado "pel胤cula reversal"[n]que registra im茨genes positivas de[n]inmediato, en lugar de im茨genes negativas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 8 16 0][f 3 1 1 0 0 0]Pero las pel胤culas tienden a ser filmadas en[n]negativos porque los touch-ups y la[n]duplicaci吋n son m茨s f茨ciles con ese tipo de[n]pel胤cula.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 8 16 0][f 3 1 1 0 0 0]Pero las pel胤culas tienden a ser filmadas en[n]negativos porque los touch-ups y la[n]duplicación son m茨s f茨ciles con ese tipo de[n]pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]R-Right. No entend胤 nada de eso.[n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 6][f 3 1 1 0 0 28072]Creo que se refiere a emociones humanas[n]positivas y negativas. Ciertamente parecen[n]conceptos an茨logos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]S胤, "conceptos al吋gicos"... Como... mejilla[n]de cerdo y trasero de cerdo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]S胤, "conceptos alógicos"... Como... mejilla[n]de cerdo y trasero de cerdo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 3 0 1 0][f 3 1 1 0 0 3035][f 6 1 2 0 0 6]夷Tienes alguna pista de lo que estamos[n]hablando? 夷Y la carne es realmente la 雨nica[n]cosa en tu mente?[n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Entiendo. Esto est茨 empezando a tener sentido[n]ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 4 1 1][f 3 1 1 0 0 24112]Lo que realmente necesitamos determinar es[n]d吋nde se est茨n analizando estos negativos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 4 1 1][f 3 1 1 0 0 24112]Lo que realmente necesitamos determinar es[n]dónde se est茨n analizando estos negativos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 4]Hmm... 夷Crees que tiene algo que ver con la[n]pel胤cula en la que est茨s caminando?[n][f 1 3 65535][f 1 1][e]

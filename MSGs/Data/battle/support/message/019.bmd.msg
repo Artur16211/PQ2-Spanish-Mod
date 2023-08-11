@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25305]斡Vamos a echarnos una rara sombra![n][f 1 6 65535][e]
 
 [msg BTL_MES_025_007]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25306]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25306]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_008]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25310]Alternativamente[n][f 1 6 65535][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25326]Ser茨 un buen ejercicio.[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_018]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25327]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25327]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_019]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25328]夷Una sombra transformadora?[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25330]Alternativamente..[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25331]Esto podr胤a ser una mala se�al...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25331]Esto podr胤a ser una mala señal...[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25332]Alternativamente[n][f 1 6 65535][e]
@@ -191,10 +191,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25506]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_064]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25507]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25507]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25508]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25508]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_066]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25509]Alternativamente[n][f 1 6 65535][e]
@@ -218,13 +218,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25515]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_073]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25516]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25516]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_074]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25517]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_075]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25518]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25518]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_076]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25519]Leer m茨s[n][f 1 6 65535][e]

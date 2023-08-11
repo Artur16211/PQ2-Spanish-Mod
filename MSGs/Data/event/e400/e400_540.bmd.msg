@@ -1,6 +1,6 @@
 [msg MSG_000 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 1]夷Le importa si interjeo un momento? Hay algo[n]que me he estado preguntando.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2]La raz吋n por la que todos est茨bamos atrapados[n]en un cine en primer lugar - que estaba[n]atado a Hikari tambi姻n, 夷correcto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2]La razón por la que todos est茨bamos atrapados[n]en un cine en primer lugar - que estaba[n]atado a Hikari tambi姻n, 夷correcto?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Bueno, 夷por qu姻 pasar胤a algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]

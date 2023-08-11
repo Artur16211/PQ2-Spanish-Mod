@@ -5,20 +5,20 @@
 [f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19063][f 6 1 2 0 0 6]Oh, there! I just saw one. It was huge![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Hay otro! 斡Hay un mont吋n de mierda de ellos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Hay otro! 斡Hay un montón de mierda de ellos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3022]Ya sabes, ahora que lo pienso, 夷c吋mo diablos[n]los atraparemos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3022]Ya sabes, ahora que lo pienso, 夷cómo diablos[n]los atraparemos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]No tenemos un poste de pesca... 夷Tendremos[n]que usar nuestras manos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12069]O mejor a雨n, nuestros pu�os.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12069]O mejor a雨n, nuestros puños.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Los detendremos con una barbilla derecha y[n]los atraparemos con un corte superior![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser茨 un paseo en el parque en comparaci吋n[n]con la lucha contra las sombras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser茨 un paseo en el parque en comparación[n]con la lucha contra las sombras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3059][f 6 1 2 0 0 0]Whoa, whoa! 斡De ninguna manera![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Es mejor usar una ca�a de pescar o una lanza[n]o algo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Es mejor usar una caña de pescar o una lanza[n]o algo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 10 0 3][f 3 1 1 0 0 4062][f 6 1 2 0 0 4]夷Eh? 夷Qu姻 es ese sonido?[n][f 1 3 65535][f 1 1][e]
@@ -51,7 +51,7 @@
 
 [msg MSG_015 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 4 0 4][f 3 1 1 0 0 18119]Espera un segundo. Si luchamos aqu胤, asustaremos[n]a todos los peces.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Podemos mudarnos a otro lugar o luchar contra[n]ellos aqu胤... Es tu decisi吋n, Joker.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Podemos mudarnos a otro lugar o luchar contra[n]ellos aqu胤... Es tu decisión, Joker.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]V茨monos de aqu胤.[f 2 7 1 20 0 32][e]

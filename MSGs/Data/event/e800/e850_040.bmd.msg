@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 19 1 0 6][f 4 6 74 0 100 1][f 3 1 1 0 0 0]Incluso Sombras de tremendo poder no son m茨s[n]que juego de ni�os para ti.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 19 1 0 6][f 4 6 74 0 100 1][f 3 1 1 0 0 0]Incluso Sombras de tremendo poder no son m茨s[n]que juego de niños para ti.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 54026]Todos ustedes han crecido admirablemente[n]desde su llegada aqu胤. Tu nuevo poder es[n]realmente notable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Hikari]]
@@ -14,7 +14,7 @@
 
 [msg MSG_003 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Cada uno de ustedes trabaja para perfeccionar[n]su capacidad, y las reuniones fat胤dicas[n]dan a luz m茨s poder.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siento que he aprendido algo vitalmente[n]importante al ver tus haza�as en la pantalla[n]de plata...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siento que he aprendido algo vitalmente[n]importante al ver tus hazañas en la pantalla[n]de plata...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 2 0][f 3 1 1 0 0 0]Aunque no sea mi lugar, me gustar胤a darle[n]las gracias una vez m茨s.[n][f 1 3 65535][f 1 1][e]

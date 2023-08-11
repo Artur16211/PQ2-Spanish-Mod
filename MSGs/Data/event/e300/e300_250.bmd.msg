@@ -2,29 +2,29 @@
 [f 0 5 65278][f 2 1][f 4 6 26 10 0 1][f 3 1 1 0 0 26062][f 6 1 2 0 0 6]Whoaaaaaa! Esto... 斡Esto es incre胤ble![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 0]夷Podr胤a ser una instalaci吋n utilizada por[n]humanos en el pasado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 0]夷Podr胤a ser una instalación utilizada por[n]humanos en el pasado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28015]Probablemente...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]Aunque ahora, parece ser utilizado por los[n]robots para crear m茨s robots.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4045][f 6 1 2 0 0 6]Wowww... 斡Esto es en serio como una pel胤cula[n]de ciencia ficci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4045][f 6 1 2 0 0 6]Wowww... 斡Esto es en serio como una pel胤cula[n]de ciencia ficción![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 3031]No hay nada como eso. Estamos literalmente[n]dentro de una pel胤cula de ciencia ficci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 3031]No hay nada como eso. Estamos literalmente[n]dentro de una pel胤cula de ciencia ficción.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7019][f 6 1 2 0 0 4]Eh, ciencia ficci吋n... 夷Cu茨les son esas de[n]nuevo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7019][f 6 1 2 0 0 4]Eh, ciencia ficción... 夷Cu茨les son esas de[n]nuevo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3037][f 6 1 2 0 0 6]Como acabo de decir, 斡esto! 斡Esto, ahora[n]mismo! 斡Lo que est茨s mirando ahora es ciencia[n]ficci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3037][f 6 1 2 0 0 6]Como acabo de decir, 斡esto! 斡Esto, ahora[n]mismo! 斡Lo que est茨s mirando ahora es ciencia[n]ficción![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 9019][f 6 1 2 0 0 4]Oho... Entonces, 夷son helados y jugos vendidos[n]en mundos ciencia ficci吋n tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 9019][f 6 1 2 0 0 4]Oho... Entonces, 夷son helados y jugos vendidos[n]en mundos ciencia ficción tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]夷C吋mo lo sabr胤a? 斡Es lo 雨ltimo que necesitas[n]ahora mismo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]夷Cómo lo sabr胤a? 斡Es lo 雨ltimo que necesitas[n]ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 1 0 3][f 4 6 11 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Oye, 夷crees que Yosuke podr胤a ser el tipo[n]sensacional?[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]But, it really is thanks to Yosuke that[n]the Investigation Team's conversations[n]can carry on as well as they do.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3045][f 6 1 2 0 0 6]斡Es mi compa�ero! Realmente entiendes mis[n]cosas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3045][f 6 1 2 0 0 6]斡Es mi compañero! Realmente entiendes mis[n]cosas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 18 0 0 0][f 3 1 1 0 0 18129]Cuando se re雨ne un gran grupo de personas,[n]es natural que el problema venga tambi姻n.[n]Todo depende de las personalidades.[n][f 1 3 65535][f 1 1][e]
@@ -63,7 +63,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 0]Los miembros de SEES tambi姻n est茨n llenos de[n]personalidad...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16009]Todos hemos crecido acostumbrados a nuestro[n]grupo por ahora, pero supongo que parecer胤a[n]extra�o para un extra�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16009]Todos hemos crecido acostumbrados a nuestro[n]grupo por ahora, pero supongo que parecer胤a[n]extraño para un extraño.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero en realidad es muy divertido, ya que[n]tenemos tantos tipos diferentes de personas[n]juntas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yusuke]]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24029]Supongo que necesito estudiar a todos los[n]dem茨s de cerca y aprender a ser m茨s 雨nico.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]Ya eres demasiado 雨nico... En toda honestidad,[n]eres como la encarnaci吋n viviente de[n]lo raro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]Ya eres demasiado 雨nico... En toda honestidad,[n]eres como la encarnación viviente de[n]lo raro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24022][f 6 1 2 0 0 4]夷Dije algo peculiar?[n][f 1 3 65535][f 1 1][e]
@@ -121,7 +121,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 21009][f 6 1 2 0 0 3]Supongo que eso probablemente tenga sentido[n]para el Overseer, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 0 0][f 3 1 1 0 0 0]Se te dice que no deber胤as existir, s吋lo[n]porque eres diferente, o raro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 0 0][f 3 1 1 0 0 0]Se te dice que no deber胤as existir, sólo[n]porque eres diferente, o raro?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 4 0 0][f 3 1 1 0 0 26099][f 6 1 2 0 0 6]... 斡Eso no es m茨s que forzar las normas de[n]alguien a todos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Makoto]]
@@ -144,7 +144,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11037]S胤, quien haya decidido todas estas leyes de[n]mierda est茨 totalmente equivocado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]En serio, habla de un gobernante totalitario.[n]Ni siquiera piensa en la gente, s吋lo[n]le importa mantener el orden.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]En serio, habla de un gobernante totalitario.[n]Ni siquiera piensa en la gente, sólo[n]le importa mantener el orden.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 0 0][f 3 1 1 0 0 4038][f 6 1 2 0 0 2]斡Pensando que me est茨 cabreando! 斡No puedo[n]esperar a que le arranquen esas tonter胤as![n][f 1 3 65535][f 1 1][e]

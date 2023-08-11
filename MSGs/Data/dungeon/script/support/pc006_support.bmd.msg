@@ -23,13 +23,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6307]Parece que te escapaste de ese FOE![n][f 1 6 65535][e]
 
 [msg RISE_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6308]Phew, se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6308]Phew, se rindió.[n][f 1 6 65535][e]
 
 [msg RISE_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6375]斡Cuidado con su paso adelante![n][f 1 6 65535][e]
 
 [msg RISE_KANSI_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6376]T吋malo despacio. No queremos ser vistos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6376]Tómalo despacio. No queremos ser vistos.[n][f 1 6 65535][e]
 
 [msg RISE_KANSI_REACTION_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6377]Mantengamos la calma y la recogida, 夷de[n]acuerdo?[n][f 1 6 65535][e]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6347]斡Mira! 斡Podemos pasar por all胤![n][f 1 6 65535][e]
 
 [msg RISE_PARTY_DEAD_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6387]斡Muchos miembros del partido de acci吋n![n]斡Podr胤as querer regresar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6387]斡Muchos miembros del partido de acción![n]斡Podr胤as querer regresar![n][f 1 6 65535][e]
 
 [msg RISE_PARTY_DEAD_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6388]斡Esto no es bueno! 斡Tienes que reagruparte![n][f 1 6 65535][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6318]夷Puedes restaurar tu salud?[n][f 1 6 65535][e]
 
 [msg RISE_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6319]斡Alguien necesita curaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6319]斡Alguien necesita curación![n][f 1 6 65535][e]
 
 [msg RISE_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6320]斡Ten cuidado con tu salud![n][f 1 6 65535][e]
@@ -191,13 +191,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14393]斡Te lo dejo ahora, Rise-chan![n][f 1 6 65535][e]
 
 [msg FUKA_RISE_MAKASETA_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14394]斡Estoy deseando la navegaci吋n de Rise-chan![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14394]斡Estoy deseando la navegación de Rise-chan![n][f 1 6 65535][e]
 
 [msg FUKA_RISE_MAKASETA_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14395]斡Lo entregar姻 a Rise-chan ahora![n][f 1 6 65535][e]
 
 [msg FUKA_RISE_ANSWER_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6393]斡Gracias, Fuuka-chan! 斡Es hora de una navegaci吋n[n]estrella de rock![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6393]斡Gracias, Fuuka-chan! 斡Es hora de una navegación[n]estrella de rock![n][f 1 6 65535][e]
 
 [msg FUKA_RISE_ANSWER_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6394]斡Buen trabajo, Fuuka-chan! 斡Tengo suerte de[n]apoderarme de ti![n][f 1 6 65535][e]
@@ -212,7 +212,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26403]斡Oracle despegando! 斡Es todo tuyo, Rise![n][f 1 6 65535][e]
 
 [msg FUTABA_RISE_MAKASETA_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26404]斡Muy bien! 斡Pasando el bast吋n a Rise![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26404]斡Muy bien! 斡Pasando el bastón a Rise![n][f 1 6 65535][e]
 
 [msg FUTABA_RISE_ANSWER_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6402]斡Est茨 bien! 斡Lo tengo, Oracle![n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6372]斡Seamos como una banda y hagamos nuestro[n]mejor trabajo juntos![n][f 1 6 65535][e]
 
 [msg RISE_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6373]Bien, vamos a esta proyecci吋n especial![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6373]Bien, vamos a esta proyección especial![n][f 1 6 65535][e]
 
 [msg RISE_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6374]斡Principio![n][f 1 6 65535][e]
@@ -278,10 +278,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6351]斡Ese mapa viene bien![n][f 1 6 65535][e]
 
 [msg RISE_MAPPING_ICON_ALL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6352]斡Una colocaci吋n perfecta![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6352]斡Una colocación perfecta![n][f 1 6 65535][e]
 
 [msg RISE_MAPPING_ICON_KAIDAN]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6353]Es mejor saber d吋nde est茨n las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6353]Es mejor saber dónde est茨n las escaleras.[n][f 1 6 65535][e]
 
 [msg RISE_MAPPING_ICON_KAIDAN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6354]斡Con este mapa nunca nos perderemos![n][f 1 6 65535][e]
@@ -320,5 +320,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6385]Tengo una lectura que hay un Segador cerca[n]de ti! 斡Ten cuidado![n][f 1 6 65535][e]
 
 [msg RISE_KARITORU_ENCOUNT_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6386]斡Recogiendo una se�al del Segador! 斡Viene[n]por aqu胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6386]斡Recogiendo una señal del Segador! 斡Viene[n]por aqu胤![n][f 1 6 65535][e]
 

@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9305]斡Espio una rara! 斡No te escapar茨s![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_007]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9306]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9306]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_008]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9310]斡No[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9321]Alternativamente...[n]逃ютеннненнненнныменннымины�ны�ный[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9322]斡Es nuevo! Vamos a recoger algo de[n]informaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9322]斡Es nuevo! Vamos a recoger algo de[n]información![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9323]斡Testigo[n][f 1 6 65535][e]
@@ -56,19 +56,19 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9327]Alternativamente... 斡Avanzar[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9328]夷Hrmm? 斡Algo sobre esa sombra cambi�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9328]夷Hrmm? 斡Algo sobre esa sombra cambió![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9329]夷Te gusta[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_021]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9330]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9330]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_022]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9331]Hrmm... Incluso poni姻ndolo a la ligera, dir胤a[n]que somos carne muerta![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_023]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9332]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9332]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_024]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9401][e]
@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9419]�?an significando... [n][f 1 6 65535][e]
 
 [msg BTL_MES_009_043]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9420]斡M茨s informaci吋n! 斡Est雨pido[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9420]斡M茨s información! 斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_044]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9421]Alternativamente... 斡Est雨pido[n][f 1 6 65535][e]
@@ -140,7 +140,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9423]Alternativamente... 斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_047]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9424]斡M茨s informaci吋n! 斡Est雨pido[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9424]斡M茨s información! 斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_048]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9425]Alternativamente... [n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9341]斡Te mostrar姻 de qu姻 estoy hecho![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_054]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9342]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9342]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_055]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9343]斡BAM! 斡Dale donde duele![n][f 1 6 65535][e]
@@ -203,7 +203,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9510]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_068]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9511]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9511]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_069]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9512]- 夷Qu姻[n][f 1 6 65535][e]
@@ -218,10 +218,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9515]斡Hemos cambiado[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_073]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9516]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9516]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_074]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9517]<????...desaparici吋n �непеликитентентенные...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9517]<????...desaparición �непеликитентентенные...[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_075]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9518]斡No[n][f 1 6 65535][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9519][e]
 
 [msg BTL_MES_009_077]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9520]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9520]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_078]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9521]斡No[n][f 1 6 65535][e]
@@ -239,13 +239,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9522]斡Helicitaciones[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_080]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9523]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9523]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_081]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9524][e]
 
 [msg BTL_MES_009_082]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9525]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9525]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_083]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9526]Alternativamente[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9527]?ногилиныйны�инаниенный[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_085]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9528]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9528]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_086]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9430]斡Es hora de desatar mis encantos osos![n][f 1 6 65535][e]

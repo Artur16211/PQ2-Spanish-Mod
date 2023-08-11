@@ -1,5 +1,5 @@
 [msg MSG_000 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 85 1 0 4][f 4 6 1 1 0 3][f 4 6 75 0 0 1][f 3 1 1 0 0 1]Ahora entonces, volver姻 con [f 6 1 13 0 0][n]y sus amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 1 0 4][f 4 6 1 1 0 3][f 4 6 75 0 0 1][f 3 1 1 0 0 1]Now then, I shall return with[n][f 6 1 13 0 0 0] and his friends.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 1][f 3 1 1 0 0 2]Ven, Marie. T雨 gu胤as el camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Marie]]
@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 2 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Ramen suena bien y todo, pero 夷qu姻 tal un[n]buffet de postre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 2 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 6]斡Suena genial! 斡Yo tambi姻n quiero hacer una[n]reuni吋n de chicas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 6]斡Suena genial! 斡Yo tambi姻n quiero hacer una[n]reunión de chicas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 6 0 3][f 3 1 1 0 0 9][f 6 1 2 0 0 9]Hrgh, aqu胤 vienen las calor胤as...[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 2 0 9][f 3 1 1 0 0 18]Espero con inter姻s cuando nos reunamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Rise]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 6 12 0 9][f 3 1 1 0 0 19]斡Adi吋s, de verdad esta vez![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 6 12 0 9][f 3 1 1 0 0 19]斡Adiós, de verdad esta vez![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 2 0 9][f 3 1 1 0 0 20][f 6 1 2 0 0 6]斡V茨monos de nuevo![n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 2 0 9][f 3 1 1 0 0 21]Gracias por todo, chicos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 2 0 9][f 3 1 1 0 0 22][f 6 1 2 0 0 6]Eso fue una explosi吋n. 斡Nos vemos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 2 0 9][f 3 1 1 0 0 22][f 6 1 2 0 0 6]Eso fue una explosión. 斡Nos vemos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 2 0 9][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 23]Well then... See you, everyone.[n][f 1 3 65535][f 1 1][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 2 0 9][f 3 1 1 0 0 31]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 15 12 0 9][f 3 1 1 0 0 32]Futaba-san me ense�� la manera correcta de[n]despedirme antes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 15 12 0 9][f 3 1 1 0 0 32]Futaba-san me enseñó la manera correcta de[n]despedirme antes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 9][f 3 1 1 0 0 33][f 6 1 2 0 0 7]斡Todos, voy a hacer como un 茨rbol y salir de[n]aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Fuuka]]
@@ -97,7 +97,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 2 0 9][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Hasta luego, todos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 12 2 0 9][f 3 1 1 0 0 37]Tengo la sensaci吋n de que nos encontraremos[n]pronto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 12 2 0 9][f 3 1 1 0 0 37]Tengo la sensación de que nos encontraremos[n]pronto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 4 1 9][f 3 1 1 0 0 38][f 6 1 2 0 0 7]斡Tranquilo, chicos![n][f 1 3 65535][f 1 1][e]
@@ -137,13 +137,13 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 49]... Todos han vuelto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 50]Pasamos por un momento tan dif胤cil, pero[n]cuando pienso en ello, siento que pas� en[n]un flash.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 50]Pasamos por un momento tan dif胤cil, pero[n]cuando pienso en ello, siento que pasó en[n]un flash.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 4][f 3 1 1 0 0 51]De hecho, pero este fue un final realmente[n]hermoso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 52]De acuerdo. Lo que pas� aqu胤 es una de las[n]partes m茨s importantes de nuestras[n]vidas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 52]De acuerdo. Lo que pasó aqu胤 es una de las[n]partes m茨s importantes de nuestras[n]vidas...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 53][f 6 1 2 0 0 4]Pero, 夷por qu姻 fuimos tra胤dos aqu胤 en primer[n]lugar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Caroline]]
@@ -153,7 +153,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 2 0 0][f 3 1 1 0 0 55][f 6 1 2 0 0 6]Este final fue alcanzable solamente por[n]vosotros mismos. 斡Eso es todo lo que[n]necesitas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 78 1 0 0][f 4 6 79 12 0 0][f 3 1 1 0 0 56]Recluso... S吋lo espero que lo que pas� aqu胤[n]tenga un efecto positivo en su[n]rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 78 1 0 0][f 4 6 79 12 0 0][f 3 1 1 0 0 56]Recluso... Sólo espero que lo que pasó aqu胤[n]tenga un efecto positivo en su[n]rehabilitación.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 79 8 1 0][f 3 1 1 0 0 57]Y tal vez... incluso en otros tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Justine]]
@@ -163,7 +163,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 4 1 0][f 3 1 1 0 0 59][f 6 1 2 0 0 6]斡Ap雨rate y pasa por esa puerta! 夷Est茨s listo,[n]Inmate et cetera?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 2 0 9][f 3 1 1 0 0 60]Cine 1... Aqu胤 es donde empez� todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 2 0 9][f 3 1 1 0 0 60]Cine 1... Aqu胤 es donde empezó todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 2 0 9][f 3 1 1 0 0 61][f 6 1 2 0 0 6]斡S胤! 斡Quiero darme prisa y comer algo de[n]curry de Sojiro![n][f 1 3 65535][f 1 1][e]
@@ -178,7 +178,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 68 2 0 9][f 3 1 1 0 0 64]Me gustar胤a pedir un caf姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 2 0 9][f 3 1 1 0 0 65][f 6 1 2 0 0 6]Vaya, 夷d吋nde est茨 la verguenza de esta gente...[n]Bueno, si lo estamos metiendo, 斡me[n]pones para un sushi de primera calidad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 2 0 9][f 3 1 1 0 0 65][f 6 1 2 0 0 6]Vaya, 夷dónde est茨 la verguenza de esta gente...[n]Bueno, si lo estamos metiendo, 斡me[n]pones para un sushi de primera calidad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 69 2 0 9][f 3 1 1 0 0 66][f 6 1 2 0 0 4]No hay problema, si Morgana est茨 pagando.[n][f 1 3 65535][f 1 1][e]
@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 6 1 0][f 3 1 1 0 0 70]夷Eh? S胤. Lo siento, espaci姻 por un momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_064 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 6 1 0][f 3 1 1 0 0 71]Vuelve, 夷eh? S胤, tienes raz吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 6 1 0][f 3 1 1 0 0 71]Vuelve, 夷eh? S胤, tienes razón...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 8 1 0][f 3 1 1 0 0 72]Tenemos que volver a...[n][f 1 3 65535][f 1 1][e]
@@ -212,5 +212,5 @@
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 4][f 3 1 1 0 0 74][f 6 1 2 0 0 6]斡Heeeeey, c茨lmate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 72 2 0 1][f 3 1 1 0 0 75]Nos est茨n llamando... Vamos, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 72 2 0 1][f 3 1 1 0 0 75]They're calling for us... Let's go,[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 

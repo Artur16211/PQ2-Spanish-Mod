@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 75 1 0 3][f 4 6 74 6 2 1][f 3 1 1 0 0 54068]...Sin embargo, [f 6 1 16 0 0 0] el est吋mago[n]realmente no sabe l胤mite.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Ciertamente, creo que su capacidad gastron吋mica[n]est茨 mucho m茨s all茨 de la de los[n]humanos comunes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 1 0 3][f 4 6 74 6 2 1][f 3 1 1 0 0 54068]...Sin embargo, [f 6 1 16 0 0 0] el estómago[n]realmente no sabe l胤mite.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Ciertamente, creo que su capacidad gastronómica[n]est茨 mucho m茨s all茨 de la de los[n]humanos comunes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 55015]Me pregunto. Encontrar茨s que mi invitado[n]tambi姻n tiene una habilidad increible.[n][f 1 3 65535][f 1 1][e]
@@ -9,12 +9,12 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]S胤, las chispas est茨n volando. 夷Esos dos se[n]miran?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56010]Bueno, empez� inocentemente lo suficiente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56010]Bueno, empezó inocentemente lo suficiente...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estaban discutiendo las capacidades de sus[n]respectivos invitados [f 6 1 16 0 0] y [f 6 1 13 0 0 0][n]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No pod胤an estar de acuerdo en qui姻n era el[n]comedor m茨s voraz, y ahora se ha convertido[n]en un argumento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo sucede esto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Cómo sucede esto?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Dios. Si esos dos ni siquiera est茨n aqu胤,[n]esto va a continuar para siempre.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 6 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 10]...Oh. That's just... great.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]Creo que vi algo en el stand de concesi吋n...[n]Un momento...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]Creo que vi algo en el stand de concesión...[n]Un momento...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 1][f 3 1 1 0 0 61142]Esto es...[n][f 1 3 65535][f 1 1][e]
@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 10 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1032][f 6 1 2 0 0 6]Fried, heavy dough!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Entonces se decide. Aqu胤 comienza la mayor[n]competencia de donut-comeraci吋n de todos -[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Entonces se decide. Aqu胤 comienza la mayor[n]competencia de donut-comeración de todos -[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 2 1 4][f 3 1 1 0 0 0]Hermana... Me disculpo por interrumpir,[n]pero...[n][f 1 3 65535][f 1 1][e]
@@ -138,8 +138,8 @@
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Final... judgment?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54023]夷Oh? Parece que se ha a�adido otra prueba[n]especial.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 7 2 0][f 3 1 1 0 0 0]El objetivo de esta misi吋n es obtener dos[n]dispositivos cognitivos en A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54023]夷Oh? Parece que se ha añadido otra prueba[n]especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 7 2 0][f 3 1 1 0 0 0]El objetivo de esta misión es obtener dos[n]dispositivos cognitivos en A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 10 0 4][f 3 1 1 0 0 0]斡Ah! Eso es exactamente lo que necesitamos[n]para arreglar la freidora.[n][f 1 3 65535][f 1 1][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 1 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 10 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esta tarea no s吋lo te ganar茨 la recompensa[n]est茨ndar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 10 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esta tarea no sólo te ganar茨 la recompensa[n]est茨ndar...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 0]Ganar茨s la oportunidad de todos los donuts[n]que puedas comer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Futaba]]
@@ -171,8 +171,8 @@
 [f 0 5 65278][f 2 1][f 4 6 2 1 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 2 0][f 3 1 1 0 0 54031]As胤 que espero que acepten esta misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 2 0][f 3 1 1 0 0 54031]As胤 que espero que acepten esta misión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "Wildcard[n]Buffet" se ha a�adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "Wildcard[n]Buffet" se ha añadido a la taquilla.[n][f 1 3 65535][f 1 1][e]
 

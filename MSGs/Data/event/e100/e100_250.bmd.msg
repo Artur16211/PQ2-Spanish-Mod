@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 6 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 9]S胤, al principio nos asustamos. En realidad,[n]todav胤a estamos teniendo dificultades[n]para creerlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 2 2 1][f 3 1 1 0 0 4]Bienvenida, se�orita [f 6 1 26 0 0]. Soy[n]Nagi, la curadora de este lugar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 2 2 1][f 3 1 1 0 0 4]Bienvenida, señorita [f 6 1 26 0 0]. Soy[n]Nagi, la curadora de este lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 5]Oh, hello! Nice to meet you.[n]I'm [f 6 1 28 0 0 0].[n][f 1 3 65535][f 1 1][e]
@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 4 6 76 6 1 0][f 3 1 1 0 0 18]Muchas gracias por salvar a mi preciada[n]invitada.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]S吋lo hacemos lo correcto.[f 2 7 1 64 6 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Sólo hacemos lo correcto.[f 2 7 1 64 6 32][e]
 [f 0 5 65278][f 2 1]Ahora nos deben un favor.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Entonces, ustedes dos son... 夷cercanos?[f 2 7 1 64 0 32][e]
 
@@ -35,10 +35,10 @@
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 19]斡S胤, lo que dijo! Nunca dejar胤amos a alguien[n]en problemas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 0 1 0][f 3 1 1 0 0 20]Mi... Su amable consideraci吋n es muy[n]apreciada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 0 1 0][f 3 1 1 0 0 20]Mi... Su amable consideración es muy[n]apreciada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo, 夷c吋mo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo... 夷cómo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 22]Ya veo... Dado que ahora estamos en deuda[n]contigo, es apropiado devolver ese favor.[n][f 1 3 65535][f 1 1][e]
@@ -54,17 +54,17 @@
 [f 0 5 65278][f 2 1][f 4 6 66 10 1 6][f 3 1 1 0 0 26]斡Dios, deja de bromear! 斡Teodoro te va a[n]tomar en serio![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo, 夷c吋mo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo... 夷cómo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]Tambi姻n he tenido curiosidad por eso. 夷Le[n]importar胤a si preguntamos c吋mo est茨n[n]afiliados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]Tambi姻n he tenido curiosidad por eso. 夷Le[n]importar胤a si preguntamos cómo est茨n[n]afiliados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 19 0 2 4][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 29]Hmm, es un poco dif胤cil de explicar...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30][f 6 1 2 0 0 4]Supongo que es alguien a quien he estado en[n]deuda durante alg雨n tiempo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 31]斡Eso es vago! Pero no es como si entendiera[n]una explicaci吋n m茨s complicada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 31]斡Eso es vago! Pero no es como si entendiera[n]una explicación m茨s complicada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 8]Espera, 夷qu姻 demonios...? Oigan, chicos. Sus[n]ropas...[n][f 1 3 65535][f 1 1][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35]Por lo que he o胤do, ambos podemos usar[n]Personas, pero las reglas detr茨s de ella[n]parecen bastante diferentes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 1 0][f 3 1 1 0 0 36]Tu ropa no cambia en absoluto, 夷eh [f 6 1 27 0 0][n]? Aunque tambi姻n uses Personas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 1 0][f 3 1 1 0 0 36]Your clothes don't change at all, huh[n][f 6 1 27 0 0 0]? Even though you use[n]Personas too...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]!!!Wow!!! T-T-T-T雨 eres... Eres la chica de[n]la pel胤cula...[n][f 1 3 65535][f 1 1][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 41]斡No hice nada en p-particular![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 0 6][f 3 1 1 0 0 42]Lo siento. Es un poco t胤mida con extra�os.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 0 6][f 3 1 1 0 0 42]Lo siento. Es un poco t胤mida con extraños.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 43]Est茨 bien, todos est茨n un poco nerviosos al[n]principio. Encantado de conocerte,[n]Futaba.[n][f 1 3 65535][f 1 1][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1]Podr胤a ser una otaku.[f 2 7 1 64 0 32][e]
 
 [msg MSG_041 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 50]S胤, no deber胤a haber ninguna manzana podrida[n]entre los audi吋filos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 50]S胤, no deber胤a haber ninguna manzana podrida[n]entre los audiófilos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]C-Claro, estoy segura de que puedo disfrutar[n]de un buen rato si tenemos algo en[n]com雨n.[n][f 1 3 65535][f 1 1][e]
@@ -150,24 +150,24 @@
 
 [msg MSG_045 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 8 1 0][f 3 1 1 0 0 73]No puedo decirlo con certeza en este momento,[n]pero la posibilidad es bastante alta,[n]en alg雨n lugar...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 74]Despu姻s de todo, [f 6 1 30 0 0 0] ha venido[n]a este mundo con sus propios compa�eros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 74]Despu姻s de todo, [f 6 1 30 0 0 0] ha venido[n]a este mundo con sus propios compañeros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 1 5][f 6 1 27 0 0 0]��[n][f 3 1 1 0 0 75][f 6 1 3 0 0 1]Ya veo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 3 1 1 0 0 76][f 6 1 2 0 0 4]Todos intentan rescatar a sus amigas atrapadas[n]dentro de la pel胤cula, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 64 1 0 3][f 4 6 23 2 0 6][f 3 1 1 0 0 77]斡As胤 es! Son nuestras valiosas c吋mplices.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 64 1 0 3][f 4 6 23 2 0 6][f 3 1 1 0 0 77]斡As胤 es! Son nuestras valiosas cómplices.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 78][f 1 5][f 6 1 28 0 0 0]��斡Eso pens姻![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 79]Si hay la menor posibilidad de que mis[n]compa�eros est姻n aqu胤, quiero buscarlos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 78][f 1 5][f 6 1 28 0 0 0]��[n][f 6 1 2 0 0 6]斡Eso pens姻![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 79]Si hay la menor posibilidad de que mis[n]compañeros est姻n aqu胤, quiero buscarlos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048_5 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 80]斡As胤 que he tomado una decisi吋n! 斡D姻jame[n]unirme a ti! 斡Tambi姻n te ayudar姻 a buscar[n]a tus amigas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 80]斡As胤 que he tomado una decisión! 斡D姻jame[n]unirme a ti! 斡Tambi姻n te ayudar姻 a buscar[n]a tus amigas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 81][f 6 1 2 0 0 6]斡Eso ser胤a genial! 斡Ser胤a una adici吋n sin[n]precio al equipo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 81][f 6 1 2 0 0 6]斡Eso ser胤a genial! 斡Ser胤a una adición sin[n]precio al equipo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049_5 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 3 0][f 3 1 1 0 0 82][f 6 1 2 0 0 4]Bueno, estoy a favor de que se una a nosotros,[n]pero 夷qu姻 dices?[n][f 1 3 65535][f 1 1][e]
@@ -181,17 +181,17 @@
 
 [msg MSG_052 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 6][f 3 1 1 0 0 84]斡Igualmente![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 85]No te preocupes, si buscamos juntos, seguro[n]encontraremos a tus compa�eros en poco[n]tiempo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 85]No te preocupes, si buscamos juntos, seguro[n]encontraremos a tus compañeros en poco[n]tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 86]Gracias, Takamaki![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 87]斡Ll茨mame Ann![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 88][f 6 1 2 0 0 6]Adem茨s, estoy al l胤mite de mis fuerzas al[n]estar rodeada de todos estos tipos[n]desali�ados.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 88][f 6 1 2 0 0 6]Adem茨s, estoy al l胤mite de mis fuerzas al[n]estar rodeada de todos estos tipos[n]desaliñados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 3 0][f 3 1 1 0 0 89]斡Oye! 夷A qui姻n llamas desali�ado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 3 0][f 3 1 1 0 0 89]斡Oye! 夷A qui姻n llamas desaliñado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 0][f 6 1 25 0 0 0][f 4 6 81 0 0 0][f 3 1 1 0 0 53]...[n][f 1 3 65535][f 1 1][e]
@@ -230,13 +230,13 @@
 
 [msg MSG_067 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 0 6][f 3 1 1 0 0 64]斡Hrgh! Quiero decir, no es como si no lo[n]hubiera notado...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65][f 6 1 2 0 0 3]Pero, me recuerda c吋mo era hace un tiempo,[n]y hace que mi coraz吋n se lastime un[n]poco...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65][f 6 1 2 0 0 3]Pero, me recuerda cómo era hace un tiempo,[n]y hace que mi corazón se lastime un[n]poco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 6][f 3 1 1 0 0 66][f 6 1 2 0 0 6]斡No soy tan t胤mida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068_5 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 67][f 6 1 2 0 0 10]Pero, me recuerda c吋mo era hace un tiempo,[n]y hace que mi coraz吋n se lastime un[n]poco...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 67][f 6 1 2 0 0 10]Pero, me recuerda cómo era hace un tiempo,[n]y hace que mi corazón se lastime un[n]poco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 0][f 3 1 1 0 0 68]Ya veo...[n][f 1 3 65535][f 1 1][e]
@@ -247,7 +247,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 71][f 6 1 3 0 0 3]S胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_071 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 72 2 0 3][f 3 1 1 0 0 90]Bueno, entonces, 夷por qu姻 no damos a [f 6 1 26 0 0][n]un r茨pido recorrido por este[n]cine?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 72 2 0 3][f 3 1 1 0 0 90]Well then, why don't we give[n][f 6 1 26 0 0 0]-san a quick tour[n]of this movie theater?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 91]Mientras lo hacemos, seguro que tendremos la[n]oportunidad de hacer uso de nuestras[n]instalaciones.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Theodore]]

@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 3][f 3 1 1 0 0 0]夷As胤 lo dices? Pens姻 que rimaba con "chow"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Deber胤as prestar m茨s atenci吋n en ingl姻s...[n]Si escuchaste al profesor, sabr胤as la[n]pronunciaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Deber胤as prestar m茨s atención en ingl姻s...[n]Si escuchaste al profesor, sabr胤as la[n]pronunciación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 3][f 3 1 1 0 0 21041]S胤, s胤...[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]"CROW". Como en el p茨jaro de caza furtiva,[n]supongo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6616][f 3 1 6 0 0 500]Crow, 夷eh? 夷No era el nombre de c吋digo de[n]Akechi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6616][f 3 1 6 0 0 500]Crow, 夷eh? 夷No era el nombre de código de[n]Akechi-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]Crow es estudiante y detective, 夷eh? Espero[n]que no se quede con el estr姻s.[n]夷Entendido?[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 3][f 3 1 1 0 0 10091]*Suspira* Se necesita coraje para entregar[n]un juego tan malo con ese tipo de[n]entusiasmo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0]夷No vas a unirte a la conversaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0]夷No vas a unirte a la conversación?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Bueno, bueno, una charla con Aragaki-kun![n]Esto es raro.[n][f 1 3 65535][f 1 1][e]
@@ -69,10 +69,10 @@
 
 [msg MSG_021 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]夷Y t雨?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siempre te veo caminando unos pasos detr茨s[n]del resto del grupo. 夷Hay alguna raz吋n[n]para eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siempre te veo caminando unos pasos detr茨s[n]del resto del grupo. 夷Hay alguna razón[n]para eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0]Tch... no tengo una buena raz吋n. Es algo que[n]hago.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0]Tch... no tengo una buena razón. Es algo que[n]hago.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 3][f 3 1 1 0 0 28033]No quise ofenderme. No tienes que decirme si[n]no quieres.[n][f 1 3 65535][f 1 1][e]
@@ -85,7 +85,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 1][f 3 1 1 0 0 18096]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 3][f 3 1 1 0 0 0]Bueno, supongo que estoy m茨s c吋modo as胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 3][f 3 1 1 0 0 0]Bueno, supongo que estoy m茨s cómodo as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0]... Ahora eres t雨.[n][f 1 3 65535][f 1 1][e]

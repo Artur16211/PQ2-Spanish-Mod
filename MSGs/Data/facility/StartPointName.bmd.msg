@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1]Pantalla de Cine[n][e]
 
 [msg quest_12]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_13]
 [f 0 5 65278][f 2 1]Escales to Area 2[n][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1]Escales to Area 3[n][e]
 
 [msg quest_16]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_17]
 [f 0 5 65278][f 2 1]Escaleras a tercera Ave[n][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1]Escaleras a la Zona 2[n][e]
 
 [msg quest_19]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_20]
 [f 0 5 65278][f 2 1]※[n][e]
@@ -74,10 +74,10 @@
 [f 0 5 65278][f 2 1]Escaleras al piso de laboratorio 1[n][e]
 
 [msg quest_24]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_25]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_26]
 [f 0 5 65278][f 2 1]Escales to Area 3[n][e]
@@ -89,10 +89,10 @@
 [f 0 5 65278][f 2 1]Escaleras a la Zona 3[n][e]
 
 [msg quest_29]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_30]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_31]
 [f 0 5 65278][f 2 1]Escaleras a la plaza Kamoshida[n][e]
@@ -113,13 +113,13 @@
 [f 0 5 65278][f 2 1]Escaleras al piso de laboratorio 1[n][e]
 
 [msg quest_37]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_38]
 [f 0 5 65278][f 2 1]Escaleras al piso de laboratorio 1[n][e]
 
 [msg quest_39]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_40]
 [f 0 5 65278][f 2 1]Escales to Act 6[n][e]
@@ -128,10 +128,10 @@
 [f 0 5 65278][f 2 1]Pantalla de Cine[n][e]
 
 [msg quest_42]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_43]
-[f 0 5 65278][f 2 1]Entrada especial de proyecci吋n[n][e]
+[f 0 5 65278][f 2 1]Entrada especial de proyección[n][e]
 
 [msg quest_44]
 [f 0 5 65278][f 2 1]※[n][e]

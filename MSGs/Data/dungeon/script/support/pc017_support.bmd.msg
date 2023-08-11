@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23308]Phew, eso me puso de pie...[n][f 1 6 65535][e]
 
 [msg MONA_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23369]Preste atenci吋n a c吋mo se mueve.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23369]Preste atención a cómo se mueve.[n][f 1 6 65535][e]
 
 [msg MONA_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23370]Mantente calmada mientras avanzas.[n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23356]Realmente tendremos que hacerlo contar desde[n]aqu胤.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23357]S吋lo un poco m茨s para ir.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23357]Sólo un poco m茨s para ir.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23358]Ruta completa![n][f 1 6 65535][e]

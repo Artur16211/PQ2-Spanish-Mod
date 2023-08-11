@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Bienvenido a todos. Aqu胤 est茨 su recompensa[n]por esta proyecci吋n especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Bienvenido a todos. Aqu胤 est茨 su recompensa[n]por esta proyección especial.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 1 0 6][f 4 6 69 1 0 1][f 4 6 12 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]As胤 que creo que tienes una buena idea de lo[n]fuertes que somos... 夷Notas algo que[n]necesite mejorar?[n][f 1 3 65535][f 1 1][e]
@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4125][f 6 1 2 0 0 9]夷Pero un cambio de dieta? Y... todo es pescado[n]y verduras...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Hay algo de carne, pero la relaci吋n parece[n]muy peque�a... 夷Seguro que hay suficiente[n]prote胤na aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Hay algo de carne, pero la relación parece[n]muy pequeña... 夷Seguro que hay suficiente[n]prote胤na aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 6 0 0][f 3 1 1 0 0 25082]Hay prote胤nas basadas en plantas, as胤 como[n]las basadas en la carne. Necesitas un[n]equilibrio de ambos.[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 
 [msg MSG_016 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 25078]No, deber胤a estar agradeci姻ndote.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ver tu devoci吋n por ser m茨s fuerte me hizo[n]pensar en mis propias razones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ver tu devoción por ser m茨s fuerte me hizo[n]pensar en mis propias razones.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Por qu姻 quer胤a ser fuerte?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_017 top]
@@ -72,12 +72,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Proteger a la gente toma fuerza... Yo mismo[n]aspiraba a esa fuerza. Quer胤a ser igual[n]a 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 12 1 0 3][f 4 6 4 12 0 6][f 3 1 1 0 0 0]Te refieres a tu padre, 夷verdad? Suena como[n]un verdadero h姻roe. Apuesto a que protegi吋[n]a la gente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 1 0 3][f 4 6 4 12 0 6][f 3 1 1 0 0 0]Te refieres a tu padre, 夷verdad? Suena como[n]un verdadero h姻roe. Apuesto a que protegió[n]a la gente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A veces desear胤a ser como los h姻roes del[n]cine. Disparando, salvando a mis amigos del[n]peligro...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Por eso me voy a poner m茨s fuerte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12067]S胤. Por eso necesito poder confiar en mis[n]pu�os... as胤 que nunca volver姻 a perder a[n]nadie importante para m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12067]S胤. Por eso necesito poder confiar en mis[n]puños... as胤 que nunca volver姻 a perder a[n]nadie importante para m胤.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si me ayuda a hacer eso, pasar姻 por cualquier[n]cosa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Makoto]]
@@ -111,7 +111,7 @@
 
 [msg MSG_031 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]La verdad es que, Makoto, te estaba observando[n]en esa 雨ltima batalla tambi姻n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tiendes a pensar demasiado un poco las cosas.[n]A veces necesitas ser capaz de confiar[n]en la intuici吋n sola.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tiendes a pensar demasiado un poco las cosas.[n]A veces necesitas ser capaz de confiar[n]en la intuición sola.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_032 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Es su debilidad?[f 2 7 1 64 8 32][e]
@@ -130,5 +130,5 @@
 
 [msg MSG_036 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 74 2 100 1][f 3 1 1 0 0 54031]... Parece que se ha forjado otro nuevo[n]v胤nculo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 0]Y con eso, la cortina cae en esta proyecci吋n.[n]Hasta la pr吋xima vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 0]Y con eso, la cortina cae en esta proyección.[n]Hasta la próxima vez...[n][f 1 3 65535][f 1 1][e]
 

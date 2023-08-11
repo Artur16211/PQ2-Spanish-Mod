@@ -3,13 +3,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Has hecho un buen uso de los recursos aqu胤.[n]Como propietario, debo decir que estoy[n]orgulloso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 4 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Y ahora ha llegado el momento de levantar[n]la cortina en una proyecci吋n muy especial![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Y ahora ha llegado el momento de levantar[n]la cortina en una proyección muy especial![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una de esas emisoras espec胤ficas? As胤 que[n]estamos luchando contra uno grande otra[n]vez, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Veo que esto es rutinario para ti. S胤, tienes[n]raz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Veo que esto es rutinario para ti. S胤, tienes[n]razón.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Esta vez, tu brutal matadero es contra un[n]villano que ha aparecido en las profundidades[n]de "A.I.G.I.S."[n][f 1 3 65535][f 1 1][e]
@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷O quiz茨s est茨s m茨s centrado en el combate[n]m茨s all茨 de esta tarea?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]Bueno, es verdad que esto es s吋lo un abrevadero[n]para la batalla real. Pero no podemos[n]bajar la guardia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]Bueno, es verdad que esto es sólo un abrevadero[n]para la batalla real. Pero no podemos[n]bajar la guardia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 2 0 3][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]Yeah. Doesn't matter who we're up[n]against. We'll fight with all we've got.[n][f 1 3 65535][f 1 1][e]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 2 0 0 1][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]Let's do this, Leader. Sounds like a[n]pretty big responsibility, but I'll[n]give it a shot.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_013 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Ens姻�ame lo mejor que puedas.[f 2 7 1 64 12 0][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Ens姻ñame lo mejor que puedas.[f 2 7 1 64 12 0][e]
 [f 0 5 65278][f 2 1]S姻 que puedes hacerlo.[f 2 7 1 64 12 0][e]
 
 [msg MSG_014 [P3 Hero]]

@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 4][f 3 1 1 0 0 13006]Ahora, nos separamos y preguntamos por ah胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10109]夷C吋mo te fue?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10109]夷Cómo te fue?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 1 3][f 3 1 1 0 0 11089]Es lo mismo que la 雨ltima vez.[n][f 1 3 65535][f 1 1][e]
@@ -17,10 +17,10 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 3][f 3 1 1 0 0 0]M雨ltiples perps se metieron en una sola mujer[n]y cogieron su cartera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 6][f 3 1 1 0 0 0]Aparentemente, sucedi� tan r茨pido, nadie sabe[n]de d吋nde vinieron ni de d吋nde[n]desaparecieron.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 6][f 3 1 1 0 0 0]Aparentemente, sucedió tan r茨pido, nadie sabe[n]de dónde vinieron ni de dónde[n]desaparecieron.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_1 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 6 0 0][f 3 1 1 0 0 24013][f 6 1 2 0 0 9]Nuestros enemigos ciertamente saben c吋mo[n]evitar la detecci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 6 0 0][f 3 1 1 0 0 24013][f 6 1 2 0 0 9]Nuestros enemigos ciertamente saben cómo[n]evitar la detección.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]Eso no es bueno.[f 2 7 1 20 6 32][e]
@@ -45,10 +45,10 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 4][f 3 1 1 0 0 13020][f 6 1 2 0 0 4]夷Hm? 夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 21012]Esta ciudad sol胤a ser gobernada por una[n]verdadera basura, y todo el mundo aqu胤 s吋lo[n]hizo lo que dijo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 21012]Esta ciudad sol胤a ser gobernada por una[n]verdadera basura, y todo el mundo aqu胤 sólo[n]hizo lo que dijo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013_1 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Ellos depend胤an completamente de 姻l. Nadie[n]se defendi� por s胤 mismo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Ellos depend胤an completamente de 姻l. Nadie[n]se defendió por s胤 mismo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 22113]Pero ahora parece que la gente est茨 empezando[n]a actuar por su cuenta.[n][f 1 3 65535][f 1 1][e]

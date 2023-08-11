@@ -16,7 +16,7 @@
 
 [msg MSG_005 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 2031]That's an easy one...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 3 1 1 0 0 0]Es porque es nuestra compa�era. No hay otra[n]raz吋n aparte de eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 3 1 1 0 0 0]Es porque es nuestra compañera. No hay otra[n]razón aparte de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]夷TU EMPRESA...?[n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 
 [msg MSG_014 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 21037]Todas esas palabras suenan como la mierda[n]que dir胤a un gilipollas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Es una mierda c吋mo est茨n forzando estas[n]reglas ego胤stas en toda la sociedad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Es una mierda cómo est茨n forzando estas[n]reglas ego胤stas en toda la sociedad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35007]PERO, LAS REGLAS QUIEREN SER SEGUIDAS...[n][f 1 3 65535][f 1 1][e]
@@ -72,7 +72,7 @@
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19031]*giggle* Remember what we said[n]earlier? The answer to this one's[n]simple, too...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es porque eres igual de un compa�ero para[n]nosotros como Aigis, Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es porque eres igual de un compañero para[n]nosotros como Aigis, Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]YO... 夷SOY UNA EMPRESA?[n][f 1 3 65535][f 1 1][e]

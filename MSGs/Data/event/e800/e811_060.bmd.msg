@@ -9,7 +9,7 @@
 
 [msg MSG_003 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 10 0 3][f 3 1 1 0 0 23104]夷Qu姻? 斡No tan alto![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 23 4 0 3][f 3 1 1 0 0 0]Mira, a雨n no hemos terminado. Un ladr吋n[n]fantasma no est茨 terminado hasta que vuelvan[n]a su escondite.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 0 3][f 3 1 1 0 0 0]Mira, a雨n no hemos terminado. Un ladrón[n]fantasma no est茨 terminado hasta que vuelvan[n]a su escondite.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 1][f 3 1 1 0 0 0]Vaya, suena como un viaje de campo.[n][f 1 3 65535][f 1 1][e]

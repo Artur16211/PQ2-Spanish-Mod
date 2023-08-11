@@ -1,5 +1,5 @@
 [msg MSG_000 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56001]Hola a todos. 夷C吋mo est茨s?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56001]Hola a todos. 夷Cómo est茨s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 10 100 3][f 3 1 1 0 0 54095]斡Villain![n][f 1 3 65535][f 1 1][e]
@@ -16,10 +16,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19110]Theo? What are you doing here?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 0]Sobre eso... Vine aqu胤 porque tengo una[n]petici吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 0]Sobre eso... Vine aqu胤 porque tengo una[n]petición.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3]夷Una petici吋n?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3]夷Una petición?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]夷Pasa algo?[f 2 7 1 64 0 32][e]
 
 [msg MSG_007 [Theodore]]
@@ -32,7 +32,7 @@
 
 [msg MSG_009 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 8 1 0 3][f 4 6 80 12 0 1][f 3 1 1 0 0 56062]S胤. La pel胤cula "Tierra Ju茨tica" que pasaste[n]por...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aparentemente, es el hogar de una multitud[n]de tecnolog胤a de pr吋xima generaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aparentemente, es el hogar de una multitud[n]de tecnolog胤a de próxima generación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 6][f 3 1 1 0 0 25115]Ahora que lo mencionas, esa pel胤cula tiene[n]lugar en el futuro.[n][f 1 3 65535][f 1 1][e]
@@ -72,7 +72,7 @@
 
 [msg MSG_020 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56041]Much appreciated, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si lo consideramos una proyecci吋n especial,[n]podr姻 presentarte con una recompensa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si lo consideramos una proyección especial,[n]podr姻 presentarte con una recompensa.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Con eso, hermana, 夷podr胤as crear un...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Elizabeth]]
@@ -82,11 +82,11 @@
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 0]夷Sister?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 10 100 3][f 3 1 1 0 0 54095]夷De d吋nde viene este misterioso y[n]disfrazado...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 10 100 3][f 3 1 1 0 0 54095]夷De dónde viene este misterioso y[n]disfrazado...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 6 0 1][f 3 1 1 0 0 56037]*suspira*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "Long-lost[n]Tech" se ha a�adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "Long-lost[n]Tech" se ha añadido a la taquilla.[n][f 1 3 65535][f 1 1][e]
 

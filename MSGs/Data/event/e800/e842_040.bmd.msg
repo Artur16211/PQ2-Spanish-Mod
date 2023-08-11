@@ -3,13 +3,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Eh? 斡Espera![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]La mariposa pas� por el agujero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]La mariposa pasó por el agujero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 4 0 4][f 3 1 1 0 0 9035]斡Grrr! 斡La mariposa no sabe cu茨ndo rendirse![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 1][f 3 1 1 0 0 0]Tal vez vio a toda la gente aqu胤 y se[n]asust�...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 1][f 3 1 1 0 0 0]Tal vez vio a toda la gente aqu胤 y se[n]asustó...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 0]Quiero perseguirlo, pero no podemos bajar de[n]aqu胤.[n][f 1 3 65535][f 1 1][e]

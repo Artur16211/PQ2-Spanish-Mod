@@ -37,10 +37,10 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3068]S胤. Todos salen de su base y se conectan,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 0]S胤, pero esta vez los robots estaban bajo[n]inspecci吋n, y no pod胤an usarlos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 0]S胤, pero esta vez los robots estaban bajo[n]inspección, y no pod胤an usarlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Esa es una situaci吋n extra�amente realista[n]para ese show...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Esa es una situación extrañamente realista[n]para ese show...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 4 0 0][f 3 1 1 0 0 26053]夷Y qu姻 hacen nuestros h姻roes?[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 0]斡Si quieres, puedo prestarte el DVD! 斡Hay[n]muchos m茨s episodios que ver![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]Tal vez la pr吋xima vez...[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]Tal vez la próxima vez...[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Por favor.[f 2 7 1 64 2 32][e]
 
 [msg MSG_017 [P3 Hero]]

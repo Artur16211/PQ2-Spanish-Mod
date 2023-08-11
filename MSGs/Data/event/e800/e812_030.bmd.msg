@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 3][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19031]*giggle* Panther sure is in a good[n]mood. I'm excited too, though.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 0]斡Estoy de buen humor s吋lo por verla![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 0]斡Estoy de buen humor sólo por verla![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 3][f 3 1 1 0 0 0]Te gustan los dulces. 夷Eso es todo lo que[n]piensas?[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 1][f 3 1 1 0 0 0]Pero tambi姻n me hace muy feliz o胤rte decir[n]eso, as胤 que gracias![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6573]Eres elegante, y sabes c吋mo vestirte. 夷Puedes[n]ense�arme a coordinar mis trajes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6573]Eres elegante, y sabes cómo vestirte. 夷Puedes[n]enseñarme a coordinar mis trajes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 3][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19073]Oh! Me too![n][f 1 3 65535][f 1 1][e]

@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 3][f 3 1 1 0 0 0]Quiero romper algo, supongo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 1][f 3 1 1 0 0 0]斡Muy bien! 斡Entonces vamos a la posici吋n de[n]la FOE![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 1][f 3 1 1 0 0 0]斡Muy bien! 斡Entonces vamos a la posición de[n]la FOE![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Primero, vamos a hacer saltos de conejo[n]hasta all胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Junpei]]

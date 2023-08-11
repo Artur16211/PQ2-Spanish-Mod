@@ -48,7 +48,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Estoy realmente aliviado de que su amigo[n]desaparecido fuera encontrado con seguridad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 3 10 0 3][f 3 1 1 0 0 18][f 6 1 2 0 0 10]Uh, hey, compa�ero, 夷qui姻n es el nocaut total[n]de all胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 3 10 0 3][f 3 1 1 0 0 18][f 6 1 2 0 0 10]Uh, hey, compañero, 夷qui姻n es el nocaut total[n]de all胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 19]Es la curadora de la que te contamos antes,[n]Nagi-san. Ese es Hikari-san all胤 con[n]ella tambi姻n.[n][f 1 3 65535][f 1 1][e]
@@ -61,7 +61,7 @@
 
 [msg MSG_019 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 22]Siento haberos preocupado tanto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 23]Hikari-chan, 夷verdad? Gracias por su[n]preocupaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 23]Hikari-chan, 夷verdad? Gracias por su[n]preocupación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 84 1 0 0][f 4 6 81 0 0 0][f 3 1 1 0 0 24]U-Um...[n][f 1 3 65535][f 1 1][e]
@@ -73,10 +73,10 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 26]夷Por qu姻 protegiste ese herb胤voro? Podr胤as[n]haberte matado...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 27]夷Por qu姻? Bueno, supongo que mi cuerpo[n]reaccion� antes de mi cerebro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 27]夷Por qu姻? Bueno, supongo que mi cuerpo[n]reaccionó antes de mi cerebro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]... 夷No ten胤as raz吋n? Entonces, 夷por qu姻...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]... 夷No ten胤as razón? Entonces, 夷por qu姻...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 29]斡Oh, no te equivoques, fue s雨per aterrador![n]Casi me comen vivo...[n][f 1 3 65535][f 1 1][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 31][f 6 1 2 0 0 4]夷Qu姻... quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 32]夷Si me enga�姻 a tomar la salida f茨cil, s吋lo[n]para salir de un l胤o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 32]夷Si me engañ姻 a tomar la salida f茨cil, sólo[n]para salir de un l胤o?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 33]Siempre que haces cosas as胤... empiezas a[n]odiarte.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 34]Ya no quiero mentirme as胤. Jur姻 que nunca lo[n]har胤a de nuevo.[n][f 1 3 65535][f 1 1][e]
 
@@ -97,7 +97,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 36][f 6 1 2 0 0 10]Haha, 夷fue un poco cursi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡Waaaaah! 斡Eso hizo que mi coraz吋n se[n]enfureciera![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡Waaaaah! 斡Eso hizo que mi corazón se[n]enfureciera![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38]Era cursi, pero todav胤a tan genial, Yosuke![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Kanji]]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 42][f 6 1 2 0 0 4]夷Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 43]La mayor胤a decidi� abandonarla... Pero todos[n]fuisteis a rescatarla de todos modos,[n]porque...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 43]La mayor胤a decidió abandonarla... Pero todos[n]fuisteis a rescatarla de todos modos,[n]porque...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 44][f 6 1 2 0 0 4]夷Porque quer胤as ser fiel a tus sentimientos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
@@ -122,7 +122,7 @@
 
 [msg MSG_037 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 45]Bueno, arriesgaste tu vida cuando te levantaste[n]a ese carn胤voro...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 46][f 6 1 2 0 0 4]夷No fue esa decisi吋n basada en tu deseo de[n]salvar al herb胤voro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 46][f 6 1 2 0 0 4]夷No fue esa decisión basada en tu deseo de[n]salvar al herb胤voro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 4 0 0 0][f 3 1 1 0 0 47]No me importa lo que una mayor胤a decida...[n][f 1 3 65535][f 1 1][e]
@@ -130,15 +130,15 @@
 
 [msg MSG_039 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 49]No estamos alegando que una regla de la[n]mayor胤a es inherentemente mala.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 50]Cuando una decisi吋n de grupo es necesaria,[n]es l吋gico seguir la voz de la mayor胤a...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 51]Pero, s吋lo porque un mayor n雨mero de personas[n]est茨n de acuerdo en un asunto determinado,[n]eso no necesariamente los hace[n]correctos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 50]Cuando una decisión de grupo es necesaria,[n]es lógico seguir la voz de la mayor胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 51]Pero, sólo porque un mayor n雨mero de personas[n]est茨n de acuerdo en un asunto determinado,[n]eso no necesariamente los hace[n]correctos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 52][f 6 1 2 0 0 4]Despu姻s de todo, 夷no se supone que un voto[n]sea una colecci吋n de opiniones honestas[n]de cada participante?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 53]La alternativa, que adora a la mayor胤a y[n]desestima sus propios sentimientos en el[n]asunto, es s吋lo aborrecible.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 52][f 6 1 2 0 0 4]Despu姻s de todo, 夷no se supone que un voto[n]sea una colección de opiniones honestas[n]de cada participante?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 53]La alternativa, que adora a la mayor胤a y[n]desestima sus propios sentimientos en el[n]asunto, es sólo aborrecible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 54]Tu opini吋n honesta...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 54]Tu opinión honesta...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 55]...Hikari, 夷te da miedo ser honesto contigo[n]mismo?[n][f 1 3 65535][f 1 1][e]
@@ -163,7 +163,7 @@
 
 [msg MSG_048 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 12 0 1][f 3 1 1 0 0 64]Bueno, ahora que hemos completado nuestra[n]b雨squeda de Yosuke-senpai...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65][f 6 1 2 0 0 4]夷Cu茨les deber胤an ser nuestros pr吋ximos pasos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65][f 6 1 2 0 0 4]夷Cu茨les deber胤an ser nuestros próximos pasos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 66]Para dejar este cine, se supone que debemos[n]cambiar los finales del cine, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -173,7 +173,7 @@
 
 [msg MSG_051 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 1][f 3 1 1 0 0 68]Tampoco hemos terminado con ese dinosaurio[n]que tiene mi cabeza.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 69]No s姻 c吋mo explicarlo, pero si los ignoramos,[n]juro que me perseguir茨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 69]No s姻 cómo explicarlo, pero si los ignoramos,[n]juro que me perseguir茨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 70]En ese caso, volvamos a la pel胤cula una vez[n]que estemos listos.[n][f 1 3 65535][f 1 1][e]

@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Ni personal![n][f 1 2 55][f 1 1][e]
 
 [msg MSG_002]
-[f 0 5 65278][f 2 1][f 0 6 255 255]No s姻 c吋mo sentir que nadie m茨s est姻 aqu胤...[n][f 1 2 75][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]No s姻 cómo sentir que nadie m茨s est姻 aqu胤...[n][f 1 2 75][f 1 1][e]
 
 [msg MSG_002_1]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Bueno, vamos a entrar.[n][f 1 2 80][f 1 1][e]

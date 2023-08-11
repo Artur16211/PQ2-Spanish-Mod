@@ -1,6 +1,6 @@
 [msg MSG_000 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 18068]As胤 que fuimos a la derecha... y eso significa[n]que empujaste al tipo a las pistas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Supongo que detuviste el carrito, pero tu[n]gallinero mat� a un tipo para hacerlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Supongo que detuviste el carrito, pero tu[n]gallinero mató a un tipo para hacerlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 3][f 3 1 1 0 0 0]Pero, quiero decir... de esta manera, salvamos[n]a cinco personas![n][f 1 3 65535][f 1 1][e]
@@ -15,12 +15,12 @@
 
 [msg MSG_004 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13013]A雨n as胤, te hace pensar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como antes, es cuesti吋n de sacrificar una[n]vida para salvar cinco.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como antes, es cuestión de sacrificar una[n]vida para salvar cinco.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, tener que empujar directamente[n]a un hombre a su muerte hace que se sienta[n]un poco menos pasivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Supongo que ese es el punto. Quien prepar吋[n]esto quer胤a que reflexion茨ramos sobre eso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuando nos enfrentamos a una elecci吋n dif胤cil,[n]夷qu姻 pasar胤a por nuestras mentes, y[n]qu姻 har胤amos...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Supongo que ese es el punto. Quien preparó[n]esto quer胤a que reflexion茨ramos sobre eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuando nos enfrentamos a una elección dif胤cil,[n]夷qu姻 pasar胤a por nuestras mentes, y[n]qu姻 har胤amos...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 6][f 3 1 1 0 0 23009]Eso me asusta... Es como si estuvieran tratando[n]de ver en las profundidades de nuestros[n]corazones.[n][f 1 3 65535][f 1 1][e]
@@ -31,7 +31,7 @@
 
 [msg MSG_008 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 18068]As胤 que nos fuimos... Eso significa que no[n]empujaste al tipo a las pistas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo que significa que sigui� adelante, y golpe吋[n]a los cinco trabajadores... Suena[n]bastante desordenado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo que significa que siguió adelante, y golpeó[n]a los cinco trabajadores... Suena[n]bastante desordenado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 3][f 3 1 1 0 0 0]Sin embargo, al menos el tipo grande consigue[n]sobrevivir.[n][f 1 3 65535][f 1 1][e]
@@ -51,13 +51,13 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 8091]No estoy seguro de que los trabajadores[n]estar胤an mejor en ese caso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13013]Es extra�o.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como antes, es cuesti吋n de sacrificar una[n]vida para salvar cinco.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13013]Es extraño.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como antes, es cuestión de sacrificar una[n]vida para salvar cinco.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, tener que empujar directamente[n]a un hombre a su muerte hace que se sienta[n]un poco menos pasivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Supongo que ese es el punto. Quien prepar吋[n]esto quer胤a que reflexion茨ramos sobre eso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuando nos enfrentamos a una elecci吋n dif胤cil,[n]夷qu姻 pasar胤a por nuestras mentes, y[n]qu姻 har胤amos...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Supongo que ese es el punto. Quien preparó[n]esto quer胤a que reflexion茨ramos sobre eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cuando nos enfrentamos a una elección dif胤cil,[n]夷qu姻 pasar胤a por nuestras mentes, y[n]qu姻 har胤amos...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 6][f 3 1 1 0 0 23009]Eso me asusta... Es como si estuvieran tratando[n]de ver en las profundidades de nuestros[n]corazones.[n][f 1 3 65535][f 1 1][e]

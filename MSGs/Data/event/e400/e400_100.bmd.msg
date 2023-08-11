@@ -9,16 +9,16 @@
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]No puedo pensar en un motivo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 0 6][f 3 1 1 0 0 21023][f 6 1 2 0 0 4]Bueno, obviamente es el que nos encerr� a[n]todos aqu胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ya que seguimos persiguiendo las pel胤culas[n]y tratando de salir, 夷tal vez se asust�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 0 6][f 3 1 1 0 0 21023][f 6 1 2 0 0 4]Bueno, obviamente es el que nos encerró a[n]todos aqu胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ya que seguimos persiguiendo las pel胤culas[n]y tratando de salir, 夷tal vez se asustó?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eso es lo que todav胤a no puedo averiguar, si[n]suponemos que Doe es el culpable, 夷cu茨l[n]es su objetivo?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nunca nos atac� hasta ahora, y pas� mucho[n]tiempo antes de que secuestrara a[n]Hikari-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nunca nos atacó hasta ahora, y pasó mucho[n]tiempo antes de que secuestrara a[n]Hikari-san...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 6 0 0][f 3 1 1 0 0 0]Tampoco puedo discernir su juego final.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28008][f 6 1 2 0 0 4]Adem茨s, 夷por qu姻 jug� las pel胤culas para[n]nosotros en primer lugar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28008][f 6 1 2 0 0 4]Adem茨s, 夷por qu姻 jugó las pel胤culas para[n]nosotros en primer lugar?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Quer胤a que los vigil茨ramos.[f 2 7 1 20 0 32][e]
@@ -26,17 +26,17 @@
 [f 0 5 65278][f 2 1]No lo s姻.[f 2 7 1 20 6 32][e]
 
 [msg MSG_007 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8078][f 6 1 2 0 0 4]Entonces, esa invitaci吋n que Hikari-san[n]ten胤a... 夷Fue enviado por Doe tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8078][f 6 1 2 0 0 4]Entonces, esa invitación que Hikari-san[n]ten胤a... 夷Fue enviado por Doe tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 8067]No puedo evitar estar de acuerdo con esa[n]evaluaci吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y, sospecho que la invitaci吋n que Hikari-san[n]ten胤a no estaba haciendo Doe.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 8067]No puedo evitar estar de acuerdo con esa[n]evaluación.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y, sospecho que la invitación que Hikari-san[n]ten胤a no estaba haciendo Doe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 6][f 3 1 1 0 0 28072][f 6 1 2 0 0 3]Es un buen punto. Es frustrante, pero nuestras[n]conjeturas carecen de hechos[n]decisivos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Hablando de lo que no sabemos, tambi姻n hay[n]esa invitaci吋n que Hikari-san ten胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Hablando de lo que no sabemos, tambi姻n hay[n]esa invitación que Hikari-san ten胤a...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Era Doe tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akechi]]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 1][f 3 1 1 0 0 0]Para hacerlo, tenemos que seguir adelante,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 0]Sheesh, siempre est茨s tan... bueno, en[n]realidad, tienes raz吋n por una vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 0]Sheesh, siempre est茨s tan... bueno, en[n]realidad, tienes razón por una vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 22 2 0 1][f 3 1 1 0 0 0]Bueno, no importa lo que no podamos dejar a[n]Hikari solo con Doe as胤![n][f 1 3 65535][f 1 1][e]

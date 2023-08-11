@@ -9,8 +9,8 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26018][f 6 1 2 0 0 4]夷"Un mundo perfecto"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [La Voz Del Hombre Misterioso]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36015]La raz吋n por la que tal mundo puede ser[n]realidad es porque todos son iguales.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Piensa en lo infructuoso que es contrastar[n]o destacar. Ser como los dem茨s - ser[n]normal- es 吋ptimo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36015]La razón por la que tal mundo puede ser[n]realidad es porque todos son iguales.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Piensa en lo infructuoso que es contrastar[n]o destacar. Ser como los dem茨s - ser[n]normal- es óptimo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]Basado en el contenido de este discurso, el[n]orador es probable que los robots[n]Overseer.[n][f 1 3 65535][f 1 1][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4117]夷Eso es lo que fue? No pude decirlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11095][f 6 1 2 0 0 9]No me extra�a que tenga la cara de[n]Ikutsuki-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11095][f 6 1 2 0 0 9]No me extraña que tenga la cara de[n]Ikutsuki-san.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Eso fue muy malo.[f 2 7 1 20 6 32][e]
@@ -74,8 +74,8 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 3][f 3 1 1 0 0 4019]夷Eh? Volvieron al trabajo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 6][f 3 1 1 0 0 26016]Es s吋lo mi sospecha, pero creo que todos[n]tienen la misma IA cargada sobre ellos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Est茨n programados para centrarse s吋lo en el[n]trabajo, y para todos tienen las mismas[n]reacciones...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 6][f 3 1 1 0 0 26016]Es sólo mi sospecha, pero creo que todos[n]tienen la misma IA cargada sobre ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Est茨n programados para centrarse sólo en el[n]trabajo, y para todos tienen las mismas[n]reacciones...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 3][f 3 1 1 0 0 24013]Ya veo. Es como el anuncio y el trailer[n]dijo...[n][f 1 3 65535][f 1 1][e]
@@ -88,25 +88,25 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No es asfixiante vivir todos los d胤as as胤?[n]夷No les importa el problema porque son[n]robots?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]No, creo que nuestro compa�ero Aigis tiene[n]su propio libre albedr胤o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]No, creo que nuestro compañero Aigis tiene[n]su propio libre albedr胤o.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 6][f 3 1 1 0 0 12013]Es raro encontrar un robot con tanta personalidad[n]como ella, pero sigue siendo un[n]buen ejemplo de eso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 6][f 3 1 1 0 0 0]No creo que alguien tenga que comportarse[n]siempre de cierta manera, sea una persona[n]o un robot.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 1][f 3 1 1 0 0 26062][f 6 1 2 0 0 1]Ooh! 斡Ahora mi curiosidad por ver de qu姻 tipo[n]de rob吋tica de la que esta dama est茨[n]hecha ha sido al m茨ximo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 1][f 3 1 1 0 0 26062][f 6 1 2 0 0 1]Ooh! 斡Ahora mi curiosidad por ver de qu姻 tipo[n]de robótica de la que esta dama est茨[n]hecha ha sido al m茨ximo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 10 0 0][f 3 1 1 0 0 11065][f 6 1 2 0 0 10]No intentes separarla, 夷vale?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 8 0 4][f 3 1 1 0 0 8010][f 6 1 2 0 0 4]U-Um... 夷C吋mo crees que responder胤a si le[n]preguntara si podr胤a comprobar sus partes[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 8 0 4][f 3 1 1 0 0 8010][f 6 1 2 0 0 4]U-Um... 夷Cómo crees que responder胤a si le[n]preguntara si podr胤a comprobar sus partes[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 8 1 0][f 3 1 1 0 0 26042][f 6 1 2 0 0 6]夷Qu姻 es esto? Estoy viendo otra mecha-nut[n]aqu胤 tambi姻n. Mweheheh... 斡Puedo entender[n]tus deseos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 13033]Mientras est姻 bien, no veo problemas... Sin[n]embargo, necesitamos priorizar la reuni吋n[n]con ella y nuestro l胤der primero.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 13033]Mientras est姻 bien, no veo problemas... Sin[n]embargo, necesitamos priorizar la reunión[n]con ella y nuestro l胤der primero.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Vamos, ap雨rate.[n][f 1 3 65535][f 1 1][e]
 

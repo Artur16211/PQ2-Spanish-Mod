@@ -37,11 +37,11 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Pero si un hombre le da un anillo a una[n]mujer... Eso es casi como decir...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 3][f 4 6 71 6 1 4][f 3 1 1 0 0 27130]Espera un minuto. Tenemos que escuchar la[n]respuesta de [f 6 1 27 0 0]-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 3][f 4 6 71 6 1 4][f 3 1 1 0 0 27130]Wait a minute. We have to hear[n][f 6 1 27 0 0 0]-chan's response.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 27050]夷Cu茨l es tu respuesta? 夷Vas a decir que s胤,[n]o...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 56026][f 6 1 2 0 0 10]Me disculpo. S吋lo ten胤a esos materiales con[n]los que trabajar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 56026][f 6 1 2 0 0 10]Me disculpo. Sólo ten胤a esos materiales con[n]los que trabajar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Material?[n][f 1 3 65535][f 1 1][e]
@@ -54,10 +54,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19056][f 6 1 2 0 0 0]Wha�!? It's from you guys?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 0 1 0][f 3 1 1 0 0 0]Lo pusieron a mi atenci吋n de antemano y me[n]preguntaron si har胤a algo de lo que[n]quedaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 0 1 0][f 3 1 1 0 0 0]Lo pusieron a mi atención de antemano y me[n]preguntaron si har胤a algo de lo que[n]quedaba.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 14 1 0 4][f 4 6 10 6 0 1][f 3 1 1 0 0 10068]Son s吋lo piezas de los materiales que[n]encontramos, as胤 que no es mucho, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 14 1 0 4][f 4 6 10 6 0 1][f 3 1 1 0 0 10068]Son sólo piezas de los materiales que[n]encontramos, as胤 que no es mucho, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 14029]Eran tan bonitas, pensamos que los convertir胤amos[n]en un accesorio.[n][f 1 3 65535][f 1 1][e]
@@ -80,7 +80,7 @@
 
 [msg MSG_022 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 14010]Es verdad que no te conoc胤amos antes de que[n]nos trajeran aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 0]Pero disfrutamos de estar contigo, [f 6 1 27 0 0][n], y queremos conocerte mejor.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 0]But we enjoy being with you,[n][f 6 1 27 0 0 0], and we want[n]to get to know you better.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 4][f 3 1 1 0 0 11029]Esper茨bamos que este anillo nos ayudara a[n]mostrar eso.[n][f 1 3 65535][f 1 1][e]
@@ -106,8 +106,8 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 1 0 4][f 4 6 69 2 0 1][f 3 1 1 0 0 25032][f 6 1 26 0 0 0]- san se ve feliz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 2 0 4][f 3 1 1 0 0 0]S胤. Ciertamente no fue nuestra intenci吋n[n]hacerla sentir sola.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque, a juzgar por su expresi吋n, parece[n]que ya no tendremos que preocuparnos por[n]eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 2 0 4][f 3 1 1 0 0 0]S胤. Ciertamente no fue nuestra intención[n]hacerla sentir sola.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque, a juzgar por su expresión, parece[n]que ya no tendremos que preocuparnos por[n]eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 4][f 4 6 74 2 100 1][f 3 1 1 0 0 54143]Hiciste una buena obra, Theo.[n][f 1 3 65535][f 1 1][e]
@@ -118,5 +118,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El resto lo hicieron solos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Supongo que tienes raz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Supongo que tienes razón.[n][f 1 3 65535][f 1 1][e]
 

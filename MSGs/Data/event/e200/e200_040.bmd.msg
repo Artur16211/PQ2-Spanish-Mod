@@ -9,7 +9,7 @@
 
 [msg MSG_003 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]夷Ser胤a posible mover esto? La base parece[n]que est茨 construida para ser rotada. Pero,[n]lo m茨s importante...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La historia mencion� c吋mo los humanos han[n]abandonado este lugar durante mucho tiempo,[n]y parece que no se ha utilizado[n]recientemente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La historia mencionó cómo los humanos han[n]abandonado este lugar durante mucho tiempo,[n]y parece que no se ha utilizado[n]recientemente...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 1 1][f 3 1 1 0 0 22057][f 6 1 2 0 0 9]Entonces, 夷est茨s diciendo... adelante,[n]habr茨...[n][f 1 3 65535][f 1 1][e]

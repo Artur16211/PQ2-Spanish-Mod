@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Esta es una sociedad perfecta: la justicia[n]gobierna, y debe ser obedecida por[n]todos...[n][f 1 2 150][f 1 1][e]
 
 [msg MSG_005]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Sin embargo, una mala voz descontenta por[n]nuestra salvaci吋n brillante![n][f 1 2 150][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Sin embargo, una mala voz descontenta por[n]nuestra salvación brillante![n][f 1 2 150][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Qu姻 ingrato![n][f 1 2 60][f 1 1][e]

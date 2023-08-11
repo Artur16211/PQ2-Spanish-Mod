@@ -110,10 +110,10 @@
 [f 0 5 65278][f 2 1]Low chance of Confusion[n][e]
 
 [msg addeffect_037]
-[f 0 5 65278][f 2 1]Posibilidad media de Confusi吋n[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Confusión[n][e]
 
 [msg addeffect_038]
-[f 0 5 65278][f 2 1]Alta probabilidad de Confusi吋n[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de Confusión[n][e]
 
 [msg addeffect_039]
 [f 0 5 65278][f 2 1]Low chance of Poison[n][e]
@@ -203,16 +203,16 @@
 [f 0 5 65278][f 2 1]Todas las estad胤sticas +5[n][e]
 
 [msg addeffect_068]
-[f 0 5 65278][f 2 1]El poder de ataque de fuego aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de fuego aumentó un 25%[n][e]
 
 [msg addeffect_069]
-[f 0 5 65278][f 2 1]El poder de ataque de hielo aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de hielo aumentó un 25%[n][e]
 
 [msg addeffect_070]
-[f 0 5 65278][f 2 1]El poder de ataque de Elec aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de Elec aumentó un 25%[n][e]
 
 [msg addeffect_071]
-[f 0 5 65278][f 2 1]Energ胤a de ataque de viento aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]Energ胤a de ataque de viento aumentó un 25%[n][e]
 
 [msg addeffect_072]
 [f 0 5 65278][f 2 1]Chance to reflect Phys[n][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1]Chance to reflect Phys++[n][e]
 
 [msg addeffect_075]
-[f 0 5 65278][f 2 1]Resistencia contra Confusi吋n[n][e]
+[f 0 5 65278][f 2 1]Resistencia contra Confusión[n][e]
 
 [msg addeffect_076]
 [f 0 5 65278][f 2 1]Resistencia contra el veneno[n][e]
@@ -284,67 +284,67 @@
 [f 0 5 65278][f 2 1]Chance of inflicting all ailments+[n][e]
 
 [msg addeffect_095]
-[f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daño f胤sico reducido en 10%[n][e]
 
 [msg addeffect_096]
-[f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daño f胤sico reducido en 20%[n][e]
 
 [msg addeffect_097]
-[f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daño f胤sico reducido en 30%[n][e]
 
 [msg addeffect_098]
-[f 0 5 65278][f 2 1]Da隠o al fuego reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daño al fuego reducido en 10%[n][e]
 
 [msg addeffect_099]
-[f 0 5 65278][f 2 1]Da隠o al fuego reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daño al fuego reducido en 20%[n][e]
 
 [msg addeffect_100]
-[f 0 5 65278][f 2 1]Da隠o al fuego reducido en un 30%[n][e]
+[f 0 5 65278][f 2 1]Daño al fuego reducido en un 30%[n][e]
 
 [msg addeffect_101]
-[f 0 5 65278][f 2 1]Da隠o al hielo reducido en un 10%[n][e]
+[f 0 5 65278][f 2 1]Daño al hielo reducido en un 10%[n][e]
 
 [msg addeffect_102]
-[f 0 5 65278][f 2 1]Da隠o por hielo reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daño por hielo reducido en 20%[n][e]
 
 [msg addeffect_103]
-[f 0 5 65278][f 2 1]Da隠o por hielo reducido en un 30%[n][e]
+[f 0 5 65278][f 2 1]Daño por hielo reducido en un 30%[n][e]
 
 [msg addeffect_104]
-[f 0 5 65278][f 2 1]Da隠o al viento reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daño al viento reducido en 10%[n][e]
 
 [msg addeffect_105]
-[f 0 5 65278][f 2 1]Da隠o al viento reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daño al viento reducido en 20%[n][e]
 
 [msg addeffect_106]
-[f 0 5 65278][f 2 1]Da隠o al viento reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daño al viento reducido en 30%[n][e]
 
 [msg addeffect_107]
-[f 0 5 65278][f 2 1]Da隠o de Elec reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daño de Elec reducido en 10%[n][e]
 
 [msg addeffect_108]
-[f 0 5 65278][f 2 1]Da隠o de Elec reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daño de Elec reducido en 20%[n][e]
 
 [msg addeffect_109]
-[f 0 5 65278][f 2 1]Da隠o de Elec reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daño de Elec reducido en 30%[n][e]
 
 [msg addeffect_110]
-[f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Daño m茨gico reducido en 10%[n][e]
 
 [msg addeffect_111]
-[f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Daño m茨gico reducido en 20%[n][e]
 
 [msg addeffect_112]
-[f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Daño m茨gico reducido en 30%[n][e]
 
 [msg addeffect_113]
 [f 0 5 65278][f 2 1]Reducir la posibilidad de tropezar[n][e]
 
 [msg addeffect_114]
-[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de tropezar[n][e]
+[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de[n]tropezar[n][e]
 
 [msg addeffect_115]
-[f 0 5 65278][f 2 1]Gran reducci吋n de la posibilidad de tropiezo[n][e]
+[f 0 5 65278][f 2 1]Gran reducción de la posibilidad de tropiezo[n][e]
 
 [msg addeffect_116]
 [f 0 5 65278][f 2 1]Phys dodge up+[n][e]
@@ -377,7 +377,7 @@
 [f 0 5 65278][f 2 1]Dodge de viento arriba +[n][e]
 
 [msg addeffect_126]
-[f 0 5 65278][f 2 1]Viento d吋dge hacia arriba[n][e]
+[f 0 5 65278][f 2 1]Viento dódge hacia arriba[n][e]
 
 [msg addeffect_127]
 [f 0 5 65278][f 2 1]Dodge de viento arriba ++[n][e]
@@ -578,14 +578,14 @@
 [f 0 5 65278][f 2 1]Elec ataca[n][e]
 
 [msg addeffect_193]
-[f 0 5 65278][f 2 1]Da隠o al fuego[n][e]
+[f 0 5 65278][f 2 1]Daño al fuego[n][e]
 
 [msg addeffect_194]
-[f 0 5 65278][f 2 1]Da隠o por hielo[n][e]
+[f 0 5 65278][f 2 1]Daño por hielo[n][e]
 
 [msg addeffect_195]
-[f 0 5 65278][f 2 1]Da隠o al viento[n][e]
+[f 0 5 65278][f 2 1]Daño al viento[n][e]
 
 [msg addeffect_196]
-[f 0 5 65278][f 2 1]Elec da隠吋[n][e]
+[f 0 5 65278][f 2 1]Elec dañó[n][e]
 

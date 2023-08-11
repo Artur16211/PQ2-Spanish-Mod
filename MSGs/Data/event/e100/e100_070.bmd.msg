@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 1][f 3 1 1 0 0 9]"Tambi姻n"... 夷Quiere decir que les ha pasado[n]lo mismo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Nagi]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 84 14 2 0][f 3 1 1 0 0 10]S胤... Todo parece incre胤ble, pero sucedi� en[n]un abrir y cerrar de ojos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 84 14 2 0][f 3 1 1 0 0 10]S胤... Todo parece incre胤ble, pero sucedió en[n]un abrir y cerrar de ojos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Cuando llegu姻, todos los clientes hab胤an[n]desaparecido y la entrada estaba cerrada...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 84 4 2 0][f 3 1 1 0 0 12]Comenc姻 r茨pidamente a buscar en el Cine,[n]luego encontr姻 a... Hikari-san.[n][f 1 3 65535][f 1 1][e]
 
@@ -64,7 +64,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 25]夷Las has visto? Hemos buscado por todas[n]partes, 斡pero no podemos encontrarlos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Nagi]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 84 12 0 0][f 3 1 1 0 0 26]夷C吋mo son tus amigas? 夷Podr胤a darnos[n]descripciones, o quiz茨s incluso fotos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 84 12 0 0][f 3 1 1 0 0 26]夷Cómo son tus amigas? 夷Podr胤a darnos[n]descripciones, o quiz茨s incluso fotos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 1 0][f 3 1 1 0 0 27]Bueno, una es toda... puntiaguda, y la otra[n]tiene un hacha?[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 0 0 0][f 3 1 1 0 0 39][f 6 1 2 0 0 4]夷Qu姻 pasa con los susurros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 40]夷Podr胤a decirnos ella misma, verdad, [f 6 1 30 0 0][n]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 40]She could just tell us herself―right,[n][f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_034 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Te tiene miedo, Ryuji.[f 2 7 1 64 0 32][e]
@@ -124,20 +124,20 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 23 4 0 0][f 3 1 1 0 0 43]斡No me llames raro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 44]No se puede evitar. Despu姻s de todo, tenemos[n]a alguien con nosotros que parece un[n]vulgar mat吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 44]No se puede evitar. Despu姻s de todo, tenemos[n]a alguien con nosotros que parece un[n]vulgar matón.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 65 4 0 0][f 3 1 1 0 0 45]夷A qui姻n llamas un mat吋n? 斡Un gato hablando[n]es m茨s raro que yo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 65 4 0 0][f 3 1 1 0 0 45]夷A qui姻n llamas un matón? 斡Un gato hablando[n]es m茨s raro que yo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Morgana]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 23 4 0 0][f 3 1 1 0 0 46]斡No me llames raro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 1][f 3 1 1 0 0 47]De acuerdo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 48]Tenemos un mat吋n rubio y un gato monstruo[n]hablando con nosotros... Su defensividad[n]es natural.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 48]Tenemos un matón rubio y un gato monstruo[n]hablando con nosotros... Su defensividad[n]es natural.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 65 4 0 0][f 3 1 1 0 0 49]斡No soy un mat吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 65 4 0 0][f 3 1 1 0 0 49]斡No soy un matón![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 2][f 4 6 23 4 0 6][f 3 1 1 0 0 50]斡No me llames gato monstruo![n][f 1 3 65535][f 1 1][e]
@@ -165,7 +165,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 68 6 0 1][f 3 1 1 0 0 58]La parte "en la pel胤cula" es lo que no tiene[n]sentido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 59]Dejemos todo eso para despu姻s. Entonces, 夷qu姻[n]pas� exactamente con esas dos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 59]Dejemos todo eso para despu姻s. Entonces, 夷qu姻[n]pasó exactamente con esas dos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Nagi]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 60]Han sido capturados por un personaje llamado[n]"Kamoshidaman"[n][f 1 3 65535][f 1 1][e]

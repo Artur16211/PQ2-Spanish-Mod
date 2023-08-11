@@ -34,7 +34,7 @@
 
 [msg MSG_010 [Calma La Voz Del Hombre]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15][f 6 1 9 0 0 1]Para m胤, no eres normal... Eres especial.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 9 0 0 1]Eres un encanto, un alma sensible, y un poco[n]de preocupaci吋n, adem茨s, tu sonrisa me[n]recuerda a tu madre...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 9 0 0 1]Eres un encanto, un alma sensible, y un poco[n]de preocupación, adem茨s, tu sonrisa me[n]recuerda a tu madre...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 9 0 0 1]Hikari, est茨 totalmente bien ser quien eres.[n]No deber胤as pensar que est茨 mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chica Inocente]]
@@ -46,7 +46,7 @@
 
 [msg MSG_013 [Chica Inocente]]
 [f 0 5 65278][f 2 1][f 4 6 37 18 5 9][f 3 1 1 0 0 21]Cielos..[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 4]Pap茨... 夷Recuerdas c吋mo te dije que quiero[n]hacer pel胤culas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 4]Pap茨... 夷Recuerdas cómo te dije que quiero[n]hacer pel胤culas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Calma La Voz Del Hombre]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 9 0 0 1]Claro que s胤.[n][f 1 3 65535][f 1 1][e]
@@ -55,12 +55,12 @@
 [f 0 5 65278][f 2 1][f 4 6 37 12 4 9][f 3 1 1 0 0 24]Si lo que me dijiste es verdad... Si eres el[n]l胤der en tu propia vida...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25]Entonces realmente quiero convertirme en[n]director de cine. Quiero grabar toda clase[n]de vidas de la gente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26]Cada persona tiene su propia historia que[n]contar. Todos viven y piensan de diferentes[n]maneras...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Ya sea ficci吋n o no ficci吋n, quiero filmar[n]esas historias diferentes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Ya sea ficción o no ficción, quiero filmar[n]esas historias diferentes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 37 8 5 9][f 3 1 1 0 0 28]Y si la gente que mira esas pel胤culas lo pasa[n]bien o se siente feliz viendolas,[n]entonces eso me har胤a feliz.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Eso es lo que hicieron las pel胤culas para[n]m胤... Como me mostraste, pap茨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Calma La Voz Del Hombre]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 30][f 6 1 9 0 0 1]Es un sue�o maravilloso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 30][f 6 1 9 0 0 1]Es un sueño maravilloso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Chica Inocente]]
 [f 0 5 65278][f 2 1][f 4 6 37 18 5 9][f 3 1 1 0 0 31]斡S胤, y me asegurar姻 de que sea verdad![n][f 1 3 65535][f 1 1][e]

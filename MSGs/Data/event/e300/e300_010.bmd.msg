@@ -2,10 +2,10 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]En un mundo no diferente a nuestro...[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_000_1]
-[f 0 5 65278][f 2 1][f 0 6 255 255]La humanidad particip� en conflictos despu姻s[n]del conflicto hasta que toda la especie[n]se extinguiera.[n][f 1 2 260][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]La humanidad participó en conflictos despu姻s[n]del conflicto hasta que toda la especie[n]se extinguiera.[n][f 1 2 260][f 1 1][e]
 
 [msg MSG_001]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Cuando el polvo se estableci�, el planeta[n]eventualmente se convirti� en una utop胤a[n]pac胤fica...[n][f 1 2 250][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Cuando el polvo se estableció, el planeta[n]eventualmente se convirtió en una utop胤a[n]pac胤fica...[n][f 1 2 250][f 1 1][e]
 
 [msg MSG_001_1]
 [f 0 5 65278][f 2 1][f 0 6 255 255]...poblada 雨nicamente por robots bajo el[n]mando de una AI todopoderosa.[n][f 1 2 140][f 1 1][e]
@@ -14,10 +14,10 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Esto es incre胤ble![n][f 1 2 45][f 1 1][e]
 
 [msg MSG_003]
-[f 0 5 65278][f 2 1][f 0 6 255 255]As胤 que tenemos una pel胤cula de ciencia[n]ficci吋n esta vez...[n][f 1 2 90][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]As胤 que tenemos una pel胤cula de ciencia[n]ficción esta vez...[n][f 1 2 90][f 1 1][e]
 
 [msg MSG_004]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Una sociedad 吋ptima requiere uniformidad.[n][f 1 2 100][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Una sociedad óptima requiere uniformidad.[n][f 1 2 100][f 1 1][e]
 
 [msg MSG_004_1]
 [f 0 5 65278][f 2 1][f 0 6 255 255]El desaf胤o de la uniformidad no es m茨s que[n]un mal funcionamiento. La individualidad[n]es irregularidad.[n][f 1 2 180][f 1 1][e]

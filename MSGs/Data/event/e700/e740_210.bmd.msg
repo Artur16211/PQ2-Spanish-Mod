@@ -26,6 +26,6 @@
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12032][f 6 1 2 0 0 6]Tiene el cuerpo de un peso pesado, pero la[n]agilidad de un peso pluma... 斡Qu姻[n]impresionante oponente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 13002]No importa lo r茨pido que sea, [f 0 1 2] debe tener alg雨n tipo de patr吋n como los otros FOEs[f 0 1 0][n][n]que hemos encontrado[n]hasta ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 13002]No importa lo r茨pido que sea, [f 0 1 2] debe tener alg雨n tipo de patrón como los otros FOEs[f 0 1 0][n][n]que hemos encontrado[n]hasta ahora.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si rastreamos cuidadosamente su movimiento,[n]no deber胤a plantearnos una amenaza...[n]Buena suerte, Joker.[n][f 1 3 65535][f 1 1][e]
 

@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 4][f 3 1 1 0 0 0]De hecho, ser茨 m茨s f茨cil ver esa manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Vamos, sabemos ad吋nde ir. Busquemos un camino[n]que lleva a esas escaleras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Vamos, sabemos adónde ir. Busquemos un camino[n]que lleva a esas escaleras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28033]夷Deber胤a haber pensado en mis asuntos? Lo[n]siento.[n][f 1 3 65535][f 1 1][e]
@@ -42,5 +42,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo siento. Lo borrar姻 cuando lleguemos a[n]nuestro destino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 4][f 3 1 1 0 0 0]... En cualquier caso, hemos determinado[n]nuestro pr吋ximo destino. Busquemos primero[n]un camino que conduce a esas escaleras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 4][f 3 1 1 0 0 0]... En cualquier caso, hemos determinado[n]nuestro próximo destino. Busquemos primero[n]un camino que conduce a esas escaleras.[n][f 1 3 65535][f 1 1][e]
 

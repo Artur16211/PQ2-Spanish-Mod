@@ -9,7 +9,7 @@
 
 [msg MSG_003 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28110]Espera... Todas estas FOEs est茨n aqu胤 por[n]seguridad.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 0]No quieren que nadie se acerque... Lo que[n]s吋lo puede significar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 0]No quieren que nadie se acerque... Lo que[n]sólo puede significar...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Son guardias.[f 2 7 1 20 2 32][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Aqu胤 vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10092][f 6 1 2 0 0 3]Qu姻 mont吋n de ni�os... 夷Por qu姻 no pueden[n]estar siempre tan motivados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10092][f 6 1 2 0 0 3]Qu姻 montón de niños... 夷Por qu姻 no pueden[n]estar siempre tan motivados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 3][f 3 1 1 0 0 0]Usando FOEs para seguridad... Definitivamente[n]no es normal.[n][f 1 3 65535][f 1 1][e]

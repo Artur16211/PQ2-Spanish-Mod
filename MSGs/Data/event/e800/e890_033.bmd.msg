@@ -7,7 +7,7 @@
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 0]S胤. Naturalmente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo puedo agradecer el destino por reunirnos.[n]Con gratitud, har姻 de esto un combate[n]feroz.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sólo puedo agradecer el destino por reunirnos.[n]Con gratitud, har姻 de esto un combate[n]feroz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 16 3 3][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19120][f 6 1 2 0 0 10]What an immense presence...[n]I've never seen her like this...![n][f 1 3 65535][f 1 1][e]
@@ -30,10 +30,10 @@
 [f 0 5 65278][f 2 1][f 4 6 74 2 0 0][f 3 1 1 0 0 54031]No puedo pedir nada m茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 0 0][f 3 1 1 0 0 54031]*chuckle* Desafortunadamente, me falta el[n]talento para tal moderaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 0 0][f 3 1 1 0 0 54031]*chuckle* Desafortunadamente, me falta el[n]talento para tal moderación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 10 1 0][f 3 1 1 0 0 54140]Verdaderamente, no puedo recordar sentir tal[n]elaci吋n... no desde que empec姻 a servir[n]a mi amo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 10 1 0][f 3 1 1 0 0 54140]Verdaderamente, no puedo recordar sentir tal[n]elación... no desde que empec姻 a servir[n]a mi amo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De alguna manera, ustedes portadores de[n]potencial han desafiado el tiempo y el espacio,[n]y ahora est茨n hombro a hombro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Elizabeth]]

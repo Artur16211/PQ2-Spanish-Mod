@@ -24,10 +24,10 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 0]Probablemente es porque est茨s lleno.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]De hecho. Lleno de inspiraci吋n! 斡Qu姻 sensaci吋n[n]estimulante![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]De hecho. Lleno de inspiración! 斡Qu姻 sensación[n]estimulante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12031]Sabes lo que dicen: no puedes luchar con el[n]est吋mago vac胤o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12031]Sabes lo que dicen: no puedes luchar con el[n]estómago vac胤o.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La 雨nica manera de asumir a los oponentes[n]realmente duros es con entrenamiento y una[n]dieta adecuada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Shinjiro]]
@@ -37,10 +37,10 @@
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 12030]Darnos prote胤nas es como dar alas a un tigre.[n]Es una coincidencia hecha en el cielo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 7 1 0][f 3 1 1 0 0 18036][f 6 1 2 0 0 6]Peque�o... 夷Qu姻 acabo de decir?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 7 1 0][f 3 1 1 0 0 18036][f 6 1 2 0 0 6]Pequeño... 夷Qu姻 acabo de decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Tiene raz吋n. Esa comida era perfecci吋n[n]absoluta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Tiene razón. Esa comida era perfección[n]absoluta![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]Tal vez pueda canalizar este sentimiento en[n]mi rutina de combate.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akihiko]]

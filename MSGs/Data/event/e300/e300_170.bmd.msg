@@ -6,7 +6,7 @@
 
 [msg MSG_002 [Overseer]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]Unidad de mal funcionamiento Uiy-2249 ha[n]eludido el procedimiento de formato est茨ndar[n]y est茨 evadiendo la captura...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Desc雨brelo inmediatamente despu姻s del[n]descubrimiento. 斡El mismo destino espera a[n]cualquier unidad que no comparta nuestra[n]exenci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Desc雨brelo inmediatamente despu姻s del[n]descubrimiento. 斡El mismo destino espera a[n]cualquier unidad que no comparta nuestra[n]exención![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 3][f 3 1 1 0 0 3010][f 6 1 2 0 0 9]Este tipo sigue cayendo los chistes m茨s tontos[n]en sus discursos...[n][f 1 3 65535][f 1 1][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]NINGUNO DE LOS DOS UNITS PUEDE SER ADMITIDO[n]EL MISMO N郁MERO DE IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]Identificaci吋n num姻rica, 夷eh? Eso ciertamente[n]ayudar胤a a oprimir la individualidad[n]dentro de una sociedad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]Identificación num姻rica, 夷eh? Eso ciertamente[n]ayudar胤a a oprimir la individualidad[n]dentro de una sociedad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 4012][f 6 1 2 0 0 4]夷Eso significa que no tienes un nombre aparte[n]del UIY-thingy?[n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]NO LO HAGO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 0 6][f 3 1 1 0 0 0]夷Por qu姻 no le damos un nombre? Llamarle un[n]n雨mero de identificaci吋n parece algo rudo[n]y aburrido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 0 6][f 3 1 1 0 0 0]夷Por qu姻 no le damos un nombre? Llamarle un[n]n雨mero de identificación parece algo rudo[n]y aburrido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 27 12 0 1][f 3 1 1 0 0 27067][f 6 1 2 0 0 4]斡S胤, gran idea! 夷Tiene alguna sugerencia,[n]Joker?[n][f 1 3 65535][f 1 1][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35001][f 6 1 2 0 0 4]YO SOY... 夷RIBBON?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26030]斡S胤, Ribbon! Ese nombre es m茨s alto que un[n]c吋digo cojo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26030]斡S胤, Ribbon! Ese nombre es m茨s alto que un[n]código cojo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35025]S緯. MUCHAS GRACIAS.[n][f 1 3 65535][f 1 1][e]

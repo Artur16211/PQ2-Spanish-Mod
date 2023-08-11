@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Se siente muy raro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 16 1 0][f 3 1 1 0 0 7][f 6 1 2 0 0 4]夷Est茨s bien? 夷Nada malo pas�? 夷S吋lo hace[n]"boing-boing" cuando lo tocas[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 16 1 0][f 3 1 1 0 0 7][f 6 1 2 0 0 4]夷Est茨s bien? 夷Nada malo pasó? 夷Sólo hace[n]"boing-boing" cuando lo tocas[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8]Vale... Alguien intenta hablar con 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
@@ -35,10 +35,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 14 1 0][f 3 1 1 0 0 11]No hay respuesta. Es s吋lo un objeto aburrido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 14 1 0][f 3 1 1 0 0 11]No hay respuesta. Es sólo un objeto aburrido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]Bueno, en ese caso... 夷d吋nde est茨n sus o胤dos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]Bueno, en ese caso... 夷dónde est茨n sus o胤dos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ann]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 3]Si hablamos alto, 夷no escuchar茨 lo que estamos[n]diciendo?[n][f 1 3 65535][f 1 1][e]
@@ -65,10 +65,10 @@
 
 [msg MSG_022 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 22]No habla, ni se mueve, ni reacciona a nosotros[n]en absoluto...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 4]夷Quiz茨s esto sea alg雨n tipo de mu�eca?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 4]夷Quiz茨s esto sea alg雨n tipo de muñeca?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 0 6][f 3 1 1 0 0 24][f 6 1 2 0 0 9]Vale... Es s吋lo una mu�eca, 夷eh? Aunque es[n]demasiado grande. Al menos hazlo escala[n]1l7.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 0 6][f 3 1 1 0 0 24][f 6 1 2 0 0 9]Vale... Es sólo una muñeca, 夷eh? Aunque es[n]demasiado grande. Al menos hazlo escala[n]1l7.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 25]Bueno, ellas no est茨n aqu胤, as胤 que sigamos[n]buscando.[n][f 1 3 65535][f 1 1][e]

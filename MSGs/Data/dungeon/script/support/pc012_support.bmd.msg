@@ -11,13 +11,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18303]Hay un FOE justo por nosotros...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18304]Bueno, parece que un FOE apareci�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18304]Bueno, parece que un FOE apareció.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18305]Un FOE... Ten cuidado de no ser visto.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18306]Parece que finalmente se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18306]Parece que finalmente se rindió.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18307]Parece que fue al rev姻s.[n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18309]Parece que todav胤a nos sigue.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18310]Ten胤a la sensaci吋n de que no nos dejaba ir[n]tan f茨cilmente...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18310]Ten胤a la sensación de que no nos dejaba ir[n]tan f茨cilmente...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18311]Parece que esto a雨n no ha terminado.[n][f 1 6 65535][e]
@@ -182,7 +182,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18321]No est茨 mal.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18322]Algunos movimientos s吋lidos all胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18322]Algunos movimientos sólidos all胤.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_1PERSON_HP80_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18323]Esperemos que el siguiente tambi姻n vaya as胤.[n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18344]Creo que es cierto.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_ICON_KAI_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18345]Dir胤a que saber d吋nde est茨 nuestra entrada[n]es bastante importante.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18345]Dir胤a que saber dónde est茨 nuestra entrada[n]es bastante importante.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_CHANGE_C]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18346]You changed colors, huh? No est茨 mal.[n][f 1 6 65535][e]

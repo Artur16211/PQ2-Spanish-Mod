@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 6 0 1][f 3 1 1 0 0 24013][f 6 1 2 0 0 3]Si esa monstruosidad iba a ir en una rampa,[n]imagino que podr胤a destruir f茨cilmente[n]los Cines alrededor de ella...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Quiero decir, ya ha destruido un mont吋n de[n]cosas aqu胤. 斡Eso es demasiado fuerte![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Quiero decir, ya ha destruido un montón de[n]cosas aqu胤. 斡Eso es demasiado fuerte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 10 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Bark! 斡Bark![n][f 1 3 65535][f 1 1][e]

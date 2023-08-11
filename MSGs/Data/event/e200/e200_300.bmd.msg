@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Espera! 夷Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Estos son nuestros compa�eros que nos conocimos[n]aqu胤. Son Persona-usuarios, igual[n]que nosotros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Estos son nuestros compañeros que nos conocimos[n]aqu胤. Son Persona-usuarios, igual[n]que nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 0]Nos chuparon en este mundo como t雨.[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 93 1 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 19020]夷No parecen estar reaccionando...[n]extra�amente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 19020]夷No parecen estar reaccionando...[n]extrañamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Herb胤voro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces... 夷Deber胤amos hacer la cosa?[n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 0][f 3 1 1 0 0 0]S胤, supongo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Herb胤voro Testarudo]]
-[f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0]Es hora de someterlo a votaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0]Es hora de someterlo a votación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7034][f 6 1 2 0 0 0]Espera, 夷qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3019][f 6 1 2 0 0 4]夷Qu姻? 夷De qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 6]Hemos terminado con ustedes. S吋lo... ve y[n]haz lo que quieras, pero d姻janos en paz![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 6]Hemos terminado con ustedes. Sólo... ve y[n]haz lo que quieras, pero d姻janos en paz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 1 3][f 3 1 1 0 0 0]Y ah胤 van...[n][f 1 3 65535][f 1 1][e]
@@ -136,7 +136,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5072]S胤, Yosuke-kun tambi姻n parece agotado. Podr胤a[n]ser mejor si lo hablamos en un lugar[n]m茨s seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 8 1 0][f 3 1 1 0 0 3092]S胤... Tienes raz吋n. Adelante, ponlo sobre[n]m胤... Estoy escuchando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 8 1 0][f 3 1 1 0 0 3092]S胤... Tienes razón. Adelante, ponlo sobre[n]m胤... Estoy escuchando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Bueno, es una larga historia... podr胤a ser[n]mejor que hablemos de ello en un lugar[n]m茨s seguro.[n][f 1 3 65535][f 1 1][e]

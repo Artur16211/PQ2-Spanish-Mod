@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 722][f 6 1 3 0 0 3]Ahora, levanten sus armas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Justine]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 723][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷Caroline? 夷Tu evaluaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 723][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷Caroline? 夷Tu evaluación?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Caroline]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 724][f 6 1 2 0 0 6][f 6 1 3 0 0 1]No es suficiente. 斡Hola, Recluso! 斡Sigue si[n]puedes![n][f 1 3 65535][f 1 1][e]

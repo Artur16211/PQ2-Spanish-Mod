@@ -1,15 +1,15 @@
 [msg MSG_000 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 25036]夷Ad吋nde vas? Tenemos que ir a buscar algo de[n]carne del congelador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 25036]夷Adónde vas? Tenemos que ir a buscar algo de[n]carne del congelador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 0 3][f 3 1 1 0 0 0]S胤, ser茨 mejor que vayamos all胤. 斡Ser胤a[n]horrible si alguien lo hubiera girado antes[n]de que pudi姻ramos![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, es la ley de la selva aqu胤[n]fuera - 斡Primero ven, primero sirve! En[n]el momento en que volteamos la espalda,[n]斡es un adi吋s, carne![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, es la ley de la selva aqu胤[n]fuera - 斡Primero ven, primero sirve! En[n]el momento en que volteamos la espalda,[n]斡es un adiós, carne![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]Probablemente eres el 雨nico en toda esta[n]pel胤cula que est茨 obsesionado con la[n]carne...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 7 1 3][f 3 1 1 0 0 24101]夷Cu茨ndo podremos probar esta carne de la que[n]hablamos? Mi est吋mago no dejar茨 de[n]crecer.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 7 1 3][f 3 1 1 0 0 24101]夷Cu茨ndo podremos probar esta carne de la que[n]hablamos? Mi estómago no dejar茨 de[n]crecer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]Supongo que ahora tenemos monstruos de carne[n]TWO...[n][f 1 3 65535][f 1 1][e]

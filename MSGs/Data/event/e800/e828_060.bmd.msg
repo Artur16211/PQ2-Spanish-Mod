@@ -8,21 +8,21 @@
 [f 0 5 65278][f 2 1][f 4 6 19 1 4 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Okay. Go for it, Aigis![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 2 0 3][f 3 1 1 0 0 16043][f 6 1 2 0 0 6]斡S胤! 斡Se movi�![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 2 0 3][f 3 1 1 0 0 16043][f 6 1 2 0 0 6]斡S胤! 斡Se movió![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Robot Roto]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 3][f 3 1 1 0 0 22018][f 6 1 2 0 0 10]夷Eh? 夷Qu姻 pasa? 夷No funcion�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 3][f 3 1 1 0 0 22018][f 6 1 2 0 0 10]夷Eh? 夷Qu姻 pasa? 夷No funcionó?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Robot Roto]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 0]Gggg... ggg...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 1][f 3 1 1 0 0 0]Parece que sus sistemas no est茨n plenamente[n]operativos todav胤a.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Sin embargo, se las arregl� para arrancar.[n]As胤 que sus funciones de comunicaci吋n[n]deben reactivarse pronto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Sin embargo, se las arregló para arrancar.[n]As胤 que sus funciones de comunicación[n]deben reactivarse pronto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19097]Oh, that's a relief...[n][f 1 3 65535][f 1 1][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 16030][f 6 1 2 0 0 7]Eso es lo que dec胤a. 斡Me alegro de que sea[n]feliz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Arf, 斡斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Robot Roto]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 0]Ggg... gg...[n][f 1 3 65535][f 1 1][e]
@@ -59,11 +59,11 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 0]Ggg... gggg... gg![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11086]Veo... Una conversaci吋n entre un perro y un[n]robot...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11086]Veo... Una conversación entre un perro y un[n]robot...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]夷Alguna idea de lo que dicen? 夷Ai-chan, la[n]mente nos est茨 translatando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Koromaru-san dice: "Todo el mundo aqu胤 trabaj吋[n]juntos para salvarte"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Koromaru-san dice: "Todo el mundo aqu胤 trabajó[n]juntos para salvarte"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El robot dice: "Estoy celoso de todos los[n]amigos maravillosos que tienes"[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_021 top]
@@ -75,11 +75,11 @@
 
 [msg MSG_023 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡S胤! 斡Este mundo seguir茨 persiguiendo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Y entonces llegar茨s a hacer un mont吋n de[n]amigos! 斡Prep茨rate![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Y entonces llegar茨s a hacer un montón de[n]amigos! 斡Prep茨rate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 26 2 100 6][f 3 1 1 0 0 26568][f 3 1 6 0 0 500]斡Lo dijiste, Joker! Este mundo tambi姻n seguir茨[n]persiguiendo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Y entonces llegar茨s a hacer un mont吋n de[n]amigos! 斡Prep茨rate![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Y entonces llegar茨s a hacer un montón de[n]amigos! 斡Prep茨rate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Robot Roto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 3 0 0 2][f 3 1 1 0 0 0]Ggg... gg... Gracias...[n][f 1 3 65535][f 1 1][e]

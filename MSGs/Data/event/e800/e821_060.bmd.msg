@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 2 0 3][f 3 1 1 0 0 0]斡Logramos atrapar a uno muy grande![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 14512]Sin embargo... Parece que nuestra pelea con[n]el FOE asust� a algunos de los peces.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 14512]Sin embargo... Parece que nuestra pelea con[n]el FOE asustó a algunos de los peces.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 14614]斡Pero todav胤a hay algunos aqu胤 y all茨! Buena[n]suerte, todos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P4 Hero]]
@@ -30,7 +30,7 @@
 [msg MSG_008]
 [f 0 5 65278][f 2 1][f 4 6 20 8 32 3][f 3 1 1 0 0 0]Decidimos trabajar juntos para pescar algunos[n]peces...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 20 2 32 3][f 3 1 1 0 0 0]No vimos ningunos grandes, pero todav胤a[n]logramos redondear algunos peces de tama�o[n]razonable![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 2 32 3][f 3 1 1 0 0 0]No vimos ningunos grandes, pero todav胤a[n]logramos redondear algunos peces de tamaño[n]razonable![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 4029]斡Tenemos el pescado que quer胤amos y derrotamos[n]al FOE! 斡Tres alegr胤as para todos![n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 
 [msg MSG_012 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 4][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19032][f 6 1 2 0 0 6]*chuckle* You know it'll be good if[n]it's Shinjiro-senpai's cooking![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡No s吋lo te llenar茨 el est吋mago, sino que[n]tambi姻n te har茨 sentir mareado dentro![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡No sólo te llenar茨 el estómago, sino que[n]tambi姻n te har茨 sentir mareado dentro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18058][f 6 1 2 0 0 9]夷Eh? No digas mierda as胤...[n][f 1 3 65535][f 1 1][e]
@@ -78,7 +78,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 18092]Jus me da un segundo, y cocinar姻 algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 18128]Aqu胤 est茨 hecho. C吋mela antes de que se[n]enfr胤e.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 18128]Aqu胤 est茨 hecho. Cómela antes de que se[n]enfr胤e.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 10 0 0][f 3 1 1 0 0 24063][f 6 1 2 0 0 0]Oh... 斡Ohhh![n][f 1 3 65535][f 1 1][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24030]La comida es verdaderamente una de las grandes[n]alegr胤as de la vida: 斡un arte en s胤[n]mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No puedo dejar de babear. 夷D吋nde est茨 el[n]nuestro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No puedo dejar de babear. 夷Dónde est茨 el[n]nuestro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18031]No te preocupes, hay suficiente para todos,[n]pero tienes que esperar tu turno.[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Shinjiro-senpai! 斡Estoy tan feliz ahora[n]mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 4124][f 6 1 2 0 0 6]斡Hombre, es como si mis palillos tuvieran[n]una mente propia! 斡Segundos, por favor![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 4124][f 6 1 2 0 0 6]Man, it's like my chopsticks have a mind[n]of their own! 斡Segundos, por favor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 4][f 3 1 1 0 0 23124][f 6 1 2 0 0 6]斡Meow! 斡Shinjiro! 斡Yo tambi姻n quiero m茨s![n][f 1 3 65535][f 1 1][e]
@@ -134,9 +134,9 @@
 
 [msg MSG_038 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24067]Comer es m茨s que una forma de satisfacer el[n]hambre.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Re雨ne a todos, y al hacerlo, satisface el[n]coraz吋n de uno.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Re雨ne a todos, y al hacerlo, satisface el[n]corazón de uno.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24031]Esta experiencia me record� las veces que me[n]sentar胤a alrededor de la mesa con mis[n]compa�eros aprendices.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24031]Esta experiencia me recordó las veces que me[n]sentar胤a alrededor de la mesa con mis[n]compañeros aprendices.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_039 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Deben haber sido memorables.[f 2 7 1 20 2 32][e]
@@ -150,7 +150,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 24031]No, ahora los tengo a todos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24032]Por supuesto. S吋lo di la palabra, y estar姻[n]all胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24032]Por supuesto. Sólo di la palabra, y estar姻[n]all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 18 1 0 6][f 4 6 12 6 1 3][f 3 1 1 0 0 12031]Heh... Es casi como si fu姻ramos familia.[n][f 1 3 65535][f 1 1][e]
@@ -181,7 +181,7 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 6]斡Segundos, por favor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 12032][f 6 1 2 0 0 6]Admiro ese est吋mago tuyo, Fox![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 12032][f 6 1 2 0 0 6]Admiro ese estómago tuyo, Fox![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]No voy a dejar que me presente aqu胤. Hey,[n]Shinji, 斡tambi姻n quiero segundos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Shinjiro]]

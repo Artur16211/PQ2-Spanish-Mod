@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si queremos tomar este atajo, tendremos que[n]luchar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 0]Es una opci吋n dif胤cil de hacer. Pasar por[n]aqu胤 acortar胤a considerablemente nuestro[n]viaje.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 0]Es una opción dif胤cil de hacer. Pasar por[n]aqu胤 acortar胤a considerablemente nuestro[n]viaje.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 1][f 3 1 1 0 0 26614]Bueno, con nuestra fuerza actual, no es[n]exactamente invencible.[n][f 1 3 65535][f 1 1][e]

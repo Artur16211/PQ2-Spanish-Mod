@@ -1,10 +1,10 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 5 1][f 3 1 1 0 0 54010]Veamos... Esta proyecci吋n especial es un poco[n]diferente de lo habitual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 5 1][f 3 1 1 0 0 54010]Veamos... Esta proyección especial es un poco[n]diferente de lo habitual.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, es decir...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tu objetivo ser茨 recuperar m雨sica de la[n]pel胤cula de Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 3][f 3 1 1 0 0 0]夷Retire la m雨sica? 夷Es metaf吋rico?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 3][f 3 1 1 0 0 0]夷Retire la m雨sica? 夷Es metafórico?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]斡No! Fue muy literal. Lo dec胤a en serio como[n]dije.[n][f 1 3 65535][f 1 1][e]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19077]Yeah! Music always helps, right?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 6][f 3 1 1 0 0 0]S胤, eso suena como una gran idea. Una buena[n]canci吋n puede hacer mucho por tu humor...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 6][f 3 1 1 0 0 0]S胤, eso suena como una gran idea. Una buena[n]canción puede hacer mucho por tu humor...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Let's get this music in the music box,[n]and then give it to Ann as a present.[n][f 1 3 65535][f 1 1][e]
@@ -84,10 +84,10 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Correcto. Para traer la m雨sica de vuelta,[n]debes hacerlo "en 46 pasos de capturarla"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tenga en cuenta que si la m雨sica termina[n]desapareciendo de la caja, tendr茨 que volver[n]a intentarlo de nuevo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Adem茨s, parece que usar un Goho-M o un Goba-K[n]tambi姻n disipar茨 la m雨sica.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una canci吋n es algo delicado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una canción es algo delicado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 2 0][f 3 1 1 0 0 0]Ahora bien, espero ansiosamente mi oportunidad[n]de escuchar la canci吋n una vez que[n]est姻 segura en tus manos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 2 0][f 3 1 1 0 0 0]Ahora bien, espero ansiosamente mi oportunidad[n]de escuchar la canción una vez que[n]est姻 segura en tus manos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 2 4 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19107][f 6 1 2 0 0 6]Okay, let's get out there and make[n]this a success![n][f 1 3 65535][f 1 1][e]

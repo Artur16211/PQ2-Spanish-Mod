@@ -17,17 +17,17 @@
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Todo fue gracias a nuestros navegantes![n]斡Muchas gracias![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 0]S胤, fue una ejecuci吋n perfecta. Lo hicimos[n]con seguridad porque ustedes tres estaban[n]sincronizados.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 0]S胤, fue una ejecución perfecta. Lo hicimos[n]con seguridad porque ustedes tres estaban[n]sincronizados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 4][f 3 1 1 0 0 6029]Lo s姻, 夷verdad? 斡Estamos en la misma longitud[n]de onda![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Desde que empezamos a trabajar juntos, hemos[n]llegado a comprender el estilo y el[n]ritmo del otro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 3 0 0][f 3 1 1 0 0 0]Cierto. 夷C吋mo lo describo? Nos asentamos en[n]roles. Ahora ni siquiera tenemos que[n]pensarlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 3 0 0][f 3 1 1 0 0 0]Cierto. 夷Cómo lo describo? Nos asentamos en[n]roles. Ahora ni siquiera tenemos que[n]pensarlo.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Un escuadr吋n de 姻lites, 夷eh?[f 2 7 1 64 2 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Un escuadrón de 姻lites, 夷eh?[f 2 7 1 64 2 32][e]
 [f 0 5 65278][f 2 1]Trabajas bien juntos.[f 2 7 1 64 2 32][e]
 
 [msg MSG_010 [Futaba]]
@@ -68,33 +68,33 @@
 
 [msg MSG_019 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 14029]Rise-chan, Futaba-chan... Siento lo mismo[n]hacia ustedes dos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, no somos solo compa�eros de[n]equipo. 斡Somos amigos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, no somos solo compañeros de[n]equipo. 斡Somos amigos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 0]F-Amigos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 70 18 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Mwehehehe... Sin conexi吋n Y amigos en l胤nea![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 18 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Mwehehehe... Sin conexión Y amigos en l胤nea![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 14114]Tengo una sugerencia...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que hay otras formas de fortalecer[n]nuestra navegaci吋n adem茨s de usar esa[n]m茨quina.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que hay otras formas de fortalecer[n]nuestra navegación adem茨s de usar esa[n]m茨quina.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻, sin este dispositivo de comunicaciones?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 0 0][f 3 1 1 0 0 0]Um... Tal vez m茨s como adem茨s.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si pudi姻ramos agregar su informaci吋n de[n]combate m茨s r茨pido, podr胤amos hacer m茨s para[n]ayudarles en la batalla, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si pudi姻ramos agregar su información de[n]combate m茨s r茨pido, podr胤amos hacer m茨s para[n]ayudarles en la batalla, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 26071]Con el dispositivo de comunicaciones, podemos[n]ver m茨s, y conseguir una mejor idea de[n]la situaci吋n de batalla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 26071]Con el dispositivo de comunicaciones, podemos[n]ver m茨s, y conseguir una mejor idea de[n]la situación de batalla.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Y dependiendo de lo que est姻 pasando, tal[n]vez podr胤amos usar nuestras Personas para[n]apoyarlas f胤sicamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Apoyo f胤sico... Entonces, 夷como cosas de[n]recuperaci吋n de sanaci吋n y enfermedad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Apoyo f胤sico... Entonces, 夷como cosas de[n]recuperación de sanación y enfermedad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 26061][f 6 1 2 0 0 6]斡S胤! 斡As胤 es! 斡Esta ser茨 una gran ayuda para[n]todos![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Bien, vamos a golpear este gadget juntos![n]斡Llamo a una reuni吋n de navegantes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Bien, vamos a golpear este gadget juntos![n]斡Llamo a una reunión de navegantes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 3][f 3 1 1 0 0 3033]Ah胤 van con las partes. Son como un hurac茨n.[n][f 1 3 65535][f 1 1][e]
@@ -131,7 +131,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Hmhmhm... Y por fin recuerdas mi[n]existencia...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷De d吋nde vienes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷De dónde vienes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 6 100 0][f 3 1 1 0 0 54037]He estado aqu胤 detr茨s de ti, todo este[n]tiempo...[n][f 1 3 65535][f 1 1][e]
@@ -142,8 +142,8 @@
 
 [msg MSG_040 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 54032]No, no... Est茨 bien... No te preocupes...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ni siquiera cruz� mi mente para otorgarles[n]maldiciones eternas. Ni una vez.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Adem茨s, esta proyecci吋n me permiti� ver algo[n]maravilloso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ni siquiera cruzó mi mente para otorgarles[n]maldiciones eternas. Ni una vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Adem茨s, esta proyección me permitió ver algo[n]maravilloso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Ahora bien, aqu胤 est茨 tu recompensa. Por[n]favor, ac姻ptalo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Elizabeth]]

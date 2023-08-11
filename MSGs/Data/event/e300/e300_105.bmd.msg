@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 0 0 1][f 3 1 1 0 0 1]Digamos, [f 6 1 26 0 0], sobre su mundo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 2]Se dirigi� al ba�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 2]Se dirigió al baño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 3]Ya veo... *Suspira*[n][f 1 3 65535][f 1 1][e]
@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 6][f 3 1 1 0 0 4]Est茨s mirando hacia abajo en los vertederos.[n]Quiero decir, puedo entender por qu姻...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 0 0 1][f 3 1 1 0 0 5]Si [f 6 1 27 0 0] est茨 diciendo la verdad,[n]entonces esto es a雨n m茨s como una historia[n]de ciencia ficci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 0 0 1][f 3 1 1 0 0 5]Si [f 6 1 27 0 0] est茨 diciendo la verdad,[n]entonces esto es a雨n m茨s como una historia[n]de ciencia ficción.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 4]夷No significa que hay otro en el que no sepa[n]nada?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ken]]
@@ -27,12 +27,12 @@
 
 [msg MSG_007 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 6][f 3 1 1 0 0 10]No hay posibilidad de que existas as胤. La[n]雨nica manera que podr胤a suceder es si fueras[n]reencarnado como una persona[n]diferente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Adem茨s, considerando la forma en que te habl�,[n]dudo que seas diferente en su mundo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Adem茨s, considerando la forma en que te habló,[n]dudo que seas diferente en su mundo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 14 12 0 3][f 3 1 1 0 0 12]Hay algo que olvid姻 mencionar antes...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Cuando el Ladrones Fantasma y el Equipo de[n]Investigaci吋n llegaron a nuestro rescate[n]en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Por un momento, Luc胤a malreconoci� [f 6 1 27 0 0][n]-chan como nuestro l胤der.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Cuando el Ladrones Fantasma y el Equipo de[n]Investigación llegaron a nuestro rescate[n]en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]For just a moment, Lucia misrecognized[n][f 6 1 27 0 0 0]-chan as our leader.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 4]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 18 0 0 3][f 3 1 1 0 0 21]Bueno, no estamos imaginando nada parado as胤.[n]Tr茨tala como todos y estar茨 bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 6 0 1][f 3 1 1 0 0 22]Tienes raz吋n. En cualquier caso, necesitamos[n]priorizar el rescate de nuestro l胤der[n]y Aigis.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 6 0 1][f 3 1 1 0 0 22]Tienes razón. En cualquier caso, necesitamos[n]priorizar el rescate de nuestro l胤der[n]y Aigis.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0][f 6 1 27 0 0 0] Est茨 viendo a los estudiantes de Instituto[n]Gekkoukan desde una distancia...[n][f 1 3 65535][f 1 1][e]
@@ -70,11 +70,11 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 3 1 1 0 0 26][f 6 1 2 0 0 4]Lo siento, me espaci姻... Eheh. 夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 6 0 6][f 3 1 1 0 0 27]夷Por qu姻 no te unes a ellos, a menos que sea[n]demasiado inc吋modo, o algo as胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 6 0 6][f 3 1 1 0 0 27]夷Por qu姻 no te unes a ellos, a menos que sea[n]demasiado incómodo, o algo as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 28]Quiero decir, puedo entender por qu姻 est茨n[n]tan confundidos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Pero cuando pienso en c吋mo esto est茨 haciendo[n][f 6 1 27 0 0]-chan sentir, es simplemente[n]desgarrador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Pero cuando pienso en cómo esto est茨 haciendo-chan sentir, es simplemente[n]desgarrador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 30][f 6 1 2 0 0 6]Ahaha! I'm totally fine, though―stuff[n]like parallel universes is so sci-fi![n][f 1 3 65535][f 1 1][e]
@@ -87,11 +87,11 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 31]*giggle* Thanks... You're trying to cheer[n]me up, aren't you?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 32]Bueno, [f 6 1 26 0 0 0]-san, hab胤as estado[n]tan preocupado por tus compa�eros...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 32]Bueno, [f 6 1 26 0 0 0]-san, hab胤as estado[n]tan preocupado por tus compañeros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 33]Thanks―you all really are so nice...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 34]Pero, incluso si no saben de m胤, todav胤a son[n]preciosos compa�eros m胤os.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 34]Pero, incluso si no saben de m胤, todav胤a son[n]preciosos compañeros m胤os.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35]Eso nunca cambiar茨, y no quiero que lo haga.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Por eso estoy planeando hacer mi mejor[n]esfuerzo para buscar a su l胤der y Aigis![n][f 1 3 65535][f 1 1][e]
 

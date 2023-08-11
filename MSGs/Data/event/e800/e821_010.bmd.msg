@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 5 1][f 3 1 1 0 0 54007]El objetivo de esta proyecci吋n especial es...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 5 1][f 3 1 1 0 0 54007]El objetivo de esta proyección especial es...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"斡Juega los ingredientes!" Debe ser una de[n]esas llamadas pel胤culas gourmet.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 21082][f 6 1 2 0 0 0]斡No! 斡No lo haremos, no importa cu茨n hambrientos[n]tengamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 18 1 0 4][f 4 6 12 2 0 1][f 3 1 1 0 0 12032]No podr胤a haber pedido una mejor proyecci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 1 0 4][f 4 6 12 2 0 1][f 3 1 1 0 0 12032]No podr胤a haber pedido una mejor proyección.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Shinji, ser茨 mejor que cumplas tu promesa.[n]Una vez que tengamos esos ingredientes,[n]quiero que nos hagas el mejor plato que[n]puedas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]

@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 0]Hay muchos carn胤voros por aqu胤... Es por eso[n]que todos han estado al borde.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 22081][f 6 1 2 0 0 4]A雨n as胤, 夷no es malo que tu salud s吋lo entre[n]en p茨nico y huya as胤 todo el tiempo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 22081][f 6 1 2 0 0 4]A雨n as胤, 夷no es malo que tu salud sólo entre[n]en p茨nico y huya as胤 todo el tiempo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Has probado alguna vez una t茨ctica diferente?[n]Ya sabes, como pelear o algo as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yosukesaurus]]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 8 6 0 1][f 3 1 1 0 0 8010][f 6 1 2 0 0 9]Sospecho que ser胤a demasiado peligroso...[n]Como dice el refr茨n, los osos heridos son[n]los m茨s peligrosos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 8 6 0 1][f 3 1 1 0 0 8071][f 6 1 2 0 0 9]Ese ser胤a el curso de acci吋n m茨s sabio. Como[n]dice el refr茨n, los osos heridos son[n]los m茨s peligrosos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 8 6 0 1][f 3 1 1 0 0 8071][f 6 1 2 0 0 9]Ese ser胤a el curso de acción m茨s sabio. Como[n]dice el refr茨n, los osos heridos son[n]los m茨s peligrosos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 24 2 0 1][f 3 1 1 0 0 24047][f 6 1 2 0 0 4]Pareces muy confiado. 夷Vamos a buscar uno[n]ahora?[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷"Osos heridos"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Cuando un oso herido es acorralado, su[n]desesperaci吋n lo hace especialmente aterrador.[n]Lo mismo se dice de los jabal胤es.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Cuando un oso herido es acorralado, su[n]desesperación lo hace especialmente aterrador.[n]Lo mismo se dice de los jabal胤es.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9016][f 6 1 2 0 0 4]Entonces, 夷significa que me convertir胤a en[n]invencible si me metiera en una pizca?[n][f 1 3 65535][f 1 1][e]

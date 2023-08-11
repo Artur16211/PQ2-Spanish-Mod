@@ -4,7 +4,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Esta es la recompensa por este tiempo. Por[n]favor, ac姻ptalo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 19 1 0 1][f 4 6 13 12 0 3][f 3 1 1 0 0 13024]Gracias por su ayuda, [f 6 1 26 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 1 0 1][f 4 6 13 12 0 3][f 3 1 1 0 0 13024]Thanks for your help,[n][f 6 1 26 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy seguro de que las versiones de nosotros[n]en tu mundo pueden descansar f茨cil[n]sabiendo que est茨s a cargo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [P3 Fem Protag]]

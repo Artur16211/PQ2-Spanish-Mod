@@ -1,17 +1,17 @@
 [msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 21074]As胤 que esa es la falsificaci吋n, 夷eh?[n]斡Ag茨rrenlo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 21074]As胤 que esa es la falsificación, 夷eh?[n]斡Ag茨rrenlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8083]No, c茨lmate. No queremos causar una escena.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ir姻 a revisar con 姻l por 雨ltima vez. Por[n]favor, espere aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8136]Siento decir esto, pero tu suposici吋n fue[n]incorrecta. Es un verdadero oficial de[n]polic胤a.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si est茨 mintiendo, entonces va en contra[n]de la condici吋n de que s吋lo haya un[n]mentiroso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8136]Siento decir esto, pero tu suposición fue[n]incorrecta. Es un verdadero oficial de[n]polic胤a.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si est茨 mintiendo, entonces va en contra[n]de la condición de que sólo haya un[n]mentiroso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 0 1][f 3 1 1 0 0 26013]Hmm... Esto podr胤a ser dif胤cil. El camino[n]para convertirse en un detective incre胤ble[n]es dif胤cil.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cu茨l es el plan, Joker? 夷Quieres volver a[n]revisar la informaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cu茨l es el plan, Joker? 夷Quieres volver a[n]revisar la información?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3]Si no te importa.[f 2 7 1 20 0 32][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1]Estoy bien.[f 2 7 1 20 6 32][e]
 
 [msg MSG_015 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 26107]斡Roger! Preste atenci吋n ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 26107]斡Roger! Preste atención ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 0 1][f 3 1 1 0 0 26070]Pi姻nsalo otra vez. Recuerda, solo uno de[n]ellos est茨 mintiendo.[n][f 1 3 65535][f 1 1][e]

@@ -26,28 +26,28 @@
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Entiendo la curiosidad, pero rescatar a Queen[n]y Noir viene primero ahora mismo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28068]Tiene raz吋n. Si vamos innecesariamente[n]hurgando, qui姻n sabe lo inesperado..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28068]Tiene razón. Si vamos innecesariamente[n]hurgando, qui姻n sabe lo inesperado..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 1 0][f 3 1 1 0 0 0]斡Silencio! 斡Alguien viene![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Polic胤a Serio]]
-[f 0 5 65278][f 2 1][f 4 6 44 12 0 1][f 3 1 1 0 0 0]Ser茨 mejor que preparemos una iluminaci吋n[n]m茨s r茨pida para la exposici吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 44 12 0 1][f 3 1 1 0 0 0]Ser茨 mejor que preparemos una iluminación[n]m茨s r茨pida para la exposición.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Polic胤a Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]S胤, eso har茨 un n雨mero para el poder de[n]Kamoshidaman y su control sobre la ciudad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Polic胤a Serio]]
-[f 0 5 65278][f 2 1][f 4 6 44 12 0 0][f 3 1 1 0 0 0]斡Por la seguridad y la paz de Kamo City,[n]debemos tener la mejor iluminaci吋n posible![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 44 12 0 0][f 3 1 1 0 0 0]斡Por la seguridad y la paz de Kamo City,[n]debemos tener la mejor iluminación posible![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 1][f 3 1 1 0 0 24076]Parecen estar discutiendo la exposici吋n.[n]Suena como si fuera la producci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 1][f 3 1 1 0 0 24076]Parecen estar discutiendo la exposición.[n]Suena como si fuera la producción...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]夷De qu姻 est茨n hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 1][f 3 1 1 0 0 0]Es esa horrible exposici吋n de castigos...[n]Est茨n planeando ejecutar p雨blicamente a[n]nuestros amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 1][f 3 1 1 0 0 0]Es esa horrible exposición de castigos...[n]Est茨n planeando ejecutar p雨blicamente a[n]nuestros amigos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Parece que a雨n no nos han visto... 夷Qu姻[n]debemos hacer, Joker?[n][f 1 3 65535][f 1 1][e]

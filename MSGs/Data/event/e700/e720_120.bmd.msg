@@ -12,14 +12,14 @@
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]夷Por qu姻 no tenemos a Theodore echarle un[n]vistazo cuando regresemos al cine?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]Noir tiene raz吋n. Ser胤a un desperdicio para[n]lanzarlo antes de que lo evaluaran...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]Noir tiene razón. Ser胤a un desperdicio para[n]lanzarlo antes de que lo evaluaran...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]El arte verdadero es a menudo pasado por alto[n]por el ojo sin entrenamiento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 0]Mi intuici吋n est茨 diciendo... *purr* This[n]is... Mrow-ow![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 0]Mi intuición est茨 diciendo... *purr* This[n]is... Mrow-ow![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Considerando la reacci吋n de Mona... parece[n]que no hay error de que sea un Tesoro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Considerando la reacción de Mona... parece[n]que no hay error de que sea un Tesoro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 21 0 1 1][f 3 1 1 0 0 0]斡Muy bien! Entonces... espera, Joker.[n][f 1 3 65535][f 1 1][e]

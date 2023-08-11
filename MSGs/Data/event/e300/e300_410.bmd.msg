@@ -16,7 +16,7 @@
 
 [msg MSG_005 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 4][f 3 1 1 0 0 13023]Y nuestras personalidades en ambos mundos[n]son esencialmente iguales, existentes al[n]mismo tiempo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por lo que he o胤do, nuestras habilidades y[n]condiciones de vida tambi姻n son las mismas.[n]Entonces... 夷por qu姻 son s吋lo esos[n]dos diferentes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por lo que he o胤do, nuestras habilidades y[n]condiciones de vida tambi姻n son las mismas.[n]Entonces... 夷por qu姻 son sólo esos[n]dos diferentes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 12 1 0 0][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 2029]Pretty interesting, huh?[n][f 1 3 65535][f 1 1][e]
@@ -50,16 +50,16 @@
 
 [msg MSG_012 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 18 2 0 1][f 3 1 1 0 0 18113]Bueno, todos fuimos salvados de diferentes[n]maneras gracias a [f 6 1 27 0 0] estar[n]con nosotros.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es nuestra compa�era, y eso es m茨s que[n]suficiente por ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es nuestra compañera, y eso es m茨s que[n]suficiente por ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19026][f 6 1 2 0 0 6]Th-Thank you, Shinjiro-senpai![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡As胤 es! 斡Todos somos compa�eros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡As胤 es! 斡Todos somos compañeros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 12 0 0 1][f 3 1 1 0 0 12013]Considerando la situaci吋n en la que estamos,[n]es natural que nos sintamos a veces...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 12 0 0 1][f 3 1 1 0 0 12013]Considerando la situación en la que estamos,[n]es natural que nos sintamos a veces...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 0]Pero, creo que podemos manejarlo si seguimos[n]trabajando juntos as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P3 Hero]]

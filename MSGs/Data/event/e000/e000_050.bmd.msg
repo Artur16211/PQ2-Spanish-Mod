@@ -3,11 +3,11 @@
 
 [msg MSG_001 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 1 0][f 3 1 1 0 0 2]Mementos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Entonces, 夷este lugar fue formado por el[n]inconsciente colectivo de la sociedad? Un[n]palacio de toda la poblaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Entonces, 夷este lugar fue formado por el[n]inconsciente colectivo de la sociedad? Un[n]palacio de toda la población...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Esto parece ser otra forma diferente del[n]mundo cognitivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 5]夷Qui姻n sabe lo que hay en sus profundidades?[n]Golpea el coraz吋n de mi curiosidad[n]intelectual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 5]夷Qui姻n sabe lo que hay en sus profundidades?[n]Golpea el corazón de mi curiosidad[n]intelectual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 6]Por otro lado, es bastante aterrador...[n][f 1 3 65535][f 1 1][e]
@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 27 0 0 6][f 3 1 1 0 0 11]夷Qu姻 pasa, Mona?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 1 0][f 3 1 1 0 0 12]斡Oh! Lo siento. Es s吋lo que Mementos se[n]siente... diferente de lo habitual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 1 0][f 3 1 1 0 0 12]斡Oh! Lo siento. Es sólo que Mementos se[n]siente... diferente de lo habitual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Makoto]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 25 0 0 0][f 3 1 1 0 0 13]夷En qu姻 sentido?[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 18]Yo tampoco tengo ni idea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 2 0 0 3][f 4 6 23 6 0 1][f 3 1 1 0 0 19]Mmm... supongo que es s吋lo mi imaginaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 2 0 0 3][f 4 6 23 6 0 1][f 3 1 1 0 0 19]Mmm... supongo que es sólo mi imaginación.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 20]De todos modos, 斡es la hora de transformarse![n]斡Atr茨s, todos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Akechi]]

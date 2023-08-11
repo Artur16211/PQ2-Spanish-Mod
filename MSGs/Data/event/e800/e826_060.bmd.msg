@@ -5,14 +5,14 @@
 [f 0 5 65278][f 2 1][f 4 6 22 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No veo nada aqu胤, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 26517][f 3 1 6 0 0 500]S胤. No ayuda que ni siquiera sepamos c吋mo es[n]el tesoro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 26517][f 3 1 6 0 0 500]S胤. No ayuda que ni siquiera sepamos cómo es[n]el tesoro.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tal vez echar un vistazo por ah胤. Debe haber[n]algo que se ajuste a la cuenta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 10013][f 6 1 2 0 0 9]No creo que esto se ajuste a ning雨n proyecto[n]de ley...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 0]Palabra... Son s吋lo un mont吋n de plantas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 0]Palabra... Son sólo un montón de plantas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 9041][f 6 1 2 0 0 6]斡WOOOAH! 斡Ah胤 est茨! 斡Est茨 aqu胤! 斡Y lo encontr姻[n]primero![n][f 1 3 65535][f 1 1][e]
@@ -22,7 +22,7 @@
 
 [msg MSG_007 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 0]斡S胤, esto es! 斡Es hermoso, atractivo y har胤a[n]un gran regalo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Aqu胤 est茨n, se�oritas. 斡De m胤 a ti![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Aqu胤 est茨n, señoritas. 斡De m胤 a ti![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 22095][f 6 1 2 0 0 3]Um... No llamar胤a a esta hermosa...[n][f 1 3 65535][f 1 1][e]
@@ -39,14 +39,14 @@
 [sel SEL_012 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Los errores no son buenos.[f 2 7 1 20 6 32][e]
 [f 0 5 65278][f 2 1]Lo tomar姻.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Creo que s吋lo te gusta.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Creo que sólo te gusta.[f 2 7 1 20 0 32][e]
 
 [msg MSG_013 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 13023]La mayor胤a de las personas, hombres y mujeres[n]por igual, mantienen un desprecio[n]compartido por los insectos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El sentido com雨n dicta que no son los regalos[n]m茨s adecuados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 24131]Estoy de acuerdo. Una criatura de tama�o y[n]color como este es absolutamente notable.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 24131]Estoy de acuerdo. Una criatura de tamaño y[n]color como este es absolutamente notable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]Claro, pero el sentido com雨n dicta que no[n]son los regalos m茨s adecuados.[n][f 1 3 65535][f 1 1][e]
@@ -62,11 +62,11 @@
 
 [msg MSG_019 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 10 0 1][f 3 1 1 0 0 23044][f 6 1 2 0 0 1]斡Lo encontr姻![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 0]Algo tan hermoso y tan colorido como esto es[n]seguro ganar el coraz吋n de cualquier[n]chica.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 1][f 3 1 1 0 0 0]No s吋lo eso, pero, como un bono a�adido,[n]tambi姻n es comestible. Es un regalo que..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 0]Algo tan hermoso y tan colorido como esto es[n]seguro ganar el corazón de cualquier[n]chica.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 1][f 3 1 1 0 0 0]No sólo eso, pero, como un bono añadido,[n]tambi姻n es comestible. Es un regalo que..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 26588]S胤, s胤, ens姻�anos ya.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 26588]S胤, s胤, ens姻ñanos ya.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Saca tus ojos... esto![n][f 1 3 65535][f 1 1][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1]Devuelve eso.[f 2 7 1 20 0 32][e]
 
 [msg MSG_023 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 23018][f 6 1 2 0 0 0]斡Por supuesto que es hermoso! 夷Verdad,[n]se�oritas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 23018][f 6 1 2 0 0 0]斡Por supuesto que es hermoso! 夷Verdad,[n]señoritas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25010]...[n][f 1 3 65535][f 1 1][e]
@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 23062][f 6 1 2 0 0 0]夷Por qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Este color... Por alguna raz吋n, env胤a shivers[n]a mi columna...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Este color... Por alguna razón, env胤a shivers[n]a mi columna...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10125][f 6 1 2 0 0 10]...Gross.[n][f 1 3 65535][f 1 1][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Ni siquiera se ve bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esc茨ner completo. Detecto compuestos t吋xicos[n]en una concentraci吋n muy superior al[n]umbral letal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esc茨ner completo. Detecto compuestos tóxicos[n]en una concentración muy superior al[n]umbral letal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 23104][f 6 1 2 0 0 3]Urrrrrrgh...![n][f 1 3 65535][f 1 1][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Nunca hab胤a visto este tipo de flor antes.[n]Incluso podr胤a ser una nueva especie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 0 0 1][f 3 1 1 0 0 9081]B-B-Pero es s吋lo una flor. Eso no cuenta como[n]un tesoro...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 0 0 1][f 3 1 1 0 0 9081]B-B-Pero es sólo una flor. Eso no cuenta como[n]un tesoro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 1 4][f 3 1 1 0 0 23099][f 6 1 2 0 0 10]S胤, es verdad. Puede que no sea eso...[n][f 1 3 65535][f 1 1][e]
@@ -152,7 +152,7 @@
 
 [msg MSG_046 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 1][f 3 1 1 0 0 13075]Ya veo. As胤 que el investigador puso todos[n]sus sentimientos en esta sola flor.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 0]No hay duda de que este es el tesoro que dej吋[n]atr茨s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 0]No hay duda de que este es el tesoro que dejó[n]atr茨s.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_047 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Supongo que tenemos a nuestro ganador.[f 2 7 1 20 2 32][e]

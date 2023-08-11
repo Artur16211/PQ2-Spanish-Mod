@@ -14,16 +14,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14203]斡Es un FOE! Es mejor evitarlo.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14303]S胤, una retirada cuidadosa es nuestra mejor[n]opci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14303]S胤, una retirada cuidadosa es nuestra mejor[n]opción.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14304]S胤, deber胤amos evitar una confrontaci吋n aqu胤.[n]Volvamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14304]S胤, deber胤amos evitar una confrontación aqu胤.[n]Volvamos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14350]El FOE una gran defensa. Necesitamos un plan[n]espec胤fico de ataque.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_008]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14351]斡Ese enemigo puede hacer mucho da�o, m茨s que[n]los normales! Tengan cuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14351]斡Ese enemigo puede hacer mucho daño, m茨s que[n]los normales! Tengan cuidado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_009]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14352]Ese FOE sobresale en ataques f胤sicos. Cuiden[n]su salud.[n][f 1 6 65535][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14306]斡Vamos a atraparlo antes de que escape![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_015]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14307]斡R茨pido, r茨pido, antes de que sepa lo que lo[n]golpe�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14307]斡R茨pido, r茨pido, antes de que sepa lo que lo[n]golpeó![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_016]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14310]Si sabes que la Sombra va a atacar a varios[n]objetivos, 斡defi姻ndete![n][f 1 6 65535][e]
@@ -68,10 +68,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14221]Ese parece dif胤cil de vencer. 斡Tengo miedo[n]aunque no est姻 ah胤![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_023]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14321]Escapar es una opci吋n tambi姻n... a menos que[n]quieras pelear?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14321]Escapar es una opción tambi姻n... a menos que[n]quieras pelear?[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_024]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14322]Tienes que tomar una decisi吋n: luchar ahora,[n]o huir para luchar otro d胤a...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14322]Tienes que tomar una decisión: luchar ahora,[n]o huir para luchar otro d胤a...[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_025]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14222]Nunca hab胤a visto a ese enemigo. Debemos[n]investigar...[n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14521]Skull... 斡Dale todo lo que tienes![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_048]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14522]斡S吋lo t雨 puedes hacer tus movimientos[n]caracter胤sticos, Panther![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14522]斡Sólo t雨 puedes hacer tus movimientos[n]caracter胤sticos, Panther![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_049]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14523]斡No te lastimes, Mona![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_050]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14524]Fox tiene raz吋n. 斡Ninguno de nosotros deber胤a[n]confiarse![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14524]Fox tiene razón. 斡Ninguno de nosotros deber胤a[n]confiarse![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_051]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14525]Muy cierto, Queen, as胤 que prueba diferentes[n]ataques![n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14527]Buen plan, Noir. 斡Busquemos sus debilidades![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_054]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14528]斡Buena decisi吋n, Crow! S胤, encontremos sus[n]debilidades primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14528]斡Buena decisión, Crow! S胤, encontremos sus[n]debilidades primero.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_055]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14324]Esto parece bastante f茨cil... 斡Pero no te[n]conf胤es![n][f 1 6 65535][e]
@@ -188,7 +188,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14329]斡Ahora es tu oportunidad! 斡Ve por su[n]debilidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_063]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14230]El escape no sali� como planeaba... 斡Por[n]favor, aguanta![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14230]El escape no salió como planeaba... 斡Por[n]favor, aguanta![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_064]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14231]No forma de escapar... 斡Por favor, chicos,[n]no me hagan verlos caer![n][f 1 6 65535][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14232]斡Refuerzos! 斡Y es un FOE![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_066]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14233]Oh no... 夷Un FOE se uni� a la pelea?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14233]Oh no... 夷Un FOE se unió a la pelea?[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_067]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14601]斡Cuidado! 斡Esto es peligroso![n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14611]斡Junpei est茨 a punto de caer![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_078]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14612]A Akihiko le vendr胤a bien algo de ayuda. 斡No[n]puede escaparse a pu�etazos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14612]A Akihiko le vendr胤a bien algo de ayuda. 斡No[n]puede escaparse a puñetazos![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_079]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14613]斡Cuidado, Mitsuru![n][f 1 6 65535][e]
@@ -248,7 +248,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14616]斡Cuidado, Ken![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_083]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14617]斡Pobre Koro! 斡C吋mo se atreven![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14617]斡Pobre Koro! 斡Cómo se atreven![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_084]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14618]斡Shinjiro est茨 en apuros![n][f 1 6 65535][e]
@@ -344,7 +344,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14418]斡Es d姻bil contra las habilidades que Bendicen![n]夷Tienes alguna de esas habilidades?[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_115]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14419]斡Las habilidades de Maldici吋n son las m茨s[n]efectivas! 斡Aprov姻chalo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14419]斡Las habilidades de Maldición son las m茨s[n]efectivas! 斡Aprov姻chalo![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_116]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14420]Hm... Parece que es d姻bil a los ataques[n]f胤sicos...[n][f 1 6 65535][e]
@@ -368,10 +368,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14426]Deber胤amos atacarlo con ataques de[n]Psicoquinesis.[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_123]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14427]Es vulnerable a las habilidades de Bendici吋n.[n]斡Explotemos eso al m茨ximo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14427]Es vulnerable a las habilidades de Bendición.[n]斡Explotemos eso al m茨ximo![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_124]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14428]Oye, es bastante d姻bil cuando se expone a la[n]maldici吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14428]Oye, es bastante d姻bil cuando se expone a la[n]maldición![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_125]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14241]斡Bien hecho! 斡Mantengamos el ritmo![n][f 1 6 65535][e]
@@ -389,7 +389,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14344]夷Qu姻 tal usar un Relevo?[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_130]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14345]斡Podr胤as hacer un da�o impresionante con un[n]Relevo ahora mismo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14345]斡Podr胤as hacer un daño impresionante con un[n]Relevo ahora mismo![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_131]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14245]斡Estoy lista para brindar apoyo, cuando me[n]necesiten![n][f 1 6 65535][e]
@@ -425,7 +425,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14107]斡Dios m胤o, Kanji, eso fue incre胤ble![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_142]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14108]夷C吋mo hiciste eso, Naoto?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14108]夷Cómo hiciste eso, Naoto?[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_143]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14109]斡Un gran logro, Teddie![n][f 1 6 65535][e]
@@ -494,19 +494,19 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_165]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14901]Parece que no tenemos otra opci吋n que luchar...[n]斡Yo me encargar姻 del apoyo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14901]Parece que no tenemos otra opción que luchar...[n]斡Yo me encargar姻 del apoyo![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_166]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14930]Tenemos que ganar... 斡Aunque s吋lo sea por el[n]bien de Ribbon![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14930]Tenemos que ganar... 斡Aunque sólo sea por el[n]bien de Ribbon![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_167]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14931]Este mundo... est茨 todo mal. 斡Ya es hora de[n]que lo arreglemos![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_168]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14932]Oracle y Ribbon han desactivado la funci吋n[n]de auto-reparaci吋n. 斡Ahora![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14932]Oracle y Ribbon han desactivado la función[n]de auto-reparación. 斡Ahora![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_169]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14933]Su funci吋n de auto-reparaci吋n est茨 desactivada.[n]斡Ahora es tu oportunidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14933]Su función de auto-reparación est茨 desactivada.[n]斡Ahora es tu oportunidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_170]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14934]斡No![n][f 1 6 65535][e]
@@ -542,10 +542,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14952]Otra cosa m茨s de la que preocuparse: 斡el[n]enemigo acaba de cambiar su afinidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_181]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14953]Detecto una enorme acumulaci吋n de energ胤a.[n]Dios m胤o, 夷y si se libera?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14953]Detecto una enorme acumulación de energ胤a.[n]Dios m胤o, 夷y si se libera?[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_182]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14954]夷斡C吋mo puede ser esto!? 斡Hemos sido lanzados[n]hacia adelante en el tiempo, creo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14954]夷斡Cómo puede ser esto!? 斡Hemos sido lanzados[n]hacia adelante en el tiempo, creo![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_183]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14955]斡Ah! Y pensar que usar胤a el salto temporal[n]para martillearnos con ataques tan[n]masivos...[n][f 1 6 65535][e]

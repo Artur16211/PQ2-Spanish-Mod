@@ -9,19 +9,19 @@
 
 [msg MSG_003 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No, es sobre el cine![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Recuerdas esa puerta que encontramos que[n]dec胤a "S吋lo personal autorizado"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Recuerdas esa puerta que encontramos que[n]dec胤a "Sólo personal autorizado"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 12 0 0][f 3 1 1 0 0 21012]夷Te refieres a la que estaba cerrada? 夷Qu姻[n]pasa con eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]De repente intercept姻 una se�al muy fuerte[n]desde esa puerta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]De repente intercept姻 una señal muy fuerte[n]desde esa puerta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una se�al? 夷Te refieres a un enemigo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Una señal? 夷Te refieres a un enemigo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 100 0][f 3 1 1 0 0 26515][f 6 1 2 0 0 10]No, es muy extra�a, una presencia extra�a,[n]e incluso Nagi no sabe lo que podr胤a[n]ser...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 100 0][f 3 1 1 0 0 26515][f 6 1 2 0 0 10]No, es muy extraña, una presencia extraña,[n]e incluso Nagi no sabe lo que podr胤a[n]ser...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]Es muy poco probable que sean Queen y Noir,[n]pero aun as胤 creo que deber胤amos revisar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]

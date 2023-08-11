@@ -63,11 +63,11 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8067]Considerando que el culpable estaba tras las[n]palomitas, dir胤a que eso nos descarta[n]porque podr胤amos pedir la nuestra.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 4 1 0][f 3 1 1 0 0 0]Y aunque es cierto que algunos de nosotros[n]no conseguimos nada, o terminamos nuestra[n]porci吋n, todos est茨bamos dispuestos a[n]compartir entre nosotros mismos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 4 1 0][f 3 1 1 0 0 0]Y aunque es cierto que algunos de nosotros[n]no conseguimos nada, o terminamos nuestra[n]porción, todos est茨bamos dispuestos a[n]compartir entre nosotros mismos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Repasemos el resto de lo que sabemos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]El culpable sali� de su camino para robar[n]palomitas que pod胤an haber pedido[n]f茨cilmente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]El culpable salió de su camino para robar[n]palomitas que pod胤an haber pedido[n]f茨cilmente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En el momento del incidente, el culpable fue[n]disfrazado como Teddie y fue visto[n]tropezando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Akechi]]
@@ -83,7 +83,7 @@
 
 [msg MSG_024 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 6][f 3 1 1 0 0 28075]Ya veo. As胤 que eso es lo que ten胤as en[n]mente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 2 0 6][f 3 1 1 0 0 0]Bueno, sabr茨s si tienes raz吋n lo suficientemente[n]pronto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 2 0 6][f 3 1 1 0 0 0]Bueno, sabr茨s si tienes razón lo suficientemente[n]pronto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]夷Nos vamos?[n][f 1 3 65535][f 1 1][e]

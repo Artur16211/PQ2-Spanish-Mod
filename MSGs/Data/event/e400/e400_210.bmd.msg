@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1][f 4 6 56 0 1 1][f 3 1 1 0 0 15]Tengo la escuela para llegar a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Una Chica Elegante]]
-[f 0 5 65278][f 2 1][f 4 6 54 0 1 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6]斡Lo siento! Tal vez la pr吋xima vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 54 0 1 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6]斡Lo siento! Tal vez la próxima vez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Escuela Media Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]Ya veo. Eso es muy malo... pero, 斡de acuerdo![n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 57 0 1 3][f 3 1 1 0 0 18]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Escuela Media Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 37 0 0 3][f 3 1 1 0 0 19]夷Qu姻 pas� con mi escritorio...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 37 0 0 3][f 3 1 1 0 0 19]夷Qu姻 pasó con mi escritorio...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Nervous Schoolgirl]]
 [f 0 5 65278][f 2 1][f 4 6 55 1 0 1][f 3 1 1 0 0 20]...[n][f 1 3 65535][f 1 1][e]
@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 4 6 37 2 1 3][f 3 1 1 0 0 32][f 6 1 2 0 0 0]Espera, 夷qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Nervous Schoolgirl]]
-[f 0 5 65278][f 2 1][f 4 6 55 0 0 4][f 3 1 1 0 0 33]Las chicas populares s吋lo quieren a alguien[n]que puedan burlarse...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 55 0 0 4][f 3 1 1 0 0 33]Las chicas populares sólo quieren a alguien[n]que puedan burlarse...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Enorme Colegiala]]
 [f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 34]Si te quedas con nosotros, lo conseguiremos[n]tambi姻n. Nos vas a hacer problemas.[n][f 1 3 65535][f 1 1][e]
@@ -126,5 +126,5 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 57 0 0 4][f 3 1 1 0 0 46]YO... agree that Hikari-chan should go...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Enorme Colegiala]]
-[f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 47]夷Lo ves? Todos est茨n de acuerdo, as胤 que esa[n]es la decisi吋n obvia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 47]夷Lo ves? Todos est茨n de acuerdo, as胤 que esa[n]es la decisión obvia.[n][f 1 3 65535][f 1 1][e]
 

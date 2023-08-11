@@ -1,6 +1,6 @@
 [msg MSG_000 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28072]Como pens姻... Podemos llegar a los troncos[n]del 茨rbol de este lado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puede ser mejor cortarlas en piezas m茨s[n]peque�as y sacarlas de nuestro camino.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puede ser mejor cortarlas en piezas m茨s[n]pequeñas y sacarlas de nuestro camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Necesitamos un hacha para eso. Afortunadamente,[n]no necesitamos abrir este camino..[n][f 1 3 65535][f 1 1][e]
@@ -16,19 +16,19 @@
 [f 0 5 65278][f 2 1]Vamos a dejarlos estar.[f 2 7 1 20 6 32][e]
 
 [msg MSG_004 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27077]斡S胤, d姻jamelo! Es s吋lo una versi吋n ampliada[n]de cortar le�a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27077]斡S胤, d姻jamelo! Es sólo una versión ampliada[n]de cortar leña...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Haru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 6]斡Aqu胤 va![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_02 [Morgana]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 3 1 1 0 0 23048]Wh-whoa... 斡Santa vaca, Noir! 夷C吋mo...? 夷C吋mo[n]te mueves mientras haces eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 3 1 1 0 0 23048]Wh-whoa... 斡Santa vaca, Noir! 夷Cómo...? 夷Cómo[n]te mueves mientras haces eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_04 [Teddie]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Guau! 斡Es espl姻ndida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 1][f 3 1 1 0 0 27072][f 6 1 2 0 0 4]... 斡Y ah胤 vamos! 夷C吋mo fue eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 1][f 3 1 1 0 0 27072][f 6 1 2 0 0 4]... 斡Y ah胤 vamos! 夷Cómo fue eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 0]Gracias por su trabajo duro. Eso har茨 que[n]explorar esta zona sea mucho m茨s f茨cil.[n][f 1 3 65535][f 1 1][e]

@@ -40,12 +40,12 @@
 [f 0 5 65278][f 2 1][f 4 6 68 10 0 0][f 3 1 1 0 0 24095][f 6 1 2 0 0 6]斡Esto es...![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_013 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Una explosi吋n.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Una explosión.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]夷Un ammonite?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]No estoy seguro...[f 2 7 1 64 8 32][e]
 
 [msg MSG_014 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 24131]斡S胤, una explosi吋n de imaginaci吋n! 斡Un gran[n]golpe de arte![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 24131]斡S胤, una explosión de imaginación! 斡Un gran[n]golpe de arte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 24130][f 6 1 2 0 0 6]El ammonite ha dejado -no-burst a trav姻s de[n]su c茨scara ... 斡Qu姻 maravilloso![n][f 1 3 65535][f 1 1][e]
@@ -55,7 +55,7 @@
 
 [msg MSG_017 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5050]No... acabo de seguir tu consejo, Yusuke-kun.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me ense�aste a dejarme ir... Nunca hab胤a[n]hecho algo as胤 antes, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me enseñaste a dejarme ir... Nunca hab胤a[n]hecho algo as胤 antes, pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0]Nunca pens姻 que se sentir胤a tan bien...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yusuke]]
@@ -68,7 +68,7 @@
 [msg MSG_020 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 24013]Dibujar no es simplemente sobre habilidad o[n]conocimiento...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es un arte nacido del alma de uno, de las[n]experiencias pasadas. Son estas cosas las[n]que dan lugar a la creatividad...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 0]Cre胤a que iba a ense�arte, pero parece que[n]terminaste ense�茨ndome.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 0]Cre胤a que iba a enseñarte, pero parece que[n]terminaste enseñ茨ndome.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Para nada. Mi arte no es nada comparado con[n]el tuyo.[n][f 1 3 65535][f 1 1][e]
@@ -78,7 +78,7 @@
 [msg MSG_022 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 24050]Me honra o胤r eso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 0]夷Y puedo pedirle que me d姻 su foto,[n]Amagi-san?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero recordar el sentimiento de inspiraci吋n[n]que tuve hoy.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero recordar el sentimiento de inspiración[n]que tuve hoy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5069][f 6 1 2 0 0 6]斡Por supuesto![n][f 1 3 65535][f 1 1][e]
@@ -93,11 +93,11 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0]Whoa... Eso es realmente algo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 2 0 4][f 3 1 1 0 0 25032]Bueno, es... definitivamente 雨nico, pero creo[n]que tambi姻n es hermoso por esa raz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 2 0 4][f 3 1 1 0 0 25032]Bueno, es... definitivamente 雨nico, pero creo[n]que tambi姻n es hermoso por esa razón.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que ustedes dos realmente han[n]conectado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Trabajando juntos, tienes una doble explosi吋n[n]de creatividad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Trabajando juntos, tienes una doble explosión[n]de creatividad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yusuke]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 68 10 0 0][f 3 1 1 0 0 24062][f 6 1 2 0 0 6]...![n][f 1 3 65535][f 1 1][e]

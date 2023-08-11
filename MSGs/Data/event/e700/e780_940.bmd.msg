@@ -14,19 +14,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Algo ha sido escrito en 濮籰 con la escritura[n]linda...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 0 0][f 3 1 1 0 0 0]"Cumplea闅os sorpresa"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 0 0][f 3 1 1 0 0 0]"Cumplea帽os sorpresa"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 0][f 3 1 1 0 0 0]Es el d鑳 especial para el que amo[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Deja que haya champ鑼╪ y pastel de fresa[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]澶稵e diste cuenta? Mi amor se hornea en ella[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todo por un poco de emoci鍚媙 (P-A-S-S-I-O-N)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todo por un poco de emoci贸n (P-A-S-S-I-O-N)[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Busca el mensaje escondido en el chocolate[n]en el script curlicued:[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]'Isle of View': una se闅al clara[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]'Isle of View': una se帽al clara[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tal vez lame la mermelada de tu mejilla[n](Mmm!)[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]鏂o me digas que estoy husmeando los dulces![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S鍚媗o soy un cerdo codicioso para ti, monsieur[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S鍚媗o estoy loco por ti, monsieur[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S贸lo soy un cerdo codicioso para ti, monsieur[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S贸lo estoy loco por ti, monsieur[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 4 6 64 5 1 3][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 
 [msg MSG_008 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 10]鏂spera, espera! 鏂s uno de los peores![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 6]Acabo de arreglarme, es todo! 鏂鍚媗o quiero[n]un poco de emoci鍚媙, no tanto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 6]Acabo de arreglarme, es todo! 鏂贸lo quiero[n]un poco de emoci贸n, no tanto![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 6]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 7][f 6 1 2 0 0 6]鏂ezIhateyoustupidsurprisemonsieur![n][f 1 3 65535][f 1 1][e]
 
@@ -64,5 +64,5 @@
 [f 0 5 65278][f 2 1][f 4 6 85 4 1 0][f 3 1 1 0 0 13][f 6 1 2 0 0 3]Esto no puede estar pasando... Estoy seguro[n]de que guardo esto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi鍚 a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi贸 a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
 

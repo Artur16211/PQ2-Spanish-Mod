@@ -5,13 +5,13 @@
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 3][f 3 1 1 0 0 12088]夷Es una escena del crimen? No veo nada inusual[n]por aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Tal vez terminaron su investigaci吋n y ya[n]limpiaron...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Tal vez terminaron su investigación y ya[n]limpiaron...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 3][f 3 1 1 0 0 11058][f 6 1 2 0 0 10]夷En serio? No encontramos ni una sola[n]pista...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003_1 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 11096]*sigh* Welp, ah胤 va mi motivaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 11096]*sigh* Welp, ah胤 va mi motivación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10092][f 6 1 2 0 0 9]Te est茨s rindiendo demasiado r茨pido.[n][f 1 3 65535][f 1 1][e]
@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1]Nos hemos convertido en famosos...[f 2 7 1 20 4 32][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 22116]S胤, supongo que una escena del crimen llamar胤a[n]la atenci吋n de la gente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 22116]S胤, supongo que una escena del crimen llamar胤a[n]la atención de la gente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 10078]Estoy bastante seguro de que no est茨n aqu胤[n]para vernos.[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 0]Entiendo. Probablemente quieran ver la escena[n]del crimen.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 2 0 1][f 3 1 1 0 0 25087][f 6 1 2 0 0 4]Alguien aqu胤 podr胤a saber qu姻 pas�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 2 0 1][f 3 1 1 0 0 25087][f 6 1 2 0 0 4]Alguien aqu胤 podr胤a saber qu姻 pasó.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 4 1 3][f 3 1 1 0 0 13006]Vamos a preguntar, entonces.[n][f 1 3 65535][f 1 1][e]
@@ -58,13 +58,13 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 16 12 0 1][f 3 1 1 0 0 0]夷Mitsuru-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13009]Oh, perd吋name. S胤, tambi姻n deber胤amos[n]preguntar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13009]Oh, perdóname. S胤, tambi姻n deber胤amos[n]preguntar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 3][f 3 1 1 0 0 21109]Estamos acabados al final.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 0]Parece que un robo ocurri� aqu胤; alguien le[n]rob� su billetera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 0]Parece que un robo ocurrió aqu胤; alguien le[n]robó su billetera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 4][f 3 1 1 0 0 22113]Parece que tambi姻n hab胤a m雨ltiples perps.[n]They surrounded the victim and charged in[n]all at once.[n][f 1 3 65535][f 1 1][e]
@@ -79,14 +79,14 @@
 [f 0 5 65278][f 2 1][f 4 6 12 4 0 3][f 3 1 1 0 0 12037][f 6 1 2 0 0 2]Ganando a alguien as胤... 斡Eso es muy bajo![n]斡No se escapar茨n con esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 0]Pero no obtuvimos ninguna pista de d吋nde[n]est茨n los culpables o c吋mo se ven... 夷Y[n]ahora qu姻?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 0]Pero no obtuvimos ninguna pista de dónde[n]est茨n los culpables o cómo se ven... 夷Y[n]ahora qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_024 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es demasiado pronto para rendirse.[f 2 7 1 20 6 32][e]
 [f 0 5 65278][f 2 1]Vamos a revisar otra escena del crimen.[f 2 7 1 20 12 0][e]
 
 [msg MSG_025 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 12 0 1][f 3 1 1 0 0 25068]S胤. Elizabeth marc� otros lugares para[n]nosotros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 12 0 1][f 3 1 1 0 0 25068]S胤. Elizabeth marcó otros lugares para[n]nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025_1 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Podemos aprender algo que sirva de pista.[n][f 1 3 65535][f 1 1][e]

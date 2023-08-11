@@ -6,16 +6,16 @@
 
 [msg MSG_002 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]斡Estoy emocionado pensando en construirlo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No he sido capaz de agarrar con ninguna de[n]estas mechs, as胤 que es una especie de[n]emoci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No he sido capaz de agarrar con ninguna de[n]estas mechs, as胤 que es una especie de[n]emoción...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 99 4][f 3 1 1 0 0 0]Mweheheh... Un paso m茨s cerca de evolucionar[n]hacia nuestras nuevas formas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 10 100 0][f 3 1 1 0 0 0]Sabes, algo me ocurri� cuando est茨bamos[n]hablando de la tecnolog胤a de la torreta...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 10 100 0][f 3 1 1 0 0 0]Sabes, algo me ocurrió cuando est茨bamos[n]hablando de la tecnolog胤a de la torreta...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 7 99 0][f 3 1 1 0 0 26562][f 6 1 2 0 0 6]夷Qu姻 tienes? 斡P吋nmelo encima![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 7 99 0][f 3 1 1 0 0 26562][f 6 1 2 0 0 6]夷Qu姻 tienes? 斡Pónmelo encima![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Esos dos son t姻cnicos de verdad, 夷eh? Parece[n]que incluso hacen esto en su tiempo[n]libre.[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Espera, 夷en serio? 斡Estamos en problemas[n]profundos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 4][f 3 1 1 0 0 14557]Trate de calmarse. Analizar姻 la situaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 4][f 3 1 1 0 0 14557]Trate de calmarse. Analizar姻 la situación.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 4][f 3 1 1 0 0 0]Rise-chan, por favor busca una ruta segura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Rise]]

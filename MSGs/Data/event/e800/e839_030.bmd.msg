@@ -24,16 +24,16 @@
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 21069]S胤. No parecen peligrosos, as胤 que podr胤a[n]darle una oportunidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0]Muy bien, mu姻stranos c吋mo est茨 hecho.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0]Muy bien, mu姻stranos cómo est茨 hecho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 21012]Vale. 斡Bud! Oye, amigo, 夷tienes un segundo?[n]Estamos buscando algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Flor Relajada]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Eres una flor extra�a.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Eres una flor extraña.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Flor Alegre]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Pero mira c吋mo brilla su polen en el sol![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Pero mira cómo brilla su polen en el sol![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 21082][f 6 1 2 0 0 10]Eso no es polen, es mi pelo, ya raro. De[n]todos modos, estamos buscando esta cosa...[n][f 1 3 65535][f 1 1][e]
@@ -66,7 +66,7 @@
 
 [msg MSG_021 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 2 0 1][f 3 1 1 0 0 11031]夷Por qu姻 no me dejas manejar esto?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Con mis poderes de persuasi吋n, les contar姻[n]dulcemente en derramar los frijoles![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Con mis poderes de persuasión, les contar姻[n]dulcemente en derramar los frijoles![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]斡Por qu姻 hola, amiguitos![n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Nunca! 斡Qu姻 cosa incre胤blemente inapropiada[n]para decir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Flor Alegre]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]夷Tu madre no te ense�� modales cuando eras[n]una semilla?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]夷Tu madre no te enseñó modales cuando eras[n]una semilla?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11061][f 6 1 2 0 0 4]夷Eh? Espera, 夷qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -85,10 +85,10 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 6 1 2 0 0 7][f 3 1 1 0 0 0]斡Vuelve a cantar! Ahem... Cuando los rayos[n]brillan sobre m胤 me regocijo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11083]斡Vamos! S吋lo quiero preguntar por esta cosa[n]que estamos buscando...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11083]斡Vamos! Sólo quiero preguntar por esta cosa[n]que estamos buscando...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Flor Alegre]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 6 1 2 0 0 7][f 3 1 1 0 0 0]Por el tiempo eterno, todos nos basamos en[n]este sol por elecci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 6 1 2 0 0 7][f 3 1 1 0 0 0]Por el tiempo eterno, todos nos basamos en[n]este sol por elección.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Junpei]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 11 5 0 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -97,7 +97,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Um... Est茨n muy cautelosos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12002][f 6 1 2 0 0 4]夷Qu姻 pas� con tus incre胤bles poderes de[n]persuasi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12002][f 6 1 2 0 0 4]夷Qu姻 pasó con tus incre胤bles poderes de[n]persuasión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Amigo, no pueden ser razonados con![n][f 1 3 65535][f 1 1][e]
@@ -114,7 +114,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 3 1 1 0 0 3132]斡BIENVENIDO![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 3][f 3 1 1 0 0 0]Hm, eso siempre funcion� en Junes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 3][f 3 1 1 0 0 0]Hm, eso siempre funcionó en Junes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No lo entiendo; simplemente segu胤an cantando[n]esas palabras. 夷Qu姻 parece ser una[n]met茨fora para algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Chie]]
@@ -135,7 +135,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3062][f 6 1 2 0 0 0]夷Ahora responden?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 3 1 0 0][f 4 6 21 12 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡C茨llate, Yosuke! Hey, amigos, 夷qu姻 es[n]exactamente "lo negro"? 夷D吋nde podemos[n]encontrarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 1 0 0][f 4 6 21 12 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡C茨llate, Yosuke! Hey, amigos, 夷qu姻 es[n]exactamente "lo negro"? 夷Dónde podemos[n]encontrarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Flor Relajada]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Hehehehehehehehehehehe. La "cosa negra" fue[n]quitada.[n][f 1 3 65535][f 1 1][e]
@@ -154,7 +154,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷O sientes algo bajo tierra?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 0]Um... Es s吋lo un sentimiento vago, pero siento[n]algo por aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 0]Um... Es sólo un sentimiento vago, pero siento[n]algo por aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]No puedo explicarlo...[n][f 1 3 65535][f 1 1][e]

@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1]Entonces, 夷qui姻n es el siguiente?[f 2 7 1 64 12 0][e]
 
 [msg MSG_004 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 54031]*chuckle* Apenas puedes contener tu emoci吋n,[n]ya veo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 54031]*chuckle* Apenas puedes contener tu emoción,[n]ya veo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 54031]No hay necesidad de ser tan apresurada. Estoy[n]seguro de que lo sabr茨s pronto.[n]Hmhmhm...[n][f 1 3 65535][f 1 1][e]

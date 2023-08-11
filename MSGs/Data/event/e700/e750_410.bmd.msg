@@ -39,5 +39,5 @@
 
 [msg MSG_012 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 8 2 0 1][f 3 1 1 0 0 8076]Si esto funciona como lo hemos planeado,[n]deber胤amos poder montar el viento al otro[n]lado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No parece haber ninguna soluci吋n alternativa,[n]as胤 que vamos a intentarlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No parece haber ninguna solución alternativa,[n]as胤 que vamos a intentarlo.[n][f 1 3 65535][f 1 1][e]
 

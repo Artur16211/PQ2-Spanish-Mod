@@ -66,14 +66,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tal vez ahora est姻s callado cuando te digamos[n]que est姻s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 8 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Maldita sea, esto es tan vergonzoso. Incluso[n]Panther se uni� a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 8 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Maldita sea, esto es tan vergonzoso. Incluso[n]Panther se unió a...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]... 斡Argh, no tengo tiempo para esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 81 1 0 3][f 3 1 1 0 0 61050]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 hay de dejar atr茨s este mushy y hacer[n]nuestra misi吋n? Hikari, 夷encontraste lo[n]que buscabas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 hay de dejar atr茨s este mushy y hacer[n]nuestra misión? Hikari, 夷encontraste lo[n]que buscabas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 3][f 3 1 1 0 0 0]斡S胤! Esto es lo que sent胤.[n][f 1 3 65535][f 1 1][e]
@@ -85,7 +85,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]No podr胤a haberlo hecho sin todos ustedes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025_2 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]Me alegra que todo haya funcionado. Si alguna[n]vez necesitas ayuda de nuevo, sabes[n]d吋nde encontrarme.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]Me alegra que todo haya funcionado. Si alguna[n]vez necesitas ayuda de nuevo, sabes[n]dónde encontrarme.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11030]斡Vendr姻 corriendo a Hikari en una colina![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Hikari]]

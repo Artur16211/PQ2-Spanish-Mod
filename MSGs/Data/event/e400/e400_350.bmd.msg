@@ -1,5 +1,5 @@
 [msg MSG_000 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 3]Esto es s吋lo... Es tan horrible.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 3]Esto es sólo... Es tan horrible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 4 0 1][f 3 1 1 0 0 2][f 6 1 2 0 0 2]*Growl* 斡Barco, corteza![n][f 1 3 65535][f 1 1][e]
@@ -10,10 +10,10 @@
 
 [msg MSG_003 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 5]Basado en la apariencia de Hikari, este[n]incidente parece haber ocurrido[n]recientemente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 3]Pensar que hab胤a estado en el extremo receptor[n]de tanta presi吋n de sus parientes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 3]Pensar que hab胤a estado en el extremo receptor[n]de tanta presión de sus parientes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Escuela Secundaria Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 40 14 1 3][f 3 1 1 0 0 7]Soy diferente de todas las otras chicas...[n]Soy extra�o... Una anormalidad no buena...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 40 14 1 3][f 3 1 1 0 0 7]Soy diferente de todas las otras chicas...[n]Soy extraño... Una anormalidad no buena...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 1 1][f 3 1 1 0 0 8][f 6 1 2 0 0 6]斡Eso no importa! Soy un poco diferente de lo[n]normal...[n][f 1 3 65535][f 1 1][e]
@@ -26,13 +26,13 @@
 [f 0 5 65278][f 2 1][f 4 6 81 8 2 1][f 3 1 1 0 0 11][f 6 1 2 0 0 10]斡Eso no es verdad! 斡La individualidad no es[n]un error![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Escuela Secundaria Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 40 0 0 0][f 3 1 1 0 0 12]Todos dicen que soy raro... Dicen que llamarlo[n]"individualidad" es s吋lo una excusa...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 40 0 0 0][f 3 1 1 0 0 12]Todos dicen que soy raro... Dicen que llamarlo[n]"individualidad" es sólo una excusa...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Escuela Secundaria Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 40 16 1 0][f 3 1 1 0 0 14]Mi sue�o de por vida me llevar茨 a ninguna[n]parte. Ni siquiera puedo corregir mis[n]propios errores.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 40 16 1 0][f 3 1 1 0 0 14]Mi sueño de por vida me llevar茨 a ninguna[n]parte. Ni siquiera puedo corregir mis[n]propios errores.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 40 12 1 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]En el fondo, sin embargo... Yo... 斡No quiero[n]suprimir mi verdadero yo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Hikari]]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 40 18 1 0][f 3 1 1 0 0 30][f 6 1 2 0 0 1]...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 99 0][f 3 1 6 0 0 500][f 3 1 1 0 0 31][f 6 1 2 0 0 6]斡Tiene raz吋n, Hikari! 斡Salgamos de aqu胤 y[n]todos vayan juntos a casa![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 99 0][f 3 1 6 0 0 500][f 3 1 1 0 0 31][f 6 1 2 0 0 6]斡Tiene razón, Hikari! 斡Salgamos de aqu胤 y[n]todos vayan juntos a casa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 40 19 1 0][f 4 6 81 16 2 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]As胤 es... 斡Quer胤a hacer algo![n][f 1 3 65535][f 1 1][e]
@@ -87,9 +87,9 @@
 [f 0 5 65278][f 2 1][f 4 6 58 0 1 0][f 3 1 1 0 0 34][f 6 1 2 0 0 6]As胤 es, no eres normal. 斡Sigue con esa actitud[n]y solo terminar茨s miserable![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Escuela Secundaria Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 40 15 1 0][f 3 1 1 0 0 35]Mi sue�o... La gente con la que quiero[n]estar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 40 15 1 0][f 3 1 1 0 0 35]Mi sueño... La gente con la que quiero[n]estar...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 40 16 1 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]Yo... 斡Quiero quedarme con la persona que s姻[n]que soy![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡No quiero descartar toda mi identidad s吋lo[n]por algunas ideas que intentas forzarme![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡No quiero descartar toda mi identidad sólo[n]por algunas ideas que intentas forzarme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [La T胤a De Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 3 0 0 3][f 6 1 2 0 0 2]夷Todav胤a nos est茨s desafiando? Bien... Te[n]pondremos derecho.[n][f 1 3 65535][f 1 1][e]

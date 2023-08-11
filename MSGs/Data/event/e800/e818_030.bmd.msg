@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]This is going a lot smoother than I[n]expected. I guess it won't be too[n]hard with all of us here.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 6 0 1][f 3 1 1 0 0 23033]Fantasma Treeves veces tres, 夷eh?[n]Aunque, en este momento, no me siento como un ladr吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 6 0 1][f 3 1 1 0 0 23033]Fantasma Treeves veces tres, 夷eh?[n]Aunque, en este momento, no me siento como un ladrón.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Eso es 3 veces el poder de ataque.[f 2 7 1 20 0 32][e]
@@ -21,10 +21,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 4 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19139][f 6 1 2 0 0 0]That's what you're worried about!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No, tiene raz吋n. Los fans de Junpei en[n]todo el mundo van a estar muy decepcionados.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No, tiene razón. Los fans de Junpei en[n]todo el mundo van a estar muy decepcionados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 3][f 4 6 10 6 0 4][f 3 1 1 0 0 10091]夷De qu姻 est茨s hablando? Incluso la fe[n]perdida en ti.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 3][f 4 6 10 6 0 4][f 3 1 1 0 0 10091]What're you talking about? Even[n][f 6 1 27 0 0 0]'s lost faith in you.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]......[n][f 1 3 65535][f 1 1][e]
@@ -58,37 +58,37 @@
 
 [sel SEL_019 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]S胤.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]夷C吋mo?[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]夷Cómo?[f 2 7 1 20 0 32][e]
 
 [msg MSG_020 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 10013]Probablemente quer胤a asegurarse de que[n][f 6 1 27 0 0] no se sent胤a inc吋modo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 10013]He probably wanted to make sure[n][f 6 1 27 0 0 0] didn't feel[n]uncomfortable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 100 0][f 3 1 1 0 0 0][f 6 1 27 0 0 0]-chan se estaba riendo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14531]畏l estaba tratando de ayudar [f 6 1 27 0 0]-chan sentir m茨s en casa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14531]He was trying to help[n][f 6 1 27 0 0 0]-chan feel more at[n]home.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]Ese Junpei... Siempre tratando de ayudar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14579]Pero creo que la est茨 ayudando a abrir un poco.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Ahora, 夷nos vamos? Nuestro pr吋ximo destino es 3-F.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Ahora, 夷nos vamos? Nuestro próximo destino es 3-F.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10068]Lo tengo. No queremos caer detr茨s de[n]Junpei, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14579]Pero creo que la est茨 ayudando a abrir un poco.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Ahora, 夷nos vamos? Nuestro pr吋ximo destino es 4-B.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Ahora, 夷nos vamos? Nuestro próximo destino es 4-B.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10068]Lo tengo. No queremos caer detr茨s de[n]Junpei, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14579]Pero creo que la est茨 ayudando a abrir un poco.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Ahora, 夷nos vamos? Nuestro pr吋ximo[n]destino es 4-B o 3-F.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Ahora, 夷nos vamos? Nuestro próximo[n]destino es 4-B o 3-F.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10068]Lo tengo. No queremos caer detr茨s de[n]Junpei, 夷verdad?[n][f 1 3 65535][f 1 1][e]

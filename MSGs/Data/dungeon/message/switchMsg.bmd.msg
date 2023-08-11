@@ -1,20 +1,20 @@
 [msg S00_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se rompi鍚 el interruptor.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se rompi贸 el interruptor.[n][f 1 1][e]
 
 [msg S01_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Volteaste el interruptor firmemente en su[n]otra posici鍚媙.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Volteaste el interruptor firmemente en su[n]otra posici贸n.[n][f 1 1][e]
 
 [msg S02_DG_GIMMICK_SWITCH_MS]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ha sido volteado.[n][f 1 1][e]
 
 [msg S03_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ya ha sido volteado firmemente[n]en su otra posici鍚媙.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ya ha sido volteado firmemente[n]en su otra posici贸n.[n][f 1 1][e]
 
 [msg S04_DG_GIMMICK_CHANGE_SW]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se ha encendido el interruptor.[n][f 1 1][e]
 
 [msg S05_DG_GIMMICK_CHANGE_SW]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Cogi鍚 el interruptor a OFF.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Cogi贸 el interruptor a OFF.[n][f 1 1][e]
 
 [msg S06_DG_GIMMICK_CHANGE_SE]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Los reflectores han sido apagados.[n][f 1 1][e]
@@ -23,10 +23,10 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Los reflectores ya est鑼╪ apagados.[n][f 1 1][e]
 
 [msg S08_DG_GIMMICK_CHANGE_SE]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El patr鍚媙 de los reflectores ha cambiado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El patr贸n de los reflectores ha cambiado.[n][f 1 1][e]
 
 [msg S09_DG_GIMMICK_KAITENSAK]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Rot鍚 la jaula.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Rot贸 la jaula.[n][f 1 1][e]
 
 [msg S10_DG_GIMMICK_DENKISAKU]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]La puerta el濮籧trica ha sido apagada[n]temporalmente.[n][f 1 1][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se utilizaron los ascensores.[n][f 1 1][e]
 
 [msg S13_DG_GIMMICK_BOUHU_OPE]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]La direcci鍚媙 del viento cambi鍚.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]La direcci贸n del viento cambi贸.[n][f 1 1][e]
 
 [msg S14_DG_GIMMICK_SERI_FIRS]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se utilizaron los ascensores.[n][f 1 1][e]

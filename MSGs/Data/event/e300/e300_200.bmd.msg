@@ -43,7 +43,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 6 0 6][f 3 1 1 0 0 0]Eso es peor que morir... Es como si estuvieran[n]siendo ejecutados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 35 1 0 3][f 4 6 24 0 0 0][f 3 1 1 0 0 24022]夷C吋mo entramos? Parece que est茨 cerrado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 35 1 0 3][f 4 6 24 0 0 0][f 3 1 1 0 0 24022]夷Cómo entramos? Parece que est茨 cerrado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]PARA DESHACER ESTA PUERTA, POR FAVOR VENGA[n]POR AQU緯.[n][f 1 3 65535][f 1 1][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A MENOS QUE SE CONOZCAN TODAS LAS TRES ETAPAS,[n]SER畏IS DESIGNADOS COMO DEFENSIVO Y[n]DENIGRADO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 13040][f 6 1 2 0 0 3]B茨sicamente, son similares a las pruebas de[n]capacidad profesional y ex茨menes de[n]calificaci吋n. Parece que esto no ser茨[n]f茨cil...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 13040][f 6 1 2 0 0 3]B茨sicamente, son similares a las pruebas de[n]capacidad profesional y ex茨menes de[n]calificación. Parece que esto no ser茨[n]f茨cil...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Do you think you could pass these[n]exams, Ribbon-chan?[n][f 1 3 65535][f 1 1][e]
@@ -95,11 +95,11 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11099][f 6 1 2 0 0 0]Eso es confianza... Pero en serio, 夷qu姻 tan[n]valiente eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23031]Ah, una reclamaci吋n que corresponde a un[n]ladr吋n fantasma![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23031]Ah, una reclamación que corresponde a un[n]ladrón fantasma![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Hemos pasado por innumerables chatarras como[n]estas con la misma actitud![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 0]Esperaba que la infiltraci吋n fuera tu fuerte.[n]Definitivamente deber胤amos dirigirnos[n]a los Ladrones Fantasma para orientarnos[n]en esta misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 0]Esperaba que la infiltración fuera tu fuerte.[n]Definitivamente deber胤amos dirigirnos[n]a los Ladrones Fantasma para orientarnos[n]en esta misión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19107][f 6 1 2 0 0 6]Then we've got our orders! Everyone,[n]time to roll out![n][f 1 3 65535][f 1 1][e]
@@ -113,7 +113,7 @@
 
 [msg MSG_034 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 1][f 3 1 1 0 0 13092][f 6 1 2 0 0 3]En serio, ustedes dos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Sin embargo, tienen un punto: no tenemos[n]tiempo para perder. 夷C吋mo debemos manejar[n]estos ex茨menes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Sin embargo, tienen un punto: no tenemos[n]tiempo para perder. 夷Cómo debemos manejar[n]estos ex茨menes?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_035 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Qu姻 tal una a la vez?[f 2 7 1 20 0 32][e]
@@ -145,19 +145,19 @@
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 7107][f 6 1 2 0 0 6]斡Correcto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 9128]斡Lo s姻! 斡Voy a acompa�ar a Chie-chan al examen[n]de "Power"![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 9128]斡Lo s姻! 斡Voy a acompañar a Chie-chan al examen[n]de "Power"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4062][f 6 1 2 0 0 0]夷Me est茨s ofreciendo? 斡Pero no hay otras[n]chicas en el equipo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, "Conocer" y "Adaptaci吋n" no son[n]exactamente sus fuertes trajes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, "Conocer" y "Adaptación" no son[n]exactamente sus fuertes trajes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4125][f 6 1 2 0 0 3]夷Qu姻? No puedo discutir con eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 21 12 0 3][f 3 1 1 0 0 21130]Oh, entonces si as胤 es como estamos decidiendo,[n]ir姻 a "Power" tambi姻n. No hay otra[n]opci吋n para m胤 aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 21 12 0 3][f 3 1 1 0 0 21130]Oh, entonces si as胤 es como estamos decidiendo,[n]ir姻 a "Power" tambi姻n. No hay otra[n]opción para m胤 aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 25089]Supongo que Oracle y yo deber胤amos tomar el[n]examen de "Reconocimiento"? Conf胤o en[n]cualquier simple problema de[n]inteligencia...[n][f 1 3 65535][f 1 1][e]
@@ -169,7 +169,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 4][f 3 1 1 0 0 23032][f 6 1 2 0 0 6]斡No te olvides de m胤! 斡Soy el cerebro de los[n]Fantasmas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3030]斡Entonces cont姻 para "Conocer" tambi姻n! Soy[n]el jefe de operaciones del Equipo de[n]Investigaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3030]斡Entonces cont姻 para "Conocer" tambi姻n! Soy[n]el jefe de operaciones del Equipo de[n]Investigación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 12 0 1][f 3 1 1 0 0 5018][f 6 1 2 0 0 4]夷Eh? 夷En serio? 夷Desde cu茨ndo?[n][f 1 3 65535][f 1 1][e]
@@ -184,7 +184,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28072]Ir姻 all胤 tambi姻n. Puede que no sea obvio,[n]pero soy detective entrenando todo lo[n]mismo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 12 0 1][f 3 1 1 0 0 5069]Entonces el 雨ltimo es "Adaptaci吋n"...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 12 0 1][f 3 1 1 0 0 5069]Entonces el 雨ltimo es "Adaptación"...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que puedo manejarlo, ya que trato con[n]los clientes todos los d胤as.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Yusuke]]
@@ -195,7 +195,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0]Creo que podr胤as usar un poco m茨s de sentido[n]com雨n... De todos modos, Fox va a[n]"Adaptation"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22001]夷Te importa si me uno? He vivido tanto en el[n]extranjero como en Jap吋n, as胤 que creo[n]que mi adaptabilidad es bastante s吋lida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22001]夷Te importa si me uno? He vivido tanto en el[n]extranjero como en Japón, as胤 que creo[n]que mi adaptabilidad es bastante sólida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 27067]Yo tambi姻n ir姻 a "Adaptation". Creo que ser胤a[n]mejor que con las otras opciones.[n][f 1 3 65535][f 1 1][e]
@@ -210,7 +210,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10011]Creo que tambi姻n ir姻 a "Adaptation". Estoy[n]en el club de tiro, as胤 que creo que mi[n]enfoque ser茨 雨til...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 35 1 0 1][f 4 6 26 0 0 6][f 3 1 1 0 0 26089][f 6 1 2 0 0 4]夷D吋nde quieres ir, Ribbon? 夷Eres competente[n]en alguno de estos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 35 1 0 1][f 4 6 26 0 0 6][f 3 1 1 0 0 26089][f 6 1 2 0 0 4]夷Dónde quieres ir, Ribbon? 夷Eres competente[n]en alguno de estos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35001]YO SOY UNA VIAJE, UNIDAD PERSPECTIVA GENERAL.[n][f 1 3 65535][f 1 1][e]
@@ -252,7 +252,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]ENTENDIDO. ESTOY EN TU COCHE.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Joker, [f 6 1 12 0 0]-kun, y [f 6 1 26 0 0 0][n]-san son los 雨nicos que quedan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Joker, [f 6 1 12 0 0 0]-kun, and[n][f 6 1 26 0 0 0]-san are the only[n]ones left...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Es solo una idea, pero 夷y si los tenemos como[n]l胤deres de los tres equipos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Ann]]
@@ -262,7 +262,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 9 2 0 3][f 3 1 1 0 0 9129][f 6 1 2 0 0 6]Sensei siempre es nuestro l胤der, as胤 que[n]ser胤a un actor perfecto para el papel![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3067][f 6 1 2 0 0 7]Cierto. Definitivamente puedo responder por[n]su liderazgo. 夷No es as胤, compa�ero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3067][f 6 1 2 0 0 7]Cierto. Definitivamente puedo responder por[n]su liderazgo. 夷No es as胤, compañero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28002][f 6 1 2 0 0 4]夷Qu姻 tal t雨, [f 6 1 26 0 0]-san? 夷Estar胤as[n]bien con actuar como l胤der de equipo?[n][f 1 3 65535][f 1 1][e]
@@ -281,7 +281,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 1 0 3][f 4 6 10 0 0 1][f 3 1 1 0 0 10010][f 6 1 2 0 0 4]Um... 夷Qu姻 debemos hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_087 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11032][f 6 1 2 0 0 6]Est茨 m茨s que bien por m胤. Tener a una chica[n]l胤der es como un sue�o![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11032][f 6 1 2 0 0 6]Est茨 m茨s que bien por m胤. Tener a una chica[n]l胤der es como un sueño![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_088 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 0]Tampoco tengo problemas. Si algo fuera a[n]bajar durante el examen, todo lo que tendr胤a[n]que hacer es proporcionar su respaldo.[n][f 1 3 65535][f 1 1][e]
@@ -310,7 +310,7 @@
 [sel SEL_096 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]"Power"[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]"Conocer"[f 2 7 1 20 0 32][e]
-[f 0 5 65278][f 2 1]"Adaptaci吋n"[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]"Adaptación"[f 2 7 1 20 0 32][e]
 
 [msg MSG_097 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12049][f 6 1 2 0 0 6]夷Oh? Confiado en tu fuerza f胤sica, 夷verdad?[n]Muy bien, entonces vamos a poner sus[n]habilidades en contra de Shinji y el m胤o![n][f 1 3 65535][f 1 1][e]
@@ -346,7 +346,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 1][f 3 1 1 0 0 22072]S胤, eres muy vers茨til. Puedo imaginar que[n]manejas mucho en cualquier lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_108 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]S胤, 斡se acost� a vivir en el 茨tico de Leblanc[n]muy r茨pido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]S胤, 斡se acostó a vivir en el 茨tico de Leblanc[n]muy r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_109 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 35 0 0 1][f 3 1 1 0 0 35002]ENTIENDO. TE ACONSEJO QUE HAGAS LA[n]"ADAPTACI遺N"[n][f 1 3 65535][f 1 1][e]
@@ -359,7 +359,7 @@
 
 [msg MSG_112 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 23072]Muy bien, ahora tenemos tres equipos. La[n]mejor suerte para todos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que hayamos pulsado con 姻xito el[n]bot吋n, reun茨monos aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que hayamos pulsado con 姻xito el[n]botón, reun茨monos aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_113 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 4][f 3 1 1 0 0 14504][f 3 1 6 0 0 500]Parece que los navegantes no vamos a poder[n]contactar con usted durante los ex茨menes[n]debido a la seguridad extraordinaria.[n][f 1 3 65535][f 1 1][e]

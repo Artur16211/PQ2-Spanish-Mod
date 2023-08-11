@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Perm胤tame presentarle...[n][f 1 2 35][f 1 1][e]
 
 [msg MSG_004_01]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Describi� sus propias luchas en la pel胤cula[n]"New Cinema Laberrinth". Su nombre es..[n][f 1 2 170][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Describió sus propias luchas en la pel胤cula[n]"New Cinema Laberrinth". Su nombre es..[n][f 1 2 170][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 0 6 255 255]�[n][f 1 2 30][f 1 1][e]

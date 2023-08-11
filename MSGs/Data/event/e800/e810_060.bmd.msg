@@ -81,7 +81,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 1 1 0 1][f 4 6 7 10 0 4][f 3 1 1 0 0 7047]Whoa! Eso es enorme...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 25 2 0 6][f 3 1 1 0 0 0]A juzgar por el tama�o, estoy seguro de que[n]este es el pez que estamos buscando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 25 2 0 6][f 3 1 1 0 0 0]A juzgar por el tamaño, estoy seguro de que[n]este es el pez que estamos buscando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 2 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1026]Whew... Thanks. It was supposed to be a[n]duel, but you still stepped in to help me.[n][f 1 3 65535][f 1 1][e]
@@ -92,13 +92,13 @@
 
 [msg MSG_028 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 10 1 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]Our leader...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 3 1 1 0 0 1066]Tienes raz吋n. Habr胤a hecho lo mismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 3 1 1 0 0 1066]Tienes razón. Habr胤a hecho lo mismo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1064][f 6 1 2 0 0 6]A team... Yeah, you're right![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 6][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Hab胤a como, un choque de poderes, y una cosa[n]de fusi吋n que era tan intensa![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 6][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Hab胤a como, un choque de poderes, y una cosa[n]de fusión que era tan intensa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 0]Ustedes dos pudieron pescar el pescado porque[n]trabajaron juntos.[n][f 1 3 65535][f 1 1][e]

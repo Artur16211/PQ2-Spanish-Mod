@@ -8,5 +8,5 @@
 
 [msg MSG_001 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 23073]Chie est茨 sacando todas las paradas. Apuesto[n]a que lo matar茨 en combate hoy.[n]斡Literalmente![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ganar una batalla es a veces todo sobre la[n]formaci吋n. 斡Recuerda eso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ganar una batalla es a veces todo sobre la[n]formación. 斡Recuerda eso![n][f 1 3 65535][f 1 1][e]
 

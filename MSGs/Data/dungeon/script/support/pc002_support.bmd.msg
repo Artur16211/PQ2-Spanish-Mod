@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2307]Parece que el FOE se fue...[n][f 1 6 65535][e]
 
 [msg P3_HERO_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2308]Supongo que FOE se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2308]Supongo que FOE se rindió.[n][f 1 6 65535][e]
 
 [msg P3_HERO_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2369]Intentemos no ser vistos...[n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2309]Hay un FOE despu姻s de nosotros... 夷Qu姻 debemos[n]hacer?[n][f 1 6 65535][e]
 
 [msg P3_HERO_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2310]Algo desagradable en nuestra cola... 夷C吋mo[n]est茨 nuestra salud?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2310]Algo desagradable en nuestra cola... 夷Cómo[n]est茨 nuestra salud?[n][f 1 6 65535][e]
 
 [msg P3_HERO_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2311]Viene un FOE. Mantente alerta.[n][f 1 6 65535][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2315]En la puerta de la muerte...[n][f 1 6 65535][e]
 
 [msg P3_HERO_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2316]S胤, si pudiera conseguir algo de curaci吋n...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2316]S胤, si pudiera conseguir algo de curación...[n][f 1 6 65535][e]
 
 [msg P3_HERO_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2317]Me duele mucho...[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2343]Est茨s realmente organizado. Gracias por[n]manejarlo.[n][f 1 6 65535][e]
 
 [msg P3_HERO_MAPPING_ICON_KAI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2344]Perfecto. Sabemos exactamente d吋nde est茨n[n]las escaleras ahora.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2344]Perfecto. Sabemos exactamente dónde est茨n[n]las escaleras ahora.[n][f 1 6 65535][e]
 
 [msg P3_HERO_MAPPING_ICON_KAI_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2345]As胤 es. Hay una escalera justo ah胤.[n][f 1 6 65535][e]

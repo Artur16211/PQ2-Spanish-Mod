@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 4 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 1]斡No te hagas el tonto, idiota sin ley![n]斡Personal de la paz![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Es "ladr吋n fantasma"[f 2 7 1 64 6 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Es "ladrón fantasma"[f 2 7 1 64 6 32][e]
 [f 0 5 65278][f 2 1]Lo siento, 夷qu姻?[f 2 7 1 64 4 32][e]
 
 [msg MSG_009 [Elizabeth]]
@@ -55,33 +55,33 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Velvet Marine? Velvet Aqua?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 0 1 4][f 3 1 1 0 0 17]Velvet Sapphire. T雨 fuiste el que se le[n]ocurri�. 夷C吋mo pudiste olvidarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 0 1 4][f 3 1 1 0 0 17]Velvet Sapphire. T雨 fuiste el que se le[n]ocurrió. 夷Cómo pudiste olvidarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 6 0 4][f 3 1 1 0 0 18][f 6 1 2 0 0 9]Ya estoy tan cansada de esto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 4 0 1][f 3 1 1 0 0 19][f 6 1 2 0 0 1]Bueno... 斡En cualquier caso! 斡Este malhechor[n]no se content� simplemente trabaj茨ndonos[n]al hueso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 0 1][f 3 1 1 0 0 19][f 6 1 2 0 0 1]Bueno... 斡En cualquier caso! 斡Este malhechor[n]no se contentó simplemente trabaj茨ndonos[n]al hueso![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 20]斡No, se fue m茨s lejos! 斡畏l vio apropiado para[n]pilfer nuestra reserva oculta de perros[n]calientes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]斡El mal debe ser castigado! 夷No es as胤,[n]Caroline?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 0 1 1][f 3 1 1 0 0 22]斡As胤 es! 夷Qu姻, no fue suficiente para huir[n]de la rehabilitaci吋n? 夷Tuviste que hundirte[n]incluso m茨s abajo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 0 1 1][f 3 1 1 0 0 22]斡As胤 es! 夷Qu姻, no fue suficiente para huir[n]de la rehabilitación? 夷Tuviste que hundirte[n]incluso m茨s abajo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 76 1 0 1][f 4 6 75 0 1 4][f 3 1 1 0 0 23]夷Era esta farsa realmente necesaria?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 10 1 4][f 3 1 1 0 0 24]En la sociedad humana, aparentemente es[n]costumbre. Uno no puede herir a los malhechores[n]sin un mon吋logo expositivo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 10 1 4][f 3 1 1 0 0 24]En la sociedad humana, aparentemente es[n]costumbre. Uno no puede herir a los malhechores[n]sin un monólogo expositivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 78 4 0 1][f 3 1 1 0 0 25][f 6 1 2 0 0 1]斡Pagar茨s por esos perros calientes que robaste,[n]Recluso! 斡Ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 4][f 3 1 1 0 0 26]斡Ese es el esp胤ritu, Caroline![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Uno no necesita pasar por los movimientos.[n]Un poco de inversi吋n personal puede ser[n]muy motivador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Uno no necesita pasar por los movimientos.[n]Un poco de inversión personal puede ser[n]muy motivador.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_029 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]夷Las mociones de qu姻?[f 2 7 1 64 12 0][e]
@@ -99,14 +99,14 @@
 
 [msg MSG_033 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 32]Esto no es una b雨squeda oficial. Por lo tanto,[n]no hay billete emitido para 姻l.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 33]Si puedo ser franco, esta es nuestra solicitud[n]ego胤sta... una elecci吋n de nuestra[n]propia voluntad sin adulterar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 33]Si puedo ser franco, esta es nuestra solicitud[n]ego胤sta... una elección de nuestra[n]propia voluntad sin adulterar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 12 0 1][f 3 1 1 0 0 34]El poder y los v胤nculos que has ganado...[n]S吋lo pod胤amos preguntarnos: 夷c吋mo nos[n]afectar胤an?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 35]Nada pasa simplemente por casualidad. S吋lo[n]hay inevitabilidades...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 12 0 1][f 3 1 1 0 0 34]El poder y los v胤nculos que has ganado...[n]Sólo pod胤amos preguntarnos: 夷cómo nos[n]afectar胤an?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 35]Nada pasa simplemente por casualidad. Sólo[n]hay inevitabilidades...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 1][f 3 1 1 0 0 36][f 6 1 2 0 0 1]En otras palabras, su robo de perro caliente[n]fue una parte inevitable de su[n]rehabilitaci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 1][f 3 1 1 0 0 36][f 6 1 2 0 0 1]En otras palabras, su robo de perro caliente[n]fue una parte inevitable de su[n]rehabilitación![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Soy inocente.[f 2 7 1 64 12 0][e]
@@ -121,7 +121,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 40]Al hacer la batalla, podemos resolver el[n]asunto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 41]No te forzaremos. Esto es simplemente una[n]petici吋n de nosotros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 41]No te forzaremos. Esto es simplemente una[n]petición de nosotros.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 6 0 0][f 3 1 1 0 0 42]Y tampoco necesitas reclamar la victoria[n]total. Ciertamente, eso parece un poco m茨s[n]all茨 de tus habilidades.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Caroline]]
@@ -129,8 +129,8 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 44]Robar esos perros calientes es una ofensa[n]capital, pero no te ejecutar胤amos sin el[n]permiso de nuestro maestro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 45]Dicho esto, el prop吋sito de esta prueba es[n]probar los l胤mites de sus habilidades de[n]combate...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 46]Si no puedes derrotarnos, simplemente te[n]daremos una valoraci吋n de tu fuerza.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 45]Dicho esto, el propósito de esta prueba es[n]probar los l胤mites de sus habilidades de[n]combate...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 46]Si no puedes derrotarnos, simplemente te[n]daremos una valoración de tu fuerza.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_042 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]夷Y si ganamos?[f 2 7 1 64 2 32][e]
@@ -150,13 +150,13 @@
 
 [msg MSG_046 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 78 4 0 1][f 3 1 1 0 0 53]斡Muy bien, suficiente chitchat![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54][f 6 1 2 0 0 1]La conclusi吋n es que te estamos castigando[n]por tus cr胤menes. 夷Entendido, Recluso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54][f 6 1 2 0 0 1]La conclusión es que te estamos castigando[n]por tus cr胤menes. 夷Entendido, Recluso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 4][f 3 1 1 0 0 55]Parece que tus malhechores han dejado a[n]Caroline en algo mareado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 0 0 4][f 3 1 1 0 0 56]Bueno, encontr� tanta alegr胤a en comer esos[n]perros calientes mientras ve胤a las[n]pel胤culas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 0 0 4][f 3 1 1 0 0 56]Bueno, encontró tanta alegr胤a en comer esos[n]perros calientes mientras ve胤a las[n]pel胤culas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 57][f 6 1 2 0 0 2]斡Arrrgh! 斡C茨llate! 斡Si no vas a empezar esto,[n]lo har姻![n][f 1 3 65535][f 1 1][e]
@@ -186,8 +186,8 @@
 [f 0 5 65278][f 2 1][f 4 6 78 2 0 0][f 3 1 1 0 0 65][f 6 1 2 0 0 1]As胤 que est茨s listo para enfrentar tu castigo,[n]夷eh? 斡Entonces vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 66]Es importante mantenerse en buenas condiciones...[n]pero para una batalla de nuestra[n]petici吋n, especialmente as胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 67]T吋mate un tiempo para prepararte. Estaremos[n]esperando, Recluso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 66]Es importante mantenerse en buenas condiciones...[n]pero para una batalla de nuestra[n]petición, especialmente as胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 67]Tómate un tiempo para prepararte. Estaremos[n]esperando, Recluso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 0 1][f 3 1 1 0 0 68]Me alegra verte volver.[n][f 1 3 65535][f 1 1][e]

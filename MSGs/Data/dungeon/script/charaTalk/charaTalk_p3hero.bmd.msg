@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2065]Claro. DeberËÉ§amos hacerlo bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2069]Siempre podemos volver si cambiamos de[n]opiniÂêãn.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2069]Siempre podemos volver si cambiamos de[n]opini√≥n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 2041]Parece que hemos terminado.[n][f 1 3 65535][f 1 1][e]

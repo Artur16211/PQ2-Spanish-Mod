@@ -9,19 +9,19 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Est茨s mirando a [f 6 1 27 0 0] tan intensamente[n]que est茨 empezando a hacerme sentir[n]un poco celoso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15001]Todo el mundo lo mencion� antes, pero yo[n]tambi姻n tengo curiosidad sobre el tema.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15001]Todo el mundo lo mencionó antes, pero yo[n]tambi姻n tengo curiosidad sobre el tema.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me encontr姻 [f 6 1 27 0 0]-san hace poco[n]tiempo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, siento algo que me atrae hacia[n]ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5017]夷Podr胤a ser la misma sensaci吋n de la que[n]est茨bamos hablando?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]O, no me digas, 夷puedes ver algo s吋lo visible[n]a tus ojos rob吋ticos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5017]夷Podr胤a ser la misma sensación de la que[n]est茨bamos hablando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]O, no me digas, 夷puedes ver algo sólo visible[n]a tus ojos robóticos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4039][f 6 1 2 0 0 10]斡Basta! 夷Quieres decir que puede... ver[n]esp胤ritus?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15074][f 6 1 2 0 0 4]No tengo capacidades para detectar fen吋menos[n]sobrenaturales. 夷Te refieres a otra[n]funci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15074][f 6 1 2 0 0 4]No tengo capacidades para detectar fenómenos[n]sobrenaturales. 夷Te refieres a otra[n]función?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 26 6 1 6][f 3 1 1 0 0 26047]Tambi姻n tengo curiosidad. 夷Qu姻 otras funciones[n]especiales te est茨n cargando?[n][f 1 3 65535][f 1 1][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1]Puede ver los auras de la gente.[f 2 7 1 20 0 32][e]
 
 [msg MSG_009 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 6][f 3 1 1 0 0 5029][f 6 1 2 0 0 6]斡S胤, eso! Apuesto a que puede disparar rayos[n]X de sus ojos y analizar nuestros 吋rganos[n]con electricidad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 6][f 3 1 1 0 0 5029][f 6 1 2 0 0 6]斡S胤, eso! Apuesto a que puede disparar rayos[n]X de sus ojos y analizar nuestros órganos[n]con electricidad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 8116][f 6 1 2 0 0 4]U-Um... 夷Es verdad?[n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 8033][f 6 1 2 0 0 9]Eso es lo que hab胤a imaginado...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 4 1 6][f 3 1 1 0 0 4045][f 6 1 2 0 0 0]夷Puedes ver qu姻? 夷C吋mo es mi aura?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 4 1 6][f 3 1 1 0 0 4045][f 6 1 2 0 0 0]夷Puedes ver qu姻? 夷Cómo es mi aura?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 2 0][f 3 1 1 0 0 0]Apuesto a que es de raza media, Chie...[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 14 1 0][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]斡Estaba siendo sarc茨stico! Quiero decir, dudo[n]mucho que tenga funciones ps胤quicas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0]Estoy incierto si se podr胤a llamar correctamente[n]una funci吋n, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0]Estoy incierto si se podr胤a llamar correctamente[n]una función, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3059][f 6 1 2 0 0 0]Espera, 夷s胤?[n][f 1 3 65535][f 1 1][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 13 2 1 0][f 3 1 1 0 0 13023]Debe significar que es capaz de percibir[n]asuntos que son m茨s espirituales, en lugar[n]de verlos con sus ojos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷algo como... su coraz吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷algo como... su corazón?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15010]S胤... Siento que es un an茨logo apropiado.[n][f 1 3 65535][f 1 1][e]

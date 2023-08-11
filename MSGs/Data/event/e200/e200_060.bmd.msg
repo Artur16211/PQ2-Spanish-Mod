@@ -5,16 +5,16 @@
 [f 0 5 65278][f 2 1][f 4 6 22 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Por qu姻 est茨n en el suelo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_002 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Muri� aqu胤.[f 2 7 1 20 0 32][e]
-[f 0 5 65278][f 2 1]Se comi�.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Es s吋lo una r姻plica.[f 2 7 1 20 4 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Murió aqu胤.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Se comió.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]Es sólo una r姻plica.[f 2 7 1 20 4 32][e]
 
 [msg MSG_003 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 4][f 3 1 1 0 0 25067]Es verdad, pero la verdadera pregunta es por[n]qu姻 muri�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 4][f 3 1 1 0 0 25067]Es verdad, pero la verdadera pregunta es por[n]qu姻 murió.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 4][f 3 1 1 0 0 0]Es posible que muriera de causas naturales...[n]pero todav胤a hay otra posibilidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Se comi�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Se comió?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 22 10 1 0][f 3 1 1 0 0 0]Entonces, 夷eso significa que hay un... hm,[n]algo como "trainasaurus rex"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
@@ -61,5 +61,5 @@
 
 [msg MSG_018 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26592][f 3 1 6 0 0 500]Oye, Fox... Si vas a hacer algo imprudente,[n]hazlo t雨 solo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]S吋lo ignora ese raro, y si sientes que est茨s[n]en peligro, vuelve, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]Sólo ignora ese raro, y si sientes que est茨s[n]en peligro, vuelve, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 

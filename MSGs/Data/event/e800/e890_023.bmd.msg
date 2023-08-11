@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 79 4 0 4][f 3 1 1 0 0 59046][f 6 1 2 0 0 3]Correcto. Tu presencia es desconcertante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 2 0 3][f 3 1 1 0 0 0]Bueno, bueno. Me parece una fijaci吋n, Joker.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 2 0 3][f 3 1 1 0 0 0]Bueno, bueno. Me parece una fijación, Joker.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 79 8 0 4][f 4 6 78 8 0 1][f 3 1 1 0 0 58093][f 6 1 2 0 0 0]A-Adora - 夷Qu姻 significa eso?[n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 2 0 3][f 3 1 1 0 0 28032]El tartamudeo y el ruborismo no est茨 ayudando[n]exactamente a su caso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 74 0 0 1][f 3 1 1 0 0 0]斡Bien! Esta introducci吋n es muy larga.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 74 0 0 1][f 3 1 1 0 0 0]斡Bien! Esta introducción es muy larga.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 54097]Aprecio que el schtick tsundere sea un poco[n]de "slow burn", pero 夷puedo pedirle que[n]comience pronto?[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ven, Caroline. Nuestros perros calientes[n]esperan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 2 0 1][f 3 1 1 0 0 58139]Heh heh... Entendido. 斡Es hora de que te[n]ense�emos una lecci吋n, recluso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 2 0 1][f 3 1 1 0 0 58139]Heh heh... Entendido. 斡Es hora de que te[n]enseñemos una lección, recluso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 79 1 0 4][f 4 6 78 2 0 1][f 3 1 1 0 0 0]Heh... Bueno, Recluso, pareces bastante[n]confiado esta vez. Pero no importa cu茨ntas[n]veces lo intentes, todav胤a perder茨s.[n][f 1 3 65535][f 1 1][e]

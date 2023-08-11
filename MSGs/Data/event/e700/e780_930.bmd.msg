@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 3][f 6 1 3 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]Hyaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 0]夷Por qu姻 le胤ste eso? No, espera, 夷c吋mo sigues[n]encontrandolos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 0]夷Por qu姻 le胤ste eso? No, espera, 夷cómo sigues[n]encontrandolos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Deja de jugar conmigo, 夷entendido? 斡O de lo[n]contrario, voy a dejar una marca eterna[n]en tu cara![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 1][f 3 1 1 0 0 6]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 1][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡Ooh, te das cuenta antes que nunca! 斡Esto[n]es un est雨pido malentendido![n][f 1 3 65535][f 1 1][e]
@@ -43,10 +43,10 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 79 1 0 3][f 4 6 78 6 0 6][f 3 1 1 0 0 8][f 6 1 2 0 0 4]夷"B姻sito"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 9]Es una maldici吋n... En otras palabras, debe[n]ser una habilidad que erosione el poder[n]espiritual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 9]Es una maldición... En otras palabras, debe[n]ser una habilidad que erosione el poder[n]espiritual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 10]斡No, no, no! 夷De qu姻 est茨s hablando? Es una[n]fusi吋n de su dolor y sufrimiento y tristeza[n]en un pecador..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 10]斡No, no, no! 夷De qu姻 est茨s hablando? Es una[n]fusión de su dolor y sufrimiento y tristeza[n]en un pecador..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]斡Ngh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Marie]]
@@ -56,5 +56,5 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 85 4 1 0][f 3 1 1 0 0 13][f 6 1 2 0 0 3]... 夷Pens姻 que lo guard姻? 夷Qu姻 hace aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi� a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvió a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
 

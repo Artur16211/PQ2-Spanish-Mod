@@ -35,14 +35,14 @@
 [f 0 5 65278][f 2 1]Usa tu fuego, Panther..[e]
 
 [msg MSG_011 [Futaba]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26018][f 6 1 9 0 0 1]S吋lo tengo un par. Y, por desgracia, est茨n[n]dise�ados espec胤ficamente para m胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26018][f 6 1 9 0 0 1]Sólo tengo un par. Y, por desgracia, est茨n[n]diseñados espec胤ficamente para m胤...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Pero te avisar姻 si encuentro algo 雨til.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yukiko]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5018][f 6 1 9 0 0 1]夷Tus ojos brillan como faros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Aigis]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 3]Me disculpo... Me falta cualquier forma de[n]funci吋n de luz.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 3]Me disculpo... Me falta cualquier forma de[n]función de luz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Naoto]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8054][f 6 1 9 0 0 1][f 6 1 2 0 0 10]斡Espera, espera, espera! 斡No podemos usar[n]fuego en un espacio cerrado como este![n][f 1 3 65535][f 1 1][e]
@@ -57,13 +57,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 3]Hrgh, es tan oscuro y aterrador... 夷Ya estamos[n]cerca de la salida? 夷Podemos acabar[n]con esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Chie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4103][f 6 1 9 0 0 1][f 6 1 2 0 0 6]斡Ack! 斡Algo me toc� la cara! 斡Todo era[n]peludo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4103][f 6 1 9 0 0 1][f 6 1 2 0 0 6]斡Ack! 斡Algo me tocó la cara! 斡Todo era[n]peludo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Koromaru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 17002][f 6 1 9 0 0 1]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 17002][f 6 1 9 0 0 1]Arf, 斡斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4097][f 6 1 9 0 0 1]夷Fuiste t雨, Koro-chan? Eso me asust�...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4097][f 6 1 9 0 0 1]夷Fuiste t雨, Koro-chan? Eso me asustó...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21018][f 6 1 9 0 0 1][f 6 1 2 0 0 4]夷Eh? Pero pens姻 que Koromaru estaba delante[n]de m胤... hay algo que me toca la cara...[n][f 1 3 65535][f 1 1][e]
@@ -99,7 +99,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28009][f 6 1 9 0 0 1][f 6 1 2 0 0 10]Mona, por favor deja de cavar tus garras en[n]mis piernas... 斡Ay![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Chie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4054][f 6 1 9 0 0 1][f 6 1 2 0 0 6]Yo tambi姻n estoy haciendo da�o aqu胤. 斡La[n]nariz de tu m茨scara me sigue cagando, Crow![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4054][f 6 1 9 0 0 1][f 6 1 2 0 0 6]Yo tambi姻n estoy haciendo daño aqu胤. 斡La[n]nariz de tu m茨scara me sigue cagando, Crow![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Koromaru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17001][f 6 1 9 0 0 1]斡Arf![n][f 1 3 65535][f 1 1][e]
@@ -108,7 +108,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35012][f 6 1 9 0 0 1][f 6 1 2 0 0 4]夷QU� PASA? 夷POR QU� ME EST威S PONIENDO[n]NERVIOSO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Koromaru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 17002][f 6 1 9 0 0 1][f 6 1 2 0 0 7]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 17002][f 6 1 9 0 0 1][f 6 1 2 0 0 7]Arf, 斡斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35014][f 6 1 9 0 0 1]夷"ES DIVERTIDO JUGAR CON TODOS"?[n][f 1 3 65535][f 1 1][e]
@@ -161,14 +161,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13104][f 6 1 9 0 0 1][f 6 1 2 0 0 0]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Haru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Perd吋name, Mitsuru-san. Me cogieron la mano[n]en la falda.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Perdóname, Mitsuru-san. Me cogieron la mano[n]en la falda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 10]Veo... Por favor, no me sorprenda as胤. Es[n]dif胤cil de ver aqu胤, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Junpei]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11045][f 6 1 9 0 0 1]夷Qu姻 es esto? 夷Mitsuru-senpai no es fan de[n]la oscuridad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 7]Bueno, es una debilidad sorprendente para[n]ella. Una revelaci吋n impresionante que hace[n]a alguien como ella m茨s adorable..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 7]Bueno, es una debilidad sorprendente para[n]ella. Una revelación impresionante que hace[n]a alguien como ella m茨s adorable..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13047][f 6 1 9 0 0 1]Iori, 夷quieres que te congelen tambi姻n?[n][f 1 3 65535][f 1 1][e]

@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 15012]夷O nos llevar茨 a un arma nueva y poderosa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 0]*chuckle* No es nada de eso. Es algo para[n]ayudar con la ansiedad, para ayudar con[n]todos los estresantes de su situaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 0]*chuckle* No es nada de eso. Es algo para[n]ayudar con la ansiedad, para ayudar con[n]todos los estresantes de su situación...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 4 6 74 12 100 1]Es una b雨squeda simple. Recoge cuatro frutas[n]en la pel胤cula de Hikari.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser茨 muy relajante.[n][f 1 3 65535][f 1 1][e]
 
@@ -36,7 +36,7 @@
 
 [msg MSG_010 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54067]No, para nada.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero te aseguro que esta proyecci吋n es f茨cil.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero te aseguro que esta proyección es f茨cil.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Camina lentamente, 斡y m胤ralo! Echa un vistazo[n]r茨pido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Hero]]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 0]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54030]Estar姻 mirando con gran titilaci吋n. Quiero[n]decir, estar姻 aqu胤 viendo con hiperlactaci吋n.[n]夷Cu茨l es la palabra?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Trapidaci吋n? No, eso no suena real. Har姻[n]que sea f茨cil para m胤 mismo... 斡Estar姻 aqu胤[n]viendo con el pecho batido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54030]Estar姻 mirando con gran titilación. Quiero[n]decir, estar姻 aqu胤 viendo con hiperlactación.[n]夷Cu茨l es la palabra?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Trapidación? No, eso no suena real. Har姻[n]que sea f茨cil para m胤 mismo... 斡Estar姻 aqu胤[n]viendo con el pecho batido![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Disfruta...[n][f 1 3 65535][f 1 1][e]
 

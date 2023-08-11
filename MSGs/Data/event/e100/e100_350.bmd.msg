@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 0 1 1][f 3 1 1 0 0 2]Apuesto a que lo hicimos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 3][f 6 1 2 0 0 3]S吋lo grita, "Esto es todo"... lo m茨s f茨cil[n]posible.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 3][f 6 1 2 0 0 3]Sólo grita, "Esto es todo"... lo m茨s f茨cil[n]posible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 4][f 3 1 1 0 0 4][f 6 1 2 0 0 9]El palacio de Kamoshida era asqueroso, pero[n]esto est茨 muy lejos, tambi姻n...[n][f 1 3 65535][f 1 1][e]
@@ -50,8 +50,8 @@
 
 [msg MSG_015_5 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 0 1 0][f 3 1 1 0 0 17]No solo me desobedeces, la cabeza de esta[n]ciudad...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Pero sembra la discordia entre los ciudadanos[n]y trae s吋lo el caos a nuestra sociedad[n]pac胤fica.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]夷C吋mo m茨s debo referirme a tal basura?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Pero sembra la discordia entre los ciudadanos[n]y trae sólo el caos a nuestra sociedad[n]pac胤fica.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]夷Cómo m茨s debo referirme a tal basura?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 20][f 6 1 2 0 0 2]Hijo de puta... 斡No compre un poco de esta[n]mierda egoc姻ntrica que est茨s picando![n][f 1 3 65535][f 1 1][e]
@@ -73,7 +73,7 @@
 
 [msg MSG_022 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 22 5 1 0][f 4 6 32 6 2 0][f 3 1 1 0 0 26]HAHAHAHAHA! 斡As胤 es![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Pueden ser criminales, pero a雨n as胤, debo[n]alabarles por no abandonar a sus compa�eros[n]como cobardes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Pueden ser criminales, pero a雨n as胤, debo[n]alabarles por no abandonar a sus compañeros[n]como cobardes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022_5 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 0 1 0][f 3 1 1 0 0 28][f 6 1 2 0 0 2]Sin embargo, 斡me has desafiado! 斡No eres m茨s[n]que basura, contaminando toda la[n]sociedad![n][f 1 3 65535][f 1 1][e]
@@ -103,7 +103,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 35]No pierdas tiempo en ese plan. Seguramente[n]sacar胤a a los ciudadanos de su estupor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 4 1 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]S胤, vamos a darle una lecci吋n y rescatar a[n]nuestros amigos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 4 1 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]S胤, vamos a darle una lección y rescatar a[n]nuestros amigos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 1 0][f 3 1 1 0 0 37]Parece que tenemos que hacerle entender como[n]lo hicimos con Kamoshida...[n][f 1 3 65535][f 1 1][e]
@@ -119,5 +119,5 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 1 6][f 3 1 1 0 0 41]Eso tambi姻n deber胤a llevar a los ciudadanos[n]a sus sentidos a su debido tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 42][f 6 1 2 0 0 6]HAHAHAHAHA! 斡Soy invencible! 斡Soy justicia![n]斡Ni�os simples no pueden derrotarme![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 42][f 6 1 2 0 0 6]HAHAHAHAHA! 斡Soy invencible! 斡Soy justicia![n]斡Niños simples no pueden derrotarme![n][f 1 3 65535][f 1 1][e]
 

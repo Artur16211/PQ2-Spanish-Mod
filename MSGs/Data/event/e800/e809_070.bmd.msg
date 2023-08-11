@@ -1,9 +1,9 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54115]Buen trabajo, todos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Vi todo desde la pantalla grande. Encontraste[n]el graffiti en cuesti吋n sin ning雨n[n]problema.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0]En medio de esa obra de arte era una peque�a[n]mirada de cambio... Qu姻 terriblemente[n]fascinante.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 1]Parecer胤a que las palabras no son la 雨nica[n]forma de expresarse. Estoy impresionado[n]por esta revelaci吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 1]Gracias por permitirme disfrutar de una[n]maravillosa proyecci吋n. Perm胤tanme preparar[n]su recompensa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Vi todo desde la pantalla grande. Encontraste[n]el graffiti en cuestión sin ning雨n[n]problema.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0]En medio de esa obra de arte era una pequeña[n]mirada de cambio... Qu姻 terriblemente[n]fascinante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 1]Parecer胤a que las palabras no son la 雨nica[n]forma de expresarse. Estoy impresionado[n]por esta revelación.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 1]Gracias por permitirme disfrutar de una[n]maravillosa proyección. Perm胤tanme preparar[n]su recompensa.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1]Se lo dar姻 a su debido tiempo. Por favor,[n]haz buen uso de ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
@@ -13,14 +13,14 @@
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 26110][f 6 1 2 0 0 4]夷Qu姻 pasa, Inari? 夷Tu mano se sale de control[n]otra vez?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 0]No. Es s吋lo que esta 雨ltima prueba especial[n]ha dado mucho que pensar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 0]No. Es sólo que esta 雨ltima prueba especial[n]ha dado mucho que pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19047][f 6 1 2 0 0 6]Really? I kinda thought you had it all[n]figured out, Yusuke-kun![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]Cre胤a que derrotar a Kamoshidaman tendr胤a[n]alg雨n tipo de efecto en el pensamiento de[n]la gente, pero...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n hab胤a cre胤do que la pel胤cula s吋lo[n]continuar胤a mientras la cambiamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n hab胤a cre胤do que la pel胤cula sólo[n]continuar胤a mientras la cambiamos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de que nos fuimos, asum胤 que el tiempo[n]parar胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 4][f 3 1 1 0 0 0]Oye, 夷te importa no disparar a Inari as胤?[n]Ahora vamos a tener que esperar a que se[n]calme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 2 0 1][f 3 1 1 0 0 21031]Tienes raz吋n. Ser茨 muy interesante ver c吋mo[n]cambia esta pel胤cula de aqu胤 en adelante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 2 0 1][f 3 1 1 0 0 21031]Tienes razón. Ser茨 muy interesante ver cómo[n]cambia esta pel胤cula de aqu胤 en adelante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]I won't claim that we're serving justice[n]or anything... but I'm happy if we've[n]given those people a chance to change.[n][f 1 3 65535][f 1 1][e]

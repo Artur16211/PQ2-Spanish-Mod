@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54010]Ahora bien, el objetivo de esta proyecci吋n[n]especial es...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54010]Ahora bien, el objetivo de esta proyección[n]especial es...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Robar el tesoro del Seidoptera![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
@@ -22,14 +22,14 @@
 
 [msg MSG_007 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 3085]Espera, esas cosas son FOEs, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si tratamos de tomarlos de cabeza, probablemente[n]acabaremos como comida de dinosaurios.[n]夷C吋mo se supone que tenemos el[n]tesoro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si tratamos de tomarlos de cabeza, probablemente[n]acabaremos como comida de dinosaurios.[n]夷Cómo se supone que tenemos el[n]tesoro?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]No necesitamos pelear.[f 2 7 1 64 6 32][e]
 [f 0 5 65278][f 2 1]Entrenamos hasta que podamos vencerlos.[f 2 7 1 64 0 32][e]
 
 [msg MSG_009 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4019][f 6 1 2 0 0 4]夷Eh? 夷C吋mo conseguimos el tesoro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4019][f 6 1 2 0 0 4]夷Eh? 夷Cómo conseguimos el tesoro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23030]Nyahaha... Somos los Ladrones Fantasma.[n]Tenemos que hacer cosas de estilo.[n][f 1 3 65535][f 1 1][e]
@@ -42,7 +42,7 @@
 
 [msg MSG_013 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 3][f 3 1 1 0 0 25068]Es verdad. Los Seidopteras podr胤an no llevar[n]sus tesoros con ellos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si podemos averiguar d吋nde est茨n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si podemos averiguar dónde est茨n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 6][f 3 1 1 0 0 0]斡Entonces, entramos y los llevamos! 斡Los[n]negocios como siempre![n][f 1 3 65535][f 1 1][e]
@@ -52,13 +52,13 @@
 
 [msg MSG_016 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 70 1 0 6][f 4 6 74 12 100 1][f 3 1 1 0 0 54100]Por favor, usa esto para llevar el tesoro.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es una bolsa que Theo se prepar�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es una bolsa que Theo se preparó.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 3][f 3 1 1 0 0 0]Whoa, 夷Theodore hizo esto? Es tan talentoso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 54059]S胤. Vino a m胤 con l茨grimas en los ojos y me[n]rog� que lo usara.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 54059]S胤. Vino a m胤 con l茨grimas en los ojos y me[n]rogó que lo usara.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 1 3][f 3 1 1 0 0 0]Es obvio que est茨s mintiendo cuando sonr胤es[n]as胤.[n][f 1 3 65535][f 1 1][e]
@@ -83,8 +83,8 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Definitivamente deber胤amos decir, "creemos[n]que no podemos"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 2 0 1][f 3 1 1 0 0 23031]La Srta. Elizabeth tom� prestadas esas palabras[n]de alg雨n otro lugar, 斡pero creo que[n]est茨 funcionando! 斡Estoy despedido![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Es natural que un ladr吋n fantasma sea atra胤do[n]al tesoro, despu姻s de todo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 2 0 1][f 3 1 1 0 0 23031]La Srta. Elizabeth tomó prestadas esas palabras[n]de alg雨n otro lugar, 斡pero creo que[n]est茨 funcionando! 斡Estoy despedido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Es natural que un ladrón fantasma sea atra胤do[n]al tesoro, despu姻s de todo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 23 8 0 1][f 3 1 1 0 0 23042][f 6 1 2 0 0 7]斡Nya-hoo! Treasuure![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Teddie]]
@@ -104,14 +104,14 @@
 
 [msg MSG_031 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 3][f 3 1 1 0 0 21031]Haha, est茨s muy emocionada.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, no estoy a nivel de Morgana, pero[n]estoy un poco hip吋crita, 夷sabes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, no estoy a nivel de Morgana, pero[n]estoy un poco hipócrita, 夷sabes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷En serio, Ryuji-kun? 夷Tambi姻n te est茨s[n]poniendo feo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 4 0 0][f 3 1 1 0 0 21054]斡No soy un gato! 夷De verdad dije eso?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 0]Oye, 夷recuerdas c吋mo, antes, dec胤a que no[n]hemos hecho ning雨n trabajo de ladr吋n fantasma[n]en un tiempo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 0]Oye, 夷recuerdas cómo, antes, dec胤a que no[n]hemos hecho ning雨n trabajo de ladrón fantasma[n]en un tiempo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0]斡Ah, s胤! 斡Pero ahora podemos hacer eso![n][f 1 3 65535][f 1 1][e]
@@ -122,7 +122,7 @@
 
 [msg MSG_036 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 18 1 0][f 3 1 1 0 0 0]Y luego peleas con Seidopteras en el aire y[n]atacas el tesoro, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4067][f 6 1 2 0 0 7]斡S胤! 斡Suena bonito y ladr吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4067][f 6 1 2 0 0 7]斡S胤! 斡Suena bonito y ladrón![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]... Dudo que seamos capaces de eso.[n][f 1 3 65535][f 1 1][e]

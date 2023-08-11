@@ -28,8 +28,8 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 0]夷Eh? 夷Por qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 6 0 1][f 3 1 1 0 0 12]Este mundo podr胤a ser semejante a una etapa[n]especial que se construy� s吋lo para la[n]actuaci吋n de una sola noche.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Y como un sue�o en la noche, esta ilusi吋n[n]fugaz terminar茨 el momento en que[n]despiertes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 6 0 1][f 3 1 1 0 0 12]Este mundo podr胤a ser semejante a una etapa[n]especial que se construyó sólo para la[n]actuación de una sola noche.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Y como un sueño en la noche, esta ilusión[n]fugaz terminar茨 el momento en que[n]despiertes.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 1][f 3 1 1 0 0 14]Todo sobre este mundo es transitorio, y[n]desaparecer茨 de dentro de todos ustedes[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
@@ -38,7 +38,7 @@
 [msg MSG_011 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 0 1][f 3 1 1 0 0 16]S胤, ese parece ser el caso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 1 1][f 3 1 1 0 0 17]Incluso el tiempo en s胤 era diferente de la[n]norma en este lugar...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Podr胤a decirse que lo imposible se hizo[n]posible aqu胤 debido a c吋mo funciona este[n]mundo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Podr胤a decirse que lo imposible se hizo[n]posible aqu胤 debido a cómo funciona este[n]mundo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 19]Es por eso que los recuerdos hechos aqu胤 no[n]pueden ser devueltos a sus propios mundos,[n]con sus propias leyes de realidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yosuke]]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 18 2 1][f 3 1 1 0 0 23]Estoy de acuerdo... Creo que definitivamente[n]nos encontraremos de nuevo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 4 0 1][f 3 1 1 0 0 24][f 6 1 2 0 0 6]斡Deja de quejarte, Recluso! 斡Una vez que[n]regreses, regresaremos a tu rehabilitaci吋n[n]inmediatamente![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 4 0 1][f 3 1 1 0 0 24][f 6 1 2 0 0 6]斡Deja de quejarte, Recluso! 斡Una vez que[n]regreses, regresaremos a tu rehabilitación[n]inmediatamente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 8 1][f 3 1 1 0 0 25]Me alegro de haberme conocido y crecido para[n]ser amiga de todos ustedes...[n][f 1 3 65535][f 1 1][e]
@@ -72,11 +72,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62][f 6 1 3 0 0 1]Si fuera una pel胤cula, este es el mejor final[n]que podr胤a suceder.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_2 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 63]*giggle* En ese caso, su actuaci吋n fue digna[n]de un premio Best Leading Actress.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 63]*giggle* En ese caso, su actuación fue digna[n]de un premio Best Leading Actress.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_3 [Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 64][f 6 1 3 0 0 1]En realidad, creo que todos ustedes fueron[n]los actores principales aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65][f 6 1 3 0 0 1]Piensa en c吋mo no dos personas sirvieron el[n]mismo papel. Si alguno de ustedes no[n]estuviera aqu胤, no podr胤amos haber llegado[n]a este final.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65][f 6 1 3 0 0 1]Piensa en cómo no dos personas sirvieron el[n]mismo papel. Si alguno de ustedes no[n]estuviera aqu胤, no podr胤amos haber llegado[n]a este final.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 66][f 6 1 3 0 0 1][f 6 1 2 0 0 4]夷Verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_4 [P3 Fem Protag]]
@@ -107,12 +107,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38]Eso pertenec胤a originalmente a Hikari-san...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 8 0][f 3 1 1 0 0 39]S胤. Iba a escribir todas mis ideas de gui吋n[n]en eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 8 0][f 3 1 1 0 0 39]S胤. Iba a escribir todas mis ideas de guión[n]en eso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 40]Es un cuaderno que le ped胤 a mi padre que me[n]comprara hace alg雨n tiempo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41]Cuando llegu姻 aqu胤, no pude recordar eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 42][f 6 1 2 0 0 6]Esto es importante para tu sue�o, 夷verdad?[n]斡Por eso tenemos que devolverlo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 42][f 6 1 2 0 0 6]Esto es importante para tu sueño, 夷verdad?[n]斡Por eso tenemos que devolverlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 8 0][f 3 1 1 0 0 43][f 6 1 2 0 0 4][f 6 1 3 0 0 1]夷Eh?[n][f 1 3 65535][f 1 1][e]
@@ -147,13 +147,13 @@
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 53]斡S胤! Quiero decir, todo el mundo aqu胤 es ..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 54]No importa d吋nde podamos estar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 54]No importa dónde podamos estar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 3 0 6][f 3 1 1 0 0 55]No importa cu茨ndo sea...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 56]Siempre seremos amigos y compa�eros[n]preciosos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 56]Siempre seremos amigos y compañeros[n]preciosos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 2 0 6][f 3 1 1 0 0 57][f 6 1 2 0 0 7]斡Arf arf![n][f 1 3 65535][f 1 1][e]

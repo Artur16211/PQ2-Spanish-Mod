@@ -14,13 +14,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13304]Un FOE. As胤 que est茨n aqu胤, tambi姻n.[n][f 1 6 65535][e]
 
 [msg MITURU_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13305]Es un FOE. 斡Atenci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13305]Es un FOE. 斡Atención![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_FOLLOW_END_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13306]Parece que hemos eludido a ese FOE.[n][f 1 6 65535][e]
 
 [msg MITURU_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13307]Bien... Parece que se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13307]Bien... Parece que se rindió.[n][f 1 6 65535][e]
 
 [msg MITURU_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13308]Nuestro escape est茨 asegurado...[n][f 1 6 65535][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13377]夷El viento?[n][f 1 6 65535][e]
 
 [msg MITURU_STAIR_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13324]Podemos seguir adelante. 夷Alguna objeci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13324]Podemos seguir adelante. 夷Alguna objeción?[n][f 1 6 65535][e]
 
 [msg MITURU_STAIR_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13325]Hay una escalera all胤.[n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13309]斡No te relajes todav胤a! 斡El FOE est茨 casi[n]sobre nosotros![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_WARNING_NEAR__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13310]Que FOE sigue en persecuci吋n...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13310]Que FOE sigue en persecución...[n][f 1 6 65535][e]
 
 [msg MITURU_FOE_WARNING_NEAR__3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13311]斡Mant姻nganse afilados! 斡Que FOE sigue aqu胤![n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13312]Estoy bien... Puedo seguir... yendo...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13313]夷C吋mo sucedi� esto? Estaba muy descuidado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13313]夷Cómo sucedió esto? Estaba muy descuidado...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13314]No quiero ser una responsabilidad, pero...[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13315]Lo siento, 夷pero podr胤a molestarte por algo[n]de curaci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13315]Lo siento, 夷pero podr胤a molestarte por algo[n]de curación?[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13316]Estoy bastante bajo en salud...[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13318]Tengo dificultades para mantenerme...[n]Disculpas...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13319]La tensi吋n me est茨 afectando...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13319]La tensión me est茨 afectando...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13320]Lo siento... 夷Podemos descansar un momento?[n][f 1 6 65535][e]
@@ -212,13 +212,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13361]斡Vamos![n][f 1 6 65535][e]
 
 [msg MITURU_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13362]斡Que comience nuestra exploraci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13362]斡Que comience nuestra exploración![n][f 1 6 65535][e]
 
 [msg MITURU_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13363]Vamos.[n][f 1 6 65535][e]
 
 [msg MITURU_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13364]斡Ahora, a la misi吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13364]斡Ahora, a la misión![n][f 1 6 65535][e]
 
 [msg MITURU_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13365]Empecemos, todos.[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13355]Hemos cubierto una buena parte de este piso.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13356]Hemos caminado bastante lejos. 夷C吋mo est茨 la[n]salud de todos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13356]Hemos caminado bastante lejos. 夷Cómo est茨 la[n]salud de todos?[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13357]Estoy empezando a ver el cuadro completo...[n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13358]Me atrevo a decir que no volveremos a perdernos[n]en este piso.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13359]Veo que ten胤amos raz吋n para ponerte a cargo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13359]Veo que ten胤amos razón para ponerte a cargo.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_ICON_ALL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13342]S胤, todo parece familiar.[n][f 1 6 65535][e]
@@ -269,7 +269,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13348]Casi refrescante.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_ICON_DEL__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13349]Una haza�a ejemplar de cartograf胤a.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13349]Una hazaña ejemplar de cartograf胤a.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13350]Bien. Ahora no lo olvidar茨s.[n][f 1 6 65535][e]

@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Suenas como un viejo, Skull.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 21050][f 6 1 2 0 0 6]斡C茨llate! 斡S吋lo significa que he estado[n]trabajando duro![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 21050][f 6 1 2 0 0 6]斡C茨llate! 斡Sólo significa que he estado[n]trabajando duro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Bueno, no podemos seguir hurgando ciegamente.[n][f 1 3 65535][f 1 1][e]
@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 21018][f 6 1 2 0 0 4]夷Hm? 夷Dijiste algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24078]Nada... 夷A d吋nde vamos desde aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24078]Nada... 夷A dónde vamos desde aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 4][f 3 1 1 0 0 0]Cuerpo m茨s cercano de agua al noroeste.[n][f 1 3 65535][f 1 1][e]

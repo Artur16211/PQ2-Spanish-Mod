@@ -1,8 +1,8 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 5 1][f 3 1 1 0 0 54125]Esta prueba especial le exigir茨 cazar un[n]n雨mero espec胤fico de objetivos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque tambi姻n podr胤as recurrir a eliminar[n]cualquier cosa y todo lo que viene a tu[n]manera...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 4 2 1][f 3 1 1 0 0 54039][f 6 1 2 0 0 6]Sea cual sea su decisi吋n, debe demostrar una[n]experiencia emocionante, escalofriante[n]y completa. 斡Por favor, int姻ntalo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 0]... Ah胤 lo tienes, un candidato seguro para[n]la buena pel胤cula del a�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 2 1][f 3 1 1 0 0 54039][f 6 1 2 0 0 6]Sea cual sea su decisión, debe demostrar una[n]experiencia emocionante, escalofriante[n]y completa. 斡Por favor, int姻ntalo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 0]... Ah胤 lo tienes, un candidato seguro para[n]la buena pel胤cula del año.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0]Sus objetivos esta vez son los Rampage Drives[n]encontrados en "A.I.G.I.S."[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54013]Quiero que derrotes cuatro de ellos.[n][f 1 3 65535][f 1 1][e]
 

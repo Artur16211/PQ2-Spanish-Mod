@@ -1,6 +1,6 @@
 [msg MSG_000 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 75 6 0 1][f 3 1 1 0 0 55030]Hmhm... Y as胤 he perdido.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 0]Sent胤 que tu poder reson� a trav姻s de todo[n]mi cuerpo. Nunca imagin姻 que me excitar胤as[n]tanto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 0]Sent胤 que tu poder resonó a trav姻s de todo[n]mi cuerpo. Nunca imagin姻 que me excitar胤as[n]tanto...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_001 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Gracias.[f 2 7 1 64 2 32][e]
@@ -37,10 +37,10 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]El resplandor se abr胤a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 6 0 1][f 3 1 1 0 0 0]夷Eh? Volvi� a c吋mo era...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 6 0 1][f 3 1 1 0 0 0]夷Eh? Volvió a cómo era...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 0 1][f 3 1 1 0 0 28084]Pero hubo una reacci吋n clara entre ambos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 0 1][f 3 1 1 0 0 28084]Pero hubo una reacción clara entre ambos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 3][f 3 1 1 0 0 0]S胤. Creo que podemos concluir que reunir y[n]activar m茨s de esta pel胤cula va a tener[n]alg雨n efecto.[n][f 1 3 65535][f 1 1][e]
@@ -55,10 +55,10 @@
 
 [msg MSG_016 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8013]A雨n as胤, todo esto es bastante misterioso.[n]Me he estado preguntando...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Cu茨l podr胤a ser el prop吋sito de estos ex茨menes[n]especiales? 夷Qu姻 los est茨 generando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Cu茨l podr胤a ser el propósito de estos ex茨menes[n]especiales? 夷Qu姻 los est茨 generando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 1 1][f 3 1 1 0 0 0]Es verdad, estas proyecciones parecen[n]extra�amente adecuadas a nuestras[n]circunstancias.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 1 1][f 3 1 1 0 0 0]Es verdad, estas proyecciones parecen[n]extrañamente adecuadas a nuestras[n]circunstancias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 3][f 3 1 1 0 0 5017]... 夷Crees que alguien nos est茨 observando?[n][f 1 3 65535][f 1 1][e]
@@ -68,7 +68,7 @@
 
 [msg MSG_020 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 5 1 0 0][f 4 6 75 6 0 1][f 3 1 1 0 0 55029]Quiz茨s ser胤a mejor no pensar demasiado en[n]ello.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A medida que avanzas a trav姻s de estas diversas[n]pel胤culas, seguir茨s creciendo como[n]cuesti吋n de por supuesto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A medida que avanzas a trav姻s de estas diversas[n]pel胤culas, seguir茨s creciendo como[n]cuestión de por supuesto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020_1 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 0]Y as胤, encontrar茨s nuevas posibilidades,[n]concedi姻ndote el poder de definir tu propio[n]destino...[n][f 1 3 65535][f 1 1][e]
@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 74 12 0 1][f 3 1 1 0 0 0]Ahora bien, como has hecho llorar a mi hermana[n]con 姻xito, tengo noticias maravillosas[n]para ti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 12 0 4][f 3 1 1 0 0 0]Hmhm... Dif胤cilmente podr胤a dejarte sin manos,[n]despu姻s de que hayas proporcionado[n]una distracci吋n tan estimulante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 12 0 4][f 3 1 1 0 0 0]Hmhm... Dif胤cilmente podr胤a dejarte sin manos,[n]despu姻s de que hayas proporcionado[n]una distracción tan estimulante.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Has hecho tanto para emocionarme, es justo[n]que te d姻 una recompensa en especie...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
@@ -116,7 +116,7 @@
 
 [msg MSG_032 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 74 1 0 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 10 0 1][f 3 1 1 0 0 54046]斡Mi! Como dicen, me hab胤a olvidado el fontanero.[n]Supongo que me resbal� la mente[n]mientras estaba viendo la batalla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 10 0 1][f 3 1 1 0 0 54046]斡Mi! Como dicen, me hab胤a olvidado el fontanero.[n]Supongo que me resbaló la mente[n]mientras estaba viendo la batalla.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 0]Naturalmente, fue puramente un accidente, y[n]no un intento desviado de pilfer durante[n]las largas conversaciones.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora, por favor acepta esto.[n][f 1 3 65535][f 1 1][e]
 
@@ -141,9 +141,9 @@
 [f 0 5 65278][f 2 1][f 4 6 75 6 0 0][f 3 1 1 0 0 0]... Tengo menos de lo que pens姻... Ya era[n]hora de que Theo hiciera otro lote.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 54014]Ah, verlo en persona s吋lo me hace querer uno[n]m茨s! Verdaderamente, es el m茨s caliente[n]de todos los perros posibles.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 54014]Ah, verlo en persona sólo me hace querer uno[n]m茨s! Verdaderamente, es el m茨s caliente[n]de todos los perros posibles.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Con un poco de amenaza, es decir, amable[n]recordando, estoy seguro de que me har茨 m茨s.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno entonces... adi吋s![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno entonces... adiós![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 10 0 0][f 3 1 1 0 0 55047]斡Ah...![n][f 1 3 65535][f 1 1][e]

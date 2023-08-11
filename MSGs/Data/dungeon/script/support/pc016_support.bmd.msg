@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22306]Estamos bien... Supongo que lo perdimos.[n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22307]Parece que finalmente se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22307]Parece que finalmente se rindió.[n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22308]斡S胤! 斡Nos escapamos![n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22376]Ugh! 夷En serio? 斡Mi pelo![n][f 1 6 65535][e]
 
 [msg ANN_KYOUHU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22377]夷D吋nde estamos, un tornado?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22377]夷Dónde estamos, un tornado?[n][f 1 6 65535][e]
 
 [msg ANN_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22324]斡Podemos pasar por aqu胤![n][f 1 6 65535][e]

@@ -15,29 +15,29 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]NO HAY RUMORES. REGISTRO DE NUEVAS MODELOS...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5018][f 6 1 2 0 0 4]夷Verificaci吋n? 夷Nuevos modelos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5018][f 6 1 2 0 0 4]夷Verificación? 夷Nuevos modelos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Interfaz De Seguridad]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]REGISTRO DE ID INDIVIDUAL NUMBERS: TK-00[n]THROUGH 08 - YS-00 THROUGH 07 - IW-00 ...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0]夷Asignar n雨meros de serie como identidades?[n]Eso es bastante tarifa est茨ndar para la[n]configuraci吋n de ciencia ficci吋n[n]dist吋pica.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0]夷Asignar n雨meros de serie como identidades?[n]Eso es bastante tarifa est茨ndar para la[n]configuración de ciencia ficción[n]distópica.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3029][f 6 1 2 0 0 1]Daaaamn, este lugar realmente es como una[n]pel胤cula de ciencia ficci吋n! Quiero decir,[n]eso es exactamente lo que es - pero[n]todav胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3029][f 6 1 2 0 0 1]Daaaamn, este lugar realmente es como una[n]pel胤cula de ciencia ficción! Quiero decir,[n]eso es exactamente lo que es - pero[n]todav胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 0][f 6 1 2 0 0 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Es como un tecno-wonderland![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 5052]Los ajustes Sci-fi son divertidos porque[n]tienen un estilo tan distinto. Creo que[n]entiendo c吋mo la gente puede entrar as胤 en[n]ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 5052]Los ajustes Sci-fi son divertidos porque[n]tienen un estilo tan distinto. Creo que[n]entiendo cómo la gente puede entrar as胤 en[n]ellos.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_011 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Eres un farol?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]S胤, son geniales.[f 2 7 1 20 2 32][e]
 
 [msg MSG_012 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5069]Aunque no s吋lo ciencia ficci吋n. Veo todo tipo[n]de g姻neros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5069]Aunque no sólo ciencia ficción. Veo todo tipo[n]de g姻neros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 10 0 0][f 3 1 1 0 0 0]Eso es algo sorprendente. Hab胤a imaginado[n]que Yukiko-san era m茨s tradicional...[n][f 1 3 65535][f 1 1][e]
@@ -52,30 +52,30 @@
 [f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]It means we shouldn't judge people[n]based on their appearances...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24067][f 6 1 2 0 0 6]De hecho. La arquitectura geom姻trica es un[n]matrimonio de belleza y funci吋n... 斡Hace[n]que mi coraz吋n baile con glee![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24067][f 6 1 2 0 0 6]De hecho. La arquitectura geom姻trica es un[n]matrimonio de belleza y función... 斡Hace[n]que mi corazón baile con glee![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 12 0 1][f 3 1 1 0 0 7013]Es divertido pensar en estas cosas, como,[n]夷qu姻 come la gente en el futuro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4029][f 6 1 2 0 0 4]斡S胤, s胤! 斡Tengo curiosidad! 夷Crees que podr胤a[n]conseguir alg雨n tipo de taz吋n de carne[n]sint姻tico?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4029][f 6 1 2 0 0 4]斡S胤, s胤! 斡Tengo curiosidad! 夷Crees que podr胤a[n]conseguir alg雨n tipo de tazón de carne[n]sint姻tico?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 0]El tr茨iler dijo que es una sociedad[n]post-humanidad, as胤 que no puedo imaginar que[n]haya comida que encontrar aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 6][f 3 1 1 0 0 0]La tecnolog胤a de este mundo es de vanguardia,[n]pero todo es tan artificial, tambi姻n...[n]Es bastante extra�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 6][f 3 1 1 0 0 0]La tecnolog胤a de este mundo es de vanguardia,[n]pero todo es tan artificial, tambi姻n...[n]Es bastante extraño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 6 0 1][f 3 1 1 0 0 27078]Un mundo de ciencia ficci吋n, eh...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 6 0 1][f 3 1 1 0 0 27078]Un mundo de ciencia ficción, eh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Est茨s bien, Noir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 7 0 0][f 3 1 1 0 0 27040]S胤, este lugar me record� el Palacio de mi[n]padre...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 7 0 0][f 3 1 1 0 0 27040]S胤, este lugar me recordó el Palacio de mi[n]padre...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]Pero ahora me estoy acostumbrando. Gracias[n]por preguntar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 12 0 1][f 3 1 1 0 0 9111][f 6 1 2 0 0 4]斡As胤 que es hora de empezar a cambiar esta[n]pel胤cula! 夷Por d吋nde debemos ir?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 12 0 1][f 3 1 1 0 0 9111][f 6 1 2 0 0 4]斡As胤 que es hora de empezar a cambiar esta[n]pel胤cula! 夷Por dónde debemos ir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]I guess we should start by looking for[n]that robot with the red ribbon...[n][f 1 3 65535][f 1 1][e]
@@ -103,20 +103,20 @@
 
 [msg MSG_033 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 6 0 3][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1014]Um―back to the movie, though...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Hay alguna objeci吋n a buscar a ese robot[n]con una cinta primero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Hay alguna objeción a buscar a ese robot[n]con una cinta primero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 1][f 3 1 1 0 0 0]Aqu胤 no hay nadie. Ese robot tiene la llave[n]de esta pel胤cula en particular.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_035 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Aqu胤 tampoco hay objeciones.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Quiero un taz吋n de carne sint姻tica primero.[f 2 7 1 20 8 32][e]
+[f 0 5 65278][f 2 1]Quiero un tazón de carne sint姻tica primero.[f 2 7 1 20 8 32][e]
 
 [msg MSG_036 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19077][f 6 1 2 0 0 6]Then it's decided! Let's try and find her[n]as quickly as possible![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 4 1 1][f 3 1 1 0 0 28033][f 6 1 2 0 0 4]Haha... Eso me recuerda, 夷sabes cu茨l es el[n]ingrediente est茨ndar para la carne fabricada[n]en pel胤culas de ciencia ficci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 4 1 1][f 3 1 1 0 0 28033][f 6 1 2 0 0 4]Haha... Eso me recuerda, 夷sabes cu茨l es el[n]ingrediente est茨ndar para la carne fabricada[n]en pel胤culas de ciencia ficción?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Qu姻 pasa? 斡Ahora tengo m茨s curiosidad![n][f 1 3 65535][f 1 1][e]

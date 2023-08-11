@@ -1,6 +1,6 @@
 [msg MSG_000 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 511][f 6 1 3 0 0 2]Soy el encarnado maelstrom... El que ustedes[n]llaman "Enlil"...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 512][f 6 1 3 0 0 2]Si tu determinaci吋n, determinaci吋n y creencias[n]son como dices... 斡entonces prueba[n]esto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 512][f 6 1 3 0 0 2]Si tu determinación, determinación y creencias[n]son como dices... 斡entonces prueba[n]esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 513][f 6 1 2 0 0 10]斡Estoy viendo un poder loco![n][f 1 3 65535][f 1 1][e]
@@ -15,18 +15,18 @@
 [f 0 5 65278][f 2 1][f 4 6 20 0 1 7][f 3 1 1 0 0 0]斡Los deseos del Cine se transformaron en el[n]poder de oponerse a Enlil![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 515][f 6 1 3 0 0 2]Los humanos no han aprendido nada del[n]interminable ciclo de destrucci吋n y[n]renacimiento.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 516][f 6 1 3 0 0 2]Se oponen a la providencia, manipulados por[n]enga�os que llaman posibilidades...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 515][f 6 1 3 0 0 2]Los humanos no han aprendido nada del[n]interminable ciclo de destrucción y[n]renacimiento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 516][f 6 1 3 0 0 2]Se oponen a la providencia, manipulados por[n]engaños que llaman posibilidades...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 517][f 6 1 3 0 0 2]Tal falacia se debe a la simple debilidad de[n]la existencia humana.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 518][f 6 1 3 0 0 2]Los seres humanos ven incluso una oferta de[n]salvaci吋n como malvada, convirtiendo sus[n]armas en su contra.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 518][f 6 1 3 0 0 2]Los seres humanos ven incluso una oferta de[n]salvación como malvada, convirtiendo sus[n]armas en su contra.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 519][f 6 1 3 0 0 2]Los humanos son pat姻ticos. No es un shock[n]que desafien la voluntad de los cielos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 520][f 6 1 3 0 0 2]Sin embargo, a雨n as胤, ofrec胤 mi protecci吋n[n]a todos y cada uno.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 520][f 6 1 3 0 0 2]Sin embargo, a雨n as胤, ofrec胤 mi protección[n]a todos y cada uno.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 521][f 6 1 3 0 0 2]Los humanos no saben que "esperar" no es m茨s[n]que un veneno que los vuelve locos, por[n]eso se aferran a lo que los destruye.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 522][f 6 1 3 0 0 2]Esto s吋lo puede hacer que se arrepientan de[n]sus decisiones y se ahogan en la[n]desesperaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 522][f 6 1 3 0 0 2]Esto sólo puede hacer que se arrepientan de[n]sus decisiones y se ahogan en la[n]desesperación...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 523][f 6 1 3 0 0 2]Y por eso debo entrar para salvarlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Enlil]]
@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 563][f 6 1 3 0 0 2]夷Te das cuenta ahora? Los humanos son[n]verdaderamente impotentes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 564][f 6 1 3 0 0 2]La 雨nica salvaci吋n para tales seres d姻biles[n]es por rendirse a mi mundo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 564][f 6 1 3 0 0 2]La 雨nica salvación para tales seres d姻biles[n]es por rendirse a mi mundo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 565][f 6 1 3 0 0 2]Los ladrones como ustedes no son m茨s que[n]anomal胤as peligrosas que interrumpen mi[n]orden...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 566][f 6 1 3 0 0 2]As胤 ser茨s extinguido por mi propia mano.[n][f 1 3 65535][f 1 1][e]
 
@@ -125,28 +125,28 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 593]斡Por favor, todos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 594][f 6 1 3 0 0 2]夷C吋mo....[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 594][f 6 1 3 0 0 2]夷Cómo....[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 1][f 1 5][f 6 1 27 0 0 0]��O胤 tu voz, Hikari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 1][f 1 5][f 6 1 27 0 0 0]��[n][f 3 1 3 0 0 595]O胤 tu voz, Hikari-chan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]��Lo siento por la espera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0]��[n][f 3 1 3 0 0 596]Lo siento por la espera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_064 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 1][f 1 5][f 6 1 13 0 0 0]��Dejarnos el resto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 1][f 1 5][f 6 1 13 0 0 0]��[n][f 3 1 3 0 0 597]Dejarnos el resto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 598][f 6 1 3 0 0 2]Todav胤a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 7][f 1 5][f 6 1 27 0 0 0]��斡No subestimes nuestra voluntad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 7][f 1 5][f 6 1 27 0 0 0]��[n][f 3 1 3 0 0 599]斡No subestimes nuestra voluntad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 8][f 1 5][f 6 1 13 0 0 0]��斡Hemos vuelto a nuestros pies innumerables[n]veces antes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 8][f 1 5][f 6 1 13 0 0 0]��[n][f 3 1 3 0 0 600]斡Hemos vuelto a nuestros pies innumerables[n]veces antes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 7][f 1 5][f 6 1 16 0 0 0]��Ganaremos porque nunca nos rendiremos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 7][f 1 5][f 6 1 16 0 0 0]��[n][f 3 1 3 0 0 601]Ganaremos porque nunca nos rendiremos.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_069 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 8]斡Terminemos esto!![e]
@@ -205,7 +205,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 3 0 0 0]Hrgh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 3 0 0 0]Maldici吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 3 0 0 0]Maldición...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 3 0 0 0]Nngh...[n][f 1 3 65535][f 1 1][e]

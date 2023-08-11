@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19305]Drat, hay un FOE...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_FOLLOW_END_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19306]Parece que el FOE nos dej�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19306]Parece que el FOE nos dejó.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_FOLLOW_END__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19307]斡El FOE ya no viene![n][f 1 6 65535][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19331]Tiene que haber algo aqu胤. 斡Miremos por ah胤![n][f 1 6 65535][e]
 
 [msg P3_HERO2_CHECK_WALL_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19332]夷No hay algo extra�o en este lugar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19332]夷No hay algo extraño en este lugar?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_SWITCH_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19333]斡Un interruptor! 斡Vamos a dar un heave-ho![n][f 1 6 65535][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_WARNING_NEA]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19309]斡Todav胤a hay un FOE cerca! 斡Precauci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19309]斡Todav胤a hay un FOE cerca! 斡Precaución![n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_WARNING_NEA_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19310]Parece que FOE sigue por aqu胤.[n][f 1 6 65535][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19321]Espero que el pr吋ximo sea as胤 tambi姻n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19321]Espero que el próximo sea as胤 tambi姻n![n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19322]斡Tranquilo![n][f 1 6 65535][e]
@@ -212,13 +212,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19361]斡D姻jame manejarlo![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19362]斡Somos un escuadr吋n incre胤ble; vamos a[n]mantenerlo as胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19362]斡Somos un escuadrón incre胤ble; vamos a[n]mantenerlo as胤![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19363]Vale, esto no terminar茨 en ning雨n momento,[n]斡espero![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]斡Tenemos nuestras 吋rdenes, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]斡Tenemos nuestras órdenes, todos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19365]Estoy muy emocionada, ahora.[n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19356]斡Mantengamos esto y aceleremos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19357]Creo que s吋lo tenemos un poco m茨s que ir?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19357]Creo que sólo tenemos un poco m茨s que ir?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19358]斡Qu姻 sentido de logro![n][f 1 6 65535][e]
@@ -275,7 +275,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19350]斡Tenemos que asegurarnos de no olvidar eso![n][f 1 6 65535][e]
 
 [msg P3_HERO2_MAPPING_MEMO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19351]夷Tal vez deber胤a hacerlo? 斡Haha, s吋lo[n]bromeaba![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19351]夷Tal vez deber胤a hacerlo? 斡Haha, sólo[n]bromeaba![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DOOR_OPEN_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19366]斡Vamos, vamos![n][f 1 6 65535][e]

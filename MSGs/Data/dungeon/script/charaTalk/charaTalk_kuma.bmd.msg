@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9040]Guh... Esa Sombra era malas noticias...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9036]*Sniff sniff* Huele como un mont吋n de[n]sombras...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9036]*Sniff sniff* Huele como un montón de[n]sombras...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9068]斡Est茨 bien! 斡Hag茨moslo![n][f 1 3 65535][f 1 1][e]

@@ -1,6 +1,6 @@
 [msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 1 1][f 3 1 1 0 0 21018][f 6 1 2 0 0 9]Es un callej吋n sin salida.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estas cosas realmente saben c吋mo matar el[n]impulso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 1 1][f 3 1 1 0 0 21018][f 6 1 2 0 0 9]Es un callejón sin salida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estas cosas realmente saben cómo matar el[n]impulso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 3][f 3 1 1 0 0 0]Oye, quiero apurarme, pero no tiene sentido[n]irritarme. 夷Verdad, Joker?[n][f 1 3 65535][f 1 1][e]
@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Ya sabes, ahora que lo estoy pensando como[n]una especie de parque tem茨tico, en realidad[n]parece divertido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 21123]Supongo que todo depende de c吋mo lo miras.[n]斡Muy bien, sigamos adelante![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 21123]Supongo que todo depende de cómo lo miras.[n]斡Muy bien, sigamos adelante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_CURE_ALL]
 [f 0 5 65278][f 2 1][f 3 1 6 0 0 302]斡Todos han recuperado algunos HP y SP![n][f 1 1][e]

@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 1 0 6][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Entrenador! 夷Pasa algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0]夷Ves algo que falta en nuestra actuaci吋n? No[n]lo dudes, s吋lo dime derecho.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0]夷Ves algo que falta en nuestra actuación? No[n]lo dudes, sólo dime derecho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 0]Bueno, en realidad no...[n][f 1 3 65535][f 1 1][e]
@@ -53,8 +53,8 @@
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 12067][f 6 1 2 0 0 4]S胤. 夷No es por eso que aprendiste aikido?[n]Ten胤as algo que necesitabas luchar,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Bueno... Mi padre era polic胤a, as胤 que me[n]ense�� a m胤 y a mi hermana Aikido.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]As胤 que sucedi� as胤 para m胤. Y no soy tan[n]fuerte como mi padre o mi hermana...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Bueno... Mi padre era polic胤a, as胤 que me[n]enseñó a m胤 y a mi hermana Aikido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]As胤 que sucedió as胤 para m胤. Y no soy tan[n]fuerte como mi padre o mi hermana...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷No?[f 2 7 1 20 0 32][e]
@@ -72,16 +72,16 @@
 
 [msg MSG_022 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 12049]Estoy seguro de que era un gran hombre.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]Pero no tienes que ser tan modesto. Tu fuerza[n]no est茨 s吋lo en tu poder bruto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puedes analizar tranquilamente una situaci吋n,[n]luego tomar decisiones calculadas. Eso[n]es algo que no podemos hacer.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]Pero no tienes que ser tan modesto. Tu fuerza[n]no est茨 sólo en tu poder bruto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puedes analizar tranquilamente una situación,[n]luego tomar decisiones calculadas. Eso[n]es algo que no podemos hacer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0]斡Entonces hag茨mosla subir con un r姻gimen de[n]entrenamiento para nosotros! 夷Como un[n]entrenamiento para nuestras mentes?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero c吋mo se supone que entrenaremos nuestro[n]cerebro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero cómo se supone que entrenaremos nuestro[n]cerebro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 25032]Entrenamiento cerebral, 夷eh? *chuckle* Los[n]dos sois tan fieles a sus metas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que tengas esa raz吋n para ser[n]fuerte...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que tengas esa razón para ser[n]fuerte...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 26 12 100 4][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Siento interrumpir, pero estoy detectando[n]muchas sombras reuni姻ndose.[n][f 1 3 65535][f 1 1][e]

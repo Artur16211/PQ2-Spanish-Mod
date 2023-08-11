@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 1][f 3 1 1 0 0 0]Un ambiente diferente de la pel胤cula[n]anterior.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Esta parece ser una pel胤cula de ciencia[n]ficci吋n, pero ese trailer dej� un poco de[n]mal gusto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Esta parece ser una pel胤cula de ciencia[n]ficción, pero ese trailer dejó un poco de[n]mal gusto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 7037]Ser diferente es malo, 夷eh? 斡Qu姻 mierda![n][f 1 3 65535][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1]夷Eres amigo de un robot?[f 2 7 1 64 0 32][e]
 
 [msg MSG_025 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 4 1 0][f 3 1 1 0 0 27094][f 6 1 2 0 0 4]El trailer pronunci� el t胤tulo como "A-I-gis",[n]pero lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 4 1 0][f 3 1 1 0 0 27094][f 6 1 2 0 0 4]El trailer pronunció el t胤tulo como "A-I-gis",[n]pero lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que la parte "AI" significa inteligencia[n]artificial, pero la parte "GIS"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Fem Protag]]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 1 0 3][f 4 6 9 10 0 6][f 3 1 1 0 0 9046]No te preocupes, 夷eres amigo de un robot?[n]Puedo creerlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 3][f 3 1 1 0 0 23016]S胤, esto es realmente tomar un giro para lo[n]extra�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 3][f 3 1 1 0 0 23016]S胤, esto es realmente tomar un giro para lo[n]extraño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 3010][f 6 1 2 0 0 9]夷Ustedes dos acaban de decir eso?[n][f 1 3 65535][f 1 1][e]
@@ -103,13 +103,13 @@
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 6][f 3 1 1 0 0 9046]夷Eres amigo de un robot? Puedo creerlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 3][f 3 1 1 0 0 23016]S胤, esto es realmente tomar un giro para lo[n]extra�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 3][f 3 1 1 0 0 23016]S胤, esto es realmente tomar un giro para lo[n]extraño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 3010][f 6 1 2 0 0 9]夷Ustedes dos acaban de decir eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 71 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]El trailer pronunci� el t胤tulo como "A-I-gis",[n]pero lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 71 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]El trailer pronunció el t胤tulo como "A-I-gis",[n]pero lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que la parte "AI" significa inteligencia[n]artificial, pero la parte "GIS"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [P3 Fem Protag]]
@@ -117,20 +117,20 @@
 
 [msg MSG_035 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19053]It's true that Aigis is a robot, but we[n]don't think of her any differently[n]than we do the rest of our friends.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 3 1 1 0 0 0]Ella tiene su propia identidad, y sus propias[n]opiniones, tambi姻n. La tratamos como[n]nuestra compa�era, no s吋lo un robot.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 3 1 1 0 0 0]Ella tiene su propia identidad, y sus propias[n]opiniones, tambi姻n. La tratamos como[n]nuestra compañera, no sólo un robot.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 61012]Un compa�ero... con identidad...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 61012]Un compañero... con identidad...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 0]Lo que hemos determinado hasta ahora es que[n]alguien que conocemos tambi姻n ha sido[n]lanzado a esta pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 1][f 3 1 1 0 0 0]De hecho. Primero, el mundo de Kamoshidaman;[n]luego, el mundo de Yosukesaurus.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo tiene sentido que lo mismo ocurrir胤a[n]con esta tercera pel胤cula, tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sólo tiene sentido que lo mismo ocurrir胤a[n]con esta tercera pel胤cula, tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22113][f 6 1 2 0 0 4]Bueno, tal vez la tercera vez es el encanto[n]y [f 6 1 27 0 0]-chan los compa�eros[n]est茨n en este, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22113][f 6 1 2 0 0 4]Well, maybe third time's the charm and[n][f 6 1 27 0 0 0]-chan's companions are[n]in this one, right?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 4 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19099][f 6 1 2 0 0 6]You think so too!? Then, let's hurry up[n]and find them![n][f 1 3 65535][f 1 1][e]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19129][f 6 1 2 0 0 6]Of course! We'll be on our way now![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 3][f 4 6 74 1 4 1][f 3 1 1 0 0 54014]...Theo. Su invitado desea reunirse con sus[n]compa�eros m茨s fervientemente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 3][f 4 6 74 1 4 1][f 3 1 1 0 0 54014]...Theo. Su invitado desea reunirse con sus[n]compañeros m茨s fervientemente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Durante tiempos como estos, un munch* 夷Cu茨l[n]crees que ser胤a el mejor curso para[n]tomar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Theodore]]

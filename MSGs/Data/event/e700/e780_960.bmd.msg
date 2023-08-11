@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El segundo es perezoso me quedo en la cama,[n]mi santuario[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La tercera es la codicia que quiero todo,[n]s胤, lo quiero todo[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El cuarto es celoso. Odio a esa chica con la[n]que hablas[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La quinta es la ira 夷Por qu姻 no te das cuenta[n]de c吋mo me siento?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La quinta es la ira 夷Por qu姻 no te das cuenta[n]de cómo me siento?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El sexto es orgullo Cuando estoy contigo, me[n]disfrazo de 茨ngel incluso como la envidia[n]quema dentro de m胤[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El s姻ptimo es la lujuria Oh, no preguntes,[n]por...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Soy un 茨ngel ca胤do, ca胤do en amor (Lonely[n]Lucifer)[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 12][f 6 1 2 0 0 6]...! 斡Nada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi� a su lugar habitual. Se ve胤a[n]inquieto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvió a su lugar habitual. Se ve胤a[n]inquieto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Justine]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 78 1 0 1][f 4 6 79 0 0 4][f 3 1 1 0 0 13][f 6 1 2 0 0 4]... 夷Tienes un momento, Recluso?[n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 16]El que siempre deja los poemas en el suelo...[n]es...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 17]夷Qu姻 es esto? 夷Una peque�a reuni吋n secreta?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 17]夷Qu姻 es esto? 夷Una pequeña reunión secreta?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 10 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 0]斡Eep![n][f 1 3 65535][f 1 1][e]

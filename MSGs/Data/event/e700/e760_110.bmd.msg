@@ -1,5 +1,5 @@
 [msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 12 1 0 3][f 4 6 21 0 1 1][f 3 1 1 0 0 21012]Un callej吋n sin salida. Bueno, supongo que[n]volvemos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 1 0 3][f 4 6 21 0 1 1][f 3 1 1 0 0 21012]Un callejón sin salida. Bueno, supongo que[n]volvemos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akihiko]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 12 1 0 3][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ninguna cantidad de entrenamiento ordinario[n]conseguir胤a que sus m雨sculos abulten as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007_1 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 0 0][f 3 1 1 0 0 0]Ese tipo de cuerpo s吋lo es obtenido por[n]aquellos expertos y lo suficientemente[n]determinado para poner en innumerables horas[n]de trabajo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 0 0][f 3 1 1 0 0 0]Ese tipo de cuerpo sólo es obtenido por[n]aquellos expertos y lo suficientemente[n]determinado para poner en innumerables horas[n]de trabajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4045][f 6 1 2 0 0 6]夷En serio? Entonces, tal vez deber胤a trabajar[n]en mis m雨sculos m茨s a menudo...[n][f 1 3 65535][f 1 1][e]

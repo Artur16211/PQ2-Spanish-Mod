@@ -1,9 +1,9 @@
 [msg MSG_000 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 3 1 0 3][f 4 6 21 1 0 4][f 4 6 11 10 0 1][f 3 1 1 0 0 11045]斡Muy bien! Ahora que llegamos a la puerta,[n]encontremos la casa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Espera un minuto... 斡Hay un mont吋n de casas[n]aqu胤! 夷C吋mo se supone que sabemos cu茨l[n]es?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Espera un minuto... 斡Hay un montón de casas[n]aqu胤! 夷Cómo se supone que sabemos cu茨l[n]es?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Est茨 al final de un camino bloqueado. De[n]nuevo, podr胤amos buscarlos a todos y utilizar[n]el proceso de eliminaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Est茨 al final de un camino bloqueado. De[n]nuevo, podr胤amos buscarlos a todos y utilizar[n]el proceso de eliminación.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por supuesto, olvid姻 que hay sombras aterradoras[n]esper茨ndonos. As胤 que... no te[n]asustes, nadie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
@@ -14,10 +14,10 @@
 
 [msg MSG_004 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]夷Qu姻 pasa, Hikari-chan? 夷Est茨s nervioso?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No lo est姻s. Ace Junpei te tiene cubierto.[n]斡Las sombras no tienen una oraci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No lo est姻s. Ace Junpei te tiene cubierto.[n]斡Las sombras no tienen una oración![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 61001]Me preguntaba, 夷c吋mo se mantienen tan[n]fuertes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 61001]Me preguntaba, 夷cómo se mantienen tan[n]fuertes?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siempre est茨s tan confiado, no importa qu姻[n]enemigos te enfrentes, no importa lo[n]aterrador que sea...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ryuji]]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Parece algo raro, 夷no? Adem茨s, tenemos a[n]Joker. Sabes lo incre胤ble que es, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3070]S姻 lo que quieres decir con lo raro que es.[n]En serio, una vez que me un胤 con mi[n]compa�ero aqu胤, me sent胤 inmejorable.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3070]S姻 lo que quieres decir con lo raro que es.[n]En serio, una vez que me un胤 con mi[n]compañero aqu胤, me sent胤 inmejorable.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Pero por eso lucho tan duro. No quiero[n]arrastrarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
@@ -57,7 +57,7 @@
 
 [msg MSG_016 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 1][f 3 1 1 0 0 22003]No, no se dan cuenta de lo fuerte que son[n]sus voces, los goofballs.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero c吋mo te hace sentir, lo que dicen?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero cómo te hace sentir, lo que dicen?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_017 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Es un poco embarazoso.[f 2 7 1 20 4 32][e]

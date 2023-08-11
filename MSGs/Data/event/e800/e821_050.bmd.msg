@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 3][f 3 1 1 0 0 12043]Muy bien. Deber胤amos estar bien por un[n]tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 1]斡Hahahahaha! 斡Los que retrasan mi comida[n]est茨n m茨s all茨 del perd吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 1]斡Hahahahaha! 斡Los que retrasan mi comida[n]est茨n m茨s all茨 del perdón![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Es incre胤ble lo que har茨 por comida... Casi[n]me recuerda a Chie y su amor por la[n]carne.[n][f 1 3 65535][f 1 1][e]

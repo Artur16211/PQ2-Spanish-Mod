@@ -1,8 +1,8 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 100 1][f 3 1 1 0 0 54115]Bien hecho, todos. Tengo confirmaci吋n de que[n]el FOE fue derrotado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 100 1][f 3 1 1 0 0 54115]Bien hecho, todos. Tengo confirmación de que[n]el FOE fue derrotado.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Sin embargo... hay una cosa con la que estoy[n]insatisfecha.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 4 100 1][f 3 1 1 0 0 0]Hab胤a estado esperando incansablemente para[n]que trajeras un poco de pollo como[n]recuerdo, y sin embargo no has tra胤do nada![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 6 100 1][f 3 1 1 0 0 54037]Mi deseo de pollo permanecer茨 incumplido,[n]dejando que estas l茨grimas de desesperaci吋n[n]fluyan para siempre m茨s. *sniffle*[n]*sniffle*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 6 100 1][f 3 1 1 0 0 54037]Mi deseo de pollo permanecer茨 incumplido,[n]dejando que estas l茨grimas de desesperación[n]fluyan para siempre m茨s. *sniffle*[n]*sniffle*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No est茨s llorando, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -12,11 +12,11 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 3 1 1 0 0 0]Pero entiendo que saber que no puedes comerlo[n]probablemente te haga quererlo a雨n m茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Tienes raz吋n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La 雨nica raz吋n por la que estaba tratando[n]tan duro fue porque pens姻 que podr胤a meterme[n]en un pollo frito una vez que[n]terminamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Tienes razón...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La 雨nica razón por la que estaba tratando[n]tan duro fue porque pens姻 que podr胤a meterme[n]en un pollo frito una vez que[n]terminamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 6 0 4][f 3 1 1 0 0 24067]De acuerdo. El pollo frito es lo 雨nico que[n]podr胤a llenar el vac胤o que ahora es mi[n]est吋mago...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 6 0 4][f 3 1 1 0 0 24067]De acuerdo. El pollo frito es lo 雨nico que[n]podr胤a llenar el vac胤o que ahora es mi[n]estómago...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Esos dos se ven muy deprimidos...[n][f 1 3 65535][f 1 1][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Es pollo frito. Come tanto como quieras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4044][f 6 1 2 0 0 6]斡S胤! 夷Te importar胤a a�adir unos filetes a[n]eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4044][f 6 1 2 0 0 6]斡S胤! 夷Te importar胤a añadir unos filetes a[n]eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 0]El pollo y la carne no crean un buen equilibrio.[n]Mejor incluiremos un poco de cerdo[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]...Still, you should take it easy every now[n]and then, Yosuke.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3019]夷Eh? 夷Qu姻 quieres decir, compa�ero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3019]夷Eh? 夷Qu姻 quieres decir, compañero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]You don't always have to be the one to[n]depend on.[n][f 1 3 65535][f 1 1][e]
@@ -63,14 +63,14 @@
 
 [msg MSG_018 [Yosuke]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 3 1 0 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]夷Es tan obvio? Nada te pasa, 夷eh, compa�ero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]夷Es tan obvio? Nada te pasa, 夷eh, compañero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1010][f 6 1 2 0 0 4]You're still bothered by how you got[n]separated from us in Junessic Land,[n]aren't you?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 7 0 0][f 3 1 1 0 0 0]No s姻 si todos intentaban evitar tocarlo por[n]mi bien o no, pero creo que me siento[n]culpable...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]No pude sacudir la sensaci吋n de que necesitaba[n]compensar eso de alguna manera... Lo[n]siento, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]No pude sacudir la sensación de que necesitaba[n]compensar eso de alguna manera... Lo[n]siento, todos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0]夷Te preocupaba eso, Yosuke? Siempre te pones[n]tan serio con las cosas m茨s raras.[n][f 1 3 65535][f 1 1][e]

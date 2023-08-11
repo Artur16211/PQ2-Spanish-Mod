@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54097]Disculpe, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Sabes de esta cosa que es popular entre los[n]j吋venes y la cadera llamados "churros"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Sabes de esta cosa que es popular entre los[n]jóvenes y la cadera llamados "churros"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19018]You mean "churros," like the snack?[n][f 1 3 65535][f 1 1][e]
@@ -30,7 +30,7 @@
 [msg MSG_008 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 54016]Ah... As胤 es como dicen los rumores: mejora[n]la experiencia de cine.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Me gustar胤a mucho probar estos "churros"![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Habiendo pensado en esto, he ordenado Theo[n]para hacerme un poco o dibujar un cuchillo[n]a trav姻s de su est吋mago como tributo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Habiendo pensado en esto, he ordenado Theo[n]para hacerme un poco o dibujar un cuchillo[n]a trav姻s de su estómago como tributo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19033]Ahaha... That's quite an order... Do we[n]have the ingredients?[n][f 1 3 65535][f 1 1][e]
@@ -80,7 +80,7 @@
 
 [msg MSG_022 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 6 1 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 54024]Aprecio la bondad de todos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto puede ser ego胤sta de m胤, pero he avanzado[n]y preparado esto como una proyecci吋n[n]especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto puede ser ego胤sta de m胤, pero he avanzado[n]y preparado esto como una proyección[n]especial.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 10 0 0][f 3 1 1 0 0 0]斡Eso fue r茨pido![n][f 1 3 65535][f 1 1][e]
@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54127]Puede ser mejor si los escribes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]Las ubicaciones de Cinnamon Ferns se han[n]a�adido al mapa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]Las ubicaciones de Cinnamon Ferns se han[n]añadido al mapa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 2 6][f 3 1 1 0 0 22067]Esto es perfecto. 斡Vamos![n][f 1 3 65535][f 1 1][e]

@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]You're having fun with this, huh.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Bueno, no es cada d胤a que veo que te pones[n]serio sobre una competencia. 斡Te estoy[n]arraigando, compa�ero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Bueno, no es cada d胤a que veo que te pones[n]serio sobre una competencia. 斡Te estoy[n]arraigando, compañero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 3][f 3 1 1 0 0 0]Estaremos animando con igual apoyo.[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me puse mejor as胤 que nunca defraudar胤a a[n]mis amigos.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_017 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]S姻 c吋mo se siente.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]S姻 cómo se siente.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Supongo que es universal.[f 2 7 1 20 2 32][e]
 
 [msg MSG_018 [P3 Hero]]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que confiamos en ellos m茨s de lo que[n]nunca conf胤an en nosotros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]Hey, c吋gelo, ustedes dos. O si no Akihiko-senpai[n]va a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]Hey, cógelo, ustedes dos. O si no Akihiko-senpai[n]va a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 12029][f 6 1 2 0 0 4]斡Lo tengo! 夷Y si hacemos banderas para cada[n]equipo?[n][f 1 3 65535][f 1 1][e]

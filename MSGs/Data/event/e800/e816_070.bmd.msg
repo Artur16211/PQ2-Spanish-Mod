@@ -1,9 +1,9 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54024]Te agradezco que hayas completado la proyecci吋n[n]especial para mi hermano sin valor.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54024]Te agradezco que hayas completado la proyección[n]especial para mi hermano sin valor.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A partir de ahora, por favor, si姻ntete libre[n]de ordenarle todo lo que quieras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 3][f 3 1 1 0 0 0]Haha... Me siento mal por c吋mo lo tratan como[n]es...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 3][f 3 1 1 0 0 0]Haha... Me siento mal por cómo lo tratan como[n]es...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56024]Gracias por traer el "Futurista Gizmo"[n][f 1 3 65535][f 1 1][e]
@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19079]Eso dijo, no sab胤a que estabas tan metido en[n]la tecnolog胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 0]Bueno, no era necesariamente el dispositivo[n]en s胤, en realidad s吋lo quer胤a[n]mantenerlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 0]Bueno, no era necesariamente el dispositivo[n]en s胤, en realidad sólo quer胤a[n]mantenerlo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como pens姻, es temperatura ambiente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]

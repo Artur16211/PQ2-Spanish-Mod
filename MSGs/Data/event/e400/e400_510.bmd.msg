@@ -8,56 +8,56 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 16 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]夷Eh? 夷Doe es el padre de Hikari-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 4]Esto es realmente loco, s吋lo vamos a ver por[n]ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 4]Esto es realmente loco, sólo vamos a ver por[n]ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 83 1 0 3][f 4 6 81 0 8 1][f 3 1 1 0 0 5]夷Por qu姻? 夷Por qu姻 no pod胤a recordarte, pap茨?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6]夷C吋mo podr胤a hacerte algo as胤?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7]S吋lo me apoyaste, tambi姻n... 斡Lo siento[n]mucho![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6]夷Cómo podr胤a hacerte algo as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Sólo me apoyaste, tambi姻n... 斡Lo siento[n]mucho![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [El Padre De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 83 0 0 0][f 3 1 1 0 0 8]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 8 0][f 3 1 1 0 0 9]Pap茨... Me cost� tiempo averiguarlo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 8 0][f 3 1 1 0 0 9]Pap茨... Me costó tiempo averiguarlo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Pero no me voy a maltratar m茨s. No importa[n]lo que otros digan de m胤, no negar姻 qui姻n[n]soy.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]He aprendido que est茨 bien para m胤 simplemente[n]ser yo mismo. Todos aqu胤 me ense�aron[n]eso, y t雨 tambi姻n, pap茨.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Ya no esconder姻 mis deseos, y trabajar姻 para[n]hacer realidad mi sue�o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]He aprendido que est茨 bien para m胤 simplemente[n]ser yo mismo. Todos aqu胤 me enseñaron[n]eso, y t雨 tambi姻n, pap茨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Ya no esconder姻 mis deseos, y trabajar姻 para[n]hacer realidad mi sueño...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13]As胤 que, por favor... ven a ver mi pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [El Padre De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 83 8 1 0][f 3 1 1 0 0 14]Por supuesto. Ya lo estoy deseando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 9 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]斡Te prometo que te enviar姻 esta invitaci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 9 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]斡Te prometo que te enviar姻 esta invitación![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 3 0 0 1]Ah...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 17]Desapareci�...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 17]Desapareció...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 0]斡Acab� de desaparecer! 夷Pasa algo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 0]斡Acabó de desaparecer! 夷Pasa algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Rise]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 6 12 100 1][f 3 1 1 0 0 19][f 3 1 6 0 0 500]No estoy totalmente seguro, pero parece bien.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 20]Creo que fue m茨s como una ilusi吋n que la[n]conciencia de Hikari-chan hab胤a creado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 20]Creo que fue m茨s como una ilusión que la[n]conciencia de Hikari-chan hab胤a creado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]夷Una ilusi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]夷Una ilusión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 22][f 3 1 6 0 0 500]Apuesto a que es lo mismo que lo que pas� en[n]mi palacio, era una imagen falsa nacida[n]de su cognici吋n distorsionada.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Porque la cognici吋n de Hikari fue atormentada,[n]Doe tom� una forma que difer胤a del[n]verdadero yo de su padre...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Este lugar parece un poco diferente de los[n]Palacios, pero definitivamente est茨[n]relacionado con la cognici吋n de Hikari de[n]alguna manera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 22][f 3 1 6 0 0 500]Apuesto a que es lo mismo que lo que pasó en[n]mi palacio, era una imagen falsa nacida[n]de su cognición distorsionada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Porque la cognición de Hikari fue atormentada,[n]Doe tomó una forma que difer胤a del[n]verdadero yo de su padre...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Este lugar parece un poco diferente de los[n]Palacios, pero definitivamente est茨[n]relacionado con la cognición de Hikari de[n]alguna manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 25]As胤 que, porque se corrigi� su cognici吋n,[n]Doe volvi� a su aspecto original parecido[n]a su padre...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 25]As胤 que, porque se corrigió su cognición,[n]Doe volvió a su aspecto original parecido[n]a su padre...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 26][f 6 1 2 0 0 4]A雨n as胤, 夷por qu姻 Doe miraba como lo hac胤a[n]en primer lugar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 27]La imaginaci吋n de una persona puede ser[n]distorsionada debido a su estado mental. Por[n]eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 27]La imaginación de una persona puede ser[n]distorsionada debido a su estado mental. Por[n]eso...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28]Si solo usas emociones negativas al concebir[n]a otros, incluso tus propios padres[n]pueden parecer monstruos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
@@ -78,7 +78,7 @@
 
 [sel SEL_022 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Por supuesto que lo haremos.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]D姻nos la versi吋n abreviada.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]D姻nos la versión abreviada.[f 2 7 1 20 0 32][e]
 
 [msg MSG_023 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 35]Gracias.[n][f 1 3 65535][f 1 1][e]
@@ -115,12 +115,12 @@
 
 [msg MSG_034 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 52]Creo que cuanto m茨s se preocupaba por m胤,[n]peor me sent胤a por lo que estaba pasando.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 53]S吋lo empeor� despu姻s de entrar en la[n]secundaria... Incluso mis parientes me dijeron[n]que estaba siendo un inconveniente para[n]mi padre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 53]Sólo empeoró despu姻s de entrar en la[n]secundaria... Incluso mis parientes me dijeron[n]que estaba siendo un inconveniente para[n]mi padre.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 54]No quer胤a que me odiara o fuera un problema[n]para 姻l, as胤 que por eso decid胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 55]Pero tu padre nunca te dijo eso, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56]En ese caso, deber胤as haber tenido una[n]conversaci吋n de coraz吋n con 姻l...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56]En ese caso, deber胤as haber tenido una[n]conversación de corazón con 姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 1][f 3 1 1 0 0 57]... No siempre es tan f茨cil.[n][f 1 3 65535][f 1 1][e]
@@ -145,13 +145,13 @@
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 63]No es eso... Pap茨 no quiso decir eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 65]Pero en ese momento, s吋lo me culp姻 de nuevo,[n]y sent胤 la ruptura de la 雨ltima cuerda[n]manteniendo mi coraz吋n unido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 65]Pero en ese momento, sólo me culp姻 de nuevo,[n]y sent胤 la ruptura de la 雨ltima cuerda[n]manteniendo mi corazón unido.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 66]"Incluso pap茨 est茨 decepcionado con lo que[n]he resultado." Me hab胤a convencido de que[n]era verdad, as胤 que hu胤 de todo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 67]Y he creado pel胤culas horribles para validar[n]esa incredulidad... Todo porque estaba[n]d姻bil...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 8 99 0][f 3 1 1 0 0 68][f 6 1 2 0 0 10]斡Ya basta, deja de culparte! 斡Es demasiado![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 69][f 6 1 2 0 0 6]斡Si sigues culpando as胤, tu coraz吋n morir茨![n]夷C吋mo har胤a eso feliz a tu padre?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 69][f 6 1 2 0 0 6]斡Si sigues culpando as胤, tu corazón morir茨![n]夷Cómo har胤a eso feliz a tu padre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 70]Futaba-chan...[n][f 1 3 65535][f 1 1][e]
@@ -161,11 +161,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 72]Te impide dejar tus verdaderos sentimientos,[n]y terminas tratando de lidiar con todo[n]por ti mismo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 6][f 3 1 1 0 0 73][f 6 1 2 0 0 9]As胤 que todo eso llev� a una idea descarada[n]de tu padre, eh...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 6][f 3 1 1 0 0 73][f 6 1 2 0 0 9]As胤 que todo eso llevó a una idea descarada[n]de tu padre, eh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 74]Esto es simplemente conjetura personal...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Pero quiz茨s 夷Doe no era s吋lo un producto de[n]la cognici吋n de Hikari-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Pero quiz茨s 夷Doe no era sólo un producto de[n]la cognición de Hikari-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 11 10 0 4][f 3 1 1 0 0 76]夷Eh? 夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
@@ -173,20 +173,20 @@
 [msg MSG_049 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 77][f 6 1 2 0 0 4]夷No crees que los cambios de Hikari-san y[n]Doe estaban estrechamente vinculados?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 78]Pensamos que Doe produjo una llave cada vez[n]que cambiamos una pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 79][f 6 1 2 0 0 4]夷Pero no podr胤a ser que Doe produjera una[n]llave cuando el coraz吋n de Hikari-san cambi吋[n]despu姻s de terminar una pel胤cula?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 79][f 6 1 2 0 0 4]夷Pero no podr胤a ser que Doe produjera una[n]llave cuando el corazón de Hikari-san cambió[n]despu姻s de terminar una pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 80]Podr胤as tener raz吋n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 81]Cada vez que vi el final de una pel胤cula...[n]la sensaci吋n de que necesito salir de[n]aqu胤 crecer胤a m茨s fuerte...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 80]Podr胤as tener razón...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 81]Cada vez que vi el final de una pel胤cula...[n]la sensación de que necesito salir de[n]aqu胤 crecer胤a m茨s fuerte...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 8 12 0 0][f 3 1 1 0 0 82]Si Doe fue creado por la conciencia de[n]Hikari-san, entonces ese sentimiento l吋gicamente[n]seguir胤a.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 8 12 0 0][f 3 1 1 0 0 82]Si Doe fue creado por la conciencia de[n]Hikari-san, entonces ese sentimiento lógicamente[n]seguir胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 0 0 6][f 3 1 1 0 0 83]En otras palabras... El deseo de Hikari de[n]salir de este lugar apareci� en la forma[n]de su padre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 0 0 6][f 3 1 1 0 0 83]En otras palabras... El deseo de Hikari de[n]salir de este lugar apareció en la forma[n]de su padre.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 84]De hecho. Creo que, en alg雨n lugar profundo[n]dentro del coraz吋n de Hikari-chan, era[n]un deseo que no pod胤a descartar[n]completamente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 84]De hecho. Creo que, en alg雨n lugar profundo[n]dentro del corazón de Hikari-chan, era[n]un deseo que no pod胤a descartar[n]completamente...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 85]Su deseo de creer a su padre, y ser fiel a[n]s胤 misma en el mundo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 86]Esos sentimientos pueden haber sido la clave[n]para su eventual desaf胤o de estas[n]pel胤culas.[n][f 1 3 65535][f 1 1][e]
 
@@ -194,18 +194,18 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 8 0 0 4][f 3 1 1 0 0 87]Ya veo. Eso explica por qu姻 Doe ten胤a esas[n]llaves.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 88]S胤... Ya lo s姻. Puedo sentir lo que mi coraz吋n[n]desea de nuevo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 88]S胤... Ya lo s姻. Puedo sentir lo que mi corazón[n]desea de nuevo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 89]I see... So, in your own way, you've been[n]fighting this whole time too.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 90]Y, sobre esa invitaci吋n, fue algo que escrib胤[n]cuando era m茨s joven.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 91]Cuando decid胤 que me convertir胤a en director,[n]pens姻 en enviarlo a mi padre cuando mi[n]sue�o se hizo realidad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 90]Y, sobre esa invitación, fue algo que escrib胤[n]cuando era m茨s joven.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 91]Cuando decid胤 que me convertir胤a en director,[n]pens姻 en enviarlo a mi padre cuando mi[n]sueño se hizo realidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 92]Eso significa que la invitaci吋n fue tambi姻n[n]una forma de su deseo de desafiar las[n]pel胤culas de guerra.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 93]Cuando su memoria volvi� y decidi� dejar este[n]lugar, la invitaci吋n se convirti� en[n]la clave final...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 92]Eso significa que la invitación fue tambi姻n[n]una forma de su deseo de desafiar las[n]pel胤culas de guerra.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 93]Cuando su memoria volvió y decidió dejar este[n]lugar, la invitación se convirtió en[n]la clave final...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 94]S胤... Estoy seguro de que es eso. Definitivamente[n]no quer胤a olvidar ese recuerdo.[n][f 1 3 65535][f 1 1][e]
@@ -221,7 +221,7 @@
 
 [msg MSG_063 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 8 2 0][f 3 1 1 0 0 98]Bueno, si hubiera mostrado m茨s coraje,[n]podr胤amos haber salido de aqu胤 m茨s r茨pido,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 99]Los arrastr姻 a todos en esto... No s姻 c吋mo[n]disculparme por lo que he hecho.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 99]Los arrastr姻 a todos en esto... No s姻 cómo[n]disculparme por lo que he hecho.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_064 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Fue muy divertido.[f 2 7 1 20 0 32][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1]Est茨 bien porque eres tan linda.[f 2 7 1 20 0 32][e]
 
 [msg MSG_065 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 27 2 0 0][f 3 1 1 0 0 100]Tiene raz吋n. Ser capaz de entrar en una[n]pel胤cula tambi姻n fue muy emocionante para m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 27 2 0 0][f 3 1 1 0 0 100]Tiene razón. Ser capaz de entrar en una[n]pel胤cula tambi姻n fue muy emocionante para m胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 101][f 6 1 2 0 0 6]S胤, s胤. Voy a meterme en m茨s problemas ahora[n]que he hecho mi debut en pantalla[n]grande![n][f 1 3 65535][f 1 1][e]
@@ -240,7 +240,7 @@
 
 [msg MSG_068 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 103]Heheheh... Tengo el aura de una estrella,[n]as胤 que Nao-chan y las otras damas van a[n]ser cabeza sobre tacones para m胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 104]Soooo, 斡Yosuke, tienes que ayudarme a dise�ar[n]mi aut吋grafo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 104]Soooo, 斡Yosuke, tienes que ayudarme a diseñar[n]mi autógrafo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 105][f 6 1 2 0 0 6]Espera, 夷qu姻? Olv胤date de las cosas in雨tiles[n]como esa, 斡necesitas tomar tu trabajo[n]en serio cuando regresemos a Junes![n][f 1 3 65535][f 1 1][e]
@@ -250,7 +250,7 @@
 
 [msg MSG_071 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 107]Adem茨s, tenemos que luchar contra algunos[n]enemigos desafiantes.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 108]Si hubiera llegado a ser codicioso, habr胤a[n]querido estar en una pel胤cula de acci吋n[n]con un mont吋n de secuencias de combate[n]sobre la cima.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 108]Si hubiera llegado a ser codicioso, habr胤a[n]querido estar en una pel胤cula de acción[n]con un montón de secuencias de combate[n]sobre la cima.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 4][f 3 1 1 0 0 109][f 6 1 2 0 0 9]斡Idiota! Ve a filmar uno solo.[n][f 1 3 65535][f 1 1][e]
@@ -263,7 +263,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 112]Todo el mundo aqu胤 es el tipo de persona que[n]ama meter sus narices en el negocio de[n]otros, de todos modos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_075 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 113]Uh-huh! Incluso este tipo aqu胤, puede parecer[n]aterrador, pero su consideraci吋n por[n]los dem茨s est茨 a nivel maternal...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 113]Uh-huh! Incluso este tipo aqu胤, puede parecer[n]aterrador, pero su consideración por[n]los dem茨s est茨 a nivel maternal...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_076 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 1 0][f 3 1 1 0 0 114][f 6 1 2 0 0 2]夷Qu姻...?[n][f 1 3 65535][f 1 1][e]
@@ -272,7 +272,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 8 0 0][f 3 1 1 0 0 115]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 116][f 6 1 2 0 0 6]*Whistle* 斡Se cay� de esa l胤nea como si no[n]fuera nada! 斡Buen trabajo, Sr. Slick![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 116][f 6 1 2 0 0 6]*Whistle* 斡Se cayó de esa l胤nea como si no[n]fuera nada! 斡Buen trabajo, Sr. Slick![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 4][f 3 1 1 0 0 117]En serio... Si sigues siendo arrastrado as胤,[n]alg雨n d胤a terminar茨s en problemas[n]reales.[n][f 1 3 65535][f 1 1][e]
@@ -284,7 +284,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 4][f 3 1 1 0 0 119]As胤 es. Nunca har胤as llorar a una chica?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 20 2 4 0][f 4 6 25 2 0 4][f 3 1 1 0 0 120]S胤, los rumores de que 姻l era perezoso result吋[n]ser falsas acusaciones... 夷No es as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 2 4 0][f 4 6 25 2 0 4][f 3 1 1 0 0 120]S胤, los rumores de que 姻l era perezoso resultó[n]ser falsas acusaciones... 夷No es as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 1 6 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 121][f 6 1 2 0 0 9]Ah―This maelstrom I'm sensing[n]in them...[n][f 1 3 65535][f 1 1][e]
@@ -299,7 +299,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 124]斡Oye! 斡Hikari-chan se r胤e![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_087 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 125]Muchas gracias por rescatar mi coraz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 125]Muchas gracias por rescatar mi corazón.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 126]Prometo que una vez que salgamos, vivir姻 mi[n]vida con mi cabeza alta, como todos[n]ustedes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_088 [P3 Fem Protag]]

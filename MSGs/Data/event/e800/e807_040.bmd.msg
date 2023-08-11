@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estamos aqu胤 tambi姻n, as胤 que no lo tomes[n]todo por ti, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... Tienes raz吋n. Tenemos que dividirlo[n]uniformemente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... Tienes razón. Tenemos que dividirlo[n]uniformemente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 3133][f 6 1 2 0 0 6]斡No hablaba de la carne! 斡Dije que no se[n]lleve toda la gloria![n][f 1 3 65535][f 1 1][e]

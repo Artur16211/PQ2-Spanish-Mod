@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1306]Lo sacudimos...[n][f 1 6 65535][e]
 
 [msg P4_HERO_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1307]Parece que se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1307]Parece que se rindió.[n][f 1 6 65535][e]
 
 [msg P4_HERO_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1308]Parece que lo perdimos.[n][f 1 6 65535][e]
@@ -248,7 +248,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1359]Bien. Ese es el piso hecho.[n][f 1 6 65535][e]
 
 [msg P4_HERO_MAPPING_ICON_ALL]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1342]Buena ubicaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1342]Buena ubicación.[n][f 1 6 65535][e]
 
 [msg P4_HERO_MAPPING_ICON_ALL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1343]Ese mapa viene bien.[n][f 1 6 65535][e]
@@ -266,7 +266,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1347]Elegante.[n][f 1 6 65535][e]
 
 [msg P4_HERO_MAPPING_ICON_DEL]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1348]Buena elecci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1348]Buena elección.[n][f 1 6 65535][e]
 
 [msg P4_HERO_MAPPING_ICON_DEL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1349]A veces tambi姻n tienes que borrar cosas.[n][f 1 6 65535][e]

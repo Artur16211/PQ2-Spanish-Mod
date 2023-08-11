@@ -1,5 +1,5 @@
 [msg MSG_000 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 26502][f 6 1 2 0 0 4][f 3 1 6 0 0 500]Hola, 夷c吋mo est茨n todos? 夷Ya te sientes[n]cagado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 26502][f 6 1 2 0 0 4][f 3 1 6 0 0 500]Hola, 夷cómo est茨n todos? 夷Ya te sientes[n]cagado?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]C'mooon... responde, Phantom Thiiieves...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
@@ -12,10 +12,10 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 4][f 3 1 1 0 0 23091][f 6 1 2 0 0 4]Oh, Dios... No nos derrumbe antes de que nos[n]ocupemos de Enlil, 夷entendido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 27 12 0 0][f 3 1 1 0 0 0]斡Definitivamente soy bueno para ir! 夷C吋mo[n]est茨n los dem茨s?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 27 12 0 0][f 3 1 1 0 0 0]斡Definitivamente soy bueno para ir! 夷Cómo[n]est茨n los dem茨s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Estoy bien, esto no es nada para un ladr吋n[n]fantasma. 夷Y t雨, Hikari?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Estoy bien, esto no es nada para un ladrón[n]fantasma. 夷Y t雨, Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 1 1][f 3 1 1 0 0 61172]Yo tambi姻n estoy bien. Sol胤a caminar mucho[n]mientras llevaba una c茨mara bastante[n]pesada.[n][f 1 3 65535][f 1 1][e]
@@ -31,10 +31,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Desde que dijiste que te gustan las pel胤culas[n]que dan esperanza a la gente, has sido[n]totalmente diferente de lo que eras[n]cuando nos conocimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 61142]Bueno, lo que pas� fue... Finalmente record姻[n]el final del sue�o que quiero alcanzar,[n]despu姻s de ponerlo en palabras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 61142]Bueno, lo que pasó fue... Finalmente record姻[n]el final del sueño que quiero alcanzar,[n]despu姻s de ponerlo en palabras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 21018][f 6 1 2 0 0 4]夷Cu茨l es tu sue�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 21018][f 6 1 2 0 0 4]夷Cu茨l es tu sueño?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_012 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Ser director?[f 2 7 1 20 0 32][e]
@@ -47,20 +47,20 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 61144]Eso ser胤a bastante agradable, ya que estar胤a[n]rodeado de pel胤culas todo el tiempo,[n]pero lo que realmente quiero hacer es[n]hacerlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 0]Tu sue�o es convertirse en director, 夷no?[n]Mencionaste que quer胤as ser cineasta desde[n]que eras joven.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 0]Tu sueño es convertirse en director, 夷no?[n]Mencionaste que quer胤as ser cineasta desde[n]que eras joven.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 0]He estado filmando pel胤culas por mi cuenta[n]desde que era ni�o porque quer胤a convertirme[n]en directora...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 0]He estado filmando pel胤culas por mi cuenta[n]desde que era niño porque quer胤a convertirme[n]en directora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 22 8 1 0][f 3 1 1 0 0 22048][f 6 1 2 0 0 0]斡Eso es incre胤ble! 夷Disparas tus propias[n]pel胤culas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]No es nada impresionante... Acabo de aprender[n]c吋mo ver a otros hacerlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]No es nada impresionante... Acabo de aprender[n]cómo ver a otros hacerlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 0]No hay necesidad de ser modesto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mientras que todo el mundo puede tener un[n]sue�o, tomar acci吋n real para alcanzarlo[n]no es algo que cualquiera puede hacer.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mientras que todo el mundo puede tener un[n]sueño, tomar acción real para alcanzarlo[n]no es algo que cualquiera puede hacer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24067][f 6 1 2 0 0 4]De hecho. 夷En qu姻 tipo de pel胤cula trabajabas[n]antes de llegar aqu胤?[n][f 1 3 65535][f 1 1][e]
@@ -82,10 +82,10 @@
 [f 0 5 65278][f 2 1]D姻jame estrellar en tu primera pel胤cula.[f 2 7 1 20 0 32][e]
 
 [msg MSG_025 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 21068][f 6 1 2 0 0 7]斡Yo tambi姻n! 斡Vamos a hacer realidad el sue�o[n]de Hikari, de verdad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 21068][f 6 1 2 0 0 7]斡Yo tambi姻n! 斡Vamos a hacer realidad el sueño[n]de Hikari, de verdad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23069][f 6 1 2 0 0 6]斡S胤! Estoy seguro de que puedes hacer realidad[n]ese sue�o ahora, Hikari![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23069][f 6 1 2 0 0 6]斡S胤! Estoy seguro de que puedes hacer realidad[n]ese sueño ahora, Hikari![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 6][f 3 1 1 0 0 23058][f 6 1 2 0 0 1]斡No robes el foco, amigo! 斡Ser姻 la estrella[n]aqu胤![n][f 1 3 65535][f 1 1][e]
@@ -98,20 +98,20 @@
 
 [msg MSG_030 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 25 0 0 0][f 3 1 1 0 0 25038]Oh querida... No empecemos a ser rid胤culos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 0]M茨s al respecto, creo que est茨s realmente[n]listo para salir al mundo y hacer esto,[n]Hikari-chan. Sigue tu sue�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 0]M茨s al respecto, creo que est茨s realmente[n]listo para salir al mundo y hacer esto,[n]Hikari-chan. Sigue tu sueño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 6 0][f 3 1 1 0 0 61147]Gracias a todos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n s姻... Cuando termine mi primera[n]pel胤cula, quiero que mi padre la vea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031_5 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]Definitivamente le dar姻 esa invitaci吋n de[n]proyecci吋n pronto... En serio, esta vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]Definitivamente le dar姻 esa invitación de[n]proyección pronto... En serio, esta vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]Ya veo... Estoy seguro de que lo har茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 0 6][f 3 1 1 0 0 21003][f 6 1 2 0 0 4]Oye, 夷esa invitaci吋n s吋lo se aplica a tu[n]padre?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 0 6][f 3 1 1 0 0 21003][f 6 1 2 0 0 4]Oye, 夷esa invitación sólo se aplica a tu[n]padre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 0]夷Eh?[n][f 1 3 65535][f 1 1][e]
@@ -135,7 +135,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 14 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Por supuesto! 斡Estoy totalmente abajo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 99 4][f 3 1 1 0 0 26531]No s吋lo Skull, todo el Phantom 斡Los ladrones[n]estar茨n all胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 99 4][f 3 1 1 0 0 26531]No sólo Skull, todo el Phantom 斡Los ladrones[n]estar茨n all胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Mmhm! 斡Te prometo que terminar姻 la pel胤cula,[n]no importa lo que sea necesario![n][f 1 3 65535][f 1 1][e]

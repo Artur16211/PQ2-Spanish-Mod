@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 11]What's wrong?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 4 99 4][f 3 1 1 0 0 12][f 3 1 6 0 0 500][f 6 1 2 0 0 10]斡Senpai! 斡Todos! 斡Lo siento, sucedi� cuando[n]nos estuvimos buscando un segundo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 4 99 4][f 3 1 1 0 0 12][f 3 1 6 0 0 500][f 6 1 2 0 0 10]斡Senpai! 斡Todos! 斡Lo siento, sucedió cuando[n]nos estuvimos buscando un segundo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Fuuka]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 13][f 6 1 2 0 0 6]Hikari-chan's...![n][f 1 3 65535][f 1 1][e]

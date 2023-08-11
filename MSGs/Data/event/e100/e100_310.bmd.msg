@@ -8,18 +8,18 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 3 0 0 1]Estoy manejando...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 2 0][f 3 1 1 0 0 4][f 6 1 2 0 0 4]夷D吋nde podr胤amos estar? 夷Esto es Mementos?[n]夷O podr胤a ser un palacio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 2 0][f 3 1 1 0 0 4][f 6 1 2 0 0 4]夷Dónde podr胤amos estar? 夷Esto es Mementos?[n]夷O podr胤a ser un palacio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 3 0 0 1]No estoy seguro... Nuestra informaci吋n es[n]extremadamente limitada en este momento,[n]tanto en Kamoshidaman como en este lugar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 3 0 0 1]La pr吋xima vez que aparezca, necesito tratar[n]de obtener tanto de 姻l como yo..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 3 0 0 1]No estoy seguro... Nuestra información es[n]extremadamente limitada en este momento,[n]tanto en Kamoshidaman como en este lugar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 3 0 0 1]La próxima vez que aparezca, necesito tratar[n]de obtener tanto de 姻l como yo..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 32 6 2 1][f 3 1 1 0 0 7][f 6 1 1 0 0 1][f 6 1 2 0 0 1]HAHAHAHAHA![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8]夷De qu姻 est茨s hablando? 夷Has decidido confesar[n]tus hechos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Hablando del diablo... Voy a preguntar una[n]vez m茨s: 夷d吋nde estamos? 夷Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Hablando del diablo... Voy a preguntar una[n]vez m茨s: 夷dónde estamos? 夷Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 0 1 0][f 3 1 1 0 0 10][f 6 1 2 0 0 2]夷Sigues hurgando de tu siesta? 斡No me hagas[n]decir lo obvio![n][f 1 3 65535][f 1 1][e]
@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 1 2 0][f 4 6 25 2 3 0][f 3 1 1 0 0 22][f 6 1 2 0 0 2]Me niego a aceptar esto. 斡No hemos hecho nada[n]malo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 23]HAHAHAHAHAHAHA! Mal o simplemente... Yo soy[n]quien toma la decisi吋n. 斡Es mi deber como[n]jefe de la ciudad de Kamo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 23]HAHAHAHAHAHAHA! Mal o simplemente... Yo soy[n]quien toma la decisión. 斡Es mi deber como[n]jefe de la ciudad de Kamo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Si no llevo a los ciudadanos, esta ciudad se[n]hundir茨 en el caos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25]夷No puedes o胤rlos? las voces del pueblo[n]anhelando la paz?[n][f 1 3 65535][f 1 1][e]
 
@@ -85,7 +85,7 @@
 [f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 34]You should feel honored to be punished by[n]me, the hero of absolute justice![n]HAHAHAHAHAHAHA![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 2 0][f 3 1 1 0 0 35][f 6 1 2 0 0 2]As胤 que eres el 茨rbitro de lo que es bueno[n]y malo, s吋lo porque tienes el mayor poder?[n]斡Eso no est茨 bien![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 2 0][f 3 1 1 0 0 35][f 6 1 2 0 0 2]As胤 que eres el 茨rbitro de lo que es bueno[n]y malo, sólo porque tienes el mayor poder?[n]斡Eso no est茨 bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 2 3 0][f 3 1 1 0 0 36]斡No te dejaremos hacer lo que quieras con[n]nosotros! Estoy seguro de que Joker y los[n]otros...[n][f 1 3 65535][f 1 1][e]
@@ -102,13 +102,13 @@
 [msg MSG_030 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 6 1 3 0 0 1]Qu姻 tonto es desafiar a los fuertes, y lo[n]justo que es obedecer al gobernante...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 3 0 0 1]Har茨s una excelente oportunidad para recordar[n]a los ciudadanos estos hechos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 42]Let's hold off the execution a bit longer.[n]Reflect upon your actions until then![n]HAHAHAHAHAHAHA![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 42]Let's hold off the execution a bit longer.[n]Reflect upon your actions until then![n]HAHAHAHAHA![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 10 1 0][f 3 1 1 0 0 43]Vigila bien a estos dos. 斡Est茨n empe�ados en[n]destruir la paz de mi ciudad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 10 1 0][f 3 1 1 0 0 43]Vigila bien a estos dos. 斡Est茨n empeñados en[n]destruir la paz de mi ciudad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Polic胤a Gordo]]
-[f 0 5 65278][f 2 1][f 4 6 45 2 1 1][f 3 1 1 0 0 44][f 6 1 2 0 0 6]斡Se�or![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 45 2 1 1][f 3 1 1 0 0 44][f 6 1 2 0 0 6]斡Señor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 45]Qu姻 excusa deplorable para la justicia. No[n]puedo creer que todos lo obedezcan...[n][f 1 3 65535][f 1 1][e]
@@ -118,10 +118,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Incluso tu captor era un colega nuestro que[n]se maqueta a s胤 mismo despu姻s de nuestro[n]h姻roe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Haru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 48][f 6 1 2 0 0 4][f 6 1 3 0 0 3]Espera... 夷Quieres decir lo que nos atac�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 48][f 6 1 2 0 0 4][f 6 1 3 0 0 3]Espera... 夷Quieres decir lo que nos atacó?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 4 3 0][f 3 1 1 0 0 49]Ahora que lo mencionas, ese disfraz... Era[n]como una versi吋n m茨s cruda de[n]Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 4 3 0][f 3 1 1 0 0 49]Ahora que lo mencionas, ese disfraz... Era[n]como una versión m茨s cruda de[n]Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Polic胤a Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 50]Hmph. No importa cu茨nto resistas, nunca[n]ganar茨s contra Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
@@ -140,5 +140,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 3 0 0 3]Si es invencible mientras tenga eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Makoto]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 25 4 3 0][f 3 1 1 0 0 56]Entonces el inverso debe ser verdadero: puede[n]ser da�ado una vez que se haya ido.[n]Pero, 夷qu姻 podr胤a ser?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 25 4 3 0][f 3 1 1 0 0 56]Entonces el inverso debe ser verdadero: puede[n]ser dañado una vez que se haya ido.[n]Pero, 夷qu姻 podr胤a ser?[n][f 1 3 65535][f 1 1][e]
 

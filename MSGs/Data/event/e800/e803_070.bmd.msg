@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 4 2 1][f 3 1 1 0 0 54036][f 6 1 2 0 0 6]斡Un enemigo machista y una pelea emocionante![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 54045]Fue un poco sudoroso ?disc雨lpeme? la proyecci吋n[n]calentada, y me dej� muy satisfecho.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 54045]Fue un poco sudoroso ?disc雨lpeme? la proyección[n]calentada, y me dejó muy satisfecho.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_001 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Me alegra o胤rlo.[f 2 7 1 64 2 32][e]
@@ -8,7 +8,7 @@
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 54056]S胤, la sorprendente batalla cerca del cl胤max...[n]Mis ojos estaban pegados a la pantalla[n]hasta el final.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y parece que se form� un nuevo v胤nculo entre[n]los dos "hombres"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y parece que se formó un nuevo v胤nculo entre[n]los dos "hombres"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 1 0 1][f 4 6 65 2 0 3][f 3 1 1 0 0 21032]... 斡Y ah胤 es cuando golpeamos a la mierda[n]siempre viviente de la Sombra![n][f 1 3 65535][f 1 1][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 14 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 2]斡Deja de llamarme gato![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 23 1 0 0][f 4 6 7 7 0 0][f 3 1 1 0 0 7011][f 6 1 2 0 0 3]Bueno, s胤 lo estaba mirando, pero es s吋lo[n]porque...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 1 0 0][f 4 6 7 7 0 0][f 3 1 1 0 0 7011][f 6 1 2 0 0 3]Bueno, s胤 lo estaba mirando, pero es sólo[n]porque...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Porque qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -72,8 +72,8 @@
 
 [msg MSG_021 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Aarrgh! 斡Mira lo lindo que es![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷C吋mo puedo no estar interesado en algo tan[n]adorable?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero ver lo mal que es... C吋mo se sienten[n]sus patas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cómo puedo no estar interesado en algo tan[n]adorable?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero ver lo mal que es... Cómo se sienten[n]sus patas...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Soy todo sobre esa mierda, maldita sea![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 7 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]*jadeo*[n][f 1 3 65535][f 1 1][e]
 
@@ -106,6 +106,6 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Vuelve aqu胤, 斡Mona! Lemme siente lo suave[n]que es tu barbilla![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Morgana]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]夷Qu姻 clase de ladr吋n se detiene cuando alguien[n]les dice?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]夷Qu姻 clase de ladrón se detiene cuando alguien[n]les dice?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 23105][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Aaaahhh![n][f 1 3 65535][f 1 1][e]
 

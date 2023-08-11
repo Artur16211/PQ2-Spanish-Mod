@@ -1,7 +1,7 @@
 [msg MSG_000 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 23 12 0 1][f 3 1 1 0 0 23072]Vale, repasemos nuestro plan otra vez.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Los cineastas de Enlil est茨n viendo pel胤culas[n]extra depresivas, o en otras palabras,[n]pel胤culas negativas[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estas pel胤culas entristecen a los cineastas[n]con tanta emoci吋n negativa, todos se han[n]encerrado en sus Cines.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estas pel胤culas entristecen a los cineastas[n]con tanta emoción negativa, todos se han[n]encerrado en sus Cines.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 4][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]Everyone is watching something[n]different, but it all seems to be[n]connected somehow as well.[n][f 1 3 65535][f 1 1][e]
@@ -12,7 +12,7 @@
 
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 1][f 3 1 1 0 0 27074]Si la pel胤cula negativa es venenosa para sus[n]mentes, entonces la pel胤cula positiva[n]debe servir como alimento.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cualquier veneno que fluye del tronco se[n]diseminar胤a a trav姻s de las ramas y las[n]hojas - igual con nutrici吋n, tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Cualquier veneno que fluye del tronco se[n]diseminar胤a a trav姻s de las ramas y las[n]hojas - igual con nutrición, tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Por eso vamos a cambiar esta pel胤cula negativa[n]a la pel胤cula de Hikari-chan, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -25,7 +25,7 @@
 
 [msg MSG_006 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 4 1 1][f 3 1 1 0 0 28068]Cierto. Bueno, no hay garant胤a absoluta que[n]suceda...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero al menos, creo que esta pel胤cula les[n]dar茨 impulso y coraje para cambiar de[n]opini吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero al menos, creo que esta pel胤cula les[n]dar茨 impulso y coraje para cambiar de[n]opinión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 0]Toda esta pel胤cula est茨 hecha de recuerdos[n]donde se negaron las individualidades de[n]la gente...[n][f 1 3 65535][f 1 1][e]

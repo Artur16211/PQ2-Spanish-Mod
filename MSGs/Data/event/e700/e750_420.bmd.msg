@@ -21,10 +21,10 @@
 [f 0 5 65278][f 2 1][f 4 6 22 1 0 1][f 3 1 1 0 0 0]No te preocupes. Gracias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 6][f 3 1 1 0 0 0]Whoa, ella te despert� sin esfuerzo... Eso[n]fue realmente impresionante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 6][f 3 1 1 0 0 0]Whoa, ella te despertó sin esfuerzo... Eso[n]fue realmente impresionante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 1 0 1][f 3 1 1 0 0 8001]Ah, tengo una preocupaci吋n por ese FOE...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 1 0 1][f 3 1 1 0 0 8001]Ah, tengo una preocupación por ese FOE...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Seguir adelante puede no ser un problema[n]aqu胤, pero 夷no tendremos que hacerlo[n]eventualmente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Koromaru]]

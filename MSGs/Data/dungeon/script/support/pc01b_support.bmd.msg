@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27325]斡S胤! 斡Podemos ir al siguiente piso![n][f 1 6 65535][e]
 
 [msg HARU_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27326]斡Imag胤nate c吋mo es el siguiente 茨rea![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27326]斡Imag胤nate cómo es el siguiente 茨rea![n][f 1 6 65535][e]
 
 [msg HARU_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27327]斡Una caja de tesoros![n][f 1 6 65535][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
 
 [msg HARU_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27360]斡Una nueva investigaci吋n nueva![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27360]斡Una nueva investigación nueva![n][f 1 6 65535][e]
 
 [msg HARU_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27361]*giggle* Esto empieza a divertirse.[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27365]斡Listo, listo, vamos![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27352]斡Estoy tan emocionada de ver la versi吋n[n]final![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27352]斡Estoy tan emocionada de ver la versión[n]final![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27353]斡Est茨 empezando a parecer un mapa![n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27358]斡Hurra! 斡Terminamos el mapa![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27359]斡Mira! 斡Result� un mapa maravilloso![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27359]斡Mira! 斡Resultó un mapa maravilloso![n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_ICON_ALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27342]斡Vaya! 斡Eso es muy bueno![n][f 1 6 65535][e]
@@ -254,13 +254,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27343]Lo dibujas tan bien.[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_ICON_KAIDAN]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27344]Es una representaci吋n exacta.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27344]Es una representación exacta.[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_ICON_KAIDAN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27345]As胤 es como lo recuerdo.[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_CHANGE_COLO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27346]*giggle* A�adiendo un toque personal,[n]夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27346]*giggle* Añadiendo un toque personal,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_CHANGE_COLO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27347]夷Cambiando el color?[n][f 1 6 65535][e]

@@ -4,7 +4,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Supongo que deber胤a haber esperado tanto de[n]aquellos con el poder de la tarjeta[n]salvaje.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 12 0 1][f 3 1 1 0 0 7052]Ustedes dos fueron incre胤bles... Supongo que[n]nos ense�aste de qu姻 se trata ser un[n]l胤der.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 12 0 1][f 3 1 1 0 0 7052]Ustedes dos fueron incre胤bles... Supongo que[n]nos enseñaste de qu姻 se trata ser un[n]l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0]斡S胤, el l胤der de tu grupo era tan genial como[n]el nuestro![n][f 1 3 65535][f 1 1][e]
@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 0]Ambos tienen el tipo de carisma que re雨ne a[n]la gente... Supongo que por eso son tan[n]similares.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 5069]Mhm, tienes la sensaci吋n de que todo va a[n]estar bien cuando est茨s con tu l胤der.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 5069]Mhm, tienes la sensación de que todo va a[n]estar bien cuando est茨s con tu l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡S胤! Me siento a gusto sabiendo que tiene mi[n]espalda.[n][f 1 3 65535][f 1 1][e]
@@ -32,7 +32,7 @@
 
 [sel SEL_009 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Tuve que hacer algo.[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]Perd吋n por los sentimientos.[f 2 7 1 64 4 32][e]
+[f 0 5 65278][f 2 1]Perdón por los sentimientos.[f 2 7 1 64 4 32][e]
 
 [msg MSG_010 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1066]Yeah. All I could think about was[n]protecting my friends.[n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quieres proteger a los que dependen de ti...[n]Puedo sentirlo.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_012 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Tienes raz吋n.[f 2 7 1 64 2 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Tienes razón.[f 2 7 1 64 2 32][e]
 [f 0 5 65278][f 2 1]Supongo que somos muy parecidos.[f 2 7 1 64 2 32][e]
 
 [msg MSG_013 [P4 Hero]]

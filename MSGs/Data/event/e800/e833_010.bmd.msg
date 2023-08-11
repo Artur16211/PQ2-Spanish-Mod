@@ -1,10 +1,10 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 5 1][f 3 1 1 0 0 54099]La proyecci吋n especial esta vez es una[n]exploraci吋n de A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 5 1][f 3 1 1 0 0 54099]La proyección especial esta vez es una[n]exploración de A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esta vez, el suelo designado es absolutamente[n]lleno de tesoros![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Y as胤, tu gloriosa misi吋n esta vez es reunir[n]todo el rid胤culo que puedas encontrar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Y as胤, tu gloriosa misión esta vez es reunir[n]todo el rid胤culo que puedas encontrar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Hehehehehe... Tesoro, 夷eh? 斡Tienes mi[n]atenci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Hehehehehe... Tesoro, 夷eh? 斡Tienes mi[n]atención![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 0]No te emociones demasiado, maldito gato.[n]Tenemos que atacar a Treasure Spots,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -26,11 +26,11 @@
 
 [msg MSG_007 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 71 2 0 1][f 3 1 1 0 0 27031]Debo decir que estoy de acuerdo. Estas[n]proyecciones tambi姻n tienen su propio encanto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ciertamente, las pel胤culas de acci吋n llamativas[n]son emocionantes, pero no cuando[n]todos son un p雨blico pueden ver.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ciertamente, las pel胤culas de acción llamativas[n]son emocionantes, pero no cuando[n]todos son un p雨blico pueden ver.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 71 12 0 1][f 3 1 1 0 0 27004]夷Oh? 夷No es tu tipo de pel胤cula? Creo que[n]estos tienen cierto encanto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ciertamente, las pel胤culas de acci吋n llamativas[n]son emocionantes, pero no cuando[n]todos son un p雨blico pueden ver.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ciertamente, las pel胤culas de acción llamativas[n]son emocionantes, pero no cuando[n]todos son un p雨blico pueden ver.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? Espera, 夷qu姻 p雨blico?[n][f 1 3 65535][f 1 1][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Heh. Bueno, si vas a ser un l胤der, tal vez[n]puedas aprender una o dos cosas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 71 1 0 4][f 4 6 13 12 0 1][f 3 1 1 0 0 0]El dise�o del piso probablemente va a cambiar...[n]Tendremos que investigar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 71 1 0 4][f 4 6 13 12 0 1][f 3 1 1 0 0 0]El diseño del piso probablemente va a cambiar...[n]Tendremos que investigar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 27122]Entonces una vez que estemos listos, vamos[n]a empezar. 斡Con suerte encontraremos algo[n]que valga la pena![n][f 1 3 65535][f 1 1][e]

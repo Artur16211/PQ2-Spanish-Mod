@@ -1,5 +1,5 @@
 [msg MSG_000 [Overseer]]
-[f 0 5 65278][f 2 1][f 4 6 36 0 0 1][f 3 1 1 0 0 36013]... Cari�o, has progresado hasta aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 36 0 0 1][f 3 1 1 0 0 36013]... Cariño, has progresado hasta aqu胤.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pareces estar causando estragos por toda mi[n]sociedad justa, como quieras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
@@ -13,7 +13,7 @@
 
 [msg MSG_004 [Overseer]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 25 0 0 0][f 4 6 35 7 0 3][f 4 6 36 12 0 0][f 3 1 1 0 0 0]UIY-2249: has desobedecido tus mandamientos[n]y has actuado sobre tu capricho personal.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No recuerdo haberle dado tales 吋rdenes. 夷Por[n]qu姻 desafiaste tus 吋rdenes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No recuerdo haberle dado tales órdenes. 夷Por[n]qu姻 desafiaste tus órdenes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ribbon]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 7 0 0][f 3 1 1 0 0 35014]...[n][f 1 3 65535][f 1 1][e]
@@ -30,7 +30,7 @@
 [f 0 5 65278][f 2 1][f 4 6 36 12 0 0][f 3 1 1 0 0 0]Tal unidad perturba la armon胤a del mundo, y[n]obviamente debe ser eliminada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Overseer]]
-[f 0 5 65278][f 2 1][f 4 6 36 0 0 0][f 3 1 1 0 0 36015][f 6 1 2 0 0 4]Qu姻 afirmaci吋n extra�a. UIY-2249 es un robot.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 36 0 0 0][f 3 1 1 0 0 36015][f 6 1 2 0 0 4]Qu姻 afirmación extraña. UIY-2249 es un robot.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 36 12 0 0][f 3 1 1 0 0 0]Si un robot no puede funcionar como programado,[n]claramente son defectuosos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tal unidad perturba la armon胤a del mundo, y[n]obviamente debe ser eliminada.[n][f 1 3 65535][f 1 1][e]
 
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 12 1 6][f 3 1 1 0 0 26104][f 6 1 2 0 0 6]Ribbon![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 4 0 6][f 3 1 1 0 0 4036][f 6 1 2 0 0 6]夷Qu姻? 夷C吋mo pudiste?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 4 0 6][f 3 1 1 0 0 4036][f 6 1 2 0 0 6]夷Qu姻? 夷Cómo pudiste?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35017][f 6 1 3 0 0 3]YO SOY... EST� BIEN... TODOS, POR FAVOR.[n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 
 [msg MSG_022 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 6][f 3 1 1 0 0 21073][f 6 1 2 0 0 6]斡S胤! 斡Te preocupa que otros vean que no eres[n]siempre lo correcto![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todo lo que estamos haciendo es salvar a[n]nuestro compa�ero, de nuestro propio libre[n]albedr胤o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todo lo que estamos haciendo es salvar a[n]nuestro compañero, de nuestro propio libre[n]albedr胤o.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 4 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19075]It's true that some rules are needed[n]for a society...[n][f 1 3 65535][f 1 1][e]

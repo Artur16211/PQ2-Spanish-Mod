@@ -40,10 +40,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26073]Vale. Entonces, no lo hagamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26572]斡Genial! Misi吋n cumplida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26572]斡Genial! Misión cumplida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004_1 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26072]斡Genial! Misi吋n cumplida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26072]斡Genial! Misión cumplida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26405]夷Oh?[n][f 1 6 65535][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26409]斡Un poco raro![n][f 1 6 65535][e]
 
 [msg MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26410]斡Cari�o![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26410]斡Cariño![n][f 1 6 65535][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26615]Es un atajo. 夷Vamos a pasar?[n][f 1 3 65535][f 1 1][e]
@@ -136,10 +136,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26002]Lotta 斡Sombras aqu胤! 斡Cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26572]斡Est茨 bien! 斡Atenci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26572]斡Est茨 bien! 斡Atención![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023_1 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26072]斡Est茨 bien! 斡Atenci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26072]斡Est茨 bien! 斡Atención![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 26570]斡Correcto! 斡Podr胤a ser peligroso![n][f 1 3 65535][f 1 1][e]

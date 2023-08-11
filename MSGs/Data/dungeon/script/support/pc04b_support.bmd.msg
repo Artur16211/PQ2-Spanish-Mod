@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55300]Eso es... a Film Ob...[n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_FOLLOW_STAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55301]Hay un FOE en persecuci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55301]Hay un FOE en persecución.[n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_FOLLOW_STAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55302]Te siguen.[n][f 1 6 65535][e]
@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55307]Tu escape fue un 姻xito.[n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_FOLLOW_END__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55308]Afortunadamente, dej� de perseguirte.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55308]Afortunadamente, dejó de perseguirte.[n][f 1 6 65535][e]
 
 [msg MARGARET_KANSI_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55375]Si esas luces logran tocarte, seguramente te[n]ver茨n.[n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55312]Su salud y energ胤a est茨n agotadas.[n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HPTP10__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55313]La curaci吋n debe ser tu primer orden de[n]negocio.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55313]La curación debe ser tu primer orden de[n]negocio.[n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HPTP10__3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55314]Por desgracia, has perdido mucha salud y[n]energ胤a.[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55329]Parece que el partido est茨 sufriendo una[n]falta de energ胤a.[n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55318]Deber胤as priorizar la curaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55318]Deber胤as priorizar la curación.[n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55319]夷Puedo sugerir restaurar su salud?[n][f 1 6 65535][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg MARGARET_ITEM_90_DUNGEON]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55390]Considere limpiar su superflua colecci吋n de[n]art胤culos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55390]Considere limpiar su superflua colección de[n]art胤culos.[n][f 1 6 65535][e]
 
 [msg MARGARET_ITEM_90_DUNGEON_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55391]Tienes un excedente de art胤culos.[n][f 1 6 65535][e]
@@ -221,7 +221,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55373]Si todo el mundo est茨 listo, empecemos.[n][f 1 6 65535][e]
 
 [msg MARGARET_QUEST_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55374]Empecemos la proyecci吋n especial.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55374]Empecemos la proyección especial.[n][f 1 6 65535][e]
 
 [msg MARGARET_TOUHA_25_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55361]Te est茨s volviendo muy dependiente en esto.[n][f 1 6 65535][e]
@@ -251,7 +251,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55351]Parece que tu mapa es muy preciso.[n][f 1 6 65535][e]
 
 [msg MARGARET_MAPPING_ICON_AL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55352]Est茨s ejerciendo juicio s吋lido.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55352]Est茨s ejerciendo juicio sólido.[n][f 1 6 65535][e]
 
 [msg MARGARET_MAPPING_ICON_KA]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55353]Con ese nivel de habilidad, no deber胤as tener[n]miedo de perderte.[n][f 1 6 65535][e]

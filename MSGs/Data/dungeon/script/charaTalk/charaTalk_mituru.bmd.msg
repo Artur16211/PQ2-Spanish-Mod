@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13380]No est茨 mal.[n][f 1 6 65535][e]
 
 [msg MSG_008 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13013]Sinceramente... He tenido suficientes sorpresas[n]desagradables. Al menos eso se acab�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13013]Sinceramente... He tenido suficientes sorpresas[n]desagradables. Al menos eso se acabó.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13382]斡C'est magnifique![n][f 1 6 65535][e]
@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13381]Fantastique![n][f 1 6 65535][e]
 
 [msg MSG_012 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13089]Parece que hemos encontrado un atajo. 夷C吋mo[n]procedemos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13089]Parece que hemos encontrado un atajo. 夷Cómo[n]procedemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0](仮)[n][f 1 3 65535][f 1 1][e]
@@ -76,13 +76,13 @@
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13069]Si lo dices... pero mantente alerta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13067]Estoy de acuerdo. Ser胤a la elecci吋n prudente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13067]Estoy de acuerdo. Ser胤a la elección prudente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13040]Un enemigo formidable...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13047]Estoy viendo muchas sombras cerca. 夷C吋mo nos[n]acercamos a esto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13047]Estoy viendo muchas sombras cerca. 夷Cómo nos[n]acercamos a esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13070]Entonces procedamos con cuidado.[n][f 1 3 65535][f 1 1][e]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13069]Muy bien. Seguiremos adelante por ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13023]Ah胤. Se acab�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13023]Ah胤. Se acabó.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13001]Esto va al cine. 夷Volvemos?[n][f 1 3 65535][f 1 1][e]

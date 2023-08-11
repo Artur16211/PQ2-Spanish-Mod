@@ -1,6 +1,6 @@
 [msg MSG_000 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]No necesito mantener mi personalidad[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 21 4 0 1][f 3 1 1 0 0 21040][f 6 1 2 0 0 6]斡Maldita sea! 斡No puedo sacar la canci吋n de[n]ese trailer de mi cabeza![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 0 1][f 3 1 1 0 0 21040][f 6 1 2 0 0 6]斡Maldita sea! 斡No puedo sacar la canción de[n]ese trailer de mi cabeza![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Y esas letras de mierda me est茨n volviendo[n]m茨s deprimida...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Teddie]]
@@ -29,7 +29,7 @@
 
 [msg MSG_009 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 6]斡Eso ser胤a genial! 斡Me encantar胤a escuchar[n]a Risette cantar en vivo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Con qu姻 frecuencia escuchamos a un 胤dolo[n]cantar s吋lo para nosotros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Con qu姻 frecuencia escuchamos a un 胤dolo[n]cantar sólo para nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 2 100 3][f 3 1 1 0 0 6530][f 3 1 6 0 0 500]*Grecha* Si anima a todos, estar胤a feliz.[n][f 1 3 65535][f 1 1][e]

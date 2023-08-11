@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25067]Estoy de acuerdo. Es imperativo que permanezcamos[n]concentrados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25068]Tienes raz吋n. 斡La seguridad primero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25068]Tienes razón. 斡La seguridad primero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25109]Fue una batalla.[n][f 1 3 65535][f 1 1][e]
@@ -88,13 +88,13 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25072]Tambi姻n me siento valiente. Vamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25068]Tienes raz吋n: 斡la seguridad primero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25068]Tienes razón: 斡la seguridad primero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25109]Eso fue una cantidad de sombras... 夷Seguro[n]que ya no hay m茨s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25088]Podemos volver al Cine desde aqu胤. 夷Cu茨l es[n]tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25088]Podemos volver al Cine desde aqu胤. 夷Cu茨l es[n]tu decisión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25384]斡Cuidado![n][f 1 6 65535][e]

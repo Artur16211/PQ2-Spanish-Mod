@@ -1,5 +1,5 @@
 [msg MAKOTO_FOE_FOLLOW_START_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25300]斡Tenemos compa�胤a![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25300]斡Tenemos compañ胤a![n][f 1 6 65535][e]
 
 [msg MAKOTO_FOE_FOLLOW_START__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25301]斡Viene un FOE![n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25327]斡Oh! Una caja de tesoros.[n][f 1 6 65535][e]
 
 [msg MAKOTO_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25328]Espiar姻 con mi peque�o ojo una caja de[n]tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25328]Espiar姻 con mi pequeño ojo una caja de[n]tesoros.[n][f 1 6 65535][e]
 
 [msg MAKOTO_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25329]夷No es ese tesoro?[n][f 1 6 65535][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25336]夷Crees que podemos pasar por aqu胤?[n][f 1 6 65535][e]
 
 [msg MAKOTO_SHORTCUT_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25337]S吋lo va a mostrar, siempre hay otra manera.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25337]Sólo va a mostrar, siempre hay otra manera.[n][f 1 6 65535][e]
 
 [msg MAKOTO_SHORTCUT_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25338]Esto podr胤a ser un atajo 雨til.[n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25310]夷Por qu姻 es tan persistente![n][f 1 6 65535][e]
 
 [msg MAKOTO_FOE_WARNING_NEAR__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25311]Hay un FOE. Ahora no es el momento de ponerse[n]c吋modo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25311]Hay un FOE. Ahora no es el momento de ponerse[n]cómodo.[n][f 1 6 65535][e]
 
 [msg MAKOTO_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
@@ -236,13 +236,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25355]斡A mitad de ah胤, mantengamos este impulso![n][f 1 6 65535][e]
 
 [msg MAKOTO_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25356]斡La l胤nea de finalizaci吋n est茨 a la vista![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25356]斡La l胤nea de finalización est茨 a la vista![n][f 1 6 65535][e]
 
 [msg MAKOTO_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25357]Bonito, un poco m茨s de piso para golpear![n][f 1 6 65535][e]
 
 [msg MAKOTO_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25358]斡Result� precioso![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25358]斡Resultó precioso![n][f 1 6 65535][e]
 
 [msg MAKOTO_TOUHA_100_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25359]斡Parece profesional![n][f 1 6 65535][e]
@@ -263,7 +263,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25346]Cambi茨ndolo, 夷eh?[n][f 1 6 65535][e]
 
 [msg MAKOTO_MAPPING_CHANGE_CO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25347]Buena decisi吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25347]Buena decisión.[n][f 1 6 65535][e]
 
 [msg MAKOTO_MAPPING_ICON_DEL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25348]夷Est茨s prescindiendo de eso?[n][f 1 6 65535][e]

@@ -5,18 +5,18 @@
 [f 0 5 65278][f 2 1][f 4 6 6 6 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9][f 3 1 6 0 0 500]Lo siento, parece que no puedo encontrarlo[n]por mi cuenta...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]No hay disculpas necesarias. Despu姻s de todo,[n]el legwork es tambi姻n una parte vital[n]de una investigaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]No hay disculpas necesarias. Despu姻s de todo,[n]el legwork es tambi姻n una parte vital[n]de una investigación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 12 0 1][f 3 1 1 0 0 34006][f 6 1 2 0 0 4]斡Oye, oye! Can 夷Les pregunto algo ahora?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, la raz吋n por la que te ped胤[n]que te unieras a nuestro viaje es porque[n]tengo tanta curiosidad por los humanos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, la razón por la que te ped胤[n]que te unieras a nuestro viaje es porque[n]tengo tanta curiosidad por los humanos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 tan curioso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0]Los humanos son los que construyeron todas[n]las instalaciones de esta isla...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me obsesion� mucho leer estas cosas de "libro"[n]en esta habitaci吋n que encontr姻 llamada[n]"Lab de Investigaci吋n"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me obsesionó mucho leer estas cosas de "libro"[n]en esta habitación que encontr姻 llamada[n]"Lab de Investigación"[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Puedes leer?[f 2 7 1 20 0 32][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]A雨n as胤, 夷puedes leer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 0]Considerando c吋mo es capaz de hablar, supongo[n]que su alfabetizaci吋n no es tan[n]extra�a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 0]Considerando cómo es capaz de hablar, supongo[n]que su alfabetización no es tan[n]extraña...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh s胤, tambi姻n esa cosa! 斡S姻 lo misterioso[n]que se mueve con electricidad![n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]S胤. 斡No hay espacio para comer verduras y[n]verduras aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 6 34 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷Eso significa que los humanos son s吋lo[n]carn胤voros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷Eso significa que los humanos son sólo[n]carn胤voros?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_024 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]S胤... Estamos...[f 2 7 1 20 2 32][e]

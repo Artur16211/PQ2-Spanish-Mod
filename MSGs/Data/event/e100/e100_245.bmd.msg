@@ -6,10 +6,10 @@
 
 [msg MSG_002 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 3]As胤 que, um, hay algo que he tenido curiosidad[n]desde que te vi por primera vez a[n]todos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 4]No son s吋lo tus m茨scaras, pero todos tus[n]trajes... me hacen pensar en ladrones[n]fantasma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 4]No son sólo tus m茨scaras, pero todos tus[n]trajes... me hacen pensar en ladrones[n]fantasma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 10]斡Mierda, esto es malo! 夷Ella descubri� qui姻nes[n]somos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 10]斡Mierda, esto es malo! 夷Ella descubrió qui姻nes[n]somos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 6]夷Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
@@ -18,10 +18,10 @@
 [f 0 5 65278][f 2 1][f 4 6 23 14 1 6][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡Skull, idiota! 斡Deja de delatarnos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 24 0 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Esto no es bueno... 夷C吋mo explicar nuestro[n]atuendo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 24 0 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Esto no es bueno... 夷Cómo explicar nuestro[n]atuendo?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]S吋lo vamos a hacer cosplay.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Sólo vamos a hacer cosplay.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Estos son nuestros uniformes para el trabajo.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Somos los ladrones Fantasma..[e]
 
@@ -86,24 +86,24 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30]Si ese es el caso, no deber胤amos charlar aqu胤[n]m茨s tiempo, deber胤amos volver al Cine[n]donde es m茨s seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 0 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 31]夷Cine? Lo siento, pero no tengo idea de d吋nde[n]est茨 uno por aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 0 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 31]夷Cine? Lo siento, pero no tengo idea de dónde[n]est茨 uno por aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 32]Parece que sabemos m茨s de lo que est茨 pasando[n]ahora mismo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 33]斡Vaya! 夷El gato habl�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 33]斡Vaya! 夷El gato habló?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 34][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡No soy un gato![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35][f 6 1 2 0 0 6]夷斡Y AHORA te est茨s sorprendiendo por esto!?[n]斡Hace apenas un segundo est茨bamos luchando[n]juntos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 36]Oh s胤, tienes raz吋n... Entonces, 姻l es un[n]usuario de Persona tambi姻n, supongo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 36]Oh s胤, tienes razón... Entonces, 姻l es un[n]usuario de Persona tambi姻n, supongo?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_031 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]As胤 es.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Es solo un peque�o miau-miau.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1]Es solo un pequeño miau-miau.[f 2 7 1 20 6 32][e]
 [f 0 5 65278][f 2 1]Es una larga historia...[f 2 7 1 20 0 32][e]
 
 [msg MSG_032 [Morgana]]
@@ -111,7 +111,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 38]...Ahora estoy agotado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 18 1 6][f 3 1 1 0 0 39]Eso es correcto. Tomo esta forma debido a la[n]distorsi吋n de Mementos, donde se entrelazan[n]los deseos colectivos y los pensamientos[n]inconscientes de la humanidad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 18 1 6][f 3 1 1 0 0 39]Eso es correcto. Tomo esta forma debido a la[n]distorsión de Mementos, donde se entrelazan[n]los deseos colectivos y los pensamientos[n]inconscientes de la humanidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 40]夷Mementos?[n][f 1 3 65535][f 1 1][e]

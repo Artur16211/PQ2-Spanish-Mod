@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que puedo preparar muchos art胤culos[n]雨tiles.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 22047][f 6 1 2 0 0 4]夷C吋mo qu姻? 夷Quiz茨s algunos dulces nuevos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 22047][f 6 1 2 0 0 4]夷Cómo qu姻? 夷Quiz茨s algunos dulces nuevos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 6 0 0][f 3 1 1 0 0 0]Bueno... Me temo que todav胤a no s姻 todos los[n]detalles. Me disculpo por eso.[n][f 1 3 65535][f 1 1][e]
@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 76 2 0 0][f 3 1 1 0 0 56097][f 6 1 2 0 0 6]斡Me asegurar姻 de superar todas tus[n]expectativas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 2 0 0][f 3 1 1 0 0 56059][f 6 1 2 0 0 6]斡S胤, juro por el nombre de la Habitaci吋n[n]Terciopelo que satisfar姻 sus necesidades![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 2 0 0][f 3 1 1 0 0 56059][f 6 1 2 0 0 6]斡S胤, juro por el nombre de la Habitación[n]Terciopelo que satisfar姻 sus necesidades![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 56018][f 6 1 2 0 0 4]Al por mayor... 夷precios?[n][f 1 3 65535][f 1 1][e]
@@ -34,17 +34,17 @@
 
 [msg MSG_009 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 12 0 0][f 3 1 1 0 0 56041]Veterano... 斡Qu姻 maravilloso t姻rmino![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo he venido a darme cuenta de que no me[n]importa hacer cosas de esta naturaleza.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sólo he venido a darme cuenta de que no me[n]importa hacer cosas de esta naturaleza.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 74 1 3 1][f 3 1 1 0 0 0]Por cierto|*�am-�am* Mis invitados|*�am-�am*.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que ellos tambi姻n est茨n perdidos...[n]*�am-�am* Dios m胤o, este alimento llamado[n]palomitas de ma胤z... *�am-�am* *�am-�am*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 74 1 3 1][f 3 1 1 0 0 0]Por cierto|*ñam-ñam* Mis invitados|*ñam-ñam*.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que ellos tambi姻n est茨n perdidos...[n]*ñam-ñam* Dios m胤o, este alimento llamado[n]palomitas de ma胤z... *ñam-ñam* *ñam-ñam*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]斡Hermana! Es mal educado comer y hablar al[n]mismo tiempo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 1 3 0][f 3 1 1 0 0 0]Theo, deber胤as|*�am-�am*|intentar comer mucho[n]*�am-�am*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 1 3 0][f 3 1 1 0 0 0]Theo, deber胤as|*ñam-ñam*|intentar comer mucho[n]*ñam-ñam*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 10 0 0][f 3 1 1 0 0 56050][f 6 1 2 0 0 0]夷Est茨s tratando de deshidratarme!? 斡Esto es[n]igual que esa maldita harina de soja otra[n]vez![n][f 1 3 65535][f 1 1][e]
@@ -60,15 +60,15 @@
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 61066]Est茨 bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 0 2 1][f 3 1 1 0 0 0]*�am-�am* Esto es bastante... *�am-�am*[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hmm... Si fuera a cambiar los condimentos--*�am-�am*[n]quiz茨s podr胤a crear nuevos[n]sabores...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 0 2 1][f 3 1 1 0 0 0]*ñam-ñam* Esto es bastante... *ñam-ñam*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hmm... Si fuera a cambiar los condimentos--*ñam-ñam*[n]quiz茨s podr胤a crear nuevos[n]sabores...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 61018][f 6 1 2 0 0 4]夷Eh? 夷Nuevos sabores?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 12 0 0][f 3 1 1 0 0 0]夷Oh? 夷Te interesa?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces, me dedicar姻 completamente a la[n]creaci吋n de nuevas variedades de palomitas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces, me dedicar姻 completamente a la[n]creación de nuevas variedades de palomitas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Nagi?[n][f 1 3 65535][f 1 1][e]

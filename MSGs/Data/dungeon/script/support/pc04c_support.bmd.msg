@@ -2,13 +2,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Todo el mundo, un FOE te persigue.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_FOLLOW_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]Por desgracia, parece que el FOE te not�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]Por desgracia, parece que el FOE te notó.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_FOLLOW_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]夷Eh? 斡Oh, te ruego que tengas cuidado![n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]斡Todos, se requiere precauci吋n de ustedes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]斡Todos, se requiere precaución de ustedes![n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]斡Todos, por favor observen que hay un FOE![n][f 1 6 65535][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21358]Has logrado poner distancia entre t雨 y el[n]FOE.[n][f 1 6 65535][e]
 
 [msg THEODOR_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21348]Usted debe proceder sin permitir la exposici吋n[n]por las luces.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21348]Usted debe proceder sin permitir la exposición[n]por las luces.[n][f 1 6 65535][e]
 
 [msg THEODOR_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21343]Sigue tan tranquilamente como sea posible.[n][f 1 6 65535][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21348]斡S胤, son escaleras![n][f 1 6 65535][e]
 
 [msg THEODOR_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21358]Impresionante, hermana. Tienes poderes tan[n]agudos de observaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21358]Impresionante, hermana. Tienes poderes tan[n]agudos de observación.[n][f 1 6 65535][e]
 
 [msg THEODOR_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]斡Una recompensa en forma de una caja de[n]tesoros![n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]No se rendir茨...[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_WARNING_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21359]Todos, por favor usen tanta precauci吋n como[n]puedan manejar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21359]Todos, por favor usen tanta precaución como[n]puedan manejar.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]Hermana, por favor c茨lmate. Solo necesitan[n]reagruparse y curarse.[n][f 1 6 65535][e]
@@ -128,10 +128,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]La salud de todos est茨 bastante agotada.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]Deber胤as considerar la curaci吋n[n]inmediatamente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]Deber胤as considerar la curación[n]inmediatamente.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21349]Por favor, priorice la curaci吋n de sus[n]heridas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21349]Por favor, priorice la curación de sus[n]heridas.[n][f 1 6 65535][e]
 
 [msg THEODOR_1PERSON_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]夷No est茨 tu salud y tu resistencia corriendo[n]bastante bajo?[n][f 1 6 65535][e]
@@ -146,7 +146,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]La energ胤a de todos est茨 baja... 夷Quieres[n]hablar de eso?[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]Deber胤as cambiar tu estrategia debido a tu[n]disminuci吋n de la energ胤a.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]Deber胤as cambiar tu estrategia debido a tu[n]disminución de la energ胤a.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21351]斡Bien dicho, hermana! 斡Eso es un consejo[n]maravilloso![n][f 1 6 65535][e]
@@ -212,13 +212,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21353]Y su hermano, Theodore. Por favor, tranquil胤zate[n]con nosotros.[n][f 1 6 65535][e]
 
 [msg THEODOR_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]Bueno, vamos a empezar nuestra exploraci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]Bueno, vamos a empezar nuestra exploración.[n][f 1 6 65535][e]
 
 [msg THEODOR_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]La proyecci吋n especial ha comenzado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]La proyección especial ha comenzado.[n][f 1 6 65535][e]
 
 [msg THEODOR_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Mi hermana y yo te acompa�aremos hasta su[n]final.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Mi hermana y yo te acompañaremos hasta su[n]final.[n][f 1 6 65535][e]
 
 [msg THEODOR_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]夷Empezamos?[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21350]Lo has logrado a mitad de camino. Ustedes[n]son claramente los adecuados para este[n]trabajo.[n][f 1 6 65535][e]
 
 [msg THEODOR_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]S吋lo queda un smidgen de suelo sin explotar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]Sólo queda un smidgen de suelo sin explotar.[n][f 1 6 65535][e]
 
 [msg THEODOR_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]Un poco m茨s joven y este mapa est茨 completo![n][f 1 6 65535][e]
@@ -248,13 +248,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]El mapa est茨 completo. Lo has hecho bien.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_ICON_ALL]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]Est茨s dibujando el mapa con precisi吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21357]Est茨s dibujando el mapa con precisión.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_ICON_ALL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]Hermana... 夷Es verdad?[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_ICON_KAI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]Tienes una excelente comprensi吋n de d吋nde[n]est茨n las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]Tienes una excelente comprensión de dónde[n]est茨n las escaleras.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_ICON_KAI_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]夷Eh? 斡Hermana, no he preparado nada de eso![n][f 1 6 65535][e]
@@ -263,7 +263,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]Qu姻 incre胤ble sabor art胤stico.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_CHANGE_C_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]Espero ver el mapa en su encarnaci吋n final[n]y gloriosa.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]Espero ver el mapa en su encarnación final[n]y gloriosa.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_ICON_DEL]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]夷Hermana? 夷Quieres descartarme?[n][f 1 6 65535][e]
@@ -272,7 +272,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Siempre es mejor volver y corregir los[n]errores.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_MEMO_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]Esa atenci吋n al detalle es espl姻ndida.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]Esa atención al detalle es espl姻ndida.[n][f 1 6 65535][e]
 
 [msg THEODOR_MAPPING_MEMO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21350]Bien, lo est茨s notando.[n][f 1 6 65535][e]

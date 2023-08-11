@@ -28,13 +28,13 @@
 
 [msg MSG_009 [Chie]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 4 12 0 4][f 3 1 1 0 0 11]夷Hola? 斡Tiene sentido para m胤![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]No ser胤a tan malo si eso fuera s吋lo un tipo[n]de traje como con Teddie, pero es[n]espeluznante, y tampoco nos hablar茨...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]No ser胤a tan malo si eso fuera sólo un tipo[n]de traje como con Teddie, pero es[n]espeluznante, y tampoco nos hablar茨...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 5][f 4 6 5 0 0 0][f 3 1 1 0 0 13]Me pregunto... Si le arrancamos la cabeza,[n]夷c吋mo funciona Teddie?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 5][f 4 6 5 0 0 0][f 3 1 1 0 0 13]Me pregunto... Si le arrancamos la cabeza,[n]夷cómo funciona Teddie?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 11 0 4][f 3 1 1 0 0 14]Sent胤 que un tir吋n me rasg� la columna...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 11 0 4][f 3 1 1 0 0 14]Sent胤 que un tirón me rasgó la columna...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 15]*giggle*[n][f 1 3 65535][f 1 1][e]
@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 81 0 0 0][f 3 1 1 0 0 19]夷Eh? 夷Qu姻 quiero hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 12 0 0][f 3 1 1 0 0 20]Mi recomendaci吋n es el juego de gr雨as[n]Featherman, 斡s吋lo se encuentra en Akiba![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 12 0 0][f 3 1 1 0 0 20]Mi recomendación es el juego de gr雨as[n]Featherman, 斡sólo se encuentra en Akiba![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017_5 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 18 1 0][f 3 1 1 0 0 21][f 6 1 2 0 0 6]La clave de la victoria est茨 con la fuerza[n]del brazo, pero tambi姻n tienes que comprobar[n]el ancho de las garras cuando est茨[n]abierta![n][f 1 3 65535][f 1 1][e]
@@ -63,7 +63,7 @@
 [msg MSG_019 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 0 0][f 3 1 1 0 0 23]Ah胤 est茨, tenemos una nueva pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Intercomunicaci吋n De Teatro]]
+[msg MSG_020 [Intercomunicación De Teatro]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24][f 6 1 9 0 0 1]Tenemos un anuncio para nuestros clientes.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25][f 6 1 9 0 0 1]Una nueva pel胤cula comenzar茨 a aparecer en[n]el Cine 3 moment茨neamente. Repito...[n][f 1 3 65535][f 1 1][e]
 

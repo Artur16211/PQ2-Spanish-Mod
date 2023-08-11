@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 3][f 3 1 1 0 0 0]Tiene mucho esp胤ritu. Es casi como tener otro[n]Skull en el equipo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 1 1][f 3 1 1 0 0 21022]Oye, no soy como 姻l... No soy un mat吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 1 1][f 3 1 1 0 0 21022]Oye, no soy como 姻l... No soy un matón.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es el tipo serio.[f 2 7 1 20 2 32][e]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 21063][f 6 1 2 0 0 2]夷A qui姻n llamas un delincuente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Bueno, 姻l es bastante violento, puedo ver[n]c吋mo la gente lo juzgar胤a mal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Bueno, 姻l es bastante violento, puedo ver[n]cómo la gente lo juzgar胤a mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 0]Realmente le importan sus amigos. Se enoja[n]un poco demasiado f茨cilmente.[n][f 1 3 65535][f 1 1][e]

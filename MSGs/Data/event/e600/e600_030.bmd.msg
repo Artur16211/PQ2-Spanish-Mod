@@ -36,10 +36,10 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 13]斡Gracias! No importa si lo hago...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 4 0 0 1][f 3 1 1 0 0 14][f 6 1 2 0 0 4]夷Algo bueno en la televisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 4 0 0 1][f 3 1 1 0 0 14][f 6 1 2 0 0 4]夷Algo bueno en la televisión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 0 4][f 3 1 1 0 0 15]Dice que va a haber una repetici吋n de una[n]pel胤cula despu姻s de esto. Me sorprende que[n]no sea otra telenovela.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 0 4][f 3 1 1 0 0 15]Dice que va a haber una repetición de una[n]pel胤cula despu姻s de esto. Me sorprende que[n]no sea otra telenovela.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 16]Parece que ser茨 una pel胤cula de dinosaurios.[n][f 1 3 65535][f 1 1][e]
@@ -78,10 +78,10 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 29]Te tengo. Ser茨 mejor que no te asustes,[n]Teddie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 73 10 0 1][f 3 1 1 0 0 30][f 6 1 2 0 0 10]*gulp* 夷C吋mo lo supo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 73 10 0 1][f 3 1 1 0 0 30][f 6 1 2 0 0 10]*gulp* 夷Cómo lo supo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 1 0][f 3 1 1 0 0 31]Veamos, vamos a ver, perm胤teme dar esto aqu胤[n]una peque�a prueba de sabor...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 1 0][f 3 1 1 0 0 31]Veamos, vamos a ver, perm胤teme dar esto aqu胤[n]una pequeña prueba de sabor...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡Oooh! 斡Esto es incre胤ble, Nanako-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kanji]]

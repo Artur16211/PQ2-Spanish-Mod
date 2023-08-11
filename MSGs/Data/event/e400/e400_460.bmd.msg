@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 4 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 6]夷Eh? 斡Pero eso es peligroso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 8]Lo siento, pero tengo la sensaci吋n de que...[n]Necesito hablar con 姻l.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 8]Lo siento, pero tengo la sensación de que...[n]Necesito hablar con 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Est茨 bien.[f 2 7 1 20 2 32][e]
@@ -52,14 +52,14 @@
 [f 0 5 65278][f 2 1][f 4 6 81 7 2 0][f 3 1 1 0 0 17]...te ten胤a miedo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Ni siquiera pod胤a mirarte... Estaba demasiado[n]asustada para enfrentarte.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 19]Pero ahora, finalmente recuerdo por qu姻.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 20]Trataba de destruir mi coraz吋n, y tem胤a que[n]vieras eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 20]Trataba de destruir mi corazón, y tem胤a que[n]vieras eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Doe]]
-[f 0 5 65278][f 2 1][f 4 6 82 0 0 0][f 3 1 1 0 0 21]As胤 es. Corriste de m胤. As胤 que no te har胤a[n]da�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 82 0 0 0][f 3 1 1 0 0 21]As胤 es. Corriste de m胤. As胤 que no te har胤a[n]daño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 22]No quer胤a que me vieras as胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Quer胤a hacerme creer que no hab胤a nada m茨s[n]que pudiera hacer sobre c吋mo soy.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Quer胤a hacerme creer que no hab胤a nada m茨s[n]que pudiera hacer sobre cómo soy.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 24]Por eso me qued姻 viendo esas pel胤culas[n]distorsionadas para convencerme de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Fem Protag]]
@@ -84,7 +84,7 @@
 
 [msg MSG_025 [Doe]]
 [f 0 5 65278][f 2 1][f 4 6 82 1 1 0][f 3 1 1 0 0 33]Recuerda tu debilidad que te hizo correr.[n]Todo porque no pod胤as enfrentarlo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 2 0 0 4]Si te alejas, nadie puede criticarte. 夷No[n]quieres evitar que te hagan da�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 2 0 0 4]Si te alejas, nadie puede criticarte. 夷No[n]quieres evitar que te hagan daño?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 35]No es verdad... Eso es...[n][f 1 3 65535][f 1 1][e]

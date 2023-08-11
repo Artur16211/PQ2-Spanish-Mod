@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6313]Los ataques m茨gicos no funcionar茨n ahora[n]mismo. 斡Usa algo m茨s![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_020]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6314]斡Cuidado! 斡El pr吋ximo ataque es grande![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6314]斡Cuidado! 斡El próximo ataque es grande![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_021]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6220]Yipe, ese es intimidante... 斡Cuidado![n][f 1 6 65535][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6321]斡Podr胤amos ganar si salimos! 夷Qu姻 deber胤amos[n]hacer.[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_024]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6322]斡No seas imprudente! 斡Si se ve demasiado[n]duro, tu mejor opci吋n es correr![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6322]斡No seas imprudente! 斡Si se ve demasiado[n]duro, tu mejor opción es correr![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_025]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6222]斡No tenemos datos sobre esa Sombra! Deber胤amos[n]encontrar sus debilidades.[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6528]斡Puedes hacerlo, Crow![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6324]斡Nada que no puedas manejar, s吋lo mant姻n tu[n]foco![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6324]斡Nada que no puedas manejar, sólo mant姻n tu[n]foco![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6325]斡No decepciones a tu guardia![n][f 1 6 65535][e]
@@ -191,10 +191,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6230]Oh no, 夷qu姻 hacemos...? 斡No podemos escapar![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_064]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6231]斡El intento de escape fall�! 斡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6231]斡El intento de escape falló! 斡Cuidado![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6232]斡Ni hablar! 斡Un FOE apareci�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6232]斡Ni hablar! 斡Un FOE apareció![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_066]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6233]Pens姻 que todos sab胤an que era grosero invadir[n]el espacio personal. 斡Adivina que no![n][f 1 6 65535][e]
@@ -251,7 +251,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6617]斡Pobre Koro-chan est茨 herido![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_084]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6618]斡Shinjiro-san est茨 en una mala situaci吋n[n]ahora mismo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6618]斡Shinjiro-san est茨 en una mala situación[n]ahora mismo![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_085]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6619]斡Cuidado! 斡No necesitar胤a mucho m茨s para[n]noquearte![n][f 1 6 65535][e]
@@ -278,7 +278,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_093]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6627]斡La situaci吋n de Noir se ve terrible![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6627]斡La situación de Noir se ve terrible![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_094]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6628]斡Cuidado! 斡Crow est茨 en el borde de la[n]conciencia![n][f 1 6 65535][e]
@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6401]斡Oh no! 斡Alguien ha sido petrificado![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_098]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6402]Whoa! 斡Cuando atacas, tambi姻n te da�as![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6402]Whoa! 斡Cuando atacas, tambi姻n te dañas![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_099]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6403]斡Tienes que curar ese veneno, r茨pido![n][f 1 6 65535][e]
@@ -302,7 +302,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6404]斡Alguien est茨 dormido! 斡Despi姻rtenlos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_101]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6405]斡Alguien est茨 confundido! 夷C吋mo logramos que[n]vengan a sus sentidos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6405]斡Alguien est茨 confundido! 夷Cómo logramos que[n]vengan a sus sentidos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_102]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6406]夷Qu姻? 斡Alguien ha sido paralizado![n][f 1 6 65535][e]
@@ -362,16 +362,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6424]斡La electricidad es efectiva! 斡Explota esa[n]debilidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_121]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6425]Ir a Nuclear es nuestra mejor opci吋n! 斡Esa[n]es su debilidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6425]Ir a Nuclear es nuestra mejor opción! 斡Esa[n]es su debilidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_122]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6426]La psicookinesis es efectiva. 斡S茨calo antes[n]de que se ponga psic吋pata en Estados[n]Unidos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6426]La psicookinesis es efectiva. 斡S茨calo antes[n]de que se ponga psicópata en Estados[n]Unidos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_123]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6427]斡Noticias celestiales! 斡Ataques que la[n]Bendici吋n es bastante eficaz contra este![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6427]斡Noticias celestiales! 斡Ataques que la[n]Bendición es bastante eficaz contra este![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_124]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6428]Ataques con 斡La maldici吋n son buenas apuestas[n]para este![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6428]Ataques con 斡La maldición son buenas apuestas[n]para este![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_125]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6241]斡Lo est茨s haciendo genial, todos![n][f 1 6 65535][e]
@@ -383,13 +383,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6341]斡S胤! 斡Pueden hacerlo, chicos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_128]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6342]S吋lo lo dir姻... 斡est茨s todo a punto![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6342]Sólo lo dir姻... 斡est茨s todo a punto![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_129]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6343]斡Ahora puedes usar Relevo![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_130]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6344]斡Podr胤as hacer alg雨n da�o grave con un pase[n]de Baton![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6344]斡Podr胤as hacer alg雨n daño grave con un pase[n]de Baton![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_131]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6245]斡Estoy listo para apoyar en un momento de[n]aviso![n][f 1 6 65535][e]
@@ -518,10 +518,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6931]Este mundo est茨 tan equivocado... 斡Bueno,[n]dale todo lo que tienes, chicos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_173]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6932]Gracias a Oracle y Ribbon-chan, ha perdido[n]su capacidad de reparaci吋n. 斡Vamos, vamos,[n]vamos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6932]Gracias a Oracle y Ribbon-chan, ha perdido[n]su capacidad de reparación. 斡Vamos, vamos,[n]vamos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_174]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6933]斡Su capacidad de reparaci吋n es deshabilitada![n]斡Dale todo lo que tienes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6933]斡Su capacidad de reparación es deshabilitada![n]斡Dale todo lo que tienes![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_175]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6934]Espera, 夷qu姻?[n][f 1 6 65535][e]
@@ -554,7 +554,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6951]Hemos llegado hasta aqu胤. 斡Ahora no hay marcha[n]atr茨s![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_185]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6952]斡La afinidad del enemigo cambi�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6952]斡La afinidad del enemigo cambió![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_186]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6953]Una gran cantidad de poder est茨 construyendo...[n]斡Podr胤amos estar en grandes[n]problemas![n][f 1 6 65535][e]
@@ -569,5 +569,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6956]夷Qu姻...? 斡Ahora el tiempo va al rev姻s![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_190]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6957]Est茨 usando nuestras propias acciones desde[n]antes de revertir el tiempo...! 夷C吋mo es[n]posible...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6957]Est茨 usando nuestras propias acciones desde[n]antes de revertir el tiempo...! 夷Cómo es[n]posible...[n][f 1 6 65535][e]
 

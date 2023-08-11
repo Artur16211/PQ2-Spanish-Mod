@@ -8,16 +8,16 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Eres una persona[n][f 1 2 120][f 1 1][e]
 
 [msg MSG_003]
-[f 0 5 65278][f 2 1][f 0 6 255 255]S吋lo eres una chica, s吋lo una mancha en este[n]mundo[n][f 1 2 150][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Sólo eres una chica, sólo una mancha en este[n]mundo[n][f 1 2 150][f 1 1][e]
 
 [msg MSG_004]
-[f 0 5 65278][f 2 1][f 0 6 255 255]S吋lo eres una chica, s吋lo una mancha en este[n]mundo[n][f 1 2 120][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Sólo eres una chica, sólo una mancha en este[n]mundo[n][f 1 2 120][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 0 6 255 255]No necesito mantener mi personalidad[n][f 1 2 120][f 1 1][e]
 
 [msg MSG_006]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡La la, adi吋s individualidad![n][f 1 2 150][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡La la, adiós individualidad![n][f 1 2 150][f 1 1][e]
 
 [msg MSG_007]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Sigue a la multitud y no hay necesidad de[n]preocuparse[n][f 1 2 180][f 1 1][e]

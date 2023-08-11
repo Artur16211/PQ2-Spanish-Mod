@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1]斡Qu姻 elegancia en simplicidad! En verdad, es[n]una obra de arte, y nada menos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003_1 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Ahora, curiosidades como estas suelen contener[n]energ胤a oculta, pero... se siente[n]extra�amente vac胤a.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Ahora, curiosidades como estas suelen contener[n]energ胤a oculta, pero... se siente[n]extrañamente vac胤a.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Puedes decirlo?[f 2 7 1 64 0 32][e]
@@ -31,10 +31,10 @@
 [f 0 5 65278][f 2 1]Si me permites, puedo revelar su verdadero[n]valor y [f 0 1 2] sacar su pleno poder[f 0 1 0][n].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_05]
-[f 0 5 65278][f 2 1][f 4 6 64 12 0 3][f 3 1 1 0 0 0]Le dije c吋mo tiramos al resto, sin saber su[n]valor...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 12 0 3][f 3 1 1 0 0 0]Le dije cómo tiramos al resto, sin saber su[n]valor...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_06 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 10 0 1][f 3 1 1 0 0 56036][f 6 1 2 0 0 10]夷Qu姻...? 夷C吋mo pudiste ser tan terrible,[n]tr茨gicamente desperdicio...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 10 0 1][f 3 1 1 0 0 56036][f 6 1 2 0 0 10]夷Qu姻...? 夷Cómo pudiste ser tan terrible,[n]tr茨gicamente desperdicio...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_06_1 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Por lo que s姻, todos est茨n elaborados con[n]habilidad y cuidado. Verdaderas obras[n]maestras![n][f 1 3 65535][f 1 1][e]

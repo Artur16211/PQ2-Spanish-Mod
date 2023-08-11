@@ -1,5 +1,5 @@
 [msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 3][f 3 1 1 0 0 23045]斡Ah胤 est茨 la segunda se�al![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 3][f 3 1 1 0 0 23045]斡Ah胤 est茨 la segunda señal![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Bueno, veamos lo que dice.[n][f 1 3 65535][f 1 1][e]
@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"A la cabeza del carrito, ves a cinco[n]trabajadores. Si el carrito no se detiene, sus[n]vidas estar茨n en peligro"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 3][f 3 1 1 0 0 11009]S姻 ad吋nde va esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 3][f 3 1 1 0 0 11009]S姻 adónde va esto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mira, estos tipos de Cart Crew todav胤a tienen[n]piernas, 夷verdad? 夷Por qu姻 no se[n]escapan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
@@ -29,16 +29,16 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 3][f 3 1 1 0 0 3101]Otro escenario loco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]En ejecuci吋n, no es tan diferente de la[n]primera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]En ejecución, no es tan diferente de la[n]primera.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No podemos hacer nada y perder a cinco[n]personas, o podemos sacrificar a una persona[n]para salvar sus vidas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero esta vez, no es solo cuesti吋n de cambiar[n]de rumbo. Estamos empujando a un hombre[n]a su muerte...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero esta vez, no es solo cuestión de cambiar[n]de rumbo. Estamos empujando a un hombre[n]a su muerte...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 3][f 3 1 1 0 0 0]Si empujamos al hombre, girar a la derecha...[n]Si no, gira a la izquierda...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 18 6 0 1][f 3 1 1 0 0 18009]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 0]Mira, es una pregunta de mierda, pero tenemos[n]que seguir movi姻ndonos. S吋lo tengo que[n]elegir uno y ir.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 0][f 3 1 1 0 0 0]Mira, es una pregunta de mierda, pero tenemos[n]que seguir movi姻ndonos. Sólo tengo que[n]elegir uno y ir.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Hay una pregunta escrita en el cartel...[n][f 1 3 65535][f 1 1][e]

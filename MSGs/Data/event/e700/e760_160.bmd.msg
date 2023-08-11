@@ -1,5 +1,5 @@
 [msg MSG_000 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 2 100 3][f 3 1 1 0 0 6503][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Es un callej吋n sin salida. 斡Parece un buen[n]momento para un descanso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 100 3][f 3 1 1 0 0 6503][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Es un callejón sin salida. 斡Parece un buen[n]momento para un descanso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 8 0 1][f 3 1 1 0 0 0]Awright...[n][f 1 3 65535][f 1 1][e]
@@ -23,10 +23,10 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 0]夷No crees que vas un poco por aqu胤? No est茨[n]nada fuera de lo com雨n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0]斡No hay nada com雨n al respecto! 夷C吋mo diablos[n]puedes sentirte as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0]斡No hay nada com雨n al respecto! 夷Cómo diablos[n]puedes sentirte as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 26509][f 3 1 6 0 0 500]Puedo entender c吋mo te sientes, Skull, pero[n]tu fanboying est茨 empezando a ser[n]espeluznante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 26509][f 3 1 6 0 0 500]Puedo entender cómo te sientes, Skull, pero[n]tu fanboying est茨 empezando a ser[n]espeluznante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 0]斡Shuddup! 斡Al menos d姻jame disfrutar de esto![n][f 1 3 65535][f 1 1][e]

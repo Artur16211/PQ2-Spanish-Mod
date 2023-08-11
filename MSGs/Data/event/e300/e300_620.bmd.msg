@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 6 4 1 0][f 3 1 1 0 0 2]Bueno, ese fue el caso con los otros...[n]pero... este final fue...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 84 12 0 3][f 3 1 1 0 0 3]Hikari-san... 夷Qu姻 te pareci� la pel胤cula?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 84 12 0 3][f 3 1 1 0 0 3]Hikari-san... 夷Qu姻 te pareció la pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 18 2 0][f 3 1 1 0 0 4]Me di cuenta de que soy como Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
@@ -16,12 +16,12 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 84 6 0 0][f 3 1 1 0 0 7]夷En serio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Hikari]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 8]As胤 pensaban los robots, tambi姻n... La[n]individualidad era s吋lo un problema para[n]ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 8]As胤 pensaban los robots, tambi姻n... La[n]individualidad era sólo un problema para[n]ellos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 9]Se supone que eres igual que todos los dem茨s,[n]eso es lo que me dec胤a.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 16 2 0][f 3 1 1 0 0 10]Ribbon-chan eligi� cambiar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 16 2 0][f 3 1 1 0 0 10]Ribbon-chan eligió cambiar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 81 6 2 0][f 3 1 1 0 0 11]Pero, porque cambi�, ella...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 81 6 2 0][f 3 1 1 0 0 11]Pero, porque cambió, ella...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Doe]]

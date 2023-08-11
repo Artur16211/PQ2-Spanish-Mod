@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 0]夷Qu姻? 夷Qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [�]]
-[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 0]... anunciaron, reanim� la decisi吋n correcta[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 0]... anunciaron, reanimó la decisión correcta[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [- 夷Qu姻]]
 [f 0 5 65278][f 2 1][f 4 6 80 0 0 0][f 3 1 1 0 0 0]夷Te parece bien[n][f 1 3 65535][f 1 1][e]

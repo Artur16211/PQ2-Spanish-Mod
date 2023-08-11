@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Se han ido...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 21022][f 6 1 2 0 0 2]Amigo, 夷qu姻 demonios? 夷puedes llamar criminal[n]a alguien s吋lo porque lo dice[n]Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 21022][f 6 1 2 0 0 2]Amigo, 夷qu姻 demonios? 夷puedes llamar criminal[n]a alguien sólo porque lo dice[n]Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todos estaban de acuerdo con esta idea de[n]castigo, 斡pero ni siquiera est茨n pensando[n]por s胤 mismos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
@@ -61,12 +61,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No parec胤a que esas dos personas fueran[n]exactamente superfans suyas tampoco.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]S胤, me parece que simplemente lo apoyan porque[n]est茨 en una posici吋n de poder...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]S胤, me parece que simplemente lo apoyan porque[n]est茨 en una posición de poder...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"斡Vaya tipo de h姻roe ES 姻l! Podr胤a ser el[n]mismo emperador que desfilaba con su ropa[n]'nueva'[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28015]Mencionaron algo m茨s curioso...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Recuerdas c吋mo dijeron que alguien m茨s entr吋[n]en la ciudad adem茨s de nosotros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Recuerdas cómo dijeron que alguien m茨s entró[n]en la ciudad adem茨s de nosotros?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qui姻n podr胤a ser?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yusuke]]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 23069]S胤, estoy muy preocupada por esos dos.[n]斡Apres雨rense a encontrarlos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 23078]Puedo entender c吋mo te sientes, pero tenemos[n]que priorizar el rescate de Queen y Noir[n]primero.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 23078]Puedo entender cómo te sientes, pero tenemos[n]que priorizar el rescate de Queen y Noir[n]primero.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Claro que s胤! 斡Abran paso![n][f 1 3 65535][f 1 1][e]

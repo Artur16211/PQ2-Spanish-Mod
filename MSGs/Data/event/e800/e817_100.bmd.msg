@@ -1,8 +1,8 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 4 2 1][f 3 1 1 0 0 54142]Bravo, bravo. Mi sombrero est茨 fuera de tus[n]habilidades de investigaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 2 1][f 3 1 1 0 0 54142]Bravo, bravo. Mi sombrero est茨 fuera de tus[n]habilidades de investigación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 74 1 100 0][f 4 6 11 12 1 3][f 3 1 1 0 0 11092]Realmente nos diste un mal momento, ya sabes.[n]Fue dif胤cil imaginarlo todo con cerca[n]de ninguna informaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 1 100 0][f 4 6 11 12 1 3][f 3 1 1 0 0 11092]Realmente nos diste un mal momento, ya sabes.[n]Fue dif胤cil imaginarlo todo con cerca[n]de ninguna información.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001_1 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]Pero la gente de Kamo City puede dormir bien[n]esta noche, gracias a m胤...[n][f 1 3 65535][f 1 1][e]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 6][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]夷Qu姻...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 2 0 0][f 3 1 1 0 0 13033]... Ten胤a la sensaci吋n de que ibas a decir[n]eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 2 0 0][f 3 1 1 0 0 13033]... Ten胤a la sensación de que ibas a decir[n]eso.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]Eso es pensar como Junpei.[f 2 7 1 64 12 0][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 8 0 0][f 3 1 1 0 0 13052][f 6 1 2 0 0 10]No act雨es como si fuera tan conmovedor...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 8 1 3][f 3 1 1 0 0 21031]Bueno, s吋lo resolvimos el caso por toda la[n]informaci吋n que obtuvimos de la gente de[n]la ciudad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 8 1 3][f 3 1 1 0 0 21031]Bueno, sólo resolvimos el caso por toda la[n]información que obtuvimos de la gente de[n]la ciudad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 1][f 3 1 1 0 0 0]No creo que hubieran hecho algo as胤 antes.[n]Realmente han cambiado.[n][f 1 3 65535][f 1 1][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 74 0 100 1][f 3 1 1 0 0 54115]Ahora bien, aqu胤 est茨 tu recompensa. Por[n]favor, ac姻ptalo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13129]Perd吋name, pero me gustar胤a que tuvieras[n]esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13129]Perdóname, pero me gustar胤a que tuvieras[n]esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 0 0 3][f 3 1 1 0 0 25088][f 6 1 2 0 0 4]夷Gloves?[n][f 1 3 65535][f 1 1][e]
@@ -68,10 +68,10 @@
 [f 0 5 65278][f 2 1][f 4 6 13 10 0 0][f 3 1 1 0 0 13093]夷En serio? Despu姻s de ver a tu Persona,[n]asum胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 25015]Creo que es s吋lo una representaci吋n de c吋mo[n]me siento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 25015]Creo que es sólo una representación de cómo[n]me siento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021_1 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Responsabilidad, regulaciones... S吋lo quiero[n]tirar todas esas cosas a toda velocidad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Responsabilidad, regulaciones... Sólo quiero[n]tirar todas esas cosas a toda velocidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 1 0][f 3 1 1 0 0 13033]Parece que ambos cargamos una carga similar[n]despu姻s de todo.[n][f 1 3 65535][f 1 1][e]

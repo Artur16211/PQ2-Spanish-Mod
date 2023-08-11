@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3300]斡Heh! Lo siento, 斡pero voy a salir! 斡Te[n]estamos derribando![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_002]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3301]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3301]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_003]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3302]夷Qu姻? 斡Un FOE! Mierda...[n][f 1 6 65535][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3305]斡Un poco raro! 斡Suerte![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_007]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3306]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3306]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_008]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3310]斡M茨s r茨pido[n][f 1 6 65535][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3312]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3320]斡Mierda! 斡Este es duro! 夷C吋mo salimos de[n]esto?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3320]斡Mierda! 斡Este es duro! 夷Cómo salimos de[n]esto?[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3321]夷Te gustar胤a saber algo[n][f 1 6 65535][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3324]斡Oye! 斡Podr胤amos ganar esto![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_016]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3325]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3325]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_017]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3326]斡Tranquilos f茨ciles! 斡Lo tenemos![n][f 1 6 65535][e]
@@ -56,13 +56,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3327]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3328]Whoa! 夷La Sombra cambi�?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3328]Whoa! 夷La Sombra cambió?[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3329]斡Leer m茨s[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_021]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3330]斡No! 斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3330]斡No! 斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_022]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3331]夷Qu姻 vamos a hacer?[n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3414]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_038]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3415]夷C吋mo se dice[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3415]夷Cómo se dice[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_039]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3416]夷Qu姻[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3421]Alternativamente..[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_045]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3422]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3422]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_046]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3423]斡No[n][f 1 6 65535][e]
@@ -173,7 +173,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3345]斡Oh! 斡Parece que es mi momento de brillar![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_058]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3501]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3501]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_059]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3502]�? anunciamos nuevamente[n][f 1 6 65535][e]
@@ -194,7 +194,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3507]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3508]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3508]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_066]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3509]斡No[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3517]斡Oh[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_075]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3518]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3518]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_076]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3519]斡No[n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3524]< те�енныенный[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_082]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3525]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3525]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_083]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3526]Alternativamente[n][f 1 6 65535][e]

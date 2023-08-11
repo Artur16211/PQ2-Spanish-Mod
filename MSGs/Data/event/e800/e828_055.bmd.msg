@@ -9,7 +9,7 @@
 
 [msg MSG_003 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Se llama conductor de motor, y, s胤, esto[n]parece ser lo que est茨bamos buscando.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No parece ser da�ado. Todo lo que queda es[n]llevar esto al robot en necesidad y podemos[n]comenzar las reparaciones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No parece ser dañado. Todo lo que queda es[n]llevar esto al robot en necesidad y podemos[n]comenzar las reparaciones.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 16 2 0 4][f 3 1 1 0 0 16044][f 6 1 2 0 0 6]斡Es una gran noticia! Volvamos enseguida![n][f 1 3 65535][f 1 1][e]

@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1]Parece que un potencial oculto ha despertado[n]en [f 0 1][f 2 4 0][f 0 1 0]...![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT24]
-[f 0 5 65278][f 2 1]Aprendi� todas las habilidades de mami MSG.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Aprendió todas las habilidades de mami MSG.[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT25]
 [f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Retenido su forma, pero se ha vuelto m茨s[n]poderoso![n][f 1 1][e]

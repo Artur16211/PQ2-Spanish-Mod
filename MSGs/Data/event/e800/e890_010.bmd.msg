@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1]夷As胤 que eres el siguiente?[f 2 7 1 64 12 0][e]
 
 [msg MSG_005 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 55058]De hecho. Tu pr吋ximo combate ser茨 contra m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 55058]De hecho. Tu próximo combate ser茨 contra m胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_1 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]No te preocupes, como quien gobierna el poder[n]yo mismo, estoy seguro de que probar姻[n]un oponente digno.[n][f 1 3 65535][f 1 1][e]

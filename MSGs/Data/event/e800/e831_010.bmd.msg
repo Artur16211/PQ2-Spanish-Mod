@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54002]Me gustar胤a notificarle que se ha a�adido[n]una nueva proyecci吋n especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54002]Me gustar胤a notificarle que se ha añadido[n]una nueva proyección especial.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0]Aunque este puede ser demasiado sugestivo[n]para algunos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Teddie]]
@@ -37,7 +37,7 @@
 [sel SEL_011 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Un arcade?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Un club nocturno.[f 2 7 1 64 2 32][e]
-[f 0 5 65278][f 2 1]Una casa de ba�o.[f 2 7 1 64 2 32][e]
+[f 0 5 65278][f 2 1]Una casa de baño.[f 2 7 1 64 2 32][e]
 
 [msg MSG_012 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 3010][f 6 1 2 0 0 9]Bueno, los arcades son un lugar para[n]divertirse...[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 
 [msg MSG_017 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54058]Eso es correcto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hay muchos clubes nocturnos populares y[n]exclusivos en Kamo City accesible s吋lo a[n]VIPs.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hay muchos clubes nocturnos populares y[n]exclusivos en Kamo City accesible sólo a[n]VIPs.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷Un club nocturno?[n][f 1 3 65535][f 1 1][e]
@@ -126,7 +126,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 10019][f 6 1 2 0 0 4]夷Est茨s seguro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 2 0 0][f 3 1 1 0 0 0]S吋lo tienen que encontrar el club nocturno.[n]夷Qu姻 es lo peor que podr胤a pasar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 2 0 0][f 3 1 1 0 0 0]Sólo tienen que encontrar el club nocturno.[n]夷Qu姻 es lo peor que podr胤a pasar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Bien dicho, Senpai! Muy bien, 斡hag茨moslo![n][f 1 3 65535][f 1 1][e]

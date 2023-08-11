@@ -2,23 +2,23 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 6 1 2 0 0 1][f 3 1 1 0 0 0]斡Hora de pagar sus cr胤menes! 斡Ven tranquilo[n]y nadie sale herido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 11 0 3][f 3 1 1 0 0 21013]夷Y qu姻 hacemos? 夷S吋lo cobra y lo agarra?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 11 0 3][f 3 1 1 0 0 21013]夷Y qu姻 hacemos? 夷Sólo cobra y lo agarra?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 1][f 3 1 1 0 0 0]Espera... Podr胤as asustarlo de nuevo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 6 0 1][f 3 1 1 0 0 0]Ven aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]La mariposa creci� m茨s peque�a, y aterriz吋[n]en el dedo de Hikari...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]La mariposa creció m茨s pequeña, y aterrizó[n]en el dedo de Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 61151]Hee hee... Eres tan linda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 3][f 3 1 1 0 0 0]Whoa! 斡Hikari-chan, eso fue incre胤ble! 夷C吋mo[n]hiciste eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 3][f 3 1 1 0 0 0]Whoa! 斡Hikari-chan, eso fue incre胤ble! 夷Cómo[n]hiciste eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 0]Bueno... S吋lo quer胤a hacerlo, y sucedi�. Tal[n]vez porque es mi pel胤cula...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 0]Bueno... Sólo quer胤a hacerlo, y sucedió. Tal[n]vez porque es mi pel胤cula...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3]Bien hecho.[f 2 7 1 20 0 32][e]
@@ -36,17 +36,17 @@
 [f 0 5 65278][f 2 1][f 4 6 81 8 0 1][f 3 1 1 0 0 0]La mariposa... S胤. Creo que tambi姻n es lindo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 4][f 3 1 1 0 0 0]Una chica preciosa, y una peque�a mariposa[n]en su dedo. Como una princesa de[n]Destinyland...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 4][f 3 1 1 0 0 0]Una chica preciosa, y una pequeña mariposa[n]en su dedo. Como una princesa de[n]Destinyland...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 3][f 3 1 1 0 0 23106]Muy bien. 斡Tenemos la mariposa! Misi吋n[n]cumplida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 3][f 3 1 1 0 0 23106]Muy bien. 斡Tenemos la mariposa! Misión[n]cumplida![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Vamos a casa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 4][f 3 1 1 0 0 0]斡Mira aqu胤! 斡Este lugar est茨 lleno de flores![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 1][f 3 1 1 0 0 27031]斡Tienes raz吋n! Qu姻 aroma tan encantador,[n]tambi姻n... Realmente es un lugar[n]maravilloso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 1][f 3 1 1 0 0 27031]斡Tienes razón! Qu姻 aroma tan encantador,[n]tambi姻n... Realmente es un lugar[n]maravilloso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Hay colores a nuestro alrededor, y huele como[n]un jard胤n fresco...[n][f 1 3 65535][f 1 1][e]
@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]Sorry. Do you mind letting Teddie[n]have this?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Decidimos tomar un descanso en esta[n]ubicaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Decidimos tomar un descanso en esta[n]ubicación...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 4][f 3 1 1 0 0 0]斡Oh! 斡Veo una mariposa![n][f 1 3 65535][f 1 1][e]

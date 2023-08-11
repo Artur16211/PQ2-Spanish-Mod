@@ -2,20 +2,20 @@
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 4]Fue eso... 夷Podr胤a haberle pasado a Hikari[n]en el pasado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 2]S胤. O胤 las palabras "asunto de clase", as胤[n]que debi� haber vuelto cuando estaba en[n]la escuela primaria.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 2]S胤. O胤 las palabras "asunto de clase", as胤[n]que debió haber vuelto cuando estaba en[n]la escuela primaria.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 3]夷Qu姻 pasa, y qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 4]Es realmente dif胤cil juzgar lo que es correcto[n]o incorrecto cuando usted carece de[n]reglas definidas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 3]Pero esa situaci吋n no era diferente de una[n]dictadura.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 3]Pero esa situación no era diferente de una[n]dictadura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 1 4][f 3 1 1 0 0 6]Lo que dice el profesor es absoluto, 夷eh?[n]斡De ninguna manera voy a comprar esa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004_5 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 4 0 4][f 3 1 1 0 0 7][f 6 1 2 0 0 2]Todo lo que hicieron fue empujar sus propias[n]decisiones ego胤stas sobre otros, s吋lo[n]porque estaban en la mayor胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 0 4][f 3 1 1 0 0 7][f 6 1 2 0 0 2]Todo lo que hicieron fue empujar sus propias[n]decisiones ego胤stas sobre otros, sólo[n]porque estaban en la mayor胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Escuela Primaria Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 38 0 1 1][f 3 1 1 0 0 8]Los maestros no son aliados de los d姻biles.[n]No hay cosas como h姻roes...[n][f 1 3 65535][f 1 1][e]
@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]夷Es Hikari-san del pasado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Escuela Primaria Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 38 1 1 0][f 3 1 1 0 0 10]El poder para hacer que la gente haga lo que[n]se les dice... Mi profesor me oblig� a[n]disculparme usando ese poder...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 38 1 1 0][f 3 1 1 0 0 10]El poder para hacer que la gente haga lo que[n]se les dice... Mi profesor me obligó a[n]disculparme usando ese poder...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [夷Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 11]... As胤 es. Mi profesor no era un h姻roe.[n][f 1 3 65535][f 1 1][e]
@@ -42,12 +42,12 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 15]Espera un segundo. Ambos est茨n actuando[n]raro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 38 1 0 1][f 4 6 81 12 0 3][f 3 1 1 0 0 16][f 6 1 2 0 0 4]夷Por qu姻 desafiaste al maestro? Sab胤as que[n]s吋lo te meter胤as en m茨s problemas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 38 1 0 1][f 4 6 81 12 0 3][f 3 1 1 0 0 16][f 6 1 2 0 0 4]夷Por qu姻 desafiaste al maestro? Sab胤as que[n]sólo te meter胤as en m茨s problemas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Escuela Primaria Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 38 0 0 0][f 3 1 1 0 0 17]Bueno... Es por todos los h姻roes que he visto[n]en las pel胤culas...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 38 2 1 0][f 3 1 1 0 0 18][f 6 1 2 0 0 6]Eran fuertes, 斡y hicieron lo correcto![n]斡Ayudaron a los d姻biles![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 38 0 1 0][f 3 1 1 0 0 19]Pero, dije que lo sent胤a... Todo porque mi[n]profesor decidi� que estaba equivocado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 38 0 1 0][f 3 1 1 0 0 19]Pero, dije que lo sent胤a... Todo porque mi[n]profesor decidió que estaba equivocado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 20]Las palabras que quer胤a decir no eran "lo[n]siento"...[n][f 1 3 65535][f 1 1][e]

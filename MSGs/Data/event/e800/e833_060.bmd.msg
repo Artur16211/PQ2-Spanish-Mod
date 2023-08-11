@@ -1,14 +1,14 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54030][f 6 1 2 0 0 6]斡Avanzando en una b雨squeda de tesoros para[n]las edades, el equipo encuentra un cach姻[n]de riquezas incontables![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷C吋mo disfrutaste de esta fant茨stica b雨squeda[n]de tesoros? 夷Estabas nadando en monedas,[n]como un magnate rico?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cómo disfrutaste de esta fant茨stica b雨squeda[n]de tesoros? 夷Estabas nadando en monedas,[n]como un magnate rico?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]Well... It didn't happen like that, but...[n]we definitely found a bunch of treasure.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54083]De hecho, debo encomiarte por tu sentido de[n]calma y responsabilidad.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nadie se quej� de la relativa mundanidad de[n]esta tarea...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Y nadie se apresur� imprudentemente, cegado[n]por la perspectiva de las riquezas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nadie se quejó de la relativa mundanidad de[n]esta tarea...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Y nadie se apresuró imprudentemente, cegado[n]por la perspectiva de las riquezas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11018][f 6 1 2 0 0 4]夷Qu姻? 夷De qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
@@ -24,13 +24,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Supongo que eso es gracias a esos dos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 0]He o胤do que te gusta la jardiner胤a? No s吋lo[n]la teor胤a hort胤cola, incluso te importan[n]los fondos de flores.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 0]He o胤do que te gusta la jardiner胤a? No sólo[n]la teor胤a hort胤cola, incluso te importan[n]los fondos de flores.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 0 0 0][f 3 1 1 0 0 27067]斡Oh, lo haces sonar tan impresionante! Es[n]poco m茨s que un pasatiempo, en realidad...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]Estoy tratando de dise�ar un plan para mi[n]propio jard胤n. 夷Crees que podr胤as darme un[n]consejo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]Estoy tratando de diseñar un plan para mi[n]propio jard胤n. 夷Crees que podr胤as darme un[n]consejo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 0]Me encantar胤a. Voy a consultar a algunos[n]amigos jardineros...[n][f 1 3 65535][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 1 0 0][f 4 6 4 1 0 6][f 4 6 71 2 0 1][f 3 1 1 0 0 0]斡Oh, todos los dem茨s tambi姻n son bienvenidos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 2 0 1][f 3 1 1 0 0 13067]S胤. Tal vez cuando todo esto se cuida, una[n]peque�a fiesta est茨 en orden.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 2 0 1][f 3 1 1 0 0 13067]S胤. Tal vez cuando todo esto se cuida, una[n]pequeña fiesta est茨 en orden.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷En serio? 斡Muy bien! 斡Hora de una fiesta de[n]barbacoa! Gobletas llenas de salsa de[n]carne![n][f 1 3 65535][f 1 1][e]
@@ -97,6 +97,6 @@
 [f 0 5 65278][f 2 1][f 4 6 18 2 0 1][f 3 1 1 0 0 0]Parece que lo est茨 haciendo muy bien. Supongo[n]que las cosas finalmente est茨n empezando[n]a cambiar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 2 0 4][f 3 1 1 0 0 0]Es un alivio ver esa dulzura en la expresi吋n[n]de Haru otra vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 2 0 4][f 3 1 1 0 0 0]Es un alivio ver esa dulzura en la expresión[n]de Haru otra vez...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Dicen que conocer gente nueva cambia nuestra[n]perspectiva. Supongo que deber胤amos[n]apreciar estos encuentros...[n][f 1 3 65535][f 1 1][e]
 

@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2327]�[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2328]Esa Sombra est茨 actuando extra�o.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2328]Esa Sombra est茨 actuando extraño.[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2329]Alternativamente..[n][f 1 6 65535][e]
@@ -98,10 +98,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2409]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_033]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2410]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2410]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_034]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2411]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2411]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_035]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2412]Alternativamente..[n][f 1 6 65535][e]

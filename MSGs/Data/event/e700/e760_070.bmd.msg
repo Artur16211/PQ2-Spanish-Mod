@@ -22,11 +22,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Es como Futaba-chan y yo. 斡Quiz茨s compartamos[n]algunos intereses comunes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 100 4][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Ahora que lo mencionas, tienes raz吋n! 斡Tenemos[n]otro audiofilo aqu胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 100 4][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Ahora que lo mencionas, tienes razón! 斡Tenemos[n]otro audiofilo aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3010]Bueno... No es como si yo supiera mucho sobre[n]m雨sica o m茨quinas o nada.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me gusta su dise�o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me gusta su diseño...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 0]Pero, Senpai, 夷no tocas la guitarra?[n][f 1 3 65535][f 1 1][e]
@@ -60,11 +60,11 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Fue un accidente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 5032]Tambi姻n est茨 vestido delante de toda la[n]escuela. Realmente dibuj� una multitud.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 5032]Tambi姻n est茨 vestido delante de toda la[n]escuela. Realmente dibujó una multitud.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No es como si hubiera planeado hacer eso![n]斡Ni siquiera estamos hablando de mis[n]pasatiempos![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hay muchas otras cosas sobre m胤 que son[n]geniales. 夷Verdad, compa�ero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hay muchas otras cosas sobre m胤 que son[n]geniales. 夷Verdad, compañero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1064]Right. Yosuke's actually really good at[n]playing the straight man.[n][f 1 3 65535][f 1 1][e]
@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0]S胤, bueno, no es dif胤cil cuando tienes un[n]equipo como el nuestro..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022_1 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Ay, compa�ero, no t雨 tambi姻n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Ay, compañero, no t雨 tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19086][f 6 1 2 0 0 7]I see, I see. You sure know how to have[n]fun, Yosuke-kun![n][f 1 3 65535][f 1 1][e]

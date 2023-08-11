@@ -79,10 +79,10 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7068]S胤, probablemente m茨s seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7097]Sali� de la nada... Eso fue una locura...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7097]Salió de la nada... Eso fue una locura...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7010]Se siente bonita Sombr胤as por aqu胤. 夷Cu茨l es[n]tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7010]Se siente bonita Sombr胤as por aqu胤. 夷Cu茨l es[n]tu decisión?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 7077]斡Lo tengo![n][f 1 3 65535][f 1 1][e]

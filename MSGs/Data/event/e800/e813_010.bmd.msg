@@ -6,7 +6,7 @@
 [msg MSG_001 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 0 1 1][f 3 1 1 0 0 56113]Eso ser胤a muy apreciado...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que puedes encontrar n雨cleos cerca de[n]lugares h雨medos como estanques o r胤os.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Un lugar tan rife con vegetaci吋n como la[n]Tierra Junesic debe ser perfecto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Un lugar tan rife con vegetación como la[n]Tierra Junesic debe ser perfecto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001_5 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 3 6][f 3 1 1 0 0 23072]Bueno, entonces, digo que le damos una mano.[n]Siempre nos est茨 ayudando, despu姻s de[n]todo.[n][f 1 3 65535][f 1 1][e]

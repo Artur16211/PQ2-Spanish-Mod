@@ -2,13 +2,13 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 41 7 0 3][f 4 6 65 0 1 1][f 3 1 1 0 0 1]斡Otro d胤a de clase completado! 斡Hombre, fue[n]un infierno![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 2 1 0][f 3 1 1 0 0 2]*bostezo* Tengo mucho sue�o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 2 1 0][f 3 1 1 0 0 2]*bostezo* Tengo mucho sueño...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 41 0 0 0][f 3 1 1 0 0 3]斡Vamos Ryuji, contr吋late! No te pongas perezoso[n]con nosotros ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 41 0 0 0][f 3 1 1 0 0 3]斡Vamos Ryuji, contrólate! No te pongas perezoso[n]con nosotros ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 4]No, es que me ha costado mucho conciliar el[n]sue�o 雨ltimamente, tengo en mente el tema[n]de los Ladrones Fantasma y eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 4]No, es que me ha costado mucho conciliar el[n]sueño 雨ltimamente, tengo en mente el tema[n]de los Ladrones Fantasma y eso...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 65 6 0 0][f 3 1 1 0 0 5]Me est茨 poniendo tan mal, que hoy me he[n]dormido casi toda la clase...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 15]斡Oh, es el momento perfecto! Est茨bamos hablando[n]de ir al escondite.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Haru]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 6][f 3 1 1 0 0 16]Bueno, estoy libre por el resto del d胤a.[n]Tengo m茨s tiempo libre ahora que las cosas[n]se han calmado en la compa�ia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 6][f 3 1 1 0 0 16]Bueno, estoy libre por el resto del d胤a.[n]Tengo m茨s tiempo libre ahora que las cosas[n]se han calmado en la compañia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 41 2 0 0][f 3 1 1 0 0 17]Ryuji, env胤a mensaje a todos.[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 19]"Reun茨monos todos en el escondite..."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 2 2 0][f 6 1 2 0 0 6][f 3 1 1 0 0 20]斡Maldici吋n, eso fue r茨pido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 2 2 0][f 6 1 2 0 0 6][f 3 1 1 0 0 20]斡Maldición, eso fue r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018_5 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 21]Todo el mundo dice que est茨 disponible para[n]reunirse en el Leblanc.[n][f 1 3 65535][f 1 1][e]

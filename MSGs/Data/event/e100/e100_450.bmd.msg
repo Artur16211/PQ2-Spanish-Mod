@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22069]斡Lo tienes! Como lo planeamos, Skull![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003_5 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esperen, se�oritas... 斡Vamos por ti![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esperen, señoritas... 斡Vamos por ti![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]D姻me el portapapeles. 斡Har姻 mi parte cuando[n]sea el momento adecuado![n][f 1 3 65535][f 1 1][e]
@@ -25,7 +25,7 @@
 
 [msg MSG_007 [Portavoz]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Ciudadanos de la ciudad de Kamo, es un anuncio[n]p雨blico...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]La exposici吋n en la plaza Kamoshida por[n]castigar a los malhechores finalmente[n]comenzar茨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]La exposición en la plaza Kamoshida por[n]castigar a los malhechores finalmente[n]comenzar茨.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Repito...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hombre Excitado]]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Si seguimos a Kamoshidaman, nuestra ciudad[n]ser茨 pac胤fica, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 32011][f 6 1 2 0 0 6]斡De hecho! 斡S吋lo a trav姻s de mi existencia[n]se mantiene la paz de la ciudad de Kamo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 32011][f 6 1 2 0 0 6]斡De hecho! 斡Sólo a trav姻s de mi existencia[n]se mantiene la paz de la ciudad de Kamo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]Sin embargo, han aparecido violadores de esa[n]paz. Cualquiera que se oponga a m胤 es[n]malvado y un criminal![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 32 14 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Y castigar姻 este mal perturbando nuestra[n]paz con mi propia justicia![n][f 1 3 65535][f 1 1][e]
 
@@ -64,17 +64,17 @@
 [f 0 5 65278][f 2 1][f 4 6 22 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]畏l puede hacer que suene tan bien como 姻l[n]quiere - todo lo que est茨 haciendo es[n]suprimir a todos con su poder![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 0]Mis disculpas por el retraso, la configuraci吋n[n]est茨 completa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 0]Mis disculpas por el retraso, la configuración[n]est茨 completa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 21068][f 6 1 2 0 0 6]斡Estamos listos tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Estoy tan nervioso que estoy sudando dagas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Espera, 夷o se supone que son balas? De todos[n]modos, 斡no tenemos otra opci吋n que hacer[n]esto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Espera, 夷o se supone que son balas? De todos[n]modos, 斡no tenemos otra opción que hacer[n]esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 26 0 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Parece que todos est茨n en posici吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 26 0 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Parece que todos est茨n en posición...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡As胤 que vamos a patear este robo! Joker,[n]斡haz los honores![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_023 top]

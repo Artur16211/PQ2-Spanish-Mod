@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]Yeah. No matter where we look,[n]everything here's been fabricated[n]by her.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Hombre, ella fue del jefe de un cine al ser[n]que cre� un mundo entero lleno de ellos...[n]Qu姻 locura.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Hombre, ella fue del jefe de un cine al ser[n]que creó un mundo entero lleno de ellos...[n]Qu姻 locura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 6][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1009]The being that created this world, huh...[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es un m姻todo anticuado hoy en d胤a, pero puedo[n]recordar que mi padre conecta f胤sicamente[n]piezas de pel胤cula, hace mucho[n]tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 0]Cierto, las pel胤culas son productos de material[n]editado... Uno podr胤a incluso editarlos[n]con intenci吋n maliciosa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 0]Cierto, las pel胤culas son productos de material[n]editado... Uno podr胤a incluso editarlos[n]con intención maliciosa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 1 0 0 61155][f 6 1 2 0 0 6]斡No, no puedes hacer algo as胤! 斡Eso no es lo[n]que las pel胤culas est茨n destinadas a[n]ser![n][f 1 3 65535][f 1 1][e]
@@ -48,7 +48,7 @@
 [msg MSG_014 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 0]Yo... Quiero que las pel胤culas sean una fuente[n]de esperanza para sus audiencias.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 18 2 0][f 3 1 1 0 0 0]Incluso si te sientes cansado o abajo, las[n]pel胤culas pueden darte la fuerza para[n]seguir intent茨ndolo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es todo porque me encant� pel胤culas como esas[n]que...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es todo porque me encantó pel胤culas como esas[n]que...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 25 0 0 0][f 4 6 81 19 2 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ryuji]]

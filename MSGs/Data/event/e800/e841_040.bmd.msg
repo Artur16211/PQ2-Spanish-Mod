@@ -7,7 +7,7 @@
 
 [msg MSG_002 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 4 0 1][f 3 1 1 0 0 65070]斡No! 斡Puedo seguir![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 0]S吋lo ten胤a un poco de hambre. Y un poco de[n]sed tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 0]Sólo ten胤a un poco de hambre. Y un poco de[n]sed tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 1][f 3 1 1 0 0 65055]Est茨 bien.[n][f 1 3 65535][f 1 1][e]
@@ -34,8 +34,8 @@
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 3][f 3 1 1 0 0 0][f 3 1 6 0 0 500]El camino avanza. Parece que hay una flor a[n]lo largo de cada camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 4][f 3 1 1 0 0 28011]Si recuerdo... Creo que la flor a la derecha[n]estaba cantando una canci吋n alegre.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El izquierdo estaba cantando una canci吋n m茨s[n]cr胤ptica, o tal vez lo llamar胤a 雨nico.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 4][f 3 1 1 0 0 28011]Si recuerdo... Creo que la flor a la derecha[n]estaba cantando una canción alegre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El izquierdo estaba cantando una canción m茨s[n]cr胤ptica, o tal vez lo llamar胤a 雨nico.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cu茨l es?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_011 top]

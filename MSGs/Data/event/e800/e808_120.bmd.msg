@@ -21,11 +21,11 @@
 
 [msg MSG_006 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8069]Entonces, para encontrar los coches de la[n]polic胤a, tendremos que encontrar el otro[n]terminal.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso o cambiamos a buscar los coches por[n]nuestra cuenta. Dejaremos la decisi吋n, Joker.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso o cambiamos a buscar los coches por[n]nuestra cuenta. Dejaremos la decisión, Joker.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 26 12 0 1][f 3 1 1 0 0 0]Esta terminal no va a cortarla. Tendremos[n]que hackear el otro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 26 12 0 1][f 3 1 1 0 0 0]Parece que ya no necesitamos esto. Ya sabemos[n]d吋nde est茨n los coches.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 26 12 0 1][f 3 1 1 0 0 0]Parece que ya no necesitamos esto. Ya sabemos[n]dónde est茨n los coches.[n][f 1 3 65535][f 1 1][e]
 

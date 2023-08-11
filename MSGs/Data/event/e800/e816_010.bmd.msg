@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54125]Ahora bien, para el examen especial mi hermano[n]sin valor pidi�...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54125]Ahora bien, para el examen especial mi hermano[n]sin valor pidió...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Usted debe encontrar el "Futuristic Gizmo"[n]en Junessic Land.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
@@ -7,10 +7,10 @@
 
 [msg MSG_002 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 6][f 3 1 1 0 0 14031]Estoy emocionada de verlo tambi姻n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Apuesto a que utiliza la tecnolog胤a que s吋lo[n]pod胤amos so�ar en nuestro d胤a y edad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Apuesto a que utiliza la tecnolog胤a que sólo[n]pod胤amos soñar en nuestro d胤a y edad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 24029]S胤, yo tambi姻n, me gustar胤a echar un vistazo.[n]Mi coraz吋n est茨 listo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 24029]S胤, yo tambi姻n, me gustar胤a echar un vistazo.[n]Mi corazón est茨 listo.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]夷T雨 tambi姻n?[f 2 7 1 64 0 32][e]
@@ -18,22 +18,22 @@
 
 [msg MSG_005 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 24078]Bueno, s姻 muy poco sobre las m茨quinas, pero[n]s胤, estoy muy interesado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si este mecanismo es tan impresionante[n]tecnol吋gicamente como suena, entonces seguramente[n]hay algo de belleza en 姻l.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si este mecanismo es tan impresionante[n]tecnológicamente como suena, entonces seguramente[n]hay algo de belleza en 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]Por supuesto. Es natural que una m茨quina[n]perfectamente hecha tenga algo de elegancia[n]en su dise�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]Por supuesto. Es natural que una m茨quina[n]perfectamente hecha tenga algo de elegancia[n]en su diseño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 1][f 6 1 2 0 0 1][f 3 1 1 0 0 24131]斡Precisamente, Shirogane-san![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 0]No s吋lo eso, pero esta tecnolog胤a futurista[n]probablemente contiene ideas como las[n]que nunca hemos visto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 0]No sólo eso, pero esta tecnolog胤a futurista[n]probablemente contiene ideas como las[n]que nunca hemos visto...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Y eso sin duda estimular茨 mi creatividad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 6][f 3 1 1 0 0 26033]Whoa. 夷Qui姻n pens� que estar胤a interesado?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26112]夷D吋nde encontramos esta cosa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 6][f 3 1 1 0 0 26033]Whoa. 夷Qui姻n pensó que estar胤a interesado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26112]夷Dónde encontramos esta cosa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]El mecanismo en cuesti吋n est茨 en un[n]contenedor.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]El mecanismo en cuestión est茨 en un[n]contenedor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 1][f 3 1 1 0 0 28013]Hab胤a muchos contenedores. Me pregunto cu茨l.[n][f 1 3 65535][f 1 1][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 1][f 3 1 1 0 0 0]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 3][f 3 1 1 0 0 14046]Cari�o, me estoy poniendo nervioso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 3][f 3 1 1 0 0 14046]Cariño, me estoy poniendo nervioso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 24044]Salgamos, [f 6 1 30 0 0]. 斡El Gizmo Futurista[n]espera![n][f 1 3 65535][f 1 1][e]

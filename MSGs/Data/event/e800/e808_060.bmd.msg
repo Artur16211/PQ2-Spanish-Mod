@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 26045]斡Ah胤 est茨! 斡Atr茨penlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 3][f 3 1 1 0 0 8031]*chuckle* S吋lo estamos aqu胤 para hacerle[n]preguntas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 3][f 3 1 1 0 0 8031]*chuckle* Sólo estamos aqu胤 para hacerle[n]preguntas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 8109]Me disculpo por el retraso...[n][f 1 3 65535][f 1 1][e]

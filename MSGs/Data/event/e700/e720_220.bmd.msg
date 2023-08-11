@@ -17,5 +17,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No decepcionar茨s a la dama, 夷verdad? Todos[n]estaremos detr茨s de ti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28033]La precauci吋n es una habilidad vital para[n]sobrevivir. Si no est茨s seguro de nuestro[n]姻xito, prepar姻monos antes de entrar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28033]La precaución es una habilidad vital para[n]sobrevivir. Si no est茨s seguro de nuestro[n]姻xito, prepar姻monos antes de entrar.[n][f 1 3 65535][f 1 1][e]
 

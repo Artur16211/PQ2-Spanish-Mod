@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 1][f 3 1 1 0 0 1]Ngh... Nnh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Nervous Herbivore]]
-[f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]De ninguna manera... 夷Perdi� a los humanos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]De ninguna manera... 夷Perdió a los humanos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Enorme Herb胤voro]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 3]Pero es mucho m茨s grande que ellos...[n]Incre胤ble...[n][f 1 3 65535][f 1 1][e]
@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 10][f 6 1 2 0 0 4]Te hice cosas terribles, pero... 夷Por qu姻[n]todav胤a quieres ayudarnos tanto?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_008 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]No hay raz吋n en particular.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]No hay razón en particular.[f 2 7 1 20 6 32][e]
 [f 0 5 65278][f 2 1]Parec胤a que lo necesitabas.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]No s姻...[f 2 7 1 20 4 32][e]
 
@@ -62,7 +62,7 @@
 
 [msg MSG_018 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 24]As胤 es. Cuando se trata de amigos, las[n]diferencias no importan, solo haz lo que puedas[n]para ayudarlos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 7]夷Verdad, compa�ero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 7]夷Verdad, compañero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 26]Yeah, partner.[n][f 1 3 65535][f 1 1][e]
@@ -97,7 +97,7 @@
 [msg MSG_027 [Herb胤voro Timid]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 90 0 1 0][f 3 1 1 0 0 40]Me di cuenta de que todo lo que pensaba era[n]en m胤 mismo porque ten胤a miedo de ser[n]abandonado tambi姻n...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41]No pod胤a hablar, y siempre me odiaba por ser[n]tan d姻bil.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 90 12 0 0][f 3 1 1 0 0 42]Siento haberte abandonado... Aunque me[n]rescat�...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 90 12 0 0][f 3 1 1 0 0 42]Siento haberte abandonado... Aunque me[n]rescató...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Herbivore Elegante]]
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 0][f 3 1 1 0 0 43]Yo tambi姻n...[n][f 1 3 65535][f 1 1][e]
@@ -114,7 +114,7 @@
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 24 2 0 0][f 3 1 1 0 0 48]Ahora que ya no se esconden detr茨s de los[n]n雨meros, finalmente podemos escuchar los[n]verdaderos sentimientos de todos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 49]Creo que la mayor胤a puede ser una manera 雨til[n]de tomar una decisi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 49]Creo que la mayor胤a puede ser una manera 雨til[n]de tomar una decisión...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 50][f 6 1 2 0 0 4]Pero no hagamos que se adhiera a ella nuestra[n]m茨xima prioridad. 夷Qu姻 dices si buscamos[n]otras maneras de guiarnos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Herb胤voro Timid]]
@@ -137,11 +137,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57][f 6 1 2 0 0 1]Creo que es un carn胤voro... 斡Ten cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 58][f 6 1 2 0 0 4]Parece que finalmente nos rastre�. 夷Deber胤amos[n]estar en nuestra tierra?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 58][f 6 1 2 0 0 4]Parece que finalmente nos rastreó. 夷Deber胤amos[n]estar en nuestra tierra?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 100 4][f 3 1 6 0 0 500][f 3 1 1 0 0 59][f 6 1 2 0 0 6]El verdadero problema es que los[n]herbivores...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 60][f 6 1 2 0 0 10]Incluso si intentamos sacarlos de ah胤, 斡est茨s[n]acorralado en un callej吋n sin salida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 60][f 6 1 2 0 0 10]Incluso si intentamos sacarlos de ah胤, 斡est茨s[n]acorralado en un callejón sin salida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Herb胤voro Timid]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 90 0 0 3][f 3 1 1 0 0 61][f 6 1 2 0 0 0]夷Deber胤amos escondernos?[n][f 1 3 65535][f 1 1][e]
@@ -150,7 +150,7 @@
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 6]斡Tenemos que huir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Enorme Herb胤voro]]
-[f 0 5 65278][f 2 1][f 4 6 48 0 1 4][f 3 1 1 0 0 63][f 6 1 2 0 0 0]Pero, 夷d吋nde? 斡No tenemos una salida de aqu胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 48 0 1 4][f 3 1 1 0 0 63][f 6 1 2 0 0 0]Pero, 夷dónde? 斡No tenemos una salida de aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 64][f 6 1 2 0 0 6]斡Hola! 斡C茨lmense todos![n][f 1 3 65535][f 1 1][e]
@@ -166,7 +166,7 @@
 
 [sel SEL_048 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Tenemos que actuar r茨pido.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Veamos c吋mo funciona esto.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Veamos cómo funciona esto.[f 2 7 1 20 0 32][e]
 
 [msg MSG_049 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 6][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 68]All right―let's take the front line.[n][f 1 3 65535][f 1 1][e]
@@ -206,7 +206,7 @@
 
 [msg MSG_060 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 12 1 0][f 3 1 1 0 0 82][f 6 1 2 0 0 6]Despu姻s de todo este tiempo, finalmente[n]estamos siendo honestos entre nosotros![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 83][f 6 1 2 0 0 1]No hay manera de que abandone a mis compa�eros[n]en peligro ahora - 斡Nunca m茨s![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 83][f 6 1 2 0 0 1]No hay manera de que abandone a mis compañeros[n]en peligro ahora - 斡Nunca m茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Enorme Herb胤voro]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 1 0 0 84][f 6 1 2 0 0 0]Espera, est茨s bromeando, 夷verdad?[n][f 1 3 65535][f 1 1][e]

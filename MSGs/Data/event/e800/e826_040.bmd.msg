@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4019][f 6 1 2 0 0 9]夷Tesoro? Hmm... Definitivamente no huele a[n]carne...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 0 1 1][f 3 1 1 0 0 0]夷Por qu姻 est茨s tan seguro de que el tesoro[n]es carne? 夷D吋nde est茨 la belleza ylo el[n]encanto en eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 0 1 1][f 3 1 1 0 0 0]夷Por qu姻 est茨s tan seguro de que el tesoro[n]es carne? 夷Dónde est茨 la belleza ylo el[n]encanto en eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 24078]Mmm, rica carne rub胤 complementada por l胤neas[n]blancas de nieve de grasa... 斡Yo dir胤a[n]que la carne tiene una belleza propia![n][f 1 3 65535][f 1 1][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1]夷Tesoro?[f 2 7 1 20 0 32][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 11 0 0][f 3 1 1 0 0 9037][f 6 1 2 0 0 6]Esta sensaci吋n de bronceaci吋n que hace[n]cosquillas mis sentidos de Teddie... 斡Tiene[n]que ser un tesoro![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 11 0 0][f 3 1 1 0 0 9037][f 6 1 2 0 0 6]Esta sensación de bronceación que hace[n]cosquillas mis sentidos de Teddie... 斡Tiene[n]que ser un tesoro![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Y no hablo de una o dos piezas. 斡Estoy hablando[n]de todo un trove![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]

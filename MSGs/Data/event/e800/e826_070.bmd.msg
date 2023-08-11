@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 6 100 1][f 3 1 1 0 0 54037]Lo que promet胤a ser una aventura llena de[n]acci吋n result� ser un amoroso romance...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 6 100 1][f 3 1 1 0 0 54037]Lo que promet胤a ser una aventura llena de[n]acción resultó ser un amoroso romance...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Empec姻 a pensar que mis l茨grimas nunca cesar胤an[n]durante esos 雨ltimos cinco minutos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Esta es tu recompensa.[n][f 1 3 65535][f 1 1][e]
 
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 10 1 6][f 3 1 1 0 0 22051][f 6 1 2 0 0 2]夷Qu姻? 斡No los alienten![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 9 1 0 3][f 4 6 23 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Lo siento, se�ora. Ann, 斡pero ha pasado mucho[n]tiempo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 1 0 3][f 4 6 23 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Lo siento, señora. Ann, 斡pero ha pasado mucho[n]tiempo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Vamos, Teddie![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Teddie]]
@@ -94,10 +94,10 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]"Podr胤a haber sido el que encontr� el tesoro,[n]pero s吋lo lo hicimos al final porque[n]trabajamos juntos"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]"Podr胤a haber sido el que encontró el tesoro,[n]pero sólo lo hicimos al final porque[n]trabajamos juntos"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]... As胤 dice Koromaru-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ann]]
@@ -120,7 +120,7 @@
 [f 0 5 65278][f 2 1]Contamos con ustedes.[f 2 7 1 64 2 32][e]
 
 [msg MSG_036 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23106]Me asegurar姻 de compensar todos los problemas[n]que he causado la pr吋xima vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23106]Me asegurar姻 de compensar todos los problemas[n]que he causado la próxima vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 9072][f 6 1 2 0 0 6]斡S胤, yo tambi姻n![n][f 1 3 65535][f 1 1][e]

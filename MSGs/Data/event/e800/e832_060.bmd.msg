@@ -1,16 +1,16 @@
 [msg MSG_000 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 27 1 0 3][f 4 6 6 1 100 1][f 4 6 15 12 0 4][f 3 1 1 0 0 15011][f 3 1 6 0 0 500][f 6 1 2 0 0 4]Hemos llegado a nuestro destino. 夷Esta[n]ubicaci吋n ser茨 suficiente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 1 0 3][f 4 6 6 1 100 1][f 4 6 15 12 0 4][f 3 1 1 0 0 15011][f 3 1 6 0 0 500][f 6 1 2 0 0 4]Hemos llegado a nuestro destino. 夷Esta[n]ubicación ser茨 suficiente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0]S胤. Parece que hay mucha gente aqu胤, as胤 que[n]deber胤a funcionar bien... Esto[n]definitivamente tomar茨 algo de coraje.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Necesitamos permiso de la polic胤a? 夷O podemos[n]empezar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 0][f 3 1 1 0 0 0]Hmm, creo que estaremos bien? Recuerde, esto[n]es para la proyecci吋n especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 0][f 3 1 1 0 0 0]Hmm, creo que estaremos bien? Recuerde, esto[n]es para la proyección especial.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 4][f 3 1 1 0 0 9135][f 6 1 2 0 0 6]Hrm, hrm, hrm... 斡Por fin es hora de mi gran[n]debut![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷c吋mo dibujamos una multitud?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷cómo dibujamos una multitud?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0]Oh, um... A雨n tenemos que averiguarlo, 夷no?[n][f 1 3 65535][f 1 1][e]
@@ -40,10 +40,10 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Introduciendo, la brigada de belleza! 斡La[n]misteriosa belleza enmascarada, Noir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 4 3][f 3 1 1 0 0 27029][f 6 1 2 0 0 6]Belleza 斡La cosa toma el escenario! 斡He venido[n]a robarte el coraz吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 4 3][f 3 1 1 0 0 27029][f 6 1 2 0 0 6]Belleza 斡La cosa toma el escenario! 斡He venido[n]a robarte el corazón![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Rise]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]A continuaci吋n, tenemos la belleza mec茨nica[n]ella misma, Aigis![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]A continuación, tenemos la belleza mec茨nica[n]ella misma, Aigis![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 3 1][f 3 1 1 0 0 15102][f 6 1 2 0 0 6]斡Voy a ir totalmente auto en todos tus[n]corazones![n][f 1 3 65535][f 1 1][e]
@@ -59,10 +59,10 @@
 
 [msg MSG_018 [Rise]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]S胤, estoy liando la diversidad aqu胤. 斡Se ven[n]geniales![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Ahora si podemos llevar esto al escenario[n]principal y llamar la atenci吋n de la[n]gente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Ahora si podemos llevar esto al escenario[n]principal y llamar la atención de la[n]gente...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_019 [Ni�o Excitado]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Mira! 斡Alguien sali� de ese traje de oso![n][f 1 3 65535][f 1 1][e]
+[msg MSG_019 [Niño Excitado]]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Mira! 斡Alguien salió de ese traje de oso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chica Curiosa]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Hola, pap茨! 夷Qu姻 hace ese oso teddie?[n][f 1 3 65535][f 1 1][e]
@@ -74,10 +74,10 @@
 [f 0 5 65278][f 2 1][f 4 6 27 1 0 3][f 4 6 6 1 100 1][f 4 6 73 10 0 4][f 3 1 1 0 0 9023][f 6 1 2 0 0 4]夷Eh? 夷Ya estamos dibujando una multitud?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]Parece que has captado su atenci吋n, Teddie.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]Parece que has captado su atención, Teddie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 0][f 3 1 1 0 0 6592]斡Sheesh, te destacas demasiado, Teddie![n]Supongo que tu actuaci吋n realmente atrae a[n]la gente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 0][f 3 1 1 0 0 6592]斡Sheesh, te destacas demasiado, Teddie![n]Supongo que tu actuación realmente atrae a[n]la gente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 73 0 0 0][f 3 1 1 0 0 0]夷En serio? 斡En ese caso, tengo un regalo para[n]ti![n][f 1 3 65535][f 1 1][e]
@@ -110,13 +110,13 @@
 [f 0 5 65278][f 2 1][f 4 6 6 4 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Espera, no hagas eso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 27109]Phew... Finalmente se acab�. Todos parec胤an[n]pasar un buen rato.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 27109]Phew... Finalmente se acabó. Todos parec胤an[n]pasar un buen rato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 73 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Todos estaban felices! 夷Crees que est茨n[n]todos animados ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 0]S胤, no result� exactamente c吋mo lo imagin姻,[n]pero... Creo que todo esto fue gracias[n]a Teddie.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 0]S胤, no resultó exactamente cómo lo imagin姻,[n]pero... Creo que todo esto fue gracias[n]a Teddie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 73 2 0 0][f 3 1 1 0 0 9029][f 6 1 2 0 0 4]斡S胤! 夷Eso significa que soy uno de ustedes[n]ahora? 夷Es hora de hablar con chicas?[n][f 1 3 65535][f 1 1][e]

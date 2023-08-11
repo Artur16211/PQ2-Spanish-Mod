@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54115]Gracias por traer las partes. Aqu胤 est茨 tu[n]recompensa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Como prometi�, tambi姻n puede comer todas las[n]donas que desea...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Como prometió, tambi姻n puede comer todas las[n]donas que desea...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 54031][f 6 1 2 0 0 6][f 6 1 16 0 0 0]Y [f 6 1 13 0 0 0], por la presente le concedo[n]el privilegio de unirse a la competencia[n]de comer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [P3 Hero]]
@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La freidora est茨 fija, y ahora est茨 lista[n]para producir donuts aplenty.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18037][f 6 1 2 0 0 3]夷C吋mo me atasqu姻 en el equipo de cocina...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 18037][f 6 1 2 0 0 3]夷Cómo me atasqu姻 en el equipo de cocina...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Mis disculpas, pero me temo que habr胤a sido[n]un poco para m胤 solo...[n][f 1 3 65535][f 1 1][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 6][f 3 1 1 0 0 21067]S胤, comer nada, pero los donuts secar胤an la[n]boca...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 1][f 3 1 1 0 0 0]No. Si beben agua ahora, todo se expandir茨[n]en su est吋mago.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 1][f 3 1 1 0 0 0]No. Si beben agua ahora, todo se expandir茨[n]en su estómago.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por eso luchan contra el impulso de tomar[n]una copa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
@@ -93,7 +93,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Si quieren aumentar su hambre, 斡quiz茨s prueba[n]algo picante! Senpai, 斡tengo salsa[n]superhot![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Alg雨n tipo de 茨cido ayudar胤a a arreglar su[n]est吋mago, 夷verdad? 夷Qu姻 tal un vinagre?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Alg雨n tipo de 茨cido ayudar胤a a arreglar su[n]estómago, 夷verdad? 夷Qu姻 tal un vinagre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3035][f 6 1 2 0 0 0]夷Est茨s tratando de matarlos?[n][f 1 3 65535][f 1 1][e]
@@ -102,14 +102,14 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 75 6 0 1][f 3 1 1 0 0 55037]No importa lo que pase, su tiempo se est茨[n]acabando...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 4 2 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]3, 2, 1... 斡Se acab� el tiempo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 2 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]3, 2, 1... 斡Se acabó el tiempo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 4][f 3 1 1 0 0 0]Empecemos la historia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 3][f 4 6 2 1 0 1][f 4 6 11 10 0 4][f 3 1 1 0 0 11010][f 6 1 2 0 0 4]夷Qui姻n gan�...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 3][f 4 6 2 1 0 1][f 4 6 11 10 0 4][f 3 1 1 0 0 11010][f 6 1 2 0 0 4]夷Qui姻n ganó...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 3 12 0 6][f 3 1 1 0 0 0]No puedes decir s吋lo mirando los platos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 3 12 0 6][f 3 1 1 0 0 0]No puedes decir sólo mirando los platos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 80 0 0 4][f 3 1 1 0 0 56006]Ahora, declarar姻 el veredicto...[n][f 1 3 65535][f 1 1][e]
@@ -156,7 +156,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 2031]Same goes for you, [f 6 1 13 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Miradlos ahora! 斡Terminaron con una rara[n]conexi吋n de donut![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Miradlos ahora! 斡Terminaron con una rara[n]conexión de donut![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 0]I kind of figured a big eating[n]competition was going to be[n]a drag... but it was fun.[n][f 1 3 65535][f 1 1][e]

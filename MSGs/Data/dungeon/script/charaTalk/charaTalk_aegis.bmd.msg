@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15382]Como se dice a menudo, "Hell s胤."[n][f 1 6 65535][e]
 
 [msg MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15383]斡Un aplauso para la ocasi吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15383]斡Un aplauso para la ocasión![n][f 1 6 65535][e]
 
 [msg MSG_012 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 15129]Atajo localizado. 夷Qu姻 haremos?[n][f 1 3 65535][f 1 1][e]

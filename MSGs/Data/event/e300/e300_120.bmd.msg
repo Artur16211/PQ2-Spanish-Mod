@@ -10,7 +10,7 @@
 
 [msg MSG_003 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25079]Eso plantea un buen punto, sin embargo,[n]tenemos unos cuantos miembros que son nuevos[n]en nuestro proceso. No deber胤amos[n]exagerar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Tomemos descansos peri吋dicos mientras avanzamos.[n]Todo esto ser胤a in雨til si nos llevamos[n]al agotamiento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Tomemos descansos periódicos mientras avanzamos.[n]Todo esto ser胤a in雨til si nos llevamos[n]al agotamiento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 13023][f 6 1 2 0 0 4]As胤 que, he crecido curiosidad por ti Ladrones[n]Fantasma - 夷Tu vestido no te pesa?[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Es como son las especificaciones. Hecho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 22033][f 6 1 2 0 0 10]Heheh... Si tuviera una mejor explicaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 22033][f 6 1 2 0 0 10]Heheh... Si tuviera una mejor explicación...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 2 0 1][f 3 1 1 0 0 5032]Creo que son geniales. El atuendo de todos[n]es muy elegante, y les queda bien.[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 4][f 3 1 1 0 0 4031][f 6 1 2 0 0 4]Eso es verdad, pero 夷no har胤a que alguien[n]estuviera delante de 姻l en la cabeza?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0]Eso significa que tiene una s吋lida ofensa y[n]defensa. Cuando lo consideres, apuesto[n]a que es incluso mejor que gag gafas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0]Eso significa que tiene una sólida ofensa y[n]defensa. Cuando lo consideres, apuesto[n]a que es incluso mejor que gag gafas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 4 1 0][f 3 1 1 0 0 28033][f 6 1 2 0 0 4]Haha, gracias por el... elogio, supongo?[n][f 1 3 65535][f 1 1][e]
@@ -58,23 +58,23 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 10 0 0 1][f 3 1 1 0 0 10089][f 6 1 2 0 0 4]夷Y qu姻 hay de lo que se llaman, como Joker[n]y Mona? 夷Son apodos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Son nuestros nombres de c吋digo.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Son nuestros nombres de código.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Son nuestros nombres espirituales.[f 2 7 1 20 0 32][e]
 
 [msg MSG_019 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23052]As胤 es.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 14 1 6][f 3 1 1 0 0 23085][f 6 1 2 0 0 6]斡Vamos! 斡Son nombres de c吋digo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 14 1 6][f 3 1 1 0 0 23085][f 6 1 2 0 0 6]斡Vamos! 斡Son nombres de código![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 16047][f 6 1 2 0 0 4]Nombres de c吋digo... 夷C吋mo los eliges?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 16047][f 6 1 2 0 0 4]Nombres de código... 夷Cómo los eliges?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Se basa principalmente en c吋mo lucen nuestros[n]trajes o nos hacen sentir. 夷Ustedes[n]tambi姻n quieren algo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Se basa principalmente en cómo lucen nuestros[n]trajes o nos hacen sentir. 夷Ustedes[n]tambi姻n quieren algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡S胤! 斡S吋lo pensaba que era hora de que yo[n]tomara un t胤tulo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡S胤! 斡Sólo pensaba que era hora de que yo[n]tomara un t胤tulo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 0]Entonces, son como nombres de anillo... Eso[n]no suena mal. Yo tambi姻n tomar姻 uno, si[n]no te importa.[n][f 1 3 65535][f 1 1][e]
@@ -83,11 +83,11 @@
 [f 0 5 65278][f 2 1][f 4 6 17 2 0 1][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 1 0 3][f 4 6 12 1 0 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8022]夷No hemos aprendido d吋nde nos lleva esta[n]conversaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 1 0 3][f 4 6 12 1 0 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8022]夷No hemos aprendido dónde nos lleva esta[n]conversación?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22032][f 6 1 2 0 0 6]Vamos, ser茨 divertido. 斡Tienes que ir con el[n]flujo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22017][f 6 1 2 0 0 4]As胤 que, si lo basamos en c吋mo se ve Sanada-san,[n]tal vez... 夷Boxer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22017][f 6 1 2 0 0 4]As胤 que, si lo basamos en cómo se ve Sanada-san,[n]tal vez... 夷Boxer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 0]夷No es algo sencillo? El primer nombre clave[n]que viene a mi mente para 姻l es[n]Protein...[n][f 1 3 65535][f 1 1][e]
@@ -96,14 +96,14 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 4][f 3 1 1 0 0 18129]S胤, ve con eso. Incluso le encanta verter[n]prote胤na en polvo en su arroz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 22 1 0 0][f 4 6 12 8 1 0][f 3 1 1 0 0 12002][f 6 1 2 0 0 2]斡Dame un respiro! 夷Puedes siquiera pensar en[n]un nombre de c吋digo para m胤 que no tiene[n]que ver con la prote胤na, Shinji?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 1 0 0][f 4 6 12 8 1 0][f 3 1 1 0 0 12002][f 6 1 2 0 0 2]斡Dame un respiro! 夷Puedes siquiera pensar en[n]un nombre de código para m胤 que no tiene[n]que ver con la prote胤na, Shinji?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 8 1 0][f 3 1 1 0 0 18093][f 6 1 2 0 0 6]Incluso si me tomara el tiempo para pensar[n]en uno, 斡todav胤a seguir胤as con la prote胤na[n]de todos modos! 夷Por qu姻 deber胤a[n]molestarme?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 8 1 0][f 3 1 1 0 0 12062][f 6 1 2 0 0 2]斡No hagas que suene como si fuera lo 雨nico[n]que hablo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo soy tan particular con la prote胤na porque[n]es el principal nutriente que el cuerpo[n]necesita..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sólo soy tan particular con la prote胤na porque[n]es el principal nutriente que el cuerpo[n]necesita..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19090][f 6 1 2 0 0 6]Okay, so Akihiko-senpai is Protein![n][f 1 3 65535][f 1 1][e]
@@ -119,11 +119,11 @@
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19130]Right? Plus, her outfits and accessories[n]are overwhelmingly pink.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10050][f 6 1 2 0 0 0]夷C吋mo lo sabes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10050][f 6 1 2 0 0 0]夷Cómo lo sabes?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Claro, ya me conoces. Me olvid姻... Lo siento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 4][f 4 6 16 12 0 1][f 3 1 1 0 0 16009]U-Um... 夷Puede Koromaru y yo conseguir c吋digos[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 4][f 4 6 16 12 0 1][f 3 1 1 0 0 16009]U-Um... 夷Puede Koromaru y yo conseguir códigos[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amada-kun es una peladora de lanza, as胤 que[n]tal vez... 夷Lancer? 夷Es demasiado claro?[n][f 1 3 65535][f 1 1][e]
@@ -132,7 +132,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19011][f 6 1 2 0 0 4]If Yukari's Miss Pink, then how about[n]Mister Black for Ken-kun?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 4 1 0][f 3 1 1 0 0 16086]Se�or Black... No est茨 mal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 4 1 0][f 3 1 1 0 0 16086]Señor Black... No est茨 mal.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso en Featherman, Black se representa[n]como un tipo fresco, "lobo solitario" con[n]un alto nivel de madurez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [P3 Fem Protag]]
@@ -151,10 +151,10 @@
 [f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17008]*whine*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Parece que tus nombres son demasiado pr吋ximos[n]para la escena del perro, Inari.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Parece que tus nombres son demasiado próximos[n]para la escena del perro, Inari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 11 2 0 1][f 3 1 1 0 0 11006][f 6 1 2 0 0 4]Muy bien, yo siguiente, yo siguiente! Entonces,[n]夷qu姻 tipo de nombre de c吋digo crees[n]que me queda mejor?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 11 2 0 1][f 3 1 1 0 0 11006][f 6 1 2 0 0 4]Muy bien, yo siguiente, yo siguiente! Entonces,[n]夷qu姻 tipo de nombre de código crees[n]que me queda mejor?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_049 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Goatee.[f 2 7 1 20 0 32][e]
@@ -190,7 +190,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 0 0 0][f 3 1 1 0 0 0]Entonces lo acortaremos a Geezer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11058][f 6 1 2 0 0 0]夷C吋mo sucedi� eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11058][f 6 1 2 0 0 0]夷Cómo sucedió eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 18 1 0 1][f 4 6 19 0 2 3][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19011][f 6 1 2 0 0 4]Now, for Shinjiro-senpai's codename...[n]How about Brood?[n][f 1 3 65535][f 1 1][e]
@@ -214,7 +214,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Entonces, el tipo ama a los perros, pero lo[n]mantiene en secreto, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 14 10 100 1][f 3 1 1 0 0 14548][f 3 1 6 0 0 500]Realmente conoces a todos tan bien, [f 6 1 27 0 0][n]-chan. 斡Es incre胤ble![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 14 10 100 1][f 3 1 1 0 0 14548][f 3 1 6 0 0 500]You really know everyone so well,[n][f 6 1 27 0 0 0]-chan. It's amazing![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]I know all about you too, Fuuka.[n]Let's see, Fuuka's codename...[n][f 1 3 65535][f 1 1][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 4][f 3 1 1 0 0 13002][f 6 1 2 0 0 3]Muy bien todos, creo que es suficiente charlar.[n]Deber胤amos irnos y..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Oh! A雨n no tenemos uno para Mitsuru-senpai.[n]夷Tienes algo, [f 6 1 27 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Oh! We don't have one for[n]Mitsuru-senpai yet. Got anything,[n][f 6 1 27 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19013]C'est Magnifique... No, that's more of[n]a phrase than a codename. Oh! How[n]about Execution Queen?[n][f 1 3 65535][f 1 1][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 10 0 0][f 3 1 1 0 0 13058][f 6 1 2 0 0 0]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 2 0 1][f 3 1 1 0 0 0]Tienes raz吋n... Mitsuru-senpai dice "ejecutar"[n]mucho.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 2 0 1][f 3 1 1 0 0 0]Tienes razón... Mitsuru-senpai dice "ejecutar"[n]mucho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Por favor, para esto...[n][f 1 3 65535][f 1 1][e]
@@ -265,17 +265,17 @@
 
 [msg MSG_083 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19030]Yeah... I'm surprised too.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todos aqu胤 son exactamente como los compa�eros[n]que conozco...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todos aqu胤 son exactamente como los compañeros[n]que conozco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]Entonces, 夷debemos darle un nombre de c吋digo[n]tambi姻n, [f 6 1 27 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]Entonces, 夷debemos darle un nombre de código[n]tambi姻n, [f 6 1 27 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_085 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19018]...Huh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]Quiero decir, realmente no s姻 lo que ser胤a,[n]pero no deber胤amos dejarte fuera como la[n]雨nica persona sin uno![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11001][f 6 1 2 0 0 4]Hey, [f 6 1 30 0 0] - 夷puedes venir con un nombre de c吋digo para [f 6 1 27 0 0][n]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11001][f 6 1 2 0 0 4]Hey, [f 6 1 30 0 0] - 夷puedes venir con un nombre de código para [f 6 1 27 0 0][n]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_087 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Auriculares.[f 2 7 1 20 0 32][e]
@@ -317,11 +317,11 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 0]Es hora de que nos mudemos de nuevo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_099 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11061][f 6 1 2 0 0 4]Aww, pero 夷qu姻 hay de nuestros nombres de[n]c吋digo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11061][f 6 1 2 0 0 4]Aww, pero 夷qu姻 hay de nuestros nombres de[n]código?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_100 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]No hay ninguna raz吋n para que usemos nombres[n]de c吋digo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De hecho, cualquier nombre confuso podr胤a[n]causar problemas al emitir 吋rdenes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]No hay ninguna razón para que usemos nombres[n]de código.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De hecho, cualquier nombre confuso podr胤a[n]causar problemas al emitir órdenes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_101 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 6][f 3 1 1 0 0 16011]S胤, supongo que es verdad... Pero se siente[n]como un poco de amortiguador.[n][f 1 3 65535][f 1 1][e]

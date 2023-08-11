@@ -1,5 +1,5 @@
 [msg MSG_000 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 99 1][f 3 1 6 0 0 500][f 3 1 1 0 0 14527][f 6 1 2 0 0 10]Lo siento, pero... No s姻 a d吋nde ir.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 99 1][f 3 1 6 0 0 500][f 3 1 1 0 0 14527][f 6 1 2 0 0 10]Lo siento, pero... No s姻 a dónde ir.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero decir, hay un camino, pero tiene una[n]puerta cerrada, as胤 que no te har茨 ning雨n[n]bien...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Aigis]]
@@ -26,8 +26,8 @@
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 1][f 3 1 1 0 0 15010]S胤, parece que es el caso. Me disculpo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 0 3][f 3 1 1 0 0 26058][f 6 1 2 0 0 0]夷Tiene Joker? 斡Habla de ser de alta definici吋n![n]Daaaamn...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26033][f 6 1 2 0 0 9]Pero, con toda honestidad... Mi sangre se[n]resfri� por un segundo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 0 3][f 3 1 1 0 0 26058][f 6 1 2 0 0 0]夷Tiene Joker? 斡Habla de ser de alta definición![n]Daaaamn...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26033][f 6 1 2 0 0 9]Pero, con toda honestidad... Mi sangre se[n]resfrió por un segundo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 15 1 0 0][f 4 6 35 0 1 3][f 3 1 1 0 0 35022]A... 夷JOKE? UN ROBOT... ME HICE UN CHISTE.[n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷ES PORQUE NO FUISTE CRIADO EN ESTE MUNDO,[n]COMO YO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15012]Actualmente s姻 muy poco sobre lo que comprende[n]un robot "normal"... Sin embargo, no[n]importa d吋nde est姻, soy yo mismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15012]Actualmente s姻 muy poco sobre lo que comprende[n]un robot "normal"... Sin embargo, no[n]importa dónde est姻, soy yo mismo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Esto no te describe tambi姻n, Ribbon-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ribbon]]
@@ -45,13 +45,13 @@
 
 [msg MSG_012 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15063]Me dijeron que viniste con nosotros porque[n]quer胤as aprender sobre las emociones que[n]has alcanzado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ese sentimiento naci� de dentro de ti. Es[n]tuyo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ese sentimiento nació de dentro de ti. Es[n]tuyo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 1 3][f 3 1 1 0 0 35022]TEN緯A... MI PROPIA SENSACI遺N...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 6 1 6][f 3 1 1 0 0 13069]Bueno, vamos a terminar esta conversaci吋n[n]por ahora y reanudar nuestra exploraci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 6 1 6][f 3 1 1 0 0 13069]Bueno, vamos a terminar esta conversación[n]por ahora y reanudar nuestra exploración.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014_5 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 3][f 3 1 1 0 0 0]Aunque no haya un camino claro para nosotros,[n]debe haber un pasaje oculto en alg雨n[n]lugar. Intentemos buscar uno.[n][f 1 3 65535][f 1 1][e]

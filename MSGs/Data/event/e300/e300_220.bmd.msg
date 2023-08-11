@@ -21,17 +21,17 @@
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Bueno, esto es bastante lo que esperaba.[n]Necesitamos resolver los problemas antes de[n]que nos "despojen"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 1 1][f 3 1 1 0 0 3054][f 6 1 2 0 0 10]Amigo, no estoy listo para morir todav胤a! Oh[n]no... Realmente necesito encontrar el[n]ba�o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 1 1][f 3 1 1 0 0 3054][f 6 1 2 0 0 10]Amigo, no estoy listo para morir todav胤a! Oh[n]no... Realmente necesito encontrar el[n]baño...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷No eres jefe de operaciones?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Espera.[f 2 7 1 20 6 32][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 1 0][f 3 1 1 0 0 3041][f 6 1 2 0 0 6]S胤, 斡pero soy m茨s de un tipo de "pensador[n]profundo"! Oh hombre, estoy tan nervioso,[n]mi est吋mago est茨 empezando a ser churn![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 1 0][f 3 1 1 0 0 3041][f 6 1 2 0 0 6]S胤, 斡pero soy m茨s de un tipo de "pensador[n]profundo"! Oh hombre, estoy tan nervioso,[n]mi estómago est茨 empezando a ser churn![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 1 0][f 3 1 1 0 0 3041][f 6 1 2 0 0 10]Lo har姻, pero... 斡Estoy tan nervioso, mi[n]est吋mago est茨 empezando a ser churn![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 1 0][f 3 1 1 0 0 3041][f 6 1 2 0 0 10]Lo har姻, pero... 斡Estoy tan nervioso, mi[n]estómago est茨 empezando a ser churn![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 25037]C茨lmate, 夷quieres? No podemos dejar este[n]lugar hasta que respondamos las preguntas.[n][f 1 3 65535][f 1 1][e]
@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 6][f 3 1 1 0 0 26005]Si ambos son tan inseguros acerca de esto,[n]entonces ustedes dos pueden ir primero.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 23099][f 6 1 2 0 0 10]Pero... 斡No es que sea inseguro! Yo s吋lo...[n]quer胤a dar un ejemplo para los Ladrones[n]Fantasma![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 23099][f 6 1 2 0 0 10]Pero... 斡No es que sea inseguro! Yo sólo...[n]quer胤a dar un ejemplo para los Ladrones[n]Fantasma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Por cierto, 夷cu茨nto sabes, Ribbon?[n][f 1 3 65535][f 1 1][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23045][f 6 1 2 0 0 5]斡Tengo uno! Obviamente, "matar dos p茨jaros[n]con una piedra"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3030][f 6 1 2 0 0 7]Heheh, pens姻 en uno de inmediato tambi姻n.[n]斡Un mill吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3030][f 6 1 2 0 0 7]Heheh, pens姻 en uno de inmediato tambi姻n.[n]斡Un millón![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]MI RESPUESTA ES: "NINE-TO-FIVE JOB"[n][f 1 3 65535][f 1 1][e]
@@ -99,7 +99,7 @@
 
 [sel SEL_029 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Dos cabezas son mejores que una.[f 2 7 1 20 0 32][e]
-[f 0 5 65278][f 2 1]La compa�胤a de dos; tres es una multitud.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]La compañ胤a de dos; tres es una multitud.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Nada gana comer carne.[f 2 7 1 20 8 32][e]
 
 [msg MSG_030 [Mitsuru]]
@@ -115,10 +115,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 26032][f 6 1 2 0 0 4]M茨s esp胤rita, 夷eh? 夷Qu姻 tal "todo para uno[n]y uno para todos"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]"Uno en un mill吋n" suena como una forma[n]esp胤rita de describir a nuestro propio l胤der.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]"Uno en un millón" suena como una forma[n]esp胤rita de describir a nuestro propio l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]夷Qu姻 es eso, tu impresi吋n de Chie? 斡Ni siquiera[n]tiene un n雨mero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]夷Qu姻 es eso, tu impresión de Chie? 斡Ni siquiera[n]tiene un n雨mero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Adem茨s, no es realmente un lenguaje. Necesitas[n]dar una respuesta que se ajuste a los[n]par茨metros del examen.[n][f 1 3 65535][f 1 1][e]
@@ -253,13 +253,13 @@
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3042][f 6 1 2 0 0 6]夷Qu姻? 夷En serio? Hombre, me alegro de que[n]haya bordado lo que me haya picado en la[n]cabeza![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_075 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Cómo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_076 [Sistema De Examen Ai]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 28072]Qu姻 apropiado, un elemento "sci-fi-sounding".[n]Adem茨s, dej� "esa" para Hanamura-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 28072]Qu姻 apropiado, un elemento "sci-fi-sounding".[n]Adem茨s, dejó "esa" para Hanamura-kun.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Sistema De Examen Ai]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNIT YS-01...[n][f 1 3 65535][f 1 1][e]
@@ -275,7 +275,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3042][f 6 1 2 0 0 6]夷Qu姻? 夷En serio? 斡Dije lo correcto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Cómo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [Sistema De Examen Ai]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TK-03...[n][f 1 3 65535][f 1 1][e]
@@ -307,7 +307,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26018]Whoa! Se duplic� en el "cambio de sueldo" y[n]斡todav胤a lo consigui� bien! Realmente es[n]el 雨ltimo Joker...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26018]Whoa! Se duplicó en el "cambio de sueldo" y[n]斡todav胤a lo consiguió bien! Realmente es[n]el 雨ltimo Joker...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_093 [Sistema De Examen Ai]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TK-03...[n][f 1 3 65535][f 1 1][e]
@@ -338,7 +338,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3042][f 6 1 2 0 0 6]夷Qu姻? 夷En serio? 斡Dije lo correcto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_102 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Cómo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_103 [Sistema De Examen Ai]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA, PARA LA 郁LTIMA PREGUNTA...[n][f 1 3 65535][f 1 1][e]
@@ -364,11 +364,11 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 0]Mira, la corriente el姻ctrica est茨 corriendo[n]cerca del pie de las entradas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_110 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 6 0 1][f 3 1 1 0 0 25040]Entonces, 夷tenemos que empezar corriendo y[n]abrazar a uno de esos? Eso parece una[n]manera extra�a de responder a una pregunta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 6 0 1][f 3 1 1 0 0 25040]Entonces, 夷tenemos que empezar corriendo y[n]abrazar a uno de esos? Eso parece una[n]manera extraña de responder a una pregunta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_111 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 0 0][f 3 1 1 0 0 26138][f 6 1 2 0 0 6]斡No! 斡Nope nope nope! 斡De ninguna manera![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Vamos, se supone que esto es una prueba de[n]conocimiento! 夷Exigir a las haza�as[n]atl姻ticas de nosotros ahora? 斡Eso es trampa![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Vamos, se supone que esto es una prueba de[n]conocimiento! 夷Exigir a las hazañas[n]atl姻ticas de nosotros ahora? 斡Eso es trampa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_112 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 4][f 3 1 1 0 0 0]Hasta ahora, estamos en medio del examen. No[n]tenemos m茨s remedio que responderlo.[n]Escuchemos la pregunta primero, al menos.[n][f 1 3 65535][f 1 1][e]
@@ -387,7 +387,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 0 1 0][f 3 1 1 0 0 35014]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_117 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Espera un momento, estamos en medio de una[n]inspecci吋n para robots producidos en masa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Espera un momento, estamos en medio de una[n]inspección para robots producidos en masa.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nuestras propias creencias pueden no ser[n]necesariamente la respuesta correcta para[n]un examen en este mundo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_118 [Mitsuru]]
@@ -408,7 +408,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 4 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]S姻 lo que quieres decir, pero todav胤a me[n]molesta... 斡Al diablo con este examen![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_123 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 4][f 3 1 1 0 0 25017]Puedo entender c吋mo te sientes, Joker, pero[n]esta es una pregunta que los robots deben[n]responder.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 4][f 3 1 1 0 0 25017]Puedo entender cómo te sientes, Joker, pero[n]esta es una pregunta que los robots deben[n]responder.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_124 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Esa actitud rebelde es admirable, pero no[n]nos har胤a ning雨n bien si nos hubiera[n]electrocutado aqu胤.[n][f 1 3 65535][f 1 1][e]

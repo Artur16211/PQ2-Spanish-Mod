@@ -2,18 +2,18 @@
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 1][f 3 1 1 0 0 1]Ya veo... Esa es esencialmente la misma[n]experiencia que tuvimos que condujo a nuestra[n]llegada aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 3][f 3 1 1 0 0 2][f 6 1 2 0 0 10]Hay otros lugares que son como Mementos...[n]Color me sorprendi�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 3][f 3 1 1 0 0 2][f 6 1 2 0 0 10]Hay otros lugares que son como Mementos...[n]Color me sorprendió.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 6][f 3 1 1 0 0 3]Bueno, espacios como esos nacen de los[n]corazones de la gente, no ser胤a tan extra�o[n]si hubiera otros en otro lugar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 6][f 3 1 1 0 0 3]Bueno, espacios como esos nacen de los[n]corazones de la gente, no ser胤a tan extraño[n]si hubiera otros en otro lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 3][f 3 1 1 0 0 4]Un espacio nacido del coraz吋n de la gente,[n]夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 3][f 3 1 1 0 0 4]Un espacio nacido del corazón de la gente,[n]夷eh?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5]夷Por eso pueden conectarse a otros espacios[n]similares?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 8]Probablemente, tal deducci吋n no se aplica[n]雨nicamente a los reinos dentro de las[n]pel胤culas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9]Creo que el cine en el que estamos ahora es[n]otro mundo que ha nacido por una raz吋n[n]espec胤fica.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 8]Probablemente, tal deducción no se aplica[n]雨nicamente a los reinos dentro de las[n]pel胤culas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9]Creo que el cine en el que estamos ahora es[n]otro mundo que ha nacido por una razón[n]espec胤fica.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 6][f 3 1 1 0 0 10]Ya veo, eso explicar胤a por qu姻 he estado[n]atrapado en esta forma tambi姻n.[n][f 1 3 65535][f 1 1][e]
@@ -23,18 +23,18 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 1][f 6 1 1 0 0 1][f 4 6 72 2 1 3][f 4 6 9 0 1 1][f 3 1 1 0 0 12]斡Yosuke est茨 solo! 斡Waaaaaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 3]夷Yosuke-kun? 夷Es el amigo que mencionaste[n]cuando nos conocimos? 夷El que se separ�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 3]夷Yosuke-kun? 夷Es el amigo que mencionaste[n]cuando nos conocimos? 夷El que se separó?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 2 0 0 10][f 6 1 3 0 0 3]... Muy bien, espera. Por favor... Por favor,[n]d姻jame ir... 斡No puedo respirar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chica Reservada]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 15]Entiendo c吋mo te sientes, pero c茨lmate,[n]Teddie.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 15]Entiendo cómo te sientes, pero c茨lmate,[n]Teddie.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Incluso si llevas a esa persona extra brillante,[n]Yosuke-kun no saldr茨 de 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 2 0 0 9][f 6 1 3 0 0 3]Eheh... "Extra glitzy"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Persona Con Traje De Oso]]
-[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 4 6 9 0 0 0][f 3 1 1 0 0 18]斡He olido algo agradable de 姻l por un momento,[n]pero tiene raz吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 4 6 9 0 0 0][f 3 1 1 0 0 18]斡He olido algo agradable de 姻l por un momento,[n]pero tiene razón![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 8][f 3 1 1 0 0 19]Adem茨s, preferir胤a ir por esta hermosa[n]dama...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Elizabeth]]
@@ -52,7 +52,7 @@
 
 [msg MSG_018 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 6]De todos modos, 斡creemos positivo! Nada bueno[n]puede venir de p茨nico en un momento[n]como este![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Rise-chan y Yosuke estar茨n bien! 斡Despu姻s[n]de todo, tambi姻n est茨n en el Equipo de[n]Investigaci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Rise-chan y Yosuke estar茨n bien! 斡Despu姻s[n]de todo, tambi姻n est茨n en el Equipo de[n]Investigación![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 27]Cierto. Yosuke nunca caer胤a tan f茨cilmente.[n][f 1 3 65535][f 1 1][e]

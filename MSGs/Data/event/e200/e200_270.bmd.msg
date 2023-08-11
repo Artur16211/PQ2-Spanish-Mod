@@ -12,14 +12,14 @@
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Era un fantasma...[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Era s吋lo una rana.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Era sólo una rana.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]夷Era un carn胤voro?[f 2 7 1 20 0 1][e]
 
 [msg MSG_005 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 5][f 6 1 2 0 0 10]斡Eh, basta! Quiero decir, 夷hay fantasmas en[n]tiempos prehist吋ricos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 5][f 6 1 2 0 0 10]斡Eh, basta! Quiero decir, 夷hay fantasmas en[n]tiempos prehistóricos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 1 1][f 3 1 1 0 0 6][f 6 1 2 0 0 6]Por favor, descansa en paz... 斡Se�or, ten[n]piedad de este oso inocente![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 1 1][f 3 1 1 0 0 6][f 6 1 2 0 0 6]Por favor, descansa en paz... 斡Señor, ten[n]piedad de este oso inocente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 7]Espera, si es un fantasma de este per胤odo,[n]夷es un fantasma de dinosaurios? 夷No[n]significar胤a que es enorme?[n][f 1 3 65535][f 1 1][e]

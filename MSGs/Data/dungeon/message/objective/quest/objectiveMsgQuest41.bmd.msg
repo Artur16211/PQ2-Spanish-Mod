@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1]Head to Act Two[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-[f 0 5 65278][f 2 1]Solicitar informaci吋n a la flor[n][e]
+[f 0 5 65278][f 2 1]Solicitar información a la flor[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
 [f 0 5 65278][f 2 1]Encuentra la flor al noroeste[n][e]

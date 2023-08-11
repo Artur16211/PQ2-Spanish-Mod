@@ -59,10 +59,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11325]Parece que podemos pasar a la siguiente zona.[n]夷Est茨s listo?[n][f 1 6 65535][e]
 
 [msg JUNPEI_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11326]Y si pones tu atenci吋n en el frente, ver茨s[n]una escalera.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11326]Y si pones tu atención en el frente, ver茨s[n]una escalera.[n][f 1 6 65535][e]
 
 [msg JUNPEI_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11327]斡Encontr� un cofre de tesoros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11327]斡Encontró un cofre de tesoros![n][f 1 6 65535][e]
 
 [msg JUNPEI_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11328]夷Hm? 夷Es un tesoro?[n][f 1 6 65535][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11333]斡Ta da da da da! 斡Adelante![n][f 1 6 65535][e]
 
 [msg JUNPEI_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11334]斡Encontr� un interruptor![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11334]斡Encontró un interruptor![n][f 1 6 65535][e]
 
 [msg JUNPEI_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11335]斡Oye, veo un interruptor![n][f 1 6 65535][e]
@@ -269,7 +269,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11348]Verte poner los toques finales en ese mapa...[n]Es hermoso.[n][f 1 6 65535][e]
 
 [msg JUNPEI_MAPPING_ICON_DEL__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11349]夷C吋mo pudiste tirar eso? S吋lo bromeaba.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11349]夷Cómo pudiste tirar eso? Sólo bromeaba.[n][f 1 6 65535][e]
 
 [msg JUNPEI_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11350]Aqu胤, d姻jame firmar mi nombre... 夷Eh? 夷Qu姻[n]significa que no lo necesitas?[n][f 1 6 65535][e]
@@ -278,7 +278,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11351]Huh. Es conveniente.[n][f 1 6 65535][e]
 
 [msg JUNPEI_DOOR_OPEN_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11366]Perd吋name.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11366]Perdóname.[n][f 1 6 65535][e]
 
 [msg JUNPEI_DOOR_OPEN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11367]斡Vamos![n][f 1 6 65535][e]

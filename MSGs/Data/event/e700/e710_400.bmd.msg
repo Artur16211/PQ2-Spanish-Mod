@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 10 0 1][f 3 1 1 0 0 24063][f 6 1 2 0 0 0]斡Ah! 夷Qu姻 es esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000_5 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]Parece ser una vieja c茨mara... pero, 斡qu姻[n]dise�o refinado tiene![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]Parece ser una vieja c茨mara... pero, 斡qu姻[n]diseño refinado tiene![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]La alarma de arte de Fox se ha apagado otra[n]vez...[n][f 1 3 65535][f 1 1][e]
@@ -17,7 +17,7 @@
 
 [msg MSG_004]
 [f 0 5 65278][f 2 1][f 4 6 20 8 32 0][f 3 1 1 0 0 0]Siento alg雨n tipo de poder misterioso de la[n]c茨mara...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tengo la sensaci吋n de que podemos volver al[n]cine con esto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tengo la sensación de que podemos volver al[n]cine con esto...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tal vez sea una buena idea volver al Cine y[n]reagrupar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]

@@ -1,8 +1,8 @@
 [msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 23072]Vayamos a nuestra reuni吋n de estrategia sobre[n]c吋mo robaremos la estatua de[n]Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 23072]Vayamos a nuestra reunión de estrategia sobre[n]cómo robaremos la estatua de[n]Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]La frase "reuni吋n estrat姻gica" suena tan[n]genial... 斡S吋lo grita "a ladrones[n]fantasmas"![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]La frase "reunión estrat姻gica" suena tan[n]genial... 斡Sólo grita "a ladrones[n]fantasmas"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 4][f 3 1 1 0 0 22032]Haha, parece que est茨 en la misma longitud[n]de onda que nosotros.[n][f 1 3 65535][f 1 1][e]
@@ -18,17 +18,17 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hemos sacado un atraco similar en el pasado...[n]Creo que podemos manejar esta vez[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 23016]La pregunta es, 夷c吋mo tomamos f胤sicamente la[n]estatua?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 23016]La pregunta es, 夷cómo tomamos f胤sicamente la[n]estatua?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 66 1 0 0][f 4 6 72 0 0 0][f 3 1 1 0 0 0]Aunque parece ser m茨s ligero de lo que parece,[n]escapar con 姻l a mano puede ser[n]demasiado dif胤cil...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]C吋mo cambiar la estatua... Oye, 夷tienes alguna[n]idea?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Cómo cambiar la estatua... Oye, 夷tienes alguna[n]idea?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Podr胤amos meterlo con una gr雨a.[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]Alguien actuar茨 como una distracci吋n.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]Alguien actuar茨 como una distracción.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Nada viene a la mente.[f 2 7 1 64 6 32][e]
 
 [msg MSG_010 [P3 Fem Protag]]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Me sonaba bien. Acabamos de bajar de arriba[n]y sacarlo de la plaza...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 23017]Una t茨ctica de distracci吋n, eh... No est茨[n]mal, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 23017]Una t茨ctica de distracción, eh... No est茨[n]mal, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 65 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos meter a Morgana desde el final[n]de un poste de pesca?[n][f 1 3 65535][f 1 1][e]
@@ -54,13 +54,13 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Es un buen punto. Ojal茨 pudi姻semos arrancarlo[n]antes de ser atrapados...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 19008]*sigh* Si tan s吋lo tuvi姻ramos superpotencias[n]como Kamoshidaman...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 19008]*sigh* Si tan sólo tuvi姻ramos superpotencias[n]como Kamoshidaman...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 4][f 3 1 1 0 0 0]Podr胤amos simplemente bajar del cielo con[n]una "HAHAHAHA!" y hacer como un 茨rbol con[n]la estatua...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Esta operaci吋n ser胤a muy f茨cil si eso fuera[n]posible.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Esta operación ser胤a muy f茨cil si eso fuera[n]posible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 0 1 1][f 3 1 1 0 0 22116][f 6 1 2 0 0 6]斡Espera, creo que eso funcionar胤a![n][f 1 3 65535][f 1 1][e]
@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Robando desde el cielo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 6][f 3 1 1 0 0 24022][f 6 1 2 0 0 4]Parece que te han impresionado con la[n]inspiraci吋n. 夷Nos dir胤as m茨s?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 6][f 3 1 1 0 0 24022][f 6 1 2 0 0 4]Parece que te han impresionado con la[n]inspiración. 夷Nos dir胤as m茨s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0]Claro, as胤 que esto tomar茨 ayuda de todos,[n]empezando por Yusuke...[n][f 1 3 65535][f 1 1][e]
@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]夷Verdad? 夷Verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 68 1 0 3][f 4 6 23 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Es nuestra Se�ora Ann! Pero todo se reduce[n]a esta pregunta: Yusuke, 夷puedes sacarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 1 0 3][f 4 6 23 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Es nuestra Señora Ann! Pero todo se reduce[n]a esta pregunta: Yusuke, 夷puedes sacarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 0]Sin duda. Har姻 el apoyo impresionante.[n][f 1 3 65535][f 1 1][e]
@@ -113,11 +113,11 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Oye... 夷Puedo hablar con Hikari un poco?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Pas� algo?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Pasó algo?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]夷Est茨s preocupado?[f 2 7 1 64 0 32][e]
 
 [msg MSG_037 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 26011]Nada como eso... S吋lo quiero hablar con ella[n]un poco m茨s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 26011]Nada como eso... Sólo quiero hablar con ella[n]un poco m茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 14 1 0][f 3 1 1 0 0 26074]S胤... Quiero hablar con ella un poco m茨s.[n][f 1 3 65535][f 1 1][e]
@@ -136,7 +136,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Elizabeth?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 28033]Lo siento, hay algo que deseo preguntarle...[n]Me disculpo por la raz吋n personal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 28033]Lo siento, hay algo que deseo preguntarle...[n]Me disculpo por la razón personal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Bueno, estoy seguro de que estar茨 bien ya[n]que tenemos todo lo dem茨s cubierto.[n][f 1 3 65535][f 1 1][e]

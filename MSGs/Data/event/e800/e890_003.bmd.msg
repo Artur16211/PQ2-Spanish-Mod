@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 2 0 0][f 3 1 1 0 0 0]Hmhm... Confieso que me alivia ver que te[n]has calentado, Theo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 0]Quiz鑼╯ simplemente tengamos una inclinaci鍚媙[n]natural a este tipo de cosas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 0]Quiz鑼╯ simplemente tengamos una inclinaci贸n[n]natural a este tipo de cosas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 74 1 0 0][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]銆[n][f 3 1 1 0 0 19019][f 6 1 2 0 0 4]A natural inclination?[n][f 1 3 65535][f 1 1][e]
@@ -27,10 +27,10 @@
 [msg MSG_008 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 12 0 0][f 3 1 1 0 0 0]Presidimos el poder. Normalmente, simplemente[n]observamos mientras caminas por tu[n]camino...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero cuanto m鑼╯ fuerte crezcas, m鑼╯ sentiremos[n]un cierto hambre... para luchar contra[n]ti y saborear tu poder nosotros mismos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 76 2 0 0][f 3 1 1 0 0 56029]El mandato de mi hermana ciertamente me[n]sorprendi鍚, pero ahora me doy cuenta... Anhelo[n]la emoci鍚媙 de la batalla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 2 0 0][f 3 1 1 0 0 56029]El mandato de mi hermana ciertamente me[n]sorprendi贸, pero ahora me doy cuenta... Anhelo[n]la emoci贸n de la batalla.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 1]Whoaaa... 鏂sa l鑳ea sali鍚 directamente de[n]un mon鍚媗ogo de superboss postjuego! 澶稥sto[n]es como Omega Theodore?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 1]Whoaaa... 鏂sa l鑳ea sali贸 directamente de[n]un mon贸logo de superboss postjuego! 澶稥sto[n]es como Omega Theodore?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 12 0 1][f 3 1 1 0 0 56103]Ahora, empecemos. Por favor, no retengas[n]nada.[n][f 1 3 65535][f 1 1][e]

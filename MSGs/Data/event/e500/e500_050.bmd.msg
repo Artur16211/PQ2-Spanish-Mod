@@ -6,7 +6,7 @@
 
 [msg MSG_001_5 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 3]Las cerraduras representaban el deseo de[n]Hikari de permanecer aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Desde que Hikari tom� la decisi吋n de irse,[n]Enlil no ha mostrado ninguna intenci吋n de[n]detenerla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Desde que Hikari tomó la decisión de irse,[n]Enlil no ha mostrado ninguna intención de[n]detenerla.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 5]Hm. Mientras este lugar todav胤a puede estar[n]seguro para nosotros, los cines restantes[n]son el problema real...[n][f 1 3 65535][f 1 1][e]
@@ -43,13 +43,13 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 16][f 6 1 2 0 0 10]夷Quieres calmarte? Ahora es el momento que[n]nos hace falta..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011_5 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]...necesita ordenar la informaci吋n que ya[n]tenemos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]...necesita ordenar la información que ya[n]tenemos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 4][f 3 1 1 0 0 18]T雨 eres el que necesita calmarse.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 19]Ese es nuestro Yosuke-kun. Realmente est茨[n]defendiendo su t胤tulo de Pr胤ncipe de[n]Decepci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 19]Ese es nuestro Yosuke-kun. Realmente est茨[n]defendiendo su t胤tulo de Pr胤ncipe de[n]Decepción.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 20][f 6 1 2 0 0 6]夷Podr胤an darme un descanso, esta vez?[n][f 1 3 65535][f 1 1][e]
@@ -74,10 +74,10 @@
 
 [msg MSG_020 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 0 6][f 3 1 1 0 0 27]Todo el lugar va a ser p姻simo con persianas[n]de ojos muertos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28][f 6 1 2 0 0 3]Eso me parece un verdadero mont吋n de basura.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28][f 6 1 2 0 0 3]Eso me parece un verdadero montón de basura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 18 2 1][f 3 1 1 0 0 29]No quiero que nadie m茨s pase por lo que me[n]pas� aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 18 2 1][f 3 1 1 0 0 29]No quiero que nadie m茨s pase por lo que me[n]pasó aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 4 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 30][f 6 1 2 0 0 6]Yeah―we definitely won't let it[n]happen! Let's take care of this[n]theater world.[n][f 1 3 65535][f 1 1][e]

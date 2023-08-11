@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 1][f 3 1 1 0 0 26062]斡Mira! 斡Hay nuestro primer sospechoso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 3][f 3 1 1 0 0 0]... Pero con c吋mo estamos vestidos, podr胤a[n]ser dif胤cil para nosotros hablar con[n]ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 3][f 3 1 1 0 0 0]... Pero con cómo estamos vestidos, podr胤a[n]ser dif胤cil para nosotros hablar con[n]ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8069]Por favor, d姻jame manejar esto.[n][f 1 3 65535][f 1 1][e]
@@ -26,24 +26,24 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Es verdad que hay un oficial de polic胤a[n]falso causando un disturbio por aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Polic胤a Gordo]]
-[f 0 5 65278][f 2 1][f 4 6 45 12 0 3][f 3 1 1 0 0 0]夷Qui姻n eres? 夷D吋nde has o胤do eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 45 12 0 3][f 3 1 1 0 0 0]夷Qui姻n eres? 夷Dónde has o胤do eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Es s吋lo un rumor... Pero como ciudadano[n]apreciar胤a algo de informaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Es sólo un rumor... Pero como ciudadano[n]apreciar胤a algo de información.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Polic胤a Gordo]]
-[f 0 5 65278][f 2 1][f 4 6 45 12 0 3][f 3 1 1 0 0 45002]Hm, por supuesto. Es importante compartir[n]este tipo de informaci吋n con el p雨blico.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 45 12 0 3][f 3 1 1 0 0 45002]Hm, por supuesto. Es importante compartir[n]este tipo de información con el p雨blico.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El oficial falso est茨 montando en un coche[n]marcado con doble 1s.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45005]Por favor, h茨blanos si los encuentras. Son[n]muy peligrosos, as胤 que aseg雨rate de no[n]acercarte demasiado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Gracias por la informaci吋n. Ten cuidado[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Gracias por la información. Ten cuidado[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 3][f 3 1 1 0 0 0]Eso fue r茨pido. Buen trabajo, detective.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8093]Tendremos que encontrar a los otros polic胤as[n]y reunir m茨s informaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8093]Tendremos que encontrar a los otros polic胤as[n]y reunir m茨s información.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 3][f 3 1 1 0 0 24008]"El oficial falso est茨 montando en un coche[n]marcado con doble 1s."[n][f 1 3 65535][f 1 1][e]
@@ -65,18 +65,18 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mejor marcaremos las ubicaciones de los[n]oficiales en el mapa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 3][f 3 1 1 0 0 0]斡Bien, Skull! 夷D吋nde est茨n esos polic胤as?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 3][f 3 1 1 0 0 0]斡Bien, Skull! 夷Dónde est茨n esos polic胤as?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 1][f 3 1 1 0 0 21022]夷Por qu姻 me est茨s molestando?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_021 top]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3]夷Quiz茨s en la estaci吋n?[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3]夷Quiz茨s en la estación?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]夷Quiz茨s otra escena del crimen?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Busquemos sus coches.[f 2 7 1 20 0 32][e]
 
 [msg MSG_022 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21013]No s姻 d吋nde vamos a encontrar eso. He visto[n]algunos coches de polic胤a, sin embargo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21013]No s姻 dónde vamos a encontrar eso. He visto[n]algunos coches de polic胤a, sin embargo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 3][f 3 1 1 0 0 0]斡As胤 es! 斡Hab胤a coches de polic胤a por aqu胤![n][f 1 3 65535][f 1 1][e]
@@ -90,13 +90,13 @@
 
 [msg MSG_026 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 3][f 3 1 1 0 0 0]斡Lo s姻![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Si quieres saber d吋nde est茨n los autos de[n]la polic胤a, preg雨ntame![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Si quieres saber dónde est茨n los autos de[n]la polic胤a, preg雨ntame![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Eso ser胤a muy 雨til. 夷Pero qu姻 planeas hacer[n]exactamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 3][f 3 1 1 0 0 0]Si puedo hackear el sistema inform茨tico de[n]la ciudad, sabremos exactamente d吋nde[n]encontrarlos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 3][f 3 1 1 0 0 0]Si puedo hackear el sistema inform茨tico de[n]la ciudad, sabremos exactamente dónde[n]encontrarlos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26029]Usaron un terminal para controlar los[n]reflectores, 夷verdad? Voy a hackear desde all胤.[n]Heheh.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Morgana]]
@@ -105,7 +105,7 @@
 [msg MSG_030 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8006]Pensemos en una estrategia, entonces.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si queremos hablar con los agentes de polic胤a,[n]primero tendremos que localizar los[n]coches de la polic胤a.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si queremos saber d吋nde est茨n los coches[n]de la polic胤a, tendremos que encontrar[n]una terminal de b雨squeda.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si queremos saber dónde est茨n los coches[n]de la polic胤a, tendremos que encontrar[n]una terminal de b雨squeda.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_031 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3]Lo tengo.[f 2 7 1 20 0 32][e]

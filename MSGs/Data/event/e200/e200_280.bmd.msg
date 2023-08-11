@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 14 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 2]夷Entonces qu姻 se supone que hagamos? 斡Senpai[n]se va a comer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 6 1 3][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Si tan s吋lo pudi姻ramos atraer a ese carn胤voro[n]lejos de ellos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 6 1 3][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Si tan sólo pudi姻ramos atraer a ese carn胤voro[n]lejos de ellos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 4 6][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 19063]斡Oh, lo s姻! 夷No podr胤amos usar esa cosa?[n][f 1 3 65535][f 1 1][e]
@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1]夷Te refieres a la trampa?[f 2 7 1 20 0 32][e]
 
 [msg MSG_010 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 1 6][f 3 1 1 0 0 25115][f 6 1 2 0 0 6]斡As胤 es! 斡Vimos uno que qued� abierto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 1 6][f 3 1 1 0 0 25115][f 6 1 2 0 0 6]斡As胤 es! 斡Vimos uno que quedó abierto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 8 1 6][f 3 1 1 0 0 21022][f 6 1 2 0 0 6]夷Qu姻 eres, un tonto del dino? 斡No tenemos[n]ninguna cuerda![n][f 1 3 65535][f 1 1][e]
@@ -43,7 +43,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Quiz茨 quer胤a decir que podr胤amos llevar el[n]carn胤voro a esa puerta el姻ctrica?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 25 6 1 6][f 3 1 1 0 0 25115][f 6 1 2 0 0 6]斡As胤 es! 斡Vimos uno que qued� abierto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 25 6 1 6][f 3 1 1 0 0 25115][f 6 1 2 0 0 6]斡As胤 es! 斡Vimos uno que quedó abierto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 18 1 6][f 3 1 1 0 0 22018][f 6 1 2 0 0 3]夷Trap? No recuerdo una trampa...[n][f 1 3 65535][f 1 1][e]
@@ -52,21 +52,21 @@
 [f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 0]Creo que [f 6 1 26 0 0]-san se refer胤a a esa[n]puerta el姻ctrica.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 1 6][f 3 1 1 0 0 25115][f 6 1 2 0 0 6]斡Eso es! 斡Vimos uno que qued� abierto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 1 6][f 3 1 1 0 0 25115][f 6 1 2 0 0 6]斡Eso es! 斡Vimos uno que quedó abierto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 3 6][f 3 1 1 0 0 0]斡Entonces todo lo que tenemos que hacer es[n]ir all胤 y atraparlo![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Vamos con ese plan.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]夷C吋mo hacemos eso?[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]夷Cómo hacemos eso?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Tienes esto, Skull.[f 2 7 1 20 2 32][e]
 
 [msg MSG_019 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 6 0 3][f 3 1 1 0 0 27079][f 6 1 2 0 0 4]夷Pero c吋mo vamos a conducir el carn胤voro m茨s[n]all茨 de la puerta?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 6 0 3][f 3 1 1 0 0 27079][f 6 1 2 0 0 4]夷Pero cómo vamos a conducir el carn胤voro m茨s[n]all茨 de la puerta?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 4 1 3][f 3 1 1 0 0 4062][f 6 1 2 0 0 0]夷C吋mo? Bueno, solo... 夷C吋mo vamos a[n]atraparlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 4 1 3][f 3 1 1 0 0 4062][f 6 1 2 0 0 0]夷Cómo? Bueno, solo... 夷Cómo vamos a[n]atraparlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 8 1 6][f 3 1 1 0 0 21068][f 6 1 2 0 0 0]S胤, esperar姻, 夷no crees que eso est茨 un poco[n]fuera de mi alcance?[n][f 1 3 65535][f 1 1][e]
@@ -88,16 +88,16 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 1 0 3][f 4 6 4 10 0 6][f 3 1 1 0 0 4054][f 6 1 2 0 0 0]斡Aah! 夷No fue tan molesto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Lo hice a prop吋sito para que venga tras[n]nosotros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Lo hice a propósito para que venga tras[n]nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 3][f 3 1 1 0 0 5069]As胤 que vamos con una estrategia de[n]decodificaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 3][f 3 1 1 0 0 5069]As胤 que vamos con una estrategia de[n]decodificación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Rise]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 1 1 0 6][f 4 6 6 4 99 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 6]斡Todos, retrocedan como acaban de llegar![n]斡Corre tan r茨pido como puedas, salta esa[n]puerta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 2 1 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Parece que nuestra misi吋n ha comenzado.[n]斡Vamos a seguir hasta rescatar a Yosuke![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 2 1 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Parece que nuestra misión ha comenzado.[n]斡Vamos a seguir hasta rescatar a Yosuke![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 6][f 3 1 1 0 0 4077]斡Te tengo! 斡Tenemos cosas m茨s importantes[n]que volver al cine![n][f 1 3 65535][f 1 1][e]

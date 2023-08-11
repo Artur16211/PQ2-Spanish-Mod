@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1]Procedido m茨s all茨 de las escaleras[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__3]
-[f 0 5 65278][f 2 1]Aprende c吋mo apagar las luces[n][e]
+[f 0 5 65278][f 2 1]Aprende cómo apagar las luces[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__16]
 [f 0 5 65278][f 2 1]Recorrer el 茨rea de alta seguridad[n][e]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1]Proceded onward[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__10]
-[f 0 5 65278][f 2 1]Aprende lo extra�o que es el sonido[n][e]
+[f 0 5 65278][f 2 1]Aprende lo extraño que es el sonido[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__11]
 [f 0 5 65278][f 2 1]Encontrar un camino que pasa por los 茨rboles[n][e]
@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1]Hacer cebo carn胤voro[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__14]
-[f 0 5 65278][f 2 1]Lure el carn胤voro en posici吋n[n][e]
+[f 0 5 65278][f 2 1]Lure el carn胤voro en posición[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__15]
 [f 0 5 65278][f 2 1]Proceded onward[n][e]
@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1]Proceded onward[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Encuentra al due�o del Evoker[n][e]
+[f 0 5 65278][f 2 1]Encuentra al dueño del Evoker[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__3]
 [f 0 5 65278][f 2 1]Encontrar Aigis y su l胤der[n][e]
@@ -170,13 +170,13 @@
 [f 0 5 65278][f 2 1]Controla los ascensores para proceder[n][e]
 
 [msg D05_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Dir胤jase a la ubicaci吋n de Enlil[n][e]
+[f 0 5 65278][f 2 1]Dir胤jase a la ubicación de Enlil[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL_]
 [f 0 5 65278][f 2 1]Proceded onward[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Encontrar una soluci吋n a los desechos[n][e]
+[f 0 5 65278][f 2 1]Encontrar una solución a los desechos[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__3]
 [f 0 5 65278][f 2 1]Lure el FOE a los escombros[n][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1]Poner fin a este terrible plan[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__8]
-[f 0 5 65278][f 2 1]Dir胤jase a la ubicaci吋n de Enlil[n][e]
+[f 0 5 65278][f 2 1]Dir胤jase a la ubicación de Enlil[n][e]
 
 [msg D04_OBJECTIVE_MSG_LARGE__2]
 [f 0 5 65278][f 2 1]Dir胤jase a las profundidades[n][e]

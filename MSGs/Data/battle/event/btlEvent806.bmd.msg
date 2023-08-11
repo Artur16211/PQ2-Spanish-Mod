@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 4 1 8][f 3 1 3 0 0 402]夷Est茨 envuelto en pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 1 7][f 3 1 3 0 0 403][f 6 1 2 0 0 4]Hikari nos dijo que cre� este ser. 夷Est茨 bien[n]que lo ataquemos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 1 7][f 3 1 3 0 0 403][f 6 1 2 0 0 4]Hikari nos dijo que creó este ser. 夷Est茨 bien[n]que lo ataquemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 8][f 3 1 3 0 0 404][f 6 1 2 0 0 6]斡Pero si no lo hacemos, Hikari estar茨 en[n]peligro! 斡Tenemos que protegerla![n][f 1 3 65535][f 1 1][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 3 1 3 0 0 407][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 2]Hikari... 斡Hikari! 斡Hikari! 斡Hikari![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 7][f 3 1 3 0 0 408][f 6 1 2 0 0 2]Tch, no vamos a dejar que le pongas un dedo[n]encima! 斡Aqu胤 vamos, maldici吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 7][f 3 1 3 0 0 408][f 6 1 2 0 0 2]Tch, no vamos a dejar que le pongas un dedo[n]encima! 斡Aqu胤 vamos, maldición![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008_00 [Doe]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 3 1 3 0 0 433][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 2]Hrrghh... Aaaagh...[n][f 1 3 65535][f 1 1][e]
@@ -93,11 +93,11 @@
 [f 0 5 65278][f 2 1][f 4 6 81 10 6 0][f 3 1 3 0 0 431][f 6 1 2 0 0 1]Todos ustedes me salvaron... Entonces, esta[n]vez... 斡Es mi turno de salvarte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029_05]
-[f 0 5 65278][f 2 1]Se ha a�adido la habilidad de soporte [f 0 1 2][n]Hikari's Cheer[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Se ha añadido la habilidad de soporte [f 0 1 2][n]Hikari's Cheer[f 0 1 0].[n][f 1 1][e]
 
 [msg MSG_030 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 7][f 3 1 1 0 0 4060][f 3 1 1 0 0 0]斡La pel胤cula ha vuelto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 8][f 3 1 3 0 0 7047][f 6 1 2 0 0 2]Tch, 斡podemos destruirlo otra vez! 斡Hag茨moslo,[n]maldici吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 8][f 3 1 3 0 0 7047][f 6 1 2 0 0 2]Tch, 斡podemos destruirlo otra vez! 斡Hag茨moslo,[n]maldición![n][f 1 3 65535][f 1 1][e]
 

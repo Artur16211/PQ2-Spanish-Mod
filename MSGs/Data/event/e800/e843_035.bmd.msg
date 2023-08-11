@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Supongo que eso hace que este problema sea[n]tan dif胤cil.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 0]S胤. La Queen lo resumi� mejor... No hay[n]respuesta objetivamente correcta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 0]S胤. La Queen lo resumió mejor... No hay[n]respuesta objetivamente correcta.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todo lo que podemos hacer es tener en cuenta[n]todo lo que hemos considerado, y luego[n]avanzar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
@@ -28,10 +28,10 @@
 
 [msg MSG_007 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Si no hacemos un sacrificio, entonces no[n]podemos salvar a otro...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una condici吋n de extraordinaria crueldad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una condición de extraordinaria crueldad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 6 100 3][f 3 1 1 0 0 6509][f 3 1 6 0 0 500]No s姻 qu姻 har胤a si estuviera en esa[n]situaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 6 100 3][f 3 1 1 0 0 6509][f 3 1 6 0 0 500]No s姻 qu姻 har胤a si estuviera en esa[n]situación...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Bueno, como dije, no hay una respuesta que[n]sea objetivamente "correcta" aqu胤.[n][f 1 3 65535][f 1 1][e]

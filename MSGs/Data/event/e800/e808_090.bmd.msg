@@ -41,8 +41,8 @@
 [f 0 5 65278][f 2 1][f 4 6 44 0 2 0][f 3 1 1 0 0 0]斡OOOOOOHN![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4059]斡Vaya! 斡Se transform�![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4059]斡Vaya! 斡Se transformó![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 4][f 3 1 1 0 0 26121]Parece que nuestra hip吋tesis era correcta.[n]斡Aqu胤 viene![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 4][f 3 1 1 0 0 26121]Parece que nuestra hipótesis era correcta.[n]斡Aqu胤 viene![n][f 1 3 65535][f 1 1][e]
 

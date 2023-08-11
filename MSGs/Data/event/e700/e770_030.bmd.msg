@@ -2,11 +2,11 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11045][f 6 1 2 0 0 4]夷Eh? 夷Qu姻 es esto? 夷Un trozo de papel?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷Qu姻, eso es todo? Qu姻 decepci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷Qu姻, eso es todo? Qu姻 decepción.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 1 3][f 3 1 1 0 0 23052]Un momento, chicos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si mi veterano ladr吋n fantasma intuici吋n es[n]correcta...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si mi veterano ladrón fantasma intuición es[n]correcta...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_1 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Entonces este es un mapa que marca el lugar[n]de un tesoro escondido de lujo![n][f 1 3 65535][f 1 1][e]
@@ -28,7 +28,7 @@
 
 [sel SEL_008 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]Es el sentido de la aventura.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Sigue siendo un ni�o.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1]Sigue siendo un niño.[f 2 7 1 20 6 32][e]
 
 [msg MSG_009 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11009]夷T雨 tambi姻n eres el tipo de aventura, Joker?[n]斡Yo soy un fan![n][f 1 3 65535][f 1 1][e]
@@ -39,7 +39,7 @@
 
 [msg MSG_011 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 3][f 3 1 1 0 0 0]*Grecha* Suena emocionante seguir un mapa[n]del tesoro.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Qu姻 tal si ponemos este mapa del tesoro[n]encima de nuestro mapa de cine? Entonces[n]sabr胤amos la ubicaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Qu姻 tal si ponemos este mapa del tesoro[n]encima de nuestro mapa de cine? Entonces[n]sabr胤amos la ubicación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 7]No es mala idea. 斡Me encargar姻 de esto![n][f 1 3 65535][f 1 1][e]

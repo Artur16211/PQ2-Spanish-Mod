@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22302]夷Un FOE? 斡No hay manera de que podamos luchar[n]contra eso ahora mismo![n][f 1 6 65535][e]
 
 [msg BTL_MES_022_004]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22303]?justificando la opci吋n de usarla[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22303]?justificando la opción de usarla[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_005]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22304]Podr胤amos ser capaces de ganar esto...[n][f 1 6 65535][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22328]夷Cu茨l es el trato de esta cosa?[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_020]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22329]Alternativamente... 夷Reflexi吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22329]Alternativamente... 夷Reflexión[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_021]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22330]Alternativamente[n][f 1 6 65535][e]
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22418]?еленнныйны�нинныеннныеннныеннный ... 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_042]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22419]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22419]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_043]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22420]夷Qu姻[n][f 1 6 65535][e]
@@ -185,7 +185,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22504]斡Testigo[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_062]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22505]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22505]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_063]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22506]Alternativamente[n][f 1 6 65535][e]
@@ -206,10 +206,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22511]Leer m茨s[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_069]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22512]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22512]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_070]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22513]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22513]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_071]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22514]Alternativamente[n][f 1 6 65535][e]
@@ -218,7 +218,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22515]<LY[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_073]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22516]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22516]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_074]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22517]Alternativamente[n][f 1 6 65535][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22519]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_077]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22520]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22520]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_078]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22521]斡No[n][f 1 6 65535][e]
@@ -242,7 +242,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22523]斡He aqu胤[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_081]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 22524]斡Presi吋n descubierta[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 22524]斡Presión descubierta[n][f 1 6 65535][e]
 
 [msg BTL_MES_022_082]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 22525]斡No[n][f 1 6 65535][e]

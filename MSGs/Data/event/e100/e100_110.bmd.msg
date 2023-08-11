@@ -7,7 +7,7 @@
 
 [msg MSG_002 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 1][f 3 1 1 0 0 4][f 6 1 2 0 0 3]He estado haciendo algunas pruebas, y parece[n]que no puedo hacerlo como siempre.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Parece un poco inestable, o... como si no[n]pudiera entender claramente la  informaci吋n[n]de su ubicaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Parece un poco inestable, o... como si no[n]pudiera entender claramente la  información[n]de su ubicación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 6][f 6 1 2 0 0 4]夷Quiz茨 est茨 sufriendo alg雨n tipo de[n]interferencia?[n][f 1 3 65535][f 1 1][e]
@@ -16,8 +16,8 @@
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 1][f 3 1 1 0 0 7]Es posible que quien trajo esa anomal胤a est姻[n]manipulando sus lecturas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 0 0 1][f 3 1 1 0 0 8]Aunque no podemos dejar a nuestras amigas.[n]Tenemos que irnos, con o sin navegaci吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 9]No te preocupes, estoy bastante ubicado con[n]mi sexto sentido. 斡Es la intuici吋n de mi[n]lado salvaje![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 0 0 1][f 3 1 1 0 0 8]Aunque no podemos dejar a nuestras amigas.[n]Tenemos que irnos, con o sin navegación.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 9]No te preocupes, estoy bastante ubicado con[n]mi sexto sentido. 斡Es la intuición de mi[n]lado salvaje![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 10][f 6 1 2 0 0 6]斡No conf胤o en eso![n][f 1 3 65535][f 1 1][e]
@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 7 2 0][f 3 1 1 0 0 22]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 23][f 6 1 30 0 0 0]Creo que deber胤amos dejar la creaci吋n del[n]mapa a ti.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 23][f 6 1 30 0 0 0]Creo que deber胤amos dejar la creación del[n]mapa a ti.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1]Bien, yo me encargar姻.[f 2 7 1 64 2 32][e]
@@ -67,7 +67,7 @@
 
 [msg MSG_020 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 25]Es verdad, estoy seguro de que har胤a un mejor[n]mapa, pero si me lo das...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26][f 6 1 2 0 0 4]Creo que usar胤a todo el cuaderno en cuesti吋n[n]de minutos, 夷est茨n bien con eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26][f 6 1 2 0 0 4]Creo que usar胤a todo el cuaderno en cuestión[n]de minutos, 夷est茨n bien con eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 6][f 3 1 1 0 0 27][f 6 1 2 0 0 6]斡Por supuesto que no! 夷Pensabas dibujar?[n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 0 3 6][f 3 1 1 0 0 30][f 6 1 2 0 0 9]No podemos perdernos en esta pel胤cula... Este[n]trabajo es mejor para nuestro l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 12 0 1][f 3 1 1 0 0 31]A雨n tienen la intenci吋n de entrar ah胤... Por[n]favor, aseg雨rense de que no presionarse[n]demasiado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 12 0 1][f 3 1 1 0 0 31]A雨n tienen la intención de entrar ah胤... Por[n]favor, aseg雨rense de que no presionarse[n]demasiado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 7]斡No nos malinterpretes! Esto ser茨 pan comido.[n][f 1 3 65535][f 1 1][e]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 2 1 1][f 3 1 1 0 0 33][f 6 1 2 0 0 10]Si saltamos en esa pantalla, entraremos en[n]la pel胤cula... 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 34]Este es un proceso muy diferente de c吋mo[n]entramos en Palacios.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 34]Este es un proceso muy diferente de cómo[n]entramos en Palacios.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 16 1 0][f 3 1 1 0 0 35][f 6 1 2 0 0 1]斡Muy bien! 斡Vamos![n][f 1 3 65535][f 1 1][e]
@@ -132,7 +132,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Lo siento, [f 6 1 30 0 0], tienes que tomar[n]el salto de fe como nuestro l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 70 2 0 1][f 3 1 1 0 0 48]Entonces est茨 decidido. Vamos, [f 6 1 30 0 0][n]![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 70 2 0 1][f 3 1 1 0 0 48]Then it's decided. Take it away,[n][f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 0 0 1][f 3 1 1 0 0 49]Todos... Tengan cuidado...[n][f 1 3 65535][f 1 1][e]

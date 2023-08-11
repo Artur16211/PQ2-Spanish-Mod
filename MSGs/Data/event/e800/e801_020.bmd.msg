@@ -8,8 +8,8 @@
 
 [msg MSG_002 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 1 0 0 26633][f 3 1 6 0 0 500][f 6 1 2 0 0 6]夷Hm? 斡Espera un segundo, Joker![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy captando m茨s se�ales FOE de lo[n]habitual.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No s吋lo eso, pero los Basalt parecen estar[n]colgando cerca de ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy captando m茨s señales FOE de lo[n]habitual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No sólo eso, pero los Basalt parecen estar[n]colgando cerca de ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 10 1 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Could that be one of the changes that[n]happens during a special screening...?[n][f 1 3 65535][f 1 1][e]
@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 0][f 3 1 1 0 0 0]Parece. Y creo que los caminos normales[n]podr胤an ser bloqueados tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 1 0 3][f 4 6 28 6 1 1][f 3 1 1 0 0 28076]Ya veo... Es como una versi吋n corta del[n]laberinto que nos permite alcanzar nuestro[n]objetivo r茨pidamente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 1 0 3][f 4 6 28 6 1 1][f 3 1 1 0 0 28076]Ya veo... Es como una versión corta del[n]laberinto que nos permite alcanzar nuestro[n]objetivo r茨pidamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Dijiste que los Basalts est茨n reunidos cerca[n]de las FOEs, 夷no es as胤?[n][f 1 3 65535][f 1 1][e]

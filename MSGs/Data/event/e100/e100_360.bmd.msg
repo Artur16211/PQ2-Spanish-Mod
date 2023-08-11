@@ -1,5 +1,5 @@
 [msg MSG_000 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 1][f 3 1 1 0 0 1]HAHAHAHAHA! 夷D吋nde fue tu anterior vigor?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 1][f 3 1 1 0 0 1]HAHAHAHAHA! 夷Dónde fue tu anterior vigor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 1 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]No quiero creerlo, pero 夷realmente no podemos[n]desafiarlo?[n][f 1 3 65535][f 1 1][e]
@@ -15,11 +15,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6]"Mientras todav胤a tengamos eso, Kamoshidaman[n]es invencible."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 2 0][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡Tienes raz吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 2 0][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡Tienes razón![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8][f 6 1 2 0 0 5]夷Eso significa que hay algo que hace que[n]Kamoshidaman sea intocable?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Makoto]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9][f 6 1 3 0 0 3]夷Notaste c吋mo brillan los ojos de la estatua[n]cuando todos se vuelven inm吋viles?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9][f 6 1 3 0 0 3]夷Notaste cómo brillan los ojos de la estatua[n]cuando todos se vuelven inmóviles?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Haru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 3 0 0 1]Entonces, es posible que necesiten apuntar...[n][f 1 3 65535][f 1 1][e]
@@ -32,14 +32,14 @@
 
 [msg MSG_010 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 4 0 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 13]斡No creo que est姻s en absoluto![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 2 0 0 6]斡Ni siquiera escuchas a nadie m茨s, s吋lo juzgas[n]a la gente por tus propios est茨ndares![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 2 0 0 6]斡Ni siquiera escuchas a nadie m茨s, sólo juzgas[n]a la gente por tus propios est茨ndares![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 15]斡Ja! 斡As胤 que es verdad cuando dicen que los[n]perdedores tienen las bocas m茨s grandes![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6]斡Perecer茨n los malhechores amenazando a la[n]sociedad: esta es la ley de la ciudad de[n]Kamo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 2 3 3][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡Chicos! 斡La estatua de Kamoshidaman es la[n]raz吋n por la que no puedes moverte![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 2 3 3][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡Chicos! 斡La estatua de Kamoshidaman es la[n]razón por la que no puedes moverte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 32 8 2 1][f 3 1 1 0 0 18][f 6 1 2 0 0 10]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -66,7 +66,7 @@
 [f 0 5 65278][f 2 1]斡Dale todo lo que tienes![f 2 7 1 20 2 32][e]
 
 [msg MSG_020 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 4][f 3 1 1 0 0 25]Es una decisi吋n sabia. Retir姻monos para que[n]podamos ganar ventaja.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 4][f 3 1 1 0 0 25]Es una decisión sabia. Retir姻monos para que[n]podamos ganar ventaja.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 26][f 6 1 2 0 0 0]夷Y qu姻 ser胤a eso?[n][f 1 3 65535][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 4][f 3 1 1 0 0 30]Creo que deber胤amos retirarnos para que[n]podamos ganar ventaja.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 1 0][f 3 1 1 0 0 31][f 6 1 2 0 0 3]斡Tch! 斡No tenemos otra opci吋n! Pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 1 0][f 3 1 1 0 0 31][f 6 1 2 0 0 3]斡Tch! 斡No tenemos otra opción! Pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 1 3 1][f 4 6 27 6 2 4][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡Todos, vamos! 斡Estaremos bien![n][f 1 3 65535][f 1 1][e]
@@ -108,7 +108,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 1 4][f 3 1 1 0 0 38]斡Correcto! 斡La ruta de escape est茨 por aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 39]夷Una ruta de escape? 斡Vaya! 斡Eso suena como[n]un verdadero negocio de ladr吋n de[n]fantasmas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 39]夷Una ruta de escape? 斡Vaya! 斡Eso suena como[n]un verdadero negocio de ladrón de[n]fantasmas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 40]No es como eso, somos los ladrones del[n]Fantasma.[n][f 1 3 65535][f 1 1][e]

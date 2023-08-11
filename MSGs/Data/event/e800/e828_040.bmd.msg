@@ -30,5 +30,5 @@
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 23 2 0 6][f 3 1 1 0 0 23071][f 6 1 2 0 0 6]斡Ese es el esp胤ritu, Joker! 斡No vamos a dejar[n]atr茨s ese tesoro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Entendido. Cumpliremos las 吋rdenes del l胤der.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Entendido. Cumpliremos las órdenes del l胤der.[n][f 1 3 65535][f 1 1][e]
 

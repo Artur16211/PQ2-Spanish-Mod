@@ -16,7 +16,7 @@
 
 [msg MSG_005 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]De acuerdo, en alg雨n lugar de ese tonto fango[n]夷He o胤do hablar de una casa a trav姻s[n]de una puerta? 夷En un camino bloqueado?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Como uno de esos extremos muertos que s吋lo[n]aparecen en ex茨menes especiales?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Como uno de esos extremos muertos que sólo[n]aparecen en ex茨menes especiales?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 3][f 3 1 1 0 0 3121][f 6 1 2 0 0 6]斡Muy bien, sigamos! 斡No hay tiempo para parar[n]y oler las rosas![n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 
 [msg MSG_015 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 61079]No, estoy bien, mientras est姻s aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero no quiero poner a todos en peligro s吋lo[n]por m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero no quiero poner a todos en peligro sólo[n]por m胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Hikari, pene, muelle, no te preocupes por[n]este petal-talk! En serio... te protegeremos;[n]las flores son plantas de miedo.[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 
 [msg MSG_017 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3071]As胤 es. Te hicimos una promesa, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡El cliente siempre tiene raz吋n! 斡Esa es la[n]mentalidad que aprend胤 en Junes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡El cliente siempre tiene razón! 斡Esa es la[n]mentalidad que aprend胤 en Junes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 0]Iori-kun, Hanamura-kun...[n][f 1 3 65535][f 1 1][e]
@@ -71,10 +71,10 @@
 [f 0 5 65278][f 2 1]斡Todo para uno y uno para todos![f 2 7 1 20 2 32][e]
 
 [msg MSG_021 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 5 3 0][f 3 1 1 0 0 21068]斡S胤! No podemos rechazar una petici吋n de un[n]amigo, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 5 3 0][f 3 1 1 0 0 21068]斡S胤! No podemos rechazar una petición de un[n]amigo, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 5 3 0][f 3 1 1 0 0 21068]斡Claro que s胤! No podemos rechazar una petici吋n[n]de un amigo, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 5 3 0][f 3 1 1 0 0 21068]斡Claro que s胤! No podemos rechazar una petición[n]de un amigo, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 21 1 0 0][f 4 6 81 0 0 0][f 3 1 1 0 0 0]Amigos...[n][f 1 3 65535][f 1 1][e]
@@ -85,13 +85,13 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Sigue mi pista, Pollen-hair y Grump-face![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 4 3 0][f 3 1 1 0 0 0]夷Qui姻n te puso a cargo, Se�or Inapropiado[n]para Flujos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 4 3 0][f 3 1 1 0 0 0]夷Qui姻n te puso a cargo, Señor Inapropiado[n]para Flujos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 3030]斡S胤, los ofendiste casi tanto como nos[n]ofendes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 21 1 0 0][f 4 6 11 4 0 0][f 3 1 1 0 0 0]Quiero decir, estaban siendo delicadas peque�as[n]flores... literalmente![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 1 0 0][f 4 6 11 4 0 0][f 3 1 1 0 0 0]Quiero decir, estaban siendo delicadas pequeñas[n]flores... literalmente![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Vamos! 斡Vamos, tienes que seguir,[n]Hikari-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Hikari]]

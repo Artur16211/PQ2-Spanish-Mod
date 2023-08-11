@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 3 1 1 0 0 0]Unos minutos m茨s tarde...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 0]*sigh* Fue algo dif胤cil, pero esto deber胤a[n]ser 雨til para su rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 0]*sigh* Fue algo dif胤cil, pero esto deber胤a[n]ser 雨til para su rehabilitación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora puede utilizar [f 0 1 2]3-Layer Fusion[f 0 1 0][n]! Esto requerir茨 que tres Personas[n]inicien.[n][f 1 3 65535][f 1 1][e]

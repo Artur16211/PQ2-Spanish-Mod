@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4117]O-kay... 夷Eso es todo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4378]斡Compa�eros de b雨squeda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4378]斡Compañeros de b雨squeda![n][f 1 6 65535][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4379]斡Es todo nuestro![n][f 1 6 65535][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4072]夷Seguro? Bueno, bueno, supongo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4067]斡S胤! S胤, buena idea. S吋lido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4067]斡S胤! S胤, buena idea. Sólido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4097]Hombre, esa cosa era fuerte... Sheesh. Hablar[n]de un monstruo.[n][f 1 3 65535][f 1 1][e]

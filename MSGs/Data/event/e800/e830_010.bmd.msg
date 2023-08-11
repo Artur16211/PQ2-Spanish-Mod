@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54007]El objetivo de esta proyecci吋n especial...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54007]El objetivo de esta proyección especial...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es limpiar el piso especificado de A.I.G.I.S.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
@@ -7,21 +7,21 @@
 
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54036]Pero hay que recordar que no puedes juzgar[n]un libro por sus portadas. Las cosas no[n]son siempre como parecen.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como tal, el dise�o del suelo se ha convertido[n]en terriblemente complejo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como tal, el diseño del suelo se ha convertido[n]en terriblemente complejo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Su tarea es navegar por los pasajes laber胤nticos[n]y regresar con seguridad.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3]夷Qu姻 pas�?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3]夷Qu姻 pasó?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]夷Qui姻n es responsable de esto?[f 2 7 1 64 0 32][e]
 
 [msg MSG_004 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54084]Bueno... Me temo que no tengo m茨s detalles[n]sobre el asunto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 3][f 3 1 1 0 0 0]Cuando dices que el dise�o se vuelve complejo...[n]夷C吋mo cambi� exactamente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 3][f 3 1 1 0 0 0]Cuando dices que el diseño se vuelve complejo...[n]夷Cómo cambió exactamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Bueno... Si fuera a dar un ejemplo m茨s visual,[n]ahora se parece a la habitaci吋n de[n]Junpei.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Bueno... Si fuera a dar un ejemplo m茨s visual,[n]ahora se parece a la habitación de[n]Junpei.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 6][f 3 1 1 0 0 10095]Eso ya es m茨s de lo que quer胤a saber.[n][f 1 3 65535][f 1 1][e]

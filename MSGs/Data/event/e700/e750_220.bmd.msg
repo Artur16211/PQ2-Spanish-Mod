@@ -1,5 +1,5 @@
 [msg MSG_000 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28001]Joker, mira aqu胤. Esta parte del suelo parece[n]tener alguna funci吋n especial...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28001]Joker, mira aqu胤. Esta parte del suelo parece[n]tener alguna función especial...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Crees que... se supone que debemos pisarlo?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_001 top]

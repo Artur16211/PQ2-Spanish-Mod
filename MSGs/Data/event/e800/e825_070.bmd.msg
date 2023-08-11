@@ -1,10 +1,10 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 3][f 3 1 1 0 0 54115]Quiz茨s este fue demasiado f茨cil para ti. Has[n]hecho un excelente tiempo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El prop吋sito de esta proyecci吋n era ver lo[n]fuerte que se han convertido todos. Una[n]pel胤cula muy agradable.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 4 6 74 0 2 0]Aqu胤 est茨 tu recompensa. Espero con inter姻s[n]la pr吋xima presentaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El propósito de esta proyección era ver lo[n]fuerte que se han convertido todos. Una[n]pel胤cula muy agradable.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 4 6 74 0 2 0]Aqu胤 est茨 tu recompensa. Espero con inter姻s[n]la próxima presentación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 1][f 3 1 1 0 0 15023]Tambi姻n pude reunir algunos datos. Gracias[n]a todos por su cooperaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 1][f 3 1 1 0 0 15023]Tambi姻n pude reunir algunos datos. Gracias[n]a todos por su cooperación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 3][f 3 1 1 0 0 0]Haha, por supuesto. Todos estamos aqu胤 para[n]ayudar.[n][f 1 3 65535][f 1 1][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 8 1 0 0][f 3 1 1 0 0 0]...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26029]Hehehehe, no sudas las peque�as cosas! Las[n]chicas robot son super moe! 斡Totalmente[n]legal![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26029]Hehehehe, no sudas las pequeñas cosas! Las[n]chicas robot son super moe! 斡Totalmente[n]legal![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Moe...?[n][f 1 3 65535][f 1 1][e]

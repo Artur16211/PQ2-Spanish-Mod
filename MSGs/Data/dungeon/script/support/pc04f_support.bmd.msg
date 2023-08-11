@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59300]Es el...[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_FOLLOW_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59301]El FBI te encontr�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59301]El FBI te encontró.[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_FOLLOW_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59302]Ahora te persigue.[n][f 1 6 65535][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59306]Parece que pueden relajarse, Caroline.[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59307]El FOE dej� de perseguirte.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59307]El FOE dejó de perseguirte.[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59308]Parece que el FOE ha dejado de perseguirlos,[n]Caroline.[n][f 1 6 65535][e]
@@ -101,16 +101,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59387]Caroline... 夷Crees que estar茨n bien?[n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_DEAD_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59388]S吋lo conc姻ntrate en la curaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59388]Sólo conc姻ntrate en la curación.[n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_DEAD_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59389]Recuerde que el regreso es tambi姻n una[n]opci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59389]Recuerde que el regreso es tambi姻n una[n]opción.[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_WARNING_NEAR]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59309]El FOE todav胤a te persigue. Mantente alerta,[n]Caroline.[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59310]Contin雨e con precauci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59310]Contin雨e con precaución.[n][f 1 6 65535][e]
 
 [msg JUSTINE_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59311]El FOE contin雨a acos茨ndote.[n][f 1 6 65535][e]
@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59315]Veo que todos han agotado sus reservas de[n]energ胤a.[n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59316]Deber胤amos abortar la operaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59316]Deber胤amos abortar la operación.[n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59317]Es obvio que todos est茨n fatigados.[n][f 1 6 65535][e]
@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59318]Eso es inusualmente compasivo de ti para[n]notar, Caroline... Y estoy de acuerdo.[n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59319]Estoy viendo que la salud del partido est茨[n]en constante disminuci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59319]Estoy viendo que la salud del partido est茨[n]en constante disminución.[n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59320]Puede ser mejor para pausar y curar.[n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59320]Alguien cura al prisionero.[n][f 1 6 65535][e]
 
 [msg JUSTINE_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59324]Todas las se�ales apuntan al agotamiento...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59324]Todas las señales apuntan al agotamiento...[n][f 1 6 65535][e]
 
 [msg JUSTINE_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59325]Ay, se est茨n quedando sin energ胤a.[n][f 1 6 65535][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59392]Tienes demasiadas cosas. Recomiendo[n]organizarlos.[n][f 1 6 65535][e]
 
 [msg JUSTINE_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59330]Tienes raz吋n, Caroline. Ahora podemos estar[n]tranquilos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59330]Tienes razón, Caroline. Ahora podemos estar[n]tranquilos.[n][f 1 6 65535][e]
 
 [msg JUSTINE_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59331]Fue una pelea estupenda.[n][f 1 6 65535][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59392]Tienes demasiadas cosas. Recomiendo[n]organizarlos.[n][f 1 6 65535][e]
 
 [msg JUSTINE_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59369]夷Est茨s empezando tu exploraci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59369]夷Est茨s empezando tu exploración?[n][f 1 6 65535][e]
 
 [msg JUSTINE_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59370]Entonces proporcionaremos refuerzos.[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59374]Bueno, vamos a empezar esto.[n][f 1 6 65535][e]
 
 [msg JUSTINE_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59361]Esto es s吋lo el comienzo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59361]Esto es sólo el comienzo.[n][f 1 6 65535][e]
 
 [msg JUSTINE_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59362]Parece que has progresado mucho en el mapa.[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59364]Dir胤a que finalmente has llegado al punto[n]medio.[n][f 1 6 65535][e]
 
 [msg JUSTINE_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59365]S吋lo necesitamos explorar un poco m茨s para[n]completar este piso.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59365]Sólo necesitamos explorar un poco m茨s para[n]completar este piso.[n][f 1 6 65535][e]
 
 [msg JUSTINE_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59366]Un poco m茨s hasta que terminemos este piso.[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59352]No est茨 mal para un prisionero.[n][f 1 6 65535][e]
 
 [msg JUSTINE_MAPPING_ICON_KAI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59353]Seguramente este excelente desempe�o es el[n]resultado de nuestros esfuerzos de[n]rehabilitaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59353]Seguramente este excelente desempeño es el[n]resultado de nuestros esfuerzos de[n]rehabilitación.[n][f 1 6 65535][e]
 
 [msg JUSTINE_MAPPING_ICON_KAI_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59354]Vas a marcar la escalera, 夷verdad?[n][f 1 6 65535][e]

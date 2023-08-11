@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 0]Ese era uno cercano. 夷Est茨s herido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Dinosaurio Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No, todo bien, compa�ero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No, todo bien, compañero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 6][f 3 1 1 0 0 4056][f 6 1 2 0 0 4]夷Acaba de llamar a [f 6 1 13 0 0]-kun partner?[n]夷Podr胤a ser yosuke?[n][f 1 3 65535][f 1 1][e]
@@ -16,13 +16,13 @@
 
 [msg MSG_005 [Dinosaurio Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 34 5 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 me est茨n mirando? 夷Hay algo en mi[n]cara?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 0]斡Nunca hab胤a visto a alguien como t雨 antes![n]夷Eres nuevo tipo de dinosaurio peque�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 0]斡Nunca hab胤a visto a alguien como t雨 antes![n]夷Eres nuevo tipo de dinosaurio pequeño?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 25 12 0 0][f 3 1 1 0 0 25011]Um... Somos humanos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Dinosaurio Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 34 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Espera, humano... 斡Espera! 夷Agente? 夷Como[n]los que nos hicieron, luego arriba y[n]desapareci�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Espera, humano... 斡Espera! 夷Agente? 夷Como[n]los que nos hicieron, luego arriba y[n]desapareció?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 6 0 0][f 3 1 1 0 0 0]Es muy probable que sea el escenario de esta[n]pel胤cula... pero supongo que no lo[n]entender胤as.[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 
 [msg MSG_018 [Dinosaurio Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 34 6 0 0][f 3 1 1 0 0 0]No realmente... Quiero decir, es mi culpa[n]por caer detr茨s... Si todo el mundo puede[n]sobrevivir, no hay nada m茨s que pueda[n]hacer.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 34 12 0 0][f 3 1 1 0 0 0]Pero ya que han vuelto, me sentir胤a m茨s c吋moda[n]con ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 12 0 0][f 3 1 1 0 0 0]Pero ya que han vuelto, me sentir胤a m茨s cómoda[n]con ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Ya veo...[n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 5]斡D姻jame, d姻jame! Creo que "Junesaurus" suena[n]muy majestuoso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Cuando pienso en Yosuke-kun, "el Pr胤ncipe de[n]la Decepci吋n" viene a la mente, as胤[n]que... 夷Decepcionesaurus?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Cuando pienso en Yosuke-kun, "el Pr胤ncipe de[n]la Decepción" viene a la mente, as胤[n]que... 夷Decepcionesaurus?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_026 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Entonces, es decepcionante, eh...[f 2 7 1 20 8 32][e]
@@ -87,10 +87,10 @@
 [f 0 5 65278][f 2 1]夷Qu姻 hay de Partnersaurus?[f 2 7 1 20 0 32][e]
 
 [msg MSG_027 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 6][f 3 1 1 0 0 4033]Eheh... Yosuke es una decepci吋n, pero se[n]equilibra porque tambi姻n es un pr胤ncipe,[n]夷ves?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 6][f 3 1 1 0 0 4033]Eheh... Yosuke es una decepción, pero se[n]equilibra porque tambi姻n es un pr胤ncipe,[n]夷ves?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 4 1 0 6][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 1017]畏l puede ser mi compa�ero, pero eso no se[n]aplica a todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 1 0 6][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 1017]畏l puede ser mi compañero, pero eso no se[n]aplica a todos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷por qu姻 no lo simplificamos y lo[n]llamamos "Yosukesaurus"?[n][f 1 3 65535][f 1 1][e]
@@ -102,23 +102,23 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 12 0 0][f 3 1 1 0 0 28078][f 6 1 2 0 0 4]En realidad, no creo que sea parte de una[n]nueva especie, 夷no deber胤a ser considerado[n]como un caso especial en esta pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 1 6][f 3 1 1 0 0 0]夷Te refieres a lo que pas� con Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 1 6][f 3 1 1 0 0 0]夷Te refieres a lo que pasó con Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷De qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 7 1 0 0][f 4 6 25 6 0 0][f 3 1 1 0 0 0]Este fen吋meno ocurri� tambi姻n en la pel胤cula[n]anterior...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Por alguna raz吋n, un personaje en 姻l hab胤a[n]sido reemplazado por una persona que[n]parec胤a alguien que conocemos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 7 1 0 0][f 4 6 25 6 0 0][f 3 1 1 0 0 0]Este fenómeno ocurrió tambi姻n en la pel胤cula[n]anterior...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Por alguna razón, un personaje en 姻l hab胤a[n]sido reemplazado por una persona que[n]parec胤a alguien que conocemos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 1][f 3 1 1 0 0 8014]Entonces, el dinosaurio con la cara de[n]Yosuke-senpai no parec胤a originalmente as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Lo m茨s probable, cambi� porque todos ustedes[n]entraron en la pel胤cula.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Lo m茨s probable, cambió porque todos ustedes[n]entraron en la pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 0 0 1][f 3 1 1 0 0 34007][f 6 1 2 0 0 6]斡Heeeey! 斡Le pregunt姻 a todos los dem茨s y[n]tengo una cuenta de primera mano de alguien[n]que encaja en su descripci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 0 0 1][f 3 1 1 0 0 34007][f 6 1 2 0 0 6]斡Heeeey! 斡Le pregunt姻 a todos los dem茨s y[n]tengo una cuenta de primera mano de alguien[n]que encaja en su descripción![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷En serio?[n][f 1 3 65535][f 1 1][e]
@@ -141,10 +141,10 @@
 [f 0 5 65278][f 2 1]夷No te gusta?[f 2 7 1 20 0 32][e]
 
 [msg MSG_044 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 34009]斡Eh! 斡Los humanos son interesantes! Nadie me[n]llam� por un nombre antes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 34009]斡Eh! 斡Los humanos son interesantes! Nadie me[n]llamó por un nombre antes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 34017]斡No, se siente genial! Nadie me llam� por un[n]nombre antes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 34017]斡No, se siente genial! Nadie me llamó por un[n]nombre antes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, todav胤a tenemos que encontrar su[n]nombre...[n][f 1 3 65535][f 1 1][e]
@@ -157,7 +157,7 @@
 
 [msg MSG_049 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 34 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Aparentemente, hay un lugar lejos de aqu胤[n]sin carn胤voros que se supone que es un[n]para胤so para nosotros![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Parece que el humano que est茨s buscando fue[n]en la misma direcci吋n que nos dirigimos,[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Parece que el humano que est茨s buscando fue[n]en la misma dirección que nos dirigimos,[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 6][f 3 1 1 0 0 0]Un lugar de paz y descanso, sin carn胤voros...[n]Eso fue mencionado en el trailer de la[n]pel胤cula.[n][f 1 3 65535][f 1 1][e]
@@ -169,10 +169,10 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 1 2 0 0][f 1 5][f 6 1 14 0 0 0]��[n][f 3 1 1 0 0 1068]Muy bien, si ese es el caso, iremos contigo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]夷En serio? 斡Me alegro de tenerte, compa�ero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]夷En serio? 斡Me alegro de tenerte, compañero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Aunque s姻 que es s吋lo una copia de Yosuke,[n]es tan similar al tipo que me est茨[n]asustando![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Aunque s姻 que es sólo una copia de Yosuke,[n]es tan similar al tipo que me est茨[n]asustando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 23123]Supongo que tendr茨s que acostumbrarte. V茨monos[n]de aqu胤.[n][f 1 3 65535][f 1 1][e]

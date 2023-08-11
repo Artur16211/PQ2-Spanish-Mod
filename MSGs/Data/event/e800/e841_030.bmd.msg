@@ -19,13 +19,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 4 6 85 4 0 1]Estas palabras necesitan un aura de soledad,[n]como si estuvieran soportando un pecado[n]demasiado vergonzoso para que el mundo[n]viera...![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]S吋lo.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]Sólo.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Solitariamente.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Single.[f 2 7 1 20 0 32][e]
 
 [msg MSG_007 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 65013]No est茨 mal, supongo... S吋lo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Oh! Lonely! 斡斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 65013]No est茨 mal, supongo... Sólo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]斡Oh! 斡Solamente! 斡斡斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 65051]*Jadeo* 斡Eso es! 斡Eso es genial![n][f 1 3 65535][f 1 1][e]
@@ -33,14 +33,14 @@
 
 [msg MSG_009 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 65013]Esa es una idea, pero necesito algo m茨s[n]triste... 斡Oh![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Lonely! 斡斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Lonely! 斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 100 3][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Maldici吋n, escribe r茨pido. Por supuesto,[n]nuestro equipo tiene a alguien as胤,[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 100 3][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Maldición, escribe r茨pido. Por supuesto,[n]nuestro equipo tiene a alguien as胤,[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]Who are you talking about? Anyway,[n]this is pretty normal for Marie.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷C吋mo te va, Marie? 夷Tienes suficiente para[n]continuar, ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cómo te va, Marie? 夷Tienes suficiente para[n]continuar, ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 4 0 1][f 3 1 1 0 0 65084][f 6 1 2 0 0 6]S胤, porque el m茨s solitario de los 茨ngeles[n]est茨 corrompido por los siete pecados[n]mortales y condenado a quemar en los infiernos[n]del amor![n][f 1 3 65535][f 1 1][e]

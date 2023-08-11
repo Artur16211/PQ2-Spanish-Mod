@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]Siento que la cabeza me da vueltas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Morgana]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 3 0 0 1]Oye, 夷seguro que te sientes bien? 夷Tuviste[n]alg雨n tipo de sue�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 3 0 0 1]Oye, 夷seguro que te sientes bien? 夷Tuviste[n]alg雨n tipo de sueño?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 3 1 1 0 0 0][f 6 1 3 0 0 3]Preparatoria Shujin, Clase 2-D...[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 
 [sel SEL_010 top]
 [f 0 5 65278][f 2 1]Bien, bien.[f 2 7 1 64 2 32][e]
-[f 0 5 65278][f 2 1]Todav胤a tengo sue�o...[f 2 7 1 64 4 32][e]
+[f 0 5 65278][f 2 1]Todav胤a tengo sueño...[f 2 7 1 64 4 32][e]
 
 [msg MSG_011 [Morgana]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8][f 6 1 3 0 0 1]El d胤a va a pasar volando si seguimos haciendo[n]el tonto aqu胤. 斡Debes aprovechar mejor[n]tu tiempo![n][f 1 3 65535][f 1 1][e]

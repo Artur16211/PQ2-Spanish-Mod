@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8075]Veo... un plan para cegarlo con una comida[n]adecuada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Los carn胤voros comen carne, as胤 que... 夷D吋nde[n]podr胤amos conseguir algo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Los carn胤voros comen carne, as胤 que... 夷Dónde[n]podr胤amos conseguir algo?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Vamos a cosechar carne de Sombra.[f 2 7 1 20 0 32][e]
@@ -55,10 +55,10 @@
 [f 0 5 65278][f 2 1]Vamos a cazar un herb胤voro.[f 2 7 1 20 2 32][e]
 
 [msg MSG_017 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 1][f 3 1 1 0 0 3054]Eso parece un desastre, hombre. 夷C吋mo sabes[n]qu姻 partes son comestibles?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 1][f 3 1 1 0 0 3054]Eso parece un desastre, hombre. 夷Cómo sabes[n]qu姻 partes son comestibles?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 4][f 3 1 1 0 0 0]Aunque, debo decir, tengo un poco de curiosidad[n]sobre c吋mo es.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 4][f 3 1 1 0 0 0]Aunque, debo decir, tengo un poco de curiosidad[n]sobre cómo es.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 0]S姻 exactamente lo que quieres decir.[n][f 1 3 65535][f 1 1][e]
@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 1][f 3 1 1 0 0 0]... 斡Te refieres a ese contenedor congelador[n]que vimos antes! S胤, podr胤amos hacer[n]algo 雨til all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27068]Nuestra empresa congela un mont吋n de carnes[n]y resultan muy bien, as胤 que imagino que[n]esos contenedores funcionan de la misma[n]manera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27068]Nuestra empresa congela un montón de carnes[n]y resultan muy bien, as胤 que imagino que[n]esos contenedores funcionan de la misma[n]manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]斡Es una gran idea! 夷No era ese contenedor[n]muy cercano a aqu胤?[n][f 1 3 65535][f 1 1][e]

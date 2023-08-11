@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 4][f 3 1 1 0 0 0]Como dijo Zabby, tambi姻n hay m茨s puntos warp[n]por aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 2 1 1][f 3 1 1 0 0 0]Mencion� que los Treasure Spots estaban m茨s[n]all茨 de los nuevos warps... si recuerdo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 2 1 1][f 3 1 1 0 0 0]Mencionó que los Treasure Spots estaban m茨s[n]all茨 de los nuevos warps... si recuerdo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 0]Entonces supongo que tendremos que encontrar[n]nuevas formas alrededor de los puntos[n]warp y las puertas posteriores.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]

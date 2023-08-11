@@ -5,13 +5,13 @@
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 6 1 2 0 0 4]夷Hay algo m茨s?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
-[f 0 5 65278][f 2 1]Justo aqu胤 para hacer una peque�a charla.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]Justo aqu胤 para hacer una pequeña charla.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]H茨blame de Sub-Personas.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]No, me ir姻.[f 2 7 1 64 6 32][e]
 
 [msg MSG_004 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 58042]斡Hmph! Como si tuvieras tiempo para hablar,[n]Recluso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 6 1 2 0 0 6]Si crees que puedes relajarte s吋lo porque no[n]est茨s en tu celda, 斡est茨s equivocado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 6 1 2 0 0 6]Si crees que puedes relajarte sólo porque no[n]est茨s en tu celda, 斡est茨s equivocado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0]Es nuestro deber rehabilitarte.[n][f 1 3 65535][f 1 1][e]
@@ -54,6 +54,6 @@
 [f 0 5 65278][f 2 1][f 4 6 78 1 0 1][f 4 6 79 0 0 0][f 3 1 1 0 0 59047]夷Vas a regresar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 0 1 0]斡Tu misi吋n actual es escapar de este mundo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1]Esto es parte de su rehabilitaci吋n. 斡No lo[n]olvides, Recluso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 0 1 0]斡Tu misión actual es escapar de este mundo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1]Esto es parte de su rehabilitación. 斡No lo[n]olvides, Recluso![n][f 1 3 65535][f 1 1][e]
 

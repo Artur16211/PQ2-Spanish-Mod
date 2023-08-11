@@ -1,8 +1,8 @@
 [msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 23039]夷Un callej吋n sin salida? Me estoy cansando[n]de ver a Kamoshidaman por todas partes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 23039]夷Un callejón sin salida? Me estoy cansando[n]de ver a Kamoshidaman por todas partes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 3]No bromees, es que estoy fuera... 夷Ves esas[n]se�ales en el camino?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 3]No bromees, es que estoy fuera... 夷Ves esas[n]señales en el camino?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todos lo estaban haciendo. Espeluznante...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Lo s姻. 夷Por qu姻 no los hacemos desaparecer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 0]夷C吋mo hacemos eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 0]夷Cómo hacemos eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 4 1 0][f 3 1 1 0 0 22030]斡Quemamos a todos![n][f 1 3 65535][f 1 1][e]
@@ -37,13 +37,13 @@
 [f 0 5 65278][f 2 1]D姻jame ayudar.[f 2 7 1 20 0 1][e]
 
 [msg MSG_010 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 12 0 1][f 3 1 1 0 0 28068]Joker tiene raz吋n. No queremos llamar la[n]atenci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 12 0 1][f 3 1 1 0 0 28068]Joker tiene razón. No queremos llamar la[n]atención.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 6 0 1][f 3 1 1 0 0 28092]夷T雨 tambi姻n, Joker...? Tranquilo. No queremos[n]llamar la atenci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 6 0 1][f 3 1 1 0 0 28092]夷T雨 tambi姻n, Joker...? Tranquilo. No queremos[n]llamar la atención.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 0]S姻 que pas� mucho entre Kamoshida y t雨...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 0]S姻 que pasó mucho entre Kamoshida y t雨...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y estoy seguro de que no es f茨cil olvidar lo[n]que hizo tampoco, pero el que aqu胤 no[n]es real.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]

@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 7]斡S胤! 斡Eso es un final feliz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 6][f 3 1 1 0 0 2]Siento que estoy destrozando... 夷C吋mo te fue,[n]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 6][f 3 1 1 0 0 2]Siento que estoy destrozando... 夷Cómo te fue,[n]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 1][f 3 1 1 0 0 3]Estuvo bien. Creo que fue un final[n]maravilloso.[n][f 1 3 65535][f 1 1][e]
@@ -11,18 +11,18 @@
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 0][f 3 1 1 0 0 4][f 6 1 2 0 0 7]夷Verdad, verdad? 斡Una historia tiene que[n]terminar feliz, as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 5]Si expones qui姻n eres realmente, podr胤as[n]hacerte da�o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 5]Si expones qui姻n eres realmente, podr胤as[n]hacerte daño...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6]As胤 que, si te escondes y solo copias a los[n]dem茨s a tu alrededor, no te lastimar茨s,[n]y la vida ser茨 m茨s f茨cil.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Pero, eventualmente tu verdadero yo se[n]desvanecer茨... y perder茨s de vista lo que te[n]mantiene vivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 0 0][f 3 1 1 0 0 8]Yo tambi姻n puedo entender eso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 9]Siempre me faltaba confianza en m胤 mismo y[n]me preocupaba que la gente me viera...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 10]Pero despu姻s de conocer a mis compa�eros[n]actuales, siendo aceptados por ellos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 10]Pero despu姻s de conocer a mis compañeros[n]actuales, siendo aceptados por ellos...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Incluso siendo necesario por ellos, eventualmente[n]llegu姻 a gustarme qui姻n soy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 18 2 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]Ya veo... 夷Crees que... 夷Podr胤a hacer compa�eros[n]as胤 tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 18 2 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]Ya veo... 夷Crees que... 夷Podr胤a hacer compañeros[n]as胤 tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 4 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 0]斡Dios! 夷Por qu姻 no nos dices lo que realmente[n]piensas de nosotros, entonces?[n][f 1 3 65535][f 1 1][e]
@@ -31,14 +31,14 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 15]Estoy seguro de que cada uno de nosotros ya[n]te considera un compa�ero.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 15]Estoy seguro de que cada uno de nosotros ya[n]te considera un compañero.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 16]Pero no puedo luchar ni ayudar como todos[n]los dem茨s... Y, s吋lo nos conocimos, as胤[n]que...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 16]Pero no puedo luchar ni ayudar como todos[n]los dem茨s... Y, sólo nos conocimos, as胤[n]que...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 17]Nada de eso importa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18][f 6 1 2 0 0 4]Todos somos amigos yendo juntos para el mismo[n]objetivo, apoy茨ndonos... 夷No es una[n]raz吋n suficiente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18][f 6 1 2 0 0 4]Todos somos amigos yendo juntos para el mismo[n]objetivo, apoy茨ndonos... 夷No es una[n]razón suficiente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 19]Amigos...[n][f 1 3 65535][f 1 1][e]
@@ -55,13 +55,13 @@
 [f 0 5 65278][f 2 1][f 4 6 82 0 1 0][f 3 1 1 0 0 24][f 6 1 1 0 0 1][f 6 1 2 0 0 6]Ngh... 斡Nnngh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 6 1 0 3][f 4 6 14 10 0 6][f 3 1 1 0 0 25][f 6 1 2 0 0 0]夷Wh-Whaaat? 夷Sali� de sus ojos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 1 0 3][f 4 6 14 10 0 6][f 3 1 1 0 0 25][f 6 1 2 0 0 0]夷Wh-Whaaat? 夷Salió de sus ojos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 26]Oh, claro, es tu primera vez viendo esto[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 10]Alguien me lo mencion� antes, pero eso fue[n]mucho m茨s inquietante de lo que[n]imaginaba...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 10]Alguien me lo mencionó antes, pero eso fue[n]mucho m茨s inquietante de lo que[n]imaginaba...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28][f 6 1 2 0 0 4]Est茨 bien recoger esa llave... 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Rise]]

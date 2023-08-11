@@ -1,5 +1,5 @@
 [msg MSG_000 [Profesor De Escuela Primaria]]
-[f 0 5 65278][f 2 1][f 4 6 53 0 0 1][f 3 1 1 0 0 1]Comenzaremos ahora la asamblea de clases[n]discutiendo el problema de c吋mo nuestro[n]conejo de mascotas se enferm�.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 53 0 0 1][f 3 1 1 0 0 1]Comenzaremos ahora la asamblea de clases[n]discutiendo el problema de cómo nuestro[n]conejo de mascotas se enfermó.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]Todos los que estaban a cargo de cuidarlo,[n]por favor, qu姻dense aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chica Perdida]]
@@ -7,7 +7,7 @@
 
 [msg MSG_002 [Profesor De Escuela Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 53 0 0 0][f 3 1 1 0 0 4]Ustedes tres fueron responsables de cuidar[n]al conejo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 4]夷Por qu姻 sucedi� algo as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 4]夷Por qu姻 sucedió algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Maldito]]
 [f 0 5 65278][f 2 1][f 4 6 52 0 1 6][f 3 1 1 0 0 6]...[n][f 1 3 65535][f 1 1][e]

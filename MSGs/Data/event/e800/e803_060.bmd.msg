@@ -16,14 +16,14 @@
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 7024][f 6 1 2 0 0 6]斡Gracias![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Por cierto, lim吋n tambi姻n dice... 斡Lo siento![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Por cierto, limón tambi姻n dice... 斡Lo siento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Wh-Wha?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 0][f 3 1 1 0 0 7011]Supongo que no te entend胤, Skull.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pens姻 que eras un mat吋n de la ciudad que no[n]sab胤a escuchar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pens姻 que eras un matón de la ciudad que no[n]sab胤a escuchar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 4][f 3 1 1 0 0 26570]Eso lo resume bastante.[n][f 1 3 65535][f 1 1][e]
@@ -63,12 +63,12 @@
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Claro que s胤! 斡Nadie tiene m茨s esp胤ritu que[n]nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 100 4][f 3 1 1 0 0 26545]Y as胤 naci� una broma apasionada entre dos[n]hombres.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 100 4][f 3 1 1 0 0 26545]Y as胤 nació una broma apasionada entre dos[n]hombres.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Felizmente despu姻s. 斡Ahora, vamos de vuelta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 0][f 3 1 1 0 0 7009]Oye...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eres muy diferente de c吋mo te ves, 夷sabes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eres muy diferente de cómo te ves, 夷sabes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 1 0][f 3 1 1 0 0 0]Haha, mira qui姻n habla.[n][f 1 3 65535][f 1 1][e]
@@ -79,12 +79,12 @@
 [msg MSG_023 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21013]Supongo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Joker puede parecer tranquilo todo el tiempo,[n]pero es s雨per confiable cuando se trata[n]de eso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 0]... Ha ense�ado mucho a un marginado como yo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 0]... Ha enseñado mucho a un marginado como yo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy muy agradecida por los Phantom Thieves.[n]Cada uno de ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 0][f 3 1 1 0 0 7033]Es b茨sicamente lo mismo para m胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 0]Mi equipo acept� todo sobre m胤, incluso mis[n]debilidades.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 0]Mi equipo aceptó todo sobre m胤, incluso mis[n]debilidades.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que, estoy tratando de devolver, o al[n]menos ayudar, 夷sabes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ryuji]]

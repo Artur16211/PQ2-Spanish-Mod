@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Volvamos al Cine e informemos a Elizabeth.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Tambi姻n hiciste un buen trabajo, [f 6 1 27 0 0][n]. 夷Est茨s bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]You did a good job too,[n][f 6 1 27 0 0 0]. Are you doing[n]okay?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19030]Ahaha, yep. Doing just fine![n][f 1 3 65535][f 1 1][e]
@@ -35,7 +35,7 @@
 
 [msg MSG_010 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 8 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19030]You're going to make me blush...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo intento hacer mi parte por el equipo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sólo intento hacer mi parte por el equipo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 4][f 3 1 1 0 0 12003]夷Tienes un segundo? Mitsuru te llama.[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1]夷Qu姻 tal un regalo?[f 2 7 1 20 0 32][e]
 
 [msg MSG_017 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11033][f 6 1 2 0 0 10]Eso fue s吋lo un ejemplo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11033][f 6 1 2 0 0 10]Eso fue sólo un ejemplo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 1][f 3 1 1 0 0 10031][f 6 1 2 0 0 7]斡Eso es![n][f 1 3 65535][f 1 1][e]
@@ -67,14 +67,14 @@
 [f 0 5 65278][f 2 1][f 4 6 14 4 99 4][f 3 1 1 0 0 14593][f 6 1 2 0 0 4]夷Qu姻 pasa, Yukari-chan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 14 1 100 4][f 4 6 10 0 0 0][f 3 1 1 0 0 10032][f 6 1 2 0 0 4]Es bueno mostrar a tus compa�eros de equipo[n]que los aprecias de vez en cuando,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 1 100 4][f 4 6 10 0 0 0][f 3 1 1 0 0 10032][f 6 1 2 0 0 4]Es bueno mostrar a tus compañeros de equipo[n]que los aprecias de vez en cuando,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]Huddle, chicos... Digo que... Entonces[n]nosotros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11048]Vale... Eres todo el concejal, Yuka-tan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 4][f 3 1 1 0 0 0][f 6 1 2 0 0 7]No puedo esperar a ver su reacci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 4][f 3 1 1 0 0 0][f 6 1 2 0 0 7]No puedo esperar a ver su reacción.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 10007]Deber胤amos apresurarnos y darles esto a[n]Theodore.[n][f 1 3 65535][f 1 1][e]

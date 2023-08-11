@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Qu姻 dulce olor... Es irresistible...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 12 0 1][f 3 1 1 0 0 0]Pero esto es, como, s吋lo hierba 'n' mierda[n]... 夷C吋mo diablos lo usaremos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 12 0 1][f 3 1 1 0 0 0]Pero esto es, como, sólo hierba 'n' mierda[n]... 夷Cómo diablos lo usaremos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28015]T胤picamente, la canela se hace mediante el[n]procesamiento de la corteza de canela[n]seca.[n][f 1 3 65535][f 1 1][e]

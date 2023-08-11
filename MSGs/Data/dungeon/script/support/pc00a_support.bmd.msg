@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10307]Creo que nos escapamos de ese FOE...[n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10308]Oh, ese FOE se rindi� sobre nosotros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10308]Oh, ese FOE se rindió sobre nosotros.[n][f 1 6 65535][e]
 
 [msg YUKARI_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10369]斡No queremos que nos vean aqu胤![n][f 1 6 65535][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10370]斡Cuidado![n][f 1 6 65535][e]
 
 [msg YUKARI_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10371]斡Cuidado! 斡Tenemos que permanecer inc吋gnitos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10371]斡Cuidado! 斡Tenemos que permanecer incógnitos![n][f 1 6 65535][e]
 
 [msg YUKARI_DENKISAKU_REACTIO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10372]Primero tenemos que detener el poder.[n][f 1 6 65535][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10373]Probablemente no deber胤amos tocar eso, 夷eh?[n][f 1 6 65535][e]
 
 [msg YUKARI_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10374]S胤... Mira c吋mo est茨 arcing...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10374]S胤... Mira cómo est茨 arcing...[n][f 1 6 65535][e]
 
 [msg YUKARI_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10375]夷Qu姻?[n][f 1 6 65535][e]
@@ -221,7 +221,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10364]斡Listo para irnos![n][f 1 6 65535][e]
 
 [msg YUKARI_QUEST_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10365]Hagamos que esta proyecci吋n especial realmente[n]especial![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10365]Hagamos que esta proyección especial realmente[n]especial![n][f 1 6 65535][e]
 
 [msg YUKARI_TOUHA_25_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10352]Todav胤a tiene un largo camino por recorrer.[n]Pero podemos manejarlo.[n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10344]S胤, las escaleras estaban ah胤.[n][f 1 6 65535][e]
 
 [msg YUKARI_MAPPING_ICON_KAID_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10345]Siempre sabremos d吋nde est茨n las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10345]Siempre sabremos dónde est茨n las escaleras.[n][f 1 6 65535][e]
 
 [msg YUKARI_MAPPING_CHANGE_CO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10346]斡Qu姻 lindo color! Me encanta.[n][f 1 6 65535][e]
@@ -272,7 +272,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10349]S胤, definitivamente no quer胤a eso.[n][f 1 6 65535][e]
 
 [msg YUKARI_MAPPING_MEMO_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10350]Olvid� las notas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10350]Olvidó las notas.[n][f 1 6 65535][e]
 
 [msg YUKARI_MAPPING_MEMO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10351]斡Si tomamos notas, estaremos listos para m茨s[n]tarde![n][f 1 6 65535][e]

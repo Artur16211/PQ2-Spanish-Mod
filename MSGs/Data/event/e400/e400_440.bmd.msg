@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 10 0 0][f 3 1 1 0 0 61034][f 6 1 2 0 0 1]...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡畏l realmente habl�![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡畏l realmente habló![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 61005]Dijo... mi nombre...[n][f 1 3 65535][f 1 1][e]
@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 6][f 3 1 1 0 0 13013]... Casi parec胤a como si nos estuviera[n]atrayendo m茨s adentro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 3][f 3 1 1 0 0 0]Tienes raz吋n. Es posible que nos lleve a una[n]trampa, pero tampoco podemos cambiar la[n]cola.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 3][f 3 1 1 0 0 0]Tienes razón. Es posible que nos lleve a una[n]trampa, pero tampoco podemos cambiar la[n]cola.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 24 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 debemos hacer? 夷Lo perseguimos, Joker?[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 6 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Navi-Gals?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6591][f 3 1 6 0 0 500]Yosuke-senpai a veces habla como un fuddy-duddy...[n]Pero s吋lo a veces.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6591][f 3 1 6 0 0 500]Yosuke-senpai a veces habla como un fuddy-duddy...[n]Pero sólo a veces.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ese intento de cubrir fue a雨n m茨s doloroso[n]que el insulto. 斡Ya basta![n][f 1 3 65535][f 1 1][e]

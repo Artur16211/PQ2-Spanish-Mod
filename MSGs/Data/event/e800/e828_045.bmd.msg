@@ -4,7 +4,7 @@
 
 [sel SEL_001 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Claro.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]He cambiado de opini吋n.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1]He cambiado de opinión.[f 2 7 1 20 6 32][e]
 
 [msg MSG_002 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 4][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
@@ -42,7 +42,7 @@
 
 [sel SEL_013 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Claro.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]He cambiado de opini吋n.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1]He cambiado de opinión.[f 2 7 1 20 6 32][e]
 
 [msg MSG_014 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 1][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1]Me he equivocado.[f 2 7 1 20 6 32][e]
 
 [msg MSG_021 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 1][f 3 1 1 0 0 23009]No estoy de acuerdo, pero es tu decisi吋n,[n]Joker.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 1][f 3 1 1 0 0 23009]No estoy de acuerdo, pero es tu decisión,[n]Joker.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Better safe than sorry, right? Let's go![n][f 1 3 65535][f 1 1][e]

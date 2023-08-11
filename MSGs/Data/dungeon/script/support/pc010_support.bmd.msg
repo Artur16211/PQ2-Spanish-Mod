@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16307]Parece que nos escapamos.[n][f 1 6 65535][e]
 
 [msg AMADA_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16308]斡Suerte! El FOE se rindi�.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16308]斡Suerte! El FOE se rindió.[n][f 1 6 65535][e]
 
 [msg AMADA_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16369]Tenemos que asegurarnos de que no nos vea.[n][f 1 6 65535][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
 
 [msg AMADA_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16360]Yo tambi姻n puedo ser 雨til. 斡S吋lo mira![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16360]Yo tambi姻n puedo ser 雨til. 斡Sólo mira![n][f 1 6 65535][e]
 
 [msg AMADA_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16361]No nos pongamos nerviosos presionando[n]demasiado.[n][f 1 6 65535][e]
@@ -284,7 +284,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16367]斡Por aqu胤![n][f 1 6 65535][e]
 
 [msg AMADA_DOOR_OPEN_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16368]斡Nos vemos en la habitaci吋n siguiente![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16368]斡Nos vemos en la habitación siguiente![n][f 1 6 65535][e]
 
 [msg AMADA_KARITORU_ENCOUNT_1]
 [f 0 5 65278][f 2 1]? ? Todav胤a no hay nada que ver[n][f 1 6 65535][e]

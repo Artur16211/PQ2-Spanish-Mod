@@ -9,8 +9,8 @@
 [f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 25018][f 6 1 2 0 0 4]... 夷Syndicate?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54073]Nada. S吋lo hablaba conmigo mismo. M茨s[n]importante...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Bien hecho superando esos obst茨culos y[n]completando la misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54073]Nada. Sólo hablaba conmigo mismo. M茨s[n]importante...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Bien hecho superando esos obst茨culos y[n]completando la misión.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que el MVP, o deber胤a decir, liderar[n]el papel femenino, no era otro que Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Chie]]
@@ -18,12 +18,12 @@
 
 [msg MSG_005 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22070][f 6 1 2 0 0 7]斡S胤, fuiste realmente incre胤ble al final![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Fue como ver una pel胤cula de acci吋n. No pod胤a[n]mirar lejos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Fue como ver una pel胤cula de acción. No pod胤a[n]mirar lejos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4033]Ahaha... Es un poco embarazoso escuchar todo[n]eso de ti, Ann-chan.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En mi opini吋n, eres m茨s genial que yo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eres preciosa, tu ingl姻s es genial, 斡y eres[n]un ladr吋n fantasma! 斡Est茨s en otra liga![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En mi opinión, eres m茨s genial que yo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eres preciosa, tu ingl姻s es genial, 斡y eres[n]un ladrón fantasma! 斡Est茨s en otra liga![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Eso no es verdad.[f 2 7 1 64 6 32][e]
@@ -54,7 +54,7 @@
 
 [msg MSG_015 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0]Rise-chan es incre胤ble, pero supongo que[n]ahora estoy acostumbrado a ella...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n es m茨s joven que yo. Siento que eso[n]hace que la comparaci吋n sea un poco[n]diferente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n es m茨s joven que yo. Siento que eso[n]hace que la comparación sea un poco[n]diferente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 7 4 0 0][f 4 6 66 0 0 0][f 3 1 1 0 0 22010]Supongo que tengo muchas cosas para m胤...[n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Supongo que cuando te veo haciendo lo tuyo,[n]as胤 es como quiero ser. Yo tambi姻n quiero[n]hacer lo m胤o.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 18 1 0][f 3 1 1 0 0 4013]夷C吋mo quieres ser...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 18 1 0][f 3 1 1 0 0 4013]夷Cómo quieres ser...?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tampoco he pensado mucho en mi futuro,[n]pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0]S姻 que quiero ser m茨s fuerte para proteger[n]a mis amigos.[n][f 1 3 65535][f 1 1][e]
 
@@ -91,8 +91,8 @@
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 4014][f 6 1 2 0 0 4]夷Por eso quer胤as aprender kung fu?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 0 0][f 3 1 1 0 0 22010]No era tanto el kung fu que me interesaba,[n]ya que era la fuerza de tu coraz吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Lo siento... Supongo que ahora parece que te[n]enga�姻.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 0 0][f 3 1 1 0 0 22010]No era tanto el kung fu que me interesaba,[n]ya que era la fuerza de tu corazón.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Lo siento... Supongo que ahora parece que te[n]engañ姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 0][f 3 1 1 0 0 4050][f 6 1 2 0 0 6]斡De ninguna manera! Es bueno saber que estoy[n]luchando junto a alguien que siente lo[n]mismo![n][f 1 3 65535][f 1 1][e]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1064]...Yeah.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 0]Un ladr吋n de fantasmas sexy y un maestro de[n]kung fu sin miedo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 0]Parecer胤a que un nuevo v胤nculo ha comenzado[n]a florecer al concluir esta misi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 0]Un ladrón de fantasmas sexy y un maestro de[n]kung fu sin miedo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 0]Parecer胤a que un nuevo v胤nculo ha comenzado[n]a florecer al concluir esta misión.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54139]Tambi姻n, mis disculpas por el ligero retraso,[n]pero aqu胤 est茨 su recompensa.[n][f 1 3 65535][f 1 1][e]
 

@@ -27,37 +27,37 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 72 1 0 3][f 4 6 8 12 0 6][f 3 1 1 0 0 8022]Finalmente te hemos atrapado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 0]Dada la situaci吋n, s吋lo hay una respuesta.[n]Qu胤tate ese traje...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 0]Dada la situación, sólo hay una respuesta.[n]Qu胤tate ese traje...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi & Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 72 14 1 0][f 4 6 8 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Caroline y Justine![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 79 7 0 4][f 4 6 78 4 0 1][f 3 1 1 0 0 58125][f 6 1 2 0 0 0]Rrrgh...! 夷C吋mo supiste que 姻ramos nosotros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 7 0 4][f 4 6 78 4 0 1][f 3 1 1 0 0 58125][f 6 1 2 0 0 0]Rrrgh...! 夷Cómo supiste que 姻ramos nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Puede que s吋lo hayamos tenido pruebas[n]circunstanciales...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Pero despu姻s del proceso de eliminaci吋n,[n]ustedes dos fueron los 雨nicos sospechosos[n]restantes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Puede que sólo hayamos tenido pruebas[n]circunstanciales...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Pero despu姻s del proceso de eliminación,[n]ustedes dos fueron los 雨nicos sospechosos[n]restantes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 28072]Empecemos con Elizabeth y Theodore...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Los dos estaban con [f 6 1 30 0 0 0] cuando[n]Haru encontr� el traje de oso, as胤 que[n]eso los aclara.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]The two of them were with[n][f 6 1 30 0 0 0] when Haru found[n]the bear suit, so that clears them.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Luego sabemos que Margaret estaba en la sala[n]de proyecci吋n en el momento del[n]incidente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Luego sabemos que Margaret estaba en la sala[n]de proyección en el momento del[n]incidente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Marie-san tambi姻n tuvo un ataque con el traje[n]de oso, as胤 que claramente no era ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 28114]As胤 que ver茨s, eso solo dej� a los dos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 28114]As胤 que ver茨s, eso solo dejó a los dos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]Y si te preguntas c吋mo sab胤amos que eran los[n]dos, el traje de oso nos dio una pista.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ustedes dos son demasiado peque�os para que[n]uno de ustedes lo haya usado solo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 0]Por lo tanto, la raz吋n por la que estabas[n]tropezando era porque uno de vosotros estaba[n]sentado sobre los hombros del otro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]Y si te preguntas cómo sab胤amos que eran los[n]dos, el traje de oso nos dio una pista.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ustedes dos son demasiado pequeños para que[n]uno de ustedes lo haya usado solo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 0]Por lo tanto, la razón por la que estabas[n]tropezando era porque uno de vosotros estaba[n]sentado sobre los hombros del otro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015_2 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 9046]Nunca hubiera imaginado que dos personas[n]podr胤an encajar en mi traje de oso...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No es justo! 斡Mira toda la diversi吋n que[n]estabas teniendo ah胤! 夷Por qu姻 no fui[n]invitado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No es justo! 斡Mira toda la diversión que[n]estabas teniendo ah胤! 夷Por qu姻 no fui[n]invitado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 6 1 0][f 3 1 1 0 0 59092]No creo que podamos hablar de esto, Caroline.[n][f 1 3 65535][f 1 1][e]
@@ -69,11 +69,11 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 lo hiciste?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 59035]Cuando Caroline oy� hablar de las palomitas,[n]dijo que ten胤a que intentarlo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 59035]Cuando Caroline oyó hablar de las palomitas,[n]dijo que ten胤a que intentarlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 10 0 1][f 3 1 1 0 0 58053][f 6 1 2 0 0 0]斡Estabas tan curioso como yo, Justine![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 78 6 0 1][f 3 1 1 0 0 0]B-Besides, Theodore estaba pasando sobre c吋mo[n]hizo su mayor creaci吋n a雨n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 6 0 1][f 3 1 1 0 0 0]B-Besides, Theodore estaba pasando sobre cómo[n]hizo su mayor creación a雨n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 0]Pero luego aprendimos que se hab胤a quedado[n]sin ingredientes para su nueva palomita[n]y que no pod胤a hacer tanto como es.[n][f 1 3 65535][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 8 1 0][f 3 1 1 0 0 58029][f 6 1 2 0 0 10]斡Oye! 斡No intentes ponerme esto encima![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021_4 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 0]Luego, mientras nos recortamos en la[n]desesperaci吋n, encontramos el traje de oso[n]vac胤o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 0]Luego, mientras nos recortamos en la[n]desesperación, encontramos el traje de oso[n]vac胤o.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_022 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 78 1 0 0][f 4 6 64 1 0 0]As胤 que fue el impulso del momento.[f 2 7 1 64 0 32][e]
@@ -100,11 +100,11 @@
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Wh-Wha? 夷Es mi culpa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 58045]Urgh... No quer胤amos volar las cosas tan[n]fuera de proporci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 58045]Urgh... No quer胤amos volar las cosas tan[n]fuera de proporción.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Siento no poder controlar mejor el traje...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 6 0 0][f 3 1 1 0 0 0]S胤, nos disculpamos por la conmoci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 6 0 0][f 3 1 1 0 0 0]S胤, nos disculpamos por la conmoción...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Est茨 bien. 斡S姻 que a veces es dif胤cil ser[n]honesto![n][f 1 3 65535][f 1 1][e]

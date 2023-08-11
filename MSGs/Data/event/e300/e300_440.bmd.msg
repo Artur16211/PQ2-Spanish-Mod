@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1]Quiero verte hacer eso otra vez.[f 2 7 1 20 0 32][e]
 
 [msg MSG_006 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15063]Esa es una funci吋n especial cargada en mi[n]sistema especialmente para el combate[n]ofensivo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15063]Esa es una función especial cargada en mi[n]sistema especialmente para el combate[n]ofensivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Maldita sea, debe sentirse super-badass para[n]burlarse de enemigos as胤![n][f 1 3 65535][f 1 1][e]
@@ -28,10 +28,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0]Mm, it does have its drawbacks, though.[n]Once she uses it, all of her functions are[n]temporarily disabled until she recovers.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 26029][f 6 1 2 0 0 6]斡Escuchen! Ser capaz de cambiar los engranajes[n]y transformarse as胤 es el sue�o de un[n]mech-lover![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 26029][f 6 1 2 0 0 6]斡Escuchen! Ser capaz de cambiar los engranajes[n]y transformarse as胤 es el sueño de un[n]mech-lover![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esa es una funci吋n especial cargada en mi[n]sistema especialmente para el combate[n]ofensivo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esa es una función especial cargada en mi[n]sistema especialmente para el combate[n]ofensivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Maldita sea, debe sentirse super-badass para[n]burlarse de enemigos as胤![n][f 1 3 65535][f 1 1][e]
@@ -43,7 +43,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 19 6 0 4][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19033][f 6 1 2 0 0 9]Ahaha, that might be a bit difficult right[n]now―after using it, her functions are[n]temporarily disabled until she recovers.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esa es una funci吋n especial cargada en mi[n]sistema especialmente para el combate[n]ofensivo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esa es una función especial cargada en mi[n]sistema especialmente para el combate[n]ofensivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 24 4 1 0][f 3 1 1 0 0 24076]Es un ataque arriesgado, una espada de doble[n]filo, si lo deseas.[n][f 1 3 65535][f 1 1][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 15 1 0 1][f 4 6 35 12 0 3][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]夷HAY ALGUNA POSIBILIDAD DE QUE TAMBI畏N TENGA[n]UN MODEO ORGIA?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8013]No estoy seguro... Basado en la apariencia[n]de su modelo, que no parece una funci吋n[n]est茨ndar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8013]No estoy seguro... Basado en la apariencia[n]de su modelo, que no parece una función[n]est茨ndar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35014]VEO... ESO ES ALGO DECEPCIONANTE.[n][f 1 3 65535][f 1 1][e]
@@ -89,13 +89,13 @@
 [f 0 5 65278][f 2 1]Todo su cuerpo comienza a brillar.[f 2 7 1 20 0 32][e]
 
 [msg MSG_028 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 7008]Eso suena bastante t吋pico.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 7008]Eso suena bastante tópico.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Oh no, es mucho m茨s emocionante de lo que es[n]clich c茨mara! Rocket 斡Punches son lo[n]que los chicos sue�an![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Oh no, es mucho m茨s emocionante de lo que es[n]clich c茨mara! Rocket 斡Punches son lo[n]que los chicos sueñan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5021][f 6 1 2 0 0 4]Pero 夷no crees que s吋lo un golpe ser胤a...[n]faltante?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5021][f 6 1 2 0 0 4]Pero 夷no crees que sólo un golpe ser胤a...[n]faltante?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Creo que ser胤a mejor si ella tambi姻n proyectara[n]luces, m雨sica destellada, y empezara[n]a bailar loco, tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ryuji]]
@@ -110,7 +110,7 @@
 
 [msg MSG_034 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 5005]Oh, creo que es genial.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Pero ser胤a incluso mejor si ella tambi姻n[n]estall� m雨sica y comenz� a bailar loco![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Pero ser胤a incluso mejor si ella tambi姻n[n]estalló m雨sica y comenzó a bailar loco![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 3 0 1 0][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]夷Por qu姻 tendr胤a que bailar? 夷Qu姻 intentas[n]hacerla, liderar un desfile?[n][f 1 3 65535][f 1 1][e]
@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 8 0 4][f 3 1 1 0 0 9029][f 6 1 2 0 0 6]斡Si es un desfile, quiero unirme tambi姻n![n]Obviamente, yo ser胤a la belleza oficial,[n]soplando besos y saludando a mis fans![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 4][f 3 1 1 0 0 24076]Hm... Entonces puedes dejarme el dise�o del[n]flotador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 4][f 3 1 1 0 0 24076]Hm... Entonces puedes dejarme el diseño del[n]flotador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5029]Si necesitas un flotador, puedo ayudar con[n]eso. 斡Har姻 uno con una base de mariscos[n]y un helado de camarones encima![n][f 1 3 65535][f 1 1][e]

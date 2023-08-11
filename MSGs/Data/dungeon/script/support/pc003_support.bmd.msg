@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3301]斡Que FOE nos siga![n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_FOLLOW_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3302]斡Mierda! 斡Nos encontr�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3302]斡Mierda! 斡Nos encontró![n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_NEAR_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3303]斡Cuidado, un FOE![n][f 1 6 65535][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3373]Si no apagamos eso, somos tostadas.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_DENKISAKU_REACTI_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3374]夷D吋nde est茨 el interruptor para la puerta[n]el姻ctrica?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3374]夷Dónde est茨 el interruptor para la puerta[n]el姻ctrica?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_KYOUHU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3375]斡De ninguna manera![n][f 1 6 65535][e]
@@ -215,7 +215,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3362]斡Muy bien! 斡Mu姻vanse, chicos![n][f 1 6 65535][e]
 
 [msg YOUSUKE_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3363]斡Tenemos una misi吋n aqu胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3363]斡Tenemos una misión aqu胤![n][f 1 6 65535][e]
 
 [msg YOUSUKE_QUEST_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3364]斡Tengo esto, chicos![n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3344]斡No m茨s perderse![n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_ICON_KAI_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3345]斡Ahora sabemos a d吋nde tenemos que ir![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3345]斡Ahora sabemos a dónde tenemos que ir![n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_CHANGE_C]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3346]Tiene estilo.[n][f 1 6 65535][e]

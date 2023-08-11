@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24370]Estaremos bien si caminamos con cuidado.[n][f 1 6 65535][e]
 
 [msg YUSUKE_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24371]Escojamos nuestro pr吋ximo movimiento[n]sabiamente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24371]Escojamos nuestro próximo movimiento[n]sabiamente.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DENKISAKU_REACTIO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24372]Esta es una trampa bastante peligrosa...[n][f 1 6 65535][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24326]Parece que hemos encontrado nuestro camino.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]Parece que hay un tesoro por delante. Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]It appears there's treasure ahead.[n]Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24328]Espero que sea comida...[n][f 1 6 65535][e]
@@ -140,7 +140,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24313]Me estoy desvaneciendo r茨pido...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24314]No puedo luchar con el est吋mago vac胤o...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24314]No puedo luchar con el estómago vac胤o...[n][f 1 6 65535][e]
 
 [msg YUSUKE_PARTY_TP10_1]
 [f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24317]Voy a necesitar m茨s que agua si voy a[n]seguir...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24318]Mi est吋mago... Es demasiado vac胤o para que[n]contin雨e...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24318]Mi estómago... Es demasiado vac胤o para que[n]contin雨e...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24319]Parece que estaba algo sobreindulgente...[n][f 1 6 65535][e]
@@ -209,16 +209,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24360]Ahora, empecemos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DUNGEON_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24361]Estamos listos. Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24361]We're ready. Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24362]斡Quiz茨s, aqu胤, encuentre alguna inspiraci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24362]斡Quiz茨s, aqu胤, encuentre alguna inspiración![n][f 1 6 65535][e]
 
 [msg YUSUKE_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24363]Vamos a trabajar.[n][f 1 6 65535][e]
 
 [msg YUSUKE_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24364]夷C吋mo atravesaremos este lugar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24364]夷Cómo atravesaremos este lugar?[n][f 1 6 65535][e]
 
 [msg YUSUKE_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24365]No hay tiempo para perder.[n][f 1 6 65535][e]
@@ -245,10 +245,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24358]Mapa completo... Debo decir que es excelente.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24359]Hm... Este mapa result� ser bastante[n]magn胤fico.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24359]Hm... Este mapa resultó ser bastante[n]magn胤fico.[n][f 1 6 65535][e]
 
 [msg YUSUKE_MAPPING_ICON_ALL_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24342]Buena elecci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24342]Buena elección.[n][f 1 6 65535][e]
 
 [msg YUSUKE_MAPPING_ICON_ALL__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24343]Eso es.[n][f 1 6 65535][e]

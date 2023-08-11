@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12014]斡No lo llames hasta que lo pruebes! Tenemos[n]que pensarlo como un ejercicio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12070]Son como cuatro mu�ecos de 10 kg cada uno.[n]Ser茨 una brisa si lo pensamos como si[n]fuera entrenamiento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 12070]Son como cuatro muñecos de 10 kg cada uno.[n]Ser茨 una brisa si lo pensamos como si[n]fuera entrenamiento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11058][f 6 1 2 0 0 0]S胤, f茨cil... 斡Para ti, Akihiko-senpai![n][f 1 3 65535][f 1 1][e]
@@ -81,7 +81,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 4][f 3 1 1 0 0 0]Hrghh... 斡Me arrepiento incluso m茨s r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 18 4 0 1][f 3 1 1 0 0 18037][f 6 1 2 0 0 6]No tenemos tiempo para enga�arnos. 斡Deprisa[n]y agarra algunas cajas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 18 4 0 1][f 3 1 1 0 0 18037][f 6 1 2 0 0 6]No tenemos tiempo para engañarnos. 斡Deprisa[n]y agarra algunas cajas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024]
 [f 0 5 65278][f 2 1][f 4 6 20 6 0 3][f 3 1 1 0 0 0]Nos las arreglamos para hacer un viaje una[n]pieza...[n][f 1 3 65535][f 1 1][e]
@@ -96,7 +96,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 0]Soy un chico muy fr茨gil, no pude mover[n]nada...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 4 0 0][f 3 1 1 0 0 12035][f 6 1 2 0 0 6]S吋lo tenemos 320 kg all胤 hasta ahora. 斡Hay[n]680 kg para ir, sin tiempo para ser[n]gastado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 4 0 0][f 3 1 1 0 0 12035][f 6 1 2 0 0 6]Sólo tenemos 320 kg all胤 hasta ahora. 斡Hay[n]680 kg para ir, sin tiempo para ser[n]gastado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 18 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]As胤 que es como dos viajes m茨s y cambiar,[n]eh... 夷Cu茨nto tiempo nos queda?[n][f 1 3 65535][f 1 1][e]
@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]6 MINUTOS Y 28 SEGUNDOS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 4 0 1][f 3 1 1 0 0 7037][f 6 1 2 0 0 0]Tch - 夷Estamos atrapados s吋lo endureciendo[n]esto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 4 0 1][f 3 1 1 0 0 7037][f 6 1 2 0 0 0]Tch - 夷Estamos atrapados sólo endureciendo[n]esto?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_032 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Pensemos en otro enfoque.[f 2 7 1 20 6 32][e]
@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 6 0 6][f 3 1 1 0 0 12014]No tenemos tiempo para pensar. Tendremos que[n]hacerlo mientras se mueven cajas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 1][f 3 1 1 0 0 18112][f 6 1 2 0 0 3]Pero si lo hacemos normalmente, nos quedaremos[n]sin tiempo. Si s吋lo tuvi姻ramos otra[n]manera...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 1][f 3 1 1 0 0 18112][f 6 1 2 0 0 3]Pero si lo hacemos normalmente, nos quedaremos[n]sin tiempo. Si sólo tuvi姻ramos otra[n]manera...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 6][f 3 1 1 0 0 0]Bueno, s姻 que no tenemos tiempo para pensar[n]en ello. Tendremos que hacerlo mientras[n]se mueven cajas.[n][f 1 3 65535][f 1 1][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 1 0][f 3 1 1 0 0 11102][f 6 1 2 0 0 9]*pant* *gasp* Mi espalda y mis brazos son[n]disparados... He pasado mi l胤mite despu姻s[n]de dos rondas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]*pant* *pant* 夷Alguien tiene alguna idea[n]brillante sobre c吋mo m茨s podemos hacer esto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]*pant* *pant* 夷Alguien tiene alguna idea[n]brillante sobre cómo m茨s podemos hacer esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 4][f 3 1 1 0 0 0]夷Por qu姻 no atascamos las 雨ltimas cajas dentro[n]del disfraz de Teddie y lo tiramos[n]all胤?[n][f 1 3 65535][f 1 1][e]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4045][f 6 1 2 0 0 4]斡Gran idea! Est茨 casi vac胤o ah胤, as胤 que tal[n]vez todo encajar茨?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 9 4 0 1][f 3 1 1 0 0 9035][f 6 1 2 0 0 6]斡Oye! 斡Este traje no es una especie de[n]dimensi吋n de bolsillo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 9 4 0 1][f 3 1 1 0 0 9035][f 6 1 2 0 0 6]斡Oye! 斡Este traje no es una especie de[n]dimensión de bolsillo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 2]Adem茨s, mi abrigo es piel de oso genuino.[n]斡Es m茨s pesado de lo que parece! 斡Me caen[n]bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Ryuji]]
@@ -170,7 +170,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 12 1 0][f 3 1 1 0 0 12045][f 6 1 2 0 0 5]... 斡Eso es! 斡Tenemos que volvernos[n]rid胤culos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Con qu姻 se te ocurri�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Con qu姻 se te ocurrió?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 12031][f 6 1 2 0 0 4]La pantalla de la escala tiene que ser una[n]tonelada, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -178,7 +178,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si llegamos a la escala, nuestro propio peso[n]ser胤a igual de bueno.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4049][f 6 1 2 0 0 6]斡Te entiendo! El peso total en la escala s吋lo[n]tiene que ser una tonelada![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4049][f 6 1 2 0 0 6]斡Te entiendo! El peso total en la escala sólo[n]tiene que ser una tonelada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 6][f 3 1 1 0 0 0]S胤, no hab胤a reglas sobre lo que pasa en la[n]escala.[n][f 1 3 65535][f 1 1][e]
@@ -191,7 +191,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 12045][f 6 1 2 0 0 6]... 斡Eso es! 斡Tenemos que volvernos[n]rid胤culos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Con qu姻 se te ocurri�?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Con qu姻 se te ocurrió?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]La pantalla de la escala tiene que ser una[n]tonelada, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -228,7 +228,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos irnos todos, y volver a uno a la[n]vez?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 4 0 1][f 3 1 1 0 0 4065][f 6 1 2 0 0 10]斡Oye! 斡De ninguna manera! No voy a revelar[n]esa informaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 4 0 1][f 3 1 1 0 0 4065][f 6 1 2 0 0 10]斡Oye! 斡De ninguna manera! No voy a revelar[n]esa información...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 18 0 0 1][f 3 1 1 0 0 18014][f 6 1 2 0 0 4]Podemos ajustar el peso en 40 kg con las[n]cajas, pero ya que supera los 162 kg, no[n]ser茨 suficiente. 夷Qu姻 hacemos ahora?[n][f 1 3 65535][f 1 1][e]
@@ -248,7 +248,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 2 3 3][f 4 6 7 10 1 1][f 3 1 1 0 0 7038][f 6 1 2 0 0 6]斡Maldita sea! En ese caso... 斡Oye, Teddie![n]斡B茨jate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Teddie]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 9103][f 6 1 2 0 0 10]斡Gyaaaah! 斡Kanji lo perdi�! 斡Qu姻date[n]despierta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 9103][f 6 1 2 0 0 10]斡Gyaaaah! 斡Kanji lo perdió! 斡Qu姻date[n]despierta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_075 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 7009][f 6 1 2 0 0 4]Aunque tengo 65 kg. 夷Funcionar胤a?[n][f 1 3 65535][f 1 1][e]
@@ -260,13 +260,13 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 2 3 3][f 4 6 7 10 1 1][f 3 1 1 0 0 7038][f 6 1 2 0 0 6]斡Maldita sea! En ese caso... 斡Oye, Teddie![n]斡B茨jate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Teddie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9103][f 6 1 2 0 0 10][f 6 1 3 0 0 3]斡Gyaaaah! 斡Kanji lo perdi�! 斡Qu姻date[n]despierta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9103][f 6 1 2 0 0 10][f 6 1 3 0 0 3]斡Gyaaaah! 斡Kanji lo perdió! 斡Qu姻date[n]despierta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 6][f 3 1 1 0 0 9094][f 6 1 2 0 0 0]夷Hrmmm? Puede que sea un ni�o bonito, pero[n]eso es demasiado audaz para m胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 6][f 3 1 1 0 0 9094][f 6 1 2 0 0 0]夷Hrmmm? Puede que sea un niño bonito, pero[n]eso es demasiado audaz para m胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 2 3 3][f 4 6 21 0 4 1][f 3 1 1 0 0 21040][f 6 1 2 0 0 4]斡S吋lo shuddap y hazlo! Esta es la cremallera,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 2 3 3][f 4 6 21 0 4 1][f 3 1 1 0 0 21040][f 6 1 2 0 0 4]斡Sólo shuddap y hazlo! Esta es la cremallera,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Teddie]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9104][f 6 1 2 0 0 10][f 6 1 3 0 0 3]斡Aaagh! 斡Me est茨s agarrando la piel! Owie[n]owie owie![n][f 1 3 65535][f 1 1][e]
@@ -275,7 +275,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 18 4 0 1][f 3 1 1 0 0 0]No tenemos tiempo para jugar. Estamos a unos[n]segundos de..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7058][f 6 1 2 0 0 6]斡Espera! 斡Hay un mont吋n de mierda dentro de[n]姻l![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7058][f 6 1 2 0 0 6]斡Espera! 斡Hay un montón de mierda dentro de[n]姻l![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻 demonios?[n][f 1 3 65535][f 1 1][e]
@@ -319,20 +319,20 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35022]PASAMOS EL EXAMEN... PERO NUESTRO M畏TODO NO[n]SIGUI遺 EL PROCESO DE EXAMINACI遺N DE[n]STANDARD.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_097 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 1 6][f 3 1 1 0 0 0]Tisk, tisk - que te muestra c吋mo Teddies es[n]cualquier cosa menos est茨ndar![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 1 6][f 3 1 1 0 0 0]Tisk, tisk - que te muestra cómo Teddies es[n]cualquier cosa menos est茨ndar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_098 [Ribbon]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 6 1 2 0 0 4]...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_099 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 18 0 0 1][f 3 1 1 0 0 0]Los robots solo siguen 吋rdenes. No saben c吋mo[n]lidiar con los agujeros como nosotros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 18 0 0 1][f 3 1 1 0 0 0]Los robots solo siguen órdenes. No saben cómo[n]lidiar con los agujeros como nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_100 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11029]斡Eso es inteligencia humana para ti! De[n]cualquier manera, tenemos un pase.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_101 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 12 12 0 6][f 3 1 1 0 0 0]Independientemente del m姻todo, hemos terminado[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que hayamos pulsado el bot吋n de[n]liberaci吋n, apur姻monos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una vez que hayamos pulsado el botón de[n]liberación, apur姻monos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_102 [Ribbon]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 3 1 1 0 0 35022]...[n][f 1 3 65535][f 1 1][e]
@@ -341,7 +341,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mientras tanto, en la sala de examen[n]"Conocer"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_104 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 3 2 0 1][f 3 1 1 0 0 3048][f 6 1 2 0 0 6]斡Gran trabajo, compa�ero! 斡Otra respuesta[n]correcta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 3 2 0 1][f 3 1 1 0 0 3048][f 6 1 2 0 0 6]斡Gran trabajo, compañero! 斡Otra respuesta[n]correcta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_105 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 0]Seguir adelante es bueno y todo, pero tambi姻n[n]necesitas contribuir, Hanamura-kun.[n]A雨n no has respondido.[n][f 1 3 65535][f 1 1][e]

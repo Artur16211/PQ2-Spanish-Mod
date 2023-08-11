@@ -7,7 +7,7 @@
 [msg MSG_002 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 0]Desde que llegaste a este mundo, has enfrentado[n]una lucha ardua tras otra...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Con lo lejos que has llegado, creo que ahora[n]puedes ser lo suficientemente fuerte[n]para superar este nuevo desaf胤o...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 4 100 0][f 3 1 1 0 0 0]斡No hablo de ninguna otra que la pr吋xima[n]proyecci吋n especial![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 100 0][f 3 1 1 0 0 0]斡No hablo de ninguna otra que la próxima[n]proyección especial![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esta vez, se le encargar茨 de entrar en la[n]ciudad de Kamo y derrotar al pollo FOE![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser茨 un negocio como siempre, pero con una[n]recompensa mayor. Eso me suena muy bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 1 0 1][f 4 6 23 0 3 6][f 3 1 1 0 0 23004]Al principio, no ten胤amos otra opci吋n que[n]huir... pero hemos crecido mucho m茨s fuerte[n]desde entonces.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 1 0 1][f 4 6 23 0 3 6][f 3 1 1 0 0 23004]Al principio, no ten胤amos otra opción que[n]huir... pero hemos crecido mucho m茨s fuerte[n]desde entonces.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Probablemente podemos manejarlo ahora, 夷no[n]crees? Vamos a intentarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yusuke]]
@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Sab胤a que hab胤a visto un enorme trozo de[n]carne en alg雨n lugar! As胤 que ah胤 es donde[n]estaba...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 4 1 4][f 3 1 1 0 0 4045]夷Un mont吋n de carne?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 4 1 4][f 3 1 1 0 0 4045]夷Un montón de carne?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Muy bien, vamos a sacarlos! 斡Ese pollo es[n]m胤o![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yusuke]]
@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Comer es creer! 斡Nunca lo sabremos a menos[n]que lo intentemos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]De acuerdo. No puedo suprimir mi pasi吋n por[n]el arte ni mi pasi吋n por la comida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]De acuerdo. No puedo suprimir mi pasión por[n]el arte ni mi pasión por la comida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 23 6 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Vaya, parece que est茨n muertos comiendo esa[n]cosa... Quiz茨s deber胤as decir algo.[n][f 1 3 65535][f 1 1][e]
@@ -94,6 +94,6 @@
 
 [msg MSG_027 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 74 2 100 1][f 3 1 1 0 0 54031]*chuckle* apetitos monstruosos, curiosidad[n]persistente y otras motivaciones complejas[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque sus razones pueden diferir, todos[n]ustedes est茨n unidos en su determinaci吋n de[n]ver esto a trav姻s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque sus razones pueden diferir, todos[n]ustedes est茨n unidos en su determinación de[n]ver esto a trav姻s.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Sin embargo, recuerde que se enfrentar茨 a un[n]FOE... Le pido que permanezca vigilante[n]hasta el final.[n][f 1 3 65535][f 1 1][e]
 

@@ -1,5 +1,5 @@
 [msg MSG_000 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 22 1 0 3][f 4 6 10 0 0 1][f 3 1 1 0 0 10021]夷Eh? Parece que esto es un callej吋n sin[n]salida. Supongo que tendremos que encontrar[n]otra manera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 1 0 3][f 4 6 10 0 0 1][f 3 1 1 0 0 10021]夷Eh? Parece que esto es un callejón sin[n]salida. Supongo que tendremos que encontrar[n]otra manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 0]Definitivamente es una molestia, pero 夷qu姻[n]m茨s podemos hacer?[n][f 1 3 65535][f 1 1][e]
@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Sabes, eso me recuerda, Panther. Trabajas[n]como modelo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22067]Mhm, es s吋lo un concierto a tiempo parcial,[n]sin embargo. Siempre me ha gustado la[n]moda.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22067]Mhm, es sólo un concierto a tiempo parcial,[n]sin embargo. Siempre me ha gustado la[n]moda.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Hay algunas tiendas de ropa en la zona, as胤[n]que ech姻 un vistazo r茨pido dentro de[n]ellas cuando vinimos por primera vez aqu胤...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero toda la ropa aqu胤 es, bueno... un poco[n]demasiado para m胤.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Kamoshidaman tambi姻n fue impreso sobre ellos.[n]De ninguna manera estoy usando eso.[n][f 1 3 65535][f 1 1][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]But isn't it possible for it to be so lame[n]that it's actually cool?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]No lo creo. Ninguna cantidad de coacci吋n va[n]a hacer algo as胤 de bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]No lo creo. Ninguna cantidad de coacción va[n]a hacer algo as胤 de bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 23031]斡No te preocupes, Panther![n][f 1 3 65535][f 1 1][e]

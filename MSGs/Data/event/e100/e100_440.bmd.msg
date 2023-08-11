@@ -16,7 +16,7 @@
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Necesito tiempo para prepararme.[f 2 7 1 64 6 32][e]
-[f 0 5 65278][f 2 1]Empecemos la misi吋n.[f 2 7 1 64 2 32][e]
+[f 0 5 65278][f 2 1]Empecemos la misión.[f 2 7 1 64 2 32][e]
 
 [msg MSG_006 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23077][f 6 1 2 0 0 6]Mmhm, es mejor estar completamente preparado.[n]斡Mejor seguro que lo siento![n][f 1 3 65535][f 1 1][e]
@@ -25,14 +25,14 @@
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 4][f 3 1 1 0 0 0]Una vez que estemos listos, vamos a la plaza[n]Kamoshida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Esta misi吋n tiene que ser un 姻xito, no[n]importa qu姻![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Esta misión tiene que ser un 姻xito, no[n]importa qu姻![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23072][f 6 1 2 0 0 6]斡S胤, es hora de robar la estatua de Kamoshidaman[n]y rescatar a nuestros compa�eros de[n]equipo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23072][f 6 1 2 0 0 6]斡S胤, es hora de robar la estatua de Kamoshidaman[n]y rescatar a nuestros compañeros de[n]equipo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 4][f 3 1 1 0 0 0]Empecemos dirigi姻ndose a la plaza Kamoshida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Esta misi吋n tiene que ser un 姻xito, no[n]importa qu姻! Let's go![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Esta misión tiene que ser un 姻xito, no[n]importa qu姻! Let's go![n][f 1 3 65535][f 1 1][e]
 

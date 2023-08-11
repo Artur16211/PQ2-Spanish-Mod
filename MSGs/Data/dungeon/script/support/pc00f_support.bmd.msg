@@ -1,5 +1,5 @@
 [msg AEGIS_FOE_FOLLOW_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15300]斡Un FOE ahora est茨 en persecuci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15300]斡Un FOE ahora est茨 en persecución![n][f 1 6 65535][e]
 
 [msg AEGIS_FOE_FOLLOW_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15301]Una FOE nos ha encerrado.[n][f 1 6 65535][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15305]FOE detectado. Est茨 muy cerca.[n][f 1 6 65535][e]
 
 [msg AEGIS_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15306]Parece que logramos evitar la confrontaci吋n[n]con el FOE.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15306]Parece que logramos evitar la confrontación[n]con el FOE.[n][f 1 6 65535][e]
 
 [msg AEGIS_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15307]El FOE parece haber renunciado.[n][f 1 6 65535][e]
@@ -26,10 +26,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15308]Parece que hemos escapado del FOE.[n][f 1 6 65535][e]
 
 [msg AEGIS_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15369]Tengamos cuidado de evitar la detecci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15369]Tengamos cuidado de evitar la detección.[n][f 1 6 65535][e]
 
 [msg AEGIS_KANSI_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15370]Creo que "shhhh..." es la exclamaci吋n[n]apropiada.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15370]Creo que "shhhh..." es la exclamación[n]apropiada.[n][f 1 6 65535][e]
 
 [msg AEGIS_KANSI_REACTION_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15371]Cuidado... Cuidado...[n][f 1 6 65535][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15333]斡Cambio localizado![n][f 1 6 65535][e]
 
 [msg AEGIS_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15334]Interruptor visual confirmado. 夷Cu茨l es[n]nuestro curso de acci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15334]Interruptor visual confirmado. 夷Cu茨l es[n]nuestro curso de acción?[n][f 1 6 65535][e]
 
 [msg AEGIS_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15335]Se ha localizado un interruptor. 夷Lo presionamos[n]o lo destruimos?[n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15309]斡El FOE permanece encerrado![n][f 1 6 65535][e]
 
 [msg AEGIS_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15310]斡El FOE sigue en persecuci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15310]斡El FOE sigue en persecución![n][f 1 6 65535][e]
 
 [msg AEGIS_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15311]斡El enemigo FOE se acerca![n][f 1 6 65535][e]
@@ -161,13 +161,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15317]斡La salud est茨 ahora cr胤tica![n][f 1 6 65535][e]
 
 [msg AEGIS_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15318]Reportando una disminuci吋n de la resistencia.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15318]Reportando una disminución de la resistencia.[n][f 1 6 65535][e]
 
 [msg AEGIS_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15319]Mi resistencia ha llegado a sus l胤mites...[n][f 1 6 65535][e]
 
 [msg AEGIS_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15320]Detecto una disminuci吋n de la resistencia.[n]Creo que lo llamas cansado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15320]Detecto una disminución de la resistencia.[n]Creo que lo llamas cansado.[n][f 1 6 65535][e]
 
 [msg AEGIS_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15390]【justificadamente[n][f 1 6 65535][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15392](DGP郁BLICA)[n][f 1 6 65535][e]
 
 [msg AEGIS_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15360]斡Alineemos nuestra determinaci吋n para la[n]tarea que tenemos por delante![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15360]斡Alineemos nuestra determinación para la[n]tarea que tenemos por delante![n][f 1 6 65535][e]
 
 [msg AEGIS_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15361]Creo que la frase es: "斡Vamos!"[n][f 1 6 65535][e]
@@ -218,7 +218,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15363]斡Aigis, reportando![n][f 1 6 65535][e]
 
 [msg AEGIS_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15364]Comienzo de la misi吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15364]Comienzo de la misión.[n][f 1 6 65535][e]
 
 [msg AEGIS_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15365]Propongo que resuelva esto r茨pidamente![n][f 1 6 65535][e]
@@ -227,13 +227,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15352]Todav胤a tenemos muchas maneras de ir.[n][f 1 6 65535][e]
 
 [msg AEGIS_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15353]Propongo que tomemos descansos a lo largo de[n]nuestra exploraci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15353]Propongo que tomemos descansos a lo largo de[n]nuestra exploración.[n][f 1 6 65535][e]
 
 [msg AEGIS_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15354]斡Nuestro progreso es del 50%![n][f 1 6 65535][e]
 
 [msg AEGIS_TOUHA_50_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15355]Llenar nuestro mapa probablemente aumentar茨[n]la eficiencia de la exploraci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15355]Llenar nuestro mapa probablemente aumentar茨[n]la eficiencia de la exploración.[n][f 1 6 65535][e]
 
 [msg AEGIS_TOUHA_75_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15356]"No mucho m茨s lejos ahora", es un giro adecuado[n]de la frase.[n][f 1 6 65535][e]

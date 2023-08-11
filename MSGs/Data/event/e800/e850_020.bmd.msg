@@ -16,5 +16,5 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19067]I know. I'll fight it with everything[n]I've got![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 99 0][f 3 1 1 0 0 0]斡Aqu胤 viene el enemigo Sombra! Buena suerte,[n][f 6 1 27 0 0]-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 99 0][f 3 1 1 0 0 0]斡Aqu胤 viene el enemigo Sombra! Buena suerte,-chan![n][f 1 3 65535][f 1 1][e]
 

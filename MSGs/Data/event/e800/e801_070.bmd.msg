@@ -19,15 +19,15 @@
 [f 0 5 65278][f 2 1][f 4 6 71 0 0 0][f 3 1 1 0 0 0]... Siento no haberte dicho antes. Probablemente[n]sea un buen momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 25012]夷Sabes c吋mo nos capturaron en la pel胤cula[n]Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 25012]夷Sabes cómo nos capturaron en la pel胤cula[n]Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quer胤amos hacer algo para compensar todos[n]los problemas que te causamos all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 6 0 0][f 3 1 1 0 0 0]Ahora que estamos con todos de nuevo, pensamos[n]que intentar胤amos ayudar con la[n]proyecci吋n especial...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 6 0 0][f 3 1 1 0 0 0]Ahora que estamos con todos de nuevo, pensamos[n]que intentar胤amos ayudar con la[n]proyección especial...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si lo despejamos, conseguiremos equipos que[n]nos hagan m茨s fuertes, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 8075]Ya veo. As胤 que tu anhelo surgi� de un deseo[n]de ayudar a todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 8075]Ya veo. As胤 que tu anhelo surgió de un deseo[n]de ayudar a todos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Supongo que eso es todo...[n][f 1 3 65535][f 1 1][e]
@@ -42,7 +42,7 @@
 [f 0 5 65278][f 2 1][f 4 6 71 0 0 0][f 3 1 1 0 0 0]Si no hubieras venido por nosotros, nunca[n]habr胤amos escapado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 23071]Tienes raz吋n. Makoto puede parecer perfecta,[n]pero puede tener cuidado de vez en[n]cuando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 23071]Tienes razón. Makoto puede parecer perfecta,[n]pero puede tener cuidado de vez en[n]cuando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Bueno...[n][f 1 3 65535][f 1 1][e]
@@ -57,7 +57,7 @@
 
 [msg MSG_016 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 0]Bueno, ustedes no tienen que arreglarse.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo logramos salvarte por esa punta que nos[n]diste sobre la estatua.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sólo logramos salvarte por esa punta que nos[n]diste sobre la estatua.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 24067]De hecho. T雨 tambi姻n nos ayudaste.[n][f 1 3 65535][f 1 1][e]
@@ -78,7 +78,7 @@
 
 [msg MSG_022 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Y no nos referimos como parte de los Ladrones[n]Fantasma.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso es para [f 6 1 26 0 0]-san y el Equipo[n]de Investigaci吋n tambi姻n. Estamos juntos[n]en esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso es para [f 6 1 26 0 0]-san y el Equipo[n]de Investigación tambi姻n. Estamos juntos[n]en esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19077][f 6 1 2 0 0 6]Yeah! Count me in![n][f 1 3 65535][f 1 1][e]

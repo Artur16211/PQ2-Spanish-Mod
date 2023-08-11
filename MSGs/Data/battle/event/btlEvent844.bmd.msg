@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Reservado[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_844_101]
-[f 0 5 65278][f 2 1]"Quick Convert" Cuando el Meter del Partido[n]se llena a cierto punto, se puede realizar un [f 0 1 2][n]Quick Convert[f 0 1 0][n]pulsando el bot吋n Y durante la acci吋n de[n]un enemigo o un aliado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]"Quick Convert" Cuando el Meter del Partido[n]se llena a cierto punto, se puede realizar un [f 0 1 2][n]Quick Convert[f 0 1 0][n]pulsando el botón Y durante la acción de[n]un enemigo o un aliado.[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_844_102]
 [f 0 5 65278][f 2 1]Un Quick Convert cambiar茨 autom茨ticamente su[n]equipo al final del turno.[n][f 1 1][e]

@@ -13,11 +13,11 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]Um... Fue esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡He visto uno de esos antes! Es lo que usas[n]en las pel胤culas cuando dices "斡Acci吋n!"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡He visto uno de esos antes! Es lo que usas[n]en las pel胤culas cuando dices "斡Acción!"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 0]S胤, es un aplauso. Un juguete.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]Cuando era peque�a, sol胤a fingir que era[n]director de cine. Llev姻 esto conmigo donde[n]fuera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]Cuando era pequeña, sol胤a fingir que era[n]director de cine. Llev姻 esto conmigo donde[n]fuera.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mi padre me lo dio. Es... como mi tesoro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
@@ -32,7 +32,7 @@
 
 [msg MSG_009 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 6][f 3 1 1 0 0 11068]Seguro. En el mundo de Junpei Iori, Ace[n]Attentive, buscar amigos es tan importante[n]como cualquier trabajo detective.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Y a diferencia de esos dos, no tengo ning雨n[n]motivo posterior, como querer mostrar o[n]ser popular con las chicas, no se�or.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Y a diferencia de esos dos, no tengo ning雨n[n]motivo posterior, como querer mostrar o[n]ser popular con las chicas, no señor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 10 3 0][f 3 1 1 0 0 21036][f 6 1 2 0 0 6]斡As胤 se arruina el momento, hombre![n][f 1 3 65535][f 1 1][e]
@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Supongo que no deber胤a ser dif胤cil no[n]cambiar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4019][f 6 1 2 0 0 4]Wow, son tan r胤gidos s吋lo porque una chica[n]dice algo agradable![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4019][f 6 1 2 0 0 4]Wow, son tan r胤gidos sólo porque una chica[n]dice algo agradable![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 0][f 3 1 1 0 0 0]Chicos t胤picos.[n][f 1 3 65535][f 1 1][e]
@@ -64,7 +64,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 0 4][f 3 1 1 0 0 26091]Tal es la naturaleza tr茨gica del tr胤o semi[n]vergonzoso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 1 0 3][f 4 6 81 2 0 1][f 3 1 1 0 0 0]S吋lo hay una petici吋n m茨s que tengo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 1 0 3][f 4 6 81 2 0 1][f 3 1 1 0 0 0]Sólo hay una petición m茨s que tengo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero que todos tengan esto. Como muestra[n]de mi agradecimiento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
@@ -88,14 +88,14 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 61168][f 6 1 2 0 0 4]夷En serio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Tiene raz吋n. 斡Eso significa que tenemos que[n]marcar la diferencia de aqu胤 en adelante![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Tiene razón. 斡Eso significa que tenemos que[n]marcar la diferencia de aqu胤 en adelante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 0]S胤. 斡Vamos a devolverte tu impresionante[n]cien, no, mil veces! 斡Es una promesa![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]As胤 que no te pierdas el pr吋ximo episodio de[n]Junpei y el Duo de Decepci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]As胤 que no te pierdas el próximo episodio de[n]Junpei y el Duo de Decepción![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 14 1 0][f 3 1 1 0 0 3034][f 6 1 2 0 0 6]夷Qu姻 crees que est茨s tratando de tirar? 斡Eres[n]el frente de la decepci吋n del equipo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 14 1 0][f 3 1 1 0 0 3034][f 6 1 2 0 0 6]夷Qu姻 crees que est茨s tratando de tirar? 斡Eres[n]el frente de la decepción del equipo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 3 6][f 3 1 1 0 0 0]No, creo que eres t雨, Yosuke. O quiz茨s t雨[n]eres el capit茨n.[n][f 1 3 65535][f 1 1][e]
@@ -112,7 +112,7 @@
 
 [msg MSG_033 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 4][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]Yeah. As long as they're here, we can[n]keep on smiling, no matter how tough[n]things get.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que cada uno tiene un compa�ero[n]irremplazable.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que cada uno tiene un compañero[n]irremplazable.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_034 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Hagamos dignos.[f 2 7 1 64 2 32][e]

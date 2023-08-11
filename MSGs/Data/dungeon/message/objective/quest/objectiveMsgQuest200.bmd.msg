@@ -1,14 +1,14 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-[f 0 5 65278][f 2 1]Contraseéša me dijo:[e]
+[f 0 5 65278][f 2 1]ContraseÃ±a me dijo:[e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-[f 0 5 65278][f 2 1]Contraseéša me dijo:[e]
+[f 0 5 65278][f 2 1]ContraseÃ±a me dijo:[e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-[f 0 5 65278][f 2 1]Contraseéša me dijo:[e]
+[f 0 5 65278][f 2 1]ContraseÃ±a me dijo:[e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-[f 0 5 65278][f 2 1]Contraseéšas que se utilizan[e]
+[f 0 5 65278][f 2 1]ContraseÃ±as que se utilizan[e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
 [f 0 5 65278][f 2 1]#[e]

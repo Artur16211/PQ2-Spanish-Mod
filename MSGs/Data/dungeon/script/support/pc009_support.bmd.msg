@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9307]Phew, nos escapamos.[n][f 1 6 65535][e]
 
 [msg KUMA_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9308]夷Hrm? 斡Parece que se rindi�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9308]夷Hrm? 斡Parece que se rindió![n][f 1 6 65535][e]
 
 [msg KUMA_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9369]Tiptoe, tiptoe, modo de robo![n][f 1 6 65535][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9333]斡Encontr姻 un interruptor![n][f 1 6 65535][e]
 
 [msg KUMA_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9334]斡La presi吋n est茨 encendida para presionar el[n]interruptor! S吋lo bromeaba... 斡Hehe![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9334]斡La presión est茨 encendida para presionar el[n]interruptor! Sólo bromeaba... 斡Hehe![n][f 1 6 65535][e]
 
 [msg KUMA_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9335]斡Un cambio! 夷Puedo presionarlo?[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9315]斡Estoy haciendo da�o! 斡Alguien, ayuda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9315]斡Estoy haciendo daño! 斡Alguien, ayuda![n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9316]A este ritmo, no pasar茨 mucho tiempo antes[n]de que yo sea tonta...[n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9356]斡Siento que hemos progresado bien![n][f 1 6 65535][e]
 
 [msg KUMA_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9357]斡S吋lo un poco m茨s, y todos hemos terminado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9357]斡Sólo un poco m茨s, y todos hemos terminado![n][f 1 6 65535][e]
 
 [msg KUMA_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9358]斡Hooray, lo terminamos![n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9343]斡Se ve mejor![n][f 1 6 65535][e]
 
 [msg KUMA_MAPPING_ICON_KAIDAN]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9344]斡No nos perderemos si sabemos d吋nde est茨n[n]las escaleras![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9344]斡No nos perderemos si sabemos dónde est茨n[n]las escaleras![n][f 1 6 65535][e]
 
 [msg KUMA_MAPPING_ICON_KAIDAN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9345]斡Estoy impresionado![n][f 1 6 65535][e]

@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 7 0 0][f 3 1 1 0 0 16078][f 6 1 2 0 0 9]Por supuesto que no...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 1][f 3 1 1 0 0 0]Estamos buscando aumentar nuestra velocidad[n]y nuestra transmisi吋n de informaci吋n para[n]que podamos trabajar mejor como grupo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 1][f 3 1 1 0 0 0]Estamos buscando aumentar nuestra velocidad[n]y nuestra transmisión de información para[n]que podamos trabajar mejor como grupo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Creo que deber胤a ser capaz de hackear algo[n]as胤 juntos... 斡Seguro que ayudar茨![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
@@ -29,10 +29,10 @@
 
 [msg MSG_009 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 2 100 4][f 3 1 1 0 0 6530][f 3 1 6 0 0 500]Lo s姻, 夷verdad? Es una locura lo que Oracle[n]y Fuuka-chan pueden hacer con todo esto[n]de ingenier胤a![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Son nuestro equipo de ensue�o navegante![n]斡Pueden hacer cualquier cosa![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Son nuestro equipo de ensueño navegante![n]斡Pueden hacer cualquier cosa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 8 100 0][f 3 1 1 0 0 0]No s姻... Sus habilidades de navegaci吋n son[n]tan buenas como las nuestras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 8 100 0][f 3 1 1 0 0 0]No s姻... Sus habilidades de navegación son[n]tan buenas como las nuestras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0]斡S胤! Ella es exacta, ella mantiene las cosas[n]simples, y hola, ella es un IDOL! 夷A[n]qui姻n no le encantar胤a tenerla por aqu胤?[n][f 1 3 65535][f 1 1][e]

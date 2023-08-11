@@ -8,10 +8,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]Me recuerda a las pistas de Persona, pero es[n]un poco diferente de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 10 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Tienes raz吋n, se parece a eso. 夷Podr胤a ser[n]雨til para nosotros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 10 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Tienes razón, se parece a eso. 夷Podr胤a ser[n]雨til para nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Tal vez esos habitantes de Habitaci吋n Terciopelo[n]saben algo al respecto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Tal vez esos habitantes de Habitación Terciopelo[n]saben algo al respecto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Por qu姻 no intentamos preguntarles cuando[n]regresemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]

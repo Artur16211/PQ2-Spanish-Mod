@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 2 0 1][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡Tambi姻n deber胤amos celebrarlo! Ya sabes, en[n]el vest胤bulo del dormitorio![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 8]No tenemos tiempo para despilfarrar. Una vez[n]que volvamos, reanudaremos nuestra misi吋n[n]inmediatamente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 8]No tenemos tiempo para despilfarrar. Una vez[n]que volvamos, reanudaremos nuestra misión[n]inmediatamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 0]夷Qu姻? 斡Nos est茨s trabajando hasta la muerte![n][f 1 3 65535][f 1 1][e]
@@ -33,10 +33,10 @@
 [f 0 5 65278][f 2 1][f 4 6 18 10 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 0]夷Por qu姻 demonios me est茨s metiendo en eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 13]斡Eh, pandilla! Necesitamos continuar con[n]nuestra propia operaci吋n cuando regresemos[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 13]斡Eh, pandilla! Necesitamos continuar con[n]nuestra propia operación cuando regresemos[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]Lo s姻, lo s姻... Por cierto, 夷d吋nde vamos a[n]terminar una vez que pasemos por estas[n]puertas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]Lo s姻, lo s姻... Por cierto, 夷dónde vamos a[n]terminar una vez que pasemos por estas[n]puertas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 1][f 3 1 1 0 0 15]Tal vez... 夷Mementos?[n][f 1 3 65535][f 1 1][e]
@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 4]No s姻... 夷Quiz茨s terminemos en los lugares[n]correctos una vez que nos vayamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 6 0 1][f 3 1 1 0 0 18][f 6 1 2 0 0 9]Es una suposici吋n bastante grande...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 6 0 1][f 3 1 1 0 0 18][f 6 1 2 0 0 9]Es una suposición bastante grande...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 19]A雨n as胤, esta es nuestra 雨nica salida. No[n]tenemos m茨s remedio que ir por aqu胤.[n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 23][f 6 1 2 0 0 4]Huh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 24]Incluso despu姻s de que te separaran de tus[n]compa�eros y te quedaras solo aqu胤, te[n]quedaste fuerte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 24]Incluso despu姻s de que te separaran de tus[n]compañeros y te quedaras solo aqu胤, te[n]quedaste fuerte.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25]Siempre fuiste alegre, y probaste lo mejor,[n]como te negaste a perder... Fue realmente[n]alentador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
@@ -78,15 +78,15 @@
 
 [msg MSG_024 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 12 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]夷Recuerdas lo que dijo la Brigada Azul?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 29]"Definitivamente hay una raz吋n para que todos[n]vengan aqu胤."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 29]"Definitivamente hay una razón para que todos[n]vengan aqu胤."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 6 0 1][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 30]The reason we all met, huh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025_1 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 44]Supongo que podr胤as decir que nuestra reuni吋n[n]en s胤 misma era una forma de casting.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 44]Supongo que podr胤as decir que nuestra reunión[n]en s胤 misma era una forma de casting.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45]Si no fuera por todos ustedes, nunca habr胤a[n]considerado salir de este cine.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 46]Si hay alguien que nos reuni� a todos aqu胤,[n]creo que es un director experto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 46]Si hay alguien que nos reunió a todos aqu胤,[n]creo que es un director experto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025_2 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 47][f 6 1 2 0 0 4]A director?[n][f 1 3 65535][f 1 1][e]
@@ -116,12 +116,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38]De hecho, podr胤as ser herido a雨n m茨s, si ese[n]es el caso, 夷no preferir胤as...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 39]Podr胤as tener raz吋n, Nagi-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 39]Podr胤as tener razón, Nagi-san...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 40]Pero todos me han dado coraje. He decidido[n]que voy a probar mi mejor... Por eso es[n]hora de que me vaya.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 14 2 0][f 3 1 1 0 0 41]Ya veo... As胤 que est茨s decidido a pasar por[n]esto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 42]Me disculpo por la interjecci吋n. No te[n]mantendr姻 m茨s tiempo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 42]Me disculpo por la interjección. No te[n]mantendr姻 m茨s tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 4][f 3 1 1 0 0 43]Parece que es un茨nime entonces. Salgamos[n]afuera.[n][f 1 3 65535][f 1 1][e]

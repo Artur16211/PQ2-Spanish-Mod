@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55304]Este FOE... Puede ser capaz de derrotarlo[n]ahora.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55350]Las defensas de ese enemigo son fuertes.[n]Ser胤a mejor que dise�aras un plan.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55350]Las defensas de ese enemigo son fuertes.[n]Ser胤a mejor que diseñaras un plan.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55351]Este enemigo tiene habilidades terriblemente[n]poderosas. Ten cuidado.[n][f 1 6 65535][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55353]Los ataques m茨gicos de ese enemigo son[n]problemas. Vigila tu salud.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_010]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55354]Cuanto m茨s da�o recibe, m茨s lucha. L茨nzalo[n]en un solo golpe.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55354]Cuanto m茨s daño recibe, m茨s lucha. L茨nzalo[n]en un solo golpe.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_011]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55305]夷Un enemigo raro?[n][f 1 6 65535][e]
@@ -74,10 +74,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55321]El enemigo parece ser bastante poderoso...[n]Mant姻ngase alerta, todos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_025]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55322]No tenemos datos sobre este... Ser胤a mejor[n]reunir m茨s informaci吋n primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55322]No tenemos datos sobre este... Ser胤a mejor[n]reunir m茨s información primero.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_026]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55323]Necesitamos m茨s informaci吋n primero. Prueba[n]una amplia gama de ataques.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55323]Necesitamos m茨s información primero. Prueba[n]una amplia gama de ataques.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_027]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55324]Parece que t雨 y el enemigo son iguales en[n]fuerza.[n][f 1 6 65535][e]
@@ -104,10 +104,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55331]... En ese caso, tendr茨s que aguantar por el[n]momento.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_035]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55332]夷Un FOE se uni� a la batalla?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55332]夷Un FOE se unió a la batalla?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_036]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55333]La situaci吋n ha cambiado. 斡Le aconsejo que[n]se ajuste en consecuencia![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55333]La situación ha cambiado. 斡Le aconsejo que[n]se ajuste en consecuencia![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_037]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55601]Deber胤as tener cuidado con tu salud restante.[n][f 1 6 65535][e]
@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55602]Ten cuidado. La salud de alguien es peligrosamente[n]baja.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_039]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55603]Yosuke ha sufrido da�os significativos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55603]Yosuke ha sufrido daños significativos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_040]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55604]La salud de Chie ha llegado a ser cr胤tica.[n]Ten cuidado.[n][f 1 6 65535][e]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55611]Junpei va a caer si no ofreces apoyo.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_048]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55612]La condici吋n de Akihiko es bastante severa...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55612]La condición de Akihiko es bastante severa...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_049]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55613]Ten cuidado. Mitsuru tiene muy poca salud.[n][f 1 6 65535][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55615]Cuidado, Aigis. No podr茨s durar mucho m茨s.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_052]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55616]La situaci吋n de Ken es peligrosa.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55616]La situación de Ken es peligrosa.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_053]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55617]Vigila la salud de Koromaru.[n][f 1 6 65535][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55619]Alguien es muy bajo en salud.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_056]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55620]斡Precauci吋n! Alguien ha sufrido da�os graves.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55620]斡Precaución! Alguien ha sufrido daños graves.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_057]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55621]Es peligroso dejar a Skull como ahora...[n][f 1 6 65535][e]
@@ -176,10 +176,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55622]Tengan cuidado con la salud de Panther. Es[n]peligrosamente bajo.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_059]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55623]夷Mona estar茨 bien en esta condici吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55623]夷Mona estar茨 bien en esta condición?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_060]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55624]Fox ha sufrido da�os importantes.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55624]Fox ha sufrido daños importantes.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_061]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55625]Creo que Queen est茨 en peligro.[n][f 1 6 65535][e]
@@ -194,7 +194,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55628]Parece que Crow est茨 a punto de desmayarse...[n]夷Qu姻 har茨s?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55630]Veamos... Le sugiero que priorice la recuperaci吋n[n]de su salud primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55630]Veamos... Le sugiero que priorice la recuperación[n]de su salud primero.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_066]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55401]Oh mi... Parece que alguien ha sido[n]petrificado...[n][f 1 6 65535][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55410]Alguien ha estado ligado a la agilidad...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_076]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55430]夷Alguien posee alguna habilidad de recuperaci吋n?[n]La situaci吋n es grave.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55430]夷Alguien posee alguna habilidad de recuperación?[n]La situación es grave.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_077]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55411]Uno de estos enemigos es d姻bil a los ataques[n]f胤sicos.[n][f 1 6 65535][e]
@@ -251,7 +251,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55423]Este enemigo parece ser d姻bil a la[n]Psicokinesis.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_084]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55425]Uno de estos es d姻bil para Bendici吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55425]Uno de estos es d姻bil para Bendición.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_085]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55427]Uno de estos enemigos es d姻bil para Curse.[n][f 1 6 65535][e]
@@ -320,7 +320,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55512]En ese caso, 夷Akihiko deber胤a ser el que[n]vaya?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_107]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55513]Estoy deseando ver a Mitsuru en acci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55513]Estoy deseando ver a Mitsuru en acción.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_108]
 [f 0 5 65278][f 2 1][e]
@@ -332,7 +332,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55516]Por supuesto, me gustar胤a mucho observar sus[n]capacidades, Ken.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_111]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55517]En otras palabras, Koromaru, eres la opci吋n[n]ideal en esta situaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55517]En otras palabras, Koromaru, eres la opción[n]ideal en esta situación.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_112]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55518]Bueno, Shinjiro, creo que est茨s levantada.[n][f 1 6 65535][e]
@@ -353,7 +353,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55523]... 夷Crees que puedes manejarlo, Mona?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_118]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55524]No te preocupes. Fox es perfectamente adecuado[n]para manejar esta situaci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55524]No te preocupes. Fox es perfectamente adecuado[n]para manejar esta situación.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_119]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55525]Quiz茨 Queen pueda hacer algo al respecto...[n][f 1 6 65535][e]
@@ -374,10 +374,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55342]El enemigo sigue en pie...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_125]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55347]Tal falta de tensi吋n. Pagar m茨s a la tensi吋n...[n]Eso fue un juego de 10 puntos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55347]Tal falta de tensión. Pagar m茨s a la tensión...[n]Eso fue un juego de 10 puntos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_126]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55348]No hay motivo de preocupaci吋n. Sin embargo,[n]no deber胤as ser complaciente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55348]No hay motivo de preocupación. Sin embargo,[n]no deber胤as ser complaciente.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_127]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55343]夷Por qu姻 no intentar usar un pase de Baton[n]para apuntar a su debilidad?[n][f 1 6 65535][e]
@@ -398,7 +398,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55204]Parece que Chie ha ganado un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_133]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55205]La condici吋n de Yukiko parece haberse[n]incrementado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55205]La condición de Yukiko parece haberse[n]incrementado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_134]
 [f 0 5 65278][f 2 1][e]
@@ -407,13 +407,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55207]Kanji ha recibido un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_136]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55208]La condici吋n de Naoto ha sido aumentada.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55208]La condición de Naoto ha sido aumentada.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_137]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55209]Teddie ha ganado un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_138]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55210]Yukari se gan� un impulso.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55210]Yukari se ganó un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_139]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55211]Junpei ha recibido un impulso.[n][f 1 6 65535][e]
@@ -437,7 +437,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55217]Koromaru acaba de recibir un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_146]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55218]Shinjiro gan� un impulso... Me pregunto c吋mo[n]ser茨 esto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55218]Shinjiro ganó un impulso... Me pregunto cómo[n]ser茨 esto.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_147]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55219]夷Oh? Parece que alguien ha recibido un impulso.[n]Seguro que son m茨s fuertes.[n][f 1 6 65535][e]
@@ -455,7 +455,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55223]Mona ha recibido un impulso... Ll姻venlos a[n]todos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_152]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55224]Fox recibi� un impulso. Esto parece[n]prometedor.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55224]Fox recibió un impulso. Esto parece[n]prometedor.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_153]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55225]Queen ha recibido un impulso.[n][f 1 6 65535][e]
@@ -473,7 +473,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55230]Puede apuntar a su debilidad. No pierdas la[n]oportunidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_158]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55231]Ahora puedes golpear su debilidad. 夷C吋mo[n]proceder茨s?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55231]Ahora puedes golpear su debilidad. 夷Cómo[n]proceder茨s?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_159]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55345]El soporte est茨 listo para usar cuando lo[n]desee.[n][f 1 6 65535][e]
@@ -494,7 +494,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57303]斡Corran todos![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_165]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57304]Es una pel胤cula... Hehe... Olvid姻 c吋mo se[n]llaman.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57304]Es una pel胤cula... Hehe... Olvid姻 cómo se[n]llaman.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_166]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57350]Esa parece muy dura. 夷Crees que puedes[n]vencerlo?[n][f 1 6 65535][e]
@@ -539,10 +539,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57313]Um... 斡Creo que tienes que usar ataques[n]f胤sicos por ahora![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_180]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57318]Um... I don't really know what's going[n]on, but 斡Te estoy animando![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57318]Um... No s姻 lo que est茨 pasando, pero te[n]estoy animando![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_181]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57314]斡El pr吋ximo ataque ser茨 grande![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57314]斡El próximo ataque ser茨 grande![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_182]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57319]斡Aseg雨rate de bloquear! 斡No lo olvides![n][f 1 6 65535][e]
@@ -584,7 +584,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57331]夷Qu姻? 夷Qu姻 hacemos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_195]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57332]*Jadeo* Una muy aterradora apareci�![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57332]*Jadeo* Una muy aterradora apareció![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_196]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57333]Aaah... 夷Qu姻 hacemos?[n][f 1 6 65535][e]
@@ -680,7 +680,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57401]斡No, te han convertido en piedra![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_227]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57402]夷Estabas atracado? 夷C吋mo lo arreglamos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57402]夷Estabas atracado? 夷Cómo lo arreglamos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_228]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57403]斡Ah! 斡Alguien ha sido envenenado![n][f 1 6 65535][e]
@@ -689,7 +689,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57404]斡No puedes dormir ahora! 斡Despierta![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_230]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57405]Algo parece mal... 夷Qu姻 pas�?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57405]Algo parece mal... 夷Qu姻 pasó?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_231]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57406]斡Ah! 斡Alguien est茨 sorprendido![n][f 1 6 65535][e]

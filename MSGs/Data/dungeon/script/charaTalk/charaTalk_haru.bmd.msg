@@ -19,10 +19,10 @@
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27003]斡Este es un lugar donde podemos reunir objetos![n]夷Quieres echar un vistazo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27068]Creo que es una decisi吋n sabia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27068]Creo que es una decisión sabia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27067]Creo que tienes raz吋n; vamos a centrarnos en[n]la reuni吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27067]Creo que tienes razón; vamos a centrarnos en[n]la reunión![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27071]夷As胤 que estamos pasando por este? S姻 que[n]tienes tus razones.[n][f 1 3 65535][f 1 1][e]
@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0](仮)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27094]Un peque�o impedimento... No podemos pasar[n]por este lado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27094]Un pequeño impedimento... No podemos pasar[n]por este lado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]

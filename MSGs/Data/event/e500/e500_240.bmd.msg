@@ -3,7 +3,7 @@
 
 [sel SEL_001 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Es de un carrete de pel胤cula diferente.[f 2 7 1 20 6 32][e]
-[f 0 5 65278][f 2 1]Es una repetici吋n.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Es una repetición.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Ese es su hermano gemelo.[f 2 7 1 20 2 32][e]
 
 [msg MSG_002 [Naoto]]
@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 12 0 8][f 3 1 1 0 0 8][f 6 1 2 0 0 6]S胤, eso es lo que pens姻. Estoy bastante seguro[n]de que cambiamos los herbivores![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 7][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Entonces, 夷significa que la pel胤cula en el[n]proyector sigue siendo la versi吋n[n]insoportable?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 7][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Entonces, 夷significa que la pel胤cula en el[n]proyector sigue siendo la versión[n]insoportable?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Si no cambiamos esta pel胤cula, todos seguir茨n[n]viendo esa horrible pel胤cula...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P4 Hero]]
@@ -38,13 +38,13 @@
 [f 0 5 65278][f 2 1][f 4 6 86 1 2 9][f 3 1 1 0 0 12][f 6 1 3 0 0 2]夷Por qu姻 tienes que seguir molestando al[n]grupo? Todo el mundo dice que va bien como[n]est茨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 11 0 0][f 4 6 4 4 0 7][f 3 1 1 0 0 13][f 6 1 2 0 0 6]斡S吋lo porque todo el mundo lo est茨 haciendo,[n]eso no siempre lo hace bien![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 11 0 0][f 4 6 4 4 0 7][f 3 1 1 0 0 13][f 6 1 2 0 0 6]斡Sólo porque todo el mundo lo est茨 haciendo,[n]eso no siempre lo hace bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 8][f 3 1 1 0 0 14]斡S胤! Si todo el mundo se quita durante una[n]luz roja, obviamente causar茨 una enorme[n]acumulaci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 8][f 3 1 1 0 0 14]斡S胤! Si todo el mundo se quita durante una[n]luz roja, obviamente causar茨 una enorme[n]acumulación![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15][f 6 1 3 0 0 2]夷Qu姻? No importa si el reba�o est茨 bien o[n]mal...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15][f 6 1 3 0 0 2]夷Qu姻? No importa si el rebaño est茨 bien o[n]mal...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6][f 6 1 3 0 0 2]斡Es m茨s importante tomar la pista![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Kanji]]

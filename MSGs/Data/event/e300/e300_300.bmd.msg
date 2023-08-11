@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 2 0 3 3][f 3 1 1 0 0 2024]Oh, es mi... Gracias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 1 6][f 3 1 1 0 0 18037][f 6 1 2 0 0 6]Tch... 斡Tenemos m茨s compa�胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 1 6][f 3 1 1 0 0 18037][f 6 1 2 0 0 6]Tch... 斡Tenemos m茨s compañ胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Robot Producido En Masa]]
 [f 0 5 65278][f 2 1][f 4 6 43 0 0 0][f 3 1 1 0 0 0]DEBEN SER ELIMINADOS. DEBEN SER ELIMINADOS.[n][f 1 3 65535][f 1 1][e]

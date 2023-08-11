@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 1 0 4][f 4 6 11 1 0 1][f 4 6 3 6 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ten胤amos que rompernos el culo porque Alguien[n]ten胤a que apresurarse y probar cada[n]est雨pido truco en el libro para entrar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11027]Perd吋n por eso... Supongo que fue bastante[n]inmaduro... Ser adulto es m茨s dif胤cil de[n]lo que pensaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11027]Perdón por eso... Supongo que fue bastante[n]inmaduro... Ser adulto es m茨s dif胤cil de[n]lo que pensaba.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Pero a雨n no me rendir姻. Mucho m茨s para胤so[n]para adultos esper茨ndonos ah胤 fuera en la[n]ciudad que nunca duerme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_1 [Teddie]]
@@ -32,10 +32,10 @@
 
 [msg MSG_007 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 3056][f 6 1 2 0 0 10]夷Qu姻? 斡Oye! 斡D姻jame salir de esto![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oye, Kanji! 斡Ens姻�ale a este tonto una[n]lecci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oye, Kanji! 斡Ens姻ñale a este tonto una[n]lección![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Se�or![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Señor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡N-Noo! 斡Mi edad adulta... se est茨 escapando![n][f 1 3 65535][f 1 1][e]

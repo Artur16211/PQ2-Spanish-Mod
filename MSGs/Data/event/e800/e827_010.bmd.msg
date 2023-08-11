@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54029]El tiempo finalmente ha llegado...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No s吋lo podremos decidir el vencedor, tendremos[n]una monta�a de donuts...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No sólo podremos decidir el vencedor, tendremos[n]una montaña de donuts...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 1][f 3 1 1 0 0 0]Esto est茨 golpeando a ochenta p茨jaros con[n]una piedra.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukari]]

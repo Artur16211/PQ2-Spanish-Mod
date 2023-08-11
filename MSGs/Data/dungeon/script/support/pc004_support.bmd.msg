@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4305]Aw hombre, 斡hay un FOE![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4306]斡Parece que le dimos el resbal吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4306]斡Parece que le dimos el resbalón![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4307]Phew... Estamos bien ahora.[n][f 1 6 65535][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4308]斡Parece que nos escapamos del FOE![n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4369]Voy a necesitar medicamentos para el coraz吋n[n]antes de que esto termine...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4369]Voy a necesitar medicamentos para el corazón[n]antes de que esto termine...[n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4370]Cuidado... Despacio ahora...[n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4312]Por favor, d姻jame parar y comer algo de[n]carne.[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4313]No puedo seguir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4313]Uggh... No puedo seguir...[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4314]Creo que esto es para m胤...[n][f 1 6 65535][e]
@@ -215,10 +215,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4362]斡Muy bien! 斡Vamos a romper![n][f 1 6 65535][e]
 
 [msg CHIE_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4363]斡Una proyecci吋n especial! 斡Vamos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4363]斡Una proyección especial! 斡Vamos![n][f 1 6 65535][e]
 
 [msg CHIE_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4364]斡Esta misi吋n est茨 en la bolsa![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4364]斡Esta misión est茨 en la bolsa![n][f 1 6 65535][e]
 
 [msg CHIE_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4365]斡Estoy tan listo![n][f 1 6 65535][e]

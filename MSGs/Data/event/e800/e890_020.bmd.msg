@@ -1,13 +1,13 @@
 [msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54031]斡Bien! Creo que ya todos conocemos el[n]taladro...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Usted ha adquirido una nueva pieza de pel胤cula[n]que contiene posibilidades ocultas[n]del poder de la tarjeta salvaje.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En consecuencia, he encontrado c吋mplices para[n]ayudar a restaurar su luz.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En consecuencia, he encontrado cómplices para[n]ayudar a restaurar su luz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 4 0 1][f 3 1 1 0 0 58118]Hmph. No estamos aqu胤 por tu bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 59042]Nos encontramos aburridos. Esa es la 雨nica[n]raz吋n por la que te adulamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 59042]Nos encontramos aburridos. Esa es la 雨nica[n]razón por la que te adulamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Ooh, doble golpe![n][f 1 3 65535][f 1 1][e]
@@ -23,13 +23,13 @@
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 0]Si salimos victoriosos sobre ti, hay algo[n]para nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 14 1 3][f 3 1 1 0 0 26070]S胤, ustedes dos son peque�os. No queremos[n]hacerte da�o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 14 1 3][f 3 1 1 0 0 26070]S胤, ustedes dos son pequeños. No queremos[n]hacerte daño.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 10 0 0][f 3 1 1 0 0 58030][f 6 1 2 0 0 2]斡La audacia! 斡El tama�o de nuestros cuerpos[n]no tiene nada que ver con esto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 10 0 0][f 3 1 1 0 0 58030][f 6 1 2 0 0 2]斡La audacia! 斡El tamaño de nuestros cuerpos[n]no tiene nada que ver con esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 4 0 0][f 3 1 1 0 0 59060]夷C吋mo te atreves a subestimarnos? Te arrepentir茨s[n]pronto de tus palabras.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 4 0 0][f 3 1 1 0 0 59060]夷Cómo te atreves a subestimarnos? Te arrepentir茨s[n]pronto de tus palabras.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 74 1 100 3][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 0]Hola, Elizabeth.[n][f 1 3 65535][f 1 1][e]

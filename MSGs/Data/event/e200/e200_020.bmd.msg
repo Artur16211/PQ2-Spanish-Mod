@@ -6,11 +6,11 @@
 
 [msg MSG_002 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 4][f 3 1 1 0 0 3]Parece basarse en el principio de la mayor胤a.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4]La pel胤cula deja muy claro que lo que la[n]mayor胤a de la gente est茨 de acuerdo es[n]correcto, y ninguna otra opini吋n es v茨lida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4]La pel胤cula deja muy claro que lo que la[n]mayor胤a de la gente est茨 de acuerdo es[n]correcto, y ninguna otra opinión es v茨lida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 6 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 3]Lo que la mayor胤a de la gente est茨 de acuerdo,[n]夷eh? Esa no es nuestra clase de cosas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6]Quiero decir, usamos para elegir nuestros[n]objetivos basados en su reputaci吋n en la[n]sociedad...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6]Quiero decir, usamos para elegir nuestros[n]objetivos basados en su reputación en la[n]sociedad...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 71 6 0 1][f 3 1 1 0 0 7]Ryuji...[n][f 1 3 65535][f 1 1][e]
@@ -56,30 +56,30 @@
 [f 0 5 65278][f 2 1][f 4 6 70 8 1 0][f 3 1 1 0 0 20][f 6 1 2 0 0 6]斡S胤! Y entonces todo es como,[n]BOOMBOOMBOOMBOOMBOOMBOOM![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 0 0 1][f 3 1 1 0 0 21]Aunque no comentar姻 la explicaci吋n, entiendo[n]tu significado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22]Un dinosaurio que quiere salvar a su compa�ero,[n]pero no puede hablar por la opini吋n[n]mayoritaria...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 0 0 1][f 3 1 1 0 0 21]Aunque no comentar姻 la explicación, entiendo[n]tu significado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22]Un dinosaurio que quiere salvar a su compañero,[n]pero no puede hablar por la opinión[n]mayoritaria...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 1][f 3 1 1 0 0 23]Se supone que es una pel胤cula de dinosaurios,[n]pero es demasiado realista, como si[n]estuvieramos viendo las dificultades[n]dolorosas de la vida humana.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 0 0 0][f 3 1 1 0 0 24]夷C吋mo alguien que interrumpe la paz es malo[n]y todo el mundo se preocupa constantemente[n]de c吋mo se sienten y piensan los[n]dem茨s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 0 0 0][f 3 1 1 0 0 24]夷Cómo alguien que interrumpe la paz es malo[n]y todo el mundo se preocupa constantemente[n]de cómo se sienten y piensan los[n]dem茨s.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25][f 6 1 2 0 0 4]Lo mismo podr胤a decirse de la pel胤cula de[n]Kamoshidaman, 夷por qu姻 son las historias[n]as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 26]Esto no s吋lo se aplica a las pel胤culas, sino[n]que los creadores incluyen mensajes de[n]alg雨n tipo en su trabajo con bastante[n]frecuencia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 26]Esto no sólo se aplica a las pel胤culas, sino[n]que los creadores incluyen mensajes de[n]alg雨n tipo en su trabajo con bastante[n]frecuencia.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27]En este caso, supongo que los cineastas est茨n[n]diciendo, "Ap茨rtese de qui姻n eres y[n]conforme a lo que hace todo el mundo..."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 4 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 6]夷Qu姻? 夷Te das cuenta de lo que quieres hacer[n]por una mierda como esa? 斡Eso no es[n]diferente de estar muerto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 29]Estoy de acuerdo. No importa lo que digan[n]los que me rodean, no tengo ninguna intenci吋n[n]de renunciar al arte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 29]Estoy de acuerdo. No importa lo que digan[n]los que me rodean, no tengo ninguna intención[n]de renunciar al arte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 6 0 0][f 3 1 1 0 0 30]Entonces otra vez... Puedo entender la[n]sensaci吋n de tener que ir con otros...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 31]Si no los hubiera conocido a todos, habr胤a[n]ido con lo que mi compa�胤a y los adultos[n]me demandaron...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 6 0 0][f 3 1 1 0 0 30]Entonces otra vez... Puedo entender la[n]sensación de tener que ir con otros...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 31]Si no los hubiera conocido a todos, habr胤a[n]ido con lo que mi compañ胤a y los adultos[n]me demandaron...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 0 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]夷Era esa pel胤cula... tan extra�a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 0 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]夷Era esa pel胤cula... tan extraña?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 33][f 6 1 2 0 0 4]夷Eh? 夷No pensaste que hab胤a nada malo?[n][f 1 3 65535][f 1 1][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 36]En el fondo, ese dinosaurio quiere salvar su[n]brote, pero nadie est茨 dispuesto a[n]ayudar, as胤 que no puede... Eso es un verdadero[n]bummer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]Pero sus compa�eros se opusieron a la idea.[n]Si intentaran rescatar a ese, todos los[n]dem茨s estar胤an en peligro...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]Pero sus compañeros se opusieron a la idea.[n]Si intentaran rescatar a ese, todos los[n]dem茨s estar胤an en peligro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 38]A雨n as胤, es posible que puedan ser rescatados...[n]Entonces todos estar胤an a salvo,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -103,7 +103,7 @@
 
 [msg MSG_028 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 84 12 0 0][f 3 1 1 0 0 41]Hikari-san, si crees que la pel胤cula debe[n]permanecer como es, entonces estoy bien[n]con ella tambi姻n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 42]Sin embargo, solo apoyar胤a esa decisi吋n si[n]realmente la quieres. No quiero que reprimas[n]tu verdadero yo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 42]Sin embargo, solo apoyar胤a esa decisión si[n]realmente la quieres. No quiero que reprimas[n]tu verdadero yo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 43]夷Mi... verdadero yo? Esa pel胤cula... Yo...[n][f 1 3 65535][f 1 1][e]
@@ -136,7 +136,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 52][f 6 1 2 0 0 4]夷Mentir...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 53][f 6 1 2 0 0 4]Viste c吋mo termin� Kamoshidaman y te alegraste[n]de c吋mo fue, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 53][f 6 1 2 0 0 4]Viste cómo terminó Kamoshidaman y te alegraste[n]de cómo fue, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 54][f 6 1 2 0 0 10]As胤 que... B茨sicamente...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Hikari]]
@@ -169,11 +169,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 64]Creo que cambiar estas pel胤culas nos llevar茨[n]a escapar de aqu胤 al final.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 0 0 1][f 3 1 1 0 0 65][f 6 1 2 0 0 4]Cuando lo cambiamos, una llave sali� de Doe...[n]Esta vez tambi姻n est茨s hablando de lo[n]mismo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 0 0 1][f 3 1 1 0 0 65][f 6 1 2 0 0 4]Cuando lo cambiamos, una llave salió de Doe...[n]Esta vez tambi姻n est茨s hablando de lo[n]mismo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 66]Ese patr吋n no ha sido confirmado todav胤a,[n]pero creo que es probable.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 67]A雨n m茨s cuando usted considera c吋mo Doe es[n]el que juega estas pel胤culas extra�as.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 66]Ese patrón no ha sido confirmado todav胤a,[n]pero creo que es probable.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 67]A雨n m茨s cuando usted considera cómo Doe es[n]el que juega estas pel胤culas extrañas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 70 2 0 1][f 3 1 1 0 0 68][f 6 1 2 0 0 6]斡Entonces eso lo resuelve! Vamos a explorar[n]esa pel胤cula, [f 6 1 30 0 0]![n][f 1 3 65535][f 1 1][e]

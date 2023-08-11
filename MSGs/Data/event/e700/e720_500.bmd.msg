@@ -1,6 +1,6 @@
 [msg MSG_000 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 100 1][f 3 1 1 0 0 6635][f 3 1 6 0 0 500][f 6 1 2 0 0 6]斡Chicos! 斡Estoy viendo la manada de herb胤voros[n]al otro lado de esta puerta![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 6 6 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Pero algo parece extra�o en ellos... Me[n]pregunto, 夷algo podr胤a estar mal?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 6 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Pero algo parece extraño en ellos... Me[n]pregunto, 夷algo podr胤a estar mal?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 3 6 0 1][f 3 1 1 0 0 0]Vaya... Parece que ser茨 mejor que tengamos[n]cuidado.[n][f 1 3 65535][f 1 1][e]

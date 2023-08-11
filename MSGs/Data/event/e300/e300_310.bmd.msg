@@ -18,10 +18,10 @@
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No me digas, 夷est茨 rota?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 9 6 0 1][f 3 1 1 0 0 9040]Nooo, 夷no lo logramos a tiempo? 夷C吋mo la[n]arreglamos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 9 6 0 1][f 3 1 1 0 0 9040]Nooo, 夷no lo logramos a tiempo? 夷Cómo la[n]arreglamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 6][f 3 1 1 0 0 2083]No te preocupes. Ella us� un poder especial[n]antes, as胤 que est茨 sobrecalentada en[n]este momento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 6][f 3 1 1 0 0 2083]No te preocupes. Ella usó un poder especial[n]antes, as胤 que est茨 sobrecalentada en[n]este momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28019][f 6 1 2 0 0 4]夷Un poder especial?[n][f 1 3 65535][f 1 1][e]
@@ -33,10 +33,10 @@
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 27097]斡Gracias a Dios! Qu姻 alivio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 2 1 0 3][f 4 6 12 12 0 1][f 3 1 1 0 0 12013][f 6 1 2 0 0 4]No quiero apresurarte, pero 夷qu姻 les pas� a[n]ustedes dos cuando llegamos aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 2 1 0 3][f 4 6 12 12 0 1][f 3 1 1 0 0 12013][f 6 1 2 0 0 4]No quiero apresurarte, pero 夷qu姻 les pasó a[n]ustedes dos cuando llegamos aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 0]Aigis y yo fuimos capturados por un robot[n]llamado "Overseer" s吋lo unos momentos[n]despu姻s de que llegamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 0]Aigis y yo fuimos capturados por un robot[n]llamado "Overseer" sólo unos momentos[n]despu姻s de que llegamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Est茨s hablando del que parece Ikutsuki-san,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -89,10 +89,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 4][f 3 1 1 0 0 0]Eso es lo que nuestras vidas son ahora. No[n]podemos hacerlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 3 1 1 0 0 2069]Perd吋n por el problema. Entonces, 夷necesitamos[n]ir a un cine?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 3 1 1 0 0 2069]Perdón por el problema. Entonces, 夷necesitamos[n]ir a un cine?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 2 0 1][f 3 1 1 0 0 0]Definitivamente es 雨til que puedas comprender[n]una situaci吋n tan extra�a tan[n]r茨pidamente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 28 2 0 1][f 3 1 1 0 0 0]Definitivamente es 雨til que puedas comprender[n]una situación tan extraña tan[n]r茨pidamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 0]Vamos, retrocedamos.[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 1][f 3 1 1 0 0 0]No tengo idea de si habr胤a o no alg雨n efecto[n]malo para ella...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 26009]La maquinaria de precisi吋n es muy delicada.[n]No deber胤amos traerla a ning雨n escenario[n]para el que no est姻 dise�ada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 26009]La maquinaria de precisión es muy delicada.[n]No deber胤amos traerla a ning雨n escenario[n]para el que no est姻 diseñada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos tratar de esconderla en alguna[n]parte? 夷Y si la atraparon esos robots de[n]seguridad?[n][f 1 3 65535][f 1 1][e]
@@ -126,15 +126,15 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24047]夷Oh? Suena 雨til. Entonces, seguir姻 adelante[n]y activar姻..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oye! 斡No vayas con su configuraci吋n sin su[n]permiso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oye! 斡No vayas con su configuración sin su[n]permiso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 25 12 0 1][f 3 1 1 0 0 25009]Incluso si eres capaz de evitar sus sensores,[n]me preocupa dejarte aqu胤 al[n]descubierto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 no te cubres en alg雨n lugar antes[n]de hacer el modo de sue�o?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 no te cubres en alg雨n lugar antes[n]de hacer el modo de sueño?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 6][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]I agree. That definitely sounds like it[n]would be safer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3006][f 6 1 2 0 0 6]Muy bien, vamos a conseguir Ribbon-chan en[n]modo de sue�o y volver al cine![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3006][f 6 1 2 0 0 6]Muy bien, vamos a conseguir Ribbon-chan en[n]modo de sueño y volver al cine![n][f 1 3 65535][f 1 1][e]
 

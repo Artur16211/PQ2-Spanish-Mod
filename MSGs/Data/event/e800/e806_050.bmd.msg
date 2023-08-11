@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 24067][f 6 1 2 0 0 6]斡Correcto! 斡Encontrar姻 un ammonite sin importar[n]lo que sea necesario![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21083][f 6 1 2 0 0 9]Amigo, no puedo encontrar mierda... Quiero[n]decir, 夷qu姻 demonios es una amonestaci吋n[n]de todos modos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21083][f 6 1 2 0 0 9]Amigo, no puedo encontrar mierda... Quiero[n]decir, 夷qu姻 demonios es una amonestación[n]de todos modos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Ni idea.[f 2 7 1 20 6 32][e]
@@ -38,7 +38,7 @@
 
 [msg MSG_011 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24074]Perd胤 a mis padres cuando era joven y, como[n]resultado, tuve un momento dif胤cil con[n]dinero.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hab胤a un hombre que una vez me cuid�, pero[n]por muchas razones, me he encontrado solo[n]una vez m茨s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hab胤a un hombre que una vez me cuidó, pero[n]por muchas razones, me he encontrado solo[n]una vez m茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Siento o胤r eso.[n][f 1 3 65535][f 1 1][e]
@@ -56,10 +56,10 @@
 
 [msg MSG_016 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 5069]Creo que lo entiendo ahora.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]La raz吋n por la que puedo ser yo es porque[n]estoy rodeado de gente que me acepta por[n]lo que soy.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]La razón por la que puedo ser yo es porque[n]estoy rodeado de gente que me acepta por[n]lo que soy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 0]As胤 es. Pasi吋n o no, no puedo hacerlo solo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 0]As胤 es. Pasión o no, no puedo hacerlo solo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]No s姻 cu茨ntas veces me han alimentado el[n]cafista Joker que se queda en...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yukiko]]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]No, a雨n no.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8093]Entonces, tal vez deber胤amos cambiar de[n]ubicaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8093]Entonces, tal vez deber胤amos cambiar de[n]ubicación.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Rise-san dijo que sent胤a m茨s agua al oeste[n]de aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
@@ -89,6 +89,6 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 4 1 1][f 3 1 1 0 0 4054][f 6 1 2 0 0 0]斡Oigan, esperen, ustedes dos! 夷No me digas[n]que Yukiko tambi姻n es todo loco?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 26 6 100 1][f 3 1 1 0 0 26515][f 3 1 6 0 0 500][f 6 1 2 0 0 9]Creo que Fox realmente hizo una impresi吋n en[n]ella...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 26 6 100 1][f 3 1 1 0 0 26515][f 3 1 6 0 0 500][f 6 1 2 0 0 9]Creo que Fox realmente hizo una impresión en[n]ella...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]De cualquier manera, tenemos m茨s agua al[n]oeste. 斡Vamos a comprobarlo![n][f 1 3 65535][f 1 1][e]
 

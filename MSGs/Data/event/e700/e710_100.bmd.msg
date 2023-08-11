@@ -1,5 +1,5 @@
 [msg MSG_000 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 28019]... 夷Es una escalera? Me pregunto d吋nde[n]conduce.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 28019]... 夷Es una escalera? Me pregunto dónde[n]conduce.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Es bastante alto all胤 arriba...[n][f 1 3 65535][f 1 1][e]

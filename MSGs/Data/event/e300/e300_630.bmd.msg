@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35001][f 6 1 3 0 0 1]YO... YO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷C吋mo est茨s? 夷Recuerdas qui姻n eres?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Cómo est茨s? 夷Recuerdas qui姻n eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35001][f 6 1 3 0 0 1]YO SOY... UIY-2249...[n][f 1 3 65535][f 1 1][e]
@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]夷Qu姻 era yo...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Usted fue drenado severamente debido a la[n]activaci吋n del Modo Orgia, y hubo un problema[n]con su secuencia de arranque.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Usted fue drenado severamente debido a la[n]activación del Modo Orgia, y hubo un problema[n]con su secuencia de arranque.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por eso te conectamos temporalmente con mi[n]sistema e intentamos restaurarlo de esa[n]manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Mitsuru]]
@@ -42,7 +42,7 @@
 
 [msg MSG_013 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 0][f 3 1 1 0 0 26032]斡Mweheheh! Todo lo que hice fue ayudar a[n]liberar a los limitadores.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Simplemente reescribi� la programaci吋n para[n]que Ribbon pudiera activarla a voluntad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Simplemente reescribió la programación para[n]que Ribbon pudiera activarla a voluntad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]S胤, eleg胤 luchar contigo.[n][f 1 3 65535][f 1 1][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 6][f 3 1 1 0 0 8067][f 6 1 2 0 0 4]Esa es una buena pregunta. 夷Qu姻 planeas hacer[n]ahora, Ribbon-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]Creo que, eventualmente, m茨s de mis compa�eros[n]surgir茨n con individualidades.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]Creo que, eventualmente, m茨s de mis compañeros[n]surgir茨n con individualidades.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Para prepararme para cuando llegue ese momento,[n]quiero crear un mundo donde podamos[n]vivir juntos, en lugar de ser eliminados.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Morgana]]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1]Puedes hacerlo, Ribbon.[f 2 7 1 20 2 32][e]
 
 [msg MSG_023 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35025]Gracias. Prometo hacer que este sue�o se[n]convierta en realidad aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35025]Gracias. Prometo hacer que este sueño se[n]convierta en realidad aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 15 2 0 0][f 3 1 1 0 0 0]Es un objetivo admirable.[n][f 1 3 65535][f 1 1][e]
@@ -90,14 +90,14 @@
 
 [msg MSG_027 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15009]No soy especial. Sin embargo, hablando[n]hipot姻ticamente, si hubiera algo especial[n]sobre m胤 mismo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 0]Entonces estos compa�eros ciertamente me[n]aceptar胤an ?por qui姻n soy realmente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 0]Entonces estos compañeros ciertamente me[n]aceptar胤an ?por qui姻n soy realmente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35022][f 6 1 3 0 0 1]夷A雨n te aceptar胤an?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 6][f 3 1 1 0 0 0]Tampoco somos los 雨nicos que piensan as胤.[n]Estoy seguro de que habr茨 otros que te[n]acepten como eres.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 0]Por eso tambi姻n deber胤as hacer nuevos[n]compa�eros. Si haces eso, seguro que todos los[n]d胤as estar茨n llenos de diversi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 0]Por eso tambi姻n deber胤as hacer nuevos[n]compañeros. Si haces eso, seguro que todos los[n]d胤as estar茨n llenos de diversión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 15063]Ribbon-san, por favor, espera lo que te hace[n]"especial"[n][f 1 3 65535][f 1 1][e]
@@ -128,7 +128,7 @@
 
 [msg MSG_038 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 1 5][f 6 1 27 0 0 0]�[n][f 3 1 1 0 0 19068][f 6 1 3 0 0 1]Mmhm... I feel like I'm overwhelmed[n]with emotions.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 12 2 1][f 3 1 1 0 0 0]Ribbon-chan estuvo solo todo este tiempo...[n]Supongo que sigo comparando mi propia[n]situaci吋n con la suya.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 2 1][f 3 1 1 0 0 0]Ribbon-chan estuvo solo todo este tiempo...[n]Supongo que sigo comparando mi propia[n]situación con la suya.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_039 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Est茨s bien?[f 2 7 1 20 0 32][e]
@@ -170,7 +170,7 @@
 
 [msg MSG_048 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13069][f 6 1 3 0 0 3]Como alguien que lucha junto a nosotros,[n]usted ha demostrado su lealtad y fiabilidad[n]lo suficiente para ganar nuestra[n]confianza.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 3][f 3 1 1 0 0 0]Si deseas que lo ponga claramente en palabras,[n]creo que puedo hablar por todos nosotros[n]cuando digo que eres nuestro[n]compa�ero.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 3][f 3 1 1 0 0 0]Si deseas que lo ponga claramente en palabras,[n]creo que puedo hablar por todos nosotros[n]cuando digo que eres nuestro[n]compañero.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Mitsuru-senpai...![n][f 1 3 65535][f 1 1][e]
@@ -180,7 +180,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Soy el verdadero h姻roe gordo para salvar al[n]mundo! 斡D姻melo, The Junpei Iori! Bueno,[n]un Junpei.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 6][f 3 1 1 0 0 10091][f 6 1 2 0 0 3]Ugh, mi est吋mago se est茨 metiendo en el mero[n]pensamiento de m雨ltiples Junpeis...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 6][f 3 1 1 0 0 10091][f 6 1 2 0 0 3]Ugh, mi estómago se est茨 metiendo en el mero[n]pensamiento de m雨ltiples Junpeis...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso uno es demasiado para nuestra[n]existencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Junpei]]

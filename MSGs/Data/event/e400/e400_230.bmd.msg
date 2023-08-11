@@ -5,17 +5,17 @@
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 2]Sab胤a que no iba a ser nada, pero a雨n as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 6 0 6][f 3 1 1 0 0 3]No s姻 c吋mo decirlo, eso fue una mierda[n]desordenada. No puedo creer que la gente le[n]hiciera eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 6 0 6][f 3 1 1 0 0 3]No s姻 cómo decirlo, eso fue una mierda[n]desordenada. No puedo creer que la gente le[n]hiciera eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 0 0][f 3 1 1 0 0 4][f 6 1 2 0 0 3]Todo lo que quer胤a era ayudar a su amiga,[n]pero termin� con la bota en su lugar...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Incluso si hubieran hecho sus puntos con sus[n]pu�os, no ser胤a justo meterlos en una[n]persona. No entiendo esa canci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 0 0][f 3 1 1 0 0 4][f 6 1 2 0 0 3]Todo lo que quer胤a era ayudar a su amiga,[n]pero terminó con la bota en su lugar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Incluso si hubieran hecho sus puntos con sus[n]puños, no ser胤a justo meterlos en una[n]persona. No entiendo esa canción.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 11 10 0 4][f 3 1 1 0 0 6][f 6 1 2 0 0 0]Whoa, whoa! 夷Qu姻 te hace pensar que una pelea[n]de pu�os resolver胤a lo que acabamos de[n]ver?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 11 10 0 4][f 3 1 1 0 0 6][f 6 1 2 0 0 0]Whoa, whoa! 夷Qu姻 te hace pensar que una pelea[n]de puños resolver胤a lo que acabamos de[n]ver?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 15 6 0 0][f 3 1 1 0 0 7]Ni siquiera puedo imaginar cu茨nto este[n]incidente doli� a Hikari-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 15 6 0 0][f 3 1 1 0 0 7]Ni siquiera puedo imaginar cu茨nto este[n]incidente dolió a Hikari-san...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Escuela Media Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 8]夷Qu姻 son los amigos? Si nuestras opiniones[n]son diferentes... 夷Ya no podemos ser[n]amigos?[n][f 1 3 65535][f 1 1][e]
@@ -26,8 +26,8 @@
 
 [msg MSG_008 [Escuela Media Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 11]Una vez vi una pel胤cula, donde los dinosaurios[n]trabajaban juntos en sus problemas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Se trataba de estos dinosaurios d姻biles que[n]arriesgaron sus vidas para salvar a un[n]compa�ero que hab胤a sido separado de[n]ellos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Fue muy emocional. Me hizo pensar que tener[n]compa�eros y amigos as胤 ser胤a tan[n]agradable...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Se trataba de estos dinosaurios d姻biles que[n]arriesgaron sus vidas para salvar a un[n]compañero que hab胤a sido separado de[n]ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Fue muy emocional. Me hizo pensar que tener[n]compañeros y amigos as胤 ser胤a tan[n]agradable...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008_5 [Escuela Media Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 3 0][f 3 1 1 0 0 14]Por eso, si alguna vez tuviera un amigo en[n]problemas, les ayudar胤a, como en la[n]pel胤cula![n][f 1 3 65535][f 1 1][e]
@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 16]Tienes que ser igual que todos los dem茨s. Si[n]sales de la l胤nea, te tratan como un[n]problema.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Escuela Media Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 37 2 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]A pesar de eso... 斡Todav胤a quer胤a ayudar a[n]mis amigos y compa�eros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 37 2 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]A pesar de eso... 斡Todav胤a quer胤a ayudar a[n]mis amigos y compañeros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 7 2 0][f 3 1 1 0 0 18]Si hubiera ido tranquilamente con todos los[n]dem茨s, no habr胤a sido tratado de esa[n]manera...[n][f 1 3 65535][f 1 1][e]

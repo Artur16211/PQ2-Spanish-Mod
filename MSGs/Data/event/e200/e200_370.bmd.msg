@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 3 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19117][f 6 1 2 0 0 6]Look, there they are![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 4][f 3 1 1 0 0 0]斡Aha! 斡Por fin llegamos al reba�o![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 4][f 3 1 1 0 0 0]斡Aha! 斡Por fin llegamos al rebaño![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Herbivore Elegante]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 42 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Oye, esos humanos han vuelto... 夷Nos[n]siguieron?[n][f 1 3 65535][f 1 1][e]
@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷De ninguna manera? 斡Pens姻 que bloqueamos el[n]camino![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 23052]斡Heheh! 斡Como si renunciara a un obst茨culo[n]tan peque�o![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 23052]斡Heheh! 斡Como si renunciara a un obst茨culo[n]tan pequeño![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Herb胤voro Timid]]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Pero... 夷por qu姻 nos sigues?[n][f 1 3 65535][f 1 1][e]
@@ -29,12 +29,12 @@
 [f 0 5 65278][f 2 1][f 4 6 3 1 0 1][f 6 1 25 0 0 0][f 4 6 34 1 0 3][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]夷Est茨s bien con esto? Sigues suprimiendo c吋mo[n]te sientes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]夷Est茨s bien con esto? Sigues suprimiendo cómo[n]te sientes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Est茨s realmente satisfecho con ser el tipo[n]de chico para abandonar a tus amigos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 4 0 0][f 3 1 1 0 0 34021][f 6 1 2 0 0 6]斡No puedo evitarlo! 斡Esto es lo que todos[n]votaron![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 0]Es la regla de la manada... 斡Si voy en contra,[n]ser姻 el que sali� a patadas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 0]Es la regla de la manada... 斡Si voy en contra,[n]ser姻 el que salió a patadas![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡D姻jame en paz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yukiko]]
@@ -54,14 +54,14 @@
 
 [msg MSG_017 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Cierto. Supongo que me estaba calentando con[n]姻l.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es como... Puedo entender c吋mo se siente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es como... Puedo entender cómo se siente.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Porque te ves igual?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]夷Por qu姻?[f 2 7 1 20 0 32][e]
 
 [msg MSG_019 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 4 2 0][f 3 1 1 0 0 3010][f 6 1 2 0 0 3]Bueno, supongo que eso podr胤a ser parte de[n]ello. Pero es m茨s porque me recuerda c吋mo[n]sol胤a ser...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 4 2 0][f 3 1 1 0 0 3010][f 6 1 2 0 0 3]Bueno, supongo que eso podr胤a ser parte de[n]ello. Pero es m茨s porque me recuerda cómo[n]sol胤a ser...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 2 0][f 3 1 1 0 0 3009]Bueno, no es tan interesante ni nada...[n][f 1 3 65535][f 1 1][e]
@@ -74,12 +74,12 @@
 
 [msg MSG_023 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 2 0][f 3 1 1 0 0 3011]Por eso me reir胤a o ir胤a con lo que los otros[n]dec胤an, as胤 que no me sentir胤a[n]aislado...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, termin姻 escondiendo c吋mo me sent胤a todo[n]el tiempo. Incluso cuando no estaba de[n]acuerdo con lo que dijeron, me la chup姻.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si no hubiera hecho eso, ser胤a la extra�a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, termin姻 escondiendo cómo me sent胤a todo[n]el tiempo. Incluso cuando no estaba de[n]acuerdo con lo que dijeron, me la chup姻.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si no hubiera hecho eso, ser胤a la extraña?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 99 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500]S姻 lo dif胤cil que es sentirse solo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Podr胤a haber un mont吋n de gente a tu alrededor,[n]pero todav胤a sientes como si te[n]quedaras como un mal pulgar. Puede ser[n]aterrador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Podr胤a haber un montón de gente a tu alrededor,[n]pero todav胤a sientes como si te[n]quedaras como un mal pulgar. Puede ser[n]aterrador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 3 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19010]It sure is hard to be alone...[n][f 1 3 65535][f 1 1][e]
@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Cuando la familia de Yosuke-kun vino por[n]primera vez a Yasoinaba, se escrutaron[n]bastante por su negocio...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]S胤, no importa ad吋nde fui, siempre fue lo[n]mismo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]S胤, no importa adónde fui, siempre fue lo[n]mismo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siempre evaluar胤a las reacciones de la gente[n]para ver si les gustaba... Todas mis[n]relaciones se sent胤an tan falsas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Eso es, hasta que conoc胤 a estos tipos.[n][f 1 3 65535][f 1 1][e]
 
@@ -127,7 +127,7 @@
 [msg MSG_038 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3003][f 6 1 2 0 0 6]U-Uhh... Bueno, de todos modos![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Quiero darle a Yosukesaurus y a los otros[n]dinosaurios un pedazo de mi mente![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si todos son realmente compa�eros, necesitan[n]dejar de preocuparse por las reacciones[n]de otros y ser honestos entre s胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si todos son realmente compañeros, necesitan[n]dejar de preocuparse por las reacciones[n]de otros y ser honestos entre s胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]Yeah, we'll find them and tell them[n]exactly that.[n][f 1 3 65535][f 1 1][e]

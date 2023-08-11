@@ -7,8 +7,8 @@
 [f 0 5 65278][f 2 1]夷Qu姻 averiguaste?[f 2 7 1 64 12 0][e]
 
 [msg MSG_002 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54059]Bueno, por favor tenga en cuenta que esto es[n]principalmente especulaci吋n, pero...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]En la proyecci吋n especial en cuesti吋n, [f 6 1 30 0 0][n]se comprometi� en batalla, como[n]se solicit� en su billete.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 54059]Bueno, por favor tenga en cuenta que esto es[n]principalmente especulación, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]In the special screening in question,[n][f 6 1 30 0 0 0] engaged in battle, as[n]requested on its ticket.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La pel胤cula fue dejada por la Sombra derrotada[n]por el poder de [f 6 1 30 0 0 0]. En[n]otras palabras...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Imagino que su poder es directamente responsable[n]de la apariencia de la pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
@@ -24,14 +24,14 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Me refiero a las posibilidades ilimitadas de[n]dormir dentro de ti. Lo conocemos como[n]el poder de la tarjeta salvaje.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Y aquellos con el poder de la tarjeta salvaje[n]nunca ganan tal poder sin raz吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Y aquellos con el poder de la tarjeta salvaje[n]nunca ganan tal poder sin razón.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En otras palabras, esa pel胤cula es una clave,[n]una destinada a sacar m茨s posibilidades[n]de dentro de ti...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 1 3][f 3 1 1 0 0 28008]Hmm... Eso parece un poco de alcance para[n]m胤, pero supongamos que esta pel胤cula es[n]realmente un "key" a su poder.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007_1 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 30 0 0 0] 姻l no parece haber cambiado mucho... 夷C吋mo[n]explicas eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 30 0 0 0] 姻l no parece haber cambiado mucho... 夷Cómo[n]explicas eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 4 6 80 4 0 3][f 3 1 1 0 0 56034][f 6 1 2 0 0 10]斡Es suficiente, hermana![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 6 0 0][f 3 1 1 0 0 0]Incluso la mera menci吋n de ello... Puedo[n]sentir mi lengua revolvi姻ndose en polvo sin[n]vida...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 6 0 0][f 3 1 1 0 0 0]Incluso la mera mención de ello... Puedo[n]sentir mi lengua revolvi姻ndose en polvo sin[n]vida...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 4 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Qu姻 clase de PTSD es eso...? 夷Qu姻 te hizo?[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 80 10 0 0][f 3 1 1 0 0 56052]夷Huh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016_1 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Un combate...? 夷Quieres que luche [f 6 1 30 0 0][n]y sus compa�eros!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]A bout...? You want me to fight[n][f 6 1 30 0 0 0] and his companions!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]斡De hecho! Naturalmente, no hay necesidad de[n]retener.[n][f 1 3 65535][f 1 1][e]
@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]夷Esto es por el poder de la tarjeta salvaje?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 3][f 3 1 1 0 0 25021][f 6 1 2 0 0 4]C吋mo luchar 夷Theodore va a resolver algo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 3][f 3 1 1 0 0 25021][f 6 1 2 0 0 4]Cómo luchar 夷Theodore va a resolver algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 100 0][f 3 1 1 0 0 0]Felizmente explicar姻 m茨s cuando hayas sacado[n]la mierda de Theo.[n][f 1 3 65535][f 1 1][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 4 2 0][f 3 1 1 0 0 54031][f 6 1 2 0 0 1]斡Ven ahora, y lo presenciar姻 todo! Theo VS.[n]斡Todos! 斡Ronda 1! 斡Fight![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 14 1 3][f 3 1 1 0 0 0]Zabby est茨 hip吋crita.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 14 1 3][f 3 1 1 0 0 0]Zabby est茨 hipócrita.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 6 0 1][f 3 1 1 0 0 56087][f 6 1 2 0 0 9]... Bueno, estoy seguro de que ya lo sabes.[n]Una vez que mi hermana se apodera de una[n]idea, hay poco sentido resistiendo.[n][f 1 3 65535][f 1 1][e]

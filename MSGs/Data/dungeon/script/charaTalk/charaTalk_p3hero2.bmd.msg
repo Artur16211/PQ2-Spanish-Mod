@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 19077]Êñ°Roger eso! Busquemos, Êñ°pero tambiÂßªn seamos[n]inteligentes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 19075]Tienes razÂêãn. Êñ°No![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 19075]Tienes raz√≥n. Êñ°No![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]„Ä„Ä[n][f 3 1 1 0 0 19009]Â§∑Eso es todo? Â§∑QuizËå®?[n][f 1 3 65535][f 1 1][e]

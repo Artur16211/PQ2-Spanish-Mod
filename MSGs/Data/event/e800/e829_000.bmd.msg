@@ -1,6 +1,6 @@
 [msg MSG_000 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 6 0 3][f 3 1 1 0 0 7054]Es un callej吋n sin salida.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Este lugar est茨 loco. Primero se acab�. 夷Qu姻[n]sigue?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 6 0 3][f 3 1 1 0 0 7054]Es un callejón sin salida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Este lugar est茨 loco. Primero se acabó. 夷Qu姻[n]sigue?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 1064]Yeah, it's a puzzle for sure... Let's take a[n]break.[n][f 1 3 65535][f 1 1][e]
@@ -46,7 +46,7 @@
 
 [msg MSG_013 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 3][f 3 1 1 0 0 16031]夷Est茨s hablando de Feather Owl?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El guarda amarillo siempre le gusta el curry.[n]Se ha convertido en un rasgo de car茨cter[n]a lo largo de los a�os.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El guarda amarillo siempre le gusta el curry.[n]Se ha convertido en un rasgo de car茨cter[n]a lo largo de los años.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0]Owl es de Featherman R! 夷Supongo que eres un[n]fan?[n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Ser胤as Red, Ken? 夷O quiz茨s el negro fresco?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]Soy m茨s joven que todos, as胤 que dir胤a que[n]Red es Joker o [f 6 1 16 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]I-I'm younger than everyone, so[n]I'd say Red is either Joker or[n][f 6 1 16 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_022 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Phoenix Ranger![f 2 7 1 20 0 1][e]
@@ -100,5 +100,5 @@
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]Espera, 夷entonces soy un tipo malo ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyecci吋n especial: "Aprender del[n]tipo malo" se ha a�adido a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Una nueva proyección especial: "Aprender del[n]tipo malo" se ha añadido a la taquilla.[n][f 1 3 65535][f 1 1][e]
 

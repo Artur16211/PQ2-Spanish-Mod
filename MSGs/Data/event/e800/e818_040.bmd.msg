@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 8 4 0][f 3 1 1 0 0 10033][f 6 1 2 0 0 9]夷S胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14570][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Eso deja s吋lo un material m茨s raro. 斡Van a[n]un gran ritmo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14570][f 3 1 6 0 0 500][f 6 1 2 0 0 6]Eso deja sólo un material m茨s raro. 斡Van a[n]un gran ritmo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19031]It's all thanks to you, Fuuka. You're just[n]as reliable as ever.[n][f 1 3 65535][f 1 1][e]
@@ -50,10 +50,10 @@
 
 [msg MSG_014 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 0]No es eso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 0][f 3 1 1 0 0 14532]Es s吋lo, cuanto m茨s oigo, m茨s creo que la[n]persona de la que est茨s hablando soy yo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 0][f 3 1 1 0 0 14532]Es sólo, cuanto m茨s oigo, m茨s creo que la[n]persona de la que est茨s hablando soy yo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11010]Al principio, se sinti� raro que alguien que[n]nunca conociste te conociera muy bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11010]Al principio, se sintió raro que alguien que[n]nunca conociste te conociera muy bien.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 11032][f 6 1 2 0 0 6]Pero si el otro yo dice que es una amiga,[n]entonces todo est茨 bien![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Quiero decir, soy yo. Puedo confiar en m胤[n]mismo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
@@ -64,8 +64,8 @@
 [f 0 5 65278][f 2 1][f 4 6 10 18 2 4][f 3 1 1 0 0 10094]Supongo que puede decir algo agradable de[n]vez en cuando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11045]夷Todos est茨n empezando a ver que hay m茨s a[n]Junpei de lo que pensaban? Siento[n]decepcionarte, se�oritas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 0]Pero me temo que mi coraz吋n pertenece a[n]Chidorita...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11045]夷Todos est茨n empezando a ver que hay m茨s a[n]Junpei de lo que pensaban? Siento[n]decepcionarte, señoritas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 0]Pero me temo que mi corazón pertenece a[n]Chidorita...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_019 top]
 [f 0 5 65278][f 2 1][f 4 6 10 1 0 4][f 4 7 13 0 0][f 4 6 20 1 0 0]Lo que sea.[f 2 7 1 20 6 32][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19091]Well, what else would you expect from[n]Junpei? C'mon, let's go.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10067][f 6 1 2 0 0 4]S胤. 夷D吋nde a continuaci吋n, Fuuka?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10067][f 6 1 2 0 0 4]S胤. 夷Dónde a continuación, Fuuka?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 1][f 3 1 1 0 0 0]Lo 雨ltimo que necesitamos es el Oso Teddy de[n]un Mago Fantasma en 4-B.[n][f 1 3 65535][f 1 1][e]

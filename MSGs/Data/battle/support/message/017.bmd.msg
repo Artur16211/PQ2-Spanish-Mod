@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23310][e]
 
 [msg BTL_MES_023_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23311]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23311]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_010]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23312]斡REVISTA[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23321]Alternativamente..[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23322]Nunca hab胤amos visto eso antes. 斡Encontremos[n]su debilidad! 斡T吋malo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23322]Nunca hab胤amos visto eso antes. 斡Encontremos[n]su debilidad! 斡Tómalo![n][f 1 6 65535][e]
 
 [msg BTL_MES_023_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23323]斡Testigo[n][f 1 6 65535][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23326]斡Esto ser茨 una brisa![n][f 1 6 65535][e]
 
 [msg BTL_MES_023_018]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23327]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23327]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_019]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23328]Ooh! 夷Qu姻 es esto?[n][f 1 6 65535][e]
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23418]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_042]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23419]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23419]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_043]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23420]夷Qu姻[n][f 1 6 65535][e]
@@ -173,7 +173,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23345]斡Heheheh! 斡Mi tiempo para brillar![n][f 1 6 65535][e]
 
 [msg BTL_MES_023_058]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23501]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23501]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_059]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23502]斡No[n][f 1 6 65535][e]
@@ -191,7 +191,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23506]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_064]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23507]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23507]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_065]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23508]斡No[n][f 1 6 65535][e]
@@ -200,13 +200,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23509]Alternativamente... Identificarse nuevamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_067]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23510]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23510]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_068]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23511]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23511]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_069]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23512]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23512]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_070]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23513]斡No[n][f 1 6 65535][e]
@@ -218,13 +218,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23515]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_073]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23516]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23516]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_074]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23517]ANTERIORADAMENTE REALMENTE[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_075]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23518]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23518]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_076]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23519]斡No[n][f 1 6 65535][e]
@@ -242,10 +242,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23523]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_081]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23524]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23524]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_082]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23525]斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23525]斡M茨s información[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_083]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23526]Alternativamente[n][f 1 6 65535][e]

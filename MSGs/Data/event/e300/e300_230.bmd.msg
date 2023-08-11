@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 10 0 0][f 3 1 1 0 0 22055][f 6 1 2 0 0 0]Espera, 夷"desposado de "?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, si no podemos adaptarnos, acabaremos[n]en el horno de explosi吋n... que es una[n]manera de disponer de algo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, si no podemos adaptarnos, acabaremos[n]en el horno de explosión... que es una[n]manera de disponer de algo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]ESO ES LO QUE FUNCIONA DESPROP遺SITO AQU緯.[n]CUALQUIER TROPIEZO CON UN PASAJE DE FAMILIA[n]EST� COMPLETAMENTE ARRASADO.[n][f 1 3 65535][f 1 1][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA VAMOS A ABRIR LA SALIDA.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 5 12 0 1][f 3 1 1 0 0 5008][f 6 1 2 0 0 4]As胤 que esto es lo que significan por[n]adaptaci吋n. No tenemos m茨s remedio que cruzar[n]esta viga, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 5 12 0 1][f 3 1 1 0 0 5008][f 6 1 2 0 0 4]As胤 que esto es lo que significan por[n]adaptación. No tenemos m茨s remedio que cruzar[n]esta viga, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_011 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Esto es aterrador...[f 2 7 1 20 4 32][e]
@@ -52,10 +52,10 @@
 [f 0 5 65278][f 2 1][f 4 6 22 8 1 6][f 3 1 1 0 0 22109][f 6 1 2 0 0 4]夷Qu姻 es tan gracioso, Fox? Tienes que cruzarlo[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 10 0 1][f 3 1 1 0 0 16047][f 6 1 2 0 0 6]夷En serio? No me extra�a que seas un ladr吋n[n]fantasma![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 10 0 1][f 3 1 1 0 0 16047][f 6 1 2 0 0 6]夷En serio? No me extraña que seas un ladrón[n]fantasma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 4][f 3 1 1 0 0 22051][f 6 1 2 0 0 6]斡Este examen no tiene nada que ver con ser[n]un ladr吋n fantasma! 斡No levantes el bar[n]de arriba![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 4][f 3 1 1 0 0 22051][f 6 1 2 0 0 6]斡Este examen no tiene nada que ver con ser[n]un ladrón fantasma! 斡No levantes el bar[n]de arriba![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24032]S胤, estar cerca del cielo tambi姻n me odia.[n]Tambi姻n ofrece una gran vista a veces.[n][f 1 3 65535][f 1 1][e]
@@ -64,11 +64,11 @@
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Oh, cierto... Todo lo que puedo ver es un[n]final tostado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 12 0 3][f 3 1 1 0 0 10114]Sabes, podr胤an llamar a este examen un "ex茨men[n]de adaptaci吋n" para robots...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 12 0 3][f 3 1 1 0 0 10114]Sabes, podr胤an llamar a este examen un "ex茨men[n]de adaptación" para robots...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero esto no es m茨s como una prueba de vida[n]o muerte para gente como nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 5008]夷C吋mo podemos cruzar esto? Ser胤a m茨s f茨cil[n]imaginar si pudi姻ramos ver un ejemplo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 5008]夷Cómo podemos cruzar esto? Ser胤a m茨s f茨cil[n]imaginar si pudi姻ramos ver un ejemplo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 16 1 0 3][f 4 6 17 0 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Arf![n][f 1 2 30][f 1 1][e]
@@ -109,7 +109,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 3 1 1 0 0 0][f 6 1 3 0 0 3]Parece que ha llegado mi hora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 1 0 3][f 4 6 16 2 0 6][f 3 1 1 0 0 16049][f 6 1 2 0 0 6]斡No puedo creer que est姻 caminando por eso[n]con tanta confianza! No es de extra�ar[n]que sea el l胤der de los Ladrones Fantasma![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 1 0 3][f 4 6 16 2 0 6][f 3 1 1 0 0 16049][f 6 1 2 0 0 6]斡No puedo creer que est姻 caminando por eso[n]con tanta confianza! No es de extrañar[n]que sea el l胤der de los Ladrones Fantasma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 0]Su equilibrio es tan perfecto, incluso a esa[n]velocidad...[n][f 1 3 65535][f 1 1][e]
@@ -124,19 +124,19 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35022]ESO FUE UN MILAGRO VITAL QUE PROMETISTE. HE[n]CERRADO EL SUR M威S FUERTE POR CRUZAR.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 2 6][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]夷Qu姻 quieres decir con la ruta m茨s segura?[n]夷No hay s吋lo un rayo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 2 6][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]夷Qu姻 quieres decir con la ruta m茨s segura?[n]夷No hay sólo un rayo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 6 0 3][f 3 1 1 0 0 27097][f 6 1 2 0 0 4]Ah胤 va... Me pregunto si estar茨 bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 0]Dijo que encontr� la ruta m茨s segura. Dudo[n]que caiga despu姻s de esos c茨lculos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 0]Dijo que encontró la ruta m茨s segura. Dudo[n]que caiga despu姻s de esos c茨lculos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Parece que est茨 cruzando el centro de la viga[n]como normal...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 22045]斡Lo logr�![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 22045]斡Lo logró![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Sooo... 夷Qui姻n sigue?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Haru]]
@@ -161,14 +161,14 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 3][f 3 1 1 0 0 24031]Ha... En ese caso, deber胤a seguir adelante.[n]斡Voy a encarnar la belleza misma con mi[n]t姻cnica![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_048 top]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 1]夷Puede, Fox? S吋lo ven aqu胤.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 1]夷Puede, Fox? Sólo ven aqu胤.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Mesmeriza a todos, Fox.[f 2 7 1 20 2 32][e]
 
 [msg MSG_049 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 2 0 3][f 3 1 1 0 0 24067]Entendido. Quema mi imagen en tus retinas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 1][f 3 1 1 0 0 0]Fox comenz� a cruzar la viga de acero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 1][f 3 1 1 0 0 0]Fox comenzó a cruzar la viga de acero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora se mueve salvajemente...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Ann]]
@@ -190,7 +190,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 1 0 6][f 4 6 10 10 0 3][f 3 1 1 0 0 10060][f 6 1 2 0 0 4]夷Qu姻 est茨 haciendo? 夷Est茨... realmente[n]arriesgando su vida en una broma? Se supone[n]que debo re胤r, o...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 0 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 6]斡畏sta es la relaci吋n de oro del equilibrio![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 0 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 6]斡畏sta es la relación de oro del equilibrio![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 1 0 3][f 4 6 22 8 1 6][f 3 1 1 0 0 22035]斡Sheesh, no nos asustes as胤, Fox! De todos[n]modos... est茨 al otro lado ahora.[n][f 1 3 65535][f 1 1][e]
@@ -226,7 +226,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 16 2 3][f 4 6 22 4 2 6][f 3 1 1 0 0 0]Oh mierda, mis piernas est茨n temblando...[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_069 [Ken]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6][f 6 1 3 0 0 1]斡S吋lo un poco m茨s! No lo pienses, 斡s吋lo sigue[n]movi姻ndote![n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6][f 6 1 3 0 0 1]斡Sólo un poco m茨s! No lo pienses, 斡sólo sigue[n]movi姻ndote![n][f 1 2 60][f 1 1][e]
 
 [msg MSG_070 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 8 2 1][f 3 1 1 0 0 22091][f 6 1 2 0 0 10]Ah, finalmente lo logramos... Estaba sudando[n]balas.[n][f 1 3 65535][f 1 1][e]
@@ -242,7 +242,7 @@
 
 [sel SEL_074 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Lo hiciste genial.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Podr胤as ser un ladr吋n fantasma.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]Podr胤as ser un ladrón fantasma.[f 2 7 1 20 2 32][e]
 
 [msg MSG_075 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 16031]Heheh... De nuevo, todo lo que hice fue seguir[n]tu pista.[n][f 1 3 65535][f 1 1][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 6 2 4][f 3 1 1 0 0 22072]Nos gustar胤a darle la bienvenida en el equipo,[n]Ken-kun.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]夷En serio? Heheh, un ladr吋n fantasma, eh...[n]斡Incre胤ble![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]夷En serio? Heheh, un ladrón fantasma, eh...[n]斡Incre胤ble![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf arf![n][f 1 3 65535][f 1 1][e]
@@ -276,7 +276,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10059][f 6 1 2 0 0 0]夷Qu姻? 斡No puedes hablar en serio! 斡Tenemos[n]que ir todos juntos y en tres minutos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_085 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh, apareci� otro rayo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh, apareció otro rayo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [Sistema De Examen Ai]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]EL TIEMPO EST� CANSADO. NEGOCIANDO LA SEGUNDA[n]SECCI遺N DEL EX威MEN...[n][f 1 3 65535][f 1 1][e]
@@ -376,7 +376,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 24 8 1 6][f 3 1 1 0 0 24032]Ah, s胤. Disculpe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_113 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 27067]El interruptor de liberaci吋n de seguridad[n]deber胤a estar adelante. 斡Vamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 27067]El interruptor de liberación de seguridad[n]deber胤a estar adelante. 斡Vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_114 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 4][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
@@ -409,13 +409,13 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 3][f 3 1 1 0 0 25074]Excelente, Mona, otra respuesta correcta.[n]Eres el 雨ltimo, Hanamura-kun.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_124 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3092][f 6 1 2 0 0 10]R-Right... 斡Hora de flexi吋n mis habilidades[n]como jefe de operaciones![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3092][f 6 1 2 0 0 10]R-Right... 斡Hora de flexión mis habilidades[n]como jefe de operaciones![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_125 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19077]Just calm down, Yosuke-kun. You'll be[n]fine if you think it through.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_126 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8067][f 6 1 27 0 0 0]- tiene raz吋n, enf吋quese en mantener la[n]calma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8067][f 6 1 27 0 0 0]- tiene razón, enfóquese en mantener la[n]calma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_127 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 19130][f 6 1 2 0 0 6]If it comes down to it, we'll be here to[n]help you out, so stay confident![n][f 1 3 65535][f 1 1][e]

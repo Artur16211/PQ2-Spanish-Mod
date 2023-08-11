@@ -1,17 +1,17 @@
 [msg MSG_000]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]El puesto de concesi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]El puesto de concesión...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ann y Ryuji est茨n explicando el plan a[n]Theodore...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 3][f 4 6 65 1 0 4][f 4 6 66 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... Y por eso necesitamos tantos. 夷Podr胤as[n]prepararlos para nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 10 0 0][f 3 1 1 0 0 56041]Querido m胤o, esta es la petici吋n audaz...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 10 0 0][f 3 1 1 0 0 56041]Querido m胤o, esta es la petición audaz...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 80 2 0 0][f 3 1 1 0 0 0]Pero tambi姻n es un plan muy emocionante. Los[n]preparar姻 de inmediato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Gracias, Theodore![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 65 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... Oh hey, no te vi all胤, [f 6 1 30 0 0].[n]夷Has venido a revisarnos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 65 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]...Oh hey, didn't see you there,[n][f 6 1 30 0 0 0]. Did you come to[n]check up on us?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22031]*Grecha* Parece que nuestra parte va a[n]funcionar. Pero era un orden bastante alto.[n][f 1 3 65535][f 1 1][e]
@@ -23,10 +23,10 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 1 0 1][f 4 6 65 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Tenemos que sorprender a ese falso h姻roe,[n]as胤 que ser茨 mejor que esto se vea bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 22071][f 6 1 2 0 0 3]斡Correcto! S姻 que es alguien m茨s, pero todav胤a[n]tiene la cara de ese bastardo... S吋lo[n]me cabrea m茨s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 22071][f 6 1 2 0 0 3]斡Correcto! S姻 que es alguien m茨s, pero todav胤a[n]tiene la cara de ese bastardo... Sólo[n]me cabrea m茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 6 3 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eh... Entonces, 夷c吋mo habr胤as reaccionado si[n]Kamoshidaman estuviera s雨per caliente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 6 3 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eh... Entonces, 夷cómo habr胤as reaccionado si[n]Kamoshidaman estuviera s雨per caliente?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]El mal es malo, no importa cu茨n caliente.[f 2 7 1 64 6 32][e]

@@ -5,8 +5,8 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 1 0 3][f 4 6 10 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 fue eso? 夷Era parte de los recuerdos de[n]Hikari-chan tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28067]S胤, eso tambi姻n fue de su 姻poca en la escuela[n]primaria. El orador la llam� "Hikari"[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 0]Y como ella lo llam� "Pap茨", eso[n]significar胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28067]S胤, eso tambi姻n fue de su 姻poca en la escuela[n]primaria. El orador la llamó "Hikari"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 0]Y como ella lo llamó "Pap茨", eso[n]significar胤a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 12 2 1][f 3 1 1 0 0 61012]Mi... Nngh...[n][f 1 3 65535][f 1 1][e]

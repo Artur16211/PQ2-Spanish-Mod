@@ -11,18 +11,18 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 2 0][f 3 1 1 0 0 4][f 6 1 2 0 0 10]Hikari-chan estaba viendo el final de la[n]pel胤cula aqu胤 con nosotros.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 2 1 6][f 3 1 1 0 0 5]Entonces, Doe vino y escupi� la tercera[n]llave.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 1 6][f 3 1 1 0 0 5]Entonces, Doe vino y escupió la tercera[n]llave.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6]Fuuka-chan fue a recogerlo, y estaba tratando[n]de contactar con ustedes para[n]cont茨rselo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 7]Estuvimos a salvo un momento... y Doe se[n]llev� a Hikari-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 7]Estuvimos a salvo un momento... y Doe se[n]llevó a Hikari-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 4 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 2]Maldici吋n... 斡Ese esponjoso saco de mierda![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 4 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 2]Maldición... 斡Ese esponjoso saco de mierda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 9]Me disculpo profundamente por esto. Sucedi吋[n]cuando me hab胤a alejado para abordar otro[n]asunto...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Busqu姻 por todas partes inmediatamente despu姻s[n]de escuchar lo que pas�, pero no est茨[n]donde encontrarla...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 9]Me disculpo profundamente por esto. Sucedió[n]cuando me hab胤a alejado para abordar otro[n]asunto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Busqu姻 por todas partes inmediatamente despu姻s[n]de escuchar lo que pasó, pero no est茨[n]donde encontrarla...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 1][f 3 1 1 0 0 11]Pensar que Doe har胤a tal cosa... Hab胤amos[n]dejado nuestra guardia abajo.[n][f 1 3 65535][f 1 1][e]
@@ -42,15 +42,15 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 16][f 6 1 2 0 0 3]Ese tipo de mirada no es normal en absoluto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 6][f 3 1 1 0 0 17]Cierto, parec胤a tener alg雨n tipo de fijaci吋n[n]con ella.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 6][f 3 1 1 0 0 17]Cierto, parec胤a tener alg雨n tipo de fijación[n]con ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 4 0 1][f 3 1 1 0 0 18][f 6 1 2 0 0 6]Si quiere ser una mascota, necesita ser[n]adorablemente malicioso como yo, no algunos...[n]alg雨n rufian![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 1]斡Estaba descalificado de ser una mascota en[n]el momento en que secuestr� a Hikarin![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 1]斡Estaba descalificado de ser una mascota en[n]el momento en que secuestró a Hikarin![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 2 1 3][f 3 1 1 0 0 20]Pero... pero... hice lo mejor que pude...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 70 4 0 3][f 3 1 1 0 0 21][f 6 1 2 0 0 6]夷Por qu姻? 斡La pel胤cula tambi姻n result� tan[n]bonita![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 4 0 3][f 3 1 1 0 0 21][f 6 1 2 0 0 6]夷Por qu姻? 斡La pel胤cula tambi姻n resultó tan[n]bonita![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 1][f 3 1 1 0 0 22]Futaba-san...[n][f 1 3 65535][f 1 1][e]
@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 3 0][f 3 1 1 0 0 24][f 6 1 2 0 0 6]Uno que muestra su individualidad no es[n]malo... 斡Que en realidad es algo bueno![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 25]Futaba... Puedo entender c吋mo te sientes,[n]pero deber胤as tratar de calmarte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 25]Futaba... Puedo entender cómo te sientes,[n]pero deber胤as tratar de calmarte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 26]He's right. It's frightening, but we need[n]to keep our wits about us now more[n]than ever.[n][f 1 3 65535][f 1 1][e]
@@ -78,11 +78,11 @@
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 30]Bueno, tenemos un grupo bastante agradable.[n]夷Por qu姻 no asignamos diferentes tareas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 1][f 3 1 1 0 0 31]... Tiene raz吋n. Correr en un gran paquete[n]no nos har茨 mucho bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 1][f 3 1 1 0 0 31]... Tiene razón. Correr en un gran paquete[n]no nos har茨 mucho bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 64 1 0 3][f 4 6 4 12 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡Vamos a buscar a Hikari-chan![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 2 0 0 4]夷Puedes t雨 y tus amigos ir y abrir la cerradura,[n][f 6 1 30 0 0]-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 2 0 0 4]夷Puedes t雨 y tus amigos ir y abrir la cerradura,-kun?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_025 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Est茨 bien.[f 2 7 1 64 2 32][e]

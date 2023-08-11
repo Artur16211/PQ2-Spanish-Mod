@@ -1,5 +1,5 @@
 [msg MSG_000 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 12 1 1][f 3 1 1 0 0 7102]Guh... hah... T-T吋mate eso... 斡Poniste una[n]mierda![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 12 1 1][f 3 1 1 0 0 7102]Guh... hah... T-Tómate eso... 斡Poniste una[n]mierda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷De qui姻n? No puedo moverme.[n][f 1 3 65535][f 1 1][e]
@@ -9,7 +9,7 @@
 
 [msg MSG_003 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 3][f 3 1 1 0 0 12133]Buen trabajo, ustedes dos![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 3][f 3 1 1 0 0 0]Esta fue una simulaci吋n perfecta de ser[n]forzado a luchar incluso despu姻s de golpear[n]sus l胤mites.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 3][f 3 1 1 0 0 0]Esta fue una simulación perfecta de ser[n]forzado a luchar incluso despu姻s de golpear[n]sus l胤mites.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Todav胤a... no s姻 qu姻... Est茨s hablando,[n]pero... Definitivamente he pasado mis malditos[n]l胤mites...[n][f 1 3 65535][f 1 1][e]
@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0]Phew... Dangit... Nunca m茨s...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 3][f 3 1 1 0 0 12070]El entrenamiento le ayuda a estar listo para[n]cualquier enemigo, y cualquier situaci吋n.[n]Ah胤 es cuando sabes que eres fuerte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 3][f 3 1 1 0 0 12070]El entrenamiento le ayuda a estar listo para[n]cualquier enemigo, y cualquier situación.[n]Ah胤 es cuando sabes que eres fuerte.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De lo contrario, no podr茨s proteger lo que[n]es importante cuando llegue el momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Junpei]]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 1 4][f 3 1 1 0 0 11101]S胤, pase duro... Hombre, no puedo moverme...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 6 1 3][f 3 1 1 0 0 0]Todo bien. No te empujes. S吋lo conc姻ntrate[n]en refrescarte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 6 1 3][f 3 1 1 0 0 0]Todo bien. No te empujes. Sólo conc姻ntrate[n]en refrescarte.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 4 0 3][f 3 1 1 0 0 0]Muy bien... Hagamos una simple y regresemos[n]al Cine. 斡Es una carrera![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Kanji]]

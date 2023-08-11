@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 12][f 0 6 255 255]Empecemos con estas dos...[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_009_5]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 13][f 0 6 255 255]斡Venga a presenciar su exhibici吋n de castigo[n]en la Plaza Kamoshida![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 13][f 0 6 255 255]斡Venga a presenciar su exhibición de castigo[n]en la Plaza Kamoshida![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_010]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Qu姻?[n][f 1 2 40][f 1 1][e]

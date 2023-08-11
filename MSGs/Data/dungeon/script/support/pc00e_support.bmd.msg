@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14306]Whew... Parece que sacudiste ese FOE.[n][f 1 6 65535][e]
 
 [msg FUKA_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14307]斡El FOE abandon� la persecuci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14307]斡El FOE abandonó la persecución![n][f 1 6 65535][e]
 
 [msg FUKA_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14308]斡Bien! 斡Hemos perdido el FOE![n][f 1 6 65535][e]
@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14387]夷Ves lo bajo que es tu salud? 斡Esto es[n]peligroso![n][f 1 6 65535][e]
 
 [msg FUKA_PARTY_DEAD_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14388]夷Y si te atacaron en este estado? 斡Haz algo[n]de curaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14388]夷Y si te atacaron en este estado? 斡Haz algo[n]de curación![n][f 1 6 65535][e]
 
 [msg FUKA_PARTY_DEAD_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14389]斡Es tan arriesgado seguir as胤! 夷Qu姻 tal si[n]regresamos?[n][f 1 6 65535][e]
@@ -122,16 +122,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14316]斡Todos est茨n sufriendo de baja salud y[n]energ胤a![n][f 1 6 65535][e]
 
 [msg FUKA_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14317]Algunos de ustedes est茨n muy golpeados.[n]夷Alguien puede hacer algo de curaci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14317]Algunos de ustedes est茨n muy golpeados.[n]夷Alguien puede hacer algo de curación?[n][f 1 6 65535][e]
 
 [msg FUKA_PARTY_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14321]斡Por favor, vigila tu salud![n][f 1 6 65535][e]
 
 [msg FUKA_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14322]斡Est茨s en peligro! 斡Necesitas curaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14322]斡Est茨s en peligro! 斡Necesitas curación![n][f 1 6 65535][e]
 
 [msg FUKA_PARTY_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14323]斡Todo el equipo necesita curaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14323]斡Todo el equipo necesita curación![n][f 1 6 65535][e]
 
 [msg FUKA_1PERSON_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14312]夷Est茨s bien? 斡Deber胤as arreglarte![n][f 1 6 65535][e]
@@ -203,7 +203,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14400]斡Lo tomar姻 de aqu胤, Rise-chan! 斡Vamos, todos![n][f 1 6 65535][e]
 
 [msg RISE_FUKA_ANSWER_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14401]Eso fue una navegaci吋n impresionante. 斡Tengo[n]zapatos grandes para llenar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14401]Eso fue una navegación impresionante. 斡Tengo[n]zapatos grandes para llenar![n][f 1 6 65535][e]
 
 [msg FUTABA_FUKA_MAKASETA_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26399]斡Te lo llevo, Fuuka![n][f 1 6 65535][e]
@@ -263,7 +263,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14364]El mapa se ve genial. 斡Eres un explorador[n]intr姻pido![n][f 1 6 65535][e]
 
 [msg FUKA_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14365]S吋lo un poco m茨s, y este piso est茨 mapeado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14365]Sólo un poco m茨s, y este piso est茨 mapeado![n][f 1 6 65535][e]
 
 [msg FUKA_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14366]斡Est茨s a pocos pasos de terminar tu mapa![n][f 1 6 65535][e]
@@ -275,13 +275,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14368]斡Ahora conoces este piso como la parte[n]posterior de tu mano![n][f 1 6 65535][e]
 
 [msg FUKA_MAPPING_ICON_ALL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14351]斡Buena ubicaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14351]斡Buena ubicación![n][f 1 6 65535][e]
 
 [msg FUKA_MAPPING_ICON_ALL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14352]Tengo que decir... 斡Eres un gran cart吋grafo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14352]Tengo que decir... 斡Eres un gran cartógrafo![n][f 1 6 65535][e]
 
 [msg FUKA_MAPPING_ICON_KAIDAN]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14353]Buena idea... Es importante saber d吋nde est茨n[n]las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14353]Buena idea... Es importante saber dónde est茨n[n]las escaleras.[n][f 1 6 65535][e]
 
 [msg FUKA_MAPPING_ICON_KAIDAN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14354]斡Ahora nunca nos perderemos cuando busquemos[n]las escaleras![n][f 1 6 65535][e]
@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14356]斡Oh wow, incluso est茨s de color![n][f 1 6 65535][e]
 
 [msg FUKA_MAPPING_ICON_DEL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14357]斡Seguro que prestas atenci吋n a los detalles![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14357]斡Seguro que prestas atención a los detalles![n][f 1 6 65535][e]
 
 [msg FUKA_MAPPING_ICON_DEL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14358]Buen pensamiento... No queremos que nuestro[n]mapa se arruine.[n][f 1 6 65535][e]
@@ -314,7 +314,7 @@
 [f 0 5 65278][f 2 1]↑[n][f 1 6 65535][e]
 
 [msg FUKA_KARITORU_ENCOUNT_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14384]Estoy captando una se�al... 斡Cuidado, es el[n]Segador![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14384]Estoy captando una señal... 斡Cuidado, es el[n]Segador![n][f 1 6 65535][e]
 
 [msg FUKA_KARITORU_ENCOUNT_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14385]斡Viene el Segador! 斡Ten cuidado![n][f 1 6 65535][e]

@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 4 3 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Hraaaah! 斡Que el olor de la carne llegue a[n]tus narices, poderosa bestia! *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow* *blow*[n]*blow* *blow* *blow* *blow* *blow*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Uh, s吋lo volar en el cebo con tu boca no va[n]a funcionar desde tan lejos..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Uh, sólo volar en el cebo con tu boca no va[n]a funcionar desde tan lejos..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 6][f 3 1 1 0 0 23019][f 6 1 2 0 0 6]斡El dinosaurio est茨 oliendo el aire![n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 21 6 0 3][f 3 1 1 0 0 0]Dios, ahora parece que fue un desperdicio[n]dejar que ese dinosaurio comiera nuestra[n]carne.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Estoy de acuerdo. La oportunidad de festejar[n]sobre un corte de carne que tama�o viene[n]s吋lo una vez en la vida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Estoy de acuerdo. La oportunidad de festejar[n]sobre un corte de carne que tamaño viene[n]sólo una vez en la vida![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Intentemos conseguir m茨s.[f 2 7 1 20 2 32][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 6][f 3 1 1 0 0 0]Me pregunto si podr胤amos servir esto en[n]nuestra posada... Podr胤a ser capaz de hacer[n]algo similar con ingredientes[n]convencionales.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 1 1][f 3 1 1 0 0 3078][f 6 1 2 0 0 0]夷Olvidar胤as la salsa? 夷Qu姻 est茨s tratando de[n]hacer de todos modos, hacer una versi吋n[n]jungla de Mystery Food X!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 1 1][f 3 1 1 0 0 3078][f 6 1 2 0 0 0]夷Olvidar胤as la salsa? 夷Qu姻 est茨s tratando de[n]hacer de todos modos, hacer una versión[n]jungla de Mystery Food X!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]What's Mystery Food X?[n][f 1 3 65535][f 1 1][e]
@@ -84,8 +84,8 @@
 [f 0 5 65278][f 2 1][f 4 6 1 6 0 1][f 1 5][f 6 1 14 0 0 0]�[n][f 3 1 1 0 0 0]It's... You don't want to know.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Siento interrumpir la conversaci吋n, pero no[n]sabemos cu茨ndo volver茨 ese carn胤voro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Siento interrumpir la conversación, pero no[n]sabemos cu茨ndo volver茨 ese carn胤voro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 23123][f 6 1 2 0 0 6]Tiene raz吋n. 斡Vamos, mejor que pasemos tan[n]r茨pido como podamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 23123][f 6 1 2 0 0 6]Tiene razón. 斡Vamos, mejor que pasemos tan[n]r茨pido como podamos![n][f 1 3 65535][f 1 1][e]
 

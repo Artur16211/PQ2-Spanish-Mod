@@ -2,15 +2,15 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 21095][f 6 1 2 0 0 3]Parece una puerta peligrosa de Helluva...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 0]S胤, mi intuici吋n de ladr吋n fantasma est茨[n]gritando "DANGER" ahora mismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 0]S胤, mi intuición de ladrón fantasma est茨[n]gritando "DANGER" ahora mismo.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_002 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Sin tocar, 夷entendido?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Intentemos tocarlo.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Es tu imaginaci吋n.[f 2 7 1 20 6 32][e]
+[f 0 5 65278][f 2 1]Es tu imaginación.[f 2 7 1 20 6 32][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 21058][f 6 1 2 0 0 4]夷Est茨s intentando enga�arme para tocarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 21058][f 6 1 2 0 0 4]夷Est茨s intentando engañarme para tocarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 1][f 3 1 1 0 0 8084]Por favor, espera un momento. Creo que ser胤a[n]mejor no tocarlo tan descuidadamente.[n][f 1 3 65535][f 1 1][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 34017][f 6 1 2 0 0 6]斡No te preocupes! 斡Conozco un buen truco![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Sabes c吋mo evitar esto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Sabes cómo evitar esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 12 0 0][f 3 1 1 0 0 0]斡Lo tienes! El mismo tipo de puertas tambi姻n[n]est茨n en otros lugares.[n][f 1 3 65535][f 1 1][e]

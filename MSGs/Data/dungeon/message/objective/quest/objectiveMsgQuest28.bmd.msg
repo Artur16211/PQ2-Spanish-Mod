@@ -11,5 +11,5 @@
 [f 0 5 65278][f 2 1]Elige un camino[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
-[f 0 5 65278][f 2 1]Encontrar partes en la habitaci吋n noreste[n][e]
+[f 0 5 65278][f 2 1]Encontrar partes en la habitación noreste[n][e]
 

@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 6]Pero me hizo muy feliz que todos peleen[n]conmigo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Enorme Herb胤voro]]
-[f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Somos compa�eros, 夷no? Es natural que[n]ayudamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Somos compañeros, 夷no? Es natural que[n]ayudamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Nervous Herbivore]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Vamos a trabajar juntos desde aqu胤, 夷de[n]acuerdo?[n][f 1 3 65535][f 1 1][e]
@@ -37,15 +37,15 @@
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 13][f 6 1 2 0 0 6]斡Juramos que intentaremos ser tan fuertes[n]como ustedes un d胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosukesaurus]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷En serio? 夷Guay? 夷No te pareci� una[n]decepci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷En serio? 夷Guay? 夷No te pareció una[n]decepción?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 15][f 6 1 2 0 0 4]Bueno, no para pegar mi propio cuerno ni[n]nada, pero yo era el m茨s pat姻tico, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 6][f 3 1 1 0 0 16][f 6 1 2 0 0 9]Sheesh... Todav胤a no he superado lo mucho[n]que es como el verdadero Yosuke.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 17]Pero no hay duda de que tu iniciativa es lo[n]que movi� a todos a la acci吋n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Y lo que nos movi� fue tu pasi吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 17]Pero no hay duda de que tu iniciativa es lo[n]que movió a todos a la acción...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Y lo que nos movió fue tu pasión.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 6][f 3 1 1 0 0 19][f 6 1 2 0 0 6][f 3 1 6 0 0 500]Lo s姻, 夷verdad? 斡Fue tan desgarrador como un[n]manga que viene de la edad![n][f 1 3 65535][f 1 1][e]
@@ -61,7 +61,7 @@
 [msg MSG_017 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 24][f 6 1 2 0 0 4]Si est茨s buscando un refugio seguro, todo lo[n]que tienes que hacer es hacer uno[n]juntos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25]No es algo que se te da, o que acabas de[n]tropezar en alg雨n lugar...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 26][f 6 1 2 0 0 7]斡Tienes que hacer un esfuerzo para asegurarlo,[n]igual que t雨 y yo cuando vino a nuestros[n]compa�eros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 26][f 6 1 2 0 0 7]斡Tienes que hacer un esfuerzo para asegurarlo,[n]igual que t雨 y yo cuando vino a nuestros[n]compañeros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 34 5 1 0][f 3 1 1 0 0 27][f 6 1 2 0 0 6][f 6 1 3 0 0 1]...![n][f 1 3 65535][f 1 1][e]
@@ -76,18 +76,18 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 6 1 3 0 0 3][f 3 1 1 0 0 30][f 6 1 2 0 0 6]Waaaaah... 斡Mi propia osada est茨 a los lados[n]de los dem茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yosuke]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 31][f 6 1 2 0 0 1]斡Muy bien! Lo entiendo, 斡s吋lo me voy![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 31][f 6 1 2 0 0 1]斡Muy bien! Lo entiendo, 斡sólo me voy![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 32][f 6 1 2 0 0 0]Espera, 夷has derramado jugo sobre ti? 斡Todos[n]son pegajosos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Teddie]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 6 1 3 0 0 3][f 3 1 1 0 0 33]No es s吋lo jugo. Tambi姻n tengo un mont吋n de[n]palomitas en mi traje, y..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 6 1 3 0 0 3][f 3 1 1 0 0 33]No es sólo jugo. Tambi姻n tengo un montón de[n]palomitas en mi traje, y..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yosuke]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 34][f 6 1 2 0 0 6]斡Aprenda a limpiarse antes de terminar lleno[n]de bichos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 35]*chuckle*[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]Compa�eros con los que puedes re胤rte... Me[n]pregunto c吋mo est茨 el m胤o ahora mismo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]Compañeros con los que puedes re胤rte... Me[n]pregunto cómo est茨 el m胤o ahora mismo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 4]No te preocupes. Son fuertes como t雨,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -98,11 +98,11 @@
 
 [msg MSG_028 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 40][f 6 1 2 0 0 4]夷Recuerdas lo que dijo Yosuke antes?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 6]斡Los amigos y los compa�eros hacen lo que[n]pueden para ayudarse![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 6]斡Los amigos y los compañeros hacen lo que[n]pueden para ayudarse![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]�[n][f 3 1 1 0 0 42]Everyone... Thank you.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 43][f 6 1 2 0 0 6]Pienso en ti como mis compa�eros tambi姻n,[n]as胤 puedes confiar en m胤 tanto como sea[n]necesario![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 43][f 6 1 2 0 0 6]Pienso en ti como mis compañeros tambi姻n,[n]as胤 puedes confiar en m胤 tanto como sea[n]necesario![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_030 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Entonces, no voy a detenerme.[f 2 7 1 20 2 32][e]
@@ -138,5 +138,5 @@
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 6][f 3 1 1 0 0 53][f 6 1 2 0 0 6]斡M茨s vale que no dejes que esos malditos[n]carn胤voros te mejoran![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 54]Los adi吋s siempre son dif胤ciles, pero volvamos[n]al cine, amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 54]Los adiós siempre son dif胤ciles, pero volvamos[n]al cine, amigos.[n][f 1 3 65535][f 1 1][e]
 

@@ -8,39 +8,39 @@
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 0]Dices eso, pero lo manejaste perfectamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4043]夷En serio? Hehe... Probablemente es s吋lo[n]porque eres un buen profesor, Panther...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4043]夷En serio? Hehe... Probablemente es sólo[n]porque eres un buen profesor, Panther...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0]S吋lo te di una peque�a pista, es todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0]Sólo te di una pequeña pista, es todo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Incluso podr胤as ser cortado para los Ladrones[n]Fantasma, Chie-chan.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]De nada.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]夷Y el Equipo de Investigaci吋n?[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]夷Y el Equipo de Investigación?[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Ser茨 una vida doble.[f 2 7 1 20 0 32][e]
 
 [msg MSG_006 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5069]Incluso si te uniste al Fantasma Thieves,[n]siempre estaremos ah胤 para ti, Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 0]El equipo de investigaci吋n y los ladrones[n]fantasmas, 夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 0]El equipo de investigación y los ladrones[n]fantasmas, 夷eh?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 9029][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie-chan,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4049][f 6 1 2 0 0 4]斡Ser姻 investigador de d胤a, ladr吋n fantasma[n]de noche! 夷Algo as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4049][f 6 1 2 0 0 4]斡Ser姻 investigador de d胤a, ladrón fantasma[n]de noche! 夷Algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie-chan,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 9016]El equipo de investigaci吋n y los ladrones[n]fantasmas, 夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 9016]El equipo de investigación y los ladrones[n]fantasmas, 夷eh?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie-chan,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Incluso si te uniste al Fantasma Thieves,[n]siempre estaremos ah胤 para ti, Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 1 0 0][f 4 6 22 2 0 0][f 3 1 1 0 0 22067][f 6 1 2 0 0 7]S胤, seguro que ser胤as un gran ladr吋n de[n]fantasmas, Chie-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 1 0 0][f 4 6 22 2 0 0][f 3 1 1 0 0 22067][f 6 1 2 0 0 7]S胤, seguro que ser胤as un gran ladrón de[n]fantasmas, Chie-chan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4050]Awww geez, ustedes me est茨n haciendo rubor.[n][f 1 3 65535][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻? 夷Hab姻is estado en un club nocturno?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, Senpai nos arrastr�...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Bueno, Senpai nos arrastró...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 6][f 3 1 1 0 0 3095]夷Hablas en serio?[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 
 [msg MSG_032 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4011]夷Es como un supermercado?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero tambi姻n vende electr吋nica, ropa y cosas.[n]Incluso hay una corte de comida en el[n]techo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero tambi姻n vende electrónica, ropa y cosas.[n]Incluso hay una corte de comida en el[n]techo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 0]斡Eso es conveniente! Estoy tan celoso. Me[n]encantar胤a comprobarlo alg雨n d胤a.[n][f 1 3 65535][f 1 1][e]
@@ -119,10 +119,10 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 6][f 3 1 1 0 0 3010]La ciudad no tiene grandes almacenes as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 22 1 0 0][f 4 6 4 4 1 0][f 3 1 1 0 0 4106][f 6 1 2 0 0 6]Muy bien, te mostrar姻 la pr吋xima vez. 斡Y[n]Yosuke puede tratarte en la corte de comida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 1 0 0][f 4 6 4 4 1 0][f 3 1 1 0 0 4106][f 6 1 2 0 0 6]Muy bien, te mostrar姻 la próxima vez. 斡Y[n]Yosuke puede tratarte en la corte de comida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0]夷Por qu姻 yo? Bien, lo que sea, probablemente[n]s吋lo pedir茨 filete de nuevo de todos[n]modos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0]夷Por qu姻 yo? Bien, lo que sea, probablemente[n]sólo pedir茨 filete de nuevo de todos[n]modos...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Bueno, es algo que esperar cuando regresemos.[n]Ahora mismo necesitamos encontrar ese[n]agujero.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3121]Vamos, chicos.[n][f 1 3 65535][f 1 1][e]
 

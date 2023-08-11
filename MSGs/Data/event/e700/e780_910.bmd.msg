@@ -13,11 +13,11 @@
 
 [msg MSG_004 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 12 0 1][f 3 1 1 0 0 4]夷Quiz茨 sea debido a que Marie no est茨[n]presente?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Est茨 haciendo un peque�o recados en este[n]momento, pero deber胤a regresar pronto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Est茨 haciendo un pequeño recados en este[n]momento, pero deber胤a regresar pronto.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Un recados?[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]夷Ad吋nde fue?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]夷Adónde fue?[f 2 7 1 64 0 32][e]
 
 [msg MSG_006 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 6]No es nada importante.[n][f 1 3 65535][f 1 1][e]
@@ -107,8 +107,8 @@
 [f 0 5 65278][f 2 1][f 4 6 64 8 32 0][f 3 1 1 0 0 0]Parece que no quer胤a que nadie leyera eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Marie]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 29]夷C吋mo termin� esto hasta all胤? No entiendo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 29]夷Cómo terminó esto hasta all胤? No entiendo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi� a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvió a su lugar habitual, notablemente[n]inestable...[n][f 1 3 65535][f 1 1][e]
 

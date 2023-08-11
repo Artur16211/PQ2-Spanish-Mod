@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Ha habido algunos retrasos debido a tratar[n]con esos ladrones...[n][f 1 2 100][f 1 1][e]
 
 [msg MSG_000_3]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Pero ha llegado el momento de la exposici吋n[n]de castigos![n][f 1 2 80][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Pero ha llegado el momento de la exposición[n]de castigos![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_001]
 [f 0 5 65278][f 2 1][f 0 6 255 255]No...[n][f 1 2 60][f 1 1][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Hm? 夷Qu姻 es todo esto?[n][f 1 2 80][f 1 1][e]
 
 [msg MSG_012]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷Un apag吋n?[n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]夷Un apagón?[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_013]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Es parte del espect茨culo?[n][f 1 2 60][f 1 1][e]

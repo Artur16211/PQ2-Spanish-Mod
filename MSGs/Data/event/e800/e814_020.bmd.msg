@@ -6,10 +6,10 @@
 
 [msg MSG_002 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 6 100 1][f 3 1 1 0 0 6517][f 3 1 6 0 0 500]Hmm... Un segundo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 6 4 99 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh! 斡Me estoy poniendo algo peque�o cerca[n]de aqu胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 4 99 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh! 斡Me estoy poniendo algo pequeño cerca[n]de aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 12 1 1][f 3 1 1 0 0 0]S吋lo espero que no nos encontremos en alg雨n[n]tipo de carn胤voro...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 12 1 1][f 3 1 1 0 0 0]Sólo espero que no nos encontremos en alg雨n[n]tipo de carn胤voro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Si eso sucede, eres el decoy. Ayudaremos al[n]dino.[n][f 1 3 65535][f 1 1][e]
@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No quiero ser un combo de osos y patatas[n]fritas! 斡Vienes conmigo, Yosuke![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 1 1][f 3 1 1 0 0 0]Buen punto. Un plato necesita algo para a�adir[n]color, como perejil.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 1][f 3 1 1 0 0 0]Buen punto. Un plato necesita algo para añadir[n]color, como perejil.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷As胤 que solo soy un adorno...?[n][f 1 3 65535][f 1 1][e]

@@ -24,7 +24,7 @@
 
 [msg MSG_008 [Ken]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 16 12 0 0][f 3 1 1 0 0 9]夷Qu姻 alquilaste?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Tengo curiosidad por tu gusto en las pel胤culas,[n][f 6 1 16 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10]I'm curious as to your taste in movies,[n][f 6 1 16 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 11][f 6 1 2 0 0 4]If it sounds good to you, do you want[n]to watch it with me?[n][f 1 3 65535][f 1 1][e]
@@ -38,10 +38,10 @@
 
 [msg MSG_012 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 1][f 3 1 1 0 0 15]Vamos, no seas tan fuerte. Es importante[n]relajarse de vez en cuando.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Adem茨s, tengo curiosidad por esta pel胤cula[n][f 6 1 16 0 0] de repente quer胤a ver[n]tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Plus, I'm curious about this movie[n][f 6 1 16 0 0 0] suddenly wanted to[n]watch too.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 2 0 1][f 3 1 1 0 0 17]斡Ah, entonces coger姻 las palomitas! Creo que[n]tengo algo en mi habitaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 2 0 1][f 3 1 1 0 0 17]斡Ah, entonces coger姻 las palomitas! Creo que[n]tengo algo en mi habitación...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 18]夷De palomitas?[n][f 1 3 65535][f 1 1][e]
@@ -62,27 +62,27 @@
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 1][f 3 1 1 0 0 23][f 6 1 2 0 0 6]斡Eso es lo que estamos hablando, jefe! 斡Vamos,[n]chica![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 24][f 6 1 2 0 0 9]...me he estado preguntando esto desde hace[n]bastante tiempo, pero 夷d吋nde en el mundo[n]aprendes tal lenguaje?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 24][f 6 1 2 0 0 9]...me he estado preguntando esto desde hace[n]bastante tiempo, pero 夷dónde en el mundo[n]aprendes tal lenguaje?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 2 1 0 1][f 4 6 18 0 0 3][f 3 1 1 0 0 25][f 6 1 2 0 0 4]夷Qu姻 pel胤cula es esa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 26]夷Es ciencia ficci吋n? Creo que recuerdo que[n]era superpopular hace un tiempo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 26]夷Es ciencia ficción? Creo que recuerdo que[n]era superpopular hace un tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 0 1 1][f 3 1 5 0 5 34][f 3 1 1 0 0 27][f 6 1 2 0 0 7]斡Perd吋n por la espera! Popcorn est茨 listo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 0 1 1][f 3 1 5 0 5 34][f 3 1 1 0 0 27][f 6 1 2 0 0 7]斡Perdón por la espera! Popcorn est茨 listo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28]Adem茨s, tenemos galletas, chocolate y gommies...[n]Y patatas fritas, y...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 0]夷Qu姻? 夷Hay una tienda de comestibles en tu[n]habitaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 0]夷Qu姻? 夷Hay una tienda de comestibles en tu[n]habitación?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 1 4][f 3 1 5 0 5 34][f 3 1 1 0 0 30][f 6 1 2 0 0 6]斡Tenemos las bebidas![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31]Veamos, este es caf姻, y... 夷Hm? 夷Era una[n]cola?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]�[n][f 3 1 1 0 0 33]Is everyone settled in? Then, I'm[n]starting it.[n][f 1 3 65535][f 1 1][e]
