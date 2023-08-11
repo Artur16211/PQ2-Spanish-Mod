@@ -301,9 +301,8 @@ def run_program():
             'Í': '緯',
             'Ó': '遺',
             'Ú': '郁',
-            'Ñ': '謂'
-        }
-        replacement_dict_pq_fix = {
+            'Ñ': '謂',
+            '吋': '吋',
             '係': '茨',
             '契': '姻',
             '慶': '胤',
@@ -320,17 +319,15 @@ def run_program():
             '粂': '謂'
         }
 
-        # replace the characters in the list
-        for i in range(len(mod_msgs_nfix)):
+        def replace_characters(text, replacement_dict):
             for key in replacement_dict:
-                mod_msgs_nfix[i] = mod_msgs_nfix[i].replace(
-                    key, replacement_dict[key])
+                text = text.replace(key, replacement_dict[key])
+            return text
 
-        # replace the characters in the list
+        # Replace the characters in the list
         for i in range(len(mod_msgs_nfix)):
-            for key in replacement_dict_pq_fix:
-                mod_msgs_nfix[i] = mod_msgs_nfix[i].replace(
-                    key, replacement_dict_pq_fix[key])
+            mod_msgs_nfix[i] = replace_characters(
+                mod_msgs_nfix[i], replacement_dict)
 
         # print(mod_msg_names_es)
         # Create a dictionary with the messages in english as keys and the messages in spanish as values
