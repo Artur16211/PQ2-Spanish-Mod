@@ -1,15 +1,15 @@
-[msg DG_OBJECTIVE_MSG_LARGE_0]
-[f 0 5 65278][f 2 1]斡Encuentra el graffiti que no pertenece![n][e]
+﻿[msg DG_OBJECTIVE_MSG_LARGE_0]
+[f 0 5 65278][f 2 1]Find the graffiti that doesn't belong![n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-[f 0 5 65278][f 2 1]Investigar graffiti sospechoso[n][e]
+[f 0 5 65278][f 2 1]Investigate suspicious graffiti[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-[f 0 5 65278][f 2 1]Buscar en la ciudad[n][e]
+[f 0 5 65278][f 2 1]Search around town[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-[f 0 5 65278][f 2 1]Buscar en la ciudad[n][e]
+[f 0 5 65278][f 2 1]Search around town[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
-[f 0 5 65278][f 2 1]Buscar en la ciudad[n][e]
+[f 0 5 65278][f 2 1]Search around town[n][e]
 

@@ -1,4 +1,4 @@
-[msg MSG_NONE]
+﻿[msg MSG_NONE]
 [f 0 5 65278][f 2 1]TEST NONE[n][f 1 1][e]
 
 [msg MSG_NEWGAME]

@@ -1,11 +1,11 @@
-[msg MSG_000 [Akihiko]]
+﻿[msg MSG_000 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 1 3][f 3 1 1 0 0 12106]Finalmente lo tenemos acorralado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡D姻jalo y ven tranquilamente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 4][f 3 1 1 0 0 0]Fue un montón de problemas, pero ahora que[n]estamos aqu胤, sólo queda una cosa por[n]hacer.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 4][f 3 1 1 0 0 0]Fue un mont吋n de problemas, pero ahora[n]que estamos aqu胤, s吋lo queda una cosa por hacer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 1 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Estoy listo. 斡Hag茨moslo! 夷Te gusta ir, Chie?[n][f 1 3 65535][f 1 1][e]

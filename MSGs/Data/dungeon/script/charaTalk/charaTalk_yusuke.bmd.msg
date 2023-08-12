@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]B雨squeda a fondo[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -16,19 +16,19 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24001]Podemos reunir art胤culos aqu胤... Qu姻[n]emocionante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24001]Podemos reunir art胤culos aqu胤... Qu姻 emocionante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24068]Cierto. Es mejor tener cuidado con nuestro[n]entorno.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24068]Cierto. Es mejor tener cuidado con[n]nuestro entorno.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24073]斡Que empiece la reunión![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24073]斡Que empiece la reuni吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24077]夷Hm? 夷Has decidido en contra?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24109]Parece que eso es todo para este. No est茨[n]mal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24109]Parece que eso es todo para este. No est茨 mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24378]Esto nos pertenece ahora.[n][f 1 6 65535][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24380]Hm.[n][f 1 6 65535][e]
 
 [msg MSG_008 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24076]Hemos captado la atención de las Sombras...[n]Deber胤amos parar aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24076]Hemos captado la atenci吋n de las[n]Sombras... Deber胤amos parar aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24381]Ohh![n][f 1 6 65535][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24069]Hm... 夷No quieres echar un vistazo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24076]Ese era el oponente. Afortunadamente, nos[n]mantuvimos fuera...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24076]Ese era el oponente. Afortunadamente,[n]nos mantuvimos fuera...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24093]Sombras... est茨n cerca.[n][f 1 3 65535][f 1 1][e]

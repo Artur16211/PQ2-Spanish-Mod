@@ -1,4 +1,4 @@
-[msg KANJI_FOE_FOLLOW_START_1]
+﻿[msg KANJI_FOE_FOLLOW_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7300]斡Mierda! 斡Nos han visto![n][f 1 6 65535][e]
 
 [msg KANJI_FOE_FOLLOW_START_2]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7305]Un FOE.[n][f 1 6 65535][e]
 
 [msg KANJI_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7306]La cosa dejó de perseguirnos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7306]La cosa dej吋 de perseguirnos.[n][f 1 6 65535][e]
 
 [msg KANJI_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7307]斡Huye![n][f 1 6 65535][e]
@@ -38,10 +38,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7372]Tocar esto es una mala idea...[n][f 1 6 65535][e]
 
 [msg KANJI_DENKISAKU_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7373]夷Cómo paramos esta cosa?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7373]夷C吋mo paramos esta cosa?[n][f 1 6 65535][e]
 
 [msg KANJI_DENKISAKU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7374]Si la electricidad es el problema puedo...[n]No, no importa.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7374]Si la electricidad es el problema[n]puedo... No, no importa.[n][f 1 6 65535][e]
 
 [msg KANJI_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7375]夷Ack?[n][f 1 6 65535][e]
@@ -116,40 +116,40 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7311]斡La cosa FOE sigue tras nosotros![n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]Lo siento... 夷Te importa si tomamos un[n]descanso?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]Lo siento... 夷Te importa si tomamos un descanso?[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7313]Tch, no puedo estar teñindo ahora...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7313]Tch, no puedo estar te隠indo ahora...[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7314]No puedo seguir as胤...[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg KANJI_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7315]Apenas puedo caminar...[n][f 1 6 65535][e]
@@ -167,13 +167,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7319]Huyendo de humos aqu胤...[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7320]斡Maldita sea! Este no es el momento de ser[n]usado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7320]斡Maldita sea! Este no es el momento de[n]ser usado...[n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_BATTLE_2]
-[f 0 5 65278][f 2 1]�Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_BATTLE_3]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7323]夷Qui姻n sigue?[n][f 1 6 65535][e]
 
 [msg KANJI_BATTLE_CHANGE_DUNG]
-[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
 
 [msg KANJI_BATTLE_CHANGE_DUNG_2]
-[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
 
 [msg KANJI_BATTLE_CHANGE_DUNG_3]
-[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7365]Terminemos con esto.[n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7352]Parece que todav胤a tenemos un largo camino[n]por recorrer.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7352]Parece que todav胤a tenemos un largo[n]camino por recorrer.[n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7353]El mapa est茨 bastante vac胤o. 斡Vamos a seguir![n][f 1 6 65535][e]
@@ -254,10 +254,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7343]Es un mapa detallado.[n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_ICON_KAIDA]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7344]斡S胤, buena decisión![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7344]斡S胤, buena decisi吋n![n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_ICON_KAIDA_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7345]Saber dónde est茨n las escaleras nos ayudar茨[n]a evitar perdernos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7345]Saber d吋nde est茨n las escaleras nos[n]ayudar茨 a evitar perdernos.[n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_CHANGE_COL]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7346]Es un poco elegante, 夷no?[n][f 1 6 65535][e]
@@ -278,7 +278,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7351]Olvidaremos esto si no lo escribimos, 夷sabes?[n][f 1 6 65535][e]
 
 [msg KANJI_DOOR_OPEN_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7366]斡Vamos, maldición![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7366]斡Vamos, maldici吋n![n][f 1 6 65535][e]
 
 [msg KANJI_DOOR_OPEN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7367]斡Aqu胤 vamos![n][f 1 6 65535][e]

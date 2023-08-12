@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]B雨squeda a fondo[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21045]Parece que podemos reunir algunos materiales[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21045]Parece que podemos reunir algunos materiales aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21068]斡Muy bien! 斡Mant姻n los ojos abiertos![n][f 1 3 65535][f 1 1][e]
@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21074]斡Genial! 斡Tomemos todo lo que podamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21077]夷Nos saltamos esta? 斡Bien, regresemos m茨s[n]tarde![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21077]夷Nos saltamos esta? 斡Bien, regresemos m茨s tarde![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21108]斡Genial! 斡Eso es todo![n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21011]Eh, eh... 夷Ustedes tambi姻n se est茨n[n]arrastrando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21011]Eh, eh... 夷Ustedes tambi姻n se est茨n arrastrando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21074]A-Alright! 斡Hag茨moslo![n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21091]斡Mierda! 斡Eso fue duro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21003]夷Tambi姻n ves esas sombras? 夷Qu姻 vamos a[n]hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21003]夷Tambi姻n ves esas sombras? 夷Qu姻 vamos a hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21074]Genial, vamos a comprobarlo![n][f 1 3 65535][f 1 1][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21109]斡All茨 vamos! 斡Todo listo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21018]Parece que podemos volver al Cine desde aqu胤.[n]夷Quieres ir?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21018]Parece que podemos volver al Cine[n]desde aqu胤. 夷Quieres ir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21384]斡Cuidado![n][f 1 6 65535][e]

@@ -1,4 +1,4 @@
-[msg MSG_000 [Doe]]
+﻿[msg MSG_000 [Doe]]
 [f 0 5 65278][f 2 1][f 4 6 82 0 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ngh... 斡Nnnnghhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷Est茨... sufriendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 4 1 0][f 3 1 1 0 0 0]No me digas que nos atacar茨... 斡No podremos[n]pelear aqu胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 4 1 0][f 3 1 1 0 0 0]No me digas que nos atacar茨... 斡No[n]podremos pelear aqu胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Doe]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6][f 6 1 3 0 0 1]Gggggghhhh...[n][f 1 3 65535][f 1 1][e]
@@ -49,13 +49,13 @@
 [f 0 5 65278][f 2 1][f 4 6 82 2 1 1][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 6]Nnnghhhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]B-Pero, 夷correr dónde?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]B-Pero, 夷correr d吋nde?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 0]Nnh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0]��[n][f 3 1 1 0 0 0]夷Hikari-chan? 夷Est茨s bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]夷Hikari-chan? 夷Est茨s bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]C-Calma abajo... 斡Estamos aqu胤 contigo![n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 71 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Est茨... bien ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 1 6][f 3 1 1 0 0 0]Oye, mira... Doe dejó algo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 1 6][f 3 1 1 0 0 0]Oye, mira... Doe dej吋 algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Hrmm? Eso es...[n][f 1 3 65535][f 1 1][e]
@@ -94,16 +94,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 3][f 3 1 1 0 0 0]斡Oye, Doe! 斡Respóndenos, imb姻cil![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 3][f 3 1 1 0 0 0]斡Oye, Doe! 斡Resp吋ndenos, imb姻cil![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Doe]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 3][f 3 1 1 0 0 0]Bueno, ah胤 va, no es como si hubiera respondido[n]alguna de nuestras preguntas para[n]empezar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 3][f 3 1 1 0 0 0]Bueno, ah胤 va, no es como si hubiera[n]respondido alguna de nuestras preguntas para empezar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]S胤, no hemos hecho ning雨n tipo de contacto[n]con Doe...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]S胤, no hemos hecho ning雨n tipo de[n]contacto con Doe...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 0]Hikari-san, est茨 todo bien ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Hikari]]
@@ -113,10 +113,10 @@
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Esa llave para las cadenas de la salida?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Ahora que lo mencionas, parece que esta llave[n]y una de las cerraduras de la salida[n]ser胤a una coincidencia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Ahora que lo mencionas, parece que esta[n]llave y una de las cerraduras de la[n]salida ser胤a una coincidencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Pero, 夷es seguro que lo usemos? 夷Y si explota[n]cuando lo tocamos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Pero, 夷es seguro que lo usemos? 夷Y si[n]explota cuando lo tocamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 4][f 4 6 74 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Y eso no te hace querer intentarlo?[n][f 1 3 65535][f 1 1][e]
@@ -125,18 +125,18 @@
 [f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Wah! 夷Qui姻nes son?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 0]Bueno, la versión TL;DR es: son la Brigada[n]Azul.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 0]Bueno, la versi吋n TL;DR es: son la Brigada Azul.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Tienes razón, son bastante azules..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Tienes raz吋n, son bastante azules..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Espera, 夷qu姻? 夷Por qu姻 es palomitas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 2 0 0][f 3 1 1 0 0 0]Ah, 夷este disfraz te da curiosidad? Me[n]ordenaron usarla como parte del ritual de[n]"abuela apertura", as胤 que..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 2 0 0][f 3 1 1 0 0 0]Ah, 夷este disfraz te da curiosidad? Me[n]ordenaron usarla como parte del ritual[n]de "abuela apertura", as胤 que..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Ahora, 夷cu茨l ser茨?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Vas a probar la llave? 夷O no? 夷Cu茨l es tu[n]decisión?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Vas a probar la llave? 夷O no? 夷Cu茨l es[n]tu decisi吋n?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_045 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Vamos a probarlo.[f 2 7 1 64 2 32][e]
@@ -144,26 +144,26 @@
 [f 0 5 65278][f 2 1]Podr胤a ser una trampa.[f 2 7 1 64 6 32][e]
 
 [msg MSG_046 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 0]Estoy de acuerdo. Si no lo intentamos, no[n]haremos ning雨n progreso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 0]Estoy de acuerdo. Si no lo intentamos,[n]no haremos ning雨n progreso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 6 0 1][f 3 1 1 0 0 0]Quiero decir, salió de su cuerpo... Tambi姻n[n]me asust姻.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 6 0 1][f 3 1 1 0 0 0]Quiero decir, sali吋 de su cuerpo...[n]Tambi姻n me asust姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 0]Pero no tenemos nada m茨s que seguir. Creo[n]que vale la pena probarlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 0]Pero no tenemos nada m茨s que seguir.[n]Creo que vale la pena probarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 65 0 0 1][f 3 1 1 0 0 0]Pero no hay nada m茨s que podamos intentar.[n]Estamos atrapados aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 65 0 0 1][f 3 1 1 0 0 0]Pero no hay nada m茨s que podamos[n]intentar. Estamos atrapados aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 0]Bueno, entonces, vamos a probarlo a la vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 8 1 1][f 3 1 1 0 0 0]Si se ha llegado a una decisión, vamos a[n]calmarnos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 8 1 1][f 3 1 1 0 0 0]Si se ha llegado a una decisi吋n, vamos[n]a calmarnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 1 0 1][f 4 6 69 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qui姻n es esa gente con ropa azul?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 0]No tenemos ni idea, pero intentar姻 llenarte[n]de todos modos de camino.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 0]No tenemos ni idea, pero intentar姻[n]llenarte de todos modos de camino.[n][f 1 3 65535][f 1 1][e]
 
