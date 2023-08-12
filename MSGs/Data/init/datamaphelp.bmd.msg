@@ -1,69 +1,69 @@
-﻿[msg map_help_001_01]
-[f 0 5 65278][f 2 1]Tap the pencil tool, and you can[n]draw walls on the map.[n][e]
+[msg map_help_001_01]
+[f 0 5 65278][f 2 1]Pulsa la herramienta l茨piz, y puedes dibujar[n]paredes en el mapa.[n][e]
 
 [msg map_help_001_02]
-[f 0 5 65278][f 2 1]The eraser tool removes walls.[n][e]
+[f 0 5 65278][f 2 1]La herramienta borrador elimina las paredes.[n][e]
 
 [msg map_help_002_01]
-[f 0 5 65278][f 2 1]The brush tool colors in tiles.[n][e]
+[f 0 5 65278][f 2 1]Los colores de la herramienta del cepillo en[n]azulejos.[n][e]
 
 [msg map_help_002_02]
-[f 0 5 65278][f 2 1]The dustcloth tool erases floors.[n][e]
+[f 0 5 65278][f 2 1]La herramienta de polvo borra los suelos.[n][e]
 
 [msg map_help_002_03]
-[f 0 5 65278][f 2 1]Tapping the color button and[n]selecting a color will allow[n]you to change the tint.[n][e]
+[f 0 5 65278][f 2 1]Tapping el botón de color y seleccionar un[n]color le permitir茨 cambiar el tinte.[n][e]
 
 [msg map_help_003_01]
-[f 0 5 65278][f 2 1]Place icons such as doors on the[n]map by dragging them.[n][e]
+[f 0 5 65278][f 2 1]Coloque iconos como puertas en el mapa[n]arrastr茨ndolos.[n][e]
 
 [msg map_help_003_02]
-[f 0 5 65278][f 2 1]To delete icons on the map, drag[n]them to the trash can with the[n]pencil tool.[n][e]
+[f 0 5 65278][f 2 1]Para eliminar los iconos en el mapa, arrastrelos[n]a la basura con la herramienta[n]l茨piz.[n][e]
 
 [msg map_help_004_01]
-[f 0 5 65278][f 2 1]Tap the icon to change the color.[n][e]
+[f 0 5 65278][f 2 1]Pulsa el icono para cambiar el color.[n][e]
 
 [msg map_help_005_01]
-[f 0 5 65278][f 2 1]テスト1[n][e]
+[f 0 5 65278][f 2 1]� It1[n][e]
 
 [msg map_help_006_01]
-[f 0 5 65278][f 2 1]Tap the floor number while[n]the whole map is displayed, and[n]just that floor will display.[n][e]
+[f 0 5 65278][f 2 1]Toque el n雨mero de piso mientras que el mapa[n]entero se muestra, y sólo ese piso se[n]mostrar茨.[n][e]
 
 [msg map_help_006_02]
-[f 0 5 65278][f 2 1]Tap the labyrinth button to[n]select the labyrinth and floor.[n][e]
+[f 0 5 65278][f 2 1]Pulse el botón laberinto para seleccionar el[n]laberinto y el suelo.[n][e]
 
 [msg map_help_007_01]
-[f 0 5 65278][f 2 1]When you tap the compass on[n]the top left, you can keep the[n]player icon facing up while the[n]map changes direction. [n][e]
+[f 0 5 65278][f 2 1]Cuando toca la br雨jula en la parte superior[n]izquierda, puede mantener el icono del[n]jugador mirando hacia arriba mientras el[n]mapa cambia la dirección.[n][e]
 
 [msg map_help_007_02]
-[f 0 5 65278][f 2 1]Return it to its default settings by[n]tapping the compass again. [n][e]
+[f 0 5 65278][f 2 1]Devu姻lvelo a su configuración predeterminada,[n]tocando la br雨jula de nuevo.[n][e]
 
 [msg map_help_008_01]
-[f 0 5 65278][f 2 1]If you make a mistake, tap[n]Undo to cancel the last action.[n][e]
+[f 0 5 65278][f 2 1]Si cometes un error, pulsa Undo para cancelar[n]la 雨ltima acción.[n][e]
 
 [msg map_help_009_01]
-[f 0 5 65278][f 2 1]Use Auto Pilot to move[n]automatically.[n][e]
+[f 0 5 65278][f 2 1]Utilice Auto Pilot para moverse[n]autom茨ticamente.[n][e]
 
 [msg map_help_009_02]
-[f 0 5 65278][f 2 1]Draw the route you would like[n]to go with the route pen in the[n]Auto Pilot menu.[n][e]
+[f 0 5 65278][f 2 1]Dibuja la ruta que te gustar胤a ir con el[n]bol胤grafo de ruta en el men雨 Auto Pilot.[n][e]
 
 [msg map_help_009_03]
-[f 0 5 65278][f 2 1]Travel the route you drew and[n]tap the move button to start[n]moving automatically. [n][e]
+[f 0 5 65278][f 2 1]Viaja por la ruta que dibujó y pulsa el botón[n]de movimiento para comenzar a moverse[n]autom茨ticamente.[n][e]
 
 [msg map_help_009_04]
-[f 0 5 65278][f 2 1]By tapping the line that was[n]drawn by the route pen you can[n]go backwards.[n][e]
+[f 0 5 65278][f 2 1]Al tocar la l胤nea que fue dibujada por el[n]bol胤grafo de ruta se puede ir hacia atr茨s.[n][e]
 
 [msg map_help_009_05]
-[f 0 5 65278][f 2 1]Use the route eraser to delete[n]the Auto Pilot line. Erase it from[n]the end of the line.[n][e]
+[f 0 5 65278][f 2 1]Utilice el borrador de la ruta para eliminar[n]la l胤nea Piloto Auto. Borrarlo desde el[n]final de la l胤nea.[n][e]
 
 [msg map_help_010_01]
-[f 0 5 65278][f 2 1]Drag the icons onto the free[n]palette to save your favorite icons.[n][e]
+[f 0 5 65278][f 2 1]Arrastre los iconos en la paleta gratis para[n]guardar sus iconos favoritos.[n][e]
 
 [msg map_help_010_02]
-[f 0 5 65278][f 2 1]Delete unwanted icons from the[n]free palette by dragging them to[n]the trash can.[n][e]
+[f 0 5 65278][f 2 1]Eliminar los iconos no deseados de la paleta[n]libre arrastrandolos a la basura.[n][e]
 
 [msg map_help_011_01]
-[f 0 5 65278][f 2 1]During special screenings, you[n]will have a special screening[n]palette. It will have icons you[n]can place only during screenings.[n][e]
+[f 0 5 65278][f 2 1]Durante ex茨menes especiales, tendr茨 una paleta[n]especial de detección. Tendr茨 iconos[n]que puedes colocar solo durante las[n]proyecciones.[n][e]
 
 [msg map_help_011_02]
-[f 0 5 65278][f 2 1]However, you cannot place[n]special screening icons on top[n]of others that were placed at a[n]different time.[n][e]
+[f 0 5 65278][f 2 1]Sin embargo, no se pueden colocar iconos de[n]detección especiales encima de otros que[n]fueron colocados en un momento[n]diferente.[n][e]
 

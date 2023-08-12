@@ -1,4 +1,4 @@
-﻿[msg FUTABA_FOE_FOLLOW_START_]
+[msg FUTABA_FOE_FOLLOW_START_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26300]斡FOE se acerca![n][f 1 6 65535][e]
 
 [msg FUTABA_FOE_FOLLOW_START__2]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26308]Whew... 斡Lo perdimos![n][f 1 6 65535][e]
 
 [msg FUTABA_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26375]斡Hay un patr吋n! 斡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26375]斡Hay un patrón! 斡Cuidado![n][f 1 6 65535][e]
 
 [msg FUTABA_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26376]Mantengan la calma y estar茨n bien![n][f 1 6 65535][e]
@@ -35,13 +35,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26377]Vale, ten cuidado...[n][f 1 6 65535][e]
 
 [msg FUTABA_DENKISAKU_REACTIO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26378]斡Tenemos que hacer algo sobre la puerta primero![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26378]斡Tenemos que hacer algo sobre la puerta[n]primero![n][f 1 6 65535][e]
 
 [msg FUTABA_DENKISAKU_REACTIO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26379]斡No toques eso! Mala idea![n][f 1 6 65535][e]
 
 [msg FUTABA_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26380]Deber胤a ser capaz de pasar si detienes[n]la electricidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26380]Deber胤a ser capaz de pasar si detienes la[n]electricidad.[n][f 1 6 65535][e]
 
 [msg FUTABA_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26381]斡Heeey![n][f 1 6 65535][e]
@@ -101,16 +101,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26387]斡No podemos seguir as胤! 斡Corre![n][f 1 6 65535][e]
 
 [msg FUTABA_PARTY_DEAD_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26388]斡Mierda! 斡Podr胤a ser una buena idea[n]para retroceder![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26388]斡Mierda! 斡Podr胤a ser una buena idea para[n]retroceder![n][f 1 6 65535][e]
 
 [msg FUTABA_PARTY_DEAD_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26389]斡Sal de ah胤! 斡Es demasiado peligroso![n][f 1 6 65535][e]
 
 [msg FUTABA_FOE_WARNING_NEAR_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26309]斡FOE cerca! 斡Atenci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26309]斡FOE cerca! 斡Atención![n][f 1 6 65535][e]
 
 [msg FUTABA_FOE_WARNING_NEAR__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26310]斡No estamos fuera todav胤a! 斡Mant姻nganse afilados![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26310]斡No estamos fuera todav胤a! 斡Mant姻nganse[n]afilados![n][f 1 6 65535][e]
 
 [msg FUTABA_FOE_WARNING_NEAR__3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26311]斡Ya viene, chicos![n][f 1 6 65535][e]
@@ -152,10 +152,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26329]斡Shooop! 斡Se est茨n presionando demasiado![n][f 1 6 65535][e]
 
 [msg FUTABA_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26318]斡Est茨s perdiendo la salud! 夷Eres capaz de curar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26318]斡Est茨s perdiendo la salud! 夷Eres capaz de[n]curar?[n][f 1 6 65535][e]
 
 [msg FUTABA_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26319]斡No har胤a da隠o descansar un poco![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26319]斡No har胤a daño descansar un poco![n][f 1 6 65535][e]
 
 [msg FUTABA_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26320]斡Es una lucha peligrosa as胤![n][f 1 6 65535][e]
@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26396]斡Gracias, Rise! 斡Lo tengo desde aqu胤![n][f 1 6 65535][e]
 
 [msg RISE_FUTABA_ANSWER_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26397]斡Cambio de Rise! 斡Oracle en el micr吋fono![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26397]斡Cambio de Rise! 斡Oracle en el micrófono![n][f 1 6 65535][e]
 
 [msg RISE_FUTABA_ANSWER_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26398]Muy bien, 斡tengo esto! 斡Vamos, chicos![n][f 1 6 65535][e]
@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14396]斡Te dejar姻 el resto ahora, Oracle![n][f 1 6 65535][e]
 
 [msg FUKA_FUTABA_MAKASETA_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14397]斡Hora de cambiar! 斡Espero aprender mucho de ti![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14397]斡Hora de cambiar! 斡Espero aprender mucho de[n]ti![n][f 1 6 65535][e]
 
 [msg FUKA_FUTABA_MAKASETA_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14398]斡Ahora lo entregar姻 a Oracle![n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26392]Quiz茨s deber胤as organizar tus cosas.[n][f 1 6 65535][e]
 
 [msg FUTABA_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26369]斡La navegaci吋n se va![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26369]斡La navegación se va![n][f 1 6 65535][e]
 
 [msg FUTABA_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26370]斡Adelante![n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26361]Vamos a llenar ese mapa![n][f 1 6 65535][e]
 
 [msg FUTABA_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26362]夷C吋mo va el mapa?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26362]夷Cómo va el mapa?[n][f 1 6 65535][e]
 
 [msg FUTABA_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26363]斡A mitad![n][f 1 6 65535][e]
@@ -266,7 +266,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26365]斡Parece que est茨 casi hecho! 斡Genial![n][f 1 6 65535][e]
 
 [msg FUTABA_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26366]夷D吋nde m茨s podemos ir?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26366]夷Dónde m茨s podemos ir?[n][f 1 6 65535][e]
 
 [msg FUTABA_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26367]斡Genial! 斡El mapa est茨 hecho![n][f 1 6 65535][e]

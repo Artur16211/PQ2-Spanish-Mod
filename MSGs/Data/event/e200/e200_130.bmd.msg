@@ -1,4 +1,4 @@
-﻿[msg MSG_000]
+[msg MSG_000]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Est茨 bien![n][f 1 2 30][f 1 1][e]
 
 [msg MSG_000_1]
@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Ni personal![n][f 1 2 55][f 1 1][e]
 
 [msg MSG_002]
-[f 0 5 65278][f 2 1][f 0 6 255 255]No s姻 c吋mo sentir que nadie m茨s est姻 aqu胤...[n][f 1 2 75][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]No s姻 cómo sentir que nadie m茨s est姻 aqu胤...[n][f 1 2 75][f 1 1][e]
 
 [msg MSG_002_1]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Bueno, vamos a entrar.[n][f 1 2 80][f 1 1][e]
@@ -53,5 +53,5 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Aaaaaaahhhhh![n][f 1 2 30][f 1 1][e]
 
 [msg MSG_016]
-[f 0 5 65278][f 2 1][f 0 6 255 255]　[n][f 1 2 30][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]�[n][f 1 2 30][f 1 1][e]
 

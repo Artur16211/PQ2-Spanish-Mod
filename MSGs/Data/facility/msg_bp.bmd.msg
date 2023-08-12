@@ -1,4 +1,4 @@
-﻿[msg id_0_0]
+[msg id_0_0]
 [f 0 5 65278][f 2 1]Increases money gained in battle by 10%[n][f 0 1 2][Next Lv: Money acquired increases][f 0 1 0][n][e]
 
 [msg id_0_1]

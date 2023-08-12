@@ -1,14 +1,14 @@
-﻿[msg MSG_000]
+[msg MSG_000]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Ciudadanos de Kamo![n][f 1 2 60][f 1 1][e]
 
 [msg MSG_000_1]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Por fin he llegado![n][f 1 2 60][f 1 1][e]
 
 [msg MSG_000_2]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Ha habido algunos retrasos debido a[n]tratar con esos ladrones...[n][f 1 2 100][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Ha habido algunos retrasos debido a tratar[n]con esos ladrones...[n][f 1 2 100][f 1 1][e]
 
 [msg MSG_000_3]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Pero ha llegado el momento de la[n]exposici吋n de castigos![n][f 1 2 80][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Pero ha llegado el momento de la exposición[n]de castigos![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_001]
 [f 0 5 65278][f 2 1][f 0 6 255 255]No...[n][f 1 2 60][f 1 1][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Empecemos la cuenta atr茨s![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_003_1]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Los que amenazan nuestra paz ser茨n[n]castigados por mi propia mano![n][f 1 2 200][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Los que amenazan nuestra paz ser茨n castigados[n]por mi propia mano![n][f 1 2 200][f 1 1][e]
 
 [msg MSG_004]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡VIVA![n][f 1 2 60][f 1 1][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Hm? 夷Qu姻 es todo esto?[n][f 1 2 80][f 1 1][e]
 
 [msg MSG_012]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷Un apag吋n?[n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]夷Un apagón?[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_013]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Es parte del espect茨culo?[n][f 1 2 60][f 1 1][e]
@@ -53,16 +53,16 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Qu姻?[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_016]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Ustedes sinverguenzas perturbando la[n]ciudad de Kamo... 斡As胤 que has venido a[n]ser castigado![n][f 1 2 200][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Ustedes sinverguenzas perturbando la ciudad[n]de Kamo... 斡As胤 que has venido a ser[n]castigado![n][f 1 2 200][f 1 1][e]
 
 [msg MSG_016_1]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Como bien sabes, mi justicia me hace invencible![n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Como bien sabes, mi justicia me hace[n]invencible![n][f 1 2 60][f 1 1][e]
 
 [msg MSG_016_2]
 [f 0 5 65278][f 2 1][f 0 6 255 255]HAHAHAHAHAHAHA![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_017]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Kamoshidaman, hay un pedazo de papel[n]en la espalda![n][f 1 2 150][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Kamoshidaman, hay un pedazo de papel en la[n]espalda![n][f 1 2 150][f 1 1][e]
 
 [msg MSG_017_1]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Dice que es... una tarjeta de llamada![n][f 1 2 150][f 1 1][e]
@@ -80,5 +80,5 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Qu姻?[n][f 1 2 250][f 1 1][e]
 
 [msg MSG_021]
-[f 0 5 65278][f 2 1][f 0 6 255 255]　[n][f 1 2 30][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]�[n][f 1 2 30][f 1 1][e]
 

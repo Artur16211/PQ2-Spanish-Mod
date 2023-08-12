@@ -1,4 +1,4 @@
-﻿[msg AKECHI_FOE_FOLLOW_START_]
+[msg AKECHI_FOE_FOLLOW_START_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28300]Ya viene, no te asustes.[n][f 1 6 65535][e]
 
 [msg AKECHI_FOE_FOLLOW_START__2]
@@ -62,10 +62,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28326]夷Cu茨l es el plan? 夷Para seguir?[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28327]Una caja de tesoros. Ser姻 generoso y te[n]lo permitir姻.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28327]Una caja de tesoros. Ser姻 generoso y te lo[n]permitir姻.[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28328]Una caja de tesoros, 夷eh? 夷Por qu姻 no[n]intentas abrirla?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28328]Una caja de tesoros, 夷eh? 夷Por qu姻 no intentas[n]abrirla?[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28329]斡He aqu胤! 斡Una caja de tesoros![n][f 1 6 65535][e]
@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28330]夷Hm? 夷Eso es...?[n][f 1 6 65535][e]
 
 [msg AKECHI_CHECK_WALL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28331]Estas paredes no enga隠an mis ojos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28331]Estas paredes no engañan mis ojos.[n][f 1 6 65535][e]
 
 [msg AKECHI_CHECK_WALL_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28332]夷Por qu姻 no lo revisamos?[n][f 1 6 65535][e]
@@ -116,46 +116,46 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28311]El FOE todav胤a nos persigue.[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28312]He sufrido demasiado da隠o. Necesito refuerzos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28312]He sufrido demasiado daño. Necesito[n]refuerzos.[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28313]Estoy en mal estado. 夷Un poco de ayuda, por favor?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28313]Estoy en mal estado. 夷Un poco de ayuda, por[n]favor?[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28314]Seguir adelante podr胤a ser imprudente...[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg AKECHI_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28315]夷Crees que podemos curar algo de tiempo[n]en un futuro cercano?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28315]夷Crees que podemos curar algo de tiempo en[n]un futuro cercano?[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28316]Estoy m茨s da隠ada de lo que pens姻...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28316]Estoy m茨s dañada de lo que pens姻...[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28317]Esto no es nada, lo juro.[n][f 1 6 65535][e]
@@ -173,7 +173,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28390]【justificadamente[n][f 1 6 65535][e]
 
 [msg AKECHI_ITEM_90_BATTLE_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28391]◆Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28391]�Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg AKECHI_ITEM_90_BATTLE_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28392]【justificadamente[n][f 1 6 65535][e]
@@ -182,19 +182,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28321]Todo el mundo est茨 bien.[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28322]斡Estamos sacando algunas verdaderas haza隠as![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28322]斡Estamos sacando algunas verdaderas hazañas![n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP80_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28323]Siempre puedes confiar en m胤.[n][f 1 6 65535][e]
 
 [msg AKECHI_BATTLE_CHANGE_DUN]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg AKECHI_BATTLE_CHANGE_DUN_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg AKECHI_BATTLE_CHANGE_DUN_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg AKECHI_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -215,13 +215,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28362]Todos est姻n alertas.[n][f 1 6 65535][e]
 
 [msg AKECHI_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28363]Empecemos la misi吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28363]Empecemos la misión.[n][f 1 6 65535][e]
 
 [msg AKECHI_QUEST_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28364]Veamos de qu姻 se trata este lugar.[n][f 1 6 65535][e]
 
 [msg AKECHI_QUEST_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28365]Ahora, que comience nuestra noble exploraci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28365]Ahora, que comience nuestra noble[n]exploración.[n][f 1 6 65535][e]
 
 [msg AKECHI_TOUHA_25_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28352]Despacio, pero seguro...[n][f 1 6 65535][e]
@@ -266,7 +266,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28347]Debes ser el tipo exigente.[n][f 1 6 65535][e]
 
 [msg AKECHI_MAPPING_ICON_DEL_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28348]Debo admitir que creo que eso tambi姻n[n]es innecesario.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28348]Debo admitir que creo que eso tambi姻n es[n]innecesario.[n][f 1 6 65535][e]
 
 [msg AKECHI_MAPPING_ICON_DEL__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28349]Oh, eso es atrevido de ti.[n][f 1 6 65535][e]

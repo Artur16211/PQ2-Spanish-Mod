@@ -1,4 +1,4 @@
-﻿[msg MSG_BTL_001]
+[msg MSG_BTL_001]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Teddie, 斡toma la rueda![n][f 1 1][e]
 
 [msg MSG_BTL_002]
@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Idiota, manos en la rueda![n][f 1 1][e]
 
 [msg MSG_BTL_004]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Mi est吋mago est茨 atascado![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Mi estómago est茨 atascado![n][f 1 1][e]
 
 [msg MSG_BTL_005]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Qu姻?[n][f 1 1][e]

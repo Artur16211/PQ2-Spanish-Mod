@@ -1,4 +1,4 @@
-﻿[msg skill_000]
+[msg skill_000]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_001]
@@ -422,7 +422,7 @@
 [f 0 5 65278][f 2 1]Light Phys attack. [f 0 1 4]If unhurt during[n]turn, extra attack activates[f 0 1 0]. (1 Enemy)[n][e]
 
 [msg skill_08D]
-[f 0 5 65278][f 2 1]※追加攻撃用（スキル所持はバグ）[n][e]
+[f 0 5 65278][f 2 1]※追�攻�用��スキル�持�バグ��[n][e]
 
 [msg skill_08E]
 [f 0 5 65278][f 2 1]Medium Phys attack, [f 0 1 2]with high[n]chance of Poison[f 0 1 0]. (1 Enemy)[n][e]
@@ -443,7 +443,7 @@
 [f 0 5 65278][f 2 1]Light Phys attacks to random targets,[n][f 0 1 4]stronger for each hit taken[f 0 1 0]. (All Enemies)[n][e]
 
 [msg skill_094]
-[f 0 5 65278][f 2 1]※追加攻撃用（スキル所持はバグ）[n][e]
+[f 0 5 65278][f 2 1]※追�攻�用��スキル�持�バグ��[n][e]
 
 [msg skill_095]
 [f 0 5 65278][f 2 1]Medium Phys attack, with [f 0 1 2]medium chance[n]of Strength Bind[f 0 1 0]. (1 Enemy)[n][e]
@@ -710,13 +710,13 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] and chance to be[n]targeted for 3 turns. (Self)[n][e]
 
 [msg skill_0ED]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protect an ally.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] � protect an ally.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (1 Ally)[n][e]
 
 [msg skill_0EE]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] � protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (User's Row)[n][e]
 
 [msg skill_0EF]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] � protects allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
 
 [msg skill_0F0]
 [f 0 5 65278][f 2 1]Take attacks in place of any allies[n]under half HP for 3 turns.[n][e]
@@ -1451,10 +1451,10 @@
 [f 0 5 65278][f 2 1]Restore SP when evading an attack.[n](Auto)[n][e]
 
 [msg skill_1E4]
-[f 0 5 65278][f 2 1]Restore SP at the end of turn if[n]at full HP ＆ in front row. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restore SP at the end of turn if[n]at full HP � in front row. (Auto)[n][e]
 
 [msg skill_1E5]
-[f 0 5 65278][f 2 1]Restore SP at the end of turn if[n]at full HP ＆ in front row. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restore SP at the end of turn if[n]at full HP � in front row. (Auto)[n][e]
 
 [msg skill_1E6]
 [f 0 5 65278][f 2 1]Slightly restore SP while walking[n]in labyrinth. (Auto)[n][e]
@@ -3002,13 +3002,13 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] for 3 turns.[n](1 Ally)[n][e]
 
 [msg skill_3E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects an ally.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] � protects an ally.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (1 Ally)[n][e]
 
 [msg skill_3EA]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] � protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (User's Row)[n][e]
 
 [msg skill_3EB]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] � protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (Party)[n][e]
 
 [msg skill_3EC]
 [f 0 5 65278][f 2 1]For 3 turns, take attacks for[n]allies who are under 50% HP.[n][e]
@@ -4289,7 +4289,7 @@
 [f 0 5 65278][f 2 1]Light Phys attack, with [f 0 1 2]medium chance[n]of Sleep[f 0 1 0]. (1 Enemy)[n][e]
 
 [msg skill_596]
-[f 0 5 65278][f 2 1][f 0 1 4]Slightly raise defense[f 0 1 0] ＆ protect allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Slightly raise defense[f 0 1 0] � protect allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
 
 [msg skill_597]
 [f 0 5 65278][f 2 1][f 0 1 4]2l3 Skill costs[f 0 1 0] for 3 turns. (Self)[n][e]
@@ -4328,7 +4328,7 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_5A3]
-[f 0 5 65278][f 2 1][f 0 1 4]Greatly raise defense[f 0 1 0] ＆ protect allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Greatly raise defense[f 0 1 0] � protect allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
 
 [msg skill_5A4]
 [f 0 5 65278][f 2 1]High chance attack skills will activate[n]twice for 2 turns. (Self)[n][e]

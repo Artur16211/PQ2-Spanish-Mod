@@ -1,17 +1,17 @@
-﻿[msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1][f 6 1 2 0 0 3][f 6 1 3 0 0 2]Ugh, ahora es a位n m茨s estrecho[n]aqu胤, gracias Akechi..[n][f 1 3 65535][f 1 1][e]
+[msg MSG_000 [Ryuji]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1][f 6 1 2 0 0 3][f 6 1 3 0 0 2]Ugh, ahora es a位n m茨s estrecho aqu胤, gracias[n]Akechi..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2][f 6 1 3 0 0 2]Lo siento, pero si os hubiera [n]seguido a pie, no habr胤a sido[n]capaz demantener el ritmo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2][f 6 1 3 0 0 2]Lo siento, pero si los hubiera  seguido a[n]pie, no habr胤a sido capaz de mantener el[n]ritmo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 2 0 0 9][f 6 1 3 0 0 2]Para ser honesta, estoy bastante[n]segura que estamos muy por [n]arriba de la capacidad m茨xima...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 2 0 0 9][f 6 1 3 0 0 2]Para ser honesta, estoy bastante segura que[n]estamos muy por encima de la capacidad[n]m茨xima...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4][f 6 1 3 0 0 2]Mona-chan, 夷est茨s bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4][f 6 1 3 0 0 2]Mona, 夷est茨s bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 3 0 0 2]夷Con qui姻n crees que est茨s hablando?[n]S案lo rel茨jate.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 3 0 0 2]夷Con qui姻n crees que est茨s hablando? S�lo[n]rel茨jate.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 2 0][f 3 1 1 0 0 6][f 6 1 1 0 0 1][f 6 1 2 0 0 0][f 6 1 3 0 0 2]夷斡Mrowgh!?[n][f 1 3 65535][f 1 1][e]
@@ -23,10 +23,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8][f 6 1 1 0 0 1][f 6 1 3 0 0 2]Meow-ow-ow...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9][f 6 1 3 0 0 2]Whoa, Queen, 夷cu茨l es el problema? [n]夷斡Intentando conducir al estilo Wild[n]Max!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9][f 6 1 3 0 0 2]Whoa, Queen, 夷cu茨l es el problema?  夷斡Intentas[n]conducir al estilo Wild Max!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Makoto]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 2 0 0 10][f 6 1 3 0 0 2]斡No soy yo! 斡La rueda se mueve sola![n]夷Qu姻 est茨 pasando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 2 0 0 10][f 6 1 3 0 0 2]斡No soy yo! 斡Las ruedas se mueven solas! 夷Qu姻[n]est茨 pasando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11][f 6 1 3 0 0 2]夷Todo nuestro peso est茨 causando un problema?[n][f 1 3 65535][f 1 1][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12][f 6 1 3 0 0 2]No creo que eso cause ESTO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yusuke]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 2]Tal vez comi案 algo[n]del suelo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 2]Tal vez comi� algo del suelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Morgana]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 1 0 0 1][f 6 1 2 0 0 10][f 6 1 3 0 0 2]斡Nunca![n][f 1 3 65535][f 1 1][e]

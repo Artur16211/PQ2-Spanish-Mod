@@ -1,155 +1,155 @@
-﻿[sel FCL_NETWORK_MSG_YN top]
-[f 0 5 65278][f 2 1]Yes[e]
+[sel FCL_NETWORK_MSG_YN top]
+[f 0 5 65278][f 2 1]S胤.[e]
 [f 0 5 65278][f 2 1]No[e]
 
 [sel FCL_NETWORK_SUBPERSONA_C top]
-[f 0 5 65278][f 2 1]This will do[e]
-[f 0 5 65278][f 2 1]Let's start over[e]
+[f 0 5 65278][f 2 1]Esto har茨[e]
+[f 0 5 65278][f 2 1]Empecemos de nuevo.[e]
 
 [msg FCL_NETWORK_SETTING]
-[f 0 5 65278][f 2 1]Activating StreetPass will allow you[n]to exchange P-Books with people.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Activate Persona Q2's StreetPass feature[n]on this Nintendo 3DS system?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Activando la calle El paso le permitir茨[n]intercambiar libros de P con personas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Activar la calle Persona Q2 夷La función Pass[n]en este sistema Nintendo 3DS?[n][f 1 1][e]
 
 [msg FCL_NETWORK_SETTING_SUCC]
-[f 0 5 65278][f 2 1]Persona Q2's StreetPass feature has been[n]activated on this Nintendo 3DS system.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]StreetPass exchanges will happen[n]automatically, even during Sleep Mode.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]To deactivate StreetPass, from the[n]HOME Menu, select System Settings >[n]Data Management > StreetPass Management.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Calle Persona Q2 La función Pass ha sido[n]activada en este sistema Nintendo 3DS.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Los intercambios de StreetPas ocurrir茨n[n]autom茨ticamente, incluso durante el modo de[n]sueño.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Para desactivar StreetPass, desde el Men雨[n]INICIO, seleccione Configuración de sistema[n]�? Gestión de datos.[n][f 1 1][e]
 
 [msg FCL_NETWORK_SETTING_EXIS]
-[f 0 5 65278][f 2 1]Persona Q2's StreetPass feature is[n]already activated.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]To deactivate it, select[n]System Settings from the HOME Menu.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Once there, select Data Management[n]and then deactivate it with the[n]StreetPass Management option.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Calle Persona Q2 La función de paso ya est茨[n]activada.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Para desactivarlo, seleccione Ajustes de[n]Sistema desde el Men雨 INICIO.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Una vez all胤, seleccione Gestión de datos y[n]luego desactivarlo con la opción StreetPass[n]Management.[n][f 1 1][e]
 
 [msg FCL_NETWORK_SETTING_FULL]
-[f 0 5 65278][f 2 1]Your Nintendo 3DS system already[n]reached the maximum number of[n]StreetPass registrations.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]To register this title for use with StreetPass,[n]go to StreetPass Management in the System[n]Settings and deactivate another title.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Tu Nintendo El sistema 3DS ya alcanzó el[n]n雨mero m茨ximo de registros StreetPass.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Para registrar este t胤tulo para uso con[n]StreetPass, vaya a StreetPass Management en[n]la configuración del sistema y desactive[n]otro t胤tulo.[n][f 1 1][e]
 
 [msg FCL_NETWORK_SETTING_EULA]
-[f 0 5 65278][f 2 1]In order to activate StreetPass, you[n]must agree to the most recently updated[n]Nintendo 3DS Service User Agreement.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Select Internet Settings -> Other[n]Information -> User Agreement and[n]agree to the newest User Agreement.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Para activar StreetPass, debe estar de acuerdo[n]con el acuerdo de usuario de servicio[n]m茨s actualizado recientemente.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Seleccionar configuración de Internet -[n]confiar Otra información - confiar Acuerdo[n]de usuario y convenir en el nuevo Acuerdo[n]de Usuario.[n][f 1 1][e]
 
 [msg FCL_NETWORK_SETTING_PARE]
-[f 0 5 65278][f 2 1]The StreetPass feature in this game[n]cannot be used, since StreetPass is[n]restricted in Parental Controls.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La función StreetPass en este juego no se[n]puede utilizar, ya que StreetPass est茨[n]restringida en Controles Parentales.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_ALERT]
-[f 0 5 65278][f 2 1]Please do not write offensive material,[n]violate copyrights, or reveal personal[n]information in your messages.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Por favor no escriba material ofensivo, viole[n]los derechos de autor o revele información[n]personal en sus mensajes.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_MAKE]
-[f 0 5 65278][f 2 1]Outputting P-Book QR Code[n]to the SD card. If data already[n]exists, it will be overwritten.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Output to the SD card?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]P-Libro de salida QR Código a la tarjeta SD.[n]Si los datos ya existen, ser茨n[n]sobrescritos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Salir a la tarjeta SD?[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SD_WRITIN]
-[f 0 5 65278][f 2 1]Saving to SD card...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Salvando a la tarjeta SD...[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SD_NONE]
-[f 0 5 65278][f 2 1]There is no SD card present.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No hay un regalo de tarjeta SD.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SD_SHORTA]
-[f 0 5 65278][f 2 1]There is unsufficient free space on[n]the SD card.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Hay espacio libre insuficiente en la tarjeta[n]SD.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SD_PHOTO_]
-[f 0 5 65278][f 2 1]There are too many pictures on the[n]SD card. Save failed.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Hay demasiadas fotos en la tarjeta SD. Salvar[n]falló.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SD_ERROR]
-[f 0 5 65278][f 2 1]The SD card could not be recognized.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La tarjeta SD no pod胤a ser reconocida.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_MAKE_SUCC]
-[f 0 5 65278][f 2 1]QR Code image data has been output[n]to DCIMl100NINO3.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Los datos de imagen de QR Code han sido de[n]salida a DCIMl100NINO3.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_LOAD]
-[f 0 5 65278][f 2 1]Use the camera to scan a[n]Persona Q2 QR Code.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Utilice la c茨mara para escanear un código QR[n]Persona Q2.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_LOAD_SUCC]
-[f 0 5 65278][f 2 1]Register the P-Book?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Registrar el P-Book?[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SAVING]
-[f 0 5 65278][f 2 1]Saving scanned P-Book...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Ahorro escaneado P-Book...[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_INVALID_D]
-[f 0 5 65278][f 2 1]This QR Code is not for Persona Q2.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Este QR El código no es para Persona Q2.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_DECODE_ER]
 [f 0 5 65278][f 2 1]The QR Code could not be recognized.[n][f 1 1][e]
 
 [msg FCL_NETWORK_INBOX_RECEIV]
-[f 0 5 65278][f 2 1]Receive new P-Books?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Recibir nuevos P-Libros?[n][f 1 1][e]
 
 [msg FCL_NETWORK_INBOX_CHECKI]
-[f 0 5 65278][f 2 1]Checking StreetPass data...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Checking Street Pase datos...[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_DELE [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]Are you sure that you want to discard[n]this P-Book?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]夷Est茨s seguro de que quieres descartar este[n]P-Book?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_DELE_2 [Elizabeth]]
-[f 0 5 65278][f 2 1]Do you wish to discard this[n]P-Book?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Desea descartar este P-Book?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_SUMM [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]It'll cost [f 2 4 0] yen to summon[n]this Persona. Are you sure?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]Le costar茨 [f 2 4 0] yenes convocar a este[n]Persona. 夷Est茨s seguro?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_SUMM_2 [Elizabeth]]
-[f 0 5 65278][f 2 1]It will cost [f 2 4 0] yen to summon[n]this Persona. Would you like to[n]summon it?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Le costar茨 [f 2 4 0] yenes convocar a este[n]Persona. 夷Te gustar胤a convocarla?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_SUMM_3]
-[f 0 5 65278][f 2 1]The Persona [f 0 1 1][f 2 4 0][f 0 1 0][n]has been summoned.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]El Persona [f 0 1][f 2 4 0][f 0 1 0] ha sido[n]convocado.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_EXIS [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]You already have this Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Ya tienes a Persona.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_EXIS_2 [Elizabeth]]
-[f 0 5 65278][f 2 1]It seems you already have this Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Parece que ya tienes a Persona.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_MONE [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Hey, cheapskate! You don't have enough[n]money to summon this Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]斡Eh, tacaño! No tienes suficiente dinero para[n]llamar a Persona.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_MONE_2 [Elizabeth]]
-[f 0 5 65278][f 2 1]It seems you lack the funds to[n]summon this Persona...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Parece que te faltan los fondos para convocar[n]a este Persona...[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_STOC [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]You can't hold any more Personas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]No puedes tener m茨s Personas.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_STOC_2 [Elizabeth]]
-[f 0 5 65278][f 2 1]You cannot possess any more Personas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No puedes poseer m茨s Personas.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_LV_M [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Your level isn't high enough to let[n]you summon this Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Tu nivel no es lo suficientemente alto para[n]dejar que llames a Persona.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_LV_E [Elizabeth]]
-[f 0 5 65278][f 2 1]It seems you lack the experience[n]to summon this Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Parece que no tienes la experiencia de convocar[n]a este Persona.[n][f 1 1][e]
 
 [msg FCL_NETWORK_ATTACH_M [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65202]You're okay with this Persona?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65202]夷Est茨s bien con Persona?[n][f 1 1][e]
 
 [msg FCL_NETWORK_ATTACH_E [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65202]You're okay with this Persona?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65202]夷Est茨s bien con Persona?[n][f 1 1][e]
 
 [msg FCL_NETWORK_INPUT_ATTENT]
-[f 0 5 65278][f 2 1]Do not enter personal details[n]or offensive language.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No introduzca detalles personales ni lenguaje[n]ofensivo.[n][f 1 1][e]
 
 [msg FCL_NETWORK_INPUT_NGWORD]
-[f 0 5 65278][f 2 1]This text contains offensive language,[n]and cannot be used. Enter a new name.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Este texto contiene lenguaje ofensivo, y no[n]se puede utilizar. Ingrese un nuevo[n]nombre.[n][f 1 1][e]
 
 [msg FCL_NETWORK_INPUT_NUMBER]
-[f 0 5 65278][f 2 1]You may only input up to five numbers.[n]Enter a new name.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Sólo puede introducir hasta cinco n雨meros.[n]Ingrese un nuevo nombre.[n][f 1 1][e]
 
 [msg FCL_NETWORK_NAME_OPEN]
-[f 0 5 65278][f 2 1]Will you allow your protagonists'[n]names to be made public?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Permite que los nombres de sus protagonistas[n]sean p雨blicos?[n][f 1 1][e]
 
 [sel FCL_NETWORK_NAME_OPEN_SE top]
-[f 0 5 65278][f 2 1]Yes[e]
+[f 0 5 65278][f 2 1]S胤.[e]
 [f 0 5 65278][f 2 1]No[e]
 
 [msg FCL_NETWORK_EDIT_SAVE]
-[f 0 5 65278][f 2 1]The P-Book information has[n]been changed.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Save the updates to the StreetPass?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La información de P-Book ha sido modificada.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Guardar las actualizaciones de StreetPass?[n][f 1 1][e]
 
 [msg FCL_NETWORK_EDIT_CANCEL]
-[f 0 5 65278][f 2 1]Would you like to finish editing[n]without updating the StreetPass?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Te gustar胤a terminar la edición sin actualizar[n]el StreetPass?[n][f 1 1][e]
 
 [msg FCL_NETWORK_NOT_EDIT_PER [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]That Persona belongs only to you.[n]I guess you can't use it to[n]communicate with other worlds.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]You'll have to choose another Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Que Persona le pertenece sólo a usted. Supongo[n]que no puedes usarlo para comunicarse[n]con otros mundos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Tendr茨s que elegir a otro Persona.[n][f 1 1][e]
 
 [msg FCL_NETWORK_NOT_EDIT_PER_2 [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]That Persona belongs only to you.[n]I guess you can't use it to[n]communicate with other worlds.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]You'll have to choose another Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Que Persona le pertenece sólo a usted. Supongo[n]que no puedes usarlo para comunicarse[n]con otros mundos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Tendr茨s que elegir a otro Persona.[n][f 1 1][e]
 

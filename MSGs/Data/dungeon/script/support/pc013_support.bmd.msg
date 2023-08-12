@@ -1,4 +1,4 @@
-﻿[msg P3_HERO2_FOE_FOLLOW_STAR]
+[msg P3_HERO2_FOE_FOLLOW_STAR]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19300]Parece que el FOE nos ha notado![n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_FOLLOW_STAR_2]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19305]Drat, hay un FOE...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_FOLLOW_END_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19306]Parece que el FOE nos dej吋.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19306]Parece que el FOE nos dejó.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_FOLLOW_END__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19307]斡El FOE ya no viene![n][f 1 6 65535][e]
@@ -29,13 +29,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19369]斡Todos est茨n en alerta![n][f 1 6 65535][e]
 
 [msg P3_HERO2_KANSI_REACTION__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19370]Ser茨 un problema si nos encuentran. 斡Ten cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19370]Ser茨 un problema si nos encuentran. 斡Ten[n]cuidado![n][f 1 6 65535][e]
 
 [msg P3_HERO2_KANSI_REACTION__3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19371]斡No puedes atraparnos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DENKISAKU_REACT]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19372]Si no apagamos la electricidad, nos[n]quemaremos a un crujiente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19372]Si no apagamos la electricidad, nos quemaremos[n]a un crujiente.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_DENKISAKU_REACT_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19373]Una puerta el姻ctrica, eh... 斡Parece que[n]tenemos que apagar la electricidad primero![n][f 1 6 65535][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19331]Tiene que haber algo aqu胤. 斡Miremos por ah胤![n][f 1 6 65535][e]
 
 [msg P3_HERO2_CHECK_WALL_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19332]夷No hay algo extra隠o en este lugar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19332]夷No hay algo extraño en este lugar?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_SWITCH_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19333]斡Un interruptor! 斡Vamos a dar un heave-ho![n][f 1 6 65535][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_WARNING_NEA]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19309]斡Todav胤a hay un FOE cerca! 斡Precauci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19309]斡Todav胤a hay un FOE cerca! 斡Precaución![n][f 1 6 65535][e]
 
 [msg P3_HERO2_FOE_WARNING_NEA_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19310]Parece que FOE sigue por aqu胤.[n][f 1 6 65535][e]
@@ -116,22 +116,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19311]FOE hiriendo hacia nosotros![n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_HP10_1]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_HP10_2]
-[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_HP10_3]
-[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HPTP10_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19312]斡S胤, esto es duro![n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19314]Estoy m茨s cansado de lo que pens姻...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_TP10_1]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_TP10_2]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg P3_HERO2_PARTY_TP10_3]
-[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]� CONTRASE�A[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19315]Hrrgh... 斡Alguien, por favor, curame![n][f 1 6 65535][e]
@@ -158,13 +158,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19316]Creo que mi salud est茨 perdiendo...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19317]No puedo seguir... Mi salud es demasiado baja...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19317]No puedo seguir... Mi salud es demasiado[n]baja...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_TP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19318]Tan agotado... 夷Podemos descansar un poco?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19319]Mi resistencia ha sido estirada demasiado lejos...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19319]Mi resistencia ha sido estirada demasiado[n]lejos...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19320]No m茨s... Estoy fuera de energ胤a...[n][f 1 6 65535][e]
@@ -173,13 +173,13 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg P3_HERO2_ITEM_90_BATTLE__2]
-[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�Recibir 90% escrito[n][f 1 6 65535][e]
 
 [msg P3_HERO2_ITEM_90_BATTLE__3]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19321]Espero que el pr吋ximo sea as胤 tambi姻n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19321]Espero que el próximo sea as胤 tambi姻n![n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19322]斡Tranquilo![n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19323]斡Eso fue un pedazo de pastel![n][f 1 6 65535][e]
 
 [msg P3_HERO2_BATTLE_CHANGE_D]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg P3_HERO2_BATTLE_CHANGE_D_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {\cHFF}[n][f 1 6 65535][e]
 
 [msg P3_HERO2_BATTLE_CHANGE_D_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]�� {}[n][f 1 6 65535][e]
 
 [msg P3_HERO2_ITEM_90_DUNGEON]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -212,22 +212,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19361]斡D姻jame manejarlo![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19362]斡Somos un escuadr吋n incre胤ble; vamos a[n]mantenerlo as胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19362]斡Somos un escuadrón incre胤ble; vamos a[n]mantenerlo as胤![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19363]Vale, esto no terminar茨 en ning雨n[n]momento, 斡espero![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19363]Vale, esto no terminar茨 en ning雨n momento,[n]斡espero![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]斡Tenemos nuestras 吋rdenes, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]斡Tenemos nuestras órdenes, todos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19365]Estoy muy emocionada, ahora.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19352]Parece que tenemos una manera de ir...[n]夷Estamos bien en salud?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19352]Parece que tenemos una manera de ir... 夷Estamos[n]bien en salud?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19353]Parece que todo se ha extendido...[n]Tengamos cuidado al continuar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19353]Parece que todo se ha extendido... Tengamos[n]cuidado al continuar.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19354]斡El mapa se llena muy bien![n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19356]斡Mantengamos esto y aceleremos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19357]Creo que s吋lo tenemos un poco m茨s que ir?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19357]Creo que sólo tenemos un poco m茨s que ir?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19358]斡Qu姻 sentido de logro![n][f 1 6 65535][e]
@@ -275,7 +275,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19350]斡Tenemos que asegurarnos de no olvidar eso![n][f 1 6 65535][e]
 
 [msg P3_HERO2_MAPPING_MEMO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19351]夷Tal vez deber胤a hacerlo? 斡Haha, s吋lo bromeaba![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19351]夷Tal vez deber胤a hacerlo? 斡Haha, sólo[n]bromeaba![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DOOR_OPEN_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19366]斡Vamos, vamos![n][f 1 6 65535][e]
