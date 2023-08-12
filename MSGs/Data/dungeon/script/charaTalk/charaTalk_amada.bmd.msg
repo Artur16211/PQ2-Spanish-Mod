@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]B雨squeda a fondo[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16009]Parece que podr胤amos reunir algunos art胤culos[n]aqu胤. 夷Qu姻 quieres hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16009]Parece que podr胤amos reunir algunos[n]art胤culos aqu胤. 夷Qu姻 quieres hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16076]Lo entiendo. Quieres ser cauteloso.[n][f 1 3 65535][f 1 1][e]
@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16067]斡S胤! 斡Vamos por algo realmente genial![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16069]夷No vamos a comprobarlo? Bueno, vale, creo[n]que entiendo por qu姻...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16069]夷No vamos a comprobarlo? Bueno, vale,[n]creo que entiendo por qu姻...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16106]斡Y... lo tengo! 斡El 雨ltimo![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16380]斡Vaya![n][f 1 6 65535][e]
 
 [msg MSG_008 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16063]Eso fue dif胤cil. 夷Alguien m茨s quiere tomar[n]un descanso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16063]Eso fue dif胤cil. 夷Alguien m茨s quiere[n]tomar un descanso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16381]斡All茨 vamos![n][f 1 6 65535][e]

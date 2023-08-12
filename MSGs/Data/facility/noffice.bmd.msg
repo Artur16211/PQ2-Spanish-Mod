@@ -1,4 +1,4 @@
-[msg NOFFICE_HELLO_ELIZABETH_ [Elizabeth]]
+﻿[msg NOFFICE_HELLO_ELIZABETH_ [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54200]夷Qu姻 billete te gustar胤a?[n][f 1 1][e]
 
 [msg NOFFICE_HELLO_ELIZABETH__2 [Elizabeth]]
@@ -8,13 +8,13 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54202]Bienvenido a la taquilla.[n][f 1 1][e]
 
 [msg NOFFICE_EXP_ELIZABETH [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 2 1]夷Cómo puedo ayudarle?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 2 1]夷C吋mo puedo ayudarle?[n][f 1 1][e]
 
 [msg NOFFICE_OUT_ELIZABETH_NU [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54203]Gracias por su patrocinio.[n][f 1 1][e]
 
 [msg NOFFICE_OUT_ELIZABETH_NU_2 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54204]Espero su próxima visita.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54204]Espero su pr吋xima visita.[n][f 1 1][e]
 
 [msg NOFFICE_OUT_ELIZABETH_NU_3 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54205]Te ver姻 de nuevo.[n][f 1 1][e]

@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]B雨squeda a fondo[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9380]斡Lo tengo![n][f 1 6 65535][e]
 
 [msg MSG_008 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9096]Whew... Lo logramos. 斡Y tambi姻n tenemos[n]bot胤n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9096]Whew... Lo logramos. 斡Y tambi姻n tenemos bot胤n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9381]斡Nicoink![n][f 1 6 65535][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9040]Guh... Esa Sombra era malas noticias...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9036]*Sniff sniff* Huele como un montón de[n]sombras...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9036]*Sniff sniff* Huele como un mont吋n de sombras...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9068]斡Est茨 bien! 斡Hag茨moslo![n][f 1 3 65535][f 1 1][e]

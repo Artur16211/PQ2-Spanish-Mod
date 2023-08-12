@@ -1,491 +1,491 @@
-[msg BTL_MES_006_000]
+﻿[msg BTL_MES_006_000]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6300]Esa parece dura... 斡Cuidado, chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6300]That one looks tough... Careful, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_002]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6301]斡Mant姻nganse alerta, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6301]Stay on guard, everybody![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6202]斡Oh no, un FOE...! 斡Debemos retroceder![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6202]Oh no, an FOE...!? We should back off![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_004]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6203]斡Un FOE est茨 ah胤! 斡No lo pelees![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6203]An FOE is there! Don't fight it![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6303]S胤, esto es waaay demasiado para manejar.[n]斡Salgamos de aqu胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6303]Yeah, this is waaay too much to handle.[n]Let's get outta here![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6304]斡Retirada! 斡Y mira tus espaldas por si te[n]persigue![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6304]Retreat, retreat! And watch your[n]backs in case it chases you![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_007]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6350]Necesitamos un plan para evitar su defensa.[n]Conozco una piel gruesa cuando la veo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6350]We need a plan to bypass its defense. I[n]know a thick skin when I see it![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_008]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6351]斡Eso tiene ataques muy poderosos! 斡No os[n]presion姻is![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6351]That one's got really powerful attacks![n]Don't push yourselves![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6352]Cuidado, que FOE tiene ataques f胤sicos s雨per[n]fuertes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6352]Careful, that FOE's got super-strong[n]physical attacks![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_010]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6353]斡Cuidado, que los ataques m茨gicos de FOE no[n]son Joker![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6353]Watch out, that FOE's magic attacks[n]are no joke![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6354]Se pone m茨s fuerte a medida que su salud[n]baja. Una vez que empieces, tienes que[n]matarlo lo antes posible![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6354]It gets stronger as its health goes down.[n]Once you start, you gotta kill it ASAP![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_012]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6205]斡Una rara sombra! 斡No dejes que escape![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6205]A rare Shadow! Don't let it escape![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6206]斡Hay una rara Sombra! 斡B茨jalo, r茨pido![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6206]There's a rare Shadow! Take it down,[n]quick![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_014]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6306]斡S胤! No dejes que se escape, 夷de acuerdo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6306]Yeah! Don't let it get away, all right!?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_015]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6307]斡No nos perdamos en este raro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6307]Let's not miss out on this rare one![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_016]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6310]Ese puede golpear a todo el grupo a la vez.[n]Trata de defender si lo ves venir.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6310]That one can hit the whole group at[n]once. Try to defend if you see it coming.[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6311]Un enemigo que usa ataques en toda la zona[n]est茨 ah胤... 斡Usa tus habilidades[n]defensivas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6311]An enemy that uses area-wide attacks[n]is there... Use your defensive skills![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_018]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6312]Hay un enemigo que puede usar ataques[n]instant茨neos. 斡Yo digo que salga primero![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6312]There's an enemy that can use instant[n]kill attacks. I say take it out first![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6313]Los ataques m茨gicos no funcionar茨n ahora[n]mismo. 斡Usa algo m茨s![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6313]Magic attacks won't work right now.[n]Use something else![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_020]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6314]斡Cuidado! 斡El próximo ataque es grande![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6314]Watch out! The next attack is a[n]big one![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_021]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6220]Yipe, ese es intimidante... 斡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6220]Yipe, that one's intimidating... Careful![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6221]Uh-oh... Parece que nos dieron el salto...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6221]Uh-oh... Looks like they got the jump[n]on us...[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_023]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6321]斡Podr胤amos ganar si salimos! 夷Qu姻 deber胤amos[n]hacer.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6321]We might win, if we go all out! What[n]should we do...[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_024]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6322]斡No seas imprudente! 斡Si se ve demasiado[n]duro, tu mejor opción es correr![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6322]Don't be reckless! If it looks too tough,[n]your best option is to run![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_025]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6222]斡No tenemos datos sobre esa Sombra! Deber胤amos[n]encontrar sus debilidades.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6222]Hey, we don't have any data on that[n]Shadow! We should find its weaknesses.[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_026]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6223]斡Es un nuevo tipo enemigo, as胤 que no sabemos[n]sus debilidades![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6223]That's a new enemy type, so we don't[n]know its weaknesses![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_027]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6501]斡Ve por ellos, Senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6501]Go get 'em, Senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_028]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6502]斡Puedes hacerlo! 斡S姻 que puedes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6502]You can do it! I know you can![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_029]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6503]斡Ten cuidado, Yosuke-senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6503]Be careful, Yosuke-senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_030]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6504]斡Vamos, Chie-senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6504]Go for it, Chie-senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_031]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6505]斡No te detengas, Yukiko-senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6505]No holding back, Yukiko-senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_032]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_033]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6507]Golp姻alos a una pulpa, Kanji![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6507]Beat 'em to a pulp, Kanji![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_034]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6508]斡Lo tienes, Naoto-kun![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6508]You've got this, Naoto-kun![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_035]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6509]斡Vamos Teddie![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6509]Go Teddie![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_036]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6510]斡Puedes hacerlo, Yukari-chan![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6510]You can do it, Yukari-chan![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_037]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6511]斡Junpei-san, mantengamos la calma y encontremos[n]sus debilidades![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6511]Junpei-san, let's stay cool and find its[n]weaknesses![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_038]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6512]夷A-Akihiko-san? Vamos a calmarnos, 夷de[n]acuerdo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6512]A-Akihiko-san!? Let's take it easy,[n]okay?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_039]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6513]Mitsuru-san se ve tan guay...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6513]Mitsuru-san looks so cool...[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_040]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_041]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6515]斡Hazlo, Aigis![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6515]Do it, Aigis![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_042]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6516]斡C茨lmate, Ken-kun! 斡Te estamos animando![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6516]Stay calm, Ken-kun! We're cheering for[n]you![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_043]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6517]斡Ve por ellos, Koro-chan![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6517]Go get 'em, Koro-chan![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_044]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6518]斡Contamos contigo, Shinjiro-san![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6518]We're counting on you, Shinjiro-san![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_045]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6519]斡Adelante! 斡Tenemos tu espalda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6519]Go for it! We've got your back![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_046]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6520]斡Eso es, Joker![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6520]That's it, Joker![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_047]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6521]斡Buena suerte, Skull![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6521]Good luck, Skull![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_048]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6522]斡Sigue, Panther![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6522]Keep it going, Panther![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_049]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6523]斡Buena idea, Mona![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6523]Nice idea, Mona![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_050]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6524]斡Vamos, Fox![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6524]Go for it, Fox![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_051]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6525]斡Vamos, Queen! 斡Te apoyar姻![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6525]Go on, Queen! I'll be supporting you![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_052]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6527]斡Suena bien, Noir! 斡Adelante![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6527]Sounds good, Noir! Go for it![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_054]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6528]斡Puedes hacerlo, Crow![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6528]You can do it, Crow![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6324]斡Nada que no puedas manejar, sólo mant姻n tu[n]foco![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6324]Nothing you can't handle, just keep[n]your focus![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_056]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6325]斡No decepciones a tu guardia![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6325]Don't let your guard down![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6226]Esto parece bastante f茨cil, pero no te hagas[n]descuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6226]This looks easy enough, but don't[n]get careless.[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_058]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6227]No hay problema. 斡Hag茨moslo r茨pido![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6227]Hah, this one's no problem. Let's[n]make it quick![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_059]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6326]斡Acabemos con esto, chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6326]Let's get this over with, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_060]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6327]斡Ll姻venlos a todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6327]Take 'em all down![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_061]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6328]No lo olvides, 斡puedes golpear la debilidad[n]del enemigo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6328]Don't forget, you can strike the enemy's[n]weakness![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_062]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6329]斡Aqu胤 tienes tu oportunidad! 斡Ve por su punto[n]d姻bil![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6329]Here's your chance! Go for its weak[n]point![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_063]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6230]Oh no, 夷qu姻 hacemos...? 斡No podemos escapar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6230]Oh no, what do we do...!? We can't[n]get away![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_064]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6231]斡El intento de escape falló! 斡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6231]The escape attempt failed! Look out![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6232]斡Ni hablar! 斡Un FOE apareció![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6232]N-No way...! An FOE appeared![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_066]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6233]Pens姻 que todos sab胤an que era grosero invadir[n]el espacio personal. 斡Adivina que no![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6233]I thought everyone knew it's rude to[n]invade personal space. Guess NOT![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_067]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6601]斡Ah! Senpai, 斡est茨s en serio estado! 夷Estar茨s[n]bien?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6601]Ah! Senpai, you're in serious condition![n]Are you going to be okay!?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_068]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6602]斡Cuidado, alguien est茨 en estado cr胤tico![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6602]Careful, someone's in critical[n]condition![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_069]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6603]斡Yosuke-senpai est茨 en peligro! 斡Cuidado con[n]姻l![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6603]Yosuke-senpai is in danger! Keep an[n]eye on him![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_070]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6604]斡Chie-senpai est茨 en problemas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6604]Chie-senpai is in trouble![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_071]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6605]斡Yukiko-senpai necesita ayuda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6605]Yukiko-senpai needs help![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_072]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_073]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6607]斡Kanji est茨 en una pizca! 斡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6607]Kanji's in a pinch! Watch him![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_074]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6608]斡Naoto-kun est茨 en peligro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6608]Naoto-kun is in danger![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_075]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6609]斡Teddie est茨 en un lugar dif胤cil![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6609]Teddie's in a tough spot![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_076]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6610]斡Yukari-chan no est茨 tan bien![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6610]Yukari-chan isn't doing so well![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_077]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6611]斡No est茨 buscando bien para Junpei-san![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6611]It's not looking good for Junpei-san![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_078]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6612]斡Akihiko-san est茨 en mal estado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6612]Akihiko-san is in bad shape![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_079]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6613]斡Mitsuru-san no se ve tan bien![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6613]Mitsuru-san's not looking so good![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_080]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_081]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6615]斡Se est茨 poniendo peligroso para Aigis![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6615]It's getting dangerous for Aigis![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_082]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6616]斡Ken-kun est茨 en problemas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6616]Ken-kun is in trouble![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_083]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6617]斡Pobre Koro-chan est茨 herido![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6617]Poor Koro-chan is hurt![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_084]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6618]斡Shinjiro-san est茨 en una mala situación[n]ahora mismo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6618]Shinjiro-san's in a bad situation right[n]now![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_085]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6619]斡Cuidado! 斡No necesitar胤a mucho m茨s para[n]noquearte![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6619]Careful! It wouldn't take much more[n]to knock you out![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6620]Joker parece que podr胤a usar ayuda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6620]Joker looks like he could use some[n]help![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_087]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6621]斡Cuidado, Skull! 斡Est茨s en mal estado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6621]Look out, Skull! You're in bad shape![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_088]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6622]Panther realmente necesita ayuda, cualquier[n]ayuda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6622]Panther really needs help, any help![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_089]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6623]斡Mona est茨 en problemas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6623]Mona is in trouble![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_090]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6624]斡Cuidado! Fox est茨 azotando![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6624]Watch out! Fox is floundering![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_091]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6625]斡La Queen parece que est茨 en problemas[n]reales![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6625]Queen looks like she's in royal trouble![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_092]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_093]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6627]斡La situación de Noir se ve terrible![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6627]Noir's situation is looking dire![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_094]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6628]斡Cuidado! 斡Crow est茨 en el borde de la[n]conciencia![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6628]Look out! Crow's teetering on the edge[n]of consciousness![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_095]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6630]Esto no se ve bien... 夷Tal vez deber胤amos[n]regresar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6630]This doesn't look good... Maybe we[n]should fall back?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_096]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6631]夷Est茨s bien? 斡R茨pido, tienes que sanar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6631]Are you okay!? Quick, you need to[n]heal![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_097]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6401]斡Oh no! 斡Alguien ha sido petrificado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6401]Oh no! Someone's been petrified![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_098]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6402]Whoa! 斡Cuando atacas, tambi姻n te dañas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6402]Whoa! When you attack, you deal[n]damage to yourself too![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_099]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6403]斡Tienes que curar ese veneno, r茨pido![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6403]You need to cure that poison, quick![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_100]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6404]斡Alguien est茨 dormido! 斡Despi姻rtenlos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6404]Somebody's asleep! Wake 'em up![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_101]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6405]斡Alguien est茨 confundido! 夷Cómo logramos que[n]vengan a sus sentidos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6405]Somebody's confused! How do we[n]get them to come to their senses?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_102]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6406]夷Qu姻? 斡Alguien ha sido paralizado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6406]Wha―!? Someone's been paralyzed![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_103]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6407]夷Est茨s bien? 斡Aguanta ah胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6407]Are you okay!? Hang in there![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_104]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6408]斡Oh no! 斡Tu Persona ha estado atada![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6408]Oh no! Your Persona's been bound![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_105]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6409]斡No puedes hacer ataques f胤sicos ahora mismo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6409]You can't do physical attacks right[n]now![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_106]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6410]斡Tu movimiento ha sido lento! 斡Cuidado con[n]los ataques entrantes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6410]Your movement's been slowed down![n]Watch out for incoming attacks![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_107]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6411]斡Es d姻bil contra ataques f胤sicos! 斡L茨rgate[n]a una pulpa![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6411]It's weak against physical attacks![n]Beat it to a pulp![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_108]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6412]Es d姻bil contra el Fuego. 斡Quemenlo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6412]It's weak against Fire. Burn it down![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_109]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6413]斡Alto, Sombra![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6413]It's weak against Ice. Freeze, Shadow![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_110]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6414]斡Usa ataques de viento! 斡Aminora su mente![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6414]Use Wind attacks! Blow its mind![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_111]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6415]Su debilidad es Electricidad. 斡Haz algo que[n]lo deje impactado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6415]Its weakness is Electricity. Do[n]something that'll leave it shocked![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_112]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6416]斡Es d姻bil contra los ataques nucleares! 斡Vamos[n]a demostrar que somos la bomba![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6416]It's weak against Nuclear attacks![n]Let's show it we're the bomb![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_113]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6417]斡Es d姻bil contra la Psicokinesis! Vamos a[n]pensar a trav姻s de este![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6417]It's weak against Psychokinesis![n]Let's think through this one![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_114]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6418]斡Es d姻bil contra las habilidades de Bless![n]Hagamos que rece por su fin![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6418]It's weak against Bless skills! Let's[n]make it pray for its end![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_115]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6419]斡Es d姻bil contra las habilidades de Curse![n]斡Hora para un c茨lculo imp胤a![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6419]It's weak against Curse skills! Time[n]for an unholy reckoning![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_116]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6420]斡Usa ataques f胤sicos a ese![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6420]Use physical attacks on that one![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_117]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6421]斡El fuego es efectivo! 斡Quemen a todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6421]Fire is effective! Burn them all![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_118]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6422]斡Odia el fr胤o! 夷Pero qui姻n no? 斡Intente atacar[n]con hielo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6422]It hates the cold! But who doesn't!?[n]Anyway, try attacking with Ice![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_119]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6423]斡Es d姻bil contra el viento! 夷Puedes[n]golpearlo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6423]It's weak against Wind! Can you hit it?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_120]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6424]斡La electricidad es efectiva! 斡Explota esa[n]debilidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6424]Electricity is effective! Exploit that[n]weakness![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_121]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6425]Ir a Nuclear es nuestra mejor opción! 斡Esa[n]es su debilidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6425]Going Nuclear is our best option![n]That's its weakness![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_122]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6426]La psicookinesis es efectiva. 斡S茨calo antes[n]de que se ponga psicópata en Estados[n]Unidos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6426]Psychokinesis is effective. Take[n]it out before it goes psycho on US![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_123]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6427]斡Noticias celestiales! 斡Ataques que la[n]Bendición es bastante eficaz contra este![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6427]Heavenly news! Attacks that Bless are[n]pretty effective against this one![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_124]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6428]Ataques con 斡La maldición son buenas apuestas[n]para este![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6428]Attacks with Curse are good bets for[n]this one![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_125]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6241]斡Lo est茨s haciendo genial, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6241]You're doing great, everybody![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_126]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6242]斡Vamos, vamos, vamos! 斡Ll姻venlos a todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6242]Go, go, go! Take them all down![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_127]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6341]斡S胤! 斡Pueden hacerlo, chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6341]Yeah! You can do it, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_128]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6342]Sólo lo dir姻... 斡est茨s todo a punto![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6342]I'll just say it... you're all uh-MAzing![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_129]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6343]斡Ahora puedes usar Relevo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6343]You can use Baton Pass now![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_130]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6344]斡Podr胤as hacer alg雨n daño grave con un pase[n]de Baton![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6344]You could do some serious damage[n]with a Baton Pass![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_131]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6245]斡Estoy listo para apoyar en un momento de[n]aviso![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6245]I'm ready to support at a moment's[n]notice![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_132]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6246]斡Av胤same si hay algo que pueda hacer para[n]ayudar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6246]Let me know if there's anything I[n]can do to help![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_133]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6250]斡Vamos, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6250]Let's go, everyone![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_134]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6251]斡Acabemos con esto![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6251]Let's just get this over with![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_135]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6101]斡Vaya! 斡Eres incre胤ble, Senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6101]Wow! You're awesome, Senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_136]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6102]斡Eso es![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6102]That's it![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_137]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6103]斡Bien, Yosuke-senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6103]Good one, Yosuke-senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_138]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6104]斡Bien, Chie-senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6104]Nice, Chie-senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_139]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6105]斡S胤! 斡Lo que espero de ti, Yukiko-senpai![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6105]Yeah! Just what I expect from you,[n]Yukiko-senpai![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_140]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_141]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6107]斡Vamos, Kanji![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6107]You go, Kanji![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_142]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6108]斡As胤 se hace, Naoto-kun![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6108]That's how it's done, Naoto-kun![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_143]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6109]斡Eso es todo, Teddie![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6109]That's it, Teddie![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_144]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6110]斡Eso fue asqueroso, Yukari-chan![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6110]That was slick, Yukari-chan![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_145]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6111]斡As胤 se hace, Junpei-san![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6111]Way to go, Junpei-san![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_146]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6112]斡Buen movimiento, Akihiko-san![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6112]Nice moves, Akihiko-san![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_147]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6113]斡Eso ten胤a estilo, Mitsuru-san![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6113]Now that had style, Mitsuru-san![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_148]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_149]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6115]斡Bien hecho, Aigis![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6115]Good going, Aigis![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_150]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6116]斡Lo hiciste, Ken-kun![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6116]You did it, Ken-kun![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_151]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6117]斡Buen chico, Koro-chan![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6117]Good boy, Koro-chan![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_152]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6118]斡Le mostraste, Shinjiro-san![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6118]You showed him, Shinjiro-san![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_153]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6119]斡Bien! 斡Lo tienes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6119]Nice! You got 'im![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_154]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6120]Buen trabajo, Joker![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6120]Nice work, Joker![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_155]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6121]斡Te ves bien, Skull![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6121]Looking good, Skull![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_156]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6122]斡Est茨s en el punto, Panther![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6122]You're on point, Panther![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_157]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6123]斡Eso fue perfecto, Mona![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6123]That was perfect, Mona![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_158]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6124]Heck s胤, vamos Fox![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6124]Heck yeah, go Fox![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_159]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6125]斡T雨 mandas, Queen![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6125]You rule, Queen![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_160]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_161]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6127]斡Eso estuvo muy bien, Noir![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6127]That was too cool, Noir![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_162]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6128]斡Lo tienes, Crow![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6128]You got him, Crow![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_163]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
@@ -494,80 +494,80 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_165]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6901]Cuidamos de estas Sombras. 斡D姻jenme el apoyo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6901]Let's take care of these Shadows.[n]Leave the support to me![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_166]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6920]Tenemos que demostrarle que est茨 equivocado...[n]斡Vamos, chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6920]We've gotta show him that he's[n]wrong... Let's go, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_167]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6921]夷Qu姻? Algo le pasa. 斡No conf胤en en 姻l,[n]chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6921]What!? Something's off about him.[n]Don't trust him, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_168]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6922]斡Cuidado con sus amigos atr茨s! 斡S茨calos[n]primero![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6922]Look out for his cronies in the back![n]Take them out first![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_169]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6923]斡Conc姻ntrate en sus amigos primero![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6923]Focus on his pals in the back first![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_170]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6924]Creo que podemos tomarlo ahora... 斡Mu姻vanse![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6924]I think we can take it now... Go[n]ahead and nab it, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_171]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6930]斡Tenemos que ganar! 斡Hazlo por Ribbon-chan![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6930]We have to win! Do it for Ribbon-chan![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_172]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6931]Este mundo est茨 tan equivocado... 斡Bueno,[n]dale todo lo que tienes, chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6931]This world is so wrong... Well, give[n]it all you got, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_173]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6932]Gracias a Oracle y Ribbon-chan, ha perdido[n]su capacidad de reparación. 斡Vamos, vamos,[n]vamos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6932]Thanks to Oracle and Ribbon-chan, it's[n]lost its repair ability. Go, go, go![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_174]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6933]斡Su capacidad de reparación es deshabilitada![n]斡Dale todo lo que tienes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6933]Its repairing ability is disabled! Give[n]it everything you've got![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_175]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6934]Espera, 夷qu姻?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6934]Wait, what!?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_176]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6940]Algo horrible le est茨 pasando... 斡Ten cuidado,[n]chicos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6940]Something awful is happening to him...[n]Be careful, guys![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_177]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6941]斡Todos, vayan por los ojos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6941]Everyone, go for the eyes![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_178]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6942]夷Es ese su punto d姻bil? 斡Yo digo que concentres[n]tus ataques![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6942]Is that its weak spot? I say focus[n]your attacks there![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_179]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6943]斡No! 夷Ese no era su punto d姻bil?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6943]No...! That wasn't its weak spot?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_180]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6944]Esto no es bueno... 夷Qu姻 podemos hacer.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6944]This isn't good... What can we do...[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_181]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6945]El apoyo de Hikari-chan... 斡Quiz茨 esto pueda[n]dar la vuelta![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6945]Hikari-chan's support... Maybe this[n]can turn things around![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_182]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6946]斡S胤, est茨 funcionando![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6946]Yes, it's working![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_183]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6950]Siento un poder que es masivo e inmunda...[n]斡Prom姻teme que cuidar茨s![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6950]I sense a power there that's massive and[n]merciless... Promise me you'll take care![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_184]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6951]Hemos llegado hasta aqu胤. 斡Ahora no hay marcha[n]atr茨s![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6951]We've come this far. There's no backing[n]out now![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_185]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6952]斡La afinidad del enemigo cambió![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6952]The enemy's affinity changed![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_186]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6953]Una gran cantidad de poder est茨 construyendo...[n]斡Podr胤amos estar en grandes[n]problemas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6953]A huge amount of power's building[n]up... We could be in big trouble![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_187]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6954]夷Qu姻 est茨 pasando? 斡El tiempo est茨... siendo[n]lanzado hacia adelante![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6954]What's happening!? Time is... being[n]hurled forward![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_188]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6955]Es... No puede ser. 斡Est茨 usando el rift a[n]tiempo para atacar a todos[n]simult茨neamente![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6955]It... It can't be. She's using the rift in[n]time to attack everyone simultaneously![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_189]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6956]夷Qu姻...? 斡Ahora el tiempo va al rev姻s![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6956]What...!? Now time is going in reverse![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_190]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6957]Est茨 usando nuestras propias acciones desde[n]antes de revertir el tiempo...! 夷Cómo es[n]posible...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6957]She's using our own actions from before[n]time reversed...!? How is that possible...[n][f 1 6 65535][e]
 

@@ -1,4 +1,4 @@
-[msg KOROMARU_FOE_FOLLOW_STAR]
+ï»¿[msg KOROMARU_FOE_FOLLOW_STAR]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17300]æ–¡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_FOE_FOLLOW_STAR_2]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17323]æ–¡Arf![n][f 1 6 65535][e]
 
 [msg KOROMARU_BATTLE_CHANGE_D]
-[f 0 5 65278][f 2 1]â–ãƒ {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]â– ãƒˆ {\cHFF}[n][f 1 6 65535][e]
 
 [msg KOROMARU_BATTLE_CHANGE_D_2]
-[f 0 5 65278][f 2 1]â–ãƒ {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]â– ãƒˆ {\cHFF}[n][f 1 6 65535][e]
 
 [msg KOROMARU_BATTLE_CHANGE_D_3]
-[f 0 5 65278][f 2 1]â–ãƒ {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]â– ãƒˆ {}[n][f 1 6 65535][e]
 
 [msg KOROMARU_ITEM_90_DUNGEON]
 [f 0 5 65278][f 2 1][e]
