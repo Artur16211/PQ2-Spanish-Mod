@@ -27,14 +27,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero estar胤a un poco preocupada por lo[n]fr茨gil que son. Estos huesos parecen[n]estar bastante climatizados despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]S胤. Es desafortunado, pero[n]probablemente no son adecuados para ning雨n tipo de combate.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]S胤. Es desafortunado,[n]pero probablemente no son adecuados[n]para ning雨n tipo de combate.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28076]Creo que es una idea interesante.[n]Realmente no los ves en el mundo real.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 28 1 0 1][f 3 1 1 0 0 0]Pero estar胤a un poco preocupada por lo[n]fr茨gil que son. Estos huesos parecen[n]estar bastante climatizados despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]S胤. Es desafortunado, pero[n]probablemente no son adecuados para ning雨n tipo de combate.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]S胤. Es desafortunado,[n]pero probablemente no son adecuados[n]para ning雨n tipo de combate.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 6][f 3 1 1 0 0 4068][f 6 1 2 0 0 6]斡Yo tambi姻n! 斡Voy a tomar carne sobre[n]los huesos cualquier d胤a! Waaay m茨s importante![n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero eso podr胤a resultar algo dif胤cil.[n]Estos huesos parecen estar bastante[n]climatizados despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 1 2 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]S胤. Es desafortunado, pero[n]probablemente no son adecuados para ning雨n tipo de combate.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 1 2 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]S胤. Es desafortunado,[n]pero probablemente no son adecuados[n]para ning雨n tipo de combate.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 0 0 3][f 3 1 1 0 0 0]Huesos... Huesos... costillas cortas...[n]Costillas cortas de dinosaurio...[n][f 1 3 65535][f 1 1][e]

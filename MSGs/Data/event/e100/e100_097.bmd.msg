@@ -11,7 +11,7 @@
 
 [msg MSG_003 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 5]Espera un segundo. Si Makoto y Haru[n]estaban con nosotros dentro de la pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6]夷Eso significa que los dejamos atr茨s en[n]ese lugar en el otro lado de la pantalla?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6]夷Eso significa que las dejamos atr茨s en[n]la ciudad al otro lado de la pantalla?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 7]Me temo que ese parece ser el caso...[n][f 1 3 65535][f 1 1][e]
@@ -97,7 +97,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 33]De hecho, puedo ofrecer ayuda. 夷No me seguir胤as?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 25 0 0 0][f 4 6 64 3 0 1]Nagi se dirige hacia el stand de concesi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 25 0 0 0][f 4 6 64 3 0 1]Nagi se dirige hacia el puesto de concesi吋n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 34]Si nos va a ayudar, veamos qu姻 est茨[n]haciendo antes de volver a la pel胤cula.[n][f 1 3 65535][f 1 1][e]

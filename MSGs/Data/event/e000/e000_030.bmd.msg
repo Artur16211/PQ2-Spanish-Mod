@@ -11,11 +11,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hacker extraordinaria y antiguamente[n]encerrada. Muy t胤mida con los extra隠os.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 6 0 1][f 3 1 1 0 0 4][f 6 1 2 0 0 3]Comparado con el resto de ustedes,[n]todav胤a soy bastante inexperto...[n]斡Pero no voy a defraudaros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 6 0 1][f 3 1 1 0 0 4][f 6 1 2 0 0 3]Comparado con el resto de ustedes,[n]todav胤a soy bastante inexperto...[n]斡Pero no voy a defraudarlos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Noir.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tercer a隠o en el instituto Shujin y[n]senpai para el resto de la pandilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tercer a隠o en el instituto Shujin y[n]senpai para el resto del equipo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La 雨nica hija del presidente de[n]la compa隠ia Okumura Foods.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Brillante y alegre; se preocupa[n]mucho por sus amigos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 6]Oye, la acci吋n de Makoto-Mementos[n]est茨 bien y todo, pero 夷estamos bien[n]en el frente de la infiltraci吋n de Palacio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 6]Oye, la acci吋n de Makoto en Mementos[n]est茨 bien y todo, pero 夷estamos bien[n]de tiempo para la infiltraci吋n del Palacio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 1][f 3 1 1 0 0 7]No hay problema. Ser茨 mejor que[n]perfeccionemos nuestras habilidades en Mementos[n]para estar preparados para el Palacio.[n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De sangre caliente, pero[n]compasivo y atento. A menudo[n]habla sin pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 4 1 0][f 3 1 1 0 0 11]Oh, pero d吋nde est茨 ese tipo...[n]Es la primera vez que entra en[n]Mementos, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 4 1 0][f 3 1 1 0 0 11]Oh, pero d吋nde est茨 ese tipo...[n]Es la primera vez que entra a[n]Mementos, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Supongo que siempre podemos[n]deshacernos de 姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Akechi]]

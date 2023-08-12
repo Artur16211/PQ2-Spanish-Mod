@@ -11,34 +11,34 @@
 [f 0 5 65278][f 2 1]消耗品　0x503　１行目[n]効果：[f 0 1 4]味方１人のＨＰ２００回復[f 0 1 0][n][e]
 
 [msg item_504]
-[f 0 5 65278][f 2 1]A mysterious bead that emits a healing[n]light. [f 0 1 4]Restore all HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Una misteriosa cuenta que emite una luz curativa.[n][f 0 1 4]Restaura todos los PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_505]
-[f 0 5 65278][f 2 1]Mysterious candy that invigorates the[n]soul. [f 0 1 4]Restore 30 SP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Dulces misteriosos que vigorizan el alma.[n][f 0 1 4] Restaura 30 PE[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_506]
-[f 0 5 65278][f 2 1]A treat made from invigorating ingredients.[n][f 0 1 4]Restore 60 SP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Un regalo hecho de ingredientes estimulantes.[n][f 0 1 4]Restaura 60 PE[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_507]
-[f 0 5 65278][f 2 1]A mysterious gum that enriches the[n]soul. [f 0 1 4]Restore 100 SP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Una goma misteriosa que enriquece el alma.[n][f 0 1 4]Restaura 100 PE[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_508]
 [f 0 5 65278][f 2 1]消耗品　0x508　１行目[n]効果：[f 0 1 4]味方１人のＳＰ全回復[f 0 1 0][n][e]
 
 [msg item_509]
-[f 0 5 65278][f 2 1]A droplet of the "drink of the gods."[n][f 0 1 4]Restore 100 HP and 25 SP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Una gota del "bebido de los dioses".[n][f 0 1 4] Restaura 100 PS y 25 PE[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_50A]
-[f 0 5 65278][f 2 1]Crystallized "drink of the gods."[n][f 0 1 4]Restore 200 HP and 50 SP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Cristalizado "bebido de los dioses."[n][f 0 1 4] Restaura 200 PS y 50 PE[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_50B]
 [f 0 5 65278][f 2 1]消耗品　0x50B　１行目[n]効果：[f 0 1 4]味方１人のＨＰ＆ＳＰ全回復[f 0 1 0][n][e]
 
 [msg item_50C]
-[f 0 5 65278][f 2 1]A bead that can recall a fallen soul.[n][f 0 1 4]Revive and restore half HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Una granada que puede recordar un alma ca胤da.[n][f 0 1 4]Revive y Restaura la mitad PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_50D]
-[f 0 5 65278][f 2 1]Incense that can recall a fallen soul.[n][f 0 1 4]Revive and restore all HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Incienso que puede recordar un alma ca胤da.[n][f 0 1 4]Revive y Restaura todos los PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_50E]
 [f 0 5 65278][f 2 1]消耗品　0x50E　１行目[n]効果：[f 0 1 4]味方１列のＨＰ１５０回復[f 0 1 0][n][e]
@@ -47,49 +47,49 @@
 [f 0 5 65278][f 2 1]消耗品　0x50F　１行目[n]効果：[f 0 1 4]味方１列のＨＰを３００回復[f 0 1 0][n][e]
 
 [msg item_510]
-[f 0 5 65278][f 2 1]Medicine to unseal one's strength.[n][f 0 1 4]Cure Binds[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Medicina para liberar la fuerza.[n][f 0 1 4]Elimina Restricciones[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_511]
 [f 0 5 65278][f 2 1]消耗品　0x511　１行目[n]効果：[f 0 1 4]味方１人の状態異常を回復[f 0 1 0][n][e]
 
 [msg item_512]
-[f 0 5 65278][f 2 1]Spring water consecrated in a holy ritual.[n][f 0 1 4]Remove buffs[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Agua de primavera consagrada en un ritual santo.[n][f 0 1 4]Elimina Aumentos[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_513]
-[f 0 5 65278][f 2 1]Coarse salt consecrated in a holy ritual.[n][f 0 1 4]Remove debuffs[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Sal gruesa consagrada en un ritual santo.[n][f 0 1 4]Elimina desventajas[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_514]
-[f 0 5 65278][f 2 1]A ward with Rasetsu's divine blessing.[n][f 0 1 4]Raise attack for 3 turns[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de Rasetsu.[n][f 0 1 4]Aumentar el ataque por 3 turnos[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_515]
-[f 0 5 65278][f 2 1]A ward with the Kongou's divine blessing.[n][f 0 1 4]Raise defense for 3 turns[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de los Kongou.[n][f 0 1 4]Aumenta la defensa por 3 turnos[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_516]
-[f 0 5 65278][f 2 1]A ward with Idaten's blessing. [f 0 1 4]Raise[f 0 1 0][n][f 0 1 4]accuracylevasion for 3 turns[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Una sala con la bendici吋n de Idaten.[n][f 0 1 4]Aumenta[f 0 1 0] [f 0 1 4]la precisi吋nlevasi吋n por 3 turnos[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_517]
-[f 0 5 65278][f 2 1]Liquid styled after the drink of the gods.[n][f 0 1 4]Cure ailments and Binds[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]L胤quido estilo despu姻s de la bebida de los dioses.[n][f 0 1 4]Elimina Estados Alterados y Restricciones[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_518]
 [f 0 5 65278][f 2 1]消耗品　0x518　１行目[n]消耗品　0x518　２行目[n][e]
 
 [msg item_519]
-[f 0 5 65278][f 2 1]Conjures mist that drowns out flames.[n][f 0 1 4]Grant Fire resistance for 3 turns[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conjura la niebla que ahoga las llamas.[n][f 0 1 4]Otorga resistencia al Fuego por 3 turnos[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_51A]
-[f 0 5 65278][f 2 1]Conjures mist that reduces chill.[n][f 0 1 4]Grant Ice resistance for 3 turns[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conjure la niebla que reduce el escalofr胤o.[n][f 0 1 4]Otorga resistencia al Hielo durante 3[n]turnos[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_51B]
-[f 0 5 65278][f 2 1]Conjures mist that dampens electricity.[n][f 0 1 4]Grant Elec resistance for 3 turns[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conjura la niebla que humedece la electricidad.[n][f 0 1 4] Gran resistencia Elec por 3 turnos[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_51C]
-[f 0 5 65278][f 2 1]Conjures mist that lessens wind.[n][f 0 1 4]Grant Wind resistance for 3 turns[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conjura la niebla que disminuye el viento.[n][f 0 1 4] Gran resistencia al viento por 3 turnos[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_51D]
-[f 0 5 65278][f 2 1]Conjures mist that negates nuclear energy.[n][f 0 1 4]Grant Nuke resistance for 3 turns[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conjura la niebla que niega la energ胤a nuclear.[n][f 0 1 4]Gran resistencia nuclear por 3 turnos[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_51E]
-[f 0 5 65278][f 2 1]Conjures mist that muddles ESP.[n][f 0 1 4]Grant Psy resistance for 3 turns[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conjura la niebla de los barrotes EPE.[n][f 0 1 4]Gran resistencia al Psy por 3 turnos[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_51F]
 [f 0 5 65278][f 2 1]消耗品　0x51F　１行目[n]消耗品　0x51F　２行目[n][e]
@@ -98,46 +98,46 @@
 [f 0 5 65278][f 2 1]消耗品　0x520　１行目[n]消耗品　0x520　２行目[n][e]
 
 [msg item_521]
-[f 0 5 65278][f 2 1]Bursts with a fiery blast when thrown.[n][f 0 1 4]Light Fire damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Bursts con una explosi吋n ardiente cuando se lanza.[n][f 0 1 4]Da隠o de Fuego ligero[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_522]
-[f 0 5 65278][f 2 1]A bullet that explodes into flame.[n][f 0 1 4]Medium Fire damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota en llamas.[n][f 0 1 4]Da隠o de fuego medio[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_523]
-[f 0 5 65278][f 2 1]Bursts with crackling frost when thrown.[n][f 0 1 4]Light Ice damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Bursts with crackling frost when thrown.[n][f 0 1 4]Da隠o de hielo ligero[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_524]
-[f 0 5 65278][f 2 1]A bullet that explodes into a blizzard.[n][f 0 1 4]Medium Ice damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota en una tormenta.[n][f 0 1 4]Da隠o de hielo medio[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_525]
-[f 0 5 65278][f 2 1]Bursts with high voltage when thrown.[n][f 0 1 4]Light Elec damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Bursts con alta tensi吋n cuando se lanza.[n][f 0 1 4]Da隠o El姻ctrico leve[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_526]
-[f 0 5 65278][f 2 1]A bullet that explodes into electricity.[n][f 0 1 4]Medium Elec damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota en la electricidad.[n][f 0 1 4]Da隠o el姻ctrico medio[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_527]
-[f 0 5 65278][f 2 1]Bursts with galeforce winds when thrown.[n][f 0 1 4]Light Wind damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Bursts with galeforce winds when thrown.[n][f 0 1 4]Da隠os de viento leve[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_528]
-[f 0 5 65278][f 2 1]A bullet that explodes into a whirlwind.[n][f 0 1 4]Medium Wind damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota en un torbellino.[n][f 0 1 4]Da隠o de viento medio[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_529]
-[f 0 5 65278][f 2 1]Blessed rice that can purify a target.[n][f 0 1 4]Instant kill Bless attack[f 0 1 0]. (1 Enemy)[n][e]
+[f 0 5 65278][f 2 1]Bendito arroz que puede purificar un objetivo.[n][f 0 1 4]Ataque de Bendici吋n con muerte instant茨nea[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg item_52A]
-[f 0 5 65278][f 2 1]A forbidden sutra used as a death curse.[n][f 0 1 4]Instant kill Curse attack[f 0 1 0]. (1 Enemy)[n][e]
+[f 0 5 65278][f 2 1]Un sutra prohibido usado como una maldici吋n de muerte.[n][f 0 1 4]Ataque de Maldici吋n con muerte instant茨nea[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg item_52B]
-[f 0 5 65278][f 2 1]Bursts with kinetic power when thrown.[n][f 0 1 4]Light Psy damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Bursts con poder cin姻tico cuando se lanza.[n][f 0 1 4]Da隠o Ps胤quico Ligero[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_52C]
-[f 0 5 65278][f 2 1]A bullet that explodes with telekinetic[n]power. [f 0 1 4]Medium Psy damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota con poder telequin姻tico.[n][f 0 1 4]Da隠o Ps胤quico Medio[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_52D]
-[f 0 5 65278][f 2 1]Bursts with nuclear energy when thrown.[n][f 0 1 4]Light Nuke damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Bursts with nuclear energy when thrown.[n][f 0 1 4]Da隠o Nuclear ligero[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_52E]
-[f 0 5 65278][f 2 1]A bullet that explodes with nuclear[n]energy. [f 0 1 4]Medium Nuke damage[f 0 1 0]. (All Enemies)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota con energ胤a nuclear.[n][f 0 1 4]Da隠o Nuclear medio[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg item_52F]
 [f 0 5 65278][f 2 1]消耗品　0x52F　１行目[n]消耗品　0x52F　２行目[n][e]
@@ -149,136 +149,136 @@
 [f 0 5 65278][f 2 1]消耗品　0x531　１行目[n]効果：[f 0 1 4]使用ターン時の敵のドロップ率アップ[f 0 1 0][n][e]
 
 [msg item_532]
-[f 0 5 65278][f 2 1]This effigy oddly resembles its bearer.[n][f 0 1 4]Protect user from 1 BlesslCurse instant kill[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Esta efigie extra隠amente se parece a su portador. [f 0 1 4]Protege[n]al usuario de 1 muerte instant茨nea por Bendici吋nlMaldici吋n[f 0 1 0].[n][e]
 
 [msg item_533]
-[f 0 5 65278][f 2 1]Playing this pipe repels Shadows.[n][f 0 1 4]Reduce encounter rate[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Tocando este tubo repele las sombras.[n][f 0 1 4]Reduce el 胤ndice de encuentro[f 0 1 0].[n][e]
 
 [msg item_534]
-[f 0 5 65278][f 2 1]Playing this pipe attracts Shadows.[n][f 0 1 4]Raise encounter rate[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Jugar esta tuber胤a atrae Sombras.[n][f 0 1 4]Aumentar la tasa de encuentros[f 0 1 0].[n][e]
 
 [msg item_535]
-[f 0 5 65278][f 2 1]Instantly teleports user to safety.[n][f 0 1 4]Escape from current labyrinth[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Teleporta instant茨neamente al usuario a la seguridad.[n][f 0 1 4]Escapa del laberinto actual[f 0 1 0].[n][e]
 
 [msg item_536]
-[f 0 5 65278][f 2 1]Instantly teleports user to the staircase.[n][f 0 1 4]Return to floor entrance[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Al instante el usuario teletransporta a la escalera.[n][f 0 1 4]Regresa a la entrada del piso[f 0 1 0].[n][e]
 
 [msg item_537]
 [f 0 5 65278][f 2 1]消耗品　0x537　１行目[n]消耗品　0x537　２行目[n][e]
 
 [msg item_538]
-[f 0 5 65278][f 2 1]A tool that can amplify FOE frequencies.[n][f 0 1 4]Display FOE locations on current floor[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Una herramienta que puede amplificar frecuencias FOE.[n][f 0 1 4]Mostrar la ubicaci吋n de los FOE en la planta actual[f 0 1 0].[n][e]
 
 [msg item_539]
-[f 0 5 65278][f 2 1]Known as the drink of the gods.[n][f 0 1 4]Restore all HP and SP[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Conocido como la bebida de los dioses.[n][f 0 1 4]Restaura todos los PS y PE[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_53A]
-[f 0 5 65278][f 2 1]A chain of beads with a healing light.[n][f 0 1 4]Restore all HP[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Una cadena de cuentas con una luz curativa.[n][f 0 1 4]Restaura todos los PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_53B]
-[f 0 5 65278][f 2 1]A mysterious Goho-M that doesn't vanish[n]after use. [f 0 1 4]Escape from current labyrinth[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Un misterioso Goho-M que no desaparece despu姻s de su uso.[n][f 0 1 4]Escapa del laberinto actual[f 0 1 0].[n][e]
 
 [msg item_53C]
-[f 0 5 65278][f 2 1]A mysterious Goba-K that doesn't vanish[n]after use. [f 0 1 4]Return to floor entrance[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Un misterioso Goba-K que no desaparece despu姻s del uso.[n][f 0 1 4] Volver a la entrada del piso[f 0 1 0].[n][e]
 
 [msg item_53D]
-[f 0 5 65278][f 2 1]Sounding this horn attracts Shadows.[n][f 0 1 4]Greatly raise encounter rate[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Sonar este cuerno atrae Sombras.[n][f 0 1 4]Aumenta considerablemente la tasa de encuentros[f 0 1 0].[n][e]
 
 [msg item_53E]
-[f 0 5 65278][f 2 1]Sounding this horn drives Shadows away.[n][f 0 1 4]Eliminates random encounters[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Sonar este cuerno aleja las sombras.[n][f 0 1 4]Elimina encuentros aleatorios[f 0 1 0].[n][e]
 
 [msg item_53F]
-[f 0 5 65278][f 2 1]Exploits the dungeon's volatility.[n][f 0 1 4]Refresh Treasure Spots for current floor[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Explota la volatilidad del calabozo. [f 0 1 4]Actualizar[n]los puntos del tesoro de la planta actual[f 0 1 0].[n][e]
 
 [msg item_540]
 [f 0 5 65278][f 2 1]消耗品　0x540　１行目[n]消耗品　0x540　２行目[n][e]
 
 [msg item_541]
-[f 0 5 65278][f 2 1]Only usable in battle. Doesn't vanish[n]after use. [f 0 1 4]Restore 30 HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]S吋lo usable en la batalla. No desaparece despu姻s del uso.[n][f 0 1 4]Restaura 30 PS[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg item_542]
-[f 0 5 65278][f 2 1]A ball that deploys a smokescreen.[n][f 0 1 4]Guaranteed escape (in escapable battles)[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Una pelota que despliega una cortina de humo.[n][f 0 1 4]Escape garantizado (en batallas con escapatoria)[f 0 1 0].[n][e]
 
 [msg item_543]
-[f 0 5 65278][f 2 1]A spicy, deep-fried thigh of a phoenix.[n][f 0 1 4]Revive and restore 30% HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Un muslo picante y profundo de un f姻nix.[n][f 0 1 4]Revive y restaura 30% PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_544]
-[f 0 5 65278][f 2 1]Popcorn that is seasoned with salt.[n][f 0 1 4]Restore 30 HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Palomitas que se sazonan con sal.[n][f 0 1 4]Restaura 30 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_545]
-[f 0 5 65278][f 2 1]Fries made with healthy potatoes.[n][f 0 1 4]Revive and restore 10% HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Frios hechos con patatas sanas.[n][f 0 1 4]Revive y restaura 10% PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_546]
 [f 0 5 65278][f 2 1]消耗品　0x546　１行目[n]消耗品　0x546　２行目[n][e]
 
 [msg item_547]
-[f 0 5 65278][f 2 1]Only usable in battle. Doesn't vanish after[n]use. [f 0 1 4]Revive and restore 10% HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]S吋lo usable en la batalla. No desaparece despu姻s del uso.[n][f 0 1 4]Revive y restaura 10% PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_548]
 [f 0 5 65278][f 2 1]消耗品　0x548　１行目[n]消耗品　0x548　２行目[n][e]
 
 [msg item_549]
-[f 0 5 65278][f 2 1]Sweet popcorn infused with honey.[n][f 0 1 4]Restore 80 HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Dulces palomitas infundidas con miel.[n][f 0 1 4]Restaura 80 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54A]
-[f 0 5 65278][f 2 1]A hot dog long enough to feed three.[n][f 0 1 4]Restore 60 HP[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Un perro caliente lo suficiente para alimentar a[n]tres. [f 0 1 4]Restaura 60 PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_54B]
-[f 0 5 65278][f 2 1]Refreshing drink that cleanses impurities.[n][f 0 1 4]Cure status ailments[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Refrescante bebida que limpia impurezas.[n][f 0 1 4]Cura Estados Alterados[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54C]
-[f 0 5 65278][f 2 1]Popcorn with a tropical flavor.[n][f 0 1 4]Restore 120 HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Palomitas con sabor tropical.[n][f 0 1 4]Restaura 120 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54D]
-[f 0 5 65278][f 2 1]Popcorn bursting with savory juices.[n][f 0 1 4]Restore 180 HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Palomitas de ma胤z con jugos de sabor.[n][f 0 1 4]Restaura 180 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54E]
-[f 0 5 65278][f 2 1]Mysterious seven-flavor popcorn.[n][f 0 1 4]Restore 250 HP[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Misterios palomitas de siete sabores.[n][f 0 1 4]Restaura 250 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54F]
 [f 0 5 65278][f 2 1]消耗品　0x54F　１行目[n]消耗品　0x54F　２行目[n][e]
 
 [msg item_550]
-[f 0 5 65278][f 2 1]A Persona's power can be copied onto this[n]card. [f 0 1 4]Special effect in Sacrifice Fusion[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]El poder de Persona se puede copiar en esta tarjeta.[n][f 0 1 4]Efecto especial en Sacrificio Fusi吋n[f 0 1 0].[n][e]
 
 [msg item_551]
-[f 0 5 65278][f 2 1]A Persona's power can be copied onto this[n]card. [f 0 1 4]Special effect in Sacrifice Fusion[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]El poder de Persona se puede copiar en esta tarjeta.[n][f 0 1 4]Efecto especial en Sacrificio Fusi吋n[f 0 1 0].[n][e]
 
 [msg item_552]
-[f 0 5 65278][f 2 1]Specialty of a ramen place in Iwatodai[n]Station. [f 0 1 4]Restore 50% HP[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la[n]estaci吋n Iwatodai. [f 0 1 4]Restaura 50% de PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_553]
-[f 0 5 65278][f 2 1]Specialty of a Chinese diner in Inaba.[n][f 0 1 4]Restore all HP[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_554]
-[f 0 5 65278][f 2 1]Specialty of an alleyway caf〒 in Yongen-[n]Jaya. [f 0 1 4]Restore 50% SP[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un cafe en[n]Yongen- Jaya. [f 0 1 4]Restaura 50% de PE[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_555]
-[f 0 5 65278][f 2 1]Incense that unifies mind and memory.[n][f 0 1 4]Raise level to Wild Level[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1]Incense que unifica la mente y la[n]memoria. [f 0 1 4] Sube el nivel a Wild Level[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg item_556]
 [f 0 5 65278][f 2 1]消耗品　0x556　１行目[n]消耗品　0x556　２行目[n][e]
 
 [msg item_557]
-[f 0 5 65278][f 2 1]Two long hot dogs combined into one.[n][f 0 1 4]Restore 120 HP[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Dos perros calientes largos combinados[n]en uno. [f 0 1 4]Restaura 120 PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_558]
-[f 0 5 65278][f 2 1]A extra-long, extra-thick hot dog.[n][f 0 1 4]Restore 180 HP[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Un perro caliente extra-long,[n]extra-thick. [f 0 1 4]Restaura 180 PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_559]
-[f 0 5 65278][f 2 1]Water that purges bodily impurities.[n][f 0 1 4]Cure status ailments[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Agua que purga impurezas corporales. [f 0 1 4]Cura Estados Alterados[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_55A]
-[f 0 5 65278][f 2 1]Vat of water that purges bodily impurities.[n][f 0 1 4]Cure status ailments[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Vatio de agua que purifica impurezas[n]corporales. [f 0 1 4]Cura Estados Alterados[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_55B]
-[f 0 5 65278][f 2 1]A multi-pack of unbinding medicine.[n][f 0 1 4]Cure Binds[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Una multi-paquete de medicina sin[n]uni吋n. [f 0 1 4]Elimina Restricciones[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_55C]
-[f 0 5 65278][f 2 1]A jumbo pack of unbinding medicine.[n][f 0 1 4]Cure Binds[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Un paquete de jumbo de medicinas[n]inconclusas. [f 0 1 4]Elimina Restricciones[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_55D]
-[f 0 5 65278][f 2 1]A long arrangement of pastries. Can feed[n]up to 3. [f 0 1 4]Restore 30 HP[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Un largo arreglo de pasteles. Puede[n]alimentar hasta 3. [f 0 1 4]Restaura 30 PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_55E]
 [f 0 5 65278][f 2 1]消耗品　0x55E　１行目[n]消耗品　0x55E　２行目[n][e]
@@ -758,11 +758,11 @@
 [f 0 5 65278][f 2 1]消耗品　0x5FC　１行目[n]消耗品　0x5FC　２行目[n][e]
 
 [msg item_5FD]
-[f 0 5 65278][f 2 1]Specialty of a ramen place in Iwatodai[n]Station. [f 0 1 4]Restore 50% HP[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la[n]estaci吋n Iwatodai. [f 0 1 4]Restaura 50% de PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg item_5FE]
-[f 0 5 65278][f 2 1]Specialty of a Chinese diner in Inaba.[n][f 0 1 4]Restore all HP[f 0 1 0]. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0]. (1 fila)[n][e]
 
 [msg item_5FF]
-[f 0 5 65278][f 2 1]Specialty of an alleyway caf〒 in Yongen-[n]Jaya. [f 0 1 4]Restore 50% SP[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un cafe en[n]Yongen- Jaya. [f 0 1 4]Restaura 50% de PE[f 0 1 0]. (Grupo)[n][e]
 

@@ -1,153 +1,153 @@
 ﻿[msg quest_story_000]
-[f 0 5 65278][f 2 1]クエスト００のあらすじです。[n]ダミーメッセージです。[n]ダミーメッセージです。[n][e]
+[f 0 5 65278][f 2 1]Нельногольныеннные. неннныенныеннныенные[n][e]
 
 [msg quest_story_001]
-[f 0 5 65278][f 2 1]Synopsis[n]Kamo City, freed of its tyrant's iron rule,[n]still grapples with a fog of evil that all[n]across the land is warping the minds of[n]the people. They cry out for true peace![n][e]
+[f 0 5 65278][f 2 1]Sinopsis La ciudad de Kamo, liberada de[n]la regla de hierro de su tirano, sigue[n]luchando con una niebla del mal que todo[n]el mundo est茨 vigilando las mentes del pueblo. 斡Lloran por la verdadera paz![n][e]
 
 [msg quest_story_002]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg quest_story_003]
-[f 0 5 65278][f 2 1]Synopsis[n]A gang of macho men is terrorizing the[n]people of Kamo City's 2nd Ave. When,[n]oh when will a real man come and put a[n]stop to such boneheaded machismo?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis Una banda de hombres machos[n]est茨 aterrorizando a la gente de la 2a[n]Avenida de Kamo City. 夷Cu茨ndo vendr茨 un[n]hombre de verdad y pondr茨 una parada a tal machismo de cabeza huesca?[n][e]
 
 [msg quest_story_004]
-[f 0 5 65278][f 2 1]Synopsis[n]Run for peace! Run for love! Run[n]through the city as blazing searchlights[n]try to keep up with you. In this speedy[n]action thriller, a legend will be born![n][e]
+[f 0 5 65278][f 2 1]Sinopsis 斡Corre por la paz! 斡Corre por[n]amor! Corran por la ciudad mientras los[n]reflectores intentan mantenerse al d胤a[n]contigo. 斡En este r茨pido thriller de acci吋n nacer茨 una leyenda![n][e]
 
 [msg quest_story_005]
-[f 0 5 65278][f 2 1]005 あらすじ[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1]005 ненный нельный[n][e]
 
 [msg quest_story_006]
-[f 0 5 65278][f 2 1]Synopsis[n]In a land where dinosaurs have risen[n]again, are there also stirrings of life in[n]the deep, dark waters? This is Junessic[n]Land, where history is written anew...[n][e]
+[f 0 5 65278][f 2 1]Sinopsis En una tierra donde los[n]dinosaurios han resucitado de nuevo, 夷hay[n]tambi姻n revuelos de vida en las aguas[n]profundas y oscuras? Esta es la Tierra Junesic, donde la historia est茨 escrita de nuevo...[n][e]
 
 [msg quest_story_007]
-[f 0 5 65278][f 2 1]Synopsis[n]The Chicken Kid is Kamo City's self-[n]proclaimed guardian. He patrols day[n]and night, but is so draconian that he is[n]quashing the very peace he believes in.[n][e]
+[f 0 5 65278][f 2 1]Sinopsis El Ni隠o Chicken es el tutor[n]autoproclamado de Kamo City. Patrulla de[n]d胤a y de noche, pero es tan draconiano[n]que est茨 aplastando la misma paz en la que cree.[n][e]
 
 [msg quest_story_008]
-[f 0 5 65278][f 2 1]Synopsis[n]Could the culprit be a policeman!? It[n]can't be! But Shadows lurk everywhere[n]in Kamo City, even among its law[n]enforcement. Will the case be solved!?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 夷Podr胤a ser el culpable un[n]polic胤a? 斡No puede ser! Pero Sombras se[n]esconden en la ciudad de Kamo, incluso[n]entre sus fuerzas de seguridad. 夷Se resolver茨 el caso?[n][e]
 
 [msg quest_story_009]
-[f 0 5 65278][f 2 1]Synopsis[n]Graffiti is the scream of the soul. You,[n]do you listen to your heart!? Or are you[n]just lying to yourself every day? Find[n]your true voice, let your soul scream![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Graffiti es el grito del alma.[n]夷Escuchas tu coraz吋n? 夷O te est茨s[n]mintiendo todos los d胤as? Encuentra tu[n]verdadera voz, deja que tu alma grite![n][e]
 
 [msg quest_story_010]
-[f 0 5 65278][f 2 1]Synopsis[n]A ripple on the water, a breath of the[n]wind... And suddenly, there erupts an[n]epic battle of life and death! Yes, this is[n]the dramatic world of... fishing![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Una onda en el agua, un[n]aliento del viento... 斡Y de repente, estall吋[n]una batalla 姻pica de vida y muerte! S胤,[n]este es el mundo dram茨tico de... la pesca![n][e]
 
 [msg quest_story_011]
-[f 0 5 65278][f 2 1]Synopsis[n]Two legendary treasures, passed down[n]through generations, glowing in the[n]darkest night. Can they be stolen under[n]the watchful eyes of two Pterosaurs?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis Dos tesoros legendarios,[n]pasados por generaciones, brillando en la[n]noche m茨s oscura. 夷Pueden ser robados bajo[n]los ojos vigilantes de dos Pterosaurios?[n][e]
 
 [msg quest_story_012]
-[f 0 5 65278][f 2 1]Synopsis[n]Cinnamon, the oldest and kingliest of[n]spices. It is said that it is derived from a[n]plant known as Cinnamon Fern, that[n]grows only in an ancient forest...[n][e]
+[f 0 5 65278][f 2 1]Sinopsis Cinnamon, el m茨s antiguo y el[n]m茨s fuerte de las especias. Se dice que[n]se deriva de una planta conocida como[n]Cinnamon Fern, que crece s吋lo en un bosque antiguo...[n][e]
 
 [msg quest_story_013]
-[f 0 5 65278][f 2 1]Synopsis[n]The land has long been tended by[n]genetically engineered dinosaurs, but[n]suddenly mutant plants have sprouted[n]up everywhere. What could this mean?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis La tierra lleva mucho tiempo[n]atendida por dinosaurios gen姻ticamente[n]dise隠ados, pero de repente las plantas[n]mutantes han brotado en todas partes. 夷Qu姻 significa esto?[n][e]
 
 [msg quest_story_014]
-[f 0 5 65278][f 2 1]Synopsis[n]Even in an artificial land, babies are a[n]natural thing. And even if it's a[n]dinosaur, a baby separated from its[n]parents is a frightened thing![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Incluso en una tierra[n]artificial, los beb姻s son algo natural. 斡Y[n]aunque sea un dinosaurio, un beb姻 separado de[n]sus padres es algo asustado![n][e]
 
 [msg quest_story_015]
-[f 0 5 65278][f 2 1]Synopsis[n]Junessic Land is a place governed by[n]the principle of survival of the fittest.[n]Are you one of the fittest?[n][e]
+[f 0 5 65278][f 2 1]Synopsis Junessic Land es un lugar[n]gobernado por el principio de supervivencia[n]del m茨s apropiado. 夷Eres uno de los m茨s aptos?[n][e]
 
 [msg quest_story_016]
-[f 0 5 65278][f 2 1]Synopsis[n]Humans left Junessic Land long ago,[n]but their abandoned technology[n]remains... How can the dinosaurs[n]confront what humans left behind?[n][e]
+[f 0 5 65278][f 2 1]Synopsis Humans left Junessic Land long[n]ago, but their abandoned technology[n]remains... 夷C吋mo pueden los dinosaurios[n]enfrentar lo que los humanos dejaron atr茨s?[n][e]
 
 [msg quest_story_017]
-[f 0 5 65278][f 2 1]Synopsis[n]Time for you to be a savvy detective in[n]Kamo City. Interview witnesses! Comb[n]the crime scenes! Solve the mystery in[n]a dramatic reveal at the end of the movie![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Tiempo para que seas un[n]detective inteligente en Kamo City.[n]斡Entrevistar testigos! 斡Comb las escenas del[n]crimen! 斡Resolver el misterio en una dram茨tica revelaci吋n al final de la pel胤cula![n][e]
 
 [msg quest_story_018]
-[f 0 5 65278][f 2 1]Synopsis[n]Do you have something that's precious[n]to you? Of course you do. So fight for it![n]And see this film, where everyone does[n]the same. The stakes couldn't be higher![n][e]
+[f 0 5 65278][f 2 1]Sinopsis 夷Tienes algo que sea precioso[n]para ti? Claro que s胤. 斡Pelea por ello![n]Y vea esta pel胤cula, donde todos hacen[n]lo mismo. 斡Las apuestas no podr胤an ser m茨s altas![n][e]
 
 [msg quest_story_019]
-[f 0 5 65278][f 2 1]Synopsis[n]Warriors, assemble! On this ancient isle[n]make your last stand, though great[n]beasts tower over you! You must not[n]falter (especially in a movie this epic).[n][e]
+[f 0 5 65278][f 2 1]Sinopsis Guerreros, ensamblad! En esta[n]isla antigua haz tu 雨ltimo estrado,[n]斡aunque grandes bestias torren sobre ti![n]Usted no debe falsificar (especialmente en una pel胤cula esta 姻pica).[n][e]
 
 [msg quest_story_020]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg quest_story_021]
-[f 0 5 65278][f 2 1]Synopsis[n]Search for ingredients in the jungle, and[n]create the perfect dish! Normal cooking[n]shows are nothing compared to this, a[n]cooking show in unforgiving nature...[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 斡Busca ingredientes en la[n]selva y crea el plato perfecto! Los[n]programas normales de cocina no son nada[n]comparados con esto, un show de cocina en naturaleza imperdonable...[n][e]
 
 [msg quest_story_022]
-[f 0 5 65278][f 2 1]Synopsis[n]Don't miss this intense battle with the[n]menacing gold soldiers from "A.I.G.I.S."![n]This spectacle of an action flick will[n]pound your very brain into mush![n][e]
+[f 0 5 65278][f 2 1]Sinopsis No te pierdas esta intensa[n]batalla con los amenazadores soldados de[n]oro de "A.I.G.I.S."! 斡Este espect茨culo de[n]una pel胤cula de acci吋n te golpear茨 el cerebro en la boca![n][e]
 
 [msg quest_story_023]
-[f 0 5 65278][f 2 1]Synopsis[n]The final battle with the denizens of[n]"A.I.G.I.S."! Man versus machine... Who[n]will ultimately triumph over the other?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis La batalla final con los[n]habitantes de "A.I.G.I.S."! Hombre contra[n]m茨quina... 夷Qui姻n triunfar茨 sobre el otro?[n][e]
 
 [msg quest_story_024]
-[f 0 5 65278][f 2 1]Synopsis[n]"A.I.G.I.S." has new security equipment[n]in this special screening. Who will be[n]the first to sabotage it all?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis "A.I.G.I.S." tiene nuevos[n]equipos de seguridad en esta proyecci吋n[n]especial. 夷Qui姻n ser茨 el primero en sabotearlo todo?[n][e]
 
 [msg quest_story_025]
-[f 0 5 65278][f 2 1]Synopsis[n]Emergency mission request! Locate the[n]KNS-1000 within "A.I.G.I.S.", and test[n]your mettle![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Solicitud de misi吋n de[n]emergencia! Localice el KNS-1000 dentro de[n]"A.I.G.I.S.", y pruebe su mettle![n][e]
 
 [msg quest_story_026]
-[f 0 5 65278][f 2 1]Synopsis[n]A massive treasure hunt is happening in[n]the jungle! Compete to find the perfect[n]boon sought by a researcher! Is the[n]ultimate prize one of riches or of love?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 斡La caza masiva de tesoros[n]est茨 ocurriendo en la selva! 斡Compite para[n]encontrar el bo吋n perfecto buscado por[n]un investigador! 夷Es el premio final una de las riquezas o del amor?[n][e]
 
 [msg quest_story_027]
-[f 0 5 65278][f 2 1]Synopsis[n]One man's trash is another's treasure...[n]like in this film, which is chock-full of[n]machine parts. What precious gem will[n]you find amongst the rubble?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis La basura de un hombre es el[n]tesoro de otro... como en esta pel胤cula,[n]que est茨 llena de piezas de m茨quina.[n]夷Qu姻 preciosa gema encontrar茨s entre los escombros?[n][e]
 
 [msg quest_story_028]
-[f 0 5 65278][f 2 1]Synopsis[n]Ready to tackle one of the all-time[n]biggest questions of science fiction?[n]Then enter this special screening, and[n]ask yourself... if machines can love.[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 夷Listo para abordar una de las[n]mayores cuestiones de ciencia ficci吋n?[n]Entonces entra en esta prueba especial,[n]y preg雨ntate... si las m茨quinas pueden amar.[n][e]
 
 [msg quest_story_029]
-[f 0 5 65278][f 2 1]Synopsis[n]A test of strength against the strongest[n]of the carnivores, ending in a climactic[n]final battle! Tell it to take its stinkin'[n]paws off you.[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 斡Una prueba de fuerza contra[n]los carn胤voros m茨s fuertes, terminando en[n]una batalla final clim茨tica! Dile que[n]te quite sus patas apestosas.[n][e]
 
 [msg quest_story_030]
-[f 0 5 65278][f 2 1]Synopsis[n]Navigate a complex network of paths to[n]arrive at your destination! Are you up[n]for a challenge of logic and wits, or will[n]you be lost in a cinematic maze?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis Navegue una compleja red de[n]caminos para llegar a su destino! 夷Est茨s[n]preparado para un desaf胤o de l吋gica y[n]ingenios, o te perder茨s en un laberinto cinematogr茨fico?[n][e]
 
 [msg quest_story_031]
-[f 0 5 65278][f 2 1]Synopsis[n]Nightclubs... Dark places of sensory[n]overload that still require you to[n]interpret a bunch of social cues. It's not[n]easy... Think you can do it?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis Clubes nocturnos... Lugares[n]oscuros de sobrecarga sensorial que a雨n[n]requieren que interpretes un mont吋n de[n]cues sociales. No es f茨cil... 夷Crees que puedes hacerlo?[n][e]
 
 [msg quest_story_032]
-[f 0 5 65278][f 2 1]Synopsis[n]Kamo City has lost its hero. To whom[n]will its people turn? Perhaps to none[n]other than YOU. If you prove yourself a[n]hero, that is. Time for your starring role![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Kamo City ha perdido a su[n]h姻roe. 夷A qui姻n se convertir茨 su gente? Tal[n]vez a nadie m茨s que a USTED. Si te[n]demuestras un h姻roe, eso es. 斡Tiempo para tu papel protag吋nico![n][e]
 
 [msg quest_story_033]
-[f 0 5 65278][f 2 1]Synopsis[n]Treasure-hunters wanted. What's the[n]old rhyme? Switches get riches? No?[n]Well, that's still exactly what operating[n]the switches in this movie will get you![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Treasure-hunters quer胤a. 夷Cu茨l[n]es la vieja rima? 夷Los interruptores[n]obtienen riquezas? 夷No? Bueno, eso es[n]exactamente lo que opera los interruptores en esta pel胤cula te conseguir茨![n][e]
 
 [msg quest_story_034]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg quest_story_035]
-[f 0 5 65278][f 2 1]Synopsis[n]A mystery story where you hunt Easter[n]eggs only a true fan can find. Don't fret,[n]this is no wild goose chase... unless you[n]mean the one that lays golden eggs![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Una historia misteriosa donde[n]cazas huevos de Pascua s吋lo un verdadero[n]fan puede encontrar. No te preocupes,[n]esto no es una persecuci吋n de ganso salvaje... a menos que te refieres a la que pone huevos de oro![n][e]
 
 [msg quest_story_036]
-[f 0 5 65278][f 2 1]Synopsis[n]A war has broken out. And it's foot[n]soldiers versus tanks!? How will this[n]lion-hearted infantry ever beat the[n]odds... unless a hero like you shows up![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Una guerra se ha roto. 夷Y son[n]soldados de pie contra tanques? 夷C吋mo es[n]que esta infanter胤a de coraz吋n de le吋n[n]alguna vez vencer茨 las probabilidades... a menos que aparezca un h姻roe como t雨![n][e]
 
 [msg quest_story_037]
-[f 0 5 65278][f 2 1]Synopsis[n]Mr. Bear is waiting for you, deep in the[n]woods. Steel your nerves, and face this[n]great enemy! Don't think. Feel![n][e]
+[f 0 5 65278][f 2 1]Sinopsis El Sr. Bear le espera, en el[n]bosque. 斡Arriba tus nervios y enfrenta a[n]este gran enemigo! No lo pienses. 斡Si姻ntate![n][e]
 
 [msg quest_story_038]
-[f 0 5 65278][f 2 1]Synopsis[n]Turn the robot executioners into scrap[n]metal! Don't they know they are but[n]players in this story, just running on[n]bits and bytes?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 斡Convierte a los verdugos[n]robot en chatarra! 夷No saben que no son m茨s[n]que jugadores en esta historia, s吋lo[n]corriendo en pedazos y bytes?[n][e]
 
 [msg quest_story_039]
-[f 0 5 65278][f 2 1]Synopsis[n]La dee la da! Ready for a musical film?[n]La da dee la! It will be such fun. La da-[n]dum da! Life is a cabaret, old chum.[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 斡La dee la da! 夷Listo para una[n]pel胤cula musical? 斡La da dee la! Ser茨[n]divertido. 斡La da- dum da! La vida es un[n]cabaret, viejo amigo.[n][e]
 
 [msg quest_story_040]
-[f 0 5 65278][f 2 1]Synopsis[n]Songs![n]Food![n]Love![n]Sold on this movie yet?[n][e]
+[f 0 5 65278][f 2 1]斡Sinopsis Songs! 斡Comida! 斡Amor![n]夷Vendido en esta pel胤cula?[n][e]
 
 [msg quest_story_041]
-[f 0 5 65278][f 2 1]Synopsis[n]There's no need to feel ashamed. Go on[n]and speak your mind. Shout it out. Sing[n]it. Follow your passions. That's what[n]they do in this movie, and you can, too![n][e]
+[f 0 5 65278][f 2 1]Sinopsis No hay necesidad de sentir[n]verguenza. Sigue y habla tu mente. Dispara.[n]Canta. Sigue tus pasiones. 斡Eso es lo[n]que hacen en esta pel胤cula, y t雨 tambi姻n puedes![n][e]
 
 [msg quest_story_042]
-[f 0 5 65278][f 2 1]Synopsis[n]Do you know the butterflies' secret?[n]They will lure you to sleep... with their[n]colors, their dances, and their grace.[n]Beware... lest they stopper your magic.[n][e]
+[f 0 5 65278][f 2 1]Sinopsis 夷Conoces el secreto de las[n]mariposas? Te atraer茨n a dormir... con sus[n]colores, sus bailes y su gracia.[n]Cuidado... para que no detengan su magia.[n][e]
 
 [msg quest_story_043]
-[f 0 5 65278][f 2 1]Synopsis[n]Life is full of choices, and this movie[n]reflects that by being a choose-your-[n]own adventure story. But of course,[n]aren't you already living one of those?[n][e]
+[f 0 5 65278][f 2 1]Sinopsis La vida est茨 llena de[n]opciones, y esta pel胤cula refleja que al ser una[n]historia de aventura propia. Pero por[n]supuesto, 夷no est茨s viviendo uno de esos?[n][e]
 
 [msg quest_story_044]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg quest_story_045]
-[f 0 5 65278][f 2 1]Synopsis[n]World premiere! It's time to lay bare[n]who is the beariest of them all. All the[n]years of bear puns have led to this,[n]the one decisive battle... [n][e]
+[f 0 5 65278][f 2 1]斡Estreno mundial de sinopsis! Es hora[n]de poner a desnudo qui姻n es el m茨s sabio[n]de todos ellos. Todos los a隠os de osos[n]han llevado a esto, la 雨nica batalla decisiva...[n][e]
 
 [msg quest_story_046]
-[f 0 5 65278][f 2 1]Synopsis[n]Emergency orders! Bring back the[n]treasure posthaste! This climactic, high-[n]speed, phantom thief action film will[n]have you on the edge of your seat![n][e]
+[f 0 5 65278][f 2 1]斡Ordenes de emergencia! 斡Traigan el[n]tesoro posthaste! Esta pel胤cula de acci吋n[n]clim茨tica, de alta velocidad, ladrona[n]fantasma te tendr茨 al borde de tu asiento![n][e]
 
 [msg quest_story_047]
-[f 0 5 65278][f 2 1]Synopsis[n]Emergency special screening! Terror[n]grips Kamo City! Defeat the threat where[n]it has taken hold, in Kamoshida Square![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Prueba especial de emergencia![n]斡El terror agarra a Kamo City! 斡Derrota[n]la amenaza donde se ha apoderado, en la[n]plaza Kamoshida![n][e]
 
 [msg quest_story_048]
-[f 0 5 65278][f 2 1]Synopsis[n]Emergency special screening! Trouble[n]stirs in Junessic Land. Defeat the new[n]threat lurking in the land of dinosaurs![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Prueba especial de emergencia![n]El problema revuelva en la Tierra[n]Junessic. 斡Derrota la nueva amenaza que[n]acecha en la tierra de los dinosaurios![n][e]
 
 [msg quest_story_049]
-[f 0 5 65278][f 2 1]Synopsis[n]Emergency special screening! A[n]powerful enemy has appeared in[n]A.I.G.I.S. and taken over the control[n]room! You must defeat it![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Prueba especial de emergencia![n]斡Un enemigo poderoso ha aparecido en[n]A.I.G.I.S. y tomado el control de la sala![n]斡Debes derrotarlo![n][e]
 
 [msg quest_story_050]
-[f 0 5 65278][f 2 1]Synopsis[n]Emergency special screening! All of[n]Hikari is aghast, for the unthinkable has[n]occurred! Yes, an enemy has appeared...[n]and seized the spotlight of center stage![n][e]
+[f 0 5 65278][f 2 1]Sinopsis Prueba especial de emergencia![n]斡Todo Hikari es ajeno, porque lo[n]impensable ha ocurrido! S胤, un enemigo ha[n]aparecido... 斡y se ha apoderado del foco del escenario central![n][e]
 

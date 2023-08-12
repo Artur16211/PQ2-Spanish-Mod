@@ -1,4 +1,4 @@
-[sel IP_EXCESS_YESNO top]
+﻿[sel IP_EXCESS_YESNO top]
 [f 0 5 65278][f 2 1]S胤.[e]
 [f 0 5 65278][f 2 1]No[e]
 
@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1]夷Quieres borrar [f 0 1][f 2 4 0][f 0 1 0]?[n][f 1 1][e]
 
 [msg IP_EXCESS_PERSONA_BUSY]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]Es un Persona equipado. 夷Borrarla?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Es un Persona equipado. 夷Borrarla?[n][f 1 1][e]
 
 [msg IP_EXCESS_PERSONA_END]
 [f 0 5 65278][f 2 1]La Persona [f 0 1][f 2 4 0][f 0 1 0] ha desaparecido de tu mente.[n][f 1 1][e]

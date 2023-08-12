@@ -1,4 +1,4 @@
-[msg BTL_MES_027_000]
+﻿[msg BTL_MES_027_000]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_001]
@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27302]斡Un FOE! Deber胤amos evitarlo...[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_004]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27303]Alternativamente[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27303] Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_005]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27304]Tal vez, tal vez... 斡Podemos derrotarlo![n][f 1 6 65535][e]
@@ -242,7 +242,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27523]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_081]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27524][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27524][e]
 
 [msg BTL_MES_027_082]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27525]- 夷Qu姻[n][f 1 6 65535][e]

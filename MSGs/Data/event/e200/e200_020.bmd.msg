@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 6 0 1][f 3 1 1 0 0 1]Genial, otra pel胤cula que deja un mal[n]gusto en tu boca.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 6 0 1][f 3 1 1 0 0 1]Genial, otra pel胤cula que deja un mal[n]sabor de boca.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 3]夷Verdad? Era lo mismo que con[n]Kamoshidaman, como si me hiciera sentir un poco[n]vac胤a dentro...[n][f 1 3 65535][f 1 1][e]

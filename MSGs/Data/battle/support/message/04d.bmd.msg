@@ -1,4 +1,4 @@
-[msg BTL_MES_026_000]
+﻿[msg BTL_MES_026_000]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_001]
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55605]Tenga cuidado con el resto de la salud de Yukiko.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_042]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_043]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55607]Kanji tiene muy poca salud restante.[n][f 1 6 65535][e]
@@ -149,7 +149,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55613]Ten cuidado. Mitsuru tiene muy poca salud.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_050]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_051]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55615]Cuidado, Aigis. No podr茨s durar mucho m茨s.[n][f 1 6 65535][e]
@@ -185,7 +185,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55625]Creo que Queen est茨 en peligro.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_062]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_063]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55627]Ten cuidado con la salud de Noir.[n][f 1 6 65535][e]
@@ -323,7 +323,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55513]Estoy deseando ver a Mitsuru en acci吋n.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_108]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_109]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55515]Creo que Aigis ser胤a mejor para esto.[n][f 1 6 65535][e]
@@ -359,7 +359,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55525]Quiz茨 Queen pueda hacer algo al respecto...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_120]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_121]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55527]Bueno, bueno. Creo que es el fuerte de Noir...[n][f 1 6 65535][e]
@@ -401,7 +401,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55205]La condici吋n de Yukiko parece haberse[n]incrementado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_134]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_135]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55207]Kanji ha recibido un impulso.[n][f 1 6 65535][e]
@@ -425,7 +425,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55213]Mitsuru ha recibido un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_142]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_143]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55215]夷Oh? Aigis ha recibido un impulso.[n][f 1 6 65535][e]
@@ -461,7 +461,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55225]Queen ha recibido un impulso.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_154]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_155]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55227]Noir parece haber adquirido un impulso.[n][f 1 6 65535][e]
@@ -605,7 +605,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57605]斡Yukiko apenas puede pararse![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_202]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_203]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57607]斡Kanji parece que est茨 en problemas![n][f 1 6 65535][e]
@@ -629,7 +629,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57613]Mitsuru necesita ayuda...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_210]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_211]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57615]Aigis parece cansado...[n][f 1 6 65535][e]
@@ -779,7 +779,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57505]斡Adelante, Yukiko![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_260]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_261]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57507]斡Te estoy animando, Kanji![n][f 1 6 65535][e]
@@ -803,7 +803,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57513]斡No te rindas, Mitsuru![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_268]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_269]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57515]斡Te estoy animando, Aigis![n][f 1 6 65535][e]
@@ -839,7 +839,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57525]斡Creo en ti, Queen![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_280]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_281]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57527]斡Creo en ti, Noir![n][f 1 6 65535][e]
@@ -881,7 +881,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57205]斡Ah! 斡Yukiko ha sido impulsado![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_294]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_295]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57207]Kanji ha sido impulsado! 斡Vamos, vamos, vamos![n][f 1 6 65535][e]
@@ -905,7 +905,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57213]斡Mitsuru tiene un impulso! 斡Vamos, Mitsuru![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_302]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_303]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57215]斡Aigis tiene un impulso! 斡Se ve tan guay![n][f 1 6 65535][e]
@@ -941,7 +941,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57225]斡La Queen tiene un impulso! 斡Vaya![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_314]
-[f 0 5 65278][f 2 1][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][e]
 
 [msg BTL_MES_026_315]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57227]斡Noir tiene un impulso![n][f 1 6 65535][e]

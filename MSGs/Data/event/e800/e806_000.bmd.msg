@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 24047]夷Tambi姻n te interesa el arte, Amagi-san?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Estaba pensando que podr胤a ponerlo en[n]exhibici吋n en nuestra posada... 夷Qu姻 piensas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Mhm. I was thinking I could put it on[n]display at our inn... 夷Qu姻 piensas?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Buena idea.[f 2 7 1 64 2 32][e]

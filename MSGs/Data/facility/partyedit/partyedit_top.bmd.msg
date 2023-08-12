@@ -12,8 +12,8 @@
 [f 0 5 65278][f 2 1]No hay l胤der en el segundo equipo.[n][f 1 1][e]
 
 [msg FIRST_NAVI_NOT_EXIST]
-[f 0 5 65278][f 2 1]No hay navegante en el primer equipo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No hay navegador en el primer equipo.[n][f 1 1][e]
 
 [msg SECOND_NAVI_NOT_EXIST]
-[f 0 5 65278][f 2 1]No hay navegante en el segundo equipo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No hay navegador en el segundo equipo.[n][f 1 1][e]
 

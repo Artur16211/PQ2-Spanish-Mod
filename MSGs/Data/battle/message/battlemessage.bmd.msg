@@ -1,11 +1,11 @@
-[msg BTLMSGID_DUMMY0]
+﻿[msg BTLMSGID_DUMMY0]
 [f 0 5 65278][f 2 1]Dummy[n][e]
 
 [msg BTLMSGID_DUMMY1]
 [f 0 5 65278][f 2 1]Dummy[n][e]
 
 [msg BTLMSGID_AP_SINGLE]
-[f 0 5 65278][f 2 1][f 2 4 0]Ha aparecido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Ha aparecido![n][e]
 
 [msg BTLMSGID_AP_S_MANY]
 [f 0 5 65278][f 2 1][f 2 4 0]斡s han aparecido![n][e]
@@ -20,13 +20,13 @@
 [f 0 5 65278][f 2 1]Pero [f 2 4 1] anticipaba el movimiento.[n][e]
 
 [msg BTLMSGID_AP_S_SUP]
-[f 0 5 65278][f 2 1][f 2 4 0]Golpe吋 primero![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Golpe吋 primero![n][e]
 
 [msg BTLMSGID_AP_D_SUP]
 [f 0 5 65278][f 2 1]斡Ataque preventivo![n][e]
 
 [msg BTLMSGID_ADDENEMY_OPEN]
-[f 0 5 65278][f 2 1][f 2 4 0]Fue convocado a la batalla![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Fue convocado a la batalla![n][e]
 
 [msg BTLMSGID_ADDENEMY_FOE]
 [f 0 5 65278][f 2 1]斡Un nuevo monstruo se ha unido a la fraternidad![n][e]
@@ -38,28 +38,28 @@
 [f 0 5 65278][f 2 1]夷Qu姻 har茨s?[n][e]
 
 [msg BLTMSGID_CMD_NO]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no puede moverse![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no puede moverse![n][e]
 
 [msg BLTMSGID_CMD_NO_ALL]
 [f 0 5 65278][f 2 1]斡Tu partido es impotente para actuar![n][e]
 
 [msg BLTMSGID_STONE]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 petrificado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 petrificado![n][e]
 
 [msg BLTMSGID_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 durmiendo...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 durmiendo...[n][e]
 
 [msg BLTMSGID_CONFUSE]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 confundido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 confundido![n][e]
 
 [msg BLTMSGID_PARA]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no se puede mover debido a la par茨lisis![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no se puede mover debido a la par茨lisis![n][e]
 
 [msg BLTMSGID_TERROR]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 demasiado aterrorizado para moverse![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 demasiado aterrorizado para moverse![n][e]
 
 [msg BLTMSGID_STUN]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 aturdido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 aturdido![n][e]
 
 [msg BTLMSGID_F_SEAL_HEAD]
 [f 0 5 65278][f 2 1][f 2 4 0]斡la magia est茨 atada![n][e]
@@ -71,13 +71,13 @@
 [f 0 5 65278][f 2 1][f 2 4 0]斡la agilidad est茨 atada![n][e]
 
 [msg BTLMSGID_CRITICALHIT_P]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha muerto![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha muerto![n][e]
 
 [msg BTLMSGID_CRITICALHIT_E]
 [f 0 5 65278][f 2 1]斡Mat吋 al [f 2 4 1]![n][e]
 
 [msg BTLMSGID_ATTACK]
-[f 0 5 65278][f 2 1][f 2 4 0]斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡ataques![n][e]
 
 [msg BTLMSGID_DAMAGE_P_E]
 [f 0 5 65278][f 2 1]Hecho [f 2 4 2] da隠o a [f 2 4 1]![n][e]
@@ -86,22 +86,22 @@
 [f 0 5 65278][f 2 1]Trato [f 2 4 2] da隠o![n][e]
 
 [msg BTLMSGID_DAMAGE_E_P_HP]
-[f 0 5 65278][f 2 1][f 2 4 1]Perdido [f 2 4 2] HP![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Perdido [f 2 4 2] HP![n][e]
 
 [msg BTLMSGID_DAMAGE_E_P_TP]
-[f 0 5 65278][f 2 1][f 2 4 1]Perdido [f 2 4 2] SP![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Perdido [f 2 4 2] SP![n][e]
 
 [msg BTLMSGID_USE]
-[f 0 5 65278][f 2 1][f 2 4 0]Usado [f 2 4 3]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Usado [f 2 4 3]![n][e]
 
 [msg BTLMSGID_HPHEAL]
-[f 0 5 65278][f 2 1][f 2 4 1]斡recuper吋 algo de salud![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡recuper吋 algo de salud![n][e]
 
 [msg BTLMSGID_HPHEAL_ALL]
-[f 0 5 65278][f 2 1][f 2 4 1]斡estaba completamente curado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡estaba completamente curado![n][e]
 
 [msg BTLMSGID_TPHEAL]
-[f 0 5 65278][f 2 1][f 2 4 1]斡Recuper吋 un poco de SP![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡Recuper吋 un poco de SP![n][e]
 
 [msg BTLMSGID_TPHEAL_ALL]
 [f 0 5 65278][f 2 1][f 2 4 1]斡El SP fue completamente restaurado![n][e]
@@ -113,43 +113,43 @@
 [f 0 5 65278][f 2 1]Shadow Swarm[n][e]
 
 [msg BTLMSGID_ITEMUSE]
-[f 0 5 65278][f 2 1][f 2 4 0]Usado [f 2 4 3]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Usado [f 2 4 3]![n][e]
 
 [msg BTLMSGID_DEFENCE]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 defendiendo.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 defendiendo.[n][e]
 
 [msg BTLMSGID_SUMMON]
-[f 0 5 65278][f 2 1][f 2 4 0]斡llamados aliados![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡llamados aliados![n][e]
 
 [msg BLTMSGID_BST_DEAD]
-[f 0 5 65278][f 2 1][f 2 4 1]Fue asesinado al instante![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Fue asesinado al instante![n][e]
 
 [msg BLTMSGID_BST_STONE]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido petrificado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido petrificado![n][e]
 
 [msg BLTMSGID_BST_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 1]Se ha dormido...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Se ha dormido...[n][e]
 
 [msg BLTMSGID_BST_CONFUSE]
-[f 0 5 65278][f 2 1][f 2 4 1]斡est茨 confundido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡est茨 confundido![n][e]
 
 [msg BLTMSGID_BST_POINSON_EX]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido envenenado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido envenenado![n][e]
 
 [msg BLTMSGID_BST_POISON]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido envenenado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido envenenado![n][e]
 
 [msg BLTMSGID_BST_BLIND]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido cegado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido cegado![n][e]
 
 [msg BLTMSGID_BST_CURSE]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido acosado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido acosado![n][e]
 
 [msg BLTMSGID_BST_PARA]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido paralizado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido paralizado![n][e]
 
 [msg BLTMSGID_BST_STUN]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido aturdido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido aturdido![n][e]
 
 [msg BLTMSGID_BST_SEAL_MA]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la magia est茨 atada![n][e]
@@ -161,22 +161,22 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡la agilidad est茨 atada![n][e]
 
 [msg BLTMSGID_RIVIVE]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha recuperado la conciencia![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha recuperado la conciencia![n][e]
 
 [msg BTLMSGID_BSTH_STONE]
-[f 0 5 65278][f 2 1][f 2 4 1]斡ya no est茨 petrificado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡ya no est茨 petrificado![n][e]
 
 [msg BTLMSGID_BSTH_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 1]斡despierta![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡despierta![n][e]
 
 [msg BTLMSGID_BSTH_CONFUSION]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la cabeza se ha aclarado![n][e]
 
 [msg BTLMSGID_BSTH_STINK]
-[f 0 5 65278][f 2 1][f 2 4 1]斡se ha recuperado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡se ha recuperado![n][e]
 
 [msg BTLMSGID_BSTH_POISON]
-[f 0 5 65278][f 2 1][f 2 4 1]斡est茨 curado de veneno![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡est茨 curado de veneno![n][e]
 
 [msg BTLMSGID_BSTH_BLIND]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la vista fue restaurada![n][e]
@@ -197,10 +197,10 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡la velocidad estaba desbordada![n][e]
 
 [msg BTLMSGID_ESCAPE]
-[f 0 5 65278][f 2 1][f 2 4 0]斡huye![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡huye![n][e]
 
 [msg BTLMSGID_NOT_ESCAPE]
-[f 0 5 65278][f 2 1][f 2 4 0]No escapar![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] No escapar![n][e]
 
 [msg BTLMSGID_NO_ESCAPE]
 [f 0 5 65278][f 2 1]斡No puedes escapar de esta batalla![n][e]
@@ -209,13 +209,13 @@
 [f 0 5 65278][f 2 1]斡Escapar es imposible![n][e]
 
 [msg BTLMSGID_NOT_ESCAPE_LEG]
-[f 0 5 65278][f 2 1][f 2 4 0]No escapar![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] No escapar![n][e]
 
 [msg BTLMSGID_UNITDEAD_E]
 [f 0 5 65278][f 2 1]斡Derrotado [f 2 4 1]![n][e]
 
 [msg BTLMSGID_UNITDEAD_P]
-[f 0 5 65278][f 2 1][f 2 4 1]斡est茨 inconsciente![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡est茨 inconsciente![n][e]
 
 [msg BTLMSGID_PARTYDEAD_E_S]
 [f 0 5 65278][f 2 1]斡Derrotado [f 2 4 1]![n][e]
@@ -227,34 +227,34 @@
 [f 0 5 65278][f 2 1]El partido fue derrotado...[n][e]
 
 [msg BTLMSGID_KUISHIBARI]
-[f 0 5 65278][f 2 1][f 2 4 1]Sufri吋 el ataque![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Sufri吋 el ataque![n][e]
 
 [msg BTLMSGID_LIMITSUMMON]
-[f 0 5 65278][f 2 1][f 2 4 0]Cooper吋 para convocar aliados![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Cooper吋 para convocar aliados![n][e]
 
 [msg BTLMSGID_MEGAN]
-[f 0 5 65278][f 2 1][f 2 4 1]斡est茨 inconsciente![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡est茨 inconsciente![n][e]
 
 [msg BTLMSGID_TARGET_ALL]
 [f 0 5 65278][f 2 1]Todos[n][e]
 
 [msg BTLMSGID_SUMMON_SACRIFIC]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha muerto...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha muerto...[n][e]
 
 [msg BTLMSGID_SUMMON_MISS]
 [f 0 5 65278][f 2 1]斡Pero no aparecieron aliados![n][e]
 
 [msg BTLMSGID_POISONDAMAGE]
-[f 0 5 65278][f 2 1][f 2 4 1]斡le han hecho da隠o![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡le han hecho da隠o![n][e]
 
 [msg BTLMSGID_SACRIFICE]
-[f 0 5 65278][f 2 1][f 2 4 0]Ha aparecido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Ha aparecido![n][e]
 
 [msg BTLMSGID_CHANGE]
-[f 0 5 65278][f 2 1][f 2 4 0]Y [f 2 4 1] cambiaron lugares![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Y [f 2 4 1] cambiaron lugares![n][e]
 
 [msg BTLMSGID_MOVE]
-[f 0 5 65278][f 2 1][f 2 4 0]Cambiar de posici吋n![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Cambiar de posici吋n![n][e]
 
 [msg BTLMSGID_RANGEOUT]
 [f 0 5 65278][f 2 1]斡Pero el ataque no lleg吋![n][e]
@@ -263,16 +263,16 @@
 [f 0 5 65278][f 2 1]Pero no tuvo efecto en [f 2 4 1].[n][e]
 
 [msg BTLMSGID_AVOID]
-[f 0 5 65278][f 2 1][f 2 4 1]斡hizo el ataque![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡hizo el ataque![n][e]
 
 [msg BTLMSGID_STOPACTION]
-[f 0 5 65278][f 2 1][f 2 4 1]Bloqueado [f 2 4 0] movimiento![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Bloqueado [f 2 4 0] movimiento![n][e]
 
 [msg BTLMSGID_REFUP_CRITICAL]
 [f 0 5 65278][f 2 1][f 2 4 1]斡se ha incrementado la tasa cr胤tica![n][e]
 
 [msg BTLMSGID_REFUP_HEALEFF]
-[f 0 5 65278][f 2 1][f 2 4 1]斡ahora ha regenerado el juramento![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡ahora ha regenerado el juramento![n][e]
 
 [msg BTLMSGID_BS3_UROKOCHASE]
 [f 0 5 65278][f 2 1]斡El [f 2 4 0] reacciona con una ciruela de fuego![n][e]
@@ -281,19 +281,19 @@
 [f 0 5 65278][f 2 1]斡Los da隠os ser茨n ahora destrozados![n][e]
 
 [msg BTLMSGID_DSUMMON]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se volvi吋 furioso por su aliado cayendo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se volvi吋 furioso por su aliado cayendo![n][e]
 
 [msg BTLMSGID_REFDOWN_CRITICA]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la tasa cr胤tica disminuy吋![n][e]
 
 [msg BTLMSGID_ANDROSTOP]
-[f 0 5 65278][f 2 1][f 2 4 0]斡deja de moverte![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡deja de moverte![n][e]
 
 [msg BTLMSGID_KUITIGIRI]
-[f 0 5 65278][f 2 1][f 2 4 0]Bit through [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Bit through [f 2 4 1]![n][e]
 
 [msg BTLMSGID_LIMITON]
-[f 0 5 65278][f 2 1][f 2 4 0]斡listo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡listo![n][e]
 
 [msg BTLMSGID_ARIMISS]
 [f 0 5 65278][f 2 1]Pero el esfuerzo con [f 2 4 1] fall吋![n][e]
@@ -314,16 +314,16 @@
 [f 0 5 65278][f 2 1]夷A d吋nde se mover茨n?[n][e]
 
 [msg BTLMSGID_BOOT]
-[f 0 5 65278][f 2 1][f 2 4 3]Activado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Activado![n][e]
 
 [msg BTLMSGID_BLOCK]
-[f 0 5 65278][f 2 1][f 2 4 1]Anular el da隠o![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Anular el da隠o![n][e]
 
 [msg BTLMSGID_DEAD_P]
-[f 0 5 65278][f 2 1][f 2 4 1]斡fue expulsado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡fue expulsado![n][e]
 
 [msg BTLMSGID_ONESTOP]
-[f 0 5 65278][f 2 1][f 2 4 0]斡es incapaz de actuar![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡es incapaz de actuar![n][e]
 
 [msg BTLMSGID_ANALYZE]
 [f 0 5 65278][f 2 1][f 2 4 1]斡se analizaron las habilidades![n][e]
@@ -332,10 +332,10 @@
 [f 0 5 65278][f 2 1][f 2 4 1]'s max HP disminuy吋 en [f 2 4 2]![n][e]
 
 [msg BTLMSGID_MITIBIKI]
-[f 0 5 65278][f 2 1][f 2 4 0]斡empez吋 a rezar silenciosamente![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡empez吋 a rezar silenciosamente![n][e]
 
 [msg BTLMSGID_PORATA]
-[f 0 5 65278][f 2 1][f 2 4 1]Y [f 2 4 2] combinados para formar [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Y [f 2 4 2] combinados para formar [f 2 4 0]![n][e]
 
 [msg BTLMSGID_BEASTMISS]
 [f 0 5 65278][f 2 1]斡La bestia no apareci吋![n][e]
@@ -347,13 +347,13 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡es lure trabajado para emboscar al enemigo![n][e]
 
 [msg BTLMSGID_NOTCHANGE]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no pod胤a cambiar de posici吋n![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no pod胤a cambiar de posici吋n![n][e]
 
 [msg BTLMSGID_SEPARATE_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no se separaron![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no se separaron![n][e]
 
 [msg BTLMSGID_PORATA_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no se combina![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no se combina![n][e]
 
 [msg BTLMSGID_TARGET_5BOSS_AR]
 [f 0 5 65278][f 2 1]Los brazos de Heavenbringer[n][e]
@@ -377,22 +377,22 @@
 [f 0 5 65278][f 2 1]El [f 2 4 0] se retir吋...[n][e]
 
 [msg BTLMSGID_BEAST_ON]
-[f 0 5 65278][f 2 1][f 2 4 1]Apareci吋 de [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Apareci吋 de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_ROCKETJUMP]
-[f 0 5 65278][f 2 1][f 2 4 1]斡sorprendido en el cielo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡sorprendido en el cielo![n][e]
 
 [msg BTLMSGID_PROTECT_FRONT]
-[f 0 5 65278][f 2 1][f 2 4 3]Protegi吋 la fila delantera![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Protegi吋 la fila delantera![n][e]
 
 [msg BTLMSGID_PROTECT_REAR]
-[f 0 5 65278][f 2 1][f 2 4 3]Protegi吋 la fila trasera![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Protegi吋 la fila trasera![n][e]
 
 [msg BTLMSGID_COVER_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]斡defienda a toda la fiesta![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡defienda a toda la fiesta![n][e]
 
 [msg BTLMSGID_MIGAWARI]
-[f 0 5 65278][f 2 1][f 2 4 3]Defendido [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Defendido [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REPEAT]
 [f 0 5 65278][f 2 1]El efecto ya est茨 activo en [f 2 4 1]...[n][e]
@@ -449,7 +449,7 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡la defensa ha aumentado![n][e]
 
 [msg BTLMSGID_REF_SPEED_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]斡ahora puede actuar primero![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡ahora puede actuar primero![n][e]
 
 [msg BTLMSGID_REF_HITRATIO_UP_2]
 [f 0 5 65278][f 2 1][f 2 4 1]斡se ha incrementado la precisi吋n![n][e]
@@ -464,7 +464,7 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡la defensa disminuy吋![n][e]
 
 [msg BTLMSGID_REF_SPEED_DOWN]
-[f 0 5 65278][f 2 1][f 2 4 1]Retrasaron su acci吋n a prop吋sito![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Retrasaron su acci吋n a prop吋sito![n][e]
 
 [msg BTLMSGID_REF_HITRATIO_DO_2]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la precisi吋n y la evasi吋n disminuyeron![n][e]
@@ -482,13 +482,13 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡ahora los ataques est茨n basados en elec![n][e]
 
 [msg BTLMSGID_REF_H_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]斡ahora es un objetivo m茨s atractivo[n]para los enemigos![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡ahora es un objetivo m茨s atractivo[n]para los enemigos![n][e]
 
 [msg BTLMSGID_REF_H_DOWN]
-[f 0 5 65278][f 2 1][f 2 4 1]斡ahora es un objetivo menos atractivo[n]para los enemigos![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡ahora es un objetivo menos atractivo[n]para los enemigos![n][e]
 
 [msg BTLMSGID_REF_STNONE]
-[f 0 5 65278][f 2 1][f 2 4 1]No se ve afectada por las enfermedades[n]del estado ahora![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] No se ve afectada por las enfermedades[n]del estado ahora![n][e]
 
 [msg BTLMSGID_REF_HP_UP]
 [f 0 5 65278][f 2 1][f 2 4 1]斡El m茨ximo HP ha aumentado temporalmente![n][e]
@@ -503,19 +503,19 @@
 [f 0 5 65278][f 2 1]Por favor, espera...[n][e]
 
 [msg BTLMSGID_TRNS_CMNDSELECT]
-[f 0 5 65278][f 2 1][f 2 4 0]斡hecho con gracia![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡hecho con gracia![n][e]
 
 [msg BTLMSGID_TRNS_CMNDWAIT]
 [f 0 5 65278][f 2 1]Por favor, espere mientras otro jugador[n]entra comandos.[n][e]
 
 [msg BTLMSGID_ES_ACT_COUNTER]
-[f 0 5 65278][f 2 1][f 2 4 1]斡listo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡listo![n][e]
 
 [msg BTLMSGID_ES_THROW]
-[f 0 5 65278][f 2 1][f 2 4 0]Tira [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Tira [f 2 4 1]![n][e]
 
 [msg BTLMSGID_ES_PATIENCE]
-[f 0 5 65278][f 2 1][f 2 4 1]斡est茨 perdurando![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡est茨 perdurando![n][e]
 
 [msg BTLMSGID_ES_PATIENCE_ACT]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la resistencia explota![n][e]
@@ -542,55 +542,55 @@
 [f 0 5 65278][f 2 1][f 2 4 0]'s tent茨culo captura [f 2 4 1] & [f 2 4 2]![n][e]
 
 [msg BTLMSGID_ABSORB_HP]
-[f 0 5 65278][f 2 1][f 2 4 1]Absorbe [f 2 4 2] da隠o![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Absorbe [f 2 4 2] da隠o![n][e]
 
 [msg BTLMSGID_DEADACTION_18B]
-[f 0 5 65278][f 2 1][f 2 4 0]Ha explotado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Ha explotado![n][e]
 
 [msg BTLMSGID_FANNEL_1]
-[f 0 5 65278][f 2 1][f 2 4 1]斡libere un m吋dulo de fuego![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡libere un m吋dulo de fuego![n][e]
 
 [msg BTLMSGID_FANNEL_2]
-[f 0 5 65278][f 2 1][f 2 4 1]Libera un m吋dulo de hielo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Libera un m吋dulo de hielo![n][e]
 
 [msg BTLMSGID_FANNEL_3]
-[f 0 5 65278][f 2 1][f 2 4 1]Libera un m吋dulo de voltios![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Libera un m吋dulo de voltios![n][e]
 
 [msg BTLMSGID_UNITDEAD_FNL]
-[f 0 5 65278][f 2 1][f 2 4 1] has斡deja de moverte![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] has 斡deja de moverte![n][e]
 
 [msg BTLMSGID_K_FANNEL]
-[f 0 5 65278][f 2 1][f 2 4 1]斡reacciona![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡reacciona![n][e]
 
 [msg BTLMSGID_BOOT_F]
-[f 0 5 65278][f 2 1][f 2 4 3]Activa![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Activa![n][e]
 
 [msg BTLMSGID_SNIPER]
-[f 0 5 65278][f 2 1][f 2 4 0]斡objetiva cuidadosamente![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡objetiva cuidadosamente![n][e]
 
 [msg BTLMSGID_SNIPER_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0]斡baja el arma![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡baja el arma![n][e]
 
 [msg BTLMSGID_BEASTCOUNTER_0]
-[f 0 5 65278][f 2 1][f 2 4 1]斡listo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡listo![n][e]
 
 [msg BTLMSGID_BEAST_A4_0]
-[f 0 5 65278][f 2 1][f 2 4 0] growls... and斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] growls... and 斡ataques![n][e]
 
 [msg BTLMSGID_BEAST_A5_0]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 durmiendo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 durmiendo![n][e]
 
 [msg BTLMSGID_E_KAISH_BOOT]
-[f 0 5 65278][f 2 1][f 2 4 0] swings its scythe and斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] swings its scythe and 斡ataques![n][e]
 
 [msg BTLMSGID_BEAST_A1_0]
 [f 0 5 65278][f 2 1][f 2 4 0]斡el brazo se regenera![n][e]
 
 [msg BTLMSGID_BEAST_A1_1]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 mirando hacia el espacio![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 mirando hacia el espacio![n][e]
 
 [msg BTLMSGID_BEAST_A1_2]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 limpiando![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 limpiando![n][e]
 
 [msg BTLMSGID_TARGET_6BOSS_AR]
 [f 0 5 65278][f 2 1]El Tentaculo del Salvador[n][e]
@@ -599,7 +599,7 @@
 [f 0 5 65278][f 2 1]A communication error has occurred.[n]Por favor, espera...[n][e]
 
 [msg BTLMSGID_DEADSTONE]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido petrificado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido petrificado![n][e]
 
 [msg BTLMSGID_STOPBST]
 [f 0 5 65278][f 2 1]斡La enfermedad por [f 2 4 1] fue anulada![n][e]
@@ -617,16 +617,16 @@
 [f 0 5 65278][f 2 1]Pero no alcanza [f 2 4 1]![n][e]
 
 [msg BTLMSGID_SARUTOBI]
-[f 0 5 65278][f 2 1][f 2 4 1]斡hecho con gracia![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡hecho con gracia![n][e]
 
 [msg BTLMSGID_BOSS_1]
-[f 0 5 65278][f 2 1][f 2 4 0]Parece estar cerrando sus ojos...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Parece estar cerrando sus ojos...[n][e]
 
 [msg BTLMSGID_BS1_SPWATSTAN]
-[f 0 5 65278][f 2 1][f 2 4 1]斡golpes![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡golpes![n][e]
 
 [msg BTLMSGID_BS1_STANMSG]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no puede moverse![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no puede moverse![n][e]
 
 [msg BTLMSGID_AP_5LASTBOSS]
 [f 0 5 65278][f 2 1]斡Ustedes est茨n delante del Cielo![n][e]
@@ -638,40 +638,40 @@
 [f 0 5 65278][f 2 1]Warped Salvador[n][e]
 
 [msg BTLMSGID_H_KUISHIBARI]
-[f 0 5 65278][f 2 1][f 2 4 1]Se ha vuelto resistente contra los[n]golpes mortales![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Se ha vuelto resistente contra los[n]golpes mortales![n][e]
 
 [msg BTLMSGID_OOMIE]
-[f 0 5 65278][f 2 1][f 2 4 1]斡pasa una pose![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡pasa una pose![n][e]
 
 [msg BTLMSGID_NONBST]
-[f 0 5 65278][f 2 1][f 2 4 1]Est茨 ahora protegido de las enfermedades y Binds![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Est茨 ahora protegido de las enfermedades y Binds![n][e]
 
 [msg BTLMSGID_NONSEAL]
 [f 0 5 65278][f 2 1]斡Los Binds no afectar茨n [f 2 4 1] ahora![n][e]
 
 [msg BTLMSGID_DENGUN]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido nombrado el capit茨n defensivo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido nombrado el capit茨n defensivo![n][e]
 
 [msg BTLMSGID_DEADACTION_F18B]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se vol吋![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se vol吋![n][e]
 
 [msg BTLMSGID_REF_ATTR_UP]
 [f 0 5 65278][f 2 1][f 2 4 1]'s [f 2 4 2] resistencia ha aumentado![n][e]
 
 [msg BTLMSGID_E_MEGAZA_HEAL]
-[f 0 5 65278][f 2 1][f 2 4 3]Dispersos de [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Dispersos de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_E_KAISHAKU]
-[f 0 5 65278][f 2 1][f 2 4 0]Presas en [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Presas en [f 2 4 1]![n][e]
 
 [msg BTLMSGID_E_DEADSUMMON]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se hizo gigante![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se hizo gigante![n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_00]
-[f 0 5 65278][f 2 1][f 2 4 0]Comienza a rodar alrededor...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Comienza a rodar alrededor...[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_01]
-[f 0 5 65278][f 2 1][f 2 4 0]Baja la mano...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Baja la mano...[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_02]
 [f 0 5 65278][f 2 1][f 2 4 0]斡la fuerza est茨 atada![n][e]
@@ -683,7 +683,7 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡el tent茨culo ha resucitado![n][e]
 
 [msg BTLMSGID_E_TAMAGO_MSG_00]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 cobrando![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 cobrando![n][e]
 
 [msg BTLMSGID_REF_ATTR_UP_ALL]
 [f 0 5 65278][f 2 1]Everyone's [f 2 4 2] resistencia ha aumentado![n][e]
@@ -710,7 +710,7 @@
 [f 0 5 65278][f 2 1]La 雨ltima forma de vida brota de su[n]cuerpo larval...[n][e]
 
 [msg BTLMSGID_NONCOST]
-[f 0 5 65278][f 2 1][f 2 4 1]No tiene suficiente SP para usar la habilidad![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] No tiene suficiente SP para usar la habilidad![n][e]
 
 [msg BTLMSGID_FRONT_DEAD]
 [f 0 5 65278][f 2 1]斡Las l胤neas delantera y trasera[n]cambiaron posiciones![n][e]
@@ -719,16 +719,16 @@
 [f 0 5 65278][f 2 1]斡El costo del SP de tus pr吋ximas[n]acciones se duplicar茨![n][e]
 
 [msg BTLMSGID_ES_KITOU]
-[f 0 5 65278][f 2 1][f 2 4 1]Est茨 reuniendo el poder![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Est茨 reuniendo el poder![n][e]
 
 [msg BTLMSGID_ES_ACT_CCOUNTER]
-[f 0 5 65278][f 2 1][f 2 4 1]斡se est茨 preparando para un ataque de seguimiento![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡se est茨 preparando para un ataque de seguimiento![n][e]
 
 [msg BTLMSGID_SUMMON_CHICK]
-[f 0 5 65278][f 2 1][f 2 4 1]Escogido del [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Escogido del [f 2 4 0]![n][e]
 
 [msg BTLMSGID_LIMITMISS]
-[f 0 5 65278][f 2 1][f 2 4 0]斡no pod胤a cooperar![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡no pod胤a cooperar![n][e]
 
 [msg BTLMSGID_ACT_180_END]
 [f 0 5 65278][f 2 1]斡El poder almacenado en el [f 2 4 0] es desatado![n][e]
@@ -737,7 +737,7 @@
 [f 0 5 65278][f 2 1]斡El dios indescriptible ha despertado![n][e]
 
 [msg BTLMSGID_UROBORO_SHIELD]
-[f 0 5 65278][f 2 1]Party enveloped in a light that blocks enemy斡ataques![n][e]
+[f 0 5 65278][f 2 1]Party enveloped in a light that blocks enemy 斡ataques![n][e]
 
 [msg BTLMSGID_DISCHARGE_BH]
 [f 0 5 65278][f 2 1][f 2 4 0]斡el pu隠o libera una luz cegadora![n][e]
@@ -749,10 +749,10 @@
 [f 0 5 65278][f 2 1]斡Derrotaste al portero![n][e]
 
 [msg BTLMSGID_ES_CHANGE_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0]Desenreda sus tent茨culos retorcidos![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Desenreda sus tent茨culos retorcidos![n][e]
 
 [msg BTLMSGID_E_MOVE_S]
-[f 0 5 65278][f 2 1][f 2 4 0]Se mueve a una l胤nea diferente![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Se mueve a una l胤nea diferente![n][e]
 
 [msg BTLMSGID_E_MOVE_D]
 [f 0 5 65278][f 2 1]斡El grupo [f 2 4 0] se traslad吋 a una[n]l胤nea diferente![n][e]
@@ -773,37 +773,37 @@
 [f 0 5 65278][f 2 1]A rare breed of [f 2 4 0]Ha aparecido![n][e]
 
 [msg BTLMSGID_ACT_CHARGE_BOSS]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 construyendo fuerza![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 construyendo fuerza![n][e]
 
 [msg BTLMSGID_ST_BODYCHANGE]
 [f 0 5 65278][f 2 1]斡El enemigo cambi吋![n][e]
 
 [msg BTLMSGID_ST_BODYCHANGE_E]
-[f 0 5 65278][f 2 1][f 2 4 1]Cambia su afinidad de ataque![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Cambia su afinidad de ataque![n][e]
 
 [msg BTLMSGID_KIJIN]
-[f 0 5 65278][f 2 1][f 2 4 0]斡Est茨 experimentando una subida sangu胤nea![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡Est茨 experimentando una subida sangu胤nea![n][e]
 
 [msg BTLMSGID_KIJIN_OFF]
-[f 0 5 65278][f 2 1][f 2 4 0]Vuelve a la normalidad.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Vuelve a la normalidad.[n][e]
 
 [msg BTLMSGID_KUISHIBARI2]
-[f 0 5 65278][f 2 1][f 2 4 0]Sufri吋 el ataque![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Sufri吋 el ataque![n][e]
 
 [msg BTLMSGID_TPCUT]
 [f 0 5 65278][f 2 1]SP FocusActivado![n][e]
 
 [msg BTLMSGID_HOUJIN]
-[f 0 5 65278][f 2 1][f 2 4 0]Puso un [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Puso un [f 2 4 1]![n][e]
 
 [msg BTLMSGID_HOUJIN_EFT]
 [f 0 5 65278][f 2 1]El [f 2 4 0] toma efecto![n][e]
 
 [msg BTLMSGID_TRANSPARENT_ON]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se desvanece en el paisaje![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se desvanece en el paisaje![n][e]
 
 [msg BTLMSGID_TRANSPARENT_OFF]
-[f 0 5 65278][f 2 1][f 2 4 0]斡vuelve a la normalidad![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡vuelve a la normalidad![n][e]
 
 [msg BTLMSGID_ICEACTSTOP]
 [f 0 5 65278][f 2 1]斡El [f 2 4 0] se ha congelado![n][e]
@@ -821,7 +821,7 @@
 [f 0 5 65278][f 2 1]A [f 2 4 0] se aloja en el suelo![n][e]
 
 [msg BTLMSGID_3BS_URK_DEATH]
-[f 0 5 65278][f 2 1][f 2 4 1]斡destrozas![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡destrozas![n][e]
 
 [msg BTLMSGID_FROG_JUMP]
 [f 0 5 65278][f 2 1]斡El Burst Gauge dren吋![n][e]
@@ -833,7 +833,7 @@
 [f 0 5 65278][f 2 1][f 2 4 0]斡la espada de la unidad se enfri吋![n][e]
 
 [msg BTLMSGID_MSGWAIT1]
-[f 0 5 65278][f 2 1][f 2 4 0]Ha entrado en el modo autodestrucci吋n![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Ha entrado en el modo autodestrucci吋n![n][e]
 
 [msg BTLMSGID_MSGWAIT2]
 [f 0 5 65278][f 2 1]2 vueltas hasta [f 2 4 0] autodestrucci吋n![n][e]
@@ -842,19 +842,19 @@
 [f 0 5 65278][f 2 1]1 vuelta hasta [f 2 4 0] autodestrucci吋n![n][e]
 
 [msg BTLMSGID_MSGWAIT4]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 mirando.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 mirando.[n][e]
 
 [msg BTLMSGID_MSGWAIT5]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 buscando un objetivo.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 buscando un objetivo.[n][e]
 
 [msg BTLMSGID_BALLOON]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se expande mucho![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se expande mucho![n][e]
 
 [msg BTLMSGID_ACT_CHARGE_BOSS_2]
-[f 0 5 65278][f 2 1][f 2 4 0]斡deja de moverse![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡deja de moverse![n][e]
 
 [msg BTLMSGID_ACT_LION_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 durmiendo...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 durmiendo...[n][e]
 
 [msg BTLMSGID_REF_ATTACK_UP2]
 [f 0 5 65278][f 2 1][f 2 4 1]斡el ataque m茨gico aumenta![n][e]
@@ -881,10 +881,10 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡la defensa disminuy吋![n][e]
 
 [msg BTLMSGID_REF_COUNTER]
-[f 0 5 65278][f 2 1][f 2 4 1]斡listo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡listo![n][e]
 
 [msg BTLMSGID_REF_COUNTER_BOO]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 envuelto en una pared de llama![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 envuelto en una pared de llama![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_FIRE]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la resistencia al fuego ha aumentado![n][e]
@@ -923,10 +923,10 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡La resistencia a los ataques de Stab[n]ha disminuido![n][e]
 
 [msg BTLMSGID_REF_DANCE_COUNT]
-[f 0 5 65278][f 2 1][f 2 4 1]斡lee un contraataque![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡lee un contraataque![n][e]
 
 [msg BTLMSGID_REF_DANCE_CHASE]
-[f 0 5 65278][f 2 1][f 2 4 1]斡se est茨 preparando para un ataque de seguimiento![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡se est茨 preparando para un ataque de seguimiento![n][e]
 
 [msg BTLMSGID_REF_DANCE_LINEC]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la l胤nea lee un ataque de seguimiento![n][e]
@@ -944,10 +944,10 @@
 [f 0 5 65278][f 2 1]斡Todos en la l胤nea [f 2 4 1] tienen sus[n]costos de SP disminuyen![n][e]
 
 [msg BTLMSGID_REF_LINK]
-[f 0 5 65278][f 2 1]Link skills have an increased number of斡ataques![n][e]
+[f 0 5 65278][f 2 1]Link skills have an increased number of 斡ataques![n][e]
 
 [msg BTLMSGID_REF_GUARD]
-[f 0 5 65278][f 2 1][f 2 4 1]斡leyes para el ataque del enemigo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡leyes para el ataque del enemigo![n][e]
 
 [msg BTLMSGID_REF_CONC]
 [f 0 5 65278][f 2 1]斡El efecto de la curaci吋n [f 2 4 1] aumenta![n][e]
@@ -956,13 +956,13 @@
 [f 0 5 65278][f 2 1]斡El 茨rea de la curaci吋n [f 2 4 1] aumenta![n][e]
 
 [msg BTLMSGID_WEAKENED]
-[f 0 5 65278][f 2 1][f 2 4 0] is weakened and斡no puede moverse![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] is weakened and 斡no puede moverse![n][e]
 
 [msg BTLMSGID_MASCOT]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 flotando...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 flotando...[n][e]
 
 [msg BTLMSGID_BUNNY]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 confundido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 confundido![n][e]
 
 [msg BTLMSGID_REFOFF_P_UP]
 [f 0 5 65278][f 2 1]斡El efecto de [f 2 4 1] se agot吋![n][e]
@@ -986,7 +986,7 @@
 [f 0 5 65278][f 2 1]斡El efecto de [f 2 4 1] se agot吋 en el enemigo![n][e]
 
 [msg BTLMSGID_COUNTER]
-[f 0 5 65278][f 2 1]Death CounterActivado![n][e]
+[f 0 5 65278][f 2 1]Death Counter Activado![n][e]
 
 [msg BTLMSGID_CHASE]
 [f 0 5 65278][f 2 1]Death ChaserActivado![n][e]
@@ -1019,19 +1019,19 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡la resistencia a la maldici吋n disminuy吋![n][e]
 
 [msg BTLMSGID_HPNONCOST]
-[f 0 5 65278][f 2 1][f 2 4 1]No tiene suficiente HP para usar la habilidad![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] No tiene suficiente HP para usar la habilidad![n][e]
 
 [msg BTLMSGID_KEIKAI]
-[f 0 5 65278][f 2 1][f 2 4 0]Es cauteloso.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Es cauteloso.[n][e]
 
 [msg BTLMSGID_RARE_1]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 mirando hacia el espacio.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 mirando hacia el espacio.[n][e]
 
 [msg BTLMSGID_RARE_2]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 desconcertado.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 desconcertado.[n][e]
 
 [msg BTLMSGID_RARE_3]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 agitado.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 agitado.[n][e]
 
 [msg BTLMSGID_HAMA_OMEN]
 [f 0 5 65278][f 2 1]斡El poder de la luz se re雨ne alrededor [f 2 4 0]![n][e]
@@ -1040,43 +1040,43 @@
 [f 0 5 65278][f 2 1]斡El poder de la oscuridad se re雨ne[n]alrededor [f 2 4 0]![n][e]
 
 [msg BTLMSGID_NIYANIYA]
-[f 0 5 65278][f 2 1][f 2 4 0]Esmiradores.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Esmiradores.[n][e]
 
 [msg BTLMSGID_JIBAKU_MISS]
 [f 0 5 65278][f 2 1][f 2 4 0]'s autodestrucci吋n fall吋...[n][e]
 
 [msg BTLMSGID_CHICKEN]
-[f 0 5 65278][f 2 1][f 2 4 0]Parece confiado.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Parece confiado.[n][e]
 
 [msg BTLMSGID_ROBOT]
 [f 0 5 65278][f 2 1]ADIVINA PERFECTAMENTE.[n][e]
 
 [msg BTLMSGID_TOWER]
-[f 0 5 65278][f 2 1][f 2 4 0]斡convoc吋 un trueno![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡convoc吋 un trueno![n][e]
 
 [msg BTLMSGID_TOWER3]
-[f 0 5 65278][f 2 1][f 2 4 0]斡muttered un juramento santo![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡muttered un juramento santo![n][e]
 
 [msg BTLMSGID_TOWER5]
-[f 0 5 65278][f 2 1][f 2 4 0]斡maldito![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡maldito![n][e]
 
 [msg BTLMSGID_KING]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 jugando con su pelo.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 jugando con su pelo.[n][e]
 
 [msg BTLMSGID_KING_ESCAPE]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 tratando de huir...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 tratando de huir...[n][e]
 
 [msg BTLMSGID_BIBIRI]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 asustado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 asustado![n][e]
 
 [msg BTLMSGID_TORIMAKI]
 [f 0 5 65278][f 2 1]斡Un herb胤voro dashes fuera![n][e]
 
 [msg BTLMSGID_PUNISH]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se ha acortado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se ha acortado![n][e]
 
 [msg BTLMSGID_DO_1]
-[f 0 5 65278][f 2 1][f 2 4 0]斡es un placer![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡es un placer![n][e]
 
 [msg BTLMSGID_DO_2]
 [f 0 5 65278][f 2 1][f 2 4 0]斡el cuerpo est茨 pulsando![n][e]
@@ -1142,7 +1142,7 @@
 [f 0 5 65278][f 2 1]斡El poder de la electricidad se re雨ne[n]alrededor [f 2 4 0]![n][e]
 
 [msg BTLMSGID_KHRONOS_ANNOUNC]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se est茨 concentrando![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se est茨 concentrando![n][e]
 
 [msg BTLMSGID_PASTOR_OATH_ATT [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3843]D胤game que no va a atacar![n][f 1 1][e]
@@ -1319,7 +1319,7 @@
 [f 0 5 65278][f 2 1]斡Es nuestra oportunidad! 夷Quieres ir por ello?[n][e]
 
 [msg BTLMSGID_ALL_ATK_MONA [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Todos right! Time for an[n]all-out attack![n][e]
+[f 0 5 65278][f 2 1]Todos right! Time for an[n]Ataque Combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_YUSUKE [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Esta es nuestra oportunidad! 夷Alguna objeci吋n?[n][e]
@@ -1511,7 +1511,7 @@
 [f 0 5 65278][f 2 1]斡D姻janos esto![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_YOUS [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]斡Creo que tenemos esto! 斡Di la palabra![n][e]
+[f 0 5 65278][f 2 1]I think we've got this![n]斡Di la palabra![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_CHIE [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Estamos listos para irnos! 斡D姻janos el resto![n][e]
@@ -1595,13 +1595,13 @@
 [f 0 5 65278][f 2 1]斡Elizabeth se concentra![n][e]
 
 [msg BTLMSGID_VELVET_MARGARET [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]斡Margaret se concentra![n][e]
+[f 0 5 65278][f 2 1]Margaret 斡concentros![n][e]
 
 [msg BTLMSGID_USAGI_OOGOE [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Respira hondo.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Respira hondo.[n][e]
 
 [msg BTLMSGID_VELVET_SRICAM [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Ha recuperado la conciencia![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Ha recuperado la conciencia![n][e]
 
 [msg BTLMSGID_GK_COUNT3 [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1][f 2 4 0]斡los ojos est茨n brillando![n][e]
@@ -1676,16 +1676,16 @@
 [f 0 5 65278][f 2 1]斡Atacando al final del turno![n][e]
 
 [msg BTLMSGID_UZUUZU [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]斡es inquieto![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡es inquieto![n][e]
 
 [msg BTLMSGID_MANZOK [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 satisfecho.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 satisfecho.[n][e]
 
 [msg BTLMSGID_THINK [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Est茨 pensando.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Est茨 pensando.[n][e]
 
 [msg BTLMSGID_KETSUDAN [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]斡se ha decidido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡se ha decidido![n][e]
 
 [msg BTLMSGID_MAHASUKU [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1][f 2 4 1]斡la precisi吋n y la evasi吋n han aumentado![n][e]
@@ -1700,13 +1700,13 @@
 [f 0 5 65278][f 2 1][f 2 4 1]'s stat buffs han sido extendidos![n][e]
 
 [msg BTLMSGID_HIDE [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] is now immune to physical斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] is now immune to physical 斡ataques![n][e]
 
 [msg BTLMSGID_RISKY_GAMEOVER [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]The party leaderHa muerto...[n][e]
 
 [msg BTLMSGID_JIBAKU [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Ha iniciado su secuencia de autodestrucci吋n![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Ha iniciado su secuencia de autodestrucci吋n![n][e]
 
 [msg BTLMSGID_EIKOHNO [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡El ataque y la defensa de todos han[n]aumentado mucho![n][e]
@@ -1718,7 +1718,7 @@
 [f 0 5 65278][f 2 1]斡Pero no hubo efecto![n][e]
 
 [msg BTLMSGID_AMRITA [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]Completamente curado y completamente[n]recuperado HP![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Completamente curado y completamente[n]recuperado HP![n][e]
 
 [msg BTLMSGID_LPATRA [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]Todosies have been cured of all ailments![n][e]
@@ -1727,37 +1727,37 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡se ha incrementado la cuenta![n][e]
 
 [msg BTLMSGID_ONEBSTHEAL [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]Ha sido curado de cualquier enfermedad![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Ha sido curado de cualquier enfermedad![n][e]
 
 [msg BTLMSGID_ONESEALHEAL [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1][f 2 4 1]斡Est茨 Binds desaparecido![n][e]
 
 [msg BTLMSGID_CHARGE [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]斡est茨 construyendo fuerza![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡est茨 construyendo fuerza![n][e]
 
 [msg BTLMSGID_CONCENTRATE [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]斡concentros![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡concentros![n][e]
 
 [msg BTLMSGID_KAKUSEI [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]斡ahora est茨 despierto![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] 斡ahora est茨 despierto![n][e]
 
 [msg BTLMSGID_SUMMON_TRUMP [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]Card Soldier斡s han aparecido![n][e]
 
 [msg BTLMSGID_DOLL_SMILE [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Sonr胤e inocentemente.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Sonr胤e inocentemente.[n][e]
 
 [msg BTLMSGID_MOTIVATION [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]斡est茨 despedido![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 despedido![n][e]
 
 [msg BTLMSGID_BOAST [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Muestra su cuerpo.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Muestra su cuerpo.[n][e]
 
 [msg BTLMSGID_RELAX [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Salones elegantemente.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Salones elegantemente.[n][e]
 
 [msg BTLMSGID_CREEP [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]Squirms.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Squirms.[n][e]
 
 [msg BTLMSGID_TURNENDHEAL [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Se ha a隠adido un efecto de sanaci吋n masiva![n][e]
@@ -1772,7 +1772,7 @@
 [f 0 5 65278][f 2 1]斡La Sombra dispers吋 [f 2 4 2] yenes![n][e]
 
 [msg BTLMSGID_REF_COUNTER_ATT [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Taunt CounterActiva![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1]'s Taunt Counter Activa![n][e]
 
 [msg BTLMSGID_REF_SKILL_LOCK [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Tu individualidad fue robada![n][e]
@@ -1799,16 +1799,16 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡La resistencia de Nuke ha disminuido![n][e]
 
 [msg BTLMSGID_DOUBLE_ATTACK [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Double attackActiva![n][e]
+[f 0 5 65278][f 2 1]Double attack Activa![n][e]
 
 [msg BTLMSGID_BOOT2 [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 3]Activado![n][e]
+[f 0 5 65278][f 2 1][f 2 4 3] Activado![n][e]
 
 [msg BTLMSGID_FULL_ANALYZE_SU [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1][f 2 4 1]斡se analizaron las habilidades![n][e]
 
 [msg BTLMSGID_FULL_SNALYZE_FA [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]Est茨 bloqueando el an茨lisis...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] Est茨 bloqueando el an茨lisis...[n][e]
 
 [msg BTLMSGID_PQ2_SONIC_RUSH [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Tomar una postura para usar[n]repetidamente habilidades![n][e]
@@ -1823,10 +1823,10 @@
 [f 0 5 65278][f 2 1]斡Tomar una postura para hacer que las[n]habilidades salgan![n][e]
 
 [msg BTLMSGID_PQ2_UTIOTOSI [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to null physical斡ataques![n][e]
+[f 0 5 65278][f 2 1]Taking a stance to null physical 斡ataques![n][e]
 
 [msg BTLMSGID_PQ2_GEIGEKI [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to null physical斡ataques![n][e]
+[f 0 5 65278][f 2 1]Taking a stance to null physical 斡ataques![n][e]
 
 [msg BTLMSGID_PQ2_ORGIA [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡L胤mites liberados![n][e]

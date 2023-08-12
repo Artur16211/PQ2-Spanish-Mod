@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24326]Parece que hemos encontrado nuestro camino.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]Parece que hay un tesoro por delante. Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]It appears there's treasure ahead.[n]Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24328]Espero que sea comida...[n][f 1 6 65535][e]
@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24360]Ahora, empecemos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DUNGEON_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24361]Estamos listos. Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24361]We're ready. Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DUNGEON_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24362]斡Quiz茨s, aqu胤, encuentre alguna inspiraci吋n![n][f 1 6 65535][e]

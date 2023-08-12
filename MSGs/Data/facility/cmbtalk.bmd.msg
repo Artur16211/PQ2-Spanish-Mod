@@ -447,9 +447,9 @@
 [sel msg_combine_exp_personac top]
 [f 0 5 65278][f 2 1]Fundamentos de la fusi吋n[e]
 [f 0 5 65278][f 2 1]Copiar personas[e]
-[f 0 5 65278][f 2 1]Leyes sobre fusi吋n[e]
+[f 0 5 65278][f 2 1]Reglas sobre fusi吋n[e]
 [f 0 5 65278][f 2 1]Herencia de habilidades[e]
-[f 0 5 65278][f 2 1]Normas de herencia[e]
+[f 0 5 65278][f 2 1]Reglas de herencia[e]
 [f 0 5 65278][f 2 1]Volver[e]
 
 [msg msg_combine_exp_personac_2 [Justine]]

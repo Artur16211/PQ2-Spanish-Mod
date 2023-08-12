@@ -1,4 +1,4 @@
-[msg BTL_MES_018_000]
+﻿[msg BTL_MES_018_000]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_001]

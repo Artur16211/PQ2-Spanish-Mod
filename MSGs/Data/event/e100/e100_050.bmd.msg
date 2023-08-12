@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 1 0 1][f 4 6 65 12 1 3][f 3 1 1 0 0 1][f 6 1 2 0 0 0]夷Qu姻 pasa, Morgana? 夷Encontraste alguna pista?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 3]Echa un vistazo a esta puerta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 3]Miren esta puerta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 6][f 3 1 1 0 0 3][f 6 1 2 0 0 4]夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
@@ -33,16 +33,16 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 65 8 1 3][f 3 1 1 0 0 10][f 6 1 2 0 0 10]斡Oye, Morgana! 夷No puedes abrirlas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 11]Le di una oportunidad, pero fue in雨til.[n]Los agujeros de llave no tienen forma[n]para las llaves ordinarias.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 11]Lo intente, pero es in雨til.[n]Las cerraduras no tienen forma[n]para las llaves ordinarias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011_5 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 18 1 0][f 3 1 1 0 0 12]Si hici姻ramos algo sobre ellos, apuesto[n]a que podr胤amos salir de aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 18 1 0][f 3 1 1 0 0 12]Si hicieramos algo al respecto, apuesto[n]a que podr胤amos salir de aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 66 12 0 1][f 3 1 1 0 0 13]S胤... 夷No hay nada que podamos hacer?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_013 top]
-[f 0 5 65278][f 2 1]Vamos a forzarlo abierto.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]Vamos a forzarla.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Esto es in雨til.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]夷Podr胤amos encontrar las llaves?[f 2 7 1 64 6 32][e]
 
@@ -56,28 +56,28 @@
 [f 0 5 65278][f 2 1][f 4 6 66 10 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 6]夷Ya te est茨s rindiendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 17]Aceptar la derrota con la gracia puede[n]ser admirable, pero no hagamos eso[n]todav胤a. 夷Encontramos las llaves?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 17]Aceptar la derrota con gracia puede[n]ser admirable, pero no hagamos eso[n]todav胤a. 夷Encontramos las llaves?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 18]Ya mir姻, pero no pude encontrarlos, ni[n]nada m茨s, ni siquiera un rat吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 18]No pude encontrarlas, ni[n]nada m茨s, ni siquiera un rat吋n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Morgana]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 4][f 6 1 3 0 0 1]Mientras estamos en ello, 夷c吋mo te fue[n]en tu extremo? 夷Alguna se隠al de Makoto o Haru?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 4][f 6 1 3 0 0 1]夷C吋mo les fue?[n]夷Alguna se隠al de Makoto o Haru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 20][f 6 1 2 0 0 10]Para nada. Tambi姻n buscamos por todas partes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 21]No vimos ni una sola pista.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 21]No encontramos ni una sola pista.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 3]Como la salida est茨 encadenada, es[n]dudoso que lo hayan hecho afuera. 夷Qu姻 hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 3]Como la salida est茨 encadenada, es[n]dudoso que lo hayan hecho por fuera. 夷Qu姻 hacemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 12 0 0][f 3 1 1 0 0 23][f 6 1 2 0 0 5]夷Por qu姻 no intentamos volver a donde[n]nos despertamos?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Tal vez han aparecido all胤 desde que[n]empezamos a correr por aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 12 0 0][f 3 1 1 0 0 23][f 6 1 2 0 0 5]夷Por qu姻 no volvemos a donde[n]despertamos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Tal vez llegaron alli despues[n]de que nos fuimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 25]S胤, se隠ora. Ann tiene un punto, y no[n]tiene sentido preocuparse por eso aqu胤...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Muy bien, retrocedamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 25]S胤, la se隠orita Ann tiene un punto, y no[n]tiene sentido preocuparse por eso aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Muy bien, regresemos![n][f 1 3 65535][f 1 1][e]
 

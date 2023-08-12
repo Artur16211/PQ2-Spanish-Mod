@@ -1,4 +1,4 @@
-[sel BTLMSGID_RESULT00 top]
+﻿[sel BTLMSGID_RESULT00 top]
 [f 0 5 65278][f 2 1]S胤.[e]
 [f 0 5 65278][f 2 1]No[e]
 
@@ -30,7 +30,7 @@
 [f 0 5 65278][f 2 1]Algo va a suceder a [f 2 4 1]...[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT10]
-[f 0 5 65278][f 2 1][f 2 4 0]Deja un grito agudo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 2 4 0] Deja un grito agudo.[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT11]
 [f 0 5 65278][f 2 1]■ BTLMSGID_RESULT11[n][f 1 1][e]
@@ -75,11 +75,11 @@
 [f 0 5 65278][f 2 1]Aprendi吋 todas las habilidades de mami MSG.[n][f 1 1][e]
 
 [msg BTLMSGID_RESULT25]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]Retenido su forma, pero se ha vuelto m茨s poderoso![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Retenido su forma, pero se ha vuelto m茨s poderoso![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT26]
 [f 0 5 65278][f 2 1]Renacer como [f 0 1][f 2 4 0][f 0 1 0] despierta nuevos poderes![n][f 1 1][e]
 
 [msg BTLMSGID_RESULT27]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]Ha sido actualizado![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Ha sido actualizado![n][f 1 1][e]
 

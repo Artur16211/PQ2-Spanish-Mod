@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 10]夷Monaaa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Haru]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 27 0 0 6][f 3 1 1 0 0 11]夷Qu姻 pasa, Mona-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 27 0 0 6][f 3 1 1 0 0 11]夷Qu姻 pasa, Mona?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 1 0][f 3 1 1 0 0 12]斡Oh! Lo siento.[n]Es s吋lo que Mementos se siente...[n]diferente de lo habitual.[n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 15]Yo tambi姻n lo creo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 24 6 0 1][f 3 1 1 0 0 16]夷Eh? Parece que me falta la[n]formaci吋n necesaria para percibirlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 24 6 0 1][f 3 1 1 0 0 16]夷Eh? Parece que me falta la[n]experiencia necesaria para percibirlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 17]Me parece lo mismo de siempre...[n][f 1 3 65535][f 1 1][e]

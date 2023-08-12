@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Tierra Junessic![n][f 1 2 60][f 1 1][e]
 
 [msg MSG_011]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Ahora mostrando![n][f 1 2 80][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]!Ahora en cines![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_012]
 [f 0 5 65278][f 2 1][f 0 6 255 255]　[n][f 1 2 30][f 1 1][e]

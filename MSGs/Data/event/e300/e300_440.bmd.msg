@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Maldita sea, debe sentirse[n]super-badass para burlarse de enemigos as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Mm, tiene sus[n]inconvenientes, sin embargo. Una vez que lo usa,[n]todas sus funciones est茨n temporalmente[n]desactivadas hasta que se recupera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Aunque tiene sus[n]inconvenientes. Una vez que lo usa, todas[n]sus funciones est茨n temporalmente[n]desactivadas hasta que se recupera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 26029][f 6 1 2 0 0 6]斡Escuchen! Ser capaz de cambiar los[n]engranajes y transformarse as胤 es el sue隠o[n]de un mech-lover![n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Maldita sea, debe sentirse[n]super-badass para burlarse de enemigos as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19013]Mm, tiene sus[n]inconvenientes, sin embargo. Una vez que lo usa,[n]todas sus funciones est茨n temporalmente[n]desactivadas hasta que se recupera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19013]Aunque tiene sus[n]inconvenientes. Una vez que lo usa, todas[n]sus funciones est茨n temporalmente[n]desactivadas hasta que se recupera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 19 6 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19033]Ahaha,[n]que podr胤a ser un poco dif胤cil en este[n]momento, despu姻s de usarlo, sus funciones[n]est茨n temporalmente desactivadas hasta que se recupera.[n][f 1 3 65535][f 1 1][e]

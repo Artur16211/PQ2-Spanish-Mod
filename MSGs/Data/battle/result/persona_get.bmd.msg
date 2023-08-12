@@ -1,4 +1,4 @@
-[msg P_GET_MSGID_GET]
+﻿[msg P_GET_MSGID_GET]
 [f 0 5 65278][f 2 1]Usted gan吋 la Persona [f 2 4 0]![n][f 1 1][e]
 
 [msg P_GET_MSGID_RUNKUP]

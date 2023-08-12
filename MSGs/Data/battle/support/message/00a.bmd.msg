@@ -1,4 +1,4 @@
-[msg BTL_MES_010_000]
+﻿[msg BTL_MES_010_000]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_001]
@@ -8,13 +8,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10301]Чноплитинанитенниениентинаниваниванияныениныентентентениенинаниенинаниенниениенининиениениениениениениениенинининининининиенинитиениентитинининининининининиянининининининининнининияниянинннтенияннияниянниниянтиянинининиениентиеннининининиянининиенининаниян[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10302]FOE visto! Probablemente deber胤amos[n]evitarlo, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10302]!FOE avistado! Deberiamos evitarlo, ?no?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10303]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10304]Es un FOE. 夷Crees que podemos tomarlo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10304]Eso es un FOE. ?Crees que podemos con el?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_006]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10305]斡Un raro! 斡No dejes que se escape![n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10321]?леннициныениныенный, 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10322]Nunca hab胤a mirado eso antes. 夷A qu姻 se enfrenta?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10322]Nunca habia visto ese antes. ?Cual sera su debilidad?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10323]斡No[n][f 1 6 65535][e]
@@ -50,13 +50,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10325]狙えнопринанининининыханикинанининанинанияниныйнининыеннинениныенниениный[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10326]斡Esto deber胤a ser una brisa para nosotros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10326]!Esto deberia ser pan comido para nosotros![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10327]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10328]Oye... 夷no es raro que Shadow act雨e?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10328]Oye... ?no esta esa Sombra actuando raro?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10329]Alternativamente... 夷Por qu姻[n][f 1 6 65535][e]
@@ -158,7 +158,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10340]斡Te damos cuenta[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10341]斡Muy bien! 斡Mi turno ahora![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10341]!Muy bien! !Ahora es mi turno![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10342]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -170,7 +170,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10344]斡No te olvides de Relevo![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10345]斡Estoy listo aqu胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10345]!Ya estoy listo![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10501]夷Te gustar胤a saber algo[n][f 1 6 65535][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10502]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_060]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10503]<exact雨a nuevamente[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10503]づ宋▼Κて壁跨±ζi{0A}▼χ§Ξ★◎i[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_061]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10504]斡No[n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10520]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_078]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10521][n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10521][e]
 
 [msg BTL_MES_010_079]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10522]Alternativamente[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10528]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10430]斡D姻melo! Luces, c茨mara, acci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10430]!Dejamelo a mi! !Luces, camara, accion![n][f 1 6 65535][e]
 

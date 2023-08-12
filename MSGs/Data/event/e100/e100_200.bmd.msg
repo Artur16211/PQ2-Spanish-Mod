@@ -26,22 +26,22 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 8][f 0 6 255 255]Luchar姻 por todos ustedes...[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_006_7]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 9][f 0 6 255 255]斡Le pido que coopere conmigo en nombre[n]de la justicia![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 9][f 0 6 255 255]斡Les pido que cooperen conmigo en nombre[n]de la justicia![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_007]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 10][f 0 6 255 255]Estos p胤caros se oponen a la orden de[n]nuestro mundo, 斡son los malhechores m茨s seguros![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 10][f 0 6 255 255]Estos p胤caros se oponen a la orden de[n]nuestro mundo, 斡son malhechores![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_007_5]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 11][f 0 6 255 255]As胤, como enemigos de la justicia, cada[n]uno ser茨 castigado con captura![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 11][f 0 6 255 255]As胤, como enemigos de la justicia, !cada[n]uno ser茨 capturado![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_008]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Eh? 夷Esto es real?[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_009]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 12][f 0 6 255 255]Empecemos con estos dos...[n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 12][f 0 6 255 255]Empecemos con estas dos...[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_009_5]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 13][f 0 6 255 255]斡Venid a presenciar su exhibici吋n de[n]castigo en la plaza Kamoshida![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 13][f 0 6 255 255]!Venga a presenciar su exhibicion de castigo en la Plaza Kamoshida![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_010]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Qu姻?[n][f 1 2 40][f 1 1][e]
@@ -56,8 +56,8 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 16][f 0 6 255 255]斡S胤! 斡Kamoshidamaaan![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_013]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 17][f 0 6 255 255]Castigar a esos ladrones![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 17][f 0 6 255 255]!Castiguen a esos ladrones![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_014]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 18][f 0 6 255 255]斡S胤! 斡P吋ngalos![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 18][f 0 6 255 255]斡S胤![n][f 6 1 19 0 0 65535][e]
 

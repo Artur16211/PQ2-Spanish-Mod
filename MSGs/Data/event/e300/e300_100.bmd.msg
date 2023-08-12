@@ -169,7 +169,7 @@
 
 [msg MSG_052 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 12 0 1][f 3 1 1 0 0 62]Me disculpo por no presentarnos antes,[n]mi nombre es Mitsuru Kirijo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 63]Soy el presidente del consejo[n]estudiantil en Gekkoukan High y este escuadr吋n de[n]ejecuci吋n extracurricular especializado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 63]Soy el presidente del consejo[n]estudiantil en Instituto Gekkoukan y este escuadr吋n de[n]ejecuci吋n extracurricular especializado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 64][f 6 1 2 0 0 4]夷Kirijo? 夷Podr胤a estar afiliado al[n]Grupo Kirijo de alguna manera?[n][f 1 3 65535][f 1 1][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 90][f 6 1 2 0 0 6]夷Un perrito con Persona? 斡Qu姻 buen chico![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 91]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 91]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 6 0 1][f 3 1 1 0 0 92][f 6 1 2 0 0 3]Lady Ann... Tambi姻n soy un suave[n]Persona-usuario...[n][f 1 3 65535][f 1 1][e]
@@ -320,7 +320,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 6][f 3 1 1 0 0 121]斡Correcto! Pero probablemente[n]deber胤amos presentarnos a ti primero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_098]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Todos nos presentamos a los estudiantes[n]de Gekkoukan High...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Todos nos presentamos a los estudiantes[n]de Instituto Gekkoukan...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_099 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 122]Para pensar que hay otros usuarios de[n]Persona adem茨s de nosotros...[n][f 1 3 65535][f 1 1][e]

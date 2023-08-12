@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Shinjiro-senpai! 斡Estoy tan feliz ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 4124][f 6 1 2 0 0 6]Man, it's like my chopsticks have a mind[n]of their own! 斡Segundos, por favor![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 4124][f 6 1 2 0 0 6]斡Hombre, es como si mis palillos[n]tuvieran una mente propia! 斡Segundos, por favor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 4][f 3 1 1 0 0 23124][f 6 1 2 0 0 6]斡Meow! 斡Shinjiro! 斡Yo tambi姻n quiero m茨s![n][f 1 3 65535][f 1 1][e]

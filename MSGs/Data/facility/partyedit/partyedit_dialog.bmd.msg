@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1]No[e]
 
 [msg EDIT_CANCEL]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷Quieres irte sin cambiar la formaci吋n[n]del partido?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]夷Quieres irte sin cambiar la formaci吋n[n]del grupo?[n][f 1 1][e]
 
 [msg LEADER_NOT_EXIST]
 [f 0 5 65278][f 2 1]Продилилитиванинаннныйныхнныхнныхныхныхныхниныхниныхиныхниныхнинанных[n][f 1 1][e]
@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1]НЕРИТРИНИЛИВАЛЬНЫЙ НЕЛИ НЕЛИТЕНННЫЕННЫЕНИЕНТЕ[n][f 1 1][e]
 
 [msg NAVI_EDIT_CANCEL]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷Exit sin cambiar los navegantes?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]夷Salir sin cambiar los navegadores?[n][f 1 1][e]
 
 [msg NAVI_EQUIP_SET]
 [f 0 5 65278][f 2 1]斡No[n][f 1 1][e]
