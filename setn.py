@@ -258,6 +258,11 @@ def run_program():
                     for item in result:
                         line = line.replace(item, "")
                     line = line.replace("[w]", "").replace("[e]", "")
+                    for item in result:
+                        line = line.replace("縲縲", "").replace(
+                            "縲縲", "").replace("　　", "")
+                        line = re.sub(
+                            r'\[n\]\[f 3 1 1 0 0.*?\]', '', line)
                     last_occurrence_index = line.rfind("[n]")
                     if game == "Persona Q2":
                         # Delete all lines after the last occurrence of "[n]"
