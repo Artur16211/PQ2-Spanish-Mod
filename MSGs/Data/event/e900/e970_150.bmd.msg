@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]- No. - 夷Qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Неннный Непенный]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]- 夷Qu姻? ?????ctamente nuevo, ずの頑張のたの?の?の?の?のい?の??[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]- 夷Qu姻? ?????ctamente nuevo,[n]ずの頑張のたの?の?の?の?のい?の??[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Гленной Непеннный Непенни Ненни Ненни Ненни Нани Нани Не Нени Не Ненни Нени Нени Ни Не Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни Не Ни Ни Ни Ни Ни Ни На Не Не Не Не Не Не Не Не Не Не Ни Ни Ни Ни Ни Ни Ни Ни Ни Ни И И Ни Ни Ни Ни Ни Ни Ни Ни И Н]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Acaso hay que decir que estamos juntos[n][f 1 3 65535][f 1 1][e]
@@ -63,6 +63,6 @@
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 0]─ Tomamos noticias sobre..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Xxxumen]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 0]Alternativamente podr胤a funcionar correctamente[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Identificar c吋mo funcionaba la[n]informaci吋n que ten胤a[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 0]Alternativamente podr胤a funcionar[n]correctamente[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Identificar c吋mo funcionaba la informaci吋n[n]que ten胤a[n][f 1 3 65535][f 1 1][e]
 

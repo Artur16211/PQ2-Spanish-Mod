@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18302]夷Un FOE? Genial...[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_004]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18303]√?amos la llegada inicializada[n]trinquilizaba el esp胤ritu[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18303]√?amos la llegada inicializada trinquilizaba[n]el esp胤ritu[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_005]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18304]S胤, es un FOE, pero podemos derrotar a este.[n][f 1 6 65535][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18305]Una rara sombra... De ninguna manera lo[n]dejamos correr.[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_007]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18306]√?o explicando nuevamente la decisi吋n finalizada[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18306]√?o explicando nuevamente la decisi吋n[n]finalizada[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_008]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18310]? Significativamente[n][f 1 6 65535][e]
@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18312]?епренитеннитенниентеннненнный[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18320]Deber胤a ser una buena pelea... A雨n as胤,[n]va a ser dif胤cil.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18320]Deber胤a ser una buena pelea... A雨n as胤, va[n]a ser dif胤cil.[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18321]- 夷Qu姻? 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18322]La primera vez que lo veo. No deber胤a[n]ser un problema cuando tengamos su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18322]La primera vez que lo veo. No deber胤a ser un[n]problema cuando tengamos su debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18323]Alternativamente[n][f 1 6 65535][e]
@@ -59,13 +59,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18328]Parece que la sombra cambi吋 de alguna manera.[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_020]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18329]?реннныеннинининыеннныеннныенннныенныхныени... 夷Por qu姻[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18329]?реннныеннинининыеннныеннныенннныенныхныени...[n]夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_021]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18330]Alternativamente... нелиный .....[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18331]Dado el desorden en el que estamos, no[n]muerdas m茨s de lo que puedes masticar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18331]Dado el desorden en el que estamos, no muerdas[n]m茨s de lo que puedes masticar.[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18332]?елинициный... - 夷Qu姻[n][f 1 6 65535][e]
@@ -149,7 +149,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18426]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_050]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18427]?леннилиныхниныхныхниныхныхныхныхныхныхненнныхненнныхныхныхныхныхныхныхненнныхныхныхныхныхныхныхниныхныхныхныхныхныхниныхныхныхныхныхныхныхныхныхныхныхныхныхныхныхныхныхниныхныхныхныхныхныхныхныхныхныхныхныхныхниныхныхныхныхныхныхныхныхныхнининыхнинининых 夷C吋mo se dice[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18427]?леннилиныхниныхныхниныхныхныхныхныхныхненнныхненнныхныхныхныхныхныхныхненнныхныхныхныхныхныхныхниныхныхныхныхныхныхниныхныхныхныхныхныхныхныхныхныхныхныхныхныхныхныхныхниныхныхныхныхныхныхныхныхныхныхныхныхныхниныхныхныхныхныхныхныхныхныхнининыхнинининых[n][n][n][n][n][n]夷C吋mo se dice[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_051]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18428]夷Te gusta[n][f 1 6 65535][e]
@@ -158,7 +158,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18340]<M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18341]Lo siento, pero no me retracto. Di tus oraciones.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18341]Lo siento, pero no me retracto. Di tus[n]oraciones.[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18342]夷Qu姻[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 18528]Acaso no es cierto[n][f 1 6 65535][e]
 
 [msg BTL_MES_018_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 18430]No est茨 mal... 斡No importa si dejo suelto un poco![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 18430]No est茨 mal... 斡No importa si dejo suelto un[n]poco![n][f 1 6 65535][e]
 

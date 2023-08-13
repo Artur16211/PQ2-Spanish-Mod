@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22304]夷Un FOE? 斡Esto es malo![n][f 1 6 65535][e]
 
 [msg ANN_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22305]Hey, es un FOE, ya sabes! 斡Tengo que[n]tener cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22305]Hey, es un FOE, ya sabes! 斡Tengo que tener[n]cuidado![n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_END_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22306]Estamos bien... Supongo que lo perdimos.[n][f 1 6 65535][e]
@@ -32,10 +32,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22370]Muy f茨cil ahora...[n][f 1 6 65535][e]
 
 [msg ANN_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22371]Estoy sudando por todas partes. 斡Y no[n]porque est姻 caliente![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22371]Estoy sudando por todas partes. 斡Y no porque[n]est姻 caliente![n][f 1 6 65535][e]
 
 [msg ANN_DENKISAKU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22372]Puedo sentir el pelo en la parte[n]posterior de mi cuello de pie...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22372]Puedo sentir el pelo en la parte posterior[n]de mi cuello de pie...[n][f 1 6 65535][e]
 
 [msg ANN_DENKISAKU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22373]斡No queremos tocar eso![n][f 1 6 65535][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22332]斡Tiene que haber algo aqu胤![n][f 1 6 65535][e]
 
 [msg ANN_SWITCH_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22333]Podemos cambiar este interruptor gratis, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22333]Podemos cambiar este interruptor gratis,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg ANN_SWITCH_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22334]斡Oh! 斡Hay un interruptor![n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22312]Lo siento... No puedo seguir...[n][f 1 6 65535][e]
 
 [msg ANN_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22313]Hey, 夷crees que podemos conseguir un poco de R?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22313]Hey, 夷crees que podemos conseguir un poco de[n]R?[n][f 1 6 65535][e]
 
 [msg ANN_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22314]Creo que esto es lo m茨s lejos que puedo ir...[n][f 1 6 65535][e]

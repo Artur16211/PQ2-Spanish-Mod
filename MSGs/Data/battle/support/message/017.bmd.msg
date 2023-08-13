@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23321]Alternativamente..[n][f 1 6 65535][e]
 
 [msg BTL_MES_023_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 23322]Nunca hab胤amos visto eso antes.[n]斡Encontremos su debilidad! 斡T吋malo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 23322]Nunca hab胤amos visto eso antes. 斡Encontremos[n]su debilidad! 斡T吋malo![n][f 1 6 65535][e]
 
 [msg BTL_MES_023_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 23323]斡Testigo[n][f 1 6 65535][e]

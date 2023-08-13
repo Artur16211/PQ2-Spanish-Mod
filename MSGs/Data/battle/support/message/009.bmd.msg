@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9321]Alternativamente...[n]逃ютеннненнненнныменнныминыхныхный[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9322]斡Es nuevo! Vamos a recoger algo de informaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9322]斡Es nuevo! Vamos a recoger algo de[n]informaci吋n![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9323]斡Testigo[n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9325]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9326]斡Idiota! 夷Te atreves a desafiar el[n]destino? 斡Debo decir que estoy impresionado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9326]斡Idiota! 夷Te atreves a desafiar el destino?[n]斡Debo decir que estoy impresionado![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9327]Alternativamente... 斡Avanzar[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9330]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9331]Hrmm... Incluso poni姻ndolo a la ligera,[n]dir胤a que somos carne muerta![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9331]Hrmm... Incluso poni姻ndolo a la ligera, dir胤a[n]que somos carne muerta![n][f 1 6 65535][e]
 
 [msg BTL_MES_009_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9332]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -74,16 +74,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9401][e]
 
 [msg BTL_MES_009_025]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9402]?еленнныенннныеннныенныеннныенныенныхиныхныхныхный 斡No[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9402]?еленнныенннныеннныенныеннныенныенныхиныхныхныхный[n]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_026]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9403]?ленноглиницилинанитититенитенитени...! 斡Est雨pido[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9403]?ленноглиницилинанитититенитенитени...![n]斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_027]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9404]Alternativamente... [n][f 1 6 65535][e]
 
 [msg BTL_MES_009_028]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9405]?леннницинаннитенннымитентелитенитенитенитеннненниенниени ... [n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9405]?леннницинаннитенннымитентелитенитенитенитеннненниенниени[n]... [n][f 1 6 65535][e]
 
 [msg BTL_MES_009_029]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9406]Alternativamente[n][f 1 6 65535][e]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9411]Leer m茨s 斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_035]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9412]??нелиницинанитенититентелитени ...! 斡Est雨pido[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9412]??нелиницинанитенититентелитени ...![n]斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_036]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9413]Alternativamente... [n][f 1 6 65535][e]
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9417]Leer m茨s 斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_041]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 9418]<RETAMENTE RECONOCIENDO QUE[n]RECIBARSE...! 斡Est雨pido[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 9418]<RETAMENTE RECONOCIENDO QUE RECIBARSE...![n]斡Est雨pido[n][f 1 6 65535][e]
 
 [msg BTL_MES_009_042]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 9419]√?an significando... [n][f 1 6 65535][e]

@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21377]夷Me est茨s enga隠ando?[n][f 1 6 65535][e]
 
 [msg RYUJI_STAIR_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21324]斡Oye! 斡Encontramos un camino que podemos tomar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21324]斡Oye! 斡Encontramos un camino que podemos[n]tomar![n][f 1 6 65535][e]
 
 [msg RYUJI_STAIR_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21325]斡Vamos, vamos![n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21310]斡Maldita sea, esa cosa no va a renunciar![n][f 1 6 65535][e]
 
 [msg RYUJI_FOE_WARNING_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21311]Ese FOE sigue por aqu胤. 斡No dejes que[n]te escabulle![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21311]Ese FOE sigue por aqu胤. 斡No dejes que te[n]escabulle![n][f 1 6 65535][e]
 
 [msg RYUJI_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21365]Como siempre, 夷verdad?[n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Todav胤a tenemos mucha m茨s experiencia[n]para hacer...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Todav胤a tenemos mucha m茨s experiencia para[n]hacer...[n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21353]斡Un paso a la vez![n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]A mitad de camino, 夷eh?[n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_50_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]斡Aqu胤 es donde comienza la verdadera diversi吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]斡Aqu胤 es donde comienza la verdadera[n]diversi吋n![n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_75_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]斡Hemos ido muy lejos![n][f 1 6 65535][e]

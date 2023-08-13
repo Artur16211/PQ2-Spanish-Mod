@@ -35,13 +35,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18371]Qu姻 trampa.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_DENKISAKU_REACTI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18372]Una puerta el姻ctrica, eh... Esto[n]apesta, pero tomemos la ruta m茨s larga.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18372]Una puerta el姻ctrica, eh... Esto apesta, pero[n]tomemos la ruta m茨s larga.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_DENKISAKU_REACTI_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18373]Mejor busca el interruptor para apagar[n]la corriente...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18373]Mejor busca el interruptor para apagar la[n]corriente...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_DENKISAKU_REACTI_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18374]Parece que mejor nos centramos en[n]deshacernos de la electricidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18374]Parece que mejor nos centramos en deshacernos[n]de la electricidad.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_KYOUHU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18375]Whoa?[n][f 1 6 65535][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18324]Hey, algunas escaleras...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_STAIR_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18325]Parece que podemos seguir adelante. 夷Deber胤amos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18325]Parece que podemos seguir adelante.[n]夷Deber胤amos?[n][f 1 6 65535][e]
 
 [msg ARAGAKI_STAIR_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18326]Hay m茨s que hacer. 夷Cu茨l es tu llamada aqu胤?[n][f 1 6 65535][e]
@@ -65,13 +65,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18327]Hay una caja de tesoros... 夷Quieres abrirlo?[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18328]Una caja de tesoros, eh... Espero que[n]haya algo bueno en ello.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18328]Una caja de tesoros, eh... Espero que haya[n]algo bueno en ello.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18329]Hey, hay una caja de tesoros.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_CHECK_WALL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18330]Estoy viendo algo sospechoso...[n]夷Deber胤amos abrirlo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18330]Estoy viendo algo sospechoso... 夷Deber胤amos[n]abrirlo?[n][f 1 6 65535][e]
 
 [msg ARAGAKI_CHECK_WALL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18331]夷Qu姻 es eso?[n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18309]Parece que todav胤a nos sigue.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18310]Ten胤a la sensaci吋n de que no nos dejaba[n]ir tan f茨cilmente...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18310]Ten胤a la sensaci吋n de que no nos dejaba ir[n]tan f茨cilmente...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18311]Parece que esto a雨n no ha terminado.[n][f 1 6 65535][e]
@@ -227,13 +227,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18352]Este lugar parece bastante extendido.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18353]No tiene sentido preocuparse por esto.[n]Vamos a hacerlo tranquilamente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18353]No tiene sentido preocuparse por esto. Vamos[n]a hacerlo tranquilamente.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TOUHA_50_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18354]A mitad de camino, eh... Parece que[n]todav胤a tenemos una manera de irnos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18354]A mitad de camino, eh... Parece que todav胤a[n]tenemos una manera de irnos.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TOUHA_50_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18355]Sent胤 como si fu姻ramos obstruidos en[n]nuestra meta...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18355]Sent胤 como si fu姻ramos obstruidos en nuestra[n]meta...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TOUHA_75_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18356]Este mapa est茨 empezando a reunirse.[n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18358]As胤 que el mapa est茨 lleno. Buen trabajo.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18359]Realmente has terminado eso... Estoy impresionado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18359]Realmente has terminado eso... Estoy[n]impresionado.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_ICON_ALL]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18342]Te est茨s quedando ah胤.[n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18344]Creo que es cierto.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_ICON_KAI_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18345]Dir胤a que saber d吋nde est茨 nuestra[n]entrada es bastante importante.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18345]Dir胤a que saber d吋nde est茨 nuestra entrada[n]es bastante importante.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_CHANGE_C]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18346]You changed colors, huh? No est茨 mal.[n][f 1 6 65535][e]
@@ -266,10 +266,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18347]Eh, muy bien.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_ICON_DEL]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18348]Podr胤a jurar que Aki dijo algo sobre[n]perder peso y qu姻 no...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18348]Podr胤a jurar que Aki dijo algo sobre perder[n]peso y qu姻 no...[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_ICON_DEL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18349]Mantener las cosas en orden puede hacer[n]una diferencia real, especialmente aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18349]Mantener las cosas en orden puede hacer una[n]diferencia real, especialmente aqu胤.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18350]Tomar notas es importante.[n][f 1 6 65535][e]

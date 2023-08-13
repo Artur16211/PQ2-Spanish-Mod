@@ -252,7 +252,9 @@ def run_program():
                 try:
                     os.rename(old_path, new_path)
                 except FileExistsError:
-                    # print(f"Skipping {old_path} as {new_path} already exists")
+                    # replace the file if it already exists
+                    os.remove(new_path)
+                    os.rename(old_path, new_path)
                     continue
 
     # Import all .bf files in the "Output" folder with PEImport

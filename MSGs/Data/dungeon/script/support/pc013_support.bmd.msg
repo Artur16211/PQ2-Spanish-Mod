@@ -29,13 +29,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19369]斡Todos est茨n en alerta![n][f 1 6 65535][e]
 
 [msg P3_HERO2_KANSI_REACTION__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19370]Ser茨 un problema si nos encuentran. 斡Ten cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19370]Ser茨 un problema si nos encuentran. 斡Ten[n]cuidado![n][f 1 6 65535][e]
 
 [msg P3_HERO2_KANSI_REACTION__3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19371]斡No puedes atraparnos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DENKISAKU_REACT]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19372]Si no apagamos la electricidad, nos[n]quemaremos a un crujiente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19372]Si no apagamos la electricidad, nos quemaremos[n]a un crujiente.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_DENKISAKU_REACT_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19373]Una puerta el姻ctrica, eh... 斡Parece que[n]tenemos que apagar la electricidad primero![n][f 1 6 65535][e]
@@ -158,13 +158,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19316]Creo que mi salud est茨 perdiendo...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19317]No puedo seguir... Mi salud es demasiado baja...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19317]No puedo seguir... Mi salud es demasiado[n]baja...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_TP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19318]Tan agotado... 夷Podemos descansar un poco?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19319]Mi resistencia ha sido estirada demasiado lejos...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19319]Mi resistencia ha sido estirada demasiado[n]lejos...[n][f 1 6 65535][e]
 
 [msg P3_HERO2_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19320]No m茨s... Estoy fuera de energ胤a...[n][f 1 6 65535][e]
@@ -215,7 +215,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19362]斡Somos un escuadr吋n incre胤ble; vamos a[n]mantenerlo as胤![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19363]Vale, esto no terminar茨 en ning雨n[n]momento, 斡espero![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19363]Vale, esto no terminar茨 en ning雨n momento,[n]斡espero![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]斡Tenemos nuestras 吋rdenes, todos![n][f 1 6 65535][e]
@@ -224,10 +224,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19365]Estoy muy emocionada, ahora.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19352]Parece que tenemos una manera de ir...[n]夷Estamos bien en salud?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19352]Parece que tenemos una manera de ir... 夷Estamos[n]bien en salud?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19353]Parece que todo se ha extendido...[n]Tengamos cuidado al continuar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19353]Parece que todo se ha extendido... Tengamos[n]cuidado al continuar.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19354]斡El mapa se llena muy bien![n][f 1 6 65535][e]
@@ -275,7 +275,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19350]斡Tenemos que asegurarnos de no olvidar eso![n][f 1 6 65535][e]
 
 [msg P3_HERO2_MAPPING_MEMO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19351]夷Tal vez deber胤a hacerlo? 斡Haha, s吋lo bromeaba![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19351]夷Tal vez deber胤a hacerlo? 斡Haha, s吋lo[n]bromeaba![n][f 1 6 65535][e]
 
 [msg P3_HERO2_DOOR_OPEN_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19366]斡Vamos, vamos![n][f 1 6 65535][e]

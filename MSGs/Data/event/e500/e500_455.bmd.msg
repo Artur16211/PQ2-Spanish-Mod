@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 5][f 0 6 255 255]Despu姻s de todo... Hikari nos dijo: "Te veo"[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_001_3]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 6][f 0 6 255 255]斡As胤 es como sabemos que[n]definitivamente volveremos a vernos alg雨n d胤a![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 6][f 0 6 255 255]斡As胤 es como sabemos que definitivamente[n]volveremos a vernos alg雨n d胤a![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_002]
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 7][f 0 6 255 255]S胤, as胤 es.[n][f 6 1 19 0 0 65535][e]

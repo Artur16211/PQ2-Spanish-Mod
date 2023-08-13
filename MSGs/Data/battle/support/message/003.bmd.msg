@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3303]斡Regresar[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3304]夷A qui姻n le importa si es un FOE? 斡No[n]estamos retrocediendo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3304]夷A qui姻n le importa si es un FOE? 斡No estamos[n]retrocediendo![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_006]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3305]斡Un poco raro! 斡Suerte![n][f 1 6 65535][e]
@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3312]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3320]斡Mierda! 斡Este es duro! 夷C吋mo salimos de esto?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3320]斡Mierda! 斡Este es duro! 夷C吋mo salimos de[n]esto?[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3321]夷Te gustar胤a saber algo[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3322]Whoa! 斡No hemos visto esa! Vamos a[n]comprobar sus debilidades![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3322]Whoa! 斡No hemos visto esa! Vamos a comprobar[n]sus debilidades![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3323]Leer m茨s[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3342]Leer m茨s[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3343]斡Si queremos golpear su debilidad, cambia conmigo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3343]斡Si queremos golpear su debilidad, cambia[n]conmigo![n][f 1 6 65535][e]
 
 [msg BTL_MES_003_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3344]斡Muy bien! 夷Es hora de pasar Baton?[n][f 1 6 65535][e]
@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3509]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_067]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 3510]??неннненнининнинининининининининанинининаннининаннининанининанинининанинининининининий[n]нананинининининининининининининий нининий[n]нинининининининининининининининининининининининний ний[n]нинининининининининининнининининий ниний нинининининнинининининининини[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 3510]??неннненнининнинининининининининанинининаннининаннининанининанинининанинининининининий[n][n]нананинининининининининининининий[n]нининий нинининининининининининининининининининининининний[n]ний нинининининининининининнининининий[n]ниний[n]нинининининнинининининининини[n][f 1 6 65535][e]
 
 [msg BTL_MES_003_068]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 3511]斡M茨s tarde[n][f 1 6 65535][e]

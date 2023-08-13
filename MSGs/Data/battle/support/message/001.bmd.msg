@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1312]Alternativamente... . [n][f 1 6 65535][e]
 
 [msg BTL_MES_001_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1320]El enemigo se ve duro... Esto podr胤a[n]ser un problema.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1320]El enemigo se ve duro... Esto podr胤a ser un[n]problema.[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1321]Alternativamente, no te preocupes. 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1322]Es nuevo... Busquemos sus debilidades primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1322]Es nuevo... Busquemos sus debilidades[n]primero.[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1323]Alternativamente[n][f 1 6 65535][e]

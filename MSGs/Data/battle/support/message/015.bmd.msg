@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21301]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 21302]斡Maldita sea! 斡Un FOE! 夷Podemos[n]realmente hacer esto?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 21302]斡Maldita sea! 斡Un FOE! 夷Podemos realmente[n]hacer esto?[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21303]- 夷Qu姻[n][f 1 6 65535][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21304]斡Heh! 斡Podr胤amos bajar este![n][f 1 6 65535][e]
 
 [msg BTL_MES_021_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 21305]Whoa! 斡Una rara sombra! 斡No te dejar姻 escapar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 21305]Whoa! 斡Una rara sombra! 斡No te dejar姻[n]escapar![n][f 1 6 65535][e]
 
 [msg BTL_MES_021_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21306]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21321]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 21322]Nunca hab胤a visto a este tipo antes...[n]斡Mejor encontrar una debilidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 21322]Nunca hab胤a visto a este tipo antes... 斡Mejor[n]encontrar una debilidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_021_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21323]◆ iluminar nuevamente las cosas[n][f 1 6 65535][e]
@@ -170,7 +170,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21344]斡Vamos, hagamos un pase de Baton![n][f 1 6 65535][e]
 
 [msg BTL_MES_021_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 21345]斡Genial! Eso significa que depende de m胤, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 21345]斡Genial! Eso significa que depende de m胤,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21501]斡No[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21517]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_075]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 21518]Нелиныхный ненный неннный неленнный[n]неленный неленнтели[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 21518]Нелиныхный ненный неннный неленнный неленный[n]неленнтели[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_076]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21519]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21527]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_085]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 21528]?елитилиный пельный непетелитентеный пелителите[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 21528]?елитилиный пельный непетелитентеный[n]пелителите[n][f 1 6 65535][e]
 
 [msg BTL_MES_021_086]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 21430]斡Claro que s胤! 斡Estoy listo![n][f 1 6 65535][e]

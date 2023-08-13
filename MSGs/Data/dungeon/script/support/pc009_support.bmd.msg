@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9305]*Sniff sniff* Este olor... 斡Es un FOE![n][f 1 6 65535][e]
 
 [msg KUMA_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9306]斡Demasiado lento! 斡No nos atrapar茨n[n]unos asquerosos FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9306]斡Demasiado lento! 斡No nos atrapar茨n unos[n]asquerosos FOE![n][f 1 6 65535][e]
 
 [msg KUMA_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9307]Phew, nos escapamos.[n][f 1 6 65535][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9369]Tiptoe, tiptoe, modo de robo![n][f 1 6 65535][e]
 
 [msg KUMA_KANSI_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9370]Siento que estamos jugando al escondite[n]y buscando.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9370]Siento que estamos jugando al escondite y[n]buscando.[n][f 1 6 65535][e]
 
 [msg KUMA_KANSI_REACTION_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9371]Estoy un poco nervioso...[n][f 1 6 65535][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9373]斡No caeremos por una trampa como esta![n][f 1 6 65535][e]
 
 [msg KUMA_DENKISAKU_REACTION__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9374]Ser茨 mejor que paremos esto antes de[n]que nos fr胤e a un crujiente![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9374]Ser茨 mejor que paremos esto antes de que nos[n]fr胤e a un crujiente![n][f 1 6 65535][e]
 
 [msg KUMA_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9375]斡Weeeeee![n][f 1 6 65535][e]
@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9326]斡Creo que nos llevar茨n al siguiente piso![n][f 1 6 65535][e]
 
 [msg KUMA_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9327]斡Hehe! 斡Una caja de tesoros! Apuesto a[n]que hay algo bueno dentro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9327]斡Hehe! 斡Una caja de tesoros! Apuesto a que[n]hay algo bueno dentro.[n][f 1 6 65535][e]
 
 [msg KUMA_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9328]斡Una caja de tesoros! 夷Es de la[n]taquilla? Estoy bromeando... 斡Hehe![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9328]斡Una caja de tesoros! 夷Es de la taquilla?[n]Estoy bromeando... 斡Hehe![n][f 1 6 65535][e]
 
 [msg KUMA_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9329]斡Es una caja de tesoros! Ooh! Ooh! 夷Qu姻[n]hay dentro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9329]斡Es una caja de tesoros! Ooh! Ooh! 夷Qu姻 hay[n]dentro?[n][f 1 6 65535][e]
 
 [msg KUMA_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9330]*Sniff sniff* Algo es pescador aqu胤...[n][f 1 6 65535][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9333]斡Encontr姻 un interruptor![n][f 1 6 65535][e]
 
 [msg KUMA_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9334]斡La presi吋n est茨 encendida para[n]presionar el interruptor! S吋lo bromeaba... 斡Hehe![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9334]斡La presi吋n est茨 encendida para presionar el[n]interruptor! S吋lo bromeaba... 斡Hehe![n][f 1 6 65535][e]
 
 [msg KUMA_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9335]斡Un cambio! 夷Puedo presionarlo?[n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9312]Estoy cagado...[n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9313]斡Nooo! Creo que estoy viendo las[n]puertas perladas...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9313]斡Nooo! Creo que estoy viendo las puertas[n]perladas...[n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9314]Siento que esto es para este oso...[n][f 1 6 65535][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9315]斡Estoy haciendo da隠o! 斡Alguien, ayuda![n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9316]A este ritmo, no pasar茨 mucho tiempo[n]antes de que yo sea tonta...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9316]A este ritmo, no pasar茨 mucho tiempo antes[n]de que yo sea tonta...[n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9317]Esto es muy dif胤cil... 斡Heeeeeelp![n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9318]Mi resistencia es baja...[n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9319]No puedo seguir... Los chicos bonitos[n]como yo no viven para siempre...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9319]No puedo seguir... Los chicos bonitos como[n]yo no viven para siempre...[n][f 1 6 65535][e]
 
 [msg KUMA_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9320]Estoy tan cansado...[n][f 1 6 65535][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9353]Nuestro mapa viene muy bien.[n][f 1 6 65535][e]
 
 [msg KUMA_TOUHA_50_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9354]Veamos... 斡Parece que estamos a mitad de camino![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9354]Veamos... 斡Parece que estamos a mitad de[n]camino![n][f 1 6 65535][e]
 
 [msg KUMA_TOUHA_50_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9355]Dir胤a que estamos empezando a conseguir[n]nuestros osos.[n][f 1 6 65535][e]
@@ -254,7 +254,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9343]斡Se ve mejor![n][f 1 6 65535][e]
 
 [msg KUMA_MAPPING_ICON_KAIDAN]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9344]斡No nos perderemos si sabemos d吋nde[n]est茨n las escaleras![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9344]斡No nos perderemos si sabemos d吋nde est茨n[n]las escaleras![n][f 1 6 65535][e]
 
 [msg KUMA_MAPPING_ICON_KAIDAN_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9345]斡Estoy impresionado![n][f 1 6 65535][e]

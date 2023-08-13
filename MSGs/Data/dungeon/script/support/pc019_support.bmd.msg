@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25302]斡Nos han visto![n][f 1 6 65535][e]
 
 [msg MAKOTO_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25303]Sabes que est茨 justo por delante de[n]nosotros, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25303]Sabes que est茨 justo por delante de nosotros,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg MAKOTO_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25304]Se est茨 acercando, mant姻n la luz en tus pies.[n][f 1 6 65535][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25373]Tiene que haber algo que podamos hacer...[n][f 1 6 65535][e]
 
 [msg MAKOTO_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25374]Primero tenemos que interrumpir el[n]circuito el姻ctrico de alguna manera.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25374]Primero tenemos que interrumpir el circuito[n]el姻ctrico de alguna manera.[n][f 1 6 65535][e]
 
 [msg MAKOTO_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25375]夷Qu姻?[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25327]斡Oh! Una caja de tesoros.[n][f 1 6 65535][e]
 
 [msg MAKOTO_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25328]Espiar姻 con mi peque隠o ojo una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25328]Espiar姻 con mi peque隠o ojo una caja de[n]tesoros.[n][f 1 6 65535][e]
 
 [msg MAKOTO_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25329]夷No es ese tesoro?[n][f 1 6 65535][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25334]Deber胤as ser quien decida, 夷lo usamos?[n][f 1 6 65535][e]
 
 [msg MAKOTO_SWITCH_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25335]Si vas a usar ese interruptor, qu姻date[n]en los dedos de los pies, 夷de acuerdo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25335]Si vas a usar ese interruptor, qu姻date en[n]los dedos de los pies, 夷de acuerdo?[n][f 1 6 65535][e]
 
 [msg MAKOTO_SHORTCUT_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25336]夷Crees que podemos pasar por aqu胤?[n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25310]夷Por qu姻 es tan persistente![n][f 1 6 65535][e]
 
 [msg MAKOTO_FOE_WARNING_NEAR__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25311]Hay un FOE. Ahora no es el momento de[n]ponerse c吋modo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25311]Hay un FOE. Ahora no es el momento de ponerse[n]c吋modo.[n][f 1 6 65535][e]
 
 [msg MAKOTO_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -140,7 +140,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25313]夷Podr胤amos tomarnos un descanso?[n][f 1 6 65535][e]
 
 [msg MAKOTO_1PERSON_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25314]Una verguenza... pero creo que he[n]alcanzado mi l胤mite...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25314]Una verguenza... pero creo que he alcanzado[n]mi l胤mite...[n][f 1 6 65535][e]
 
 [msg MAKOTO_PARTY_TP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25360]Estamos listos para irnos.[n][f 1 6 65535][e]
 
 [msg MAKOTO_DUNGEON_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25361]Esto ser胤a mucho m茨s f茨cil si pudiera[n]montar mi bicicleta por aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25361]Esto ser胤a mucho m茨s f茨cil si pudiera montar[n]mi bicicleta por aqu胤.[n][f 1 6 65535][e]
 
 [msg MAKOTO_DUNGEON_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25362]Lo superaremos si trabajamos juntos.[n][f 1 6 65535][e]

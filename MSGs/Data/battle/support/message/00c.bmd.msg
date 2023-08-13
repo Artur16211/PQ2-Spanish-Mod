@@ -8,13 +8,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12301]ANTERIGENADORES DE ESTRUCCI遺N[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12302]Un FOE. Esto podr胤a ponerse feo...[n]夷Cu茨l es el plan?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12302]Un FOE. Esto podr胤a ponerse feo... 夷Cu茨l es[n]el plan?[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12303]Alternativamente... [n][f 1 6 65535][e]
 
 [msg BTL_MES_012_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12304]Somos bastante fuertes. Podemos tomar este FOE.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12304]Somos bastante fuertes. Podemos tomar este[n]FOE.[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_006]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12305]Mira eso, una rara sombra... No podemos[n]dejarlo escapar.[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12321]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12322]Nunca hab胤a visto esto antes...[n]Busquemos su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12322]Nunca hab胤a visto esto antes... Busquemos su[n]debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12323]夷Rescribir? ANTERITORIO[n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12325]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12326]Al menos estas Sombras deben hacer un[n]buen calentamiento.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12326]Al menos estas Sombras deben hacer un buen[n]calentamiento.[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12327]♪♪[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12330]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12331]No es bueno... Las probabilidades est茨n[n]en contra de nosotros. Ten cuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12331]No es bueno... Las probabilidades est茨n en[n]contra de nosotros. Ten cuidado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12332]- 夷Qu姻[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12421]斡Evangelio[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_045]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12422]Alternativamente...[n]俺элититителититентелитентелини ..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12422]Alternativamente... 俺элититителититентелитентелини[n]..[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_046]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12423]Alternativamente[n][f 1 6 65535][e]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12424]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_048]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 12425]のъентелитититеничный[n]乗нентелитителититени のентелителитителите の[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 12425]のъентелитититеничный 乗нентелитителититени[n]のентелителитителите の[n][f 1 6 65535][e]
 
 [msg BTL_MES_012_049]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 12426]Alternativamente[n][f 1 6 65535][e]

@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11303]斡Crap, un FOE![n][f 1 6 65535][e]
 
 [msg JUNPEI_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11304]Por favor, no nos note... Por favor, no[n]nos note...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11304]Por favor, no nos note... Por favor, no nos[n]note...[n][f 1 6 65535][e]
 
 [msg JUNPEI_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11305]Hag茨moslo muy tranquilo.[n][f 1 6 65535][e]
@@ -38,10 +38,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11372]No. No pasar por eso...[n][f 1 6 65535][e]
 
 [msg JUNPEI_DENKISAKU_REACTIO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11373]Me pregunto si hay un interruptor para[n]apagar el poder...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11373]Me pregunto si hay un interruptor para apagar[n]el poder...[n][f 1 6 65535][e]
 
 [msg JUNPEI_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11374]夷Es una nueva terapia de choque? 斡Despu姻s de ti![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11374]夷Es una nueva terapia de choque? 斡Despu姻s de[n]ti![n][f 1 6 65535][e]
 
 [msg JUNPEI_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11375]斡Estoy volando![n][f 1 6 65535][e]
@@ -56,10 +56,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11324]夷Oh? 夷Son las escaleras que veo?[n][f 1 6 65535][e]
 
 [msg JUNPEI_STAIR_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11325]Parece que podemos pasar a la siguiente[n]zona. 夷Est茨s listo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11325]Parece que podemos pasar a la siguiente zona.[n]夷Est茨s listo?[n][f 1 6 65535][e]
 
 [msg JUNPEI_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11326]Y si pones tu atenci吋n en el frente,[n]ver茨s una escalera.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11326]Y si pones tu atenci吋n en el frente, ver茨s[n]una escalera.[n][f 1 6 65535][e]
 
 [msg JUNPEI_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11327]斡Encontr吋 un cofre de tesoros![n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11309]Oh, Dios, ese FOE todav胤a nos persigue![n][f 1 6 65535][e]
 
 [msg JUNPEI_FOE_WARNING_NEAR__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11310]斡Maldita sea esa cosa es obstinada! Las[n]chicas no lo aprecian, 夷sabes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11310]斡Maldita sea esa cosa es obstinada! Las chicas[n]no lo aprecian, 夷sabes![n][f 1 6 65535][e]
 
 [msg JUNPEI_FOE_WARNING_NEAR__3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11311]Parece que quiere ser amigos... 斡No, gracias![n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11312]No puedo seguir...[n][f 1 6 65535][e]
 
 [msg JUNPEI_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11313]Sin salud, sin energ胤a. 斡Junpei est茨[n]abajo para la cuenta![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11313]Sin salud, sin energ胤a. 斡Junpei est茨 abajo[n]para la cuenta![n][f 1 6 65535][e]
 
 [msg JUNPEI_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11314]Lo siento, pero estoy vencido. Ay雨dame.[n][f 1 6 65535][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11319]Mierda, casi no tengo energ胤a...[n][f 1 6 65535][e]
 
 [msg JUNPEI_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11320]Lo siento, estoy fuera de gas...[n]Hombre, estoy vencido...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11320]Lo siento, estoy fuera de gas... Hombre,[n]estoy vencido...[n][f 1 6 65535][e]
 
 [msg JUNPEI_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11365]斡Puedo manejar esto solo![n][f 1 6 65535][e]
 
 [msg JUNPEI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11352]Todav胤a tiene un largo camino por[n]recorrer. Cuida tu salud, 夷s胤?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11352]Todav胤a tiene un largo camino por recorrer.[n]Cuida tu salud, 夷s胤?[n][f 1 6 65535][e]
 
 [msg JUNPEI_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11353]Dios, todav胤a estamos tan lejos..?[n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11356]斡Hemos llenado una tonelada![n][f 1 6 65535][e]
 
 [msg JUNPEI_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11357]斡Esperamos que el resto de esos[n]espacios est姻n seguros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11357]斡Esperamos que el resto de esos espacios[n]est姻n seguros![n][f 1 6 65535][e]
 
 [msg JUNPEI_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11358]斡Tada! 斡El mapa est茨 terminado! 斡Lindo![n][f 1 6 65535][e]
@@ -266,13 +266,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11347]Vaya, eres muy detallado, 夷eh?[n][f 1 6 65535][e]
 
 [msg JUNPEI_MAPPING_ICON_DEL_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11348]Verte poner los toques finales en ese[n]mapa... Es hermoso.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11348]Verte poner los toques finales en ese mapa...[n]Es hermoso.[n][f 1 6 65535][e]
 
 [msg JUNPEI_MAPPING_ICON_DEL__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11349]夷C吋mo pudiste tirar eso? S吋lo bromeaba.[n][f 1 6 65535][e]
 
 [msg JUNPEI_MAPPING_MEMO_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11350]Aqu胤, d姻jame firmar mi nombre... 夷Eh?[n]夷Qu姻 significa que no lo necesitas?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11350]Aqu胤, d姻jame firmar mi nombre... 夷Eh? 夷Qu姻[n]significa que no lo necesitas?[n][f 1 6 65535][e]
 
 [msg JUNPEI_MAPPING_MEMO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11351]Huh. Es conveniente.[n][f 1 6 65535][e]

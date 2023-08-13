@@ -8,16 +8,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2301]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2302]斡Un FOE...! No tenemos ninguna oportunidad aqu胤...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2302]斡Un FOE...! No tenemos ninguna oportunidad[n]aqu胤...[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2303]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2304]Podr胤amos ser lo suficientemente buenos[n]para acabar con este FOE.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2304]Podr胤amos ser lo suficientemente buenos para[n]acabar con este FOE.[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2305]Una rara sombra... Intenta no dejarlo escapar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2305]Una rara sombra... Intenta no dejarlo[n]escapar.[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2306]Alternativamente[n][f 1 6 65535][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2310]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2311]?епринанитинанинанитинанинанинанинанинанинанитинанинанинанинананинаниентинанинанинананинананининанани [n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2311]?епринанитинанинанитинанинанинанинанинанинанитинанинанинанинананинаниентинанинанинананинананининанани[n][n][n][f 1 6 65535][e]
 
 [msg BTL_MES_002_010]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2312]Alternativamente[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2321]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2322]Un nuevo tipo enemigo. Vamos a[n]encontrar sus debilidades.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2322]Un nuevo tipo enemigo. Vamos a encontrar sus[n]debilidades.[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2323]Leer m茨s[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2342]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 2343]夷Quieres que me lleve esto? Tengo su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 2343]夷Quieres que me lleve esto? Tengo su[n]debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_002_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 2344]Un pase de Baton podr胤a ayudar.[n][f 1 6 65535][e]

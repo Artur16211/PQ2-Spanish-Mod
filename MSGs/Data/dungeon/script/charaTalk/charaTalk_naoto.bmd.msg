@@ -16,13 +16,13 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8001]Aqu胤 hay un Treasure Spot. 夷Deber胤amos[n]intentar reunir algunos elementos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8001]Aqu胤 hay un Treasure Spot. 夷Deber胤amos intentar[n]reunir algunos elementos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8069]Entendido. Aseg雨rese de estar al tanto[n]de nuestro entorno.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8069]Entendido. Aseg雨rese de estar al tanto de[n]nuestro entorno.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8071]Sonido razonamiento. Vamos a reunir lo[n]que podamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8071]Sonido razonamiento. Vamos a reunir lo que[n]podamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8068]Cierto.[n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8380]Eso ser茨 雨til.[n][f 1 6 65535][e]
 
 [msg MSG_008 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8109]Reunimos todo lo que pudimos, y ahora[n]solo necesitamos estar alertas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8109]Reunimos todo lo que pudimos, y ahora solo[n]necesitamos estar alertas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8381]斡Es un art胤culo raro![n][f 1 6 65535][e]
@@ -91,10 +91,10 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8071]De acuerdo, paremos aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8093]Por todas las apariencias, hemos terminado aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8093]Por todas las apariencias, hemos terminado[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8001]Podr胤amos volver al Cine ahora.[n]夷Crees que es lo mejor?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8001]Podr胤amos volver al Cine ahora. 夷Crees que[n]es lo mejor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8384]斡Cuidado![n][f 1 6 65535][e]

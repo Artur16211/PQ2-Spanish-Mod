@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27300]斡Podemos aplanar estas sombras, no hay problema![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27300]斡Podemos aplanar estas sombras, no hay[n]problema![n][f 1 6 65535][e]
 
 [msg BTL_MES_027_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27301]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27304]Tal vez, tal vez... 斡Podemos derrotarlo![n][f 1 6 65535][e]
 
 [msg BTL_MES_027_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27305]夷Una rara sombra? 斡No podemos dejarlo escapar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27305]夷Una rara sombra? 斡No podemos dejarlo[n]escapar![n][f 1 6 65535][e]
 
 [msg BTL_MES_027_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27306]斡No[n][f 1 6 65535][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27311]斡Testigo[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_010]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27312]?ренннанниеннныйный неннный неннный[n]неннный ненный неннный неннненнный[n]нентеннненный[n]нененнненннннннннннннненнннннннннннненнный неннннннннный ннннннннннный ннннненнннннннннннннненнннененнннненнннннный неный нннннннненнннннннный неный неннннннннннененный н[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27312]?ренннанниеннныйный неннный неннный неннный[n]ненный неннный неннненнный нентеннненный[n]нененнненннннннннннннненнннннннннннненнный[n]неннннннннный ннннннннннный[n]ннннненнннннннннннннненнннененнннненнннннный[n]неный нннннннненнннннннный неный[n]неннннннннннененный н[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_011]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27320]斡Un fuerte... un adversario digno! 夷Qu姻[n]debemos hacer?[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27321]Leer m茨s... 夷Exactamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27322]Una nueva Sombra, madura para el[n]pummeling una vez que encontremos su debilidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27322]Una nueva Sombra, madura para el pummeling[n]una vez que encontremos su debilidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_027_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27323]斡Testigo[n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27325]Leer m茨s[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27326]夷Es posible que nos hayamos vuelto[n]demasiado fuertes?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27326]夷Es posible que nos hayamos vuelto demasiado[n]fuertes?[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27327]斡No[n][f 1 6 65535][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27403]斡Reconoce! 斡Desaparecer[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_027]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27404]?леннилиныхинанныйнинанинанинаннинанинаннни... 斡Arriba[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27404]?леннилиныхинанныйнинанинанинаннинанинаннни...[n]斡Arriba[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_028]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27405]Alternativamente... 斡Arriba[n][f 1 6 65535][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27407]斡M茨s informaci吋n! 斡Desaparecer[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_031]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27408]?реннныхныхныхныхнинанинаннинаннинанинаннининанни неннный ... 斡Arriba[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27408]?реннныхныхныхныхнинанинаннинаннинанинаннининанни[n]неннный ... 斡Arriba[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_032]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27409]Alternativamente... 斡Desaparecer[n][f 1 6 65535][e]
@@ -113,10 +113,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27414]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_038]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27415]?еликанилининанихинанинаннинанинанниянаннния ... 斡Arriba[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27415]?еликанилининанихинанинаннинанинанниянаннния[n]... 斡Arriba[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_039]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27416]ANTERIORADAMENTE RECIBIDAMENTE...! 斡Desaparecer[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27416]ANTERIORADAMENTE RECIBIDAMENTE...![n]斡Desaparecer[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_040]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27417]Alternativamente... 斡Arriba[n][f 1 6 65535][e]
@@ -158,13 +158,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27340]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27341]斡Seguimos poniendo residuos a las[n]sombras por todas partes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27341]斡Seguimos poniendo residuos a las sombras[n]por todas partes![n][f 1 6 65535][e]
 
 [msg BTL_MES_027_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27342]斡Mapa m胤a[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27343]Digamos, creo que podemos golpear su[n]debilidad. 夷Cu茨l es tu decisi吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27343]Digamos, creo que podemos golpear su debilidad.[n]夷Cu茨l es tu decisi吋n?[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27344]斡No olvides que puedes pasar el bast吋n![n][f 1 6 65535][e]
@@ -185,7 +185,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27504]Acaso no se sabe nada[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_062]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27505]?леннненнныйныйный[n]нелиливанилителиванители нениенниени ..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27505]?леннненнныйныйный нелиливанилителиванители[n]нениенниени ..[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_063]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27506]Alternativamente[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 27528]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_027_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 27430]Puedo sentir el poder en mi interior... 斡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 27430]Puedo sentir el poder en mi interior...[n]斡Cuidado![n][f 1 6 65535][e]
 

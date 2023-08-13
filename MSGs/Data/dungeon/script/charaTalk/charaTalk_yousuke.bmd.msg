@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3001]Hey, es un Treasure Spot! 夷Quieres[n]echar un vistazo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3001]Hey, es un Treasure Spot! 夷Quieres echar un[n]vistazo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3068]斡Roger! 斡Mantengamos un ojo fuera![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3380]斡Lo tengo![n][f 1 6 65535][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3096]斡Mierda, eso estuvo cerca! 夷Qu姻 tal si[n]lo llamamos aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3096]斡Mierda, eso estuvo cerca! 夷Qu姻 tal si lo[n]llamamos aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3381]斡Muy bien![n][f 1 6 65535][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0]夷Por qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3020]Oye... Algo es raro. 夷Sientes eso? 夷Qu姻 hacemos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3020]Oye... Algo es raro. 夷Sientes eso? 夷Qu姻[n]hacemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3092]S胤... Mientras tengamos cuidado.[n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3096]夷Qu姻 diablos fue eso? Me alegra haber[n]sobrevivido...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3018]夷Eh? Hay Sombras aqu胤 afuera... 夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3018]夷Eh? Hay Sombras aqu胤 afuera... 夷Cu茨l es el[n]plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3105]斡Genial! Let's knock 'em dead![n][f 1 3 65535][f 1 1][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3096]Whew... 夷Eso es todo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3001]Esto deber胤a llevar al Cine. 夷Quieres[n]tomarte un descanso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3001]Esto deber胤a llevar al Cine. 夷Quieres tomarte[n]un descanso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3384]斡Cuidado![n][f 1 6 65535][e]

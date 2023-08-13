@@ -35,13 +35,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3371]Silencio, chicos... No queremos que nos vean.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_DENKISAKU_REACTI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3372]S胤, probablemente no suceda. Detengamos[n]la electricidad primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3372]S胤, probablemente no suceda. Detengamos la[n]electricidad primero.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_DENKISAKU_REACTI_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3373]Si no apagamos eso, somos tostadas.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_DENKISAKU_REACTI_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3374]夷D吋nde est茨 el interruptor para la[n]puerta el姻ctrica?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3374]夷D吋nde est茨 el interruptor para la puerta[n]el姻ctrica?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_KYOUHU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3375]斡De ninguna manera![n][f 1 6 65535][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3328]Es una caja de tesoros, 夷verdad?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3329]斡Una caja de tesoros! Estamos abriendo[n]eso, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3329]斡Una caja de tesoros! Estamos abriendo eso,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3330]Parece que hay algo ah胤...[n][f 1 6 65535][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3309]Mierda, la FOE todav胤a est茨 en nosotros.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3310]Un FOE. Mejor mantenga nuestra distancia, 夷eh?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3310]Un FOE. Mejor mantenga nuestra distancia,[n]夷eh?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3311]Hombre, sigue tras nosotros.[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3318]Mierda, me voy a quedar sin... resistencia...[n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3319]斡No puedo seguir! 斡Estoy fuera de jugo, hombre![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3319]斡No puedo seguir! 斡Estoy fuera de jugo,[n]hombre![n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3320]Dang it... No puedo seguir...[n][f 1 6 65535][e]
@@ -266,10 +266,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3347]Es raro que tu personalidad pase en esto...[n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_ICON_DEL]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3348]S胤, bueno para mantener nuestras notas limpias.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3348]S胤, bueno para mantener nuestras notas[n]limpias.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_ICON_DEL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3349]Ah胤 tienes. 斡Deja las cosas que no necesitamos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3349]Ah胤 tienes. 斡Deja las cosas que no[n]necesitamos![n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3350]Tengo que seguir las cosas importantes.[n][f 1 6 65535][e]

@@ -161,10 +161,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27317]No estoy en la mejor forma...[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27318]Lo intento pero... Apenas puedo[n]permanecer despierto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27318]Lo intento pero... Apenas puedo permanecer[n]despierto.[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27319]Poner un pie delante del otro es[n]dif胤cil para m胤 en mi estado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27319]Poner un pie delante del otro es dif胤cil para[n]m胤 en mi estado...[n][f 1 6 65535][e]
 
 [msg HARU_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27320]Podr胤a haberme presionado demasiado...[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27365]斡Listo, listo, vamos![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27352]斡Estoy tan emocionada de ver la versi吋n final![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27352]斡Estoy tan emocionada de ver la versi吋n[n]final![n][f 1 6 65535][e]
 
 [msg HARU_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27353]斡Est茨 empezando a parecer un mapa![n][f 1 6 65535][e]
@@ -260,7 +260,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27345]As胤 es como lo recuerdo.[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_CHANGE_COLO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27346]*giggle* A隠adiendo un toque personal, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27346]*giggle* A隠adiendo un toque personal,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg HARU_MAPPING_CHANGE_COLO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27347]夷Cambiando el color?[n][f 1 6 65535][e]

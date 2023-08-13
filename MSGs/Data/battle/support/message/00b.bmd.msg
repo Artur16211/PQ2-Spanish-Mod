@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_011_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 11300]Muy bien... 斡Hora de mostrarte lo que[n]estamos hechos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 11300]Muy bien... 斡Hora de mostrarte lo que estamos[n]hechos![n][f 1 6 65535][e]
 
 [msg BTL_MES_011_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11301]斡No[n][f 1 6 65535][e]
@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11303]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_011_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 11304]斡S胤! 斡Este tipo no tiene nada en nosotros ahora![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 11304]斡S胤! 斡Este tipo no tiene nada en nosotros[n]ahora![n][f 1 6 65535][e]
 
 [msg BTL_MES_011_006]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11305]夷Es raro? 斡Vamos a sacarlo![n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11321]Alternativamente... 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_011_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 11322]Oye, nunca lo hab胤a visto antes...[n]夷Para qu姻 diablos es d姻bil?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 11322]Oye, nunca lo hab胤a visto antes... 夷Para qu姻[n]diablos es d姻bil?[n][f 1 6 65535][e]
 
 [msg BTL_MES_011_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11323]斡Fuego[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11330]Alternativamente..[n][f 1 6 65535][e]
 
 [msg BTL_MES_011_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 11331]Tienen la mano superior... Tenemos que hacer algo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 11331]Tienen la mano superior... Tenemos que hacer[n]algo.[n][f 1 6 65535][e]
 
 [msg BTL_MES_011_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 11332]√?o нелиный нелиный , Нанилинаниваный[n][f 1 6 65535][e]

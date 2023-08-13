@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25301]斡REVISTA[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25302]Un FOE como este est茨 fuera de nuestra[n]liga. Deber胤amos retirarnos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25302]Un FOE como este est茨 fuera de nuestra liga.[n]Deber胤amos retirarnos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25303]斡Regresar[n][f 1 6 65535][e]
@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25312]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25320]Quiz茨 nos encontremos superados aqu胤...[n]夷Cu茨l es el plan?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25320]Quiz茨 nos encontremos superados aqu胤... 夷Cu茨l[n]es el plan?[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25321]- 夷Qu姻? Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25322]Hay sangre nueva en el departamento de[n]Sombras. Busquemos su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25322]Hay sangre nueva en el departamento de Sombras.[n]Busquemos su debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25323]Alternativamente[n][f 1 6 65535][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25403]斡Comprando[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_027]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25404]Глентелиницилилинногинаникинентентентенинаннининенниениениенаниентентеннннннний[n]нениениениентентениентентентеныйнтенинининининияныйтентениннинининнннинининининнннннннинининннннннннннияннннннныйныйныйныйныйныйннннныйныйныйныйныйныйныйныйныйныйниныйныйннннни[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25404]Глентелиницилилинногинаникинентентентенинаннининенниениениенаниентентеннннннний[n][n][n][n][n][n]нениениениентентениентентентеныйнтенинининининияныйтентениннинининнннинининининнннннннинининннннннннннияннннннныйныйныйныйныйныйннннныйныйныйныйныйныйныйныйныйныйниныйныйннннни[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_028]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25405]- 夷Qu姻[n][f 1 6 65535][e]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25409]斡Comprar[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_033]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25410]Чностилиницинининантиненнинантеннинанинанинаннинантеннинанинаниенинаниенннинанининанинанинананининананананинининининининия,[n]нанананананананананинининининининининининининининининининнийниннннниянннннийнананннннннннннининананиенананананининннннниниянининанани[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25410]Чностилиницинининантиненнинантеннинанинанинаннинантеннинанинаниенинаниенннинанининанинанинананининананананинининининининия,[n][n][n][n][n][n]нанананананананананинининининининининининининининининининнийниннннниянннннийнананннннннннннининананиенананананининннннниниянининанани[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_034]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25411]斡Comprando[n][f 1 6 65535][e]
@@ -158,19 +158,19 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25340]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25341]斡Es nuestra oportunidad! 斡No lo despilfarremos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25341]斡Es nuestra oportunidad! 斡No lo[n]despilfarremos![n][f 1 6 65535][e]
 
 [msg BTL_MES_025_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25342]夷Te parece bien[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25343]夷Deber胤a unirme a la fraternidad?[n]Parece que puedo golpear su debilidad...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25343]夷Deber胤a unirme a la fraternidad? Parece que[n]puedo golpear su debilidad...[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25344]Por cierto, siempre hay Relevo...[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25345]Parece que depende de m胤. Suerte para[n]todos, 斡s姻 exactamente qu姻 hacer![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25345]Parece que depende de m胤. Suerte para todos,[n]斡s姻 exactamente qu姻 hacer![n][f 1 6 65535][e]
 
 [msg BTL_MES_025_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25501]斡M茨s tarde[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 25528]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_025_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 25430]斡He estado esperando esto! 斡Hora de[n]mostrar lo que puedo hacer![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 25430]斡He estado esperando esto! 斡Hora de mostrar[n]lo que puedo hacer![n][f 1 6 65535][e]
 

@@ -16,19 +16,19 @@
 [f 0 5 65278][f 2 1]No vuelvas.[e]
 
 [msg MSG_000 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1001]Parece que podemos[n]reunir objetos aqu胤. 夷Qu姻 piensas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1001]Parece que podemos reunir objetos aqu胤. 夷Qu姻[n]piensas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1069]Got it. Echaremos un[n]vistazo, pero qu姻date en guardia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1069]Got it. Echaremos un vistazo, pero qu姻date[n]en guardia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1068]Muy bien. Centr姻monos en buscar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1064]Got it. Lo dejaremos[n]solo por ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1064]Got it. Lo dejaremos solo por ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1071]Parece que eso es todo lo que podemos conseguir.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1071]Parece que eso es todo lo que podemos[n]conseguir.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1378]No est茨 mal.[n][f 1 6 65535][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1380]Lo tomaremos.[n][f 1 6 65535][e]
 
 [msg MSG_008 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1106]Probablemente no[n]deber胤amos empujar nuestra suerte.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1106]Probablemente no deber胤amos empujar nuestra[n]suerte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1381]Eso es bueno.[n][f 1 6 65535][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1106]Fue un oponente dif胤cil...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1086]Puedo sentir sombras[n]en la zona. 夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1086]Puedo sentir sombras en la zona. 夷Cu茨l es[n]el plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1068]Muy bien. Vamos a comprobarlo.[n][f 1 3 65535][f 1 1][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1071]夷Son todos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1014]Parece que esto[n]vuelve al Cine. 夷Cu茨l es el plan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 1014]Parece que esto vuelve al Cine. 夷Cu茨l es el[n]plan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1384]斡Cuidado![n][f 1 6 65535][e]

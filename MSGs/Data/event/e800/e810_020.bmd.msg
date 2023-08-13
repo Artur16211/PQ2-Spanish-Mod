@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Muy bien! 斡Entonces, vamos por ah胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1003]...Espera.[n]Antes de salir, 夷no olvidamos algo importante?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1003]...Espera. Antes de salir, 夷no olvidamos algo[n]importante?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Algo importante?[f 2 7 1 20 8 32][e]
@@ -19,20 +19,20 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5063][f 6 1 2 0 0 6]斡Oh! 斡Lo s姻! 斡Cabo para el pescado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 7019][f 6 1 2 0 0 4]夷Moridas de pan? 夷Por qu姻, por si tenemos hambre?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 6][f 3 1 1 0 0 7019][f 6 1 2 0 0 4]夷Moridas de pan? 夷Por qu姻, por si tenemos[n]hambre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh! 斡Lo s姻! 斡Cabo para el pescado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]Correcto. Si vamos a[n]pescar, necesitaremos algo de cebo. Las[n]migajas de pan hubieran sido perfectas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 0]Supongo que tendremos que encontrar algo all胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]Correcto. Si vamos a pescar, necesitaremos[n]algo de cebo. Las migajas de pan hubieran[n]sido perfectas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 0]Supongo que tendremos que encontrar algo[n]all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 3 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Cabo para el pescado? 夷Quieres decir,[n]gusanos...? 夷D吋nde vamos a conseguirlos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0]He o胤do que los gusanos tienden a[n]esconderse bajo montones de hojas h雨medas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0]He o胤do que los gusanos tienden a esconderse[n]bajo montones de hojas h雨medas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4103][f 6 1 2 0 0 6]斡Eeek![n][f 1 3 65535][f 1 1][e]

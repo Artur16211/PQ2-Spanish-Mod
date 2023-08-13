@@ -14,10 +14,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15303]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15304]La probabilidad de victoria contra este[n]FOE es alta.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15304]La probabilidad de victoria contra este FOE[n]es alta.[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15305]斡Una rara sombra! 斡Ten cuidado de no[n]dejarlo escapar![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15305]斡Una rara sombra! 斡Ten cuidado de no dejarlo[n]escapar![n][f 1 6 65535][e]
 
 [msg BTL_MES_015_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15306]Нелитенинининнанннаннныенннныенннныеннныенннныенннныеннныенный[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15321]夷Acaso no[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15322]斡Un nuevo enemigo! Ser胤a mejor para[n]nosotros recoger informaci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15322]斡Un nuevo enemigo! Ser胤a mejor para nosotros[n]recoger informaci吋n![n][f 1 6 65535][e]
 
 [msg BTL_MES_015_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15323]Alternativamente[n][f 1 6 65535][e]
@@ -47,10 +47,10 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15324]Esto no supone ninguna amenaza para nosotros.[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_016]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15325]?нелиницинининина неннинини[n]нанининанининаннини[n]наннининанинениениеннниениениенияния[n]нениниениенинниениеннинининиениениениения ниениенининиениениннннининннниниенннининннннниенннниенниениениениенниениениениенннннннннинниениениенниннниенннннниениениениеннни[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15325]?нелиницинининина неннинини нанининанининаннини[n]наннининанинениениеннниениениенияния[n]нениниениенинниениеннинининиениениениения[n][n][n][n]ниениенининиениениннннининннниниенннининннннниенннниенниениениениенниениениениенннннннннинниениениенниннниенннннниениениениеннни[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15326]No mostraremos piedad. Vamos a resolver[n]esto r茨pidamente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15326]No mostraremos piedad. Vamos a resolver esto[n]r茨pidamente.[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15327]- 夷Qu姻[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15330]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15331]斡La situaci吋n es terrible! 斡Estamos a su mando![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15331]斡La situaci吋n es terrible! 斡Estamos a su[n]mando![n][f 1 6 65535][e]
 
 [msg BTL_MES_015_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15332]夷Qu姻[n][f 1 6 65535][e]
@@ -164,13 +164,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15342]<???????????[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15343]Pintando su debilidad... Creo que soy[n]adecuado para esta tarea.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15343]Pintando su debilidad... Creo que soy adecuado[n]para esta tarea.[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15344]Propongo un pase de Baton.[n][f 1 6 65535][e]
 
 [msg BTL_MES_015_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 15345]斡Esperando 吋rdenes! 斡Soy el m茨s[n]adecuado para esta misi吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 15345]斡Esperando 吋rdenes! 斡Soy el m茨s adecuado para[n]esta misi吋n![n][f 1 6 65535][e]
 
 [msg BTL_MES_015_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 15501][e]

@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7373]夷C吋mo paramos esta cosa?[n][f 1 6 65535][e]
 
 [msg KANJI_DENKISAKU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7374]Si la electricidad es el problema[n]puedo... No, no importa.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7374]Si la electricidad es el problema puedo...[n]No, no importa.[n][f 1 6 65535][e]
 
 [msg KANJI_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7375]夷Ack?[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]Lo siento... 夷Te importa si tomamos un descanso?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]Lo siento... 夷Te importa si tomamos un[n]descanso?[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7313]Tch, no puedo estar te隠indo ahora...[n][f 1 6 65535][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7319]Huyendo de humos aqu胤...[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7320]斡Maldita sea! Este no es el momento de[n]ser usado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7320]斡Maldita sea! Este no es el momento de ser[n]usado...[n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7365]Terminemos con esto.[n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7352]Parece que todav胤a tenemos un largo[n]camino por recorrer.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7352]Parece que todav胤a tenemos un largo camino[n]por recorrer.[n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7353]El mapa est茨 bastante vac胤o. 斡Vamos a seguir![n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7344]斡S胤, buena decisi吋n![n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_ICON_KAIDA_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7345]Saber d吋nde est茨n las escaleras nos[n]ayudar茨 a evitar perdernos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7345]Saber d吋nde est茨n las escaleras nos ayudar茨[n]a evitar perdernos.[n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_CHANGE_COL]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7346]Es un poco elegante, 夷no?[n][f 1 6 65535][e]

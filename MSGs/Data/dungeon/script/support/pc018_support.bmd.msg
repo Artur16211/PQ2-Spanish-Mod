@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24304]FOEs... Tales criaturas misteriosas...[n][f 1 6 65535][e]
 
 [msg YUSUKE_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24305]Es un poco demasiado cerca para la comodidad...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24305]Es un poco demasiado cerca para la[n]comodidad...[n][f 1 6 65535][e]
 
 [msg YUSUKE_FOE_FOLLOW_END_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24306]Creo que estamos bien ahora.[n][f 1 6 65535][e]
@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24370]Estaremos bien si caminamos con cuidado.[n][f 1 6 65535][e]
 
 [msg YUSUKE_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24371]Escojamos nuestro pr吋ximo movimiento sabiamente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24371]Escojamos nuestro pr吋ximo movimiento[n]sabiamente.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DENKISAKU_REACTIO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24372]Esta es una trampa bastante peligrosa...[n][f 1 6 65535][e]
 
 [msg YUSUKE_DENKISAKU_REACTIO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24373]Necesitamos encontrar alguna manera de[n]resolver esto...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24373]Necesitamos encontrar alguna manera de resolver[n]esto...[n][f 1 6 65535][e]
 
 [msg YUSUKE_DENKISAKU_REACTIO_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24374]Un obst茨culo problem茨tico...[n][f 1 6 65535][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24326]Parece que hemos encontrado nuestro camino.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]It appears there's treasure ahead.[n]Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]Parece que hay un tesoro por delante. Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24328]Espero que sea comida...[n][f 1 6 65535][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg YUSUKE_FOE_WARNING_NEAR_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24309]Pel胤cula Obscurit c茨mara ※tendeu... 斡Se[n]dirige a nuestro camino![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24309]Pel胤cula Obscurit c茨mara ※tendeu... 斡Se dirige[n]a nuestro camino![n][f 1 6 65535][e]
 
 [msg YUSUKE_FOE_WARNING_NEAR__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24310]Estoy viendo un FOE cerca...[n][f 1 6 65535][e]
@@ -158,10 +158,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24316]No estoy seguro de que dure mucho m茨s...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24317]Voy a necesitar m茨s que agua si voy a seguir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24317]Voy a necesitar m茨s que agua si voy a[n]seguir...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24318]Mi est吋mago... Es demasiado vac胤o para[n]que contin雨e...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24318]Mi est吋mago... Es demasiado vac胤o para que[n]contin雨e...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24319]Parece que estaba algo sobreindulgente...[n][f 1 6 65535][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24321]Lo estamos haciendo bien. Sigamos movi姻ndonos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24321]Lo estamos haciendo bien. Sigamos[n]movi姻ndonos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24322]Eso fue sorprendentemente bien.[n][f 1 6 65535][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24353]No es un mal comienzo.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TOUHA_50_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24354]Parece que estamos empezando a ver la[n]imagen m茨s grande.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24354]Parece que estamos empezando a ver la imagen[n]m茨s grande.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TOUHA_50_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24355]Bien. Estamos a mitad de camino.[n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24358]Mapa completo... Debo decir que es excelente.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24359]Hm... Este mapa result吋 ser bastante magn胤fico.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24359]Hm... Este mapa result吋 ser bastante[n]magn胤fico.[n][f 1 6 65535][e]
 
 [msg YUSUKE_MAPPING_ICON_ALL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24342]Buena elecci吋n.[n][f 1 6 65535][e]

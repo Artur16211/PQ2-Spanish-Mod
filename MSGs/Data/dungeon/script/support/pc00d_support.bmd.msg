@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13373]Podemos proceder despu姻s de apagar el poder.[n][f 1 6 65535][e]
 
 [msg MITURU_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13374]Cerrar la electricidad ser胤a el curso prudente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13374]Cerrar la electricidad ser胤a el curso[n]prudente.[n][f 1 6 65535][e]
 
 [msg MITURU_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13375]Ngh...![n][f 1 6 65535][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13325]Hay una escalera all胤.[n][f 1 6 65535][e]
 
 [msg MITURU_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13326]Escaleras... El siguiente piso est茨 por delante.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13326]Escaleras... El siguiente piso est茨 por[n]delante.[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13327]Una caja de tesoros... 夷Vamos?[n][f 1 6 65535][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg MITURU_FOE_WARNING_NEAR_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13309]斡No te relajes todav胤a! 斡El FOE est茨[n]casi sobre nosotros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13309]斡No te relajes todav胤a! 斡El FOE est茨 casi[n]sobre nosotros![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_WARNING_NEAR__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13310]Que FOE sigue en persecuci吋n...[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13315]Lo siento, 夷pero podr胤a molestarte por[n]algo de curaci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13315]Lo siento, 夷pero podr胤a molestarte por algo[n]de curaci吋n?[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13316]Estoy bastante bajo en salud...[n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13317]Disculpa, pero estoy cerca de mi l胤mite...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13318]Tengo dificultades para mantenerme... Disculpas...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13318]Tengo dificultades para mantenerme...[n]Disculpas...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13319]La tensi吋n me est茨 afectando...[n][f 1 6 65535][e]
@@ -230,19 +230,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13353]Procedamos lentamente, pero seguramente.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_50_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13354]Espero que las responsabilidades no[n]sean una carga. 夷Est茨s cansada?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13354]Espero que las responsabilidades no sean una[n]carga. 夷Est茨s cansada?[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_50_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13355]Hemos cubierto una buena parte de este piso.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13356]Hemos caminado bastante lejos. 夷C吋mo[n]est茨 la salud de todos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13356]Hemos caminado bastante lejos. 夷C吋mo est茨 la[n]salud de todos?[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13357]Estoy empezando a ver el cuadro completo...[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13358]Me atrevo a decir que no volveremos a[n]perdernos en este piso.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13358]Me atrevo a decir que no volveremos a perdernos[n]en este piso.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_100_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13359]Veo que ten胤amos raz吋n para ponerte a cargo.[n][f 1 6 65535][e]
@@ -254,10 +254,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13343]Ah, s胤... Lo recuerdo.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_ICON_KAID]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13344]Ahora siempre sabremos el camino a las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13344]Ahora siempre sabremos el camino a las[n]escaleras.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_ICON_KAID_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13345]As胤 que esto conduce al siguiente piso, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13345]As胤 que esto conduce al siguiente piso,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_CHANGE_CO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13346]夷Oh...? Tienes buen sentido para esto.[n][f 1 6 65535][e]

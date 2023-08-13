@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4302]Whoa! 斡Un FOE! 斡Yo digo escapar![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_004]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4303]ANTERIORACI遺N DE LOS RESPECTOS ひ! 斡M茨s informaci吋n[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4303]ANTERIORACI遺N DE LOS RESPECTOS ひ! 斡M茨s[n]informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_005]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4304]斡Ganaremos! 斡Vamos a darles una paliza![n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4321]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4322]斡Oh! Nunca hab胤amos visto eso antes.[n]夷Deber胤amos intentar aprender su debilidad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4322]斡Oh! Nunca hab胤amos visto eso antes. 夷Deber胤amos[n]intentar aprender su debilidad?[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4323]斡Leer m茨s[n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4325]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4326]斡Esto no va a ser ning雨n problema![n]Apuesto a que no romperemos un sudor.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4326]斡Esto no va a ser ning雨n problema! Apuesto[n]a que no romperemos un sudor.[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4327]斡Respecto[n][f 1 6 65535][e]
@@ -119,13 +119,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4416]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_040]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4417]ANTERIORACI遺N DE RESPECTO[n]ENTREVISTENCIA ANTENERADO , supuestamente[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4417]ANTERIORACI遺N DE RESPECTO ENTREVISTENCIA[n]ANTENERADO , supuestamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_041]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4418]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_042]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4419]?ноглицининининный ненный[n]неликитенининининиянинаниянитенинитинанининиянинининининияниянинини[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4419]?ноглицининининный ненный[n][n]неликитенининининиянинаниянитенинитинанининиянинининининияниянинини[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_043]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4420]斡M茨s tarde[n][f 1 6 65535][e]
@@ -158,7 +158,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4340]斡Hecho[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4341]斡Hwataaa! 斡Los voy a patear a todos en la cara![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4341]斡Hwataaa! 斡Los voy a patear a todos en la[n]cara![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4342]斡He aqu胤[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4528]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4430]斡Hwa-cha! 斡No soy el mismo Chie que[n]antes! 斡Tr茨eme una carga ahora![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4430]斡Hwa-cha! 斡No soy el mismo Chie que antes![n]斡Tr茨eme una carga ahora![n][f 1 6 65535][e]
 

@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19310]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 19311]?ногленныенннныйнный неннный неннный[n]неннный неннный неннининий неннный[n]неннненнный ный[n]неннененннннннннннненннннннннннннннний ный й ний й нененый нннннный нннненый неный ненененененененнннный нннннный неныйнннннннннененннненыйннннннннененннннннннененыйннн[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 19311]?ногленныенннныйнный неннный неннный неннный[n]неннный неннининий неннный неннненнный[n]ный неннененннннннннннненннннннннннннннний[n]ный й ний й нененый нннннный нннненый[n]неный ненененененененнннный нннннный[n][n]неныйнннннннннененннненыйннннннннененннннннннененыйннн[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_010]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19312]ANTERIORIAMENTE RECIBIDAMENTE[n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19321]夷Otra vez[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 19322]Parece que hemos sido agraciados con un[n]nuevo enemigo. 斡Hora de hacer algunas pruebas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 19322]Parece que hemos sido agraciados con un nuevo[n]enemigo. 斡Hora de hacer algunas[n]pruebas![n][f 1 6 65535][e]
 
 [msg BTL_MES_019_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19323]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -149,7 +149,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19426]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_050]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 19427]?ренннанниннаннный , неленнненннненнный[n],! 斡Ser茨 mejor[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 19427]?ренннанниннаннный , неленнненннненнный ,![n]斡Ser茨 mejor[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_051]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19428]夷Qu姻[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19342]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 19343]斡Puedo golpearlo donde est茨 d姻bil! 夷Qu姻 dices?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 19343]斡Puedo golpearlo donde est茨 d姻bil! 夷Qu姻[n]dices?[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19344]Relevo ser胤a una buena manera de ir tambi姻n![n][f 1 6 65535][e]
@@ -221,7 +221,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19516]Leer m茨s[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_074]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 19517]ANTERIORACI遺N DE RESPECTO DE RESUMEN, RECIBIDAS[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 19517]ANTERIORACI遺N DE RESPECTO DE RESUMEN,[n]RECIBIDAS[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_075]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19518]斡No[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 19528]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_019_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 19430]Tengo esto... 斡Prep茨rate para ser sorprendido![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 19430]Tengo esto... 斡Prep茨rate para ser[n]sorprendido![n][f 1 6 65535][e]
 

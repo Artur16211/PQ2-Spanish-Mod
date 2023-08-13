@@ -8,13 +8,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10301]Чноплитинанитенниениентинаниваниванияныениныентентентениенинаниенинаниенниениенининиениениениениениениениенинининининининиенинитиениентитинининининининининиянининининининининнининияниянинннтенияннияниянниниянтиянинининиениентиеннининининиянининиенининаниян[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10302]!FOE avistado! Deberiamos evitarlo, ?no?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10302]斡FOE avistado! Deber胤amos evitarlo, 夷no?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10303]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10304]Eso es un FOE. ?Crees que podemos con el?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10304]Eso es un FOE. 夷Crees que podemos con el?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_006]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10305]斡Un raro! 斡No dejes que se escape![n][f 1 6 65535][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10321]?леннициныениныенный, 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10322]Nunca habia visto ese antes. ?Cual sera su debilidad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10322]Nunca hab胤a visto ese antes. 夷Cu茨l ser茨 su[n]debilidad?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10323]斡No[n][f 1 6 65535][e]
@@ -50,13 +50,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10325]狙えнопринанининининыханикинанининанинанияниныйнининыеннинениныенниениный[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10326]!Esto deberia ser pan comido para nosotros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10326]斡Esto deber胤a ser pan comido para nosotros![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10327]斡No[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10328]Oye... ?no esta esa Sombra actuando raro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10328]Oye... 夷no est茨 esa Sombra actuando raro?[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10329]Alternativamente... 夷Por qu姻[n][f 1 6 65535][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10402]Alternativamente... 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_026]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10403]√?a medida correspond胤a reducir[n]gradualmente, reducir胤a... 斡Desapareciendo[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10403]√?a medida correspond胤a reducir gradualmente,[n]reducir胤a... 斡Desapareciendo[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_027]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10404]夷Qu姻[n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10414]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_038]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10415]?леннныеннниенниенниенниентеннный ...! 斡Testigo[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10415]?леннныеннниенниенниенниентеннный ...![n]斡Testigo[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_039]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10416]斡M茨s informaci吋n[n][f 1 6 65535][e]
@@ -158,19 +158,19 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10340]斡Te damos cuenta[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10341]!Muy bien! !Ahora es mi turno![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10341]斡Muy bien! 斡Ahora es mi turno![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10342]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10343]夷Deber胤a levantarme? 斡Tengo una[n]habilidad contra la que es d姻bil![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10343]夷Deber胤a levantarme? 斡Tengo una habilidad[n]contra la que es d姻bil![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10344]斡No te olvides de Relevo![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10345]!Ya estoy listo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10345]斡Ya estoy listo![n][f 1 6 65535][e]
 
 [msg BTL_MES_010_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10501]夷Te gustar胤a saber algo[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 10528]斡M茨s informaci吋n[n][f 1 6 65535][e]
 
 [msg BTL_MES_010_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 10430]!Dejamelo a mi! !Luces, camara, accion![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 10430]斡D姻jamelo a m胤! 斡Luces, c茨mara, acci吋n![n][f 1 6 65535][e]
 

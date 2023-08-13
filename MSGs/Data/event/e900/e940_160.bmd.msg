@@ -3,14 +3,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Leer m茨s[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Se隠alando]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 0]ESPECIFICACIONES T畏CNICAS ESPEC緯FICAS,[n]SIN EMBARGO..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 0]ESPECIFICACIONES T畏CNICAS ESPEC緯FICAS, SIN[n]EMBARGO..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [高 杏]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 0]夷Qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Retirada]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]斡Emocionado[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]√?amos, nos referiremos a las cosas que[n]hemos hecho[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]√?amos, nos referiremos a las cosas que hemos[n]hecho[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [坂日本 Неных]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0]斡Lean[n][f 1 3 65535][f 1 1][e]
@@ -29,7 +29,7 @@
 
 [msg MSG_009 [- 夷Qu姻]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 0]Непеннныенннный,[n]пеннннныеннныеннныеннныеннныхнныенннныеннныеннннныенннннных[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]犯?????????????????????????? aTMa[n]{\fnMicrosoft Sans Serif}[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]犯?????????????????????????? aTMa {\fnMicrosoft[n]Sans Serif}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Qu姻[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Retirada]]

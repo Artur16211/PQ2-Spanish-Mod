@@ -38,10 +38,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2372]Tenemos que apagar el poder a esto...[n][f 1 6 65535][e]
 
 [msg P3_HERO_DENKISAKU_REACTI_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2373]Cuidado. Primero tendremos que apagar el poder.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2373]Cuidado. Primero tendremos que apagar el[n]poder.[n][f 1 6 65535][e]
 
 [msg P3_HERO_DENKISAKU_REACTI_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2374]Necesitamos una forma de apagar la[n]electricidad primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2374]Necesitamos una forma de apagar la electricidad[n]primero.[n][f 1 6 65535][e]
 
 [msg P3_HERO_KYOUHU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2375]Whoa![n][f 1 6 65535][e]
@@ -53,19 +53,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2377]Whoaaaa.[n][f 1 6 65535][e]
 
 [msg P3_HERO_STAIR_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2324]Podemos llegar a la siguiente zona desde all胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2324]Podemos llegar a la siguiente zona desde[n]all胤.[n][f 1 6 65535][e]
 
 [msg P3_HERO_STAIR_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2325]Podemos seguir adelante... 夷Estamos listos?[n][f 1 6 65535][e]
 
 [msg P3_HERO_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2326]La siguiente zona... Vamos a[n]asegurarnos de que estemos completamente preparados.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2326]La siguiente zona... Vamos a asegurarnos de[n]que estemos completamente preparados.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2327]Es una caja de tesoros. Vamos a abrirlo.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2328]Una caja de tesoros. Tiene que ser algo[n]bueno dentro...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2328]Una caja de tesoros. Tiene que ser algo bueno[n]dentro...[n][f 1 6 65535][e]
 
 [msg P3_HERO_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2329]Hay una caja de tesoros all胤.[n][f 1 6 65535][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2331]夷Por qu姻 no miramos m茨s de cerca?[n][f 1 6 65535][e]
 
 [msg P3_HERO_CHECK_WALL_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2332]Parece que hay algo ah胤. 夷Sabes a qu姻 me refiero?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2332]Parece que hay algo ah胤. 夷Sabes a qu姻 me[n]refiero?[n][f 1 6 65535][e]
 
 [msg P3_HERO_SWITCH_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2333]Un interruptor... 夷Qu姻 har茨s?[n][f 1 6 65535][e]
@@ -107,10 +107,10 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg P3_HERO_FOE_WARNING_NEAR]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2309]Hay un FOE despu姻s de nosotros... 夷Qu姻[n]debemos hacer?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2309]Hay un FOE despu姻s de nosotros... 夷Qu姻 debemos[n]hacer?[n][f 1 6 65535][e]
 
 [msg P3_HERO_FOE_WARNING_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2310]Algo desagradable en nuestra cola...[n]夷C吋mo est茨 nuestra salud?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2310]Algo desagradable en nuestra cola... 夷C吋mo[n]est茨 nuestra salud?[n][f 1 6 65535][e]
 
 [msg P3_HERO_FOE_WARNING_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2311]Viene un FOE. Mantente alerta.[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg P3_HERO_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2312]Esto se est茨 poniendo dif胤cil... 夷Tal[n]vez deber胤amos volver a la base?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2312]Esto se est茨 poniendo dif胤cil... 夷Tal vez[n]deber胤amos volver a la base?[n][f 1 6 65535][e]
 
 [msg P3_HERO_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2313]Ugh, hah... Estoy en mi l胤mite aqu胤...[n][f 1 6 65535][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2317]Me duele mucho...[n][f 1 6 65535][e]
 
 [msg P3_HERO_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2318]Solo necesito un descanso... para[n]recuperar mi energ胤a...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2318]Solo necesito un descanso... para recuperar[n]mi energ胤a...[n][f 1 6 65535][e]
 
 [msg P3_HERO_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2319]Lo siento... Creo que no tengo energ胤a...[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2365]Vamos a trabajar juntos.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2352]Todav胤a tenemos un largo camino por[n]recorrer... Vamos a estar concentrados.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2352]Todav胤a tenemos un largo camino por recorrer...[n]Vamos a estar concentrados.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2353]Deber胤amos estar listos para cualquier cosa.[n][f 1 6 65535][e]
@@ -236,13 +236,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2355]Casi a mitad de camino. Vamos a seguir.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2356]Todav胤a tiene algunos puntos en blanco[n]en nuestro mapa.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2356]Todav胤a tiene algunos puntos en blanco en[n]nuestro mapa.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2357]Bien. Hemos estado explorando por un tiempo.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2358]Felicitaciones. Eso me parece un mapa acabado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2358]Felicitaciones. Eso me parece un mapa[n]acabado.[n][f 1 6 65535][e]
 
 [msg P3_HERO_TOUHA_100_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2359]Eso lo hace por este piso.[n][f 1 6 65535][e]
@@ -251,10 +251,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2342]S胤. Se ve bien.[n][f 1 6 65535][e]
 
 [msg P3_HERO_MAPPING_ICON_ALL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2343]Est茨s realmente organizado. Gracias por manejarlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2343]Est茨s realmente organizado. Gracias por[n]manejarlo.[n][f 1 6 65535][e]
 
 [msg P3_HERO_MAPPING_ICON_KAI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2344]Perfecto. Sabemos exactamente d吋nde[n]est茨n las escaleras ahora.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2344]Perfecto. Sabemos exactamente d吋nde est茨n[n]las escaleras ahora.[n][f 1 6 65535][e]
 
 [msg P3_HERO_MAPPING_ICON_KAI_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2345]As胤 es. Hay una escalera justo ah胤.[n][f 1 6 65535][e]

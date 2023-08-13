@@ -23,13 +23,13 @@
 [f 0 5 65278][f 2 1]斡Derrota al chico pollo![n][e]
 
 [msg quest_explain_008]
-[f 0 5 65278][f 2 1]斡Encuentra al oficial de polic胤a falso[n]y haz que pague![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra al oficial de polic胤a falso y haz[n]que pague![n][e]
 
 [msg quest_explain_009]
 [f 0 5 65278][f 2 1]Encuentra graffiti diferente al resto![n][e]
 
 [msg quest_explain_010]
-[f 0 5 65278][f 2 1]斡Vayan al lugar de pesca y atrapen uno grande![n][e]
+[f 0 5 65278][f 2 1]斡Vayan al lugar de pesca y atrapen uno[n]grande![n][e]
 
 [msg quest_explain_011]
 [f 0 5 65278][f 2 1]斡Robar ese tesoro![n][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1]※[n][e]
 
 [msg quest_explain_021]
-[f 0 5 65278][f 2 1]斡Encuentra ingredientes comestibles en la selva![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra ingredientes comestibles en la[n]selva![n][e]
 
 [msg quest_explain_022]
 [f 0 5 65278][f 2 1]斡Derrota tres grandes Sombras![n][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1]斡Derrota cuatro unidades de Rampage![n][e]
 
 [msg quest_explain_024]
-[f 0 5 65278][f 2 1]斡Consigue la tecnolog胤a de pr吋xima[n]generaci吋n de seguridad![n][e]
+[f 0 5 65278][f 2 1]斡Consigue la tecnolog胤a de pr吋xima generaci吋n[n]de seguridad![n][e]
 
 [msg quest_explain_025]
 [f 0 5 65278][f 2 1]斡Destruye KNS-1000![n][e]
@@ -89,7 +89,7 @@
 [f 0 5 65278][f 2 1]斡Derrota a dos Tyranniqueens![n][e]
 
 [msg quest_explain_030]
-[f 0 5 65278][f 2 1]斡Resolver el misterio de los dispositivos warp![n][e]
+[f 0 5 65278][f 2 1]斡Resolver el misterio de los dispositivos[n]warp![n][e]
 
 [msg quest_explain_031]
 [f 0 5 65278][f 2 1]斡Aloja el club nocturno![n][e]
@@ -140,10 +140,10 @@
 [f 0 5 65278][f 2 1]斡Trae m雨sica de la pel胤cula![n][e]
 
 [msg quest_explain_047]
-[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en la ciudad de Kamo![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en la ciudad de[n]Kamo![n][e]
 
 [msg quest_explain_048]
-[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en la Tierra Junesic![n][e]
+[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en la Tierra[n]Junesic![n][e]
 
 [msg quest_explain_049]
 [f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en A.I.G.I.S.![n][e]

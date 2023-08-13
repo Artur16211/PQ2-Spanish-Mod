@@ -2,22 +2,22 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28300]Hag茨moslo. Estoy seguro de que podemos ganar esto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28300]Hag茨moslo. Estoy seguro de que podemos ganar[n]esto.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28301]のделиныенинитинанияныентелитентени[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28302]Conf胤o en mis propias habilidades, pero[n]dado nuestro partido, debemos evitar las FOEs.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28302]Conf胤o en mis propias habilidades, pero dado[n]nuestro partido, debemos evitar las[n]FOEs.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28303]<justificadamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28304]Con todas las habilidades que hemos[n]adquirido, tal vez podamos vencerlo ahora![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28304]Con todas las habilidades que hemos adquirido,[n]tal vez podamos vencerlo ahora![n][f 1 6 65535][e]
 
 [msg BTL_MES_028_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28305]Esta Sombra es rara. Capturar es mucho[n]para nuestra ventaja.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28305]Esta Sombra es rara. Capturar es mucho para[n]nuestra ventaja.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28306]Alternativamente... [n][f 1 6 65535][e]
@@ -38,13 +38,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28321]夷Qu姻? 夷Por qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28322]A Sombra que no hemos visto antes. Hora[n]de desenterrar su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28322]A Sombra que no hemos visto antes. Hora de[n]desenterrar su debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28323]Acaso no es cierto[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_015]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28324]Dado lo poderosos que somos, esto[n]deber胤a ir sin problemas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28324]Dado lo poderosos que somos, esto deber胤a ir[n]sin problemas.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_016]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28325]夷Exactamente[n][f 1 6 65535][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28328]Parece que algo ha cambiado.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_020]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28329]Alternativamente... Identificar las[n]palabras, anunciarlas..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28329]Alternativamente... Identificar las palabras,[n]anunciarlas..[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_021]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28330]Alternativamente... 夷Qu姻[n][f 1 6 65535][e]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28409]夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_033]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28410]<нодилинининининанитинанинаниныениныениныенниныениныенинаниени ..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28410]<нодилинининининанитинанинаниныениныениныенниныениныенинаниени[n]..[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_034]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28411]夷Qu姻[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28421]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_045]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28422]<ностилиницилинатититинаниятиныениеныениениениени ..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28422]<ностилиницилинатититинаниятиныениеныениениениени[n]..[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_046]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28423]声Respectivamente especificado..[n][f 1 6 65535][e]
@@ -143,13 +143,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28424]- 夷Qu姻[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_048]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28425]<нодилинилинитититититититенитенитениенитенитенитениенитениени ..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28425]<нодилинилинитититититититенитенитениенитенитенитениенитениени[n]..[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_049]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28426]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_050]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28427]?ногилитинующихинанитениныенинаниеныениниенни ..[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28427]?ногилитинующихинанитениныенинаниеныениниенни[n]..[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_051]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28428]Alternativamente[n][f 1 6 65535][e]
@@ -164,13 +164,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28342]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28343]Una sombra con esa debilidad... S吋lo[n]d姻jame ocuparme de ello.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28343]Una sombra con esa debilidad... S吋lo d姻jame[n]ocuparme de ello.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_056]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28344]夷Intentamos pasar el bast吋n?[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28345]Parece que lo hacemos f茨cil con[n]nosotros mismos apuntando a su debilidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28345]Parece que lo hacemos f茨cil con nosotros[n]mismos apuntando a su debilidad.[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28501]Alternativamente[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 28528]Alternativamente[n][f 1 6 65535][e]
 
 [msg BTL_MES_028_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 28430]*chuckle* Me siento bastante el maestro[n]ahora mismo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 28430]*chuckle* Me siento bastante el maestro ahora[n]mismo.[n][f 1 6 65535][e]
 

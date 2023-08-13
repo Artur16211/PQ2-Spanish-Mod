@@ -341,7 +341,7 @@
 [f 0 5 65278][f 2 1]Reducir la posibilidad de tropezar[n][e]
 
 [msg addeffect_114]
-[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de tropezar[n][e]
+[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de[n]tropezar[n][e]
 
 [msg addeffect_115]
 [f 0 5 65278][f 2 1]Gran reducci吋n de la posibilidad de tropiezo[n][e]

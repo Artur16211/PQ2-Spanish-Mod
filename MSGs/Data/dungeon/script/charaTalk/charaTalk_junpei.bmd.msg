@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11380]夷Oh?[n][f 1 6 65535][e]
 
 [msg MSG_008 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11091]Hombre, eso fue espantoso... 斡De todos[n]modos, hemos terminado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11091]Hombre, eso fue espantoso... 斡De todos modos,[n]hemos terminado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11381]斡Tienes una rara![n][f 1 6 65535][e]
@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11383]斡S胤![n][f 1 6 65535][e]
 
 [msg MSG_012 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11045]Whoa, tengo un atajo aqu胤! 夷Qu姻 quieres hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11045]Whoa, tengo un atajo aqu胤! 夷Qu姻 quieres[n]hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0](仮)[n][f 1 3 65535][f 1 1][e]
@@ -76,13 +76,13 @@
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11074]夷En serio? A-All right, let's take a look.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11067]S胤, buen pensamiento. 斡Junpei,[n]detective de Ace, siempre se aleja del peligro![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11067]S胤, buen pensamiento. 斡Junpei, detective de[n]Ace, siempre se aleja del peligro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11098]Maldita sea, eso fue duro... Incluso la[n]vida o la muerte de la caza del tesoro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11098]Maldita sea, eso fue duro... Incluso la vida[n]o la muerte de la caza del tesoro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11016]Parece que hay una lotta Sombras por[n]aqu胤. 夷Qu姻 hacemos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11016]Parece que hay una lotta Sombras por aqu胤.[n]夷Qu姻 hacemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11074]Awriiight! 斡Echemos un vistazo m茨s de cerca![n][f 1 3 65535][f 1 1][e]
