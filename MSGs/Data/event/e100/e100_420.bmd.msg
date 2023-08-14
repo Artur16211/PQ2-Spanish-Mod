@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo que quiero preguntar es, si eso en s胤[n]tiene alg雨n significado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 0 0][f 3 1 1 0 0 54056]S胤, creo que la llegada en solitario de [f 6 1 27 0 0][n]no es una mera coincidencia...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 0 0][f 3 1 1 0 0 54056]S胤, creo que la llegada en solitario de no es una mera coincidencia...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, eso no se aplica a ella sola.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Akechi]]

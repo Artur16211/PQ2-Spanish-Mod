@@ -11,7 +11,7 @@
 
 [msg MSG_CMM_POEM_02_00]
 [f 0 5 65278][f 2 1][f 3 1 8 0 0 8]　"The Mongrels' Lullaby"[f 6 1 4 0 45] [n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 8 0 0 9]You are a stupid dog[f 6 1 4 0 0 40][n]　[f 6 1 4 0 0 65535][n]you don't even know your true master[f 6 1 4 0 0 10][n]　[f 6 1 4 0 0 65535][n]yet you wag your tail so hard it may very well tear[f 6 1 4 0 0 35][n] [f 6 1 4 0 15][n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 8 0 0 9]Usted es un perro est雨pido[f 6 1 4 0 40] [f 6 1 4 0 65535][n]que ni siquiera conoce a su verdadero maestro[f 6 1 4 0 10][n], sin embargo, usted agarra su cola tan fuerte que puede muy bien lagritar[f 6 1 4 0 0 35][n][n][f 1 1][e]
 
 [msg MSG_CMM_POEM_02_01]
 [f 0 5 65278][f 2 1][f 3 1 8 0 0 10]　Soy un[n]perro est雨pido[f 6 1 4 0 0 40]  Busco a mi verdadero maestro[f 6 1 4 0 10]  aunque[n]nunca lo he visto[f 6 1 4 0 35]   [f 6 1 4 0 15][n][f 1 1][e]
@@ -29,7 +29,7 @@
 [msg MSG_CMM_POEM_03_02]
 [f 0 5 65278][f 2 1][f 3 1 8 0 0 15]　[f 6 1 4 0 65535][n] No lo malinterpretes,[n]esto es un contrato. [f 6 1 4 0 0 28] Soy una novia maldecida, [f 6 1 4 0 22] jugueteada por el destino.[f 6 1 4 0 0 0] [f 6 1 4 0 55][n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 8 0 0 16]Dejar姻 una marca eterna en ti... [f 6 1 4 0 25][n]Este es mi voto: [f 6 1 4 0 15] [f 6 1 4 0 45][n][n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 8 0 0 17]Un beso culpable...[f 6 1 4 0 20] [f 6 1 4 0 65535][n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 8 0 0 17]A guilty kiss...[f 6 1 4 0 0 20][n] [f 6 1 4 0 15][n][f 1 1][e]
 
 [msg MSG_CMM_POEM_04_00]
 [f 0 5 65278][f 2 1][f 3 1 8 0 0 18]　"Surprise Birthday"[f 6 1 4 0 45] [f 6 1 4 0 65535][n][n][f 1 1][e]

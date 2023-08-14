@@ -25,7 +25,7 @@
 
 [msg MSG_007 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 65013]No est茨 mal, supongo... S吋lo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Oh! Lonely! 斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Oh! Lonely! 斡斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 65051]*Jadeo* 斡Eso es! 斡Eso es genial![n][f 1 3 65535][f 1 1][e]
@@ -33,7 +33,7 @@
 
 [msg MSG_009 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 65013]Esa es una idea, pero necesito algo m茨s[n]triste... 斡Oh![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Lonely! 斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Lonely! 斡斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 100 3][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Maldici吋n, escribe r茨pido. Por supuesto,[n]nuestro equipo tiene a alguien as胤,[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]

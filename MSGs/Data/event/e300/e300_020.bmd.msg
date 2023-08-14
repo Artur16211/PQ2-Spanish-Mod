@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que la parte "AI" significa inteligencia[n]artificial, pero la parte "GIS"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Mmhm, y el nombre de mi amigo se escribe[n]exactamente de la misma manera. No puedo[n]imaginar que sea una mera coincidencia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Mmhm, y el nombre de mi amigo se escribe de[n]la misma manera. No puedo imaginar que[n]sea una mera coincidencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 1 0 3][f 4 6 9 10 0 6][f 3 1 1 0 0 9046]No te preocupes, 夷eres amigo de un robot?[n]Puedo creerlo...[n][f 1 3 65535][f 1 1][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que la parte "AI" significa inteligencia[n]artificial, pero la parte "GIS"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19068]Mmhm, y el nombre de mi amigo se escribe[n]exactamente de la misma manera. No puedo[n]imaginar que sea una mera coincidencia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19068]Mmhm, y el nombre de mi amigo se escribe de[n]la misma manera. No puedo imaginar que[n]sea una mera coincidencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19053]Es cierto que Aigis es un robot, pero no[n]pensamos en ella de manera diferente de lo[n]que hacemos el resto de nuestros amigos.[n][f 1 3 65535][f 1 1][e]

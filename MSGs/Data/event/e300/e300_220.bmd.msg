@@ -136,7 +136,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 28067][f 6 1 2 0 0 4]No hay problema. 夷Qu姻 tal "un tiro de cien[n]a uno"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Sistema De Examen Ai]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ALL ANSWERS ARE CORRECTO.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TODAS LAS RESPUESTAS SON CORRECTAS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 16 1 1][f 3 1 1 0 0 23109]Whew... Nos las arreglamos para quemar por[n]ese.[n][f 1 3 65535][f 1 1][e]

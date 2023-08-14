@@ -575,13 +575,13 @@
 [f 0 5 65278][f 2 1][f 2 4 1] 斡listo![n][e]
 
 [msg BTLMSGID_BEAST_A4_0]
-[f 0 5 65278][f 2 1][f 2 4 0] growls... and斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] growls... and 斡ataques![n][e]
 
 [msg BTLMSGID_BEAST_A5_0]
 [f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 durmiendo![n][e]
 
 [msg BTLMSGID_E_KAISH_BOOT]
-[f 0 5 65278][f 2 1][f 2 4 0] swings its scythe and斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] swings its scythe and 斡ataques![n][e]
 
 [msg BTLMSGID_BEAST_A1_0]
 [f 0 5 65278][f 2 1][f 2 4 0]斡el brazo se regenera![n][e]
@@ -596,7 +596,7 @@
 [f 0 5 65278][f 2 1]El Tentaculo del Salvador[n][e]
 
 [msg BTLMSGID_TRANS_ERROR_END]
-[f 0 5 65278][f 2 1]A communication error has occurred.[n]Por favor, espera...[n][e]
+[f 0 5 65278][f 2 1]A communication error has occurred. Por favor,[n]espera...[n][e]
 
 [msg BTLMSGID_DEADSTONE]
 [f 0 5 65278][f 2 1][f 2 4 1] Ha sido petrificado![n][e]
@@ -686,7 +686,7 @@
 [f 0 5 65278][f 2 1][f 2 4 0] 斡est茨 cobrando![n][e]
 
 [msg BTLMSGID_REF_ATTR_UP_ALL]
-[f 0 5 65278][f 2 1]Everyone's [f 2 4 2] resistencia ha aumentado![n][e]
+[f 0 5 65278][f 2 1]Everyone's [f 2 4 2] resistencia ha[n]aumentado![n][e]
 
 [msg BTLMSGID_KAITAISHINSHO]
 [f 0 5 65278][f 2 1]斡La tasa de ca胤da ha aumentado![n][e]
@@ -737,7 +737,7 @@
 [f 0 5 65278][f 2 1]斡El dios indescriptible ha despertado![n][e]
 
 [msg BTLMSGID_UROBORO_SHIELD]
-[f 0 5 65278][f 2 1]Party enveloped in a light that blocks[n]enemy斡ataques![n][e]
+[f 0 5 65278][f 2 1]Party enveloped in a light that blocks enemy 斡ataques![n][e]
 
 [msg BTLMSGID_DISCHARGE_BH]
 [f 0 5 65278][f 2 1][f 2 4 0]斡el pu隠o libera una luz cegadora![n][e]
@@ -944,7 +944,7 @@
 [f 0 5 65278][f 2 1]斡Todos en la l胤nea [f 2 4 1] tienen sus costos[n]de SP disminuyen![n][e]
 
 [msg BTLMSGID_REF_LINK]
-[f 0 5 65278][f 2 1]Link skills have an increased number[n]of斡ataques![n][e]
+[f 0 5 65278][f 2 1]Link skills have an increased number of 斡ataques![n][e]
 
 [msg BTLMSGID_REF_GUARD]
 [f 0 5 65278][f 2 1][f 2 4 1] 斡leyes para el ataque del enemigo![n][e]
@@ -956,7 +956,7 @@
 [f 0 5 65278][f 2 1]斡El 茨rea de la curaci吋n [f 2 4 1] aumenta![n][e]
 
 [msg BTLMSGID_WEAKENED]
-[f 0 5 65278][f 2 1][f 2 4 0] is weakened and斡no puede moverse![n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] is weakened and 斡no puede moverse![n][e]
 
 [msg BTLMSGID_MASCOT]
 [f 0 5 65278][f 2 1][f 2 4 0] Est茨 flotando...[n][e]
@@ -1511,7 +1511,7 @@
 [f 0 5 65278][f 2 1]斡D姻janos esto![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_YOUS [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]I think we've got this![n]斡Di la palabra![n][e]
+[f 0 5 65278][f 2 1]斡Creo que tenemos esto! 斡Di la palabra![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_CHIE [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡Estamos listos para irnos! 斡D姻janos el[n]resto![n][e]
@@ -1700,7 +1700,7 @@
 [f 0 5 65278][f 2 1][f 2 4 1]'s stat buffs han sido extendidos![n][e]
 
 [msg BTLMSGID_HIDE [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] is now immune to physical斡ataques![n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] is now immune to physical 斡ataques![n][e]
 
 [msg BTLMSGID_RISKY_GAMEOVER [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]The party leaderHa muerto...[n][e]
@@ -1799,7 +1799,7 @@
 [f 0 5 65278][f 2 1][f 2 4 1]斡La resistencia de Nuke ha disminuido![n][e]
 
 [msg BTLMSGID_DOUBLE_ATTACK [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Double attack Activa![n][e]
+[f 0 5 65278][f 2 1]Double attackActiva![n][e]
 
 [msg BTLMSGID_BOOT2 [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1][f 2 4 3] Activado![n][e]
@@ -1823,10 +1823,10 @@
 [f 0 5 65278][f 2 1]斡Tomar una postura para hacer que las[n]habilidades salgan![n][e]
 
 [msg BTLMSGID_PQ2_UTIOTOSI [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to null physical斡ataques![n][e]
+[f 0 5 65278][f 2 1]Taking a stance to null physical 斡ataques![n][e]
 
 [msg BTLMSGID_PQ2_GEIGEKI [Misericordioso Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to null physical斡ataques![n][e]
+[f 0 5 65278][f 2 1]Taking a stance to null physical 斡ataques![n][e]
 
 [msg BTLMSGID_PQ2_ORGIA [Misericordioso Clergyman]]
 [f 0 5 65278][f 2 1]斡L胤mites liberados![n][e]

@@ -251,7 +251,7 @@
 [f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_554]
-[f 0 5 65278][f 2 1]Especialidad de un caf姻 en Yongen- Jaya. [f 0 1 4][n]Restaura 50% de PE[f 0 1 0].[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un caf de callej吋n en Yongen-[n]Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_555]
 [f 0 5 65278][f 2 1]Incense que unifica la mente y la memoria.[n][f 0 1 4] Sube el nivel a Wild Level[f 0 1 0][n]. (1 Aliado)[n][e]
@@ -764,5 +764,5 @@
 [f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_5FF]
-[f 0 5 65278][f 2 1]Especialidad de un caf姻 en Yongen- Jaya. [f 0 1 4][n]Restaura 50% de PE[f 0 1 0].[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un caf de callej吋n en Yongen-[n]Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0][n]. (Grupo)[n][e]
 

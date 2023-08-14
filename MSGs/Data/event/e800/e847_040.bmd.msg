@@ -51,7 +51,7 @@
 
 [msg MSG_011_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 0]Si mi teor胤a es correcta, un poder extraordinario[n]habita dentro de este punto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tiene un gran potencial... lo suficientemente[n]poderoso para definir tu destino, [f 6 1 30 0 0][n], y el de tus amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tiene un gran potencial... lo[n]suficientemente poderoso para definir tu destino,, y el de tus amigos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 10 0 0][f 3 1 1 0 0 22021][f 6 1 2 0 0 6]斡De ninguna manera! 斡Eso suena incre胤ble![n][f 1 3 65535][f 1 1][e]

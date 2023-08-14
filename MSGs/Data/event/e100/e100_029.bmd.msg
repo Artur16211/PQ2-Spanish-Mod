@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1]Intentemos hablar con 姻l.[f 2 7 1 64 0 32][e]
 
 [msg MSG_009 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 6][f 3 1 1 0 0 8]Espero que no te ataque... Ten cuidado, [f 6 1 30 0 0][n].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 6][f 3 1 1 0 0 8]Espero que no te ataque... Ten cuidado,.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]...?[n][f 1 3 65535][f 1 1][e]

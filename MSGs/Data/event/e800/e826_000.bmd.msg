@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 0 0 1][f 3 1 1 0 0 17002]Bark! 斡Barco, corteza![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 0 0 1][f 3 1 1 0 0 17002]斡Bark! 斡Barco, corteza![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7054][f 6 1 2 0 0 6]Whoa! 夷Qu姻 est茨s haciendo, Koro? 斡No me[n]cortejes as胤![n][f 1 3 65535][f 1 1][e]

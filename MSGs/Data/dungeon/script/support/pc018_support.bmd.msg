@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24326]Parece que hemos encontrado nuestro camino.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]Parece que hay un tesoro por delante. Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]It appears there's treasure ahead.[n]Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24328]Espero que sea comida...[n][f 1 6 65535][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24321]Lo estamos haciendo bien. Sigamos[n]movi姻ndonos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24321]We're doing well. Sigamos movi姻ndonos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24322]Eso fue sorprendentemente bien.[n][f 1 6 65535][e]

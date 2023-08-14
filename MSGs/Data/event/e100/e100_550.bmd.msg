@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 84 14 2 1][f 3 1 1 0 0 5]夷Realmente vas a probarlo? 夷Y si... lo peor[n]iba a pasar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 6]Si eso sucede, entonces nos ocuparemos de[n]ello. Ahora, intenta usar esa llave, [f 6 1 30 0 0][n].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 6]Si eso sucede, entonces nos ocuparemos[n]de ello. Ahora, intenta usar esa llave,.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1]Entendido.[f 2 7 1 64 2 32][e]

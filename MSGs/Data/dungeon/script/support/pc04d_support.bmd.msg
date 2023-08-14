@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55302]Te siguen.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_FOLLOW_START__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57302]Oh! 斡F-O-E! 斡斡F-O-E![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57302]Oh! F-O-E! 斡F-O-E![n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_NEAR_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55303]Tranquilo, es un FOE.[n][f 1 6 65535][e]

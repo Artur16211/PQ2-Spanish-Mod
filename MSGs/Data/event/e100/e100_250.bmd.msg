@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 76 0 1 0][f 3 1 1 0 0 20]Mi... Su amable consideraci吋n es muy[n]apreciada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo, 夷c吋mo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo... 夷c吋mo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 22]Ya veo... Dado que ahora estamos en deuda[n]contigo, es apropiado devolver ese favor.[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 10 1 6][f 3 1 1 0 0 26]斡Dios, deja de bromear! 斡Teodoro te va a[n]tomar en serio![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo, 夷c吋mo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Entonces, me gustar胤a preguntar algo... 夷c吋mo[n]est茨n ustedes dos afiliados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]Tambi姻n he tenido curiosidad por eso. 夷Le[n]importar胤a si preguntamos c吋mo est茨n[n]afiliados?[n][f 1 3 65535][f 1 1][e]
@@ -177,7 +177,7 @@
 [f 0 5 65278][f 2 1]Haremos un gran equipo.[f 2 7 1 64 0 32][e]
 
 [msg MSG_051 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 83]Gracias, [f 6 1 30 0 0 0]! 斡Espero que todos[n]nos llevemos bien![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 83]Gracias,! 斡Espero que todos[n]nos llevemos bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 6][f 3 1 1 0 0 84]斡Igualmente![n][f 1 3 65535][f 1 1][e]

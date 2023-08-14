@@ -85,7 +85,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0]斡El Equipo de Investigaci吋n est茨 en el caso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 17 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 17 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Koromaru-san dice, "SEES har茨 lo mejor[n]tambi姻n."[n][f 1 3 65535][f 1 1][e]

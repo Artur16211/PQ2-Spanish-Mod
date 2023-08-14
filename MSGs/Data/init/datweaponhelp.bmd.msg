@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1]Un l茨tigo de cuero de longitud respetable.[n][f 0 1 3]Ranged[f 0 1 0][n][e]
 
 [msg weapon_042]
-[f 0 5 65278][f 2 1]武器 0x042 1 picante нечент:[f 0 1 3][n][e]
+[f 0 5 65278][f 2 1]武器　0x042　１行目[n][e]
 
 [msg weapon_043]
 [f 0 5 65278][f 2 1]Un l茨tigo que inspira sentimientos extra隠os[n]en los golpes. [f 0 1 3]Ranged[f 0 1 0][n][e]

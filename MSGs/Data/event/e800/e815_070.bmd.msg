@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estaba muy preocupado por ti, as胤 que eso[n]debe significar que...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
-[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 72 1 0 1][f 3 1 1 0 0 28021][f 3 1 1 0 0 1015]...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 72 1 0 1][f 3 1 1 0 0 28021]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 3][f 3 1 1 0 0 0]Lo siento... Probablemente no tengas idea de[n]lo que estoy hablando.[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 4 0 3][f 3 1 1 0 0 16003]Me est茨 llamando, as胤 que tengo que irme.[n]斡Lo siento, olvida que dije algo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Akechi]]
-[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 72 1 0 1][f 3 1 1 0 0 28133][f 3 1 1 0 0 1015]...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 72 1 0 1][f 3 1 1 0 0 28133]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 72 6 0 1][f 3 1 1 0 0 0]Realmente est茨s afilada, Koromaru-kun...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P4 Hero]]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1066]S胤. Probablemente sea mejor no llorar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 1 1 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1015][f 3 1 1 0 0 1015]...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 1 1 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1015]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 0]Esto es s吋lo un pensamiento, pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que cada uno tiene algo sobre ellos[n]que no siente que realmente puedan hablar.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1083]Y sean cuales sean esas cosas, eventualmente[n]llevar茨n a...[n][f 1 3 65535][f 1 1][e]

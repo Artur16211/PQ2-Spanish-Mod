@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 3][f 3 1 1 0 0 0]斡23 acci吋n por minuto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 2 0 6][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Uh, are we[n]making this a thing...? 斡Acci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 2 0 6][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Uh, are we making this a thing...?[n]斡Acci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 4 0 3][f 3 1 1 0 0 61194]Vas contra un oso bastante duro. 斡Seguro que[n]ser茨 acci吋n![n][f 1 3 65535][f 1 1][e]

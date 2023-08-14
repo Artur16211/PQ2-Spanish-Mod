@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4312]Por favor, d姻jame parar y comer algo de[n]carne.[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4313]No puedo seguir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4313]Uggh... No puedo seguir...[n][f 1 6 65535][e]
 
 [msg CHIE_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4314]Creo que esto es para m胤...[n][f 1 6 65535][e]

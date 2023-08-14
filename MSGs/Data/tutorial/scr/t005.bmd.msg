@@ -8,8 +8,8 @@
 
 [msg MSG_TUTORIAL_POWERSPOT_2_3]
 [f 0 5 65278][f 2 1]Si eliges [f 0 1 2]Buscar a fondo[f 0 1 0]...[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Podr茨s encontrar [f 0 1 2]hasta cinco[f 0 1 0][n]objetos, con una [f 0 1 2] mayor probabilidad de que sean raros[f 0 1 0][n]![n][f 1 1][e]
-[f 0 5 65278][f 2 1]Sin embargo, tambi姻n tienes una mayor[n]probabilidad de iniciar una batalla.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Puedes encontrar [f 0 1 2]hasta cinco[f 0 1 0][n]objetos, con una [f 0 1 2] mayor probabilidad de que sean raros[f 0 1 0][n]![n][f 1 1][e]
+[f 0 5 65278][f 2 1]Sin embargo, tambi姻n tienes una mayor[n]oportunidad de iniciar una batalla.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Los Tesoros escondidos contienen un n雨mero[n]limitado de objetos, pero al [f 0 1 2]salir del laberinto[f 0 1 0][n]...[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Algunos de ellos [f 0 1 2]se rellenan, permitiendo buscarlos m茨s tarde[f 0 1 0][n]![n][f 1 1][e]
 
@@ -28,8 +28,8 @@
 
 [msg MSG_TUTORIAL_POWERSPOT_1_3]
 [f 0 5 65278][f 2 1]Si eliges [f 0 1 2]Buscar a fondo[f 0 1 0]...[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Podr茨s encontrar [f 0 1 2]hasta cinco[f 0 1 0][n]objetos, con una [f 0 1 2] mayor probabilidad de que sean raros[f 0 1 0][n]![n][f 1 1][e]
-[f 0 5 65278][f 2 1]Sin embargo, tambi姻n tienes una mayor[n]probabilidad de iniciar una batalla.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Puedes encontrar [f 0 1 2]hasta cinco[f 0 1 0][n]objetos, con una [f 0 1 2] mayor probabilidad de que sean raros[f 0 1 0][n]![n][f 1 1][e]
+[f 0 5 65278][f 2 1]Sin embargo, tambi姻n tienes una mayor[n]oportunidad de iniciar una batalla.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Los Tesoros escondidos contienen un n雨mero[n]limitado de objetos, pero al [f 0 1 2]salir del laberinto[f 0 1 0][n]...[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Algunos de ellos [f 0 1 2]se rellenan, permitiendo buscarlos m茨s tarde[f 0 1 0][n]![n][f 1 1][e]
 
