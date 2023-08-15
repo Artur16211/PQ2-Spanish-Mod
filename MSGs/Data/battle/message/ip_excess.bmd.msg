@@ -6,13 +6,13 @@
 [f 0 5 65278][f 2 1]夷Desvelar los elementos seleccionados?[n][f 1 1][e]
 
 [msg IP_EXCESS_PERSONA]
-[f 0 5 65278][f 2 1]夷Quieres borrar [f 0 1][f 2 4 0][f 0 1 0]?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Quieres borrar[n][f 0 1 1][f 2 4 0][f 0 1 0]?[n][f 1 1][e]
 
 [msg IP_EXCESS_PERSONA_BUSY]
 [f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0] Es un Persona equipado. 夷Borrarla?[n][f 1 1][e]
 
 [msg IP_EXCESS_PERSONA_END]
-[f 0 5 65278][f 2 1]La Persona [f 0 1][f 2 4 0][f 0 1 0] ha[n]desaparecido de tu mente.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha[n]desaparecido de tu mente.[n][f 1 1][e]
 
 [msg IP_EXCESS_PERSONA_MULTI]
 [f 0 5 65278][f 2 1]夷Quieres borrar todas las Personas[n]seleccionadas?[n][f 1 1][e]

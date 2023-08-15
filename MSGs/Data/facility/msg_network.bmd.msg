@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1]Le costar茨 [f 2 4 0] yenes convocar a este[n]Persona. 夷Te gustar胤a convocarla?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_SUMM_3]
-[f 0 5 65278][f 2 1]El Persona [f 0 1][f 2 4 0][f 0 1 0] ha sido[n]convocado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]El Persona [f 0 1 0][f 2 4 0][f 0 1 0] ha sido[n]convocado.[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_EXIS [Marie]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 65200]Ya tienes a Persona.[n][f 1 1][e]
