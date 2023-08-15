@@ -1,5 +1,5 @@
-﻿[msg MSG_000 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 4 2 3][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 1]Este es... el cine?[n][f 1 3 65535][f 1 1][e]
+[msg MSG_000 [P3 Fem Protag]]
+[f 0 5 65278][f 2 1][f 4 6 19 4 2 3][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 1]夷Este es... el cine?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]Nunca hubiera imaginado que el mundo pudiera[n]estar conectado a un lugar como este...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 2 2 1][f 3 1 1 0 0 4]Bienvenida, se隠orita [f 6 1 26 0 0]. Soy[n]Nagi, la curadora de este lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 2 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 5]Oh, hello! Nice to meet you.[n]I'm [f 6 1 28 0 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 2 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 5]斡Hola! Encantada de conocerte.[n]Yo soy [f 6 1 28 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6]Todos me dijeron un poco sobre este Cine[n]antes de llegar aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Nagi]]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35]Por lo que he o胤do, ambos podemos usar[n]Personas, pero las reglas detr茨s de ella[n]parecen bastante diferentes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 1 0][f 3 1 1 0 0 36]Your clothes don't change at all, huh[n][f 6 1 27 0 0 0]? Even though you use[n]Personas too...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 1 0][f 3 1 1 0 0 36]Tu ropa no cambia para nada, 夷[f 6 1 27 0 0 0]? Aunque t雨 tambi姻n usas[n]Personas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]!!!Wow!!! T-T-T-T雨 eres... Eres la chica de[n]la pel胤cula...[n][f 1 3 65535][f 1 1][e]
@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 44][f 6 1 2 0 0 10]U-Uh, s胤, igual...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 45]!Oh! Futaba, esos auriculares![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 45]斡Oh! Futaba, esos auriculares![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 0]斡斡斡E-eek!!![n][f 1 3 65535][f 1 1][e]
@@ -247,11 +247,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 71][f 6 1 3 0 0 3]S胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_071 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 72 2 0 3][f 3 1 1 0 0 90]Well then, why don't we give[n][f 6 1 26 0 0 0]-san a quick tour[n]of this movie theater?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 91]Mientras lo hacemos, seguro que tendremos la[n]oportunidad de hacer uso de nuestras[n]instalaciones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 72 2 0 3][f 3 1 1 0 0 90]Bueno, entonces, 夷por qu姻 no le damos a[n][f 6 1 26 0 0 0] un r茨pido recorrido por el cine?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 91]Mientras lo hacemos, seguro que tendremos la[n]oportunidad de hacer uso del cine.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 10 0 4][f 3 1 1 0 0 92]斡Eso me recuerda! Hablando de instalaciones,[n]me gustar胤a mostrarles algo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 10 0 4][f 3 1 1 0 0 92]斡Eso me recuerda! Hablando del cine,[n]me gustar胤a mostrarles algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 93][f 6 1 2 0 0 4]夷Qu姻 es eso?[n][f 1 3 65535][f 1 1][e]

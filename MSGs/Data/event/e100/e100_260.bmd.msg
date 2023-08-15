@@ -1,4 +1,4 @@
-﻿[msg MSG_000 [P3 Fem Protag]]
+[msg MSG_000 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 4 2 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 1]夷Esto es... un puesto de ventas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Elizabeth]]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 15]斡Elizabeth![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 16]Oh, {F5 C1 1C 01 01 01 01 01 01 01}, me alegra[n]ver que est茨s a salvo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 16]Oh, [f 6 1 27 0 0 0], me alegra[n]ver que est茨s a salvo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 17]Ya he escuchado todo sobre esto de los dem茨s,[n]pero... pensar que tambi姻n te trajeron[n]aqu胤...[n][f 1 3 65535][f 1 1][e]

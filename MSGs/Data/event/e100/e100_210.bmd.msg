@@ -1,4 +1,4 @@
-﻿[msg MSG_000 [Ann]]
+[msg MSG_000 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 22109]Bien... Parece que estamos logrando avanzar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
@@ -14,10 +14,10 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Est茨s bien, Panther? 斡Vaya, por qu姻 tuviste[n]que molestarla as胤!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 21054][f 6 1 2 0 0 0]夷Qu姻|!? 斡Eso es una completa tonter胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 21054][f 6 1 2 0 0 0]夷Qu姻!? 斡Eso es una completa tonter胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 2 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Shh! Viene alguien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 28 2 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Shh! Viene alguien.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Vamos a escondernos hasta que pasen.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007]
@@ -62,7 +62,7 @@
 
 [msg MSG_019 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]S胤, me parece que simplemente lo apoyan porque[n]est茨 en una posici吋n de poder...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"斡Vaya tipo de h姻roe ES 姻l! Podr胤a ser el[n]mismo emperador que desfilaba con su ropa[n]'nueva'[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Vaya tipo de h姻roe ES 姻l! Podr胤a ser el[n]mismo emperador que desfilaba con su ropa[n]'nueva'[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28015]Mencionaron algo m茨s curioso...[n][f 1 3 65535][f 1 1][e]

@@ -1,4 +1,4 @@
-﻿[msg MSG_000 [Ryuji]]
+[msg MSG_000 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 1][f 3 1 1 0 0 1]斡Muy bien! 斡Apresur姻monos a salvar a Makoto[n]y Haru![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
@@ -132,7 +132,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Lo siento, [f 6 1 30 0 0], tienes que tomar[n]el salto de fe como nuestro l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 70 2 0 1][f 3 1 1 0 0 48]Then it's decided. Take it away,[n][f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 70 2 0 1][f 3 1 1 0 0 48]Est茨 decidido.[n]斡Vamos [f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 0 0 1][f 3 1 1 0 0 49]Todos... Tengan cuidado...[n][f 1 3 65535][f 1 1][e]

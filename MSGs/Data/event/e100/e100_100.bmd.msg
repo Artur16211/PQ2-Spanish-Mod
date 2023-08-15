@@ -1,12 +1,12 @@
-﻿[msg MSG_000 [Yusuke]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 68 12 0 3][f 3 1 1 0 0 1]...夷El puesto de concesi吋n?[n][f 1 3 65535][f 1 1][e]
+[msg MSG_000 [Yusuke]]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 68 12 0 3][f 3 1 1 0 0 1]...夷El puesto de ventas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 2]夷Les servir茨 de algo la mercanc胤a?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Desde que ocurri吋 la anomal胤a, el stock parece[n]haber cambiado un poco...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Desde que ocurri吋 la anomal胤a, el inventario parece[n]haber cambiado un poco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Parece que el equipo y los objetos se pueden[n]comprar y vender en este puesto de[n]concesi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Parece que el equipo y los objetos se pueden[n]comprar y vender en este puesto de[n]ventas...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Tambi姻n podemos almacenar y recuperar objetos[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 6 0 1][f 3 1 1 0 0 18][f 6 1 2 0 0 3]夷Relacionado con pel胤culas? No s姻 mucho de[n]eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 0 4][f 3 1 1 0 0 19][f 6 1 2 0 0 4]Cine... *sigh* Pel胤cula...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 0 4][f 3 1 1 0 0 19][f 6 1 2 0 0 4]Cine... *suspiro* Pel胤cula...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 12 0 1][f 3 1 1 0 0 20]Un monstruo de pel胤cula...[n][f 1 3 65535][f 1 1][e]

@@ -1,4 +1,4 @@
-﻿[msg MSG_000]
+[msg MSG_000]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]La sala de proyecci吋n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
@@ -30,7 +30,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 6][f 3 1 1 0 0 8]Espero que no te ataque... Ten cuidado,.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]夷...?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 2]Se siente muy raro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21]Bien... 夷Est茨n seguros de que est茨 bien que[n]haga esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 0][f 6 1 3 0 0 2]Whoa! 斡Es s雨per esponjoso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 0][f 6 1 3 0 0 2]斡Whoa! 斡Es s雨per esponjoso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 23]Bueno, hemos aprendido que es el茨stico, pero[n]parece que no habla.[n][f 1 3 65535][f 1 1][e]

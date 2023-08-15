@@ -1,4 +1,4 @@
-﻿[msg MSG_000 [Una Mujer Graciosa]]
+[msg MSG_000 [Una Mujer Graciosa]]
 [f 0 5 65278][f 2 1][f 4 6 65 5 0 1][f 4 6 81 1 2 6][f 4 6 84 0 2 3][f 3 1 1 0 0 1]夷Puedes detenerte? Est茨s asustando a[n]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 2 2 0][f 3 1 1 0 0 6]Me llamo Nagi. Soy la comisaria de este cine.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 8 1 1][f 3 1 1 0 0 7]夷斡Un comisario!? 斡Este Cine no est茨[n]abandonado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 8 1 1][f 3 1 1 0 0 7]夷斡Una comisaria!? 斡Este Cine no est茨[n]abandonado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 6 3 0][f 3 1 1 0 0 8]夷Podr胤a ser... que todos ustedes tambi姻n han[n]estado atrapados aqu胤?[n][f 1 3 65535][f 1 1][e]
@@ -28,7 +28,7 @@
 [msg MSG_009 [Nagi]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 84 14 2 0][f 3 1 1 0 0 10]S胤... Todo parece incre胤ble, pero sucedi吋 en[n]un abrir y cerrar de ojos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Cuando llegu姻, todos los clientes hab胤an[n]desaparecido y la entrada estaba cerrada...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 84 4 2 0][f 3 1 1 0 0 12]Comenc姻 r茨pidamente a buscar en el Cine,[n]luego encontr姻 a... Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 4 2 0][f 3 1 1 0 0 12]Comenc姻 r茨pidamente a buscar en el Cine,[n]luego encontr姻 a... Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 13]...[n][f 1 3 65535][f 1 1][e]
@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 1 0 3][f 4 6 81 0 2 6][f 3 1 1 0 0 17]Ah, u-um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Futaba]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 6 1 0][f 3 1 1 0 0 18]S胤, espera?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 6 1 0][f 3 1 1 0 0 18]S胤... 夷espera?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 19]Est茨s temblando mucho...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Nagi]]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 81 6 2 0][f 3 1 1 0 0 37]Oh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 2 0][f 4 6 81 2 2 0][f 3 1 1 0 0 38]夷Nagi-san? Uh...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 2 0][f 4 6 81 2 2 0][f 3 1 1 0 0 38]夷Nagi? Uh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 1][f 3 1 1 0 0 0]Hikari est茨 susurrando a Nagi...[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 0 0 0][f 3 1 1 0 0 39][f 6 1 2 0 0 4]夷Qu姻 pasa con los susurros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 40]She could just tell us herself―right,[n][f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 40]Podr胤a dec胤rnoslo ella misma,[n]夷no [f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_034 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Te tiene miedo, Ryuji.[f 2 7 1 64 0 32][e]
