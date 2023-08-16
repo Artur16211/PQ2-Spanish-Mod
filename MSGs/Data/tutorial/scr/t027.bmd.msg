@@ -1,5 +1,5 @@
-﻿[msg MSG_TUTORIAL_AUTO_RECOVE]
-[f 0 5 65278][f 2 1]Presionar [f 0 1 2]START[f 0 1 0] mientras que dentro del laberinto se activar茨 [f 0 1 2][n][n]Recuperaci吋n autom茨tica[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Auto Recuperaci吋n [f 0 1 2] Autom茨ticamente utiliza [f 0 1 0][n]las habilidades m茨s[n]吋ptimas para curar.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Esto puede [f 0 1 2] sanar a toda la fiesta[f 0 1 0][n]. 斡No te olvides si la situaci吋n[n]lo pide![n][f 1 1][e]
+[msg MSG_TUTORIAL_AUTO_RECOVE]
+[f 0 5 65278][f 2 1]Pressing [f 0 1 2]START[f 0 1 0] while inside the[n]labyrinth will trigger [f 0 1 2]Auto Recovery[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Auto Recovery [f 0 1 2]automatically uses[f 0 1 0] the[n]most optimum skills to heal.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]This can [f 0 1 2]heal the entire party[f 0 1 0]. Don't[n]forget about it if the situation calls for it![n][f 1 1][e]
 

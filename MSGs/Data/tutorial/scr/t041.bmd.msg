@@ -1,9 +1,9 @@
-﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]　Blank Las tarjetas se utilizan en [f 0 1 2]Sacrifice Fusions[f 0 1 0][n]en la Sala Velvet. Utilice una tarjeta blanca para llevar a cabo una [f 0 1 2][n][n]habilidad espec胤fica[f 0 1 0][n]de la Sub-Persona sacrificada[n]a la que desea fortalecer.[n][f 1 1][e]
+[msg BTL_TUTORIAL_mes01]
+[f 0 5 65278][f 2 1]　[n]Blank Cards are used in [f 0 1 2]Sacrifice[n]Fusions[f 0 1 0] in the Velvet Room. Use a Blank[n]Card to carry over a [f 0 1 2]specific skill[f 0 1 0] from[n]the sacrificed Sub-Persona to the one[n]you want to strengthen.[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]S吋lo las habilidades que est茨n [f 0 1 2] iluminadas en la lista de habilidades[f 0 1 0][n][n]se pueden llevar a cabo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Only skills that are [f 0 1 2]highlighted on the[n]skill list[f 0 1 0] can be carried over.[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes03]
-[f 0 5 65278][f 2 1]　A veces puede obtener una tarjeta blanca[n]cuando [f 0 1 2] derrota una sombra rara o una FOE[f 0 1 0][n]. Son muy valiosos; no[n]necesitar茨s dejar que una gran habilidad[n]vaya a desperdiciar s吋lo porque est茨s[n]sacrificando a un Sub-Persona.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]　[n]You can sometimes obtain a Blank Card[n]when you [f 0 1 2]defeat a Rare Shadow or an[n]FOE[f 0 1 0]. They're quite valuable; you won't[n]need to let a great skill go to waste just[n]because you're sacrificing a Sub-Persona.[n][f 1 1][e]
 

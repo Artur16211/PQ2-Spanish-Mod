@@ -1,8 +1,8 @@
-﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Algunas habilidades pueden infligir [f 0 1 2][n]a saludos de estado[f 0 1 0], que son[n]efectos negativos sobre los caracteres.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Las enfermedades del estado pueden impedir[n]que alguien act雨e, o incluso causar da隠os.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Si los aliados est茨n afectados con enfermedades[n]de estado, trate de curarlos lo antes[n]posible![n][f 1 1][e]
+[msg BTL_TUTORIAL_mes01]
+[f 0 5 65278][f 2 1]Some skills can inflict [f 0 1 2]status ailments[f 0 1 0],[n]which are negative effects on characters.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Status ailments may prevent someone[n]from acting, or even deal damage.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]If allies are afflicted with status ailments,[n]try to cure them as soon as possible![n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]　Adem茨s, tenga en cuenta que no es s吋lo su[n]equipo que es vulnerable a las dolencias[n]de estado; usted puede infligirlas en[n]Sombras, tambi姻n! Busque entre los miembros[n]de su equipo para ataques o habilidades[n]que tienen la oportunidad de causar un[n]estado de enfermedad, y utilizarlos a su[n]ventaja.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]　[n]Also, keep in mind that it's not just your[n]team that's vulnerable to status ailments;[n]you can inflict them on Shadows, too![n]Search among your team members for[n]attacks or skills that have a chance of[n]causing a status ailment, and use them to[n]your advantage.[n][f 1 1][e]
 

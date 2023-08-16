@@ -1,6 +1,6 @@
-﻿[msg MSG_NAVI_TUTORIAL]
-[f 0 5 65278][f 2 1]　Debido a la adici吋n de un nuevo miembro,[n]ahora puede especializar navegantes en ambos [f 0 1 2][n]combat[f 0 1 0] o [f 0 1 2]exploraci吋n[f 0 1 0][n]. Haga esto en [f 0 1 2][n]Apoyo[f 0 1 0] bajo Partido mientras[n]en el Cine.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Los navegantes tienen ambos [f 0 1 2]combat-only[f 0 1 0][n]habilidades y [f 0 1 2] habilidades de explotaci吋n solamente[f 0 1 0][n][n]. Si clasificas a los navegantes en estas especialidades, ellos solo usar茨n las habilidades de la especialidad que has elegido para ellos[f 0 1 0][n][n][n].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Ahora puede cambiar la voz [f 0 1 2]nav胤[f 0 1 0][n]. Si usted ha comprado cualquier voz del DLC navi, presione [f 0 1 2][n]START[f 0 1 0][n]para cambiar la voz.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]"Navi Voice" [f 0 1 2] solo cambia la voz[f 0 1 0][n], no las habilidades del navegador[n]de combate o exploraci吋n.[n][f 1 1][e]
+[msg MSG_NAVI_TUTORIAL]
+[f 0 5 65278][f 2 1]　[n]Due to the addition of a new member,[n]you can now specialize navigators in[n]either [f 0 1 2]combat[f 0 1 0] or [f 0 1 2]exploration[f 0 1 0]. Do this[n]in [f 0 1 2]Support[f 0 1 0] under Party while in the[n]theater.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]　[n]Navigators have both [f 0 1 2]combat-only[f 0 1 0] skills[n]and [f 0 1 2]exploration-only[f 0 1 0] skills. If you sort[n]the navigators into these specialties, they[n]will [f 0 1 2]only use the skills of the specialty[n]you've chosen for them[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]　[n]You can now change the [f 0 1 2]navi voice[f 0 1 0].[n]If you have purchased any DLC navi[n]voices, press [f 0 1 2]START[f 0 1 0] to change the voice.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]　[n]"Navi Voice" [f 0 1 2]only changes the voice[f 0 1 0],[n]not the skills of either the combat or[n]exploration navigator.[n][f 1 1][e]
 

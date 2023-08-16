@@ -211,9 +211,9 @@ def run_program():
             subprocess.run([atlus_script_tools_path, input_file_path,
                             "-Decompiled", "-Library", "PQ2", "-Encoding", "SJ"])
 
-    def PEImport(input_file_path):
-        subprocess.run([personaeditor_path, input_file_path,
-                        '-impall', '-save', input_file_path])
+    # PersonaEditor functions
+    def PEExport(input_file_path):
+        subprocess.run([personaeditor_path, input_file_path, '-expall'])
 
     # Delete all files that are not .msg or .bf
     # print("Deleting all files that are not .msg or .bf")
@@ -232,11 +232,19 @@ def run_program():
                 shutil.copytree(file.path, os.path.join(
                     output_folder, file.name))
 
-    # print("Compiling all the .bmd files")
+    # Export all the .bmd files in the "Output" folder with PersonaEditor
+    print("Exporting all the .bmd files in the Output folder")
+    for root, dirs, files in os.walk(output_folder):
+        for msg_file in files:
+            if msg_file.lower().endswith('.bf'):
+                # print(f"Exporting {msg_file}")
+                PEExport(os.path.join(root, msg_file))
+
+    # print("Decomp all the .bmd files")
     for root, dirs, files in os.walk(output_folder):
         for msg_file in files:
             if msg_file.lower().endswith('.bmd'):
-                # print(f"Compiling {msg_file}")
+                # print(f"Decomp {msg_file}")
                 ASCDecompile(os.path.join(root, msg_file))
 
     # Change all the endwith .bmd.bmd to .bmd
