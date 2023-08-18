@@ -1,10 +1,10 @@
 [msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Skills used by a battle navigator are called[n][f 0 1 2]Support Skills[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Las habilidades utilizadas el navegador se llaman[n][f 0 1 2]Habilidades de Soporte[f 0 1 0].[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]Support Skills do not use SP. Rather, they[n]use the [f 0 1 2]Party Meter[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Las Habilidades de Soporte no utilizan puntos de habilidad (PE). En su lugar, utilizan el [f 0 1 2]Indicador de Grupo[f 0 1 0].[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes03]
-[f 0 5 65278][f 2 1]　[n]Throughout battle, the Party Meter fills[n]whenever [f 0 1 2]a party member attacks a[n]Shadow[f 0 1 0], and also whenever [f 0 1 2]a party[n]member takes damage[f 0 1 0]. The gauge is[n]completely full at 5 points.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]Support Skills allow the battle navigator[n]to join in! And since the Party Meter will[n]replenish as long as you keep fighting,[n]you should use Support Skills often.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]A lo largo de la batalla, el Indicador de Grupo se llena[n] cada vez que un miembro del grupo ataca a una[n] Sombra[f 0 1 0], y tambi姻n cada vez que un miembro del grupo[n] recibe da隠o[f 0 1 0]. La barra se llena[n] completamente con 5 puntos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]斡Las Habilidades de Soporte permiten que el navegador[n]se una a la batalla! Y dado que el Indicador de Grupo se[n]repondr茨 mientras sigas luchando,[n]deber胤as usar las Habilidades de Soporte con frecuencia.[n][f 1 1][e]
 

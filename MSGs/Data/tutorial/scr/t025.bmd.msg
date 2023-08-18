@@ -1,7 +1,7 @@
 [msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Some Shadows have a special barrier[n]known as the [f 0 1 2]Affinity Barrier[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Algunas Sombras tienen una barrera especial conocida como la [f 0 1 2]Barrera de Afinidad[f 0 1 0].[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]　[n]When its Affinity Barrier is up, a Shadow[n]is resistant to your attacks' affinities.[n]However, if you [f 0 1 2]deal enough damage[f 0 1 0] or[n][f 0 1 2]meet certain other conditions[f 0 1 0], the barrier[n]will deactivate, and the Shadow's[n]resistance will change.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]When the Affinity Barrier is deactivated,[n]the [f 0 1 2]Shadow will visibly change[f 0 1 0]. This will[n]also be reflected in the Shadow's data if[n]you Analyze it.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Cuando su Barrera de Afinidad est茨 activa, una Sombra[n]es resistente a las afinidades de tus ataques.[n]Sin embargo, si infliges [f 0 1 2]suficiente da隠o[f 0 1 0] o[n][f 0 1 2]cumples ciertas condiciones[f 0 1 0], la barrera[n]se desactivar茨 y la resistencia de la Sombra[n]cambiar茨.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Cuando la Barrera de Afinidad se desactiva, la [f 0 1 2]Sombra cambiar茨 visiblemente[f 0 1 0]. Esto tambi姻n se reflejar茨 en los datos de la Sombra si[n]la Analizas.[n][f 1 1][e]
 
