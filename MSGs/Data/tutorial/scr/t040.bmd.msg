@@ -1,4 +1,4 @@
 [msg IKENIE_MSG]
-[f 0 5 65278][f 2 1]　[n]For a [f 0 1 2]Sacrifice Fusion[f 0 1 0] you will need[n]money, and also a Sub-Persona to serve[n]as the sacrifice. This process can[n]strengthen both your [f 0 1 2]main Persona[f 0 1 0][n]and your [f 0 1 2]Sub-Persona[f 0 1 0], but not at the[n]same time.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]Your strengthened Personas will[n]expedite your investigation and perform[n]better in combat. Consider Sacrifice[n]Fusions whenever you have some extra[n]money and extra Sub-Personas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Para una [f 0 1 2]Fusi吋n de Sacrificio[f 0 1 0] necesitar茨s dinero, y tambi姻n una Sub-Persona para servir como sacrificio. Este proceso puede fortalecer tanto tu [f 0 1 2]Persona principal[f 0 1 0] como tu [f 0 1 2]Sub-Persona[f 0 1 0], pero no al mismo tiempo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Tus Personas fortalecidas acelerar茨n tu investigaci吋n y se desempe隠ar茨n mejor en combate. Considera las Fusiones de Sacrificio siempre que tengas algo de dinero extra y Sub-Personas adicionales.[n][f 1 1][e]
 

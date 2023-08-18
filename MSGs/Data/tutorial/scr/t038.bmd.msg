@@ -1,7 +1,7 @@
 [msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]In special screenings, as your allies' bond[n]grows, they may acquire [f 0 1 2]Unison Skills[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]En proyecciones especiales, a medida que el v胤nculo entre tus aliados crece, pueden adquirir [f 0 1 2]Habilidades Un胤sonas[f 0 1 0].[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]　[n]A Unison Skill is like a follow-up attack,[n]but performed by certain party members[n]rather than back-up members. Unison[n]Skills can have dramatic results such as[n][f 0 1 2]heavy damage[f 0 1 0] or [f 0 1 2]a high chance of[n]enemy knockdowns[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]The more Unison Skills your team[n]acquires through ally bonds, the higher[n]the chance of actually being able to use[n]one. Acquire Unison Skills by taking on[n]the challenge of [f 0 1 2]special screenings[f 0 1 0]![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Una Habilidad Un胤sona es como un ataque de seguimiento, pero realizado por ciertos miembros del grupo en lugar de miembros de respaldo. Las Habilidades Un胤sonas pueden tener resultados dram茨ticos como [f 0 1 2]gran da隠o[f 0 1 0] o [f 0 1 2]una alta probabilidad de derribar a los enemigos[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Cuanto m茨s Habilidades Un胤sonas adquiera tu equipo a trav姻s de los v胤nculos entre aliados, mayor ser茨 la probabilidad de poder usar una. Adquiere Habilidades Un胤sonas al enfrentar el desaf胤o de las [f 0 1 2]proyecciones especiales[f 0 1 0].[n][f 1 1][e]
 

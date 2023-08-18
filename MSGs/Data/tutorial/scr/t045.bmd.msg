@@ -1,11 +1,11 @@
 [msg msg000_MSG]
-[f 0 5 65278][f 2 1]　[n]You can perform a [f 0 1 2]Persona Fusion[f 0 1 0],[n]where you fuse multiple Personas[n]together to summon a new one.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n][f 0 1 2]You will lose the original Personas[f 0 1 0], but[n]the resulting one will inherit some of[n]their skills, and its level may be higher[n][f 0 1 2](although it can't exceed your own level)[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]Your own level is called the [f 0 1 2]Wild Level[f 0 1 0],[n]and it is the highest in the party.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Puedes realizar una [f 0 1 2]Fusi吋n de Personas[f 0 1 0], donde fusionas varias Personas para invocar una nueva.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Perder茨s las Personas originales[f 0 1 0], pero la resultante heredar茨 algunas de sus habilidades y su nivel podr胤a ser m茨s alto[f 0 1 2](aunque no pueden superar tu nivel)[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Tu propio nivel se llama [f 0 1 2]Nivel de Comod胤n[f 0 1 0], y es el m茨s alto en el grupo.[n][f 1 1][e]
 
 [msg msg001_MSG]
-[f 0 5 65278][f 2 1]　[n]You can also prevent losing a Persona[n]to fusion by making a copy of it[n]beforehand. In the 2-Layer Fusion[n]menu, press the [f 0 1 2]X Button[f 0 1 0] while the[n]Persona is selected, and you can then[n]turn the [f 0 1 2]copy[f 0 1 0] option on or off.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]If you don't make a copy of either[n]Persona, then fusing them costs no[n]money. They will simply be lost.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]If you do decide to copy a Persona,[n]then you will have to [f 0 1 2]pay yen to fuse it[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]The price will be the same as when you[n]summon a Persona from the "Persona[n]Film." Try many different fusion combos[n]to make your party super-strong![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Tambi姻n puedes evitar perder una Persona en la fusi吋n haciendo una copia de ella antes. En el men雨 de Fusi吋n de 2 Capas, presiona el [f 0 1 2]Bot吋n X[f 0 1 0] mientras la Persona est姻 seleccionada, y luego puedes activar o desactivar la opci吋n de [f 0 1 2]copia[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Si no haces una copia de ninguna de las Personas, entonces la fusi吋n no tendr茨 costo. Simplemente se perder茨n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]Si decides hacer una copia de una Persona, entonces tendr茨s que [f 0 1 2]pagar yenes para fusionarla[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]El precio ser茨 el mismo que cuando invocas una Persona desde el "Persona Film". 斡Prueba diferentes combinaciones para fortalecer tu grupo![n][f 1 1][e]
 

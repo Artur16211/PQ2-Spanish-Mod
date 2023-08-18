@@ -1,4 +1,4 @@
 [msg EVE_FLAG_QUEST_TUTO_TXT_]
-[f 0 5 65278][f 2 1]　[n]At the [f 0 1 2]box office[f 0 1 0], you can accept a[n]special screening request. You'll be[n]given a mission, and if you manage to[n]complete it, you'll [f 0 1 2]receive a reward[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]　[n]The special screening will end when[n]you complete the mission, and [f 0 1 2]special[n]screenings that have ended cannot be[n]accessed again[f 0 1 0]. That's why it's worth it[n]to search every inch of the labyrinth[n]before fulfilling the mission. Of course,[n]you can also just unlock more special[n]screenings by continuing your journey[n]or by [f 0 1 2]meeting certain requirements[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]En la [f 0 1 2]taquilla[f 0 1 0], puedes aceptar una solicitud de proyecci吋n especial. Se te asignar茨 una misi吋n y, si logras completarla, recibir茨s una [f 0 1 2]recompensa[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]La proyecci吋n especial terminar茨 cuando completes la misi吋n, y las proyecciones especiales que han terminado no pueden volver a ser accedidas. Por eso, vale la pena buscar cada rinc吋n del laberinto antes de cumplir la misi吋n. Por supuesto, tambi姻n puedes desbloquear m茨s proyecciones especiales al continuar tu viaje o al [f 0 1 2]cumplir ciertos requisitos[f 0 1 0].[n][f 1 1][e]
 
