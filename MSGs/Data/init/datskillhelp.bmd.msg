@@ -1,32 +1,32 @@
-﻿[msg skill_000]
+[msg skill_000]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_001]
-[f 0 5 65278][f 2 1]Ataque f胤sico con arma equipada.[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico con arma equipada.[n][e]
 
 [msg skill_002]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_003]
-[f 0 5 65278][f 2 1]Ataque de fuego medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_004]
-[f 0 5 65278][f 2 1]Ataque de fuego pesado (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_005]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_006]
-[f 0 5 65278][f 2 1]Ataque de Fuego Medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_007]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_008]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero que[n]salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_009]
-[f 0 5 65278][f 2 1]Ataque de fuego severo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego severo.[n](1 Enemigo)[n][e]
 
 [msg skill_00A]
 [f 0 5 65278][f 2 1]0x00A[n][e]
@@ -41,28 +41,28 @@
 [f 0 5 65278][f 2 1]0x00D[n][e]
 
 [msg skill_00E]
-[f 0 5 65278][f 2 1]Ataque de Viento Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_00F]
-[f 0 5 65278][f 2 1]Ataque de viento medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento medio.[n](1 Enemigo)[n][e]
 
 [msg skill_010]
-[f 0 5 65278][f 2 1]Ataque de viento pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_011]
-[f 0 5 65278][f 2 1]Ataque de Viento Ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_012]
-[f 0 5 65278][f 2 1]Ataque de viento medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_013]
-[f 0 5 65278][f 2 1]Ataque de viento pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_014]
-[f 0 5 65278][f 2 1]2-3 Ataques lijeros de viento a objetivos[n]aleatorios. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]2-3 Ataques lijeros de Viento a objetivos[n]aleatorios. (1 fila)[n][e]
 
 [msg skill_015]
-[f 0 5 65278][f 2 1]Un ataque de viento severo que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento severo que salpica[n]a ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_016]
 [f 0 5 65278][f 2 1]0x016[n][e]
@@ -77,31 +77,31 @@
 [f 0 5 65278][f 2 1]0x019[n][e]
 
 [msg skill_01A]
-[f 0 5 65278][f 2 1]Ataque de hielo ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_01B]
-[f 0 5 65278][f 2 1]Ataque de hielo medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo medio.[n](1 Enemigo)[n][e]
 
 [msg skill_01C]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_01D]
-[f 0 5 65278][f 2 1]Ligero ataque de hielo. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Hielo.[n](Todos los enemigos)[n][e]
 
 [msg skill_01E]
-[f 0 5 65278][f 2 1]Ataque de hielo medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_01F]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_020]
-[f 0 5 65278][f 2 1]2-4 Ataques de hielo medio a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-4 Ataques de Hielo medio a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_021]
-[f 0 5 65278][f 2 1]Un ataque de hielo grave. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque de Hielo grave.[n](1 Enemigo)[n][e]
 
 [msg skill_022]
-[f 0 5 65278][f 2 1]Ligero ataque de hielo que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Hielo que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_023]
 [f 0 5 65278][f 2 1]0x023[n][e]
@@ -116,58 +116,58 @@
 [f 0 5 65278][f 2 1]0x026[n][e]
 
 [msg skill_027]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_028]
-[f 0 5 65278][f 2 1]Ataque medio Elec. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque medio Elec.[n](1 Enemigo)[n][e]
 
 [msg skill_029]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_02A]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_02B]
-[f 0 5 65278][f 2 1]Ataque medio Elec. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque medio Elec.[n](Todos los enemigos)[n][e]
 
 [msg skill_02C]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_02D]
 [f 0 5 65278][f 2 1]0x02D[n][e]
 
 [msg skill_02E]
-[f 0 5 65278][f 2 1]Un ataque severo de Elec. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque severo de Elec.[n](1 Enemigo)[n][e]
 
 [msg skill_02F]
-[f 0 5 65278][f 2 1]Ataque proporcional Elec. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque proporcional Elec.[n](1 Enemigo)[n][e]
 
 [msg skill_030]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero.[n](1 fila)[n][e]
 
 [msg skill_031]
-[f 0 5 65278][f 2 1]Ataque proporcional Elec. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque proporcional Elec.[n](Todos los enemigos)[n][e]
 
 [msg skill_032]
 [f 0 5 65278][f 2 1]0x032[n][e]
 
 [msg skill_033]
-[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_034]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_035]
-[f 0 5 65278][f 2 1]Ataque severo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_036]
 [f 0 5 65278][f 2 1]0x036[n][e]
 
 [msg skill_037]
-[f 0 5 65278][f 2 1]Ataque Extremo Todopoderoso. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Extremo Todopoderoso.[n](1 Enemigo)[n][e]
 
 [msg skill_038]
-[f 0 5 65278][f 2 1]Ataque Extremo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Extremo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_039]
 [f 0 5 65278][f 2 1]0x039[n][e]
@@ -182,16 +182,16 @@
 [f 0 5 65278][f 2 1]0x03C[n][e]
 
 [msg skill_03D]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque basado en[n]bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque basado en bendici吋n)[n][e]
 
 [msg skill_03E]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque basado en[n]bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque basado en bendici吋n)[n][e]
 
 [msg skill_03F]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_040]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_041]
 [f 0 5 65278][f 2 1]0x041[n][e]
@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1]0x042[n][e]
 
 [msg skill_043]
-[f 0 5 65278][f 2 1][f 0 1 2]Alta probabilidad de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Alta probabilidad de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_044]
 [f 0 5 65278][f 2 1]0x044[n][e]
@@ -215,16 +215,16 @@
 [f 0 5 65278][f 2 1]0x047[n][e]
 
 [msg skill_048]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque de Maldici吋n)[n][e]
 
 [msg skill_049]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque de Maldici吋n)[n][e]
 
 [msg skill_04A]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_04B]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_04C]
 [f 0 5 65278][f 2 1]0x04C[n][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1]0x04D[n][e]
 
 [msg skill_04E]
-[f 0 5 65278][f 2 1][f 0 1 2]Alta probabilidad de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Alta probabilidad de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_04F]
 [f 0 5 65278][f 2 1]0x04F[n][e]
@@ -248,34 +248,34 @@
 [f 0 5 65278][f 2 1]0x052[n][e]
 
 [msg skill_053]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_054]
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_055]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_056]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_057]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de ceguera[f 0 1 0]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de ceguera[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_058]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de ceguera[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de ceguera[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_059]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_05A]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](Todoslos enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_05B]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_05C]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_05D]
 [f 0 5 65278][f 2 1]0x05D[n][e]
@@ -386,172 +386,172 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_081]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. [f 0 1 2] Reduce su ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. [f 0 1 2]Reduce[n]su ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_082]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 2]Reduce su ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. [f 0 1 2]Reduce[n]su ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_083]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que se salpica a ambos[n]lados. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero que se salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_084]
-[f 0 5 65278][f 2 1]2 ataques F胤sicos ligeros. (1 Enemigo) [f 0 1 3][n]M茨s fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2 ataques F胤sicos ligeros. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_085]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad media de agilidad Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de agilidad Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_086]
-[f 0 5 65278][f 2 1]3 ataques F胤sicos medios. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3 ataques F胤sicos medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_087]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_088]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad media de agilidad Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad[n]media de agilidad Restricci吋n[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_089]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad de media de Hex[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad de[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_08A]
-[f 0 5 65278][f 2 1]2-6 ataques f胤sicos ligeros a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]2-6 ataques F胤sicos ligeros a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_08B]
-[f 0 5 65278][f 2 1]Ataque de hielo ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo ligero que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_08C]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. [f 0 1 4]Si no se hace da隠o durante el turno, el ataque extra activa[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. [f 0 1 4]Si no se hace da隠o durante el[n]turno, el ataque extra activa[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_08D]
 [f 0 5 65278][f 2 1]※[n][e]
 
 [msg skill_08E]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, [f 0 1 2] con alta probabilidad de veneno[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, [f 0 1 2]con alta[n]probabilidad de veneno[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_08F]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, [f 0 1 2] da隠o m茨s alto si el objetivo tiene estado alterado[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, [f 0 1 2]da隠o m茨s alto si[n]el objetivo tiene estado alterado[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_090]
-[f 0 5 65278][f 2 1]2-6 ataques f胤sicos medios. (1 Enemigo) [f 0 1 3][n]M茨s fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2-6 ataques F胤sicos medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_091]
-[f 0 5 65278][f 2 1]Ligero ataque Psy que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque Psíquico que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_092]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad media de Restricci吋n M茨gica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Restricci吋n M茨gica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_093]
-[f 0 5 65278][f 2 1]Ataques f胤sicos ligeros a objetivos aleatorios,[n][f 0 1 4] m茨s fuerte para cada golpe tomado[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataques F胤sicos ligeros a objetivos aleatorios, [f 0 1 4] m茨s[n]fuerte para cada golpe tomado[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg skill_094]
 [f 0 5 65278][f 2 1]※[n][e]
 
 [msg skill_095]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de medio de Restricci吋n f胤sica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad de[n]medio de Restricci吋n f胤sica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_096]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que perfora a la fila[n]trasera. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_097]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n de Agilidad [f 0 1 0].[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n de Agilidad[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_098]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n f胤sica[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n f胤sica[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_099]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_09A]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que perfora a la fila[n]trasera. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09B]
-[f 0 5 65278][f 2 1]2 Ataques f胤sicos pesados. (1 Enemigo) [f 0 1 3][n]M茨s fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2 Ataques F胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09C]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. [f 0 1 2]Baja el ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado. [f 0 1 2]Baja el[n]ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_09D]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado que afecta hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado que afecta hasta la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09E]
-[f 0 5 65278][f 2 1]6-8 Ataques f胤sicos pesados. (1 Enemigo) [f 0 1 3][n]M茨s fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]6-8 Ataques F胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09F]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, [f 0 1 2] da隠o m茨s alto si el objetivo est茨 atado, pero disipa Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, [f 0 1 2]da隠o m茨s alto si[n]el objetivo est茨 atado, pero disipa Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0A0]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A1]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad media de dormir[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]media de dormir[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0A2]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero inmediato. [f 0 1 2]Mejor defensa[f 0 1 0][n]por 3 turnos. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero inmediato. [f 0 1 2]Mejor[n]defensa[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_0A3]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A4]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (Todos los enemigos)[n][f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A5]
-[f 0 5 65278][f 2 1]Los f胤sicos pesados atacan a ambos lados. (1[n]Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Los F胤sicos pesados atacan a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A6]
-[f 0 5 65278][f 2 1]Ataque de hielo medio que salpica a cualquier[n]lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo medio que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0A7]
-[f 0 5 65278][f 2 1]4 Ataques f胤sicos pesados. (1 Enemigo) [f 0 1 3][n]M茨s fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]4 Ataques F胤sicos pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A8]
-[f 0 5 65278][f 2 1]5-7 ataques f胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]5-7 ataques F胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A9]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad media de Confusi吋n[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]media de Confusi吋n[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_0AA]
-[f 0 5 65278][f 2 1]Ataque nuclear ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear ligero que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_0AB]
-[f 0 5 65278][f 2 1]Medium Ataque f胤sico. (Todos los enemigos)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0AC]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico grave. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0AD]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_0AE]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 4]Si no se hace da隠o durante el turno, el ataque adicional activa[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. [f 0 1 4]Si no se hace da隠o durante[n]el turno, el ataque adicional activa[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_0AF]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_0B0]
-[f 0 5 65278][f 2 1]Ataque severo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_0B1]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. [f 0 1 4]Si no se hace da隠o durante el turno, el ataque adicional activa[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado. [f 0 1 4]Si no se hace da隠o durante[n]el turno, el ataque adicional activa[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0B2]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico grave. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B3]
-[f 0 5 65278][f 2 1]3 ataques f胤sicos pesados a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]3 ataques F胤sicos pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B4]
-[f 0 5 65278][f 2 1]8 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]8 ataques F胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B5]
-[f 0 5 65278][f 2 1]3-8 ataques f胤sicos pesados a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]3-8 ataques F胤sicos pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B6]
-[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]3-6 ataques F胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B7]
-[f 0 5 65278][f 2 1]3-10 Ataques f胤sicos graves a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]3-10 Ataques F胤sicos graves a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B8]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de muerte instant茨nea[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad de[n]muerte instant茨nea[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0B9]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
@@ -563,58 +563,58 @@
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_0BC]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad de media de veneno[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]de media de veneno[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_0BD]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0BE]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0BF]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C0]
-[f 0 5 65278][f 2 1]Ataque de viento ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento ligero que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C1]
-[f 0 5 65278][f 2 1]2 ataques medio Todopoderoso. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]2 ataques medio Todopoderoso.[n](1 Enemigo)[n][e]
 
 [msg skill_0C2]
 [f 0 5 65278][f 2 1]2-5 medios Todopoderoso, ataca a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_0C3]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado, con [f 0 1 2] probabilidad de asesinato instant茨neo[f 0 1 0][n][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado, con [f 0 1 2]probabilidad[n]de asesinato instant茨neo[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg skill_0C4]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_0C5]
-[f 0 5 65278][f 2 1]Ataque severo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_0C6]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico medio que se salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico medio que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C7]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C8]
-[f 0 5 65278][f 2 1]Ataque de fuego medio que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C9]
-[f 0 5 65278][f 2 1]Ataque de fuego pesado que salpica a cualquier[n]lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0CA]
-[f 0 5 65278][f 2 1]Ataque de viento medio que brota a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento medio que brota a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0CB]
-[f 0 5 65278][f 2 1]Ataque de viento pesado que salpica a cualquier[n]lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0CC]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad media de Hex[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_0CD]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad media de Hex[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_0CE]
 [f 0 5 65278][f 2 1]0x0CE[n][e]
@@ -626,19 +626,19 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_0D1]
-[f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0D2]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0D3]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n completa de PS[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n completa de PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0D4]
-[f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0]. (1 fila)[n](S吋lo usable en la batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0].[n](1 fila) (S吋lo usable en la batalla)[n][e]
 
 [msg skill_0D5]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0]. (1[n]fila) (S吋lo usable en la batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0].[n](1 fila) (S吋lo usable en la batalla)[n][e]
 
 [msg skill_0D6]
 [f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0]. (Grupo)[n][e]
@@ -650,37 +650,37 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n completa de PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_0D9]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive y restablezca media PS[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Revive y restablezca media PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0DA]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive y restaura todos los PS[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Revive y restaura todos los PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0DB]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar desventajas[f 0 1 0]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eliminar desventajas[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg skill_0DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar desventajas[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eliminar desventajas[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_0DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_0DE]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente los PS y elimina estados[n]alterados[f 0 1 0]. (1 fila) (S吋lo[n]usable en batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente los PS y elimina estados alterados[f 0 1 0].[n](1 fila) (S吋lo usable en batalla)[n][e]
 
 [msg skill_0DF]
 [f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_0E0]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_0E1]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_0E2]
 [f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_0E3]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n PS completa. Elimina todos los[n]estados alterados y restricciones[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n PS completa. Elimina todos los[n]estados alterados y restricciones[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0E4]
 [f 0 5 65278][f 2 1]0x0E4[n][e]
@@ -689,67 +689,67 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_0E6]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el ataque[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el ataque[f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_0E7]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta enormemente el ataque[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta enormemente el[n]ataque[f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_0E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta las habilidades de enlace y la[n]probabilidad de da隠o de enlace[f 0 1 0] por[n]3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta las habilidades de enlace y la probabilidad[n]de da隠o de enlace[f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_0E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta las habilidades de enlace y la[n]probabilidad de de da隠o enlace[f 0 1 0] por[n]5 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta las habilidades de enlace y la probabilidad[n]de de da隠o enlace[f 0 1 0] por 5 turnos. (Propio)[n][e]
 
 [msg skill_0EA]
-[f 0 5 65278][f 2 1]Anula el siguiente ataque de Phys una vez.[n]Dura 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]Anula el siguiente ataque de Físico una vez.[n]Dura 3 turnos.[n][e]
 
 [msg skill_0EB]
-[f 0 5 65278][f 2 1]Aumenta la defensa f胤sica y de afinidad por[n]3 turnos.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la defensa f胤sica y de afinidad[n]por 3 turnos.[n][e]
 
 [msg skill_0EC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente la defensa[f 0 1 0] y la probabilidad[n]de ser atacado por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y la probabilidad[n]de ser atacado por 3 turnos. (Propio)[n][e]
 
 [msg skill_0ED]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protect an ally.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y Protege a un aliado.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_0EE]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Fila del usuario)[n][e]
 
 [msg skill_0EF]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_0F0]
-[f 0 5 65278][f 2 1]Tome ataques en lugar de cualquier aliado[n]bajo la mitad de PS por 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]Tome ataques en lugar de cualquier[n]aliado bajo la mitad de PS por 3 turnos.[n][e]
 
 [msg skill_0F1]
 [f 0 5 65278][f 2 1]Anula una enfermedad y Restricci吋n una vez[n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_0F2]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos.[n](1 fila)[n][e]
 
 [msg skill_0F3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos.[n](1 fila)[n][e]
 
 [msg skill_0F4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente la tasa cr胤tica[f 0 1 0] para 1 turno.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la tasa de cr胤ticos.[f 0 1 0] para 1 turno.[n](1 fila)[n][e]
 
 [msg skill_0F5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente la tasa cr胤tica[f 0 1 0] por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la tasa de cr胤ticos.[f 0 1 0] por 3 turnos.[n](Propio)[n][e]
 
 [msg skill_0F6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente la tasa cr胤tica[f 0 1 0] para 2[n]turnos. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la tasa de cr胤ticos.[f 0 1 0] para 2 turnos.[n](1 fila)[n][e]
 
 [msg skill_0F7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_0F8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_0F9]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_0FA]
-[f 0 5 65278][f 2 1]Triplica el ataque f胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Triplica el ataque F胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_0FB]
 [f 0 5 65278][f 2 1]Triplica el ataque m茨gico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
@@ -782,19 +782,19 @@
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_105]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el ataque[f 0 1 0] por 3 turnos. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce el ataque[f 0 1 0] por 3 turnos.[n](Todos los enemigos)[n][e]
 
 [msg skill_106]
 [f 0 5 65278][f 2 1][f 0 1 2]Reduce la defensa[f 0 1 0] por 3 turnos.[n](Todos los enemigos)[n][e]
 
 [msg skill_107]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la precisi吋n y evasi吋n[f 0 1 0] por[n]3 turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la precisi吋n y evasi吋n[f 0 1 0] por 3 turnos.[n](Todos los enemigos)[n][e]
 
 [msg skill_108]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_109]
-[f 0 5 65278][f 2 1]Triplica el ataque f胤sico del siguiente golpe[n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Triplica el ataque F胤sico del siguiente golpe[n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_10A]
 [f 0 5 65278][f 2 1]Triplica el ataque m茨gico del siguiente golpe[n]por 3 turnos. (Grupo)[n][e]
@@ -803,10 +803,10 @@
 [f 0 5 65278][f 2 1]0x10B[n][e]
 
 [msg skill_10C]
-[f 0 5 65278][f 2 1]Extender los temporizadores de estados[n]alterados y restricciones. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Extender los temporizadores de estados alterados[n]y restricciones. (Todos los enemigos)[n][e]
 
 [msg skill_10D]
-[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 2]Restricci吋n de MagialFuerzalAgilidad[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 2]Restricci吋n de[n]Magia/Fuerza/Agilidad[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_10E]
 [f 0 5 65278][f 2 1]0x10E[n][e]
@@ -818,112 +818,112 @@
 [f 0 5 65278][f 2 1]NO USTED[n][e]
 
 [msg skill_111]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina Potenciadores[f 0 1 0]. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina Potenciadores[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_112]
 [f 0 5 65278][f 2 1][f 0 1 4]Eliminar desventajas[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_113]
-[f 0 5 65278][f 2 1]Reduce el per胤odo de sobrecalentamiento en[n]2 Turnos.[n][e]
+[f 0 5 65278][f 2 1]Reduce el per胤odo de sobrecalentamiento[n]en 2 Turnos.[n][e]
 
 [msg skill_114]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Psy[f 0 1 0] por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Psíquico[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_115]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia Nuclear[f 0 1 0] por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia Nuclear[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_116]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al fuego[f 0 1 0] por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al Fuego[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_117]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de viento[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Viento[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_118]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de hielo[f 0 1 0] por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Hielo[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_119]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Elec[f 0 1 0] por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Elec[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_11A]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente la resistencia a la Bendici吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Bendici吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_11B]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la maldici吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Maldici吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_11C]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_11D]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_11E]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n [f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_11F]
-[f 0 5 65278][f 2 1][f 0 1 2]Reducir ataque[f 0 1 0] por 3 turnos. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reducir ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_120]
-[f 0 5 65278][f 2 1][f 0 1 2]Reducir defensa[f 0 1 0] por 3 turnos. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reducir defensa[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_121]
-[f 0 5 65278][f 2 1][f 0 1 2]Reducir precisi吋n y evasi吋n[f 0 1 0] por 3[n]turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reducir precisi吋n y evasi吋n[f 0 1 0][n]por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_122]
-[f 0 5 65278][f 2 1][f 0 1 2]Menor ataqueldefensa y precisi吋nlevasi吋n [f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Menor ataque/defensa y precisi吋n/[n]evasi吋n[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_123]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar ataqueldefensa y precisi吋nl evasi吋n[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumentar ataque/defensa y precisi吋n/[n]evasi吋n[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_124]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente la probabilidad de cr胤ticos[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la probabilidad de[n]cr胤ticos[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_125]
-[f 0 5 65278][f 2 1]3 Ataques Todopoderosos pesados, 1 cada turno.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]3 Ataques Todopoderosos pesados, 1 cada[n]turno. (Todos los enemigos)[n][e]
 
 [msg skill_126]
 [f 0 5 65278][f 2 1]0x126[n][e]
 
 [msg skill_127]
-[f 0 5 65278][f 2 1]3-6 Ataques F胤sicos pesados cada turno por[n]3 turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]3-6 Ataques F胤sicos pesados cada turno por 3[n]turnos. (Todos los enemigos)[n][e]
 
 [msg skill_128]
 [f 0 5 65278][f 2 1]0x128[n][e]
 
 [msg skill_129]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula 1 ataque[f 0 1 0] cada turno por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Anula 1 ataque[f 0 1 0] cada[n]turno por 3 turnos. (Grupo)[n][e]
 
 [msg skill_12A]
 [f 0 5 65278][f 2 1]0x12A[n][e]
 
 [msg skill_12B]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS y elimina los estados[n]alteradoslrestricciones [f 0 1 0] cada turno por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS y elimina los estados alterados/restricciones[n][f 0 1 0] cada turno por 3 turnos. (Grupo)[n][e]
 
 [msg skill_12C]
 [f 0 5 65278][f 2 1]0x12C[n][e]
 
 [msg skill_12D]
-[f 0 5 65278][f 2 1]Ataque mediano Psy que se salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque mediano Psíquico que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_12E]
-[f 0 5 65278][f 2 1]Ataque pesado Psy que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado Psíquico que salpica a ambos[n]lados. (1 Enemigo)[n][e]
 
 [msg skill_12F]
-[f 0 5 65278][f 2 1]Ataque nuclear medio que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_130]
-[f 0 5 65278][f 2 1]Ataque nuclear pesado que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_131]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad de dormir[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad[n]de dormir[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_132]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad de Confusi吋n[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad[n]de Confusi吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_133]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio inmediato. [f 0 1 2] Reduce la defensa[f 0 1 0][n]por 1 turno. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
 
 [msg skill_134]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado inmediato. [f 0 1 2] Reduce la defensa[f 0 1 0][n]por 1 turno. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
 
 [msg skill_135]
 [f 0 5 65278][f 2 1]0x135[n][e]
@@ -938,34 +938,34 @@
 [f 0 5 65278][f 2 1]0x138[n][e]
 
 [msg skill_139]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Desbloquea todos los detalles[n]de la afinidad. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Desbloquea todos los[n]detalles de la afinidad. (1 Enemigo)[n][e]
 
 [msg skill_13A]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Desbloquea todos los detalles[n]de la afinidad. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Desbloquea todos los[n]detalles de la afinidad. (1 Enemigo)[n][e]
 
 [msg skill_13B]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Menores costos de habilidad a 0[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Menores costos[n]de habilidad a 0[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_13C]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Menores costos de habilidad a 0[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Menores costos[n]de habilidad a 0[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_13D]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Extender los aumentos por 3[n]turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Extender los aumentos por[n]3 turnos adicionales. (Grupo)[n][e]
 
 [msg skill_13E]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Extender los aumentos por 3[n]turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Extender los aumentos por[n]3 turnos adicionales. (Grupo)[n][e]
 
 [msg skill_13F]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta el ataqueldefensa y precisi吋nlevasi吋n[f 0 1 0][n]por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque/defensa[n]y precisi吋n/evasi吋n[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_140]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Dar un efecto beneficioso al[n]azar. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Dar un efecto[n]beneficioso al azar. (Grupo)[n][e]
 
 [msg skill_141]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_142]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Huye de la batalla y el[n]telepuerto a la entrada del piso. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Huye de la batalla y el[n]telepuerto a la entrada del piso. (Grupo)[n][e]
 
 [msg skill_143]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -974,10 +974,10 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_145]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Alta probabilidad de evitar emboscadas enemigas[f 0 1 0][n].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Alta probabilidad de[n]evitar emboscadas enemigas[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_146]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Restaura 5% de PS cada turno[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restaura 5%[n]de PS cada turno[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_147]
 [f 0 5 65278][f 2 1]??[n][e]
@@ -989,163 +989,163 @@
 [f 0 5 65278][f 2 1]??[n][e]
 
 [msg skill_14A]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] PS al final de el turno[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] PS al final de[n]el turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_14B]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4] Incrementa ligeramente los art胤culos reunidos en Tesoros escondidos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4] Incrementa ligeramente los art胤culos[n]reunidos en Tesoros escondidos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_14C]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Incrementa en gran medida los art胤culos recogidos en Tesoros escondidos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Incrementa en gran medida los art胤culos[n]recogidos en Tesoros escondidos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_14D]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] PS al final de el turno[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] PS al final de[n]el turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_14E]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_14F]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Restauraci吋n ligera PS[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restauraci吋n[n]ligera PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_150]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Restauraci吋n moderada PS[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restauraci吋n[n]moderada PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_151]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Restauraci吋n ligera de PS al final del turno[f 0 1 0][n]por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restauraci吋n[n]ligera de PS al final del turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_152]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Permite que alguien act雨e[n]primero por turno. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Permite que alguien[n]act雨e primero por turno. (1 Aliado)[n][e]
 
 [msg skill_153]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Revive y restaura la mitad PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Revive y[n]restaura la mitad PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_154]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_155]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0][n]for 3 turns. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turns. (Grupo)[n][e]
 
 [msg skill_156]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_157]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta la precisi吋n y evasi吋n[f 0 1 0][n]por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la precisi吋n[n]y evasi吋n[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_158]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Restaura 20% de PS despu姻s de la batalla[f 0 1 0][n]. (Grupo)[n](Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restaura 20% de PS[n]despu姻s de la batalla[f 0 1 0]. (Grupo) (Auto)[n][e]
 
 [msg skill_159]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Restauraci吋n total PS despu姻s de la batalla[f 0 1 0][n].[n](Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restauraci吋n total PS[n]despu姻s de la batalla[f 0 1 0]. (Grupo) (Auto)[n][e]
 
 [msg skill_15A]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Probabilidad ligeramente menor de emboscadas en Tesoros escondidos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Probabilidad ligeramente menor de[n]emboscadas en Tesoros escondidos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_15B]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Probablemente menor de emboscadas en Tesoros escondidos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Probablemente menor de[n]emboscadas en Tesoros escondidos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_15C]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Excelente posibilidad de crear objetos raros en Tesoros escondidos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Excelente posibilidad de crear objetos[n]raros en Tesoros escondidos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_15D]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Aumenta enormemente la probabilidad de obtener objetos raros en Tesoros escondidos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta enormemente la probabilidad de obtener[n]objetos raros en Tesoros escondidos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_15E]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Anula todo el da隠o[f 0 1 0][n]por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
 
 [msg skill_15F]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Anula todo el da隠o[f 0 1 0][n]por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
 
 [msg skill_160]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Permitan que todos act雨en[n]primero por turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Permitan que todos[n]act雨en primero por turno. (Grupo)[n][e]
 
 [msg skill_161]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Dar un efecto beneficioso al[n]azar. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Dar un efecto[n]beneficioso al azar. (Grupo)[n][e]
 
 [msg skill_162]
-[f 0 5 65278][f 2 1][Navi] (Navi) Revive, PS restaurar, y eliminar todos[n]las restricciones y estados alterados.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi) Revive, PS restaurar, y eliminar[n]todos las restricciones y estados alterados. (Grupo)[n][e]
 
 [msg skill_163]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta el ataque y defensa[f 0 1 0][n]por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque[n]y defensa[f 0 1 0] por 1 turno. (Grupo)[n][e]
 
 [msg skill_164]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_165]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0][n]for 3 turns. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turns. (Grupo)[n][e]
 
 [msg skill_166]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Aumenta el EXP para esta[n]batalla en un 50%. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Aumenta el EXP para[n]esta batalla en un 50%. (Grupo)[n][e]
 
 [msg skill_167]
-[f 0 5 65278][f 2 1][Navi] (Navi) Apoya la ranura de curaci吋n.[n][e]
+[f 0 5 65278][f 2 1](Navi) Apoya la ranura de curaci吋n.[n][e]
 
 [msg skill_168]
 [f 0 5 65278][f 2 1]0x168[n][e]
 
 [msg skill_169]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Restaura PS y elimina todos[n]los estados alterados y restricciones.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Restaura PS y elimina todos[n]los estados alterados y restricciones. (Grupo)[n][e]
 
 [msg skill_16A]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Mayor probabilidad de obtener un ataque preventivo[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Mayor probabilidad[n]de obtener un ataque preventivo[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_16B]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra en el mapa los cofres[n]cercanos. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra en el mapa los[n]cofres cercanos. (Auto)[n][e]
 
 [msg skill_16C]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra una amplia gama de[n]cofres del tesoro en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama[n]de cofres del tesoro en el mapa. (Auto)[n][e]
 
 [msg skill_16D]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra pasajes ocultos[n]cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra pasajes ocultos[n]cercanos en el mapa. (Auto)[n][e]
 
 [msg skill_16E]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra una amplia gama de[n]pasajes ocultos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama[n]de pasajes ocultos en el mapa. (Auto)[n][e]
 
 [msg skill_16F]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra FOEslcofreslpasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
 
 [msg skill_170]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra una amplia gama de[n]FOElcofreslpasajes ocultos en el mapa.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama de[n]FOE/cofres/pasajes ocultos en el mapa. (Auto)[n][e]
 
 [msg skill_171]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Elimina todos los estados alterados y restricciones[f 0 1 0][n][n].  [n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Elimina todos los estados alterados[n]y restricciones[f 0 1 0]. [n][n][e]
 
 [msg skill_172]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4] Aumenta la cantidad de objetos encontrados en los puntos del tesoro[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4] Aumenta la cantidad de objetos[n]encontrados en los puntos del tesoro[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_173]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4] Menores costos de habilidad a 0[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Menores costos[n]de habilidad a 0[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_174]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Extender los aumentos por 3[n]turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Extiende los aumentos por[n]3 turnos adicionales. (Grupo)[n][e]
 
 [msg skill_175]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Menor probabilidad de emboscadas[f 0 1 0][n]en los puntos de[n]tesoro. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Menor probabilidad[n]de emboscadas[f 0 1 0] en los puntos de tesoro. (Auto)[n][e]
 
 [msg skill_176]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) Huye de la batalla y el[n]telepuerto a la entrada del piso. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) Huye de la batalla y el[n]telepuerto a la entrada del piso. (Grupo)[n][e]
 
 [msg skill_177]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque, Elimina las restricciones,[n]sy a隠ade Boost[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_178]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Alta probabilidad de evitar emboscadas enemigas[f 0 1 0][n].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Alta probabilidad de evitar[n]emboscadas enemigas[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_179]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta ligeramente la tasa de ca胤da de materiales de los enemigos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta ligeramente la tasa de ca胤da[n]de materiales de los enemigos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_17A]
-[f 0 5 65278][f 2 1][Navi: Battle] (Navi: Batalla) [f 0 1 4]Aumenta en gran medida la tasa de ca胤da de materiales de enemigos[f 0 1 0][n][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta en gran medida la tasa de ca胤da[n]de materiales de enemigos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_17B]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) Muestra FOEslcofreslpasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
 
 [msg skill_17C]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Restaura ligeramente PS[f 0 1 0][n]mientras camina en laberinto.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Restaura ligeramente[n]PS[f 0 1 0] mientras camina en laberinto. (Auto)[n][e]
 
 [msg skill_17D]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4] Restauraci吋n moderada PS[f 0 1 0][n]mientras camina en[n]laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4] Restauraci吋n moderada[n]PS[f 0 1 0] mientras camina en laberinto. (Auto)[n][e]
 
 [msg skill_17E]
-[f 0 5 65278][f 2 1][Navi: Dungeon] (Navi: Dungeon) [f 0 1 4]Restaura ligeramente PE[f 0 1 0][n]mientras camina en laberinto.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Restaura ligeramente[n]PE[f 0 1 0] mientras camina en laberinto. (Auto)[n][e]
 
 [msg skill_17F]
 [f 0 5 65278][f 2 1]0x17F[n][e]
@@ -1154,106 +1154,106 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_181]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Paralisis[f 0 1 0][n]cada turno por 3 turnos. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Paralisis[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_182]
-[f 0 5 65278][f 2 1]Par茨lisis duradera La habilidad ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]Par茨lisis duradera La habilidad ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_183]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Sue隠o[f 0 1 0][n]cada turno por 3 turnos. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Sue隠o[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_184]
 [f 0 5 65278][f 2 1]Habilidad Durmiente Ayuda texto no utilizado.[n][e]
 
 [msg skill_185]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Veneno[f 0 1 0][n]cada turno por 3 turnos. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Veneno[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_186]
-[f 0 5 65278][f 2 1]Veneno lasting La habilidad ayuda texto no[n]utilizado.[n][e]
+[f 0 5 65278][f 2 1]Veneno lasting La habilidad ayuda texto[n]no utilizado.[n][e]
 
 [msg skill_187]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Confusi吋n[f 0 1 0][n]cada turno por 3 turnos. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Confusi吋n[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_188]
-[f 0 5 65278][f 2 1]Habilidad de Confusi吋n duradera ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]Habilidad de Confusi吋n duradera ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_189]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Restricci吋n M茨gica[f 0 1 0][n]cada turno por 3 turnos.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Restricci吋n M茨gica[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_18A]
-[f 0 5 65278][f 2 1]La habilidad de la pluma m茨gica duradera[n]ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]La habilidad de la pluma m茨gica[n]duradera ayuda texto no utilizado.[n][e]
 
 [msg skill_18B]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Restricci吋n de la fuerza[f 0 1 0][n]cada turno por 3[n]turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Restricci吋n de la fuerza[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_18C]
-[f 0 5 65278][f 2 1]Estrangulamiento duradero ayuda texto no[n]utilizado.[n][e]
+[f 0 5 65278][f 2 1]Estrangulamiento duradero ayuda texto[n]no utilizado.[n][e]
 
 [msg skill_18D]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Restricci吋n de agilidad[f 0 1 0][n]cada turno por 3[n]turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 2]Restricci吋n de agilidad[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_18E]
 [f 0 5 65278][f 2 1]Agilidad duradera Restricci吋n Skill ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_18F]
-[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso. (Todos los[n]enemigos) (Requiere Circulos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos) (Requires Circles)[n][e]
 
 [msg skill_190]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado. (Todos los[n]enemigos) (Requiere Circulos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](Todos los enemigos) (Requires Circles)[n][e]
 
 [msg skill_191]
-[f 0 5 65278][f 2 1]Gran disminuci吋n de PS cada turno, pero [f 0 1 4][n]gran aumento de ataque[f 0 1 0][n]mientras esta activo. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Gran disminuci吋n de PS cada turno, pero [f 0 1 4] gran[n]aumento de ataque[f 0 1 0] mientras esta activo. (Propio)[n][e]
 
 [msg skill_192]
-[f 0 5 65278][f 2 1]Termina Shura Tensei y [f 0 1 4]restaura PS[f 0 1 0][n]. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Termina Shura Tensei y [f 0 1 4]restaura PS[f 0 1 0]. (Propio)[n][e]
 
 [msg skill_193]
-[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4] activar Shura Tensei [f 0 1 0][n]cuando la batalla[n]comienza. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4] activar Shura Tensei[n][f 0 1 0] cuando la batalla comienza. (Auto)[n][e]
 
 [msg skill_194]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar en gran medida el ataque[f 0 1 0].[n](Recalorar茨 despu姻s de unas cuantas[n]vueltas)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumentar en gran medida el ataque[f 0 1 0].[n](Recalorar茨 despu姻s de unas cuantas vueltas)[n][e]
 
 [msg skill_195]
 [f 0 5 65278][f 2 1]Desactivar el modo Orgia.[n][e]
 
 [msg skill_196]
-[f 0 5 65278][f 2 1]Restauraci吋n ligera PS al final del turno[n]por 3 turnos. (Fila de usuario)[n][e]
+[f 0 5 65278][f 2 1]Restauraci吋n ligera PS al final del[n]turno por 3 turnos. (Fila del usuario)[n][e]
 
 [msg skill_197]
-[f 0 5 65278][f 2 1]Recuperaci吋n Oraci吋n Habilidad ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]Recuperaci吋n Oraci吋n Habilidad ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_198]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0] al final del[n]turno por 3 turnos. (Fila de usuario)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0] al final del[n]turno por 3 turnos. (Fila del usuario)[n][e]
 
 [msg skill_199]
-[f 0 5 65278][f 2 1]Libertad de oraci吋n La habilidad ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]Libertad de oraci吋n La habilidad ayuda[n]texto no utilizado.[n][e]
 
 [msg skill_19A]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina los estados alterados[f 0 1 0] al[n]final del turno por 3 turnos. (Fila de[n]usuario)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina los estados alterados[f 0 1 0] al[n]final del turno por 3 turnos. (Fila del usuario)[n][e]
 
 [msg skill_19B]
-[f 0 5 65278][f 2 1]Oraci吋n Cure La habilidad ayuda texto no[n]utilizado.[n][e]
+[f 0 5 65278][f 2 1]Oraci吋n Cure La habilidad ayuda texto[n]no utilizado.[n][e]
 
 [msg skill_19C]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_19D]
-[f 0 5 65278][f 2 1][f 0 1 2]Contratacar[f 0 1 0] cada vez que la fila[n]del usuario es atacada por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Contrarresta[f 0 1 0] cuando la fila del[n]usuario es atacada por 3 turnos. (Propio)[n][e]
 
 [msg skill_19E]
 [f 0 5 65278][f 2 1]Counter Skill ayuda texto no utilizado.[n][e]
 
 [msg skill_19F]
-[f 0 5 65278][f 2 1]Puede [f 0 1 2]seguir[f 0 1 0] los ataques[n]de la fila del usuario durante 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1]Puede [f 0 1 2]seguir[f 0 1 0] los ataques de[n]la fila del usuario por 3 turnos. (Propio)[n][e]
 
 [msg skill_1A0]
 [f 0 5 65278][f 2 1]Follow Up Skill ayuda texto no utilizado.[n][e]
 
 [msg skill_1A1]
-[f 0 5 65278][f 2 1]Media probabilidad de que los aliados pueden[n]realizar ataques de seguimiento durante[n]3 turnos. (Fila de usuario)[n][e]
+[f 0 5 65278][f 2 1]Media probabilidad de que los aliados pueden realizar[n]ataques de seguimiento durante 3 turnos. (Fila del usuario)[n][e]
 
 [msg skill_1A2]
-[f 0 5 65278][f 2 1]Ataque con truco Explicaci吋n de la ayuda para[n]habilidades[n][e]
+[f 0 5 65278][f 2 1]Ataque con truco[n]Explicaci吋n de la ayuda para habilidades[n][e]
 
 [msg skill_1A3]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -1262,58 +1262,58 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_1A5]
-[f 0 5 65278][f 2 1]Restauraci吋n PS. (Grupo) (S吋lo utilizable[n]durante las bendiciones)[n][e]
+[f 0 5 65278][f 2 1]Restauraci吋n PS. (Grupo) (S吋lo[n]utilizable durante las bendiciones)[n][e]
 
 [msg skill_1A6]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_1A7]
-[f 0 5 65278][f 2 1]Ataca a los enemigos tras los ataques de los[n]aliados, hasta 3 veces por turno. (S吋lo[n]durante Stances)[n][e]
+[f 0 5 65278][f 2 1]Ataca a los enemigos tras los ataques de los aliados,[n]hasta 3 veces por turno. (Solo durante posturas)[n][e]
 
 [msg skill_1A8]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_1A9]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. [f 0 1 2] Otros ataques aliados ganan da隠o de enlace[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. [f 0 1 2]Otros ataques[n]aliados ganan da隠o de enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1AA]
 [f 0 5 65278][f 2 1]Link Flame Skill ayuda texto no utilizado.[n][e]
 
 [msg skill_1AB]
-[f 0 5 65278][f 2 1]Ataque de hielo ligero. [f 0 1 2] Otros ataques aliados ganan da隠o de enlace[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo ligero. [f 0 1 2]Otros ataques[n]aliados ganan da隠o de enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1AC]
 [f 0 5 65278][f 2 1]Enlace Freeze Skill ayuda texto no utilizado.[n][e]
 
 [msg skill_1AD]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. [f 0 1 2] Otros ataques aliados ganan da隠o Enlace[f 0 1 0][n].[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. [f 0 1 2]Otros ataques[n]aliados ganan da隠o Enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1AE]
-[f 0 5 65278][f 2 1]Enlace Thunder La habilidad ayuda texto no[n]utilizado.[n][e]
+[f 0 5 65278][f 2 1]Enlace Thunder La habilidad ayuda texto[n]no utilizado.[n][e]
 
 [msg skill_1AF]
-[f 0 5 65278][f 2 1]Ataque de viento ligero. [f 0 1 2] Otros ataques aliados ganan da隠o de enlace[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento ligero. [f 0 1 2]Otros ataques[n]aliados ganan da隠o de enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1B0]
 [f 0 5 65278][f 2 1]Link Wind Skill ayuda texto no utilizado.[n][e]
 
 [msg skill_1B1]
-[f 0 5 65278][f 2 1]Gran oportunidad de Pain-Eater cuando la[n]batalla comienza. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran oportunidad de Pain-Eater cuando[n]la batalla comienza. (Auto)[n][e]
 
 [msg skill_1B2]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. [f 0 1 2] Otros ataques aliados ganan da隠o Enlace[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. [f 0 1 2]Otros ataques[n]aliados ganan da隠o Enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1B3]
 [f 0 5 65278][f 2 1]0x1B3[n][e]
 
 [msg skill_1B4]
-[f 0 5 65278][f 2 1]Ligero ataque Psy. [f 0 1 2] Otros ataques aliados ganan da隠o Enlace[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque Psíquico. [f 0 1 2]Otros ataques[n]aliados ganan da隠o Enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1B5]
 [f 0 5 65278][f 2 1]0x1B5[n][e]
 
 [msg skill_1B6]
-[f 0 5 65278][f 2 1]Ataque nuclear ligero. [f 0 1 2] Otros ataques aliados ganan da隠o de enlace[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear ligero. [f 0 1 2]Otros ataques[n]aliados ganan da隠o de enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_1B7]
 [f 0 5 65278][f 2 1]0x1B7[n][e]
@@ -1397,28 +1397,28 @@
 [f 0 5 65278][f 2 1]Aumente el da隠o cada vez que Aigis se[n]sobrecalienta. (Auto)[n][e]
 
 [msg skill_1D2]
-[f 0 5 65278][f 2 1]Restaura PE cuando golpee la debilidad de un[n]enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando golpee la debilidad[n]de un enemigo. (Auto)[n][e]
 
 [msg skill_1D3]
-[f 0 5 65278][f 2 1]Restaura PE cuando golpee la debilidad de un[n]enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando golpee la debilidad[n]de un enemigo. (Auto)[n][e]
 
 [msg skill_1D4]
-[f 0 5 65278][f 2 1]Restaura PE despu姻s de derrotar a un enemigo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE despu姻s de derrotar a un[n]enemigo. (Auto)[n][e]
 
 [msg skill_1D5]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE despu姻s de derrotar[n]a un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran restauraci吋n de PE despu姻s de[n]derrotar a un enemigo. (Auto)[n][e]
 
 [msg skill_1D6]
 [f 0 5 65278][f 2 1]Restaura PE cuando protege un aliado. (Auto)[n][e]
 
 [msg skill_1D7]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE cuando protege un[n]aliado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran restauraci吋n de PE cuando protege un aliado. (Auto)[n][e]
 
 [msg skill_1D8]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de mediana probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque de mediana[n]probabilidad se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_1D9]
-[f 0 5 65278][f 2 1]Al atacar a un enemigo, los aliados hacen[n]m茨s da隠o al objetivo (Auto)[n][e]
+[f 0 5 65278][f 2 1]Al atacar a un enemigo, los aliados[n]hacen m茨s da隠o al objetivo (Auto)[n][e]
 
 [msg skill_1DA]
 [f 0 5 65278][f 2 1]Restaura PE al infligir un Restricci吋n.[n](Auto)[n][e]
@@ -1427,82 +1427,82 @@
 [f 0 5 65278][f 2 1]Gran restaurar el PE al infligir un Restricci吋n.[n](Auto)[n][e]
 
 [msg skill_1DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0] para[n]FuegolHielolEleclVienlPsylNuclear.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0][n]para Fuego/Hielo/Elec/Vien/Psíquico/Nuclear. (Auto)[n][e]
 
 [msg skill_1DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0] para[n]FuegolHielolEleclVienlPsylNuclear.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0][n]para Fuego/Hielo/Elec/Vien/Psíquico/Nuclear. (Auto)[n][e]
 
 [msg skill_1DE]
-[f 0 5 65278][f 2 1]Restaura PE despu姻s de un ataque normal.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE despu姻s de un ataque normal. (Auto)[n][e]
 
 [msg skill_1DF]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE despu姻s de ataques[n]normales. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran restauraci吋n de PE despu姻s[n]de ataques normales. (Auto)[n][e]
 
 [msg skill_1E0]
-[f 0 5 65278][f 2 1]Bajo costo PS de habilidades F胤sicas. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Bajo costo PS de habilidades F胤sicas.[n](Auto)[n][e]
 
 [msg skill_1E1]
-[f 0 5 65278][f 2 1]Gran costo PS de habilidades F胤sicas. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran costo PS de habilidades F胤sicas.[n](Auto)[n][e]
 
 [msg skill_1E2]
-[f 0 5 65278][f 2 1]Restaura PE cuando se evade un ataque. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando se evade un ataque.[n](Auto)[n][e]
 
 [msg skill_1E3]
-[f 0 5 65278][f 2 1]Restaura PE cuando se evade un ataque. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando se evade un ataque.[n](Auto)[n][e]
 
 [msg skill_1E4]
-[f 0 5 65278][f 2 1]Restaura PE al final de el turno si tiene[n]todos los PS ＆ en primera fila. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE al final de el turno si[n]tiene todos los PS en la fila delantera. (Auto)[n][e]
 
 [msg skill_1E5]
-[f 0 5 65278][f 2 1]Restaura PE al final de el turno si tiene[n]todos los PS ＆ en primera fila. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE al final de el turno si[n]tiene todos los PS en la fila delantera. (Auto)[n][e]
 
 [msg skill_1E6]
-[f 0 5 65278][f 2 1]Restaura ligeramente PE mientras camina en[n]laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura ligeramente PE mientras[n]caminas en el laberinto. (Auto)[n][e]
 
 [msg skill_1E7]
-[f 0 5 65278][f 2 1]Restaura PE cuando el C胤rculo termina. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando el C胤rculo termina.[n](Auto)[n][e]
 
 [msg skill_1E8]
 [f 0 5 65278][f 2 1]Gran restauraci吋n de PE cuando C胤rculo termina.[n](Auto)[n][e]
 
 [msg skill_1E9]
-[f 0 5 65278][f 2 1]Restaura PE cuando fue atacado y en primera[n]fila. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando fue atacado y en primera fila.[n](Auto)[n][e]
 
 [msg skill_1EA]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE cuando es atacado y[n]en la fila delantera. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran restauraci吋n de PE cuando es atacado[n]y en la fila delantera. (Auto)[n][e]
 
 [msg skill_1EB]
-[f 0 5 65278][f 2 1]Restaura PS despu姻s de la batalla. (Grupo)[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PS despu姻s de la batalla.[n](Grupo) (Auto)[n][e]
 
 [msg skill_1EC]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PS despu姻s de la batalla.[n](Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran restauraci吋n de PS despu姻s de la[n]batalla. (Grupo) (Auto)[n][e]
 
 [msg skill_1ED]
-[f 0 5 65278][f 2 1]Los efectos del estiramiento duran 1 turno[n]m茨s. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Los efectos del estiramiento duran 1[n]turno m茨s. (Auto)[n][e]
 
 [msg skill_1EE]
-[f 0 5 65278][f 2 1]Los efectos del estiramiento duran 1 turno[n]m茨s. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Los efectos del estiramiento duran 1[n]turno m茨s. (Auto)[n][e]
 
 [msg skill_1EF]
-[f 0 5 65278][f 2 1]Restaura PS despu姻s de un ataque normal.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PS despu姻s de un ataque normal. (Auto)[n][e]
 
 [msg skill_1F0]
 [f 0 5 65278][f 2 1]Gran restauraci吋n de PS despu姻s de un ataque[n]normal. (Auto)[n][e]
 
 [msg skill_1F1]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de baja probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque de baja[n]probabilidad se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_1F2]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de alta probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque de alta[n]probabilidad se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_1F3]
-[f 0 5 65278][f 2 1]Alta oportunidad de [f 0 1 4]anular da隠o de FuegolHielolElecl VientolPsylNuclear[f 0 1 0][n][n]a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec/[n]Viento/Psíquico/Nuclear[f 0 1 0] a la fila del usuario. (Auto)[n][e]
 
 [msg skill_1F4]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]anular da隠o de FuegolHielolElecl VientolPsylNuclear[f 0 1 0][n][n]to Fila de usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec/[n]Viento/Psíquico/Nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
 
 [msg skill_1F5]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4] Da隠o f胤sico [f 0 1 0][n]a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4] Da隠o F胤sico[n][f 0 1 0] a la fila del usuario. (Auto)[n][e]
 
 [msg skill_1F6]
 [f 0 5 65278][f 2 1]Aumenta la probabilidad de infligir restricciones.[n](Auto)[n][e]
@@ -1511,7 +1511,7 @@
 [f 0 5 65278][f 2 1]Gran oportunidad de infligir restricciones.[n](Auto)[n][e]
 
 [msg skill_1F8]
-[f 0 5 65278][f 2 1][f 0 1 4]Eleva el da隠o[f 0 1 0] al atacar antes de[n]que todos los enemigos act雨en. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Eleva el da隠o[f 0 1 0] al atacar antes[n]de que todos los enemigos act雨en. (Auto)[n][e]
 
 [msg skill_1F9]
 [f 0 5 65278][f 2 1][f 0 1 4]Incrementa ligeramente el ataque[f 0 1 0][n]contra enemigos con PS superior. (Auto)[n][e]
@@ -1520,19 +1520,19 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Incrementa ligeramente el ataque[f 0 1 0][n]contra enemigos con PS superior. (Auto)[n][e]
 
 [msg skill_1FB]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran ataque[f 0 1 0] contra enemigos con PS[n]superior. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran ataque[f 0 1 0] contra enemigos[n]con PS superior. (Auto)[n][e]
 
 [msg skill_1FC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la velocidad de recuperaci吋n natural[n]de estados alterados y las restricciones[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la velocidad de recuperaci吋n[n]natural de estados alterados y las restricciones[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_1FD]
-[f 0 5 65278][f 2 1]Aumente la tasa cr胤tica. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la tasa de cr胤ticos. (Auto)[n][e]
 
 [msg skill_1FE]
-[f 0 5 65278][f 2 1]Gran aumento de la tasa cr胤tica. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran aumento de la tasa de cr胤ticos. (Auto)[n][e]
 
 [msg skill_1FF]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente el poder restaurativo[f 0 1 0][n]de habilidades curativas PS.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente el poder restaurativo[f 0 1 0][n]de habilidades curativas PS. (Auto)[n][e]
 
 [msg skill_200]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
@@ -1541,220 +1541,220 @@
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_202]
-[f 0 5 65278][f 2 1]Baja oportunidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de ataque de[n]un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja oportunidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a habilidades[n]de ataque de un solo objetivo. (Auto)[n][e]
 
 [msg skill_203]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de ataque de[n]un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a habilidades[n]de ataque de un solo objetivo. (Auto)[n][e]
 
 [msg skill_204]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
 
 [msg skill_205]
-[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4] otro ataque [f 0 1 0][n]despu姻s del ataque normal.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4]otro ataque [f 0 1 0][n]despu姻s del ataque normal. (Auto)[n][e]
 
 [msg skill_206]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]o otro ataque[f 0 1 0][n]despu姻s del ataque normal.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]otro ataque[f 0 1 0][n]despu姻s del ataque normal. (Auto)[n][e]
 
 [msg skill_207]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente la evasi吋n[f 0 1 0] contra[n]todos los ataques. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente la evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
 
 [msg skill_208]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumentar moderadamente la evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
 
 [msg skill_209]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementa la evasi吋n[f 0 1 0] contra todos[n]los ataques. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Incrementa la evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
 
 [msg skill_20A]
-[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4] F胤sicas attacks[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4]anular ataques físicos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_20B]
-[f 0 5 65278][f 2 1]Aumenta el poder de invocaci吋n en C胤rculos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta el poder de invocaci吋n en[n]C胤rculos. (Auto)[n][e]
 
 [msg skill_20C]
-[f 0 5 65278][f 2 1]Posibilidad media de anular todos los males[n]y Restricciones a la fila del usuario.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de anular todos los[n]estados alterados y Restricciones en la fila del usuario. (Auto)[n][e]
 
 [msg skill_20D]
-[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbido[f 0 1 0] de ataques de Fuego.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbido[f 0 1 0] de ataques[n]de Fuego. (Auto)[n][e]
 
 [msg skill_20E]
-[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbente[f 0 1 0] de ataques del[n]viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbente[f 0 1 0] de ataques del[n]Viento. (Auto)[n][e]
 
 [msg skill_20F]
-[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbente[f 0 1 0] de ataques de hielo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbente[f 0 1 0] de ataques de[n]Hielo. (Auto)[n][e]
 
 [msg skill_210]
-[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbente[f 0 1 0] de ataques de Elec.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Da隠o absorbente[f 0 1 0] de ataques de[n]Elec. (Auto)[n][e]
 
 [msg skill_211]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta moderadamente el poder restaurativo[f 0 1 0][n]de habilidades curativas PS.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta moderadamente el poder[n]restaurativo[f 0 1 0] de habilidades curativas PS. (Auto)[n][e]
 
 [msg skill_212]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Potencia de[n]ataque de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Potencia de[n]ataque de Fuego. (Auto)[n][e]
 
 [msg skill_213]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]de hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de[n]ataque de Hielo. (Auto)[n][e]
 
 [msg skill_214]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque Elec. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Elec poder[n]de ataque. (Auto)[n][e]
 
 [msg skill_215]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]al viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de[n]ataque al Viento. (Auto)[n][e]
 
 [msg skill_216]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Potencia de ataque[n]de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Potencia de[n]ataque de Fuego. (Auto)[n][e]
 
 [msg skill_217]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de ataque de[n]hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de[n]ataque de Hielo. (Auto)[n][e]
 
 [msg skill_218]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Elec poder de[n]ataque. (Auto)[n][e]
 
 [msg skill_219]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de ataque al[n]viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de[n]ataque al Viento. (Auto)[n][e]
 
 [msg skill_21A]
-[f 0 5 65278][f 2 1]Costo del PE inferior de habilidades. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Costo del PE inferior de habilidades.[n](Auto)[n][e]
 
 [msg skill_21B]
 [f 0 5 65278][f 2 1]Mayormente menor costo PE de habilidades.[n](Auto)[n][e]
 
 [msg skill_21C]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumente el poder restaurativo [f 0 1 0] de[n]habilidades curativas PS. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumente el poder restaurativo [f 0 1 0][n]de habilidades curativas PS. (Auto)[n][e]
 
 [msg skill_21D]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] cuando atacan un[n]objetivo infligido con un estado alterado.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] cuando atacan[n]un objetivo infligido con un estado alterado. (Auto)[n][e]
 
 [msg skill_21E]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de da隠os[f 0 1 0] cuando atacan[n]a un blanco infligido con un estado[n]alterado. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de da隠os[f 0 1 0] cuando[n]atacan a un blanco infligido con un estado alterado. (Auto)[n][e]
 
 [msg skill_21F]
-[f 0 5 65278][f 2 1]Aumenta la probabilidad de [f 0 1 2]infligir estados alterados[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la probabilidad de [f 0 1 2]infligir[n]estados alterados[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_220]
-[f 0 5 65278][f 2 1]Gran oportunidad de [f 0 1 2]infligir estados alterados[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran oportunidad de [f 0 1 2]infligir[n]estados alterados[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_221]
 [f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0] cada turno.[n](Grupo) (Auto) (Requiere C胤rculos)[n][e]
 
 [msg skill_222]
-[f 0 5 65278][f 2 1][f 0 1 4]Amplia potencia de ataque[f 0 1 0] para[n]FuegolHielolEleclVientolPsylNuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Amplia potencia de ataque[f 0 1 0] para[n]Fuego/Hielo/Elec/Viento/Psíquico/Nuclear. (Auto)[n][e]
 
 [msg skill_223]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] Potencia de ataque de[n]fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0][n]Potencia de ataque de Fuego. (Auto)[n][e]
 
 [msg skill_224]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] Poder de ataque al[n]viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0][n]Poder de ataque al Viento. (Auto)[n][e]
 
 [msg skill_225]
-[f 0 5 65278][f 2 1]Posibilidad media de reducir el costo del PE[n]de habilidades a 0. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de reducir el[n]costo del PE de habilidades a 0. (Auto)[n][e]
 
 [msg skill_226]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] cuando golpee la[n]debilidad de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] cuando golpee[n]la debilidad de un enemigo. (Auto)[n][e]
 
 [msg skill_227]
-[f 0 5 65278][f 2 1][f 0 1 4]Un gran da隠o[f 0 1 0] al golpear la debilidad[n]de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Un gran da隠o[f 0 1 0] al golpear la[n]debilidad de un enemigo. (Auto)[n][e]
 
 [msg skill_228]
-[f 0 5 65278][f 2 1][f 0 1 4]Un gran da隠o[f 0 1 0] al golpear la debilidad[n]de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Un gran da隠o[f 0 1 0] al golpear la[n]debilidad de un enemigo. (Auto)[n][e]
 
 [msg skill_229]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el ataque f胤sico. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente el ataque F胤sico.[n](Auto)[n][e]
 
 [msg skill_22A]
-[f 0 5 65278][f 2 1]Aumenta el ataque f胤sico. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta el ataque F胤sico.[n](Auto)[n][e]
 
 [msg skill_22B]
-[f 0 5 65278][f 2 1]Gran aumento ataque f胤sico. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran aumento ataque F胤sico.[n](Auto)[n][e]
 
 [msg skill_22C]
-[f 0 5 65278][f 2 1]Aumenta ligeramente de Defensa f胤sica. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente de Defensa f胤sica.[n](Auto)[n][e]
 
 [msg skill_22D]
-[f 0 5 65278][f 2 1]Levanta la defensa F胤sica. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Levanta la defensa F胤sica.[n](Auto)[n][e]
 
 [msg skill_22E]
-[f 0 5 65278][f 2 1]Gran aumento Defensa f胤sica. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran aumento Defensa f胤sica.[n](Auto)[n][e]
 
 [msg skill_22F]
 [f 0 5 65278][f 2 1]Incre胤blemente la resistencia a la afinidad.[n](Auto)[n][e]
 
 [msg skill_230]
-[f 0 5 65278][f 2 1]Aumenta la resistencia a la afinidad. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia a la afinidad.[n](Auto)[n][e]
 
 [msg skill_231]
-[f 0 5 65278][f 2 1]Mayor resistencia a la afinidad. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Mayor resistencia a la afinidad.[n](Auto)[n][e]
 
 [msg skill_232]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PE[f 0 1 0] mientras[n]camina en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PE[f 0 1 0][n]mientras camina en laberinto. (Auto)[n][e]
 
 [msg skill_233]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura PSlPE[f 0 1 0] mientras camina en[n]un laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS/PE[f 0 1 0] mientras[n]camina en un laberinto. (Auto)[n][e]
 
 [msg skill_234]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura PSlPE[f 0 1 0] mientras camina en[n]un laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS/PE[f 0 1 0] mientras[n]camina en un laberinto. (Auto)[n][e]
 
 [msg skill_235]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente las habilidades de enlace[n]y la probabilidad de da隠o de enlace[f 0 1 0][n]despu姻s. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente las habilidades de enlace y[n]la probabilidad de da隠o de enlace[f 0 1 0] despu姻s. (Auto)[n][e]
 
 [msg skill_236]
-[f 0 5 65278][f 2 1]Baja posibilidad de derribar. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja posibilidad de derribar.[n](Auto)[n][e]
 
 [msg skill_237]
-[f 0 5 65278][f 2 1]Posibilidad media de derribar. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de derribar.[n](Auto)[n][e]
 
 [msg skill_238]
-[f 0 5 65278][f 2 1]Alta posibilidad de derribar. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta posibilidad de derribar.[n](Auto)[n][e]
 
 [msg skill_239]
 [f 0 5 65278][f 2 1]Aumenta ligeramente el ataque de afinidad.[n](Auto)[n][e]
 
 [msg skill_23A]
-[f 0 5 65278][f 2 1]Aumenta el ataque de afinidad. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta el ataque de afinidad.[n](Auto)[n][e]
 
 [msg skill_23B]
-[f 0 5 65278][f 2 1]Gran ataque de afinidad. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Gran ataque de afinidad.[n](Auto)[n][e]
 
 [msg skill_23C]
-[f 0 5 65278][f 2 1]Aumenta ligeramente los PS m茨ximos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente los PS m茨ximos.[n](Auto)[n][e]
 
 [msg skill_23D]
-[f 0 5 65278][f 2 1]Aumenta los PS m茨ximos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta los PS m茨ximos.[n](Auto)[n][e]
 
 [msg skill_23E]
-[f 0 5 65278][f 2 1]Aumenta ligeramente los PE m茨ximos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente los PE m茨ximos.[n](Auto)[n][e]
 
 [msg skill_23F]
-[f 0 5 65278][f 2 1]Aumenta los PE m茨ximos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta los PE m茨ximos.[n](Auto)[n][e]
 
 [msg skill_240]
 [f 0 5 65278][f 2 1]Aumenta ligeramente la velocidad de actuaci吋n,[n]la precisi吋n y la evasi吋n. (Auto)[n][e]
 
 [msg skill_241]
-[f 0 5 65278][f 2 1]Aumenta la velocidad, precisi吋n y evasi吋n[n]del acto. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la velocidad, precisi吋n y[n]evasi吋n del acto. (Auto)[n][e]
 
 [msg skill_242]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al fuego[f 0 1 0].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al Fuego[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_243]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al hielo[f 0 1 0].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al Hielo[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_244]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Elec[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_245]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia del viento[f 0 1 0].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia del Viento[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_246]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Bendici吋n[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Bendici吋n[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_247]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la maldici吋n[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Maldici吋n[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_248]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia fisica[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_249]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Psy[f 0 1 0].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Psíquico[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_24A]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia Nuclear[f 0 1 0].[n](Auto)[n][e]
@@ -1772,118 +1772,118 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]Veneno.[n](Auto)[n][e]
 
 [msg skill_24F]
-[f 0 5 65278][f 2 1]Sobrevive un ataque letal con [f 0 1 4]1 PS[f 0 1 0][n]en lugar de ser derribado.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Sobrevive un ataque letal con [f 0 1 4]1 PS[f 0 1 0][n]en lugar de ser derribado. (Auto)[n][e]
 
 [msg skill_250]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]HEX. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]HEX.[n](Auto)[n][e]
 
 [msg skill_251]
 [f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]Paralisis.[n](Auto)[n][e]
 
 [msg skill_252]
-[f 0 5 65278][f 2 1]Anula la penalizaci吋n al poder de recibir un[n]ataque f胤sico desde la 雨ltima fila.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Anula la penalizaci吋n al poder de recibir un ataque[n]F胤sico desde la 雨ltima fila. (Auto)[n][e]
 
 [msg skill_253]
-[f 0 5 65278][f 2 1]Ataque adicional cuando un objetivo est茨[n]atado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Ataque adicional cuando un objetivo est茨 atado.[n](Auto)[n][e]
 
 [msg skill_254]
 [f 0 5 65278][f 2 1]0x254[n][e]
 
 [msg skill_255]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula Restricci吋n M茨gica[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Anula Restricci吋n M茨gica[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_256]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula Restricci吋n f胤sica[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Anula Restricci吋n f胤sica[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_257]
 [f 0 5 65278][f 2 1][f 0 1 4]Anula Restricci吋n de Agilidad[f 0 1 0].[n](Auto)[n][e]
 
 [msg skill_258]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de ataque de[n]Corte. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de ataque de Corte.[n](Auto)[n][e]
 
 [msg skill_259]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de ataque Bash.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de[n]ataque Bash.[n](Auto)[n][e]
 
 [msg skill_25A]
 [f 0 5 65278][f 2 1]Aumenta ligeramente el poder de ataque Stab.[n](Auto)[n][e]
 
 [msg skill_25B]
-[f 0 5 65278][f 2 1]Aumenta el poder de ataque. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta el poder de ataque.[n](Auto)[n][e]
 
 [msg skill_25C]
-[f 0 5 65278][f 2 1]Aumente el poder de ataque Bash. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumente el poder de ataque Bash.[n](Auto)[n][e]
 
 [msg skill_25D]
-[f 0 5 65278][f 2 1]Aumenta el poder de ataque Stab. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta el poder de ataque Stab.[n](Auto)[n][e]
 
 [msg skill_25E]
-[f 0 5 65278][f 2 1]Restaura ligeramente el PE cuando el enemigo[n]es infligido con estado alteradolRestricci吋n.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura ligeramente el PE cuando el enemigo es[n]infligido con estado alterado/Restricci吋n. (Auto)[n][e]
 
 [msg skill_25F]
-[f 0 5 65278][f 2 1]Restaura PE cuando el enemigo es infligido[n]con estado alteradolRestricci吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cuando el enemigo es infligido con[n]estado alterado/Restricci吋n. (Auto)[n][e]
 
 [msg skill_260]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_261]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 fila)[n][e]
 
 [msg skill_262]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 Enemigo)[n][e]
 
 [msg skill_263]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (Enemigos aleatorios)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](Enemigos aleatorios)[n][e]
 
 [msg skill_264]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 Enemigo)[n][e]
 
 [msg skill_265]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 fila)[n][e]
 
 [msg skill_266]
 [f 0 5 65278][f 2 1]Sigue el texto de Dummy[n][e]
 
 [msg skill_267]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 Enemigo)[n][e]
 
 [msg skill_268]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_269]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 fila)[n][e]
 
 [msg skill_26A]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_26B]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 Enemigo)[n][e]
 
 [msg skill_26C]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_26D]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_26E]
 [f 0 5 65278][f 2 1]Fuuka sigue el texto de Dummy[n][e]
 
 [msg skill_26F]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_270]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_271]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 fila)[n][e]
 
 [msg skill_272]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](1 fila)[n][e]
 
 [msg skill_273]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_274]
-[f 0 5 65278][f 2 1]Un ataque Todopoderoso. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_275]
 [f 0 5 65278][f 2 1]0x275[n][e]
@@ -1967,7 +1967,7 @@
 [f 0 5 65278][f 2 1]0x28F[n][e]
 
 [msg skill_290]
-[f 0 5 65278][f 2 1]Una sala con la bendici吋n de Idaten. [f 0 1 4][n]Aumenta[f 0 1 0] [f 0 1 4]exactitudlevasi吋n para 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Una sala con la bendici吋n de Idaten. [f 0 1 4]Aumenta[f 0 1 0][n][f 0 1 4]exactitud/evasi吋n para 3 turnos[f 0 1 0]. (1 fila)[n][e]
 
 [msg skill_291]
 [f 0 5 65278][f 2 1]0x291[n][e]
@@ -1976,10 +1976,10 @@
 [f 0 5 65278][f 2 1]0x292[n][e]
 
 [msg skill_293]
-[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de Rasetsu.[n][f 0 1 4]Ataque de 1 fila por 3 turnos[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de Rasetsu.[n][f 0 1 4]Ataque de 1 fila por 3 turnos[f 0 1 0].[n][e]
 
 [msg skill_294]
-[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de los[n]Kongou. [f 0 1 4]Aumenta 1 fila de defensa por 3 turnos[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de los Kongou.[n][f 0 1 4]Aumenta 1 fila de defensa por 3 turnos[f 0 1 0].[n][e]
 
 [msg skill_295]
 [f 0 5 65278][f 2 1]0x295[n][e]
@@ -1991,28 +1991,28 @@
 [f 0 5 65278][f 2 1]0x297[n][e]
 
 [msg skill_298]
-[f 0 5 65278][f 2 1]Reduce el da隠o de los ataques de Fuego durante[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Reduce el da隠o de los ataques de[n]Fuego durante 3 turnos. (Grupo)[n][e]
 
 [msg skill_299]
-[f 0 5 65278][f 2 1]Reduce el da隠o de los ataques de hielo durante[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Reduce el da隠o de los ataques de[n]Hielo durante 3 turnos. (Grupo)[n][e]
 
 [msg skill_29A]
-[f 0 5 65278][f 2 1]Reduce el da隠o de ataques Elec por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Reduce el da隠o de ataques[n]Elec por 3 turnos. (Grupo)[n][e]
 
 [msg skill_29B]
-[f 0 5 65278][f 2 1]Reduce el da隠o de los ataques de viento por[n]3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Reduce el da隠o de los ataques[n]de Viento por 3 turnos. (Grupo)[n][e]
 
 [msg skill_29C]
-[f 0 5 65278][f 2 1]Los ataques normales ganan la afinidad del[n]Fuego por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Los ataques normales ganan la afinidad[n]del Fuego por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_29D]
-[f 0 5 65278][f 2 1]Los ataques normales ganan afinidad de hielo[n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Los ataques normales ganan afinidad de[n]Hielo por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_29E]
-[f 0 5 65278][f 2 1]Los ataques normales ganan la afinidad de[n]Elec por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Los ataques normales ganan la afinidad[n]de Elec por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_29F]
-[f 0 5 65278][f 2 1]Los ataques normales ganan la afinidad del[n]viento por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Los ataques normales ganan la afinidad[n]del Viento por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_2A0]
 [f 0 5 65278][f 2 1]0x2A0[n][e]
@@ -2069,10 +2069,10 @@
 [f 0 5 65278][f 2 1]0x2B1[n][e]
 
 [msg skill_2B2]
-[f 0 5 65278][f 2 1]Menor probabilidad de encuentros con las[n]Sombras.[n][e]
+[f 0 5 65278][f 2 1]Menor probabilidad de encuentros[n]con las Sombras.[n][e]
 
 [msg skill_2B3]
-[f 0 5 65278][f 2 1]Aumenta la oportunidad de los encuentros con[n]sombras.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la oportunidad de los[n]encuentros con sombras.[n][e]
 
 [msg skill_2B4]
 [f 0 5 65278][f 2 1]0x2B4[n][e]
@@ -2111,7 +2111,7 @@
 [f 0 5 65278][f 2 1]0x2BF[n][e]
 
 [msg skill_2C0]
-[f 0 5 65278][f 2 1]Aumenta la probabilidad de infligir Atar o[n]doler.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la probabilidad de infligir Atar o doler.[n][e]
 
 [msg skill_2C1]
 [f 0 5 65278][f 2 1]Gran oportunidad de causar Atar o doler.[n][e]
@@ -2123,7 +2123,7 @@
 [f 0 5 65278][f 2 1]Gran aumento de da隠os cr胤ticos.[n][e]
 
 [msg skill_2C4]
-[f 0 5 65278][f 2 1]Aumenta la probabilidad de cr胤ticos contra[n]los enemigos con Restricci吋n.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la probabilidad de cr胤ticos contra los[n]enemigos con Restricci吋n.[n][e]
 
 [msg skill_2C5]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -2141,10 +2141,10 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_2CA]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la posibilidad de infligir[n]estados alterados y Restricciones.[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente la posibilidad de[n]infligir estados alterados y Restricciones.[n][e]
 
 [msg skill_2CB]
-[f 0 5 65278][f 2 1]Aumenta la posibilidad de infligir estados[n]alterados y Restricciones.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la posibilidad de infligir[n]estados alterados y Restricciones.[n][e]
 
 [msg skill_2CC]
 [f 0 5 65278][f 2 1]Aumenta ligeramente los da隠os cr胤ticos.[n][e]
@@ -2153,40 +2153,40 @@
 [f 0 5 65278][f 2 1]Aumenta los da隠os cr胤ticos.[n][e]
 
 [msg skill_2CE]
-[f 0 5 65278][f 2 1]Aumenta la probabilidad de cr胤ticos contra[n]los enemigos con Restricci吋n.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la tasa de cr胤ticos. contra los[n]enemigos con Restricci吋n.[n][e]
 
 [msg skill_2CF]
-[f 0 5 65278][f 2 1]Gran aumento de la tasa cr胤tica contra enemigos[n]con Restricci吋n.[n][e]
+[f 0 5 65278][f 2 1]Gran aumento de la tasa de cr胤ticos. contra[n]enemigos con Restricci吋n.[n][e]
 
 [msg skill_2D0]
-[f 0 5 65278][f 2 1]Realiza un ataque f胤sico pesado cada vez que[n]un Restricci吋n es infligido a un[n]enemigo.[n][e]
+[f 0 5 65278][f 2 1]Realiza un ataque F胤sico pesado[n]cada vez que un Restricci吋n es infligido a un enemigo.[n][e]
 
 [msg skill_2D1]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_2D2]
-[f 0 5 65278][f 2 1]Alta probabilidad de reducir a la mitad Da隠o[n]f胤sico contra la fila del usuario.[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de reducir a la mitad Da隠o F胤sico[n]contra la fila del usuario.[n][e]
 
 [msg skill_2D3]
-[f 0 5 65278][f 2 1]Amplifica los efectos de almacenamiento de[n]PS. (Mayor aumento con m茨s aumentos)[n][e]
+[f 0 5 65278][f 2 1]Amplifica los efectos de almacenamiento de PS.[n](Mayor aumento con m茨s aumentos)[n][e]
 
 [msg skill_2D4]
 [f 0 5 65278][f 2 1]0x2D4[n][e]
 
 [msg skill_2D5]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]Restaura PS [f 0 1 0][n]cuando estas cerca de ser derribado.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]Restaura PS [f 0 1 0] cuando[n]estas cerca de ser derribado. (Auto)[n][e]
 
 [msg skill_2D6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta moderadamente las habilidades de[n]enlace y la probabilidad de da隠o de enlace[f 0 1 0][n]despu姻s. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta moderadamente las habilidades de enlace y la[n]probabilidad de da隠o de enlace[f 0 1 0] despu姻s. (Auto)[n][e]
 
 [msg skill_2D7]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de habilidades de enlace y[n]probabilidad de da隠o de enlace[f 0 1 0][n]despu姻s de. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de habilidades de enlace y probabilidad de[n]da隠o de enlace[f 0 1 0] despu姻s de. (Auto)[n][e]
 
 [msg skill_2D8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta intensamente las habilidades de Enlace[n]y la probabilidad de da隠o de Enlace[f 0 1 0][n]despu姻s. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta intensamente las habilidades de Enlace y la[n]probabilidad de da隠o de Enlace[f 0 1 0] despu姻s. (Auto)[n][e]
 
 [msg skill_2D9]
-[f 0 5 65278][f 2 1]Restaura PE despu姻s de derrotar a un enemigo[n]golpeando su debilidad. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE despu姻s de derrotar a un[n]enemigo golpeando su debilidad. (Auto)[n][e]
 
 [msg skill_2DA]
 [f 0 5 65278][f 2 1]Aumenta el da隠o de las habilidades F胤sicas.[n](Auto)[n][e]
@@ -2195,10 +2195,10 @@
 [f 0 5 65278][f 2 1]0x2DB[n][e]
 
 [msg skill_2DC]
-[f 0 5 65278][f 2 1]Restaura PE cada turno. (Auto) (Requiere[n]C胤rculos)[n][e]
+[f 0 5 65278][f 2 1]Restaura PE cada turno. (Auto)[n](Requiere C胤rculos)[n][e]
 
 [msg skill_2DD]
-[f 0 5 65278][f 2 1]Amplifica los efectos de almacenamiento de[n]PS, m茨s eficaz cuando aumentos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Amplifica los efectos de[n]almacenamiento de PS, m茨s eficaz cuando aumentos. (Auto)[n][e]
 
 [msg skill_2DE]
 [f 0 5 65278][f 2 1]0x2DE[n][e]
@@ -2216,49 +2216,49 @@
 [f 0 5 65278][f 2 1]0x2E2[n][e]
 
 [msg skill_2E3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]Nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de[n]ataque Nuclear. (Auto)[n][e]
 
 [msg skill_2E4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de[n]ataque. (Auto)[n][e]
 
 [msg skill_2E5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]de Bendici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de[n]ataque de Bendici吋n. (Auto)[n][e]
 
 [msg skill_2E6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]de maldici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de[n]ataque de Maldici吋n. (Auto)[n][e]
 
 [msg skill_2E7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Potencia de ataque[n]Nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Potencia de[n]ataque Nuclear. (Auto)[n][e]
 
 [msg skill_2E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de ataque.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de[n]ataque. (Auto)[n][e]
 
 [msg skill_2E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de ataque de[n]Bendici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de[n]ataque de Bendici吋n. (Auto)[n][e]
 
 [msg skill_2EA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de ataque de[n]maldici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento moderado[f 0 1 0] Poder de[n]ataque de Maldici吋n. (Auto)[n][e]
 
 [msg skill_2EB]
-[f 0 5 65278][f 2 1]Puede [f 0 1 2] seguir en gran medida[f 0 1 0][n]ataques de la fila del usuario por 3[n]turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Puede [f 0 1 2]seguir en gran medida[f 0 1 0] ataques de la[n]fila del usuario por 3 turnos. (Propio)[n][e]
 
 [msg skill_2EC]
 [f 0 5 65278][f 2 1]0x2EC[n][e]
 
 [msg skill_2ED]
-[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4] Ataques f胤sicos [f 0 1 0][n]por 3 turnos. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4] Ataques F胤sicos[n][f 0 1 0] por 3 turnos.[n](1 fila)[n][e]
 
 [msg skill_2EE]
 [f 0 5 65278][f 2 1]0x2EE[n][e]
 
 [msg skill_2EF]
-[f 0 5 65278][f 2 1][f 0 1 2]Contratacar poderoso[f 0 1 0] cada vez que[n]la fila del usuario es atacada por 3[n]turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Contratacar poderoso[f 0 1 0] cada vez que la fila[n]del usuario es atacada por 3 turnos. (Propio)[n][e]
 
 [msg skill_2F0]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_2F1]
-[f 0 5 65278][f 2 1]Las habilidades de ataque dirigidas a enemigos[n]se activan dos veces por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque dirigidas a enemigos se[n]activan dos veces por 3 turnos. (Propio)[n][e]
 
 [msg skill_2F2]
 [f 0 5 65278][f 2 1]0x2F2[n][e]
@@ -2267,31 +2267,31 @@
 [f 0 5 65278][f 2 1]0x2F3[n][e]
 
 [msg skill_2F4]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la posibilidad de infligir[n]estados alteradoslrestricciones.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta ligeramente la posibilidad de infligir[n]estados alterados / restricciones. (Auto)[n][e]
 
 [msg skill_2F5]
-[f 0 5 65278][f 2 1]Aumenta la probabilidad de infligir estados[n]alteradoslRestricciones. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la probabilidad de infligir[n]estados alterados/Restricciones. (Auto)[n][e]
 
 [msg skill_2F6]
 [f 0 5 65278][f 2 1]Aumenta ligeramente los da隠os cr胤ticos.[n](Auto)[n][e]
 
 [msg skill_2F7]
-[f 0 5 65278][f 2 1]Aumenta los da隠os cr胤ticos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Aumenta los da隠os cr胤ticos.[n](Auto)[n][e]
 
 [msg skill_2F8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la probabilidad de cr胤ticos[f 0 1 0][n]cuando el objetivo tiene una restricci吋n.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la probabilidad de cr胤ticos[f 0 1 0][n]cuando el objetivo tiene una restricci吋n. (Auto)[n][e]
 
 [msg skill_2F9]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de probabilidad cr胤tica [f 0 1 0][n]cuando el objetivo tiene una restricci吋n.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de probabilidad cr胤tica [f 0 1 0][n]cuando el objetivo tiene una restricci吋n. (Auto)[n][e]
 
 [msg skill_2FA]
-[f 0 5 65278][f 2 1]Un ataque pesado adicional cuando un objetivo[n]tiene una restricci吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Un ataque pesado adicional cuando un[n]objetivo tiene una restricci吋n. (Auto)[n][e]
 
 [msg skill_2FB]
 [f 0 5 65278][f 2 1]0x2FB[n][e]
 
 [msg skill_2FC]
-[f 0 5 65278][f 2 1]Alta oportunidad de disminuir Da隠o f胤sico a[n]la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de disminuir Da隠o[n]F胤sico a la fila del usuario. (Auto)[n][e]
 
 [msg skill_2FD]
 [f 0 5 65278][f 2 1]0x2FD[n][e]
@@ -2306,139 +2306,139 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_301]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_302]
-[f 0 5 65278][f 2 1]Ataque de fuego medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego medio.[n](1 Enemigo)[n][e]
 
 [msg skill_303]
-[f 0 5 65278][f 2 1]Ataque de fuego pesado (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego pesado[n](1 Enemigo)[n][e]
 
 [msg skill_304]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_305]
-[f 0 5 65278][f 2 1]Ataque de Fuego Medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_306]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego pesado[n](Todos los enemigos)[n][e]
 
 [msg skill_307]
 [f 0 5 65278][f 2 1]Ataque de Fuego Ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
 
 [msg skill_308]
-[f 0 5 65278][f 2 1]Ataque de fuego medio que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_309]
-[f 0 5 65278][f 2 1]Ataque de fuego pesado que salpica a cualquier[n]lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_30A]
 [f 0 5 65278][f 2 1]0x30A[n][e]
 
 [msg skill_30B]
-[f 0 5 65278][f 2 1]Ataque de Viento Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_30C]
-[f 0 5 65278][f 2 1]Ataque de viento medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento medio.[n](1 Enemigo)[n][e]
 
 [msg skill_30D]
-[f 0 5 65278][f 2 1]Ataque de viento pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_30E]
-[f 0 5 65278][f 2 1]Ataque de Viento Ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_30F]
-[f 0 5 65278][f 2 1]Ataque de viento medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_310]
-[f 0 5 65278][f 2 1]Ataque de viento pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_311]
-[f 0 5 65278][f 2 1]2-3 ataques ligeros de viento a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques ligeros de Viento a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_312]
-[f 0 5 65278][f 2 1]2-3 ataques medios de viento a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques medios de Viento a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_313]
-[f 0 5 65278][f 2 1]2-3 ataques pesados de viento a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques pesados de Viento a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_314]
 [f 0 5 65278][f 2 1]0x314[n][e]
 
 [msg skill_315]
-[f 0 5 65278][f 2 1]Ataque de hielo ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_316]
-[f 0 5 65278][f 2 1]Ataque de hielo medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo medio.[n](1 Enemigo)[n][e]
 
 [msg skill_317]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_318]
-[f 0 5 65278][f 2 1]Ligero ataque de hielo. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Hielo.[n](Todos los enemigos)[n][e]
 
 [msg skill_319]
-[f 0 5 65278][f 2 1]Ataque de hielo medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_31A]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_31B]
-[f 0 5 65278][f 2 1]2-4 Ataques de hielo medio a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-4 Ataques de Hielo medio a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_31C]
-[f 0 5 65278][f 2 1]Ligero ataque de hielo que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Hielo que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_31D]
-[f 0 5 65278][f 2 1]Ataque de hielo medio que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo medio que perfora a[n]la fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_31E]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_31F]
 [f 0 5 65278][f 2 1]0x31F[n][e]
 
 [msg skill_320]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_321]
-[f 0 5 65278][f 2 1]Ataque medio Elec. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque medio Elec.[n](1 Enemigo)[n][e]
 
 [msg skill_322]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_323]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_324]
-[f 0 5 65278][f 2 1]Ataque medio Elec. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque medio Elec.[n](Todos los enemigos)[n][e]
 
 [msg skill_325]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_326]
 [f 0 5 65278][f 2 1]6 fuertes ataques el姻ctricos a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_327]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico ligero.[n](1 fila)[n][e]
 
 [msg skill_328]
-[f 0 5 65278][f 2 1]Ataque Elec. medio (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque Elec. medio[n](1 fila)[n][e]
 
 [msg skill_329]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico pesado.[n](1 fila)[n][e]
 
 [msg skill_32A]
 [f 0 5 65278][f 2 1]0x32A[n][e]
 
 [msg skill_32B]
-[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_32C]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_32D]
-[f 0 5 65278][f 2 1]Ataque severo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso severo.[n](Todos los enemigos)[n][e]
 
 [msg skill_32E]
 [f 0 5 65278][f 2 1]0x32E[n][e]
@@ -2450,16 +2450,16 @@
 [f 0 5 65278][f 2 1]0x330[n][e]
 
 [msg skill_331]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque basado en[n]bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque basado en bendici吋n)[n][e]
 
 [msg skill_332]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque basado en[n]bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque basado en bendici吋n)[n][e]
 
 [msg skill_333]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_334]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_335]
 [f 0 5 65278][f 2 1]0x335[n][e]
@@ -2471,16 +2471,16 @@
 [f 0 5 65278][f 2 1]0x337[n][e]
 
 [msg skill_338]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque de Maldici吋n)[n][e]
 
 [msg skill_339]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (1 Enemigo) (Ataque de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](1 Enemigo) (Ataque de Maldici吋n)[n][e]
 
 [msg skill_33A]
-[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Baja probabilidad de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_33B]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de muerte instant茨nea[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_33C]
 [f 0 5 65278][f 2 1]0x33C[n][e]
@@ -2492,10 +2492,10 @@
 [f 0 5 65278][f 2 1]0x33E[n][e]
 
 [msg skill_33F]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_340]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de envenenamiento[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_341]
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Petrificaci吋n[f 0 1 0].[n](1 Enemigo)[n][e]
@@ -2504,67 +2504,67 @@
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Petrificaci吋n[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_343]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_344]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_345]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_346]
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_347]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Confusi吋n[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_348]
-[f 0 5 65278][f 2 1]Probabilidad media de ceguera. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Probabilidad media de ceguera.[n](Todos los enemigos)[n][e]
 
 [msg skill_349]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_34A]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_34B]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de par茨lisis[f 0 1 0]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de par茨lisis[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_34C]
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de par茨lisis[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_34D]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_34E]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Restricci吋n M茨gica[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_34F]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n f胤sica[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n f胤sica[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_350]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n f胤sica[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n f胤sica[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_351]
-[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n de Agilidad [f 0 1 0].[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n de Agilidad[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_352]
 [f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Restricci吋n de Agilidad[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_353]
-[f 0 5 65278][f 2 1]Gran ataque Todopoderoso a todos, incluyendo[n]aliados y enemigos.[n][e]
+[f 0 5 65278][f 2 1]Gran ataque Todopoderoso a todos,[n]incluyendo aliados y enemigos.[n][e]
 
 [msg skill_354]
 [f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_355]
-[f 0 5 65278][f 2 1]Ligero ataque de Bendici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_356]
-[f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_357]
-[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_358]
 [f 0 5 65278][f 2 1]0x358[n][e]
@@ -2576,13 +2576,13 @@
 [f 0 5 65278][f 2 1]0x35A[n][e]
 
 [msg skill_35B]
-[f 0 5 65278][f 2 1]Ligero ataque Maldici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_35C]
-[f 0 5 65278][f 2 1]Ataque de Maldici吋n Medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Maldici吋n Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_35D]
-[f 0 5 65278][f 2 1]Ataque pesado de la Maldici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de la Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_35E]
 [f 0 5 65278][f 2 1]0x35E[n][e]
@@ -2594,37 +2594,37 @@
 [f 0 5 65278][f 2 1]0x360[n][e]
 
 [msg skill_361]
-[f 0 5 65278][f 2 1]Ataque nuclear ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_362]
-[f 0 5 65278][f 2 1]Ataque nuclear medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear medio.[n](1 Enemigo)[n][e]
 
 [msg skill_363]
-[f 0 5 65278][f 2 1]Ataque nuclear pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_364]
-[f 0 5 65278][f 2 1]Ataque nuclear severo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear severo.[n](1 Enemigo)[n][e]
 
 [msg skill_365]
-[f 0 5 65278][f 2 1]Ataque nuclear ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_366]
 [f 0 5 65278][f 2 1]0x366[n][e]
 
 [msg skill_367]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque Psíquico.[n](1 Enemigo)[n][e]
 
 [msg skill_368]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_369]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_36A]
-[f 0 5 65278][f 2 1]Ataque ps胤quico severo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque ps胤quico severo.[n](1 Enemigo)[n][e]
 
 [msg skill_36B]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque Ps胤quico.[n](Todos los enemigos)[n][e]
 
 [msg skill_36C]
 [f 0 5 65278][f 2 1]0x36C[n][e]
@@ -2636,19 +2636,19 @@
 [f 0 5 65278][f 2 1]0x36E[n][e]
 
 [msg skill_36F]
-[f 0 5 65278][f 2 1]Ataque de bendici吋n que inflige un da隠o igual[n]a la mitad de los PS actuales del[n]enemigo.(1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de bendici吋n que inflige un da隠o igual a[n]la mitad de los PS actuales del enemigo.(1 Enemigo)[n][e]
 
 [msg skill_370]
-[f 0 5 65278][f 2 1]Ataque de maldici吋n que inflige un da隠o igual[n]a la mitad de los PS actuales del[n]enemigo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Maldici吋n que inflige un da隠o igual a la[n]mitad de los PS actuales del enemigo. (1 Enemigo)[n][e]
 
 [msg skill_371]
 [f 0 5 65278][f 2 1]0x371[n][e]
 
 [msg skill_372]
-[f 0 5 65278][f 2 1]Un ataque de viento severo que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque de Viento severo que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_373]
-[f 0 5 65278][f 2 1]Ataque de viento pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_374]
 [f 0 5 65278][f 2 1]0x374[n][e]
@@ -2690,118 +2690,118 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_381]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. [f 0 1 2] Reduce su ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. [f 0 1 2]Reduce el[n]ataque[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_382]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 2]Reduce su ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. [f 0 1 2]Reduce el[n]ataque[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_383]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que se salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_384]
-[f 0 5 65278][f 2 1]2 ataques F胤sicos ligeros. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]2 ataques F胤sicos ligeros.[n](1 Enemigo)[n][e]
 
 [msg skill_385]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_386]
-[f 0 5 65278][f 2 1]3 ataques F胤sicos medios. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]3 ataques F胤sicos medios.[n](1 Enemigo)[n][e]
 
 [msg skill_387]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_388]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_389]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_38A]
-[f 0 5 65278][f 2 1]3 ataques f胤sicos ligeros a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]3 ataques F胤sicos ligeros a objetivos aleatorios.[n](Todos los enemigos)[n][e]
 
 [msg skill_38B]
-[f 0 5 65278][f 2 1]Ataque de hielo ligero que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo ligero que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_38C]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, [f 0 1 2] da隠o m茨s alto si el objetivo tiene estado alterado[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, [f 0 1 2]da隠o m茨s alto si el objetivo[n]tiene estado alterado[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_38D]
-[f 0 5 65278][f 2 1]2-6 ataques f胤sicos medios. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]2-6 ataques F胤sicos medios.[n](1 Enemigo)[n][e]
 
 [msg skill_38E]
-[f 0 5 65278][f 2 1]Ataque pesado Psy que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado Psíquico que salpica a ambos[n]lados. (1 Enemigo)[n][e]
 
 [msg skill_38F]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que restaura PS al tratar[n]da隠os. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que restaura PS al[n]tratar da隠os. (1 Enemigo)[n][e]
 
 [msg skill_390]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de medio de Restricci吋n f胤sica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad de media de Restricci吋n f胤sica[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_391]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que perfora a la fila[n]trasera. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_392]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad media de agilidad Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad media de Restricci吋n de Agilidad[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_393]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad de medio de Restricci吋n f胤sica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad de media de Restricci吋n f胤sica[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_394]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad de media de Restricci吋n M茨gica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad de media de Restricci吋n M茨gica[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_395]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_396]
-[f 0 5 65278][f 2 1]2 ataques f胤sicos pesados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]2 ataques F胤sicos pesados.[n](1 Enemigo)[n][e]
 
 [msg skill_397]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. [f 0 1 2]Baja el ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado. [f 0 1 2]Reduce[n]el ataque[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_398]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado que afecta hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado que perfora hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_399]
-[f 0 5 65278][f 2 1]6-8 ataques f胤sicos pesados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]6-8 ataques F胤sicos pesados.[n](1 Enemigo)[n][e]
 
 [msg skill_39A]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad media de derribamiento[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de derribamiento[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_39B]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] alta probabilidad de Confusi吋n[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]alta probabilidad[n]de Confusi吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_39C]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 2] Menor defensa por 1 ronda[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. [f 0 1 2]Menor defensa[n]por 1 ronda[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_39D]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_39E]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_39F]
-[f 0 5 65278][f 2 1]Los f胤sicos pesados atacan a ambos lados. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Los F胤sicos pesados atacan a ambos[n]lados. (1 Enemigo)[n][e]
 
 [msg skill_3A0]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_3A1]
-[f 0 5 65278][f 2 1]4 ataques f胤sicos pesados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]4 ataques F胤sicos pesados.[n](1 Enemigo)[n][e]
 
 [msg skill_3A2]
-[f 0 5 65278][f 2 1]4-7 ataques f胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]4-7 ataques F胤sicos medios a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_3A3]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad media de Confusi吋n[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]media de Confusi吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3A4]
-[f 0 5 65278][f 2 1]Ataque nuclear medio que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_3A5]
-[f 0 5 65278][f 2 1]Light Ataque f胤sico. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_3A6]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio.[n](1 Enemigo)[n][e]
 
 [msg skill_3A7]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
@@ -2810,100 +2810,100 @@
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_3A9]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad  media de veneno[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad [n]media de veneno[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3AA]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad media de sue隠o[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad[n]media de sue隠o[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3AB]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad de par茨lisis[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]de par茨lisis[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3AC]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad media de Hex[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Hex[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3AD]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. (1 Fila)[n][e]
 
 [msg skill_3AE]
-[f 0 5 65278][f 2 1]Medium Ataque f胤sico. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_3AF]
-[f 0 5 65278][f 2 1]Medium Ataque f胤sico. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_3B0]
-[f 0 5 65278][f 2 1]2-4 ataques f胤sicos ligeros a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-4 ataques F胤sicos ligeros a objetivos aleatorios.[n](Todos los enemigos)[n][e]
 
 [msg skill_3B1]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_3B2]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que se salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_3B3]
-[f 0 5 65278][f 2 1]4-8 ataques f胤sicos ligeros a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]4-8 ataques F胤sicos ligeros a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_3B4]
-[f 0 5 65278][f 2 1]Ataque f胤sico. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico.[n](Todos los enemigos)[n][e]
 
 [msg skill_3B5]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 2]Reduce su ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. [f 0 1 2]Ataque al[n]menor[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_3B6]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero que se salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_3B7]
-[f 0 5 65278][f 2 1]Ataque de Fuego Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_3B8]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero. (1 Row)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero. (1 Fila)[n][e]
 
 [msg skill_3B9]
-[f 0 5 65278][f 2 1]Ataque f胤sico. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico.[n](Todos los enemigos)[n][e]
 
 [msg skill_3BA]
-[f 0 5 65278][f 2 1]Ataque f胤sico que inflige un da隠o igual a la[n]mitad de los PS actuales del enemigo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico que inflige un da隠o igual a la mitad[n]de los PS actuales del enemigo. (1 Enemigo)[n][e]
 
 [msg skill_3BB]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que se activa el 雨ltimo[n]del turno en que se usa. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que se activa el 雨ltimo del[n]turno en que se usa. (1 Enemigo)[n][e]
 
 [msg skill_3BC]
 [f 0 5 65278][f 2 1]4-8 ataques Nucleares medios a objetivos[n]aleatorios .(Todos los enemigos)[n][e]
 
 [msg skill_3BD]
-[f 0 5 65278][f 2 1]10 ataques f胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]10 ataques F胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_3BE]
-[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]3-6 ataques F胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_3BF]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad media de agilidad Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad media[n]de agilidad Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3C0]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesados. [f 0 1 2]Posibilidad media de Restricci吋n de MagialFuerzalAgilidad[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesados. [f 0 1 2]Posibilidad media de[n]Restricci吋n de Magia/Fuerza/Agilidad[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3C1]
-[f 0 5 65278][f 2 1]8 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]8 ataques F胤sicos medios a objetivos aleatorios.[n](Todos los enemigos)[n][e]
 
 [msg skill_3C2]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico grave.[n](1 Enemigo)[n][e]
 
 [msg skill_3C3]
-[f 0 5 65278][f 2 1]Proporcional Ataque f胤sico. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Proporcional Ataque F胤sico.[n](1 Enemigo)[n][e]
 
 [msg skill_3C4]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad de Restricci吋n de agilidad[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad de[n]Restricci吋n de agilidad[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3C5]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad de Restricci吋n f胤sica[f 0 1 0][n].[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad de[n]Restricci吋n f胤sica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3C6]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad de Restricci吋n M茨gica[f 0 1 0][n].[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad de[n]Restricci吋n M茨gica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3C7]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. [f 0 1 2]Reduce su ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio. [f 0 1 2]Reduce el ataque[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_3C8]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio.[n](1 fila)[n][e]
 
 [msg skill_3C9]
 [f 0 5 65278][f 2 1]0x3C9[n][e]
@@ -2930,16 +2930,16 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_3D1]
-[f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Ligera restauraci吋n de PS[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg skill_3D2]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg skill_3D3]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n completa de PS[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n completa de PS[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg skill_3D4]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS moderada[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_3D5]
 [f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS proporcional[f 0 1 0].[n](Propio)[n][e]
@@ -2954,34 +2954,34 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n completa de PS[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_3D9]
-[f 0 5 65278][f 2 1]Revive con la mitad de PS restaurados. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]Revive con la mitad de PS restaurados.[n](1 Aliado)[n][e]
 
 [msg skill_3DA]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive[f 0 1 0] con todos los PS restaurados.[n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Revive[f 0 1 0] con todos los PS[n]restaurados. (1 Aliado)[n][e]
 
 [msg skill_3DB]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive[f 0 1 0] con la mitad de PS restaurados.[n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Revive[f 0 1 0] con la mitad de PS[n]restaurados. (1 Aliado)[n][e]
 
 [msg skill_3DC]
-[f 0 5 65278][f 2 1]Elimina todas las debilitaciones. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Elimina todas las debilitaciones.[n](1 fila)[n][e]
 
 [msg skill_3DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg skill_3DE]
-[f 0 5 65278][f 2 1]Anula los estados alterados. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Anula los estados alterados.[n](1 fila)[n][e]
 
 [msg skill_3DF]
 [f 0 5 65278][f 2 1]Anula los estados alterados. (Grupo)[n][e]
 
 [msg skill_3E0]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina restricciones[f 0 1 0]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina las restricciones[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg skill_3E1]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina las restricciones[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_3E2]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar restricciones[f 0 1 0]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina las restricciones[f 0 1 0].[n](Grupo)[n][e]
 
 [msg skill_3E3]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -2993,40 +2993,40 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el ataque[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_3E6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 1 turno. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0][n]por 1 turno. (1 Aliado)[n][e]
 
 [msg skill_3E7]
-[f 0 5 65278][f 2 1]Anula 1 ataque F胤sico. Dura 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]Anula 1 ataque F胤sico.[n]Dura 3 turnos.[n][e]
 
 [msg skill_3E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_3E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects an ally.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (1 Ally)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a un aliado.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg skill_3EA]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (User's Row)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Fila del usuario)[n][e]
 
 [msg skill_3EB]
-[f 0 5 65278][f 2 1][f 0 1 4]Raise defense[f 0 1 0] ＆ protects allies. [f 0 1 4]Extra[n]defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_3EC]
-[f 0 5 65278][f 2 1]Durante 3 turnos, recibe ataques de aliados[n]que tengan menos del 50% de PS.[n][e]
+[f 0 5 65278][f 2 1]Durante 3 turnos, recibe ataques de[n]aliados que tengan menos del 50% de PS.[n][e]
 
 [msg skill_3ED]
-[f 0 5 65278][f 2 1]Aumenta la defensa f胤sica durante 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la defensa f胤sica durante 3 turnos. (Grupo)[n][e]
 
 [msg skill_3EE]
-[f 0 5 65278][f 2 1]Aumenta la defensa de afinidad durante 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la defensa de afinidad durante 3 turnos. (Grupo)[n][e]
 
 [msg skill_3EF]
-[f 0 5 65278][f 2 1]Aumenta la precisi吋n durante 5 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la precisi吋n durante 5 turnos. (Grupo)[n][e]
 
 [msg skill_3F0]
-[f 0 5 65278][f 2 1]Aumente la tasa de cr胤ticos por 5 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la tasa de cr胤ticos por 5 turnos. (Propio)[n][e]
 
 [msg skill_3F1]
-[f 0 5 65278][f 2 1]Aumenta el ataque de afinidad durante 3[n]turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Aumenta el ataque de afinidad durante 3 turnos.[n](Propio)[n][e]
 
 [msg skill_3F2]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
@@ -3035,52 +3035,52 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
 
 [msg skill_3F4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
 
 [msg skill_3F5]
-[f 0 5 65278][f 2 1]Triplica el ataque f胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Triplica el ataque F胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_3F6]
 [f 0 5 65278][f 2 1]Triplica el ataque m茨gico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_3F7]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al Fuego[f 0 1 0] por[n]3 turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al Fuego[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_3F8]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al hielo[f 0 1 0] por[n]3 turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al Hielo[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_3F9]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia Elec[f 0 1 0] por 3[n]turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia Elec[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_3FA]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al viento[f 0 1 0] por[n]3 turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al Viento[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_3FB]
-[f 0 5 65278][f 2 1]Reduce la defensa f胤sica por 3 turnos. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Reduce la defensa f胤sica por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_3FC]
-[f 0 5 65278][f 2 1]Reduce la defensa de afinidad durante 3[n]turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Reduce la defensa de afinidad durante[n]3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_3FD]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el ataque[f 0 1 0] por 3 turnos. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce el ataque[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_3FE]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la defensa[f 0 1 0] por 3 turnos.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la defensa[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_3FF]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la precisi吋n y evasi吋n[f 0 1 0] por[n]3 turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reduce la precisi吋n y evasi吋n[f 0 1 0][n]por 3 turnos. (Todos los enemigos)[n][e]
 
 [msg skill_400]
 [f 0 5 65278][f 2 1]Vac胤e el Medidor del Grupo.[n][e]
 
 [msg skill_401]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina Potenciadores[f 0 1 0]. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Elimina los aumentos[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_402]
 [f 0 5 65278][f 2 1][f 0 1 4]Eliminar desventajas[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_403]
-[f 0 5 65278][f 2 1]Espera a un aliado y realiza un golpe simult茨neo[n]con 姻l.[n][e]
+[f 0 5 65278][f 2 1]Espera a un aliado y realiza un[n]golpe simult茨neo con 姻l.[n][e]
 
 [msg skill_404]
 [f 0 5 65278][f 2 1]Escapa de la batalla.[n][e]
@@ -3092,58 +3092,58 @@
 [f 0 5 65278][f 2 1]0x406[n][e]
 
 [msg skill_407]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_408]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_409]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la[n]evasi吋n[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_40A]
-[f 0 5 65278][f 2 1][f 0 1 2]Reducir ataque[f 0 1 0] por 3 turnos. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reducir ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_40B]
-[f 0 5 65278][f 2 1][f 0 1 2]Reducir defensa[f 0 1 0] por 3 turnos. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reducir defensa[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_40C]
-[f 0 5 65278][f 2 1][f 0 1 2]Reducir precisi吋n y evasi吋n[f 0 1 0] por 3[n]turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Reducir precisi吋n y evasi吋n[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_40D]
 [f 0 5 65278][f 2 1]0x40D[n][e]
 
 [msg skill_40E]
-[f 0 5 65278][f 2 1]Triplica el ataque f胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Triplica el ataque F胤sico del siguiente[n]golpe por 3 turnos. (Propio)[n][e]
 
 [msg skill_40F]
-[f 0 5 65278][f 2 1]Restricci吋n de MagialFuerzalAgilidad a todos[n]los objetivos.[n][e]
+[f 0 5 65278][f 2 1]Restricci吋n de Magia/Fuerza/Agilidad[n]a todos los objetivos.[n][e]
 
 [msg skill_410]
 [f 0 5 65278][f 2 1]Da un grito de guerra.[n][e]
 
 [msg skill_411]
-[f 0 5 65278][f 2 1]Aumenta la emoci吋n. Permite el uso de un[n]ataque poderoso.[n][e]
+[f 0 5 65278][f 2 1]Aumenta la emoci吋n. Permite el uso de[n]un ataque poderoso.[n][e]
 
 [msg skill_412]
-[f 0 5 65278][f 2 1]2-3 ataques f胤sicos pesados a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques F胤sicos pesados a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_413]
-[f 0 5 65278][f 2 1]4 ataques f胤sicos pesados a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]4 ataques F胤sicos pesados a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_414]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Proporcional . (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Proporcional .[n](Todos los enemigos)[n][e]
 
 [msg skill_415]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n [f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[n][f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_416]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n [f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[n][f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_417]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n [f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la precisi吋n y la evasi吋n[n][f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
 
 [msg skill_418]
-[f 0 5 65278][f 2 1][f 0 1 2]Menor ataqueldefensa y precisi吋nlevasi吋n [f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Menor ataque/defensa y precisi吋n/evasi吋n[n][f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_419]
 [f 0 5 65278][f 2 1]0x419[n][e]
@@ -3179,28 +3179,28 @@
 [f 0 5 65278][f 2 1]0x423[n][e]
 
 [msg skill_424]
-[f 0 5 65278][f 2 1]Aumenta la resistencia al fuego por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia al Fuego por 3[n]turnos. (Grupo)[n][e]
 
 [msg skill_425]
-[f 0 5 65278][f 2 1]Aumenta la resistencia del viento por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia del Viento por 3[n]turnos. (Grupo)[n][e]
 
 [msg skill_426]
-[f 0 5 65278][f 2 1]Levante resistencia al hielo por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Levante resistencia al Hielo por 3[n]turnos. (Grupo)[n][e]
 
 [msg skill_427]
-[f 0 5 65278][f 2 1]Aumente la resistencia de Elec por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia de Elec por 3[n]turnos. (Grupo)[n][e]
 
 [msg skill_428]
-[f 0 5 65278][f 2 1]Aumente la resistencia a la Bendici吋n por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia a la Bendici吋n por 3[n]turnos. (Grupo)[n][e]
 
 [msg skill_429]
-[f 0 5 65278][f 2 1]Aumenta la resistencia a la maldici吋n por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia a la Maldici吋n[n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_42A]
-[f 0 5 65278][f 2 1]Aumenta la resistencia Psy por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia Psíquico por 3 turnos. (Grupo)[n][e]
 
 [msg skill_42B]
-[f 0 5 65278][f 2 1]Aumente la resistencia Nuclear por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia Nuclear por 3[n]turnos. (Grupo)[n][e]
 
 [msg skill_42C]
 [f 0 5 65278][f 2 1]0x42C[n][e]
@@ -3218,19 +3218,19 @@
 [f 0 5 65278][f 2 1]0x430[n][e]
 
 [msg skill_431]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Potencia de[n]ataque de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque de Fuego. (Auto)[n][e]
 
 [msg skill_432]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]de hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque de Hielo. (Auto)[n][e]
 
 [msg skill_433]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque Elec. (Auto)[n][e]
 
 [msg skill_434]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] Poder de ataque[n]al viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque al Viento. (Auto)[n][e]
 
 [msg skill_435]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementa la evasi吋n[f 0 1 0] contra todos[n]los ataques. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Incrementa la evasi吋n[f 0 1 0] contra[n]todos los ataques. (Auto)[n][e]
 
 [msg skill_436]
 [f 0 5 65278][f 2 1]0x436[n][e]
@@ -3248,22 +3248,22 @@
 [f 0 5 65278][f 2 1]0x43A[n][e]
 
 [msg skill_43B]
-[f 0 5 65278][f 2 1]Baja oportunidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de ataque de[n]un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja Probabilidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de ataque de un solo objetivo. (Auto)[n][e]
 
 [msg skill_43C]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de ataque de[n]un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de ataque de un solo objetivo. (Auto)[n][e]
 
 [msg skill_43D]
-[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de ataque de[n]un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de ataque de un solo objetivo. (Auto)[n][e]
 
 [msg skill_43E]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de baja probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque de baja[n]probabilidad se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_43F]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de mediana probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque de mediana[n]probabilidad se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_440]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de alta probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Las habilidades de ataque de alta[n]probabilidad se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_441]
 [f 0 5 65278][f 2 1]0x441[n][e]
@@ -3272,19 +3272,19 @@
 [f 0 5 65278][f 2 1]0x442[n][e]
 
 [msg skill_443]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n PS completa. Elimina todos[n]estados alterados y Restricciones[f 0 1 0].[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n PS completa. Elimina todos estados alterados[n]y Restricciones[f 0 1 0]. (1 fila)[n][e]
 
 [msg skill_444]
-[f 0 5 65278][f 2 1]Alta probabilidad de[f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de un solo[n]objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de[f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de un solo objetivo. (Auto)[n][e]
 
 [msg skill_445]
-[f 0 5 65278][f 2 1]Alta probabilidad de[f 0 1 2]MagiclStrengthl Restricci吋n de Agilidad[f 0 1 0][n]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de[f 0 1 2]Magic/Strength/[n]Restricci吋n de Agilidad[f 0 1 0]. (1 fila)[n][e]
 
 [msg skill_446]
 [f 0 5 65278][f 2 1]Las habilidades de ataque de alta probabilidad[n]se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_447]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_448]
 [f 0 5 65278][f 2 1]0x448[n][e]
@@ -3293,52 +3293,52 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque[n]Elec. (Auto)[n][e]
 
 [msg skill_44A]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque de[n]hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque[n]de Hielo. (Auto)[n][e]
 
 [msg skill_44B]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque Psy.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque[n]Psíquico. (Auto)[n][e]
 
 [msg skill_44C]
 [f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque[n]Nuclear. (Auto)[n][e]
 
 [msg skill_44D]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque de[n]Bendici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque[n]de Bendici吋n. (Auto)[n][e]
 
 [msg skill_44E]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque de[n]maldici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento[f 0 1 0] de poder de ataque[n]de Maldici吋n. (Auto)[n][e]
 
 [msg skill_44F]
 [f 0 5 65278][f 2 1]0x44 F[n][e]
 
 [msg skill_450]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en el[n]n雨mero de Enlaces utilizados. (Auto)[n][e]
 
 [msg skill_451]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento da隠o de Enlace[f 0 1 0] basado[n]en el n雨mero de Enlaces utilizados.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
 
 [msg skill_452]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en el[n]n雨mero de Enlaces utilizados. (Auto)[n][e]
 
 [msg skill_453]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento da隠o de Enlace[f 0 1 0] basado[n]en el n雨mero de Enlaces utilizados.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
 
 [msg skill_454]
-[f 0 5 65278][f 2 1]Alta oportunidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0][n]a habilidades de un solo[n]objetivo por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a habilidades[n]de un solo objetivo por 3 turnos. (Propio)[n][e]
 
 [msg skill_455]
 [f 0 5 65278][f 2 1]0x455[n][e]
 
 [msg skill_456]
-[f 0 5 65278][f 2 1][f 0 1 4]A隠ade salpicadura[f 0 1 0] a habilidades de[n]un solo objetivo para 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]A隠ade salpicadura[f 0 1 0] a habilidades de un[n]solo objetivo para 3 turnos. (Propio)[n][e]
 
 [msg skill_457]
 [f 0 5 65278][f 2 1]0x457[n][e]
 
 [msg skill_458]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] y [f 0 1 2] reduce la defensa[f 0 1 0][n]por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] y [f 0 1 2][n]reduce la defensa[f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_459]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de ataques Psy.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de ataques Psíquico.[n](Auto)[n][e]
 
 [msg skill_45A]
 [f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de ataques Nucleares.[n](Auto)[n][e]
@@ -3542,49 +3542,49 @@
 [f 0 5 65278][f 2 1]0x49C[n][e]
 
 [msg skill_49D]
-[f 0 5 65278][f 2 1]Dale Boost a otro aliado. El uso no puede[n]ser cancelado.[n][e]
+[f 0 5 65278][f 2 1]Dale Boost a otro aliado.[n]El uso no puede ser cancelado.[n][e]
 
 [msg skill_49E]
-[f 0 5 65278][f 2 1][f 0 1 2]Rango[f 0 1 0] Ataque f胤sico con el arma[n]equipada.[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Rango[f 0 1 0][n]Ataque F胤sico con el arma equipada.[n][e]
 
 [msg skill_49F]
-[f 0 5 65278][f 2 1][f 0 1 4]Prep茨rense inmediatamente para los ataques[n]enemigos y reduce el da隠o causado.[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Prep茨rense inmediatamente para los[n]ataques enemigos y reduce el da隠o causado.[f 0 1 0].[n][e]
 
 [msg skill_4A0]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_4A1]
-[f 0 5 65278][f 2 1]Invoca Soldados de Carta y retrocede.[n][e]
+[f 0 5 65278][f 2 1]Invocar a los Soldados de Carta y retrocede.[n][e]
 
 [msg skill_4A2]
-[f 0 5 65278][f 2 1]Invoca Soldados de Cartas a la primera fila.[n][e]
+[f 0 5 65278][f 2 1]Invocar a los Soldados de Carta a la fila delantera.[n][e]
 
 [msg skill_4A3]
 [f 0 5 65278][f 2 1]0x4A3[n][e]
 
 [msg skill_4A4]
-[f 0 5 65278][f 2 1]Da隠o fuerte, con ataduras de magia, fuerza[n]y agilidad, en rompedores de votos.[n][e]
+[f 0 5 65278][f 2 1]Da隠o fuerte, con ataduras de[n]magia, fuerza y agilidad, en rompedores de votos.[n][e]
 
 [msg skill_4A5]
 [f 0 5 65278][f 2 1]Prohibir un tipo de acci吋n.[n][e]
 
 [msg skill_4A6]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado que perfora hasta la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
 
 [msg skill_4A7]
-[f 0 5 65278][f 2 1]8 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]8 ataques F胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_4A8]
-[f 0 5 65278][f 2 1]Heavy Ataque f胤sico. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_4A9]
-[f 0 5 65278][f 2 1]Ataque de Viento Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_4AA]
-[f 0 5 65278][f 2 1]Ataque de viento ligero que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento ligero que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
 
 [msg skill_4AB]
-[f 0 5 65278][f 2 1]Ataque de Viento Ligero. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Ligero.[n](1 fila)[n][e]
 
 [msg skill_4AC]
 [f 0 5 65278][f 2 1]4 ataques de Viento Ligeros a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
@@ -3641,10 +3641,10 @@
 [f 0 5 65278][f 2 1]0x4BD[n][e]
 
 [msg skill_4BE]
-[f 0 5 65278][f 2 1]Restricci吋n de MagialFuerzalAgilidad a todos[n]los objetivos.[n][e]
+[f 0 5 65278][f 2 1]Restricci吋n de Magia/Fuerza/Agilidad[n]a todos los objetivos.[n][e]
 
 [msg skill_4BF]
-[f 0 5 65278][f 2 1]Prohibir el uso de una habilidad de objetivo[n]masivo por persona.[n][e]
+[f 0 5 65278][f 2 1]Prohibir el uso de una habilidad de objetivo masivo por persona.[n][e]
 
 [msg skill_4C0]
 [f 0 5 65278][f 2 1]Prohibir el uso de una habilidad para todos.[n][e]
@@ -3659,13 +3659,13 @@
 [f 0 5 65278][f 2 1]0x4C3[n][e]
 
 [msg skill_4C4]
-[f 0 5 65278][f 2 1]2 ataques f胤sicos medios a objetivos aleatorios.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2 ataques F胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_4C5]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_4C6]
-[f 0 5 65278][f 2 1]Ataque de PS proporcional que causa Restricci吋n[n]de MagialFuerzalAgilidad a todos.[n][e]
+[f 0 5 65278][f 2 1]Ataque de PS proporcional que causa[n]Restricci吋n de Magia/Fuerza/Agilidad a todos.[n][e]
 
 [msg skill_4C7]
 [f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n de PS proporcional[f 0 1 0].[n](Propio)[n][e]
@@ -3677,10 +3677,10 @@
 [f 0 5 65278][f 2 1]0x4C9[n][e]
 
 [msg skill_4CA]
-[f 0 5 65278][f 2 1]Ataque severo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_4CB]
-[f 0 5 65278][f 2 1]Ataque severo Todopoderoso. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_4CC]
 [f 0 5 65278][f 2 1]0x4CC[n][e]
@@ -3692,34 +3692,34 @@
 [f 0 5 65278][f 2 1]0x4CE[n][e]
 
 [msg skill_4CF]
-[f 0 5 65278][f 2 1]Ataque de fuego pesado que salpica a cualquier[n]lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_4D0]
-[f 0 5 65278][f 2 1]Ataque de hielo pesado que perfora a la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo pesado que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_4D1]
-[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n.[n](1 fila)[n][e]
 
 [msg skill_4D2]
-[f 0 5 65278][f 2 1]2-3 ataques fuertes de Maldici吋n a objetivos[n]aleatorios. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques fuertes de Maldici吋n a[n]objetivos aleatorios. (1 fila)[n][e]
 
 [msg skill_4D3]
 [f 0 5 65278][f 2 1]0x4D3[n][e]
 
 [msg skill_4D4]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado que perfora hasta la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
 
 [msg skill_4D5]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_4D6]
 [f 0 5 65278][f 2 1]0x4D6[n][e]
 
 [msg skill_4D7]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de fuego.[n][e]
+[f 0 5 65278][f 2 1]Toma un aura de afinidad de Fuego.[n][e]
 
 [msg skill_4D8]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de hielo.[n][e]
+[f 0 5 65278][f 2 1]Toma un aura de afinidad de Hielo.[n][e]
 
 [msg skill_4D9]
 [f 0 5 65278][f 2 1]Toma un aura de afinidad de Bendici吋n.[n][e]
@@ -3728,10 +3728,10 @@
 [f 0 5 65278][f 2 1]Toma un aura de afinidad de Maldici吋n.[n][e]
 
 [msg skill_4DB]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de fuego.[n][e]
+[f 0 5 65278][f 2 1]Toma un aura de afinidad de Fuego.[n][e]
 
 [msg skill_4DC]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de hielo.[n][e]
+[f 0 5 65278][f 2 1]Toma un aura de afinidad de Hielo.[n][e]
 
 [msg skill_4DD]
 [f 0 5 65278][f 2 1]Toma un aura de afinidad de Bendici吋n.[n][e]
@@ -3746,16 +3746,16 @@
 [f 0 5 65278][f 2 1]Libera rabia y cobra energ胤a.[n][e]
 
 [msg skill_4E1]
-[f 0 5 65278][f 2 1]Ataque f胤sico severo que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico severo que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_4E2]
 [f 0 5 65278][f 2 1]0x4E2[n][e]
 
 [msg skill_4E3]
-[f 0 5 65278][f 2 1]Rebobinar tiempo.[n][e]
+[f 0 5 65278][f 2 1]Rebobinar el tiempo.[n][e]
 
 [msg skill_4E4]
-[f 0 5 65278][f 2 1]Avance r茨pido en el tiempo.[n][e]
+[f 0 5 65278][f 2 1]Avanzar en el tiempo.[n][e]
 
 [msg skill_4E5]
 [f 0 5 65278][f 2 1]0x4E5[n][e]
@@ -3797,7 +3797,7 @@
 [f 0 5 65278][f 2 1]0x4F1[n][e]
 
 [msg skill_4F2]
-[f 0 5 65278][f 2 1]Ataque de viento ligero. [f 0 1 2] Otros ataques aliados ganan da隠o de enlace[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento ligero. [f 0 1 2]Otros ataques aliados[n]ganan da隠o de enlace[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_4F3]
 [f 0 5 65278][f 2 1]NO USTED[n][e]
@@ -3842,64 +3842,64 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_501]
-[f 0 5 65278][f 2 1]Habilidad de dos chicos duros y masculinos:[n]Ryuji l Kanji[n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos chicos duros y[n]masculinos: Ryuji / Kanji[n][e]
 
 [msg skill_502]
-[f 0 5 65278][f 2 1]Habilidad de dos chicas infinitamente alegres:[n]Ann l Chie[n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos chicas infinitamente[n]alegres: Ann / Chie[n][e]
 
 [msg skill_503]
-[f 0 5 65278][f 2 1]Habilidad de dos paragones de gracia: Yukiko[n]l Yusuke[n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos paradigmas de gracia:[n]Yukiko / Yusuke[n][e]
 
 [msg skill_504]
-[f 0 5 65278][f 2 1]Skill by two wild card team leaders:[n][f 6 1 30 0 0 0] l [f 6 1 13 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos líderes de equipos con comodines: [f 6 1 30 0 0] / [f 6 1 13 0 0 0 0][n][e]
 
 [msg skill_505]
-[f 0 5 65278][f 2 1]Habilidad del Principe Detective: Akechi l[n]Naoto[n][e]
+[f 0 5 65278][f 2 1]Habilidad de Príncipes Detectives:[n]Akechi / Naoto[n][e]
 
 [msg skill_506]
-[f 0 5 65278][f 2 1]Habilidad liberada por herederos: Haru l[n]Yukiko[n][e]
+[f 0 5 65278][f 2 1]Habilidad de herederas liberadas:[n]Haru / Yukiko[n][e]
 
 [msg skill_507]
-[f 0 5 65278][f 2 1]Habilidad por los presidentes del consejo[n]estudiantil: Makoto l Mitsuru[n][e]
+[f 0 5 65278][f 2 1]Habilidad de presidentas de consejo estudiantil: Makoto / Mitsuru[n][e]
 
 [msg skill_508]
-[f 0 5 65278][f 2 1]Skill by a heroine and her classmates:[n][f 6 1 27 0 0 0] l Yukari l Junpei l Fuuka[n][e]
+[f 0 5 65278][f 2 1]Habilidad de una hero胤na y sus[n]compa隠eros de clase: [f 6 1 27 0 0] / Yukari /[n]Junpei / Fuuka[n][e]
 
 [msg skill_509]
-[f 0 5 65278][f 2 1]Habilidad por tres chicos hambrientos: Yusuke[n]l Shinjiro l Akihiko[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres muchachos hambrientos:[n]Yusuke / Shinjiro / Akihiko[n][e]
 
 [msg skill_50A]
-[f 0 5 65278][f 2 1]Habilidad por ladrones y su disc胤pulo: Ken[n]l Morgana l Ryuji l Ann[n][e]
+[f 0 5 65278][f 2 1]Habilidad de ladrones y su discípulo:[n]Ken / Morgana / Ryuji / Ann[n][e]
 
 [msg skill_50B]
-[f 0 5 65278][f 2 1]Skill by a heroine and her senpai:[n][f 6 1 27 0 0 0] l Mitsuru l Akihiko l Shinjiro[n][e]
+[f 0 5 65278][f 2 1]Habilidad de una heroína y su senpai:[n][f 6 1 27 0 0] / Mitsuru / Akihiko / Shinjiro[n][e]
 
 [msg skill_50C]
-[f 0 5 65278][f 2 1]Habilidad por (en su mayor胤a) enigmas adorables:[n]Morgana l Teddie l Koromaru[n][e]
+[f 0 5 65278][f 2 1]Habilidad de enigmas (en su mayoría) adorables: Morgana / Teddie / Koromaru[n][e]
 
 [msg skill_50D]
-[f 0 5 65278][f 2 1]Skill by wild cards with guts of steel:[n][f 6 1 13 0 0 0] l [f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de comodines con agallas de acero: [f 6 1 13 0 0] / [f 6 1 16 0 0 0][n][e]
 
 [msg skill_50E]
-[f 0 5 65278][f 2 1]Skill by a heroine and her new bonds:[n][f 6 1 27 0 0 0] l Aigis l Koromaru l Ken[n][e]
+[f 0 5 65278][f 2 1]Habilidad de una heroína y sus nuevos lazos: [f 6 1 27 0 0] / Aigis / Koromaru / Ken[n][e]
 
 [msg skill_50F]
-[f 0 5 65278][f 2 1]Skill by two mature wild cards:[n][f 6 1 30 0 0 0] l [f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos comodines maduros: [f 6 1 30 0 0] / [f 6 1 16 0 0 0 0][n][e]
 
 [msg skill_510]
-[f 0 5 65278][f 2 1]Habilidad por cuatro bellezas (?): Haru l[n]Aigis l Rise l Teddie[n][e]
+[f 0 5 65278][f 2 1]Habilidad de cuatro bellezas(?): Haru[n]/ Aigis / Rise / Teddie[n][e]
 
 [msg skill_511]
-[f 0 5 65278][f 2 1]Habilidad por tres navegantes: Futaba l[n]Lev茨ntate l Fuuka[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres navegadores: Futaba / Rise / Fuuka[n][e]
 
 [msg skill_512]
-[f 0 5 65278][f 2 1]Habilidad de tres artistas marciales: Makoto[n]l Akihiko l Chie[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres artistas marciales:[n]Makoto / Akihiko / Chie[n][e]
 
 [msg skill_513]
-[f 0 5 65278][f 2 1]Habilidad por tres socios(?) de las cartas[n]silvestres: Junpei l Yosuke l Ryuji[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres compañeros(?) de los[n]comodín: Junpei / Yosuke / Ryuji[n][e]
 
 [msg skill_514]
-[f 0 5 65278][f 2 1]Skill by four wild cards: [f 6 1 30 0 0 0] l[n][f 6 1 27 0 0 0] l [f 6 1 13 0 0 0] l [f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de cuatro comodines: [f 6 1 30 0 0] / [f 6 1 27 0 0] / [f 6 1 13 0 0] / [f 6 1 16 0 0 0][n][e]
 
 [msg skill_515]
 [f 0 5 65278][f 2 1]0x515[n][e]
@@ -4127,22 +4127,22 @@
 [f 0 5 65278][f 2 1]0x55F[n][e]
 
 [msg skill_560]
-[f 0 5 65278][f 2 1]Ligero ataque de Bendici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_561]
-[f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_562]
-[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_563]
-[f 0 5 65278][f 2 1]Ligero ataque de Bendici吋n. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque de Bendici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_564]
-[f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_565]
-[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de Bendici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_566]
 [f 0 5 65278][f 2 1]0x566[n][e]
@@ -4157,22 +4157,22 @@
 [f 0 5 65278][f 2 1]0x569[n][e]
 
 [msg skill_56A]
-[f 0 5 65278][f 2 1]Ligero ataque Maldici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_56B]
-[f 0 5 65278][f 2 1]Ataque de Maldici吋n Medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Maldición Media.[n](1 Enemigo)[n][e]
 
 [msg skill_56C]
-[f 0 5 65278][f 2 1]Ataque pesado de la Maldici吋n. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de la Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_56D]
-[f 0 5 65278][f 2 1]Ligero ataque Maldici吋n. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ligero ataque Maldici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_56E]
-[f 0 5 65278][f 2 1]Ataque de Cursa Media. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Maldici吋n Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_56F]
-[f 0 5 65278][f 2 1]Ataque pesado de la maldici吋n. (Todos los[n]enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque pesado de la Maldici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_570]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -4187,94 +4187,94 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_574]
-[f 0 5 65278][f 2 1]Ataque nuclear ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_575]
-[f 0 5 65278][f 2 1]Ataque nuclear medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear medio.[n](1 Enemigo)[n][e]
 
 [msg skill_576]
-[f 0 5 65278][f 2 1]Ataque nuclear pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_577]
-[f 0 5 65278][f 2 1]Ataque nuclear ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_578]
-[f 0 5 65278][f 2 1]Ataque nuclear medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_579]
-[f 0 5 65278][f 2 1]Ataque nuclear pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_57A]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_57B]
-[f 0 5 65278][f 2 1]Ataque nuclear severo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear severo.[n](1 Enemigo)[n][e]
 
 [msg skill_57C]
-[f 0 5 65278][f 2 1]Ataque nuclear severo. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear severo.[n](Todos los enemigos)[n][e]
 
 [msg skill_57D]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_57E]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Ligero. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Ligero.[n](1 Enemigo)[n][e]
 
 [msg skill_57F]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_580]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado.[n](1 Enemigo)[n][e]
 
 [msg skill_581]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Ligero. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Ligero.[n](Todos los enemigos)[n][e]
 
 [msg skill_582]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_583]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado.[n](Todos los enemigos)[n][e]
 
 [msg skill_584]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_585]
-[f 0 5 65278][f 2 1]Ataque ps胤quico severo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico severo.[n](1 Enemigo)[n][e]
 
 [msg skill_586]
-[f 0 5 65278][f 2 1]Ataque ps胤quico severo. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Ps胤quico severo.[n](Todos los enemigos)[n][e]
 
 [msg skill_587]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado. (1 Enemigo)[n][f 0 1 3]Stronger in Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_588]
-[f 0 5 65278][f 2 1]3-6 ataques f胤sicos medios a objetivos[n]aleatorios. (Todos los enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]3-6 ataques F胤sicos medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_589]
-[f 0 5 65278][f 2 1]Ataques de F胤sicas pesados. (Todos los[n]enemigos) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataques de F胤sicas pesados.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58A]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_58B]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58C]
-[f 0 5 65278][f 2 1]Ataque f胤sico grave que perfora a la fila[n]trasera. (1 Enemigo) [f 0 1 3]M茨s fuerte en Boost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico grave que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58D]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] alta probabilidad de Hex[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad[n]de Hex[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_58E]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, con [f 0 1 2] probabilidad media de agilidad Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad media[n]de agilidad Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_58F]
-[f 0 5 65278][f 2 1]Ataque f胤sico Medio a objetivos aleatorios[n][f 0 1 4] m茨s fuerte con cada golpe[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Medio a objetivos aleatorios [f 0 1 4][n]m茨s fuerte con cada golpe[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg skill_590]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_591]
-[f 0 5 65278][f 2 1]Ataques f胤sicos pesados a objetivos aleatorios[n][f 0 1 4] m茨s fuerte con cada golpe[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataques F胤sicos pesados a objetivos aleatorios [f 0 1 4][n]m茨s fuerte con cada golpe[f 0 1 0]. (Todos los enemigos)[n][e]
 
 [msg skill_592]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -4286,218 +4286,218 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_595]
-[f 0 5 65278][f 2 1]Ataque f胤sico ligero, con [f 0 1 2] probabilidad media de dormir[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]media de sue隠o[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_596]
-[f 0 5 65278][f 2 1][f 0 1 4]Slightly raise defense[f 0 1 0] ＆ protect allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente la defensa[f 0 1 0] y protege a[n]los aliados. [f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_597]
-[f 0 5 65278][f 2 1][f 0 1 4]2l3 Costos de habilidad[f 0 1 0] por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]2/3 Costos de habilidad[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_598]
-[f 0 5 65278][f 2 1][f 0 1 4]2l3 Costos de habilidad[f 0 1 0] por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]2/3 Costos de habilidad[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_599]
-[f 0 5 65278][f 2 1][f 0 1 2]Contratacar[f 0 1 0] cada vez que la fila[n]del usuario es atacada por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Contrataca[f 0 1 0] cada vez que la fila del[n]usuario es atacada por 3 turnos. (Propio)[n][e]
 
 [msg skill_59A]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_59B]
-[f 0 5 65278][f 2 1]Puede [f 0 1 2]seguir[f 0 1 0] los ataques[n]de la fila del usuario durante 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1]Puede [f 0 1 2]follow―up[f 0 1 0] de la fila del usuario durante 3 turnos. (Propio)[n][e]
 
 [msg skill_59C]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_59D]
-[f 0 5 65278][f 2 1]Doble ataque m茨gico en el pr吋ximo por 3[n]turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]Duplica el ataque mágico del próximo golpe{0A}durante 3 turnos. (Propio)[n][e]
 
 [msg skill_59E]
-[f 0 5 65278][f 2 1]Posibilidad media de anular[f 0 1 4] Ataques f胤sicos [f 0 1 0][n]por 3 turnos. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Anular[f 0 1 4] Ataques F胤sicos[n][f 0 1 0] por 3 turnos. (1 fila)[n][e]
 
 [msg skill_59F]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_5A0]
-[f 0 5 65278][f 2 1]Probabilidad media de [f 0 1 2]restricci吋n de MagialFuerzalAgilidad[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Probabilidad media de [f 0 1 2]Restricci吋n de[n]Magia/Fuerza/Agilidad[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5A1]
-[f 0 5 65278][f 2 1][f 0 1 2]Contratacar[f 0 1 0] cada vez que la fila[n]del usuario es atacada por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Contrataca[f 0 1 0] cada vez que la fila del[n]usuario es atacada durante 3 turnos. (Propio)[n][e]
 
 [msg skill_5A2]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_5A3]
-[f 0 5 65278][f 2 1][f 0 1 4]Greatly raise defense[f 0 1 0] ＆ protect allies.[n][f 0 1 4]Extra defense while protecting[f 0 1 0]. (Party)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente la defensa[f 0 1 0] y protege a los[n]aliados. [f 0 1 4]Defensa adicional al proteger[f 0 1 0]. (Grupo)[n][e]
 
 [msg skill_5A4]
-[f 0 5 65278][f 2 1]Las habilidades de ataque de alta probabilidad[n]se activan dos veces por 2 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de que las habilidades de ataque se activen[n]dos veces durante 2 turnos. (Propio)[n][e]
 
 [msg skill_5A5]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_5A6]
-[f 0 5 65278][f 2 1][f 0 1 2]Contratacar poderoso[f 0 1 0] cada vez que[n]la fila del usuario es atacada por 3[n]turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Contrataque poderoso[f 0 1 0] cada vez que la fila del[n]usuario es atacada por 3 turnos. (Propio)[n][e]
 
 [msg skill_5A7]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_5A8]
-[f 0 5 65278][f 2 1]Burla, guardia y contraataque al ser atacado.[n]Defensa extra al proteger. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Provoca, Defiende y Contraataca al ser atacado.[n]Defensa extra al proteger. (Grupo)[n][e]
 
 [msg skill_5A9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente el da隠o[f 0 1 0][n]al golpear la debilidad de un enemigo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente el da隠o[f 0 1 0][n]al golpear la debilidad de un enemigo. (Auto)[n][e]
 
 [msg skill_5AA]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta enormemente el ataque[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta enormemente el[n]ataque[f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_5AB]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el ataque[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el ataque[n][f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_5AC]
-[f 0 5 65278][f 2 1]Peque隠o da隠o f胤sico. [f 0 1 2]Baja precisi吋n, pero alta probabilidad de cr胤ticos[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Peque隠o da隠o F胤sico. [f 0 1 2]Baja Precisi吋n, pero[n]alta probabilidad de cr胤ticos[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5AD]
-[f 0 5 65278][f 2 1]Da隠o f胤sico medio. [f 0 1 2]precisi吋n m胤nima, pero alta probabilidad de cr胤ticos[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Da隠o F胤sico medio. [f 0 1 2]Precisi吋n m胤nima, pero[n]alta probabilidad de cr胤ticos[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_5AE]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_5AF]
-[f 0 5 65278][f 2 1]Al atacar a un enemigo, los aliados hacen[n]m茨s da隠o al objetivo (Auto)[n][e]
+[f 0 5 65278][f 2 1]Al atacar a un enemigo, los aliados[n]hacen m茨s da隠o al objetivo (Auto)[n][e]
 
 [msg skill_5B0]
-[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4]Death Counter[f 0 1 0][n]cuando la batalla comienza.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4]Contador de Muerte[f 0 1 0][n]al comenzar la batalla. (Auto)[n][e]
 
 [msg skill_5B1]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]Death Counter[f 0 1 0][n]cuando la batalla comienza.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4]Contador de Muerte[f 0 1 0][n]al comenzar la batalla. (Auto)[n][e]
 
 [msg skill_5B2]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5B3]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PS[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PS[f 0 1 0][n]al final[n]del turno. (Auto)[n][e]
 
 [msg skill_5B4]
-[f 0 5 65278][f 2 1]Probabilidad media de [f 0 1 2]restricci吋n de MagialFuerzalAgilidad[f 0 1 0][n]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Probabilidad media de [f 0 1 2]Restricci吋n de[n]Magia/Fuerza/Agilidad[f 0 1 0]. (1 fila)[n][e]
 
 [msg skill_5B5]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumentar moderadamente la evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
 
 [msg skill_5B6]
-[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4] anular los ataques de F胤sicos[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4] anular los ataques[n]de F胤sicos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5B7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar moderadamente la evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta moderadamente la Evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
 
 [msg skill_5B8]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementa la evasi吋n[f 0 1 0] contra todos[n]los ataques. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la Evasi吋n[f 0 1 0][n]contra todos los ataques. (Auto)[n][e]
 
 [msg skill_5B9]
-[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4] anular los ataques de F胤sicos[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de [f 0 1 4] anular los[n]ataques de F胤sicos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5BA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente el da隠o[f 0 1 0][n]al golpear la debilidad de un enemigo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Incrementa el da隠o[f 0 1 0] al golpear[n]la debilidad de un enemigo. (Auto)[n][e]
 
 [msg skill_5BB]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n moderada de PE[f 0 1 0] mientras[n]camina en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n moderada de PE[f 0 1 0][n]mientras camina en laberinto. (Auto)[n][e]
 
 [msg skill_5BC]
 [f 0 5 65278][f 2 1]Alta posibilidad de derribar. (Auto)[n][e]
 
 [msg skill_5BD]
-[f 0 5 65278][f 2 1]Alta oportunidad de [f 0 1 4]anular da隠o de FuegolHielolElecl VientolPsylNuclear[f 0 1 0][n][n]a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de [f 0 1 4]anular el da隠o de Fuego/Hielo/Elec/[n]Viento/Psíquico/Nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
 
 [msg skill_5BE]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5BF]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n moderada de PS[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n moderada de PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5C0]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PS[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5C1]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PE[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PE[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5C2]
-[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n moderada de PE[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restauraci吋n moderada de PE[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5C3]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PE[f 0 1 0] al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PE[f 0 1 0][n]al final del turno. (Auto)[n][e]
 
 [msg skill_5C4]
-[f 0 5 65278][f 2 1]Ataque f胤sico medio, [f 0 1 2] da隠o m茨s alto si el objetivo tiene un estado alterado[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene un estado alterado[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5C5]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, [f 0 1 2] mayor da隠o si el objetivo tiene estado alterado[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, [f 0 1 2]mayor da隠o si el[n]objetivo tiene estado alterado[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5C6]
-[f 0 5 65278][f 2 1]Ataque f胤sico Med., [f 0 1 2]mayor da隠o si el objetivo tiene una restricci吋n, elimina Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Med., [f 0 1 2]mayor da隠o si el objetivo tiene[n]una restricci吋n, elimina Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5C7]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, [f 0 1 2] da隠o m茨s alto si el objetivo tiene una restricci吋n, elimina Restricci吋n[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, [f 0 1 2]da隠o m茨s alto si el objetivo[n]tiene una restricci吋n, elimina Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5C8]
-[f 0 5 65278][f 2 1]Ataque f胤sico pesado, con [f 0 1 2] probabilidad de media de Restricci吋n M茨gica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad de media[n]de Restricci吋n M茨gica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5C9]
-[f 0 5 65278][f 2 1]Ataque f胤sico Pesados, con [f 0 1 2] probabilidad de medio de Restricci吋n f胤sica[f 0 1 0][n][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad de media[n]de Restricci吋n f胤sica[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_5CA]
-[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4] anular ataques F胤sicos[f 0 1 0][n]. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de [f 0 1 4][n]anular ataques F胤sicos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5CB]
-[f 0 5 65278][f 2 1][f 0 1 4]Costos de habilidad reducidos[f 0 1 0] por[n]3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Costos de habilidad reducidos[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_5CC]
-[f 0 5 65278][f 2 1][f 0 1 4]Costos de habilidad reducidos[f 0 1 0] por[n]3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Costos de habilidad reducidos[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
 
 [msg skill_5CD]
-[f 0 5 65278][f 2 1]Probabilidad media de [f 0 1 4]anular ataques[f 0 1 0][n][f 0 1 4]F胤sicas[f 0 1 0].[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]Probabilidad media de [f 0 1 4]anular[n]ataques[f 0 1 0] [f 0 1 4]F胤sicos[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5CE]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementar St en 2[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Fr en 2[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5CF]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementar St en 3[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Fr en 3[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D0]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementar St en 4[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Fr en 4[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D1]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la Ma en 2[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ma en 2[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D2]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la Ma en 3[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ma en 3[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la Ma en 4[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ma en 4[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar En en 2[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Rs en 2[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar En en 3[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Rs en 3[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar En en 4[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Rs en 4[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar Ag en 2[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ag en 2[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar Ag en 3[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ag en 3[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5D9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar Ag en 4[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ag en 4[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5DA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar Lu en 2[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Su en 2[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5DB]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar Lu en 3[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Su en 3[f 0 1 0]. (Auto)[n][e]
 
 [msg skill_5DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar Lu en 4[f 0 1 0]. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Su en 4[f 0 1 0]. (Auto)[n][e]
 

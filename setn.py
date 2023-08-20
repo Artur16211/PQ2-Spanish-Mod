@@ -275,6 +275,7 @@ def run_program():
                                 line = line[:last_occurrence_index]
                             # add "# " in start of the line to differentiate the sel lines
                             line = "# " + line
+                            # Remove # for tutorial ↑
                     if game == "Persona 5" or game == "Persona 5 Royal":
                         if last_occurrence_index != -1:
                             line = line[:last_occurrence_index] + \
