@@ -1,20 +1,20 @@
-﻿[msg S00_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se rompi吋 el interruptor.[n][f 1 1][e]
+[msg S00_DG_GIMMICK_SWITCH_MS]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Gir吋 el interruptor.[n][f 1 1][e]
 
 [msg S01_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Volteaste el interruptor firmemente en su[n]otra posici吋n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Has girado firmemente el interruptor a su otra posici吋n.[n][f 1 1][e]
 
 [msg S02_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ha sido volteado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ha sido girado.[n][f 1 1][e]
 
 [msg S03_DG_GIMMICK_SWITCH_MS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ya ha sido volteado firmemente[n]en su otra posici吋n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El interruptor ya ha sido girado firmemente a su otra posici吋n.[n][f 1 1][e]
 
 [msg S04_DG_GIMMICK_CHANGE_SW]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se ha encendido el interruptor.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Gir吋 el interruptor a ENCENDIDO.[n][f 1 1][e]
 
 [msg S05_DG_GIMMICK_CHANGE_SW]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Cogi吋 el interruptor a OFF.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Gir吋 el interruptor a APAGADO.[n][f 1 1][e]
 
 [msg S06_DG_GIMMICK_CHANGE_SE]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Los reflectores han sido apagados.[n][f 1 1][e]
@@ -35,14 +35,14 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]El poder ya ha sido apagado.[n][f 1 1][e]
 
 [msg S12_DG_GIMMICK_SERI_CHAN]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se utilizaron los ascensores.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Los ascensores fueron utilizados.[n][f 1 1][e]
 
 [msg S13_DG_GIMMICK_BOUHU_OPE]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 9]La direcci吋n del viento cambi吋.[n][f 1 1][e]
 
 [msg S14_DG_GIMMICK_SERI_FIRS]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se utilizaron los ascensores.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Los ascensores fueron utilizados.[n][f 1 1][e]
 
 [msg S15_DG_GIMMICK_BOUHU_FIR]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Hay un sonido de maquinaria...[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 9]Se escucha el sonido de maquinaria...[n][f 1 1][e]
 

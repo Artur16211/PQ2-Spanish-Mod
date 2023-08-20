@@ -378,7 +378,7 @@
 [msg book_bonus002_03 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 6 1 2 0 0 6]Te haremos un descuento cuando convocas[n]Personas fuera de la pel胤cula![n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 78 6 0 0]Aun as胤, parece que hay mucho m茨s por ah胤[n]que no hemos visto...[n][f 1 1][e]
-[f 0 5 65278][f 2 1]No nos importar胤a verte sconvocar a todos[n]estos nuevos seres.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]No nos importar胤a verte convocar a todos[n]estos nuevos seres.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 6 1 2 0 0 6]Esperamos mucho m茨s de ti... Pero por ahora,[n]斡puedes tener una recompensa![n][f 1 1][e]
 
 [msg book_bonus003_01 [Justine]]

@@ -1,213 +1,213 @@
-﻿[msg D01_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Corre de la polic胤a[n][e]
+[msg D01_OBJECTIVE_MSG_LARGE_]
+[f 0 5 65278][f 2 1]Huye de la polic胤a.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Save Makoto y Haru[n][e]
+[f 0 5 65278][f 2 1]Salva a Makoto y Haru.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL_]
-[f 0 5 65278][f 2 1]Encontrar un camino hacia adelante[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Objetivo para las escaleras[n][e]
+[f 0 5 65278][f 2 1]Apunta hacia las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__3]
-[f 0 5 65278][f 2 1]Dodge el FOE para seguir adelante[n][e]
+[f 0 5 65278][f 2 1]Esquiva al FOE para avanzar.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__4]
-[f 0 5 65278][f 2 1]Objetivo para las escaleras[n][e]
+[f 0 5 65278][f 2 1]Apunta hacia las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Procedido m茨s all茨 de las escaleras[n][e]
+[f 0 5 65278][f 2 1]Contin雨a m茨s all茨 de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__6]
-[f 0 5 65278][f 2 1]Encontrar un camino hacia adelante[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__7]
-[f 0 5 65278][f 2 1]Mira el punto brillante[n][e]
+[f 0 5 65278][f 2 1]Verifica el punto brillante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__8]
-[f 0 5 65278][f 2 1]Encontrar un camino hacia adelante[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__9]
-[f 0 5 65278][f 2 1]Proceder mientras apaga las luces[n][e]
+[f 0 5 65278][f 2 1]Avanza evitando las luces.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__10]
-[f 0 5 65278][f 2 1]Encontrar un camino hacia adelante[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__11]
-[f 0 5 65278][f 2 1]Procedido m茨s all茨 de las escaleras[n][e]
+[f 0 5 65278][f 2 1]Contin雨a m茨s all茨 de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__12]
-[f 0 5 65278][f 2 1]Encontrar otro camino hacia adelante[n][e]
+[f 0 5 65278][f 2 1]Encuentra otra ruta hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__13]
-[f 0 5 65278][f 2 1]Encuentra los controles de la luz[n][e]
+[f 0 5 65278][f 2 1]Encuentra los controles de la luz.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__14]
-[f 0 5 65278][f 2 1]Encontrar un camino hacia adelante[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__15]
-[f 0 5 65278][f 2 1]Procedido m茨s all茨 de las escaleras[n][e]
+[f 0 5 65278][f 2 1]Avanza m茨s all茨 de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__3]
-[f 0 5 65278][f 2 1]Aprende c吋mo apagar las luces[n][e]
+[f 0 5 65278][f 2 1]Aprende c吋mo apagar las luces.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__16]
-[f 0 5 65278][f 2 1]Recorrer el 茨rea de alta seguridad[n][e]
+[f 0 5 65278][f 2 1]Atraviesa la zona de alta seguridad.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__4]
-[f 0 5 65278][f 2 1]Defeat Kamoshidaman[n][e]
+[f 0 5 65278][f 2 1]Derrota a Kamoshidaman.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__17]
-[f 0 5 65278][f 2 1](TEMP) Adelante[n][e]
+[f 0 5 65278][f 2 1](TEMP) Contin雨a adelante.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Encuentra los dinosaurios del trailer[n][e]
+[f 0 5 65278][f 2 1]Encuentra los dinosaurios del tr茨iler.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL_]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a hacia adelante.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Encuentra las lecturas misteriosas[n][e]
+[f 0 5 65278][f 2 1]Encuentra las lecturas misteriosas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Cuidado con las FOEs mientras avanza[n][e]
+[f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras avanzas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE__3]
-[f 0 5 65278][f 2 1]Encuentra a Yosuke[n][e]
+[f 0 5 65278][f 2 1]Encuentra a Yosuke.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__3]
-[f 0 5 65278][f 2 1]Encontrar un interruptor y pasar las puertas[n][e]
+[f 0 5 65278][f 2 1]Encuentra un interruptor y pasa por las puertas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__4]
-[f 0 5 65278][f 2 1]Ve tras Yosukesaurus[n][e]
+[f 0 5 65278][f 2 1]Persigue a Yosukesaurus.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Cuidado con las FOEs mientras avanza[n][e]
+[f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras avanzas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__6]
-[f 0 5 65278][f 2 1]Ve tras el herb胤voro girado[n][e]
+[f 0 5 65278][f 2 1]Persigue al herb胤voro robado.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE__4]
-[f 0 5 65278][f 2 1]Rescate Yosuke[n][e]
+[f 0 5 65278][f 2 1]Rescata a Yosuke.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__7]
-[f 0 5 65278][f 2 1]Trae el carn胤voro con puertas[n][e]
+[f 0 5 65278][f 2 1]Atrapa al carn胤voro con las puertas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__8]
-[f 0 5 65278][f 2 1]Ve a Yosuke[n][e]
+[f 0 5 65278][f 2 1]Ve con Yosuke.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE__5]
-[f 0 5 65278][f 2 1]Ve tras la manada[n][e]
+[f 0 5 65278][f 2 1]Persigue a la manada.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__9]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__10]
-[f 0 5 65278][f 2 1]Aprende lo extra隠o que es el sonido[n][e]
+[f 0 5 65278][f 2 1]Descubre qu姻 es ese sonido extra隠o.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__11]
-[f 0 5 65278][f 2 1]Encontrar un camino que pasa por los 茨rboles[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino que rodee los 茨rboles.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__12]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__13]
-[f 0 5 65278][f 2 1]Hacer cebo carn胤voro[n][e]
+[f 0 5 65278][f 2 1]Prepara un cebo para carn胤voros.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__14]
-[f 0 5 65278][f 2 1]Lure el carn胤voro en posici吋n[n][e]
+[f 0 5 65278][f 2 1]Atrae al carn胤voro a la posici吋n.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__15]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Encuentra el robot con una cinta[n][e]
+[f 0 5 65278][f 2 1]Encuentra el robot con una cinta.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL_]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Encuentra al due隠o del Evoker[n][e]
+[f 0 5 65278][f 2 1]Encuentra al due隠o del Evocador.[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__3]
-[f 0 5 65278][f 2 1]Encontrar Aigis y su l胤der[n][e]
+[f 0 5 65278][f 2 1]Encuentra a Aigis y a su l胤der.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Cuidado con las FOEs mientras avanza[n][e]
+[f 0 5 65278][f 2 1]Mantente atento a los FOE mientras avanzas.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__3]
-[f 0 5 65278][f 2 1]Abre la puerta[n][e]
+[f 0 5 65278][f 2 1]Abre la puerta.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__4]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Ve por la puerta[n][e]
+[f 0 5 65278][f 2 1]Pasa por la puerta.[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__4]
-[f 0 5 65278][f 2 1]Cambiar el final de la pel胤cula[n][e]
+[f 0 5 65278][f 2 1]Cambia el final de la pel胤cula.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__6]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__7]
-[f 0 5 65278][f 2 1]Utilice las verrugas para proceder[n][e]
+[f 0 5 65278][f 2 1]Utiliza los portales para avanzar.[n][e]
 
 [msg D03_OBJECTIVE_MSG_LARGE__5]
-[f 0 5 65278][f 2 1]Derrotar la computadora madre[n][e]
+[f 0 5 65278][f 2 1]Derrota a la Madre Computadora.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__8]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D04_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Encontrar Hikari[n][e]
+[f 0 5 65278][f 2 1]Encuentra a Hikari.[n][e]
 
 [msg D04_OBJECTIVE_MSG_SMALL_]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D04_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Controla los ascensores para proceder[n][e]
+[f 0 5 65278][f 2 1]Controla los ascensores para avanzar.[n][e]
 
 [msg D05_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Dir胤jase a la ubicaci吋n de Enlil[n][e]
+[f 0 5 65278][f 2 1]Dir胤gete a la ubicaci吋n de Enlil.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL_]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Encontrar una soluci吋n a los desechos[n][e]
+[f 0 5 65278][f 2 1]Encuentra una soluci吋n para los escombros.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__3]
-[f 0 5 65278][f 2 1]Lure el FOE a los escombros[n][e]
+[f 0 5 65278][f 2 1]Atrae al FOE hacia los escombros.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__4]
-[f 0 5 65278][f 2 1]Proceded onward[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Procede con cuidado del viento[n][e]
+[f 0 5 65278][f 2 1]Avanza con cuidado al viento.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__6]
-[f 0 5 65278][f 2 1]Cuidado con las FOEs mientras avanza[n][e]
+[f 0 5 65278][f 2 1]Ten cuidado con los FOEs mientras avanzas.[n][e]
 
 [msg D01_00_OBJECTIVE_MSG_SMA]
-[f 0 5 65278][f 2 1]Siga las instrucciones de Oracle[n][e]
+[f 0 5 65278][f 2 1]Sigue las instrucciones de Oracle.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__18]
-[f 0 5 65278][f 2 1]Vaya a la Plaza del Memorial[n][e]
+[f 0 5 65278][f 2 1]Dir胤gete a la Plaza Memorial.[n][e]
 
 [msg D05_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Llevar a cabo el plan[n][e]
+[f 0 5 65278][f 2 1]Lleva a cabo el plan.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__7]
-[f 0 5 65278][f 2 1]Saca toda la pel胤cula[n][e]
+[f 0 5 65278][f 2 1]Cambia toda la pel胤cula.[n][e]
 
 [msg D05_OBJECTIVE_MSG_LARGE__3]
-[f 0 5 65278][f 2 1]Poner fin a este terrible plan[n][e]
+[f 0 5 65278][f 2 1]Pon fin a este terrible plan.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__8]
-[f 0 5 65278][f 2 1]Dir胤jase a la ubicaci吋n de Enlil[n][e]
+[f 0 5 65278][f 2 1]Dir胤gete a la ubicaci吋n de Enlil.[n][e]
 
 [msg D04_OBJECTIVE_MSG_LARGE__2]
-[f 0 5 65278][f 2 1]Dir胤jase a las profundidades[n][e]
+[f 0 5 65278][f 2 1]Dir胤gete a las profundidades.[n][e]
 
