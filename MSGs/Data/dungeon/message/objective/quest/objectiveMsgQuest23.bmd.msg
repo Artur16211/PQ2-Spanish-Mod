@@ -1,5 +1,5 @@
-﻿[msg DG_OBJECTIVE_MSG_LARGE_0]
-[f 0 5 65278][f 2 1]斡Defeat Rampage Drives![n][e]
+[msg DG_OBJECTIVE_MSG_LARGE_0]
+[f 0 5 65278][f 2 1]斡Derrota a las Unidades Descontroladas![n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 [f 0 5 65278][f 2 1]Derrota 4 m茨s[n][e]

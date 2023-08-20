@@ -1,17 +1,17 @@
-﻿[msg DG_OBJECTIVE_MSG_LARGE_0]
-[f 0 5 65278][f 2 1]斡Defeat KNS-1000![n][e]
+[msg DG_OBJECTIVE_MSG_LARGE_0]
+[f 0 5 65278][f 2 1]斡Derrota a KNS-1000![n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-[f 0 5 65278][f 2 1]Utilice su mapa para localizar el objetivo[n][e]
+[f 0 5 65278][f 2 1]Utiliza tu mapa para ubicar el objetivo.[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-[f 0 5 65278][f 2 1]Derrotar 9 m茨s[n][e]
+[f 0 5 65278][f 2 1]Derrota 9 m茨s[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-[f 0 5 65278][f 2 1]Derrotar 8 m茨s[n][e]
+[f 0 5 65278][f 2 1]Derrota 8 m茨s[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
-[f 0 5 65278][f 2 1]Derrotar 7 m茨s[n][e]
+[f 0 5 65278][f 2 1]Derrota 7 m茨s[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_5]
 [f 0 5 65278][f 2 1]Derrota 6 m茨s[n][e]
