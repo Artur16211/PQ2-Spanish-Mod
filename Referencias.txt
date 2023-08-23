@@ -1,0 +1,19 @@
+﻿Baton Pass -> Relevo
+Evoker -> Evocador
+Persona Film -> Persona Film # Temporal
+Follow-Up -> 
+All-Out Attack -> Ataque combinado
+Velvet Room -> Habitación Terciopelo
+Lv -> Nv
+Teasure Spot -> Punto de Tesoro
+Boost -> Boost 
+
+HP -> PS
+SP -> PE
+
+# Estadisticas
+St -> Fr
+Ma -> Ma
+En -> Rs
+Ag -> Ag
+Lu -> Su
