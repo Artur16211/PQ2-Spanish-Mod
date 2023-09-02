@@ -31,43 +31,43 @@
 [f 0 5 65278][f 2 1][f 4 6 77 0 0 0]もう見つからないようだな。（※ダミーです）[n][f 1 3 65535][f 1 1][e]
 
 [msg MARGA_MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55393]That's it.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55393]Eso es.[n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57393]Hehe, yay![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57393]斡Jeje, yay![n][f 1 6 65535][e]
 
 [msg MARGA_MSG_006]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55394]Passable.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55394]Aceptable.[n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_006]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57394]I got it![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57394]斡Lo tengo![n][f 1 6 65535][e]
 
 [msg MARGA_MSG_007]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55395]Not bad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55395]No est茨 mal.[n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_007]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57395]Treasure![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57395]斡Tesoro![n][f 1 6 65535][e]
 
 [msg MSG_008 [Nanako]]
 [f 0 5 65278][f 2 1][f 4 6 77 0 0 0]勘付かれたか。[n]採取はここまでにしよう。（※ダミーです）[n][f 1 3 65535][f 1 1][e]
 
 [msg MARGA_MSG_009]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55396]That is commendable.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55396]Eso es digno de elogio.[n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_009]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57396]This looks good![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57396]斡Esto parece bueno![n][f 1 6 65535][e]
 
 [msg MARGA_MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55397]Very good.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55397]Muy bien.[n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57397]Yay! I did it![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57397]斡Yay! 斡Lo logr姻![n][f 1 6 65535][e]
 
 [msg MARGA_MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55398]Excellent results.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55398]Excelentes resultados.[n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57398]Yay! This is amazing![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57398]斡Yay! 斡Esto es incre胤ble![n][f 1 6 65535][e]
 
 [msg MSG_012 [Nanako]]
 [f 0 5 65278][f 2 1][f 4 6 77 0 0 0]ショートカットか。[n]どうする？　通っておくか？（※ダミーです）[n][f 1 3 65535][f 1 1][e]
@@ -115,8 +115,8 @@
 [f 0 5 65278][f 2 1][f 4 6 77 0 0 0]出入り口がある。[n]戻るか？[n](出入り口MSG（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MARGA_MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55399]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55399]斡Cuidado![n][f 1 6 65535][e]
 
 [msg NANAKO_MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57399]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57399]斡Cuidado![n][f 1 6 65535][e]
 

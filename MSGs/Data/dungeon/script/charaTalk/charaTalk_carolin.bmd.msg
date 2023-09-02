@@ -31,43 +31,43 @@
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0]もう見つからないようだな。（※ダミーです）[n][f 1 3 65535][f 1 1][e]
 
 [msg CARO_MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58393]Not bad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58393]No est茨 mal.[n][f 1 6 65535][e]
 
 [msg JUS_MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59393]Very nice.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59393]Muy bien.[n][f 1 6 65535][e]
 
 [msg CARO_MSG_006]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58394]I suppose that's fine.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58394]Supongo que est茨 bien.[n][f 1 6 65535][e]
 
 [msg JUS_MSG_006]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59394]Good work.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59394]Buen trabajo.[n][f 1 6 65535][e]
 
 [msg CARO_MSG_007]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58395]Not bad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58395]No est茨 mal.[n][f 1 6 65535][e]
 
 [msg JUS_MSG_007]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59395]That's not too bad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59395]Eso no est茨 tan mal.[n][f 1 6 65535][e]
 
 [msg MSG_008 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0]勘付かれたか。[n]採取はここまでにしよう。（※ダミーです）[n][f 1 3 65535][f 1 1][e]
 
 [msg CARO_MSG_009]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58396]A good find![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58396]斡Un buen hallazgo![n][f 1 6 65535][e]
 
 [msg JUS_MSG_009]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59396]Is that...!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59396]夷斡Eso es...!?[n][f 1 6 65535][e]
 
 [msg CARO_MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58397]That's not bad at all! [n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58397]斡No est茨 nada mal en absoluto![n][f 1 6 65535][e]
 
 [msg JUS_MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59397]Wonderful...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59397]Maravilloso...[n][f 1 6 65535][e]
 
 [msg CARO_MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58398]I'll allow you to be praised![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58398]斡Permitir姻 que te elogien![n][f 1 6 65535][e]
 
 [msg JUS_MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59398]You shall be praised.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59398]Debes ser elogiado.[n][f 1 6 65535][e]
 
 [msg MSG_012 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0]ショートカットか。[n]どうする？　通っておくか？（※ダミーです）[n][f 1 3 65535][f 1 1][e]
@@ -115,8 +115,8 @@
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0]出入り口がある。[n]戻るか？[n](出入り口MSG（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg CARO_MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58399]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58399]斡Cuidado![n][f 1 6 65535][e]
 
 [msg JUS_MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59399]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59399]斡Cuidado![n][f 1 6 65535][e]
 

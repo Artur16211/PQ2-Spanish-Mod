@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24077]Hm? Have you decided against it?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24109]Looks like that's it for this one. Not bad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24109]Looks like that's it for this one. No está mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24378]This belongs to us now.[n][f 1 6 65535][e]

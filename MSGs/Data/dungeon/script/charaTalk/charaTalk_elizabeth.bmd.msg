@@ -31,43 +31,43 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 0 0]もう見つからないようだな。（※ダミーです）[n][f 1 3 65535][f 1 1][e]
 
 [msg ZABE_MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54393]Not bad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54393]No est茨 mal.[n][f 1 6 65535][e]
 
 [msg THEO_MSG_005]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56393]That went well.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56393]Eso fue bien.[n][f 1 6 65535][e]
 
 [msg ZABE_MSG_006]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54394]Oh my.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54394]Oh, vaya.[n][f 1 6 65535][e]
 
 [msg THEO_MSG_006]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56394]It appears to be going well.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56394]Parece que va bien.[n][f 1 6 65535][e]
 
 [msg ZABE_MSG_007]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54395]Well, well, well.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54395]Bien, bien, bien.[n][f 1 6 65535][e]
 
 [msg THEO_MSG_007]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56395]This is quite nice...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56395]Esto es bastante agradable...[n][f 1 6 65535][e]
 
 [msg MSG_008 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 0 0]勘付かれたか。[n]採取はここまでにしよう。（※ダミーです）[n][f 1 3 65535][f 1 1][e]
 
 [msg ZABE_MSG_009]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54396]Quite the find![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54396]斡Un hallazgo impresionante![n][f 1 6 65535][e]
 
 [msg THEO_MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56396]おおっ！（※ダミーです）[n][f 1 6 65535][e]
 
 [msg ZABE_MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54397]O-Ooh![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54397]斡O-oh![n][f 1 6 65535][e]
 
 [msg THEO_MSG_010]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56397]Quite the find![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56397]斡Un hallazgo impresionante![n][f 1 6 65535][e]
 
 [msg ZABE_MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54398]My, a rare one![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54398]Vaya, 斡uno raro![n][f 1 6 65535][e]
 
 [msg THEO_MSG_011]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56398]That's quite rare![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56398]斡Eso es bastante raro![n][f 1 6 65535][e]
 
 [msg MSG_012 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 0 0]ショートカットか。[n]どうする？　通っておくか？（※ダミーです）[n][f 1 3 65535][f 1 1][e]
@@ -115,11 +115,11 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 0 0]出入り口がある。[n]戻るか？[n](出入り口MSG（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65535]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65535]斡Cuidado![n][f 1 6 65535][e]
 
 [msg ZABE_MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54399]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54399]斡Cuidado![n][f 1 6 65535][e]
 
 [msg THEO_MSG_027]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56399]¡Cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56399]斡Cuidado![n][f 1 6 65535][e]
 
