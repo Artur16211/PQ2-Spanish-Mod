@@ -1,29 +1,29 @@
-﻿[msg YUKARI_FOE_FOLLOW_START_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10300]Whoa! 斡Un FOE nos vio![n][f 1 6 65535][e]
+[msg YUKARI_FOE_FOLLOW_START_]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10300]斡Whoa! 斡Un FOE nos vio![n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_FOLLOW_START__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10301]夷Qu姻 hacemos? 斡Un FOE se acerca![n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_FOLLOW_START__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10302]斡Hay un FOE huyendo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10302]斡Un FOE est茨 huyendo![n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10303]Hay un FOE... 夷Podemos pasar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10303]Hay un FOE... 夷Podremos pasar?[n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10304]Es un FOE, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10304]Es un FOE, 夷no?[n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10305]Uh oh... Ese FOE est茨 muy cerca.[n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10306]斡Parece que nos quitamos ese FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10306]斡Parece que nos quitamos ese FOE de encima![n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10307]Creo que nos escapamos de ese FOE...[n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10308]Oh, ese FOE se rindi吋 sobre nosotros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10308]Oh, ese FOE no pudo con nosotros.[n][f 1 6 65535][e]
 
 [msg YUKARI_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10369]斡No queremos que nos vean aqu胤![n][f 1 6 65535][e]
@@ -35,13 +35,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10371]斡Cuidado! 斡Tenemos que permanecer inc吋gnitos![n][f 1 6 65535][e]
 
 [msg YUKARI_DENKISAKU_REACTIO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10372]Primero tenemos que detener el poder.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10372]Tenemos que detener la energ胤a primero.[n][f 1 6 65535][e]
 
 [msg YUKARI_DENKISAKU_REACTIO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10373]Probablemente no deber胤amos tocar eso, 夷eh?[n][f 1 6 65535][e]
 
 [msg YUKARI_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10374]S胤... Mira c吋mo est茨 arcing...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10374]斡Dios m胤o... mira c吋mo est茨 arqueando...[n][f 1 6 65535][e]
 
 [msg YUKARI_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10375]夷Qu姻?[n][f 1 6 65535][e]
@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10326]斡Podemos ir a la siguiente zona![n][f 1 6 65535][e]
 
 [msg YUKARI_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10327]Veo una caja de tesoros... No es una trampa[n]ni nada, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10327]Veo un cofre del tesoro... No es una trampa[n]ni nada, 夷verdad?[n][f 1 6 65535][e]
 
 [msg YUKARI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10328]斡Es nuestro d胤a de suerte! 夷Deber胤amos abrir[n]la caja del tesoro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10328]斡Es nuestro d胤a de suerte! 夷Deber胤amos abrir[n]el tesoro?[n][f 1 6 65535][e]
 
 [msg YUKARI_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10329]斡Una caja de tesoros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10329]斡Una cofre del tesoro![n][f 1 6 65535][e]
 
 [msg YUKARI_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10330]Creo que hay algo aqu胤... 夷Quieres mirar m茨s[n]de cerca?[n][f 1 6 65535][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10333]夷Quieres revisar ese interruptor?[n][f 1 6 65535][e]
 
 [msg YUKARI_SWITCH_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10334]夷Un cambio...? 夷Qu姻 debemos hacer?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10334]夷Un interruptor...? 夷Qu姻 debemos hacer?[n][f 1 6 65535][e]
 
 [msg YUKARI_SWITCH_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10335]斡Oh! 斡Hay un interruptor![n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10310]Espera, 夷esa cosa sigue persigui姻ndonos?[n][f 1 6 65535][e]
 
 [msg YUKARI_FOE_WARNING_NEAR__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10311]斡Que FOE sigue en la zona![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10311]斡Ese FOE sigue en la zona![n][f 1 6 65535][e]
 
 [msg YUKARI_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -137,10 +137,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10312]Lo siento, estoy en mal estado...[n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10313]No puedo mantener esto arriba...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10313]*jadeo* *jadeo* No puedo seguir as胤...[n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10314]No puedo seguir... 夷Podemos volver por ahora?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10314]No puedo seguir... 夷Podemos volver?[n][f 1 6 65535][e]
 
 [msg YUKARI_PARTY_TP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10315]Mi salud... est茨 casi fuera...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10315]Mi salud... estoy a punto de...[n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10316]Ngh, he terminado por...[n][f 1 6 65535][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10319]Me siento como el infierno... 夷Podemos[n]acostarnos?[n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10320]Estoy completamente fuera de ella...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10320]Estoy completamente fuera de combate...[n][f 1 6 65535][e]
 
 [msg YUKARI_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -179,13 +179,13 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10321]Hey, esa pelea fue bastante bien![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10321]Hey, 斡esa pelea fue bastante bien![n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10322]Ser胤a genial si pudi姻ramos seguir as胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10322]斡Ser胤a genial si pudi姻ramos seguir as胤![n][f 1 6 65535][e]
 
 [msg YUKARI_1PERSON_HP80_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10322]斡Punto uno para el trabajo en equipo! Gracias,[n]chicos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10322]斡Punto para el trabajo en equipo! Gracias,[n]chicos.[n][f 1 6 65535][e]
 
 [msg YUKARI_BATTLE_CHANGE_DUN]
 [f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
@@ -215,19 +215,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10362]斡Muy bien, vamos a rodar la pelota![n][f 1 6 65535][e]
 
 [msg YUKARI_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10363]Bien, es hora de poner mi cara de juego.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10363]Bien, es hora de ponerme en serio.[n][f 1 6 65535][e]
 
 [msg YUKARI_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10364]斡Listo para irnos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10364]斡Lista para irnos![n][f 1 6 65535][e]
 
 [msg YUKARI_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10365]Hagamos que esta proyecci吋n especial realmente[n]especial![n][f 1 6 65535][e]
 
 [msg YUKARI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10352]Todav胤a tiene un largo camino por recorrer.[n]Pero podemos manejarlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10352]Todav胤a hay un largo camino por recorrer.[n]Pero podemos manejarlo.[n][f 1 6 65535][e]
 
 [msg YUKARI_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10353]Arrgh... Este piso es rinormous...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10353]Arrgh... Este piso es gigantesco...[n][f 1 6 65535][e]
 
 [msg YUKARI_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10354]斡Al menos el mapa se ve bien![n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10356]斡Un poco m茨s lejos![n][f 1 6 65535][e]
 
 [msg YUKARI_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10357]Ser胤a agradable si pudi姻ramos conseguir los[n]restos de blancos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10357]Ser胤a genial si pudi姻ramos conseguir esas casillas restantes.[n][f 1 6 65535][e]
 
 [msg YUKARI_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10358]斡Se siente bien terminar algo! 斡Buen mapeo,[n]Joker![n][f 1 6 65535][e]
@@ -272,7 +272,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10349]S胤, definitivamente no quer胤a eso.[n][f 1 6 65535][e]
 
 [msg YUKARI_MAPPING_MEMO_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10350]Olvid吋 las notas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10350]Ups, olvid姻 las notas.[n][f 1 6 65535][e]
 
 [msg YUKARI_MAPPING_MEMO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10351]斡Si tomamos notas, estaremos listos para m茨s[n]tarde![n][f 1 6 65535][e]
@@ -284,7 +284,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10367]斡Vamos![n][f 1 6 65535][e]
 
 [msg YUKARI_DOOR_OPEN_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10368]斡Muy por delante![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10368]斡Mucho antes que t雨![n][f 1 6 65535][e]
 
 [msg YUKARI_KARITORU_ENCOUNT_]
 [f 0 5 65278][f 2 1]? ? Todav胤a no hay nada que ver[n][f 1 6 65535][e]

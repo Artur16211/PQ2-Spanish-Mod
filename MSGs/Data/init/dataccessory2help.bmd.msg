@@ -2,103 +2,103 @@
 [f 0 5 65278][f 2 1]Result吋 que estaba bien[n][e]
 
 [msg accessory_A01]
-[f 0 5 65278][f 2 1]Tobillo que le da poder, como el opuesto de[n]un tal吋n de Aquiles. [f 0 1 3]St +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Tobillo que le da poder, como el opuesto de[n]un tal吋n de Aquiles. [f 0 1 3]Fr +1[f 0 1 0][n][n][e]
 
 [msg accessory_A02]
 [f 0 5 65278][f 2 1]Amuleto de un pa胤s ex吋tico, con poder ex吋tico.[n][f 0 1 3]Ma +1[f 0 1 0][n][e]
 
 [msg accessory_A03]
-[f 0 5 65278][f 2 1]Cintur吋n que te permite soportar tanto a ti[n]como a tus pantalones. [f 0 1 3]En +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Cintur吋n que te permite soportar tanto a ti[n]como a tus pantalones. [f 0 1 3]Rs +1[f 0 1 0][n][n][e]
 
 [msg accessory_A04]
 [f 0 5 65278][f 2 1]Calcetines que permiten que sus pies tomen[n]mayores (y m茨s calientes) pasos. [f 0 1 3][n]Ag +1[f 0 1 0][n][e]
 
 [msg accessory_A05]
-[f 0 5 65278][f 2 1]Accesorio hecho de letras grandes que deletrean[n]LUCKY. [f 0 1 3]Lu +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Accesorio hecho de letras grandes que deletrean[n]LUCKY. [f 0 1 3]Su +1[f 0 1 0][n][e]
 
 [msg accessory_A06]
-[f 0 5 65278][f 2 1]Figura tallada, cuya madera viva te hace[n]sentir vivo. [f 0 1 3]Max HP +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Figura tallada, cuya madera viva te hace[n]sentir vivo. [f 0 1 3]Máx. PS +5%[f 0 1 0][n][e]
 
 [msg accessory_A07]
-[f 0 5 65278][f 2 1]Bolsa perfumada llena de aromas relajantes.[n][f 0 1 3]Max SP +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Bolsa perfumada llena de aromas relajantes.[n][f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
 
 [msg accessory_A08]
-[f 0 5 65278][f 2 1]Un reloj que suena en el momento exacto en[n]que se apaga. [f 0 1 3]Resist Sleep[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un reloj que suena en el momento exacto en[n]que se apaga. [f 0 1 3]Resiste Sueño[f 0 1 0][n][n][e]
 
 [msg accessory_A09]
-[f 0 5 65278][f 2 1]Sombrero hecho de sentir. Mantenga su mente[n]segura y sana. [f 0 1 3]Resist Confusion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Sombrero hecho de sentir. Mantenga su mente[n]segura y sana. [f 0 1 3]Resiste Confusión[f 0 1 0][n][n][e]
 
 [msg accessory_A0A]
-[f 0 5 65278][f 2 1]Insignia llena de poder de la naturaleza. [f 0 1 3][n]Max HP & SP +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Insignia llena de poder de la naturaleza. [f 0 1 3][n]Máx. PS y PE +5%[f 0 1 0][n][e]
 
 [msg accessory_A0B]
-[f 0 5 65278][f 2 1]Se mueve con un alcance. [f 0 1 3]Raise accuracy[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Se mueve con un alcance. [f 0 1 3]Aumenta la Precisión[f 0 1 0][n][n][e]
 
 [msg accessory_A0C]
-[f 0 5 65278][f 2 1]Sombrero que protege tanto el Skull como la[n]mente. [f 0 1 3]Resist Magic Bind[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Sombrero que protege tanto el Skull como la[n]mente. [f 0 1 3]Resiste Atadura Mágica[f 0 1 0][n][n][e]
 
 [msg accessory_A0D]
-[f 0 5 65278][f 2 1]Gauntlet que no ser茨 derribado! [f 0 1 3]Resist Strength Bind[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gauntlet que no ser茨 derribado! [f 0 1 3]Resiste Atadura de Fuerza.[f 0 1 0][n][n][e]
 
 [msg accessory_A0E]
-[f 0 5 65278][f 2 1]Calcetines que hacen m茨s que mantener los[n]pies calientes. [f 0 1 3]Resist Agility Bind[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Calcetines que hacen m茨s que mantener los[n]pies calientes. [f 0 1 3]Resiste Atadura de Agilidad.[f 0 1 0][n][n][e]
 
 [msg accessory_A0F]
-[f 0 5 65278][f 2 1]M茨scara que te impide respirar veneno. [f 0 1 3][n]Veneno reista[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]M茨scara que te impide respirar veneno. [f 0 1 3][n]Resiste Veneno[f 0 1 0][n][e]
 
 [msg accessory_A10]
-[f 0 5 65278][f 2 1]斡La correa de yoga que te hace demasiado[n]flexible para paralizar! [f 0 1 3] Par茨lisis reista[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]斡La correa de yoga que te hace demasiado[n]flexible para paralizar! [f 0 1 3] Par茨lisis[f 0 1 0][n][n][e]
 
 [msg accessory_A11]
-[f 0 5 65278][f 2 1]Especificaciones que impiden a otros mirar[n]a sus ojos. [f 0 1 3]Petrificaci吋n Resistir[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Especificaciones que impiden a otros mirar[n]a sus ojos. [f 0 1 3]Resiste Petrificaci吋n[f 0 1 0][n][n][e]
 
 [msg accessory_A12]
-[f 0 5 65278][f 2 1]Libro de consejos para sobrevivir las[n]condiciones m茨s duras. [f 0 1 3]Resist Instant Kill[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Libro de consejos para sobrevivir las[n]condiciones m茨s duras. [f 0 1 3]Resiste Muerte Instantánea[f 0 1 0][n][n][e]
 
 [msg accessory_A13]
 [f 0 5 65278][f 2 1]Нельногильноги2 0xA13 1ичели дельные 0xA13 2[n][e]
 
 [msg accessory_A14]
-[f 0 5 65278][f 2 1]Uso de subvenciones de la Guardia de Huelga.[n][f 0 1 3]Raise defense of 1 row of allies[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Uso de subvenciones de la Guardia de Huelga.[n][f 0 1 3]Aumenta la defensa de una fila de aliados[f 0 1 0][n][n][e]
 
 [msg accessory_A15]
-[f 0 5 65278][f 2 1]Grants use of War Cry. [f 0 1 3]Raise attack l Lower defense[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of War Cry. [f 0 1 3]Aumenta el ataque y disminuye la defensa[f 0 1 0][n][n][e]
 
 [msg accessory_A16]
-[f 0 5 65278][f 2 1]Grants use of Line Heal. [f 0 1 3]Restore HP of 1 row of allies[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of Line Heal. [f 0 1 3]Restaura PS de una fila de aliados[f 0 1 0][n][n][e]
 
 [msg accessory_A17]
-[f 0 5 65278][f 2 1]Grants use of Warrior Song. [f 0 1 3]Raise attack power of 1 row of allies[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of Warrior Song. [f 0 1 3]Aumenta el ataque de una fila de aliados[f 0 1 0][n][n][e]
 
 [msg accessory_A18]
-[f 0 5 65278][f 2 1]Grants use of Beheading Cut. [f 0 1 3]Damage 1 foe l Low chance of Instant Kill[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of Beheading Cut. [f 0 1 3]Daña a un FOE con una baja probabilidad de Muerte Instantánea[f 0 1 0][n][n][n][e]
 
 [msg accessory_A19]
-[f 0 5 65278][f 2 1]Grants use of Repulse Mist. [f 0 1 3]Med. chance to null ailmentslBinds of 1 row of allies[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of Repulse Mist. [f 0 1 3]Media probabilidad de anular dolencias/Ataduras de una fila de aliados[f 0 1 0][n][n][n][e]
 
 [msg accessory_A1A]
 [f 0 5 65278][f 2 1]0xA1A 1?4 se refiere a apoyar[n][e]
 
 [msg accessory_A1B]
-[f 0 5 65278][f 2 1]Una banda que une tu alma a otros. [f 0 1 3][n]Slightly raise Party Meter gains[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una banda que une tu alma a otros. [f 0 1 3][n]Aumenta ligeramente las ganancias del Medidor del Grupo[f 0 1 0][n][e]
 
 [msg accessory_A1C]
-[f 0 5 65278][f 2 1]Una banda que une tu alma a otros. [f 0 1 3][n]Aumento moderada de las ganancias de los medidores de Partido[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una banda que une tu alma a otros. [f 0 1 3][n]Aumenta moderadamente las ganancias del Medidor del Grupo[f 0 1 0][n][n][e]
 
 [msg accessory_A1D]
-[f 0 5 65278][f 2 1]Una banda que te da tripas. [f 0 1 3]Evite KO sobreviviendo con 1 HP, pero s吋lo una vez[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Una banda que te da tripas. [f 0 1 3]Evita Muerte Instantánea con 1 PS, pero s吋lo una vez[f 0 1 0][n][n][n][e]
 
 [msg accessory_A1E]
-[f 0 5 65278][f 2 1]Un espejo que refleja la racionalidad. [f 0 1 3][n]Max HP +25%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la racionalidad. [f 0 1 3][n]Máx. PS +25%[f 0 1 0][n][e]
 
 [msg accessory_A1F]
-[f 0 5 65278][f 2 1]Un espejo que refleja las creencias. [f 0 1 3][n]Max SP +25%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja las creencias. [f 0 1 3][n]Máx. PE +25%[f 0 1 0][n][e]
 
 [msg accessory_A20]
 [f 0 5 65278][f 2 1]Un espejo que refleja la intuici吋n. [f 0 1 3][n]Tasa cr胤tica +15%[f 0 1 0][n][e]
 
 [msg accessory_A21]
-[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n. [f 0 1 3][n]Nullifies all status ailments[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n. [f 0 1 3][n]Anula todas las dolencias o estados alterados[f 0 1 0][n][e]
 
 [msg accessory_A22]
 [f 0 5 65278][f 2 1]Нельногильноги2 0xA22 1ичель дельный дельны2[n]0xA22 2[n][e]
@@ -107,124 +107,124 @@
 [f 0 5 65278][f 2 1]Donaciones uso de doble ataque. [f 0 1 3]Med. oportunidad de atacar habilidades desencadenando dos veces[f 0 1 0][n][n][n][e]
 
 [msg accessory_A24]
-[f 0 5 65278][f 2 1]Grants use of Royal Song. [f 0 1 3]Recover SP for each step in the laberrinth[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of Royal Song. [f 0 1 3]Recupera PE por cada paso en el laberinto[f 0 1 0][n][n][n][e]
 
 [msg accessory_A25]
 [f 0 5 65278][f 2 1]Нельногильноги2 0xA25[n][e]
 
 [msg accessory_A26]
-[f 0 5 65278][f 2 1]Correa sana que se alimenta del Fuego. [f 0 1 3][n]Max HP +15% l Raise Fire evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Correa sana que se alimenta del Fuego. [f 0 1 3][n]Máx. PS +15% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_A27]
-[f 0 5 65278][f 2 1]Correa saludable que se oculta en hielo. [f 0 1 3][n]Max HP +15% l Raise Ice evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Correa saludable que se oculta en hielo. [f 0 1 3][n]Máx. PS +15% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
 
 [msg accessory_A28]
-[f 0 5 65278][f 2 1]Correa saludable que se oculta en el viento.[n][f 0 1 3]Max HP +15% l Raise Wind evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Correa saludable que se oculta en el viento.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
 
 [msg accessory_A29]
-[f 0 5 65278][f 2 1]Correa saludable que se alimenta de electricidad.[n][f 0 1 3]Max HP +15% l Raise Elec evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Correa saludable que se alimenta de electricidad.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_A2A]
-[f 0 5 65278][f 2 1]Correa sana que se marchita Nuke habilidades.[n][f 0 1 3]Max HP +15% l Raise Nuke evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Correa sana que se marchita Nuke habilidades.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_A2B]
-[f 0 5 65278][f 2 1]Correa sana que se marchita Psy skills. [f 0 1 3][n]Max HP +15% l Raise Psy evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Correa sana que se marchita Psy skills. [f 0 1 3][n]Máx. PS +15% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_A2C]
-[f 0 5 65278][f 2 1]Hermoso duradero que se alimenta del Fuego.[n][f 0 1 3]Max SP +15% l Raise Fire evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Hermoso duradero que se alimenta del Fuego.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_A2D]
-[f 0 5 65278][f 2 1]Hermoso duradero que se oculta en hielo. [f 0 1 3][n]Max SP +15% l Raise Ice evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Hermoso duradero que se oculta en hielo. [f 0 1 3][n]Máx. PE +15% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
 
 [msg accessory_A2E]
-[f 0 5 65278][f 2 1]Hermoso duradero para defenderse del viento.[n][f 0 1 3]Max SP +15% l Raise Wind evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Hermoso duradero para defenderse del viento.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
 
 [msg accessory_A2F]
-[f 0 5 65278][f 2 1]Hermoso duradero que evita la electricidad.[n][f 0 1 3]Max SP +15% l Raise Elec evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Hermoso duradero que evita la electricidad.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_A30]
-[f 0 5 65278][f 2 1]Un encanto duradero que se marchita Nuke[n]skills. [f 0 1 3]Max SP +15% l Raise Nuke evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un encanto duradero que se marchita Nuke[n]skills. [f 0 1 3]Máx. PE +15% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_A31]
-[f 0 5 65278][f 2 1]Un encanto duradero que se marchita Psy[n]skills. [f 0 1 3]Max SP +15% l Raise Psy evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un encanto duradero que se marchita Psy[n]skills. [f 0 1 3]Máx. PE +15% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_A32]
 [f 0 5 65278][f 2 1]Нельногильноги2 0xA32 1ичель дельный дельны2[n]0xA32 2[n][e]
 
 [msg accessory_A33]
-[f 0 5 65278][f 2 1]Espejo de ojo que se oculta fuego. [f 0 1 3][n]Max HP +20% l Raise Fire evasion[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Espejo de ojo que se oculta fuego. [f 0 1 3][n]Máx. PS +20% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A34]
-[f 0 5 65278][f 2 1]El fino parche que sale del hielo. [f 0 1 3][n]Max HP +20% l Raise Ice evasion[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El fino parche que sale del hielo. [f 0 1 3][n]Máx. PS +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A35]
-[f 0 5 65278][f 2 1]Espejo de ojo que se oculta el viento. [f 0 1 3][n]Max HP +20% l Raise Wind evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Espejo de ojo que se oculta el viento. [f 0 1 3][n]Máx. PS +20% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
 
 [msg accessory_A36]
-[f 0 5 65278][f 2 1]El fino parche que se marchita Electricidad.[n][f 0 1 3]Max HP +20% l Raise Elec evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]El fino parche que se marchita Electricidad.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_A37]
-[f 0 5 65278][f 2 1]El fino parche que se marchita Nuke habilidades.[n][f 0 1 3]Max HP +20% l Raise Nuke evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]El fino parche que se marchita Nuke habilidades.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_A38]
-[f 0 5 65278][f 2 1]El fino parche que se marchita Psy skills.[n][f 0 1 3]Max HP +20% l Raise Psy evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]El fino parche que se marchita Psy skills.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_A39]
-[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta el fuego. [f 0 1 3][n]Max SP +20% l Raise Fire evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta el fuego. [f 0 1 3][n]Máx. PE +20% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_A3A]
-[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta el hielo. [f 0 1 3][n]Max SP +20% l Raise Ice evasion[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta el hielo. [f 0 1 3][n]Máx. PE +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A3B]
-[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta el viento. [f 0 1 3][n]Max SP +20% l Elevaci吋n del viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta el viento. [f 0 1 3][n]Máx. PE +20% / Elevaci吋n del viento[f 0 1 0][n][n][e]
 
 [msg accessory_A3C]
-[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta la electricidad.[n][f 0 1 3]Max SP +20% l Raise Elec evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ankh r胤gido que se oculta la electricidad.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_A3D]
-[f 0 5 65278][f 2 1]Ankh r胤gido que se marchita Nuke habilidades.[n][f 0 1 3]Max SP +20% l Raise Nuke evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ankh r胤gido que se marchita Nuke habilidades.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_A3E]
-[f 0 5 65278][f 2 1]Ankh r胤gido que se marchita Psy skills. [f 0 1 3][n]Max SP +20% l Raise Psy evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ankh r胤gido que se marchita Psy skills. [f 0 1 3][n]Máx. PE +20% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_A3F]
 [f 0 5 65278][f 2 1]0xA3F 0xA3F[n][e]
 
 [msg accessory_A40]
-[f 0 5 65278][f 2 1]Magatama de piedra que se oculta fuego. [f 0 1 3][n]Max HP +25% l Raise Fire evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que se oculta fuego. [f 0 1 3][n]Máx. PS +25% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_A41]
-[f 0 5 65278][f 2 1]Piedra magatama que se oculta en hielo. [f 0 1 3][n]Max HP +25% l Raise Ice evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Piedra magatama que se oculta en hielo. [f 0 1 3][n]Máx. PS +25% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
 
 [msg accessory_A42]
-[f 0 5 65278][f 2 1]Piedra magatama para defenderse del viento.[n][f 0 1 3]Max HP +25% l Raise Wind evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Piedra magatama para defenderse del viento.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
 
 [msg accessory_A43]
-[f 0 5 65278][f 2 1]Piedra magatama para evitar la electricidad.[n][f 0 1 3]Max HP +25% l Raise Elec evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Piedra magatama para evitar la electricidad.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_A44]
-[f 0 5 65278][f 2 1]Piedra magatama para defenderse Nuke habilidades.[n][f 0 1 3]Max HP +25% l Raise Nuke evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Piedra magatama para defenderse Nuke habilidades.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_A45]
-[f 0 5 65278][f 2 1]Piedra magatama para defenderse Psy skills.[n][f 0 1 3]Max HP +25% l Raise Psy evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Piedra magatama para defenderse Psy skills.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_A46]
-[f 0 5 65278][f 2 1]Orbe inflexible que desciende el Fuego. [f 0 1 3][n]Max SP +25% l Raise Fire evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inflexible que desciende el Fuego. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_A47]
-[f 0 5 65278][f 2 1]Orbe que no se rinde frente al hielo. [f 0 1 3][n]Max SP +25% l Raise Ice evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe que no se rinde frente al hielo. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
 
 [msg accessory_A48]
-[f 0 5 65278][f 2 1]Orbe inflexible que oculta el viento. [f 0 1 3][n]Max SP +25% l Raise Wind evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inflexible que oculta el viento. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
 
 [msg accessory_A49]
-[f 0 5 65278][f 2 1]Orbe inflexible que oculta electricidad. [f 0 1 3][n]Max SP +25% l Raise Elec evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inflexible que oculta electricidad. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_A4A]
-[f 0 5 65278][f 2 1]Unyieling orb that fends off Nuke habilidades.[n][f 0 1 3]Max SP +25% l Raise Nuke evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Unyieling orb that fends off Nuke habilidades.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_A4B]
-[f 0 5 65278][f 2 1]Unyieling orb that fends off Psy skills. [f 0 1 3][n]Max SP +25% l Raise Psy evasion[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Unyieling orb that fends off Psy skills. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_A4C]
 [f 0 5 65278][f 2 1]0xA4C 0xA4C[n][e]
@@ -254,73 +254,73 @@
 [f 0 5 65278][f 2 1]Gafas que te hacen un sabio. [f 0 1 3]EXP +20%[f 0 1 0][n][n][e]
 
 [msg accessory_A55]
-[f 0 5 65278][f 2 1]Estatua que protege contra Hexes. [f 0 1 3]Nullifica Hex[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra Hexes. [f 0 1 3]Anula la Maldición[f 0 1 0][n][n][e]
 
 [msg accessory_A56]
-[f 0 5 65278][f 2 1]Estatua que protege contra Poison. [f 0 1 3][n]Nullifies Poison[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra Poison. [f 0 1 3][n]Anula el Veneno[f 0 1 0][n][e]
 
 [msg accessory_A57]
-[f 0 5 65278][f 2 1]Estatua que protege contra el sue隠o. [f 0 1 3][n]Nullifica el sue隠o[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra el sue隠o. [f 0 1 3][n]Anula el sue隠o[f 0 1 0][n][e]
 
 [msg accessory_A58]
-[f 0 5 65278][f 2 1]Estatua que protege contra la Confusi吋n. [f 0 1 3][n]Nullifies Confusion[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra la Confusi吋n. [f 0 1 3][n]Anula la Confusión[f 0 1 0][n][e]
 
 [msg accessory_A59]
-[f 0 5 65278][f 2 1]Estatua que protege contra la par茨lisis. [f 0 1 3][n]Nullifies Paralysis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra la par茨lisis. [f 0 1 3][n]Anula la Parálisis[f 0 1 0][n][e]
 
 [msg accessory_A5A]
-[f 0 5 65278][f 2 1]Generador escudo que protege la cabeza. [f 0 1 3][n]Nullifies Magic Bind[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Generador escudo que protege la cabeza. [f 0 1 3][n]Anula la Atadura Mágica[f 0 1 0][n][e]
 
 [msg accessory_A5B]
-[f 0 5 65278][f 2 1]Generador escudo que protege los brazos. [f 0 1 3][n]Nullifies Strength Bind[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Generador escudo que protege los brazos. [f 0 1 3][n]Anula la Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg accessory_A5C]
-[f 0 5 65278][f 2 1]Generador escudo que protege las piernas. [f 0 1 3][n]Nullifies Agility Bind[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Generador escudo que protege las piernas. [f 0 1 3][n]Anula la Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg accessory_A5D]
-[f 0 5 65278][f 2 1]Gourd que apesta en Fuego para hacer n姻ctar.[n][f 0 1 3]Drain Fire attacks[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Gourd que apesta en Fuego para hacer n姻ctar.[n][f 0 1 3]Absorbe los ataques de fuego[f 0 1 0][n][e]
 
 [msg accessory_A5E]
-[f 0 5 65278][f 2 1]Gourd que apesta en hielo para hacer n姻ctar.[n][f 0 1 3]Drain Ice attacks[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Gourd que apesta en hielo para hacer n姻ctar.[n][f 0 1 3]Absorbe los ataques de hielo[f 0 1 0][n][e]
 
 [msg accessory_A5F]
-[f 0 5 65278][f 2 1]Gourd que chupa en el viento para hacer[n]n姻ctar. [f 0 1 3]Drain Wind attacks[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Gourd que chupa en el viento para hacer[n]n姻ctar. [f 0 1 3]Absorbe los ataques de viento[f 0 1 0][n][e]
 
 [msg accessory_A60]
-[f 0 5 65278][f 2 1]Gourd que apesta en Electricidad para hacer[n]n姻ctar. [f 0 1 3]Drain Electric attacks[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gourd que apesta en Electricidad para hacer[n]n姻ctar. [f 0 1 3]Absorbe los ataques eléctricos[f 0 1 0][n][n][e]
 
 [msg accessory_A61]
-[f 0 5 65278][f 2 1]Gourd que apesta en energ胤a nuclear para[n]hacer n姻ctar. [f 0 1 3]Drain Nuclear attacks[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gourd que apesta en energ胤a nuclear para[n]hacer n姻ctar. [f 0 1 3]Absorbe los ataques nucleares[f 0 1 0][n][n][e]
 
 [msg accessory_A62]
-[f 0 5 65278][f 2 1]Gourd que apesta en energ胤a ps胤quica para[n]hacer n姻ctar. [f 0 1 3]Drain Psy attacks[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gourd que apesta en energ胤a ps胤quica para[n]hacer n姻ctar. [f 0 1 3]Absorbe los ataques psíquicos[f 0 1 0][n][n][e]
 
 [msg accessory_A63]
 [f 0 5 65278][f 2 1]Нельногильноги2 0xA63 1ичель дельный нельный[n]0xA63 2[n][e]
 
 [msg accessory_A64]
-[f 0 5 65278][f 2 1]Tasuki para atar las mangas y potenciar los[n]m雨sculos del brazo desnudo. [f 0 1 3]St +3[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Tasuki para atar las mangas y potenciar los[n]m雨sculos del brazo desnudo. [f 0 1 3]Fr +3[f 0 1 0][n][n][e]
 
 [msg accessory_A65]
 [f 0 5 65278][f 2 1]Charm that was once Graf, before he transfigured[n]himself into this item. [f 0 1 3]Ma +3[f 0 1 0][n][n][e]
 
 [msg accessory_A66]
-[f 0 5 65278][f 2 1]Amuleto que transmite ideas de combate[n]defensivas directamente en su mente. [f 0 1 3][n]En +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto que transmite ideas de combate[n]defensivas directamente en su mente. [f 0 1 3][n]Rs +3[f 0 1 0][n][e]
 
 [msg accessory_A67]
 [f 0 5 65278][f 2 1]Ornamento de plumas arrancadas de un p茨jaro[n]que vuela m茨s r茨pido que el sonido. [f 0 1 3][n]Ag +3[f 0 1 0][n][e]
 
 [msg accessory_A68]
-[f 0 5 65278][f 2 1]Spoon que otorga la 雨ltima suerte, la suerte[n]de encontrar comida para usarlo con. [f 0 1 3][n]Lu +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Spoon que otorga la 雨ltima suerte, la suerte[n]de encontrar comida para usarlo con. [f 0 1 3][n]Su +3[f 0 1 0][n][e]
 
 [msg accessory_A69]
-[f 0 5 65278][f 2 1]Alcance que se bloquea en objetivos y nunca[n]mira hacia fuera. [f 0 1 3]Greatly raise accuracy[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Alcance que se bloquea en objetivos y nunca[n]mira hacia fuera. [f 0 1 3]Aumenta considerablemente la precisión[f 0 1 0][n][n][e]
 
 [msg accessory_A6A]
-[f 0 5 65278][f 2 1]Objeto de apariencia desconocida, porque es[n]invisible! [f 0 1 3]Med. chance to resist Binds[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Objeto de apariencia desconocida, porque es[n]invisible! [f 0 1 3]Probabilidad media de resistir Ataduras[f 0 1 0][n][n][e]
 
 [msg accessory_A6B]
-[f 0 5 65278][f 2 1]Badge imbued with power from outer space. [f 0 1 3][n]Max HP & SP +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Insignia imbuida con poder del espacio exterior. [f 0 1 3][n]Máx. PS y PE +10%[f 0 1 0][n][e]
 
 [msg accessory_A6C]
 [f 0 5 65278][f 2 1]0xA6C 0xA6C[n][e]

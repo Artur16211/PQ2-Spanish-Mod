@@ -2,34 +2,34 @@
 [f 0 5 65278][f 2 1]Ninguno[n][e]
 
 [msg addeffect_001]
-[f 0 5 65278][f 2 1]St +1[n][e]
+[f 0 5 65278][f 2 1]Fr +1[n][e]
 
 [msg addeffect_002]
-[f 0 5 65278][f 2 1]St +2[n][e]
+[f 0 5 65278][f 2 1]Fr +2[n][e]
 
 [msg addeffect_003]
-[f 0 5 65278][f 2 1]St +3[n][e]
+[f 0 5 65278][f 2 1]Fr +3[n][e]
 
 [msg addeffect_004]
-[f 0 5 65278][f 2 1]St +4[n][e]
+[f 0 5 65278][f 2 1]Fr +4[n][e]
 
 [msg addeffect_005]
-[f 0 5 65278][f 2 1]St +5[n][e]
+[f 0 5 65278][f 2 1]Fr +5[n][e]
 
 [msg addeffect_006]
-[f 0 5 65278][f 2 1]En +1[n][e]
+[f 0 5 65278][f 2 1]Rs +1[n][e]
 
 [msg addeffect_007]
-[f 0 5 65278][f 2 1]En +2[n][e]
+[f 0 5 65278][f 2 1]Rs +2[n][e]
 
 [msg addeffect_008]
-[f 0 5 65278][f 2 1]En +3[n][e]
+[f 0 5 65278][f 2 1]Rs +3[n][e]
 
 [msg addeffect_009]
-[f 0 5 65278][f 2 1]En +4[n][e]
+[f 0 5 65278][f 2 1]Rs +4[n][e]
 
 [msg addeffect_010]
-[f 0 5 65278][f 2 1]En +5[n][e]
+[f 0 5 65278][f 2 1]Rs +5[n][e]
 
 [msg addeffect_011]
 [f 0 5 65278][f 2 1]Ma +1[n][e]
@@ -62,52 +62,52 @@
 [f 0 5 65278][f 2 1]Ag +5[n][e]
 
 [msg addeffect_021]
-[f 0 5 65278][f 2 1]Lu +1[n][e]
+[f 0 5 65278][f 2 1]Su +1[n][e]
 
 [msg addeffect_022]
-[f 0 5 65278][f 2 1]Lu +2[n][e]
+[f 0 5 65278][f 2 1]Su +2[n][e]
 
 [msg addeffect_023]
-[f 0 5 65278][f 2 1]Lu +3[n][e]
+[f 0 5 65278][f 2 1]Su +3[n][e]
 
 [msg addeffect_024]
-[f 0 5 65278][f 2 1]Lu +4[n][e]
+[f 0 5 65278][f 2 1]Su +4[n][e]
 
 [msg addeffect_025]
-[f 0 5 65278][f 2 1]Lu +5[n][e]
+[f 0 5 65278][f 2 1]Su +5[n][e]
 
 [msg addeffect_026]
-[f 0 5 65278][f 2 1]+10 HP[n][e]
+[f 0 5 65278][f 2 1]+10 PS[n][e]
 
 [msg addeffect_027]
-[f 0 5 65278][f 2 1]+20 HP[n][e]
+[f 0 5 65278][f 2 1]+20 PS[n][e]
 
 [msg addeffect_028]
-[f 0 5 65278][f 2 1]+30 HP[n][e]
+[f 0 5 65278][f 2 1]+30 PS[n][e]
 
 [msg addeffect_029]
-[f 0 5 65278][f 2 1]+40 HP[n][e]
+[f 0 5 65278][f 2 1]+40 PS[n][e]
 
 [msg addeffect_030]
-[f 0 5 65278][f 2 1]+50 HP[n][e]
+[f 0 5 65278][f 2 1]+50 PS[n][e]
 
 [msg addeffect_031]
-[f 0 5 65278][f 2 1]+10 SP[n][e]
+[f 0 5 65278][f 2 1]+10 PE[n][e]
 
 [msg addeffect_032]
-[f 0 5 65278][f 2 1]+20 SP[n][e]
+[f 0 5 65278][f 2 1]+20 PE[n][e]
 
 [msg addeffect_033]
-[f 0 5 65278][f 2 1]+30 SP[n][e]
+[f 0 5 65278][f 2 1]+30 PE[n][e]
 
 [msg addeffect_034]
-[f 0 5 65278][f 2 1]+40 SP[n][e]
+[f 0 5 65278][f 2 1]+40 PE[n][e]
 
 [msg addeffect_035]
-[f 0 5 65278][f 2 1]+50 SP[n][e]
+[f 0 5 65278][f 2 1]+50 PE[n][e]
 
 [msg addeffect_036]
-[f 0 5 65278][f 2 1]Low chance of Confusion[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Confusión[n][e]
 
 [msg addeffect_037]
 [f 0 5 65278][f 2 1]Posibilidad media de Confusi吋n[n][e]
@@ -116,10 +116,10 @@
 [f 0 5 65278][f 2 1]Alta probabilidad de Confusi吋n[n][e]
 
 [msg addeffect_039]
-[f 0 5 65278][f 2 1]Low chance of Poison[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de envenenamiento[n][e]
 
 [msg addeffect_040]
-[f 0 5 65278][f 2 1]Posibilidad media de veneno[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Veneno[n][e]
 
 [msg addeffect_041]
 [f 0 5 65278][f 2 1]Alta oportunidad de Poison[n][e]
@@ -140,43 +140,43 @@
 [f 0 5 65278][f 2 1]Posibilidad media de Furia[n][e]
 
 [msg addeffect_047]
-[f 0 5 65278][f 2 1]Alta oportunidad de Fury[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de Furia[n][e]
 
 [msg addeffect_048]
-[f 0 5 65278][f 2 1]Baja oportunidad de Dizzy[n][e]
+[f 0 5 65278][f 2 1]Baja oportunidad de Mareo[n][e]
 
 [msg addeffect_049]
-[f 0 5 65278][f 2 1]Posibilidad media de Dizzy[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Mareo[n][e]
 
 [msg addeffect_050]
-[f 0 5 65278][f 2 1]Alta oportunidad de Dizzy[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de Mareo[n][e]
 
 [msg addeffect_051]
-[f 0 5 65278][f 2 1]Low chance to Exhaust[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Agotamiento[n][e]
 
 [msg addeffect_052]
-[f 0 5 65278][f 2 1]Posibilidad media de agotar[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Agotamiento[n][e]
 
 [msg addeffect_053]
-[f 0 5 65278][f 2 1]Alta oportunidad de agotar[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de Agotamiento[n][e]
 
 [msg addeffect_054]
-[f 0 5 65278][f 2 1]Low chance to Age[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Envejecimiento[n][e]
 
 [msg addeffect_055]
 [f 0 5 65278][f 2 1]Posibilidad media a la Edad[n][e]
 
 [msg addeffect_056]
-[f 0 5 65278][f 2 1]High chance to Age[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de Envejecimiento[n][e]
 
 [msg addeffect_057]
-[f 0 5 65278][f 2 1]Low chance to Magic Bind[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Atadura Mágica[n][e]
 
 [msg addeffect_058]
 [f 0 5 65278][f 2 1]Posibilidad media de Magic Bind[n][e]
 
 [msg addeffect_059]
-[f 0 5 65278][f 2 1]High chance to Magic Bind[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de Atadura Mágica[n][e]
 
 [msg addeffect_060]
 [f 0 5 65278][f 2 1]Tasa cr胤tica[n][e]
@@ -209,25 +209,25 @@
 [f 0 5 65278][f 2 1]El poder de ataque de hielo aument吋 un 25%[n][e]
 
 [msg addeffect_070]
-[f 0 5 65278][f 2 1]El poder de ataque de Elec aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque Elec. aument吋 un 25%[n][e]
 
 [msg addeffect_071]
 [f 0 5 65278][f 2 1]Energ胤a de ataque de viento aument吋 un 25%[n][e]
 
 [msg addeffect_072]
-[f 0 5 65278][f 2 1]Chance to reflect Phys[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques Físicos[n][e]
 
 [msg addeffect_073]
-[f 0 5 65278][f 2 1]Chance to reflect Phys+[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques Físicos+[n][e]
 
 [msg addeffect_074]
-[f 0 5 65278][f 2 1]Chance to reflect Phys++[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques Físicos++[n][e]
 
 [msg addeffect_075]
 [f 0 5 65278][f 2 1]Resistencia contra Confusi吋n[n][e]
 
 [msg addeffect_076]
-[f 0 5 65278][f 2 1]Resistencia contra el veneno[n][e]
+[f 0 5 65278][f 2 1]Resistencia contra el Veneno[n][e]
 
 [msg addeffect_077]
 [f 0 5 65278][f 2 1]Resistencia contra Miedo[n][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1]Resistencia contra Furia[n][e]
 
 [msg addeffect_079]
-[f 0 5 65278][f 2 1]Resistencia contra Dizzy[n][e]
+[f 0 5 65278][f 2 1]Resistencia contra Mareo[n][e]
 
 [msg addeffect_080]
 [f 0 5 65278][f 2 1]Resistencia contra el agotamiento[n][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1]Resistencia contra el envejecimiento[n][e]
 
 [msg addeffect_082]
-[f 0 5 65278][f 2 1]Resistencia contra Cadena m茨gica[n][e]
+[f 0 5 65278][f 2 1]Resistencia contra Atadura m茨gica[n][e]
 
 [msg addeffect_083]
 [f 0 5 65278][f 2 1]+Auto-Tarukaja[n][e]
@@ -257,10 +257,10 @@
 [f 0 5 65278][f 2 1]+Auto-Sukukaja[n][e]
 
 [msg addeffect_086]
-[f 0 5 65278][f 2 1]St +10[n][e]
+[f 0 5 65278][f 2 1]Fr +10[n][e]
 
 [msg addeffect_087]
-[f 0 5 65278][f 2 1]En +10[n][e]
+[f 0 5 65278][f 2 1]Rs +10[n][e]
 
 [msg addeffect_088]
 [f 0 5 65278][f 2 1]Ma +10[n][e]
@@ -269,19 +269,19 @@
 [f 0 5 65278][f 2 1]Ag +10[n][e]
 
 [msg addeffect_090]
-[f 0 5 65278][f 2 1]Lu +10[n][e]
+[f 0 5 65278][f 2 1]Su +10[n][e]
 
 [msg addeffect_091]
-[f 0 5 65278][f 2 1]+100 HP[n][e]
+[f 0 5 65278][f 2 1]+100 PS[n][e]
 
 [msg addeffect_092]
-[f 0 5 65278][f 2 1]Chance of inflicting all ailments[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de infligir todas las dolencias[n][e]
 
 [msg addeffect_093]
-[f 0 5 65278][f 2 1]Chance of inflicting all ailments+[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de infligir todas las dolencias+[n][e]
 
 [msg addeffect_094]
-[f 0 5 65278][f 2 1]Chance of inflicting all ailments+[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de infligir todas las dolencias+[n][e]
 
 [msg addeffect_095]
 [f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 10%[n][e]
@@ -320,13 +320,13 @@
 [f 0 5 65278][f 2 1]Da隠o al viento reducido en 30%[n][e]
 
 [msg addeffect_107]
-[f 0 5 65278][f 2 1]Da隠o de Elec reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Da隠o Elec. reducido en 10%[n][e]
 
 [msg addeffect_108]
-[f 0 5 65278][f 2 1]Da隠o de Elec reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Da隠o Elec. reducido en 20%[n][e]
 
 [msg addeffect_109]
-[f 0 5 65278][f 2 1]Da隠o de Elec reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Da隠o Elec. reducido en 30%[n][e]
 
 [msg addeffect_110]
 [f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 10%[n][e]
@@ -341,85 +341,85 @@
 [f 0 5 65278][f 2 1]Reducir la posibilidad de tropezar[n][e]
 
 [msg addeffect_114]
-[f 0 5 65278][f 2 1]Reducir ligeramente la posibilidad de[n]tropezar[n][e]
+[f 0 5 65278][f 2 1]Reduce ligeramente la posibilidad de[n]tropezar[n][e]
 
 [msg addeffect_115]
-[f 0 5 65278][f 2 1]Gran reducci吋n de la posibilidad de tropiezo[n][e]
+[f 0 5 65278][f 2 1]Gran reducci吋n de posibilidad de tropezar[n][e]
 
 [msg addeffect_116]
-[f 0 5 65278][f 2 1]Phys dodge up+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques físicos+[n][e]
 
 [msg addeffect_117]
-[f 0 5 65278][f 2 1]Phys dodge up[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques físicos[n][e]
 
 [msg addeffect_118]
-[f 0 5 65278][f 2 1]Phys dodge up+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques físicos+[n][e]
 
 [msg addeffect_119]
-[f 0 5 65278][f 2 1]Dodge de fuego hasta +[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión a ataques de Fuego+[n][e]
 
 [msg addeffect_120]
-[f 0 5 65278][f 2 1]Fuego dodge up[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión a ataques de Fuego[n][e]
 
 [msg addeffect_121]
-[f 0 5 65278][f 2 1]Dodge de fuego hasta ++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión a ataques de Fuego++[n][e]
 
 [msg addeffect_122]
-[f 0 5 65278][f 2 1]Hielo dodge up+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Hielo+[n][e]
 
 [msg addeffect_123]
-[f 0 5 65278][f 2 1]Ice dodge up[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Hielo[n][e]
 
 [msg addeffect_124]
-[f 0 5 65278][f 2 1]Hielo dodge up++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Hielo++[n][e]
 
 [msg addeffect_125]
-[f 0 5 65278][f 2 1]Dodge de viento arriba +[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Viento+[n][e]
 
 [msg addeffect_126]
-[f 0 5 65278][f 2 1]Viento d吋dge hacia arriba[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Viento[n][e]
 
 [msg addeffect_127]
-[f 0 5 65278][f 2 1]Dodge de viento arriba ++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Viento++[n][e]
 
 [msg addeffect_128]
-[f 0 5 65278][f 2 1]Elec dodge up+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Eléctricos+[n][e]
 
 [msg addeffect_129]
-[f 0 5 65278][f 2 1]Elec dodge up[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Eléctricos[n][e]
 
 [msg addeffect_130]
-[f 0 5 65278][f 2 1]Elec dodge up+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Eléctricos++[n][e]
 
 [msg addeffect_131]
-[f 0 5 65278][f 2 1]Dodge m茨gico sub+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Mágicos+[n][e]
 
 [msg addeffect_132]
-[f 0 5 65278][f 2 1]Dodge m茨gico[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Mágicos[n][e]
 
 [msg addeffect_133]
-[f 0 5 65278][f 2 1]Dodge m茨gico sub++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Mágicos++[n][e]
 
 [msg addeffect_134]
-[f 0 5 65278][f 2 1]EXP +150%[n][e]
+[f 0 5 65278][f 2 1]EXP. +150%[n][e]
 
 [msg addeffect_135]
-[f 0 5 65278][f 2 1]SP a la mitad despu姻s de la batalla[n][e]
+[f 0 5 65278][f 2 1]PE a la mitad despu姻s de la batalla[n][e]
 
 [msg addeffect_136]
-[f 0 5 65278][f 2 1]Charisma[n][e]
+[f 0 5 65278][f 2 1]Carisma[n][e]
 
 [msg addeffect_137]
 [f 0 5 65278][f 2 1]Ninguno[n][e]
 
 [msg addeffect_138]
-[f 0 5 65278][f 2 1]+100 SP[n][e]
+[f 0 5 65278][f 2 1]+100 PE[n][e]
 
 [msg addeffect_139]
 [f 0 5 65278][f 2 1]Todas las estad胤sticas +10[n][e]
 
 [msg addeffect_140]
-[f 0 5 65278][f 2 1]Gastos de SP triplicados[n][e]
+[f 0 5 65278][f 2 1]Costo de PE triplicado[n][e]
 
 [msg addeffect_141]
 [f 0 5 65278][f 2 1]Ninguno[n][e]
@@ -431,40 +431,40 @@
 [f 0 5 65278][f 2 1]Ninguno[n][e]
 
 [msg addeffect_144]
-[f 0 5 65278][f 2 1]Fuego de Resistencia[n][e]
+[f 0 5 65278][f 2 1]Resistencia al Fuego[n][e]
 
 [msg addeffect_145]
-[f 0 5 65278][f 2 1]Hielo resistente[n][e]
+[f 0 5 65278][f 2 1]Resistencia al Hielo[n][e]
 
 [msg addeffect_146]
-[f 0 5 65278][f 2 1]Viento resistente[n][e]
+[f 0 5 65278][f 2 1]Resistencia al Viento[n][e]
 
 [msg addeffect_147]
-[f 0 5 65278][f 2 1]Resistir Elec[n][e]
+[f 0 5 65278][f 2 1]Resistencia Elec.[n][e]
 
 [msg addeffect_148]
-[f 0 5 65278][f 2 1]Refleja fuego[n][e]
+[f 0 5 65278][f 2 1]Refleja ataques de Fuego[n][e]
 
 [msg addeffect_149]
-[f 0 5 65278][f 2 1]Reflect Ice[n][e]
+[f 0 5 65278][f 2 1]Refleja ataques de Hielo[n][e]
 
 [msg addeffect_150]
-[f 0 5 65278][f 2 1]Viento reflectante[n][e]
+[f 0 5 65278][f 2 1]Refleja ataques de Viento[n][e]
 
 [msg addeffect_151]
-[f 0 5 65278][f 2 1]Reflect Elec[n][e]
+[f 0 5 65278][f 2 1]Refleja ataques Elec.[n][e]
 
 [msg addeffect_152]
-[f 0 5 65278][f 2 1]Fuego de drenaje[n][e]
+[f 0 5 65278][f 2 1]Absorbe Fuego[n][e]
 
 [msg addeffect_153]
-[f 0 5 65278][f 2 1]Dibujo de hielo[n][e]
+[f 0 5 65278][f 2 1]Absorbe Hielo[n][e]
 
 [msg addeffect_154]
-[f 0 5 65278][f 2 1]Viento de drenaje[n][e]
+[f 0 5 65278][f 2 1]Absorbe Viento[n][e]
 
 [msg addeffect_155]
-[f 0 5 65278][f 2 1]Drain Elec[n][e]
+[f 0 5 65278][f 2 1]Absorbe Electricidad[n][e]
 
 [msg addeffect_156]
 [f 0 5 65278][f 2 1]Ninguno[n][e]
@@ -575,7 +575,7 @@
 [f 0 5 65278][f 2 1]Ataque de viento[n][e]
 
 [msg addeffect_192]
-[f 0 5 65278][f 2 1]Elec ataca[n][e]
+[f 0 5 65278][f 2 1]Ataque Elec.[n][e]
 
 [msg addeffect_193]
 [f 0 5 65278][f 2 1]Da隠o al fuego[n][e]
@@ -587,5 +587,5 @@
 [f 0 5 65278][f 2 1]Da隠o al viento[n][e]
 
 [msg addeffect_196]
-[f 0 5 65278][f 2 1]Elec da隠吋[n][e]
+[f 0 5 65278][f 2 1]Da隠o Elec.[n][e]
 

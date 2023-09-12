@@ -1,11 +1,11 @@
-﻿[msg MITURU_FOE_FOLLOW_START_]
+[msg MITURU_FOE_FOLLOW_START_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13300]斡Hemos sido detectados por un FOE![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_FOLLOW_START__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13301]Tsk... 斡Un FOE nos ha encerrado![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_FOLLOW_START__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13302]斡Estamos siendo rastreados por un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13302]斡Nos est茨 siguiendo un FOE![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_NEAR_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13303]Hay un FOE cerca...[n][f 1 6 65535][e]
@@ -29,28 +29,28 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13369]Ten cuidado.[n][f 1 6 65535][e]
 
 [msg MITURU_KANSI_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13370]Qu姻 trampa inconveniente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13370]Qu姻 trampa tan inconveniente.[n][f 1 6 65535][e]
 
 [msg MITURU_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13371]Aseg雨rate de priorizar el robo...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13371]Aseg雨rate de dar prioridad al sigilo...[n][f 1 6 65535][e]
 
 [msg MITURU_DENKISAKU_REACTIO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13372]Aconsejo no tocar eso.[n][f 1 6 65535][e]
 
 [msg MITURU_DENKISAKU_REACTIO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13373]Podemos proceder despu姻s de apagar el poder.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13373]Podemos continuar despu姻s de apagar la energ胤a.[n][f 1 6 65535][e]
 
 [msg MITURU_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13374]Cerrar la electricidad ser胤a el curso[n]prudente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13374]Apagar la electricidad ser胤a la medida prudente.[n][f 1 6 65535][e]
 
 [msg MITURU_KYOUHU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13375]Ngh...![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13375]斡Ngh...![n][f 1 6 65535][e]
 
 [msg MITURU_KYOUHU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13376]夷Qu姻?[n][f 1 6 65535][e]
 
 [msg MITURU_KYOUHU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13377]夷El viento?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13377]夷Eh, el viento?[n][f 1 6 65535][e]
 
 [msg MITURU_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13324]Podemos seguir adelante. 夷Alguna objeci吋n?[n][f 1 6 65535][e]
@@ -59,22 +59,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13325]Hay una escalera all胤.[n][f 1 6 65535][e]
 
 [msg MITURU_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13326]Escaleras... El siguiente piso est茨 por[n]delante.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13326]Escaleras... El siguiente piso est茨[n]adelante.[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13327]Una caja de tesoros... 夷Vamos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13327]Una cofre del tesoro... 夷Vamos?[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13328]Hm. Hay una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13328]Hm. Hay una cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13329]Hay un tesoro por delante.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13329]Hay un tesoro adelante.[n][f 1 6 65535][e]
 
 [msg MITURU_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13330]夷Hm...? 夷Qu姻 es eso?[n][f 1 6 65535][e]
 
 [msg MITURU_CHECK_WALL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13331]Algo me est茨 molestando. 夷Le importa si[n]investigamos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13331]Algo me est茨 molestando. 夷Te importa si[n]investigamos?[n][f 1 6 65535][e]
 
 [msg MITURU_CHECK_WALL_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13332]夷Qu姻 es eso? Echemos un vistazo m茨s de cerca.[n][f 1 6 65535][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13334]Mira. Hay un interruptor.[n][f 1 6 65535][e]
 
 [msg MITURU_SWITCH_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13335]夷Un cambio...? 夷Cu茨l es nuestro movimiento?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13335]夷Un interruptor...? 夷Cu茨l es nuestro movimiento?[n][f 1 6 65535][e]
 
 [msg MITURU_SHORTCUT_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13336]夷Hm? Parece que podemos pasar por all胤.[n][f 1 6 65535][e]
@@ -110,10 +110,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13309]斡No te relajes todav胤a! 斡El FOE est茨 casi[n]sobre nosotros![n][f 1 6 65535][e]
 
 [msg MITURU_FOE_WARNING_NEAR__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13310]Que FOE sigue en persecuci吋n...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13310]Ese FOE todav胤a nos persigue...[n][f 1 6 65535][e]
 
 [msg MITURU_FOE_WARNING_NEAR__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13311]斡Mant姻nganse afilados! 斡Que FOE sigue aqu胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13311]斡Mantente alerta! Ese FOE sigue aqu胤.[n][f 1 6 65535][e]
 
 [msg MITURU_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -134,13 +134,13 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13312]Estoy bien... Puedo seguir... yendo...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13312]Ngh... Estoy bien... Puedo... seguir... adelante...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13313]夷C吋mo sucedi吋 esto? Estaba muy descuidado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13313]夷C吋mo pudo pasar esto...? Fui demasiado descuidada...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13314]No quiero ser una responsabilidad, pero...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13314]No quiero ser una carga, pero...[n][f 1 6 65535][e]
 
 [msg MITURU_PARTY_TP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -152,13 +152,13 @@
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13315]Lo siento, 夷pero podr胤a molestarte por algo[n]de curaci吋n?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13315]Ngh... Lo siento, 夷podr胤a molestarte con algo de curaci吋n...?[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13316]Estoy bastante bajo en salud...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13316]Ngh... Tengo bastante poca salud...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13317]Disculpa, pero estoy cerca de mi l胤mite...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13317]Mis disculpas, pero estoy cerca de mi l胤mite...[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_TP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13318]Tengo dificultades para mantenerme...[n]Disculpas...[n][f 1 6 65535][e]
@@ -179,13 +179,13 @@
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13321]Mantendremos este impulso, espero?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13321]夷Mantendremos este impulso, espero?[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13322]Otro testamento para nuestro crecimiento.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13322]Otro testimonio de nuestro crecimiento.[n][f 1 6 65535][e]
 
 [msg MITURU_1PERSON_HP80_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13323]斡C'est magnifique! Bien peleado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13323]斡C'est magnifique! Biena pelea.[n][f 1 6 65535][e]
 
 [msg MITURU_BATTLE_CHANGE_DUN]
 [f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
 
 [msg MITURU_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13360]Te dejaremos la toma de decisiones.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13360]Dejaremos las decisiones en tus manos.[n][f 1 6 65535][e]
 
 [msg MITURU_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13361]斡Vamos![n][f 1 6 65535][e]
@@ -224,28 +224,28 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13365]Empecemos, todos.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13352]Acabamos de empezar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13352]Apenas hemos comenzado.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13353]Procedamos lentamente, pero seguramente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13353]Avancemos lentamente, pero seguros.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_50_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13354]Espero que las responsabilidades no sean una[n]carga. 夷Est茨s cansada?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13354]Espero que las responsabilidades no sean una carga. 夷Est茨s cansado?[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_50_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13355]Hemos cubierto una buena parte de este piso.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13356]Hemos caminado bastante lejos. 夷C吋mo est茨 la[n]salud de todos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13356]Hemos caminado bastante. 夷C吋mo est茨 la[n]salud de todos?[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13357]Estoy empezando a ver el cuadro completo...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13357]Estoy empezando a ver el panorama completo...[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13358]Me atrevo a decir que no volveremos a perdernos[n]en este piso.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13359]Veo que ten胤amos raz吋n para ponerte a cargo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13359]Veo que ten胤amos raz吋n al ponerte a cargo.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_ICON_ALL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13342]S胤, todo parece familiar.[n][f 1 6 65535][e]
@@ -260,7 +260,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13345]As胤 que esto conduce al siguiente piso,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_CHANGE_CO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13346]夷Oh...? Tienes buen sentido para esto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13346]夷Oh...? Tienes buen gusto para eso.[n][f 1 6 65535][e]
 
 [msg MITURU_MAPPING_CHANGE_CO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13347]Una idea novedosa.[n][f 1 6 65535][e]

@@ -272,10 +272,10 @@
 [f 0 5 65278][f 2 1][f 0 1 2]Probabilidad media de Sue隠o[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_05B]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Maldición[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_05C]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Maldición[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_05D]
 [f 0 5 65278][f 2 1]0x05D[n][e]
@@ -410,7 +410,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad[n]media de agilidad Restricci吋n[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_089]
-[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad de[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad de[n]media de Maldición[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_08A]
 [f 0 5 65278][f 2 1]2-6 ataques F胤sicos ligeros a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
@@ -611,10 +611,10 @@
 [f 0 5 65278][f 2 1]Ataque de Viento pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0CC]
-[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Maldición[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_0CD]
-[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad[n]media de Hex[f 0 1 0].[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico pesado, con [f 0 1 2]probabilidad[n]media de Maldición[f 0 1 0].[n](1 Enemigo)[n][e]
 
 [msg skill_0CE]
 [f 0 5 65278][f 2 1]0x0CE[n][e]
@@ -2522,10 +2522,10 @@
 [f 0 5 65278][f 2 1]Probabilidad media de ceguera.[n](Todos los enemigos)[n][e]
 
 [msg skill_349]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Maldición[f 0 1 0].[n](1 fila)[n][e]
 
 [msg skill_34A]
-[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Hex[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de Maldición[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg skill_34B]
 [f 0 5 65278][f 2 1][f 0 1 2]Posibilidad media de par茨lisis[f 0 1 0].[n](1 Enemigo)[n][e]
@@ -2819,7 +2819,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico ligero, con [f 0 1 2]probabilidad[n]de par茨lisis[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3AC]
-[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Hex[f 0 1 0]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad[n]media de Maldición[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_3AD]
 [f 0 5 65278][f 2 1]Ataque F胤sico ligero. (1 Fila)[n][e]
@@ -4262,7 +4262,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico grave que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58D]
-[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad[n]de Hex[f 0 1 0]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]alta probabilidad[n]de Maldición[f 0 1 0]. (1 Enemigo)[n][e]
 
 [msg skill_58E]
 [f 0 5 65278][f 2 1]Ataque F胤sico medio, con [f 0 1 2]probabilidad media[n]de agilidad Restricci吋n[f 0 1 0]. (1 Enemigo)[n][e]
