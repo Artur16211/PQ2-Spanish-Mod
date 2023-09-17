@@ -176,7 +176,7 @@
 [f 0 5 65278][f 2 1]Una cadena de cuentas con una luz curativa.[n][f 0 1 4]Restaura todos los PS[f 0 1 0].[n](Grupo)[n][e]
 
 [msg item_53B]
-[f 0 5 65278][f 2 1]Un misterioso Goho-M que no desaparece despu姻s[n]de su uso. [f 0 1 4]Escapa del laberinto actual[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Un misterioso Talue-Go que no desaparece despu姻s[n]de su uso. [f 0 1 4]Escapa del laberinto actual[f 0 1 0][n].[n][e]
 
 [msg item_53C]
 [f 0 5 65278][f 2 1]Un misterioso Goba-K que no desaparece despu姻s[n]del uso. [f 0 1 4] Volver a la entrada del piso[f 0 1 0][n].[n][e]

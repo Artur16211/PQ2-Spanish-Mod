@@ -134,7 +134,7 @@ Tajo colosal
 Twin Slash
 Leg Reaper
 Tiro triple
-Mighty Swing
+Tajo poderoso
 Achilles Reaper
 Silent Thrust
 Desmadre
@@ -148,23 +148,23 @@ Mind Strike
 Holy Touch
 Revenge Blow
 Hammer Strike
-Arm Chopper
-Single Shot
+Cortabrazos
+Disparo
 Scarecrow
 Disarm
 Makajam
 Assault Shot
-Primal Force
+Fuerza primigenia
 Weapon Crusher
 Broadshot
-Myriad Arrows
+Mil flechas
 Punishment
 Asalto
 Sleeper Punch
 Armor Splitter
 Acometida
 Portamuerte
-Blade of Fury
+Espada de furia
 Glacial Edge
 Espada vorpal
 Danse Macabre
@@ -176,18 +176,18 @@ Blank
 Brutal Slash
 Photon Edge
 Prana
-Heaven's Blade
+Hoja celestial
 Mano de Dios
 Angelic Trumpet
 Hassou Tobi
 Hailstorm
-Arrow Rain
-Aeon Rain
+Lluvia de flechas
+Lluvia de Eón
 Beheading Cut
 Blank
 BLANK
 Blank
-Poison Skewer
+Brocheta venenosa
 Gurentou
 Tousatsujin
 Raikouzan
@@ -196,7 +196,7 @@ Shinkuuha
 Resseiha
 Pralaya
 Shadow Run
-World's End
+Fin del mundo
 Raimeizan
 Raijinzan
 Gokuentou
@@ -249,8 +249,8 @@ Revolt Vanguard
 Matarukaja
 Marakukaja
 Masukukaja
-Power Charge
-Mind Charge
+Gran carga
+Carga mental
 Fire Blessing
 Ice Blessing
 Elec Blessing
@@ -319,11 +319,11 @@ Zero Shift
 Encore
 Encore
 Unused SP Skill
-Oracle
+Oráculo
 Ataque combinado
 Sutakora Foot
 Analizar
-Full Analysis
+Análisis completo
 Snake Glare
 Heroic Wind
 Unyielding Heart
@@ -352,15 +352,15 @@ Magic Mallet
 Defensa definitiva
 Defensa definitiva
 Tidal Wave
-Oracle
-Oracle
-Oracle
-Oracle
-Oracle
-Oracle
+Oráculo
+Oráculo
+Oráculo
+Oráculo
+Oráculo
+Oráculo
 Mini Recovery
 総攻撃カメラ用
-Prayer
+Oración
 Sneak Guide
 Treasure Hunter
 Fortune Hunter
@@ -403,7 +403,7 @@ Spirit Summon
 Shura Tensei
 Shura Revert
 Shura Instincts
-Orgia Mode
+Modo Desenfreno
 Mode Disengage
 Heal Memento
 Heal Memento
@@ -464,7 +464,7 @@ BLANK
 BLANK
 BLANK
 Blank
-Orgia Mastery
+Dominio de Desenfreno
 Spy Arts
 Spy Expertise
 Pose
@@ -524,10 +524,10 @@ Trick Step
 Immunity Buffer
 Lemegeton
 Repulse Mist
-Absorb Fire
-Absorb Wind
-Absorb Ice
-Absorb Elec
+Absorber fuego
+Absorber viento
+Absorber hielo
+Absorber electricidad
 Healing Hand
 Potenc. de fuego
 Potenc. de hielo
@@ -686,7 +686,7 @@ Mental Bullet
 Esfera desvanecedora
 Hagakure Bowl
 Mega Beef Bowl
-Leblanc Curry
+Curry del Leblanc
 Analysis Scope
 Hom雨nculo
 Repulse Pipe
@@ -721,8 +721,8 @@ BLANK
 BLANK
 Blank
 Anular Muerte instant茨nea
-Null Ailments
-Null Binds
+Anular Estados Alterados
+Anular Ataduras
 Blank
 Return from Yomi
 Triple Link
@@ -756,7 +756,7 @@ Sonic Rush
 Sonic Rush
 Blank
 Potenc. estado alter.
-Ailment Surge
+Increment. Estados Alt.
 Raging Fists
 Furious Fists
 Bound Arts
@@ -878,11 +878,11 @@ Mapsi
 Blank
 BLANK
 Blank
-God's Judgment
+Juicio de Dios
 Hell's Judgment
 Blank
 Panta Rhei
-Divine Vacuum
+Onda Divina
 Blank
 BLANK
 BLANK
@@ -902,7 +902,7 @@ Tajo colosal
 Twin Slash
 Acometida
 Tiro triple
-Mighty Swing
+Tajo poderoso
 Hard Slash
 Charge Shot
 Stab Shower
@@ -911,22 +911,22 @@ Guillotina
 Corte tempestuoso
 Mental Smash
 Drain Touch
-Arm Chopper
-Single Shot
+Cortabrazos
+Disparo
 Thorn Shackles
 Thorn Cuffs
 Thorn Chains
 Assault Shot
-Primal Force
+Fuerza primigenia
 Weapon Crusher
 Broadshot
-Myriad Arrows
+Mil flechas
 Megaton Press
 Agitaci吋n cerebral
 Stardrop
 Buchikamashi
 Spin Slash
-Blade of Fury
+Espada de furia
 Tousatsujin
 Espada vorpal
 Crazed Slash
@@ -942,7 +942,7 @@ Stunning Slice
 Bane Slice
 Mow Down
 Portamuerte
-Torrent Shot
+Disparo torrencial
 Desmadre
 Buchikamashi
 Egg Bomb
@@ -1012,8 +1012,8 @@ BLANK
 Matarukaja
 Marakukaja
 Masukukaja
-Power Charge
-Mind Charge
+Gran carga
+Carga mental
 Fire Corrosion
 Ice Corrosion
 Elec Corrosion
@@ -1222,7 +1222,7 @@ Auto-Recover 70%
 Pounce Punch
 Cloak of Despair
 Infinite Despair
-Auto Recovery
+Autorrecuperaci吋n
 Urgent Recovery
 Blank
 Ataque combinado
@@ -1415,7 +1415,7 @@ Blank
 Psicofuerza
 Psicoestallido
 Black Spot
-Herculean Strike
+Golpe hercúleo
 Agneyastra
 Blank
 Filo valeroso

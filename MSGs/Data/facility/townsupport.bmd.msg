@@ -104,82 +104,82 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15202]斡Solicito mantenimiento![n][f 1 6 65535][e]
 
 [msg town_returnitem_RYUJI_me]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21203]夷No nos hemos quedado sin Goho-Ms?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21203]夷No nos hemos quedado sin Talue-Gos?[n][f 1 6 65535][e]
 
 [msg town_returnitem_ANN_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22203]夷Tienen suficientes Goho-Ms?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22203]夷Tienen suficientes Talue-Gos?[n][f 1 6 65535][e]
 
 [msg town_returnitem_MONA_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23203]斡Aseg雨rate de traer Goho-M contigo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23203]斡Aseg雨rate de traer Talue-Go contigo![n][f 1 6 65535][e]
 
 [msg town_returnitem_YUSUKE_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24203]Los Goho-Ms son importantes. No podemos[n]olvidarlos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24203]Los Talue-Gos son importantes. No podemos[n]olvidarlos.[n][f 1 6 65535][e]
 
 [msg town_returnitem_FUTABA_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26201]斡Oye, trae algunos Goho-Ms![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26201]斡Oye, trae algunos Talue-Gos![n][f 1 6 65535][e]
 
 [msg town_returnitem_AKECHI_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28203]Tenemos Goho-Ms, supongo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28203]Tenemos Talue-Gos, supongo?[n][f 1 6 65535][e]
 
 [msg town_returnitem_P3HERO2_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19203]斡No olvides traer un Goho-M![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19203]斡No olvides traer un Talue-Go![n][f 1 6 65535][e]
 
 [msg town_returnitem_MAKOTO_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25203]No olvides que necesitamos Goho-Ms.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25203]No olvides que necesitamos Talue-Gos.[n][f 1 6 65535][e]
 
 [msg town_returnitem_HARU_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27203]Deber胤amos comprar algunos Goho-Ms primero,[n]夷no?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27203]Deber胤amos comprar algunos Talue-Gos primero,[n]夷no?[n][f 1 6 65535][e]
 
 [msg town_returnitem_P4HERO_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1203]Deber胤as ir a buscar Goho-Ms.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1203]Deber胤as ir a buscar Talue-Gos.[n][f 1 6 65535][e]
 
 [msg town_returnitem_CHIE_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4203]夷No necesitamos algunos Goho-Ms?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4203]夷No necesitamos algunos Talue-Gos?[n][f 1 6 65535][e]
 
 [msg town_returnitem_YUKIKO_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5203]夷Por qu姻 no compramos Goho-M?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5203]夷Por qu姻 no compramos Talue-Go?[n][f 1 6 65535][e]
 
 [msg town_returnitem_RISE_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6201]斡Necesitamos Goho-M![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6201]斡Necesitamos Talue-Go![n][f 1 6 65535][e]
 
 [msg town_returnitem_KANJI_me]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7203]Oye, deber胤as tomar uno de esos Goho-Ms...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7203]Oye, deber胤as tomar uno de esos Talue-Gos...[n][f 1 6 65535][e]
 
 [msg town_returnitem_NAOTO_me]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 8203]Aconsejo que tomemos algunos Goho-Ms.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 8203]Aconsejo que tomemos algunos Talue-Gos.[n][f 1 6 65535][e]
 
 [msg town_returnitem_KUMA_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9203]夷Estamos todos sin Goho-Ms?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9203]夷Estamos todos sin Talue-Gos?[n][f 1 6 65535][e]
 
 [msg town_returnitem_YOUSUKE_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3203]斡Vamos a por unos Goho-Ms![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3203]斡Vamos a por unos Talue-Gos![n][f 1 6 65535][e]
 
 [msg town_returnitem_YUKARI_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10203]夷Conseguiste Goho-M?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10203]夷Conseguiste Talue-Go?[n][f 1 6 65535][e]
 
 [msg town_returnitem_JUNPEI_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11203]No vendr胤a mal un Goho-M.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11203]No vendr胤a mal un Talue-Go.[n][f 1 6 65535][e]
 
 [msg town_returnitem_SANADA_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12203]Ser茨 mejor que tengas algunos Goho-Ms a mano.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12203]Ser茨 mejor que tengas algunos Talue-Gos a mano.[n][f 1 6 65535][e]
 
 [msg town_returnitem_MITURU_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13203]夷Conf胤o en que todav胤a quedan algunos[n]Goho-Ms?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13203]夷Conf胤o en que todav胤a quedan algunos[n]Talue-Gos?[n][f 1 6 65535][e]
 
 [msg town_returnitem_FUKA_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14201]夷Seguro que no necesitas Goho-M?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14201]夷Seguro que no necesitas Talue-Go?[n][f 1 6 65535][e]
 
 [msg town_returnitem_AMADA_me]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16203]夷No deber胤amos tener al menos un Goho-M?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16203]夷No deber胤amos tener al menos un Talue-Go?[n][f 1 6 65535][e]
 
 [msg town_returnitem_ARAGAKI_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18203]Goho-Ms. No lo olvides.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18203]Talue-Gos. No lo olvides.[n][f 1 6 65535][e]
 
 [msg town_returnitem_P3HERO_m]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 2203]夷Vas a estar bien sin Goho-M?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 2203]夷Vas a estar bien sin Talue-Go?[n][f 1 6 65535][e]
 
 [msg town_returnitem_AEGIS_me]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 15203]斡Debemos comprar Goho-M![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 15203]斡Debemos comprar Talue-Go![n][f 1 6 65535][e]
 
 [msg town_new_quest_RYUJI_mes]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21204]夷No vamos a revisar la taquilla?[n][f 1 6 65535][e]
@@ -746,16 +746,16 @@
 [f 0 5 65278][f 2 1]斡Arf arf![n][f 1 2 45][e]
 
 [msg town_bg07_KOROMARU_mes02]
-[f 0 5 65278][f 2 1]Woof![n][f 1 2 45][e]
+[f 0 5 65278][f 2 1]斡Woof![n][f 1 2 45][e]
 
 [msg town_bg07_KOROMARU_mes03]
 [f 0 5 65278][f 2 1]*pantal吋n pantal吋n*[n][f 1 2 45][e]
 
 [msg town_bg08_FUTABA_mes01]
-[f 0 5 65278][f 2 1]Whoaaaaa! 斡Qu姻 bien![n][f 1 2 80][e]
+[f 0 5 65278][f 2 1]斡Whoaaaaa! 斡Qu姻 bien![n][f 1 2 80][e]
 
 [msg town_bg08_FUTABA_mes02]
-[f 0 5 65278][f 2 1]HHola, Naoto. 斡Estamos comparando los datos[n]de Ribbon![n][f 1 2 115][e]
+[f 0 5 65278][f 2 1]H-Hola, Naoto. 斡Estamos comparando los datos[n]de Ribbon![n][f 1 2 115][e]
 
 [msg town_bg08_HARU_mes01]
 [f 0 5 65278][f 2 1]Fuuka, gracias por todo tu preciso apoyo.[n][f 1 2 125][e]
@@ -851,16 +851,16 @@
 [f 0 5 65278][f 2 1]夷Tienes planes para el futuro, Amada?[n][f 1 2 85][e]
 
 [msg town_bg10_YOUSUKE_mes01]
-[f 0 5 65278][f 2 1]Maldici吋n. 斡Las armas son impresionantes![n]Son geniales, pero algo aterrador...[n][f 1 2 115][e]
+[f 0 5 65278][f 2 1]斡Vaya, los Evocadores son impresionantes! Son geniales, pero un poco aterradores...[n][f 1 2 115][e]
 
 [msg town_bg10_YOUSUKE_mes02]
 [f 0 5 65278][f 2 1]斡Gah, idiota! 斡No me digas eso![n][f 1 2 100][e]
 
 [msg town_bg10_JUNPEI_mes01]
-[f 0 5 65278][f 2 1]S胤. Ponlo en tu cabeza, tira el gatillo y[n]bam! 斡Persona![n][f 1 2 155][e]
+[f 0 5 65278][f 2 1]S胤. Ponlo en tu cabeza, tira el gatillo y[n]斡bam! 斡Persona![n][f 1 2 155][e]
 
 [msg town_bg10_JUNPEI_mes02]
-[f 0 5 65278][f 2 1]Sigue siendo raro incluso cuando sabes que[n]es un arma, 夷verdad? Igual aqu胤.[n][f 1 2 160][e]
+[f 0 5 65278][f 2 1]Sigue siendo inquietante incluso cuando sabes que es un Evocador, 夷verdad? Yo también pienso lo mismo.[n][f 1 2 160][e]
 
 [msg town_bg10_AMADA_mes01]
 [f 0 5 65278][f 2 1]夷As胤 que eres detective, Akechi? 夷C吋mo te[n]conviertes en uno?[n][f 1 2 140][e]

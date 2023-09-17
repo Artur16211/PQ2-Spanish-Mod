@@ -1,1196 +1,1196 @@
-﻿[msg myth_000]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[msg myth_000]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_001]
-[f 0 5 65278][f 2 1]Uno de los dioses antiguos que exist胤an antes[n]de que Jap吋n empezara. Cre吋 el Oyashima[n]del caos, luego dio a luz a innumerables[n]ni隠os y sent吋 las bases del suelo y[n]la naturaleza.[n][e]
+[f 0 5 65278][f 2 1]One of the ancient gods who[n]existed before Japan began. He[n]created the Oyashima from[n]chaos, then gave birth to[n]countless children and laid[n]the foundation of soil and[n]nature.[n][e]
 
 [msg myth_002]
-[f 0 5 65278][f 2 1]Un monstruo primitivo con un cuerpo viscoso.[n]Hay varias teor胤as sobre su origen, pero[n]todav胤a est茨 bajo debate. Dijo que[n]recoger胤a objetos brillantes[n]compulsivamente.[n][e]
+[f 0 5 65278][f 2 1]A primitive monster with a[n]viscous body. There are[n]various theories as to its[n]origin, but it is still under[n]debate. Said to compulsively[n]collect shiny objects.[n][e]
 
 [msg myth_003]
-[f 0 5 65278][f 2 1]Diosa japonesa de entretenimiento, gobierna[n]muchos bailes sagrados. Famoso por visitar[n]a Amaterasu, que se hab胤a encerrado[n]dentro de una cueva.[n][e]
+[f 0 5 65278][f 2 1]Japanese goddess of[n]entertainment, she governs[n]many sacred dances. Famous[n]for luring out Amaterasu, who[n]had barricaded herself inside[n]a cave.[n][e]
 
 [msg myth_004]
-[f 0 5 65278][f 2 1]El esp胤ritu que dijo: "Porque somos muchos",[n]en las escrituras antiguas. El nombre[n]viene del t姻rmino militar romano para una[n]unidad militar de 3.000 a 6.000 hombres.[n][e]
+[f 0 5 65278][f 2 1]The spirit who said, "For we[n]are many," in ancient[n]scriptures. The name comes[n]from the Roman military term[n]for an army unit of 3,000 to[n]6,000 men.[n][e]
 
 [msg myth_005]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia y el[n]Presidente del Infierno. 畏l puede cambiar[n]su forma de leopardo a humano y revela la[n]verdad detr茨s de los misterios divinos.[n][e]
+[f 0 5 65278][f 2 1]One of 72 demons of the[n]Goetia and the President of[n]Hell. He can shift his shape[n]from leopard to human and[n]reveals the truth behind divine[n]mysteries.[n][e]
 
 [msg myth_006]
-[f 0 5 65278][f 2 1]Un Jack Frost que or吋 por talentos malvados.[n]Este poderoso demonio nace cuando un[n]lindo Jack Frost recuerda su naturaleza[n]como un demonio.[n][e]
+[f 0 5 65278][f 2 1]A Jack Frost that prayed for[n]evil talents. This powerful[n]demon is born when a cute[n]Jack Frost remembers its[n]nature as a demon.[n][e]
 
 [msg myth_007]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. Viene[n]en forma de estrella y tiene vastos[n]conocimientos de hierbas y joyas. Tambi姻n[n]puede controlar aves a voluntad.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He comes in the shape[n]of a star and has vast[n]knowledge of herbs and jewels.[n]He can also control birds at[n]will.[n][e]
 
 [msg myth_008]
-[f 0 5 65278][f 2 1]Un poderoso shikigami que puede ser convocado[n]por cierto onmyodo. Puede causar da隠o[n]a otros o curar la enfermedad, pero su[n]temperamento ordinario es bastante[n]vicioso.[n][e]
+[f 0 5 65278][f 2 1]A powerful shikigami that can[n]be summoned by certain[n]onmyodo. It can cause harm to[n]others or cure illness, but its[n]ordinary temperament is quite[n]vicious.[n][e]
 
 [msg myth_009]
-[f 0 5 65278][f 2 1]Una gran deidad de Norse, conocida como un[n]tramposo que choca con los otros dioses.[n]Hermanos de sangre con Odin, fue castigado[n]por su papel en la muerte de Baldur.[n][e]
+[f 0 5 65278][f 2 1]A major Norse deity, known as[n]a trickster who clashes with[n]the other gods. Blood brothers[n]with Odin, he was later[n]punished for his role in[n]Baldur's death.[n][e]
 
 [msg myth_010]
-[f 0 5 65278][f 2 1]Un t姻rmino general para los familiares usados[n]por magos judeo-cristianos, son[n]generalmente sellados en botellas, anillos o[n]talismanos. Atormentan el objetivo[n]seleccionado por el conjurador.[n][e]
+[f 0 5 65278][f 2 1]A general term for familiars[n]used by Judeo-Christian[n]magicians, they are usually[n]sealed away in bottles, rings,[n]or talismans. They torment the[n]target selected by the[n]conjuror.[n][e]
 
 [msg myth_011]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. 畏l[n]aparece como un caballo y responde preguntas[n]del pasado, presente y futuro. Es fiel[n]a su conjurador.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He appears as a horse[n]and answers questions of the[n]past, present, and future. He is[n]faithful to his conjurer.[n][e]
 
 [msg myth_012]
-[f 0 5 65278][f 2 1]Un hada de invierno de ascendencia europea.[n]Normalmente una criatura inocente, pero[n]si se provoca, matar茨 a su v胤ctima[n]cubri姻ndolo en nieve.[n][e]
+[f 0 5 65278][f 2 1]A winter fairy of European[n]descent. Normally an innocent[n]creature, but if provoked, he[n]will kill his victim by covering[n]him in snow.[n][e]
 
 [msg myth_013]
-[f 0 5 65278][f 2 1]Un esp胤ritu folcl吋rico chino que habita en[n]茨rboles utilizados para colgar. Ella es[n]m茨s peque隠a que un humano y no puede[n]hablar, pero su voz se dice que es tan clara[n]como un pajarito.[n][e]
+[f 0 5 65278][f 2 1]A Chinese folk-spirit who[n]dwells in trees used for[n]hangings. She is smaller than a[n]human and cannot speak, but[n]her voice is said to be as clear[n]as a birdsong.[n][e]
 
 [msg myth_014]
-[f 0 5 65278][f 2 1]Tambi姻n conocido como Jack O' Lantern, era[n]un granjero irland姻s que convenci吋 a[n]Satan茨s de no llevarlo al infierno. Cuando[n]se le neg吋 la entrada al cielo, vag吋 por[n]la tierra con una cabeza de calabaza.[n][e]
+[f 0 5 65278][f 2 1]Also known as Jack O' Lantern,[n]he was an Irish farmer who[n]persuaded Satan not to take[n]him to hell. When he was[n]refused entry into heaven, he[n]wandered the earth with a[n]pumpkin head.[n][e]
 
 [msg myth_015]
-[f 0 5 65278][f 2 1]Un asistente espiritual a los humanos en[n]Norse Lore. Ella es conocida como una diosa[n]de la agricultura y la guerra, aunque[n]algunos la ven como una sirvienta de baja[n]jerarqu胤a de la valkyrie.[n][e]
+[f 0 5 65278][f 2 1]A spiritual attendant to[n]humans in Norse lore. She is[n]known as both a goddess of[n]farming and war, though some[n]see her as a low-ranking[n]servant of the valkyrie.[n][e]
 
 [msg myth_016]
-[f 0 5 65278][f 2 1]Una bruja malvada de lloro balin姻s, representa[n]el mal y es el eterno rival de Barong.[n]Aunque sea derrotada, volver茨 a la[n]vida, y su batalla no tendr茨 fin.[n][e]
+[f 0 5 65278][f 2 1]A wicked witch of Balinese[n]lore, she represents evil and is[n]Barong's eternal rival. Even if[n]defeated, she will come back[n]to life, and their battle will[n]have no end.[n][e]
 
 [msg myth_017]
-[f 0 5 65278][f 2 1]Un esp胤ritu de viento y fuego apareciendo en[n]lore 茨rabe. Puede transformar a voluntad[n]y conceder deseos a aquellos que lo[n]liberan de su botella o frasco.[n][e]
+[f 0 5 65278][f 2 1]A spirit of wind and fire[n]appearing in Arabian lore. It[n]can transform at will and[n]grant wishes to those who[n]release it from its bottle or[n]jar.[n][e]
 
 [msg myth_018]
-[f 0 5 65278][f 2 1]Un gigante de fuego en la mitolog胤a de Norse.[n]畏l gobierna el reino de fuego, Muspelheim,[n]y marca una espada ardiente. En[n]Ragnarok, pondr茨 el mundo en llamas.[n][e]
+[f 0 5 65278][f 2 1]A fire giant in Norse[n]mythology. He rules the fire[n]realm, Muspelheim, and[n]brandishes a burning sword. At[n]Ragnarok, he will set the[n]world ablaze.[n][e]
 
 [msg myth_019]
-[f 0 5 65278][f 2 1]Un monstruo gigante en el mito hind雨. Su boca[n]es tan enorme que puede tragar todo el[n]espacio, junto con todos los dioses. Su[n]nombre significa "intoxicador"[n][e]
+[f 0 5 65278][f 2 1]A giant monster in Hindu myth.[n]Its mouth is so enormous it[n]can swallow all of space,[n]along with all gods. Its name[n]means "intoxicator."[n][e]
 
 [msg myth_020]
-[f 0 5 65278][f 2 1]Peque隠as criaturas humanas, tienen una[n]personalidad amable y tranquila. Una vez[n]conviviendo con el pueblo Ainu, hubo una[n]ca胤da en alg雨n momento, y ellos[n]desaparecieron.[n][e]
+[f 0 5 65278][f 2 1]Small human-like creatures,[n]they have a kind, calm[n]personality. Once coexisting[n]with the Ainu people, there[n]was a falling out at some[n]point, and they disappeared.[n][e]
 
 [msg myth_021]
-[f 0 5 65278][f 2 1]En el mito hind雨, es la diosa de los r胤os y[n]patrona del discurso, la escritura, el[n]aprendizaje y las artes y ciencias. Brahma[n]es su marido.[n][e]
+[f 0 5 65278][f 2 1]In Hindu myth, she is the[n]goddess of rivers and patron of[n]speech, writing, learning, and[n]the arts and sciences. Brahma[n]is her husband.[n][e]
 
 [msg myth_022]
-[f 0 5 65278][f 2 1]El l胤der de un enjambre de p胤xies. Cualquier[n]pixie en un papel de liderazgo o con un[n]poder notable es llamado por este[n]nombre.[n][e]
+[f 0 5 65278][f 2 1]The leader of a swarm of[n]pixies. Any pixie in a[n]leadership role or with[n]remarkable power is called by[n]this name.[n][e]
 
 [msg myth_023]
-[f 0 5 65278][f 2 1]La personificaci吋n del r胤o Ganges. Originalmente[n]desde los cielos, vino a la tierra[n]para limpiar las almas del pueblo como[n]resultado de las oraciones de Bhagiratha.[n][e]
+[f 0 5 65278][f 2 1]The personification of the[n]Ganges river. Originally from[n]the heavens, she came to earth[n]to clean the souls of the[n]people as a result of the[n]prayers of Bhagiratha.[n][e]
 
 [msg myth_024]
-[f 0 5 65278][f 2 1]Esta hermosa diosa del amor es una de las[n]esposas de Shiva en la mitolog胤a hind雨.[n]Gan吋 el amor de Shiva, superando su[n]ascetismo.[n][e]
+[f 0 5 65278][f 2 1]This beautiful goddess of love[n]is one of Shiva's wives in[n]Hindu mythology. She won[n]Shiva's love, overcoming his[n]asceticism.[n][e]
 
 [msg myth_025]
-[f 0 5 65278][f 2 1]La diosa de la vida en el mito Shinto. Una[n]vez mediaba entre Izanagi e Izanami durante[n]su confrontaci吋n en Yomi, la tierra[n]de los muertos.[n][e]
+[f 0 5 65278][f 2 1]The goddess of life in Shinto[n]myth. She once mediated[n]between Izanagi and Izanami[n]during their confrontation in[n]Yomi, the land of the dead.[n][e]
 
 [msg myth_026]
-[f 0 5 65278][f 2 1]Tambi姻n conocida como Kishimojin, sol胤a comer[n]ni隠os, pero Buda cambi吋 sus caminos.[n]Come granadas ahora y es una diosa de la[n]crianza.[n][e]
+[f 0 5 65278][f 2 1]Also known as Kishimojin, she[n]used to eat children, but[n]Buddha changed her ways. She[n]eats pomegranates now and is[n]a goddess of parenting.[n][e]
 
 [msg myth_027]
-[f 0 5 65278][f 2 1]Diosa del mito azteca que gobierna la noche[n]y el miedo, simbolizando la muerte y el[n]mal. Su guerra con el sol caus吋 un eclipse[n]solar catastr吋fico. Busca un sacrificio[n]cada 52 a隠os.[n][e]
+[f 0 5 65278][f 2 1]Goddess of Aztec myth who[n]governs night and fear,[n]symbolizing death and evil. Her[n]war with the sun caused a[n]catastrophic solar eclipse. She[n]seeks a sacrifice every 52[n]years.[n][e]
 
 [msg myth_028]
-[f 0 5 65278][f 2 1]Una Queen guerrero de la Tierra de las Sombras[n]en lore celta. Ella ense隠吋 al h姻roe[n]irland姻s Cu Chulainn el arte de la guerra[n]y le dio la lanza Gae Bolg.[n][e]
+[f 0 5 65278][f 2 1]A warrior queen of the Land of[n]Shadows in Celtic lore. She[n]taught the Irish hero Cu[n]Chulainn the art of war and[n]gave him the spear Gae Bolg.[n][e]
 
 [msg myth_029]
-[f 0 5 65278][f 2 1]Un demonio femenino en el mito hind雨.[n]Originalmente una diosa de la fertilidad[n]Dravidiana, la propagaci吋n del hinduismo cambi吋[n]la percepci吋n de ella a una figura[n]demon胤aca. Por lo general representado como[n]una mujer voluptuosa y desnuda.[n][e]
+[f 0 5 65278][f 2 1]A female demon in Hindu myth.[n]Originally a Dravidian[n]fertility goddess, the spread of[n]Hinduism changed perception[n]of her to a demonic figure.[n]Usually depicted as a[n]voluptuous, nude female.[n][e]
 
 [msg myth_030]
-[f 0 5 65278][f 2 1]Hada Queen y esposa a Oberon, se deriva de[n]Diana en el mito romano e inmortalizada[n]en el juego de Shakespeare "Un sue隠o de[n]la noche de verano"[n][e]
+[f 0 5 65278][f 2 1]Fairy queen and wife to[n]Oberon, she is derived from[n]Diana in Roman myth and[n]immortalized in Shakespeare's[n]play "A Midsummer Night's[n]Dream."[n][e]
 
 [msg myth_031]
-[f 0 5 65278][f 2 1]Un monstruo femenino horrible con colmillos[n]venenosos y serpientes en lugar del pelo,[n]su nombre es griego para "terrible".[n]Despu姻s de que Perseo tom吋 la cabeza, se[n]la ofreci吋 a los dioses que le ayudaron[n]a matarla.[n][e]
+[f 0 5 65278][f 2 1]A hideous female monster with[n]poison fangs and snakes[n]instead of hair, her name is[n]Greek for "terrible." After[n]Perseus took her head, he[n]offered it to the gods who[n]helped him slay her.[n][e]
 
 [msg myth_032]
-[f 0 5 65278][f 2 1]Uno de los cuatro 茨ngeles principales. Debido[n]a que se representa como una chica[n]hermosa, se interpreta como mujer. Su nombre[n]proviene de la palabra sumeria para[n]"gobernador"[n][e]
+[f 0 5 65278][f 2 1]One of the four major angels.[n]Because she is depicted as a[n]beautiful girl, she is[n]interpreted as female. Her[n]name comes from the[n]Sumerian word for "governor."[n][e]
 
 [msg myth_033]
-[f 0 5 65278][f 2 1]Una gigantesca llamada la diosa de hoy y la[n]encarnaci吋n del invierno. Seg雨n la leyenda,[n]todos los dioses volver茨n a ella al[n]final de Ragnarok.[n][e]
+[f 0 5 65278][f 2 1]A giantess called the[n]"snow-shoe goddess" and the[n]embodiment of winter.[n]According to legend, all the[n]gods will return to her at the[n]end of Ragnarok.[n][e]
 
 [msg myth_034]
-[f 0 5 65278][f 2 1]El Fiend conocido como "la puta de Babilonia",[n]montando una bestia con siete cabezas[n]y diez cuernos, lleva una copa de oro[n]de abominaciones y la suciedad de sus[n]actos.[n][e]
+[f 0 5 65278][f 2 1]The Fiend known as the "Whore[n]of Babylon," riding a beast[n]with seven heads and ten[n]horns, she carries a golden[n]cup of abominations and the[n]filth of her acts.[n][e]
 
 [msg myth_035]
-[f 0 5 65278][f 2 1]En la mitolog胤a hind雨, la diosa de la belleza[n]y la buena fortuna, la esposa de Vishnu,[n]y la madre de Kama. Ella es la diosa[n]del amor, que se cree que nace de un[n]oc姻ano de leche.[n][e]
+[f 0 5 65278][f 2 1]In Hindu mythology, the[n]goddess of beauty and good[n]fortune, Vishnu's wife, and[n]Kama's mother. She is the[n]goddess of love, believed to be[n]born from an ocean of milk.[n][e]
 
 [msg myth_036]
-[f 0 5 65278][f 2 1]Hada rey y marido a Titania, fue maldecido[n]como un ni隠o y no ha crecido m茨s desde[n]entonces.[n][e]
+[f 0 5 65278][f 2 1]Fairy king and husband to[n]Titania, he was cursed as a[n]child and has not grown any[n]larger since.[n][e]
 
 [msg myth_037]
-[f 0 5 65278][f 2 1]El rey de la nieve, gobernando sobre un n雨mero[n]infinito de Jack Frosts. Tiene el[n]poder de congelar el mundo entero, pero su[n]personalidad es en realidad muy ingenua.[n][e]
+[f 0 5 65278][f 2 1]The king of snow, ruling over[n]an infinite number of Jack[n]Frosts. He has the power to[n]freeze the entire world, but his[n]personality is actually very[n]naive.[n][e]
 
 [msg myth_038]
-[f 0 5 65278][f 2 1]Un joven valiente en el mito celta. Despu姻s[n]de derrotar a un perro vicioso con sus[n]propias manos, asumi吋 su papel como guardi茨n[n]y se dio un nombre que significa[n]"Hound of Culann"[n][e]
+[f 0 5 65278][f 2 1]A brave young man in Celtic[n]myth. After defeating a vicious[n]dog with his bare hands, he[n]took up its role as guardian[n]and gave himself a name[n]meaning "Hound of Culann."[n][e]
 
 [msg myth_039]
-[f 0 5 65278][f 2 1]Un demonio encabezado por caballos del mito[n]budista y guardi茨n que tortura a los[n]pecadores condenados al infierno. Sancion吋[n]sin piedad a las v胤ctimas, s吋lo para[n]resucitarlas y torturarlas de nuevo.[n][e]
+[f 0 5 65278][f 2 1]A horse-headed demon from[n]Buddhist myth and guardian[n]who tortures sinners[n]sentenced to hell. He[n]mercilessly punished victims,[n]only to resurrect and torture[n]them again.[n][e]
 
 [msg myth_040]
-[f 0 5 65278][f 2 1]Una deidad Kunitsu de la mitolog胤a japonesa[n]que gobierna la agricultura y la medicina,[n]dijo haber construido el pa胤s de Izumo[n]con la hija de Susano-o, Suseri-Hime.[n][e]
+[f 0 5 65278][f 2 1]A Kunitsu deity of Japanese[n]mythology that governs[n]agriculture and medicine, said[n]to have built the country of[n]Izumo with Susano-o's[n]daughter, Suseri-Hime.[n][e]
 
 [msg myth_041]
-[f 0 5 65278][f 2 1]Dios de la luna egipcia que toma la forma de[n]un babuino, 姻l es el medidor de tiempo[n]y dio Isis the power to resurrect Osiris[n]after he was killed by the evil god[n]Seth.[n][e]
+[f 0 5 65278][f 2 1]Egyptian moon god that takes[n]the form of a baboon, he is the[n]measurer of time and gave Isis[n]the power to resurrect Osiris[n]after he was killed by the evil[n]god Seth.[n][e]
 
 [msg myth_042]
-[f 0 5 65278][f 2 1]Dios japon姻s del Kunitsu, es el abuelo de[n]Kushinada-Hime y la esposa de Susano-o. Un[n]dios de la monta隠a, as胤 como un dios[n]del agua y los campos.[n][e]
+[f 0 5 65278][f 2 1]Japanese god of the Kunitsu,[n]he is the grandfather of[n]Kushinada-Hime and[n]Susano-o's wife. A mountain[n]god, as well as a god of water[n]and the fields.[n][e]
 
 [msg myth_043]
-[f 0 5 65278][f 2 1]Un guardi茨n de las puertas del para胤so, esta[n]bestia con una cabeza humana y un cuerpo[n]escorpi吋n aparece en el loro[n]mesopotamiano.[n][e]
+[f 0 5 65278][f 2 1]A guardian of the gates of[n]paradise, this beast with a[n]human head and a scorpion[n]body appears in Mesopotamian[n]lore.[n][e]
 
 [msg myth_044]
-[f 0 5 65278][f 2 1]El hijo y el segundo consorte al drag吋n[n]femenino Tiamat. Era el l胤der de los dioses[n]pero fue asesinado por Marduk. La humanidad[n]fue creada de su sangre.[n][e]
+[f 0 5 65278][f 2 1]The son and second consort to[n]the female dragon Tiamat. He[n]was to be the leader of the[n]gods but was killed by[n]Marduk. Mankind was created[n]from his blood.[n][e]
 
 [msg myth_045]
-[f 0 5 65278][f 2 1]Una criatura m胤stica en lore balines姻s,[n]representa el bien y es el eterno rival de[n]Rangda. Aunque sea derrotado, ser茨 renacido.[n]El resultado es una lucha[n]interminable.[n][e]
+[f 0 5 65278][f 2 1]A mystical creature in[n]Balinese lore, it represents[n]good and is Rangda's eternal[n]rival. Even if defeated, it will[n]be reborn. The result is a[n]never-ending struggle.[n][e]
 
 [msg myth_046]
-[f 0 5 65278][f 2 1]En el mito Norse, 姻l es el padre de los dioses[n]y el dios de la sabidur胤a. Monta un[n]caballo de ocho patas, Sleipnir, llevando[n]su lanza Gungnir, y usando su anillo[n]Draupnir.[n][e]
+[f 0 5 65278][f 2 1]In Norse myth, he is the father[n]of the gods and the god of[n]wisdom. He rides an[n]eight-legged horse, Sleipnir,[n]bearing his spear Gungnir, and[n]wearing his ring Draupnir.[n][e]
 
 [msg myth_047]
-[f 0 5 65278][f 2 1]Deidad malvada del folclore mesopotamiano[n]con cuerpo de 茨guila y cabeza de le吋n.[n]Mientras el dios Enlil se purificaba, Anzu[n]le rob吋 las Tablas del Destino.[n][e]
+[f 0 5 65278][f 2 1]An evil deity of Mesopotamian[n]folklore with an eagle's body[n]and lion's head. While the god[n]Enlil purified himself, Anzu[n]stole the Tablets of Destiny[n]from him.[n][e]
 
 [msg myth_048]
-[f 0 5 65278][f 2 1]Una bestia que protege las casas del mal y[n]concede la fortuna. Parece similar a los[n]perros guardianes Shinto, pero se modela[n]despu姻s de un le吋n. Hay muchas historias[n]sobre ello en los mitos de Ryukyu.[n][e]
+[f 0 5 65278][f 2 1]A beast who protects houses[n]from evil and grants fortune. It[n]looks similar to Shinto[n]guardian dogs, but is modelled[n]after a lion. There are many[n]stories about it in Ryukyu[n]myths.[n][e]
 
 [msg myth_049]
-[f 0 5 65278][f 2 1]Un caballo blanco legendario con un solo[n]cuerno espiral. S吋lo puede ser domesticado[n]por una doncella pura, y su cuerno[n]supuestamente tiene capacidades curativas[n]milagrosas.[n][e]
+[f 0 5 65278][f 2 1]A legendary white horse with a[n]single spiral horn. It can only[n]be tamed by a pure maiden,[n]and its horn supposedly has[n]miraculous healing[n]capabilities.[n][e]
 
 [msg myth_050]
-[f 0 5 65278][f 2 1]Un demonio cabeza de vaca del mito budista.[n]Junto con Mezuki, trabaja para el rey[n]Enma, y apu隠ala a los pecadores condenados[n]al infierno.[n][e]
+[f 0 5 65278][f 2 1]A cow-headed demon from[n]Buddhist myth. Along with[n]Mezuki, he works for King[n]Enma, and he clubs and stabs[n]sinners sentenced to Hell.[n][e]
 
 [msg myth_051]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. 畏l[n]aparece como un leopardo y puede ver el pasado[n]y el futuro. Puede controlar el fuego[n]y quemar a todos sus adversarios hasta[n]la muerte.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He appears as a[n]leopard and can see the past[n]and future. He can control fire[n]and burns all his adversaries[n]to death.[n][e]
 
 [msg myth_052]
-[f 0 5 65278][f 2 1]Un monje que muri吋 mientras ayuna, su poder[n]espiritual permite que su cuerpo siga[n]existiendo sin pudrirse. Se dice que[n]aparecer茨 ante la gente en el d胤a de la[n]salvaci吋n.[n][e]
+[f 0 5 65278][f 2 1]A monk who died while[n]fasting, his spiritual power[n]allows his body to continue to[n]exist without rotting. It is[n]said that he will appear before[n]people on the day of[n]salvation.[n][e]
 
 [msg myth_053]
-[f 0 5 65278][f 2 1]Un dios que migraba de Silla a Kyushu para[n]dar Oracles al pueblo. M茨s tarde deificado[n]como guardi茨n de samurai a trav姻s de[n]Jap吋n. Tambi姻n se llama Yahata, o "una[n]figura para que los dioses posean"[n][e]
+[f 0 5 65278][f 2 1]A god who migrated from Silla[n]to Kyushu to give oracles to[n]the people. Later deified as a[n]guardian of samurai across[n]Japan. Also called Yahata, or[n]"a figure for gods to possess."[n][e]
 
 [msg myth_054]
-[f 0 5 65278][f 2 1]Conocido como el drag吋n de oro, Queen sobre[n]las criaturas celestiales Ssu-Ling del[n]mito chino. Est茨 situado en el centro de[n]las cuatro bestias.[n][e]
+[f 0 5 65278][f 2 1]Known as the gold dragon, it[n]reigns over the Ssu-Ling,[n]celestial creatures of Chinese[n]myth. It is located in the[n]center of the four beasts.[n][e]
 
 [msg myth_055]
-[f 0 5 65278][f 2 1]En el mito ingl姻s, son hadas del bosque que[n]les encanta jugar trucos a la gente.[n]Tambi姻n pueden ser trabajadores duros cuando[n]sea necesario.[n][e]
+[f 0 5 65278][f 2 1]In English myth, they are[n]fairies of the forest who love[n]to play tricks on people. They[n]can also be hard workers when[n]necessary.[n][e]
 
 [msg myth_056]
-[f 0 5 65278][f 2 1]Un sucubus de folclore alem茨n y suizo.[n]Originarios como seres que forjaron artesan胤as[n]m胤sticas debajo de las monta隠as, llegaron[n]a ser vistos como demonios que[n]impidieron que la gente se acostara y caus吋[n]enfermedades.[n][e]
+[f 0 5 65278][f 2 1]A succubus of German and[n]Swiss folklore. Originating as[n]beings who forged mystic[n]crafts under the mountains,[n]they came to be seen as[n]demons who prevented people[n]from sleeping and caused[n]illness.[n][e]
 
 [msg myth_057]
-[f 0 5 65278][f 2 1]Significado "ave malvada", el fantasma de[n]una joven que muri吋 sin conocer el amor,[n]en Buryat folklore. Seduce a los viajeros,[n]s吋lo para abrir sus cabezas y chupar[n]sus cerebros con su pico.[n][e]
+[f 0 5 65278][f 2 1]Meaning "evil bird," the ghost[n]of a young girl who died[n]without knowing love, in[n]Buryat folklore. She seduces[n]travelers, only to crack their[n]heads open and suck out their[n]brains with her beak.[n][e]
 
 [msg myth_058]
-[f 0 5 65278][f 2 1]La Queen del mito celta. A menudo identificado[n]con Titania, la esposa de Oberon. Le[n]ofrecer胤a mead mezclada con su sangre a[n]sus muchos consorcios.[n][e]
+[f 0 5 65278][f 2 1]The fairy queen of Celtic[n]myth. Often identified with[n]Titania, Oberon's wife. She[n]would offer mead mixed with[n]her blood to her many[n]consorts.[n][e]
 
 [msg myth_059]
-[f 0 5 65278][f 2 1]Un hermoso hada de loro irland姻s que anhela[n]el amor de un hombre humano. Ella drena[n]la vida de sus amantes a cambio de darles[n]inspiraci吋n art胤stica.[n][e]
+[f 0 5 65278][f 2 1]A beautiful fairy of Irish lore[n]that yearns for a human man's[n]love. She drains her lovers'[n]lives in return for granting[n]them artistic inspiration.[n][e]
 
 [msg myth_060]
-[f 0 5 65278][f 2 1]Uno de los cuatro arc茨ngeles principales, su[n]nombre significa "sanador". Recita la[n]historia de los 茨ngeles ca胤dos y la creaci吋n[n]de Ad茨n y Eva.[n][e]
+[f 0 5 65278][f 2 1]One of the four major[n]archangels, his name means[n]"healer." He recites the history[n]of the fallen angels and the[n]creation of Adam and Eve.[n][e]
 
 [msg myth_061]
-[f 0 5 65278][f 2 1]Diosa religiosa de la tierra. Attis era su[n]hijo y consorcio, pero lo enloqueci吋, y[n]se castr吋. Su culto orgiatico se extendi吋[n]a Grecia.[n][e]
+[f 0 5 65278][f 2 1]Phrygian goddess of the earth.[n]Attis was her son and consort,[n]but she drove him mad, and he[n]castrated himself. Her[n]orgiastic cult spread to[n]Greece.[n][e]
 
 [msg myth_062]
-[f 0 5 65278][f 2 1]Diosa de guerra y amor, venerada en la antigua[n]Mesopotamia. Ella sedujo a muchos[n]hombres a su condena, pero el h姻roe Gilgamesh[n]la estimul吋, causando que ella asesinara[n]a su mejor amigo, Enkidu.[n][e]
+[f 0 5 65278][f 2 1]Goddess of war and love,[n]revered in ancient[n]Mesopotamia. She seduced[n]many men to their doom, but[n]the hero Gilgamesh spurned[n]her, causing her to murder his[n]best friend, Enkidu.[n][e]
 
 [msg myth_063]
-[f 0 5 65278][f 2 1]Deidad de la mitolog胤a china, tambi姻n conocida[n]como Zhongtan Yuanshuai. Se suicid吋[n]para expiar a un Rey Drag吋n pero fue[n]llevado a la vida como un loto.[n][e]
+[f 0 5 65278][f 2 1]A deity of Chinese mythology,[n]also known as Zhongtan[n]Yuanshuai. He committed[n]suicide to atone for killing a[n]Dragon King but was brought[n]back to life as a lotus.[n][e]
 
 [msg myth_064]
-[f 0 5 65278][f 2 1]Un monstruo que es parte del le吋n, parte de[n]la cabra y parte de la serpiente.[n]Originalmente un s胤mbolo que representa las[n]estaciones, se convirti吋 en un monstruo[n]violento cuando se adopt吋 en la mitolog胤a[n]griega. Su padre es Typhon y su madre es[n]Echidna.[n][e]
+[f 0 5 65278][f 2 1]A monster that is part lion,[n]part goat, and part snake.[n]Originally a symbol[n]representing the seasons, it[n]became a violent monster[n]when adopted into Greek[n]mythology. Its father is Typhon[n]and its mother is Echidna.[n][e]
 
 [msg myth_065]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. Parece[n]un caballero y tiene el poder de ver las[n]cosas por venir. Tambi姻n sabe mucho de[n]la guerra.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He looks like a knight[n]and has the power to see[n]things to come. He also knows[n]much about war.[n][e]
 
 [msg myth_066]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_067]
-[f 0 5 65278][f 2 1]El dios de la guerra en el mito griego. Otros[n]dioses lo despreciaron por su naturaleza[n]cruel y violenta. Se opuso a Athena,[n]que resent胤a la guerra.[n][e]
+[f 0 5 65278][f 2 1]The god of war in Greek myth.[n]Other gods despised him for[n]his cruel and violent nature.[n]He opposed Athena, who[n]resented war.[n][e]
 
 [msg myth_068]
-[f 0 5 65278][f 2 1]El gigante de Izumo-no-kuni Fudoki, o Registros[n]de Izumo. Realiz吋 el Kuni-biki,[n]pudri姻ndose en tierra desde el Silla opuesto,[n]en un esfuerzo por expandir Izumo.[n][e]
+[f 0 5 65278][f 2 1]The giant of Izumo-no-kuni[n]Fudoki, or Records of Izumo.[n]He performed the Kuni-biki,[n]roping in land from the[n]opposing Silla, in an effort to[n]expand Izumo.[n][e]
 
 [msg myth_069]
-[f 0 5 65278][f 2 1]Un dios esclavo cuyo nombre significa "tres[n]cabezas", mont吋 un caballo negro santo,[n]en contraste con Sventovit, que mont吋 un[n]caballo blanco.[n][e]
+[f 0 5 65278][f 2 1]A Slavic god whose name[n]means "three heads," he rode a[n]holy black horse, in contrast[n]to Sventovit, who rode a white[n]horse.[n][e]
 
 [msg myth_070]
-[f 0 5 65278][f 2 1]Dios del trueno y hijo de Odin, lleva el[n]cintur吋n Megingjard, que duplica su poder.[n]Rel茨mpagos cuando tira su martillo,[n]Mjolnir.[n][e]
+[f 0 5 65278][f 2 1]Norse thunder god and son of[n]Odin, he wears the belt[n]Megingjard, which doubles his[n]power. Lightning flashes[n]whenever he throws his[n]hammer, Mjolnir.[n][e]
 
 [msg myth_071]
-[f 0 5 65278][f 2 1]El 茨ngel judaico que apareci吋 ante el profeta[n]Ezequiel. 畏l emite un resplandor ardiente[n]y combina las caras de un le吋n, una[n]vaca, un 茨guila y un hombre joven.[n][e]
+[f 0 5 65278][f 2 1]The Judaic angel that[n]appeared before the prophet[n]Ezekiel. He emits a fiery glow[n]and combines the faces of a[n]lion, a cow, an eagle, and a[n]young man.[n][e]
 
 [msg myth_072]
-[f 0 5 65278][f 2 1]Entre los ocho Yashaou y uno de los asistentes[n]de Bishamonten. Originalmente un[n]demonio alimentador de ni隠os, fue convertido[n]por el Buda y se convirti吋 en una figura[n]protectora.[n][e]
+[f 0 5 65278][f 2 1]Among the eight Yashaou and[n]one of Bishamonten's[n]attendants. Originally a[n]child-eating demon, he was[n]converted by the Buddha and[n]became a protector figure.[n][e]
 
 [msg myth_073]
-[f 0 5 65278][f 2 1]La deidad de la espada de Nihonshoki que[n]pacific吋 a Ashihara no Nakatsukuni. Su nombre[n]proviene de "futsu", la moda en la[n]que se cortan las cosas, y "nushi", su[n]naturaleza como dios.[n][e]
+[f 0 5 65278][f 2 1]The Nihonshoki sword deity[n]who pacified Ashihara no[n]Nakatsukuni. His name comes[n]from "futsu," the fashion in[n]which things are cut, and[n]"nushi," his nature as a god.[n][e]
 
 [msg myth_074]
-[f 0 5 65278][f 2 1]Novena de las nueve 吋rdenes de 茨ngeles. Son[n]m茨s cercanos en la naturaleza a los[n]humanos. Ellos vigilan a los individuos y[n]advierten a los que se alejan del camino.[n][e]
+[f 0 5 65278][f 2 1]Ninth of the nine orders of[n]angels. They are closest in[n]nature to humans. They watch[n]over individuals and warn[n]those who stray from the path.[n][e]
 
 [msg myth_075]
-[f 0 5 65278][f 2 1]El sexto de las nueve 吋rdenes de 茨ngeles. Se[n]dice que fueron el primer orden para[n]ser creado. Su deber es proteger a las[n]almas humanas de los demonios.[n][e]
+[f 0 5 65278][f 2 1]The sixth of the nine orders of[n]angels. It is said that they[n]were the first order to be[n]created. Their duty is to[n]protect human souls from[n]demons.[n][e]
 
 [msg myth_076]
-[f 0 5 65278][f 2 1]La quinta de las nueve 吋rdenes de 茨ngeles,[n]tambi姻n conocidas como "Los Shining Ones",[n]hacen milagros y apoyan a los que luchan[n]con su fe.[n][e]
+[f 0 5 65278][f 2 1]The fifth of the nine orders of[n]angels, also known as "The[n]Shining Ones," they work[n]miracles and support those[n]struggling with their faith.[n][e]
 
 [msg myth_077]
-[f 0 5 65278][f 2 1]La tercera de las nueve 吋rdenes de 茨ngeles.[n]Se dice que llevan el trono de Dios. Son[n]茨ngeles de conocimiento.[n][e]
+[f 0 5 65278][f 2 1]The third of the nine orders of[n]angels. It is said that they[n]carry the throne of God. They[n]are angels of knowledge.[n][e]
 
 [msg myth_078]
-[f 0 5 65278][f 2 1]Uno de los cuatro arc茨ngeles principales. Su[n]nombre significa "Flame of God", y 姻l[n]sabe todo en cuanto a los fen吋menos[n]celestiales. 畏l es el primer 茨ngel que Satan茨s[n]conoci吋 en la Tierra.[n][e]
+[f 0 5 65278][f 2 1]One of the four major[n]archangels. His name means[n]"Flame of God," and he knows[n]all in regards to celestial[n]phenomena. He is the first[n]angel Satan ever met on Earth.[n][e]
 
 [msg myth_079]
-[f 0 5 65278][f 2 1]Un 茨ngel del gnosticismo, dijo nacer de[n]Sophia. En la Biblia, es mencionado como un[n]rey justo.[n][e]
+[f 0 5 65278][f 2 1]An angel of Gnosticism, said[n]to be born from Sophia. In the[n]Bible, he is mentioned as a[n]righteous king.[n][e]
 
 [msg myth_080]
-[f 0 5 65278][f 2 1]En el mito de Zoroastrian, el deber de Sraosha[n]es escuchar el clamor de los humanos[n]por Ahura Mazda. Tambi姻n se sabe descender[n]despu姻s de la puesta de sol para vencer[n]el mal. Su nombre literalmente significa[n]"observancia"[n][e]
+[f 0 5 65278][f 2 1]In Zoroastrian myth, Sraosha's[n]duty is to listen to the cry of[n]humans for Ahura Mazda. Also[n]known to descend after[n]sunset to vanquish evil. His[n]name literally means[n]"observance."[n][e]
 
 [msg myth_081]
-[f 0 5 65278][f 2 1]Deidad del agua de los Azumi, una tribu[n]japonesa de pescadores, que controla el agua.[n]Los tres dioses nacidos de Izanagi[n]despu姻s de regresar de Yomi se dice que son[n]los antepasados de los Azumi.[n][e]
+[f 0 5 65278][f 2 1]A water deity of the Azumi, a[n]Japanese fishing tribe, who[n]controls water. The three gods[n]born from Izanagi after he[n]returned from Yomi are said to[n]be the Azumis' ancestors.[n][e]
 
 [msg myth_082]
-[f 0 5 65278][f 2 1]Un monstruo de un solo ojo dijo que viv胤a en[n]las monta隠as de Kumano, Jap吋n, y cre胤a[n]ser el dios herrero degradado, Ame no[n]Me-Hitotsu no Kami.[n][e]
+[f 0 5 65278][f 2 1]A one-eyed, one-legged monster[n]said to live deep in the[n]mountains of Kumano, Japan,[n]and believed to be the[n]degraded blacksmith god, Ame[n]no Me-Hitotsu no Kami.[n][e]
 
 [msg myth_083]
-[f 0 5 65278][f 2 1]Un cripto avistado en West Virginia de los[n]a隠os 60-80, llamado por los ap姻ndices[n]finlike en los lados de su cuerpo. Dijo que[n]sent胤a mucha sangre, para rastrear la[n]fuente y alimentarse de ella.[n][e]
+[f 0 5 65278][f 2 1]A cryptid sighted in West[n]Virginia from the 60s-80s,[n]named for the finlike[n]appendages on the sides of his[n]body. Said to keenly sense[n]blood, so as to track the[n]source and feed on it.[n][e]
 
 [msg myth_084]
-[f 0 5 65278][f 2 1]Dios japon姻s de palabras, pensado para ser[n]la deificaci吋n de ecos. Dijo proclamar el[n]bien y el mal en una sola palabra, y[n]todas las palabras pronunciadas por 姻l se[n]hacen realidad.[n][e]
+[f 0 5 65278][f 2 1]Japanese god of words,[n]thought to be the deification[n]of echoes. Said to proclaim[n]good and bad in a single word,[n]and all words uttered by him[n]come true.[n][e]
 
 [msg myth_085]
-[f 0 5 65278][f 2 1]Un miembro de la raza Tengu en el mito japon姻s.[n]Los m茨s poderosos y populares de[n]todos los Tengu, tienen el poder de defenderse[n]de los esp胤ritus malignos y atraer[n]buena suerte.[n][e]
+[f 0 5 65278][f 2 1]A member of the Tengu race in[n]Japanese myth. The most[n]powerful and popular of all[n]Tengu, they have the power to[n]fend off evil spirits and[n]attract good luck.[n][e]
 
 [msg myth_086]
-[f 0 5 65278][f 2 1]Un drag吋n maligno que rechina sobre las ra胤ces[n]de Yggdrasil, el 威rbol del Mundo.[n]Gobierna sobre las serpientes malvadas que[n]viven all胤 y se dice que Niddhogr[n]sobrevivir茨 a Ragnarok alimentando los cad茨veres[n]muertos que se derivan a ella.[n][e]
+[f 0 5 65278][f 2 1]An evil dragon that gnaws on[n]the roots of Yggdrasil, the[n]World Tree. It rules over the[n]evil snakes that live there and[n]it is said Niddhogr will survive[n]Ragnarok by feeding on the[n]slain corpses that drift to it.[n][e]
 
 [msg myth_087]
-[f 0 5 65278][f 2 1]El general del infierno, vigila a otros[n]demonios. Uno de los mejores necromanceres,[n]puede controlar almas y cad茨veres.[n][e]
+[f 0 5 65278][f 2 1]The general of Hell, he keeps[n]watch over other demons. One[n]of the greatest necromancers,[n]he can control souls and[n]corpses.[n][e]
 
 [msg myth_088]
-[f 0 5 65278][f 2 1]Una deidad importante en el mito Shinto,[n]mu隠ecas de arcilla fueron a menudo esculpidas[n]en su imagen. Desde que fueron adorados[n]por los rebeldes, las mu隠ecas llegaron[n]a ser vistas como s胤mbolos de desaf胤o.[n][e]
+[f 0 5 65278][f 2 1]A major deity in Shinto myth,[n]clay dolls were often sculpted[n]in its image. Since they were[n]worshipped by rebels, the[n]dolls came to be seen as[n]symbols of defiance.[n][e]
 
 [msg myth_089]
-[f 0 5 65278][f 2 1]Uno de los cuatro oni controlados por Fujiwara[n]no Chikata. Al eliminar su aura y[n]evitar que otros sensibilicen su presencia,[n]fue capaz de sorprender a sus enemigos.[n][e]
+[f 0 5 65278][f 2 1]One of the four oni controlled[n]by Fujiwara no Chikata. By[n]eliminating its aura and[n]preventing others from sensing[n]its presence, it was able to[n]surprise its enemies.[n][e]
 
 [msg myth_090]
-[f 0 5 65278][f 2 1]Un vampiro del mito griego, conocido por[n]servir a la diosa Hecate. Ella aparece como[n]una mujer hermosa, pero su verdadera[n]forma es un esp胤ritu maligno que drena la[n]energ胤a de los hombres. Se alimentan de[n]carne humana.[n][e]
+[f 0 5 65278][f 2 1]A vampire of Greek myth,[n]known to serve the goddess[n]Hecate. She appears as a[n]beautiful woman, but her true[n]form is an evil spirit that[n]drains men's energy. They feed[n]on human flesh.[n][e]
 
 [msg myth_091]
-[f 0 5 65278][f 2 1]Una bestia de loro japon姻s, dijo bajar a la[n]Tierra en un rayo. Por lo general pasa[n]por nubes de truenos, pero tambi姻n cabalgar茨[n]los rayos hacia abajo hasta el suelo.[n][e]
+[f 0 5 65278][f 2 1]A beast of Japanese lore, said[n]to come down to Earth on a[n]bolt of lightning. It usually[n]runs through thunder clouds,[n]but will also ride bolts of[n]lightning down to the ground.[n][e]
 
 [msg myth_092]
-[f 0 5 65278][f 2 1]La diosa romana de la suerte, ella gira la[n]Rueda de la Fortuna. Se cree que fue[n]originalmente una diosa de la fertilidad. Su[n]contraparte griega es Tyche.[n][e]
+[f 0 5 65278][f 2 1]The Roman goddess of luck,[n]she turns the Wheel of Fortune.[n]She is believed to have[n]originally been a fertility[n]goddess. Her Greek counterpart[n]is Tyche.[n][e]
 
 [msg myth_093]
-[f 0 5 65278][f 2 1]Una de las tres Hermanas Moirae de la mitolog胤a[n]griega. Ella gira los hilos del[n]destino.[n][e]
+[f 0 5 65278][f 2 1]One of the three Moirae[n]Sisters of Greek mythology.[n]She spins the threads of fate.[n][e]
 
 [msg myth_094]
-[f 0 5 65278][f 2 1]Una de las tres Hermanas Moirae de la mitolog胤a[n]griega. Ella es la encargada, midiendo[n]el hilo que determina la vida de cada[n]persona.[n][e]
+[f 0 5 65278][f 2 1]One of the three Moirae[n]Sisters of Greek mythology.[n]She is the apportioner,[n]measuring the thread which[n]determines each person's[n]lifespan.[n][e]
 
 [msg myth_095]
-[f 0 5 65278][f 2 1]Serpiente de mil cabezas de mito hind雨, Ananta[n]es s茨nscrito para "infinito". Despu姻s[n]de descansar sobre 姻l, Vishnu se despert吋[n]y cre吋 el universo.[n][e]
+[f 0 5 65278][f 2 1]1,000-headed serpent of Hindu[n]myth, Ananta is Sanskrit for[n]"infinite." After resting on him,[n]Vishnu woke up and created[n]the universe.[n][e]
 
 [msg myth_096]
-[f 0 5 65278][f 2 1]Una de las tres Hermanas Moirae de la mitolog胤a[n]griega. Corta los hilos de vida de[n]aquellos cuyo tiempo ha llegado.[n][e]
+[f 0 5 65278][f 2 1]One of the three Moirae[n]Sisters of Greek mythology.[n]She cuts the life threads of[n]those whose time has come.[n][e]
 
 [msg myth_097]
-[f 0 5 65278][f 2 1]Dioses del destino en la mitolog胤a de Norse.[n]Viven debajo de las ra胤ces de Yggdrasil[n]y tejen los hilos del destino, por los[n]cuales incluso los dioses est茨n atados.[n][e]
+[f 0 5 65278][f 2 1]Goddesses of fate in Norse[n]mythology. They live below the[n]roots of Yggdrasil and weave[n]the threads of fate, by which[n]even the gods are bound.[n][e]
 
 [msg myth_098]
-[f 0 5 65278][f 2 1]El se隠or babil吋nico de viento y arenas[n]abrasadoras. Tiene la cabeza y los brazos de[n]un le吋n, garras de 茨guila y alas, y veneno[n]mortal. Las enfermedades que propaga[n]s吋lo pueden curarse por medios m茨gicos.[n][e]
+[f 0 5 65278][f 2 1]The Babylonian lord of wind[n]and scorching sands. Has a[n]lion's head and arms, eagle[n]claws and wings, and deadly[n]poison. The diseases he[n]spreads can only be cured by[n]magical means.[n][e]
 
 [msg myth_099]
-[f 0 5 65278][f 2 1]Un hada en el folclore alem茨n que lleva una[n]bolsa de arena m茨gica, que pone a los[n]humanos a dormir cuando se arrojan a sus[n]ojos. Si la v胤ctima se resiste, el Sandman[n]se sentar茨 en sus p茨rpados.[n][e]
+[f 0 5 65278][f 2 1]A fairy in German folklore who[n]carries a bag of magical sand,[n]which puts humans to sleep[n]when thrown into their eyes. If[n]the victim resists, the[n]Sandman will sit on their[n]eyelids.[n][e]
 
 [msg myth_100]
-[f 0 5 65278][f 2 1]"Eligers of the Slain" en la mitolog胤a de[n]Norse. Armados con armadura brillante y[n]lanzas, buscan guerreros valientes para[n]llevar a Valhalla, para que puedan luchar[n]en Ragnarok.[n][e]
+[f 0 5 65278][f 2 1]"Choosers of the Slain" in[n]Norse mythology. Armed with[n]shining armor and spears, they[n]look for brave warriors to take[n]to Valhalla, so that they may[n]fight in Ragnarok.[n][e]
 
 [msg myth_101]
-[f 0 5 65278][f 2 1]Demonio del mito hind雨. 畏l es un enemigo de[n]los dioses y ataca a los humanos para[n]alimentarse de ellos. Su horrible apariencia[n]asusta a los que lo ven. Puede cambiar[n]su forma para enga隠ar a sus enemigos.[n][e]
+[f 0 5 65278][f 2 1]Demon of Hindu myth. He is an[n]enemy of the gods and attacks[n]humans to feed off of them.[n]His hideous appearance strikes[n]fear into those who see him.[n]Can shift his shape to deceive[n]his enemies.[n][e]
 
 [msg myth_102]
-[f 0 5 65278][f 2 1]Un dios salvaje formado como una ara隠a gigante,[n]que se dijo que hab胤a vivido en el[n]Monte Katsuragi. Originalmente un nativo[n]de la tierra que viv胤a en un hoyo despu姻s[n]de que su tribu fuera derrotada por la[n]Corte Imperial.[n][e]
+[f 0 5 65278][f 2 1]A wild god shaped like a giant[n]spider, which was said to have[n]lived on Mt. Katsuragi.[n]Originally a native of the land[n]who lived in a hole after its[n]tribe was defeated by the[n]Imperial Court.[n][e]
 
 [msg myth_103]
-[f 0 5 65278][f 2 1]Un monstruo malvado de loro japon姻s conocido[n]por su horrible apariencia y fuerza[n]bruta. Ellos saquean y saquean aldeas,[n]masacrando a los pueblos con sus clubes de[n]hierro.[n][e]
+[f 0 5 65278][f 2 1]An evil monster of Japanese[n]lore known for its hideous[n]appearance and brute strength.[n]They loot and plunder[n]villages, massacring the[n]townspeople with their iron[n]clubs.[n][e]
 
 [msg myth_104]
-[f 0 5 65278][f 2 1]Un h姻roe de ascendencia hind雨, tiene[n]transformaci吋n, vuelo y gran fuerza. Ha realizado[n]muchas obras heroicas en el Ramayana,[n]donde es representado como un mono.[n][e]
+[f 0 5 65278][f 2 1]A hero of Hindu descent, he[n]has transformation, flight, and[n]great strength. He has[n]performed many heroic deeds[n]in the Ramayana, where he is[n]depicted as a monkey.[n][e]
 
 [msg myth_105]
-[f 0 5 65278][f 2 1]El nombre alem茨n del h姻roe en el poema 姻pico[n]del Nibelungenlied. La sangre del drag吋n[n]Fafnir lo hizo invencible, pero una[n]sola hoja en la espalda result吋 en un punto[n]d姻bil.[n][e]
+[f 0 5 65278][f 2 1]The German name of the hero[n]in the epic poem of the[n]Nibelungenlied. The dragon[n]Fafnir's blood made him[n]invincible, but a single leaf on[n]his back resulted in a weak[n]spot.[n][e]
 
 [msg myth_106]
-[f 0 5 65278][f 2 1]Seg雨n el mito hind雨, es una consorte de Shiva.[n]Tambi姻n llamada El Negro, ella es un[n]s胤mbolo de destrucci吋n. Por lo general[n]se le representa usando una cadena de[n]cabezas humanas.[n][e]
+[f 0 5 65278][f 2 1]According to Hindu myth, she[n]is a consort of Shiva. Also[n]called The Black One, she is a[n]symbol of destruction. She is[n]usually depicted wearing a[n]chain of human heads.[n][e]
 
 [msg myth_107]
-[f 0 5 65278][f 2 1]Repeller del mal encontrado por En-no-Ozunu[n]en Kinpusen. Se cree que es una fusi吋n[n]de Buda, Guanyin y Maitreya, un dios que[n]se origin吋 de Jap吋n en lugar de[n]Budavacana.[n][e]
+[f 0 5 65278][f 2 1]Repeller of evil found by[n]En-no-Ozunu at Kinpusen.[n]Believed to be a fusion of[n]Buddha, Guanyin, and[n]Maitreya, a god who originated[n]from Japan rather than the[n]Buddhavacana.[n][e]
 
 [msg myth_108]
-[f 0 5 65278][f 2 1]Un monstruoso p茨jaro japon姻s con la cara de[n]un hombre. Tambi姻n puede escupir fuego.[n]Su verdadera identidad es un cad茨ver que[n]no ha tenido un servicio conmemorativo[n]adecuado y aparece ante los monjes que[n]descuidan sus deberes.[n][e]
+[f 0 5 65278][f 2 1]A monstrous Japanese bird[n]with a man's face. It can also[n]spit fire. Its true identity is a[n]corpse that has not had proper[n]memorial service and appears[n]before monks who neglect[n]their duties.[n][e]
 
 [msg myth_109]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. Monta[n]un caballo gigante y quema a esos sin[n]modales. Es el Duque del Infierno.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He rides a gigantic[n]horse and burns those without[n]manners. He is the Duke of[n]Hell.[n][e]
 
 [msg myth_110]
-[f 0 5 65278][f 2 1]Izanami los envi吋 despu姻s de Izanagi en[n]Yomotsu Hirasaka, la entrada de Yomi, la[n]tierra japonesa de sombras. El ej姻rcito de[n]Ikusa est茨 dirigido por Yomotsu Shikome.[n][e]
+[f 0 5 65278][f 2 1]Izanami sent them after Izanagi[n]at Yomotsu Hirasaka, the[n]entrance of Yomi, the Japanese[n]land of shadows. The army of[n]Ikusa is led by Yomotsu[n]Shikome.[n][e]
 
 [msg myth_111]
-[f 0 5 65278][f 2 1]El perro de dos cabezas perteneciente al[n]gigante Geryon en el mito griego. Guard吋[n]una manada de bueyes rojos y combati吋 a[n]H姻rcules.[n][e]
+[f 0 5 65278][f 2 1]The two-headed pet dog[n]belonging to the giant Geryon[n]in Greek myth. He guarded a[n]herd of red oxen and battled[n]Hercules.[n][e]
 
 [msg myth_112]
-[f 0 5 65278][f 2 1]Siete d胤as despu姻s de su nacimiento, un lobo[n]mat吋 a su madre. Yoshizane Satomi m茨s[n]tarde prometi吋 la mano de su hija si podr胤a[n]derrotar al enemigo, pero despu姻s del[n]姻xito de Yatsufusa, el retenedor de[n]Yoshizane lo dispar吋 muerto.[n][e]
+[f 0 5 65278][f 2 1]Seven days after its birth, a[n]wolf killed its mother.[n]Yoshizane Satomi later[n]promised his daughter's hand[n]if it could defeat the enemy,[n]but after Yatsufusa's success,[n]Yoshizane's retainer shot it[n]dead.[n][e]
 
 [msg myth_113]
-[f 0 5 65278][f 2 1]Un drag吋n oscuro del norte de 威frica marcado[n]por alas y una corona crecida. Su nombre[n]significa "rey de serpientes". Tanto[n]su aliento como su mirada son tan t吋xicos[n]que matan instant茨neamente a animales[n]y humanos.[n][e]
+[f 0 5 65278][f 2 1]A dark dragon from Northern[n]Africa marked by wings and a[n]crested crown. Its name means[n]"king of snakes." Both its[n]breath and gaze are so toxic[n]that they instantly kill[n]animals and humans.[n][e]
 
 [msg myth_114]
-[f 0 5 65278][f 2 1]Un motorista cuya naturaleza violenta lo[n]convirti吋 en un demonio. Su enojo hacia s胤[n]mismo y el mundo le hace azotar, para[n]que todos los dem茨s tambi姻n sufran.[n][e]
+[f 0 5 65278][f 2 1]A motorcyclist whose violent[n]nature turned him into a[n]demon. His anger at himself[n]and the world causes him to[n]lash out, so that everyone else[n]will suffer as well.[n][e]
 
 [msg myth_115]
-[f 0 5 65278][f 2 1]Una serpiente gigante de la mitolog胤a hind雨.[n]Se dice que los dioses y demonios lo[n]usaron para tirar el mar de la leche. La[n]cepa le hizo exhalar veneno incre胤blemente[n]potente, pero Shiva se lo trag吋.[n][e]
+[f 0 5 65278][f 2 1]A giant serpent of Hindu[n]mythology. It is said the gods[n]and demons used him to churn[n]the sea of milk. The strain[n]caused him to exhale[n]incredibly potent venom, but[n]Shiva swallowed it.[n][e]
 
 [msg myth_116]
-[f 0 5 65278][f 2 1]Un dios de ascendencia fr胤giana. Era hijo de[n]Cybele y consorte, pero se castr吋 y[n]muri吋. Cybele lo resucit吋 como un pino. Vino[n]a representar el renacimiento.[n][e]
+[f 0 5 65278][f 2 1]A god of Phrygian descent. He[n]was Cybele's son and consort,[n]but castrated himself and[n]died. Cybele resurrected him[n]as a pine. He came to represent[n]rebirth.[n][e]
 
 [msg myth_117]
-[f 0 5 65278][f 2 1]Un esp胤ritu maligno de la mitolog胤a de Murngin[n]cre胤a ser sombras renacidas. Secuestran[n]y comen ni隠os, y golpean a cualquier[n]brujo que usa magia negra.[n][e]
+[f 0 5 65278][f 2 1]An evil spirit of Murngin[n]mythology believed to be[n]reborn shadows. They kidnap[n]and eat children, and they[n]strike down any sorcerer who[n]uses black magic.[n][e]
 
 [msg myth_118]
-[f 0 5 65278][f 2 1]Ejecutor hind雨 de almas juzgadas, bajo el[n]mando de Yama, el dios de la muerte. Cuando[n]Yama aprueba su juicio, es tarea de[n]Turdak llevar el alma al infierno adecuado.[n][e]
+[f 0 5 65278][f 2 1]Hindu executioner of judged[n]souls, under the command of[n]Yama, the god of death. When[n]Yama passes his judgment, it[n]is Turdak's task to haul the[n]soul to the proper hell.[n][e]
 
 [msg myth_119]
-[f 0 5 65278][f 2 1]Un deportista maestro que entretiene al[n]p雨blico a cambio de su propia vida: un error[n]puede significar la muerte. Algunos[n]creen que los toreros que mueren mientras[n]realizan permanecen en este mundo.[n][e]
+[f 0 5 65278][f 2 1]A master sportsman who[n]entertains the audience in[n]exchange for his own life: one[n]mistake can mean death. Some[n]believe that matadors who die[n]while performing remain in[n]this world.[n][e]
 
 [msg myth_120]
-[f 0 5 65278][f 2 1]Uno de los Cuatro Caballos del Apocalipsis[n]en el Libro del Apocalipsis, monta un[n]caballo blanco con un arco en la mano. Se[n]le concedi吋 una corona, y promete[n]victoria.[n][e]
+[f 0 5 65278][f 2 1]One of the Four Horsemen of[n]the Apocalypse in the Book of[n]Revelation, he rides a white[n]horse with a bow in hand. A[n]crown was granted to him, and[n]he promises victory.[n][e]
 
 [msg myth_121]
-[f 0 5 65278][f 2 1]Un 茨ngel misterioso con el nombre "veneno de[n]Dios", a menudo se muestra como una[n]serpiente. Las opiniones difieren en si se[n]ha ca胤do o no, pero de cualquier manera,[n]est茨 vinculado con la muerte.[n][e]
+[f 0 5 65278][f 2 1]A mysterious angel with the[n]name "poison of God," he is[n]often shown as a serpent.[n]Opinions differ on whether he[n]is fallen or not, but either[n]way, he is linked with death.[n][e]
 
 [msg myth_122]
-[f 0 5 65278][f 2 1]El dios cananeo de la muerte. Cada a隠o intenta[n]matar a Baal, el dios de la fertilidad,[n]s吋lo para verlo criado de los muertos[n]con la ayuda de la hermana de Baal,[n]Anat.[n][e]
+[f 0 5 65278][f 2 1]The Canaanite god of death.[n]Every year he attempts to kill[n]Baal, the god of fertility, only[n]to see him raised from the[n]dead with the help of Baal's[n]sister, Anat.[n][e]
 
 [msg myth_123]
-[f 0 5 65278][f 2 1]Uno de los Cuatro Caballos del Apocalipsis,[n]monta sobre un caballo p茨lido y es el[n]gobernante de Hades. Tiene el poder de[n]destruir la vida.[n][e]
+[f 0 5 65278][f 2 1]One of the Four Horsemen of[n]the Apocalypse, he rides on a[n]pale horse and is the ruler of[n]Hades. He has the power to[n]destroy life.[n][e]
 
 [msg myth_124]
-[f 0 5 65278][f 2 1]Un fantasma que aparece como una joven rubia.[n]Parece joven pero tiene poderes m茨gicos[n]formidables.[n][e]
+[f 0 5 65278][f 2 1]A ghost who appears as a[n]young blonde girl. She seems[n]young but has formidable[n]magic powers.[n][e]
 
 [msg myth_125]
-[f 0 5 65278][f 2 1]Dios indio que repele el mal, conocido como[n]Daikokuten en el budismo. Sus espadas[n]son temibles, pero al rendir tributo a 姻l,[n]los creyentes pueden ser bendecidos con[n]tremenda riqueza y felicidad.[n][e]
+[f 0 5 65278][f 2 1]Indian god who repels evil,[n]known as Daikokuten in[n]Buddhism. His swords are[n]fearsome, but by paying[n]tribute to him, believers may[n]be blessed with tremendous[n]wealth and happiness.[n][e]
 
 [msg myth_126]
-[f 0 5 65278][f 2 1]Esp胤ritus de agua en la mitolog胤a hind雨, son[n]hermosas mujeres j吋venes que bailan para[n]los dioses. Tambi姻n gu胤an a h姻roes[n]ca胤dos en batalla al para胤so.[n][e]
+[f 0 5 65278][f 2 1]Water spirits in Hindu[n]mythology, they are beautiful[n]young women who dance for[n]the gods. They also guide[n]heroes fallen in battle to[n]paradise.[n][e]
 
 [msg myth_127]
-[f 0 5 65278][f 2 1]Un esp胤ritu de la leyenda china, formado como[n]una oveja, que puede ver a trav姻s de[n]cualquier mentira. A veces aparece en el[n]mundo humano castigar a los malhechores[n]con el poder almacenado en su cuerno[n]agudo.[n][e]
+[f 0 5 65278][f 2 1]A spirit from Chinese legend,[n]shaped like a sheep, that can[n]see through any lie. It[n]occasionally appears in the[n]human world to punish[n]evildoers with the power[n]stored in its sharp horn.[n][e]
 
 [msg myth_128]
-[f 0 5 65278][f 2 1]Un antiguo dios persa de los contratos,[n]tambi姻n fue venerado como un dios del sol.[n]Al final del tiempo, descender茨 de los[n]cielos y levantar茨 a los muertos para el[n]juicio final.[n][e]
+[f 0 5 65278][f 2 1]An ancient Persian god of[n]contracts, he was also revered[n]as a sun god. At the end of[n]time, he will descend from the[n]heavens and raise the dead for[n]final judgment.[n][e]
 
 [msg myth_129]
-[f 0 5 65278][f 2 1]Una de las criaturas celestiales Ssu-Ling[n]del mito chino. Representa la direcci吋n[n]norte, la temporada de invierno y el elemento[n]de agua.[n][e]
+[f 0 5 65278][f 2 1]One of the Ssu-Ling celestial[n]creatures of Chinese myth. It[n]represents the direction north,[n]the season of winter, and the[n]element of water.[n][e]
 
 [msg myth_130]
-[f 0 5 65278][f 2 1]Una de las criaturas celestiales Ssu-Ling[n]del mito chino. Representa la direcci吋n[n]este, la estaci吋n de primavera y el elemento[n]de la madera.[n][e]
+[f 0 5 65278][f 2 1]One of the Ssu-Ling celestial[n]creatures of Chinese myth. It[n]represents the direction east,[n]the season of spring, and the[n]element of wood.[n][e]
 
 [msg myth_131]
-[f 0 5 65278][f 2 1]Una de las criaturas celestiales Ssu-Ling[n]del mito chino. Representa la direcci吋n[n]sur, la temporada de verano y el elemento[n]de fuego.[n][e]
+[f 0 5 65278][f 2 1]One of the Ssu-Ling celestial[n]creatures of Chinese myth. It[n]represents the direction south,[n]the season of summer, and the[n]element of fire.[n][e]
 
 [msg myth_132]
-[f 0 5 65278][f 2 1]Una de las criaturas celestiales Ssu-Ling[n]del mito chino. Representa la direcci吋n[n]oeste, la temporada de oto隠o y el elemento[n]met茨lico.[n][e]
+[f 0 5 65278][f 2 1]One of the Ssu-Ling celestial[n]creatures of Chinese myth. It[n]represents the direction west,[n]the season of autumn, and the[n]element of metal.[n][e]
 
 [msg myth_133]
-[f 0 5 65278][f 2 1]Uno de los principales dioses en el mito[n]hind雨, es el preservador del universo. Se[n]cree que descender茨 a la tierra diez veces[n]para mantener el equilibrio del poder.[n][e]
+[f 0 5 65278][f 2 1]One of the major gods in[n]Hindu myth, he is the preserver[n]of the universe. It is believed[n]that he will descend to earth[n]ten times to maintain the[n]balance of power.[n][e]
 
 [msg myth_134]
-[f 0 5 65278][f 2 1]Un demonio subordinado del infierno, ordenado[n]por Beelzebub para agitar los fuegos[n]que calientan sus ollas de hierro. Tambi姻n[n]lanza carb吋n al fuego para atormentar[n]a los humanos atrapados en el infierno.[n][e]
+[f 0 5 65278][f 2 1]A subordinate demon of Hell,[n]ordered by Beelzebub to stoke[n]the fires that heat its iron[n]pots. He also throws coal into[n]the fire to torment humans[n]trapped in Hell.[n][e]
 
 [msg myth_135]
-[f 0 5 65278][f 2 1]Un demonio masculino de loro europeo en[n]tiempos medievales. Visitan a las mujeres[n]dormidas y tienen relaciones sexuales con[n]ellas. Los ni隠os resultantes se convierten[n]en brujas y magos.[n][e]
+[f 0 5 65278][f 2 1]A male demon of European[n]lore in medieval times. They[n]visit sleeping women and have[n]sexual intercourse with them.[n]The resulting children become[n]witches and wizards.[n][e]
 
 [msg myth_136]
-[f 0 5 65278][f 2 1]Un demonio femenino de lore europeo en 姻poca[n]medieval. Visitan a los hombres dormidos[n]y tienen relaciones sexuales con ellos.[n]Las v胤ctimas no despiertan pero pueden[n]so隠ar con el encuentro.[n][e]
+[f 0 5 65278][f 2 1]A female demon of European[n]lore in medieval times. They[n]visit sleeping men and have[n]sexual intercourse with them.[n]The victims don't wake up but[n]may dream of the encounter.[n][e]
 
 [msg myth_137]
-[f 0 5 65278][f 2 1]Dijo que hab胤a sido la primera esposa de[n]Ad茨n, se neg吋 a obedecerle, dejando al Ed姻n[n]para convertirse en un demonio de la[n]noche. Todas las teor胤as de su ca胤da la[n]representan como infiel.[n][e]
+[f 0 5 65278][f 2 1]Said to have been Adam's first[n]wife, she refused to obey him,[n]leaving Eden to become a[n]demon of the night. All[n]theories of her fall depict her[n]as unfaithful.[n][e]
 
 [msg myth_138]
-[f 0 5 65278][f 2 1]Gobernador dem茨nico del pecado mortal de[n]perezoso, que tambi姻n se destaca en la[n]invenci吋n y el descubrimiento. Puede derivarse[n]de Ba'al Pe'or, dios sirio de cultivos[n]abundantes.[n][e]
+[f 0 5 65278][f 2 1]Demonic governor of the[n]deadly sin of sloth, who also[n]excels at invention and[n]discovery. May derive from[n]Ba'al Pe'or, Syrian god of[n]abundant crops.[n][e]
 
 [msg myth_139]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. Dirigi吋[n]a las ciudades de Sodoma y Gomorra a[n]arruinar y procesar a Jes雨s. Los que convocan[n]a Belial gozan de alta condici吋n[n]social.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. It led the cities of[n]Sodom and Gomorrah to ruin[n]and prosecuted Jesus. Those[n]who summon Belial are[n]granted high social status.[n][e]
 
 [msg myth_140]
-[f 0 5 65278][f 2 1]Un hermoso 茨ngel ca胤do apu隠al吋 al Pr胤ncipe[n]del Infierno. Puede viajar a trav姻s del[n]tiempo y paseos sobre un drag吋n. Inicialmente[n]la diosa Astarte, Dios lo deform吋[n]a su forma actual.[n][e]
+[f 0 5 65278][f 2 1]A beautiful fallen angel[n]dubbed the Prince of Hell. Can[n]travel through time and rides[n]atop a dragon. Initially the[n]goddess Astarte, God deformed[n]him to his current form.[n][e]
 
 [msg myth_141]
-[f 0 5 65278][f 2 1]Se隠or dem茨nico de los Aliados, cuyos secuaces[n]de insectos llevan almas para que[n]controle, es mencionado en la Biblia como un[n]l胤der de esp胤ritus malignos y es visto[n]como un poderoso demonio.[n][e]
+[f 0 5 65278][f 2 1]Demonic Lord of the Flies,[n]whose insect minions carry[n]souls for him to control, he is[n]mentioned in the Bible as a[n]leader of evil spirits and is[n]seen as a powerful demon.[n][e]
 
 [msg myth_142]
-[f 0 5 65278][f 2 1]Un h姻roe legendario en el folclore celta, su[n]nombre significa "The Hound of Culann",[n]y su verdadero nombre es Setanta. Hay[n]muchos cuentos de sus aventuras emocionantes[n]con su lanza Gae Bolg.[n][e]
+[f 0 5 65278][f 2 1]A legendary hero in Celtic[n]folklore, his name means "The[n]Hound of Culann," and his[n]true name is Setanta. There[n]are many tales of his exciting[n]adventures with his spear Gae[n]Bolg.[n][e]
 
 [msg myth_143]
-[f 0 5 65278][f 2 1]El "destructor" y el 茨ngel del pozo sin fondo,[n]como se describe en la escritura[n]antigua. Controla langostas y los usa para[n]causar destrucci吋n masiva a las aldeas.[n][e]
+[f 0 5 65278][f 2 1]The "destroyer" and angel of[n]the bottomless pit, as[n]described in ancient scripture.[n]He controls locusts and uses[n]them to cause massive[n]destruction to villages.[n][e]
 
 [msg myth_144]
-[f 0 5 65278][f 2 1]Un se隠or demonio oriental que tent吋 a Buda[n]durante su entrenamiento. 畏l es un maestro[n]del miedo, y su inmenso poder llega a[n]cada parte del globo. Su descendencia[n]distante incluye a Mare y Mora.[n][e]
+[f 0 5 65278][f 2 1]An Eastern demon lord who[n]tempted Buddha during his[n]training. He is a master of fear,[n]and his immense power[n]reaches to every part of the[n]globe. His distant offspring[n]includes Mare and Mora.[n][e]
 
 [msg myth_145]
-[f 0 5 65278][f 2 1]Sun Wu Kong supuestamente naci吋 de una roca.[n]畏l destroz吋 el caos y fue castigado por[n]el Buda, pero finalmente fue salvado[n]por un monje llamado Santsang.[n][e]
+[f 0 5 65278][f 2 1]Sun Wu Kong was  supposedly[n]born from a rock. He wreaked[n]havoc and was punished by[n]the Buddha, but he was[n]eventually saved by a monk[n]named Santsang.[n][e]
 
 [msg myth_146]
-[f 0 5 65278][f 2 1]Un general japon姻s de la guerra de Genpei[n]cerca del final de la era heian y el comienzo[n]de la era Kamakura. Su ingenuidad[n]audaz y habilidad despiadada con una espada[n]siguen siendo elogiadas en Jap吋n hoy.[n][e]
+[f 0 5 65278][f 2 1]A Japanese general of the[n]Genpei War near the end of the[n]Heian era and start of the[n]Kamakura era. His bold[n]ingenuity and ruthless skill[n]with a blade are still praised[n]in Japan today.[n][e]
 
 [msg myth_147]
-[f 0 5 65278][f 2 1]Taira no Masakado, h姻roe del per胤odo heian.[n]Reclam吋 el t胤tulo "Shinno" (Nuevo Emperador)[n]y se rebel吋 contra el gobierno. Fue[n]asesinado, pero se dice que se convirti吋[n]en semidi吋s.[n][e]
+[f 0 5 65278][f 2 1]Taira no Masakado, hero of[n]the Heian period. He claimed[n]the title "Shinno" (New[n]Emperor) and rebelled against[n]the government. He was killed,[n]but it is said he became a[n]demigod.[n][e]
 
 [msg myth_148]
-[f 0 5 65278][f 2 1]Uno de los principales dioses hind雨es, es[n]conocido como el Destructor, pero tambi姻n[n]est茨 relacionado con la regeneraci吋n. Su[n]esposa es Parvati.[n][e]
+[f 0 5 65278][f 2 1]One of the major Hindu gods,[n]he is known as the Destroyer[n]but is also related to[n]regeneration. His wife is[n]Parvati.[n][e]
 
 [msg myth_149]
-[f 0 5 65278][f 2 1]A Dios chino de guerra, se dice que ha[n]inventado muchas armas. 畏l y sus seguidores[n]se rebelaron contra el Emperador Amarillo,[n]Huang Di, pero finalmente fueron[n]derrotados.[n][e]
+[f 0 5 65278][f 2 1]A Chinese god of war, he is[n]said to have invented many[n]weapons. He and his followers[n]rebelled against the Yellow[n]Emperor, Huang Di, but were[n]ultimately defeated.[n][e]
 
 [msg myth_150]
-[f 0 5 65278][f 2 1]Un dios en la mitolog胤a asiria, est茨 asociado[n]con el planeta Saturno. Por lo general[n]est茨 agrupado con el dios Sakkut.[n][e]
+[f 0 5 65278][f 2 1]A god in Assyrian mythology,[n]he is associated with the[n]planet Saturn. He is usually[n]grouped with the god Sakkut.[n][e]
 
 [msg myth_151]
-[f 0 5 65278][f 2 1]Una criatura japonesa con la cabeza de un[n]mono, las piernas del tigre y la cola de[n]la serpiente. El Tale de Heike dice que[n]se escondi吋 detr茨s de una nube oscura cada[n]noche para atacar al Emperador.[n][e]
+[f 0 5 65278][f 2 1]A creature of Japanese lore[n]with a monkey's head, tiger's[n]legs, and snake's tail. The Tale[n]of Heike says it hid behind a[n]dark cloud each night to[n]attack the Emperor.[n][e]
 
 [msg myth_152]
-[f 0 5 65278][f 2 1]Un dios tao胤sta prof姻tico, originalmente[n]conocido como Mao Shogun. Debido a un error[n]lingu胤stico que implica la palabra china[n]para "cat", su nombre fue cambiado a[n]Neko Shogun.[n][e]
+[f 0 5 65278][f 2 1]A prophetic Taoist god,[n]originally known as Mao[n]Shogun. Due to a linguistic[n]error involving the Chinese[n]word for "cat," his name was[n]changed to Neko Shogun.[n][e]
 
 [msg myth_153]
-[f 0 5 65278][f 2 1]El dios cabeza de elefante en el mito hind雨.[n]Fue creado originalmente por Parvati[n]para evitar que nadie viera su ba隠o. Shiva[n]golpe吋 la cabeza pero la reemplaz吋 con[n]la cabeza de un elefante.[n][e]
+[f 0 5 65278][f 2 1]The elephant-headed god in[n]Hindu myth. He was originally[n]created by Parvati to prevent[n]anyone from watching her[n]bathe. Shiva batted his head[n]off but replaced it with an[n]elephant's head.[n][e]
 
 [msg myth_154]
-[f 0 5 65278][f 2 1]Un hombre de p茨jaro divino en el mito hind雨,[n]una vez luch吋 contra los dioses y recibi吋[n]la inmortalidad a cambio de convertirse[n]en portador de Vishnu.[n][e]
+[f 0 5 65278][f 2 1]A divine bird-man in Hindu[n]myth, he once fought the gods[n]and received immortality in[n]exchange for becoming[n]Vishnu's carrier.[n][e]
 
 [msg myth_155]
-[f 0 5 65278][f 2 1]A dios hind雨 de la guerra, conocido como[n]Skanda o Murugan. Monta sobre un pavo real[n]llamado Paravani, con arco y flecha[n]dibujada. 畏l manda al ej姻rcito de los dioses[n]y derrota las fuerzas de Asura.[n][e]
+[f 0 5 65278][f 2 1]A Hindu god of war, known as[n]Skanda or Murugan. He rides[n]atop a peacock called[n]Paravani, with bow and arrow[n]drawn. He commands the army[n]of the gods and defeated the[n]forces of Asura.[n][e]
 
 [msg myth_156]
-[f 0 5 65278][f 2 1]El dios romano de la agricultura, 姻l es[n]com雨nmente identificado con Cronus. En un[n]intento de prevenir su destino, se comi吋[n]a sus hijos, pero fue derrocado como estaba[n]engordado.[n][e]
+[f 0 5 65278][f 2 1]The Roman god of agriculture,[n]he is commonly identified with[n]Cronus. In an attempt to[n]prevent his destiny, he ate his[n]children, but he was[n]overthrown as was fated.[n][e]
 
 [msg myth_157]
-[f 0 5 65278][f 2 1]Un 茨ngel ca胤do en el loro judeo-cristiano[n]cuyo nombre significa "Morning Star".[n]Principalmente conocido por desafiar a Dios,[n]pero tambi姻n adorado como portador de[n]luz a la humanidad.[n][e]
+[f 0 5 65278][f 2 1]A fallen angel in[n]Judeo-Christian lore whose[n]name signifies "Morning Star."[n]Primarily known for defying[n]God but also worshipped as a[n]bringer of light to mankind.[n][e]
 
 [msg myth_158]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. 畏l[n]aparece donde hay batalla para agitar el odio[n]dentro de los soldados. Ayuda a los[n]que lo convocan a derrotar a sus enemigos.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He appears wherever[n]there is battle to stoke the[n]hatred within the soldiers. He[n]helps those who summon him[n]defeat their enemies.[n][e]
 
 [msg myth_159]
-[f 0 5 65278][f 2 1]Un esp胤ritu de tierra del mito japon姻s, cuyo[n]nombre significa "dios de campos". Aunque[n]no es innatamente malo, su temperamento[n]puede causar que ataque a los humanos[n]desde detr茨s de un 茨rbol o arbusto.[n][e]
+[f 0 5 65278][f 2 1]A spirit of earth from Japanese[n]myth, whose name means "god[n]of fields." Though not[n]innately evil, its temper may[n]cause it to attack humans[n]from behind a tree or bush.[n][e]
 
 [msg myth_160]
-[f 0 5 65278][f 2 1]Una serpiente gigante con ocho cabezas que[n]cayeron en las manos de Susano-o. La espada[n]que sali吋 fue el Ame-no-murakumo-no-tsurugi,[n]tambi姻n conocido como la "Espalabra[n]de Kusanagi"[n][e]
+[f 0 5 65278][f 2 1]A giant snake with eight heads[n]that fell at Susano-o's hands.[n]The sword that came out was[n]the Ame-no-murakumo-[n]no-tsurugi, also known as the[n]"Sword of Kusanagi."[n][e]
 
 [msg myth_161]
-[f 0 5 65278][f 2 1]Un maldito esp胤ritu n吋rdico en la forma de[n]una mujer hermosa, conocida por florecer[n]de la sangre de hombres colgados. She[n]was believed to tell secrets if properly[n]tended to.[n][e]
+[f 0 5 65278][f 2 1]A cursed Norse spirit in the[n]form of a beautiful woman,[n]known to bloom from the[n]blood of hanged men. She was[n]believed to tell secrets if[n]properly tended to.[n][e]
 
 [msg myth_162]
-[f 0 5 65278][f 2 1]Un monstruo gigante de elefantes del mito de[n]Sri Lanka, es t胤picamente retratado como[n]siendo montado por el Maligno, Mara.[n]Quien mira en su mal ojo se dice que se[n]encuentra con desgracia.[n][e]
+[f 0 5 65278][f 2 1]A giant elephant monster of[n]Sri Lankan myth, it is typically[n]portrayed as being ridden by[n]the Evil One, Mara. Whoever[n]looks into its evil eye is said[n]to be met with misfortune.[n][e]
 
 [msg myth_163]
-[f 0 5 65278][f 2 1]Un dios adorado en la regi吋n de Shinano antes[n]de que el poder de Yamato tomara el[n]control. Dijo ser un dios nacido de la[n]antigua creencia de que las rocas y las[n]piedras albergaban esp胤ritus divinos.[n][e]
+[f 0 5 65278][f 2 1]A god worshipped in the[n]Shinano region before the[n]Yamato power took control.[n]Said to be a god born from the[n]ancient belief that rocks and[n]stones housed divine spirits.[n][e]
 
 [msg myth_164]
-[f 0 5 65278][f 2 1]Un dios maldito de la oscuridad en el mito[n]eslavo, su nombre significa "Dios negro".[n]畏l es la contraparte del "Dios Blanco",[n]Belobog.[n][e]
+[f 0 5 65278][f 2 1]A cursed god of the darkness[n]in Slavic myth, his name[n]means "Black God." He is the[n]counterpart of the "White[n]God," Belobog.[n][e]
 
 [msg myth_165]
-[f 0 5 65278][f 2 1]El dios egipcio del desierto, el caos y el[n]mal. Asesin吋 a su hermano Osiris e intent吋[n]convertirse en dios jefe, pero fue[n]castrado por el hijo de Osiris, Horus.[n][e]
+[f 0 5 65278][f 2 1]The Egyptian god of the desert,[n]chaos, and evil. He murdered[n]his brother Osiris and tried to[n]become chief god, but he was[n]castrated by Osiris's son,[n]Horus.[n][e]
 
 [msg myth_166]
-[f 0 5 65278][f 2 1]Demonio cuyo nombre significa "Se隠or del Alto[n]Lugar". Posiblemente derivado del Baal[n]sirio, preside la muerte y los esp胤ritus[n]fallecidos. Muchos lo adoraron por el[n]poder.[n][e]
+[f 0 5 65278][f 2 1]Demon whose name means[n]"Lord of the High Place."[n]Possibly derived from the[n]Syrian Ba'al, he presides over[n]death and deceased spirits.[n]Many worshipped him for[n]power.[n][e]
 
 [msg myth_167]
-[f 0 5 65278][f 2 1]El hermano gemelo de Metatron en loro[n]judeo-cristiano, es el maestro de las canciones[n]celestiales. Se dice que un humano[n]tardar胤a 500 a隠os en caminar la longitud de[n]su cuerpo.[n][e]
+[f 0 5 65278][f 2 1]Metatron's twin brother in[n]Judeo-Christian lore, he is the[n]master of heavenly songs. It is[n]said that a human would take[n]500 years to walk the length[n]of his body.[n][e]
 
 [msg myth_168]
-[f 0 5 65278][f 2 1]Un hada de perros en el folklore escoc姻s,[n]sus principales tareas son el transporte[n]de hadas y ser un vigilante. Puede trasfix[n]un objetivo que est茨 persiguiendo al[n]ladrar tres veces.[n][e]
+[f 0 5 65278][f 2 1]A dog fairy in Scottish[n]folklore, its main duties are to[n]transport fairies and be a[n]watchdog. It can transfix a[n]target it is chasing by barking[n]three times.[n][e]
 
 [msg myth_169]
-[f 0 5 65278][f 2 1]El legendario p茨jaro del mito chino, dijo[n]aparecer s吋lo en tiempos de paz. Es el[n]gobernante de todos los p茨jaros. Cuando[n]muere, las aves a trav姻s de la tierra brotan[n]con tristeza.[n][e]
+[f 0 5 65278][f 2 1]The legendary bird of Chinese[n]myth, said to appear only in[n]times of peace. It is the ruler[n]of all birds. When it dies, birds[n]across the land chirp with[n]sadness.[n][e]
 
 [msg myth_170]
-[f 0 5 65278][f 2 1]Una criatura divina en el mito japon姻s, son[n]p茨jaros de tres patas enviados por[n]Amaterasu para ayudar a los humanos. Se dice[n]que incluso ayudaron al emperador Jinmu[n]a reclamar la victoria.[n][e]
+[f 0 5 65278][f 2 1]A divine creature in Japanese[n]myth, they are three-legged[n]birds sent by Amaterasu to[n]help humans. It is said that[n]they even helped Emperor[n]Jinmu claim victory.[n][e]
 
 [msg myth_171]
-[f 0 5 65278][f 2 1]El cuarto avatar de Vishnu. Tom吋 esta forma[n]para derrotar a Hiranyakashipu, que no[n]puede ser asesinado por humanos, animales[n]o deva. Mat吋 a su enemigo al anochecer,[n]la 雨nica vez que era vulnerable.[n][e]
+[f 0 5 65278][f 2 1]The 4th avatar of Vishnu. He[n]took this form to defeat[n]Hiranyakashipu, who cannot[n]be killed by human, animal, or[n]deva. He killed his foe at dusk,[n]the only time he was[n]vulnerable.[n][e]
 
 [msg myth_172]
-[f 0 5 65278][f 2 1]Un caballero de hadas escocesas que protegi吋[n]el glen llamado Carterhaugh, fue humano[n]una vez pero fue capturado por la Queen[n]de las Hadas y vivi吋 como uno de ellos[n]all胤 despu姻s.[n][e]
+[f 0 5 65278][f 2 1]A Scottish fairy knight who[n]protected the glen called[n]Carterhaugh, he was once[n]human but was captured by[n]the Queen of the Fairies and[n]lived as one of them there[n]after.[n][e]
 
 [msg myth_173]
-[f 0 5 65278][f 2 1]El rey de las aves en el mito hind雨. En el[n]Ramayana, luch吋 valientemente, pero perdi吋[n]a Ravana en un intento de salvar a[n]Sita, la esposa de Rama, el s姻ptimo avatar[n]de Vishnu.[n][e]
+[f 0 5 65278][f 2 1]The king of birds in Hindu[n]myth. In the Ramayana, he[n]fought bravely, but lost to[n]Ravana in an attempt to save[n]Sita, Rama's wife, the 7th[n]avatar of Vishnu.[n][e]
 
 [msg myth_174]
-[f 0 5 65278][f 2 1]Un legendario p茨jaro de la mitolog胤a hind雨,[n]su nombre significa "uno con alas hermosas".[n]Puede crear viento a voluntad al[n]golpear sus alas y tambi姻n puede cambiar[n]su tama隠o libremente.[n][e]
+[f 0 5 65278][f 2 1]A legendary bird of Hindu[n]mythology, its name means[n]"one with beautiful wings." It[n]can create wind at will by[n]flapping its wings and can[n]also change its size freely.[n][e]
 
 [msg myth_175]
-[f 0 5 65278][f 2 1]El rey de Asuras en el mito hind雨, su nombre[n]es Maha Vairocana (Uno que brilla sobre[n]todos). En el budismo, es conocido como[n]Dainichi Nyorai.[n][e]
+[f 0 5 65278][f 2 1]The king of Asuras in Hindu[n]myth, his name is Maha[n]Vairocana (One Who Shines On[n]All). In Buddhism, he is known[n]as Dainichi Nyorai.[n][e]
 
 [msg myth_176]
-[f 0 5 65278][f 2 1]Uno de los Cuatro Caballos del Apocalipsis,[n]monta un caballo rojo y lleva una gran[n]espada. Tiene el poder de destruir la paz[n]y hacer que los hombres se maten.[n][e]
+[f 0 5 65278][f 2 1]One of the Four Horsemen of[n]the Apocalypse, he rides a red[n]horse and carries a great[n]sword. He has the power to[n]destroy peace and make men[n]slay one another.[n][e]
 
 [msg myth_177]
-[f 0 5 65278][f 2 1]El dios con cabeza de jackal del mito egipcio,[n]pesa los corazones de los muertos para[n]determinar su destino final. Tambi姻n[n]est茨 asociado con embalsamamiento.[n][e]
+[f 0 5 65278][f 2 1]The jackal-headed god of[n]Egyptian myth, he weighs the[n]hearts of the dead to[n]determine their final[n]destination. He is also[n]associated with embalming.[n][e]
 
 [msg myth_178]
-[f 0 5 65278][f 2 1]Uno de los Cuatro Caballos del Apocalipsis,[n]monta un caballo negro y lleva escamas.[n]畏l trae hambre y tiene el derecho de[n]terminar vidas con sufrimiento.[n][e]
+[f 0 5 65278][f 2 1]One of the Four Horsemen of[n]the Apocalypse, he rides a[n]black horse and carries scales.[n]He brings famine and has the[n]right to end lives with[n]suffering.[n][e]
 
 [msg myth_179]
-[f 0 5 65278][f 2 1]Los 茨ngeles dijeron que sonara las trompetas[n]en el Apocalipsis. Cada trompeta trae[n]m茨s plagas y desastres, convirtiendo la[n]tierra en una tierra de muerte y[n]sufrimiento.[n][e]
+[f 0 5 65278][f 2 1]Angels said to sound the[n]trumpets at the Apocalypse.[n]Each trumpet brings more[n]plagues and disasters, turning[n]the earth into a land of death[n]and suffering.[n][e]
 
 [msg myth_180]
-[f 0 5 65278][f 2 1]Uno de los cuatro 茨ngeles principales. Est茨[n]en la cima de la jerarqu胤a ang姻lica.[n]Lleva una larga espada que puede atravesar[n]cualquier cosa, y su nombre significa[n]"Uno que es como Dios"[n][e]
+[f 0 5 65278][f 2 1]One of the four major angels.[n]He is at the top of the angelic[n]hierarchy. He carries a long[n]sword that can cut through[n]anything, and his name means[n]"One who is like God."[n][e]
 
 [msg myth_181]
-[f 0 5 65278][f 2 1]El pr胤ncipe de la oscuridad en el loro[n]judeo-cristiano, conocido por su papel como[n]la serpiente que tent吋 a Ad茨n y Eva en[n]Ed姻n. Tambi姻n se dice que es enviado por[n]Dios para probar la piedad del hombre.[n][e]
+[f 0 5 65278][f 2 1]The prince of darkness in[n]Judeo-Christian lore, known[n]for his role as the snake that[n]tempted Adam and Eve in Eden.[n]It is also said he is sent by[n]God to test man's piety.[n][e]
 
 [msg myth_182]
-[f 0 5 65278][f 2 1]Uno de los 茨ngeles m茨s importantes de la[n]jerarqu胤a, pero el m茨s misterioso. 畏l es el[n]escriba y el defensor del Cielo.[n][e]
+[f 0 5 65278][f 2 1]One of the most important[n]angels in the hierarchy, yet the[n]most mysterious. He is the[n]scribe and the advocate of[n]Heaven.[n][e]
 
 [msg myth_183]
-[f 0 5 65278][f 2 1]Un dios de doble g姻nero cuya apariencia es[n]la mitad del destructor Shiva y la mitad[n]de su esposa, Parvati. Ardha es la figura[n]ideal del Shaktismo, el dios perfecto.[n][e]
+[f 0 5 65278][f 2 1]A dual-gendered god whose[n]appearance is half that of the[n]destroyer Shiva and half his[n]wife, Parvati. Ardha is the[n]ideal figure of Shaktism, the[n]perfect god.[n][e]
 
 [msg myth_184]
-[f 0 5 65278][f 2 1]Un 茨ngel ca胤do en el loro judeo-cristiano[n]cuyo nombre significa "Morning Star".[n]Principalmente conocido por desafiar a Dios,[n]pero tambi姻n es adorado como portador[n]de luz a la humanidad.[n][e]
+[f 0 5 65278][f 2 1]A fallen angel in[n]Judeo-Christian lore whose[n]name signifies "Morning Star."[n]Primarily known for defying[n]God, but he is also worshipped[n]as a bringer of light to[n]mankind.[n][e]
 
 [msg myth_185]
-[f 0 5 65278][f 2 1]El dios omnisciente y omnipotente en el mito[n]griego, derrot吋 a los gigantes de la[n]tormenta para convertirse en el rey de los[n]dioses ol胤mpicos.[n][e]
+[f 0 5 65278][f 2 1]The omniscient and[n]omnipotent god in Greek myth,[n]he defeated the storm giants to[n]become the king of the[n]Olympian gods.[n][e]
 
 [msg myth_186]
-[f 0 5 65278][f 2 1]El dios omnisciente y omnipotente en el mito[n]griego, derrot吋 a su padre, Cronus, para[n]convertirse en el l胤der de los dioses.[n]畏l tiene muchos consorcios, divinos y[n]humanos, que le aburren hijos.[n][e]
+[f 0 5 65278][f 2 1]The omniscient and[n]omnipotent god in Greek myth,[n]he defeated his father, Cronus,[n]to become the leader of the[n]gods. He has many consorts,[n]divine and human, who bore[n]him children.[n][e]
 
 [msg myth_187]
-[f 0 5 65278][f 2 1]Ocho de las nueve 吋rdenes de 茨ngeles, su[n]deber es ministrar a los humanos y entregar[n]mensajes. Est茨n en constante guerra con[n]los 茨ngeles ca胤dos.[n][e]
+[f 0 5 65278][f 2 1]Eighth of the nine orders of[n]angels, their duty is to[n]minister to humans and deliver[n]messages. They are at[n]constant war with the fallen[n]angels.[n][e]
 
 [msg myth_188]
-[f 0 5 65278][f 2 1]La diosa madre 茨rabe, tambi姻n conocida como[n]Allat. Se pensaba que la Piedra Negra en[n]Kaaba era su residencia. Ella y su hijo,[n]Dusura, fueron adorados all胤 por n吋madas[n]del desierto.[n][e]
+[f 0 5 65278][f 2 1]The Arabian mother goddess,[n]also known as Allat. The Black[n]Stone at the Kaaba was[n]thought to be her residence.[n]She and her son, Dusura, were[n]worshipped there by desert[n]nomads.[n][e]
 
 [msg myth_189]
-[f 0 5 65278][f 2 1]La cuarta de las nueve 吋rdenes de 茨ngeles,[n]su deber es supervisar a los otros 茨ngeles.[n]Se dice que el 姻xito o fracaso de las[n]naciones es decidido por estos 茨ngeles.[n][e]
+[f 0 5 65278][f 2 1]The fourth of the nine orders[n]of angels, their duty is to[n]oversee the other angels. It is[n]said that the success or[n]failure of nations is decided[n]by these angels.[n][e]
 
 [msg myth_190]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_191]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_192]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_193]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_194]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_195]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_196]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_197]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_198]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_199]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_200]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_201]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_202]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_203]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_204]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_205]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_206]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_207]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_208]
-[f 0 5 65278][f 2 1]El dios griego de la muerte, es el hijo de[n]Nyx y hermano de Hypnos. Es representado[n]como un hombre joven con una antorcha[n]invertida y una corona o mariposa en sus[n]manos.[n][e]
+[f 0 5 65278][f 2 1]The Greek god of death, he is[n]the son of Nyx and brother of[n]Hypnos. He is depicted as a[n]young man with an inverted[n]torch and a wreath or[n]butterfly in his hands.[n][e]
 
 [msg myth_209]
-[f 0 5 65278][f 2 1]Un ser divino que apareci吋 de un brote de[n]bamb雨 brillante. Aunque muchos le propusieron,[n]ninguno podr胤a completar sus tareas[n]estrictas, as胤 que ella volvi吋 a su[n]patria, la capital de la luna.[n][e]
+[f 0 5 65278][f 2 1]A divine being who appeared[n]from a glowing bamboo shoot.[n]Though many proposed to her,[n]none could complete her strict[n]tasks, so she returned to her[n]homeland, the capital of the[n]moon.[n][e]
 
 [msg myth_210]
-[f 0 5 65278][f 2 1]El rival de Izanagi que se parece a 姻l.[n]Magatsu significa "calamidad". A diferencia[n]de Izanagi, que fund吋 la tierra y trajo[n]el orden, lleva a todos de vuelta al[n]caos.[n][e]
+[f 0 5 65278][f 2 1]Izanagi's rival who looks just[n]like him. Magatsu means[n]"calamity." Unlike Izanagi,[n]who founded the land and[n]brought order, he leads all[n]back into chaos.[n][e]
 
 [msg myth_211]
-[f 0 5 65278][f 2 1]Al unirse con muchas personas, Orfeo naci吋[n]una vez m茨s del mar del alma. Ha despertado[n]al poder de Cipher, que tiene infinitas[n]posibilidades.[n][e]
+[f 0 5 65278][f 2 1]By bonding with many people,[n]Orpheus was once again born[n]from the sea of the soul. He[n]has awakened to the power of[n]Cipher, which holds endless[n]possibilities.[n][e]
 
 [msg myth_212]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_213]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_214]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_215]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_216]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_217]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_218]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_219]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_220]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_221]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_222]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_223]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_224]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_225]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_226]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_227]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_228]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_229]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_230]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_231]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_232]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_233]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_234]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_235]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_236]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_237]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_238]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_239]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_240]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_241]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_242]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_243]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_244]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_245]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_246]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_247]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_248]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_249]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_250]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_251]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_252]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_253]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_254]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_255]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_256]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_257]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_258]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_259]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_260]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_261]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_262]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_263]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_264]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_265]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_266]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_267]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_268]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_269]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_270]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_271]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_272]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_273]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_274]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_275]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_276]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_277]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_278]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_279]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_280]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_281]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_282]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_283]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_284]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_285]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_286]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_287]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_288]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_289]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_290]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_291]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_292]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_293]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_294]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_295]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_296]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_297]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_298]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_299]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_300]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_301]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_302]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_303]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_304]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_305]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_306]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_307]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_308]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_309]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_310]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_311]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_312]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_313]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_314]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_315]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_316]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_317]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_318]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_319]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_320]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_321]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_322]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_323]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_324]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_325]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_326]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_327]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_328]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_329]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_330]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_331]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_332]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_333]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_334]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_335]
-[f 0 5 65278][f 2 1]RESERVA Mito[n][e]
+[f 0 5 65278][f 2 1]RESERVE Myth[n][e]
 
 [msg myth_336]
-[f 0 5 65278][f 2 1]Uno de los cuatro aspectos del pensamiento[n]de Shinto, trae gran recompensa de la[n]caza. Se dice que ayuda en el amor, el[n]beneficio y el crecimiento, y puede crear[n]nuevos caminos.[n][e]
+[f 0 5 65278][f 2 1]One of the four aspects of[n]Shinto thought, it brings great[n]bounty from the hunt. It is[n]said to aid in love, profit, and[n]growth, and can create new[n]paths.[n][e]
 
 [msg myth_337]
-[f 0 5 65278][f 2 1]Uno de los cuatro aspectos del pensamiento[n]de Shinto, utiliza su poder para traer[n]buenos presagios. Se dice que ayuda en la[n]sabidur胤a, observaci吋n y habilidad de[n]uno, y puede reparar caminos fracturados.[n][e]
+[f 0 5 65278][f 2 1]One of the four aspects of[n]Shinto thought, it uses its[n]power to bring good omens. It[n]is said to aid in one's wisdom,[n]observation, and skill, and can[n]mend fractured paths.[n][e]
 
 [msg myth_338]
-[f 0 5 65278][f 2 1]Uno de los cuatro aspectos del pensamiento[n]de Shinto, funciona suavemente para ayudar[n]a mantener una mente tranquila. Se dice[n]que ayudar en las relaciones y la[n]sociabilidad de uno, y puede conducir uno en[n]una direcci吋n positiva.[n][e]
+[f 0 5 65278][f 2 1]One of the four aspects of[n]Shinto thought, it works gently[n]to help maintain a calm mind.[n]It is said to aid in one's[n]relations and sociability, and[n]can lead one in a positive[n]direction.[n][e]
 
 [msg myth_339]
-[f 0 5 65278][f 2 1]Uno de los cuatro aspectos del pensamiento[n]de Shinto, tiene el poder de otorgar[n]ferocidad. Se dice que ayuda en la valent胤a,[n]el crecimiento y los esfuerzos de uno,[n]aunque puede conducir en una direcci吋n[n]negativa.[n][e]
+[f 0 5 65278][f 2 1]One of the four aspects of[n]Shinto thought, it has the[n]power to grant ferocity. It is[n]said to aid in one's bravery,[n]growth, and endeavors, though[n]it can lead in a negative[n]direction.[n][e]
 
 [msg myth_340]
-[f 0 5 65278][f 2 1]Una planta m茨gica cuyas ra胤ces parecen humanas.[n]Son valorados por sus propiedades[n]curativas en las pociones, pero los gritos[n]que dejan salir cuando se tiran del[n]suelo matar茨n a cualquiera que los escuche.[n][e]
+[f 0 5 65278][f 2 1]A magical plant whose roots[n]look like a human. They are[n]valued for their healing[n]properties in potions, but the[n]screams they let out when[n]pulled from the ground will[n]kill anyone who hears them.[n][e]
 
 [msg myth_341]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de Goetia llam吋 al[n]Conde de la muerte y la destrucci吋n. 畏l[n]aparece como una paloma negra con ojos[n]rojos y es un artesano que construye torres[n]llenas de armas.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia called the Count of[n]death and destruction. He[n]appears as a jet-black dove[n]with blood-red eyes and is a[n]craftsman who builds towers[n]full of weapons.[n][e]
 
 [msg myth_342]
-[f 0 5 65278][f 2 1]Una diosa de la lora egipcia del agua y la[n]fertilidad, representada como una rana o[n]una mujer cabeza de rana. Se cree que se[n]deriva de Hermopolis, donde cuatro dioses[n]ranas exist胤an ante el hombre.[n][e]
+[f 0 5 65278][f 2 1]A goddess of Egyptian lore of[n]water and fertility, depicted as[n]a frog or a frog-headed[n]woman. She is thought to be[n]derived from Hermopolis,[n]where four frog gods existed[n]before man.[n][e]
 
 [msg myth_343]
-[f 0 5 65278][f 2 1]Un hada de caballo de folclore celta que vive[n]junto al agua. Ahoga a los que montan[n]en 姻l, pero es un montaje valioso si[n]puedes domarlo.[n][e]
+[f 0 5 65278][f 2 1]A horse-like fairy of Celtic[n]folklore that lives by the[n]water. It drowns those who[n]ride on it, but is a valuable[n]mount if you can tame it.[n][e]
 
 [msg myth_344]
-[f 0 5 65278][f 2 1]Un hada de Inglaterra y Escocia. Ella lleva[n]a cabo tareas dom姻sticas mientras todos[n]duermen y es un esp胤ritu de bienvenida.[n]Se dice que puedes escuchar su falda de[n]seda rustle mientras trabaja.[n][e]
+[f 0 5 65278][f 2 1]A fairy of England and[n]Scotland. She carries out[n]household chores while[n]everyone sleeps and is a[n]welcome spirit. It is said you[n]can hear her silk skirt rustle[n]as she works.[n][e]
 
 [msg myth_345]
-[f 0 5 65278][f 2 1]Un esp胤ritu de r胤os y monta隠as en lore japon姻s,[n]habitan en 茨rboles antiguos y rocas[n]sin edad. No son malvados, y a menudo[n]aparecer茨n como seres humanos o maravillas[n]sobrenaturales para advertir a la gente.[n][e]
+[f 0 5 65278][f 2 1]A spirit of rivers and[n]mountains in Japanese lore,[n]they dwell in ancient trees and[n]ageless rocks. They are not[n]evil, and will often appear as[n]humans or supernatural[n]wonders to warn people.[n][e]
 
 [msg myth_346]
-[f 0 5 65278][f 2 1]Una criatura malvada con dos cuernos curvados.[n]Representa la impureza, a diferencia[n]del Unicornio. Dijo ser derivado de Re'em[n]en la Biblia. Otra leyenda dice que se[n]alimenta de maridos desleales.[n][e]
+[f 0 5 65278][f 2 1]An evil creature with two[n]curving horns. It represents[n]impurity, unlike the Unicorn.[n]Said to be derived from Re'em[n]in the Bible. Another legend[n]says that it feeds off of[n]disloyal husbands.[n][e]
 
 [msg myth_347]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. Enciende[n]velas en tumbas. S吋lo aparece en forma[n]humana cuando se le ordena; en todo otro[n]tiempo es un monstruo espantoso.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He lights candles on[n]graves. He only appears in[n]human form when ordered to;[n]at all other times he is a[n]hideous monster.[n][e]
 
 [msg myth_348]
-[f 0 5 65278][f 2 1]Un demonio femenino de loro japon姻s que[n]aparece en noches nevadas. Es un tipo de[n]Yuki-onna que congela y mata hombres.[n][e]
+[f 0 5 65278][f 2 1]A female demon of Japanese[n]lore who appears on snowy[n]nights. She is a type of[n]Yuki-onna who freezes and[n]kills men.[n][e]
 
 [msg myth_349]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de Goetia, y la 雨nica[n]hembra entre ellos. Es una mujer hermosa[n]con corona dorada y encaje blanco puro[n]que monta un camello.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia, and the only female[n]among them. She is a beautiful[n]woman with a golden crown[n]and pure white lace who rides[n]a camel.[n][e]
 
 [msg myth_350]
-[f 0 5 65278][f 2 1]Una criatura de loro egipcio con la cabeza[n]de un cocodrilo, las patas delanteras de[n]un le吋n, y las patas traseras de un[n]hipop吋tamo. Cuando un hombre muere y es[n]juzgado por Osiris, su coraz吋n se pesa en[n]una escala para juzgar si habla o no la[n]verdad.[n][e]
+[f 0 5 65278][f 2 1]A creature of Egyptian lore[n]with the head of a crocodile,[n]the front legs of a lion, and[n]the hind legs of a hippo. When[n]a man dies and is judged by[n]Osiris, his heart is weighed on[n]a scale to judge whether or[n]not he speaks the truth.[n][e]
 
 [msg myth_351]
-[f 0 5 65278][f 2 1]Un tipo de tengu. Su poder espiritual es m茨s[n]d姻bil que otro tengu, por lo que son[n]mucho m茨s peque隠os. Se dice que son las[n]reencarnaciones de lobos de larga vida.[n][e]
+[f 0 5 65278][f 2 1]A type of tengu. Their spiritual[n]power is weaker than other[n]tengu, so they are much[n]smaller. They are said to be[n]the reincarnations of[n]long-lived wolves.[n][e]
 
 [msg myth_352]
-[f 0 5 65278][f 2 1]La s姻ptima de las nueve 吋rdenes de 茨ngeles.[n]Guardan ciudades y naciones, y protegen[n]varias figuras religiosas.[n][e]
+[f 0 5 65278][f 2 1]The seventh of the nine orders[n]of angels. They guard cities[n]and nations, and protect[n]various religious figures.[n][e]
 
 [msg myth_353]
-[f 0 5 65278][f 2 1]Un p茨jaro misterioso que puede decir la[n]gravedad de la enfermedad, as胤 como sanar la[n]enfermedad misma. Trae enfermedades en[n]s胤 misma con su pico y vuela hacia la[n]curaci吋n de los enfermos. Si la enfermedad[n]est茨 demasiado avanzada, el p茨jaro se[n]negar茨 a mirar a los afligidos.[n][e]
+[f 0 5 65278][f 2 1]A mysterious bird that can tell[n]the severity of one's illness as[n]well as heal sickness itself. It[n]draws illnesses into itself[n]with its beak and flies away[n]upon healing the sick. Should[n]the sickness be too far[n]advanced, the bird will refuse[n]to even look at the afflicted.[n][e]
 
 [msg myth_354]
-[f 0 5 65278][f 2 1]La diosa del volc茨n hawaiano. Cuando se enoja,[n]env胤a lava sobre la gente. Se dice[n]que advierte a los isle隠os de las erupciones[n]pendientes.[n][e]
+[f 0 5 65278][f 2 1]The Hawaiian volcano[n]goddess. When angered, she[n]sends lava over the people. It[n]is said she warns islanders of[n]pending eruptions.[n][e]
 
 [msg myth_355]
-[f 0 5 65278][f 2 1]Una diosa azteca dijo haber tra胤do la planta[n]maguey a este mundo.[n][e]
+[f 0 5 65278][f 2 1]An Aztec goddess said to have[n]brought the maguey plant to[n]this world.[n][e]
 
 [msg myth_356]
-[f 0 5 65278][f 2 1]Conocido en japon姻s como "Inaba no Shirousagi",[n]es un conejo inteligente escrito en[n]el Kojiki, adorado como un dios de[n]liebre.[n][e]
+[f 0 5 65278][f 2 1]Known in Japanese as "Inaba[n]no Shirousagi," it is a smart[n]rabbit written of in the Kojiki,[n]worshipped as a hare god.[n][e]
 
 [msg myth_357]
-[f 0 5 65278][f 2 1]Un joven del mito griego. 畏l rechaz吋 a la[n]ninfa Echo, que se desvaneci吋 a un susurro[n]de la desesperaci吋n. Cursado por Nemesis,[n]se enamor吋 de su propia reflexi吋n y[n]se desperdic吋.[n][e]
+[f 0 5 65278][f 2 1]A young man of Greek myth. He[n]rejected the nymph Echo, who[n]faded to a whisper out of[n]despair. Cursed by Nemesis, he[n]fell in love with his own[n]reflection and wasted away.[n][e]
 
 [msg myth_358]
-[f 0 5 65278][f 2 1]El caballo de ocho patas de Odin de Norse[n]Lore. Su padre era Svadilfari y su madre[n]era Loki, con el pretexto de un caballo[n]femenino.[n][e]
+[f 0 5 65278][f 2 1]Odin's eight-legged horse of[n]Norse lore. Its father was[n]Svadilfari and its mother was[n]Loki, in the guise of a female[n]horse.[n][e]
 
 [msg myth_359]
-[f 0 5 65278][f 2 1]Fierce guerreros de origen n吋rdico que luchan[n]sin cuidado y sin miedo. Su nombre[n]proviene de sus abrigos de piel de oso.[n]Tambi姻n son guerreros de Od胤n.[n][e]
+[f 0 5 65278][f 2 1]Fierce warriors of Norse origin[n]who fight heedlessly and[n]without fear. Their name[n]comes from their bearskin[n]coats. They are also warriors[n]of Odin.[n][e]
 
 [msg myth_360]
-[f 0 5 65278][f 2 1]Uno de los 72 demonios de la Goetia. Es un[n]duque con muchas caras constantemente[n]cambiantes. Tiene un libro pesado en su mano[n]derecha que contiene los pensamientos[n]de todos los seres vivos, pasados,[n]presentes y futuros, escritos en un lenguaje[n]que s吋lo puede leer.[n][e]
+[f 0 5 65278][f 2 1]One of the 72 demons of the[n]Goetia. He is a duke with[n]many, constantly changing[n]faces. He holds a heavy book[n]in his right hand containing[n]the thoughts of all living[n]beings, past, present, and[n]future, written in a language[n]only he can read.[n][e]
 
 [msg myth_361]
-[f 0 5 65278][f 2 1]Una princesa rana de North American Haida.[n]Tambi姻n es conocida como la mujer del[n]volc茨n. Vino del mar con seis canoas llenas[n]de gente. Su consorte es el dios oso[n]Kaiti.[n][e]
+[f 0 5 65278][f 2 1]A frog princess of North[n]American Haida lore. She is[n]also known as the volcano[n]woman. She came from the sea[n]with six canoes full of[n]people. Her consort is the bear[n]god Kaiti.[n][e]
 
 [msg myth_362]
-[f 0 5 65278][f 2 1]Una hermosa fantas胤a de Arthur Lore. Tambi姻n[n]guarda a Lancelot, caballero de la Mesa[n]Redonda. Vive bajo un lago ilusorio en[n]Francia y tambi姻n es conocida como "Lady[n]of the Lake"[n][e]
+[f 0 5 65278][f 2 1]A beautiful faerie of Arthurian[n]lore. She also guards[n]Lancelot, knight of the Round[n]Table. She lives beneath an[n]illusory lake in France and is[n]also known as the "Lady of the[n]Lake."[n][e]
 
 [msg myth_363]
-[f 0 5 65278][f 2 1]Un demonio cabeza de cabra que es adorado en[n]s茨bados negros. Su nombre puede ser[n]usado como un t姻rmino para todos los demonios[n]en general. Se convertir胤a en un objeto[n]de adoraci吋n para las brujas.[n][e]
+[f 0 5 65278][f 2 1]A goat-headed demon that is[n]worshipped in Black Sabbaths.[n]His name can be used as a[n]catch-all term for demons in[n]general. He would become an[n]object of worship for witches.[n][e]
 
 [msg myth_364]
-[f 0 5 65278][f 2 1]Un dios del sol de Irlanda. Su nombre significa[n]"luz ardiente". Es h茨bil en muchas[n]artes, lleva su lanza Areadbhar, y es[n]conocido como el Long Arm.[n][e]
+[f 0 5 65278][f 2 1]A sun god of Irish lore. His[n]name means "flashing light."[n]He is skilled in many arts,[n]carries his spear Areadbhar,[n]and is known as the Long Arm.[n][e]
 
 [msg myth_365]
-[f 0 5 65278][f 2 1]La segunda de las nueve 吋rdenes de 茨ngeles.[n]Se dice que tienen cuatro caras y cuatro[n]alas, y se sabe que act雨an como un carro[n]para Dios.[n][e]
+[f 0 5 65278][f 2 1]The second of the nine orders[n]of angels. They are said to[n]have four faces and four[n]wings, and are known to act as[n]a chariot for God.[n][e]
 
 [msg myth_366]
-[f 0 5 65278][f 2 1]La hero胤na de la historia china de la serpiente[n]blanca. Originalmente fue retratada[n]como un monstruo atroz que encant吋 y[n]comi吋 hombres j吋venes, pero luego fue[n]representada como una chica triste que se[n]enamora de un humano y es atormentada por[n]las diferencias en su naturaleza.[n][e]
+[f 0 5 65278][f 2 1]The heroine of the Chinese[n]tale of the white snake. She[n]was originally portrayed as an[n]atrocious monster who[n]charmed and ate young men,[n]but was later depicted as a[n]sad girl who falls in love with[n]a human and is tormented by[n]the differences in their nature.[n][e]
 
 [msg myth_367]
-[f 0 5 65278][f 2 1]Una criatura lobo gigante de Lore N吋rdico,[n]hijo del dios malvado Loki, que est茨[n]destinado a matar a Odin en Ragnarok. En ese[n]d胤a, sus haza隠as m茨gicas ser茨n rotas y[n]se levantar茨 contra el Aesir en combate.[n][e]
+[f 0 5 65278][f 2 1]A giant wolf creature of[n]Nordic lore, son of the evil god[n]Loki, who is destined to kill[n]Odin at Ragnarok. On that day,[n]his magical bindings will be[n]broken and he will rise against[n]the Aesir in combat.[n][e]
 
 [msg myth_368]
-[f 0 5 65278][f 2 1]La diosa egipcia de la fertilidad, el amor,[n]la maternidad y la alegr胤a. Se representa[n]como una vaca que sostiene el disco[n]del sol entre sus cuernos, o como una mujer[n]cachonda que sostiene el disco del sol.[n][e]
+[f 0 5 65278][f 2 1]The Egyptian goddess of[n]fertility, love, motherhood, and[n]joy. She is depicted as a cow[n]holding the disk of the sun[n]between her horns, or as a[n]horned woman holding the disk[n]of the sun.[n][e]
 
 [msg myth_369]
-[f 0 5 65278][f 2 1]Una deidad solar que fue adorada en el Imperio[n]Romano del 1 al 4to siglo AD. He was[n]said to be reborn after death, and a[n]festival was held on the winter solstice[n]for him.[n][e]
+[f 0 5 65278][f 2 1]A sun deity who was[n]worshipped in the Roman[n]Empire from the 1st to the 4th[n]century AD. He was said to be[n]reborn after death, and a[n]festival was held on the[n]winter solstice for him.[n][e]
 
 [msg myth_370]
-[f 0 5 65278][f 2 1]A Criatura galesa com雨nmente conocida como[n]"Bugbear" o "Boogeyman". Su existencia es[n]utilizada a menudo por las madres para[n]asustar a los ni隠os a comportarse.[n][e]
+[f 0 5 65278][f 2 1]A Welsh creature commonly[n]known as "Bugbear" or the[n]"Boogeyman." Its existence is[n]often used by mothers to scare[n]children into behaving.[n][e]
 
 [msg myth_371]
-[f 0 5 65278][f 2 1]Un soldado romano que us吋 su lanza para[n]perforar el cuerpo de Jesucristo mientras[n]estaba en la cruz. Algunas leyendas dicen[n]que la sangre de Cristo cur吋 Longinus de[n]su ceguera. Obtener la Santa Lanza de[n]Longinus otorga a uno el poder para gobernar[n]el mundo, pero perderla sella la[n]propia condena.[n][e]
+[f 0 5 65278][f 2 1]A Roman soldier who used his[n]spear to pierce the body of[n]Jesus Christ while he was on[n]the cross. Some legends say[n]the blood of Christ cured[n]Longinus of his blindness.[n]Obtaining the Holy Lance of[n]Longinus grants one the power[n]to rule the world, but losing it[n]seals one's doom.[n][e]
 
 [msg myth_372]
-[f 0 5 65278][f 2 1]Una hermosa doncella del r胤o que vive en la[n]roca del mismo nombre en el r胤o Rin. Ella[n]atrae a los marineros a su perdici吋n[n]con su voz encantadora. Varios loros la[n]describen como una diosa o una bruja de[n]agua, pero tambi姻n hay cuentos de que ella[n]es una hero胤na de amor tr茨gico.[n][e]
+[f 0 5 65278][f 2 1]A beautiful river maiden who[n]lives at the rock of the same[n]name on the Rhine River. She[n]lures sailors to their doom[n]with her enchanting voice.[n]Various lore describes her as a[n]goddess or a water witch, but[n]there are also tales of her[n]being a heroine of tragic love.[n][e]
 
 [msg myth_373]
-[f 0 5 65278][f 2 1]Un rey de ojos en lore celta. Puede matar[n]simplemente con una mirada de su ojo. Es[n]el l胤der de los Fomorianos, enemigos de[n]los dioses. Su nombre era temido y su[n]ej姻rcito perturbaba a los dioses.[n][e]
+[f 0 5 65278][f 2 1]A one-eyed king in Celtic lore.[n]He can kill merely with a look[n]of his eye. He is leader of the[n]Fomorians, enemies of the[n]gods. His name was feared and[n]his army troubled the gods.[n][e]
 
 [msg myth_374]
-[f 0 5 65278][f 2 1]Un drag吋n femenino con alas de murci姻lago.[n]A veces representado como un hermoso[n]esp胤ritu femenino. Tienen alas de murci姻lago,[n]patas de 茨guila, y cola de serpiente,[n]y son todas hembras.[n][e]
+[f 0 5 65278][f 2 1]A female dragon with bat[n]wings. Sometimes depicted as[n]a beautiful female spirit. They[n]have bat wings, eagle legs,[n]and a snake tail, and are all[n]female.[n][e]
 
 [msg myth_375]
-[f 0 5 65278][f 2 1]Un dios cananeo de fuego. Una estatua de[n]bronce de un hombre con la cabeza de un toro[n]se encuentra en su altercado. La estatua[n]fue calentada y los ni隠os sacrificados[n]fueron arrojados dentro.[n][e]
+[f 0 5 65278][f 2 1]A Canaanite god of fire. A[n]bronze statue of a man with a[n]bull's head stands at his alter.[n]The statue was heated and[n]sacrificial children were[n]thrown inside.[n][e]
 
 [msg myth_376]
-[f 0 5 65278][f 2 1]El Tit茨n griego que cre吋 a la humanidad de[n]la arcilla. M茨s tarde rob吋 el fuego de[n]Olympus y, a su vez, se lo dio a la humanidad[n]contra la voluntad de Zeus. Su nombre[n]es a menudo sin吋nimo de fuego y[n]"conocimiento divino"[n][e]
+[f 0 5 65278][f 2 1]The Greek Titan who created[n]mankind from clay. He later[n]stole fire from Olympus and,[n]in turn, gave it to mankind[n]against Zeus's will. His name[n]is often synonymous with fire[n]and "divine knowledge."[n][e]
 
 [msg myth_377]
-[f 0 5 65278][f 2 1]Un drag吋n que significa la eternidad. Al[n]morder su propia cola, forma un c胤rculo[n]interminable. En la alquimia, el arte de[n]Hermes, se considera un material importante[n]para crear la Piedra Filosofal.[n][e]
+[f 0 5 65278][f 2 1]A dragon that signifies[n]eternity. In biting its own tail,[n]it forms a neverending circle.[n]In alchemy, the art of Hermes,[n]it is considered an important[n]material to create the[n]Philosopher's Stone.[n][e]
 
 [msg myth_378]
-[f 0 5 65278][f 2 1]Una hero胤na francesa del final de la Guerra[n]de los Cien a隠os. Apodado "la Casa de[n]Orleans", recibi吋 una visi吋n de Dios y se[n]mud吋 a salvar a Francia. Cuando la[n]capturaron, la quemaron en la hoguera. Su[n]sentencia, sin embargo, fue revocada[n]p吋stumamente y fue posteriormente canonizada.[n][e]
+[f 0 5 65278][f 2 1]A French heroine from the end[n]of the Hundred Years War.[n]Nicknamed "the Maid of[n]Orleans," she received a vision[n]from God and moved to save[n]France. Upon capture, she was[n]burned at the stake. Her[n]sentence, however, was[n]posthumously overturned and[n]she was later canonized.[n][e]
 
 [msg myth_379]
-[f 0 5 65278][f 2 1]El dios semi茨tico jefe que gobierna sobre la[n]fertilidad. 畏l es el dios de Canaan,[n]hermano y consorte a la diosa Anat, que lo[n]salv吋 de Mot.[n][e]
+[f 0 5 65278][f 2 1]The chief Semitic god who[n]governs over fertility. He is the[n]god of Canaan and brother[n]and consort to the goddess[n]Anat, who saved him from Mot.[n][e]
 
 [msg myth_380]
-[f 0 5 65278][f 2 1]Una diosa china antigua que gobern吋 sobre[n]las monta隠as Kunlun y fue adorada durante[n]la dinast胤a Han. Puede parecer humana,[n]pero se dice que tiene los dientes de un[n]tigre y cola de un leopardo.[n][e]
+[f 0 5 65278][f 2 1]An ancient Chinese goddess[n]who ruled over the Kunlun[n]mountains and was[n]worshipped during the Han[n]Dynasty. She may appear[n]human, but is said to have the[n]teeth of a tiger and tail of a[n]leopard.[n][e]
 
 [msg myth_381]
-[f 0 5 65278][f 2 1]Un vampiro malvado que lucha contra Kresnik,[n]un proxy de Dios. Se dice que todas las[n]cosas malas: enfermedad, malas cosechas,[n]mala suerte, etc., provienen de Kudlak.[n]Se transforma en varias formas animales[n]para luchar con Kresnik, pero sus[n]siempre son negras.[n][e]
+[f 0 5 65278][f 2 1]An evil vampire who fights[n]Kresnik, a proxy of God. It is[n]said that all bad things:[n]disease, poor harvests, bad[n]luck, etc., stem from Kudlak.[n]He transforms into various[n]animal forms to fight with[n]Kresnik, but his are always[n]black.[n][e]
 
 [msg myth_382]
-[f 0 5 65278][f 2 1]Un buen vampiro bendecido por la luz. Su[n]nombre significa "cruce". Su rival es Kudlak,[n]otro vampiro esloveno. Ambos pueden[n]convertirse en diferentes formas animales,[n]pero los de Kresnik siempre son blancos.[n]Se dice que Kresnik nunca ha perdido[n]a Kudlak, porque la oscuridad nunca puede[n]ser victorioso por la luz.[n][e]
+[f 0 5 65278][f 2 1]A good vampire blessed by the[n]light. His name means "cross."[n]His rival is Kudlak, another[n]Slovenian vampire. Both can[n]turn into various animal[n]forms, but Kresnik's are[n]always white. Kresnik is said[n]to have never lost to Kudlak,[n]for dark can never be[n]victorious over light.[n][e]
 
 [msg myth_383]
-[f 0 5 65278][f 2 1]Una madre santa de la oscuridad, de ascendencia[n]cristiana. Las iglesias suelen mostrar[n]estatuas de la Virgen Mar胤a, pero[n]existen algunas estatuas negras sospechosas[n]que se consideran diosas de otros mitos.[n][e]
+[f 0 5 65278][f 2 1]A holy mother of the dark, of[n]Christian descent. Churches[n]typically display statues of[n]the Virgin Mary, but there exist[n]some suspicious black[n]statues thought to be the[n]goddesses of other mythos.[n][e]
 
 [msg myth_384]
-[f 0 5 65278][f 2 1]El rango m茨s alto de todos los 茨ngeles, es[n]el ser m茨s cercano a Dios. Los humanos[n]rara vez detectan su presencia, pero pueden[n]aparecer en forma humana, aunque con[n]cuatro cabezas y seis alas.[n][e]
+[f 0 5 65278][f 2 1]The highest rank of all the[n]angels, it is the being closest[n]to God. Humans rarely detect[n]their presence, but they may[n]appear in human form, though[n]with four heads and six wings.[n][e]
 
 [msg myth_385]
-[f 0 5 65278][f 2 1]El Emperador Amarillo. Es el legendario[n]emperador de China que se cree que es el[n]fundador y creador de casas, ropa, carros,[n]barcos, m雨sica y medicina.[n][e]
+[f 0 5 65278][f 2 1]The Yellow Emperor. He is the[n]legendary emperor of China[n]who is thought to be the[n]founder and creator of houses,[n]clothes, wagons, boats,[n]music, and medicine.[n][e]
 
 [msg myth_386]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. Un[n]poeta griego que intent吋 recuperar a su[n]esposa de Hades, pero desapareci吋 cuando[n]mir吋 hacia atr茨s antes de llegar a la[n]superficie.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]A Greek poet who tried to[n]retrieve his wife from Hades,[n]but she vanished when he[n]looked back before reaching[n]the surface.[n][e]
 
 [msg myth_387]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. 畏l[n]aparece antes del D胤a del Juicio para[n]salvar al virtuoso. Es una figura universal,[n]apareciendo en mitos alrededor del[n]mundo.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]He appears before Judgment[n]Day to save the virtuous. He is[n]a universal figure, appearing[n]in myths around the world.[n][e]
 
 [msg myth_388]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. El[n]dios griego de la muerte, es el hijo de[n]Nyx y el hermano gemelo de Hypnos. Se sabe[n]que proporciona a los mortales una[n]muerte pac胤fica.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]The Greek god of death, he is[n]the son of Nyx and the twin[n]brother of Hypnos. He is known[n]to provide mortals with a[n]peaceful death.[n][e]
 
 [msg myth_389]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. Uno[n]de los dioses antiguos que exist胤an antes[n]de que Jap吋n fuera formado. 畏l cre吋 el[n]Oyashima del caos, luego dio a luz a[n]innumerables ni隠os.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]One of the ancient gods who[n]existed before Japan was[n]formed. He created the[n]Oyashima from chaos, then[n]gave birth to countless[n]children.[n][e]
 
 [msg myth_390]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. Es[n]el rival de Izanagi. Magatsu significa[n]"calamidad", as胤 que, a diferencia de[n]Izanagi que fund吋 la tierra y trajo orden,[n]姻l conduce todo de vuelta al caos.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]He's Izanagi's rival. Magatsu[n]means "calamity," so, unlike[n]Izanagi who founded the land[n]and brought order, he leads all[n]back into chaos.[n][e]
 
 [msg myth_391]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster.[n]Apareci吋 de una brillante bala de bamb雨.[n]Recibi吋 muchas propuestas, pero las rechaz吋[n]y regres吋 a la luna.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]She appeared from a glowing[n]bamboo shoot. She received[n]many proposals, but rejected[n]them and returned to the[n]moon.[n][e]
 
 [msg myth_392]
-[f 0 5 65278][f 2 1]Una Persona de otra historia. Ella es la hija[n]de Minos, el rey de Creta. Ella ayud吋[n]a Theseus derrotar al Minotauro y le dio[n]una bola de hilo para que pudiera escapar[n]del laberinto.[n][e]
+[f 0 5 65278][f 2 1]A Persona of another story.[n]She is the daughter of Minos,[n]the king of Crete. She helped[n]Theseus defeat the Minotaur[n]and gave him a ball of yarn so[n]he could escape the labyrinth.[n][e]
 
 [msg myth_393]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. Ella[n]es la hija de Minos. Ella ayud吋 a Theseus[n]derrotar al Minotauro y le dio una[n]bola de hilo para que pudiera escapar del[n]laberinto.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]She is the daughter of Minos.[n]She helped Theseus defeat the[n]Minotaur and gave him a ball[n]of yarn so he could escape the[n]labyrinth.[n][e]
 
 [msg myth_394]
-[f 0 5 65278][f 2 1]Una Persona de otra historia. Un dios importante[n]nacido del dios japon姻s Izanagi,[n]gobierna sobre la luna y la noche. Hay[n]muchas teor胤as detr茨s de este misterioso[n]dios.[n][e]
+[f 0 5 65278][f 2 1]A Persona of another story. An[n]important god born from the[n]Japanese god Izanagi, he[n]governs over the moon and the[n]night. There are many theories[n]behind this mysterious god.[n][e]
 
 [msg myth_395]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. Un[n]dios importante nacido del dios japon姻s[n]Izanagi, gobierna sobre la luna y la noche.[n]Hay muchas teor胤as detr茨s de este[n]misterioso dios.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]An important god born from[n]the Japanese god Izanagi, he[n]governs over the moon and the[n]night. There are many theories[n]behind this mysterious god.[n][e]
 
 [msg myth_396]
-[f 0 5 65278][f 2 1]Una Persona de otra historia. Debido a una[n]maldici吋n sobre su madre, Pasiphae, naci吋[n]un monstruo con cabeza de toro. Encerrado[n]en el laberinto como el Minotauro,[n]empu隠aba un hacha doble cara.[n][e]
+[f 0 5 65278][f 2 1]A Persona of another story.[n]Due to a curse on his mother,[n]Pasiphae, he was born a[n]bull-headed monster. Locked[n]away in the labyrinth as the[n]Minotaur, he wielded a[n]double-sided axe.[n][e]
 
 [msg myth_397]
-[f 0 5 65278][f 2 1]Un Persona se volvi吋 picaro despu姻s de[n]convertirse en la m茨scara del Trickster. Hijo[n]de Pasiphae, naci吋 un monstruo de cabeza[n]de toro. Encerrado en el laberinto como[n]el Minotauro, empu隠aba un hacha doble[n]cara.[n][e]
+[f 0 5 65278][f 2 1]A Persona turned picaro after[n]becoming the Trickster's mask.[n]Son of Pasiphae, he was born[n]a bull-headed monster. Locked[n]away in the labyrinth as the[n]Minotaur, he wielded a[n]double-sided axe.[n][e]
 
 [msg myth_398]
 [f 0 5 65278][f 2 1]BLANK[n][e]

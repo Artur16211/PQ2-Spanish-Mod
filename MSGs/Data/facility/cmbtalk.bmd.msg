@@ -361,10 +361,10 @@
 [f 0 5 65278][f 2 1]Para conmemorar tu progresos, mereces un[n]peque隠o incentivo.[n][f 1 1][e]
 
 [msg book_bonus001_02]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]El precio para invocar Personas pel胤culas se[n]han reducido un 10%.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]El precio para invocar Persona Film se[n]han reducido un 10%.[n][f 1 1][e]
 
 [msg book_bonus001_03 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 0]A partir de ahora, ofreceremos un descuento[n]en la invocaci吋n de Persona Pel胤cula.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 0]A partir de ahora, ofreceremos un descuento[n]en la invocaci吋n de Persona Film.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Si tu repertorio sigue creciendo, podemos[n]incluso tener m茨s recompensas para ti.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0]Por favor, sigue trabajando duro.[n][f 1 1][e]
 
@@ -373,7 +373,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 6]Bueno, 斡podr胤amos darte una peque隠a[n]recompensa![n][f 1 1][e]
 
 [msg book_bonus002_02]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona pel胤culas[n]se han reducido un 15%.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona Films[n]se han reducido un 15%.[n][f 1 1][e]
 
 [msg book_bonus002_03 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 6 1 2 0 0 6]Te haremos un descuento cuando convocas[n]Personas fuera de la pel胤cula![n][f 1 1][e]
@@ -387,7 +387,7 @@
 [f 0 5 65278][f 2 1]Ah... pero casi se me olvida tu incentivo.[n][f 1 1][e]
 
 [msg book_bonus003_02]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona pel胤culas[n]se han reducido un 20%.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona Films[n]se han reducido un 20%.[n][f 1 1][e]
 
 [msg book_bonus003_03 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0]Su cat茨logo de Persona es casi completo. Sin[n]duda, esto ayudar茨.[n][f 1 1][e]
@@ -400,7 +400,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 6]Te has esforzado mucho. 斡As胤 que te mereces[n]una gran recompensa![n][f 1 1][e]
 
 [msg book_bonus004_02]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona pel胤culas[n]se han reducido un 25%.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona Films[n]se han reducido un 25%.[n][f 1 1][e]
 
 [msg book_bonus004_03 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0]Ahora, puedes invocar todas las 斡Persona[n]pel胤culas que quieras![n][f 1 1][e]
