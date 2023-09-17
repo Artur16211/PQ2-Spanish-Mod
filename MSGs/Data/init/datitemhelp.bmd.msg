@@ -89,7 +89,7 @@
 [f 0 5 65278][f 2 1]Conjura la niebla que niega la energ胤a nuclear.[n][f 0 1 4]Gran resistencia nuclear por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51E]
-[f 0 5 65278][f 2 1]Conjura la niebla de los barrotes EPE. [f 0 1 4][n]Gran resistencia al Psy por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Conjura la niebla de los barrotes EPE. [f 0 1 4][n]Gran resistencia física por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51F]
 [f 0 5 65278][f 2 1]消耗品　0x51F　１行目 消耗品　0x51F　２行目[n][e]
@@ -149,7 +149,7 @@
 [f 0 5 65278][f 2 1]消耗品　0x531　１行目 効果：[f 0 1 4]使用ターン時の敵のドロップ率アップ[f 0 1 0][n][n][e]
 
 [msg item_532]
-[f 0 5 65278][f 2 1]Esta efigie extra隠amente se parece a su[n]portador. [f 0 1 4]Protege al usuario de 1 muerte instant茨nea por Bendici吋nlMaldici吋n[f 0 1 0][n][n].[n][e]
+[f 0 5 65278][f 2 1]Esta efigie extra隠amente se parece a su[n]portador. [f 0 1 4]Protege al usuario de 1 muerte instant茨nea por Bendici吋n/Maldici吋n[f 0 1 0][n][n].[n][e]
 
 [msg item_533]
 [f 0 5 65278][f 2 1]Tocando este tubo repele las sombras. [f 0 1 4][n]Reduce el 胤ndice de encuentro[f 0 1 0][n].[n][e]

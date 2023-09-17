@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1]Grants use of Beheading Cut. [f 0 1 3]Daña a un FOE con una baja probabilidad de Muerte Instantánea[f 0 1 0][n][n][n][e]
 
 [msg accessory_A19]
-[f 0 5 65278][f 2 1]Grants use of Repulse Mist. [f 0 1 3]Media probabilidad de anular dolencias/Ataduras de una fila de aliados[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Grants use of Repulse Mist. [f 0 1 3]Probabilidad media de anular estados alterados/Ataduras de una fila de aliados[f 0 1 0][n][n][n][e]
 
 [msg accessory_A1A]
 [f 0 5 65278][f 2 1]0xA1A 1?4 se refiere a apoyar[n][e]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1]Un espejo que refleja la intuici吋n. [f 0 1 3][n]Tasa cr胤tica +15%[f 0 1 0][n][e]
 
 [msg accessory_A21]
-[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n. [f 0 1 3][n]Anula todas las dolencias o estados alterados[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n. [f 0 1 3][n]Anula todos los estados alterados o ataduras[f 0 1 0][n][e]
 
 [msg accessory_A22]
 [f 0 5 65278][f 2 1]Нельногильноги2 0xA22 1ичель дельный дельны2[n]0xA22 2[n][e]

@@ -275,13 +275,13 @@
 [f 0 5 65278][f 2 1]+100 PS[n][e]
 
 [msg addeffect_092]
-[f 0 5 65278][f 2 1]Probabilidad de infligir todas las dolencias[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de infligir todos los estados alterados[n][e]
 
 [msg addeffect_093]
-[f 0 5 65278][f 2 1]Probabilidad de infligir todas las dolencias+[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de infligir todos los estados alterados+[n][e]
 
 [msg addeffect_094]
-[f 0 5 65278][f 2 1]Probabilidad de infligir todas las dolencias+[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de infligir todos los estados alterados+[n][e]
 
 [msg addeffect_095]
 [f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 10%[n][e]

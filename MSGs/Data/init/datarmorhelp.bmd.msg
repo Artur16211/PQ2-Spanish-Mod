@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1]防 logro 0x309 1 resultado[n][e]
 
 [msg armor_30A]
-[f 0 5 65278][f 2 1]Armadura hecha para resistir la debilitaci吋n.[n][f 0 1 3]Baja probabilidad de resistir todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Armadura hecha para resistir la debilitaci吋n.[n][f 0 1 3]Baja probabilidad de resistir todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_30B]
 [f 0 5 65278][f 2 1]Armadura hecha con metal.[n][e]
@@ -239,43 +239,43 @@
 [f 0 5 65278][f 2 1]防 logro 0x34F 1 Resultado[n][e]
 
 [msg armor_350]
-[f 0 5 65278][f 2 1]Traje verde ic吋nico de un ladr吋n fantasma[n]maestro. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Traje verde ic吋nico de un ladr吋n fantasma[n]maestro. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_351]
-[f 0 5 65278][f 2 1]Rs general con un Skull brillante. [f 0 1 3][n]Anula todas las dolencias[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Rs general con un Skull brillante. [f 0 1 3][n]Anula todos los estados alterados[f 0 1 0][n][e]
 
 [msg armor_352]
-[f 0 5 65278][f 2 1]Ropa que representa el Monte Fuji erupci吋n.[n][f 0 1 3]Anula todas las dolencias[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ropa que representa el Monte Fuji erupci吋n.[n][f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][e]
 
 [msg armor_353]
-[f 0 5 65278][f 2 1]Un atuendo pristino que limpia el coraz吋n.[n][f 0 1 3]Anula todas las dolencias[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un atuendo pristino que limpia el coraz吋n.[n][f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][e]
 
 [msg armor_354]
-[f 0 5 65278][f 2 1]Un uniforme de la escuela luch吋 con orgullo[n]un cuello alto. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un uniforme de la escuela luch吋 con orgullo[n]un cuello alto. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_355]
-[f 0 5 65278][f 2 1]El tradicional garbo del Clan Fuuma. [f 0 1 3][n]Anula todas las dolencias[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El tradicional garbo del Clan Fuuma. [f 0 1 3][n]Anula todos los estados alterados[f 0 1 0][n][e]
 
 [msg armor_356]
-[f 0 5 65278][f 2 1]Un uniforme de la escuela de oro. Inspira el[n]terror. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un uniforme de la escuela de oro. Inspira el[n]terror. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_357]
-[f 0 5 65278][f 2 1]Usa polaridades naturales para resistir el[n]choque. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Usa polaridades naturales para resistir el[n]choque. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_358]
-[f 0 5 65278][f 2 1]Una chaqueta misteriosa que faculta al elegido.[n][f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una chaqueta misteriosa que faculta al elegido.[n][f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_359]
-[f 0 5 65278][f 2 1]Empodera a los que superan la debilidad. [f 0 1 3][n]Anula todas las dolencias[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Empodera a los que superan la debilidad. [f 0 1 3][n]Anula todos los estados alterados[f 0 1 0][n][e]
 
 [msg armor_35A]
-[f 0 5 65278][f 2 1]Un faro de esperanza, como una estrella gu胤a.[n][f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un faro de esperanza, como una estrella gu胤a.[n][f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_35B]
-[f 0 5 65278][f 2 1]Una sudadera bendita, cosi吋 una oraci吋n a la[n]vez. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una sudadera bendita, cosi吋 una oraci吋n a la[n]vez. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_35C]
-[f 0 5 65278][f 2 1]Un haori que evoca el oscuro malestar del[n]crep雨sculo. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un haori que evoca el oscuro malestar del[n]crep雨sculo. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_35D]
 [f 0 5 65278][f 2 1]防 logro 0x35D 1 Resultado[n][e]
@@ -527,7 +527,7 @@
 [f 0 5 65278][f 2 1]防 determinaci吋n 0x3AF 1[n][e]
 
 [msg armor_3B0]
-[f 0 5 65278][f 2 1]Bufanda de un arc茨ngel que habla verdad a[n]los mortales. [f 0 1 3]Anula todas las dolencias[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Bufanda de un arc茨ngel que habla verdad a[n]los mortales. [f 0 1 3]Anula todos los estados alterados[f 0 1 0][n][n][e]
 
 [msg armor_3B1]
 [f 0 5 65278][f 2 1]防 logro 0x3B1 1 Resultado[n][e]
@@ -593,7 +593,7 @@
 [f 0 5 65278][f 2 1]Un mane que te llena de confianza. [f 0 1 3][n]Todas las estad胤sticas +1[f 0 1 0][n][e]
 
 [msg armor_3C6]
-[f 0 5 65278][f 2 1]Ropa de perro con gemas oraculares. [f 0 1 3][n]Anula todas las dolencias[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ropa de perro con gemas oraculares. [f 0 1 3][n]Anula todos los estados alterados[f 0 1 0][n][e]
 
 [msg armor_3C7]
 [f 0 5 65278][f 2 1]0x3C7 1 Resultado[n][e]
