@@ -182,7 +182,7 @@
 [f 0 5 65278][f 2 1]One of the four major[n]archangels, his name means[n]"healer." He recites the history[n]of the fallen angels and the[n]creation of Adam and Eve.[n][e]
 
 [msg myth_061]
-[f 0 5 65278][f 2 1]Phrygian goddess of the earth.[n]Attis was her son and consort,[n]but she drove him mad, and he[n]castrated himself. Her[n]Desenfrenostic cult spread to[n]Greece.[n][e]
+[f 0 5 65278][f 2 1]Phrygian goddess of the earth.[n]Attis was her son and consort,[n]but she drove him mad, and he[n]castrated himself. Her[n]orgiastic cult spread to[n]Greece.[n][e]
 
 [msg myth_062]
 [f 0 5 65278][f 2 1]Goddess of war and love,[n]revered in ancient[n]Mesopotamia. She seduced[n]many men to their doom, but[n]the hero Gilgamesh spurned[n]her, causing her to murder his[n]best friend, Enkidu.[n][e]

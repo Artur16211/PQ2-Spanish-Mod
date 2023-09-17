@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1]S胤[e]
 [f 0 5 65278][f 2 1]No[e]
 
-[msg MSG_Desenfreno000]
+[msg MSG_ORGIA000]
 [f 0 5 65278][f 2 1]Explicaci吋n del modo Desenfreno. Aunque no es muy complicado...[n][f 1 1][e]
 [f 0 5 65278][f 2 1]斡De acuerdo! 斡Espero verla![n][f 1 1][e]
 
