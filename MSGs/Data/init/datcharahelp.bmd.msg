@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1]Ninguno[n][e]
 
 [msg chara_00F]
-[f 0 5 65278][f 2 1][Front or Back] Arma anti-Shadow que puede activar su modo[n]Orgia.[n][e]
+[f 0 5 65278][f 2 1][Front or Back] Arma anti-Sombras que puede activar su modo[n]Desenfreno.[n][e]
 
 [msg chara_010]
 [f 0 5 65278][f 2 1][Back Row] Genial con habilidades f胤sicas y Elec, 斡pero[n]tiene poca salud![n][e]

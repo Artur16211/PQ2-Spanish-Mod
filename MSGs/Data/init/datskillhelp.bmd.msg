@@ -1214,7 +1214,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumentar en gran medida el ataque[f 0 1 0].[n](Recalorar茨 despu姻s de unas cuantas vueltas)[n][e]
 
 [msg skill_195]
-[f 0 5 65278][f 2 1]Desactivar el modo Orgia.[n][e]
+[f 0 5 65278][f 2 1]Desactivar el modo Desenfreno.[n][e]
 
 [msg skill_196]
 [f 0 5 65278][f 2 1]Restauraci吋n ligera PS al final del[n]turno por 3 turnos. (Fila del usuario)[n][e]
