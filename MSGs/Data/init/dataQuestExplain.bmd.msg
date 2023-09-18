@@ -1,153 +1,153 @@
-﻿[msg quest_explain_000]
-[f 0 5 65278][f 2 1]Наниенныеннныенный[n][e]
+[msg quest_explain_000]
+[f 0 5 65278][f 2 1]クエスト００の概要です。[n]ダミーメッセージです。[n][e]
 
 [msg quest_explain_001]
-[f 0 5 65278][f 2 1]斡Derrota a los Basalts![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a los Basaltos![n][e]
 
 [msg quest_explain_002]
-[f 0 5 65278][f 2 1]※[n][e]
+[f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_003]
-[f 0 5 65278][f 2 1]斡Derrota a los Gigas![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a los Gigas fanfarrones![n][e]
 
 [msg quest_explain_004]
-[f 0 5 65278][f 2 1]斡Evite los focos de b雨squeda![n][e]
+[f 0 5 65278][f 2 1]斡Evita los reflectores![n][e]
 
 [msg quest_explain_005]
-[f 0 5 65278][f 2 1]※[n][e]
+[f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_006]
-[f 0 5 65278][f 2 1]斡Investiga a la misteriosa criatura antigua![n][e]
+[f 0 5 65278][f 2 1]斡Investiga la misteriosa criatura antigua![n][e]
 
 [msg quest_explain_007]
-[f 0 5 65278][f 2 1]斡Derrota al chico pollo![n][e]
+[f 0 5 65278][f 2 1]Derrota al Chico Pollo[n][e]
 
 [msg quest_explain_008]
-[f 0 5 65278][f 2 1]斡Encuentra al oficial de polic胤a falso y haz[n]que pague![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra al falso oficial de polic胤a y hazlo pagar![n][e]
 
 [msg quest_explain_009]
-[f 0 5 65278][f 2 1]Encuentra graffiti diferente al resto![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra el graffiti que es diferente al resto![n][e]
 
 [msg quest_explain_010]
-[f 0 5 65278][f 2 1]斡Vayan al lugar de pesca y atrapen uno[n]grande![n][e]
+[f 0 5 65278][f 2 1]斡Dir胤gete al lugar de pesca y atrapa uno grande![n][e]
 
 [msg quest_explain_011]
-[f 0 5 65278][f 2 1]斡Robar ese tesoro![n][e]
+[f 0 5 65278][f 2 1]斡Roba ese tesoro![n][e]
 
 [msg quest_explain_012]
-[f 0 5 65278][f 2 1]Recoge un Cinnamon Fern![n][e]
+[f 0 5 65278][f 2 1]斡Recoge un helecho de canela![n][e]
 
 [msg quest_explain_013]
 [f 0 5 65278][f 2 1]斡Encuentra al culpable![n][e]
 
 [msg quest_explain_014]
-[f 0 5 65278][f 2 1]斡Rescate al dinosaurio beb姻![n][e]
+[f 0 5 65278][f 2 1]斡Rescata al beb姻 dinosaurio![n][e]
 
 [msg quest_explain_015]
-[f 0 5 65278][f 2 1]斡Averigua qu姻 es lo que pasa por la selva![n][e]
+[f 0 5 65278][f 2 1]斡Descubre qu姻 est茨 causando estragos en la jungla![n][e]
 
 [msg quest_explain_016]
-[f 0 5 65278][f 2 1]Localice el objeto en cuesti吋n desde el[n]contenedor![n][e]
+[f 0 5 65278][f 2 1]斡Localiza el objeto en cuesti吋n dentro del contenedor![n][e]
 
 [msg quest_explain_017]
-[f 0 5 65278][f 2 1]斡Reunir informaci吋n y resolver el caso![n][e]
+[f 0 5 65278][f 2 1]斡Recopila informaci吋n y resuelve el caso![n][e]
 
 [msg quest_explain_018]
-[f 0 5 65278][f 2 1]斡Obtenga tres materiales raros![n][e]
+[f 0 5 65278][f 2 1]斡Obt姻n tres materiales raros![n][e]
 
 [msg quest_explain_019]
-[f 0 5 65278][f 2 1]斡Derrota al Seidoptera![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a Seidoptera![n][e]
 
 [msg quest_explain_020]
-[f 0 5 65278][f 2 1]※[n][e]
+[f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_021]
-[f 0 5 65278][f 2 1]斡Encuentra ingredientes comestibles en la[n]selva![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra ingredientes comestibles en la jungla![n][e]
 
 [msg quest_explain_022]
-[f 0 5 65278][f 2 1]斡Derrota tres grandes Sombras![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a tres Sombras grandes![n][e]
 
 [msg quest_explain_023]
-[f 0 5 65278][f 2 1]斡Derrota cuatro unidades de Rampage![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a cuatro Rampage Drives![n][e]
 
 [msg quest_explain_024]
-[f 0 5 65278][f 2 1]斡Consigue la tecnolog胤a de pr吋xima generaci吋n[n]de seguridad![n][e]
+[f 0 5 65278][f 2 1]斡Supera la tecnolog胤a de 雨ltima generaci吋n de seguridad![n][e]
 
 [msg quest_explain_025]
-[f 0 5 65278][f 2 1]斡Destruye KNS-1000![n][e]
+[f 0 5 65278][f 2 1]斡Destruye al KNS-1000![n][e]
 
 [msg quest_explain_026]
-[f 0 5 65278][f 2 1]斡Cuidado con la batalla de las mascotas![n][e]
+[f 0 5 65278][f 2 1]斡Observa la batalla de las mascotas![n][e]
 
 [msg quest_explain_027]
 [f 0 5 65278][f 2 1]斡Encuentra piezas para el equipo de cocina![n][e]
 
 [msg quest_explain_028]
-[f 0 5 65278][f 2 1]斡Arregla el robot roto![n][e]
+[f 0 5 65278][f 2 1]斡Repara el robot averiado![n][e]
 
 [msg quest_explain_029]
 [f 0 5 65278][f 2 1]斡Derrota a dos Tyranniqueens![n][e]
 
 [msg quest_explain_030]
-[f 0 5 65278][f 2 1]斡Resolver el misterio de los dispositivos[n]warp![n][e]
+[f 0 5 65278][f 2 1]斡Resuelve el misterio de los dispositivos de teletransporte![n][e]
 
 [msg quest_explain_031]
-[f 0 5 65278][f 2 1]斡Aloja el club nocturno![n][e]
+[f 0 5 65278][f 2 1]斡Localiza el club nocturno![n][e]
 
 [msg quest_explain_032]
-[f 0 5 65278][f 2 1]斡Que las bellas damas salven a Kamo City![n][e]
+[f 0 5 65278][f 2 1]斡Haz que las hermosas damas salven la Kamociudad![n][e]
 
 [msg quest_explain_033]
-[f 0 5 65278][f 2 1]斡Buscad los puntos del tesoro![n][e]
+[f 0 5 65278][f 2 1]斡Busca los puntos del tesoro![n][e]
 
 [msg quest_explain_034]
-[f 0 5 65278][f 2 1]※[n][e]
+[f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_035]
-[f 0 5 65278][f 2 1]斡Situar el Huevo de Pascua![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra el huevo de Pascua![n][e]
 
 [msg quest_explain_036]
-[f 0 5 65278][f 2 1]Recoge tres partes raras![n][e]
+[f 0 5 65278][f 2 1]斡Re雨ne tres partes raras![n][e]
 
 [msg quest_explain_037]
-[f 0 5 65278][f 2 1]斡Vete al 茨rea de entrenamiento![n][e]
+[f 0 5 65278][f 2 1]斡Dir胤gete al 茨rea de entrenamiento![n][e]
 
 [msg quest_explain_038]
-[f 0 5 65278][f 2 1]斡Defeat SCM-8801![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a SCM-8801![n][e]
 
 [msg quest_explain_039]
-[f 0 5 65278][f 2 1]斡Encontrar el art胤culo perdido de Hikari![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra el objeto perdido de Hikari![n][e]
 
 [msg quest_explain_040]
-[f 0 5 65278][f 2 1]斡Obtenga cuatro frutos![n][e]
+[f 0 5 65278][f 2 1]斡Obt姻n cuatro frutas![n][e]
 
 [msg quest_explain_041]
-[f 0 5 65278][f 2 1]斡El deseo de Grant Marie![n][e]
+[f 0 5 65278][f 2 1]斡Concede el deseo de Marie![n][e]
 
 [msg quest_explain_042]
-[f 0 5 65278][f 2 1]斡Saca la mariposa en el musical![n][e]
+[f 0 5 65278][f 2 1]斡Persigue a la mariposa en el musical![n][e]
 
 [msg quest_explain_043]
-[f 0 5 65278][f 2 1]Responde a las preguntas y proceder![n][e]
+[f 0 5 65278][f 2 1]斡Responde las preguntas y contin雨a![n][e]
 
 [msg quest_explain_044]
-[f 0 5 65278][f 2 1]※[n][e]
+[f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_045]
 [f 0 5 65278][f 2 1]斡Termina la batalla de los osos![n][e]
 
 [msg quest_explain_046]
-[f 0 5 65278][f 2 1]斡Trae m雨sica de la pel胤cula![n][e]
+[f 0 5 65278][f 2 1]斡Recupera la m雨sica de la pel胤cula![n][e]
 
 [msg quest_explain_047]
-[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en la ciudad de[n]Kamo![n][e]
+[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en la Kamociudad![n][e]
 
 [msg quest_explain_048]
-[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en la Tierra[n]Junesic![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en Junessic Land![n][e]
 
 [msg quest_explain_049]
-[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en A.I.G.I.S.![n][e]
+[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en A.I.G.I.S![n][e]
 
 [msg quest_explain_050]
-[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en Hikari![n][e]
+[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en Hikari![n][e]
 

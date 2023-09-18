@@ -1,69 +1,69 @@
-﻿[msg map_help_001_01]
-[f 0 5 65278][f 2 1]Pulsa la herramienta l茨piz, y puedes dibujar[n]paredes en el mapa.[n][e]
+[msg map_help_001_01]
+[f 0 5 65278][f 2 1]Toca la herramienta de l茨piz y podr茨s dibujar paredes en el mapa.[n][e]
 
 [msg map_help_001_02]
-[f 0 5 65278][f 2 1]La herramienta borrador elimina las paredes.[n][e]
+[f 0 5 65278][f 2 1]La herramienta de borrador elimina las paredes.[n][e]
 
 [msg map_help_002_01]
-[f 0 5 65278][f 2 1]Los colores de la herramienta del cepillo en[n]azulejos.[n][e]
+[f 0 5 65278][f 2 1]La herramienta de pincel colorea las casillas.[n][e]
 
 [msg map_help_002_02]
-[f 0 5 65278][f 2 1]La herramienta de polvo borra los suelos.[n][e]
+[f 0 5 65278][f 2 1]La herramienta de pa隠o de limpieza borra los suelos.[n][e]
 
 [msg map_help_002_03]
-[f 0 5 65278][f 2 1]Tapping el bot吋n de color y seleccionar un[n]color le permitir茨 cambiar el tinte.[n][e]
+[f 0 5 65278][f 2 1]Tocar el bot吋n de color y seleccionar un color te permitir茨 cambiar el tono.[n][e]
 
 [msg map_help_003_01]
-[f 0 5 65278][f 2 1]Coloque iconos como puertas en el mapa[n]arrastr茨ndolos.[n][e]
+[f 0 5 65278][f 2 1]Coloca iconos como puertas en el mapa arrastr茨ndolos.[n][e]
 
 [msg map_help_003_02]
-[f 0 5 65278][f 2 1]Para eliminar los iconos en el mapa, arrastrelos[n]a la basura con la herramienta[n]l茨piz.[n][e]
+[f 0 5 65278][f 2 1]Para eliminar iconos en el mapa, arr茨stralos a la papelera con la herramienta de l茨piz.[n][e]
 
 [msg map_help_004_01]
-[f 0 5 65278][f 2 1]Pulsa el icono para cambiar el color.[n][e]
+[f 0 5 65278][f 2 1]Toca el icono para cambiar el color.[n][e]
 
 [msg map_help_005_01]
-[f 0 5 65278][f 2 1]■ It1[n][e]
+[f 0 5 65278][f 2 1]テスト1[n][e]
 
 [msg map_help_006_01]
-[f 0 5 65278][f 2 1]Toque el n雨mero de piso mientras que el mapa[n]entero se muestra, y s吋lo ese piso se[n]mostrar茨.[n][e]
+[f 0 5 65278][f 2 1]Toca el n雨mero de piso mientras se muestra todo el mapa y solo ese piso se mostrar茨.[n][e]
 
 [msg map_help_006_02]
-[f 0 5 65278][f 2 1]Pulse el bot吋n laberinto para seleccionar el[n]laberinto y el suelo.[n][e]
+[f 0 5 65278][f 2 1]Toca el bot吋n del laberinto para seleccionar el laberinto y el piso.[n][e]
 
 [msg map_help_007_01]
-[f 0 5 65278][f 2 1]Cuando toca la br雨jula en la parte superior[n]izquierda, puede mantener el icono del[n]jugador mirando hacia arriba mientras el[n]mapa cambia la direcci吋n.[n][e]
+[f 0 5 65278][f 2 1]Cuando toques la br雨jula en la parte superior izquierda, puedes mantener el 胤cono del jugador mirando hacia arriba mientras el mapa cambia de direcci吋n.[n][e]
 
 [msg map_help_007_02]
-[f 0 5 65278][f 2 1]Devu姻lvelo a su configuraci吋n predeterminada,[n]tocando la br雨jula de nuevo.[n][e]
+[f 0 5 65278][f 2 1]Devu姻lvelo a su configuraci吋n predeterminada tocando la br雨jula nuevamente.[n][e]
 
 [msg map_help_008_01]
-[f 0 5 65278][f 2 1]Si cometes un error, pulsa Undo para cancelar[n]la 雨ltima acci吋n.[n][e]
+[f 0 5 65278][f 2 1]Si cometes un error, toca "Deshacer" para cancelar la 雨ltima acci吋n.[n][e]
 
 [msg map_help_009_01]
-[f 0 5 65278][f 2 1]Utilice Auto Pilot para moverse[n]autom茨ticamente.[n][e]
+[f 0 5 65278][f 2 1]Utiliza el Piloto Autom茨tico para moverte autom茨ticamente.[n][e]
 
 [msg map_help_009_02]
-[f 0 5 65278][f 2 1]Dibuja la ruta que te gustar胤a ir con el[n]bol胤grafo de ruta en el men雨 Auto Pilot.[n][e]
+[f 0 5 65278][f 2 1]Dibuja la ruta que te gustar胤a seguir con el bol胤grafo de ruta en el men雨 del Piloto Autom茨tico.[n][e]
 
 [msg map_help_009_03]
-[f 0 5 65278][f 2 1]Viaja por la ruta que dibuj吋 y pulsa el bot吋n[n]de movimiento para comenzar a moverse[n]autom茨ticamente.[n][e]
+[f 0 5 65278][f 2 1]Recorre la ruta que dibujaste y toca el bot吋n de movimiento para comenzar a moverte autom茨ticamente.[n][e]
 
 [msg map_help_009_04]
-[f 0 5 65278][f 2 1]Al tocar la l胤nea que fue dibujada por el[n]bol胤grafo de ruta se puede ir hacia atr茨s.[n][e]
+[f 0 5 65278][f 2 1]Tocando la l胤nea que fue dibujada por el bol胤grafo de ruta, puedes retroceder.[n][e]
 
 [msg map_help_009_05]
-[f 0 5 65278][f 2 1]Utilice el borrador de la ruta para eliminar[n]la l胤nea Piloto Auto. Borrarlo desde el[n]final de la l胤nea.[n][e]
+[f 0 5 65278][f 2 1]Utiliza el borrador de ruta para eliminar la l胤nea del Piloto Autom茨tico. B吋rrala desde el final de la l胤nea.[n][e]
 
 [msg map_help_010_01]
-[f 0 5 65278][f 2 1]Arrastre los iconos en la paleta gratis para[n]guardar sus iconos favoritos.[n][e]
+[f 0 5 65278][f 2 1]Arrastra los iconos hacia la paleta libre para guardar tus iconos favoritos.[n][e]
 
 [msg map_help_010_02]
-[f 0 5 65278][f 2 1]Eliminar los iconos no deseados de la paleta[n]libre arrastrandolos a la basura.[n][e]
+[f 0 5 65278][f 2 1]Elimina los iconos no deseados de la paleta libre arrastr茨ndolos a la papelera.[n][e]
 
 [msg map_help_011_01]
-[f 0 5 65278][f 2 1]Durante ex茨menes especiales, tendr茨 una paleta[n]especial de detecci吋n. Tendr茨 iconos[n]que puedes colocar solo durante las[n]proyecciones.[n][e]
+[f 0 5 65278][f 2 1]Durante las proyecciones especiales, tendr茨s una paleta de proyecciones especiales. Contendr茨 iconos que solo podr茨s colocar durante las proyecciones.[n][e]
 
 [msg map_help_011_02]
-[f 0 5 65278][f 2 1]Sin embargo, no se pueden colocar iconos de[n]detecci吋n especiales encima de otros que[n]fueron colocados en un momento[n]diferente.[n][e]
+[f 0 5 65278][f 2 1]Sin embargo, no puedes colocar iconos de proyecciones especiales encima de otros que fueron colocados en un momento diferente.[n][e]
 

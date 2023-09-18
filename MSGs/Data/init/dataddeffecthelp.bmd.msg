@@ -1,4 +1,4 @@
-﻿[msg addeffect_000]
+[msg addeffect_000]
 [f 0 5 65278][f 2 1]Ninguno[n][e]
 
 [msg addeffect_001]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]+50 PE[n][e]
 
 [msg addeffect_036]
-[f 0 5 65278][f 2 1]Baja probabilidad de Confusión[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Confusi吋n[n][e]
 
 [msg addeffect_037]
 [f 0 5 65278][f 2 1]Posibilidad media de Confusi吋n[n][e]
@@ -116,16 +116,16 @@
 [f 0 5 65278][f 2 1]Alta probabilidad de Confusi吋n[n][e]
 
 [msg addeffect_039]
-[f 0 5 65278][f 2 1]Baja probabilidad de envenenamiento[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Veneno[n][e]
 
 [msg addeffect_040]
 [f 0 5 65278][f 2 1]Posibilidad media de Veneno[n][e]
 
 [msg addeffect_041]
-[f 0 5 65278][f 2 1]Alta oportunidad de Poison[n][e]
+[f 0 5 65278][f 2 1]Alta oportunidad de Veneno[n][e]
 
 [msg addeffect_042]
-[f 0 5 65278][f 2 1]Baja probabilidad de miedo[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Miedo[n][e]
 
 [msg addeffect_043]
 [f 0 5 65278][f 2 1]Posibilidad media de Miedo[n][e]
@@ -164,19 +164,19 @@
 [f 0 5 65278][f 2 1]Baja probabilidad de Envejecimiento[n][e]
 
 [msg addeffect_055]
-[f 0 5 65278][f 2 1]Posibilidad media a la Edad[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Envejecimiento[n][e]
 
 [msg addeffect_056]
 [f 0 5 65278][f 2 1]Alta probabilidad de Envejecimiento[n][e]
 
 [msg addeffect_057]
-[f 0 5 65278][f 2 1]Baja probabilidad de Atadura Mágica[n][e]
+[f 0 5 65278][f 2 1]Baja probabilidad de Atadura M茨gica[n][e]
 
 [msg addeffect_058]
-[f 0 5 65278][f 2 1]Posibilidad media de Magic Bind[n][e]
+[f 0 5 65278][f 2 1]Posibilidad media de Atadura M茨gica[n][e]
 
 [msg addeffect_059]
-[f 0 5 65278][f 2 1]Alta probabilidad de Atadura Mágica[n][e]
+[f 0 5 65278][f 2 1]Alta probabilidad de Atadura M茨gica[n][e]
 
 [msg addeffect_060]
 [f 0 5 65278][f 2 1]Tasa cr胤tica[n][e]
@@ -215,13 +215,13 @@
 [f 0 5 65278][f 2 1]Energ胤a de ataque de viento aument吋 un 25%[n][e]
 
 [msg addeffect_072]
-[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques Físicos[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques F胤sicos[n][e]
 
 [msg addeffect_073]
-[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques Físicos+[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques F胤sicos+[n][e]
 
 [msg addeffect_074]
-[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques Físicos++[n][e]
+[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques F胤sicos++[n][e]
 
 [msg addeffect_075]
 [f 0 5 65278][f 2 1]Resistencia contra Confusi吋n[n][e]
@@ -347,58 +347,58 @@
 [f 0 5 65278][f 2 1]Gran reducci吋n de posibilidad de tropezar[n][e]
 
 [msg addeffect_116]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques físicos+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques f胤sicos+[n][e]
 
 [msg addeffect_117]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques físicos[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques f胤sicos[n][e]
 
 [msg addeffect_118]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques físicos+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques f胤sicos+[n][e]
 
 [msg addeffect_119]
-[f 0 5 65278][f 2 1]Aumenta la evasión a ataques de Fuego+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n a ataques de Fuego+[n][e]
 
 [msg addeffect_120]
-[f 0 5 65278][f 2 1]Aumenta la evasión a ataques de Fuego[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n a ataques de Fuego[n][e]
 
 [msg addeffect_121]
-[f 0 5 65278][f 2 1]Aumenta la evasión a ataques de Fuego++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n a ataques de Fuego++[n][e]
 
 [msg addeffect_122]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Hielo+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques de Hielo+[n][e]
 
 [msg addeffect_123]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Hielo[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques de Hielo[n][e]
 
 [msg addeffect_124]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Hielo++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques de Hielo++[n][e]
 
 [msg addeffect_125]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Viento+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques de Viento+[n][e]
 
 [msg addeffect_126]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Viento[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques de Viento[n][e]
 
 [msg addeffect_127]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques de Viento++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques de Viento++[n][e]
 
 [msg addeffect_128]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Eléctricos+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques El姻ctricos+[n][e]
 
 [msg addeffect_129]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Eléctricos[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques El姻ctricos[n][e]
 
 [msg addeffect_130]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Eléctricos++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques El姻ctricos++[n][e]
 
 [msg addeffect_131]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Mágicos+[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques M茨gicos+[n][e]
 
 [msg addeffect_132]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Mágicos[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques M茨gicos[n][e]
 
 [msg addeffect_133]
-[f 0 5 65278][f 2 1]Aumenta la evasión de ataques Mágicos++[n][e]
+[f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques M茨gicos++[n][e]
 
 [msg addeffect_134]
 [f 0 5 65278][f 2 1]EXP. +150%[n][e]
