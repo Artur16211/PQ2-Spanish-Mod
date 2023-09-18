@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1]None[n][e]
 
 [msg chara_00F]
-[f 0 5 65278][f 2 1][Front or Back]Arma anti-sombras[n]que puede activar su Modo Org胤a.[n][e]
+[f 0 5 65278][f 2 1][Front or Back]Arma anti-sombras[n]que puede activar su Modo Desenfreno.[n][e]
 
 [msg chara_010]
 [f 0 5 65278][f 2 1][Back Row]Es genial con habilidades f胤sicas y de Electricidad, 斡pero tiene poca salud![n][e]
