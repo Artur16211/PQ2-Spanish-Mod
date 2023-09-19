@@ -77,7 +77,7 @@
 
 [msg MSG_023 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 23 1 0 6][f 4 6 65 0 0 0][f 3 1 1 0 0 21003]Oye, Ken...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Por qu姻 te interesa tanto el Phantom Thieves?[n]Es porque...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Por qu姻 te interesa tanto el Ladrones Fantasma?[n]Es porque...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_024 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Quieres cambiar tu coraz吋n?[f 2 7 1 64 0 32][e]

@@ -31,7 +31,7 @@
 
 [msg MSG_010 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 12 0 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]El estilo no es algo en lo que das lecciones,[n]斡s吋lo tienes que sentirlo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]De todos modos, te mostraremos las verdaderas[n]habilidades de los Phantom Thieves -[n]斡s吋lo sigue nuestra pista![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]De todos modos, te mostraremos las verdaderas[n]habilidades de los Ladrones Fantasma -[n]斡s吋lo sigue nuestra pista![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 0 4][f 3 1 1 0 0 13]Qu姻 sencillo.[n][f 1 3 65535][f 1 1][e]
@@ -69,7 +69,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 25]Koromaru-san tambi姻n es entusiasta. Dijo:[n]"Reg胤streme tambi姻n"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 1 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26]斡S胤! Hikari, eres parte del Phantom Thieves[n]tambi姻n ahora, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 1 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26]斡S胤! Hikari, eres parte del Ladrones Fantasma[n]tambi姻n ahora, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 10 1 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]夷Eh? 夷Est茨 bien para m胤...?[n][f 1 3 65535][f 1 1][e]

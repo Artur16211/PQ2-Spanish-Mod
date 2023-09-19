@@ -256,7 +256,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 4][f 3 1 1 0 0 109][f 6 1 2 0 0 9]斡Idiota! Ve a filmar uno solo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 110]Es el deber de nosotros, Phantom Thieves[n]ayudar a la gente en problemas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 110]Es el deber de nosotros, Ladrones Fantasma[n]ayudar a la gente en problemas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 6][f 3 1 1 0 0 111]No creo que debas dejar que te llegue[n]demasiado...[n][f 1 3 65535][f 1 1][e]

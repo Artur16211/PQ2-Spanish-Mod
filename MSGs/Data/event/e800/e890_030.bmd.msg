@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Yo, Elizabeth, me esforzar姻 por demostrarme[n]digno de este honor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013_2 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Entonces, vayamos a la Sala Velvet, y[n]nosotros..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Entonces, vayamos a la Habitación Terciopelo, y[n]nosotros..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]... Pero antes de eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]

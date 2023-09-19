@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 6 0 3][f 3 1 1 0 0 41]Hmm... Esa gente azul podr胤a saber algo,[n]pero..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 42]Los residentes de la Sala Velvet, 夷correcto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 42]Los residentes de la Habitación Terciopelo, 夷correcto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 43][f 6 1 2 0 0 0]夷Aigis-san?[n][f 1 3 65535][f 1 1][e]

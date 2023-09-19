@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 12]Nosotros, hermanos 雨tiles, hemos venido a[n]explicar la situaci吋n en la que se han[n]encontrado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chica Esp胤rita]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Podr胤an ser residentes de la Sala Velvet?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Podr胤an ser residentes de la Habitación Terciopelo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]夷Sabes, el lugar donde nuestro l胤der llama[n]a sus Personas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chica Bien Vestida]]

@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]Esto es simplemente para satisfacer mi[n]curiosidad personal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akechi]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28010][f 6 1 3 0 0 1]Mencionaste antes que nada sin sentido sucede[n]en la Sala Velvet...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28010][f 6 1 3 0 0 1]Mencionaste antes que nada sin sentido sucede[n]en la Habitación Terciopelo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 3 0 0 1]Then, how would you explain[n][f 6 1 26 0 0 0]-san's presence?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_010 top]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 1 0][f 3 1 1 0 0 0]Ya que tambi姻n has encontrado a los asistentes[n]de la Sala Velvet...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 1 0][f 3 1 1 0 0 0]Ya que tambi姻n has encontrado a los asistentes[n]de la Habitación Terciopelo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Su presencia aqu胤 tambi姻n era inevitable, y[n]hay alg雨n significado para ella...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akechi]]

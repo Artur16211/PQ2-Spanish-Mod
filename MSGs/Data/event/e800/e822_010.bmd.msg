@@ -49,7 +49,7 @@
 
 [msg MSG_014 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16039]Est茨 bien.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 0]Quiero saber m茨s sobre el Phantom Thieves,[n]sin embargo, as胤 que estar胤a feliz si[n]accedieras a ense隠arme.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 0]Quiero saber m茨s sobre el Ladrones Fantasma,[n]sin embargo, as胤 que estar胤a feliz si[n]accedieras a ense隠arme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 23 1 0 3][f 4 6 65 2 4 6][f 3 1 1 0 0 21015][f 6 1 2 0 0 4]Es como... Bueno... Sabes lo que quiero decir,[n]夷verdad, Morgana?[n][f 1 3 65535][f 1 1][e]

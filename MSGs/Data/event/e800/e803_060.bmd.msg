@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21013]Supongo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Joker puede parecer tranquilo todo el tiempo,[n]pero es s雨per confiable cuando se trata[n]de eso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 0]... Ha ense隠ado mucho a un marginado como yo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy muy agradecida por los Phantom Thieves.[n]Cada uno de ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy muy agradecida por los Ladrones Fantasma.[n]Cada uno de ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 0][f 3 1 1 0 0 7033]Es b茨sicamente lo mismo para m胤.[n][f 1 3 65535][f 1 1][e]

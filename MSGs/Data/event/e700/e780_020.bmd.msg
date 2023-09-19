@@ -7,7 +7,7 @@
 
 [msg MSG_002 [Justine]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Qu姻 intrigante...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto puede ayudarnos a mejorar la funcionalidad[n]de la Sala Velvet.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto puede ayudarnos a mejorar la funcionalidad[n]de la Habitación Terciopelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Caroline]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Espera aqu胤, Recluso![n][f 1 3 65535][f 1 1][e]

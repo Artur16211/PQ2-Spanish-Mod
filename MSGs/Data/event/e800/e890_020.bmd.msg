@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 2 0 0][f 3 1 1 0 0 58139]Heh heh... 斡Nos cans茨bamos de esperar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 0]Bueno, entonces, ven a la Sala Velvet.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 0]Bueno, entonces, ven a la Habitación Terciopelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 3 1 1 0 0 59046]夷En serio? Entonces ven a hablar con nosotros[n]cuando est姻s completamente preparado.[n][f 1 3 65535][f 1 1][e]
