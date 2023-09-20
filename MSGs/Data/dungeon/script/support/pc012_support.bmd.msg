@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18326]Hay m茨s que hacer. 夷Cu茨l es tu llamada aqu胤?[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18327]Hay una caja de tesoros... 夷Quieres abrirlo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18327]Hay una cofre del tesoro... 夷Quieres abrirlo?[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18328]Una caja de tesoros, eh... Espero que haya[n]algo bueno en ello.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18328]Una cofre del tesoro, eh... Espero que haya[n]algo bueno en ello.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 18329]Hey, hay una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 18329]Hey, hay una cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg ARAGAKI_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18330]Estoy viendo algo sospechoso... 夷Deber胤amos[n]abrirlo?[n][f 1 6 65535][e]

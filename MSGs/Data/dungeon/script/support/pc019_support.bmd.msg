@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25326]Podemos pasar ahora.[n][f 1 6 65535][e]
 
 [msg MAKOTO_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25327]斡Oh! Una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25327]斡Oh! Una cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg MAKOTO_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25328]Espiar姻 con mi peque隠o ojo una caja de[n]tesoros.[n][f 1 6 65535][e]

@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59311]Parece que hay escaleras por delante.[n][f 1 6 65535][e]
 
 [msg JUSTINE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59336]Debe ser una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59336]Debe ser una cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg JUSTINE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59337]Qu姻 suerte. Has tropezado con una caja de[n]tesoros.[n][f 1 6 65535][e]

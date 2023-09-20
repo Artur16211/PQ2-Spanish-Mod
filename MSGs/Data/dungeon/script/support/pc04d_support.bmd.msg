@@ -125,19 +125,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57335]斡Ah胤 est茨n las escaleras![n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55336]Eso parece ser una caja de tesoros. 夷Planeas[n]abrirla, espero?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55336]Eso parece ser una cofre del tesoro. 夷Planeas[n]abrirla, espero?[n][f 1 6 65535][e]
 
 [msg NANAKO_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57336]斡Una caja de tesoros! 夷Qu姻 hay en 姻l?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57336]斡Una cofre del tesoro! 夷Qu姻 hay en 姻l?[n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55337]Una caja de tesoros. 夷Qu姻 podr胤a estar dentro,[n]me pregunto?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55337]Una cofre del tesoro. 夷Qu姻 podr胤a estar dentro,[n]me pregunto?[n][f 1 6 65535][e]
 
 [msg NANAKO_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57337]斡Vaya, encontraste una caja de tesoros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57337]斡Vaya, encontraste una cofre del tesoro![n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55338]Espero que encuentres algo que valga la pena[n]en esa caja del tesoro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55338]Espero que encuentres algo que valga la pena[n]en esa cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg NANAKO_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57338]斡Veo un tesoro![n][f 1 6 65535][e]

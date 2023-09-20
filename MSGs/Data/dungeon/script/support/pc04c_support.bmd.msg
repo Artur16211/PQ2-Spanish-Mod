@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21358]Tengo curiosidad por el contenido de la caja[n]del tesoro.[n][f 1 6 65535][e]
 
 [msg THEODOR_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]Una caja de tesoros. Debo decir que estoy[n]emocionada de ver lo que hay dentro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]Una cofre del tesoro. Debo decir que estoy[n]emocionada de ver lo que hay dentro.[n][f 1 6 65535][e]
 
 [msg THEODOR_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]斡Hay algo intrigante ah胤![n][f 1 6 65535][e]

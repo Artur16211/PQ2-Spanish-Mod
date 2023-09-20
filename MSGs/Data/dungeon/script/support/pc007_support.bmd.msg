@@ -65,10 +65,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7327]斡Muy bien! 斡Tesoro![n][f 1 6 65535][e]
 
 [msg KANJI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7328]斡La caja del tesoro, adelante![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7328]斡La cofre del tesoro, adelante![n][f 1 6 65535][e]
 
 [msg KANJI_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7329]斡Abran la caja del tesoro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7329]斡Abran la cofre del tesoro![n][f 1 6 65535][e]
 
 [msg KANJI_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7330]夷Eso te parece un poco sospechoso?[n][f 1 6 65535][e]

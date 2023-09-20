@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55311]Por fin, has localizado las escaleras.[n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55336]Eso parece ser una caja de tesoros. 夷Planeas[n]abrirla, espero?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55336]Eso parece ser una cofre del tesoro. 夷Planeas[n]abrirla, espero?[n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55337]Una caja de tesoros. 夷Qu姻 podr胤a estar dentro,[n]me pregunto?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55337]Una cofre del tesoro. 夷Qu姻 podr胤a estar dentro,[n]me pregunto?[n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55338]Espero que encuentres algo que valga la pena[n]en esa caja del tesoro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55338]Espero que encuentres algo que valga la pena[n]en esa cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg MARGARET_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55339]Puede que muy bien desee echar un vistazo[n]m茨s cerca all胤.[n][f 1 6 65535][e]

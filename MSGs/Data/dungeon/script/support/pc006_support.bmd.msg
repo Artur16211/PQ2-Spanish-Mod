@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6335]斡He visto algunas escaleras! 夷Deber胤amos[n]revisarlos?[n][f 1 6 65535][e]
 
 [msg RISE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6336]斡Es una caja de tesoros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6336]斡Es una cofre del tesoro![n][f 1 6 65535][e]
 
 [msg RISE_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6337]斡Afortunada! 斡Veo una caja de tesoros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6337]斡Afortunada! 斡Veo una cofre del tesoro![n][f 1 6 65535][e]
 
 [msg RISE_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6338]斡Una caja de tesoros! Imagina lo que podr胤a[n]estar dentro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6338]斡Una cofre del tesoro! Imagina lo que podr胤a[n]estar dentro.[n][f 1 6 65535][e]
 
 [msg RISE_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6339]Hay algo por delante.[n][f 1 6 65535][e]

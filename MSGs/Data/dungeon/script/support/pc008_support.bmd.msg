@@ -59,13 +59,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8326]Lo logramos... Sigamos.[n][f 1 6 65535][e]
 
 [msg NAOTO_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 8327]Veo una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 8327]Veo una cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg NAOTO_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 8328]Una caja de tesoros. 夷Qu姻 crees que hay[n]dentro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 8328]Una cofre del tesoro. 夷Qu姻 crees que hay[n]dentro?[n][f 1 6 65535][e]
 
 [msg NAOTO_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 8329]Una caja de tesoros... 夷Lo abrimos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 8329]Una cofre del tesoro... 夷Lo abrimos?[n][f 1 6 65535][e]
 
 [msg NAOTO_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8330]Siento que hay algo por aqu胤...[n][f 1 6 65535][e]

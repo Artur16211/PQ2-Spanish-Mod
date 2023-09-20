@@ -125,19 +125,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59335]Parece que hay escaleras por delante.[n][f 1 6 65535][e]
 
 [msg CAROLIN_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58336]斡Una caja de tesoros! 斡Deprisa y 茨brela![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58336]斡Una cofre del tesoro! 斡Deprisa y 茨brela![n][f 1 6 65535][e]
 
 [msg JUSTINE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59336]Debe ser una caja de tesoros.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59336]Debe ser una cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg CAROLIN_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58337]夷Es una caja de tesoros?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58337]夷Es una cofre del tesoro?[n][f 1 6 65535][e]
 
 [msg JUSTINE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59337]Qu姻 suerte. Has tropezado con una caja de[n]tesoros.[n][f 1 6 65535][e]
 
 [msg CAROLIN_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58338]斡Una caja de tesoros! 夷No lo vas a conseguir?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58338]斡Una cofre del tesoro! 夷No lo vas a conseguir?[n][f 1 6 65535][e]
 
 [msg JUSTINE_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59338]Eso debe ser lo que otros llaman tesoro.[n][f 1 6 65535][e]

@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9326]斡Creo que nos llevar茨n al siguiente piso![n][f 1 6 65535][e]
 
 [msg KUMA_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9327]斡Hehe! 斡Una caja de tesoros! Apuesto a que[n]hay algo bueno dentro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9327]斡Hehe! 斡Una cofre del tesoro! Apuesto a que[n]hay algo bueno dentro.[n][f 1 6 65535][e]
 
 [msg KUMA_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9328]斡Una caja de tesoros! 夷Es de la taquilla?[n]Estoy bromeando... 斡Hehe![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9328]斡Una cofre del tesoro! 夷Es de la taquilla?[n]Estoy bromeando... 斡Hehe![n][f 1 6 65535][e]
 
 [msg KUMA_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9329]斡Es una caja de tesoros! Ooh! Ooh! 夷Qu姻 hay[n]dentro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9329]斡Es una cofre del tesoro! Ooh! Ooh! 夷Qu姻 hay[n]dentro?[n][f 1 6 65535][e]
 
 [msg KUMA_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9330]*Sniff sniff* Algo es pescador aqu胤...[n][f 1 6 65535][e]

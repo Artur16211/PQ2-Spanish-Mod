@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19326]Creo que podemos seguir adelante.[n][f 1 6 65535][e]
 
 [msg P3_HERO2_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19327]斡Mira! 斡Una caja de tesoros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19327]斡Mira! 斡Una cofre del tesoro![n][f 1 6 65535][e]
 
 [msg P3_HERO2_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19328]Hay una caja de tesoros. 斡Abran![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19328]Hay una cofre del tesoro. 斡Abran![n][f 1 6 65535][e]
 
 [msg P3_HERO2_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19329]Una caja de tesoros. 夷Qu姻 hay dentro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19329]Una cofre del tesoro. 夷Qu姻 hay dentro?[n][f 1 6 65535][e]
 
 [msg P3_HERO2_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19330]Algo sobre este 茨rea me est茨 molestando...[n][f 1 6 65535][e]
