@@ -1,4 +1,4 @@
-﻿[msg OKAERI_ERROR]
+[msg OKAERI_ERROR]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si esto sale, es un bug. 斡Reportalo, por[n]favor![n][f 1 6 65535][e]
 
 [msg town_okaeri_HIKARI_mes01]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 61204]斡Bienvenidos todos![n][f 1 6 65535][e]
 
 [msg town_okaeri_NAGI_mes01]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 64220]Todo el mundo, aseg雨rense de descansar lo[n]necesario.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 64220]Todos, aseg雨rense de descansar lo[n]necesario.[n][f 1 6 65535][e]
 
 [msg town_okaeri_NAGI_mes02]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 64221]Me alegra que est姻s a salvo.[n][f 1 6 65535][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9202]夷Y? 夷Fui genial o qu姻?[n][f 1 6 65535][e]
 
 [msg town_okaeri_YOUSUKE_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3202]Vamos a tomar un descanso, y volver a entrar[n]en 姻l![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3202]Vamos a tomar un descanso, y volver a entrar![n][f 1 6 65535][e]
 
 [msg town_okaeri_YUKARI_mes]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10202]Whew... Mis piernas me est茨n matando...[n][f 1 6 65535][e]
@@ -392,7 +392,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10206]夷No crees que necesitamos un poco m茨s de[n]espacio para objetos?[n][f 1 6 65535][e]
 
 [msg town_item_max_JUNPEI_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11206]Amigo, tu bolsa de art胤culos est茨 demasiado[n]llena![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11206]Amigo, 斡tu bolsa de art胤culos est茨 demasiado[n]llena![n][f 1 6 65535][e]
 
 [msg town_item_max_SANADA_mes]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12206]斡Tienes demasiadas cosas! 斡No hay sitio para[n]la prote胤na![n][f 1 6 65535][e]
@@ -404,7 +404,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14204]夷Tal vez deber胤as hacer un espacio en el[n]inventario?[n][f 1 6 65535][e]
 
 [msg town_item_max_AMADA_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16206]Espera. Creo que estamos llevando demasiado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16206]Espera, creo que estamos llevando demasiado.[n][f 1 6 65535][e]
 
 [msg town_item_max_ARAGAKI_me]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18206]夷De verdad tienes que llevar toda esa mierda?[n][f 1 6 65535][e]
@@ -500,7 +500,7 @@
 [f 0 5 65278][f 2 1]Creo que el m茨s cercano es Screen Shot en la[n]isla del puerto de Tatsumi.[n][f 1 2 165][e]
 
 [msg town_bg01_P3HERO2_mes02]
-[f 0 5 65278][f 2 1]Tienen un festival de cine en Screen Shot[n]para vacaciones de verano![n][f 1 2 130][e]
+[f 0 5 65278][f 2 1]斡Tienen un festival de cine en Screen Shot[n]para vacaciones de verano![n][f 1 2 130][e]
 
 [msg town_bg01_P3HERO2_mes03]
 [f 0 5 65278][f 2 1]斡Guau, vives en el segundo piso de un caf姻![n][f 1 2 120][e]
@@ -695,7 +695,7 @@
 [f 0 5 65278][f 2 1]Eso es... Tengo que arreglar esto, y...[n]Excelente. Mweheheh...[n][f 1 2 135][e]
 
 [msg town_bg06_RISE_mes01]
-[f 0 5 65278][f 2 1]Ahora que tambi姻n tenemos a Fuuka-chan,[n]斡estamos listos como apoyo![n][f 1 2 110][e]
+[f 0 5 65278][f 2 1]Ahora que tambi姻n tenemos a Fuuka,[n]斡estamos listos como apoyo![n][f 1 2 110][e]
 
 [msg town_bg06_RISE_mes02]
 [f 0 5 65278][f 2 1]Tenemos que compartir toda nuestra informaci吋n.[n]斡Aunque no parezca relevante![n][f 1 2 155][e]
@@ -719,13 +719,13 @@
 [f 0 5 65278][f 2 1]Ah胤 tienes... 斡Eres un chico tan listo,[n]Koromaru![n][f 1 2 90][e]
 
 [msg town_bg07_P3HERO2_mes02]
-[f 0 5 65278][f 2 1]斡Ahaha, eso hace cosquillas! 斡Caramba,[n]Koromaru![n][f 1 2 105][e]
+[f 0 5 65278][f 2 1]斡Ahaha, eso hace cosquillas! 斡Vaya,[n]Koromaru![n][f 1 2 105][e]
 
 [msg town_bg07_HARU_mes01]
 [f 0 5 65278][f 2 1]斡Koro es tan suave! 斡Y tan lindo![n][f 1 2 95][e]
 
 [msg town_bg07_HARU_mes02]
-[f 0 5 65278][f 2 1]Hee hee... Tu cola es esponjosa, Koro-chan.[n][f 1 2 95][e]
+[f 0 5 65278][f 2 1]Hee hee... Tu cola es esponjosa, Koro.[n][f 1 2 95][e]
 
 [msg town_bg07_YUKIKO_mes01]
 [f 0 5 65278][f 2 1]Kanetsugu, si姻ntate![n][f 1 2 45][e]
@@ -860,7 +860,7 @@
 [f 0 5 65278][f 2 1]S胤. Ponlo en tu cabeza, tira el gatillo y[n]斡bam! 斡Persona![n][f 1 2 155][e]
 
 [msg town_bg10_JUNPEI_mes02]
-[f 0 5 65278][f 2 1]Sigue siendo inquietante incluso cuando sabes que es un Evocador, 夷verdad? Yo también pienso lo mismo.[n][f 1 2 160][e]
+[f 0 5 65278][f 2 1]Sigue siendo inquietante incluso cuando sabes que es un Evocador, 夷verdad? Yo tambi姻n pienso lo mismo.[n][f 1 2 160][e]
 
 [msg town_bg10_AMADA_mes01]
 [f 0 5 65278][f 2 1]夷As胤 que eres detective, Akechi? 夷C吋mo te[n]conviertes en uno?[n][f 1 2 140][e]
