@@ -1,5 +1,8 @@
 # Persona Q2 Spanish Mod
 --------
+https://gamebanana.com/wips/78426
+
+--------
 Requirements
 --------
 Python 3.11.3
