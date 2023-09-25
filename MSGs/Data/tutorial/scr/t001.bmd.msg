@@ -7,5 +7,5 @@
 [f 0 5 65278][f 2 1][n]En [f 0 1 2]Comprar[f 0 1 0], puedes conseguir [f 0 1 2]objetos[f 0 1 0],[n][f 0 1 2]armas[f 0 1 0], [f 0 1 2]armaduras[f 0 1 0], y [f 0 1 2]accesorios[f 0 1 0].[n][f 1 1][e]
 [f 0 5 65278][f 2 1][n]En [f 0 1 2]Vender[f 0 1 0], puedes vender objetos y[n]equipamiento que no necesites, y[n]recibir algunos yenes por ellos.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][n]En [f 0 1 2]Organizar[f 0 1 0], puedes [f 0 1 2]almacenar[f 0 1 0] objetos que[n]no quieras vender, y [f 0 1 2]retirar[f 0 1 0][n]todo lo que hayas almacenado previamente.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]La tienda es un lugar imprescindible; !Asegurate de visitarla cada vez que vayas al cine![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]La tienda es un lugar imprescindible; 斡Asegurate de visitarla cada vez que vayas al cine![n][f 1 1][e]
 

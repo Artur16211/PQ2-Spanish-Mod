@@ -1,5 +1,5 @@
 [msg CHIE_FOE_FOLLOW_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4300]斡Oh, Dios! 斡Nos han visto un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4300]斡Oh cielos! 斡Un FOE nos ha descubierto![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_FOLLOW_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4301]斡Errg! 斡Un FOE![n][f 1 6 65535][e]
@@ -8,16 +8,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4302]斡El FOE se dirige hacia aqu胤![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4303]斡Eso est茨 demasiado cerca para mi comodidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4303]斡Eso est茨 demasiado cerca![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4304]斡Whoa! 斡Un FOE![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4305]斡Vaya, hay un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4305]斡Oh no, hay un FOE![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4306]斡Parece que logramos despistarle![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4306]斡Parece que lo despistamos![n][f 1 6 65535][e]
 
 [msg CHIE_FOE_FOLLOW_END_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4307]Uf... Estamos bien ahora.[n][f 1 6 65535][e]
@@ -26,13 +26,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4308]斡Parece que nos escapamos del FOE![n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4369]Voy a necesitar medicamentos para el coraz吋n[n]antes de que esto termine...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4369]Voy a necesitar medicaci吋n para el coraz吋n antes de que todo esto termine...[n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4370]Cuidado... Despacio...[n][f 1 6 65535][e]
 
 [msg CHIE_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4371]No estoy de humor para ser descubierto y perseguido, 夷bien?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4371]No estoy de humor para ser descubierta y perseguida, 夷bien?[n][f 1 6 65535][e]
 
 [msg CHIE_DENKISAKU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4372]Ser胤a tonto tocar eso.[n][f 1 6 65535][e]
@@ -65,10 +65,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4327]斡Veo una cofre del tesoro![n][f 1 6 65535][e]
 
 [msg CHIE_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4328]斡Una cofre del tesoro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4328]斡Un cofre del tesoro![n][f 1 6 65535][e]
 
 [msg CHIE_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4329]斡Una cofre del tesoro! 斡Qu姻 gran hallazgo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4329]斡Un cofre del tesoro! 斡Qu姻 gran hallazgo![n][f 1 6 65535][e]
 
 [msg CHIE_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4330]Oye, 夷no hay algo ah胤?[n][f 1 6 65535][e]
