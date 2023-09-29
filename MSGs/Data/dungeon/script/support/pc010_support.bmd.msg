@@ -134,10 +134,10 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16312]*pantal吋n pantal吋n* Lo siento, 夷pero podemos parar?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16312]*jadeo* Lo siento, 夷pero podemos parar?[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16313]*jadeo* *pantal吋n* Estar姻 bien. No soy un cobarde.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16313]*jadeo* *jadeo* Estar姻 bien. No soy un cobarde.[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16314]Esto no es nada. Podr胤a seguir todo el d胤a.[n][f 1 6 65535][e]
