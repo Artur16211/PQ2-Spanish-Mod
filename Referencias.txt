@@ -7,6 +7,7 @@ Velvet Room -> Habitación Terciopelo
 Lv -> Nv
 Teasure Spot -> Punto de Tesoro
 Boost -> Boost 
+Binds -> Ataduras
 
 HP -> PS
 SP -> PE
