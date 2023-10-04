@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_001]
-[f 0 5 65278][f 2 1]Ataque F胤sico con arma equipada.[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico con el arma equipada.[n][e]
 
 [msg skill_002]
 [f 0 5 65278][f 2 1]Ataque de Fuego Ligero.[n](1 Enemigo)[n][e]
