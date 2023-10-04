@@ -1,20 +1,20 @@
-﻿[msg MSG_BTL_TUTORIAL_843_ENC]
+[msg MSG_BTL_TUTORIAL_843_ENC]
 [f 0 5 65278][f 2 1]Reservado[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_101]
-[f 0 5 65278][f 2 1]"Team Convert" Has ganado la capacidad de[n]cambiar tu equipo en medio del combate. Presione el bot吋n Y en la pantalla CONVERT para realizar esta acci吋n, conocida como [f 0 1 2][n][n][n]Team Convert[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]"Conversi吋n de Equipo"[n]Has adquirido la capacidad de cambiar tu[n]equipo en medio del combate. Presiona el bot吋n Y[n]en la pantalla de CONVERSI遺N para realizar[n]esta acci吋n, conocida como [f 0 1 2]Conversi吋n de Equipo[f 0 1 0].[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_102]
-[f 0 5 65278][f 2 1]"Team Convert" Despu姻s de iniciar Team Convert,[n]el equipo actual utilizar茨 cada uno[n]de sus turnos para defender hasta que[n]llegue el otro equipo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]"Conversi吋n de Equipo"[n]Despu姻s de iniciar la Conversi吋n de Equipo, el[n]equipo actual utilizar茨 sus turnos para defenderse[n]hasta que llegue el otro equipo.[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_103]
-[f 0 5 65278][f 2 1]"Team Convert" Los enemigos todav胤a podr茨n[n]actuar durante este tiempo, pero la llegada[n]del nuevo equipo podr胤a cancelar tales[n]acciones.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]"Conversi吋n de Equipo"[n]Los enemigos todav胤a podr茨n actuar durante[n]este tiempo, pero la llegada del nuevo equipo[n]podr胤a cancelar tales acciones.[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_104]
-[f 0 5 65278][f 2 1]Usando Team Convert no causar茨 ninguna Sombra[n]que sea derribada para recuperar m茨s[n]r茨pido de lo que normalmente har胤an.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Usar la Conversi吋n de Equipo no har茨 que las Sombras[n]que est茨n derribadas se recuperen m茨s r茨pido de lo[n]que lo har胤an normalmente.[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_105]
-[f 0 5 65278][f 2 1]Ve por todo. Ataques intercambiando equipos[n]que ser胤an ideales para luchar contra[n]las sombras particulares contra las que te[n]enfrentas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Ve a por los Ataques Combinados intercambiando equipos[n]que sean ideales para enfrentar a las Sombras[n]particulares contra las que te enfrentas.[n][f 1 1][e]
 
 [msg MSG_BTL_TUTORIAL_843_HP_]
 [f 0 5 65278][f 2 1]Reservado[n][f 1 1][e]

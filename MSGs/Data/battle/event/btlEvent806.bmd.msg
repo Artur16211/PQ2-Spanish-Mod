@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 8][f 3 1 3 0 0 410]S胤, ese parece ser su punto d姻bil.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 1 7][f 3 1 3 0 0 411]En ese caso, lo 雨nico que tenemos que hacer es darle una paliza a sus ojos[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 1 7][f 3 1 3 0 0 411]En ese caso, lo 雨nico que tenemos que hacer es darle una paliza a sus ojos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 1 8][f 3 1 3 0 0 412][f 6 1 2 0 0 6]Entendido. 斡Terminaremos esto![n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 0][f 3 1 3 0 0 418][f 6 1 2 0 0 6]斡A-Aqu胤 viene, cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 2 1 1][f 3 1 3 0 0 419][f 6 1 2 0 0 0]斡Ah, mi cuerpo es...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 2 1 1][f 3 1 3 0 0 419][f 6 1 2 0 0 0]斡Ah, mi cuerpo se...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 4 1 0][f 3 1 3 0 0 420][f 6 1 2 0 0 0]斡No puedo... moverme?[n][f 1 3 65535][f 1 1][e]
