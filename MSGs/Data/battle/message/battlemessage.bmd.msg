@@ -422,25 +422,25 @@
 [f 0 5 65278][f 2 1]¡Anuló el aumento de velocidad de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_HITRATIO_UP]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s accuracy buff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló el aumento de precisión de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_AVOID_UPC]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s evasion buff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló el aumento de evasión de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_ATTACK_DOWN]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s attack debuff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló la disminución de ataque de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_DOW]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s defense debuff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló la disminución de defensa de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_SPEED_DOWNC]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s speed debuff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló la disminución de velocidad de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_HITRATIO_DO]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s accuracy debuff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló la disminución de precisión de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_AVOID_DOWNC]
-[f 0 5 65278][f 2 1]Nullified [f 2 4 1]'s evasion debuff![n][e]
+[f 0 5 65278][f 2 1]¡Anuló la disminución de evasión de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_ATTACK_UP]
 [f 0 5 65278][f 2 1][f 2 4 1]'s attack power increased![n][e]
