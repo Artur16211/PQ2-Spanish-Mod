@@ -2,22 +2,22 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4300]I won't lose, because we can't lose now![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4300]No perder姻, 斡porque no podemos perder ahora![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4301]＜声のみ＞よぉーし！[n]やってやるかんね！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4302]Whoa! An FOE! I say escape![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4302]斡Wow! 斡Un FOE! 斡Digo que escapemos![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4303]＜声のみ＞ひえ…！[n]ささっと撤退しよ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4304]We WILL win! Let's give 'em a thrashing![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4304]斡GANAREMOS! 斡Demosles una paliza![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4305]Rare meat! I mean... a rare Shadow![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4305]斡Carne rara! Quiero decir... 斡una Sombra rara![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4306]＜声のみ＞待て待て待てー！[n]逃がさーん！[n][f 1 6 65535][e]
@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4312]＜声のみ＞ありがと、風花ちゃん！[n]了解したぞよ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4320]Eeep! This is gonna be a tough one![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4320]斡Eeep! 斡Este va a ser dif胤cil![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_012]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4321]＜声のみ＞どーん、とぶっ飛ばしちゃう？[n]って、調子にのるとヤバいかも…[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4322]Oh! We've never seen that one before.[n]Should we try to learn its weakness?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4322]斡Oh! Nunca hemos visto a ese antes. 夷Deber胤amos aprender su debilidad?[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4323]＜声のみ＞おっけー！[n]やってやろ！[n][f 1 6 65535][e]
@@ -50,13 +50,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4325]＜声のみ＞りょーかい！[n]いっくぞー！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_017]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4326]This is gonna be no trouble at all![n]I bet we won't break a sweat.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4326]Esto no ser茨 ning雨n problema. Apuesto a que ni siquiera sudaremos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_018]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4327]＜声のみ＞アチョー！　アチャチャチャチャ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4328]Wha―!? The Shadow changed...?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4328]夷斡Qu姻...!? 夷La Sombra cambi吋...?[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4329]＜声のみ＞えええええ！？[n]マジっすか！？[n][f 1 6 65535][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4330]＜声のみ＞ちょっ、こらーっ！[n]なに来てんだっつの！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_022]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4331]Aw geez... This isn't good![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4331]Oh, vaya... 斡Esto no es bueno![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_023]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4332]＜声のみ＞これ…かなりヤバイ気がする…[n][f 1 6 65535][e]
@@ -158,19 +158,19 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4340]＜声のみ＞ぜーんぶ、まとめて[n]ぶっとばしちゃうからね！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_053]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4341]Hwataaa! I'm gonna kick 'em all in the[n]face![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4341]斡Hwataaa! 斡Voy a patearlos a todos en la cara![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_054]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4342]＜声のみ＞ふっふっふ！[n]ドンドンこいっての！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_055]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4343]Let's use its weakness against it, guys![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4343]斡Usemos su debilidad en su contra, chicos![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_056]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4344]Should the baton be passed!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4344]夷斡Hay que pasar usar relevo!?[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_057]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4345]Oh, me, me! Chie Satonaka, ready![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4345]斡Oh, yo, yo! 斡Chie Satonaka, lista![n][f 1 6 65535][e]
 
 [msg BTL_MES_004_058]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4501]＜声のみ＞その漢気、見せてみよ！[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 4528]＜声のみ＞いいぞー！[n]クロウ、やっちゃえー！[n][f 1 6 65535][e]
 
 [msg BTL_MES_004_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 4430]Hwa-cha! I'm not the same Chie as[n]before! Get a load of me now![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 4430]斡Hwa-cha! 斡No soy la misma Chie de antes! 斡M胤rame ahora![n][f 1 6 65535][e]
 
