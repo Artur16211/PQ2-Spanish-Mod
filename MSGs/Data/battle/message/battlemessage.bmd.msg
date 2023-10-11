@@ -443,340 +443,340 @@
 [f 0 5 65278][f 2 1]¡Anuló la disminución de evasión de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_ATTACK_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attack power increased![n][e]
+[f 0 5 65278][f 2 1]¡El poder de ataque de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]'s defense increased![n][e]
+[f 0 5 65278][f 2 1]¡La defensa de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_SPEED_UP]
-[f 0 5 65278][f 2 1][f 2 4 1] can now act first![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] puede actuar primero![n][e]
 
 [msg BTLMSGID_REF_HITRATIO_UP_2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s accuracy increased![n][e]
+[f 0 5 65278][f 2 1]¡La precisión de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_AVOID_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]'s evasion increased![n][e]
+[f 0 5 65278][f 2 1]¡La evasión de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTACK_DOWN_2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attack power decreased![n][e]
+[f 0 5 65278][f 2 1]¡El poder de ataque de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_DOW_2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s defense decreased![n][e]
+[f 0 5 65278][f 2 1]¡La defensa de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_SPEED_DOWN]
-[f 0 5 65278][f 2 1][f 2 4 1] delayed their action on purpose![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] retrasó su acción a propósito![n][e]
 
 [msg BTLMSGID_REF_HITRATIO_DO_2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s accuracy and evasion decreased![n][e]
+[f 0 5 65278][f 2 1]¡La precisión y la evasión de [f 2 4 1] disminuyeron![n][e]
 
 [msg BTLMSGID_REF_AVOID_DOWN]
-[f 0 5 65278][f 2 1][f 2 4 1]'s evasion decreased![n][e]
+[f 0 5 65278][f 2 1]¡La evasión de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_ATTR_WEPUP_]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attacks are now fire-based![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques de [f 2 4 1] son ahora de tipo fuego![n][e]
 
 [msg BTLMSGID_REF_ATTR_WEPUP__2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attacks are now ice-based![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques de [f 2 4 1] son ahora de tipo hielo![n][e]
 
 [msg BTLMSGID_REF_ATTR_WEPUP__3]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attacks are now elec-based![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques de [f 2 4 1] son ahora de tipo eléctrico![n][e]
 
 [msg BTLMSGID_REF_H_UP]
-[f 0 5 65278][f 2 1][f 2 4 1] is now a more inviting target for enemies![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ahora es más atractivo para los enemigos![n][e]
 
 [msg BTLMSGID_REF_H_DOWN]
-[f 0 5 65278][f 2 1][f 2 4 1] is now a less appealing target for enemies![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ahora es menos atractivo para los enemigos![n][e]
 
 [msg BTLMSGID_REF_STNONE]
-[f 0 5 65278][f 2 1][f 2 4 1] is not affected by status ailments now![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] no se verá afectado por los estados alterados![n][e]
 
 [msg BTLMSGID_REF_HP_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]'s maximum HP has increased temporarily![n][e]
+[f 0 5 65278][f 2 1]¡Los PS máximos de [f 2 4 1] ha aumentado temporalmente![n][e]
 
 [msg BTLMSGID_REF_DEV_GUARD]
-[f 0 5 65278][f 2 1]Divine Guard message[n][e]
+[f 0 5 65278][f 2 1]Mensaje de Guardia Divina[n][e]
 
 [msg BTLMSGID_REF_OVERGUARD]
-[f 0 5 65278][f 2 1]Over guard message[n][e]
+[f 0 5 65278][f 2 1]Mensaje de Guardia Excesiva[n][e]
 
 [msg BTLMSGID_TRNS_WAIT]
-[f 0 5 65278][f 2 1]Please wait...[n][e]
+[f 0 5 65278][f 2 1]Por favor, espera...[n][e]
 
 [msg BTLMSGID_TRNS_CMNDSELECT]
-[f 0 5 65278][f 2 1][f 2 4 0] dodged gracefully![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] esquivo con elegancia![n][e]
 
 [msg BTLMSGID_TRNS_CMNDWAIT]
-[f 0 5 65278][f 2 1]Please wait while another player[n]inputs commands.[n][e]
+[f 0 5 65278][f 2 1]Por favor, espera mientras otro jugador introduce comandos.[n][e]
 
 [msg BTLMSGID_ES_ACT_COUNTER]
-[f 0 5 65278][f 2 1][f 2 4 1] stands ready![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] está listo![n][e]
 
 [msg BTLMSGID_ES_THROW]
-[f 0 5 65278][f 2 1][f 2 4 0] throws [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] lanza a [f 2 4 1]![n][e]
 
 [msg BTLMSGID_ES_PATIENCE]
-[f 0 5 65278][f 2 1][f 2 4 1] is enduring it![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] lo está resistiendo![n][e]
 
 [msg BTLMSGID_ES_PATIENCE_ACT]
-[f 0 5 65278][f 2 1][f 2 4 1]'s endurance explodes![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia de [f 2 4 1] explota![n][e]
 
 [msg BTLMSGID_DEADACTION]
-[f 0 5 65278][f 2 1]With the last of its strength, [f 2 4 0] uses [f 2 4 3]![n][e]
+[f 0 5 65278][f 2 1]¡Con sus últimas fuerzas, [f 2 4 0] usa [f 2 4 3]![n][e]
 
 [msg BTLMSGID_DEADACTION_18E]
-[f 0 5 65278][f 2 1]With the last of its strength, [f 2 4 0] raises [f 2 4 3]![n][e]
+[f 0 5 65278][f 2 1]¡Con sus últimas fuerzas, [f 2 4 0] levanta [f 2 4 3]![n][e]
 
 [msg BTLMSGID_RARE_DASH]
-[f 0 5 65278][f 2 1][f 2 4 0]'s glow intensifies![n][e]
+[f 0 5 65278][f 2 1]¡La luminosidad de [f 2 4 0] se intensifica![n][e]
 
 [msg BTLMSGID_ATTRUP_1]
-[f 0 5 65278][f 2 1][f 2 4 0]'s resistance increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia de [f 2 4 0] aumentó![n][e]
 
 [msg BTLMSGID_ATTRUP_3]
-[f 0 5 65278][f 2 1][f 2 4 0]'s, [f 2 4 1]'s, ＆ [f 2 4 2]'s resistance up![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia de [f 2 4 0], [f 2 4 1] y [f 2 4 2] aumentó![n][e]
 
 [msg BTLMSGID_ATTRUP_ALL]
-[f 0 5 65278][f 2 1]All resistances increased![n][e]
+[f 0 5 65278][f 2 1]¡Todas las resistencias aumentaron![n][e]
 
 [msg BTLMSGID_ES_CHANGE]
-[f 0 5 65278][f 2 1][f 2 4 0]'s tentacle catches [f 2 4 1] ＆ [f 2 4 2]![n][e]
+[f 0 5 65278][f 2 1]¡El tentáculo de [f 2 4 0] atrapa a [f 2 4 1] y [f 2 4 2]![n][e]
 
 [msg BTLMSGID_ABSORB_HP]
-[f 0 5 65278][f 2 1][f 2 4 1] absorbs [f 2 4 2] damage![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] absorbe el daño de [f 2 4 2]![n][e]
 
 [msg BTLMSGID_DEADACTION_18B]
-[f 0 5 65278][f 2 1][f 2 4 0] has exploded![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] ha explotado![n][e]
 
 [msg BTLMSGID_FANNEL_1]
-[f 0 5 65278][f 2 1][f 2 4 1] releases a fire module![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] libera un módulo de fuego![n][e]
 
 [msg BTLMSGID_FANNEL_2]
-[f 0 5 65278][f 2 1][f 2 4 1] releases an ice module![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] libera un módulo de hielo![n][e]
 
 [msg BTLMSGID_FANNEL_3]
-[f 0 5 65278][f 2 1][f 2 4 1] releases a volt module![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] libera un módulo eléctrico![n][e]
 
 [msg BTLMSGID_UNITDEAD_FNL]
-[f 0 5 65278][f 2 1][f 2 4 1] has stopped moving![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ha dejado de moverse![n][e]
 
 [msg BTLMSGID_K_FANNEL]
-[f 0 5 65278][f 2 1][f 2 4 1] reacts![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] reacciona![n][e]
 
 [msg BTLMSGID_BOOT_F]
-[f 0 5 65278][f 2 1][f 2 4 3] activates![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 3] se activa![n][e]
 
 [msg BTLMSGID_SNIPER]
-[f 0 5 65278][f 2 1][f 2 4 0] aims carefully![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] apunta con cuidado![n][e]
 
 [msg BTLMSGID_SNIPER_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0] lowers the weapon![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] baja el arma![n][e]
 
 [msg BTLMSGID_BEASTCOUNTER_0]
-[f 0 5 65278][f 2 1][f 2 4 1] stands ready![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] está listo![n][e]
 
 [msg BTLMSGID_BEAST_A4_0]
-[f 0 5 65278][f 2 1][f 2 4 0] growls... and attacks![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] gruñe... y ataca![n][e]
 
 [msg BTLMSGID_BEAST_A5_0]
-[f 0 5 65278][f 2 1][f 2 4 0] is sleeping![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está durmiendo![n][e]
 
 [msg BTLMSGID_E_KAISH_BOOT]
-[f 0 5 65278][f 2 1][f 2 4 0] swings its scythe and attacks![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] balancea su guadaña y ataca![n][e]
 
 [msg BTLMSGID_BEAST_A1_0]
-[f 0 5 65278][f 2 1][f 2 4 0]'s arm regenerates![n][e]
+[f 0 5 65278][f 2 1]¡El brazo de [f 2 4 0] se regenera![n][e]
 
 [msg BTLMSGID_BEAST_A1_1]
-[f 0 5 65278][f 2 1][f 2 4 0] is staring off into space![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está mirando al vacío![n][e]
 
 [msg BTLMSGID_BEAST_A1_2]
-[f 0 5 65278][f 2 1][f 2 4 0] is cleaning itself![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se está limpiando a sí mismo![n][e]
 
 [msg BTLMSGID_TARGET_6BOSS_AR]
-[f 0 5 65278][f 2 1]Savior's Tentacle[n][e]
+[f 0 5 65278][f 2 1]Tentáculo del Salvador[n][e]
 
 [msg BTLMSGID_TRANS_ERROR_END]
-[f 0 5 65278][f 2 1]A communication error has occurred.[n]Please wait...[n][e]
+[f 0 5 65278][f 2 1]Se ha producido un error de comunicación. Por favor, espere...[n][e]
 
 [msg BTLMSGID_DEADSTONE]
-[f 0 5 65278][f 2 1][f 2 4 1] has been petrified![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ha sido petrificado![n][e]
 
 [msg BTLMSGID_STOPBST]
-[f 0 5 65278][f 2 1]The ailment by [f 2 4 1] was nullified![n][e]
+[f 0 5 65278][f 2 1]¡El estado alterado de [f 2 4 1] fue anulado![n][e]
 
 [msg BTLMSGID_STOPSEAL]
-[f 0 5 65278][f 2 1]The Bind by [f 2 4 1] was nullified![n][e]
+[f 0 5 65278][f 2 1]¡La atadura de [f 2 4 1] fue anulada![n][e]
 
 [msg BTLMSGID_WEAKDAMAGE]
-[f 0 5 65278][f 2 1][f 2 4 1]'s weakness triggers Runic Guidance![n][e]
+[f 0 5 65278][f 2 1]¡La debilidad de [f 2 4 1] activa la Guía Rúnica![n][e]
 
 [msg BTLMSGID_MURAMASA]
-[f 0 5 65278][f 2 1][f 2 4 0]'s eyes are turning bloodshot![n][e]
+[f 0 5 65278][f 2 1]¡Los ojos de [f 2 4 0] se están enrojeciendo![n][e]
 
 [msg BTLMSGID_ROCKETJUMPMISS]
-[f 0 5 65278][f 2 1]But it doesn't reach [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1]¡Pero no alcanza a [f 2 4 1]![n][e]
 
 [msg BTLMSGID_SARUTOBI]
-[f 0 5 65278][f 2 1][f 2 4 1] dodged gracefully![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] esquivo con elegancia![n][e]
 
 [msg BTLMSGID_BOSS_1]
-[f 0 5 65278][f 2 1][f 2 4 0] seems to be closing its eyes...[n][e]
+[f 0 5 65278][f 2 1]Parece que [f 2 4 0] está cerrando los ojos...[n][e]
 
 [msg BTLMSGID_BS1_SPWATSTAN]
-[f 0 5 65278][f 2 1][f 2 4 1] flinches![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se estremece![n][e]
 
 [msg BTLMSGID_BS1_STANMSG]
-[f 0 5 65278][f 2 1][f 2 4 0] cannot move![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] no puede moverse![n][e]
 
 [msg BTLMSGID_AP_5LASTBOSS]
-[f 0 5 65278][f 2 1]You stand before the Heavenbringer![n][e]
+[f 0 5 65278][f 2 1]¡Te encuentras frente al Portador del Cielo![n][e]
 
 [msg BTLMSGID_TARGET_5LASTBOS]
-[f 0 5 65278][f 2 1]Heavenbringer[n][e]
+[f 0 5 65278][f 2 1]Portador del Cielo[n][e]
 
 [msg BTLMSGID_TARGET_6LASTBOS]
-[f 0 5 65278][f 2 1]Warped Savior[n][e]
+[f 0 5 65278][f 2 1]Salvador Corrompido[n][e]
 
 [msg BTLMSGID_H_KUISHIBARI]
-[f 0 5 65278][f 2 1][f 2 4 1] has become resilient against mortal blows![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se ha vuelto resistente contra los golpes mortales![n][e]
 
 [msg BTLMSGID_OOMIE]
-[f 0 5 65278][f 2 1][f 2 4 1] strikes a pose![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] hace una pose![n][e]
 
 [msg BTLMSGID_NONBST]
-[f 0 5 65278][f 2 1][f 2 4 1] is now protected from ailments and Binds![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] está protegido de Estados alterados y Ataduras![n][e]
 
 [msg BTLMSGID_NONSEAL]
-[f 0 5 65278][f 2 1]Binds will not affect [f 2 4 1] now![n][e]
+[f 0 5 65278][f 2 1]Las Ataduras no afectarán ahora a [f 2 4 1].[n][e]
 
 [msg BTLMSGID_DENGUN]
-[f 0 5 65278][f 2 1][f 2 4 1] has been appointed the defensive captain![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ha sido nombrado el capitán defensivo![n][e]
 
 [msg BTLMSGID_DEADACTION_F18B]
-[f 0 5 65278][f 2 1][f 2 4 0] blew itself up![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se ha hecho explotar a sí mismo![n][e]
 
 [msg BTLMSGID_REF_ATTR_UP]
-[f 0 5 65278][f 2 1][f 2 4 1]'s [f 2 4 2] resistance has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia de [f 2 4 2] de [f 2 4 1] ha aumentado![n][e]
 
 [msg BTLMSGID_E_MEGAZA_HEAL]
-[f 0 5 65278][f 2 1][f 2 4 3] scatters from [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 3] se dispersa de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_E_KAISHAKU]
-[f 0 5 65278][f 2 1][f 2 4 0] preys on [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] acecha a [f 2 4 1]![n][e]
 
 [msg BTLMSGID_E_DEADSUMMON]
-[f 0 5 65278][f 2 1][f 2 4 0] grew gigantic![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se volvió gigantesco![n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_00]
-[f 0 5 65278][f 2 1][f 2 4 0] begins wriggling around...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] comienza a retorcerse...[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_01]
-[f 0 5 65278][f 2 1][f 2 4 0] lowers its hand...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] baja su mano...[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_02]
-[f 0 5 65278][f 2 1][f 2 4 0]'s strength is bound![n][e]
+[f 0 5 65278][f 2 1]¡La fuerza de [f 2 4 0] está atada![n][e]
 
 [msg BTLMSGID_BS_LASTBOSS_ARM]
-[f 0 5 65278][f 2 1]Tentacles come out of [f 2 4 0]'s wound![n][e]
+[f 0 5 65278][f 2 1]¡Salen Tentáculos de la herida de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_BS_LASTBOSS_ARM_2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s tentacle has resurrected![n][e]
+[f 0 5 65278][f 2 1]¡El tentáculo de [f 2 4 1] ha resucitado![n][e]
 
 [msg BTLMSGID_E_TAMAGO_MSG_00]
-[f 0 5 65278][f 2 1][f 2 4 0] is charging up![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se está cargando![n][e]
 
 [msg BTLMSGID_REF_ATTR_UP_ALL]
-[f 0 5 65278][f 2 1]Everyone's [f 2 4 2] resistance has increased![n][e]
+[f 0 5 65278][f 2 1]La resistencia [f 2 4 2] de todos ha aumentado.[n][e]
 
 [msg BTLMSGID_KAITAISHINSHO]
 [f 0 5 65278][f 2 1]The drop rate has increased![n][e]
 
 [msg BTLMSGID_E_SHOMO]
-[f 0 5 65278][f 2 1]The SP cost of your next action will be doubled![n][e]
+[f 0 5 65278][f 2 1]El costo de PE en tu próxima acción se duplicará.[n][e]
 
 [msg BTLMSGID_E_KYOMU]
-[f 0 5 65278][f 2 1]The Burst Gauge has been drained![n][e]
+[f 0 5 65278][f 2 1]¡El medidor de explosiones se ha vaciado![n][e]
 
 [msg BTLMSGID_REF_ATTR_DOWN]
-[f 0 5 65278][f 2 1][f 2 4 1]'s [f 2 4 2] resistance decreased![n][e]
+[f 0 5 65278][f 2 1]La resistencia [f 2 4 1] de [f 2 4 2] disminuyó.[n][e]
 
 [msg BTLMSGID_BS_CHANGE_ATK]
-[f 0 5 65278][f 2 1][f 2 4 0]'s eye opens![n][e]
+[f 0 5 65278][f 2 1]¡El ojo de [f 2 4 0] se abre![n][e]
 
 [msg BTLMSGID_BS_CHANGE_DEF]
-[f 0 5 65278][f 2 1][f 2 4 0]'s eye closes![n][e]
+[f 0 5 65278][f 2 1]¡El ojo de [f 2 4 0] se cierra![n][e]
 
 [msg BTLMSGID_LBS_MES_00]
-[f 0 5 65278][f 2 1]The ultimate life form bursts forth from its larval body...[n][e]
+[f 0 5 65278][f 2 1]La forma de vida definitiva emerge de su cuerpo larval...[n][e]
 
 [msg BTLMSGID_NONCOST]
-[f 0 5 65278][f 2 1][f 2 4 1] doesn't have enough SP to use the skill![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] no tiene suficiente PE para usar la habilidad![n][e]
 
 [msg BTLMSGID_FRONT_DEAD]
-[f 0 5 65278][f 2 1]The front and back lines switched positions![n][e]
+[f 0 5 65278][f 2 1]¡Las líneas delanteras y traseras intercambiaron posiciones![n][e]
 
 [msg BTLMSGID_ES_KEKKAI]
-[f 0 5 65278][f 2 1]The SP cost of your next actions will be doubled![n][e]
+[f 0 5 65278][f 2 1]¡El costo de PE de tus próximas acciones se duplicará![n][e]
 
 [msg BTLMSGID_ES_KITOU]
-[f 0 5 65278][f 2 1][f 2 4 1] is gathering power![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] está acumulando poder![n][e]
 
 [msg BTLMSGID_ES_ACT_CCOUNTER]
-[f 0 5 65278][f 2 1][f 2 4 1] is preparing for a follow-up attack![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se está preparando para un ataque de seguimiento![n][e]
 
 [msg BTLMSGID_SUMMON_CHICK]
-[f 0 5 65278][f 2 1][f 2 4 1] hatched from the [f 2 4 0]!　[n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] eclosionó del [f 2 4 0]![n][e]
 
 [msg BTLMSGID_LIMITMISS]
-[f 0 5 65278][f 2 1][f 2 4 0] couldn't cooperate![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] no pudo cooperar![n][e]
 
 [msg BTLMSGID_ACT_180_END]
-[f 0 5 65278][f 2 1]The power stored in the [f 2 4 0] is unleashed![n][e]
+[f 0 5 65278][f 2 1]¡El poder almacenado en él [f 2 4 0] se libera![n][e]
 
 [msg BTLMSGID_ACT_LBS_CHANGE]
-[f 0 5 65278][f 2 1]The indescribable god has awakened![n][e]
+[f 0 5 65278][f 2 1]¡El dios indescriptible ha despertado![n][e]
 
 [msg BTLMSGID_UROBORO_SHIELD]
-[f 0 5 65278][f 2 1]Party enveloped in a light that blocks enemy attacks![n][e]
+[f 0 5 65278][f 2 1]¡El grupo está envuelto en una luz que bloquea los ataques enemigos![n][e]
 
 [msg BTLMSGID_DISCHARGE_BH]
-[f 0 5 65278][f 2 1][f 2 4 0]'s fist releases a blinding light![n][e]
+[f 0 5 65278][f 2 1]¡El puño de [f 2 4 0] emite una luz deslumbrante![n][e]
 
 [msg BTLMSGID_PARTYDEAD_E_BR]
-[f 0 5 65278][f 2 1]You defeated the Abyssal King and Olympia![n][e]
+[f 0 5 65278][f 2 1]¡Has derrotado al Rey Abismal y a Olympia![n][e]
 
 [msg BTLMSGID_PARTYDEAD_E_GK]
-[f 0 5 65278][f 2 1]You defeated the Gatekeeper![n][e]
+[f 0 5 65278][f 2 1]¡Has derrotado al Guardián del Portal![n][e]
 
 [msg BTLMSGID_ES_CHANGE_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0] disentangles its twisted tentacles![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] desenreda sus retorcidos tentáculos![n][e]
 
 [msg BTLMSGID_E_MOVE_S]
-[f 0 5 65278][f 2 1][f 2 4 0] moves to a different line![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se mueve a una línea diferente![n][e]
 
 [msg BTLMSGID_E_MOVE_D]
-[f 0 5 65278][f 2 1]The [f 2 4 0] group moved to a different line![n][e]
+[f 0 5 65278][f 2 1]¡El grupo [f 2 4 0] se movió a una línea diferente![n][e]
 
 [msg BTLMSGID_E_MOVE_A]
-[f 0 5 65278][f 2 1]The Shadows alter their formation![n][e]
+[f 0 5 65278][f 2 1]¡Las Sombras alteran su formación![n][e]
 
 [msg BTLMSGID_BOOT_V]
-[f 0 5 65278][f 2 1]Pierce effect![n][e]
+[f 0 5 65278][f 2 1]¡Efecto de perforación![n][e]
 
 [msg BTLMSGID_BOOT_WIDE]
-[f 0 5 65278][f 2 1]Splash effect![n][e]
+[f 0 5 65278][f 2 1]¡Efecto de salpicadura![n][e]
 
 [msg BTLMSGID_RARE_ENCOUNT_D]
-[f 0 5 65278][f 2 1]There are rare breeds in the herd![n][e]
+[f 0 5 65278][f 2 1]¡Hay razas raras en la manada![n][e]
 
 [msg BTLMSGID_RARE_ENCOUNT_S]
-[f 0 5 65278][f 2 1]A rare breed of [f 2 4 0] has appeared![n][e]
+[f 0 5 65278][f 2 1]¡Ha aparecido una raza rara de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_ACT_CHARGE_BOSS]
-[f 0 5 65278][f 2 1][f 2 4 0] is building up strength![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está acumulando fuerza![n][e]
 
 [msg BTLMSGID_ST_BODYCHANGE]
-[f 0 5 65278][f 2 1]The enemy changed![n][e]
+[f 0 5 65278][f 2 1]¡El enemigo cambió![n][e]
 
 [msg BTLMSGID_ST_BODYCHANGE_E]
 [f 0 5 65278][f 2 1][f 2 4 1] changes its attack affinity![n][e]
