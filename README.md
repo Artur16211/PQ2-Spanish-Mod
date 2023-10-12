@@ -33,8 +33,8 @@ MSG Editor:
 https://github.com/Artur16211/MSG_Viewer
 --------
 
-Ejecuta el setn.py para colocar los [n] de forma que el texto quede dentro de los cuadros de diálogo y remplazar los caracteres especiales luego de realizar una edición.
+Ejecuta el <b>setn.py</b> para colocar los [n] de forma que el texto quede dentro de los cuadros de diálogo y remplazar los caracteres especiales luego de realizar una edición.
 
-Ejecuta CompileMSG.py para tener una version del mod listo para usar con Mod Compendium o Aemulus.<br>
+Ejecuta <b>CompileMSG.py</b> para tener una version del mod listo para usar con Mod Compendium o Aemulus.<br>
 https://github.com/tge-was-taken/Mod-Compendium/releases<br>
 https://github.com/TekkaGB/AemulusModManager/releases
