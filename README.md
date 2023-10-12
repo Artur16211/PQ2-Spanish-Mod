@@ -3,6 +3,18 @@
 https://gamebanana.com/wips/78426
 
 --------
+| Carpeta     | Progreso      | Notas     |
+| ------------- | ------------- | -------- |
+| battle          | 90%         | -  |
+| camp           | 100%         | -  |
+| dungeon           | 100%         | -  |
+| event           | 10%         | e000-100%/e100-50%  |
+| facility           | 90%         | -  |
+| init           | 60%         | Efectos traducidos  |
+| shared           | 100%         | -  |
+| tutorial           | 100%         | -  |
+
+--------
 Requirements
 --------
 Python 3.11.3
