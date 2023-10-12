@@ -779,334 +779,334 @@
 [f 0 5 65278][f 2 1]¡El enemigo cambió![n][e]
 
 [msg BTLMSGID_ST_BODYCHANGE_E]
-[f 0 5 65278][f 2 1][f 2 4 1] changes its attack affinity![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] cambio su afinidad![n][e]
 
 [msg BTLMSGID_KIJIN]
-[f 0 5 65278][f 2 1][f 2 4 0] is undergoing a Blood Surge![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está experimentando una Oleada de Sangre![n][e]
 
 [msg BTLMSGID_KIJIN_OFF]
-[f 0 5 65278][f 2 1][f 2 4 0] returns to normal.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] vuelve a la normalidad.[n][e]
 
 [msg BTLMSGID_KUISHIBARI2]
-[f 0 5 65278][f 2 1][f 2 4 0] endured the attack![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] resistió el ataque![n][e]
 
 [msg BTLMSGID_TPCUT]
-[f 0 5 65278][f 2 1]SP Focus activated![n][e]
+[f 0 5 65278][f 2 1]¡Enfoque de PE activado![n][e]
 
 [msg BTLMSGID_HOUJIN]
-[f 0 5 65278][f 2 1][f 2 4 0] laid down a [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] colocó un [f 2 4 1]![n][e]
 
 [msg BTLMSGID_HOUJIN_EFT]
-[f 0 5 65278][f 2 1]The [f 2 4 0] takes effect![n][e]
+[f 0 5 65278][f 2 1]¡El [f 2 4 0] surte efecto![n][e]
 
 [msg BTLMSGID_TRANSPARENT_ON]
-[f 0 5 65278][f 2 1][f 2 4 0] vanishes into the scenery![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se funde con el escenario![n][e]
 
 [msg BTLMSGID_TRANSPARENT_OFF]
-[f 0 5 65278][f 2 1][f 2 4 0] returns to normal![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] vuelve a la normalidad![n][e]
 
 [msg BTLMSGID_ICEACTSTOP]
-[f 0 5 65278][f 2 1]The [f 2 4 0] has frozen![n][e]
+[f 0 5 65278][f 2 1]¡El [f 2 4 0] se ha congelado![n][e]
 
 [msg BTLMSGID_ACTSTOPTURN]
-[f 0 5 65278][f 2 1]The [f 2 4 0] is frozen![n][e]
+[f 0 5 65278][f 2 1]¡El [f 2 4 0] está congelado![n][e]
 
 [msg BTLMSGID_LMT_103]
-[f 0 5 65278][f 2 1]The black mist around [f 2 4 0] engulfs the enemy![n][e]
+[f 0 5 65278][f 2 1]¡La niebla negra alrededor de [f 2 4 0] envuelve al enemigo![n][e]
 
 [msg BTLMSGID_3BS_URK_TAKEOFF]
-[f 0 5 65278][f 2 1]A scale flies off the [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡Una escama se desprende del [f 2 4 0]![n][e]
 
 [msg BTLMSGID_3BS_URK_ON]
-[f 0 5 65278][f 2 1]A [f 2 4 0] lodges itself in the ground![n][e]
+[f 0 5 65278][f 2 1]¡Un [f 2 4 0] se incrusta en el suelo![n][e]
 
 [msg BTLMSGID_3BS_URK_DEATH]
-[f 0 5 65278][f 2 1][f 2 4 1] shatters![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se quiebra![n][e]
 
 [msg BTLMSGID_FROG_JUMP]
-[f 0 5 65278][f 2 1]The Burst Gauge drained![n][e]
+[f 0 5 65278][f 2 1]¡La Barra de Explosión se ha vaciado![n][e]
 
 [msg BTLMSGID_OVERHEATON]
-[f 0 5 65278][f 2 1][f 2 4 0]'s drive blade overheats![n][e]
+[f 0 5 65278][f 2 1]¡La cuchilla motriz de [f 2 4 0] se recalienta![n][e]
 
 [msg BTLMSGID_OVERHEATOFF]
-[f 0 5 65278][f 2 1][f 2 4 0]'s drive blade cooled down![n][e]
+[f 0 5 65278][f 2 1]¡El filo del disco de la unidad [f 2 4 0] se sobrecalienta![n][e]
 
 [msg BTLMSGID_MSGWAIT1]
-[f 0 5 65278][f 2 1][f 2 4 0] has entered self-destruct mode![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] ha entrado en modo autodestrucción![n][e]
 
 [msg BTLMSGID_MSGWAIT2]
-[f 0 5 65278][f 2 1]2 turns until [f 2 4 0] self-destructs![n][e]
+[f 0 5 65278][f 2 1]¡Quedan 2 turnos hasta que [f 2 4 0] se autodestruya![n][e]
 
 [msg BTLMSGID_MSGWAIT3]
-[f 0 5 65278][f 2 1]1 turn until [f 2 4 0] self-destructs![n][e]
+[f 0 5 65278][f 2 1]¡1 turno hasta que [f 2 4 0] se autodestruya![n][e]
 
 [msg BTLMSGID_MSGWAIT4]
-[f 0 5 65278][f 2 1][f 2 4 0] is watching.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está observando.[n][e]
 
 [msg BTLMSGID_MSGWAIT5]
-[f 0 5 65278][f 2 1][f 2 4 0] is searching for a target.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está buscando un objetivo.[n][e]
 
 [msg BTLMSGID_BALLOON]
-[f 0 5 65278][f 2 1][f 2 4 0] greatly expands![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se expande enormemente![n][e]
 
 [msg BTLMSGID_ACT_CHARGE_BOSS_2]
-[f 0 5 65278][f 2 1][f 2 4 0] stops moving![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] dejo de moverse![n][e]
 
 [msg BTLMSGID_ACT_LION_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 0] is sleeping...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está durmiendo...[n][e]
 
 [msg BTLMSGID_REF_ATTACK_UP2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s magic attack increases![n][e]
+[f 0 5 65278][f 2 1]¡El ataque mágico de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_UP2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s magic defense increases![n][e]
+[f 0 5 65278][f 2 1]¡La defensa mágica de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTACK_UP3]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attack power increased![n][e]
+[f 0 5 65278][f 2 1]¡El poder de ataque de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_UP3]
-[f 0 5 65278][f 2 1][f 2 4 1]'s defense increased![n][e]
+[f 0 5 65278][f 2 1]¡La defensa de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTACK_DOWN_3]
-[f 0 5 65278][f 2 1][f 2 4 1]'s magic attack decreases![n][e]
+[f 0 5 65278][f 2 1]¡El ataque mágico de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_DOW_3]
-[f 0 5 65278][f 2 1][f 2 4 1]'s magic defense decreases![n][e]
+[f 0 5 65278][f 2 1]¡La defensa mágica de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_ATTACK_DOWN_4]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attack power decreased![n][e]
+[f 0 5 65278][f 2 1]¡El poder de ataque de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_DEFENCE_DOW_4]
-[f 0 5 65278][f 2 1][f 2 4 1]'s defense decreased![n][e]
+[f 0 5 65278][f 2 1]¡La defensa de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_COUNTER]
-[f 0 5 65278][f 2 1][f 2 4 1] stands ready![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] está listo![n][e]
 
 [msg BTLMSGID_REF_COUNTER_BOO]
-[f 0 5 65278][f 2 1][f 2 4 0] is engulfed in a wall of flame![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está envuelto en una pared de llamas![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_FIRE]
-[f 0 5 65278][f 2 1][f 2 4 1]'s fire resistance has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia al fuego de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_ICE]
-[f 0 5 65278][f 2 1][f 2 4 1]'s ice resistance has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia al hielo de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_THUN]
-[f 0 5 65278][f 2 1][f 2 4 1]'s electric resistance has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia eléctrica de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_BUTS]
-[f 0 5 65278][f 2 1][f 2 4 1]'s resistance to physical attacks has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia física de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_SHOC]
-[f 0 5 65278][f 2 1][f 2 4 1]'s resistance to Bash attacks has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a los golpes [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_THRU]
-[f 0 5 65278][f 2 1][f 2 4 1]'s resistance to Stab attacks has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a los apuñalamientos [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_FI]
-[f 0 5 65278][f 2 1][f 2 4 1]'s fire resistance has decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia al fuego de [f 2 4 1] ha disminuido![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_IC]
-[f 0 5 65278][f 2 1][f 2 4 1]'s ice resistance has decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia al hielo de [f 2 4 1] ha disminuido![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_TH]
-[f 0 5 65278][f 2 1][f 2 4 1]'s electric resistance has decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia eléctrica de [f 2 4 1] ha disminuido![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_BU]
-[f 0 5 65278][f 2 1][f 2 4 1]'s resistance to physical attacks has decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a los ataques físicos de [f 2 4 1] ha disminuido![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_SH]
-[f 0 5 65278][f 2 1][f 2 4 1]'s resistance to Bash attacks has decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a los golpes de [f 2 4 1] ha disminuido![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_TH_2]
-[f 0 5 65278][f 2 1][f 2 4 1]'s resistance to Stab attacks has decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a los apuñalamientos [f 2 4 1] ha disminuido![n][e]
 
 [msg BTLMSGID_REF_DANCE_COUNT]
-[f 0 5 65278][f 2 1][f 2 4 1] readies a counterattack![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se prepara para contraatacar![n][e]
 
 [msg BTLMSGID_REF_DANCE_CHASE]
-[f 0 5 65278][f 2 1][f 2 4 1] is preparing for a follow-up attack![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se está preparando para un Ataque de seguimiento![n][e]
 
 [msg BTLMSGID_REF_DANCE_LINEC]
-[f 0 5 65278][f 2 1][f 2 4 1]'s line readies a follow-up attack![n][e]
+[f 0 5 65278][f 2 1]¡La línea de [f 2 4 1] se prepara para un ataque de seguimiento![n][e]
 
 [msg BTLMSGID_REF_DANCE_HEAL]
-[f 0 5 65278][f 2 1]The recovery of [f 2 4 1]'s line is bolstered![n][e]
+[f 0 5 65278][f 2 1]¡La recuperación de la línea de [f 2 4 1] se fortalece![n][e]
 
 [msg BTLMSGID_REF_DANCE_ATK]
-[f 0 5 65278][f 2 1]Attack boosted for everyone in [f 2 4 1]'s line![n][e]
+[f 0 5 65278][f 2 1]¡El ataque se ha potenciado para todos en la línea de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_DANCE_DEF]
-[f 0 5 65278][f 2 1]Defense boosted for everyone in [f 2 4 1]'s line![n][e]
+[f 0 5 65278][f 2 1]¡La defensa se ha potenciado para todos en la línea de [f 2 4 1]![n][e]
 
 [msg BTLMSGID_REF_DANCE_EN]
-[f 0 5 65278][f 2 1]Everyone in [f 2 4 1]'s line has their SP costs decrease![n][e]
+[f 0 5 65278][f 2 1]¡El coste de PE en la linea de [f 2 4 1] ha disminuido para todos![n][e]
 
 [msg BTLMSGID_REF_LINK]
-[f 0 5 65278][f 2 1]Link skills have an increased number of attacks![n][e]
+[f 0 5 65278][f 2 1]¡Las habilidades de enlace han aumentado su número de ataques![n][e]
 
 [msg BTLMSGID_REF_GUARD]
-[f 0 5 65278][f 2 1][f 2 4 1] readies for the enemy's attack![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se prepara para el ataque enemigo![n][e]
 
 [msg BTLMSGID_REF_CONC]
-[f 0 5 65278][f 2 1]The effect of [f 2 4 1]'s healing increases![n][e]
+[f 0 5 65278][f 2 1]¡El efecto de la curación de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_AREA]
-[f 0 5 65278][f 2 1]The area of [f 2 4 1]'s healing increases![n][e]
+[f 0 5 65278][f 2 1]¡La zona de curación de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_WEAKENED]
-[f 0 5 65278][f 2 1][f 2 4 0] is weakened and cannot move![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está debilitado y no puede moverse![n][e]
 
 [msg BTLMSGID_MASCOT]
-[f 0 5 65278][f 2 1][f 2 4 0] is floating...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está flotando...[n][e]
 
 [msg BTLMSGID_BUNNY]
-[f 0 5 65278][f 2 1][f 2 4 0] is confused![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está confundido![n][e]
 
 [msg BTLMSGID_REFOFF_P_UP]
-[f 0 5 65278][f 2 1]The effect of [f 2 4 1] wore off![n][e]
+[f 0 5 65278][f 2 1]¡El efecto de [f 2 4 1] desapareció![n][e]
 
 [msg BTLMSGID_REFOFF_P_DOWN]
-[f 0 5 65278][f 2 1]The effect of [f 2 4 1] wore off![n][e]
+[f 0 5 65278][f 2 1]¡El efecto de [f 2 4 1] desapareció![n][e]
 
 [msg BTLMSGID_REFOFF_UP]
-[f 0 5 65278][f 2 1]The effect of [f 2 4 1] wore off on the enemy![n][e]
+[f 0 5 65278][f 2 1]¡El efecto de [f 2 4 1] desapareció del enemigo![n][e]
 
 [msg BTLMSGID_REFOFF_DOWN]
-[f 0 5 65278][f 2 1]The effect of [f 2 4 1] wore off on the enemy![n][e]
+[f 0 5 65278][f 2 1]¡El efecto de [f 2 4 1] desapareció del enemigo![n][e]
 
 [msg BTLMSGID_KAIMA]
-[f 0 5 65278][f 2 1]Resistance to ailments and Binds reverted![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a Estados alterados y Ataduras fue revertida![n][e]
 
 [msg BTLMSGID_HOUJIN_CANCEL_M]
-[f 0 5 65278][f 2 1]However, there was no Circle set![n][e]
+[f 0 5 65278][f 2 1]Sin embargo, no se estableció ningún Círculo.[n][e]
 
 [msg BTLMSGID_OATH_END]
-[f 0 5 65278][f 2 1]The effect of [f 2 4 1] wore off on the enemy![n][e]
+[f 0 5 65278][f 2 1]¡El efecto de [f 2 4 1] desapareció del enemigo![n][e]
 
 [msg BTLMSGID_COUNTER]
-[f 0 5 65278][f 2 1]Death Counter activated![n][e]
+[f 0 5 65278][f 2 1]¡Contador de muertes activado![n][e]
 
 [msg BTLMSGID_CHASE]
-[f 0 5 65278][f 2 1]Death Chaser activated![n][e]
+[f 0 5 65278][f 2 1]¡Cazador de muertes activado![n][e]
 
 [msg BTLMSGID_REF_ATTR_WEPUP__4]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attacks are now wind-based![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques de [f 2 4 1] son ahora de tipo viento![n][e]
 
 [msg BTLMSGID_REF_ATTR_WEPUP__5]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attacks are now bless-based![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques de [f 2 4 1] son ahora de tipo bendición![n][e]
 
 [msg BTLMSGID_REF_ATTR_WEPUP__6]
-[f 0 5 65278][f 2 1][f 2 4 1]'s attacks are now curse-based![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques de [f 2 4 1] son ahora de tipo maldición![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_WIND]
-[f 0 5 65278][f 2 1][f 2 4 1]'s wind resistance increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia al viento de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_HIKA]
-[f 0 5 65278][f 2 1][f 2 4 1]'s bless resistance has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a la bendición de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_YAMI]
-[f 0 5 65278][f 2 1][f 2 4 1]'s curse resistance has increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a la maldición de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_WI]
-[f 0 5 65278][f 2 1][f 2 4 1]'s wind resistance decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia al viento de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_HI]
-[f 0 5 65278][f 2 1][f 2 4 1]'s bless resistance decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a la bendición de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_YA]
-[f 0 5 65278][f 2 1][f 2 4 1]'s curse resistance decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia a la maldición de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_HPNONCOST]
-[f 0 5 65278][f 2 1][f 2 4 1] doesn't have enough HP to use the skill![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] no tiene suficiente PS para usar la habilidad![n][e]
 
 [msg BTLMSGID_KEIKAI]
-[f 0 5 65278][f 2 1][f 2 4 0] is cautious.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] es cauteloso.[n][e]
 
 [msg BTLMSGID_RARE_1]
-[f 0 5 65278][f 2 1][f 2 4 0] is staring off into space.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está mirando al vacío.[n][e]
 
 [msg BTLMSGID_RARE_2]
-[f 0 5 65278][f 2 1][f 2 4 0] is bewildered.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está desconcertado.[n][e]
 
 [msg BTLMSGID_RARE_3]
-[f 0 5 65278][f 2 1][f 2 4 0] is flustered.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está desconcertado.[n][e]
 
 [msg BTLMSGID_HAMA_OMEN]
-[f 0 5 65278][f 2 1]The power of light gathers around [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El poder de la luz se reúne alrededor de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_MUDO_OMEN]
-[f 0 5 65278][f 2 1]The power of darkness gathers around [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El poder de oscuridad se reúne alrededor de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_NIYANIYA]
-[f 0 5 65278][f 2 1][f 2 4 0] smirks.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] sonríe con satisfacción.[n][e]
 
 [msg BTLMSGID_JIBAKU_MISS]
-[f 0 5 65278][f 2 1][f 2 4 0]'s self-destruct failed...[n][e]
+[f 0 5 65278][f 2 1]La autodestrucción de [f 2 4 0] falló...[n][e]
 
 [msg BTLMSGID_CHICKEN]
-[f 0 5 65278][f 2 1][f 2 4 0] looks confident.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] parece seguro de sí mismo.[n][e]
 
 [msg BTLMSGID_ROBOT]
-[f 0 5 65278][f 2 1]WARNING: DESIST IMMEDIATELY.[n][e]
+[f 0 5 65278][f 2 1]ADVERTENCIA: DESISTA INMEDIATAMENTE.[n][e]
 
 [msg BTLMSGID_TOWER]
-[f 0 5 65278][f 2 1][f 2 4 0] summoned a thundercloud![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] invocó una nube de tormenta![n][e]
 
 [msg BTLMSGID_TOWER3]
-[f 0 5 65278][f 2 1][f 2 4 0] muttered a holy oath![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] murmuró un juramento sagrado![n][e]
 
 [msg BTLMSGID_TOWER5]
-[f 0 5 65278][f 2 1][f 2 4 0] muttered a curse![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] murmuró una maldición![n][e]
 
 [msg BTLMSGID_KING]
-[f 0 5 65278][f 2 1][f 2 4 0] is playing with their hair.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está jugando con su cabello.[n][e]
 
 [msg BTLMSGID_KING_ESCAPE]
-[f 0 5 65278][f 2 1][f 2 4 0] is trying to flee...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] está tratando de huir...[n][e]
 
 [msg BTLMSGID_BIBIRI]
-[f 0 5 65278][f 2 1][f 2 4 0] is frightened![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está asustado![n][e]
 
 [msg BTLMSGID_TORIMAKI]
-[f 0 5 65278][f 2 1]An herbivore dashes out![n][e]
+[f 0 5 65278][f 2 1]¡Un herbívoro sale corriendo![n][e]
 
 [msg BTLMSGID_PUNISH]
-[f 0 5 65278][f 2 1][f 2 4 0] has shorted out![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se ha averiado![n][e]
 
 [msg BTLMSGID_DO_1]
-[f 0 5 65278][f 2 1][f 2 4 0] is writhing![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se retuerce![n][e]
 
 [msg BTLMSGID_DO_2]
-[f 0 5 65278][f 2 1][f 2 4 0]'s body is pulsating![n][e]
+[f 0 5 65278][f 2 1]¡El cuerpo de [f 2 4 0] está latiendo![n][e]
 
 [msg BTLMSGID_DO_3]
-[f 0 5 65278][f 2 1][f 2 4 0]'s movement has slowed![n][e]
+[f 0 5 65278][f 2 1]¡El movimiento de [f 2 4 0] se ha ralentizado![n][e]
 
 [msg BTLMSGID_DO_EYE_HEAD]
-[f 0 5 65278][f 2 1]Eldritch Eye[n][e]
+[f 0 5 65278][f 2 1]Ojo Arcano[n][e]
 
 [msg BTLMSGID_DO_EYE_RIGHT]
-[f 0 5 65278][f 2 1]Barrage Eye[n][e]
+[f 0 5 65278][f 2 1]Ojo de Barrera[n][e]
 
 [msg BTLMSGID_DO_EYE_LEFT]
-[f 0 5 65278][f 2 1]Blight Eye[n][e]
+[f 0 5 65278][f 2 1]Ojo de Plaga[n][e]
 
 [msg BTLMSGID_ENLIL_RETAKE]
-[f 0 5 65278][f 2 1]Enlil is charging up...![n][e]
+[f 0 5 65278][f 2 1]¡Enlil se está cargando...![n][e]
 
 [msg BTLMSGID_ENLIL_HIKARI]
-[f 0 5 65278][f 2 1]Nothing happened...[n][e]
+[f 0 5 65278][f 2 1]No pasó nada...[n][e]
 
 [msg BTLMSGID_MUTEKI_KAMO_WAR]
-[f 0 5 65278][f 2 1]Kamoshidaman is laughing loudly.[n][e]
+[f 0 5 65278][f 2 1]Kamoshidaman ríe a carcajadas.[n][e]
 
 [msg BTLMSGID_MOTHER_COM]
-[f 0 5 65278][f 2 1]ERROR! ERROR![n][e]
+[f 0 5 65278][f 2 1]¡ERROR! ¡ERROR![n][e]
 
 [msg BTLMSGID_MOTHER_COM_CURE]
-[f 0 5 65278][f 2 1]Auto Recovery ON.[n][e]
+[f 0 5 65278][f 2 1]Recuperación Automática ACTIVADA.[n][e]
 
 [msg BTLMSGID_KAMO_MIE]
 [f 0 5 65278][f 2 1]（仮）ボス戦開始イメージテキスト[n][e]
@@ -1121,7 +1121,7 @@
 [f 0 5 65278][f 2 1]（仮）ボス戦開始イメージテキスト[n][e]
 
 [msg BTLMSGID_MCOM_ERROR]
-[f 0 5 65278][f 2 1]ERROR! PROCESS HALTED![n][e]
+[f 0 5 65278][f 2 1]¡ERROR! ¡PROCESO DETENIDO![n][e]
 
 [msg BTLMSGID_DO_MIE]
 [f 0 5 65278][f 2 1]（仮）ボス戦開始イメージテキスト[n][e]
@@ -1136,124 +1136,124 @@
 [f 0 5 65278][f 2 1]（仮）ボス戦開始イメージテキスト[n][e]
 
 [msg BTLMSGID_BUF_OMEN]
-[f 0 5 65278][f 2 1]The power of ice gathers around [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El poder del hielo se reúne alrededor de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_JIO_OMEN]
-[f 0 5 65278][f 2 1]The power of electricity gathers around [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El poder de la electricidad se reúne alrededor de [f 2 4 0]![n][e]
 
 [msg BTLMSGID_KHRONOS_ANNOUNC]
-[f 0 5 65278][f 2 1][f 2 4 0] is concentrating![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se está concentrando![n][e]
 
 [msg BTLMSGID_PASTOR_OATH_ATT [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3843]Vow to me that you won't strike![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3843]¡Júrame que no atacarás![n][f 1 1][e]
 
 [msg BTLMSGID_PASTOR_OATH_SKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3844]Vow to me that you won't use skills![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3844]¡Júrame que no usarás habilidades![n][f 1 1][e]
 
 [msg BTLMSGID_PASTOR_OATH_LEA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3846]Vow to me that you won't be bossy![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3846]¡Júrame que no serás mandón![n][f 1 1][e]
 
 [msg BTLMSGID_PASTOR_OATH_ITE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3845]Vow to me that you won't use items![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3845]¡Júrame que no usarás objetos![n][f 1 1][e]
 
 [msg BTLMSGID_PASTOR_OATH_TWO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3847]Just vow to me all manner of things![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3847]¡Júramelo todo![n][f 1 1][e]
 
 [msg BTLMSGID_PASTOR_JUDGEMEN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3848]I will lead you, little sheep![n]Your divine punishment is death![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 3 1 1 0 0 3848]Te guiaré, pequeña oveja.[n]Tu castigo divino es la muerte.[n][f 1 1][e]
 
 [msg BTLMSGID_HOQ_CAST_SKILL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The [f 2 4 0] is attempting to cast a spell![n][e]
+[f 0 5 65278][f 2 1]¡El [f 2 4 0] está intentando lanzar un hechizo![n][e]
 
 [msg BTLMSGID_HOQ_INTERRUPT_S [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The [f 2 4 0]'s spell seems to have failed...[n][e]
+[f 0 5 65278][f 2 1]El hechizo del [f 2 4 0] parece haber fallado...[n][e]
 
 [msg BTLMSGID_ADD_ATK_P4HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's finish it off![n][e]
+[f 0 5 65278][f 2 1]¡Acabemos con esto![n][e]
 
 [msg BTLMSGID_ADD_ATK_P3HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let me handle this![n][e]
+[f 0 5 65278][f 2 1]¡Déjame manejar esto![n][e]
 
 [msg BTLMSGID_ADD_ATK_YOUSUKE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Leave this to me![n][e]
+[f 0 5 65278][f 2 1]¡Déjame esto a mí![n][e]
 
 [msg BTLMSGID_ADD_ATK_CHIE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Okay, this'll finish it![n][e]
+[f 0 5 65278][f 2 1]¡Bien, esto lo acabará![n][e]
 
 [msg BTLMSGID_ADD_ATK_YUKIKO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I can finish it off![n][e]
+[f 0 5 65278][f 2 1]¡Yo puedo terminarlo![n][e]
 
 [msg BTLMSGID_ADD_ATK_RISE [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]※エラー[n][e]
 
 [msg BTLMSGID_ADD_ATK_KANJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I ain't done yet![n][e]
+[f 0 5 65278][f 2 1]¡Todavía no he terminado![n][e]
 
 [msg BTLMSGID_ADD_ATK_NAOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]One attack should end this![n][e]
+[f 0 5 65278][f 2 1]¡Un ataque debería terminar con esto![n][e]
 
 [msg BTLMSGID_ADD_ATK_KUMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]It's do or die time![n][e]
+[f 0 5 65278][f 2 1]¡Es el momento de hacerlo o morir![n][e]
 
 [msg BTLMSGID_ADD_ATK_YUKARI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'll finish this![n][e]
+[f 0 5 65278][f 2 1]¡Voy a terminar esto![n][e]
 
 [msg BTLMSGID_ADD_ATK_JUNPEI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Time to bring it home![n][e]
+[f 0 5 65278][f 2 1]¡Es hora de llevarlo a casa![n][e]
 
 [msg BTLMSGID_ADD_ATK_SANADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'll finish it off![n][e]
+[f 0 5 65278][f 2 1]¡Lo terminaré![n][e]
 
 [msg BTLMSGID_ADD_ATK_MITURU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'm not finished with them![n][e]
+[f 0 5 65278][f 2 1]¡No he terminado con ellos![n][e]
 
 [msg BTLMSGID_ADD_ATK_FUKA [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]※エラー[n][e]
 
 [msg BTLMSGID_ADD_ATK_AEGIS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Permission to pursue?[n][e]
+[f 0 5 65278][f 2 1]¿Permiso para seguir?[n][e]
 
 [msg BTLMSGID_ADD_ATK_AMADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here I go![n][e]
+[f 0 5 65278][f 2 1]¡Allá voy![n][e]
 
 [msg BTLMSGID_ADD_ATK_KOROMAR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Arf! Awoooo![n][e]
+[f 0 5 65278][f 2 1]¡Arf! ¡Awoooo![n][e]
 
 [msg BTLMSGID_ADD_ATK_ARAGAKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]What, you think I'm done?[n][e]
+[f 0 5 65278][f 2 1]¿Qué, crees que he terminado?[n][e]
 
 [msg BTLMSGID_ADD_ATK_P3_HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Lemme at 'em![n][e]
+[f 0 5 65278][f 2 1]¡Déjame ir tras ellos![n][e]
 
 [msg BTLMSGID_ADD_ATK_P5HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'll do this![n][e]
+[f 0 5 65278][f 2 1]¡Yo lo haré![n][e]
 
 [msg BTLMSGID_ADD_ATK_RYUJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I got this, man![n][e]
+[f 0 5 65278][f 2 1]¡Lo tengo![n][e]
 
 [msg BTLMSGID_ADD_ATK_ANN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'll take them out![n][e]
+[f 0 5 65278][f 2 1]¡Los eliminaré![n][e]
 
 [msg BTLMSGID_ADD_ATK_MONA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Mind if I take this one?[n][e]
+[f 0 5 65278][f 2 1]¿Te importa si yo me encargo de este?[n][e]
 
 [msg BTLMSGID_ADD_ATK_YUSUKE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The Fox descends![n][e]
+[f 0 5 65278][f 2 1]¡El Zorro desciende![n][e]
 
 [msg BTLMSGID_ADD_ATK_MAKOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'll pummel it![n][e]
+[f 0 5 65278][f 2 1]¡Le daré una paliza![n][e]
 
 [msg BTLMSGID_ADD_ATK_FUTABA [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]※エラー[n][e]
 
 [msg BTLMSGID_ADD_ATK_HARU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Noir, reporting in![n][e]
+[f 0 5 65278][f 2 1]¡Noir, reportándose![n][e]
 
 [msg BTLMSGID_ADD_ATK_AKECI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Ready anytime.[n][e]
+[f 0 5 65278][f 2 1]Listo cuando quieras.[n][e]
 
 [msg BTLMSGID_ALL_ATK_P4HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our chance![n]Let's do an all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad![n]¡Hagamos un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_P3HERO [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]Think this calls for[n]an all-out attack?[n][e]
