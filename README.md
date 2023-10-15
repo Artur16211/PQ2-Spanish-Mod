@@ -3,6 +3,18 @@
 https://gamebanana.com/wips/78426
 
 --------
+| Carpeta     | Progreso      | Notas     |
+| ------------- | ------------- | -------- |
+| battle          | 90%         | -  |
+| camp           | 100%         | -  |
+| dungeon           | 100%         | -  |
+| event           | 10%         | e000-100%/e100-50%  |
+| facility           | 90%         | -  |
+| init           | 60%         | Efectos traducidos  |
+| shared           | 100%         | -  |
+| tutorial           | 100%         | -  |
+
+--------
 Requirements
 --------
 Python 3.11.3
@@ -17,11 +29,13 @@ Run the program with the following command:
 python CompileMSG.py
 ```
 --------
-MSG Editor:
+MSG Editor:<br>
 https://github.com/Artur16211/MSG_Viewer
+
 --------
 
-Ejecuta el setn.py para colocar los [n] de forma que el texto quede dentro de los cuadros de diálogo y remplazar los caracteres especiales luego de realizar una edición.
+Ejecuta el <b>setn.py</b> para colocar los <b>[n]</b> de forma que el texto quede dentro de los cuadros de diálogo y remplazar los caracteres especiales luego de realizar una edición.
 
-Ejecuta CompileMSG.py para tener una version del mod listo para usar con Mod Compendium.
-https://github.com/tge-was-taken/Mod-Compendium/releases
+Ejecuta <b>CompileMSG.py</b> para tener una version del mod lista para usar con <b>Mod Compendium</b> o <b>Aemulus</b>.<br>
+https://github.com/tge-was-taken/Mod-Compendium/releases<br>
+https://github.com/TekkaGB/AemulusModManager/releases
