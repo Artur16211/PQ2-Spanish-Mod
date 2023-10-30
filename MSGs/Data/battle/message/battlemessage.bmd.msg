@@ -1256,587 +1256,587 @@
 [f 0 5 65278][f 2 1]¡Es nuestra oportunidad![n]¡Hagamos un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_P3HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Think this calls for[n]an all-out attack?[n][e]
+[f 0 5 65278][f 2 1]¿Crees que esto amerita un ataque combinado?[n][e]
 
 [msg BTLMSGID_ALL_ATK_YOUSUKE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All right! Let's rock and roll![n][e]
+[f 0 5 65278][f 2 1]¡Muy bien! ¡Vamos a rockear![n][e]
 
 [msg BTLMSGID_ALL_ATK_CHIE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our chance, right!?[n]Let's get 'em![n][e]
+[f 0 5 65278][f 2 1]¿¡Es nuestra oportunidad, verdad!? ¡Vamos a por ellos![n][e]
 
 [msg BTLMSGID_ALL_ATK_YUKIKO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I think we can do an[n]all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Creo que podemos hacer un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_RISE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This might be our chance![n][e]
+[f 0 5 65278][f 2 1]¡Esta podría ser nuestra oportunidad![n][e]
 
 [msg BTLMSGID_ALL_ATK_KANJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Whaddaya waitin' for?[n]It's go time![n][e]
+[f 0 5 65278][f 2 1]¿Qué estás esperando? ¡Es hora de actuar![n][e]
 
 [msg BTLMSGID_ALL_ATK_NAOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is our chance![n]Let's unleash all we've got![n][e]
+[f 0 5 65278][f 2 1]¡Esta es nuestra oportunidad! ¡Demos todo lo que tenemos![n][e]
 
 [msg BTLMSGID_ALL_ATK_KUMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's clobber 'em![n][e]
+[f 0 5 65278][f 2 1]¡Demosles una paliza![n][e]
 
 [msg BTLMSGID_ALL_ATK_YUKARI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here it comes![n]We gotta do this![n][e]
+[f 0 5 65278][f 2 1]¡Ahí viene! ¡Tenemos que hacer esto![n][e]
 
 [msg BTLMSGID_ALL_ATK_JUNPEI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Oh yeah, baby![n]Time for an all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Oh, sí! ¡Es hora de un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_SANADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I've been waiting for this...[n]Let's do it![n][e]
+[f 0 5 65278][f 2 1]He estado esperando... ¡Hagámoslo![n][e]
 
 [msg BTLMSGID_ALL_ATK_MITURU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Our chance has come![n]Let's go![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad! ¡Vamos![n][e]
 
 [msg BTLMSGID_ALL_ATK_FUKA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone, this is your chance![n][e]
+[f 0 5 65278][f 2 1]¡Esta es su oportunidad![n][e]
 
 [msg BTLMSGID_ALL_ATK_AEGIS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now commencing an[n]all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Iniciando un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_AMADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here's our chance![n]Let's attack![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad! ¡Ataquemos![n][e]
 
 [msg BTLMSGID_ALL_ATK_KOROMAR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Bark, bark![n][e]
+[f 0 5 65278][f 2 1]¡Bark, bark![n][e]
 
 [msg BTLMSGID_ALL_ATK_ARAGAKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Hey, they're wide open![n]Let's take 'em down![n][e]
+[f 0 5 65278][f 2 1]¡Oye, están expuestos! ¡A por ellos![n][e]
 
 [msg BTLMSGID_ALL_ATK_P3_HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Wanna go for an[n]all-out attack?[n][e]
+[f 0 5 65278][f 2 1]¿Quieres hacer un ataque combinado?[n][e]
 
 [msg BTLMSGID_ALL_ATK_P5HERO [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]※エラー（総攻撃確認１）[n][e]
 
 [msg BTLMSGID_ALL_ATK_RYUJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Hey, that's our cue![n][e]
+[f 0 5 65278][f 2 1]¡Oye, es nuestra señal![n][e]
 
 [msg BTLMSGID_ALL_ATK_ANN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is our chance![n]Wanna go for it?[n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad! ¿Vamos?[n][e]
 
 [msg BTLMSGID_ALL_ATK_MONA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All right! Time for an[n]all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Muy bien! ¡Es hora de un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL_ATK_YUSUKE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here's our chance![n]Any objections?[n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad! ¿Objeciones?[n][e]
 
 [msg BTLMSGID_ALL_ATK_MAKOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is going well![n]Let's keep up the pace![n][e]
+[f 0 5 65278][f 2 1]¡Vamos bien! ¡Mantengamos el ritmo![n][e]
 
 [msg BTLMSGID_ALL_ATK_FUTABA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is your chance![n]Give 'em hell! [n][e]
+[f 0 5 65278][f 2 1]¡Esta es tu oportunidad! ¡A darles! [n][e]
 
 [msg BTLMSGID_ALL_ATK_HARU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We can break them now![n]...I think![n][e]
+[f 0 5 65278][f 2 1]¡Podemos derrotarlos ahora!... ¡Eso creo![n][e]
 
 [msg BTLMSGID_ALL_ATK_AKECI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]They're all knocked down![n][e]
+[f 0 5 65278][f 2 1]¡Todos derribados![n][e]
 
 [msg BTLMSGID_ALL2_ATK_P4HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We can do this![n][e]
+[f 0 5 65278][f 2 1]¡Podemos hacerlo![n][e]
 
 [msg BTLMSGID_ALL2_ATK_P3HERO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our only chance![n]Let's go![n][e]
+[f 0 5 65278][f 2 1]¡Ahora es nuestra oportunidad! ¡Vamos![n][e]
 
 [msg BTLMSGID_ALL2_ATK_YOUSUK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]It's go time! Let's give 'em[n]an all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Es la hora! ¡Démosles un ataque combinado![n][e]
 
 [msg BTLMSGID_ALL2_ATK_CHIE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now! Everyone, chaaaaarge![n][e]
+[f 0 5 65278][f 2 1]¡Ahora! ¡A la caaarga![n][e]
 
 [msg BTLMSGID_ALL2_ATK_YUKIKO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our chance![n]Let's do this as a team![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad! ¡Hagámoslo en equipo![n][e]
 
 [msg BTLMSGID_ALL2_ATK_RISE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Ooh, looks like our[n]big chance![n][e]
+[f 0 5 65278][f 2 1]¡Oh, parece ser nuestra oportunidad![n][e]
 
 [msg BTLMSGID_ALL2_ATK_KANJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's smack 'em down![n][e]
+[f 0 5 65278][f 2 1]¡Démosles una paliza![n][e]
 
 [msg BTLMSGID_ALL2_ATK_NAOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]There's an opening![n]Permission to all-out attack![n][e]
+[f 0 5 65278][f 2 1]¡Están vulnerables! ¿Permiso para un ataque combinado?[n][e]
 
 [msg BTLMSGID_ALL2_ATK_KUMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Time for a bear-knuckle[n]beatdown![n][e]
+[f 0 5 65278][f 2 1]¡Es hora de una paliza![n][e]
 
 [msg BTLMSGID_ALL2_ATK_YUKARI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]You're ready, right?[n]Let's take the shot![n][e]
+[f 0 5 65278][f 2 1]Estás listo, ¿verdad? ¡Vamos a intentarlo![n][e]
 
 [msg BTLMSGID_ALL2_ATK_JUNPEI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]One good beatdown and[n]we can end this now![n][e]
+[f 0 5 65278][f 2 1]¡Un buen ataque y podemos terminar con esto ahora![n][e]
 
 [msg BTLMSGID_ALL2_ATK_SANADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The time's come![n]Let's crush them![n][e]
+[f 0 5 65278][f 2 1]¡Ha llegado el momento! ¡Aplastémoslos![n][e]
 
 [msg BTLMSGID_ALL2_ATK_MITURU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We have the upper hand![n]Let's take the offensive![n][e]
+[f 0 5 65278][f 2 1]¡Tenemos la ventaja! ¡Tomemos la ofensiva![n][e]
 
 [msg BTLMSGID_ALL2_ATK_FUKA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's your chance![n][e]
+[f 0 5 65278][f 2 1]¡Es tu oportunidad![n][e]
 
 [msg BTLMSGID_ALL2_ATK_AEGIS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Preparing to engage![n][e]
+[f 0 5 65278][f 2 1]¡Preparándose para el combate![n][e]
 
 [msg BTLMSGID_ALL2_ATK_AMADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here's our chance![n]Let's do this![n][e]
+[f 0 5 65278][f 2 1]¡Esta es nuestra oportunidad! ¡Hagámoslo![n][e]
 
 [msg BTLMSGID_ALL2_ATK_KOROMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Arf, arf![n][e]
+[f 0 5 65278][f 2 1]¡Arf, arf![n][e]
 
 [msg BTLMSGID_ALL2_ATK_ARAGAK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]About time. Let's take 'em![n][e]
+[f 0 5 65278][f 2 1]Ya era hora. Vamos a por ellos.![n][e]
 
 [msg BTLMSGID_ALL2_ATK_P3_HER [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our only chance![n]Let's go![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra única oportunidad! ¡Vamos![n][e]
 
 [msg BTLMSGID_ALL2_ATK_P5HERO [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]※エラー（総攻撃確認２）[n][e]
 
 [msg BTLMSGID_ALL2_ATK_RYUJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Okay, let's get this[n]party started![n][e]
+[f 0 5 65278][f 2 1]De acuerdo, ¡comencemos esta fiesta![n][e]
 
 [msg BTLMSGID_ALL2_ATK_ANN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Wanna do our usual?[n][e]
+[f 0 5 65278][f 2 1]¿Quieres hacer lo de siempre?[n][e]
 
 [msg BTLMSGID_ALL2_ATK_MONA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Obviously we're not wasting[n]this chance![n][e]
+[f 0 5 65278][f 2 1]¡Obviamente, no vamos a desperdiciar esta oportunidad![n][e]
 
 [msg BTLMSGID_ALL2_ATK_YUSUKE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]And now, let the games begin.[n][e]
+[f 0 5 65278][f 2 1]Y ahora, que comiencen los juegos.[n][e]
 
 [msg BTLMSGID_ALL2_ATK_MAKOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]How about we finish this[n]here and now?[n][e]
+[f 0 5 65278][f 2 1]¿Qué tal si terminamos esto aquí y ahora?[n][e]
 
 [msg BTLMSGID_ALL2_ATK_FUTABA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 26070]Here's our chance![n]Sic 'em! [n][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 26070]¡Esta es nuestra oportunidad! ¡Ataquemos![n][e]
 
 [msg BTLMSGID_ALL2_ATK_HARU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We can do an all-out attack![n]Shall we?[n][e]
+[f 0 5 65278][f 2 1]Podemos realizar un ataque combinado. ¿Deberíamos?[n][e]
 
 [msg BTLMSGID_ALL2_ATK_AKECI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Finally, our moment comes![n][e]
+[f 0 5 65278][f 2 1]¡Finalmente, es nuestro momento![n][e]
 
 [msg BTLMSGID_COMBI_ATK_P4HER [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Leave this to us.[n][e]
+[f 0 5 65278][f 2 1]Déjanos encargarnos de esto.[n][e]
 
 [msg BTLMSGID_COMBI_ATK_P3HER [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Seems like our shot, right?[n][e]
+[f 0 5 65278][f 2 1]Parece que es nuestro turno, ¿verdad?[n][e]
 
 [msg BTLMSGID_COMBI_ATK_YOUSU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Looks like we're up.[n]Just gotta beat 'em![n][e]
+[f 0 5 65278][f 2 1]Parece que nos toca. ¡Solo tenemos que vencerlos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_CHIE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Okay, we've got this![n][e]
+[f 0 5 65278][f 2 1]¡De acuerdo, podemos hacerlo![n][e]
 
 [msg BTLMSGID_COMBI_ATK_YUKIK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now! Let's unite our strength![n][e]
+[f 0 5 65278][f 2 1]¡Ahora! ¡Unamos nuestras fuerzas![n][e]
 
 [msg BTLMSGID_COMBI_ATK_RISE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I think now's our chance![n][e]
+[f 0 5 65278][f 2 1]¡Creo que es nuestra oportunidad![n][e]
 
 [msg BTLMSGID_COMBI_ATK_KANJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We gotta do this, now![n]Let's go, dammit![n][e]
+[f 0 5 65278][f 2 1]Tenemos que hacerlo, ¡ahora! ¡Vamos, maldita sea![n][e]
 
 [msg BTLMSGID_COMBI_ATK_NAOTO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is it! Let's eliminate them![n][e]
+[f 0 5 65278][f 2 1]¡Ya está! ¡Vamos a eliminarlos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_KUMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Time for a bear-knuckle[n]beatdown![n][e]
+[f 0 5 65278][f 2 1]¡Es hora de una paliza![n][e]
 
 [msg BTLMSGID_COMBI_ATK_YUKAR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's go, guys![n]It's now or never![n][e]
+[f 0 5 65278][f 2 1]¡Vamos, chicos! ¡Es ahora o nunca![n][e]
 
 [msg BTLMSGID_COMBI_ATK_JUNPE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Go time, guys![n]Follow my lead![n][e]
+[f 0 5 65278][f 2 1]¡Es hora, chicos! ¡Sigan mi liderazgo![n][e]
 
 [msg BTLMSGID_COMBI_ATK_SANAD [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Guess it's our time to shine...[n][e]
+[f 0 5 65278][f 2 1]Supongo que es nuestro momento de brillar...[n][e]
 
 [msg BTLMSGID_COMBI_ATK_MITUR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We'd be fools not to strike now...[n]Come![n][e]
+[f 0 5 65278][f 2 1]Seríamos tontos si no atacáramos ahora... ¡Vamos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_FUKA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone, now's our chance![n][e]
+[f 0 5 65278][f 2 1]¡Todos, es nuestra oportunidad![n][e]
 
 [msg BTLMSGID_COMBI_ATK_AEGIS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Advantage secured![n]We must take the offensive![n][e]
+[f 0 5 65278][f 2 1]¡Ventaja asegurada! ¡Debemos tomar la ofensiva![n][e]
 
 [msg BTLMSGID_COMBI_ATK_AMADA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We can defeat them if we[n]do this together![n][e]
+[f 0 5 65278][f 2 1]¡Podemos derrotarlos si hacemos esto juntos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_KOROM [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Bark, bark![n][e]
+[f 0 5 65278][f 2 1]¡Bark, bark![n][e]
 
 [msg BTLMSGID_COMBI_ATK_ARAGA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]You figure we should[n]wrap this up?[n][e]
+[f 0 5 65278][f 2 1]¿Crees que deberíamos darle fin a esto?[n][e]
 
 [msg BTLMSGID_COMBI_ATK_P3_HE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'm here to help![n]Let's take them down![n][e]
+[f 0 5 65278][f 2 1]Estoy aquí para ayudar. ¡Derribémoslos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_P5HER [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here we come![n][e]
+[f 0 5 65278][f 2 1]¡Aquí vamos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_RYUJI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Here's our chance! We got this![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad! ¡Lo tenemos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_ANN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I think we can do this![n][e]
+[f 0 5 65278][f 2 1]¡Creo que podemos hacerlo![n][e]
 
 [msg BTLMSGID_COMBI_ATK_MONA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's show them who[n]they're dealing with![n][e]
+[f 0 5 65278][f 2 1]¡Mostrémosles con quién están tratando![n][e]
 
 [msg BTLMSGID_COMBI_ATK_YUSUK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Time to display our power![n][e]
+[f 0 5 65278][f 2 1]¡Es hora de mostrar nuestro poder![n][e]
 
 [msg BTLMSGID_COMBI_ATK_MAKOT [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our chance...[n]Just say the word.[n][e]
+[f 0 5 65278][f 2 1]Es nuestra oportunidad... Sólo dilo.[n][e]
 
 [msg BTLMSGID_COMBI_ATK_FUTAB [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Just lemme know if you[n]need a hand out there![n][e]
+[f 0 5 65278][f 2 1]¡Solo avísame si necesitas una mano![n][e]
 
 [msg BTLMSGID_COMBI_ATK_HARU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Well then... Shall we[n]get them together?[n][e]
+[f 0 5 65278][f 2 1]Bueno, entonces... ¿Los enfrentamos juntos?[n][e]
 
 [msg BTLMSGID_COMBI_ATK_AKECI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Our time to shine, I suppose?[n][e]
+[f 0 5 65278][f 2 1]Nuestro momento para brillar, ¿supongo?[n][e]
 
 [msg BTLMSGID_COMBI2_ATK_P4HE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Come on, let's hit them hard![n][e]
+[f 0 5 65278][f 2 1]¡Vamos, golpémoslos con fuerza![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_P3HE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Leave this to us![n][e]
+[f 0 5 65278][f 2 1]¡Déjanos encargarnos de esto![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_YOUS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I think we've got this![n]Just say the word![n][e]
+[f 0 5 65278][f 2 1]¡Creo que lo tenemos! ¡Sólo dilo![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_CHIE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We're ready to go![n]Leave the rest to us![n][e]
+[f 0 5 65278][f 2 1]¡Estamos listos! ¡Déjanos el resto a nosotros![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_YUKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Just say the word![n][e]
+[f 0 5 65278][f 2 1]¡Solo dilo![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_RISE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Ooh, c'mon![n]Here's our big chance![n][e]
+[f 0 5 65278][f 2 1]¡Vamos, vamos! ¡Es nuestra gran oportunidad![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_KANJ [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's bring the pain![n][e]
+[f 0 5 65278][f 2 1]¡Vamos a hacerles daño![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_NAOT [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]We can corner them right now![n][e]
+[f 0 5 65278][f 2 1]¡Podemos acorralarlos en este momento![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_KUMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Wanna see me bust a move?[n]Huh? Do ya?[n][e]
+[f 0 5 65278][f 2 1]¿Quieres verme moverme? ¿Eh? ¿Quieres?[n][e]
 
 [msg BTLMSGID_COMBI2_ATK_YUKA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Okay, are we doing this?[n][e]
+[f 0 5 65278][f 2 1]¿De acuerdo, lo hacemos?[n][e]
 
 [msg BTLMSGID_COMBI2_ATK_JUNP [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Time to bring out the big guns![n][e]
+[f 0 5 65278][f 2 1]¡Hora de sacar las armas pesadas![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_SANA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I'm done waiting around.[n]Let's take 'em out![n][e]
+[f 0 5 65278][f 2 1]Me cansé de esperar. ¡Derrumbémoslos![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_MITU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The time has come![n]We'll strike them down![n][e]
+[f 0 5 65278][f 2 1]El momento ha llegado. ¡Los derribaremos![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_FUKA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's your chance![n][e]
+[f 0 5 65278][f 2 1]¡Es tu oportunidad![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_AEGI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is our chance![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_AMAD [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Ready whenever you are![n][e]
+[f 0 5 65278][f 2 1]¡Listo cuando tú lo estés![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_KORO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Bark! Bark![n][e]
+[f 0 5 65278][f 2 1]¡Bark! ¡Bark![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_ARAG [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our chance... Let's go.[n][e]
+[f 0 5 65278][f 2 1]Es nuestra oportunidad... Vamos.[n][e]
 
 [msg BTLMSGID_COMBI2_ATK_P3_H [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Time to fight! You ready?[n][e]
+[f 0 5 65278][f 2 1]¡Hora de pelear! ¿Estás listo?[n][e]
 
 [msg BTLMSGID_COMBI2_ATK_P5HE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This is our chance![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_RYUJ [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Let's wreck 'em![n][e]
+[f 0 5 65278][f 2 1]¡Destrocémoslos![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_ANN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]This should mess them up![n][e]
+[f 0 5 65278][f 2 1]¡Esto debería causarles problemas![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_MONA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now! Let's do this![n][e]
+[f 0 5 65278][f 2 1]¡Ahora! ¡Hagámoslo![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_YUSU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Ready at your command![n][e]
+[f 0 5 65278][f 2 1]¡A tus órdenes![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_MAKO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Now's our time to strike![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestro momento de atacar![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_FUTA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]If you want some help,[n]just say the word![n][e]
+[f 0 5 65278][f 2 1]¡Si quieres ayuda, solo dilo![n][e]
 
 [msg BTLMSGID_COMBI2_ATK_HARU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]I suppose that's our cue?[n][e]
+[f 0 5 65278][f 2 1]¿Supongo que es nuestra señal?[n][e]
 
 [msg BTLMSGID_COMBI2_ATK_AKEC [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Why don't we get this started?[n][e]
+[f 0 5 65278][f 2 1]¿Por qué no comenzamos esto?[n][e]
 
 [msg BTLMSGID_VELVET_THEODORE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Theodore concentrates![n][e]
+[f 0 5 65278][f 2 1]¡Theodore se concentra![n][e]
 
 [msg BTLMSGID_VELVET_ELIZABET [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Elizabeth concentrates![n][e]
+[f 0 5 65278][f 2 1]¡Elizabeth se concentra![n][e]
 
 [msg BTLMSGID_VELVET_MARGARET [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Margaret concentrates![n][e]
+[f 0 5 65278][f 2 1]¡Margaret se concentra![n][e]
 
 [msg BTLMSGID_USAGI_OOGOE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] takes a deep breath.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] respira profundamente.[n][e]
 
 [msg BTLMSGID_VELVET_SRICAM [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] has regained consciousness![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] ha recobrado la conciencia![n][e]
 
 [msg BTLMSGID_GK_COUNT3 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]'s eyes are shining![n][e]
+[f 0 5 65278][f 2 1]¡Los ojos de [f 2 4 0] están brillando![n][e]
 
 [msg BTLMSGID_GK_COUNT2 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]'s eyes have stopped shining![n][e]
+[f 0 5 65278][f 2 1]¡Los ojos de [f 2 4 0] han dejado de brillar![n][e]
 
 [msg BTLMSGID_GK_COUNT1 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]'s eyes gleam briefly.[n][e]
+[f 0 5 65278][f 2 1]Los ojos de [f 2 4 0] brillan brevemente.[n][e]
 
 [msg BTLMSGID_ESCAPE_ALL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The party escaped![n][e]
+[f 0 5 65278][f 2 1]¡El grupo escapó![n][e]
 
 [msg BTLMSGID_OVERWRITE_ALL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Party's buffs have been extended![n][e]
+[f 0 5 65278][f 2 1]¡Los potenciadores del grupo se han extendido.![n][e]
 
 [msg BTLMSGID_HPHEAL_ALL_MEMB [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone regains HP![n][e]
+[f 0 5 65278][f 2 1]¡Todos recuperan PS![n][e]
 
 [msg BTLMSGID_EXP_GIFT [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]EXP rewards from this battle increased![n][e]
+[f 0 5 65278][f 2 1]¡Las recompensas de EXP de esta batalla aumentaron![n][e]
 
 [msg BTLMSGID_BOUHEKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone's defense increased![n][e]
+[f 0 5 65278][f 2 1]¡La defensa de todos aumentó![n][e]
 
 [msg BTLMSGID_GOURIKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone's attack power increased![n][e]
+[f 0 5 65278][f 2 1]¡El poder de ataque de todos aumentó![n][e]
 
 [msg BTLMSGID_KAISOKU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone's accuracy and evasion increased![n][e]
+[f 0 5 65278][f 2 1]¡La precisión y la evasión de todos aumentó![n][e]
 
 [msg BTLMSGID_COVERAL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Enemy attacks have been nullified![n][e]
+[f 0 5 65278][f 2 1]¡Los ataques enemigos han sido anulados![n][e]
 
 [msg BTLMSGID_DENKOH [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The entire party can act first![n][e]
+[f 0 5 65278][f 2 1]¡Todo el grupo puede actuar primero![n][e]
 
 [msg BTLMSGID_ORACLE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Ally fully recovered HP![n][e]
+[f 0 5 65278][f 2 1]¡El aliado recupero todos sus PS![n][e]
 
 [msg BTLMSGID_MESSIAH [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone's HP and status has been healed![n][e]
+[f 0 5 65278][f 2 1]¡Los PS y el Estado de todos se han curado![n][e]
 
 [msg BTLMSGID_ESHOWER [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The party's ailments and Binds have been healed![n][e]
+[f 0 5 65278][f 2 1]¡Los estados alterados y ataduras del grupo han sido curadas![n][e]
 
 [msg BTLMSGID_FULLGET [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All enemies defeated this turn will drop materials![n][e]
+[f 0 5 65278][f 2 1]¡Los enemigos derrotados en este turno soltarán materiales![n][e]
 
 [msg BTLMSGID_COST_CUT [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All skills cost nothing![n][e]
+[f 0 5 65278][f 2 1]¡Todos los ataques son gratis![n][e]
 
 [msg BTLMSGID_TIYUDAI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All party members will recover HP for three turns![n][e]
+[f 0 5 65278][f 2 1]¡Todos los miembros del grupo recuperarán PS durante tres turnos![n][e]
 
 [msg BTLMSGID_TIYUSOK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All party members will recover HP for three turns![n][e]
+[f 0 5 65278][f 2 1]¡Todos los miembros del grupo recuperarán PS durante tres turnos![n][e]
 
 [msg BTLMSGID_HOMUNCU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The Homunculus took your place![n][e]
+[f 0 5 65278][f 2 1]¡El homúnculo ocupó tu lugar![n][e]
 
 [msg BTLMSGID_OWNDOLL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The Scapegoat activates for [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El Chivo Expiatorio se activa para [f 2 4 0]![n][e]
 
 [msg BTLMSGID_KIAIBRACE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The Bracer of Might activates for [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El Brazalete de Poder se activa para [f 2 4 0]![n][e]
 
 [msg BTLMSGID_KAMINONIE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The Sacrificial Idol activates for [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡El Ídolo Sacrificial se activa para [f 2 4 0]![n][e]
 
 [msg BTLMSGID_DLCATK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Attacking at end of turn![n][e]
+[f 0 5 65278][f 2 1]¡Atacando al final del turno![n][e]
 
 [msg BTLMSGID_UZUUZU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] is restless![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está inquieto![n][e]
 
 [msg BTLMSGID_MANZOK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] is satisfied.[n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está satisfecho![n][e]
 
 [msg BTLMSGID_THINK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] is thinking.[n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está pensando![n][e]
 
 [msg BTLMSGID_KETSUDAN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] has made up its mind![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] se ha decidido![n][e]
 
 [msg BTLMSGID_MAHASUKU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s accuracy and evasion have increased![n][e]
+[f 0 5 65278][f 2 1]¡La precisión y la evasión de [f 2 4 1] han aumentado![n][e]
 
 [msg BTLMSGID_RANDAMA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All of [f 2 4 1]'s stats decreased![n][e]
+[f 0 5 65278][f 2 1]¡Todas las estadísticas de [f 2 4 1] disminuyeron![n][e]
 
 [msg BTLMSGID_HEATRA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]All of [f 2 4 1]'s stats increased![n][e]
+[f 0 5 65278][f 2 1]¡Todas las estadísticas de [f 2 4 1] aumentaron![n][e]
 
 [msg BTLMSGID_SASTAIN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s stat buffs have been extended![n][e]
+[f 0 5 65278][f 2 1]¡Los potenciadores de estadísticas de [f 2 4 1] se han extendido![n][e]
 
 [msg BTLMSGID_HIDE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] is now immune to physical attacks![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ahora es inmune a los ataques físicos![n][e]
 
 [msg BTLMSGID_RISKY_GAMEOVER [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The party leader has died...[n][e]
+[f 0 5 65278][f 2 1]El líder del grupo ha muerto...[n][e]
 
 [msg BTLMSGID_JIBAKU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] has initiated its self-destruct sequence![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] ha iniciado su secuencia de autodestrucción![n][e]
 
 [msg BTLMSGID_EIKOHNO [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Everyone's attack and defense have greatly increased![n][e]
+[f 0 5 65278][f 2 1]¡El ataque y la defensa de todos han aumentado considerablemente![n][e]
 
 [msg BTLMSGID_ALLBSTHEAL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Allies have been cured of any ailments![n][e]
+[f 0 5 65278][f 2 1]¡Los aliados se curaron de cualquier estado alterado![n][e]
 
 [msg BTLMSGID_KOUKA_NASHI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]But there was no effect![n][e]
+[f 0 5 65278][f 2 1]¡Pero no hubo efecto![n][e]
 
 [msg BTLMSGID_AMRITA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] completely healed and fully recovered HP![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ha sido completamente curado y ha recuperado sus PS![n][e]
 
 [msg BTLMSGID_LPATRA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Allies have been cured of all ailments![n][e]
+[f 0 5 65278][f 2 1]¡Los aliados han sido curados de todos los estados alterados![n][e]
 
 [msg BTLMSGID_COUNT_UP [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s count increased![n][e]
+[f 0 5 65278][f 2 1]¡El contador de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_ONEBSTHEAL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] has been cured of any ailments![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ha sido curado de cualquier estado alterado![n][e]
 
 [msg BTLMSGID_ONESEALHEAL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Binds disappeared![n][e]
+[f 0 5 65278][f 2 1]¡Las ataduras de [f 2 4 1] desaparecieron![n][e]
 
 [msg BTLMSGID_CHARGE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] is building up strength![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] está acumulando fuerza![n][e]
 
 [msg BTLMSGID_CONCENTRATE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] concentrates![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] se concentra![n][e]
 
 [msg BTLMSGID_KAKUSEI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] is now awakened![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 1] ahora está despierto![n][e]
 
 [msg BTLMSGID_SUMMON_TRUMP [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Card Soldiers have appeared![n][e]
+[f 0 5 65278][f 2 1]¡Han aparecido los Soldados de Cartas![n][e]
 
 [msg BTLMSGID_DOLL_SMILE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] smiles innocently.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] sonríe inocentemente.[n][e]
 
 [msg BTLMSGID_MOTIVATION [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] is fired up![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 0] está emocionado![n][e]
 
 [msg BTLMSGID_BOAST [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] shows off its body.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] muestra su cuerpo.[n][e]
 
 [msg BTLMSGID_RELAX [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] lounges elegantly.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] descansa con elegancia.[n][e]
 
 [msg BTLMSGID_CREEP [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0] squirms.[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] se retuerce.[n][e]
 
 [msg BTLMSGID_TURNENDHEAL [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]A mass healing effect has been added![n][e]
+[f 0 5 65278][f 2 1]¡Se ha añadido un efecto de curación masiva![n][e]
 
 [msg BTLMSGID_DARKMIST [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s ailment and Bind time extended.[n][e]
+[f 0 5 65278][f 2 1]El tiempo de estado alterado y restricción de [f 2 4 1] se ha extendido.[n][e]
 
 [msg BTLMSGID_TARGET_DEAD_ALR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]There is no target for [f 2 4 0]![n][e]
+[f 0 5 65278][f 2 1]¡No hay un objetivo para [f 2 4 0]![n][e]
 
 [msg BTLMSGID_DROP_MONEY [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The Shadow scattered [f 2 4 2] yen![n][e]
+[f 0 5 65278][f 2 1]¡La Sombra esparció [f 2 4 2] yenes![n][e]
 
 [msg BTLMSGID_REF_COUNTER_ATT [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Taunt Counter activates![n][e]
+[f 0 5 65278][f 2 1]¡El contador de burlas de [f 2 4 1] se activa![n][e]
 
 [msg BTLMSGID_REF_SKILL_LOCK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Your individuality was robbed![n][e]
+[f 0 5 65278][f 2 1]¡Tu individualidad fue robada![n][e]
 
 [msg BTLMSGID_BEAR_TENSION_L2 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The battle is heating up![n][e]
+[f 0 5 65278][f 2 1]¡La batalla se está calentando![n][e]
 
 [msg BTLMSGID_BEAR_TENSION_L3 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The battle is heated![n][e]
+[f 0 5 65278][f 2 1]¡La batalla está que arde![n][e]
 
 [msg BTLMSGID_BEAR_TENSION_L3_2 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]The battle is scorching hot![n][e]
+[f 0 5 65278][f 2 1]¡La batalla es abrasadora![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_NEND [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Psy resistance increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia Psíquica de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRUP_KAKU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Nuke resistance increased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia Nuclear de [f 2 4 1] aumentó![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_NE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Psy resistance decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia Psíquica de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_REF_ATTRDOWN_KA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s Nuke resistance decreased![n][e]
+[f 0 5 65278][f 2 1]¡La resistencia Nuclear de [f 2 4 1] disminuyó![n][e]
 
 [msg BTLMSGID_DOUBLE_ATTACK [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Double attack activates![n][e]
+[f 0 5 65278][f 2 1]¡Se activa el Ataque Doble![n][e]
 
 [msg BTLMSGID_BOOT2 [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 3] activated![n][e]
+[f 0 5 65278][f 2 1]¡[f 2 4 3] se activó![n][e]
 
 [msg BTLMSGID_FULL_ANALYZE_SU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]'s abilities were analyzed![n][e]
+[f 0 5 65278][f 2 1]¡Las habilidades de [f 2 4 1] fueron analizadas![n][e]
 
 [msg BTLMSGID_FULL_SNALYZE_FA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1] is blocking the analysis...[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] está bloqueando el análisis...[n][e]
 
 [msg BTLMSGID_PQ2_SONIC_RUSH [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to repeatedly use skills![n][e]
+[f 0 5 65278][f 2 1]¡Tomando una postura para usar repetidamente habilidades![n][e]
 
 [msg BTLMSGID_PQ2_RUSH_STEP [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to repeatedly use skills![n][e]
+[f 0 5 65278][f 2 1]¡Tomando una postura para usar repetidamente habilidades![n][e]
 
 [msg BTLMSGID_PQ2_GOWAN [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to make skills splash![n][e]
+[f 0 5 65278][f 2 1]¡Tomando una postura para que las habilidades salpiquen![n][e]
 
 [msg BTLMSGID_PQ2_GAISHU [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to make skills splash![n][e]
+[f 0 5 65278][f 2 1]¡Tomando una postura para que las habilidades salpiquen![n][e]
 
 [msg BTLMSGID_PQ2_UTIOTOSI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to null physical attacks![n][e]
+[f 0 5 65278][f 2 1]¡Tomando una postura para anular los ataques físicos![n][e]
 
 [msg BTLMSGID_PQ2_GEIGEKI [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Taking a stance to null physical attacks![n][e]
+[f 0 5 65278][f 2 1]¡Tomando una postura para anular los ataques físicos![n][e]
 
 [msg BTLMSGID_PQ2_ORGIA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Limiters released![n][e]
+[f 0 5 65278][f 2 1]¡Limitadores liberados![n][e]
 
 [msg BTLMSGID_PQ2_COSTC [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Skill costs decreased![n][e]
+[f 0 5 65278][f 2 1]¡Costos de habilidad disminuidos![n][e]
 
 [msg BTLMSGID_PQ2_COSTR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Skill costs decreased![n][e]
+[f 0 5 65278][f 2 1]¡Costos de habilidad disminuidos![n][e]
 
 [msg BTLMSGID_PQ2_ZEROS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]Skill costs negated for [f 2 4 1]![n][e]
+[f 0 5 65278][f 2 1]¡Costes de habilidad negados para [f 2 4 1]![n][e]
 
