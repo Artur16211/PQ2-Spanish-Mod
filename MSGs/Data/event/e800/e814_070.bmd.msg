@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Gracias, Yukiko-chan, por trabajar tan duro[n]para ayudarlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 5050][f 6 1 2 0 0 10]Yo... Haru-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 5050][f 6 1 2 0 0 10]Yo... Haru...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 0]Me alegra que nos encontremos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Haru]]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 0]Me alegra o胤r eso. Me gustar胤a mucho hablar[n]m茨s contigo tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 0]No hay necesidad de ser tan apropiado,[n]Yukiko-chan. Seamos buenos amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 0]No hay necesidad de ser tan apropiado,[n]Yukiko. Seamos buenos amigos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5032][f 6 1 2 0 0 6]斡Correcto![n][f 1 3 65535][f 1 1][e]
@@ -76,15 +76,15 @@
 
 [msg MSG_023 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 5 1 0 0][f 4 6 71 10 0 0][f 3 1 1 0 0 0]Vaya, 夷es parte del juego? D姻jame[n]intentarlo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 1 0 4][f 4 6 71 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Hey, cosas calientes! 夷Quieres subir una[n]colina y cortar algunos 茨rboles conmigo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 1 0 4][f 4 6 71 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]¡Eh, bombón! ¿Quieres subir una colina y cortar algunos árboles conmigo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3057][f 6 1 2 0 0 0]夷Esa es tu idea de anotar? Espera... 斡As胤[n]que prefieres una colina![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3057][f 6 1 2 0 0 0]¿Esa es tu idea de conquistar? Espera... ¿Entonces PREFIERES una colina![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 5 6 1 0][f 3 1 1 0 0 0]夷Qu姻 tal esto?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Est茨s ah胤! 夷Est茨s dispuesto a dedicar tu[n]vida a defender la historia y las tradiciones[n]de Amagi Inn?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]¡Tú ahí! ¿Estás dispuesto a dedicar tu vida a mantener la larga historia y tradiciones del Amagi Inn?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Eso no me suena como una corbata![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]¡Eso no suena a conquista para mí![n][f 1 3 65535][f 1 1][e]
 

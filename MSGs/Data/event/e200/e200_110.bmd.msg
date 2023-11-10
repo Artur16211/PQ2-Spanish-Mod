@@ -95,7 +95,7 @@
 [sel SEL_028 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Parece algo familiar.[f 2 7 1 64 2 32][e]
 [f 0 5 65278][f 2 1]No tengo ni idea.[f 2 7 1 64 6 32][e]
-[f 0 5 65278][f 2 1]Est茨 locamente caliente.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]Es increíblemente atractiva.[f 2 7 1 64 0 32][e]
 
 [msg MSG_029 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 1][f 3 1 1 0 0 36]夷En serio? Tienes un gran c胤rculo de[n]conocidos.[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 1][f 3 1 1 0 0 38][f 6 1 2 0 0 4]Pero, esa ropa azul... 夷Podr胤a estar relacionada[n]con los otros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 39]Hey, suficiente con la broma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 39]Hey, suficiente con las broma.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 4 6 23 2 0 1][f 6 1 2 0 0 6]Welp, hay un tipo para ti... Mis ojos son[n]s吋lo para Lady Ann, sin embargo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Mujer Azul]]

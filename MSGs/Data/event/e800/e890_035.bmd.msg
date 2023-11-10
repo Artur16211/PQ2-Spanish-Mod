@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 3][f 3 1 1 0 0 0]夷Me est茨s diciendo que nuestros pensamientos[n]pueden convertirse en pel胤culas? 斡No[n]puedo soportarlo m茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033_1 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Quiero una pel胤cula donde soy la estrella![n]Con chicas calientes, y una persecuci吋n[n]de autos, y explosiones![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]¡Quiero una película en la que yo sea la estrella! ¡Con chicas guapas, una persecución en coche y explosiones![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 6][f 3 1 1 0 0 10041][f 6 1 2 0 0 9]Ya tenemos suficientes de tus delirios. No[n]necesito un boleto personal para ellos.[n][f 1 3 65535][f 1 1][e]

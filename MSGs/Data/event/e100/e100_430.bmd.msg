@@ -11,7 +11,7 @@
 
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Gracias, Theodore![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 65 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]...Oh hey, didn't see you there,[n][f 6 1 30 0 0 0]. Did you come to[n]check up on us?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 65 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]...Oh, hola, no te vi allí.[n][f 6 1 30 0 0 0]. ¿Viniste a ver cómo estamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22031]*Grecha* Parece que nuestra parte va a[n]funcionar. Pero era un orden bastante alto.[n][f 1 3 65535][f 1 1][e]
@@ -26,12 +26,12 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 22071][f 6 1 2 0 0 3]斡Correcto! S姻 que es alguien m茨s, pero todav胤a[n]tiene la cara de ese bastardo... S吋lo[n]me cabrea m茨s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 6 3 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eh... Entonces, 夷c吋mo habr胤as reaccionado si[n]Kamoshidaman estuviera s雨per caliente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 6 3 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Huh... Entonces, ¿cómo habrías reaccionado si Kamoshidaman fuera súper atractivo?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]El mal es malo, no importa cu茨n caliente.[f 2 7 1 64 6 32][e]
-[f 0 5 65278][f 2 1]I might cut him some slack then...[f 2 7 1 64 8 32][e]
-[f 0 5 65278][f 2 1]I'd hate his guts even more.[f 2 7 1 64 4 32][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0]El malo es malo, sin importar lo atractivo.[f 2 7 1 64 6 32][e]
+[f 0 5 65278][f 2 1]Puede que le dé un respiro...[f 2 7 1 64 8 32][e]
+[f 0 5 65278][f 2 1]Lo odiaría aún más.[f 2 7 1 64 4 32][e]
 
 [msg MSG_010 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 21067]S胤, tengo que estar de acuerdo con eso. No[n]importa qu姻 cara tenga, lo que hace es[n]imperdonable.[n][f 1 3 65535][f 1 1][e]

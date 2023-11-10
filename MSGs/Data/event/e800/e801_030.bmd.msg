@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 1 0 4][f 4 6 27 2 0 1][f 3 1 1 0 0 27107]斡Muy bien, estamos a mitad de camino! Deber胤amos[n]terminar pronto si mantenemos este[n]ritmo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 2 0 4][f 3 1 1 0 0 25067]S胤, definitivamente estoy lista ahora.[n]Hagamos esto r茨pido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 0 4][f 3 1 1 0 0 25067]Sí, definitivamente estoy calentando. Hagamos esto rápido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 21 6 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Queen y Noir se ven un poco m茨s preparadas[n]de lo habitual?[n][f 1 3 65535][f 1 1][e]

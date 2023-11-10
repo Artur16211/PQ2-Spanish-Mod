@@ -21,7 +21,7 @@
 
 [msg MSG_005 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54067]Desafortunadamente, no fui yo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es m茨s probable que me encuentren en mi[n]asiento durante las proyecciones, devorando[n]palomitas y perros calientes con abandono[n]salvaje.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es más probable encontrarme en mi asiento durante las proyecciones, devorando palomitas de maíz y hot dogs con total abandono.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Me alegra que haya disfrutado del espect茨culo,[n]como siempre.[n][f 1 3 65535][f 1 1][e]

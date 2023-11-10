@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1]Mi nombre clave es "Joker". Soy de segundo[n]a隠o en el Instituto Shujin y el l胤der de[n]Ladrones Fantasma. Estoy viviendo por[n]encima del Caf茨 Leblanc. Me han puesto en[n]libertad condicional por una acusaci吋n[n]falsa contra m胤.[n][e]
 
 [msg evt_intro_RYUJI]
-[f 0 5 65278][f 2 1]Nombre en clave: Skull. Segundo a隠o y ex[n]mejor corredor para el equipo de pista.[n]Caliente, pero compasivo y cari隠oso. A menudo[n]se precipita en cosas sin pensar[n]primero.[n][e]
+[f 0 5 65278][f 2 1]Nombre en clave: Skull. Segundo a隠o y ex[n]mejor corredor para el equipo de pista.[n]Apasionado pero compasivo y cuidadoso. A menudo[n]se precipita en cosas sin pensar[n]primero.[n][e]
 
 [msg evt_intro_ANN]
 [f 0 5 65278][f 2 1]Nombre en clave: Panther. Compa隠era de segundo[n]a隠o, modelo de revistas americanas a[n]tiempo parcial. Brillante y alegre; se[n]preocupa profundamente por sus amigos.[n][e]

@@ -5,17 +5,17 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 24008]Esto no parece inacabado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 0]Genial... 夷Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Crees que estaba demasiado caliente en ese[n]spandex o algo as胤? 夷Y tal vez la gente[n]quer胤a ayudar a enfriarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 0]COOL... 夷Kamoshidaman?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]¿Crees que tenía demasiado calor con ese traje ajustado o algo así? ¿Y tal vez la gente quería ayudar a enfriarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No, tonto. Obviamente significa, como,[n]"awesome" aqu胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No, tonto. Obviamente significa, como, "genial" aquí.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 21055]夷As胤 que esto es realmente PRAISING Kamoshidaman?[n]Tienes que estar bromeando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 21055]¡Ugh, en realidad están ELOGIANDO a Kamoshidaman![n]Tienes que estar bromeando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]La gente de esta ciudad lo vio como un h姻roe.[n]Probablemente se haya dejado atr茨s[n]desde entonces.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]La gente de esta ciudad alguna vez lo vio como un héroe. Probablemente eso quedó de entonces.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces de nuevo, pueden estar teniendo[n]segundos pensamientos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]

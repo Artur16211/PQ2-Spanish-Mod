@@ -124,10 +124,10 @@
 [f 0 5 65278][f 2 1][f 4 6 75 1 0 4][f 4 6 74 1 0 1][f 4 6 3 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]... Uh..?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 1 0 0][f 3 1 1 0 0 25021]... Este es otro perro caliente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 1 0 0][f 3 1 1 0 0 25021]...Esto es... otro hot dog.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Tenemos uno cuando nos enfrentamos a Theodore[n]tambi姻n. Supongo que los perros calientes[n]son un gran negocio aqu胤 ..?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Conseguimos uno cuando nos enfrentamos a Theodore también. Supongo que los hot dogs son algo importante aquí... ¿verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 55001]Supongo que eso es comprensible.[n][f 1 3 65535][f 1 1][e]
@@ -141,7 +141,7 @@
 [f 0 5 65278][f 2 1][f 4 6 75 6 0 0][f 3 1 1 0 0 0]... Tengo menos de lo que pens姻... Ya era[n]hora de que Theo hiciera otro lote.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 54014]Ah, verlo en persona s吋lo me hace querer uno[n]m茨s! Verdaderamente, es el m茨s caliente[n]de todos los perros posibles.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 54014]Ah, verlo en persona solo me hace querer uno más. Verdaderamente, es el hot dog más caliente de todos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Con un poco de amenaza, es decir, amable[n]recordando, estoy seguro de que me har茨 m茨s.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno entonces... adi吋s![n][f 1 3 65535][f 1 1][e]
 

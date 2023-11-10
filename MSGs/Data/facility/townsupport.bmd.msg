@@ -647,7 +647,7 @@
 [f 0 5 65278][f 2 1]Vamos a correr mucho, as胤 que tenemos que[n]mantener los niveles de az雨car altos.[n][f 1 2 125][e]
 
 [msg town_bg05_RYUJI_mes02]
-[f 0 5 65278][f 2 1]斡Tres perros calientes y un gran pedido de[n]patatas fritas! Y una soda.[n][f 1 2 140][e]
+[f 0 5 65278][f 2 1]Tres hot dogs y una orden grande de papas fritas. ¡Ah, y una soda![n][f 1 2 140][e]
 
 [msg town_bg05_MAKOTO_mes01]
 [f 0 5 65278][f 2 1]Ryuji, 夷cu茨nto soda has bebido ya?[n][f 1 2 130][e]

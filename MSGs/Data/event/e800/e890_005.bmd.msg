@@ -118,19 +118,19 @@
 
 [msg MSG_032 [Theodore]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]Nada menos que una obra maestra. Presento el[n]orgullo de mi oficio...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 76 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡El perro caliente artesanal de estilo[n]Velvet![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]¡El Hot Dog Artesanal al Estilo Velvet![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 74 1 0 1][f 4 6 76 1 0 4][f 4 6 71 12 0 3][f 3 1 1 0 0 27011][f 6 1 2 0 0 4]...Um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 3][f 3 1 1 0 0 5017]夷Un perro caliente? 夷Tu obra maestra es s吋lo[n]una salchicha en un bollo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 3][f 3 1 1 0 0 5017]...¿Un hot dog? ¿Tu obra maestra es simplemente una salchicha en un pan...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 76 2 0 0][f 3 1 1 0 0 0]S胤. Es maravillosamente adecuado para emparejar[n]con ver pel胤culas! Por favor, prueba[n]uno hoy.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]Publicidad un nuevo producto?[f 2 7 1 64 12 0][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]¿Publicidad un nuevo producto?[f 2 7 1 64 12 0][e]
 [f 0 5 65278][f 2 1]No puedo esperar.[f 2 7 1 64 2 32][e]
 
 [msg MSG_037 [Futaba]]
@@ -147,7 +147,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 0 3][f 3 1 1 0 0 0]Necesitas un cambio de carrera, Theodore...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 76 8 1 0][f 3 1 1 0 0 56104]Hermana, creo que robaste todo el lote de[n]perros calientes que acabo de hacer[n]antes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 76 8 1 0][f 3 1 1 0 0 56104]Hermana, creo que robaste todo el lote de hot dogs que acabo de terminar de hacer...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷No vas a donar algunos en mi nombre, junto[n]con tu recompensa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Elizabeth]]

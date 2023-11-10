@@ -68,20 +68,20 @@
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 1][f 3 1 1 0 0 26]Como usted ha superado esta prueba final,[n]vamos a posponer el juicio de su hot dog[n]heist por otro tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Ahora que lo pienso... nos das perros calientes[n]todo el tiempo, Elizabeth.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 6][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Ahora que lo pienso... nos das hot dogs todo el tiempo, Elizabeth.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 6 1 1][f 3 1 1 0 0 28]Gulp.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 6 1 1][f 3 1 1 0 0 28]*Traga saliva*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Rise]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 6 12 0 3][f 3 1 1 0 0 29]S胤, tienes raz吋n... Ella es la que nos sigue[n]dando perros calientes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 6 12 0 3][f 3 1 1 0 0 29]Oh, sí, tienes razón... Ella es la que nos sigue dando hot dogs.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30]La he visto sacar algo de detr茨s del cartel[n]de Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 10 0 1][f 3 1 1 0 0 31]斡Golpe doble![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 12 1 4][f 3 1 1 0 0 32][f 6 1 2 0 0 0]斡Ah胤 es donde escond胤a mis propios perros[n]calientes! No me digas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 12 1 4][f 3 1 1 0 0 32][f 6 1 2 0 0 0]E-Espera, ¡allí es donde estaba escondiendo mis propios hot dogs! No me digas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 0 1][f 3 1 1 0 0 33]Heheheh... As胤 que la verdad finalmente sale.[n][f 1 3 65535][f 1 1][e]
@@ -90,14 +90,14 @@
 [f 0 5 65278][f 2 1][f 4 6 74 8 1 1][f 3 1 1 0 0 34]La verdadera mente maestra estaba contigo[n]todo el tiempo...! O as胤 es. Estas historias[n]siempre requieren un giro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 0 3][f 3 1 1 0 0 35]Bueno, supongo que... pero eso significa que[n]fue acusado falsamente por robar..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 0 3][f 3 1 1 0 0 35]Bueno, supongo que sí... pero eso significa que fue acusado injustamente de robo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 1 0 0][f 4 6 78 6 1 4][f 3 1 1 0 0 36][f 6 1 2 0 0 10]斡Bien! 斡Al menos significa que tenemos un[n]buen sentido de tu poder![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 37]Pongamos este caso de perro caliente detr茨s[n]de nosotros. 斡Mejor que est姻s agradecido,[n]Recluso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 1 0 0][f 4 6 78 6 1 4][f 3 1 1 0 0 36][f 6 1 2 0 0 10]¡B-Bien! ¡Al menos significa que tenemos una buena idea de tu poder![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 37]Dejemos este asunto de los hot dogs atrás. ¡Mejor sé agradecido, recluso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 3 1 1 0 0 38]Sobre eso. Suponiendo que los prisioneros[n]sean inocentes de la robo de un perro[n]caliente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 3 1 1 0 0 38]Sobre eso. Suponiendo que los prisioneros son inocentes de un gran robo de hot dogs...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 4]夷Esto significa... 夷El que nos rob吋[n]Elizabeth?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Elizabeth]]
@@ -132,16 +132,16 @@
 
 [msg MSG_037 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 6 1 4][f 3 1 1 0 0 52]Ya veo. Y as胤 la verdad se hace clara.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 53]Caroline, hab胤as estado metiendo mi parte de[n]perros calientes detr茨s de mi espalda.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54]Cuando todos los perros calientes desaparecieron...[n]aprovecharon la oportunidad para[n]forzar toda la culpa al prisionero.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 2 0 0 2]... 夷Quiz茨 no est姻 solo en necesitar[n]rehabilitaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 53]Caroline, habías estado comiendo mi parte de hot dogs a mis espaldas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54]Cuando todos los hot dogs desaparecieron... aprovechaste la oportunidad para cargar toda la culpa sobre el prisionero.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 2 0 0 2]... 夷Quiz茨 no es el único que necesita[n]rehabilitaci吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 8 1 1][f 3 1 1 0 0 56][f 6 1 2 0 0 10]斡Eso no es verdad! 斡S吋lo me he tomado un poco[n]de la tuya![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 57]Pero entonces todos mis perros calientes de[n]repente desaparecieron, as胤 que... No[n]tuve elecci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 8 1 1][f 3 1 1 0 0 56][f 6 1 2 0 0 10]¡Eso no es cierto! ¡Solo comí un poco de los tuyos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 57]Pero entonces, todos mis hot dogs desaparecieron de repente, así que... no tuve elección...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_039 top]
-[f 0 5 65278][f 2 1]斡Eres el culpable![f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]斡Eres la culpable![f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Solo adm胤telo.[f 2 7 1 64 6 32][e]
 
 [msg MSG_040 [Caroline]]

@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 1 100 3][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 0]Hola, Elizabeth.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 3 1 1 0 0 0]斡No olvides tu promesa! Ponemos a esos[n]prisioneros en su lugar, 斡y nos consigues m茨s[n]perros calientes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 3 1 1 0 0 0]¡Mejor no olvides tu promesa! Hicimos que esos prisioneros se comportaran, ¡y tú nos traes más hot dogs![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 3][f 3 1 1 0 0 54056]Apostaste tu dulce bippy. Si姻ntete libre de[n]tomar tanto de mi parte como quieras.[n][f 1 3 65535][f 1 1][e]
@@ -48,7 +48,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Juro que ser茨n destruidos, en nombre de bollos[n]blandos y salchichas saladas por todas[n]partes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Los perros calientes de nuevo? T胤o, est茨is[n]obsesionados.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]¿Más hot dogs...? Hombre, ustedes están obsesionadas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 3][f 3 1 1 0 0 0]斡Sin embargo! Para que cuente como su victoria,[n]deben indicar claramente: "Nos[n]rindimos"[n][f 1 3 65535][f 1 1][e]
