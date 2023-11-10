@@ -467,7 +467,7 @@
 [f 0 5 65278][f 2 1]El portador es seguido por una brisa suave.[n][f 0 1 3] Aumenta la resistencia a todos las Ataduras[f 0 1 0][n][n][e]
 
 [msg armor_39C]
-[f 0 5 65278][f 2 1]Un collar hecho para fortalecer los cuellos[n]Queenntes. [f 0 1 3]Ma +2 / Su +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un collar hecho para fortalecer los cuellos de las reinas. [f 0 1 3]Ma +2 / Su +1[f 0 1 0][n][n][e]
 
 [msg armor_39D]
 [f 0 5 65278][f 2 1]Una bufanda con el poder del rey de la bestia.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]

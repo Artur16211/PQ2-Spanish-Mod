@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 4][f 3 1 1 0 0 22028][f 6 1 2 0 0 10]Lo siento... Pensar en ello me hace tan[n]irritado. Tengo que calmarme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]S胤, lo siento... Resolver la Queen y Noir es[n]m茨s importante ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]S胤, lo siento... Resolver lo de Queen y Noir es[n]m茨s importante ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 1]斡As胤 es! 斡Vamos, vamos![n][f 1 3 65535][f 1 1][e]

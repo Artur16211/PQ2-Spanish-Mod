@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Ack... Eso significa que hay m茨s en la[n]siguiente zona...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 4 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Esto es por el amor de la Queen y Noir,[n]Skull! 斡Mu姻strale algunas agallas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 4 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Esto es por el amor de Queen y Noir,[n]Skull! 斡Mu姻strale tus agallas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 21123]斡Est茨 bien, est茨 bien! Vamos, vamos a ponernos[n]nerviosos y seguir movi姻ndonos![n][f 1 3 65535][f 1 1][e]

@@ -25,5 +25,5 @@
 
 [msg MSG_008 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 4][f 3 1 1 0 0 26561][f 6 1 2 0 0 1][f 3 1 6 0 0 500]斡Es de Featherman! "斡Los h姻roes nunca se[n]retiran, suplican o se rinden!"[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Adelante, Joker! 斡Es hora de un coloso de[n]Tyranniqueen![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Adelante, Joker! 斡Es hora de derrotar al[n]Tyranniqueen![n][f 1 3 65535][f 1 1][e]
 

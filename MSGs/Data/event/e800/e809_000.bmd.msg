@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24027]Oh... Lo siento, estaba mirando este[n]graffiti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24051]Bueno, ciertamente podr胤a comer, pero estoy[n]lejos de morir de hambre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24051]Bueno, podr胤a comer, pero estoy[n]lejos de morir de hambre.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]Estaba mirando este graffiti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 0]Pero es un crimen, 夷verdad? Si Queen se[n]entera, estar胤as degustando el pu隠o de hierro[n]de la justicia con seguridad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 6][f 3 1 1 0 0 22092]Hey, 夷cu茨nto tiempo van a estar ah胤? 斡La[n]Queen y Noir nos est茨n esperando! 斡Vamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 6][f 3 1 1 0 0 22092]Oye, 夷cu茨nto tiempo van a quedarse ah胤? 斡Queen y Noir nos est茨n esperando! 斡Vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 24 0 0 0][f 3 1 1 0 0 0]Mis disculpas, estaba distra胤do... Cierto.[n]Son nuestra m茨xima prioridad.[n][f 1 3 65535][f 1 1][e]

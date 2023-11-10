@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Mperactitudes del cuerpo[n][e]
 
 [msg eventitem_601]
-[f 0 5 65278][f 2 1]Historia de una Queen enamorada de uno de[n]sus s雨bditos. No pueden estar juntos...[n][e]
+[f 0 5 65278][f 2 1]Historia de una reina enamorada de uno de[n]sus s雨bditos. Que no pueden estar juntos...[n][e]
 
 [msg eventitem_602]
 [f 0 5 65278][f 2 1]斡Nota sobre un movimiento que, sin duda, es[n]siempre alcanzable por los hombres m茨s[n]masculinos![n][e]
