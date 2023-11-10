@@ -8,6 +8,7 @@ Lv -> Nv
 Teasure Spot -> Punto de Tesoro
 Boost -> Boost 
 Binds -> Ataduras
+Hex -> Hechizo
 
 HP -> PS
 SP -> PE

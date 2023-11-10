@@ -344,7 +344,7 @@
 [f 0 5 65278][f 2 1]Una katana con el potencial para dar forma[n]a muchos destinos. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][n][e]
 
 [msg weapon_073]
-[f 0 5 65278][f 2 1]Cualquier sangre que derrama se env胤a volando[n]en grandes arcos. [f 0 1 3] Alta probabilidad de Hex[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Cualquier sangre que derrama se env胤a volando[n]en grandes arcos. [f 0 1 3] Alta probabilidad de Hechizo[f 0 1 0][n][n][e]
 
 [msg weapon_074]
 [f 0 5 65278][f 2 1]Una katana nacida de un rumor ePEec胤fico. [f 0 1 3][n]Reduce a la mitad el coste de PS / Fr +2 / Ag +7[f 0 1 0][n][n][e]

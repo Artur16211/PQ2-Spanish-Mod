@@ -254,10 +254,10 @@
 [f 0 5 65278][f 2 1]Gafas que te hacen un sabio. [f 0 1 3]EXP +20%[f 0 1 0][n][n][e]
 
 [msg accessory_A55]
-[f 0 5 65278][f 2 1]Estatua que protege contra Hexes. [f 0 1 3]Anula la Maldición[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra Hechizos. [f 0 1 3]Anula la Maldición[f 0 1 0][n][n][e]
 
 [msg accessory_A56]
-[f 0 5 65278][f 2 1]Estatua que protege contra Poison. [f 0 1 3][n]Anula el Veneno[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra Veneno. [f 0 1 3][n]Anula el Veneno[f 0 1 0][n][e]
 
 [msg accessory_A57]
 [f 0 5 65278][f 2 1]Estatua que protege contra el sue隠o. [f 0 1 3][n]Anula el sue隠o[f 0 1 0][n][e]
