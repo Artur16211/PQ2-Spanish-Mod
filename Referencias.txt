@@ -1,7 +1,7 @@
 ﻿Baton Pass -> Relevo
 Evoker -> Evocador
 Persona Film -> Persona Film # Temporal
-Follow-Up -> 
+Follow-Up -> Ataque de Seguimiento
 All-Out Attack -> Ataque combinado
 Velvet Room -> Habitación Terciopelo
 Lv -> Nv
@@ -9,6 +9,7 @@ Teasure Spot -> Punto de Tesoro
 Boost -> Boost 
 Binds -> Ataduras
 Hex -> Hechizo
+Support -> Apoyo
 
 HP -> PS
 SP -> PE
