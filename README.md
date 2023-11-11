@@ -3,13 +3,14 @@
 https://gamebanana.com/wips/78426
 
 --------
+MSGs Traducidos/Corregidos: <br>
 | Carpeta     | Progreso      | Notas     |
 | ------------- | ------------- | -------- |
 | battle          | 99%         |  Falta: Support/Message/04a |
 | camp           | 100%         | -  |
 | dungeon           | 100%         | -  |
 | event           | 10%         | e000-100%/e100-50%  |
-| facility           | 90%         | -  |
+| facility           | 100%         | -  |
 | init           | 60%         | Efectos traducidos  |
 | shared           | 100%         | -  |
 | tutorial           | 100%         | -  |
