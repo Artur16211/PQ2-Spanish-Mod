@@ -355,6 +355,7 @@ def run_program():
                 value = value.replace("[n]", " ")
                 # si no empieza por #
                 if not value.startswith("# "):
+                    # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                     def insert_n_character(line, interval=43):
                         target_position = interval
                         if len(line) <= target_position or len(line) <= target_position + 2:
@@ -384,6 +385,7 @@ def run_program():
 
                         line = line[:insert_position] + \
                             '[n]' + line[insert_position:]
+                        # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                         return insert_n_character(line, interval=interval + 43)
 
                     value = insert_n_character(value)
