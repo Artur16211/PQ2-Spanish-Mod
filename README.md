@@ -5,7 +5,7 @@ https://gamebanana.com/wips/78426
 --------
 | Carpeta     | Progreso      | Notas     |
 | ------------- | ------------- | -------- |
-| battle          | 90%         | -  |
+| battle          | 99%         |  Falta: Support/Message/04a |
 | camp           | 100%         | -  |
 | dungeon           | 100%         | -  |
 | event           | 10%         | e000-100%/e100-50%  |
