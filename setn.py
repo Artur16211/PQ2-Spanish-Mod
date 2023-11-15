@@ -429,8 +429,8 @@ def run_program():
                         else:
                             # print("La carpeta es battle (navegadores), usando intervalo 36")
 
-                            # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 36
-                            def insert_n_character(line, interval=36):
+                            # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
+                            def insert_n_character(line, interval=34):
                                 target_position = interval
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
@@ -463,7 +463,7 @@ def run_program():
 
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position:]
-                                return insert_n_character(line, interval=interval + 36)
+                                return insert_n_character(line, interval=interval + 34)
 
                             value = insert_n_character(value)
                     elif folder_name_msg == "camp":
