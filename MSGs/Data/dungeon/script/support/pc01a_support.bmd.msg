@@ -188,7 +188,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26332]斡Lo estamos haciendo bien! 斡Sigue![n][f 1 6 65535][e]
 
 [msg RISE_FUTABA_MAKASETA_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6399]斡Ahora eres todo tuyo, Oracle![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6399]斡Es todo tuyo, Oracle![n][f 1 6 65535][e]
 
 [msg RISE_FUTABA_MAKASETA_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6400]斡Est茨s despierta, Oracle! 斡Ve por ellos![n][f 1 6 65535][e]
