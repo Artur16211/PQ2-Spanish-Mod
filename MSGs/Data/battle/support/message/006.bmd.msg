@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6354]Se pone m茨s fuerte a medida que su salud[n]baja. Una vez que empieces, 斡debes matarlo lo antes posible![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_012]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6205]斡Una rara sombra! 斡No dejes que escape![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6205]斡Una sombra rara! 斡No dejes que escape![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_013]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6206]斡Hay una Sombra rara! 斡Derr胤bala r茨pido![n][f 1 6 65535][e]
