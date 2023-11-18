@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1]消耗品　0x50F　１行目 効果：[f 0 1 4]味方１列のＨＰを３００回復[f 0 1 0][n][n][e]
 
 [msg item_510]
-[f 0 5 65278][f 2 1]Medicina para liberar la fuerza. [f 0 1 4]Elimina Restricciones[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Medicina para liberar la fuerza. [f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_511]
 [f 0 5 65278][f 2 1]消耗品　0x511　１行目 効果：[f 0 1 4]味方１人の状態異常を回復[f 0 1 0][n][n][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1]Una sala con la bendici吋n de Idaten. [f 0 1 4][n]Aumenta[f 0 1 0] [f 0 1 4]la precisi吋nlevasi吋n por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_517]
-[f 0 5 65278][f 2 1]L胤quido estilo despu姻s de la bebida de los[n]dioses. [f 0 1 4]Elimina Estados Alterados y Restricciones[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]L胤quido estilo despu姻s de la bebida de los[n]dioses. [f 0 1 4]Elimina Estados Alterados y Ataduras[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_518]
 [f 0 5 65278][f 2 1]消耗品　0x518　１行目 消耗品　0x518　２行目[n][e]
@@ -272,10 +272,10 @@
 [f 0 5 65278][f 2 1]Vatio de agua que purifica impurezas corporales.[n][f 0 1 4]Cura Estados Alterados[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_55B]
-[f 0 5 65278][f 2 1]Una multi-paquete de medicina sin uni吋n. [f 0 1 4][n]Elimina Restricciones[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Una multi-paquete de medicina sin uni吋n. [f 0 1 4][n]Elimina Ataduras[f 0 1 0]. (1[n]fila)[n][e]
 
 [msg item_55C]
-[f 0 5 65278][f 2 1]Un paquete de jumbo de medicinas inconclusas.[n][f 0 1 4]Elimina Restricciones[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Un paquete de jumbo de medicinas inconclusas.[n][f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_55D]
 [f 0 5 65278][f 2 1]Un largo arreglo de pasteles. Puede alimentar[n]hasta 3. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 fila)[n][e]

@@ -1763,7 +1763,7 @@
 [f 0 5 65278][f 2 1]¡Se ha añadido un efecto de curación masiva![n][e]
 
 [msg BTLMSGID_DARKMIST [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]El tiempo de estado alterado y restricción de [f 2 4 1] se ha extendido.[n][e]
+[f 0 5 65278][f 2 1]El tiempo de estado alterado y ataduras de [f 2 4 1] se ha extendido.[n][e]
 
 [msg BTLMSGID_TARGET_DEAD_ALR [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]¡No hay un objetivo para [f 2 4 0]![n][e]
