@@ -10,6 +10,9 @@ Boost -> Boost
 Binds -> Ataduras
 Hex -> Hechizo
 Support -> Apoyo
+Buff -> Ventajas
+Debuffs -> Desventajas
+Sub-Persona -> Persona Secundaria
 
 HP -> PS
 SP -> PE
