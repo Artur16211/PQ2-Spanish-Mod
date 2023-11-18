@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56028]Al evaluar la situaci吋n, puedes[n]elegir equipamiento que te dar茨 una[n]ventaja antes de que comience la batalla.[n][f 1 1][e]
 
 [msg WSHOP_EXP_DLC_ITEM_0 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 1]Un paquete dirigido a ti lleg吋[n]mientras estabas ausente.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 1]Llego un paquete dirigido a ti mientras estabas ausente.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]No tengo dudas de que su contenido ser茨[n]雨til en tu aventura. Por favor, ac姻ptalo.[n][f 1 1][e]
 
 [msg WSHOP_EXP_DLC_ITEM_1 [Theodore]]

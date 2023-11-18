@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][n][n]Las [f 0 1 2]Sub-Personas[f 0 1 0] se han desbloqueado.[n][f 1 1][e]
 
 [msg MSG_CAMP_MENU_OPEN]
-[f 0 5 65278][f 2 1]Presiona el [f 0 1 2]Bot吋n X[f 0 1 0] para abrir el Men雨. Aqu胤 puedes usar objetos o habilidades, y ver el estado de tu grupo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Presiona el [f 0 1 2]Bot吋n X[f 0 1 0] para abrir el Men雨. Ahí puedes usar objetos o habilidades, y ver el estado de tu grupo.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Mientras investigas, presiona [n][f 0 1 2]START[f 0 1 0] en el men雨 para realizar una suspensi吋n de guardado.[n][f 1 1][e]
 
 [msg MSG_SHOP_OPEN_GUIDE]

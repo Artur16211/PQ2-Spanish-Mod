@@ -322,7 +322,9 @@ def run_program():
             '轡': '緯',
             '繰': '遺',
             '訓': '郁',
-            '粂': '謂'
+            '粂': '謂',
+            'Sub-Personas': 'Personas Secundarias',
+            'Sub-Persona': 'Persona Secundaria',
         }
 
         def replace_characters(text, replacement_dict):

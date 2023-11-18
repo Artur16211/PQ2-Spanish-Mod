@@ -1,14 +1,14 @@
 [msg MSG_BEST_1_1 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 1074]Me siento preparado para la tarea. 夷Te importa si me uno a la pelea?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 1074]Me siento preparado. 夷Te importa si me uno a la pelea?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_BEST_1_2 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 2 0 0][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 1001]夷Te importa si me uno a la acci吋n? Estoy en buena forma en este momento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 2 0 0][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 1001]夷Te importa si me uno a la acci吋n? Estoy en forma en este momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_BEST_2_1 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 1 5][f 6 1 16 0 0 0][n][f 3 1 1 0 0 2001]夷Crees que podr胤a unirme a ti? Siento que lo har姻 mejor de lo habitual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_BEST_2_2 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 1 5][f 6 1 16 0 0 0][n][f 3 1 1 0 0 2031]Siento que estoy en buena forma. 夷Te importa si vengo contigo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 1 5][f 6 1 16 0 0 0][n][f 3 1 1 0 0 2031]Siento que estoy en forma. 夷Te importa si vengo contigo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_BEST_3_1 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 3001]Oye, 夷te importar胤a llevarme contigo? 斡Estoy en racha![n][f 1 3 65535][f 1 1][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1]Aseg雨rate de que Aigis y yo estemos en el grupo, y que Rise sea la navegadora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_QUEST_47 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 64 4 32 3][f 4 6 23 2 0 0][f 3 1 1 0 0 23072]Si vas a la proyecci吋n especial, aseg雨rate de estar en el grupo principal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 4 32 3][f 4 6 23 2 0 0][f 3 1 1 0 0 23072]Si vas a la proyecci吋n especial, aseg雨rate de llevarme en el grupo principal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_QUEST_48 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 1068]Si te diriges a la proyecci吋n especial, aseg雨rate de llevarme contigo.[n][f 1 3 65535][f 1 1][e]
@@ -188,7 +188,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 2 0 0][f 1 5][f 6 1 16 0 0 0][n][f 3 1 1 0 0 2117]Si vas a la proyecci吋n especial, necesito estar en el grupo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_QUEST_50 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 27 0 0 0][n][f 3 1 1 0 0 19127]Si vas a hacer la proyecci吋n especial, aseg雨rate de incluirme en el grupo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 27 0 0 0][n][f 3 1 1 0 0 19127]Si vas a la proyecci吋n especial, aseg雨rate de incluirme en el grupo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_EX_BEST_00]
 [f 0 5 65278][f 2 1]※Force quest targets to enter Great[n]Condition.[n][f 1 3 65535][f 1 1][e]
