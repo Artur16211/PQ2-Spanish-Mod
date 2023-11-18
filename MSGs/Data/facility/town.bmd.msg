@@ -6,7 +6,7 @@
 
 [msg TOWN_TUTORIAL_CAMP_PERSO]
 [f 0 5 65278][f 2 1][f 0 1 2]PERSONA[f 0 1 0] se ha a隠adido[n]al men雨. Usa X para abrirlo.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Puedes equipar y cambiar Sub-Personas en la opci吋n [f 0 1 2]PERSONA[f 0 1 0][n]en el men雨.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Puedes equipar y cambiar Personas Secundarias en la opci吋n [f 0 1 2]PERSONA[f 0 1 0][n]en el men雨.[n][f 1 1][e]
 
 [msg TOWN_TUTORIAL_PARTY_JOIN]
 [f 0 5 65278][f 2 1][f 0 1 2]Un nuevo miembro se ha unido a tu grupo[f 0 1 0], 斡as胤 que las posibilidades de tu grupo se han ampliado![n]夷Por qu姻 no pruebas diferentes combinaciones de grupo?[n][f 1 1][e]
@@ -48,7 +48,7 @@
 [f 0 5 65278][f 2 1]Una vez hayas cumplido los requisitos de una solicitud, ve a la Oficina de Enfermer胤a y [f 0 1 2]reporta[f 0 1 0] la solicitud.[n]斡Despu姻s de todo, no recibir茨s ninguna recompensa si no la reportas![n][f 1 1][e]
 
 [msg TOWN_TO_DUNGEON]
-[f 0 5 65278][f 2 1]T雨 o uno de los miembros de tu grupo no tienen una Sub-Persona equipada.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]T雨 o uno de los miembros de tu grupo no tienen una Persona Secundaria equipada.[n][f 1 1][e]
 
 [msg TOWN_TO_GREED1]
 [f 0 5 65278][f 2 1]挨拶１。[n][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]※デバッグ用[n]アタリ！誰かが絶好調になります！[n][f 1 6 65535][e]
 
 [msg MSG_SUB_PERSONA_OPEN]
-[f 0 5 65278][f 2 1][n][n]Las [f 0 1 2]Sub-Personas[f 0 1 0] se han desbloqueado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n][n]Las [f 0 1 2]Personas Secundarias[f 0 1 0] se han desbloqueado.[n][f 1 1][e]
 
 [msg MSG_CAMP_MENU_OPEN]
 [f 0 5 65278][f 2 1]Presiona el [f 0 1 2]Bot吋n X[f 0 1 0] para abrir el Men雨. Ahí puedes usar objetos o habilidades, y ver el estado de tu grupo.[n][f 1 1][e]
