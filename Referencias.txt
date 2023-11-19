@@ -1,25 +1,36 @@
-﻿Baton Pass -> Relevo
-Evoker -> Evocador
-Persona Film -> Persona Film # Temporal
+﻿# Traducción oficial de P5R/P4G/P3P:
 Follow-Up -> Ataque de Seguimiento
 All-Out Attack -> Ataque combinado
 Velvet Room -> Habitación Terciopelo
-Lv -> Nv
-Teasure Spot -> Punto de Tesoro
-Boost -> Boost 
-Binds -> Ataduras
-Hex -> Hechizo
+Follow-Up -> Ataque de Seguimiento
+All-Out Attack -> Ataque combinado
+Velvet Room -> Habitación Terciopelo
 Support -> Apoyo
 Buff -> Ventajas
 Debuffs -> Desventajas
-Sub-Persona -> Persona Secundaria
-
+##
 HP -> PS
 SP -> PE
-
-# Estadisticas
+##
 St -> Fr
 Ma -> Ma
 En -> Rs
 Ag -> Ag
 Lu -> Su
+
+# Traducción oficial de Persona 5 Royal:
+Baton Pass -> Relevo
+
+# Traducción oficial de Persona 5 Tactica:
+Sub-Persona -> Persona Secundaria
+
+# Traducción oficial de Persona 3 Portable:
+Evoker -> Evocador
+
+# Q2:
+Lv -> Nv
+Teasure Spot -> Punto de Tesoro
+Boost -> Boost
+Binds -> Ataduras
+Hex -> Hechizo
+Persona Film -> Persona Film # Temporal
