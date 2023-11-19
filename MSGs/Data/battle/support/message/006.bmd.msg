@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6351]斡Ese tiene ataques muy poderosos! 斡No te arriesgues![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_009]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6352]Cuidado, ese FOE tiene ataques f胤sicos s雨per[n]fuertes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6352]斡Cuidado, ese FOE tiene ataques f胤sicos s雨per[n]fuertes![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_010]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6353]斡Cuidado, los ataques m茨gicos de ese FOE no[n]son una broma![n][f 1 6 65535][e]

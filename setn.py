@@ -127,6 +127,35 @@ on_select(None)
 # Set the position of the dropdown in the window
 dropdown.grid(row=3, column=0, padx=10, pady=10)
 
+# checkbox para cambiar el estado de una variable
+
+
+# Disable SetN
+def on_check():
+    global setn
+    setn = check_var.get()
+    # clear the log box
+    log_box.config(state=tk.NORMAL)
+    log_box.delete('1.0', tk.END)
+    log_box.config(state=tk.DISABLED)
+    # print(f"setn: {setn}")
+    if setn == 1:
+        print("SetN desactivado")
+    else:
+        print("SetN activado")
+    print(f"Game: {game}")
+
+
+# Make the checkbox
+check_var = tk.IntVar()
+checkbox = ttk.Checkbutton(root, text="Desactivar SetN",
+                           variable=check_var, command=on_check)
+
+checkbox.grid(row=4, column=0, padx=10, pady=10)
+
+# Run the on_check function when the program starts
+on_check()
+# Disable SetN
 
 # specify the size of the window
 root.geometry("820x600")
@@ -767,43 +796,85 @@ def run_program():
                             return insert_n_character(line, interval=interval + 52)
 
                         value = insert_n_character(value)
-                    elif folder_name_msg != "battle" and folder_name_msg != "camp" and folder_name_msg != "dungeon" and folder_name_msg != "event" and folder_name_msg != "facility" and folder_name_msg != "init" and folder_name_msg != "shared" and folder_name_msg != "tutorial":
-                        # print("La carpeta no coincide con ninguna, usando intervalo 43")
-
-                        def insert_n_character(line, interval=43):
-                            target_position = interval
-                            if len(line) <= target_position or len(line) <= target_position + 2:
-                                return line
-
-                            left_bracket = line.rfind('[', 0, target_position)
-                            right_bracket = line.find(']', target_position)
-
-                            # check if the target position is inside a bracket
-                            if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                insert_position = right_bracket + 1
-                            else:
-                                left_space = line.rfind(
-                                    ' ', 0, target_position)
-                                right_space = line.find(' ', target_position)
-
-                                if left_space == -1 and right_space == -1:
+                    else:
+                        # print("La carpeta no coincide con ninguna, usando intervalo 43, al igual que en event")
+                        if setn != 1:
+                            def insert_n_character(line, interval=43):
+                                target_position = interval
+                                if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
-                                if left_space == -1:
-                                    insert_position = right_space
-                                elif right_space == -1:
-                                    insert_position = left_space + 1
+
+                                left_bracket = line.rfind(
+                                    '[', 0, target_position)
+                                right_bracket = line.find(']', target_position)
+
+                                # check if the target position is inside a bracket
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
+                                    insert_position = right_bracket + 1
                                 else:
-                                    if abs(target_position - left_space) <= abs(right_space - target_position):
+                                    left_space = line.rfind(
+                                        ' ', 0, target_position)
+                                    right_space = line.find(
+                                        ' ', target_position)
+
+                                    if left_space == -1 and right_space == -1:
+                                        return line
+                                    if left_space == -1:
+                                        insert_position = right_space
+                                    elif right_space == -1:
                                         insert_position = left_space + 1
                                     else:
+                                        if abs(target_position - left_space) <= abs(right_space - target_position):
+                                            insert_position = left_space + 1
+                                        else:
+                                            insert_position = right_space
+
+                                line = line[:insert_position] + \
+                                    '[n]' + line[insert_position:]
+                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
+                                return insert_n_character(line, interval=interval + 43)
+
+                            value = insert_n_character(value)
+                        else:
+                            # al desactivar setn, se usa un intervalo de 500, de esta forma se evita que se agregue el [n] en los mensajes que no lo necesitan
+                            # print("SetN desactivado, usando intervalo 500")
+
+                            def insert_n_character(line, interval=500):
+                                target_position = interval
+                                if len(line) <= target_position or len(line) <= target_position + 2:
+                                    return line
+
+                                left_bracket = line.rfind(
+                                    '[', 0, target_position)
+                                right_bracket = line.find(']', target_position)
+
+                                # check if the target position is inside a bracket
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
+                                    insert_position = right_bracket + 1
+                                else:
+                                    left_space = line.rfind(
+                                        ' ', 0, target_position)
+                                    right_space = line.find(
+                                        ' ', target_position)
+
+                                    if left_space == -1 and right_space == -1:
+                                        return line
+                                    if left_space == -1:
                                         insert_position = right_space
+                                    elif right_space == -1:
+                                        insert_position = left_space + 1
+                                    else:
+                                        if abs(target_position - left_space) <= abs(right_space - target_position):
+                                            insert_position = left_space + 1
+                                        else:
+                                            insert_position = right_space
 
-                            line = line[:insert_position] + \
-                                '[n]' + line[insert_position:]
-                            # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
-                            return insert_n_character(line, interval=interval + 43)
+                                line = line[:insert_position] + \
+                                    '[n]' + line[insert_position:]
+                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
+                                return insert_n_character(line, interval=interval + 500)
 
-                        value = insert_n_character(value)
+                            value = insert_n_character(value)
                 # Delete the spaces before and after the [n]
                 value = value.replace(' [n] ', '[n]').replace(
                     ' [n]', '[n]').replace('[n] ', '[n]')
