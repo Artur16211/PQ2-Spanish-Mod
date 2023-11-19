@@ -1776,7 +1776,7 @@
 [f 0 5 65278][f 2 1]Sobrevive un ataque letal con [f 0 1 4]1 PS[f 0 1 0][n]en lugar de ser derribado. (Auto)[n][e]
 
 [msg skill_250]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]Hechizado.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]Maldecido.[n](Auto)[n][e]
 
 [msg skill_251]
 [f 0 5 65278][f 2 1][f 0 1 4]Anula el estado alterado[f 0 1 0]Paralisis.[n](Auto)[n][e]

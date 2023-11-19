@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58401]Tch... ¡Petrificación![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_067]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58402]Oye, ¡un aliado ha sido hechizado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58402]Oye, ¡un aliado ha sido Maldecido![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_068]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58403]斡Cuidado con el veneno! Espera, 夷ya est茨s[n]envenenado?[n][f 1 6 65535][e]

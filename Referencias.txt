@@ -2,9 +2,6 @@
 Follow-Up -> Ataque de Seguimiento
 All-Out Attack -> Ataque combinado
 Velvet Room -> Habitación Terciopelo
-Follow-Up -> Ataque de Seguimiento
-All-Out Attack -> Ataque combinado
-Velvet Room -> Habitación Terciopelo
 Support -> Apoyo
 Buff -> Ventajas
 Debuffs -> Desventajas
@@ -32,5 +29,5 @@ Lv -> Nv
 Teasure Spot -> Punto de Tesoro
 Boost -> Boost
 Binds -> Ataduras
-Hex -> Hechizo
+Hex -> Hechizo / Maldición
 Persona Film -> Persona Film # Temporal

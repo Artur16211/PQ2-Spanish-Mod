@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55401]Oh di... Parece que alguien ha sido[n]petrificado...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_067]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 55402]Alguien ha sido hechizado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 55402]Alguien ha sido maldecido...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_068]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 55403]Alguien ha sido envenenado...[n][f 1 6 65535][e]
@@ -680,7 +680,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57401]¡Oh no, te han convertido en piedra![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_227]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57402]¿Te han hechizado? ¿Cómo lo arreglamos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57402]¿Te han Maldecido? ¿Cómo lo arreglamos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_228]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57403]斡Ah! 斡Alguien ha sido envenenado![n][f 1 6 65535][e]
