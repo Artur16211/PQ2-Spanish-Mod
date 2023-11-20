@@ -496,7 +496,8 @@ def run_program():
 
                                     line = line[:insert_position] + \
                                         '[n]' + line[insert_position:]
-                                    return insert_n_character(line, interval=interval + 34)
+                                    # Devolver solo la linea, para que no se repita el [n] mas de una vez
+                                    return line
 
                                 value = insert_n_character(value)
                         elif folder_name_msg == "camp":
@@ -539,42 +540,79 @@ def run_program():
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "dungeon":
-                            # print("La carpeta es dungeon, usando intervalo 43")
+                            if path_parts[index_setn + 2] == "script" and path_parts[index_setn + 3] == "support":
+                                # print("La carpeta es dungeon, usando intervalo 43")
 
-                            def insert_n_character(line, interval=43):
-                                target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
-                                    return line
-
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
-
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
-                                else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
-
-                                    if left_space == -1 and right_space == -1:
+                                def insert_n_character(line, interval=43):
+                                    target_position = interval
+                                    if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+
+                                    left_bracket = line.rfind(
+                                        '[', 0, target_position)
+                                    right_bracket = line.find(
+                                        ']', target_position)
+
+                                    # check if the target position is inside a bracket
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
+                                        insert_position = right_bracket + 1
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
+                                        left_space = line.rfind(
+                                            ' ', 0, target_position)
+                                        right_space = line.find(
+                                            ' ', target_position)
+
+                                        if left_space == -1 and right_space == -1:
+                                            return line
+                                        if left_space == -1:
+                                            insert_position = right_space
+                                        elif right_space == -1:
                                             insert_position = left_space + 1
                                         else:
+                                            if abs(target_position - left_space) <= abs(right_space - target_position):
+                                                insert_position = left_space + 1
+                                            else:
+                                                insert_position = right_space
+
+                                    line = line[:insert_position] + \
+                                        '[n]' + line[insert_position:]
+                                    return line
+                                value = insert_n_character(value)
+                            else:
+                                def insert_n_character(line, interval=43):
+                                    target_position = interval
+                                    if len(line) <= target_position or len(line) <= target_position + 2:
+                                        return line
+
+                                    left_bracket = line.rfind(
+                                        '[', 0, target_position)
+                                    right_bracket = line.find(
+                                        ']', target_position)
+
+                                    # check if the target position is inside a bracket
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
+                                        insert_position = right_bracket + 1
+                                    else:
+                                        left_space = line.rfind(
+                                            ' ', 0, target_position)
+                                        right_space = line.find(
+                                            ' ', target_position)
+
+                                        if left_space == -1 and right_space == -1:
+                                            return line
+                                        if left_space == -1:
                                             insert_position = right_space
+                                        elif right_space == -1:
+                                            insert_position = left_space + 1
+                                        else:
+                                            if abs(target_position - left_space) <= abs(right_space - target_position):
+                                                insert_position = left_space + 1
+                                            else:
+                                                insert_position = right_space
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                return insert_n_character(line, interval=interval + 43)
-
+                                    line = line[:insert_position] + \
+                                        '[n]' + line[insert_position:]
+                                    return insert_n_character(line, interval=interval + 43)
                             value = insert_n_character(value)
                         elif folder_name_msg == "event":
                             # print("La carpeta es event, usando intervalo 43")
@@ -654,7 +692,8 @@ def run_program():
 
                                     line = line[:insert_position] + \
                                         '[n]' + line[insert_position:]
-                                    return insert_n_character(line, interval=interval + 34)
+                                    # Devolver solo la linea, para que no se repita el [n] mas de una vez
+                                    return line
 
                                 value = insert_n_character(value)
                             else:
@@ -731,7 +770,8 @@ def run_program():
 
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position:]
-                                return insert_n_character(line, interval=interval + 40)
+                                # Devolver solo la linea, para que no se repita el [n] mas de una vez
+                                return line
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "shared":
@@ -852,7 +892,7 @@ def run_program():
 
                             value = insert_n_character(value)
                     else:
-                        # al desactivar setn, se usa un intervalo de 500, de esta forma se evita que se agregue el [n] en los mensajes que no lo necesitan
+                        # al desactivar setn, se usa un intervalo de 500, de esta forma se evita que se agregue el [n] en los mensajes que no lo necesitan (teniendo en cuenta que ningun mensaje tendra mas de 500 caracteres)
                         # print("SetN desactivado, usando intervalo 500")
 
                         def insert_n_character(line, interval=500):
