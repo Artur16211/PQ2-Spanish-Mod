@@ -935,6 +935,9 @@ def run_program():
                 # Delete the spaces before and after the [n]
                 value = value.replace(' [n] ', '[n]').replace(
                     ' [n]', '[n]').replace('[n] ', '[n]')
+                # replace the fix_dict to fix compile errors
+                value = value.replace('[f[n]0 1 0]', '[n][f 0 1 0]').replace(
+                    '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]')
                 # La primera letra del mensaje debe ser mayúscula
                 if len(value) > 0:
                     value = value[0].upper() + value[1:]
