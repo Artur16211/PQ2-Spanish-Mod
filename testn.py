@@ -34,5 +34,3 @@ value2 = "Si hay alg雨n material que ya hayas vendido aqu胤, ahora a隠adir姻
 value = insert_n_character(value)
 
 print(value)
-
-# si
