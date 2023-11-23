@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Dibujando y Borrando Paredes[n][e]
 
 [msg map_help_title_002]
-[f 0 5 65278][f 2 1]Coloreando los Azulejos[n][e]
+[f 0 5 65278][f 2 1]Coloreando Azulejos[n][e]
 
 [msg map_help_title_003]
 [f 0 5 65278][f 2 1]Colocando y Quitando Iconos[n][e]

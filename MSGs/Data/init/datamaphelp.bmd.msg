@@ -8,10 +8,10 @@
 [f 0 5 65278][f 2 1]La herramienta de pincel colorea las casillas.[n][e]
 
 [msg map_help_002_02]
-[f 0 5 65278][f 2 1]La herramienta de pa隠o de limpieza borra los suelos.[n][e]
+[f 0 5 65278][f 2 1]La herramienta de pa隠o para polvo borra los suelos.[n][e]
 
 [msg map_help_002_03]
-[f 0 5 65278][f 2 1]Tocar el bot吋n de color y seleccionar un color te permitir茨 cambiar el tono.[n][e]
+[f 0 5 65278][f 2 1]Al tocar el bot吋n de color y seleccionar un color, podr茨s cambiar la tonalidad.[n][e]
 
 [msg map_help_003_01]
 [f 0 5 65278][f 2 1]Coloca iconos como puertas en el mapa arrastr茨ndolos.[n][e]
@@ -26,13 +26,13 @@
 [f 0 5 65278][f 2 1]テスト1[n][e]
 
 [msg map_help_006_01]
-[f 0 5 65278][f 2 1]Toca el n雨mero de piso mientras se muestra todo el mapa y solo ese piso se mostrar茨.[n][e]
+[f 0 5 65278][f 2 1]Toque el n雨mero de piso mientras se muestra todo el mapa, y solo ese piso se mostrar茨.[n][e]
 
 [msg map_help_006_02]
-[f 0 5 65278][f 2 1]Toca el bot吋n del laberinto para seleccionar el laberinto y el piso.[n][e]
+[f 0 5 65278][f 2 1]Toque el bot吋n del laberinto para seleccionar el laberinto y el piso.[n][e]
 
 [msg map_help_007_01]
-[f 0 5 65278][f 2 1]Cuando toques la br雨jula en la parte superior izquierda, puedes mantener el 胤cono del jugador mirando hacia arriba mientras el mapa cambia de direcci吋n.[n][e]
+[f 0 5 65278][f 2 1]Cuando tocas la br雨jula en la parte superior izquierda, puedes mantener el 胤cono del jugador mirando hacia arriba mientras el mapa cambia de direcci吋n.[n][e]
 
 [msg map_help_007_02]
 [f 0 5 65278][f 2 1]Devu姻lvelo a su configuraci吋n predeterminada tocando la br雨jula nuevamente.[n][e]
@@ -44,10 +44,10 @@
 [f 0 5 65278][f 2 1]Utiliza el Piloto Autom茨tico para moverte autom茨ticamente.[n][e]
 
 [msg map_help_009_02]
-[f 0 5 65278][f 2 1]Dibuja la ruta que te gustar胤a seguir con el bol胤grafo de ruta en el men雨 del Piloto Autom茨tico.[n][e]
+[f 0 5 65278][f 2 1]Dibuja la ruta que te gustar胤a seguir con el bol胤grafo de ruta en el men雨 de Piloto Autom茨tico.[n][e]
 
 [msg map_help_009_03]
-[f 0 5 65278][f 2 1]Recorre la ruta que dibujaste y toca el bot吋n de movimiento para comenzar a moverte autom茨ticamente.[n][e]
+[f 0 5 65278][f 2 1]Viaja por la ruta que dibujaste y toca el bot吋n de mover para empezar a moverte autom茨ticamente.[n][e]
 
 [msg map_help_009_04]
 [f 0 5 65278][f 2 1]Tocando la l胤nea que fue dibujada por el bol胤grafo de ruta, puedes retroceder.[n][e]

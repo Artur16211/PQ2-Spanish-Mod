@@ -426,6 +426,12 @@ def run_program():
 
                                 def insert_n_character(line, interval=43):
                                     target_position = interval
+
+                                    intervalo_div = int(target_position / 43)
+
+                                    if intervalo_div != 1:
+                                        target_position += 3 * intervalo_div
+
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
 
@@ -434,30 +440,22 @@ def run_program():
                                     right_bracket = line.find(
                                         ']', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                        sum_brackets = line[left_bracket:right_bracket + 1]
+                                        target_position += len(sum_brackets)
+
+                                    last_space_position = line.rfind(
+                                        ' ', 0, target_position)
+
+                                    if last_space_position == -1:
+                                        return line
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        target_position = last_space_position
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
-                                        else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                    line = line[:target_position] + \
+                                        '[n]' + line[target_position + 1:]
 
-                                    line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                                     return insert_n_character(line, interval=interval + 43)
 
                                 value = insert_n_character(value)
@@ -467,6 +465,12 @@ def run_program():
                                 # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
                                 def insert_n_character(line, interval=34):
                                     target_position = interval
+
+                                    intervalo_div = int(target_position / 34)
+
+                                    if intervalo_div != 1:
+                                        target_position += 3 * intervalo_div
+
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
 
@@ -475,30 +479,22 @@ def run_program():
                                     right_bracket = line.find(
                                         ']', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                        sum_brackets = line[left_bracket:right_bracket + 1]
+                                        target_position += len(sum_brackets)
+
+                                    last_space_position = line.rfind(
+                                        ' ', 0, target_position)
+
+                                    if last_space_position == -1:
+                                        return line
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        target_position = last_space_position
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
-                                        else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                    line = line[:target_position] + \
+                                        '[n]' + line[target_position + 1:]
 
-                                    line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    # Devolver solo la linea, para que no se repita el [n] mas de una vez
                                     return line
 
                                 value = insert_n_character(value)
@@ -507,37 +503,36 @@ def run_program():
 
                             def insert_n_character(line, interval=43):
                                 target_position = interval
+
+                                intervalo_div = int(target_position / 43)
+
+                                if intervalo_div != 1:
+                                    target_position += 3 * intervalo_div
+
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
 
                                 left_bracket = line.rfind(
                                     '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                right_bracket = line.find(
+                                    ']', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                    sum_brackets = line[left_bracket:right_bracket + 1]
+                                    target_position += len(sum_brackets)
+
+                                last_space_position = line.rfind(
+                                    ' ', 0, target_position)
+
+                                if last_space_position == -1:
+                                    return line
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    target_position = last_space_position
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
-                                    else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                line = line[:target_position] + \
+                                    '[n]' + line[target_position + 1:]
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                                 return insert_n_character(line, interval=interval + 43)
 
                             value = insert_n_character(value)
@@ -545,8 +540,14 @@ def run_program():
                             if path_parts[index_setn + 2] == "script" and path_parts[index_setn + 3] == "support":
                                 # print("La carpeta es dungeon, usando intervalo 43")
 
-                                def insert_n_character(line, interval=43):
+                                def insert_n_character(line, interval=34):
                                     target_position = interval
+
+                                    intervalo_div = int(target_position / 34)
+
+                                    if intervalo_div != 1:
+                                        target_position += 3 * intervalo_div
+
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
 
@@ -555,34 +556,33 @@ def run_program():
                                     right_bracket = line.find(
                                         ']', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                        sum_brackets = line[left_bracket:right_bracket + 1]
+                                        target_position += len(sum_brackets)
+
+                                    last_space_position = line.rfind(
+                                        ' ', 0, target_position)
+
+                                    if last_space_position == -1:
+                                        return line
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        target_position = last_space_position
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
-                                        else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                    line = line[:target_position] + \
+                                        '[n]' + line[target_position + 1:]
 
-                                    line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
                                     return line
                                 value = insert_n_character(value)
                             else:
                                 def insert_n_character(line, interval=43):
                                     target_position = interval
+
+                                    intervalo_div = int(target_position / 43)
+
+                                    if intervalo_div != 1:
+                                        target_position += 3 * intervalo_div
+
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
 
@@ -591,29 +591,22 @@ def run_program():
                                     right_bracket = line.find(
                                         ']', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                        sum_brackets = line[left_bracket:right_bracket + 1]
+                                        target_position += len(sum_brackets)
+
+                                    last_space_position = line.rfind(
+                                        ' ', 0, target_position)
+
+                                    if last_space_position == -1:
+                                        return line
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        target_position = last_space_position
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
-                                        else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                    line = line[:target_position] + \
+                                        '[n]' + line[target_position + 1:]
 
-                                    line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
                                     return insert_n_character(line, interval=interval + 43)
                             value = insert_n_character(value)
                         elif folder_name_msg == "event":
@@ -622,37 +615,36 @@ def run_program():
                             # Los caracteres no deben pasar de 47, por eso se usa un intervalo de 43
                             def insert_n_character(line, interval=43):
                                 target_position = interval
+
+                                intervalo_div = int(target_position / 43)
+
+                                if intervalo_div != 1:
+                                    target_position += 3 * intervalo_div
+
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
 
                                 left_bracket = line.rfind(
                                     '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                right_bracket = line.find(
+                                    ']', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                    sum_brackets = line[left_bracket:right_bracket + 1]
+                                    target_position += len(sum_brackets)
+
+                                last_space_position = line.rfind(
+                                    ' ', 0, target_position)
+
+                                if last_space_position == -1:
+                                    return line
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    target_position = last_space_position
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
-                                    else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                line = line[:target_position] + \
+                                    '[n]' + line[target_position + 1:]
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                                 return insert_n_character(line, interval=interval + 43)
 
                             value = insert_n_character(value)
@@ -663,6 +655,12 @@ def run_program():
                                 # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
                                 def insert_n_character(line, interval=34):
                                     target_position = interval
+
+                                    intervalo_div = int(target_position / 34)
+
+                                    if intervalo_div != 1:
+                                        target_position += 3 * intervalo_div
+
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
 
@@ -671,30 +669,22 @@ def run_program():
                                     right_bracket = line.find(
                                         ']', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                        sum_brackets = line[left_bracket:right_bracket + 1]
+                                        target_position += len(sum_brackets)
+
+                                    last_space_position = line.rfind(
+                                        ' ', 0, target_position)
+
+                                    if last_space_position == -1:
+                                        return line
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        target_position = last_space_position
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
-                                        else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                    line = line[:target_position] + \
+                                        '[n]' + line[target_position + 1:]
 
-                                    line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    # Devolver solo la linea, para que no se repita el [n] mas de una vez
                                     return line
 
                                 value = insert_n_character(value)
@@ -702,6 +692,12 @@ def run_program():
                                 # print("La carpeta es facility, usando intervalo 43")
                                 def insert_n_character(line, interval=43):
                                     target_position = interval
+
+                                    intervalo_div = int(target_position / 43)
+
+                                    if intervalo_div != 1:
+                                        target_position += 3 * intervalo_div
+
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
 
@@ -710,29 +706,22 @@ def run_program():
                                     right_bracket = line.find(
                                         ']', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                        sum_brackets = line[left_bracket:right_bracket + 1]
+                                        target_position += len(sum_brackets)
+
+                                    last_space_position = line.rfind(
+                                        ' ', 0, target_position)
+
+                                    if last_space_position == -1:
+                                        return line
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        target_position = last_space_position
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
-                                        else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                    line = line[:target_position] + \
+                                        '[n]' + line[target_position + 1:]
 
-                                    line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
                                     return insert_n_character(line, interval=interval + 43)
 
                                 value = insert_n_character(value)
@@ -742,37 +731,36 @@ def run_program():
                             # Los caracteres no deben pasar de 45, por eso se usa un intervalo de 40
                             def insert_n_character(line, interval=40):
                                 target_position = interval
+
+                                intervalo_div = int(target_position / 40)
+
+                                if intervalo_div != 1:
+                                    target_position += 3 * intervalo_div
+
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
 
                                 left_bracket = line.rfind(
                                     '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                right_bracket = line.find(
+                                    ']', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                    sum_brackets = line[left_bracket:right_bracket + 1]
+                                    target_position += len(sum_brackets)
+
+                                last_space_position = line.rfind(
+                                    ' ', 0, target_position)
+
+                                if last_space_position == -1:
+                                    return line
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    target_position = last_space_position
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
-                                    else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                line = line[:target_position] + \
+                                    '[n]' + line[target_position + 1:]
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Devolver solo la linea, para que no se repita el [n] mas de una vez
                                 return line
 
                             value = insert_n_character(value)
@@ -781,37 +769,36 @@ def run_program():
 
                             def insert_n_character(line, interval=43):
                                 target_position = interval
+
+                                intervalo_div = int(target_position / 43)
+
+                                if intervalo_div != 1:
+                                    target_position += 3 * intervalo_div
+
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
 
                                 left_bracket = line.rfind(
                                     '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                right_bracket = line.find(
+                                    ']', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                    sum_brackets = line[left_bracket:right_bracket + 1]
+                                    target_position += len(sum_brackets)
+
+                                last_space_position = line.rfind(
+                                    ' ', 0, target_position)
+
+                                if last_space_position == -1:
+                                    return line
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    target_position = last_space_position
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
-                                    else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                line = line[:target_position] + \
+                                    '[n]' + line[target_position + 1:]
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                                 return insert_n_character(line, interval=interval + 43)
 
                             value = insert_n_character(value)
@@ -821,43 +808,12 @@ def run_program():
                             # Los caracteres no deben pasar de 56, por eso se usa un intervalo de 52
                             def insert_n_character(line, interval=52):
                                 target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
-                                    return line
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                intervalo_div = int(target_position / 52)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
-                                else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                if intervalo_div != 1:
+                                    target_position += 3 * intervalo_div
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
-                                    else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
-
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                return insert_n_character(line, interval=interval + 52)
-
-                            value = insert_n_character(value)
-                        else:
-                            # print("La carpeta no coincide con ninguna, usando intervalo 43, al igual que en event")
-                            def insert_n_character(line, interval=43):
-                                target_position = interval
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
 
@@ -866,30 +822,59 @@ def run_program():
                                 right_bracket = line.find(
                                     ']', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                    sum_brackets = line[left_bracket:right_bracket + 1]
+                                    target_position += len(sum_brackets)
+
+                                last_space_position = line.rfind(
+                                    ' ', 0, target_position)
+
+                                if last_space_position == -1:
+                                    return line
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    target_position = last_space_position
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
-                                    else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                line = line[:target_position] + \
+                                    '[n]' + line[target_position + 1:]
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
+                                return insert_n_character(line, interval=interval + 52)
+
+                            value = insert_n_character(value)
+                        else:
+                            # print("La carpeta no coincide con ninguna, usando intervalo 43, al igual que en event")
+                            def insert_n_character(line, interval=43):
+                                target_position = interval
+
+                                intervalo_div = int(target_position / 43)
+
+                                if intervalo_div != 1:
+                                    target_position += 3 * intervalo_div
+
+                                if len(line) <= target_position or len(line) <= target_position + 2:
+                                    return line
+
+                                left_bracket = line.rfind(
+                                    '[', 0, target_position)
+                                right_bracket = line.find(
+                                    ']', target_position)
+
+                                if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
+
+                                    sum_brackets = line[left_bracket:right_bracket + 1]
+                                    target_position += len(sum_brackets)
+
+                                last_space_position = line.rfind(
+                                    ' ', 0, target_position)
+
+                                if last_space_position == -1:
+                                    return line
+                                else:
+                                    target_position = last_space_position
+
+                                line = line[:target_position] + \
+                                    '[n]' + line[target_position + 1:]
+
                                 return insert_n_character(line, interval=interval + 43)
 
                             value = insert_n_character(value)

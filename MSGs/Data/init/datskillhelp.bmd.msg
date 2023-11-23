@@ -938,34 +938,34 @@
 [f 0 5 65278][f 2 1]0x138[n][e]
 
 [msg skill_139]
-[f 0 5 65278][f 2 1](Navi: Batalla) Desbloquea todos los[n]detalles de la afinidad. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Desbloquea todos los[n]detalles de la afinidad. (1 Enemigo)[n][e]
 
 [msg skill_13A]
-[f 0 5 65278][f 2 1](Navi: Batalla) Desbloquea todos los[n]detalles de la afinidad. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Desbloquea todos los[n]detalles de la afinidad. (1 Enemigo)[n][e]
 
 [msg skill_13B]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Reduce el costo[n]de habilidad a 0.[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Reduce el costo[n]de habilidad a 0.[f 0 1 0] (1 Aliado)[n][e]
 
 [msg skill_13C]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Reduce el costo[n]de habilidad a 0.[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Reduce el costo[n]de habilidad a 0.[f 0 1 0] (1 Aliado)[n][e]
 
 [msg skill_13D]
-[f 0 5 65278][f 2 1](Navi: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
 
 [msg skill_13E]
-[f 0 5 65278][f 2 1](Navi: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
 
 [msg skill_13F]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque/defensa[n]y precisi吋n/evasi吋n[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta el ataque/defensa[n]y precisi吋n/evasi吋n[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_140]
-[f 0 5 65278][f 2 1](Navi: Batalla) Otorga un efecto beneficioso aleatorio. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Otorga un efecto beneficioso aleatorio. (Grupo)[n][e]
 
 [msg skill_141]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_142]
-[f 0 5 65278][f 2 1](Navi: Batalla) Huye de la batalla y transpórtate a la entrada del piso. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Huye de la batalla y transpórtate a la entrada del piso. (Grupo)[n][e]
 
 [msg skill_143]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -974,10 +974,10 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_145]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Probabilidad Alta de[n]evitar emboscadas enemigas.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Probabilidad Alta de[n]evitar emboscadas enemigas.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_146]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restaura 5%[n]de PS cada turno.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Restaura 5%[n]de PS cada turno.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_147]
 [f 0 5 65278][f 2 1]??[n][e]
@@ -989,163 +989,163 @@
 [f 0 5 65278][f 2 1]??[n][e]
 
 [msg skill_14A]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restauración moderada de PS al final del[n] turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Restauración moderada de PS al final del[n] turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_14B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4] Aumenta ligeramente los art胤culos[n]en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4] Aumenta ligeramente los art胤culos[n]en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_14C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta en gran medida los art胤culos[n]en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Aumenta en gran medida los art胤culos[n]en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_14D]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restauración moderada de PS al final del[n] turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Restauración moderada de PS al final del[n] turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_14E]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_14F]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restauraci吋n[n]ligera PS.[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Restauraci吋n[n]ligera PS.[f 0 1 0] (Grupo)[n][e]
 
 [msg skill_150]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restauraci吋n[n]moderada PS.[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Restauraci吋n[n]moderada PS.[f 0 1 0] (Grupo)[n][e]
 
 [msg skill_151]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restauraci吋n[n]ligera de PS al final del turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Restauraci吋n[n]ligera de PS al final del turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_152]
-[f 0 5 65278][f 2 1](Navi: Batalla) Permite que alguien[n]act雨e primero durante el turno. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Permite que alguien[n]act雨e primero durante el turno. (1 Aliado)[n][e]
 
 [msg skill_153]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Revive y[n]restaura la mitad de PS.[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Revive y[n]restaura la mitad de PS.[f 0 1 0] (1 Aliado)[n][e]
 
 [msg skill_154]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_155]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turns. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turns. (Grupo)[n][e]
 
 [msg skill_156]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_157]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la precisi吋n[n]y evasi吋n[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la precisi吋n[n]y evasi吋n[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_158]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restaura 20% de PS[n]despu姻s de la batalla.[f 0 1 0] (Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Restaura 20% de PS[n]despu姻s de la batalla.[f 0 1 0] (Grupo) (Auto)[n][e]
 
 [msg skill_159]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Restaura todos los PS[n]despu姻s de la batalla.[f 0 1 0] (Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Restaura todos los PS[n]despu姻s de la batalla.[f 0 1 0] (Grupo) (Auto)[n][e]
 
 [msg skill_15A]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Probabilidad ligeramente menor de[n]batalla en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Probabilidad ligeramente menor de[n]batalla en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_15B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Probabilidad menor de[n]batalla en los Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Probabilidad menor de[n]batalla en los Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_15C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta ligeramente la probabilidad[n]de objetos raros en Puntos de Tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Aumenta ligeramente la probabilidad[n]de objetos raros en Puntos de Tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_15D]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta enormemente la probabilidad [n]de objetos raros en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Aumenta enormemente la probabilidad [n]de objetos raros en Puntos del Tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_15E]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
 
 [msg skill_15F]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
 
 [msg skill_160]
-[f 0 5 65278][f 2 1](Navi: Batalla) Permite que todos actúen primero durante el turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Permite que todos actúen primero durante el turno. (Grupo)[n][e]
 
 [msg skill_161]
-[f 0 5 65278][f 2 1](Navi: Batalla) Otorga un efecto beneficio aleatorio. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Otorga un efecto beneficio aleatorio. (Grupo)[n][e]
 
 [msg skill_162]
-[f 0 5 65278][f 2 1](Navi) Revive, restaura PS, y elimina[n]todas las Ataduras y estados alterados. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.) Revive, restaura PS, y elimina[n]todas las Ataduras y estados alterados. (Grupo)[n][e]
 
 [msg skill_163]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque[n]y defensa[f 0 1 0] por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta el ataque[n]y defensa[f 0 1 0] por 1 turno. (Grupo)[n][e]
 
 [msg skill_164]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_165]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turns. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turns. (Grupo)[n][e]
 
 [msg skill_166]
-[f 0 5 65278][f 2 1](Navi: Batalla) Aumenta el EXP para[n]esta batalla un 50%. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Aumenta el EXP para[n]esta batalla un 50%. (Grupo)[n][e]
 
 [msg skill_167]
-[f 0 5 65278][f 2 1](Navi) Ranura de curación de apoyo.[n][e]
+[f 0 5 65278][f 2 1](Nav.) Ranura de curación de apoyo.[n][e]
 
 [msg skill_168]
 [f 0 5 65278][f 2 1]0x168[n][e]
 
 [msg skill_169]
-[f 0 5 65278][f 2 1](Navi: Batalla) Restaura PS y elimina todos[n]los estados alterados y Ataduras. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Restaura PS y elimina todos[n]los estados alterados y Ataduras. (Grupo)[n][e]
 
 [msg skill_16A]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Mayor probabilidad[n]de obtener un ataque preventivo.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Mayor probabilidad[n]de obtener un ataque preventivo.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_16B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra en el mapa los[n]cofres cercanos. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra en el mapa los[n]cofres cercanos. (Auto)[n][e]
 
 [msg skill_16C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama[n]de cofres del tesoro en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra una amplia gama[n]de cofres del tesoro en el mapa. (Auto)[n][e]
 
 [msg skill_16D]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra pasajes ocultos[n]cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra pasajes ocultos[n]cercanos en el mapa. (Auto)[n][e]
 
 [msg skill_16E]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama[n]de pasajes ocultos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra una amplia gama[n]de pasajes ocultos en el mapa. (Auto)[n][e]
 
 [msg skill_16F]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
 
 [msg skill_170]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama de[n]FOEs/cofres/pasajes ocultos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra una amplia gama de[n]FOEs/cofres/pasajes ocultos en el mapa. (Auto)[n][e]
 
 [msg skill_171]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Elimina todos los estados alterados[n]y Ataduras.[f 0 1 0] [n][n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Elimina todos los estados alterados[n]y Ataduras.[f 0 1 0] [n][n][e]
 
 [msg skill_172]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4] Aumenta la cantidad de objetos[n]encontrados en los puntos del tesoro.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4] Aumenta la cantidad de objetos[n]encontrados en los puntos del tesoro.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_173]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4] Reduce el coste[n]de habilidad a 0.[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Reduce el coste[n]de habilidad a 0.[f 0 1 0] (Grupo)[n][e]
 
 [msg skill_174]
-[f 0 5 65278][f 2 1](Navi: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
 
 [msg skill_175]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Menor probabilidad[n]de emboscadas[f 0 1 0] en los puntos de tesoro. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Menor probabilidad[n]de emboscadas[f 0 1 0] en los puntos de tesoro. (Auto)[n][e]
 
 [msg skill_176]
-[f 0 5 65278][f 2 1](Navi: Batalla) Huye de la batalla y teletransporate a la entrada del piso. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) Huye de la batalla y teletransporate a la entrada del piso. (Grupo)[n][e]
 
 [msg skill_177]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque, Elimina las Ataduras,[n]y a隠ade Boost.[f 0 1 0] (1 Aliado)[n][e]
 
 [msg skill_178]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Alta probabilidad de evitar[n]emboscadas enemigas.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Alta probabilidad de evitar[n]emboscadas enemigas.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_179]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta ligeramente la tasa de materiales de los enemigos.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta ligeramente la tasa de materiales de los enemigos.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_17A]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta en gran medida la tasa materiales de los enemigos.[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta en gran medida la tasa materiales de los enemigos.[f 0 1 0] (Auto)[n][e]
 
 [msg skill_17B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
 
 [msg skill_17C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Restauraci吋n lijera de[n]PS[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Restauraci吋n lijera de[n]PS[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
 
 [msg skill_17D]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4] Restauraci吋n moderada de[n]PS[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4] Restauraci吋n moderada de[n]PS[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
 
 [msg skill_17E]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Restauraci吋n lijera de[n]PE[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4]Restauraci吋n lijera de[n]PE[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
 
 [msg skill_17F]
 [f 0 5 65278][f 2 1]0x17F[n][e]

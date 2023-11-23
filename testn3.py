@@ -3,13 +3,13 @@
 
     # obtener el numero de intervalo que es actualmente, ejemplo 1, 2, 3
     intervalo_div = int(target_position / 43)
-    print('El intervalo es: ' + str(intervalo_div))
+    # print('El intervalo es: ' + str(intervalo_div))
 
     # si ya no es el primer intervalo, sumar 3 al target position por el intervalo_div
-    # if intervalo_div != 1:
-    #     target_position += 3 * intervalo_div
-    #     print('La primera mas intervalo_div posicion es: ' +
-    #           str(target_position))  # v2
+    if intervalo_div != 1:
+        target_position += 3 * intervalo_div
+        # print('La primera mas intervalo_div posicion es: ' +
+        # str(target_position))  # v2
 
     # if intervalo_div == 2:
     #     target_position += 3
@@ -30,13 +30,14 @@
     left_bracket = line.rfind('[', 0, target_position)
     right_bracket = line.find(']', target_position)
 
-    print('La primera posicion es: ' + str(target_position))
+    # print('La primera posicion es: ' + str(target_position))
 
-    # checar si en ese intervalo hay brakets y si estan antes del target position
+    # checar si en ese intervalo, hay brakets y si estan antes del target position
     if left_bracket != -1 and right_bracket != -1 and left_bracket < target_position and right_bracket > target_position:
-        # si hay brakets, sumar los carcateres brakets y su contenido al target position
-        target_position += len(line[left_bracket:right_bracket + 1])
-        print('La segunda posicion es: ' + str(target_position))
+        # si hay brakets, sumar los caracteres brakets y su contenido al target position
+        sum_brackets = line[left_bracket:right_bracket + 1]
+        target_position += len(sum_brackets)
+        # print('La segunda posicion es: ' + str(target_position))
 
     # obtener el ultimo espacio antes del target position de value
     last_space_position = line.rfind(' ', 0, target_position)
