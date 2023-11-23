@@ -54,8 +54,8 @@
     return insert_n_character(line, interval=interval + 43)
 
 
-value = "He estado esperando tu llegada tan[f 6 1 3 0 7] fervientemente que mis ojos comenzaron a[f 6 1 3 0 7] golpearme de mi Skull,como aaaaaaaaaaaa[f 6 1 2 0 4] los de nuestro maestro."
-value2 = "Si hay alg雨n material que ya hayas vendido aqu胤, ahora a隠adir姻 nuevas acciones hechas de esos."
+value2 = "He estado esperando tu llegada tan[f 6 1 3 0 7] fervientemente que mis ojos comenzaron a[f 6 1 3 0 7] golpearme de mi Skull,como aaaaaaaaaaaa[f 6 1 2 0 4] los de nuestro maestro."
+value = "Si hay alg雨n material que ya hayas vendido aqu胤, ahora a隠adir姻 nuevas acciones hechas de esos."
 value = insert_n_character(value)
 
 print(value)

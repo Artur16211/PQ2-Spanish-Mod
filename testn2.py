@@ -1,6 +1,6 @@
 ﻿import re
 
-value_original = "He estado esperando tu llegada tan fervientemente que mis ojos comenzaron a[f 6 1 3 0 7] golpearme de mi Skull,como aaaaaaaaaaaa[f 6 1 2 0 4] los de nuestro maestro."
+value_original = "He estado esperando tu llegada tan fervientemente que mis ojos comenzaron a[f 6 1 3 0 7] golpearme de mi Skull,como aaaaaaaaaaaa[f 6 1 2 0 4] los de nuestro maestro. n s los de nuestro maestro"
 
 # Encuentra todas las ocurrencias de contenido dentro de corchetes que comienzan con [f y guarda la posición
 brace_positions = [(m.start(), m.end(), m.group())
