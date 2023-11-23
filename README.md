@@ -6,7 +6,7 @@ https://gamebanana.com/wips/78426
 MSGs Traducidos/Corregidos: <br>
 | Carpeta     | Progreso      | Notas     |
 | ------------- | ------------- | -------- |
-| battle          | 99%         |  Falta: Support/Message/04a |
+| battle          | 100%         |  - |
 | camp           | 100%         | -  |
 | dungeon           | 100%         | -  |
 | event           | 10%         | e000-100%/e100-50%  |
