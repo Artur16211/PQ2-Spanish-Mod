@@ -11,34 +11,34 @@
 [f 0 5 65278][f 2 1]消耗品　0x503　１行目 効果：[f 0 1 4]味方１人のＨＰ２００回復[f 0 1 0][n][n][e]
 
 [msg item_504]
-[f 0 5 65278][f 2 1]Una misteriosa cuenta que emite una luz[n]curativa. [f 0 1 4]Restaura todos los PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Una perla misteriosa que emite una luz curativa. [f 0 1 4]Restaura todos los PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_505]
-[f 0 5 65278][f 2 1]Dulces misteriosos que vigorizan el alma. [f 0 1 4][n]Restaura 30 PE[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]Un caramelo misterioso que revitaliza el alma. [f 0 1 4][n]Restaura 30 PE[f 0 1 0]. (1[n]Aliado)[n][e]
 
 [msg item_506]
-[f 0 5 65278][f 2 1]Un regalo hecho de ingredientes estimulantes.[n][f 0 1 4]Restaura 60 PE[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]Una golosina elaborada con ingredientes revitalizantes.[n][f 0 1 4]Restaura 60 PE[f 0 1 0]. (1[n]Aliado)[n][e]
 
 [msg item_507]
-[f 0 5 65278][f 2 1]Una goma misteriosa que enriquece el alma.[n][f 0 1 4]Restaura 100 PE[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]Un chicle misterioso que enriquece el alma.[n][f 0 1 4]Restaura 100 PE[f 0 1 0]. (1[n]Aliado)[n][e]
 
 [msg item_508]
 [f 0 5 65278][f 2 1]消耗品　0x508　１行目 効果：[f 0 1 4]味方１人のＳＰ全回復[f 0 1 0][n][e]
 
 [msg item_509]
-[f 0 5 65278][f 2 1]Una gota del "bebido de los dioses". [f 0 1 4][n]Restaura 100 PS y 25 PE[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]Una gota de la "bebida de los dioses". [f 0 1 4][n]Restaura 100 PS y 25 PE[f 0 1 0]. (1[n]Aliado)[n][e]
 
 [msg item_50A]
-[f 0 5 65278][f 2 1]Cristalizado "bebido de los dioses." [f 0 1 4][n]Restaura 200 PS y 50 PE[f 0 1 0]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]El "elixir de los dioses" cristalizado. [f 0 1 4][n]Restaura 200 PS y 50 PE[f 0 1 0]. (1[n]Aliado)[n][e]
 
 [msg item_50B]
 [f 0 5 65278][f 2 1]消耗品　0x50B　１行目 効果：[f 0 1 4]味方１人のＨＰ＆ＳＰ全回復[f 0 1 0][n][n][e]
 
 [msg item_50C]
-[f 0 5 65278][f 2 1]Una granada que puede recordar un alma ca胤da.[n][f 0 1 4]Revive y Restaura la mitad PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Una perla que puede recordar un alma caída.[n][f 0 1 4]Revive y Restaura la mitad PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_50D]
-[f 0 5 65278][f 2 1]Incienso que puede recordar un alma ca胤da.[n][f 0 1 4]Revive y Restaura todos los PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Incienso que puede evocar el alma de alguien caído.[n][f 0 1 4]Revive y Restaura todos los PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_50E]
 [f 0 5 65278][f 2 1]消耗品　0x50E　１行目 効果：[f 0 1 4]味方１列のＨＰ１５０回復[f 0 1 0][n][n][e]
@@ -47,49 +47,49 @@
 [f 0 5 65278][f 2 1]消耗品　0x50F　１行目 効果：[f 0 1 4]味方１列のＨＰを３００回復[f 0 1 0][n][n][e]
 
 [msg item_510]
-[f 0 5 65278][f 2 1]Medicina para liberar la fuerza. [f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Medicina para desbloquear la fuerza de alguien. [f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_511]
 [f 0 5 65278][f 2 1]消耗品　0x511　１行目 効果：[f 0 1 4]味方１人の状態異常を回復[f 0 1 0][n][n][e]
 
 [msg item_512]
-[f 0 5 65278][f 2 1]Agua de primavera consagrada en un ritual[n]santo. [f 0 1 4]Elimina Aumentos[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Agua de manantial consagrada en un ritual sagrado. [f 0 1 4]Elimina Aumentos[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_513]
-[f 0 5 65278][f 2 1]Sal gruesa consagrada en un ritual santo. [f 0 1 4][n]Elimina desventajas[f 0 1 0].[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Sal gruesa consagrada en un ritual sagrado. [f 0 1 4][n]Elimina desventajas[f 0 1 0].[n](Grupo)[n][e]
 
 [msg item_514]
-[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de Rasetsu.[n][f 0 1 4]Aumentar el ataque por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un amuleto con la bendición divina de Rasetsu.[n][f 0 1 4]Aumentar el ataque por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_515]
-[f 0 5 65278][f 2 1]Una sala con la bendici吋n divina de los[n]Kongou. [f 0 1 4]Aumenta la defensa por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un amuleto con la bendición divina de Kongou. [f 0 1 4]Aumenta la defensa por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_516]
-[f 0 5 65278][f 2 1]Una sala con la bendici吋n de Idaten. [f 0 1 4][n]Aumenta[f 0 1 0] [f 0 1 4]la precisi吋nlevasi吋n por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un amuleto con la bendición de Idaten. [f 0 1 4][n]Aumenta[f 0 1 0] [f 0 1 4]la precisi吋n/evasi吋n por 3 turnos[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_517]
-[f 0 5 65278][f 2 1]L胤quido estilo despu姻s de la bebida de los[n]dioses. [f 0 1 4]Elimina Estados Alterados y Ataduras[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Líquido elaborado siguiendo el estilo de la bebida de los dioses. [f 0 1 4]Elimina Estados Alterados y Ataduras[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_518]
 [f 0 5 65278][f 2 1]消耗品　0x518　１行目 消耗品　0x518　２行目[n][e]
 
 [msg item_519]
-[f 0 5 65278][f 2 1]Conjura la niebla que ahoga las llamas. [f 0 1 4][n]Otorga resistencia al Fuego por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Invoca niebla que ahoga las llamas. [f 0 1 4][n]Otorga resistencia al Fuego por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51A]
-[f 0 5 65278][f 2 1]Conjure la niebla que reduce el escalofr胤o.[n][f 0 1 4]Otorga resistencia al Hielo durante 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Invoca niebla que reduce el frío.[n][f 0 1 4]Otorga resistencia al Hielo durante 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51B]
-[f 0 5 65278][f 2 1]Conjura la niebla que humedece la electricidad.[n][f 0 1 4] Gran resistencia Elec por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Invoca niebla que reduce la electricidad.[n][f 0 1 4] Otorga resistencia Elec por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51C]
-[f 0 5 65278][f 2 1]Conjura la niebla que disminuye el viento.[n][f 0 1 4] Gran resistencia al viento por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Invoca niebla que disminuye el viento.[n][f 0 1 4] Otorga resistencia al viento por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51D]
-[f 0 5 65278][f 2 1]Conjura la niebla que niega la energ胤a nuclear.[n][f 0 1 4]Gran resistencia nuclear por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Invoca niebla que anula la energía nuclear.[n][f 0 1 4]Otorga resistencia nuclear por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51E]
-[f 0 5 65278][f 2 1]Conjura la niebla de los barrotes EPE. [f 0 1 4][n]Gran resistencia física por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Invoca niebla que confunde la PE. [f 0 1 4][n]Otorga resistencia física por 3 turnos[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_51F]
 [f 0 5 65278][f 2 1]消耗品　0x51F　１行目 消耗品　0x51F　２行目[n][e]
@@ -98,43 +98,43 @@
 [f 0 5 65278][f 2 1]消耗品　0x520　１行目 消耗品　0x520　２行目[n][e]
 
 [msg item_521]
-[f 0 5 65278][f 2 1]Bursts con una explosi吋n ardiente cuando se[n]lanza. [f 0 1 4]Da隠o de Fuego ligero[f 0 1 0][n]. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con una explosión ardiente al ser lanzado. [f 0 1 4]Da隠o de Fuego ligero[f 0 1 0][n]. (Todos los enemigos)[n][e]
 
 [msg item_522]
 [f 0 5 65278][f 2 1]Una bala que explota en llamas. [f 0 1 4]Da隠o de fuego medio[f 0 1 0][n]. (Todos los[n]enemigos)[n][e]
 
 [msg item_523]
-[f 0 5 65278][f 2 1]Bursts with crackling frost when thrown. [f 0 1 4][n]Da隠o de hielo ligero[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con una helada crepitante al ser lanzado. [f 0 1 4][n]Da隠o de hielo ligero[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_524]
-[f 0 5 65278][f 2 1]Una bala que explota en una tormenta. [f 0 1 4][n]Da隠o de hielo medio[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota en un torbellino de ventisca. [f 0 1 4][n]Da隠o de hielo medio[f 0 1 0]. (Todos[n]los enemigos)[n][e]
 
 [msg item_525]
-[f 0 5 65278][f 2 1]Bursts con alta tensi吋n cuando se lanza. [f 0 1 4][n]Da隠o El姻ctrico leve[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con alto voltaje al ser lanzado. [f 0 1 4][n]Da隠o El姻ctrico leve[f 0 1 0]. (Todos[n]los enemigos)[n][e]
 
 [msg item_526]
-[f 0 5 65278][f 2 1]Una bala que explota en la electricidad. [f 0 1 4][n]Da隠o el姻ctrico medio[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota en electricidad. [f 0 1 4][n]Da隠o el姻ctrico medio[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_527]
-[f 0 5 65278][f 2 1]Bursts with galeforce winds when thrown. [f 0 1 4][n]Da隠os de viento leve[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con vientos de huracán al ser lanzado. [f 0 1 4][n]Da隠os de viento leve[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_528]
 [f 0 5 65278][f 2 1]Una bala que explota en un torbellino. [f 0 1 4][n]Da隠o de viento medio[f 0 1 0]. (Todos[n]los enemigos)[n][e]
 
 [msg item_529]
-[f 0 5 65278][f 2 1]Bendito arroz que puede purificar un objetivo.[n][f 0 1 4]Ataque de Bendici吋n con muerte instant茨nea[f 0 1 0][n]. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Arroz bendito que puede purificar un objetivo.[n][f 0 1 4]Ataque de Bendici吋n con muerte instant茨nea[f 0 1 0][n]. (1 Enemigo)[n][e]
 
 [msg item_52A]
-[f 0 5 65278][f 2 1]Un sutra prohibido usado como una maldici吋n[n]de muerte. [f 0 1 4]Ataque de Maldici吋n con muerte instant茨nea[f 0 1 0][n]. (1[n]Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un sutra prohibido utilizado como una maldición mortal. [f 0 1 4]Ataque de Maldici吋n con muerte instant茨nea[f 0 1 0][n]. (1[n]Enemigo)[n][e]
 
 [msg item_52B]
-[f 0 5 65278][f 2 1]Bursts con poder cin姻tico cuando se lanza.[n][f 0 1 4]Da隠o Ps胤quico Ligero[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con poder cinético al ser lanzado.[n][f 0 1 4]Da隠o Ps胤quico Ligero[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_52C]
-[f 0 5 65278][f 2 1]Una bala que explota con poder telequin姻tico.[n][f 0 1 4]Da隠o Ps胤quico Medio[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota con poder telequinético.[n][f 0 1 4]Da隠o Ps胤quico Medio[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_52D]
-[f 0 5 65278][f 2 1]Bursts with nuclear energy when thrown. [f 0 1 4][n]Da隠o Nuclear ligero[f 0 1 0]. (Todos[n]los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con energía nuclear al ser lanzado. [f 0 1 4][n]Da隠o Nuclear ligero[f 0 1 0]. (Todos[n]los enemigos)[n][e]
 
 [msg item_52E]
 [f 0 5 65278][f 2 1]Una bala que explota con energ胤a nuclear. [f 0 1 4][n]Da隠o Nuclear medio[f 0 1 0]. (Todos[n]los enemigos)[n][e]
@@ -149,136 +149,136 @@
 [f 0 5 65278][f 2 1]消耗品　0x531　１行目 効果：[f 0 1 4]使用ターン時の敵のドロップ率アップ[f 0 1 0][n][n][e]
 
 [msg item_532]
-[f 0 5 65278][f 2 1]Esta efigie extra隠amente se parece a su[n]portador. [f 0 1 4]Protege al usuario de 1 muerte instant茨nea por Bendici吋n/Maldici吋n[f 0 1 0][n][n].[n][e]
+[f 0 5 65278][f 2 1]Esta efigie se asemeja extrañamente a su portador. [f 0 1 4]Protege al usuario de 1 muerte instant茨nea por Bendici吋n/Maldici吋n[f 0 1 0][n][n].[n][e]
 
 [msg item_533]
-[f 0 5 65278][f 2 1]Tocando este tubo repele las sombras. [f 0 1 4][n]Reduce el 胤ndice de encuentro[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Tocar esta flauta repele las sombras. [f 0 1 4][n]Reduce el 胤ndice de encuentro[f 0 1 0][n].[n][e]
 
 [msg item_534]
-[f 0 5 65278][f 2 1]Jugar esta tuber胤a atrae Sombras. [f 0 1 4]Aumentar la tasa de encuentros[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Tocar esta flauta atrae a las sombras. [f 0 1 4]Aumentar la tasa de encuentros[f 0 1 0][n].[n][e]
 
 [msg item_535]
-[f 0 5 65278][f 2 1]Teleporta instant茨neamente al usuario a la[n]seguridad. [f 0 1 4]Escapa del laberinto actual[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Teletransporta instantáneamente al usuario a un lugar seguro. [f 0 1 4]Escapa del laberinto actual[f 0 1 0][n].[n][e]
 
 [msg item_536]
-[f 0 5 65278][f 2 1]Al instante el usuario teletransporta a la[n]escalera. [f 0 1 4]Regresa a la entrada del piso[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Teletransporta instantáneamente al usuario a la escalera. [f 0 1 4]Regresa a la entrada del piso[f 0 1 0][n].[n][e]
 
 [msg item_537]
 [f 0 5 65278][f 2 1]消耗品　0x537　１行目 消耗品　0x537　２行目[n][e]
 
 [msg item_538]
-[f 0 5 65278][f 2 1]Una herramienta que puede amplificar frecuencias[n]FOE. [f 0 1 4]Mostrar la ubicaci吋n de los FOE en la planta actual[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Una herramienta que puede amplificar las frecuencias[n]FOE. [f 0 1 4]Muestra la ubicaci吋n de los FOE en la planta actual[f 0 1 0][n].[n][e]
 
 [msg item_539]
-[f 0 5 65278][f 2 1]Conocido como la bebida de los dioses. [f 0 1 4][n]Restaura todos los PS y PE[f 0 1 0].[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Conocida como la bebida de los dioses. [f 0 1 4][n]Restaura todos los PS y PE[f 0 1 0].[n](Grupo)[n][e]
 
 [msg item_53A]
-[f 0 5 65278][f 2 1]Una cadena de cuentas con una luz curativa.[n][f 0 1 4]Restaura todos los PS[f 0 1 0].[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1]Una cadena de perlas con una luz curativa.[n][f 0 1 4]Restaura todos los PS[f 0 1 0].[n](Grupo)[n][e]
 
 [msg item_53B]
-[f 0 5 65278][f 2 1]Un misterioso Talue-Go que no desaparece despu姻s[n]de su uso. [f 0 1 4]Escapa del laberinto actual[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Un misterioso Talue-Go que no desaparece despu姻s[n]de usarlo. [f 0 1 4]Escapa del laberinto actual[f 0 1 0][n].[n][e]
 
 [msg item_53C]
-[f 0 5 65278][f 2 1]Un misterioso Goba-K que no desaparece despu姻s[n]del uso. [f 0 1 4] Volver a la entrada del piso[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Un misterioso Goba-K que no desaparece después de usarlo. [f 0 1 4] Volver a la entrada del piso[f 0 1 0][n].[n][e]
 
 [msg item_53D]
-[f 0 5 65278][f 2 1]Sonar este cuerno atrae Sombras. [f 0 1 4]Aumenta considerablemente la tasa de encuentros[f 0 1 0][n][n].[n][e]
+[f 0 5 65278][f 2 1]Al tocar este cuerno, se atraen a las sombras. [f 0 1 4]Aumenta considerablemente la tasa de encuentros[f 0 1 0][n][n].[n][e]
 
 [msg item_53E]
-[f 0 5 65278][f 2 1]Sonar este cuerno aleja las sombras. [f 0 1 4][n]Elimina encuentros aleatorios[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Al tocar este cuerno, se alejan las sombras. [f 0 1 4][n]Elimina encuentros aleatorios[f 0 1 0].[n][e]
 
 [msg item_53F]
-[f 0 5 65278][f 2 1]Explota la volatilidad del calabozo. [f 0 1 4][n]Actualizar los puntos del tesoro de la planta actual[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Explota la volatilidad del calabozo. [f 0 1 4][n]Actualiza los puntos del tesoro de la planta actual[f 0 1 0][n].[n][e]
 
 [msg item_540]
 [f 0 5 65278][f 2 1]消耗品　0x540　１行目 消耗品　0x540　２行目[n][e]
 
 [msg item_541]
-[f 0 5 65278][f 2 1]S吋lo usable en la batalla. No desaparece[n]despu姻s del uso. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Solo se puede usar en batalla. No desaparece después de su uso. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_542]
-[f 0 5 65278][f 2 1]Una pelota que despliega una cortina de humo.[n][f 0 1 4]Escape garantizado (en batallas con escapatoria)[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]Una bola que despliega una cortina de humo.[n][f 0 1 4]Escape garantizado (en batallas con escapatoria)[f 0 1 0][n].[n][e]
 
 [msg item_543]
-[f 0 5 65278][f 2 1]Un muslo picante y profundo de un f姻nix. [f 0 1 4][n]Revive y restaura 30% PS[f 0 1 0].[n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Un muslo picante y frito de un fénix. [f 0 1 4][n]Revive y restaura 30% PS[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg item_544]
-[f 0 5 65278][f 2 1]Palomitas que se sazonan con sal. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Palomitas de maíz sazonadas con sal. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_545]
-[f 0 5 65278][f 2 1]Frios hechos con patatas sanas. [f 0 1 4]Revive y restaura 10% PS[f 0 1 0][n]. (1[n]Aliado)[n][e]
+[f 0 5 65278][f 2 1]Papas fritas hechas con papas saludables. [f 0 1 4]Revive y restaura 10% PS[f 0 1 0][n]. (1[n]Aliado)[n][e]
 
 [msg item_546]
 [f 0 5 65278][f 2 1]消耗品　0x546　１行目 消耗品　0x546　２行目[n][e]
 
 [msg item_547]
-[f 0 5 65278][f 2 1]S吋lo usable en la batalla. No desaparece[n]despu姻s del uso. [f 0 1 4]Revive y restaura 10% PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Solo se puede usar en batalla. No desaparece después de su uso. [f 0 1 4]Revive y restaura 10% PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_548]
 [f 0 5 65278][f 2 1]消耗品　0x548　１行目 消耗品　0x548　２行目[n][e]
 
 [msg item_549]
-[f 0 5 65278][f 2 1]Dulces palomitas infundidas con miel. [f 0 1 4][n]Restaura 80 PS[f 0 1 0]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Palomitas de maíz con miel. [f 0 1 4][n]Restaura 80 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54A]
-[f 0 5 65278][f 2 1]Un perro caliente lo suficiente para alimentar[n]a tres. [f 0 1 4]Restaura 60 PS[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Un hot dog lo suficientemente largo para alimentar a tres personas. [f 0 1 4]Restaura 60 PS[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_54B]
-[f 0 5 65278][f 2 1]Refrescante bebida que limpia impurezas. [f 0 1 4][n]Cura Estados Alterados[f 0 1 0].[n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Bebida refrescante que limpia impurezas. [f 0 1 4][n]Cura Estados Alterados[f 0 1 0].[n](1 Aliado)[n][e]
 
 [msg item_54C]
-[f 0 5 65278][f 2 1]Palomitas con sabor tropical. [f 0 1 4]Restaura 120 PS[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Palomitas de maíz con sabor tropical. [f 0 1 4]Restaura 120 PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_54D]
-[f 0 5 65278][f 2 1]Palomitas de ma胤z con jugos de sabor. [f 0 1 4][n]Restaura 180 PS[f 0 1 0]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Palomitas de maíz que estallan con jugos sabrosos. [f 0 1 4][n]Restaura 180 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54E]
-[f 0 5 65278][f 2 1]Misterios palomitas de siete sabores. [f 0 1 4][n]Restaura 250 PS[f 0 1 0]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Palomitas misteriosas de siete sabores. [f 0 1 4][n]Restaura 250 PS[f 0 1 0]. (1 Aliado)[n][e]
 
 [msg item_54F]
 [f 0 5 65278][f 2 1]消耗品　0x54F　１行目 消耗品　0x54F　２行目[n][e]
 
 [msg item_550]
-[f 0 5 65278][f 2 1]El poder de Persona se puede copiar en esta[n]tarjeta. [f 0 1 4]Efecto especial en Sacrificio Fusi吋n[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]El poder de una Persona se puede copiar en esta carta. [f 0 1 4]Efecto especial en Sacrificio Fusi吋n[f 0 1 0][n].[n][e]
 
 [msg item_551]
-[f 0 5 65278][f 2 1]El poder de Persona se puede copiar en esta[n]tarjeta. [f 0 1 4]Efecto especial en Sacrificio Fusi吋n[f 0 1 0][n].[n][e]
+[f 0 5 65278][f 2 1]El poder de una Persona se puede copiar en esta carta. [f 0 1 4]Efecto especial en Sacrificio Fusi吋n[f 0 1 0][n].[n][e]
 
 [msg item_552]
-[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la[n]estaci吋n de Iwatodai. [f 0 1 4]Restaura 50% PS[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la estación de Iwatodai. [f 0 1 4]Restaura 50% PS[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_553]
 [f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_554]
-[f 0 5 65278][f 2 1]Especialidad de un caf de callej吋n en Yongen-[n]Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de una cafetería de un callejón en Yongen-Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_555]
-[f 0 5 65278][f 2 1]Incense que unifica la mente y la memoria.[n][f 0 1 4] Sube el nivel a Wild Level[f 0 1 0][n]. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]Incienso que unifica la mente y la memoria.[n][f 0 1 4] Sube el nivel a Wild Level[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_556]
 [f 0 5 65278][f 2 1]消耗品　0x556　１行目 消耗品　0x556　２行目[n][e]
 
 [msg item_557]
-[f 0 5 65278][f 2 1]Dos perros calientes largos combinados en[n]uno. [f 0 1 4]Restaura 120 PS[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Dos hot dogs largos combinados en uno solo. [f 0 1 4]Restaura 120 PS[f 0 1 0]. (1[n]fila)[n][e]
 
 [msg item_558]
-[f 0 5 65278][f 2 1]Un perro caliente extra-long, extra-thick.[n][f 0 1 4]Restaura 180 PS[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Un hot dog extra largo y grueso.[n][f 0 1 4]Restaura 180 PS[f 0 1 0]. (1[n]fila)[n][e]
 
 [msg item_559]
-[f 0 5 65278][f 2 1]Agua que purga impurezas corporales. [f 0 1 4][n]Cura Estados Alterados[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Agua que purifica las impurezas del cuerpo. [f 0 1 4][n]Cura Estados Alterados[f 0 1 0]. (1[n]fila)[n][e]
 
 [msg item_55A]
-[f 0 5 65278][f 2 1]Vatio de agua que purifica impurezas corporales.[n][f 0 1 4]Cura Estados Alterados[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Un tanque de agua que purifica las impurezas del cuerpo.[n][f 0 1 4]Cura Estados Alterados[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_55B]
-[f 0 5 65278][f 2 1]Una multi-paquete de medicina sin uni吋n. [f 0 1 4][n]Elimina Ataduras[f 0 1 0]. (1[n]fila)[n][e]
+[f 0 5 65278][f 2 1]Un paquete múltiple de medicina desvinculadora. [f 0 1 4][n]Elimina Ataduras[f 0 1 0]. (1[n]fila)[n][e]
 
 [msg item_55C]
-[f 0 5 65278][f 2 1]Un paquete de jumbo de medicinas inconclusas.[n][f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Un paquete jumbo de medicina desvinculadora.[n][f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_55D]
-[f 0 5 65278][f 2 1]Un largo arreglo de pasteles. Puede alimentar[n]hasta 3. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]Una larga variedad de pasteles. Puede alimentar hasta a 3 personas. [f 0 1 4]Restaura 30 PS[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_55E]
 [f 0 5 65278][f 2 1]消耗品　0x55E　１行目 消耗品　0x55E　２行目[n][e]
@@ -758,11 +758,11 @@
 [f 0 5 65278][f 2 1]消耗品　0x5FC　１行目 消耗品　0x5FC　２行目[n][e]
 
 [msg item_5FD]
-[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la[n]estaci吋n de Iwatodai. [f 0 1 4]Restaura 50% PS[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de un lugar de ramen en la estación de Iwatodai. [f 0 1 4]Restaura 50% PS[f 0 1 0][n]. (Grupo)[n][e]
 
 [msg item_5FE]
 [f 0 5 65278][f 2 1]Especialidad de un restaurante chino en Inaba.[n][f 0 1 4] Restaura todos los PS[f 0 1 0][n]. (1 fila)[n][e]
 
 [msg item_5FF]
-[f 0 5 65278][f 2 1]Especialidad de un caf de callej吋n en Yongen-[n]Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0][n]. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Especialidad de una cafetería en un callejón en Yongen-Jaya. [f 0 1 4]Restaura 50% PE[f 0 1 0][n]. (Grupo)[n][e]
 
