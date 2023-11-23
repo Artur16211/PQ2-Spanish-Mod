@@ -1,8 +1,8 @@
 ﻿[msg weapon_000]
-[f 0 5 65278][f 2 1]武器 0x000 1 comentario 武器 0x000 2[n][e]
+[f 0 5 65278][f 2 1]武器　0x000　１行目[n]武器　0x000　２行目[n][e]
 
 [msg weapon_001]
-[f 0 5 65278][f 2 1]Un cuchillo simple que es f茨cil de pelar.[n][e]
+[f 0 5 65278][f 2 1]Un cuchillo sencillo que es fácil de manejar.[n][e]
 
 [msg weapon_002]
 [f 0 5 65278][f 2 1]Un cuchillo hecho con materiales ligeros. [f 0 1 3][n]Ag +2[f 0 1 0][n][e]
@@ -14,61 +14,61 @@
 [f 0 5 65278][f 2 1]Un cuchillo con veneno rojo. [f 0 1 3]Baja probabilidad de Parálisis[f 0 1 0][n][n][e]
 
 [msg weapon_005]
-[f 0 5 65278][f 2 1]Un cuchillo corto hecho en Nepal.[n][e]
+[f 0 5 65278][f 2 1]Un cuchillo corto fabricado en Nepal.[n][e]
 
 [msg weapon_006]
-[f 0 5 65278][f 2 1]Un cuchillo corto hecho para retener el veneno[n]en su espada. [f 0 1 3]Baja probabilidad de veneno[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo corto diseñado para retener veneno en[n]su hoja. [f 0 1 3]Baja probabilidad de veneno[f 0 1 0][n][n][e]
 
 [msg weapon_007]
-[f 0 5 65278][f 2 1]Una daga ritualista recubierta de plata. [f 0 1 3][n]Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una daga ritualístico recubierto de plata. [f 0 1 3][n]Ma +1[f 0 1 0][n][e]
 
 [msg weapon_008]
-[f 0 5 65278][f 2 1]Un cuchillo con un borde hecho de mineral[n]negro. [f 0 1 3] Daño de perforación leve[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo con un borde hecho de un mineral[n]negro. [f 0 1 3] Daño de perforación leve[f 0 1 0][n][n][e]
 
 [msg weapon_009]
-[f 0 5 65278][f 2 1]Una espada corta procesada para la m茨xima[n]nitidez. [f 0 1 3]Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada corta procesada para obtener la máxima[n]nitidez. [f 0 1 3]Su +2[f 0 1 0][n][e]
 
 [msg weapon_00A]
 [f 0 5 65278][f 2 1]Un kopis afilado de alta calidad. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][n][e]
 
 [msg weapon_00B]
-[f 0 5 65278][f 2 1]Un escalpelo de aPEecto intimidante. [f 0 1 3][n]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un bisturí con aspecto intimidante. [f 0 1 3][n]Ag +3[f 0 1 0][n][e]
 
 [msg weapon_00C]
-[f 0 5 65278][f 2 1]EPEada corta casi futurista te隠ida de energ胤a.[n][f 0 1 3]Posibilidad media de par茨lisis[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Espada corta casi futurista te隠ida de energ胤a.[n][f 0 1 3]Posibilidad media de par茨lisis[f 0 1 0][n][n][e]
 
 [msg weapon_00D]
 [f 0 5 65278][f 2 1]Cuchillo peque隠o hecho de metales no naturales.[n][f 0 1 3] Probabilidad de críticos +5%[f 0 1 0][n][e]
 
 [msg weapon_00E]
-[f 0 5 65278][f 2 1]Una cuchara. No estaba destinado a esto. [f 0 1 3][n]Baja probabilidad de muerte instantánea[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una cuchara. No estaba destinada a esto. [f 0 1 3][n]Baja probabilidad de muerte instantánea[f 0 1 0][n][e]
 
 [msg weapon_00F]
-[f 0 5 65278][f 2 1]Esta daga desv胤a las huelgas usando el poder[n]magn姻tico. [f 0 1 3]Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Esta daga desvía golpes mediante el poder magnético. [f 0 1 3]Rs +4[f 0 1 0][n][e]
 
 [msg weapon_010]
-[f 0 5 65278][f 2 1]La espada corta pose胤da de un determinado[n]alquimista. [f 0 1 3]Máx. PE +10% / Ma +3[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]La espada corta poseída de un cierto alquimista. [f 0 1 3]Máx. PE +10% / Ma +3[f 0 1 0][n][n][e]
 
 [msg weapon_011]
-[f 0 5 65278][f 2 1]Un bast吋n para cualquier situaci吋n. [f 0 1 3][n]Todas las estad胤sticas +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un bastón multiusos para cualquier situación. [f 0 1 3][n]Todas las estad胤sticas +2[f 0 1 0][n][e]
 
 [msg weapon_012]
 [f 0 5 65278][f 2 1]Un cuchillo encantado para cortar cualquier[n]material. [f 0 1 3] Probabilidad de críticos +20% / Ma +2[f 0 1 0][n][n][e]
 
 [msg weapon_013]
-[f 0 5 65278][f 2 1]Una espada corta perforante para los[n]misericordiosos. [f 0 1 3]Baja probabilidad de muerte instantánea / Ag +5[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una espada corta penetrante para los misericordiosos. [f 0 1 3]Baja probabilidad de muerte instantánea / Ag +5[f 0 1 0][n][n][e]
 
 [msg weapon_014]
-[f 0 5 65278][f 2 1]Sol胤a recuperar el para胤so de los dioses. [f 0 1 3][n]Reduce a la mitad el coste de PS / Ma +4 / Ag +5[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Usado para reclamar el paraíso de los dioses. [f 0 1 3][n]Reduce a la mitad el coste de PS / Ma +4 / Ag +5[f 0 1 0][n][n][e]
 
 [msg weapon_015]
-[f 0 5 65278][f 2 1]武器 0x015 1 comentario[n][e]
+[f 0 5 65278][f 2 1]武器　0x015　１行目[n]武器　0x015　２行目[n][e]
 
 [msg weapon_016]
-[f 0 5 65278][f 2 1]Una r姻plica de una cuchara de prop una vez[n]utilizada en una pel胤cula de jailbreak. [f 0 1 3][n]Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una réplica de una cuchara de utilería utilizada en una película de fuga de la cárcel. [f 0 1 3][n]Rs +1[f 0 1 0][n][e]
 
 [msg weapon_017]
-[f 0 5 65278][f 2 1]Un cuchillo usado por el 雨nico sobreviviente[n]en una pel胤cula de terror. [f 0 1 3]Su +2[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo usado por el único sobreviviente en una película de terror. [f 0 1 3]Su +2[f 0 1 0][n][n][e]
 
 [msg weapon_018]
 [f 0 5 65278][f 2 1]武器 0x018 1 comentario[n][e]
@@ -101,16 +101,16 @@
 [f 0 5 65278][f 2 1]Una tuber胤a de metal con un agarre perfecto.[n][e]
 
 [msg weapon_022]
-[f 0 5 65278][f 2 1]Un palo con u隠as martilladas en 姻l para m茨s[n]letalidad. [f 0 1 3]Precisi吋n +5%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un palo con clavos martillados para una mayor letalidad. [f 0 1 3]Precisi吋n +5%[f 0 1 0][n][n][e]
 
 [msg weapon_023]
-[f 0 5 65278][f 2 1]Una vara que oscila con peso casi auditable.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una vara que se balancea con un peso casi audible.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
 
 [msg weapon_024]
-[f 0 5 65278][f 2 1]Un arma similar a palo utilizado para golpear[n]o cortar. [f 0 1 3] Probabilidad de críticos +5%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un arma en forma de palo utilizada para golpear o cortar. [f 0 1 3] Probabilidad de críticos +5%[f 0 1 0][n][n][e]
 
 [msg weapon_025]
-[f 0 5 65278][f 2 1]Un instrumento contundente personalizado[n]hecho para ser como una tuber胤a. [f 0 1 3]Rs +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un instrumento contundente personalizado hecho para parecerse a una tubería. [f 0 1 3]Rs +1[f 0 1 0][n][n][e]
 
 [msg weapon_026]
 [f 0 5 65278][f 2 1]武器 0x026 1 comentario 武器 0x026 2[n][e]
@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1]Hecho para noquear a los oponentes. [f 0 1 3][n]Probabilidad media de Sueño[f 0 1 0][n][e]
 
 [msg weapon_02B]
-[f 0 5 65278][f 2 1]Contiene caltropas incrustadas para una[n]brutalidad extra. [f 0 1 3] Probabilidad de críticos +10%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Contiene caltrapos incrustados para una brutalidad adicional. [f 0 1 3] Probabilidad de críticos +10%[f 0 1 0][n][n][e]
 
 [msg weapon_02C]
 [f 0 5 65278][f 2 1]Una tuber胤a de metal utilizada para rebar en[n]un rascacielos. [f 0 1 3]Máx. PE +10% / Ma+ 3[f 0 1 0][n][n][e]
@@ -302,7 +302,7 @@
 [f 0 5 65278][f 2 1]Una katana forjada con metal mete吋rico. [f 0 1 3][n]Máx. PE +10%[f 0 1 0][n][e]
 
 [msg weapon_065]
-[f 0 5 65278][f 2 1]Una r姻plica de una de las primeras ePEadas[n]forjadas en la historia.[n][e]
+[f 0 5 65278][f 2 1]Una r姻plica de una de las primeras Espadas[n]forjadas en la historia.[n][e]
 
 [msg weapon_066]
 [f 0 5 65278][f 2 1]武器 0x066 1 objetivo 武器 0x066 2[n][e]
@@ -314,7 +314,7 @@
 [f 0 5 65278][f 2 1]Una katana con rivulets de veneno a lo largo[n]de su espada. [f 0 1 3]Baja probabilidad de veneno[f 0 1 0][n][n][e]
 
 [msg weapon_069]
-[f 0 5 65278][f 2 1]Dijo que era una de las ePEadas m茨s altas.[n][f 0 1 3] Daño de perforación leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dijo que era una de las Espadas m茨s altas.[n][f 0 1 3] Daño de perforación leve[f 0 1 0][n][e]
 
 [msg weapon_06A]
 [f 0 5 65278][f 2 1]A katana used by Meiji government forces. [f 0 1 3][n]Rs +2 / Ag +2[f 0 1 0][n][e]
@@ -353,7 +353,7 @@
 [f 0 5 65278][f 2 1]武器 0x075 1 comentario[n][e]
 
 [msg weapon_076]
-[f 0 5 65278][f 2 1]Prop de una pel胤cula de ePEadas en el periodo[n]Edo. [f 0 1 3] Probabilidad de críticos +5%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Prop de una pel胤cula de Espadas en el periodo[n]Edo. [f 0 1 3] Probabilidad de críticos +5%[f 0 1 0][n][n][e]
 
 [msg weapon_077]
 [f 0 5 65278][f 2 1]Una katana afilada en un hueso de costilla[n]dura. [f 0 1 3]Rs +2[f 0 1 0][n][e]
