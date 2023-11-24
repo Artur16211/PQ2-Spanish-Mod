@@ -354,8 +354,6 @@ def run_program():
             '繰': '遺',
             '訓': '郁',
             '粂': '謂',
-            'Sub-Personas': 'Personas Secundarias',
-            'Sub-Persona': 'Persona Secundaria',
         }
 
         def replace_characters(text, replacement_dict):
@@ -729,10 +727,10 @@ def run_program():
                             # print("La carpeta es init, usando intervalo 40")
 
                             # Los caracteres no deben pasar de 45, por eso se usa un intervalo de 40
-                            def insert_n_character(line, interval=40):
+                            def insert_n_character(line, interval=49):
                                 target_position = interval
 
-                                intervalo_div = int(target_position / 40)
+                                intervalo_div = int(target_position / 49)
 
                                 if intervalo_div != 1:
                                     target_position += 3 * intervalo_div

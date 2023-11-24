@@ -311,7 +311,7 @@
 [f 0 5 65278][f 2 1]Mapa del tesoro escondido en "Kamoshidaman"[n][e]
 
 [msg eventitem_668]
-[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "Tierra Jugosa"[n][e]
+[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "Junessic Land"[n][e]
 
 [msg eventitem_669]
 [f 0 5 65278][f 2 1]Mapa del tesoro escondido en "A.I.G.I.S."[n][e]
