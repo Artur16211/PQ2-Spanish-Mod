@@ -11,7 +11,7 @@ MSGs Traducidos/Corregidos: <br>
 | dungeon           | 100%         | -  |
 | event           | 10%         | e000-100%/e100-50%  |
 | facility           | 100%         | -  |
-| init           | 60%         | Efectos traducidos  |
+| init           | 60%         | Falta: datweaponhelp  |
 | shared           | 100%         | -  |
 | tutorial           | 100%         | -  |
 
