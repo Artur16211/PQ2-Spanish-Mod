@@ -1022,7 +1022,7 @@
 [f 0 5 65278][f 2 1]No utilizados[n][e]
 
 [msg skill_155]
-[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turns. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_156]
 [f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
@@ -1070,7 +1070,7 @@
 [f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta el ataque[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_165]
-[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turns. (Grupo)[n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turnos. (Grupo)[n][e]
 
 [msg skill_166]
 [f 0 5 65278][f 2 1](Nav.: Batalla) Aumenta el EXP para[n]esta batalla un 50%. (Grupo)[n][e]

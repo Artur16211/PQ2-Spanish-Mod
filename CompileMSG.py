@@ -35,13 +35,13 @@ class TextRedirector(object):
 config = configparser.ConfigParser()
 
 # Read the config file if it exists
-if os.path.isfile('config.ini'):
-    config.read('config.ini')
+if os.path.isfile('config_compiler.ini'):
+    config.read('config_compiler.ini')
 else:
     # If it doesn't exist, create it with default values
     config['Folders'] = {'mod_folder': '',
                          'output_folder': '', 'game': 'Persona Q2'}
-    with open('config.ini', 'w') as configfile:
+    with open('config_compiler.ini', 'w') as configfile:
         config.write(configfile)
 
 # Get the saved values or set default values if they don't exist
@@ -375,7 +375,7 @@ def save_config():
         'game': game
     }
 
-    with open('config.ini', 'w') as configfile:
+    with open('config_compiler.ini', 'w') as configfile:
         config.write(configfile)
 
 

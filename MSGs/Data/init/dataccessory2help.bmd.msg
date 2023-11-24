@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1]M茨scara que te impide respirar veneno. [f 0 1 3][n]Resiste Veneno[f 0 1 0][n][e]
 
 [msg accessory_A10]
-[f 0 5 65278][f 2 1]¡Faja de yoga que te vuelve tan flexible que no puedes quedar paralizado! [f 0 1 3] Par茨lisis[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]¡Faja de yoga que te vuelve tan flexible que no puedes quedar paralizado! [f 0 1 3]Resiste Par茨lisis[f 0 1 0][n][n][e]
 
 [msg accessory_A11]
 [f 0 5 65278][f 2 1]Gafas que impiden que otros miren tus ojos. [f 0 1 3]Resiste Petrificaci吋n[f 0 1 0][n][n][e]

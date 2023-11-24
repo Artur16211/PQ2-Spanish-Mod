@@ -509,7 +509,7 @@
 [f 0 5 65278][f 2 1]El reproductor de música portátil más reciente y avanzado.[n]　[n][e]
 
 [msg accessory_4AA]
-[f 0 5 65278][f 2 1]Medias a lunares importadas de la nación más moderna y linda de todas.[n][e]
+[f 0 5 65278][f 2 1]Medias de lunares importadas de la nación más moderna y linda de todas.[n][e]
 
 [msg accessory_4AB]
 [f 0 5 65278][f 2 1]Medias negras que combinan con cualquier cosa.[n]　[n][e]
@@ -569,7 +569,7 @@
 [f 0 5 65278][f 2 1]Pequeños aretes de perlas rosadas.[n][e]
 
 [msg accessory_4BE]
-[f 0 5 65278][f 2 1]Collar de cuentas para cuando las joyas serían demasiado.[n]　[n][e]
+[f 0 5 65278][f 2 1]Collar de perlas para cuando las joyas sean demasiado.[n]　[n][e]
 
 [msg accessory_4BF]
 [f 0 5 65278][f 2 1]！）デバック用アクセサリ[n]スキルスロット２[n][e]

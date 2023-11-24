@@ -36,13 +36,13 @@ class TextRedirector(object):
 config = configparser.ConfigParser()
 
 # Read the config file if it exists
-if os.path.isfile('config.ini'):
-    config.read('config.ini')
+if os.path.isfile('config_setn.ini'):
+    config.read('config_setn.ini')
 else:
     # If it doesn't exist, create it with default values
     config['Folders'] = {'mod_folder': '',
                          'output_folder': '', 'game': 'Persona Q2'}
-    with open('config.ini', 'w') as configfile:
+    with open('config_setn.ini', 'w') as configfile:
         config.write(configfile)
 
 # Get the saved values or set default values if they don't exist
@@ -942,6 +942,8 @@ def run_program():
                     '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]')
                 # fix [n].[n]
                 value = value.replace('[n].[n]', '.[n]')
+                # fux [n].[n]2
+                value = value.replace(' .[n]', '.[n]')
                 # La primera letra del mensaje debe ser mayúscula
                 if len(value) > 0:
                     value = value[0].upper() + value[1:]
@@ -1071,7 +1073,7 @@ def save_config():
         'game': game
     }
 
-    with open('config.ini', 'w') as configfile:
+    with open('config_setn.ini', 'w') as configfile:
         config.write(configfile)
 
 

@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
 
 [msg eventitem_642]
-[f 0 5 65278][f 2 1]El mismo proyector que el de la Sala Velvet.[n][f 0 1 3]Perform 3 Persona mergers[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]El mismo proyector que el de la Habitación Terciopelo.[n][f 0 1 3]Realiza 3 fusiones de personas.[f 0 1 0][n][n][e]
 
 [msg eventitem_643]
 [f 0 5 65278][f 2 1]貴重品ID_0x643[n][e]
@@ -563,7 +563,7 @@
 [f 0 5 65278][f 2 1]Hecho por Theodore para ahorrar materiales.[n]Comenzará a derretirse pronto...[n][e]
 
 [msg eventitem_6BC]
-[f 0 5 65278][f 2 1]]La cadena del Segador, cubierta de óxido.[n][e]
+[f 0 5 65278][f 2 1]La cadena del Segador, cubierta de óxido.[n][e]
 
 [msg eventitem_6BD]
 [f 0 5 65278][f 2 1]Esfera amarilla encontrada en un vacío en[n]el End of You in Wonderland.[n][e]
@@ -575,7 +575,7 @@
 [f 0 5 65278][f 2 1]Esfera negra encontrada en un vacío en[n]la Última Historia del Evil Spirit Club.[n][e]
 
 [msg eventitem_6C0]
-[f 0 5 65278][f 2 1]]Esfera roja encontrada en un vacío en la[n]Noche Final de la Exhibición del Orgullo de Inaba.[n][e]
+[f 0 5 65278][f 2 1]Esfera roja encontrada en un vacío en la[n]Noche Final de la Exhibición del Orgullo de Inaba.[n][e]
 
 [msg eventitem_6C1]
 [f 0 5 65278][f 2 1]Corrompido por el miasma del Infierno.[n]Usar para invocar a Turdak.[n][e]
