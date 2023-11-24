@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n]y la fuerza. [f 0 1 3]Máx. PE +10% / Fr +1[f 0 1 0][n][n][e]
 
 [msg accessory_427]
-[f 0 5 65278][f 2 1]Circlet peculiar que potencia la salud[n] y la magia. [f 0 1 3]Máx. PS +10% / Ma +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Círculo peculiar que potencia la salud[n] y la magia. [f 0 1 3]Máx. PS +10% / Ma +1[f 0 1 0][n][n][e]
 
 [msg accessory_428]
 [f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la magia. [f 0 1 3]Máx. PE +10% / Ma +1[f 0 1 0][n][n][e]
@@ -176,25 +176,25 @@
 [f 0 5 65278][f 2 1]アクセサリー　0x43A　１行目[n]アクセサリー　0x43A　２行目[n][e]
 
 [msg accessory_43B]
-[f 0 5 65278][f 2 1]Circlet saludable que repele el fuego. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión de Fuego[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele el fuego. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_43C]
 [f 0 5 65278][f 2 1]Broche vigorizante que también repele el fuego. [f 0 1 3][n]Máx. PE +10% / Aumenta ligeramente la evasi吋n de Fuego[f 0 1 0][n][n][e]
 
 [msg accessory_43D]
-[f 0 5 65278][f 2 1]Circlet saludable que repele el hielo. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión de Hielo[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele el hielo. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión de Hielo[f 0 1 0][n][n][e]
 
 [msg accessory_43E]
 [f 0 5 65278][f 2 1]Broche vigorizante que también repele el hielo. [f 0 1 3][n]Máx. PE +10% / Aumenta ligeramente evasi吋n de Hielo[f 0 1 0][n][n][e]
 
 [msg accessory_43F]
-[f 0 5 65278][f 2 1]Circlet saludable que repele el viento.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de Viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele el viento.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de Viento[f 0 1 0][n][n][e]
 
 [msg accessory_440]
 [f 0 5 65278][f 2 1]Broche vigorizante que también repele el viento. [f 0 1 3]Máx. PE +10% / Incre胤blemente la evasi吋n del Viento[f 0 1 0][n][n][e]
 
 [msg accessory_441]
-[f 0 5 65278][f 2 1]Circlet saludable que repele la electricidad. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele la electricidad. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión Elec.[f 0 1 0][n][n][e]
 
 [msg accessory_442]
 [f 0 5 65278][f 2 1]Broche vigorizante que también repele la electricidad. [f 0 1 3]Máx. PE +10% / Aumenta ligeramente la evasi吋n Elec.[f 0 1 0][n][n][e]
@@ -413,7 +413,7 @@
 [f 0 5 65278][f 2 1]Brazalete que protege contra habilidades psíquicas. [f 0 1 3][n]Máx. PE +5% / Aumenta ligeramente la evasión de ataques Psíquicos[f 0 1 0][n][n][e]
 
 [msg accessory_48A]
-[f 0 5 65278][f 2 1]Circlet que repele habilidades nucleares. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Círculo que repele habilidades nucleares. [f 0 1 3][n]Máx. PS +10% / Aumenta ligeramente la evasión Nuclear[f 0 1 0][n][n][e]
 
 [msg accessory_48B]
 [f 0 5 65278][f 2 1]C胤rculo que protege contra habilidades psíquicas. [f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de ataques Psíquicos[f 0 1 0][n][n][n][e]
