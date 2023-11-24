@@ -354,8 +354,6 @@ def run_program():
             '繰': '遺',
             '訓': '郁',
             '粂': '謂',
-            'Sub-Personas': 'Personas Secundarias',
-            'Sub-Persona': 'Persona Secundaria',
         }
 
         def replace_characters(text, replacement_dict):
@@ -942,8 +940,11 @@ def run_program():
                     '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]')
                 # fix [n].[n]
                 value = value.replace('[n].[n]', '.[n]')
-                # fux [n].[n]2
+                # fix [n].[n]2
                 value = value.replace(' .[n]', '.[n]')
+                # fix ¡¿ ?!
+                value = value.replace('¿¡', '¡¿').replace(
+                    '!?', '?!').replace('夷斡', '斡夷')
                 # La primera letra del mensaje debe ser mayúscula
                 if len(value) > 0:
                     value = value[0].upper() + value[1:]
