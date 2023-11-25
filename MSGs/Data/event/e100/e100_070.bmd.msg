@@ -14,10 +14,10 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 72 12 0 1][f 3 1 1 0 0 5]Nos disculpamos por asustarlas. 夷Y t雨[n]eres...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Una Mujer Graciosa]]
-[f 0 5 65278][f 2 1][f 4 6 84 2 2 0][f 3 1 1 0 0 6]Me llamo Nagi. Soy la comisaria de este cine.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 2 2 0][f 3 1 1 0 0 6]Me llamo Nagi. Soy la conservadora de este cine.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 8 1 1][f 3 1 1 0 0 7]夷斡Una comisaria!? 斡Este Cine no est茨[n]abandonado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 8 1 1][f 3 1 1 0 0 7]夷斡Una conservadora!? 斡Este Cine no est茨[n]abandonado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 6 3 0][f 3 1 1 0 0 8]夷Podr胤a ser... que todos ustedes tambi姻n han[n]estado atrapados aqu胤?[n][f 1 3 65535][f 1 1][e]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 13]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Nagi]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Debido a mi responsabilidad como comisaria,[n]la he tomado bajo mi cuidado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Debido a mi responsabilidad como conservadora,[n]la he tomado bajo mi cuidado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 4 1 1][f 3 1 1 0 0 15]Yo...[n][f 1 3 65535][f 1 1][e]

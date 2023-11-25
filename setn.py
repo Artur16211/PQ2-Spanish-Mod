@@ -411,7 +411,8 @@ def run_program():
         for key, value in mod_msgs_dict.items():
             if value is not None:
                 # delete all [n] from the lines
-                value = value.replace("[n]", " ")
+                if setn != 1:
+                    value = value.replace("[n]", " ")
                 # si no empieza por #
                 if not value.startswith("# "):
                     if setn != 1:

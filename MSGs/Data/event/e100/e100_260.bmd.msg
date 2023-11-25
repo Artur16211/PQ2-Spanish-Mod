@@ -1,5 +1,5 @@
 [msg MSG_000 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 4 2 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 1]夷Esto es... un puesto de ventas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 4 2 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 1]夷Esto es... un puesto de comida?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 1 0][f 3 1 1 0 0 2]Bienvenidos.[n][f 1 3 65535][f 1 1][e]
@@ -129,7 +129,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 6][f 3 1 1 0 0 49]Una despistada y su hermano agobiado... Esta[n]obra de comedia necesita desesperadamente[n]un hombre serio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 0 1 1][f 3 1 1 0 0 50]Bueno, entonces, todos: actuar姻 como su[n]vendedora aqu胤 en este puesto de ventas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 0 1 1][f 3 1 1 0 0 50]Bueno, entonces, todos: actuar姻 como su[n]vendedora aqu胤 en este puesto de comida.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 51]No solo vender姻 la mercanc胤a actual, sino[n]que tambi姻n a隠adir姻 nuevos art胤culos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Yusuke]]

@@ -1,5 +1,5 @@
 ﻿[msg MSG_000]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]El puesto de concesi吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]El puesto de comida...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ann y Ryuji est茨n explicando el plan a[n]Theodore...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]

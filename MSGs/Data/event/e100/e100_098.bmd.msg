@@ -19,5 +19,5 @@
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 1][f 3 1 1 0 0 0]Podr胤a haber una correlaci吋n, pero no creo[n]que lleguemos a una respuesta en este[n]punto, no importa cu茨nto tiempo lo[n]discutamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0]Es verdad. Nagi nos espera en el puesto de[n]concesi吋n de todos modos, vamos all茨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0]Es verdad. Nagi nos espera en el puesto de[n]comida de todos modos, vamos all茨.[n][f 1 3 65535][f 1 1][e]
 

@@ -34,3 +34,6 @@ Persona Film -> Persona Film # Temporal
 Front Row -> Fila Frontal
 Back Row -> Fila Trasera
 Navi -> Nav.
+## Historia:
+the curator -> la conservadora
+concession stand -> puesto de comida
