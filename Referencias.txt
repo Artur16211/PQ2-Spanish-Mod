@@ -35,6 +35,7 @@ Front Row -> Fila Frontal
 Back Row -> Fila Trasera
 Navi -> Nav.
 Unison Skills -> Habilidades de Unión
+Wanted -> Necesario
 ## Historia:
 the curator -> la conservadora
 concession stand -> puesto de comida
