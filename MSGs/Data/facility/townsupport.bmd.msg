@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4205]斡Tienes demasiadas Personas![n][f 1 6 65535][e]
 
 [msg town_persona_max_YUKIKO_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5205]Creo que eso es todo lo que podemos llevar...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5205]Creo que eso es lo máximo que podemos llevar...[n][f 1 6 65535][e]
 
 [msg town_persona_max_RISE_me]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6203]Est茨s al limite de Personas.[n][f 1 6 65535][e]
@@ -869,7 +869,7 @@
 [f 0 5 65278][f 2 1]夷Puedes ense隠arme m茨s sobre ser detective[n]m茨s tarde?[n][f 1 2 105][e]
 
 [msg town_bg10_AMADA_mes03]
-[f 0 5 65278][f 2 1]No s姻 si es un sue隠o... pero quiero hacerme[n]m茨s fuerte.[n][f 1 2 105][e]
+[f 0 5 65278][f 2 1]No s姻 si es un plan... pero quiero volverme[n]m茨s fuerte.[n][f 1 2 105][e]
 
 [msg town_bg11_HIKARI_mes01]
 [f 0 5 65278][f 2 1]斡Eres incre胤ble! 斡Sigue as胤![n][f 1 2 65][e]
