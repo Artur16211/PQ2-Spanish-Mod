@@ -376,27 +376,27 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona Films[n]se han reducido un 15%.[n][f 1 1][e]
 
 [msg book_bonus002_03 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 6 1 2 0 0 6]¡Te haremos un descuento cuando invoques Personas fuera de la película![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 6 1 2 0 0 6]斡Te haremos un descuento cuando invoques Personas fuera de la pel胤cula![n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 78 6 0 0]Aun as胤, parece que hay muchas m茨s por ah胤[n]que no hemos visto...[n][f 1 1][e]
 [f 0 5 65278][f 2 1]No nos importar胤a verte invocar a todos[n]estos nuevos seres.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 6 1 2 0 0 6]Esperamos mucho m茨s de ti... Pero por ahora,[n]斡puedes tener una recompensa![n][f 1 1][e]
 
 [msg book_bonus003_01 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59208]De alguna manera, has conseguido reunir a[n]todas estas Personas...[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Quizás no tarde mucho hasta que todas estén a tu disposición.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Quiz茨s no tarde mucho hasta que todas est姻n a tu disposici吋n.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Ah... casi olvido tu incentivo.[n][f 1 1][e]
 
 [msg book_bonus003_02]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2]Los precios de invocaci吋n de Persona Films[n]se han reducido un 20%.[n][f 1 1][e]
 
 [msg book_bonus003_03 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 12 0 0]Tu catálogo de Personas está casi[n]completo. Sin duda, esto será de ayuda.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Para invocar a todas las Personas que hay[n]a través de todos estos mundos...[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Quizá puedas tener ese poder en tus manos. Espero descubrirlo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 12 0 0]Tu cat茨logo de Personas est茨 casi[n]completo. Sin duda, esto ser茨 de ayuda.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Para invocar a todas las Personas que hay[n]a trav姻s de todos estos mundos...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Quiz茨 puedas tener ese poder en tus manos. Espero descubrirlo.[n][f 1 1][e]
 
 [msg book_bonus004_01 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 6 0 1][f 3 1 1 0 0 58210]Pensé que nunca llegaría este día...[n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 78 2 0 0]¡Finalmente las has obtenido![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 6 0 1][f 3 1 1 0 0 58210]Pens姻 que nunca llegar胤a este d胤a...[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 2 0 0]斡Finalmente las has obtenido![n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 6]Te has esforzado mucho. 斡Te mereces[n]una gran recompensa![n][f 1 1][e]
 
 [msg book_bonus004_02]
@@ -487,25 +487,25 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59024]Depende de ti utilizar esta opci吋n[n]sabiamente.[n][f 1 1][e]
 
 [msg msg_combine_HELP_COPY_04 [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58061]Si deseas copiar Personas,[n]selecciona la opción al elegir[n]qué fusionar.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58061]Si deseas copiar Personas,[n]selecciona la opci吋n al elegir[n]qu姻 fusionar.[n][f 1 1][e]
 
 [msg msg_combine_HELP_RULE [Caroline]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 58001]El resultado de una fusi吋n se basa[n]en el Arcana de las Personas utilizadas[n]en la fusi吋n.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Bueno, escuché de algunas que[n]realmente no siguen esa regla...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Bueno, escuch姻 de algunas que[n]realmente no siguen esa regla...[n][f 1 1][e]
 
 [msg msg_combine_HELP_RULE_02 [Justine]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59042]Un ejemplo de excepción sería si fusionas[n]dos Personas de la misma Arcana.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59042]Un ejemplo de excepci吋n ser胤a si fusionas[n]dos Personas de la misma Arcana.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Entendemos que si dos Personas de Arcana[n]identica se fusionan, el resultado tendr茨[n]un rango inferior.[n][f 1 1][e]
 
 [msg msg_combine_HELP_RULE_03 [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58118]¡En cualquier caso, prueba diferentes combinaciones y descúbrelo tú mismo![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58118]斡En cualquier caso, prueba diferentes combinaciones y desc雨brelo t雨 mismo![n][f 1 1][e]
 
 [msg msg_combine_HELP_KEISYOU [Justine]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59009]Una Persona nacida de una fusi吋n puede heredar[n]las habilidades de las Personas[n]utilizadas para crearla.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]En otras palabras, puedes utilizar la fusi吋n[n]para ense隠ar a una Persona habilidades[n]que nunca podr胤a aprender por s胤 sola.[n][f 1 1][e]
 
 [msg msg_combine_HELP_KEISYOU_2 [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58001]Es la parte más importante para crear una Persona fuerte, así que grábatelo en la cabeza.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58001]Es la parte m茨s importante para crear una Persona fuerte, as胤 que gr茨batelo en la cabeza.[n][f 1 1][e]
 
 [msg msg_combine_HELP_KEISYOU_3 [Justine]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59078]No estamos seguras de todos los detalles[n]detr茨s de la herencia, pero hay tres reglas[n]b茨sicas:[n][f 1 1][e]
@@ -514,18 +514,18 @@
 [f 0 5 65278][f 2 1]...Podemos hablar m茨s sobre ese tema en[n]breve.[n][f 1 1][e]
 
 [msg msg_combine_HELP_KEISYOU_4 [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 58118]¡Por último: cuantas más habilidades tengan las Personas a combinar, más habilidades heredara la nueva![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 58118]斡Por 雨ltimo: cuantas m茨s habilidades tengan las Personas a combinar, m茨s habilidades heredara la nueva![n][f 1 1][e]
 [f 0 5 65278][f 2 1]Probablemente aprendas mejor probandolo por ti mismo. Adelante, Recluso.[n][f 1 1][e]
 
 [msg msg_combine_HELP_ZOKUSEI [Justine]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59006]Permíteme darte más detalles sobre la[n]herencia de habilidades.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59006]Perm胤teme darte m茨s detalles sobre la[n]herencia de habilidades.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Cada Persona tiene habilidades que pueden y[n]no pueden heredar.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]畏stas vienen determinadas por las caracter胤sticas[n]de la persona.[n][f 1 1][e]
 
 [msg msg_combine_HELP_ZOKUSEI_2 [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58001]Te diremos parte de lo que hemos descubierto hasta ahora, así que presta atención.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58001]Te diremos parte de lo que hemos descubierto hasta ahora, as胤 que presta atenci吋n.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Las personas que son buenas en ataques f胤sicos[n]no pueden heredar habilidades de[n]curaci吋n...[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Así que por lógica las Personas sanadoras no pueden aprender habilidades físicas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]As胤 que por l吋gica las Personas sanadoras no pueden aprender habilidades f胤sicas.[n][f 1 1][e]
 
 [msg msg_combine_HELP_ZOKUSEI_3 [Justine]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 0 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59009]Fuego y Hielo, Bendici吋n y Maldici吋n...[n]Algunas afinidades se emparejan as胤.[n][f 1 1][e]
@@ -535,7 +535,7 @@
 [msg msg_combine_HELP_ZOKUSEI_4 [Caroline]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 58075]Sin embargo, hay excepciones.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Algunas Personas tienen el potencial de[n]aprender todas las habilidades. Pero son[n]raras.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]¡Inténtalo y descúbrelo por ti mismo, recluso![n][f 1 1][e]
+[f 0 5 65278][f 2 1]斡Int姻ntalo y desc雨brelo por ti mismo, recluso![n][f 1 1][e]
 
 [msg VELVET_HELP_GREET_TWINS_ [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 0 1 1]夷Qu姻 quieres?[n][f 1 1][e]

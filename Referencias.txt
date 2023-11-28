@@ -5,6 +5,7 @@ Velvet Room -> Habitación Terciopelo
 Support -> Apoyo
 Buff -> Ventajas
 Debuffs -> Desventajas
+Wild Card -> Comodín
 ##
 HP -> PS
 SP -> PE
@@ -31,6 +32,7 @@ Boost -> Boost
 Binds -> Ataduras
 Hex -> Maldición
 Persona Film -> Persona Film # Temporal
+P-Book -> P-Book
 Front Row -> Fila Frontal
 Back Row -> Fila Trasera
 Navi -> Nav.

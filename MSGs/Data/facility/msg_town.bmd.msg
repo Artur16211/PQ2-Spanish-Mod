@@ -40,5 +40,5 @@
 [f 0 5 65278][f 2 1]Ha comenzado una nueva proyecci吋n especial. Visita la taquilla para obtener m茨s informaci吋n.[n][f 1 1][e]
 
 [msg town_party_ng]
-[f 0 5 65278][f 2 1]Tu grupo no tiene a los personajes necesarios para esta proyección especial.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Tu grupo no tiene a los personajes necesarios para esta proyecci吋n especial.[n][f 1 1][e]
 

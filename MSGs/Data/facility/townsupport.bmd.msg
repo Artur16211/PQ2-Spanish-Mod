@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4205]斡Tienes demasiadas Personas![n][f 1 6 65535][e]
 
 [msg town_persona_max_YUKIKO_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5205]Creo que eso es lo máximo que podemos llevar...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5205]Creo que eso es lo m茨ximo que podemos llevar...[n][f 1 6 65535][e]
 
 [msg town_persona_max_RISE_me]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6203]Est茨s al limite de Personas.[n][f 1 6 65535][e]
@@ -647,7 +647,7 @@
 [f 0 5 65278][f 2 1]Vamos a correr mucho, as胤 que tenemos que[n]mantener los niveles de az雨car altos.[n][f 1 2 125][e]
 
 [msg town_bg05_RYUJI_mes02]
-[f 0 5 65278][f 2 1]Tres hot dogs y una orden grande de papas fritas. ¡Ah, y una soda![n][f 1 2 140][e]
+[f 0 5 65278][f 2 1]Tres hot dogs y una orden grande de papas fritas. 斡Ah, y una soda![n][f 1 2 140][e]
 
 [msg town_bg05_MAKOTO_mes01]
 [f 0 5 65278][f 2 1]Ryuji, 夷cu茨nto soda has bebido ya?[n][f 1 2 130][e]
