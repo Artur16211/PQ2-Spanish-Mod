@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1]Un espejo que refleja la intuici吋n.[n][f 0 1 3]Tasa cr胤tica +15%[f 0 1 0][n][e]
 
 [msg accessory_A21]
-[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n.[n][f 0 1 3]Anula losestados alterados o ataduras[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n.[n][f 0 1 3]Anula los estados alterados o ataduras[f 0 1 0][n][e]
 
 [msg accessory_A22]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA22　１行目[n]アクセサリー２　0xA22　２行目[n][e]
@@ -113,118 +113,118 @@
 [f 0 5 65278][f 2 1]アクセサリー２　0xA25　１行目[n]アクセサリー２　0xA25　２行目[n][e]
 
 [msg accessory_A26]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra el Fuego.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra el Fuego.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A27]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra el Hielo.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra el Hielo.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A28]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra el Viento.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra el Viento.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A29]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra la electricidad.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra la electricidad.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_A2A]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A2B]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_A2C]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Fuego.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Fuego.[n][f 0 1 3]Máx. PE +15%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A2D]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Hielo.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Hielo.[n][f 0 1 3]Máx. PE +15%/Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A2E]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Viento.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Viento.[n][f 0 1 3]Máx. PE +15%/Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A2F]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra la electricidad.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra la electricidad.[n][f 0 1 3]Máx. PE +15%/Aumenta la evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_A30]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Nucleares. [f 0 1 3]Máx. PE +15% / Aumenta la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Nucleares. [f 0 1 3]Máx. PE +15%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A31]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PE +15% / Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PE +15%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_A32]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA32　１行目[n]アクセサリー２　0xA32　２行目[n][e]
 
 [msg accessory_A33]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el Fuego.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el Fuego.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A34]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el Hielo.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el Hielo.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A35]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el Viento.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el Viento.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A36]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra la Electricidad.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra la Electricidad.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_A37]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A38]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_A39]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra el Fuego.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra el Fuego.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A3A]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra el Hielo.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra el Hielo.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A3B]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra el Viento.[n][f 0 1 3]Máx. PE +20% / Elevaci吋n del Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra el Viento.[n][f 0 1 3]Máx. PE +20%/Elevaci吋n del Viento[f 0 1 0][n][e]
 
 [msg accessory_A3C]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra la electricidad.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra la electricidad.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_A3D]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A3E]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_A3F]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA3F　１行目[n]アクセサリー２　0xA3F　２行目[n][e]
 
 [msg accessory_A40]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el Fuego.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el Fuego.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A41]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el Hielo.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el Hielo.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A42]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el Viento.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el Viento.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A43]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra la electricidad.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra la electricidad.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_A44]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A45]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_A46]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Fuego.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Fuego.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A47]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Hielo.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Hielo.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A48]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Viento.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Viento.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A49]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra la electricidad.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra la electricidad.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_A4A]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A4B]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_A4C]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA4C　１行目[n]アクセサリー２　0xA4C　２行目[n][e]

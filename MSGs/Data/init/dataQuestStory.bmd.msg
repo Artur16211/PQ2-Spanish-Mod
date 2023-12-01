@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1]Sinopsis[n]夷Tienes algo que sea precioso para ti? Por supuesto que s胤. 斡As胤 que lucha por ello! Y mira esta pel胤cula, donde todos hacen lo mismo. 斡Las apuestas no podr胤an ser m茨s altas![n][e]
 
 [msg quest_story_019]
-[f 0 5 65278][f 2 1]Sinopsis[n]斡Guerreros, re雨nanse! En esta isla antigua, hagan su 雨ltima defensa, 斡aunque las grandes bestias se eLeven sobre ustedes! No deben titubear (especialmente en una pel胤cula tan 姻pica como esta).[n][e]
+[f 0 5 65278][f 2 1]Sinopsis[n]斡Guerreros, re雨nanse! En esta isla antigua, hagan su 雨ltima defensa, 斡aunque las grandes bestias se eleven sobre ustedes! No deben titubear (especialmente en una pel胤cula tan 姻pica como esta).[n][e]
 
 [msg quest_story_020]
 [f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]Sinopsis[n]Una historia de misterio en la que buscas huevos de Pascua que solo un verdadero fan puede encontrar. No te preocupes, esto no es una persecuci吋n absurda... a menos que te refieras a la que pone huevos de oro.[n][e]
 
 [msg quest_story_036]
-[f 0 5 65278][f 2 1]Sinopsis[n]Ha estallado una guerra. 夷Y son soldados de infanter胤a contra tanques? 夷C吋mo vencer茨 esta infanter胤a valiente las Prob.es... a menos que aparezca un h姻roe como t雨![n][e]
+[f 0 5 65278][f 2 1]Sinopsis[n]Ha estallado una guerra. 夷Y son soldados de infanter胤a contra tanques? 夷C吋mo vencer茨 esta infanter胤a valiente las probabilidades... a menos que aparezca un h姻roe como t雨![n][e]
 
 [msg quest_story_037]
 [f 0 5 65278][f 2 1]Sinopsis[n]El Sr. Oso te est茨 esperando, en lo m茨s profundo del bosque. 斡Fortalece tus nervios y enfrenta a este gran enemigo! No pienses. 斡Siente![n][e]

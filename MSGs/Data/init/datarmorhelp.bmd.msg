@@ -50,16 +50,16 @@
 [f 0 5 65278][f 2 1]Un abrigo m胤stico rebosante de fe.[n][f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
 
 [msg armor_311]
-[f 0 5 65278][f 2 1]Un chaleco de vanguardia para una nueva era de moda. [f 0 1 3]Ag +2 / Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un chaleco de vanguardia para una nueva era de moda. [f 0 1 3]Ag +2/Su +3[f 0 1 0][n][e]
 
 [msg armor_312]
 [f 0 5 65278][f 2 1]Su portador se convierte en una fuente de energía. [f 0 1 3]Máx. PS y PE +10%[f 0 1 0][n][e]
 
 [msg armor_313]
-[f 0 5 65278][f 2 1]Armadura hecha para un rey de reyes.[n][f 0 1 3]Fr +3 / Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Armadura hecha para un rey de reyes.[n][f 0 1 3]Fr +3/Ag +3[f 0 1 0][n][e]
 
 [msg armor_314]
-[f 0 5 65278][f 2 1]Una túnica que se dice que inunda el mundo con compasión.[n][f 0 1 3]Máx. PE +15% / Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una túnica que se dice que inunda el mundo con compasión.[n][f 0 1 3]Máx. PE +15%/Ma +3[f 0 1 0][n][e]
 
 [msg armor_315]
 [f 0 5 65278][f 2 1]防具　0x315　１行目[n]防具　0x315　２行目[n][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1]防具　0x336　１行目[n]防具　0x336　２行目[n][e]
 
 [msg armor_337]
-[f 0 5 65278][f 2 1]Mallas llenas del poder de la justicia.[n][f 0 1 3]Máx. PS +5% / Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Mallas llenas del poder de la justicia.[n][f 0 1 3]Máx. PS +5%/Ag +2[f 0 1 0][n][e]
 
 [msg armor_338]
 [f 0 5 65278][f 2 1]Un jinbei que llena al usuario con el instinto verdadero de un guerrero. [f 0 1 3]Fr +3[f 0 1 0][n][e]
@@ -173,7 +173,7 @@
 [f 0 5 65278][f 2 1]防具　0x339　１行目[n]防具　0x339　２行目[n][e]
 
 [msg armor_33A]
-[f 0 5 65278][f 2 1]Un cintur吋n hecho de la piel de una bestia.[n][f 0 1 3]Fr +2 / Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un cintur吋n hecho de la piel de una bestia.[n][f 0 1 3]Fr +2/Ag +2[f 0 1 0][n][e]
 
 [msg armor_33B]
 [f 0 5 65278][f 2 1]防具　0x33B　１行目[n]防具　0x33B　２行目[n][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1]La armadura consagrada de un caballero sagrado.[n][f 0 1 3]Resiste Muerte Inst.[f 0 1 0][n][e]
 
 [msg armor_342]
-[f 0 5 65278][f 2 1]Bóxers usados por héroes viriles de antaño.[n][f 0 1 3]Máx. PS +10% / Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Bóxers usados por héroes viriles de antaño.[n][f 0 1 3]Máx. PS +10%/Fr +2[f 0 1 0][n][e]
 
 [msg armor_343]
 [f 0 5 65278][f 2 1]Una coraza para aquellos que desafían a la muerte. [f 0 1 3]Aumenta la resistencia a Ataduras[f 0 1 0][n][e]
@@ -215,7 +215,7 @@
 [f 0 5 65278][f 2 1]防具　0x347　１行目[n]防具　0x347　２行目[n][e]
 
 [msg armor_348]
-[f 0 5 65278][f 2 1]Hecho de tela brillante, dolorosamente resplandeciente. [f 0 1 3]Máx. PE +10% / Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Hecho de tela brillante, dolorosamente resplandeciente. [f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
 
 [msg armor_349]
 [f 0 5 65278][f 2 1]Un atuendo lleno de todo el poder de la era del brillo y el glamour. [f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
@@ -323,19 +323,19 @@
 [f 0 5 65278][f 2 1]Un delantal multiusos adecuado para cocinar o trabajos Pesados. [f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
 
 [msg armor_36C]
-[f 0 5 65278][f 2 1]Un bikini de piel de bestia. Despierta un poder primordial.[n][f 0 1 3]Máx. PS +10% / Fr + 2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un bikini de piel de bestia. Despierta un poder primordial.[n][f 0 1 3]Máx. PS +10%/Fr + 2[f 0 1 0][n][e]
 
 [msg armor_36D]
 [f 0 5 65278][f 2 1]防具　0x36D　１行目[n]防具　0x36D　２行目[n][e]
 
 [msg armor_36E]
-[f 0 5 65278][f 2 1]Un vestido impregnado en la bruma sensual de la vida nocturna de la ciudad. [f 0 1 3]Máx. PE +5% / Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un vestido impregnado en la bruma sensual de la vida nocturna de la ciudad. [f 0 1 3]Máx. PE +5%/Ma +2[f 0 1 0][n][e]
 
 [msg armor_36F]
 [f 0 5 65278][f 2 1]Medias delgadas que proporcionan calor y protección. [f 0 1 3]Ag +3[f 0 1 0][n][e]
 
 [msg armor_370]
-[f 0 5 65278][f 2 1]Una bata reluciente que parece salpicada de estrellas. [f 0 1 3]Máx. PS +10% / Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una bata reluciente que parece salpicada de estrellas. [f 0 1 3]Máx. PS +10%/Su +3[f 0 1 0][n][e]
 
 [msg armor_371]
 [f 0 5 65278][f 2 1]防具　0x371　１行目[n]防具　0x371　２行目[n][e]
@@ -347,13 +347,13 @@
 [f 0 5 65278][f 2 1]Un sostén adornado con innumerables picos.[n][f 0 1 3]Fr +3[f 0 1 0][n][e]
 
 [msg armor_374]
-[f 0 5 65278][f 2 1]Un vestido elegante con glifos protectores cosidos. [f 0 1 3]Máx. PE +10% / Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un vestido elegante con glifos protectores cosidos. [f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
 
 [msg armor_375]
-[f 0 5 65278][f 2 1]Tejido que bloquea impactos a pesar de su poco volumen. [f 0 1 3]Máx. PS +15% / Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Tejido que bloquea impactos a pesar de su poco volumen. [f 0 1 3]Máx. PS +15%/Rs +2[f 0 1 0][n][e]
 
 [msg armor_376]
-[f 0 5 65278][f 2 1]Protege al usuario de peligros ocultos.[n][f 0 1 3]Ma +2 / Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Protege al usuario de peligros ocultos.[n][f 0 1 3]Ma +2/Ag +3[f 0 1 0][n][e]
 
 [msg armor_377]
 [f 0 5 65278][f 2 1]Un vestido blanco puro que promete felicidad eterna. [f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
@@ -365,7 +365,7 @@
 [f 0 5 65278][f 2 1]防具　0x379　１行目[n]防具　0x379　２行目[n][e]
 
 [msg armor_37A]
-[f 0 5 65278][f 2 1]Un yukata con siete capas de tela especial.[n][f 0 1 3]Fr +2 / Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un yukata con siete capas de tela especial.[n][f 0 1 3]Fr +2/Ma +2[f 0 1 0][n][e]
 
 [msg armor_37B]
 [f 0 5 65278][f 2 1]Un kimono que representa la divinidad del Año Nuevo. [f 0 1 3]Anula la Muerte Inst.[f 0 1 0][n][e]
@@ -467,7 +467,7 @@
 [f 0 5 65278][f 2 1]El portador es seguido por una brisa suave.[n][f 0 1 3]Aumenta la resistencia a Ataduras[f 0 1 0][n][e]
 
 [msg armor_39C]
-[f 0 5 65278][f 2 1]Un collar hecho para fortalecer los cuellos de las reinas. [f 0 1 3]Ma +2 / Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un collar hecho para fortalecer los cuellos de las reinas. [f 0 1 3]Ma +2/Su +1[f 0 1 0][n][e]
 
 [msg armor_39D]
 [f 0 5 65278][f 2 1]Una bufanda con el poder del rey de las bestias.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
@@ -479,10 +479,10 @@
 [f 0 5 65278][f 2 1]Una bufanda encantada, ligera y móvil.[n][f 0 1 3]Su +3[f 0 1 0][n][e]
 
 [msg armor_3A0]
-[f 0 5 65278][f 2 1]Una bufanda colorida usada por magos.[n][f 0 1 3]Máx. PE +5% / Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una bufanda colorida usada por magos.[n][f 0 1 3]Máx. PE +5%/Ma +2[f 0 1 0][n][e]
 
 [msg armor_3A1]
-[f 0 5 65278][f 2 1]Una bufanda de luz solar. Mitiga la energía estática. [f 0 1 3]Máx. PS +5% / Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una bufanda de luz solar. Mitiga la energía estática. [f 0 1 3]Máx. PS +5%/Fr +2[f 0 1 0][n][e]
 
 [msg armor_3A2]
 [f 0 5 65278][f 2 1]Hace que el usuario sea más autoconsciente. [f 0 1 3]Acelera ligeramente el Medidor de Grupo[f 0 1 0][n][e]
@@ -497,10 +497,10 @@
 [f 0 5 65278][f 2 1]Un collar para un vencedor de malhechores.[n][f 0 1 3]Fr +3[f 0 1 0][n][e]
 
 [msg armor_3A6]
-[f 0 5 65278][f 2 1]Un collar lujoso. Aprobado por amantes de gatos.[n][f 0 1 3]Máx. PE +10% / Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un collar lujoso. Aprobado por amantes de gatos.[n][f 0 1 3]Máx. PE +10%/Ma +2[f 0 1 0][n][e]
 
 [msg armor_3A7]
-[f 0 5 65278][f 2 1]Un collar elegante con un adorno precioso.[n][f 0 1 3]Máx. PS +10% / Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un collar elegante con un adorno precioso.[n][f 0 1 3]Máx. PS +10%/Fr +3[f 0 1 0][n][e]
 
 [msg armor_3A8]
 [f 0 5 65278][f 2 1]Grebas dudosas alguna vez usadas por un nekomata. [f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
@@ -563,7 +563,7 @@
 [f 0 5 65278][f 2 1]Ropa para perro hecha con metal protector.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
 
 [msg armor_3BC]
-[f 0 5 65278][f 2 1]Ropa para perro con dispositivos integrados de movilidad. [f 0 1 3]Fr +2 / Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ropa para perro con dispositivos integrados de movilidad. [f 0 1 3]Fr +2/Ag +1[f 0 1 0][n][e]
 
 [msg armor_3BD]
 [f 0 5 65278][f 2 1]Un su姻ter de perros hecho de titanio.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
@@ -578,10 +578,10 @@
 [f 0 5 65278][f 2 1]Ropa para perros con una gigantesca estrella decorativa. [f 0 1 3]Ma +4[f 0 1 0][n][e]
 
 [msg armor_3C1]
-[f 0 5 65278][f 2 1]Ropa de perro bordado con lunas. [f 0 1 3]Máx. PE +10% / Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ropa de perro bordado con lunas. [f 0 1 3]Máx. PE +10%/Ma +2[f 0 1 0][n][e]
 
 [msg armor_3C2]
-[f 0 5 65278][f 2 1]Ropa para perros tan roja como un atardecer.[n][f 0 1 3]Máx. PS +10% / Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ropa para perros tan roja como un atardecer.[n][f 0 1 3]Máx. PS +10%/Fr +2[f 0 1 0][n][e]
 
 [msg armor_3C3]
 [f 0 5 65278][f 2 1]Ropa para perros salpicada de estrellas brillantes.[n][f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
@@ -620,10 +620,10 @@
 [f 0 5 65278][f 2 1]Theodore diseñó esto para una cobertura total.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
 
 [msg armor_3CF]
-[f 0 5 65278][f 2 1]La armadura de Aigis. Etiquetada con el número de serie 1. [f 0 1 3]Fr +1 / Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]La armadura de Aigis. Etiquetada con el número de serie 1. [f 0 1 3]Fr +1/Ag +2[f 0 1 0][n][e]
 
 [msg armor_3D0]
-[f 0 5 65278][f 2 1]La armadura actualizada de Aigis: versión 2.0.[n][f 0 1 3]Fr +2 / Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]La armadura actualizada de Aigis: versión 2.0.[n][f 0 1 3]Fr +2/Ag +2[f 0 1 0][n][e]
 
 [msg armor_3D1]
 [f 0 5 65278][f 2 1]Theodore hizo esto al alinear dos placas indestructibles. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][e]

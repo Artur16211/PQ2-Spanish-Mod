@@ -3842,64 +3842,64 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_501]
-[f 0 5 65278][f 2 1]Habilidad de dos chicos duros y[n]masculinos: Ryuji / Kanji[n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos chicos duros y[n]masculinos: Ryuji/Kanji[n][e]
 
 [msg skill_502]
-[f 0 5 65278][f 2 1]Habilidad de dos chicas infinitamente[n]alegres: Ann / Chie[n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos chicas infinitamente[n]alegres: Ann/Chie[n][e]
 
 [msg skill_503]
-[f 0 5 65278][f 2 1]Habilidad de dos paradigmas de gracia:[n]Yukiko / Yusuke[n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos paradigmas de gracia:[n]Yukiko/Yusuke[n][e]
 
 [msg skill_504]
-[f 0 5 65278][f 2 1]Habilidad de dos líderes de equipo con comodines: [f 6 1 30 0 0] / [f 6 1 13 0 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos líderes de equipo con comodines: [f 6 1 30 0 0]/[f 6 1 13 0 0 0 0][n][e]
 
 [msg skill_505]
-[f 0 5 65278][f 2 1]Habilidad de Príncipes Detectives:[n]Akechi / Naoto[n][e]
+[f 0 5 65278][f 2 1]Habilidad de Príncipes Detectives:[n]Akechi/Naoto[n][e]
 
 [msg skill_506]
-[f 0 5 65278][f 2 1]Habilidad de herederas liberadas:[n]Haru / Yukiko[n][e]
+[f 0 5 65278][f 2 1]Habilidad de herederas liberadas:[n]Haru/Yukiko[n][e]
 
 [msg skill_507]
-[f 0 5 65278][f 2 1]Habilidad de presidentas de consejo estudiantil: Makoto / Mitsuru[n][e]
+[f 0 5 65278][f 2 1]Habilidad de presidentas de consejo estudiantil: Makoto/Mitsuru[n][e]
 
 [msg skill_508]
-[f 0 5 65278][f 2 1]Habilidad de una hero胤na y sus[n]compa隠eros de clase: [f 6 1 27 0 0] / Yukari /[n]Junpei / Fuuka[n][e]
+[f 0 5 65278][f 2 1]Habilidad de una hero胤na y sus[n]compa隠eros de clase: [f 6 1 27 0 0]/Yukari /[n]Junpei/Fuuka[n][e]
 
 [msg skill_509]
-[f 0 5 65278][f 2 1]Habilidad de tres muchachos hambrientos:[n]Yusuke / Shinjiro / Akihiko[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres muchachos hambrientos:[n]Yusuke/Shinjiro/Akihiko[n][e]
 
 [msg skill_50A]
-[f 0 5 65278][f 2 1]Habilidad de ladrones y su discípulo:[n]Ken / Morgana / Ryuji / Ann[n][e]
+[f 0 5 65278][f 2 1]Habilidad de ladrones y su discípulo:[n]Ken/Morgana/Ryuji/Ann[n][e]
 
 [msg skill_50B]
-[f 0 5 65278][f 2 1]Habilidad de una heroína y su senpai:[n][f 6 1 27 0 0] / Mitsuru / Akihiko / Shinjiro[n][e]
+[f 0 5 65278][f 2 1]Habilidad de una heroína y su senpai:[n][f 6 1 27 0 0]/Mitsuru/Akihiko/Shinjiro[n][e]
 
 [msg skill_50C]
-[f 0 5 65278][f 2 1]Habilidad de enigmas (en su mayoría) adorables: Morgana / Teddie / Koromaru[n][e]
+[f 0 5 65278][f 2 1]Habilidad de enigmas (en su mayoría) adorables: Morgana/Teddie/Koromaru[n][e]
 
 [msg skill_50D]
-[f 0 5 65278][f 2 1]Habilidad de comodines con agallas de acero: [f 6 1 13 0 0] / [f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de comodines con agallas de acero: [f 6 1 13 0 0]/[f 6 1 16 0 0 0][n][e]
 
 [msg skill_50E]
-[f 0 5 65278][f 2 1]Habilidad de una heroína y sus nuevos lazos: [f 6 1 27 0 0] / Aigis / Koromaru / Ken[n][e]
+[f 0 5 65278][f 2 1]Habilidad de una heroína y sus nuevos lazos: [f 6 1 27 0 0]/Aigis/Koromaru/Ken[n][e]
 
 [msg skill_50F]
-[f 0 5 65278][f 2 1]Habilidad de dos comodines maduros: [f 6 1 30 0 0] / [f 6 1 16 0 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de dos comodines maduros: [f 6 1 30 0 0]/[f 6 1 16 0 0 0 0][n][e]
 
 [msg skill_510]
-[f 0 5 65278][f 2 1]Habilidad de cuatro bellezas(?): Haru[n]/ Aigis / Rise / Teddie[n][e]
+[f 0 5 65278][f 2 1]Habilidad de cuatro bellezas(?): Haru[n]/ Aigis/Rise/Teddie[n][e]
 
 [msg skill_511]
-[f 0 5 65278][f 2 1]Habilidad de tres navegadoras: Futaba / Rise / Fuuka[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres navegadoras: Futaba/Rise/Fuuka[n][e]
 
 [msg skill_512]
-[f 0 5 65278][f 2 1]Habilidad de tres artistas marciales:[n]Makoto / Akihiko / Chie[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres artistas marciales:[n]Makoto/Akihiko/Chie[n][e]
 
 [msg skill_513]
-[f 0 5 65278][f 2 1]Habilidad de tres compañeros(?) de los[n]comodín: Junpei / Yosuke / Ryuji[n][e]
+[f 0 5 65278][f 2 1]Habilidad de tres compañeros(?) de los[n]comodín: Junpei/Yosuke/Ryuji[n][e]
 
 [msg skill_514]
-[f 0 5 65278][f 2 1]Habilidad de cuatro comodines: [f 6 1 30 0 0] / [f 6 1 27 0 0] / [f 6 1 13 0 0] / [f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]Habilidad de cuatro comodines: [f 6 1 30 0 0]/[f 6 1 27 0 0]/[f 6 1 13 0 0]/[f 6 1 16 0 0 0][n][e]
 
 [msg skill_515]
 [f 0 5 65278][f 2 1]0x515[n][e]

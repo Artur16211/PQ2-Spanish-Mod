@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1]El precioso aplauso de Hikari que ella donó como muestra de agradecimiento.[n][e]
 
 [msg eventitem_619]
-[f 0 5 65278][f 2 1]Guión con una escena encantadora que surgió de las Prob.es de otras 4 películas.[n][e]
+[f 0 5 65278][f 2 1]Guión con una escena encantadora que surgió de las probabilidades de otras 4 películas.[n][e]
 
 [msg eventitem_61A]
 [f 0 5 65278][f 2 1]Cebo vivo y retorcido que debería atraer definitivamente a algunos peces grandes.[n][e]
@@ -533,7 +533,7 @@
 [f 0 5 65278][f 2 1]Flecha adquirida a pedido de Theo,[n]disparada por un FOE en el Group Date Cafe.[n][e]
 
 [msg eventitem_6B2]
-[f 0 5 65278][f 2 1]Líquido Medio bebido por Teddie, robado[n]de una mesa en el Group Date Cafe.[n][e]
+[f 0 5 65278][f 2 1]Líquido medio bebido por Teddie, robado[n]de una mesa en el Group Date Cafe.[n][e]
 
 [msg eventitem_6B3]
 [f 0 5 65278][f 2 1]Chupete de aluminio aterrador, encontrado[n]en el Evil Spirit Club.[n][e]

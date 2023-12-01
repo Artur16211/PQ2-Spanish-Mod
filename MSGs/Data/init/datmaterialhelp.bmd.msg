@@ -692,7 +692,7 @@
 [f 0 5 65278][f 2 1]Cabello de los valientes. Se eriza.[n]Obtenido en: [f 6 1 40 0 0 0][n][e]
 
 [msg material_7E7]
-[f 0 5 65278][f 2 1]Un libro blanco impoluto que registra todas las Prob.es. Obtenido en: Distrito del Cine[n][e]
+[f 0 5 65278][f 2 1]Un libro blanco impoluto que registra todas las probabilidades. Obtenido en: Distrito del Cine[n][e]
 
 [msg material_7E8]
 [f 0 5 65278][f 2 1]Un guion gráfico. Da vida a todo lo que se escribe en él. Obtenido en: Distrito del Cine[n][e]
@@ -815,7 +815,7 @@
 [f 0 5 65278][f 2 1]素材　0x80F　１行目[n]素材　0x80F　２行目[n][e]
 
 [msg material_810]
-[f 0 5 65278][f 2 1]Un Medio que registra todas las Prob.es.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un Medio que registra todas las probabilidades.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_811]
 [f 0 5 65278][f 2 1]素材　0x811　１行目[n]素材　0x811　２行目[n][e]

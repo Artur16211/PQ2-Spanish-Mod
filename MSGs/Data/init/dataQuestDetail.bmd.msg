@@ -446,7 +446,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][e]
 
 [msg explain_03_quest_49]
-[f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].[n][e]
 
 [msg explain_01_quest_50]
 [f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha aparecido.[n][e]
@@ -455,5 +455,5 @@
 [f 0 5 65278][f 2 1]Dummy[n][e]
 
 [msg explain_03_quest_50]
-[f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].[n][e]
 
