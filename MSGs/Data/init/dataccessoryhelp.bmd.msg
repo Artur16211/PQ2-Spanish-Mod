@@ -2,19 +2,19 @@
 [f 0 5 65278][f 2 1]アクセサリー　0x400　１行目[n]アクセサリー　0x400　２行目[n][e]
 
 [msg accessory_401]
-[f 0 5 65278][f 2 1]Mercancía de "El Caballero[n]Ladrón Regresa".[n][f 0 1 3]Aumenta ligeramente la precisión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Mercancía de "El Caballero[n]Ladrón Regresa".[n][f 0 1 3]Aumento Leve de precisión[f 0 1 0][n][e]
 
 [msg accessory_402]
-[f 0 5 65278][f 2 1]Anillo que repele ataques de fuego. [f 0 1 3]Aumenta ligeramente la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo que repele ataques de Fuego. [f 0 1 3]Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_403]
-[f 0 5 65278][f 2 1]Anillo que repele ataques de Hielo. [f 0 1 3]Aumenta ligeramente la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo que repele ataques de Hielo. [f 0 1 3]Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_404]
-[f 0 5 65278][f 2 1]Anillo que repele ataques el姻ctricos. [f 0 1 3]Aumenta ligeramente la evasión de ataques eléctricos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo que repele ataques el姻ctricos. [f 0 1 3]Aumento Leve de evasión de ataques Elec.[f 0 1 0][n][e]
 
 [msg accessory_405]
-[f 0 5 65278][f 2 1]Anillo que repele ataques de Viento.[n][f 0 1 3]Aumenta ligeramente la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo que repele ataques de Viento.[n][f 0 1 3]Aumento Leve de evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_406]
 [f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n]y la fuerza. [f 0 1 3]Máx. PS +5% / Fr +1[f 0 1 0][n][e]
@@ -83,28 +83,28 @@
 [f 0 5 65278][f 2 1]アクセサリー　0x41B　１行目[n]アクセサリー　0x41B　２行目[n][e]
 
 [msg accessory_41C]
-[f 0 5 65278][f 2 1]Anillo saludable que también repele el fuego.[n][f 0 1 3]Máx. PS +5% / Aumenta ligeramente evasi吋n de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que también repele el Fuego.[n][f 0 1 3]Máx. PS +5% / Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_41D]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el fuego. [f 0 1 3]Máx. PE +5% / Aumenta ligeramente la evasi吋n del Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el Fuego. [f 0 1 3]Máx. PE +5% / Aumento Leve de evasión del Fuego[f 0 1 0][n][e]
 
 [msg accessory_41E]
-[f 0 5 65278][f 2 1]Anillo saludable que también repele el hielo.[n][f 0 1 3]Máx. PS +5% / Aumenta ligeramente evasi吋n de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que también repele el Hielo.[n][f 0 1 3]Máx. PS +5% / Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_41F]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el hielo.[n][f 0 1 3]Máx. PE +5% / Aumenta ligeramente la evasi吋n de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el Hielo.[n][f 0 1 3]Máx. PE +5% / Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_420]
-[f 0 5 65278][f 2 1]Anillo saludable que repele el viento.[n][f 0 1 3]Máx. PS +5% / Aumenta ligeramente la evasi吋n de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que repele el Viento.[n][f 0 1 3]Máx. PS +5% / Aumento Leve de evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_421]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el viento. [f 0 1 3]Máx. PE +5%/ Aumenta ligeramente la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el Viento. [f 0 1 3]Máx. PE +5%/ Aumento Leve de evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_422]
-[f 0 5 65278][f 2 1]Anillo saludable que repele la electricidad.[n][f 0 1 3]Máx. PS +5% / Aumenta ligeramente la evasi吋n Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que repele la electricidad.[n][f 0 1 3]Máx. PS +5% / Aumento Leve de evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_423]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele la electricidad.[n][f 0 1 3]Máx. PE +5% / Aumenta ligeramente la evasi吋n Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete vigorizante que repele la electricidad.[n][f 0 1 3]Máx. PE +5% / Aumento Leve de evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_424]
 [f 0 5 65278][f 2 1]アクセサリー　0x424　１行目[n]アクセサリー　0x424　２行目[n][e]
@@ -176,28 +176,28 @@
 [f 0 5 65278][f 2 1]アクセサリー　0x43A　１行目[n]アクセサリー　0x43A　２行目[n][e]
 
 [msg accessory_43B]
-[f 0 5 65278][f 2 1]Círculo saludable que repele el fuego.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele el Fuego.[n][f 0 1 3]Máx. PS +10% / Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_43C]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele el fuego.[n][f 0 1 3]Máx. PE +10% / Aumenta ligeramente la evasi吋n de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Broche vigorizante que también repele el Fuego.[n][f 0 1 3]Máx. PE +10% / Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_43D]
-[f 0 5 65278][f 2 1]Círculo saludable que repele el hielo.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele el Hielo.[n][f 0 1 3]Máx. PS +10% / Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_43E]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele el hielo.[n][f 0 1 3]Máx. PE +10% / Aumenta ligeramente evasi吋n de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Broche vigorizante que también repele el Hielo.[n][f 0 1 3]Máx. PE +10% / Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_43F]
-[f 0 5 65278][f 2 1]Círculo saludable que repele el viento.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele el Viento.[n][f 0 1 3]Máx. PS +10% / Aumento Leve de evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_440]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele el viento. [f 0 1 3]Máx. PE +10% / Incre胤blemente la evasi吋n del Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Broche vigorizante que también repele el Viento. [f 0 1 3]Máx. PE +10% / Gran aumento de evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_441]
-[f 0 5 65278][f 2 1]Círculo saludable que repele la electricidad.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Círculo saludable que repele la electricidad.[n][f 0 1 3]Máx. PS +10% / Aumento Leve de evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_442]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele la electricidad. [f 0 1 3]Máx. PE +10% / Aumenta ligeramente la evasi吋n Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Broche vigorizante que también repele la electricidad. [f 0 1 3]Máx. PE +10% / Aumento Leve de evasión Elec.[f 0 1 0][n][e]
 
 [msg accessory_443]
 [f 0 5 65278][f 2 1]アクセサリー　0x443　１行目[n]アクセサリー　0x443　２行目[n][e]
@@ -401,28 +401,28 @@
 [f 0 5 65278][f 2 1]アクセサリー　0x485　１行目[n]アクセサリー　0x485　２行目[n][e]
 
 [msg accessory_486]
-[f 0 5 65278][f 2 1]Anillo saludable que repele habilidades nucleares. [f 0 1 3]Máx. PS +5% / Aumenta ligeramente la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que repele habilidades Nucleares. [f 0 1 3]Máx. PS +5% / Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_487]
-[f 0 5 65278][f 2 1]Anillo saludable que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PS +5% / Aumenta ligeramente la evasión de ataques Psíquicos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +5% / Aumento Leve de evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_488]
-[f 0 5 65278][f 2 1]Brazalete que repele habilidades nucleares.[n][f 0 1 3]Máx. PE +5% / Aumenta ligeramente la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +5% / Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_489]
-[f 0 5 65278][f 2 1]Brazalete que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PE +5% / Aumenta ligeramente la evasión de ataques Psíquicos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +5% / Aumento Leve de evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_48A]
-[f 0 5 65278][f 2 1]Círculo que repele habilidades nucleares.[n][f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Círculo que repele habilidades Nucleares.[n][f 0 1 3]Máx. PS +10% / Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_48B]
-[f 0 5 65278][f 2 1]C胤rculo que protege contra habilidades psíquicas. [f 0 1 3]Máx. PS +10% / Aumenta ligeramente la evasión de ataques Psíquicos[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]C胤rculo que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PS +10% / Aumento Leve de evasión Psíquica[f 0 1 0][n][n][e]
 
 [msg accessory_48C]
-[f 0 5 65278][f 2 1]Pin robusto que se marchita Nuclear skills.[n][f 0 1 3]Máx. PE +10% / Aumenta ligeramente la evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Pin robusto que se marchita Nuclear skills.[n][f 0 1 3]Máx. PE +10% / Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_48D]
-[f 0 5 65278][f 2 1]Broche resistente que repele habilidades nucleares.[n][f 0 1 3]Máx. PE +10% / Aumenta ligeramente la evasión de ataques Psíquicos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Broche resistente que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +10% / Aumento Leve de evasión Psíquica[f 0 1 0][n][e]
 
 [msg accessory_48E]
 [f 0 5 65278][f 2 1]アクセサリー　0x48E　１行目[n]アクセサリー　0x48E　２行目[n][e]
@@ -458,13 +458,13 @@
 [f 0 5 65278][f 2 1]Acelerador que puede ralentizar el tiempo mismo.[n][f 0 1 3]Tasa cr胤tica +10%[f 0 1 0][n][e]
 
 [msg accessory_499]
-[f 0 5 65278][f 2 1]Insignia con el poder de fortalecer cada fibra de tu ser. [f 0 1 3]Todas las estad胤sticas +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Insignia con el poder de fortalecer cada fibra de tu ser. [f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
 
 [msg accessory_49A]
-[f 0 5 65278][f 2 1]Insignia con el poder de fortalecer en gran medida cada fibra de tu ser. [f 0 1 3]Todas las estad胤sticas +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Insignia con el poder de fortalecer en gran medida cada fibra de tu ser. [f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
 
 [msg accessory_49B]
-[f 0 5 65278][f 2 1](DLC) Cristal que demuestra tu habilidad para cazar tesoros. [f 0 1 3]Doble tasa de encuentros[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1](DLC) Cristal que demuestra tu habilidad para cazar tesoros. [f 0 1 3]Doble prob. de encuentros[f 0 1 0][n][e]
 
 [msg accessory_49C]
 [f 0 5 65278][f 2 1](DLC) Cristal que demuestra que simplemente buscas paz y tranquilidad. [f 0 1 3]Eliminar encuentros[f 0 1 0][n][e]
@@ -581,7 +581,7 @@
 [f 0 5 65278][f 2 1]Adorno poseído por el poder de la curación.[n][f 0 1 3]Adquiere la habilidad Dia[f 0 1 0][n][e]
 
 [msg accessory_4C2]
-[f 0 5 65278][f 2 1]Adorno poseído por el poder del fuego.[n][f 0 1 3]Adquiere la habilidad Agi[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Adorno poseído por el poder del Fuego.[n][f 0 1 3]Adquiere la habilidad Agi[f 0 1 0][n][e]
 
 [msg accessory_4C3]
 [f 0 5 65278][f 2 1]Adorno poseído por el poder de la psicocinesis.[n][f 0 1 3]Adquiere la habilidad Psi[f 0 1 0][n][e]
@@ -590,55 +590,55 @@
 [f 0 5 65278][f 2 1]Figura de gato que trae buena fortuna.[n][f 0 1 3]Obtén 10% m茨s de dinero en batalla[f 0 1 0][n][e]
 
 [msg accessory_4C5]
-[f 0 5 65278][f 2 1]Amuleto con un dios atrapado de fuego y hielo. [f 0 1 3]Baja probabilidad de anular Fuego y Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto con un dios atrapado de Fuego y Hielo. [f 0 1 3]Prob. Baja de anular Fuego y Hielo[f 0 1 0][n][e]
 
 [msg accessory_4C6]
-[f 0 5 65278][f 2 1]Amuleto con un dios atrapado de las tormentas.[n][f 0 1 3]Baja probabilidad de anular Elec. y Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto con un dios atrapado de las tormentas.[n][f 0 1 3]Prob. Baja de anular Elec. y Viento[f 0 1 0][n][e]
 
 [msg accessory_4C7]
 [f 0 5 65278][f 2 1]Figura de gato que atrae gran riqueza y suerte.[n][f 0 1 3]Obtén 15% m茨s dinero en batalla / Su +2[f 0 1 0][n][e]
 
 [msg accessory_4C8]
-[f 0 5 65278][f 2 1]Deflector de partículas y ondas mentales.[n][f 0 1 3]Baja probabilidad de anular Nuclear y Psíquico[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Deflector de partículas y ondas mentales.[n][f 0 1 3]Prob. Baja de anular Nuclear y Psíquico[f 0 1 0][n][e]
 
 [msg accessory_4C9]
 [f 0 5 65278][f 2 1]Pomada inventada por un respetado médico.[n][f 0 1 3]Recupera PE cada turno[f 0 1 0][n][e]
 
 [msg accessory_4CA]
-[f 0 5 65278][f 2 1]Anillo en el que está atrapado el poder de un dios rugiente. [f 0 1 3]Reduce a la mitad el costo de PS[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo en el que está atrapado el poder de un dios rugiente. [f 0 1 3]Coste Medio de PS[f 0 1 0][n][e]
 
 [msg accessory_4CB]
-[f 0 5 65278][f 2 1]Anillo que aprovecha la energía de dimensiones superiores. [f 0 1 3]Reduce a la mitad el costo de PE[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo que aprovecha la energía de dimensiones superiores. [f 0 1 3]Coste Medio de PE[f 0 1 0][n][e]
 
 [msg accessory_4CC]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia las estadísticas de Fr y Ma[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Fr y Ma[f 0 1 0][n][e]
 
 [msg accessory_4CD]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Fr y Rs[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Fr y Rs[f 0 1 0][n][e]
 
 [msg accessory_4CE]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Fr y Ag[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Fr y Ag[f 0 1 0][n][e]
 
 [msg accessory_4CF]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Fr y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Fr y Su[f 0 1 0][n][e]
 
 [msg accessory_4D0]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Ma y Rs[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Ma y Rs[f 0 1 0][n][e]
 
 [msg accessory_4D1]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Ma y Ag[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Ma y Ag[f 0 1 0][n][e]
 
 [msg accessory_4D2]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Ma y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Ma y Su[f 0 1 0][n][e]
 
 [msg accessory_4D3]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Rs y Ag[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Rs y Ag[f 0 1 0][n][e]
 
 [msg accessory_4D4]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Rs y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Rs y Su[f 0 1 0][n][e]
 
 [msg accessory_4D5]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambiar las estadísticas de Ag y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estadísticas de Ag y Su[f 0 1 0][n][e]
 
 [msg accessory_4D6]
 [f 0 5 65278][f 2 1]アクセサリー　0x4D6　１行目[n]アクセサリー　0x4D6　２行目[n][e]
@@ -683,7 +683,7 @@
 [f 0 5 65278][f 2 1]アクセサリー　0x4E3　１行目[n]アクセサリー　0x4E3　２行目[n][e]
 
 [msg accessory_4E4]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia Máx. PS y Máx. PE[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia Máx. PS y PE[f 0 1 0][n][e]
 
 [msg accessory_4E5]
 [f 0 5 65278][f 2 1]アクセサリー　0x4E5　１行目[n]アクセサリー　0x4E5　２行目[n][e]
@@ -710,7 +710,7 @@
 [f 0 5 65278][f 2 1]Brazalete que permite el uso de Power Charge.[n][f 0 1 3]Prueba el poder de las habilidades de F胤sica[f 0 1 0][n][e]
 
 [msg accessory_4ED]
-[f 0 5 65278][f 2 1]Brazalete que permite el uso de Dragon Cry.[n][f 0 1 3]Aumenta considerablemente el ataque / Actua primero[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete que permite el uso de Dragon Cry.[n][f 0 1 3]Gran aumento de ataque / Actua primero[f 0 1 0][n][e]
 
 [msg accessory_4EE]
 [f 0 5 65278][f 2 1]アクセサリー　0x4EE　１行目[n]アクセサリー　0x4EE　２行目[n][e]

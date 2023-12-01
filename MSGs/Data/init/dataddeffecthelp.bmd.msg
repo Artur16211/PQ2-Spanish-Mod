@@ -107,121 +107,121 @@
 [f 0 5 65278][f 2 1]+50 PE[n][e]
 
 [msg addeffect_036]
-[f 0 5 65278][f 2 1]Probabilidad baja de Confusi吋n[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Confusi吋n[n][e]
 
 [msg addeffect_037]
-[f 0 5 65278][f 2 1]probabilidad media de Confusi吋n[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Confusi吋n[n][e]
 
 [msg addeffect_038]
-[f 0 5 65278][f 2 1]Probabilidad alta de Confusi吋n[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Confusi吋n[n][e]
 
 [msg addeffect_039]
-[f 0 5 65278][f 2 1]Probabilidad baja de Veneno[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Env.[n][e]
 
 [msg addeffect_040]
-[f 0 5 65278][f 2 1]probabilidad media de Veneno[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Env.[n][e]
 
 [msg addeffect_041]
-[f 0 5 65278][f 2 1]Probabilidad alta de Veneno[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Env.[n][e]
 
 [msg addeffect_042]
-[f 0 5 65278][f 2 1]Probabilidad baja de Miedo[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Miedo[n][e]
 
 [msg addeffect_043]
-[f 0 5 65278][f 2 1]probabilidad media de Miedo[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Miedo[n][e]
 
 [msg addeffect_044]
-[f 0 5 65278][f 2 1]Probabilidad alta de Miedo[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Miedo[n][e]
 
 [msg addeffect_045]
-[f 0 5 65278][f 2 1]Probabilidad baja de Furia[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Furia[n][e]
 
 [msg addeffect_046]
-[f 0 5 65278][f 2 1]probabilidad media de Furia[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Furia[n][e]
 
 [msg addeffect_047]
-[f 0 5 65278][f 2 1]Probabilidad alta de Furia[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Furia[n][e]
 
 [msg addeffect_048]
-[f 0 5 65278][f 2 1]Probabilidad baja de Mareo[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Mareo[n][e]
 
 [msg addeffect_049]
-[f 0 5 65278][f 2 1]probabilidad media de Mareo[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Mareo[n][e]
 
 [msg addeffect_050]
-[f 0 5 65278][f 2 1]Probabilidad alta de Mareo[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Mareo[n][e]
 
 [msg addeffect_051]
-[f 0 5 65278][f 2 1]Probabilidad baja de Agotamiento[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Agotamiento[n][e]
 
 [msg addeffect_052]
-[f 0 5 65278][f 2 1]probabilidad media de Agotamiento[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Agotamiento[n][e]
 
 [msg addeffect_053]
-[f 0 5 65278][f 2 1]Probabilidad alta de Agotamiento[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Agotamiento[n][e]
 
 [msg addeffect_054]
-[f 0 5 65278][f 2 1]Probabilidad baja de Envejecimiento[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Envejecimiento[n][e]
 
 [msg addeffect_055]
-[f 0 5 65278][f 2 1]probabilidad media de Envejecimiento[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Envejecimiento[n][e]
 
 [msg addeffect_056]
-[f 0 5 65278][f 2 1]Probabilidad alta de Envejecimiento[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Envejecimiento[n][e]
 
 [msg addeffect_057]
-[f 0 5 65278][f 2 1]Probabilidad baja de Atadura M茨gica[n][e]
+[f 0 5 65278][f 2 1]Prob. Baja de Atadura M茨gica[n][e]
 
 [msg addeffect_058]
-[f 0 5 65278][f 2 1]probabilidad media de Atadura M茨gica[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de Atadura M茨gica[n][e]
 
 [msg addeffect_059]
-[f 0 5 65278][f 2 1]Probabilidad alta de Atadura M茨gica[n][e]
+[f 0 5 65278][f 2 1]Prob. alta de Atadura M茨gica[n][e]
 
 [msg addeffect_060]
-[f 0 5 65278][f 2 1]Probabilidad cr胤tica[n][e]
+[f 0 5 65278][f 2 1]Prob. cr胤tica[n][e]
 
 [msg addeffect_061]
-[f 0 5 65278][f 2 1]Probabilidad cr胤tica+[n][e]
+[f 0 5 65278][f 2 1]Prob. cr胤tica+[n][e]
 
 [msg addeffect_062]
-[f 0 5 65278][f 2 1]Probabilidad cr胤tica++[n][e]
+[f 0 5 65278][f 2 1]Prob. cr胤tica++[n][e]
 
 [msg addeffect_063]
-[f 0 5 65278][f 2 1]Todas las estad胤sticas +1[n][e]
+[f 0 5 65278][f 2 1]Todas las estad. +1[n][e]
 
 [msg addeffect_064]
-[f 0 5 65278][f 2 1]Todas las estad胤sticas +2[n][e]
+[f 0 5 65278][f 2 1]Todas las estad. +2[n][e]
 
 [msg addeffect_065]
-[f 0 5 65278][f 2 1]Todas las estad胤sticas +3[n][e]
+[f 0 5 65278][f 2 1]Todas las estad. +3[n][e]
 
 [msg addeffect_066]
-[f 0 5 65278][f 2 1]Todas las estad胤sticas +4[n][e]
+[f 0 5 65278][f 2 1]Todas las estad. +4[n][e]
 
 [msg addeffect_067]
-[f 0 5 65278][f 2 1]Todas las estad胤sticas +5[n][e]
+[f 0 5 65278][f 2 1]Todas las estad. +5[n][e]
 
 [msg addeffect_068]
-[f 0 5 65278][f 2 1]El poder de ataque de fuego aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de Fuego aument吋 un 25%[n][e]
 
 [msg addeffect_069]
-[f 0 5 65278][f 2 1]El poder de ataque de hielo aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]El poder de ataque de Hielo aument吋 un 25%[n][e]
 
 [msg addeffect_070]
 [f 0 5 65278][f 2 1]El poder de ataque elec. aument吋 un 25%[n][e]
 
 [msg addeffect_071]
-[f 0 5 65278][f 2 1]Energ胤a de ataque de viento aument吋 un 25%[n][e]
+[f 0 5 65278][f 2 1]Energ胤a de ataque de Viento aument吋 un 25%[n][e]
 
 [msg addeffect_072]
-[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques F胤sicos[n][e]
+[f 0 5 65278][f 2 1]Prob. de reflejar ataques F胤sicos[n][e]
 
 [msg addeffect_073]
-[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques F胤sicos+[n][e]
+[f 0 5 65278][f 2 1]Prob. de reflejar ataques F胤sicos+[n][e]
 
 [msg addeffect_074]
-[f 0 5 65278][f 2 1]Probabilidad de reflejar ataques F胤sicos++[n][e]
+[f 0 5 65278][f 2 1]Prob. de reflejar ataques F胤sicos++[n][e]
 
 [msg addeffect_075]
 [f 0 5 65278][f 2 1]Resistencia contra Confusi吋n[n][e]
@@ -275,13 +275,13 @@
 [f 0 5 65278][f 2 1]+100 PS[n][e]
 
 [msg addeffect_092]
-[f 0 5 65278][f 2 1]Probabilidad de infligir todos los estados alterados[n][e]
+[f 0 5 65278][f 2 1]Prob. de infligir todos los estados alterados[n][e]
 
 [msg addeffect_093]
-[f 0 5 65278][f 2 1]Probabilidad de infligir todos los estados alterados+[n][e]
+[f 0 5 65278][f 2 1]Prob. de infligir todos los estados alterados+[n][e]
 
 [msg addeffect_094]
-[f 0 5 65278][f 2 1]Probabilidad de infligir todos los estados alterados++[n][e]
+[f 0 5 65278][f 2 1]Prob. de infligir todos los estados alterados++[n][e]
 
 [msg addeffect_095]
 [f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 10%[n][e]
@@ -293,31 +293,31 @@
 [f 0 5 65278][f 2 1]Da隠o f胤sico reducido en 30%[n][e]
 
 [msg addeffect_098]
-[f 0 5 65278][f 2 1]Da隠o al fuego reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Fuego reducido en 10%[n][e]
 
 [msg addeffect_099]
-[f 0 5 65278][f 2 1]Da隠o al fuego reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Fuego reducido en 20%[n][e]
 
 [msg addeffect_100]
-[f 0 5 65278][f 2 1]Da隠o al fuego reducido en un 30%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Fuego reducido en un 30%[n][e]
 
 [msg addeffect_101]
-[f 0 5 65278][f 2 1]Da隠o al hielo reducido en un 10%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Hielo reducido en un 10%[n][e]
 
 [msg addeffect_102]
-[f 0 5 65278][f 2 1]Da隠o por hielo reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Da隠o por Hielo reducido en 20%[n][e]
 
 [msg addeffect_103]
-[f 0 5 65278][f 2 1]Da隠o por hielo reducido en un 30%[n][e]
+[f 0 5 65278][f 2 1]Da隠o por Hielo reducido en un 30%[n][e]
 
 [msg addeffect_104]
-[f 0 5 65278][f 2 1]Da隠o al viento reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Viento reducido en 10%[n][e]
 
 [msg addeffect_105]
-[f 0 5 65278][f 2 1]Da隠o al viento reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Viento reducido en 20%[n][e]
 
 [msg addeffect_106]
-[f 0 5 65278][f 2 1]Da隠o al viento reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Da隠o al Viento reducido en 30%[n][e]
 
 [msg addeffect_107]
 [f 0 5 65278][f 2 1]Da隠o elec. reducido en 10%[n][e]
@@ -329,22 +329,22 @@
 [f 0 5 65278][f 2 1]Da隠o elec. reducido en 30%[n][e]
 
 [msg addeffect_110]
-[f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 10%[n][e]
+[f 0 5 65278][f 2 1]Da隠o M茨gico reducido en 10%[n][e]
 
 [msg addeffect_111]
-[f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 20%[n][e]
+[f 0 5 65278][f 2 1]Da隠o M茨gico reducido en 20%[n][e]
 
 [msg addeffect_112]
-[f 0 5 65278][f 2 1]Da隠o m茨gico reducido en 30%[n][e]
+[f 0 5 65278][f 2 1]Da隠o M茨gico reducido en 30%[n][e]
 
 [msg addeffect_113]
-[f 0 5 65278][f 2 1]Reduce la probabilidad de tropezar[n][e]
+[f 0 5 65278][f 2 1]Reduce la Prob. de tropezar[n][e]
 
 [msg addeffect_114]
-[f 0 5 65278][f 2 1]Reduce ligeramente la probabilidad de[n]tropezar[n][e]
+[f 0 5 65278][f 2 1]Reduce ligeramente la Prob. de[n]tropezar[n][e]
 
 [msg addeffect_115]
-[f 0 5 65278][f 2 1]Gran reducci吋n de probabilidad de tropezar[n][e]
+[f 0 5 65278][f 2 1]Gran reducci吋n de Prob. de tropezar[n][e]
 
 [msg addeffect_116]
 [f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques f胤sicos+[n][e]
@@ -416,7 +416,7 @@
 [f 0 5 65278][f 2 1]+100 PE[n][e]
 
 [msg addeffect_139]
-[f 0 5 65278][f 2 1]Todas las estad胤sticas +10[n][e]
+[f 0 5 65278][f 2 1]Todas las estad. +10[n][e]
 
 [msg addeffect_140]
 [f 0 5 65278][f 2 1]Costo de PE triplicado[n][e]
@@ -566,25 +566,25 @@
 [f 0 5 65278][f 2 1]Ninguno[n][e]
 
 [msg addeffect_189]
-[f 0 5 65278][f 2 1]Ataque de fuego[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego[n][e]
 
 [msg addeffect_190]
-[f 0 5 65278][f 2 1]Ataque de hielo[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo[n][e]
 
 [msg addeffect_191]
-[f 0 5 65278][f 2 1]Ataque de viento[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento[n][e]
 
 [msg addeffect_192]
 [f 0 5 65278][f 2 1]Ataque elec.[n][e]
 
 [msg addeffect_193]
-[f 0 5 65278][f 2 1]Da隠o por fuego[n][e]
+[f 0 5 65278][f 2 1]Da隠o por Fuego[n][e]
 
 [msg addeffect_194]
-[f 0 5 65278][f 2 1]Da隠o por hielo[n][e]
+[f 0 5 65278][f 2 1]Da隠o por Hielo[n][e]
 
 [msg addeffect_195]
-[f 0 5 65278][f 2 1]Da隠o por viento[n][e]
+[f 0 5 65278][f 2 1]Da隠o por Viento[n][e]
 
 [msg addeffect_196]
 [f 0 5 65278][f 2 1]Da隠o elec.[n][e]

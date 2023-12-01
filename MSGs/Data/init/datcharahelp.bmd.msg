@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1](Fila Frontal) Un luchador vers茨til, h茨bil con todas las afinidades.[n][e]
 
 [msg chara_003]
-[f 0 5 65278][f 2 1](Fila Frontal) Un luchador 茨gil que se especializa en ataques de corte y viento.[n][e]
+[f 0 5 65278][f 2 1](Fila Frontal) Un luchador 茨gil que se especializa en ataques de corte y Viento.[n][e]
 
 [msg chara_004]
 [f 0 5 65278][f 2 1](Fila Frontal) Una chica experta en kung fu con alta[n]evasi吋n y ataques cr胤ticos.[n][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1](Fila Frontal) Una mascota autoproclamada que ayuda al grupo en combate.[n][e]
 
 [msg chara_00A]
-[f 0 5 65278][f 2 1](Fila Trasera) Una chica de humor variable que sobresale en habilidades de viento y recuperaci吋n.[n][e]
+[f 0 5 65278][f 2 1](Fila Trasera) Una chica de humor variable que sobresale en habilidades de Viento y recuperaci吋n.[n][e]
 
 [msg chara_00B]
 [f 0 5 65278][f 2 1](Fila Frontal) Un presumido con habilidades equilibradas en ataque, defensa y contraataque.[n][e]
@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1](Fila Frontal) Un boxeador sin rival que inflige un da隠o extremo.[n][e]
 
 [msg chara_00D]
-[f 0 5 65278][f 2 1](Front or Back) Sella las habilidades del enemigo y las remata con magia de hielo.[n][e]
+[f 0 5 65278][f 2 1](Front or Back) Sella las habilidades del enemigo y las remata con magia de Hielo.[n][e]
 
 [msg chara_00E]
 [f 0 5 65278][f 2 1]None[n][e]
@@ -47,10 +47,10 @@
 [f 0 5 65278][f 2 1](Front or Back) Arma anti-sombras que puede activar su[n]Modo Desenfreno.[n][e]
 
 [msg chara_010]
-[f 0 5 65278][f 2 1](Fila Trasera) Es genial con habilidades f胤sicas y de[n]Electricidad, 斡pero tiene poca salud![n][e]
+[f 0 5 65278][f 2 1](Fila Trasera) Es genial con habilidades F胤sicas y de[n]Electricidad, 斡pero tiene poca salud![n][e]
 
 [msg chara_011]
-[f 0 5 65278][f 2 1](Fila Trasera) R茨pido y maneja magia de fuego y oscuridad, 斡pero no es resistente![n][e]
+[f 0 5 65278][f 2 1](Fila Trasera) R茨pido y maneja magia de Fuego y oscuridad, 斡pero no es resistente![n][e]
 
 [msg chara_012]
 [f 0 5 65278][f 2 1](Fila Frontal) El tipo m茨s resistente, pero extremadamente vulnerable a la magia.[n][e]

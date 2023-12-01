@@ -59,22 +59,22 @@
 [f 0 5 65278][f 2 1]Colección de recetas para hacer alimentos ideales para los guardaespaldas.[n][e]
 
 [msg eventitem_614]
-[f 0 5 65278][f 2 1]Prueba de registro del 25% de Persona, que ofrece un 10% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba de registro del 25% de Persona, que ofrece un 10% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_615]
-[f 0 5 65278][f 2 1]Prueba de registro del 50% de Persona, que ofrece un 15% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba de registro del 50% de Persona, que ofrece un 15% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_616]
-[f 0 5 65278][f 2 1]PPrueba de registro del 75% de Persona, que ofrece un 20% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]PPrueba de registro del 75% de Persona, que ofrece un 20% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_617]
-[f 0 5 65278][f 2 1]Prueba de registro total de Persona, que ofrece un 25% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba de registro total de Persona, que ofrece un 25% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_618]
 [f 0 5 65278][f 2 1]El precioso aplauso de Hikari que ella donó como muestra de agradecimiento.[n][e]
 
 [msg eventitem_619]
-[f 0 5 65278][f 2 1]Guión con una escena encantadora que surgió de las posibilidades de otras 4 películas.[n][e]
+[f 0 5 65278][f 2 1]Guión con una escena encantadora que surgió de las Prob.es de otras 4 películas.[n][e]
 
 [msg eventitem_61A]
 [f 0 5 65278][f 2 1]Cebo vivo y retorcido que debería atraer definitivamente a algunos peces grandes.[n][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
 
 [msg eventitem_642]
-[f 0 5 65278][f 2 1]El mismo proyector que el de la Habitación Terciopelo.[n][f 0 1 3]Realiza 3 fusiones de personas.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El mismo proyector que el de la Habitación Terciopelo.[n][f 0 1 3]Realiza 3 fusiones de personas[f 0 1 0][n][e]
 
 [msg eventitem_643]
 [f 0 5 65278][f 2 1]貴重品ID_0x643[n][e]
@@ -287,22 +287,22 @@
 [f 0 5 65278][f 2 1]貴重品ID_0x65F[n][e]
 
 [msg eventitem_660]
-[f 0 5 65278][f 2 1]Prueba del registro del 25% de las Personas, que otorga[n]un 10% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba del registro del 25% de las Personas, que otorga[n]un 10% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_661]
-[f 0 5 65278][f 2 1]Prueba del registro del 50% de las Personas, que otorga[n]un 15% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba del registro del 50% de las Personas, que otorga[n]un 15% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_662]
-[f 0 5 65278][f 2 1]Prueba del registro del 75% de las Personas, que otorga[n]un 20% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba del registro del 75% de las Personas, que otorga[n]un 20% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_663]
-[f 0 5 65278][f 2 1]Prueba del registro total de Personas, que otorga[n]un 25% de descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]Prueba del registro total de Personas, que otorga[n]un 25% descuento al invocar desde una película.[n][e]
 
 [msg eventitem_664]
-[f 0 5 65278][f 2 1]Ofrece un 10% de descuento en la tienda.[n]Se puede usar con otros descuentos.[n][e]
+[f 0 5 65278][f 2 1]Ofrece un 10% descuento en la tienda.[n]Se puede usar con otros descuentos.[n][e]
 
 [msg eventitem_665]
-[f 0 5 65278][f 2 1]Ofrece un 10% de descuento en la tienda.[n]Se puede usar con otros descuentos.[n][e]
+[f 0 5 65278][f 2 1]Ofrece un 10% descuento en la tienda.[n]Se puede usar con otros descuentos.[n][e]
 
 [msg eventitem_666]
 [f 0 5 65278][f 2 1]Prueba de tu leal patrocinio.[n]Descuento en tarjeta de habilidad: 10%[n][e]
@@ -533,7 +533,7 @@
 [f 0 5 65278][f 2 1]Flecha adquirida a pedido de Theo,[n]disparada por un FOE en el Group Date Cafe.[n][e]
 
 [msg eventitem_6B2]
-[f 0 5 65278][f 2 1]Líquido medio bebido por Teddie, robado[n]de una mesa en el Group Date Cafe.[n][e]
+[f 0 5 65278][f 2 1]Líquido Medio bebido por Teddie, robado[n]de una mesa en el Group Date Cafe.[n][e]
 
 [msg eventitem_6B3]
 [f 0 5 65278][f 2 1]Chupete de aluminio aterrador, encontrado[n]en el Evil Spirit Club.[n][e]

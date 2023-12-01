@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1]Sinopsis[n]El graffiti es el grito del alma. T雨, 夷escuchas a tu coraz吋n? 夷O te est茨s mintiendo a ti mismo todos los d胤as? Encuentra tu voz verdadera, 斡deja que tu alma grite![n][e]
 
 [msg quest_story_010]
-[f 0 5 65278][f 2 1]Sinopsis[n]Una onda en el agua, un suspiro del viento... 斡Y de repente, estalla una 姻pica batalla entre la vida y la muerte! S胤, este es el mundo dram茨tico de... 斡la pesca![n][e]
+[f 0 5 65278][f 2 1]Sinopsis[n]Una onda en el agua, un suspiro del Viento... 斡Y de repente, estalla una 姻pica batalla entre la vida y la muerte! S胤, este es el mundo dram茨tico de... 斡la pesca![n][e]
 
 [msg quest_story_011]
 [f 0 5 65278][f 2 1]Sinopsis[n]Dos tesoros legendarios, transmitidos de generaci吋n en generaci吋n, brillando en la noche m茨s oscura. 夷Pueden ser robados bajo la atenta mirada de dos Pterosaurios?[n][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1]Sinopsis[n]夷Tienes algo que sea precioso para ti? Por supuesto que s胤. 斡As胤 que lucha por ello! Y mira esta pel胤cula, donde todos hacen lo mismo. 斡Las apuestas no podr胤an ser m茨s altas![n][e]
 
 [msg quest_story_019]
-[f 0 5 65278][f 2 1]Sinopsis[n]斡Guerreros, re雨nanse! En esta isla antigua, hagan su 雨ltima defensa, 斡aunque las grandes bestias se eleven sobre ustedes! No deben titubear (especialmente en una pel胤cula tan 姻pica como esta).[n][e]
+[f 0 5 65278][f 2 1]Sinopsis[n]斡Guerreros, re雨nanse! En esta isla antigua, hagan su 雨ltima defensa, 斡aunque las grandes bestias se eLeven sobre ustedes! No deben titubear (especialmente en una pel胤cula tan 姻pica como esta).[n][e]
 
 [msg quest_story_020]
 [f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]Sinopsis[n]Una historia de misterio en la que buscas huevos de Pascua que solo un verdadero fan puede encontrar. No te preocupes, esto no es una persecuci吋n absurda... a menos que te refieras a la que pone huevos de oro.[n][e]
 
 [msg quest_story_036]
-[f 0 5 65278][f 2 1]Sinopsis[n]Ha estallado una guerra. 夷Y son soldados de infanter胤a contra tanques? 夷C吋mo vencer茨 esta infanter胤a valiente las probabilidades... a menos que aparezca un h姻roe como t雨![n][e]
+[f 0 5 65278][f 2 1]Sinopsis[n]Ha estallado una guerra. 夷Y son soldados de infanter胤a contra tanques? 夷C吋mo vencer茨 esta infanter胤a valiente las Prob.es... a menos que aparezca un h姻roe como t雨![n][e]
 
 [msg quest_story_037]
 [f 0 5 65278][f 2 1]Sinopsis[n]El Sr. Oso te est茨 esperando, en lo m茨s profundo del bosque. 斡Fortalece tus nervios y enfrenta a este gran enemigo! No pienses. 斡Siente![n][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1]Sinopsis[n]斡Estreno mundial! Es hora de revelar qui姻n es el m茨s osuno de todos. Todos los a隠os de juegos de palabras con osos han llevado a esto, la batalla decisiva...[n][e]
 
 [msg quest_story_046]
-[f 0 5 65278][f 2 1]Sinopsis[n]斡遺rdenes de emergencia! 斡Devuelve el tesoro sin demora! 斡Esta pel胤cula de acci吋n de ladrones de guante blanco, llena de velocidad y emoci吋n, te mantendr茨 al borde de tu asiento![n][e]
+[f 0 5 65278][f 2 1]Sinopsis[n]斡遺rdenes de emergencia! 斡Devuelve el tesoro sin demora! 斡Esta pel胤cula de acci吋n de ladrones de guante blanco, llena de velocidad y emoci吋n, te mantendr茨 al borde tu asiento![n][e]
 
 [msg quest_story_047]
 [f 0 5 65278][f 2 1]Sinopsis[n]斡Proyecci吋n especial de emergencia! 斡El terror se apodera de la Kamociudad! 斡Derrota la amenaza donde se ha establecido, en la Plaza Kamoshida![n][e]

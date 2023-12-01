@@ -101,16 +101,16 @@
 [f 0 5 65278][f 2 1]素材　0x721　１行目[n]素材　0x721　２行目[n][e]
 
 [msg material_722]
-[f 0 5 65278][f 2 1]Una guía para tejer tela encantada.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para tejer tela encantada.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_723]
-[f 0 5 65278][f 2 1]Una guía para crear ropa primitiva.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para crear ropa primitiva.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_724]
-[f 0 5 65278][f 2 1]Una guía para vincular palabras en prendas de vestir.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para vincular palabras en prendas de vestir.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_725]
-[f 0 5 65278][f 2 1]Una guía para elaborar armaduras mecanizadas.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para elaborar armaduras mecanizadas.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_726]
 [f 0 5 65278][f 2 1]Moneda que se entrega a quien informa de los desafios de un héroe. Obtenido en: Kamoshidaman[n][e]
@@ -221,31 +221,31 @@
 [f 0 5 65278][f 2 1]Un circuito que se cree que proviene de un CPU de un futuro cercano. Obtenido en: A.I.G.I.S.[n][e]
 
 [msg material_74A]
-[f 0 5 65278][f 2 1]Un chip de inteligencia artificial con un valor de desviación superior a 65. Obtenido en: A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Un chip de inteligencia artificial con un valor desviación superior a 65. Obtenido en: A.I.G.I.S.[n][e]
 
 [msg material_74B]
-[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz que resplandece con colores.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz que resplandece con colores.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_74C]
-[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz, dulce y azucarado.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz, dulce y azucarado.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_74D]
-[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz con un toque tropical.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz con un toque tropical.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_74E]
-[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz, sabroso y carnoso.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sabor de palomitas de maíz, sabroso y carnoso.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_74F]
-[f 0 5 65278][f 2 1]Una guía para preparar una encantadora comida ligera. [f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para preparar una encantadora comida ligera. [f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_750]
-[f 0 5 65278][f 2 1]Una guía para preparar una comida ligera exótica.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para preparar una comida ligera exótica.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_751]
-[f 0 5 65278][f 2 1]Una guía para una comida ligera del Rey Gourmet.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para una comida ligera del Rey Gourmet.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_752]
-[f 0 5 65278][f 2 1]Una guía para la mezcla 'muscle' en un bar de bebidas.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para la mezcla 'muscle' en un bar de bebidas.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_753]
 [f 0 5 65278][f 2 1]Fragmento de una sombra con forma de pez.[n]Tirado por: Calm Pesce [f 0 1 2](P2-Z1)[f 0 1 0][n][e]
@@ -692,7 +692,7 @@
 [f 0 5 65278][f 2 1]Cabello de los valientes. Se eriza.[n]Obtenido en: [f 6 1 40 0 0 0][n][e]
 
 [msg material_7E7]
-[f 0 5 65278][f 2 1]Un libro blanco impoluto que registra todas las posibilidades. Obtenido en: Distrito del Cine[n][e]
+[f 0 5 65278][f 2 1]Un libro blanco impoluto que registra todas las Prob.es. Obtenido en: Distrito del Cine[n][e]
 
 [msg material_7E8]
 [f 0 5 65278][f 2 1]Un guion gráfico. Da vida a todo lo que se escribe en él. Obtenido en: Distrito del Cine[n][e]
@@ -716,94 +716,94 @@
 [f 0 5 65278][f 2 1]Una guía para la tecnología más allá de la ciencia moderna. Tirado por: Overseer[n][e]
 
 [msg material_7EF]
-[f 0 5 65278][f 2 1]Una guía para encontrar la entrada de un laberinto.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para encontrar la entrada de un laberinto.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F0]
-[f 0 5 65278][f 2 1]Una guía para el volumen de bebida con menor pérdida de sabor. [f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para el volumen de bebida con menor pérdida de sabor. [f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F1]
-[f 0 5 65278][f 2 1]Una guía para una bebida vertida sobre la cabeza.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para una bebida vertida sobre la cabeza.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F2]
-[f 0 5 65278][f 2 1]Una guía para una bebida milagrosa para la salud.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para una bebida milagrosa para la salud.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F3]
-[f 0 5 65278][f 2 1]Receta para un medicamento que cura la atadura.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Receta para un medicamento que cura la atadura.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F4]
-[f 0 5 65278][f 2 1]Receta para pastillas que transmiten la voluntad de un salvador. [f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Receta para pastillas que transmiten la voluntad de un salvador. [f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F5]
-[f 0 5 65278][f 2 1]Guía para cocinar un fénix vivo.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guía para cocinar un fénix vivo.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F6]
-[f 0 5 65278][f 2 1]Texto detallando uno de los diez tesoros sagrados.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Texto detallando uno de los diez tesoros sagrados.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F7]
-[f 0 5 65278][f 2 1]Una guía para llamar de vuelta a un alma cortada.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para llamar de vuelta a un alma cortada.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F8]
-[f 0 5 65278][f 2 1]Una guía para resistir temperaturas extremas.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para resistir temperaturas extremas.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7F9]
-[f 0 5 65278][f 2 1]Una guía para oponerse a las fuerzas de la naturaleza.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para oponerse a las fuerzas de la naturaleza.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7FA]
-[f 0 5 65278][f 2 1]Una guía sobre poderes científicamente no probados.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía sobre poderes científicamente no probados.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7FB]
-[f 0 5 65278][f 2 1]Una guía para repurificar un poder místico.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para repurificar un poder místico.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7FC]
-[f 0 5 65278][f 2 1]Una guía sobre herramientas al estilo de un ladrón fantasma.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía sobre herramientas al estilo de un ladrón fantasma.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7FD]
-[f 0 5 65278][f 2 1]Una guía sobre el equilibrio entre la luz y la oscuridad.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía sobre el equilibrio entre la luz y la oscuridad.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7FE]
-[f 0 5 65278][f 2 1]Una guía para adquirir protección divina.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para adquirir protección divina.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_7FF]
-[f 0 5 65278][f 2 1]Una guía para una herramienta práctica para escapar.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para una herramienta práctica para escapar.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_800]
-[f 0 5 65278][f 2 1]Guía que supera la ciencia moderna.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guía que supera la ciencia moderna.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_801]
-[f 0 5 65278][f 2 1]Una partitura musical que altera las sombras.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una partitura musical que altera las sombras.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_802]
-[f 0 5 65278][f 2 1]Una partitura musical extensa que altera las sombras.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una partitura musical extensa que altera las sombras.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_803]
-[f 0 5 65278][f 2 1]Una guía para una herramienta que manipula laberintos.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para una herramienta que manipula laberintos.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_804]
-[f 0 5 65278][f 2 1]Una guía para un caramelo que revitaliza el alma.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para un caramelo que revitaliza el alma.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_805]
-[f 0 5 65278][f 2 1]Una guía para un postre que enriquece el alma.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para un postre que enriquece el alma.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_806]
-[f 0 5 65278][f 2 1]Una guía para una poción que nutre el alma.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para una poción que nutre el alma.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_807]
-[f 0 5 65278][f 2 1]Guía para infundir balas con poder elemental. [f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guía para infundir balas con poder elemental. [f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_808]
-[f 0 5 65278][f 2 1]Receta para una golosina popular en el mundo de los sueños. [f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Receta para una golosina popular en el mundo de los Sueños. [f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_809]
 [f 0 5 65278][f 2 1]Solo alguien con un corazón de adulto puede leer este libro. Tirado por: Baleful King [f 0 1 2](P5-Z4)[f 0 1 0][n][e]
 
 [msg material_80A]
-[f 0 5 65278][f 2 1]Una guía para el atuendo de un actor natural.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para el atuendo de un actor natural.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_80B]
-[f 0 5 65278][f 2 1]Una guía para un atuendo fascinante.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para un atuendo fascinante.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_80C]
-[f 0 5 65278][f 2 1]Una guía para un atuendo extrañamente reconfortante.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una guía para un atuendo extrañamente reconfortante.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_80D]
 [f 0 5 65278][f 2 1]素材　0x80D　１行目[n]素材　0x80D　２行目[n][e]
@@ -815,7 +815,7 @@
 [f 0 5 65278][f 2 1]素材　0x80F　１行目[n]素材　0x80F　２行目[n][e]
 
 [msg material_810]
-[f 0 5 65278][f 2 1]Un medio que registra todas las posibilidades.[n][f 0 1 3]Añade nuevos objetos cuando se vende.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un Medio que registra todas las Prob.es.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]
 
 [msg material_811]
 [f 0 5 65278][f 2 1]素材　0x811　１行目[n]素材　0x811　２行目[n][e]
