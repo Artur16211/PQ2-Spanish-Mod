@@ -1106,7 +1106,7 @@
 [f 0 5 65278][f 2 1](Nav.: Dungeon) Muestra una amplia gama de[n]FOEs/cofres/pasajes ocultos en el mapa. (Auto)[n][e]
 
 [msg skill_171]
-[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Elimina todos los estados alterados[n]y Ataduras.[f 0 1 0] [n][n][e]
+[f 0 5 65278][f 2 1](Nav.: Batalla) [f 0 1 4] Elimina todos los estados alterados[n]y Ataduras.[f 0 1 0] [n][e]
 
 [msg skill_172]
 [f 0 5 65278][f 2 1](Nav.: Dungeon) [f 0 1 4] Aumenta la cantidad de objetos[n]encontrados en los puntos del tesoro.[f 0 1 0] (Auto)[n][e]

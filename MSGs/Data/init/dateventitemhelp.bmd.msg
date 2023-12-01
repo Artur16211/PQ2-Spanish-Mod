@@ -170,16 +170,16 @@
 [f 0 5 65278][f 2 1]Folleto de la película[n][e]
 
 [msg eventitem_639]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Aumenta el poder del comodín[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Aumenta el poder del comodín[f 0 1 0][n][e]
 
 [msg eventitem_63A]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Consigue un 150% de Exp. con los bonos de finalización[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Consigue un 150% de Exp. con los bonos de finalización[f 0 1 0][n][e]
 
 [msg eventitem_63B]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Lleva el boost a la siguiente batalla con los bonos de finalización[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Lleva el boost a la siguiente batalla con los bonos de finalización[f 0 1 0][n][e]
 
 [msg eventitem_63C]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Consigue un 200% de Exp. con bonos de finalización[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Consigue un 200% de Exp. con bonos de finalización[f 0 1 0][n][e]
 
 [msg eventitem_63D]
 [f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
@@ -197,7 +197,7 @@
 [f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
 
 [msg eventitem_642]
-[f 0 5 65278][f 2 1]El mismo proyector que el de la Habitación Terciopelo.[n][f 0 1 3]Realiza 3 fusiones de personas.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]El mismo proyector que el de la Habitación Terciopelo.[n][f 0 1 3]Realiza 3 fusiones de personas.[f 0 1 0][n][e]
 
 [msg eventitem_643]
 [f 0 5 65278][f 2 1]貴重品ID_0x643[n][e]
@@ -212,73 +212,73 @@
 [f 0 5 65278][f 2 1]Tarjeta en la que se puede almacenar el poder de[n]una Persona. Tienes: [f 0 1 3][f 6 1 33 0 0][n][f 0 1 0][n][e]
 
 [msg eventitem_647]
-[f 0 5 65278][f 2 1]Lo que cualquier rey elegante usar胤a en el[n]infierno. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3][n]la fusi吋n especial[f 0 1 0] para [f 0 1 3][n]Gemori[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Lo que cualquier rey elegante usar胤a en el[n]infierno. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Gemori[f 0 1 0][n][e]
 
 [msg eventitem_648]
 [f 0 5 65278][f 2 1]Almacenamiento para órganos necesarios en la vida[n]después de la muerte. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Ammut[f 0 1 0][n][e]
 
 [msg eventitem_649]
-[f 0 5 65278][f 2 1]Junco que una vez salvó la vida de un conejo. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Hare of Inaba[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Junco que una vez salvó la vida de un conejo. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Hare of Inaba[f 0 1 0][n][e]
 
 [msg eventitem_64A]
-[f 0 5 65278][f 2 1]Una planta extra隠a que a雨n da frutos ricos.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3] la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Mayahuel[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una planta extra隠a que a雨n da frutos ricos.[n][f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Mayahuel[f 0 1 0][n][e]
 
 [msg eventitem_64B]
-[f 0 5 65278][f 2 1]Agua de lago hogar de un guardián hada. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Vivian[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Agua de lago hogar de un guardián hada. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Vivian[f 0 1 0][n][e]
 
 [msg eventitem_64C]
-[f 0 5 65278][f 2 1]Reina rana que también ha liderado a los humanos.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Dzelarhons[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Reina rana que también ha liderado a los humanos.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Dzelarhons[f 0 1 0][n][e]
 
 [msg eventitem_64D]
-[f 0 5 65278][f 2 1]Cuerda tejida por una hada oscura. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Fenrir[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Cuerda tejida por una hada oscura. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Fenrir[f 0 1 0][n][e]
 
 [msg eventitem_64E]
-[f 0 5 65278][f 2 1]Disco soleado propiedad de la diosa del[n]amor.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Hathor[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Disco soleado propiedad de la diosa del[n]amor.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Hathor[f 0 1 0][n][e]
 
 [msg eventitem_64F]
-[f 0 5 65278][f 2 1]Reliquia con el poder de gobernar el mundo.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Longinus[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Reliquia con el poder de gobernar el mundo.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Longinus[f 0 1 0][n][e]
 
 [msg eventitem_650]
-[f 0 5 65278][f 2 1]Crucifijo de una niña que tuvo una visión divina. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3][n]la fusi吋n especial[f 0 1 0] para [f 0 1 3][n]Jeanne d'Arc[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Crucifijo de una niña que tuvo una visión divina. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Jeanne d'Arc[f 0 1 0][n][e]
 
 [msg eventitem_651]
-[f 0 5 65278][f 2 1]Diente de una serpiente con alas de[n]murciélago. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3][n]la fusi吋n especial[f 0 1 0] para [f 0 1 3][n]Vouivre[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Diente de una serpiente con alas de[n]murciélago. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Vouivre[f 0 1 0][n][e]
 
 [msg eventitem_652]
 [f 0 5 65278][f 2 1]Ropa de un vampiro que causó[n]estragos. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Kudlak[f 0 1 0][n][e]
 
 [msg eventitem_653]
-[f 0 5 65278][f 2 1]Ropa de un vampiro que fue bendecido.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Kresnik[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Ropa de un vampiro que fue bendecido.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Kresnik[f 0 1 0][n][e]
 
 [msg eventitem_654]
-[f 0 5 65278][f 2 1]Una de las seis alas de un ángel majestuoso.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Seraph[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una de las seis alas de un ángel majestuoso.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Seraph[f 0 1 0][n][e]
 
 [msg eventitem_655]
-[f 0 5 65278][f 2 1]Corona de un emperador legendario. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Huang Di[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Corona de un emperador legendario. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Huang Di[f 0 1 0][n][e]
 
 [msg eventitem_656]
-[f 0 5 65278][f 2 1]Reliquia de una hada que anhelaba poder.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Black Frost[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Reliquia de una hada que anhelaba poder.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Black Frost[f 0 1 0][n][e]
 
 [msg eventitem_657]
-[f 0 5 65278][f 2 1]Conejo de peluche del país de las maravillas.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3][n]la fusi吋n especial[f 0 1 0] para [f 0 1 3][n]Alice[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Conejo de peluche del país de las maravillas.[n][f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Alice[f 0 1 0][n][e]
 
 [msg eventitem_658]
-[f 0 5 65278][f 2 1]Libro con los nombres de los 7 arcángeles. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Michael[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Libro con los nombres de los 7 arcángeles. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Michael[f 0 1 0][n][e]
 
 [msg eventitem_659]
-[f 0 5 65278][f 2 1]Madera grabada con los destinos de todos. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Norn[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Madera grabada con los destinos de todos. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Norn[f 0 1 0][n][e]
 
 [msg eventitem_65A]
-[f 0 5 65278][f 2 1]El escudo del caballero visto en el fin del mundo.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Pale Rider[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]El escudo del caballero visto en el fin del mundo.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Pale Rider[f 0 1 0][n][e]
 
 [msg eventitem_65B]
-[f 0 5 65278][f 2 1]Mandala con un bosquejo de un dios destructor.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3] la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Shiva[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Mandala con un bosquejo de un dios destructor.[n][f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Shiva[f 0 1 0][n][e]
 
 [msg eventitem_65C]
-[f 0 5 65278][f 2 1]Símbolo de uno de los 7 pecados, la gula. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Beelzebub[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Símbolo de uno de los 7 pecados, la gula. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Beelzebub[f 0 1 0][n][e]
 
 [msg eventitem_65D]
-[f 0 5 65278][f 2 1]Llave de la puerta del Infierno, donde vive el diablo. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3][n]la fusi吋n especial[f 0 1 0] para [f 0 1 3][n]Lucifer[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Llave de la puerta del Infierno, donde vive el diablo. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Lucifer[f 0 1 0][n][e]
 
 [msg eventitem_65E]
 [f 0 5 65278][f 2 1]貴重品ID_0x65E[n][e]

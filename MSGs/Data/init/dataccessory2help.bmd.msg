@@ -2,16 +2,16 @@
 [f 0 5 65278][f 2 1]アクセサリー２　0xA00　１行目[n]アクセサリー２　0xA00　２行目[n][e]
 
 [msg accessory_A01]
-[f 0 5 65278][f 2 1]Tobillo que te da poder, como el opuesto de[n]un tal吋n de Aquiles. [f 0 1 3]Fr +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Tobillo que te da poder, como el opuesto de[n]un tal吋n de Aquiles. [f 0 1 3]Fr +1[f 0 1 0][n][e]
 
 [msg accessory_A02]
 [f 0 5 65278][f 2 1]Amuleto de un pa胤s ex吋tico, con poder ex吋tico.[n][f 0 1 3]Ma +1[f 0 1 0][n][e]
 
 [msg accessory_A03]
-[f 0 5 65278][f 2 1]Cinturón que permite tanto a ti como a tus pantalones resistir. [f 0 1 3]Rs +1[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Cinturón que permite tanto a ti como a tus pantalones resistir. [f 0 1 3]Rs +1[f 0 1 0][n][e]
 
 [msg accessory_A04]
-[f 0 5 65278][f 2 1]Calcetines que permiten que sus pies tomen[n]mayores (y m茨s calientes) pasos. [f 0 1 3][n]Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Calcetines que permiten que sus pies tomen[n]mayores (y m茨s calientes) pasos.[n][f 0 1 3]Ag +1[f 0 1 0][n][e]
 
 [msg accessory_A05]
 [f 0 5 65278][f 2 1]Accesorio hecho de letras grandes que deletrean[n]SUERTE. [f 0 1 3]Su +1[f 0 1 0][n][e]
@@ -23,259 +23,259 @@
 [f 0 5 65278][f 2 1]Bolsa perfumada llena de aromas relajantes.[n][f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
 
 [msg accessory_A08]
-[f 0 5 65278][f 2 1]Un reloj que suena en el momento exacto en[n]que se apaga. [f 0 1 3]Resiste Sueño[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Un reloj que suena en el momento exacto en[n]que se apaga. [f 0 1 3]Resiste Sueño[f 0 1 0][n][e]
 
 [msg accessory_A09]
-[f 0 5 65278][f 2 1]Sombrero hecho de fieltro. Mantiene tu mente segura y sana. [f 0 1 3]Resiste Confusión[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Sombrero hecho de fieltro. Mantiene tu mente segura y sana. [f 0 1 3]Resiste Confusión[f 0 1 0][n][e]
 
 [msg accessory_A0A]
-[f 0 5 65278][f 2 1]Insignia llena del poder de la naturaleza. [f 0 1 3][n]Máx. PS y PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Insignia llena del poder de la naturaleza.[n][f 0 1 3]Máx. PS y PE +5%[f 0 1 0][n][e]
 
 [msg accessory_A0B]
-[f 0 5 65278][f 2 1]Gafas con mira telescópica. [f 0 1 3]Aumenta la Precisión[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gafas con mira telescópica. [f 0 1 3]Aumenta la Precisión[f 0 1 0][n][e]
 
 [msg accessory_A0C]
-[f 0 5 65278][f 2 1]Sombrero que protege tanto el cráneo como la mente. [f 0 1 3]Resiste Atadura Mágica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Sombrero que protege tanto el cráneo como la mente. [f 0 1 3]Resiste Atadura Mágica[f 0 1 0][n][e]
 
 [msg accessory_A0D]
-[f 0 5 65278][f 2 1]¡Guantelete que no ser茨 derribado! [f 0 1 3]Resiste Atadura de Fuerza.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]¡Guantelete que no ser茨 derribado! [f 0 1 3]Resiste Atadura de Fuerza.[f 0 1 0][n][e]
 
 [msg accessory_A0E]
-[f 0 5 65278][f 2 1]Calcetines que hacen m茨s que mantener tus[n]pies calientes. [f 0 1 3]Resiste Atadura de Agilidad.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Calcetines que hacen m茨s que mantener tus[n]pies calientes. [f 0 1 3]Resiste Atadura de Agilidad.[f 0 1 0][n][e]
 
 [msg accessory_A0F]
-[f 0 5 65278][f 2 1]M茨scara que te impide respirar veneno. [f 0 1 3][n]Resiste Veneno[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]M茨scara que te impide respirar veneno.[n][f 0 1 3]Resiste Veneno[f 0 1 0][n][e]
 
 [msg accessory_A10]
-[f 0 5 65278][f 2 1]¡Faja de yoga que te vuelve tan flexible que no puedes quedar paralizado! [f 0 1 3]Resiste Par茨lisis[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]¡Faja de yoga que te vuelve tan flexible que no puedes quedar paralizado! [f 0 1 3]Resiste Par茨lisis[f 0 1 0][n][e]
 
 [msg accessory_A11]
-[f 0 5 65278][f 2 1]Gafas que impiden que otros miren tus ojos. [f 0 1 3]Resiste Petrificaci吋n[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gafas que impiden que otros miren tus ojos. [f 0 1 3]Resiste Petrificaci吋n[f 0 1 0][n][e]
 
 [msg accessory_A12]
-[f 0 5 65278][f 2 1]Libro de consejos para sobrevivir en las condiciones más adversas. [f 0 1 3]Resiste Muerte Instantánea[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Libro de consejos para sobrevivir en las condiciones más adversas. [f 0 1 3]Resiste Muerte Instantánea[f 0 1 0][n][e]
 
 [msg accessory_A13]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA13　１行目[n]アクセサリー２　0xA13　２行目[n][e]
 
 [msg accessory_A14]
-[f 0 5 65278][f 2 1]Concede el uso de Strike Guard.[n][f 0 1 3]Aumenta la defensa de 1 fila de aliados[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Concede el uso de Strike Guard.[n][f 0 1 3]Aumenta la defensa de 1 fila de aliados[f 0 1 0][n][e]
 
 [msg accessory_A15]
-[f 0 5 65278][f 2 1]Concede el uso de Grito de Guerra. [f 0 1 3]Aumenta el ataque y disminuye la defensa[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Concede el uso de Grito de Guerra. [f 0 1 3]Aumenta el ataque y disminuye la defensa[f 0 1 0][n][e]
 
 [msg accessory_A16]
-[f 0 5 65278][f 2 1]Concede el uso de Line Heal. [f 0 1 3]Restaura PS de de 1 fila de aliados[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Concede el uso de Line Heal. [f 0 1 3]Restaura PS de de 1 fila de aliados[f 0 1 0][n][e]
 
 [msg accessory_A17]
-[f 0 5 65278][f 2 1]Concedes el uso de Warrior Song. [f 0 1 3]Aumenta el ataque de 1 fila de aliados[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Concedes el uso de Warrior Song. [f 0 1 3]Aumenta el ataque de 1 fila de aliados[f 0 1 0][n][e]
 
 [msg accessory_A18]
-[f 0 5 65278][f 2 1]Concedes el uso de Beheading Cut. [f 0 1 3]Daña a un FOE con una baja probabilidad de Muerte Instantánea[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Concedes el uso de Beheading Cut. [f 0 1 3]Daña a un FOE con una baja probabilidad de Muerte Instantánea[f 0 1 0][n][n][e]
 
 [msg accessory_A19]
-[f 0 5 65278][f 2 1]Concedes el uso de Repulse Mist. [f 0 1 3]Probabilidad media de anular estados alterados/Ataduras de 1 fila de aliados[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Concedes el uso de Repulse Mist. [f 0 1 3]Probabilidad media de anular estados alterados/Ataduras de 1 fila de aliados[f 0 1 0][n][n][e]
 
 [msg accessory_A1A]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA1A　１行目[n]アクセサリー２　0xA1A　２行目[n][e]
 
 [msg accessory_A1B]
-[f 0 5 65278][f 2 1]Una banda que une tu alma a la de otros. [f 0 1 3][n]Aumenta ligeramente las ganancias del Medidor del Grupo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una banda que une tu alma a la de otros.[n][f 0 1 3]Aumenta ligeramente las ganancias del Medidor del Grupo[f 0 1 0][n][e]
 
 [msg accessory_A1C]
-[f 0 5 65278][f 2 1]Una banda que une tu alma a la de otros. [f 0 1 3][n]Aumenta moderadamente las ganancias del Medidor del Grupo[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Una banda que une tu alma a la de otros.[n][f 0 1 3]Aumenta moderadamente las ganancias del Medidor del Grupo[f 0 1 0][n][e]
 
 [msg accessory_A1D]
-[f 0 5 65278][f 2 1]Una banda que te infunde coraje. [f 0 1 3]Evita Muerte Instantánea con 1 PS, pero s吋lo una vez[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Una banda que te infunde coraje. [f 0 1 3]Evita Muerte Instantánea con 1 PS, pero s吋lo una vez[f 0 1 0][n][n][e]
 
 [msg accessory_A1E]
-[f 0 5 65278][f 2 1]Un espejo que refleja la racionalidad. [f 0 1 3][n]Máx. PS +25%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la racionalidad.[n][f 0 1 3]Máx. PS +25%[f 0 1 0][n][e]
 
 [msg accessory_A1F]
-[f 0 5 65278][f 2 1]Un espejo que refleja tus creencias. [f 0 1 3][n]Máx. PE +25%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja tus creencias.[n][f 0 1 3]Máx. PE +25%[f 0 1 0][n][e]
 
 [msg accessory_A20]
-[f 0 5 65278][f 2 1]Un espejo que refleja la intuici吋n. [f 0 1 3][n]Tasa cr胤tica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la intuici吋n.[n][f 0 1 3]Tasa cr胤tica +15%[f 0 1 0][n][e]
 
 [msg accessory_A21]
-[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n. [f 0 1 3][n]Anula todos los estados alterados o ataduras[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un espejo que refleja la innovaci吋n.[n][f 0 1 3]Anula todos los estados alterados o ataduras[f 0 1 0][n][e]
 
 [msg accessory_A22]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA22　１行目[n]アクセサリー２　0xA22　２行目[n][e]
 
 [msg accessory_A23]
-[f 0 5 65278][f 2 1]Concedes el uso de Double Attack. [f 0 1 3]Probabilidad Media de que las habilidades de ataque se activen dos veces[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Concedes el uso de Double Attack. [f 0 1 3]Probabilidad Media de que las habilidades de ataque se activen dos veces[f 0 1 0][n][n][e]
 
 [msg accessory_A24]
-[f 0 5 65278][f 2 1]Condece el uso de Royal Song. [f 0 1 3]Recupera PE por cada paso en el laberinto[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Condece el uso de Royal Song. [f 0 1 3]Recupera PE por cada paso en el laberinto[f 0 1 0][n][n][e]
 
 [msg accessory_A25]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA25　１行目[n]アクセサリー２　0xA25　２行目[n][e]
 
 [msg accessory_A26]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra el fuego. [f 0 1 3][n]Máx. PS +15% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra el fuego.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A27]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra el hielo. [f 0 1 3][n]Máx. PS +15% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra el hielo.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A28]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra el viento.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra el viento.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A29]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra la electricidad.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra la electricidad.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Elec.[f 0 1 0][n][e]
 
 [msg accessory_A2A]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión de Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A2B]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Psíquicas. [f 0 1 3][n]Máx. PS +15% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +15% / Aumenta la evasión psíquica[f 0 1 0][n][e]
 
 [msg accessory_A2C]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el fuego.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el fuego.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A2D]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el hielo. [f 0 1 3][n]Máx. PE +15% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el hielo.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A2E]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el viento.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra el viento.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A2F]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra la electricidad.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra la electricidad.[n][f 0 1 3]Máx. PE +15% / Aumenta la evasión de Elec.[f 0 1 0][n][e]
 
 [msg accessory_A30]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades nucleares. [f 0 1 3]Máx. PE +15% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades nucleares. [f 0 1 3]Máx. PE +15% / Aumenta la evasión de Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A31]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PE +15% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PE +15% / Aumenta la evasión psíquica[f 0 1 0][n][e]
 
 [msg accessory_A32]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA32　１行目[n]アクセサリー２　0xA32　２行目[n][e]
 
 [msg accessory_A33]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el fuego. [f 0 1 3][n]Máx. PS +20% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el fuego.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A34]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el hielo. [f 0 1 3][n]Máx. PS +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el hielo.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A35]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el viento. [f 0 1 3][n]Máx. PS +20% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra el viento.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A36]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra la Electricidad.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra la Electricidad.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Elec.[f 0 1 0][n][e]
 
 [msg accessory_A37]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión de Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A38]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PS +20% / Aumenta la evasión psíquica[f 0 1 0][n][e]
 
 [msg accessory_A39]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra el fuego. [f 0 1 3][n]Máx. PE +20% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra el fuego.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A3A]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra el hielo. [f 0 1 3][n]Máx. PE +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra el hielo.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A3B]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra el viento. [f 0 1 3][n]Máx. PE +20% / Elevaci吋n del viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra el viento.[n][f 0 1 3]Máx. PE +20% / Elevaci吋n del viento[f 0 1 0][n][e]
 
 [msg accessory_A3C]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra la electricidad.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra la electricidad.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Elec.[f 0 1 0][n][e]
 
 [msg accessory_A3D]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión de Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A3E]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades psíquicas. [f 0 1 3][n]Máx. PE +20% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PE +20% / Aumenta la evasión psíquica[f 0 1 0][n][e]
 
 [msg accessory_A3F]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA3F　１行目[n]アクセサリー２　0xA3F　２行目[n][e]
 
 [msg accessory_A40]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el fuego. [f 0 1 3][n]Máx. PS +25% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el fuego.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A41]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el hielo. [f 0 1 3][n]Máx. PS +25% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el hielo.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A42]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el viento.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra el viento.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A43]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra la electricidad.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra la electricidad.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Elec.[f 0 1 0][n][e]
 
 [msg accessory_A44]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión de Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A45]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PS +25% / Aumenta la evasión psíquica[f 0 1 0][n][e]
 
 [msg accessory_A46]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el fuego. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Fuego[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el fuego.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Fuego[f 0 1 0][n][e]
 
 [msg accessory_A47]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el hielo. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Hielo[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el hielo.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Hielo[f 0 1 0][n][e]
 
 [msg accessory_A48]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el viento. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Viento[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el viento.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Viento[f 0 1 0][n][e]
 
 [msg accessory_A49]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra la electricidad. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión de Elec.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra la electricidad.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Elec.[f 0 1 0][n][e]
 
 [msg accessory_A4A]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Nuclear[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades nucleares.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión de Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A4B]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades psíquicas. [f 0 1 3][n]Máx. PE +25% / Aumenta la evasión psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades psíquicas.[n][f 0 1 3]Máx. PE +25% / Aumenta la evasión psíquica[f 0 1 0][n][e]
 
 [msg accessory_A4C]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA4C　１行目[n]アクセサリー２　0xA4C　２行目[n][e]
 
 [msg accessory_A4D]
-[f 0 5 65278][f 2 1]Insignia bendecida con una gran fortuna. [f 0 1 3][n]Obtener 5% m茨s dinero despu姻s de la batalla[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Insignia bendecida con una gran fortuna.[n][f 0 1 3]Obtener 5% m茨s dinero despu姻s de la batalla[f 0 1 0][n][e]
 
 [msg accessory_A4E]
-[f 0 5 65278][f 2 1]Insignia que llueve riquezas sobre ti. [f 0 1 3][n]Obtener 10% m茨s dinero despu姻s de la batalla[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Insignia que llueve riquezas sobre ti.[n][f 0 1 3]Obtener 10% m茨s dinero despu姻s de la batalla[f 0 1 0][n][e]
 
 [msg accessory_A4F]
-[f 0 5 65278][f 2 1]Insignia que trae riquezas incalculables.[n][f 0 1 3] Obtener 15% m茨s dinero despu姻s de la batalla[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Insignia que trae riquezas incalculables.[n][f 0 1 3]Obtener 15% m茨s dinero despu姻s de la batalla[f 0 1 0][n][e]
 
 [msg accessory_A50]
-[f 0 5 65278][f 2 1]Insignia que crea millonarios. [f 0 1 3] Obtener 20% m茨s dinero despu姻s de la batalla[f 0 1 0][n][n][n][e]
+[f 0 5 65278][f 2 1]Insignia que crea millonarios.[n][f 0 1 3]Obtener 20% m茨s dinero despu姻s de la batalla[f 0 1 0][n][n][e]
 
 [msg accessory_A51]
-[f 0 5 65278][f 2 1]Gafas que te hacen parecer intelectual. [f 0 1 3]EXP +5%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gafas que te hacen parecer intelectual. [f 0 1 3]EXP +5%[f 0 1 0][n][e]
 
 [msg accessory_A52]
-[f 0 5 65278][f 2 1]Gafas que te convierten en erudito. [f 0 1 3]EXP +10%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gafas que te convierten en erudito. [f 0 1 3]EXP +10%[f 0 1 0][n][e]
 
 [msg accessory_A53]
-[f 0 5 65278][f 2 1]Gafas que te convierten en un prodigio. [f 0 1 3]EXP +15%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gafas que te convierten en un prodigio. [f 0 1 3]EXP +15%[f 0 1 0][n][e]
 
 [msg accessory_A54]
-[f 0 5 65278][f 2 1]Gafas que te convierten en un sabio. [f 0 1 3]EXP +20%[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Gafas que te convierten en un sabio. [f 0 1 3]EXP +20%[f 0 1 0][n][e]
 
 [msg accessory_A55]
-[f 0 5 65278][f 2 1]Estatua que protege contra maldiciones. [f 0 1 3]Anula la Maldición[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra maldiciones. [f 0 1 3]Anula la Maldición[f 0 1 0][n][e]
 
 [msg accessory_A56]
-[f 0 5 65278][f 2 1]Estatua que protege contra el veneno. [f 0 1 3][n]Anula el Veneno[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra el veneno.[n][f 0 1 3]Anula el Veneno[f 0 1 0][n][e]
 
 [msg accessory_A57]
-[f 0 5 65278][f 2 1]Estatua que protege contra el sue隠o. [f 0 1 3][n]Anula el sue隠o[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra el sue隠o.[n][f 0 1 3]Anula el sue隠o[f 0 1 0][n][e]
 
 [msg accessory_A58]
-[f 0 5 65278][f 2 1]Estatua que protege contra la confusi吋n. [f 0 1 3][n]Anula la Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra la confusi吋n.[n][f 0 1 3]Anula la Confusión[f 0 1 0][n][e]
 
 [msg accessory_A59]
-[f 0 5 65278][f 2 1]Estatua que protege contra la par茨lisis. [f 0 1 3][n]Anula la Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Estatua que protege contra la par茨lisis.[n][f 0 1 3]Anula la Parálisis[f 0 1 0][n][e]
 
 [msg accessory_A5A]
-[f 0 5 65278][f 2 1]Generador de escudo que protege la cabeza. [f 0 1 3][n]Anula la Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Generador de escudo que protege la cabeza.[n][f 0 1 3]Anula la Atadura Mágica[f 0 1 0][n][e]
 
 [msg accessory_A5B]
-[f 0 5 65278][f 2 1]Generador de escudo que protege los brazos. [f 0 1 3][n]Anula la Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Generador de escudo que protege los brazos.[n][f 0 1 3]Anula la Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg accessory_A5C]
-[f 0 5 65278][f 2 1]Generador de escudo que protege las piernas. [f 0 1 3][n]Anula la Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Generador de escudo que protege las piernas.[n][f 0 1 3]Anula la Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg accessory_A5D]
 [f 0 5 65278][f 2 1]Calabaza que absorbe el fuego para producir néctar.[n][f 0 1 3]Absorbe los ataques de fuego[f 0 1 0][n][e]
@@ -287,40 +287,40 @@
 [f 0 5 65278][f 2 1]Calabaza que absorbe el viento para producir néctar. [f 0 1 3]Absorbe los ataques de viento[f 0 1 0][n][e]
 
 [msg accessory_A60]
-[f 0 5 65278][f 2 1]Calabaza que absorbe la elec. para producir néctar. [f 0 1 3]Absorbe los ataques eléctricos[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Calabaza que absorbe la elec. para producir néctar. [f 0 1 3]Absorbe los ataques eléctricos[f 0 1 0][n][e]
 
 [msg accessory_A61]
-[f 0 5 65278][f 2 1]Calabaza que absorbe la energía nuclear para producir néctar. [f 0 1 3]Absorbe los ataques nucleares[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Calabaza que absorbe la energía nuclear para producir néctar. [f 0 1 3]Absorbe los ataques nucleares[f 0 1 0][n][e]
 
 [msg accessory_A62]
-[f 0 5 65278][f 2 1]Calabaza que absorbe la energía psíquica para producir néctar. [f 0 1 3]Absorbe los ataques psíquicos[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Calabaza que absorbe la energía psíquica para producir néctar. [f 0 1 3]Absorbe los ataques psíquicos[f 0 1 0][n][e]
 
 [msg accessory_A63]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA63　１行目[n]アクセサリー２　0xA63　２行目[n][e]
 
 [msg accessory_A64]
-[f 0 5 65278][f 2 1]Tasuki para atar tus mangas y potenciar los músculos del brazo descubierto. [f 0 1 3]Fr +3[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Tasuki para atar tus mangas y potenciar los músculos del brazo descubierto. [f 0 1 3]Fr +3[f 0 1 0][n][e]
 
 [msg accessory_A65]
-[f 0 5 65278][f 2 1]Talismán que alguna vez fue Graf, antes de transfigurarse en este objeto. [f 0 1 3]Ma +3[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Talismán que alguna vez fue Graf, antes de transfigurarse en este objeto. [f 0 1 3]Ma +3[f 0 1 0][n][e]
 
 [msg accessory_A66]
-[f 0 5 65278][f 2 1]Amuleto que transmite ideas defensivas de combate directamente a tu mente. [f 0 1 3][n]Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto que transmite ideas defensivas de combate directamente a tu mente.[n][f 0 1 3]Rs +3[f 0 1 0][n][e]
 
 [msg accessory_A67]
-[f 0 5 65278][f 2 1]Ornamento de plumas arrancadas de un ave que vuela más rápido que el sonido. [f 0 1 3][n]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ornamento de plumas arrancadas de un ave que vuela más rápido que el sonido.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
 
 [msg accessory_A68]
-[f 0 5 65278][f 2 1]Cuchara que otorga la suerte suprema, la suerte de encontrar comida para usarla con ella. [f 0 1 3][n]Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Cuchara que otorga la suerte suprema, la suerte de encontrar comida para usarla con ella.[n][f 0 1 3]Su +3[f 0 1 0][n][e]
 
 [msg accessory_A69]
-[f 0 5 65278][f 2 1]Mirilla que se fija en objetivos y nunca aparta la mirada. [f 0 1 3]Aumenta considerablemente la precisión[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Mirilla que se fija en objetivos y nunca aparta la mirada. [f 0 1 3]Aumenta considerablemente la precisión[f 0 1 0][n][e]
 
 [msg accessory_A6A]
-[f 0 5 65278][f 2 1]Objeto de apariencia desconocida, ¡porque es invisible! [f 0 1 3]Probabilidad media de resistir Ataduras[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Objeto de apariencia desconocida, ¡porque es invisible! [f 0 1 3]Probabilidad media de resistir Ataduras[f 0 1 0][n][e]
 
 [msg accessory_A6B]
-[f 0 5 65278][f 2 1]Insignia imbuida con poder del espacio exterior. [f 0 1 3][n]Máx. PS y PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Insignia imbuida con poder del espacio exterior.[n][f 0 1 3]Máx. PS y PE +10%[f 0 1 0][n][e]
 
 [msg accessory_A6C]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA6C　１行目[n]アクセサリー２　0xA6C　２行目[n][e]

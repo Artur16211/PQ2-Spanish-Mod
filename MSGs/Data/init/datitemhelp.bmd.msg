@@ -2,13 +2,13 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg item_501]
-[f 0 5 65278][f 2 1]消耗品　0x501　１行目 効果：[f 0 1 4]味方１人のＨＰ６０回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x501　１行目 効果：[f 0 1 4]味方１人のＨＰ６０回復[f 0 1 0][n][e]
 
 [msg item_502]
-[f 0 5 65278][f 2 1]消耗品　0x502　１行目 効果：[f 0 1 4]味方１人のＨＰ１００回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x502　１行目 効果：[f 0 1 4]味方１人のＨＰ１００回復[f 0 1 0][n][e]
 
 [msg item_503]
-[f 0 5 65278][f 2 1]消耗品　0x503　１行目 効果：[f 0 1 4]味方１人のＨＰ２００回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x503　１行目 効果：[f 0 1 4]味方１人のＨＰ２００回復[f 0 1 0][n][e]
 
 [msg item_504]
 [f 0 5 65278][f 2 1]Una perla misteriosa que emite una luz curativa. [f 0 1 4]Restaura todos los PS[f 0 1 0][n]. (1 Aliado)[n][e]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1]El "elixir de los dioses" cristalizado. [f 0 1 4][n]Restaura 200 PS y 50 PE[f 0 1 0]. (1[n]Aliado)[n][e]
 
 [msg item_50B]
-[f 0 5 65278][f 2 1]消耗品　0x50B　１行目 効果：[f 0 1 4]味方１人のＨＰ＆ＳＰ全回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x50B　１行目 効果：[f 0 1 4]味方１人のＨＰ＆ＳＰ全回復[f 0 1 0][n][e]
 
 [msg item_50C]
 [f 0 5 65278][f 2 1]Una perla que puede recordar un alma caída.[n][f 0 1 4]Revive y Restaura la mitad PS[f 0 1 0][n]. (1 Aliado)[n][e]
@@ -41,16 +41,16 @@
 [f 0 5 65278][f 2 1]Incienso que puede evocar el alma de alguien caído.[n][f 0 1 4]Revive y Restaura todos los PS[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_50E]
-[f 0 5 65278][f 2 1]消耗品　0x50E　１行目 効果：[f 0 1 4]味方１列のＨＰ１５０回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x50E　１行目 効果：[f 0 1 4]味方１列のＨＰ１５０回復[f 0 1 0][n][e]
 
 [msg item_50F]
-[f 0 5 65278][f 2 1]消耗品　0x50F　１行目 効果：[f 0 1 4]味方１列のＨＰを３００回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x50F　１行目 効果：[f 0 1 4]味方１列のＨＰを３００回復[f 0 1 0][n][e]
 
 [msg item_510]
 [f 0 5 65278][f 2 1]Medicina para desbloquear la fuerza de alguien. [f 0 1 4]Elimina Ataduras[f 0 1 0][n]. (1 Aliado)[n][e]
 
 [msg item_511]
-[f 0 5 65278][f 2 1]消耗品　0x511　１行目 効果：[f 0 1 4]味方１人の状態異常を回復[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x511　１行目 効果：[f 0 1 4]味方１人の状態異常を回復[f 0 1 0][n][e]
 
 [msg item_512]
 [f 0 5 65278][f 2 1]Agua de manantial consagrada en un ritual sagrado. [f 0 1 4]Elimina Aumentos[f 0 1 0].[n](Todos los enemigos)[n][e]
@@ -146,10 +146,10 @@
 [f 0 5 65278][f 2 1]消耗品　0x530　１行目 消耗品　0x530　２行目[n][e]
 
 [msg item_531]
-[f 0 5 65278][f 2 1]消耗品　0x531　１行目 効果：[f 0 1 4]使用ターン時の敵のドロップ率アップ[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]消耗品　0x531　１行目 効果：[f 0 1 4]使用ターン時の敵のドロップ率アップ[f 0 1 0][n][e]
 
 [msg item_532]
-[f 0 5 65278][f 2 1]Esta efigie se asemeja extrañamente a su portador. [f 0 1 4]Protege al usuario de 1 muerte instant茨nea por Bendici吋n/Maldici吋n[f 0 1 0][n][n].[n][e]
+[f 0 5 65278][f 2 1]Esta efigie se asemeja extrañamente a su portador. [f 0 1 4]Protege al usuario de 1 muerte instant茨nea por Bendici吋n/Maldici吋n[f 0 1 0][n].[n][e]
 
 [msg item_533]
 [f 0 5 65278][f 2 1]Tocar esta flauta repele las sombras. [f 0 1 4][n]Reduce el 胤ndice de encuentro[f 0 1 0][n].[n][e]
@@ -182,7 +182,7 @@
 [f 0 5 65278][f 2 1]Un misterioso Goba-K que no desaparece después de usarlo. [f 0 1 4] Volver a la entrada del piso[f 0 1 0][n].[n][e]
 
 [msg item_53D]
-[f 0 5 65278][f 2 1]Al tocar este cuerno, se atraen a las sombras. [f 0 1 4]Aumenta considerablemente la tasa de encuentros[f 0 1 0][n][n].[n][e]
+[f 0 5 65278][f 2 1]Al tocar este cuerno, se atraen a las sombras. [f 0 1 4]Aumenta considerablemente la tasa de encuentros[f 0 1 0][n].[n][e]
 
 [msg item_53E]
 [f 0 5 65278][f 2 1]Al tocar este cuerno, se alejan las sombras. [f 0 1 4][n]Elimina encuentros aleatorios[f 0 1 0].[n][e]
