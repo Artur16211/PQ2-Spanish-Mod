@@ -152,10 +152,10 @@
 [f 0 5 65278][f 2 1]Esta efigie se asemeja extrañamente a su portador. [f 0 1 4]Protege de 1 Muerte Inst. por Bendici吋n/Maldici吋n[f 0 1 0].[n][e]
 
 [msg item_533]
-[f 0 5 65278][f 2 1]Tocar esta flauta repele las sombras.[n][f 0 1 4]Reduce el 胤ndice de encuentro[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Tocar esta flauta repele las sombras.[n][f 0 1 4]Reduce la prob. de encuentro[f 0 1 0].[n][e]
 
 [msg item_534]
-[f 0 5 65278][f 2 1]Tocar esta flauta atrae a las sombras. [f 0 1 4]Aumentar la tasa de encuentros[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]Tocar esta flauta atrae a las sombras. [f 0 1 4]Aumentar la prob. de encuentros[f 0 1 0].[n][e]
 
 [msg item_535]
 [f 0 5 65278][f 2 1]Teletransporta instantáneamente al usuario a un lugar seguro. [f 0 1 4]Escapa del laberinto actual[f 0 1 0].[n][e]

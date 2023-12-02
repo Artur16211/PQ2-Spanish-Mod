@@ -791,7 +791,7 @@
 [f 0 5 65278][f 2 1]Una vez que mis brazos sean aprobados, voy[n]a comenzar las pruebas.[n][f 1 2 100][e]
 
 [msg town_bg09_ZABES_mes01]
-[f 0 5 65278][f 2 1]Mi. Koromaru ha descubierto qui姻n le estaba[n]robando sus bocadillos...[n][f 1 2 175][e]
+[f 0 5 65278][f 2 1]Oh, Koromaru ha descubierto qui姻n le estaba[n]robando sus bocadillos...[n][f 1 2 175][e]
 
 [msg town_bg09_MONA_mes01]
 [f 0 5 65278][f 2 1]夷Podr胤an bajar la voz? No puedo relajarme.[n][f 1 2 100][e]

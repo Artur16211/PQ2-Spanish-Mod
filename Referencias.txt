@@ -41,6 +41,7 @@ Wanted -> Necesario
 Ranged -> Distancia
 Splash Damage -> Daño por Salpicadura
 Self -> Propio
+     -> Medidor de Grupo
 ## Historia:
 the curator -> la conservadora
 concession stand -> puesto de comida

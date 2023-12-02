@@ -1625,7 +1625,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] al atacar a un objetivo con un estado alterado. (Auto)[n][e]
 
 [msg skill_21E]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de da隠o[f 0 1 0]  al atacar a un objetivo con un estado alterado. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de da隠o[f 0 1 0] al atacar a un objetivo con un estado alterado. (Auto)[n][e]
 
 [msg skill_21F]
 [f 0 5 65278][f 2 1]Aumenta la prob. de [f 0 1 2]infligir[n]estados alterados[f 0 1 0] (Auto)[n][e]
