@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1]Un látigo hecho con la piel de un zorro de nueve colas. [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
 
 [msg weapon_052]
-[f 0 5 65278][f 2 1]Un látigo con púas que desafía la imProb..[n][f 0 1 3]Distancia/Prob. Baja de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo con púas que desafía las posibilidades.[n][f 0 1 3]Distancia/Prob. Baja de cualquier Atadura[f 0 1 0][n][e]
 
 [msg weapon_053]
 [f 0 5 65278][f 2 1]Un látigo sostenido por la reina de la noche.[n][f 0 1 3]Distancia/Prob. Alta de Sueño[f 0 1 0][n][e]

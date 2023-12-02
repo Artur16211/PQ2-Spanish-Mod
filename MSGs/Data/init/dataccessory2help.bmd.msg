@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1]Concedes el uso de Warrior Song. [f 0 1 3]Aumenta el ataque de 1 fila de aliados[f 0 1 0][n][e]
 
 [msg accessory_A18]
-[f 0 5 65278][f 2 1]Concedes el uso de Beheading Cut. [f 0 1 3]Daña a un FOE con una Prob. Baja de Muerte Inst.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]Concedes el uso de Beheading Cut. [f 0 1 3]Daña a un FOE con Baja prob. de Muerte Inst.[f 0 1 0][n][n][e]
 
 [msg accessory_A19]
 [f 0 5 65278][f 2 1]Concedes el uso de Repulse Mist. [f 0 1 3]Prob. Media de anular estados alterados/Ataduras de 1 fila de aliados[f 0 1 0][n][n][e]

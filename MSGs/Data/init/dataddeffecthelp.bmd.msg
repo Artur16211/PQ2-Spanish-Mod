@@ -338,13 +338,13 @@
 [f 0 5 65278][f 2 1]Da隠o M茨gico reducido en 30%[n][e]
 
 [msg addeffect_113]
-[f 0 5 65278][f 2 1]Reduce la Prob. de tropezar[n][e]
+[f 0 5 65278][f 2 1]Reduce la prob. de ser derribado[n][e]
 
 [msg addeffect_114]
-[f 0 5 65278][f 2 1]Reduce ligeramente la Prob. de[n]tropezar[n][e]
+[f 0 5 65278][f 2 1]Reduce ligeramente la prob. de ser derribado[n][e]
 
 [msg addeffect_115]
-[f 0 5 65278][f 2 1]Gran reducci吋n de Prob. de tropezar[n][e]
+[f 0 5 65278][f 2 1]Gran reducci吋n de prob. de ser derribado[n][e]
 
 [msg addeffect_116]
 [f 0 5 65278][f 2 1]Aumenta la evasi吋n de ataques f胤sicos+[n][e]

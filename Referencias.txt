@@ -38,6 +38,9 @@ Back Row -> Fila Trasera
 Navi -> Nav.
 Unison Skills -> Habilidades de Unión
 Wanted -> Necesario
+Ranged -> Distancia
+Splash Damage -> Daño por Salpicadura
+Self -> Propio
 ## Historia:
 the curator -> la conservadora
 concession stand -> puesto de comida
