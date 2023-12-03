@@ -665,7 +665,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0][n](1 fila)[n][e]
 
 [msg skill_0DE]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente los PS y elimina estados alterados[f 0 1 0][n](1 fila) (S吋lo usable en batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente los PS y elimina estados alterados[f 0 1 0][n](1 fila) (S吋lo en batalla)[n][e]
 
 [msg skill_0DF]
 [f 0 5 65278][f 2 1][f 0 1 4]Cura los estados alterados[f 0 1 0] (Grupo)[n][e]
@@ -710,7 +710,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y prob.[n]de ser atacado por 3 turnos. (Propio)[n][e]
 
 [msg skill_0ED]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y Protege a un aliado.[n][f 0 1 4]Defensa adicional al protegerse[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a un aliado.[n][f 0 1 4]Defensa adicional al protegerse[f 0 1 0] (1 Aliado)[n][e]
 
 [msg skill_0EE]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al protegerse[f 0 1 0] (Fila del usuario)[n][e]
