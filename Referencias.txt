@@ -29,6 +29,29 @@ Ataque -> Atq.
 Precisión -> Prec.
 Evasión -> Eva.
 Probabilidad -> Prob.
+# Arcanas
+Hanged -> Ahorcado
+Justice -> Justicia
+Magi -> Mago
+Fortune -> Fortuna
+Chariot -> Carro
+Fool -> Loco
+Prsts -> Sacerdotisa
+Death -> Muerte
+Tower -> Torre
+Judge -> Juicio
+Devil -> Diablo
+Sun -> Sol
+Star -> Estrella
+Hiero -> Hierofante
+Emprs -> Emperatriz
+Moon -> Luna
+Lovers -> Amantes
+Hermit -> Ermitaño
+Temper -> Templanza
+Str -> Fuerza
+World -> Mundo
+Emp -> Emperador
 
 # Traducción oficial de Persona 5 Royal:
 Baton Pass -> Relevo
