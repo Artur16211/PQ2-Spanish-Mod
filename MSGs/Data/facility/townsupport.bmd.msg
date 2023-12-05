@@ -305,7 +305,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8205]No puedes tener m茨s Personas...[n][f 1 6 65535][e]
 
 [msg town_persona_max_KUMA_me]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9205]斡Tienes demasiados Bearsonas en tus manos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9205]斡Tienes demasiadas Osonas en tus manos![n][f 1 6 65535][e]
 
 [msg town_persona_max_YOUSUKE]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3205]Parece que tienes demasiadas Personas.[n][f 1 6 65535][e]
