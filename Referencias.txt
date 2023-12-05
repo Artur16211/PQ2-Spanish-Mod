@@ -58,6 +58,7 @@ Baton Pass -> Relevo
 
 # Traducción oficial de Persona 5 Tactica:
 Sub-Persona -> Persona Secundaria
+Navi -> Navi
 
 # Traducción oficial de Persona 3 Portable:
 Evoker -> Evocador
