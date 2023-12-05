@@ -128,10 +128,10 @@
 [f 0 5 65278][f 2 1]Un sutra prohibido utilizado como una maldición mortal. [f 0 1 4]Ataque de Maldici吋n con Muerte Inst.[f 0 1 0] (1[n]Enemigo)[n][e]
 
 [msg item_52B]
-[f 0 5 65278][f 2 1]Estalla con poder cinético al ser lanzado.[n][f 0 1 4]Da隠o Ps胤quico Leve[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Estalla con poder cinético al ser lanzado.[n][f 0 1 4]Da隠o Psicoquinético Leve[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_52C]
-[f 0 5 65278][f 2 1]Una bala que explota con poder telequinético.[n][f 0 1 4]Da隠o Ps胤quico Medio[f 0 1 0].[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Una bala que explota con poder telequinético.[n][f 0 1 4]Da隠o Psicoquinético Medio[f 0 1 0].[n](Todos los enemigos)[n][e]
 
 [msg item_52D]
 [f 0 5 65278][f 2 1]Estalla con energía Nuclear al ser lanzado.[n][f 0 1 4]Da隠o Nuclear Leve[f 0 1 0]. (Todos[n]los enemigos)[n][e]

@@ -7,7 +7,7 @@
 [f 0 5 65278][f 2 1]Empecemos de nuevo[e]
 
 [msg FCL_NETWORK_SETTING]
-[f 0 5 65278][f 2 1]Activar StreetPass te permitir茨 intercambiar P-Libros con otras personas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Activar StreetPass te permitir茨 intercambiar P-Books con otras personas.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]夷Activar la funci吋n StreetPass de Persona Q2 en este sistema Nintendo 3DS?[n][f 1 1][e]
 
 [msg FCL_NETWORK_SETTING_SUCC]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1]Por favor, no escribas material ofensivo, infrinjas derechos de autor ni reveles informaci吋n personal en tus mensajes.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_MAKE]
-[f 0 5 65278][f 2 1]Generando el c吋digo QR del P-Libro en la tarjeta SD. Si ya existen datos, ser茨n sobrescritos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Generando el c吋digo QR del P-Book en la tarjeta SD. Si ya existen datos, ser茨n sobrescritos.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]夷Guardar en la tarjeta SD?[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SD_WRITIN]
@@ -60,10 +60,10 @@
 [f 0 5 65278][f 2 1]Utiliza la c茨mara para escanear un c吋digo QR de Persona Q2.[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_LOAD_SUCC]
-[f 0 5 65278][f 2 1]夷Registrar el P-Libro?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Registrar el P-Book?[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_SAVING]
-[f 0 5 65278][f 2 1]Guardando el P-Libro escaneado...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Guardando el P-Book escaneado...[n][f 1 1][e]
 
 [msg FCL_NETWORK_QR_INVALID_D]
 [f 0 5 65278][f 2 1]Este c吋digo QR no es para Persona Q2.[n][f 1 1][e]
@@ -72,16 +72,16 @@
 [f 0 5 65278][f 2 1]El c吋digo QR no pudo ser reconocido.[n][f 1 1][e]
 
 [msg FCL_NETWORK_INBOX_RECEIV]
-[f 0 5 65278][f 2 1]夷Recibir nuevos P-Libros?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Recibir nuevos P-Books?[n][f 1 1][e]
 
 [msg FCL_NETWORK_INBOX_CHECKI]
 [f 0 5 65278][f 2 1]Comprobando los datos de StreetPass...[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_DELE [Marie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]夷Est茨s seguro de que quieres descartar este P-Libro?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]夷Est茨s seguro de que quieres descartar este P-Book?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_DELE_2 [Elizabeth]]
-[f 0 5 65278][f 2 1]夷Deseas descartar este P-Libro?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Deseas descartar este P-Book?[n][f 1 1][e]
 
 [msg FCL_NETWORK_PERSONA_SUMM [Marie]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 65201]Costar茨 [f 2 4 0] yenes invocar a esta Persona. 夷Est茨s seguro?[n][f 1 1][e]
@@ -139,7 +139,7 @@
 [f 0 5 65278][f 2 1]No[e]
 
 [msg FCL_NETWORK_EDIT_SAVE]
-[f 0 5 65278][f 2 1]La informaci吋n del P-Libro ha sido modificada.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La informaci吋n del P-Book ha sido modificada.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]夷Guardar las actualizaciones en StreetPass?[n][f 1 1][e]
 
 [msg FCL_NETWORK_EDIT_CANCEL]

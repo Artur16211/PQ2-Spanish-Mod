@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A2B]
-[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Faja saludable que protege contra habilidades Psi.[n][f 0 1 3]Máx. PS +15%/Aumenta la evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_A2C]
 [f 0 5 65278][f 2 1]Amuleto duradero que protege contra el Fuego.[n][f 0 1 3]Máx. PE +15%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
@@ -146,7 +146,7 @@
 [f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Nucleares. [f 0 1 3]Máx. PE +15%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A31]
-[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PE +15%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Amuleto duradero que protege contra habilidades Psi. [f 0 1 3]Máx. PE +15%/Aumenta la evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_A32]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA32　１行目[n]アクセサリー２　0xA32　２行目[n][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A38]
-[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parche ocular grueso que protege contra habilidades Psi.[n][f 0 1 3]Máx. PS +20%/Aumenta la evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_A39]
 [f 0 5 65278][f 2 1]Anj rígido que protege contra el Fuego.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
@@ -185,7 +185,7 @@
 [f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A3E]
-[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anj rígido que protege contra habilidades Psi.[n][f 0 1 3]Máx. PE +20%/Aumenta la evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_A3F]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA3F　１行目[n]アクセサリー２　0xA3F　２行目[n][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A45]
-[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magatama de piedra que protege contra habilidades Psi.[n][f 0 1 3]Máx. PS +25%/Aumenta la evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_A46]
 [f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra el Fuego.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión de Fuego[f 0 1 0][n][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Nucleares.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_A4B]
-[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Orbe inquebrantable que protege contra habilidades Psi.[n][f 0 1 3]Máx. PE +25%/Aumenta la evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_A4C]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA4C　１行目[n]アクセサリー２　0xA4C　２行目[n][e]
@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1]Calabaza que absorbe la energía Nuclear para producir néctar. [f 0 1 3]Absorbe ataques Nucleares[f 0 1 0][n][e]
 
 [msg accessory_A62]
-[f 0 5 65278][f 2 1]Calabaza que absorbe la energía Psíquica para producir néctar. [f 0 1 3]Absorbe ataques Psíquicos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Calabaza que absorbe la energía Psi. para producir néctar. [f 0 1 3]Absorbe ataques Psicoquinéticos[f 0 1 0][n][e]
 
 [msg accessory_A63]
 [f 0 5 65278][f 2 1]アクセサリー２　0xA63　１行目[n]アクセサリー２　0xA63　２行目[n][e]

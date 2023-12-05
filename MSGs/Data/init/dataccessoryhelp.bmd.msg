@@ -404,25 +404,25 @@
 [f 0 5 65278][f 2 1]Anillo saludable que repele habilidades Nucleares. [f 0 1 3]Máx. PS +5%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_487]
-[f 0 5 65278][f 2 1]Anillo saludable que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Anillo saludable que protege contra habilidades Psi.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_488]
 [f 0 5 65278][f 2 1]Brazalete que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_489]
-[f 0 5 65278][f 2 1]Brazalete que protege contra habilidades Psíquicas.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brazalete que protege contra habilidades Psi.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_48A]
 [f 0 5 65278][f 2 1]Círculo que repele habilidades Nucleares.[n][f 0 1 3]Máx. PS +10%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_48B]
-[f 0 5 65278][f 2 1]C胤rculo que protege contra habilidades Psíquicas. [f 0 1 3]Máx. PS +10%/Aumento Leve de evasión Psíquica[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]C胤rculo que protege contra habilidades Psi. [f 0 1 3]Máx. PS +10%/Aumento Leve de evasión Psi.[f 0 1 0][n][n][e]
 
 [msg accessory_48C]
 [f 0 5 65278][f 2 1]Pin robusto que se marchita Nuclear skills.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
 
 [msg accessory_48D]
-[f 0 5 65278][f 2 1]Broche resistente que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión Psíquica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Broche resistente que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión Psi.[f 0 1 0][n][e]
 
 [msg accessory_48E]
 [f 0 5 65278][f 2 1]アクセサリー　0x48E　１行目[n]アクセサリー　0x48E　２行目[n][e]
@@ -584,7 +584,7 @@
 [f 0 5 65278][f 2 1]Adorno poseído por el poder del Fuego.[n][f 0 1 3]Adquiere la habilidad Agi[f 0 1 0][n][e]
 
 [msg accessory_4C3]
-[f 0 5 65278][f 2 1]Adorno poseído por el poder de la psicocinesis.[n][f 0 1 3]Adquiere la habilidad Psi[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Adorno poseído por el poder psicoquinético.[n][f 0 1 3]Adquiere la habilidad Psi.[f 0 1 0][n][e]
 
 [msg accessory_4C4]
 [f 0 5 65278][f 2 1]Figura de gato que trae buena fortuna.[n][f 0 1 3]Obtén 10% m茨s de dinero en batalla[f 0 1 0][n][e]
@@ -599,7 +599,7 @@
 [f 0 5 65278][f 2 1]Figura de gato que atrae gran riqueza y suerte.[n][f 0 1 3]Obtén 15% m茨s dinero en batalla/Su +2[f 0 1 0][n][e]
 
 [msg accessory_4C8]
-[f 0 5 65278][f 2 1]Deflector de partículas y ondas mentales.[n][f 0 1 3]Prob. Baja de anular Nuclear y Psíquico[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Deflector de partículas y ondas mentales.[n][f 0 1 3]Prob. Baja de anular Nuclear y Psicoquinético[f 0 1 0][n][e]
 
 [msg accessory_4C9]
 [f 0 5 65278][f 2 1]Pomada inventada por un respetado médico.[n][f 0 1 3]Recupera PE cada turno[f 0 1 0][n][e]

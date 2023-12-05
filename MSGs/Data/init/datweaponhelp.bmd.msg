@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1]武器　0x026　１行目[n]武器　0x026　２行目[n][e]
 
 [msg weapon_027]
-[f 0 5 65278][f 2 1]Un instrumento Pesado para un poder de golpe adicional.[n][e]
+[f 0 5 65278][f 2 1]Un instrumento Grave para un poder de golpe adicional.[n][e]
 
 [msg weapon_028]
 [f 0 5 65278][f 2 1]Un palo hecho del hueso de la pierna de una[n]criatura gigante. [f 0 1 3]Máx. PS +5%/Rs +2[f 0 1 0][n][e]
@@ -440,7 +440,7 @@
 [f 0 5 65278][f 2 1]Un sable de una estrella muy, muy lejana. [f 0 1 3]Máx. PE +10%/Ag +3[f 0 1 0][n][e]
 
 [msg weapon_093]
-[f 0 5 65278][f 2 1]Un sable alimentado por el fin de todas las cosas. [f 0 1 3]Daño por salpicaduras Pesado[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable alimentado por el fin de todas las cosas. [f 0 1 3]Daño por salpicaduras Grave[f 0 1 0][n][e]
 
 [msg weapon_094]
 [f 0 5 65278][f 2 1]Un sable alimentado por una increíble energía Nuclear. [f 0 1 3]Coste Medio de PS/Fr +3/Ma +6[f 0 1 0][n][e]
@@ -725,7 +725,7 @@
 [f 0 5 65278][f 2 1]Se dice que un antiguo héroe-rey la utilizaba.[n][f 0 1 3]Prob. Baja de Atadura de Fuerza/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_0F2]
-[f 0 5 65278][f 2 1]El hacha favorito de una tribu de guerreras femeninas.[n][f 0 1 3]Daño por salpicaduras Pesado[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El hacha favorito de una tribu de guerreras femeninas.[n][f 0 1 3]Daño por salpicaduras Grave[f 0 1 0][n][e]
 
 [msg weapon_0F3]
 [f 0 5 65278][f 2 1]Un hacha elegante con un embriagador aroma floral. [f 0 1 3]Coste Medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
@@ -779,7 +779,7 @@
 [f 0 5 65278][f 2 1]Nudillos simples y efectivos.[n][e]
 
 [msg weapon_104]
-[f 0 5 65278][f 2 1]Nudillos Pesados diseñados para impactos brutales.[n][e]
+[f 0 5 65278][f 2 1]Nudillos Graves diseñados para impactos brutales.[n][e]
 
 [msg weapon_105]
 [f 0 5 65278][f 2 1]Diseñados para fortalecer los nudillos al tomar una moneda de cobre. [f 0 1 3]Su +3[f 0 1 0][n][e]

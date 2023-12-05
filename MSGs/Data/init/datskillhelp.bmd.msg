@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1]Ataque de Fuego Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_004]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_005]
 [f 0 5 65278][f 2 1]Ataque de Fuego Leve.[n](Todos los enemigos)[n][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1]Ataque de Fuego Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_007]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_008]
 [f 0 5 65278][f 2 1]Ataque de Fuego Leve que[n]salpica a ambos lados.[n](1 Enemigo)[n][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1]Ataque de Viento Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_010]
-[f 0 5 65278][f 2 1]Ataque de Viento Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_011]
 [f 0 5 65278][f 2 1]Ataque de Viento Leve.[n](Todos los enemigos)[n][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1]Ataque de Viento Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_013]
-[f 0 5 65278][f 2 1]Ataque de Viento Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_014]
 [f 0 5 65278][f 2 1]2-3 Ataques Leves de Viento a objetivos[n]aleatorios. (1 fila)[n][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1]Ataque de Hielo Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_01C]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_01D]
 [f 0 5 65278][f 2 1]Leve ataque de Hielo.[n](Todos los enemigos)[n][e]
@@ -92,13 +92,13 @@
 [f 0 5 65278][f 2 1]Ataque de Hielo Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_01F]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_020]
 [f 0 5 65278][f 2 1]2-4 Ataques de Hielo Medio a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_021]
-[f 0 5 65278][f 2 1]Un ataque de Hielo grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque de Hielo Severo.[n](1 Enemigo)[n][e]
 
 [msg skill_022]
 [f 0 5 65278][f 2 1]Leve ataque de Hielo que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1]Ataque Medio Elec.[n](1 Enemigo)[n][e]
 
 [msg skill_029]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_02A]
 [f 0 5 65278][f 2 1]Ataque el姻ctrico Leve.[n](Todos los enemigos)[n][e]
@@ -131,13 +131,13 @@
 [f 0 5 65278][f 2 1]Ataque Medio Elec.[n](Todos los enemigos)[n][e]
 
 [msg skill_02C]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_02D]
 [f 0 5 65278][f 2 1]0x02D[n][e]
 
 [msg skill_02E]
-[f 0 5 65278][f 2 1]Un ataque Severo Elec.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Un ataque Elec. Severo[n](1 Enemigo)[n][e]
 
 [msg skill_02F]
 [f 0 5 65278][f 2 1]Ataque proporcional Elec.[n](1 Enemigo)[n][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_034]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_035]
 [f 0 5 65278][f 2 1]Ataque Severo Todopoderoso.[n](Todos los enemigos)[n][e]
@@ -407,7 +407,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_088]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media de Atadura de Agilidad[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media de Atadura de Agilidad[f 0 1 0][n](1 Enemigo)[n][e]
 
 [msg skill_089]
 [f 0 5 65278][f 2 1]Ataque F胤sico Leve, con [f 0 1 2]prob. Media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
@@ -434,7 +434,7 @@
 [f 0 5 65278][f 2 1]2-6 ataques F胤sicos Medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_091]
-[f 0 5 65278][f 2 1]Leve ataque Psíquico que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Leve Psicoquinético que salpica a ambos lados.[n](1 Enemigo)[n][e]
 
 [msg skill_092]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. Media de Atadura M茨gica[f 0 1 0] (1 Enemigo)[n][e]
@@ -464,16 +464,16 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09B]
-[f 0 5 65278][f 2 1]2 Ataques F胤sicos Pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]2 Ataques F胤sicos Graves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09C]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado. [f 0 1 2]Reduce el[n]ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave. [f 0 1 2]Reduce el[n]ataque[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
 
 [msg skill_09D]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado que afecta hasta la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave que afecta hasta la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09E]
-[f 0 5 65278][f 2 1]6-8 Ataques F胤sicos Pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]6-8 Ataques F胤sicos Graves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_09F]
 [f 0 5 65278][f 2 1]Ataque F胤sico Leve, [f 0 1 2]da隠o m茨s alto si[n]el objetivo est茨 atado, pero elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
@@ -491,16 +491,16 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Leve. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A4]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A5]
-[f 0 5 65278][f 2 1]Ataque f胤sicos Pesado que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque f胤sicos Grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A6]
 [f 0 5 65278][f 2 1]Ataque de Hielo Medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0A7]
-[f 0 5 65278][f 2 1]4 Ataques F胤sicos Pesados. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]4 Ataques F胤sicos Graves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0A8]
 [f 0 5 65278][f 2 1]5-7 ataques F胤sicos Medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
@@ -515,7 +515,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio. (Todos los enemigos)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0AC]
-[f 0 5 65278][f 2 1]Ataque F胤sico grave. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Severo. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0AD]
 [f 0 5 65278][f 2 1]No utilizados[n][e]
@@ -524,31 +524,31 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio. [f 0 1 4]Si no recibes daño durante el turno, obtén un ataque adicional[f 0 1 0][n](1 Enemigo)[n][e]
 
 [msg skill_0AF]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_0B0]
 [f 0 5 65278][f 2 1]Ataque Severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_0B1]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado. [f 0 1 4]Si no recibes daño durante el turno, obtén un ataque adicional[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave. [f 0 1 4]Si no recibes daño durante el turno, obtén un ataque adicional[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_0B2]
-[f 0 5 65278][f 2 1]Ataque F胤sico grave. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Severo. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B3]
-[f 0 5 65278][f 2 1]3 ataques F胤sicos Pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3 ataques F胤sicos Graves a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B4]
 [f 0 5 65278][f 2 1]8 ataques F胤sicos Medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B5]
-[f 0 5 65278][f 2 1]3-8 ataques F胤sicos Pesados a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3-8 ataques F胤sicos Graves a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B6]
 [f 0 5 65278][f 2 1]3-6 ataques F胤sicos Medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B7]
-[f 0 5 65278][f 2 1]3-10 Ataques F胤sicos graves a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]3-10 Ataques F胤sicos Severos a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_0B8]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. de[n]Muerte Inst.[f 0 1 0] (1 Enemigo)[n][e]
@@ -569,7 +569,7 @@
 [f 0 5 65278][f 2 1]Ataque de Fuego Leve que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0BE]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0BF]
 [f 0 5 65278][f 2 1]Ataque el姻ctrico Leve que salpica a[n]ambos lados. (1 Enemigo)[n][e]
@@ -584,10 +584,10 @@
 [f 0 5 65278][f 2 1]2-5 Ataques Medios Todopoderoso, ataca a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_0C3]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado, con [f 0 1 2]prob.[n]de muerte instant茨neo[f 0 1 0] (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Grave, con [f 0 1 2]prob.[n]de muerte instant茨neo[f 0 1 0] (Todos los enemigos)[n][e]
 
 [msg skill_0C4]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_0C5]
 [f 0 5 65278][f 2 1]Ataque Severo Todopoderoso.[n](Todos los enemigos)[n][e]
@@ -596,25 +596,25 @@
 [f 0 5 65278][f 2 1]Ataque el姻ctrico Medio que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C7]
-[f 0 5 65278][f 2 1]Ataque el姻ctrico Pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque el姻ctrico Grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C8]
 [f 0 5 65278][f 2 1]Ataque de Fuego Medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0C9]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0CA]
 [f 0 5 65278][f 2 1]Ataque de Viento Medio que brota a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_0CB]
-[f 0 5 65278][f 2 1]Ataque de Viento Pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Grave que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_0CC]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. Media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
 
 [msg skill_0CD]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
 
 [msg skill_0CE]
 [f 0 5 65278][f 2 1]0x0CE[n][e]
@@ -827,7 +827,7 @@
 [f 0 5 65278][f 2 1]Reduce el per胤odo de sobrecalentamiento[n]en 2 Turnos.[n][e]
 
 [msg skill_114]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Psíquico[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de Psicoquinético[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_115]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia Nuclear[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
@@ -878,13 +878,13 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prob. Crítica[f 0 1 0] por 3 turnos. (Grupo)[n][e]
 
 [msg skill_125]
-[f 0 5 65278][f 2 1]3 Ataques Todopoderosos Pesados, 1 por cada[n]turno. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]3 Ataques Todopoderosos Graves, 1 por cada[n]turno. (Todos los enemigos)[n][e]
 
 [msg skill_126]
 [f 0 5 65278][f 2 1]0x126[n][e]
 
 [msg skill_127]
-[f 0 5 65278][f 2 1]3-6 Ataques F胤sicos Pesados cada turno por 3[n]turnos. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]3-6 Ataques F胤sicos Graves cada turno por 3[n]turnos. (Todos los enemigos)[n][e]
 
 [msg skill_128]
 [f 0 5 65278][f 2 1]0x128[n][e]
@@ -902,16 +902,16 @@
 [f 0 5 65278][f 2 1]0x12C[n][e]
 
 [msg skill_12D]
-[f 0 5 65278][f 2 1]Ataque Psíquico Medio que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Medio que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_12E]
-[f 0 5 65278][f 2 1]Ataque Psíquico Pesado que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Grave que salpica a ambos[n]lados. (1 Enemigo)[n][e]
 
 [msg skill_12F]
 [f 0 5 65278][f 2 1]Ataque Nuclear Medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_130]
-[f 0 5 65278][f 2 1]Ataque Nuclear Pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear Grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_131]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. Alta[n]de Sueño[f 0 1 0] (1 Enemigo)[n][e]
@@ -923,7 +923,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
 
 [msg skill_134]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
 
 [msg skill_135]
 [f 0 5 65278][f 2 1]0x135[n][e]
@@ -1199,7 +1199,7 @@
 [f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos) (Requiere círculos)[n][e]
 
 [msg skill_190]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado.[n](Todos los enemigos) (Requiere círculos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Grave.[n](Todos los enemigos) (Requiere círculos)[n][e]
 
 [msg skill_191]
 [f 0 5 65278][f 2 1]Reduce considerablemente PS cada turno, pero [f 0 1 4]Gran aumento de ataque[f 0 1 0] mientras esta activo. (Propio)[n][e]
@@ -1307,7 +1307,7 @@
 [f 0 5 65278][f 2 1]0x1B3[n][e]
 
 [msg skill_1B4]
-[f 0 5 65278][f 2 1]ataque Psíquico Leve. [f 0 1 2]Otros ataques[n]aliados ganan da隠o Enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ataque Psicoquinético Leve. [f 0 1 2]Otros ataques[n]aliados ganan da隠o Enlace[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_1B5]
 [f 0 5 65278][f 2 1]0x1B5[n][e]
@@ -1427,10 +1427,10 @@
 [f 0 5 65278][f 2 1]Restauración grande PE al infligir una Atadura.[n](Auto)[n][e]
 
 [msg skill_1DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0][n]de Fuego/Hielo/Elec/Vien/Psíquico/Nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0][n]de Fuego/Hielo/Elec/Vien/Psi./Nuclear. (Auto)[n][e]
 
 [msg skill_1DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0][n]de Fuego/Hielo/Elec/Vien/Psíquico/Nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de ataque[f 0 1 0][n]de Fuego/Hielo/Elec/Vien/Psi./Nuclear. (Auto)[n][e]
 
 [msg skill_1DE]
 [f 0 5 65278][f 2 1]Restaura PE despu姻s de un ataque normal. (Auto)[n][e]
@@ -1496,10 +1496,10 @@
 [f 0 5 65278][f 2 1]Las habilidades de ataque de alta[n]prob. se activar茨n dos veces. (Auto)[n][e]
 
 [msg skill_1F3]
-[f 0 5 65278][f 2 1]Alta prob. de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec./[n]Viento/Psíquico/Nuclear[f 0 1 0] a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Alta prob. de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec./[n]Viento/Psi./Nuclear[f 0 1 0] a la fila del usuario. (Auto)[n][e]
 
 [msg skill_1F4]
-[f 0 5 65278][f 2 1]Prob. Media de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec./[n]Viento/Psíquico/Nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Prob. Media de [f 0 1 4]anular da隠o de Fuego/Hielo/Elec./[n]Viento/Psi./Nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
 
 [msg skill_1F5]
 [f 0 5 65278][f 2 1]Prob. Media de [f 0 1 4]disminuir el daño físico[n][f 0 1 0] a la fila del usuario. (Auto)[n][e]
@@ -1637,7 +1637,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0] cada turno.[n](Grupo) (Auto) (Requiere C胤rculos)[n][e]
 
 [msg skill_222]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de ataque[f 0 1 0] de[n]Fuego/Hielo/Elec/Viento/Psíquico/Nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de ataque[f 0 1 0] de[n]Fuego/Hielo/Elec/Viento/Psi./Nuclear. (Auto)[n][e]
 
 [msg skill_223]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente[f 0 1 0][n]el poder de ataque de Fuego. (Auto)[n][e]
@@ -1754,7 +1754,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia fisica[f 0 1 0][n](Auto)[n][e]
 
 [msg skill_249]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Psíquico[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la Psicoquinético[f 0 1 0][n](Auto)[n][e]
 
 [msg skill_24A]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia Nuclear[f 0 1 0][n](Auto)[n][e]
@@ -2159,7 +2159,7 @@
 [f 0 5 65278][f 2 1]Aumenta considerablemente la tasa de críticos contra[n]enemigos con Ataduras.[n][e]
 
 [msg skill_2D0]
-[f 0 5 65278][f 2 1]Realiza un ataque físico Pesado siempre que[n]se inflija una Atadura a un enemigo.[n][e]
+[f 0 5 65278][f 2 1]Realiza un ataque físico Grave siempre que[n]se inflija una Atadura a un enemigo.[n][e]
 
 [msg skill_2D1]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -2219,7 +2219,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque Nuclear. (Auto)[n][e]
 
 [msg skill_2E4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque Psíquico. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]ataque Psicoquinético. (Auto)[n][e]
 
 [msg skill_2E5]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de Ataque de Bendici吋n. (Auto)[n][e]
@@ -2231,7 +2231,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumento Medio[f 0 1 0] del poder de[n]ataque Nuclear. (Auto)[n][e]
 
 [msg skill_2E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento Medio[f 0 1 0] del poder de[n]ataque Psíquico. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento Medio[f 0 1 0] del poder de[n]ataque Psicoquinético. (Auto)[n][e]
 
 [msg skill_2E9]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumento Medio[f 0 1 0] del poder de[n]Ataque de Bendici吋n. (Auto)[n][e]
@@ -2285,7 +2285,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente la prob. Crítica[f 0 1 0][n]cuando el objetivo está Atado. (Auto)[n][e]
 
 [msg skill_2FA]
-[f 0 5 65278][f 2 1]Ataque adicional Pesado cuando[n]el objetivo está Atado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Ataque adicional Grave cuando[n]el objetivo está Atado. (Auto)[n][e]
 
 [msg skill_2FB]
 [f 0 5 65278][f 2 1]0x2FB[n][e]
@@ -2312,7 +2312,7 @@
 [f 0 5 65278][f 2 1]Ataque de Fuego Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_303]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave[n](1 Enemigo)[n][e]
 
 [msg skill_304]
 [f 0 5 65278][f 2 1]Ataque de Fuego Leve.[n](Todos los enemigos)[n][e]
@@ -2321,7 +2321,7 @@
 [f 0 5 65278][f 2 1]Ataque de Fuego Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_306]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave[n](Todos los enemigos)[n][e]
 
 [msg skill_307]
 [f 0 5 65278][f 2 1]Ataque de Fuego Leve que salpica a ambos[n]lados. (1 Enemigo)[n][e]
@@ -2330,7 +2330,7 @@
 [f 0 5 65278][f 2 1]Ataque de Fuego Medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_309]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_30A]
 [f 0 5 65278][f 2 1]0x30A[n][e]
@@ -2342,7 +2342,7 @@
 [f 0 5 65278][f 2 1]Ataque de Viento Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_30D]
-[f 0 5 65278][f 2 1]Ataque de Viento Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_30E]
 [f 0 5 65278][f 2 1]Ataque de Viento Leve.[n](Todos los enemigos)[n][e]
@@ -2351,7 +2351,7 @@
 [f 0 5 65278][f 2 1]Ataque de Viento Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_310]
-[f 0 5 65278][f 2 1]Ataque de Viento Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_311]
 [f 0 5 65278][f 2 1]2-3 ataques Leves de Viento a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
@@ -2360,7 +2360,7 @@
 [f 0 5 65278][f 2 1]2-3 ataques Medios de Viento a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_313]
-[f 0 5 65278][f 2 1]2-3 ataques Pesados de Viento a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques Graves de Viento a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_314]
 [f 0 5 65278][f 2 1]0x314[n][e]
@@ -2372,7 +2372,7 @@
 [f 0 5 65278][f 2 1]Ataque de Hielo Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_317]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_318]
 [f 0 5 65278][f 2 1]Ataque de Hielo Leve.[n](Todos los enemigos)[n][e]
@@ -2381,7 +2381,7 @@
 [f 0 5 65278][f 2 1]Ataque de Hielo Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_31A]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_31B]
 [f 0 5 65278][f 2 1]2-4 Ataques de Hielo Medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
@@ -2393,7 +2393,7 @@
 [f 0 5 65278][f 2 1]Ataque de Hielo Medio que perfora a[n]la fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_31E]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_31F]
 [f 0 5 65278][f 2 1]0x31F[n][e]
@@ -2405,7 +2405,7 @@
 [f 0 5 65278][f 2 1]Ataque Elec. Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_322]
-[f 0 5 65278][f 2 1]Ataque Elec. Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Elec. Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_323]
 [f 0 5 65278][f 2 1]Ataque Elec. Leve.[n](Todos los enemigos)[n][e]
@@ -2414,10 +2414,10 @@
 [f 0 5 65278][f 2 1]Ataque Elec. Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_325]
-[f 0 5 65278][f 2 1]Ataque Elec. Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Elec. Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_326]
-[f 0 5 65278][f 2 1]6 ataques Pesados Elec. a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]6 ataques Graves Elec. a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_327]
 [f 0 5 65278][f 2 1]Ataque Elec. Leve.[n](1 fila)[n][e]
@@ -2426,7 +2426,7 @@
 [f 0 5 65278][f 2 1]Ataque Elec. Medio[n](1 fila)[n][e]
 
 [msg skill_329]
-[f 0 5 65278][f 2 1]Ataque Elec. Pesado.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque Elec. Grave.[n](1 fila)[n][e]
 
 [msg skill_32A]
 [f 0 5 65278][f 2 1]0x32A[n][e]
@@ -2435,10 +2435,10 @@
 [f 0 5 65278][f 2 1]Ataque Medio Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_32C]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_32D]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Severo.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Severo Todopoderoso.[n](Todos los enemigos)[n][e]
 
 [msg skill_32E]
 [f 0 5 65278][f 2 1]0x32E[n][e]
@@ -2552,7 +2552,7 @@
 [f 0 5 65278][f 2 1][f 0 1 2]Prob. Media de Atadura de Agilidad[f 0 1 0][n](Todos los enemigos)[n][e]
 
 [msg skill_353]
-[f 0 5 65278][f 2 1]Ataque Todopoderoso Pesado a todos,[n]incluyendo aliados y enemigos.[n][e]
+[f 0 5 65278][f 2 1]Ataque Todopoderoso Grave a todos,[n]incluyendo aliados y enemigos.[n][e]
 
 [msg skill_354]
 [f 0 5 65278][f 2 1][f 0 1 2]Prob. Media de Sue隠o[f 0 1 0][n](1 Enemigo)[n][e]
@@ -2564,7 +2564,7 @@
 [f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_357]
-[f 0 5 65278][f 2 1]Ataque Pesado de Bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_358]
 [f 0 5 65278][f 2 1]0x358[n][e]
@@ -2582,7 +2582,7 @@
 [f 0 5 65278][f 2 1]Ataque Medio de Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_35D]
-[f 0 5 65278][f 2 1]Ataque Pesado de la Maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de la Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_35E]
 [f 0 5 65278][f 2 1]0x35E[n][e]
@@ -2600,7 +2600,7 @@
 [f 0 5 65278][f 2 1]Ataque Nuclear Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_363]
-[f 0 5 65278][f 2 1]Ataque Nuclear Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_364]
 [f 0 5 65278][f 2 1]Ataque Nuclear Severo.[n](1 Enemigo)[n][e]
@@ -2612,19 +2612,19 @@
 [f 0 5 65278][f 2 1]0x366[n][e]
 
 [msg skill_367]
-[f 0 5 65278][f 2 1]Ataque Leve Psíquico.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Leve Psicoquinético.[n](1 Enemigo)[n][e]
 
 [msg skill_368]
-[f 0 5 65278][f 2 1]Ataque Medio Ps胤quico.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Medio Psicoquinético.[n](1 Enemigo)[n][e]
 
 [msg skill_369]
-[f 0 5 65278][f 2 1]Ataque Pesado Ps胤quico.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave Psicoquinético.[n](1 Enemigo)[n][e]
 
 [msg skill_36A]
-[f 0 5 65278][f 2 1]Ataque Severo Ps胤quico.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Severo Psicoquinético.[n](1 Enemigo)[n][e]
 
 [msg skill_36B]
-[f 0 5 65278][f 2 1]Ataque Leve Ps胤quico.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Leve Psicoquinético.[n](Todos los enemigos)[n][e]
 
 [msg skill_36C]
 [f 0 5 65278][f 2 1]0x36C[n][e]
@@ -2645,10 +2645,10 @@
 [f 0 5 65278][f 2 1]0x371[n][e]
 
 [msg skill_372]
-[f 0 5 65278][f 2 1]Un ataque de Viento Severo que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Severo que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_373]
-[f 0 5 65278][f 2 1]Ataque de Viento Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Viento Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_374]
 [f 0 5 65278][f 2 1]0x374[n][e]
@@ -2711,7 +2711,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_388]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_389]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
@@ -2729,7 +2729,7 @@
 [f 0 5 65278][f 2 1]2-6 ataques F胤sicos Medios.[n](1 Enemigo)[n][e]
 
 [msg skill_38E]
-[f 0 5 65278][f 2 1]Ataque Psíquico Pesado que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Grave que salpica a ambos[n]lados. (1 Enemigo)[n][e]
 
 [msg skill_38F]
 [f 0 5 65278][f 2 1]Ataque Físico Medio que restaura PS[n]al infligir daño. (1 Enemigo)[n][e]
@@ -2747,28 +2747,28 @@
 [f 0 5 65278][f 2 1]Ataque Físico Medio, con [f 0 1 2]prob. Media de Atadura de Fuerza[f 0 1 0][n](1 Enemigo)[n][e]
 
 [msg skill_394]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media de Atadura M茨gica[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media de Atadura M茨gica[f 0 1 0][n](1 Enemigo)[n][e]
 
 [msg skill_395]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_396]
-[f 0 5 65278][f 2 1]2 ataques F胤sicos Pesados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]2 ataques F胤sicos Graves.[n](1 Enemigo)[n][e]
 
 [msg skill_397]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado. [f 0 1 2]Reduce[n]el ataque[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave. [f 0 1 2]Reduce[n]el ataque[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
 
 [msg skill_398]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado que perfora hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave que perfora hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_399]
-[f 0 5 65278][f 2 1]6-8 ataques F胤sicos Pesados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]6-8 ataques F胤sicos Graves.[n](1 Enemigo)[n][e]
 
 [msg skill_39A]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. Media derribo[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_39B]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Alta[n]de Confusi吋n[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Alta[n]de Confusi吋n[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_39C]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio. [f 0 1 2]Reduce la defensa[n]por 1 turno[f 0 1 0] (1 Enemigo)[n][e]
@@ -2777,16 +2777,16 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Leve.[n](1 Enemigo)[n][e]
 
 [msg skill_39E]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_39F]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado que salpica a ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave que salpica a ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_3A0]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
 
 [msg skill_3A1]
-[f 0 5 65278][f 2 1]4 ataques F胤sicos Pesados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]4 ataques F胤sicos Graves.[n](1 Enemigo)[n][e]
 
 [msg skill_3A2]
 [f 0 5 65278][f 2 1]4-7 ataques F胤sicos Medios a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
@@ -2813,7 +2813,7 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. [n]media de Veneno[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_3AA]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media de Sue隠o[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media de Sue隠o[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_3AB]
 [f 0 5 65278][f 2 1]Ataque F胤sico Leve, con [f 0 1 2]prob. Media de Par茨lisis[f 0 1 0] (1 Enemigo)[n][e]
@@ -2876,16 +2876,16 @@
 [f 0 5 65278][f 2 1]3-6 ataques F胤sicos Medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_3BF]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media[n]de Atadura de Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media[n]de Atadura de Agilidad[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_3C0]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesados. [f 0 1 2]prob. Media de[n]Atadura de Magia/Fuerza/Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Graves. [f 0 1 2]prob. Media de[n]Atadura de Magia/Fuerza/Agilidad[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_3C1]
 [f 0 5 65278][f 2 1]8 ataques F胤sicos Medios a objetivos aleatorios.[n](Todos los enemigos)[n][e]
 
 [msg skill_3C2]
-[f 0 5 65278][f 2 1]Ataque F胤sico grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Severo.[n](1 Enemigo)[n][e]
 
 [msg skill_3C3]
 [f 0 5 65278][f 2 1]Proporcional Ataque F胤sico.[n](1 Enemigo)[n][e]
@@ -3125,10 +3125,10 @@
 [f 0 5 65278][f 2 1]Aumenta la emoci吋n. Permite el uso de[n]un ataque poderoso.[n][e]
 
 [msg skill_412]
-[f 0 5 65278][f 2 1]2-3 ataques F胤sicos Pesados a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques F胤sicos Graves a[n]objetivos aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_413]
-[f 0 5 65278][f 2 1]4 ataques F胤sicos Pesados a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]4 ataques F胤sicos Graves a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_414]
 [f 0 5 65278][f 2 1]Ataque Todopoderoso Proporcional .[n](Todos los enemigos)[n][e]
@@ -3197,7 +3197,7 @@
 [f 0 5 65278][f 2 1]Aumenta la resistencia a la Maldici吋n[n]por 3 turnos. (Grupo)[n][e]
 
 [msg skill_42A]
-[f 0 5 65278][f 2 1]Aumenta la resistencia Psíquico por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]Aumenta la resistencia Psicoquinético por 3 turnos. (Grupo)[n][e]
 
 [msg skill_42B]
 [f 0 5 65278][f 2 1]Aumenta la resistencia Nuclear por 3[n]turnos. (Grupo)[n][e]
@@ -3296,7 +3296,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de ataque[n]de Hielo. (Auto)[n][e]
 
 [msg skill_44B]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de ataque[n]Psíquico. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de ataque[n]Psicoquinético. (Auto)[n][e]
 
 [msg skill_44C]
 [f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de ataque[n]Nuclear. (Auto)[n][e]
@@ -3338,7 +3338,7 @@
 [f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0] y [f 0 1 2][n]reduce la defensa[f 0 1 0] por 3 turnos. (Propio)[n][e]
 
 [msg skill_459]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de ataques Psíquicos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de ataques Psicoquinéticos.[n](Auto)[n][e]
 
 [msg skill_45A]
 [f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de ataques Nucleares.[n](Auto)[n][e]
@@ -3563,19 +3563,19 @@
 [f 0 5 65278][f 2 1]0x4A3[n][e]
 
 [msg skill_4A4]
-[f 0 5 65278][f 2 1]Da隠o Pesado, con Ataduras de[n]magia, fuerza y agilidad, a aquellos que rompen su juramento.[n][e]
+[f 0 5 65278][f 2 1]Da隠o Grave, con Ataduras de[n]magia, fuerza y agilidad, a aquellos que rompen su juramento.[n][e]
 
 [msg skill_4A5]
 [f 0 5 65278][f 2 1]Prohibir un tipo de acci吋n.[n][e]
 
 [msg skill_4A6]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
 
 [msg skill_4A7]
 [f 0 5 65278][f 2 1]8 ataques F胤sicos Medios a objetivos[n]aleatorios. (Todos los enemigos)[n][e]
 
 [msg skill_4A8]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_4A9]
 [f 0 5 65278][f 2 1]Ataque de Viento Leve.[n](1 Enemigo)[n][e]
@@ -3692,25 +3692,25 @@
 [f 0 5 65278][f 2 1]0x4CE[n][e]
 
 [msg skill_4CF]
-[f 0 5 65278][f 2 1]Ataque de Fuego Pesado que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Fuego Grave que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
 
 [msg skill_4D0]
-[f 0 5 65278][f 2 1]Ataque de Hielo Pesado que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque de Hielo Grave que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
 
 [msg skill_4D1]
-[f 0 5 65278][f 2 1]Ataque Pesado de Bendici吋n.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Bendici吋n.[n](1 fila)[n][e]
 
 [msg skill_4D2]
-[f 0 5 65278][f 2 1]2-3 ataques Pesados de Maldici吋n a[n]objetivos aleatorios. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]2-3 ataques Graves de Maldici吋n a[n]objetivos aleatorios. (1 fila)[n][e]
 
 [msg skill_4D3]
 [f 0 5 65278][f 2 1]0x4D3[n][e]
 
 [msg skill_4D4]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
 
 [msg skill_4D5]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_4D6]
 [f 0 5 65278][f 2 1]0x4D6[n][e]
@@ -4133,7 +4133,7 @@
 [f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_562]
-[f 0 5 65278][f 2 1]Ataque Pesado de Bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Bendici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_563]
 [f 0 5 65278][f 2 1]Leve Ataque de Bendici吋n.[n](Todos los enemigos)[n][e]
@@ -4142,7 +4142,7 @@
 [f 0 5 65278][f 2 1]Ataque mediano de Bendici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_565]
-[f 0 5 65278][f 2 1]Ataque Pesado de Bendici吋n.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Bendici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_566]
 [f 0 5 65278][f 2 1]0x566[n][e]
@@ -4163,16 +4163,16 @@
 [f 0 5 65278][f 2 1]Ataque Medio de Maldición.[n](1 Enemigo)[n][e]
 
 [msg skill_56C]
-[f 0 5 65278][f 2 1]Ataque Pesado de Maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Maldici吋n.[n](1 Enemigo)[n][e]
 
 [msg skill_56D]
 [f 0 5 65278][f 2 1]Ataque Leve de Maldici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_56E]
-[f 0 5 65278][f 2 1]Ataque Pesado de Maldici吋n.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Maldici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_56F]
-[f 0 5 65278][f 2 1]Ataque Pesado de Maldici吋n.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Grave de Maldici吋n.[n](Todos los enemigos)[n][e]
 
 [msg skill_570]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -4193,7 +4193,7 @@
 [f 0 5 65278][f 2 1]Ataque Nuclear Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_576]
-[f 0 5 65278][f 2 1]Ataque Nuclear Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_577]
 [f 0 5 65278][f 2 1]Ataque Nuclear Leve.[n](Todos los enemigos)[n][e]
@@ -4202,7 +4202,7 @@
 [f 0 5 65278][f 2 1]Ataque Nuclear Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_579]
-[f 0 5 65278][f 2 1]Ataque Nuclear Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Nuclear Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_57A]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -4217,49 +4217,49 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_57E]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Leve.[n](1 Enemigo)[n][e]
 
 [msg skill_57F]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Medio.[n](1 Enemigo)[n][e]
 
 [msg skill_580]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Grave.[n](1 Enemigo)[n][e]
 
 [msg skill_581]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Leve.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Leve.[n](Todos los enemigos)[n][e]
 
 [msg skill_582]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Medio.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Medio.[n](Todos los enemigos)[n][e]
 
 [msg skill_583]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Pesado.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Grave.[n](Todos los enemigos)[n][e]
 
 [msg skill_584]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_585]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Severo.[n](1 Enemigo)[n][e]
 
 [msg skill_586]
-[f 0 5 65278][f 2 1]Ataque Ps胤quico Severo.[n](Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataque Psicoquinético Severo.[n](Todos los enemigos)[n][e]
 
 [msg skill_587]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_588]
 [f 0 5 65278][f 2 1]3-6 ataques F胤sicos Medios a objetivos aleatorios.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_589]
-[f 0 5 65278][f 2 1]Ataques de F胤sicos Pesados.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataques de F胤sicos Graves.[n](Todos los enemigos) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58A]
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_58B]
-[f 0 5 65278][f 2 1]Ataque F胤sico grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Severo que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58C]
-[f 0 5 65278][f 2 1]Ataque F胤sico grave que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Severo que perfora a la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
 
 [msg skill_58D]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, con [f 0 1 2]prob. Alta[n]de Maldición[f 0 1 0] (1 Enemigo)[n][e]
@@ -4274,7 +4274,7 @@
 [f 0 5 65278][f 2 1]Blank[n][e]
 
 [msg skill_591]
-[f 0 5 65278][f 2 1]Ataques F胤sicos Pesados a objetivos aleatorios[n][f 0 1 4]m茨s fuerte con cada golpe[f 0 1 0] (Todos los enemigos)[n][e]
+[f 0 5 65278][f 2 1]Ataques F胤sicos Graves a objetivos aleatorios[n][f 0 1 4]m茨s fuerte con cada golpe[f 0 1 0] (Todos los enemigos)[n][e]
 
 [msg skill_592]
 [f 0 5 65278][f 2 1]Blank[n][e]
@@ -4406,7 +4406,7 @@
 [f 0 5 65278][f 2 1]Alta Prob. derribo. (Auto)[n][e]
 
 [msg skill_5BD]
-[f 0 5 65278][f 2 1]Prob. Alta de [f 0 1 4]anular el da隠o de Fuego/Hielo/Elec./[n]Viento/Psíquico/Nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]Prob. Alta de [f 0 1 4]anular el da隠o de Fuego/Hielo/Elec./[n]Viento/Psi./Nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
 
 [msg skill_5BE]
 [f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
@@ -4430,19 +4430,19 @@
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene un estado alterado[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_5C5]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene un estado alterado[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene un estado alterado[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_5C6]
 [f 0 5 65278][f 2 1]Ataque F胤sico Medio, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene[n]una Atadura, elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_5C7]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, [f 0 1 2]da隠o m茨s alto si el objetivo[n]tiene una Atadura, elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, [f 0 1 2]da隠o m茨s alto si el objetivo[n]tiene una Atadura, elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_5C8]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media[n]de Atadura M茨gica[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media[n]de Atadura M茨gica[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_5C9]
-[f 0 5 65278][f 2 1]Ataque F胤sico Pesado, con [f 0 1 2]prob. Media[n]de Atadura de Fuerza[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]Ataque F胤sico Grave, con [f 0 1 2]prob. Media[n]de Atadura de Fuerza[f 0 1 0] (1 Enemigo)[n][e]
 
 [msg skill_5CA]
 [f 0 5 65278][f 2 1]Prob. Media de[n][f 0 1 4]anular ataques F胤sicos[f 0 1 0] (Auto)[n][e]

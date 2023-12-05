@@ -15,6 +15,20 @@ Ma -> Ma
 En -> Rs
 Ag -> Ag
 Lu -> Su
+# Skills
+Miniscule -> minúsculo
+Light -> leve
+Medium -> medio
+Heavy -> grave
+Severe -> severo
+Colossal -> Colossal
+# Elements
+Psy -> psicoquinético/psi.
+# Abreviaturas:
+Ataque -> Atq.
+Precisión -> Prec.
+Evasión -> Eva.
+Probabilidad -> Prob.
 
 # Traducción oficial de Persona 5 Royal:
 Baton Pass -> Relevo
@@ -45,3 +59,4 @@ Self -> Propio
 ## Historia:
 the curator -> la conservadora
 concession stand -> puesto de comida
+

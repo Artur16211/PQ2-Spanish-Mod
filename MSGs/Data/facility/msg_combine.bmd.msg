@@ -755,7 +755,7 @@
 [f 0 5 65278][f 2 1]Si lo usas bien, puedes ver a alguna[n]de las personas fuertes que pasan por ah胤.[n][f 1 1][e]
 
 [msg msg_combine_NETWORK_HELP_3 [Marie]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 85 12 0 1]Guardar姻 a los P-Libros que intercambies,[n]as胤 que av胤same cuando quieras verlos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 85 12 0 1]Guardar姻 a los P-Books que intercambies,[n]as胤 que av胤same cuando quieras verlos.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Oh, y te avisar姻 cuando tengas nuevos P-Books.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1]Solo ten en cuenta que, no puedes[n]conservar cada P-Book que obtengas.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]S吋lo puedes tener 100, as胤 que si hay[n]alguno que realmente quieras conservar,[n]deber胤as "Proteger" sus datos.[n][f 1 1][e]
@@ -765,7 +765,7 @@
 [f 0 5 65278][f 2 1]Te costar茨, pero esas peque隠as gemelas[n]pueden invocarla. Seg雨n Margaret, de todos modos.[n][f 1 1][e]
 
 [msg msg_combine_NETWORK_HELP_4 [Marie]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 85 12 0 1]Guardar姻 a los P-Libros que intercambies,[n]as胤 que av胤same cuando quieras verlos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 85 12 0 1]Guardar姻 a los P-Books que intercambies,[n]as胤 que av胤same cuando quieras verlos.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Oh, y te avisar姻 cuando tengas nuevos P-Books.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1]Solo ten en cuenta que, no puedes[n]conservar cada P-Book que obtengas.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]S吋lo puedes tener 100, as胤 que si hay[n]alguno que realmente quieras conservar,[n]deber胤as "Proteger" sus datos.[n][f 1 1][e]
@@ -790,14 +790,14 @@
 
 [msg msg_combine_NETWORK_HELP_7 [Marie]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 85 12 0 1]Por lo tanto, su P-Book se puede[n]intercambiar en una cosa llamada[n]"C吋digo QR"[n][f 1 1][e]
-[f 0 5 65278][f 2 1]夷Supongo que puede facilitar el[n]intercambio de los P-Libros?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Supongo que puede facilitar el[n]intercambio de los P-Books?[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Si no puedes conectarte con ellos[n]directamente, entonces siempre puedes[n]intercambiar los c吋digos QR.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Podr胤as crear el tuyo propio, o si la[n]otra persona ha creado la suya,[n]podr胤as leerla.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 12 0 1]Bueno, podr胤as conseguir cosas 雨tiles[n]en esos P-Book. As胤 que intercambia[n]todos los c吋digos QR que puedas.[n][f 1 1][e]
 
 [msg msg_combine_NETWORK_HELP_8 [Marie]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 85 12 0 1]Por lo tanto, su P-Book se puede[n]intercambiar en una cosa llamada[n]"C吋digo QR"[n][f 1 1][e]
-[f 0 5 65278][f 2 1]夷Supongo que puede facilitar el[n]intercambio de los P-Libros?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]夷Supongo que puede facilitar el[n]intercambio de los P-Books?[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Si no puedes conectarte con ellos[n]directamente, entonces siempre puedes[n]intercambiar los c吋digos QR.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Podr胤as crear el tuyo propio, o si la[n]otra persona ha creado la suya,[n]podr胤as leerla.[n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 12 0 1]Bueno, podr胤as conseguir cosas 雨tiles[n]en esos P-Book. As胤 que intercambia[n]todos los c吋digos QR que puedas.[n][f 1 1][e]
