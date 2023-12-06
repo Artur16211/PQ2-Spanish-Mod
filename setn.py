@@ -463,8 +463,8 @@ def run_program():
                             else:
                                 # print("La carpeta es battle (navegadores), usando intervalo 36")
 
-                                # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
-                                def insert_n_character(line, interval=34):
+                                # Los caracteres no deben pasar de 37, por eso se usa un intervalo de 34
+                                def insert_n_character(line, interval=32):
                                     target_position = interval
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
@@ -542,9 +542,9 @@ def run_program():
                             value = insert_n_character(value)
                         elif folder_name_msg == "dungeon":
                             if path_parts[index_setn + 2] == "script" and path_parts[index_setn + 3] == "support":
-                                # print("La carpeta es dungeon, usando intervalo 43")
+                                # print("La carpeta es dungeon, usando intervalo 43") 32
 
-                                def insert_n_character(line, interval=43):
+                                def insert_n_character(line, interval=32):
                                     target_position = interval
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
@@ -660,7 +660,7 @@ def run_program():
                                 # print("La carpeta es battle (navegadores), usando intervalo 36")
 
                                 # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
-                                def insert_n_character(line, interval=34):
+                                def insert_n_character(line, interval=32):
                                     target_position = interval
                                     if len(line) <= target_position or len(line) <= target_position + 2:
                                         return line
@@ -739,7 +739,7 @@ def run_program():
                             # print("La carpeta es init, usando intervalo 40")
 
                             # Los caracteres no deben pasar de 45, por eso se usa un intervalo de 40
-                            def insert_n_character(line, interval=40):
+                            def insert_n_character(line, interval=42):
                                 target_position = interval
                                 if len(line) <= target_position or len(line) <= target_position + 2:
                                     return line
@@ -938,11 +938,7 @@ def run_program():
                     ' [n]', '[n]').replace('[n] ', '[n]')
                 # replace the fix_dict to fix compile errors
                 value = value.replace('[f[n]0 1 0]', '[n][f 0 1 0]').replace(
-                    '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]')
-                # fix [n].[n]
-                value = value.replace('[n].[n]', '.[n]')
-                # fix [n].[n]2
-                value = value.replace(' .[n]', '.[n]')
+                    '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]').replace('[f[n]0 1 3]', '[n][f 0 1 3]').replace('[f 2 4[n]0]', '[n][f 2 4 0]')
                 # fix ¡¿ ?!
                 value = value.replace('¿¡', '¡¿').replace(
                     '!?', '?!').replace('夷斡', '斡夷')

@@ -11,19 +11,19 @@
 [f 0 5 65278][f 2 1]Una peque隠a daga con un borde afilado.[n][f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
 
 [msg weapon_004]
-[f 0 5 65278][f 2 1]Un cuchillo con veneno rojo. [f 0 1 3]Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo con veneno rojo. [f 0 1 3]Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_005]
 [f 0 5 65278][f 2 1]Un cuchillo corto fabricado en Nepal.[n][e]
 
 [msg weapon_006]
-[f 0 5 65278][f 2 1]Un cuchillo corto diseñado para retener veneno en su hoja. [f 0 1 3]Prob. Baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo corto diseñado para retener veneno en su hoja. [f 0 1 3]Prob. baja de Env.[f 0 1 0][n][e]
 
 [msg weapon_007]
 [f 0 5 65278][f 2 1]Una daga ritualística recubierta de plata.[n][f 0 1 3]Ma +1[f 0 1 0][n][e]
 
 [msg weapon_008]
-[f 0 5 65278][f 2 1]Un cuchillo con un filo hecho de mineral negro.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo con un filo hecho de mineral negro.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_009]
 [f 0 5 65278][f 2 1]Una espada corta procesada para obtener el máximo filo. [f 0 1 3]Su +2[f 0 1 0][n][e]
@@ -35,13 +35,13 @@
 [f 0 5 65278][f 2 1]Un bisturí con aspecto intimidante.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
 
 [msg weapon_00C]
-[f 0 5 65278][f 2 1]Una espada corta casi futurista teñida de energía.[n][f 0 1 3]Prob. Media de par茨lisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada corta casi futurista teñida de energía.[n][f 0 1 3]Prob. media de par茨lisis[f 0 1 0][n][e]
 
 [msg weapon_00D]
-[f 0 5 65278][f 2 1]Cuchillo peque隠o hecho de metales no naturales.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Cuchillo peque隠o hecho de metales no naturales.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_00E]
-[f 0 5 65278][f 2 1]Una cuchara. No estaba destinada a esto.[n][f 0 1 3]Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una cuchara. No estaba destinada a esto.[n][f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_00F]
 [f 0 5 65278][f 2 1]Esta daga desvía golpes utilizando energía magnética. [f 0 1 3]Rs +4[f 0 1 0][n][e]
@@ -53,13 +53,13 @@
 [f 0 5 65278][f 2 1]Un bastón multiusos para cualquier situación.[n][f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
 
 [msg weapon_012]
-[f 0 5 65278][f 2 1]Un cuchillo encantado para cortar cualquier[n]material.[n][f 0 1 3]Prob. Crítica +20%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo encantado para cortar cualquier[n]material.[n][f 0 1 3]Prob. crítica +20%/Ma +2[f 0 1 0][n][e]
 
 [msg weapon_013]
-[f 0 5 65278][f 2 1]Una espada corta penetrante para los misericordiosos. [f 0 1 3]Prob. Baja de Muerte Inst./Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada corta penetrante para los misericordiosos. [f 0 1 3]Prob. baja de Muerte Inst./Ag +5[f 0 1 0][n][e]
 
 [msg weapon_014]
-[f 0 5 65278][f 2 1]Usado para reclamar el paraíso de los dioses.[n][f 0 1 3]Coste Medio de PS/Ma +4/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Usado para reclamar el paraíso de los dioses.[n][f 0 1 3]Coste medio de PS/Ma +4/Ag +5[f 0 1 0][n][e]
 
 [msg weapon_015]
 [f 0 5 65278][f 2 1]武器　0x015　１行目[n]武器　0x015　２行目[n][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]Una vara que se balancea con un peso casi audible.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
 
 [msg weapon_024]
-[f 0 5 65278][f 2 1]Un arma en forma de palo utilizada para golpear o cortar.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arma en forma de palo utilizada para golpear o cortar.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_025]
 [f 0 5 65278][f 2 1]Un instrumento contundente personalizado hecho para parecer una tubería. [f 0 1 3]Rs +1[f 0 1 0][n][e]
@@ -125,10 +125,10 @@
 [f 0 5 65278][f 2 1]Una tuber胤a de acero hecha de una maza de[n]demonio. [f 0 1 3]Rs +3[f 0 1 0][n][e]
 
 [msg weapon_02A]
-[f 0 5 65278][f 2 1]Hecho para noquear a los oponentes.[n][f 0 1 3]Prob. Media de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Hecho para noquear a los oponentes.[n][f 0 1 3]Prob. media de Sueño[f 0 1 0][n][e]
 
 [msg weapon_02B]
-[f 0 5 65278][f 2 1]Contiene púas incrustadas para una brutalidad adicional.[n][f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Contiene púas incrustadas para una brutalidad adicional.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_02C]
 [f 0 5 65278][f 2 1]Un tubo de metal utilizado como refuerzo en un rascacielos. [f 0 1 3]Máx. PE +10%/Ma+ 3[f 0 1 0][n][e]
@@ -137,31 +137,31 @@
 [f 0 5 65278][f 2 1]Una vara con colmillos espinosos de lobo.[n][f 0 1 3]Ag +4[f 0 1 0][n][e]
 
 [msg weapon_02E]
-[f 0 5 65278][f 2 1]Un mazo utilizado por un árbitro deifico de la vida y la muerte.[n][f 0 1 3]Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un mazo utilizado por un árbitro deifico de la vida y la muerte.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_02F]
 [f 0 5 65278][f 2 1]Una vara de mineral impregnada con el poder del planeta. [f 0 1 3]Máx. PE +10%/Ma +1[f 0 1 0][n][e]
 
 [msg weapon_030]
-[f 0 5 65278][f 2 1]Un mazo conocido como la base de la menor[n]arcana.[n][f 0 1 3]Prob. Crítica +5%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un mazo conocido como la base de la menor[n]arcana.[n][f 0 1 3]Prob. crítica +5%/Ag +3[f 0 1 0][n][e]
 
 [msg weapon_031]
 [f 0 5 65278][f 2 1]Una vara preferida por un dios dragón chino.[n][f 0 1 3]Máx. PS +15%/Fr +3[f 0 1 0][n][e]
 
 [msg weapon_032]
-[f 0 5 65278][f 2 1]Este bastón otorga tres deseos por cada balanceo. [f 0 1 3]Prob. Alta de maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Este bastón otorga tres deseos por cada balanceo. [f 0 1 3]Prob. alta de maldición[f 0 1 0][n][e]
 
 [msg weapon_033]
-[f 0 5 65278][f 2 1]Un bastón con el poder de romper cualquier cosa sólida.[n][f 0 1 3]Prob. Crítica +20%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un bastón con el poder de romper cualquier cosa sólida.[n][f 0 1 3]Prob. crítica +20%/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_034]
-[f 0 5 65278][f 2 1]Un arma extensible creada por Taishang Laojun.[n][f 0 1 3]Coste Medio de PS/Fr +5/Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arma extensible creada por Taishang Laojun.[n][f 0 1 3]Coste medio de PS/Fr +5/Rs +4[f 0 1 0][n][e]
 
 [msg weapon_035]
 [f 0 5 65278][f 2 1]武器　0x035　１行目[n]武器　0x035　２行目[n][e]
 
 [msg weapon_036]
-[f 0 5 65278][f 2 1]Un bono de edición limitada de una película de anime popular.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un bono de edición limitada de una película de anime popular.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_037]
 [f 0 5 65278][f 2 1]Una maza hecha de la rama de un árbol antiguo.[n][f 0 1 3]Máx. PE +5%/Ma +2[f 0 1 0][n][e]
@@ -203,55 +203,55 @@
 [f 0 5 65278][f 2 1]Un látigo que inspira sentimientos extraños en aquellos golpeados. [f 0 1 3]Distancia[f 0 1 0][n][e]
 
 [msg weapon_044]
-[f 0 5 65278][f 2 1]Un látigo con puntas agrupadas de púas de metal.[n][f 0 1 3]Distancia/Prob. Baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo con puntas agrupadas de púas de metal.[n][f 0 1 3]Distancia/Prob. baja de Confusión[f 0 1 0][n][e]
 
 [msg weapon_045]
-[f 0 5 65278][f 2 1]Un látigo para mezclar dolor y placer.[n][f 0 1 3]Distancia/Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo para mezclar dolor y placer.[n][f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_046]
 [f 0 5 65278][f 2 1]特性：[f 0 1 3]拡散[f 0 1 0][n][e]
 
 [msg weapon_047]
-[f 0 5 65278][f 2 1]Un látigo flexible que enreda al objetivo.[n][f 0 1 3]Distancia/Prob. Baja de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo flexible que enreda al objetivo.[n][f 0 1 3]Distancia/Prob. baja de Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg weapon_048]
-[f 0 5 65278][f 2 1]Un látigo de antiguas lianas enredadas.[n][f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo de antiguas lianas enredadas.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_049]
-[f 0 5 65278][f 2 1]Un látigo retráctil que desgarra la carne.[n][f 0 1 3]Distancia/Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo retráctil que desgarra la carne.[n][f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_04A]
-[f 0 5 65278][f 2 1]Un látigo cargado de electricidad. [f 0 1 3]Distancia/Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo cargado de electricidad. [f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_04B]
-[f 0 5 65278][f 2 1]Un látigo adornado con púas viciosas.[n][f 0 1 3]Distancia/Prob. Baja de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo adornado con púas viciosas.[n][f 0 1 3]Distancia/Prob. baja de perforación[f 0 1 0][n][e]
 
 [msg weapon_04C]
-[f 0 5 65278][f 2 1]Un látigo largo que emite ondas de choque.[n][f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo largo que emite ondas de choque.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_04D]
 [f 0 5 65278][f 2 1]Un látigo hecho para mujeres sabias.[n][f 0 1 3]Distancia/Máx. PS & PE +5%[f 0 1 0][n][e]
 
 [msg weapon_04E]
-[f 0 5 65278][f 2 1]Un látigo que inflige un dolor eterno.[n][f 0 1 3]Distancia/Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo que inflige un dolor eterno.[n][f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_04F]
 [f 0 5 65278][f 2 1]Un látigo con espinas de pureza, fidelidad y respeto. [f 0 1 3]Distancia/Máx. PE +5%/Su +3[f 0 1 0][n][e]
 
 [msg weapon_050]
-[f 0 5 65278][f 2 1]Un látigo que golpea el alma del objetivo.[n][f 0 1 3]Distancia/Prob. Media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo que golpea el alma del objetivo.[n][f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
 
 [msg weapon_051]
 [f 0 5 65278][f 2 1]Un látigo hecho con la piel de un zorro de nueve colas. [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
 
 [msg weapon_052]
-[f 0 5 65278][f 2 1]Un látigo con púas que desafía las posibilidades.[n][f 0 1 3]Distancia/Prob. Baja de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo con púas que desafía las posibilidades.[n][f 0 1 3]Distancia/Prob. baja de cualquier Atadura[f 0 1 0][n][e]
 
 [msg weapon_053]
-[f 0 5 65278][f 2 1]Un látigo sostenido por la reina de la noche.[n][f 0 1 3]Distancia/Prob. Alta de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo sostenido por la reina de la noche.[n][f 0 1 3]Distancia/Prob. alta de Sueño[f 0 1 0][n][e]
 
 [msg weapon_054]
-[f 0 5 65278][f 2 1]Un látigo doble hecho con dos dragones.[n][f 0 1 3]Distancia/Coste Medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un látigo doble hecho con dos dragones.[n][f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
 
 [msg weapon_055]
 [f 0 5 65278][f 2 1]武器　0x055　１行目[n]武器　0x055　２行目[n][e]
@@ -296,7 +296,7 @@
 [f 0 5 65278][f 2 1]Una katana hecha con métodos tradicionales.[n][f 0 1 3]Precisi吋n +5%[f 0 1 0][n][e]
 
 [msg weapon_063]
-[f 0 5 65278][f 2 1]Lo suficientemente grande como para cortar un caballo. [f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Lo suficientemente grande como para cortar un caballo. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_064]
 [f 0 5 65278][f 2 1]Una katana forjada con metal meteórico. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][e]
@@ -311,16 +311,16 @@
 [f 0 5 65278][f 2 1]Una katana brillante que alguna vez llevó un oficial. [f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
 
 [msg weapon_068]
-[f 0 5 65278][f 2 1]Una katana con ríos de veneno a lo largo de su hoja. [f 0 1 3]Prob. Baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana con ríos de veneno a lo largo de su hoja. [f 0 1 3]Prob. baja de Env.[f 0 1 0][n][e]
 
 [msg weapon_069]
-[f 0 5 65278][f 2 1]Se dice que es una de las espadas de la más alta clase.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Se dice que es una de las espadas de la más alta clase.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_06A]
 [f 0 5 65278][f 2 1]Una katana utilizada por las fuerzas del gobierno Meiji. [f 0 1 3]Rs +2/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_06B]
-[f 0 5 65278][f 2 1]Una katana que se asemeja a una pipa de humo. [f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana que se asemeja a una pipa de humo. [f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_06C]
 [f 0 5 65278][f 2 1]Una katana con el encanto de una mujer hermosa. [f 0 1 3]Máx. PE +15%/Ma +2[f 0 1 0][n][e]
@@ -329,31 +329,31 @@
 [f 0 5 65278][f 2 1]Valorada igual que el sutra Mahaprajnaparamita.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_06E]
-[f 0 5 65278][f 2 1]Una katana con una hoja de 35 pulgadas. [f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana con una hoja de 35 pulgadas. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_06F]
 [f 0 5 65278][f 2 1]Una katana utilizada para desterrar espíritus malignos.[n][f 0 1 3]Fr +5[f 0 1 0][n][e]
 
 [msg weapon_070]
-[f 0 5 65278][f 2 1]Una katana que puede partir una bala en dos.[n][f 0 1 3]Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana que puede partir una bala en dos.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_071]
 [f 0 5 65278][f 2 1]Creación de Masamune, diseñada según la deidad Acala. [f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_072]
-[f 0 5 65278][f 2 1]Una katana con el potencial de moldear muchos destinos. [f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana con el potencial de moldear muchos destinos. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_073]
-[f 0 5 65278][f 2 1]Cualquier sangre que derrame se dispersa en arcos grandiosos. [f 0 1 3]Prob. Alta de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Cualquier sangre que derrame se dispersa en arcos grandiosos. [f 0 1 3]Prob. alta de Maldición[f 0 1 0][n][e]
 
 [msg weapon_074]
-[f 0 5 65278][f 2 1]Una katana nacida de cierto rumor. [f 0 1 3]Coste Medio de PS/Fr +2/Ag +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana nacida de cierto rumor. [f 0 1 3]Coste medio de PS/Fr +2/Ag +7[f 0 1 0][n][e]
 
 [msg weapon_075]
 [f 0 5 65278][f 2 1]武器　0x075　１行目[n]武器　0x075　２行目[n][e]
 
 [msg weapon_076]
-[f 0 5 65278][f 2 1]Requisito de un conjunto de película de espadachines ambientada en el período Edo. [f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Requisito de un conjunto de película de espadachines ambientada en el período Edo. [f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_077]
 [f 0 5 65278][f 2 1]Una katana afilada en una costilla dura. [f 0 1 3]Rs +2[f 0 1 0][n][e]
@@ -392,7 +392,7 @@
 [f 0 5 65278][f 2 1]Un sable de un solo filo, resplandeciente. [f 0 1 3]Precisi吋n +5%[f 0 1 0][n][e]
 
 [msg weapon_083]
-[f 0 5 65278][f 2 1]Un sable de un solo filo con una hoja envenenada. [f 0 1 3]Prob. Baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable de un solo filo con una hoja envenenada. [f 0 1 3]Prob. baja de Env.[f 0 1 0][n][e]
 
 [msg weapon_084]
 [f 0 5 65278][f 2 1]Un sable de un solo filo con una hoja violeta brillante. [f 0 1 3]Ma+ 2[f 0 1 0][n][e]
@@ -416,13 +416,13 @@
 [f 0 5 65278][f 2 1]Su brillo proviene de un alto potencial cinético en su interior. [f 0 1 3]Acelera ligeramente el Medidor de Grupo[f 0 1 0][n][e]
 
 [msg weapon_08B]
-[f 0 5 65278][f 2 1]Un sable con energía cinética de próximo nivel.[n][f 0 1 3]Prob. Crítica +5%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable con energía cinética de próximo nivel.[n][f 0 1 3]Prob. crítica +5%/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_08C]
 [f 0 5 65278][f 2 1]Un sable en constante flujo entre ánodos y cátodos. [f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
 
 [msg weapon_08D]
-[f 0 5 65278][f 2 1]Un sable con una hoja de luz comprimida. [f 0 1 3]Ag +2/Baja prob. de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable con una hoja de luz comprimida. [f 0 1 3]Ag +2/Prob. baja de Sueño[f 0 1 0][n][e]
 
 [msg weapon_08E]
 [f 0 5 65278][f 2 1]Un sable nacido de electrodos positivos. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
@@ -431,19 +431,19 @@
 [f 0 5 65278][f 2 1]Un sable nacido de electrodos negativos. [f 0 1 3]Máx. PE +15%[f 0 1 0][n][e]
 
 [msg weapon_090]
-[f 0 5 65278][f 2 1]Un sable hecho con partículas subNucleares.[n][f 0 1 3]Prob. Media de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable hecho con partículas subNucleares.[n][f 0 1 3]Prob. media de Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg weapon_091]
-[f 0 5 65278][f 2 1]Un sable que puede cortar el tejido de la realidad. [f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable que puede cortar el tejido de la realidad. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_092]
 [f 0 5 65278][f 2 1]Un sable de una estrella muy, muy lejana. [f 0 1 3]Máx. PE +10%/Ag +3[f 0 1 0][n][e]
 
 [msg weapon_093]
-[f 0 5 65278][f 2 1]Un sable alimentado por el fin de todas las cosas. [f 0 1 3]Daño por salpicaduras Grave[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable alimentado por el fin de todas las cosas. [f 0 1 3]Daño grave por salpicaduras[f 0 1 0][n][e]
 
 [msg weapon_094]
-[f 0 5 65278][f 2 1]Un sable alimentado por una increíble energía Nuclear. [f 0 1 3]Coste Medio de PS/Fr +3/Ma +6[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un sable alimentado por una increíble energía Nuclear. [f 0 1 3]Coste medio de PS/Fr +3/Ma +6[f 0 1 0][n][e]
 
 [msg weapon_095]
 [f 0 5 65278][f 2 1]武器　0x095　１行目[n]武器　0x095　２行目[n][e]
@@ -452,7 +452,7 @@
 [f 0 5 65278][f 2 1]Un objeto coleccionable reciente de una famosa serie de ciencia ficción. [f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
 
 [msg weapon_097]
-[f 0 5 65278][f 2 1]Un objeto coleccionable de una película de cuatro horas ambientada en Arabia.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un objeto coleccionable de una película de cuatro horas ambientada en Arabia.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_098]
 [f 0 5 65278][f 2 1]武器　0x098　１行目[n]武器　0x098　２行目[n][e]
@@ -491,64 +491,64 @@
 [f 0 5 65278][f 2 1]Una resortera con mayor potencia de disparo.[f 0 1 3]Distancia[f 0 1 0][n][e]
 
 [msg weapon_0A4]
-[f 0 5 65278][f 2 1]Incómoda de manejar, pero sus disparos definitivamente duelen. [f 0 1 3]Distancia/Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Incómoda de manejar, pero sus disparos definitivamente duelen. [f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_0A5]
-[f 0 5 65278][f 2 1]Dispara balas con un toxina nerviosa débil.[n][f 0 1 3]Distancia/Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara balas con un toxina nerviosa débil.[n][f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_0A6]
 [f 0 5 65278][f 2 1]Sus balas vuelan tan rápido como cometas. [f 0 1 3]Distancia/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_0A7]
-[f 0 5 65278][f 2 1]Sus balas son del tamaño del puño de un niño.[n][f 0 1 3]Distancia/Prob. Baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Sus balas son del tamaño del puño de un niño.[n][f 0 1 3]Distancia/Prob. baja de Confusión[f 0 1 0][n][e]
 
 [msg weapon_0A8]
-[f 0 5 65278][f 2 1]Dispararlo produce un sonido extrañamente relajante.[n][f 0 1 3]Distancia/Prob. Baja de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispararlo produce un sonido extrañamente relajante.[n][f 0 1 3]Distancia/Prob. baja de Sueño[f 0 1 0][n][e]
 
 [msg weapon_0A9]
 [f 0 5 65278][f 2 1]Las balas de esta resortera dejan auroras en el aire. [f 0 1 3]Distancia/Máx. PE +5%[f 0 1 0][n][e]
 
 [msg weapon_0AA]
-[f 0 5 65278][f 2 1]Más poderosa de lo que aparentan sus disparos. [f 0 1 3]Distancia/Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Más poderosa de lo que aparentan sus disparos. [f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_0AB]
-[f 0 5 65278][f 2 1]Sus balas detienen a los villanos en seco. [f 0 1 3]Distancia/Prob. Media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Sus balas detienen a los villanos en seco. [f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
 
 [msg weapon_0AC]
-[f 0 5 65278][f 2 1]Dispara una lluvia de meteoros de balas rápidas. [f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara una lluvia de meteoros de balas rápidas. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_0AD]
-[f 0 5 65278][f 2 1]Dispara balas con una fuerza enorme. [f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara balas con una fuerza enorme. [f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_0AE]
-[f 0 5 65278][f 2 1]Una honda legendaria que una vez derribó a un gigante. [f 0 1 3]Distancia/Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una honda legendaria que una vez derribó a un gigante. [f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_0AF]
-[f 0 5 65278][f 2 1]Dispara balas del tamaño de balas de cañón. [f 0 1 3]Da隠o Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara balas del tamaño de balas de cañón. [f 0 1 3]Da隠o medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_0B0]
-[f 0 5 65278][f 2 1]Puede disparar estrellas y hacerlas desaparecer del cielo. [f 0 1 3]Distancia/Prob. Media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Puede disparar estrellas y hacerlas desaparecer del cielo. [f 0 1 3]Distancia/Prob. media de Confusión[f 0 1 0][n][e]
 
 [msg weapon_0B1]
-[f 0 5 65278][f 2 1]Resortera de un valiente cazador de tesoros.[n][f 0 1 3]Distancia/Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Resortera de un valiente cazador de tesoros.[n][f 0 1 3]Distancia/Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_0B2]
 [f 0 5 65278][f 2 1]Elegante. Dispara piedras de cinco colores diferentes.[n][f 0 1 3]Distancia/Prob. alta de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_0B3]
-[f 0 5 65278][f 2 1]Una resortera utópica legendaria. [f 0 1 3]Distancia/Coste Medio de PS/Ag +8[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una resortera utópica legendaria. [f 0 1 3]Distancia/Coste medio de PS/Ag +8[f 0 1 0][n][e]
 
 [msg weapon_0B4]
 [f 0 5 65278][f 2 1]武器　0x0B4　１行目[n]武器　0x0B4　２行目[n][e]
 
 [msg weapon_0B5]
-[f 0 5 65278][f 2 1]Mini trebuchet de una película de guerra de la Edad Media. [f 0 1 3]Distancia/Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Mini trebuchet de una película de guerra de la Edad Media. [f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_0B6]
-[f 0 5 65278][f 2 1]Sus balas tienen un efecto anestésico. [f 0 1 3]Distancia/Prob. Baja de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Sus balas tienen un efecto anestésico. [f 0 1 3]Distancia/Prob. baja de Sueño[f 0 1 0][n][e]
 
 [msg weapon_0B7]
-[f 0 5 65278][f 2 1]Las balas de esta resortera estallan al impactar. [f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Las balas de esta resortera estallan al impactar. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_0B8]
 [f 0 5 65278][f 2 1]武器　0x0B8　１行目[n]武器　0x0B8　２行目[n][e]
@@ -593,13 +593,13 @@
 [f 0 5 65278][f 2 1]Un palo de lacrosse de un vibrante tono verde.[n][f 0 1 3]Distancia/Ag +3[f 0 1 0][n][e]
 
 [msg weapon_0C6]
-[f 0 5 65278][f 2 1]Una naginata con una hoja enorme. [f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una naginata con una hoja enorme. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_0C7]
 [f 0 5 65278][f 2 1]Fijada con una afilada pieza de mineral.[n][f 0 1 3]Distancia/Rs +2/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_0C8]
-[f 0 5 65278][f 2 1]Un palo de lacrosse para los no probados. [f 0 1 3]Distancia/Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un palo de lacrosse para los no probados. [f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_0C9]
 [f 0 5 65278][f 2 1]Hecho fortaleciendo la naginata Tsukushi. [f 0 1 3]Distancia/Ag +3[f 0 1 0][n][e]
@@ -608,7 +608,7 @@
 [f 0 5 65278][f 2 1]Una naginata utilizada por Ouchi Sakyo-no-Tayu.[n][f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_0CB]
-[f 0 5 65278][f 2 1]Una naginata futurista con una hoja de fotones.[n][f 0 1 3]Distancia/Prob. Media de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una naginata futurista con una hoja de fotones.[n][f 0 1 3]Distancia/Prob. media de Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg weapon_0CC]
 [f 0 5 65278][f 2 1]Un palo de lacrosse que lleva a su portador hacia la victoria. [f 0 1 3]Distancia/Máx. PS +15%[f 0 1 0][n][e]
@@ -620,7 +620,7 @@
 [f 0 5 65278][f 2 1]Una naginata guiada por el espíritu de un shogun oriental. [f 0 1 3]Distancia/Todas las estad. +1[f 0 1 0][n][e]
 
 [msg weapon_0CF]
-[f 0 5 65278][f 2 1]Desbloquea el potencial completo de su usuario.[n][f 0 1 3]Distancia/Prob. Baja de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Desbloquea el potencial completo de su usuario.[n][f 0 1 3]Distancia/Prob. baja de cualquier Atadura[f 0 1 0][n][e]
 
 [msg weapon_0D0]
 [f 0 5 65278][f 2 1]Una naginata de una famosa artista marcial femenina. [f 0 1 3]Distancia/Máx. PS +15%[f 0 1 0][n][e]
@@ -629,10 +629,10 @@
 [f 0 5 65278][f 2 1]Un arma para aquellos que equilibran el poder y la misericordia. [f 0 1 3]Distancia/Ma +4[f 0 1 0][n][e]
 
 [msg weapon_0D2]
-[f 0 5 65278][f 2 1]Una naginata llena de poder femenino. [f 0 1 3]Distancia/Prob. Alta de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una naginata llena de poder femenino. [f 0 1 3]Distancia/Prob. alta de Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg weapon_0D3]
-[f 0 5 65278][f 2 1]Sostenida por el autodenominado rey demonio del sexto cielo. [f 0 1 3]Distancia/Coste Medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Sostenida por el autodenominado rey demonio del sexto cielo. [f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
 
 [msg weapon_0D4]
 [f 0 5 65278][f 2 1]武器　0x0D4　１行目[n]武器　0x0D4　２行目[n][e]
@@ -644,7 +644,7 @@
 [f 0 5 65278][f 2 1]Un palo tomado de un árbol con corteza resistente.[n][f 0 1 3]Distancia/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_0D7]
-[f 0 5 65278][f 2 1]Un palo de lacrosse extra largo. [f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un palo de lacrosse extra largo. [f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_0D8]
 [f 0 5 65278][f 2 1]武器　0x0D8　１行目[n]武器　0x0D8　２行目[n][e]
@@ -686,19 +686,19 @@
 [f 0 5 65278][f 2 1]Un hacha gigante con una hoja similar a un escudo. [f 0 1 3]Rs +2[f 0 1 0][n][e]
 
 [msg weapon_0E5]
-[f 0 5 65278][f 2 1]Un hacha con un martillo en el lado opuesto.[n][f 0 1 3]Ligera Prob. de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un hacha con un martillo en el lado opuesto.[n][f 0 1 3]Prob. leve de Confusión[f 0 1 0][n][e]
 
 [msg weapon_0E6]
 [f 0 5 65278][f 2 1]Conocida como "hacha de media luna", su hoja es muy afilada. [f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
 
 [msg weapon_0E7]
-[f 0 5 65278][f 2 1]Una roca masiva atada a un asta. [f 0 1 3]Prob. Crítica +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una roca masiva atada a un asta. [f 0 1 3]Prob. crítica +5%/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_0E8]
 [f 0 5 65278][f 2 1]Un hacha grande impresionante. [f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_0E9]
-[f 0 5 65278][f 2 1]Un hacha resistente utilizada por un gran guerrero.[n][f 0 1 3]Prob. Crítica +10%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un hacha resistente utilizada por un gran guerrero.[n][f 0 1 3]Prob. crítica +10%/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_0EA]
 [f 0 5 65278][f 2 1]Un hacha afilada con una hoja amplia y[n]protectora. [f 0 1 3]Rs +4[f 0 1 0][n][e]
@@ -707,28 +707,28 @@
 [f 0 5 65278][f 2 1]Un hacha que puede cambiar de modo para convertirse en un enorme escudo. [f 0 1 3]Rs +3/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_0EC]
-[f 0 5 65278][f 2 1]Un hacha que concedesesperaci吋n mortal.[n][f 0 1 3]Rs +1/Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un hacha que concedesesperaci吋n mortal.[n][f 0 1 3]Rs +1/Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_0ED]
-[f 0 5 65278][f 2 1]Un hacha utilizado por el rey n吋rdico Erik.[n][f 0 1 3]Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un hacha utilizado por el rey n吋rdico Erik.[n][f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_0EE]
 [f 0 5 65278][f 2 1]Un hacha pesada con una hoja creciente.[n][f 0 1 3]Rs +3[f 0 1 0][n][e]
 
 [msg weapon_0EF]
-[f 0 5 65278][f 2 1]Puedestruir los recuerdos de su objetivo.[n][f 0 1 3]Prob. Media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Puedestruir los recuerdos de su objetivo.[n][f 0 1 3]Prob. media de Confusión[f 0 1 0][n][e]
 
 [msg weapon_0F0]
 [f 0 5 65278][f 2 1]Un hacha primordial utilizada en los albores de la humanidad. [f 0 1 3]Máx. PS +15%/Su +2[f 0 1 0][n][e]
 
 [msg weapon_0F1]
-[f 0 5 65278][f 2 1]Se dice que un antiguo héroe-rey la utilizaba.[n][f 0 1 3]Prob. Baja de Atadura de Fuerza/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Se dice que un antiguo héroe-rey la utilizaba.[n][f 0 1 3]Prob. baja de Atadura de Fuerza/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_0F2]
-[f 0 5 65278][f 2 1]El hacha favorito de una tribu de guerreras femeninas.[n][f 0 1 3]Daño por salpicaduras Grave[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El hacha favorito de una tribu de guerreras femeninas.[n][f 0 1 3]Daño grave por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_0F3]
-[f 0 5 65278][f 2 1]Un hacha elegante con un embriagador aroma floral. [f 0 1 3]Coste Medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un hacha elegante con un embriagador aroma floral. [f 0 1 3]Coste medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
 
 [msg weapon_0F4]
 [f 0 5 65278][f 2 1]武器　0x0F4　１行目[n]武器　0x0F4　２行目[n][e]
@@ -788,13 +788,13 @@
 [f 0 5 65278][f 2 1]Guantes con nudillos triangulares afilados.[n][e]
 
 [msg weapon_107]
-[f 0 5 65278][f 2 1]Guantes de cuero con tachuelas en los nudillos.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guantes de cuero con tachuelas en los nudillos.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_108]
-[f 0 5 65278][f 2 1]Pesa lo suficiente como para que sus impactos sean mortales. [f 0 1 3]Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Pesa lo suficiente como para que sus impactos sean mortales. [f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_109]
-[f 0 5 65278][f 2 1]Nudillos que golpean a la velocidad del sonido.[n][f 0 1 3]Prob. Crítica +10%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Nudillos que golpean a la velocidad del sonido.[n][f 0 1 3]Prob. crítica +10%/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_10A]
 [f 0 5 65278][f 2 1]Nudillos de poder excepcional. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
@@ -803,13 +803,13 @@
 [f 0 5 65278][f 2 1]Nudillos fabricados con una aleación especial. [f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
 
 [msg weapon_10C]
-[f 0 5 65278][f 2 1]Guantes de un hombre que vivió por sus puños.[n][f 0 1 3]Prob. Crítica +5%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guantes de un hombre que vivió por sus puños.[n][f 0 1 3]Prob. crítica +5%/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_10D]
 [f 0 5 65278][f 2 1]Guantes mencionados en muchas leyendas separadas.[n][f 0 1 3]Máx. PS +10%/Su +3[f 0 1 0][n][e]
 
 [msg weapon_10E]
-[f 0 5 65278][f 2 1]El usuario puede golpear con todo su peso.[n][f 0 1 3]Prob. Crítica +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El usuario puede golpear con todo su peso.[n][f 0 1 3]Prob. crítica +10%/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_10F]
 [f 0 5 65278][f 2 1]Nudillos modelados según los colmillos de un dragón. [f 0 1 3]Máx. PS +10%/Fr +3[f 0 1 0][n][e]
@@ -818,16 +818,16 @@
 [f 0 5 65278][f 2 1]Guantes diseñados para sobrevivir una guerra Nuclear. [f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
 
 [msg weapon_111]
-[f 0 5 65278][f 2 1]Guantes negros hechos con el pelo de una[n]diosa. [f 0 1 3]Prob. Media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guantes negros hechos con el pelo de una[n]diosa. [f 0 1 3]Prob. media de Atadura Mágica[f 0 1 0][n][e]
 
 [msg weapon_112]
-[f 0 5 65278][f 2 1]Entrega golpes de castigo divino.[n][f 0 1 3]Prob. Crítica +20%/Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Entrega golpes de castigo divino.[n][f 0 1 3]Prob. crítica +20%/Fr +2[f 0 1 0][n][e]
 
 [msg weapon_113]
-[f 0 5 65278][f 2 1]Bendice por un caballo sagrado que gobierna[n]los cielos. [f 0 1 3]Coste Medio de PS/Fr +4/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Bendice por un caballo sagrado que gobierna[n]los cielos. [f 0 1 3]Coste medio de PS/Fr +4/Ag +5[f 0 1 0][n][e]
 
 [msg weapon_114]
-[f 0 5 65278][f 2 1]Nudillos que ocultan los movimientos de tu mano. [f 0 1 3]Coste Medio de PS/Rs +4/Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Nudillos que ocultan los movimientos de tu mano. [f 0 1 3]Coste medio de PS/Rs +4/Ag +4[f 0 1 0][n][e]
 
 [msg weapon_115]
 [f 0 5 65278][f 2 1]Réplica de los guantes usados por un campeón.[n][e]
@@ -836,7 +836,7 @@
 [f 0 5 65278][f 2 1]武器　0x116　１行目[n]武器　0x116　２行目[n][e]
 
 [msg weapon_117]
-[f 0 5 65278][f 2 1]Guantes diseñados para entregar múltiples golpes rápidos.[n][f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Guantes diseñados para entregar múltiples golpes rápidos.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_118]
 [f 0 5 65278][f 2 1]武器　0x118　１行目[n]武器　0x118　２行目[n][e]
@@ -884,28 +884,28 @@
 [f 0 5 65278][f 2 1]Una espada elegante con un mango fácil de manejar. [f 0 1 3]Ma +1/Rs +1/Su +1[f 0 1 0][n][e]
 
 [msg weapon_127]
-[f 0 5 65278][f 2 1]Una espada enorme para aplastar a los enemigos.[n][f 0 1 3]Prob. Crítica +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada enorme para aplastar a los enemigos.[n][f 0 1 3]Prob. crítica +5%/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_128]
-[f 0 5 65278][f 2 1]Una espada cargada de un poco de electricidad.[n][f 0 1 3]Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada cargada de un poco de electricidad.[n][f 0 1 3]Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_129]
-[f 0 5 65278][f 2 1]Una espada que puede dividir un caballo en[n]dos.[n][f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada que puede dividir un caballo en[n]dos.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_12A]
-[f 0 5 65278][f 2 1]Una espada que puede disparar una gran onda[n]de choque. [f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada que puede disparar una gran onda[n]de choque. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_12B]
 [f 0 5 65278][f 2 1]Una katana notablemente gruesa y pesada.[n][f 0 1 3]Máx. PS & PE +5%[f 0 1 0][n][e]
 
 [msg weapon_12C]
-[f 0 5 65278][f 2 1]Recubierta de veneno. Manipular con precaución.[n][f 0 1 3]Prob. Media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Recubierta de veneno. Manipular con precaución.[n][f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
 
 [msg weapon_12D]
 [f 0 5 65278][f 2 1]Su nombre significa "rel茨mpago duro".[n][f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
 
 [msg weapon_12E]
-[f 0 5 65278][f 2 1]Una katana con un tenue resplandor. Increíblemente afilada.[n][f 0 1 3]Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una katana con un tenue resplandor. Increíblemente afilada.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_12F]
 [f 0 5 65278][f 2 1]Una hoja sagrada de leyenda impregnada con el poder del sol. [f 0 1 3]PS +10%/Fr +3[f 0 1 0][n][e]
@@ -914,13 +914,13 @@
 [f 0 5 65278][f 2 1]Una espada empuñada por aquellos que desafían laberintos. [f 0 1 3]Máx. PE +10%/Su +4[f 0 1 0][n][e]
 
 [msg weapon_131]
-[f 0 5 65278][f 2 1]Un palo de golf hecho con un mineral mítico divino.[n][f 0 1 3]Prob. Crítica +20%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un palo de golf hecho con un mineral mítico divino.[n][f 0 1 3]Prob. crítica +20%/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_132]
-[f 0 5 65278][f 2 1]Una espada usada en innumerables batallas.[n][f 0 1 3]Coste Medio de PS/Fr +4/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada usada en innumerables batallas.[n][f 0 1 3]Coste medio de PS/Fr +4/Rs +5[f 0 1 0][n][e]
 
 [msg weapon_133]
-[f 0 5 65278][f 2 1]Se dice que es la primera hoja curva en Japón.[n][f 0 1 3]Coste Medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Se dice que es la primera hoja curva en Japón.[n][f 0 1 3]Coste medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
 
 [msg weapon_134]
 [f 0 5 65278][f 2 1]Una espada larga y pesada de dos manos.[n][e]
@@ -977,13 +977,13 @@
 [f 0 5 65278][f 2 1]Zapatos que hacen que el portador parezca[n]m茨s alto. [f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
 
 [msg weapon_146]
-[f 0 5 65278][f 2 1]Zapatillas con estilo de pies de dinosaurio.[n][f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Zapatillas con estilo de pies de dinosaurio.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_147]
 [f 0 5 65278][f 2 1]Llamativos, pero muy buenos para movimientos rápidos. [f 0 1 3]Máx. PS +10%/Su +1[f 0 1 0][n][e]
 
 [msg weapon_148]
-[f 0 5 65278][f 2 1]Botas con una capa tóxica en las suelas.[n][f 0 1 3]Prob. Media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Botas con una capa tóxica en las suelas.[n][f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
 
 [msg weapon_149]
 [f 0 5 65278][f 2 1]Zapatos ágiles para derribar a los enemigos. [f 0 1 3]Ag +4[f 0 1 0][n][e]
@@ -992,7 +992,7 @@
 [f 0 5 65278][f 2 1]Zapatos bendecidos por el dios de la guerra.[n][f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
 
 [msg weapon_14B]
-[f 0 5 65278][f 2 1]Botas incrustadas con diseños extraños y desconcertantes. [f 0 1 3]Prob. Baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Botas incrustadas con diseños extraños y desconcertantes. [f 0 1 3]Prob. baja de Confusión[f 0 1 0][n][e]
 
 [msg weapon_14C]
 [f 0 5 65278][f 2 1]Zapatos hermosos solo posibles a través de muchos sacrificios. [f 0 1 3]Rs +4[f 0 1 0][n][e]
@@ -1004,16 +1004,16 @@
 [f 0 5 65278][f 2 1]Zapatos fuertes que han sobrevivido a una catástrofe. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
 
 [msg weapon_14F]
-[f 0 5 65278][f 2 1]Botas diseñadas en honor al caballo de Odín.[n][f 0 1 3]Prob. Crítica +10%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Botas diseñadas en honor al caballo de Odín.[n][f 0 1 3]Prob. crítica +10%/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_150]
 [f 0 5 65278][f 2 1]Zapatos usados por alguien amado por un dios.[n][f 0 1 3]Máx. PE +15%/Ma +2[f 0 1 0][n][e]
 
 [msg weapon_151]
-[f 0 5 65278][f 2 1]Brillan como estrellas, golpean como un meteorito.[n][f 0 1 3]Prob. Crítica +20%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Brillan como estrellas, golpean como un meteorito.[n][f 0 1 3]Prob. crítica +20%/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_152]
-[f 0 5 65278][f 2 1]Grebas de piedra extraída de una montaña sagrada.[n][f 0 1 3]Coste Medio de PS/Fr +6/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Grebas de piedra extraída de una montaña sagrada.[n][f 0 1 3]Coste medio de PS/Fr +6/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_153]
 [f 0 5 65278][f 2 1]武器　0x153　１行目[n]武器　0x153　２行目[n][e]
@@ -1082,40 +1082,40 @@
 [f 0 5 65278][f 2 1]Un abanico que dispersa luz de todos los colores. [f 0 1 3]Distancia/Ma +2/Rs +1[f 0 1 0][n][e]
 
 [msg weapon_169]
-[f 0 5 65278][f 2 1]Un abanico artístico que suena como una campana. [f 0 1 3]Distancia/Prob. Media de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico artístico que suena como una campana. [f 0 1 3]Distancia/Prob. media de Sueño[f 0 1 0][n][e]
 
 [msg weapon_16A]
 [f 0 5 65278][f 2 1]Un ventilador grande y brillante para cubrir[n]la cara. [f 0 1 3]Distancia/Ma +4[f 0 1 0][n][e]
 
 [msg weapon_16B]
-[f 0 5 65278][f 2 1]Un abanico rojo hecho de plumas de Suzaku.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico rojo hecho de plumas de Suzaku.[n][f 0 1 3]Daño Leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_16C]
-[f 0 5 65278][f 2 1]Un abanico que se dice que trae riqueza con cada balanceo. [f 0 1 3]Distancia/Money obtained +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico que se dice que trae riqueza con cada balanceo. [f 0 1 3]Distancia/Dinero +10%[f 0 1 0][n][e]
 
 [msg weapon_16D]
 [f 0 5 65278][f 2 1]Un abanico que produce un sonido similar al Viento. [f 0 1 3]Distancia/Ag +3[f 0 1 0][n][e]
 
 [msg weapon_16E]
-[f 0 5 65278][f 2 1]Un abanico preferido por las mujeres nobles coquetas.[n][f 0 1 3]Distancia/Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico preferido por las mujeres nobles coquetas.[n][f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_16F]
 [f 0 5 65278][f 2 1]Su pura belleza inspira Sueños felices.[n][f 0 1 3]Distancia/Ma +2/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_170]
-[f 0 5 65278][f 2 1]Un abanico empapado en l茨grimas de alegr胤a[n]y afecto. [f 0 1 3]Distancia/Prob. Media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico empapado en l茨grimas de alegr胤a[n]y afecto. [f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
 
 [msg weapon_171]
 [f 0 5 65278][f 2 1]Un abanico que guía a los enemigos hacia el paraíso.[n][f 0 1 3]Distancia/Máx. PE +20%[f 0 1 0][n][e]
 
 [msg weapon_172]
-[f 0 5 65278][f 2 1]Un abanico que representa la vida y la muerte.[n][f 0 1 3]Distancia/Coste Medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico que representa la vida y la muerte.[n][f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
 
 [msg weapon_173]
 [f 0 5 65278][f 2 1]武器　0x173　１行目[n]武器　0x173　２行目[n][e]
 
 [msg weapon_174]
-[f 0 5 65278][f 2 1]Un abanico hecho con plumas de un gran pájaro.[n][f 0 1 3]Daño Leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un abanico hecho con plumas de un gran pájaro.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_175]
 [f 0 5 65278][f 2 1]武器　0x175　１行目[n]武器　0x175　２行目[n][e]
@@ -1166,52 +1166,52 @@
 [f 0 5 65278][f 2 1]Su tierno nombre oculta su letalidad.[n][f 0 1 3]Su +2[f 0 1 0][n][e]
 
 [msg weapon_185]
-[f 0 5 65278][f 2 1]Una garra que recuerda al enemigo por qué los osos son peligrosos.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una garra que recuerda al enemigo por qué los osos son peligrosos.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_186]
 [f 0 5 65278][f 2 1]Hecho de robustas garras reptilianas.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_187]
-[f 0 5 65278][f 2 1]Una garra que rasga el aire alrededor de su objetivo.[n][f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una garra que rasga el aire alrededor de su objetivo.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_188]
-[f 0 5 65278][f 2 1]Una garra para volverse rasposa y/o contundente.[n][f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una garra para volverse rasposa y/o contundente.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_189]
-[f 0 5 65278][f 2 1]Garras con hojas en forma de rayo.[n][f 0 1 3]Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Garras con hojas en forma de rayo.[n][f 0 1 3]Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_18A]
-[f 0 5 65278][f 2 1]Garras con taladros que perforan los cielos.[n][f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Garras con taladros que perforan los cielos.[n][f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_18B]
 [f 0 5 65278][f 2 1]Sus golpes generan ondas de choque a la velocidad del sonido. [f 0 1 3]Ag +4[f 0 1 0][n][e]
 
 [msg weapon_18C]
-[f 0 5 65278][f 2 1]Garras impregnadas de veneno. Equípalas con cuidado.[n][f 0 1 3]Prob. Media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Garras impregnadas de veneno. Equípalas con cuidado.[n][f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
 
 [msg weapon_18D]
-[f 0 5 65278][f 2 1]Modeladas a imagen del arma secreta.[n][f 0 1 3]Distancia/Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Modeladas a imagen del arma secreta.[n][f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_18E]
-[f 0 5 65278][f 2 1]Una garra que corta fácilmente el acero. [f 0 1 3]Prob. Media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una garra que corta fácilmente el acero. [f 0 1 3]Prob. media de Maldición[f 0 1 0][n][e]
 
 [msg weapon_18F]
 [f 0 5 65278][f 2 1]Una garra hecha de un metal muy precioso.[n][f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_190]
-[f 0 5 65278][f 2 1]Garras malditas que pueden desgarrar cualquier cosa. [f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Garras malditas que pueden desgarrar cualquier cosa. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_191]
-[f 0 5 65278][f 2 1]Garras de hueso de dragón potenciadas por las estrellas del destino. [f 0 1 3]Prob. Alta de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Garras de hueso de dragón potenciadas por las estrellas del destino. [f 0 1 3]Prob. alta de Confusión[f 0 1 0][n][e]
 
 [msg weapon_192]
-[f 0 5 65278][f 2 1]Una garra de bestia afilada para la venganza.[n][f 0 1 3]Coste Medio de PS/Rs +6/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una garra de bestia afilada para la venganza.[n][f 0 1 3]Coste medio de PS/Rs +6/Su +3[f 0 1 0][n][e]
 
 [msg weapon_193]
 [f 0 5 65278][f 2 1]武器　0x193　１行目[n]武器　0x193　２行目[n][e]
 
 [msg weapon_194]
-[f 0 5 65278][f 2 1]Garras viciosas para un alegre frenesí de cortes.[n][f 0 1 3]Prob. Baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Garras viciosas para un alegre frenesí de cortes.[n][f 0 1 3]Prob. baja de Confusión[f 0 1 0][n][e]
 
 [msg weapon_195]
 [f 0 5 65278][f 2 1]武器　0x195　１行目[n]武器　0x195　２行目[n][e]
@@ -1265,7 +1265,7 @@
 [f 0 5 65278][f 2 1]Una placa de hierro incre胤blemente pesada.[n][f 0 1 3]Rs +3[f 0 1 0][n][e]
 
 [msg weapon_1A6]
-[f 0 5 65278][f 2 1]Una placa de metal que otorga poder a su portador.[n][f 0 1 3]Prob. Crítica +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una placa de metal que otorga poder a su portador.[n][f 0 1 3]Prob. crítica +5%/Rs +2[f 0 1 0][n][e]
 
 [msg weapon_1A7]
 [f 0 5 65278][f 2 1]Utilizado en fábricas para protegerse de las chispas. [f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
@@ -1277,7 +1277,7 @@
 [f 0 5 65278][f 2 1]Un escudo redondo hecho para soldados de primera línea. [f 0 1 3]Rs +4[f 0 1 0][n][e]
 
 [msg weapon_1AA]
-[f 0 5 65278][f 2 1]Un escudo que emite un gas somnífero. [f 0 1 3]Prob. Media de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un escudo que emite un gas somnífero. [f 0 1 3]Prob. media de Sueño[f 0 1 0][n][e]
 
 [msg weapon_1AB]
 [f 0 5 65278][f 2 1]Una placa hecha de una aleación resistente al calor.[n][f 0 1 3]Máx. PS +10%/Rs +2[f 0 1 0][n][e]
@@ -1295,13 +1295,13 @@
 [f 0 5 65278][f 2 1]Un escudo majestuoso y poderoso. [f 0 1 3]Máx. PS +15%/Su +3[f 0 1 0][n][e]
 
 [msg weapon_1B0]
-[f 0 5 65278][f 2 1]Un escudo sagrado adornado con los Cinco Reyes de la Sabiduría. [f 0 1 3]Prob. Media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un escudo sagrado adornado con los Cinco Reyes de la Sabiduría. [f 0 1 3]Prob. media de Confusión[f 0 1 0][n][e]
 
 [msg weapon_1B1]
 [f 0 5 65278][f 2 1]Un escudo brutal que desvía todas las cosas. [f 0 1 3]Máx. PS +20%[f 0 1 0][n][e]
 
 [msg weapon_1B2]
-[f 0 5 65278][f 2 1]Litografía que representa la antigua historia natural. [f 0 1 3]Coste Medio de PS/Fr +4/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Litografía que representa la antigua historia natural. [f 0 1 3]Coste medio de PS/Fr +4/Rs +5[f 0 1 0][n][e]
 
 [msg weapon_1B3]
 [f 0 5 65278][f 2 1]武器　0x1B3　１行目[n]武器　0x1B3　２行目[n][e]
@@ -1361,7 +1361,7 @@
 [f 0 5 65278][f 2 1]Una pistola de alto calibre utilizada en el salvaje oeste. [f 0 1 3]Distancia/Su +2[f 0 1 0][n][e]
 
 [msg weapon_1C6]
-[f 0 5 65278][f 2 1]Un revólver Magnum fabricado con materiales modernos.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un revólver Magnum fabricado con materiales modernos.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_1C7]
 [f 0 5 65278][f 2 1]Emite una canci吋n para alejar a las almas perdidas.[n][f 0 1 3]Distancia/Rs +1/Ag +2[f 0 1 0][n][e]
@@ -1370,7 +1370,7 @@
 [f 0 5 65278][f 2 1]Nombrado por un experimento en la búsqueda de la felicidad. [f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_1C9]
-[f 0 5 65278][f 2 1]Relativamente fácil de usar para un arma de su tamaño. [f 0 1 3]Distancia/Prob. Baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Relativamente fácil de usar para un arma de su tamaño. [f 0 1 3]Distancia/Prob. baja de Env.[f 0 1 0][n][e]
 
 [msg weapon_1CA]
 [f 0 5 65278][f 2 1]Una pistola con un pequeño escudo adjunto. [f 0 1 3]Distancia/Rs +5[f 0 1 0][n][e]
@@ -1379,7 +1379,7 @@
 [f 0 5 65278][f 2 1]Una pistola marcada como un "desintegrador antiextraterrestre". [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
 
 [msg weapon_1CC]
-[f 0 5 65278][f 2 1]Un arma pintada de carmes胤 en su ca隠吋n.[n][f 0 1 3]Distancia/Prob. Media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arma pintada de carmes胤 en su ca隠吋n.[n][f 0 1 3]Distancia/Prob. media de Maldición[f 0 1 0][n][e]
 
 [msg weapon_1CD]
 [f 0 5 65278][f 2 1]Un arma plateada mística. Sus balas van directo al corazón. [f 0 1 3]Distancia/Ma +4[f 0 1 0][n][e]
@@ -1391,19 +1391,19 @@
 [f 0 5 65278][f 2 1]Un arma demoníaca con munición infinita.[n][f 0 1 3]Distancia/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_1D0]
-[f 0 5 65278][f 2 1]La pistola de un verdugo con un gatillo sensible. [f 0 1 3]Distancia/Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]La pistola de un verdugo con un gatillo sensible. [f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_1D1]
-[f 0 5 65278][f 2 1]Magnéticamente cargada, la "suerte" ya no es un problema. [f 0 1 3]Distancia/Prob. Alta de maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Magnéticamente cargada, la "suerte" ya no es un problema. [f 0 1 3]Distancia/Prob. alta de maldición[f 0 1 0][n][e]
 
 [msg weapon_1D2]
-[f 0 5 65278][f 2 1]Un arma encantada que envuelve a los enemigos en llamas. [f 0 1 3]Distancia/Coste Medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arma encantada que envuelve a los enemigos en llamas. [f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
 
 [msg weapon_1D3]
 [f 0 5 65278][f 2 1]武器　0x1D3　１行目[n]武器　0x1D3　２行目[n][e]
 
 [msg weapon_1D4]
-[f 0 5 65278][f 2 1]Contiene azufre, salitre y carbón vegetal.[n][f 0 1 3]Distancia/Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Contiene azufre, salitre y carbón vegetal.[n][f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_1D5]
 [f 0 5 65278][f 2 1]武器　0x1D5　１行目[n]武器　0x1D5　２行目[n][e]
@@ -1454,46 +1454,46 @@
 [f 0 5 65278][f 2 1]Una llave ajustable para apretar tuercas.[n][e]
 
 [msg weapon_1E5]
-[f 0 5 65278][f 2 1]La hoja de este kunai está cubierta de toxinas. [f 0 1 3]Prob. Media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]La hoja de este kunai está cubierta de toxinas. [f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
 
 [msg weapon_1E6]
 [f 0 5 65278][f 2 1]Un cuchillo robusto para cortar enemigos. [f 0 1 3]Ag +2[f 0 1 0][n][e]
 
 [msg weapon_1E7]
-[f 0 5 65278][f 2 1]Un kunai hecho para ser lanzado tan r茨pido[n]como un rayo. [f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un kunai hecho para ser lanzado tan r茨pido[n]como un rayo. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_1E8]
-[f 0 5 65278][f 2 1]Kunai muy Leve utilizado en asesinatos.[n][f 0 1 3]Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Kunai muy Leve utilizado en asesinatos.[n][f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_1E9]
-[f 0 5 65278][f 2 1]Una peque隠a katana que hace cortes invisibles.[n][f 0 1 3]Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una peque隠a katana que hace cortes invisibles.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_1EA]
 [f 0 5 65278][f 2 1]Un kunai más oscuro que un cielo crepuscular.[n][f 0 1 3]Ma +2/Ag +1[f 0 1 0][n][e]
 
 [msg weapon_1EB]
-[f 0 5 65278][f 2 1]Un kunai negro como el azabache con un aura siniestra.[n][f 0 1 3]Prob. Media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un kunai negro como el azabache con un aura siniestra.[n][f 0 1 3]Prob. media de Maldición[f 0 1 0][n][e]
 
 [msg weapon_1EC]
-[f 0 5 65278][f 2 1]Un kunai con forma de hoja de camelia.[n][f 0 1 3]Prob. Baja de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un kunai con forma de hoja de camelia.[n][f 0 1 3]Prob. baja de Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg weapon_1ED]
-[f 0 5 65278][f 2 1]Una navaja que se asemeja a la nieve sobre una hoja de pino.[n][f 0 1 3]Prob. Crítica +10%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una navaja que se asemeja a la nieve sobre una hoja de pino.[n][f 0 1 3]Prob. crítica +10%/Su +3[f 0 1 0][n][e]
 
 [msg weapon_1EE]
 [f 0 5 65278][f 2 1]Un kunai empuñado por un ninja de cierto renombre. [f 0 1 3]Ag +5[f 0 1 0][n][e]
 
 [msg weapon_1EF]
-[f 0 5 65278][f 2 1]Un kunai empuñado en innumerables batallas.[n][f 0 1 3]Prob. Media de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un kunai empuñado en innumerables batallas.[n][f 0 1 3]Prob. media de Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg weapon_1F0]
-[f 0 5 65278][f 2 1]Un kunai mítico que crea ilusiones.[n][f 0 1 3]Prob. Crítica +20%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un kunai mítico que crea ilusiones.[n][f 0 1 3]Prob. crítica +20%/Ag +2[f 0 1 0][n][e]
 
 [msg weapon_1F1]
-[f 0 5 65278][f 2 1]Sostenido por un dios que deambulaba por el cielo y la tierra. [f 0 1 3]Coste Medio de PS/Ag +7/Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Sostenido por un dios que deambulaba por el cielo y la tierra. [f 0 1 3]Coste medio de PS/Ag +7/Su +2[f 0 1 0][n][e]
 
 [msg weapon_1F2]
-[f 0 5 65278][f 2 1]Un cuchillo que se dice que invita a la iluminación.[n][f 0 1 3]Coste Medio de PS/Ma +4/Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un cuchillo que se dice que invita a la iluminación.[n][f 0 1 3]Coste medio de PS/Ma +4/Ag +4[f 0 1 0][n][e]
 
 [msg weapon_1F3]
 [f 0 5 65278][f 2 1]Un cuchillo tan Leve como el Viento.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
@@ -1559,7 +1559,7 @@
 [f 0 5 65278][f 2 1]Una espada que infunde valentía en quien la empuña. [f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
 
 [msg weapon_208]
-[f 0 5 65278][f 2 1]Un wakizashi con una hoja de 60 cm.[n][f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un wakizashi con una hoja de 60 cm.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_209]
 [f 0 5 65278][f 2 1]Una espada entregada a un hábil cazador de monstruos.[n][f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
@@ -1574,19 +1574,19 @@
 [f 0 5 65278][f 2 1]Una hoja con forma de luna creciente. Absorbe la luz de la luna.[n][f 0 1 3]Máx. PE +15%/Ma +2[f 0 1 0][n][e]
 
 [msg weapon_20D]
-[f 0 5 65278][f 2 1]Una espada forjada por un legendario herrero.[n][f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada forjada por un legendario herrero.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_20E]
-[f 0 5 65278][f 2 1]Una espada de rey, llevada en una mesa redonda.[n][f 0 1 3]Prob. Crítica +20%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada de rey, llevada en una mesa redonda.[n][f 0 1 3]Prob. crítica +20%/Ma +2[f 0 1 0][n][e]
 
 [msg weapon_20F]
-[f 0 5 65278][f 2 1]Una espada brillante sostenida por el Arcángel Michael. [f 0 1 3]Coste Medio de PS/Fr +4/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada brillante sostenida por el Arcángel Michael. [f 0 1 3]Coste medio de PS/Fr +4/Ma +5[f 0 1 0][n][e]
 
 [msg weapon_210]
 [f 0 5 65278][f 2 1]武器　 0x210 　１行目[n]武器　 0x210 　２行目[n][e]
 
 [msg weapon_211]
-[f 0 5 65278][f 2 1]Una hoja con el centro de gravedad en la punta.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una hoja con el centro de gravedad en la punta.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_212]
 [f 0 5 65278][f 2 1]Un cuchillo creado por alguien desconocido.[n][f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
@@ -1649,37 +1649,37 @@
 [f 0 5 65278][f 2 1]Un arco fácil de usar, curvado en forma de "M".[n][f 0 1 3]Distancia[f 0 1 0][n][e]
 
 [msg weapon_226]
-[f 0 5 65278][f 2 1]Un arco que puede disparar flechas perforadoras.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arco que puede disparar flechas perforadoras.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_227]
 [f 0 5 65278][f 2 1]Un arco atado firmemente con rattan. [f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_228]
-[f 0 5 65278][f 2 1]Dispara flechas que silencian al oponente.[n][f 0 1 3]Distancia/Prob. Media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara flechas que silencian al oponente.[n][f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
 
 [msg weapon_229]
 [f 0 5 65278][f 2 1]Un arco reforzado con bamb雨 fino. [f 0 1 3]Distancia/Máx. PS & PE +5%[f 0 1 0][n][e]
 
 [msg weapon_22A]
-[f 0 5 65278][f 2 1]Un arco largo utilizado por el antiguo clan Fuuma. [f 0 1 3]Distancia/Prob. Baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arco largo utilizado por el antiguo clan Fuuma. [f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
 
 [msg weapon_22B]
 [f 0 5 65278][f 2 1]Un hermoso arco utilizado por una diosa de la luna. [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
 
 [msg weapon_22C]
-[f 0 5 65278][f 2 1]Un arco hecho para disparar flechas envenenadas.[n][f 0 1 3]Distancia/Prob. Media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arco hecho para disparar flechas envenenadas.[n][f 0 1 3]Distancia/Prob. media de Env.[f 0 1 0][n][e]
 
 [msg weapon_22D]
 [f 0 5 65278][f 2 1]Un arco preferido por las diosas de las estrellas.[n][f 0 1 3]Distancia/Ma +3[f 0 1 0][n][e]
 
 [msg weapon_22E]
-[f 0 5 65278][f 2 1]Atrapa a los mortales en el abrazo de la tierra.[n][f 0 1 3]Distancia/Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Atrapa a los mortales en el abrazo de la tierra.[n][f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_22F]
-[f 0 5 65278][f 2 1]El arco de una poderosa guerrera.[n][f 0 1 3]Distancia/Prob. Alta de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El arco de una poderosa guerrera.[n][f 0 1 3]Distancia/Prob. alta de Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg weapon_230]
-[f 0 5 65278][f 2 1]La idea platónica de un arco. Perfecto en su forma. [f 0 1 3]Distancia/Coste Medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]La idea platónica de un arco. Perfecto en su forma. [f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
 
 [msg weapon_231]
 [f 0 5 65278][f 2 1]武器　0x231　１行目[n]武器　0x231　２行目[n][e]
@@ -1751,22 +1751,22 @@
 [f 0 5 65278][f 2 1]Una espada de estocada para duelistas novatos.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
 
 [msg weapon_248]
-[f 0 5 65278][f 2 1]Una espada ropera reforzada para obtener más potencia.[n][f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada ropera reforzada para obtener más potencia.[n][f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_249]
-[f 0 5 65278][f 2 1]La sombra de la hoja parece bailar en el juego de espadas.[n][f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]La sombra de la hoja parece bailar en el juego de espadas.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_24A]
 [f 0 5 65278][f 2 1]Una noble espada ropera que otorga Sueño eterno.[n][f 0 1 3]Máx. PE +10%/Ma +2[f 0 1 0][n][e]
 
 [msg weapon_24B]
-[f 0 5 65278][f 2 1]Una hoja en forma de cono sin filo con una punta afilada.[n][f 0 1 3]Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una hoja en forma de cono sin filo con una punta afilada.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_24C]
-[f 0 5 65278][f 2 1]Una espada ropera maldita, teñida de escarlata con sangre. [f 0 1 3]Prob. Baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada ropera maldita, teñida de escarlata con sangre. [f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
 
 [msg weapon_24D]
-[f 0 5 65278][f 2 1]Una espada de estocada con una punta más afilada y estrecha. [f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada de estocada con una punta más afilada y estrecha. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_24E]
 [f 0 5 65278][f 2 1]Una espada mágica con un resplandor insólito.[n][f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
@@ -1775,13 +1775,13 @@
 [f 0 5 65278][f 2 1]La hoja tan afilada que apenas se puede ver. [f 0 1 3]Máx. PE +20%[f 0 1 0][n][e]
 
 [msg weapon_250]
-[f 0 5 65278][f 2 1]Una espada dedicada a los dioses de la cosecha.[n][f 0 1 3]Coste Medio de PS/Ma +5/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una espada dedicada a los dioses de la cosecha.[n][f 0 1 3]Coste medio de PS/Ma +5/Ag +3[f 0 1 0][n][e]
 
 [msg weapon_251]
 [f 0 5 65278][f 2 1]武器　0x251　１行目[n]武器　0x251　２行目[n][e]
 
 [msg weapon_252]
-[f 0 5 65278][f 2 1]Una hoja delgada y afilada con la empuñadura decorada.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una hoja delgada y afilada con la empuñadura decorada.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_253]
 [f 0 5 65278][f 2 1]武器　0x253　１行目[n]武器　0x253　２行目[n][e]
@@ -1844,16 +1844,16 @@
 [f 0 5 65278][f 2 1]Encantadoramente con forma de aguijón de abeja. [f 0 1 3]Distancia/Máx. PE +5%/Ma +2[f 0 1 0][n][e]
 
 [msg weapon_267]
-[f 0 5 65278][f 2 1]Una lanza brutal con una cabeza en forma de hoja de sauce.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una lanza brutal con una cabeza en forma de hoja de sauce.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_268]
-[f 0 5 65278][f 2 1]Una larga lanza con punta impregnada de veneno de escorpión.[n][f 0 1 3]Distancia/Prob. Media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una larga lanza con punta impregnada de veneno de escorpión.[n][f 0 1 3]Distancia/Prob. media de Env.[f 0 1 0][n][e]
 
 [msg weapon_269]
 [f 0 5 65278][f 2 1]Una lanza bifurcada grabada con una flor de cerezo. [f 0 1 3]Distancia/Máx. PS & PE +5%[f 0 1 0][n][e]
 
 [msg weapon_26A]
-[f 0 5 65278][f 2 1]El doble del tamaño de las lanzas normales.[n][f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El doble del tamaño de las lanzas normales.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_26B]
 [f 0 5 65278][f 2 1]Una de las Tres Grandes Lanzas de Japón.[n][f 0 1 3]Distancia/Fr +3/Rs +2[f 0 1 0][n][e]
@@ -1865,19 +1865,19 @@
 [f 0 5 65278][f 2 1]Una lanza hecha para un emperador romano.[n][f 0 1 3]Distancia/Máx. PS +15%[f 0 1 0][n][e]
 
 [msg weapon_26E]
-[f 0 5 65278][f 2 1]Parte en dos a cualquier libélula que aterrice en ella. [f 0 1 3]Distancia/Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Parte en dos a cualquier libélula que aterrice en ella. [f 0 1 3]Distancia/Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_26F]
-[f 0 5 65278][f 2 1]Usada por un dios de la creaci吋n y la[n]destrucci吋n. [f 0 1 3]Distancia/Prob. Alta de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Usada por un dios de la creaci吋n y la[n]destrucci吋n. [f 0 1 3]Distancia/Prob. alta de Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg weapon_270]
-[f 0 5 65278][f 2 1]Una lanza arcana utilizada por una reina guerrera. [f 0 1 3]Distancia/Coste Medio de PS/Fr +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una lanza arcana utilizada por una reina guerrera. [f 0 1 3]Distancia/Coste medio de PS/Fr +7[f 0 1 0][n][e]
 
 [msg weapon_271]
 [f 0 5 65278][f 2 1]武器　0x271　１行目[n]武器　0x271　２行目[n][e]
 
 [msg weapon_272]
-[f 0 5 65278][f 2 1]Una lanza versátil para derribar enemigos. [f 0 1 3]Distancia/Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una lanza versátil para derribar enemigos. [f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_273]
 [f 0 5 65278][f 2 1]武器　0x273　１行目[n]武器　0x273　２行目[n][e]
@@ -1937,43 +1937,43 @@
 [f 0 5 65278][f 2 1]Un arma contundente compuesta por un mango largo y un trozo de metal.[n][e]
 
 [msg weapon_286]
-[f 0 5 65278][f 2 1]Un mazo con clavos de metal encajados en su punta.[n][f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un mazo con clavos de metal encajados en su punta.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_287]
 [f 0 5 65278][f 2 1]Un martillo grande con un "100t" impreso en él.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
 
 [msg weapon_288]
-[f 0 5 65278][f 2 1]Un arma contundente hecha por un asaltante en potencia.[n][f 0 1 3]Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un arma contundente hecha por un asaltante en potencia.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_289]
 [f 0 5 65278][f 2 1]Un martillo con un propulsor en su extremo posterior. [f 0 1 3]Ag +4[f 0 1 0][n][e]
 
 [msg weapon_28A]
-[f 0 5 65278][f 2 1]Un martillo para romper objetivos.[n][f 0 1 3]Prob. Media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un martillo para romper objetivos.[n][f 0 1 3]Prob. media de Confusión[f 0 1 0][n][e]
 
 [msg weapon_28B]
-[f 0 5 65278][f 2 1]Dice "Escuela Gekkoukan". Curiosamente fácil de balancear. [f 0 1 3]Prob. Media de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dice "Escuela Gekkoukan". Curiosamente fácil de balancear. [f 0 1 3]Prob. media de cualquier Atadura[f 0 1 0][n][e]
 
 [msg weapon_28C]
 [f 0 5 65278][f 2 1]Un martillo que puede reparar o destruir.[n][f 0 1 3]Máx. PS +10%/Fr +3[f 0 1 0][n][e]
 
 [msg weapon_28D]
-[f 0 5 65278][f 2 1]Un mazo usado por un infame asesino.[n][f 0 1 3]Prob. Media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un mazo usado por un infame asesino.[n][f 0 1 3]Prob. media de Maldición[f 0 1 0][n][e]
 
 [msg weapon_28E]
-[f 0 5 65278][f 2 1]Un martillo empuñado por un dios del trueno.[n][f 0 1 3]Prob. Crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un martillo empuñado por un dios del trueno.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
 
 [msg weapon_28F]
-[f 0 5 65278][f 2 1]Un martillo sostenido por un rey pacificador.[n][f 0 1 3]Prob. Crítica +20%/Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un martillo sostenido por un rey pacificador.[n][f 0 1 3]Prob. crítica +20%/Fr +2[f 0 1 0][n][e]
 
 [msg weapon_290]
-[f 0 5 65278][f 2 1]Un bastón con dos serpientes enroscadas alrededor de palabras sagradas. [f 0 1 3]Coste Medio de PS/Fr +5/Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un bastón con dos serpientes enroscadas alrededor de palabras sagradas. [f 0 1 3]Coste medio de PS/Fr +5/Rs +4[f 0 1 0][n][e]
 
 [msg weapon_291]
 [f 0 5 65278][f 2 1]武器　0x291　１行目[n]武器　0x291　２行目[n][e]
 
 [msg weapon_292]
-[f 0 5 65278][f 2 1]Un martillo tosco utilizado por colosos torpes.[n][f 0 1 3]Prob. Crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Un martillo tosco utilizado por colosos torpes.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
 
 [msg weapon_293]
 [f 0 5 65278][f 2 1]武器　0x293　１行目[n]武器　0x293　２行目[n][e]
@@ -2036,40 +2036,40 @@
 [f 0 5 65278][f 2 1]Una unidad manual que dispara balas desde tres dedos. [f 0 1 3]Distancia[f 0 1 0][n][e]
 
 [msg weapon_2A7]
-[f 0 5 65278][f 2 1]Dispara un proyectil metálico mediante electromagnetismo.[n][f 0 1 3]Daño de perforación Medio[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara un proyectil metálico mediante electromagnetismo.[n][f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
 
 [msg weapon_2A8]
-[f 0 5 65278][f 2 1]Una unidad manual que dispara desde todos los dedos.[n][f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Una unidad manual que dispara desde todos los dedos.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_2A9]
-[f 0 5 65278][f 2 1]El 雨ltimo modelo del arma anti-sombras.[n][f 0 1 3]Distancia/Prob. Crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]El 雨ltimo modelo del arma anti-sombras.[n][f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
 
 [msg weapon_2AA]
-[f 0 5 65278][f 2 1]Bellamente elaborado a partir de materia oscura. [f 0 1 3]Distancia/Prob. Baja de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Bellamente elaborado a partir de materia oscura. [f 0 1 3]Distancia/Prob. baja de Maldición[f 0 1 0][n][e]
 
 [msg weapon_2AB]
-[f 0 5 65278][f 2 1]Dispara cal viva para atrapar al oponente.[n][f 0 1 3]Distancia/Prob. Media de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara cal viva para atrapar al oponente.[n][f 0 1 3]Distancia/Prob. media de Atadura de Agilidad[f 0 1 0][n][e]
 
 [msg weapon_2AC]
-[f 0 5 65278][f 2 1]Dispara balas conocidas como "beso de dios".[n][f 0 1 3]Daño Medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara balas conocidas como "beso de dios".[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_2AD]
-[f 0 5 65278][f 2 1]Dispara balas con una larga y rica historia.[n][f 0 1 3]Distancia/Prob. Media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Dispara balas con una larga y rica historia.[n][f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
 
 [msg weapon_2AE]
-[f 0 5 65278][f 2 1]Provoca aniquilación desdentro del[n]enemigo. [f 0 1 3]Distancia/Prob. Alta de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Provoca aniquilación desdentro del[n]enemigo. [f 0 1 3]Distancia/Prob. alta de Atadura de Fuerza[f 0 1 0][n][e]
 
 [msg weapon_2AF]
-[f 0 5 65278][f 2 1]Nombrada por la boquilla de Dios.[n][f 0 1 3]Distancia/Coste Medio de PS/Rs +7[n][e]
+[f 0 5 65278][f 2 1]Nombrada por la boquilla de Dios.[n][f 0 1 3]Distancia/Coste medio de PS/Rs +7[n][e]
 
 [msg weapon_2B0]
 [f 0 5 65278][f 2 1]武器　0x2B0　１行目[n]武器　0x2B0　２行目[n][e]
 
 [msg weapon_2B1]
-[f 0 5 65278][f 2 1]Capaz de disparar proyectiles explosivos.[n][f 0 1 3]Daño Leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Capaz de disparar proyectiles explosivos.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
 
 [msg weapon_2B2]
-[f 0 5 65278][f 2 1]Tiene seis configuraciones de disparo diferentes.[n][f 0 1 3]Daño de perforación Leve[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]Tiene seis configuraciones de disparo diferentes.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
 
 [msg weapon_2B3]
 [f 0 5 65278][f 2 1]武器　0x2B3　１行目[n]武器　0x2B3　２行目[n][e]

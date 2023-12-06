@@ -22,6 +22,7 @@ Medium -> medio
 Heavy -> grave
 Severe -> severo
 Colossal -> Colossal
+Extreme -> Extremo
 # Elements
 Psy -> psicoquinético/psi.
 # Abreviaturas:
