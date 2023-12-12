@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... 夷Son interruptores?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28031]Nuestra predicci吋n fue correcta. Si esos interruptores son para la iluminaci吋n de la estatua...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28031]Nuestra predicci吋n fue correcta. Si esos interruptores son para las luces de la estatua...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Podemos apagar las luces desde aqu胤 abajo?[n][f 1 3 65535][f 1 1][e]
@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Solo le dar胤amos a Kamoshidaman nuestra ubicaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Entonces vamos a enga隠ar a ese polic胤a para[n]que se vaya? 夷C吋mo nos deshacemos de 姻l?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Entonces vamos a enga隠ar a ese polic胤a? 夷C吋mo nos deshacemos de 姻l?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_010 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Hora de un poco de atractivo sexual.[f 2 7 1 20 0 32][e]
@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21015][f 6 1 2 0 0 4]Entonces... 夷Panther?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 3]No, no podemos dejar toda esta operaci吋n en manos de sus habilidades de actuaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 3]No, no podemos dejar toda la operaci吋n en sus habilidades de actuaci吋n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0]Es lo que pens姻.[n][f 1 3 65535][f 1 1][e]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No es el momento de usar ese uniforme?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24067]Correcto. Es el momento de hacer uso de ese uniforme.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24067]Correcto. Es el momento de usar ese uniforme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 21012][f 6 1 2 0 0 4]Ohhh, 夷crees que podr胤a bajar la guardia si se le acerca un lindo animal?[n][f 1 3 65535][f 1 1][e]
@@ -66,7 +66,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 23 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24114][f 6 1 2 0 0 4]夷No ser茨 ahora el momento de usar ese uniforme?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24114][f 6 1 2 0 0 4]夷No ser茨 el momento de usar ese uniforme?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 28 0 0 0][f 3 1 1 0 0 0]Ah, s胤, el uniforme de polic胤a.[n][f 1 3 65535][f 1 1][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Entonces, 夷eso significa que es mi turno?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22063]夷No ser茨 peligroso? Quiero decir, no est茨s exactamente acostumbrado a este tipo de cosas, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22063]夷No ser茨 peligroso? Quiero decir, no est茨s acostumbrada a este tipo de cosas, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]斡Estar姻 bien! He pasado por situaciones bastante dif胤ciles antes.[n][f 1 3 65535][f 1 1][e]
@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1]Contamos contigo.[f 2 7 1 20 0 32][e]
 
 [msg MSG_027 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19024]斡Gracias! Bueno, voy a ir a cambiarme all胤 r茨pido...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19024]斡Gracias! Bueno, voy a ir a cambiarme r茨pido...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 1 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]斡Ta-daaah! 夷Qu姻 piensas? 夷Me queda bien?[n][f 1 3 65535][f 1 1][e]
@@ -112,7 +112,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 1 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19067]斡Genial! 斡Ahora, mira esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 1][f 3 1 1 0 0 0]Completamente disfrazado, [f 6 1 27 0 0] se acerc吋 para hablar con el polic胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 1][f 3 1 1 0 0 0]Completamente disfrazada, [f 6 1 27 0 0] se acerc吋 a hablar con el polic胤a...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 46 1 0 3][f 4 6 19 12 1 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]斡Se隠or! Me han asignado para hacerme cargo de esta 茨rea, 斡se隠or![n][f 1 3 65535][f 1 1][e]
@@ -174,7 +174,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 4 1 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19036]斡Oye, no es justo! 斡Mi disfraz era perfecto y todo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Polic胤a De Tall]]
-[f 0 5 65278][f 2 1][f 4 6 46 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Te entregar姻 ahora mismo. 斡Parece que ser茨s parte de la exhibici吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 46 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Te entregar姻 ahora mismo. 斡Parece que ser茨s parte de la exposici吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esto es malo. 斡V茨mos![n][f 1 3 65535][f 1 1][e]

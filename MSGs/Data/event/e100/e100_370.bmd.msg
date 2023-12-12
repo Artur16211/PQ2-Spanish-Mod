@@ -17,10 +17,10 @@
 [f 0 5 65278][f 2 1][f 4 6 65 6 0 4][f 3 1 1 0 0 0]斡Ah, ese idiota de Kamoshidaman! 斡Sus poderes son una mierda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 23035][f 6 1 2 0 0 1]斡Yo estaba hablando![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 23035][f 6 1 2 0 0 1]斡No me interrumpas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Simplemente nos congel吋 en el acto... 夷Eso fue gracias a la estatua, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Simplemente nos congel吋 en el acto... Eso fue gracias a la estatua, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 26071][f 6 1 2 0 0 6]S胤, realmente perdi吋 los estribos cuando Makoto y Haru lo enfrentaron, 斡eso es definitivamente lo que pas吋![n][f 1 3 65535][f 1 1][e]
@@ -29,13 +29,13 @@
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]Finalmente ha revelado su verdadera naturaleza... Necesitamos encontrar una manera de contrarrestar o desactivar el poder de la estatua.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 0]Kamoshidaman la est茨 protegiendo. Primero tenemos que averiguar c吋mo pasar m茨s all茨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 0]Kamoshidaman la est茨 protegiendo. Primero tenemos que averiguar c吋mo llegar a ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos intentar volarla?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 24034]夷De d吋nde sacamos una bomba? Eso probablemente tambi姻n afectar胤a a las personas alrededor.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 24034]夷De d吋nde sacamos una bomba? Eso probablemente tambi姻n afectar胤a a ciudadanos de alrededor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Mmm... 夷C吋mo nos deshacemos de la estatua, [f 6 1 30 0 0]?[n][f 1 3 65535][f 1 1][e]
@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1]Rob姻mosla.[f 2 7 1 64 2 32][e]
 
 [msg MSG_014 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 1][f 3 1 1 0 0 21054][f 6 1 2 0 0 0]夷Qu姻 tipo de plan loco es ese? 夷Tambi姻n eres un conductor de Wild Max ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 1][f 3 1 1 0 0 21054][f 6 1 2 0 0 0]夷Qu姻 tipo de plan loco es ese? 夷Tambi姻n eres un conductor de "Wild Max" ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 6 0 4][f 3 1 1 0 0 0]Ese enfoque no es nada art胤stico...[n][f 1 3 65535][f 1 1][e]

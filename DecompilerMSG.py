@@ -11,7 +11,6 @@ import sys
 import configparser
 
 from tkinter import filedialog
-# from deep_translator import GoogleTranslator
 
 
 class TextRedirector(object):
@@ -199,15 +198,15 @@ def run_program():
         input_file_name = os.path.basename(input_file_path)
         if game == "Persona 5 Royal":
 
-            print(f"Decompiling BMD file: {input_file_name} with P5R library")
+            # print(f"Decompiling BMD file: {input_file_name} with P5R library")
             subprocess.run([atlus_script_tools_path, input_file_path,
                             "-Decompiled", "-Library", "P5R", "-Encoding", "P5"])
         elif game == "Persona 5":
-            print(f"Decompiling BMD file: {input_file_name} with P5 library")
+            # print(f"Decompiling BMD file: {input_file_name} with P5 library")
             subprocess.run([atlus_script_tools_path, input_file_path,
                             "-Decompiled", "-Library", "P5", "-Encoding", "P5"])
         elif game == "Persona Q2":
-            print(f"Decompiling BMD file: {input_file_name} with PQ2 library")
+            # print(f"Decompiling BMD file: {input_file_name} with PQ2 library")
             subprocess.run([atlus_script_tools_path, input_file_path,
                             "-Decompiled", "-Library", "PQ2", "-Encoding", "SJ"])
 
@@ -329,7 +328,8 @@ def run_program():
 
 
 # Mod folder
-mod_folder_label = ttk.Label(root, text="Mod folder:", background="#242424")
+mod_folder_label = ttk.Label(
+    root, text="Original folder:", background="#242424")
 mod_folder_entry = ttk.Entry(root, width=60)
 mod_folder_button = ttk.Button(root, text="Browse", command=browse_mod_folder)
 mod_folder_entry.insert(0, mod_folder)  # Insert the saved value
@@ -399,6 +399,6 @@ customtkinter.set_appearance_mode("dark")
 
 root.iconbitmap("dependencies/test2.ico")
 
-root.title("Persona Q2 MSG Compiler")
+root.title("Persona Q2 MSG Decompiler")
 
 root.mainloop()

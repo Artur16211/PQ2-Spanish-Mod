@@ -325,7 +325,8 @@ def run_program():
 
 
 # Mod folder
-mod_folder_label = ttk.Label(root, text="Mod folder:", background="#242424")
+mod_folder_label = ttk.Label(
+    root, text="Original folder:", background="#242424")
 mod_folder_entry = ttk.Entry(root, width=60)
 mod_folder_button = ttk.Button(root, text="Browse", command=browse_mod_folder)
 mod_folder_entry.insert(0, mod_folder)  # Insert the saved value
