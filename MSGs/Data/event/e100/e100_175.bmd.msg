@@ -1,4 +1,4 @@
-[msg MSG_000 [La Voz Del Hombre]]
+[msg MSG_000 [Voz De Hombre]]
 [f 0 5 65278][f 2 1][f 4 6 65 1 0 3][f 4 6 78 1 0 1][f 4 6 79 1 0 4][f 3 1 1 0 0 1]Umm...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Caroline]]

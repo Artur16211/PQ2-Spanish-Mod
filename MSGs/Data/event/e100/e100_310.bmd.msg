@@ -68,7 +68,7 @@
 [msg MSG_020 [Mujer Cansada]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28][f 6 1 9 0 0 1]S胤... Todo lo que tenemos que hacer es escuchar[n]lo que diga Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Un Hombre Agitado]]
+[msg MSG_021 [Hombre Agitado]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 29][f 6 1 9 0 0 1]斡Cualquiera que desaf胤e a Kamoshidaman es malvado! 斡Eso es lo que todos dicen![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Kamoshidaman]]
