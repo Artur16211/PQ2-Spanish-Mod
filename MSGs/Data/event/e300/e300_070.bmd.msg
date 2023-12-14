@@ -32,7 +32,7 @@
 [msg MSG_010 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19019]Huh...?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Chica Esp胤rita]]
+[msg MSG_011 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 10091]No es fan tuya, Junpei. S吋lo necesito sentido[n]com雨n para saber mucho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chico Con Gorro]]
@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19039]夷De qu姻 est茨n susurrando?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 0 4 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]M茨s importante, 夷d吋nde est茨 Aigis? 夷No est茨[n]contigo?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_019 [Chica Esp胤rita]]
+[msg MSG_019 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 10 10 0 1][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]夷Sabes lo de Aigis?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [P3 Fem Protag]]
@@ -100,7 +100,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 24068]Estoy de acuerdo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parecen bastante agotados... y estoy empezando[n]a tener bastante hambre.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_032 [Chica Esp胤rita]]
+[msg MSG_032 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10050]Espera un segundo, no dijimos nada sobre ir[n]con ustedes.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_033 top]
@@ -120,7 +120,7 @@
 [msg MSG_037 [Chica Bien Vestida]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 7 4 0 0][f 4 6 13 12 0 4][f 3 1 1 0 0 13077]... Muy bien, te acompa隠aremos.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Chica Esp胤rita]]
+[msg MSG_038 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 4 2 0][f 3 1 1 0 0 10133][f 6 1 2 0 0 0]夷Senpai?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Chica Bien Vestida]]
@@ -139,7 +139,7 @@
 [msg MSG_043 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19056]夷Tienes un l胤der?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_044 [Chica Esp胤rita]]
+[msg MSG_044 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Bueno, s胤. Quiero decir, no en este segundo,[n]pero - 夷es eso lo que quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [P3 Fem Protag]]

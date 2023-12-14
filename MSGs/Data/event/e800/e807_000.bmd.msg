@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1]S吋lo tienes que hacer algo con el agua.[f 2 7 1 20 6 32][e]
 
 [msg MSG_011 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 1][f 3 1 1 0 0 4010]Quiero decir, los hot dogs son geniales y todo eso, pero la carne de dinosaurio tiene más... ¡BUUM! ¿Sabes a lo que me refiero?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 1][f 3 1 1 0 0 4010]Quiero decir, los hot dogs son geniales y todo eso, pero la carne de dinosaurio tiene m茨s... 斡BUUM! 夷Sabes a lo que me refiero?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Quiero comer en un pedazo de carne tan grande,[n]me sentir姻 como si nunca fuera capaz[n]de terminarlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]

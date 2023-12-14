@@ -4,18 +4,18 @@
 [msg MSG_001 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 10 1 6][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷N-Nagi-san?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [夷Nagi]]
+[msg MSG_002 [夷Nagi?]]
 [f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 3]*chuckle* No hay necesidad de estar tan[n]sorprendido.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Qui姻n eres?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]夷D吋nde est茨 Nagi-san?[f 2 7 1 64 0 32][e]
 
-[msg MSG_004 [夷Nagi]]
+[msg MSG_004 [夷Nagi?]]
 [f 0 5 65278][f 2 1][f 4 6 39 12 0 0][f 3 1 1 0 0 4]Por favor, si姻ntete libre de llamarme "Enlil"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Nagi puede simplemente ser considerado uno[n]de los muchos roles que he realizado.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [夷Nagi]]
+[msg MSG_005 [夷Nagi?]]
 [f 0 5 65278][f 2 1][f 4 6 39 12 0 0][f 3 1 1 0 0 6]Ella est茨 ante ti. Nagi puede simplemente[n]ser considerado uno de los muchos roles[n]que he realizado.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Por favor, si姻ntete libre de llamarme "Enlil"[n][f 1 3 65535][f 1 1][e]
 

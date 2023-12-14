@@ -155,7 +155,7 @@
 [msg MSG_043 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 12 0 0][f 3 1 1 0 0 61]Bueno, todos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62]Mientras que tan poco como sea, le ayudaremos[n]a continuar a trav姻s de este programa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 63][f 6 1 2 0 0 4]夷No vendr茨s a la Habitación Terciopelo para m茨s[n]detalles?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 63][f 6 1 2 0 0 4]夷No vendr茨s a la Habitaci吋n Terciopelo para m茨s[n]detalles?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 1][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 64]S胤, eso deber胤a ser 雨til.[n][f 1 3 65535][f 1 1][e]
@@ -164,5 +164,5 @@
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 65]Estaremos esperando all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 66], vamos a ver la Habitación Terciopelo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 66], vamos a ver la Habitaci吋n Terciopelo.[n][f 1 3 65535][f 1 1][e]
 

@@ -61,13 +61,13 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]S胤, estoy liando la diversidad aqu胤. 斡Se ven[n]geniales![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Ahora si podemos llevar esto al escenario[n]principal y llamar la atenci吋n de la[n]gente...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_019 [Ni隠o Excitado]]
+[msg MSG_019 [Ni隠o Emocionado]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Mira! 斡Alguien sali吋 de ese traje de oso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chica Curiosa]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Hola, pap茨! 夷Qu姻 hace ese oso teddie?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Hombre Basura De Mediana Edad]]
+[msg MSG_021 [Basurero De Mediana Edad]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]夷Qu姻 pasa aqu胤? 夷Ese disfraz de oso para[n]alg雨n tipo de evento?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Teddie]]
@@ -89,10 +89,10 @@
 [msg MSG_027 [Chica Curiosa]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Vaya! 斡Esto es incre胤ble! 斡Llueve[n]aperitivos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_028 [Calma Hombre]]
+[msg MSG_028 [Hombre Calmado]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Vaya, 夷hay un festival hoy?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_029 [Feliz Dama]]
+[msg MSG_029 [Dama Feliz]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Ahaha, no puedo recordar la 雨ltima vez que[n]me divert胤 as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Rise]]

@@ -1,7 +1,7 @@
 ﻿[msg MSG_000 [Chico Con Gorra De B姻isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 6]斡No bromeabas por ser cine![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Chica Esp胤rita]]
+[msg MSG_001 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 2]Todav胤a es dif胤cil de creer, pero... realmente[n]est茨bamos dentro de una pel胤cula todo[n]el tiempo, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chica Bien Vestida]]
@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1]夷"Ace Detective"?[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Eso es bastante cojo...[f 2 7 1 64 0 32][e]
 
-[msg MSG_021 [Chica Esp胤rita]]
+[msg MSG_021 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 30]No te preocupes por 姻l. Ser胤a una gran p姻rdida[n]de tiempo y energ胤a para un mont吋n de[n]nada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Chico Con Gorra De B姻isbol]]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 33][f 6 1 2 0 0 0]Nooo... 斡No me digas que eres un asesino de[n]humor tambi姻n?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 1 0][f 3 1 1 0 0 34][f 6 1 2 0 0 6]Desde un hombro fr胤o hasta el siguiente...[n]斡incluso un detective de Ace como yo no[n]puede encontrarlos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Chica Esp胤rita]]
+[msg MSG_024 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 6 0 1][f 3 1 1 0 0 35]Un truco tan dif胤cil...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Chico Con Gorra De B姻isbol]]

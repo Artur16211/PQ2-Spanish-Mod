@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Yo, Elizabeth, me esforzar姻 por demostrarme[n]digno de este honor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013_2 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Entonces, vayamos a la Habitación Terciopelo, y[n]nosotros..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Entonces, vayamos a la Habitaci吋n Terciopelo, y[n]nosotros..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]... Pero antes de eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]Recuperando algo por detr茨s, aparentemente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 0]¿Hot dogs...? ¡Espera, ¿Ahí es donde estaban los suyos!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Hot dogs...? 斡Espera, 夷Ah胤 es donde estaban los suyos!?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Whoa. Es que... Voy a comerlos ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 54038]Perdona que me vaya. 斡Ahora estoy completamente[n]cargado y listo para luchar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 0]Una vez que también estés listo, por favor habla c―[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 0]Una vez que tambi姻n est姻s listo, por favor habla c―[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]*burp*[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_019 top]

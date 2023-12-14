@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 22 6 0 1][f 3 1 1 0 0 22109][f 6 1 2 0 0 9]夷Podemos tomar un descanso? Hace mucho calor[n]aqu胤, y tengo tanta sed.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28109]Bueno, no es de extrañar que haga calor. Después de todo, este lugar fue diseñado especialmente para los dinosaurios.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28109]Bueno, no es de extra隠ar que haga calor. Despu姻s de todo, este lugar fue dise隠ado especialmente para los dinosaurios.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 5 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Est茨s bien, Mona? 夷Tal vez deber胤as quitarte[n]eso?[n][f 1 3 65535][f 1 1][e]

@@ -1,7 +1,7 @@
 ﻿[msg MSG_000 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 7 3][f 3 1 1 0 0 1][f 6 1 2 0 0 6]Pap茨... 斡Pap茨, pap茨![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [El Padre De Hikari]]
+[msg MSG_001 [Padre De Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2][f 6 1 3 0 0 3]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ken]]
@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6]夷C吋mo podr胤a hacerte algo as胤?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7]S吋lo me apoyaste, tambi姻n... 斡Lo siento[n]mucho![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [El Padre De Hikari]]
+[msg MSG_005 [Padre De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 83 0 0 0][f 3 1 1 0 0 8]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Ya no esconder姻 mis deseos, y trabajar姻 para[n]hacer realidad mi sue隠o...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13]As胤 que, por favor... ven a ver mi pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [El Padre De Hikari]]
+[msg MSG_007 [Padre De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 83 8 1 0][f 3 1 1 0 0 14]Por supuesto. Ya lo estoy deseando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]

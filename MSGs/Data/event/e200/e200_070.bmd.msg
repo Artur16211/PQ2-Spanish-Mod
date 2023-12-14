@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]Mmhm! Si lo peor es peor, lo cortar姻 en la[n]mitad con mi hacha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 22030][f 6 1 2 0 0 7]Ahaha, ¡entonces lo asaré vivo con mis llamas más intensas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 0 6][f 3 1 1 0 0 22030][f 6 1 2 0 0 7]Ahaha, 斡entonces lo asar姻 vivo con mis llamas m茨s intensas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 4 1 1][f 3 1 1 0 0 0]Me pregunto si sus ojos son un punto d姻bil.[n]Podr胤a intentar golpear all胤 para[n]probarlo.[n][f 1 3 65535][f 1 1][e]

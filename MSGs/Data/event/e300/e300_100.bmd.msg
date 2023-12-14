@@ -34,8 +34,8 @@
 [msg MSG_010 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 0][f 3 1 1 0 0 12]Nosotros, hermanos 雨tiles, hemos venido a[n]explicar la situaci吋n en la que se han[n]encontrado.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Chica Esp胤rita]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Podr胤an ser residentes de la Habitación Terciopelo?[n][f 1 3 65535][f 1 1][e]
+[msg MSG_011 [Chica Animada]]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Podr胤an ser residentes de la Habitaci吋n Terciopelo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]夷Sabes, el lugar donde nuestro l胤der llama[n]a sus Personas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chica Bien Vestida]]
@@ -102,7 +102,7 @@
 [msg MSG_030 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 40]夷En serio? 夷Est茨s seguro?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_031 [Chica Esp胤rita]]
+[msg MSG_031 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 6][f 3 1 1 0 0 41]Quiero decir, no hay ninguna raz吋n para decir[n]que no... Adem茨s, tambi姻n est茨s en[n]problemas, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Chica Bien Vestida]]
@@ -262,14 +262,14 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 99]斡Soy la superestrella de segundo a隠o del[n]Escuadr吋n de Ejecuci吋n Extracurricular[n]Especializado! El nombre: Junpei Iori![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 100][f 6 1 2 0 0 4]Por cierto, mi coraz吋n est茨 reservado para[n]mi amor, Chidorita, as胤 que ten en cuenta,[n]夷de acuerdo, se隠oritas?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_080 [Chica Esp胤rita]]
+[msg MSG_080 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 4][f 3 1 1 0 0 101][f 6 1 2 0 0 3]斡Barf! A nadie le importar胤a menos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 102][f 6 1 2 0 0 6]Siento mucho no poder devolver tus sentimientos,[n]Yuka-tan![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 103]Hablando de Yuka-tan, eres el siguiente.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_082 [Chica Esp胤rita]]
+[msg MSG_082 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 10 6 0 1][f 3 1 1 0 0 104]A partir de este gran golpe de estupidez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [Yukari]]

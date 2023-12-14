@@ -67,10 +67,10 @@
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 1][f 3 1 1 0 0 0]夷De qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 4 0 3][f 3 1 1 0 0 0]¡Este tipo es demasiado caliente para que yo lo maneje! Pero tú estás bastante fuerte, ¿verdad? ¡Vamos, ayúdame![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 4 0 3][f 3 1 1 0 0 0]斡Este tipo es demasiado caliente para que yo lo maneje! Pero t雨 est茨s bastante fuerte, 夷verdad? 斡Vamos, ay雨dame![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 10 0 1][f 3 1 1 0 0 7054]¿C-Caliente? ¿Fuerte?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 10 0 1][f 3 1 1 0 0 7054]夷C-Caliente? 夷Fuerte?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 2]夷Qu姻, tengo "manejar" chicos calientes y sudados?[n]斡Esto te parece una maldita sauna?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Junpei]]

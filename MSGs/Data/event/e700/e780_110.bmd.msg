@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 75 12 0 1][f 3 1 1 0 0 55002]Bienvenido a la Habitación Terciopelo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 75 12 0 1][f 3 1 1 0 0 55002]Bienvenido a la Habitaci吋n Terciopelo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1]Intrigante. Has obtenido un vaso para mayor[n]poder.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_000 top]

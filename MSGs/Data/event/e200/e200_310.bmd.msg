@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 0]Es un mundo nuevo para m胤 ahora mismo, 夷de[n]acuerdo? 斡O胤r sobre esto y ver que es[n]totalmente diferente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 6]Vaya, parece que Yosuke está bastante alterado en este momento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 6]Vaya, parece que Yosuke est茨 bastante alterado en este momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 0 0 4][f 3 1 1 0 0 7][f 6 1 2 0 0 4]"Hot under..." Hermana, 夷debemos ayudarle[n]con su problema de sobrecalentamiento?[n][f 1 3 65535][f 1 1][e]

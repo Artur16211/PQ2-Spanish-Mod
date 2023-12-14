@@ -32,13 +32,13 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Dice que disfruta mucho de sus t姻cnicas de[n]acariciamiento, pero no es eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19008]¿Eh? No tengo comida para perros... aunque sí comí un hot dog antes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19008]夷Eh? No tengo comida para perros... aunque s胤 com胤 un hot dog antes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]No, no creo que sea la respuesta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]¿¡Qué...!? ¿Estoy desprendiendo feromonas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]夷斡Qu姻...!? 夷Estoy desprendiendo feromonas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]No, no creo que sea la respuesta.[n][f 1 3 65535][f 1 1][e]
@@ -57,5 +57,5 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15019]Qu姻 peculiar... Esto es verdaderamente un[n]misterio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Se ha añadido una nueva proyección especial: "A Fated[n]Crossover" a la taquilla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Se ha a隠adido una nueva proyecci吋n especial: "A Fated[n]Crossover" a la taquilla.[n][f 1 3 65535][f 1 1][e]
 

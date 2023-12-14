@@ -30,16 +30,16 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 16 0][f 3 1 1 0 0 13]Pero me dir胤a que no puedo hacer nada al[n]respecto porque soy d姻bil. Fue una excusa[n]que finalmente cre胤.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 14 16 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]夷No han hecho lo mismo?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Hombre Ins吋lito]]
+[msg MSG_009 [Hombre Ap茨tico]]
 [f 0 5 65278][f 2 1][f 4 6 60 0 0 1][f 3 1 1 0 0 15]Eso... Es como yo...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Hombre L茨nguido]]
+[msg MSG_010 [Hombre Perezoso]]
 [f 0 5 65278][f 2 1][f 4 6 61 0 0 3][f 3 1 1 0 0 16]S胤, todo lo que pod胤a hacer era huir...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Despondent Woman]]
+[msg MSG_011 [Mujer Desalentada]]
 [f 0 5 65278][f 2 1][f 4 6 62 0 0 1][f 3 1 1 0 0 17]Pero... 夷Qu姻 importa?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Mujer Activa]]
+[msg MSG_012 [Mujer Disgustada]]
 [f 0 5 65278][f 2 1][f 4 6 63 0 0 3][f 3 1 1 0 0 18]No puedo hacer nada al respecto de todos[n]modos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Enlil]]
@@ -54,13 +54,13 @@
 [f 0 5 65278][f 2 1][f 4 6 81 10 16 0][f 3 1 1 0 0 23][f 6 1 2 0 0 6]Recuerda el tipo de protagonista que quieres[n]estar en tu propia pel胤cula![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 6 16 0][f 3 1 1 0 0 24][f 6 1 1 0 0 1][f 6 1 2 0 0 1]Nunca olvides, 斡tienes el papel principal en[n]tu propia vida![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_016 [Hombre Ins吋lito]]
+[msg MSG_016 [Hombre Ap茨tico]]
 [f 0 5 65278][f 2 1][f 4 6 60 0 0 1][f 3 1 1 0 0 25]Mi vida...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_017 [Hombre L茨nguido]]
+[msg MSG_017 [Hombre Perezoso]]
 [f 0 5 65278][f 2 1][f 4 6 61 0 0 3][f 3 1 1 0 0 26]Pero, todav胤a...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Mujer Activa]]
+[msg MSG_018 [Mujer Disgustada]]
 [f 0 5 65278][f 2 1][f 4 6 62 0 0 1][f 3 1 1 0 0 27]夷Qu姻 debo hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Enlil]]

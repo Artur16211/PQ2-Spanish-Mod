@@ -17,16 +17,16 @@
 [msg MSG_004_5 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 4][f 3 1 1 0 0 7][f 6 1 2 0 0 2]Todo lo que hicieron fue empujar sus propias[n]decisiones ego胤stas sobre otros, s吋lo[n]porque estaban en la mayor胤a![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Escuela Primaria Hikari]]
+[msg MSG_005 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 38 0 1 1][f 3 1 1 0 0 8]Los maestros no son aliados de los d姻biles.[n]No hay cosas como h姻roes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]夷Es Hikari-san del pasado?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [Escuela Primaria Hikari]]
+[msg MSG_007 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 38 1 1 0][f 3 1 1 0 0 10]El poder para hacer que la gente haga lo que[n]se les dice... Mi profesor me oblig吋 a[n]disculparme usando ese poder...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [夷Hikari]]
+[msg MSG_008 [夷Hikari?]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 11]... As胤 es. Mi profesor no era un h姻roe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Junpei]]
@@ -44,7 +44,7 @@
 [msg MSG_013 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 38 1 0 1][f 4 6 81 12 0 3][f 3 1 1 0 0 16][f 6 1 2 0 0 4]夷Por qu姻 desafiaste al maestro? Sab胤as que[n]s吋lo te meter胤as en m茨s problemas...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Escuela Primaria Hikari]]
+[msg MSG_014 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 38 0 0 0][f 3 1 1 0 0 17]Bueno... Es por todos los h姻roes que he visto[n]en las pel胤culas...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 38 2 1 0][f 3 1 1 0 0 18][f 6 1 2 0 0 6]Eran fuertes, 斡y hicieron lo correcto![n]斡Ayudaron a los d姻biles![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 38 0 1 0][f 3 1 1 0 0 19]Pero, dije que lo sent胤a... Todo porque mi[n]profesor decidi吋 que estaba equivocado.[n][f 1 3 65535][f 1 1][e]
@@ -53,20 +53,20 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 20]Las palabras que quer胤a decir no eran "lo[n]siento"...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 21][f 6 1 2 0 0 6]La verdad es que... lo que realmente quer胤a[n]decirle era..[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_016 [Profesor Elemental]]
+[msg MSG_016 [Profesor De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 22][f 6 1 2 0 0 0]Hikari-san... 夷A雨n me est茨s desafiando?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_017 [Profesor Elemental]]
+[msg MSG_017 [Profesor De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 23]Shiratori-san... 夷A雨n me est茨s desafiando?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Escuela Primaria Hikari]]
+[msg MSG_018 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 38 2 1 0][f 3 1 1 0 0 24]Te negaste a escucharme...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25][f 6 1 2 0 0 6]Ni siquiera intentaste entenderlo. Podr胤as[n]ser profesor, pero te equivocas![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_019 [Profesor Elemental]]
+[msg MSG_019 [Profesor De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 53 0 0 0][f 3 1 1 0 0 26]Hablando de nuevo con un profesor...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Profesor Elemental]]
+[msg MSG_020 [Profesor De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 53 2 1 0][f 3 1 1 0 0 27][f 6 1 1 0 0 1][f 6 1 2 0 0 1]... 斡Uuuuuuuuunaaaaacceptabllle![n][f 1 3 65535][f 1 2 150][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
