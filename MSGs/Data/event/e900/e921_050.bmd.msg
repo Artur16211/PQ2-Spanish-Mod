@@ -1,5 +1,5 @@
 [msg MSG_000 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 12 0 1][f 3 1 1 0 0 65009]Okay, permíteme explicarte cómo comunicarte con otros mundos[f 0 1 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 12 0 1][f 3 1 1 0 0 65009]Okay, permíteme explicarte cómo [f 0 1 2]comunicarte con otros mundos[f 0 1 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La cuestión es que aparentemente hay un montón de mundos además de este por ahí.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces, en esos otros mundos, hay otros "tú"...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y todos están tratando de comunicarse con tu mundo desde el suyo.[n][f 1 3 65535][f 1 1][e]
