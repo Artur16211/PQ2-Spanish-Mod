@@ -3,19 +3,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]夷Te parece bien, Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 7]斡S胤! 斡Navegador listo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 7]斡S胤! 斡Navegadora lista![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Oracle.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hija adoptiva del Jefe que actualmente me[n]proporciona alojamiento.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hacker extraordinaria y antiguamente encerrada.[n]Muy t胤mida con los extra隠os.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hacker extraordinaria. Muy t胤mida con los extra隠os.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 6 0 1][f 3 1 1 0 0 4][f 6 1 2 0 0 3]Comparado con el resto de ustedes, todav胤a[n]soy bastante inexperto... 斡Pero no voy a[n]defraudarlos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 6 0 1][f 3 1 1 0 0 4][f 6 1 2 0 0 3]Comparada con ustedes, todavía estoy aprendiendo... ¡Pero no voy a defraudarlos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Noir.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tercer a隠o en el instituto Shujin y senpai[n]para el resto del equipo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tercer a隠o en el Instituto Shujin y senpai del resto del equipo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La 雨nica hija del presidente de la compa隠ia[n]Okumura Foods.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
@@ -23,34 +23,34 @@
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Panther.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Compa隠era de segundo a隠o, un cuarto de[n]americana y modelo de revista a tiempo[n]parcial.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Brillante y alegre; se preocupa mucho por[n]sus amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Compañera de segundo año, un cuarto estadounidense y modelo de revista a tiempo parcial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Brillante y alegre; se preocupa mucho por sus amigos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 6]Oye, la acci吋n de Makoto en Mementos est茨[n]bien y todo, pero 夷estamos bien de tiempo[n]para la infiltraci吋n del Palacio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 6]Oye, Makoto, la acción en Mementos están bien y todo, pero ¿cómo vamos en la infiltración del Palacio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 1][f 3 1 1 0 0 7]No hay problema. Ser茨 mejor que perfeccionemos[n]nuestras habilidades en Mementos para[n]estar preparados para el Palacio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Queen.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Senpai de tercer a隠o y presidenta del consejo[n]estudiantil. Realizada[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En las artes literarias y marciales. Muy[n]moral y honrada, pero un poco torpe[n]socialmente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Senpai de tercer año y presidente del consejo estudiantil. Es una estudiante destacada[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]en artes literarias y marciales. Muy moral y honrada, pero un poco torpe[n]socialmente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 7]Me gusta explorar Mementos... Hay mucha[n]inspiraci吋n que sacar de all胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Fox.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estudiante de segundo a隠o del instituto Kosei[n]con una est姻tica madura y definida[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sensibilidad; su futuro como artista es[n]previsible para todos los que lo conocen. Un[n]individuo 雨nico.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estudiante de segundo a隠o del Instituto Kosei[n]con una est姻tica madura y distintiva.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Su futuro como artista es[n]previsible para todos los que lo conocen. Una persona 雨nica.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 67 12 0 1][f 3 1 1 0 0 9]Tengo que decir que yo tambi姻n tengo mucha[n]curiosidad por ese lugar. Puedo decir que[n]algo extra隠o est茨 sucediendo all胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 67 12 0 1][f 3 1 1 0 0 9]Tengo que decir que yo tambi姻n tengo mucha[n]curiosidad por ese lugar. Creo que[n]algo extra隠o est茨 sucediendo all胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Mona.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Un gato franco y misterioso al que conocimos[n]en el Metaverso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Un gato expresivo y misterioso que conocimos dentro del Metaverso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puede adoptar varias formas, desde un gato[n]negro ordinario hasta un veh胤culo de tama隠o[n]completo que se puede conducir.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
@@ -58,11 +58,11 @@
 
 [msg MSG_015]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Skull.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Segundo a隠o y ex corredor principal del equipo[n]de atletismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estudiante de segundo a隠o y ex corredor principal del equipo[n]de atletismo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De sangre caliente, pero compasivo y atento.[n]A menudo habla sin pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 4 1 0][f 3 1 1 0 0 11]Oh, pero d吋nde est茨 ese tipo... Es la primera[n]vez que entra a Mementos, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 4 1 0][f 3 1 1 0 0 11]Oh, pero d吋nde est茨 ese tipo... Es la primera[n]vez en Mementos, 夷no?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Supongo que siempre podemos deshacernos de[n]姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Akechi]]
@@ -79,11 +79,11 @@
 
 [msg MSG_021]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]Nombre clave: Crow.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]Un estudiante de tercer a隠o de bachillerato[n]que se suele denominar como el[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]Pr吋ximo "Pr胤ncipe Detective" debido a su[n]aguda capacidad de deducci吋n y a su aspecto[n]fastidioso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]Estudiante de tercer a隠o a menudo referido como el[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]pr吋ximo "Pr胤ncipe Detective" debido a sus agudas habilidades deductivas y su meticulosa apariencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Akechi]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 17]As胤 que escuch姻 que 胤bamos a un lugar llamado[n]Mementos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 17]Así que escuché que vamos a algún lugar llamado Mementos, ¿verdad?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_023 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Eso es lo esencial.[f 2 7 1 64 2 32][e]
@@ -93,8 +93,8 @@
 [f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 6 1 2 0 0 7][f 3 1 1 0 0 18]Entendido, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Mi nombre en clave es "Joker". Soy de segundo[n]a隠o en el instituto Shujin y el l胤der[n]de los Ladrones Fantasma.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Actualmente vivo en el Caf姻 Leblanc. Me han[n]puesto en libertad condicional debido a[n]una falsa acusaci吋n contra m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Mi nombre en clave es "Joker". Segundo[n]a隠o en el Instituto Shujin y el l胤der[n]de los Ladrones Fantasma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Actualmente vivo en el Caf姻 Leblanc. Me pusieron en libertad condicional debido a una falsa acusación en mi contra.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 67 12 0 6][f 3 1 1 0 0 19]Bueno, 斡eso es todo![n][f 1 3 65535][f 1 1][e]

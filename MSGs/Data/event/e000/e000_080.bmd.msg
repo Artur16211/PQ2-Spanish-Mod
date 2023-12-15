@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 8][f 0 6 255 255]Tal vez nos embisti案 directamente[n]a trav姻s de el muro en Mementos?[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_008]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 9][f 0 6 255 255]Seguimos con ropa de ladr案n fantasma,[n]as胤 que no es el mundo real...[n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 9][f 0 6 255 255]Seguimos con los trajes de ladr案n fantasma,[n]as胤 que no es el mundo real...[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 10][f 0 6 255 255]Entonces, 夷estamos en otro mundo?[n]Parece... algo extra按o.[n][f 6 1 19 0 0 65535][e]

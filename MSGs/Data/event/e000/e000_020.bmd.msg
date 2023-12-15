@@ -5,18 +5,18 @@
 [f 0 5 65278][f 2 1][f 4 6 65 2 1 0][f 3 1 1 0 0 2]*bostezo* Tengo mucho sue隠o...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 41 0 0 0][f 3 1 1 0 0 3]斡Vamos Ryuji, contr吋late! No te pongas perezoso[n]con nosotros ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 41 0 0 0][f 3 1 1 0 0 3]斡Vamos Ryuji, contr吋late! No te pongas perezoso ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 4]No, es que me ha costado mucho conciliar el[n]sue隠o 雨ltimamente, tengo en mente el tema[n]de los Ladrones Fantasma y eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 4]No, es que me ha costado mucho conciliar el[n]sue隠o 雨ltimamente, cosas de los Ladrones Fantasma y eso...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 65 6 0 0][f 3 1 1 0 0 5]Me est茨 poniendo tan mal, que hoy me he[n]dormido casi toda la clase...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 41 2 0 0][f 3 1 1 0 0 6]夷No es eso lo que haces todos los d胤as?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 7]斡Calla! Entonces, 夷qu姻 vamos a hacer ahora?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 8]La fecha limite a雨n est茨 lejos, pero 夷a qui姻n[n]le importa? De todos modos, 斡reun茨monos[n]todos en el escondite![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 7]¡Cállate! Entonces, ¿qué hacemos ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 8]La fecha limite a雨n est茨 lejos, pero 夷a qui姻n[n]le importa? 斡reun茨monos[n]todos en el escondite![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1]Ese es el plan.[f 2 7 1 41 8 0][e]
@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 2 2 0][f 6 1 2 0 0 6][f 3 1 1 0 0 20]斡Maldici吋n, eso fue r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018_5 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 21]Todo el mundo dice que est茨 disponible para[n]reunirse en el Leblanc.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 21]Todos van camino al Leblanc.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 22]夷Entonces, vamos?[n][f 1 3 65535][f 1 1][e]

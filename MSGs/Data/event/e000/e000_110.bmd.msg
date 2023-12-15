@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 1][f 3 1 1 0 0 3]Excepto que no pod胤amos usar nuestras armas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 4]Correcto, se convirtieron en  modelos de[n]armas ordinarias.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 4]Correcto, se convirtieron en modelos de[n]armas ordinarias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 1][f 3 1 1 0 0 5]夷En serio? Tal vez s案lo seas t位.[n][f 1 3 65535][f 1 1][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Eso parece ser el caso, pero si es as胤, 夷a[n]d案nde hemos ido exactamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Pero, ya que nuestras armas no funcionan,[n]夷Eso no significa que no estamos en[n]Mementos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Pero, ya que nuestras armas no funcionan,[n]夷Eso significa que no estamos en[n]Mementos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]夷Podr胤a ser que este lugar no se vea afectado[n]por la cognici案n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
@@ -36,12 +36,12 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 1 0][f 3 1 1 0 0 12]夷Hay m茨s aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 2 0 0 10][f 6 1 3 0 0 1]Eso no es todo, este es muy diferente de esos[n]matorrales... Parece mucho m茨s[n]peligroso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 2 0 0 10][f 6 1 3 0 0 1]Eso no es todo, este es muy diferente de esos[n]novatos... Parece mucho m茨s[n]peligroso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 4 1 6][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷Qu姻 est茨 pasando aqu?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 4 1 6][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷Qu姻 est茨 pasando aquí?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 1][f 3 1 1 0 0 15]No s姻, pero deber胤amos evitar el contacto[n]con 姻l.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6]斡Intentar姻 navegar hacia donde no hay[n]sombras![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6]斡Intentar姻 navegar hacia donde no haya Sombras![n][f 1 3 65535][f 1 1][e]
 

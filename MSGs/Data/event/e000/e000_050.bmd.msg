@@ -3,11 +3,11 @@
 
 [msg MSG_001 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 1 0][f 3 1 1 0 0 2]Mementos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Entonces, 夷este lugar fue formado por el[n]inconsciente colectivo de la sociedad? Un[n]palacio de toda la poblaci吋n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3]Entonces, 夷este lugar fue formado por el[n]inconsciente colectivo de la sociedad? Un[n]palacio de toda la sociedad...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Esto parece ser otra forma diferente del[n]mundo cognitivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 5]夷Qui姻n sabe lo que hay en sus profundidades?[n]Golpea el coraz吋n de mi curiosidad[n]intelectual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 5]Quién sabe qué yace en sus profundidades. Golpea en el corazón de mi curiosidad intelectual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 6]Por otro lado, es bastante aterrador...[n][f 1 3 65535][f 1 1][e]
@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 22 12 0 1][f 3 1 1 0 0 7]Todav胤a recuerdo que odiaba este lugar cuando[n]empezamos a venir aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 1 1][f 4 6 26 0 0 3][f 3 1 1 0 0 8]Si seguimos perdiendo el tiempo as胤, vamos[n]a acabar encontr茨ndonos con algunos[n]enemigos. Mona, transformate.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 1 1][f 4 6 26 0 0 3][f 3 1 1 0 0 8]Si seguimos perdiendo el tiempo, vamos[n]a acabar encontr茨ndonos con algunos[n]enemigos. Mona, transformate.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Morgana]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 23 1 1 0][f 3 1 1 0 0 9]...[n][f 1 3 65535][f 1 1][e]
