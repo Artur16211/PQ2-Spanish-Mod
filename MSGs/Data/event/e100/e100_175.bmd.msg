@@ -103,13 +103,13 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 65 12 0 0][f 3 1 1 0 0 49]夷Tu invitada? 夷Tambi姻n lleva todo azul?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 50]No. Es una chica de secundaria, con[n]auriculares...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 0 0 0][f 3 1 1 0 0 50]No. Es una chica del instituto, con[n]auriculares...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 51]夷Auriculares?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 52]Tengo auriculares, pero no soy un estudiante[n]de secundaria.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 52]Tengo auriculares, pero no soy una estudiante del instituto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 66 0 0 1][f 3 1 1 0 0 53]No lo s姻... No hemos visto a nadie as胤, 夷verdad [f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]

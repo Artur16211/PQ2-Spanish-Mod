@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 0 0 1][f 3 1 1 0 0 17]夷Entonces, supongo que ir姻 despu姻s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 18]Soy Chie Satonaka, segundo a隠o en la secundaria[n]Yasogami. 斡Me encanta kung fu y[n]carne![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 18]Soy Chie Satonaka, segundo a隠o del instituto[n]Yasogami. 斡Me encanta kung fu y[n]carne![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 19][f 6 1 2 0 0 4]Espera, kung fu y... 夷carne?[n][f 1 3 65535][f 1 1][e]
