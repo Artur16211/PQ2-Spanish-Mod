@@ -3,7 +3,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mitsuru parece estar perdido en el[n]pensamiento...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 0 0 1][f 3 1 1 0 0 1]Digamos, [f 6 1 26 0 0], sobre su mundo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 0 0 1][f 3 1 1 0 0 1]Digamos, [f 6 1 26 0 0 0], sobre su mundo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 2]Se dirigi吋 al ba隠o.[n][f 1 3 65535][f 1 1][e]
@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 6][f 3 1 1 0 0 4]Est茨s mirando hacia abajo en los vertederos.[n]Quiero decir, puedo entender por qu姻...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 0 0 1][f 3 1 1 0 0 5]Si [f 6 1 27 0 0] est茨 diciendo la verdad,[n]entonces esto es a雨n m茨s como una historia[n]de ciencia ficci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 0 0 1][f 3 1 1 0 0 5]Si [f 6 1 27 0 0 0] est茨 diciendo la verdad,[n]entonces esto es a雨n m茨s como una historia[n]de ciencia ficci吋n.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 4]夷No significa que hay otro en el que no sepa[n]nada?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ken]]
@@ -96,7 +96,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Por eso estoy planeando hacer mi mejor[n]esfuerzo para buscar a su l胤der y Aigis![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]... Eres tan fuerte, [f 6 1 26 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]... Eres tan fuerte, [f 6 1 26 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 38]*giggle* 夷T雨 crees? Probablemente sea porque[n]tengo a todos aqu胤 apoy茨ndome.[n][f 1 3 65535][f 1 1][e]

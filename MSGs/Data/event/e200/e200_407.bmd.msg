@@ -1,4 +1,4 @@
-﻿[msg MSG_000 [Herb胤voro Timid]]
+﻿[msg MSG_000 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 1][f 3 1 1 0 0 1]斡Tengo tu espalda![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2][f 6 1 2 0 0 6]Ya no me mentir姻 m茨s... 斡Eso es lo que he[n]decidido![n][f 1 3 65535][f 1 1][e]
 

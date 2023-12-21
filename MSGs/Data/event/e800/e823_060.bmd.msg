@@ -84,7 +84,7 @@
 
 [msg MSG_024 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 1 0][f 3 1 1 0 0 0]Hmph, mientras entiendas...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]... Dicho esto, creo que el verdadero ganador[n]aqu胤 es [f 6 1 26 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]... Dicho esto, creo que el verdadero ganador[n]aqu胤 es [f 6 1 26 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]Huh?[n][f 1 3 65535][f 1 1][e]
@@ -98,7 +98,7 @@
 
 [msg MSG_028 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 0][f 3 1 1 0 0 0]Estoy de acuerdo con Mitsuru.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 0]Ambos [f 6 1 27 0 0] y [f 6 1 15 0 0] son[n]personas incre胤bles.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 0]Ambos [f 6 1 27 0 0 0] y [f 6 1 15 0 0] son[n]personas incre胤bles.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 18092]Hicimos traseros de nosotros mismos... Aki,[n]夷qu姻 dices si intentamos esto otra vez?[n][f 1 3 65535][f 1 1][e]

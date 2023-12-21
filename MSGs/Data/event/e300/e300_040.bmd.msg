@@ -38,7 +38,7 @@
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3][f 4 6 4 12 0 6][f 3 1 1 0 0 4012][f 6 1 2 0 0 4]斡No mires tan abajo! 夷Recuerdas c吋mo nuestro[n]Yosuke result吋 estar bien?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Definitivamente encontraremos a tus compa隠eros[n]tambi姻n, [f 6 1 27 0 0]-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Definitivamente encontraremos a tus compa隠eros[n]tambi姻n, [f 6 1 27 0 0 0]-chan![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_013 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Por supuesto.[f 2 7 1 20 2 32][e]

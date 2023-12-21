@@ -28,7 +28,7 @@
 
 [sel SEL_009 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Por favor di algo, Mitsuru.[f 2 7 1 20 0 32][e]
-[f 0 5 65278][f 2 1]Ayuda, [f 6 1 27 0 0].[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]Ayuda, [f 6 1 27 0 0 0].[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Vamos a dejarlos estar.[f 2 7 1 20 0 32][e]
 
 [msg MSG_010 [Mitsuru]]
@@ -91,12 +91,12 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Trabajar juntos es clave, 夷de acuerdo? 斡Buena[n]suerte, chicos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 13 2 0 1][f 3 1 1 0 0 13031]Para pensar que podr胤as domar a esos dos...[n]No est茨 mal, [f 6 1 26 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 13 2 0 1][f 3 1 1 0 0 13031]Para pensar que podr胤as domar a esos dos...[n]No est茨 mal, [f 6 1 26 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19130]Ahaha, estoy acostumbrado. 斡Los que conozco[n]son as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 13109][f 6 1 2 0 0 9]夷Son as胤 tambi姻n? Ya me est茨 dando dolor de[n]cabeza...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]De cualquier manera, gracias a [f 6 1 26 0 0][n]finalmente podemos avanzar. Vamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]De cualquier manera, gracias a [f 6 1 26 0 0 0][n]finalmente podemos avanzar. Vamos.[n][f 1 3 65535][f 1 1][e]
 

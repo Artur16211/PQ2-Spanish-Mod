@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 6 1 1][f 3 1 1 0 0 11009]Aunque hay toneladas de cosas que solo suceden[n]en pel胤culas que siguen ocurriendo[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11012]En serio, [f 6 1 16 0 0] y [f 6 1 27 0 0][n]son lo que es incre胤ble ahora mismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11012]En serio, [f 6 1 16 0 0] y [f 6 1 27 0 0 0][n]son lo que es incre胤ble ahora mismo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 1][f 3 1 1 0 0 12013]Mundos paralelos, eh...[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 4][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 18 2 0 1][f 3 1 1 0 0 18113]Bueno, todos fuimos salvados de diferentes[n]maneras gracias a [f 6 1 27 0 0] estar[n]con nosotros.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 18 2 0 1][f 3 1 1 0 0 18113]Bueno, todos fuimos salvados de diferentes[n]maneras gracias a [f 6 1 27 0 0 0] estar[n]con nosotros.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es nuestra compa隠era, y eso es m茨s que[n]suficiente por ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Fem Protag]]

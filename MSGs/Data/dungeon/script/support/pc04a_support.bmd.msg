@@ -2,19 +2,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54300]Has sido magn胤ficamente bloqueado.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_FOLLOW_START]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56300]Una FOE te persigue. Con admirable convicci吋n,[n]tengo que decir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56300]Un FOE te persigue. Con admirable convicci吋n,[n]tengo que decir...[n][f 1 6 65535][e]
 
 [msg ELIZABETH_FOE_FOLLOW_STA_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54301]Dir胤a que es una emergencia.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_FOLLOW_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56301]Por desgracia, parece que el FOE te not吋.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56301]Por desgracia, parece que el FOE te vio.[n][f 1 6 65535][e]
 
 [msg ELIZABETH_FOE_FOLLOW_STA_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54302]Oh querido, un FOE te est茨 siguiendo... Theo, dejo esto en tus manos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54302]Oh, un FOE te est茨 siguiendo... Theo, dejo esto en tus manos.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_FOLLOW_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56302]夷Eh!? 斡Oh, te ruego que tengas cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56302]¿¡Eh!? 斡Oh, te ruego que tengas cuidado![n][f 1 6 65535][e]
 
 [msg ELIZABETH_FOE_NEAR_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54303]Hay un FOE cerca de ti.[n][f 1 6 65535][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56304]斡Todos, por favor, tengan en cuenta que hay un FOE![n][f 1 6 65535][e]
 
 [msg ELIZABETH_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54305]Lectura de un FOE, alta y clara. Te propongo que no seas ruidoso ni claro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54305]Lectura de un FOE, alta y clara.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56305]*jadeo* Esto podr胤a resultar desastroso. 斡Ten[n]cuidado![n][f 1 6 65535][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56375]Deber胤an avanzar sin ser expuestos.[n][f 1 6 65535][e]
 
 [msg ELIZABETH_KANSI_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54376]Por favor, avancen de puntillas por aqu胤, ya que preferir胤a no preocuparme por todos ustedes.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54376]Por favor, avancen de puntillas por aqu胤, preferir胤a no preocuparme por todos ustedes.[n][f 1 6 65535][e]
 
 [msg THEODOR_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56376]Contin雨en avanzando lo m茨s silenciosamente posible.[n][f 1 6 65535][e]
@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54378]夷Podr胤a ser... 斡un dispositivo de entrenamiento!?[n][f 1 6 65535][e]
 
 [msg THEODOR_DENKISAKU_REACTI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56378]No podr茨s avanzar a menos que detengas la energ胤a.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56378]No podr茨s avanzar a menos que desactives la energ胤a.[n][f 1 6 65535][e]
 
 [msg ELIZABETH_DENKISAKU_REAC_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54379]Localiza el interruptor para apagar la[n]energ胤a.[n][f 1 6 65535][e]

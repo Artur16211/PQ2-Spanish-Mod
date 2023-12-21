@@ -1,7 +1,7 @@
 ﻿[msg MSG_000 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 1][f 3 1 1 0 0 1]Ngh... Nnh...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Nervous Herbivore]]
+[msg MSG_001 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]De ninguna manera... 夷Perdi吋 a los humanos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Enorme Herb胤voro]]
@@ -80,13 +80,13 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 32]Incluso me siento d姻bil si estoy solo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 33]Pero mis amigos me dan fuerza. Espero que[n]haga lo mismo por ellos.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Nervous Herbivore]]
+[msg MSG_023 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 42 1 0 6][f 6 1 25 0 0 0][f 4 6 47 1 0 0][f 3 1 1 0 0 34]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 35]Entonces, chicos...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_025 [Herbivore Elegante]]
+[msg MSG_025 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 0][f 3 1 1 0 0 36]Nosotros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosukesaurus]]
@@ -94,12 +94,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38]斡Dejemos de decidir cosas con la regla de la[n]mayor胤a, y de hecho hablemos de aqu胤 en[n]adelante![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 12 0 0][f 3 1 1 0 0 39][f 6 1 2 0 0 4]斡No te preocupes por lo que otros piensan![n]Quiero quedarme con ustedes, as胤 que...[n]夷Por qu姻 no hablamos las cosas?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_027 [Herb胤voro Timid]]
+[msg MSG_027 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 90 0 1 0][f 3 1 1 0 0 40]Me di cuenta de que todo lo que pensaba era[n]en m胤 mismo porque ten胤a miedo de ser[n]abandonado tambi姻n...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41]No pod胤a hablar, y siempre me odiaba por ser[n]tan d姻bil.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 0][f 3 1 1 0 0 42]Siento haberte abandonado... Aunque me[n]rescat吋...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_028 [Herbivore Elegante]]
+[msg MSG_028 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 0][f 3 1 1 0 0 43]Yo tambi姻n...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 0][f 3 1 1 0 0 44]No quer胤a que me echaran, as胤 que todo lo[n]que pensaba era quedarme en la mayor胤a.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45]Creo que fui demasiado lejos con ustedes,[n]humanos tambi姻n... Lo siento.[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [msg MSG_029 [Enorme Herb胤voro]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 4][f 3 1 1 0 0 46]Entonces, nosotros... Todos sentimos lo mismo[n]acerca de esto...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_030 [Nervous Herbivore]]
+[msg MSG_030 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 47]Ni siquiera intentamos hablar de cosas y nos[n]asustamos en malas decisiones... Est茨bamos[n]siendo muy est雨pidos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yusuke]]
@@ -117,7 +117,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 49]Creo que la mayor胤a puede ser una manera 雨til[n]de tomar una decisi吋n...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 50][f 6 1 2 0 0 4]Pero no hagamos que se adhiera a ella nuestra[n]m茨xima prioridad. 夷Qu姻 dices si buscamos[n]otras maneras de guiarnos?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_033 [Herb胤voro Timid]]
+[msg MSG_033 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]斡S胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Chie]]
@@ -143,10 +143,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 4 100 4][f 3 1 6 0 0 500][f 3 1 1 0 0 59][f 6 1 2 0 0 6]El verdadero problema es que los[n]herbivores...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 60][f 6 1 2 0 0 10]Incluso si intentamos sacarlos de ah胤, 斡est茨s[n]acorralado en un callej吋n sin salida![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Herb胤voro Timid]]
+[msg MSG_041 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 90 0 0 3][f 3 1 1 0 0 61][f 6 1 2 0 0 0]夷Deber胤amos escondernos?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_042 [Nervous Herbivore]]
+[msg MSG_042 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 6]斡Tenemos que huir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Enorme Herb胤voro]]
@@ -194,14 +194,14 @@
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 76]YO...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 16 1 0][f 3 1 1 0 0 77][f 6 1 2 0 0 6]斡Voy a ser honesto con mis propios[n]sentimientos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_057 [Herbivore Elegante]]
+[msg MSG_057 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 42 2 1 1][f 3 1 1 0 0 78][f 6 1 2 0 0 6]夷Qu姻 est茨s pensando? 斡Si no salimos de aqu胤[n]r茨pido, mataremos a todos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 12 1 0][f 3 1 1 0 0 79][f 6 1 2 0 0 6]斡Yo tambi姻n soy un dinosaurio![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 80][f 6 1 2 0 0 1]斡Si lo intento m茨s duro, deber胤a ser capaz[n]de alejarme de un solo carn胤voro![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_059 [Herb胤voro Timid]]
+[msg MSG_059 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 4][f 3 1 1 0 0 81][f 6 1 2 0 0 10]斡Pero eso es imposible![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Yosukesaurus]]

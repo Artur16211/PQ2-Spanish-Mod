@@ -12,26 +12,26 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 5]Basado en la apariencia de Hikari, este[n]incidente parece haber ocurrido[n]recientemente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 3]Pensar que hab胤a estado en el extremo receptor[n]de tanta presi吋n de sus parientes...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Hikari De Secundaria]]
+[msg MSG_004 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 40 14 1 3][f 3 1 1 0 0 7]Soy diferente de todas las otras chicas...[n]Soy extra隠o... Una anormalidad no buena...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 1 1][f 3 1 1 0 0 8][f 6 1 2 0 0 6]斡Eso no importa! Soy un poco diferente de lo[n]normal...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9]斡Pero todos todav胤a me han aceptado como su[n]amigo![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_006 [Hikari De Secundaria]]
+[msg MSG_006 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 4 6 40 15 1 0][f 3 1 1 0 0 10]A雨n as胤, yo... Soy un error vivo, causando[n]problemas para todos los dem茨s...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 8 2 1][f 3 1 1 0 0 11][f 6 1 2 0 0 10]斡Eso no es verdad! 斡La individualidad no es[n]un error![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Hikari De Secundaria]]
+[msg MSG_008 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 4 6 40 0 0 0][f 3 1 1 0 0 12]Todos dicen que soy raro... Dicen que llamarlo[n]"individualidad" es s吋lo una excusa...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Hikari De Secundaria]]
+[msg MSG_010 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 4 6 40 16 1 0][f 3 1 1 0 0 14]Mi sue隠o de por vida me llevar茨 a ninguna[n]parte. Ni siquiera puedo corregir mis[n]propios errores.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 40 12 1 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]En el fondo, sin embargo... Yo... 斡No quiero[n]suprimir mi verdadero yo![n][f 1 3 65535][f 1 1][e]
 
@@ -57,7 +57,7 @@
 [msg MSG_015 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 25]Pero entonces, todos los que conoc胤 me[n]aceptaron como soy.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_016 [Hikari De Secundaria]]
+[msg MSG_016 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 40 1 0 4][f 3 1 1 0 0 26]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 28]Mmhm. S吋lo eres t雨, Hikari-chan. Eres nuestro[n]precioso amigo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Por eso vinimos hasta aqu胤 para encontrarte.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Hikari De Secundaria]]
+[msg MSG_020 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 40 18 1 0][f 3 1 1 0 0 30][f 6 1 2 0 0 1]...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]
@@ -80,18 +80,18 @@
 [msg MSG_022 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 40 19 1 0][f 4 6 81 16 2 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]As胤 es... 斡Quer胤a hacer algo![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [El T胤o De Hikari]]
+[msg MSG_023 [T胤o De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 59 0 0 0][f 3 1 1 0 0 33][f 6 1 2 0 0 2]Eres ego胤sta, Hikari. 斡Deja de molestar a[n]todos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [La T胤a De Hikari]]
+[msg MSG_024 [Tía De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 58 0 1 0][f 3 1 1 0 0 34][f 6 1 2 0 0 6]As胤 es, no eres normal. 斡Sigue con esa actitud[n]y solo terminar茨s miserable![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_025 [Hikari De Secundaria]]
+[msg MSG_025 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 4 6 40 15 1 0][f 3 1 1 0 0 35]Mi sue隠o... La gente con la que quiero[n]estar...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 40 16 1 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]Yo... 斡Quiero quedarme con la persona que s姻[n]que soy![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡No quiero descartar toda mi identidad s吋lo[n]por algunas ideas que intentas forzarme![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [La T胤a De Hikari]]
+[msg MSG_026 [Tía De Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 3 0 0 3][f 6 1 2 0 0 2]夷Todav胤a nos est茨s desafiando? Bien... Te[n]pondremos derecho.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 58 2 1 0][f 3 1 1 0 0 39][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Eres un erroooooooooooooor![n][f 1 3 65535][f 1 2 100][f 1 1][e]
 

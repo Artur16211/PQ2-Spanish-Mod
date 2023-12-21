@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 4][f 3 1 1 0 0 0]Koromaru-san says he enjoyed[n]spending time with you,[n][f 6 1 27 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16115]Eso me recuerda, Aigis-san... Dijiste que[n]Koromaru y t雨 sent胤an algo en [f 6 1 27 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16115]Eso me recuerda, Aigis-san... Dijiste que[n]Koromaru y t雨 sent胤an algo en [f 6 1 27 0 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 fue exactamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Koromaru]]

@@ -4,10 +4,10 @@
 [msg MSG_001 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh no! 斡Ese carn胤voro acaba de atraparla![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Herbivore Elegante]]
+[msg MSG_002 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 42 1 1 4][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Nervous Herbivore]]
+[msg MSG_003 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 47 0 1 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
@@ -34,10 +34,10 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 93 0 0 3][f 3 1 1 0 0 0]Muy bien, lo primero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Si crees que deber胤amos ir tras el carn胤voro,[n]levanta tu mano![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Herbivore Elegante]]
+[msg MSG_011 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 47 1 0 1][f 4 6 42 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No ser茨 peligroso?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Nervous Herbivore]]
+[msg MSG_012 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 0][f 3 1 1 0 0 0]Podr胤amos comernos tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P4 Hero]]

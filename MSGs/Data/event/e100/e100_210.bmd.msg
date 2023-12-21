@@ -23,19 +23,19 @@
 [msg MSG_007]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 8 32 3][f 3 1 1 0 0 0]Puedo o胤r voces cerca...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Voz De Hombre Valiente]]
+[msg MSG_008 [Voz De Hombre Descarado]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 3 1 1 0 0 0][f 6 1 9 0 0 1]夷Te has enterado? Parece que otro criminal[n]ha entrado en la ciudad, adem茨s de esos[n]ladrones.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Voz De Mujer Cansada]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Eso es tan aterrador... 夷Qu姻 clase de[n]criminal?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Voz De Hombre Valiente]]
+[msg MSG_010 [Voz De Hombre Descarado]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]No s姻 los detalles...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Voz De Mujer Cansada]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Bueno, si est茨n desafiando a Kamoshidaman,[n]tienen que ser criminales... 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Voz De Hombre Valiente]]
+[msg MSG_012 [Voz De Hombre Descarado]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Eso es lo que dice Kamoshidaman, {0A}as胤 que[n]supongo que tienen que serlo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Quiero decir, incluso si dijera que no lo[n]creo, solo estar胤a pintando un objetivo en[n]mi propia espalda.[n][f 1 3 65535][f 1 1][e]
 

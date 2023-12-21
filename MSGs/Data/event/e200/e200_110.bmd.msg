@@ -13,10 +13,10 @@
 [msg MSG_004 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 10 0 3][f 3 1 1 0 0 5]W-whoaaa... M茨s usuarios de Persona... Nuestra[n]l胤nea se est茨 expandiendo tan r茨pido...[n]Como algas secas en sopa...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Un Chico Inteligente]]
+[msg MSG_005 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 1 0 3][f 4 6 8 10 0 1][f 3 1 1 0 0 6][f 6 1 2 0 0 0]Um... Mayo 夷Pregunto algo? 夷Cu茨ndo cambiaste[n]de ropa?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_006 [Persona Con Traje De Oso]]
+[msg MSG_006 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 4][f 3 1 1 0 0 7][f 6 1 2 0 0 6]Whoaaaaa! 斡Eres como superduper sorprendentes[n]ilusionistas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
@@ -44,7 +44,7 @@
 [msg MSG_013 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 84 16 2 6][f 4 6 81 14 2 0][f 3 1 1 0 0 18][f 6 1 2 0 0 4]Nagi-san, 夷hay alg雨n medicamento aqu胤? Tambi姻n,[n]una manta y un lugar para que ella[n]se acueste...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Persona Con Traje De Oso]]
+[msg MSG_014 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 19]*Sniffle* Eres tan amable, Hikarin...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 20][f 6 1 2 0 0 6]Pero parece que los ant胤dotos normales no[n]funcionan en Rise-chan... 夷Qu姻 vamos a[n]hacer?[n][f 1 3 65535][f 1 1][e]
 
@@ -53,10 +53,10 @@
 [f 0 5 65278][f 2 1]No pierdas el coraz吋n.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]Haremos lo que podamos.[f 2 7 1 64 0 32][e]
 
-[msg MSG_016 [Un Chico Amenazador]]
+[msg MSG_016 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 4][f 3 1 1 0 0 21][f 6 1 2 0 0 6]T胤o, sois amables, aunque nos conocimos...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_017 [Un Chico Inteligente]]
+[msg MSG_017 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 4][f 3 1 1 0 0 22]Gracias. Y no deber胤amos sacudirnos... Tenemos[n]que mantener la calma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
@@ -70,22 +70,22 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 75 0 0 1][f 3 1 1 0 0 26]Sin embargo, si ha sido afligida con veneno,[n]necesitar茨 un ant胤doto espec胤fico.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]Haremos todo lo que podamos para ayudar. 夷No[n]la llevar茨s aqu胤?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Un Chico Amenazador]]
+[msg MSG_021 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 28]Eso ser胤a genial.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Un Chico Amenazador]]
+[msg MSG_022 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 0]Espera, 夷qu姻...? 夷Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 3 1 1 0 0 30]T雨 tambi姻n est茨s aqu胤, Margaret...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Chica Con Traje De Punk]]
+[msg MSG_024 [Chica Con Traje Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 4][f 3 1 1 0 0 31]Yo tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]夷Incluso t雨, Marie-chan? 夷Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Chica Con Traje De Punk]]
+[msg MSG_026 [Chica Con Traje Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 0][f 3 1 1 0 0 33]No s姻... estaba con Margaret cuando termin姻[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ann]]
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 3 1 1 0 0 45][f 6 1 3 0 0 1]Le doy ayuda a este joven caballero.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 46][f 6 1 3 0 0 1]Me complace conocerlo.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_036 [Chica Con Traje De Punk]]
+[msg MSG_036 [Chica Con Traje Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 4][f 3 1 1 0 0 47][f 6 1 2 0 0 4]... 夷Y yo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Margaret]]
@@ -151,7 +151,7 @@
 [msg MSG_043 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 56]En cualquier caso, neutralizar su veneno es[n]m茨s importante. Preparar姻 la medicina[n]para ella.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_044 [Un Chico Inteligente]]
+[msg MSG_044 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 8 12 0 0][f 3 1 1 0 0 57]夷En serio? Gracias, eso ser胤a muy 雨til.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Nagi]]

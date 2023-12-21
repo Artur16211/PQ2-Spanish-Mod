@@ -4,7 +4,7 @@
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 4][f 3 1 1 0 0 0]斡Aha! 斡Por fin llegamos al reba隠o![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Herbivore Elegante]]
+[msg MSG_002 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 42 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Oye, esos humanos han vuelto... 夷Nos[n]siguieron?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Herb胤voro Testarudo]]
@@ -13,13 +13,13 @@
 [msg MSG_004 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 23052]斡Heheh! 斡Como si renunciara a un obst茨culo[n]tan peque隠o![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Herb胤voro Timid]]
+[msg MSG_005 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Pero... 夷por qu姻 nos sigues?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_006 [Herbivore Elegante]]
+[msg MSG_006 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]S胤, ya no tenemos nada que ver contigo.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [Nervous Herbivore]]
+[msg MSG_007 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 0 0][f 3 1 1 0 0 0]Vamos a ignorar a los humanos y seguir[n]movi姻ndose. 夷A qui姻n le importan? Mientras[n]podamos llegar a nuestro para胤so...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Kanji]]

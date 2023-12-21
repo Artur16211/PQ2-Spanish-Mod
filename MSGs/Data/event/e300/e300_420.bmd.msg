@@ -6,11 +6,11 @@
 
 [msg MSG_002 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 6][f 3 1 1 0 0 11045]夷Cu茨l es el trato, Ai-chan?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Est茨s mirando a [f 6 1 27 0 0] tan intensamente[n]que est茨 empezando a hacerme sentir[n]un poco celoso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Est茨s mirando a [f 6 1 27 0 0 0] tan intensamente[n]que est茨 empezando a hacerme sentir[n]un poco celoso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15001]Todo el mundo lo mencion吋 antes, pero yo[n]tambi姻n tengo curiosidad sobre el tema.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me encontr姻 [f 6 1 27 0 0]-san hace poco[n]tiempo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me encontr姻 [f 6 1 27 0 0 0]-san hace poco[n]tiempo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, siento algo que me atrae hacia[n]ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukiko]]
@@ -74,13 +74,13 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 25 0 0 0][f 4 6 19 1 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]...[f 6 1 27 0 0]-san es tambi姻n lo m茨s[n]importante para m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]...[f 6 1 27 0 0 0]-san es tambi姻n lo m茨s[n]importante para m胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]Huh!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0]Junto con [f 6 1 16 0 0 0]-san, proteger姻 [f 6 1 27 0 0][n]-san tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0]Junto con [f 6 1 16 0 0 0]-san, proteger姻 [f 6 1 27 0 0 0][n]-san tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19067]... Gracias. Escuchar eso de ti me hace sentir[n]seguro.[n][f 1 3 65535][f 1 1][e]

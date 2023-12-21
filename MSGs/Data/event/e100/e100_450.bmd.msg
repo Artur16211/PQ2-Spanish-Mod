@@ -48,7 +48,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]Sin embargo, han aparecido violadores de esa paz. 斡Cualquiera que se oponga a m胤 es malvado y un criminal![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 32 14 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Y castigar姻 este mal que perturba nuestra paz con mi propia justicia![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Mujer Encantadora]]
+[msg MSG_014 [Mujer Suplicante]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]斡Te lo suplicamos, prot姻genos de los criminales, por nuestro bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Jovencito]]

@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19129]斡Muy bien! 斡Se trata de hacer el primer[n]movimiento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12043][f 6 1 2 0 0 6]Me gusta tu actitud, [f 6 1 27 0 0]! 斡Vamos[n]a golpearlos muertos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 12043][f 6 1 2 0 0 6]Me gusta tu actitud, [f 6 1 27 0 0 0]! 斡Vamos[n]a golpearlos muertos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ser茨 mejor que no vayan a esto sin un plan.[n][f 1 3 65535][f 1 1][e]

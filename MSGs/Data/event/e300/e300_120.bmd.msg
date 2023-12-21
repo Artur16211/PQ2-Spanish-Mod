@@ -268,14 +268,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todos aqu胤 son exactamente como los compa隠eros[n]que conozco...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]Entonces, 夷debemos darle un nombre de c吋digo[n]tambi姻n, [f 6 1 27 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]Entonces, 夷debemos darle un nombre de c吋digo[n]tambi姻n, [f 6 1 27 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_085 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]... 夷Huh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]Quiero decir, realmente no s姻 lo que ser胤a,[n]pero no deber胤amos dejarte fuera como la[n]雨nica persona sin uno![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11001][f 6 1 2 0 0 4]Hey, [f 6 1 30 0 0] - 夷puedes venir con un nombre de c吋digo para [f 6 1 27 0 0][n]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11001][f 6 1 2 0 0 4]Hey, [f 6 1 30 0 0] - 夷puedes venir con un nombre de c吋digo para [f 6 1 27 0 0 0][n]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_087 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Auriculares.[f 2 7 1 20 0 32][e]

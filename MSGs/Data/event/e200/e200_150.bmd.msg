@@ -24,7 +24,7 @@
 [msg MSG_007 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 4][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 7]Estoy en tu cuidado...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Un Chico Inteligente]]
+[msg MSG_008 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 8][f 6 1 2 0 0 9]Umm... 夷Est茨n usando alg雨n tipo de c吋digo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
@@ -60,7 +60,7 @@
 [msg MSG_017 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 6][f 3 1 1 0 0 21]Ohhh hombre... Eso fue a雨n m茨s inc吋modo que[n]la actuaci吋n de Lady Ann...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Un Chico Amenazador]]
+[msg MSG_018 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 7 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 9]Senpai, ya te descubrieron...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
@@ -102,7 +102,7 @@
 [msg MSG_031 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 2 1 0][f 3 1 1 0 0 35][f 6 1 2 0 0 10]夷Eh? 斡No voy a echar un vistazo![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_032 [Persona Con Traje De Oso]]
+[msg MSG_032 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 9 0 0 0][f 3 1 1 0 0 36]夷C吋mo pudiste ser tan tramposo, Kanji? No me[n]digas que mi piel no es suficiente para[n]ti[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Kanji]]
@@ -139,7 +139,7 @@
 [msg MSG_042 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 50]Haha, har姻 todo lo posible para intentar[n]cumplir con esas expectativas.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_043 [Persona Con Traje De Oso]]
+[msg MSG_043 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 12 0 1][f 3 1 1 0 0 51][f 6 1 2 0 0 6]斡Yo soy yo! 斡D姻jenme ir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Teddie]]

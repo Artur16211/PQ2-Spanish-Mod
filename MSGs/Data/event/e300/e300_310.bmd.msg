@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 2 1 0 3][f 4 6 12 12 0 1][f 3 1 1 0 0 12013][f 6 1 2 0 0 4]No quiero apresurarte, pero 夷qu姻 les pas吋 a[n]ustedes dos cuando llegamos aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 0]Aigis y yo fuimos capturados por un robot[n]llamado "Overseer" s吋lo unos momentos[n]despu姻s de que llegamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 0]Aigis y yo fuimos capturados por un robot[n]llamado "Supervisor" s吋lo unos momentos[n]despu姻s de que llegamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Est茨s hablando del que parece Ikutsuki-san,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]

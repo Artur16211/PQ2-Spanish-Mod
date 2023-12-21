@@ -27,7 +27,7 @@
 
 [msg MSG_007 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 12018]Una llave, 夷eh?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos probar la tarjeta clave que[n]levantamos antes del Overseer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Deber胤amos probar la tarjeta clave que[n]levantamos antes del Supervisor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 4 1 6][f 3 1 1 0 0 0]S胤, vamos a intentarlo.[n][f 1 3 65535][f 1 1][e]

@@ -265,7 +265,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3067][f 6 1 2 0 0 7]Cierto. Definitivamente puedo responder por[n]su liderazgo. 夷No es as胤, compa隠ero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28002][f 6 1 2 0 0 4]夷Qu姻 tal t雨, [f 6 1 26 0 0]-san? 夷Estar胤as[n]bien con actuar como l胤der de equipo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28002][f 6 1 2 0 0 4]夷Qu姻 tal t雨, [f 6 1 26 0 0 0]-san? 夷Estar胤as[n]bien con actuar como l胤der de equipo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]No me importa, si est茨 bien con todos los[n]dem茨s...[n][f 1 3 65535][f 1 1][e]
@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 0]Estoy de acuerdo. Casi se siente natural[n]verla como l胤der...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_091 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 13069][f 6 1 2 0 0 4]Es verdad... Si te parece bien, 夷estar胤as de[n]acuerdo en guiarnos, [f 6 1 26 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 13069][f 6 1 2 0 0 4]Es verdad... Si te parece bien, 夷estar胤as de[n]acuerdo en guiarnos, [f 6 1 26 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 2 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19026]斡Gracias! Por favor... 斡d姻jamelo![n][f 1 3 65535][f 1 1][e]

@@ -1,14 +1,14 @@
 ﻿[msg MSG_000 [Chica Reservada]]
 [f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 5 12 0 1][f 3 1 1 0 0 1]Bueno entonces, supongo que finalmente podemos[n]relajarnos.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Persona Con Traje De Oso]]
+[msg MSG_001 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 1][f 3 1 1 0 0 2]Pero vaya, Sensei... 斡Pensar que estabas[n]familiarizado con una mujer tan hermosa![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 4]斡No ten胤a idea! 夷Por qu姻 no me presentaste[n]antes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 6][f 3 1 1 0 0 4]Vale, vale, podemos hablar de eso m茨s tarde.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Un Chico Inteligente]]
+[msg MSG_003 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 5]As胤 es. Una vez que Rise-san se recupera,[n]tenemos que volver inmediatamente y buscar[n]Yosuke-senpai.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
@@ -36,13 +36,13 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 15]Espera un segundo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 2 0 0 0]斡El Risette que conozco es 100% activo en el[n]mundo del espect茨culo![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Un Chico Amenazador]]
+[msg MSG_010 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 4]夷Huh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Un Chico Inteligente]]
+[msg MSG_012 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 12 0 1][f 3 1 1 0 0 19]Disculpe. Hay algo que me gustar胤a confirmar[n]primero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 20][f 6 1 2 0 0 4]El a隠o actual es 2011, 夷correcto?[n][f 1 3 65535][f 1 1][e]
 
@@ -70,14 +70,14 @@
 [msg MSG_019 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 3 1 1 0 0 27]S胤... Eso parece ser el caso.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Un Chico Inteligente]]
+[msg MSG_020 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 1][f 3 1 1 0 0 28]No creo que sea el caso. Todos definitivamente[n]hemos retenido nuestros recuerdos[n]hasta este punto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 29]Sabes, 夷podr胤amos haber venido de diferentes[n]momentos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30]Quiero decir, tuve la sensaci吋n de que era[n]el caso...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Un Chico Amenazador]]
+[msg MSG_022 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 7 0 0 1][f 3 1 1 0 0 31]斡Esto es una broma! 夷D吋nde est茨 la c茨mara.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]M茨s bien, por supuesto que no es eso![n][f 1 3 65535][f 1 1][e]
 
@@ -91,7 +91,7 @@
 [msg MSG_025 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 4][f 4 6 74 8 1 1][f 3 1 1 0 0 36]Vaya, vaya. Una adici吋n bastante agradable[n]a los que han sido guiados aqu胤.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Persona Con Traje De Oso]]
+[msg MSG_026 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]Ooh! 夷Otra nueva belleza misteriosa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Elizabeth]]
@@ -118,7 +118,7 @@
 [msg MSG_035 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 47]Viajes en el tiempo, 夷eh? Es un poco dif胤cil[n]de creer.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_036 [Persona Con Traje De Oso]]
+[msg MSG_036 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 9 0 0 1][f 3 1 1 0 0 48][f 6 1 2 0 0 4]夷Eso significa que las m茨scaras del equipo[n]vienen de nuestro futuro?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 49][f 6 1 2 0 0 0]斡Tengo una pregunta! 夷Soy un hombre de damas[n]en el futuro?[n][f 1 3 65535][f 1 1][e]
 
@@ -131,10 +131,10 @@
 [msg MSG_039 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 6][f 3 1 1 0 0 52][f 6 1 2 0 0 4]Oye, 夷no es una mala idea discutir cosas como[n]estas?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_040 [Un Chico Inteligente]]
+[msg MSG_040 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 0 0 1][f 3 1 1 0 0 53]Debes estar refiri姻ndote a las paradojas del[n]tiempo. Supongo que podr胤an causar[n]problemas imprevistos.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Un Chico Amenazador]]
+[msg MSG_041 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 54][f 6 1 2 0 0 4]夷"Thai par de dachshunds"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Akechi]]
@@ -151,7 +151,7 @@
 [msg MSG_045 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 60][f 6 1 2 0 0 6]斡S胤! 斡No quiero que me pase eso![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_046 [Un Chico Inteligente]]
+[msg MSG_046 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 61]B茨sicamente, esa es la raz吋n por la que es[n]mejor si no hablamos demasiado sobre[n]nuestro tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Elizabeth]]
@@ -166,7 +166,7 @@
 [msg MSG_049 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 67][f 6 1 2 0 0 6]斡S胤! Tal vez vamos a entrar en un nuevo mundo[n]brillante donde los filetes caros son[n]s吋lo un yen por onza![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_050 [Un Chico Amenazador]]
+[msg MSG_050 [Chico Amenazador]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 4][f 3 1 1 0 0 68][f 6 1 2 0 0 9]Eso suena m茨s como lo que pasar胤a en alg雨n[n]apocalipsis...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Akechi]]

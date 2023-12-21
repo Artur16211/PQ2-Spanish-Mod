@@ -34,19 +34,19 @@
 [msg MSG_011 [Ann]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 66 0 0 0][f 3 1 1 0 0 12]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Hombre de Azul]]
+[msg MSG_012 [Hombre De Azul]]
 [f 0 5 65278][f 2 1][f 4 6 76 12 0 4][f 3 1 1 0 0 13]Ah, finalmente, alguien se dio cuenta..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 8 1 0][f 3 1 1 0 0 14][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Aaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Hombre de Azul]]
+[msg MSG_014 [Hombre De Azul]]
 [f 0 5 65278][f 2 1][f 4 6 76 2 1 0][f 3 1 1 0 0 15][f 6 1 1 0 0 1][f 6 1 2 0 0 1]夷斡Waaaaaaaaah!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 0]夷斡Por qu姻 tambi姻n te sorprendes!? Y, lo m茨s importante, 夷斡qui姻n eres!?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_016 [Mujer de Azul]]
+[msg MSG_016 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 0 3 1][f 3 1 1 0 0 17]Puedo o胤r que me llaman...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Futaba]]
@@ -58,13 +58,13 @@
 [msg MSG_019 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 20]Son esos dos...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Mujer de Azul]]
+[msg MSG_020 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 1 0 4][f 4 6 74 12 0 1][f 3 1 1 0 0 21]Nos complace mucho conocerlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 22][f 6 1 2 0 0 6]夷Qui姻nes demonios son ustedes? 夷Y por qu姻 todos son azules?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Mujer de Azul]]
+[msg MSG_022 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 1 0][f 3 1 1 0 0 23]Soy Elizabeth. Este es mi hermano menor,[n]Theodore.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Theodore]]

@@ -78,11 +78,11 @@
 [f 0 5 65278][f 2 1]Ni siquiera podr胤a hacerlo.[f 2 7 1 20 10 32][e]
 
 [msg MSG_020 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]S胤, nadie m茨s est茨 m茨s cerca de Hikari que[n]t雨, [f 6 1 27 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]S胤, nadie m茨s est茨 m茨s cerca de Hikari que[n]t雨, [f 6 1 27 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15063]Ustedes dos tienen especificaciones incannily[n]similares...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, la posici吋n especial en la que[n]est茨s es totalmente tuya, [f 6 1 27 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, la posici吋n especial en la que[n]est茨s es totalmente tuya, [f 6 1 27 0 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0][f 4 6 19 8 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19033]Esto es un poco embarazoso. No lo hab胤a[n]pensado como algo 雨til...[n][f 1 3 65535][f 1 1][e]
@@ -108,7 +108,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 2031]*chuckle* S胤, estoy de acuerdo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 13 2 0 1][f 3 1 1 0 0 0]Gracias. [f 6 1 26 0 0]. Me alegra que hayamos[n]podido escuchar tus verdaderos[n]sentimientos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 13 2 0 1][f 3 1 1 0 0 0]Gracias. [f 6 1 26 0 0 0]. Me alegra que hayamos[n]podido escuchar tus verdaderos[n]sentimientos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 8 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Eheheh, realmente no estaba planeando en[n]ello, pero... Me alegro de haberlos dicho.[n][f 1 3 65535][f 1 1][e]

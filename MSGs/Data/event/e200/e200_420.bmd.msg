@@ -1,11 +1,11 @@
-﻿[msg MSG_000 [Herb胤voro Timid]]
+﻿[msg MSG_000 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 12 0 1][f 3 1 1 0 0 1]夷Ganamos contra el carn胤voro? Incre胤ble...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 2]斡Sab胤amos que pod胤as hacerlo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 2 0 0 4]Las cosas salieron de esta manera porque lo[n]intentaste m茨s duro, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Herbivore Elegante]]
+[msg MSG_002 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 1 0 1][f 4 6 42 2 1 3][f 3 1 1 0 0 4][f 6 1 2 0 0 0]Pero lo m茨s importante, 夷qu姻 estabas pensando,[n]cargando en ese carn胤voro todo por ti[n]mismo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosukesaurus]]
@@ -15,13 +15,13 @@
 [msg MSG_004 [Enorme Herb胤voro]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Somos compa隠eros, 夷no? Es natural que[n]ayudamos.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Nervous Herbivore]]
+[msg MSG_005 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Vamos a trabajar juntos desde aqu胤, 夷de[n]acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]斡Chicos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [Herbivore Elegante]]
+[msg MSG_007 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 6][f 3 1 1 0 0 10]Tambi姻n... debemos agradecer a los humanos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosukesaurus]]
@@ -94,7 +94,7 @@
 
 [msg MSG_027 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 6][f 3 1 1 0 0 38]No dir胤a que estamos tratando de llenar su[n]lugar... pero estamos aqu胤 por ti.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 39]Si hay algo que te preocupa, no dudes en[n]confiar en nosotros, [f 6 1 27 0 0]-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 39]Si hay algo que te preocupa, no dudes en[n]confiar en nosotros, [f 6 1 27 0 0 0]-chan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 40][f 6 1 2 0 0 4]夷Recuerdas lo que dijo Yosuke antes?[n][f 1 3 65535][f 1 1][e]

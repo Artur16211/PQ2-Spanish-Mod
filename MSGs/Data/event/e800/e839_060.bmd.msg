@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Espera, 夷dijiste "inmejorable"? 夷Nos escuchaste[n]hablar antes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 4][f 3 1 1 0 0 11044][f 6 1 2 0 0 4]Cielos. No me digas [f 6 1 27 0 0] y [f 6 1 16 0 0][n]podr胤a haber o胤do, tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 4][f 3 1 1 0 0 11044][f 6 1 2 0 0 4]Cielos. No me digas [f 6 1 27 0 0 0] y [f 6 1 16 0 0][n]podr胤a haber o胤do, tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]S胤. O胤mos cada palabra.[n][f 1 3 65535][f 1 1][e]

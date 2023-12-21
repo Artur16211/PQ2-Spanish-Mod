@@ -7,7 +7,7 @@
 [msg MSG_001 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 1 0][f 3 1 1 0 0 12038][f 6 1 2 0 0 0]Tch, 夷es una especie de trampa?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Sistema De Examen Ai]]
+[msg MSG_002 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 3 1 1 0 0 0][f 6 1 9 0 0 1]UNITS TK-00, 01. UNITS YS-02, 05, 07.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]UNITS IW-02, 03, 09. UNIT UIY-2249.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]COMENZANDO EL EXAM "POWER". POR FAVOR, CUIDADO[n]CON UNO DE LOS GRANDES ESTA NOCHE A[n]LA B郁SQUEDA PREVISTA.[n][f 1 3 65535][f 1 1][e]
@@ -15,7 +15,7 @@
 [msg MSG_003 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 10 0 1][f 3 1 1 0 0 21022][f 6 1 2 0 0 0]夷Una tonelada? 斡Tenemos que llevar 1000 kilos[n]de ata雨d?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Sistema De Examen Ai]]
+[msg MSG_004 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]NOTA: LA COOPERACI遺N SE REQUIERE EN ESTE[n]TEST. SI UN CISMA ES APASIONADO, TODOS SE[n]ENFRENTAR威N A LAS COMUNIDADES.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]CADA UNO DE ELLOS SER威 CONSIDERADO CR緯TICAMENTE[n]TEMPRANO Y DESECHADO DE FORMA[n]INMEDIATA.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]TU VIDA TEMPORAL ES DE 10 MINUTOS. EL EXAMEN[n]COMIENZA AHORA.[n][f 1 3 65535][f 1 1][e]
@@ -218,7 +218,7 @@
 [msg MSG_064 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡Ooh, 1162 kg![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_065 [Sistema De Examen Ai]]
+[msg MSG_065 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]La semana pasada est茨 expuesta por 162 kg.[n]Por favor, intenta volver.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Akihiko]]
@@ -299,7 +299,7 @@
 [msg MSG_090 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 0][f 3 1 1 0 0 12049]斡Genial! Todo lo que queda es sacar cuatro[n]cajas, y...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_091 [Sistema De Examen Ai]]
+[msg MSG_091 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]RESISTENTE CON CONFIANZA. ESTO CONCLUYE EL[n]EX威MEN "POWER".[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Ryuji]]
@@ -368,7 +368,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 16067]斡S胤, yo tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_113 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0]-chan realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0 0]-chan realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_114 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10068]S胤, es una l胤der natural.[n][f 1 3 65535][f 1 1][e]

@@ -59,7 +59,7 @@
 [msg MSG_017 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]夷Egoc姻ntrica? Yo estoy muy lejos de eso...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Hombre Valiente]]
+[msg MSG_018 [Hombre Descarado]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 3 1 1 0 0 22][f 6 1 9 0 0 1]Esos son los criminales, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Mujer Cansada]]

@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]ALGUNA VEZ NOS CANSAMOS, ALGO DE ESPALDA...[n]ESTO NO ES UNIFORMIDAD. 夷ESO NO TE[n]IMPORTA?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3051]Bueno, es s吋lo una parte de nuestra[n]individualidad. Ese Overseer parece negarlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3051]Bueno, es s吋lo una parte de nuestra[n]individualidad. Ese Supervisor parece negarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35014]INDIVIDUALIDAD...[n][f 1 3 65535][f 1 1][e]

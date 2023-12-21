@@ -55,7 +55,7 @@
 [msg MSG_017 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 3][f 3 1 1 0 0 19]Em, disculpe...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Polic胤a serio]]
+[msg MSG_018 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 2 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 0]Mmm espera, ¿qué es esa ropa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
@@ -71,7 +71,7 @@
 [msg MSG_022 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 25]Eso es lo que lo hace perfecto.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Polic胤a serio]]
+[msg MSG_023 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26][f 6 1 3 0 0 1]Una fiesta, ¿eh? Esos son unos disfraces muy elaborados...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
@@ -80,13 +80,13 @@
 [msg MSG_025 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 3][f 3 1 1 0 0 28]Tal vez nuestros estilos ostentosos ayudaron[n]a reforzar nuestra credibilidad.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Polic胤a serio]]
+[msg MSG_026 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 1 0 3][f 4 6 44 0 0 1][f 3 1 1 0 0 29][f 6 1 3 0 0 1]Entonces, 夷cu茨l es el problema?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 30]Si no es mucha molestia, 夷podr胤a decirnos[n]donde estamos ahora mismo?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_028 [Polic胤a serio]]
+[msg MSG_028 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31][f 6 1 3 0 0 1][f 6 1 2 0 0 4]Este es el primer distrito de la ciudad de[n]Kamo. 夷No sabes nada sobre megal案polis?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Ryuji]]
@@ -108,7 +108,7 @@
 [msg MSG_034 [Haru]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 27 12 0 4][f 3 1 1 0 0 36]Mmm... 夷Tal vez es un nuevo parque tem茨tico[n]o algo as胤?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Polic胤a serio]]
+[msg MSG_035 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 44 2 0 1][f 3 1 1 0 0 37]Est茨s actuando de forma muy sospechosa. 夷De[n]d案nde dices que vienes?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
@@ -116,13 +116,13 @@
 [f 0 5 65278][f 2 1]Llegamos aqu胤 a trav姻s de Mementos.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]No lo recordamos.[f 2 7 1 20 4 32][e]
 
-[msg MSG_037 [Polic胤a serio]]
+[msg MSG_037 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 0 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 2]夷Y qu姻 camino es ese?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Polic胤a serio]]
+[msg MSG_038 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 3 0 0 1][f 6 1 2 0 0 4]Memen... 夷Qu姻?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_039 [Polic胤a serio]]
+[msg MSG_039 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 0 1 0][f 3 1 1 0 0 40][f 6 1 2 0 0 2]夷Qu姻? 夷Pero puedes recordar que te diriges[n]a una fiesta de disfraces?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Ann]]
@@ -131,7 +131,7 @@
 [msg MSG_041 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 6][f 3 1 1 0 0 42][f 6 1 2 0 0 9]Mmm. Esto no va bien...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_042 [Polic胤a serio]]
+[msg MSG_042 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 43][f 6 1 3 0 0 1]Todos ustedes son bastante sospechosos, expliquen que... han estado haciendo aquí.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Makoto]]
@@ -140,10 +140,10 @@
 [msg MSG_044 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 45 1 0 4][f 4 6 44 1 0 1][f 4 6 23 10 0 3][f 3 1 1 0 0 45][f 6 1 2 0 0 0]¡Oh no! ¿Refuerzos? ¡Y un montón![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_045 [Polic胤a serio]]
+[msg MSG_045 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 2 1 0][f 3 1 1 0 0 46][f 6 1 1 0 0 1][f 6 1 2 0 0 6]Esos enmascarados se est茨n[n]comportando de forma sospechosa. 斡Arr姻stenlos[n]inmediatamente![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_046 [Polic胤a gordo]]
+[msg MSG_046 [Polic胤a Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 0 1 0][f 3 1 1 0 0 47][f 6 1 2 0 0 6]Entendido, 斡nosotros nos encargamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Ryuji]]
@@ -152,6 +152,6 @@
 [msg MSG_048 [Makoto]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 25 2 1 0][f 3 1 1 0 0 49]斡L-Lo siento![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_049 [Polic胤a serio]]
+[msg MSG_049 [Polic胤a Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 4 1 1][f 3 1 1 0 0 50][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Vamos! 斡No dejes que escapen![n][f 1 3 65535][f 1 1][e]
 

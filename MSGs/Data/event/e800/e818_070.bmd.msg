@@ -20,7 +20,7 @@
 [msg MSG_005 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 6][f 4 6 80 10 0 1][f 3 1 1 0 0 56104]Casi lo olvido.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 0]Le costar茨 dinero, s胤. Eso dijo, esto es de[n]m胤 para ti.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56119]Por favor acepte esto, [f 6 1 27 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56119]Por favor acepte esto, [f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]夷Un anillo? 夷Para m胤?[n][f 1 3 65535][f 1 1][e]

@@ -4,7 +4,7 @@
 [msg MSG_001 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10050][f 6 1 2 0 0 0]夷Estaremos bien? 斡Es tan oscuro, no puedo[n]ver nada![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Sistema De Examen Ai]]
+[msg MSG_002 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 3 1][f 4 6 10 0 4 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNITS TK-00, 02, 04, 07. UNIT YS-03.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNITS IW-01, 07, 08. UNIT UIY-2249.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]COMENZANDO LA PRUEBA DE "ADAPTACI遺N".[n][f 1 3 65535][f 1 1][e]
@@ -18,7 +18,7 @@
 [msg MSG_004_1 [Haru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Y al otro lado... 夷Es un puente?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Sistema De Examen Ai]]
+[msg MSG_005 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ANTES DE QUE SEAS UNA FARSA DE BAILE.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]LA CONDICI遺N EXTREMA DESIGNADA PARA EL EXAMOR[n]DE ADAPTACI遺N DE HOY ES "OCHO"[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]SI NO PUEDES ACEPTAR ESTE SUPUESTO TERRIBLE,[n]SER威S DECEPCIONADO DE FORMA INMEDIATA.[n][f 1 3 65535][f 1 1][e]
@@ -32,7 +32,7 @@
 [msg MSG_008 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]ESO ES LO QUE FUNCIONA DESPROP遺SITO AQU緯.[n]CUALQUIER TROPIEZO CON UN PASAJE DE FAMILIA[n]EST威 COMPLETAMENTE ARRASADO.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Sistema De Examen Ai]]
+[msg MSG_009 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]NOTA: LA COOPERACI遺N SE REQUIERE EN ESTE[n]TEST. SI UN CISMA ES APASIONADO, TODOS SE[n]ENFRENTAR威N A LAS COMUNIDADES.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CADA UNO DE ELLOS SER威 CONSIDERADO CR緯TICAMENTE[n]TEMPRANO Y DESECHADO DE FORMA SIMPLE.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA VAMOS A ABRIR LA SALIDA.[n][f 1 3 65535][f 1 1][e]
@@ -262,13 +262,13 @@
 [msg MSG_080 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf arf![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_081 [Sistema De Examen Ai]]
+[msg MSG_081 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]EN LA PR遺XIMA SECCI遺N.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 27 0 3 1][f 3 1 1 0 0 27115][f 6 1 2 0 0 3]A雨n no ha terminado, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_083 [Sistema De Examen Ai]]
+[msg MSG_083 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]EN SEGUNDO LUGAR, DEBES ROMPER EL HAZ EN[n]MENOS DE 3 MINUTOS. TODOS LOS UNITS DEBEN[n]CRUZARSE SIMP威TICAMENTE.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]SI ALGUNA COSA FALLA, TODOS LOS UNITS SER威N[n]DESECHADOS POR LA RESPONSABILIDAD[n]COLONIAL.[n][f 1 3 65535][f 1 1][e]
 
@@ -278,7 +278,7 @@
 [msg MSG_085 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh, apareci吋 otro rayo![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_086 [Sistema De Examen Ai]]
+[msg MSG_086 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]EL TIEMPO EST威 CANSADO. NEGOCIANDO LA SEGUNDA[n]SECCI遺N DEL EX威MEN...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_087 [Ann]]
@@ -293,7 +293,7 @@
 [msg MSG_090 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 4 4 6][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Est茨 bien, puedo hacer esto... Acabo de hacer[n]esto hace un segundo, as胤 que...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_091 [Sistema De Examen Ai]]
+[msg MSG_091 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]1 MINUTO DE NUEVO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Ken]]

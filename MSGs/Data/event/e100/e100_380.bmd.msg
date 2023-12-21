@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo que nos deja con...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]...夷[f 6 1 27 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]...夷[f 6 1 27 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19018]夷Eh? 夷Yo? 夷Disfrazarme de polic胤a?[n][f 1 3 65535][f 1 1][e]
@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 22 4 0 4][f 3 1 1 0 0 22035][f 6 1 2 0 0 6]斡Ya tienes tu propio traje![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 4][f 3 1 1 0 0 0]Dej姻mosle esto a [f 6 1 26 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 4][f 3 1 1 0 0 0]Dej姻mosle esto a [f 6 1 26 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]斡Mmm, cuenta conmigo! 斡Llevar un disfraz me har茨 sentir como un ladr吋n de primera![n][f 1 3 65535][f 1 1][e]
@@ -106,6 +106,6 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Hagamoslo.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Dame un segundo.[f 2 7 1 20 6 32][e]
 
-[msg MSG_032 [Polic胤a En Guardia]]
+[msg MSG_032 [Policía de guardia]]
 [f 0 5 65278][f 2 1][f 4 6 46 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Deben ser ellos! 斡Est茨n todos arrestados![n][f 1 3 65535][f 1 1][e]
 

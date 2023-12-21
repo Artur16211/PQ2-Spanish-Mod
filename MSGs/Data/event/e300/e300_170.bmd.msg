@@ -1,11 +1,11 @@
 ﻿[msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 10 0 1][f 3 1 1 0 0 23019][f 6 1 2 0 0 4]Ese sonido... 夷Va a ser otro anuncio de[n]Overseer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 10 0 1][f 3 1 1 0 0 23019][f 6 1 2 0 0 4]Ese sonido... 夷Va a ser otro anuncio de[n]Supervisor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Cu茨l es su trato ahora?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Overseer]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]Unidad de mal funcionamiento Uiy-2249 ha[n]eludido el procedimiento de formato est茨ndar[n]y est茨 evadiendo la captura...[n][f 1 3 65535][f 1 1][e]
+[msg MSG_002 [Supervisor]]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]Unidad de mal funcionamiento UIY-2249 ha[n]eludido el procedimiento de formato est茨ndar[n]y est茨 evadiendo la captura...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Desc雨brelo inmediatamente despu姻s del[n]descubrimiento. 斡El mismo destino espera a[n]cualquier unidad que no comparta nuestra[n]exenci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosuke]]
@@ -25,12 +25,12 @@
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16009][f 6 1 2 0 0 4]Por cierto, dijo algo sobre UIY-lo que sea...[n]夷Qu姻 fue eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Robot Con Cinta]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]Uiy-2249. ESTE ES MI N郁MERO DE[n]IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]UIY-2249. ESTE ES MI N郁MERO DE[n]IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]As胤 que, es lo mismo que lo que nos fue[n]asignado... TK-algo, y YS-algo.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Uiy-2249]]
+[msg MSG_010 [UIY-2249]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]EL SISTEMA ADMINISTRA CADA UNO DE LOS DOS[n]PROBLEMAS DE LA COMPOSICI遺N DEL CUERPO Y[n]EL N郁MERO DE IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]NINGUNO DE LOS DOS UNITS PUEDE SER ADMITIDO[n]EL MISMO N郁MERO DE IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
 
@@ -40,7 +40,7 @@
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 4012][f 6 1 2 0 0 4]夷Eso significa que no tienes un nombre aparte[n]del UIY-thingy?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Uiy-2249]]
+[msg MSG_013 [UIY-2249]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]NO LO HAGO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
@@ -121,7 +121,7 @@
 [msg MSG_037 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 19 12 2 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19072]Tienes raz吋n. Entonces, 夷c吋mo te sientes con[n]el nombre Ribbon?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Uiy-2249]]
+[msg MSG_038 [UIY-2249]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35002]RIBBON... NO HAY PROBLEMAS. ME GUSTA.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Futaba]]
@@ -130,7 +130,7 @@
 [msg MSG_040 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 0 6][f 3 1 1 0 0 0]Si encuentra el nombre aceptable, entonces[n]est茨 decidido. De aqu胤 en adelante, ahora[n]eres "Ribbon"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Uiy-2249]]
+[msg MSG_041 [UIY-2249]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35001][f 6 1 2 0 0 4]YO SOY... 夷RIBBON?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Futaba]]
@@ -143,7 +143,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26106][f 6 1 2 0 0 6]Nunca dejaremos que se deshagan de ti, 夷de[n]acuerdo, Ribbon? 斡Ven con nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 6][f 3 1 1 0 0 28084]Pero para que ella est姻 realmente a salvo en[n]esta pel胤cula, probablemente necesitamos[n]hacer algo sobre ese Overseer...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 6][f 3 1 1 0 0 28084]Pero para que ella est姻 realmente a salvo en[n]esta pel胤cula, probablemente necesitamos[n]hacer algo sobre ese Supervisor...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En cualquier caso, vayamos al laboratorio[n]despu姻s.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [P3 Fem Protag]]

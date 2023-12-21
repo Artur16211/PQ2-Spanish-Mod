@@ -18,7 +18,7 @@
 [msg MSG_008 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 6][f 3 1 1 0 0 10]Ya veo, eso explicar胤a por qu姻 he estado[n]atrapado en esta forma tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Persona Con Traje De Oso]]
+[msg MSG_009 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 7 11 0 0][f 4 6 9 6 0 1][f 3 1 1 0 0 11][f 6 1 2 0 0 3]No entiendo lo que est茨s diciendo, pero debido[n]a todo esto, Yosuke...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 1][f 6 1 1 0 0 1][f 4 6 72 2 1 3][f 4 6 9 0 1 1][f 3 1 1 0 0 12]斡Yosuke est茨 solo! 斡Waaaaaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
@@ -33,21 +33,21 @@
 [msg MSG_012 [Akechi]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 2 0 0 9][f 6 1 3 0 0 3]Eheh... "Extra glitzy"...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Persona Con Traje De Oso]]
+[msg MSG_013 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 4 6 9 0 0 0][f 3 1 1 0 0 18]斡He olido algo agradable de 姻l por un momento,[n]pero tiene raz吋n![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 8][f 3 1 1 0 0 19]Adem茨s, preferir胤a ir por esta hermosa[n]dama...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 20]Este Megidolaon es para ti.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Persona Con Traje De Oso]]
+[msg MSG_015 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 21][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Gyaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 22]... Has sido separado de tu amigo llamado[n]Yosuke-kun, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Podr胤a seguir en la pel胤cula. Me separ姻 de[n]mis propios amigos y termin姻 en una[n]pel胤cula. Tal vez lo hizo tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_017 [Un Chico Inteligente]]
+[msg MSG_017 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 1 1][f 3 1 1 0 0 24][f 6 1 2 0 0 3]Ya veo. Espero que Yosuke-senpai lo haga con[n]seguridad, como lo hiciste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Chica En姻rgica]]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 27]Cierto. Yosuke nunca caer胤a tan f茨cilmente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28]Sin embargo, debe sentirse solo estando[n]separado de nosotros. Tenemos que apresurarnos[n]y rescatarlo.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Persona Con Traje De Oso]]
+[msg MSG_020 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 29]S-Sensei...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 30][f 6 1 2 0 0 7]斡Teddie ha vuelto y es mejor que nunca![n]Rescatando 斡Yosuke ser茨 lo 雨nico en mi mente![n][f 1 3 65535][f 1 1][e]
 
@@ -72,7 +72,7 @@
 [msg MSG_023 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 10 0 0][f 3 1 1 0 0 34][f 6 1 2 0 0 10]夷Eh? Entonces, 夷qu姻 debemos hacer? 夷Qui姻n va[n]primero?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Persona Con Traje De Oso]]
+[msg MSG_024 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 6][f 3 1 1 0 0 35]Obviamente, deber胤a ser Sensei! 夷Qui姻n podr胤a[n]estar mejor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Chica Reservada]]

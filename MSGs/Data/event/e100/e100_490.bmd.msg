@@ -7,10 +7,10 @@
 [msg MSG_002 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 6][f 3 1 1 0 0 3]Jeje, 斡te lo mereces![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Hombre Loco]]
+[msg MSG_003 [Hombre Indeciso]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4][f 6 1 9 0 0 1]夷No se supone que la justicia... deber胤a ganar?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Mujer Inquietante]]
+[msg MSG_004 [Mujer Indecisa]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 9 0 0 1]Esto es incre胤ble...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
@@ -44,13 +44,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Ya que tienes todo ese poder, 斡tienes que asegurarte de usarlo adecuadamente![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 6][f 4 6 22 4 0 0][f 3 1 1 0 0 18]夷Realmente todos est茨n tan satisfechos con tu justicia? 斡M胤ralo t雨 mismo![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Hombre Loco]]
+[msg MSG_014 [Hombre Indeciso]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 9 0 0 1]Oye, entonces... 夷qui姻n tiene raz吋n al final?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Mujer Inquietante]]
+[msg MSG_015 [Mujer Indecisa]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 20][f 6 1 9 0 0 1]夷Eh? 夷C吋mo se supone que lo sepa?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_016 [Hombre Loco]]
+[msg MSG_016 [Hombre Indeciso]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21][f 6 1 9 0 0 1]Todo lo que hicimos fue lo que se nos dijo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Kamoshidaman]]

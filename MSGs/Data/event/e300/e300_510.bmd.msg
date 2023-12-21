@@ -100,13 +100,13 @@
 [msg MSG_031 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35002]S緯. ME GUSTAR緯A TERMINAR.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_032 [Overseer]]
+[msg MSG_032 [Supervisor]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]斡Atenci吋n, todas las unidades en patrulla![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 14 1 3][f 3 1 1 0 0 11065][f 6 1 2 0 0 0]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_034 [Overseer]]
+[msg MSG_034 [Supervisor]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Las anomal胤as peligrosas est茨n causando[n]estragos en la instalaci吋n. Incrementar las[n]medidas de seguridad inmediatamente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 36006][f 6 1 9 0 0 1]Estos errores deben ser manejados de manera[n]apropiada a la vista. 斡La irregularidad[n]debe ser objeto de error![n][f 1 3 65535][f 1 1][e]
 
@@ -122,7 +122,7 @@
 
 [msg MSG_038 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28008]La unidad de control maestro que ordena este[n]mundo. Son bastante est茨ndar en pel胤culas[n]de ciencia ficci吋n con sociedades[n]rob吋ticas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso significar胤a que el Overseer que derrotamos[n]fue s吋lo una parte de dicha[n]computadora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso significar胤a que el Supervisor que derrotamos[n]fue s吋lo una parte de dicha[n]computadora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 6 0 1][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]En otras palabras, hasta que destruimos la[n]causa ra胤z, este mundo no puede ser[n]acertado.[n][f 1 3 65535][f 1 1][e]
@@ -194,7 +194,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 1 0][f 3 1 1 0 0 0]OR威CULO... ME ENTREGO A TI.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13115][f 6 1 2 0 0 4]Sabes, obtuvimos una tarjeta clave del[n]Overseer, 夷d吋nde crees que se usa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13115][f 6 1 2 0 0 4]Sabes, obtuvimos una tarjeta clave del[n]Supervisor, 夷d吋nde crees que se usa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0]Llegamos a una puerta cerrada antes. 夷Quiz茨[n]podamos usarlo all胤?[n][f 1 3 65535][f 1 1][e]

@@ -713,7 +713,7 @@
 [f 0 5 65278][f 2 1]Una tarjeta de dinero electrónico con 1TB de espacio. Obtenido en: A.I.G.I.S.[n][e]
 
 [msg material_7EE]
-[f 0 5 65278][f 2 1]Una guía para la tecnología más allá de la ciencia moderna. Tirado por: Overseer[n][e]
+[f 0 5 65278][f 2 1]Una guía para la tecnología más allá de la ciencia moderna. Tirado por: Supervisor[n][e]
 
 [msg material_7EF]
 [f 0 5 65278][f 2 1]Una guía para encontrar la entrada de un laberinto.[n][f 0 1 3]Añade nuevos objetos cuando se vende[f 0 1 0][n][e]

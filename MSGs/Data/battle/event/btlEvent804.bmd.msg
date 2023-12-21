@@ -25,7 +25,7 @@
 [msg MSG_003 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 209][f 6 1 3 0 0 2]N-Nngh... N-No... No puedo...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Herbivore Elegante]]
+[msg MSG_004 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 210]夷Qu姻? No puedes echarte atr茨s ahora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Enorme Herb胤voro]]
@@ -37,16 +37,16 @@
 [msg MSG_007 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 213][f 6 1 2 0 0 10][f 6 1 3 0 0 2]Hey, uh... 夷No es esto suficiente?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Nervous Herbivore]]
+[msg MSG_008 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 3][f 3 1 3 0 0 214]No puedes parar ahora. Esto es por lo que[n]todos votamos...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Herbivore Elegante]]
+[msg MSG_009 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 215]As胤 es. No hay manera de que un voto un茨nime[n]sea incorrecto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosukesaurus]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 216][f 6 1 3 0 0 2]C-Claro... 夷No hay nada que pueda hacer?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Herb胤voro Timid]]
+[msg MSG_011 [Herbívoro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 0 1 3][f 3 1 3 0 0 217][f 6 1 2 0 0 10]Eh, hey... Si 姻l sigue as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Enorme Herb胤voro]]
@@ -67,10 +67,10 @@
 [msg MSG_021 [Enorme Herb胤voro]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 3 0 0 226]斡Vamos! 斡At茨calos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Herbivore Elegante]]
+[msg MSG_022 [Herbívoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 3][f 3 1 3 0 0 227]斡D姻jate de tonter胤as![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Nervous Herbivore]]
+[msg MSG_023 [Herbívoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 1][f 3 1 3 0 0 228]...斡Hazlo de una vez![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]

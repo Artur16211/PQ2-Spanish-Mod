@@ -101,7 +101,7 @@
 
 [msg MSG_029 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24068]De hecho, es lo mismo que matar tu propio[n]coraz吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 0]Pero el Hikari de ahora deber胤a ser capaz[n]de...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 0]Pero la Hikari de ahora deber胤a ser capaz[n]de...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 61042]S胤, tengo que seguir adelante. Tengo que ver[n]lo que me espera m茨s adelante.[n][f 1 3 65535][f 1 1][e]

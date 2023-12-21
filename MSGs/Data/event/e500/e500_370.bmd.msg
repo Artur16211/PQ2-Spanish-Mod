@@ -33,13 +33,13 @@
 [msg MSG_009 [Hombre Ap茨tico]]
 [f 0 5 65278][f 2 1][f 4 6 60 0 0 1][f 3 1 1 0 0 15]Eso... Es como yo...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Hombre Perezoso]]
+[msg MSG_010 [Hombre Cansado]]
 [f 0 5 65278][f 2 1][f 4 6 61 0 0 3][f 3 1 1 0 0 16]S胤, todo lo que pod胤a hacer era huir...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Mujer Desalentada]]
+[msg MSG_011 [Mujer Desesperada]]
 [f 0 5 65278][f 2 1][f 4 6 62 0 0 1][f 3 1 1 0 0 17]Pero... 夷Qu姻 importa?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Mujer Disgustada]]
+[msg MSG_012 [Mujer Molesta]]
 [f 0 5 65278][f 2 1][f 4 6 63 0 0 3][f 3 1 1 0 0 18]No puedo hacer nada al respecto de todos[n]modos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Enlil]]
@@ -57,10 +57,10 @@
 [msg MSG_016 [Hombre Ap茨tico]]
 [f 0 5 65278][f 2 1][f 4 6 60 0 0 1][f 3 1 1 0 0 25]Mi vida...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_017 [Hombre Perezoso]]
+[msg MSG_017 [Hombre Cansado]]
 [f 0 5 65278][f 2 1][f 4 6 61 0 0 3][f 3 1 1 0 0 26]Pero, todav胤a...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Mujer Disgustada]]
+[msg MSG_018 [Mujer Molesta]]
 [f 0 5 65278][f 2 1][f 4 6 62 0 0 1][f 3 1 1 0 0 27]夷Qu姻 debo hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Enlil]]

@@ -1,21 +1,21 @@
 ﻿[msg MSG_000 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 1][f 3 1 1 0 0 24046][f 6 1 2 0 0 4]... 夷Qu姻 es eso?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [La Voz Del Hombre Misterioso]]
+[msg MSG_001 [Voz De Hombre Misterioso]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36001]No hay conflicto, ning雨n crimen, ninguna[n]codicia en este mundo nuestro...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Es un mundo perfecto, donde se promete a[n]todos una vida perfecta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26018][f 6 1 2 0 0 4]夷"Un mundo perfecto"?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [La Voz Del Hombre Misterioso]]
+[msg MSG_003 [Voz De Hombre Misterioso]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36015]La raz吋n por la que tal mundo puede ser[n]realidad es porque todos son iguales.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]Piensa en lo infructuoso que es contrastar[n]o destacar. Ser como los dem茨s - ser[n]normal- es 吋ptimo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]Basado en el contenido de este discurso, el[n]orador es probable que los robots[n]Overseer.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]Basado en el contenido de este discurso, el[n]orador es probable que los robots[n]Supervisor.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [La Voz Del Hombre Misterioso]]
+[msg MSG_005 [Voz De Hombre Misterioso]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36002]Ojos a la derecha... Ojos a la izquierda...[n]Se eliminar茨n las unidades que no se[n]adhieran a la normalidad.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 36005]En esa nota, que cada robot se centre en sus[n]tareas asignadas, sin sis, ys, o[n]ro-buts.[n][f 1 3 65535][f 1 1][e]
 
@@ -57,7 +57,7 @@
 [msg MSG_017 [Robot Producido En Masa]]
 [f 0 5 65278][f 2 1][f 4 6 43 0 1 1][f 3 1 1 0 0 0]NO, ANDY, O RO-BUTS...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Robot Producido En Masas]]
+[msg MSG_018 [Robot Producido En Masa]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Mitsuru]]

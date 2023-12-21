@@ -7,7 +7,7 @@
 [msg MSG_002 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 1 0][f 3 1 1 0 0 13037]斡Silencio! Puedo o胤r algo.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Sistema De Examen Ai]]
+[msg MSG_003 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNITS TK-00, 03, 05, 06, 08. UNITS YS-01, 06.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNIT IW-04. UIY-2249.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]INCITANDO AL EX威MEN DE EVALUACI遺N "KNOWLEDGE".[n]POR FAVOR, RESPONDA A LAS PREGUNTAS[n]DE SEGUIMIENTO.[n][f 1 3 65535][f 1 1][e]
@@ -36,10 +36,10 @@
 [msg MSG_010 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 25037]C茨lmate, 夷quieres? No podemos dejar este[n]lugar hasta que respondamos las preguntas.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Sistema De Examen Ai]]
+[msg MSG_011 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]EL EX威MEN AHORA VENDR威. CHEATING RESULT IN[n]PUNISHMENT FOR ALL UNITS.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Sistema De Examen Ai]]
+[msg MSG_012 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ESTAS PREGUNTAS TIENEN MUCHAS RESPUESTAS.[n]POR FAVOR, PROV畏 UNA RESPUESTA CORRECTA.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]USTED PUEDE RESPONDER EN CUALQUIER ORDEN,[n]PERO TODAS LAS PERSONAS DEBEN SER PROBADAS[n]CON PRONTITUD.[n][f 1 3 65535][f 1 1][e]
 
@@ -77,7 +77,7 @@
 [msg MSG_023 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 8067]No tengo objeciones. No me importa estar en[n]la segunda mitad tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Sistema De Examen Ai]]
+[msg MSG_024 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA LLAMAMOS A BEGIN. PREGUNTA 1...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]PROBAR UNA IDEA QUE CONSERVE A DOS O M威S[n]MIEMBROS EN ELLA.[n][f 1 3 65535][f 1 1][e]
 
@@ -135,7 +135,7 @@
 [msg MSG_040 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 28067][f 6 1 2 0 0 4]No hay problema. 夷Qu姻 tal "un tiro de cien[n]a uno"?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Sistema De Examen Ai]]
+[msg MSG_041 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TODAS LAS RESPUESTAS SON CORRECTAS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Morgana]]
@@ -144,14 +144,14 @@
 [msg MSG_043 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Mierda, ni siquiera sab胤a la mitad de esos.[n]Algo sobre ochenta seises, y..[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_044 [Sistema De Examen Ai]]
+[msg MSG_044 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA, PARA LA PR遺XIMA PREGUNTA...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]EL REBELDE SER威 SELLADO EN RANDOM. CADA UNO[n]DE ELLOS TIENE QUE RESPONDER[n]INMEDIATAMENTE.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 23060][f 6 1 2 0 0 0]夷Tenemos m茨s? 夷Y ahora es al azar?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_046 [Sistema De Examen Ai]]
+[msg MSG_046 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA LLAMAMOS A BEGIN. PREGUNTA 2...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]LISTA SEVEN ELEMENTOS METALLES. COMO SEA,[n]"GRITO", "SILVER", Y "COPPER" NO SER威[n]ACEPTADO.[n][f 1 3 65535][f 1 1][e]
 
@@ -173,49 +173,49 @@
 [msg MSG_052 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3054][f 6 1 2 0 0 0]Espera, 夷de qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_053 [Sistema De Examen Ai]]
+[msg MSG_053 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]COMMENCING QUESTION 2. UNIT TK-08...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28072]Parece que soy el primero. "Beryllium"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_055 [Sistema De Examen Ai]]
+[msg MSG_055 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO. SIGUIENTE, UNIT TK-05...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 25017]Supongo que esto es aleatorio. Bueno entonces,[n]"molybdenum"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_056_1 [Sistema De Examen Ai]]
+[msg MSG_056_1 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO. SIGUIENTE, UNIT YS-06...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056_2 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8013]Bueno, entonces ir姻 con, "tungsten"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_057 [Sistema De Examen Ai]]
+[msg MSG_057 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO. SIGUIENTE, UNIT IW-04...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 3][f 3 1 1 0 0 13069]"Palladium"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_059 [Sistema De Examen Ai]]
+[msg MSG_059 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO. SIGUIENTE, UNIT TK-06...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 26 12 0 6][f 3 1 1 0 0 26042]"Manganese". Ya sabes, ya no ves bater胤as de[n]manganeso...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_061 [Sistema De Examen Ai]]
+[msg MSG_061 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO. SIGUIENTE, UNIT UIY-2249...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 35002]"PLATINUM"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_062_1 [Sistema De Examen Ai]]
+[msg MSG_062_1 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Mierda... 斡No puedo entenderlo! 夷Qu姻 es "ese"[n]elemento met茨lico?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_064 [Sistema De Examen Ai]]
+[msg MSG_064 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 6 1 9 0 0 1][f 3 1 1 0 0 0]SIGUIENTE, UNIT TK-00...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Morgana]]
@@ -226,19 +226,19 @@
 [f 0 5 65278][f 2 1]Titanium.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Cambio de espacio.[f 2 7 1 20 8 32][e]
 
-[msg MSG_067 [Sistema De Examen Ai]]
+[msg MSG_067 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 1 1][f 3 1 1 0 0 8033]Oh no... Dijo "esa".[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_069 [Sistema De Examen Ai]]
+[msg MSG_069 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TK-03...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23032]Lo s姻 muy bien. "Sodio"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_071 [Sistema De Examen Ai]]
+[msg MSG_071 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO. UNIT YS-01...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Yosuke]]
@@ -246,7 +246,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]夷Qu姻 tal... 夷Calcio? Los huesos son duros,[n]as胤 que tal vez..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Oh, pero no hay manera de que sea met茨lico..[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_073 [Sistema De Examen Ai]]
+[msg MSG_073 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Yosuke]]
@@ -255,20 +255,20 @@
 [msg MSG_075 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_076 [Sistema De Examen Ai]]
+[msg MSG_076 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 28072]Qu姻 apropiado, un elemento "sci-fi-sounding".[n]Adem茨s, dej吋 "esa" para Hanamura-kun.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_078 [Sistema De Examen Ai]]
+[msg MSG_078 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNIT YS-01...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 1][f 3 1 1 0 0 3020][f 6 1 2 0 0 4]"Ese" uno... Una f茨cil... 夷Tal vez lo veo[n]todo el tiempo en la corte de comida de[n]Junes? Entonces, comida... Cookies...[n]Envoltura pl茨stica... Foil...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 1][f 3 1 1 0 0 3045][f 6 1 2 0 0 0]斡Oh! 夷Es "Aluminio"?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_080 [Sistema De Examen Ai]]
+[msg MSG_080 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Yosuke]]
@@ -277,13 +277,13 @@
 [msg MSG_082 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_083 [Sistema De Examen Ai]]
+[msg MSG_083 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TK-03...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23052][f 6 1 2 0 0 5]Lo s姻 muy bien. "Sodio"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_085 [Sistema De Examen Ai]]
+[msg MSG_085 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [Futaba]]
@@ -297,25 +297,25 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Aluminio.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Nickel.[f 2 7 1 20 0 32][e]
 
-[msg MSG_089 [Sistema De Examen Ai]]
+[msg MSG_089 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_090 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 1 0][f 3 1 1 0 0 25109]Gracias a Dios. No nos asustes as胤...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_091 [Sistema De Examen Ai]]
+[msg MSG_091 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26018]Whoa! Se duplic吋 en el "cambio de sueldo" y[n]斡todav胤a lo consigui吋 bien! Realmente es[n]el 雨ltimo Joker...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_093 [Sistema De Examen Ai]]
+[msg MSG_093 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TK-03...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_094 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 23052]Lo s姻 muy bien. "Sodio"[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_095 [Sistema De Examen Ai]]
+[msg MSG_095 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_096 [Naoto]]
@@ -324,14 +324,14 @@
 [msg MSG_097 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3054][f 6 1 2 0 0 10]Claro. As胤 que... 夷Qu姻 quieres decir con[n]"esa"?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_098 [Sistema De Examen Ai]]
+[msg MSG_098 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNIT YS-01...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_099 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3020][f 6 1 2 0 0 4]"Ese" uno... Una f茨cil... 夷Tal vez lo veo[n]todo el tiempo en la corte de comida de[n]Junes? Entonces, comida... Cookies...[n]Envoltura pl茨stica... Foil...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3045][f 6 1 2 0 0 0]斡Oh! 夷Es "Aluminio"?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_100 [Sistema De Examen Ai]]
+[msg MSG_100 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_101 [Yosuke]]
@@ -340,7 +340,7 @@
 [msg MSG_102 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷C吋mo es nuestro jefe de operaciones?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_103 [Sistema De Examen Ai]]
+[msg MSG_103 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]AHORA, PARA LA 郁LTIMA PREGUNTA...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_104 [Makoto]]
@@ -349,10 +349,10 @@
 [msg MSG_105 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Al menos 姻ste es el 雨ltimo, el fin est茨 a la[n]vista.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_106 [Sistema De Examen Ai]]
+[msg MSG_106 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]HAY DOS GALARDONES ARRIBA ARRIBA, LABRADOS[n]SOBRE UNA O Y UNA X.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_107 [Sistema De Examen Ai]]
+[msg MSG_107 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]DESPU畏S DE ESCUCHAR LA 郁LTIMA PREGUNTA, POR[n]FAVOR PASA POR EL DESTINO CON LA RESPUESTA[n]CORRECTA.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]SI CONSIDERAS AL ODIO, SER威S COMPLETAMENTE[n]DESECHADO DE UN CUERPO EL畏CTRICO.[n][f 1 3 65535][f 1 1][e]
 
@@ -373,7 +373,7 @@
 [msg MSG_112 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 4][f 3 1 1 0 0 0]Hasta ahora, estamos en medio del examen. No[n]tenemos m茨s remedio que responderlo.[n]Escuchemos la pregunta primero, al menos.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_113 [Sistema De Examen Ai]]
+[msg MSG_113 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]PREGUNTA 3...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]夷ES "INDIVIDUALITY" UN ATTRIBUTO BENEFICIAL[n]PARA UNA UNIDAD?[n][f 1 3 65535][f 1 1][e]
 
@@ -476,7 +476,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 16067]斡S胤, yo tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_145 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0]-chan realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0 0]-chan realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_146 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 3][f 3 1 1 0 0 10068]S胤, es una l胤der natural.[n][f 1 3 65535][f 1 1][e]
