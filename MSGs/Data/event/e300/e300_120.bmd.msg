@@ -208,7 +208,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 6][f 3 1 1 0 0 17001][f 6 1 2 0 0 1]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 5 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No cojas su lado, Koro-cha - Ahem -Koromaru![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 5 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No cojas su lado, Koro - Ahem -Koromaru![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Entonces, el tipo ama a los perros, pero lo[n]mantiene en secreto, 夷eh?[n][f 1 3 65535][f 1 1][e]

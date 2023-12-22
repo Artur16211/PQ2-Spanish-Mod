@@ -72,7 +72,7 @@
 
 [msg MSG_020 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 3 0 0 3]F-FLOWERS... MUY BIEN...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 3 0 0 3]Koromaru... AS緯 QUE... ME HIZO FELIZ...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 3 0 0 3]KOROMARU... AS緯 QUE... ME HIZO FELIZ...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35][f 6 1 3 0 0 3]YO... YO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]

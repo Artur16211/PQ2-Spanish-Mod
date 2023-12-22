@@ -91,7 +91,7 @@
 [msg town_okaeri_AMADA_mes]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16202]Personalmente, estoy bien para seguir[n]luchando...[n][f 1 6 65535][e]
 
-[msg town_okaeri_Koromaru_mes]
+[msg town_okaeri_KOROMARU_mes]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17002]Arf, 斡Arf![n][f 1 6 65535][e]
 
 [msg town_okaeri_ARAGAKI_mes]
@@ -742,13 +742,13 @@
 [msg town_bg07_YUKARI_mes01]
 [f 0 5 65278][f 2 1]Es tan relajante tener a Koro cerca. 斡Y es[n]listo! 斡Buen chico![n][f 1 2 135][e]
 
-[msg town_bg07_Koromaru_mes01]
+[msg town_bg07_KOROMARU_mes01]
 [f 0 5 65278][f 2 1]斡Arf arf![n][f 1 2 45][e]
 
-[msg town_bg07_Koromaru_mes02]
+[msg town_bg07_KOROMARU_mes02]
 [f 0 5 65278][f 2 1]斡Woof![n][f 1 2 45][e]
 
-[msg town_bg07_Koromaru_mes03]
+[msg town_bg07_KOROMARU_mes03]
 [f 0 5 65278][f 2 1]*pantal吋n pantal吋n*[n][f 1 2 45][e]
 
 [msg town_bg08_FUTABA_mes01]
@@ -826,10 +826,10 @@
 [msg town_bg09_MITURU_mes03]
 [f 0 5 65278][f 2 1]Honestamente... Qu姻 grupo tan alborotado.[n]Incluso Koromaru est茨 irritado ahora...[n][f 1 2 130][e]
 
-[msg town_bg09_Koromaru_mes01]
+[msg town_bg09_KOROMARU_mes01]
 [f 0 5 65278][f 2 1]斡Arf![n][f 1 2 45][e]
 
-[msg town_bg09_Koromaru_mes02]
+[msg town_bg09_KOROMARU_mes02]
 [f 0 5 65278][f 2 1]Grrrrrr...[n][f 1 2 45][e]
 
 [msg town_bg10_ZABES_mes01]

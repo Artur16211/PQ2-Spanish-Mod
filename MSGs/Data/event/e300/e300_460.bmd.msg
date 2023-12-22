@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 17 0 0 3][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 35025]Koromaru... GRACIAS POR MOLESTARME TANTO.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 35025]KOROMARU... GRACIAS POR MOLESTARME TANTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 7]Arf! 斡Arf![n][f 1 3 65535][f 1 1][e]
@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 8 1 0][f 3 1 1 0 0 13018][f 6 1 2 0 0 4]夷Qu姻 pasa, Ribbon? 夷Hay algo en tu mente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35014]CUANDO ME VEO EN Koromaru... SIENTO ALGO[n]EN MI PECHO. 夷QU畏 ES ESTO?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35014]CUANDO ME VEO EN KOROMARU... SIENTO ALGO[n]EN MI PECHO. 夷QU畏 ES ESTO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No te sientes bien?[n][f 1 3 65535][f 1 1][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 6][f 3 1 1 0 0 0]夷Eh? 夷Nos equivocamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35008]NO... QUIERO JUGAR A Koromaru TIGHT...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35008]NO... QUIERO JUGAR A KOROMARU TIGHT...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35023]PERO... 夷NO ES UNA EMOCI遺N COMO ESTE INCOMUNICADO[n]CON UN ROBOT?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Kanji]]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Koromaru dice, “Definitivamente me gustar胤a[n]que me acariciaras. ”[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 0 1][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]Koromaru... 夷ERES CEREBRO?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 0 1][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]KOROMARU... 夷ERES CEREBRO?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Solo s姻 amable con 姻l.[f 2 7 1 20 0 32][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 3 12 0 6][f 3 1 1 0 0 3031][f 6 1 2 0 0 6]Bien, es hora de envolver el tiempo de[n]cuadr胤cula de mascotas. Deber胤amos irnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35005]S緯, LO ENTIENDO. VAMOS, Koromaru.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35005]S緯, LO ENTIENDO. VAMOS, KOROMARU.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 0][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]

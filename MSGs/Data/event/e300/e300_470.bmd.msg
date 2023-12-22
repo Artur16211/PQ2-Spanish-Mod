@@ -124,7 +124,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17014][f 6 1 9 0 0 1][f 6 1 2 0 0 6]Awoooo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ribbon]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 35025][f 6 1 9 0 0 1][f 6 1 2 0 0 7]Koromaru... MUCHAS GRACIAS.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 35025][f 6 1 9 0 0 1][f 6 1 2 0 0 7]KOROMARU... MUCHAS GRACIAS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Junpei]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Vamos, 夷qu姻 pasa con la espera? Yosuke, 夷no[n]puedes ir un poco m茨s r茨pido?[n][f 1 3 65535][f 1 1][e]
