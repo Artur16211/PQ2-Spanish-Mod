@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 28067]S胤, y parecen relativamente nuevos... Parece[n]que han bloqueado intencionalmente[n]nuestro camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Hmm... Eso debe significar que realmente no[n]quieren que los sigamos, 夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Mmm... Eso debe significar que realmente no[n]quieren que los sigamos, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷A qui姻n le importa? 斡No podemos retroceder[n]ahora, despu姻s de todo esto![n][f 1 3 65535][f 1 1][e]

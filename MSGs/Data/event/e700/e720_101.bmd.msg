@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 24071][f 6 1 2 0 0 4]Muy bien, 夷qu姻 tal algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24076]Hmm... Perm胤tanme ofrecer un ejemplo, por si[n]acaso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24076]Mmm... Perm胤tanme ofrecer un ejemplo, por si[n]acaso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 tal algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]

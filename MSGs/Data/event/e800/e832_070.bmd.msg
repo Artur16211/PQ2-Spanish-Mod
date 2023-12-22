@@ -1,7 +1,7 @@
 ﻿[msg MSG_000 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 2 100 1][f 3 1 1 0 0 54016]Las cosas resultaron bastante diferentes de[n]lo que hab胤a imaginado... Sin embargo,[n]veo que has cumplido tu objetivo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 1][f 3 1 1 0 0 0]Debo decir, sin embargo... Tengo un inter姻s[n]leve en que esta chica hable yo mismo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Alg雨n d胤a, me gustar胤a acoger a una chica[n]hablar entre los residentes de la Sala[n]Velvet.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Alg雨n d胤a, me gustar胤a acoger a una chica[n]hablar entre los residentes de la Habitaci吋n[n]Terciopelo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Cuando llegue ese momento, Theo ser茨 incluido[n]como Theoko... o tal vez Theobeth.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]

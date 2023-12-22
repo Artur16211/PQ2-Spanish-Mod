@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Pero qu姻 querr胤a un dinosaurio con algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28013]Hmm... 夷Tal vez Seidopteras est茨n atra胤dos[n]al brillo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28013]Mmm... 夷Tal vez Seidopteras est茨n atra胤dos[n]al brillo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]He o胤do que los Crows tienden a recoger[n]objetos brillantes, pero...[n][f 1 3 65535][f 1 1][e]

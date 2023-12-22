@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24049]Qu姻 intrigante. 斡Si hubiera podido verlo con[n]mis propios ojos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 3][f 3 1 1 0 0 17002]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 3][f 3 1 1 0 0 17002]斡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 6][f 3 1 1 0 0 0]Tu laboratorio secreto es muy popular,[n]Naoto.[n][f 1 3 65535][f 1 1][e]

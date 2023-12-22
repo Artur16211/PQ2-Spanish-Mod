@@ -101,7 +101,7 @@
 [msg MSG_028 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 10 0 0][f 3 1 1 0 0 40][f 6 1 2 0 0 0]夷Hermana? 夷No es un tratamiento demasiado[n]callado?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 41]Ahem... Por favor, disc雨lpeme. Mi nombre es[n]Theodore.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 42]Junto con mis hermanas mayores, Margaret y[n]Elizabeth, soy residente de la Sala[n]Velvet.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 42]Junto con mis hermanas mayores, Margaret y[n]Elizabeth, soy residente de la Habitaci吋n[n]Terciopelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 43]畏l realmente est茨 usando ese traje de[n]palomitas...[n][f 1 3 65535][f 1 1][e]

@@ -44,14 +44,14 @@
 [msg MSG_012 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Haha, estoy a toda velocidad... Supongo que[n]eso hace que estas heridas sean mis[n]medallas de honor?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Herbívoro Tímido]]
+[msg MSG_013 [Herb胤voro T胤mido]]
 [f 0 5 65278][f 2 1][f 4 6 90 0 0 0][f 3 1 1 0 0 0]Um... Gracias...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3029][f 6 1 2 0 0 4]斡No te preocupes! Tenemos que ayudarnos unos[n]a otros cuando estamos en problemas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mira qui姻n ha vuelto. Supongo que tambi姻n[n]estaban preocupados por ti.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Herbívoro Tímido]]
+[msg MSG_015 [Herb胤voro T胤mido]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 90 0 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Herb胤voro Testarudo]]
@@ -60,7 +60,7 @@
 [msg MSG_017 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21031][f 6 1 2 0 0 4]夷Ves? 斡La salvamos! 夷No te alegras?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Herbívoro Inquieto]]
+[msg MSG_018 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 47 1 1 4][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chie]]
@@ -75,7 +75,7 @@
 [msg MSG_022 [Herb胤voro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces... 夷Deber胤amos hacer la cosa?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Herbívoro Inquieto]]
+[msg MSG_023 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 0][f 3 1 1 0 0 0]S胤, supongo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Herb胤voro Testarudo]]
@@ -93,7 +93,7 @@
 [msg MSG_028 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 22 10 0 0][f 3 1 1 0 0 22055][f 6 1 2 0 0 0]斡Oye! 夷Qu姻 demonios?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_029 [Herbívoro Tímido]]
+[msg MSG_029 [Herb胤voro T胤mido]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 90 0 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Herb胤voro Testarudo]]

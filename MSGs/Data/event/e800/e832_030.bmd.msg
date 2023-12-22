@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Yo iba m茨s o menos a alabarlo. 夷Quiz茨s decirles[n]que todo estar茨 bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Hmm... Si queremos hacer m茨s que eso, tendremos[n]que inventar una idea.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Mmm... Si queremos hacer m茨s que eso, tendremos[n]que inventar una idea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9014]Considerando a todos ustedes hermosas damas[n]fueron especialmente elegidas para esta[n]especial...[n][f 1 3 65535][f 1 1][e]

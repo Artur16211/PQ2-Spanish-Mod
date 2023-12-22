@@ -41,13 +41,13 @@
 [msg MSG_012 [Dinosaurio Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 0]No, no he... Creo.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Herbívoro Malhumorado]]
+[msg MSG_013 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 1][f 3 1 1 0 0 0]Hey, todo el mundo, est茨 bien salir ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Enorme Herb胤voro]]
 [f 0 5 65278][f 2 1][f 4 6 48 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷En serio? 夷Se han ido?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Herbívoro Inquieto]]
+[msg MSG_015 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 0 1][f 3 1 1 0 0 0]Creo que... Al menos, parece seguro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Dinosaurio Con Auriculares]]

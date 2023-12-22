@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 0 1 1][f 3 1 1 0 0 5][f 6 1 2 0 0 6]斡S胤, yo tambi姻n! 斡Quiero tratar de ser un[n]ladr吋n fantasma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 8 1 4][f 3 1 1 0 0 6]Hmm... Me imagino que te ir胤as riendo durante[n]una infiltraci吋n y te encontrar胤as de[n]inmediato, Yukiko-senpai.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 8 1 4][f 3 1 1 0 0 6]Mmm... Me imagino que te ir胤as riendo durante[n]una infiltraci吋n y te encontrar胤as de[n]inmediato, Yukiko-senpai.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 7]Estar茨 bien. En el peor de los casos, pondr姻[n]todo en llamas.[n][f 1 3 65535][f 1 1][e]

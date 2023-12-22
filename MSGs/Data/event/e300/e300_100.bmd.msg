@@ -1,6 +1,6 @@
 ﻿[msg MSG_000 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 1]Ya veo, ustedes llegaron a trav姻s de[n]Tartarus...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 6 0 3][f 3 1 1 0 0 2]Termin姻 aqu胤 sin darme cuenta de que me hab胤an[n]reubicado cuando sal胤 de la Sala[n]Velvet...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 0 3][f 3 1 1 0 0 2]Termin姻 aqu胤 sin darme cuenta de que me hab胤an[n]reubicado cuando sal胤 de la Habitaci吋n[n]Terciopelo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 3]Aaaahem, si puedo ser tan atrevido a presentar[n]mis pensamientos sobre ese asunto...[n][f 1 3 65535][f 1 1][e]
@@ -43,7 +43,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 4]Adem茨s, 夷qu姻 pretendes explicar exactamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 19 1 0 3][f 4 6 80 12 0 0][f 3 1 1 0 0 17]It's in regards to the relationship[n]between you recent arrivals and[n][f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 1 0 3][f 4 6 80 12 0 0][f 3 1 1 0 0 17]Es con respecto a la relaci吋n entre[n]ustedes, los reci姻n llegados, y[n][f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18]Aunque ambos son conscientes de los mismos[n]lugares, s吋lo una parte reconoce a la[n]otra...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Elizabeth]]
@@ -54,7 +54,7 @@
 
 [msg MSG_016 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 4 6 74 0 2 0][f 3 1 1 0 0 21]Me disculpo, pero no podemos proporcionar[n]m茨s detalles.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22]Sin embargo, estamos seguros de que la Sala[n]Velvet es inseparable de los destinos de[n]sus hu姻spedes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22]Sin embargo, estamos seguros de que la Habitaci吋n[n]Terciopelo es inseparable de los destinos de[n]sus hu姻spedes.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 2 0][f 3 1 1 0 0 23]Nada sin sentido ocurre dentro. La raz吋n por[n]la que has encontrado a todos los dem茨s[n]en este mundo debe ser...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Margaret]]
@@ -409,11 +409,11 @@
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 150]Espera, somos demasiados para entrar en la[n]pel胤cula. Ser胤a mejor consolidar nuestra[n]cadena de mando primero.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_126 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 151]Ever since we joined up, we've been[n]leaving the command decisions to[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 152][f 6 1 2 0 0 4]Creo que ser胤a mejor continuar esta estrategia...[n]夷Cu茨l es tu opini吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 151]Desde que nos unimos, le hemos estado[n]dejando las decisiones a[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 152][f 6 1 2 0 0 4]Creo que ser胤a mejor continuar esta estrategia...[n]夷Qu姻 opinas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_127 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 153][f 6 1 2 0 0 4]Hm... 夷Le importar胤a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 153][f 6 1 2 0 0 4]Hm... 夷Te importar胤a?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_128 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Est茨 bien.[f 2 7 1 64 2 32][e]

@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Tengo "YS-07"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 28132]Hmm, parece que el tipo de unidad est茨[n]designado basado en nuestras asociaciones[n]habituales.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 28132]Mmm, parece que el tipo de unidad est茨[n]designado basado en nuestras asociaciones[n]habituales.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Los ladrones somos "TK", el Equipo de[n]Investigaci吋n es "YS", y SEES es... Um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Aigis]]
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 10 1 6][f 3 1 1 0 0 26058][f 6 1 2 0 0 6]斡Ni hablar! 夷Esperas un milagro acrob茨tico[n]de m胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0]Hmm. Si necesitamos a alguien que pueda[n]moverse r茨pidamente y tambi姻n puede evitar[n]el sistema de seguridad...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0]Mmm. Si necesitamos a alguien que pueda[n]moverse r茨pidamente y tambi姻n puede evitar[n]el sistema de seguridad...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 15 0 0 1][f 3 1 1 0 0 0]Lo har姻.[n][f 1 3 65535][f 1 1][e]

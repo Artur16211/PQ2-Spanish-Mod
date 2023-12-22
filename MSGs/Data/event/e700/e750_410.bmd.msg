@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 18002][f 6 1 2 0 0 4]Oye, 夷no es esa parte brillante del suelo[n]uno de esos interruptores?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 3][f 3 1 1 0 0 0]Hmm. Eso significa que hay un generador de[n]viento cerca...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 3][f 3 1 1 0 0 0]Mmm. Eso significa que hay un generador de[n]viento cerca...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero no parece haber nada que podamos hacer[n]al respecto desde aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]

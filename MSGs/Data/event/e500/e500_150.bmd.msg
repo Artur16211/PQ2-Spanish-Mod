@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 18 0 0 3][f 3 1 1 0 0 30][f 6 1 2 0 0 4]Entonces, 夷c吋mo vamos a conseguir estas[n]pel胤culas en sus pantallas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 31][f 6 1 2 0 0 3]Hmm... Normalmente, los cines no muestran lo[n]mismo a la vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 31][f 6 1 2 0 0 3]Mmm... Normalmente, los cines no muestran lo[n]mismo a la vez.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Si esperamos jugar al cine de Hikari a[n]todos simult茨neamente, 夷c吋mo lo har胤amos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_025 top]

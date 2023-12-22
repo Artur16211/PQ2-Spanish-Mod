@@ -10,7 +10,7 @@
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Fortalecer?[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]夷Sacrificing?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]夷Sacrificar?[f 2 7 1 64 0 32][e]
 
 [msg MSG_004 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 6][f 3 1 1 0 0 24047]夷Puedes fortalecer a nuestras Personas?[n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Uno se vuelve m茨s fuerte, mientras los otros[n]se pierden... Eso definitivamente ser胤a[n]considerado un sacrificio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Se puede hacer con Principal y Sub-Personas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Se puede hacer con la Principal y Secundaria?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 55058]S胤. Es posible ayudar a ambos a crecer...[n][f 1 3 65535][f 1 1][e]
@@ -82,5 +82,5 @@
 
 [msg MSG_022 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 65047][f 6 1 2 0 0 6]Eso no es... 斡No son s吋lo mis poemas, son[n]mis patos![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 16 1 0][f 3 1 1 0 0 0]斡Margaret est雨pido, eres el peor! D姻jalo,[n]夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 16 1 0][f 3 1 1 0 0 0]斡Margaret est雨pida, eres la peor! D姻jalo,[n]夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 

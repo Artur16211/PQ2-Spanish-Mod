@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Nada... Bueno, parece que encontramos algunos,[n]pero 夷es suficiente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 0 3][f 3 1 1 0 0 27094]Hmm... Parece menos de lo que esper茨bamos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 0 3][f 3 1 1 0 0 27094]Mmm... Parece menos de lo que esper茨bamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 1][f 3 1 1 0 0 0]斡No hay problema! Senpai podr胤a atrapar a un[n]pez usando nada pero su voluntad si[n]realmente quisiera![n][f 1 3 65535][f 1 1][e]

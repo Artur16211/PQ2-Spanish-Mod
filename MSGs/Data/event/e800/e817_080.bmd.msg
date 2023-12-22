@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 1 3][f 3 1 1 0 0 13013]Dulces... Me gusta el t姻 de la tarde. Quiz茨s[n]invite a Iori la pr吋xima vez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]Hmm... Bueno, lo disfrutamos, pero, por alguna[n]raz吋n, eso no suena exactamente como[n]lo de Iori...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]Mmm... Bueno, lo disfrutamos, pero, por alguna[n]raz吋n, eso no suena exactamente como[n]lo de Iori...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En este momento, tu 雨nica opci吋n podr胤a ser[n]intentar hacer algo que le guste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Mitsuru]]

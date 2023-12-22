@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 3][f 3 1 1 0 0 0]Vaya, Crow, eres tan genial.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 17002]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 17002]斡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]As胤 es, Koromaru. Tu nariz no ser茨 tan[n]efectiva contra los enemigos mec茨nicos[n]aqu胤.[n][f 1 3 65535][f 1 1][e]

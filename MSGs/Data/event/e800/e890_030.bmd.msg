@@ -42,7 +42,7 @@
 [sel SEL_012 top]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 64 1 0 3]斡Elizabeth![f 2 7 1 64 12 0][e]
 [f 0 5 65278][f 2 1]夷Elizabeth?[f 2 7 1 64 12 0][e]
-[f 0 5 65278][f 2 1]斡夷Elizabeth?[f 2 7 1 64 12 0][e]
+[f 0 5 65278][f 2 1]斡夷Elizabeth!?[f 2 7 1 64 12 0][e]
 
 [msg MSG_013 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 10 100 0][f 3 1 1 0 0 54001]斡Qu姻 sorpresa! 斡Tienes raz吋n! Supongo que no[n]eres un l胤der para nada, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]

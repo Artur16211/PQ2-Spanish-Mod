@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 9008][f 6 1 2 0 0 4]斡Hay dos puntos warp aqu胤! 夷Cu茨l tomamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]Hmm... Este es el primer tenedor real en la[n]carretera que hemos encontrado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]Mmm... Este es el primer tenedor real en la[n]carretera que hemos encontrado.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si adivinamos mal aqu胤, podr胤a reducir[n]significativamente nuestros esfuerzos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Junpei]]

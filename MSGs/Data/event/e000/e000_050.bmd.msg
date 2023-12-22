@@ -7,7 +7,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Esto parece ser otra forma diferente del[n]mundo cognitivo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 5]Quién sabe qué yace en sus profundidades. Golpea en el corazón de mi curiosidad intelectual.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 5]Qui姻n sabe qu姻 yace en sus profundidades. Golpea en el coraz吋n de mi curiosidad intelectual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 6]Por otro lado, es bastante aterrador...[n][f 1 3 65535][f 1 1][e]

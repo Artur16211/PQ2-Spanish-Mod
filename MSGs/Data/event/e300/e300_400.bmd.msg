@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]夷No es dif胤cil mantenerlos juntos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 13]Hmm... 夷En serio? Es muy divertido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 13]Mmm... 夷En serio? Es muy divertido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]Pero todo el mundo tiene personalidades[n]雨nicas... No son realmente la norma, 夷verdad?[n][f 1 3 65535][f 1 1][e]

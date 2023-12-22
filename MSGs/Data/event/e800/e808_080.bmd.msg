@@ -10,7 +10,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y si est茨 mintiendo, entonces va en contra[n]de la condici吋n de que s吋lo haya un[n]mentiroso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 0 1][f 3 1 1 0 0 26013]Hmm... Esto podr胤a ser dif胤cil. El camino[n]para convertirse en un detective incre胤ble[n]es dif胤cil.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 0 1][f 3 1 1 0 0 26013]Mmm... Esto podr胤a ser dif胤cil. El camino[n]para convertirse en un detective incre胤ble[n]es dif胤cil.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Cu茨l es el plan, Joker? 夷Quieres volver a[n]revisar la informaci吋n?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]

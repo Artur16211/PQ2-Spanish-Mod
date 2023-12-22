@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]Tambi姻n tengo curiosidad. 夷Te importar胤a si preguntamos c吋mo est茨n[n]relacionados?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 19 0 2 4][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 29]Hmm, es un poco dif胤cil de explicar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 19 0 2 4][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 29]Mmm, es un poco dif胤cil de explicar...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 30][f 6 1 2 0 0 4]Supongo que es alguien con quien he estado en[n]deuda desde hace tiempo, 夷no?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]

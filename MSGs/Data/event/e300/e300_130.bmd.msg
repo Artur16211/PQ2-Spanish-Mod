@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ser胤a mejor encontrar una fuente de informaci吋n[n]desarmada, as胤 que no nos atacar茨n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25013][f 6 1 2 0 0 3]Hmm... 夷D吋nde podemos encontrar un robot con[n]el que hablar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25013][f 6 1 2 0 0 3]Mmm... 夷D吋nde podemos encontrar un robot con[n]el que hablar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 12 0 3][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf! 斡Arf arf![n][f 1 3 65535][f 1 1][e]

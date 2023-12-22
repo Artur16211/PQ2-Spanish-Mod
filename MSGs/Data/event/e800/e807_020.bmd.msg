@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Supongo que tambi姻n se aplica a las cajas de[n]tesoros esta vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 24076]Hmm. As胤 que tomamos el corto camino y vamos[n]directo a la carne, o tomamos el largo[n]camino y agarramos el tesoro...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 24076]Mmm. As胤 que tomamos el corto camino y vamos[n]directo a la carne, o tomamos el largo[n]camino y agarramos el tesoro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Realmente quiero esa carne, pero el tesoro...[n][f 1 3 65535][f 1 1][e]

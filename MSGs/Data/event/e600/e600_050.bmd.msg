@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 25 0 0 0][f 4 6 65 7 0 1][f 3 1 1 0 0 14]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 15]Hey, Ryuji se qued吋 callado por alguna raz吋n.[n]夷Este festival te vol吋 la mente o algo[n]as胤? Hmm?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 15]Oye, Ryuji se qued吋 callado por alguna raz吋n.[n]夷Este festival te vol吋 la mente o algo[n]as胤? 夷Mmm?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 4]No, s吋lo pens姻 que suena genial... 夷Por qu姻[n]no lo revisamos?[n][f 1 3 65535][f 1 1][e]

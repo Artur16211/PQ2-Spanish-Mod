@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1]El poder fluye a trav姻s de m胤...[f 2 7 1 64 2 32][e]
 
 [msg MSG_012 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 0 1][f 3 1 1 0 0 28013]Hmm... Tengo que decir que no veo mucho cambio[n]en el exterior.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 0 1][f 3 1 1 0 0 28013]Mmm... Tengo que decir que no veo mucho cambio[n]en el exterior.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 72 12 0 1][f 3 1 1 0 0 28018]夷En serio? Te ves igual que nunca...[n][f 1 3 65535][f 1 1][e]
@@ -118,7 +118,7 @@
 
 [msg MSG_032 [Theodore]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]Nada menos que una obra maestra. Presento el[n]orgullo de mi oficio...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 76 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡El Hot Dog Artesanal al Estilo Velvet![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡El Hot Dog Artesanal al Estilo Terciopelo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 74 1 0 1][f 4 6 76 1 0 4][f 4 6 71 12 0 3][f 3 1 1 0 0 27011][f 6 1 2 0 0 4]...Um...[n][f 1 3 65535][f 1 1][e]

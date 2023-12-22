@@ -61,7 +61,7 @@
 
 [msg MSG_017 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 0 2 1][f 3 1 1 0 0 0]*隠am-隠am* Esto es bastante... *隠am-隠am*[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Hmm... Si fuera a cambiar los condimentos--*隠am-隠am*[n]quiz茨s podr胤a crear nuevos[n]sabores...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mmm... Si fuera a cambiar los condimentos--*隠am-隠am*[n]quiz茨s podr胤a crear nuevos[n]sabores...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 61018][f 6 1 2 0 0 4]夷Eh? 夷Nuevos sabores?[n][f 1 3 65535][f 1 1][e]

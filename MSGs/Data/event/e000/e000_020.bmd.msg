@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 6 41 2 0 0][f 3 1 1 0 0 6]夷No es eso lo que haces todos los d胤as?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 7]¡Cállate! Entonces, ¿qué hacemos ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 7]斡C茨llate! Entonces, 夷qu姻 hacemos ahora?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 8]La fecha limite a雨n est茨 lejos, pero 夷a qui姻n[n]le importa? 斡reun茨monos[n]todos en el escondite![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]

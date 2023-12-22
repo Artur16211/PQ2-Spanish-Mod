@@ -25,5 +25,5 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Dice "COOL KAMOSHIDAMAN" en la pared...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 24076]Hmm... Esto no parece el dibujo que buscamos.[n]Queremos el que sea diferente de los[n]dem茨s.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 24076]Mmm... Esto no parece el dibujo que buscamos.[n]Queremos el que sea diferente de los[n]dem茨s.[n][f 1 3 65535][f 1 1][e]
 

@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 0 4][f 3 1 1 0 0 0]Pero no hay espacio suficiente para un plan como ese.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Hmm, suena bien para m胤. Simplemente, descendemos desde arriba y la tom茨ramos de la plaza...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Mmm, suena bien para m胤. Simplemente, descendemos desde arriba y la tom茨ramos de la plaza...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 23017]Una distracci吋n, 夷eh? No suena mal, pero...[n][f 1 3 65535][f 1 1][e]

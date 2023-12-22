@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En otras palabras, esa pel胤cula es una clave,[n]una destinada a sacar m茨s posibilidades[n]de dentro de ti...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 1 3][f 3 1 1 0 0 28008]Hmm... Eso parece un poco de alcance para[n]m胤, pero supongamos que esta pel胤cula es[n]realmente un "key" a su poder.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 1 3][f 3 1 1 0 0 28008]Mmm... Eso parece un poco de alcance para[n]m胤, pero supongamos que esta pel胤cula es[n]realmente un "key" a su poder.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007_1 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 30 0 0 0] 姻l no parece haber cambiado mucho... 夷C吋mo[n]explicas eso?[n][f 1 3 65535][f 1 1][e]
@@ -122,7 +122,7 @@
 
 [msg MSG_029 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 56063]Entendido.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yo tambi姻n me preparar姻. Nos vemos en la Sala[n]Velvet.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yo tambi姻n me preparar姻. Nos vemos en la Habitaci吋n[n]Terciopelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 56103]Por supuesto. Por favor h茨blame de nuevo una[n]vez que est姻s preparado.[n][f 1 3 65535][f 1 1][e]
@@ -136,7 +136,7 @@
 
 [msg MSG_033 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Entendido.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yo tambi姻n me preparar姻. Nos vemos en la Sala[n]Velvet.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yo tambi姻n me preparar姻. Nos vemos en la Habitaci吋n[n]Terciopelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]En ese caso, por favor h茨blame de nuevo una[n]vez que est姻s preparado.[n][f 1 3 65535][f 1 1][e]

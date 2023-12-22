@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que este lugar no es diferente de las[n]pel胤culas anteriores, y, en ese caso,[n]esta pel胤cula tambi姻n es...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]Hmm? 夷Esta pel胤cula tambi姻n es qu姻?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]夷Mmm? 夷Esta pel胤cula tambi姻n es qu姻?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Quiero decir, no hemos visto ninguno de los[n]trailers hasta ahora, 夷qu姻 se supone que[n]hagamos aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Akechi]]

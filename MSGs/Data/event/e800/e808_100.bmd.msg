@@ -69,5 +69,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora, regresemos. Deber胤amos compartir[n]nuestros resultados con Elizabeth.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 5 1 1][f 3 1 1 0 0 28032]...Hmm. Fue un espect茨culo, detective Prince.[n]Muy entretenido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 5 1 1][f 3 1 1 0 0 28032]...Mmm. Fue un espect茨culo, detective Prince.[n]Muy entretenido.[n][f 1 3 65535][f 1 1][e]
 

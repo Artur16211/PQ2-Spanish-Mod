@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 1][f 3 1 1 0 0 25089]Tienen raz吋n. Luchar contra oponentes fuertes[n]podr胤a servir como buena experiencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 4][f 3 1 1 0 0 0]Hmm... Nos han ayudado mucho. 夷Quiz茨s deber胤amos[n]escucharlos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 4][f 3 1 1 0 0 0]Mmm... Nos han ayudado mucho. 夷Quiz茨s deber胤amos[n]escucharlos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54007]Parece que has llegado a una decisi吋n.[n][f 1 3 65535][f 1 1][e]

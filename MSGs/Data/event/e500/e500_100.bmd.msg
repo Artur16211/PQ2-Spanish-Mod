@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 4 1 1][f 3 1 1 0 0 24112]Lo que realmente necesitamos determinar es[n]d吋nde se est茨n analizando estos negativos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 4]Hmm... 夷Crees que tiene algo que ver con la[n]pel胤cula en la que est茨s caminando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 4]Mmm... 夷Crees que tiene algo que ver con la[n]pel胤cula en la que est茨s caminando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 1][f 3 1 1 0 0 0]Buen punto. 夷Esta pel胤cula que cubre el[n]terreno es m茨s de los negativos?[n][f 1 3 65535][f 1 1][e]

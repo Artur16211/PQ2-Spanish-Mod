@@ -32,7 +32,7 @@
 [msg MSG_008 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 14 12 0 3][f 3 1 1 0 0 12]Hay algo que olvid姻 mencionar antes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Cuando el Ladrones Fantasma y el Equipo de[n]Investigaci吋n llegaron a nuestro rescate[n]en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]For just a moment, Lucia misrecognized[n][f 6 1 27 0 0 0] as our leader.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Por un momento, Luc胤a confundi吋 a[n][f 6 1 27 0 0 0] con nuestra l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 4]夷Qu姻?[n][f 1 3 65535][f 1 1][e]

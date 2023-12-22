@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 6][f 3 1 1 0 0 8016][f 6 1 2 0 0 4]夷Qu姻 dice Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 6 1 0][f 3 1 1 0 0 11086]Hmm... He said, "斡Arf arf!"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 6 1 0][f 3 1 1 0 0 11086]Mmm... El dijo, "斡Arf arf!"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 1][f 3 1 1 0 0 10091]夷Eres est雨pido? Todos o胤mos eso.[n][f 1 3 65535][f 1 1][e]

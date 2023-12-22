@@ -34,7 +34,7 @@
 [msg MSG_009 [Voz De Mujer Desesperada]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 3 1 1 0 0 14][f 6 1 3 0 0 1][f 6 1 9 0 0 1]Tienes que aprovechar la felicidad por tu[n]cuenta... S胤... As胤 es.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Voz Apática De Hombre]]
+[msg MSG_010 [Voz Ap茨tica De Hombre]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15][f 6 1 3 0 0 3][f 6 1 9 0 0 1]夷Podr胤a... realmente hacer eso tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Hero]]
@@ -46,7 +46,7 @@
 [msg MSG_013 [Voz Cansada De Hombre]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18][f 6 1 3 0 0 3][f 6 1 9 0 0 1]As胤 es... Es demasiado pronto para que me[n]rinda tan f茨cilmente.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Voz Apática De Hombre]]
+[msg MSG_014 [Voz Ap茨tica De Hombre]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 3 0 0 1][f 6 1 9 0 0 1]Yo tambi姻n me voy. 斡No permitir姻 que la gente[n]piense que me molesta de nuevo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P4 Hero]]

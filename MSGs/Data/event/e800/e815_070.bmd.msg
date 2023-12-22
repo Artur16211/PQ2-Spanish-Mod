@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me hizo pensar que... tal vez somos iguales,[n]Akechi.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 0 1][f 3 1 1 0 0 28013]Hmm... 夷Qu姻 te hace decir eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 0 1][f 3 1 1 0 0 28013]Mmm... 夷Qu姻 te hace decir eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 3][f 3 1 1 0 0 0]Koromaru es un perro inteligente, as胤 que[n]puede recoger ese tipo de cosas.[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 3][f 3 1 1 0 0 0]Lo siento... Probablemente no tengas idea de[n]lo que estoy hablando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Koromaru]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 17002]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 17002]斡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 4 0 3][f 3 1 1 0 0 16003]Me est茨 llamando, as胤 que tengo que irme.[n]斡Lo siento, olvida que dije algo![n][f 1 3 65535][f 1 1][e]

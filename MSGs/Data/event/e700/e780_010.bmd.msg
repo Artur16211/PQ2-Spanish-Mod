@@ -6,7 +6,7 @@
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1]Justo aqu胤 para hacer una peque隠a charla.[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]H茨blame de Sub-Personas.[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]H茨blame de las Personas Secundarias.[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]No, me ir姻.[f 2 7 1 64 6 32][e]
 
 [msg MSG_004 [Caroline]]
@@ -38,14 +38,14 @@
 
 [msg MSG_012 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 2 0 0][f 3 1 1 0 0 59012]Llamaremos al est茨ndar de todos Persona su[n][f 0 1 2] "Persona Principal"[f 0 1 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1]Y los que obtenga de la pel胤cula, llamaremos[n][f 0 1 2] "Sub-Personas"[f 0 1 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1]Y los que obtenga de la pel胤cula, llamaremos[n][f 0 1 2] "Personas Secundarias"[f 0 1 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 12 0 0]En otras palabras, todos ustedes pueden usar[n][f 0 1 2]two Personas[f 0 1 0], un "Main"[n]y un "Sub"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 12 0 0]En otras palabras, todos ustedes pueden usar[n][f 0 1 2]2 personas[f 0 1 0], un "Principal"[n]y un "Secundaria"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 59059]No s姻 por qu姻 ha cambiado el poder de la[n]tarjeta salvaje. Sin embargo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1]Puede haber otras cosas que podamos ayudar[n]en lo que respecta a las Sub-Personas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1]Puede haber otras cosas que podamos ayudar[n]en lo que respecta a las Personas Secundarias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 4 1 0]斡Hasta entonces, mejor sigan haciendo lo que[n]hay que hacer! 夷Entendido?[n][f 1 3 65535][f 1 1][e]

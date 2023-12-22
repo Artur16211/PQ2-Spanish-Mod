@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 0 3][f 3 1 1 0 0 24044]斡Ahora a buscar ese "Mecanismo de la pr吋xima[n]generaci吋n"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 1][f 3 1 1 0 0 0]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 1][f 3 1 1 0 0 0]斡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Miramos dentro del contenedor...[n][f 1 3 65535][f 1 1][e]

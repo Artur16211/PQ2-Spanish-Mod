@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si esto fuera una b雨squeda regular de tesoros,[n]podr胤amos haber conseguido un premio[n]diferente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 0 4][f 3 1 1 0 0 0]夷Por qu姻...? Hmm, nunca pens姻 en ello.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 0 4][f 3 1 1 0 0 0]夷Por qu姻...? Mmm, nunca pens姻 en ello.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3]夷Porque es festivo?[f 2 7 1 64 0 32][e]
