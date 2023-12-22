@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 6][f 3 1 1 0 0 4]Vale, vale, podemos hablar de eso m茨s tarde.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chico Inteligente]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 5]As胤 es. Una vez que Rise-san se recupera,[n]tenemos que volver inmediatamente y buscar[n]Yosuke-senpai.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 5]As胤 es. Una vez que Rise se recupera,[n]tenemos que volver inmediatamente y buscar[n]Yosuke-senpai.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 0 0 3][f 3 1 1 0 0 6][f 6 1 2 0 0 4]夷Arriba? 夷Kikiwa?[n][f 1 3 65535][f 1 1][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 10 1 0][f 3 1 1 0 0 12][f 6 1 2 0 0 3]Pero eso no puede ser... Risette ya no es un[n]estudiante de secundaria.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chica Reservada]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 13]夷夷Eh? Rise-chan va a nuestro instituto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 13]夷夷Eh? Rise va a nuestro instituto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Est茨 tomando un descanso de su carrera en el[n]mundo del espect茨culo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]

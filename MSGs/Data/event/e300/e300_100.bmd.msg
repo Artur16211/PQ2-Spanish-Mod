@@ -218,7 +218,7 @@
 
 [msg MSG_067 [Chico Con Gorra De B姻isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 81]No, no, tienes un A+ para esa respuesta![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 82][f 6 1 2 0 0 6]"Madre" es una de las cualidades que define[n]Shinjiro-san![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 82][f 6 1 2 0 0 6]"Madre" es una de las cualidades que define[n]Shinjiro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 4 0 0][f 3 1 1 0 0 83][f 6 1 2 0 0 2]Junpei, peque隠o..[n][f 1 3 65535][f 1 1][e]
@@ -248,7 +248,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 6][f 3 1 1 0 0 93]Oh, as胤 que no puedes ser un gato, pero est茨s[n]bien con la gripe, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_076 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 1][f 4 6 16 1 0 4][f 4 6 5 12 0 3][f 3 1 1 0 0 94][f 6 1 2 0 0 4]Ken-kun, 夷est茨s en la escuela primaria?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 1][f 4 6 16 1 0 4][f 4 6 5 12 0 3][f 3 1 1 0 0 94][f 6 1 2 0 0 4]Ken, 夷est茨s en la escuela primaria?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 95]S胤, estoy en quinto grado...[n][f 1 3 65535][f 1 1][e]
@@ -326,7 +326,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 122]Para pensar que hay otros usuarios de Persona[n]adem茨s de nosotros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_100 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 1 0 4][f 4 6 81 1 0 1][f 4 6 10 12 0 3][f 3 1 1 0 0 123]Nagi-san y Hikari-chan no son los usuarios[n]de Persona, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 1 0 4][f 4 6 81 1 0 1][f 4 6 10 12 0 3][f 3 1 1 0 0 123]Nagi y Hikari no son los usuarios[n]de Persona, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 124][f 6 1 2 0 0 4]夷Estabas aqu胤 cuando el cine se puso muy mal?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_101 [Hikari]]

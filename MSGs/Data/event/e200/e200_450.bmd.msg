@@ -18,13 +18,13 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 7]Veo lo que quieres decir... Quiz茨s nuestras[n]ediciones de las pel胤culas lo est茨n[n]afectando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 19 12 2 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 8]夷Te sientes mejor ahora, Hikari-chan? Estabas[n]temblando mucho antes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 19 12 2 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 8]夷Te sientes mejor ahora, Hikari? Estabas[n]temblando mucho antes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-Mmhm... Lo siento, estoy bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 10]Hikari-san parece estar extremadamente nervioso[n]en la presencia de Doe.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 10]Hikari parece estar extremadamente nervioso[n]en la presencia de Doe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 4 12 0 4][f 3 1 1 0 0 11]夷Hola? 斡Tiene sentido para m胤![n][f 1 3 65535][f 1 1][e]

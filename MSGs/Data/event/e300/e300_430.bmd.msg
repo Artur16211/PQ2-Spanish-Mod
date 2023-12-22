@@ -6,13 +6,13 @@
 
 [msg MSG_002 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]HAY ALGO QUE NO PUEDO ENTENDER EN LAS REGLAS[n]DE SUS ACCIONES.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷POR QU畏 RECUERDAS A AIGIS-SAN COMO UNA[n]"INDIVIDUAL"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷POR QU畏 RECUERDAS A AIGIS COMO UNA[n]"INDIVIDUAL"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10019]夷Por qu姻...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 0]AIGIS-SAN ES UN HELIC遺PTERO. ELLA NO ES UNA[n]BECA ORG威NICA, COMO EL RESTO DE TI.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 0]AIGIS ES UN HELIC遺PTERO. ELLA NO ES UNA[n]BECA ORG威NICA, COMO EL RESTO DE TI.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 2031]Es f茨cil...[n][f 1 3 65535][f 1 1][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35007]PERO MIS "COMPA謂IONES" ME RECUERDAN COMO UN[n]REY. NO ME AYUDAR威N.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19005]Oye, Ribbon-chan, 夷c吋mo describir胤as un[n]"compani吋n"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19005]Oye, Ribbon, 夷c吋mo describir胤as un[n]"compani吋n"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]RECONOZCO AL GRUPO COMO DEFINI畏NDOLOS CON LA[n]MISMA ACTITUD, LAS RIQUEZAS Y LA ESPALDA[n]DE LOS ALTARES.[n][f 1 3 65535][f 1 1][e]
@@ -72,7 +72,7 @@
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]*giggle* 夷Recuerdas lo que dijimos antes? La[n]respuesta a esta es simple, tambi姻n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es porque eres igual de un compa隠ero para[n]nosotros como Aigis, Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es porque eres igual de un compa隠ero para[n]nosotros como Aigis, Ribbon.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]YO... 夷SOY UNA EMPRESA?[n][f 1 3 65535][f 1 1][e]
@@ -90,7 +90,7 @@
 
 [msg MSG_027 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19130]*giggle* Aigis...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19006][f 6 1 2 0 0 4]Bueno, empecemos de nuevo. 夷Est茨s listo para[n]ir, Ribbon-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19006][f 6 1 2 0 0 4]Bueno, empecemos de nuevo. 夷Est茨s listo para[n]ir, Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35002][f 6 1 2 0 0 6]S緯. SOY TU EMPRESA. 斡DEBER緯A PROBARTE![n][f 1 3 65535][f 1 1][e]

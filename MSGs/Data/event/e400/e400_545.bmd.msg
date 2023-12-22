@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 1][f 3 1 1 0 0 3]Cielos... C茨lmate un poco, 夷de acuerdo? Al[n]menos intenta mantener un poco de compostura[n]ahora que estamos al final.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 4]Ah胤 est茨. Mit-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 4]Ah胤 est茨. Mit...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 8]S姻 que te est茨s poniendo triste porque tendr茨s[n]que despedirte de m胤, 斡pero deber胤as[n]soportarlo sin ponerte tan testioso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Mitsuru]]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 6 2 0 1][f 3 1 1 0 0 8][f 6 1 2 0 0 7]斡Bienvenidos a todos! 斡Esa pel胤cula fue[n]genial![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 2 4][f 3 1 1 0 0 9]No pude evitar llorar. Me alegro mucho por[n]ti, Hikari-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 2 4][f 3 1 1 0 0 9]No pude evitar llorar. Me alegro mucho por[n]ti, Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 18 2 0][f 3 1 1 0 0 10]Todos... Siento haberos preocupado a todos.[n][f 1 3 65535][f 1 1][e]

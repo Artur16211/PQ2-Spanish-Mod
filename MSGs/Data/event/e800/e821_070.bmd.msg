@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Sheesh... Esto no va a ser f茨cil.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 24112]Es bastante peculiar, pero me siento mucho[n]m茨s poderoso despu姻s de comer la cocina[n]de Aragaki-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 1][f 3 1 1 0 0 24112]Es bastante peculiar, pero me siento mucho[n]m茨s poderoso despu姻s de comer la cocina[n]de Aragaki.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 0]Probablemente es porque est茨s lleno.[n][f 1 3 65535][f 1 1][e]

@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11030]夷Tal vez nos probaron "huevos"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 0]*sigh* Just ignore him,[n][f 6 1 30 0 0 0]-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 3][f 3 1 1 0 0 0]*sigh* Just ignore him,[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 4][f 3 1 1 0 0 26092]No, alguien definitivamente plane吋 esto.[n][f 1 3 65535][f 1 1][e]

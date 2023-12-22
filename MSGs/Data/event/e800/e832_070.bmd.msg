@@ -37,7 +37,7 @@
 [msg MSG_010 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 73 10 0 0][f 3 1 1 0 0 9102][f 6 1 2 0 0 10]Eek... Pero entonces el para胤so se asar茨[n]conmigo...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 73 12 0 0][f 3 1 1 0 0 0]斡No importa! Como miembro de la brigada de[n]belleza, voy a seguir d茨ndole todo lo que[n]tengo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 73 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Ai-chan, Rise-chan, Haru-chan! 斡Robamos los[n]corazones de todos juntos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 73 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Ai, Rise, Haru! 斡Robamos los[n]corazones de todos juntos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 27032][f 6 1 2 0 0 6]斡S胤, vamos a hacerlo![n][f 1 3 65535][f 1 1][e]

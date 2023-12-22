@@ -10,7 +10,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Lo 雨nico es que no tenemos receta para[n]trabajar. 夷Eso ser茨 un problema?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 0]Naoto-kun, nuevos descubrimientos siempre[n]est茨n esperando ser hechos en la cocina.[n]斡S吋lo tenemos que creer en nosotros[n]mismos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 0]Naoto, nuevos descubrimientos siempre[n]est茨n esperando ser hechos en la cocina.[n]斡S吋lo tenemos que creer en nosotros[n]mismos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 2 100 0][f 3 1 1 0 0 6573][f 3 1 6 0 0 500]Mmhm! La improvisaci吋n de un plato sabroso[n]con un n雨mero m胤nimo de ingredientes es[n]tambi姻n una habilidad 雨til para cocinar.[n][f 1 3 65535][f 1 1][e]
@@ -130,7 +130,7 @@
 
 [msg MSG_040 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 28031]Parece que estamos listos para cocinar una[n]vez que las damas regresen.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 0]Joker y [f 6 1 12 0 0 0]-kun ambos manejaban[n]todo tan h茨bilmente. Estoy impresionado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 0]Joker y [f 6 1 12 0 0 0] ambos manejaban[n]todo tan h茨bilmente. Estoy impresionado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 0]Ya parece sabroso y ni siquiera est茨 cocinado[n]todav胤a... Estoy emocionada de ver c吋mo[n]resulta esto.[n][f 1 3 65535][f 1 1][e]
@@ -211,7 +211,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5074]Es muy carnoso y fibroso, as胤 que apuesto a[n]que tiene una gran textura. Parece que[n]tambi姻n ser胤a bastante saludable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No es Amagi-san el pr吋ximo en fila para ser[n]la anfitriona de alguna posada[n]hist吋rica?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No es Amagi el pr吋ximo en fila para ser[n]la anfitriona de alguna posada[n]hist吋rica?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066_5 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0]夷He o胤do eso mal? Por favor dime que lo[n]hice...[n][f 1 3 65535][f 1 1][e]
@@ -230,7 +230,7 @@
 
 [msg MSG_071 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 1 0 1][f 4 6 27 12 0 4][f 3 1 1 0 0 0]斡Son hongos salvajes de matsutake![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 27 0 0 0]-chan los vio, entonces las damas de los[n]Ladrones Fantasma giraron todos los 雨ltimos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 27 0 0 0] los vio, entonces las damas de los[n]Ladrones Fantasma giraron todos los 雨ltimos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3049][f 6 1 2 0 0 6]斡Daaaaamn! Esas cosas son caras, 斡y hay[n]tantos![n][f 1 3 65535][f 1 1][e]

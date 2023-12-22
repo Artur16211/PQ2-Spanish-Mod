@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 26542]Eso dijo, me gustan los juegos de rompecabezas.[n]D姻jame esas cosas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 3][f 3 1 1 0 0 0]Tambi姻n tenemos a Naoto-kun. Es detective,[n]despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 3][f 3 1 1 0 0 0]Tambi姻n tenemos a Naoto. Es detective,[n]despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Por favor, no soy nada comparado con Oracle.[n][f 1 3 65535][f 1 1][e]

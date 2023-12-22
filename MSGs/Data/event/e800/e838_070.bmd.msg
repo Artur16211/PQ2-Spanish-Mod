@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 1][f 3 1 1 0 0 0]Hah! Cuidado. Incluso cuando est姻s en tus[n]l胤mites, tienes que concentrarte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Guh, hah... No est茨 mal... Junpei-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Guh, hah... No est茨 mal... Junpei.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Pensaste que... te hab胤as ido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Junpei]]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que... todav胤a... tengo que fortalecerme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 6 2 6][f 3 1 1 0 0 7048]Hombre, Junpei-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 6 2 6][f 3 1 1 0 0 7048]Hombre, Junpei...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 7 8 2 6][f 3 1 1 0 0 0]Tal vez me equivoqu姻 contigo. Despu姻s de[n]todo, tienes algo de gracia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
@@ -49,7 +49,7 @@
 
 [msg MSG_014 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 14 1 6][f 3 1 1 0 0 7092]斡No te averguences por eso! Tienes algo que[n]quieres proteger, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 7 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Entonces seamos m茨s fuertes! 斡Akihiko-san[n]puede ayudarnos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Entonces seamos m茨s fuertes! 斡Akihiko[n]puede ayudarnos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0]Bueno... Tal vez eso pueda esperar hasta la[n]pr吋xima vez...[n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Dije la pr吋xima vez! 夷No has o胤do esa parte?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 2 2 6][f 3 1 1 0 0 0]Junpei-san... 斡Lo tienes! 斡Te estoy animando![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 2 2 6][f 3 1 1 0 0 0]Junpei... 斡Lo tienes! 斡Te estoy animando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 12032]No te preocupes, Kanji. 斡Tambi姻n te he hecho[n]un r姻gimen de entrenamiento![n][f 1 3 65535][f 1 1][e]

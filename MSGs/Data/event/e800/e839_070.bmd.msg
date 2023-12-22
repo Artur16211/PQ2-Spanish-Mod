@@ -25,7 +25,7 @@
 
 [msg MSG_007 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 0]S胤...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 2 6 0][f 3 1 1 0 0 61147]Hanamura-kun, Sakamoto-kun, Iori- kun. Muchas[n]gracias.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 6 0][f 3 1 1 0 0 61147]Hanamura, Sakamoto, Iori. Muchas[n]gracias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0]斡No hay necesidad de ponerse muy sensible![n]斡Los amigos se ayudan, ya sabes![n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me has dado el valor de avanzar, y quiero[n]expresar lo agradecido que estoy por eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Hikari-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 6][f 3 1 1 0 0 11101]Espera, espera... hay polvo en mi ojo...[n][f 1 3 65535][f 1 1][e]

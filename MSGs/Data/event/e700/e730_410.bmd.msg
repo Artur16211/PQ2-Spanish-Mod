@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 1][f 3 1 1 0 0 0]斡Lo s姻! Estoy hablando de la actitud general[n]que me est茨 molestando...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28015]夷Est茨s preguntando qui姻n decidi吋 lo "normal"[n]que se supone que est茨 en este mundo,[n]Takeba-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28015]夷Est茨s preguntando qui姻n decidi吋 lo "normal"[n]que se supone que est茨 en este mundo,[n]Takeba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 2 1][f 3 1 1 0 0 10071][f 6 1 2 0 0 6]斡S胤, eso! Quiero saber qui姻n ha programado[n]este tipo de estilo de vida en las[n]m茨quinas.[n][f 1 3 65535][f 1 1][e]

@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 4 0 0][f 3 1 1 0 0 0]斡Bark! Grrrr...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]Koromaru-san tambi姻n est茨 muy nervioso. Parece[n]ser el enemigo peligroso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]Koromaru tambi姻n est茨 muy nervioso. Parece[n]ser el enemigo peligroso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 6 0 1][f 3 1 1 0 0 24013][f 6 1 2 0 0 3]Si esa monstruosidad iba a ir en una rampa,[n]imagino que podr胤a destruir f茨cilmente[n]los Cines alrededor de ella...[n][f 1 3 65535][f 1 1][e]

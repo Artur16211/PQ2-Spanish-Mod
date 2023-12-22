@@ -12,7 +12,7 @@
 
 [msg MSG_004 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0]S吋lo te di una peque隠a pista, es todo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Incluso podr胤as ser cortado para los Ladrones[n]Fantasma, Chie-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Incluso podr胤as ser cortado para los Ladrones[n]Fantasma, Chie.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]De nada.[f 2 7 1 20 2 32][e]
@@ -24,23 +24,23 @@
 
 [msg MSG_007 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 0]El equipo de investigaci吋n y los ladrones[n]fantasmas, 夷eh?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 9029][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie-chan,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 9029][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4049][f 6 1 2 0 0 4]斡Ser姻 investigador de d胤a, ladr吋n fantasma[n]de noche! 夷Algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie-chan,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 9016]El equipo de investigaci吋n y los ladrones[n]fantasmas, 夷eh?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie-chan,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Con alguien tan apasionado como t雨, Chie,[n]apuesto a que lo har胤as genial en[n]ambos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Incluso si te uniste al Fantasma Thieves,[n]siempre estaremos ah胤 para ti, Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 1 0 0][f 4 6 22 2 0 0][f 3 1 1 0 0 22067][f 6 1 2 0 0 7]S胤, seguro que ser胤as un gran ladr吋n de[n]fantasmas, Chie-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 1 0 0][f 4 6 22 2 0 0][f 3 1 1 0 0 22067][f 6 1 2 0 0 7]S胤, seguro que ser胤as un gran ladr吋n de[n]fantasmas, Chie![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4050]Awww geez, ustedes me est茨n haciendo rubor.[n][f 1 3 65535][f 1 1][e]

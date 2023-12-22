@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35026]Lo siento, pero mi capacidad m茨xima es de 20[n]kg.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 4067][f 6 1 2 0 0 6]斡Entonces podemos llevar uno juntos,[n]Ribbon-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 4067][f 6 1 2 0 0 6]斡Entonces podemos llevar uno juntos,[n]Ribbon![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Vamos a ver, necesitamos un total de una[n]tonelada, as胤 que... 夷Cu茨ntas cajas es 姻sa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ribbon]]
@@ -344,7 +344,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 3 2 0 1][f 3 1 1 0 0 3048][f 6 1 2 0 0 6]斡Gran trabajo, compa隠ero! 斡Otra respuesta[n]correcta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_105 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 0]Seguir adelante es bueno y todo, pero tambi姻n[n]necesitas contribuir, Hanamura-kun.[n]A雨n no has respondido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 0]Seguir adelante es bueno y todo, pero tambi姻n[n]necesitas contribuir, Hanamura.[n]A雨n no has respondido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_106 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3033][f 6 1 2 0 0 10]Eheh... 斡Lo s姻, lo s姻! 斡Es hora de que me[n]ponga en serio![n][f 1 3 65535][f 1 1][e]
@@ -368,7 +368,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 16067]斡S胤, yo tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_113 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0 0]-chan realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0 0] realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_114 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 0][f 3 1 1 0 0 10068]S胤, es una l胤der natural.[n][f 1 3 65535][f 1 1][e]

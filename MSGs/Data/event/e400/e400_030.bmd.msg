@@ -10,7 +10,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Me recuerda a un parque tem茨tico, pero se[n]siente espeluznante por alguna raz吋n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Entiendo lo que quieres decir, Yukari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Entiendo lo que quieres decir, Yukari.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es tan brillante aqu胤, pero hay algo[n]escalofriante y espeluznante sobre todo, incluso[n]ominoso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
@@ -79,13 +79,13 @@
 [f 0 5 65278][f 2 1]Estoy preocupada por Hikari.[f 2 7 1 20 8 32][e]
 
 [msg MSG_021 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19067]Mmhm! 斡Debemos apresurarnos y buscar a[n]Hikari-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19067]Mmhm! 斡Debemos apresurarnos y buscar a[n]Hikari![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1064]Calma como siempre, bastante impresionante.[n]Es verdad que todos nuestros esfuerzos[n]no ser胤an por nada si nos sacamos de aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Pero, me pregunto si Hikari-chan estar茨[n]bien... Estoy preocupada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Pero, me pregunto si Hikari estar茨[n]bien... Estoy preocupada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 6 0 1][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 2066]S胤, a diferencia de nosotros, ella no tiene[n]medios para luchar...[n][f 1 3 65535][f 1 1][e]

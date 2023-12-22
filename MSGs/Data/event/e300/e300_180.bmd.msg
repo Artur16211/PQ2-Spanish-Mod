@@ -17,10 +17,10 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 16 10 0 3][f 3 1 1 0 0 16037][f 6 1 2 0 0 0]斡Koromaru...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 3][f 3 1 1 0 0 35024]ESA DIRECCI遺N... PARECE QUE KOROMARU-SAN HA[n]ENCONTRADO "LA PUERTA"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 3][f 3 1 1 0 0 35024]ESA DIRECCI遺N... PARECE QUE Koromaru HA[n]ENCONTRADO "LA PUERTA"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 22 8 1 3][f 3 1 1 0 0 22051][f 6 1 2 0 0 10]斡Espera! Chicos, incluso Ribbon-chan se ha[n]ido - 斡Vamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 22 8 1 3][f 3 1 1 0 0 22051][f 6 1 2 0 0 10]斡Espera! Chicos, incluso Ribbon se ha[n]ido - 斡Vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 12 0 6][f 3 1 1 0 0 23072][f 6 1 2 0 0 6]Algo sobre una puerta, 夷eh? 斡Vamos, Joker![n]Vamos a ver esto.[n][f 1 3 65535][f 1 1][e]

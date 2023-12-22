@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 38 0 1 1][f 3 1 1 0 0 8]Los maestros no son aliados de los d姻biles.[n]No hay cosas como h姻roes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]夷Es Hikari-san del pasado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]夷Es Hikari del pasado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 38 1 1 0][f 3 1 1 0 0 10]El poder para hacer que la gente haga lo que[n]se les dice... Mi profesor me oblig吋 a[n]disculparme usando ese poder...[n][f 1 3 65535][f 1 1][e]
@@ -30,7 +30,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 11]... As胤 es. Mi profesor no era un h姻roe.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 10 0 3][f 3 1 1 0 0 12][f 6 1 2 0 0 0]Espera, 夷qu姻 otro Hikari-chan? 夷Es ella la[n]verdadera?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 10 0 3][f 3 1 1 0 0 12][f 6 1 2 0 0 0]Espera, 夷qu姻 otro Hikari? 夷Es ella la[n]verdadera?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 6 0 0 500][f 3 1 1 0 0 13][f 6 1 2 0 0 6]No hay duda de que es real![n][f 1 3 65535][f 1 1][e]
@@ -54,10 +54,10 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 21][f 6 1 2 0 0 6]La verdad es que... lo que realmente quer胤a[n]decirle era..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Profesor De Primaria]]
-[f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 22][f 6 1 2 0 0 0]Hikari-san... 夷A雨n me est茨s desafiando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 22][f 6 1 2 0 0 0]Hikari... 夷A雨n me est茨s desafiando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Profesor De Primaria]]
-[f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 23]Shiratori-san... 夷A雨n me est茨s desafiando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 23]Shiratori... 夷A雨n me est茨s desafiando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 38 2 1 0][f 3 1 1 0 0 24]Te negaste a escucharme...[n][f 1 3 65535][f 1 1][e]
@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 4 6 1][f 3 1 1 0 0 28][f 6 1 2 0 0 1]斡Noooo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 2 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 29]斡Hikari-chan! 斡Cuidado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 2 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 29]斡Hikari! 斡Cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 1 4][f 3 1 1 0 0 30][f 6 1 2 0 0 6]Tch, tenemos que salvarla![n][f 1 3 65535][f 1 1][e]

@@ -66,7 +66,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 15 1 0 1][f 4 6 17 0 0 3][f 3 1 1 0 0 24][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 25]Koromaru-san tambi姻n es entusiasta. Dijo:[n]"Reg胤streme tambi姻n"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 25]Koromaru tambi姻n es entusiasta. Dijo:[n]"Reg胤streme tambi姻n"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 1 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26]斡S胤! Hikari, eres parte del Ladrones Fantasma[n]tambi姻n ahora, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]Lo mismo pasa por nuestro propio l胤der, pero[n]el tuyo es tan confiable... 斡Estoy[n]impresionado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 2 0 4][f 3 1 1 0 0 33]Right? They're all so dependable―even[n][f 6 1 27 0 0 0]-san's got guts![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 0 4][f 3 1 1 0 0 33]Right? They're all so dependable―even[n][f 6 1 27 0 0 0]'s got guts![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 6 0 1][f 3 1 1 0 0 34]Excelente punto - va a ser el reto mantener[n]a individuos tan inusualmente 雨nicos en[n]l胤nea.[n][f 1 3 65535][f 1 1][e]

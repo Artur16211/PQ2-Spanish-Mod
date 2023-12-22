@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 4][f 3 1 1 0 0 0]Entonces, 夷por qu姻 no hago un medley de mis[n]cosas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 3][f 3 1 1 0 0 4081]Obviamente preferir胤amos escuchar a Rise-chan,[n]Yosuke.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 3][f 3 1 1 0 0 4081]Obviamente preferir胤amos escuchar a Rise,[n]Yosuke.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500][f 6 1 2 0 0 6]斡Eso ser胤a genial! 斡Me encantar胤a escuchar[n]a Risette cantar en vivo![n][f 1 3 65535][f 1 1][e]

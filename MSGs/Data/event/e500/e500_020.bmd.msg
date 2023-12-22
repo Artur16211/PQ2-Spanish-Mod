@@ -2,14 +2,14 @@
 [f 0 5 65278][f 2 1][f 4 6 39 1 0 1][f 4 6 16 10 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 4]夷Su color de pelo cambi吋... por su cuenta?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 10 1 6][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷N-Nagi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 10 1 6][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷N-Nagi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [夷Nagi?]]
 [f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 3]*chuckle* No hay necesidad de estar tan[n]sorprendido.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Qui姻n eres?[f 2 7 1 64 0 32][e]
-[f 0 5 65278][f 2 1]夷D吋nde est茨 Nagi-san?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]夷D吋nde est茨 Nagi?[f 2 7 1 64 0 32][e]
 
 [msg MSG_004 [夷Nagi?]]
 [f 0 5 65278][f 2 1][f 4 6 39 12 0 0][f 3 1 1 0 0 4]Por favor, si姻ntete libre de llamarme "Enlil"[n][f 1 3 65535][f 1 1][e]
@@ -20,10 +20,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Por favor, si姻ntete libre de llamarme "Enlil"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 0][f 3 1 1 0 0 9]Todo sobre ser curador y querer salvar a[n]Hikari-chan, todos eran mentiras tambi姻n,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 0][f 3 1 1 0 0 9]Todo sobre ser curador y querer salvar a[n]Hikari, todos eran mentiras tambi姻n,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Enlil]]
-[f 0 5 65278][f 2 1][f 4 6 39 0 0 0][f 3 1 1 0 0 10]Nada de eso, querida. Prepar姻 cada uno de[n]estos cines, incluyendo Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 0 0 0][f 3 1 1 0 0 10]Nada de eso, querida. Prepar姻 cada uno de[n]estos cines, incluyendo Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 6][f 3 1 1 0 0 11][f 6 1 2 0 0 6]夷Eso es lo que son? 斡Est茨n por todas partes![n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 
 [msg MSG_022 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 32]No entiendo por qu姻...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 2 0 0 4]Quiero decir, t雨 eres el que atrap吋 a Hikari-san[n]y el resto de nosotros aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 2 0 0 4]Quiero decir, t雨 eres el que atrap吋 a Hikari[n]y el resto de nosotros aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 3 0 0 1]He entendido la decisi吋n que has alcanzado.[n]Si desea salir de aqu胤, por favor,[n]h茨galo.[n][f 1 3 65535][f 1 1][e]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 40]Hay m茨s gente aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Enlil]]
-[f 0 5 65278][f 2 1][f 4 6 39 0 0 0][f 3 1 1 0 0 41]Admito que podr胤as haber cambiado el coraz吋n[n]de Hikari-san para que ahora quiera[n]salir contigo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 0 0 0][f 3 1 1 0 0 41]Admito que podr胤as haber cambiado el coraz吋n[n]de Hikari para que ahora quiera[n]salir contigo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 39 6 0 0][f 3 1 1 0 0 42]Sin embargo, esto es como tomar pero un solo[n]grano de arena de una playa infinita.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 43]Incluso en este mismo momento, otra persona[n]que desea escapar de su realidad ha[n]encontrado un Cine, y otro, ahora...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 39 12 0 0][f 3 1 1 0 0 44]Mientras haya gente con este deseo, no habr茨[n]fin para los cines que proyectan su[n]salvaci吋n.[n][f 1 3 65535][f 1 1][e]

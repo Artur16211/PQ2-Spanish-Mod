@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 1][f 3 1 1 0 0 0]Encuentra flores de canto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 3][f 3 1 1 0 0 4020]Oye, 夷por qu姻 te metes, Marie-Chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 3][f 3 1 1 0 0 4020]Oye, 夷por qu姻 te metes, Marie?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 2 0 4][f 3 1 1 0 0 0]Marie tiene un gran inter姻s en esta pel胤cula.[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 0]No es nada importante... No tienes que hacerlo[n]si no quieres...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 3][f 3 1 1 0 0 0]夷Por qu姻 no querr胤amos? 斡Viaje de campo con[n]Emmy-chan! Woohoo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 3][f 3 1 1 0 0 0]夷Por qu姻 no querr胤amos? 斡Viaje de campo con[n]Emmy! Woohoo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 2 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Lo que Teddie quiere decir es que no nos[n]importa ayudarte.[n][f 1 3 65535][f 1 1][e]

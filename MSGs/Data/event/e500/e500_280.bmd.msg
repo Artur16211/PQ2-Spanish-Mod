@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 0 0 7][f 3 1 1 0 0 5]Creo que este es muy diferente al de la[n]pel胤cula que arreglamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 8][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 6]Desde que cambiamos la conciencia de Hikari-san,[n]esta pel胤cula debe ser corregida...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 8][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 6]Desde que cambiamos la conciencia de Hikari,[n]esta pel胤cula debe ser corregida...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 0 7][f 3 1 1 0 0 7]Pero la pel胤cula que tenemos aqu胤 sigue[n]distorsionada, eh...[n][f 1 3 65535][f 1 1][e]

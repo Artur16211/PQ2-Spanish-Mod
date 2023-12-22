@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 40 0 1 3][f 3 1 1 0 0 1]Oh, t胤a... 夷Cu茨ndo llegaste aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Tía De Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 58 0 0 1][f 3 1 1 0 0 2][f 6 1 2 0 0 4]Hikari-chan, 夷qu姻 hac胤as tan tarde?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 58 0 0 1][f 3 1 1 0 0 2][f 6 1 2 0 0 4]Hikari, 夷qu姻 hac胤as tan tarde?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 6 1 3 0 0 3][f 3 1 1 0 0 3]S吋lo estaba filmando una pel胤cula, eso es[n]todo...[n][f 1 3 65535][f 1 1][e]

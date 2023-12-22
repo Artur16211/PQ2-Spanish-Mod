@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Fue como ver una pel胤cula de acci吋n. No pod胤a[n]mirar lejos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4033]Ahaha... Es un poco embarazoso escuchar todo[n]eso de ti, Ann-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 8 0 0][f 3 1 1 0 0 4033]Ahaha... Es un poco embarazoso escuchar todo[n]eso de ti, Ann.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En mi opini吋n, eres m茨s genial que yo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Eres preciosa, tu ingl姻s es genial, 斡y eres[n]un ladr吋n fantasma! 斡Est茨s en otra liga![n][f 1 3 65535][f 1 1][e]
 
@@ -35,13 +35,13 @@
 
 [msg MSG_009 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No tan terrible como el tuyo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0]Sinceramente, creo que eres m茨s genial que[n]yo, Chie-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0]Sinceramente, creo que eres m茨s genial que[n]yo, Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4019][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22067]S胤. Sinceramente, creo que eres m茨s genial[n]que yo, Chie-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22067]S胤. Sinceramente, creo que eres m茨s genial[n]que yo, Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 4019][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 0]Bueno, ella es un 胤dolo nacional.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0]Rise-chan es incre胤ble, pero supongo que[n]ahora estoy acostumbrado a ella...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0]Rise es incre胤ble, pero supongo que[n]ahora estoy acostumbrado a ella...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tambi姻n es m茨s joven que yo. Siento que eso[n]hace que la comparaci吋n sea un poco[n]diferente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ann]]

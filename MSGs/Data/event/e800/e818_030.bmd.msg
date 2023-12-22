@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 10092]夷Qu姻 est茨n haciendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Creo que es la forma de ser considerado[n]por Junpei-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]Creo que es la forma de ser considerado[n]por Junpei.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_019 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]S胤.[f 2 7 1 20 2 32][e]
@@ -64,10 +64,10 @@
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 10013]He probably wanted to make sure[n][f 6 1 27 0 0 0] didn't feel[n]uncomfortable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 0][f 3 1 1 0 0 0][f 6 1 27 0 0 0]-chan se estaba riendo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 0][f 3 1 1 0 0 0][f 6 1 27 0 0 0] se estaba riendo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14531]He was trying to help[n][f 6 1 27 0 0 0]-chan feel more at[n]home.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14531]He was trying to help[n][f 6 1 27 0 0 0] feel more at[n]home.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0]Ese Junpei... Siempre tratando de ayudar.[n][f 1 3 65535][f 1 1][e]

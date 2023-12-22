@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Yo soy el ammonito! 斡El ammonite soy yo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukiko]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 5106]Absolutamente... 斡S姻 exactamente lo que[n]quieres decir con Yusuke-kun! 斡Viva ammonite![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 5106]Absolutamente... 斡S姻 exactamente lo que[n]quieres decir con Yusuke! 斡Viva ammonite![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 25 0 0 0][f 4 6 74 1 100 1][f 3 1 1 0 0 54035]...[n][f 1 3 65535][f 1 1][e]
@@ -25,13 +25,13 @@
 [f 0 5 65278][f 2 1][f 4 6 69 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Lamento esto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 0]Estoy empezando a preocuparme de que hayamos[n]perdido el viejo Yuki-chan para[n]siempre...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 6][f 3 1 1 0 0 0]Estoy empezando a preocuparme de que hayamos[n]perdido el viejo Yuki para[n]siempre...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 27029][f 6 1 2 0 0 7]夷Pero no est茨s emocionada de ver la obra de[n]arte de Yukiko-chan? Ella finalmente ser茨[n]capaz de dejar que sus emociones[n]fluyan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 2 0 0][f 3 1 1 0 0 27029][f 6 1 2 0 0 7]夷Pero no est茨s emocionada de ver la obra de[n]arte de Yukiko? Ella finalmente ser茨[n]capaz de dejar que sus emociones[n]fluyan.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 2 0 1][f 3 1 1 0 0 24109][f 6 1 2 0 0 4]Dir胤a que no es muy malo. 夷Y t雨, Amagi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 2 0 1][f 3 1 1 0 0 24109][f 6 1 2 0 0 4]Dir胤a que no es muy malo. 夷Y t雨, Amagi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 3][f 3 1 1 0 0 5069][f 6 1 2 0 0 6]斡Yo tambi姻n dibuj姻 uno![n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 24131][f 6 1 2 0 0 6]De hecho. Tal creatividad me ha dejado sin[n]palabras tambi姻n... 斡Es realmente[n]incre胤ble![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5050]No... acabo de seguir tu consejo, Yusuke-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5050]No... acabo de seguir tu consejo, Yusuke.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me ense隠aste a dejarme ir... Nunca hab胤a[n]hecho algo as胤 antes, pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0]Nunca pens姻 que se sentir胤a tan bien...[n][f 1 3 65535][f 1 1][e]
 
@@ -77,7 +77,7 @@
 
 [msg MSG_022 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 24050]Me honra o胤r eso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 0]夷Y puedo pedirle que me d姻 su foto,[n]Amagi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 0]夷Y puedo pedirle que me d姻 su foto,[n]Amagi?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiero recordar el sentimiento de inspiraci吋n[n]que tuve hoy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
@@ -103,7 +103,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 68 10 0 0][f 3 1 1 0 0 24062][f 6 1 2 0 0 6]...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 4 0 0][f 3 1 1 0 0 5063][f 6 1 2 0 0 6]Yusuke-kun...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 4 0 0][f 3 1 1 0 0 5063][f 6 1 2 0 0 6]Yusuke...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡S胤! 斡Podemos usar esto en combate![n][f 1 3 65535][f 1 1][e]
@@ -132,7 +132,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Algo a cambio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 5069]Estaba planeando cocinar algo para Yusuke-kun[n]como una manera de decir gracias...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 5069]Estaba planeando cocinar algo para Yusuke[n]como una manera de decir gracias...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 4][f 3 1 1 0 0 4042][f 6 1 2 0 0 6]夷Por qu姻 no lo dijiste? 斡Ayudar姻![n][f 1 3 65535][f 1 1][e]
@@ -150,7 +150,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡S胤! Si Yukiko-senpai quiere decir gracias,[n]斡entonces tambi姻n ayudaremos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 0]Tus amigos son realmente maravillosos,[n]Amagi-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 0]Tus amigos son realmente maravillosos,[n]Amagi.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5029][f 6 1 2 0 0 6]斡S胤! 斡Tendr姻 que trabajar m茨s duro para todos[n]desde aqu胤![n][f 1 3 65535][f 1 1][e]

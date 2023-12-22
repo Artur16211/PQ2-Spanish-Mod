@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5112][f 6 1 2 0 0 4]夷Est茨 bien si sigo buscando tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Wh-Wha? 斡Realmente est茨s emocionada por[n]esto, Yuki-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Wh-Wha? 斡Realmente est茨s emocionada por[n]esto, Yuki![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 1][f 3 1 1 0 0 0]Bueno, no parece que haya muchas sombras[n]alrededor. Ten cuidado.[n][f 1 3 65535][f 1 1][e]
@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1]Necesitaremos algo a cambio.[f 2 7 1 20 0 32][e]
 
 [msg MSG_028 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22072]斡S胤, quiero ver m茨s del incre胤ble arte de[n]Yukiko-chan tambi姻n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22072]斡S胤, quiero ver m茨s del incre胤ble arte de[n]Yukiko tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 99 4][f 3 1 1 0 0 26568]De acuerdo. De hecho, es raro o胤r que te[n]disculpas por ello.[n][f 1 3 65535][f 1 1][e]
@@ -115,7 +115,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 6 1 0][f 3 1 1 0 0 24101]... Pens茨ndolo bien, creo que tengo mucha[n]hambre para moverme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 5 1 0 3][f 4 6 27 12 0 4][f 3 1 1 0 0 0]Traje galletas, 夷por qu姻 no te tomas un[n]descanso? T雨 tambi姻n, Yukiko-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 1 0 3][f 4 6 27 12 0 4][f 3 1 1 0 0 0]Traje galletas, 夷por qu姻 no te tomas un[n]descanso? T雨 tambi姻n, Yukiko.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5024]Est茨 bien. Gracias.[n][f 1 3 65535][f 1 1][e]

@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1]No subestimemos a los humanos.[f 2 7 1 20 0 32][e]
 
 [msg MSG_006 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 11]S胤, esa es nuestra respuesta final - 夷Verdad,[n]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 11]S胤, esa es nuestra respuesta final - 夷Verdad,[n]Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 81 14 6 0][f 3 1 1 0 0 12][f 6 1 2 0 0 6]No voy a depender de ti. Voy a aprovechar mi[n]felicidad por mi cuenta![n][f 1 3 65535][f 1 1][e]

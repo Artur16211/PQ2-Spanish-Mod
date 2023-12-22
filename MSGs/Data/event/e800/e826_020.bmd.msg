@@ -28,14 +28,14 @@
 [f 0 5 65278][f 2 1]Woof...[f 2 7 1 20 4 32][e]
 
 [msg MSG_008 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 10 0 4][f 3 1 1 0 0 15056][f 6 1 2 0 0 4]Joker-san! 夷Tambi姻n puedes entender a[n]Koromaru-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 10 0 4][f 3 1 1 0 0 15056][f 6 1 2 0 0 4]¡Joker! 夷Tambi姻n puedes entender a[n]Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No, ese era obvio...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 15129]Koromaru-san dijo: "Ya estoy cansado", y[n]usted respondi吋 con, "Yo tambi姻n..."[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 15 10 0 4][f 3 1 1 0 0 0]Joker-san! No sab胤a que pose胤as una funci吋n[n]de traducci吋n tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 15129]Koromaru dijo: "Ya estoy cansado", y[n]usted respondi吋 con, "Yo tambi姻n..."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 10 0 4][f 3 1 1 0 0 0]Joker! No sab胤a que pose胤as una funci吋n[n]de traducci吋n tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No creo que estuviera diciendo nada en[n]particular... Espera, 夷s吋lo te has ido?[n][f 1 3 65535][f 1 1][e]

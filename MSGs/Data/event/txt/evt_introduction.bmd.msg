@@ -49,7 +49,7 @@
 [msg evt_intro_AMADA]
 [f 0 5 65278][f 2 1]A 5th-grader at Gekkoukan Elementary.[n]He lost his mother in an accident.[n]　[n]※紹介演出用メッセージ※[n][e]
 
-[msg evt_intro_KOROMARU]
+[msg evt_intro_Koromaru]
 [f 0 5 65278][f 2 1]A Shiba Inu with Persona abilities.[n]His owner died in an accident.[n]　[n]※紹介演出用メッセージ※[n][e]
 
 [msg evt_intro_ARAGAKI]

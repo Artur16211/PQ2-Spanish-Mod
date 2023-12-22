@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡S胤, as胤 es![n][f 1 3 65535][f 1 2 999][f 1 1][e]
 
 [msg MSG_MOVIE_016]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]T雨 eres el que est茨 equivocado,[n]Hikari-chan...[n][f 1 3 65535][f 1 2 999][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]T雨 eres el que est茨 equivocado,[n]Hikari...[n][f 1 3 65535][f 1 2 999][f 1 1][e]
 
 [msg MSG_MOVIE_017]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡As胤 es, Miyuki! 斡Eres nuestro amigo![n][f 1 3 65535][f 1 2 999][f 1 1][e]
@@ -68,5 +68,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Por qu姻 s吋lo yo?[n][f 1 3 65535][f 1 2 999][f 1 1][e]
 
 [msg MSG_MOVIE_023]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es tu culpa, Hikari-chan. Tienes que ir con[n]lo que todos piensan.[n][f 1 3 65535][f 1 2 999][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es tu culpa, Hikari. Tienes que ir con[n]lo que todos piensan.[n][f 1 3 65535][f 1 2 999][f 1 1][e]
 

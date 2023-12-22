@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4117]夷Eso es lo que fue? No pude decirlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11095][f 6 1 2 0 0 9]No me extra隠a que tenga la cara de[n]Ikutsuki-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 1][f 3 1 1 0 0 11095][f 6 1 2 0 0 9]No me extra隠a que tenga la cara de[n]Ikutsuki.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Eso fue muy malo.[f 2 7 1 20 6 32][e]

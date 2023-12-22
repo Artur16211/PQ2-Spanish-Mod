@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Al diablo todos estos carros, pistas y[n]interruptores! 斡Voy a detener la maldita cosa[n]yo mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]C茨lmate, Tatsumi-kun. Todo esto es un escenario[n]hipot姻tico.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]C茨lmate, Tatsumi. Todo esto es un escenario[n]hipot姻tico.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13013]A雨n as胤, te hace pensar.[n][f 1 3 65535][f 1 1][e]

@@ -28,7 +28,7 @@
 
 [msg MSG_008 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 4][f 3 1 1 0 0 11]Ya veo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Fue la misma petici吋n que el escrito en la[n]carta de invitaci吋n que Hikari-san[n]descubri吋.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Fue la misma petici吋n que el escrito en la[n]carta de invitaci吋n que Hikari[n]descubri吋.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yusuke]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 68 2 1 1][f 3 1 1 0 0 13]As胤 es... 夷Qu姻 est茨 pasando aqu胤?[n][f 1 3 65535][f 1 1][e]

@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35007]COMO SEA, HE VISTO UNA CABA謂A CON UN RIBBON.[n]ERA EL MISMO CORONEL COMO MI MADRE.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 6][f 3 1 1 0 0 11044][f 6 1 2 0 0 6]斡Eso tiene que ser Ai-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 6][f 3 1 1 0 0 11044][f 6 1 2 0 0 6]斡Eso tiene que ser Ai![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Ser胤a posible saber a d吋nde fue ese robot?[n][f 1 3 65535][f 1 1][e]

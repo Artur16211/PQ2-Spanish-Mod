@@ -64,7 +64,7 @@
 [f 0 5 65278][f 2 1][f 4 6 80 2 0 1][f 3 1 1 0 0 56043]Ustedes dos saben mucho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 6][f 3 1 1 0 0 8126][f 6 1 30 0 0 0]-san, 夷est茨 bien contigo si buscamos este[n]"Futurista Gizmo"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 6][f 3 1 1 0 0 8126][f 6 1 30 0 0 0], 夷est茨 bien contigo si buscamos este[n]"Futurista Gizmo"?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_019 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Vale.[f 2 7 1 64 0 32][e]

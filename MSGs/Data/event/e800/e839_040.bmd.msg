@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡El cliente siempre tiene raz吋n! 斡Esa es la[n]mentalidad que aprend胤 en Junes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 0]Iori-kun, Hanamura-kun...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 0]Iori, Hanamura...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3][f 4 6 21 2 0 6][f 3 1 1 0 0 0]Heck, con esta mucha gente, enviaremos a esas[n]Sombras a casa llorando a sus madres[n]Sombr胤as.[n][f 1 3 65535][f 1 1][e]
@@ -92,7 +92,7 @@
 
 [msg MSG_027 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 21 1 0 0][f 4 6 11 4 0 0][f 3 1 1 0 0 0]Quiero decir, estaban siendo delicadas peque隠as[n]flores... literalmente![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Vamos! 斡Vamos, tienes que seguir,[n]Hikari-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Vamos! 斡Vamos, tienes que seguir,[n]Hikari![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 61162][f 6 1 2 0 0 6]斡Est茨 bien![n][f 1 3 65535][f 1 1][e]

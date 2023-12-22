@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 10 0 1][f 3 1 1 0 0 13][f 6 1 2 0 0 0]夷QU畏?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 14]Kanji-kun, shh! Vamos a ver qu姻 pasa, 夷de[n]acuerdo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 14]Kanji, shh! Vamos a ver qu姻 pasa, 夷de[n]acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 82 1 0 1][f 4 6 81 6 2 3][f 3 1 1 0 0 15]A雨n no lo he recordado todo... pero puedo[n]decirlo.[n][f 1 3 65535][f 1 1][e]
@@ -63,7 +63,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 24]Por eso me qued姻 viendo esas pel胤culas[n]distorsionadas para convencerme de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 25]Hikari-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 25]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 81 6 2 0][f 3 1 1 0 0 26]Todav胤a... No pod胤a descartar completamente[n]qui姻n soy en el fondo.[n][f 1 3 65535][f 1 1][e]

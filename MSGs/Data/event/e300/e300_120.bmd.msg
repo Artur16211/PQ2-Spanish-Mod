@@ -87,7 +87,7 @@
 
 [msg MSG_027 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 0][f 3 1 1 0 0 22032][f 6 1 2 0 0 6]Vamos, ser茨 divertido. 斡Tienes que ir con el[n]flujo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22017][f 6 1 2 0 0 4]As胤 que, si lo basamos en c吋mo se ve Sanada-san,[n]tal vez... 夷Boxer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22017][f 6 1 2 0 0 4]As胤 que, si lo basamos en c吋mo se ve Sanada,[n]tal vez... 夷Boxer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 0]夷No es algo sencillo? El primer nombre clave[n]que viene a mi mente para 姻l es[n]Protein...[n][f 1 3 65535][f 1 1][e]
@@ -126,10 +126,10 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 4][f 4 6 16 12 0 1][f 3 1 1 0 0 16009]U-Um... 夷Puede Koromaru y yo conseguir c吋digos[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amada-kun es una peladora de lanza, as胤 que[n]tal vez... 夷Lancer? 夷Es demasiado claro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amada es una peladora de lanza, as胤 que[n]tal vez... 夷Lancer? 夷Es demasiado claro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19011]Si la Srta. Pink de Yukari, 夷qu姻 tal el Sr.[n]Black para Ken-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19011]Si la Srta. Pink de Yukari, 夷qu姻 tal el Sr.[n]Black para Ken?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 4 1 0][f 3 1 1 0 0 16086]Se隠or Black... No est茨 mal.[n][f 1 3 65535][f 1 1][e]
@@ -142,7 +142,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 16018][f 6 1 2 0 0 0]夷Eh? 夷Lo sabes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24076]Veamos... Para Koromaru, 夷qu姻 tal, Hellbeast[n]Summoned from the Infernal Depths?[n][f 1 3 65535][f 1 1][e]
@@ -168,7 +168,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 2 1 0][f 3 1 1 0 0 5031][f 6 1 2 0 0 6]Eso es demasiado obvio... Snrk, Heehee...[n]Aha, ahahahahaha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 27030]Ven ahora... Es grosero re胤rse de eso,[n]Yukiko-chan... *Grecha*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 27030]Ven ahora... Es grosero re胤rse de eso,[n]Yukiko... *Grecha*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ustedes dos se divierten mucho con esto...[n][f 1 3 65535][f 1 1][e]
@@ -214,7 +214,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 21 0 0 0][f 3 1 1 0 0 0]Entonces, el tipo ama a los perros, pero lo[n]mantiene en secreto, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 14 10 100 1][f 3 1 1 0 0 14548][f 3 1 6 0 0 500]You really know everyone so well,[n][f 6 1 27 0 0 0]-chan. It's amazing![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 14 10 100 1][f 3 1 1 0 0 14548][f 3 1 6 0 0 500]You really know everyone so well,[n][f 6 1 27 0 0 0]. It's amazing![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Yo tambi姻n s姻 todo sobre ti, Fuuka. Veamos,[n]el nombre de c吋digo de Fuuka...[n][f 1 3 65535][f 1 1][e]

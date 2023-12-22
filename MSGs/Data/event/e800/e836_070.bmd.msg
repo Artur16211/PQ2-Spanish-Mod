@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]夷Est茨n bien? 夷Todos siguen vivos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Teddie-san estaba buscando brevemente a los[n]fiordos, pero aparte de eso, no hay[n]problemas importantes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Teddie estaba buscando brevemente a los[n]fiordos, pero aparte de eso, no hay[n]problemas importantes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 1][f 3 1 1 0 0 14097]Qu姻 alivio... Estaba tan preocupada por todos[n]ustedes.[n][f 1 3 65535][f 1 1][e]
@@ -45,7 +45,7 @@
 
 [msg MSG_014 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 0]Mmhm. Estas partes est茨n en sorprendentemente[n]buenas condiciones, as胤 que tal vez no[n]necesitemos todos los conductores[n]conectados...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 0 0 0][f 3 1 1 0 0 0]夷Podr胤a abrir un nuevo puerto en la red[n]inal茨mbrica, Futaba-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 0 0][f 3 1 1 0 0 0]夷Podr胤a abrir un nuevo puerto en la red[n]inal茨mbrica, Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11029]Mira estos dos nerding fuera. Una mirada a[n]esas partes, y tienen ese brillo en sus[n]ojos...[n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No estamos mejorando solos... Nos ayudamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 14029]Rise-chan, Futaba-chan... Siento lo mismo[n]hacia ustedes dos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 14029]Rise, Futaba... Siento lo mismo[n]hacia ustedes dos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Despu姻s de todo, no somos solo compa隠eros de[n]equipo. 斡Somos amigos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]

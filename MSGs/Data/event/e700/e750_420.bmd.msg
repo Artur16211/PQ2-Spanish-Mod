@@ -9,7 +9,7 @@
 
 [msg MSG_002 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]No es un problema, Panther.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Koromaru-san dice, "[f 0 1 2] Es demasiado grande para adaptarse a este pasaje. No hay necesidad de preocuparse [f 0 1 0][n][n]."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Koromaru dice, "[f 0 1 2] Es demasiado grande para adaptarse a este pasaje. No hay necesidad de preocuparse [f 0 1 0][n][n]."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡Qu姻 alivio! Iba a enloquecer por un segundo[n]ah胤...[n][f 1 3 65535][f 1 1][e]
@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 15 1 0 3][f 4 6 17 12 0 6][f 3 1 1 0 0 0]斡Arf arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15008]Koromaru-san dice, "[f 0 1 2]Use la tierra a nuestra ventaja [f 0 1 0][n]."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 15008]Koromaru dice, "[f 0 1 2]Use la tierra a nuestra ventaja [f 0 1 0][n]."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 8069]Desde que Joker maneja el mapa, le dejaremos[n]la estrategia de FOE.[n][f 1 3 65535][f 1 1][e]

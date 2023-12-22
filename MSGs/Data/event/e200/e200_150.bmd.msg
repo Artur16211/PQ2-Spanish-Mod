@@ -33,11 +33,11 @@
 
 [msg MSG_010 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 1][f 3 1 1 0 0 11]Eso me recuerda, ya conoc胤as a algunos de[n]los hombres azules, tambi姻n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Como, [f 6 1 27 0 0 0]-chan conoc胤a a Theodore[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Como, [f 6 1 27 0 0 0] conoc胤a a Theodore[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 13]S胤, tengo el poder de la tarjeta salvaje,[n]as胤 que puedo asumir diferentes Personas.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Looks like the same goes for[n][f 6 1 13 0 0 0]-kun and [f 6 1 30 0 0 0]-kun[n]too.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Looks like the same goes for[n][f 6 1 13 0 0 0] and [f 6 1 30 0 0 0][n]too.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011_5 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 15]En realidad, 斡s吋lo me he volado para saber[n]que hay otras personas con el mismo poder[n]que yo![n][f 1 3 65535][f 1 1][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 2 0 0 6]斡S吋lo d姻jalo! 斡Siguiente! 斡T雨, Naoto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 12 0 1][f 3 1 1 0 0 39]S胤. Soy Naoto Shirogane, y el mismo primer[n]a隠o que Kanji-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 12 0 1][f 3 1 1 0 0 39]S胤. Soy Naoto Shirogane, y el mismo primer[n]a隠o que Kanji.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 40]Ese nombre suena familiar. 夷D吋nde lo he o胤do?[n][f 1 3 65535][f 1 1][e]
@@ -165,7 +165,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 59][f 6 1 2 0 0 0]Muy bien, 夷podr胤a esto ponerse m茨s confuso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 6 0 1][f 3 1 1 0 0 60]Veamos... Los 雨nicos que no est茨n aqu胤 son[n]Rise-chan y Yosuke-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 6 0 1][f 3 1 1 0 0 60]Veamos... Los 雨nicos que no est茨n aqu胤 son[n]Rise y Yosuke.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 61]Sabemos qui姻n es Risette. 斡Es como un 胤dolo[n]estrella![n][f 1 3 65535][f 1 1][e]
@@ -182,7 +182,7 @@
 
 [msg MSG_054 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 12 0 3][f 3 1 1 0 0 66]Bueno, eso lo convierte en nuestro turno.[n]As胤 que...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 67][f 6 1 2 0 0 4]夷Deber胤amos empezar con Futaba-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 67][f 6 1 2 0 0 4]夷Deber胤amos empezar con Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 3][f 3 1 1 0 0 68][f 6 1 2 0 0 0]夷Qu姻? 斡Es demasiada presi吋n para ponerme[n]encima![n][f 1 3 65535][f 1 1][e]

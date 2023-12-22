@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 3]Me alegra que te hayan encontrado a tiempo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chico Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 3 1 1 0 0 4]Eres Hikari-san, 夷verdad? Es un placer[n]conocerte. Todos me han hablado de ti.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 3 1 1 0 0 4]Eres Hikari, 夷verdad? Es un placer[n]conocerte. Todos me han hablado de ti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 5]Fueron a buscarte, y... Me alivia que est姻s[n]bien.[n][f 1 3 65535][f 1 1][e]
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 4 12 0 4][f 3 1 1 0 0 44]夷En serio? Sabes, 姻l es muy similar a nuestro[n]propio l胤der, tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 69 0 0 6][f 3 1 1 0 0 45][f 6 1 2 0 0 4]Entonces, 夷tambi姻n eres el l胤der de Takeba-san[n]e Iori-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 69 0 0 6][f 3 1 1 0 0 45][f 6 1 2 0 0 4]Entonces, 夷tambi姻n eres el l胤der de Takeba[n]e Iori?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Chico Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 46]S胤, a雨n no te he dicho mi nombre. Mi nombre[n]es...[n][f 1 3 65535][f 1 1][e]

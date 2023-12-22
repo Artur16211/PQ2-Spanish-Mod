@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 1 0 3][f 6 1 25 0 0 0][f 4 6 81 1 0 6][f 3 1 1 0 0 61004]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 4 2 0][f 3 1 1 0 0 64009][f 6 1 2 0 0 4]Oye, Hikari-san: 夷cu茨les son tus sentimientos[n]en esta pel胤cula hasta ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 4 2 0][f 3 1 1 0 0 64009][f 6 1 2 0 0 4]Oye, Hikari: 夷cu茨les son tus sentimientos[n]en esta pel胤cula hasta ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 0]Ese robot est茨 siendo tratado tan mal... todo[n]por ser diferente... Incluso siendo[n]llamado "mal"...[n][f 1 3 65535][f 1 1][e]
@@ -130,7 +130,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]S吋lo tiene sentido que lo mismo ocurrir胤a[n]con esta tercera pel胤cula, tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22113][f 6 1 2 0 0 4]Well, maybe third time's the charm and[n][f 6 1 27 0 0 0]-chan's companions are[n]in this one, right?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22113][f 6 1 2 0 0 4]Well, maybe third time's the charm and[n][f 6 1 27 0 0 0]'s companions are[n]in this one, right?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 4 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19099]T雨 tambi姻n lo crees!? 斡Entonces, vamos a[n]apresurarnos y encontrarlos![n][f 1 3 65535][f 1 1][e]

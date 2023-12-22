@@ -3,7 +3,7 @@
 
 [msg MSG_001 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 0]Fue como sospechamos, sin embargo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"Junessic Land" tambi姻n se bas吋 en una versi吋n[n]distorsionada de los recuerdos de[n]Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"Junessic Land" tambi姻n se bas吋 en una versi吋n[n]distorsionada de los recuerdos de[n]Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 1][f 3 1 1 0 0 61066]S胤...[n][f 1 3 65535][f 1 1][e]
@@ -12,13 +12,13 @@
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3010]Por eso los dinosaurios de esa pel胤cula eran[n]todas chicas, bueno, la mayor胤a. Pero[n]de todos modos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Esa manada de herbivores estaba basada en el[n]c胤rculo de compa隠eros de clase que[n]Hikari-chan sol胤a asociarse con...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y los carn胤voros eran los matones que iban[n]tras el grupo de amigos de Hikari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Esa manada de herbivores estaba basada en el[n]c胤rculo de compa隠eros de clase que[n]Hikari sol胤a asociarse con...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y los carn胤voros eran los matones que iban[n]tras el grupo de amigos de Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 6][f 3 1 1 0 0 8071]Parece que uno de los amigos de Hikari-san[n]se convirti吋 en el blanco de algunos[n]matones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 6][f 3 1 1 0 0 8071]Parece que uno de los amigos de Hikari[n]se convirti吋 en el blanco de algunos[n]matones.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 6][f 3 1 1 0 0 0]Los otros compa隠eros tem胤an que sufrir胤an el[n]mismo dolor, as胤 que trataron de echar[n]a la chica de su grupo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, Hikari-san se opuso a eso, que[n]caus吋 la discordia en el grupo que condujo[n]a su propio exilio.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, Hikari se opuso a eso, que[n]caus吋 la discordia en el grupo que condujo[n]a su propio exilio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 7 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]As胤 que de ah胤 viene toda esa mierda de "regla[n]de la mayor胤a" en la pel胤cula, 夷eh?[n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 
 [msg MSG_011 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5069]Eso creo yo tambi姻n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso Yosuke-kun dijo que el dinosaurio le[n]record吋 a s胤 mismo, cuando acababa de[n]transferirse a Inaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso Yosuke dijo que el dinosaurio le[n]record吋 a s胤 mismo, cuando acababa de[n]transferirse a Inaba.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1046]... Claro.[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Por qu姻 lo compras? No hay cruces para ese[n]dinosaurio, 斡s吋lo ten胤a mi cabeza en su[n]cuerpo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 6][f 3 1 1 0 0 0]Creo que es probablemente porque era similar[n]a Yosuke-kun, cuando se transfiri吋 por[n]primera vez a Inaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 6][f 3 1 1 0 0 0]Creo que es probablemente porque era similar[n]a Yosuke, cuando se transfiri吋 por[n]primera vez a Inaba.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 6 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1049]Hay un viejo dicho de que hay otras tres[n]personas en el mundo que se parecen[n]exactamente a ti en cualquier momento dado...[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Vamos, 夷cu茨les son las probabilidades de que[n]uno de los m胤os sea un dinosaurio[n]humano?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 6][f 3 1 1 0 0 0]Creo que es probablemente porque era similar[n]a Yosuke-kun, cuando se transfiri吋 por[n]primera vez a Inaba.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 6][f 3 1 1 0 0 0]Creo que es probablemente porque era similar[n]a Yosuke, cuando se transfiri吋 por[n]primera vez a Inaba.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 3 1 0 3][f 4 6 8 0 0 1][f 3 1 1 0 0 0]Poniendo todo su esfuerzo en leer la habitaci吋n[n]para que siempre puedas seguir con[n]lo que todos los dem茨s est茨n diciendo...[n][f 1 3 65535][f 1 1][e]
@@ -81,7 +81,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 1][f 3 1 1 0 0 13070]Estoy de acuerdo. Su tratamiento de Hikari[n]no era m茨s que una canguro corte escondido[n]detr茨s de la pretensi吋n de la mayor胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 81 12 0 1][f 3 1 1 0 0 0]Todo lo que quer胤a era quedarme con[n]Miyuki-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 81 12 0 1][f 3 1 1 0 0 0]Todo lo que quer胤a era quedarme con[n]Miyuki...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eso estuvo mal? 夷Realmente estaba causando[n]problemas para los dem茨s?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_025 top]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 61018][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0]Si hubiera estado en tu situaci吋n, creo que[n]habr胤a hecho lo mismo, Hikari-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0]Si hubiera estado en tu situaci吋n, creo que[n]habr胤a hecho lo mismo, Hikari...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 0]Tu deseo de apoyar a tu amigo, resultando en[n]algo tan terrible... Es tan triste.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ken]]

@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26130]Buen trabajo, todos! Misi吋n completa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 0]Gracias, Futaba-chan. Buen trabajo navegando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 0]Gracias, Futaba. Buen trabajo navegando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 4][f 3 1 1 0 0 0]斡Eso fue divertido! 斡Me sent胤 como un verdadero[n]ladr吋n fantasma![n][f 1 3 65535][f 1 1][e]

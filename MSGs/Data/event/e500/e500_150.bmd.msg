@@ -55,11 +55,11 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 12 12 0 4][f 3 1 1 0 0 20]夷Has venido con algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 4 6 69 12 0 1][f 3 1 1 0 0 21]夷Te refieres a las pel胤culas de Hikari-chan[n]que cambiamos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 4 6 69 12 0 1][f 3 1 1 0 0 21]夷Te refieres a las pel胤culas de Hikari[n]que cambiamos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 4]夷Est茨s pensando en mostrarlos a los otros en[n]los Cines?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 0 0 4][f 3 1 1 0 0 23]Ah, ya veo, si va como estaba planeado, las[n]pel胤culas editadas deber胤an cambiar c吋mo[n]piensa la gente del Cine, como con[n]Hikari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 0 0 4][f 3 1 1 0 0 23]Ah, ya veo, si va como estaba planeado, las[n]pel胤culas editadas deber胤an cambiar c吋mo[n]piensa la gente del Cine, como con[n]Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 1][f 3 1 1 0 0 24]Bueno, parece seguir l吋gicamente...[n][f 1 3 65535][f 1 1][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 10]斡Espera, espera! Lo siento, pero... 夷De qu姻[n]est茨n hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 2 12 0 1][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 26]No vamos a convencer a los cineastas a la[n]vez, pero de inmediato, con la ayuda de[n]las pel胤culas de Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 2 12 0 1][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 26]No vamos a convencer a los cineastas a la[n]vez, pero de inmediato, con la ayuda de[n]las pel胤culas de Hikari.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27][f 6 1 2 0 0 4]夷Eso lo cubre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
@@ -80,7 +80,7 @@
 
 [msg MSG_024 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 0 0][f 3 1 1 0 0 31][f 6 1 2 0 0 3]Hmm... Normalmente, los cines no muestran lo[n]mismo a la vez.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Si esperamos jugar al cine de Hikari-chan a[n]todos simult茨neamente, 夷c吋mo lo har胤amos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Si esperamos jugar al cine de Hikari a[n]todos simult茨neamente, 夷c吋mo lo har胤amos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_025 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Hab胤a esos proyectores...[f 2 7 1 64 0 32][e]
@@ -145,11 +145,11 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 68 12 0 1][f 3 1 1 0 0 53]Mientras que la pel胤cula normalmente tiene[n]tanto positivos como negativos, para pensar[n]que todas las partes positivas han[n]sido excluidas de este...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 0 0 6][f 3 1 1 0 0 54]Cuando lleg吋 a las pel胤culas de Hikari-chan,[n]las cambiamos una a la vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 0 0 6][f 3 1 1 0 0 54]Cuando lleg吋 a las pel胤culas de Hikari,[n]las cambiamos una a la vez...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 55]Pero, para cambiar las conciencias de los[n]teatrales, necesitamos atacar a la causa[n]ra胤z, de inmediato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 56]斡Ya veo! As胤 que todo lo que tenemos que[n]hacer es cambiar la pel胤cula en los[n]proyectores a las pel胤culas de Hikari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 56]斡Ya veo! As胤 que todo lo que tenemos que[n]hacer es cambiar la pel胤cula en los[n]proyectores a las pel胤culas de Hikari.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57]Si hacemos eso, seguro que todos...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_046 top]

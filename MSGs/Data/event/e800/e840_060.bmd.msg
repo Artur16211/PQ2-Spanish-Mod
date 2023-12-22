@@ -42,6 +42,6 @@
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 0]Bark bark![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 15 2 0 1][f 3 1 1 0 0 15030]Koromaru-san dice que est茨 feliz de que no[n]tenga que rogar para dar un paseo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 15 2 0 1][f 3 1 1 0 0 15030]Koromaru dice que est茨 feliz de que no[n]tenga que rogar para dar un paseo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Pero debemos regresar ahora. Elizabeth espera[n]nuestro regreso.[n][f 1 3 65535][f 1 1][e]
 

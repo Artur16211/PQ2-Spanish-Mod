@@ -154,7 +154,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Qu姻 tienen que ver esos con cada cosa? Ya[n]est茨 cruzando...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 6][f 3 1 1 0 0 22033]Yukiko-chan tambi姻n tiene agallas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 6][f 3 1 1 0 0 22033]Yukiko tambi姻n tiene agallas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 4 0 3][f 3 1 1 0 0 24130][f 6 1 2 0 0 6]Su apariencia desde atr茨s mientras cruza, la[n]vida en la l胤nea, es una maravilla para[n]contemplar! 斡Ha reventado mi alma![n][f 1 3 65535][f 1 1][e]
@@ -211,7 +211,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 6][f 3 1 1 0 0 0]Entonces, tomar姻 la delantera. Por favor,[n]s胤gueme.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_064 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 13 2 0][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]夷Quieres ir primero, Ken-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 13 2 0][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]夷Quieres ir primero, Ken?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 6 1 0][f 3 1 1 0 0 0]斡S姻 que puedo hacerlo! Estar姻 bien... mientras[n]no mire hacia abajo.[n][f 1 2 100][f 1 1][e]
@@ -235,7 +235,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0]Gracias a Dios. 斡Bien hecho, ustedes tres![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 0]Whew... Siento que he conseguido forzarme a[n]trav姻s de esa viga gracias a Ken-kun[n]liderando el camino.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 0]Whew... Siento que he conseguido forzarme a[n]trav姻s de esa viga gracias a Ken[n]liderando el camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Ken]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 16 0 2 1][f 3 1 1 0 0 16032][f 6 1 2 0 0 4]En realidad, yo tambi姻n ten胤a miedo... Pero,[n]夷al menos demostr姻 que puedo subir cuando[n]la marcha se pone dura?[n][f 1 3 65535][f 1 1][e]
@@ -248,13 +248,13 @@
 [f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 16031]Heheh... De nuevo, todo lo que hice fue seguir[n]tu pista.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_076 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 2 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]A雨n as胤, estuviste genial ah胤 fuera, Ken-kun.[n]斡Buen trabajo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 2 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]A雨n as胤, estuviste genial ah胤 fuera, Ken.[n]斡Buen trabajo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002]斡Arf arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 2 4][f 3 1 1 0 0 22072]Nos gustar胤a darle la bienvenida en el equipo,[n]Ken-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 2 4][f 3 1 1 0 0 22072]Nos gustar胤a darle la bienvenida en el equipo,[n]Ken.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]夷En serio? Heheh, un ladr吋n fantasma, eh...[n]斡Incre胤ble![n][f 1 3 65535][f 1 1][e]
@@ -406,13 +406,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mientras tanto, en la sala de examen[n]"Conocer"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_123 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 2 0 3][f 3 1 1 0 0 25074]Excelente, Mona, otra respuesta correcta.[n]Eres el 雨ltimo, Hanamura-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 0 3][f 3 1 1 0 0 25074]Excelente, Mona, otra respuesta correcta.[n]Eres el 雨ltimo, Hanamura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_124 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3092][f 6 1 2 0 0 10]R-Right... 斡Hora de flexi吋n mis habilidades[n]como jefe de operaciones![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_125 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19077]C茨lmate, Yosuke-kun. Estar茨s bien si lo[n]piensas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19077]C茨lmate, Yosuke. Estar茨s bien si lo[n]piensas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_126 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8067][f 6 1 27 0 0 0]- tiene raz吋n, enf吋quese en mantener la[n]calma.[n][f 1 3 65535][f 1 1][e]

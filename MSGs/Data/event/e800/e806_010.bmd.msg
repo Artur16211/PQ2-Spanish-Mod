@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 te excita tanto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 24073]Deseo mover el coraz吋n de Amagi-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 24073]Deseo mover el coraz吋n de Amagi.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0]夷D茨ndole un ammonito? 斡Eso es una tonter胤a![n][f 1 3 65535][f 1 1][e]
@@ -47,11 +47,11 @@
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No es as胤 como lo haces, pero... 夷Desde cu茨ndo[n]eran ustedes dos una cosa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 4 1 0 0][f 4 6 5 8 1 0][f 3 1 1 0 0 5018]No es as胤. Yusuke-kun me ense隠a c吋mo dibujar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 1 0 0][f 4 6 5 8 1 0][f 3 1 1 0 0 5018]No es as胤. Yusuke me ense隠a c吋mo dibujar.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Quiere ayudarme a encontrar algo que me guste,[n]algo que pueda ser apasionado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 5 1 0 0][f 4 6 68 4 1 0][f 3 1 1 0 0 24012]Amagi-san no tiene idea del incre胤ble potencial[n]art胤stico que posee.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 1 0 0][f 4 6 68 4 1 0][f 3 1 1 0 0 24012]Amagi no tiene idea del incre胤ble potencial[n]art胤stico que posee.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Debo encontrar este ammonite para ver de qu姻[n]es realmente capaz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Morgana]]

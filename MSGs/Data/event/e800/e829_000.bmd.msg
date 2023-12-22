@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Ser胤as Red, Ken? 夷O quiz茨s el negro fresco?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]I-I'm younger than everyone, so[n]I'd say Red is either Joker or[n][f 6 1 16 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 0]I-I'm younger than everyone, so[n]I'd say Red is either Joker or[n][f 6 1 16 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_022 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Phoenix Ranger![f 2 7 1 20 0 1][e]

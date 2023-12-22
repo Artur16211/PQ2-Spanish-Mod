@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13069]Al ver como soportas la misma carga que yo,[n]quiero que sepas ese sentimiento del[n]viento en tu cara alg雨n d胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Kirijo-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Kirijo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023_1 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 25024][f 6 1 2 0 0 7]Gracias. 夷Qu姻 dices si ambos sacamos nuestras[n]bicicletas en alg雨n lugar, una vez que[n]consiga mi licencia?[n][f 1 3 65535][f 1 1][e]

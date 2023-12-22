@@ -55,14 +55,14 @@
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 0]Se ven tan felices.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27031]Mhm, Kyu-chan parece mucho mejor ahora. Parece[n]que todo lo que quer胤a era estar cerca[n]de su madre.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27031]Mhm, Kyu parece mucho mejor ahora. Parece[n]que todo lo que quer胤a era estar cerca[n]de su madre.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En realidad, supongo que cada padre se preocupa[n]por su hijo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Yukiko-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Yukiko?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 0][f 3 1 1 0 0 5009][f 6 1 2 0 0 10]Oh, um... Lo siento.[n][f 1 3 65535][f 1 1][e]
@@ -78,7 +78,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ya no pude ser honesto con mis sentimientos...[n]como c吋mo Kyubei est茨 siendo ahora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 27076]Oh... Ya sabes, Yukiko-chan, soy como t雨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 27076]Oh... Ya sabes, Yukiko, soy como t雨.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Odiaba estar atado a las reglas de la casa.[n]Me dir胤a que no iba a dejar que mis padres[n]me empujaran...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yukiko]]
@@ -121,7 +121,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Kyu, kyu![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No te pierdas m茨s, 夷de acuerdo? 斡Cu胤date[n]bien, Kyu-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No te pierdas m茨s, 夷de acuerdo? 斡Cu胤date[n]bien, Kyu![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Herb胤voro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Kyu![n][f 1 3 65535][f 1 1][e]

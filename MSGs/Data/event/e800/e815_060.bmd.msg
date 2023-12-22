@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28128]Excelente. Creo que mi trabajo aqu胤 est茨[n]hecho.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 4][f 3 1 1 0 0 17002]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 4][f 3 1 1 0 0 17002]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 1][f 3 1 1 0 0 0]Pregunta si est茨s bien, Crow.[n][f 1 3 65535][f 1 1][e]

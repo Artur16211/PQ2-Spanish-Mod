@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 12 0 3][f 3 1 1 0 0 0]... Bueno, estoy celoso de que tengas algo[n]que puedas ser apasionado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Yukiko-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Yukiko?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 5110]Lo siento. Estoy pensando en voz alta.[n][f 1 3 65535][f 1 1][e]

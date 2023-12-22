@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Pero si un hombre le da un anillo a una[n]mujer... Eso es casi como decir...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 3][f 4 6 71 6 1 4][f 3 1 1 0 0 27130]Wait a minute. We have to hear[n][f 6 1 27 0 0 0]-chan's response.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 1 0 3][f 4 6 71 6 1 4][f 3 1 1 0 0 27130]Wait a minute. We have to hear[n][f 6 1 27 0 0 0]'s response.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 27050]夷Cu茨l es tu respuesta? 夷Vas a decir que s胤,[n]o...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Theodore]]

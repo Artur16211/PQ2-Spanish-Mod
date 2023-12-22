@@ -2,10 +2,10 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 6 2 100 1][f 3 1 1 0 0 6568][f 3 1 6 0 0 500]Este camino es un poco de desv胤o, pero[n]definitivamente nos llevar茨 al tesoro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 12 0 1][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 12 0 1][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Ko-chan! 夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Ko! 夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Parece estar diciendo: "Huelo el tesoro.[n]S胤gueme."[n][f 1 3 65535][f 1 1][e]
@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 1][f 3 1 1 0 0 0]El tesoro es esencialmente su catnip.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 10 1 4][f 3 1 1 0 0 22032][f 6 1 2 0 0 4]Bueno, no es lo mismo que el Tesoro en un[n]palacio, pero supongo que fue un poco[n]disparado por Teddie y Koro-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 10 1 4][f 3 1 1 0 0 22032][f 6 1 2 0 0 4]Bueno, no es lo mismo que el Tesoro en un[n]palacio, pero supongo que fue un poco[n]disparado por Teddie y Koro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 26 12 100 1][f 3 1 1 0 0 26516][f 3 1 6 0 0 500]Este camino es m茨s largo, pero parece que[n]hay un tesoro en el camino.[n][f 1 3 65535][f 1 1][e]

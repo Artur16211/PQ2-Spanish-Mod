@@ -59,10 +59,10 @@
 
 [msg MSG_018 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 6][f 3 1 1 0 0 8067]De hecho. Sin embargo, este no es el verdadero[n]fin de todo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 ser茨 de este mundo y Ribbon-san ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 ser茨 de este mundo y Ribbon ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 6][f 3 1 1 0 0 8067][f 6 1 2 0 0 4]Esa es una buena pregunta. 夷Qu姻 planeas hacer[n]ahora, Ribbon-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 6][f 3 1 1 0 0 8067][f 6 1 2 0 0 4]Esa es una buena pregunta. 夷Qu姻 planeas hacer[n]ahora, Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]Creo que, eventualmente, m茨s de mis compa隠eros[n]surgir茨n con individualidades.[n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 15 2 0 0][f 3 1 1 0 0 0]Es un objetivo admirable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]Aigis-san, gracias en particular...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]Aigis, gracias en particular...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ambos somos robots, pero eras tan libre que[n]al principio estaba muy confundido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Hero]]
@@ -100,7 +100,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 0]Por eso tambi姻n deber胤as hacer nuevos[n]compa隠eros. Si haces eso, seguro que todos los[n]d胤as estar茨n llenos de diversi吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 15063]Ribbon-san, por favor, espera lo que te hace[n]"especial"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 15063]Ribbon, por favor, espera lo que te hace[n]"especial"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35005][f 6 1 2 0 0 6]S胤... 斡Har姻 lo mejor que pueda![n][f 1 3 65535][f 1 1][e]
@@ -128,7 +128,7 @@
 
 [msg MSG_038 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 1 5][f 6 1 27 0 0 0]　[n][f 3 1 1 0 0 19068]Mmhm... Siento que estoy abrumado por las[n]emociones.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 12 2 1][f 3 1 1 0 0 0]Ribbon-chan estuvo solo todo este tiempo...[n]Supongo que sigo comparando mi propia[n]situaci吋n con la suya.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 2 1][f 3 1 1 0 0 0]Ribbon estuvo solo todo este tiempo...[n]Supongo que sigo comparando mi propia[n]situaci吋n con la suya.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_039 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]夷Est茨s bien?[f 2 7 1 20 0 32][e]
@@ -137,7 +137,7 @@
 
 [msg MSG_040 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19024]斡Gracias, pero estoy bien! Adem茨s, esto no[n]fue un final triste.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ribbon-chan ser茨 capaz de sentir que ahora[n]pertenece...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ribbon ser茨 capaz de sentir que ahora[n]pertenece...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040_3 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]... Y eso me hace tan feliz por ella.[n][f 1 3 65535][f 1 1][e]
@@ -150,7 +150,7 @@
 
 [msg MSG_042 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]Gracias, pero estoy bien. Despu姻s de todo,[n]esto no fue un final triste.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ribbon-chan ser茨 capaz de sentir que ahora[n]pertenece...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ribbon ser茨 capaz de sentir que ahora[n]pertenece...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042_5 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]... Y eso me hace tan feliz por ella.[n][f 1 3 65535][f 1 1][e]

@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Vamos, Joker! 斡Puedo o胤rlo llamando mi[n]nombre![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 1][f 3 1 1 0 0 27031]*giggle* C茨lmate, Mona-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 1][f 3 1 1 0 0 27031]*giggle* C茨lmate, Mona.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 1][f 3 1 1 0 0 0]No podemos cargar. Echemos un vistazo al mapa[n]y mu姻vanse con cuidado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]

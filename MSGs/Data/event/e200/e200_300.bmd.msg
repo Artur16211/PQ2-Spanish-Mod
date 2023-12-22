@@ -133,14 +133,14 @@
 [f 0 5 65278][f 2 1]Si te calmas, te lo dir姻.[f 2 7 1 20 0 32][e]
 
 [msg MSG_041 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5072]S胤, Yosuke-kun tambi姻n parece agotado. Podr胤a[n]ser mejor si lo hablamos en un lugar[n]m茨s seguro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 5072]S胤, Yosuke tambi姻n parece agotado. Podr胤a[n]ser mejor si lo hablamos en un lugar[n]m茨s seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 8 1 0][f 3 1 1 0 0 3092]S胤... Tienes raz吋n. Adelante, ponlo sobre[n]m胤... Estoy escuchando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Bueno, es una larga historia... podr胤a ser[n]mejor que hablemos de ello en un lugar[n]m茨s seguro.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yosuke-kun parece agotado, tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yosuke parece agotado, tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 0]Bueno, regresemos al cine.[n][f 1 3 65535][f 1 1][e]

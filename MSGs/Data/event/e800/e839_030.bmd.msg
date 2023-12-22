@@ -118,7 +118,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No lo entiendo; simplemente segu胤an cantando[n]esas palabras. 夷Qu姻 parece ser una[n]met茨fora para algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 4112]Tal vez algo en la mente de Hikari-chan...[n]夷Pero qu姻 se supone que hagamos ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 4112]Tal vez algo en la mente de Hikari...[n]夷Pero qu姻 se supone que hagamos ahora?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No nos vamos a ning雨n lado a este ritmo.[n]夷Alguien tiene alguna otra idea brillante?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yosuke]]
@@ -160,11 +160,11 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 0]No puedo explicarlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 0]No tienes que hacerlo. Toda esta pel胤cula[n]est茨 basada en tu mente, Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 0]No tienes que hacerlo. Toda esta pel胤cula[n]est茨 basada en tu mente, Hikari.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28031]Deber胤amos investigar cualquier sentimiento[n]que tengas, no importa lo vago.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]Si姻ntate, Hikari-chan. Encontraremos lo que[n]sea que est姻s buscando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]Si姻ntate, Hikari. Encontraremos lo que[n]sea que est姻s buscando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 61147]Muchas gracias... Es un alivio tener la ayuda[n]de todos.[n][f 1 3 65535][f 1 1][e]

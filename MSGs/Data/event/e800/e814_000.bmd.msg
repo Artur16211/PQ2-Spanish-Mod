@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 0]Deber胤a ser sobre con qui姻n vas, no donde[n]vas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 27 1 0 0][f 4 6 9 2 0 6][f 3 1 1 0 0 9049][f 6 1 2 0 0 6]Si estamos juntos, Yuki-chan, podemos[n]divertirnos sin importar a d吋nde vayamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 27 1 0 0][f 4 6 9 2 0 6][f 3 1 1 0 0 9049][f 6 1 2 0 0 6]Si estamos juntos, Yuki, podemos[n]divertirnos sin importar a d吋nde vayamos![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y tal vez finalmente puedas marcar con un..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yukiko]]
@@ -79,7 +79,7 @@
 
 [msg MSG_023 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 27 2 0 0][f 3 1 1 0 0 27024]Gracias. Mis padres eran muy estrictos con[n]cosas as胤, as胤 que supongo que es s吋lo la[n]segunda naturaleza en este punto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero eres tan adorable, Yukiko-chan. Eres[n]graciosa, y tus modales son tan[n]majestuosos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero eres tan adorable, Yukiko. Eres[n]graciosa, y tus modales son tan[n]majestuosos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 0][f 3 1 1 0 0 5018]Gracias.[n][f 1 3 65535][f 1 1][e]

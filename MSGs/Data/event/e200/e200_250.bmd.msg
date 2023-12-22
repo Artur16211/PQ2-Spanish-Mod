@@ -112,7 +112,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Dices eso ahora, pero... Ya se han ido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oracle! 斡Rise-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oracle! 斡Rise![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡S胤! 斡Escuchamos a todos![n][f 1 3 65535][f 1 1][e]

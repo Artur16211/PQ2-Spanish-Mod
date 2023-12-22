@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19098]Whew... Parece que todav胤a tenemos muchas[n]maneras de ir. 夷Est茨s bien, Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19098]Whew... Parece que todav胤a tenemos muchas[n]maneras de ir. 夷Est茨s bien, Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 1][f 3 1 1 0 0 0]Estoy bien, gracias.[n][f 1 3 65535][f 1 1][e]
@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 12 0 3][f 3 1 1 0 0 11079]Pero hombre, pensar que Nagi-san result吋 ser[n]el malo que caus吋 todo esto...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 12 0 3][f 3 1 1 0 0 11079]Pero hombre, pensar que Nagi result吋 ser[n]el malo que caus吋 todo esto...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Parec胤a tan agradable, y cari隠osa, y preciosa...[n]斡Totalmente el tipo m茨s viejo ideal![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukari]]
@@ -38,8 +38,8 @@
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]夷Qu姻 es una "Ordenanza de la Paz"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 11 1 0 0][f 4 6 15 0 0 4][f 3 1 1 0 0 15046]Puedo recordar a Junpei-san ense隠茨ndome sobre[n]esta ordenanza...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Es un comando que proh胤be a cualquiera tratar[n]a Junpei-san m茨s bajo que un[n]saltamontes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 1 0 0][f 4 6 15 0 0 4][f 3 1 1 0 0 15046]Puedo recordar a Junpei ense隠茨ndome sobre[n]esta ordenanza...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Es un comando que proh胤be a cualquiera tratar[n]a Junpei m茨s bajo que un[n]saltamontes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]夷畏l tambi姻n lo hace en este mundo? El Junpei[n]en mi mundo intenta sacar el mismo[n]movimiento.[n][f 1 3 65535][f 1 1][e]
@@ -58,14 +58,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Eso fue todo para enga隠arnos tambi姻n? Parece[n]muy contraintuitivo, considerando la[n]cantidad de apoyo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 14513][f 3 1 6 0 0 500]Incluso despu姻s de arruinar sus planes para[n]Hikari-chan, ella no ten胤a exactamente[n]ninguna mala voluntad hacia nosotros...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 14513][f 3 1 6 0 0 500]Incluso despu姻s de arruinar sus planes para[n]Hikari, ella no ten胤a exactamente[n]ninguna mala voluntad hacia nosotros...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Para ser honesta, simplemente nos ech吋 y nos[n]dej吋 ir en camino.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 18 2 1][f 3 1 1 0 0 0]Tengo la sensaci吋n de que tiene alguna raz吋n[n]para dejarnos ir...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Yo tambi姻n, no s吋lo eso, creo que ella no[n]estaba mintiendo sobre intentar salvar a[n]Hikari-chan, tampoco.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Yo tambi姻n, no s吋lo eso, creo que ella no[n]estaba mintiendo sobre intentar salvar a[n]Hikari, tampoco.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18113]Bueno, sea cual sea su trato, no cambia lo[n]que tenemos que hacer...[n][f 1 3 65535][f 1 1][e]
@@ -88,7 +88,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 17 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Koromaru-san dice, "SEES har茨 lo mejor[n]tambi姻n."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]Koromaru dice, "SEES har茨 lo mejor[n]tambi姻n."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 0 0 1][f 3 1 1 0 0 61172]As胤 que... creo que finalmente entiendo lo[n]que realmente es un compa隠ero, ahora.[n][f 1 3 65535][f 1 1][e]
@@ -123,7 +123,7 @@
 
 [msg MSG_036 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 11 1 0 0][f 4 6 5 6 0 4][f 3 1 1 0 0 0]No est姻s tan abajo, Grass..[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Junpei-kun... 夷Por qu姻 no nos apuramos para[n]que no nos queden atr茨s?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Junpei... 夷Por qu姻 no nos apuramos para[n]que no nos queden atr茨s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Ni siquiera t雨?[n][f 1 3 65535][f 1 1][e]

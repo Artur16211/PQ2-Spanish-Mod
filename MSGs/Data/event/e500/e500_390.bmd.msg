@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 5]As胤 es. Tu pel胤cula ha movido los corazones[n]del pueblo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 8 2 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 6]斡S胤! 斡El mensaje de Hikari-chan los est茨[n]alcanzando![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 8 2 4][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 6]斡S胤! 斡El mensaje de Hikari los est茨[n]alcanzando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 3][f 3 1 1 0 0 7][f 6 1 2 0 0 6]Whoa![n][f 1 3 65535][f 1 1][e]

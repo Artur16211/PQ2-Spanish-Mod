@@ -103,7 +103,7 @@
 [msg MSG_026 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 3][f 3 1 1 0 0 0]Ya veo. Una hip吋tesis interesante...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nuestros recuerdos parec胤an alterar los[n]personajes de esas pel胤culas que hemos estado[n]investigando.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]M茨s importante a雨n, la pel胤cula de Hikari-san[n]parec胤a profundamente reflexiva en su[n]propia mentalidad y perspectiva.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]M茨s importante a雨n, la pel胤cula de Hikari[n]parec胤a profundamente reflexiva en su[n]propia mentalidad y perspectiva.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 0]夷As胤 que, de forma similar, las proyecciones[n]especiales reflejan nuestra propia[n]conciencia...?[n][f 1 3 65535][f 1 1][e]

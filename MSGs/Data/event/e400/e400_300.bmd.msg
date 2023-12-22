@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 81 1 0 1][f 4 6 10 12 0 3][f 3 1 1 0 0 10003][f 6 1 2 0 0 4]Hey, Hikari-chan. Te gustan las pel胤culas,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 1 0 1][f 4 6 10 12 0 3][f 3 1 1 0 0 10003][f 6 1 2 0 0 4]Hey, Hikari. Te gustan las pel胤culas,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]S胤, los amo. 夷Por qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -63,20 +63,20 @@
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 4][f 3 1 1 0 0 16018][f 6 1 2 0 0 4]夷Eh? 夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Cuando lleg吋 por primera vez, Hikari-san no[n]ten胤a intenciones de salir del cine...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Cuando lleg吋 por primera vez, Hikari no[n]ten胤a intenciones de salir del cine...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, mientras ve胤a las pel胤culas, tanto las[n]tramas de las pel胤culas como sus propios[n]sentimientos comenzaron a cambiar, y[n]Doe escupi吋 las llaves.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 28 6 1 6][f 3 1 1 0 0 0]Es como si sus acciones estuvieran vinculadas[n]a los cambios de coraz吋n de Hikari-san[n]y su deseo de salir de este lugar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 28 6 1 6][f 3 1 1 0 0 0]Es como si sus acciones estuvieran vinculadas[n]a los cambios de coraz吋n de Hikari[n]y su deseo de salir de este lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 61018][f 6 1 2 0 0 4]夷Mi coraz吋n estaba relacionado con todo esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8068]Cuando lleg吋 por primera vez, Hikari-san no[n]ten胤a intenciones de salir del cine...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8068]Cuando lleg吋 por primera vez, Hikari no[n]ten胤a intenciones de salir del cine...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, mientras ve胤a las pel胤culas, tanto las[n]tramas de las pel胤culas como sus propios[n]sentimientos comenzaron a cambiar...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]A雨n no podemos estar seguros de nada, pero[n]debe haber alguna conexi吋n entre el Cine[n]y Hikari-san.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si fuera a postular qui姻n podr胤a manejar un[n]Cine lleno de pel胤culas que reflejan el[n]coraz吋n de Hikari-san, ser胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]A雨n no podemos estar seguros de nada, pero[n]debe haber alguna conexi吋n entre el Cine[n]y Hikari.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si fuera a postular qui姻n podr胤a manejar un[n]Cine lleno de pel胤culas que reflejan el[n]coraz吋n de Hikari, ser胤a...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_023 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]Doe.[f 2 7 1 20 0 32][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4059][f 6 1 2 0 0 0]夷Hablas en serio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 10 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Uhh... 夷Nagi-san no se despert吋 aqu胤 en el[n]Cine con Hikari?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 10 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Uhh... 夷Nagi no se despert吋 aqu胤 en el[n]Cine con Hikari?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Eso no significa que se haya arrastrado a[n]este desastre como nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ryuji]]

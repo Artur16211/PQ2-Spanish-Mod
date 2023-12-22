@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 71 12 0 1][f 3 1 1 0 0 0]Um, you said this film is related to[n][f 6 1 29 0 0 0]-kun's power of the wild[n]card, correct?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 3 1 1 0 0 27131][f 6 1 2 0 0 4]夷Qu姻 tal, [f 6 1 29 0 0]-kun? 夷Te sientes[n]diferente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 3 1 1 0 0 27131][f 6 1 2 0 0 4]夷Qu姻 tal, [f 6 1 29 0 0]? 夷Te sientes[n]diferente?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_011 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]No, en realidad no.[f 2 7 1 64 6 32][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 10 0 1][f 3 1 1 0 0 54035][f 6 1 2 0 0 6]...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 2 0 3][f 3 1 1 0 0 25009]We found this film after a special[n]screening where we needed[n][f 6 1 30 0 0 0]-kun to fight, right?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 2 0 3][f 3 1 1 0 0 25009]We found this film after a special[n]screening where we needed[n][f 6 1 30 0 0 0] to fight, right?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 0 0 0][f 3 1 1 0 0 0]Podr胤a ver que hay otros ex茨menes como 姻l,[n]tal vez tambi姻n requerir gente[n]espec胤fica...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Elizabeth]]

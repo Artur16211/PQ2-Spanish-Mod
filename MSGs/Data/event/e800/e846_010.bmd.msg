@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 14 1 0 6][f 4 6 19 18 3 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Una caja de m雨sica... 斡Eso es![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_1 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19001]Hey, Fuuka, [f 6 1 30 0 0]-kun! 夷No funcionar胤a[n]perfectamente para eso de lo que[n]est茨bamos hablando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19001]Hey, Fuuka, [f 6 1 30 0 0]! 夷No funcionar胤a[n]perfectamente para eso de lo que[n]est茨bamos hablando?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ya sabes, lo de Ann![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_010 top]

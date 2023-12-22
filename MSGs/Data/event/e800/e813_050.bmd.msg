@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 8130]Tengo una teor胤a sobre eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 73 12 0 6][f 3 1 1 0 0 53062][f 6 1 2 0 0 4]Ohh? Es Nao-chan y Goro. 夷Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 73 12 0 6][f 3 1 1 0 0 53062][f 6 1 2 0 0 4]Ohh? Es Nao y Goro. 夷Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 8058][f 6 1 2 0 0 6]斡Teddie! 斡Te hemos estado buscando![n][f 1 3 65535][f 1 1][e]
@@ -69,7 +69,7 @@
 [msg MSG_020 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 73 12 0 0][f 3 1 1 0 0 53084]No lo creo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Est茨bamos viendo una pel胤cula muy fuerte en[n]ese momento, as胤 que tal vez por eso...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 73 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Pero entonces Marga-chan se enoj吋 con nosotros[n]y nos hizo marcharnos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 73 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Pero entonces Marga se enoj吋 con nosotros[n]y nos hizo marcharnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 le pas吋 a tu traje de oso?[n][f 1 3 65535][f 1 1][e]

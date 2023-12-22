@@ -10,14 +10,14 @@
 [f 0 5 65278][f 2 1][f 4 6 57 0 1 0][f 3 1 1 0 0 5]Um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Hikari De Secundaria]]
-[f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 6][f 6 1 2 0 0 4]Soy Hikari. Eres Miyuki-chan, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 6][f 6 1 2 0 0 4]Soy Hikari. Eres Miyuki, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7]Encantado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Miyuki]]
-[f 0 5 65278][f 2 1][f 4 6 57 0 0 0][f 3 1 1 0 0 8]Hikari-chan... Es un placer conocerte[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 57 0 0 0][f 3 1 1 0 0 8]Hikari... Es un placer conocerte[n]tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Miyuki]]
-[f 0 5 65278][f 2 1][f 4 6 57 0 0 0][f 3 1 1 0 0 9]Te gustan las pel胤culas, 夷verdad,[n]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 57 0 0 0][f 3 1 1 0 0 9]Te gustan las pel胤culas, 夷verdad,[n]Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari De Secundaria]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 1 0][f 3 1 1 0 0 10]Mmhm! Incluso si lo he visto antes, puedo[n]verlo una y otra vez.[n][f 1 3 65535][f 1 1][e]
@@ -123,7 +123,7 @@
 
 [msg MSG_039 [Miyuki]]
 [f 0 5 65278][f 2 1][f 4 6 57 6 1 0][f 3 1 1 0 0 45][f 6 1 2 0 0 6]斡Espera![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 57 0 0 4][f 3 1 1 0 0 46]YO... agree that Hikari-chan should go...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 57 0 0 4][f 3 1 1 0 0 46]YO... agree that Hikari should go...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Estudiante Ruidosa]]
 [f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 47]夷Lo ves? Todos est茨n de acuerdo, as胤 que esa[n]es la decisi吋n obvia.[n][f 1 3 65535][f 1 1][e]

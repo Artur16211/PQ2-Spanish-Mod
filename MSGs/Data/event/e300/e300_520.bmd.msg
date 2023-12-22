@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0]夷Ribbon-chan? 夷Qu姻 pasa? Pareces un poco[n]fuera de ella.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 0]夷Ribbon? 夷Qu姻 pasa? Pareces un poco[n]fuera de ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 16118][f 6 1 2 0 0 6]斡Oh! 斡Mira eso![n][f 1 3 65535][f 1 1][e]
@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]N-NNGH...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Ribbon-san, 夷est茨s bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Ribbon, 夷est茨s bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 7 0 0][f 3 1 1 0 0 35016]ALGO COMO UN SELLO ELECTR遺NICO EST威 SUBIENDO[n]A MI PECHO AHORA MISMO.[n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 0]夷ESTO ES "SADNESS"? NUNCA HE SENTIDO UNA[n]COSA.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 27040]Ribbon-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 6 0 0][f 3 1 1 0 0 27040]Ribbon...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 0]PERHAPS... PODR緯A HABER SIDO MEJOR SI NUNCA[n]HUBIERA TENIDO CONCIENCIA.[n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1]Esa emoci吋n es importante.[f 2 7 1 20 0 32][e]
 
 [msg MSG_019 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19053]La tristeza que sientes, y c吋mo encuentras[n]flores hermosas... Ambos son gracias a[n]que eres t雨 mismo, Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19053]La tristeza que sientes, y c吋mo encuentras[n]flores hermosas... Ambos son gracias a[n]que eres t雨 mismo, Ribbon.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por eso no quiero que niegues tus sentimientos.[n]son lo que te hace... t雨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Futaba]]
@@ -78,7 +78,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 9 12 0 0][f 3 1 1 0 0 9106][f 6 1 2 0 0 6]斡Por supuesto, diez veces![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me hace tan feliz de ser yo mismo, y... todos[n]me han acogido por lo que soy.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Estoy seguro de que todo el mundo es feliz[n]por ti mismo, Ribbon-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Estoy seguro de que todo el mundo es feliz[n]por ti mismo, Ribbon![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 5069]Teddie tiene raz吋n. Creo que eres maravillosa[n]exactamente como eres.[n][f 1 3 65535][f 1 1][e]

@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]SOY CAPAZ DE RESPONDER PREGUNTAS GENERALES.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Entonces, supongo que Ribbon-san ser胤a mejor[n]ir en el medio? D姻jame el 雨ltimo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Entonces, supongo que Ribbon ser胤a mejor[n]ir en el medio? D姻jame el 雨ltimo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 8067]No tengo objeciones. No me importa estar en[n]la segunda mitad tambi姻n.[n][f 1 3 65535][f 1 1][e]
@@ -130,7 +130,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 1][f 3 1 1 0 0 13006]Entonces, el m胤o ser茨, "seis de uno, media[n]docena del otro."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8013]Ir姻 con "recibir ochenta y seis". Por favor,[n]cuide de la 雨ltima, Akechi-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8013]Ir姻 con "recibir ochenta y seis". Por favor,[n]cuide de la 雨ltima, Akechi.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 28067][f 6 1 2 0 0 4]No hay problema. 夷Qu姻 tal "un tiro de cien[n]a uno"?[n][f 1 3 65535][f 1 1][e]
@@ -259,7 +259,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]CORRECTO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 28072]Qu姻 apropiado, un elemento "sci-fi-sounding".[n]Adem茨s, dej吋 "esa" para Hanamura-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 28072]Qu姻 apropiado, un elemento "sci-fi-sounding".[n]Adem茨s, dej吋 "esa" para Hanamura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Sistema De IA Para Exámenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]UNIT YS-01...[n][f 1 3 65535][f 1 1][e]
@@ -476,7 +476,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 16067]斡S胤, yo tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_145 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0 0]-chan realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 10 0 1][f 3 1 1 0 0 22048]Wow, [f 6 1 27 0 0 0] realmente est茨[n]haciendo un gran trabajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_146 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 3][f 3 1 1 0 0 10068]S胤, es una l胤der natural.[n][f 1 3 65535][f 1 1][e]

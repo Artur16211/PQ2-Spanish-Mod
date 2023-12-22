@@ -5,8 +5,8 @@
 [f 0 5 65278][f 2 1][f 4 6 17 4 0 1][f 3 1 1 0 0 2][f 6 1 2 0 0 2]*Growl* 斡Barco, corteza![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 3]Koromaru-san parece no gustarle tambi姻n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Dijo: "Hikari-san es Hikari-san. 夷Por qu姻 se[n]rechaza ese hecho?"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 3]Koromaru parece no gustarle tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4]Dijo: "Hikari es Hikari. 夷Por qu姻 se[n]rechaza ese hecho?"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 5]Basado en la apariencia de Hikari, este[n]incidente parece haber ocurrido[n]recientemente.[n][f 1 3 65535][f 1 1][e]
@@ -61,14 +61,14 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 40 1 0 4][f 3 1 1 0 0 26]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 27]Hikari-chan, que no s吋lo se aplica a m胤. Lo[n]mismo va para ti, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 27]Hikari, que no s吋lo se aplica a m胤. Lo[n]mismo va para ti, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Solo s姻 t雨 mismo, Hikari.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Todos nos gustas como t雨.[f 2 7 1 20 2 32][e]
 
 [msg MSG_019 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 28]Mmhm. S吋lo eres t雨, Hikari-chan. Eres nuestro[n]precioso amigo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 28]Mmhm. S吋lo eres t雨, Hikari. Eres nuestro[n]precioso amigo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Por eso vinimos hasta aqu胤 para encontrarte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Hikari De Instituto]]

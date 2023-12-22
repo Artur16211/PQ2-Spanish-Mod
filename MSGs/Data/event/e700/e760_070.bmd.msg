@@ -18,8 +18,8 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0]斡Shuddup! 斡D姻jame en paz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19001]He querido preguntar sobre ellos, Yosuke-kun,[n]pero tambi姻n he notado que usas[n]auriculares.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Es como Futaba-chan y yo. 斡Quiz茨s compartamos[n]algunos intereses comunes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19001]He querido preguntar sobre ellos, Yosuke,[n]pero tambi姻n he notado que usas[n]auriculares.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Es como Futaba y yo. 斡Quiz茨s compartamos[n]algunos intereses comunes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 10 100 4][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Ahora que lo mencionas, tienes raz吋n! 斡Tenemos[n]otro audiofilo aqu胤![n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Ay, compa隠ero, no t雨 tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 3 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19086]Ya veo. 斡Seguro que sabes divertirte,[n]Yosuke-kun![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 3 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19086]Ya veo. 斡Seguro que sabes divertirte,[n]Yosuke![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]斡Mira, te lo digo, yo...![n][f 1 3 65535][f 1 1][e]

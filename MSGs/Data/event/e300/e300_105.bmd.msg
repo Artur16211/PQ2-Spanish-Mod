@@ -32,7 +32,7 @@
 [msg MSG_008 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 14 12 0 3][f 3 1 1 0 0 12]Hay algo que olvid姻 mencionar antes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Cuando el Ladrones Fantasma y el Equipo de[n]Investigaci吋n llegaron a nuestro rescate[n]en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]For just a moment, Lucia misrecognized[n][f 6 1 27 0 0 0]-chan as our leader.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]For just a moment, Lucia misrecognized[n][f 6 1 27 0 0 0] as our leader.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 4]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -63,7 +63,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 23]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 24][f 6 1 26 0 0 0]-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 24][f 6 1 26 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 25]斡Aah! Me sorprendiste...[n][f 1 3 65535][f 1 1][e]
@@ -74,7 +74,7 @@
 
 [msg MSG_021 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 28]Quiero decir, puedo entender por qu姻 est茨n[n]tan confundidos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Pero cuando pienso en c吋mo esto est茨 haciendo-chan sentir, es simplemente[n]desgarrador.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Pero cuando pienso en c吋mo esto la est茨 haciendo sentir, es simplemente[n]desgarrador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 30]斡Aha! Estoy totalmente bien, sin embargo,[n]cosas como universos paralelos es tan[n]ciencia ficci吋n![n][f 1 3 65535][f 1 1][e]
@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 31]*giggle* Gracias... Est茨s tratando de animarme,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 32]Bueno, [f 6 1 26 0 0 0]-san, hab胤as estado[n]tan preocupado por tus compa隠eros...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 32]Bueno, [f 6 1 26 0 0 0], hab胤as estado[n]tan preocupado por tus compa隠eros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 33]Gracias, todos sois muy amables...[n][f 1 3 65535][f 1 1][e]
@@ -96,7 +96,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Por eso estoy planeando hacer mi mejor[n]esfuerzo para buscar a su l胤der y Aigis![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]... Eres tan fuerte, [f 6 1 26 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]... Eres tan fuerte, [f 6 1 26 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 38]*giggle* 夷T雨 crees? Probablemente sea porque[n]tengo a todos aqu胤 apoy茨ndome.[n][f 1 3 65535][f 1 1][e]

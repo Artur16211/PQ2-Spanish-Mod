@@ -19,7 +19,7 @@
 
 [msg MSG_006 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Whoa! 斡M茨s gente! Espera, 夷son parte de ese[n]ej姻rcito de gente azul que mencionaron?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9]夷Eso significa que Marie-chan est茨 aqu胤[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9]夷Eso significa que Marie est茨 aqu胤[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 9 12 0 1][f 3 1 1 0 0 10][f 6 1 2 0 0 6]斡Lo adivinaste! 斡Emmy-chaaan, ven aqu胤 un[n]segundo![n][f 1 3 65535][f 1 1][e]
@@ -51,17 +51,17 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 3 10 0 3][f 3 1 1 0 0 18][f 6 1 2 0 0 10]Uh, hey, compa隠ero, 夷qui姻n es el nocaut total[n]de all胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 19]Es la curadora de la que te contamos antes,[n]Nagi-san. Ese es Hikari-san all胤 con[n]ella tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 19]Es la curadora de la que te contamos antes,[n]Nagi. Ese es Hikari all胤 con[n]ella tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 1 0 1][f 6 1 25 0 0 0][f 4 6 81 4 2 4][f 3 1 1 0 0 20]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 10 2 0][f 3 1 1 0 0 21]Hikari-san, debes estar igualmente aliviado,[n]夷no? Parec胤as muy preocupado por[n]Hanamura-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 10 2 0][f 3 1 1 0 0 21]Hikari, debes estar igualmente aliviado,[n]夷no? Parec胤as muy preocupado por[n]Hanamura...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 22]Siento haberos preocupado tanto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 23]Hikari-chan, 夷verdad? Gracias por su[n]preocupaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 23]Hikari, 夷verdad? Gracias por su[n]preocupaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 84 1 0 0][f 4 6 81 0 0 0][f 3 1 1 0 0 24]U-Um...[n][f 1 3 65535][f 1 1][e]
@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 60]... Lo siento. No puedo explicarlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 61]Hikari-san... No deber胤as ser tan duro contigo[n]mismo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 61]Hikari... No deber胤as ser tan duro contigo[n]mismo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62]Lo importante es lo que deseas hacer... No[n]hay necesidad de estresarse por lo que[n]puede ser.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Hikari]]

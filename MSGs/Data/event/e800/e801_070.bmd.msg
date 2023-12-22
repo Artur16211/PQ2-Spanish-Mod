@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22030][f 6 1 2 0 0 7]斡Ahaha! 斡Pero sigues siendo s雨per confiable![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 69 1 0 0][f 4 6 71 12 0 0][f 3 1 1 0 0 0]Mako-chan y yo simplemente quer胤amos mostrar[n]nuestra gratitud a todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 1 0 0][f 4 6 71 12 0 0][f 3 1 1 0 0 0]Mako y yo simplemente quer胤amos mostrar[n]nuestra gratitud a todos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si no hubieras venido por nosotros, nunca[n]habr胤amos escapado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
@@ -78,7 +78,7 @@
 
 [msg MSG_022 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Y no nos referimos como parte de los Ladrones[n]Fantasma.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso es para [f 6 1 26 0 0 0]-san y el Equipo[n]de Investigaci吋n tambi姻n. Estamos juntos[n]en esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Eso es para [f 6 1 26 0 0 0] y el Equipo[n]de Investigaci吋n tambi姻n. Estamos juntos[n]en esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19077]S胤! 斡Cu姻ntame![n][f 1 3 65535][f 1 1][e]

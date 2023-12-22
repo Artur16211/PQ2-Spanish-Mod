@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Pagar茨s por esto, Yuka-tan! Bueno, ahora[n]que no hay escape...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 7 12 0 1][f 3 1 1 0 0 7019]夷Est茨s bien, Junpei-san? Te ves muy[n]cambiante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 7 12 0 1][f 3 1 1 0 0 7019]夷Est茨s bien, Junpei? Te ves muy[n]cambiante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 3][f 3 1 1 0 0 0]斡Ah! 斡Kanji! 斡Perfecto momento![n][f 1 3 65535][f 1 1][e]

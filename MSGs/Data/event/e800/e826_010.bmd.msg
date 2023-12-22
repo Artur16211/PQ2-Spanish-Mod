@@ -59,14 +59,14 @@
 [f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17004]Woof...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]Koromaru-san dice que no tiene idea de lo[n]que est茨s hablando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]Koromaru dice que no tiene idea de lo[n]que est茨s hablando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 6 0 0][f 3 1 1 0 0 23092][f 6 1 2 0 0 9]Lo dijiste. A nadie le importa tu tonto[n]concurso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 2 1 0][f 3 1 1 0 0 9016][f 6 1 2 0 0 4]夷Oho...? Bueno, si no hay competencia, entonces[n]supongo que gan姻 por defecto.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 8 0 0][f 3 1 1 0 0 0]Y luego me pongo bonita Ann-chan todo para[n]m胤 mismo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 8 0 0][f 3 1 1 0 0 0]Y luego me pongo bonita Ann todo para[n]m胤 mismo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 23064][f 6 1 2 0 0 6]斡Arrrgh! 夷D吋nde te vas?[n][f 1 3 65535][f 1 1][e]
@@ -94,14 +94,14 @@
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Cierto. 斡No hay forma de perder a un oso[n]pervertido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 3][f 4 6 71 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Y t雨, Koro-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 3][f 4 6 71 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Y t雨, Koro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡斡Arf! Arf, 斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 6][f 3 1 1 0 0 0]"El concurso es de poco inter姻s para m胤, pero[n]con gusto ayudar姻 a buscar el[n]tesoro..."[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]... As胤 dice Koromaru-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]... As胤 dice Koromaru.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 9068][f 6 1 2 0 0 6]斡Entonces eso lo resuelve! 斡Que empiece el[n]primer Mascot Match-up![n][f 1 3 65535][f 1 1][e]

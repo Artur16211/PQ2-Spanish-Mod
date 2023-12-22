@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esa cosa est茨 cargada con cinco veces la[n]carne, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 5017]The only ones who can finish it are[n][f 6 1 13 0 0 0]-kun, or maybe Chie.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 5017]The only ones who can finish it are[n][f 6 1 13 0 0 0], or maybe Chie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Ahora que era una batalla...[n][f 1 3 65535][f 1 1][e]

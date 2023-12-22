@@ -20,12 +20,12 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 3][f 3 1 1 0 0 11031]La idea es sacarlo todo lo posible y poner[n]a todos al borde de sus asientos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 4 0 1][f 3 1 1 0 0 10130]夷T雨 enga隠as a Yukiko-chan en esto tambi姻n?[n]Tienes nervios, Stupei.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 4 0 1][f 3 1 1 0 0 10130]夷T雨 enga隠as a Yukiko en esto tambi姻n?[n]Tienes nervios, Stupei.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 2]Ha pasado mucho tiempo. 夷Alguna 雨ltima[n]palabra?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 3][f 3 1 1 0 0 11055]斡Espera, tiempo fuera! 斡No hagamos nada loco,[n]Yuka-tan![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0]S吋lo lo hice para ayudar a Yukiko-chan a[n]dominar la cosa "creerla, o no"...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 3][f 3 1 1 0 0 0]S吋lo lo hice para ayudar a Yukiko a[n]dominar la cosa "creerla, o no"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 1][f 3 1 1 0 0 25037]... M茨s tonter胤as, y tendr茨s que responder[n]al pu隠o de hierro de la justicia.[n][f 1 3 65535][f 1 1][e]

@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22086]Espera... Esto no es causa de todo eso con[n]Shiho, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 6][f 3 1 1 0 0 0]Pensamos que te ve胤as solo, Ann-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 6][f 3 1 1 0 0 0]Pensamos que te ve胤as solo, Ann...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Esperamos poder ayudarte a animarte, eso es[n]todo.[n][f 1 3 65535][f 1 1][e]
@@ -69,7 +69,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22013][f 6 1 2 0 0 4]Estoy dibujando un blanco aqu胤. Ni siquiera[n]es mi cumplea隠os...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 0 6][f 3 1 1 0 0 0]Um... Ann-chan, 夷recuerdas c吋mo hablabas de[n]tu mejor amigo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 0 6][f 3 1 1 0 0 0]Um... Ann, 夷recuerdas c吋mo hablabas de[n]tu mejor amigo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parec胤a que te sent胤as muy sola...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0][f 3 1 1 0 0 22015]Espera, 夷qu姻? 斡Ahora tengo mucha curiosidad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 0 6][f 3 1 1 0 0 0]Um... Ann-chan, 夷recuerdas c吋mo hablabas de[n]tu mejor amigo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 0 6][f 3 1 1 0 0 0]Um... Ann, 夷recuerdas c吋mo hablabas de[n]tu mejor amigo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 0]Parec胤a que te sent胤as muy sola...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
@@ -112,7 +112,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 0]Ahora tengo a todos estos grandes amigos[n]tratando de animarme. 斡Tengo que ser fuerte[n]para ellos tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 0]Ann-chan... Me alegra que te sientas mejor.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 0 0][f 3 1 1 0 0 0]Ann... Me alegra que te sientas mejor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 22024][f 6 1 2 0 0 1]Muchas gracias, chicos. 斡Eres el mejor![n][f 1 3 65535][f 1 1][e]

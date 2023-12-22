@@ -63,7 +63,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17002][f 6 1 9 0 0 1]Arf, 斡斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4097][f 6 1 9 0 0 1]夷Fuiste t雨, Koro-chan? Eso me asust吋...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4097][f 6 1 9 0 0 1]夷Fuiste t雨, Koro? Eso me asust吋...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21018][f 6 1 9 0 0 1][f 6 1 2 0 0 4]夷Eh? Pero pens姻 que Koromaru estaba delante[n]de m胤... hay algo que me toca la cara...[n][f 1 3 65535][f 1 1][e]
@@ -124,7 +124,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17014][f 6 1 9 0 0 1][f 6 1 2 0 0 6]Awoooo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ribbon]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 35025][f 6 1 9 0 0 1][f 6 1 2 0 0 7]KOROMARU-SAN... MUCHAS GRACIAS.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 35025][f 6 1 9 0 0 1][f 6 1 2 0 0 7]Koromaru... MUCHAS GRACIAS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Junpei]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Vamos, 夷qu姻 pasa con la espera? Yosuke, 夷no[n]puedes ir un poco m茨s r茨pido?[n][f 1 3 65535][f 1 1][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13104][f 6 1 9 0 0 1][f 6 1 2 0 0 0]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Haru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Perd吋name, Mitsuru-san. Me cogieron la mano[n]en la falda.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Perd吋name, Mitsuru. Me cogieron la mano[n]en la falda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 10]Veo... Por favor, no me sorprenda as胤. Es[n]dif胤cil de ver aqu胤, despu姻s de todo.[n][f 1 3 65535][f 1 1][e]

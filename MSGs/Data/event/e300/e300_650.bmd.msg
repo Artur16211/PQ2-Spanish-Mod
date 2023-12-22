@@ -31,10 +31,10 @@
 [f 0 5 65278][f 2 1][f 4 6 6 4 99 4][f 3 1 1 0 0 12][f 3 1 6 0 0 500][f 6 1 2 0 0 10]斡Senpai! 斡Todos! 斡Lo siento, sucedi吋 cuando[n]nos estuvimos buscando un segundo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Fuuka]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 13][f 6 1 2 0 0 6]Hikari-chan's...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 13][f 6 1 2 0 0 6]Hikari's...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 19 0 4 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 14]C茨lmense, Fuuka. 夷Qu姻 es esto sobre[n]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 19 0 4 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 14]C茨lmense, Fuuka. 夷Qu姻 es esto sobre[n]Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 4 100 0][f 3 1 1 0 0 15][f 6 1 2 0 0 1]斡Regresa tan r茨pido como puedas! 斡Por favor![n][f 1 3 65535][f 1 1][e]

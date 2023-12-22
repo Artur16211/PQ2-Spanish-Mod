@@ -15,13 +15,13 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 11 10 0 4][f 3 1 1 0 0 6][f 6 1 2 0 0 0]Whoa, whoa! 夷Qu姻 te hace pensar que una pelea[n]de pu隠os resolver胤a lo que acabamos de[n]ver?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 15 6 0 0][f 3 1 1 0 0 7]Ni siquiera puedo imaginar cu茨nto este[n]incidente doli吋 a Hikari-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 15 6 0 0][f 3 1 1 0 0 7]Ni siquiera puedo imaginar cu茨nto este[n]incidente doli吋 a Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari De Secundaria]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 8]夷Qu姻 son los amigos? Si nuestras opiniones[n]son diferentes... 夷Ya no podemos ser[n]amigos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 9]夷Por qu姻 fui amigable con Miyuki-chan en[n]primer lugar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 9]夷Por qu姻 fui amigable con Miyuki en[n]primer lugar?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Todos la estaban evitando, tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari De Secundaria]]
@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 37 0 3 0][f 3 1 1 0 0 14]Por eso, si alguna vez tuviera un amigo en[n]problemas, les ayudar胤a, como en la[n]pel胤cula![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 15]Pero todo el mundo era diferente... Incluso[n]Miyuki-chan no estaba detr茨s de m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 15]Pero todo el mundo era diferente... Incluso[n]Miyuki no estaba detr茨s de m胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_5 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 16]Tienes que ser igual que todos los dem茨s. Si[n]sales de la l胤nea, te tratan como un[n]problema.[n][f 1 3 65535][f 1 1][e]
@@ -53,7 +53,7 @@
 
 [msg MSG_014 [Hikari De Secundaria]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 37 2 1 3][f 3 1 1 0 0 22]... 夷Y qu姻? 斡No me importa si dicen que soy[n]un asesino de humor![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 6]No voy a mentirme... 斡Quer胤a seguir siendo[n]amiga de Miyuki-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 6]No voy a mentirme... 斡Quer胤a seguir siendo[n]amiga de Miyuki![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Estudiante Ruidosa]]
 [f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 24]斡C茨llate ya! Cuando se trata de un dolor como[n]t雨...[n][f 1 3 65535][f 1 1][e]

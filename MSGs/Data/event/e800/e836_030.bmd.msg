@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 3 2 0 0][f 3 1 1 0 0 0]Dices que es f茨cil, pero el hecho de que[n]puedas inventar nueva tecnolog胤a como esa[n]es incre胤ble...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 2 100 4][f 3 1 1 0 0 6530][f 3 1 6 0 0 500]Lo s姻, 夷verdad? Es una locura lo que Oracle[n]y Fuuka-chan pueden hacer con todo esto[n]de ingenier胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 100 4][f 3 1 1 0 0 6530][f 3 1 6 0 0 500]Lo s姻, 夷verdad? Es una locura lo que Oracle[n]y Fuuka pueden hacer con todo esto[n]de ingenier胤a![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Son nuestro equipo de ensue隠o navegante![n]斡Pueden hacer cualquier cosa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Fuuka]]

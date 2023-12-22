@@ -10,7 +10,7 @@
 
 [msg MSG_003 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 1][f 3 1 1 0 0 0][f 3 1 1 0 0 9058]斡Haz que nuestras mejillas hagan lo que sea?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Qu姻 horrible! Me asegurar姻 de mantener tus[n]mejillas en su lugar, Futaba-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Qu姻 horrible! Me asegurar姻 de mantener tus[n]mejillas en su lugar, Futaba![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 1 0 1][f 4 6 70 10 0 3][f 3 1 1 0 0 26061][f 6 1 2 0 0 0]夷Wh-Whaaa?[n][f 1 3 65535][f 1 1][e]

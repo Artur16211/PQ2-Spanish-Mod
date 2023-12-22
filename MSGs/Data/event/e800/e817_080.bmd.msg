@@ -17,10 +17,10 @@
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 1][f 3 1 1 0 0 10010][f 6 1 2 0 0 10]Gracias...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 1 1]斡Gracias, Kirijo-san![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 1 1]斡Gracias, Kirijo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Est茨s bien, Mitsuru-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Est茨s bien, Mitsuru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 4 1 3][f 3 1 1 0 0 13070]S胤, estoy bien, gracias a todos ustedes.[n][f 1 3 65535][f 1 1][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 25084]No, me refer胤a a toda la operaci吋n. Pens姻[n]que tu equipo estaba perfectamente coordinado[n]contigo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Incluso Iori-kun. Dirigi吋 la carga cuando[n]lanzamos la trampa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]Incluso Iori. Dirigi吋 la carga cuando[n]lanzamos la trampa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 0][f 3 1 1 0 0 13013]Hrm... 夷Pero no s吋lo estaba haciendo eso[n]porque ten胤a miedo de que me enojara con 姻l?[n][f 1 3 65535][f 1 1][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 0 0 0][f 3 1 1 0 0 13018]夷Matarse abajo? No estoy seguro de lo que[n]quieres decir, pero no creo que Iori tenga[n]mucho inter姻s en motos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 22 12 0 1][f 3 1 1 0 0 0]S胤... No parece que t雨 y Junpei-kun compartieran[n]intereses...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 22 12 0 1][f 3 1 1 0 0 0]S胤... No parece que t雨 y Junpei compartieran[n]intereses...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si ese es el caso, tu 雨nica opci吋n podr胤a[n]ser intentar hacer algo que le guste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ann]]
@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 1 3][f 3 1 1 0 0 13013]Dulces... Me gusta el t姻 de la tarde. Quiz茨s[n]invite a Iori la pr吋xima vez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]Hmm... Bueno, lo disfrutamos, pero, por alguna[n]raz吋n, eso no suena exactamente como[n]lo de Iori-kun...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]Hmm... Bueno, lo disfrutamos, pero, por alguna[n]raz吋n, eso no suena exactamente como[n]lo de Iori...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]En este momento, tu 雨nica opci吋n podr胤a ser[n]intentar hacer algo que le guste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Mitsuru]]

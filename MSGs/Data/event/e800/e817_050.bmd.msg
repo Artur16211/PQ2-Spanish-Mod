@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]Pero desde que conoc胤 a todos, creo que he[n]cambiado algo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014_2 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 2 0 1][f 3 1 1 0 0 25083]Si hay algo, soy envidiable de ti,[n]Kirijo-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 0 1][f 3 1 1 0 0 25083]Si hay algo, soy envidiable de ti,[n]Kirijo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 3][f 3 1 1 0 0 13021][f 6 1 2 0 0 4]夷Envidioso? 夷De m胤?[n][f 1 3 65535][f 1 1][e]

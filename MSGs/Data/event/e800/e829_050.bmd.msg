@@ -15,12 +15,12 @@
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23106]斡Muy bien, esto ayudar茨 mucho![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 16 1 0 1][f 4 6 70 1 0 4][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Creo que los MVP eran Ken y Futaba-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 1 0 1][f 4 6 70 1 0 4][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Creo que los MVP eran Ken y Futaba.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esos eran unos oponentes locos, pero nos[n]mantuvieron en marcha.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 6030]S胤. Eran s雨per motivadores.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷No ten胤as miedo, Ken-kun? Esos Tyranniqueens[n]eran enormes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷No ten胤as miedo, Ken? Esos Tyranniqueens[n]eran enormes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 8 0 0][f 3 1 1 0 0 16031]Haha, necesitar茨 m茨s que eso para asustar a[n]Featherman.[n][f 1 3 65535][f 1 1][e]

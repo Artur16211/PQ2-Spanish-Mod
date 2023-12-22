@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2][f 6 1 3 0 0 3]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 16 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]夷Eh? 夷Doe es el padre de Hikari-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 16 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]夷Eh? 夷Doe es el padre de Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 4]Esto es realmente loco, s吋lo vamos a ver por[n]ahora.[n][f 1 3 65535][f 1 1][e]
@@ -42,7 +42,7 @@
 
 [msg MSG_012 [Rise]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 6 12 100 1][f 3 1 1 0 0 19][f 3 1 6 0 0 500]No estoy totalmente seguro, pero parece bien.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 20]Creo que fue m茨s como una ilusi吋n que la[n]conciencia de Hikari-chan hab胤a creado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 20]Creo que fue m茨s como una ilusi吋n que la[n]conciencia de Hikari hab胤a creado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]夷Una ilusi吋n?[n][f 1 3 65535][f 1 1][e]
@@ -154,7 +154,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 69][f 6 1 2 0 0 6]斡Si sigues culpando as胤, tu coraz吋n morir茨![n]夷C吋mo har胤a eso feliz a tu padre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 70]Futaba-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 70]Futaba...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 100 6][f 3 1 1 0 0 71]No quiero decepcionar a la gente cercana a[n]ti... y no querer preocuparles... Puedo[n]relacionarme con eso.[n][f 1 3 65535][f 1 1][e]
@@ -165,28 +165,28 @@
 
 [msg MSG_047 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 74]Esto es simplemente conjetura personal...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Pero quiz茨s 夷Doe no era s吋lo un producto de[n]la cognici吋n de Hikari-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Pero quiz茨s 夷Doe no era s吋lo un producto de[n]la cognici吋n de Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 11 10 0 4][f 3 1 1 0 0 76]夷Eh? 夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 77][f 6 1 2 0 0 4]夷No crees que los cambios de Hikari-san y[n]Doe estaban estrechamente vinculados?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 77][f 6 1 2 0 0 4]夷No crees que los cambios de Hikari y[n]Doe estaban estrechamente vinculados?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 78]Pensamos que Doe produjo una llave cada vez[n]que cambiamos una pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 79][f 6 1 2 0 0 4]夷Pero no podr胤a ser que Doe produjera una[n]llave cuando el coraz吋n de Hikari-san cambi吋[n]despu姻s de terminar una pel胤cula?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 79][f 6 1 2 0 0 4]夷Pero no podr胤a ser que Doe produjera una[n]llave cuando el coraz吋n de Hikari cambi吋[n]despu姻s de terminar una pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 80]Podr胤as tener raz吋n...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 81]Cada vez que vi el final de una pel胤cula...[n]la sensaci吋n de que necesito salir de[n]aqu胤 crecer胤a m茨s fuerte...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 8 12 0 0][f 3 1 1 0 0 82]Si Doe fue creado por la conciencia de[n]Hikari-san, entonces ese sentimiento l吋gicamente[n]seguir胤a.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 8 12 0 0][f 3 1 1 0 0 82]Si Doe fue creado por la conciencia de[n]Hikari, entonces ese sentimiento l吋gicamente[n]seguir胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 6][f 3 1 1 0 0 83]En otras palabras... El deseo de Hikari de[n]salir de este lugar apareci吋 en la forma[n]de su padre.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 84]De hecho. Creo que, en alg雨n lugar profundo[n]dentro del coraz吋n de Hikari-chan, era[n]un deseo que no pod胤a descartar[n]completamente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 84]De hecho. Creo que, en alg雨n lugar profundo[n]dentro del coraz吋n de Hikari, era[n]un deseo que no pod胤a descartar[n]completamente...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 85]Su deseo de creer a su padre, y ser fiel a[n]s胤 misma en el mundo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 86]Esos sentimientos pueden haber sido la clave[n]para su eventual desaf胤o de estas[n]pel胤culas.[n][f 1 3 65535][f 1 1][e]
 
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 4][f 3 1 1 0 0 102][f 6 1 2 0 0 4]夷Por qu姻 estar胤as en problemas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 103]Heheheh... Tengo el aura de una estrella,[n]as胤 que Nao-chan y las otras damas van a[n]ser cabeza sobre tacones para m胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 103]Heheheh... Tengo el aura de una estrella,[n]as胤 que Nao y las otras damas van a[n]ser cabeza sobre tacones para m胤.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 104]Soooo, 斡Yosuke, tienes que ayudarme a dise隠ar[n]mi aut吋grafo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Yosuke]]
@@ -278,7 +278,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 4][f 3 1 1 0 0 117]En serio... Si sigues siendo arrastrado as胤,[n]alg雨n d胤a terminar茨s en problemas[n]reales.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 20 1 0 0][f 4 6 27 2 0 1][f 3 1 1 0 0 118][f 6 1 2 0 0 4]*Grecha* Est茨s fumando demasiado, Mona-chan.[n]No hay manera de que Joker hiciera eso,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 20 1 0 0][f 4 6 27 2 0 1][f 3 1 1 0 0 118][f 6 1 2 0 0 4]*Grecha* Est茨s fumando demasiado, Mona.[n]No hay manera de que Joker hiciera eso,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 4][f 3 1 1 0 0 119]As胤 es. Nunca har胤as llorar a una chica?[n][f 1 3 65535][f 1 1][e]
@@ -296,7 +296,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 123][f 6 1 2 0 0 6]Heheh... 斡Ahahahahahaha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 124]斡Oye! 斡Hikari-chan se r胤e![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 124]斡Oye! 斡Hikari se r胤e![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_087 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 125]Muchas gracias por rescatar mi coraz吋n.[n][f 1 3 65535][f 1 1][e]

@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]En otras palabras, las FOEs son los dobles[n]osos en cuesti吋n. Ya veo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 14 1 0][f 3 1 1 0 0 9036]斡S胤, como le dije a Ellie-chan! 斡Ahora,[n]ponlos! 斡Veremos qui姻n es el 雨ltimo oso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 14 1 0][f 3 1 1 0 0 9036]斡S胤, como le dije a Ellie! 斡Ahora,[n]ponlos! 斡Veremos qui姻n es el 雨ltimo oso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 1 6 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Somehow... Puedo sentir a Elizabeth esmirando,[n]incluso desde aqu胤.[n][f 1 3 65535][f 1 1][e]

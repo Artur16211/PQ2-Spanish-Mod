@@ -124,7 +124,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 6 1 1][f 3 1 1 0 0 5017][f 6 1 2 0 0 4]... Tal vez es por esos dos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24022]Amagi-san, 夷qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 24022]Amagi, 夷qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0]No es nada. 夷Un pez antiguo? Tal vez deber胤amos[n]hacer sashimi.[n][f 1 3 65535][f 1 1][e]

@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Hmph, qu姻 dolor en el culo. Ni siquiera[n]tenemos tiempo para descansar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 15 1 0 1][f 4 6 9 0 0 3][f 3 1 1 0 0 9002][f 6 1 2 0 0 4]斡Eso me recuerda! 夷Est茨s mejor ahora,[n]Ai-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 15 1 0 1][f 4 6 9 0 0 3][f 3 1 1 0 0 9002][f 6 1 2 0 0 4]斡Eso me recuerda! 夷Est茨s mejor ahora,[n]Ai?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 1 0][f 3 1 1 0 0 15063]S胤, me he recuperado completamente. Me disculpo[n]por preocuparme a todos.[n][f 1 3 65535][f 1 1][e]
@@ -78,10 +78,10 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 0]AL MENOS SER緯A DE UTILIDAD PARA TI EN ESE[n]PUNTO, SI PUDIERA USARLO... ESO ES LO QUE[n]PENS畏.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Ribbon-chan... No me di cuenta de que estabas[n]pensando esas cosas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Ribbon... No me di cuenta de que estabas[n]pensando esas cosas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 16 0 0 1][f 3 1 1 0 0 16079][f 6 1 2 0 0 4]Pero, si Ribbon-san ten胤a su propio Modo[n]Orgia, 夷qu姻 crees que ser胤a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 16 0 0 1][f 3 1 1 0 0 16079][f 6 1 2 0 0 4]Pero, si Ribbon ten胤a su propio Modo[n]Orgia, 夷qu姻 crees que ser胤a?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_027 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Dispara un golpe de cohete.[f 2 7 1 20 0 32][e]

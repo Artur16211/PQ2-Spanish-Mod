@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Vamos, 夷no deber胤a ser alguien que... se ve[n]m茨s delicioso que yo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 1][f 3 1 1 0 0 9023][f 6 1 2 0 0 0]夷Chie-chan? 夷Por qu姻 me miras?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 1][f 3 1 1 0 0 9023][f 6 1 2 0 0 0]夷Chie? 夷Por qu姻 me miras?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No me digas... No vas a meterte en m胤,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_009 top]

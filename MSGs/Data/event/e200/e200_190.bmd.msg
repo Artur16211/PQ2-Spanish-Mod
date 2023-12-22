@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]No, todo bien, compa隠ero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 6][f 3 1 1 0 0 4056][f 6 1 2 0 0 4]夷Acaba de llamar a [f 6 1 13 0 0]-kun partner?[n]夷Podr胤a ser yosuke?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 6][f 3 1 1 0 0 4056][f 6 1 2 0 0 4]夷Acaba de llamar a [f 6 1 13 0 0] partner?[n]夷Podr胤a ser yosuke?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 0]Bueno, su cara tonta y su vibra definitivamente[n]gritan "Yosuke"...[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 6 0 3][f 3 1 1 0 0 0]Un dinosaurio como Yosuke-looka, eh... Supongo[n]que no era el verdadero trato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Esto se est茨 volviendo confuso... No parece[n]ser Yosuke-kun, as胤 que 夷por qu姻 no[n]llamamos a su especie?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Esto se est茨 volviendo confuso... No parece[n]ser Yosuke, as胤 que 夷por qu姻 no[n]llamamos a su especie?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 4011][f 6 1 2 0 0 4]夷Nombrar la especie? 夷Te refieres a un nombre[n]cualquiera que sea?[n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 5]斡D姻jame, d姻jame! Creo que "Junesaurus" suena[n]muy majestuoso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Cuando pienso en Yosuke-kun, "el Pr胤ncipe de[n]la Decepci吋n" viene a la mente, as胤[n]que... 夷Decepcionesaurus?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Cuando pienso en Yosuke, "el Pr胤ncipe de[n]la Decepci吋n" viene a la mente, as胤[n]que... 夷Decepcionesaurus?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_026 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Entonces, es decepcionante, eh...[f 2 7 1 20 8 32][e]

@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 1][f 3 1 1 0 0 0]Lo s姻. Te avisar姻 si no puedo seguir as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 4][f 3 1 1 0 0 0]Tengo la cosa para todo tu trabajo duro,[n]Emmy-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 4][f 3 1 1 0 0 0]Tengo la cosa para todo tu trabajo duro,[n]Emmy...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Ta-da! Te presento mi reserva secreta de[n]palomitas. 斡Y tengo un poco de jugo para[n]lavarlo todo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yosuke]]

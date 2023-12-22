@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estoy seguro de que tiene miedo y no sabe[n]qu姻 hacer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 1 1][f 3 1 1 0 0 0]Haru-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 1][f 3 1 1 0 0 0]Haru...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5069]S胤, tambi姻n quiero ayudarla. 夷Qu姻 te parece?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]

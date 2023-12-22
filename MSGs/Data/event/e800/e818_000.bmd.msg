@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Lo pasar胤a muy mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 7 100 0][f 3 1 1 0 0 14512][f 6 1 2 0 0 10]As胤 que... [f 6 1 27 0 0 0]-chan no lo muestra,[n]ya que intenta ser optimista, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 7 100 0][f 3 1 1 0 0 14512][f 6 1 2 0 0 10]As胤 que... [f 6 1 27 0 0 0] no lo muestra,[n]ya que intenta ser optimista, pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si pudiera abrir un poco m茨s...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Junpei]]

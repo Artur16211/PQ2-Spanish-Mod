@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 6][f 3 1 1 0 0 3][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 4][f 6 1 2 0 0 4][f 6 1 16 0 0 0]-san, 夷qu姻 es eso en tu mano?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 4][f 6 1 2 0 0 4][f 6 1 16 0 0 0], 夷qu姻 es eso en tu mano?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 1 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 5]夷Esto? Acabo de alquilar un DVD.[n][f 1 3 65535][f 1 1][e]
@@ -24,7 +24,7 @@
 
 [msg MSG_008 [Ken]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 16 12 0 0][f 3 1 1 0 0 9]夷Qu姻 alquilaste?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10]I'm curious as to your taste in movies,[n][f 6 1 16 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10]I'm curious as to your taste in movies,[n][f 6 1 16 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 11]Si suena bien para ti, 夷quieres verlo[n]conmigo?[n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31]Veamos, este es caf姻, y... 夷Hm? 夷Era una[n]cola?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 33]夷Est茨n todos instalados? Entonces, lo estoy[n]empezando.[n][f 1 3 65535][f 1 1][e]

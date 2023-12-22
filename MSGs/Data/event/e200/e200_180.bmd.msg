@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷Te refieres a tu compa隠ero[n]desaparecido?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Es Hanamura-kun? Tiene una cabeza humana,[n]pero su cuerpo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Es Hanamura? Tiene una cabeza humana,[n]pero su cuerpo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 3][f 3 1 1 0 0 21113][f 6 1 2 0 0 3]Espera, 夷incluso vimos un dino que se parece[n]a 姻l en el remolque?[n][f 1 3 65535][f 1 1][e]

@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todav胤a puedo recordar cuando descubr胤 que[n]el di茨logo no es la 雨nica manera de[n]comunicar un mensaje a un p雨blico.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5032]*Grecha* Debes amar los musicales,[n]Hikari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5032]*Grecha* Debes amar los musicales,[n]Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡Lo siento! Ah胤 voy, corriendo de nuevo...[n][f 1 3 65535][f 1 1][e]
@@ -83,7 +83,7 @@
 
 [msg MSG_023 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 14 1 0][f 3 1 1 0 0 4066][f 6 1 2 0 0 6]斡S胤, de eso estoy hablando! Me emborrachan[n]tanto que no puedo evitar gritar:[n]"斡Hwa-taaaa!" yo mismo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Hombre, sabes tus cosas, Hikari-chan. 斡Para[n]pensar que conseguir胤as lo que es genial[n]en esa pel胤cula![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Hombre, sabes tus cosas, Hikari. 斡Para[n]pensar que conseguir胤as lo que es genial[n]en esa pel胤cula![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]U-Um... 夷Alguien m茨s tiene una pel胤cula[n]favorita?[n][f 1 3 65535][f 1 1][e]
@@ -114,7 +114,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 8 16 1][f 3 1 1 0 0 0]Esa es la pel胤cula de Yakuza, 夷verdad? Recuerdo[n]tener un resfriado por mi columna de[n]lo intenso que era.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 25048]Realmente sabes tus cosas, 夷verdad,[n]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 0 0][f 3 1 1 0 0 25048]Realmente sabes tus cosas, 夷verdad,[n]Hikari?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me sorprende que conozcas tantos tipos de[n]pel胤culas y no s吋lo los musicales.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Teddie]]
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 61013]Mi... raz吋n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Hikari-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 0]夷Hm? Oh... Probablemente sea porque he estado[n]viendo pel胤culas desde que recuerdo.[n][f 1 3 65535][f 1 1][e]

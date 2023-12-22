@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Est茨n acostumbrados a controlar a la gente.[n]As胤 es Mitsuru.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 24076]Noir tiene un efecto similar. Es un poco m茨s[n]sutil que el de Kirijo-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 6][f 3 1 1 0 0 24076]Noir tiene un efecto similar. Es un poco m茨s[n]sutil que el de Kirijo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 0]Ya veo... Puede ser porque ambos son herederos.[n]Supongo que de ah胤 viene el carisma.[n][f 1 3 65535][f 1 1][e]

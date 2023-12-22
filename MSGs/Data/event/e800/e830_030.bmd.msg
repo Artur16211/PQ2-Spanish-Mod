@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 3][f 3 1 1 0 0 0]"CROW". Como en el p茨jaro de caza furtiva,[n]supongo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6616][f 3 1 6 0 0 500]Crow, 夷eh? 夷No era el nombre de c吋digo de[n]Akechi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 6][f 3 1 1 0 0 6616][f 3 1 6 0 0 500]Crow, 夷eh? 夷No era el nombre de c吋digo de[n]Akechi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]Crow es estudiante y detective, 夷eh? Espero[n]que no se quede con el estr姻s.[n]夷Entendido?[n][f 1 3 65535][f 1 1][e]
@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 1][f 3 1 1 0 0 0]夷No vas a unirte a la conversaci吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Bueno, bueno, una charla con Aragaki-kun![n]Esto es raro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 0]Bueno, bueno, una charla con Aragaki![n]Esto es raro.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todav胤a soy bastante nuevo para el grupo, y[n]no soy bueno con las multitudes, as胤 que[n]prefiero mantener mi distancia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Shinjiro]]

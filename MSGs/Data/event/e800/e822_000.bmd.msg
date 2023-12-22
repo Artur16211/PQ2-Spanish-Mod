@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16037][f 6 1 2 0 0 6]Estoy bien. 斡Gracias por compartir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... 夷Qu姻 pasa con Ken-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]... 夷Qu姻 pasa con Ken?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 1 3][f 3 1 1 0 0 21033]Bueno, 姻l es esa edad, 夷sabes?[n][f 1 3 65535][f 1 1][e]

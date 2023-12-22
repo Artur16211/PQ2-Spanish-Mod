@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]S吋lo soy un navegante, 斡pero har姻 lo mejor[n]que pueda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 12 0 4][f 3 1 1 0 0 27002][f 6 1 2 0 0 4]Is it all right if we handle this screening,[n][f 6 1 30 0 0 0]-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 12 0 4][f 3 1 1 0 0 27002][f 6 1 2 0 0 4]Is it all right if we handle this screening,[n][f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_021 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Eres todo tuyo.[f 2 7 1 64 2 32][e]
@@ -114,6 +114,6 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Por qu姻 tienes que derribarme as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Rise]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 1 0 3][f 4 6 15 1 0 4][f 4 6 6 12 0 1][f 3 1 1 0 0 6016]As胤 que, Haru-san y Aigis necesitan estar en[n]el partido principal, y estoy en servicio[n]de navegantes, 夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Let's head out once[n][f 6 1 30 0 0 0]-san finishes[n]organizing the party![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 1 0 3][f 4 6 15 1 0 4][f 4 6 6 12 0 1][f 3 1 1 0 0 6016]As胤 que, Haru y Aigis necesitan estar en[n]el partido principal, y estoy en servicio[n]de navegantes, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Let's head out once[n][f 6 1 30 0 0 0] finishes[n]organizing the party![n][f 1 3 65535][f 1 1][e]
 

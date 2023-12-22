@@ -175,7 +175,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 65][f 6 1 2 0 0 0]夷斡Qu姻eee...!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 2 1 1][f 3 1 1 0 0 66][f 6 1 2 0 0 6]Snrk... Jajaja... Kanji-kun, un gorila... Pfft... 斡Jajaja! 斡Jajajajajaja![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 2 1 1][f 3 1 1 0 0 66][f 6 1 2 0 0 6]Snrk... Jajaja... Kanji, un gorila... Pfft... 斡Jajaja! 斡Jajajajajaja![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 2 0 4][f 3 1 1 0 0 67]*risa* N-No deber胤a re胤rme de eso... Yukiko... *risa*[n][f 1 3 65535][f 1 1][e]

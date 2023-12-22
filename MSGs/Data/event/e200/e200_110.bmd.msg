@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 3 1 1 0 0 12]夷Y t雨 eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 12 0 6][f 3 1 1 0 0 13]Ella es Hikari-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 12 0 6][f 3 1 1 0 0 13]Ella es Hikari.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Parece que ha estado atrapada en este mundo[n]como nosotros.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15]Y esto es...[n][f 1 3 65535][f 1 1][e]
 
@@ -42,11 +42,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Hemos visto las circunstancias que llevaron[n]hasta ahora. Su socio requiere tratamiento[n]inmediato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 84 16 2 6][f 4 6 81 14 2 0][f 3 1 1 0 0 18][f 6 1 2 0 0 4]Nagi-san, 夷hay alg雨n medicamento aqu胤? Tambi姻n,[n]una manta y un lugar para que ella[n]se acueste...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 16 2 6][f 4 6 81 14 2 0][f 3 1 1 0 0 18][f 6 1 2 0 0 4]Nagi, 夷hay alg雨n medicamento aqu胤? Tambi姻n,[n]una manta y un lugar para que ella[n]se acueste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 19]*Sniffle* Eres tan amable, Hikarin...![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 20][f 6 1 2 0 0 6]Pero parece que los ant胤dotos normales no[n]funcionan en Rise-chan... 夷Qu姻 vamos a[n]hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 20][f 6 1 2 0 0 6]Pero parece que los ant胤dotos normales no[n]funcionan en Rise... 夷Qu姻 vamos a[n]hacer?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_015 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]La salvaremos, no importa qu姻.[f 2 7 1 64 2 32][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 4][f 3 1 1 0 0 31]Yo tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Chica En姻rgica]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]夷Incluso t雨, Marie-chan? 夷Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]夷Incluso t雨, Marie? 夷Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Chica Con Traje Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 0][f 3 1 1 0 0 33]No s姻... estaba con Margaret cuando termin姻[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
@@ -161,7 +161,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 4][f 3 1 1 0 0 59]Yo tambi姻n ayudar姻...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 10 2 0][f 3 1 1 0 0 60]Gracias. Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 10 2 0][f 3 1 1 0 0 60]Gracias. Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047_5 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 61]Estoy seguro de que est茨n exhaustos, as胤 que[n]por favor, descansa aqu胤 un rato.[n][f 1 3 65535][f 1 1][e]

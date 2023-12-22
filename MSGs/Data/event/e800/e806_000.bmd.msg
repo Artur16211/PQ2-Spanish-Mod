@@ -1,9 +1,9 @@
 ﻿[msg MSG_000 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 68 1 0 1][f 4 6 5 12 0 3][f 3 1 1 0 0 5110]Yusuke-kun, estudias arte, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 1 0 1][f 4 6 5 12 0 3][f 3 1 1 0 0 5110]Yusuke, estudias arte, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si no te importa, 夷crees que podr胤as darme[n]algunos consejos de dibujo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 24047]夷Tambi姻n te interesa el arte, Amagi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 24047]夷Tambi姻n te interesa el arte, Amagi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Estaba pensando que podr胤a ponerlo en exhibici吋n[n]en nuestra posada... 夷Qu姻 piensas?[n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [msg MSG_013 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 24054]夷Un parfait de camarones? Supongo que todav胤a[n]hay muchos platos que todav胤a tengo[n]que aprender sobre...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]En cuanto a tu dibujo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amagi-san... 夷Podr胤as estar reteni姻ndote?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amagi... 夷Podr胤as estar reteni姻ndote?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 5 10 0 0][f 3 1 1 0 0 5018][f 6 1 2 0 0 0]夷Qu姻?[n][f 1 3 65535][f 1 1][e]
@@ -96,7 +96,7 @@
 
 [msg MSG_026 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 4 0 0][f 3 1 1 0 0 24085][f 6 1 2 0 0 6]夷Malo? 斡Todo lo contrario! 斡Puedo sentir tu[n]pasi吋n! 斡Este camar吋n desafia todas las[n]expectativas![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Quiero ver m茨s de tu arte, Amagi-san![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Quiero ver m茨s de tu arte, Amagi![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 5017]Es amable de tu parte decir, pero no s姻 qu姻[n]m茨s dibujar...[n][f 1 3 65535][f 1 1][e]

@@ -42,7 +42,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aqu胤, todos obedecen estos est茨ndares y bajos[n]en la serenidad que ofrecen.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 4 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Serenidad? 斡No me hagas re胤r! 斡El sufrimiento[n]de Ribbon-chan no me parece ser[n]serenidad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 4 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Serenidad? 斡No me hagas re胤r! 斡El sufrimiento[n]de Ribbon no me parece ser[n]serenidad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Supervisor]]
 [f 0 5 65278][f 2 1][f 4 6 36 12 0 0][f 3 1 1 0 0 0]Esto se debe 雨nicamente al hecho de que esta[n]unidad es un error.[n][f 1 3 65535][f 1 1][e]

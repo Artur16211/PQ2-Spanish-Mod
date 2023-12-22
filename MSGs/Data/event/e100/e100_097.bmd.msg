@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 10 2 0][f 4 6 84 8 2 0][f 3 1 1 0 0 29]S胤, entiendo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 84 12 0 0][f 3 1 1 0 0 30]Hikari-san sigue preocupado por ti...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 84 12 0 0][f 3 1 1 0 0 30]Hikari sigue preocupado por ti...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31]As胤 que me pidi吋 que te prestara mi ayuda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yusuke]]

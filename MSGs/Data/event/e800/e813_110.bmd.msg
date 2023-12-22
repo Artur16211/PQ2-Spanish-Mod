@@ -45,7 +45,7 @@
 
 [msg MSG_013 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Luego sabemos que Margaret estaba en la sala[n]de proyecci吋n en el momento del[n]incidente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Marie-san tambi姻n tuvo un ataque con el traje[n]de oso, as胤 que claramente no era ella.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Marie tambi姻n tuvo un ataque con el traje[n]de oso, as胤 que claramente no era ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 28114]As胤 que ver茨s, eso solo dej吋 a los dos.[n][f 1 3 65535][f 1 1][e]

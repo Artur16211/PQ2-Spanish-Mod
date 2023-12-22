@@ -94,7 +94,7 @@
 
 [msg MSG_027 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 6][f 3 1 1 0 0 38]No dir胤a que estamos tratando de llenar su[n]lugar... pero estamos aqu胤 por ti.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 39]Si hay algo que te preocupa, no dudes en[n]confiar en nosotros, [f 6 1 27 0 0 0]-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 39]Si hay algo que te preocupa, no dudes en[n]confiar en nosotros, [f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 40][f 6 1 2 0 0 4]夷Recuerdas lo que dijo Yosuke antes?[n][f 1 3 65535][f 1 1][e]

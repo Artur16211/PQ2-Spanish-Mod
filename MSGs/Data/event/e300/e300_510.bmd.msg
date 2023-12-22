@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 35 10 1 1][f 4 6 19 0 4 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19054]斡Vamos, Ribbon-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 10 1 1][f 4 6 19 0 4 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19054]斡Vamos, Ribbon![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻 le pasa?[n][f 1 3 65535][f 1 1][e]
@@ -33,13 +33,13 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35005]MOVILIDAD, PENSARON EN... TODO BIEN. SYSTEM[n]NORMAL.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Bien! Me alegro de que est姻s bien,[n]Ribbon-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Bien! Me alegro de que est姻s bien,[n]Ribbon![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 14 4 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Mmhm, estoy tan aliviado... En serio...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35010][f 6 1 2 0 0 4][f 6 1 27 0 0 0]-SAN, EST威S LLORANDO. 夷EST威S MUERTA?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35010][f 6 1 2 0 0 4][f 6 1 27 0 0 0], EST威S LLORANDO. 夷EST威S MUERTA?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]Huh?[n][f 1 3 65535][f 1 1][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 12 6 1 0][f 3 1 1 0 0 0]Bueno, eso es porque tienes que experimentarlos[n]m茨s para poder resolverlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]Pero, estoy seguro de que lo resolver茨s por[n]ti mismo, Ribbon-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]Pero, estoy seguro de que lo resolver茨s por[n]ti mismo, Ribbon.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 2 0 0][f 3 1 1 0 0 35002]S緯. ME GUSTAR緯A TERMINAR.[n][f 1 3 65535][f 1 1][e]
@@ -148,7 +148,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 35 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡HAG威MOSLO![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]斡Vaya! 夷Te despides tambi姻n, Ribbon-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]斡Vaya! 夷Te despides tambi姻n, Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35005]S緯. MI PECHO SE SIENTE DE NUEVO.[n][f 1 3 65535][f 1 1][e]

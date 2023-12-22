@@ -102,7 +102,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11054]斡Espera un segundo! Siento que he visto ese[n]pelo largo y un par de gafas antes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No importa c吋mo lo mires, eso es definitivamente[n]Ikutsuki-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No importa c吋mo lo mires, eso es definitivamente[n]Ikutsuki...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5004][f 6 1 2 0 0 4]夷Es alguien que conoces?[n][f 1 3 65535][f 1 1][e]
@@ -117,7 +117,7 @@
 [f 0 5 65278][f 2 1]Es probable que se haya metido en el papel.[f 2 7 1 20 2 32][e]
 
 [msg MSG_037 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 0 1][f 3 1 1 0 0 16020]Um, Fuuka-san, tal vez, pero 姻l? Nunca he[n]o胤do nada de ese tipo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 0 1][f 3 1 1 0 0 16020]Um, Fuuka, tal vez, pero 姻l? Nunca he[n]o胤do nada de ese tipo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Entonces, tendr胤a m茨s sentido considerar este[n]otro ejemplo del casting de la[n]pel胤cula.[n][f 1 3 65535][f 1 1][e]
@@ -160,7 +160,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si lo tomas en cuenta, su casting como el[n]supervisor aqu胤 no es tan extra隠o.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Este falso Ikutsuki-san sabr胤a d吋nde est茨[n]nuestro l胤der y Aigis?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Este falso Ikutsuki sabr胤a d吋nde est茨[n]nuestro l胤der y Aigis?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 28078]Pueden parecer similares, pero sus identidades[n]reales son completamente diferentes.[n]No hagas que 姻l est姻 de nuestro lado.[n][f 1 3 65535][f 1 1][e]

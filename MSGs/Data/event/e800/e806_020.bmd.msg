@@ -22,7 +22,7 @@
 
 [msg MSG_006 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 1 0 3][f 4 6 24 0 0 1][f 3 1 1 0 0 24025]Gracias a todos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Marca mis palabras, obtendr姻 esa amonestaci吋n[n]para Amagi-san! 斡Ver姻 su pasi吋n en[n]pleno florecimiento![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Marca mis palabras, obtendr姻 esa amonestaci吋n[n]para Amagi! 斡Ver姻 su pasi吋n en[n]pleno florecimiento![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Te lo agradezco, pero... es un poco embarazoso[n]o胤rte gritar as胤.[n][f 1 3 65535][f 1 1][e]

@@ -45,7 +45,7 @@
 
 [msg MSG_013 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 6 0 0][f 3 1 1 0 0 22052][f 6 1 2 0 0 9]S胤. 夷No crees que te est茨s llevando un poco?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]No tienes que decir que s胤 si no quieres,[n]Ken-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]No tienes que decir que s胤 si no quieres,[n]Ken.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 0][f 3 1 1 0 0 16039]Est茨 bien.[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 0 1 0][f 3 1 1 0 0 23018][f 6 1 2 0 0 10]夷Eh? S胤. Por supuesto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Siento lo de esos dos, Ken-kun... No tienes[n]que decir que s胤 si no quieres.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Siento lo de esos dos, Ken... No tienes[n]que decir que s胤 si no quieres.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 0]No, est茨 bien. Es mejor aprender por experiencia[n]de todos modos. Puedo manejarlo.[n][f 1 3 65535][f 1 1][e]

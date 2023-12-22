@@ -5,13 +5,13 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 15 14 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 16009][f 6 1 2 0 0 4]夷Aigis-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 16009][f 6 1 2 0 0 4]夷Aigis?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 15 15 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11020][f 6 1 2 0 0 4]夷La Tierra a Ai-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11020][f 6 1 2 0 0 4]夷La Tierra a Ai?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Has estado muy callado todo este tiempo...[n]Uhhh... 斡Esto parece malo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 0]Aigis y yo fuimos capturados por un robot[n]llamado "Supervisor" s吋lo unos momentos[n]despu姻s de que llegamos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Est茨s hablando del que parece Ikutsuki-san,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Est茨s hablando del que parece Ikutsuki,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Chico Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 2 6 0 0][f 3 1 1 0 0 2015]S胤. Dijo que iba a "disponer de nosotros",[n]as胤 que esper茨bamos nuestra oportunidad[n]y luego nos escapamos...[n][f 1 3 65535][f 1 1][e]
@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10018][f 6 1 2 0 0 4]Espera, volver al cine est茨 bien para nosotros,[n]夷pero qu姻 hay de Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Ahora que lo mencionas, 夷puede Ribbon-chan[n]dejar esta pel胤cula?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 6 0 0][f 3 1 1 0 0 0]Ahora que lo mencionas, 夷puede Ribbon[n]dejar esta pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 1 1][f 3 1 1 0 0 0]No tengo idea de si habr胤a o no alg雨n efecto[n]malo para ella...[n][f 1 3 65535][f 1 1][e]
@@ -136,5 +136,5 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 6][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Estoy de acuerdo. Definitivamente parece que[n]ser胤a m茨s seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3006][f 6 1 2 0 0 6]Muy bien, vamos a conseguir Ribbon-chan en[n]modo de sue隠o y volver al cine![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 3006][f 6 1 2 0 0 6]Muy bien, vamos a conseguir Ribbon en[n]modo de sue隠o y volver al cine![n][f 1 3 65535][f 1 1][e]
 

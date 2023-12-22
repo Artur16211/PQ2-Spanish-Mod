@@ -2,10 +2,10 @@
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 1][f 3 1 1 0 0 0]夷Qu姻 fue eso ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 28012]夷Podr胤a haber sido la memoria de Hikari-san?[n]Eso fue mucho m茨s grave que el remolque[n]que vimos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 28012]夷Podr胤a haber sido la memoria de Hikari?[n]Eso fue mucho m茨s grave que el remolque[n]que vimos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 10 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 3 1 6 0 0 500]夷D吋nde fue esa maestra y sus estudiantes?[n]夷El Hikari-chan del pasado tambi姻n[n]desapareci吋?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 10 100 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 3 1 6 0 0 500]夷D吋nde fue esa maestra y sus estudiantes?[n]夷El Hikari del pasado tambi姻n[n]desapareci吋?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf arf![n][f 1 3 65535][f 1 1][e]
@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 18 6 1][f 3 1 1 0 0 61005]Ah... Eso fue...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Hikari-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Hikari![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 1 6][f 3 1 1 0 0 22098]斡Hikari! 斡Qu姻 alivio, est茨s bien![n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 12 100 0][f 3 1 1 0 0 0]Estoy tan contenta de que est姻s bien, Hikari...[n]斡Siento que me afeitaron m茨s de unos[n]a隠os de mi vida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 0]Futaba-chan, siento haberte preocupado... Y[n]todos los dem茨s tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 0]Futaba, siento haberte preocupado... Y[n]todos los dem茨s tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1001]Entonces, sobre ese musical que vimos, 夷podr胤a[n]haber sido tu...?[n][f 1 3 65535][f 1 1][e]
@@ -119,8 +119,8 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto describe perfectamente a Kamoshidaman[n]tambi姻n. Nadie debe haber podido desafiarla,[n]incluso cuando estaba equivocada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]En el ordeal del conejo, Hikari-chan fue[n]injustamente rega隠ada por un maestro, alguien[n]con autoridad absoluta.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Y el conejo, el s胤mbolo del trauma de[n]Hikari-chan, tambi姻n apareci吋 en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]En el ordeal del conejo, Hikari fue[n]injustamente rega隠ada por un maestro, alguien[n]con autoridad absoluta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Y el conejo, el s胤mbolo del trauma de[n]Hikari, tambi姻n apareci吋 en la pel胤cula...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 25 0 0 0][f 4 6 81 6 2 1][f 3 1 1 0 0 61004]...[n][f 1 3 65535][f 1 1][e]
@@ -137,7 +137,7 @@
 
 [msg MSG_041 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 25068]Tienes raz吋n... Lo mismo podr胤a decirse acerca[n]de A.I.G.I.S. o Junesic Land...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Creo que todos han estado conectados a los[n]recuerdos de Hikari-chan, en alguna forma[n]o forma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 0]Creo que todos han estado conectados a los[n]recuerdos de Hikari, en alguna forma[n]o forma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 18 0 0 0][f 3 1 1 0 0 0]Eso significa que esta pel胤cula con el t胤tulo[n]irreparable tambi姻n est茨 relacionada[n]con sus recuerdos.[n][f 1 3 65535][f 1 1][e]
@@ -176,18 +176,18 @@
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 0][f 3 1 1 0 0 0]Oh s胤, ahora que lo mencionas, se siente[n]igual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 5013][f 6 1 2 0 0 4]As胤 que, en esencia, las pel胤culas se han[n]basado en las experiencias emocionalmente[n]traumatizantes de Hikari-chan, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 5013][f 6 1 2 0 0 4]As胤 que, en esencia, las pel胤culas se han[n]basado en las experiencias emocionalmente[n]traumatizantes de Hikari, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces necesitamos reconsiderar el objetivo[n]de Doe, aunque todav胤a es un completo[n]misterio para nosotros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Doe dijo a Hikari-chan, "Necesitas superar[n]esto", 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Doe dijo a Hikari, "Necesitas superar[n]esto", 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0]Considerando eso, est茨 empezando a sentir[n]que no es realmente el malo despu姻s de[n]todo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11020][f 6 1 2 0 0 4]夷Est茨s bien, Hikari-chan? 夷Te sientes bajo[n]el clima?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11020][f 6 1 2 0 0 4]夷Est茨s bien, Hikari? 夷Te sientes bajo[n]el clima?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 61054]No es eso. Yo s吋lo... Sigo pensando en por[n]qu姻 siempre soy as胤...[n][f 1 3 65535][f 1 1][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Plus, s吋lo hemos llegado tan lejos trabajando[n]juntos, 夷no crees que deber胤amos ver[n]esto tambi姻n como un equipo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 6][f 3 1 1 0 0 27009]Todos podemos decir que quieres cambiar,[n]Hikari-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 6][f 3 1 1 0 0 27009]Todos podemos decir que quieres cambiar,[n]Hikari...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 0]Por eso quiero darte mi fuerza.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Hikari]]

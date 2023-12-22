@@ -9,10 +9,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 3][f 4 6 17 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 4][f 3 1 1 0 0 0]Koromaru-san says he enjoyed[n]spending time with you,[n][f 6 1 27 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 4][f 3 1 1 0 0 0]Koromaru says he enjoyed[n]spending time with you,[n][f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16115]Eso me recuerda, Aigis-san... Dijiste que[n]Koromaru y t雨 sent胤an algo en [f 6 1 27 0 0 0][n]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 16115]Eso me recuerda, Aigis... Dijiste que[n]Koromaru y t雨 sent胤an algo en [f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 fue exactamente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Koromaru]]
@@ -27,13 +27,13 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Me alegra estar aqu胤 con todos. 夷Est茨 bien?[n]夷O es raro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0][f 6 1 27 0 0 0]-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0][f 6 1 27 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 0]Koromaru-san dice, tambi姻n, que es mejor[n]vivir en el presente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 0]Koromaru dice, tambi姻n, que es mejor[n]vivir en el presente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Debo estar de acuerdo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ken]]

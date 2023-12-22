@@ -66,7 +66,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26]Lloramos, nos re胤mos, nos enojamos... Todo[n]porque me miraste que pod胤a cambiar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 4 6][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 27]Hikari-chan...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 4 6][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 27]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_1 [Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62][f 6 1 3 0 0 1]Si fuera una pel胤cula, este es el mejor final[n]que podr胤a suceder.[n][f 1 3 65535][f 1 1][e]
@@ -104,7 +104,7 @@
 
 [msg MSG_024 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 6][f 3 1 1 0 0 37][f 6 1 2 0 0 4]夷Te refieres a la que est茨bamos dibujando[n]los mapas?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 38]Eso pertenec胤a originalmente a Hikari-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 38]Eso pertenec胤a originalmente a Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 8 0][f 3 1 1 0 0 39]S胤. Iba a escribir todas mis ideas de gui吋n[n]en eso.[n][f 1 3 65535][f 1 1][e]
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 6][f 3 1 1 0 0 46]Entonces ser茨 mejor que te asegures de llevarte[n]ese cuaderno.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 47]S胤, creo que ser茨 vital para tus esfuerzos,[n]Hikari-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 2 0 0][f 3 1 1 0 0 47]S胤, creo que ser茨 vital para tus esfuerzos,[n]Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 8 0][f 3 1 1 0 0 48]Todos...[n][f 1 3 65535][f 1 1][e]

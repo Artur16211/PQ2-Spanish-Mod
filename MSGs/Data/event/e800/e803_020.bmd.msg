@@ -15,7 +15,7 @@
 
 [msg MSG_005 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 6][f 3 1 1 0 0 4093][f 6 1 2 0 0 6]斡Oookay, chicos, no peleen![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo siento, todos. Creo que Kanji-kun est茨[n]demasiado emocionado con esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Lo siento, todos. Creo que Kanji est茨[n]demasiado emocionado con esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 21 1 0 0][f 4 6 9 0 0 4][f 3 1 1 0 0 0]Kanjiii, 夷qu姻 pasa? Si eres bueno, te dar姻[n]una bananaaa.[n][f 1 3 65535][f 1 1][e]

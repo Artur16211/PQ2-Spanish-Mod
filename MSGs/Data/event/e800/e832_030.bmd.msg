@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 6513][f 6 1 2 0 0 4]Oye, eso no parece muy justo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Todav胤a soy una belleza en el entrenamiento.[n]斡T雨 primero, Ai-chan! 斡Veamos c吋mo se[n]hace![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Todav胤a soy una belleza en el entrenamiento.[n]斡T雨 primero, Ai! 斡Veamos c吋mo se[n]hace![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 6 1 100 0][f 4 6 15 6 0 6][f 3 1 1 0 0 15008]夷Yo? Veamos...[n][f 1 3 65535][f 1 1][e]
@@ -58,7 +58,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 12 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 pasa con...? 斡Oh! 夷Por qu姻 no hacemos[n]una actuaci吋n en directo especial para[n]ellos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9023][f 6 1 2 0 0 4]夷Una actuaci吋n en vivo? 夷Te refieres a esos[n]conciertos que haces, Rise-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9023][f 6 1 2 0 0 4]夷Una actuaci吋n en vivo? 夷Te refieres a esos[n]conciertos que haces, Rise?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 100 0][f 3 1 1 0 0 0]No tiene que ser un concierto. Puede ser[n]cualquier cosa, siempre y cuando la gente[n]lo disfrute.[n][f 1 3 65535][f 1 1][e]

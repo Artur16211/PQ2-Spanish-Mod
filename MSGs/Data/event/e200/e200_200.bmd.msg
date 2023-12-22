@@ -48,7 +48,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Lo llamas m茨quina, 夷verdad? 夷Tambi姻n hacen[n]cosas as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 6 0 0][f 3 1 1 0 0 5008]Eso ser胤a imposible para m胤. Creo que Naoto-kun[n]podr胤a ser capaz de hacerlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 6 0 0][f 3 1 1 0 0 5008]Eso ser胤a imposible para m胤. Creo que Naoto[n]podr胤a ser capaz de hacerlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Yo tambi姻n puedo hacer simples![n][f 1 3 65535][f 1 1][e]

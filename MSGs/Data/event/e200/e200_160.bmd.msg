@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4054][f 6 1 2 0 0 0]夷Yukiko?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Es genial. 夷No quieres uno tambi姻n,[n]Naoto-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Es genial. 夷No quieres uno tambi姻n,[n]Naoto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 8 0 6][f 3 1 1 0 0 8057][f 6 1 2 0 0 10]夷Eh? S吋lo estaba pensando lo 雨til que podr胤an[n]ser si los tuvi姻ramos tambi姻n...[n][f 1 3 65535][f 1 1][e]
@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 24 12 0 4][f 3 1 1 0 0 0]夷Pero por qu姻 negro? Lleva rojo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Podr胤a ser... 夷Ha visto a trav姻s de Yuki-chan[n]a su verdadera naturaleza?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Podr胤a ser... 夷Ha visto a trav姻s de Yuki[n]a su verdadera naturaleza?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5130][f 6 1 2 0 0 4]夷Has dicho algo, Teddie? *giggle* 夷Quieres[n]quemarte?[n][f 1 3 65535][f 1 1][e]
@@ -93,7 +93,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 4040][f 6 1 2 0 0 9]Parece que van a empezar a brotar palabras[n]japonesas como teriyaki y tempura para[n]nuestros nombres de c吋digo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 8 1 0 3][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Bien, t雨 eres el siguiente, Naoto-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 8 1 0 3][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Bien, t雨 eres el siguiente, Naoto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷Realmente vamos a hacer esto por[n]todos...?[n][f 1 3 65535][f 1 1][e]
@@ -111,7 +111,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Espera, no! 夷Por qu姻 usan "Lady" y "Girl"[n]para Naoto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27018][f 6 1 2 0 0 4]夷Por qu姻 no? Naoto-kun es una chica.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 27018][f 6 1 2 0 0 4]夷Por qu姻 no? Naoto es una chica.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 21 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻? 夷En serio? 夷Lo sab胤as, Joker?[n][f 1 3 65535][f 1 1][e]
@@ -133,7 +133,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]斡Esto no tiene nada que ver conmigo siendo[n]denso! No ten胤a ni idea. Quiero decir...[n]No puedo creerlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Dejemos de hablar de esto, 夷de acuerdo?[n]Rise-san, eres el siguiente![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Dejemos de hablar de esto, 夷de acuerdo?[n]Rise, eres el siguiente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 100 1][f 3 1 1 0 0 6518][f 6 1 2 0 0 4][f 3 1 6 0 0 500]夷Yo? 夷Qu姻 nombre crees que ser胤a bueno para[n]m胤?[n][f 1 3 65535][f 1 1][e]
@@ -160,7 +160,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4054][f 6 1 2 0 0 0]夷Qu姻 pasa con estos nombres de c吋digo? 斡Son[n]s吋lo trozos de carne! Aw, hombre...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 1 0 3][f 4 6 22 10 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Welp, el siguiente es Kanji-kun... 夷Desde[n]que llevas una camisa de esqueleto, tal[n]vez Skull, Parte 2?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 1 0 3][f 4 6 22 10 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Welp, el siguiente es Kanji... 夷Desde[n]que llevas una camisa de esqueleto, tal[n]vez Skull, Parte 2?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻? 夷Por qu姻 me tratas como una secuela?[n][f 1 3 65535][f 1 1][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]斡Oh! Sorprendente como puede ser, parece que[n]le gusta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Si esto es para [f 6 1 13 0 0 0]-kun, puede[n]ser una buena idea mencionar Nanako-chan[n]de alguna manera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Si esto es para [f 6 1 13 0 0 0], puede[n]ser una buena idea mencionar Nanako[n]de alguna manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 1][f 3 1 1 0 0 7010][f 6 1 2 0 0 4]Como... 夷El hermano de Nanako?[n][f 1 3 65535][f 1 1][e]
@@ -242,7 +242,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 0]No est茨 mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_076 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Um... Who's Nanako-chan? Is she family,[n][f 6 1 12 0 0 0]-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Um... Who's Nanako? Is she family,[n][f 6 1 12 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 1064]S胤, es mi prima en la escuela primaria. Vivo[n]con ella y su padre.[n][f 1 3 65535][f 1 1][e]

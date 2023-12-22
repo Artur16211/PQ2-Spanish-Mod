@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1]夷Para proteger a alguien?[f 2 7 1 64 0 32][e]
 
 [msg MSG_018 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 6 0 0][f 3 1 1 0 0 25008]Eso es lo que dijo Satonaka-san y Sanada-kun,[n]pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 6 0 0][f 3 1 1 0 0 25008]Eso es lo que dijo Satonaka y Sanada,[n]pero...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 69 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si quieres ser capaz de detener enemigos[n]fuertes, 夷no es eso porque quieres proteger[n]a alguien de ellos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Proteger a la gente toma fuerza... Yo mismo[n]aspiraba a esa fuerza. Quer胤a ser igual[n]a 姻l.[n][f 1 3 65535][f 1 1][e]
 
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 1 0 6][f 4 6 12 1 0 3][f 4 6 69 6 0 0][f 3 1 1 0 0 25008]夷Pens姻 sobre las cosas? Supongo que no puedo[n]negarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0]En otras palabras, esto es entrenamiento para[n]ti tambi姻n, Makoto-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 0][f 3 1 1 0 0 0]En otras palabras, esto es entrenamiento para[n]ti tambi姻n, Makoto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]El punto es, 斡no lo pienses! 斡Si姻ntate![n]斡Siente el poder de BEEF![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Makoto]]

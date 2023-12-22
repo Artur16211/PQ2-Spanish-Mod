@@ -28,14 +28,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Si es importante para ti, entonces deber胤amos[n]ir a buscarlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 0]Futaba-chan, realmente... No quiero ser una[n]molestia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 1 0][f 3 1 1 0 0 0]Futaba, realmente... No quiero ser una[n]molestia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Demasiado tarde para eso! Deber胤amos acabar[n]con esto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De lo contrario lo escucharemos m茨s tarde,[n]de todos modos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11067][f 6 1 2 0 0 7]No te pongas as胤 en Hikari-chan; ella no[n]quer胤a ser una carga. 斡Pero ella no sabe[n]que esto es f茨cil para nosotros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11067][f 6 1 2 0 0 7]No te pongas as胤 en Hikari; ella no[n]quer胤a ser una carga. 斡Pero ella no sabe[n]que esto es f茨cil para nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 10 0 0 0][f 3 1 1 0 0 0]夷C吋mo lo sabes?[n][f 1 3 65535][f 1 1][e]

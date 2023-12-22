@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 77 12 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 6]斡T雨 tambi姻n est茨s aqu胤, Yukiko![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 12 0 0][f 3 1 1 0 0 9]Hola, Nanako-chan. Parece que est茨s de buen[n]humor.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 12 0 0][f 3 1 1 0 0 9]Hola, Nanako. Parece que est茨s de buen[n]humor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Nanako]]
 [f 0 5 65278][f 2 1][f 4 6 77 2 0 0][f 3 1 1 0 0 10]斡Estaba cocinando con el gran hermano![n][f 1 3 65535][f 1 1][e]
@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 18]斡Me encantan las pel胤culas con dinosaurios![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 19]夷Te gustan esas pel胤culas? 斡Eso es todo,[n]Nanako-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 19]夷Te gustan esas pel胤culas? 斡Eso es todo,[n]Nanako![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Nanako]]
 [f 0 5 65278][f 2 1][f 4 6 77 12 0 0][f 3 1 1 0 0 20]En realidad vi a este con pap茨 en el cine![n][f 1 3 65535][f 1 1][e]
@@ -60,7 +60,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Hombre, esta es definitivamente la primera[n]vez que me han dicho que parezco un[n]dinosaurio...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 4][f 3 1 1 0 0 24][f 6 1 2 0 0 6]Heheh... Un dinosaurio que parece Yosuke-kun...[n]斡Ahahahahaha![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 4][f 3 1 1 0 0 24][f 6 1 2 0 0 6]Heheh... Un dinosaurio que parece Yosuke...[n]斡Ahahahahaha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 25]夷Te gustar胤a ver esta pel胤cula con nosotros,[n]Nanako?[n][f 1 3 65535][f 1 1][e]
@@ -69,7 +69,7 @@
 [f 0 5 65278][f 2 1][f 4 6 77 10 0 0][f 3 1 1 0 0 26][f 6 1 2 0 0 0]夷Puedo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 73 12 0 6][f 3 1 1 0 0 27][f 6 1 2 0 0 6]Si Nana-chan lo desea, entonces nadie puede[n]oponerse![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 73 12 0 6][f 3 1 1 0 0 27][f 6 1 2 0 0 6]Si Nana lo desea, entonces nadie puede[n]oponerse![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 28]Bueno, la comida est茨 lista. 夷Pueden ayudarme[n]a llevar estos platos?[n][f 1 3 65535][f 1 1][e]
@@ -82,7 +82,7 @@
 
 [msg MSG_026 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 1 0][f 3 1 1 0 0 31]Veamos, vamos a ver, perm胤teme dar esto aqu胤[n]una peque隠a prueba de sabor...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡Oooh! 斡Esto es incre胤ble, Nanako-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡Oooh! 斡Esto es incre胤ble, Nanako![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 33][f 6 1 2 0 0 9]夷Para qu姻 est茨s picando, Chie-senpai?[n][f 1 3 65535][f 1 1][e]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 77 2 0 1][f 3 1 1 0 0 34][f 6 1 2 0 0 0]夷En serio? 夷Est茨 bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 73 12 0 6][f 3 1 1 0 0 35]Eres tan espectacular como Sensei, Nana-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 73 12 0 6][f 3 1 1 0 0 35]Eres tan espectacular como Sensei, Nana.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 3][f 3 1 1 0 0 36][f 6 1 2 0 0 9]En serio, estoy tan contenta de que no hayas[n]tomado a algunos otros que conocemos...[n][f 1 3 65535][f 1 1][e]

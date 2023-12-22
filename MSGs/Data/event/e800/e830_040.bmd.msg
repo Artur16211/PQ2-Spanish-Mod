@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 6 0 3][f 3 1 1 0 0 0]Eheh... Supongo que es un poco d姻bil.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]夷Cu茨l crees que es correcto, Aragaki-kun?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]夷Cu茨l crees que es correcto, Aragaki?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 3][f 3 1 1 0 0 18019]夷Eh? 夷C吋mo diablos deber胤a saberlo?[n][f 1 3 65535][f 1 1][e]

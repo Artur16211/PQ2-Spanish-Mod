@@ -23,12 +23,12 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 1][f 6 1 1 0 0 1][f 4 6 72 2 1 3][f 4 6 9 0 1 1][f 3 1 1 0 0 12]斡Yosuke est茨 solo! 斡Waaaaaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 3]夷Yosuke-kun? 夷Es el amigo que mencionaste[n]cuando nos conocimos? 夷El que se separ吋?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 3 0 0 3]夷Yosuke? 夷Es el amigo que mencionaste[n]cuando nos conocimos? 夷El que se separ吋?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 2 0 0 10][f 6 1 3 0 0 3]... Muy bien, espera. Por favor... Por favor,[n]d姻jame ir... 斡No puedo respirar![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chica Reservada]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 15]Entiendo c吋mo te sientes, pero c茨lmate,[n]Teddie.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Incluso si llevas a esa persona extra brillante,[n]Yosuke-kun no saldr茨 de 姻l.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Incluso si llevas a esa persona extra brillante,[n]Yosuke no saldr茨 de 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 2 0 0 9][f 6 1 3 0 0 3]Eheh... "Extra glitzy"...[n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 21][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Gyaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 22]... Has sido separado de tu amigo llamado[n]Yosuke-kun, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 12 0 3][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 22]... Has sido separado de tu amigo llamado[n]Yosuke, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23]Podr胤a seguir en la pel胤cula. Me separ姻 de[n]mis propios amigos y termin姻 en una[n]pel胤cula. Tal vez lo hizo tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Chico Inteligente]]
@@ -52,7 +52,7 @@
 
 [msg MSG_018 [Chica En姻rgica]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 6]De todos modos, 斡creemos positivo! Nada bueno[n]puede venir de p茨nico en un momento[n]como este![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Rise-chan y Yosuke estar茨n bien! 斡Despu姻s[n]de todo, tambi姻n est茨n en el Equipo de[n]Investigaci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 26]斡Rise y Yosuke estar茨n bien! 斡Despu姻s[n]de todo, tambi姻n est茨n en el Equipo de[n]Investigaci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 3 1 1 0 0 27]Cierto. Yosuke nunca caer胤a tan f茨cilmente.[n][f 1 3 65535][f 1 1][e]

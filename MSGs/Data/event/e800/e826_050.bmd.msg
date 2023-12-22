@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 4 0 1][f 3 1 1 0 0 17005]Grrr...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0]Koro-chan parece tenso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0]Koro parece tenso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 7 1 1][f 3 1 1 0 0 9015]Me pica la nariz. Este olor debe ser...[n][f 1 3 65535][f 1 1][e]

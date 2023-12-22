@@ -85,7 +85,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 6 3 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19010]Es dif胤cil estar solo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Cuando la familia de Yosuke-kun vino por[n]primera vez a Yasoinaba, se escrutaron[n]bastante por su negocio...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 5 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Cuando la familia de Yosuke vino por[n]primera vez a Yasoinaba, se escrutaron[n]bastante por su negocio...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0]S胤, no importa ad吋nde fui, siempre fue lo[n]mismo...[n][f 1 3 65535][f 1 1][e]
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Argh! 斡No m茨s de eso! 斡Estoy avergonzada de[n]repente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Gracias por compartir tus sentimientos con[n]nosotros, Yosuke-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Gracias por compartir tus sentimientos con[n]nosotros, Yosuke.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3003][f 6 1 2 0 0 6]U-Uhh... Bueno, de todos modos![n][f 1 3 65535][f 1 1][e]

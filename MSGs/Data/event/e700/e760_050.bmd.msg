@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 6][f 3 1 1 0 0 4068][f 6 1 2 0 0 6]斡Yo tambi姻n! 斡Voy a tomar carne sobre los[n]huesos cualquier d胤a! Waaay m茨s importante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Haha... Parece que Satonaka-san y Joker est茨n[n]m茨s interesados en la carne.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Haha... Parece que Satonaka y Joker est茨n[n]m茨s interesados en la carne.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]Personalmente, me gustar胤a ver un arma hecha[n]de huesos de dinosaurios.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero eso podr胤a resultar algo dif胤cil. Estos[n]huesos parecen estar bastante climatizados[n]despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 

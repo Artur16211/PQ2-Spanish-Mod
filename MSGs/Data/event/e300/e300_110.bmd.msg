@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 4][f 3 1 1 0 0 18007]As胤 que lo que dices es que acabamos de[n]destruir su forma de pensar, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 0 1][f 3 1 1 0 0 0]Adem茨s, necesitamos encontrar a nuestro l胤der[n]y Aigis-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 0 1][f 3 1 1 0 0 0]Adem茨s, necesitamos encontrar a nuestro l胤der[n]y Aigis.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 1][f 3 1 1 0 0 12071]No tengo todo este "ir dentro de las pel胤culas"[n]y lo que no, pero parece que no[n]tenemos tiempo para discutirlo...[n][f 1 3 65535][f 1 1][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 4 1 1][f 3 1 1 0 0 26003]Uh, um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 pasa, Futaba-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 pasa, Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 26099][f 6 1 2 0 0 6]Um... 斡Tengo un favor que pedir![n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 26069][f 6 1 2 0 0 4]Bueno, estar姻 bien, estar茨 bien. 斡Juro que[n]no causar姻 ning雨n problema! 夷De acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 81 0 0 0][f 3 1 1 0 0 61012][f 6 1 2 0 0 4]... 夷De verdad quieres entrar ah胤,[n]Futaba-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 81 0 0 0][f 3 1 1 0 0 61012][f 6 1 2 0 0 4]... 夷De verdad quieres entrar ah胤,[n]Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 0]Creo que esa pel胤cula est茨 mal. Quiero ser[n]el que lo cambie, no importa lo que sea[n]necesario.[n][f 1 3 65535][f 1 1][e]
@@ -116,14 +116,14 @@
 
 [msg MSG_035 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 64016]S吋lo estoy proponiendo una situaci吋n[n]hipot姻tica:[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si resulta que debemos permanecer aqu胤 para[n]siempre... 夷qu姻 har胤as, Hikari-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si resulta que debemos permanecer aqu胤 para[n]siempre... 夷qu姻 har胤as, Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 61016]... No lo s姻.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puede que no pueda hacer nada al respecto,[n]pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 0]Hikari-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 0]Hikari...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Doe]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 82 1 0 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -141,5 +141,5 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 0]夷Qu姻 eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 16 2 6][f 3 1 1 0 0 64130]Est茨 bien, Hikari-san... Estoy aqu胤[n]contigo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 16 2 6][f 3 1 1 0 0 64130]Est茨 bien, Hikari... Estoy aqu胤[n]contigo...[n][f 1 3 65535][f 1 1][e]
 

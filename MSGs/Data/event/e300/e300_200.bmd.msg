@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 0 6][f 3 1 1 0 0 8016][f 6 1 2 0 0 4]夷Qu姻 dice Koromaru-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 0 6][f 3 1 1 0 0 8016][f 6 1 2 0 0 4]夷Qu姻 dice Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 6 1 0][f 3 1 1 0 0 11086]Hmm... He said, "斡Arf arf!"[n][f 1 3 65535][f 1 1][e]
@@ -21,13 +21,13 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 17 1 0 4][f 4 6 35 12 0 1][f 3 1 1 0 0 35013]"LEVANTO NUESTRAS EMPRESAS AQU緯. DEBER緯AN[n]ESTAR ARRIBA, ES LO QUE DIJO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19045]Ribbon-chan, 夷puedes entender lo que dice[n]Koromaru?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19045]Ribbon, 夷puedes entender lo que dice[n]Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]S緯. HE SIDO PROGRAMADO CON LA ABSOLUCI遺N DE[n]ENTENDER MUCHOS IDIOMAS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 16047]Vaya... 斡Eso es lo mismo que Aigis-san![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 16047]Vaya... 斡Eso es lo mismo que Aigis![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]POR FAVOR, VAMOS POR AQU緯.[n][f 1 3 65535][f 1 1][e]
@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 13040][f 6 1 2 0 0 3]B茨sicamente, son similares a las pruebas de[n]capacidad profesional y ex茨menes de[n]calificaci吋n. Parece que esto no ser茨[n]f茨cil...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]夷Crees que podr胤as aprobar estos ex茨menes,[n]Ribbon-chan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]夷Crees que podr胤as aprobar estos ex茨menes,[n]Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35023]CREO QUE MI PROBABILIDAD ES DE LA MISMA[n]MANERA, CONSIDERANDO C遺MO ME DESVINCULARON[n]A LAS COMUNIDADES.[n][f 1 3 65535][f 1 1][e]
@@ -139,13 +139,13 @@
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 11043][f 6 1 2 0 0 6]斡No hay objeciones aqu胤 tampoco! 斡Un hombre[n]tiene que hacer desaf胤os como este![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 1 0 3][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Kanji-kun tambi姻n es un tipo "Power",[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 7 1 0 3][f 4 6 5 0 0 1][f 3 1 1 0 0 0]Kanji tambi姻n es un tipo "Power",[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 7107][f 6 1 2 0 0 6]斡Correcto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 9128]斡Lo s姻! 斡Voy a acompa隠ar a Chie-chan al examen[n]de "Power"![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 9128]斡Lo s姻! 斡Voy a acompa隠ar a Chie al examen[n]de "Poder"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4062][f 6 1 2 0 0 0]夷Me est茨s ofreciendo? 斡Pero no hay otras[n]chicas en el equipo![n][f 1 3 65535][f 1 1][e]
@@ -225,7 +225,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 10 1 0][f 3 1 1 0 0 26067][f 6 1 2 0 0 6]Me sentir胤a mejor si estuvieras con ella,[n]Joker. 斡Cu胤date de ese bot![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35014]Joker-SAN, ESTOY EN TU COCHE.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35014]JOKER, ESTOY EN TU COCHE.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022]夷QU畏 PREPARO? NO TENGO NING郁N DESTIERRO EN[n]PARTE, REGIR ESTO.[n][f 1 3 65535][f 1 1][e]
@@ -252,7 +252,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]ENTENDIDO. ESTOY EN TU COCHE.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Joker, [f 6 1 12 0 0 0]-kun, and[n][f 6 1 26 0 0 0]-san are the only[n]ones left...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Joker, [f 6 1 12 0 0 0], and[n][f 6 1 26 0 0 0] are the only[n]ones left...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Es solo una idea, pero 夷y si los tenemos como[n]l胤deres de los tres equipos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Ann]]
@@ -265,13 +265,13 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3067][f 6 1 2 0 0 7]Cierto. Definitivamente puedo responder por[n]su liderazgo. 夷No es as胤, compa隠ero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28002][f 6 1 2 0 0 4]夷Qu姻 tal t雨, [f 6 1 26 0 0 0]-san? 夷Estar胤as[n]bien con actuar como l胤der de equipo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 28 12 0 1][f 3 1 1 0 0 28002][f 6 1 2 0 0 4]夷Qu姻 tal t雨, [f 6 1 26 0 0 0]? 夷Estar胤as[n]bien con actuar como l胤der de equipo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_083 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]No me importa, si est茨 bien con todos los[n]dem茨s...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 4][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]This is just my own opinion, but I think[n][f 6 1 27 0 0 0]-san is well-suited for[n]being a leader.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 4][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]This is just my own opinion, but I think[n][f 6 1 27 0 0 0] is well-suited for[n]being a leader.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece entender bien a los miembros del SEES.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_085 [Haru]]

@@ -39,9 +39,9 @@
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 6][f 3 1 1 0 0 13]Debo decir que tambi姻n estoy aliviado. Sin[n]embargo, por favor no te presiones demasiado[n]todav胤a.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chica Alegre]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 6]斡Gracias, Nagi-san! 斡Lo mismo para ti,[n]Hikari-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 6]斡Gracias, Nagi! 斡Lo mismo para ti,[n]Hikari![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15]Debo decir que me sorprendi吋 cuando me despert姻[n]en alg雨n lugar que no reconoc胤a, y[n]con un mont吋n de gente con ropa azul...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]斡Pero me asegur姻 de presentarme a todos![n]Marie-chan estaba all胤 una gran ayuda.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16]斡Pero me asegur姻 de presentarme a todos![n]Marie estaba all胤 una gran ayuda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Marie]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 85 4 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 10]斡T雨 tambi姻n me sorprendiste! 斡Nos acabas de[n]colapsar![n][f 1 3 65535][f 1 1][e]
@@ -107,14 +107,14 @@
 
 [msg MSG_031 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 0 0][f 3 1 1 0 0 38]斡Claro que s胤![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 6 2 0 0][f 3 1 1 0 0 39][f 6 1 2 0 0 4]Y si he o胤do correctamente, t雨 tambi姻n,[n]夷verdad, Futaba-chan? 斡Hag茨moslo mejor[n]juntos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 0 0][f 3 1 1 0 0 39][f 6 1 2 0 0 4]Y si he o胤do correctamente, t雨 tambi姻n,[n]夷verdad, Futaba? 斡Hag茨moslo mejor[n]juntos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 40][f 6 1 2 0 0 6]斡Eek! Oh, um... Lo intentar姻... 斡Espero que[n]nos llevemos bien![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 10]夷Es un 胤dolo y puede proporcionar refuerzos?[n]Sus especificaciones est茨n fuera de las[n]listas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 8 0 0 1][f 3 1 1 0 0 42]Still, I'm rather worried about[n][f 6 1 27 0 0 0]-san's companions.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 8 0 0 1][f 3 1 1 0 0 42]Still, I'm rather worried about[n][f 6 1 27 0 0 0]'s companions.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 43][f 6 1 2 0 0 4]夷Est茨s bien? Me imagino que te sentir胤as un[n]poco sola siendo la 雨nica aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [P3 Fem Protag]]

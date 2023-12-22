@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 61151]Hee hee... Eres tan linda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 3][f 3 1 1 0 0 0]Whoa! 斡Hikari-chan, eso fue incre胤ble! 夷C吋mo[n]hiciste eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 3][f 3 1 1 0 0 0]Whoa! 斡Hikari, eso fue incre胤ble! 夷C吋mo[n]hiciste eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 0]Bueno... S吋lo quer胤a hacerlo, y sucedi吋. Tal[n]vez porque es mi pel胤cula...[n][f 1 3 65535][f 1 1][e]

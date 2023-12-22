@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24032]Haha, 夷qu姻 pasa? Esos ojos brillantes me[n]dicen que quieres algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 3][f 3 1 1 0 0 17002]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 3][f 3 1 1 0 0 17002]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 6][f 3 1 1 0 0 0]Creo que quiere que juegues con 姻l, Fox.[n][f 1 3 65535][f 1 1][e]
@@ -17,11 +17,11 @@
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 6][f 3 1 1 0 0 26532][f 3 1 6 0 0 500]Bien por ti, Fox. Estoy seguro de que se[n]llevar茨n bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 6][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]Parece que Koro-chan est茨 interesado en la[n]cola de Fox.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 6][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]Parece que Koro est茨 interesado en la[n]cola de Fox.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es asqueroso, despu姻s de todo. Tal vez 姻l[n]piensa que eres como 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 2 0 3][f 3 1 1 0 0 17002]Arf, Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 2 0 3][f 3 1 1 0 0 17002]¡Arf, Arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24076]Ahora que te miro, eres bastante linda.[n][f 1 3 65535][f 1 1][e]

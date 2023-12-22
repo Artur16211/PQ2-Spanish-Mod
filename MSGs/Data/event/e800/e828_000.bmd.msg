@@ -11,13 +11,13 @@
 [f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]W-夷Qu姻 est茨s haciendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esta sensaci吋n... Lo sab胤a. Eres igual que-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Esta sensaci吋n... Lo sab胤a. Eres igual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 4][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0]Koromaru-san says he also senses[n]something about you that is similar to[n][f 6 1 15 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 0]Koromaru says he also senses[n]something about you that is similar to[n][f 6 1 15 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 podr胤a ser...?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
@@ -48,7 +48,7 @@
 
 [msg MSG_015 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 4 1 1][f 3 1 1 0 0 16009]Koromaru es muy amistoso, incluso para[n]extra隠os. A雨n as胤, esto parece diferente...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]All I can say for sure is: Koromaru senses[n]something special about you,[n][f 6 1 27 0 0 0]-san.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]All I can say for sure is: Koromaru senses[n]something special about you,[n][f 6 1 27 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 4 6 17 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]

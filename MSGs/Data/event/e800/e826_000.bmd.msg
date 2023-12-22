@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 4 0 0][f 3 1 1 0 0 17005][f 6 1 2 0 0 2]Grrr...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 0]Koromaru-san parece estar diciendo: "No te[n]quedes detr茨s de m胤."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 0]Koromaru parece estar diciendo: "No te[n]quedes detr茨s de m胤."[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_004 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Badass.[f 2 7 1 64 0 32][e]
@@ -21,20 +21,20 @@
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 3 6 0 6][f 3 1 1 0 0 3012]Nothing gets past you does it,[n][f 6 1 30 0 0 0]...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 17 6 1 0][f 4 6 66 16 1 4][f 3 1 1 0 0 22031]Aqu胤, Koro-chan. Est茨 bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 17 6 1 0][f 4 6 66 16 1 4][f 3 1 1 0 0 22031]Aqu胤, Koro. Est茨 bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Koromaru]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 17003]*whine*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Qu姻 demonios? 夷Por qu姻 Ann-san lo[n]acaricia...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Qu姻 demonios? 夷Por qu姻 Ann lo[n]acaricia...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 17 1 0 1][f 4 6 66 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Buen chico, Koro-chan. Eres como nuestra[n]peque隠a mascota.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 1 0 1][f 4 6 66 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Buen chico, Koro. Eres como nuestra[n]peque隠a mascota.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 9072][f 6 1 2 0 0 6]夷Qu姻 hay de m胤? 斡Yo hago una buena mascota![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que si姻ntete libre de acariciarme tambi姻n,[n]Ann-chan.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que si姻ntete libre de acariciarme tambi姻n,[n]Ann.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 10 0 0][f 3 1 1 0 0 0]斡Eh, eh...![n][f 1 3 65535][f 1 1][e]

@@ -52,11 +52,11 @@
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 19]A雨n as胤, esta es nuestra 雨nica salida. No[n]tenemos m茨s remedio que ir por aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 3][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 20]Hikari-chan... Supongo que eso nos hace[n]despedirnos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 3][f 4 6 19 12 0 1][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 20]Hikari... Supongo que eso nos hace[n]despedirnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 21]Mm-hm...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 22][f 6 1 27 0 0 0]-chan, muchas gracias.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 22][f 6 1 27 0 0 0], muchas gracias.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 23]Huh?[n][f 1 3 65535][f 1 1][e]
@@ -102,7 +102,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 6 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Todos... 夷Realmente piensas irte?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 0 0][f 3 1 1 0 0 33]夷Nagi-san?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 0 0][f 3 1 1 0 0 33]夷Nagi?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 4 3 0][f 3 1 1 0 0 34][f 6 1 2 0 0 10]Me disculpo por estar tan adelante.[n][f 1 3 65535][f 1 1][e]
@@ -112,11 +112,11 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 36]夷Por qu姻? Finalmente podemos irnos ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 37]Hikari-san, cuando vuelvas a la realidad,[n]puedes terminar enfrentando las mismas[n]dificultades que antes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 37]Hikari, cuando vuelvas a la realidad,[n]puedes terminar enfrentando las mismas[n]dificultades que antes...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38]De hecho, podr胤as ser herido a雨n m茨s, si ese[n]es el caso, 夷no preferir胤as...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 39]Podr胤as tener raz吋n, Nagi-san...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 39]Podr胤as tener raz吋n, Nagi...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 40]Pero todos me han dado coraje. He decidido[n]que voy a probar mi mejor... Por eso es[n]hora de que me vaya.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Nagi]]

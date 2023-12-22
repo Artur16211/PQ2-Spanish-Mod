@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 1][f 3 1 1 0 0 14]YO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 15]斡No te preocupes, Hikari-chan! Est茨 bien,[n]nos aseguraremos de que vuelvas a tu..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 15]斡No te preocupes, Hikari! Est茨 bien,[n]nos aseguraremos de que vuelvas a tu..[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 16]No es eso... No estoy preocupado por m胤[n]mismo...[n][f 1 3 65535][f 1 1][e]

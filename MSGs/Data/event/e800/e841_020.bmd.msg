@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 8 0 0][f 3 1 1 0 0 65076]No quiero perderme, supongo que es verdad[n]para todos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 4 100 4][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Deja de burlarte de Marie-chan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 4 100 4][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Deja de burlarte de Marie![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 5 12 0 0][f 3 1 1 0 0 0]As胤 que vamos a llegar a esas marcas.[n][f 1 3 65535][f 1 1][e]

@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 0]No. Es s吋lo que esta 雨ltima prueba especial[n]ha dado mucho que pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19047]夷En serio? 斡Pens姻 que lo hab胤as descubierto[n]todo, Yusuke-kun![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19047]夷En serio? 斡Pens姻 que lo hab胤as descubierto[n]todo, Yusuke![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]Cre胤a que derrotar a Kamoshidaman tendr胤a[n]alg雨n tipo de efecto en el pensamiento de[n]la gente, pero...[n][f 1 3 65535][f 1 1][e]

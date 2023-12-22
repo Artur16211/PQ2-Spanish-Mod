@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora estoy refrescada y lista para retomar[n]mis deberes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19139]Y-You don't have any questions or[n]anything? You're really something,[n][f 6 1 30 0 0 0]-kun.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19139]Y-You don't have any questions or[n]anything? You're really something,[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19033]Lo siento. Theo tiene esta habilidad donde[n]puede decir la temperatura exacta de algo[n]simplemente toc茨ndola...[n][f 1 3 65535][f 1 1][e]
