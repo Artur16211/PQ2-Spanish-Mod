@@ -235,7 +235,7 @@ def run_program():
     print("Exporting all the .bmd files in the Output folder")
     for root, dirs, files in os.walk(output_folder):
         for msg_file in files:
-            if msg_file.lower().endswith('.bf'):
+            if msg_file.lower().endswith(('.bf', '.pak', '.pac')):
                 # print(f"Exporting {msg_file}")
                 PEExport(os.path.join(root, msg_file))
 
