@@ -1,24 +1,24 @@
-﻿[msg MSG_000 [Rise]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 6 2 0 1][f 3 1 1 0 0 1]斡Genial! 斡Realmente era una llave para esta[n]puerta![n][f 1 3 65535][f 1 1][e]
+[msg MSG_000 [Rise]]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 6 2 0 1][f 3 1 1 0 0 1]斡Genial! 斡Realmente era una llave para esa[n]puerta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 6 1 0][f 3 1 1 0 0 2]斡Claro que s胤! Un paso m茨s cerca de salir de[n]aqu胤... 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 6 1 0][f 3 1 1 0 0 2]斡Claro! Un paso m茨s cerca de salir de[n]aqu胤... 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chie]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 4 0 0 1][f 3 1 1 0 0 3]Yo... creo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 4 0 0 1][f 3 1 1 0 0 3]Eso... creo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 71 12 0 3][f 3 1 1 0 0 4]Hay una cosa que me da curiosidad: 夷No parec胤a[n]Doe mucho m茨s calmado que antes?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]La primera vez que produjo una llave, parec胤a[n]tener mucho m茨s dolor que esta vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5]La primera vez que solt吋 una llave, parec胤a dolerle mucho m茨s que ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 4 1 1][f 3 1 1 0 0 6]Hm, ahora que lo mencionas... La diferencia[n]parece bastante leve.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 4 1 1][f 3 1 1 0 0 6]Mmm, ahora que lo mencionas... La diferencia parece bastante notable.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 7]Veo lo que quieres decir... Quiz茨s nuestras[n]ediciones de las pel胤culas lo est茨n[n]afectando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 7]Se lo que quieres decir... Quiz茨s nuestros actos en las pel胤culas lo est茨n afectando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 19 12 2 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 8]夷Te sientes mejor ahora, Hikari? Estabas[n]temblando mucho antes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 19 12 2 3][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 8]夷Te sientes mejor ahora, Hikari? Estabas[n]temblando mucho antes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-Mmhm... Lo siento, estoy bien.[n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 15]*giggle*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 16]Me alegra ver que est茨s empezando a entrar[n]en mejores esp胤ritus.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 16]Me alegra ver que est茨s empezando a entrar[n]en mejores esp胤ritus.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 6][f 3 1 1 0 0 17]斡Ayuda, no hay necesidad de temer! 斡Juramos[n]que te sacaremos de aqu胤![n][f 1 3 65535][f 1 1][e]
@@ -71,5 +71,5 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 65 6 0 0][f 3 1 1 0 0 26]Genial, una nueva pel胤cula. Apuesto a que es[n]igual de mierda que los dos 雨ltimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 27]Well, there's nothing else we can do to[n]get out of this place... Let's go,[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 27]Well, there's nothing else we can do to[n]get out of this place... Let's go,[n][f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 

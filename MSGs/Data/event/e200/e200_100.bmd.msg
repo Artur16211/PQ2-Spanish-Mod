@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 9]Pero, lo que est茨 pasando... 夷C吋mo controlamos esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Persona Disfrazada De Oso]]
-[f 0 5 65278][f 2 1][f 4 6 9 8 1 0][f 3 1 1 0 0 10][f 6 1 2 0 0 6]斡Ustedes, los disfrazados de forma rara! 斡Qu胤tense de nuestro camino ahora mismo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 8 1 0][f 3 1 1 0 0 10][f 6 1 2 0 0 6]斡Ustedes, los disfrazados de forma extra隠a! 斡Qu胤tense de nuestro camino ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 23 4 0 0][f 3 1 1 0 0 11][f 6 1 2 0 0 2]夷Qu姻? 斡T雨 eres el que est茨 vestido de forma rara![n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 23][f 6 1 2 0 0 4]Entonces, ustedes no planeaban atacarnos desde el principio, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Chica En姻rgica]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 24]夷Solo iban a golpearlo? Pero, se ve tan real...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 24]夷Solo iba a golpearlo? Pero, se ve tan real...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 25]...Ya veo. Tal vez tu intenci吋n era mostrarla como estrategia.[n][f 1 3 65535][f 1 1][e]
@@ -125,16 +125,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45]Es ese chico con el pelo que... se infla hacia afuera en ambos lados, con un par de auriculares alrededor de su cuello.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 46]No, por desgracia... Lo siento. Estoy seguro de que recordar胤amos si hubi姻ramos visto a alguien as胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 46]No, por desgracia... Lo siento. Estoy segura de que recordar胤amos si hubi姻ramos visto a alguien as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 47]Entonces, tambi姻n han sido separados de su compa隠ero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Chico Amenazador]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 7 6 0 1][f 3 1 1 0 0 48][f 6 1 2 0 0 6]斡Demonios... 夷Fue toda esta conversaci吋n in雨til?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 7 6 0 1][f 3 1 1 0 0 48][f 6 1 2 0 0 6]斡Demonios! 夷Toda esta conversaci吋n fue in雨til?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 49]Una cosa es segura: ella necesita ser tratada inmediatamente. Deber胤amos llevarla a un lugar donde pueda descansar de manera segura.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 49]Una cosa es segura: ella necesita ser tratada inmediatamente. Deber胤amos llevarla a un lugar donde pueda descansar de forma segura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 50]Cierto, puede que incluso haya medicamentos efectivos en el cine. Volvamos de inmediato.[n][f 1 3 65535][f 1 1][e]

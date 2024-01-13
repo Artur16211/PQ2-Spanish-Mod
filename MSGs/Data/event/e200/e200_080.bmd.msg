@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 1 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6][f 3 1 6 0 0 500]Joker, 斡espera! 斡Detente, paraaa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Makoto]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 25 4 1 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷Por qu姻 tanto grito? 夷斡Un enemigo!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 25 4 1 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷Por qu姻 tanto alboroto? 夷斡Un enemigo!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 99 0][f 3 1 1 0 0 3][f 6 1 2 0 0 10]No lo s姻, 斡pero algo se acerca a ustedes incre胤blemente r茨pido![n][f 1 3 65535][f 1 1][e]
@@ -17,10 +17,10 @@
 
 [msg MSG_005 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 4][f 3 1 1 0 0 5]S胤, me estoy acercando con mi super...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 6][f 6 1 2 0 0 6]斡Despierta! 斡He estado a tu lado todo el tiempo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 6][f 6 1 2 0 0 6]斡Reacciona! 斡He estado alado tuyo todo el tiempo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 7]Estos no son dinosaurios ni FOE... Bas茨ndome en su velocidad...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 7]Estos no son dinosaurios ni FOEs... Bas茨ndome en su velocidad...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8][f 6 1 2 0 0 0]No puede ser... 夷Podr胤an ser humanos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ryuji]]
@@ -28,7 +28,7 @@
 
 [msg MSG_008 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 1][f 3 1 1 0 0 10]Oh, tal vez esto es a lo que Oracle se refer胤a cuando entramos a la pel胤cula...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Ya sabes, 夷sobre m雨ltiples presencias poderosas aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Ya sabes, 夷sobre m雨ltiples presencias poderosas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 8 2 1][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 12]斡Oye! 斡Quiz茨s sean mis compa隠eros![n][f 1 3 65535][f 1 1][e]
