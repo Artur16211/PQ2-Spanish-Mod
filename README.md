@@ -9,7 +9,7 @@ MSGs Traducidos/Corregidos: <br>
 | battle          | 100%         |  - |
 | camp           | 100%         | -  |
 | dungeon           | 100%         | -  |
-| event           | 10%         | e000,e100,e200,e900 - 100%/e300 - 0%  |
+| event           | 10%         | e000,e100,e200,e600,e900 - 100%/e300 - 0%  |
 | facility           | 100%         | -  |
 | init           | 100%         | -  |
 | shared           | 100%         | -  |
