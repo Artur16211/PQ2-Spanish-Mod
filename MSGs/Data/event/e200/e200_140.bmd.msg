@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28]Sin embargo, debe sentirse solo estando separado de nosotros. Tenemos que apresurarnos y rescatarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Persona Disfrazada De Oso]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 29]S-Sensei...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 29]M-Maestro...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 30][f 6 1 2 0 0 7]斡Teddie ha vuelto y mejor que nunca! 斡Rescatar a Yosuke ser茨 lo 雨nico en mi mente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Chico Compuesto]]
@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 10 0 0][f 3 1 1 0 0 34][f 6 1 2 0 0 10]夷Eh? Entonces, 夷qu姻 deber胤amos hacer? 夷Qui姻n va primero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Persona Disfrazada De Oso]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 6][f 3 1 1 0 0 35]Obviamente, 斡deber胤a ser Sensei! 夷Qui姻n podr胤a ser mejor?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 6][f 3 1 1 0 0 35]Obviamente, 斡deber胤a ser el Maestro! 夷Qui姻n podr胤a ser mejor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Chica Reservada]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 36]Es cierto, 姻l es nuestro l胤der.[n][f 1 3 65535][f 1 1][e]

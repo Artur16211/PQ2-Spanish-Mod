@@ -259,7 +259,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 6][f 3 1 1 0 0 22075]S胤... Joker tambi姻n tiene que unirse a uno[n]de los equipos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 9 2 0 3][f 3 1 1 0 0 9129][f 6 1 2 0 0 6]Sensei siempre es nuestro l胤der, as胤 que[n]ser胤a un actor perfecto para el papel![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 1][f 4 6 9 2 0 3][f 3 1 1 0 0 9129][f 6 1 2 0 0 6]El Maestro siempre es nuestro l胤der, as胤 que[n]ser胤a un actor perfecto para el papel![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3067][f 6 1 2 0 0 7]Cierto. Definitivamente puedo responder por[n]su liderazgo. 夷No es as胤, compa隠ero?[n][f 1 3 65535][f 1 1][e]

@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Puede que no tengan habilidades de combate,[n]pero necesitan muchas t姻cnicas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Eso no es todo! Como dijo Sensei, todos son[n]especiales a su manera![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Eso no es todo! Como dijo el Maestro, todos son[n]especiales a su manera![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Fuu es tan amable y cort姻s! Hace que[n]mi coraz吋n de oso se enfr胤e...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Pero Oracle siempre es bombeado! Siempre[n]estoy hipnotizada cuando est茨 por aqu胤.[n][f 1 3 65535][f 1 1][e]
 

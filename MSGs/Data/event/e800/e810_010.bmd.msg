@@ -24,18 +24,18 @@
 
 [msg MSG_006 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 1 1][f 3 1 1 0 0 9036][f 6 1 2 0 0 3]Ngh... Estos chicos de la ciudad pueden hacer[n]cualquier cosa...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Pero Sensei puede hacer mucho m茨s![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Pero el Maestro puede hacer mucho m茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 1][f 3 1 1 0 0 9046]Mucha confianza...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Pero Sensei puede hacer mucho m茨s![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Pero el Maestro puede hacer mucho m茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 21012]S胤, ella tiene un mordisco en el momento en[n]que golpea el agua. Es un maldito[n]profesional...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]As胤 que no eres tan bueno, pero sigues muy[n]confiado, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Hoho... 斡Pero nuestro Sensei puede hacer[n]mucho m茨s![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Hoho... 斡Pero nuestro Maestro puede hacer[n]mucho m茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 2 0 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1071]Tengo una experiencia de pesca. Estoy seguro[n]de que puedo ayudar.[n][f 1 3 65535][f 1 1][e]

@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1106]Teddie, no hay conocimiento de lo que podr胤a[n]suceder en este mundo. Aseg雨rate de no[n]tocar nada descuidadamente, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 5 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Entiendo, Sensei... pensar姻 en lo que he[n]hecho...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 5 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Entiendo, el Maestro... pensar姻 en lo que he[n]hecho...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ken]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 16 10 0 1][f 3 1 1 0 0 16059][f 6 1 2 0 0 6]斡Pero mirad todos![n][f 1 3 65535][f 1 1][e]

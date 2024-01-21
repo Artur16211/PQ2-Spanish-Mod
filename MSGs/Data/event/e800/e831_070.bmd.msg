@@ -10,10 +10,10 @@
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 0]斡Pero uno de estos d胤as, podr姻 seguir con[n]nuestros dos maestros de la noche![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3091]Pens姻 que era tu Sensei. 夷Lo est茨s enga隠ando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3091]Pens姻 que era tu Maestro. 夷Lo est茨s enga隠ando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Por supuesto que no! 斡Sensei est茨 en otro[n]nivel! 斡Es brillante como el sol![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Por supuesto que no! 斡El Maestro est茨 en otro[n]nivel! 斡Es brillante como el sol![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero esos dos son tan agitados como la luz[n]de las estrellas y la luz de la luna. Tan[n]misterioso...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Si pudiera ser tan genial![n][f 1 3 65535][f 1 1][e]
 

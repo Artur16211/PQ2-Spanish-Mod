@@ -189,14 +189,14 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 0]Mmm. Ted.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 9136]Q-Qu姻 cruel... A este ritmo, 斡lo 雨nico que puedo hacer es esperar que Sensei me vengue![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 9136]Q-Qu姻 cruel... A este ritmo, 斡lo 雨nico que puedo hacer es esperar que el Maestro me vengue![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 6][f 4 6 20 1 0 3][f 4 6 22 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Un nombre en clave para [f 6 1 13 0 0 0], 夷eh...? 夷Qu姻 crees que ser胤a bueno, Joker?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_061 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Kingpin.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Sensei.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]Maestro.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Lobo Yasogami.[f 2 7 1 20 8 32][e]
 
 [msg MSG_062 [P4 Hero]]
@@ -209,13 +209,13 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 0]Debe ser por esa pelea con Joker cuando nos conocimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 9047][f 6 1 2 0 0 6]斡Ese es nuestro Sensei! 斡Un nombre de c吋digo con dignidad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 9047][f 6 1 2 0 0 6]斡Ese es nuestro Maestro! 斡Un nombre de c吋digo con dignidad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 1015]夷Sensei? Se siente un poco raro ser llamado as胤 por alguien que no sea Teddie...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 1015]夷Maestro? Se siente un poco raro ser llamado as胤 por alguien que no sea Teddie...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Lo llamo Sensei porque tenemos una relaci吋n especial entre nosotros! 斡Ese nombre clave es s吋lo para Teddie![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Lo llamo Maestro porque tenemos una relaci吋n especial entre nosotros! 斡Ese nombre clave es s吋lo para Teddie![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 1 10 0 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 1018]夷斡Lobo Yasogami!?[n][f 1 3 65535][f 1 1][e]

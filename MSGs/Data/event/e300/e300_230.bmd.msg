@@ -388,7 +388,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1016]Ahora que lo pienso, 夷no ser胤a m茨s f茨cil si[n]nos pusi姻ramos en la escala?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_117 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 9029][f 6 1 2 0 0 6]斡Eso es nuestro Sensei para ti! 斡He estado[n]pensando lo mismo todo este tiempo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 9029][f 6 1 2 0 0 6]斡Eso es nuestro Maestro para ti! 斡He estado[n]pensando lo mismo todo este tiempo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_118 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 4 0 0][f 3 1 1 0 0 21040][f 6 1 2 0 0 0]斡No me vengas con esa mierda! 斡Parec胤as que[n]estabas mojando tu traje hasta hace tres[n]segundos![n][f 1 3 65535][f 1 1][e]

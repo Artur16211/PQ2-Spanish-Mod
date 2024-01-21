@@ -61,6 +61,9 @@ Baton Pass -> Relevo
 Sub-Persona -> Persona Secundaria
 Navi -> Navi
 
+# Traducción oficial de Persona 4 Golden:
+Sensei -> Maestro
+
 # Traducción oficial de Persona 3 Portable:
 Evoker -> Evocador
 
@@ -84,4 +87,3 @@ Party Meter -> Medidor de Grupo
 ## Historia:
 the curator -> la conservadora
 concession stand -> puesto de comida
-

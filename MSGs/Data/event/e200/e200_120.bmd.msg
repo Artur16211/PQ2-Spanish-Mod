@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 5 12 0 1][f 3 1 1 0 0 1]Bueno, supongo que finalmente podemos relajarnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Persona Disfrazada De Oso]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 1][f 3 1 1 0 0 2]Pero vaya, Sensei... 斡Pensar que estabas familiarizado con una mujer tan hermosa![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 1][f 3 1 1 0 0 2]Pero vaya, Maestro... 斡Pensar que estabas familiarizado con una mujer tan hermosa![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 4]斡No ten胤a idea! 夷Por qu姻 no me la presentaste antes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chica En姻rgica]]
