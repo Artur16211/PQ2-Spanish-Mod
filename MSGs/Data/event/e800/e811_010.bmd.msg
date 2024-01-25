@@ -140,7 +140,7 @@
 [f 0 5 65278][f 2 1]斡Ese tesoro es nuestro![f 2 7 1 64 0 32][e]
 
 [msg MSG_041 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 1][f 3 1 1 0 0 21045]Oh, te ves muy hinchada tambi姻n, [f 6 1 30 0 0][n]. Debo decir que es la primera vez[n]que me siento as胤 en un rato.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 1][f 3 1 1 0 0 21045]Oh, te ves muy hinchada tambi姻n, [f 6 1 30 0 0 0][n]. Debo decir que es la primera vez[n]que me siento as胤 en un rato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Yo tambi姻n! 斡Le mostrar姻 a todos el Teddie-way[n]del fantasma ladrones![n][f 1 3 65535][f 1 1][e]

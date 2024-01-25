@@ -38,7 +38,7 @@
 
 [msg MSG_010 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 1][f 3 1 1 0 0 0]As胤 que tendremos que encontrar rastros de[n]su 雨ltima comida... En otras palabras,[n]huesos de dinosaurios frescos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Suena bien, [f 6 1 30 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Suena bien, [f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_011 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]Te lo dejar姻.[f 2 7 1 64 0 32][e]

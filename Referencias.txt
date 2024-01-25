@@ -87,3 +87,5 @@ Party Meter -> Medidor de Grupo
 ## Historia:
 the curator -> la conservadora
 concession stand -> puesto de comida
+## Save
+suspend data -> Guardado rápido

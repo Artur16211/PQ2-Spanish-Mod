@@ -150,7 +150,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 65 0 0 6][f 3 1 1 0 0 58]斡Muy bien! 斡Entonces d姻janos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040_5 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 2 3 6][f 3 1 1 0 0 59][f 6 1 2 0 0 6][f 6 1 30 0 0]斡Cambiemos esta pel胤cula, igual que la primera![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 2 3 6][f 3 1 1 0 0 59][f 6 1 2 0 0 6][f 6 1 30 0 0 0]斡Cambiemos esta pel胤cula, igual que la primera![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_041 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]S胤.[f 2 7 1 64 2 32][e]
@@ -176,5 +176,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 67]A雨n m茨s, considerando que Doe es el que reproduce estas extra隠as pel胤culas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 70 2 0 1][f 3 1 1 0 0 68][f 6 1 2 0 0 6]斡Entonces est茨 decidido! 斡Vamos a explorar esa pel胤cula, [f 6 1 30 0 0]![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 70 2 0 1][f 3 1 1 0 0 68][f 6 1 2 0 0 6]斡Entonces est茨 decidido! 斡Vamos a explorar esa pel胤cula, [f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]
 

@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nunca pensaron en resolver sus problemas.[n]decidieron qu姻 hacer bas茨ndose en n雨meros[n]arbitrarios.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 0 0 1][f 3 1 1 0 0 4087][f 6 1 2 0 0 4]Pero, 夷por qu姻 Yosukesaurus ten胤a la cabeza[n]de Yosuke?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 0 0 1][f 3 1 1 0 0 4087][f 6 1 2 0 0 4]Pero, 夷por qu姻 Yosukesaurio ten胤a la cabeza[n]de Yosuke?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_010 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Sus personalidades eran similares.[f 2 7 1 20 0 32][e]
@@ -62,7 +62,7 @@
 
 [msg MSG_018 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 3 1 0 3][f 4 6 8 0 0 1][f 3 1 1 0 0 0]Poniendo todo su esfuerzo en leer la habitaci吋n[n]para que siempre puedas seguir con[n]lo que todos los dem茨s est茨n diciendo...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Este enfoque fue el terreno com雨n entre los[n]dos, as胤 que Yosuke-senpai fue lanzado[n]en el papel de Yosukesaurus.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Este enfoque fue el terreno com雨n entre los[n]dos, as胤 que Yosuke-senpai fue lanzado[n]en el papel de Yosukesaurio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 25067]Es la misma raz吋n por la que Kamoshida se[n]convirti吋 en la figura de autoridad en[n]"Kamoshidaman"[n][f 1 3 65535][f 1 1][e]

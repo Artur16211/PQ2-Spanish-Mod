@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 71 12 0 1][f 3 1 1 0 0 0]Um, you said this film is related to[n][f 6 1 29 0 0 0]-kun's power of the wild[n]card, correct?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 3 1 1 0 0 27131][f 6 1 2 0 0 4]夷Qu姻 tal, [f 6 1 29 0 0]? 夷Te sientes[n]diferente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 3 1 1 0 0 27131][f 6 1 2 0 0 4]夷Qu姻 tal, [f 6 1 29 0 0 0]? 夷Te sientes[n]diferente?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_011 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3]No, en realidad no.[f 2 7 1 64 6 32][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ahaha... Ella retrocede r茨pido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 74 12 0 0][f 3 1 1 0 0 0]En cualquier caso, [f 6 1 30 0 0]... T雨 y[n]tus aliados han puesto una maravillosa[n]exhibici吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 3][f 4 6 74 12 0 0][f 3 1 1 0 0 0]En cualquier caso, [f 6 1 30 0 0 0]... T雨 y[n]tus aliados han puesto una maravillosa[n]exhibici吋n.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Tu pelea contra Theo estaba separado de los[n]espect茨culos especiales, pero he preparado[n]una humilde recompensa para ti.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por favor aceptelo m茨s tarde, como muestra[n]de gratitud de nosotros que gobiernan el[n]poder.[n][f 1 3 65535][f 1 1][e]
 

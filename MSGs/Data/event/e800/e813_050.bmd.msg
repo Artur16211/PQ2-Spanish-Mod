@@ -105,5 +105,5 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 0]Lo que significa que tendremos que conseguirle[n]los ingredientes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 28067]Cierto. [f 6 1 30 0 0], siempre que est姻s[n]listo, deber胤amos intentar esa proyecci吋n[n]especial.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 3 1 1 0 0 28067]Cierto. [f 6 1 30 0 0 0], siempre que est姻s[n]listo, deber胤amos intentar esa proyecci吋n[n]especial.[n][f 1 3 65535][f 1 1][e]
 

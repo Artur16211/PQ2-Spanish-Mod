@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 55058]S胤, de hecho... Tanto que es una pena que se[n]haya acabado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 14 1 1][f 3 1 1 0 0 0]Bien hecho, [f 6 1 30 0 0]. 夷Y la pel胤cula?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 14 1 1][f 3 1 1 0 0 0]Bien hecho, [f 6 1 30 0 0 0]. 夷Y la pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 0]La pel胤cula que parec胤a sooty est茨 brillando[n]d姻bilmente...[n][f 1 3 65535][f 1 1][e]

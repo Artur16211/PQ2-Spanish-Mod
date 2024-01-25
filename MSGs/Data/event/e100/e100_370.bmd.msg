@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 24034]夷De d吋nde sacamos una bomba? Eso probablemente tambi姻n afectar胤a a ciudadanos de alrededor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Mmm... 夷C吋mo nos deshacemos de la estatua, [f 6 1 30 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Mmm... 夷C吋mo nos deshacemos de la estatua, [f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_013 top]
 [f 0 5 65278][f 2 1]Chocarla con un cami吋n.[f 2 7 1 64 0 32][e]

@@ -1,0 +1,46 @@
+﻿#Color OPEN-CLOSE - 0 caracteres
+[f 0 1 1] [f 0 1 0]
+[f 0 1 2] [f 0 1 0]
+[f 0 1 3] [f 0 1 0]
+[f 0 1 4] [f 0 1 0]
+[f 0 1 5]
+[f 0 1 8]
+#Nombres 6Nombre/6Apellido
+[f 6 1 12 0 0 0] P4MC
+[f 6 1 13 0 0 0] P4MC
+[f 6 1 15 0 0 0] P3MC
+[f 6 1 16 0 0 0] P3MC
+[f 6 1 26 0 0 0] P3FEMC
+[f 6 1 27 0 0 0] P3FEMC
+[f 6 1 29 0 0 0] P5MC
+[f 6 1 30 0 0 0] P5MC
+
+#Objeto? Min. 8 - 16Caracteres - Max. 21
+[f 4 4 3 0 1350]
+[f 4 4 3 0 1593]
+[f 4 4 3 0 1595]
+[f 4 4 3 0 1596]
+
+#Persona? Min. 8 - Max. 16 Caracteres
+[f 2 4 0] #Persona Name/Num.Ranuras/Yenes?
+[f 2 4 1]
+#Cant. daño?
+[f 2 4 2]
+#Habilidad? Min. 8 - Max. 17 Caracteres
+[f 2 4 3]
+
+#WPN?
+[f 4 4 3 0 1636]
+[f 4 4 3 0 1637]
+[f 4 4 3 0 1638]
+
+#
+[f 4 4 3 0 1333]
+[f 2 5 3 65535 0]
+[f 0 7 0 65535]
+[f 0 7 150 65535]
+## objetos??
+[f 2 5 3 65535 1]
+[f 2 5 3 65535 3]
+[f 3 1 1 0 0 59203]
+[f 2 5 3 65535 2]

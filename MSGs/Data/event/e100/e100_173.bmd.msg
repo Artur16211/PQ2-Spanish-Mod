@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 4][f 3 1 1 0 0 2][f 6 1 2 0 0 4]夷Podr胤a atribuirse tambi姻n la apariencia de[n]esta habitaci吋n a la anomal胤a?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 3]Oye, [f 6 1 30 0 0], pres姻ntanoslas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 3]Oye, [f 6 1 30 0 0 0], pres姻ntanoslas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Justine]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 78 1 0 1][f 4 6 79 0 0 4][f 3 1 1 0 0 4]S胤, y cu姻ntanos algo sobre este cine en el[n]que tambi姻n estamos atrapadas.[n][f 1 3 65535][f 1 1][e]
@@ -171,7 +171,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 53]Pi姻nsalo simplemente como una ayuda para la[n]original.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 72 12 0 1][f 3 1 1 0 0 54]A雨n as胤, 夷dos al mismo tiempo? Bastante[n]impresionante, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 72 12 0 1][f 3 1 1 0 0 54]A雨n as胤, 夷dos al mismo tiempo? Bastante[n]impresionante, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Justine]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 3][f 4 6 78 1 0 1][f 4 6 79 12 0 4][f 3 1 1 0 0 55]Mira esto.[n][f 1 3 65535][f 1 1][e]
@@ -202,7 +202,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 61]El resto de ustedes tambi姻n son capaces de[n]tomar una segundo Persona.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 62][f 6 1 2 0 0 0]夷En serio? 夷斡No s吋lo [f 6 1 30 0 0]!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 62][f 6 1 2 0 0 0]夷En serio? 夷斡No s吋lo [f 6 1 30 0 0 0]!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 63]Obviamente, ese ser胤a el caso en un escenario[n]normal...[n][f 1 3 65535][f 1 1][e]
@@ -238,7 +238,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Principal y Secundaria, eh... 夷Ser姻 capaz[n]de manejarme usando ambos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 76]Bueno, tenemos a [f 6 1 30 0 0] para ayudar[n]con eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 76]Bueno, tenemos a [f 6 1 30 0 0 0] para ayudar[n]con eso...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 77]Al fin y al cabo, es nuestro especialista en[n]utilizar varias personas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 78]En todo caso, esto ampliar茨 nuestras estrategias,[n]as胤 que habr茨 menos que temer, 夷no?[n][f 1 3 65535][f 1 1][e]
 

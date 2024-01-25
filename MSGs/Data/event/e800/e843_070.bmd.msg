@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54035]斡Un carrito fuera del control se preocupa[n]hacia los trabajadores condenados! Pero en el 雨ltimo momento, [f 6 1 30 0 0][n]decide[n]su destino![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54035]斡Un carrito fuera del control se preocupa[n]hacia los trabajadores condenados! Pero en el 雨ltimo momento, [f 6 1 30 0 0 0][n]decide[n]su destino![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]... Tal vez s吋lo fueron dos preguntas, pero[n]pueden haber mostrado una gran comprensi吋n[n]de sus corazones.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Mientras esto era un poco de salida de las[n]proyecciones especiales habituales, disfrut姻[n]sin embargo.[n][f 1 3 65535][f 1 1][e]
 

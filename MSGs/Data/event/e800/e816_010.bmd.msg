@@ -71,5 +71,5 @@
 [f 0 5 65278][f 2 1][f 4 6 14 2 0 3][f 3 1 1 0 0 14046]Cari隠o, me estoy poniendo nervioso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 24044]Salgamos, [f 6 1 30 0 0]. 斡El Gizmo Futurista[n]espera![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 68 12 0 1][f 3 1 1 0 0 24044]Salgamos, [f 6 1 30 0 0 0]. 斡El Gizmo Futurista[n]espera![n][f 1 3 65535][f 1 1][e]
 

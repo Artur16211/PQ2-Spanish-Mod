@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54097]Disculpe, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 12 100 1][f 3 1 1 0 0 54097]Disculpe, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Sabes de esta cosa que es popular entre los[n]j吋venes y la cadera llamados "churros"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Fem Protag]]
@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Son como donas largas y finas cubiertas de[n]canela y az雨car![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 4 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]*chuckle* [f 6 1 30 0 0] 夷eres un gran[n]fan de los dulces?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 4 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19031]*chuckle* [f 6 1 30 0 0 0] 夷eres un gran[n]fan de los dulces?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 0 3][f 3 1 1 0 0 0]Es crujiente en el exterior, s雨per suave en[n]el interior, y lleno de dulce y dulce[n]bondad.[n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 6][f 3 1 1 0 0 0]斡Los churros son tan buenos ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 6 1 6][f 3 1 1 0 0 0]Oh, por favor di que s胤, [f 6 1 30 0 0]![n]斡Te prometo que ser姻 el mejor navegante[n]que pueda ser![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 6 1 6][f 3 1 1 0 0 0]Oh, por favor di que s胤, [f 6 1 30 0 0 0]![n]斡Te prometo que ser姻 el mejor navegante[n]que pueda ser![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 6 1 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 54024]Aprecio la bondad de todos.[n][f 1 3 65535][f 1 1][e]

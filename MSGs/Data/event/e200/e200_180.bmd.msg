@@ -111,7 +111,7 @@
 [msg MSG_034 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 47 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Cuidado! 斡Vienen los depredadores![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Enorme Herb胤voro]]
+[msg MSG_035 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Aaaaaaah! 斡Corran por sus vidas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Dinosaurio Con Auriculares]]

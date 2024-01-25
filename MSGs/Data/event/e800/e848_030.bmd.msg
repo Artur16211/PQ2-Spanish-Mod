@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 3][f 3 1 1 0 0 0]斡Buen trabajo, compa隠ero! 斡Por eso eres la[n]estrella del Equipo de Investigaci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 2 0 6][f 3 1 1 0 0 0]Eso fue impresionante, [f 6 1 12 0 0].[n]Te quedaste tranquilo durante toda esa[n]batalla.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 0 6][f 3 1 1 0 0 0]Eso fue impresionante, [f 6 1 12 0 0 0].[n]Te quedaste tranquilo durante toda esa[n]batalla.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]No, eso fue s吋lo porque ten胤a a todos[n]apoy茨ndome. Espero poder seguir contando[n]contigo.[n][f 1 3 65535][f 1 1][e]

@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 10 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 10]Jaja, supongo que me emocion姻 demasiado...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 6]Pero me hizo muy feliz que todos pelearan a mi lado.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Enorme Herb胤voro]]
+[msg MSG_004 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]*suspiro* Somos compa隠eros, 夷verdad? Es natural que hayamos ayudado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Herb胤voro Inquieto]]

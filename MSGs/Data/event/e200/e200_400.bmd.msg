@@ -4,7 +4,7 @@
 [msg MSG_001 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷No puede ser... perdi吋 ante los humanos?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Enorme Herb胤voro]]
+[msg MSG_002 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 3]Pero es mucho m茨s grande que ellos... Incre胤ble...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 0][f 3 1 1 0 0 44]No quer胤a que me echaran, as胤 que todo lo que pensaba era quedarme con la mayor胤a.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45]Creo que fui demasiado lejos con ustedes, humanos... Lo siento.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_029 [Enorme Herb胤voro]]
+[msg MSG_029 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 4][f 3 1 1 0 0 46]Entonces, todos... Todos sent胤amos lo mismo al respecto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Herb胤voro Inquieto]]
@@ -149,7 +149,7 @@
 [msg MSG_042 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 6]斡T-Tenemos que huir![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_043 [Enorme Herb胤voro]]
+[msg MSG_043 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 4][f 3 1 1 0 0 63][f 6 1 2 0 0 0]Pero, 夷斡d吋nde!? 斡No tenemos una salida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Yosukesaurio]]
@@ -208,6 +208,6 @@
 [f 0 5 65278][f 2 1][f 4 6 34 12 1 0][f 3 1 1 0 0 82][f 6 1 2 0 0 6]斡Despu姻s de todo, finalmente estamos siendo honestos entre nosotros![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 83][f 6 1 2 0 0 1]No hay manera de que abandone a mis compa隠eros ahora, 斡nunca m茨s![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_061 [Enorme Herb胤voro]]
+[msg MSG_061 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 1 0 0 84][f 6 1 2 0 0 0]Espera, est茨s bromeando, 夷斡verdad!?[n][f 1 3 65535][f 1 1][e]
 

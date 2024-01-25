@@ -64,7 +64,7 @@
 [msg MSG_020 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 6][f 3 1 6 0 0 500][f 3 1 1 0 0 20]Incluso cuando ampliamos nuestro alcance, no vimos nada que se pareciera a un para胤so.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Enorme Herb胤voro]]
+[msg MSG_021 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 1 0 3][f 4 6 48 0 1 1][f 3 1 1 0 0 21][f 6 1 2 0 0 2]斡Vaya "para胤so" este... No me hagas re胤r! 斡Hemos sido enga隠ados, todos nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Herb胤voro Malhumorado]]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 1][f 3 1 1 0 0 35]Parece que es un茨nime. As胤 que...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Todos los que piensan que deber胤amos expulsarlo por poner en peligro a la manada, levanten la mano![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_033 [Enorme Herb胤voro]]
+[msg MSG_033 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 2 1 4][f 3 1 1 0 0 37]斡S胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Herb胤voro Inquieto]]
@@ -117,7 +117,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 40]斡E-Esperen un momento![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 0]Si me echan... 夷Qu姻 se supone que har姻?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_037 [Enorme Herb胤voro]]
+[msg MSG_037 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 48 0 0 1][f 3 1 1 0 0 42][f 6 1 2 0 0 4]Esta manada siempre ha seguido la regla de la mayor胤a. 夷No lo recuerdas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Herb胤voro Inquieto]]
@@ -158,7 +158,7 @@
 [msg MSG_048 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 0][f 3 1 1 0 0 55][f 6 1 2 0 0 6]斡Somos presas indefensas! 斡Nunca sobreviviremos si no nos mantenemos y actuamos juntos![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_049 [Enorme Herb胤voro]]
+[msg MSG_049 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 1 0 0 56]夷Puedes entender siquiera lo que se siente vivir constantemente con miedo a los carn胤voros?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57][f 6 1 2 0 0 6]Los que se comportan de forma ego胤sta deben ser expulsados. 斡Es la 雨nica manera de sobrevivir![n][f 1 3 65535][f 1 1][e]
 
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59]Sin embargo, son capaces de utilizar m姻todos de autopreservaci吋n adem茨s de expulsar a quienes causan problemas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 60][f 6 1 2 0 0 4]夷No ser胤a mejor elegir un medio de supervivencia en el que nadie sea sacrificado?[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_051 [Enorme Herb胤voro]]
+[msg MSG_051 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 0][f 3 1 1 0 0 61][f 6 1 2 0 0 0]Est茨 bien, 夷y cu茨les son esos medios?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62]No es que queramos hacerlo... 斡Esta es la 雨nica manera en que podemos protegernos![n][f 1 3 65535][f 1 1][e]
 
@@ -181,7 +181,7 @@
 [msg MSG_054 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 34 16 1 0][f 3 1 1 0 0 66][f 6 1 2 0 0 6]Yo... 斡No quise que esto pasara![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_055 [Enorme Herb胤voro]]
+[msg MSG_055 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 12 0 4][f 3 1 1 0 0 67]No importa, ya est茨 decidido. Tomamos una votaci吋n y la mayor胤a decidi吋 expulsarte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Yosukesaurio]]
@@ -190,7 +190,7 @@
 [msg MSG_057 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 1 0 0 69][f 6 1 2 0 0 6]Si est茨s tan decidido a no ser expulsado, 斡entonces demuestra que realmente est茨s de nuestro lado![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_058 [Enorme Herb胤voro]]
+[msg MSG_058 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 0][f 3 1 1 0 0 70][f 6 1 2 0 0 6]斡Los humanos son quienes nos enga隠aron para venir aqu胤, con ese terrible libro![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 71][f 6 1 2 0 0 0]Si compartes la misma opini吋n, 夷no deber胤as poder hacer que esos humanos all胤 paguen por ello?[n][f 1 3 65535][f 1 1][e]
 

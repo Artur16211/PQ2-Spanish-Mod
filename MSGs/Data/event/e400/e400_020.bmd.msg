@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]斡Y todos volveremos juntos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 5 12 0 1][f 3 1 1 0 0 18]No es necesario que te preocupes, Nagi.[n]夷Verdad, [f 6 1 30 0 0]?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 5 12 0 1][f 3 1 1 0 0 18]No es necesario que te preocupes, Nagi.[n]夷Verdad, [f 6 1 30 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_012 top]
 [f 0 5 65278][f 2 1]Por supuesto.[f 2 7 1 64 2 32][e]

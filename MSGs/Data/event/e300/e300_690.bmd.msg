@@ -11,11 +11,11 @@
 [msg MSG_003 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 3][f 3 1 1 0 0 5]Ese timbre...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Intercomunicaci吋n De Teatro]]
+[msg MSG_004 [Intercomunicaci吋n Del Teatro]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 9 0 0 1]Tenemos un anuncio para nuestros clientes.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7][f 6 1 9 0 0 1]Una nueva pel胤cula comenzar茨 a aparecer en[n]el Cine 4 moment茨neamente. Repito...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Intercomunicaci吋n De Teatro]]
+[msg MSG_005 [Intercomunicaci吋n Del Teatro]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8][f 6 1 9 0 0 1]Una nueva pel胤cula... empezar茨... mostrando...[n]Cine 4...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9][f 6 1 9 0 0 1]Por favor... ven a ver la pel胤cula... no[n]importa qu姻...[n][f 1 3 65535][f 1 1][e]
 

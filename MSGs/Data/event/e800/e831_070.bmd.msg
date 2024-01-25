@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0]Pero s胤, tienen algo sobre ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 2 1 0 1][f 4 6 16 4 1 4][f 3 1 1 0 0 0][f 6 1 15 0 0 0] es muy maduro para su edad, pero parece[n]que usted tambi姻n, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 2 1 0 1][f 4 6 16 4 1 4][f 3 1 1 0 0 0][f 6 1 15 0 0 0] es muy maduro para su edad, pero parece[n]que usted tambi姻n, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 0]Conoces a tanta gente y lugares que no.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
@@ -31,7 +31,7 @@
 
 [msg MSG_008 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 12 0 4][f 3 1 1 0 0 24078]Es dif胤cil creer que haya venido a Tokio hace[n]medio a隠o.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ver [f 6 1 30 0 0 0] me hace sentir que[n]deber胤a salir m茨s a menudo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ver a [f 6 1 30 0 0 0] me hace sentir que[n]deber胤a salir m茨s a menudo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 16043][f 6 1 2 0 0 4]夷Eh? 夷En serio?[n][f 1 3 65535][f 1 1][e]

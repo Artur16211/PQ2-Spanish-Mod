@@ -482,7 +482,7 @@
 [f 0 5 65278][f 2 1]Vamos, 夷podr胤an relajarse?[n][f 1 2 80][e]
 
 [msg town_bg01_RYUJI_mes03]
-[f 0 5 65278][f 2 1]Creo que [f 6 1 30 0 0] y [f 6 1 27 0 0] se[n]llevar胤an muy bien.[n][f 1 2 180][e]
+[f 0 5 65278][f 2 1]Creo que [f 6 1 30 0 0 0] y [f 6 1 27 0 0 0] se[n]llevar胤an muy bien.[n][f 1 2 180][e]
 
 [msg town_bg01_MONA_mes01]
 [f 0 5 65278][f 2 1]斡Gah, casi me haces derramarlo![n][f 1 2 65][e]
@@ -902,7 +902,7 @@
 [f 0 5 65278][f 2 1]斡Hraaaaah! 斡Aqu胤 viene! 斡Poder femenino,[n]desatado![n][f 1 2 95][e]
 
 [msg town_bg11_CHIE_mes03]
-[f 0 5 65278][f 2 1]Hrgh, tengo la boca seca...{0A}斡Si esto fuera[n]carne, ganar胤a![n][f 1 2 130][e]
+[f 0 5 65278][f 2 1]Hrgh, tengo la boca seca... 斡Si esto fuera[n]carne, ganar胤a![n][f 1 2 130][e]
 
 [msg town_bg11_YUKARI_mes01]
 [f 0 5 65278][f 2 1]夷C吋mo pueden comer tanto?[n][f 1 2 75][e]

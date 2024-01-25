@@ -109,7 +109,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 39][f 6 1 2 0 0 9]Nosotros, los humanos, parecemos tener[n]dificultades para acercarnos a lo desconocido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 12 0 1][f 3 1 1 0 0 40]Caray... 夷En serio, chicos? [f 6 1 30 0 0],[n]t雨 deber胤as saltar primero. 斡Haznos sentir[n]orgullosos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 12 0 1][f 3 1 1 0 0 40]Caray... 夷En serio, chicos? [f 6 1 30 0 0 0],[n]t雨 deber胤as saltar primero. 斡Haznos sentir[n]orgullosos![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_033 top]
 [f 0 5 65278][f 2 1]D姻jamelo a m胤.[f 2 7 1 64 2 32][e]
@@ -129,7 +129,7 @@
 
 [msg MSG_037 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 1][f 3 1 1 0 0 46][f 6 1 2 0 0 6]夷Por qu姻 darle tanto suspenso? 斡Esto no es[n]el fin de una pel胤cula infantil![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Lo siento, [f 6 1 30 0 0], tienes que tomar[n]el salto de fe como nuestro l胤der.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Lo siento, [f 6 1 30 0 0 0], tienes que tomar[n]el salto de fe como nuestro l胤der.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 70 2 0 1][f 3 1 1 0 0 48]Est茨 decidido.[n]斡Vamos [f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]

@@ -136,7 +136,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 45][f 6 1 2 0 0 6]Bueno, 斡lo hice sin pensar! Y, no tengo ni[n]idea de por qu姻...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 68 0 0 0][f 3 1 1 0 0 47]Si son conocidas de [f 6 1 30 0 0], creo que[n]podemos confiar en ellas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 68 0 0 0][f 3 1 1 0 0 47]Si son conocidas de [f 6 1 30 0 0 0], creo que[n]podemos confiar en ellas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 48]Estar姻 bien. Vamos, no podemos hacerlas[n]esperar.[n][f 1 3 65535][f 1 1][e]

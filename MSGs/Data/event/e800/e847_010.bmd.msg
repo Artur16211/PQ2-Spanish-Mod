@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Qu姻 tranquilizador. Hay, sin embargo, una[n]condici吋n que me gustar胤a se隠alar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_1 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]El billete est茨 marcado con un nombre. Usted[n]ve aqu胤: "Cast: [f 6 1 30 0 0]."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]El billete est茨 marcado con un nombre. Usted[n]ve aqu胤: "Cast: [f 6 1 30 0 0 0]."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 2 1 3][f 3 1 1 0 0 27018][f 6 1 2 0 0 4]夷Qu姻 significa eso?[n][f 1 3 65535][f 1 1][e]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 69 0 0 6][f 3 1 1 0 0 0]夷Una proyecci吋n que especifica parte de su[n]yeso? 夷Qu姻 prop吋sito crees que sirve?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 72 12 1 1][f 3 1 1 0 0 28016][f 6 1 2 0 0 4]夷Es un reto para [f 6 1 30 0 0]...? 夷O tal[n]vez alg雨n tipo de trampa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 12 1 1][f 3 1 1 0 0 28016][f 6 1 2 0 0 4]夷Es un reto para [f 6 1 30 0 0 0]...? 夷O tal[n]vez alg雨n tipo de trampa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 12 0 1][f 3 1 1 0 0 0]Estar aqu胤 no nos ayudar茨 a resolverlo. Sea[n]lo que sea, estar茨 bien![n][f 1 3 65535][f 1 1][e]

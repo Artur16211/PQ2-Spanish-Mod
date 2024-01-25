@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1]Encuentra un interruptor y pasa por las puertas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__4]
-[f 0 5 65278][f 2 1]Persigue a Yosukesaurus.[n][e]
+[f 0 5 65278][f 2 1]Persigue a Yosukesaurio.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__5]
 [f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras avanzas.[n][e]

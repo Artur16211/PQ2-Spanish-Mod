@@ -34,7 +34,7 @@
 [msg MSG_010 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 8][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 11]Si ese es el caso, entonces lo cambiaremos[n]tantas veces como sea necesario.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Yosukesaurus]]
+[msg MSG_011 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 86 1 2 9][f 3 1 1 0 0 12][f 6 1 3 0 0 2]夷Por qu姻 tienes que seguir molestando al[n]grupo? Todo el mundo dice que va bien como[n]est茨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
@@ -43,7 +43,7 @@
 [msg MSG_013 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 12 0 8][f 3 1 1 0 0 14]斡S胤! Si todo el mundo se quita durante una[n]luz roja, obviamente causar茨 una enorme[n]acumulaci吋n![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Yosukesaurus]]
+[msg MSG_014 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15][f 6 1 3 0 0 2]夷Qu姻? No importa si el reba隠o est茨 bien o[n]mal...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 2 0 0 6][f 6 1 3 0 0 2]斡Es m茨s importante tomar la pista![n][f 1 3 65535][f 1 1][e]
 
@@ -53,14 +53,14 @@
 [msg MSG_016 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 8][f 3 1 1 0 0 18][f 6 1 2 0 0 6]Ir con el flujo, mientras sabes lo que est茨s[n]haciendo est茨 mal? 斡Eso es lo m茨s m胤nimo[n]que puedes conseguir![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_017 [Yosukesaurus]]
+[msg MSG_017 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 3 0 0 2]夷Eres de verdad? 斡Ustedes en serio no pueden[n]tomar una pista![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 11 0 0][f 4 6 20 1 0 8]Las hormigas no tienen nada que ver con eso.[f 2 7 1 20 6 32][e]
 [f 0 5 65278][f 2 1]Me est茨s lastimando las orejas.[f 2 7 1 20 0 32][e]
 
-[msg MSG_019 [Yosukesaurus]]
+[msg MSG_019 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 86 2 2 0][f 3 1 1 0 0 20][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Qu姻 dolor! Si a雨n no lo consigues despu姻s[n]de que te lo haya deletreado, entonces...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Rise]]

@@ -250,7 +250,7 @@
 
 [msg MSG_077 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 24031]La olla se ha elevado a la temperatura adecuada, y la carne tambi姻n est茨 lista para cocinar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 24 16 1 0][f 3 1 1 0 0 0]Joker, [f 6 1 12 0 0 0] dejamos el resto en sus h茨biles manos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 16 1 0][f 3 1 1 0 0 0]Joker, [f 6 1 12 0 0 0] dejamos el resto en sus manos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 0]Supongo que cocinaremos las setas primero. 夷Qu姻 deber胤amos hacer con ellas?[n][f 1 3 65535][f 1 1][e]

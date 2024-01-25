@@ -1,7 +1,7 @@
-[msg MSG_000 [Yosukesaurus]]
+[msg MSG_000 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 910][f 6 1 3 0 0 2]夷Por qu姻 est茨s luchando tanto por alguien m茨s? 斡Qu姻 molestia...[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_000_5 [Yosukesaurus]]
+[msg MSG_000_5 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 911][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 2]斡Toma una indirecta de una vez y muere![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Naoto]]

@@ -61,5 +61,5 @@
 
 [msg MSG_019 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 16029]Haha, suena como el t胤tulo para el episodio[n]de la pr吋xima semana.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me estoy excitando mucho. Vamos, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me estoy excitando mucho. Vamos, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 

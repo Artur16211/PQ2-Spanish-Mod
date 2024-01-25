@@ -4,7 +4,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 1][f 3 1 1 0 0 4029][f 6 1 2 0 0 7]斡Estoy listo para vencer a la mierda de[n]cualquier cosa! 夷Sabes a qu姻 me refiero?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Creo que podr胤a brillar si me pones al[n]frente![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0]Lo siento si parezco exagerado. 斡Estoy... en[n]muy buen estado hoy![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Lo dejar姻 en eso, [f 6 1 30 0 0]. 斡Gracias[n]de antemano![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Lo dejar姻 en eso, [f 6 1 30 0 0 0]. 斡Gracias[n]de antemano![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 23073]Chie est茨 sacando todas las paradas. Apuesto[n]a que lo matar茨 en combate hoy.[n]斡Literalmente![n][f 1 3 65535][f 1 1][e]

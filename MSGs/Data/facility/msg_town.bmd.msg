@@ -10,7 +10,7 @@
 
 [msg town_warning_both [Rise]]
 [f 0 5 65278][f 2 1]Senpai, ten cuidado. Hay alguien en tu grupo que no tiene una Persona Secundaria.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Y parece que ni siquiera llevas[n]ninguna [f 4 4 3 0 1333]s contigo. 夷Est茨s seguro de que est茨s listo?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Y parece que ni siquiera llevas [f 4 4 3 0 1333]s contigo. 夷Est茨s seguro de que est茨s listo?[n][f 1 1][e]
 
 [msg town_goukon_event_p3 [Fuuka]]
 [f 0 5 65278][f 2 1]L胤der, esperemos antes de regresar a ese laberinto. Deber胤amos ir a revisar el siguiente por ahora.[n][f 1 1][e]

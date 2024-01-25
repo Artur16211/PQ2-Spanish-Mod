@@ -139,7 +139,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 49]As胤 que crees en la belleza de la tradici吋n[n]tambi姻n... Como quieras. Voy a preparar[n]uno ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 2 0 1][f 3 1 1 0 0 50][f 6 1 2 0 0 6]斡Welp, todo lo que queda es nuestro 茨nimo[n]habitual! 斡T吋malo, [f 6 1 30 0 0]![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 2 0 1][f 3 1 1 0 0 50][f 6 1 2 0 0 6]斡Welp, todo lo que queda es nuestro 茨nimo[n]habitual! 斡T吋malo, [f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_046 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]斡Es hora del espect茨culo![f 2 7 1 64 8 1][e]

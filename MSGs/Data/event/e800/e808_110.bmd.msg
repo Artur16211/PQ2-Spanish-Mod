@@ -15,7 +15,7 @@
 
 [msg MSG_004 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 4][f 3 1 1 0 0 8024]Gracias. Me hace feliz o胤rte decir eso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por supuesto, no debemos olvidar que[n]tambi姻n tuvimos su ayuda, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por supuesto, no debemos olvidar que[n]tambi姻n tuvimos su ayuda, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 0 1][f 3 1 1 0 0 26045]斡S胤! 斡Quiz茨 podamos hacer algo![n][f 1 3 65535][f 1 1][e]

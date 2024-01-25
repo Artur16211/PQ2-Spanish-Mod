@@ -408,6 +408,44 @@ def run_program():
         # except ValueError:
         # print("'setn' no encontrado en la ruta.")
 
+        # fix [n] in keys
+        fixnkeys_dict = {
+            '[f 6 1 12 0 0 0]': 'P4MCN1',  # Nombres
+            '[f 6 1 13 0 0 0]': 'P4MCN2',
+            '[f 6 1 15 0 0 0]': 'P3MCN1',
+            '[f 6 1 16 0 0 0]': 'P3MCN2',
+            '[f 6 1 26 0 0 0]': 'P3FEM1',
+            '[f 6 1 27 0 0 0]': 'P3FEM2',
+            '[f 6 1 29 0 0 0]': 'P5MCN1',
+            '[f 6 1 30 0 0 0]': 'P5MCN2',
+            '[f 4 4 3 0 1333]': 'OBJETON5',  # Talue-Go
+            '[f 4 4 3 0 1350]': 'OBJETONUMEROOBJ1',  # Objetos
+            '[f 4 4 3 0 1593]': 'OBJETONUMEROOBJ2',
+            '[f 4 4 3 0 1595]': 'OBJETONUMEROOBJ3',
+            '[f 4 4 3 0 1596]': 'OBJETONUMEROOBJ4',
+            '[f 2 5 3 65535 0]': 'OBJETONUMEROOBJ5',
+            '[f 0 7 0 65535]': 'OBJETONUMEROOBJ6',
+            '[f 0 7 150 65535]': 'OBJETONUMEROOBJ7',
+            '[f 2 5 3 65535 1]': 'OBJETONUMEROOBJ8',
+            '[f 2 5 3 65535 2]': 'OBJETONUMEROOBJ9',
+            '[f 2 5 3 65535 3]': 'OBJETONUMEROOBJ0',
+            '[f 3 1 1 0 0 59203]': 'OBJETONUMEROOBJX',
+            '[f 4 4 3 0 1636]': 'WEAPONNUMERO1',  # WPN?
+            '[f 4 4 3 0 1637]': 'WEAPONNUMERO2',
+            '[f 4 4 3 0 1638]': 'WEAPONNUMERO3',
+            '[f 2 4 0]': 'PERSONANAMENUM1',  # Persona/NumRanuras/Yenes?
+            '[f 2 4 1]': 'PERSONANAMENUM2',
+            '[f 2 4 2]': 'DMG1',  # Cant. daño?
+            '[f 2 4 3]': 'PERSONASKILLNUM1',  # SKILL?
+            '[f 0 1 1]': '~',  # Colores
+            '[f 0 1 2]': '^',
+            '[f 0 1 3]': '@',
+            '[f 0 1 4]': '{',
+            '[f 0 1 0]': '}',  # Cerrar color
+            '[f 0 1 5]': 'Ž',
+            '[f 0 1 8]': 'Š',
+        }
+
         for key, value in mod_msgs_dict.items():
             if value is not None:
                 # delete all [n] from the lines
@@ -416,6 +454,9 @@ def run_program():
                 # si no empieza por #
                 if not value.startswith("# "):
                     if setn != 1:
+                        # replace the keys in the lines
+                        value = value.replace("[f 6 1 12 0 0 0]", "P4MCN1").replace("[f 6 1 13 0 0 0]", "P4MCN2").replace("[f 6 1 15 0 0 0]", "P3MCN1").replace("[f 6 1 16 0 0 0]", "P3MCN2").replace("[f 6 1 26 0 0 0]", "P3FEM1").replace("[f 6 1 27 0 0 0]", "P3FEM2").replace("[f 6 1 29 0 0 0]", "P5MCN1").replace("[f 6 1 30 0 0 0]", "P5MCN2").replace("[f 4 4 3 0 1333]", "OBJETON5").replace("[f 4 4 3 0 1350]", "OBJETONUMEROOBJ1").replace("[f 4 4 3 0 1593]", "OBJETONUMEROOBJ2").replace("[f 4 4 3 0 1595]", "OBJETONUMEROOBJ3").replace("[f 4 4 3 0 1596]", "OBJETONUMEROOBJ4").replace("[f 2 5 3 65535 0]", "OBJETONUMEROOBJ5").replace("[f 0 7 0 65535]", "OBJETONUMEROOBJ6").replace("[f 0 7 150 65535]", "OBJETONUMEROOBJ7").replace(
+                            "[f 2 5 3 65535 1]", "OBJETONUMEROOBJ8").replace("[f 2 5 3 65535 2]", "OBJETONUMEROOBJ9").replace("[f 2 5 3 65535 3]", "OBJETONUMEROOBJ0").replace("[f 3 1 1 0 0 59203]", "OBJETONUMEROOBJX").replace("[f 4 4 3 0 1636]", "WEAPONNUMERO1").replace("[f 4 4 3 0 1637]", "WEAPONNUMERO2").replace("[f 4 4 3 0 1638]", "WEAPONNUMERO3").replace("[f 2 4 0]", "PERSONANAMENUM1").replace("[f 2 4 1]", "PERSONANAMENUM2").replace("[f 2 4 2]", "DMG1").replace("[f 2 4 3]", "PERSONASKILLNUM1").replace("[f 0 1 1]", "~").replace("[f 0 1 2]", "^").replace("[f 0 1 3]", "@").replace("[f 0 1 4]", "{").replace("[f 0 1 0]", "}").replace("[f 0 1 5]", "Ž").replace("[f 0 1 8]", "Š")
                         # obtener el nombre de la carpeta, ya sea: "battle, camp, dungeon, event, facility, init, shared, tutorial" dependiendo de la carpeta en la que se encuentre el archivo .msg, se aplicara un intervalo diferente
                         # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
                         if folder_name_msg == "battle":
@@ -423,236 +464,238 @@ def run_program():
                             if path_parts[index_setn + 2] == "event" or path_parts[index_setn + 2] == "combination":
                                 # print("La carpeta es battle/event, usando intervalo 43")
 
-                                def insert_n_character(line, interval=43):
+                                def insert_n_character(line, interval=42):
                                     target_position = interval
-                                    if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                    if len(line) <= target_position + 3:
                                         return line
 
-                                    left_bracket = line.rfind(
-                                        '[', 0, target_position)
-                                    right_bracket = line.find(
-                                        ']', target_position)
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                            insert_position = space_after
 
                                     line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
-                                    return insert_n_character(line, interval=interval + 43)
+                                        '[n]' + line[insert_position+1:]
+
+                                    return insert_n_character(line, interval=interval + 42)
 
                                 value = insert_n_character(value)
                             else:
                                 # print("La carpeta es battle (navegadores), usando intervalo 36")
 
                                 # Los caracteres no deben pasar de 37, por eso se usa un intervalo de 34
-                                def insert_n_character(line, interval=32):
+                                def insert_n_character(line, interval=38):
                                     target_position = interval
-                                    if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                    if len(line) <= target_position + 3:
                                         return line
 
-                                    left_bracket = line.rfind(
-                                        '[', 0, target_position)
-                                    right_bracket = line.find(
-                                        ']', target_position)
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                            insert_position = space_after
 
                                     line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    # Devolver solo la linea, para que no se repita el [n] mas de una vez
+                                        '[n]' + line[insert_position+1:]
+
                                     return line
 
                                 value = insert_n_character(value)
                         elif folder_name_msg == "camp":
                             # print("La carpeta es camp, usando intervalo 43")
 
-                            def insert_n_character(line, interval=43):
+                            def insert_n_character(line, interval=42):
                                 target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                if len(line) <= target_position + 3:
                                     return line
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                space_before = line.rfind(
+                                    ' ', 0, target_position)
+                                space_after = line.find(' ', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if space_before == -1 and space_after == -1:
+                                    return line
+
+                                if space_before == -1:
+                                    insert_position = space_after
+                                elif space_after == -1:
+                                    insert_position = space_before
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    # Encuentra el espacio más cercano hacia atrás
+                                    space_before_distance = target_position - space_before
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+                                    # Encuentra el espacio más cercano hacia adelante
+                                    space_after_distance = space_after - target_position
+
+                                    # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                    if space_before_distance <= space_after_distance:
+                                        insert_position = space_before
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                        insert_position = space_after
 
                                 line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
-                                return insert_n_character(line, interval=interval + 43)
+                                    '[n]' + line[insert_position+1:]
+
+                                return insert_n_character(line, interval=interval + 42)
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "dungeon":
                             if path_parts[index_setn + 2] == "script" and path_parts[index_setn + 3] == "support":
                                 # print("La carpeta es dungeon, usando intervalo 43") 32
 
-                                def insert_n_character(line, interval=32):
+                                def insert_n_character(line, interval=38):
                                     target_position = interval
-                                    if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                    if len(line) <= target_position + 3:
                                         return line
 
-                                    left_bracket = line.rfind(
-                                        '[', 0, target_position)
-                                    right_bracket = line.find(
-                                        ']', target_position)
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                            insert_position = space_after
 
                                     line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
+                                        '[n]' + line[insert_position+1:]
+
                                     return line
                                 value = insert_n_character(value)
                             else:
-                                def insert_n_character(line, interval=43):
+                                def insert_n_character(line, interval=42):
                                     target_position = interval
-                                    if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                    if len(line) <= target_position + 3:
                                         return line
 
-                                    left_bracket = line.rfind(
-                                        '[', 0, target_position)
-                                    right_bracket = line.find(
-                                        ']', target_position)
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                            insert_position = space_after
 
                                     line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    return insert_n_character(line, interval=interval + 43)
-                            value = insert_n_character(value)
+                                        '[n]' + line[insert_position+1:]
+
+                                    return insert_n_character(line, interval=interval + 42)
+                                value = insert_n_character(value)
                         elif folder_name_msg == "event":
                             # print("La carpeta es event, usando intervalo 43")
 
                             # Los caracteres no deben pasar de 47, por eso se usa un intervalo de 43
-                            def insert_n_character(line, interval=43):
+                            def insert_n_character(line, interval=42):
                                 target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                if len(line) <= target_position + 3:
                                     return line
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                space_before = line.rfind(
+                                    ' ', 0, target_position)
+                                space_after = line.find(' ', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if space_before == -1 and space_after == -1:
+                                    return line
+
+                                if space_before == -1:
+                                    insert_position = space_after
+                                elif space_after == -1:
+                                    insert_position = space_before
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    # Encuentra el espacio más cercano hacia atrás
+                                    space_before_distance = target_position - space_before
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+                                    # Encuentra el espacio más cercano hacia adelante
+                                    space_after_distance = space_after - target_position
+
+                                    # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                    if space_before_distance <= space_after_distance:
+                                        insert_position = space_before
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                        insert_position = space_after
 
                                 line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
-                                return insert_n_character(line, interval=interval + 43)
+                                    '[n]' + line[insert_position+1:]
+
+                                return insert_n_character(line, interval=interval + 42)
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "facility":
@@ -660,157 +703,198 @@ def run_program():
                                 # print("La carpeta es battle (navegadores), usando intervalo 36")
 
                                 # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
-                                def insert_n_character(line, interval=32):
+                                def insert_n_character(line, interval=38):
                                     target_position = interval
-                                    if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                    if len(line) <= target_position + 3:
                                         return line
 
-                                    left_bracket = line.rfind(
-                                        '[', 0, target_position)
-                                    right_bracket = line.find(
-                                        ']', target_position)
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                            insert_position = space_after
 
                                     line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    # Devolver solo la linea, para que no se repita el [n] mas de una vez
+                                        '[n]' + line[insert_position+1:]
+
                                     return line
 
                                 value = insert_n_character(value)
                             else:
                                 # print("La carpeta es facility, usando intervalo 43")
-                                def insert_n_character(line, interval=43):
+                                def insert_n_character(line, interval=42):
                                     target_position = interval
-                                    if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                    if len(line) <= target_position + 3:
                                         return line
 
-                                    left_bracket = line.rfind(
-                                        '[', 0, target_position)
-                                    right_bracket = line.find(
-                                        ']', target_position)
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
 
-                                    # check if the target position is inside a bracket
-                                    if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                        insert_position = right_bracket + 1
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        left_space = line.rfind(
-                                            ' ', 0, target_position)
-                                        right_space = line.find(
-                                            ' ', target_position)
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
 
-                                        if left_space == -1 and right_space == -1:
-                                            return line
-                                        if left_space == -1:
-                                            insert_position = right_space
-                                        elif right_space == -1:
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            if abs(target_position - left_space) <= abs(right_space - target_position):
-                                                insert_position = left_space + 1
-                                            else:
-                                                insert_position = right_space
+                                            insert_position = space_after
 
                                     line = line[:insert_position] + \
-                                        '[n]' + line[insert_position:]
-                                    return insert_n_character(line, interval=interval + 43)
+                                        '[n]' + line[insert_position+1:]
+
+                                    return insert_n_character(line, interval=interval + 42)
 
                                 value = insert_n_character(value)
                         elif folder_name_msg == "init":
                             # print("La carpeta es init, usando intervalo 40")
 
                             # Los caracteres no deben pasar de 45, por eso se usa un intervalo de 40
-                            def insert_n_character(line, interval=42):
-                                target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
-                                    return line
+                            if path_parts[index_setn + 2] == "dataQuestStory.bmd.msg":
+                                def insert_n_character(line, interval=42):
+                                    target_position = interval
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                    if len(line) <= target_position + 2:
+                                        return line
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
-                                else:
-                                    left_space = line.rfind(
+                                    space_before = line.rfind(
                                         ' ', 0, target_position)
-                                    right_space = line.find(
+                                    space_after = line.find(
                                         ' ', target_position)
 
-                                    if left_space == -1 and right_space == -1:
+                                    if space_before == -1 and space_after == -1:
                                         return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
+
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
                                         else:
-                                            insert_position = right_space
+                                            insert_position = space_after
 
-                                line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Devolver solo la linea, para que no se repita el [n] mas de una vez
-                                return line
+                                    line = line[:insert_position] + \
+                                        '[n]' + line[insert_position+1:]
 
-                            value = insert_n_character(value)
+                                    return insert_n_character(line, interval=interval + 42)
+
+                                value = insert_n_character(value)
+                            else:
+                                def insert_n_character(line, interval=43):
+                                    target_position = interval
+
+                                    if len(line) <= target_position + 3:
+                                        return line
+
+                                    space_before = line.rfind(
+                                        ' ', 0, target_position)
+                                    space_after = line.find(
+                                        ' ', target_position)
+
+                                    if space_before == -1 and space_after == -1:
+                                        return line
+
+                                    if space_before == -1:
+                                        insert_position = space_after
+                                    elif space_after == -1:
+                                        insert_position = space_before
+                                    else:
+                                        # Encuentra el espacio más cercano hacia atrás
+                                        space_before_distance = target_position - space_before
+
+                                        # Encuentra el espacio más cercano hacia adelante
+                                        space_after_distance = space_after - target_position
+
+                                        # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                        if space_before_distance <= space_after_distance:
+                                            insert_position = space_before
+                                        else:
+                                            insert_position = space_after
+
+                                    line = line[:insert_position] + \
+                                        '[n]' + line[insert_position+1:]
+
+                                    return line
+
+                                value = insert_n_character(value)
                         elif folder_name_msg == "shared":
                             # print("La carpeta es shared, usando intervalo 43")
 
                             def insert_n_character(line, interval=43):
                                 target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                if len(line) <= target_position + 3:
                                     return line
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                space_before = line.rfind(
+                                    ' ', 0, target_position)
+                                space_after = line.find(' ', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if space_before == -1 and space_after == -1:
+                                    return line
+
+                                if space_before == -1:
+                                    insert_position = space_after
+                                elif space_after == -1:
+                                    insert_position = space_before
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    # Encuentra el espacio más cercano hacia atrás
+                                    space_before_distance = target_position - space_before
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+                                    # Encuentra el espacio más cercano hacia adelante
+                                    space_after_distance = space_after - target_position
+
+                                    # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                    if space_before_distance <= space_after_distance:
+                                        insert_position = space_before
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                        insert_position = space_after
 
                                 line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
+                                    '[n]' + line[insert_position+1:]
+
                                 return insert_n_character(line, interval=interval + 43)
 
                             value = insert_n_character(value)
@@ -820,36 +904,37 @@ def run_program():
                             # Los caracteres no deben pasar de 56, por eso se usa un intervalo de 52
                             def insert_n_character(line, interval=52):
                                 target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                if len(line) <= target_position + 3:
                                     return line
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(']', target_position)
+                                space_before = line.rfind(
+                                    ' ', 0, target_position)
+                                space_after = line.find(' ', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if space_before == -1 and space_after == -1:
+                                    return line
+
+                                if space_before == -1:
+                                    insert_position = space_after
+                                elif space_after == -1:
+                                    insert_position = space_before
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    # Encuentra el espacio más cercano hacia atrás
+                                    space_before_distance = target_position - space_before
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+                                    # Encuentra el espacio más cercano hacia adelante
+                                    space_after_distance = space_after - target_position
+
+                                    # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                    if space_before_distance <= space_after_distance:
+                                        insert_position = space_before
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                        insert_position = space_after
 
                                 line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
+                                    '[n]' + line[insert_position+1:]
+
                                 return insert_n_character(line, interval=interval + 52)
 
                             value = insert_n_character(value)
@@ -857,38 +942,37 @@ def run_program():
                             # print("La carpeta no coincide con ninguna, usando intervalo 43, al igual que en event")
                             def insert_n_character(line, interval=43):
                                 target_position = interval
-                                if len(line) <= target_position or len(line) <= target_position + 2:
+
+                                if len(line) <= target_position + 3:
                                     return line
 
-                                left_bracket = line.rfind(
-                                    '[', 0, target_position)
-                                right_bracket = line.find(
-                                    ']', target_position)
+                                space_before = line.rfind(
+                                    ' ', 0, target_position)
+                                space_after = line.find(' ', target_position)
 
-                                # check if the target position is inside a bracket
-                                if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                    insert_position = right_bracket + 1
+                                if space_before == -1 and space_after == -1:
+                                    return line
+
+                                if space_before == -1:
+                                    insert_position = space_after
+                                elif space_after == -1:
+                                    insert_position = space_before
                                 else:
-                                    left_space = line.rfind(
-                                        ' ', 0, target_position)
-                                    right_space = line.find(
-                                        ' ', target_position)
+                                    # Encuentra el espacio más cercano hacia atrás
+                                    space_before_distance = target_position - space_before
 
-                                    if left_space == -1 and right_space == -1:
-                                        return line
-                                    if left_space == -1:
-                                        insert_position = right_space
-                                    elif right_space == -1:
-                                        insert_position = left_space + 1
+                                    # Encuentra el espacio más cercano hacia adelante
+                                    space_after_distance = space_after - target_position
+
+                                    # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                    if space_before_distance <= space_after_distance:
+                                        insert_position = space_before
                                     else:
-                                        if abs(target_position - left_space) <= abs(right_space - target_position):
-                                            insert_position = left_space + 1
-                                        else:
-                                            insert_position = right_space
+                                        insert_position = space_after
 
                                 line = line[:insert_position] + \
-                                    '[n]' + line[insert_position:]
-                                # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
+                                    '[n]' + line[insert_position+1:]
+
                                 return insert_n_character(line, interval=interval + 43)
 
                             value = insert_n_character(value)
@@ -898,38 +982,36 @@ def run_program():
 
                         def insert_n_character(line, interval=500):
                             target_position = interval
-                            if len(line) <= target_position or len(line) <= target_position + 2:
+
+                            if len(line) <= target_position + 3:
                                 return line
 
-                            left_bracket = line.rfind(
-                                '[', 0, target_position)
-                            right_bracket = line.find(
-                                ']', target_position)
+                            space_before = line.rfind(' ', 0, target_position)
+                            space_after = line.find(' ', target_position)
 
-                            # check if the target position is inside a bracket
-                            if left_bracket != -1 and right_bracket != -1 and left_bracket < right_bracket:
-                                insert_position = right_bracket + 1
+                            if space_before == -1 and space_after == -1:
+                                return line
+
+                            if space_before == -1:
+                                insert_position = space_after
+                            elif space_after == -1:
+                                insert_position = space_before
                             else:
-                                left_space = line.rfind(
-                                    ' ', 0, target_position)
-                                right_space = line.find(
-                                    ' ', target_position)
+                                # Encuentra el espacio más cercano hacia atrás
+                                space_before_distance = target_position - space_before
 
-                                if left_space == -1 and right_space == -1:
-                                    return line
-                                if left_space == -1:
-                                    insert_position = right_space
-                                elif right_space == -1:
-                                    insert_position = left_space + 1
+                                # Encuentra el espacio más cercano hacia adelante
+                                space_after_distance = space_after - target_position
+
+                                # Compara los caracteres antes del espacio y selecciona el espacio más cercano
+                                if space_before_distance <= space_after_distance:
+                                    insert_position = space_before
                                 else:
-                                    if abs(target_position - left_space) <= abs(right_space - target_position):
-                                        insert_position = left_space + 1
-                                    else:
-                                        insert_position = right_space
+                                    insert_position = space_after
 
                             line = line[:insert_position] + \
-                                '[n]' + line[insert_position:]
-                            # Cambiar el 43 dependiendo del tipo de dialogo, 43 para los eventos
+                                '[n]' + line[insert_position+1:]
+
                             return insert_n_character(line, interval=interval + 500)
 
                         value = insert_n_character(value)
@@ -942,6 +1024,9 @@ def run_program():
                 # fix ¡¿ ?!
                 value = value.replace('¿¡', '¡¿').replace(
                     '!?', '?!').replace('夷斡', '斡夷')
+                # restore the keys
+                value = value.replace("P4MCN1", "[f 6 1 12 0 0 0]").replace("P4MCN2", "[f 6 1 13 0 0 0]").replace("P3MCN1", "[f 6 1 15 0 0 0]").replace("P3MCN2", "[f 6 1 16 0 0 0]").replace("P3FEM1", "[f 6 1 26 0 0 0]").replace("P3FEM2", "[f 6 1 27 0 0 0]").replace("P5MCN1", "[f 6 1 29 0 0 0]").replace("P5MCN2", "[f 6 1 30 0 0 0]").replace("OBJETON5", "[f 4 4 3 0 1333]").replace("OBJETONUMEROOBJ1", "[f 4 4 3 0 1350]").replace("OBJETONUMEROOBJ2", "[f 4 4 3 0 1593]").replace("OBJETONUMEROOBJ3", "[f 4 4 3 0 1595]").replace("OBJETONUMEROOBJ4", "[f 4 4 3 0 1596]").replace("OBJETONUMEROOBJ5", "[f 2 5 3 65535 0]").replace("OBJETONUMEROOBJ6", "[f 0 7 0 65535]").replace("OBJETONUMEROOBJ7", "[f 0 7 150 65535]").replace(
+                    "OBJETONUMEROOBJ8", "[f 2 5 3 65535 1]").replace("OBJETONUMEROOBJ9", "[f 2 5 3 65535 2]").replace("OBJETONUMEROOBJ0", "[f 2 5 3 65535 3]").replace("OBJETONUMEROOBJX", "[f 3 1 1 0 0 59203]").replace("WEAPONNUMERO1", "[f 4 4 3 0 1636]").replace("WEAPONNUMERO2", "[f 4 4 3 0 1637]").replace("WEAPONNUMERO3", "[f 4 4 3 0 1638]").replace("PERSONANAMENUM1", "[f 2 4 0]").replace("PERSONANAMENUM2", "[f 2 4 1]").replace("DMG1", "[f 2 4 2]").replace("PERSONASKILLNUM1", "[f 2 4 3]").replace("~", "[f 0 1 1]").replace("^", "[f 0 1 2]").replace("@", "[f 0 1 3]").replace("{", "[f 0 1 4]").replace("}", "[f 0 1 0]").replace("Ž", "[f 0 1 5]").replace("Š", "[f 0 1 8]")
                 # La primera letra del mensaje debe ser mayúscula
                 if len(value) > 0:
                     value = value[0].upper() + value[1:]

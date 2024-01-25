@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1]斡夷Elizabeth!?[f 2 7 1 64 12 0][e]
 
 [msg MSG_013 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 10 100 0][f 3 1 1 0 0 54001]斡Qu姻 sorpresa! 斡Tienes raz吋n! Supongo que no[n]eres un l胤der para nada, [f 6 1 30 0 0].[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 10 100 0][f 3 1 1 0 0 54001]斡Qu姻 sorpresa! 斡Tienes raz吋n! Supongo que no[n]eres un l胤der para nada, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013_1 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 0][f 3 1 1 0 0 0]Yo, Elizabeth, me esforzar姻 por demostrarme[n]digno de este honor.[n][f 1 3 65535][f 1 1][e]

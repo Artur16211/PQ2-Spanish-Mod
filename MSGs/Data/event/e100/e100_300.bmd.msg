@@ -93,7 +93,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 3 0 0 1]Sol胤a pensar que es m茨s f茨cil estar sola tambi姻n, pero... Los conoc胤, y...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028_5 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 34][f 6 1 2 0 0 0]Hoy en d胤a, s姻 que no es malo tener amigos.[n]夷斡V-Verdad, [f 6 1 30 0 0]!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 34][f 6 1 2 0 0 0]Hoy en d胤a, s姻 que no es malo tener amigos.[n]夷斡V-Verdad, [f 6 1 30 0 0 0]!?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_029 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]No est茨 mal.[f 2 7 1 64 2 32][e]
@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 36]Pero... Todav胤a no lo entiendo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡Oh, vamos, ese es tu[n]trabajo, [f 6 1 30 0 0]![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 37][f 6 1 2 0 0 6]斡Oh, vamos, ese es tu[n]trabajo, [f 6 1 30 0 0 0]![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 2 0 0 10]D-De todos modos, 斡los compa隠eros son geniales![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Hikari]]

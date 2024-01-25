@@ -83,7 +83,7 @@
 
 [msg MSG_024 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23032]斡Nya-hahaha! Si姻ntate y mira.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Verdad, [f 6 1 30 0 0]? 斡Lo hemos hecho[n]juntos en las buenas y en las malas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Verdad, [f 6 1 30 0 0 0]? 斡Lo hemos hecho[n]juntos en las buenas y en las malas![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_025 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]No te preocupes por nosotros.[f 2 7 1 64 2 32][e]
