@@ -3,7 +3,6 @@ config_setn.ini
 config_compiler.ini
 config_decom.ini
 AtlusScriptCompiler.log
-/webeditor
+/dependencies/AtlusScriptCompiler.log
 /MSGs/compiled
 /MSGs/setn
-/dependencies/AtlusScriptCompiler.log
