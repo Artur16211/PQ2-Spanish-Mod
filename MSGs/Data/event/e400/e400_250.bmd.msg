@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3010]Por eso los dinosaurios de esa pel胤cula eran[n]todas chicas, bueno, la mayor胤a. Pero[n]de todos modos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Esa manada de herbivores estaba basada en el[n]c胤rculo de compa隠eros de clase que[n]Hikari sol胤a asociarse con...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Esa manada de herb胤voros estaba basada en el[n]c胤rculo de compa隠eros de clase que[n]Hikari sol胤a asociarse con...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y los carn胤voros eran los matones que iban[n]tras el grupo de amigos de Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]

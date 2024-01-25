@@ -140,7 +140,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 58][f 6 1 2 0 0 4]Parece que finalmente nos encontr吋. 夷Deber胤amos plantarle cara?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 4 100 4][f 3 1 6 0 0 500][f 3 1 1 0 0 59][f 6 1 2 0 0 6]El verdadero problema es que los herbivores...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 4 100 4][f 3 1 6 0 0 500][f 3 1 1 0 0 59][f 6 1 2 0 0 6]El verdadero problema es que los herb胤voros...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 60][f 6 1 2 0 0 10]Incluso si intent茨ramos sacarlos, 斡estar胤an atrapados en un callej吋n sin salida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Herb胤voro T胤mido]]
@@ -158,7 +158,7 @@
 [msg MSG_045 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 26 10 100 1][f 3 1 1 0 0 65][f 6 1 2 0 0 10]斡No sirve de nada! 斡Viene hacia nosotros![n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_046 [Gaudy Carnivore]]
+[msg MSG_046 [Carn胤voro Llamativo]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 92 0 1 1][f 3 1 1 0 0 66][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡GREEEEEEEEE![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Morgana]]
@@ -174,7 +174,7 @@
 [msg MSG_050 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 6 0 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 69]No estoy seguro de eso... Pero no tenemos tiempo que perder.[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_051 [Gaudy Carnivore]]
+[msg MSG_051 [Carn胤voro Llamativo]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 70][f 6 1 3 0 0 1][f 6 1 2 0 0 6]斡GYAAAAAH![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Yosukesaurio]]

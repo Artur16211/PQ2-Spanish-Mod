@@ -25,7 +25,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 7][f 3 1 1 0 0 7]Este m茨s probable no es el mismo que el de[n]la pel胤cula que corrigimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 12 0 8][f 3 1 1 0 0 8][f 6 1 2 0 0 6]S胤, eso es lo que pens姻. Estoy bastante seguro[n]de que cambiamos los herbivores![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 12 0 8][f 3 1 1 0 0 8][f 6 1 2 0 0 6]S胤, eso es lo que pens姻. Estoy bastante seguro[n]de que cambiamos a los herb胤voros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 7][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Entonces, 夷significa que la pel胤cula en el[n]proyector sigue siendo la versi吋n[n]insoportable?[n][f 1 3 65535][f 1 1][e]
