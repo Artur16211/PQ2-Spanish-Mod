@@ -1,5 +1,5 @@
 [msg NOFFICE_HELLO_ELIZABETH_ [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54200]夷Qu姻 boleto te gustar胤a?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54200]夷Qu姻 entrada te gustar胤a?[n][f 1 1][e]
 
 [msg NOFFICE_HELLO_ELIZABETH__2 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 0 2 1][f 3 1 1 0 0 54201]Te he estado esperando.[n][f 1 1][e]

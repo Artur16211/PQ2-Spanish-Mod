@@ -257,10 +257,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25344]斡Eso es perfecto![n][f 1 6 65535][e]
 
 [msg MAKOTO_MAPPING_ICON_KAID_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25345]Ese es el boleto.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25345]Esa es la entrada.[n][f 1 6 65535][e]
 
 [msg MAKOTO_MAPPING_CHANGE_CO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 25346]Cambi茨ndolo, 夷eh?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 25346]Cambi茨ndola, 夷eh?[n][f 1 6 65535][e]
 
 [msg MAKOTO_MAPPING_CHANGE_CO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25347]Buena decisi吋n.[n][f 1 6 65535][e]

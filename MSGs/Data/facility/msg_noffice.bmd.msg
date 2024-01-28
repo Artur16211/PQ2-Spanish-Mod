@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1]Not used[n][f 1 1][e]
 
 [msg not_accept_E [Elizabeth]]
-[f 0 5 65278][f 2 1]En este momento, no hay boletos que emitir.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]En este momento, no hay entradas que emitir.[n][f 1 1][e]
 
 [msg full_accept_E [Elizabeth]]
 [f 0 5 65278][f 2 1]Not used[n][f 1 1][e]
@@ -49,22 +49,22 @@
 [f 0 5 65278][f 2 1]※PQ2では使用しない[n]ご報告頂ける依頼はございません。[n][f 1 1][e]
 
 [msg not_cancel_E [Elizabeth]]
-[f 0 5 65278][f 2 1]Parece que no tienes un boleto en curso en este momento.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Parece que no tienes una entrada en curso en este momento.[n][f 1 1][e]
 
 [msg accept_check_E [Elizabeth]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54206]夷Es este el boleto que te gustar胤a emitir?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54206]夷Esta es la entrada que te gustar胤a emitir?[n][f 1 1][e]
 
 [msg accept_overwrite_check_E [Elizabeth]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54207]夷Te gustar胤a cancelar tu boleto actual y aceptar este en su lugar?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54207]¿Te gustaría cancelar tu entrada actual y aceptar está en su lugar?[n][f 1 1][e]
 
 [msg cancel_check_E [Elizabeth]]
-[f 0 5 65278][f 2 1]夷Te gustar胤a cancelar este boleto?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]¿Te gustaría cancelar esta entrada?[n][f 1 1][e]
 
 [msg cancel_refuse_check_E [Elizabeth]]
-[f 0 5 65278][f 2 1]Este boleto no puede ser cancelado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Esta entrada no puede ser cancelada.[n][f 1 1][e]
 
 [msg cancel_end_E [Elizabeth]]
-[f 0 5 65278][f 2 1]El boleto ha sido cancelado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]La entrada ha sido cancelada.[n][f 1 1][e]
 
 [msg NHELP001_CURE_E [Elizabeth]]
 [f 0 5 65278][f 2 1]Not used[n][f 1 1][e]
@@ -97,18 +97,18 @@
 [f 0 5 65278][f 2 1]Not used[n][f 1 1][e]
 
 [msg NHELP005_QUEST_CANCEL_E [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54103]Incluso despu姻s de aceptar un boleto, es posible cancelarlo.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Si tienes dificultades o deseas una proyecci吋n diferente, cancela el boleto.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Tambi姻n puedes volver a aceptar libremente boletos[n] que hayas cancelado anteriormente.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Hasta que se complete la proyecci吋n especial, puedes aceptar su boleto todas las veces que desees.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 74 4 2 1][f 3 1 1 0 0 54039][f 6 1 2 0 0 6]斡Pero espera, hay m茨s! 斡Aceptar y cancelar boletos es completamente gratuito![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54103]Incluso despu姻s de aceptar una entrada, es posible cancelarla.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Si tienes dificultades o deseas una proyecci吋n diferente, cancela la entrada.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Tambi姻n puedes volver a aceptar libremente entradas[n] que hayas cancelado anteriormente.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Hasta que se complete la proyecci吋n especial, puedes aceptar la entrada todas las veces que desees.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 4 2 1][f 3 1 1 0 0 54039][f 6 1 2 0 0 6]斡Pero espera, hay m茨s! 斡Aceptar y cancelar entradas es completamente gratuito![n][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1]Por favor, haz uso de estas ofertas si te sientes inclinado.[n][f 1 1][e]
 
 [msg accept_jump_dg]
 [f 0 5 65278][f 2 1]Not used[n][f 1 1][e]
 
 [msg quest_find]
-[f 0 5 65278][f 2 1]Hay una nueva proyecci吋n especial disponible. El boleto se puede aceptar aqu胤.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Hay una nueva proyecci吋n especial disponible. La entrada se puede aceptar aqu胤.[n][f 1 1][e]
 
 [msg talk_dammy [ダミー]]
 [f 0 5 65278][f 2 1]会話ダミー[n][f 1 1][e]
