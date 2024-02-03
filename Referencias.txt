@@ -1,4 +1,4 @@
-﻿# Traducción oficial de P5R/P4G/P3P:
+﻿# Traducción oficial de P5R/P4G/P3P/P3R:
 Follow-Up -> Ataque de Seguimiento
 All-Out Attack -> Ataque combinado
 Velvet Room -> Habitación Terciopelo
@@ -64,8 +64,11 @@ Navi -> Navi
 # Traducción oficial de Persona 4 Golden:
 Sensei -> Maestro
 
-# Traducción oficial de Persona 3 Portable:
+# Traducción oficial de Persona 3 Portable/Persona 3 Reload:
 Evoker -> Evocador
+Ace Detective -> Superdetective
+SEES -> Sociedad Extraescolar de Ejecución de Sombras
+Navi -> Navi
 
 # Q2:
 Lv -> Nv
@@ -77,7 +80,6 @@ Persona Film -> Persona Film # Temporal
 P-Book -> P-Book
 Front Row -> Fila Frontal
 Back Row -> Fila Trasera
-Navi -> Nav. ?
 Unison Skills -> Habilidades de Unión
 Wanted -> Necesario
 Ranged -> Distancia
@@ -85,7 +87,7 @@ Splash Damage -> Daño por Salpicadura
 Self -> Propio
 Party Meter -> Medidor de Grupo
 ## Historia:
-the curator -> la conservadora
+the curator -> la conservadora # Temporal
 concession stand -> puesto de comida
 Ticket -> Entrada
 ## Save

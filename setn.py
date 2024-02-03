@@ -42,6 +42,8 @@ else:
     # If it doesn't exist, create it with default values
     config['Folders'] = {'mod_folder': '',
                          'output_folder': '', 'game': 'Persona Q2'}
+    config['SetN'] = {'battle_n': '0', 'camp_n': '0', 'dungeon_n': '0', 'event_n': '0',
+                      'facility_n': '0', 'init_n': '0', 'shared_n': '0', 'tutorial_n': '0', 'default_n': '0', 'disabled_n': '0'}
     with open('config_setn.ini', 'w') as configfile:
         config.write(configfile)
 
@@ -50,6 +52,17 @@ mod_folder = config.get('Folders', 'mod_folder', fallback='')
 # language_folder = config.get('Folders', 'language_folder', fallback='')
 output_folder = config.get('Folders', 'output_folder', fallback='')
 game = config.get('Folders', 'game', fallback='Persona 5 Royal')
+#
+battle_n = int(config.get('SetN', 'battle_n', fallback='38'))
+camp_n = int(config.get('SetN', 'camp_n', fallback='42'))
+dungeon_n = int(config.get('SetN', 'dungeon_n', fallback='38'))
+event_n = int(config.get('SetN', 'event_n', fallback='42'))
+facility_n = int(config.get('SetN', 'facility_n', fallback='38'))
+init_n = int(config.get('SetN', 'init_n', fallback='42'))
+shared_n = int(config.get('SetN', 'shared_n', fallback='42'))
+tutorial_n = int(config.get('SetN', 'tutorial_n', fallback='52'))
+default_n = int(config.get('SetN', 'default_n', fallback='42'))
+disabled_n = int(config.get('SetN', 'disabled_n', fallback='500'))
 
 root = customtkinter.CTk()
 
@@ -182,6 +195,95 @@ def browse_output_folder():
     output_folder = filedialog.askdirectory()
     output_folder_entry.delete(0, tk.END)
     output_folder_entry.insert(0, output_folder)
+
+
+# settings
+
+
+def open_settings_window():
+    settings_window = tk.Toplevel(root)
+    settings_window.title("Settings")
+    settings_window.resizable(False, False)
+
+    # Create entry fields for each variable
+    ttk.Label(settings_window, text="Battle:").grid(
+        row=0, column=0, padx=10, pady=10)
+    battle_n_entry = ttk.Entry(settings_window, width=20)
+    battle_n_entry.grid(row=0, column=1, padx=10, pady=10)
+    battle_n_entry.insert(0, battle_n)
+    #
+    ttk.Label(settings_window, text="Camp:").grid(
+        row=1, column=0, padx=10, pady=10)
+    camp_n_entry = ttk.Entry(settings_window, width=20)
+    camp_n_entry.grid(row=1, column=1, padx=10, pady=10)
+    camp_n_entry.insert(0, camp_n)
+    #
+    ttk.Label(settings_window, text="Dungeon:").grid(
+        row=2, column=0, padx=10, pady=10)
+    dungeon_n_entry = ttk.Entry(settings_window, width=20)
+    dungeon_n_entry.grid(row=2, column=1, padx=10, pady=10)
+    dungeon_n_entry.insert(0, dungeon_n)
+    #
+    ttk.Label(settings_window, text="Event:").grid(
+        row=3, column=0, padx=10, pady=10)
+    event_n_entry = ttk.Entry(settings_window, width=20)
+    event_n_entry.grid(row=3, column=1, padx=10, pady=10)
+    event_n_entry.insert(0, event_n)
+    #
+    ttk.Label(settings_window, text="Facility:").grid(
+        row=4, column=0, padx=10, pady=10)
+    facility_n_entry = ttk.Entry(settings_window, width=20)
+    facility_n_entry.grid(row=4, column=1, padx=10, pady=10)
+    facility_n_entry.insert(0, facility_n)
+    #
+    ttk.Label(settings_window, text="Init:").grid(
+        row=5, column=0, padx=10, pady=10)
+    init_n_entry = ttk.Entry(settings_window, width=20)
+    init_n_entry.grid(row=5, column=1, padx=10, pady=10)
+    init_n_entry.insert(0, init_n)
+    #
+    ttk.Label(settings_window, text="Shared:").grid(
+        row=6, column=0, padx=10, pady=10)
+    shared_n_entry = ttk.Entry(settings_window, width=20)
+    shared_n_entry.grid(row=6, column=1, padx=10, pady=10)
+    shared_n_entry.insert(0, shared_n)
+    #
+    ttk.Label(settings_window, text="Tutorial:").grid(
+        row=7, column=0, padx=10, pady=10)
+    tutorial_n_entry = ttk.Entry(settings_window, width=20)
+    tutorial_n_entry.grid(row=7, column=1, padx=10, pady=10)
+    tutorial_n_entry.insert(0, tutorial_n)
+    #
+    ttk.Label(settings_window, text="Default:").grid(
+        row=8, column=0, padx=10, pady=10)
+    default_n_entry = ttk.Entry(settings_window, width=20)
+    default_n_entry.grid(row=8, column=1, padx=10, pady=10)
+    default_n_entry.insert(0, default_n)
+
+    def save_settings():
+        # Save the setn new values of the variables
+        config['SetN']['battle_n'] = battle_n_entry.get()
+        config['SetN']['camp_n'] = camp_n_entry.get()
+        config['SetN']['dungeon_n'] = dungeon_n_entry.get()
+        config['SetN']['event_n'] = event_n_entry.get()
+        config['SetN']['facility_n'] = facility_n_entry.get()
+        config['SetN']['init_n'] = init_n_entry.get()
+        config['SetN']['shared_n'] = shared_n_entry.get()
+        config['SetN']['tutorial_n'] = tutorial_n_entry.get()
+        config['SetN']['default_n'] = default_n_entry.get()
+
+        settings_window.destroy()  # Close the settings window
+
+    save_button = ttk.Button(
+        settings_window, text="Save", command=save_settings)
+    save_button.grid(row=11, columnspan=2, pady=10)
+
+
+# Add a button to open the settings window
+settings_button = ttk.Button(
+    root, text="Settings", command=open_settings_window)
+settings_button.grid(row=3, column=1, padx=0, pady=0)
+# settings
 
 
 def run_program():
@@ -464,7 +566,7 @@ def run_program():
                             if path_parts[index_setn + 2] == "event" or path_parts[index_setn + 2] == "combination":
                                 # print("La carpeta es battle/event, usando intervalo 43")
 
-                                def insert_n_character(line, interval=42):
+                                def insert_n_character(line, interval=event_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -498,14 +600,14 @@ def run_program():
                                     line = line[:insert_position] + \
                                         '[n]' + line[insert_position+1:]
 
-                                    return insert_n_character(line, interval=interval + 42)
+                                    return insert_n_character(line, interval=interval + event_n)
 
                                 value = insert_n_character(value)
                             else:
                                 # print("La carpeta es battle (navegadores), usando intervalo 36")
 
                                 # Los caracteres no deben pasar de 37, por eso se usa un intervalo de 34
-                                def insert_n_character(line, interval=38):
+                                def insert_n_character(line, interval=battle_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -545,7 +647,7 @@ def run_program():
                         elif folder_name_msg == "camp":
                             # print("La carpeta es camp, usando intervalo 43")
 
-                            def insert_n_character(line, interval=42):
+                            def insert_n_character(line, interval=camp_n):
                                 target_position = interval
 
                                 if len(line) <= target_position + 3:
@@ -578,14 +680,14 @@ def run_program():
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position+1:]
 
-                                return insert_n_character(line, interval=interval + 42)
+                                return insert_n_character(line, interval=interval + camp_n)
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "dungeon":
                             if path_parts[index_setn + 2] == "script" and path_parts[index_setn + 3] == "support":
                                 # print("La carpeta es dungeon, usando intervalo 43") 32
 
-                                def insert_n_character(line, interval=38):
+                                def insert_n_character(line, interval=dungeon_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -622,7 +724,7 @@ def run_program():
                                     return line
                                 value = insert_n_character(value)
                             else:
-                                def insert_n_character(line, interval=42):
+                                def insert_n_character(line, interval=event_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -656,13 +758,13 @@ def run_program():
                                     line = line[:insert_position] + \
                                         '[n]' + line[insert_position+1:]
 
-                                    return insert_n_character(line, interval=interval + 42)
+                                    return insert_n_character(line, interval=interval + event_n)
                                 value = insert_n_character(value)
                         elif folder_name_msg == "event":
                             # print("La carpeta es event, usando intervalo 43")
 
                             # Los caracteres no deben pasar de 47, por eso se usa un intervalo de 43
-                            def insert_n_character(line, interval=42):
+                            def insert_n_character(line, interval=event_n):
                                 target_position = interval
 
                                 if len(line) <= target_position + 3:
@@ -695,7 +797,7 @@ def run_program():
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position+1:]
 
-                                return insert_n_character(line, interval=interval + 42)
+                                return insert_n_character(line, interval=interval + event_n)
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "facility":
@@ -703,7 +805,7 @@ def run_program():
                                 # print("La carpeta es battle (navegadores), usando intervalo 36")
 
                                 # Los caracteres no deben pasar de 41, por eso se usa un intervalo de 34
-                                def insert_n_character(line, interval=38):
+                                def insert_n_character(line, interval=facility_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -742,7 +844,7 @@ def run_program():
                                 value = insert_n_character(value)
                             else:
                                 # print("La carpeta es facility, usando intervalo 43")
-                                def insert_n_character(line, interval=42):
+                                def insert_n_character(line, interval=event_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -776,7 +878,7 @@ def run_program():
                                     line = line[:insert_position] + \
                                         '[n]' + line[insert_position+1:]
 
-                                    return insert_n_character(line, interval=interval + 42)
+                                    return insert_n_character(line, interval=interval + event_n)
 
                                 value = insert_n_character(value)
                         elif folder_name_msg == "init":
@@ -784,7 +886,7 @@ def run_program():
 
                             # Los caracteres no deben pasar de 45, por eso se usa un intervalo de 40
                             if path_parts[index_setn + 2] == "dataQuestStory.bmd.msg":
-                                def insert_n_character(line, interval=42):
+                                def insert_n_character(line, interval=event_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 2:
@@ -818,11 +920,11 @@ def run_program():
                                     line = line[:insert_position] + \
                                         '[n]' + line[insert_position+1:]
 
-                                    return insert_n_character(line, interval=interval + 42)
+                                    return insert_n_character(line, interval=interval + event_n)
 
                                 value = insert_n_character(value)
                             else:
-                                def insert_n_character(line, interval=43):
+                                def insert_n_character(line, interval=event_n):
                                     target_position = interval
 
                                     if len(line) <= target_position + 3:
@@ -862,7 +964,7 @@ def run_program():
                         elif folder_name_msg == "shared":
                             # print("La carpeta es shared, usando intervalo 43")
 
-                            def insert_n_character(line, interval=43):
+                            def insert_n_character(line, interval=shared_n):
                                 target_position = interval
 
                                 if len(line) <= target_position + 3:
@@ -895,14 +997,14 @@ def run_program():
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position+1:]
 
-                                return insert_n_character(line, interval=interval + 43)
+                                return insert_n_character(line, interval=interval + shared_n)
 
                             value = insert_n_character(value)
                         elif folder_name_msg == "tutorial":
                             # print("La carpeta es tutorial, usando intervalo 52")
 
                             # Los caracteres no deben pasar de 56, por eso se usa un intervalo de 52
-                            def insert_n_character(line, interval=52):
+                            def insert_n_character(line, interval=tutorial_n):
                                 target_position = interval
 
                                 if len(line) <= target_position + 3:
@@ -935,12 +1037,12 @@ def run_program():
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position+1:]
 
-                                return insert_n_character(line, interval=interval + 52)
+                                return insert_n_character(line, interval=interval + tutorial_n)
 
                             value = insert_n_character(value)
                         else:
                             # print("La carpeta no coincide con ninguna, usando intervalo 43, al igual que en event")
-                            def insert_n_character(line, interval=43):
+                            def insert_n_character(line, interval=default_n):
                                 target_position = interval
 
                                 if len(line) <= target_position + 3:
@@ -973,14 +1075,14 @@ def run_program():
                                 line = line[:insert_position] + \
                                     '[n]' + line[insert_position+1:]
 
-                                return insert_n_character(line, interval=interval + 43)
+                                return insert_n_character(line, interval=interval + default_n)
 
                             value = insert_n_character(value)
                     else:
                         # al desactivar setn, se usa un intervalo de 500, de esta forma se evita que se agregue el [n] en los mensajes que no lo necesitan (teniendo en cuenta que ningun mensaje tendra mas de 500 caracteres)
                         # print("SetN desactivado, usando intervalo 500")
 
-                        def insert_n_character(line, interval=500):
+                        def insert_n_character(line, interval=disabled_n):
                             target_position = interval
 
                             if len(line) <= target_position + 3:
