@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11074]夷斡En serio!? Bueno, vamos a echar un vistazo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11067]S胤, buena idea. Junpei, el detective Ace, 斡siempre evitando el peligro![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11067]S胤, buena idea. Junpei, el Superdetective, 斡siempre evitando el peligro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 11098]Maldici吋n, eso fue dif胤cil... Incluso buscar tesoros aqu胤 es cuesti吋n de vida o muerte.[n][f 1 3 65535][f 1 1][e]

@@ -14,7 +14,7 @@
 
 [msg MSG_004 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]夷Qu姻 pasa, Hikari? 夷Est茨s nervioso?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No lo est姻s. Ace Junpei te tiene cubierto.[n]斡Las sombras no tienen una oraci吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No lo est姻s. el Superdetective Junpei te tiene cubierto.[n]斡Las sombras no tienen una oraci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 1 0][f 3 1 1 0 0 61001]Me preguntaba, 夷c吋mo se mantienen tan[n]fuertes?[n][f 1 3 65535][f 1 1][e]

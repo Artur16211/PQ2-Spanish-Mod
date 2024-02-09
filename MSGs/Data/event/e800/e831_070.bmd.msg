@@ -44,7 +44,7 @@
 
 [msg MSG_012 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 4][f 3 1 1 0 0 0]Oye, ahora. Est茨s muy bien.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 2 1 4][f 3 1 1 0 0 11131]Estoy un poco celosa. Ni siquiera Junpei,[n]Ace Detective tiene habilidades como[n]ustedes.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 1 4][f 3 1 1 0 0 11131]Estoy un poco celosa. Ni siquiera Junpei,[n]el Superdetective tiene habilidades como[n]ustedes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 2 0 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]Veo...[n][f 1 3 65535][f 1 1][e]

@@ -87,7 +87,7 @@ Splash Damage -> Daño por Salpicadura
 Self -> Propio
 Party Meter -> Medidor de Grupo
 ## Historia:
-the curator -> la conservadora # Temporal
+the curator -> La Curadora
 concession stand -> puesto de comida
 Ticket -> Entrada
 ## Save

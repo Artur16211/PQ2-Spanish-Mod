@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 0 1 1][f 3 1 1 0 0 8001]M茨s importante... Por favor, echa un vistazo[n]a esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 8 1 0 1][f 4 6 10 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Siento que Stupei haya causado una escena[n]as胤. 夷Qu姻 encontraste?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 1 0 1][f 4 6 10 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Siento que Tontei haya causado una escena[n]as胤. 夷Qu姻 encontraste?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0]Est茨 bien... Entonces, la nariz de este 茨rbol[n]parece que funciona como un interruptor[n]despu姻s de todo.[n][f 1 3 65535][f 1 1][e]

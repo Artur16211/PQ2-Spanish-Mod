@@ -31,14 +31,14 @@
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0]斡No hay necesidad de ponerse muy sensible![n]斡Los amigos se ayudan, ya sabes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 6][f 3 1 1 0 0 11068]Seguro. En el mundo de Junpei Iori, Ace[n]Attentive, buscar amigos es tan importante[n]como cualquier trabajo detective.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 6][f 3 1 1 0 0 11068]Seguro. En el mundo de Junpei Iori, el Superdetective, buscar amigos es tan importante[n]como cualquier trabajo detective.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Y a diferencia de esos dos, no tengo ning雨n[n]motivo posterior, como querer mostrar o[n]ser popular con las chicas, no se隠or.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 10 3 0][f 3 1 1 0 0 21036][f 6 1 2 0 0 6]斡As胤 se arruina el momento, hombre![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 3 6 0 6][f 3 1 1 0 0 0]Disparo en llamas... Ese es Junpei Iori, Ace[n]Self-Destructive para ti...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 1 0 0][f 4 6 3 6 0 6][f 3 1 1 0 0 0]Disparo en llamas... Ese es Junpei Iori, Super Autodestructivo para ti...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 3 1 0 6][f 4 6 65 1 0 0][f 4 6 81 2 0 0][f 3 1 1 0 0 61151]*Grecha* Nunca parece haber un momento aburrido[n]entre ustedes tres.[n][f 1 3 65535][f 1 1][e]

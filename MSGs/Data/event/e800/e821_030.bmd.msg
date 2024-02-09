@@ -24,7 +24,7 @@
 
 [msg MSG_008 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11083][f 6 1 2 0 0 6]斡De ninguna manera! 斡Estoy empezando![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 11106]Carga de energ胤a completa, y... 斡Es hora de[n]Junpei, Ace Collective![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 11106]Carga de energ胤a completa, y... 斡Es hora de[n]Junpei, el Superdetective![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Aqu胤 vamos! 斡Cuchillas dobles, nena! 斡Guau![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yukari]]
