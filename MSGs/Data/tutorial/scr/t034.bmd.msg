@@ -1,3 +1,3 @@
 ﻿[msg MSG_TUTORIAL_DLC_ITEM]
-[f 0 5 65278][f 2 1][n]斡[f 0 1 2]Objetos adicionales[f 0 1 0] ya est茨n disponibles![n][n]Adqui姻relos en la secci吋n [f 0 1 2]DLC[f 0 1 0] en la pantalla de[n]t胤tulo, luego recl茨malos en la opci吋n de [f 0 1 2]Hablar[f 0 1 0][n]en la tienda.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ィ[f 0 1 2]のほゃまろよれ ぺぽもぼもよょぺゅまれ[f 0 1 0] をぺ まれろァょ ぽもれらよょもほゅまれ![n][n]だぽりゎもイるまゅよれ まょ ゅぺ れまぼぼもカょ [f 0 1 2]っにぢ[f 0 1 0] まょ ゅぺ らぺょろぺゅゅぺ ぽま[n]ろウろゎゅよデ ゅゎまむよ るまぼゅァゆぺゅよれ まょ ゅぺ よらぼもカょ ぽま [f 0 1 2]でぺほゅぺる[f 0 1 0][n]まょ ゅぺ ろもまょぽぺテ[n][f 1 1][e]
 

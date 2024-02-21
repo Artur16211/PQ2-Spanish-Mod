@@ -1,5 +1,5 @@
 ﻿[msg MSG_TUTORIAL_FOE3_1]
-[f 0 5 65278][f 2 1]Algunos FOE [f 0 1 2]te perseguir茨n tan pronto como te vean[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]El [f 0 1 2]color del contorno del c胤rculo se vuelve rojo[f 0 1 0][n]si un FOE te persigue.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]El plan m茨s seguro (aunque menos gratificante) es[n]simplemente evitar chocar con los FOE.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]だゅむゎょよれ づのつ [f 0 1 2]ろま らまるれまむゎもるァょ ろぺょ らるよょろよ ぼよゆよ ろま わまぺょ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つゅ [f 0 1 2]ぼよゅよる ぽまゅ ぼよょろよるょよ ぽまゅ ぼウるぼゎゅよ れま わゎまゅわま るよゃよ[f 0 1 0][n]れも ゎょ づのつ ろま らまるれもむゎまテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つゅ らゅぺょ ゆァれ れまむゎるよ ドぺゎょりゎま ゆまょよれ むるぺろもみもぼぺょろまナ まれ[n]れもゆらゅまゆまょろま まわもろぺる ぼめよぼぺる ぼよょ ゅよれ づのつテ[n][f 1 1][e]
 

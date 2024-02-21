@@ -1,12 +1,12 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1][n]Si tu ataque tiene una afinidad a la que el enemigo es[n]d姻bil, desencadenar茨s un golpe [f 0 1 2]D畏BIL[f 0 1 0].[n][n]Pero si quieres una peque隠a posibilidad de un golpe[n][f 0 1 2]CR緯TICO[f 0 1 0], es mejor que uses un ataque est茨ndar o[n]una habilidad f胤sica.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ひも ろゎ ぺろぺりゎま ろもまょま ゎょぺ ぺみもょもぽぺぽ ぺ ゅぺ りゎま まゅ まょまゆもむよ まれ[n]ぽイほもゅデ ぽまれまょぼぺぽまょぺるァれ ゎょ むよゅらま [f 0 1 2]っゥちとに[f 0 1 0]テ[n][n]はまるよ れも りゎもまるまれ ゎょぺ らまりゎまォぺ らよれもほもゅもぽぺぽ ぽま ゎょ むよゅらま[n][f 0 1 2]ぢぱェびとぢの[f 0 1 0]デ まれ ゆまゃよる りゎま ゎれまれ ゎょ ぺろぺりゎま まれろァょぽぺる よ[n]ゎょぺ めぺほもゅもぽぺぽ みウれもぼぺテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]Un aliado que logre un golpe de debilidad o cr胤tico[n]recibir茨 un [f 0 1 2]Boost[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]ぴょ ぺゅもぺぽよ りゎま ゅよむるま ゎょ むよゅらま ぽま ぽまほもゅもぽぺぽ よ ぼるウろもぼよ[n]るまぼもほもるァ ゎょ [f 0 1 2]ちよよれろ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes03]
-[f 0 5 65278][f 2 1]Las habilidades de los aliados con Boost [f 0 1 2]infligir茨n[n]m茨s da隠o[f 0 1 0] y [f 0 1 2] costar茨n 0[f 0 1 0], entre otros efectos.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ゅよれ ぺゅもぺぽよれ ぼよょ ちよよれろ [f 0 1 2]もょみゅもむもるァょ[n]ゆァれ ぽぺォよ[f 0 1 0] を [f 0 1 2] ぼよれろぺるァょ ゼ[f 0 1 0]デ まょろるま よろるよれ まみまぼろよれテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes04]
-[f 0 5 65278][f 2 1][n]Los Boosts son muy poderosos.[n][n]Aprovechalos realizando los movimientos de combate[n]adecuados, 斡y estar茨s listo para aniquilar a tus enemigos![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]によれ ちよよれろれ れよょ ゆゎを らよぽまるよれよれテ[n][n]だらるよわまぼめぺゅよれ るまぺゅもんぺょぽよ ゅよれ ゆよわもゆもまょろよれ ぽま ぼよゆほぺろま[n]ぺぽまぼゎぺぽよれデ ィを まれろぺるァれ ゅもれろよ らぺるぺ ぺょもりゎもゅぺる ぺ ろゎれ まょまゆもむよれ![n][f 1 1][e]
 

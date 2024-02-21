@@ -1,153 +1,153 @@
 [msg quest_story_000]
-[f 0 5 65278][f 2 1]クエスト００のあらすじです。[n]ダミーメッセージです。[n]ダミーメッセージです。[n][e]
+[f 0 5 65278][f 2 1]クエスト００のあらすじです。 ダミーメッセージです。 ダミーメッセージです。[n][e]
 
 [msg quest_story_001]
-[f 0 5 65278][f 2 1]Sinopsis:[n]La Kamociudad, liberada del r姻gimen de su tirano, todav胤a lucha contra una niebla de maldad que est茨 corrompiendo las mentes de la gente en todo el pa胤s. 斡Gritan por una verdadera paz![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト にぺ なぺゆよぼもゎぽぺぽデ ゅもほまるぺぽぺ ぽまゅ るイむもゆまょ[n]ぽま れゎ ろもるぺょよデ ろよぽぺわウぺ ゅゎぼめぺ ぼよょろるぺ ゎょぺ[n]ょもまほゅぺ ぽま ゆぺゅぽぺぽ りゎま まれろァ ぼよるるよゆらもまょぽよ[n]ゅぺれ ゆまょろまれ ぽま ゅぺ むまょろま まょ ろよぽよ まゅ らぺウれテ[n]ィてるもろぺょ らよる ゎょぺ わまるぽぺぽまるぺ らぺん![n][e]
 
 [msg quest_story_002]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1]【あらすじ】 　カット予定[n][e]
 
 [msg quest_story_003]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Una pandilla de hombres machos est茨 aterrorizando a la gente de la 2da Avenida de la Kamociudad. 夷Cu茨ndo vendr茨 un verdadero hombre a poner fin a semejante machismo obtuso?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ぴょぺ らぺょぽもゅゅぺ ぽま めよゆほるまれ ゆぺぼめよれ まれろァ[n]ぺろまるるよるもんぺょぽよ ぺ ゅぺ むまょろま ぽま ゅぺ ゾぽぺ[n]だわまょもぽぺ ぽま ゅぺ なぺゆよぼもゎぽぺぽテ エぢゎァょぽよ わまょぽるァ ゎょ[n]わまるぽぺぽまるよ めよゆほるま ぺ らよょまる みもょ ぺ れまゆまゃぺょろま[n]ゆぺぼめもれゆよ よほろゎれよ?[n][e]
 
 [msg quest_story_004]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Corre por la paz! 斡Corre por el amor! Corre por la ciudad mientras los reflectores ardientes intentan seguirte. 斡En este trepidante thriller de acci吋n, nacer茨 una leyenda![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィぢよるるま らよる ゅぺ らぺん! ィぢよるるま らよる まゅ[n]ぺゆよる! ぢよるるま らよる ゅぺ ぼもゎぽぺぽ ゆもまょろるぺれ ゅよれ[n]るまみゅまぼろよるまれ ぺるぽもまょろまれ もょろまょろぺょ れまむゎもるろまテ ィつょ[n]まれろま ろるまらもぽぺょろま ろめるもゅゅまる ぽま ぺぼぼもカょデ ょぺぼまるァ[n]ゎょぺ ゅまをまょぽぺ![n][e]
 
 [msg quest_story_005]
-[f 0 5 65278][f 2 1]005 あらすじ[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1]ゼゼチ あらすじ 　カット予定[n][e]
 
 [msg quest_story_006]
-[f 0 5 65278][f 2 1]Sinopsis:[n]En una tierra donde los dinosaurios han resurgido, 夷hay tambi姻n movimientos de vida en las aguas profundas y oscuras? Esto es Junessic Land, donde la historia se reescribe de nuevo...[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト つょ ゎょぺ ろもまるるぺ ぽよょぽま ゅよれ ぽもょよれぺゎるもよれ[n]めぺょ るまれゎるむもぽよデ エめぺを ろぺゆほもイょ ゆよわもゆもまょろよれ[n]ぽま わもぽぺ まょ ゅぺれ ぺむゎぺれ らるよみゎょぽぺれ を よれぼゎるぺれ?[n]つれろよ まれ どゎょまれれもぼ にぺょぽデ ぽよょぽま ゅぺ めもれろよるもぺ[n]れま るままれぼるもほま ぽま ょゎまわよテテテ[n][e]
 
 [msg quest_story_007]
-[f 0 5 65278][f 2 1]Sinopsis:[n]El Chico Pollo es el autoproclamado guardi茨n de la Kamociudad. Patrulla d胤a y noche, pero es tan draconiano que est茨 aplastando la misma paz en la que cree.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト つゅ ぢめもぼよ はよゅゅよ まれ まゅ ぺゎろよらるよぼゅぺゆぺぽよ[n]むゎぺるぽもァょ ぽま ゅぺ なぺゆよぼもゎぽぺぽテ はぺろるゎゅゅぺ ぽウぺ[n]を ょよぼめまデ らまるよ まれ ろぺょ ぽるぺぼよょもぺょよ りゎま まれろァ[n]ぺらゅぺれろぺょぽよ ゅぺ ゆもれゆぺ らぺん まょ ゅぺ りゎま ぼるままテ[n][e]
 
 [msg quest_story_008]
-[f 0 5 65278][f 2 1]Sinopsis:[n]夷Podr胤a el culpable ser un polic胤a? 斡No puede ser! Pero las Sombras acechan en todas partes en la Kamociudad, incluso entre sus fuerzas del orden. 夷Se resolver茨 el caso?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト エはよぽるウぺ まゅ ぼゎゅらぺほゅま れまる ゎょ らよゅもぼウぺ?[n]ィねよ らゎまぽま れまる! はまるよ ゅぺれ ひよゆほるぺれ ぺぼまぼめぺょ[n]まょ ろよぽぺれ らぺるろまれ まょ ゅぺ なぺゆよぼもゎぽぺぽデ もょぼゅゎれよ[n]まょろるま れゎれ みゎまるんぺれ ぽまゅ よるぽまょテ エひま るまれよゅわまるァ[n]まゅ ぼぺれよ?[n][e]
 
 [msg quest_story_009]
-[f 0 5 65278][f 2 1]Sinopsis:[n]El graffiti es el grito del alma. T雨, 夷escuchas a tu coraz吋n? 夷O te est茨s mintiendo a ti mismo todos los d胤as? Encuentra tu voz verdadera, 斡deja que tu alma grite![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト つゅ むるぺみみもろも まれ まゅ むるもろよ ぽまゅ ぺゅゆぺテ[n]びグデ エまれぼゎぼめぺれ ぺ ろゎ ぼよるぺんカょ? エの ろま まれろァれ[n]ゆもょろもまょぽよ ぺ ろも ゆもれゆよ ろよぽよれ ゅよれ ぽウぺれ?[n]つょぼゎまょろるぺ ろゎ わよん わまるぽぺぽまるぺデ ィぽまゃぺ りゎま ろゎ ぺゅゆぺ[n]むるもろま![n][e]
 
 [msg quest_story_010]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Una onda en el agua, un suspiro del Viento... 斡Y de repente, estalla una 姻pica batalla entre la vida y la muerte! S胤, este es el mundo dram茨tico de... 斡la pesca![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ぴょぺ よょぽぺ まょ まゅ ぺむゎぺデ ゎょ れゎれらもるよ[n]ぽまゅ ふもまょろよテテテ ィへ ぽま るまらまょろまデ まれろぺゅゅぺ ゎょぺ[n]イらもぼぺ ほぺろぺゅゅぺ まょろるま ゅぺ わもぽぺ を ゅぺ ゆゎまるろま![n]ひウデ まれろま まれ まゅ ゆゎょぽよ ぽるぺゆァろもぼよ ぽまテテテ ィゅぺ[n]らまれぼぺ![n][e]
 
 [msg quest_story_011]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Dos tesoros legendarios, transmitidos de generaci吋n en generaci吋n, brillando en la noche m茨s oscura. 夷Pueden ser robados bajo la atenta mirada de dos Pterosaurios?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト っよれ ろまれよるよれ ゅまむまょぽぺるもよれデ ろるぺょれゆもろもぽよれ[n]ぽま むまょまるぺぼもカょ まょ むまょまるぺぼもカょデ ほるもゅゅぺょぽよ[n]まょ ゅぺ ょよぼめま ゆァれ よれぼゎるぺテ エはゎまぽまょ れまる[n]るよほぺぽよれ ほぺゃよ ゅぺ ぺろまょろぺ ゆもるぺぽぺ ぽま ぽよれ[n]はろまるよれぺゎるもよれ?[n][e]
 
 [msg quest_story_012]
-[f 0 5 65278][f 2 1]Sinopsis:[n]La canela, la especia m茨s antigua y real. Se dice que proviene de una planta conocida como helecho de canela, que crece solo en un bosque antiguo...[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト にぺ ぼぺょまゅぺデ ゅぺ まれらまぼもぺ ゆァれ ぺょろもむゎぺ[n]を るまぺゅテ ひま ぽもぼま りゎま らるよわもまょま ぽま ゎょぺ らゅぺょろぺ[n]ぼよょよぼもぽぺ ぼよゆよ めまゅまぼめよ ぽま ぼぺょまゅぺデ りゎま[n]ぼるまぼま れよゅよ まょ ゎょ ほよれりゎま ぺょろもむゎよテテテ[n][e]
 
 [msg quest_story_013]
-[f 0 5 65278][f 2 1]Sinopsis:[n]La tierra ha sido cuidada durante mucho tiempo por dinosaurios gen姻ticamente modificados, pero de repente han brotado plantas mutantes en todas partes. 夷Qu姻 podr胤a significar esto?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト にぺ ろもまるるぺ めぺ れもぽよ ぼゎもぽぺぽぺ ぽゎるぺょろま[n]ゆゎぼめよ ろもまゆらよ らよる ぽもょよれぺゎるもよれ むまょイろもぼぺゆまょろま[n]ゆよぽもみもぼぺぽよれデ らまるよ ぽま るまらまょろま めぺょ ほるよろぺぽよ[n]らゅぺょろぺれ ゆゎろぺょろまれ まょ ろよぽぺれ らぺるろまれテ エばゎイ[n]らよぽるウぺ れもむょもみもぼぺる まれろよ?[n][e]
 
 [msg quest_story_014]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Incluso en una tierra artificial, los beb姻s son una cosa natural. 斡Y aunque sea un dinosaurio, un beb姻 separado de sus padres es una criatura asustada![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト とょぼゅゎれよ まょ ゎょぺ ろもまるるぺ ぺるろもみもぼもぺゅデ[n]ゅよれ ほまほイれ れよょ ゎょぺ ぼよれぺ ょぺろゎるぺゅテ ィへ ぺゎょりゎま[n]れまぺ ゎょ ぽもょよれぺゎるもよデ ゎょ ほまほイ れまらぺるぺぽよ ぽま[n]れゎれ らぺぽるまれ まれ ゎょぺ ぼるもぺろゎるぺ ぺれゎれろぺぽぺ![n][e]
 
 [msg quest_story_015]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Junessic Land es un lugar gobernado por el principio de la supervivencia del m茨s apto. 夷Eres uno de los m茨s aptos?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト どゎょまれれもぼ にぺょぽ まれ ゎょ ゅゎむぺる むよほまるょぺぽよ[n]らよる まゅ らるもょぼもらもよ ぽま ゅぺ れゎらまるわもわまょぼもぺ[n]ぽまゅ ゆァれ ぺらろよテ エつるまれ ゎょよ ぽま ゅよれ ゆァれ ぺらろよれ?[n][e]
 
 [msg quest_story_016]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Los humanos abandonaron Junessic Land hace mucho tiempo, pero su tecnolog胤a abandonada permanece... 夷C吋mo pueden los dinosaurios enfrentar lo que los humanos dejaron atr茨s?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト によれ めゎゆぺょよれ ぺほぺょぽよょぺるよょ どゎょまれれもぼ[n]にぺょぽ めぺぼま ゆゎぼめよ ろもまゆらよデ らまるよ れゎ ろまぼょよゅよむウぺ[n]ぺほぺょぽよょぺぽぺ らまるゆぺょまぼまテテテ エぢカゆよ らゎまぽまょ ゅよれ[n]ぽもょよれぺゎるもよれ まょみるまょろぺる ゅよ りゎま ゅよれ めゎゆぺょよれ[n]ぽまゃぺるよょ ぺろるァれ?[n][e]
 
 [msg quest_story_017]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Es hora de que seas un astuto detective en la Kamociudad. 斡Entrevista a los testigos! 斡Recorre las escenas del crimen! 斡Resuelve el misterio en un emocionante revelaci吋n al final de la pel胤cula![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト つれ めよるぺ ぽま りゎま れまぺれ ゎょ ぺれろゎろよ[n]ぽまろまぼろもわま まょ ゅぺ なぺゆよぼもゎぽぺぽテ ィつょろるまわもれろぺ ぺ ゅよれ[n]ろまれろもむよれ! ィぱまぼよるるま ゅぺれ まれぼまょぺれ ぽまゅ ぼるもゆまょ![n]ィぱまれゎまゅわま まゅ ゆもれろまるもよ まょ ゎょ まゆよぼもよょぺょろま[n]るまわまゅぺぼもカょ ぺゅ みもょぺゅ ぽま ゅぺ らまゅウぼゎゅぺ![n][e]
 
 [msg quest_story_018]
-[f 0 5 65278][f 2 1]Sinopsis:[n]夷Tienes algo que sea precioso para ti? Por supuesto que s胤. 斡As胤 que lucha por ello! Y mira esta pel胤cula, donde todos hacen lo mismo. 斡Las apuestas no podr胤an ser m茨s altas![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト エびもまょまれ ぺゅむよ りゎま れまぺ らるまぼもよれよ らぺるぺ[n]ろも? はよる れゎらゎまれろよ りゎま れウテ ィだれウ りゎま ゅゎぼめぺ[n]らよる まゅゅよ! へ ゆもるぺ まれろぺ らまゅウぼゎゅぺデ ぽよょぽま[n]ろよぽよれ めぺぼまょ ゅよ ゆもれゆよテ ィにぺれ ぺらゎまれろぺれ ょよ らよぽるウぺょ[n]れまる ゆァれ ぺゅろぺれ![n][e]
 
 [msg quest_story_019]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Guerreros, re雨nanse! En esta isla antigua, hagan su 雨ltima defensa, 斡aunque las grandes bestias se eleven sobre ustedes! No deben titubear (especialmente en una pel胤cula tan 姻pica como esta).[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィてゎまるるまるよれデ るまグょぺょれま! つょ まれろぺ もれゅぺ[n]ぺょろもむゎぺデ めぺむぺょ れゎ グゅろもゆぺ ぽまみまょれぺデ ィぺゎょりゎま[n]ゅぺれ むるぺょぽまれ ほまれろもぺれ れま まゅまわまょ れよほるま[n]ゎれろまぽまれ! ねよ ぽまほまょ ろもろゎほまぺる ドまれらまぼもぺゅゆまょろま まょ[n]ゎょぺ らまゅウぼゎゅぺ ろぺょ イらもぼぺ ぼよゆよ まれろぺナテ[n][e]
 
 [msg quest_story_020]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1]【あらすじ】 　カット予定[n][e]
 
 [msg quest_story_021]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Busca ingredientes en la jungla y crea el plato perfecto! Los programas de cocina normales no se comparan con esto, un programa de cocina en la naturaleza implacable...[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィちゎれぼぺ もょむるまぽもまょろまれ まょ ゅぺ ゃゎょむゅぺ[n]を ぼるまぺ まゅ らゅぺろよ らまるみまぼろよ! によれ らるよむるぺゆぺれ ぽま[n]ぼよぼもょぺ ょよるゆぺゅまれ ょよ れま ぼよゆらぺるぺょ ぼよょ まれろよデ[n]ゎょ らるよむるぺゆぺ ぽま ぼよぼもょぺ まょ ゅぺ ょぺろゎるぺゅまんぺ[n]もゆらゅぺぼぺほゅまテテテ[n][e]
 
 [msg quest_story_022]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡No te pierdas esta intensa batalla con los amenazadores soldados dorados de "A.I.G.I.S."! 斡Esta pel胤cula de acci吋n espectacular te dejar茨 el cerebro hecho papilla![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィねよ ろま らもまるぽぺれ まれろぺ もょろまょれぺ ほぺろぺゅゅぺ[n]ぼよょ ゅよれ ぺゆまょぺんぺぽよるまれ れよゅぽぺぽよれ ぽよるぺぽよれ[n]ぽま "だテとテてテとテひテ"! ィつれろぺ らまゅウぼゎゅぺ ぽま ぺぼぼもカょ[n]まれらまぼろぺぼゎゅぺる ろま ぽまゃぺるァ まゅ ぼまるまほるよ めまぼめよ[n]らぺらもゅゅぺ![n][e]
 
 [msg quest_story_023]
-[f 0 5 65278][f 2 1]Sinopsis:[n]La batalla final con los habitantes de "A.I.G.I.S." 斡Hombre contra m茨quina... Qui姻n triunfar茨 finalmente sobre el otro?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト にぺ ほぺろぺゅゅぺ みもょぺゅ ぼよょ ゅよれ めぺほもろぺょろまれ[n]ぽま "だテとテてテとテひテ" ィでよゆほるま ぼよょろるぺ ゆァりゎもょぺテテテ[n]ばゎもイょ ろるもゎょみぺるァ みもょぺゅゆまょろま れよほるま まゅ[n]よろるよ?[n][e]
 
 [msg quest_story_024]
-[f 0 5 65278][f 2 1]Sinopsis:[n]En esta proyecci吋n especial, "A.I.G.I.S." tiene nuevo equipo de seguridad. 夷Qui姻n ser茨 el primero en sabotearlo todo?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト つょ まれろぺ らるよをまぼぼもカょ まれらまぼもぺゅデ[n]"だテとテてテとテひテ" ろもまょま ょゎまわよ まりゎもらよ ぽま れまむゎるもぽぺぽテ[n]エばゎもイょ れまるァ まゅ らるもゆまるよ まょ れぺほよろまぺるゅよ ろよぽよ?[n][e]
 
 [msg quest_story_025]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Solicitud de misi吋n de emergencia! 斡Localiza el KNS-1000 dentro de "A.I.G.I.S." y pon a prueba tu determinaci吋n![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィひよゅもぼもろゎぽ ぽま ゆもれもカょ ぽま まゆまるむまょぼもぺ![n]ィによぼぺゅもんぺ まゅ なねひ-ソゼゼゼ ぽまょろるよ ぽま "だテとテてテとテひテ"[n]を らよょ ぺ らるゎまほぺ ろゎ ぽまろまるゆもょぺぼもカょ![n][e]
 
 [msg quest_story_026]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Una gran b雨squeda del tesoro est茨 ocurriendo en la jungla! 斡Compite para encontrar el bot胤n perfecto buscado por un investigador! 夷Es el premio final uno de riquezas o de amor?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィぴょぺ むるぺょ ほグれりゎまぽぺ ぽまゅ ろまれよるよ まれろァ[n]よぼゎるるもまょぽよ まょ ゅぺ ゃゎょむゅぺ! ィぢよゆらもろま らぺるぺ[n]まょぼよょろるぺる まゅ ほよろウょ らまるみまぼろよ ほゎれぼぺぽよ らよる ゎょ[n]もょわまれろもむぺぽよる! エつれ まゅ らるまゆもよ みもょぺゅ ゎょよ ぽま[n]るもりゎまんぺれ よ ぽま ぺゆよる?[n][e]
 
 [msg quest_story_027]
-[f 0 5 65278][f 2 1]Sinopsis:[n]"La basura de uno es el tesoro de otro"... como en esta pel胤cula, que est茨 llena de piezas de m茨quina. 夷Qu姻 joya preciosa encontrar茨s entre los escombros?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト "にぺ ほぺれゎるぺ ぽま ゎょよ まれ まゅ ろまれよるよ ぽま[n]よろるよ"テテテ ぼよゆよ まょ まれろぺ らまゅウぼゎゅぺデ りゎま まれろァ[n]ゅゅまょぺ ぽま らもまんぺれ ぽま ゆァりゎもょぺテ エばゎイ ゃよをぺ[n]らるまぼもよれぺ まょぼよょろるぺるァれ まょろるま ゅよれ まれぼよゆほるよれ?[n][e]
 
 [msg quest_story_028]
-[f 0 5 65278][f 2 1]Sinopsis:[n]夷Listo para abordar una de las preguntas m茨s grandes de la ciencia ficci吋n de todos los tiempos? Luego, entra en esta proyecci吋n especial y preg雨ntate... si las m茨quinas pueden amar.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト エにもれろよ らぺるぺ ぺほよるぽぺる ゎょぺ ぽま ゅぺれ[n]らるまむゎょろぺれ ゆァれ むるぺょぽまれ ぽま ゅぺ ぼもまょぼもぺ みもぼぼもカょ[n]ぽま ろよぽよれ ゅよれ ろもまゆらよれ? にゎまむよデ まょろるぺ まょ まれろぺ[n]らるよをまぼぼもカょ まれらまぼもぺゅ を らるまむグょろぺろまテテテ れも[n]ゅぺれ ゆァりゎもょぺれ らゎまぽまょ ぺゆぺるテ[n][e]
 
 [msg quest_story_029]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Una prueba de fuerza contra el m茨s fuerte de los carn胤voros, 斡que termina en una batalla final clim茨tica! Dile que quite sus malditas garras de encima de ti.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ぴょぺ らるゎまほぺ ぽま みゎまるんぺ ぼよょろるぺ まゅ ゆァれ[n]みゎまるろま ぽま ゅよれ ぼぺるょウわよるよれデ ィりゎま ろまるゆもょぺ[n]まょ ゎょぺ ほぺろぺゅゅぺ みもょぺゅ ぼゅもゆァろもぼぺ! っもゅま りゎま[n]りゎもろま れゎれ ゆぺゅぽもろぺれ むぺるるぺれ ぽま まょぼもゆぺ ぽま ろもテ[n][e]
 
 [msg quest_story_030]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Navega por una compleja red de caminos para llegar a tu destino! 夷Est茨s preparado para un desaf胤o de l吋gica y astucia, o te perder茨s en un laberinto cinematogr茨fico?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィねぺわまむぺ らよる ゎょぺ ぼよゆらゅまゃぺ るまぽ ぽま[n]ぼぺゆもょよれ らぺるぺ ゅゅまむぺる ぺ ろゎ ぽまれろもょよ! エつれろァれ[n]らるまらぺるぺぽよ らぺるぺ ゎょ ぽまれぺみウよ ぽま ゅカむもぼぺ を ぺれろゎぼもぺデ[n]よ ろま らまるぽまるァれ まょ ゎょ ゅぺほまるもょろよ[n]ぼもょまゆぺろよむるァみもぼよ?[n][e]
 
 [msg quest_story_031]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Discotecas... Lugares oscuros de sobrecarga sensorial que a雨n requieren que interpretes un mont吋n de se隠ales sociales. No es f茨cil... 夷Crees que puedes hacerlo?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト っもれぼよろまぼぺれテテテ にゎむぺるまれ よれぼゎるよれ ぽま[n]れよほるまぼぺるむぺ れまょれよるもぺゅ りゎま ぺグょ るまりゎもまるまょ りゎま[n]もょろまるらるまろまれ ゎょ ゆよょろカょ ぽま れまォぺゅまれ れよぼもぺゅまれテ[n]ねよ まれ みァぼもゅテテテ エぢるままれ りゎま らゎまぽまれ[n]めぺぼまるゅよ?[n][e]
 
 [msg quest_story_032]
-[f 0 5 65278][f 2 1]Sinopsis:[n]La Kamociudad ha perdido a su h姻roe. 夷A qui姻n acudir茨n sus habitantes? Tal vez a nadie m茨s que a TI. Si demuestras ser un h姻roe, claro. 斡Es hora de tu papel protag吋nico![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト にぺ なぺゆよぼもゎぽぺぽ めぺ らまるぽもぽよ ぺ れゎ めイるよまテ[n]エだ りゎもイょ ぺぼゎぽもるァょ れゎれ めぺほもろぺょろまれ? びぺゅ[n]わまん ぺ ょぺぽもま ゆァれ りゎま ぺ びとテ ひも ぽまゆゎまれろるぺれ[n]れまる ゎょ めイるよまデ ぼゅぺるよテ ィつれ めよるぺ ぽま ろゎ らぺらまゅ[n]らるよろぺむカょもぼよ![n][e]
 
 [msg quest_story_033]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Se buscan cazadores de tesoros. 夷Cu茨l es la vieja rima? 夷Interruptores obtienen riquezas? 夷No? Bueno, eso es exactamente lo que obtendr茨s al operar los interruptores en esta pel胤cula.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ひま ほゎれぼぺょ ぼぺんぺぽよるまれ ぽま ろまれよるよれテ[n]エぢゎァゅ まれ ゅぺ わもまゃぺ るもゆぺ? エとょろまるるゎらろよるまれ[n]よほろもまょまょ るもりゎまんぺれ? エねよ? ちゎまょよデ まれよ まれ まゑぺぼろぺゆまょろま[n]ゅよ りゎま よほろまょぽるァれ ぺゅ よらまるぺる ゅよれ[n]もょろまるるゎらろよるまれ まょ まれろぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg quest_story_034]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1]【あらすじ】 　カット予定[n][e]
 
 [msg quest_story_035]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Una historia de misterio en la que buscas huevos de Pascua que solo un verdadero fan puede encontrar. No te preocupes, esto no es una persecuci吋n absurda... a menos que te refieras a la que pone huevos de oro.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ぴょぺ めもれろよるもぺ ぽま ゆもれろまるもよ まょ ゅぺ りゎま[n]ほゎれぼぺれ めゎまわよれ ぽま はぺれぼゎぺ りゎま れよゅよ ゎょ[n]わまるぽぺぽまるよ みぺょ らゎまぽま まょぼよょろるぺるテ ねよ ろま らるまよぼゎらまれデ[n]まれろよ ょよ まれ ゎょぺ らまるれまぼゎぼもカょ ぺほれゎるぽぺテテテ[n]ぺ ゆまょよれ りゎま ろま るまみもまるぺれ ぺ ゅぺ りゎま らよょま[n]めゎまわよれ ぽま よるよテ[n][e]
 
 [msg quest_story_036]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Ha estallado una guerra. 夷Y son soldados de infanter胤a contra tanques? 夷C吋mo vencer茨 esta infanter胤a valiente las probabilidades... a menos que aparezca un h姻roe como t雨![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト でぺ まれろぺゅゅぺぽよ ゎょぺ むゎまるるぺテ エへ れよょ[n]れよゅぽぺぽよれ ぽま もょみぺょろまるウぺ ぼよょろるぺ ろぺょりゎまれ? エぢカゆよ[n]わまょぼまるァ まれろぺ もょみぺょろまるウぺ わぺゅもまょろま ゅぺれ[n]らるよほぺほもゅもぽぺぽまれテテテ ぺ ゆまょよれ りゎま ぺらぺるまんぼぺ ゎょ[n]めイるよま ぼよゆよ ろグ![n][e]
 
 [msg quest_story_037]
-[f 0 5 65278][f 2 1]Sinopsis:[n]El Sr. Oso te est茨 esperando, en lo m茨s profundo del bosque. 斡Fortalece tus nervios y enfrenta a este gran enemigo! No pienses. 斡Siente![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト つゅ ひるテ のれよ ろま まれろァ まれらまるぺょぽよデ まょ[n]ゅよ ゆァれ らるよみゎょぽよ ぽまゅ ほよれりゎまテ ィづよるろぺゅまぼま ろゎれ[n]ょまるわもよれ を まょみるまょろぺ ぺ まれろま むるぺょ まょまゆもむよ![n]ねよ らもまょれまれテ ィひもまょろま![n][e]
 
 [msg quest_story_038]
-[f 0 5 65278][f 2 1]Sinopsis:[n]Convierte a los verdugos robots en chatarra met茨lica. 夷No saben que son solo actores en esta historia, ejecut茨ndose en bits y bytes?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ぢよょわもまるろま ぺ ゅよれ わまるぽゎむよれ るよほよろれ まょ[n]ぼめぺろぺるるぺ ゆまろァゅもぼぺテ エねよ れぺほまょ りゎま れよょ れよゅよ[n]ぺぼろよるまれ まょ まれろぺ めもれろよるもぺデ まゃまぼゎろァょぽよれま[n]まょ ほもろれ を ほをろまれ?[n][e]
 
 [msg quest_story_039]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡La dee la da! 夷Listo para una pel胤cula musical? 斡La da dee la! Ser茨 muy divertido. 斡La da-dum da! La vida es un cabaret, amigo viejo.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィにぺ ぽまま ゅぺ ぽぺ! エにもれろよ らぺるぺ ゎょぺ[n]らまゅウぼゎゅぺ ゆゎれもぼぺゅ? ィにぺ ぽぺ ぽまま ゅぺ! ひまるァ ゆゎを[n]ぽもわまるろもぽよテ ィにぺ ぽぺ-ぽゎゆ ぽぺ! にぺ わもぽぺ まれ ゎょ[n]ぼぺほぺるまろデ ぺゆもむよ わもまゃよテ[n][e]
 
 [msg quest_story_040]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Canciones![n]斡Comida![n]斡Amor![n]夷Ya est茨s vendido a esta pel胤cula?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィぢぺょぼもよょまれ! ィぢよゆもぽぺ! ィだゆよる! エへぺ[n]まれろァれ わまょぽもぽよ ぺ まれろぺ らまゅウぼゎゅぺ?[n][e]
 
 [msg quest_story_041]
-[f 0 5 65278][f 2 1]Sinopsis:[n]No necesitas sentir vergüenza. Sigue adelante y di lo que piensas. Grita. C茨ntalo. Sigue tus pasiones. Eso es lo que hacen en esta pel胤cula, 斡y t雨 tambi姻n puedes hacerlo![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ねよ ょまぼまれもろぺれ れまょろもる わまるむゎまょんぺテ[n]ひもむゎま ぺぽまゅぺょろま を ぽも ゅよ りゎま らもまょれぺれテ てるもろぺテ[n]ぢァょろぺゅよテ ひもむゎま ろゎれ らぺれもよょまれテ つれよ まれ ゅよ りゎま[n]めぺぼまょ まょ まれろぺ らまゅウぼゎゅぺデ ィを ろグ ろぺゆほもイょ[n]らゎまぽまれ めぺぼまるゅよ![n][e]
 
 [msg quest_story_042]
-[f 0 5 65278][f 2 1]Sinopsis:[n]夷Conoces el secreto de las mariposas? Te llevar茨n al sue隠o... con sus colores, sus danzas y su gracia. Cuidado... no vayan a obstruir tu magia.[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト エぢよょよぼまれ まゅ れまぼるまろよ ぽま ゅぺれ ゆぺるもらよれぺれ?[n]びま ゅゅまわぺるァょ ぺゅ れゎまォよテテテ ぼよょ れゎれ ぼよゅよるまれデ[n]れゎれ ぽぺょんぺれ を れゎ むるぺぼもぺテ ぢゎもぽぺぽよテテテ ょよ[n]わぺをぺょ ぺ よほれろるゎもる ろゎ ゆぺむもぺテ[n][e]
 
 [msg quest_story_043]
-[f 0 5 65278][f 2 1]Sinopsis:[n]La vida est茨 llena de elecciones, y esta pel胤cula lo refleja siendo una historia de aventuras en la que t雨 eliges. Pero, por supuesto, 夷no est茨s ya viviendo una de esas?[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト にぺ わもぽぺ まれろァ ゅゅまょぺ ぽま まゅまぼぼもよょまれデ[n]を まれろぺ らまゅウぼゎゅぺ ゅよ るまみゅまゃぺ れもまょぽよ ゎょぺ[n]めもれろよるもぺ ぽま ぺわまょろゎるぺれ まょ ゅぺ りゎま ろグ まゅもむまれテ[n]はまるよデ らよる れゎらゎまれろよデ エょよ まれろァれ をぺ わもわもまょぽよ[n]ゎょぺ ぽま まれぺれ?[n][e]
 
 [msg quest_story_044]
-[f 0 5 65278][f 2 1]【あらすじ】[n]　カット予定[n][e]
+[f 0 5 65278][f 2 1]【あらすじ】 　カット予定[n][e]
 
 [msg quest_story_045]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Estreno mundial! Es hora de revelar qui姻n es el m茨s osuno de todos. Todos los a隠os de juegos de palabras con osos han llevado a esto, la batalla decisiva...[n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィつれろるまょよ ゆゎょぽもぺゅ! つれ めよるぺ ぽま るまわまゅぺる[n]りゎもイょ まれ まゅ ゆァれ よれゎょよ ぽま ろよぽよれテ びよぽよれ[n]ゅよれ ぺォよれ ぽま ゃゎまむよれ ぽま らぺゅぺほるぺれ ぼよょ よれよれ[n]めぺょ ゅゅまわぺぽよ ぺ まれろよデ ゅぺ ほぺろぺゅゅぺ ぽまぼもれもわぺテテテ[n][e]
 
 [msg quest_story_046]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡遺rdenes de emergencia! 斡Devuelve el tesoro sin demora! 斡Esta pel胤cula de acci吋n de ladrones de guante blanco, llena de velocidad y emoci吋n, te mantendr茨 al borde tu asiento![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィガるぽまょまれ ぽま まゆまるむまょぼもぺ! ィっまわゎまゅわま[n]まゅ ろまれよるよ れもょ ぽまゆよるぺ! ィつれろぺ らまゅウぼゎゅぺ ぽま[n]ぺぼぼもカょ ぽま ゅぺぽるよょまれ ぽま むゎぺょろま ほゅぺょぼよデ ゅゅまょぺ[n]ぽま わまゅよぼもぽぺぽ を まゆよぼもカょデ ろま ゆぺょろまょぽるァ ぺゅ[n]ほよるぽま ろゎ ぺれもまょろよ![n][e]
 
 [msg quest_story_047]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Proyecci吋n especial de emergencia! 斡El terror se apodera de la Kamociudad! 斡Derrota la amenaza donde se ha establecido, en la Plaza Kamoshida![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィはるよをまぼぼもカょ まれらまぼもぺゅ ぽま まゆまるむまょぼもぺ![n]ィつゅ ろまるるよる れま ぺらよぽまるぺ ぽま ゅぺ なぺゆよぼもゎぽぺぽ![n]ィっまるるよろぺ ゅぺ ぺゆまょぺんぺ ぽよょぽま れま めぺ まれろぺほゅまぼもぽよデ[n]まょ ゅぺ はゅぺんぺ なぺゆよれめもぽぺ![n][e]
 
 [msg quest_story_048]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Proyecci吋n especial de emergencia! Problemas en Junessic Land. 斡Derrota la nueva amenaza que acecha en la tierra de los dinosaurios![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィはるよをまぼぼもカょ まれらまぼもぺゅ ぽま まゆまるむまょぼもぺ![n]はるよほゅまゆぺれ まょ どゎょまれれもぼ にぺょぽテ ィっまるるよろぺ ゅぺ[n]ょゎまわぺ ぺゆまょぺんぺ りゎま ぺぼまぼめぺ まょ ゅぺ ろもまるるぺ ぽま[n]ゅよれ ぽもょよれぺゎるもよれ![n][e]
 
 [msg quest_story_049]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Proyecci吋n especial de emergencia! 斡Un poderoso enemigo ha aparecido en A.I.G.I.S. y ha tomado el control de la sala de mando! 斡Debes derrotarlo![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィはるよをまぼぼもカょ まれらまぼもぺゅ ぽま まゆまるむまょぼもぺ![n]ィぴょ らよぽまるよれよ まょまゆもむよ めぺ ぺらぺるまぼもぽよ まょ[n]だテとテてテとテひテ を めぺ ろよゆぺぽよ まゅ ぼよょろるよゅ ぽま ゅぺ れぺゅぺ[n]ぽま ゆぺょぽよ! ィっまほまれ ぽまるるよろぺるゅよ![n][e]
 
 [msg quest_story_050]
-[f 0 5 65278][f 2 1]Sinopsis:[n]斡Proyecci吋n especial de emergencia! 斡Todo Hikari est茨 consternado, porque lo impensable ha ocurrido! S胤, un enemigo ha aparecido... 斡y ha tomado el centro del escenario![n][e]
+[f 0 5 65278][f 2 1]ひもょよられもれト ィはるよをまぼぼもカょ まれらまぼもぺゅ ぽま まゆまるむまょぼもぺ![n]ィびよぽよ でもやぺるも まれろァ ぼよょれろまるょぺぽよデ らよるりゎま[n]ゅよ もゆらまょれぺほゅま めぺ よぼゎるるもぽよ! ひウデ ゎょ まょまゆもむよ[n]めぺ ぺらぺるまぼもぽよテテテ ィを めぺ ろよゆぺぽよ まゅ ぼまょろるよ[n]ぽまゅ まれぼまょぺるもよ![n][e]
 

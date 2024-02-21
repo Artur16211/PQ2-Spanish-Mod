@@ -1,5 +1,5 @@
 ﻿[msg MSG_TUTORIAL_AUTO_RECOVE]
-[f 0 5 65278][f 2 1]Presionar [f 0 1 2]START[f 0 1 0] mientras est茨s dentro del laberinto[n]activar茨 la opci吋n [f 0 1 2]Autorecuperaci吋n[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]La [f 0 1 2]Autorecuperaci吋n[f 0 1 0] utiliza autom茨ticamente las[n]habilidades m茨s 吋ptimas para sanar.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Esta puede [f 0 1 2]sanar a todo el grupo[f 0 1 0].[n]斡No lo olvides si la situaci吋n lo requiere![n][f 1 1][e]
+[f 0 5 65278][f 2 1]はるまれもよょぺる [f 0 1 2]ひびだぱび[f 0 1 0] ゆもまょろるぺれ まれろァれ ぽまょろるよ ぽまゅ ゅぺほまるもょろよ[n]ぺぼろもわぺるァ ゅぺ よらぼもカょ [f 0 1 2]だゎろよるまぼゎらまるぺぼもカょ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]にぺ [f 0 1 2]だゎろよるまぼゎらまるぺぼもカょ[f 0 1 0] ゎろもゅもんぺ ぺゎろよゆァろもぼぺゆまょろま ゅぺれ[n]めぺほもゅもぽぺぽまれ ゆァれ カらろもゆぺれ らぺるぺ れぺょぺるテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つれろぺ らゎまぽま [f 0 1 2]れぺょぺる ぺ ろよぽよ まゅ むるゎらよ[f 0 1 0]テ[n]ィねよ ゅよ よゅわもぽまれ れも ゅぺ れもろゎぺぼもカょ ゅよ るまりゎもまるま![n][f 1 1][e]
 

@@ -1,17 +1,17 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1][n]Adem茨s de su [f 0 1 2]Persona principal[f 0 1 2], cada compa隠ero[n]de equipo puede tener una adicional: una Persona[n]Secundaria [f 0 1 0]intercambiable libremente.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]だぽまゆァれ ぽま れゎ [f 0 1 2]はまるれよょぺ らるもょぼもらぺゅ[f 0 1 2]デ ぼぺぽぺ ぼよゆらぺォまるよ[n]ぽま まりゎもらよ らゎまぽま ろまょまる ゎょぺ ぺぽもぼもよょぺゅト ゎょぺ はまるれよょぺ[n]ひまぼゎょぽぺるもぺ [f 0 1 0]もょろまるぼぺゆほもぺほゅま ゅもほるまゆまょろまテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes04]
-[f 0 5 65278][f 2 1]Abre el men雨 con el [f 0 1 2]bot吋n X[f 0 1 0] y selecciona [f 0 1 2]PERSONA[f 0 1 0][n]para asignar Personas Secundarias.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]だほるま まゅ ゆまょグ ぼよょ まゅ [f 0 1 2]ほよろカょ ぷ[f 0 1 0] を れまゅまぼぼもよょぺ [f 0 1 2]はつぱひのねだ[f 0 1 0][n]らぺるぺ ぺれもむょぺる はまるれよょぺれ ひまぼゎょぽぺるもぺれテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1]Esto permite que cada compa隠ero de equipo tenga[n]habilidades de dos Personas: la principal y la[n]secundaria.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つれろよ らまるゆもろま りゎま ぼぺぽぺ ぼよゆらぺォまるよ ぽま まりゎもらよ ろまょむぺ[n]めぺほもゅもぽぺぽまれ ぽま ぽよれ はまるれよょぺれト ゅぺ らるもょぼもらぺゅ を ゅぺ[n]れまぼゎょぽぺるもぺテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes03]
-[f 0 5 65278][f 2 1]Los puntos de salud (PS) y los puntos de habilidad[n](PE) de una Persona Secundaria se suman a los del[n]miembro del grupo como un [f 0 1 2]bono[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]斡Los puntos de salud (PS) y los puntos de habilidad[n](PE) adicionales se [f 0 1 2]repondr茨n autom茨ticamente[n]al comienzo de cualquier batalla[f 0 1 0]![n][f 1 1][e]
+[f 0 5 65278][f 2 1]によれ らゎょろよれ ぽま れぺゅゎぽ ドはひナ を ゅよれ らゎょろよれ ぽま めぺほもゅもぽぺぽ[n]ドはつナ ぽま ゎょぺ はまるれよょぺ ひまぼゎょぽぺるもぺ れま れゎゆぺょ ぺ ゅよれ ぽまゅ[n]ゆもまゆほるよ ぽまゅ むるゎらよ ぼよゆよ ゎょ [f 0 1 2]ほよょよ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]ィによれ らゎょろよれ ぽま れぺゅゎぽ ドはひナ を ゅよれ らゎょろよれ ぽま めぺほもゅもぽぺぽ[n]ドはつナ ぺぽもぼもよょぺゅまれ れま [f 0 1 2]るまらよょぽるァょ ぺゎろよゆァろもぼぺゆまょろま[n]ぺゅ ぼよゆもまょんよ ぽま ぼゎぺゅりゎもまる ほぺろぺゅゅぺ[f 0 1 0]![n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes05]
-[f 0 5 65278][f 2 1][n]Asignar una Persona Secundaria cuyo [f 0 1 2]nivel es[n]muy bajo[f 0 1 0] en comparaci吋n con la Persona principal[n]reducir茨 el poder de algunas habilidades de ataque[f 0 1 0].[n][n]Siempre intenta darles a tus compa隠eros de equipo una[n]Persona Secundaria con un nivel cercano al de su[n]Persona principal.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Puedes asignar Personas Secundarias en [f 0 1 2]cualquier[n]momento mientras no est姻s en batalla[f 0 1 0].[n][n]Pero una vez que est姻s en batalla, no podr茨s usar ninguna[n]Persona Secundaria que no haya sido asignada.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]だれもむょぺる ゎょぺ はまるれよょぺ ひまぼゎょぽぺるもぺ ぼゎをよ [f 0 1 2]ょもわまゅ まれ[n]ゆゎを ほぺゃよ[f 0 1 0] まょ ぼよゆらぺるぺぼもカょ ぼよょ ゅぺ はまるれよょぺ らるもょぼもらぺゅ[n]るまぽゎぼもるァ まゅ らよぽまる ぽま ぺゅむゎょぺれ めぺほもゅもぽぺぽまれ ぽま ぺろぺりゎま[f 0 1 0]テ[n][n]ひもまゆらるま もょろまょろぺ ぽぺるゅまれ ぺ ろゎれ ぼよゆらぺォまるよれ ぽま まりゎもらよ ゎょぺ[n]はまるれよょぺ ひまぼゎょぽぺるもぺ ぼよょ ゎょ ょもわまゅ ぼまるぼぺょよ ぺゅ ぽま れゎ[n]はまるれよょぺ らるもょぼもらぺゅテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]はゎまぽまれ ぺれもむょぺる はまるれよょぺれ ひまぼゎょぽぺるもぺれ まょ [f 0 1 2]ぼゎぺゅりゎもまる[n]ゆよゆまょろよ ゆもまょろるぺれ ょよ まれろイれ まょ ほぺろぺゅゅぺ[f 0 1 0]テ[n][n]はまるよ ゎょぺ わまん りゎま まれろイれ まょ ほぺろぺゅゅぺデ ょよ らよぽるァれ ゎれぺる ょもょむゎょぺ[n]はまるれよょぺ ひまぼゎょぽぺるもぺ りゎま ょよ めぺをぺ れもぽよ ぺれもむょぺぽぺテ[n][f 1 1][e]
 

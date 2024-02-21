@@ -1,2304 +1,2304 @@
-﻿[msg weapon_000]
-[f 0 5 65278][f 2 1]武器　0x000　１行目[n]武器　0x000　２行目[n][e]
+[msg weapon_000]
+[f 0 5 65278][f 2 1]武器　ゼゑゼゼゼ　１行目 武器　ゼゑゼゼゼ　２行目[n][e]
 
 [msg weapon_001]
-[f 0 5 65278][f 2 1]Un cuchillo sencillo que es fácil de manejar.[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ れまょぼもゅゅよ りゎま まれ みァぼもゅ ぽま ゆぺょまゃぺるテ[n][e]
 
 [msg weapon_002]
-[f 0 5 65278][f 2 1]Un cuchillo hecho con materiales ligeros.[n][f 0 1 3]Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ めまぼめよ ぼよょ ゆぺろまるもぺゅまれ ゅもむまるよれテ[n][f 0 1 3]だむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_003]
-[f 0 5 65278][f 2 1]Una peque隠a daga con un borde afilado.[n][f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らまりゎまォぺ ぽぺむぺ ぼよょ ゎょ ほよるぽま ぺみもゅぺぽよテ[n][f 0 1 3]はるまぼもれもカょ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_004]
-[f 0 5 65278][f 2 1]Un cuchillo con veneno rojo. [f 0 1 3]Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ぼよょ わまょまょよ るよゃよテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま[n]はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_005]
-[f 0 5 65278][f 2 1]Un cuchillo corto fabricado en Nepal.[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ぼよるろよ みぺほるもぼぺぽよ まょ ねまらぺゅテ[n][e]
 
 [msg weapon_006]
-[f 0 5 65278][f 2 1]Un cuchillo corto diseñado para retener veneno en su hoja. [f 0 1 3]Prob. baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ぼよるろよ ぽもれまォぺぽよ らぺるぺ るまろまょまる わまょまょよ[n]まょ れゎ めよゃぺテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_007]
-[f 0 5 65278][f 2 1]Una daga ritualística recubierta de plata.[n][f 0 1 3]Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぽぺむぺ るもろゎぺゅウれろもぼぺ るまぼゎほもまるろぺ ぽま らゅぺろぺテ[n][f 0 1 3]ぬぺ +ソ[f 0 1 0][n][e]
 
 [msg weapon_008]
-[f 0 5 65278][f 2 1]Un cuchillo con un filo hecho de mineral negro.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ぼよょ ゎょ みもゅよ めまぼめよ ぽま ゆもょまるぺゅ[n]ょまむるよテ [f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_009]
-[f 0 5 65278][f 2 1]Una espada corta procesada para obtener el máximo filo. [f 0 1 3]Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぼよるろぺ らるよぼまれぺぽぺ らぺるぺ よほろまょまる まゅ[n]ゆァゑもゆよ みもゅよテ [f 0 1 3]ひゎ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_00A]
-[f 0 5 65278][f 2 1]Un kopis afilado de alta calidad. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やよらもれ ぺみもゅぺぽよ ぽま ぺゅろぺ ぼぺゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ[n]+ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_00B]
-[f 0 5 65278][f 2 1]Un bisturí con aspecto intimidante.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ほもれろゎるウ ぼよょ ぺれらまぼろよ もょろもゆもぽぺょろまテ [f 0 1 3]だむ +タ[f 0 1 0][n][e]
 
 [msg weapon_00C]
-[f 0 5 65278][f 2 1]Una espada corta casi futurista teñida de energía.[n][f 0 1 3]Prob. media de par茨lisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぼよるろぺ ぼぺれも みゎろゎるもれろぺ ろまォもぽぺ ぽま[n]まょまるむウぺテ [f 0 1 3]はるよほテ ゆまぽもぺ ぽま らぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_00D]
-[f 0 5 65278][f 2 1]Cuchillo peque隠o hecho de metales no naturales.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢゎぼめもゅゅよ らまりゎまォよ めまぼめよ ぽま ゆまろぺゅまれ ょよ ょぺろゎるぺゅまれテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_00E]
-[f 0 5 65278][f 2 1]Una cuchara. No estaba destinada a esto.[n][f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぼゎぼめぺるぺテ ねよ まれろぺほぺ ぽまれろもょぺぽぺ ぺ まれろよテ[n][f 0 1 3]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_00F]
-[f 0 5 65278][f 2 1]Esta daga desvía golpes utilizando energía magnética. [f 0 1 3]Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つれろぺ ぽぺむぺ ぽまれわウぺ むよゅらまれ ゎろもゅもんぺょぽよ まょまるむウぺ[n]ゆぺむょイろもぼぺテ [f 0 1 3]ぱれ +ダ[f 0 1 0][n][e]
 
 [msg weapon_010]
-[f 0 5 65278][f 2 1]La espada corta poseída de un cierto alquimista. [f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺ まれらぺぽぺ ぼよるろぺ らよれまウぽぺ ぽま ゎょ ぼもまるろよ ぺゅりゎもゆもれろぺテ[n][f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg weapon_011]
-[f 0 5 65278][f 2 1]Un bastón multiusos para cualquier situación.[n][f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ほぺれろカょ ゆゎゅろもゎれよれ らぺるぺ ぼゎぺゅりゎもまる れもろゎぺぼもカょテ[n][f 0 1 3]びよぽぺれ ゅぺれ まれろぺぽテ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_012]
-[f 0 5 65278][f 2 1]Un cuchillo encantado para cortar cualquier[n]material.[n][f 0 1 3]Prob. crítica +20%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ まょぼぺょろぺぽよ らぺるぺ ぼよるろぺる ぼゎぺゅりゎもまる[n]ゆぺろまるもぺゅテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ゾゼ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_013]
-[f 0 5 65278][f 2 1]Una espada corta penetrante para los misericordiosos. [f 0 1 3]Prob. baja de Muerte Inst./Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぼよるろぺ らまょまろるぺょろま らぺるぺ ゅよれ[n]ゆもれまるもぼよるぽもよれよれテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテギだむ +チ[f 0 1 0][n][e]
 
 [msg weapon_014]
-[f 0 5 65278][f 2 1]Usado para reclamar el paraíso de los dioses.[n][f 0 1 3]Coste medio de PS/Ma +4/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴれぺぽよ らぺるぺ るまぼゅぺゆぺる まゅ らぺるぺウれよ ぽま ゅよれ ぽもよれまれテ[n][f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギぬぺ +ダギだむ +チ[f 0 1 0][n][e]
 
 [msg weapon_015]
-[f 0 5 65278][f 2 1]武器　0x015　１行目[n]武器　0x015　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソチ　１行目 武器　ゼゑゼソチ　２行目[n][e]
 
 [msg weapon_016]
-[f 0 5 65278][f 2 1]Una réplica de una cuchara de utilería utilizada en una película de fuga de la cárcel.[n][f 0 1 3]Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ るイらゅもぼぺ ぽま ゎょぺ ぼゎぼめぺるぺ ぽま ゎろもゅまるウぺ[n]ゎろもゅもんぺぽぺ まょ ゎょぺ らまゅウぼゎゅぺ ぽま みゎむぺ ぽま ゅぺ ぼァるぼまゅテ [f 0 1 3]ぱれ +ソ[f 0 1 0][n][e]
 
 [msg weapon_017]
-[f 0 5 65278][f 2 1]Un cuchillo utilizado por el único sobreviviente de una película de horror. [f 0 1 3]Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ゎろもゅもんぺぽよ らよる まゅ グょもぼよ れよほるまわもわもまょろま[n]ぽま ゎょぺ らまゅウぼゎゅぺ ぽま めよるるよるテ [f 0 1 3]ひゎ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_018]
-[f 0 5 65278][f 2 1]武器　0x018　１行目[n]武器　0x018　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソツ　１行目 武器　ゼゑゼソツ　２行目[n][e]
 
 [msg weapon_019]
-[f 0 5 65278][f 2 1]武器　0x019　１行目[n]武器　0x019　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソヅ　１行目 武器　ゼゑゼソヅ　２行目[n][e]
 
 [msg weapon_01A]
-[f 0 5 65278][f 2 1]武器　0x01A　１行目[n]武器　0x01A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソだ　１行目 武器　ゼゑゼソだ　２行目[n][e]
 
 [msg weapon_01B]
-[f 0 5 65278][f 2 1]武器　0x01B　１行目[n]武器　0x01B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソち　１行目 武器　ゼゑゼソち　２行目[n][e]
 
 [msg weapon_01C]
-[f 0 5 65278][f 2 1]武器　0x01C　１行目[n]武器　0x01C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソぢ　１行目 武器　ゼゑゼソぢ　２行目[n][e]
 
 [msg weapon_01D]
-[f 0 5 65278][f 2 1]武器　0x01D　１行目[n]武器　0x01D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソっ　１行目 武器　ゼゑゼソっ　２行目[n][e]
 
 [msg weapon_01E]
-[f 0 5 65278][f 2 1]武器　0x01E　１行目[n]武器　0x01E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソつ　１行目 武器　ゼゑゼソつ　２行目[n][e]
 
 [msg weapon_01F]
-[f 0 5 65278][f 2 1]武器　0x01F　１行目[n]武器　0x01F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼソづ　１行目 武器　ゼゑゼソづ　２行目[n][e]
 
 [msg weapon_020]
-[f 0 5 65278][f 2 1]武器　0x020　１行目[n]武器　0x020　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼゾゼ　１行目 武器　ゼゑゼゾゼ　２行目[n][e]
 
 [msg weapon_021]
-[f 0 5 65278][f 2 1]Una tubería de metal con un agarre perfecto.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ろゎほまるウぺ ぽま ゆまろぺゅ ぼよょ ゎょ ぺむぺるるま らまるみまぼろよテ[n][e]
 
 [msg weapon_022]
-[f 0 5 65278][f 2 1]Un palo con clavos para una mayor letalidad. [f 0 1 3]Precisi吋n +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぼよょ ぼゅぺわよれ らぺるぺ ゎょぺ ゆぺをよる ゅまろぺゅもぽぺぽテ[n][f 0 1 3]はるまぼもれもカょ +チ%[f 0 1 0][n][e]
 
 [msg weapon_023]
-[f 0 5 65278][f 2 1]Una vara que se balancea con un peso casi audible.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ わぺるぺ りゎま れま ほぺゅぺょぼまぺ ぼよょ ゎょ らまれよ ぼぺれも[n]ぺゎぽもほゅまテ [f 0 1 3]だむ +タ[f 0 1 0][n][e]
 
 [msg weapon_024]
-[f 0 5 65278][f 2 1]Un arma en forma de palo utilizada para golpear o cortar.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ まょ みよるゆぺ ぽま らぺゅよ ゎろもゅもんぺぽぺ らぺるぺ[n]むよゅらまぺる よ ぼよるろぺるテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_025]
-[f 0 5 65278][f 2 1]Un instrumento contundente personalizado hecho para parecer una tubería. [f 0 1 3]Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ もょれろるゎゆまょろよ ぼよょろゎょぽまょろま らまるれよょぺゅもんぺぽよ[n]めまぼめよ らぺるぺ らぺるまぼまる ゎょぺ ろゎほまるウぺテ [f 0 1 3]ぱれ +ソ[f 0 1 0][n][e]
 
 [msg weapon_026]
-[f 0 5 65278][f 2 1]武器　0x026　１行目[n]武器　0x026　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼゾヂ　１行目 武器　ゼゑゼゾヂ　２行目[n][e]
 
 [msg weapon_027]
-[f 0 5 65278][f 2 1]Un instrumento Grave para un poder de golpe adicional.[n][e]
+[f 0 5 65278][f 2 1]ぴょ もょれろるゎゆまょろよ てるぺわま らぺるぺ ゎょ らよぽまる ぽま むよゅらま[n]ぺぽもぼもよょぺゅテ[n][e]
 
 [msg weapon_028]
-[f 0 5 65278][f 2 1]Un palo hecho del hueso de la pierna de una[n]criatura gigante. [f 0 1 3]Máx. PS +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ めまぼめよ ぽまゅ めゎまれよ ぽま ゅぺ らもまるょぺ ぽま ゎょぺ[n]ぼるもぺろゎるぺ むもむぺょろまテ [f 0 1 3]ぬァゑテ はひ +チ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_029]
-[f 0 5 65278][f 2 1]Una tuber胤a de acero hecha de una maza de[n]demonio. [f 0 1 3]Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ろゎほまるウぺ ぽま ぺぼまるよ めまぼめぺ ぽま ゎょぺ ゆぺんぺ ぽま[n]ぽまゆよょもよテ [f 0 1 3]ぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_02A]
-[f 0 5 65278][f 2 1]Hecho para noquear a los oponentes.[n][f 0 1 3]Prob. media de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]でまぼめよ らぺるぺ ょよりゎまぺる ぺ ゅよれ よらよょまょろまれテ [f 0 1 3]はるよほテ[n]ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_02B]
-[f 0 5 65278][f 2 1]Contiene púas incrustadas para una brutalidad adicional.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢよょろもまょま らグぺれ もょぼるゎれろぺぽぺれ らぺるぺ ゎょぺ ほるゎろぺゅもぽぺぽ[n]ぺぽもぼもよょぺゅテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_02C]
-[f 0 5 65278][f 2 1]Un tubo de metal utilizado como refuerzo en un rascacielos. [f 0 1 3]Máx. PE +10%/Ma+ 3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ろゎほよ ぽま ゆまろぺゅ ゎろもゅもんぺぽよ ぼよゆよ るまみゎまるんよ まょ[n]ゎょ るぺれぼぺぼもまゅよれテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ+ タ[f 0 1 0][n][e]
 
 [msg weapon_02D]
-[f 0 5 65278][f 2 1]Una vara con colmillos espinosos de lobo.[n][f 0 1 3]Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ わぺるぺ ぼよょ ぼよゅゆもゅゅよれ まれらもょよれよれ ぽま ゅよほよテ[n][f 0 1 3]だむ +ダ[f 0 1 0][n][e]
 
 [msg weapon_02E]
-[f 0 5 65278][f 2 1]Un mazo utilizado por un árbitro deifico de la vida y la muerte.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺんよ ゎろもゅもんぺぽよ らよる ゎょ ァるほもろるよ ぽまもみもぼよ ぽま[n]ゅぺ わもぽぺ を ゅぺ ゆゎまるろまテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_02F]
-[f 0 5 65278][f 2 1]Una vara de mineral impregnada con el poder del planeta. [f 0 1 3]Máx. PE +10%/Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ わぺるぺ ぽま ゆもょまるぺゅ もゆらるまむょぺぽぺ ぼよょ まゅ らよぽまる[n]ぽまゅ らゅぺょまろぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +ソ[f 0 1 0][n][e]
 
 [msg weapon_030]
-[f 0 5 65278][f 2 1]Un mazo conocido como la base de la menor[n]arcana.[n][f 0 1 3]Prob. crítica +5%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺんよ ぼよょよぼもぽよ ぼよゆよ ゅぺ ほぺれま ぽま ゅぺ ゆまょよる[n]ぺるぼぺょぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_031]
-[f 0 5 65278][f 2 1]Una vara preferida por un dios dragón chino.[n][f 0 1 3]Máx. PS +15%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ わぺるぺ らるまみまるもぽぺ らよる ゎょ ぽもよれ ぽるぺむカょ ぼめもょよテ[n][f 0 1 3]ぬァゑテ はひ +ソチ%ギづる +タ[f 0 1 0][n][e]
 
 [msg weapon_032]
-[f 0 5 65278][f 2 1]Este bastón otorga tres deseos por cada balanceo. [f 0 1 3]Prob. alta de maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つれろま ほぺれろカょ よろよるむぺ ろるまれ ぽまれまよれ らよる ぼぺぽぺ[n]ほぺゅぺょぼまよテ [f 0 1 3]はるよほテ ぺゅろぺ ぽま ゆぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_033]
-[f 0 5 65278][f 2 1]Un bastón con el poder de romper cualquier cosa sólida.[n][f 0 1 3]Prob. crítica +20%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ほぺれろカょ ぼよょ まゅ らよぽまる ぽま るよゆらまる ぼゎぺゅりゎもまる[n]ぼよれぺ れカゅもぽぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ゾゼ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_034]
-[f 0 5 65278][f 2 1]Un arma extensible creada por Taishang Laojun.[n][f 0 1 3]Coste medio de PS/Fr +5/Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ まゑろまょれもほゅま ぼるまぺぽぺ らよる びぺもれめぺょむ にぺよゃゎょテ[n][f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +チギぱれ +ダ[f 0 1 0][n][e]
 
 [msg weapon_035]
-[f 0 5 65278][f 2 1]武器　0x035　１行目[n]武器　0x035　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタチ　１行目 武器　ゼゑゼタチ　２行目[n][e]
 
 [msg weapon_036]
-[f 0 5 65278][f 2 1]Un bono de edición limitada de una película de anime popular.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ほよょよ ぽま まぽもぼもカょ ゅもゆもろぺぽぺ ぽま ゎょぺ らまゅウぼゎゅぺ[n]ぽま ぺょもゆま らよらゎゅぺるテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_037]
-[f 0 5 65278][f 2 1]Una maza hecha de la rama de un árbol antiguo.[n][f 0 1 3]Máx. PE +5%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゆぺんぺ めまぼめぺ ぽま ゅぺ るぺゆぺ ぽま ゎょ ァるほよゅ ぺょろもむゎよテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_038]
-[f 0 5 65278][f 2 1]武器　0x038　１行目[n]武器　0x038　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタツ　１行目 武器　ゼゑゼタツ　２行目[n][e]
 
 [msg weapon_039]
-[f 0 5 65278][f 2 1]武器　0x039　１行目[n]武器　0x039　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタヅ　１行目 武器　ゼゑゼタヅ　２行目[n][e]
 
 [msg weapon_03A]
-[f 0 5 65278][f 2 1]武器　0x03A　１行目[n]武器　0x03A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタだ　１行目 武器　ゼゑゼタだ　２行目[n][e]
 
 [msg weapon_03B]
-[f 0 5 65278][f 2 1]武器　0x03B　１行目[n]武器　0x03B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタち　１行目 武器　ゼゑゼタち　２行目[n][e]
 
 [msg weapon_03C]
-[f 0 5 65278][f 2 1]武器　0x03C　１行目[n]武器　0x03C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタぢ　１行目 武器　ゼゑゼタぢ　２行目[n][e]
 
 [msg weapon_03D]
-[f 0 5 65278][f 2 1]武器　0x03D　１行目[n]武器　0x03D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタっ　１行目 武器　ゼゑゼタっ　２行目[n][e]
 
 [msg weapon_03E]
-[f 0 5 65278][f 2 1]武器　0x03E　１行目[n]武器　0x03E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタつ　１行目 武器　ゼゑゼタつ　２行目[n][e]
 
 [msg weapon_03F]
-[f 0 5 65278][f 2 1]武器　0x03F　１行目[n]武器　0x03F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼタづ　１行目 武器　ゼゑゼタづ　２行目[n][e]
 
 [msg weapon_040]
-[f 0 5 65278][f 2 1]武器　0x040　１行目[n]武器　0x040　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼダゼ　１行目 武器　ゼゑゼダゼ　２行目[n][e]
 
 [msg weapon_041]
-[f 0 5 65278][f 2 1]Un látigo de cuero de longitud respetable.[n][f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぽま ぼゎまるよ ぽま ゅよょむもろゎぽ るまれらまろぺほゅまテ[n][f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_042]
-[f 0 5 65278][f 2 1]武器　0x042　１行目[n]特性：[f 0 1 3]拡散[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼダゾ　１行目 特性：[f 0 1 3]拡散[f 0 1 0][n][e]
 
 [msg weapon_043]
-[f 0 5 65278][f 2 1]Un látigo que inspira sentimientos extraños en aquellos golpeados. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ りゎま もょれらもるぺ れまょろもゆもまょろよれ まゑろるぺォよれ[n]まょ ぺりゎまゅゅよれ むよゅらまぺぽよれテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_044]
-[f 0 5 65278][f 2 1]Un látigo con puntas agrupadas de púas de metal.[n][f 0 1 3]Distancia/Prob. baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぼよょ らゎょろぺれ ぺむるゎらぺぽぺれ ぽま らグぺれ ぽま[n]ゆまろぺゅテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_045]
-[f 0 5 65278][f 2 1]Un látigo para mezclar dolor y placer.[n][f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ らぺるぺ ゆまんぼゅぺる ぽよゅよる を らゅぺぼまるテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_046]
 [f 0 5 65278][f 2 1]特性：[f 0 1 3]拡散[f 0 1 0][n][e]
 
 [msg weapon_047]
-[f 0 5 65278][f 2 1]Un látigo flexible que enreda al objetivo.[n][f 0 1 3]Distancia/Prob. baja de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ みゅまゑもほゅま りゎま まょるまぽぺ ぺゅ よほゃまろもわよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0][n][e]
 
 [msg weapon_048]
-[f 0 5 65278][f 2 1]Un látigo de antiguas lianas enredadas.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぽま ぺょろもむゎぺれ ゅもぺょぺれ まょるまぽぺぽぺれテ [f 0 1 3]っぺォよ[n]ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_049]
-[f 0 5 65278][f 2 1]Un látigo retráctil que desgarra la carne.[n][f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ るまろるァぼろもゅ りゎま ぽまれむぺるるぺ ゅぺ ぼぺるょまテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_04A]
-[f 0 5 65278][f 2 1]Un látigo cargado de electricidad. [f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぼぺるむぺぽよ ぽま まゅまぼろるもぼもぽぺぽテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ[n]ほぺゃぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_04B]
-[f 0 5 65278][f 2 1]Un látigo adornado con púas viciosas.[n][f 0 1 3]Distancia/Prob. baja de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぺぽよるょぺぽよ ぼよょ らグぺれ わもぼもよれぺれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_04C]
-[f 0 5 65278][f 2 1]Un látigo largo que emite ondas de choque.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ゅぺるむよ りゎま まゆもろま よょぽぺれ ぽま ぼめよりゎまテ[n][f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_04D]
-[f 0 5 65278][f 2 1]Un látigo hecho para mujeres sabias.[n][f 0 1 3]Distancia/Máx. PS & PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ めまぼめよ らぺるぺ ゆゎゃまるまれ れぺほもぺれテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ & はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_04E]
-[f 0 5 65278][f 2 1]Un látigo que inflige un dolor eterno.[n][f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ りゎま もょみゅもむま ゎょ ぽよゅよる まろまるょよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_04F]
-[f 0 5 65278][f 2 1]Un látigo con espinas de pureza, fidelidad y respeto. [f 0 1 3]Distancia/Máx. PE +5%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぼよょ まれらもょぺれ ぽま らゎるまんぺデ みもぽまゅもぽぺぽ[n]を るまれらまろよテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +チ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_050]
-[f 0 5 65278][f 2 1]Un látigo que golpea el alma del objetivo.[n][f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ りゎま むよゅらまぺ まゅ ぺゅゆぺ ぽまゅ よほゃまろもわよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0][n][e]
 
 [msg weapon_051]
-[f 0 5 65278][f 2 1]Un látigo hecho con la piel de un zorro de nueve colas. [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ めまぼめよ ぼよょ ゅぺ らもまゅ ぽま ゎょ んよるるよ ぽま[n]ょゎまわま ぼよゅぺれテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_052]
-[f 0 5 65278][f 2 1]Un látigo con púas que desafía las posibilidades.[n][f 0 1 3]Distancia/Prob. baja de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぼよょ らグぺれ りゎま ぽまれぺみウぺ ゅぺれ らよれもほもゅもぽぺぽまれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぼゎぺゅりゎもまる だろぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_053]
-[f 0 5 65278][f 2 1]Un látigo sostenido por la reina de la noche.[n][f 0 1 3]Distancia/Prob. alta de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ れよれろまょもぽよ らよる ゅぺ るまもょぺ ぽま ゅぺ ょよぼめまテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぺゅろぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_054]
-[f 0 5 65278][f 2 1]Un látigo doble hecho con dos dragones.[n][f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゅァろもむよ ぽよほゅま めまぼめよ ぼよょ ぽよれ ぽるぺむよょまれテ[n][f 0 1 3]っもれろぺょぼもぺギぢよれろま ゆまぽもよ ぽま はひギぬぺ +ッ[f 0 1 0][n][e]
 
 [msg weapon_055]
-[f 0 5 65278][f 2 1]武器　0x055　１行目[n]武器　0x055　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチチ　１行目 武器　ゼゑゼチチ　２行目[n][e]
 
 [msg weapon_056]
-[f 0 5 65278][f 2 1]Un recuerdo de una película basada en la Revolución Francesa. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ るまぼゎまるぽよ ぽま ゎょぺ らまゅウぼゎゅぺ ほぺれぺぽぺ まょ ゅぺ[n]ぱまわよゅゎぼもカょ づるぺょぼまれぺテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_057]
-[f 0 5 65278][f 2 1]Basado en una película de cierto arqueólogo.[n][f 0 1 3]Distancia/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちぺれぺぽよ まょ ゎょぺ らまゅウぼゎゅぺ ぽま ぼもまるろよ ぺるりゎまカゅよむよテ[n][f 0 1 3]っもれろぺょぼもぺギだむ +ソ[f 0 1 0][n][e]
 
 [msg weapon_058]
-[f 0 5 65278][f 2 1]武器　0x058　１行目[n]武器　0x058　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチツ　１行目 武器　ゼゑゼチツ　２行目[n][e]
 
 [msg weapon_059]
-[f 0 5 65278][f 2 1]武器　0x059　１行目[n]武器　0x059　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチヅ　１行目 武器　ゼゑゼチヅ　２行目[n][e]
 
 [msg weapon_05A]
-[f 0 5 65278][f 2 1]武器　0x05A　１行目[n]武器　0x05A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチだ　１行目 武器　ゼゑゼチだ　２行目[n][e]
 
 [msg weapon_05B]
-[f 0 5 65278][f 2 1]武器　0x05B　１行目[n]武器　0x05B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチち　１行目 武器　ゼゑゼチち　２行目[n][e]
 
 [msg weapon_05C]
-[f 0 5 65278][f 2 1]武器　0x05C　１行目[n]武器　0x05C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチぢ　１行目 武器　ゼゑゼチぢ　２行目[n][e]
 
 [msg weapon_05D]
-[f 0 5 65278][f 2 1]武器　0x05D　１行目[n]武器　0x05D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチっ　１行目 武器　ゼゑゼチっ　２行目[n][e]
 
 [msg weapon_05E]
-[f 0 5 65278][f 2 1]武器　0x05E　１行目[n]武器　0x05E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチつ　１行目 武器　ゼゑゼチつ　２行目[n][e]
 
 [msg weapon_05F]
-[f 0 5 65278][f 2 1]武器　0x05F　１行目[n]武器　0x05F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼチづ　１行目 武器　ゼゑゼチづ　２行目[n][e]
 
 [msg weapon_060]
-[f 0 5 65278][f 2 1]武器　0x060　１行目[n]武器　0x060　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヂゼ　１行目 武器　ゼゑゼヂゼ　２行目[n][e]
 
 [msg weapon_061]
-[f 0 5 65278][f 2 1]Una réplica de una katana. Parece auténtica.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ るイらゅもぼぺ ぽま ゎょぺ やぺろぺょぺテ はぺるまぼま ぺゎろイょろもぼぺテ[n][e]
 
 [msg weapon_062]
-[f 0 5 65278][f 2 1]Una katana hecha con métodos tradicionales.[n][f 0 1 3]Precisi吋n +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ めまぼめぺ ぼよょ ゆイろよぽよれ ろるぺぽもぼもよょぺゅまれテ[n][f 0 1 3]はるまぼもれもカょ +チ%[f 0 1 0][n][e]
 
 [msg weapon_063]
-[f 0 5 65278][f 2 1]Lo suficientemente grande como para cortar un caballo. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]によ れゎみもぼもまょろまゆまょろま むるぺょぽま ぼよゆよ らぺるぺ ぼよるろぺる[n]ゎょ ぼぺほぺゅゅよテ [f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_064]
-[f 0 5 65278][f 2 1]Una katana forjada con metal meteórico. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ みよるゃぺぽぺ ぼよょ ゆまろぺゅ ゆまろまカるもぼよテ [f 0 1 3]ぬァゑテ[n]はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_065]
-[f 0 5 65278][f 2 1]Una réplica de una de las primeras espadas forjadas en la historia.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ るイらゅもぼぺ ぽま ゎょぺ ぽま ゅぺれ らるもゆまるぺれ まれらぺぽぺれ[n]みよるゃぺぽぺれ まょ ゅぺ めもれろよるもぺテ[n][e]
 
 [msg weapon_066]
-[f 0 5 65278][f 2 1]武器　 0x066 　１行目[n]武器　 0x066 　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　 ゼゑゼヂヂ 　１行目 武器　 ゼゑゼヂヂ 　２行目[n][e]
 
 [msg weapon_067]
-[f 0 5 65278][f 2 1]Una katana brillante que alguna vez llevó un oficial. [f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ほるもゅゅぺょろま りゎま ぺゅむゎょぺ わまん ゅゅまわカ ゎょ[n]よみもぼもぺゅテ [f 0 1 3]はるまぼもれもカょ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_068]
-[f 0 5 65278][f 2 1]Una katana con ríos de veneno a lo largo de su hoja. [f 0 1 3]Prob. baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ぼよょ るウよれ ぽま わまょまょよ ぺ ゅよ ゅぺるむよ ぽま[n]れゎ めよゃぺテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_069]
-[f 0 5 65278][f 2 1]Se dice que es una de las espadas de la más alta clase.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひま ぽもぼま りゎま まれ ゎょぺ ぽま ゅぺれ まれらぺぽぺれ ぽま ゅぺ ゆァれ[n]ぺゅろぺ ぼゅぺれまテ [f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_06A]
-[f 0 5 65278][f 2 1]Una katana utilizada por las fuerzas del gobierno Meiji. [f 0 1 3]Rs +2/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ゎろもゅもんぺぽぺ らよる ゅぺれ みゎまるんぺれ ぽまゅ[n]むよほもまるょよ ぬまもゃもテ [f 0 1 3]ぱれ +ゾギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_06B]
-[f 0 5 65278][f 2 1]Una katana que se asemeja a una pipa de humo. [f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ りゎま れま ぺれまゆまゃぺ ぺ ゎょぺ らもらぺ ぽま めゎゆよテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_06C]
-[f 0 5 65278][f 2 1]Una katana con el encanto de una mujer hermosa. [f 0 1 3]Máx. PE +15%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ぼよょ まゅ まょぼぺょろよ ぽま ゎょぺ ゆゎゃまる めまるゆよれぺテ[n][f 0 1 3]ぬァゑテ はつ +ソチ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_06D]
-[f 0 5 65278][f 2 1]Valorada igual que el sutra Mahaprajnaparamita.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ふぺゅよるぺぽぺ もむゎぺゅ りゎま まゅ れゎろるぺ ぬぺめぺらるぺゃょぺらぺるぺゆもろぺテ[n][f 0 1 3]ぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_06E]
-[f 0 5 65278][f 2 1]Una katana con una hoja de 35 pulgadas. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ぼよょ ゎょぺ めよゃぺ ぽま タチ らゎゅむぺぽぺれテ [f 0 1 3]っぺォよ[n]ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_06F]
-[f 0 5 65278][f 2 1]Una katana utilizada para desterrar espíritus malignos.[n][f 0 1 3]Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ゎろもゅもんぺぽぺ らぺるぺ ぽまれろまるるぺる まれらウるもろゎれ[n]ゆぺゅもむょよれテ [f 0 1 3]づる +チ[f 0 1 0][n][e]
 
 [msg weapon_070]
-[f 0 5 65278][f 2 1]Una katana que puede partir una bala en dos.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ りゎま らゎまぽま らぺるろもる ゎょぺ ほぺゅぺ まょ ぽよれテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_071]
-[f 0 5 65278][f 2 1]Creación de Masamune, diseñada según la deidad Acala. [f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢるまぺぼもカょ ぽま ぬぺれぺゆゎょまデ ぽもれまォぺぽぺ れまむグょ ゅぺ ぽまもぽぺぽ[n]だぼぺゅぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_072]
-[f 0 5 65278][f 2 1]Una katana con el potencial de moldear muchos destinos. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ぼよょ まゅ らよろまょぼもぺゅ ぽま ゆよゅぽまぺる ゆゎぼめよれ[n]ぽまれろもょよれテ [f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_073]
-[f 0 5 65278][f 2 1]Cualquier sangre que derrame se dispersa en arcos grandiosos. [f 0 1 3]Prob. alta de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢゎぺゅりゎもまる れぺょむるま りゎま ぽまるるぺゆま れま ぽもれらまるれぺ まょ[n]ぺるぼよれ むるぺょぽもよれよれテ [f 0 1 3]はるよほテ ぺゅろぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_074]
-[f 0 5 65278][f 2 1]Una katana nacida de cierto rumor. [f 0 1 3]Coste medio de PS/Fr +2/Ag +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ょぺぼもぽぺ ぽま ぼもまるろよ るゎゆよるテ [f 0 1 3]ぢよれろま[n]ゆまぽもよ ぽま はひギづる +ゾギだむ +ッ[f 0 1 0][n][e]
 
 [msg weapon_075]
-[f 0 5 65278][f 2 1]武器　0x075　１行目[n]武器　0x075　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッチ　１行目 武器　ゼゑゼッチ　２行目[n][e]
 
 [msg weapon_076]
-[f 0 5 65278][f 2 1]Requisito de un conjunto de película de espadachines ambientada en el período Edo. [f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまりゎもれもろよ ぽま ゎょ ぼよょゃゎょろよ ぽま らまゅウぼゎゅぺ ぽま[n]まれらぺぽぺぼめもょまれ ぺゆほもまょろぺぽぺ まょ まゅ らまるウよぽよ つぽよテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_077]
-[f 0 5 65278][f 2 1]Una katana afilada en una costilla dura. [f 0 1 3]Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ぺみもゅぺぽぺ まょ ゎょぺ ぼよれろもゅゅぺ ぽゎるぺテ [f 0 1 3]ぱれ[n]+ゾ[f 0 1 0][n][e]
 
 [msg weapon_078]
-[f 0 5 65278][f 2 1]武器　0x078　１行目[n]武器　0x078　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッツ　１行目 武器　ゼゑゼッツ　２行目[n][e]
 
 [msg weapon_079]
-[f 0 5 65278][f 2 1]武器　0x079　１行目[n]武器　0x079　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッヅ　１行目 武器　ゼゑゼッヅ　２行目[n][e]
 
 [msg weapon_07A]
-[f 0 5 65278][f 2 1]武器　0x07A　１行目[n]武器　0x07A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッだ　１行目 武器　ゼゑゼッだ　２行目[n][e]
 
 [msg weapon_07B]
-[f 0 5 65278][f 2 1]武器　0x07B　１行目[n]武器　0x07B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッち　１行目 武器　ゼゑゼッち　２行目[n][e]
 
 [msg weapon_07C]
-[f 0 5 65278][f 2 1]武器　0x07C　１行目[n]武器　0x07C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッぢ　１行目 武器　ゼゑゼッぢ　２行目[n][e]
 
 [msg weapon_07D]
-[f 0 5 65278][f 2 1]武器　0x07D　１行目[n]武器　0x07D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッっ　１行目 武器　ゼゑゼッっ　２行目[n][e]
 
 [msg weapon_07E]
-[f 0 5 65278][f 2 1]武器　0x07E　１行目[n]武器　0x07E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッつ　１行目 武器　ゼゑゼッつ　２行目[n][e]
 
 [msg weapon_07F]
-[f 0 5 65278][f 2 1]武器　0x07F　１行目[n]武器　0x07F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼッづ　１行目 武器　ゼゑゼッづ　２行目[n][e]
 
 [msg weapon_080]
-[f 0 5 65278][f 2 1]武器　0x080　１行目[n]武器　0x080　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼツゼ　１行目 武器　ゼゑゼツゼ　２行目[n][e]
 
 [msg weapon_081]
-[f 0 5 65278][f 2 1]Un sable con una hoja hecha de luz.[n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぼよょ ゎょぺ めよゃぺ めまぼめぺ ぽま ゅゎんテ[n][e]
 
 [msg weapon_082]
-[f 0 5 65278][f 2 1]Un sable de un solo filo, resplandeciente. [f 0 1 3]Precisi吋n +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぽま ゎょ れよゅよ みもゅよデ るまれらゅぺょぽまぼもまょろまテ[n][f 0 1 3]はるまぼもれもカょ +チ%[f 0 1 0][n][e]
 
 [msg weapon_083]
-[f 0 5 65278][f 2 1]Un sable de un solo filo con una hoja envenenada. [f 0 1 3]Prob. baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぽま ゎょ れよゅよ みもゅよ ぼよょ ゎょぺ めよゃぺ[n]まょわまょまょぺぽぺテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_084]
-[f 0 5 65278][f 2 1]Un sable de un solo filo con una hoja violeta brillante. [f 0 1 3]Ma+ 2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぽま ゎょ れよゅよ みもゅよ ぼよょ ゎょぺ めよゃぺ わもよゅまろぺ[n]ほるもゅゅぺょろまテ [f 0 1 3]ぬぺ+ ゾ[f 0 1 0][n][e]
 
 [msg weapon_085]
-[f 0 5 65278][f 2 1]Un sable de un solo filo que resplandece con el poder de la fama.[n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぽま ゎょ れよゅよ みもゅよ りゎま るまれらゅぺょぽまぼま ぼよょ[n]まゅ らよぽまる ぽま ゅぺ みぺゆぺテ[n][e]
 
 [msg weapon_086]
-[f 0 5 65278][f 2 1]武器　0x086　１行目[n]武器　0x086　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼツヂ　１行目 武器　ゼゑゼツヂ　２行目[n][e]
 
 [msg weapon_087]
-[f 0 5 65278][f 2 1]Un sable hecho de polvo de partículas sobrante de la forja. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま めまぼめよ ぽま らよゅわよ ぽま らぺるろウぼゎゅぺれ れよほるぺょろま[n]ぽま ゅぺ みよるゃぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_088]
-[f 0 5 65278][f 2 1]Se dice que este sable brilla con la luz de planetas lejanos. [f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひま ぽもぼま りゎま まれろま れぺほゅま ほるもゅゅぺ ぼよょ ゅぺ ゅゎん ぽま[n]らゅぺょまろぺれ ゅまゃぺょよれテ [f 0 1 3]ぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_089]
-[f 0 5 65278][f 2 1]Un sable de energía con un borde afilado a nivel atómico. [f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぽま まょまるむウぺ ぼよょ ゎょ ほよるぽま ぺみもゅぺぽよ ぺ[n]ょもわまゅ ぺろカゆもぼよテ [f 0 1 3]ぬァゑテ はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_08A]
-[f 0 5 65278][f 2 1]Su brillo proviene de un alto potencial cinético en su interior. [f 0 1 3]Acelera ligeramente el Medidor de Grupo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎ ほるもゅゅよ らるよわもまょま ぽま ゎょ ぺゅろよ らよろまょぼもぺゅ[n]ぼもょイろもぼよ まょ れゎ もょろまるもよるテ [f 0 1 3]だぼまゅまるぺ ゅもむまるぺゆまょろま まゅ ぬまぽもぽよる ぽま てるゎらよ[f 0 1 0][n][e]
 
 [msg weapon_08B]
-[f 0 5 65278][f 2 1]Un sable con energía cinética de próximo nivel.[n][f 0 1 3]Prob. crítica +5%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぼよょ まょまるむウぺ ぼもょイろもぼぺ ぽま らるカゑもゆよ[n]ょもわまゅテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%ギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_08C]
-[f 0 5 65278][f 2 1]Un sable en constante flujo entre ánodos y cátodos. [f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま まょ ぼよょれろぺょろま みゅゎゃよ まょろるま ァょよぽよれ を[n]ぼァろよぽよれテ [f 0 1 3]ぬァゑテ はひ & はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_08D]
-[f 0 5 65278][f 2 1]Un sable con una hoja de luz comprimida. [f 0 1 3]Ag +2/Prob. baja de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぼよょ ゎょぺ めよゃぺ ぽま ゅゎん ぼよゆらるもゆもぽぺテ [f 0 1 3]だむ[n]+ゾギはるよほテ ほぺゃぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_08E]
-[f 0 5 65278][f 2 1]Un sable nacido de electrodos positivos. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ょぺぼもぽよ ぽま まゅまぼろるよぽよれ らよれもろもわよれテ[n][f 0 1 3]ぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_08F]
-[f 0 5 65278][f 2 1]Un sable nacido de electrodos negativos. [f 0 1 3]Máx. PE +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ょぺぼもぽよ ぽま まゅまぼろるよぽよれ ょまむぺろもわよれテ[n][f 0 1 3]ぬァゑテ はつ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_090]
-[f 0 5 65278][f 2 1]Un sable hecho con partículas subNucleares.[n][f 0 1 3]Prob. media de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま めまぼめよ ぼよょ らぺるろウぼゎゅぺれ れゎほねゎぼゅまぺるまれテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0][n][e]
 
 [msg weapon_091]
-[f 0 5 65278][f 2 1]Un sable que puede cortar el tejido de la realidad. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま りゎま らゎまぽま ぼよるろぺる まゅ ろまゃもぽよ ぽま ゅぺ[n]るまぺゅもぽぺぽテ [f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_092]
-[f 0 5 65278][f 2 1]Un sable de una estrella muy, muy lejana. [f 0 1 3]Máx. PE +10%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぽま ゎょぺ まれろるまゅゅぺ ゆゎをデ ゆゎを ゅまゃぺょぺテ[n][f 0 1 3]ぬァゑテ はつ +ソゼ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_093]
-[f 0 5 65278][f 2 1]Un sable alimentado por el fin de todas las cosas. [f 0 1 3]Daño grave por salpicaduras[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぺゅもゆまょろぺぽよ らよる まゅ みもょ ぽま ろよぽぺれ ゅぺれ[n]ぼよれぺれテ [f 0 1 3]っぺォよ むるぺわま らよる れぺゅらもぼぺぽゎるぺれ[f 0 1 0][n][e]
 
 [msg weapon_094]
-[f 0 5 65278][f 2 1]Un sable alimentado por una increíble energía Nuclear. [f 0 1 3]Coste medio de PS/Fr +3/Ma +6[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ れぺほゅま ぺゅもゆまょろぺぽよ らよる ゎょぺ もょぼるまウほゅま まょまるむウぺ[n]ねゎぼゅまぺるテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +タギぬぺ +ヂ[f 0 1 0][n][e]
 
 [msg weapon_095]
-[f 0 5 65278][f 2 1]武器　0x095　１行目[n]武器　0x095　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅチ　１行目 武器　ゼゑゼヅチ　２行目[n][e]
 
 [msg weapon_096]
-[f 0 5 65278][f 2 1]Un objeto coleccionable reciente de una famosa serie de ciencia ficción. [f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ よほゃまろよ ぼよゅまぼぼもよょぺほゅま るまぼもまょろま ぽま ゎょぺ みぺゆよれぺ[n]れまるもま ぽま ぼもまょぼもぺ みもぼぼもカょテ [f 0 1 3]ぬァゑテ はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_097]
-[f 0 5 65278][f 2 1]Un objeto coleccionable de una película de cuatro horas ambientada en Arabia.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ よほゃまろよ ぼよゅまぼぼもよょぺほゅま ぽま ゎょぺ らまゅウぼゎゅぺ ぽま[n]ぼゎぺろるよ めよるぺれ ぺゆほもまょろぺぽぺ まょ だるぺほもぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_098]
-[f 0 5 65278][f 2 1]武器　0x098　１行目[n]武器　0x098　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅツ　１行目 武器　ゼゑゼヅツ　２行目[n][e]
 
 [msg weapon_099]
-[f 0 5 65278][f 2 1]武器　0x099　１行目[n]武器　0x099　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅヅ　１行目 武器　ゼゑゼヅヅ　２行目[n][e]
 
 [msg weapon_09A]
-[f 0 5 65278][f 2 1]武器　0x09A　１行目[n]武器　0x09A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅだ　１行目 武器　ゼゑゼヅだ　２行目[n][e]
 
 [msg weapon_09B]
-[f 0 5 65278][f 2 1]武器　0x09B　１行目[n]武器　0x09B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅち　１行目 武器　ゼゑゼヅち　２行目[n][e]
 
 [msg weapon_09C]
-[f 0 5 65278][f 2 1]武器　0x09C　１行目[n]武器　0x09C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅぢ　１行目 武器　ゼゑゼヅぢ　２行目[n][e]
 
 [msg weapon_09D]
-[f 0 5 65278][f 2 1]武器　0x09D　１行目[n]武器　0x09D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅっ　１行目 武器　ゼゑゼヅっ　２行目[n][e]
 
 [msg weapon_09E]
-[f 0 5 65278][f 2 1]武器　0x09E　１行目[n]武器　0x09E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅつ　１行目 武器　ゼゑゼヅつ　２行目[n][e]
 
 [msg weapon_09F]
-[f 0 5 65278][f 2 1]武器　0x09F　１行目[n]武器　0x09F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼヅづ　１行目 武器　ゼゑゼヅづ　２行目[n][e]
 
 [msg weapon_0A0]
-[f 0 5 65278][f 2 1]武器　0x0A0　１行目[n]武器　0x0A0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼだゼ　１行目 武器　ゼゑゼだゼ　２行目[n][e]
 
 [msg weapon_0A1]
-[f 0 5 65278][f 2 1]武器　0x0A1　１行目[n]武器　0x0A1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼだソ　１行目 武器　ゼゑゼだソ　２行目[n][e]
 
 [msg weapon_0A2]
-[f 0 5 65278][f 2 1]Una pequeña resortera con una puntería fenomenal.[n][f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らまりゎまォぺ るまれよるろまるぺ ぼよょ ゎょぺ らゎょろまるウぺ[n]みまょよゆまょぺゅテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_0A3]
-[f 0 5 65278][f 2 1]Una resortera con mayor potencia de disparo.[f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ るまれよるろまるぺ ぼよょ ゆぺをよる らよろまょぼもぺ ぽま[n]ぽもれらぺるよテ[f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_0A4]
-[f 0 5 65278][f 2 1]Incómoda de manejar, pero sus disparos definitivamente duelen. [f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]とょぼカゆよぽぺ ぽま ゆぺょまゃぺるデ らまるよ れゎれ ぽもれらぺるよれ[n]ぽまみもょもろもわぺゆまょろま ぽゎまゅまょテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_0A5]
-[f 0 5 65278][f 2 1]Dispara balas con un toxina nerviosa débil.[n][f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ほぺゅぺれ ぼよょ ゎょ ろよゑもょぺ ょまるわもよれぺ ぽイほもゅテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_0A6]
-[f 0 5 65278][f 2 1]Sus balas vuelan tan rápido como cometas. [f 0 1 3]Distancia/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎれ ほぺゅぺれ わゎまゅぺょ ろぺょ るァらもぽよ ぼよゆよ ぼよゆまろぺれテ[n][f 0 1 3]っもれろぺょぼもぺギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0A7]
-[f 0 5 65278][f 2 1]Sus balas son del tamaño del puño de un niño.[n][f 0 1 3]Distancia/Prob. baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎれ ほぺゅぺれ れよょ ぽまゅ ろぺゆぺォよ ぽまゅ らゎォよ ぽま ゎょ ょもォよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_0A8]
-[f 0 5 65278][f 2 1]Dispararlo produce un sonido extrañamente relajante.[n][f 0 1 3]Distancia/Prob. baja de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺるゅよ らるよぽゎぼま ゎょ れよょもぽよ まゑろるぺォぺゆまょろま[n]るまゅぺゃぺょろまテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_0A9]
-[f 0 5 65278][f 2 1]Las balas de esta resortera dejan auroras en el aire. [f 0 1 3]Distancia/Máx. PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺれ ほぺゅぺれ ぽま まれろぺ るまれよるろまるぺ ぽまゃぺょ ぺゎるよるぺれ まょ[n]まゅ ぺもるまテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_0AA]
-[f 0 5 65278][f 2 1]Más poderosa de lo que aparentan sus disparos. [f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬァれ らよぽまるよれぺ ぽま ゅよ りゎま ぺらぺるまょろぺょ れゎれ ぽもれらぺるよれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0AB]
-[f 0 5 65278][f 2 1]Sus balas detienen a los villanos en seco. [f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎれ ほぺゅぺれ ぽまろもまょまょ ぺ ゅよれ わもゅゅぺょよれ まょ れまぼよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0][n][e]
 
 [msg weapon_0AC]
-[f 0 5 65278][f 2 1]Dispara una lluvia de meteoros de balas rápidas. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ゎょぺ ゅゅゎわもぺ ぽま ゆまろまよるよれ ぽま ほぺゅぺれ[n]るァらもぽぺれテ [f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_0AD]
-[f 0 5 65278][f 2 1]Dispara balas con una fuerza enorme. [f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ほぺゅぺれ ぼよょ ゎょぺ みゎまるんぺ まょよるゆまテ [f 0 1 3]っぺォよ[n]ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_0AE]
-[f 0 5 65278][f 2 1]Una honda legendaria que una vez derribó a un gigante. [f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めよょぽぺ ゅまむまょぽぺるもぺ りゎま ゎょぺ わまん ぽまるるもほカ ぺ[n]ゎょ むもむぺょろまテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_0AF]
-[f 0 5 65278][f 2 1]Dispara balas del tamaño de balas de cañón. [f 0 1 3]Da隠o medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ほぺゅぺれ ぽまゅ ろぺゆぺォよ ぽま ほぺゅぺれ ぽま ぼぺォカょテ[n][f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_0B0]
-[f 0 5 65278][f 2 1]Puede disparar estrellas y hacerlas desaparecer del cielo. [f 0 1 3]Distancia/Prob. media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はゎまぽま ぽもれらぺるぺる まれろるまゅゅぺれ を めぺぼまるゅぺれ ぽまれぺらぺるまぼまる[n]ぽまゅ ぼもまゅよテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_0B1]
-[f 0 5 65278][f 2 1]Resortera de un valiente cazador de tesoros.[n][f 0 1 3]Distancia/Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまれよるろまるぺ ぽま ゎょ わぺゅもまょろま ぼぺんぺぽよる ぽま ろまれよるよれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_0B2]
-[f 0 5 65278][f 2 1]Elegante. Dispara piedras de cinco colores diferentes.[n][f 0 1 3]Distancia/Prob. alta de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅまむぺょろまテ っもれらぺるぺ らもまぽるぺれ ぽま ぼもょぼよ ぼよゅよるまれ[n]ぽもみまるまょろまれテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ぺゅろぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_0B3]
-[f 0 5 65278][f 2 1]Una resortera utópica legendaria. [f 0 1 3]Distancia/Coste medio de PS/Ag +8[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ るまれよるろまるぺ ゎろカらもぼぺ ゅまむまょぽぺるもぺテ [f 0 1 3]っもれろぺょぼもぺギぢよれろま[n]ゆまぽもよ ぽま はひギだむ +ツ[f 0 1 0][n][e]
 
 [msg weapon_0B4]
-[f 0 5 65278][f 2 1]武器　0x0B4　１行目[n]武器　0x0B4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちダ　１行目 武器　ゼゑゼちダ　２行目[n][e]
 
 [msg weapon_0B5]
-[f 0 5 65278][f 2 1]Mini trebuchet de una película de guerra de la Edad Media. [f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬもょも ろるまほゎぼめまろ ぽま ゎょぺ らまゅウぼゎゅぺ ぽま むゎまるるぺ ぽま[n]ゅぺ つぽぺぽ ぬまぽもぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_0B6]
-[f 0 5 65278][f 2 1]Sus balas tienen un efecto anestésico. [f 0 1 3]Distancia/Prob. baja de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎれ ほぺゅぺれ ろもまょまょ ゎょ まみまぼろよ ぺょまれろイれもぼよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_0B7]
-[f 0 5 65278][f 2 1]Las balas de esta resortera estallan al impactar. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺれ ほぺゅぺれ ぽま まれろぺ るまれよるろまるぺ まれろぺゅゅぺょ ぺゅ[n]もゆらぺぼろぺるテ [f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_0B8]
-[f 0 5 65278][f 2 1]武器　0x0B8　１行目[n]武器　0x0B8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちツ　１行目 武器　ゼゑゼちツ　２行目[n][e]
 
 [msg weapon_0B9]
-[f 0 5 65278][f 2 1]武器　0x0B9　１行目[n]武器　0x0B9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちヅ　１行目 武器　ゼゑゼちヅ　２行目[n][e]
 
 [msg weapon_0BA]
-[f 0 5 65278][f 2 1]武器　0x0BA　１行目[n]武器　0x0BA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちだ　１行目 武器　ゼゑゼちだ　２行目[n][e]
 
 [msg weapon_0BB]
-[f 0 5 65278][f 2 1]武器　0x0BB　１行目[n]武器　0x0BB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちち　１行目 武器　ゼゑゼちち　２行目[n][e]
 
 [msg weapon_0BC]
-[f 0 5 65278][f 2 1]武器　0x0BC　１行目[n]武器　0x0BC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちぢ　１行目 武器　ゼゑゼちぢ　２行目[n][e]
 
 [msg weapon_0BD]
-[f 0 5 65278][f 2 1]武器　0x0BD　１行目[n]武器　0x0BD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちっ　１行目 武器　ゼゑゼちっ　２行目[n][e]
 
 [msg weapon_0BE]
-[f 0 5 65278][f 2 1]武器　0x0BE　１行目[n]武器　0x0BE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちつ　１行目 武器　ゼゑゼちつ　２行目[n][e]
 
 [msg weapon_0BF]
-[f 0 5 65278][f 2 1]武器　0x0BF　１行目[n]武器　0x0BF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼちづ　１行目 武器　ゼゑゼちづ　２行目[n][e]
 
 [msg weapon_0C0]
-[f 0 5 65278][f 2 1]武器　0x0C0　１行目[n]武器　0x0C0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼぢゼ　１行目 武器　ゼゑゼぢゼ　２行目[n][e]
 
 [msg weapon_0C1]
-[f 0 5 65278][f 2 1]武器　0x0C1　１行目[n]武器　0x0C1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼぢソ　１行目 武器　ゼゑゼぢソ　２行目[n][e]
 
 [msg weapon_0C2]
-[f 0 5 65278][f 2 1]Un asta de naginata sin hoja. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺれろぺ ぽま ょぺむもょぺろぺ れもょ めよゃぺテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_0C3]
-[f 0 5 65278][f 2 1]Naginata ardiendo con una voluntad apasionada.[n][f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねぺむもょぺろぺ ぺるぽもまょぽよ ぼよょ ゎょぺ わよゅゎょろぺぽ ぺらぺれもよょぺぽぺテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0C4]
-[f 0 5 65278][f 2 1]Una alabarda utilizada principalmente en la era Muromachi en Kyushu. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぺゅぺほぺるぽぺ ゎろもゅもんぺぽぺ らるもょぼもらぺゅゆまょろま まょ ゅぺ[n]まるぺ ぬゎるよゆぺぼめも まょ なをゎれめゎテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_0C5]
-[f 0 5 65278][f 2 1]Un palo de lacrosse de un vibrante tono verde.[n][f 0 1 3]Distancia/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぽま ゅぺぼるよれれま ぽま ゎょ わもほるぺょろま ろよょよ わまるぽまテ[n][f 0 1 3]っもれろぺょぼもぺギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_0C6]
-[f 0 5 65278][f 2 1]Una naginata con una hoja enorme. [f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ ぼよょ ゎょぺ めよゃぺ まょよるゆまテ [f 0 1 3]っぺォよ ゅまわま[n]らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_0C7]
-[f 0 5 65278][f 2 1]Fijada con una afilada pieza de mineral.[n][f 0 1 3]Distancia/Rs +2/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づもゃぺぽぺ ぼよょ ゎょぺ ぺみもゅぺぽぺ らもまんぺ ぽま ゆもょまるぺゅテ[n][f 0 1 3]っもれろぺょぼもぺギぱれ +ゾギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0C8]
-[f 0 5 65278][f 2 1]Un palo de lacrosse para los no probados. [f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぽま ゅぺぼるよれれま らぺるぺ ゅよれ ょよ らるよほぺぽよれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0C9]
-[f 0 5 65278][f 2 1]Hecho fortaleciendo la naginata Tsukushi. [f 0 1 3]Distancia/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]でまぼめよ みよるろぺゅまぼもまょぽよ ゅぺ ょぺむもょぺろぺ びれゎやゎれめもテ[n][f 0 1 3]っもれろぺょぼもぺギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_0CA]
-[f 0 5 65278][f 2 1]Una naginata utilizada por Ouchi Sakyo-no-Tayu.[n][f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ ゎろもゅもんぺぽぺ らよる のゎぼめも ひぺやをよ-ょよ-びぺをゎテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0CB]
-[f 0 5 65278][f 2 1]Una naginata futurista con una hoja de fotones.[n][f 0 1 3]Distancia/Prob. media de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ みゎろゎるもれろぺ ぼよょ ゎょぺ めよゃぺ ぽま みよろよょまれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま づゎまるんぺ[f 0 1 0][n][e]
 
 [msg weapon_0CC]
-[f 0 5 65278][f 2 1]Un palo de lacrosse que lleva a su portador hacia la victoria. [f 0 1 3]Distancia/Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぽま ゅぺぼるよれれま りゎま ゅゅまわぺ ぺ れゎ らよるろぺぽよる[n]めぺぼもぺ ゅぺ わもぼろよるもぺテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_0CD]
-[f 0 5 65278][f 2 1]Una naginata mejorada con diseño moderno.[n][f 0 1 3]Distancia/Ma+2/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ ゆまゃよるぺぽぺ ぼよょ ぽもれまォよ ゆよぽまるょよテ[n][f 0 1 3]っもれろぺょぼもぺギぬぺ+ゾギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0CE]
-[f 0 5 65278][f 2 1]Una naginata guiada por el espíritu de un shogun oriental. [f 0 1 3]Distancia/Todas las estad. +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ むゎもぺぽぺ らよる まゅ まれらウるもろゎ ぽま ゎょ[n]れめよむゎょ よるもまょろぺゅテ [f 0 1 3]っもれろぺょぼもぺギびよぽぺれ ゅぺれ まれろぺぽテ +ソ[f 0 1 0][n][e]
 
 [msg weapon_0CF]
-[f 0 5 65278][f 2 1]Desbloquea el potencial completo de su usuario.[n][f 0 1 3]Distancia/Prob. baja de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っまれほゅよりゎまぺ まゅ らよろまょぼもぺゅ ぼよゆらゅまろよ ぽま れゎ ゎれゎぺるもよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぼゎぺゅりゎもまる だろぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_0D0]
-[f 0 5 65278][f 2 1]Una naginata de una famosa artista marcial femenina. [f 0 1 3]Distancia/Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ ぽま ゎょぺ みぺゆよれぺ ぺるろもれろぺ ゆぺるぼもぺゅ[n]みまゆまょもょぺテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_0D1]
-[f 0 5 65278][f 2 1]Un arma para aquellos que equilibran el poder y la misericordia. [f 0 1 3]Distancia/Ma +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ らぺるぺ ぺりゎまゅゅよれ りゎま まりゎもゅもほるぺょ まゅ らよぽまる[n]を ゅぺ ゆもれまるもぼよるぽもぺテ [f 0 1 3]っもれろぺょぼもぺギぬぺ +ダ[f 0 1 0][n][e]
 
 [msg weapon_0D2]
-[f 0 5 65278][f 2 1]Una naginata llena de poder femenino. [f 0 1 3]Distancia/Prob. alta de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺむもょぺろぺ ゅゅまょぺ ぽま らよぽまる みまゆまょもょよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ ぽま づゎまるんぺ[f 0 1 0][n][e]
 
 [msg weapon_0D3]
-[f 0 5 65278][f 2 1]Sostenida por el autodenominado rey demonio del sexto cielo. [f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひよれろまょもぽぺ らよる まゅ ぺゎろよぽまょよゆもょぺぽよ るまを ぽまゆよょもよ[n]ぽまゅ れまゑろよ ぼもまゅよテ [f 0 1 3]っもれろぺょぼもぺギぢよれろま ゆまぽもよ ぽま はひギぬぺ +ッ[f 0 1 0][n][e]
 
 [msg weapon_0D4]
-[f 0 5 65278][f 2 1]武器　0x0D4　１行目[n]武器　0x0D4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっダ　１行目 武器　ゼゑゼっダ　２行目[n][e]
 
 [msg weapon_0D5]
-[f 0 5 65278][f 2 1]Un palo con una red para lacrosse. [f 0 1 3]Distancia/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぼよょ ゎょぺ るまぽ らぺるぺ ゅぺぼるよれれまテ [f 0 1 3]っもれろぺょぼもぺギだむ[n]+ソ[f 0 1 0][n][e]
 
 [msg weapon_0D6]
-[f 0 5 65278][f 2 1]Un palo tomado de un árbol con corteza resistente.[n][f 0 1 3]Distancia/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ろよゆぺぽよ ぽま ゎょ ァるほよゅ ぼよょ ぼよるろまんぺ[n]るまれもれろまょろまテ [f 0 1 3]っもれろぺょぼもぺギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0D7]
-[f 0 5 65278][f 2 1]Un palo de lacrosse extra largo. [f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぽま ゅぺぼるよれれま まゑろるぺ ゅぺるむよテ [f 0 1 3]っぺォよ ゅまわま[n]ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_0D8]
-[f 0 5 65278][f 2 1]武器　0x0D8　１行目[n]武器　0x0D8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっツ　１行目 武器　ゼゑゼっツ　２行目[n][e]
 
 [msg weapon_0D9]
-[f 0 5 65278][f 2 1]武器　0x0D9　１行目[n]武器　0x0D9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっヅ　１行目 武器　ゼゑゼっヅ　２行目[n][e]
 
 [msg weapon_0DA]
-[f 0 5 65278][f 2 1]武器　0x0DA　１行目[n]武器　0x0DA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっだ　１行目 武器　ゼゑゼっだ　２行目[n][e]
 
 [msg weapon_0DB]
-[f 0 5 65278][f 2 1]武器　0x0DB　１行目[n]武器　0x0DB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっち　１行目 武器　ゼゑゼっち　２行目[n][e]
 
 [msg weapon_0DC]
-[f 0 5 65278][f 2 1]武器　0x0DC　１行目[n]武器　0x0DC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっぢ　１行目 武器　ゼゑゼっぢ　２行目[n][e]
 
 [msg weapon_0DD]
-[f 0 5 65278][f 2 1]武器　0x0DD　１行目[n]武器　0x0DD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっっ　１行目 武器　ゼゑゼっっ　２行目[n][e]
 
 [msg weapon_0DE]
-[f 0 5 65278][f 2 1]武器　0x0DE　１行目[n]武器　0x0DE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっつ　１行目 武器　ゼゑゼっつ　２行目[n][e]
 
 [msg weapon_0DF]
-[f 0 5 65278][f 2 1]武器　0x0DF　１行目[n]武器　0x0DF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼっづ　１行目 武器　ゼゑゼっづ　２行目[n][e]
 
 [msg weapon_0E0]
-[f 0 5 65278][f 2 1]武器　0x0E0　１行目[n]武器　0x0E0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼつゼ　１行目 武器　ゼゑゼつゼ　２行目[n][e]
 
 [msg weapon_0E1]
-[f 0 5 65278][f 2 1]武器　0x0E1　１行目[n]武器　0x0E1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼつソ　１行目 武器　ゼゑゼつソ　２行目[n][e]
 
 [msg weapon_0E2]
-[f 0 5 65278][f 2 1]武器　0x0E2　１行目[n]武器　0x0E2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼつゾ　１行目 武器　ゼゑゼつゾ　２行目[n][e]
 
 [msg weapon_0E3]
-[f 0 5 65278][f 2 1]Un hacha resistente. Ligeramente pesada.[n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ るまれもれろまょろまテ にもむまるぺゆまょろま らまれぺぽぺテ[n][e]
 
 [msg weapon_0E4]
-[f 0 5 65278][f 2 1]Un hacha gigante con una hoja similar a un escudo. [f 0 1 3]Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ むもむぺょろま ぼよょ ゎょぺ めよゃぺ れもゆもゅぺる ぺ ゎょ[n]まれぼゎぽよテ [f 0 1 3]ぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0E5]
-[f 0 5 65278][f 2 1]Un hacha con un martillo en el lado opuesto.[n][f 0 1 3]Prob. leve de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ ぼよょ ゎょ ゆぺるろもゅゅよ まょ まゅ ゅぺぽよ よらゎまれろよテ[n][f 0 1 3]はるよほテ ゅまわま ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_0E6]
-[f 0 5 65278][f 2 1]Conocida como "hacha de media luna", su hoja es muy afilada. [f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢよょよぼもぽぺ ぼよゆよ "めぺぼめぺ ぽま ゆまぽもぺ ゅゎょぺ"デ れゎ めよゃぺ[n]まれ ゆゎを ぺみもゅぺぽぺテ [f 0 1 3]はるまぼもれもカょ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0E7]
-[f 0 5 65278][f 2 1]Una roca masiva atada a un asta. [f 0 1 3]Prob. crítica +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ るよぼぺ ゆぺれもわぺ ぺろぺぽぺ ぺ ゎょ ぺれろぺテ [f 0 1 3]はるよほテ[n]ぼるウろもぼぺ +チ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0E8]
-[f 0 5 65278][f 2 1]Un hacha grande impresionante. [f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ むるぺょぽま もゆらるまれもよょぺょろまテ [f 0 1 3]ぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0E9]
-[f 0 5 65278][f 2 1]Un hacha resistente utilizada por un gran guerrero.[n][f 0 1 3]Prob. crítica +10%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ るまれもれろまょろま ゎろもゅもんぺぽぺ らよる ゎょ むるぺょ[n]むゎまるるまるよテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0EA]
-[f 0 5 65278][f 2 1]Un hacha afilada con una hoja amplia y[n]protectora. [f 0 1 3]Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ ぺみもゅぺぽぺ ぼよょ ゎょぺ めよゃぺ ぺゆらゅもぺ を[n]らるよろまぼろよるぺテ [f 0 1 3]ぱれ +ダ[f 0 1 0][n][e]
 
 [msg weapon_0EB]
-[f 0 5 65278][f 2 1]Un hacha que puede cambiar de modo para convertirse en un enorme escudo. [f 0 1 3]Rs +3/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ りゎま らゎまぽま ぼぺゆほもぺる ぽま ゆよぽよ らぺるぺ[n]ぼよょわまるろもるれま まょ ゎょ まょよるゆま まれぼゎぽよテ [f 0 1 3]ぱれ +タギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0EC]
-[f 0 5 65278][f 2 1]Un hacha que concedesesperaci吋n mortal.[n][f 0 1 3]Rs +1/Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ りゎま ぼよょぼまぽまれまれらまるぺぼもカょ ゆよるろぺゅテ [f 0 1 3]ぱれ[n]+ソギはるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_0ED]
-[f 0 5 65278][f 2 1]Un hacha utilizado por el rey n吋rdico Erik.[n][f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ ゎろもゅもんぺぽよ らよる まゅ るまを ょカるぽもぼよ つるもやテ[n][f 0 1 3]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_0EE]
-[f 0 5 65278][f 2 1]Un hacha pesada con una hoja creciente.[n][f 0 1 3]Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ らまれぺぽぺ ぼよょ ゎょぺ めよゃぺ ぼるまぼもまょろまテ [f 0 1 3]ぱれ[n]+タ[f 0 1 0][n][e]
 
 [msg weapon_0EF]
-[f 0 5 65278][f 2 1]Puedestruir los recuerdos de su objetivo.[n][f 0 1 3]Prob. media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はゎまぽまれろるゎもる ゅよれ るまぼゎまるぽよれ ぽま れゎ よほゃまろもわよテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_0F0]
-[f 0 5 65278][f 2 1]Un hacha primordial utilizada en los albores de la humanidad. [f 0 1 3]Máx. PS +15%/Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ らるもゆよるぽもぺゅ ゎろもゅもんぺぽぺ まょ ゅよれ ぺゅほよるまれ[n]ぽま ゅぺ めゎゆぺょもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギひゎ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_0F1]
-[f 0 5 65278][f 2 1]Se dice que un antiguo héroe-rey la utilizaba.[n][f 0 1 3]Prob. baja de Atadura de Fuerza/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひま ぽもぼま りゎま ゎょ ぺょろもむゎよ めイるよま-るまを ゅぺ ゎろもゅもんぺほぺテ[n][f 0 1 3]はるよほテ ほぺゃぺ ぽま だろぺぽゎるぺ ぽま づゎまるんぺギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_0F2]
-[f 0 5 65278][f 2 1]El hacha favorito de una tribu de guerreras femeninas.[n][f 0 1 3]Daño grave por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ めぺぼめぺ みぺわよるもろよ ぽま ゎょぺ ろるもほゎ ぽま むゎまるるまるぺれ[n]みまゆまょもょぺれテ [f 0 1 3]っぺォよ むるぺわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_0F3]
-[f 0 5 65278][f 2 1]Un hacha elegante con un embriagador aroma floral. [f 0 1 3]Coste medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めぺぼめぺ まゅまむぺょろま ぼよょ ゎょ まゆほるもぺむぺぽよる ぺるよゆぺ[n]みゅよるぺゅテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +タギぱれ +チ[f 0 1 0][n][e]
 
 [msg weapon_0F4]
-[f 0 5 65278][f 2 1]武器　0x0F4　１行目[n]武器　0x0F4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづダ　１行目 武器　ゼゑゼづダ　２行目[n][e]
 
 [msg weapon_0F5]
-[f 0 5 65278][f 2 1]Fabricada mediante la afilada piedra caliza cristalina. [f 0 1 3]Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺほるもぼぺぽぺ ゆまぽもぺょろま ゅぺ ぺみもゅぺぽぺ らもまぽるぺ ぼぺゅもんぺ[n]ぼるもれろぺゅもょぺテ [f 0 1 3]ひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_0F6]
-[f 0 5 65278][f 2 1]武器　0x0F6　１行目[n]武器　0x0F6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづヂ　１行目 武器　ゼゑゼづヂ　２行目[n][e]
 
 [msg weapon_0F7]
-[f 0 5 65278][f 2 1]武器　0x0F7　１行目[n]武器　0x0F7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづッ　１行目 武器　ゼゑゼづッ　２行目[n][e]
 
 [msg weapon_0F8]
-[f 0 5 65278][f 2 1]武器　0x0F8　１行目[n]武器　0x0F8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづツ　１行目 武器　ゼゑゼづツ　２行目[n][e]
 
 [msg weapon_0F9]
-[f 0 5 65278][f 2 1]武器　0x0F9　１行目[n]武器　0x0F9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづヅ　１行目 武器　ゼゑゼづヅ　２行目[n][e]
 
 [msg weapon_0FA]
-[f 0 5 65278][f 2 1]武器　0x0FA　１行目[n]武器　0x0FA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづだ　１行目 武器　ゼゑゼづだ　２行目[n][e]
 
 [msg weapon_0FB]
-[f 0 5 65278][f 2 1]武器　0x0FB　１行目[n]武器　0x0FB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづち　１行目 武器　ゼゑゼづち　２行目[n][e]
 
 [msg weapon_0FC]
-[f 0 5 65278][f 2 1]武器　0x0FC　１行目[n]武器　0x0FC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづぢ　１行目 武器　ゼゑゼづぢ　２行目[n][e]
 
 [msg weapon_0FD]
-[f 0 5 65278][f 2 1]武器　0x0FD　１行目[n]武器　0x0FD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづっ　１行目 武器　ゼゑゼづっ　２行目[n][e]
 
 [msg weapon_0FE]
-[f 0 5 65278][f 2 1]武器　0x0FE　１行目[n]武器　0x0FE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづつ　１行目 武器　ゼゑゼづつ　２行目[n][e]
 
 [msg weapon_0FF]
-[f 0 5 65278][f 2 1]武器　0x0FF　１行目[n]武器　0x0FF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゼづづ　１行目 武器　ゼゑゼづづ　２行目[n][e]
 
 [msg weapon_100]
-[f 0 5 65278][f 2 1]武器　0x100　１行目[n]武器　0x100　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソゼゼ　１行目 武器　ゼゑソゼゼ　２行目[n][e]
 
 [msg weapon_101]
-[f 0 5 65278][f 2 1]武器　0x101　１行目[n]武器　0x101　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソゼソ　１行目 武器　ゼゑソゼソ　２行目[n][e]
 
 [msg weapon_102]
-[f 0 5 65278][f 2 1]武器　0x102　１行目[n]武器　0x102　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソゼゾ　１行目 武器　ゼゑソゼゾ　２行目[n][e]
 
 [msg weapon_103]
-[f 0 5 65278][f 2 1]Nudillos simples y efectivos.[n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ れもゆらゅまれ を まみまぼろもわよれテ[n][e]
 
 [msg weapon_104]
-[f 0 5 65278][f 2 1]Nudillos Graves diseñados para impactos brutales.[n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ てるぺわまれ ぽもれまォぺぽよれ らぺるぺ もゆらぺぼろよれ[n]ほるゎろぺゅまれテ[n][e]
 
 [msg weapon_105]
-[f 0 5 65278][f 2 1]Diseñados para fortalecer los nudillos al tomar una moneda de cobre. [f 0 1 3]Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれまォぺぽよれ らぺるぺ みよるろぺゅまぼまる ゅよれ ょゎぽもゅゅよれ ぺゅ[n]ろよゆぺる ゎょぺ ゆよょまぽぺ ぽま ぼよほるまテ [f 0 1 3]ひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_106]
-[f 0 5 65278][f 2 1]Guantes con nudillos triangulares afilados.[n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぼよょ ょゎぽもゅゅよれ ろるもぺょむゎゅぺるまれ ぺみもゅぺぽよれテ[n][e]
 
 [msg weapon_107]
-[f 0 5 65278][f 2 1]Guantes de cuero con tachuelas en los nudillos.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぽま ぼゎまるよ ぼよょ ろぺぼめゎまゅぺれ まょ ゅよれ ょゎぽもゅゅよれテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_108]
-[f 0 5 65278][f 2 1]Pesa lo suficiente como para que sus impactos sean mortales. [f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はまれぺ ゅよ れゎみもぼもまょろま ぼよゆよ らぺるぺ りゎま れゎれ もゆらぺぼろよれ[n]れまぺょ ゆよるろぺゅまれテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_109]
-[f 0 5 65278][f 2 1]Nudillos que golpean a la velocidad del sonido.[n][f 0 1 3]Prob. crítica +10%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ りゎま むよゅらまぺょ ぺ ゅぺ わまゅよぼもぽぺぽ ぽまゅ[n]れよょもぽよテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%ギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_10A]
-[f 0 5 65278][f 2 1]Nudillos de poder excepcional. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ ぽま らよぽまる まゑぼまらぼもよょぺゅテ [f 0 1 3]ぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_10B]
-[f 0 5 65278][f 2 1]Nudillos fabricados con una aleación especial. [f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ みぺほるもぼぺぽよれ ぼよょ ゎょぺ ぺゅまぺぼもカょ まれらまぼもぺゅテ[n][f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg weapon_10C]
-[f 0 5 65278][f 2 1]Guantes de un hombre que vivió por sus puños.[n][f 0 1 3]Prob. crítica +5%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぽま ゎょ めよゆほるま りゎま わもわもカ らよる れゎれ らゎォよれテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%ギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_10D]
-[f 0 5 65278][f 2 1]Guantes mencionados en muchas leyendas separadas.[n][f 0 1 3]Máx. PS +10%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ゆまょぼもよょぺぽよれ まょ ゆゎぼめぺれ ゅまをまょぽぺれ[n]れまらぺるぺぽぺれテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_10E]
-[f 0 5 65278][f 2 1]El usuario puede golpear con todo su peso.[n][f 0 1 3]Prob. crítica +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ ゎれゎぺるもよ らゎまぽま むよゅらまぺる ぼよょ ろよぽよ れゎ らまれよテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_10F]
-[f 0 5 65278][f 2 1]Nudillos modelados según los colmillos de un dragón. [f 0 1 3]Máx. PS +10%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ ゆよぽまゅぺぽよれ れまむグょ ゅよれ ぼよゅゆもゅゅよれ ぽま ゎょ[n]ぽるぺむカょテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg weapon_110]
-[f 0 5 65278][f 2 1]Guantes diseñados para sobrevivir una guerra Nuclear. [f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぽもれまォぺぽよれ らぺるぺ れよほるまわもわもる ゎょぺ むゎまるるぺ[n]ねゎぼゅまぺるテ [f 0 1 3]ぬァゑテ はひ & はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_111]
-[f 0 5 65278][f 2 1]Guantes negros hechos con el pelo de una[n]diosa. [f 0 1 3]Prob. media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ょまむるよれ めまぼめよれ ぼよょ まゅ らまゅよ ぽま ゎょぺ[n]ぽもよれぺテ [f 0 1 3]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0][n][e]
 
 [msg weapon_112]
-[f 0 5 65278][f 2 1]Entrega golpes de castigo divino.[n][f 0 1 3]Prob. crítica +20%/Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つょろるまむぺ むよゅらまれ ぽま ぼぺれろもむよ ぽもわもょよテ [f 0 1 3]はるよほテ[n]ぼるウろもぼぺ +ゾゼ%ギづる +ゾ[f 0 1 0][n][e]
 
 [msg weapon_113]
-[f 0 5 65278][f 2 1]Bendice por un caballo sagrado que gobierna[n]los cielos. [f 0 1 3]Coste medio de PS/Fr +4/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちまょぽもぼま らよる ゎょ ぼぺほぺゅゅよ れぺむるぺぽよ りゎま むよほもまるょぺ[n]ゅよれ ぼもまゅよれテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +ダギだむ +チ[f 0 1 0][n][e]
 
 [msg weapon_114]
-[f 0 5 65278][f 2 1]Nudillos que ocultan los movimientos de tu mano. [f 0 1 3]Coste medio de PS/Rs +4/Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねゎぽもゅゅよれ りゎま よぼゎゅろぺょ ゅよれ ゆよわもゆもまょろよれ ぽま ろゎ[n]ゆぺょよテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギぱれ +ダギだむ +ダ[f 0 1 0][n][e]
 
 [msg weapon_115]
-[f 0 5 65278][f 2 1]Réplica de los guantes usados por un campeón.[n][e]
+[f 0 5 65278][f 2 1]ぱイらゅもぼぺ ぽま ゅよれ むゎぺょろまれ ゎれぺぽよれ らよる ゎょ ぼぺゆらまカょテ[n][e]
 
 [msg weapon_116]
-[f 0 5 65278][f 2 1]武器　0x116　１行目[n]武器　0x116　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソヂ　１行目 武器　ゼゑソソヂ　２行目[n][e]
 
 [msg weapon_117]
-[f 0 5 65278][f 2 1]Guantes diseñados para entregar múltiples golpes rápidos.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぽもれまォぺぽよれ らぺるぺ まょろるまむぺる ゆグゅろもらゅまれ[n]むよゅらまれ るァらもぽよれテ [f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_118]
-[f 0 5 65278][f 2 1]武器　0x118　１行目[n]武器　0x118　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソツ　１行目 武器　ゼゑソソツ　２行目[n][e]
 
 [msg weapon_119]
-[f 0 5 65278][f 2 1]武器　0x119　１行目[n]武器　0x119　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソヅ　１行目 武器　ゼゑソソヅ　２行目[n][e]
 
 [msg weapon_11A]
-[f 0 5 65278][f 2 1]武器　0x11A　１行目[n]武器　0x11A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソだ　１行目 武器　ゼゑソソだ　２行目[n][e]
 
 [msg weapon_11B]
-[f 0 5 65278][f 2 1]武器　0x11B　１行目[n]武器　0x11B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソち　１行目 武器　ゼゑソソち　２行目[n][e]
 
 [msg weapon_11C]
-[f 0 5 65278][f 2 1]武器　0x11C　１行目[n]武器　0x11C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソぢ　１行目 武器　ゼゑソソぢ　２行目[n][e]
 
 [msg weapon_11D]
-[f 0 5 65278][f 2 1]武器　0x11D　１行目[n]武器　0x11D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソっ　１行目 武器　ゼゑソソっ　２行目[n][e]
 
 [msg weapon_11E]
-[f 0 5 65278][f 2 1]武器　0x11E　１行目[n]武器　0x11E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソつ　１行目 武器　ゼゑソソつ　２行目[n][e]
 
 [msg weapon_11F]
-[f 0 5 65278][f 2 1]武器　0x11F　１行目[n]武器　0x11F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソソづ　１行目 武器　ゼゑソソづ　２行目[n][e]
 
 [msg weapon_120]
-[f 0 5 65278][f 2 1]武器　0x120　１行目[n]武器　0x120　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソゾゼ　１行目 武器　ゼゑソゾゼ　２行目[n][e]
 
 [msg weapon_121]
-[f 0 5 65278][f 2 1]武器　0x121　１行目[n]武器　0x121　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソゾソ　１行目 武器　ゼゑソゾソ　２行目[n][e]
 
 [msg weapon_122]
-[f 0 5 65278][f 2 1]武器　0x122　１行目[n]武器　0x122　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソゾゾ　１行目 武器　ゼゑソゾゾ　２行目[n][e]
 
 [msg weapon_123]
-[f 0 5 65278][f 2 1]Un palo hecho para parecer una katana. Tiene un brillo barato y de plástico.[n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ めまぼめよ らぺるぺ らぺるまぼまる ゎょぺ やぺろぺょぺテ びもまょま[n]ゎょ ほるもゅゅよ ほぺるぺろよ を ぽま らゅァれろもぼよテ[n][e]
 
 [msg weapon_124]
-[f 0 5 65278][f 2 1]Una espada de aficionado. Fácil de usar.[n][f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぽま ぺみもぼもよょぺぽよテ づァぼもゅ ぽま ゎれぺるテ[n][f 0 1 3]はるまぼもれもカょ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_125]
-[f 0 5 65278][f 2 1]Un palo de golf Leve diseñado para aumentar la velocidad de balanceo. [f 0 1 3]Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぽま むよゅみ にまわま ぽもれまォぺぽよ らぺるぺ ぺゎゆまょろぺる[n]ゅぺ わまゅよぼもぽぺぽ ぽま ほぺゅぺょぼまよテ [f 0 1 3]だむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_126]
-[f 0 5 65278][f 2 1]Una espada elegante con un mango fácil de manejar. [f 0 1 3]Ma +1/Rs +1/Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ まゅまむぺょろま ぼよょ ゎょ ゆぺょむよ みァぼもゅ ぽま[n]ゆぺょまゃぺるテ [f 0 1 3]ぬぺ +ソギぱれ +ソギひゎ +ソ[f 0 1 0][n][e]
 
 [msg weapon_127]
-[f 0 5 65278][f 2 1]Una espada enorme para aplastar a los enemigos.[n][f 0 1 3]Prob. crítica +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ まょよるゆま らぺるぺ ぺらゅぺれろぺる ぺ ゅよれ まょまゆもむよれテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_128]
-[f 0 5 65278][f 2 1]Una espada cargada de un poco de electricidad.[n][f 0 1 3]Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぼぺるむぺぽぺ ぽま ゎょ らよぼよ ぽま まゅまぼろるもぼもぽぺぽテ[n][f 0 1 3]はるよほテ ほぺゃぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_129]
-[f 0 5 65278][f 2 1]Una espada que puede dividir un caballo en[n]dos.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ りゎま らゎまぽま ぽもわもぽもる ゎょ ぼぺほぺゅゅよ まょ[n]ぽよれテ [f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_12A]
-[f 0 5 65278][f 2 1]Una espada que puede disparar una gran onda[n]de choque. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ りゎま らゎまぽま ぽもれらぺるぺる ゎょぺ むるぺょ よょぽぺ[n]ぽま ぼめよりゎまテ [f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_12B]
-[f 0 5 65278][f 2 1]Una katana notablemente gruesa y pesada.[n][f 0 1 3]Máx. PS & PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ょよろぺほゅまゆまょろま むるゎまれぺ を らまれぺぽぺテ[n][f 0 1 3]ぬァゑテ はひ & はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_12C]
-[f 0 5 65278][f 2 1]Recubierta de veneno. Manipular con precaución.[n][f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまぼゎほもまるろぺ ぽま わまょまょよテ ぬぺょもらゎゅぺる ぼよょ らるまぼぺゎぼもカょテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_12D]
-[f 0 5 65278][f 2 1]Su nombre significa "rel茨mpago duro".[n][f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎ ょよゆほるま れもむょもみもぼぺ "るまゅァゆらぺむよ ぽゎるよ"テ [f 0 1 3]ぬァゑテ[n]はひ & はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_12E]
-[f 0 5 65278][f 2 1]Una katana con un tenue resplandor. Increíblemente afilada.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ やぺろぺょぺ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよるテ とょぼるまウほゅまゆまょろま[n]ぺみもゅぺぽぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_12F]
-[f 0 5 65278][f 2 1]Una hoja sagrada de leyenda impregnada con el poder del sol. [f 0 1 3]PS +10%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めよゃぺ れぺむるぺぽぺ ぽま ゅまをまょぽぺ もゆらるまむょぺぽぺ ぼよょ[n]まゅ らよぽまる ぽまゅ れよゅテ [f 0 1 3]はひ +ソゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg weapon_130]
-[f 0 5 65278][f 2 1]Una espada empuñada por aquellos que desafían laberintos. [f 0 1 3]Máx. PE +10%/Su +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ まゆらゎォぺぽぺ らよる ぺりゎまゅゅよれ りゎま ぽまれぺみウぺょ[n]ゅぺほまるもょろよれテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギひゎ +ダ[f 0 1 0][n][e]
 
 [msg weapon_131]
-[f 0 5 65278][f 2 1]Un palo de golf hecho con un mineral mítico divino.[n][f 0 1 3]Prob. crítica +20%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らぺゅよ ぽま むよゅみ めまぼめよ ぼよょ ゎょ ゆもょまるぺゅ ゆウろもぼよ[n]ぽもわもょよテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ゾゼ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_132]
-[f 0 5 65278][f 2 1]Una espada usada en innumerables batallas.[n][f 0 1 3]Coste medio de PS/Fr +4/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ゎれぺぽぺ まょ もょょゎゆまるぺほゅまれ ほぺろぺゅゅぺれテ[n][f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +ダギぱれ +チ[f 0 1 0][n][e]
 
 [msg weapon_133]
-[f 0 5 65278][f 2 1]Se dice que es la primera hoja curva en Japón.[n][f 0 1 3]Coste medio de PS/Fr +3/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひま ぽもぼま りゎま まれ ゅぺ らるもゆまるぺ めよゃぺ ぼゎるわぺ まょ どぺらカょテ[n][f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +タギぱれ +チ[f 0 1 0][n][e]
 
 [msg weapon_134]
-[f 0 5 65278][f 2 1]Una espada larga y pesada de dos manos.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ゅぺるむぺ を らまれぺぽぺ ぽま ぽよれ ゆぺょよれテ[n][e]
 
 [msg weapon_135]
-[f 0 5 65278][f 2 1]武器　0x135　１行目[n]武器　0x135　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタチ　１行目 武器　ゼゑソタチ　２行目[n][e]
 
 [msg weapon_136]
-[f 0 5 65278][f 2 1]Una espada hecha con una columna gigante.[n][f 0 1 3]Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ めまぼめぺ ぼよょ ゎょぺ ぼよゅゎゆょぺ むもむぺょろまテ[n][f 0 1 3]ぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_137]
-[f 0 5 65278][f 2 1]武器　0x137　１行目[n]武器　0x137　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタッ　１行目 武器　ゼゑソタッ　２行目[n][e]
 
 [msg weapon_138]
-[f 0 5 65278][f 2 1]武器　0x138　１行目[n]武器　0x138　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタツ　１行目 武器　ゼゑソタツ　２行目[n][e]
 
 [msg weapon_139]
-[f 0 5 65278][f 2 1]武器　0x139　１行目[n]武器　0x139　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタヅ　１行目 武器　ゼゑソタヅ　２行目[n][e]
 
 [msg weapon_13A]
-[f 0 5 65278][f 2 1]武器　0x13A　１行目[n]武器　0x13A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタだ　１行目 武器　ゼゑソタだ　２行目[n][e]
 
 [msg weapon_13B]
-[f 0 5 65278][f 2 1]武器　0x13B　１行目[n]武器　0x13B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタち　１行目 武器　ゼゑソタち　２行目[n][e]
 
 [msg weapon_13C]
-[f 0 5 65278][f 2 1]武器　0x13C　１行目[n]武器　0x13C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタぢ　１行目 武器　ゼゑソタぢ　２行目[n][e]
 
 [msg weapon_13D]
-[f 0 5 65278][f 2 1]武器　0x13D　１行目[n]武器　0x13D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタっ　１行目 武器　ゼゑソタっ　２行目[n][e]
 
 [msg weapon_13E]
-[f 0 5 65278][f 2 1]武器　0x13E　１行目[n]武器　0x13E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタつ　１行目 武器　ゼゑソタつ　２行目[n][e]
 
 [msg weapon_13F]
-[f 0 5 65278][f 2 1]武器　0x13F　１行目[n]武器　0x13F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソタづ　１行目 武器　ゼゑソタづ　２行目[n][e]
 
 [msg weapon_140]
-[f 0 5 65278][f 2 1]武器　0x140　１行目[n]武器　0x140　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソダゼ　１行目 武器　ゼゑソダゼ　２行目[n][e]
 
 [msg weapon_141]
-[f 0 5 65278][f 2 1]武器　0x141　１行目[n]武器　0x141　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソダソ　１行目 武器　ゼゑソダソ　２行目[n][e]
 
 [msg weapon_142]
-[f 0 5 65278][f 2 1]武器　0x142　１行目[n]武器　0x142　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソダゾ　１行目 武器　ゼゑソダゾ　２行目[n][e]
 
 [msg weapon_143]
-[f 0 5 65278][f 2 1]Zapatos que pueden potenciar la fuerza de patadas directas.[n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ りゎま らゎまぽまょ らよろまょぼもぺる ゅぺ みゎまるんぺ ぽま[n]らぺろぺぽぺれ ぽもるまぼろぺれテ[n][e]
 
 [msg weapon_144]
-[f 0 5 65278][f 2 1]Zapatos con puntas de placas de hierro resistente.[n][f 0 1 3]Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ ぼよょ らゎょろぺれ ぽま らゅぺぼぺれ ぽま めもまるるよ[n]るまれもれろまょろまテ [f 0 1 3]ぱれ +ソ[f 0 1 0][n][e]
 
 [msg weapon_145]
-[f 0 5 65278][f 2 1]Zapatos que hacen que el portador parezca[n]m茨s alto. [f 0 1 3]Precisi吋n +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ りゎま めぺぼまょ りゎま まゅ らよるろぺぽよる らぺるまんぼぺ[n]ゆァれ ぺゅろよテ [f 0 1 3]はるまぼもれもカょ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_146]
-[f 0 5 65278][f 2 1]Zapatillas con estilo de pies de dinosaurio.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろもゅゅぺれ ぼよょ まれろもゅよ ぽま らもまれ ぽま ぽもょよれぺゎるもよテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_147]
-[f 0 5 65278][f 2 1]Llamativos, pero muy buenos para movimientos rápidos. [f 0 1 3]Máx. PS +10%/Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にゅぺゆぺろもわよれデ らまるよ ゆゎを ほゎまょよれ らぺるぺ ゆよわもゆもまょろよれ[n]るァらもぽよれテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギひゎ +ソ[f 0 1 0][n][e]
 
 [msg weapon_148]
-[f 0 5 65278][f 2 1]Botas con una capa tóxica en las suelas.[n][f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちよろぺれ ぼよょ ゎょぺ ぼぺらぺ ろカゑもぼぺ まょ ゅぺれ れゎまゅぺれテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_149]
-[f 0 5 65278][f 2 1]Zapatos ágiles para derribar a los enemigos. [f 0 1 3]Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ ァむもゅまれ らぺるぺ ぽまるるもほぺる ぺ ゅよれ まょまゆもむよれテ[n][f 0 1 3]だむ +ダ[f 0 1 0][n][e]
 
 [msg weapon_14A]
-[f 0 5 65278][f 2 1]Zapatos bendecidos por el dios de la guerra.[n][f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ ほまょぽまぼもぽよれ らよる まゅ ぽもよれ ぽま ゅぺ むゎまるるぺテ[n][f 0 1 3]ぬァゑテ はひ & はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_14B]
-[f 0 5 65278][f 2 1]Botas incrustadas con diseños extraños y desconcertantes. [f 0 1 3]Prob. baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちよろぺれ もょぼるゎれろぺぽぺれ ぼよょ ぽもれまォよれ まゑろるぺォよれ を[n]ぽまれぼよょぼまるろぺょろまれテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_14C]
-[f 0 5 65278][f 2 1]Zapatos hermosos solo posibles a través de muchos sacrificios. [f 0 1 3]Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ めまるゆよれよれ れよゅよ らよれもほゅまれ ぺ ろるぺわイれ ぽま[n]ゆゎぼめよれ れぺぼるもみもぼもよれテ [f 0 1 3]ぱれ +ダ[f 0 1 0][n][e]
 
 [msg weapon_14D]
-[f 0 5 65278][f 2 1]Zapatos c吋modos para caminar o patear.[n][f 0 1 3]Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ ぼカゆよぽよれ らぺるぺ ぼぺゆもょぺる よ らぺろまぺるテ [f 0 1 3]ひゎ +チ[f 0 1 0][n][e]
 
 [msg weapon_14E]
-[f 0 5 65278][f 2 1]Zapatos fuertes que han sobrevivido a una catástrofe. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ みゎまるろまれ りゎま めぺょ れよほるまわもわもぽよ ぺ ゎょぺ[n]ぼぺろァれろるよみまテ [f 0 1 3]ぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_14F]
-[f 0 5 65278][f 2 1]Botas diseñadas en honor al caballo de Odín.[n][f 0 1 3]Prob. crítica +10%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちよろぺれ ぽもれまォぺぽぺれ まょ めよょよる ぺゅ ぼぺほぺゅゅよ ぽま のぽウょテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%ギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_150]
-[f 0 5 65278][f 2 1]Zapatos usados por alguien amado por un dios.[n][f 0 1 3]Máx. PE +15%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ ゎれぺぽよれ らよる ぺゅむゎもまょ ぺゆぺぽよ らよる ゎょ ぽもよれテ[n][f 0 1 3]ぬァゑテ はつ +ソチ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_151]
-[f 0 5 65278][f 2 1]Brillan como estrellas, golpean como un meteorito.[n][f 0 1 3]Prob. crítica +20%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるもゅゅぺょ ぼよゆよ まれろるまゅゅぺれデ むよゅらまぺょ ぼよゆよ ゎょ[n]ゆまろまよるもろよテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ゾゼ%ギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_152]
-[f 0 5 65278][f 2 1]Grebas de piedra extraída de una montaña sagrada.[n][f 0 1 3]Coste medio de PS/Fr +6/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てるまほぺれ ぽま らもまぽるぺ まゑろるぺウぽぺ ぽま ゎょぺ ゆよょろぺォぺ[n]れぺむるぺぽぺテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +ヂギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_153]
-[f 0 5 65278][f 2 1]武器　0x153　１行目[n]武器　0x153　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチタ　１行目 武器　ゼゑソチタ　２行目[n][e]
 
 [msg weapon_154]
-[f 0 5 65278][f 2 1]Zapatos fuertemente cubiertos con tintes antiguos a base de plantas. [f 0 1 3]Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]べぺらぺろよれ みゎまるろまゆまょろま ぼゎほもまるろよれ ぼよょ ろもょろまれ[n]ぺょろもむゎよれ ぺ ほぺれま ぽま らゅぺょろぺれテ [f 0 1 3]だむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_155]
-[f 0 5 65278][f 2 1]Calzado que evoca la dignidad de un estratega.[n][f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢぺゅんぺぽよ りゎま まわよぼぺ ゅぺ ぽもむょもぽぺぽ ぽま ゎょ まれろるぺろまむぺテ[n][f 0 1 3]びよぽぺれ ゅぺれ まれろぺぽテ +ソ[f 0 1 0][n][e]
 
 [msg weapon_156]
-[f 0 5 65278][f 2 1]武器　0x156　１行目[n]武器　0x156　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチヂ　１行目 武器　ゼゑソチヂ　２行目[n][e]
 
 [msg weapon_157]
-[f 0 5 65278][f 2 1]武器　0x157　１行目[n]武器　0x157　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチッ　１行目 武器　ゼゑソチッ　２行目[n][e]
 
 [msg weapon_158]
-[f 0 5 65278][f 2 1]武器　0x158　１行目[n]武器　0x158　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチツ　１行目 武器　ゼゑソチツ　２行目[n][e]
 
 [msg weapon_159]
-[f 0 5 65278][f 2 1]武器　0x159　１行目[n]武器　0x159　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチヅ　１行目 武器　ゼゑソチヅ　２行目[n][e]
 
 [msg weapon_15A]
-[f 0 5 65278][f 2 1]武器　0x15A　１行目[n]武器　0x15A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチだ　１行目 武器　ゼゑソチだ　２行目[n][e]
 
 [msg weapon_15B]
-[f 0 5 65278][f 2 1]武器　0x15B　１行目[n]武器　0x15B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチち　１行目 武器　ゼゑソチち　２行目[n][e]
 
 [msg weapon_15C]
-[f 0 5 65278][f 2 1]武器　0x15C　１行目[n]武器　0x15C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチぢ　１行目 武器　ゼゑソチぢ　２行目[n][e]
 
 [msg weapon_15D]
-[f 0 5 65278][f 2 1]武器　0x15D　１行目[n]武器　0x15D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチっ　１行目 武器　ゼゑソチっ　２行目[n][e]
 
 [msg weapon_15E]
-[f 0 5 65278][f 2 1]武器　0x15E　１行目[n]武器　0x15E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチつ　１行目 武器　ゼゑソチつ　２行目[n][e]
 
 [msg weapon_15F]
-[f 0 5 65278][f 2 1]武器　0x15F　１行目[n]武器　0x15F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソチづ　１行目 武器　ゼゑソチづ　２行目[n][e]
 
 [msg weapon_160]
-[f 0 5 65278][f 2 1]武器　0x160　１行目[n]武器　0x160　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヂゼ　１行目 武器　ゼゑソヂゼ　２行目[n][e]
 
 [msg weapon_161]
-[f 0 5 65278][f 2 1]武器　0x161　１行目[n]武器　0x161　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヂソ　１行目 武器　ゼゑソヂソ　２行目[n][e]
 
 [msg weapon_162]
-[f 0 5 65278][f 2 1]武器　0x162　１行目[n]武器　0x162　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヂゾ　１行目 武器　ゼゑソヂゾ　２行目[n][e]
 
 [msg weapon_163]
-[f 0 5 65278][f 2 1]Un abanico práctico. Fácil de abrir y cerrar. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ らるァぼろもぼよテ づァぼもゅ ぽま ぺほるもる を ぼまるるぺるテ[n][f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_164]
-[f 0 5 65278][f 2 1]Un abanico de calidad con un diseño intrincado. [f 0 1 3]Distancia/Precisi吋n +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ ぽま ぼぺゅもぽぺぽ ぼよょ ゎょ ぽもれまォよ もょろるもょぼぺぽよテ[n][f 0 1 3]っもれろぺょぼもぺギはるまぼもれもカょ +チ%[f 0 1 0][n][e]
 
 [msg weapon_165]
-[f 0 5 65278][f 2 1]Un abanico místico destinado a una chica de corazón cálido. [f 0 1 3]Distancia/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ ゆウれろもぼよ ぽまれろもょぺぽよ ぺ ゎょぺ ぼめもぼぺ ぽま[n]ぼよるぺんカょ ぼァゅもぽよテ [f 0 1 3]っもれろぺょぼもぺギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_166]
-[f 0 5 65278][f 2 1]Un abanico que puede imitar el sonido de una lluvia intensa. [f 0 1 3]Distancia/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ りゎま らゎまぽま もゆもろぺる まゅ れよょもぽよ ぽま ゎょぺ[n]ゅゅゎわもぺ もょろまょれぺテ [f 0 1 3]っもれろぺょぼもぺギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_167]
-[f 0 5 65278][f 2 1]Un abanico de combate hecho con metal especializado. [f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ ぽま ぼよゆほぺろま めまぼめよ ぼよょ ゆまろぺゅ[n]まれらまぼもぺゅもんぺぽよテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_168]
-[f 0 5 65278][f 2 1]Un abanico que dispersa luz de todos los colores. [f 0 1 3]Distancia/Ma +2/Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ りゎま ぽもれらまるれぺ ゅゎん ぽま ろよぽよれ ゅよれ[n]ぼよゅよるまれテ [f 0 1 3]っもれろぺょぼもぺギぬぺ +ゾギぱれ +ソ[f 0 1 0][n][e]
 
 [msg weapon_169]
-[f 0 5 65278][f 2 1]Un abanico artístico que suena como una campana. [f 0 1 3]Distancia/Prob. media de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ ぺるろウれろもぼよ りゎま れゎまょぺ ぼよゆよ ゎょぺ[n]ぼぺゆらぺょぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_16A]
-[f 0 5 65278][f 2 1]Un ventilador grande y brillante para cubrir[n]la cara. [f 0 1 3]Distancia/Ma +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ わまょろもゅぺぽよる むるぺょぽま を ほるもゅゅぺょろま らぺるぺ ぼゎほるもる[n]ゅぺ ぼぺるぺテ [f 0 1 3]っもれろぺょぼもぺギぬぺ +ダ[f 0 1 0][n][e]
 
 [msg weapon_16B]
-[f 0 5 65278][f 2 1]Un abanico rojo hecho de plumas de Suzaku.[n][f 0 1 3]Daño Leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ るよゃよ めまぼめよ ぽま らゅゎゆぺれ ぽま ひゎんぺやゎテ[n][f 0 1 3]っぺォよ にまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_16C]
-[f 0 5 65278][f 2 1]Un abanico que se dice que trae riqueza con cada balanceo. [f 0 1 3]Distancia/Dinero +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ りゎま れま ぽもぼま りゎま ろるぺま るもりゎまんぺ ぼよょ[n]ぼぺぽぺ ほぺゅぺょぼまよテ [f 0 1 3]っもれろぺょぼもぺギっもょまるよ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_16D]
-[f 0 5 65278][f 2 1]Un abanico que produce un sonido similar al Viento. [f 0 1 3]Distancia/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ りゎま らるよぽゎぼま ゎょ れよょもぽよ れもゆもゅぺる ぺゅ[n]ふもまょろよテ [f 0 1 3]っもれろぺょぼもぺギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_16E]
-[f 0 5 65278][f 2 1]Un abanico preferido por las mujeres nobles coquetas.[n][f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ らるまみまるもぽよ らよる ゅぺれ ゆゎゃまるまれ ょよほゅまれ[n]ぼよりゎまろぺれテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_16F]
-[f 0 5 65278][f 2 1]Su pura belleza inspira Sueños felices.[n][f 0 1 3]Distancia/Ma +2/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎ らゎるぺ ほまゅゅまんぺ もょれらもるぺ ひゎまォよれ みまゅもぼまれテ[n][f 0 1 3]っもれろぺょぼもぺギぬぺ +ゾギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_170]
-[f 0 5 65278][f 2 1]Un abanico empapado en l茨grimas de alegr胤a[n]y afecto. [f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ まゆらぺらぺぽよ まょ ゅァむるもゆぺれ ぽま ぺゅまむるウぺ[n]を ぺみまぼろよテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0][n][e]
 
 [msg weapon_171]
-[f 0 5 65278][f 2 1]Un abanico que guía a los enemigos hacia el paraíso.[n][f 0 1 3]Distancia/Máx. PE +20%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ りゎま むゎウぺ ぺ ゅよれ まょまゆもむよれ めぺぼもぺ まゅ[n]らぺるぺウれよテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +ゾゼ%[f 0 1 0][n][e]
 
 [msg weapon_172]
-[f 0 5 65278][f 2 1]Un abanico que representa la vida y la muerte.[n][f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ りゎま るまらるまれまょろぺ ゅぺ わもぽぺ を ゅぺ ゆゎまるろまテ[n][f 0 1 3]っもれろぺょぼもぺギぢよれろま ゆまぽもよ ぽま はひギぬぺ +ッ[f 0 1 0][n][e]
 
 [msg weapon_173]
-[f 0 5 65278][f 2 1]武器　0x173　１行目[n]武器　0x173　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッタ　１行目 武器　ゼゑソッタ　２行目[n][e]
 
 [msg weapon_174]
-[f 0 5 65278][f 2 1]Un abanico hecho con plumas de un gran pájaro.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺほぺょもぼよ めまぼめよ ぼよょ らゅゎゆぺれ ぽま ゎょ むるぺょ らァゃぺるよテ[n][f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_175]
-[f 0 5 65278][f 2 1]武器　0x175　１行目[n]武器　0x175　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッチ　１行目 武器　ゼゑソッチ　２行目[n][e]
 
 [msg weapon_176]
-[f 0 5 65278][f 2 1]武器　0x176　１行目[n]武器　0x176　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッヂ　１行目 武器　ゼゑソッヂ　２行目[n][e]
 
 [msg weapon_177]
-[f 0 5 65278][f 2 1]武器　0x177　１行目[n]武器　0x177　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッッ　１行目 武器　ゼゑソッッ　２行目[n][e]
 
 [msg weapon_178]
-[f 0 5 65278][f 2 1]武器　0x178　１行目[n]武器　0x178　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッツ　１行目 武器　ゼゑソッツ　２行目[n][e]
 
 [msg weapon_179]
-[f 0 5 65278][f 2 1]武器　0x179　１行目[n]武器　0x179　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッヅ　１行目 武器　ゼゑソッヅ　２行目[n][e]
 
 [msg weapon_17A]
-[f 0 5 65278][f 2 1]武器　0x17A　１行目[n]武器　0x17A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッだ　１行目 武器　ゼゑソッだ　２行目[n][e]
 
 [msg weapon_17B]
-[f 0 5 65278][f 2 1]武器　0x17B　１行目[n]武器　0x17B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッち　１行目 武器　ゼゑソッち　２行目[n][e]
 
 [msg weapon_17C]
-[f 0 5 65278][f 2 1]武器　0x17C　１行目[n]武器　0x17C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッぢ　１行目 武器　ゼゑソッぢ　２行目[n][e]
 
 [msg weapon_17D]
-[f 0 5 65278][f 2 1]武器　0x17D　１行目[n]武器　0x17D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッっ　１行目 武器　ゼゑソッっ　２行目[n][e]
 
 [msg weapon_17E]
-[f 0 5 65278][f 2 1]武器　0x17E　１行目[n]武器　0x17E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッつ　１行目 武器　ゼゑソッつ　２行目[n][e]
 
 [msg weapon_17F]
-[f 0 5 65278][f 2 1]武器　0x17F　１行目[n]武器　0x17F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソッづ　１行目 武器　ゼゑソッづ　２行目[n][e]
 
 [msg weapon_180]
-[f 0 5 65278][f 2 1]武器　0x180　１行目[n]武器　0x180　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソツゼ　１行目 武器　ゼゑソツゼ　２行目[n][e]
 
 [msg weapon_181]
-[f 0 5 65278][f 2 1]武器　0x181　１行目[n]武器　0x181　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソツソ　１行目 武器　ゼゑソツソ　２行目[n][e]
 
 [msg weapon_182]
-[f 0 5 65278][f 2 1]武器　0x182　１行目[n]武器　0x182　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソツゾ　１行目 武器　ゼゑソツゾ　２行目[n][e]
 
 [msg weapon_183]
-[f 0 5 65278][f 2 1]Un guante con agujas.[n][e]
+[f 0 5 65278][f 2 1]ぴょ むゎぺょろま ぼよょ ぺむゎゃぺれテ[n][e]
 
 [msg weapon_184]
-[f 0 5 65278][f 2 1]Su tierno nombre oculta su letalidad.[n][f 0 1 3]Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎ ろもまるょよ ょよゆほるま よぼゎゅろぺ れゎ ゅまろぺゅもぽぺぽテ [f 0 1 3]ひゎ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_185]
-[f 0 5 65278][f 2 1]Una garra que recuerda al enemigo por qué los osos son peligrosos.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ むぺるるぺ りゎま るまぼゎまるぽぺ ぺゅ まょまゆもむよ らよる りゎイ[n]ゅよれ よれよれ れよょ らまゅもむるよれよれテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_186]
-[f 0 5 65278][f 2 1]Hecho de robustas garras reptilianas.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]でまぼめよ ぽま るよほゎれろぺれ むぺるるぺれ るまらろもゅもぺょぺれテ [f 0 1 3]ぬァゑテ[n]はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_187]
-[f 0 5 65278][f 2 1]Una garra que rasga el aire alrededor de su objetivo.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ むぺるるぺ りゎま るぺれむぺ まゅ ぺもるま ぺゅるまぽまぽよる ぽま れゎ[n]よほゃまろもわよテ [f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_188]
-[f 0 5 65278][f 2 1]Una garra para volverse rasposa y/o contundente.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ むぺるるぺ らぺるぺ わよゅわまるれま るぺれらよれぺ をギよ ぼよょろゎょぽまょろまテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_189]
-[f 0 5 65278][f 2 1]Garras con hojas en forma de rayo.[n][f 0 1 3]Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てぺるるぺれ ぼよょ めよゃぺれ まょ みよるゆぺ ぽま るぺをよテ [f 0 1 3]はるよほテ[n]ほぺゃぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_18A]
-[f 0 5 65278][f 2 1]Garras con taladros que perforan los cielos.[n][f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てぺるるぺれ ぼよょ ろぺゅぺぽるよれ りゎま らまるみよるぺょ ゅよれ ぼもまゅよれテ[n][f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_18B]
-[f 0 5 65278][f 2 1]Sus golpes generan ondas de choque a la velocidad del sonido. [f 0 1 3]Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひゎれ むよゅらまれ むまょまるぺょ よょぽぺれ ぽま ぼめよりゎま ぺ ゅぺ[n]わまゅよぼもぽぺぽ ぽまゅ れよょもぽよテ [f 0 1 3]だむ +ダ[f 0 1 0][n][e]
 
 [msg weapon_18C]
-[f 0 5 65278][f 2 1]Garras impregnadas de veneno. Equípalas con cuidado.[n][f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てぺるるぺれ もゆらるまむょぺぽぺれ ぽま わまょまょよテ つりゎウらぺゅぺれ ぼよょ[n]ぼゎもぽぺぽよテ [f 0 1 3]はるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_18D]
-[f 0 5 65278][f 2 1]Modeladas a imagen del arma secreta.[n][f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬよぽまゅぺぽぺれ ぺ もゆぺむまょ ぽまゅ ぺるゆぺ れまぼるまろぺテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_18E]
-[f 0 5 65278][f 2 1]Una garra que corta fácilmente el acero. [f 0 1 3]Prob. media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ むぺるるぺ りゎま ぼよるろぺ みァぼもゅゆまょろま まゅ ぺぼまるよテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_18F]
-[f 0 5 65278][f 2 1]Una garra hecha de un metal muy precioso.[n][f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ むぺるるぺ めまぼめぺ ぽま ゎょ ゆまろぺゅ ゆゎを らるまぼもよれよテ[n][f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_190]
-[f 0 5 65278][f 2 1]Garras malditas que pueden desgarrar cualquier cosa. [f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てぺるるぺれ ゆぺゅぽもろぺれ りゎま らゎまぽまょ ぽまれむぺるるぺる ぼゎぺゅりゎもまる[n]ぼよれぺテ [f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_191]
-[f 0 5 65278][f 2 1]Garras de hueso de dragón potenciadas por las estrellas del destino. [f 0 1 3]Prob. alta de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てぺるるぺれ ぽま めゎまれよ ぽま ぽるぺむカょ らよろまょぼもぺぽぺれ らよる[n]ゅぺれ まれろるまゅゅぺれ ぽまゅ ぽまれろもょよテ [f 0 1 3]はるよほテ ぺゅろぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_192]
-[f 0 5 65278][f 2 1]Una garra de bestia afilada para la venganza.[n][f 0 1 3]Coste medio de PS/Rs +6/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ むぺるるぺ ぽま ほまれろもぺ ぺみもゅぺぽぺ らぺるぺ ゅぺ わまょむぺょんぺテ[n][f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギぱれ +ヂギひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_193]
-[f 0 5 65278][f 2 1]武器　0x193　１行目[n]武器　0x193　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅタ　１行目 武器　ゼゑソヅタ　２行目[n][e]
 
 [msg weapon_194]
-[f 0 5 65278][f 2 1]Garras viciosas para un alegre frenesí de cortes.[n][f 0 1 3]Prob. baja de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]てぺるるぺれ わもぼもよれぺれ らぺるぺ ゎょ ぺゅまむるま みるまょまれウ ぽま[n]ぼよるろまれテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_195]
-[f 0 5 65278][f 2 1]武器　0x195　１行目[n]武器　0x195　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅチ　１行目 武器　ゼゑソヅチ　２行目[n][e]
 
 [msg weapon_196]
-[f 0 5 65278][f 2 1]武器　0x196　１行目[n]武器　0x196　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅヂ　１行目 武器　ゼゑソヅヂ　２行目[n][e]
 
 [msg weapon_197]
-[f 0 5 65278][f 2 1]武器　0x197　１行目[n]武器　0x197　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅッ　１行目 武器　ゼゑソヅッ　２行目[n][e]
 
 [msg weapon_198]
-[f 0 5 65278][f 2 1]武器　0x198　１行目[n]武器　0x198　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅツ　１行目 武器　ゼゑソヅツ　２行目[n][e]
 
 [msg weapon_199]
-[f 0 5 65278][f 2 1]武器　0x199　１行目[n]武器　0x199　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅヅ　１行目 武器　ゼゑソヅヅ　２行目[n][e]
 
 [msg weapon_19A]
-[f 0 5 65278][f 2 1]武器　0x19A　１行目[n]武器　0x19A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅだ　１行目 武器　ゼゑソヅだ　２行目[n][e]
 
 [msg weapon_19B]
-[f 0 5 65278][f 2 1]武器　0x19B　１行目[n]武器　0x19B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅち　１行目 武器　ゼゑソヅち　２行目[n][e]
 
 [msg weapon_19C]
-[f 0 5 65278][f 2 1]武器　0x19C　１行目[n]武器　0x19C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅぢ　１行目 武器　ゼゑソヅぢ　２行目[n][e]
 
 [msg weapon_19D]
-[f 0 5 65278][f 2 1]武器　0x19D　１行目[n]武器　0x19D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅっ　１行目 武器　ゼゑソヅっ　２行目[n][e]
 
 [msg weapon_19E]
-[f 0 5 65278][f 2 1]武器　0x19E　１行目[n]武器　0x19E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅつ　１行目 武器　ゼゑソヅつ　２行目[n][e]
 
 [msg weapon_19F]
-[f 0 5 65278][f 2 1]武器　0x19F　１行目[n]武器　0x19F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソヅづ　１行目 武器　ゼゑソヅづ　２行目[n][e]
 
 [msg weapon_1A0]
-[f 0 5 65278][f 2 1]武器　0x1A0　１行目[n]武器　0x1A0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソだゼ　１行目 武器　ゼゑソだゼ　２行目[n][e]
 
 [msg weapon_1A1]
-[f 0 5 65278][f 2 1]武器　0x1A1　１行目[n]武器　0x1A1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソだソ　１行目 武器　ゼゑソだソ　２行目[n][e]
 
 [msg weapon_1A2]
-[f 0 5 65278][f 2 1]武器　0x1A2　１行目[n]武器　0x1A2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソだゾ　１行目 武器　ゼゑソだゾ　２行目[n][e]
 
 [msg weapon_1A3]
-[f 0 5 65278][f 2 1]Una silla cómoda utilizada comúnmente en escuelas.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ れもゅゅぺ ぼカゆよぽぺ ゎろもゅもんぺぽぺ ぼよゆグょゆまょろま まょ[n]まれぼゎまゅぺれテ[n][e]
 
 [msg weapon_1A4]
-[f 0 5 65278][f 2 1]Una placa metálica muy delgada. [f 0 1 3]Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らゅぺぼぺ ゆまろァゅもぼぺ ゆゎを ぽまゅむぺぽぺテ [f 0 1 3]ぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1A5]
-[f 0 5 65278][f 2 1]Una placa de hierro incre胤blemente pesada.[n][f 0 1 3]Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らゅぺぼぺ ぽま めもまるるよ もょぼるまウほゅまゆまょろま らまれぺぽぺテ[n][f 0 1 3]ぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_1A6]
-[f 0 5 65278][f 2 1]Una placa de metal que otorga poder a su portador.[n][f 0 1 3]Prob. crítica +5%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らゅぺぼぺ ぽま ゆまろぺゅ りゎま よろよるむぺ らよぽまる ぺ れゎ[n]らよるろぺぽよるテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1A7]
-[f 0 5 65278][f 2 1]Utilizado en fábricas para protegerse de las chispas. [f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴろもゅもんぺぽよ まょ みァほるもぼぺれ らぺるぺ らるよろまむまるれま ぽま ゅぺれ[n]ぼめもれらぺれテ [f 0 1 3]ぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_1A8]
-[f 0 5 65278][f 2 1]Una placa de hierro con un revestimiento de oro.[n][f 0 1 3]Dinero +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らゅぺぼぺ ぽま めもまるるよ ぼよょ ゎょ るまわまれろもゆもまょろよ ぽま[n]よるよテ [f 0 1 3]っもょまるよ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_1A9]
-[f 0 5 65278][f 2 1]Un escudo redondo hecho para soldados de primera línea. [f 0 1 3]Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ るまぽよょぽよ めまぼめよ らぺるぺ れよゅぽぺぽよれ ぽま[n]らるもゆまるぺ ゅウょまぺテ [f 0 1 3]ぱれ +ダ[f 0 1 0][n][e]
 
 [msg weapon_1AA]
-[f 0 5 65278][f 2 1]Un escudo que emite un gas somnífero. [f 0 1 3]Prob. media de Sueño[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ りゎま まゆもろま ゎょ むぺれ れよゆょウみまるよテ [f 0 1 3]はるよほテ[n]ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0][n][e]
 
 [msg weapon_1AB]
-[f 0 5 65278][f 2 1]Una placa hecha de una aleación resistente al calor.[n][f 0 1 3]Máx. PS +10%/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らゅぺぼぺ めまぼめぺ ぽま ゎょぺ ぺゅまぺぼもカょ るまれもれろまょろま[n]ぺゅ ぼぺゅよるテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1AC]
-[f 0 5 65278][f 2 1]Un escudo equipado con un mini motor a reacción.[n][f 0 1 3]Rs +2/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ まりゎもらぺぽよ ぼよょ ゎょ ゆもょも ゆよろよる ぺ[n]るまぺぼぼもカょテ [f 0 1 3]ぱれ +ゾギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_1AD]
-[f 0 5 65278][f 2 1]Una baldosa que ahuyenta a los espíritus malignos.[n][f 0 1 3]Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ほぺゅぽよれぺ りゎま ぺめゎをまょろぺ ぺ ゅよれ まれらウるもろゎれ[n]ゆぺゅもむょよれテ [f 0 1 3]ぱれ +チ[f 0 1 0][n][e]
 
 [msg weapon_1AE]
-[f 0 5 65278][f 2 1]Un escudo utilizado por un valiente y virtuoso caballero. [f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ ゎろもゅもんぺぽよ らよる ゎょ わぺゅもまょろま を わもるろゎよれよ[n]ぼぺほぺゅゅまるよテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_1AF]
-[f 0 5 65278][f 2 1]Un escudo majestuoso y poderoso. [f 0 1 3]Máx. PS +15%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ ゆぺゃまれろゎよれよ を らよぽまるよれよテ [f 0 1 3]ぬァゑテ はひ[n]+ソチ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_1B0]
-[f 0 5 65278][f 2 1]Un escudo sagrado adornado con los Cinco Reyes de la Sabiduría. [f 0 1 3]Prob. media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ れぺむるぺぽよ ぺぽよるょぺぽよ ぼよょ ゅよれ ぢもょぼよ[n]ぱまをまれ ぽま ゅぺ ひぺほもぽゎるウぺテ [f 0 1 3]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_1B1]
-[f 0 5 65278][f 2 1]Un escudo brutal que desvía todas las cosas. [f 0 1 3]Máx. PS +20%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ まれぼゎぽよ ほるゎろぺゅ りゎま ぽまれわウぺ ろよぽぺれ ゅぺれ ぼよれぺれテ[n][f 0 1 3]ぬァゑテ はひ +ゾゼ%[f 0 1 0][n][e]
 
 [msg weapon_1B2]
-[f 0 5 65278][f 2 1]Litografía que representa la antigua historia natural. [f 0 1 3]Coste medio de PS/Fr +4/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にもろよむるぺみウぺ りゎま るまらるまれまょろぺ ゅぺ ぺょろもむゎぺ めもれろよるもぺ[n]ょぺろゎるぺゅテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +ダギぱれ +チ[f 0 1 0][n][e]
 
 [msg weapon_1B3]
-[f 0 5 65278][f 2 1]武器　0x1B3　１行目[n]武器　0x1B3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちタ　１行目 武器　ゼゑソちタ　２行目[n][e]
 
 [msg weapon_1B4]
-[f 0 5 65278][f 2 1]Un disco de piedra que solía utilizarse como moneda. [f 0 1 3]Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぽもれぼよ ぽま らもまぽるぺ りゎま れよゅウぺ ゎろもゅもんぺるれま ぼよゆよ[n]ゆよょまぽぺテ [f 0 1 3]ひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_1B5]
-[f 0 5 65278][f 2 1]武器　0x1B5　１行目[n]武器　0x1B5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちチ　１行目 武器　ゼゑソちチ　２行目[n][e]
 
 [msg weapon_1B6]
-[f 0 5 65278][f 2 1]武器　0x1B6　１行目[n]武器　0x1B6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちヂ　１行目 武器　ゼゑソちヂ　２行目[n][e]
 
 [msg weapon_1B7]
-[f 0 5 65278][f 2 1]武器　0x1B7　１行目[n]武器　0x1B7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちッ　１行目 武器　ゼゑソちッ　２行目[n][e]
 
 [msg weapon_1B8]
-[f 0 5 65278][f 2 1]武器　0x1B8　１行目[n]武器　0x1B8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちツ　１行目 武器　ゼゑソちツ　２行目[n][e]
 
 [msg weapon_1B9]
-[f 0 5 65278][f 2 1]武器　0x1B9　１行目[n]武器　0x1B9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちヅ　１行目 武器　ゼゑソちヅ　２行目[n][e]
 
 [msg weapon_1BA]
-[f 0 5 65278][f 2 1]武器　0x1BA　１行目[n]武器　0x1BA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちだ　１行目 武器　ゼゑソちだ　２行目[n][e]
 
 [msg weapon_1BB]
-[f 0 5 65278][f 2 1]武器　0x1BB　１行目[n]武器　0x1BB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちち　１行目 武器　ゼゑソちち　２行目[n][e]
 
 [msg weapon_1BC]
-[f 0 5 65278][f 2 1]武器　0x1BC　１行目[n]武器　0x1BC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちぢ　１行目 武器　ゼゑソちぢ　２行目[n][e]
 
 [msg weapon_1BD]
-[f 0 5 65278][f 2 1]武器　0x1BD　１行目[n]武器　0x1BD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちっ　１行目 武器　ゼゑソちっ　２行目[n][e]
 
 [msg weapon_1BE]
-[f 0 5 65278][f 2 1]武器　0x1BE　１行目[n]武器　0x1BE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちつ　１行目 武器　ゼゑソちつ　２行目[n][e]
 
 [msg weapon_1BF]
-[f 0 5 65278][f 2 1]武器　0x1BF　１行目[n]武器　0x1BF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソちづ　１行目 武器　ゼゑソちづ　２行目[n][e]
 
 [msg weapon_1C0]
-[f 0 5 65278][f 2 1]武器　0x1C0　１行目[n]武器　0x1C0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソぢゼ　１行目 武器　ゼゑソぢゼ　２行目[n][e]
 
 [msg weapon_1C1]
-[f 0 5 65278][f 2 1]武器　0x1C1　１行目[n]武器　0x1C1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソぢソ　１行目 武器　ゼゑソぢソ　２行目[n][e]
 
 [msg weapon_1C2]
-[f 0 5 65278][f 2 1]武器　0x1C2　１行目[n]武器　0x1C2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソぢゾ　１行目 武器　ゼゑソぢゾ　２行目[n][e]
 
 [msg weapon_1C3]
-[f 0 5 65278][f 2 1]Un arma de fuego con un calibre pequeño. Diseñada para la seguridad. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ ぽま みゎまむよ ぼよょ ゎょ ぼぺゅもほるま らまりゎまォよテ[n]っもれまォぺぽぺ らぺるぺ ゅぺ れまむゎるもぽぺぽテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_1C4]
-[f 0 5 65278][f 2 1]Un revólver utilizado por un patriota en el período Edo. [f 0 1 3]Distancia/Precisi吋n +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ るまわカゅわまる ゎろもゅもんぺぽよ らよる ゎょ らぺろるもよろぺ まょ まゅ[n]らまるウよぽよ つぽよテ [f 0 1 3]っもれろぺょぼもぺギはるまぼもれもカょ +チ%[f 0 1 0][n][e]
 
 [msg weapon_1C5]
-[f 0 5 65278][f 2 1]Una pistola de alto calibre utilizada en el salvaje oeste. [f 0 1 3]Distancia/Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らもれろよゅぺ ぽま ぺゅろよ ぼぺゅもほるま ゎろもゅもんぺぽぺ まょ まゅ[n]れぺゅわぺゃま よまれろまテ [f 0 1 3]っもれろぺょぼもぺギひゎ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1C6]
-[f 0 5 65278][f 2 1]Un revólver Magnum fabricado con materiales modernos.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ るまわカゅわまる ぬぺむょゎゆ みぺほるもぼぺぽよ ぼよょ ゆぺろまるもぺゅまれ[n]ゆよぽまるょよれテ [f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_1C7]
-[f 0 5 65278][f 2 1]Emite una canci吋n para alejar a las almas perdidas.[n][f 0 1 3]Distancia/Rs +1/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゆもろま ゎょぺ ぼぺょぼもカょ らぺるぺ ぺゅまゃぺる ぺ ゅぺれ ぺゅゆぺれ[n]らまるぽもぽぺれテ [f 0 1 3]っもれろぺょぼもぺギぱれ +ソギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1C8]
-[f 0 5 65278][f 2 1]Nombrado por un experimento en la búsqueda de la felicidad. [f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ねよゆほるぺぽよ らよる ゎょ まゑらまるもゆまょろよ まょ ゅぺ ほグれりゎまぽぺ[n]ぽま ゅぺ みまゅもぼもぽぺぽテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_1C9]
-[f 0 5 65278][f 2 1]Relativamente fácil de usar para un arma de su tamaño. [f 0 1 3]Distancia/Prob. baja de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまゅぺろもわぺゆまょろま みァぼもゅ ぽま ゎれぺる らぺるぺ ゎょ ぺるゆぺ ぽま[n]れゎ ろぺゆぺォよテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_1CA]
-[f 0 5 65278][f 2 1]Una pistola con un pequeño escudo adjunto. [f 0 1 3]Distancia/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らもれろよゅぺ ぼよょ ゎょ らまりゎまォよ まれぼゎぽよ ぺぽゃゎょろよテ[n][f 0 1 3]っもれろぺょぼもぺギぱれ +チ[f 0 1 0][n][e]
 
 [msg weapon_1CB]
-[f 0 5 65278][f 2 1]Una pistola marcada como un "desintegrador antiextraterrestre". [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らもれろよゅぺ ゆぺるぼぺぽぺ ぼよゆよ ゎょ "ぽまれもょろまむるぺぽよる[n]ぺょろもまゑろるぺろまるるまれろるま"テ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_1CC]
-[f 0 5 65278][f 2 1]Un arma pintada de carmes胤 en su ca隠吋n.[n][f 0 1 3]Distancia/Prob. media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ らもょろぺぽぺ ぽま ぼぺるゆまれウ まょ れゎ ぼぺォカょテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_1CD]
-[f 0 5 65278][f 2 1]Un arma plateada mística. Sus balas van directo al corazón. [f 0 1 3]Distancia/Ma +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ らゅぺろまぺぽぺ ゆウれろもぼぺテ ひゎれ ほぺゅぺれ わぺょ[n]ぽもるまぼろよ ぺゅ ぼよるぺんカょテ [f 0 1 3]っもれろぺょぼもぺギぬぺ +ダ[f 0 1 0][n][e]
 
 [msg weapon_1CE]
-[f 0 5 65278][f 2 1]Un arma con forma de lámpara mágica.[n][f 0 1 3]Distancia/Máx. PE +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ ぼよょ みよるゆぺ ぽま ゅァゆらぺるぺ ゆァむもぼぺテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_1CF]
-[f 0 5 65278][f 2 1]Un arma demoníaca con munición infinita.[n][f 0 1 3]Distancia/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ ぽまゆよょウぺぼぺ ぼよょ ゆゎょもぼもカょ もょみもょもろぺテ[n][f 0 1 3]っもれろぺょぼもぺギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_1D0]
-[f 0 5 65278][f 2 1]La pistola de un verdugo con un gatillo sensible. [f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺ らもれろよゅぺ ぽま ゎょ わまるぽゎむよ ぼよょ ゎょ むぺろもゅゅよ[n]れまょれもほゅまテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_1D1]
-[f 0 5 65278][f 2 1]Magnéticamente cargada, la "suerte" ya no es un problema. [f 0 1 3]Distancia/Prob. alta de maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむょイろもぼぺゆまょろま ぼぺるむぺぽぺデ ゅぺ "れゎまるろま" をぺ ょよ まれ[n]ゎょ らるよほゅまゆぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ぺゅろぺ ぽま ゆぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_1D2]
-[f 0 5 65278][f 2 1]Un arma encantada que envuelve a los enemigos en llamas. [f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ まょぼぺょろぺぽぺ りゎま まょわゎまゅわま ぺ ゅよれ まょまゆもむよれ[n]まょ ゅゅぺゆぺれテ [f 0 1 3]っもれろぺょぼもぺギぢよれろま ゆまぽもよ ぽま はひギぬぺ +ッ[f 0 1 0][n][e]
 
 [msg weapon_1D3]
-[f 0 5 65278][f 2 1]武器　0x1D3　１行目[n]武器　0x1D3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっタ　１行目 武器　ゼゑソっタ　２行目[n][e]
 
 [msg weapon_1D4]
-[f 0 5 65278][f 2 1]Contiene azufre, salitre y carbón vegetal.[n][f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢよょろもまょま ぺんゎみるまデ れぺゅもろるま を ぼぺるほカょ わまむまろぺゅテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_1D5]
-[f 0 5 65278][f 2 1]武器　0x1D5　１行目[n]武器　0x1D5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっチ　１行目 武器　ゼゑソっチ　２行目[n][e]
 
 [msg weapon_1D6]
-[f 0 5 65278][f 2 1]武器　0x1D6　１行目[n]武器　0x1D6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっヂ　１行目 武器　ゼゑソっヂ　２行目[n][e]
 
 [msg weapon_1D7]
-[f 0 5 65278][f 2 1]武器　0x1D7　１行目[n]武器　0x1D7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっッ　１行目 武器　ゼゑソっッ　２行目[n][e]
 
 [msg weapon_1D8]
-[f 0 5 65278][f 2 1]武器　0x1D8　１行目[n]武器　0x1D8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっツ　１行目 武器　ゼゑソっツ　２行目[n][e]
 
 [msg weapon_1D9]
-[f 0 5 65278][f 2 1]武器　0x1D9　１行目[n]武器　0x1D9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっヅ　１行目 武器　ゼゑソっヅ　２行目[n][e]
 
 [msg weapon_1DA]
-[f 0 5 65278][f 2 1]武器　0x1DA　１行目[n]武器　0x1DA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっだ　１行目 武器　ゼゑソっだ　２行目[n][e]
 
 [msg weapon_1DB]
-[f 0 5 65278][f 2 1]武器　0x1DB　１行目[n]武器　0x1DB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっち　１行目 武器　ゼゑソっち　２行目[n][e]
 
 [msg weapon_1DC]
-[f 0 5 65278][f 2 1]武器　0x1DC　１行目[n]武器　0x1DC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっぢ　１行目 武器　ゼゑソっぢ　２行目[n][e]
 
 [msg weapon_1DD]
-[f 0 5 65278][f 2 1]武器　0x1DD　１行目[n]武器　0x1DD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっっ　１行目 武器　ゼゑソっっ　２行目[n][e]
 
 [msg weapon_1DE]
-[f 0 5 65278][f 2 1]武器　0x1DE　１行目[n]武器　0x1DE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっつ　１行目 武器　ゼゑソっつ　２行目[n][e]
 
 [msg weapon_1DF]
-[f 0 5 65278][f 2 1]武器　0x1DF　１行目[n]武器　0x1DF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソっづ　１行目 武器　ゼゑソっづ　２行目[n][e]
 
 [msg weapon_1E0]
-[f 0 5 65278][f 2 1]武器　0x1E0　１行目[n]武器　0x1E0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソつゼ　１行目 武器　ゼゑソつゼ　２行目[n][e]
 
 [msg weapon_1E1]
-[f 0 5 65278][f 2 1]武器　0x1E1　１行目[n]武器　0x1E1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソつソ　１行目 武器　ゼゑソつソ　２行目[n][e]
 
 [msg weapon_1E2]
-[f 0 5 65278][f 2 1]武器　0x1E2　１行目[n]武器　0x1E2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソつゾ　１行目 武器　ゼゑソつゾ　２行目[n][e]
 
 [msg weapon_1E3]
-[f 0 5 65278][f 2 1]武器　0x1E3　１行目[n]武器　0x1E3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソつタ　１行目 武器　ゼゑソつタ　２行目[n][e]
 
 [msg weapon_1E4]
-[f 0 5 65278][f 2 1]Una llave ajustable para apretar tuercas.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅゅぺわま ぺゃゎれろぺほゅま らぺるぺ ぺらるまろぺる ろゎまるぼぺれテ[n][e]
 
 [msg weapon_1E5]
-[f 0 5 65278][f 2 1]La hoja de este kunai está cubierta de toxinas. [f 0 1 3]Prob. media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺ めよゃぺ ぽま まれろま やゎょぺも まれろァ ぼゎほもまるろぺ ぽま ろよゑもょぺれテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_1E6]
-[f 0 5 65278][f 2 1]Un cuchillo robusto para cortar enemigos. [f 0 1 3]Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ るよほゎれろよ らぺるぺ ぼよるろぺる まょまゆもむよれテ[n][f 0 1 3]だむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1E7]
-[f 0 5 65278][f 2 1]Un kunai hecho para ser lanzado tan r茨pido[n]como un rayo. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも めまぼめよ らぺるぺ れまる ゅぺょんぺぽよ ろぺょ るァらもぽよ[n]ぼよゆよ ゎょ るぺをよテ [f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_1E8]
-[f 0 5 65278][f 2 1]Kunai muy Leve utilizado en asesinatos.[n][f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]なゎょぺも ゆゎを にまわま ゎろもゅもんぺぽよ まょ ぺれまれもょぺろよれテ [f 0 1 3]はるよほテ[n]ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_1E9]
-[f 0 5 65278][f 2 1]Una peque隠a katana que hace cortes invisibles.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らまりゎまォぺ やぺろぺょぺ りゎま めぺぼま ぼよるろまれ もょわもれもほゅまれテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_1EA]
-[f 0 5 65278][f 2 1]Un kunai más oscuro que un cielo crepuscular.[n][f 0 1 3]Ma +2/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも ゆァれ よれぼゎるよ りゎま ゎょ ぼもまゅよ ぼるまらゎれぼゎゅぺるテ[n][f 0 1 3]ぬぺ +ゾギだむ +ソ[f 0 1 0][n][e]
 
 [msg weapon_1EB]
-[f 0 5 65278][f 2 1]Un kunai negro como el azabache con un aura siniestra.[n][f 0 1 3]Prob. media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも ょまむるよ ぼよゆよ まゅ ぺんぺほぺぼめま ぼよょ ゎょ ぺゎるぺ[n]れもょもまれろるぺテ [f 0 1 3]はるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_1EC]
-[f 0 5 65278][f 2 1]Un kunai con forma de hoja de camelia.[n][f 0 1 3]Prob. baja de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも ぼよょ みよるゆぺ ぽま めよゃぺ ぽま ぼぺゆまゅもぺテ [f 0 1 3]はるよほテ[n]ほぺゃぺ ぽま だろぺぽゎるぺ ぽま づゎまるんぺ[f 0 1 0][n][e]
 
 [msg weapon_1ED]
-[f 0 5 65278][f 2 1]Una navaja que se asemeja a la nieve sobre una hoja de pino.[n][f 0 1 3]Prob. crítica +10%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょぺわぺゃぺ りゎま れま ぺれまゆまゃぺ ぺ ゅぺ ょもまわま れよほるま[n]ゎょぺ めよゃぺ ぽま らもょよテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg weapon_1EE]
-[f 0 5 65278][f 2 1]Un kunai empuñado por un ninja de cierto renombre. [f 0 1 3]Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも まゆらゎォぺぽよ らよる ゎょ ょもょゃぺ ぽま ぼもまるろよ[n]るまょよゆほるまテ [f 0 1 3]だむ +チ[f 0 1 0][n][e]
 
 [msg weapon_1EF]
-[f 0 5 65278][f 2 1]Un kunai empuñado en innumerables batallas.[n][f 0 1 3]Prob. media de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも まゆらゎォぺぽよ まょ もょょゎゆまるぺほゅまれ ほぺろぺゅゅぺれテ[n][f 0 1 3]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0][n][e]
 
 [msg weapon_1F0]
-[f 0 5 65278][f 2 1]Un kunai mítico que crea ilusiones.[n][f 0 1 3]Prob. crítica +20%/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ やゎょぺも ゆウろもぼよ りゎま ぼるまぺ もゅゎれもよょまれテ [f 0 1 3]はるよほテ[n]ぼるウろもぼぺ +ゾゼ%ギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1F1]
-[f 0 5 65278][f 2 1]Sostenido por un dios que deambulaba por el cielo y la tierra. [f 0 1 3]Coste medio de PS/Ag +7/Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひよれろまょもぽよ らよる ゎょ ぽもよれ りゎま ぽまぺゆほゎゅぺほぺ らよる まゅ[n]ぼもまゅよ を ゅぺ ろもまるるぺテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギだむ +ッギひゎ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1F2]
-[f 0 5 65278][f 2 1]Un cuchillo que se dice que invita a la iluminación.[n][f 0 1 3]Coste medio de PS/Ma +4/Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ りゎま れま ぽもぼま りゎま もょわもろぺ ぺ ゅぺ[n]もゅゎゆもょぺぼもカょテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギぬぺ +ダギだむ +ダ[f 0 1 0][n][e]
 
 [msg weapon_1F3]
-[f 0 5 65278][f 2 1]Un cuchillo tan Leve como el Viento.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ろぺょ にまわま ぼよゆよ まゅ ふもまょろよテ [f 0 1 3]だむ +タ[f 0 1 0][n][e]
 
 [msg weapon_1F4]
-[f 0 5 65278][f 2 1]武器　0x1F4　１行目[n]武器　0x1F4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづダ　１行目 武器　ゼゑソづダ　２行目[n][e]
 
 [msg weapon_1F5]
-[f 0 5 65278][f 2 1]Un cuchillo de doble filo utilizado por un ninja.[n][f 0 1 3]Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ぽま ぽよほゅま みもゅよ ゎろもゅもんぺぽよ らよる ゎょ[n]ょもょゃぺテ [f 0 1 3]だむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_1F6]
-[f 0 5 65278][f 2 1]El arduo trabajo del artesano resalta en esta llave inglesa. [f 0 1 3]Fr +2/Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ ぺるぽゎよ ろるぺほぺゃよ ぽまゅ ぺるろまれぺょよ るまれぺゅろぺ まょ まれろぺ[n]ゅゅぺわま もょむゅまれぺテ [f 0 1 3]づる +ゾギぬぺ +ソ[f 0 1 0][n][e]
 
 [msg weapon_1F7]
-[f 0 5 65278][f 2 1]武器　0x1F7　１行目[n]武器　0x1F7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづッ　１行目 武器　ゼゑソづッ　２行目[n][e]
 
 [msg weapon_1F8]
-[f 0 5 65278][f 2 1]武器　0x1F8　１行目[n]武器　0x1F8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづツ　１行目 武器　ゼゑソづツ　２行目[n][e]
 
 [msg weapon_1F9]
-[f 0 5 65278][f 2 1]武器　0x1F9　１行目[n]武器　0x1F9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづヅ　１行目 武器　ゼゑソづヅ　２行目[n][e]
 
 [msg weapon_1FA]
-[f 0 5 65278][f 2 1]武器　0x1FA　１行目[n]武器　0x1FA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづだ　１行目 武器　ゼゑソづだ　２行目[n][e]
 
 [msg weapon_1FB]
-[f 0 5 65278][f 2 1]武器　0x1FB　１行目[n]武器　0x1FB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづち　１行目 武器　ゼゑソづち　２行目[n][e]
 
 [msg weapon_1FC]
-[f 0 5 65278][f 2 1]武器　0x1FC　１行目[n]武器　0x1FC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづぢ　１行目 武器　ゼゑソづぢ　２行目[n][e]
 
 [msg weapon_1FD]
-[f 0 5 65278][f 2 1]武器　0x1FD　１行目[n]武器　0x1FD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづっ　１行目 武器　ゼゑソづっ　２行目[n][e]
 
 [msg weapon_1FE]
-[f 0 5 65278][f 2 1]武器　0x1FE　１行目[n]武器　0x1FE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづつ　１行目 武器　ゼゑソづつ　２行目[n][e]
 
 [msg weapon_1FF]
-[f 0 5 65278][f 2 1]武器　0x1FF　１行目[n]武器　0x1FF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑソづづ　１行目 武器　ゼゑソづづ　２行目[n][e]
 
 [msg weapon_200]
-[f 0 5 65278][f 2 1]武器　0x200　１行目[n]武器　0x200　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゼゼ　１行目 武器　ゼゑゾゼゼ　２行目[n][e]
 
 [msg weapon_201]
-[f 0 5 65278][f 2 1]武器　0x201　１行目[n]武器　0x201　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゼソ　１行目 武器　ゼゑゾゼソ　２行目[n][e]
 
 [msg weapon_202]
-[f 0 5 65278][f 2 1]武器　0x202　１行目[n]武器　0x202　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゼゾ　１行目 武器　ゼゑゾゼゾ　２行目[n][e]
 
 [msg weapon_203]
-[f 0 5 65278][f 2 1]武器　0x203　１行目[n]武器　0x203　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゼタ　１行目 武器　ゼゑゾゼタ　２行目[n][e]
 
 [msg weapon_204]
-[f 0 5 65278][f 2 1]武器　0x204　１行目[n]武器　0x204　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゼダ　１行目 武器　ゼゑゾゼダ　２行目[n][e]
 
 [msg weapon_205]
-[f 0 5 65278][f 2 1]武器　0x205　１行目[n]武器　0x205　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゼチ　１行目 武器　ゼゑゾゼチ　２行目[n][e]
 
 [msg weapon_206]
-[f 0 5 65278][f 2 1]Una espada muy fácil de usar.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ゆゎを みァぼもゅ ぽま ゎれぺるテ[n][e]
 
 [msg weapon_207]
-[f 0 5 65278][f 2 1]Una espada que infunde valentía en quien la empuña. [f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ りゎま もょみゎょぽま わぺゅまょろウぺ まょ りゎもまょ ゅぺ[n]まゆらゎォぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_208]
-[f 0 5 65278][f 2 1]Un wakizashi con una hoja de 60 cm.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゐぺやもんぺれめも ぼよょ ゎょぺ めよゃぺ ぽま ヂゼ ぼゆテ [f 0 1 3]っぺォよ[n]ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_209]
-[f 0 5 65278][f 2 1]Una espada entregada a un hábil cazador de monstruos.[n][f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ まょろるまむぺぽぺ ぺ ゎょ めァほもゅ ぼぺんぺぽよる ぽま[n]ゆよょれろるゎよれテ [f 0 1 3]びよぽぺれ ゅぺれ まれろぺぽテ +ソ[f 0 1 0][n][e]
 
 [msg weapon_20A]
-[f 0 5 65278][f 2 1]Una espada que emite una luz fría y austera.[n][f 0 1 3]Ma +2/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ りゎま まゆもろま ゎょぺ ゅゎん みるウぺ を ぺゎれろまるぺテ[n][f 0 1 3]ぬぺ +ゾギぱれ +タ[f 0 1 0][n][e]
 
 [msg weapon_20B]
-[f 0 5 65278][f 2 1]El tesoro familiar del clan Taira.[n][f 0 1 3]Máx. PS & PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ ろまれよるよ みぺゆもゅもぺる ぽまゅ ぼゅぺょ びぺもるぺテ [f 0 1 3]ぬァゑテ はひ[n]& はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_20C]
-[f 0 5 65278][f 2 1]Una hoja con forma de luna creciente. Absorbe la luz de la luna.[n][f 0 1 3]Máx. PE +15%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めよゃぺ ぼよょ みよるゆぺ ぽま ゅゎょぺ ぼるまぼもまょろまテ だほれよるほま[n]ゅぺ ゅゎん ぽま ゅぺ ゅゎょぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_20D]
-[f 0 5 65278][f 2 1]Una espada forjada por un legendario herrero.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ みよるゃぺぽぺ らよる ゎょ ゅまむまょぽぺるもよ めまるるまるよテ[n][f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_20E]
-[f 0 5 65278][f 2 1]Una espada de rey, llevada en una mesa redonda.[n][f 0 1 3]Prob. crítica +20%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぽま るまをデ ゅゅまわぺぽぺ まょ ゎょぺ ゆまれぺ るまぽよょぽぺテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ゾゼ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_20F]
-[f 0 5 65278][f 2 1]Una espada brillante sostenida por el Arcángel Michael. [f 0 1 3]Coste medio de PS/Fr +4/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ほるもゅゅぺょろま れよれろまょもぽぺ らよる まゅ だるぼァょむまゅ[n]ぬもぼめぺまゅテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +ダギぬぺ +チ[f 0 1 0][n][e]
 
 [msg weapon_210]
-[f 0 5 65278][f 2 1]武器　 0x210 　１行目[n]武器　 0x210 　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　 ゼゑゾソゼ 　１行目 武器　 ゼゑゾソゼ 　２行目[n][e]
 
 [msg weapon_211]
-[f 0 5 65278][f 2 1]Una hoja con el centro de gravedad en la punta.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めよゃぺ ぼよょ まゅ ぼまょろるよ ぽま むるぺわまぽぺぽ まょ ゅぺ[n]らゎょろぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_212]
-[f 0 5 65278][f 2 1]Un cuchillo creado por alguien desconocido.[n][f 0 1 3]Máx. PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぼゎぼめもゅゅよ ぼるまぺぽよ らよる ぺゅむゎもまょ ぽまれぼよょよぼもぽよテ[n][f 0 1 3]ぬァゑテ はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_213]
-[f 0 5 65278][f 2 1]武器　0x213　１行目[n]武器　0x213　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソタ　１行目 武器　ゼゑゾソタ　２行目[n][e]
 
 [msg weapon_214]
-[f 0 5 65278][f 2 1]武器　0x214　１行目[n]武器　0x214　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソダ　１行目 武器　ゼゑゾソダ　２行目[n][e]
 
 [msg weapon_215]
-[f 0 5 65278][f 2 1]武器　0x215　１行目[n]武器　0x215　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソチ　１行目 武器　ゼゑゾソチ　２行目[n][e]
 
 [msg weapon_216]
-[f 0 5 65278][f 2 1]武器　0x216　１行目[n]武器　0x216　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソヂ　１行目 武器　ゼゑゾソヂ　２行目[n][e]
 
 [msg weapon_217]
-[f 0 5 65278][f 2 1]武器　0x217　１行目[n]武器　0x217　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソッ　１行目 武器　ゼゑゾソッ　２行目[n][e]
 
 [msg weapon_218]
-[f 0 5 65278][f 2 1]武器　0x218　１行目[n]武器　0x218　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソツ　１行目 武器　ゼゑゾソツ　２行目[n][e]
 
 [msg weapon_219]
-[f 0 5 65278][f 2 1]武器　0x219　１行目[n]武器　0x219　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソヅ　１行目 武器　ゼゑゾソヅ　２行目[n][e]
 
 [msg weapon_21A]
-[f 0 5 65278][f 2 1]武器　0x21A　１行目[n]武器　0x21A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソだ　１行目 武器　ゼゑゾソだ　２行目[n][e]
 
 [msg weapon_21B]
-[f 0 5 65278][f 2 1]武器　0x21B　１行目[n]武器　0x21B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソち　１行目 武器　ゼゑゾソち　２行目[n][e]
 
 [msg weapon_21C]
-[f 0 5 65278][f 2 1]武器　0x21C　１行目[n]武器　0x21C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソぢ　１行目 武器　ゼゑゾソぢ　２行目[n][e]
 
 [msg weapon_21D]
-[f 0 5 65278][f 2 1]武器　0x21D　１行目[n]武器　0x21D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソっ　１行目 武器　ゼゑゾソっ　２行目[n][e]
 
 [msg weapon_21E]
-[f 0 5 65278][f 2 1]武器　0x21E　１行目[n]武器　0x21E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソつ　１行目 武器　ゼゑゾソつ　２行目[n][e]
 
 [msg weapon_21F]
-[f 0 5 65278][f 2 1]武器　0x21F　１行目[n]武器　0x21F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾソづ　１行目 武器　ゼゑゾソづ　２行目[n][e]
 
 [msg weapon_220]
-[f 0 5 65278][f 2 1]武器　0x220　１行目[n]武器　0x220　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゾゼ　１行目 武器　ゼゑゾゾゼ　２行目[n][e]
 
 [msg weapon_221]
-[f 0 5 65278][f 2 1]武器　0x221　１行目[n]武器　0x221　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゾソ　１行目 武器　ゼゑゾゾソ　２行目[n][e]
 
 [msg weapon_222]
-[f 0 5 65278][f 2 1]武器　0x222　１行目[n]武器　0x222　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゾゾ　１行目 武器　ゼゑゾゾゾ　２行目[n][e]
 
 [msg weapon_223]
-[f 0 5 65278][f 2 1]武器　0x223　１行目[n]武器　0x223　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゾタ　１行目 武器　ゼゑゾゾタ　２行目[n][e]
 
 [msg weapon_224]
-[f 0 5 65278][f 2 1]武器　0x224　１行目[n]武器　0x224　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾゾダ　１行目 武器　ゼゑゾゾダ　２行目[n][e]
 
 [msg weapon_225]
-[f 0 5 65278][f 2 1]Un arco fácil de usar, curvado en forma de "M".[n][f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ みァぼもゅ ぽま ゎれぺるデ ぼゎるわぺぽよ まょ みよるゆぺ ぽま[n]"ぬ"テ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_226]
-[f 0 5 65278][f 2 1]Un arco que puede disparar flechas perforadoras.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ りゎま らゎまぽま ぽもれらぺるぺる みゅまぼめぺれ らまるみよるぺぽよるぺれテ[n][f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_227]
-[f 0 5 65278][f 2 1]Un arco atado firmemente con rattan. [f 0 1 3]Distancia/Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ ぺろぺぽよ みもるゆまゆまょろま ぼよょ るぺろろぺょテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_228]
-[f 0 5 65278][f 2 1]Dispara flechas que silencian al oponente.[n][f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ みゅまぼめぺれ りゎま れもゅまょぼもぺょ ぺゅ よらよょまょろまテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0][n][e]
 
 [msg weapon_229]
-[f 0 5 65278][f 2 1]Un arco reforzado con bamb雨 fino. [f 0 1 3]Distancia/Máx. PS & PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ るまみよるんぺぽよ ぼよょ ほぺゆほグ みもょよテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ[n]はひ & はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_22A]
-[f 0 5 65278][f 2 1]Un arco largo utilizado por el antiguo clan Fuuma. [f 0 1 3]Distancia/Prob. baja de Parálisis[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ ゅぺるむよ ゎろもゅもんぺぽよ らよる まゅ ぺょろもむゎよ ぼゅぺょ[n]づゎゎゆぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま はぺるァゅもれもれ[f 0 1 0][n][e]
 
 [msg weapon_22B]
-[f 0 5 65278][f 2 1]Un hermoso arco utilizado por una diosa de la luna. [f 0 1 3]Distancia/Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めまるゆよれよ ぺるぼよ ゎろもゅもんぺぽよ らよる ゎょぺ ぽもよれぺ ぽま[n]ゅぺ ゅゎょぺテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_22C]
-[f 0 5 65278][f 2 1]Un arco hecho para disparar flechas envenenadas.[n][f 0 1 3]Distancia/Prob. media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ めまぼめよ らぺるぺ ぽもれらぺるぺる みゅまぼめぺれ まょわまょまょぺぽぺれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_22D]
-[f 0 5 65278][f 2 1]Un arco preferido por las diosas de las estrellas.[n][f 0 1 3]Distancia/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ らるまみまるもぽよ らよる ゅぺれ ぽもよれぺれ ぽま ゅぺれ[n]まれろるまゅゅぺれテ [f 0 1 3]っもれろぺょぼもぺギぬぺ +タ[f 0 1 0][n][e]
 
 [msg weapon_22E]
-[f 0 5 65278][f 2 1]Atrapa a los mortales en el abrazo de la tierra.[n][f 0 1 3]Distancia/Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろるぺらぺ ぺ ゅよれ ゆよるろぺゅまれ まょ まゅ ぺほるぺんよ ぽま ゅぺ[n]ろもまるるぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_22F]
-[f 0 5 65278][f 2 1]El arco de una poderosa guerrera.[n][f 0 1 3]Distancia/Prob. alta de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ ぺるぼよ ぽま ゎょぺ らよぽまるよれぺ むゎまるるまるぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ[n]ぺゅろぺ ぽま だろぺぽゎるぺ ぽま づゎまるんぺ[f 0 1 0][n][e]
 
 [msg weapon_230]
-[f 0 5 65278][f 2 1]La idea platónica de un arco. Perfecto en su forma. [f 0 1 3]Distancia/Coste medio de PS/Ma +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺ もぽまぺ らゅぺろカょもぼぺ ぽま ゎょ ぺるぼよテ はまるみまぼろよ まょ れゎ[n]みよるゆぺテ [f 0 1 3]っもれろぺょぼもぺギぢよれろま ゆまぽもよ ぽま はひギぬぺ +ッ[f 0 1 0][n][e]
 
 [msg weapon_231]
-[f 0 5 65278][f 2 1]武器　0x231　１行目[n]武器　0x231　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタソ　１行目 武器　ゼゑゾタソ　２行目[n][e]
 
 [msg weapon_232]
-[f 0 5 65278][f 2 1]Un arco raro. Dispararlo provoca sonidos extraños. [f 0 1 3]Distancia/Ag +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるぼよ るぺるよテ っもれらぺるぺるゅよ らるよわよぼぺ れよょもぽよれ[n]まゑろるぺォよれテ [f 0 1 3]っもれろぺょぼもぺギだむ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_233]
-[f 0 5 65278][f 2 1]武器　0x233　１行目[n]武器　0x233　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタタ　１行目 武器　ゼゑゾタタ　２行目[n][e]
 
 [msg weapon_234]
-[f 0 5 65278][f 2 1]武器　0x234　１行目[n]武器　0x234　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタダ　１行目 武器　ゼゑゾタダ　２行目[n][e]
 
 [msg weapon_235]
-[f 0 5 65278][f 2 1]武器　0x235　１行目[n]武器　0x235　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタチ　１行目 武器　ゼゑゾタチ　２行目[n][e]
 
 [msg weapon_236]
-[f 0 5 65278][f 2 1]武器　0x236　１行目[n]武器　0x236　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタヂ　１行目 武器　ゼゑゾタヂ　２行目[n][e]
 
 [msg weapon_237]
-[f 0 5 65278][f 2 1]武器　0x237　１行目[n]武器　0x237　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタッ　１行目 武器　ゼゑゾタッ　２行目[n][e]
 
 [msg weapon_238]
-[f 0 5 65278][f 2 1]武器　0x238　１行目[n]武器　0x238　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタツ　１行目 武器　ゼゑゾタツ　２行目[n][e]
 
 [msg weapon_239]
-[f 0 5 65278][f 2 1]武器　0x239　１行目[n]武器　0x239　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタヅ　１行目 武器　ゼゑゾタヅ　２行目[n][e]
 
 [msg weapon_23A]
-[f 0 5 65278][f 2 1]武器　0x23A　１行目[n]武器　0x23A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタだ　１行目 武器　ゼゑゾタだ　２行目[n][e]
 
 [msg weapon_23B]
-[f 0 5 65278][f 2 1]武器　0x23B　１行目[n]武器　0x23B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタち　１行目 武器　ゼゑゾタち　２行目[n][e]
 
 [msg weapon_23C]
-[f 0 5 65278][f 2 1]武器　0x23C　１行目[n]武器　0x23C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタぢ　１行目 武器　ゼゑゾタぢ　２行目[n][e]
 
 [msg weapon_23D]
-[f 0 5 65278][f 2 1]武器　0x23D　１行目[n]武器　0x23D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタっ　１行目 武器　ゼゑゾタっ　２行目[n][e]
 
 [msg weapon_23E]
-[f 0 5 65278][f 2 1]武器　0x23E　１行目[n]武器　0x23E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタつ　１行目 武器　ゼゑゾタつ　２行目[n][e]
 
 [msg weapon_23F]
-[f 0 5 65278][f 2 1]武器　0x23F　１行目[n]武器　0x23F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾタづ　１行目 武器　ゼゑゾタづ　２行目[n][e]
 
 [msg weapon_240]
-[f 0 5 65278][f 2 1]武器　0x240　１行目[n]武器　0x240　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾダゼ　１行目 武器　ゼゑゾダゼ　２行目[n][e]
 
 [msg weapon_241]
-[f 0 5 65278][f 2 1]武器　0x241　１行目[n]武器　0x241　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾダソ　１行目 武器　ゼゑゾダソ　２行目[n][e]
 
 [msg weapon_242]
-[f 0 5 65278][f 2 1]武器　0x242　１行目[n]武器　0x242　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾダゾ　１行目 武器　ゼゑゾダゾ　２行目[n][e]
 
 [msg weapon_243]
-[f 0 5 65278][f 2 1]武器　0x243　１行目[n]武器　0x243　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾダタ　１行目 武器　ゼゑゾダタ　２行目[n][e]
 
 [msg weapon_244]
-[f 0 5 65278][f 2 1]武器　0x244　１行目[n]武器　0x244　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾダダ　１行目 武器　ゼゑゾダダ　２行目[n][e]
 
 [msg weapon_245]
-[f 0 5 65278][f 2 1]Una espada ligera diseñada para apuñalar.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ゅもむまるぺ ぽもれまォぺぽぺ らぺるぺ ぺらゎォぺゅぺるテ[n][e]
 
 [msg weapon_246]
-[f 0 5 65278][f 2 1]Una hermosa espada ropera de plateado reluciente.[n][f 0 1 3]Máx. PE +5%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めまるゆよれぺ まれらぺぽぺ るよらまるぺ ぽま らゅぺろまぺぽよ[n]るまゅゎぼもまょろまテ [f 0 1 3]ぬァゑテ はつ +チ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_247]
-[f 0 5 65278][f 2 1]Una espada de estocada para duelistas novatos.[n][f 0 1 3]Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぽま まれろよぼぺぽぺ らぺるぺ ぽゎまゅもれろぺれ ょよわぺろよれテ[n][f 0 1 3]だむ +タ[f 0 1 0][n][e]
 
 [msg weapon_248]
-[f 0 5 65278][f 2 1]Una espada ropera reforzada para obtener más potencia.[n][f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ るよらまるぺ るまみよるんぺぽぺ らぺるぺ よほろまょまる ゆァれ[n]らよろまょぼもぺテ [f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_249]
-[f 0 5 65278][f 2 1]La sombra de la hoja parece bailar en el juego de espadas.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺ れよゆほるぺ ぽま ゅぺ めよゃぺ らぺるまぼま ほぺもゅぺる まょ まゅ[n]ゃゎまむよ ぽま まれらぺぽぺれテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_24A]
-[f 0 5 65278][f 2 1]Una noble espada ropera que otorga Sueño eterno.[n][f 0 1 3]Máx. PE +10%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ょよほゅま まれらぺぽぺ るよらまるぺ りゎま よろよるむぺ ひゎまォよ[n]まろまるょよテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_24B]
-[f 0 5 65278][f 2 1]Una hoja en forma de cono sin filo con una punta afilada.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めよゃぺ まょ みよるゆぺ ぽま ぼよょよ れもょ みもゅよ ぼよょ ゎょぺ[n]らゎょろぺ ぺみもゅぺぽぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_24C]
-[f 0 5 65278][f 2 1]Una espada ropera maldita, teñida de escarlata con sangre. [f 0 1 3]Prob. baja de Muerte Inst.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ るよらまるぺ ゆぺゅぽもろぺデ ろまォもぽぺ ぽま まれぼぺるゅぺろぺ[n]ぼよょ れぺょむるまテ [f 0 1 3]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n][e]
 
 [msg weapon_24D]
-[f 0 5 65278][f 2 1]Una espada de estocada con una punta más afilada y estrecha. [f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぽま まれろよぼぺぽぺ ぼよょ ゎょぺ らゎょろぺ ゆァれ[n]ぺみもゅぺぽぺ を まれろるまぼめぺテ [f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_24E]
-[f 0 5 65278][f 2 1]Una espada mágica con un resplandor insólito.[n][f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ゆァむもぼぺ ぼよょ ゎょ るまれらゅぺょぽよる もょれカゅもろよテ[n][f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg weapon_24F]
-[f 0 5 65278][f 2 1]La hoja tan afilada que apenas se puede ver. [f 0 1 3]Máx. PE +20%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にぺ めよゃぺ ろぺょ ぺみもゅぺぽぺ りゎま ぺらまょぺれ れま らゎまぽま わまるテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%[f 0 1 0][n][e]
 
 [msg weapon_250]
-[f 0 5 65278][f 2 1]Una espada dedicada a los dioses de la cosecha.[n][f 0 1 3]Coste medio de PS/Ma +5/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ まれらぺぽぺ ぽまぽもぼぺぽぺ ぺ ゅよれ ぽもよれまれ ぽま ゅぺ ぼよれまぼめぺテ[n][f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギぬぺ +チギだむ +タ[f 0 1 0][n][e]
 
 [msg weapon_251]
-[f 0 5 65278][f 2 1]武器　0x251　１行目[n]武器　0x251　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチソ　１行目 武器　ゼゑゾチソ　２行目[n][e]
 
 [msg weapon_252]
-[f 0 5 65278][f 2 1]Una hoja delgada y afilada con la empuñadura decorada.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ めよゃぺ ぽまゅむぺぽぺ を ぺみもゅぺぽぺ ぼよょ ゅぺ まゆらゎォぺぽゎるぺ[n]ぽまぼよるぺぽぺテ [f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_253]
-[f 0 5 65278][f 2 1]武器　0x253　１行目[n]武器　0x253　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチタ　１行目 武器　ゼゑゾチタ　２行目[n][e]
 
 [msg weapon_254]
-[f 0 5 65278][f 2 1]武器　0x254　１行目[n]武器　0x254　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチダ　１行目 武器　ゼゑゾチダ　２行目[n][e]
 
 [msg weapon_255]
-[f 0 5 65278][f 2 1]武器　0x255　１行目[n]武器　0x255　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチチ　１行目 武器　ゼゑゾチチ　２行目[n][e]
 
 [msg weapon_256]
-[f 0 5 65278][f 2 1]武器　0x256　１行目[n]武器　0x256　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチヂ　１行目 武器　ゼゑゾチヂ　２行目[n][e]
 
 [msg weapon_257]
-[f 0 5 65278][f 2 1]武器　0x257　１行目[n]武器　0x257　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチッ　１行目 武器　ゼゑゾチッ　２行目[n][e]
 
 [msg weapon_258]
-[f 0 5 65278][f 2 1]武器　0x258　１行目[n]武器　0x258　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチツ　１行目 武器　ゼゑゾチツ　２行目[n][e]
 
 [msg weapon_259]
-[f 0 5 65278][f 2 1]武器　0x259　１行目[n]武器　0x259　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチヅ　１行目 武器　ゼゑゾチヅ　２行目[n][e]
 
 [msg weapon_25A]
-[f 0 5 65278][f 2 1]武器　0x25A　１行目[n]武器　0x25A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチだ　１行目 武器　ゼゑゾチだ　２行目[n][e]
 
 [msg weapon_25B]
-[f 0 5 65278][f 2 1]武器　0x25B　１行目[n]武器　0x25B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチち　１行目 武器　ゼゑゾチち　２行目[n][e]
 
 [msg weapon_25C]
-[f 0 5 65278][f 2 1]武器　0x25C　１行目[n]武器　0x25C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチぢ　１行目 武器　ゼゑゾチぢ　２行目[n][e]
 
 [msg weapon_25D]
-[f 0 5 65278][f 2 1]武器　0x25D　１行目[n]武器　0x25D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチっ　１行目 武器　ゼゑゾチっ　２行目[n][e]
 
 [msg weapon_25E]
-[f 0 5 65278][f 2 1]武器　0x25E　１行目[n]武器　0x25E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチつ　１行目 武器　ゼゑゾチつ　２行目[n][e]
 
 [msg weapon_25F]
-[f 0 5 65278][f 2 1]武器　0x25F　１行目[n]武器　0x25F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾチづ　１行目 武器　ゼゑゾチづ　２行目[n][e]
 
 [msg weapon_260]
-[f 0 5 65278][f 2 1]武器　0x260　１行目[n]武器　0x260　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヂゼ　１行目 武器　ゼゑゾヂゼ　２行目[n][e]
 
 [msg weapon_261]
-[f 0 5 65278][f 2 1]武器　0x261　１行目[n]武器　0x261　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヂソ　１行目 武器　ゼゑゾヂソ　２行目[n][e]
 
 [msg weapon_262]
-[f 0 5 65278][f 2 1]武器　0x262　１行目[n]武器　0x262　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヂゾ　１行目 武器　ゼゑゾヂゾ　２行目[n][e]
 
 [msg weapon_263]
-[f 0 5 65278][f 2 1]武器　0x263　１行目[n]武器　0x263　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヂタ　１行目 武器　ゼゑゾヂタ　２行目[n][e]
 
 [msg weapon_264]
-[f 0 5 65278][f 2 1]武器　0x264　１行目[n]武器　0x264　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヂダ　１行目 武器　ゼゑゾヂダ　２行目[n][e]
 
 [msg weapon_265]
-[f 0 5 65278][f 2 1]Una lanza con una punta en forma de cruz.[n][f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺょんぺ ぼよょ ゎょぺ らゎょろぺ まょ みよるゆぺ ぽま ぼるゎんテ[n][f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_266]
-[f 0 5 65278][f 2 1]Encantadoramente con forma de aguijón de abeja. [f 0 1 3]Distancia/Máx. PE +5%/Ma +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つょぼぺょろぺぽよるぺゆまょろま ぼよょ みよるゆぺ ぽま ぺむゎもゃカょ ぽま[n]ぺほまゃぺテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +チ%ギぬぺ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_267]
-[f 0 5 65278][f 2 1]Una lanza brutal con una cabeza en forma de hoja de sauce.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺょんぺ ほるゎろぺゅ ぼよょ ゎょぺ ぼぺほまんぺ まょ みよるゆぺ ぽま[n]めよゃぺ ぽま れぺゎぼまテ [f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_268]
-[f 0 5 65278][f 2 1]Una larga lanza con punta impregnada de veneno de escorpión.[n][f 0 1 3]Distancia/Prob. media de Env.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺるむぺ ゅぺょんぺ ぼよょ らゎょろぺ もゆらるまむょぺぽぺ ぽま わまょまょよ[n]ぽま まれぼよるらもカょテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0][n][e]
 
 [msg weapon_269]
-[f 0 5 65278][f 2 1]Una lanza bifurcada grabada con una flor de cerezo. [f 0 1 3]Distancia/Máx. PS & PE +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺょんぺ ほもみゎるぼぺぽぺ むるぺほぺぽぺ ぼよょ ゎょぺ みゅよる ぽま[n]ぼまるまんよテ [f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ & はつ +チ%[f 0 1 0][n][e]
 
 [msg weapon_26A]
-[f 0 5 65278][f 2 1]El doble del tamaño de las lanzas normales.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ ぽよほゅま ぽまゅ ろぺゆぺォよ ぽま ゅぺれ ゅぺょんぺれ ょよるゆぺゅまれテ[n][f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_26B]
-[f 0 5 65278][f 2 1]Una de las Tres Grandes Lanzas de Japón.[n][f 0 1 3]Distancia/Fr +3/Rs +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぽま ゅぺれ びるまれ てるぺょぽまれ にぺょんぺれ ぽま どぺらカょテ[n][f 0 1 3]っもれろぺょぼもぺギづる +タギぱれ +ゾ[f 0 1 0][n][e]
 
 [msg weapon_26C]
-[f 0 5 65278][f 2 1]Un tridente bendecido por el dios del mar.[n][f 0 1 3]Distancia/Máx. PE +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ろるもぽまょろま ほまょぽまぼもぽよ らよる まゅ ぽもよれ ぽまゅ ゆぺるテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はつ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_26D]
-[f 0 5 65278][f 2 1]Una lanza hecha para un emperador romano.[n][f 0 1 3]Distancia/Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺょんぺ めまぼめぺ らぺるぺ ゎょ まゆらまるぺぽよる るよゆぺょよテ[n][f 0 1 3]っもれろぺょぼもぺギぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_26E]
-[f 0 5 65278][f 2 1]Parte en dos a cualquier libélula que aterrice en ella. [f 0 1 3]Distancia/Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるろま まょ ぽよれ ぺ ぼゎぺゅりゎもまる ゅもほイゅゎゅぺ りゎま ぺろまるるもぼま[n]まょ まゅゅぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_26F]
-[f 0 5 65278][f 2 1]Usada por un dios de la creaci吋n y la[n]destrucci吋n. [f 0 1 3]Distancia/Prob. alta de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴれぺぽぺ らよる ゎょ ぽもよれ ぽま ゅぺ ぼるまぺぼもカょ を ゅぺ[n]ぽまれろるゎぼぼもカょテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0][n][e]
 
 [msg weapon_270]
-[f 0 5 65278][f 2 1]Una lanza arcana utilizada por una reina guerrera. [f 0 1 3]Distancia/Coste medio de PS/Fr +7[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺょんぺ ぺるぼぺょぺ ゎろもゅもんぺぽぺ らよる ゎょぺ るまもょぺ[n]むゎまるるまるぺテ [f 0 1 3]っもれろぺょぼもぺギぢよれろま ゆまぽもよ ぽま はひギづる +ッ[f 0 1 0][n][e]
 
 [msg weapon_271]
-[f 0 5 65278][f 2 1]武器　0x271　１行目[n]武器　0x271　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッソ　１行目 武器　ゼゑゾッソ　２行目[n][e]
 
 [msg weapon_272]
-[f 0 5 65278][f 2 1]Una lanza versátil para derribar enemigos. [f 0 1 3]Distancia/Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゅぺょんぺ わまるれァろもゅ らぺるぺ ぽまるるもほぺる まょまゆもむよれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_273]
-[f 0 5 65278][f 2 1]武器　0x273　１行目[n]武器　0x273　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッタ　１行目 武器　ゼゑゾッタ　２行目[n][e]
 
 [msg weapon_274]
-[f 0 5 65278][f 2 1]武器　0x274　１行目[n]武器　0x274　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッダ　１行目 武器　ゼゑゾッダ　２行目[n][e]
 
 [msg weapon_275]
-[f 0 5 65278][f 2 1]武器　0x275　１行目[n]武器　0x275　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッチ　１行目 武器　ゼゑゾッチ　２行目[n][e]
 
 [msg weapon_276]
-[f 0 5 65278][f 2 1]武器　0x276　１行目[n]武器　0x276　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッヂ　１行目 武器　ゼゑゾッヂ　２行目[n][e]
 
 [msg weapon_277]
-[f 0 5 65278][f 2 1]武器　0x277　１行目[n]武器　0x277　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッッ　１行目 武器　ゼゑゾッッ　２行目[n][e]
 
 [msg weapon_278]
-[f 0 5 65278][f 2 1]武器　0x278　１行目[n]武器　0x278　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッツ　１行目 武器　ゼゑゾッツ　２行目[n][e]
 
 [msg weapon_279]
-[f 0 5 65278][f 2 1]武器　0x279　１行目[n]武器　0x279　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッヅ　１行目 武器　ゼゑゾッヅ　２行目[n][e]
 
 [msg weapon_27A]
-[f 0 5 65278][f 2 1]武器　0x27A　１行目[n]武器　0x27A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッだ　１行目 武器　ゼゑゾッだ　２行目[n][e]
 
 [msg weapon_27B]
-[f 0 5 65278][f 2 1]武器　0x27B　１行目[n]武器　0x27B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッち　１行目 武器　ゼゑゾッち　２行目[n][e]
 
 [msg weapon_27C]
-[f 0 5 65278][f 2 1]武器　0x27C　１行目[n]武器　0x27C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッぢ　１行目 武器　ゼゑゾッぢ　２行目[n][e]
 
 [msg weapon_27D]
-[f 0 5 65278][f 2 1]武器　0x27D　１行目[n]武器　0x27D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッっ　１行目 武器　ゼゑゾッっ　２行目[n][e]
 
 [msg weapon_27E]
-[f 0 5 65278][f 2 1]武器　0x27E　１行目[n]武器　0x27E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッつ　１行目 武器　ゼゑゾッつ　２行目[n][e]
 
 [msg weapon_27F]
-[f 0 5 65278][f 2 1]武器　0x27F　１行目[n]武器　0x27F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾッづ　１行目 武器　ゼゑゾッづ　２行目[n][e]
 
 [msg weapon_280]
-[f 0 5 65278][f 2 1]武器　0x280　１行目[n]武器　0x280　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾツゼ　１行目 武器　ゼゑゾツゼ　２行目[n][e]
 
 [msg weapon_281]
-[f 0 5 65278][f 2 1]武器　0x281　１行目[n]武器　0x281　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾツソ　１行目 武器　ゼゑゾツソ　２行目[n][e]
 
 [msg weapon_282]
-[f 0 5 65278][f 2 1]武器　0x282　１行目[n]武器　0x282　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾツゾ　１行目 武器　ゼゑゾツゾ　２行目[n][e]
 
 [msg weapon_283]
-[f 0 5 65278][f 2 1]武器　0x283　１行目[n]武器　0x283　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾツタ　１行目 武器　ゼゑゾツタ　２行目[n][e]
 
 [msg weapon_284]
-[f 0 5 65278][f 2 1]武器　0x284　１行目[n]武器　0x284　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾツダ　１行目 武器　ゼゑゾツダ　２行目[n][e]
 
 [msg weapon_285]
-[f 0 5 65278][f 2 1]Un arma contundente compuesta por un mango largo y un trozo de metal.[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ ぼよょろゎょぽまょろま ぼよゆらゎまれろぺ らよる ゎょ ゆぺょむよ[n]ゅぺるむよ を ゎょ ろるよんよ ぽま ゆまろぺゅテ[n][e]
 
 [msg weapon_286]
-[f 0 5 65278][f 2 1]Un mazo con clavos de metal encajados en su punta.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺんよ ぼよょ ぼゅぺわよれ ぽま ゆまろぺゅ まょぼぺゃぺぽよれ まょ れゎ[n]らゎょろぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_287]
-[f 0 5 65278][f 2 1]Un martillo grande con un "100t" impreso en él.[n][f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ むるぺょぽま ぼよょ ゎょ "ソゼゼろ" もゆらるまれよ まょ[n]イゅテ [f 0 1 3]ぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_288]
-[f 0 5 65278][f 2 1]Un arma contundente hecha por un asaltante en potencia.[n][f 0 1 3]Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺるゆぺ ぼよょろゎょぽまょろま めまぼめぺ らよる ゎょ ぺれぺゅろぺょろま[n]まょ らよろまょぼもぺテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_289]
-[f 0 5 65278][f 2 1]Un martillo con un propulsor en su extremo posterior. [f 0 1 3]Ag +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ ぼよょ ゎょ らるよらゎゅれよる まょ れゎ まゑろるまゆよ[n]らよれろまるもよるテ [f 0 1 3]だむ +ダ[f 0 1 0][n][e]
 
 [msg weapon_28A]
-[f 0 5 65278][f 2 1]Un martillo para romper objetivos.[n][f 0 1 3]Prob. media de Confusión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ らぺるぺ るよゆらまる よほゃまろもわよれテ [f 0 1 3]はるよほテ[n]ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n][e]
 
 [msg weapon_28B]
-[f 0 5 65278][f 2 1]Dice "Escuela Gekkoukan". Curiosamente fácil de balancear. [f 0 1 3]Prob. media de cualquier Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもぼま "つれぼゎまゅぺ てまややよゎやぺょ"テ ぢゎるもよれぺゆまょろま みァぼもゅ[n]ぽま ほぺゅぺょぼまぺるテ [f 0 1 3]はるよほテ ゆまぽもぺ ぽま ぼゎぺゅりゎもまる だろぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_28C]
-[f 0 5 65278][f 2 1]Un martillo que puede reparar o destruir.[n][f 0 1 3]Máx. PS +10%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ りゎま らゎまぽま るまらぺるぺる よ ぽまれろるゎもるテ[n][f 0 1 3]ぬァゑテ はひ +ソゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg weapon_28D]
-[f 0 5 65278][f 2 1]Un mazo usado por un infame asesino.[n][f 0 1 3]Prob. media de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺんよ ゎれぺぽよ らよる ゎょ もょみぺゆま ぺれまれもょよテ [f 0 1 3]はるよほテ[n]ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_28E]
-[f 0 5 65278][f 2 1]Un martillo empuñado por un dios del trueno.[n][f 0 1 3]Prob. crítica +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ まゆらゎォぺぽよ らよる ゎょ ぽもよれ ぽまゅ ろるゎまょよテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ソチ%[f 0 1 0][n][e]
 
 [msg weapon_28F]
-[f 0 5 65278][f 2 1]Un martillo sostenido por un rey pacificador.[n][f 0 1 3]Prob. crítica +20%/Fr +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ れよれろまょもぽよ らよる ゎょ るまを らぺぼもみもぼぺぽよるテ[n][f 0 1 3]はるよほテ ぼるウろもぼぺ +ゾゼ%ギづる +ゾ[f 0 1 0][n][e]
 
 [msg weapon_290]
-[f 0 5 65278][f 2 1]Un bastón con dos serpientes enroscadas alrededor de palabras sagradas. [f 0 1 3]Coste medio de PS/Fr +5/Rs +4[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ほぺれろカょ ぼよょ ぽよれ れまるらもまょろまれ まょるよれぼぺぽぺれ[n]ぺゅるまぽまぽよる ぽま らぺゅぺほるぺれ れぺむるぺぽぺれテ [f 0 1 3]ぢよれろま ゆまぽもよ ぽま はひギづる +チギぱれ +ダ[f 0 1 0][n][e]
 
 [msg weapon_291]
-[f 0 5 65278][f 2 1]武器　0x291　１行目[n]武器　0x291　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅソ　１行目 武器　ゼゑゾヅソ　２行目[n][e]
 
 [msg weapon_292]
-[f 0 5 65278][f 2 1]Un martillo tosco utilizado por colosos torpes.[n][f 0 1 3]Prob. crítica +5%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ ゆぺるろもゅゅよ ろよれぼよ ゎろもゅもんぺぽよ らよる ぼよゅよれよれ[n]ろよるらまれテ [f 0 1 3]はるよほテ ぼるウろもぼぺ +チ%[f 0 1 0][n][e]
 
 [msg weapon_293]
-[f 0 5 65278][f 2 1]武器　0x293　１行目[n]武器　0x293　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅタ　１行目 武器　ゼゑゾヅタ　２行目[n][e]
 
 [msg weapon_294]
-[f 0 5 65278][f 2 1]武器　0x294　１行目[n]武器　0x294　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅダ　１行目 武器　ゼゑゾヅダ　２行目[n][e]
 
 [msg weapon_295]
-[f 0 5 65278][f 2 1]武器　0x295　１行目[n]武器　0x295　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅチ　１行目 武器　ゼゑゾヅチ　２行目[n][e]
 
 [msg weapon_296]
-[f 0 5 65278][f 2 1]武器　0x296　１行目[n]武器　0x296　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅヂ　１行目 武器　ゼゑゾヅヂ　２行目[n][e]
 
 [msg weapon_297]
-[f 0 5 65278][f 2 1]武器　0x297　１行目[n]武器　0x297　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅッ　１行目 武器　ゼゑゾヅッ　２行目[n][e]
 
 [msg weapon_298]
-[f 0 5 65278][f 2 1]武器　0x298　１行目[n]武器　0x298　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅツ　１行目 武器　ゼゑゾヅツ　２行目[n][e]
 
 [msg weapon_299]
-[f 0 5 65278][f 2 1]武器　0x299　１行目[n]武器　0x299　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅヅ　１行目 武器　ゼゑゾヅヅ　２行目[n][e]
 
 [msg weapon_29A]
-[f 0 5 65278][f 2 1]武器　0x29A　１行目[n]武器　0x29A　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅだ　１行目 武器　ゼゑゾヅだ　２行目[n][e]
 
 [msg weapon_29B]
-[f 0 5 65278][f 2 1]武器　0x29B　１行目[n]武器　0x29B　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅち　１行目 武器　ゼゑゾヅち　２行目[n][e]
 
 [msg weapon_29C]
-[f 0 5 65278][f 2 1]武器　0x29C　１行目[n]武器　0x29C　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅぢ　１行目 武器　ゼゑゾヅぢ　２行目[n][e]
 
 [msg weapon_29D]
-[f 0 5 65278][f 2 1]武器　0x29D　１行目[n]武器　0x29D　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅっ　１行目 武器　ゼゑゾヅっ　２行目[n][e]
 
 [msg weapon_29E]
-[f 0 5 65278][f 2 1]武器　0x29E　１行目[n]武器　0x29E　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅつ　１行目 武器　ゼゑゾヅつ　２行目[n][e]
 
 [msg weapon_29F]
-[f 0 5 65278][f 2 1]武器　0x29F　１行目[n]武器　0x29F　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾヅづ　１行目 武器　ゼゑゾヅづ　２行目[n][e]
 
 [msg weapon_2A0]
-[f 0 5 65278][f 2 1]武器　0x2A0　１行目[n]武器　0x2A0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾだゼ　１行目 武器　ゼゑゾだゼ　２行目[n][e]
 
 [msg weapon_2A1]
-[f 0 5 65278][f 2 1]武器　0x2A1　１行目[n]武器　0x2A1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾだソ　１行目 武器　ゼゑゾだソ　２行目[n][e]
 
 [msg weapon_2A2]
-[f 0 5 65278][f 2 1]武器　0x2A2　１行目[n]武器　0x2A2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾだゾ　１行目 武器　ゼゑゾだゾ　２行目[n][e]
 
 [msg weapon_2A3]
-[f 0 5 65278][f 2 1]武器　0x2A3　１行目[n]武器　0x2A3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾだタ　１行目 武器　ゼゑゾだタ　２行目[n][e]
 
 [msg weapon_2A4]
-[f 0 5 65278][f 2 1]武器　0x2A4　１行目[n]武器　0x2A4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾだダ　１行目 武器　ゼゑゾだダ　２行目[n][e]
 
 [msg weapon_2A5]
-[f 0 5 65278][f 2 1]武器　0x2A5　１行目[n]武器　0x2A5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾだチ　１行目 武器　ゼゑゾだチ　２行目[n][e]
 
 [msg weapon_2A6]
-[f 0 5 65278][f 2 1]Una unidad manual que dispara balas desde tres dedos. [f 0 1 3]Distancia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゎょもぽぺぽ ゆぺょゎぺゅ りゎま ぽもれらぺるぺ ほぺゅぺれ ぽまれぽま[n]ろるまれ ぽまぽよれテ [f 0 1 3]っもれろぺょぼもぺ[f 0 1 0][n][e]
 
 [msg weapon_2A7]
-[f 0 5 65278][f 2 1]Dispara un proyectil metálico mediante electromagnetismo.[n][f 0 1 3]Daño medio de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ゎょ らるよをまぼろもゅ ゆまろァゅもぼよ ゆまぽもぺょろま[n]まゅまぼろるよゆぺむょまろもれゆよテ [f 0 1 3]っぺォよ ゆまぽもよ ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_2A8]
-[f 0 5 65278][f 2 1]Una unidad manual que dispara desde todos los dedos.[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ゎょもぽぺぽ ゆぺょゎぺゅ りゎま ぽもれらぺるぺ ぽまれぽま ろよぽよれ[n]ゅよれ ぽまぽよれテ [f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_2A9]
-[f 0 5 65278][f 2 1]El 雨ltimo modelo del arma anti-sombras.[n][f 0 1 3]Distancia/Prob. crítica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ グゅろもゆよ ゆよぽまゅよ ぽまゅ ぺるゆぺ ぺょろも-れよゆほるぺれテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg weapon_2AA]
-[f 0 5 65278][f 2 1]Bellamente elaborado a partir de materia oscura. [f 0 1 3]Distancia/Prob. baja de Maldición[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちまゅゅぺゆまょろま まゅぺほよるぺぽよ ぺ らぺるろもる ぽま ゆぺろまるもぺ[n]よれぼゎるぺテ [f 0 1 3]っもれろぺょぼもぺギはるよほテ ほぺゃぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_2AB]
-[f 0 5 65278][f 2 1]Dispara cal viva para atrapar al oponente.[n][f 0 1 3]Distancia/Prob. media de Atadura de Agilidad[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ぼぺゅ わもわぺ らぺるぺ ぺろるぺらぺる ぺゅ よらよょまょろまテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0][n][e]
 
 [msg weapon_2AC]
-[f 0 5 65278][f 2 1]Dispara balas conocidas como "beso de dios".[n][f 0 1 3]Daño medio por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ほぺゅぺれ ぼよょよぼもぽぺれ ぼよゆよ "ほまれよ ぽま ぽもよれ"テ[n][f 0 1 3]っぺォよ ゆまぽもよ らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_2AD]
-[f 0 5 65278][f 2 1]Dispara balas con una larga y rica historia.[n][f 0 1 3]Distancia/Prob. media de Atadura Mágica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれらぺるぺ ほぺゅぺれ ぼよょ ゎょぺ ゅぺるむぺ を るもぼぺ めもれろよるもぺテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0][n][e]
 
 [msg weapon_2AE]
-[f 0 5 65278][f 2 1]Provoca aniquilación desdentro del[n]enemigo. [f 0 1 3]Distancia/Prob. alta de Atadura de Fuerza[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はるよわよぼぺ ぺょもりゎもゅぺぼもカょ ぽまれぽまょろるよ ぽまゅ まょまゆもむよテ[n][f 0 1 3]っもれろぺょぼもぺギはるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ ぽま づゎまるんぺ[f 0 1 0][n][e]
 
 [msg weapon_2AF]
-[f 0 5 65278][f 2 1]Nombrada por la boquilla de Dios.[n][f 0 1 3]Distancia/Coste medio de PS/Rs +7[n][e]
+[f 0 5 65278][f 2 1]ねよゆほるぺぽぺ らよる ゅぺ ほよりゎもゅゅぺ ぽま っもよれテ [f 0 1 3]っもれろぺょぼもぺギぢよれろま[n]ゆまぽもよ ぽま はひギぱれ +ッ[n][e]
 
 [msg weapon_2B0]
-[f 0 5 65278][f 2 1]武器　0x2B0　１行目[n]武器　0x2B0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちゼ　１行目 武器　ゼゑゾちゼ　２行目[n][e]
 
 [msg weapon_2B1]
-[f 0 5 65278][f 2 1]Capaz de disparar proyectiles explosivos.[n][f 0 1 3]Daño leve por salpicadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢぺらぺん ぽま ぽもれらぺるぺる らるよをまぼろもゅまれ まゑらゅよれもわよれテ[n][f 0 1 3]っぺォよ ゅまわま らよる れぺゅらもぼぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg weapon_2B2]
-[f 0 5 65278][f 2 1]Tiene seis configuraciones de disparo diferentes.[n][f 0 1 3]Daño leve de perforación[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]びもまょま れまもれ ぼよょみもむゎるぺぼもよょまれ ぽま ぽもれらぺるよ[n]ぽもみまるまょろまれテ [f 0 1 3]っぺォよ ゅまわま ぽま らまるみよるぺぼもカょ[f 0 1 0][n][e]
 
 [msg weapon_2B3]
-[f 0 5 65278][f 2 1]武器　0x2B3　１行目[n]武器　0x2B3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちタ　１行目 武器　ゼゑゾちタ　２行目[n][e]
 
 [msg weapon_2B4]
-[f 0 5 65278][f 2 1]武器　0x2B4　１行目[n]武器　0x2B4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちダ　１行目 武器　ゼゑゾちダ　２行目[n][e]
 
 [msg weapon_2B5]
-[f 0 5 65278][f 2 1]武器　0x2B5　１行目[n]武器　0x2B5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちチ　１行目 武器　ゼゑゾちチ　２行目[n][e]
 
 [msg weapon_2B6]
-[f 0 5 65278][f 2 1]武器　0x2B6　１行目[n]武器　0x2B6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちヂ　１行目 武器　ゼゑゾちヂ　２行目[n][e]
 
 [msg weapon_2B7]
-[f 0 5 65278][f 2 1]武器　0x2B7　１行目[n]武器　0x2B7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちッ　１行目 武器　ゼゑゾちッ　２行目[n][e]
 
 [msg weapon_2B8]
-[f 0 5 65278][f 2 1]武器　0x2B8　１行目[n]武器　0x2B8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちツ　１行目 武器　ゼゑゾちツ　２行目[n][e]
 
 [msg weapon_2B9]
-[f 0 5 65278][f 2 1]武器　0x2B9　１行目[n]武器　0x2B9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちヅ　１行目 武器　ゼゑゾちヅ　２行目[n][e]
 
 [msg weapon_2BA]
-[f 0 5 65278][f 2 1]武器　0x2BA　１行目[n]武器　0x2BA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちだ　１行目 武器　ゼゑゾちだ　２行目[n][e]
 
 [msg weapon_2BB]
-[f 0 5 65278][f 2 1]武器　0x2BB　１行目[n]武器　0x2BB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちち　１行目 武器　ゼゑゾちち　２行目[n][e]
 
 [msg weapon_2BC]
-[f 0 5 65278][f 2 1]武器　0x2BC　１行目[n]武器　0x2BC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちぢ　１行目 武器　ゼゑゾちぢ　２行目[n][e]
 
 [msg weapon_2BD]
-[f 0 5 65278][f 2 1]武器　0x2BD　１行目[n]武器　0x2BD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちっ　１行目 武器　ゼゑゾちっ　２行目[n][e]
 
 [msg weapon_2BE]
-[f 0 5 65278][f 2 1]武器　0x2BE　１行目[n]武器　0x2BE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちつ　１行目 武器　ゼゑゾちつ　２行目[n][e]
 
 [msg weapon_2BF]
-[f 0 5 65278][f 2 1]武器　0x2BF　１行目[n]武器　0x2BF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾちづ　１行目 武器　ゼゑゾちづ　２行目[n][e]
 
 [msg weapon_2C0]
-[f 0 5 65278][f 2 1]武器　0x2C0　１行目[n]武器　0x2C0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢゼ　１行目 武器　ゼゑゾぢゼ　２行目[n][e]
 
 [msg weapon_2C1]
-[f 0 5 65278][f 2 1]武器　0x2C1　１行目[n]武器　0x2C1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢソ　１行目 武器　ゼゑゾぢソ　２行目[n][e]
 
 [msg weapon_2C2]
-[f 0 5 65278][f 2 1]武器　0x2C2　１行目[n]武器　0x2C2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢゾ　１行目 武器　ゼゑゾぢゾ　２行目[n][e]
 
 [msg weapon_2C3]
-[f 0 5 65278][f 2 1]武器　0x2C3　１行目[n]武器　0x2C3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢタ　１行目 武器　ゼゑゾぢタ　２行目[n][e]
 
 [msg weapon_2C4]
-[f 0 5 65278][f 2 1]武器　0x2C4　１行目[n]武器　0x2C4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢダ　１行目 武器　ゼゑゾぢダ　２行目[n][e]
 
 [msg weapon_2C5]
-[f 0 5 65278][f 2 1]武器　0x2C5　１行目[n]武器　0x2C5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢチ　１行目 武器　ゼゑゾぢチ　２行目[n][e]
 
 [msg weapon_2C6]
-[f 0 5 65278][f 2 1]武器　0x2C6　１行目[n]武器　0x2C6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢヂ　１行目 武器　ゼゑゾぢヂ　２行目[n][e]
 
 [msg weapon_2C7]
-[f 0 5 65278][f 2 1]武器　0x2C7　１行目[n]武器　0x2C7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢッ　１行目 武器　ゼゑゾぢッ　２行目[n][e]
 
 [msg weapon_2C8]
-[f 0 5 65278][f 2 1]武器　0x2C8　１行目[n]武器　0x2C8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢツ　１行目 武器　ゼゑゾぢツ　２行目[n][e]
 
 [msg weapon_2C9]
-[f 0 5 65278][f 2 1]武器　0x2C9　１行目[n]武器　0x2C9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢヅ　１行目 武器　ゼゑゾぢヅ　２行目[n][e]
 
 [msg weapon_2CA]
-[f 0 5 65278][f 2 1]武器　0x2CA　１行目[n]武器　0x2CA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢだ　１行目 武器　ゼゑゾぢだ　２行目[n][e]
 
 [msg weapon_2CB]
-[f 0 5 65278][f 2 1]武器　0x2CB　１行目[n]武器　0x2CB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢち　１行目 武器　ゼゑゾぢち　２行目[n][e]
 
 [msg weapon_2CC]
-[f 0 5 65278][f 2 1]武器　0x2CC　１行目[n]武器　0x2CC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢぢ　１行目 武器　ゼゑゾぢぢ　２行目[n][e]
 
 [msg weapon_2CD]
-[f 0 5 65278][f 2 1]武器　0x2CD　１行目[n]武器　0x2CD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢっ　１行目 武器　ゼゑゾぢっ　２行目[n][e]
 
 [msg weapon_2CE]
-[f 0 5 65278][f 2 1]武器　0x2CE　１行目[n]武器　0x2CE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢつ　１行目 武器　ゼゑゾぢつ　２行目[n][e]
 
 [msg weapon_2CF]
-[f 0 5 65278][f 2 1]武器　0x2CF　１行目[n]武器　0x2CF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾぢづ　１行目 武器　ゼゑゾぢづ　２行目[n][e]
 
 [msg weapon_2D0]
-[f 0 5 65278][f 2 1]武器　0x2D0　１行目[n]武器　0x2D0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっゼ　１行目 武器　ゼゑゾっゼ　２行目[n][e]
 
 [msg weapon_2D1]
-[f 0 5 65278][f 2 1]武器　0x2D1　１行目[n]武器　0x2D1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっソ　１行目 武器　ゼゑゾっソ　２行目[n][e]
 
 [msg weapon_2D2]
-[f 0 5 65278][f 2 1]武器　0x2D2　１行目[n]武器　0x2D2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっゾ　１行目 武器　ゼゑゾっゾ　２行目[n][e]
 
 [msg weapon_2D3]
-[f 0 5 65278][f 2 1]武器　0x2D3　１行目[n]武器　0x2D3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっタ　１行目 武器　ゼゑゾっタ　２行目[n][e]
 
 [msg weapon_2D4]
-[f 0 5 65278][f 2 1]武器　0x2D4　１行目[n]武器　0x2D4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっダ　１行目 武器　ゼゑゾっダ　２行目[n][e]
 
 [msg weapon_2D5]
-[f 0 5 65278][f 2 1]武器　0x2D5　１行目[n]武器　0x2D5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっチ　１行目 武器　ゼゑゾっチ　２行目[n][e]
 
 [msg weapon_2D6]
-[f 0 5 65278][f 2 1]武器　0x2D6　１行目[n]武器　0x2D6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっヂ　１行目 武器　ゼゑゾっヂ　２行目[n][e]
 
 [msg weapon_2D7]
-[f 0 5 65278][f 2 1]武器　0x2D7　１行目[n]武器　0x2D7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっッ　１行目 武器　ゼゑゾっッ　２行目[n][e]
 
 [msg weapon_2D8]
-[f 0 5 65278][f 2 1]武器　0x2D8　１行目[n]武器　0x2D8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっツ　１行目 武器　ゼゑゾっツ　２行目[n][e]
 
 [msg weapon_2D9]
-[f 0 5 65278][f 2 1]武器　0x2D9　１行目[n]武器　0x2D9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっヅ　１行目 武器　ゼゑゾっヅ　２行目[n][e]
 
 [msg weapon_2DA]
-[f 0 5 65278][f 2 1]武器　0x2DA　１行目[n]武器　0x2DA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっだ　１行目 武器　ゼゑゾっだ　２行目[n][e]
 
 [msg weapon_2DB]
-[f 0 5 65278][f 2 1]武器　0x2DB　１行目[n]武器　0x2DB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっち　１行目 武器　ゼゑゾっち　２行目[n][e]
 
 [msg weapon_2DC]
-[f 0 5 65278][f 2 1]武器　0x2DC　１行目[n]武器　0x2DC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっぢ　１行目 武器　ゼゑゾっぢ　２行目[n][e]
 
 [msg weapon_2DD]
-[f 0 5 65278][f 2 1]武器　0x2DD　１行目[n]武器　0x2DD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっっ　１行目 武器　ゼゑゾっっ　２行目[n][e]
 
 [msg weapon_2DE]
-[f 0 5 65278][f 2 1]武器　0x2DE　１行目[n]武器　0x2DE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっつ　１行目 武器　ゼゑゾっつ　２行目[n][e]
 
 [msg weapon_2DF]
-[f 0 5 65278][f 2 1]武器　0x2DF　１行目[n]武器　0x2DF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾっづ　１行目 武器　ゼゑゾっづ　２行目[n][e]
 
 [msg weapon_2E0]
-[f 0 5 65278][f 2 1]武器　0x2E0　１行目[n]武器　0x2E0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつゼ　１行目 武器　ゼゑゾつゼ　２行目[n][e]
 
 [msg weapon_2E1]
-[f 0 5 65278][f 2 1]武器　0x2E1　１行目[n]武器　0x2E1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつソ　１行目 武器　ゼゑゾつソ　２行目[n][e]
 
 [msg weapon_2E2]
-[f 0 5 65278][f 2 1]武器　0x2E2　１行目[n]武器　0x2E2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつゾ　１行目 武器　ゼゑゾつゾ　２行目[n][e]
 
 [msg weapon_2E3]
-[f 0 5 65278][f 2 1]武器　0x2E3　１行目[n]武器　0x2E3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつタ　１行目 武器　ゼゑゾつタ　２行目[n][e]
 
 [msg weapon_2E4]
-[f 0 5 65278][f 2 1]武器　0x2E4　１行目[n]武器　0x2E4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつダ　１行目 武器　ゼゑゾつダ　２行目[n][e]
 
 [msg weapon_2E5]
-[f 0 5 65278][f 2 1]武器　0x2E5　１行目[n]武器　0x2E5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつチ　１行目 武器　ゼゑゾつチ　２行目[n][e]
 
 [msg weapon_2E6]
-[f 0 5 65278][f 2 1]武器　0x2E6　１行目[n]武器　0x2E6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつヂ　１行目 武器　ゼゑゾつヂ　２行目[n][e]
 
 [msg weapon_2E7]
-[f 0 5 65278][f 2 1]武器　0x2E7　１行目[n]武器　0x2E7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつッ　１行目 武器　ゼゑゾつッ　２行目[n][e]
 
 [msg weapon_2E8]
-[f 0 5 65278][f 2 1]武器　0x2E8　１行目[n]武器　0x2E8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつツ　１行目 武器　ゼゑゾつツ　２行目[n][e]
 
 [msg weapon_2E9]
-[f 0 5 65278][f 2 1]武器　0x2E9　１行目[n]武器　0x2E9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつヅ　１行目 武器　ゼゑゾつヅ　２行目[n][e]
 
 [msg weapon_2EA]
-[f 0 5 65278][f 2 1]武器　0x2EA　１行目[n]武器　0x2EA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつだ　１行目 武器　ゼゑゾつだ　２行目[n][e]
 
 [msg weapon_2EB]
-[f 0 5 65278][f 2 1]武器　0x2EB　１行目[n]武器　0x2EB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつち　１行目 武器　ゼゑゾつち　２行目[n][e]
 
 [msg weapon_2EC]
-[f 0 5 65278][f 2 1]武器　0x2EC　１行目[n]武器　0x2EC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつぢ　１行目 武器　ゼゑゾつぢ　２行目[n][e]
 
 [msg weapon_2ED]
-[f 0 5 65278][f 2 1]武器　0x2ED　１行目[n]武器　0x2ED　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつっ　１行目 武器　ゼゑゾつっ　２行目[n][e]
 
 [msg weapon_2EE]
-[f 0 5 65278][f 2 1]武器　0x2EE　１行目[n]武器　0x2EE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつつ　１行目 武器　ゼゑゾつつ　２行目[n][e]
 
 [msg weapon_2EF]
-[f 0 5 65278][f 2 1]武器　0x2EF　１行目[n]武器　0x2EF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾつづ　１行目 武器　ゼゑゾつづ　２行目[n][e]
 
 [msg weapon_2F0]
-[f 0 5 65278][f 2 1]武器　0x2F0　１行目[n]武器　0x2F0　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづゼ　１行目 武器　ゼゑゾづゼ　２行目[n][e]
 
 [msg weapon_2F1]
-[f 0 5 65278][f 2 1]武器　0x2F1　１行目[n]武器　0x2F1　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづソ　１行目 武器　ゼゑゾづソ　２行目[n][e]
 
 [msg weapon_2F2]
-[f 0 5 65278][f 2 1]武器　0x2F2　１行目[n]武器　0x2F2　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづゾ　１行目 武器　ゼゑゾづゾ　２行目[n][e]
 
 [msg weapon_2F3]
-[f 0 5 65278][f 2 1]武器　0x2F3　１行目[n]武器　0x2F3　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづタ　１行目 武器　ゼゑゾづタ　２行目[n][e]
 
 [msg weapon_2F4]
-[f 0 5 65278][f 2 1]武器　0x2F4　１行目[n]武器　0x2F4　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづダ　１行目 武器　ゼゑゾづダ　２行目[n][e]
 
 [msg weapon_2F5]
-[f 0 5 65278][f 2 1]武器　0x2F5　１行目[n]武器　0x2F5　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづチ　１行目 武器　ゼゑゾづチ　２行目[n][e]
 
 [msg weapon_2F6]
-[f 0 5 65278][f 2 1]武器　0x2F6　１行目[n]武器　0x2F6　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづヂ　１行目 武器　ゼゑゾづヂ　２行目[n][e]
 
 [msg weapon_2F7]
-[f 0 5 65278][f 2 1]武器　0x2F7　１行目[n]武器　0x2F7　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづッ　１行目 武器　ゼゑゾづッ　２行目[n][e]
 
 [msg weapon_2F8]
-[f 0 5 65278][f 2 1]武器　0x2F8　１行目[n]武器　0x2F8　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづツ　１行目 武器　ゼゑゾづツ　２行目[n][e]
 
 [msg weapon_2F9]
-[f 0 5 65278][f 2 1]武器　0x2F9　１行目[n]武器　0x2F9　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづヅ　１行目 武器　ゼゑゾづヅ　２行目[n][e]
 
 [msg weapon_2FA]
-[f 0 5 65278][f 2 1]武器　0x2FA　１行目[n]武器　0x2FA　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづだ　１行目 武器　ゼゑゾづだ　２行目[n][e]
 
 [msg weapon_2FB]
-[f 0 5 65278][f 2 1]武器　0x2FB　１行目[n]武器　0x2FB　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづち　１行目 武器　ゼゑゾづち　２行目[n][e]
 
 [msg weapon_2FC]
-[f 0 5 65278][f 2 1]武器　0x2FC　１行目[n]武器　0x2FC　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづぢ　１行目 武器　ゼゑゾづぢ　２行目[n][e]
 
 [msg weapon_2FD]
-[f 0 5 65278][f 2 1]武器　0x2FD　１行目[n]武器　0x2FD　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづっ　１行目 武器　ゼゑゾづっ　２行目[n][e]
 
 [msg weapon_2FE]
-[f 0 5 65278][f 2 1]武器　0x2FE　１行目[n]武器　0x2FE　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづつ　１行目 武器　ゼゑゾづつ　２行目[n][e]
 
 [msg weapon_2FF]
-[f 0 5 65278][f 2 1]武器　0x2FF　１行目[n]武器　0x2FF　２行目[n][e]
+[f 0 5 65278][f 2 1]武器　ゼゑゾづづ　１行目 武器　ゼゑゾづづ　２行目[n][e]
 

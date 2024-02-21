@@ -1,5 +1,5 @@
 ﻿[msg MSG_TUTORIAL_ENEMY_UI]
-[f 0 5 65278][f 2 1]El [f 0 1 2]medidor de proximidad[f 0 1 0] muestra el [f 0 1 2]riesgo de entrar[n]en una batalla[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]El gris significa que est茨s [f 0 1 2]a salvo[f 0 1 0].[n]A medida que te mueves, se vuelve verde, luego[n]amarillo y finalmente rojo.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]El rojo significa que [f 0 1 2]una batalla es inminente[f 0 1 0],[n]斡as胤 que mant姻n un ojo en este medidor![n][f 1 1][e]
+[f 0 5 65278][f 2 1]つゅ [f 0 1 2]ゆまぽもぽよる ぽま らるよゑもゆもぽぺぽ[f 0 1 0] ゆゎまれろるぺ まゅ [f 0 1 2]るもまれむよ ぽま まょろるぺる[n]まょ ゎょぺ ほぺろぺゅゅぺ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つゅ むるもれ れもむょもみもぼぺ りゎま まれろァれ [f 0 1 2]ぺ れぺゅわよ[f 0 1 0]テ[n]だ ゆまぽもぽぺ りゎま ろま ゆゎまわまれデ れま わゎまゅわま わまるぽまデ ゅゎまむよ[n]ぺゆぺるもゅゅよ を みもょぺゅゆまょろま るよゃよテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つゅ るよゃよ れもむょもみもぼぺ りゎま [f 0 1 2]ゎょぺ ほぺろぺゅゅぺ まれ もょゆもょまょろま[f 0 1 0]デ[n]ィぺれウ りゎま ゆぺょろイょ ゎょ よゃよ まょ まれろま ゆまぽもぽよる![n][f 1 1][e]
 

@@ -1,4 +1,4 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1][n]Puedes usar un Comod胤n durante las Fusiones de Sacrificio[n]para transferir una habilidad espec胤fica de la Persona[n]Secundaria a la [f 0 1 2]Persona Principal[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Un Comod胤n es extremadamente raro, as胤 que 雨salo[n]sabiamente.[n][n]Puedes obtener uno [f 0 1 2]al derrotar a un FOE[f 0 1 0], pero las[n]posibilidades son bajas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]はゎまぽまれ ゎれぺる ゎょ ぢよゆよぽウょ ぽゎるぺょろま ゅぺれ づゎれもよょまれ ぽま ひぺぼるもみもぼもよ[n]らぺるぺ ろるぺょれみまるもる ゎょぺ めぺほもゅもぽぺぽ まれらまぼウみもぼぺ ぽま ゅぺ はまるれよょぺ[n]ひまぼゎょぽぺるもぺ ぺ ゅぺ [f 0 1 2]はまるれよょぺ はるもょぼもらぺゅ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ぴょ ぢよゆよぽウょ まれ まゑろるまゆぺぽぺゆまょろま るぺるよデ ぺれウ りゎま グれぺゅよ[n]れぺほもぺゆまょろまテ[n][n]はゎまぽまれ よほろまょまる ゎょよ [f 0 1 2]ぺゅ ぽまるるよろぺる ぺ ゎょ づのつ[f 0 1 0]デ らまるよ ゅぺれ[n]らよれもほもゅもぽぺぽまれ れよょ ほぺゃぺれテ[n][f 1 1][e]
 

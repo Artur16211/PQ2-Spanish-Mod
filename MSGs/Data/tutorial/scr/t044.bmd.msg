@@ -1,10 +1,10 @@
 ﻿[msg msg000_MSG]
-[f 0 5 65278][f 2 1][n]Con la [f 0 1 2]Fusi吋n Especial[f 0 1 0], puedes crear Personas[n]especialmente 雨nicas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ぢよょ ゅぺ [f 0 1 2]づゎれもカょ つれらまぼもぺゅ[f 0 1 0]デ らゎまぽまれ ぼるまぺる はまるれよょぺれ[n]まれらまぼもぺゅゆまょろま グょもぼぺれテ[n][f 1 1][e]
 
 [msg msg001_MSG]
-[f 0 5 65278][f 2 1]La advertencia es que estas [f 0 1 2]Personas 雨nicas requieren[n]otras para sus fusiones[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]にぺ ぺぽわまるろまょぼもぺ まれ りゎま まれろぺれ [f 0 1 2]はまるれよょぺれ グょもぼぺれ るまりゎもまるまょ[n]よろるぺれ らぺるぺ れゎれ みゎれもよょまれ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg msg002_MSG]
-[f 0 5 65278][f 2 1]Aunque sean dif胤ciles, [f 0 1 2]cada Fusi吋n Especial resultar茨[n]en una Persona bastante fuerte[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1]斡Las Fusiones Especiales pueden ser muy 雨tiles para[n]fortalecer a tu grupo![n][f 1 1][e]
+[f 0 5 65278][f 2 1]だゎょりゎま れまぺょ ぽもみウぼもゅまれデ [f 0 1 2]ぼぺぽぺ づゎれもカょ つれらまぼもぺゅ るまれゎゅろぺるァ[n]まょ ゎょぺ はまるれよょぺ ほぺれろぺょろま みゎまるろま[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]ィにぺれ づゎれもよょまれ つれらまぼもぺゅまれ らゎまぽまょ れまる ゆゎを グろもゅまれ らぺるぺ[n]みよるろぺゅまぼまる ぺ ろゎ むるゎらよ![n][f 1 1][e]
 

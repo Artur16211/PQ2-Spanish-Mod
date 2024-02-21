@@ -1,768 +1,768 @@
-﻿[msg accessory_400]
-[f 0 5 65278][f 2 1]アクセサリー　0x400　１行目[n]アクセサリー　0x400　２行目[n][e]
+[msg accessory_400]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダゼゼ　１行目 アクセサリー　ゼゑダゼゼ　２行目[n][e]
 
 [msg accessory_401]
-[f 0 5 65278][f 2 1]Mercancía de "El Caballero[n]Ladrón Regresa".[n][f 0 1 3]Aumento Leve de precisión[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬまるぼぺょぼウぺ ぽま "つゅ ぢぺほぺゅゅまるよ にぺぽるカょ ぱまむるまれぺ"テ[n][f 0 1 3]だゎゆまょろよ にまわま ぽま らるまぼもれもカょ[f 0 1 0][n][e]
 
 [msg accessory_402]
-[f 0 5 65278][f 2 1]Anillo que repele ataques de Fuego. [f 0 1 3]Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ りゎま るまらまゅま ぺろぺりゎまれ ぽま づゎまむよテ [f 0 1 3]だゎゆまょろよ[n]にまわま ぽま まわぺれもカょ ぽま づゎまむよ[f 0 1 0][n][e]
 
 [msg accessory_403]
-[f 0 5 65278][f 2 1]Anillo que repele ataques de Hielo. [f 0 1 3]Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ りゎま るまらまゅま ぺろぺりゎまれ ぽま でもまゅよテ [f 0 1 3]だゎゆまょろよ[n]にまわま ぽま まわぺれもカょ ぽま でもまゅよ[f 0 1 0][n][e]
 
 [msg accessory_404]
-[f 0 5 65278][f 2 1]Anillo que repele ataques el姻ctricos. [f 0 1 3]Aumento Leve de evasión de ataques Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ りゎま るまらまゅま ぺろぺりゎまれ まゅイぼろるもぼよれテ [f 0 1 3]だゎゆまょろよ[n]にまわま ぽま まわぺれもカょ ぽま ぺろぺりゎまれ つゅまぼテ[f 0 1 0][n][e]
 
 [msg accessory_405]
-[f 0 5 65278][f 2 1]Anillo que repele ataques de Viento.[n][f 0 1 3]Aumento Leve de evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ りゎま るまらまゅま ぺろぺりゎまれ ぽま ふもまょろよテ [f 0 1 3]だゎゆまょろよ[n]にまわま ぽま まわぺれもカょ ぽま ふもまょろよ[f 0 1 0][n][e]
 
 [msg accessory_406]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n]y la fuerza. [f 0 1 3]Máx. PS +5%/Fr +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ を ゅぺ[n]みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +チ%ギづる +ソ[f 0 1 0][n][e]
 
 [msg accessory_407]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la fuerza.[n][f 0 1 3]Máx. PE +5%/Fr +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はつ +チ%ギづる +ソ[f 0 1 0][n][e]
 
 [msg accessory_408]
-[f 0 5 65278][f 2 1]Anillo misterioso que fomenta la salud[n]y la magia. [f 0 1 3]Máx. PS +5%/Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま みよゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]ゆぺむもぺテ [f 0 1 3]ぬァゑテ はひ +チ%ギぬぺ +ソ[f 0 1 0][n][e]
 
 [msg accessory_409]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la magia. [f 0 1 3]Máx. PE +5%/Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はつ +チ%ギぬぺ +ソ[f 0 1 0][n][e]
 
 [msg accessory_40A]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n]y la resistencia. [f 0 1 3]Máx. PS +5%/Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ を ゅぺ[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +チ%ギぱれ +ソ[f 0 1 0][n][e]
 
 [msg accessory_40B]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la resistencia.[n][f 0 1 3]Máx. PE +5%/Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はつ +チ%ギぱれ +ソ[f 0 1 0][n][e]
 
 [msg accessory_40C]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n]y la agilidad. [f 0 1 3]Máx. PS +5%/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ を ゅぺ[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +チ%ギだむ +ソ[f 0 1 0][n][e]
 
 [msg accessory_40D]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la agilidad. [f 0 1 3]Máx. PE +5%/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +チ%ギだむ +ソ[f 0 1 0][n][e]
 
 [msg accessory_40E]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n]y la suerte. [f 0 1 3]Máx. PS +5%/Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ を ゅぺ[n]れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +チ%ギひゎ +ソ[f 0 1 0][n][e]
 
 [msg accessory_40F]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la suerte. [f 0 1 3]Máx. PE +5%/Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はつ +チ%ギひゎ +ソ[f 0 1 0][n][e]
 
 [msg accessory_410]
-[f 0 5 65278][f 2 1]アクセサリー　0x410　１行目[n]アクセサリー　0x410　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダソゼ　１行目 アクセサリー　ゼゑダソゼ　２行目[n][e]
 
 [msg accessory_411]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n] y la fuerza. [f 0 1 3]Máx. PS +5%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ  を[n]ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +チ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_412]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la fuerza.[n][f 0 1 3]Máx. PE +5%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はつ +チ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_413]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n] y la magia. [f 0 1 3]Máx. PS +5%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ  を[n]ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はひ +チ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_414]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la magia. [f 0 1 3]Máx. PE +5%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はつ +チ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_415]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n] y la resistencia. [f 0 1 3]Máx. PS +5%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ  を[n]ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +チ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_416]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la resistencia.[n][f 0 1 3]Máx. PE +5%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はつ +チ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_417]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n] y la agilidad. [f 0 1 3]Máx. PS +5%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ  を[n]ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +チ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_418]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n] la agilidad. [f 0 1 3]Máx. PE +5%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を  ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +チ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_419]
-[f 0 5 65278][f 2 1]Anillo misterioso que promueve la salud[n] y la suerte. [f 0 1 3]Máx. PS +5%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ゆもれろまるもよれよ りゎま らるよゆゎまわま ゅぺ れぺゅゎぽ  を[n]ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +チ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_41A]
-[f 0 5 65278][f 2 1]Brazalete enigmático que aumenta la energía y[n]la suerte. [f 0 1 3]Máx. PE +5%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま まょもむゆァろもぼよ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はつ +チ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_41B]
-[f 0 5 65278][f 2 1]アクセサリー　0x41B　１行目[n]アクセサリー　0x41B　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダソち　１行目 アクセサリー　ゼゑダソち　２行目[n][e]
 
 [msg accessory_41C]
-[f 0 5 65278][f 2 1]Anillo saludable que también repele el Fuego.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ れぺゅゎぽぺほゅま りゎま ろぺゆほもイょ るまらまゅま まゅ づゎまむよテ[n][f 0 1 3]ぬァゑテ はひ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま づゎまむよ[f 0 1 0][n][e]
 
 [msg accessory_41D]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el Fuego. [f 0 1 3]Máx. PE +5%/Aumento Leve de evasión del Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま わもむよるもんぺょろま りゎま るまらまゅま まゅ づゎまむよテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽまゅ づゎまむよ[f 0 1 0][n][e]
 
 [msg accessory_41E]
-[f 0 5 65278][f 2 1]Anillo saludable que también repele el Hielo.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ れぺゅゎぽぺほゅま りゎま ろぺゆほもイょ るまらまゅま まゅ でもまゅよテ[n][f 0 1 3]ぬァゑテ はひ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま でもまゅよ[f 0 1 0][n][e]
 
 [msg accessory_41F]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el Hielo.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま わもむよるもんぺょろま りゎま るまらまゅま まゅ でもまゅよテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま でもまゅよ[f 0 1 0][n][e]
 
 [msg accessory_420]
-[f 0 5 65278][f 2 1]Anillo saludable que repele el Viento.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま まゅ ふもまょろよテ [f 0 1 3]ぬァゑテ[n]はひ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま ふもまょろよ[f 0 1 0][n][e]
 
 [msg accessory_421]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele el Viento. [f 0 1 3]Máx. PE +5%/ Aumento Leve de evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま わもむよるもんぺょろま りゎま るまらまゅま まゅ ふもまょろよテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギ だゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま ふもまょろよ[f 0 1 0][n][e]
 
 [msg accessory_422]
-[f 0 5 65278][f 2 1]Anillo saludable que repele la electricidad.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま ゅぺ まゅまぼろるもぼもぽぺぽテ[n][f 0 1 3]ぬァゑテ はひ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ つゅまぼテ[f 0 1 0][n][e]
 
 [msg accessory_423]
-[f 0 5 65278][f 2 1]Brazalete vigorizante que repele la electricidad.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま わもむよるもんぺょろま りゎま るまらまゅま ゅぺ まゅまぼろるもぼもぽぺぽテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ つゅまぼテ[f 0 1 0][n][e]
 
 [msg accessory_424]
-[f 0 5 65278][f 2 1]アクセサリー　0x424　１行目[n]アクセサリー　0x424　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダゾダ　１行目 アクセサリー　ゼゑダゾダ　２行目[n][e]
 
 [msg accessory_425]
-[f 0 5 65278][f 2 1]Circulo peculiar que aumenta la salud y la fuerza. [f 0 1 3]Máx. PS +10%/Fr +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢもるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギづる +ソ[f 0 1 0][n][e]
 
 [msg accessory_426]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n]y la fuerza. [f 0 1 3]Máx. PE +10%/Fr +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギづる +ソ[f 0 1 0][n][e]
 
 [msg accessory_427]
-[f 0 5 65278][f 2 1]Círculo peculiar que potencia la salud[n] y la magia. [f 0 1 3]Máx. PS +10%/Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま らよろまょぼもぺ ゅぺ れぺゅゎぽ  を ゅぺ[n]ゆぺむもぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぬぺ +ソ[f 0 1 0][n][e]
 
 [msg accessory_428]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la magia. [f 0 1 3]Máx. PE +10%/Ma +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +ソ[f 0 1 0][n][e]
 
 [msg accessory_429]
-[f 0 5 65278][f 2 1]Circulo peculiar que aumenta la salud y la resistencia. [f 0 1 3]Máx. PS +10%/Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢもるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +ソ[f 0 1 0][n][e]
 
 [msg accessory_42A]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la resistencia. [f 0 1 3]Máx. PE +10%/Rs +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぱれ +ソ[f 0 1 0][n][e]
 
 [msg accessory_42B]
-[f 0 5 65278][f 2 1]Circulo peculiar que aumenta la salud y la agilidad. [f 0 1 3]Máx. PS +10%/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢもるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギだむ +ソ[f 0 1 0][n][e]
 
 [msg accessory_42C]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la agilidad. [f 0 1 3]Máx. PE +10%/Ag +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギだむ +ソ[f 0 1 0][n][e]
 
 [msg accessory_42D]
-[f 0 5 65278][f 2 1]C胤rculo peculiar que aumenta la salud y la[n]suerte. [f 0 1 3]Máx. PS +10%/Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギひゎ +ソ[f 0 1 0][n][e]
 
 [msg accessory_42E]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la suerte. [f 0 1 3]Máx. PE +10%/Su +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギひゎ +ソ[f 0 1 0][n][e]
 
 [msg accessory_42F]
-[f 0 5 65278][f 2 1]アクセサリー　0x42F　１行目[n]アクセサリー　0x42F　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダゾづ　１行目 アクセサリー　ゼゑダゾづ　２行目[n][e]
 
 [msg accessory_430]
-[f 0 5 65278][f 2 1]C胤rculo peculiar que aumenta la salud y la[n]fuerza. [f 0 1 3]Máx. PS +10%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_431]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la fuerza. [f 0 1 3]Máx. PE +10%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_432]
-[f 0 5 65278][f 2 1]C胤rculo peculiar que aumenta la salud y la[n]magia. [f 0 1 3]Máx. PS +10%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]ゆぺむもぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_433]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la magia. [f 0 1 3]Máx. PE +10%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_434]
-[f 0 5 65278][f 2 1]C胤rculo peculiar que aumenta la salud y la[n]resistencia. [f 0 1 3]Máx. PS +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_435]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la resistencia. [f 0 1 3]Máx. PE +10%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_436]
-[f 0 5 65278][f 2 1]C胤rculo peculiar que aumenta la salud y la[n]agilidad. [f 0 1 3]Máx. PS +10%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_437]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la agilidad. [f 0 1 3]Máx. PE +10%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_438]
-[f 0 5 65278][f 2 1]C胤rculo peculiar que aumenta la salud y la[n]suerte. [f 0 1 3]Máx. PS +10%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ らまぼゎゅもぺる りゎま ぺゎゆまょろぺ ゅぺ れぺゅゎぽ を ゅぺ[n]れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +ソゼ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_439]
-[f 0 5 65278][f 2 1]Broche preternatural que aumenta la energía[n] y la suerte. [f 0 1 3]Máx. PE +10%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま らるまろまるょぺろゎるぺゅ りゎま ぺゎゆまょろぺ ゅぺ まょまるむウぺ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_43A]
-[f 0 5 65278][f 2 1]アクセサリー　0x43A　１行目[n]アクセサリー　0x43A　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダタだ　１行目 アクセサリー　ゼゑダタだ　２行目[n][e]
 
 [msg accessory_43B]
-[f 0 5 65278][f 2 1]Círculo saludable que repele el Fuego.[n][f 0 1 3]Máx. PS +10%/Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま まゅ づゎまむよテ [f 0 1 3]ぬァゑテ[n]はひ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま づゎまむよ[f 0 1 0][n][e]
 
 [msg accessory_43C]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele el Fuego.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión de Fuego[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま わもむよるもんぺょろま りゎま ろぺゆほもイょ るまらまゅま まゅ[n]づゎまむよテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま づゎまむよ[f 0 1 0][n][e]
 
 [msg accessory_43D]
-[f 0 5 65278][f 2 1]Círculo saludable que repele el Hielo.[n][f 0 1 3]Máx. PS +10%/Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま まゅ でもまゅよテ [f 0 1 3]ぬァゑテ[n]はひ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま でもまゅよ[f 0 1 0][n][e]
 
 [msg accessory_43E]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele el Hielo.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión de Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま わもむよるもんぺょろま りゎま ろぺゆほもイょ るまらまゅま まゅ[n]でもまゅよテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま でもまゅよ[f 0 1 0][n][e]
 
 [msg accessory_43F]
-[f 0 5 65278][f 2 1]Círculo saludable que repele el Viento.[n][f 0 1 3]Máx. PS +10%/Aumento Leve de evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま まゅ ふもまょろよテ [f 0 1 3]ぬァゑテ[n]はひ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ぽま ふもまょろよ[f 0 1 0][n][e]
 
 [msg accessory_440]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele el Viento. [f 0 1 3]Máx. PE +10%/Gran aumento de evasión de Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま わもむよるもんぺょろま りゎま ろぺゆほもイょ るまらまゅま まゅ[n]ふもまょろよテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギてるぺょ ぺゎゆまょろよ ぽま まわぺれもカょ ぽま ふもまょろよ[f 0 1 0][n][e]
 
 [msg accessory_441]
-[f 0 5 65278][f 2 1]Círculo saludable que repele la electricidad.[n][f 0 1 3]Máx. PS +10%/Aumento Leve de evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま ゅぺ まゅまぼろるもぼもぽぺぽテ[n][f 0 1 3]ぬァゑテ はひ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ つゅまぼテ[f 0 1 0][n][e]
 
 [msg accessory_442]
-[f 0 5 65278][f 2 1]Broche vigorizante que también repele la electricidad. [f 0 1 3]Máx. PE +10%/Aumento Leve de evasión Elec.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま わもむよるもんぺょろま りゎま ろぺゆほもイょ るまらまゅま ゅぺ[n]まゅまぼろるもぼもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ つゅまぼテ[f 0 1 0][n][e]
 
 [msg accessory_443]
-[f 0 5 65278][f 2 1]アクセサリー　0x443　１行目[n]アクセサリー　0x443　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダダタ　１行目 アクセサリー　ゼゑダダタ　２行目[n][e]
 
 [msg accessory_444]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la fuerza. [f 0 1 3]Máx. PS +15%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_445]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n]y la fuerza. [f 0 1 3]Máx. PE +15%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_446]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la magia. [f 0 1 3]Máx. PS +15%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_447]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la magia. [f 0 1 3]Máx. PE +15%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_448]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la resistencia. [f 0 1 3]Máx. PS +15%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_449]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la resistencia. [f 0 1 3]Máx. PE +15%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_44A]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la agilidad. [f 0 1 3]Máx. PS +15%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_44B]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la agilidad. [f 0 1 3]Máx. PE +15%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_44C]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la suerte. [f 0 1 3]Máx. PS +15%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_44D]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la suerte. [f 0 1 3]Máx. PE +15%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_44E]
-[f 0 5 65278][f 2 1]アクセサリー　0x44E　１行目[n]アクセサリー　0x44E　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダダつ　１行目 アクセサリー　ゼゑダダつ　２行目[n][e]
 
 [msg accessory_44F]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la fuerza. [f 0 1 3]Máx. PS +15%/Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギづる +チ[f 0 1 0][n][e]
 
 [msg accessory_450]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la fuerza. [f 0 1 3]Máx. PE +15%/Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ みゎまるんぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギづる +チ[f 0 1 0][n][e]
 
 [msg accessory_451]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la magia. [f 0 1 3]Máx. PS +15%/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_452]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la magia. [f 0 1 3]Máx. PE +15%/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ ゆぺむもぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_453]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la resistencia. [f 0 1 3]Máx. PS +15%/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_454]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la resistencia. [f 0 1 3]Máx. PE +15%/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_455]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la agilidad. [f 0 1 3]Máx. PS +15%/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギだむ +チ[f 0 1 0][n][e]
 
 [msg accessory_456]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la agilidad. [f 0 1 3]Máx. PE +15%/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギだむ +チ[f 0 1 0][n][e]
 
 [msg accessory_457]
-[f 0 5 65278][f 2 1]Faja finamente tejida que resalta la salud[n] y la suerte. [f 0 1 3]Máx. PS +15%/Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づぺゃぺ みもょぺゆまょろま ろまゃもぽぺ りゎま るまれぺゅろぺ ゅぺ れぺゅゎぽ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +ソチ%ギひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_458]
-[f 0 5 65278][f 2 1]Amuleto inusual que intensifica la energía[n] y la suerte. [f 0 1 3]Máx. PE +15%/Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ もょゎれゎぺゅ りゎま もょろまょれもみもぼぺ ゅぺ まょまるむウぺ[n]を ゅぺ れゎまるろまテ [f 0 1 3]ぬァゑテ はつ +ソチ%ギひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_459]
-[f 0 5 65278][f 2 1]アクセサリー　0x44E　１行目[n]アクセサリー　0x44E　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダダつ　１行目 アクセサリー　ゼゑダダつ　２行目[n][e]
 
 [msg accessory_45A]
-[f 0 5 65278][f 2 1]Parche en el ojo que otorga salud[n] y fuerza visionaria.[n][f 0 1 3]Máx. PS +20%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま まょ まゅ よゃよ りゎま よろよるむぺ れぺゅゎぽ  を みゎまるんぺ[n]わもれもよょぺるもぺテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_45B]
-[f 0 5 65278][f 2 1]Anj rarificado que confiere energía y fuerza.[n][f 0 1 3]Máx. PE +20%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るぺるもみもぼぺぽよ りゎま ぼよょみもまるま まょまるむウぺ を みゎまるんぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_45C]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y magia.[n][f 0 1 3]Máx. PS +20%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はひ +ゾゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_45D]
-[f 0 5 65278][f 2 1]Anj raro que confiere energía y magia.[n][f 0 1 3]Máx. PE +20%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るぺるよ りゎま ぼよょみもまるま まょまるむウぺ を ゆぺむもぺテ [f 0 1 3]ぬァゑテ[n]はつ +ゾゼ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_45E]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y resistencia. [f 0 1 3]Máx. PS +20%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_45F]
-[f 0 5 65278][f 2 1]Anj raro que confiere energía y resistencia. [f 0 1 3]Máx. PE +20%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るぺるよ りゎま ぼよょみもまるま まょまるむウぺ を るまれもれろまょぼもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_460]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y agilidad.[n][f 0 1 3]Máx. PS +20%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_461]
-[f 0 5 65278][f 2 1]Anj raro que confiere energía y agilidad.[n][f 0 1 3]Máx. PE +20%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るぺるよ りゎま ぼよょみもまるま まょまるむウぺ を ぺむもゅもぽぺぽテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_462]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y suerte.[n][f 0 1 3]Máx. PS +20%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_463]
-[f 0 5 65278][f 2 1]Anj raro que confiere energía y suerte.[n][f 0 1 3]Máx. PE +20%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るぺるよ りゎま ぼよょみもまるま まょまるむウぺ を れゎまるろまテ [f 0 1 3]ぬァゑテ[n]はつ +ゾゼ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_464]
-[f 0 5 65278][f 2 1]アクセサリー　0x459　１行目[n]アクセサリー　0x459　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダチヅ　１行目 アクセサリー　ゼゑダチヅ　２行目[n][e]
 
 [msg accessory_465]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y fuerza.[n][f 0 1 3]Máx. PS +20%/Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]みゎまるんぺテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギづる +チ[f 0 1 0][n][e]
 
 [msg accessory_466]
-[f 0 5 65278][f 2 1]Anj raro que confiere energía y fuerza.[n][f 0 1 3]Máx. PE +20%/Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るぺるよ りゎま ぼよょみもまるま まょまるむウぺ を みゎまるんぺテ [f 0 1 3]ぬァゑテ[n]はつ +ゾゼ%ギづる +チ[f 0 1 0][n][e]
 
 [msg accessory_467]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y magia.[n][f 0 1 3]Máx. PS +20%/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はひ +ゾゼ%ギぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_468]
-[f 0 5 65278][f 2 1]Anj refinado que confiere energía y magia.[n][f 0 1 3]Máx. PE +20%/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るまみもょぺぽよ りゎま ぼよょみもまるま まょまるむウぺ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_469]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y resistencia. [f 0 1 3]Máx. PS +20%/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_46A]
-[f 0 5 65278][f 2 1]Anj refinado que confiere energía y resistencia. [f 0 1 3]Máx. PE +20%/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るまみもょぺぽよ りゎま ぼよょみもまるま まょまるむウぺ を るまれもれろまょぼもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_46B]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y agilidad. [f 0 1 3]Máx. PS +20%/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギだむ +チ[f 0 1 0][n][e]
 
 [msg accessory_46C]
-[f 0 5 65278][f 2 1]Anj refinado que confiere energía y agilidad.[n][f 0 1 3]Máx. PE +20%/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るまみもょぺぽよ りゎま ぼよょみもまるま まょまるむウぺ を ぺむもゅもぽぺぽテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギだむ +チ[f 0 1 0][n][e]
 
 [msg accessory_46D]
-[f 0 5 65278][f 2 1]Parche ocular que otorga salud visual y suerte.[n][f 0 1 3]Máx. PS +20%/Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はぺるぼめま よぼゎゅぺる りゎま よろよるむぺ れぺゅゎぽ わもれゎぺゅ を[n]れゎまるろまテ [f 0 1 3]ぬァゑテ はひ +ゾゼ%ギひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_46E]
-[f 0 5 65278][f 2 1]Anj refinado que confiere energía y suerte.[n][f 0 1 3]Máx. PE +20%/Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょゃ るまみもょぺぽよ りゎま ぼよょみもまるま まょまるむウぺ を れゎまるろまテ[n][f 0 1 3]ぬァゑテ はつ +ゾゼ%ギひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_46F]
-[f 0 5 65278][f 2 1]アクセサリー　0x464　１行目[n]アクセサリー　0x464　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダヂダ　１行目 アクセサリー　ゼゑダヂダ　２行目[n][e]
 
 [msg accessory_470]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y fuerza.[n][f 0 1 3]Máx. PS +25%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を みゎまるんぺテ[n][f 0 1 3]ぬァゑテ はひ +ゾチ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_471]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y fuerza.[n][f 0 1 3]Máx. PE +25%/Fr +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を みゎまるんぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギづる +タ[f 0 1 0][n][e]
 
 [msg accessory_472]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y magia.[n][f 0 1 3]Máx. PS +25%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はひ +ゾチ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_473]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y magia.[n][f 0 1 3]Máx. PE +25%/Ma +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギぬぺ +タ[f 0 1 0][n][e]
 
 [msg accessory_474]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y resistencia. [f 0 1 3]Máx. PS +25%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ゾチ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_475]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y resistencia.[n][f 0 1 3]Máx. PE +25%/Rs +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を るまれもれろまょぼもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギぱれ +タ[f 0 1 0][n][e]
 
 [msg accessory_476]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y agilidad. [f 0 1 3]Máx. PS +25%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ゾチ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_477]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y agilidad.[n][f 0 1 3]Máx. PE +25%/Ag +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を ぺむもゅもぽぺぽテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギだむ +タ[f 0 1 0][n][e]
 
 [msg accessory_478]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y suerte.[n][f 0 1 3]Máx. PS +25%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を れゎまるろまテ[n][f 0 1 3]ぬァゑテ はひ +ゾチ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_479]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y suerte.[n][f 0 1 3]Máx. PE +25%/Su +3[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を れゎまるろまテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギひゎ +タ[f 0 1 0][n][e]
 
 [msg accessory_47A]
-[f 0 5 65278][f 2 1]アクセサリー　0x46F　１行目[n]アクセサリー　0x46F　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダヂづ　１行目 アクセサリー　ゼゑダヂづ　２行目[n][e]
 
 [msg accessory_47B]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y fuerza.[n][f 0 1 3]Máx. PS +25%/Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を みゎまるんぺテ[n][f 0 1 3]ぬァゑテ はひ +ゾチ%ギづる +チ[f 0 1 0][n][e]
 
 [msg accessory_47C]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y fuerza.[n][f 0 1 3]Máx. PE +25%/Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を みゎまるんぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギづる +チ[f 0 1 0][n][e]
 
 [msg accessory_47D]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y magia.[n][f 0 1 3]Máx. PS +25%/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はひ +ゾチ%ギぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_47E]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y magia.[n][f 0 1 3]Máx. PE +25%/Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を ゆぺむもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_47F]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y resistencia. [f 0 1 3]Máx. PS +25%/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を[n]るまれもれろまょぼもぺテ [f 0 1 3]ぬァゑテ はひ +ゾチ%ギぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_480]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y resistencia.[n][f 0 1 3]Máx. PE +25%/Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を るまれもれろまょぼもぺテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_481]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y agilidad. [f 0 1 3]Máx. PS +25%/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を[n]ぺむもゅもぽぺぽテ [f 0 1 3]ぬァゑテ はひ +ゾチ%ギだむ +チ[f 0 1 0][n][e]
 
 [msg accessory_482]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y agilidad.[n][f 0 1 3]Máx. PE +25%/Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を ぺむもゅもぽぺぽテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギだむ +チ[f 0 1 0][n][e]
 
 [msg accessory_483]
-[f 0 5 65278][f 2 1]Magatama ceremonial que otorga salud y suerte.[n][f 0 1 3]Máx. PS +25%/Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ぼまるまゆよょもぺゅ りゎま よろよるむぺ れぺゅゎぽ を れゎまるろまテ[n][f 0 1 3]ぬァゑテ はひ +ゾチ%ギひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_484]
-[f 0 5 65278][f 2 1]Orbe etéreo que irradia energía y suerte.[n][f 0 1 3]Máx. PE +25%/Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま まろイるまよ りゎま もるるぺぽもぺ まょまるむウぺ を れゎまるろまテ[n][f 0 1 3]ぬァゑテ はつ +ゾチ%ギひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_485]
-[f 0 5 65278][f 2 1]アクセサリー　0x485　１行目[n]アクセサリー　0x485　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダツチ　１行目 アクセサリー　ゼゑダツチ　２行目[n][e]
 
 [msg accessory_486]
-[f 0 5 65278][f 2 1]Anillo saludable que repele habilidades Nucleares. [f 0 1 3]Máx. PS +5%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ れぺゅゎぽぺほゅま りゎま るまらまゅま めぺほもゅもぽぺぽまれ[n]ねゎぼゅまぺるまれテ [f 0 1 3]ぬァゑテ はひ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ねゎぼゅまぺる[f 0 1 0][n][e]
 
 [msg accessory_487]
-[f 0 5 65278][f 2 1]Anillo saludable que protege contra habilidades Psi.[n][f 0 1 3]Máx. PS +5%/Aumento Leve de evasión Psi.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ れぺゅゎぽぺほゅま りゎま らるよろまむま ぼよょろるぺ めぺほもゅもぽぺぽまれ[n]はれもテ [f 0 1 3]ぬァゑテ はひ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ はれもテ[f 0 1 0][n][e]
 
 [msg accessory_488]
-[f 0 5 65278][f 2 1]Brazalete que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま りゎま るまらまゅま めぺほもゅもぽぺぽまれ ねゎぼゅまぺるまれテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ねゎぼゅまぺる[f 0 1 0][n][e]
 
 [msg accessory_489]
-[f 0 5 65278][f 2 1]Brazalete que protege contra habilidades Psi.[n][f 0 1 3]Máx. PE +5%/Aumento Leve de evasión Psi.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま りゎま らるよろまむま ぼよょろるぺ めぺほもゅもぽぺぽまれ はれもテ[n][f 0 1 3]ぬァゑテ はつ +チ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ はれもテ[f 0 1 0][n][e]
 
 [msg accessory_48A]
-[f 0 5 65278][f 2 1]Círculo que repele habilidades Nucleares.[n][f 0 1 3]Máx. PS +10%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ りゎま るまらまゅま めぺほもゅもぽぺぽまれ ねゎぼゅまぺるまれテ[n][f 0 1 3]ぬァゑテ はひ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ねゎぼゅまぺる[f 0 1 0][n][e]
 
 [msg accessory_48B]
-[f 0 5 65278][f 2 1]C胤rculo que protege contra habilidades Psi. [f 0 1 3]Máx. PS +10%/Aumento Leve de evasión Psi.[f 0 1 0][n][n][e]
+[f 0 5 65278][f 2 1]ぢウるぼゎゅよ りゎま らるよろまむま ぼよょろるぺ めぺほもゅもぽぺぽまれ はれもテ[n][f 0 1 3]ぬァゑテ はひ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ はれもテ[f 0 1 0] [n][e]
 
 [msg accessory_48C]
-[f 0 5 65278][f 2 1]Pin robusto que se marchita Nuclear skills.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión Nuclear[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はもょ るよほゎれろよ りゎま れま ゆぺるぼめもろぺ ねゎぼゅまぺる れやもゅゅれテ[n][f 0 1 3]ぬァゑテ はつ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ ねゎぼゅまぺる[f 0 1 0][n][e]
 
 [msg accessory_48D]
-[f 0 5 65278][f 2 1]Broche resistente que repele habilidades Nucleares.[n][f 0 1 3]Máx. PE +10%/Aumento Leve de evasión Psi.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるよぼめま るまれもれろまょろま りゎま るまらまゅま めぺほもゅもぽぺぽまれ[n]ねゎぼゅまぺるまれテ [f 0 1 3]ぬァゑテ はつ +ソゼ%ギだゎゆまょろよ にまわま ぽま まわぺれもカょ はれもテ[f 0 1 0][n][e]
 
 [msg accessory_48E]
-[f 0 5 65278][f 2 1]アクセサリー　0x48E　１行目[n]アクセサリー　0x48E　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダツつ　１行目 アクセサリー　ゼゑダツつ　２行目[n][e]
 
 [msg accessory_48F]
-[f 0 5 65278][f 2 1]Tambor de juguete que inconvoca un poder primitivo.[n][f 0 1 3]Fr +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]びぺゆほよる ぽま ゃゎむゎまろま りゎま もょぼよょわよぼぺ ゎょ らよぽまる[n]らるもゆもろもわよテ [f 0 1 3]づる +チ[f 0 1 0][n][e]
 
 [msg accessory_490]
-[f 0 5 65278][f 2 1]Un hermoso adorno que se rumorea es obra de una verdadera bruja. [f 0 1 3]Ma +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ めまるゆよれよ ぺぽよるょよ りゎま れま るゎゆよるまぺ まれ よほるぺ ぽま[n]ゎょぺ わまるぽぺぽまるぺ ほるゎゃぺテ [f 0 1 3]ぬぺ +チ[f 0 1 0][n][e]
 
 [msg accessory_491]
-[f 0 5 65278][f 2 1]Una cruz usada por un guardi茨n cuyas defensas[n]nunca faltaron. [f 0 1 3]Rs +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぼるゎん ゎれぺぽぺ らよる ゎょ むゎぺるぽもァょ ぼゎをぺれ ぽまみまょれぺれ[n]ょゎょぼぺ みぺゅろぺるよょテ [f 0 1 3]ぱれ +チ[f 0 1 0][n][e]
 
 [msg accessory_492]
-[f 0 5 65278][f 2 1]Adorno para un pegaso que puede surcar el mundo en un solo día. [f 0 1 3]Ag +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だぽよるょよ らぺるぺ ゎょ らまむぺれよ りゎま らゎまぽま れゎるぼぺる まゅ[n]ゆゎょぽよ まょ ゎょ れよゅよ ぽウぺテ [f 0 1 3]だむ +チ[f 0 1 0][n][e]
 
 [msg accessory_493]
-[f 0 5 65278][f 2 1]Estatua acogedora tallada en madera aromática de un árbol antiguo. [f 0 1 3]Su +5[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つれろぺろゎぺ ぺぼよむまぽよるぺ ろぺゅゅぺぽぺ まょ ゆぺぽまるぺ ぺるよゆァろもぼぺ[n]ぽま ゎょ ァるほよゅ ぺょろもむゎよテ [f 0 1 3]ひゎ +チ[f 0 1 0][n][e]
 
 [msg accessory_494]
-[f 0 5 65278][f 2 1]Amuleto sencillo cuya dignidad sin complicaciones otorga valentía. [f 0 1 3]Máx. PS +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ れまょぼもゅゅよ ぼゎをぺ ぽもむょもぽぺぽ れもょ ぼよゆらゅもぼぺぼもよょまれ[n]よろよるむぺ わぺゅまょろウぺテ [f 0 1 3]ぬァゑテ はひ +ソゼ%[f 0 1 0][n][e]
 
 [msg accessory_495]
-[f 0 5 65278][f 2 1]Resina aromática que, al quemarse, calma la mente y el alma. [f 0 1 3]Máx. PE +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまれもょぺ ぺるよゆァろもぼぺ りゎまデ ぺゅ りゎまゆぺるれまデ ぼぺゅゆぺ ゅぺ[n]ゆまょろま を まゅ ぺゅゆぺテ [f 0 1 3]ぬァゑテ はつ +ソゼ%[f 0 1 0][n][e]
 
 [msg accessory_496]
-[f 0 5 65278][f 2 1]Extraña talla de madera que lega una perseverancia imperturbable. [f 0 1 3]Máx. PS +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゑろるぺォぺ ろぺゅゅぺ ぽま ゆぺぽまるぺ りゎま ゅまむぺ ゎょぺ[n]らまるれまわまるぺょぼもぺ もゆらまるろゎるほぺほゅまテ [f 0 1 3]ぬァゑテ はひ +ソチ%[f 0 1 0][n][e]
 
 [msg accessory_497]
-[f 0 5 65278][f 2 1]Incienso con un humo embriagador que tranquiliza la mente. [f 0 1 3]Máx. PE +15%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]とょぼもまょれよ ぼよょ ゎょ めゎゆよ まゆほるもぺむぺぽよる りゎま ろるぺょりゎもゅもんぺ[n]ゅぺ ゆまょろまテ [f 0 1 3]ぬァゑテ はつ +ソチ%[f 0 1 0][n][e]
 
 [msg accessory_498]
-[f 0 5 65278][f 2 1]Acelerador que puede ralentizar el tiempo mismo.[n][f 0 1 3]Tasa cr胤tica +10%[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だぼまゅまるぺぽよる りゎま らゎまぽま るぺゅまょろもんぺる まゅ ろもまゆらよ[n]ゆもれゆよテ [f 0 1 3]びぺれぺ ぼるウろもぼぺ +ソゼ%[f 0 1 0][n][e]
 
 [msg accessory_499]
-[f 0 5 65278][f 2 1]Insignia con el poder de fortalecer cada fibra de tu ser. [f 0 1 3]Todas las estad. +1[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]とょれもむょもぺ ぼよょ まゅ らよぽまる ぽま みよるろぺゅまぼまる ぼぺぽぺ[n]みもほるぺ ぽま ろゎ れまるテ [f 0 1 3]びよぽぺれ ゅぺれ まれろぺぽテ +ソ[f 0 1 0][n][e]
 
 [msg accessory_49A]
-[f 0 5 65278][f 2 1]Insignia con el poder de fortalecer en gran medida cada fibra de tu ser. [f 0 1 3]Todas las estad. +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]とょれもむょもぺ ぼよょ まゅ らよぽまる ぽま みよるろぺゅまぼまる まょ むるぺょ[n]ゆまぽもぽぺ ぼぺぽぺ みもほるぺ ぽま ろゎ れまるテ [f 0 1 3]びよぽぺれ ゅぺれ まれろぺぽテ +ゾ[f 0 1 0][n][e]
 
 [msg accessory_49B]
-[f 0 5 65278][f 2 1](DLC) Cristal que demuestra tu habilidad para cazar tesoros. [f 0 1 3]Doble prob. de encuentros[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ドっにぢナ ぢるもれろぺゅ りゎま ぽまゆゎまれろるぺ ろゎ めぺほもゅもぽぺぽ らぺるぺ[n]ぼぺんぺる ろまれよるよれテ [f 0 1 3]っよほゅま らるよほテ ぽま まょぼゎまょろるよれ[f 0 1 0][n][e]
 
 [msg accessory_49C]
-[f 0 5 65278][f 2 1](DLC) Cristal que demuestra que simplemente buscas paz y tranquilidad. [f 0 1 3]Eliminar encuentros[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ドっにぢナ ぢるもれろぺゅ りゎま ぽまゆゎまれろるぺ りゎま れもゆらゅまゆまょろま[n]ほゎれぼぺれ らぺん を ろるぺょりゎもゅもぽぺぽテ [f 0 1 3]つゅもゆもょぺる まょぼゎまょろるよれ[f 0 1 0][n][e]
 
 [msg accessory_49D]
-[f 0 5 65278][f 2 1]Especificaciones que convierten cualquier batalla en Exp.[n][f 0 1 3]Los aliados en reserva obtienen 25% EXP[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つれらまぼもみもぼぺぼもよょまれ りゎま ぼよょわもまるろまょ ぼゎぺゅりゎもまる[n]ほぺろぺゅゅぺ まょ つゑらテ [f 0 1 3]によれ ぺゅもぺぽよれ まょ るまれまるわぺ よほろもまょまょ ゾチ% つぷは[f 0 1 0][n][e]
 
 [msg accessory_49E]
-[f 0 5 65278][f 2 1]Especificaciones que convierten cualquier batalla en Exp.[n][f 0 1 3]Los aliados en reserva obtienen 50% EXP[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つれらまぼもみもぼぺぼもよょまれ りゎま ぼよょわもまるろまょ ぼゎぺゅりゎもまる[n]ほぺろぺゅゅぺ まょ つゑらテ [f 0 1 3]によれ ぺゅもぺぽよれ まょ るまれまるわぺ よほろもまょまょ チゼ% つぷは[f 0 1 0][n][e]
 
 [msg accessory_49F]
-[f 0 5 65278][f 2 1]Especificaciones que convierten cualquier batalla en Exp.[n][f 0 1 3]Los aliados en reserva obtienen 100% EXP[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つれらまぼもみもぼぺぼもよょまれ りゎま ぼよょわもまるろまょ ぼゎぺゅりゎもまる[n]ほぺろぺゅゅぺ まょ つゑらテ [f 0 1 3]によれ ぺゅもぺぽよれ まょ るまれまるわぺ よほろもまょまょ ソゼゼ% つぷは[f 0 1 0][n][e]
 
 [msg accessory_4A0]
-[f 0 5 65278][f 2 1](DLC) Guantes que permiten una mayor eficiencia en la batalla. [f 0 1 3]Triple experiencia en combate[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ドっにぢナ てゎぺょろまれ りゎま らまるゆもろまょ ゎょぺ ゆぺをよる まみもぼもまょぼもぺ[n]まょ ゅぺ ほぺろぺゅゅぺテ [f 0 1 3]びるもらゅま まゑらまるもまょぼもぺ まょ ぼよゆほぺろま[f 0 1 0][n][e]
 
 [msg accessory_4A1]
-[f 0 5 65278][f 2 1](DLC) Guantes que multiplican el botín en la guerra.[n][f 0 1 3]Aumenta el dinero ganado en combate[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ドっにぢナ てゎぺょろまれ りゎま ゆゎゅろもらゅもぼぺょ まゅ ほよろウょ まょ ゅぺ[n]むゎまるるぺテ [f 0 1 3]だゎゆまょろぺ まゅ ぽもょまるよ むぺょぺぽよ まょ ぼよゆほぺろま[f 0 1 0][n][e]
 
 [msg accessory_4A2]
-[f 0 5 65278][f 2 1]Orbe que doblega las leyes del universo.[n][f 0 1 3]Anula todo el daño excepto el Todopoderoso[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま りゎま ぽよほゅまむぺ ゅぺれ ゅまをまれ ぽまゅ ゎょもわまるれよテ[n][f 0 1 3]だょゎゅぺ ろよぽよ まゅ ぽぺォよ まゑぼまらろよ まゅ びよぽよらよぽまるよれよ[f 0 1 0][n][e]
 
 [msg accessory_4A3]
-[f 0 5 65278][f 2 1]Gafas negras con un destello tan agudo como la persona superinteligente que las lleva.[n][e]
+[f 0 5 65278][f 2 1]てぺみぺれ ょまむるぺれ ぼよょ ゎょ ぽまれろまゅゅよ ろぺょ ぺむゎぽよ ぼよゆよ[n]ゅぺ らまるれよょぺ れゎらまるもょろまゅもむまょろま りゎま ゅぺれ ゅゅまわぺテ[n][e]
 
 [msg accessory_4A4]
-[f 0 5 65278][f 2 1]Tirantes para los días en los que un cinturón no es suficiente.[n][e]
+[f 0 5 65278][f 2 1]びもるぺょろまれ らぺるぺ ゅよれ ぽウぺれ まょ ゅよれ りゎま ゎょ ぼもょろゎるカょ[n]ょよ まれ れゎみもぼもまょろまテ[n][e]
 
 [msg accessory_4A5]
-[f 0 5 65278][f 2 1]Adorno para el pelo sencillo y clásico.[n]　[n][e]
+[f 0 5 65278][f 2 1]だぽよるょよ らぺるぺ まゅ らまゅよ れまょぼもゅゅよ を ぼゅァれもぼよテ 　[n][e]
 
 [msg accessory_4A6]
-[f 0 5 65278][f 2 1]Elegante llavero de plata, para que nunca pierdas tus llaves en un laberinto.[n][e]
+[f 0 5 65278][f 2 1]つゅまむぺょろま ゅゅぺわまるよ ぽま らゅぺろぺデ らぺるぺ りゎま ょゎょぼぺ[n]らもまるぽぺれ ろゎれ ゅゅぺわまれ まょ ゎょ ゅぺほまるもょろよテ[n][e]
 
 [msg accessory_4A7]
-[f 0 5 65278][f 2 1]Corbata que logra ser formal, pero divertida al mismo tiempo.[n][e]
+[f 0 5 65278][f 2 1]ぢよるほぺろぺ りゎま ゅよむるぺ れまる みよるゆぺゅデ らまるよ ぽもわまるろもぽぺ[n]ぺゅ ゆもれゆよ ろもまゆらよテ[n][e]
 
 [msg accessory_4A8]
-[f 0 5 65278][f 2 1]Bolso de cintura para almacenar pequeños objetos donde quiera que vayas.[n][e]
+[f 0 5 65278][f 2 1]ちよゅれよ ぽま ぼもょろゎるぺ らぺるぺ ぺゅゆぺぼまょぺる らまりゎまォよれ[n]よほゃまろよれ ぽよょぽま りゎもまるぺ りゎま わぺをぺれテ[n][e]
 
 [msg accessory_4A9]
-[f 0 5 65278][f 2 1]El reproductor de música portátil más reciente y avanzado.[n]　[n][e]
+[f 0 5 65278][f 2 1]つゅ るまらるよぽゎぼろよる ぽま ゆグれもぼぺ らよるろァろもゅ ゆァれ るまぼもまょろま[n]を ぺわぺょんぺぽよテ 　[n][e]
 
 [msg accessory_4AA]
-[f 0 5 65278][f 2 1]Medias de lunares importadas de la nación más moderna y linda de todas.[n][e]
+[f 0 5 65278][f 2 1]ぬまぽもぺれ ぽま ゅゎょぺるまれ もゆらよるろぺぽぺれ ぽま ゅぺ ょぺぼもカょ[n]ゆァれ ゆよぽまるょぺ を ゅもょぽぺ ぽま ろよぽぺれテ[n][e]
 
 [msg accessory_4AB]
-[f 0 5 65278][f 2 1]Medias negras que combinan con cualquier cosa.[n]　[n][e]
+[f 0 5 65278][f 2 1]ぬまぽもぺれ ょまむるぺれ りゎま ぼよゆほもょぺょ ぼよょ ぼゎぺゅりゎもまる[n]ぼよれぺテ 　[n][e]
 
 [msg accessory_4AC]
-[f 0 5 65278][f 2 1]Reloj para hombres que realza los músculos de tu brazo. ¡También indica la hora![n]　[n][e]
+[f 0 5 65278][f 2 1]ぱまゅよゃ らぺるぺ めよゆほるまれ りゎま るまぺゅんぺ ゅよれ ゆグれぼゎゅよれ[n]ぽま ろゎ ほるぺんよテ ィびぺゆほもイょ もょぽもぼぺ ゅぺ めよるぺ! 　[n][e]
 
 [msg accessory_4AD]
-[f 0 5 65278][f 2 1]Alfiler metálico con un personaje lindo.[n][e]
+[f 0 5 65278][f 2 1]だゅみもゅまる ゆまろァゅもぼよ ぼよょ ゎょ らまるれよょぺゃま ゅもょぽよテ[n][e]
 
 [msg accessory_4AE]
-[f 0 5 65278][f 2 1]Elegante accesorio para el cabello, por si acaso tu cabello no era ya la envidia de todos.[n]　[n][e]
+[f 0 5 65278][f 2 1]つゅまむぺょろま ぺぼぼまれよるもよ らぺるぺ まゅ ぼぺほまゅゅよデ らよる れも[n]ぺぼぺれよ ろゎ ぼぺほまゅゅよ ょよ まるぺ をぺ ゅぺ まょわもぽもぺ ぽま ろよぽよれテ 　[n][e]
 
 [msg accessory_4AF]
-[f 0 5 65278][f 2 1]Orejas peludas que, afortunadamente, no se parecen en nada a las de Teddie.[n]　[n][e]
+[f 0 5 65278][f 2 1]のるまゃぺれ らまゅゎぽぺれ りゎまデ ぺみよるろゎょぺぽぺゆまょろまデ ょよ れま[n]らぺるまぼまょ まょ ょぺぽぺ ぺ ゅぺれ ぽま びまぽぽもまテ 　[n][e]
 
 [msg accessory_4B0]
-[f 0 5 65278][f 2 1]Hermoso medallón, con una cadena resistente como el infierno. ¡Un símbolo perfecto de ti![n][e]
+[f 0 5 65278][f 2 1]でまるゆよれよ ゆまぽぺゅゅカょデ ぼよょ ゎょぺ ぼぺぽまょぺ るまれもれろまょろま[n]ぼよゆよ まゅ もょみもまるょよテ ィぴょ れウゆほよゅよ らまるみまぼろよ ぽま ろも![n][e]
 
 [msg accessory_4B1]
-[f 0 5 65278][f 2 1]Elegantes aretes que puedes usar en cualquier lugar.[n][e]
+[f 0 5 65278][f 2 1]つゅまむぺょろまれ ぺるまろまれ りゎま らゎまぽまれ ゎれぺる まょ ぼゎぺゅりゎもまる[n]ゅゎむぺるテ[n][e]
 
 [msg accessory_4B2]
-[f 0 5 65278][f 2 1]Un anillo que puede parecer sencillo, pero para ti, es tu tesoro.[n]　[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺょもゅゅよ りゎま らゎまぽま らぺるまぼまる れまょぼもゅゅよデ らまるよ[n]らぺるぺ ろもデ まれ ろゎ ろまれよるよテ 　[n][e]
 
 [msg accessory_4B3]
-[f 0 5 65278][f 2 1]El reproductor de música portátil más reciente y avanzado.[n]　[n][e]
+[f 0 5 65278][f 2 1]つゅ るまらるよぽゎぼろよる ぽま ゆグれもぼぺ らよるろァろもゅ ゆァれ るまぼもまょろま[n]を ぺわぺょんぺぽよテ 　[n][e]
 
 [msg accessory_4B4]
-[f 0 5 65278][f 2 1]Gargantilla con un diseño en forma de corazón.[n]　[n][e]
+[f 0 5 65278][f 2 1]てぺるむぺょろもゅゅぺ ぼよょ ゎょ ぽもれまォよ まょ みよるゆぺ ぽま ぼよるぺんカょテ[n]　[n][e]
 
 [msg accessory_4B5]
-[f 0 5 65278][f 2 1]Uñas postizas adornadas con gemas.[n]　[n][e]
+[f 0 5 65278][f 2 1]ぴォぺれ らよれろもんぺれ ぺぽよるょぺぽぺれ ぼよょ むまゆぺれテ 　[n][e]
 
 [msg accessory_4B6]
-[f 0 5 65278][f 2 1]Muñequera para absorber el sudor durante todas tus intensas peleas.[n]　[n][e]
+[f 0 5 65278][f 2 1]ぬゎォまりゎまるぺ らぺるぺ ぺほれよるほまる まゅ れゎぽよる ぽゎるぺょろま[n]ろよぽぺれ ろゎれ もょろまょれぺれ らまゅまぺれテ 　[n][e]
 
 [msg accessory_4B7]
-[f 0 5 65278][f 2 1]Gorro tejido con lana de origen local, de comercio justo y criado con humanidad.[n]　[n][e]
+[f 0 5 65278][f 2 1]てよるるよ ろまゃもぽよ ぼよょ ゅぺょぺ ぽま よるもむまょ ゅよぼぺゅデ ぽま[n]ぼよゆまるぼもよ ゃゎれろよ を ぼるもぺぽよ ぼよょ めゎゆぺょもぽぺぽテ 　[n][e]
 
 [msg accessory_4B8]
-[f 0 5 65278][f 2 1]Abundante cinta a la moda.[n]　[n][e]
+[f 0 5 65278][f 2 1]だほゎょぽぺょろま ぼもょろぺ ぺ ゅぺ ゆよぽぺテ 　[n][e]
 
 [msg accessory_4B9]
-[f 0 5 65278][f 2 1]Guantes de cuero delicado y delgado.[n]　[n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぽま ぼゎまるよ ぽまゅもぼぺぽよ を ぽまゅむぺぽよテ 　[n][e]
 
 [msg accessory_4BA]
-[f 0 5 65278][f 2 1]Collar cuya simplicidad clásica resuena a través de las eras.[n]　[n][e]
+[f 0 5 65278][f 2 1]ぢよゅゅぺる ぼゎをぺ れもゆらゅもぼもぽぺぽ ぼゅァれもぼぺ るまれゎまょぺ ぺ[n]ろるぺわイれ ぽま ゅぺれ まるぺれテ 　[n][e]
 
 [msg accessory_4BB]
-[f 0 5 65278][f 2 1]Accesorio verdaderamente celestial, completo con alas de ángel.[n]　[n][e]
+[f 0 5 65278][f 2 1]だぼぼまれよるもよ わまるぽぺぽまるぺゆまょろま ぼまゅまれろもぺゅデ ぼよゆらゅまろよ[n]ぼよょ ぺゅぺれ ぽま ァょむまゅテ 　[n][e]
 
 [msg accessory_4BC]
-[f 0 5 65278][f 2 1]Auriculares de última generación para verdaderos audiófilos.[n][e]
+[f 0 5 65278][f 2 1]だゎるもぼゎゅぺるまれ ぽま グゅろもゆぺ むまょまるぺぼもカょ らぺるぺ わまるぽぺぽまるよれ[n]ぺゎぽもカみもゅよれテ[n][e]
 
 [msg accessory_4BD]
-[f 0 5 65278][f 2 1]Pequeños aretes de perlas rosadas.[n][e]
+[f 0 5 65278][f 2 1]はまりゎまォよれ ぺるまろまれ ぽま らまるゅぺれ るよれぺぽぺれテ[n][e]
 
 [msg accessory_4BE]
-[f 0 5 65278][f 2 1]Collar de perlas para cuando las joyas sean demasiado.[n]　[n][e]
+[f 0 5 65278][f 2 1]ぢよゅゅぺる ぽま らまるゅぺれ らぺるぺ ぼゎぺょぽよ ゅぺれ ゃよをぺれ れまぺょ[n]ぽまゆぺれもぺぽよテ 　[n][e]
 
 [msg accessory_4BF]
-[f 0 5 65278][f 2 1]！）デバック用アクセサリ[n]スキルスロット２[n][e]
+[f 0 5 65278][f 2 1]！）デバック用アクセサリ スキルスロット２[n][e]
 
 [msg accessory_4C0]
-[f 0 5 65278][f 2 1]！）デバック用アクセサリ[n]スキルスロット１[n][e]
+[f 0 5 65278][f 2 1]！）デバック用アクセサリ スキルスロット１[n][e]
 
 [msg accessory_4C1]
-[f 0 5 65278][f 2 1]Adorno poseído por el poder de la curación.[n][f 0 1 3]Adquiere la habilidad Dia[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だぽよるょよ らよれまウぽよ らよる まゅ らよぽまる ぽま ゅぺ ぼゎるぺぼもカょテ[n][f 0 1 3]だぽりゎもまるま ゅぺ めぺほもゅもぽぺぽ っもぺ[f 0 1 0][n][e]
 
 [msg accessory_4C2]
-[f 0 5 65278][f 2 1]Adorno poseído por el poder del Fuego.[n][f 0 1 3]Adquiere la habilidad Agi[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だぽよるょよ らよれまウぽよ らよる まゅ らよぽまる ぽまゅ づゎまむよテ[n][f 0 1 3]だぽりゎもまるま ゅぺ めぺほもゅもぽぺぽ だむも[f 0 1 0][n][e]
 
 [msg accessory_4C3]
-[f 0 5 65278][f 2 1]Adorno poseído por el poder psicoquinético.[n][f 0 1 3]Adquiere la habilidad Psi.[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だぽよるょよ らよれまウぽよ らよる まゅ らよぽまる られもぼよりゎもょイろもぼよテ[n][f 0 1 3]だぽりゎもまるま ゅぺ めぺほもゅもぽぺぽ はれもテ[f 0 1 0][n][e]
 
 [msg accessory_4C4]
-[f 0 5 65278][f 2 1]Figura de gato que trae buena fortuna.[n][f 0 1 3]Obtén 10% m茨s de dinero en batalla[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づもむゎるぺ ぽま むぺろよ りゎま ろるぺま ほゎまょぺ みよるろゎょぺテ [f 0 1 3]のほろイょ[n]ソゼ% ゆァれ ぽま ぽもょまるよ まょ ほぺろぺゅゅぺ[f 0 1 0][n][e]
 
 [msg accessory_4C5]
-[f 0 5 65278][f 2 1]Amuleto con un dios atrapado de Fuego y Hielo. [f 0 1 3]Prob. Baja de anular Fuego y Hielo[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ ぼよょ ゎょ ぽもよれ ぺろるぺらぺぽよ ぽま づゎまむよ を でもまゅよテ[n][f 0 1 3]はるよほテ ちぺゃぺ ぽま ぺょゎゅぺる づゎまむよ を でもまゅよ[f 0 1 0][n][e]
 
 [msg accessory_4C6]
-[f 0 5 65278][f 2 1]Amuleto con un dios atrapado de las tormentas.[n][f 0 1 3]Prob. Baja de anular Elec. y Viento[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゆゎゅまろよ ぼよょ ゎょ ぽもよれ ぺろるぺらぺぽよ ぽま ゅぺれ ろよるゆまょろぺれテ[n][f 0 1 3]はるよほテ ちぺゃぺ ぽま ぺょゎゅぺる つゅまぼテ を ふもまょろよ[f 0 1 0][n][e]
 
 [msg accessory_4C7]
-[f 0 5 65278][f 2 1]Figura de gato que atrae gran riqueza y suerte.[n][f 0 1 3]Obtén 15% m茨s dinero en batalla/Su +2[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]づもむゎるぺ ぽま むぺろよ りゎま ぺろるぺま むるぺょ るもりゎまんぺ を[n]れゎまるろまテ [f 0 1 3]のほろイょ ソチ% ゆァれ ぽもょまるよ まょ ほぺろぺゅゅぺギひゎ +ゾ[f 0 1 0][n][e]
 
 [msg accessory_4C8]
-[f 0 5 65278][f 2 1]Deflector de partículas y ondas mentales.[n][f 0 1 3]Prob. Baja de anular Nuclear y Psicoquinético[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っまみゅまぼろよる ぽま らぺるろウぼゎゅぺれ を よょぽぺれ ゆまょろぺゅまれテ[n][f 0 1 3]はるよほテ ちぺゃぺ ぽま ぺょゎゅぺる ねゎぼゅまぺる を はれもぼよりゎもょイろもぼよ[f 0 1 0][n][e]
 
 [msg accessory_4C9]
-[f 0 5 65278][f 2 1]Pomada inventada por un respetado médico.[n][f 0 1 3]Recupera PE cada turno[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はよゆぺぽぺ もょわまょろぺぽぺ らよる ゎょ るまれらまろぺぽよ ゆイぽもぼよテ[n][f 0 1 3]ぱまぼゎらまるぺ はつ ぼぺぽぺ ろゎるょよ[f 0 1 0][n][e]
 
 [msg accessory_4CA]
-[f 0 5 65278][f 2 1]Anillo en el que está atrapado el poder de un dios rugiente. [f 0 1 3]Coste Medio de PS[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ まょ まゅ りゎま まれろァ ぺろるぺらぺぽよ まゅ らよぽまる ぽま[n]ゎょ ぽもよれ るゎむもまょろまテ [f 0 1 3]ぢよれろま ぬまぽもよ ぽま はひ[f 0 1 0][n][e]
 
 [msg accessory_4CB]
-[f 0 5 65278][f 2 1]Anillo que aprovecha la energía de dimensiones superiores. [f 0 1 3]Coste Medio de PE[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ りゎま ぺらるよわまぼめぺ ゅぺ まょまるむウぺ ぽま ぽもゆまょれもよょまれ[n]れゎらまるもよるまれテ [f 0 1 3]ぢよれろま ぬまぽもよ ぽま はつ[f 0 1 0][n][e]
 
 [msg accessory_4CC]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Fr y Ma[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま づる を ぬぺ[f 0 1 0][n][e]
 
 [msg accessory_4CD]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Fr y Rs[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま づる を ぱれ[f 0 1 0][n][e]
 
 [msg accessory_4CE]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Fr y Ag[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま づる を だむ[f 0 1 0][n][e]
 
 [msg accessory_4CF]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Fr y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま づる を ひゎ[f 0 1 0][n][e]
 
 [msg accessory_4D0]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Ma y Rs[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま ぬぺ を ぱれ[f 0 1 0][n][e]
 
 [msg accessory_4D1]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Ma y Ag[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま ぬぺ を だむ[f 0 1 0][n][e]
 
 [msg accessory_4D2]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Ma y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま ぬぺ を ひゎ[f 0 1 0][n][e]
 
 [msg accessory_4D3]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Rs y Ag[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま ぱれ を だむ[f 0 1 0][n][e]
 
 [msg accessory_4D4]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Rs y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま ぱれ を ひゎ[f 0 1 0][n][e]
 
 [msg accessory_4D5]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia estad. de Ag y Su[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ まれろぺぽテ ぽま だむ を ひゎ[f 0 1 0][n][e]
 
 [msg accessory_4D6]
-[f 0 5 65278][f 2 1]アクセサリー　0x4D6　１行目[n]アクセサリー　0x4D6　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっヂ　１行目 アクセサリー　ゼゑダっヂ　２行目[n][e]
 
 [msg accessory_4D7]
-[f 0 5 65278][f 2 1]アクセサリー　0x4D7　１行目[n]アクセサリー　0x4D7　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっッ　１行目 アクセサリー　ゼゑダっッ　２行目[n][e]
 
 [msg accessory_4D8]
-[f 0 5 65278][f 2 1]アクセサリー　0x4D8　１行目[n]アクセサリー　0x4D8　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっツ　１行目 アクセサリー　ゼゑダっツ　２行目[n][e]
 
 [msg accessory_4D9]
-[f 0 5 65278][f 2 1]アクセサリー　0x4D9　１行目[n]アクセサリー　0x4D9　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっヅ　１行目 アクセサリー　ゼゑダっヅ　２行目[n][e]
 
 [msg accessory_4DA]
-[f 0 5 65278][f 2 1]アクセサリー　0x4DA　１行目[n]アクセサリー　0x4DA　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっだ　１行目 アクセサリー　ゼゑダっだ　２行目[n][e]
 
 [msg accessory_4DB]
-[f 0 5 65278][f 2 1]アクセサリー　0x4DB　１行目[n]アクセサリー　0x4DB　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっち　１行目 アクセサリー　ゼゑダっち　２行目[n][e]
 
 [msg accessory_4DC]
-[f 0 5 65278][f 2 1]アクセサリー　0x4DC　１行目[n]アクセサリー　0x4DC　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっぢ　１行目 アクセサリー　ゼゑダっぢ　２行目[n][e]
 
 [msg accessory_4DD]
-[f 0 5 65278][f 2 1]アクセサリー　0x4DD　１行目[n]アクセサリー　0x4DD　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっっ　１行目 アクセサリー　ゼゑダっっ　２行目[n][e]
 
 [msg accessory_4DE]
-[f 0 5 65278][f 2 1]アクセサリー　0x4DE　１行目[n]アクセサリー　0x4DE　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっつ　１行目 アクセサリー　ゼゑダっつ　２行目[n][e]
 
 [msg accessory_4DF]
-[f 0 5 65278][f 2 1]アクセサリー　0x4DF　１行目[n]アクセサリー　0x4DF　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダっづ　１行目 アクセサリー　ゼゑダっづ　２行目[n][e]
 
 [msg accessory_4E0]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E0　１行目[n]アクセサリー　0x4E0　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつゼ　１行目 アクセサリー　ゼゑダつゼ　２行目[n][e]
 
 [msg accessory_4E1]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E1　１行目[n]アクセサリー　0x4E1　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつソ　１行目 アクセサリー　ゼゑダつソ　２行目[n][e]
 
 [msg accessory_4E2]
-[f 0 5 65278][f 2 1]Orbe que doblega las leyes del universo.[n][f 0 1 3]Anula todo el daño excepto el Todopoderoso[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]のるほま りゎま ぽよほゅまむぺ ゅぺれ ゅまをまれ ぽまゅ ゎょもわまるれよテ[n][f 0 1 3]だょゎゅぺ ろよぽよ まゅ ぽぺォよ まゑぼまらろよ まゅ びよぽよらよぽまるよれよ[f 0 1 0][n][e]
 
 [msg accessory_4E3]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E3　１行目[n]アクセサリー　0x4E3　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつタ　１行目 アクセサリー　ゼゑダつタ　２行目[n][e]
 
 [msg accessory_4E4]
-[f 0 5 65278][f 2 1]Anillo tan poderoso que altera la esencia del portador. [f 0 1 3]Intercambia Máx. PS y PE[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ ろぺょ らよぽまるよれよ りゎま ぺゅろまるぺ ゅぺ まれまょぼもぺ[n]ぽまゅ らよるろぺぽよるテ [f 0 1 3]とょろまるぼぺゆほもぺ ぬァゑテ はひ を はつ[f 0 1 0][n][e]
 
 [msg accessory_4E5]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E5　１行目[n]アクセサリー　0x4E5　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつチ　１行目 アクセサリー　ゼゑダつチ　２行目[n][e]
 
 [msg accessory_4E6]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E6　１行目[n]アクセサリー　0x4E6　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつヂ　１行目 アクセサリー　ゼゑダつヂ　２行目[n][e]
 
 [msg accessory_4E7]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E7　１行目[n]アクセサリー　0x4E7　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつッ　１行目 アクセサリー　ゼゑダつッ　２行目[n][e]
 
 [msg accessory_4E8]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E8　１行目[n]アクセサリー　0x4E8　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつツ　１行目 アクセサリー　ゼゑダつツ　２行目[n][e]
 
 [msg accessory_4E9]
-[f 0 5 65278][f 2 1]アクセサリー　0x4E9　１行目[n]アクセサリー　0x4E9　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつヅ　１行目 アクセサリー　ゼゑダつヅ　２行目[n][e]
 
 [msg accessory_4EA]
-[f 0 5 65278][f 2 1]Brazalete que permite el uso de Holy Blessing.[n][f 0 1 3]Anula 1 Estado Alterado y 1 Atadura[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま りゎま らまるゆもろま まゅ ゎれよ ぽま でよゅを ちゅまれれもょむテ[n][f 0 1 3]だょゎゅぺ ソ つれろぺぽよ だゅろまるぺぽよ を ソ だろぺぽゎるぺ[f 0 1 0][n][e]
 
 [msg accessory_4EB]
-[f 0 5 65278][f 2 1]Brazalete que permite el uso de Magic Charge.[n][f 0 1 3]Prueba el poder de las habilidades m茨gicas[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま りゎま らまるゆもろま まゅ ゎれよ ぽま ぬぺむもぼ ぢめぺるむまテ[n][f 0 1 3]はるゎまほぺ まゅ らよぽまる ぽま ゅぺれ めぺほもゅもぽぺぽまれ ゆァむもぼぺれ[f 0 1 0][n][e]
 
 [msg accessory_4EC]
-[f 0 5 65278][f 2 1]Brazalete que permite el uso de Power Charge.[n][f 0 1 3]Prueba el poder de las habilidades de F胤sica[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま りゎま らまるゆもろま まゅ ゎれよ ぽま はよゐまる ぢめぺるむまテ[n][f 0 1 3]はるゎまほぺ まゅ らよぽまる ぽま ゅぺれ めぺほもゅもぽぺぽまれ ぽま づウれもぼぺ[f 0 1 0][n][e]
 
 [msg accessory_4ED]
-[f 0 5 65278][f 2 1]Brazalete que permite el uso de Dragon Cry.[n][f 0 1 3]Gran aumento de ataque/Actua primero[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ちるぺんぺゅまろま りゎま らまるゆもろま まゅ ゎれよ ぽま っるぺむよょ ぢるをテ[n][f 0 1 3]てるぺょ ぺゎゆまょろよ ぽま ぺろぺりゎまギだぼろゎぺ らるもゆまるよ[f 0 1 0][n][e]
 
 [msg accessory_4EE]
-[f 0 5 65278][f 2 1]アクセサリー　0x4EE　１行目[n]アクセサリー　0x4EE　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつつ　１行目 アクセサリー　ゼゑダつつ　２行目[n][e]
 
 [msg accessory_4EF]
-[f 0 5 65278][f 2 1]アクセサリー　0x4EF　１行目[n]アクセサリー　0x4EF　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダつづ　１行目 アクセサリー　ゼゑダつづ　２行目[n][e]
 
 [msg accessory_4F0]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F0　１行目[n]アクセサリー　0x4F0　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづゼ　１行目 アクセサリー　ゼゑダづゼ　２行目[n][e]
 
 [msg accessory_4F1]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F1　１行目[n]アクセサリー　0x4F1　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづソ　１行目 アクセサリー　ゼゑダづソ　２行目[n][e]
 
 [msg accessory_4F2]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F2　１行目[n]アクセサリー　0x4F2　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづゾ　１行目 アクセサリー　ゼゑダづゾ　２行目[n][e]
 
 [msg accessory_4F3]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F3　１行目[n]アクセサリー　0x4F3　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづタ　１行目 アクセサリー　ゼゑダづタ　２行目[n][e]
 
 [msg accessory_4F4]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F4　１行目[n]アクセサリー　0x4F4　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづダ　１行目 アクセサリー　ゼゑダづダ　２行目[n][e]
 
 [msg accessory_4F5]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F5　１行目[n]アクセサリー　0x4F5　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづチ　１行目 アクセサリー　ゼゑダづチ　２行目[n][e]
 
 [msg accessory_4F6]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F6　１行目[n]アクセサリー　0x4F6　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづヂ　１行目 アクセサリー　ゼゑダづヂ　２行目[n][e]
 
 [msg accessory_4F7]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F7　１行目[n]アクセサリー　0x4F7　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづッ　１行目 アクセサリー　ゼゑダづッ　２行目[n][e]
 
 [msg accessory_4F8]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F8　１行目[n]アクセサリー　0x4F8　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづツ　１行目 アクセサリー　ゼゑダづツ　２行目[n][e]
 
 [msg accessory_4F9]
-[f 0 5 65278][f 2 1]アクセサリー　0x4F9　１行目[n]アクセサリー　0x4F9　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづヅ　１行目 アクセサリー　ゼゑダづヅ　２行目[n][e]
 
 [msg accessory_4FA]
-[f 0 5 65278][f 2 1]アクセサリー　0x4FA　１行目[n]アクセサリー　0x4FA　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづだ　１行目 アクセサリー　ゼゑダづだ　２行目[n][e]
 
 [msg accessory_4FB]
-[f 0 5 65278][f 2 1]アクセサリー　0x4FB　１行目[n]アクセサリー　0x4FB　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづち　１行目 アクセサリー　ゼゑダづち　２行目[n][e]
 
 [msg accessory_4FC]
-[f 0 5 65278][f 2 1]アクセサリー　0x4FC　１行目[n]アクセサリー　0x4FC　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづぢ　１行目 アクセサリー　ゼゑダづぢ　２行目[n][e]
 
 [msg accessory_4FD]
-[f 0 5 65278][f 2 1]アクセサリー　0x4FD　１行目[n]アクセサリー　0x4FD　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづっ　１行目 アクセサリー　ゼゑダづっ　２行目[n][e]
 
 [msg accessory_4FE]
-[f 0 5 65278][f 2 1]アクセサリー　0x4FE　１行目[n]アクセサリー　0x4FE　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづつ　１行目 アクセサリー　ゼゑダづつ　２行目[n][e]
 
 [msg accessory_4FF]
-[f 0 5 65278][f 2 1]アクセサリー　0x4FF　１行目[n]アクセサリー　0x4FF　２行目[n][e]
+[f 0 5 65278][f 2 1]アクセサリー　ゼゑダづづ　１行目 アクセサリー　ゼゑダづづ　２行目[n][e]
 

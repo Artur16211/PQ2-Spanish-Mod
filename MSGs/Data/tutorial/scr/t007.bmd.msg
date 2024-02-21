@@ -1,3 +1,3 @@
 ﻿[msg MSG_TUTORIAL_BASE_RECOVE]
-[f 0 5 65278][f 2 1][n]Siempre que regreses al cine, recuperar茨s por completo[n]tus PS y PE [f 0 1 2](puntos de salud y puntos de habilidad)[f 0 1 0].[n][n]As胤 que cuando tu PS y PE est姻n muy bajos, juega[n]con precauci吋n y regresa al cine.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ひもまゆらるま りゎま るまむるまれまれ ぺゅ ぼもょまデ るまぼゎらまるぺるァれ らよる ぼよゆらゅまろよ[n]ろゎれ はひ を はつ [f 0 1 2]ドらゎょろよれ ぽま れぺゅゎぽ を らゎょろよれ ぽま めぺほもゅもぽぺぽナ[f 0 1 0]テ[n][n]だれウ りゎま ぼゎぺょぽよ ろゎ はひ を はつ まれろイょ ゆゎを ほぺゃよれデ ゃゎまむぺ[n]ぼよょ らるまぼぺゎぼもカょ を るまむるまれぺ ぺゅ ぼもょまテ[n][f 1 1][e]
 

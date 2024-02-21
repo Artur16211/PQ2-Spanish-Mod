@@ -1,7 +1,7 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Algunas Sombras tienen una barrera especial[n]conocida como la [f 0 1 2]Barrera de Afinidad[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]だゅむゎょぺれ ひよゆほるぺれ ろもまょまょ ゎょぺ ほぺるるまるぺ まれらまぼもぺゅ[n]ぼよょよぼもぽぺ ぼよゆよ ゅぺ [f 0 1 2]ちぺるるまるぺ ぽま だみもょもぽぺぽ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1][n]Cuando su Barrera de Afinidad est茨 activa, una Sombra[n]es resistente a las afinidades de tus ataques.[n][n]Sin embargo, si infliges [f 0 1 2]suficiente da隠o[f 0 1 0] o [f 0 1 2]cumples ciertas[n]condiciones[f 0 1 0], la barrera se desactivar茨 y la resistencia[n]de la Sombra cambiar茨.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Cuando la Barrera de Afinidad se desactiva, la [f 0 1 2]Sombra[n]cambiar茨 visiblemente[f 0 1 0].[n][n]Esto tambi姻n se reflejar茨 en los datos de la Sombra si[n]la Analizas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ぢゎぺょぽよ れゎ ちぺるるまるぺ ぽま だみもょもぽぺぽ まれろァ ぺぼろもわぺデ ゎょぺ ひよゆほるぺ[n]まれ るまれもれろまょろま ぺ ゅぺれ ぺみもょもぽぺぽまれ ぽま ろゎれ ぺろぺりゎまれテ[n][n]ひもょ まゆほぺるむよデ れも もょみゅもむまれ [f 0 1 2]れゎみもぼもまょろま ぽぺォよ[f 0 1 0] よ [f 0 1 2]ぼゎゆらゅまれ ぼもまるろぺれ[n]ぼよょぽもぼもよょまれ[f 0 1 0]デ ゅぺ ほぺるるまるぺ れま ぽまれぺぼろもわぺるァ を ゅぺ るまれもれろまょぼもぺ[n]ぽま ゅぺ ひよゆほるぺ ぼぺゆほもぺるァテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ぢゎぺょぽよ ゅぺ ちぺるるまるぺ ぽま だみもょもぽぺぽ れま ぽまれぺぼろもわぺデ ゅぺ [f 0 1 2]ひよゆほるぺ[n]ぼぺゆほもぺるァ わもれもほゅまゆまょろま[f 0 1 0]テ[n][n]つれろよ ろぺゆほもイょ れま るまみゅまゃぺるァ まょ ゅよれ ぽぺろよれ ぽま ゅぺ ひよゆほるぺ れも[n]ゅぺ だょぺゅもんぺれテ[n][f 1 1][e]
 

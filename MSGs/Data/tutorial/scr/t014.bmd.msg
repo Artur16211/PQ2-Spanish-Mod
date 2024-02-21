@@ -1,3 +1,3 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1][n]Finalizar una batalla con un Ataque Combinado[n]desencadenar茨 un [f 0 1 2]bono[f 0 1 0], 斡que otorga puntos[n]de experiencia adicionales![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]づもょぺゅもんぺる ゎょぺ ほぺろぺゅゅぺ ぼよょ ゎょ だろぺりゎま ぢよゆほもょぺぽよ[n]ぽまれまょぼぺぽまょぺるァ ゎょ [f 0 1 2]ほよょよ[f 0 1 0]デ ィりゎま よろよるむぺ らゎょろよれ[n]ぽま まゑらまるもまょぼもぺ ぺぽもぼもよょぺゅまれ![n][f 1 1][e]
 

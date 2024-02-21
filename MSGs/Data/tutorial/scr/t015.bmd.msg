@@ -1,3 +1,3 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1][n]Usar un [f 0 1 2]Ataque Combinado para derrotar a una Sombra[f 0 1 0][n]tendr茨 una peque隠a posibilidad de obtener [f 0 1 2]materiales[n]raros[f 0 1 0].[n][n]斡Estos se pueden vender en la tienda por un buen precio![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ぴれぺる ゎょ [f 0 1 2]だろぺりゎま ぢよゆほもょぺぽよ らぺるぺ ぽまるるよろぺる ぺ ゎょぺ ひよゆほるぺ[f 0 1 0][n]ろまょぽるァ ゎょぺ らまりゎまォぺ らよれもほもゅもぽぺぽ ぽま よほろまょまる [f 0 1 2]ゆぺろまるもぺゅまれ[n]るぺるよれ[f 0 1 0]テ[n][n]ィつれろよれ れま らゎまぽまょ わまょぽまる まょ ゅぺ ろもまょぽぺ らよる ゎょ ほゎまょ らるまぼもよ![n][f 1 1][e]
 

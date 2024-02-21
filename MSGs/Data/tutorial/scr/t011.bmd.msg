@@ -1,5 +1,5 @@
 ﻿[msg MSG_TUTORIAL_FOE2_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El color del[f 0 1 2] 胤cono de la flecha[f 0 1 0] muestra la disparidad[n]entre tu nivel y el de un FOE.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A medida que la disparidad disminuye, el color[n]pasar茨 de [f 0 1 2]rojo, a amarillo, a azul y a blanco[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Deber胤as evitar enfrentarte a FOEs con niveles[n]mucho m茨s altos que el tuyo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]つゅ ぼよゅよる ぽまゅ[f 0 1 2] ウぼよょよ ぽま ゅぺ みゅまぼめぺ[f 0 1 0] ゆゎまれろるぺ ゅぺ ぽもれらぺるもぽぺぽ[n]まょろるま ろゎ ょもわまゅ を まゅ ぽま ゎょ づのつテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]だ ゆまぽもぽぺ りゎま ゅぺ ぽもれらぺるもぽぺぽ ぽもれゆもょゎをまデ まゅ ぼよゅよる[n]らぺれぺるァ ぽま [f 0 1 2]るよゃよデ ぺ ぺゆぺるもゅゅよデ ぺ ぺんゎゅ を ぺ ほゅぺょぼよ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]っまほまるウぺれ まわもろぺる まょみるまょろぺるろま ぺ づのつれ ぼよょ ょもわまゅまれ[n]ゆゎぼめよ ゆァれ ぺゅろよれ りゎま まゅ ろゎをよテ[n][f 1 1][e]
 

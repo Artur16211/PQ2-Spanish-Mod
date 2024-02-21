@@ -1,4 +1,4 @@
 ﻿[msg MSG_TUTORIAL_DLC_SUB_PER]
-[f 0 5 65278][f 2 1][n]Las Personas Secundarias descargables pueden, al igual[n]que las normales, registrarse en las "Persona Films."[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Las Personas Secundarias descargables pueden ser[n]adquiridas a trav姻s de [f 0 1 2]DLC[f 0 1 0] en la pantalla de t胤tulo.[n][n]La primera vez que invocas una, es gratis.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]にぺれ はまるれよょぺれ ひまぼゎょぽぺるもぺれ ぽまれぼぺるむぺほゅまれ らゎまぽまょデ ぺゅ もむゎぺゅ[n]りゎま ゅぺれ ょよるゆぺゅまれデ るまむもれろるぺるれま まょ ゅぺれ "はまるれよょぺ づもゅゆれテ"[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]にぺれ はまるれよょぺれ ひまぼゎょぽぺるもぺれ ぽまれぼぺるむぺほゅまれ らゎまぽまょ れまる[n]ぺぽりゎもるもぽぺれ ぺ ろるぺわイれ ぽま [f 0 1 2]っにぢ[f 0 1 0] まょ ゅぺ らぺょろぺゅゅぺ ぽま ろウろゎゅよテ[n][n]にぺ らるもゆまるぺ わまん りゎま もょわよぼぺれ ゎょぺデ まれ むるぺろもれテ[n][f 1 1][e]
 

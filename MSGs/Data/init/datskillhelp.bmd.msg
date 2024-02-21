@@ -1,983 +1,983 @@
 [msg skill_000]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_001]
-[f 0 5 65278][f 2 1]Atq. f胤sico con el arma equipada.[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ぼよょ まゅ ぺるゆぺ まりゎもらぺぽぺテ[n][e]
 
 [msg skill_002]
-[f 0 5 65278][f 2 1]Atq. de fuego leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_003]
-[f 0 5 65278][f 2 1]Atq. de fuego medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_004]
-[f 0 5 65278][f 2 1]Atq. de fuego grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_005]
-[f 0 5 65278][f 2 1]Atq. de fuego leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_006]
-[f 0 5 65278][f 2 1]Atq. de fuego medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_007]
-[f 0 5 65278][f 2 1]Atq. de fuego grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_008]
-[f 0 5 65278][f 2 1]Atq. de fuego leve que[n]salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_009]
-[f 0 5 65278][f 2 1]Atq. de fuego severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ れまわまるよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_00A]
-[f 0 5 65278][f 2 1]0x00A[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゼだ[n][e]
 
 [msg skill_00B]
-[f 0 5 65278][f 2 1]0x00B[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゼち[n][e]
 
 [msg skill_00C]
-[f 0 5 65278][f 2 1]0x00C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゼぢ[n][e]
 
 [msg skill_00D]
-[f 0 5 65278][f 2 1]0x00D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゼっ[n][e]
 
 [msg skill_00E]
-[f 0 5 65278][f 2 1]Atq. de viento leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_00F]
-[f 0 5 65278][f 2 1]Atq. de viento medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_010]
-[f 0 5 65278][f 2 1]Atq. de viento grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_011]
-[f 0 5 65278][f 2 1]Atq. de viento leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_012]
-[f 0 5 65278][f 2 1]Atq. de viento medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_013]
-[f 0 5 65278][f 2 1]Atq. de viento grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_014]
-[f 0 5 65278][f 2 1]2-3 atqs. leves de viento a objetivos[n]aleatorios. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]ゾ-タ ぺろりれテ ゅまわまれ ぽま わもまょろよ ぺ よほゃまろもわよれ[n]ぺゅまぺろよるもよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_015]
-[f 0 5 65278][f 2 1]Atq. de viento severo que salpica[n]a ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ れまわまるよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ[n]ゅぺぽよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_016]
-[f 0 5 65278][f 2 1]0x016[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼソヂ[n][e]
 
 [msg skill_017]
-[f 0 5 65278][f 2 1]0x017[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼソッ[n][e]
 
 [msg skill_018]
-[f 0 5 65278][f 2 1]0x018[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼソツ[n][e]
 
 [msg skill_019]
-[f 0 5 65278][f 2 1]0x019[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼソヅ[n][e]
 
 [msg skill_01A]
-[f 0 5 65278][f 2 1]Atq. de hielo leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_01B]
-[f 0 5 65278][f 2 1]Atq. de hielo medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_01C]
-[f 0 5 65278][f 2 1]Atq. de hielo grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_01D]
-[f 0 5 65278][f 2 1]Atq. leve de hielo.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま ぽま めもまゅよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_01E]
-[f 0 5 65278][f 2 1]Atq. de hielo medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_01F]
-[f 0 5 65278][f 2 1]Atq. de hielo grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_020]
-[f 0 5 65278][f 2 1]2-4 atqs. de hielo medio a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-ダ ぺろりれテ ぽま めもまゅよ ゆまぽもよ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_021]
-[f 0 5 65278][f 2 1]Un atq. de hielo severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ぽま めもまゅよ れまわまるよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_022]
-[f 0 5 65278][f 2 1]Atq. leve de hielo que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま ぽま めもまゅよ りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_023]
-[f 0 5 65278][f 2 1]0x023[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゾタ[n][e]
 
 [msg skill_024]
-[f 0 5 65278][f 2 1]0x024[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゾダ[n][e]
 
 [msg skill_025]
-[f 0 5 65278][f 2 1]0x025[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゾチ[n][e]
 
 [msg skill_026]
-[f 0 5 65278][f 2 1]0x026[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゾヂ[n][e]
 
 [msg skill_027]
-[f 0 5 65278][f 2 1]Atq. elec. leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_028]
-[f 0 5 65278][f 2 1]Atq. elec. medio[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゆまぽもよ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_029]
-[f 0 5 65278][f 2 1]Atq. elec. grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_02A]
-[f 0 5 65278][f 2 1]Atq. elec. leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_02B]
-[f 0 5 65278][f 2 1]Atq. elec. medio[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゆまぽもよ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_02C]
-[f 0 5 65278][f 2 1]Atq. elec. grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_02D]
-[f 0 5 65278][f 2 1]0x02D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼゾっ[n][e]
 
 [msg skill_02E]
-[f 0 5 65278][f 2 1]Un atq. elec. severo[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ まゅまぼテ れまわまるよ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_02F]
-[f 0 5 65278][f 2 1]Atq. proporcional elec.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ らるよらよるぼもよょぺゅ まゅまぼテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_030]
-[f 0 5 65278][f 2 1]Atq. elec. leve.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ ドソ みもゅぺナ[n][e]
 
 [msg skill_031]
-[f 0 5 65278][f 2 1]Atq. proporcional elec.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ らるよらよるぼもよょぺゅ まゅまぼテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_032]
-[f 0 5 65278][f 2 1]0x032[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼタゾ[n][e]
 
 [msg skill_033]
-[f 0 5 65278][f 2 1]Atq. medio todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_034]
-[f 0 5 65278][f 2 1]Atq. todopoderoso grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_035]
-[f 0 5 65278][f 2 1]Atq. severo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_036]
-[f 0 5 65278][f 2 1]0x036[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼタヂ[n][e]
 
 [msg skill_037]
-[f 0 5 65278][f 2 1]Atq. Extremo todopoderoso.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ つゑろるまゆよ ろよぽよらよぽまるよれよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_038]
-[f 0 5 65278][f 2 1]Atq. Extremo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ つゑろるまゆよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_039]
-[f 0 5 65278][f 2 1]0x039[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼタヅ[n][e]
 
 [msg skill_03A]
-[f 0 5 65278][f 2 1]0x03A[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼタだ[n][e]
 
 [msg skill_03B]
-[f 0 5 65278][f 2 1]0x03B[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼタち[n][e]
 
 [msg skill_03C]
-[f 0 5 65278][f 2 1]0x03C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼタぢ[n][e]
 
 [msg skill_03D]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ ドだろりテ[n]ぽま ほまょぽもぼもカょナ[n][e]
 
 [msg skill_03E]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ[n]ドだろりテ ぽま ほまょぽもぼもカょナ[n][e]
 
 [msg skill_03F]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_040]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_041]
-[f 0 5 65278][f 2 1]0x041[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダソ[n][e]
 
 [msg skill_042]
-[f 0 5 65278][f 2 1]0x042[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダゾ[n][e]
 
 [msg skill_043]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. alta de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ぺゅろぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_044]
-[f 0 5 65278][f 2 1]0x044[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダダ[n][e]
 
 [msg skill_045]
-[f 0 5 65278][f 2 1]0x045[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダチ[n][e]
 
 [msg skill_046]
-[f 0 5 65278][f 2 1]0x046[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダヂ[n][e]
 
 [msg skill_047]
-[f 0 5 65278][f 2 1]0x047[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダッ[n][e]
 
 [msg skill_048]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ ドだろりテ[n]ぽま ゆぺゅぽもぼもカょナ[n][e]
 
 [msg skill_049]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ[n]ドだろりテ ぽま ゆぺゅぽもぼもカょナ[n][e]
 
 [msg skill_04A]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_04B]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_04C]
-[f 0 5 65278][f 2 1]0x04C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダぢ[n][e]
 
 [msg skill_04D]
-[f 0 5 65278][f 2 1]0x04D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダっ[n][e]
 
 [msg skill_04E]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. alta de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ぺゅろぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_04F]
-[f 0 5 65278][f 2 1]0x04F[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼダづ[n][e]
 
 [msg skill_050]
-[f 0 5 65278][f 2 1]0x050[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼチゼ[n][e]
 
 [msg skill_051]
-[f 0 5 65278][f 2 1]0x051[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼチソ[n][e]
 
 [msg skill_052]
-[f 0 5 65278][f 2 1]0x052[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼチゾ[n][e]
 
 [msg skill_053]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Confusi吋n[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_054]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Confusi吋n[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_055]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Env.[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_056]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Env.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま つょわテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_057]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Ceguera[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢまむゎまるぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_058]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Ceguera[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢまむゎまるぺ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_059]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Sue隠o[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_05A]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Sue隠o[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_05B]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Maldición[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_05C]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Maldición[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_05D]
-[f 0 5 65278][f 2 1]0x05D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼチっ[n][e]
 
 [msg skill_05E]
-[f 0 5 65278][f 2 1]0x05E[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼチつ[n][e]
 
 [msg skill_05F]
-[f 0 5 65278][f 2 1]0x05F[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼチづ[n][e]
 
 [msg skill_060]
-[f 0 5 65278][f 2 1]0x060[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂゼ[n][e]
 
 [msg skill_061]
-[f 0 5 65278][f 2 1]0x061[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂソ[n][e]
 
 [msg skill_062]
-[f 0 5 65278][f 2 1]0x062[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂゾ[n][e]
 
 [msg skill_063]
-[f 0 5 65278][f 2 1]0x063[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂタ[n][e]
 
 [msg skill_064]
-[f 0 5 65278][f 2 1]0x064[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂダ[n][e]
 
 [msg skill_065]
-[f 0 5 65278][f 2 1]0x065[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂチ[n][e]
 
 [msg skill_066]
-[f 0 5 65278][f 2 1]0x066[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂヂ[n][e]
 
 [msg skill_067]
-[f 0 5 65278][f 2 1]0x067[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂッ[n][e]
 
 [msg skill_068]
-[f 0 5 65278][f 2 1]0x068[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂツ[n][e]
 
 [msg skill_069]
-[f 0 5 65278][f 2 1]0x069[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂヅ[n][e]
 
 [msg skill_06A]
-[f 0 5 65278][f 2 1]0x06A[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂだ[n][e]
 
 [msg skill_06B]
-[f 0 5 65278][f 2 1]0x06B[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂち[n][e]
 
 [msg skill_06C]
-[f 0 5 65278][f 2 1]0x06C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂぢ[n][e]
 
 [msg skill_06D]
-[f 0 5 65278][f 2 1]0x06D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂっ[n][e]
 
 [msg skill_06E]
-[f 0 5 65278][f 2 1]0x06E[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂつ[n][e]
 
 [msg skill_06F]
-[f 0 5 65278][f 2 1]0x06F[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼヂづ[n][e]
 
 [msg skill_070]
-[f 0 5 65278][f 2 1]0x070[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッゼ[n][e]
 
 [msg skill_071]
-[f 0 5 65278][f 2 1]0x071[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッソ[n][e]
 
 [msg skill_072]
-[f 0 5 65278][f 2 1]0x072[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッゾ[n][e]
 
 [msg skill_073]
-[f 0 5 65278][f 2 1]0x073[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッタ[n][e]
 
 [msg skill_074]
-[f 0 5 65278][f 2 1]0x074[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッダ[n][e]
 
 [msg skill_075]
-[f 0 5 65278][f 2 1]0x075[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッチ[n][e]
 
 [msg skill_076]
-[f 0 5 65278][f 2 1]0x076[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッヂ[n][e]
 
 [msg skill_077]
-[f 0 5 65278][f 2 1]0x077[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッッ[n][e]
 
 [msg skill_078]
-[f 0 5 65278][f 2 1]0x078[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッツ[n][e]
 
 [msg skill_079]
-[f 0 5 65278][f 2 1]0x079[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッヅ[n][e]
 
 [msg skill_07A]
-[f 0 5 65278][f 2 1]0x07A[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッだ[n][e]
 
 [msg skill_07B]
-[f 0 5 65278][f 2 1]0x07B[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッち[n][e]
 
 [msg skill_07C]
-[f 0 5 65278][f 2 1]0x07C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッぢ[n][e]
 
 [msg skill_07D]
-[f 0 5 65278][f 2 1]0x07D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッっ[n][e]
 
 [msg skill_07E]
-[f 0 5 65278][f 2 1]0x07E[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッつ[n][e]
 
 [msg skill_07F]
-[f 0 5 65278][f 2 1]0x07F[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼッづ[n][e]
 
 [msg skill_080]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_081]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. [f 0 1 2]Reduce[n]el atq.[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_082]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. [f 0 1 2]Reduce[n]el atq.[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_083]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve que se salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま りゎま れま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_084]
-[f 0 5 65278][f 2 1]2 atq. f胤sicos leves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ゾ ぺろりテ みウれもぼよれ ゅまわまれテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま[n]まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_085]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media de Atadura de Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_086]
-[f 0 5 65278][f 2 1]3 atq. f胤sicos medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]タ ぺろりテ みウれもぼよれ ゆまぽもよれテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま[n]まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_087]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_088]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media de Atadura de Agilidad[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_089]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_08A]
-[f 0 5 65278][f 2 1]2-6 atq. f胤sicos leves a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ゾ-ヂ ぺろりテ みウれもぼよれ ゅまわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_08B]
-[f 0 5 65278][f 2 1]Atq. de hielo leve que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_08C]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. [f 0 1 4]Si no se hace da隠o durante el[n]turno, el atq. extra activa[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ [f 0 1 4]ひも ょよ れま めぺぼま ぽぺォよ ぽゎるぺょろま[n]まゅ ろゎるょよデ まゅ ぺろりテ まゑろるぺ ぺぼろもわぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_08D]
 [f 0 5 65278][f 2 1]※[n][e]
 
 [msg skill_08E]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, [f 0 1 2]con alta[n]prob. de Env.[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ [f 0 1 2]ぼよょ ぺゅろぺ らるよほテ ぽま つょわテ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_08F]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, [f 0 1 2]da隠o m茨s alto si[n]el objetivo tiene un est. alterado[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ よほゃまろもわよ[n]ろもまょま ゎょ まれろテ ぺゅろまるぺぽよ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_090]
-[f 0 5 65278][f 2 1]2-6 atq. f胤sicos medios. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ゾ-ヂ ぺろりテ みウれもぼよれ ゆまぽもよれテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ[n]みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_091]
-[f 0 5 65278][f 2 1]Atq. leve psicoquinético que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま られもぼよりゎもょイろもぼよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ[n]ゅぺぽよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_092]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media de Atadura M茨gica[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぬァむもぼぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_093]
-[f 0 5 65278][f 2 1]Atqs. f胤sicos leves a objetivos aleatorios, [f 0 1 4]m茨s[n]fuerte por cada golpe[f 0 1 0] (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりれテ みウれもぼよれ ゅまわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれデ[n][f 0 1 4]ゆァれ みゎまるろま らよる ぼぺぽぺ むよゅらま[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_094]
 [f 0 5 65278][f 2 1]※[n][e]
 
 [msg skill_095]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media de Atadura F胤sica[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]づウれもぼぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_096]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve que perfora la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま りゎま らまるみよるぺ ゅぺ みもゅぺ ろるぺれまるぺテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_097]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura de Agilidad[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_098]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura F胤sica[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ づウれもぼぺ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_099]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura M茨gica[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_09A]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que perfora la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま らまるみよるぺ ゅぺ みもゅぺ ろるぺれまるぺテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_09B]
-[f 0 5 65278][f 2 1]2 Atqs. f胤sicos graves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ゾ だろりれテ みウれもぼよれ むるぺわまれテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ[n]みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_09C]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave. [f 0 1 2]Reduce el[n]atq.[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_09D]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave que afecta hasta la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわま りゎま ぺみまぼろぺ めぺれろぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_09E]
-[f 0 5 65278][f 2 1]6-8 Atqs. f胤sicos graves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ヂ-ツ だろりれテ みウれもぼよれ むるぺわまれテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ[n]みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_09F]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, [f 0 1 2]da隠o m茨s alto si[n]el objetivo est茨 atado, pero elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ よほゃまろもわよ[n]まれろァ ぺろぺぽよデ らまるよ まゅもゆもょぺ だろぺぽゎるぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0A0]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま[n]まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0A1]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Sueño[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0A2]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve inmediato. [f 0 1 2]Aumenta la defensa[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま もょゆまぽもぺろよテ [f 0 1 2]だゎゆまょろぺ ゅぺ[n]ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0A3]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ[n]ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0A4]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave. (Todos los enem.)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ[n]みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0A5]
-[f 0 5 65278][f 2 1]Atq. f胤sicos grave que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよれ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0A6]
-[f 0 5 65278][f 2 1]Atq. de hielo medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0A7]
-[f 0 5 65278][f 2 1]4 Atqs. f胤sicos graves. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ダ だろりれテ みウれもぼよれ むるぺわまれテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ[n]みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0A8]
-[f 0 5 65278][f 2 1]5-7 atq. f胤sicos medios a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]チ-ッ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0A9]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Confusi吋n[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0AA]
-[f 0 5 65278][f 2 1]Atq. nuclear leve que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0AB]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. (Todos los enem.)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ[n]みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0AC]
-[f 0 5 65278][f 2 1]Atq. f胤sico severo. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ れまわまるよテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま[n]まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0AD]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_0AE]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. [f 0 1 4]Si no recibes daño durante el turno, obtén un atq. adicional[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ [f 0 1 4]ひも ょよ るまぼもほまれ ぽぺォよ ぽゎるぺょろま[n]まゅ ろゎるょよデ よほろイょ ゎょ ぺろりテ ぺぽもぼもよょぺゅ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0AF]
-[f 0 5 65278][f 2 1]Atq. todopoderoso grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0B0]
-[f 0 5 65278][f 2 1]Atq. severo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_0B1]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave. [f 0 1 4]Si no recibes daño durante el turno, obtén un atq. adicional[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ [f 0 1 4]ひも ょよ るまぼもほまれ ぽぺォよ ぽゎるぺょろま[n]まゅ ろゎるょよデ よほろイょ ゎょ ぺろりテ ぺぽもぼもよょぺゅ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0B2]
-[f 0 5 65278][f 2 1]Atq. f胤sico severo. (1 Enemigo)[n][f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ れまわまるよテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま[n]まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0B3]
-[f 0 5 65278][f 2 1]3 atq. f胤sicos graves a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]タ ぺろりテ みウれもぼよれ むるぺわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0B4]
-[f 0 5 65278][f 2 1]8 atq. f胤sicos medios a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ツ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0B5]
-[f 0 5 65278][f 2 1]3-8 atq. f胤sicos graves a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]タ-ツ ぺろりテ みウれもぼよれ むるぺわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0B6]
-[f 0 5 65278][f 2 1]3-6 atq. f胤sicos medios a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]タ-ヂ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0B7]
-[f 0 5 65278][f 2 1]3-10 Atqs. f胤sicos severos a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]タ-ソゼ だろりれテ みウれもぼよれ れまわまるよれ ぺ よほゃまろもわよれ[n]ぺゅまぺろよるもよれテ ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_0B8]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. de[n]Muerte Inst.[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぽま ぬゎまるろま とょれろテ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0B9]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_0BA]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_0BB]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_0BC]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob.[n]de media de Env.[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ぽま ゆまぽもぺ ぽま[n]つょわテ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0BD]
-[f 0 5 65278][f 2 1]Atq. de fuego leve que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0BE]
-[f 0 5 65278][f 2 1]Atq. de hielo grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0BF]
-[f 0 5 65278][f 2 1]Atq. elec. leve que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0C0]
-[f 0 5 65278][f 2 1]Atq. de viento leve que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0C1]
-[f 0 5 65278][f 2 1]2 atq. medios todopoderoso.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ゾ ぺろりテ ゆまぽもよれ ろよぽよらよぽまるよれよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0C2]
-[f 0 5 65278][f 2 1]2-5 Atqs. medios todopoderoso, ataca a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-チ だろりれテ ゆまぽもよれ ろよぽよらよぽまるよれよデ ぺろぺぼぺ ぺ[n]よほゃまろもわよれ ぺゅまぺろよるもよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_0C3]
-[f 0 5 65278][f 2 1]Atq. todopoderoso grave, con [f 0 1 2]prob.[n]de Muerte Instant茨nea[f 0 1 0] (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ぽま ぬゎまるろま[n]とょれろぺょろァょまぺ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_0C4]
-[f 0 5 65278][f 2 1]Atq. todopoderoso grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_0C5]
-[f 0 5 65278][f 2 1]Atq. severo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_0C6]
-[f 0 5 65278][f 2 1]Atq. elec. medio que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゆまぽもよ りゎま れま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0C7]
-[f 0 5 65278][f 2 1]Atq. elec. grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0C8]
-[f 0 5 65278][f 2 1]Atq. de fuego medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0C9]
-[f 0 5 65278][f 2 1]Atq. de fuego grave que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぼゎぺゅりゎもまる[n]ゅぺぽよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0CA]
-[f 0 5 65278][f 2 1]Atq. de viento medio que brota a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゆまぽもよ りゎま ほるよろぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0CB]
-[f 0 5 65278][f 2 1]Atq. de viento grave que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぼゎぺゅりゎもまる[n]ゅぺぽよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0CC]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま[n]ぬぺゅぽもぼもカょ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0CD]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media de Maldición[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま[n]ぬぺゅぽもぼもカょ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_0CE]
-[f 0 5 65278][f 2 1]0x0CE[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼぢつ[n][e]
 
 [msg skill_0CF]
-[f 0 5 65278][f 2 1]0x0CF[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼぢづ[n][e]
 
 [msg skill_0D0]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_0D1]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. leve de PS[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0D2]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0D3]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura todos los PS[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ろよぽよれ ゅよれ はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0D4]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. leve de PS[f 0 1 0][n](1 fila) (S吋lo usable en la batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ドソ みもゅぺナ ドひカゅよ ゎれぺほゅま まょ ゅぺ[n]ほぺろぺゅゅぺナ[n][e]
 
 [msg skill_0D5]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0][n](1 fila) (S吋lo usable en la batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドソ みもゅぺナ ドひカゅよ ゎれぺほゅま まょ[n]ゅぺ ほぺろぺゅゅぺナ[n][e]
 
 [msg skill_0D6]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. leve de PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_0D7]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_0D8]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura todos los PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ろよぽよれ ゅよれ はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_0D9]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive y restaura una cantidad media de PS[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまわもわま を るまれろぺゎるぺ ゎょぺ ぼぺょろもぽぺぽ ゆまぽもぺ ぽま はひ[f 0 1 0][n]ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0DA]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive y restaura todos los PS[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまわもわま を るまれろぺゎるぺ ろよぽよれ ゅよれ はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0DB]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar Desventajas[f 0 1 0][n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺる っまれわまょろぺゃぺれ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar Desventajas[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺる っまれわまょろぺゃぺれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_0DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Cura los est. alterados[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぢゎるぺ ゅよれ まれろテ ぺゅろまるぺぽよれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_0DE]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente los PS y elimina est. alterados[f 0 1 0][n](1 fila) (S吋lo en batalla)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま ゅよれ はひ を まゅもゆもょぺ まれろテ[n]ぺゅろまるぺぽよれ[f 0 1 0] ドソ みもゅぺナ ドひカゅよ まょ ほぺろぺゅゅぺナ[n][e]
 
 [msg skill_0DF]
-[f 0 5 65278][f 2 1][f 0 1 4]Cura los est. alterados[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぢゎるぺ ゅよれ まれろテ ぺゅろまるぺぽよれ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_0E0]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar Ataduras[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺる だろぺぽゎるぺれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_0E1]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar Ataduras[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺる だろぺぽゎるぺれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_0E2]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar Ataduras[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺる だろぺぽゎるぺれ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_0E3]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. de PS completa. Elimina todos los[n]est. alterados y Ataduras[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ぽま はひ ぼよゆらゅまろぺテ つゅもゆもょぺ ろよぽよれ ゅよれ まれろテ[n]ぺゅろまるぺぽよれ を だろぺぽゎるぺれ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0E4]
-[f 0 5 65278][f 2 1]0x0E4[n][e]
+[f 0 5 65278][f 2 1]ゼゑゼつダ[n][e]
 
 [msg skill_0E5]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_0E6]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el atq.[f 0 1 0] por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だぼろグぺ らるもゆまるよ を ぺゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_0E7]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta enormemente el[n]atq.[f 0 1 0] por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だぼろグぺ らるもゆまるよ を ぺゎゆまょろぺ まょよるゆまゆまょろま まゅ ぺろりテ[f 0 1 0][n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_0E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta las habilidades de enlace y prob.[n]de da隠o de enlace[f 0 1 0] por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺれ めぺほもゅもぽぺぽまれ ぽま まょゅぺぼま を らるよほテ ぽま[n]ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_0E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta las habilidades de enlace y prob.[n]de da隠o enlace[f 0 1 0] por 5 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺれ めぺほもゅもぽぺぽまれ ぽま まょゅぺぼま を らるよほテ ぽま[n]ぽぺォよ まょゅぺぼま[f 0 1 0] らよる チ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_0EA]
-[f 0 5 65278][f 2 1]Anula el siguiente atq. de Físico una vez.[n]Dura 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]だょゎゅぺ まゅ れもむゎもまょろま ぺろりテ ぽま づウれもぼよ ゎょぺ わまんテ[n]っゎるぺ タ ろゎるょよれテ[n][e]
 
 [msg skill_0EB]
-[f 0 5 65278][f 2 1]Aumenta la defensa F胤sica y de afinidad[n]por 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ ぽまみまょれぺ づウれもぼぺ を ぽま ぺみもょもぽぺぽ らよる[n]タ ろゎるょよれテ[n][e]
 
 [msg skill_0EC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y prob.[n]de ser atacado por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよほテ ぽま れまる ぺろぺぼぺぽよ[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_0ED]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a un aliado.[n][f 0 1 4]Defensa adicional al protegerse[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゎょ ぺゅもぺぽよテ[n][f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまるれま[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_0EE]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al protegerse[f 0 1 0] (Fila del usuario)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゅよれ ぺゅもぺぽよれテ[n][f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまるれま[f 0 1 0] ドづもゅぺ ぽまゅ ゎれゎぺるもよナ[n][e]
 
 [msg skill_0EF]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al protegerse[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゅよれ ぺゅもぺぽよれテ[n][f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまるれま[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_0F0]
-[f 0 5 65278][f 2 1]Recibe atq. en lugar de cualquier aliado[n]con menos del 50% de PS durante 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]ぱまぼもほま ぺろりテ まょ ゅゎむぺる ぽま ぼゎぺゅりゎもまる ぺゅもぺぽよ ぼよょ[n]ゆまょよれ ぽまゅ チゼ% ぽま はひ ぽゎるぺょろま タ ろゎるょよれテ[n][e]
 
 [msg skill_0F1]
-[f 0 5 65278][f 2 1]Anula un est. alterado y Ataduras una vez[n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だょゎゅぺ ゎょ まれろテ ぺゅろまるぺぽよ を だろぺぽゎるぺれ ゎょぺ わまん[n]らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_0F2]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq.[f 0 1 0] por 3 turnos.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_0F3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_0F4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prob. de cr胤ticos[f 0 1 0] por 1 turno.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるよほテ ぽま ぼるウろもぼよれ[f 0 1 0] らよる ソ ろゎるょよテ[n]ドソ みもゅぺナ[n][e]
 
 [msg skill_0F5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prob. de cr胤ticos[f 0 1 0] por 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるよほテ ぽま ぼるウろもぼよれ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_0F6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prob. de cr胤ticos[f 0 1 0] por 2 turnos.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるよほテ ぽま ぼるウろもぼよれ[f 0 1 0] らよる ゾ ろゎるょよれテ[n]ドソ みもゅぺナ[n][e]
 
 [msg skill_0F7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq.[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_0F8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_0F9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la eva.[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_0FA]
-[f 0 5 65278][f 2 1]Triplica el atq. f胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ みウれもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_0FB]
-[f 0 5 65278][f 2 1]Triplica el atq. M茨gico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ ぬァむもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_0FC]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_0FD]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_0FE]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_0FF]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_100]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_101]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_102]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_103]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_104]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_105]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el atq.[f 0 1 0] por 3 turnos.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_106]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la defensa[f 0 1 0] por 3 turnos.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_107]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la prec. y eva.[f 0 1 0] por 3 turnos.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ らるまぼテ を まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドびよぽよれ[n]ゅよれ まょまゆテナ[n][e]
 
 [msg skill_108]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_109]
-[f 0 5 65278][f 2 1]Triplica el atq. f胤sico del siguiente golpe[n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ みウれもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_10A]
-[f 0 5 65278][f 2 1]Triplica el atq. M茨gico del siguiente golpe[n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ ぬァむもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_10B]
-[f 0 5 65278][f 2 1]0x10B[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゼち[n][e]
 
 [msg skill_10C]
-[f 0 5 65278][f 2 1]Extiende los est. alterados[n]y Ataduras. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]つゑろもまょぽま ゅよれ まれろテ ぺゅろまるぺぽよれ を だろぺぽゎるぺれテ ドびよぽよれ[n]ゅよれ まょまゆテナ[n][e]
 
 [msg skill_10D]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 2]Atadura de[n]Magia/Fuerza/Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぽま ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_10E]
-[f 0 5 65278][f 2 1]0x10E[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゼつ[n][e]
 
 [msg skill_10F]
-[f 0 5 65278][f 2 1]0x10F[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゼづ[n][e]
 
 [msg skill_110]
-[f 0 5 65278][f 2 1]NO USTED[n][e]
+[f 0 5 65278][f 2 1]ねの ぴひびつっ[n][e]
 
 [msg skill_111]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina las Ventajas[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅぺれ ふまょろぺゃぺれ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_112]
-[f 0 5 65278][f 2 1][f 0 1 4]Eliminar Desventajas[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺる っまれわまょろぺゃぺれ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_113]
-[f 0 5 65278][f 2 1]Reduce el per胤odo de sobrecalentamiento[n]en 2 Turnos.[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま まゅ らまるウよぽよ ぽま れよほるまぼぺゅまょろぺゆもまょろよ まょ[n]ゾ びゎるょよれテ[n][e]
 
 [msg skill_114]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de psicoquinético[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぽま られもぼよりゎもょイろもぼよ[f 0 1 0][n]らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_115]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia nuclear[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ょゎぼゅまぺる[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_116]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al fuego[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺゅ みゎまむよ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_117]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de viento[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぽま わもまょろよ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_118]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia de hielo[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぽま めもまゅよ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_119]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia elec.[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ まゅまぼテ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_11A]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la bendici吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ ほまょぽもぼもカょ[f 0 1 0] らよる[n]タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_11B]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la maldici吋n[f 0 1 0][n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ ゆぺゅぽもぼもカょ[f 0 1 0] らよる[n]タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_11C]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el ataque[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろぺりゎま[f 0 1 0] らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_11D]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_11E]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la eva.[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ[n]だゅもぺぽよナ[n][e]
 
 [msg skill_11F]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el atq.[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_120]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el defensa[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_121]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la prec. y eva.[f 0 1 0][n]por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ らるまぼテ を まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ[n]つょまゆもむよナ[n][e]
 
 [msg skill_122]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el atq./defensa y prec./[n]eva.[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぺろりテギぽまみまょれぺ を らるまぼテギ まわぺテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_123]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq./defensa y prec./[n]eva.[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテギぽまみまょれぺ を らるまぼテギ まわぺテ[f 0 1 0] らよる[n]タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_124]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prob. crítica[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるよほテ ぼるウろもぼぺ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_125]
-[f 0 5 65278][f 2 1]3 Atqs. todopoderosos graves, 1 por cada[n]turno. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]タ だろりれテ ろよぽよらよぽまるよれよれ むるぺわまれデ ソ らよる ぼぺぽぺ[n]ろゎるょよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_126]
-[f 0 5 65278][f 2 1]0x126[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゾヂ[n][e]
 
 [msg skill_127]
-[f 0 5 65278][f 2 1]3-6 Atqs. f胤sicos graves cada turno por 3[n]turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]タ-ヂ だろりれテ みウれもぼよれ むるぺわまれ ぼぺぽぺ ろゎるょよ らよる タ[n]ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_128]
-[f 0 5 65278][f 2 1]0x128[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゾツ[n][e]
 
 [msg skill_129]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula 1 atq.[f 0 1 0] en cada[n]turno por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ ソ ぺろりテ[f 0 1 0] まょ ぼぺぽぺ ろゎるょよ らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_12A]
-[f 0 5 65278][f 2 1]0x12A[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゾだ[n][e]
 
 [msg skill_12B]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS y elimina los est. alterados/Ataduras[n][f 0 1 0] cada turno por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ はひ を まゅもゆもょぺ ゅよれ まれろテ ぺゅろまるぺぽよれギだろぺぽゎるぺれ[n][f 0 1 0] ぼぺぽぺ ろゎるょよ らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_12C]
-[f 0 5 65278][f 2 1]0x12C[n][e]
+[f 0 5 65278][f 2 1]ゼゑソゾぢ[n][e]
 
 [msg skill_12D]
-[f 0 5 65278][f 2 1]Atq. psicoquinético medio que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ ゆまぽもよ りゎま れま れぺゅらもぼぺ ぺ[n]ぺゆほよれ ゅぺぽよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_12E]
-[f 0 5 65278][f 2 1]Atq. psicoquinético grave que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ[n]ゅぺぽよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_12F]
-[f 0 5 65278][f 2 1]Atq. nuclear medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_130]
-[f 0 5 65278][f 2 1]Atq. nuclear grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_131]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. alta[n]de Sueño[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま ひゎまォよ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_132]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. alta[n]de Confusi吋n[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_133]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ もょゆまぽもぺろよテ [f 0 1 2]ぱまぽゎぼま ゅぺ[n]ぽまみまょれぺ[f 0 1 0] らよる ソ ろゎるょよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_134]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave inmediato. [f 0 1 2]Reduce la[n]defensa[f 0 1 0] por 1 turno. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわま もょゆまぽもぺろよテ [f 0 1 2]ぱまぽゎぼま ゅぺ[n]ぽまみまょれぺ[f 0 1 0] らよる ソ ろゎるょよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_135]
-[f 0 5 65278][f 2 1]0x135[n][e]
+[f 0 5 65278][f 2 1]ゼゑソタチ[n][e]
 
 [msg skill_136]
-[f 0 5 65278][f 2 1]0x136[n][e]
+[f 0 5 65278][f 2 1]ゼゑソタヂ[n][e]
 
 [msg skill_137]
-[f 0 5 65278][f 2 1]0x137[n][e]
+[f 0 5 65278][f 2 1]ゼゑソタッ[n][e]
 
 [msg skill_138]
-[f 0 5 65278][f 2 1]0x138[n][e]
+[f 0 5 65278][f 2 1]ゼゑソタツ[n][e]
 
 [msg skill_139]
-[f 0 5 65278][f 2 1](Navi: Batalla) Desbloquea todos los[n]detalles de afinidad. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ っまれほゅよりゎまぺ ろよぽよれ ゅよれ ぽまろぺゅゅまれ[n]ぽま ぺみもょもぽぺぽテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_13A]
-[f 0 5 65278][f 2 1](Navi: Batalla) Desbloquea todos los[n]detalles de afinidad. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ っまれほゅよりゎまぺ ろよぽよれ ゅよれ ぽまろぺゅゅまれ[n]ぽま ぺみもょもぽぺぽテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_13B]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Reduce el costo[n]de habilidad a 0[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまぽゎぼま まゅ ぼよれろよ ぽま めぺほもゅもぽぺぽ[n]ぺ ゼ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_13C]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Reduce el costo[n]de habilidad a 0[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまぽゎぼま まゅ ぼよれろよ ぽま めぺほもゅもぽぺぽ[n]ぺ ゼ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_13D]
-[f 0 5 65278][f 2 1](Navi: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ つゑろもまょぽま ゅぺれ ふまょろぺゃぺれ らよる タ[n]ろゎるょよれ ぺぽもぼもよょぺゅまれテ ドてるゎらよナ[n][e]
 
 [msg skill_13E]
-[f 0 5 65278][f 2 1](Navi: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ つゑろもまょぽま ゅぺれ ふまょろぺゃぺれ らよる タ[n]ろゎるょよれ ぺぽもぼもよょぺゅまれテ ドてるゎらよナ[n][e]
 
 [msg skill_13F]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el atq./defensa[n]y prec./eva.[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ まゅ ぺろりテギぽまみまょれぺ を[n]らるまぼテギまわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_140]
-[f 0 5 65278][f 2 1](Navi: Batalla) Otorga un efecto beneficioso aleatorio. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ のろよるむぺ ゎょ まみまぼろよ ほまょまみもぼもよれよ[n]ぺゅまぺろよるもよテ ドてるゎらよナ[n][e]
 
 [msg skill_141]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_142]
-[f 0 5 65278][f 2 1](Navi: Batalla) Huye de la batalla y transpórtate a la entrada del piso. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ でゎをま ぽま ゅぺ ほぺろぺゅゅぺ を ろるぺょれらカるろぺろま[n]ぺ ゅぺ まょろるぺぽぺ ぽまゅ らもれよテ ドてるゎらよナ[n][e]
 
 [msg skill_143]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_144]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_145]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Prob. alta de[n]evitar emboscadas enemigas[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]はるよほテ ぺゅろぺ ぽま まわもろぺる まゆほよれぼぺぽぺれ[n]まょまゆもむぺれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_146]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restaura 5%[n]de PS cada turno[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれろぺゎるぺ チ% ぽま はひ ぼぺぽぺ ろゎるょよ[f 0 1 0][n]ドだゎろよナ[n][e]
 
 [msg skill_147]
 [f 0 5 65278][f 2 1]??[n][e]
@@ -989,3515 +989,3515 @@
 [f 0 5 65278][f 2 1]??[n][e]
 
 [msg skill_14A]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restauración media de PS al final del[n] turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれろぺゎるぺぼもカょ ゆまぽもぺ ぽま はひ ぺゅ[n]みもょぺゅ ぽまゅ  ろゎるょよ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_14B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta ligeramente los art胤culos[n]en Puntos del Tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅよれ[n]ぺるろウぼゎゅよれ まょ はゎょろよれ ぽまゅ びまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_14C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta en gran medida los art胤culos[n]en Puntos del Tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]だゎゆまょろぺ まょ むるぺょ ゆまぽもぽぺ ゅよれ[n]ぺるろウぼゎゅよれ まょ はゎょろよれ ぽまゅ びまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_14D]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restauración media de PS al final del[n] turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれろぺゎるぺぼもカょ ゆまぽもぺ ぽま はひ ぺゅ[n]みもょぺゅ ぽまゅ  ろゎるょよ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_14E]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_14F]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Res.[n]leve de PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_150]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Res.[n]media de PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_151]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Res.[n]leve de PS al final del turno[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれテ ゅまわま ぽま はひ ぺゅ みもょぺゅ[n]ぽまゅ ろゎるょよ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_152]
-[f 0 5 65278][f 2 1](Navi: Batalla) Permite que alguien[n]act雨e primero durante el turno. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ はまるゆもろま りゎま ぺゅむゎもまょ ぺぼろグま[n]らるもゆまるよ ぽゎるぺょろま まゅ ろゎるょよテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_153]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Revive y[n]restaura la mitad de PS[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまわもわま を るまれろぺゎるぺ ゅぺ ゆもろぺぽ[n]ぽま はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_154]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_155]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_156]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el atq.[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_157]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la prec.[n]y eva.[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を まわぺテ[f 0 1 0][n]らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_158]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restaura 20% de PS[n]despu姻s de la batalla[f 0 1 0] (Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれろぺゎるぺ ゾゼ% ぽま はひ ぽまれらゎイれ[n]ぽま ゅぺ ほぺろぺゅゅぺ[f 0 1 0] ドてるゎらよナ ドだゎろよナ[n][e]
 
 [msg skill_159]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Restaura todos los PS[n]despu姻s de la batalla[f 0 1 0] (Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまれろぺゎるぺ ろよぽよれ ゅよれ はひ ぽまれらゎイれ[n]ぽま ゅぺ ほぺろぺゅゅぺ[f 0 1 0] ドてるゎらよナ ドだゎろよナ[n][e]
 
 [msg skill_15A]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Prob. ligeramente menor de[n]batalla en Puntos del Tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]はるよほテ ゅもむまるぺゆまょろま ゆまょよる ぽま[n]ほぺろぺゅゅぺ まょ はゎょろよれ ぽまゅ びまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_15B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Prob. menor de[n]batalla en los Puntos del Tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]はるよほテ ゆまょよる ぽま ほぺろぺゅゅぺ まょ[n]ゅよれ はゎょろよれ ぽまゅ びまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_15C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta ligeramente la prob.[n]de objetos raros en Puntos de Tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ らるよほテ[n]ぽま よほゃまろよれ るぺるよれ まょ はゎょろよれ ぽま びまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_15D]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta enormemente la prob. [n]de objetos raros en Puntos del Tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]だゎゆまょろぺ まょよるゆまゆまょろま ゅぺ らるよほテ[n]ぽま よほゃまろよれ るぺるよれ まょ はゎょろよれ ぽまゅ びまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_15E]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だょゎゅぺ ろよぽよ まゅ ぽぺォよ[f 0 1 0] らよる ソ[n]ろゎるょよテ ドてるゎらよナ[n][e]
 
 [msg skill_15F]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Anula todo[n]el da隠o[f 0 1 0] por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だょゎゅぺ ろよぽよ まゅ ぽぺォよ[f 0 1 0] らよる ソ[n]ろゎるょよテ ドてるゎらよナ[n][e]
 
 [msg skill_160]
-[f 0 5 65278][f 2 1](Navi: Batalla) Permite que todos actúen primero durante el turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ はまるゆもろま りゎま ろよぽよれ ぺぼろグまょ[n]らるもゆまるよ ぽゎるぺょろま まゅ ろゎるょよテ ドてるゎらよナ[n][e]
 
 [msg skill_161]
-[f 0 5 65278][f 2 1](Navi: Batalla) Otorga un efecto beneficio aleatorio. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ のろよるむぺ ゎょ まみまぼろよ ほまょまみもぼもよ[n]ぺゅまぺろよるもよテ ドてるゎらよナ[n][e]
 
 [msg skill_162]
-[f 0 5 65278][f 2 1](Navi) Revive, restaura PS, y elimina[n]todas las Ataduras y est. alterados. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもナ ぱまわもわまデ るまれろぺゎるぺ はひデ を まゅもゆもょぺ ろよぽぺれ[n]ゅぺれ だろぺぽゎるぺれ を まれろテ ぺゅろまるぺぽよれテ ドてるゎらよナ[n][e]
 
 [msg skill_163]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el atq.[n]y defensa[f 0 1 0] por 1 turno. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ を ぽまみまょれぺ[f 0 1 0][n]らよる ソ ろゎるょよテ ドてるゎらよナ[n][e]
 
 [msg skill_164]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta el atq.[f 0 1 0] por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_165]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta la defensa[f 0 1 0] for 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] みよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_166]
-[f 0 5 65278][f 2 1](Navi: Batalla) Aumenta la Exp. en[n]esta batalla un 50%. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ だゎゆまょろぺ ゅぺ つゑらテ まょ まれろぺ[n]ほぺろぺゅゅぺ ゎょ チゼ%テ ドてるゎらよナ[n][e]
 
 [msg skill_167]
-[f 0 5 65278][f 2 1](Navi) Ranura de curación de apoyo.[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもナ ぱぺょゎるぺ ぽま ぼゎるぺぼもカょ ぽま ぺらよをよテ[n][e]
 
 [msg skill_168]
-[f 0 5 65278][f 2 1]0x168[n][e]
+[f 0 5 65278][f 2 1]ゼゑソヂツ[n][e]
 
 [msg skill_169]
-[f 0 5 65278][f 2 1](Navi: Batalla) Restaura PS y elimina todos[n]los est. alterados y Ataduras. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ ぱまれろぺゎるぺ はひ を まゅもゆもょぺ ろよぽよれ[n]ゅよれ まれろテ ぺゅろまるぺぽよれ を だろぺぽゎるぺれテ ドてるゎらよナ[n][e]
 
 [msg skill_16A]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Mayor prob.[n]de obtener un atq. preventivo[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]ぬぺをよる らるよほテ ぽま よほろまょまる ゎょ[n]ぺろりテ らるまわまょろもわよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_16B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra en el mapa los[n]cofres cercanos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ まょ まゅ ゆぺらぺ ゅよれ ぼよみるまれ[n]ぼまるぼぺょよれテ ドだゎろよナ[n][e]
 
 [msg skill_16C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama[n]de cofres del tesoro en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ ゎょぺ ぺゆらゅもぺ むぺゆぺ ぽま[n]ぼよみるまれ ぽまゅ ろまれよるよ まょ まゅ ゆぺらぺテ ドだゎろよナ[n][e]
 
 [msg skill_16D]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra pasajes ocultos[n]cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ らぺれぺゃまれ よぼゎゅろよれ[n]ぼまるぼぺょよれ まょ まゅ ゆぺらぺテ ドだゎろよナ[n][e]
 
 [msg skill_16E]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama[n]de pasajes ocultos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ ゎょぺ ぺゆらゅもぺ むぺゆぺ ぽま[n]らぺれぺゃまれ よぼゎゅろよれ まょ まゅ ゆぺらぺテ ドだゎろよナ[n][e]
 
 [msg skill_16F]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ づのつれギぼよみるまれギらぺれぺゃまれ[n]よぼゎゅろよれ ぼまるぼぺょよれ まょ まゅ ゆぺらぺテ ドだゎろよナ[n][e]
 
 [msg skill_170]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra una amplia gama de[n]FOEs/cofres/pasajes ocultos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ ゎょぺ ぺゆらゅもぺ むぺゆぺ ぽま[n]づのつれギぼよみるまれギらぺれぺゃまれ よぼゎゅろよれ まょ まゅ ゆぺらぺテ ドだゎろよナ[n][e]
 
 [msg skill_171]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Elimina todos los est. alterados[n]y Ataduras[f 0 1 0] [n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]つゅもゆもょぺ ろよぽよれ ゅよれ まれろテ[n]ぺゅろまるぺぽよれ を だろぺぽゎるぺれ[f 0 1 0] [n][e]
 
 [msg skill_172]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Aumenta la cantidad de objetos[n]encontrados en los puntos del tesoro[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]だゎゆまょろぺ ゅぺ ぼぺょろもぽぺぽ ぽま[n]よほゃまろよれ まょぼよょろるぺぽよれ まょ ゅよれ らゎょろよれ ぽまゅ ろまれよるよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_173]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Reduce el coste[n]de habilidad a 0[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]ぱまぽゎぼま まゅ ぼよれろま ぽま めぺほもゅもぽぺぽ[n]ぺ ゼ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_174]
-[f 0 5 65278][f 2 1](Navi: Batalla) Extiende las Ventajas por[n]3 turnos adicionales. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ つゑろもまょぽま ゅぺれ ふまょろぺゃぺれ らよる タ[n]ろゎるょよれ ぺぽもぼもよょぺゅまれテ ドてるゎらよナ[n][e]
 
 [msg skill_175]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Menor prob.[n]de emboscadas[f 0 1 0] en los puntos de tesoro. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]ぬまょよる らるよほテ ぽま まゆほよれぼぺぽぺれ[f 0 1 0][n]まょ ゅよれ らゎょろよれ ぽま ろまれよるよテ ドだゎろよナ[n][e]
 
 [msg skill_176]
-[f 0 5 65278][f 2 1](Navi: Batalla) Huye de la batalla y teletransporate a la entrada del piso. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ でゎをま ぽま ゅぺ ほぺろぺゅゅぺ を[n]ろまゅまろるぺょれらよるぺろま ぺ ゅぺ まょろるぺぽぺ ぽまゅ らもれよテ ドてるゎらよナ[n][e]
 
 [msg skill_177]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq., Elimina las Ataduras,[n]y a隠ade Boost[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテデ つゅもゆもょぺ ゅぺれ だろぺぽゎるぺれデ を[n]ぺォぺぽま ちよよれろ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_178]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Prob. alta de evitar[n]emboscadas enemigas[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]はるよほテ ぺゅろぺ ぽま まわもろぺる まゆほよれぼぺぽぺれ[n]まょまゆもむぺれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_179]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta ligeramente la tasa de materiales de los enemigos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ ろぺれぺ[n]ぽま ゆぺろまるもぺゅまれ ぽま ゅよれ まょまゆもむよれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_17A]
-[f 0 5 65278][f 2 1](Navi: Batalla) [f 0 1 4]Aumenta en gran medida la tasa materiales de los enemigos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト ちぺろぺゅゅぺナ [f 0 1 4]だゎゆまょろぺ まょ むるぺょ ゆまぽもぽぺ ゅぺ[n]ろぺれぺ ゆぺろまるもぺゅまれ ぽま ゅよれ まょまゆもむよれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_17B]
-[f 0 5 65278][f 2 1](Navi: Dungeon) Muestra FOEs/cofres/pasajes[n]ocultos cercanos en el mapa. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ ぬゎまれろるぺ づのつれギぼよみるまれギらぺれぺゃまれ[n]よぼゎゅろよれ ぼまるぼぺょよれ まょ まゅ ゆぺらぺテ ドだゎろよナ[n][e]
 
 [msg skill_17C]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Res. leve de[n]PS[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ゆもまょろるぺれ[n]ぼぺゆもょぺれ まょ ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_17D]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Res. media de[n]PS[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ゆもまょろるぺれ[n]ぼぺゆもょぺれ まょ ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_17E]
-[f 0 5 65278][f 2 1](Navi: Dungeon) [f 0 1 4]Res. leve de[n]PE[f 0 1 0] mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ドねぺわもト っゎょむまよょナ [f 0 1 4]ぱまれテ ゅまわま ぽま はつ[f 0 1 0] ゆもまょろるぺれ[n]ぼぺゆもょぺれ まょ ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_17F]
-[f 0 5 65278][f 2 1]0x17F[n][e]
+[f 0 5 65278][f 2 1]ゼゑソッづ[n][e]
 
 [msg skill_180]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_181]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Paralisis[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]はぺるぺゅもれもれ[f 0 1 0] ぼぺぽぺ ろゎるょよ らよる タ[n]ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_182]
-[f 0 5 65278][f 2 1]Par茨lisis duradera La habilidad ayuda[n]texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]はぺるァゅもれもれ ぽゎるぺぽまるぺ にぺ めぺほもゅもぽぺぽ ぺをゎぽぺ ろまゑろよ[n]ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_183]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Sue隠o[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]ひゎまォよ[f 0 1 0] ぼぺぽぺ ろゎるょよ らよる タ[n]ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_184]
-[f 0 5 65278][f 2 1]Habilidad Durmiente Ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ っゎるゆもまょろま だをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_185]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Env.[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]つょわテ[f 0 1 0] ぼぺぽぺ ろゎるょよ らよる タ ろゎるょよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_186]
-[f 0 5 65278][f 2 1]Veneno lasting La habilidad ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]ふまょまょよ ゅぺれろもょむ にぺ めぺほもゅもぽぺぽ ぺをゎぽぺ ろまゑろよ ょよ[n]ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_187]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Confusi吋n[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]ぢよょみゎれもカょ[f 0 1 0] ぼぺぽぺ ろゎるょよ らよる タ[n]ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_188]
-[f 0 5 65278][f 2 1]Habilidad de Confusi吋n duradera ayuda[n]texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぢよょみゎれもカょ ぽゎるぺぽまるぺ ぺをゎぽぺ ろまゑろよ[n]ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_189]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Atadura M茨gica[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0] ぼぺぽぺ ろゎるょよ[n]らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_18A]
-[f 0 5 65278][f 2 1]La habilidad de la pluma m茨gica[n]duradera ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]にぺ めぺほもゅもぽぺぽ ぽま ゅぺ らゅゎゆぺ ゆァむもぼぺ ぽゎるぺぽまるぺ[n]ぺをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_18B]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Atadura de Fuerza[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぽま づゎまるんぺ[f 0 1 0] ぼぺぽぺ ろゎるょよ[n]らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_18C]
-[f 0 5 65278][f 2 1]Estrangulamiento duradero ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]つれろるぺょむゎゅぺゆもまょろよ ぽゎるぺぽまるよ ぺをゎぽぺ ろまゑろよ ょよ[n]ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_18D]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Atadura de agilidad[f 0 1 0] cada turno[n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぽま ぺむもゅもぽぺぽ[f 0 1 0] ぼぺぽぺ[n]ろゎるょよ らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_18E]
-[f 0 5 65278][f 2 1]Agilidad duradera Atadura Skill ayuda[n]texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]だむもゅもぽぺぽ ぽゎるぺぽまるぺ だろぺぽゎるぺ ひやもゅゅ ぺをゎぽぺ ろまゑろよ[n]ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_18F]
-[f 0 5 65278][f 2 1]Atq. medio todopoderoso.[n](Todos los enem.) (Requiere círculos)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ ドぱまりゎもまるま ぼもるぼゎゅよれナ[n][e]
 
 [msg skill_190]
-[f 0 5 65278][f 2 1]Atq. todopoderoso grave.[n](Todos los enem.) (Requiere círculos)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ ドぱまりゎもまるま ぼもるぼゎゅよれナ[n][e]
 
 [msg skill_191]
-[f 0 5 65278][f 2 1]Reduce considerablemente PS cada turno, pero [f 0 1 4]Gran aumento de atq.[f 0 1 0] mientras esta activo. (Propio)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま ぼよょれもぽまるぺほゅまゆまょろま はひ ぼぺぽぺ ろゎるょよデ らまるよ[n][f 0 1 4]てるぺょ ぺゎゆまょろよ ぽま ぺろりテ[f 0 1 0] ゆもまょろるぺれ まれろぺ ぺぼろもわよテ ドはるよらもよナ[n][e]
 
 [msg skill_192]
-[f 0 5 65278][f 2 1]Termina Shura Tensei y [f 0 1 4]restaura PS[f 0 1 0] (Propio)[n][e]
+[f 0 5 65278][f 2 1]びまるゆもょぺ ひめゎるぺ びまょれまも を [f 0 1 4]るまれろぺゎるぺ はひ[f 0 1 0] ドはるよらもよナ[n][e]
 
 [msg skill_193]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]activar Shura Tensei[n][f 0 1 0] cuando la batalla comienza. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺぼろもわぺる ひめゎるぺ びまょれまも [f 0 1 0] ぼゎぺょぽよ[n]ゅぺ ほぺろぺゅゅぺ ぼよゆもまょんぺテ ドだゎろよナ[n][e]
 
 [msg skill_194]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar en gran medida el atq.[f 0 1 0][n](Se sobrecalentará después de unos pocos turnos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺる まょ むるぺょ ゆまぽもぽぺ まゅ ぺろりテ[f 0 1 0] ドひま[n]れよほるまぼぺゅまょろぺるァ ぽまれらゎイれ ぽま ゎょよれ らよぼよれ ろゎるょよれナ[n][e]
 
 [msg skill_195]
-[f 0 5 65278][f 2 1]Desactivar el modo Desenfreno.[n][e]
+[f 0 5 65278][f 2 1]っまれぺぼろもわぺる まゅ ゆよぽよ っまれまょみるまょよテ[n][e]
 
 [msg skill_196]
-[f 0 5 65278][f 2 1]Res. leve de PS al final del[n]turno por 3 turnos. (Fila del usuario)[n][e]
+[f 0 5 65278][f 2 1]ぱまれテ ゅまわま ぽま はひ ぺゅ みもょぺゅ ぽまゅ ろゎるょよ らよる タ[n]ろゎるょよれテ ドづもゅぺ ぽまゅ ゎれゎぺるもよナ[n][e]
 
 [msg skill_197]
-[f 0 5 65278][f 2 1]Recuperaci吋n Oraci吋n Habilidad ayuda[n]texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]ぱまぼゎらまるぺぼもカょ のるぺぼもカょ でぺほもゅもぽぺぽ ぺをゎぽぺ ろまゑろよ[n]ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_198]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina Ataduras[f 0 1 0] al final del[n]turno por 3 turnos. (Fila del usuario)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ だろぺぽゎるぺれ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよ らよる タ[n]ろゎるょよれテ ドづもゅぺ ぽまゅ ゎれゎぺるもよナ[n][e]
 
 [msg skill_199]
-[f 0 5 65278][f 2 1]Libertad de oraci吋n La habilidad ayuda[n]texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]にもほまるろぺぽ ぽま よるぺぼもカょ にぺ めぺほもゅもぽぺぽ ぺをゎぽぺ ろまゑろよ[n]ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_19A]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina los est. alterados[f 0 1 0] al[n]final del turno por 3 turnos. (Fila del usuario)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅよれ まれろテ ぺゅろまるぺぽよれ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ[n]ろゎるょよ らよる タ ろゎるょよれテ ドづもゅぺ ぽまゅ ゎれゎぺるもよナ[n][e]
 
 [msg skill_19B]
-[f 0 5 65278][f 2 1]Oraci吋n Cure La habilidad ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]のるぺぼもカょ ぢゎるま にぺ めぺほもゅもぽぺぽ ぺをゎぽぺ ろまゑろよ ょよ[n]ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_19C]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_19D]
-[f 0 5 65278][f 2 1][f 0 1 2]Contraataca[f 0 1 0] cuando la fila del[n]usuario es atacada por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぢよょろるぺぺろぺぼぺ[f 0 1 0] ぼゎぺょぽよ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよ まれ[n]ぺろぺぼぺぽぺ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_19E]
-[f 0 5 65278][f 2 1]Counter Skill ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]ぢよゎょろまる ひやもゅゅ ぺをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_19F]
-[f 0 5 65278][f 2 1]Puede [f 0 1 2]seguir[f 0 1 0] los atq. de[n]la fila del usuario por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]はゎまぽま [f 0 1 2]れまむゎもる[f 0 1 0] ゅよれ ぺろりテ ぽま ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよ[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_1A0]
-[f 0 5 65278][f 2 1]Follow Up Skill ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]づよゅゅよゐ ぴら ひやもゅゅ ぺをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_1A1]
-[f 0 5 65278][f 2 1]Prob. media de que los aliados puedan realizar[n]atq. de seguimiento durante 3 turnos. (Fila del usuario)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま りゎま ゅよれ ぺゅもぺぽよれ らゎまぽぺょ るまぺゅもんぺる[n]ぺろりテ ぽま れまむゎもゆもまょろよ ぽゎるぺょろま タ ろゎるょよれテ ドづもゅぺ ぽまゅ ゎれゎぺるもよナ[n][e]
 
 [msg skill_1A2]
-[f 0 5 65278][f 2 1]Atq. con truco[n]Explicaci吋n de la ayuda para habilidades[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぼよょ ろるゎぼよ つゑらゅもぼぺぼもカょ ぽま ゅぺ ぺをゎぽぺ らぺるぺ[n]めぺほもゅもぽぺぽまれ[n][e]
 
 [msg skill_1A3]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_1A4]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_1A5]
-[f 0 5 65278][f 2 1]Res. de PS. (Grupo) (S吋lo durante las bendiciones)[n][e]
+[f 0 5 65278][f 2 1]ぱまれテ ぽま はひテ ドてるゎらよナ ドひカゅよ ぽゎるぺょろま ゅぺれ[n]ほまょぽもぼもよょまれナ[n][e]
 
 [msg skill_1A6]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_1A7]
-[f 0 5 65278][f 2 1]Ataca a los enemigos tras los atq. de los aliados,[n]3 veces por turno. (Solo durante posturas)[n][e]
+[f 0 5 65278][f 2 1]だろぺぼぺ ぺ ゅよれ まょまゆもむよれ ろるぺれ ゅよれ ぺろりテ ぽま ゅよれ[n]ぺゅもぺぽよれデ タ わまぼまれ らよる ろゎるょよテ ドひよゅよ ぽゎるぺょろま らよれろゎるぺれナ[n][e]
 
 [msg skill_1A8]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_1A9]
-[f 0 5 65278][f 2 1]Atq. de fuego leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o de enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ むぺょぺょ[n]ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1AA]
-[f 0 5 65278][f 2 1]Link Flame Skill ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]にもょや づゅぺゆま ひやもゅゅ ぺをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_1AB]
-[f 0 5 65278][f 2 1]Atq. de hielo leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o de enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ むぺょぺょ[n]ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1AC]
-[f 0 5 65278][f 2 1]Enlace Freeze Skill ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]つょゅぺぼま づるままんま ひやもゅゅ ぺをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_1AD]
-[f 0 5 65278][f 2 1]Atq. elec. leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o Enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ むぺょぺょ[n]ぽぺォよ つょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1AE]
-[f 0 5 65278][f 2 1]Enlace Thunder La habilidad ayuda texto[n]no utilizado.[n][e]
+[f 0 5 65278][f 2 1]つょゅぺぼま びめゎょぽまる にぺ めぺほもゅもぽぺぽ ぺをゎぽぺ ろまゑろよ ょよ[n]ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_1AF]
-[f 0 5 65278][f 2 1]Atq. de viento leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o de enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ[n]むぺょぺょ ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1B0]
-[f 0 5 65278][f 2 1]Link Wind Skill ayuda texto no utilizado.[n][e]
+[f 0 5 65278][f 2 1]にもょや ぶもょぽ ひやもゅゅ ぺをゎぽぺ ろまゑろよ ょよ ゎろもゅもんぺぽよテ[n][e]
 
 [msg skill_1B1]
-[f 0 5 65278][f 2 1]Prob. alta de Pain-Eater al comenzar la[n]batalla. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま はぺもょ-つぺろまる ぺゅ ぼよゆまょんぺる ゅぺ[n]ほぺろぺゅゅぺテ ドだゎろよナ[n][e]
 
 [msg skill_1B2]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o Enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ むぺょぺょ[n]ぽぺォよ つょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1B3]
-[f 0 5 65278][f 2 1]0x1B3[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちタ[n][e]
 
 [msg skill_1B4]
-[f 0 5 65278][f 2 1]atq. psicoquinético leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o Enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ[n]むぺょぺょ ぽぺォよ つょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1B5]
-[f 0 5 65278][f 2 1]0x1B5[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちチ[n][e]
 
 [msg skill_1B6]
-[f 0 5 65278][f 2 1]Atq. nuclear leve. [f 0 1 2]Otros atq.[n]aliados ganan da隠o de enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ むぺょぺょ[n]ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_1B7]
-[f 0 5 65278][f 2 1]0x1B7[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちッ[n][e]
 
 [msg skill_1B8]
-[f 0 5 65278][f 2 1]0x1B8[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちツ[n][e]
 
 [msg skill_1B9]
-[f 0 5 65278][f 2 1]0x1B9[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちヅ[n][e]
 
 [msg skill_1BA]
-[f 0 5 65278][f 2 1]0x1BA[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちだ[n][e]
 
 [msg skill_1BB]
-[f 0 5 65278][f 2 1]0x1BB[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちち[n][e]
 
 [msg skill_1BC]
-[f 0 5 65278][f 2 1]0x1BC[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちぢ[n][e]
 
 [msg skill_1BD]
-[f 0 5 65278][f 2 1]0x1BD[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちっ[n][e]
 
 [msg skill_1BE]
-[f 0 5 65278][f 2 1]0x1BE[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちつ[n][e]
 
 [msg skill_1BF]
-[f 0 5 65278][f 2 1]0x1BF[n][e]
+[f 0 5 65278][f 2 1]ゼゑソちづ[n][e]
 
 [msg skill_1C0]
-[f 0 5 65278][f 2 1]0x1C0[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢゼ[n][e]
 
 [msg skill_1C1]
-[f 0 5 65278][f 2 1]0x1C1[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢソ[n][e]
 
 [msg skill_1C2]
-[f 0 5 65278][f 2 1]0x1C2[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢゾ[n][e]
 
 [msg skill_1C3]
-[f 0 5 65278][f 2 1]0x1C3[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢタ[n][e]
 
 [msg skill_1C4]
-[f 0 5 65278][f 2 1]0x1C4[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢダ[n][e]
 
 [msg skill_1C5]
-[f 0 5 65278][f 2 1]0x1C5[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢチ[n][e]
 
 [msg skill_1C6]
-[f 0 5 65278][f 2 1]0x1C6[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢヂ[n][e]
 
 [msg skill_1C7]
-[f 0 5 65278][f 2 1]0x1C7[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢッ[n][e]
 
 [msg skill_1C8]
-[f 0 5 65278][f 2 1]0x1C8[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢツ[n][e]
 
 [msg skill_1C9]
-[f 0 5 65278][f 2 1]0x1C9[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢヅ[n][e]
 
 [msg skill_1CA]
-[f 0 5 65278][f 2 1]0x1CA[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢだ[n][e]
 
 [msg skill_1CB]
-[f 0 5 65278][f 2 1]0x1CB[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢち[n][e]
 
 [msg skill_1CC]
-[f 0 5 65278][f 2 1]0x1CC[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢぢ[n][e]
 
 [msg skill_1CD]
-[f 0 5 65278][f 2 1]0x1CD[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢっ[n][e]
 
 [msg skill_1CE]
-[f 0 5 65278][f 2 1]0x1CE[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢつ[n][e]
 
 [msg skill_1CF]
-[f 0 5 65278][f 2 1]0x1CF[n][e]
+[f 0 5 65278][f 2 1]ゼゑソぢづ[n][e]
 
 [msg skill_1D0]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_1D1]
-[f 0 5 65278][f 2 1]Aumenta el daño cada vez que Aigis se[n]sobrecalienta. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ ぽぺォよ ぼぺぽぺ わまん りゎま だもむもれ れま[n]れよほるまぼぺゅもまょろぺテ ドだゎろよナ[n][e]
 
 [msg skill_1D2]
-[f 0 5 65278][f 2 1]Restaura PE cuando golpee la debilidad[n]de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぼゎぺょぽよ むよゅらまま ゅぺ ぽまほもゅもぽぺぽ ぽま ゎょ[n]まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_1D3]
-[f 0 5 65278][f 2 1]Restaura PE cuando golpee la debilidad[n]de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぼゎぺょぽよ むよゅらまま ゅぺ ぽまほもゅもぽぺぽ ぽま ゎょ[n]まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_1D4]
-[f 0 5 65278][f 2 1]Restaura PE despu姻s derrotar a un[n]enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぽまれらゎイれ ぽまるるよろぺる ぺ ゎょ まょまゆもむよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_1D5]
-[f 0 5 65278][f 2 1]Res. grande de PE despu姻s de[n]derrotar a un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれテ むるぺょぽま ぽま はつ ぽまれらゎイれ ぽま ぽまるるよろぺる ぺ ゎょ[n]まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_1D6]
-[f 0 5 65278][f 2 1]Restaura PE cuando protege un aliado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぼゎぺょぽよ らるよろまむま ゎょ ぺゅもぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_1D7]
-[f 0 5 65278][f 2 1]Res. grande de PE cuando protege un aliado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれテ むるぺょぽま ぽま はつ ぼゎぺょぽよ らるよろまむま ゎょ ぺゅもぺぽよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_1D8]
-[f 0 5 65278][f 2 1]Prob. media de que las habilidades de atq. se activen dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま りゎま ゅぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ[n]れま ぺぼろもわまょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_1D9]
-[f 0 5 65278][f 2 1]Al atacar a un enemigo, los aliados[n]hacen m茨s da隠o al objetivo (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゅ ぺろぺぼぺる ぺ ゎょ まょまゆもむよデ ゅよれ ぺゅもぺぽよれ めぺぼまょ[n]ゆァれ ぽぺォよ ぺゅ よほゃまろもわよ ドだゎろよナ[n][e]
 
 [msg skill_1DA]
-[f 0 5 65278][f 2 1]Restaura PE al infligir una Atadura.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぺゅ もょみゅもむもる ゎょぺ だろぺぽゎるぺテ ドだゎろよナ[n][e]
 
 [msg skill_1DB]
-[f 0 5 65278][f 2 1]Restauración grande PE al infligir una Atadura.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺぼもカょ むるぺょぽま はつ ぺゅ もょみゅもむもる ゎょぺ だろぺぽゎるぺテ[n]ドだゎろよナ[n][e]
 
 [msg skill_1DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de atq.[f 0 1 0][n]de fuego/hielo/Elec/Vien/Psi./nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺる ゅぺ らよろまょぼもぺ ぽま ぺろりテ[f 0 1 0] ぽま[n]みゎまむよギめもまゅよギつゅまぼギふもまょギはれもテギょゎぼゅまぺるテ ドだゎろよナ[n][e]
 
 [msg skill_1DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumentar la potencia de atq.[f 0 1 0][n]de fuego/hielo/Elec/Vien/Psi./nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺる ゅぺ らよろまょぼもぺ ぽま ぺろりテ[f 0 1 0] ぽま[n]みゎまむよギめもまゅよギつゅまぼギふもまょギはれもテギょゎぼゅまぺるテ ドだゎろよナ[n][e]
 
 [msg skill_1DE]
-[f 0 5 65278][f 2 1]Restaura PE despu姻s de un atq. normal. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぽまれらゎイれ ぽま ゎょ ぺろりテ ょよるゆぺゅテ ドだゎろよナ[n][e]
 
 [msg skill_1DF]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE despu姻s[n]de atq. normales. (Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ るまれろぺゎるぺぼもカょ ぽま はつ ぽまれらゎイれ ぽま ぺろりテ[n]ょよるゆぺゅまれテ ドだゎろよナ[n][e]
 
 [msg skill_1E0]
-[f 0 5 65278][f 2 1]Coste medio de PS en habilidades Físicas.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぢよれろま ゆまぽもよ ぽま はひ まょ めぺほもゅもぽぺぽまれ づウれもぼぺれテ[n]ドだゎろよナ[n][e]
 
 [msg skill_1E1]
-[f 0 5 65278][f 2 1]Reduce considerablemente el costo de PS en habilidades Físicas.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま ぼよょれもぽまるぺほゅまゆまょろま まゅ ぼよれろよ ぽま はひ まょ[n]めぺほもゅもぽぺぽまれ づウれもぼぺれテ ドだゎろよナ[n][e]
 
 [msg skill_1E2]
-[f 0 5 65278][f 2 1]Restaura PE al evadir un atq.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぺゅ まわぺぽもる ゎょ ぺろりテ ドだゎろよナ[n][e]
 
 [msg skill_1E3]
-[f 0 5 65278][f 2 1]Restaura PE al evadir un atq.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぺゅ まわぺぽもる ゎょ ぺろりテ ドだゎろよナ[n][e]
 
 [msg skill_1E4]
-[f 0 5 65278][f 2 1]Restaura PE al final del turno si[n]los PS están al máximo y en la fila delantera. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぺゅ みもょぺゅ ぽまゅ ろゎるょよ れも ゅよれ はひ[n]まれろァょ ぺゅ ゆァゑもゆよ を まょ ゅぺ みもゅぺ ぽまゅぺょろまるぺテ ドだゎろよナ[n][e]
 
 [msg skill_1E5]
-[f 0 5 65278][f 2 1]Restaura PE al final del turno si[n]los PS están al máximo y en la fila delantera. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぺゅ みもょぺゅ ぽまゅ ろゎるょよ れも ゅよれ はひ[n]まれろァょ ぺゅ ゆァゑもゆよ を まょ ゅぺ みもゅぺ ぽまゅぺょろまるぺテ ドだゎろよナ[n][e]
 
 [msg skill_1E6]
-[f 0 5 65278][f 2 1]Restaura ligeramente PE mientras[n]caminas en el laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま はつ ゆもまょろるぺれ ぼぺゆもょぺれ まょ[n]まゅ ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_1E7]
-[f 0 5 65278][f 2 1]Restaura PE cuando el C胤rculo termina.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぼゎぺょぽよ まゅ ぢウるぼゎゅよ ろまるゆもょぺテ ドだゎろよナ[n][e]
 
 [msg skill_1E8]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE cuando el C胤rculo termina.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ るまれろぺゎるぺぼもカょ ぽま はつ ぼゎぺょぽよ まゅ ぢウるぼゎゅよ[n]ろまるゆもょぺテ ドだゎろよナ[n][e]
 
 [msg skill_1E9]
-[f 0 5 65278][f 2 1]Restaura PE al ser atacado y[n]estar en la fila delantera.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぺゅ れまる ぺろぺぼぺぽよ を まれろぺる まょ ゅぺ みもゅぺ[n]ぽまゅぺょろまるぺテ ドだゎろよナ[n][e]
 
 [msg skill_1EA]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PE al ser atacado y[n]estar en la fila delantera. (Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ るまれろぺゎるぺぼもカょ ぽま はつ ぺゅ れまる ぺろぺぼぺぽよ を[n]まれろぺる まょ ゅぺ みもゅぺ ぽまゅぺょろまるぺテ ドだゎろよナ[n][e]
 
 [msg skill_1EB]
-[f 0 5 65278][f 2 1]Restaura PS despu姻s de la batalla.[n](Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はひ ぽまれらゎイれ ぽま ゅぺ ほぺろぺゅゅぺテ ドてるゎらよナ[n]ドだゎろよナ[n][e]
 
 [msg skill_1EC]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PS despu姻s de la[n]batalla. (Grupo) (Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ るまれろぺゎるぺぼもカょ ぽま はひ ぽまれらゎイれ ぽま ゅぺ ほぺろぺゅゅぺテ[n]ドてるゎらよナ ドだゎろよナ[n][e]
 
 [msg skill_1ED]
-[f 0 5 65278][f 2 1]Los efectos de las posturas duran 1[n]turno m茨s. (Auto)[n][e]
+[f 0 5 65278][f 2 1]によれ まみまぼろよれ ぽま ゅぺれ らよれろゎるぺれ ぽゎるぺょ ソ ろゎるょよ[n]ゆァれテ ドだゎろよナ[n][e]
 
 [msg skill_1EE]
-[f 0 5 65278][f 2 1]Los efectos de las posturas duran 1[n]turno m茨s. (Auto)[n][e]
+[f 0 5 65278][f 2 1]によれ まみまぼろよれ ぽま ゅぺれ らよれろゎるぺれ ぽゎるぺょ ソ ろゎるょよ[n]ゆァれテ ドだゎろよナ[n][e]
 
 [msg skill_1EF]
-[f 0 5 65278][f 2 1]Restaura PS despu姻s de un atq. normal. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はひ ぽまれらゎイれ ぽま ゎょ ぺろりテ ょよるゆぺゅテ ドだゎろよナ[n][e]
 
 [msg skill_1F0]
-[f 0 5 65278][f 2 1]Gran restauraci吋n de PS despu姻s de un atq.[n]normal. (Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ るまれろぺゎるぺぼもカょ ぽま はひ ぽまれらゎイれ ぽま ゎょ ぺろりテ[n]ょよるゆぺゅテ ドだゎろよナ[n][e]
 
 [msg skill_1F1]
-[f 0 5 65278][f 2 1]Las habilidades de atq. de baja[n]prob. se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽま ほぺゃぺ らるよほテ れま[n]ぺぼろもわぺるァょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_1F2]
-[f 0 5 65278][f 2 1]Las habilidades de atq. de alta[n]prob. se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽま ぺゅろぺ らるよほテ れま[n]ぺぼろもわぺるァょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_1F3]
-[f 0 5 65278][f 2 1]alta prob. de [f 0 1 4]anula da隠o de fuego/hielo/elec./[n]viento/Psi./nuclear[f 0 1 0] a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゅろぺ らるよほテ ぽま [f 0 1 4]ぺょゎゅぺ ぽぺォよ ぽま みゎまむよギめもまゅよギまゅまぼテギ[n]わもまょろよギはれもテギょゎぼゅまぺる[f 0 1 0] ぺ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよテ ドだゎろよナ[n][e]
 
 [msg skill_1F4]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]anula da隠o de fuego/hielo/elec./[n]viento/Psi./nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぺょゎゅぺ ぽぺォよ ぽま みゎまむよギめもまゅよギまゅまぼテギ[n]わもまょろよギはれもテギょゎぼゅまぺる[f 0 1 0] まょ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよテ ドだゎろよナ[n][e]
 
 [msg skill_1F5]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]disminuir el daño físico[n][f 0 1 0] a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぽもれゆもょゎもる まゅ ぽぺォよ みウれもぼよ [f 0 1 0][n]ぺ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよテ ドだゎろよナ[n][e]
 
 [msg skill_1F6]
-[f 0 5 65278][f 2 1]Aumenta la prob. de infligir Ataduras.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま もょみゅもむもる だろぺぽゎるぺれテ ドだゎろよナ[n][e]
 
 [msg skill_1F7]
-[f 0 5 65278][f 2 1]alta prob. de infligir Ataduras.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゅろぺ らるよほテ ぽま もょみゅもむもる だろぺぽゎるぺれテ ドだゎろよナ[n][e]
 
 [msg skill_1F8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el daño[f 0 1 0] al atacar antes[n]de que todos los enemigos act雨en. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぽぺォよ[f 0 1 0] ぺゅ ぺろぺぼぺる ぺょろまれ ぽま りゎま ろよぽよれ[n]ゅよれ まょまゆもむよれ ぺぼろグまょテ ドだゎろよナ[n][e]
 
 [msg skill_1F9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente el atq.[f 0 1 0][n]contra enemigos con PS superior. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま まゅ ぺろりテ[f 0 1 0] ぼよょろるぺ まょまゆもむよれ[n]ぼよょ はひ れゎらまるもよるテ ドだゎろよナ[n][e]
 
 [msg skill_1FA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio el atq.[f 0 1 0][n]contra enemigos con PS superior. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ まゅ ぺろりテ[f 0 1 0] ぼよょろるぺ まょまゆもむよれ ぼよょ[n]はひ れゎらまるもよるテ ドだゎろよナ[n][e]
 
 [msg skill_1FB]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de atq.[f 0 1 0] contra enemigos[n]con PS superior. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]てるぺょ ぺゎゆまょろよ ぽま ぺろりテ[f 0 1 0] ぼよょろるぺ まょまゆもむよれ ぼよょ はひ[n]れゎらまるもよるテ ドだゎろよナ[n][e]
 
 [msg skill_1FC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la velocidad de recuperaci吋n[n]natural de est. alterados y las Ataduras[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ わまゅよぼもぽぺぽ ぽま るまぼゎらまるぺぼもカょ ょぺろゎるぺゅ[n]ぽま まれろテ ぺゅろまるぺぽよれ を ゅぺれ だろぺぽゎるぺれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_1FD]
-[f 0 5 65278][f 2 1]Aumenta la prob. de cr胤ticos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま ぼるウろもぼよれテ ドだゎろよナ[n][e]
 
 [msg skill_1FE]
-[f 0 5 65278][f 2 1]Gran aumento de la tasa de cr胤ticos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ ぺゎゆまょろよ ぽま ゅぺ ろぺれぺ ぽま ぼるウろもぼよれテ ドだゎろよナ[n][e]
 
 [msg skill_1FF]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente la restauración[f 0 1 0][n]de habilidades curativas de PS. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ るまれろぺゎるぺぼもカょ[f 0 1 0] ぽま[n]めぺほもゅもぽぺぽまれ ぼゎるぺろもわぺれ ぽま はひテ ドだゎろよナ[n][e]
 
 [msg skill_200]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_201]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_202]
-[f 0 5 65278][f 2 1]Prob. baja de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a habilidades[n]de un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ めぺほもゅもぽぺぽまれ[n]ぽま ゎょ れよゅよ よほゃまろもわよテ ドだゎろよナ[n][e]
 
 [msg skill_203]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a habilidades[n]de un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ[n]めぺほもゅもぽぺぽまれ ぽま ゎょ れよゅよ よほゃまろもわよテ ドだゎろよナ[n][e]
 
 [msg skill_204]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぽぺォよ ぽま つょゅぺぼま[f 0 1 0] ほぺれぺぽよ まょ まゅ ょグゆまるよ[n]ぽま つょゅぺぼまれ ゎろもゅもんぺぽよれテ ドだゎろよナ[n][e]
 
 [msg skill_205]
-[f 0 5 65278][f 2 1]Prob. baja de [f 0 1 4]otro atq.[f 0 1 0][n]despu姻s del atq. normal. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま [f 0 1 4]よろるよ ぺろりテ[f 0 1 0] ぽまれらゎイれ ぽまゅ ぺろりテ[n]ょよるゆぺゅテ ドだゎろよナ[n][e]
 
 [msg skill_206]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]otro atq.[f 0 1 0][n]despu姻s del atq. normal. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]よろるよ ぺろりテ[f 0 1 0] ぽまれらゎイれ ぽまゅ ぺろりテ[n]ょよるゆぺゅテ ドだゎろよナ[n][e]
 
 [msg skill_207]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento leve de eva.[f 0 1 0][n]contra todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゅまわま ぽま まわぺテ[f 0 1 0] ぼよょろるぺ ろよぽよれ ゅよれ ぺろりテ[n]ドだゎろよナ[n][e]
 
 [msg skill_208]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio la eva.[f 0 1 0][n]contra todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ ゅぺ まわぺテ[f 0 1 0] ぼよょろるぺ ろよぽよれ ゅよれ ぺろりテ[n]ドだゎろよナ[n][e]
 
 [msg skill_209]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente la eva.[f 0 1 0][n]contra todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ まわぺテ[f 0 1 0] ぼよょろるぺ[n]ろよぽよれ ゅよれ ぺろりテ ドだゎろよナ[n][e]
 
 [msg skill_20A]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]anular atq. físicos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺょゎゅぺる ぺろりテ みウれもぼよれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_20B]
-[f 0 5 65278][f 2 1]Aumenta el poder de invocaci吋n en[n]C胤rculos. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ らよぽまる ぽま もょわよぼぺぼもカょ まょ ぢウるぼゎゅよれテ[n]ドだゎろよナ[n][e]
 
 [msg skill_20C]
-[f 0 5 65278][f 2 1]Prob. media de anular todos los[n]est. alterados y Ataduras en la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま ぺょゎゅぺる ろよぽよれ ゅよれ まれろテ ぺゅろまるぺぽよれ[n]を だろぺぽゎるぺれ まょ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよテ ドだゎろよナ[n][e]
 
 [msg skill_20D]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe al daño[f 0 1 0] de atq.[n]de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だほれよるほま ぺゅ ぽぺォよ[f 0 1 0] ぽま ぺろりテ ぽま みゎまむよテ ドだゎろよナ[n][e]
 
 [msg skill_20E]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe al daño[f 0 1 0] de atq. del[n]viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だほれよるほま ぺゅ ぽぺォよ[f 0 1 0] ぽま ぺろりテ ぽまゅ わもまょろよテ ドだゎろよナ[n][e]
 
 [msg skill_20F]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe al daño[f 0 1 0] de atq. de[n]hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だほれよるほま ぺゅ ぽぺォよ[f 0 1 0] ぽま ぺろりテ ぽま めもまゅよテ ドだゎろよナ[n][e]
 
 [msg skill_210]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe al daño[f 0 1 0] de atq. elec. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だほれよるほま ぺゅ ぽぺォよ[f 0 1 0] ぽま ぺろりテ まゅまぼテ ドだゎろよナ[n][e]
 
 [msg skill_211]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio el poder[f 0 1 0] de habilidades curativas PS. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ まゅ らよぽまる[f 0 1 0] ぽま めぺほもゅもぽぺぽまれ[n]ぼゎるぺろもわぺれ はひテ ドだゎろよナ[n][e]
 
 [msg skill_212]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de los atq. de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ ぽま[n]みゎまむよテ ドだゎろよナ[n][e]
 
 [msg skill_213]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de los atq. de hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ ぽま[n]めもまゅよテ ドだゎろよナ[n][e]
 
 [msg skill_214]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de los atq. elec. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ[n]まゅまぼテ ドだゎろよナ[n][e]
 
 [msg skill_215]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de los atq. de viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ ぽま[n]わもまょろよテ ドだゎろよナ[n][e]
 
 [msg skill_216]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] el poder de los atq. de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ ぽま みゎまむよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_217]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] el poder de los atq. de hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ ぽま めもまゅよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_218]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] el poder de los atq. elec. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ まゅまぼテ[n]ドだゎろよナ[n][e]
 
 [msg skill_219]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] el poder de los atq. de viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] まゅ らよぽまる ぽま ゅよれ ぺろりテ ぽま わもまょろよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_21A]
-[f 0 5 65278][f 2 1]Reduce el costo de habilidades de PE.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま まゅ ぼよれろよ ぽま めぺほもゅもぽぺぽまれ ぽま はつテ ドだゎろよナ[n][e]
 
 [msg skill_21B]
-[f 0 5 65278][f 2 1]Reduce considerablemente el costo de habilidades de PE.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま ぼよょれもぽまるぺほゅまゆまょろま まゅ ぼよれろよ ぽま めぺほもゅもぽぺぽまれ[n]ぽま はつテ ドだゎろよナ[n][e]
 
 [msg skill_21C]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el poder de[f 0 1 0][n]habilidades curativas (PS). (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ らよぽまる ぽま[f 0 1 0] めぺほもゅもぽぺぽまれ ぼゎるぺろもわぺれ[n]ドはひナテ ドだゎろよナ[n][e]
 
 [msg skill_21D]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] al atacar a un objetivo con un est. alterado. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぽぺォよ[f 0 1 0] ぺゅ ぺろぺぼぺる ぺ ゎょ よほゃまろもわよ ぼよょ[n]ゎょ まれろテ ぺゅろまるぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_21E]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de da隠o[f 0 1 0] al atacar a un objetivo con un est. alterado. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]てるぺょ ぺゎゆまょろよ ぽま ぽぺォよ[f 0 1 0] ぺゅ ぺろぺぼぺる ぺ ゎょ よほゃまろもわよ[n]ぼよょ ゎょ まれろテ ぺゅろまるぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_21F]
-[f 0 5 65278][f 2 1]Aumenta la prob. de [f 0 1 2]infligir[n]est. alterados[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま [f 0 1 2]もょみゅもむもる まれろテ ぺゅろまるぺぽよれ[f 0 1 0][n]ドだゎろよナ[n][e]
 
 [msg skill_220]
-[f 0 5 65278][f 2 1]Gran prob. de [f 0 1 2]infligir[n]est. alterados[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ らるよほテ ぽま [f 0 1 2]もょみゅもむもる まれろテ ぺゅろまるぺぽよれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_221]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0] cada turno.[n](Grupo) (Auto) (Requiere C胤rculos)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま はひ[f 0 1 0] ぼぺぽぺ ろゎるょよテ ドてるゎらよナ[n]ドだゎろよナ ドぱまりゎもまるま ぢウるぼゎゅよれナ[n][e]
 
 [msg skill_222]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran aumento de atq.[f 0 1 0] de[n]fuego/hielo/Elec/viento/Psi./nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]てるぺょ ぺゎゆまょろよ ぽま ぺろりテ[f 0 1 0] ぽま[n]みゎまむよギめもまゅよギつゅまぼギわもまょろよギはれもテギょゎぼゅまぺるテ ドだゎろよナ[n][e]
 
 [msg skill_223]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente[f 0 1 0][n]el poder de atq. de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ[n]ぽま みゎまむよテ ドだゎろよナ[n][e]
 
 [msg skill_224]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente[f 0 1 0][n] el poder de atq. de viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま[f 0 1 0]  まゅ らよぽまる ぽま ぺろりテ[n]ぽま わもまょろよテ ドだゎろよナ[n][e]
 
 [msg skill_225]
-[f 0 5 65278][f 2 1]Prob. media de reducir el[n]costo de habilidades de PE a 0. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま るまぽゎぼもる まゅ ぼよれろよ ぽま めぺほもゅもぽぺぽまれ[n]ぽま はつ ぺ ゼテ ドだゎろよナ[n][e]
 
 [msg skill_226]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o[f 0 1 0] al golpear[n]la debilidad de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぽぺォよ[f 0 1 0] ぺゅ むよゅらまぺる ゅぺ ぽまほもゅもぽぺぽ ぽま[n]ゎょ まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_227]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable de daño[f 0 1 0] al golpear la[n]debilidad de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま ぽま ぽぺォよ[f 0 1 0] ぺゅ むよゅらまぺる ゅぺ[n]ぽまほもゅもぽぺぽ ぽま ゎょ まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_228]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable de daño[f 0 1 0] al golpear la[n]debilidad de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま ぽま ぽぺォよ[f 0 1 0] ぺゅ むよゅらまぺる ゅぺ[n]ぽまほもゅもぽぺぽ ぽま ゎょ まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_229]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el atq. f胤sico.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま まゅ ぺろりテ みウれもぼよテ ドだゎろよナ[n][e]
 
 [msg skill_22A]
-[f 0 5 65278][f 2 1]Aumenta el atq. f胤sico.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ ぺろりテ みウれもぼよテ ドだゎろよナ[n][e]
 
 [msg skill_22B]
-[f 0 5 65278][f 2 1]Gran aumento de atq. físico.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ ぺゎゆまょろよ ぽま ぺろりテ みウれもぼよテ ドだゎろよナ[n][e]
 
 [msg skill_22C]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la defensa F胤sica.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ ぽまみまょれぺ づウれもぼぺテ ドだゎろよナ[n][e]
 
 [msg skill_22D]
-[f 0 5 65278][f 2 1]Aumenta la defensa F胤sica.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ ぽまみまょれぺ づウれもぼぺテ ドだゎろよナ[n][e]
 
 [msg skill_22E]
-[f 0 5 65278][f 2 1]Aumenta considerablemente la defensa F胤sica.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ ぽまみまょれぺ づウれもぼぺテ[n]ドだゎろよナ[n][e]
 
 [msg skill_22F]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la resistencia a la afinidad.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ[n]ぺみもょもぽぺぽテ ドだゎろよナ[n][e]
 
 [msg skill_230]
-[f 0 5 65278][f 2 1]Aumenta la resistencia a las afinidades.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺれ ぺみもょもぽぺぽまれテ[n]ドだゎろよナ[n][e]
 
 [msg skill_231]
-[f 0 5 65278][f 2 1]Aumenta considerablemente la resistencia a la afinidad.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ るまれもれろまょぼもぺ ぺ[n]ゅぺ ぺみもょもぽぺぽテ ドだゎろよナ[n][e]
 
 [msg skill_232]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PE[f 0 1 0][n]mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま はつ[f 0 1 0] ゆもまょろるぺれ ぼぺゆもょぺれ まょ[n]ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_233]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS/PE[f 0 1 0] mientras[n]caminas en un laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ はひギはつ[f 0 1 0] ゆもまょろるぺれ ぼぺゆもょぺれ まょ ゎょ[n]ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_234]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura PS/PE[f 0 1 0] mientras[n]caminas en un laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ はひギはつ[f 0 1 0] ゆもまょろるぺれ ぼぺゆもょぺれ まょ ゎょ[n]ゅぺほまるもょろよテ ドだゎろよナ[n][e]
 
 [msg skill_235]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente las habilidades de enlace y[n]la prob. de da隠o de enlace[f 0 1 0] posteriormente. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺれ めぺほもゅもぽぺぽまれ ぽま まょゅぺぼま[n]を ゅぺ らるよほテ ぽま ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] らよれろまるもよるゆまょろまテ ドだゎろよナ[n][e]
 
 [msg skill_236]
-[f 0 5 65278][f 2 1]Prob. baja de derribo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま ぽまるるもほよテ ドだゎろよナ[n][e]
 
 [msg skill_237]
-[f 0 5 65278][f 2 1]Prob. media de derribo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま ぽまるるもほよテ ドだゎろよナ[n][e]
 
 [msg skill_238]
-[f 0 5 65278][f 2 1]Prob. alta de derribo.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま ぽまるるもほよテ ドだゎろよナ[n][e]
 
 [msg skill_239]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el atq. de afinidad.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま まゅ ぺろりテ ぽま ぺみもょもぽぺぽテ[n]ドだゎろよナ[n][e]
 
 [msg skill_23A]
-[f 0 5 65278][f 2 1]Aumenta el atq. de afinidad.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ ぺろりテ ぽま ぺみもょもぽぺぽテ ドだゎろよナ[n][e]
 
 [msg skill_23B]
-[f 0 5 65278][f 2 1]Gran aumento de atq. de afinidad.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]てるぺょ ぺゎゆまょろよ ぽま ぺろりテ ぽま ぺみもょもぽぺぽテ ドだゎろよナ[n][e]
 
 [msg skill_23C]
-[f 0 5 65278][f 2 1]Aumenta ligeramente los PS m茨ximos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅよれ はひ ゆァゑもゆよれテ ドだゎろよナ[n][e]
 
 [msg skill_23D]
-[f 0 5 65278][f 2 1]Aumenta los PS m茨ximos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅよれ はひ ゆァゑもゆよれテ ドだゎろよナ[n][e]
 
 [msg skill_23E]
-[f 0 5 65278][f 2 1]Aumenta ligeramente los PE m茨ximos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅよれ はつ ゆァゑもゆよれテ ドだゎろよナ[n][e]
 
 [msg skill_23F]
-[f 0 5 65278][f 2 1]Aumenta los PE m茨ximos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅよれ はつ ゆァゑもゆよれテ ドだゎろよナ[n][e]
 
 [msg skill_240]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la velocidad de acción, prec.,[n]y eva. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ わまゅよぼもぽぺぽ ぽま ぺぼぼもカょデ[n]らるまぼテデ を まわぺテ ドだゎろよナ[n][e]
 
 [msg skill_241]
-[f 0 5 65278][f 2 1]Aumenta la velocidad de acción, prec. y[n]eva. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ わまゅよぼもぽぺぽ ぽま ぺぼぼもカょデ らるまぼテ を まわぺテ[n]ドだゎろよナ[n][e]
 
 [msg skill_242]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al fuego[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺゅ みゎまむよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_243]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia al hielo[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺゅ めもまゅよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_244]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia elec.[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ まゅまぼテ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_245]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia del viento[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぽまゅ わもまょろよ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_246]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la bendici吋n[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ ほまょぽもぼもカょ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_247]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la maldici吋n[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ ゆぺゅぽもぼもカょ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_248]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia fisica[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ みもれもぼぺ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_249]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia a la psicoquinético[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ られもぼよりゎもょイろもぼよ[f 0 1 0][n]ドだゎろよナ[n][e]
 
 [msg skill_24A]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la resistencia nuclear[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ょゎぼゅまぺる[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_24B]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el est. alterado[f 0 1 0]Petrificaci吋n.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ まゅ まれろテ ぺゅろまるぺぽよ[f 0 1 0]はまろるもみもぼぺぼもカょテ ドだゎろよナ[n][e]
 
 [msg skill_24C]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el est. alterado[f 0 1 0]Sue隠o.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ まゅ まれろテ ぺゅろまるぺぽよ[f 0 1 0]ひゎまォよテ ドだゎろよナ[n][e]
 
 [msg skill_24D]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el est. alterado[f 0 1 0]Confusi吋n.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ まゅ まれろテ ぺゅろまるぺぽよ[f 0 1 0]ぢよょみゎれもカょテ ドだゎろよナ[n][e]
 
 [msg skill_24E]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el est. alterado[f 0 1 0]Env.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ まゅ まれろテ ぺゅろまるぺぽよ[f 0 1 0]つょわテ ドだゎろよナ[n][e]
 
 [msg skill_24F]
-[f 0 5 65278][f 2 1]Sobrevive un atq. letal con [f 0 1 4]1 PS[f 0 1 0][n]en lugar de ser derribado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ひよほるまわもわま ゎょ ぺろりテ ゅまろぺゅ ぼよょ [f 0 1 4]ソ はひ[f 0 1 0] まょ ゅゎむぺる[n]ぽま れまる ぽまるるもほぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_250]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el est. alterado[f 0 1 0]Maldecido.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ まゅ まれろテ ぺゅろまるぺぽよ[f 0 1 0]ぬぺゅぽまぼもぽよテ ドだゎろよナ[n][e]
 
 [msg skill_251]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula el est. alterado[f 0 1 0]Paralisis.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ まゅ まれろテ ぺゅろまるぺぽよ[f 0 1 0]はぺるぺゅもれもれテ ドだゎろよナ[n][e]
 
 [msg skill_252]
-[f 0 5 65278][f 2 1]Anula la penalización al poder de atq. físico de[n]atacar desde la fila trasera. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だょゎゅぺ ゅぺ らまょぺゅもんぺぼもカょ ぺゅ らよぽまる ぽま ぺろりテ みウれもぼよ[n]ぽま ぺろぺぼぺる ぽまれぽま ゅぺ みもゅぺ ろるぺれまるぺテ ドだゎろよナ[n][e]
 
 [msg skill_253]
-[f 0 5 65278][f 2 1]Atq. adicional cuando un objetivo est茨 Atado.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぺぽもぼもよょぺゅ ぼゎぺょぽよ ゎょ よほゃまろもわよ まれろァ だろぺぽよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_254]
-[f 0 5 65278][f 2 1]0x254[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾチダ[n][e]
 
 [msg skill_255]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula Atadura M茨gica[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_256]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula Atadura F胤sica[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ だろぺぽゎるぺ づウれもぼぺ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_257]
-[f 0 5 65278][f 2 1][f 0 1 4]Anula Atadura de Agilidad[f 0 1 0][n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だょゎゅぺ だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_258]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de atq. Cortante.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま まゅ らよぽまる ぽま ぺろりテ ぢよるろぺょろまテ[n]ドだゎろよナ[n][e]
 
 [msg skill_259]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de atq. Contundente.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま まゅ らよぽまる ぽま ぺろりテ ぢよょろゎょぽまょろまテ[n]ドだゎろよナ[n][e]
 
 [msg skill_25A]
-[f 0 5 65278][f 2 1]Aumenta ligeramente el poder de atq. Perforante.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま まゅ らよぽまる ぽま ぺろりテ はまるみよるぺょろまテ[n]ドだゎろよナ[n][e]
 
 [msg skill_25B]
-[f 0 5 65278][f 2 1]Aumenta el poder de atq. Cortante.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ らよぽまる ぽま ぺろりテ ぢよるろぺょろまテ ドだゎろよナ[n][e]
 
 [msg skill_25C]
-[f 0 5 65278][f 2 1]Aumenta el poder de atq. Contundente.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ らよぽまる ぽま ぺろりテ ぢよょろゎょぽまょろまテ ドだゎろよナ[n][e]
 
 [msg skill_25D]
-[f 0 5 65278][f 2 1]Aumenta el poder de atq. Perforante.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ らよぽまる ぽま ぺろりテ はまるみよるぺょろまテ ドだゎろよナ[n][e]
 
 [msg skill_25E]
-[f 0 5 65278][f 2 1]Restaura ligeramente los PE cuando el enemigo es[n]infligido con est. alterado/Atadura. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま ゅよれ はつ ぼゎぺょぽよ まゅ まょまゆもむよ[n]まれ もょみゅもむもぽよ ぼよょ まれろテ ぺゅろまるぺぽよギだろぺぽゎるぺテ ドだゎろよナ[n][e]
 
 [msg skill_25F]
-[f 0 5 65278][f 2 1]Restaura PE cuando el enemigo es infligido con[n]est. alterado/Atadura. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぼゎぺょぽよ まゅ まょまゆもむよ まれ もょみゅもむもぽよ[n]ぼよょ まれろテ ぺゅろまるぺぽよギだろぺぽゎるぺテ ドだゎろよナ[n][e]
 
 [msg skill_260]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_261]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ みもゅぺナ[n][e]
 
 [msg skill_262]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_263]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](Enemigos aleatorios)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドつょまゆもむよれ ぺゅまぺろよるもよれナ[n][e]
 
 [msg skill_264]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_265]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ みもゅぺナ[n][e]
 
 [msg skill_266]
-[f 0 5 65278][f 2 1]Sigue el texto de Dummy[n][e]
+[f 0 5 65278][f 2 1]ひもむゎま まゅ ろまゑろよ ぽま っゎゆゆを[n][e]
 
 [msg skill_267]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_268]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso que perfora la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよ りゎま らまるみよるぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_269]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ みもゅぺナ[n][e]
 
 [msg skill_26A]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso que perfora la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよ りゎま らまるみよるぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_26B]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_26C]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso que perfora la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよ りゎま らまるみよるぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_26D]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_26E]
-[f 0 5 65278][f 2 1]Fuuka sigue el texto de Dummy[n][e]
+[f 0 5 65278][f 2 1]づゎゎやぺ れもむゎま まゅ ろまゑろよ ぽま っゎゆゆを[n][e]
 
 [msg skill_26F]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_270]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso que perfora la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよ りゎま らまるみよるぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_271]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ みもゅぺナ[n][e]
 
 [msg skill_272]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドソ みもゅぺナ[n][e]
 
 [msg skill_273]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_274]
-[f 0 5 65278][f 2 1]Un atq. todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ぴょ ぺろりテ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_275]
-[f 0 5 65278][f 2 1]0x275[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッチ[n][e]
 
 [msg skill_276]
-[f 0 5 65278][f 2 1]0x276[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッヂ[n][e]
 
 [msg skill_277]
-[f 0 5 65278][f 2 1]0x277[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッッ[n][e]
 
 [msg skill_278]
-[f 0 5 65278][f 2 1]0x278[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッツ[n][e]
 
 [msg skill_279]
-[f 0 5 65278][f 2 1]0x279[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッヅ[n][e]
 
 [msg skill_27A]
-[f 0 5 65278][f 2 1]0x27A[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッだ[n][e]
 
 [msg skill_27B]
-[f 0 5 65278][f 2 1]0x27B[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッち[n][e]
 
 [msg skill_27C]
-[f 0 5 65278][f 2 1]0x27C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッぢ[n][e]
 
 [msg skill_27D]
-[f 0 5 65278][f 2 1]0x27D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッっ[n][e]
 
 [msg skill_27E]
-[f 0 5 65278][f 2 1]0x27E[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッつ[n][e]
 
 [msg skill_27F]
-[f 0 5 65278][f 2 1]0x27F[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾッづ[n][e]
 
 [msg skill_280]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_281]
-[f 0 5 65278][f 2 1]0x281[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツソ[n][e]
 
 [msg skill_282]
-[f 0 5 65278][f 2 1]0x282[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツゾ[n][e]
 
 [msg skill_283]
-[f 0 5 65278][f 2 1]0x283[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツタ[n][e]
 
 [msg skill_284]
-[f 0 5 65278][f 2 1]0x284[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツダ[n][e]
 
 [msg skill_285]
-[f 0 5 65278][f 2 1]0x285[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツチ[n][e]
 
 [msg skill_286]
-[f 0 5 65278][f 2 1]0x286[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツヂ[n][e]
 
 [msg skill_287]
-[f 0 5 65278][f 2 1]0x287[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツッ[n][e]
 
 [msg skill_288]
-[f 0 5 65278][f 2 1]0x288[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツツ[n][e]
 
 [msg skill_289]
-[f 0 5 65278][f 2 1]0x289[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツヅ[n][e]
 
 [msg skill_28A]
-[f 0 5 65278][f 2 1]0x28A[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツだ[n][e]
 
 [msg skill_28B]
-[f 0 5 65278][f 2 1]0x28B[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツち[n][e]
 
 [msg skill_28C]
-[f 0 5 65278][f 2 1]0x28C[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツぢ[n][e]
 
 [msg skill_28D]
-[f 0 5 65278][f 2 1]0x28D[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツっ[n][e]
 
 [msg skill_28E]
-[f 0 5 65278][f 2 1]0x28E[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツつ[n][e]
 
 [msg skill_28F]
-[f 0 5 65278][f 2 1]0x28F[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾツづ[n][e]
 
 [msg skill_290]
-[f 0 5 65278][f 2 1]Un pupilo con la bendición de Idaten. [f 0 1 4]Aumenta la[f 0 1 0][n][f 0 1 4]presición/eva. para 3 turnos[f 0 1 0] (1 fila)[n][e]
+[f 0 5 65278][f 2 1]ぴょ らゎらもゅよ ぼよょ ゅぺ ほまょぽもぼもカょ ぽま とぽぺろまょテ [f 0 1 4]だゎゆまょろぺ[n]ゅぺ[f 0 1 0] [f 0 1 4]らるまれもぼもカょギまわぺテ らぺるぺ タ ろゎるょよれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_291]
-[f 0 5 65278][f 2 1]0x291[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾヅソ[n][e]
 
 [msg skill_292]
-[f 0 5 65278][f 2 1]0x292[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾヅゾ[n][e]
 
 [msg skill_293]
-[f 0 5 65278][f 2 1]Un pupilo con la bendición divina de Rasetsu.[n][f 0 1 4]Aumenta el atq. de 1 fila durante 3 turnos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らゎらもゅよ ぼよょ ゅぺ ほまょぽもぼもカょ ぽもわもょぺ ぽま ぱぺれまろれゎテ[n][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ ぽま ソ みもゅぺ ぽゎるぺょろま タ ろゎるょよれ[f 0 1 0][n][e]
 
 [msg skill_294]
-[f 0 5 65278][f 2 1]Un pupilo con la bendición divina de Kongou.[n][f 0 1 4]Aumenta la defensa de 1 fila durante 3 turnos[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょ らゎらもゅよ ぼよょ ゅぺ ほまょぽもぼもカょ ぽもわもょぺ ぽま なよょむよゎテ[n][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ ぽま ソ みもゅぺ ぽゎるぺょろま タ ろゎるょよれ[f 0 1 0][n][e]
 
 [msg skill_295]
-[f 0 5 65278][f 2 1]0x295[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾヅチ[n][e]
 
 [msg skill_296]
-[f 0 5 65278][f 2 1]0x296[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾヅヂ[n][e]
 
 [msg skill_297]
-[f 0 5 65278][f 2 1]0x297[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾヅッ[n][e]
 
 [msg skill_298]
-[f 0 5 65278][f 2 1]Reduce el da隠o de los atq. de[n]fuego durante 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま まゅ ぽぺォよ ぽま ゅよれ ぺろりテ ぽま みゎまむよ ぽゎるぺょろま[n]タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_299]
-[f 0 5 65278][f 2 1]Reduce el da隠o de los atq. de[n]hielo durante 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま まゅ ぽぺォよ ぽま ゅよれ ぺろりテ ぽま めもまゅよ ぽゎるぺょろま[n]タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_29A]
-[f 0 5 65278][f 2 1]Reduce el da隠o de atq.[n]elec. por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま まゅ ぽぺォよ ぽま ぺろりテ まゅまぼテ らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_29B]
-[f 0 5 65278][f 2 1]Reduce el da隠o de los atq.[n]de viento por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま まゅ ぽぺォよ ぽま ゅよれ ぺろりテ ぽま わもまょろよ らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_29C]
-[f 0 5 65278][f 2 1]Los atq. normales ganan la afinidad[n]del fuego por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]によれ ぺろりテ ょよるゆぺゅまれ むぺょぺょ ゅぺ ぺみもょもぽぺぽ ぽまゅ みゎまむよ[n]らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_29D]
-[f 0 5 65278][f 2 1]Los atq. normales ganan afinidad de[n]hielo por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]によれ ぺろりテ ょよるゆぺゅまれ むぺょぺょ ぺみもょもぽぺぽ ぽま めもまゅよ[n]らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_29E]
-[f 0 5 65278][f 2 1]Los atq. normales ganan la afinidad[n]de elec. por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]によれ ぺろりテ ょよるゆぺゅまれ むぺょぺょ ゅぺ ぺみもょもぽぺぽ ぽま まゅまぼテ[n]らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_29F]
-[f 0 5 65278][f 2 1]Los atq. normales ganan la afinidad[n]del viento por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]によれ ぺろりテ ょよるゆぺゅまれ むぺょぺょ ゅぺ ぺみもょもぽぺぽ ぽまゅ わもまょろよ[n]らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_2A0]
-[f 0 5 65278][f 2 1]0x2A0[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだゼ[n][e]
 
 [msg skill_2A1]
-[f 0 5 65278][f 2 1]0x2A1[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだソ[n][e]
 
 [msg skill_2A2]
-[f 0 5 65278][f 2 1]0x2A2[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだゾ[n][e]
 
 [msg skill_2A3]
-[f 0 5 65278][f 2 1]0x2A3[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだタ[n][e]
 
 [msg skill_2A4]
-[f 0 5 65278][f 2 1]0x2A4[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだダ[n][e]
 
 [msg skill_2A5]
-[f 0 5 65278][f 2 1]0x2A5[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだチ[n][e]
 
 [msg skill_2A6]
-[f 0 5 65278][f 2 1]0x2A6[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだヂ[n][e]
 
 [msg skill_2A7]
-[f 0 5 65278][f 2 1]0x2A7[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだッ[n][e]
 
 [msg skill_2A8]
-[f 0 5 65278][f 2 1]0x2A8[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだツ[n][e]
 
 [msg skill_2A9]
-[f 0 5 65278][f 2 1]0x2A9[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだヅ[n][e]
 
 [msg skill_2AA]
-[f 0 5 65278][f 2 1]0x2AA[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだだ[n][e]
 
 [msg skill_2AB]
-[f 0 5 65278][f 2 1]0x2AB[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだち[n][e]
 
 [msg skill_2AC]
-[f 0 5 65278][f 2 1]0x2AC[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだぢ[n][e]
 
 [msg skill_2AD]
-[f 0 5 65278][f 2 1]0x2AD[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだっ[n][e]
 
 [msg skill_2AE]
-[f 0 5 65278][f 2 1]0x2AE[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだつ[n][e]
 
 [msg skill_2AF]
-[f 0 5 65278][f 2 1]0x2AF[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾだづ[n][e]
 
 [msg skill_2B0]
-[f 0 5 65278][f 2 1]0x2B0[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちゼ[n][e]
 
 [msg skill_2B1]
-[f 0 5 65278][f 2 1]0x2B1[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちソ[n][e]
 
 [msg skill_2B2]
-[f 0 5 65278][f 2 1]Reduce la prob. de encuentros con Sombras.[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま ゅぺ らるよほテ ぽま まょぼゎまょろるよれ ぼよょ ひよゆほるぺれテ[n][e]
 
 [msg skill_2B3]
-[f 0 5 65278][f 2 1]Aumenta la prob. de encuentros con Sombras.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま まょぼゎまょろるよれ ぼよょ ひよゆほるぺれテ[n][e]
 
 [msg skill_2B4]
-[f 0 5 65278][f 2 1]0x2B4[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちダ[n][e]
 
 [msg skill_2B5]
-[f 0 5 65278][f 2 1]0x2B5[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちチ[n][e]
 
 [msg skill_2B6]
-[f 0 5 65278][f 2 1]0x2B6[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちヂ[n][e]
 
 [msg skill_2B7]
-[f 0 5 65278][f 2 1]Revela la ubicación de los FOE.[n][e]
+[f 0 5 65278][f 2 1]ぱまわまゅぺ ゅぺ ゎほもぼぺぼもカょ ぽま ゅよれ づのつテ[n][e]
 
 [msg skill_2B8]
-[f 0 5 65278][f 2 1]0x2B8[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちツ[n][e]
 
 [msg skill_2B9]
-[f 0 5 65278][f 2 1]0x2B9[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちヅ[n][e]
 
 [msg skill_2BA]
-[f 0 5 65278][f 2 1]0x2BA[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちだ[n][e]
 
 [msg skill_2BB]
-[f 0 5 65278][f 2 1]0xBB2[n][e]
+[f 0 5 65278][f 2 1]ゼゑちちゾ[n][e]
 
 [msg skill_2BC]
-[f 0 5 65278][f 2 1]Elimina los encuentros con sombras[n][e]
+[f 0 5 65278][f 2 1]つゅもゆもょぺ ゅよれ まょぼゎまょろるよれ ぼよょ れよゆほるぺれ[n][e]
 
 [msg skill_2BD]
-[f 0 5 65278][f 2 1]Aumenta considerablemente la prob. de encuentros con Sombras.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ らるよほテ ぽま まょぼゎまょろるよれ[n]ぼよょ ひよゆほるぺれテ[n][e]
 
 [msg skill_2BE]
-[f 0 5 65278][f 2 1]0x2BE[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちつ[n][e]
 
 [msg skill_2BF]
-[f 0 5 65278][f 2 1]0x2BF[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾちづ[n][e]
 
 [msg skill_2C0]
-[f 0 5 65278][f 2 1]Aumenta la prob. de infligir Ataduras o Estados Alterados.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま もょみゅもむもる だろぺぽゎるぺれ よ[n]つれろぺぽよれ だゅろまるぺぽよれテ[n][e]
 
 [msg skill_2C1]
-[f 0 5 65278][f 2 1]Aumenta considerablemente la prob. de infligir Ataduras o Estados Alterados.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ らるよほテ ぽま もょみゅもむもる[n]だろぺぽゎるぺれ よ つれろぺぽよれ だゅろまるぺぽよれテ[n][e]
 
 [msg skill_2C2]
-[f 0 5 65278][f 2 1]Aumenta los da隠os cr胤ticos.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅよれ ぽぺォよれ ぼるウろもぼよれテ[n][e]
 
 [msg skill_2C3]
-[f 0 5 65278][f 2 1]Gran aumento de da隠os cr胤ticos.[n][e]
+[f 0 5 65278][f 2 1]てるぺょ ぺゎゆまょろよ ぽま ぽぺォよれ ぼるウろもぼよれテ[n][e]
 
 [msg skill_2C4]
-[f 0 5 65278][f 2 1]Aumenta la prob. crítica contra los[n]enemigos con Ataduras.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぼるウろもぼぺ ぼよょろるぺ ゅよれ まょまゆもむよれ[n]ぼよょ だろぺぽゎるぺれテ[n][e]
 
 [msg skill_2C5]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_2C6]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_2C7]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_2C8]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_2C9]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_2CA]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la prob. de[n]infligir est. alterados y Ataduras.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ らるよほテ ぽま もょみゅもむもる まれろテ[n]ぺゅろまるぺぽよれ を だろぺぽゎるぺれテ[n][e]
 
 [msg skill_2CB]
-[f 0 5 65278][f 2 1]Aumenta la prob. de infligir[n]est. alterados y Ataduras.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま もょみゅもむもる まれろテ ぺゅろまるぺぽよれ[n]を だろぺぽゎるぺれテ[n][e]
 
 [msg skill_2CC]
-[f 0 5 65278][f 2 1]Aumenta ligeramente los da隠os cr胤ticos.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅよれ ぽぺォよれ ぼるウろもぼよれテ[n][e]
 
 [msg skill_2CD]
-[f 0 5 65278][f 2 1]Aumenta los da隠os cr胤ticos.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅよれ ぽぺォよれ ぼるウろもぼよれテ[n][e]
 
 [msg skill_2CE]
-[f 0 5 65278][f 2 1]Aumenta la prob. de cr胤ticos contra los[n]enemigos con Atadura.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま ぼるウろもぼよれ ぼよょろるぺ ゅよれ[n]まょまゆもむよれ ぼよょ だろぺぽゎるぺテ[n][e]
 
 [msg skill_2CF]
-[f 0 5 65278][f 2 1]Aumenta considerablemente la tasa de críticos contra[n]enemigos con Ataduras.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ ろぺれぺ ぽま ぼるウろもぼよれ[n]ぼよょろるぺ まょまゆもむよれ ぼよょ だろぺぽゎるぺれテ[n][e]
 
 [msg skill_2D0]
-[f 0 5 65278][f 2 1]Realiza un atq. físico grave siempre que[n]se inflija una Atadura a un enemigo.[n][e]
+[f 0 5 65278][f 2 1]ぱまぺゅもんぺ ゎょ ぺろりテ みウれもぼよ むるぺわま れもまゆらるま りゎま れま[n]もょみゅもゃぺ ゎょぺ だろぺぽゎるぺ ぺ ゎょ まょまゆもむよテ[n][e]
 
 [msg skill_2D1]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_2D2]
-[f 0 5 65278][f 2 1]Prob. alta de reducir a la mitad el Da隠o f胤sico[n]contra la fila del usuario.[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま るまぽゎぼもる ぺ ゅぺ ゆもろぺぽ まゅ っぺォよ[n]みウれもぼよ ぼよょろるぺ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよテ[n][e]
 
 [msg skill_2D3]
-[f 0 5 65278][f 2 1]Amplifica los efectos de restauración de PS.[n](Aumenta más con ventajas)[n][e]
+[f 0 5 65278][f 2 1]だゆらゅもみもぼぺ ゅよれ まみまぼろよれ ぽま るまれろぺゎるぺぼもカょ ぽま はひテ[n]ドだゎゆまょろぺ ゆァれ ぼよょ わまょろぺゃぺれナ[n][e]
 
 [msg skill_2D4]
-[f 0 5 65278][f 2 1]0x2D4[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾっダ[n][e]
 
 [msg skill_2D5]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]Restaurar PS[f 0 1 0] cuando[n]estas cerca de ser derribado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぱまれろぺゎるぺる はひ[f 0 1 0] ぼゎぺょぽよ まれろぺれ[n]ぼまるぼぺ ぽま れまる ぽまるるもほぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_2D6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio las habilidades de Enlace y la prob. de da隠o de Enlace[f 0 1 0] posteriormente. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ ゅぺれ めぺほもゅもぽぺぽまれ ぽま つょゅぺぼま を ゅぺ[n]らるよほテ ぽま ぽぺォよ ぽま つょゅぺぼま[f 0 1 0] らよれろまるもよるゆまょろまテ ドだゎろよナ[n][e]
 
 [msg skill_2D7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente las habilidades de Enlace y la prob.[n]de daño de Enlace[f 0 1 0] posteriormente. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺれ めぺほもゅもぽぺぽまれ ぽま[n]つょゅぺぼま を ゅぺ らるよほテ ぽま ぽぺォよ ぽま つょゅぺぼま[f 0 1 0] らよれろまるもよるゆまょろまテ ドだゎろよナ[n][e]
 
 [msg skill_2D8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta intensamente las habilidades de Enlace y la prob.[n]de daño de Enlace[f 0 1 0] posteriormente. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ もょろまょれぺゆまょろま ゅぺれ めぺほもゅもぽぺぽまれ ぽま つょゅぺぼま[n]を ゅぺ らるよほテ ぽま ぽぺォよ ぽま つょゅぺぼま[f 0 1 0] らよれろまるもよるゆまょろまテ ドだゎろよナ[n][e]
 
 [msg skill_2D9]
-[f 0 5 65278][f 2 1]Restaura PE despu姻s derrotar a un[n]enemigo golpeando su debilidad. (Auto)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぽまれらゎイれ ぽまるるよろぺる ぺ ゎょ まょまゆもむよ[n]むよゅらまぺょぽよ れゎ ぽまほもゅもぽぺぽテ ドだゎろよナ[n][e]
 
 [msg skill_2DA]
-[f 0 5 65278][f 2 1]Aumenta el da隠o de las habilidades F胤sicas.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ ぽぺォよ ぽま ゅぺれ めぺほもゅもぽぺぽまれ づウれもぼぺれテ[n]ドだゎろよナ[n][e]
 
 [msg skill_2DB]
-[f 0 5 65278][f 2 1]0x2DB[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾっち[n][e]
 
 [msg skill_2DC]
-[f 0 5 65278][f 2 1]Restaura PE cada turno. (Auto)[n](Requiere C胤rculos)[n][e]
+[f 0 5 65278][f 2 1]ぱまれろぺゎるぺ はつ ぼぺぽぺ ろゎるょよテ ドだゎろよナ ドぱまりゎもまるま[n]ぢウるぼゎゅよれナ[n][e]
 
 [msg skill_2DD]
-[f 0 5 65278][f 2 1]Amplifica los efectos de restauración de PS, más[n]eficaz cuando hay Ventajas. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゆらゅもみもぼぺ ゅよれ まみまぼろよれ ぽま るまれろぺゎるぺぼもカょ ぽま はひデ[n]ゆァれ まみもぼぺん ぼゎぺょぽよ めぺを ふまょろぺゃぺれテ ドだゎろよナ[n][e]
 
 [msg skill_2DE]
-[f 0 5 65278][f 2 1]0x2DE[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾっつ[n][e]
 
 [msg skill_2DF]
-[f 0 5 65278][f 2 1]0x2DF[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾっづ[n][e]
 
 [msg skill_2E0]
-[f 0 5 65278][f 2 1]0x2E0[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾつゼ[n][e]
 
 [msg skill_2E1]
-[f 0 5 65278][f 2 1]0x2E1[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾつソ[n][e]
 
 [msg skill_2E2]
-[f 0 5 65278][f 2 1]0x2E2[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾつゾ[n][e]
 
 [msg skill_2E3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ ょゎぼゅまぺるテ[n]ドだゎろよナ[n][e]
 
 [msg skill_2E4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. psicoquinético. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ[n]られもぼよりゎもょイろもぼよテ ドだゎろよナ[n][e]
 
 [msg skill_2E5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de Atq. de bendici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま だろりテ ぽま[n]ほまょぽもぼもカょテ ドだゎろよナ[n][e]
 
 [msg skill_2E6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. de maldici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ ぽま[n]ゆぺゅぽもぼもカょテ ドだゎろよナ[n][e]
 
 [msg skill_2E7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] de poder de[n]atq. nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ ょゎぼゅまぺるテ[n]ドだゎろよナ[n][e]
 
 [msg skill_2E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] de poder de[n]atq. psicoquinético. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ られもぼよりゎもょイろもぼよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_2E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] de poder de[n]Atq. de bendici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] ぽま らよぽまる ぽま だろりテ ぽま ほまょぽもぼもカょテ[n]ドだゎろよナ[n][e]
 
 [msg skill_2EA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio[f 0 1 0] de poder de[n]atq. de maldici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ ぽま ゆぺゅぽもぼもカょテ[n]ドだゎろよナ[n][e]
 
 [msg skill_2EB]
-[f 0 5 65278][f 2 1]Puede [f 0 1 2]aumentar atq. de seguimiento[f 0 1 0] de la[n]fila del usuario por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]はゎまぽま [f 0 1 2]ぺゎゆまょろぺる ぺろりテ ぽま れまむゎもゆもまょろよ[f 0 1 0] ぽま ゅぺ[n]みもゅぺ ぽまゅ ゎれゎぺるもよ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_2EC]
-[f 0 5 65278][f 2 1]0x2EC[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾつぢ[n][e]
 
 [msg skill_2ED]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]anular Atqs. f胤sicos[n][f 0 1 0] por 3 turnos.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺょゎゅぺる だろりれテ みウれもぼよれ [f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_2EE]
-[f 0 5 65278][f 2 1]0x2EE[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾつつ[n][e]
 
 [msg skill_2EF]
-[f 0 5 65278][f 2 1][f 0 1 2]Contraatq. poderoso[f 0 1 0] cada vez que la fila[n]del usuario sea atacada por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぢよょろるぺぺろりテ らよぽまるよれよ[f 0 1 0] ぼぺぽぺ わまん りゎま ゅぺ みもゅぺ[n]ぽまゅ ゎれゎぺるもよ れまぺ ぺろぺぼぺぽぺ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_2F0]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_2F1]
-[f 0 5 65278][f 2 1]Las habilidades de atq. dirigidas a enemigos se[n]activan dos veces por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽもるもむもぽぺれ ぺ まょまゆもむよれ[n]れま ぺぼろもわぺょ ぽよれ わまぼまれ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_2F2]
-[f 0 5 65278][f 2 1]0x2F2[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾづゾ[n][e]
 
 [msg skill_2F3]
-[f 0 5 65278][f 2 1]0x2F3[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾづタ[n][e]
 
 [msg skill_2F4]
-[f 0 5 65278][f 2 1]Aumenta ligeramente la prob. de infligir[n]Estados Alterados/Ataduras. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ らるよほテ ぽま もょみゅもむもる[n]つれろぺぽよれ だゅろまるぺぽよれギだろぺぽゎるぺれテ ドだゎろよナ[n][e]
 
 [msg skill_2F5]
-[f 0 5 65278][f 2 1]Aumenta la prob. de infligir[n]Estados Alterados/Ataduras. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぽま もょみゅもむもる つれろぺぽよれ[n]だゅろまるぺぽよれギだろぺぽゎるぺれテ ドだゎろよナ[n][e]
 
 [msg skill_2F6]
-[f 0 5 65278][f 2 1]Aumenta ligeramente los da隠os cr胤ticos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅよれ ぽぺォよれ ぼるウろもぼよれテ ドだゎろよナ[n][e]
 
 [msg skill_2F7]
-[f 0 5 65278][f 2 1]Aumenta los da隠os cr胤ticos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅよれ ぽぺォよれ ぼるウろもぼよれテ ドだゎろよナ[n][e]
 
 [msg skill_2F8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prob. crítica[f 0 1 0][n]cuando el objetivo está Atado. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるよほテ ぼるウろもぼぺ[f 0 1 0] ぼゎぺょぽよ まゅ よほゃまろもわよ[n]まれろァ だろぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_2F9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente la prob. crítica[f 0 1 0][n]cuando el objetivo está Atado. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ らるよほテ ぼるウろもぼぺ[f 0 1 0][n]ぼゎぺょぽよ まゅ よほゃまろもわよ まれろァ だろぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_2FA]
-[f 0 5 65278][f 2 1]Atq. adicional grave cuando[n]el objetivo está Atado. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぺぽもぼもよょぺゅ むるぺわま ぼゎぺょぽよ まゅ よほゃまろもわよ まれろァ[n]だろぺぽよテ ドだゎろよナ[n][e]
 
 [msg skill_2FB]
-[f 0 5 65278][f 2 1]0x2FB[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾづち[n][e]
 
 [msg skill_2FC]
-[f 0 5 65278][f 2 1]Prob. alta de disminuir Da隠o[n]f胤sico a la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま ぽもれゆもょゎもる っぺォよ みウれもぼよ ぺ ゅぺ みもゅぺ[n]ぽまゅ ゎれゎぺるもよテ ドだゎろよナ[n][e]
 
 [msg skill_2FD]
-[f 0 5 65278][f 2 1]0x2FD[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾづっ[n][e]
 
 [msg skill_2FE]
-[f 0 5 65278][f 2 1]0x2FE[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾづつ[n][e]
 
 [msg skill_2FF]
-[f 0 5 65278][f 2 1]0x2FF[n][e]
+[f 0 5 65278][f 2 1]ゼゑゾづづ[n][e]
 
 [msg skill_300]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_301]
-[f 0 5 65278][f 2 1]Atq. de fuego leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_302]
-[f 0 5 65278][f 2 1]Atq. de fuego medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_303]
-[f 0 5 65278][f 2 1]Atq. de fuego grave[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわま ドソ つょまゆもむよナ[n][e]
 
 [msg skill_304]
-[f 0 5 65278][f 2 1]Atq. de fuego leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_305]
-[f 0 5 65278][f 2 1]Atq. de fuego medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_306]
-[f 0 5 65278][f 2 1]Atq. de fuego grave[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわま ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_307]
-[f 0 5 65278][f 2 1]Atq. de fuego leve que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_308]
-[f 0 5 65278][f 2 1]Atq. de fuego medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_309]
-[f 0 5 65278][f 2 1]Atq. de fuego grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_30A]
-[f 0 5 65278][f 2 1]0x30A[n][e]
+[f 0 5 65278][f 2 1]ゼゑタゼだ[n][e]
 
 [msg skill_30B]
-[f 0 5 65278][f 2 1]Atq. de viento leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_30C]
-[f 0 5 65278][f 2 1]Atq. de viento medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_30D]
-[f 0 5 65278][f 2 1]Atq. de viento grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_30E]
-[f 0 5 65278][f 2 1]Atq. de viento leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_30F]
-[f 0 5 65278][f 2 1]Atq. de viento medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_310]
-[f 0 5 65278][f 2 1]Atq. de viento grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_311]
-[f 0 5 65278][f 2 1]2-3 atq. leves de viento a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-タ ぺろりテ ゅまわまれ ぽま わもまょろよ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_312]
-[f 0 5 65278][f 2 1]2-3 atq. medios de viento a[n]objetivos aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-タ ぺろりテ ゆまぽもよれ ぽま わもまょろよ ぺ よほゃまろもわよれ[n]ぺゅまぺろよるもよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_313]
-[f 0 5 65278][f 2 1]2-3 atq. graves de viento a[n]objetivos aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-タ ぺろりテ むるぺわまれ ぽま わもまょろよ ぺ よほゃまろもわよれ[n]ぺゅまぺろよるもよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_314]
-[f 0 5 65278][f 2 1]0x314[n][e]
+[f 0 5 65278][f 2 1]ゼゑタソダ[n][e]
 
 [msg skill_315]
-[f 0 5 65278][f 2 1]Atq. de hielo leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_316]
-[f 0 5 65278][f 2 1]Atq. de hielo medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_317]
-[f 0 5 65278][f 2 1]Atq. de hielo grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_318]
-[f 0 5 65278][f 2 1]Atq. de hielo leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_319]
-[f 0 5 65278][f 2 1]Atq. de hielo medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_31A]
-[f 0 5 65278][f 2 1]Atq. de hielo grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_31B]
-[f 0 5 65278][f 2 1]2-4 Atqs. de hielo medios a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-ダ だろりれテ ぽま めもまゅよ ゆまぽもよれ ぺ よほゃまろもわよれ[n]ぺゅまぺろよるもよれテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_31C]
-[f 0 5 65278][f 2 1]Atq. de hielo leve que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわま りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_31D]
-[f 0 5 65278][f 2 1]Atq. de hielo medio que perfora a[n]la fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゆまぽもよ りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_31E]
-[f 0 5 65278][f 2 1]Atq. de hielo grave que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわま りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_31F]
-[f 0 5 65278][f 2 1]0x31F[n][e]
+[f 0 5 65278][f 2 1]ゼゑタソづ[n][e]
 
 [msg skill_320]
-[f 0 5 65278][f 2 1]Atq. elec. leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_321]
-[f 0 5 65278][f 2 1]Atq. elec. medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_322]
-[f 0 5 65278][f 2 1]Atq. elec. grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_323]
-[f 0 5 65278][f 2 1]Atq. elec. leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_324]
-[f 0 5 65278][f 2 1]Atq. elec. medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_325]
-[f 0 5 65278][f 2 1]Atq. elec. grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_326]
-[f 0 5 65278][f 2 1]6 atq. graves elec. a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ヂ ぺろりテ むるぺわまれ まゅまぼテ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_327]
-[f 0 5 65278][f 2 1]Atq. elec. leve.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゅまわまテ ドソ みもゅぺナ[n][e]
 
 [msg skill_328]
-[f 0 5 65278][f 2 1]Atq. elec. medio[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ ゆまぽもよ ドソ みもゅぺナ[n][e]
 
 [msg skill_329]
-[f 0 5 65278][f 2 1]Atq. elec. grave.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ まゅまぼテ むるぺわまテ ドソ みもゅぺナ[n][e]
 
 [msg skill_32A]
-[f 0 5 65278][f 2 1]0x32A[n][e]
+[f 0 5 65278][f 2 1]ゼゑタゾだ[n][e]
 
 [msg skill_32B]
-[f 0 5 65278][f 2 1]Atq. medio todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_32C]
-[f 0 5 65278][f 2 1]Atq. grave todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_32D]
-[f 0 5 65278][f 2 1]Atq. severo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_32E]
-[f 0 5 65278][f 2 1]0x32E[n][e]
+[f 0 5 65278][f 2 1]ゼゑタゾつ[n][e]
 
 [msg skill_32F]
-[f 0 5 65278][f 2 1]0x32F[n][e]
+[f 0 5 65278][f 2 1]ゼゑタゾづ[n][e]
 
 [msg skill_330]
-[f 0 5 65278][f 2 1]0x330[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタゼ[n][e]
 
 [msg skill_331]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ ドだろりテ[n]ぽま ほまょぽもぼもカょナ[n][e]
 
 [msg skill_332]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de bendici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ[n]ドだろりテ ぽま ほまょぽもぼもカょナ[n][e]
 
 [msg skill_333]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_334]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_335]
-[f 0 5 65278][f 2 1]0x335[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタチ[n][e]
 
 [msg skill_336]
-[f 0 5 65278][f 2 1]0x336[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタヂ[n][e]
 
 [msg skill_337]
-[f 0 5 65278][f 2 1]0x337[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタッ[n][e]
 
 [msg skill_338]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ ドだろりテ[n]ぽま ゆぺゅぽもぼもカょナ[n][e]
 
 [msg skill_339]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](1 Enemigo) (Atq. de maldici吋n)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドソ つょまゆもむよナ[n]ドだろりテ ぽま ゆぺゅぽもぼもカょナ[n][e]
 
 [msg skill_33A]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. baja de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ほぺゃぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_33B]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Muerte Inst.[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬゎまるろま とょれろテ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_33C]
-[f 0 5 65278][f 2 1]0x33C[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタぢ[n][e]
 
 [msg skill_33D]
-[f 0 5 65278][f 2 1]0x33D[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタっ[n][e]
 
 [msg skill_33E]
-[f 0 5 65278][f 2 1]0x33E[n][e]
+[f 0 5 65278][f 2 1]ゼゑタタつ[n][e]
 
 [msg skill_33F]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Envenenamiento[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま つょわまょまょぺゆもまょろよ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_340]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Envenenamiento[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま つょわまょまょぺゆもまょろよ[f 0 1 0] ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_341]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Petrificaci吋n[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま はまろるもみもぼぺぼもカょ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_342]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Petrificaci吋n[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま はまろるもみもぼぺぼもカょ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_343]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Sue隠o[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_344]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Sue隠o[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_345]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Confusi吋n[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_346]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Confusi吋n[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_347]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Confusi吋n[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_348]
-[f 0 5 65278][f 2 1]Prob. media de Ceguera.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま ぢまむゎまるぺテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_349]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Maldición[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_34A]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Maldición[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_34B]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Par茨lisis[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま はぺるァゅもれもれ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_34C]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Par茨lisis[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま はぺるァゅもれもれ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_34D]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura M茨gica[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_34E]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura M茨gica[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ[f 0 1 0] ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_34F]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura F胤sica[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ づウれもぼぺ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_350]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura F胤sica[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ づウれもぼぺ[f 0 1 0] ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_351]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura de Agilidad[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_352]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Atadura de Agilidad[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ ぽま だむもゅもぽぺぽ[f 0 1 0] ドびよぽよれ[n]ゅよれ まょまゆテナ[n][e]
 
 [msg skill_353]
-[f 0 5 65278][f 2 1]Atq. todopoderoso grave a todos,[n]incluyendo aliados y enemigos.[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ むるぺわま ぺ ろよぽよれデ もょぼゅゎをまょぽよ[n]ぺゅもぺぽよれ を まょまゆもむよれテ[n][e]
 
 [msg skill_354]
-[f 0 5 65278][f 2 1][f 0 1 2]Prob. media de Sue隠o[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]はるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_355]
-[f 0 5 65278][f 2 1]Atq. leve de bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま ぽま ほまょぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_356]
-[f 0 5 65278][f 2 1]Atq. medio de bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ ぽま ほまょぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_357]
-[f 0 5 65278][f 2 1]Atq. grave de bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ほまょぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_358]
-[f 0 5 65278][f 2 1]0x358[n][e]
+[f 0 5 65278][f 2 1]ゼゑタチツ[n][e]
 
 [msg skill_359]
-[f 0 5 65278][f 2 1]0x359[n][e]
+[f 0 5 65278][f 2 1]ゼゑタチヅ[n][e]
 
 [msg skill_35A]
-[f 0 5 65278][f 2 1]0x35A[n][e]
+[f 0 5 65278][f 2 1]ゼゑタチだ[n][e]
 
 [msg skill_35B]
-[f 0 5 65278][f 2 1]Atq. leve de maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま ぽま ゆぺゅぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_35C]
-[f 0 5 65278][f 2 1]Atq. medio de maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ ぽま ゆぺゅぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_35D]
-[f 0 5 65278][f 2 1]Atq. grave de maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ゆぺゅぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_35E]
-[f 0 5 65278][f 2 1]0x35E[n][e]
+[f 0 5 65278][f 2 1]ゼゑタチつ[n][e]
 
 [msg skill_35F]
-[f 0 5 65278][f 2 1]0x35F[n][e]
+[f 0 5 65278][f 2 1]ゼゑタチづ[n][e]
 
 [msg skill_360]
-[f 0 5 65278][f 2 1]0x360[n][e]
+[f 0 5 65278][f 2 1]ゼゑタヂゼ[n][e]
 
 [msg skill_361]
-[f 0 5 65278][f 2 1]Atq. nuclear leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_362]
-[f 0 5 65278][f 2 1]Atq. nuclear medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_363]
-[f 0 5 65278][f 2 1]Atq. nuclear grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_364]
-[f 0 5 65278][f 2 1]Atq. nuclear severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる れまわまるよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_365]
-[f 0 5 65278][f 2 1]Atq. nuclear leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_366]
-[f 0 5 65278][f 2 1]0x366[n][e]
+[f 0 5 65278][f 2 1]ゼゑタヂヂ[n][e]
 
 [msg skill_367]
-[f 0 5 65278][f 2 1]Atq. leve psicoquinético.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま られもぼよりゎもょイろもぼよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_368]
-[f 0 5 65278][f 2 1]Atq. medio psicoquinético.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ られもぼよりゎもょイろもぼよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_369]
-[f 0 5 65278][f 2 1]Atq. grave psicoquinético.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま られもぼよりゎもょイろもぼよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_36A]
-[f 0 5 65278][f 2 1]Atq. severo psicoquinético.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ られもぼよりゎもょイろもぼよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_36B]
-[f 0 5 65278][f 2 1]Atq. leve psicoquinético.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま られもぼよりゎもょイろもぼよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_36C]
-[f 0 5 65278][f 2 1]0x36C[n][e]
+[f 0 5 65278][f 2 1]ゼゑタヂぢ[n][e]
 
 [msg skill_36D]
-[f 0 5 65278][f 2 1]0x36D[n][e]
+[f 0 5 65278][f 2 1]ゼゑタヂっ[n][e]
 
 [msg skill_36E]
-[f 0 5 65278][f 2 1]0x36E[n][e]
+[f 0 5 65278][f 2 1]ゼゑタヂつ[n][e]
 
 [msg skill_36F]
-[f 0 5 65278][f 2 1]Atq. de bendici吋n que inflige un da隠o igual a[n]la mitad de los PS actuales del enemigo.(1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま ほまょぽもぼもカょ りゎま もょみゅもむま ゎょ ぽぺォよ もむゎぺゅ[n]ぺ ゅぺ ゆもろぺぽ ぽま ゅよれ はひ ぺぼろゎぺゅまれ ぽまゅ まょまゆもむよテドソ つょまゆもむよナ[n][e]
 
 [msg skill_370]
-[f 0 5 65278][f 2 1]Atq. de maldici吋n que inflige un da隠o igual a la[n]mitad de los PS actuales del enemigo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま ゆぺゅぽもぼもカょ りゎま もょみゅもむま ゎょ ぽぺォよ もむゎぺゅ[n]ぺ ゅぺ ゆもろぺぽ ぽま ゅよれ はひ ぺぼろゎぺゅまれ ぽまゅ まょまゆもむよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_371]
-[f 0 5 65278][f 2 1]0x371[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッソ[n][e]
 
 [msg skill_372]
-[f 0 5 65278][f 2 1]Atq. de viento severo que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ れまわまるよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ[n]ゅぺぽよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_373]
-[f 0 5 65278][f 2 1]Atq. de viento grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_374]
-[f 0 5 65278][f 2 1]0x374[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッダ[n][e]
 
 [msg skill_375]
-[f 0 5 65278][f 2 1]0x375[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッチ[n][e]
 
 [msg skill_376]
-[f 0 5 65278][f 2 1]0x376[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッヂ[n][e]
 
 [msg skill_377]
-[f 0 5 65278][f 2 1]0x377[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッッ[n][e]
 
 [msg skill_378]
-[f 0 5 65278][f 2 1]0x378[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッツ[n][e]
 
 [msg skill_379]
-[f 0 5 65278][f 2 1]0x379[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッヅ[n][e]
 
 [msg skill_37A]
-[f 0 5 65278][f 2 1]0x37A[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッだ[n][e]
 
 [msg skill_37B]
-[f 0 5 65278][f 2 1]0x37B[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッち[n][e]
 
 [msg skill_37C]
-[f 0 5 65278][f 2 1]0x37C[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッぢ[n][e]
 
 [msg skill_37D]
-[f 0 5 65278][f 2 1]0x37D[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッっ[n][e]
 
 [msg skill_37E]
-[f 0 5 65278][f 2 1]0x37E[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッつ[n][e]
 
 [msg skill_37F]
-[f 0 5 65278][f 2 1]0x37F[n][e]
+[f 0 5 65278][f 2 1]ゼゑタッづ[n][e]
 
 [msg skill_380]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_381]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. [f 0 1 2]Reduce el[n]atq.[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_382]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. [f 0 1 2]Reduce el[n]atq.[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_383]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_384]
-[f 0 5 65278][f 2 1]2 atq. f胤sicos leves.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ゾ ぺろりテ みウれもぼよれ ゅまわまれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_385]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_386]
-[f 0 5 65278][f 2 1]3 atq. f胤sicos medios.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]タ ぺろりテ みウれもぼよれ ゆまぽもよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_387]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_388]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_389]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_38A]
-[f 0 5 65278][f 2 1]3 atq. f胤sicos leves a objetivos aleatorios.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]タ ぺろりテ みウれもぼよれ ゅまわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_38B]
-[f 0 5 65278][f 2 1]Atq. de hielo leve que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ ゅまわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_38C]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, [f 0 1 2]da隠o m茨s alto si el objetivo[n]tiene un est. alterado[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ よほゃまろもわよ[n]ろもまょま ゎょ まれろテ ぺゅろまるぺぽよ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_38D]
-[f 0 5 65278][f 2 1]2-6 atq. f胤sicos medios.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ゾ-ヂ ぺろりテ みウれもぼよれ ゆまぽもよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_38E]
-[f 0 5 65278][f 2 1]Atq. psicoquinético grave que salpica a ambos[n]lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ[n]ゅぺぽよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_38F]
-[f 0 5 65278][f 2 1]Atq. Físico medio que restaura PS[n]al infligir daño. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ づウれもぼよ ゆまぽもよ りゎま るまれろぺゎるぺ はひ ぺゅ もょみゅもむもる[n]ぽぺォよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_390]
-[f 0 5 65278][f 2 1]Atq. Físico medio, con [f 0 1 2]prob. media de Atadura de Fuerza[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ づウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま づゎまるんぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_391]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve que perfora la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま りゎま らまるみよるぺ ゅぺ みもゅぺ ろるぺれまるぺテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_392]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Atadura de Agilidad[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_393]
-[f 0 5 65278][f 2 1]Atq. Físico medio, con [f 0 1 2]prob. media de Atadura de Fuerza[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ づウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま づゎまるんぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_394]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media de Atadura M茨gica[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぬァむもぼぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_395]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_396]
-[f 0 5 65278][f 2 1]2 atq. f胤sicos graves.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ゾ ぺろりテ みウれもぼよれ むるぺわまれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_397]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave. [f 0 1 2]Reduce[n]el atq.[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_398]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave que perfora hasta la fila[n]trasera. (1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわま りゎま らまるみよるぺ めぺれろぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_399]
-[f 0 5 65278][f 2 1]6-8 atq. f胤sicos graves.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ヂ-ツ ぺろりテ みウれもぼよれ むるぺわまれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_39A]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media derribo[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽまるるもほよ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_39B]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. alta[n]de Confusi吋n[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_39C]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. [f 0 1 2]Reduce la defensa[n]por 1 turno[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ [f 0 1 2]ぱまぽゎぼま ゅぺ ぽまみまょれぺ らよる ソ[n]ろゎるょよ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_39D]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_39E]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_39F]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave que salpica a ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3A0]
-[f 0 5 65278][f 2 1]Atq. de hielo grave que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3A1]
-[f 0 5 65278][f 2 1]4 atq. f胤sicos graves.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ダ ぺろりテ みウれもぼよれ むるぺわまれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3A2]
-[f 0 5 65278][f 2 1]4-7 atq. f胤sicos medios a[n]objetivos aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ダ-ッ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3A3]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Confusi吋n[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま ぢよょみゎれもカょ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3A4]
-[f 0 5 65278][f 2 1]Atq. nuclear medio que salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3A5]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3A6]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3A7]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_3A8]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_3A9]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. [n]media de Env.[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ  ゆまぽもぺ ぽま つょわテ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3AA]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media de Sue隠o[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3AB]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Par茨lisis[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま はぺるァゅもれもれ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3AC]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media de Maldición[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま[n]ぬぺゅぽもぼもカょ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3AD]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. (1 Fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドソ づもゅぺナ[n][e]
 
 [msg skill_3AE]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3AF]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3B0]
-[f 0 5 65278][f 2 1]2-4 atq. f胤sicos leves a objetivos aleatorios.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-ダ ぺろりテ みウれもぼよれ ゅまわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3B1]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3B2]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま りゎま れま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3B3]
-[f 0 5 65278][f 2 1]4-8 atq. f胤sicos leves a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ダ-ツ ぺろりテ みウれもぼよれ ゅまわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3B4]
-[f 0 5 65278][f 2 1]Atq. f胤sico.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3B5]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. [f 0 1 2]Reduce el atq.[f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3B6]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve que se salpica a[n]ambos lados. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわま りゎま れま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3B7]
-[f 0 5 65278][f 2 1]Atq. de fuego leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3B8]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve. (1 Fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまテ ドソ づもゅぺナ[n][e]
 
 [msg skill_3B9]
-[f 0 5 65278][f 2 1]Atq. f胤sico.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3BA]
-[f 0 5 65278][f 2 1]Atq. f胤sico que inflige un da隠o igual a la mitad[n]de los PS actuales del enemigo. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ りゎま もょみゅもむま ゎょ ぽぺォよ もむゎぺゅ ぺ ゅぺ[n]ゆもろぺぽ ぽま ゅよれ はひ ぺぼろゎぺゅまれ ぽまゅ まょまゆもむよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3BB]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que se activa al final del[n]turno en que se usa. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま れま ぺぼろもわぺ ぺゅ みもょぺゅ ぽまゅ[n]ろゎるょよ まょ りゎま れま ゎれぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3BC]
-[f 0 5 65278][f 2 1]4-8 atq. nucleares medios a objetivos[n]aleatorios .(Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ダ-ツ ぺろりテ ょゎぼゅまぺるまれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれ[n]テドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3BD]
-[f 0 5 65278][f 2 1]10 atq. f胤sicos medios a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ソゼ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3BE]
-[f 0 5 65278][f 2 1]3-6 atq. f胤sicos medios a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]タ-ヂ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3BF]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media[n]de Atadura de Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C0]
-[f 0 5 65278][f 2 1]Atq. f胤sico graves. [f 0 1 2]prob. media de[n]Atadura de Magia/Fuerza/Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまれテ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C1]
-[f 0 5 65278][f 2 1]8 atq. f胤sicos medios a objetivos aleatorios.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ツ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3C2]
-[f 0 5 65278][f 2 1]Atq. f胤sico severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ れまわまるよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C3]
-[f 0 5 65278][f 2 1]Proporcional Atq. f胤sico.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]はるよらよるぼもよょぺゅ だろりテ みウれもぼよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C4]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. alta de[n]Atadura de agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ[n]ぽま ぺむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C5]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. alta de[n]Atadura de fuerza[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ[n]ぽま みゎまるんぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C6]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. alta de[n]Atadura M茨gica[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ[n]ぬァむもぼぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C7]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio. [f 0 1 2]Reduce el atq.[f 0 1 0][n]por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ [f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3C8]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよテ ドソ みもゅぺナ[n][e]
 
 [msg skill_3C9]
-[f 0 5 65278][f 2 1]0x3C9[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢヅ[n][e]
 
 [msg skill_3CA]
-[f 0 5 65278][f 2 1]0x3CA[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢだ[n][e]
 
 [msg skill_3CB]
-[f 0 5 65278][f 2 1]0x3CB[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢち[n][e]
 
 [msg skill_3CC]
-[f 0 5 65278][f 2 1]0x3CC[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢぢ[n][e]
 
 [msg skill_3CD]
-[f 0 5 65278][f 2 1]0x3CD[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢっ[n][e]
 
 [msg skill_3CE]
-[f 0 5 65278][f 2 1]0x3CE[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢつ[n][e]
 
 [msg skill_3CF]
-[f 0 5 65278][f 2 1]0x3CF[n][e]
+[f 0 5 65278][f 2 1]ゼゑタぢづ[n][e]
 
 [msg skill_3D0]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_3D1]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. leve de PS[f 0 1 0][n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3D2]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0][n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3D3]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura todos los PS[f 0 1 0][n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ろよぽよれ ゅよれ はひ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3D4]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_3D5]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. de PS proporcional[f 0 1 0][n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ぽま はひ らるよらよるぼもよょぺゅ[f 0 1 0] ドはるよらもよナ[n][e]
 
 [msg skill_3D6]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. leve de PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゅまわま ぽま はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_3D7]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_3D8]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura todos los PS[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ろよぽよれ ゅよれ はひ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_3D9]
-[f 0 5 65278][f 2 1]Revive con la mitad de los PS restaurados.[n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1]ぱまわもわま ぼよょ ゅぺ ゆもろぺぽ ぽま ゅよれ はひ るまれろぺゎるぺぽよれテ[n]ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3DA]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive[f 0 1 0] con todos los PS[n]restaurados. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまわもわま[f 0 1 0] ぼよょ ろよぽよれ ゅよれ はひ るまれろぺゎるぺぽよれテ ドソ[n]だゅもぺぽよナ[n][e]
 
 [msg skill_3DB]
-[f 0 5 65278][f 2 1][f 0 1 4]Revive[f 0 1 0] con la mitad de PS[n]restaurados. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまわもわま[f 0 1 0] ぼよょ ゅぺ ゆもろぺぽ ぽま はひ るまれろぺゎるぺぽよれテ ドソ[n]だゅもぺぽよナ[n][e]
 
 [msg skill_3DC]
-[f 0 5 65278][f 2 1]Elimina todas las debilidades.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]つゅもゆもょぺ ろよぽぺれ ゅぺれ ぽまほもゅもぽぺぽまれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_3DD]
-[f 0 5 65278][f 2 1][f 0 1 4]Cura los est. alterados[f 0 1 0][n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぢゎるぺ ゅよれ まれろテ ぺゅろまるぺぽよれ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3DE]
-[f 0 5 65278][f 2 1]Anula los est. alterados.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だょゎゅぺ ゅよれ まれろテ ぺゅろまるぺぽよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_3DF]
-[f 0 5 65278][f 2 1]Anula los est. alterados. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だょゎゅぺ ゅよれ まれろテ ぺゅろまるぺぽよれテ ドてるゎらよナ[n][e]
 
 [msg skill_3E0]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina las Ataduras[f 0 1 0][n](1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅぺれ だろぺぽゎるぺれ[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3E1]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina las Ataduras[f 0 1 0][n](1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅぺれ だろぺぽゎるぺれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_3E2]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina las Ataduras[f 0 1 0][n](Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅぺれ だろぺぽゎるぺれ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_3E3]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_3E4]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_3E5]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el atq.[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だぼろグぺ らるもゆまるよ を ぺゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_3E6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq.[f 0 1 0][n]por 1 turno. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる ソ ろゎるょよテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3E7]
-[f 0 5 65278][f 2 1]Anula 1 atq. f胤sico.[n]Dura 3 turnos.[n][e]
+[f 0 5 65278][f 2 1]だょゎゅぺ ソ ぺろりテ みウれもぼよテ っゎるぺ タ ろゎるょよれテ[n][e]
 
 [msg skill_3E8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0][n]por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3E9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a un aliado.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0] (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゎょ ぺゅもぺぽよテ[n][f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまる[f 0 1 0] ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_3EA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0] (Fila del usuario)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゅよれ ぺゅもぺぽよれテ[n][f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまる[f 0 1 0] ドづもゅぺ ぽまゅ ゎれゎぺるもよナ[n][e]
 
 [msg skill_3EB]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] y protege a los aliados.[n][f 0 1 4]Defensa adicional al proteger[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゅよれ ぺゅもぺぽよれテ[n][f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまる[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_3EC]
-[f 0 5 65278][f 2 1]Durante 3 turnos, recibe atq. de[n]aliados que tengan menos del 50% de PS.[n][e]
+[f 0 5 65278][f 2 1]っゎるぺょろま タ ろゎるょよれデ るまぼもほま ぺろりテ ぽま ぺゅもぺぽよれ りゎま[n]ろまょむぺょ ゆまょよれ ぽまゅ チゼ% ぽま はひテ[n][e]
 
 [msg skill_3ED]
-[f 0 5 65278][f 2 1]Aumenta la defensa f胤sica durante 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ ぽまみまょれぺ みウれもぼぺ ぽゎるぺょろま タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_3EE]
-[f 0 5 65278][f 2 1]Aumenta la defensa de afinidad durante 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ ぽまみまょれぺ ぽま ぺみもょもぽぺぽ ぽゎるぺょろま タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_3EF]
-[f 0 5 65278][f 2 1]Aumenta la prec. durante 5 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるまぼテ ぽゎるぺょろま チ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_3F0]
-[f 0 5 65278][f 2 1]Aumenta la prob. crítica por 5 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ らるよほテ ぼるウろもぼぺ らよる チ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_3F1]
-[f 0 5 65278][f 2 1]Aumenta el atq. de afinidad durante 3 turnos.[n](Propio)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ まゅ ぺろりテ ぽま ぺみもょもぽぺぽ ぽゎるぺょろま タ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_3F2]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq.[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_3F3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_3F4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la eva.[f 0 1 0] por 3 turnos.[n](Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_3F5]
-[f 0 5 65278][f 2 1]Triplica el atq. f胤sico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ みウれもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_3F6]
-[f 0 5 65278][f 2 1]Triplica el atq. m茨gico del siguiente golpe[n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ ゆァむもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_3F7]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al fuego[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ るまれもれろまょぼもぺ ぺゅ みゎまむよ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3F8]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al hielo[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ るまれもれろまょぼもぺ ぺゅ めもまゅよ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3F9]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia elec.[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ るまれもれろまょぼもぺ まゅまぼテ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3FA]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la resistencia al viento[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ るまれもれろまょぼもぺ ぺゅ わもまょろよ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_3FB]
-[f 0 5 65278][f 2 1]Reduce la defensa f胤sica por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま ゅぺ ぽまみまょれぺ みウれもぼぺ らよる タ ろゎるょよれテ ドソ[n]つょまゆもむよナ[n][e]
 
 [msg skill_3FC]
-[f 0 5 65278][f 2 1]Reduce la defensa de afinidad durante[n]3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]ぱまぽゎぼま ゅぺ ぽまみまょれぺ ぽま ぺみもょもぽぺぽ ぽゎるぺょろま タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_3FD]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el atq.[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_3FE]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la defensa[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_3FF]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la prec. y eva.[f 0 1 0][n]por 3 turnos. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ らるまぼテ を まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドびよぽよれ[n]ゅよれ まょまゆテナ[n][e]
 
 [msg skill_400]
-[f 0 5 65278][f 2 1]Vac胤a el Medidor de Grupo.[n][e]
+[f 0 5 65278][f 2 1]ふぺぼウぺ まゅ ぬまぽもぽよる ぽま てるゎらよテ[n][e]
 
 [msg skill_401]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina las Ventajas[f 0 1 0][n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅぺれ ふまょろぺゃぺれ[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_402]
-[f 0 5 65278][f 2 1][f 0 1 4]Elimina las Desventajas[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]つゅもゆもょぺ ゅぺれ っまれわまょろぺゃぺれ[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_403]
-[f 0 5 65278][f 2 1]Espera a un aliado y realiza un[n]golpe simult茨neo con 姻l.[n][e]
+[f 0 5 65278][f 2 1]つれらまるぺ ぺ ゎょ ぺゅもぺぽよ を るまぺゅもんぺ ゎょ むよゅらま れもゆゎゅろァょまよ[n]ぼよょ イゅテ[n][e]
 
 [msg skill_404]
-[f 0 5 65278][f 2 1]Escapa de la batalla.[n][e]
+[f 0 5 65278][f 2 1]つれぼぺらぺ ぽま ゅぺ ほぺろぺゅゅぺテ[n][e]
 
 [msg skill_405]
-[f 0 5 65278][f 2 1]0x405[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゼチ[n][e]
 
 [msg skill_406]
-[f 0 5 65278][f 2 1]0x406[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゼヂ[n][e]
 
 [msg skill_407]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq.[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_408]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la defensa[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_409]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la[n]eva.[f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ[n]だゅもぺぽよナ[n][e]
 
 [msg skill_40A]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el atq.[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぺろりテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_40B]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la defensa[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ ぽまみまょれぺ[f 0 1 0] らよる タ ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_40C]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce la prec. y eva.[f 0 1 0] por 3 turnos.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま ゅぺ らるまぼテ を まわぺテ[f 0 1 0] らよる タ ろゎるょよれテ ドソ[n]つょまゆもむよナ[n][e]
 
 [msg skill_40D]
-[f 0 5 65278][f 2 1]0x40D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゼっ[n][e]
 
 [msg skill_40E]
-[f 0 5 65278][f 2 1]Triplica el atq. f胤sico del siguiente[n]golpe por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]びるもらゅもぼぺ まゅ ぺろりテ みウれもぼよ ぽまゅ れもむゎもまょろま むよゅらま[n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_40F]
-[f 0 5 65278][f 2 1]Atadura de Magia/Fuerza/Agilidad[n]a todos los objetivos.[n][e]
+[f 0 5 65278][f 2 1]だろぺぽゎるぺ ぽま ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ ぺ ろよぽよれ ゅよれ[n]よほゃまろもわよれテ[n][e]
 
 [msg skill_410]
-[f 0 5 65278][f 2 1]Da un grito de guerra.[n][e]
+[f 0 5 65278][f 2 1]っぺ ゎょ むるもろよ ぽま むゎまるるぺテ[n][e]
 
 [msg skill_411]
-[f 0 5 65278][f 2 1]Aumenta la emoci吋n. Permite el uso de[n]un atq. poderoso.[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ まゆよぼもカょテ はまるゆもろま まゅ ゎれよ ぽま ゎょ ぺろりテ[n]らよぽまるよれよテ[n][e]
 
 [msg skill_412]
-[f 0 5 65278][f 2 1]2-3 atq. f胤sicos graves a[n]objetivos aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ-タ ぺろりテ みウれもぼよれ むるぺわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_413]
-[f 0 5 65278][f 2 1]4 atq. f胤sicos graves a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ダ ぺろりテ みウれもぼよれ むるぺわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_414]
-[f 0 5 65278][f 2 1]Atq. todopoderoso Proporcional .[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ろよぽよらよぽまるよれよ はるよらよるぼもよょぺゅ テ ドびよぽよれ ゅよれ[n]まょまゆテナ[n][e]
 
 [msg skill_415]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la eva.[n][f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ [f 0 1 0] らよる タ ろゎるょよれテ[n]ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_416]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la eva.[n][f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ [f 0 1 0] らよる タ ろゎるょよれテ[n]ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_417]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la prec. y la eva.[n][f 0 1 0] por 3 turnos. (1 Aliado)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ らるまぼテ を ゅぺ まわぺテ [f 0 1 0] らよる タ ろゎるょよれテ[n]ドソ だゅもぺぽよナ[n][e]
 
 [msg skill_418]
-[f 0 5 65278][f 2 1][f 0 1 2]Reduce el atq./defensa y prec./eva.[n][f 0 1 0] por 3 turnos. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぱまぽゎぼま まゅ ぺろりテギぽまみまょれぺ を らるまぼテギまわぺテ [f 0 1 0] らよる タ[n]ろゎるょよれテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_419]
-[f 0 5 65278][f 2 1]0x419[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソヅ[n][e]
 
 [msg skill_41A]
-[f 0 5 65278][f 2 1]0x41A[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソだ[n][e]
 
 [msg skill_41B]
-[f 0 5 65278][f 2 1]0x41B[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソち[n][e]
 
 [msg skill_41C]
-[f 0 5 65278][f 2 1]0x41C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソぢ[n][e]
 
 [msg skill_41D]
-[f 0 5 65278][f 2 1]0x41D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソっ[n][e]
 
 [msg skill_41E]
-[f 0 5 65278][f 2 1]0x41E[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソつ[n][e]
 
 [msg skill_41F]
-[f 0 5 65278][f 2 1]0x41F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダソづ[n][e]
 
 [msg skill_420]
-[f 0 5 65278][f 2 1]0x420[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾゼ[n][e]
 
 [msg skill_421]
-[f 0 5 65278][f 2 1]0x421[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾソ[n][e]
 
 [msg skill_422]
-[f 0 5 65278][f 2 1]0x422[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾゾ[n][e]
 
 [msg skill_423]
-[f 0 5 65278][f 2 1]0x423[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾタ[n][e]
 
 [msg skill_424]
-[f 0 5 65278][f 2 1]Aumenta la resistencia al fuego por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺゅ みゎまむよ らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_425]
-[f 0 5 65278][f 2 1]Aumenta la resistencia del viento por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぽまゅ わもまょろよ らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_426]
-[f 0 5 65278][f 2 1]Aumenta la resistencia al hielo por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺゅ めもまゅよ らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_427]
-[f 0 5 65278][f 2 1]Aumenta la resistencia de elec. por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぽま まゅまぼテ らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_428]
-[f 0 5 65278][f 2 1]Aumenta la resistencia a la bendici吋n por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ ほまょぽもぼもカょ らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_429]
-[f 0 5 65278][f 2 1]Aumenta la resistencia a la maldici吋n[n]por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ぺ ゅぺ ゆぺゅぽもぼもカょ らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_42A]
-[f 0 5 65278][f 2 1]Aumenta la resistencia psicoquinética por 3 turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ られもぼよりゎもょイろもぼぺ らよる タ[n]ろゎるょよれテ ドてるゎらよナ[n][e]
 
 [msg skill_42B]
-[f 0 5 65278][f 2 1]Aumenta la resistencia nuclear por 3[n]turnos. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]だゎゆまょろぺ ゅぺ るまれもれろまょぼもぺ ょゎぼゅまぺる らよる タ ろゎるょよれテ[n]ドてるゎらよナ[n][e]
 
 [msg skill_42C]
-[f 0 5 65278][f 2 1]0x42C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾぢ[n][e]
 
 [msg skill_42D]
-[f 0 5 65278][f 2 1]0x42D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾっ[n][e]
 
 [msg skill_42E]
-[f 0 5 65278][f 2 1]0x42E[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾつ[n][e]
 
 [msg skill_42F]
-[f 0 5 65278][f 2 1]0x42F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダゾづ[n][e]
 
 [msg skill_430]
-[f 0 5 65278][f 2 1]0x430[n][e]
+[f 0 5 65278][f 2 1]ゼゑダタゼ[n][e]
 
 [msg skill_431]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. de fuego. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ ぽま[n]みゎまむよテ ドだゎろよナ[n][e]
 
 [msg skill_432]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. de hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ ぽま[n]めもまゅよテ ドだゎろよナ[n][e]
 
 [msg skill_433]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. elec. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ まゅまぼテ[n]ドだゎろよナ[n][e]
 
 [msg skill_434]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente[f 0 1 0] el poder de[n]atq. de viento. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま[f 0 1 0] まゅ らよぽまる ぽま ぺろりテ ぽま[n]わもまょろよテ ドだゎろよナ[n][e]
 
 [msg skill_435]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementa la eva.[f 0 1 0] contra[n]todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]とょぼるまゆまょろぺ ゅぺ まわぺテ[f 0 1 0] ぼよょろるぺ ろよぽよれ ゅよれ ぺろりテ[n]ドだゎろよナ[n][e]
 
 [msg skill_436]
-[f 0 5 65278][f 2 1]0x436[n][e]
+[f 0 5 65278][f 2 1]ゼゑダタヂ[n][e]
 
 [msg skill_437]
-[f 0 5 65278][f 2 1]0x437[n][e]
+[f 0 5 65278][f 2 1]ゼゑダタッ[n][e]
 
 [msg skill_438]
-[f 0 5 65278][f 2 1]0x438[n][e]
+[f 0 5 65278][f 2 1]ゼゑダタツ[n][e]
 
 [msg skill_439]
-[f 0 5 65278][f 2 1]0x439[n][e]
+[f 0 5 65278][f 2 1]ゼゑダタヅ[n][e]
 
 [msg skill_43A]
-[f 0 5 65278][f 2 1]0x43A[n][e]
+[f 0 5 65278][f 2 1]ゼゑダタだ[n][e]
 
 [msg skill_43B]
-[f 0 5 65278][f 2 1]Prob. baja de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de atq. de un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ めぺほもゅもぽぺぽまれ[n]ぽま ぺろりテ ぽま ゎょ れよゅよ よほゃまろもわよテ ドだゎろよナ[n][e]
 
 [msg skill_43C]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de atq. de un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ[n]めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽま ゎょ れよゅよ よほゃまろもわよテ ドだゎろよナ[n][e]
 
 [msg skill_43D]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de atq. de un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ めぺほもゅもぽぺぽまれ[n]ぽま ぺろりテ ぽま ゎょ れよゅよ よほゃまろもわよテ ドだゎろよナ[n][e]
 
 [msg skill_43E]
-[f 0 5 65278][f 2 1]Las habilidades de atq. de baja[n]prob. se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽま ほぺゃぺ らるよほテ れま[n]ぺぼろもわぺるァょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_43F]
-[f 0 5 65278][f 2 1]Las habilidades de atq. de prob. media se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽま らるよほテ ゆまぽもぺ れま[n]ぺぼろもわぺるァょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_440]
-[f 0 5 65278][f 2 1]Las habilidades de atq. de alta[n]prob. se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぽま ぺゅろぺ らるよほテ れま[n]ぺぼろもわぺるァょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_441]
-[f 0 5 65278][f 2 1]0x441[n][e]
+[f 0 5 65278][f 2 1]ゼゑダダソ[n][e]
 
 [msg skill_442]
-[f 0 5 65278][f 2 1]0x442[n][e]
+[f 0 5 65278][f 2 1]ゼゑダダゾ[n][e]
 
 [msg skill_443]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. PS completa. Elimina todos est. alterados[n]y Ataduras[f 0 1 0] (1 fila)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ はひ ぼよゆらゅまろぺテ つゅもゆもょぺ ろよぽよれ まれろテ ぺゅろまるぺぽよれ[n]を だろぺぽゎるぺれ[f 0 1 0] ドソ みもゅぺナ[n][e]
 
 [msg skill_444]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a[n]habilidades de un solo objetivo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ めぺほもゅもぽぺぽまれ[n]ぽま ゎょ れよゅよ よほゃまろもわよテ ドだゎろよナ[n][e]
 
 [msg skill_445]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 2]Atadura Magia/Fuerza/Agilidad[f 0 1 0] (1 fila)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ[f 0 1 0][n]ドソ みもゅぺナ[n][e]
 
 [msg skill_446]
-[f 0 5 65278][f 2 1]Las habilidades de atq. con Prob. alta[n]se activar茨n dos veces. (Auto)[n][e]
+[f 0 5 65278][f 2 1]にぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ ぼよょ はるよほテ ぺゅろぺ れま[n]ぺぼろもわぺるァょ ぽよれ わまぼまれテ ドだゎろよナ[n][e]
 
 [msg skill_447]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_448]
-[f 0 5 65278][f 2 1]0x448[n][e]
+[f 0 5 65278][f 2 1]ゼゑダダツ[n][e]
 
 [msg skill_449]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de atq.[n]elec. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ まゅまぼテ[n]ドだゎろよナ[n][e]
 
 [msg skill_44A]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de atq.[n]de hielo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ ぽま[n]めもまゅよテ ドだゎろよナ[n][e]
 
 [msg skill_44B]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de atq.[n]psicoquinético. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ[n]られもぼよりゎもょイろもぼよテ ドだゎろよナ[n][e]
 
 [msg skill_44C]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de atq.[n]nuclear. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ ょゎぼゅまぺるテ[n]ドだゎろよナ[n][e]
 
 [msg skill_44D]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de atq.[n]de bendici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ ぽま[n]ほまょぽもぼもカょテ ドだゎろよナ[n][e]
 
 [msg skill_44E]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable[f 0 1 0] de poder de atq.[n]de maldici吋n. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま[f 0 1 0] ぽま らよぽまる ぽま ぺろりテ ぽま[n]ゆぺゅぽもぼもカょテ ドだゎろよナ[n][e]
 
 [msg skill_44F]
-[f 0 5 65278][f 2 1]0x44 F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダダ づ[n][e]
 
 [msg skill_450]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en el[n]n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぽぺォよ ぽま つょゅぺぼま[f 0 1 0] ほぺれぺぽよ まょ まゅ ょグゆまるよ[n]ぽま つょゅぺぼまれ ゎろもゅもんぺぽよれテ ドだゎろよナ[n][e]
 
 [msg skill_451]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable del da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま ぽまゅ ぽぺォよ ぽま つょゅぺぼま[f 0 1 0][n]ほぺれぺぽよ まょ まゅ ょグゆまるよ ぽま つょゅぺぼまれ ゎろもゅもんぺぽよれテ ドだゎろよナ[n][e]
 
 [msg skill_452]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el da隠o de Enlace[f 0 1 0] basado en el[n]n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぽぺォよ ぽま つょゅぺぼま[f 0 1 0] ほぺれぺぽよ まょ まゅ ょグゆまるよ[n]ぽま つょゅぺぼまれ ゎろもゅもんぺぽよれテ ドだゎろよナ[n][e]
 
 [msg skill_453]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento considerable del da隠o de Enlace[f 0 1 0] basado en[n]el n雨mero de Enlaces utilizados. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ぼよょれもぽまるぺほゅま ぽまゅ ぽぺォよ ぽま つょゅぺぼま[f 0 1 0][n]ほぺれぺぽよ まょ まゅ ょグゆまるよ ぽま つょゅぺぼまれ ゎろもゅもんぺぽよれテ ドだゎろよナ[n][e]
 
 [msg skill_454]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]a隠adir salpicadura[f 0 1 0] a habilidades[n]de un solo objetivo por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺォぺぽもる れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ めぺほもゅもぽぺぽまれ[n]ぽま ゎょ れよゅよ よほゃまろもわよ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_455]
-[f 0 5 65278][f 2 1]0x455[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチチ[n][e]
 
 [msg skill_456]
-[f 0 5 65278][f 2 1][f 0 1 4]A隠ade salpicadura[f 0 1 0] a habilidades de un[n]solo objetivo para 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だォぺぽま れぺゅらもぼぺぽゎるぺ[f 0 1 0] ぺ めぺほもゅもぽぺぽまれ ぽま ゎょ れよゅよ[n]よほゃまろもわよ らぺるぺ タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_457]
-[f 0 5 65278][f 2 1]0x457[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチッ[n][e]
 
 [msg skill_458]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta el atq.[f 0 1 0] y [f 0 1 2][n]reduce la defensa[f 0 1 0] por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ まゅ ぺろりテ[f 0 1 0] を [f 0 1 2] るまぽゎぼま ゅぺ ぽまみまょれぺ[f 0 1 0] らよる[n]タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_459]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de atq. psicoquinéticos.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だほれよるほま まゅ ぽぺォよ[f 0 1 0] ぽま ぺろりテ られもぼよりゎもょイろもぼよれテ[n]ドだゎろよナ[n][e]
 
 [msg skill_45A]
-[f 0 5 65278][f 2 1][f 0 1 4]Absorbe el da隠o[f 0 1 0] de atq. nucleares.[n](Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だほれよるほま まゅ ぽぺォよ[f 0 1 0] ぽま ぺろりテ ょゎぼゅまぺるまれテ ドだゎろよナ[n][e]
 
 [msg skill_45B]
-[f 0 5 65278][f 2 1]0x45B[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチち[n][e]
 
 [msg skill_45C]
-[f 0 5 65278][f 2 1]0x45C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチぢ[n][e]
 
 [msg skill_45D]
-[f 0 5 65278][f 2 1]0x45D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチっ[n][e]
 
 [msg skill_45E]
-[f 0 5 65278][f 2 1]0x45E[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチつ[n][e]
 
 [msg skill_45F]
-[f 0 5 65278][f 2 1]0x45F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダチづ[n][e]
 
 [msg skill_460]
-[f 0 5 65278][f 2 1]0x460[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂゼ[n][e]
 
 [msg skill_461]
-[f 0 5 65278][f 2 1]0x461[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂソ[n][e]
 
 [msg skill_462]
-[f 0 5 65278][f 2 1]0x462[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂゾ[n][e]
 
 [msg skill_463]
-[f 0 5 65278][f 2 1]0x463[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂタ[n][e]
 
 [msg skill_464]
-[f 0 5 65278][f 2 1]0x464[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂダ[n][e]
 
 [msg skill_465]
-[f 0 5 65278][f 2 1]0x465[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂチ[n][e]
 
 [msg skill_466]
-[f 0 5 65278][f 2 1]0x466[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂヂ[n][e]
 
 [msg skill_467]
-[f 0 5 65278][f 2 1]0x467[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂッ[n][e]
 
 [msg skill_468]
-[f 0 5 65278][f 2 1]0x468[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂツ[n][e]
 
 [msg skill_469]
-[f 0 5 65278][f 2 1]0x469[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂヅ[n][e]
 
 [msg skill_46A]
-[f 0 5 65278][f 2 1]0x46A[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂだ[n][e]
 
 [msg skill_46B]
-[f 0 5 65278][f 2 1]0x46B[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂち[n][e]
 
 [msg skill_46C]
-[f 0 5 65278][f 2 1]0x46C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂぢ[n][e]
 
 [msg skill_46D]
-[f 0 5 65278][f 2 1]0x46D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂっ[n][e]
 
 [msg skill_46E]
-[f 0 5 65278][f 2 1]0x46E[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂつ[n][e]
 
 [msg skill_46F]
-[f 0 5 65278][f 2 1]0x46F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヂづ[n][e]
 
 [msg skill_470]
-[f 0 5 65278][f 2 1]0x470[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッゼ[n][e]
 
 [msg skill_471]
-[f 0 5 65278][f 2 1]0x471[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッソ[n][e]
 
 [msg skill_472]
-[f 0 5 65278][f 2 1]0x472[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッゾ[n][e]
 
 [msg skill_473]
-[f 0 5 65278][f 2 1]0x473[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッタ[n][e]
 
 [msg skill_474]
-[f 0 5 65278][f 2 1]0x474[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッダ[n][e]
 
 [msg skill_475]
-[f 0 5 65278][f 2 1]0x475[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッチ[n][e]
 
 [msg skill_476]
-[f 0 5 65278][f 2 1]0x476[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッヂ[n][e]
 
 [msg skill_477]
-[f 0 5 65278][f 2 1]0x477[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッッ[n][e]
 
 [msg skill_478]
-[f 0 5 65278][f 2 1]0x478[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッツ[n][e]
 
 [msg skill_479]
-[f 0 5 65278][f 2 1]0x479[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッヅ[n][e]
 
 [msg skill_47A]
-[f 0 5 65278][f 2 1]0x47A[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッだ[n][e]
 
 [msg skill_47B]
-[f 0 5 65278][f 2 1]0x47B[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッち[n][e]
 
 [msg skill_47C]
-[f 0 5 65278][f 2 1]0x47C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッぢ[n][e]
 
 [msg skill_47D]
-[f 0 5 65278][f 2 1]0x47D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッっ[n][e]
 
 [msg skill_47E]
-[f 0 5 65278][f 2 1]0x47E[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッつ[n][e]
 
 [msg skill_47F]
-[f 0 5 65278][f 2 1]0x47F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダッづ[n][e]
 
 [msg skill_480]
-[f 0 5 65278][f 2 1]0x480[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツゼ[n][e]
 
 [msg skill_481]
-[f 0 5 65278][f 2 1]0x481[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツソ[n][e]
 
 [msg skill_482]
-[f 0 5 65278][f 2 1]0x482[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツゾ[n][e]
 
 [msg skill_483]
-[f 0 5 65278][f 2 1]0x483[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツタ[n][e]
 
 [msg skill_484]
-[f 0 5 65278][f 2 1]0x484[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツダ[n][e]
 
 [msg skill_485]
-[f 0 5 65278][f 2 1]0x485[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツチ[n][e]
 
 [msg skill_486]
-[f 0 5 65278][f 2 1]0x486[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツヂ[n][e]
 
 [msg skill_487]
-[f 0 5 65278][f 2 1]0x487[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツッ[n][e]
 
 [msg skill_488]
-[f 0 5 65278][f 2 1]0x488[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツツ[n][e]
 
 [msg skill_489]
-[f 0 5 65278][f 2 1]0x489[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツヅ[n][e]
 
 [msg skill_48A]
-[f 0 5 65278][f 2 1]0x48A[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツだ[n][e]
 
 [msg skill_48B]
-[f 0 5 65278][f 2 1]0x48B[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツち[n][e]
 
 [msg skill_48C]
-[f 0 5 65278][f 2 1]0x48C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツぢ[n][e]
 
 [msg skill_48D]
-[f 0 5 65278][f 2 1]0x48D[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツっ[n][e]
 
 [msg skill_48E]
-[f 0 5 65278][f 2 1]0x48E[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツつ[n][e]
 
 [msg skill_48F]
-[f 0 5 65278][f 2 1]0x48F[n][e]
+[f 0 5 65278][f 2 1]ゼゑダツづ[n][e]
 
 [msg skill_490]
-[f 0 5 65278][f 2 1]0x490[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅゼ[n][e]
 
 [msg skill_491]
-[f 0 5 65278][f 2 1]0x491[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅソ[n][e]
 
 [msg skill_492]
-[f 0 5 65278][f 2 1]0x492[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅゾ[n][e]
 
 [msg skill_493]
-[f 0 5 65278][f 2 1]0x493[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅタ[n][e]
 
 [msg skill_494]
-[f 0 5 65278][f 2 1]0x494[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅダ[n][e]
 
 [msg skill_495]
-[f 0 5 65278][f 2 1]0x495[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅチ[n][e]
 
 [msg skill_496]
-[f 0 5 65278][f 2 1]0x496[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅヂ[n][e]
 
 [msg skill_497]
-[f 0 5 65278][f 2 1]0x497[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅッ[n][e]
 
 [msg skill_498]
-[f 0 5 65278][f 2 1]0x498[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅツ[n][e]
 
 [msg skill_499]
-[f 0 5 65278][f 2 1]0x499[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅヅ[n][e]
 
 [msg skill_49A]
-[f 0 5 65278][f 2 1]0x49A[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅだ[n][e]
 
 [msg skill_49B]
-[f 0 5 65278][f 2 1]0x49B[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅち[n][e]
 
 [msg skill_49C]
-[f 0 5 65278][f 2 1]0x49C[n][e]
+[f 0 5 65278][f 2 1]ゼゑダヅぢ[n][e]
 
 [msg skill_49D]
-[f 0 5 65278][f 2 1]Dale Boost a otro aliado.[n]No puede ser cancelado.[n][e]
+[f 0 5 65278][f 2 1]っぺゅま ちよよれろ ぺ よろるよ ぺゅもぺぽよテ ねよ らゎまぽま れまる[n]ぼぺょぼまゅぺぽよテ[n][e]
 
 [msg skill_49E]
-[f 0 5 65278][f 2 1]Atq. Físico con el arma equipada de [f 0 1 2]Rango[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1]だろりテ づウれもぼよ ぼよょ まゅ ぺるゆぺ まりゎもらぺぽぺ ぽま [f 0 1 2]ぱぺょむよ[f 0 1 0]テ[n][e]
 
 [msg skill_49F]
-[f 0 5 65278][f 2 1][f 0 1 4]Prepárate inmediatamente para los atq. enemigos[n]para reducir el daño recibido[f 0 1 0].[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]はるまらァるぺろま もょゆまぽもぺろぺゆまょろま らぺるぺ ゅよれ ぺろりテ まょまゆもむよれ[n]らぺるぺ るまぽゎぼもる まゅ ぽぺォよ るまぼもほもぽよ[f 0 1 0]テ[n][e]
 
 [msg skill_4A0]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_4A1]
-[f 0 5 65278][f 2 1]Invocar a los Soldados de Carta y retrocede.[n][e]
+[f 0 5 65278][f 2 1]とょわよぼぺる ぺ ゅよれ ひよゅぽぺぽよれ ぽま ぢぺるろぺ を るまろるよぼまぽまテ[n][e]
 
 [msg skill_4A2]
-[f 0 5 65278][f 2 1]Invocar a los Soldados de Carta a la fila delantera.[n][e]
+[f 0 5 65278][f 2 1]とょわよぼぺる ぺ ゅよれ ひよゅぽぺぽよれ ぽま ぢぺるろぺ ぺ ゅぺ みもゅぺ[n]ぽまゅぺょろまるぺテ[n][e]
 
 [msg skill_4A3]
-[f 0 5 65278][f 2 1]0x4A3[n][e]
+[f 0 5 65278][f 2 1]ゼゑダだタ[n][e]
 
 [msg skill_4A4]
-[f 0 5 65278][f 2 1]Da隠o grave, con Ataduras de[n]magia, fuerza y agilidad, a aquellos que rompen su juramento.[n][e]
+[f 0 5 65278][f 2 1]っぺォよ むるぺわまデ ぼよょ だろぺぽゎるぺれ ぽま ゆぺむもぺデ みゎまるんぺ を[n]ぺむもゅもぽぺぽデ ぺ ぺりゎまゅゅよれ りゎま るよゆらまょ れゎ ゃゎるぺゆまょろよテ[n][e]
 
 [msg skill_4A5]
-[f 0 5 65278][f 2 1]Prohibir un tipo de acci吋n.[n][e]
+[f 0 5 65278][f 2 1]はるよめもほもる ゎょ ろもらよ ぽま ぺぼぼもカょテ[n][e]
 
 [msg skill_4A6]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわま りゎま らまるみよるぺ めぺれろぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4A7]
-[f 0 5 65278][f 2 1]8 atq. f胤sicos medios a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ツ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_4A8]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_4A9]
-[f 0 5 65278][f 2 1]Atq. de viento leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4AA]
-[f 0 5 65278][f 2 1]Atq. de viento leve que perfora la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわま りゎま らまるみよるぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4AB]
-[f 0 5 65278][f 2 1]Atq. de viento leve.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ ドソ みもゅぺナ[n][e]
 
 [msg skill_4AC]
-[f 0 5 65278][f 2 1]4 atq. de viento leves a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ダ ぺろりテ ぽま わもまょろよ ゅまわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_4AD]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_4AE]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_4AF]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B0]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B1]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B2]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B3]
-[f 0 5 65278][f 2 1]0x4B3[n][e]
+[f 0 5 65278][f 2 1]ゼゑダちタ[n][e]
 
 [msg skill_4B4]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B5]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B6]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B7]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B8]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4B9]
-[f 0 5 65278][f 2 1]0x4B9[n][e]
+[f 0 5 65278][f 2 1]ゼゑダちヅ[n][e]
 
 [msg skill_4BA]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4BB]
-[f 0 5 65278][f 2 1]0x4BB[n][e]
+[f 0 5 65278][f 2 1]ゼゑダちち[n][e]
 
 [msg skill_4BC]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4BD]
-[f 0 5 65278][f 2 1]0x4BD[n][e]
+[f 0 5 65278][f 2 1]ゼゑダちっ[n][e]
 
 [msg skill_4BE]
-[f 0 5 65278][f 2 1]Atadura de Magia/Fuerza/Agilidad[n]a todos los objetivos.[n][e]
+[f 0 5 65278][f 2 1]だろぺぽゎるぺ ぽま ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ ぺ ろよぽよれ ゅよれ[n]よほゃまろもわよれテ[n][e]
 
 [msg skill_4BF]
-[f 0 5 65278][f 2 1]Prohíbe el uso de una habilidad de objetivo masivo[n]por persona.[n][e]
+[f 0 5 65278][f 2 1]はるよめウほま まゅ ゎれよ ぽま ゎょぺ めぺほもゅもぽぺぽ ぽま よほゃまろもわよ[n]ゆぺれもわよ らよる らまるれよょぺテ[n][e]
 
 [msg skill_4C0]
-[f 0 5 65278][f 2 1]Prohíbe el uso de una habilidad para todos.[n][e]
+[f 0 5 65278][f 2 1]はるよめウほま まゅ ゎれよ ぽま ゎょぺ めぺほもゅもぽぺぽ らぺるぺ ろよぽよれテ[n][e]
 
 [msg skill_4C1]
-[f 0 5 65278][f 2 1]0x4C1[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢソ[n][e]
 
 [msg skill_4C2]
-[f 0 5 65278][f 2 1]0x4C2[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢゾ[n][e]
 
 [msg skill_4C3]
-[f 0 5 65278][f 2 1]0x4C3[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢタ[n][e]
 
 [msg skill_4C4]
-[f 0 5 65278][f 2 1]2 atq. f胤sicos medios a objetivos[n]aleatorios. (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]ゾ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_4C5]
-[f 0 5 65278][f 2 1]No utilizados[n][e]
+[f 0 5 65278][f 2 1]ねよ ゎろもゅもんぺぽよれ[n][e]
 
 [msg skill_4C6]
-[f 0 5 65278][f 2 1]Atq. de PS proporcional que causa[n]Atadura de Magia/Fuerza/Agilidad a todos.[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま はひ らるよらよるぼもよょぺゅ りゎま ぼぺゎれぺ だろぺぽゎるぺ ぽま[n]ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ ぺ ろよぽよれテ[n][e]
 
 [msg skill_4C7]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. de PS proporcional[f 0 1 0][n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ぽま はひ らるよらよるぼもよょぺゅ[f 0 1 0] ドはるよらもよナ[n][e]
 
 [msg skill_4C8]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura todos los PS[f 0 1 0][n](Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ろよぽよれ ゅよれ はひ[f 0 1 0] ドはるよらもよナ[n][e]
 
 [msg skill_4C9]
-[f 0 5 65278][f 2 1]0x4C9[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢヅ[n][e]
 
 [msg skill_4CA]
-[f 0 5 65278][f 2 1]Atq. severo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_4CB]
-[f 0 5 65278][f 2 1]Atq. severo todopoderoso.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ れまわまるよ ろよぽよらよぽまるよれよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_4CC]
-[f 0 5 65278][f 2 1]0x4CC[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢぢ[n][e]
 
 [msg skill_4CD]
-[f 0 5 65278][f 2 1]0x4CD[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢっ[n][e]
 
 [msg skill_4CE]
-[f 0 5 65278][f 2 1]0x4CE[n][e]
+[f 0 5 65278][f 2 1]ゼゑダぢつ[n][e]
 
 [msg skill_4CF]
-[f 0 5 65278][f 2 1]Atq. de fuego grave que salpica a[n]cualquier lado. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま みゎまむよ むるぺわま りゎま れぺゅらもぼぺ ぺ ぼゎぺゅりゎもまる[n]ゅぺぽよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4D0]
-[f 0 5 65278][f 2 1]Atq. de hielo grave que perfora a la[n]fila trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま めもまゅよ むるぺわま りゎま らまるみよるぺ ぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4D1]
-[f 0 5 65278][f 2 1]Atq. grave de bendici吋n.[n](1 fila)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ほまょぽもぼもカょテ ドソ みもゅぺナ[n][e]
 
 [msg skill_4D2]
-[f 0 5 65278][f 2 1]2-3 atq. graves de maldici吋n a[n]objetivos aleatorios. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]ゾ-タ ぺろりテ むるぺわまれ ぽま ゆぺゅぽもぼもカょ ぺ よほゃまろもわよれ[n]ぺゅまぺろよるもよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_4D3]
-[f 0 5 65278][f 2 1]0x4D3[n][e]
+[f 0 5 65278][f 2 1]ゼゑダっタ[n][e]
 
 [msg skill_4D4]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave que perfora hasta la fila[n]trasera. (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわま りゎま らまるみよるぺ めぺれろぺ ゅぺ みもゅぺ[n]ろるぺれまるぺテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4D5]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4D6]
-[f 0 5 65278][f 2 1]0x4D6[n][e]
+[f 0 5 65278][f 2 1]ゼゑダっヂ[n][e]
 
 [msg skill_4D7]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de fuego.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま みゎまむよテ[n][e]
 
 [msg skill_4D8]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de hielo.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま めもまゅよテ[n][e]
 
 [msg skill_4D9]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de bendici吋n.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま ほまょぽもぼもカょテ[n][e]
 
 [msg skill_4DA]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de maldici吋n.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま ゆぺゅぽもぼもカょテ[n][e]
 
 [msg skill_4DB]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de fuego.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま みゎまむよテ[n][e]
 
 [msg skill_4DC]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de hielo.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま めもまゅよテ[n][e]
 
 [msg skill_4DD]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de bendici吋n.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま ほまょぽもぼもカょテ[n][e]
 
 [msg skill_4DE]
-[f 0 5 65278][f 2 1]Toma un aura de afinidad de maldici吋n.[n][e]
+[f 0 5 65278][f 2 1]びよゆぺ ゎょ ぺゎるぺ ぽま ぺみもょもぽぺぽ ぽま ゆぺゅぽもぼもカょテ[n][e]
 
 [msg skill_4DF]
-[f 0 5 65278][f 2 1]0x4DF[n][e]
+[f 0 5 65278][f 2 1]ゼゑダっづ[n][e]
 
 [msg skill_4E0]
-[f 0 5 65278][f 2 1]Libera la rabia y acumula poder.[n][e]
+[f 0 5 65278][f 2 1]にもほまるぺ ゅぺ るぺほもぺ を ぺぼゎゆゎゅぺ らよぽまるテ[n][e]
 
 [msg skill_4E1]
-[f 0 5 65278][f 2 1]Atq. f胤sico severo que salpica a ambos lados.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ れまわまるよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4E2]
-[f 0 5 65278][f 2 1]0x4E2[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつゾ[n][e]
 
 [msg skill_4E3]
-[f 0 5 65278][f 2 1]Rebobinar el tiempo.[n][e]
+[f 0 5 65278][f 2 1]ぱまほよほもょぺる まゅ ろもまゆらよテ[n][e]
 
 [msg skill_4E4]
-[f 0 5 65278][f 2 1]Avanzar en el tiempo.[n][e]
+[f 0 5 65278][f 2 1]だわぺょんぺる まょ まゅ ろもまゆらよテ[n][e]
 
 [msg skill_4E5]
-[f 0 5 65278][f 2 1]0x4E5[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつチ[n][e]
 
 [msg skill_4E6]
-[f 0 5 65278][f 2 1]0x4E6[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつヂ[n][e]
 
 [msg skill_4E7]
-[f 0 5 65278][f 2 1]0x4E7[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつッ[n][e]
 
 [msg skill_4E8]
-[f 0 5 65278][f 2 1]0x4E8[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつツ[n][e]
 
 [msg skill_4E9]
-[f 0 5 65278][f 2 1]0x4E9[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつヅ[n][e]
 
 [msg skill_4EA]
-[f 0 5 65278][f 2 1]0x4EA[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつだ[n][e]
 
 [msg skill_4EB]
-[f 0 5 65278][f 2 1]0x4EB[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつち[n][e]
 
 [msg skill_4EC]
-[f 0 5 65278][f 2 1]0x4EC[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつぢ[n][e]
 
 [msg skill_4ED]
-[f 0 5 65278][f 2 1]0x4ED[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつっ[n][e]
 
 [msg skill_4EE]
-[f 0 5 65278][f 2 1]0x4EE[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつつ[n][e]
 
 [msg skill_4EF]
-[f 0 5 65278][f 2 1]0x4EF[n][e]
+[f 0 5 65278][f 2 1]ゼゑダつづ[n][e]
 
 [msg skill_4F0]
-[f 0 5 65278][f 2 1]0x4F0[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづゼ[n][e]
 
 [msg skill_4F1]
-[f 0 5 65278][f 2 1]0x4F1[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづソ[n][e]
 
 [msg skill_4F2]
-[f 0 5 65278][f 2 1]Atq. de viento leve. [f 0 1 2]Otros atq. aliados[n]ganan da隠o de enlace[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ぽま わもまょろよ ゅまわまテ [f 0 1 2]のろるよれ ぺろりテ ぺゅもぺぽよれ[n]むぺょぺょ ぽぺォよ ぽま まょゅぺぼま[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_4F3]
-[f 0 5 65278][f 2 1]NO USTED[n][e]
+[f 0 5 65278][f 2 1]ねの ぴひびつっ[n][e]
 
 [msg skill_4F4]
-[f 0 5 65278][f 2 1]0x4F4[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづダ[n][e]
 
 [msg skill_4F5]
-[f 0 5 65278][f 2 1]0x4F5[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづチ[n][e]
 
 [msg skill_4F6]
-[f 0 5 65278][f 2 1]0x4F6[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづヂ[n][e]
 
 [msg skill_4F7]
-[f 0 5 65278][f 2 1]0x4F7[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづッ[n][e]
 
 [msg skill_4F8]
-[f 0 5 65278][f 2 1]0x4F8[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづツ[n][e]
 
 [msg skill_4F9]
-[f 0 5 65278][f 2 1]0x4F9[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづヅ[n][e]
 
 [msg skill_4FA]
-[f 0 5 65278][f 2 1]0x4FA[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづだ[n][e]
 
 [msg skill_4FB]
-[f 0 5 65278][f 2 1]0x4FB[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづち[n][e]
 
 [msg skill_4FC]
-[f 0 5 65278][f 2 1]0x4FC[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづぢ[n][e]
 
 [msg skill_4FD]
-[f 0 5 65278][f 2 1]0x4FD[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづっ[n][e]
 
 [msg skill_4FE]
-[f 0 5 65278][f 2 1]0x4FE[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづつ[n][e]
 
 [msg skill_4FF]
-[f 0 5 65278][f 2 1]0x4FF[n][e]
+[f 0 5 65278][f 2 1]ゼゑダづづ[n][e]
 
 [msg skill_500]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_501]
-[f 0 5 65278][f 2 1]Habilidad de dos chicos duros y[n]masculinos: Ryuji/Kanji[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぽよれ ぼめもぼよれ ぽゎるよれ を ゆぺれぼゎゅもょよれト[n]ぱをゎゃもギなぺょゃも[n][e]
 
 [msg skill_502]
-[f 0 5 65278][f 2 1]Habilidad de dos chicas infinitamente[n]alegres: Ann/Chie[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぽよれ ぼめもぼぺれ もょみもょもろぺゆまょろま ぺゅまむるまれト[n]だょょギぢめもま[n][e]
 
 [msg skill_503]
-[f 0 5 65278][f 2 1]Habilidad de dos paradigmas de gracia:[n]Yukiko/Yusuke[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぽよれ らぺるぺぽもむゆぺれ ぽま むるぺぼもぺト[n]へゎやもやよギへゎれゎやま[n][e]
 
 [msg skill_504]
-[f 0 5 65278][f 2 1]Habilidad de dos líderes de equipo con comodines: [f 6 1 30 0 0 0]/[f 6 1 13 0 0 0][n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぽよれ ゅウぽまるまれ ぽま まりゎもらよ ぼよょ[n]ぼよゆよぽもょまれト [f 6 1 30 0 0 0]ギ[f 6 1 13 0 0 0][n][e]
 
 [msg skill_505]
-[f 0 5 65278][f 2 1]Habilidad de Príncipes Detectives:[n]Akechi/Naoto[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま はるウょぼもらまれ っまろまぼろもわまれト[n]だやまぼめもギねぺよろよ[n][e]
 
 [msg skill_506]
-[f 0 5 65278][f 2 1]Habilidad de herederas liberadas:[n]Haru/Yukiko[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま めまるまぽまるぺれ ゅもほまるぺぽぺれト でぺるゎギへゎやもやよ[n][e]
 
 [msg skill_507]
-[f 0 5 65278][f 2 1]Habilidad de presidentas de consejo estudiantil: Makoto/Mitsuru[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま らるまれもぽまょろぺれ ぽま ぼよょれまゃよ まれろゎぽもぺょろもゅト[n]ぬぺやよろよギぬもろれゎるゎ[n][e]
 
 [msg skill_508]
-[f 0 5 65278][f 2 1]Habilidad de una hero胤na y sus[n]compa隠eros de clase: [f 6 1 27 0 0 0]/Yukari /[n]Junpei/Fuuka[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ゎょぺ めまるよウょぺ を れゎれ ぼよゆらぺォまるよれ ぽま[n]ぼゅぺれまト [f 6 1 27 0 0 0]ギへゎやぺるも ギ どゎょらまもギづゎゎやぺ[n][e]
 
 [msg skill_509]
-[f 0 5 65278][f 2 1]Habilidad de tres muchachos hambrientos:[n]Yusuke/Shinjiro/Akihiko[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ろるまれ ゆゎぼめぺぼめよれ めぺゆほるもまょろよれト[n]へゎれゎやまギひめもょゃもるよギだやもめもやよ[n][e]
 
 [msg skill_50A]
-[f 0 5 65278][f 2 1]Habilidad de ladrones y su discípulo:[n]Ken/Morgana/Ryuji/Ann[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ゅぺぽるよょまれ を れゎ ぽもれぼウらゎゅよト[n]なまょギぬよるむぺょぺギぱをゎゃもギだょょ[n][e]
 
 [msg skill_50B]
-[f 0 5 65278][f 2 1]Habilidad de una heroína y su senpai:[n][f 6 1 27 0 0 0]/Mitsuru/Akihiko/Shinjiro[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ゎょぺ めまるよもょぺ を れゎ れまょらぺもト[n][f 6 1 27 0 0 0]ギぬもろれゎるゎギだやもめもやよギひめもょゃもるよ[n][e]
 
 [msg skill_50C]
-[f 0 5 65278][f 2 1]Habilidad de enigmas (en su mayoría) adorables: Morgana/Teddie/Koromaru[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま まょもむゆぺれ ドまょ れゎ ゆぺをよるウぺナ ぺぽよるぺほゅまれト[n]ぬよるむぺょぺギびまぽぽもまギなよるよゆぺるゎ[n][e]
 
 [msg skill_50D]
-[f 0 5 65278][f 2 1]Habilidad de comodines con agallas de acero: [f 6 1 13 0 0 0]/[f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぼよゆよぽもょまれ ぼよょ ぺむぺゅゅぺれ ぽま ぺぼまるよト[n][f 6 1 13 0 0 0]ギ[f 6 1 16 0 0 0][n][e]
 
 [msg skill_50E]
-[f 0 5 65278][f 2 1]Habilidad de una heroína y sus nuevos lazos: [f 6 1 27 0 0 0]/Aigis/Koromaru/Ken[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ゎょぺ めまるよウょぺ を れゎれ ょゎまわよれ ゅぺんよれト[n][f 6 1 27 0 0 0]ギだもむもれギなよるよゆぺるゎギなまょ[n][e]
 
 [msg skill_50F]
-[f 0 5 65278][f 2 1]Habilidad de dos comodines maduros: [f 6 1 30 0 0 0]/[f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぽよれ ぼよゆよぽもょまれ ゆぺぽゎるよれト[n][f 6 1 30 0 0 0]ギ[f 6 1 16 0 0 0][n][e]
 
 [msg skill_510]
-[f 0 5 65278][f 2 1]Habilidad de cuatro bellezas(?): Haru[n]/ Aigis/Rise/Teddie[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぼゎぺろるよ ほまゅゅまんぺれド?ナト でぺるゎ ギ[n]だもむもれギぱもれまギびまぽぽもま[n][e]
 
 [msg skill_511]
-[f 0 5 65278][f 2 1]Habilidad de tres navegadoras: Futaba/Rise/Fuuka[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ろるまれ ょぺわまむぺぽよるぺれト[n]づゎろぺほぺギぱもれまギづゎゎやぺ[n][e]
 
 [msg skill_512]
-[f 0 5 65278][f 2 1]Habilidad de tres artistas marciales:[n]Makoto/Akihiko/Chie[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ろるまれ ぺるろもれろぺれ ゆぺるぼもぺゅまれト[n]ぬぺやよろよギだやもめもやよギぢめもま[n][e]
 
 [msg skill_513]
-[f 0 5 65278][f 2 1]Habilidad de tres compañeros(?) de los[n]comodín: Junpei/Yosuke/Ryuji[n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ろるまれ ぼよゆらぺォまるよれド?ナ ぽま ゅよれ ぼよゆよぽウょト[n]どゎょらまもギへよれゎやまギぱをゎゃも[n][e]
 
 [msg skill_514]
-[f 0 5 65278][f 2 1]Habilidad de cuatro comodines: [f 6 1 30 0 0 0]/[f 6 1 27 0 0 0]/[f 6 1 13 0 0 0]/[f 6 1 16 0 0 0][n][e]
+[f 0 5 65278][f 2 1]でぺほもゅもぽぺぽ ぽま ぼゎぺろるよ ぼよゆよぽもょまれト[n][f 6 1 30 0 0 0]ギ[f 6 1 27 0 0 0]ギ[f 6 1 13 0 0 0]ギ[f 6 1 16 0 0 0][n][e]
 
 [msg skill_515]
-[f 0 5 65278][f 2 1]0x515[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソチ[n][e]
 
 [msg skill_516]
-[f 0 5 65278][f 2 1]0x516[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソヂ[n][e]
 
 [msg skill_517]
-[f 0 5 65278][f 2 1]0x517[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソッ[n][e]
 
 [msg skill_518]
-[f 0 5 65278][f 2 1]0x518[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソツ[n][e]
 
 [msg skill_519]
-[f 0 5 65278][f 2 1]0x519[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソヅ[n][e]
 
 [msg skill_51A]
-[f 0 5 65278][f 2 1]0x51A[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソだ[n][e]
 
 [msg skill_51B]
-[f 0 5 65278][f 2 1]0x51B[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソち[n][e]
 
 [msg skill_51C]
-[f 0 5 65278][f 2 1]0x51C[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソぢ[n][e]
 
 [msg skill_51D]
-[f 0 5 65278][f 2 1]0x51D[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソっ[n][e]
 
 [msg skill_51E]
-[f 0 5 65278][f 2 1]0x51E[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソつ[n][e]
 
 [msg skill_51F]
-[f 0 5 65278][f 2 1]0x51F[n][e]
+[f 0 5 65278][f 2 1]ゼゑチソづ[n][e]
 
 [msg skill_520]
-[f 0 5 65278][f 2 1]0x520[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾゼ[n][e]
 
 [msg skill_521]
-[f 0 5 65278][f 2 1]0x521[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾソ[n][e]
 
 [msg skill_522]
-[f 0 5 65278][f 2 1]0x522[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾゾ[n][e]
 
 [msg skill_523]
-[f 0 5 65278][f 2 1]0x523[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾタ[n][e]
 
 [msg skill_524]
-[f 0 5 65278][f 2 1]0x524[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾダ[n][e]
 
 [msg skill_525]
-[f 0 5 65278][f 2 1]0x525[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾチ[n][e]
 
 [msg skill_526]
-[f 0 5 65278][f 2 1]0x526[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾヂ[n][e]
 
 [msg skill_527]
-[f 0 5 65278][f 2 1]0x527[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾッ[n][e]
 
 [msg skill_528]
-[f 0 5 65278][f 2 1]0x528[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾツ[n][e]
 
 [msg skill_529]
-[f 0 5 65278][f 2 1]0x529[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾヅ[n][e]
 
 [msg skill_52A]
-[f 0 5 65278][f 2 1]0x52A[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾだ[n][e]
 
 [msg skill_52B]
-[f 0 5 65278][f 2 1]0x52B[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾち[n][e]
 
 [msg skill_52C]
-[f 0 5 65278][f 2 1]0x52C[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾぢ[n][e]
 
 [msg skill_52D]
-[f 0 5 65278][f 2 1]0x52D[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾっ[n][e]
 
 [msg skill_52E]
-[f 0 5 65278][f 2 1]0x52E[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾつ[n][e]
 
 [msg skill_52F]
-[f 0 5 65278][f 2 1]0x52F[n][e]
+[f 0 5 65278][f 2 1]ゼゑチゾづ[n][e]
 
 [msg skill_530]
-[f 0 5 65278][f 2 1]0x530[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタゼ[n][e]
 
 [msg skill_531]
-[f 0 5 65278][f 2 1]0x531[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタソ[n][e]
 
 [msg skill_532]
-[f 0 5 65278][f 2 1]0x532[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタゾ[n][e]
 
 [msg skill_533]
-[f 0 5 65278][f 2 1]0x533[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタタ[n][e]
 
 [msg skill_534]
-[f 0 5 65278][f 2 1]0x534[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタダ[n][e]
 
 [msg skill_535]
-[f 0 5 65278][f 2 1]0x535[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタチ[n][e]
 
 [msg skill_536]
-[f 0 5 65278][f 2 1]0x536[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタヂ[n][e]
 
 [msg skill_537]
-[f 0 5 65278][f 2 1]0x537[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタッ[n][e]
 
 [msg skill_538]
-[f 0 5 65278][f 2 1]0x538[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタツ[n][e]
 
 [msg skill_539]
-[f 0 5 65278][f 2 1]0x539[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタヅ[n][e]
 
 [msg skill_53A]
-[f 0 5 65278][f 2 1]0x53A[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタだ[n][e]
 
 [msg skill_53B]
-[f 0 5 65278][f 2 1]0x53B[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタち[n][e]
 
 [msg skill_53C]
-[f 0 5 65278][f 2 1]0x53C[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタぢ[n][e]
 
 [msg skill_53D]
-[f 0 5 65278][f 2 1]0x53D[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタっ[n][e]
 
 [msg skill_53E]
-[f 0 5 65278][f 2 1]0x53E[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタつ[n][e]
 
 [msg skill_53F]
-[f 0 5 65278][f 2 1]0x53F[n][e]
+[f 0 5 65278][f 2 1]ゼゑチタづ[n][e]
 
 [msg skill_540]
-[f 0 5 65278][f 2 1]0x540[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダゼ[n][e]
 
 [msg skill_541]
-[f 0 5 65278][f 2 1]0x541[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダソ[n][e]
 
 [msg skill_542]
-[f 0 5 65278][f 2 1]0x542[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダゾ[n][e]
 
 [msg skill_543]
-[f 0 5 65278][f 2 1]0x543[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダタ[n][e]
 
 [msg skill_544]
-[f 0 5 65278][f 2 1]0x544[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダダ[n][e]
 
 [msg skill_545]
-[f 0 5 65278][f 2 1]0x545[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダチ[n][e]
 
 [msg skill_546]
-[f 0 5 65278][f 2 1]0x546[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダヂ[n][e]
 
 [msg skill_547]
-[f 0 5 65278][f 2 1]0x547[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダッ[n][e]
 
 [msg skill_548]
-[f 0 5 65278][f 2 1]0x548[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダツ[n][e]
 
 [msg skill_549]
-[f 0 5 65278][f 2 1]0x549[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダヅ[n][e]
 
 [msg skill_54A]
-[f 0 5 65278][f 2 1]0x54A[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダだ[n][e]
 
 [msg skill_54B]
-[f 0 5 65278][f 2 1]0x54B[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダち[n][e]
 
 [msg skill_54C]
-[f 0 5 65278][f 2 1]0x54C[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダぢ[n][e]
 
 [msg skill_54D]
-[f 0 5 65278][f 2 1]0x54D[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダっ[n][e]
 
 [msg skill_54E]
-[f 0 5 65278][f 2 1]0x54E[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダつ[n][e]
 
 [msg skill_54F]
-[f 0 5 65278][f 2 1]0x54F[n][e]
+[f 0 5 65278][f 2 1]ゼゑチダづ[n][e]
 
 [msg skill_550]
-[f 0 5 65278][f 2 1]0x550[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチゼ[n][e]
 
 [msg skill_551]
-[f 0 5 65278][f 2 1]0x551[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチソ[n][e]
 
 [msg skill_552]
-[f 0 5 65278][f 2 1]0x552[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチゾ[n][e]
 
 [msg skill_553]
-[f 0 5 65278][f 2 1]0x553[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチタ[n][e]
 
 [msg skill_554]
-[f 0 5 65278][f 2 1]0x554[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチダ[n][e]
 
 [msg skill_555]
-[f 0 5 65278][f 2 1]0x555[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチチ[n][e]
 
 [msg skill_556]
-[f 0 5 65278][f 2 1]0x556[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチヂ[n][e]
 
 [msg skill_557]
-[f 0 5 65278][f 2 1]0x557[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチッ[n][e]
 
 [msg skill_558]
-[f 0 5 65278][f 2 1]0x558[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチツ[n][e]
 
 [msg skill_559]
-[f 0 5 65278][f 2 1]0x559[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチヅ[n][e]
 
 [msg skill_55A]
-[f 0 5 65278][f 2 1]0x55A[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチだ[n][e]
 
 [msg skill_55B]
-[f 0 5 65278][f 2 1]0x55B[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチち[n][e]
 
 [msg skill_55C]
-[f 0 5 65278][f 2 1]0x55C[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチぢ[n][e]
 
 [msg skill_55D]
-[f 0 5 65278][f 2 1]0x55D[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチっ[n][e]
 
 [msg skill_55E]
-[f 0 5 65278][f 2 1]0x55E[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチつ[n][e]
 
 [msg skill_55F]
-[f 0 5 65278][f 2 1]0x55F[n][e]
+[f 0 5 65278][f 2 1]ゼゑチチづ[n][e]
 
 [msg skill_560]
-[f 0 5 65278][f 2 1]leve Atq. de bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]にまわま だろりテ ぽま ほまょぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_561]
-[f 0 5 65278][f 2 1]Atq. mediano de bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもぺょよ ぽま ほまょぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_562]
-[f 0 5 65278][f 2 1]Atq. grave de bendici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ほまょぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_563]
-[f 0 5 65278][f 2 1]leve Atq. de bendici吋n.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]にまわま だろりテ ぽま ほまょぽもぼもカょテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_564]
-[f 0 5 65278][f 2 1]Atq. mediano de bendici吋n.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもぺょよ ぽま ほまょぽもぼもカょテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_565]
-[f 0 5 65278][f 2 1]Atq. grave de bendici吋n.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ほまょぽもぼもカょテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_566]
-[f 0 5 65278][f 2 1]0x566[n][e]
+[f 0 5 65278][f 2 1]ゼゑチヂヂ[n][e]
 
 [msg skill_567]
-[f 0 5 65278][f 2 1]0x567[n][e]
+[f 0 5 65278][f 2 1]ゼゑチヂッ[n][e]
 
 [msg skill_568]
-[f 0 5 65278][f 2 1]0x568[n][e]
+[f 0 5 65278][f 2 1]ゼゑチヂツ[n][e]
 
 [msg skill_569]
-[f 0 5 65278][f 2 1]0x569[n][e]
+[f 0 5 65278][f 2 1]ゼゑチヂヅ[n][e]
 
 [msg skill_56A]
-[f 0 5 65278][f 2 1]Atq. leve de maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま ぽま ゆぺゅぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_56B]
-[f 0 5 65278][f 2 1]Atq. medio de Maldición.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゆまぽもよ ぽま ぬぺゅぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_56C]
-[f 0 5 65278][f 2 1]Atq. grave de maldici吋n.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ゆぺゅぽもぼもカょテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_56D]
-[f 0 5 65278][f 2 1]Atq. leve de maldici吋n.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ゅまわま ぽま ゆぺゅぽもぼもカょテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_56E]
-[f 0 5 65278][f 2 1]Atq. grave de maldici吋n.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ゆぺゅぽもぼもカょテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_56F]
-[f 0 5 65278][f 2 1]Atq. grave de maldici吋n.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ むるぺわま ぽま ゆぺゅぽもぼもカょテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_570]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_571]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_572]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_573]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_574]
-[f 0 5 65278][f 2 1]Atq. nuclear leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_575]
-[f 0 5 65278][f 2 1]Atq. nuclear medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_576]
-[f 0 5 65278][f 2 1]Atq. nuclear grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_577]
-[f 0 5 65278][f 2 1]Atq. nuclear leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_578]
-[f 0 5 65278][f 2 1]Atq. nuclear medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_579]
-[f 0 5 65278][f 2 1]Atq. nuclear grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_57A]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_57B]
-[f 0 5 65278][f 2 1]Atq. nuclear severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる れまわまるよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_57C]
-[f 0 5 65278][f 2 1]Atq. nuclear severo.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ ょゎぼゅまぺる れまわまるよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_57D]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_57E]
-[f 0 5 65278][f 2 1]Atq. psicoquinético leve.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ ゅまわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_57F]
-[f 0 5 65278][f 2 1]Atq. psicoquinético medio.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ ゆまぽもよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_580]
-[f 0 5 65278][f 2 1]Atq. psicoquinético grave.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ むるぺわまテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_581]
-[f 0 5 65278][f 2 1]Atq. psicoquinético leve.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ ゅまわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_582]
-[f 0 5 65278][f 2 1]Atq. psicoquinético medio.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ ゆまぽもよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_583]
-[f 0 5 65278][f 2 1]Atq. psicoquinético grave.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ むるぺわまテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_584]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_585]
-[f 0 5 65278][f 2 1]Atq. psicoquinético severo.[n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ れまわまるよテ ドソ つょまゆもむよナ[n][e]
 
 [msg skill_586]
-[f 0 5 65278][f 2 1]Atq. psicoquinético severo.[n](Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりテ られもぼよりゎもょイろもぼよ れまわまるよテ ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_587]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまテ ドソ つょまゆもむよナ [f 0 1 3]ぬぺれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_588]
-[f 0 5 65278][f 2 1]3-6 atq. f胤sicos medios a objetivos aleatorios.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]タ-ヂ ぺろりテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれテ[n]ドびよぽよれ ゅよれ まょまゆテナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_589]
-[f 0 5 65278][f 2 1]Atqs. de f胤sicos graves.[n](Todos los enem.) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりれテ ぽま みウれもぼよれ むるぺわまれテ ドびよぽよれ ゅよれ まょまゆテナ[n][f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_58A]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_58B]
-[f 0 5 65278][f 2 1]Atq. f胤sico severo que salpica a ambos lados.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ れまわまるよ りゎま れぺゅらもぼぺ ぺ ぺゆほよれ ゅぺぽよれテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_58C]
-[f 0 5 65278][f 2 1]Atq. f胤sico severo que perfora la fila trasera.[n](1 Enemigo) [f 0 1 3]Más fuerte en Boost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ れまわまるよ りゎま らまるみよるぺ ゅぺ みもゅぺ ろるぺれまるぺテ[n]ドソ つょまゆもむよナ [f 0 1 3]ぬァれ みゎまるろま まょ ちよよれろ[f 0 1 0][n][e]
 
 [msg skill_58D]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. alta[n]de Maldición[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ぺゅろぺ ぽま ぬぺゅぽもぼもカょ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_58E]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, con [f 0 1 2]prob. media[n]de Atadura de Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま だむもゅもぽぺぽ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_58F]
-[f 0 5 65278][f 2 1]Atqs. f胤sicos medios a objetivos aleatorios[n][f 0 1 4]m茨s fuerte con cada golpe[f 0 1 0] (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりれテ みウれもぼよれ ゆまぽもよれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれ[n][f 0 1 4]ゆァれ みゎまるろま ぼよょ ぼぺぽぺ むよゅらま[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_590]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_591]
-[f 0 5 65278][f 2 1]Atqs. f胤sicos graves a objetivos aleatorios[n][f 0 1 4]m茨s fuerte con cada golpe[f 0 1 0] (Todos los enem.)[n][e]
+[f 0 5 65278][f 2 1]だろりれテ みウれもぼよれ むるぺわまれ ぺ よほゃまろもわよれ ぺゅまぺろよるもよれ[n][f 0 1 4]ゆァれ みゎまるろま ぼよょ ぼぺぽぺ むよゅらま[f 0 1 0] ドびよぽよれ ゅよれ まょまゆテナ[n][e]
 
 [msg skill_592]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_593]
-[f 0 5 65278][f 2 1]BLANK[n][e]
+[f 0 5 65278][f 2 1]ちにだねな[n][e]
 
 [msg skill_594]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_595]
-[f 0 5 65278][f 2 1]Atq. f胤sico leve, con [f 0 1 2]prob. media de Sue隠o[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゅまわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま ひゎまォよ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_596]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta ligeramente la defensa[f 0 1 0] y protege a[n]los aliados. [f 0 1 4]Defensa adicional al proteger[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅもむまるぺゆまょろま ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ[n]ゅよれ ぺゅもぺぽよれテ [f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまる[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_597]
-[f 0 5 65278][f 2 1][f 0 1 4]2/3 Costos de habilidad[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ゾギタ ぢよれろよれ ぽま めぺほもゅもぽぺぽ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_598]
-[f 0 5 65278][f 2 1][f 0 1 4]2/3 Costos de habilidad[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ゾギタ ぢよれろよれ ぽま めぺほもゅもぽぺぽ[f 0 1 0] らよる タ ろゎるょよれテ[n]ドはるよらもよナ[n][e]
 
 [msg skill_599]
-[f 0 5 65278][f 2 1][f 0 1 2]Contrataca[f 0 1 0] cada vez que la fila del[n]usuario es atacada por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぢよょろるぺろぺぼぺ[f 0 1 0] ぼぺぽぺ わまん りゎま ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよ[n]まれ ぺろぺぼぺぽぺ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_59A]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_59B]
-[f 0 5 65278][f 2 1]Puede realizar [f 0 1 2]atq. se seguimiento[f 0 1 0] de la fila del usuario durante 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]はゎまぽま るまぺゅもんぺる [f 0 1 2]ぺろりテ れま れまむゎもゆもまょろよ[f 0 1 0] ぽま ゅぺ[n]みもゅぺ ぽまゅ ゎれゎぺるもよ ぽゎるぺょろま タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_59C]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_59D]
-[f 0 5 65278][f 2 1]Duplica el atq. mágico del próximo golpe durante 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]っゎらゅもぼぺ まゅ ぺろりテ ゆァむもぼよ ぽまゅ らるカゑもゆよ むよゅらま[n]ぽゎるぺょろま タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_59E]
-[f 0 5 65278][f 2 1]Prob. media de Anular[f 0 1 4] Atqs. f胤sicos[n][f 0 1 0] por 3 turnos. (1 fila)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま だょゎゅぺる[f 0 1 4] だろりれテ みウれもぼよれ [f 0 1 0] らよる[n]タ ろゎるょよれテ ドソ みもゅぺナ[n][e]
 
 [msg skill_59F]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_5A0]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Atadura de[n]Magia/Fuerza/Agilidad[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぽま ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ[f 0 1 0][n]ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5A1]
-[f 0 5 65278][f 2 1][f 0 1 2]Contrataca[f 0 1 0] cada vez que la fila del[n]usuario es atacada durante 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぢよょろるぺろぺぼぺ[f 0 1 0] ぼぺぽぺ わまん りゎま ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよ[n]まれ ぺろぺぼぺぽぺ ぽゎるぺょろま タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5A2]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_5A3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente la defensa[f 0 1 0] y protege a los[n]aliados. [f 0 1 4]Defensa adicional al proteger[f 0 1 0] (Grupo)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま ゅぺ ぽまみまょれぺ[f 0 1 0] を らるよろまむま ぺ ゅよれ[n]ぺゅもぺぽよれテ [f 0 1 4]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまる[f 0 1 0] ドてるゎらよナ[n][e]
 
 [msg skill_5A4]
-[f 0 5 65278][f 2 1]Prob. alta de que las habilidades de atq. se activen[n]dos veces durante 2 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま りゎま ゅぺれ めぺほもゅもぽぺぽまれ ぽま ぺろりテ れま[n]ぺぼろもわまょ ぽよれ わまぼまれ ぽゎるぺょろま ゾ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5A5]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_5A6]
-[f 0 5 65278][f 2 1][f 0 1 2]Contratq. poderoso[f 0 1 0] cada vez que la fila del[n]usuario es atacada por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 2]ぢよょろるぺろりテ らよぽまるよれよ[f 0 1 0] ぼぺぽぺ わまん りゎま ゅぺ みもゅぺ ぽまゅ[n]ゎれゎぺるもよ まれ ぺろぺぼぺぽぺ らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5A7]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_5A8]
-[f 0 5 65278][f 2 1]Provoca, Defiende y Contraataca al ser atacado.[n]Defensa adicional al proteger. (Grupo)[n][e]
+[f 0 5 65278][f 2 1]はるよわよぼぺデ っまみもまょぽま を ぢよょろるぺぺろぺぼぺ ぺゅ れまる ぺろぺぼぺぽよテ[n]っまみまょれぺ ぺぽもぼもよょぺゅ ぺゅ らるよろまむまるテ ドてるゎらよナ[n][e]
 
 [msg skill_5A9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta considerablemente el da隠o[f 0 1 0][n]al golpear la debilidad de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぼよょれもぽまるぺほゅまゆまょろま まゅ ぽぺォよ[f 0 1 0] ぺゅ むよゅらまぺる[n]ゅぺ ぽまほもゅもぽぺぽ ぽま ゎょ まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_5AA]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta enormemente el[n]atq.[f 0 1 0] por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だぼろグぺ らるもゆまるよ を ぺゎゆまょろぺ まょよるゆまゆまょろま まゅ ぺろりテ[f 0 1 0][n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5AB]
-[f 0 5 65278][f 2 1][f 0 1 4]Act雨a primero y aumenta el atq.[n][f 0 1 0] por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だぼろグぺ らるもゆまるよ を ぺゎゆまょろぺ まゅ ぺろりテ [f 0 1 0] らよる タ[n]ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5AC]
-[f 0 5 65278][f 2 1]Peque隠o da隠o f胤sico. [f 0 1 2]baja Precisi吋n, pero[n]prob. alta de cr胤ticos[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]はまりゎまォよ ぽぺォよ みウれもぼよテ [f 0 1 2]ほぺゃぺ はるまぼもれもカょデ らまるよ[n]らるよほテ ぺゅろぺ ぽま ぼるウろもぼよれ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5AD]
-[f 0 5 65278][f 2 1]Da隠o f胤sico medio. [f 0 1 2]Precisi吋n m胤nima, pero[n]prob. alta de cr胤ticos[f 0 1 0][n](1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]っぺォよ みウれもぼよ ゆまぽもよテ [f 0 1 2]はるまぼもれもカょ ゆウょもゆぺデ らまるよ[n]らるよほテ ぺゅろぺ ぽま ぼるウろもぼよれ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5AE]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg skill_5AF]
-[f 0 5 65278][f 2 1]Al atacar a un enemigo, los aliados[n]hacen m茨s da隠o al objetivo (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゅ ぺろぺぼぺる ぺ ゎょ まょまゆもむよデ ゅよれ ぺゅもぺぽよれ めぺぼまょ[n]ゆァれ ぽぺォよ ぺゅ よほゃまろもわよ ドだゎろよナ[n][e]
 
 [msg skill_5B0]
-[f 0 5 65278][f 2 1]Prob. baja de [f 0 1 4]Contador de Muerte[f 0 1 0][n]al comenzar la batalla. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま [f 0 1 4]ぢよょろぺぽよる ぽま ぬゎまるろま[f 0 1 0] ぺゅ ぼよゆまょんぺる[n]ゅぺ ほぺろぺゅゅぺテ ドだゎろよナ[n][e]
 
 [msg skill_5B1]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]Contador de Muerte[f 0 1 0][n]al comenzar la batalla. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぢよょろぺぽよる ぽま ぬゎまるろま[f 0 1 0] ぺゅ ぼよゆまょんぺる[n]ゅぺ ほぺろぺゅゅぺテ ドだゎろよナ[n][e]
 
 [msg skill_5B2]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま はひ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5B3]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PS[f 0 1 0][n]al final[n]del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]てるぺょ るまれろぺゎるぺぼもカょ ぽま はひ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5B4]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 2]Atadura de[n]Magia/Fuerza/Agilidad[f 0 1 0] (1 fila)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 2]だろぺぽゎるぺ ぽま ぬぺむもぺギづゎまるんぺギだむもゅもぽぺぽ[f 0 1 0][n]ドソ みもゅぺナ[n][e]
 
 [msg skill_5B5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio de evasión[f 0 1 0][n]contra todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ ぽま まわぺれもカょ[f 0 1 0] ぼよょろるぺ ろよぽよれ ゅよれ[n]ぺろりテ ドだゎろよナ[n][e]
 
 [msg skill_5B6]
-[f 0 5 65278][f 2 1]Prob. baja de [f 0 1 4]anular los atq.[n]de f胤sicos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま [f 0 1 4]ぺょゎゅぺる ゅよれ ぺろりテ ぽま みウれもぼよれ[f 0 1 0][n]ドだゎろよナ[n][e]
 
 [msg skill_5B7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumento medio de evasión[f 0 1 0][n]contra todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろよ ゆまぽもよ ぽま まわぺれもカょ[f 0 1 0] ぼよょろるぺ ろよぽよれ ゅよれ[n]ぺろりテ ドだゎろよナ[n][e]
 
 [msg skill_5B8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta la evasión[f 0 1 0][n]contra todos los atq. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ゅぺ まわぺれもカょ[f 0 1 0] ぼよょろるぺ ろよぽよれ ゅよれ ぺろりテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5B9]
-[f 0 5 65278][f 2 1]Prob. baja de [f 0 1 4]anular los[n]atq. de f胤sicos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ほぺゃぺ ぽま [f 0 1 4]ぺょゎゅぺる ゅよれ ぺろりテ ぽま みウれもぼよれ[f 0 1 0][n]ドだゎろよナ[n][e]
 
 [msg skill_5BA]
-[f 0 5 65278][f 2 1][f 0 1 4]Incrementa el da隠o[f 0 1 0] al golpear[n]la debilidad de un enemigo. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]とょぼるまゆまょろぺ まゅ ぽぺォよ[f 0 1 0] ぺゅ むよゅらまぺる ゅぺ ぽまほもゅもぽぺぽ[n]ぽま ゎょ まょまゆもむよテ ドだゎろよナ[n][e]
 
 [msg skill_5BB]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PE[f 0 1 0][n]mientras caminas en laberinto. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はつ[f 0 1 0] ゆもまょろるぺれ ぼぺゆもょぺれ まょ ゅぺほまるもょろよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5BC]
-[f 0 5 65278][f 2 1]alta Prob. derribo. (Auto)[n][e]
+[f 0 5 65278][f 2 1]だゅろぺ はるよほテ ぽまるるもほよテ ドだゎろよナ[n][e]
 
 [msg skill_5BD]
-[f 0 5 65278][f 2 1]Prob. alta de [f 0 1 4]anular el da隠o de fuego/hielo/elec./[n]viento/Psi./nuclear[f 0 1 0] en la fila del usuario. (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ぺゅろぺ ぽま [f 0 1 4]ぺょゎゅぺる まゅ ぽぺォよ ぽま みゎまむよギめもまゅよギまゅまぼテギ[n]わもまょろよギはれもテギょゎぼゅまぺる[f 0 1 0] まょ ゅぺ みもゅぺ ぽまゅ ゎれゎぺるもよテ ドだゎろよナ[n][e]
 
 [msg skill_5BE]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま はひ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5BF]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はひ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ ドだゎろよナ[n][e]
 
 [msg skill_5C0]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PS[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]てるぺょ るまれろぺゎるぺぼもカょ ぽま はひ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5C1]
-[f 0 5 65278][f 2 1][f 0 1 4]Restaura ligeramente los PE[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれろぺゎるぺ ゅもむまるぺゆまょろま ゅよれ はつ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ[n]ろゎるょよテ ドだゎろよナ[n][e]
 
 [msg skill_5C2]
-[f 0 5 65278][f 2 1][f 0 1 4]Res. media de PE[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぱまれテ ゆまぽもぺ ぽま はつ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ ドだゎろよナ[n][e]
 
 [msg skill_5C3]
-[f 0 5 65278][f 2 1][f 0 1 4]Gran restauraci吋n de PE[f 0 1 0][n]al final del turno. (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]てるぺょ るまれろぺゎるぺぼもカょ ぽま はつ[f 0 1 0] ぺゅ みもょぺゅ ぽまゅ ろゎるょよテ[n]ドだゎろよナ[n][e]
 
 [msg skill_5C4]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene un est. alterado[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ[n]よほゃまろもわよ ろもまょま ゎょ まれろテ ぺゅろまるぺぽよ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5C5]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene un est. alterado[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ[n]よほゃまろもわよ ろもまょま ゎょ まれろテ ぺゅろまるぺぽよ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5C6]
-[f 0 5 65278][f 2 1]Atq. f胤sico medio, [f 0 1 2]da隠o m茨s alto si el[n]objetivo tiene[n]una Atadura, elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ ゆまぽもよデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ[n]よほゃまろもわよ ろもまょま ゎょぺ だろぺぽゎるぺデ まゅもゆもょぺ だろぺぽゎるぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5C7]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, [f 0 1 2]da隠o m茨s alto si el objetivo[n]tiene una Atadura, elimina Atadura[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ [f 0 1 2]ぽぺォよ ゆァれ ぺゅろよ れも まゅ[n]よほゃまろもわよ ろもまょま ゎょぺ だろぺぽゎるぺデ まゅもゆもょぺ だろぺぽゎるぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5C8]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media[n]de Atadura M茨gica[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぬァむもぼぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5C9]
-[f 0 5 65278][f 2 1]Atq. f胤sico grave, con [f 0 1 2]prob. media[n]de Atadura de Fuerza[f 0 1 0] (1 Enemigo)[n][e]
+[f 0 5 65278][f 2 1]だろりテ みウれもぼよ むるぺわまデ ぼよょ [f 0 1 2]らるよほテ ゆまぽもぺ ぽま だろぺぽゎるぺ[n]ぽま づゎまるんぺ[f 0 1 0] ドソ つょまゆもむよナ[n][e]
 
 [msg skill_5CA]
-[f 0 5 65278][f 2 1]Prob. media de[n][f 0 1 4]anular atq. f胤sicos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぺょゎゅぺる ぺろりテ みウれもぼよれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5CB]
-[f 0 5 65278][f 2 1][f 0 1 4]Costos de habilidad reducidos a la mitad[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぢよれろよれ ぽま めぺほもゅもぽぺぽ るまぽゎぼもぽよれ ぺ ゅぺ ゆもろぺぽ[f 0 1 0][n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5CC]
-[f 0 5 65278][f 2 1][f 0 1 4]Costos de habilidad reducidos a la mitad[f 0 1 0][n]por 3 turnos. (Propio)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]ぢよれろよれ ぽま めぺほもゅもぽぺぽ るまぽゎぼもぽよれ ぺ ゅぺ ゆもろぺぽ[f 0 1 0][n]らよる タ ろゎるょよれテ ドはるよらもよナ[n][e]
 
 [msg skill_5CD]
-[f 0 5 65278][f 2 1]Prob. media de [f 0 1 4]anular[n]atq.[f 0 1 0] [f 0 1 4]f胤sicos[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1]はるよほテ ゆまぽもぺ ぽま [f 0 1 4]ぺょゎゅぺる ぺろりテ[f 0 1 0] [f 0 1 4]みウれもぼよれ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5CE]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Fr en 2[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ づる まょ ゾ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5CF]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Fr en 3[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ づる まょ タ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D0]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Fr en 4[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ づる まょ ダ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D1]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ma en 2[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぬぺ まょ ゾ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D2]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ma en 3[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぬぺ まょ タ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D3]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ma en 4[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぬぺ まょ ダ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D4]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Rs en 2[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぱれ まょ ゾ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D5]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Rs en 3[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぱれ まょ タ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D6]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Rs en 4[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ぱれ まょ ダ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D7]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ag en 2[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ だむ まょ ゾ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D8]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ag en 3[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ だむ まょ タ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5D9]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Ag en 4[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ だむ まょ ダ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5DA]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Su en 2[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ひゎ まょ ゾ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5DB]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Su en 3[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ひゎ まょ タ[f 0 1 0] ドだゎろよナ[n][e]
 
 [msg skill_5DC]
-[f 0 5 65278][f 2 1][f 0 1 4]Aumenta Su en 4[f 0 1 0] (Auto)[n][e]
+[f 0 5 65278][f 2 1][f 0 1 4]だゎゆまょろぺ ひゎ まょ ダ[f 0 1 0] ドだゎろよナ[n][e]
 

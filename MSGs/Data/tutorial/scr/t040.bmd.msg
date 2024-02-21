@@ -1,4 +1,4 @@
 ﻿[msg IKENIE_MSG]
-[f 0 5 65278][f 2 1][n]Para una [f 0 1 2]Fusi吋n de Sacrificio[f 0 1 0] necesitar茨s dinero, y[n]tambi姻n una Persona Secundaria para servir como sacrificio.[n][n]Este proceso puede fortalecer tanto tu [f 0 1 2]Persona principal[f 0 1 0][n]como tu [f 0 1 2]Persona Secundaria[f 0 1 0], pero no al mismo tiempo.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Tus Personas fortalecidas acelerar茨n tu investigaci吋n y[n]se desempe隠ar茨n mejor en combate.[n][n]Considera las Fusiones de Sacrificio siempre que[n]tengas algo de dinero extra y Personas secundarias[n]adicionales.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]はぺるぺ ゎょぺ [f 0 1 2]づゎれもカょ ぽま ひぺぼるもみもぼもよ[f 0 1 0] ょまぼまれもろぺるァれ ぽもょまるよデ を[n]ろぺゆほもイょ ゎょぺ はまるれよょぺ ひまぼゎょぽぺるもぺ らぺるぺ れまるわもる ぼよゆよ れぺぼるもみもぼもよテ[n][n]つれろま らるよぼまれよ らゎまぽま みよるろぺゅまぼまる ろぺょろよ ろゎ [f 0 1 2]はまるれよょぺ らるもょぼもらぺゅ[f 0 1 0][n]ぼよゆよ ろゎ [f 0 1 2]はまるれよょぺ ひまぼゎょぽぺるもぺ[f 0 1 0]デ らまるよ ょよ ぺゅ ゆもれゆよ ろもまゆらよテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]びゎれ はまるれよょぺれ みよるろぺゅまぼもぽぺれ ぺぼまゅまるぺるァょ ろゎ もょわまれろもむぺぼもカょ を[n]れま ぽまれまゆらまォぺるァょ ゆまゃよる まょ ぼよゆほぺろまテ[n][n]ぢよょれもぽまるぺ ゅぺれ づゎれもよょまれ ぽま ひぺぼるもみもぼもよ れもまゆらるま りゎま[n]ろまょむぺれ ぺゅむよ ぽま ぽもょまるよ まゑろるぺ を はまるれよょぺれ れまぼゎょぽぺるもぺれ[n]ぺぽもぼもよょぺゅまれテ[n][f 1 1][e]
 

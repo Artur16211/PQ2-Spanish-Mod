@@ -1,5 +1,5 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Los aliados sugerir茨n [f 0 1 2]Habilidades de Uni吋n[f 0 1 0][n]cuando obtengan un golpe cr胤tico o golpeen una[n]debilidad.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]によれ ぺゅもぺぽよれ れゎむまるもるァょ [f 0 1 2]でぺほもゅもぽぺぽまれ ぽま ぴょもカょ[f 0 1 0][n]ぼゎぺょぽよ よほろまょむぺょ ゎょ むよゅらま ぼるウろもぼよ よ むよゅらままょ ゎょぺ[n]ぽまほもゅもぽぺぽテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1][n]Junto con el gran da隠o, las Habilidades de Uni吋n tienen una alta probabilidad de derribar al enemigo. 斡Definitivamente 雨salas cuando tengas la oportunidad![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]どゎょろよ ぼよょ まゅ むるぺょ ぽぺォよデ ゅぺれ でぺほもゅもぽぺぽまれ ぽま ぴょもカょ ろもまょまょ ゎょぺ ぺゅろぺ らるよほぺほもゅもぽぺぽ ぽま ぽまるるもほぺる ぺゅ まょまゆもむよテ ィっまみもょもろもわぺゆまょろま グれぺゅぺれ ぼゎぺょぽよ ろまょむぺれ ゅぺ よらよるろゎょもぽぺぽ![n][f 1 1][e]

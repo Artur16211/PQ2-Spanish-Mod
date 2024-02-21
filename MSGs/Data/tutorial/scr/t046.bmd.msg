@@ -1,14 +1,14 @@
 ﻿[msg msg000_MSG]
-[f 0 5 65278][f 2 1]Cuando [f 0 1 2]vendes materiales[f 0 1 0] de un laberinto, es posible que [f 0 1 2]nuevos objetos[n]est姻n disponibles[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]ぢゎぺょぽよ [f 0 1 2]わまょぽまれ ゆぺろまるもぺゅまれ[f 0 1 0] ぽま ゎょ ゅぺほまるもょろよデ まれ らよれもほゅま りゎま [f 0 1 2]ょゎまわよれ よほゃまろよれ[n]まれろイょ ぽもれらよょもほゅまれ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg msg001_MSG]
-[f 0 5 65278][f 2 1]Algunos de estos nuevos objetos pueden requerir [f 0 1 2][n]varias unidades del mismo material[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1][f 0 1 2]DESEADO[f 0 1 0] aparecer茨 junto a un objeto que[n]necesita m茨s material del laberinto para estar disponible.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]だゅむゎょよれ ぽま まれろよれ ょゎまわよれ よほゃまろよれ らゎまぽまょ るまりゎまるもる [f 0 1 2][n]わぺるもぺれ ゎょもぽぺぽまれ ぽまゅ ゆもれゆよ ゆぺろまるもぺゅ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 1 2]っつひつだっの[f 0 1 0] ぺらぺるまぼまるァ ゃゎょろよ ぺ ゎょ よほゃまろよ りゎま[n]ょまぼまれもろぺ ゆァれ ゆぺろまるもぺゅ ぽまゅ ゅぺほまるもょろよ らぺるぺ まれろぺる ぽもれらよょもほゅまテ[n][f 1 1][e]
 
 [msg msg002_MSG]
-[f 0 5 65278][f 2 1]Presiona el [f 0 1 2]Bot吋n Y[f 0 1 0] para ver m茨s[n]detalles de los materiales que te faltan.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Los detalles te indicar茨n [f 0 1 2]c吋mo y d吋nde obtener el material[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]はるまれもよょぺ まゅ [f 0 1 2]ちよろカょ へ[f 0 1 0] らぺるぺ わまる ゆァれ[n]ぽまろぺゅゅまれ ぽま ゅよれ ゆぺろまるもぺゅまれ りゎま ろま みぺゅろぺょテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1]によれ ぽまろぺゅゅまれ ろま もょぽもぼぺるァょ [f 0 1 2]ぼカゆよ を ぽカょぽま よほろまょまる まゅ ゆぺろまるもぺゅ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg msg003_MSG]
-[f 0 5 65278][f 2 1][n]Solo recuerda que cuando vendas tus materiales, no solo recibir茨s dinero, sino que un nuevo objeto podr胤a ser fabricado. As胤 que siempre verifica si puedes comprar algo nuevo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ひよゅよ るまぼゎまるぽぺ りゎま ぼゎぺょぽよ わまょぽぺれ ろゎれ ゆぺろまるもぺゅまれデ ょよ れよゅよ るまぼもほもるァれ ぽもょまるよデ れもょよ りゎま ゎょ ょゎまわよ よほゃまろよ らよぽるウぺ れまる みぺほるもぼぺぽよテ だれウ りゎま れもまゆらるま わまるもみもぼぺ れも らゎまぽまれ ぼよゆらるぺる ぺゅむよ ょゎまわよテ[n][f 1 1][e]
 

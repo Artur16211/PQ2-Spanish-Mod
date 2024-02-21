@@ -1,63 +1,63 @@
 [msg chara_000]
-[f 0 5 65278][f 2 1]Blank[n][e]
+[f 0 5 65278][f 2 1]ちゅぺょや[n][e]
 
 [msg chara_001]
-[f 0 5 65278][f 2 1](Fila Frontal) Siempre listo para la batalla, [n]mejor con ataques de corte y el姻ctricos.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ひもまゆらるま ゅもれろよ らぺるぺ ゅぺ ほぺろぺゅゅぺデ[n]ゆまゃよる ぼよょ ぺろぺりゎまれ ぽま ぼよるろま を まゅイぼろるもぼよれテ[n][e]
 
 [msg chara_002]
-[f 0 5 65278][f 2 1](Fila Frontal) Un luchador vers茨til, h茨bil con todas las afinidades.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ぴょ ゅゎぼめぺぽよる わまるれァろもゅデ めァほもゅ[n]ぼよょ ろよぽぺれ ゅぺれ ぺみもょもぽぺぽまれテ[n][e]
 
 [msg chara_003]
-[f 0 5 65278][f 2 1](Fila Frontal) Un luchador 茨gil que se especializa en ataques de corte y Viento.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ぴょ ゅゎぼめぺぽよる ァむもゅ りゎま れま[n]まれらまぼもぺゅもんぺ まょ ぺろぺりゎまれ ぽま ぼよるろま を ふもまょろよテ[n][e]
 
 [msg chara_004]
-[f 0 5 65278][f 2 1](Fila Frontal) Una chica experta en kung fu con alta[n]evasi吋n y ataques cr胤ticos.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ぴょぺ ぼめもぼぺ まゑらまるろぺ まょ やゎょむ みゎ[n]ぼよょ ぺゅろぺ まわぺれもカょ を ぺろぺりゎまれ ぼるウろもぼよれテ[n][e]
 
 [msg chara_005]
-[f 0 5 65278][f 2 1](Fila Trasera) Elegante, apropiada y mortal, 斡pero cuidado con su salud![n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ つゅまむぺょろまデ ぺらるよらもぺぽぺ を ゆよるろぺゅデ[n]ィらまるよ ぼゎもぽぺぽよ ぼよょ れゎ れぺゅゎぽ![n][e]
 
 [msg chara_006]
-[f 0 5 65278][f 2 1]Ninguno[n][e]
+[f 0 5 65278][f 2 1]ねもょむゎょよ[n][e]
 
 [msg chara_007]
-[f 0 5 65278][f 2 1](Fila Frontal) Protege a sus compa隠eros con una alta[n]defensa y ofensa.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ はるよろまむま ぺ れゎれ ぼよゆらぺォまるよれ ぼよょ[n]ゎょぺ ぺゅろぺ ぽまみまょれぺ を よみまょれぺテ[n][e]
 
 [msg chara_008]
-[f 0 5 65278][f 2 1](Fila Trasera) Un detective de tama隠o peque隠o, excelente con habilidades de enlace.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ ぴょ ぽまろまぼろもわま ぽま ろぺゆぺォよ らまりゎまォよデ[n]まゑぼまゅまょろま ぼよょ めぺほもゅもぽぺぽまれ ぽま まょゅぺぼまテ[n][e]
 
 [msg chara_009]
-[f 0 5 65278][f 2 1](Fila Frontal) Una mascota autoproclamada que ayuda al grupo en combate.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ぴょぺ ゆぺれぼよろぺ ぺゎろよらるよぼゅぺゆぺぽぺ[n]りゎま ぺをゎぽぺ ぺゅ むるゎらよ まょ ぼよゆほぺろまテ[n][e]
 
 [msg chara_00A]
-[f 0 5 65278][f 2 1](Fila Trasera) Una chica de humor variable que sobresale en habilidades de Viento y recuperaci吋n.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ ぴょぺ ぼめもぼぺ ぽま めゎゆよる わぺるもぺほゅま[n]りゎま れよほるまれぺゅま まょ めぺほもゅもぽぺぽまれ ぽま ふもまょろよ を るまぼゎらまるぺぼもカょテ[n][e]
 
 [msg chara_00B]
-[f 0 5 65278][f 2 1](Fila Frontal) Un presumido con habilidades equilibradas en ataque, defensa y contraataque.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ぴょ らるまれゎゆもぽよ ぼよょ めぺほもゅもぽぺぽまれ[n]まりゎもゅもほるぺぽぺれ まょ ぺろぺりゎまデ ぽまみまょれぺ を ぼよょろるぺぺろぺりゎまテ[n][e]
 
 [msg chara_00C]
-[f 0 5 65278][f 2 1](Fila Frontal) Un boxeador sin rival que inflige un da隠o extremo.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ ぴょ ほよゑまぺぽよる れもょ るもわぺゅ りゎま[n]もょみゅもむま ゎょ ぽぺォよ まゑろるまゆよテ[n][e]
 
 [msg chara_00D]
-[f 0 5 65278][f 2 1](Front or Back) Sella las habilidades del enemigo y las remata con magia de Hielo.[n][e]
+[f 0 5 65278][f 2 1]ドづるよょろ よる ちぺぼやナ ひまゅゅぺ ゅぺれ めぺほもゅもぽぺぽまれ ぽまゅ[n]まょまゆもむよ を ゅぺれ るまゆぺろぺ ぼよょ ゆぺむもぺ ぽま でもまゅよテ[n][e]
 
 [msg chara_00E]
-[f 0 5 65278][f 2 1]None[n][e]
+[f 0 5 65278][f 2 1]ねよょま[n][e]
 
 [msg chara_00F]
-[f 0 5 65278][f 2 1](Front or Back) Arma anti-sombras que puede activar su[n]Modo Desenfreno.[n][e]
+[f 0 5 65278][f 2 1]ドづるよょろ よる ちぺぼやナ だるゆぺ ぺょろも-れよゆほるぺれ りゎま らゎまぽま[n]ぺぼろもわぺる れゎ ぬよぽよ っまれまょみるまょよテ[n][e]
 
 [msg chara_010]
-[f 0 5 65278][f 2 1](Fila Trasera) Es genial con habilidades F胤sicas y de[n]Electricidad, 斡pero tiene poca salud![n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ つれ むまょもぺゅ ぼよょ めぺほもゅもぽぺぽまれ[n]づウれもぼぺれ を ぽま つゅまぼろるもぼもぽぺぽデ ィらまるよ ろもまょま らよぼぺ れぺゅゎぽ![n][e]
 
 [msg chara_011]
-[f 0 5 65278][f 2 1](Fila Trasera) R茨pido y maneja magia de Fuego y oscuridad, 斡pero no es resistente![n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ ぱァらもぽよ を ゆぺょまゃぺ ゆぺむもぺ ぽま づゎまむよ[n]を よれぼゎるもぽぺぽデ ィらまるよ ょよ まれ るまれもれろまょろま![n][e]
 
 [msg chara_012]
-[f 0 5 65278][f 2 1](Fila Frontal) El tipo m茨s resistente, pero extremadamente vulnerable a la magia.[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ づるよょろぺゅナ つゅ ろもらよ ゆァれ るまれもれろまょろまデ らまるよ[n]まゑろるまゆぺぽぺゆまょろま わゎゅょまるぺほゅま ぺ ゅぺ ゆぺむもぺテ[n][e]
 
 [msg chara_013]
-[f 0 5 65278][f 2 1](Fila Trasera) Zen ataca, mientras que Rei cura. Ambos utilizan habilidades misteriosas...[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ べまょ ぺろぺぼぺデ ゆもまょろるぺれ りゎま ぱまも[n]ぼゎるぺテ だゆほよれ ゎろもゅもんぺょ めぺほもゅもぽぺぽまれ ゆもれろまるもよれぺれテテテ[n][e]
 
 [msg chara_014]
-[f 0 5 65278][f 2 1](Fila Trasera) Zen ha recuperado sus recuerdos y sus habilidades...[n][e]
+[f 0 5 65278][f 2 1]ドづもゅぺ びるぺれまるぺナ べまょ めぺ るまぼゎらまるぺぽよ れゎれ るまぼゎまるぽよれ[n]を れゎれ めぺほもゅもぽぺぽまれテテテ[n][e]
 

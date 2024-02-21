@@ -1,9 +1,9 @@
 ﻿[msg BTL_TUTORIAL_mes00]
-[f 0 5 65278][f 2 1][n][f 0 1 2]Relevo[f 0 1 0] ha sido a隠adido a tus[n]Habilidades de Apoyo.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n][f 0 1 2]ぱまゅまわよ[f 0 1 0] めぺ れもぽよ ぺォぺぽもぽよ ぺ ろゎれ[n]でぺほもゅもぽぺぽまれ ぽま だらよをよテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]El Relevo te permite [f 0 1 2]transferir el Boost de un[n]miembro del grupo a otro[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つゅ ぱまゅまわよ ろま らまるゆもろま [f 0 1 2]ろるぺょれみまるもる まゅ ちよよれろ ぽま ゎょ[n]ゆもまゆほるよ ぽまゅ むるゎらよ ぺ よろるよ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1][n]Puedes acceder al Relevo presionando el [f 0 1 2]bot吋n X[f 0 1 0] y[n]seleccion茨ndolo desde el men雨 de [f 0 1 2]Habilidades de Apoyo[f 0 1 0].[n][n]斡Intenta transferir el Boost al aliado cuyas habilidades ser茨n[n]las m茨s letales en la situaci吋n actual![n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]はゎまぽまれ ぺぼぼまぽまる ぺゅ ぱまゅまわよ らるまれもよょぺょぽよ まゅ [f 0 1 2]ほよろカょ ぷ[f 0 1 0] を[n]れまゅまぼぼもよょァょぽよゅよ ぽまれぽま まゅ ゆまょグ ぽま [f 0 1 2]でぺほもゅもぽぺぽまれ ぽま だらよをよ[f 0 1 0]テ[n][n]ィとょろまょろぺ ろるぺょれみまるもる まゅ ちよよれろ ぺゅ ぺゅもぺぽよ ぼゎをぺれ めぺほもゅもぽぺぽまれ れまるァょ[n]ゅぺれ ゆァれ ゅまろぺゅまれ まょ ゅぺ れもろゎぺぼもカょ ぺぼろゎぺゅ![n][f 1 1][e]
 

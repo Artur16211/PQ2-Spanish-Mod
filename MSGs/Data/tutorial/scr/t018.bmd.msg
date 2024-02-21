@@ -1,6 +1,6 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]En los laberintos, es posible que te encuentres con[n][f 0 1 2]Sombras doradas especiales[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つょ ゅよれ ゅぺほまるもょろよれデ まれ らよれもほゅま りゎま ろま まょぼゎまょろるまれ ぼよょ[n][f 0 1 2]ひよゆほるぺれ ぽよるぺぽぺれ まれらまぼもぺゅまれ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1][n]Cuando los derrotes, podr胤as recibir [f 0 1 2]recompensas[n]mayores de las que obtendr胤as de Sombras normales[f 0 1 0].[n][n]Adem茨s, las Sombras doradas pueden tener habilidades[n]y resistencias especiales, as胤 que recuerda Analizarlas[n]mientras peleas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ぢゎぺょぽよ ゅよれ ぽまるるよろまれデ らよぽるウぺれ るまぼもほもる [f 0 1 2]るまぼよゆらまょれぺれ[n]ゆぺをよるまれ ぽま ゅぺれ りゎま よほろまょぽるウぺれ ぽま ひよゆほるぺれ ょよるゆぺゅまれ[f 0 1 0]テ[n][n]だぽまゆァれデ ゅぺれ ひよゆほるぺれ ぽよるぺぽぺれ らゎまぽまょ ろまょまる めぺほもゅもぽぺぽまれ[n]を るまれもれろまょぼもぺれ まれらまぼもぺゅまれデ ぺれウ りゎま るまぼゎまるぽぺ だょぺゅもんぺるゅぺれ[n]ゆもまょろるぺれ らまゅまぺれテ[n][f 1 1][e]
 

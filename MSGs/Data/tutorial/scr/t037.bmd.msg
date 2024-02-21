@@ -1,5 +1,5 @@
 ﻿[msg PARTY_EDIT_TEAM]
-[f 0 5 65278][f 2 1][n]La opci吋n [f 0 1 2]Organizar[f 0 1 0] te permite colocar [f 0 1 2]hasta cinco[n]aliados[f 0 1 0] en tu formaci吋n, tres de los cuales pueden estar[n]en la [f 0 1 2]fila delantera[f 0 1 0], o en la [f 0 1 2]fila trasera[f 0 1 0].[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Los aliados en tu fila delantera ser茨n atacados[n]con m茨s frecuencia, pero podr茨n alcanzar a[n]los enemigos de la fila trasera con ataques f胤sicos.[n][n]Mientras tanto, los aliados en tu fila trasera no[n]ser茨n atacados tanto, pero tampoco podr茨n alcanzar a[n]los enemigos de la fila trasera con sus ataques f胤sicos.[n][f 1 1][e]
-[f 0 5 65278][f 2 1][n]Por lo tanto, elige estrat姻gicamente la formaci吋n de[n]tu grupo, teniendo en cuenta los PS y el estilo de[n]lucha de cada aliado.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]にぺ よらぼもカょ [f 0 1 2]のるむぺょもんぺる[f 0 1 0] ろま らまるゆもろま ぼよゅよぼぺる [f 0 1 2]めぺれろぺ ぼもょぼよ[n]ぺゅもぺぽよれ[f 0 1 0] まょ ろゎ みよるゆぺぼもカょデ ろるまれ ぽま ゅよれ ぼゎぺゅまれ らゎまぽまょ まれろぺる[n]まょ ゅぺ [f 0 1 2]みもゅぺ ぽまゅぺょろまるぺ[f 0 1 0]デ よ まょ ゅぺ [f 0 1 2]みもゅぺ ろるぺれまるぺ[f 0 1 0]テ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]によれ ぺゅもぺぽよれ まょ ろゎ みもゅぺ ぽまゅぺょろまるぺ れまるァょ ぺろぺぼぺぽよれ[n]ぼよょ ゆァれ みるまぼゎまょぼもぺデ らまるよ らよぽるァょ ぺゅぼぺょんぺる ぺ[n]ゅよれ まょまゆもむよれ ぽま ゅぺ みもゅぺ ろるぺれまるぺ ぼよょ ぺろぺりゎまれ みウれもぼよれテ[n][n]ぬもまょろるぺれ ろぺょろよデ ゅよれ ぺゅもぺぽよれ まょ ろゎ みもゅぺ ろるぺれまるぺ ょよ[n]れまるァょ ぺろぺぼぺぽよれ ろぺょろよデ らまるよ ろぺゆらよぼよ らよぽるァょ ぺゅぼぺょんぺる ぺ[n]ゅよれ まょまゆもむよれ ぽま ゅぺ みもゅぺ ろるぺれまるぺ ぼよょ れゎれ ぺろぺりゎまれ みウれもぼよれテ[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]はよる ゅよ ろぺょろよデ まゅもむま まれろるぺろイむもぼぺゆまょろま ゅぺ みよるゆぺぼもカょ ぽま[n]ろゎ むるゎらよデ ろまょもまょぽよ まょ ぼゎまょろぺ ゅよれ はひ を まゅ まれろもゅよ ぽま[n]ゅゎぼめぺ ぽま ぼぺぽぺ ぺゅもぺぽよテ[n][f 1 1][e]
 

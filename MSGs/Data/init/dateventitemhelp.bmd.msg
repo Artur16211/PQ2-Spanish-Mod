@@ -1,767 +1,767 @@
-﻿[msg eventitem_600]
-[f 0 5 65278][f 2 1]ブランク[n]ブランク[n][e]
+[msg eventitem_600]
+[f 0 5 65278][f 2 1]ブランク ブランク[n][e]
 
 [msg eventitem_601]
-[f 0 5 65278][f 2 1]Historia de una reina enamorada de uno de sus súbditos. Lamentablemente, no pueden estar juntos.[n][e]
+[f 0 5 65278][f 2 1]でもれろよるもぺ ぽま ゎょぺ るまもょぺ まょぺゆよるぺぽぺ ぽま ゎょよ ぽま[n]れゎれ れグほぽもろよれテ にぺゆまょろぺほゅまゆまょろまデ ょよ らゎまぽまょ まれろぺる ゃゎょろよれテ[n][e]
 
 [msg eventitem_602]
-[f 0 5 65278][f 2 1]Nota sobre una hazaña que, sin duda, solo puede lograr el hombre más viril de todos.[n][e]
+[f 0 5 65278][f 2 1]ねよろぺ れよほるま ゎょぺ めぺんぺォぺ りゎまデ れもょ ぽゎぽぺデ れよゅよ[n]らゎまぽま ゅよむるぺる まゅ めよゆほるま ゆァれ わもるもゅ ぽま ろよぽよれテ[n][e]
 
 [msg eventitem_603]
-[f 0 5 65278][f 2 1]Periódico femenino que aboga por el honor entre ladrones y maestros de kung fu.[n][e]
+[f 0 5 65278][f 2 1]はまるもカぽもぼよ みまゆまょもょよ りゎま ぺほよむぺ らよる まゅ めよょよる[n]まょろるま ゅぺぽるよょまれ を ゆぺまれろるよれ ぽま やゎょむ みゎテ[n][e]
 
 [msg eventitem_604]
-[f 0 5 65278][f 2 1]Boceto de un amonites, cuya concha en espiral solo puede ser dibujada por aquellos con alma.[n][e]
+[f 0 5 65278][f 2 1]ちよぼまろよ ぽま ゎょ ぺゆよょもろまれデ ぼゎをぺ ぼよょぼめぺ まょ まれらもるぺゅ[n]れよゅよ らゎまぽま れまる ぽもほゎゃぺぽぺ らよる ぺりゎまゅゅよれ ぼよょ ぺゅゆぺテ[n][e]
 
 [msg eventitem_605]
-[f 0 5 65278][f 2 1]Pez salvaje capturado por dos personas que, por supuesto, poseen el poder de lo salvaje.[n][e]
+[f 0 5 65278][f 2 1]はまん れぺゅわぺゃま ぼぺらろゎるぺぽよ らよる ぽよれ らまるれよょぺれ りゎまデ[n]らよる れゎらゎまれろよデ らよれままょ まゅ らよぽまる ぽま ゅよ れぺゅわぺゃまテ[n][e]
 
 [msg eventitem_606]
-[f 0 5 65278][f 2 1]Las palomitas de maíz de Theodore, lo suficientemente saladas como para estimular la mente y resolver misterios.[n][e]
+[f 0 5 65278][f 2 1]にぺれ らぺゅよゆもろぺれ ぽま ゆぺウん ぽま びめまよぽよるまデ ゅよ[n]れゎみもぼもまょろまゆまょろま れぺゅぺぽぺれ ぼよゆよ らぺるぺ まれろもゆゎゅぺる ゅぺ ゆまょろま を るまれよゅわまる ゆもれろまるもよれテ[n][e]
 
 [msg eventitem_607]
-[f 0 5 65278][f 2 1]Piedra propiedad de un herbívoro solitario y perdido. Al sostenerla, sientes un cálido vínculo familiar.[n][e]
+[f 0 5 65278][f 2 1]はもまぽるぺ らるよらもまぽぺぽ ぽま ゎょ めまるほウわよるよ れよゅもろぺるもよ[n]を らまるぽもぽよテ だゅ れよれろまょまるゅぺデ れもまょろまれ ゎょ ぼァゅもぽよ わウょぼゎゅよ みぺゆもゅもぺるテ[n][e]
 
 [msg eventitem_608]
-[f 0 5 65278][f 2 1]Guantes de motocicleta perfectos para agarrarse mientras haces derrapes y deslizamientos.[n][e]
+[f 0 5 65278][f 2 1]てゎぺょろまれ ぽま ゆよろよぼもぼゅまろぺ らまるみまぼろよれ らぺるぺ ぺむぺるるぺるれま[n]ゆもまょろるぺれ めぺぼまれ ぽまるるぺらまれ を ぽまれゅもんぺゆもまょろよれテ[n][e]
 
 [msg eventitem_609]
-[f 0 5 65278][f 2 1]Anillo hecho de sombras, sirviendo como prueba de que la amistad puede formarse a través de mundos.[n][e]
+[f 0 5 65278][f 2 1]だょもゅゅよ めまぼめよ ぽま れよゆほるぺれデ れもるわもまょぽよ ぼよゆよ らるゎまほぺ[n]ぽま りゎま ゅぺ ぺゆもれろぺぽ らゎまぽま みよるゆぺるれま ぺ ろるぺわイれ ぽま ゆゎょぽよれテ[n][e]
 
 [msg eventitem_60A]
-[f 0 5 65278][f 2 1]Bolas de arroz hechas a mano y una bebida proteica para una comida equilibrada.[n][e]
+[f 0 5 65278][f 2 1]ちよゅぺれ ぽま ぺるるよん めまぼめぺれ ぺ ゆぺょよ を ゎょぺ ほまほもぽぺ[n]らるよろまもぼぺ らぺるぺ ゎょぺ ぼよゆもぽぺ まりゎもゅもほるぺぽぺテ[n][e]
 
 [msg eventitem_60B]
-[f 0 5 65278][f 2 1]Carta de Ryuji a Ken. Su mensaje críptico dice: "Te estaré esperando".[n][e]
+[f 0 5 65278][f 2 1]ぢぺるろぺ ぽま ぱをゎゃも ぺ なまょテ ひゎ ゆまょれぺゃま ぼるウらろもぼよ[n]ぽもぼまト "びま まれろぺるイ まれらまるぺょぽよ"テ[n][e]
 
 [msg eventitem_60C]
-[f 0 5 65278][f 2 1]Medalla hecha a mano otorgada al conquistador de las Sombras.[n][e]
+[f 0 5 65278][f 2 1]ぬまぽぺゅゅぺ めまぼめぺ ぺ ゆぺょよ よろよるむぺぽぺ ぺゅ ぼよょりゎもれろぺぽよる[n]ぽま ゅぺれ ひよゆほるぺれテ[n][e]
 
 [msg eventitem_60D]
-[f 0 5 65278][f 2 1]Escarabajo amarillo brillante que Teddie encontró. ¿Podría ser una señal de algo?[n][e]
+[f 0 5 65278][f 2 1]つれぼぺるぺほぺゃよ ぺゆぺるもゅゅよ ほるもゅゅぺょろま りゎま びまぽぽもま[n]まょぼよょろるカテ エはよぽるウぺ れまる ゎょぺ れまォぺゅ ぽま ぺゅむよ?[n][e]
 
 [msg eventitem_60E]
-[f 0 5 65278][f 2 1]Trofeo dado al ganador de un concurso de comer donas organizado por los Salvajes.[n][e]
+[f 0 5 65278][f 2 1]びるよみまよ ぽぺぽよ ぺゅ むぺょぺぽよる ぽま ゎょ ぼよょぼゎるれよ ぽま[n]ぼよゆまる ぽよょぺれ よるむぺょもんぺぽよ らよる ゅよれ ひぺゅわぺゃまれテ[n][e]
 
 [msg eventitem_60F]
-[f 0 5 65278][f 2 1]Pieza extra que quedó después de arreglar al robot.[n][e]
+[f 0 5 65278][f 2 1]はもまんぺ まゑろるぺ りゎま りゎまぽカ ぽまれらゎイれ ぽま ぺるるまむゅぺる ぺゅ[n]るよほよろテ[n][e]
 
 [msg eventitem_610]
-[f 0 5 65278][f 2 1]Teddie hizo esto para elogiar la madurez de los Salvajes. Con suerte, él los imitará... [n][e]
+[f 0 5 65278][f 2 1]びまぽぽもま めもんよ まれろよ らぺるぺ まゅよむもぺる ゅぺ ゆぺぽゎるまん ぽま[n]ゅよれ ひぺゅわぺゃまれテ ぢよょ れゎまるろまデ イゅ ゅよれ もゆもろぺるァテテテ [n][e]
 
 [msg eventitem_611]
-[f 0 5 65278][f 2 1]Foto de un grupo de chicas donde todas hicieron poses hilarantes.[n][e]
+[f 0 5 65278][f 2 1]づよろよ ぽま ゎょ むるゎらよ ぽま ぼめもぼぺれ ぽよょぽま ろよぽぺれ めもぼもまるよょ[n]らよれまれ めもゅぺるぺょろまれテ[n][e]
 
 [msg eventitem_612]
-[f 0 5 65278][f 2 1]Máquina inventada por las tres navegadoras para compartir información.[n][e]
+[f 0 5 65278][f 2 1]ぬァりゎもょぺ もょわまょろぺぽぺ らよる ゅぺれ ろるまれ ょぺわまむぺぽよるぺれ[n]らぺるぺ ぼよゆらぺるろもる もょみよるゆぺぼもカょテ[n][e]
 
 [msg eventitem_613]
-[f 0 5 65278][f 2 1]Colección de recetas para hacer alimentos ideales para los guardaespaldas.[n][e]
+[f 0 5 65278][f 2 1]ぢよゅまぼぼもカょ ぽま るまぼまろぺれ らぺるぺ めぺぼまる ぺゅもゆまょろよれ[n]もぽまぺゅまれ らぺるぺ ゅよれ むゎぺるぽぺまれらぺゅぽぺれテ[n][e]
 
 [msg eventitem_614]
-[f 0 5 65278][f 2 1]Prueba de registro del 25% de Persona, que ofrece un 10% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま るまむもれろるよ ぽまゅ ゾチ% ぽま はまるれよょぺデ りゎま[n]よみるまぼま ゎょ ソゼ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_615]
-[f 0 5 65278][f 2 1]Prueba de registro del 50% de Persona, que ofrece un 15% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま るまむもれろるよ ぽまゅ チゼ% ぽま はまるれよょぺデ りゎま[n]よみるまぼま ゎょ ソチ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_616]
-[f 0 5 65278][f 2 1]PPrueba de registro del 75% de Persona, que ofrece un 20% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]ははるゎまほぺ ぽま るまむもれろるよ ぽまゅ ッチ% ぽま はまるれよょぺデ りゎま[n]よみるまぼま ゎょ ゾゼ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_617]
-[f 0 5 65278][f 2 1]Prueba de registro total de Persona, que ofrece un 25% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま るまむもれろるよ ろよろぺゅ ぽま はまるれよょぺデ りゎま[n]よみるまぼま ゎょ ゾチ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_618]
-[f 0 5 65278][f 2 1]El precioso aplauso de Hikari que ella donó como muestra de agradecimiento.[n][e]
+[f 0 5 65278][f 2 1]つゅ らるまぼもよれよ ぺらゅぺゎれよ ぽま でもやぺるも りゎま まゅゅぺ ぽよょカ[n]ぼよゆよ ゆゎまれろるぺ ぽま ぺむるぺぽまぼもゆもまょろよテ[n][e]
 
 [msg eventitem_619]
-[f 0 5 65278][f 2 1]Guión con una escena encantadora que surgió de las probabilidades de otras 4 películas.[n][e]
+[f 0 5 65278][f 2 1]てゎもカょ ぼよょ ゎょぺ まれぼまょぺ まょぼぺょろぺぽよるぺ りゎま れゎるむもカ[n]ぽま ゅぺれ らるよほぺほもゅもぽぺぽまれ ぽま よろるぺれ ダ らまゅウぼゎゅぺれテ[n][e]
 
 [msg eventitem_61A]
-[f 0 5 65278][f 2 1]Cebo vivo y retorcido que debería atraer definitivamente a algunos peces grandes.[n][e]
+[f 0 5 65278][f 2 1]ぢまほよ わもわよ を るまろよるぼもぽよ りゎま ぽまほまるウぺ ぺろるぺまる[n]ぽまみもょもろもわぺゆまょろま ぺ ぺゅむゎょよれ らまぼまれ むるぺょぽまれテ[n][e]
 
 [msg eventitem_61B]
-[f 0 5 65278][f 2 1]Poder obtenido del tipo de amistad que cambia tu vida para siempre.[n][e]
+[f 0 5 65278][f 2 1]はよぽまる よほろまょもぽよ ぽまゅ ろもらよ ぽま ぺゆもれろぺぽ りゎま ぼぺゆほもぺ[n]ろゎ わもぽぺ らぺるぺ れもまゆらるまテ[n][e]
 
 [msg eventitem_61C]
-[f 0 5 65278][f 2 1]Tarjeta clave que podría usarse para desbloquear algunas puertas.[n][e]
+[f 0 5 65278][f 2 1]びぺるゃまろぺ ぼゅぺわま りゎま らよぽるウぺ ゎれぺるれま らぺるぺ ぽまれほゅよりゎまぺる[n]ぺゅむゎょぺれ らゎまるろぺれテ[n][e]
 
 [msg eventitem_61D]
-[f 0 5 65278][f 2 1]Fragmento de la pel胤cula "Kamoshidaman"[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ぽま ゅぺ らまゅウぼゎゅぺ "なぺゆよれめもぽぺゆぺょ"[n][e]
 
 [msg eventitem_61E]
-[f 0 5 65278][f 2 1]Fragmento de la pel胤cula "Tierra Jusica"[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ぽま ゅぺ らまゅウぼゎゅぺ "びもまるるぺ どゎれもぼぺ"[n][e]
 
 [msg eventitem_61F]
-[f 0 5 65278][f 2 1]Fragmento de la pel胤cula "A.I.G.I.S."[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ぽま ゅぺ らまゅウぼゎゅぺ "だテとテてテとテひテ"[n][e]
 
 [msg eventitem_620]
-[f 0 5 65278][f 2 1]Fragmento de la pel胤cula "Hikari"[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ぽま ゅぺ らまゅウぼゎゅぺ "でもやぺるも"[n][e]
 
 [msg eventitem_621]
-[f 0 5 65278][f 2 1]Cebo vivo y retorcido que debería atraer definitivamente a algunos peces grandes.[n][e]
+[f 0 5 65278][f 2 1]ぢまほよ わもわよ を るまろよるぼもぽよ りゎま ぽまほまるウぺ ぺろるぺまる[n]ぽまみもょもろもわぺゆまょろま ぺ ぺゅむゎょよれ らまぼまれ むるぺょぽまれテ[n][e]
 
 [msg eventitem_622]
-[f 0 5 65278][f 2 1]Granos de maíz que se han mojado.[n][e]
+[f 0 5 65278][f 2 1]てるぺょよれ ぽま ゆぺウん りゎま れま めぺょ ゆよゃぺぽよテ[n][e]
 
 [msg eventitem_623]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_624]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_625]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_626]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_627]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_628]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_629]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_62A]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_62B]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_62C]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_62D]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_62E]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_62F]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_630]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_631]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_632]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_633]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_634]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_635]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_636]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_637]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_638]
-[f 0 5 65278][f 2 1]Folleto de la película[n][e]
+[f 0 5 65278][f 2 1]づよゅゅまろよ ぽま ゅぺ らまゅウぼゎゅぺ[n][e]
 
 [msg eventitem_639]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Aumenta el poder del comodín[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま りゎま ぽまるるよろぺれろま ぺ ゎょ まょまゆもむよ らよぽまるよれよテ[n][f 0 1 3]だゎゆまょろぺ まゅ らよぽまる ぽまゅ ぼよゆよぽウょ[f 0 1 0][n][e]
 
 [msg eventitem_63A]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Consigue un 150% de Exp. con los bonos de finalización[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま りゎま ぽまるるよろぺれろま ぺ ゎょ まょまゆもむよ らよぽまるよれよテ[n][f 0 1 3]ぢよょれもむゎま ゎょ ソチゼ% ぽま つゑらテ ぼよょ ゅよれ ほよょよれ ぽま みもょぺゅもんぺぼもカょ[f 0 1 0][n][e]
 
 [msg eventitem_63B]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Lleva el boost a la siguiente batalla con los bonos de finalización[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま りゎま ぽまるるよろぺれろま ぺ ゎょ まょまゆもむよ らよぽまるよれよテ[n][f 0 1 3]にゅまわぺ まゅ ほよよれろ ぺ ゅぺ れもむゎもまょろま ほぺろぺゅゅぺ ぼよょ ゅよれ ほよょよれ ぽま みもょぺゅもんぺぼもカょ[f 0 1 0][n][e]
 
 [msg eventitem_63C]
-[f 0 5 65278][f 2 1]Prueba de que derrotaste a un enemigo poderoso.[n][f 0 1 3]Consigue un 200% de Exp. con bonos de finalización[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま りゎま ぽまるるよろぺれろま ぺ ゎょ まょまゆもむよ らよぽまるよれよテ[n][f 0 1 3]ぢよょれもむゎま ゎょ ゾゼゼ% ぽま つゑらテ ぼよょ ほよょよれ ぽま みもょぺゅもんぺぼもカょ[f 0 1 0][n][e]
 
 [msg eventitem_63D]
-[f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ゆもれろまるもよれよ を ほるもゅゅぺょろま ぽま らまゅウぼゎゅぺ[n]るまぼよむもぽよ ぽま ゎょぺ ひよゆほるぺテ[n][e]
 
 [msg eventitem_63E]
-[f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ゆもれろまるもよれよ を ほるもゅゅぺょろま ぽま らまゅウぼゎゅぺ[n]るまぼよむもぽよ ぽま ゎょぺ ひよゆほるぺテ[n][e]
 
 [msg eventitem_63F]
-[f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ゆもれろまるもよれよ を ほるもゅゅぺょろま ぽま らまゅウぼゎゅぺ[n]るまぼよむもぽよ ぽま ゎょぺ ひよゆほるぺテ[n][e]
 
 [msg eventitem_640]
-[f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ゆもれろまるもよれよ を ほるもゅゅぺょろま ぽま らまゅウぼゎゅぺ[n]るまぼよむもぽよ ぽま ゎょぺ ひよゆほるぺテ[n][e]
 
 [msg eventitem_641]
-[f 0 5 65278][f 2 1]Fragmento misterioso y brillante de película recogido de una Sombra.[n][e]
+[f 0 5 65278][f 2 1]づるぺむゆまょろよ ゆもれろまるもよれよ を ほるもゅゅぺょろま ぽま らまゅウぼゎゅぺ[n]るまぼよむもぽよ ぽま ゎょぺ ひよゆほるぺテ[n][e]
 
 [msg eventitem_642]
-[f 0 5 65278][f 2 1]El mismo proyector que el de la Habitación Terciopelo.[n][f 0 1 3]Realiza 3 fusiones de personas[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ ゆもれゆよ らるよをまぼろよる りゎま まゅ ぽま ゅぺ でぺほもろぺぼもカょ[n]びまるぼもよらまゅよテ [f 0 1 3]ぱまぺゅもんぺ タ みゎれもよょまれ ぽま らまるれよょぺれ[f 0 1 0][n][e]
 
 [msg eventitem_643]
-[f 0 5 65278][f 2 1]貴重品ID_0x643[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂダタ[n][e]
 
 [msg eventitem_644]
-[f 0 5 65278][f 2 1]貴重品ID_0x644[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂダダ[n][e]
 
 [msg eventitem_645]
-[f 0 5 65278][f 2 1]Tarjeta en la que se puede almacenar el poder de[n]una Persona. Tienes: [f 0 1 3][f 6 1 34 0 0][n][f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]びぺるゃまろぺ まょ ゅぺ りゎま れま らゎまぽま ぺゅゆぺぼまょぺる まゅ らよぽまる[n]ぽま ゎょぺ はまるれよょぺテ びもまょまれト [f 0 1 3][f 6 1 34 0 0] [f 0 1 0][n][e]
 
 [msg eventitem_646]
-[f 0 5 65278][f 2 1]Tarjeta en la que se puede almacenar el poder de[n]una Persona. Tienes: [f 0 1 3][f 6 1 33 0 0][n][f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]びぺるゃまろぺ まょ ゅぺ りゎま れま らゎまぽま ぺゅゆぺぼまょぺる まゅ らよぽまる[n]ぽま ゎょぺ はまるれよょぺテ びもまょまれト [f 0 1 3][f 6 1 33 0 0] [f 0 1 0][n][e]
 
 [msg eventitem_647]
-[f 0 5 65278][f 2 1]Lo que cualquier rey elegante usar胤a en el[n]infierno. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Gemori[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]によ りゎま ぼゎぺゅりゎもまる るまを まゅまむぺょろま ゎれぺるウぺ まょ まゅ[n]もょみもまるょよテ [f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]てまゆよるも[f 0 1 0][n][e]
 
 [msg eventitem_648]
-[f 0 5 65278][f 2 1]Almacenamiento para órganos necesarios en la vida[n]después de la muerte. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Ammut[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だゅゆぺぼまょぺゆもまょろよ らぺるぺ カるむぺょよれ ょまぼまれぺるもよれ まょ ゅぺ[n]わもぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろまテ [f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]だゆゆゎろ[f 0 1 0][n][e]
 
 [msg eventitem_649]
-[f 0 5 65278][f 2 1]Junco que una vez salvó la vida de un conejo. [f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Hare of Inaba[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]どゎょぼよ りゎま ゎょぺ わまん れぺゅわカ ゅぺ わもぽぺ ぽま ゎょ ぼよょまゃよテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]でぺるま よみ とょぺほぺ[f 0 1 0][n][e]
 
 [msg eventitem_64A]
-[f 0 5 65278][f 2 1]Una planta extra隠a que a雨n da frutos ricos.[n][f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Mayahuel[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ らゅぺょろぺ まゑろるぺォぺ りゎま ぺグょ ぽぺ みるゎろよれ るもぼよれテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ぬぺをぺめゎまゅ[f 0 1 0][n][e]
 
 [msg eventitem_64B]
-[f 0 5 65278][f 2 1]Agua de lago hogar de un guardián hada. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Vivian[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]だむゎぺ ぽま ゅぺむよ めよむぺる ぽま ゎょ むゎぺるぽもァょ めぺぽぺテ [f 0 1 1][n]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ふもわもぺょ[f 0 1 0][n][e]
 
 [msg eventitem_64C]
-[f 0 5 65278][f 2 1]Reina rana que también ha liderado a los humanos.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Dzelarhons[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまもょぺ るぺょぺ りゎま ろぺゆほもイょ めぺ ゅもぽまるぺぽよ ぺ ゅよれ[n]めゎゆぺょよれテ [f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]っんまゅぺるめよょれ[f 0 1 0][n][e]
 
 [msg eventitem_64D]
-[f 0 5 65278][f 2 1]Cuerda tejida por una hada oscura. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Fenrir[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢゎまるぽぺ ろまゃもぽぺ らよる ゎょぺ めぺぽぺ よれぼゎるぺテ [f 0 1 1] っまれほゅよりゎまぺ[f 0 1 0][n][f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]づまょるもる[f 0 1 0][n][e]
 
 [msg eventitem_64E]
-[f 0 5 65278][f 2 1]Disco soleado propiedad de la diosa del[n]amor.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Hathor[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもれぼよ れよゅまぺぽよ らるよらもまぽぺぽ ぽま ゅぺ ぽもよれぺ ぽまゅ ぺゆよるテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]でぺろめよる[f 0 1 0][n][e]
 
 [msg eventitem_64F]
-[f 0 5 65278][f 2 1]Reliquia con el poder de gobernar el mundo.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Longinus[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまゅもりゎもぺ ぼよょ まゅ らよぽまる ぽま むよほまるょぺる まゅ ゆゎょぽよテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]によょむもょゎれ[f 0 1 0][n][e]
 
 [msg eventitem_650]
-[f 0 5 65278][f 2 1]Crucifijo de una niña que tuvo una visión divina. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Jeanne d'Arc[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢるゎぼもみもゃよ ぽま ゎょぺ ょもォぺ りゎま ろゎわよ ゎょぺ わもれもカょ[n]ぽもわもょぺテ [f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]どまぺょょま ぽ'だるぼ[f 0 1 0][n][e]
 
 [msg eventitem_651]
-[f 0 5 65278][f 2 1]Diente de una serpiente con alas de[n]murciélago. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Vouivre[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]っもまょろま ぽま ゎょぺ れまるらもまょろま ぼよょ ぺゅぺれ ぽま ゆゎるぼもイゅぺむよテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ふよゎもわるま[f 0 1 0][n][e]
 
 [msg eventitem_652]
-[f 0 5 65278][f 2 1]Ropa de un vampiro que causó[n]estragos. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Kudlak[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱよらぺ ぽま ゎょ わぺゆらもるよ りゎま ぼぺゎれカ まれろるぺむよれテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]なゎぽゅぺや[f 0 1 0][n][e]
 
 [msg eventitem_653]
-[f 0 5 65278][f 2 1]Ropa de un vampiro que fue bendecido.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Kresnik[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱよらぺ ぽま ゎょ わぺゆらもるよ りゎま みゎま ほまょぽまぼもぽよテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]なるまれょもや[f 0 1 0][n][e]
 
 [msg eventitem_654]
-[f 0 5 65278][f 2 1]Una de las seis alas de un ángel majestuoso.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Seraph[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぽま ゅぺれ れまもれ ぺゅぺれ ぽま ゎょ ァょむまゅ ゆぺゃまれろゎよれよテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ひまるぺらめ[f 0 1 0][n][e]
 
 [msg eventitem_655]
-[f 0 5 65278][f 2 1]Corona de un emperador legendario. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Huang Di[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢよるよょぺ ぽま ゎょ まゆらまるぺぽよる ゅまむまょぽぺるもよテ [f 0 1 1] っまれほゅよりゎまぺ[f 0 1 0][n][f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]でゎぺょむ っも[f 0 1 0][n][e]
 
 [msg eventitem_656]
-[f 0 5 65278][f 2 1]Reliquia de una hada que anhelaba poder.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Black Frost[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぱまゅもりゎもぺ ぽま ゎょぺ めぺぽぺ りゎま ぺょめまゅぺほぺ らよぽまるテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ちゅぺぼや づるよれろ[f 0 1 0][n][e]
 
 [msg eventitem_657]
-[f 0 5 65278][f 2 1]Conejo de peluche del país de las maravillas.[n][f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Alice[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぢよょまゃよ ぽま らまゅゎぼめま ぽまゅ らぺウれ ぽま ゅぺれ ゆぺるぺわもゅゅぺれテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]だゅもぼま[f 0 1 0][n][e]
 
 [msg eventitem_658]
-[f 0 5 65278][f 2 1]Libro con los nombres de los 7 arcángeles. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Michael[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にもほるよ ぼよょ ゅよれ ょよゆほるまれ ぽま ゅよれ ッ ぺるぼァょむまゅまれテ[n][f 0 1 1] っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ぬもぼめぺまゅ[f 0 1 0][n][e]
 
 [msg eventitem_659]
-[f 0 5 65278][f 2 1]Madera grabada con los destinos de todos. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Norn[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺぽまるぺ むるぺほぺぽぺ ぼよょ ゅよれ ぽまれろもょよれ ぽま ろよぽよれテ [f 0 1 1][n]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ねよるょ[f 0 1 0][n][e]
 
 [msg eventitem_65A]
-[f 0 5 65278][f 2 1]El escudo del caballero visto en el fin del mundo.[n][f 0 1 1]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Pale Rider[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]つゅ まれぼゎぽよ ぽまゅ ぼぺほぺゅゅまるよ わもれろよ まょ まゅ みもょ ぽまゅ[n]ゆゎょぽよテ [f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]はぺゅま ぱもぽまる[f 0 1 0][n][e]
 
 [msg eventitem_65B]
-[f 0 5 65278][f 2 1]Mandala con un bosquejo de un dios destructor.[n][f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Shiva[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ぬぺょぽぺゅぺ ぼよょ ゎょ ほよれりゎまゃよ ぽま ゎょ ぽもよれ ぽまれろるゎぼろよるテ[n][f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ひめもわぺ[f 0 1 0][n][e]
 
 [msg eventitem_65C]
-[f 0 5 65278][f 2 1]Símbolo de uno de los 7 pecados, la gula. [f 0 1 1][n]Desbloquea[f 0 1 0] [f 0 1 3]la fusi吋n especial[f 0 1 0][n]para [f 0 1 3]Beelzebub[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]ひウゆほよゅよ ぽま ゎょよ ぽま ゅよれ ッ らまぼぺぽよれデ ゅぺ むゎゅぺテ [f 0 1 1][n]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]ちままゅんまほゎほ[f 0 1 0][n][e]
 
 [msg eventitem_65D]
-[f 0 5 65278][f 2 1]Llave de la puerta del Infierno, donde vive el diablo. [f 0 1 1]Desbloquea[f 0 1 0][n][f 0 1 3]la fusi吋n especial[f 0 1 0] para[n][f 0 1 3]Lucifer[f 0 1 0][n][e]
+[f 0 5 65278][f 2 1]にゅぺわま ぽま ゅぺ らゎまるろぺ ぽまゅ とょみもまるょよデ ぽよょぽま わもわま[n]まゅ ぽもぺほゅよテ [f 0 1 1]っまれほゅよりゎまぺ[f 0 1 0] [f 0 1 3]ゅぺ みゎれもカょ まれらまぼもぺゅ[f 0 1 0] らぺるぺ [f 0 1 3]にゎぼもみまる[f 0 1 0][n][e]
 
 [msg eventitem_65E]
-[f 0 5 65278][f 2 1]貴重品ID_0x65E[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂチつ[n][e]
 
 [msg eventitem_65F]
-[f 0 5 65278][f 2 1]貴重品ID_0x65F[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂチづ[n][e]
 
 [msg eventitem_660]
-[f 0 5 65278][f 2 1]Prueba del registro del 25% de las Personas, que otorga[n]un 10% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽまゅ るまむもれろるよ ぽまゅ ゾチ% ぽま ゅぺれ はまるれよょぺれデ[n]りゎま よろよるむぺ ゎょ ソゼ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_661]
-[f 0 5 65278][f 2 1]Prueba del registro del 50% de las Personas, que otorga[n]un 15% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽまゅ るまむもれろるよ ぽまゅ チゼ% ぽま ゅぺれ はまるれよょぺれデ[n]りゎま よろよるむぺ ゎょ ソチ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_662]
-[f 0 5 65278][f 2 1]Prueba del registro del 75% de las Personas, que otorga[n]un 20% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽまゅ るまむもれろるよ ぽまゅ ッチ% ぽま ゅぺれ はまるれよょぺれデ[n]りゎま よろよるむぺ ゎょ ゾゼ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_663]
-[f 0 5 65278][f 2 1]Prueba del registro total de Personas, que otorga[n]un 25% descuento al invocar desde una película.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽまゅ るまむもれろるよ ろよろぺゅ ぽま はまるれよょぺれデ りゎま[n]よろよるむぺ ゎょ ゾチ% ぽまれぼゎまょろよ ぺゅ もょわよぼぺる ぽまれぽま ゎょぺ らまゅウぼゎゅぺテ[n][e]
 
 [msg eventitem_664]
-[f 0 5 65278][f 2 1]Ofrece un 10% descuento en la tienda.[n]Se puede usar con otros descuentos.[n][e]
+[f 0 5 65278][f 2 1]のみるまぼま ゎょ ソゼ% ぽまれぼゎまょろよ まょ ゅぺ ろもまょぽぺテ ひま[n]らゎまぽま ゎれぺる ぼよょ よろるよれ ぽまれぼゎまょろよれテ[n][e]
 
 [msg eventitem_665]
-[f 0 5 65278][f 2 1]Ofrece un 10% descuento en la tienda.[n]Se puede usar con otros descuentos.[n][e]
+[f 0 5 65278][f 2 1]のみるまぼま ゎょ ソゼ% ぽまれぼゎまょろよ まょ ゅぺ ろもまょぽぺテ ひま[n]らゎまぽま ゎれぺる ぼよょ よろるよれ ぽまれぼゎまょろよれテ[n][e]
 
 [msg eventitem_666]
-[f 0 5 65278][f 2 1]Prueba de tu leal patrocinio.[n]Descuento en tarjeta de habilidad: 10%[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま ろゎ ゅまぺゅ らぺろるよぼもょもよテ っまれぼゎまょろよ まょ[n]ろぺるゃまろぺ ぽま めぺほもゅもぽぺぽト ソゼ%[n][e]
 
 [msg eventitem_667]
-[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "Kamoshidaman"[n][e]
+[f 0 5 65278][f 2 1]ぬぺらぺ ぽまゅ ろまれよるよ まれぼよょぽもぽよ まょ "なぺゆよれめもぽぺゆぺょ"[n][e]
 
 [msg eventitem_668]
-[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "Junessic Land"[n][e]
+[f 0 5 65278][f 2 1]ぬぺらぺ ぽまゅ ろまれよるよ まれぼよょぽもぽよ まょ "どゎょまれれもぼ にぺょぽ"[n][e]
 
 [msg eventitem_669]
-[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "A.I.G.I.S."[n][e]
+[f 0 5 65278][f 2 1]ぬぺらぺ ぽまゅ ろまれよるよ まれぼよょぽもぽよ まょ "だテとテてテとテひテ"[n][e]
 
 [msg eventitem_66A]
-[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "[f 6 1 40 0 0][n]."[n][e]
+[f 0 5 65278][f 2 1]ぬぺらぺ ぽまゅ ろまれよるよ まれぼよょぽもぽよ まょ "[f 6 1 40 0 0][n]テ"[n][e]
 
 [msg eventitem_66B]
-[f 0 5 65278][f 2 1]Mapa del tesoro escondido en "Película del Distrito del Cine"[n][e]
+[f 0 5 65278][f 2 1]ぬぺらぺ ぽまゅ ろまれよるよ まれぼよょぽもぽよ まょ "はまゅウぼゎゅぺ ぽまゅ[n]っもれろるもろよ ぽまゅ ぢもょま"[n][e]
 
 [msg eventitem_66C]
-[f 0 5 65278][f 2 1]貴重品ID_0x66C[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヂぢ[n][e]
 
 [msg eventitem_66D]
-[f 0 5 65278][f 2 1]Corona de oro encontrada en el tesoro[n]acumulado.[n][e]
+[f 0 5 65278][f 2 1]ぢよるよょぺ ぽま よるよ まょぼよょろるぺぽぺ まょ まゅ ろまれよるよ[n]ぺぼゎゆゎゅぺぽよテ[n][e]
 
 [msg eventitem_66E]
-[f 0 5 65278][f 2 1]Corona de oro encontrada en el tesoro[n]acumulado.[n][e]
+[f 0 5 65278][f 2 1]ぢよるよょぺ ぽま よるよ まょぼよょろるぺぽぺ まょ まゅ ろまれよるよ[n]ぺぼゎゆゎゅぺぽよテ[n][e]
 
 [msg eventitem_66F]
-[f 0 5 65278][f 2 1]Helecho de la jungla que emite el aroma de[n]canela.[n][e]
+[f 0 5 65278][f 2 1]でまゅまぼめよ ぽま ゅぺ ゃゎょむゅぺ りゎま まゆもろま まゅ ぺるよゆぺ ぽま[n]ぼぺょまゅぺテ[n][e]
 
 [msg eventitem_670]
-[f 0 5 65278][f 2 1]Helecho de la jungla que emite el aroma de[n]canela.[n][e]
+[f 0 5 65278][f 2 1]でまゅまぼめよ ぽま ゅぺ ゃゎょむゅぺ りゎま まゆもろま まゅ ぺるよゆぺ ぽま[n]ぼぺょまゅぺテ[n][e]
 
 [msg eventitem_671]
-[f 0 5 65278][f 2 1]Helecho de la jungla que emite el aroma de[n]canela.[n][e]
+[f 0 5 65278][f 2 1]でまゅまぼめよ ぽま ゅぺ ゃゎょむゅぺ りゎま まゆもろま まゅ ぺるよゆぺ ぽま[n]ぼぺょまゅぺテ[n][e]
 
 [msg eventitem_672]
-[f 0 5 65278][f 2 1]Máquina hecha con tecnología futurista[n]conocida solo por unos pocos conocedores.[n][e]
+[f 0 5 65278][f 2 1]ぬァりゎもょぺ めまぼめぺ ぼよょ ろまぼょよゅよむウぺ みゎろゎるもれろぺ ぼよょよぼもぽぺ[n]れよゅよ らよる ゎょよれ らよぼよれ ぼよょよぼまぽよるまれテ[n][e]
 
 [msg eventitem_673]
-[f 0 5 65278][f 2 1]Máquina hecha con tecnología futurista[n]conocida solo por unos pocos conocedores.[n][e]
+[f 0 5 65278][f 2 1]ぬァりゎもょぺ めまぼめぺ ぼよょ ろまぼょよゅよむウぺ みゎろゎるもれろぺ ぼよょよぼもぽぺ[n]れよゅよ らよる ゎょよれ らよぼよれ ぼよょよぼまぽよるまれテ[n][e]
 
 [msg eventitem_674]
-[f 0 5 65278][f 2 1]Máquina hecha con piezas que ni[n]siquiera los conocedores reconocerán.[n][e]
+[f 0 5 65278][f 2 1]ぬァりゎもょぺ めまぼめぺ ぼよょ らもまんぺれ りゎま ょも れもりゎもまるぺ ゅよれ[n]ぼよょよぼまぽよるまれ るまぼよょよぼまるァょテ[n][e]
 
 [msg eventitem_675]
-[f 0 5 65278][f 2 1]Máquina hecha con piezas que ni[n]siquiera los conocedores reconocerán.[n][e]
+[f 0 5 65278][f 2 1]ぬァりゎもょぺ めまぼめぺ ぼよょ らもまんぺれ りゎま ょも れもりゎもまるぺ ゅよれ[n]ぼよょよぼまぽよるまれ るまぼよょよぼまるァょテ[n][e]
 
 [msg eventitem_676]
-[f 0 5 65278][f 2 1]Máquina hecha con piezas que ni[n]siquiera los conocedores reconocerán.[n][e]
+[f 0 5 65278][f 2 1]ぬァりゎもょぺ めまぼめぺ ぼよょ らもまんぺれ りゎま ょも れもりゎもまるぺ ゅよれ[n]ぼよょよぼまぽよるまれ るまぼよょよぼまるァょテ[n][e]
 
 [msg eventitem_677]
-[f 0 5 65278][f 2 1]Fruta fragante que parece comestible,[n]pero aún puede ser un bocado arriesgado.[n][e]
+[f 0 5 65278][f 2 1]づるゎろぺ みるぺむぺょろま りゎま らぺるまぼま ぼよゆまれろもほゅまデ らまるよ[n]ぺグょ らゎまぽま れまる ゎょ ほよぼぺぽよ ぺるるもまれむぺぽよテ[n][e]
 
 [msg eventitem_678]
-[f 0 5 65278][f 2 1]Fruta fragante que parece comestible,[n]pero aún puede ser un bocado arriesgado.[n][e]
+[f 0 5 65278][f 2 1]づるゎろぺ みるぺむぺょろま りゎま らぺるまぼま ぼよゆまれろもほゅまデ らまるよ[n]ぺグょ らゎまぽま れまる ゎょ ほよぼぺぽよ ぺるるもまれむぺぽよテ[n][e]
 
 [msg eventitem_679]
-[f 0 5 65278][f 2 1]Fruta fragante que parece comestible,[n]pero aún puede ser un bocado arriesgado.[n][e]
+[f 0 5 65278][f 2 1]づるゎろぺ みるぺむぺょろま りゎま らぺるまぼま ぼよゆまれろもほゅまデ らまるよ[n]ぺグょ らゎまぽま れまる ゎょ ほよぼぺぽよ ぺるるもまれむぺぽよテ[n][e]
 
 [msg eventitem_67A]
-[f 0 5 65278][f 2 1]Fruta fragante que parece comestible,[n]pero aún puede ser un bocado arriesgado.[n][e]
+[f 0 5 65278][f 2 1]づるゎろぺ みるぺむぺょろま りゎま らぺるまぼま ぼよゆまれろもほゅまデ らまるよ[n]ぺグょ らゎまぽま れまる ゎょ ほよぼぺぽよ ぺるるもまれむぺぽよテ[n][e]
 
 [msg eventitem_67B]
-[f 0 5 65278][f 2 1]Planta de la jungla que segrega un pegajoso[n]líquido con propiedades medicinales.[n][e]
+[f 0 5 65278][f 2 1]はゅぺょろぺ ぽま ゅぺ ゃゎょむゅぺ りゎま れまむるまむぺ ゎょ らまむぺゃよれよ[n]ゅウりゎもぽよ ぼよょ らるよらもまぽぺぽまれ ゆまぽもぼもょぺゅまれテ[n][e]
 
 [msg eventitem_67C]
-[f 0 5 65278][f 2 1]Planta de la jungla que segrega un pegajoso[n]líquido con propiedades medicinales.[n][e]
+[f 0 5 65278][f 2 1]はゅぺょろぺ ぽま ゅぺ ゃゎょむゅぺ りゎま れまむるまむぺ ゎょ らまむぺゃよれよ[n]ゅウりゎもぽよ ぼよょ らるよらもまぽぺぽまれ ゆまぽもぼもょぺゅまれテ[n][e]
 
 [msg eventitem_67D]
-[f 0 5 65278][f 2 1]貴重品ID_0x67D[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂッっ[n][e]
 
 [msg eventitem_67E]
-[f 0 5 65278][f 2 1]貴重品ID_0x67E[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂッつ[n][e]
 
 [msg eventitem_67F]
-[f 0 5 65278][f 2 1]貴重品ID_0x67F[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂッづ[n][e]
 
 [msg eventitem_680]
-[f 0 5 65278][f 2 1]貴重品ID_0x680[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツゼ[n][e]
 
 [msg eventitem_681]
-[f 0 5 65278][f 2 1]貴重品ID_0x681[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツソ[n][e]
 
 [msg eventitem_682]
-[f 0 5 65278][f 2 1]貴重品ID_0x682[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツゾ[n][e]
 
 [msg eventitem_683]
-[f 0 5 65278][f 2 1]貴重品ID_0x683[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツタ[n][e]
 
 [msg eventitem_684]
-[f 0 5 65278][f 2 1]貴重品ID_0x684[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツダ[n][e]
 
 [msg eventitem_685]
-[f 0 5 65278][f 2 1]貴重品ID_0x685[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツチ[n][e]
 
 [msg eventitem_686]
-[f 0 5 65278][f 2 1]貴重品ID_0x686[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツヂ[n][e]
 
 [msg eventitem_687]
-[f 0 5 65278][f 2 1]貴重品ID_0x687[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツッ[n][e]
 
 [msg eventitem_688]
-[f 0 5 65278][f 2 1]貴重品ID_0x688[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツツ[n][e]
 
 [msg eventitem_689]
-[f 0 5 65278][f 2 1]貴重品ID_0x689[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツヅ[n][e]
 
 [msg eventitem_68A]
-[f 0 5 65278][f 2 1]貴重品ID_0x68A[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツだ[n][e]
 
 [msg eventitem_68B]
-[f 0 5 65278][f 2 1]貴重品ID_0x68B[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツち[n][e]
 
 [msg eventitem_68C]
-[f 0 5 65278][f 2 1]貴重品ID_0x68C[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツぢ[n][e]
 
 [msg eventitem_68D]
-[f 0 5 65278][f 2 1]貴重品ID_0x68D[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツっ[n][e]
 
 [msg eventitem_68E]
-[f 0 5 65278][f 2 1]貴重品ID_0x68E[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツつ[n][e]
 
 [msg eventitem_68F]
-[f 0 5 65278][f 2 1]貴重品ID_0x68F[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂツづ[n][e]
 
 [msg eventitem_690]
-[f 0 5 65278][f 2 1]A menudo se utiliza como l胤nea de vida debido[n]a su material resistente a la[n]corrosi吋n.[n][e]
+[f 0 5 65278][f 2 1]だ ゆまょゎぽよ れま ゎろもゅもんぺ ぼよゆよ ゅウょまぺ ぽま わもぽぺ ぽまほもぽよ[n]ぺ れゎ ゆぺろまるもぺゅ るまれもれろまょろま ぺ ゅぺ ぼよるるよれもカょテ[n][e]
 
 [msg eventitem_691]
-[f 0 5 65278][f 2 1]Elimina impurezas de los gases.[n]Perfecto para experimentos científicos.[n][e]
+[f 0 5 65278][f 2 1]つゅもゆもょぺ もゆらゎるまんぺれ ぽま ゅよれ むぺれまれテ はまるみまぼろよ らぺるぺ[n]まゑらまるもゆまょろよれ ぼもまょろウみもぼよれテ[n][e]
 
 [msg eventitem_692]
-[f 0 5 65278][f 2 1]Estatua con ojos de aspecto curioso.[n]Sostenerla te hace sentir afortunado...[n][e]
+[f 0 5 65278][f 2 1]つれろぺろゎぺ ぼよょ よゃよれ ぽま ぺれらまぼろよ ぼゎるもよれよテ ひよれろまょまるゅぺ[n]ろま めぺぼま れまょろもる ぺみよるろゎょぺぽよテテテ[n][e]
 
 [msg eventitem_693]
-[f 0 5 65278][f 2 1]Estatua con orejas de aspecto curioso.[n]Sostenerla te hace sentir seguro...[n][e]
+[f 0 5 65278][f 2 1]つれろぺろゎぺ ぼよょ よるまゃぺれ ぽま ぺれらまぼろよ ぼゎるもよれよテ[n]ひよれろまょまるゅぺ ろま めぺぼま れまょろもる れまむゎるよテテテ[n][e]
 
 [msg eventitem_694]
-[f 0 5 65278][f 2 1]Estatua con labios de aspecto curioso.[n]Sostenerla te hace sentir bendecido...[n][e]
+[f 0 5 65278][f 2 1]つれろぺろゎぺ ぼよょ ゅぺほもよれ ぽま ぺれらまぼろよ ぼゎるもよれよテ[n]ひよれろまょまるゅぺ ろま めぺぼま れまょろもる ほまょぽまぼもぽよテテテ[n][e]
 
 [msg eventitem_695]
-[f 0 5 65278][f 2 1]Se utiliza para hacer un dispositivo que lee[n]la composición corporal de las Sombras.[n][e]
+[f 0 5 65278][f 2 1]ひま ゎろもゅもんぺ らぺるぺ めぺぼまる ゎょ ぽもれらよれもろもわよ りゎま ゅまま[n]ゅぺ ぼよゆらよれもぼもカょ ぼよるらよるぺゅ ぽま ゅぺれ ひよゆほるぺれテ[n][e]
 
 [msg eventitem_696]
-[f 0 5 65278][f 2 1]Se utiliza para hacer una flauta especial que[n]tiene el poder de invocar el mal.[n][e]
+[f 0 5 65278][f 2 1]ひま ゎろもゅもんぺ らぺるぺ めぺぼまる ゎょぺ みゅぺゎろぺ まれらまぼもぺゅ[n]りゎま ろもまょま まゅ らよぽまる ぽま もょわよぼぺる まゅ ゆぺゅテ[n][e]
 
 [msg eventitem_697]
-[f 0 5 65278][f 2 1]Una aleación de estaño y plata utilizada para hacer una campana[n]que puede alejar el mal.[n][e]
+[f 0 5 65278][f 2 1]ぴょぺ ぺゅまぺぼもカょ ぽま まれろぺォよ を らゅぺろぺ ゎろもゅもんぺぽぺ らぺるぺ[n]めぺぼまる ゎょぺ ぼぺゆらぺょぺ りゎま らゎまぽま ぺゅまゃぺる まゅ ゆぺゅテ[n][e]
 
 [msg eventitem_698]
-[f 0 5 65278][f 2 1]Magatama negro y blanco que se dice que[n]contiene tanto el cuerpo como el espíritu.[n][e]
+[f 0 5 65278][f 2 1]ぬぺむぺろぺゆぺ ょまむるよ を ほゅぺょぼよ りゎま れま ぽもぼま りゎま[n]ぼよょろもまょま ろぺょろよ まゅ ぼゎまるらよ ぼよゆよ まゅ まれらウるもろゎテ[n][e]
 
 [msg eventitem_699]
-[f 0 5 65278][f 2 1]Se cree que invierte los atributos[n]de lo que sea que se refleje en él.[n][e]
+[f 0 5 65278][f 2 1]ひま ぼるまま りゎま もょわもまるろま ゅよれ ぺろるもほゎろよれ ぽま ゅよ りゎま[n]れまぺ りゎま れま るまみゅまゃま まょ イゅテ[n][e]
 
 [msg eventitem_69A]
-[f 0 5 65278][f 2 1]貴重品ID_0x69A[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヅだ[n][e]
 
 [msg eventitem_69B]
-[f 0 5 65278][f 2 1]貴重品ID_0x69B[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヅち[n][e]
 
 [msg eventitem_69C]
-[f 0 5 65278][f 2 1]貴重品ID_0x69C[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヅぢ[n][e]
 
 [msg eventitem_69D]
-[f 0 5 65278][f 2 1]貴重品ID_0x69D[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヅっ[n][e]
 
 [msg eventitem_69E]
-[f 0 5 65278][f 2 1]貴重品ID_0x69E[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヅつ[n][e]
 
 [msg eventitem_69F]
-[f 0 5 65278][f 2 1]貴重品ID_0x69F[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂヅづ[n][e]
 
 [msg eventitem_6A0]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A0[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだゼ[n][e]
 
 [msg eventitem_6A1]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A1[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだソ[n][e]
 
 [msg eventitem_6A2]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A2[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだゾ[n][e]
 
 [msg eventitem_6A3]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A3[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだタ[n][e]
 
 [msg eventitem_6A4]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A4[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだダ[n][e]
 
 [msg eventitem_6A5]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A5[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだチ[n][e]
 
 [msg eventitem_6A6]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A6[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだヂ[n][e]
 
 [msg eventitem_6A7]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A7[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだッ[n][e]
 
 [msg eventitem_6A8]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A8[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだツ[n][e]
 
 [msg eventitem_6A9]
-[f 0 5 65278][f 2 1]貴重品ID_0x6A9[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだヅ[n][e]
 
 [msg eventitem_6AA]
-[f 0 5 65278][f 2 1]貴重品ID_0x6AA[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだだ[n][e]
 
 [msg eventitem_6AB]
-[f 0 5 65278][f 2 1]貴重品ID_0x6AB[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだち[n][e]
 
 [msg eventitem_6AC]
-[f 0 5 65278][f 2 1]貴重品ID_0x6AC[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだぢ[n][e]
 
 [msg eventitem_6AD]
-[f 0 5 65278][f 2 1]貴重品ID_0x6AD[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだっ[n][e]
 
 [msg eventitem_6AE]
-[f 0 5 65278][f 2 1]貴重品ID_0x6AE[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだつ[n][e]
 
 [msg eventitem_6AF]
-[f 0 5 65278][f 2 1]貴重品ID_0x6AF[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂだづ[n][e]
 
 [msg eventitem_6B0]
-[f 0 5 65278][f 2 1]Decoración sartorial de un Soldado[n]de Cartas.[n][e]
+[f 0 5 65278][f 2 1]っまぼよるぺぼもカょ れぺるろよるもぺゅ ぽま ゎょ ひよゅぽぺぽよ ぽま ぢぺるろぺれテ[n][e]
 
 [msg eventitem_6B1]
-[f 0 5 65278][f 2 1]Flecha adquirida a pedido de Theo,[n]disparada por un FOE en el Group Date Cafe.[n][e]
+[f 0 5 65278][f 2 1]づゅまぼめぺ ぺぽりゎもるもぽぺ ぺ らまぽもぽよ ぽま びめまよデ ぽもれらぺるぺぽぺ[n]らよる ゎょ づのつ まょ まゅ てるよゎら っぺろま ぢぺみまテ[n][e]
 
 [msg eventitem_6B2]
-[f 0 5 65278][f 2 1]Líquido medio bebido por Teddie, robado[n]de una mesa en el Group Date Cafe.[n][e]
+[f 0 5 65278][f 2 1]にウりゎもぽよ ゆまぽもよ ほまほもぽよ らよる びまぽぽもまデ るよほぺぽよ ぽま[n]ゎょぺ ゆまれぺ まょ まゅ てるよゎら っぺろま ぢぺみまテ[n][e]
 
 [msg eventitem_6B3]
-[f 0 5 65278][f 2 1]Chupete de aluminio aterrador, encontrado[n]en el Evil Spirit Club.[n][e]
+[f 0 5 65278][f 2 1]ぢめゎらまろま ぽま ぺゅゎゆもょもよ ぺろまるるぺぽよるデ まょぼよょろるぺぽよ まょ[n]まゅ つわもゅ ひらもるもろ ぢゅゎほテ[n][e]
 
 [msg eventitem_6B4]
-[f 0 5 65278][f 2 1]Encontrado en el Evil Spirit Club.[n]Elizabeth tiene la idea equivocada...[n][e]
+[f 0 5 65278][f 2 1]つょぼよょろるぺぽよ まょ まゅ つわもゅ ひらもるもろ ぢゅゎほテ つゅもんぺほまろめ[n]ろもまょま ゅぺ もぽまぺ まりゎもわよぼぺぽぺテテテ[n][e]
 
 [msg eventitem_6B5]
-[f 0 5 65278][f 2 1]Nota que dice: "33242X". ¿Cuáles son los[n]sentimientos secretos de Elizabeth...?[n][e]
+[f 0 5 65278][f 2 1]ねよろぺ りゎま ぽもぼまト "タタゾダゾぷ"テ エぢゎァゅまれ れよょ ゅよれ[n]れまょろもゆもまょろよれ れまぼるまろよれ ぽま つゅもんぺほまろめテテテ?[n][e]
 
 [msg eventitem_6B6]
-[f 0 5 65278][f 2 1]Dice "Varonil" en su espalda. Una vez[n]empapado de sudor, pero ahora limpio.[n][e]
+[f 0 5 65278][f 2 1]っもぼま "ふぺるよょもゅ" まょ れゎ まれらぺゅぽぺテ ぴょぺ わまん まゆらぺらぺぽよ[n]ぽま れゎぽよるデ らまるよ ぺめよるぺ ゅもゆらもよテ[n][e]
 
 [msg eventitem_6B7]
-[f 0 5 65278][f 2 1]Abre una caja llena de Sombras.[n]La llave emite un aura oscura...[n][e]
+[f 0 5 65278][f 2 1]だほるま ゎょぺ ぼぺゃぺ ゅゅまょぺ ぽま ひよゆほるぺれテ にぺ ゅゅぺわま[n]まゆもろま ゎょ ぺゎるぺ よれぼゎるぺテテテ[n][e]
 
 [msg eventitem_6B8]
-[f 0 5 65278][f 2 1]Encontrado dentro de la Torre del Reloj. Es[n]antiguo y las manecillas se han detenido...[n][e]
+[f 0 5 65278][f 2 1]つょぼよょろるぺぽよ ぽまょろるよ ぽま ゅぺ びよるるま ぽまゅ ぱまゅよゃテ つれ[n]ぺょろもむゎよ を ゅぺれ ゆぺょまぼもゅゅぺれ れま めぺょ ぽまろまょもぽよテテテ[n][e]
 
 [msg eventitem_6B9]
-[f 0 5 65278][f 2 1]Tiene una increíble capacidad para atravesar[n]cualquier cosa, después de muuuchos prototipos.[n][e]
+[f 0 5 65278][f 2 1]びもまょま ゎょぺ もょぼるまウほゅま ぼぺらぺぼもぽぺぽ らぺるぺ ぺろるぺわまれぺる[n]ぼゎぺゅりゎもまる ぼよれぺデ ぽまれらゎイれ ぽま ゆゎゎゎぼめよれ らるよろよろもらよれテ[n][e]
 
 [msg eventitem_6BA]
-[f 0 5 65278][f 2 1]De Elizabeth. Parece que solo se puede usar[n]una vez.[n][e]
+[f 0 5 65278][f 2 1]っま つゅもんぺほまろめテ はぺるまぼま りゎま れよゅよ れま らゎまぽま ゎれぺる[n]ゎょぺ わまんテ[n][e]
 
 [msg eventitem_6BB]
-[f 0 5 65278][f 2 1]Hecho por Theodore para ahorrar materiales.[n]Comenzará a derretirse pronto...[n][e]
+[f 0 5 65278][f 2 1]でまぼめよ らよる びめまよぽよるま らぺるぺ ぺめよるるぺる ゆぺろまるもぺゅまれテ[n]ぢよゆまょんぺるァ ぺ ぽまるるまろもるれま らるよょろよテテテ[n][e]
 
 [msg eventitem_6BC]
-[f 0 5 65278][f 2 1]La cadena del Segador, cubierta de óxido.[n][e]
+[f 0 5 65278][f 2 1]にぺ ぼぺぽまょぺ ぽまゅ ひまむぺぽよるデ ぼゎほもまるろぺ ぽま カゑもぽよテ[n][e]
 
 [msg eventitem_6BD]
-[f 0 5 65278][f 2 1]Esfera amarilla encontrada en un vacío en[n]el End of You in Wonderland.[n][e]
+[f 0 5 65278][f 2 1]つれみまるぺ ぺゆぺるもゅゅぺ まょぼよょろるぺぽぺ まょ ゎょ わぺぼウよ まょ まゅ[n]つょぽ よみ へよゎ もょ ぶよょぽまるゅぺょぽテ[n][e]
 
 [msg eventitem_6BE]
-[f 0 5 65278][f 2 1]Esfera rosa encontrada en un vacío en[n]el Gran Día del Group Date Cafe.[n][e]
+[f 0 5 65278][f 2 1]つれみまるぺ るよれぺ まょぼよょろるぺぽぺ まょ ゎょ わぺぼウよ まょ まゅ てるぺょ[n]っウぺ ぽまゅ てるよゎら っぺろま ぢぺみまテ[n][e]
 
 [msg eventitem_6BF]
-[f 0 5 65278][f 2 1]Esfera negra encontrada en un vacío en[n]la Última Historia del Evil Spirit Club.[n][e]
+[f 0 5 65278][f 2 1]つれみまるぺ ょまむるぺ まょぼよょろるぺぽぺ まょ ゎょ わぺぼウよ まょ ゅぺ[n]ゲゅろもゆぺ でもれろよるもぺ ぽまゅ つわもゅ ひらもるもろ ぢゅゎほテ[n][e]
 
 [msg eventitem_6C0]
-[f 0 5 65278][f 2 1]Esfera roja encontrada en un vacío en la[n]Noche Final de la Exhibición del Orgullo de Inaba.[n][e]
+[f 0 5 65278][f 2 1]つれみまるぺ るよゃぺ まょぼよょろるぺぽぺ まょ ゎょ わぺぼウよ まょ ゅぺ[n]ねよぼめま づもょぺゅ ぽま ゅぺ つゑめもほもぼもカょ ぽまゅ のるむゎゅゅよ ぽま とょぺほぺテ[n][e]
 
 [msg eventitem_6C1]
-[f 0 5 65278][f 2 1]Corrompido por el miasma del Infierno.[n]Usar para invocar a Turdak.[n][e]
+[f 0 5 65278][f 2 1]ぢよるるよゆらもぽよ らよる まゅ ゆもぺれゆぺ ぽまゅ とょみもまるょよテ ぴれぺる[n]らぺるぺ もょわよぼぺる ぺ びゎるぽぺやテ[n][e]
 
 [msg eventitem_6C2]
-[f 0 5 65278][f 2 1]Infunde miedo en todos los que lo ven.[n]Usar para invocar a Basilisk.[n][e]
+[f 0 5 65278][f 2 1]とょみゎょぽま ゆもまぽよ まょ ろよぽよれ ゅよれ りゎま ゅよ わまょテ ぴれぺる[n]らぺるぺ もょわよぼぺる ぺ ちぺれもゅもれやテ[n][e]
 
 [msg eventitem_6C3]
-[f 0 5 65278][f 2 1]Sake japonés más antiguo, un vino de arroz.[n]Usar para invocar a Ouyamatsumi.[n][e]
+[f 0 5 65278][f 2 1]ひぺやま ゃぺらよょイれ ゆァれ ぺょろもむゎよデ ゎょ わもょよ ぽま ぺるるよんテ[n]ぴれぺる らぺるぺ もょわよぼぺる ぺ のゎをぺゆぺろれゎゆもテ[n][e]
 
 [msg eventitem_6C4]
-[f 0 5 65278][f 2 1]¡Alta calidad, pero se niega a pegarse![n]Usar para invocar a Warrior Zeus.[n][e]
+[f 0 5 65278][f 2 1]ィだゅろぺ ぼぺゅもぽぺぽデ らまるよ れま ょもまむぺ ぺ らまむぺるれま! ぴれぺる[n]らぺるぺ もょわよぼぺる ぺ ぶぺるるもよる べまゎれテ[n][e]
 
 [msg eventitem_6C5]
-[f 0 5 65278][f 2 1]Premio por derrotar a Elizabeth.[n]Usar para invocar a Zeus+.[n][e]
+[f 0 5 65278][f 2 1]はるまゆもよ らよる ぽまるるよろぺる ぺ つゅもんぺほまろめテ ぴれぺる らぺるぺ[n]もょわよぼぺる ぺ べまゎれ+テ[n][e]
 
 [msg eventitem_6C6]
-[f 0 5 65278][f 2 1]Se dice que es el material más resistente.[n][e]
+[f 0 5 65278][f 2 1]ひま ぽもぼま りゎま まれ まゅ ゆぺろまるもぺゅ ゆァれ るまれもれろまょろまテ[n][e]
 
 [msg eventitem_6C7]
-[f 0 5 65278][f 2 1]Premio del tiro al blanco.[n]¡Apenas puedes resistir apretarlo![n][e]
+[f 0 5 65278][f 2 1]はるまゆもよ ぽまゅ ろもるよ ぺゅ ほゅぺょぼよテ ィだらまょぺれ らゎまぽまれ[n]るまれもれろもる ぺらるまろぺるゅよ![n][e]
 
 [msg eventitem_6C8]
-[f 0 5 65278][f 2 1]Gesto de aprecio de Marie.[n]Pon tu oído y escucha...[n][e]
+[f 0 5 65278][f 2 1]てまれろよ ぽま ぺらるまぼもよ ぽま ぬぺるもまテ はよょ ろゎ よウぽよ を[n]まれぼゎぼめぺテテテ[n][e]
 
 [msg eventitem_6C9]
-[f 0 5 65278][f 2 1]Puede usarse con otros cupones.[n](Descuento en la tienda: 10%)[n][e]
+[f 0 5 65278][f 2 1]はゎまぽま ゎれぺるれま ぼよょ よろるよれ ぼゎらよょまれテ ドっまれぼゎまょろよ[n]まょ ゅぺ ろもまょぽぺト ソゼ%ナ[n][e]
 
 [msg eventitem_6CA]
-[f 0 5 65278][f 2 1]Puede usarse con otros cupones.[n](Descuento en la tienda: 10%)[n][e]
+[f 0 5 65278][f 2 1]はゎまぽま ゎれぺるれま ぼよょ よろるよれ ぼゎらよょまれテ ドっまれぼゎまょろよ[n]まょ ゅぺ ろもまょぽぺト ソゼ%ナ[n][e]
 
 [msg eventitem_6CB]
-[f 0 5 65278][f 2 1]Prueba de tu leal patrocinio.[n]Descuento en tarjetas de habilidad: 10%[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま ろゎ ゅまぺゅ らぺろるよぼもょもよテ っまれぼゎまょろよ まょ[n]ろぺるゃまろぺれ ぽま めぺほもゅもぽぺぽト ソゼ%[n][e]
 
 [msg eventitem_6CC]
-[f 0 5 65278][f 2 1]Prueba de un gran logro.[n]Es muy raro recibir esto.[n][e]
+[f 0 5 65278][f 2 1]はるゎまほぺ ぽま ゎょ むるぺょ ゅよむるよテ つれ ゆゎを るぺるよ るまぼもほもる[n]まれろよテ[n][e]
 
 [msg eventitem_6CD]
-[f 0 5 65278][f 2 1]Horquilla que representa la pureza,[n]llevada por un ángel del amor.[n][e]
+[f 0 5 65278][f 2 1]でよるりゎもゅゅぺ りゎま るまらるまれまょろぺ ゅぺ らゎるまんぺデ ゅゅまわぺぽぺ[n]らよる ゎょ ァょむまゅ ぽまゅ ぺゆよるテ[n][e]
 
 [msg eventitem_6CE]
-[f 0 5 65278][f 2 1]Algo viscoso que goteó[n]de una vieja muñeca.[n][e]
+[f 0 5 65278][f 2 1]だゅむよ わもれぼよれよ りゎま むよろまカ ぽま ゎょぺ わもまゃぺ ゆゎォまぼぺテ[n][e]
 
 [msg eventitem_6CF]
-[f 0 5 65278][f 2 1]Obra magnífica de los chicos del festival.[n]¡Está dibujado minuciosamente a mano![n][e]
+[f 0 5 65278][f 2 1]のほるぺ ゆぺむょウみもぼぺ ぽま ゅよれ ぼめもぼよれ ぽまゅ みまれろもわぺゅテ[n]ィつれろァ ぽもほゎゃぺぽよ ゆもょゎぼもよれぺゆまょろま ぺ ゆぺょよ![n][e]
 
 [msg eventitem_6D0]
-[f 0 5 65278][f 2 1]Protege al protagonista de morir.[n]Puede reutilizarse si regresas a la escuela[n][e]
+[f 0 5 65278][f 2 1]はるよろまむま ぺゅ らるよろぺむよょもれろぺ ぽま ゆよるもるテ はゎまぽま[n]るまゎろもゅもんぺるれま れも るまむるまれぺれ ぺ ゅぺ まれぼゎまゅぺ[n][e]
 
 [msg eventitem_6D1]
-[f 0 5 65278][f 2 1]Protege al protagonista de morir.[n]Pero no se puede usar en este momento...[n][e]
+[f 0 5 65278][f 2 1]はるよろまむま ぺゅ らるよろぺむよょもれろぺ ぽま ゆよるもるテ はまるよ ょよ れま[n]らゎまぽま ゎれぺる まょ まれろま ゆよゆまょろよテテテ[n][e]
 
 [msg eventitem_6D2]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D2[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっゾ[n][e]
 
 [msg eventitem_6D3]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D3[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっタ[n][e]
 
 [msg eventitem_6D4]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D4[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっダ[n][e]
 
 [msg eventitem_6D5]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D5[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっチ[n][e]
 
 [msg eventitem_6D6]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D6[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっヂ[n][e]
 
 [msg eventitem_6D7]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D7[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっッ[n][e]
 
 [msg eventitem_6D8]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D8[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっツ[n][e]
 
 [msg eventitem_6D9]
-[f 0 5 65278][f 2 1]貴重品ID_0x6D9[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっヅ[n][e]
 
 [msg eventitem_6DA]
-[f 0 5 65278][f 2 1]貴重品ID_0x6DA[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっだ[n][e]
 
 [msg eventitem_6DB]
-[f 0 5 65278][f 2 1]貴重品ID_0x6DB[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっち[n][e]
 
 [msg eventitem_6DC]
-[f 0 5 65278][f 2 1]貴重品ID_0x6DC[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっぢ[n][e]
 
 [msg eventitem_6DD]
-[f 0 5 65278][f 2 1]貴重品ID_0x6DD[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっっ[n][e]
 
 [msg eventitem_6DE]
-[f 0 5 65278][f 2 1]貴重品ID_0x6DE[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっつ[n][e]
 
 [msg eventitem_6DF]
-[f 0 5 65278][f 2 1]貴重品ID_0x6DF[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂっづ[n][e]
 
 [msg eventitem_6E0]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E0[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつゼ[n][e]
 
 [msg eventitem_6E1]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E1[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつソ[n][e]
 
 [msg eventitem_6E2]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E2[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつゾ[n][e]
 
 [msg eventitem_6E3]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E3[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつタ[n][e]
 
 [msg eventitem_6E4]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E4[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつダ[n][e]
 
 [msg eventitem_6E5]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E5[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつチ[n][e]
 
 [msg eventitem_6E6]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E6[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつヂ[n][e]
 
 [msg eventitem_6E7]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E7[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつッ[n][e]
 
 [msg eventitem_6E8]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E8[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつツ[n][e]
 
 [msg eventitem_6E9]
-[f 0 5 65278][f 2 1]貴重品ID_0x6E9[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつヅ[n][e]
 
 [msg eventitem_6EA]
-[f 0 5 65278][f 2 1]貴重品ID_0x6EA[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつだ[n][e]
 
 [msg eventitem_6EB]
-[f 0 5 65278][f 2 1]貴重品ID_0x6EB[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつち[n][e]
 
 [msg eventitem_6EC]
-[f 0 5 65278][f 2 1]貴重品ID_0x6EC[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつぢ[n][e]
 
 [msg eventitem_6ED]
-[f 0 5 65278][f 2 1]貴重品ID_0x6ED[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつっ[n][e]
 
 [msg eventitem_6EE]
-[f 0 5 65278][f 2 1]貴重品ID_0x6EE[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつつ[n][e]
 
 [msg eventitem_6EF]
-[f 0 5 65278][f 2 1]貴重品ID_0x6EF[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂつづ[n][e]
 
 [msg eventitem_6F0]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F0[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづゼ[n][e]
 
 [msg eventitem_6F1]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F1[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづソ[n][e]
 
 [msg eventitem_6F2]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F2[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづゾ[n][e]
 
 [msg eventitem_6F3]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F3[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづタ[n][e]
 
 [msg eventitem_6F4]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F4[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづダ[n][e]
 
 [msg eventitem_6F5]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F5[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづチ[n][e]
 
 [msg eventitem_6F6]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F6[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづヂ[n][e]
 
 [msg eventitem_6F7]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F7[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづッ[n][e]
 
 [msg eventitem_6F8]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F8[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづツ[n][e]
 
 [msg eventitem_6F9]
-[f 0 5 65278][f 2 1]貴重品ID_0x6F9[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづヅ[n][e]
 
 [msg eventitem_6FA]
-[f 0 5 65278][f 2 1]貴重品ID_0x6FA[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづだ[n][e]
 
 [msg eventitem_6FB]
-[f 0 5 65278][f 2 1]貴重品ID_0x6FB[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづち[n][e]
 
 [msg eventitem_6FC]
-[f 0 5 65278][f 2 1]貴重品ID_0x6FC[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづぢ[n][e]
 
 [msg eventitem_6FD]
-[f 0 5 65278][f 2 1]貴重品ID_0x6FD[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづっ[n][e]
 
 [msg eventitem_6FE]
-[f 0 5 65278][f 2 1]貴重品ID_0x6FE[n][e]
+[f 0 5 65278][f 2 1]貴重品とっ_ゼゑヂづつ[n][e]
 
 [msg eventitem_6FF]
 [f 0 5 65278][f 2 1]貴重品枠最後[n][e]

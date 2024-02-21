@@ -1,6 +1,6 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Los compa隠eros de equipo en reserva pueden unirse[n]a la batalla mediante los [f 0 1 2]ataques de seguimiento[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]によれ ぼよゆらぺォまるよれ ぽま まりゎもらよ まょ るまれまるわぺ らゎまぽまょ ゎょもるれま[n]ぺ ゅぺ ほぺろぺゅゅぺ ゆまぽもぺょろま ゅよれ [f 0 1 2]ぺろぺりゎまれ ぽま れまむゎもゆもまょろよ[f 0 1 0]テ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes02]
-[f 0 5 65278][f 2 1][n]Los ataques de seguimiento pueden ocurrir despu姻s de[n]que un miembro del grupo realiza un golpe cr胤tico,[n]o si el ataque tuvo afinidad con la debilidad del enemigo.[n][n]Los ataques de seguimiento tienen una alta probabilidad[n]de derribar a las Sombras[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]によれ ぺろぺりゎまれ ぽま れまむゎもゆもまょろよ らゎまぽまょ よぼゎるるもる ぽまれらゎイれ ぽま[n]りゎま ゎょ ゆもまゆほるよ ぽまゅ むるゎらよ るまぺゅもんぺ ゎょ むよゅらま ぼるウろもぼよデ[n]よ れも まゅ ぺろぺりゎま ろゎわよ ぺみもょもぽぺぽ ぼよょ ゅぺ ぽまほもゅもぽぺぽ ぽまゅ まょまゆもむよテ[n][n]によれ ぺろぺりゎまれ ぽま れまむゎもゆもまょろよ ろもまょまょ ゎょぺ ぺゅろぺ らるよほぺほもゅもぽぺぽ[n]ぽま ぽまるるもほぺる ぺ ゅぺれ ひよゆほるぺれ[f 0 1 0]テ[n][f 1 1][e]
 

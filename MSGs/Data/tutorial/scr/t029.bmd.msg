@@ -1,6 +1,6 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1]Escapa de una batalla [f 0 1 2]manteniendo presionado el[n]Bot吋n B[f 0 1 0] en la pantalla principal de combate.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]つれぼぺらぺ ぽま ゎょぺ ほぺろぺゅゅぺ [f 0 1 2]ゆぺょろまょもまょぽよ らるまれもよょぺぽよ まゅ[n]ちよろカょ ち[f 0 1 0] まょ ゅぺ らぺょろぺゅゅぺ らるもょぼもらぺゅ ぽま ぼよゆほぺろまテ[n][f 1 1][e]
 
 [msg BTL_TUTORIAL_mes_RISKY]
-[f 0 5 65278][f 2 1][n]Sin embargo, si tienes la dificultad en DESPIADADO,[n]los intentos de escapar de una [f 0 1 2]batalla con un FOE[f 0 1 0] fallar茨n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]ひもょ まゆほぺるむよデ れも ろもまょまれ ゅぺ ぽもみもぼゎゅろぺぽ まょ っつひはとだっだっのデ[n]ゅよれ もょろまょろよれ ぽま まれぼぺらぺる ぽま ゎょぺ [f 0 1 2]ほぺろぺゅゅぺ ぼよょ ゎょ づのつ[f 0 1 0] みぺゅゅぺるァょテ[n][f 1 1][e]
 

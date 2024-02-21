@@ -1,3 +1,3 @@
 ﻿[msg BTL_TUTORIAL_mes01]
-[f 0 5 65278][f 2 1][n]Al tomar decisiones, puedes presionar el [f 0 1 2]Bot吋n L[f 0 1 0][n]para verificar la debilidad de la Sombra y su estado[n]actual.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][n]だゅ ろよゆぺる ぽまぼもれもよょまれデ らゎまぽまれ らるまれもよょぺる まゅ [f 0 1 2]ちよろカょ に[f 0 1 0][n]らぺるぺ わまるもみもぼぺる ゅぺ ぽまほもゅもぽぺぽ ぽま ゅぺ ひよゆほるぺ を れゎ まれろぺぽよ[n]ぺぼろゎぺゅテ[n][f 1 1][e]
 
