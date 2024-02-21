@@ -108,7 +108,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 5004][f 6 1 2 0 0 4]夷Es alguien que conoces?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 6 3 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19008Mmhm. 畏l es el presidente del consejo en la Escuela Gekkoukan y el asesor del club en SEES...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 6 3 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19008]Mmhm. 畏l es el presidente del consejo en la Escuela Gekkoukan y el asesor del club en SEES...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 3 1 1 0 0 19015][f 6 1 2 0 0 4]Pero, 夷por qu姻 nuestro presidente es el supervisor de un mundo de robots en esta pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
