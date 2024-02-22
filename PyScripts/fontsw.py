@@ -1,15 +1,17 @@
 ﻿import tkinter as tk
 from tkinter import filedialog
 from tkinter import ttk
+import os
 
 
 class TextFileEditor:
     def __init__(self, root):
+        self.trace_ids = []
+
         self.root = root
         self.root.title("MSG FONT SWITCHER")
 
-        self.default_entry_width = 150  # Ancho por defecto para los campos de entrada
-        # font size
+        self.default_entry_width = 150
         self.root.option_add("*Font", "Consolas 12")
 
         self.entries = []
@@ -21,6 +23,12 @@ class TextFileEditor:
         self.load_button = ttk.Button(
             self.root, text="Abrir archivo", command=self.open_file)
         self.load_button.pack(fill=tk.X)
+
+        self.save_button = ttk.Button(
+            self.root, text="Guardar archivo", command=self.save_file)
+        self.save_button.pack(fill=tk.X)
+
+        self.file_path = None  # Guardar la ruta del archivo original
 
         # Diccionario para el reemplazo de caracteres
         self.replace_options = {
@@ -132,10 +140,21 @@ class TextFileEditor:
         file_path = filedialog.askopenfilename(
             filetypes=[("Archivo de texto", "*.msg")])
         if file_path:
-            self.load_file(file_path)
+            # Cerrar la instancia actual
+            self.root.destroy()
+            # Crear una nueva instancia con el archivo seleccionado
+            root = tk.Tk()
+            root.geometry("1400x600")
+            root.resizable(False, False)
+            editor = TextFileEditor(root)
+            editor.load_file(file_path)
+            editor.run()
 
     def load_file(self, file_path):
         self.clear_entries()
+
+        # Actualizar el título de la ventana principal
+        self.root.title(f"MSG FONT SWITCHER - {os.path.basename(file_path)}")
 
         def on_configure(event=None):
             # Configurar el scrollregion del canvas para permitir el desplazamiento de todo el contenido
@@ -187,13 +206,24 @@ class TextFileEditor:
         self.text_frame.pack(side="top", fill="both", expand=True)
 
     def clear_entries(self):
+        for trace_id in self.trace_ids:
+            checkbox_var.trace_vdelete("w", trace_id)  # Eliminar rastreo
+        self.trace_ids.clear()
+
+        for checkbox_var in self.checkboxes:
+            # Eliminar todos los rastreos de escritura
+            checkbox_var.trace_vdelete("w", 0)
+
         for entry in self.entries:
             entry.pack_forget()
             entry.destroy()
-        self.entries.clear()
 
-        for checkbox in self.checkboxes:
-            checkbox.set(False)
+        self.entries.clear()
+        self.checkboxes.clear()
+
+    def unload_file(self):
+        self.file_path = None
+        self.root.title("MSG FONT SWITCHER")
 
     def replace_characters(self, entry, checkbox_var):
         original_text = entry.get()
@@ -220,6 +250,18 @@ class TextFileEditor:
                         char = value
             result += char
         return result
+
+    def save_file(self):
+        if not self.file_path:
+            return  # No hay archivo cargado, no se puede guardar
+
+        if not tk.messagebox.askokcancel("Guardar archivo", "¿Está seguro de reemplazar el archivo original?"):
+            return  # El usuario ha cancelado el guardado
+
+        with open(self.file_path, 'w', encoding='utf-8') as file:
+            for entry in self.entries:
+                text = entry.get()
+                file.write(text + "\n")
 
     def run(self):
         self.root.mainloop()
