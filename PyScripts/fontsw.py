@@ -6,9 +6,11 @@ from tkinter import ttk
 class TextFileEditor:
     def __init__(self, root):
         self.root = root
-        self.root.title("Editor de Archivo de Texto")
+        self.root.title("MSG FONT SWITCHER")
 
-        self.default_entry_width = 200  # Ancho por defecto para los campos de entrada
+        self.default_entry_width = 150  # Ancho por defecto para los campos de entrada
+        # font size
+        self.root.option_add("*Font", "Consolas 12")
 
         self.entries = []
         self.checkboxes = []
@@ -147,7 +149,7 @@ class TextFileEditor:
         canvas.pack(side="left", fill="both", expand=True)
         canvas.configure(yscrollcommand=scrollbar.set)
 
-        # Contenedor para los elementos
+        # Contenedor
         container = tk.Frame(canvas)
         canvas.create_window((0, 0), window=container, anchor="nw")
 
@@ -225,7 +227,7 @@ class TextFileEditor:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.geometry("1250x600")
+    root.geometry("1400x600")
     root.resizable(False, False)
     editor = TextFileEditor(root)
     editor.run()
