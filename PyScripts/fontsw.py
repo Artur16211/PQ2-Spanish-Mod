@@ -132,6 +132,7 @@ class MainWindow(QMainWindow):
 
         self.file_line_edit = QLineEdit()
         file_layout.addWidget(self.file_line_edit)
+        self.file_line_edit.setReadOnly(True)
 
         file_button = QPushButton("Explorar")
         file_button.clicked.connect(self.abrir_explorador)
