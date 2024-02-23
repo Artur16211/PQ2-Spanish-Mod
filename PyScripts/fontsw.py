@@ -129,6 +129,10 @@ class MainWindow(QMainWindow):
         file_button.clicked.connect(self.abrir_explorador)
         file_layout.addWidget(file_button)
 
+        self.save_button = QPushButton("Guardar")
+        self.save_button.clicked.connect(self.save_file)
+        layout.addWidget(self.save_button)
+
         self.scroll_area = QScrollArea()
         layout.addWidget(self.scroll_area)
 
@@ -193,6 +197,52 @@ class MainWindow(QMainWindow):
         else:
             entry.setText(replaced_text)
             entry.setStyleSheet("font-weight: normal;")
+
+    def save_file(self):
+        file = self.file_line_edit.text()
+        try:
+            with open(file, 'w', encoding='utf-8') as f:
+                for i in range(self.scroll_area.widget().layout().count()):
+                    entry_layout = self.scroll_area.widget().layout().itemAt(i).layout()
+                    entry_text = entry_layout.itemAt(1).widget().text()
+                    if entry_text.startswith('{SmallFont}'):
+                        entry_text = self.replace_backwards(entry_text)
+                        # Remove SmallFont
+                        entry_text = entry_text[11:]
+                    f.write(entry_text + '\n')
+            QMessageBox.information(
+                self, "Guardado", "Archivo guardado exitosamente.")
+        except Exception as e:
+            QMessageBox.critical(
+                self, "Error", f"No se pudo guardar el archivo: {e}")
+
+    def replace_backwards(self, line):
+        # Variable para almacenar el resultado de la línea con los reemplazos
+        replaced_line = ""
+
+        # Variable para rastrear si estamos dentro de corchetes
+        inside_brackets = False
+
+        # Recorremos la línea caracter por caracter
+        for char in line:
+            # Si encontramos un corchete de apertura, cambiamos la bandera
+            if char == '[':
+                inside_brackets = True
+            # Si encontramos un corchete de cierre, cambiamos la bandera
+            elif char == ']':
+                inside_brackets = False
+
+            # Si el caracter no está dentro de corchetes, lo reemplazamos
+            if not inside_brackets:
+                for key, value in replace_keys.items():
+                    if char == value:
+                        char = key
+                        break  # Salimos del bucle una vez que se realiza el reemplazo
+
+            # Añadimos el caracter (ya sea el original o reemplazado) al resultado
+            replaced_line += char
+
+        return replaced_line
 
 
 def main():
