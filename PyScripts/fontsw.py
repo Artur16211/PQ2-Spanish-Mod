@@ -1,5 +1,5 @@
-﻿import tkinter as tk
-from tkinter import filedialog, messagebox
+﻿import sys
+from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QFileDialog, QMessageBox, QScrollArea, QCheckBox
 
 replace_keys = {
     'だ': 'A',
@@ -101,134 +101,106 @@ replace_keys = {
 }
 
 
-def abrir_explorador():
-    file = filedialog.askopenfilename(filetypes=[("file", "*.msg")])
-    if file:
-        entrada_file.delete(0, tk.END)
-        entrada_file.insert(tk.END, file)
-        show_content(file)
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.initUI()
 
-        save_button = tk.Button(root, text="Guardar",
-                                command=lambda: save_content(file))
-        save_button.pack(side=tk.TOP, padx=5, pady=5)
+    def initUI(self):
+        self.setWindowTitle("Font Switcher")
+        self.setGeometry(100, 100, 800, 600)
 
+        central_widget = QWidget()
+        self.setCentralWidget(central_widget)
 
-def save_content(file):
-    try:
-        with open(file, 'w', encoding='utf-8') as f:
-            for widget in frame.winfo_children():
-                if isinstance(widget, tk.Entry):
-                    text = widget.get().strip()
-                    if text.startswith('{SmallFont}'):
-                        # Reemplazar inversamente utilizando el diccionario
-                        text = ''.join(replace_keys.get(char, char)
-                                       for char in text[11:])
-                    f.write(text + '\n')
-        messagebox.showinfo("Guardado", "Archivo guardado exitosamente.")
-    except Exception as e:
-        messagebox.showerror("Error", f"No se pudo guardar el archivo: {e}")
+        layout = QVBoxLayout()
+        central_widget.setLayout(layout)
 
+        file_layout = QHBoxLayout()
+        layout.addLayout(file_layout)
 
-def show_content(file):
-    encode = ['utf-8']
+        file_label = QLabel("Seleccione un archivo:")
+        file_layout.addWidget(file_label)
 
-    for codificacion in encode:
+        self.file_line_edit = QLineEdit()
+        file_layout.addWidget(self.file_line_edit)
+
+        file_button = QPushButton("Explorar")
+        file_button.clicked.connect(self.abrir_explorador)
+        file_layout.addWidget(file_button)
+
+        self.scroll_area = QScrollArea()
+        layout.addWidget(self.scroll_area)
+
+    def abrir_explorador(self):
+        file, _ = QFileDialog.getOpenFileName(
+            self, "Seleccionar archivo", "", "Archivos (*.msg)")
+        if file:
+            self.file_line_edit.setText(file)
+            self.show_content(file)
+
+    def show_content(self, file):
         try:
-            with open(file, 'r', encoding=codificacion) as f:
-                lines = f.readlines()
-                for widget in frame.winfo_children():
-                    widget.destroy()
-                for i, line in enumerate(lines):
-                    replaced_text = replace_characters(line.strip())
-                    entry_variable = tk.StringVar()
-                    entry_variable.set(replaced_text)
-                    entry = tk.Entry(
-                        frame, textvariable=entry_variable, width=90, justify='left', font=('Arial', 10))
-                    entry.grid(row=i, column=1, padx=5, pady=5, sticky="ew")
-                    checkbox_var = tk.BooleanVar()
+            with open(file, 'r', encoding='utf-8') as f:
+                content_widget = QWidget()
+                content_layout = QVBoxLayout()
+                content_widget.setLayout(content_layout)
+
+                i = 0
+                for line in f:
+                    replaced_text = self.replace_characters(line.strip())
+
+                    entry_layout = QHBoxLayout()
+
+                    checkbox = QCheckBox()
+                    entry_layout.addWidget(checkbox)
+
+                    entry = QLineEdit(replaced_text)
+                    entry.setReadOnly(True)
+                    # Ajusta el ancho mínimo del QLineEdit
+                    entry.setMinimumWidth(1000)
+                    entry_layout.addWidget(entry)
+
+                    content_layout.addLayout(entry_layout)
+
                     if replaced_text != line.strip():
-                        # Aplicar negritas solo si hay reemplazo
-                        entry.config(font=('Arial', 10, 'bold'))
-                        # agregar {SmallFont} al inicio del texto
-                        entry_variable.set('{SmallFont}' + replaced_text)
-                        checkbox_var = tk.BooleanVar(value=True)
-                    checkbox = tk.Checkbutton(frame, variable=checkbox_var, command=lambda entry=entry,
-                                              checkbox_var=checkbox_var: toggle_formatting(entry, checkbox_var))
-                    checkbox.grid(row=i, column=0, padx=5)
+                        entry.setStyleSheet("font-weight: bold;")
+                        checkbox.setChecked(True)
+                        entry.setText('{SmallFont}' + replaced_text)
 
-                canvas.config(scrollregion=canvas.bbox("all"))
-                return
+                    checkbox.stateChanged.connect(
+                        lambda state, entry=entry, replaced_text=replaced_text: self.toggle_formatting(entry, state, replaced_text))
+
+                    i += 1
+
+                scroll_content = QWidget()
+                scroll_content.setLayout(content_layout)
+
+                self.scroll_area.setWidget(scroll_content)
         except Exception as e:
-            print(
-                f"Error al abrir el archivo con codificación '{codificacion}': {e}")
+            QMessageBox.critical(
+                self, "Error", f"No se pudo abrir el archivo: {e}")
 
-    messagebox.showerror(
-        "Error", "No se pudo abrir el archivo con ninguna codificación.")
+    def replace_characters(self, line):
+        for key, value in replace_keys.items():
+            line = line.replace(key, value)
+        return line
 
-
-def replace_characters(line):
-    for key, value in replace_keys.items():
-        line = line.replace(key, value)
-    return line
-
-
-def toggle_formatting(entry, checkbox_var):
-    entry_text = entry.get()
-    if checkbox_var.get():
-        # check if the text is not already formatted
-        if not '{SmallFont}' in entry_text or 'bold' in entry.cget('font'):
-            entry_text = '{SmallFont}' + entry_text
-            entry.config(font=('Arial', 10, 'bold'))
-    else:
-        entry_text = entry_text.replace(
-            '{SmallFont}', '')
-        entry.config(font=('Arial', 10))
-    entry.delete(0, tk.END)
-    entry.insert(tk.END, entry_text)
+    def toggle_formatting(self, entry, state, replaced_text):
+        if state == 2:  # 2 is equivalent to Qt.Checked
+            entry.setText('{SmallFont}' + replaced_text)
+            entry.setStyleSheet("font-weight: bold;")
+        else:
+            entry.setText(replaced_text)
+            entry.setStyleSheet("font-weight: normal;")
 
 
-def on_frame_configure(event):
-    canvas.configure(scrollregion=canvas.bbox("all"))
+def main():
+    app = QApplication(sys.argv)
+    window = MainWindow()
+    window.show()
+    sys.exit(app.exec_())
 
 
-def on_mousewheel(event):
-    canvas.yview_scroll(-1 * int((event.delta / 120)), "units")
-
-
-root = tk.Tk()
-root.title("Font Switcher")
-
-tk.Label(root, text="Seleccione un archivo:").pack()
-frame_file = tk.Frame(root)
-frame_file.pack(fill=tk.X)
-
-entrada_file = tk.Entry(frame_file)
-entrada_file.pack(side=tk.LEFT, expand=True, fill=tk.X, padx=(0, 5))
-
-boton_explorador = tk.Button(
-    frame_file, text="Explorar", command=abrir_explorador)
-boton_explorador.pack(side=tk.LEFT)
-
-canvas = tk.Canvas(root)
-canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
-
-scrollbar = tk.Scrollbar(root, orient=tk.VERTICAL, command=canvas.yview)
-scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
-
-canvas.configure(yscrollcommand=scrollbar.set)
-
-frame = tk.Frame(canvas)
-canvas.create_window((0, 0), window=frame, anchor=tk.NW)
-
-frame.bind("<Configure>", on_frame_configure)
-
-root.bind_all("<MouseWheel>", on_mousewheel)
-
-frame.bindtags((str(frame), "Frame", ".", "all"))
-for child in frame.winfo_children():
-    child.bindtags((str(child), child.winfo_class(), ".", "all"))
-
-frame.rowconfigure(0, weight=1)
-frame.columnconfigure(1, weight=1)
-
-root.mainloop()
+if __name__ == '__main__':
+    main()
