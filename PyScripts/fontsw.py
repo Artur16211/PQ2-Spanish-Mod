@@ -1,6 +1,13 @@
 ﻿import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QPushButton, QFileDialog, QMessageBox, QScrollArea, QCheckBox
 
+
+def get_file_path(args):
+    if len(args) > 1:
+        return args[1]
+    return None
+
+
 replace_keys = {
     'だ': 'A',
     'ち': 'B',
@@ -105,6 +112,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.initUI()
+        self.current_file = ""
 
     def initUI(self):
         self.setWindowTitle("Font Switcher")
@@ -141,6 +149,7 @@ class MainWindow(QMainWindow):
             self, "Seleccionar archivo", "", "Archivos (*.msg)")
         if file:
             self.file_line_edit.setText(file)
+            self.current_file = file
             self.show_content(file)
 
     def show_content(self, file):
@@ -198,10 +207,15 @@ class MainWindow(QMainWindow):
             entry.setText(replaced_text)
             entry.setStyleSheet("font-weight: normal;")
 
-    def save_file(self):
-        file = self.file_line_edit.text()
+    def save_file(self, file_path=None):
+        if not file_path:
+            file_path = self.current_file  # Usa la ruta almacenada si no se proporciona otra
+        if not file_path:
+            QMessageBox.critical(
+                self, "Error", "No se ha abierto ningún archivo para guardar.")
+            return
         try:
-            with open(file, 'w', encoding='utf-8') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 for i in range(self.scroll_area.widget().layout().count()):
                     entry_layout = self.scroll_area.widget().layout().itemAt(i).layout()
                     entry_text = entry_layout.itemAt(1).widget().text()
@@ -251,10 +265,15 @@ def main():
     # Obtener los argumentos pasados al programa
     args = app.arguments()
 
+    # Obtener la ruta del archivo a abrir
+    file_to_open = get_file_path(args)
+
     # Si se pasó un archivo como argumento, abrirlo
-    if len(args) > 1:
-        file_to_open = args[1]
+    if file_to_open:
         window = MainWindow()
+        # Llenar el QLineEdit con la ruta del archivo
+        window.file_line_edit.setText(file_to_open)
+        window.current_file = file_to_open
         window.show()
         window.show_content(file_to_open)
     else:
