@@ -2,6 +2,7 @@
 from tkinter import filedialog
 from tkinter import ttk
 import os
+import sys
 
 
 class TextFileEditor:
@@ -29,6 +30,12 @@ class TextFileEditor:
         self.save_button.pack(fill=tk.X)
 
         self.file_path = None  # Guardar la ruta del archivo original
+
+        # Open file directly on windows with pyinstaller
+        if len(sys.argv) > 1:
+            file_path = sys.argv[1]
+            if file_path.endswith(".msg") and os.path.exists(file_path):
+                self.load_file(file_path)
 
         # Diccionario para el reemplazo de caracteres
         self.replace_options = {
