@@ -247,8 +247,21 @@ class MainWindow(QMainWindow):
 
 def main():
     app = QApplication(sys.argv)
-    window = MainWindow()
-    window.show()
+
+    # Obtener los argumentos pasados al programa
+    args = app.arguments()
+
+    # Si se pasó un archivo como argumento, abrirlo
+    if len(args) > 1:
+        file_to_open = args[1]
+        window = MainWindow()
+        window.show()
+        window.show_content(file_to_open)
+    else:
+        # Si no se pasó ningún archivo, abrir la ventana principal
+        window = MainWindow()
+        window.show()
+
     sys.exit(app.exec_())
 
 
