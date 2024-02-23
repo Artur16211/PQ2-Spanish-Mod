@@ -1,282 +1,234 @@
 ﻿import tkinter as tk
-from tkinter import filedialog
-from tkinter import ttk
-import os
-import sys
+from tkinter import filedialog, messagebox
+
+replace_keys = {
+    'だ': 'A',
+    'ち': 'B',
+    'ぢ': 'C',
+    'っ': 'D',
+    'つ': 'E',
+    'づ': 'F',
+    'て': 'G',
+    'で': 'H',
+    'と': 'I',
+    'ど': 'J',
+    'な': 'K',
+    'に': 'L',
+    'ぬ': 'M',
+    'ね': 'N',
+    'の': 'O',
+    'は': 'P',
+    'ば': 'Q',
+    'ぱ': 'R',
+    'ひ': 'S',
+    'び': 'T',
+    'ぴ': 'U',
+    'ふ': 'V',
+    'ぶ': 'W',
+    'ぷ': 'X',
+    'へ': 'Y',
+    'べ': 'Z',
+    'ぺ': 'a',
+    'ほ': 'b',
+    'ぼ': 'c',
+    'ぽ': 'd',
+    'ま': 'e',
+    'み': 'f',
+    'む': 'g',
+    'め': 'h',
+    'も': 'i',
+    'ゃ': 'j',
+    'や': 'k',
+    'ゅ': 'l',
+    'ゆ': 'm',
+    'ょ': 'n',
+    'よ': 'o',
+    'ら': 'p',
+    'り': 'q',
+    'る': 'r',
+    'れ': 's',
+    'ろ': 't',
+    'ゎ': 'u',
+    'わ': 'v',
+    'ゐ': 'w',
+    'ゑ': 'x',
+    'を': 'y',
+    'ん': 'z',
+    'ァ': 'á',
+    'ア': 'Á',
+    'ィ': '¡',
+    'イ': 'é',
+    'ゥ': 'É',
+    'ウ': 'í',
+    'ェ': 'Í',
+    'エ': '¿',
+    'ォ': 'ñ',
+    'オ': 'Ñ',
+    'カ': 'ó',
+    'ガ': 'Ó',
+    'ギ': '/',
+    'グ': 'ú',
+    'ゲ': 'Ú',
+    'ゼ': '0',
+    'ソ': '1',
+    'ゾ': '2',
+    'タ': '3',
+    'ダ': '4',
+    'チ': '5',
+    'ヂ': '6',
+    'ッ': '7',
+    'ツ': '8',
+    'ヅ': '9',
+    'テ': '.',
+    'デ': ',',
+    'ト': ':',
+    'ド': '(',
+    'ナ': ')',
+    '茨': 'ァ',
+    '姻': 'イ',
+    '胤': 'ウ',
+    '吋': 'カ',
+    '雨': 'グ',
+    '隠': 'ォ',
+    '夷': 'エ',
+    '斡': 'ィ',
+    '威': 'ア',
+    '畏': 'ゥ',
+    '緯': 'ェ',
+    '遺': 'ガ',
+    '郁': 'ゲ',
+    '謂': 'オ'
+}
 
 
-class TextFileEditor:
-    def __init__(self, root):
-        self.trace_ids = []
+def abrir_explorador():
+    file = filedialog.askopenfilename(filetypes=[("file", "*.msg")])
+    if file:
+        entrada_file.delete(0, tk.END)
+        entrada_file.insert(tk.END, file)
+        show_content(file)
 
-        self.root = root
-        self.root.title("MSG FONT SWITCHER")
-
-        self.default_entry_width = 150
-        self.root.option_add("*Font", "Consolas 12")
-
-        self.entries = []
-        self.checkboxes = []
-
-        self.text_frame = tk.Frame(self.root)
-        self.text_frame.pack()
-
-        self.load_button = ttk.Button(
-            self.root, text="Abrir archivo", command=self.open_file)
-        self.load_button.pack(fill=tk.X)
-
-        self.save_button = ttk.Button(
-            self.root, text="Guardar archivo", command=self.save_file)
-        self.save_button.pack(fill=tk.X)
-
-        self.file_path = None  # Guardar la ruta del archivo original
-
-        # Open file directly on windows with pyinstaller
-        if len(sys.argv) > 1:
-            file_path = sys.argv[1]
-            if file_path.endswith(".msg") and os.path.exists(file_path):
-                self.load_file(file_path)
-
-        # Diccionario para el reemplazo de caracteres
-        self.replace_options = {
-            'A': 'だ',
-            'B': 'ち',
-            'C': 'ぢ',
-            'D': 'っ',
-            'E': 'つ',
-            'F': 'づ',
-            'G': 'て',
-            'H': 'で',
-            'I': 'と',
-            'J': 'ど',
-            'K': 'な',
-            'L': 'に',
-            'M': 'ぬ',
-            'N': 'ね',
-            'O': 'の',
-            'P': 'は',
-            'Q': 'ば',
-            'R': 'ぱ',
-            'S': 'ひ',
-            'T': 'び',
-            'U': 'ぴ',
-            'V': 'ふ',
-            'W': 'ぶ',
-            'X': 'ぷ',
-            'Y': 'へ',
-            'Z': 'べ',
-            'a': 'ぺ',
-            'b': 'ほ',
-            'c': 'ぼ',
-            'd': 'ぽ',
-            'e': 'ま',
-            'f': 'み',
-            'g': 'む',
-            'h': 'め',
-            'i': 'も',
-            'j': 'ゃ',
-            'k': 'や',
-            'l': 'ゅ',
-            'm': 'ゆ',
-            'n': 'ょ',
-            'o': 'よ',
-            'p': 'ら',
-            'q': 'り',
-            'r': 'る',
-            's': 'れ',
-            't': 'ろ',
-            'u': 'ゎ',
-            'v': 'わ',
-            'w': 'ゐ',
-            'x': 'ゑ',
-            'y': 'を',
-            'z': 'ん',
-            'á': 'ァ',
-            'Á': 'ア',
-            '¡': 'ィ',
-            'é': 'イ',
-            'É': 'ゥ',
-            'í': 'ウ',
-            'Í': 'ェ',
-            '¿': 'エ',
-            'ñ': 'ォ',
-            'Ñ': 'オ',
-            'ó': 'カ',
-            'Ó': 'ガ',
-            '/': 'ギ',
-            'ú': 'グ',
-            'Ú': 'ゲ',
-            #
-            '0': 'ゼ',
-            '1': 'ソ',
-            '2': 'ゾ',
-            '3': 'タ',
-            '4': 'ダ',
-            '5': 'チ',
-            '6': 'ヂ',
-            '7': 'ッ',
-            '8': 'ツ',
-            '9': 'ヅ',
-            '.': 'テ',
-            ',': 'デ',
-            ':': 'ト',
-            '(': 'ド',
-            ')': 'ナ',
-            # fix old font
-            '茨': 'ァ',
-            '姻': 'イ',
-            '胤': 'ウ',
-            '吋': 'カ',
-            '雨': 'グ',
-            '隠': 'ォ',
-            '夷': 'エ',
-            '斡': 'ィ',
-            '威': 'ア',
-            '畏': 'ゥ',
-            '緯': 'ェ',
-            '遺': 'ガ',
-            '郁': 'ゲ',
-            '謂': 'オ'
-        }
-
-        # Diccionario invertido para el reemplazo inverso
-        self.inverse_replace_options = {
-            v: k for k, v in self.replace_options.items()}
-
-    def open_file(self):
-        file_path = filedialog.askopenfilename(
-            filetypes=[("Archivo de texto", "*.msg")])
-        if file_path:
-            # Cerrar la instancia actual
-            self.root.destroy()
-            # Crear una nueva instancia con el archivo seleccionado
-            root = tk.Tk()
-            root.geometry("1400x600")
-            root.resizable(False, False)
-            editor = TextFileEditor(root)
-            editor.load_file(file_path)
-            editor.run()
-
-    def load_file(self, file_path):
-        self.clear_entries()
-
-        # Actualizar el título de la ventana principal
-        self.root.title(f"MSG FONT SWITCHER - {os.path.basename(file_path)}")
-
-        def on_configure(event=None):
-            # Configurar el scrollregion del canvas para permitir el desplazamiento de todo el contenido
-            canvas.configure(scrollregion=canvas.bbox("all"))
-
-        # Crear un canvas con barra de desplazamiento vertical
-        canvas = tk.Canvas(self.text_frame)
-        scrollbar = tk.Scrollbar(
-            self.text_frame, orient="vertical", command=canvas.yview)
-        scrollbar.pack(side="right", fill="y")
-        canvas.pack(side="left", fill="both", expand=True)
-        canvas.configure(yscrollcommand=scrollbar.set)
-
-        # Contenedor
-        container = tk.Frame(canvas)
-        canvas.create_window((0, 0), window=container, anchor="nw")
-
-        container.bind("<Configure>", on_configure)
-
-        with open(file_path, 'r', encoding='utf-8') as file:
-            lines = file.readlines()
-            for line in lines:
-                line_frame = tk.Frame(container)
-                line_frame.pack(anchor="w", fill="x")
-
-                entry = ttk.Entry(line_frame, width=self.default_entry_width)
-                entry.insert(tk.END, line.strip())
-                entry.grid(row=0, column=0, sticky="ew")
-
-                checkbox_var = tk.BooleanVar()
-                checkbox_var.trace_add("write", lambda name, index, mode,
-                                       var=checkbox_var, entry=entry: self.replace_characters(entry, var))
-                checkbox = tk.Checkbutton(line_frame, variable=checkbox_var)
-                checkbox.grid(row=0, column=1)
-
-                self.entries.append(entry)
-                self.checkboxes.append(checkbox_var)
-
-        # Configurar el evento para desplazamiento con rueda de ratón
-        def on_mousewheel(event):
-            canvas.yview_scroll(int(-1 * (event.delta / 120)), "units")
-
-        canvas.bind_all("<MouseWheel>", on_mousewheel)
-
-        # Llamar manualmente a on_configure una vez para configurar el scrollregion inicialmente
-        on_configure()
-
-        # Configurar la expansión del frame principal y el canvas
-        self.text_frame.pack(side="top", fill="both", expand=True)
-
-    def clear_entries(self):
-        for trace_id in self.trace_ids:
-            checkbox_var.trace_vdelete("w", trace_id)  # Eliminar rastreo
-        self.trace_ids.clear()
-
-        for checkbox_var in self.checkboxes:
-            # Eliminar todos los rastreos de escritura
-            checkbox_var.trace_vdelete("w", 0)
-
-        for entry in self.entries:
-            entry.pack_forget()
-            entry.destroy()
-
-        self.entries.clear()
-        self.checkboxes.clear()
-
-    def unload_file(self):
-        self.file_path = None
-        self.root.title("MSG FONT SWITCHER")
-
-    def replace_characters(self, entry, checkbox_var):
-        original_text = entry.get()
-        if checkbox_var.get():
-            updated_text = self.replace_text(
-                original_text, self.inverse_replace_options)
-        else:
-            updated_text = self.replace_text(
-                original_text, self.replace_options)
-        entry.delete(0, tk.END)
-        entry.insert(tk.END, updated_text)
-
-    def replace_text(self, text, replacement_dict):
-        inside_brackets = False
-        result = ''
-        for char in text:
-            if char == '[':
-                inside_brackets = True
-            elif char == ']':
-                inside_brackets = False
-            if not inside_brackets:
-                for key, value in replacement_dict.items():
-                    if char == key:
-                        char = value
-            result += char
-        return result
-
-    def save_file(self):
-        if not self.file_path:
-            return  # No hay archivo cargado, no se puede guardar
-
-        if not tk.messagebox.askokcancel("Guardar archivo", "¿Está seguro de reemplazar el archivo original?"):
-            return  # El usuario ha cancelado el guardado
-
-        with open(self.file_path, 'w', encoding='utf-8') as file:
-            for entry in self.entries:
-                text = entry.get()
-                file.write(text + "\n")
-
-    def run(self):
-        self.root.mainloop()
+        save_button = tk.Button(root, text="Guardar",
+                                command=lambda: save_content(file))
+        save_button.pack(side=tk.TOP, padx=5, pady=5)
 
 
-if __name__ == "__main__":
-    root = tk.Tk()
-    root.geometry("1400x600")
-    root.resizable(False, False)
-    editor = TextFileEditor(root)
-    editor.run()
+def save_content(file):
+    try:
+        with open(file, 'w', encoding='utf-8') as f:
+            for widget in frame.winfo_children():
+                if isinstance(widget, tk.Entry):
+                    text = widget.get().strip()
+                    if text.startswith('{SmallFont}'):
+                        # Reemplazar inversamente utilizando el diccionario
+                        text = ''.join(replace_keys.get(char, char)
+                                       for char in text[11:])
+                    f.write(text + '\n')
+        messagebox.showinfo("Guardado", "Archivo guardado exitosamente.")
+    except Exception as e:
+        messagebox.showerror("Error", f"No se pudo guardar el archivo: {e}")
+
+
+def show_content(file):
+    encode = ['utf-8']
+
+    for codificacion in encode:
+        try:
+            with open(file, 'r', encoding=codificacion) as f:
+                lines = f.readlines()
+                for widget in frame.winfo_children():
+                    widget.destroy()
+                for i, line in enumerate(lines):
+                    replaced_text = replace_characters(line.strip())
+                    entry_variable = tk.StringVar()
+                    entry_variable.set(replaced_text)
+                    entry = tk.Entry(
+                        frame, textvariable=entry_variable, width=90, justify='left', font=('Arial', 10))
+                    entry.grid(row=i, column=1, padx=5, pady=5, sticky="ew")
+                    checkbox_var = tk.BooleanVar()
+                    if replaced_text != line.strip():
+                        # Aplicar negritas solo si hay reemplazo
+                        entry.config(font=('Arial', 10, 'bold'))
+                        # agregar {SmallFont} al inicio del texto
+                        entry_variable.set('{SmallFont}' + replaced_text)
+                        checkbox_var = tk.BooleanVar(value=True)
+                    checkbox = tk.Checkbutton(frame, variable=checkbox_var, command=lambda entry=entry,
+                                              checkbox_var=checkbox_var: toggle_formatting(entry, checkbox_var))
+                    checkbox.grid(row=i, column=0, padx=5)
+
+                canvas.config(scrollregion=canvas.bbox("all"))
+                return
+        except Exception as e:
+            print(
+                f"Error al abrir el archivo con codificación '{codificacion}': {e}")
+
+    messagebox.showerror(
+        "Error", "No se pudo abrir el archivo con ninguna codificación.")
+
+
+def replace_characters(line):
+    for key, value in replace_keys.items():
+        line = line.replace(key, value)
+    return line
+
+
+def toggle_formatting(entry, checkbox_var):
+    entry_text = entry.get()
+    if checkbox_var.get():
+        # check if the text is not already formatted
+        if not '{SmallFont}' in entry_text or 'bold' in entry.cget('font'):
+            entry_text = '{SmallFont}' + entry_text
+            entry.config(font=('Arial', 10, 'bold'))
+    else:
+        entry_text = entry_text.replace(
+            '{SmallFont}', '')
+        entry.config(font=('Arial', 10))
+    entry.delete(0, tk.END)
+    entry.insert(tk.END, entry_text)
+
+
+def on_frame_configure(event):
+    canvas.configure(scrollregion=canvas.bbox("all"))
+
+
+def on_mousewheel(event):
+    canvas.yview_scroll(-1 * int((event.delta / 120)), "units")
+
+
+root = tk.Tk()
+root.title("Font Switcher")
+
+tk.Label(root, text="Seleccione un archivo:").pack()
+frame_file = tk.Frame(root)
+frame_file.pack(fill=tk.X)
+
+entrada_file = tk.Entry(frame_file)
+entrada_file.pack(side=tk.LEFT, expand=True, fill=tk.X, padx=(0, 5))
+
+boton_explorador = tk.Button(
+    frame_file, text="Explorar", command=abrir_explorador)
+boton_explorador.pack(side=tk.LEFT)
+
+canvas = tk.Canvas(root)
+canvas.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+
+scrollbar = tk.Scrollbar(root, orient=tk.VERTICAL, command=canvas.yview)
+scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+
+canvas.configure(yscrollcommand=scrollbar.set)
+
+frame = tk.Frame(canvas)
+canvas.create_window((0, 0), window=frame, anchor=tk.NW)
+
+frame.bind("<Configure>", on_frame_configure)
+
+root.bind_all("<MouseWheel>", on_mousewheel)
+
+frame.bindtags((str(frame), "Frame", ".", "all"))
+for child in frame.winfo_children():
+    child.bindtags((str(child), child.winfo_class(), ".", "all"))
+
+frame.rowconfigure(0, weight=1)
+frame.columnconfigure(1, weight=1)
+
+root.mainloop()
