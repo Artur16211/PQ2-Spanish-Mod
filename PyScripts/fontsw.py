@@ -142,6 +142,13 @@ class MainWindow(QMainWindow):
         self.save_button.clicked.connect(self.save_file)
         layout.addWidget(self.save_button)
 
+        # Agregar el QLineEdit para ingresar el texto a buscar
+        self.search_line_edit = QLineEdit()
+        self.search_line_edit.setPlaceholderText("Buscar texto...")
+        self.search_line_edit.textChanged.connect(
+            self.search_text)  # Conectar la señal textChanged
+        layout.addWidget(self.search_line_edit)
+
         self.scroll_area = QScrollArea()
         layout.addWidget(self.scroll_area)
 
@@ -152,6 +159,23 @@ class MainWindow(QMainWindow):
             self.file_line_edit.setText(file)
             self.current_file = file
             self.show_content(file)
+
+    def search_text(self):
+        search_text = self.search_line_edit.text()
+        scroll_content = self.scroll_area.widget()
+        layout = scroll_content.layout()
+
+        # Recorrer todos los QLineEdit en el scroll area y buscar el texto
+        for i in range(layout.count()):
+            entry_layout = layout.itemAt(i).layout()
+            entry = entry_layout.itemAt(1).widget()
+            original_text = entry.text()
+            if search_text.lower() in original_text.lower():
+                # Si se encuentra el texto, resaltarlo o hacer lo que desees
+                entry.setStyleSheet("background-color: yellow;")
+            else:
+                # Restaurar el estilo original si no se encuentra el texto
+                entry.setStyleSheet("")
 
     def show_content(self, file):
         try:
