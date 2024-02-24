@@ -111,13 +111,12 @@ class MyApp(QWidget):
         main_layout.addWidget(scroll_area)
         self.setLayout(main_layout)
 
-        # Aplicar el tema oscuro
+        # dark mode
         self.setStyleSheet("background-color: #333; color: #fff;")
 
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    # Aplicar estilo Fusion para una apariencia uniforme en todos los sistemas operativos
     app.setStyle("Fusion")
     window = MyApp()
     window.setWindowTitle('MSG Viewer')
