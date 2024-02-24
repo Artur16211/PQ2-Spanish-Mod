@@ -1,6 +1,8 @@
 ﻿import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel, QScrollArea
 from PyQt5.QtCore import QFile, QTextStream
+from PyQt5.QtGui import QPalette, QColor
+from PyQt5.QtGui import QFont
 
 
 class LineResult:
@@ -11,7 +13,9 @@ class LineResult:
 
 
 def process_line(line):
-    if not line.strip() or line.startswith("[sel") or line.startswith("[msg"):
+    if not line.strip():
+        return LineResult("", "", "")
+    elif line.startswith("[sel") or line.startswith("[msg"):
         return LineResult("", line, "")
 
     result_line = ""
@@ -81,36 +85,43 @@ class MyApp(QWidget):
         with open("input.txt", "r", encoding="utf-8") as file:
             for line in file:
                 line = line.strip()
-                if line:
-                    line_result = process_line(line)
-                    hbox = QHBoxLayout()
-                    layout.addLayout(hbox)
-                    # hbox.addWidget(QLabel("Removeline:"))
-                    entry1 = QLineEdit(line_result.removeline)
-                    entry1.setReadOnly(True)
-                    # change size of the entry
-                    entry1.setFixedWidth(50)
-                    hbox.addWidget(entry1)
-                    # hbox.addWidget(QLabel("LastRemoveLine:"))
-                    entry2 = QLineEdit(line_result.last_remove_line)
-                    hbox.addWidget(entry2)
-                    # hbox.addWidget(QLabel("RealLastRemoveLine:"))
-                    entry3 = QLineEdit(line_result.real_last_remove_line)
-                    entry3.setReadOnly(True)
-                    # change size of the entry
-                    entry3.setFixedWidth(50)
-                    hbox.addWidget(entry3)
+                # if line:
+                line_result = process_line(line)
+                hbox = QHBoxLayout()
+                layout.addLayout(hbox)
+                # hbox.addWidget(QLabel("Removeline:"))
+                entry1 = QLineEdit(line_result.removeline)
+                entry1.setReadOnly(True)
+                # change size of the entry
+                entry1.setFixedWidth(50)
+                hbox.addWidget(entry1)
+                # hbox.addWidget(QLabel("LastRemoveLine:"))
+                entry2 = QLineEdit(line_result.last_remove_line)
+                # change text size
+                entry2.setFont(QFont("Arial", 12))
+                hbox.addWidget(entry2)
+                # hbox.addWidget(QLabel("RealLastRemoveLine:"))
+                entry3 = QLineEdit(line_result.real_last_remove_line)
+                entry3.setReadOnly(True)
+                # change size of the entry
+                entry3.setFixedWidth(50)
+                hbox.addWidget(entry3)
 
         main_layout = QVBoxLayout()
         main_layout.addWidget(scroll_area)
         self.setLayout(main_layout)
 
+        # Aplicar el tema oscuro
+        self.setStyleSheet("background-color: #333; color: #fff;")
+
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
+    # Aplicar estilo Fusion para una apariencia uniforme en todos los sistemas operativos
+    app.setStyle("Fusion")
     window = MyApp()
     window.setWindowTitle('MSG Viewer')
     # change the window size
-    window.resize(800, 600)
+    window.resize(1500, 600)
     window.show()
     sys.exit(app.exec_())
