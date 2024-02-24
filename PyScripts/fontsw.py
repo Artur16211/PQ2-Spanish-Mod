@@ -165,17 +165,38 @@ class MainWindow(QMainWindow):
         scroll_content = self.scroll_area.widget()
         layout = scroll_content.layout()
 
-        # Recorrer todos los QLineEdit en el scroll area y buscar el texto
+        text_found = False  # Inicializar la variable fuera del bucle
+
+        # Limpiar el estilo CSS de todos los QLineEdit
         for i in range(layout.count()):
             entry_layout = layout.itemAt(i).layout()
             entry = entry_layout.itemAt(1).widget()
-            original_text = entry.text()
-            if search_text.lower() in original_text.lower():
-                # Si se encuentra el texto, resaltarlo o hacer lo que desees
-                entry.setStyleSheet("background-color: yellow;")
-            else:
-                # Restaurar el estilo original si no se encuentra el texto
-                entry.setStyleSheet("")
+            entry.setStyleSheet("")  # Limpiar el estilo CSS
+
+        if search_text:  # Verificar si la cadena de búsqueda no está vacía
+            text_found = False
+
+            # Recorrer todos los QLineEdit en el scroll area y buscar el texto
+            for i in range(layout.count()):
+                entry_layout = layout.itemAt(i).layout()
+                entry = entry_layout.itemAt(1).widget()
+                original_text = entry.text()
+                if search_text.lower() in original_text.lower():
+                    # Si se encuentra el texto, resaltarlo o hacer lo que desees
+                    entry.setStyleSheet("background-color: yellow;")
+                    text_found = True  # Se encontró el texto
+
+                    # Desplazar el área de desplazamiento al primer resultado encontrado
+                    scroll_bar = self.scroll_area.verticalScrollBar()
+                    # Establecer el valor de desplazamiento
+                    scroll_bar.setValue(entry_layout.geometry().top())
+
+            if not text_found:
+                # Si no se encontró el texto, mostrar una advertencia
+                QMessageBox.warning(self, "Error de búsqueda",
+                                    "Sin resultados.")
+        else:
+            pass
 
     def show_content(self, file):
         try:
