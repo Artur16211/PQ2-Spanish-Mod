@@ -6,3 +6,6 @@ AtlusScriptCompiler.log
 /dependencies/AtlusScriptCompiler.log
 /MSGs/compiled
 /MSGs/setn
+/PyScripts/fontsw.spec
+/PyScripts/build
+/PyScripts/dist
