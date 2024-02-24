@@ -185,6 +185,10 @@ class MainWindow(QMainWindow):
                     checkbox.stateChanged.connect(
                         lambda state, entry=entry, replaced_text=replaced_text: self.toggle_formatting(entry, state, replaced_text))
 
+                    # if the line start with [msg or is empty, the checkbox is disabled
+                    if replaced_text.startswith('[msg') or replaced_text == '':
+                        checkbox.setEnabled(False)
+
                     i += 1
 
                 scroll_content = QWidget()
