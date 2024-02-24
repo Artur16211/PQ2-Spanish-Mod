@@ -2,6 +2,8 @@
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel, QScrollArea, QPushButton, QMessageBox, QFileDialog
 from PyQt5.QtCore import QFile, QTextStream
 from PyQt5.QtGui import QPalette, QColor, QFont
+from configparser import ConfigParser
+import os
 
 
 class LineResult:
@@ -90,9 +92,11 @@ def process_line(line):
 
 
 class MyApp(QWidget):
-    def __init__(self):
+    def __init__(self, file_path=None):
         super().__init__()
         self.initUI()
+        if file_path:
+            self.process_file(file_path)
 
     def initUI(self):
         self.line_results = []  # Create line_results attribute
@@ -105,6 +109,11 @@ class MyApp(QWidget):
         button_layout.addWidget(open_button)
         button_layout.addStretch(1)  # Add stretch to push button to the left
         main_layout.addLayout(button_layout)
+
+        # Agregar el botón "openOG"
+        open_og_button = QPushButton("OpenOG")
+        open_og_button.clicked.connect(self.open_og_file)
+        button_layout.addWidget(open_og_button)
 
         # Agrega un QLabel para mostrar la ruta del archivo seleccionado
         self.file_path_label = QLabel("No file selected")
@@ -177,7 +186,61 @@ class MyApp(QWidget):
                 scroll_layout = scroll_widget.layout()
                 scroll_layout.addLayout(hbox)
 
+    def open_og_file(self):
+        # Obtener la ruta base del archivo "msgv_pathog.ini"
+        base_path = self.get_base_path_from_ini()
+        if not base_path:
+            QMessageBox.warning(
+                self, "Warning", "Base path not found in msgv_pathog.ini")
+            return
+
+        # Obtener la ruta del archivo actual seleccionado por el usuario
+        current_file_path = self.file_path_label.text()
+
+        # get the last 2 folders of the current file path
+        current_file_dir = os.path.basename(os.path.dirname(current_file_path))
+        parent_dir = os.path.basename(os.path.dirname(
+            os.path.dirname(current_file_path)))
+
+        # print(f"Current file dir: {current_file_dir}")
+        # print(f"Parent dir: {parent_dir}")
+
+        actual_file_name = os.path.basename(current_file_path)
+        # Sumar la ruta base con las últimas dos carpetas del archivo actual
+        og_file_path = os.path.join(
+            base_path, parent_dir, current_file_dir, actual_file_name)
+        if os.path.exists(og_file_path):
+            # open file
+            os.startfile(og_file_path)
+        else:
+            QMessageBox.information(
+                self, "Information", "No OG file found in the last two directories." + f"Current file dir: {current_file_dir}" + f"Parent dir: {parent_dir}")
+
+    def get_base_path_from_ini(self):
+        ini_file_path = "msgv_pathog.ini"
+        # get the base path from the ini file
+        config = ConfigParser()
+        config.read(ini_file_path, encoding='utf-8-sig')
+        if 'Path' in config:
+            return config['Path'].get('base_path', '')
+        else:
+            # Manejar el caso cuando el archivo INI no existe
+            return None
+
+    def update_line_results(self):
+        for index, line_result in enumerate(self.line_results):
+            removeline = self.scroll_area.widget().layout().itemAt(
+                index).itemAt(0).widget().text()
+            last_remove_line = self.scroll_area.widget().layout().itemAt(
+                index).itemAt(1).widget().text()
+            real_last_remove_line = self.scroll_area.widget(
+            ).layout().itemAt(index).itemAt(2).widget().text()
+            self.line_results[index] = LineResult(
+                removeline, last_remove_line, real_last_remove_line)
+
     def save_file(self):
+        self.update_line_results()
+
         output_lines = []
         for line_result in self.line_results:
             removeline = line_result.removeline
@@ -190,16 +253,29 @@ class MyApp(QWidget):
             output_line = f"{removeline}{last_remove_line}{real_last_remove_line}\n"
             output_lines.append(output_line)
 
-        with open("output.txt", "w", encoding="utf-8") as output_file:
-            output_file.writelines(output_lines)
+        # Obtener la ruta del archivo original
+        original_file_path = self.file_path_label.text()
 
-        QMessageBox.information(self, "Save", "File saved successfully.")
+        # Preguntar al usuario antes de sobrescribir el archivo
+        reply = QMessageBox.question(self, 'Guardar archivo',
+                                     f"¿Desea guardar los cambios en {original_file_path}?",
+                                     QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
+
+        if reply == QMessageBox.Yes:
+            # Guardar el archivo en la misma ruta que el original
+            with open(original_file_path, "w", encoding="utf-8") as output_file:
+                output_file.writelines(output_lines)
+            QMessageBox.information(
+                self, "Guardar", "Archivo guardado exitosamente.")
 
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     app.setStyle("Fusion")
-    window = MyApp()
+    if len(sys.argv) > 1:
+        window = MyApp(sys.argv[1])
+    else:
+        window = MyApp()
     window.setWindowTitle('MSG Viewer')
     window.resize(1500, 600)
     window.show()
