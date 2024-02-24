@@ -183,6 +183,8 @@ class MainWindow(QMainWindow):
                 original_text = entry.text()
                 if search_text.lower() in original_text.lower():
                     # Si se encuentra el texto, resaltarlo o hacer lo que desees
+                    self.search_line_edit.setStyleSheet(
+                        "")  # Limpiar el estilo CSS
                     entry.setStyleSheet("background-color: yellow;")
                     text_found = True  # Se encontró el texto
 
@@ -192,11 +194,11 @@ class MainWindow(QMainWindow):
                     scroll_bar.setValue(entry_layout.geometry().top())
 
             if not text_found:
-                # Si no se encontró el texto, mostrar una advertencia
-                QMessageBox.warning(self, "Error de búsqueda",
-                                    "Sin resultados.")
+                # Si no se encontró el texto, marcar de rojo el QLineEdit y quitarlo al volver a escribir
+                self.search_line_edit.setStyleSheet("background-color: red;")
         else:
-            pass
+            self.search_line_edit.setStyleSheet("")  # Limpiar el estilo CSS
+            # pass
 
     def show_content(self, file):
         try:
