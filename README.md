@@ -18,7 +18,7 @@ MSGs Traducidos/Corregidos: <br>
 --------
 Requirements
 --------
-Python 3.11.3
+Tested on Python 3.11.3
 
 To install required packages, run:
 ```python
