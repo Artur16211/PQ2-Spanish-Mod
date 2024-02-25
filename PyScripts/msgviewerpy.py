@@ -260,7 +260,7 @@ class MyApp(QWidget):
         # Limpiar el estilo CSS de todos los QLineEdit
         for i in range(layout.count()):
             entry_layout = layout.itemAt(i).layout()
-            entry = entry_layout.itemAt(1).widget()
+            entry = entry_layout.itemAt(2).widget()
             entry.setStyleSheet("")  # Limpiar el estilo CSS
 
         if search_text:  # Verificar si la cadena de búsqueda no está vacía
@@ -269,7 +269,7 @@ class MyApp(QWidget):
             # Recorrer todos los QLineEdit en el scroll area y buscar el texto
             for i in range(layout.count()):
                 entry_layout = layout.itemAt(i).layout()
-                entry = entry_layout.itemAt(1).widget()
+                entry = entry_layout.itemAt(2).widget()
                 original_text = entry.text().strip().lower()
                 if not original_text.startswith("[msg") and not original_text.startswith("["):
                     if search_text in original_text:
