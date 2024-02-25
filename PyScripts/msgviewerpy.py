@@ -130,6 +130,13 @@ class MyApp(QWidget):
         save_button_layout.addStretch(1)
         main_layout.addLayout(save_button_layout)
 
+        # Agregar el QLineEdit para ingresar el texto a buscar
+        self.search_line_edit = QLineEdit()
+        self.search_line_edit.setPlaceholderText("Buscar texto...")
+        self.search_line_edit.textChanged.connect(
+            self.search_text)  # Conectar la señal textChanged
+        main_layout.addWidget(self.search_line_edit)
+
         self.scroll_area = QScrollArea()  # Mantener una referencia al QScrollArea
         scroll_widget = QWidget()
         scroll_layout = QVBoxLayout()
@@ -142,6 +149,47 @@ class MyApp(QWidget):
         self.setLayout(main_layout)
 
         self.setStyleSheet("background-color: #333; color: #fff;")
+
+    def search_text(self):
+        search_text = self.search_line_edit.text().strip().lower()
+        scroll_content = self.scroll_area.widget()
+        layout = scroll_content.layout()
+
+        text_found = False  # Inicializar la variable fuera del bucle
+
+        # Limpiar el estilo CSS de todos los QLineEdit
+        for i in range(layout.count()):
+            entry_layout = layout.itemAt(i).layout()
+            entry = entry_layout.itemAt(1).widget()
+            entry.setStyleSheet("")  # Limpiar el estilo CSS
+
+        if search_text:  # Verificar si la cadena de búsqueda no está vacía
+            text_found = False
+
+            # Recorrer todos los QLineEdit en el scroll area y buscar el texto
+            for i in range(layout.count()):
+                entry_layout = layout.itemAt(i).layout()
+                entry = entry_layout.itemAt(1).widget()
+                original_text = entry.text().strip().lower()
+                if not original_text.startswith("[msg") and not original_text.startswith("["):
+                    if search_text in original_text:
+                        # Si se encuentra el texto, resaltarlo o hacer lo que desees
+                        self.search_line_edit.setStyleSheet(
+                            "")  # Limpiar el estilo CSS
+                        entry.setStyleSheet(
+                            "background-color: yellow; color: black;")
+                        text_found = True  # Se encontró el texto
+
+                        # Desplazar el área de desplazamiento al primer resultado encontrado
+                        scroll_bar = self.scroll_area.verticalScrollBar()
+                        # Establecer el valor de desplazamiento
+                        scroll_bar.setValue(entry_layout.geometry().top())
+
+            if not text_found:
+                # Si no se encontró el texto, marcar de rojo el QLineEdit y quitarlo al volver a escribir
+                self.search_line_edit.setStyleSheet("background-color: red;")
+        else:
+            self.search_line_edit.setStyleSheet("")  # Limpiar el estilo CSS
 
     def open_file_dialog(self):
         file_dialog = QFileDialog()
