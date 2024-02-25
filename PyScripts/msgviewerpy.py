@@ -341,7 +341,7 @@ class MyApp(QWidget):
                 # checkbox to toggle the formatting
                 checkbox.stateChanged.connect(
                     lambda state, entry=entry2, replaced_text=line_result.last_remove_line: self.toggle_formatting(entry, state, replaced_text))
-                self.checkBoxes.append(checkbox)
+                # self.checkBoxes.append(checkbox)
                 #
                 entry3 = QLineEdit(line_result.real_last_remove_line)
                 entry3.setReadOnly(True)
@@ -419,12 +419,13 @@ class MyApp(QWidget):
 
     def update_line_results(self):
         for index, line_result in enumerate(self.line_results):
-            removeline = self.scroll_area.widget().layout().itemAt(
-                index).itemAt(0).widget().text()
-            last_remove_line = self.scroll_area.widget().layout().itemAt(
-                index).itemAt(1).widget().text()
-            real_last_remove_line = self.scroll_area.widget(
-            ).layout().itemAt(index).itemAt(2).widget().text()
+            entry1 = self.scroll_area.widget().layout().itemAt(index).itemAt(0).widget()
+            entry2 = self.scroll_area.widget().layout().itemAt(index).itemAt(2).widget()
+            entry3 = self.scroll_area.widget().layout().itemAt(index).itemAt(3).widget()
+            # print(f"Line {index + 1} - entry1 text: {entry1.text()} entry2 text: {entry2.text()} - entry3 text: {entry3.text()}")
+            removeline = entry1.text()
+            last_remove_line = entry2.text()
+            real_last_remove_line = entry3.text()
             self.line_results[index] = LineResult(
                 removeline, last_remove_line, real_last_remove_line)
 
@@ -450,6 +451,7 @@ class MyApp(QWidget):
 
     def save_file(self):
         self.update_line_results()
+        # print(f"Line results: {self.line_results}")
 
         output_lines = []
         for line_result in self.line_results:
@@ -462,10 +464,12 @@ class MyApp(QWidget):
 
             # Restore for small font if starts with {SmallFont}
             if last_remove_line.startswith("{SmallFont}"):
-                last_remove_line = last_remove_line.replace("{SmallFont}", "")
+                last_remove_line = last_remove_line.replace(
+                    "{SmallFont}", "")
                 last_remove_line = self.replace_backwards(last_remove_line)
 
             output_line = f"{removeline}{last_remove_line}{real_last_remove_line}\n"
+
             output_lines.append(output_line)
 
         # Obtener la ruta del archivo original
