@@ -232,7 +232,10 @@ class MyApp(QWidget):
 
         # Agregar el QLineEdit para ingresar el texto a buscar
         self.search_line_edit = QLineEdit()
-        self.search_line_edit.setPlaceholderText("Buscar texto...")
+        self.search_line_edit.setPlaceholderText("Search...")
+        # change outline color
+        self.search_line_edit.setStyleSheet(
+            "border: 0.5px solid #646464; border-radius: 10px; padding: 0 8px; color: #fff;")
         self.search_line_edit.textChanged.connect(
             self.search_text)  # Conectar la señal textChanged
         main_layout.addWidget(self.search_line_edit)
@@ -261,7 +264,9 @@ class MyApp(QWidget):
         for i in range(layout.count()):
             entry_layout = layout.itemAt(i).layout()
             entry = entry_layout.itemAt(2).widget()
-            entry.setStyleSheet("")  # Limpiar el estilo CSS
+            # Limpiar el estilo CSS
+            entry.setStyleSheet(
+                "")
 
         if search_text:  # Verificar si la cadena de búsqueda no está vacía
             text_found = False
@@ -277,7 +282,7 @@ class MyApp(QWidget):
                         self.search_line_edit.setStyleSheet(
                             "")  # Limpiar el estilo CSS
                         entry.setStyleSheet(
-                            "background-color: yellow; color: black;")
+                            "background-color: #CECB00; color: black;")
                         text_found = True  # Se encontró el texto
 
                         # Desplazar el área de desplazamiento al primer resultado encontrado
@@ -287,9 +292,11 @@ class MyApp(QWidget):
 
             if not text_found:
                 # Si no se encontró el texto, marcar de rojo el QLineEdit y quitarlo al volver a escribir
-                self.search_line_edit.setStyleSheet("background-color: red;")
+                self.search_line_edit.setStyleSheet(
+                    "background-color: #9A0000;")
         else:
-            self.search_line_edit.setStyleSheet("")  # Limpiar el estilo CSS
+            self.search_line_edit.setStyleSheet(
+                "border: 0.5px solid #646464; border-radius: 10px; padding: 0 8px; color: #fff;")  # Limpiar el estilo CSS
 
     def open_file_dialog(self):
         file_dialog = QFileDialog()
@@ -306,9 +313,17 @@ class MyApp(QWidget):
         scroll_widget = self.scroll_area.widget()
         scroll_layout = scroll_widget.layout()
         while scroll_layout.count():
-            child = scroll_layout.takeAt(0)
-            if child.widget():
-                child.widget().deleteLater()
+            item = scroll_layout.takeAt(0)
+            widget = item.widget()
+            if widget is not None:
+                widget.deleteLater()
+            else:
+                sub_layout = item.layout()
+                while sub_layout.count():
+                    sub_item = sub_layout.takeAt(0)
+                    sub_widget = sub_item.widget()
+                    if sub_widget is not None:
+                        sub_widget.deleteLater()
         # agregar la ruta del archivo
         self.file_path_label.setText(file_path)
         # procesar cada línea
@@ -322,7 +337,12 @@ class MyApp(QWidget):
                 entry1.setFixedWidth(50)
                 hbox.addWidget(entry1)
                 checkbox = QCheckBox()
+                checkbox.setStyleSheet(
+                    "QCheckBox::indicator:checked { background-color: white; border: 1px solid black; }"
+                    "QCheckBox::indicator:unchecked { background-color: #262626; border: 1px solid black; }"
+                )
                 hbox.addWidget(checkbox)
+                #
                 entry2 = QLineEdit(line_result.last_remove_line)
                 entry2.setFont(QFont("Arial", 12))
                 small_font_replaced = False
@@ -375,9 +395,9 @@ class MyApp(QWidget):
 
         if not base_path:
             base_path = "D:\\Q2\\Dump\\data_usa.cpk_decompiled\\"
-        elif not base_path:
+        if not os.path.exists(base_path):
             QMessageBox.warning(
-                self, "Warning", "Base path not found in msgv_pathog.ini")
+                self, "Warning", "No base path found in msgv_pathog.ini file or the path does not exist.")
             return
 
         # Obtener la ruta del archivo actual seleccionado por el usuario
