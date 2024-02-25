@@ -198,6 +198,7 @@ class MyApp(QWidget):
         self.checkBoxes = []  # Lista para mantener referencias a los checkboxes
         if file_path:
             self.process_file(file_path)
+        # change the close event handler
         self.closeEvent = self.close_event_handler
 
     def close_event_handler(self, event):
