@@ -194,9 +194,22 @@ class MyApp(QWidget):
     def __init__(self, file_path=None):
         super().__init__()
         self.initUI()
+        # self.modified = False
         self.checkBoxes = []  # Lista para mantener referencias a los checkboxes
         if file_path:
             self.process_file(file_path)
+        self.closeEvent = self.close_event_handler
+
+    def close_event_handler(self, event):
+        # if self.modified:
+        reply = QMessageBox.question(self, 'Guardar cambios', "¿Deseas guardar los cambios antes de salir?",
+                                     QMessageBox.Yes | QMessageBox.No | QMessageBox.Cancel, QMessageBox.Cancel)
+        if reply == QMessageBox.Yes:
+            self.save_file()
+        elif reply == QMessageBox.Cancel:
+            event.ignore()
+            return
+        event.accept()
 
     def initUI(self):
         self.line_results = []  # Create line_results attribute
@@ -278,7 +291,6 @@ class MyApp(QWidget):
                 original_text = entry.text().strip().lower()
                 if not original_text.startswith("[msg") and not original_text.startswith("["):
                     if search_text in original_text:
-                        # Si se encuentra el texto, resaltarlo o hacer lo que desees
                         self.search_line_edit.setStyleSheet(
                             "")  # Limpiar el estilo CSS
                         entry.setStyleSheet(
