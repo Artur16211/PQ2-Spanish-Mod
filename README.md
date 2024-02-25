@@ -31,7 +31,7 @@ python CompileMSG.py
 ```
 --------
 MSG Editor:<br>
-Ejecuta /PyScripts/<b>msgviewerpy.py</b> para editar los archivos MSG.<br>
+Ejecuta /PyScripts/<b>MsgViewerQT5.py</b> para editar los archivos MSG.<br>
 
 --------
 
