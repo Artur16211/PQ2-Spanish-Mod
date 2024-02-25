@@ -1,6 +1,6 @@
 ﻿import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel, QScrollArea, QPushButton, QMessageBox, QFileDialog
-from PyQt5.QtCore import QFile, QTextStream
+from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel, QScrollArea, QPushButton, QMessageBox, QFileDialog, QCheckBox
+from PyQt5.QtCore import QFile, QTextStream, Qt
 from PyQt5.QtGui import QPalette, QColor, QFont
 from configparser import ConfigParser
 import os
@@ -12,6 +12,105 @@ class LineResult:
         self.last_remove_line = last_remove_line
         self.real_last_remove_line = real_last_remove_line
 
+
+small_font = {
+    'だ': 'A',
+    'ち': 'B',
+    'ぢ': 'C',
+    'っ': 'D',
+    'つ': 'E',
+    'づ': 'F',
+    'て': 'G',
+    'で': 'H',
+    'と': 'I',
+    'ど': 'J',
+    'な': 'K',
+    'に': 'L',
+    'ぬ': 'M',
+    'ね': 'N',
+    'の': 'O',
+    'は': 'P',
+    'ば': 'Q',
+    'ぱ': 'R',
+    'ひ': 'S',
+    'び': 'T',
+    'ぴ': 'U',
+    'ふ': 'V',
+    'ぶ': 'W',
+    'ぷ': 'X',
+    'へ': 'Y',
+    'べ': 'Z',
+    'ぺ': 'a',
+    'ほ': 'b',
+    'ぼ': 'c',
+    'ぽ': 'd',
+    'ま': 'e',
+    'み': 'f',
+    'む': 'g',
+    'め': 'h',
+    'も': 'i',
+    'ゃ': 'j',
+    'や': 'k',
+    'ゅ': 'l',
+    'ゆ': 'm',
+    'ょ': 'n',
+    'よ': 'o',
+    'ら': 'p',
+    'り': 'q',
+    'る': 'r',
+    'れ': 's',
+    'ろ': 't',
+    'ゎ': 'u',
+    'わ': 'v',
+    'ゐ': 'w',
+    'ゑ': 'x',
+    'を': 'y',
+    'ん': 'z',
+    'ァ': 'á',
+    'ア': 'Á',
+    'ィ': '¡',
+    'イ': 'é',
+    'ゥ': 'É',
+    'ウ': 'í',
+    'ェ': 'Í',
+    'エ': '¿',
+    'ォ': 'ñ',
+    'オ': 'Ñ',
+    'カ': 'ó',
+    'ガ': 'Ó',
+    'ギ': '/',
+    'グ': 'ú',
+    'ゲ': 'Ú',
+    'ゼ': '0',
+    'ソ': '1',
+    'ゾ': '2',
+    'タ': '3',
+    'ダ': '4',
+    'チ': '5',
+    'ヂ': '6',
+    'ッ': '7',
+    'ツ': '8',
+    'ヅ': '9',
+    'テ': '.',
+    'デ': ',',
+    'ト': ':',
+    'ド': '(',
+    'ナ': ')',
+    '茨': 'ァ',
+    '姻': 'イ',
+    '胤': 'ウ',
+    '吋': 'カ',
+    '雨': 'グ',
+    '隠': 'ォ',
+    '夷': 'エ',
+    '斡': 'ィ',
+    '威': 'ア',
+    '畏': 'ゥ',
+    '緯': 'ェ',
+    '遺': 'ガ',
+    '郁': 'ゲ',
+    '謂': 'オ'
+}
 
 show_font = {
     "á": "茨",
@@ -95,6 +194,7 @@ class MyApp(QWidget):
     def __init__(self, file_path=None):
         super().__init__()
         self.initUI()
+        self.checkBoxes = []  # Lista para mantener referencias a los checkboxes
         if file_path:
             self.process_file(file_path)
 
@@ -221,9 +321,28 @@ class MyApp(QWidget):
                 entry1.setReadOnly(True)
                 entry1.setFixedWidth(50)
                 hbox.addWidget(entry1)
+                checkbox = QCheckBox()
+                hbox.addWidget(checkbox)
                 entry2 = QLineEdit(line_result.last_remove_line)
                 entry2.setFont(QFont("Arial", 12))
+                small_font_replaced = False
+                # replace the text with the small font
+                # if exists a character of the small font in the line replace it
+                for key, value in small_font.items():
+                    if key in entry2.text():
+                        entry2.setText(entry2.text().replace(key, value))
+                        small_font_replaced = True
+                if small_font_replaced:
+                    # bold the text and add {SmallFont} start
+                    entry2.setFont(QFont("Arial", 12, QFont.Bold))
+                    checkbox.setChecked(True)
+                    entry2.setText("{SmallFont}" + entry2.text())
                 hbox.addWidget(entry2)
+                # checkbox to toggle the formatting
+                checkbox.stateChanged.connect(
+                    lambda state, entry=entry2, replaced_text=line_result.last_remove_line: self.toggle_formatting(entry, state, replaced_text))
+                self.checkBoxes.append(checkbox)
+                #
                 entry3 = QLineEdit(line_result.real_last_remove_line)
                 entry3.setReadOnly(True)
                 entry3.setFixedWidth(50)
@@ -234,10 +353,29 @@ class MyApp(QWidget):
                 scroll_layout = scroll_widget.layout()
                 scroll_layout.addLayout(hbox)
 
+    def toggle_formatting(self, entry, state, replaced_text):
+        if state == Qt.Checked:
+            entry.setText('{SmallFont}' + replaced_text)
+            # replace the text with the small font
+            for key, value in small_font.items():
+                if key in entry.text():
+                    entry.setText(entry.text().replace(key, value))
+            entry.setStyleSheet("font-weight: bold;")
+        else:
+            entry.setText(replaced_text)
+            # replace the text with the small font
+            for key, value in small_font.items():
+                if key in entry.text():
+                    entry.setText(entry.text().replace(key, value))
+            entry.setStyleSheet("font-weight: normal;")
+
     def open_og_file(self):
         # Obtener la ruta base del archivo "msgv_pathog.ini"
         base_path = self.get_base_path_from_ini()
+
         if not base_path:
+            base_path = "D:\\Q2\\Dump\\data_usa.cpk_decompiled\\"
+        elif not base_path:
             QMessageBox.warning(
                 self, "Warning", "Base path not found in msgv_pathog.ini")
             return
@@ -257,12 +395,16 @@ class MyApp(QWidget):
         # Sumar la ruta base con las últimas dos carpetas del archivo actual
         og_file_path = os.path.join(
             base_path, parent_dir, current_file_dir, actual_file_name)
+        og_file_path2 = os.path.join(
+            base_path, current_file_dir, actual_file_name)
         if os.path.exists(og_file_path):
             # open file
             os.startfile(og_file_path)
+        elif os.path.exists(og_file_path2):
+            os.startfile(og_file_path2)
         else:
             QMessageBox.information(
-                self, "Information", "No OG file found in the last two directories." + f"Current file dir: {current_file_dir}" + f"Parent dir: {parent_dir}")
+                self, "Information", "No OG file found in" + f"{base_path}{parent_dir}" + "\\" + f"{current_file_dir}" + "or" + f"{base_path}{current_file_dir}" + "\\" + f"{actual_file_name}")
 
     def get_base_path_from_ini(self):
         ini_file_path = "msgv_pathog.ini"
@@ -286,6 +428,26 @@ class MyApp(QWidget):
             self.line_results[index] = LineResult(
                 removeline, last_remove_line, real_last_remove_line)
 
+    def replace_backwards(self, line):
+        replaced_line = ""
+        inside_brackets = False
+
+        for char in line:
+            if char == '[':
+                inside_brackets = True
+            elif char == ']':
+                inside_brackets = False
+
+            if not inside_brackets:
+                for key, value in small_font.items():
+                    if char == value:
+                        char = key
+                        break
+
+            replaced_line += char
+
+        return replaced_line
+
     def save_file(self):
         self.update_line_results()
 
@@ -297,6 +459,11 @@ class MyApp(QWidget):
 
             for key, value in show_font.items():
                 last_remove_line = last_remove_line.replace(key, value)
+
+            # Restore for small font if starts with {SmallFont}
+            if last_remove_line.startswith("{SmallFont}"):
+                last_remove_line = last_remove_line.replace("{SmallFont}", "")
+                last_remove_line = self.replace_backwards(last_remove_line)
 
             output_line = f"{removeline}{last_remove_line}{real_last_remove_line}\n"
             output_lines.append(output_line)
