@@ -22,8 +22,12 @@ Python 3.11.3
 
 To install required packages, run:
 ```python
+## CompileMSG/setn
 pip install customtkinter
 pip install sv-ttk
+## MsgViewerQT5
+pip install PyQt5
+pip install configparser
 ```
 Run the program with the following command:
 ```python
