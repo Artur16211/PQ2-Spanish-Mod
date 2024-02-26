@@ -154,6 +154,9 @@ def process_line(line):
     inside_brackets = False
     skip_next_brackets = False
 
+    # delete "　" from line if exists
+    line = line.replace("　", "")
+
     for i, character in enumerate(line):
         if character == '[':
             inside_brackets = True
