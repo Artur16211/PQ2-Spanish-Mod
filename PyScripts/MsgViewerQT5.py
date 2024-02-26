@@ -402,14 +402,14 @@ class MyApp(QWidget):
 
     def toggle_formatting(self, entry, state, replaced_text):
         if state == Qt.Checked:
-            entry.setText('{SmallFont}' + replaced_text)
+            entry.setText('{SmallFont}' + entry.text())
             # replace the text with the small font
             for key, value in small_font.items():
                 if key in entry.text():
                     entry.setText(entry.text().replace(key, value))
             entry.setStyleSheet("font-weight: bold;")
         else:
-            entry.setText(replaced_text)
+            entry.setText(entry.text().replace('{SmallFont}', '').strip())
             # replace the text with the small font
             for key, value in small_font.items():
                 if key in entry.text():
