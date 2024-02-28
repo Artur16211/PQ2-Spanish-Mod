@@ -1,9 +1,9 @@
-﻿import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel, QScrollArea, QPushButton, QMessageBox, QFileDialog, QCheckBox
+﻿from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel, QScrollArea, QPushButton, QMessageBox, QFileDialog, QCheckBox
 from PyQt5.QtCore import QFile, QTextStream, Qt
 from PyQt5.QtGui import QPalette, QColor, QFont
 from configparser import ConfigParser
 import os
+import sys
 
 
 class LineResult:
@@ -514,6 +514,10 @@ class MyApp(QWidget):
                 last_remove_line = last_remove_line.replace(
                     "{SmallFont}", "")
                 last_remove_line = self.replace_backwards(last_remove_line)
+
+            # Eliminar saltos de línea de last_remove_line y real_last_remove_line
+            last_remove_line = last_remove_line.strip('\n')
+            real_last_remove_line = real_last_remove_line.strip('\n')
 
             output_line = f"{removeline}{last_remove_line}{real_last_remove_line}\n"
 
