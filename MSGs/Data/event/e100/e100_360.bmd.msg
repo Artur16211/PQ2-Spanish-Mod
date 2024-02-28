@@ -1,5 +1,5 @@
 [msg MSG_000 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 1][f 3 1 1 0 0 1]斡HAHAHAHAHA! 夷A d吋nde fue tu valent胤a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 1][f 3 1 1 0 0 1]¡JA JA JA JA! 夷A d吋nde fue tu valent胤a?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 1 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]No puede ser... 夷Realmente no podemos con 姻l?[n][f 1 3 65535][f 1 1][e]
@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 3 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]斡S胤, la estatua![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 32 6 2 1][f 3 1 1 0 0 12][f 6 1 2 0 0 6]斡HAHAHAHAHA! Por supuesto que no puedes ganar... 斡Soy la justicia absoluta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 32 6 2 1][f 3 1 1 0 0 12][f 6 1 2 0 0 6]¡JA JA JA JA! Por supuesto que no puedes ganar... 斡Soy la justicia absoluta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 4 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 13]斡No creo que seas justo![n][f 1 3 65535][f 1 1][e]
@@ -132,7 +132,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 46][f 6 1 9 0 0 1]斡Kamoshidaman estaba en lo correcto despu姻s de todo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 47][f 6 1 2 0 0 6]斡HAHAHAHAHAHAHAHAHAHAHA! 斡La justicia siempre[n]gana![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 47][f 6 1 2 0 0 6]¡JA JA JA JA JA JA JA JA! ¡La justicia siempre gana![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 1 2 4][f 4 6 25 0 3 1][f 3 1 1 0 0 48]斡Tenemos fe en ustedes![n][f 1 3 65535][f 1 1][e]

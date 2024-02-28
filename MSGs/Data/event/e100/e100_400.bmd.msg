@@ -214,7 +214,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]Y ese golpe... 夷Qu姻 eres, una especie de sicaria?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 1 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19032]Ahaha, 夷eso? Lo vi una vez en una pel胤cula, as胤 que pens姻 en probarlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 1 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 19032]¡Jaja, eso! Lo vi una vez en una película, así que pensé en probarlo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Parece que sali吋 bien, quiero decir, 夷aun as胤 lo logr姻, no?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Esa fue la primera vez que enga隠姻 a un enemigo antes de eliminarlo. 斡Fue tan divertido![n][f 1 3 65535][f 1 1][e]
 

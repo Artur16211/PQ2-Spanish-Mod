@@ -167,7 +167,7 @@
 
 [msg MSG_052 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 0]Mmm... Bueno, siempre est茨s gritando "maldici吋n", as胤 que... 夷Cr茨neo Maldito?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 5 2 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Snrk... 斡Eso suena tan rid胤culo...! *snort* Heeheehee... 斡Ahahahahahaha![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Jaja... Eso suena tan ridículo... *resoplido* Jaja, ¡ja, ja, ja, ja![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 0][f 3 1 1 0 0 7091][f 6 1 2 0 0 9]Ni siquiera me importa... Quiero decir, 夷cu茨nto m茨s vamos a seguir con esto?[n][f 1 3 65535][f 1 1][e]
