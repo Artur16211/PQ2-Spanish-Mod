@@ -214,6 +214,9 @@ class MyApp(QWidget):
             self.process_file(file_path)
         # change the close event handler
         self.closeEvent = self.close_event_handler
+        # search results
+        self.highlighted_results = []
+        self.current_highlighted_index = -1
 
     def close_event_handler(self, event):
         # if self.modified:
@@ -266,6 +269,10 @@ class MyApp(QWidget):
             "border: 0.5px solid #646464; border-radius: 10px; padding: 0 8px; color: #fff;")
         self.search_line_edit.returnPressed.connect(
             self.search_text)  # Conectar la señal textChanged
+        #
+        self.search_line_edit.returnPressed.connect(
+            self.navigate_highlighted_results)
+        #
         main_layout.addWidget(self.search_line_edit)
 
         self.scroll_area = QScrollArea()  # Mantener una referencia al QScrollArea
@@ -310,6 +317,7 @@ class MyApp(QWidget):
                             "")  # Limpiar el estilo CSS
                         entry.setStyleSheet(
                             "background-color: #CECB00; color: black;")
+                        self.highlighted_results.append(entry)
                         text_found = True  # Se encontró el texto
 
                         # Desplazar el área de desplazamiento al primer resultado encontrado
@@ -324,6 +332,17 @@ class MyApp(QWidget):
         else:
             self.search_line_edit.setStyleSheet(
                 "border: 0.5px solid #646464; border-radius: 10px; padding: 0 8px; color: #fff;")  # Limpiar el estilo CSS
+
+    def navigate_highlighted_results(self):
+        if self.highlighted_results:
+            # Incrementar el índice o volver al primer resultado si se alcanza el último
+            self.current_highlighted_index = (
+                self.current_highlighted_index + 1) % len(self.highlighted_results)
+            # Obtener el QLineEdit del resultado actual
+            current_result = self.highlighted_results[self.current_highlighted_index]
+            # Desplazar el área de desplazamiento al resultado actual
+            scroll_bar = self.scroll_area.verticalScrollBar()
+            scroll_bar.setValue(current_result.geometry().top())
 
     def open_file_dialog(self):
         file_dialog = QFileDialog()
