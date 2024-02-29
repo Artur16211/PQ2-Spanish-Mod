@@ -264,7 +264,7 @@ class MyApp(QWidget):
         # change outline color
         self.search_line_edit.setStyleSheet(
             "border: 0.5px solid #646464; border-radius: 10px; padding: 0 8px; color: #fff;")
-        self.search_line_edit.textChanged.connect(
+        self.search_line_edit.returnPressed.connect(
             self.search_text)  # Conectar la señal textChanged
         main_layout.addWidget(self.search_line_edit)
 
