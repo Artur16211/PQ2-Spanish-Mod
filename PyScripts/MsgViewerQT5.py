@@ -153,6 +153,10 @@ show_font = {
     "Ó": "遺",
     "Ú": "郁",
     "Ñ": "謂",
+
+}
+
+show_font_small = {
     # showfont small font
     'á': 'ァ',
     'é': 'イ',
@@ -230,6 +234,14 @@ def process_line(line):
     last_remove_line = last_remove_line.replace(
         "[sel]", "").replace("[msg]", "").strip()
     real_last_remove_line = real_last_remove_line.strip()
+
+    # replace last_remove_line with the show font
+    for key, value in show_font.items():
+        last_remove_line = last_remove_line.replace(value, key)
+
+    # show font small font
+    for key, value in show_font_small.items():
+        last_remove_line = last_remove_line.replace(value, key)
 
     return LineResult(removeline, last_remove_line, real_last_remove_line)
 
