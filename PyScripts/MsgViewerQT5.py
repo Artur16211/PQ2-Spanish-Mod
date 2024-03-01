@@ -344,6 +344,8 @@ class MyApp(QWidget):
             # Limpiar el estilo CSS
             entry.setStyleSheet(
                 "")
+        # Limpiar la lista de resultados resaltados
+        self.highlighted_results = []
 
         if search_text:  # Verificar si la cadena de búsqueda no está vacía
             text_found = False
