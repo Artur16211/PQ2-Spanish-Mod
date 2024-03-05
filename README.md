@@ -36,7 +36,7 @@ python CompileMSG.py
 --------
 MSG Editor:<br>
 <img src="img/MSGViewer.png" alt="MSGV" width="800"><br>
-Ejecuta /PyScripts/<b>MsgViewerQT5.py</b> para editar los archivos MSG.<br>
+Ejecuta /MsgViewerQT5/<b>MsgViewerQT5.py</b> para editar los archivos MSG.<br>
 
 --------
 
