@@ -104,3 +104,4 @@
 | Ticket                 | Entrada                        |                                  |
 | **Save** ################## | ################ | ######## |
 | suspend data           | Guardado rápido                |         
+| Ribbon                 | Ribbon                        |                                  |
