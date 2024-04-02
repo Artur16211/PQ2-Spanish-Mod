@@ -21,7 +21,7 @@
 
 [msg MSG_006 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11045][f 6 1 2 0 0 4]Oh, 夷vamos a hablar de eso?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Entonces preguntar algo tambi姻n! 夷Cu茨l es el secreto detr茨s de sus trajes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Entonces preguntar algo tambi姻n! 夷Cu茨l es el secreto detrás de sus trajes?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es una larga historia...[f 2 7 1 20 0 32][e]
@@ -31,31 +31,31 @@
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25089][f 6 1 2 0 0 9]Cierto, es bastante dif胤cil de explicar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Asi son las especificaciones. Hecho.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]As胤 son las especificaciones. Bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 22033][f 6 1 2 0 0 10]Jeje... si tan solo tuviera una mejor explicaci吋n para eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 22033][f 6 1 2 0 0 10]Je, je, je... si tan solo tuviera una mejor explicaci吋n para eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 2 0 1][f 3 1 1 0 0 5032]Creo que son geniales. La vestimenta de todos es realmente elegante y les queda bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 28052]S胤, nuestras personalidades se expresan claramente a trav姻s de ellos. De hecho, me gusta mucho el m胤o.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 28052]S胤, nuestras personalidades se expresan claramente a trav姻s de ellos. De hecho, me gusta mucho el mío.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 0]Crow, tu m茨scara parece que hace un buen trabajo protegiendo tu nariz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 4][f 3 1 1 0 0 4031][f 6 1 2 0 0 4]Es cierto, 夷pero no pinchar胤a a cualquiera que est姻 parado frente a 姻l en la cabeza?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 4][f 3 1 1 0 0 4031][f 6 1 2 0 0 4]Es cierto, 夷pero no pinchar胤a a cualquiera que est姻 parado frente a él en la cabeza?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 0]Eso solo significa que tiene una buena ofensiva y defensa. Cuando lo consideras, apuesto a que es incluso mejor que unas gafas de broma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 4 1 0][f 3 1 1 0 0 28033][f 6 1 2 0 0 4]Jaja... gracias por el... elogio, supongo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 4 1 0][f 3 1 1 0 0 28033][f 6 1 2 0 0 4]Ja, ja... gracias por 姻l... elogio, supongo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 10 0 0 1][f 3 1 1 0 0 10089][f 6 1 2 0 0 4]夷Y qu姻 hay de sus nombres, como Joker y Mona? 夷Son apodos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 10 0 0 1][f 3 1 1 0 0 10089][f 6 1 2 0 0 4]夷Y qu姻 hay de sus nombres, como Joker y Mona? ¿Son apodos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_018 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Son nuestros nombres clave.[f 2 7 1 20 0 32][e]
@@ -65,22 +65,22 @@
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23052]As胤 es.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 14 1 6][f 3 1 1 0 0 23085][f 6 1 2 0 0 6]斡Vamos! 斡Son nombres clave![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 14 1 6][f 3 1 1 0 0 23085][f 6 1 2 0 0 6]斡Vamos! ¡Son nombres clave![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 0 0 1][f 3 1 1 0 0 16047][f 6 1 2 0 0 4]Nombres clave... 夷C吋mo los escogen?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Se basa principalmente en c吋mo se ven nuestros trajes o c吋mo nos hacen sentir. 夷Ustedes tambi姻n quieren algunos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Se basa principalmente en c吋mo se ven nuestros trajes o cómo nos hacen sentir. 夷Ustedes tambi姻n quieren algunos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡Oh, s胤! 斡Estaba pensando que ya era hora de tener un t胤tulo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 11045][f 6 1 2 0 0 6]斡Oh, s胤! ¡Estaba pensando que ya era hora de tener un título![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 0]Entonces, son como nombres de luchadores... Eso no suena mal. Tambi姻n tomar姻 uno, si no te importa.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 0]Entonces, son como nombres de luchadores... Eso no suena mal. Tambi姻n tomaré uno, si no te importa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 2 0 1][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 2 0 1][f 3 1 1 0 0 17001][f 6 1 2 0 0 6]斡Guau![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 1 0 3][f 4 6 12 1 0 1][f 4 6 8 0 0 4][f 3 1 1 0 0 8022]夷No aprendimos ya a donde nos lleva esta conversaci吋n...?[n][f 1 3 65535][f 1 1][e]
@@ -93,27 +93,27 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 4][f 3 1 1 0 0 0]夷No es eso bastante directo? El primer apodo que me viene a la mente para 姻l es "Prote胤na"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 4][f 3 1 1 0 0 18129]S胤, qu姻date con ese. Incluso le encanta esparcir prote胤na en polvo en su arroz.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 4][f 3 1 1 0 0 18129]S胤, qu姻date con ese. Incluso le encanta esparcir proteína en polvo en su arroz.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Akihiko]]
-[f 0 5 65278][f 2 1][f 4 6 22 1 0 0][f 4 6 12 8 1 0][f 3 1 1 0 0 12002][f 6 1 2 0 0 2]斡Vamos! 夷Puedes siquiera pensar en un apodo para m胤 que no tenga que ver con prote胤na, Shinji?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 1 0 0][f 4 6 12 8 1 0][f 3 1 1 0 0 12002][f 6 1 2 0 0 2]斡Vamos! 夷Puedes siquiera pensar en un apodo para m胤 que no tenga que ver con proteína, Shinji?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 8 1 0][f 3 1 1 0 0 18093][f 6 1 2 0 0 6]斡Incluso si me tomara el tiempo para pensar en uno, seguir胤as hablando y hablando sobre prote胤na de todos modos! 夷Por qu姻 me molesto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 8 1 0][f 3 1 1 0 0 18093][f 6 1 2 0 0 6]斡Incluso si me tomara el tiempo para pensar en uno, seguir胤as hablando y hablando sobre proteína de todos modos! 夷Por qu姻 me molesto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 8 1 0][f 3 1 1 0 0 12062][f 6 1 2 0 0 2]夷Qu姻...? 斡No hagas que suene como si eso fuera lo 雨nico de lo que hablo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Soy tan espec胤fico sobre la prote胤na porque es el nutriente principal que el cuerpo necesita para...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Soy tan espec胤fico sobre la proteína porque es el nutriente principal que el cuerpo necesita para...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19090]Bien, entonces Akihiko es "Prote胤na"![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19090]斡Bien, entonces Akihiko es "Prote胤na"![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Qu姻 tal Se隠orita Rosada para Yukari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 10 10 0 1][f 3 1 1 0 0 10019][f 6 1 2 0 0 0]夷Eh? 斡夷Yo tambi姻n tendre uno!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 10 10 0 1][f 3 1 1 0 0 10019][f 6 1 2 0 0 0]夷Eh? 斡¿Yo tambi姻n tendré uno!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Perfecto! Tiene ese aire de autoridad, 斡pero tambi姻n suena lindo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Perfecto! Tiene ese aire de autoridad, ¡pero tambi姻n suena lindo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19130]斡Exacto! Adem茨s, sus conjuntos y accesorios son abrumadoramente rosados.[n][f 1 3 65535][f 1 1][e]
@@ -126,20 +126,20 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 4][f 4 6 16 12 0 1][f 3 1 1 0 0 16009]U-Um... 夷Koromaru y yo podr胤amos tener tambi姻n nombres clave?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amada lleva una lanza, as胤 que quiz茨s... 夷Lanzador? 夷Es demasiado simple?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amada lleva una lanza, as胤 que quiz茨s... 夷Lanzador? ¿Es demasiado simple?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19011][f 6 1 2 0 0 4]Si Yukari es Se隠orita Rosada, entonces 夷qu姻 tal Se隠or Negro para Ken?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19011][f 6 1 2 0 0 4]Si Yukari es Se隠orita Rosada, entonces 夷qu姻 tal Señor Negro para Ken?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Ken]]
 [f 0 5 65278][f 2 1][f 4 6 16 4 1 0][f 3 1 1 0 0 16086]Se隠or Negro... No est茨 mal.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso en Featherman, el Negro se representa como un tipo 'lobo solitario' genial con un alto nivel de madurez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19130]Adem茨s, siempre est茨s esforz茨ndote tanto por parecerte al caf姻 negro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19130]Adem茨s, siempre estás esforzándote tanto por parecerte al caf姻 negro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 16018][f 6 1 2 0 0 0]夷Eh? 夷斡Lo sabes!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 16018][f 6 1 2 0 0 0]夷Eh? ¿斡Lo sabes!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]斡Arf, Arf![n][f 1 3 65535][f 1 1][e]
@@ -148,7 +148,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24076]Veamos... 夷Qu姻 tal, Bestia del Infierno Invocada de las Profundidades Infernales, para Koromaru?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17008]*quejido*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17008]*Quejido*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Parece que tus nombres son un poco demasiado avanzados para el panorama perruno, Inari.[n][f 1 3 65535][f 1 1][e]
@@ -165,10 +165,10 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 11058][f 6 1 2 0 0 0]夷斡Eso es todo lo que ves en m胤!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 1 0][f 3 1 1 0 0 5031][f 6 1 2 0 0 6]Eso es demasiado obvio... Jaja...斡Jijiji!... 斡Aj茨, jajajaja![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 1 0][f 3 1 1 0 0 5031][f 6 1 2 0 0 6]Eso es demasiado obvio... Jaja...斡Jijiji!... ¡Aj茨, jajajaja![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 27030]*risa* Vamos... Es grosero re胤rse de eso, Yukiko... *risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 6][f 3 1 1 0 0 27030]*Risa* Vamos... Es grosero re胤rse de eso, Yukiko... *risa*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Ustedes dos se divierten mucho con esto...[n][f 1 3 65535][f 1 1][e]
@@ -202,10 +202,10 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]斡Ah, no! Te preocupas mucho por nosotros, especialmente por Koromaru. As胤 que, eres como nuestra madre protectora...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 4 1 0][f 3 1 1 0 0 18053][f 6 1 2 0 0 10]夷Qu姻? 夷斡Qu姻 est茨s...!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 4 1 0][f 3 1 1 0 0 18053][f 6 1 2 0 0 10]夷Qu姻? ¿斡Qué est茨s...!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_064 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 0 0 6][f 3 1 1 0 0 17001][f 6 1 2 0 0 1]斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 0 0 6][f 3 1 1 0 0 17001][f 6 1 2 0 0 1]斡Guau![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 5 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡No te pongas de su lado, Koro... Eh, perd吋n, Koromaru![n][f 1 3 65535][f 1 1][e]
@@ -214,11 +214,11 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 21 0 0 0][f 3 1 1 0 0 0]As胤 que le encantan los perros, pero lo mantiene en secreto, 夷eh...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 14 10 100 1][f 3 1 1 0 0 14548][f 3 1 6 0 0 500]斡Realmente nos conoces a todos tan bien, [f 6 1 27 0 0 0]! 斡Es incre胤ble![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 14 10 100 1][f 3 1 1 0 0 14548][f 3 1 6 0 0 500]斡Realmente nos conoces a todos tan bien, [f 6 1 27 0 0 0]! ¡Es incre胤ble![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Lo s姻 todo sobre ti tambi姻n, Fuuka. A ver, el seud吋nimo de Fuuka...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Quiz茨s "Hacker"? 夷O "Chef Asesina"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Lo s姻 todo sobre ti también, Fuuka. A ver, el seud吋nimo de Fuuka...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Quiz茨s "Hacker"? ¿O "Chef Asesina"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 0 0][f 3 1 1 0 0 26017]Pero "hacker" es mi especialidad tambi姻n.[n][f 1 3 65535][f 1 1][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Oh, en ese caso, "Chef Asesina" tambi姻n funciona para las chicas de nuestro equipo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_071 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 4 0 1][f 3 1 1 0 0 4035][f 6 1 2 0 0 0]斡PERD遺N! 夷斡Qu姻!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 4 0 1][f 3 1 1 0 0 4035][f 6 1 2 0 0 0]斡PERD遺N! 夷¡Qu姻!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 100 1][f 3 1 1 0 0 14533][f 6 1 2 0 0 9]Oh... Entonces, yo en tu mundo tampoco soy muy buena cocinando...[n][f 1 3 65535][f 1 1][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Uhhh, "no muy buena" no captura del todo la idea... Es m茨s como si pudiera resultar en una investigaci吋n por asesinato, 夷no?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 4][f 3 1 1 0 0 10011]斡Estas siendo demasiado honesta ahora mismo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 4][f 3 1 1 0 0 10011]斡Est茨s siendo demasiado honesta ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_075 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 0]斡Pero vaya! Supongo que realmente somos bastante similares en tu mundo, 夷eh?[n][f 1 3 65535][f 1 1][e]
@@ -248,7 +248,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Oh! A雨n no tenemos uno para Mitsuru. 夷Tienes alguna idea, [f 6 1 27 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19013]斡C'est Magnifique... No, eso es m茨s una frase que un seud吋nimo. 斡Oh! 夷Qu姻 tal "Reina de la Ejecuci吋n"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19013]斡C'est Magnifique... No, eso es m茨s una frase que un seud吋nimo. ¡Oh! 夷Qu姻 tal "Reina de la Ejecución"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 10 0 0][f 3 1 1 0 0 13058][f 6 1 2 0 0 0]夷斡Qu姻!?[n][f 1 3 65535][f 1 1][e]
@@ -271,10 +271,10 @@
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 1][f 3 1 1 0 0 11032][f 6 1 2 0 0 4]Entonces, 夷deber胤amos darte tambi姻n un nombre clave a ti, [f 6 1 27 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_085 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19018]... 夷Eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19018]...夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]Buen punto. Aunque no estoy seguro de cu茨l es el m胤o, 斡no deber胤amos dejarte como la 雨nica sin uno![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 0]Buen punto. Aunque no estoy seguro de cu茨l es el m胤o, 斡no deberíamos dejarte como la 雨nica sin uno![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 11001][f 6 1 2 0 0 4]Oye, [f 6 1 30 0 0 0], 夷puedes inventar un nombre en clave para [f 6 1 27 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_087 top]
@@ -289,13 +289,13 @@
 [f 0 5 65278][f 2 1][f 4 6 14 10 100 4][f 3 1 1 0 0 0]Nuestro l胤der tambi姻n usa auriculares.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_090 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 6 0 1][f 3 1 1 0 0 3031]Si alguien gritara "斡Aud胤fonos!" y los cuatro volte茨ramos, ser胤a como alg雨n tipo muy...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 6 0 1][f 3 1 1 0 0 3031]Si alguien gritara "斡Aud胤fonos!" y los cuatro volte茨ramos, sería como alg雨n tipo muy...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_091 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 2 0 1][f 3 1 1 0 0 22032][f 6 1 2 0 0 7]Es verdad, siempre es tan brillante y alegre. Estar con ella realmente nos anima.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 8 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]夷Eh? 夷En serio? Jajaja, esto es vergonzoso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 8 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]夷Eh? ¿En serio? Ja, ja, ja, esto es vergonzoso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_093 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 4][f 3 1 1 0 0 0]Ella es como una especie de diosa social. Tiene tanta energ胤a que honestamente resulta deslumbrante para alguien como yo.[n][f 1 3 65535][f 1 1][e]
@@ -307,7 +307,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 0]Llamar a una dama un demonio es un poco exagerado, 夷no crees?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_096 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19029][f 6 1 2 0 0 6]斡Eso es genial y aterrador! 斡Me encanta![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19029][f 6 1 2 0 0 6]斡Eso es genial y aterrador! ¡Me encanta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_097 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷斡Qu姻... le gusta!?[n][f 1 3 65535][f 1 1][e]

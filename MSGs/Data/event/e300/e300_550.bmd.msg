@@ -1,210 +1,210 @@
 ﻿[msg MSG_000 [Sistema De Seguridad]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]INICIACION DE LA VERIFICACI遺N DE SEGURIDAD...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]INICIANDO VERIFICACI遺N DE SEGURIDAD...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11060][f 6 1 2 0 0 0]夷Qu姻...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11060][f 6 1 2 0 0 0]夷斡Q-Qu姻 dem...!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Sistema De Seguridad]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]SILENCIO. IW. MODEL NUMBER VERIFIED... 02.[n]CONFIRMING CLEARANCE LEVEL...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TIPO DE UNIDAD VERIFICADA... IW. N郁MERO DE MODELO VERIFICADO... 02. CONFIRMACI遺N DEL NIVEL DE SEGURIDAD...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Sistema De Seguridad]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ERROR. 郁NICAMENTE LOS UNITOS CON LA RECLEARCIA[n]ADMINISTRATIVA PUEDEN AJUSTARSE A ESTA[n]ZONA.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ACCESO DENIIDO. ESCALA DE SEGURIDAD. PROTOCOLO[n]DE INTERCEPCI遺N DE SEGURIDAD.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ERROR. SOLO LAS UNIDADES CON AUTORIZACI遺N ADMINISTRATIVA PUEDEN ACCEDER A ESTA ZONA.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ACCESO DENEGADO. AUMENTANDO NIVEL DE SEGURIDAD. INICIANDO PROTOCOLO DE INTERCEPTACI遺N DE SEGURIDAD.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 11 0 0][f 3 1 1 0 0 11058][f 6 1 2 0 0 0]Espera, 夷qu姻? 夷"Desminado administrativo"?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Qu姻 se supone que hagamos? 夷Alguien m茨s ha[n]sido escaneado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 11 0 0][f 3 1 1 0 0 11058][f 6 1 2 0 0 0]Espera, 夷qu姻? ¿斡"Autorizaci吋n administrativa"!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]夷Qu姻 se supone que hagamos? ¿Hacer que escaneen a otra persona?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]No... Todos probablemente terminar胤amos con[n]los mismos resultados.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto no es bueno... Si 胤bamos a forzar nuestro[n]camino m茨s all茨 de este punto de[n]control, supongo que una tonelada de robots[n]de seguridad nos estar茨n esperando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 6 0 0][f 3 1 1 0 0 0]No... Probablemente, sea lo mismo con todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esto no es bueno... Si intent茨ramos pasar a la fuerza, un mont吋n de robots de seguridad nos estarán esperando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 6][f 3 1 1 0 0 10009][f 6 1 2 0 0 4]Esto significa que no podemos seguir adelante[n]a menos que tengamos la autorizaci吋n,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Dijo algo sobre un tipo de unidad y un n雨mero[n]de modelo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 6][f 3 1 1 0 0 10009][f 6 1 2 0 0 4]Esto significa que no podemos seguir adelante a menos que tengamos la autorizaci吋n, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Dijo algo sobre un tipo de unidad y un n雨mero de modelo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 0]EL DINERO ES LA SEGUNDA PARTE DE LOS LEGOS[n]AL COMIENZO DE SU IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]ESTO ES DETERMINADO POR LA FACTORIA EN LO[n]QUE TE CONSTRUISTE, Y DESGASTA EN TU CUERPO[n]DE MODA.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]ENTONCES, VAS A TENER UN N郁MERO DE MODUS[n]OPERANDI.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 0]EL TIPO DE UNIDAD ES LA SECUENCIA DE LETRAS AL PRINCIPIO DE NUESTRA IDENTIFICACI遺N.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]ESTA SE DETERMINA SEG郁N LA F威BRICA EN LA SOMOS CONSTRUIDOS, Y TAMBI畏N EL TIPO DE MODELO.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y ENTONCES, SE ASIGNA UN N郁MERO DE MODELO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24076]Creo que fui etiquetado como "TK-04"[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que, para m胤, "TK" es el tipo de unidad[n]y "04" es el n雨mero de modelo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 24076]Creo que fui etiquetada como "TK-04"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]As胤 que, para mí, "TK" es mi tipo de unidad y "04" es mi modelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 0]El m胤o era "YS-03."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]AHORA QUE PIENSO EN ELLO, TODOS USTEDES TIENEN[n]DOS HIJOS DIFERENTES.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]ROBOTS PRODUCIDOS DE MASS SUCH AS MYSELF TEND[n]TO HAVE THE SAME ONE ...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 0]PERO ERES HUMANO. INCONSISTENC緯A EN MODELO[n]NUMBERS DEFIES LOGIC.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]AHORA QUE LO PIENSO, TODOS USTEDES TIENEN DIFERENTES TIPOS DE UNIDAD.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]LOS ROBOTS PRODUCIDOS EN MASA COMO YO SUELEN TENER EL MISMO...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 0]PERO T郁 ERES HUMANO. LA INCONSISTENCIA EN LOS NÚMEROS DE MODELO DESAF緯A LA L遺GICA.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 3 12 0 0][f 3 1 1 0 0 3084]Es decir, podr胤amos ser humanos, pero no[n]somos exactamente la misma persona...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Donde nacimos, donde crecimos, nuestros[n]nombres y nuestras personalidades, son todos[n]diferentes. Somos individuos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 3 12 0 0][f 3 1 1 0 0 3084]Es decir, podr胤amos ser humanos, pero no somos exactamente la misma persona...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Donde nacimos, donde crecimos, nuestros nombres y nuestras personalidades, todo es diferente. Somos individuos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 1 0][f 3 1 1 0 0 0]Heheh, este oso fue asignado su propio n雨mero[n]individual y todo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Tengo "YS-07"![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 1 0][f 3 1 1 0 0 0]斡Ja, ja, ja! ¡Este oso recibi吋 su propio n雨mero individual y todo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Yo soy "YS-07"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 28132]Mmm, parece que el tipo de unidad est茨[n]designado basado en nuestras asociaciones[n]habituales.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Los ladrones somos "TK", el Equipo de[n]Investigaci吋n es "YS", y SEES es... Um...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 6 1 1][f 3 1 1 0 0 28132]Mm, parece que el tipo de unidad se establece seg雨n nuestras asociaciones habituales.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nosotros, los ladrones, somos "TK", el Equipo de Investigaci吋n es "YS", y SEES es... Um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 6][f 3 1 1 0 0 0]Soy "IW-06". Esto indica que nuestro tipo de[n]unidad es "IW"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 6][f 3 1 1 0 0 0]Soy "IW-06". Esto indica que nuestro tipo de unidad es "IW".[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 6][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]Creo que soy "IW-00"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 6][f 1 5][f 6 1 17 0 0 0][n][f 3 1 1 0 0 0]Creo que soy "IW-00".[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 18 1 0][f 3 1 1 0 0 9023][f 6 1 2 0 0 4]夷Hrmm? 夷Pero no fue asignado "IW-00" a la[n]dama justa aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 18 1 0][f 3 1 1 0 0 9023][f 6 1 2 0 0 4]夷Hrmm? ¿Pero no se le asign吋 "IW-00" a la dama tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 2 6][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]S胤... 夷Yo tambi姻n soy "IW-00"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 2 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]S-S胤... Creo que tambi姻n soy "IW-00"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 22 8 1 3][f 3 1 1 0 0 22019][f 6 1 2 0 0 4]Espera, 夷c吋mo tiene sentido? 夷Es posible que[n]varias personas tengan la misma[n]identificaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 22 8 1 3][f 3 1 1 0 0 22019][f 6 1 2 0 0 4]Espera, 夷c吋mo es posible? ¿Varias personas pueden tener la misma identificación exacta?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 0]NO, ES IMPOSIBLE. ESTE ES EL PRIMER CASO.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Podr胤a ser por esa... cosa del universo[n]paralelo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Podr胤a ser por eso de... universos paralelos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 1 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]LA MISMA IDENTIFICACI遺N... NORMALMENTE, ELLOS[n]SER緯AN CREADOS COMO 威RBITROS.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 1 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]LA MISMA IDENTIFICACI遺N... NORMALMENTE, SER緯AN TRATADOS COMO ERRORES.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 0 0][f 3 1 1 0 0 26018][f 6 1 2 0 0 4]Se trata de errores, 夷eh? 斡Espera un error![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Ahhh, me golpe吋! 斡Lo tengo! 斡Creo que[n]podr胤amos pasar de aqu胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 0 0][f 3 1 1 0 0 26018][f 6 1 2 0 0 4]Tratados como errores, 夷eh?... Espera, 斡un error![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Ahhh, ya s姻! ¡Lo tengo! ¡Creo que podr胤amos pasar por aquí![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 4 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻? 夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 4 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Oh, 夷qu姻 pasa? ¿Qué tienes en mente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 26045][f 6 1 2 0 0 4]夷Qu姻 pasar胤a si estos dos, con el mismo tipo[n]de unidad y n雨mero de modelo, pasaran[n]por seguridad al mismo tiempo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 26045][f 6 1 2 0 0 4]夷Qu姻 pasar胤a si dos personas, con el mismo tipo de unidad y modelo, intentar茨n cruzar al mismo tiempo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 0 0 1][f 3 1 1 0 0 0]Bueno, Ribbon dijo que sus n雨meros no son[n]posibles, 夷verdad? Sooo... 夷no romper胤a el[n]sistema?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 0 0 1][f 3 1 1 0 0 0]Bueno, Ribbon dijo que eso no es posible, 夷verdad? Entonces... ¿No romper胤a el sistema?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 0][f 3 1 1 0 0 26029]斡As胤 es! Puede que no podamos desactivarlo[n]completamente, pero al menos causar茨 un[n]error y se congelar茨.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ribbon dijo que esto es un primero, 夷verdad?[n]Entonces vamos a usar eso a nuestra[n]ventaja.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 0][f 3 1 1 0 0 26029]斡Exacto! Es posible que no podamos desactivarlo, pero al menos causar茨 un error y se bloqueará.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Entonces, usemos eso a nuestro favor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 10 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Ya veo! Mientras el sistema est茨 encerrado,[n]alguien podr胤a pasar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 10 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡Entiendo! Mientras el sistema est姻 bloqueado, alguien podr胤a pasar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Mweheheh... Lo notaste tambi姻n, 夷eh, Fuuka?[n]夷Ese terminal de ah胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 0]Mweheheh... 夷Tambi姻n la notaste, Fuuka? ¿Esa terminal all胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 26 1 0 3][f 4 6 14 2 100 1][f 3 1 1 0 0 14567]S胤, cualquiera que supere el puesto de control[n]podr胤a usar esa terminal para cerrar[n]la seguridad aqu胤.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 0]Pero la pregunta es, 夷qui姻n ir茨? Puede ser[n]demasiado dif胤cil para cualquiera que no[n]sea bueno con las computadoras...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 1 0 3][f 4 6 14 2 100 1][f 3 1 1 0 0 14567]S胤, si alguien logra pasar, podría usar esa terminal para desactivar la seguridad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 0]Pero la pregunta es, 夷qui姻n ir茨? Podr胤a ser difícil para alguien que no sea bueno con las computadoras...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_030 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Adelante, Skull.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Vamos, Skull.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Adelante, Oracle.[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]Adelante, Aigis.[f 2 7 1 20 2 32][e]
-[f 0 5 65278][f 2 1]Tengo esto, todos.[f 2 7 1 20 4 32][e]
+[f 0 5 65278][f 2 1]Lo har姻 yo mismo.[f 2 7 1 20 4 32][e]
 
 [msg MSG_033 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 0 1 1][f 3 1 1 0 0 21012][f 6 1 2 0 0 9]Uhhh... Si todo lo que ten胤a que hacer era[n]correr all胤, entonces seguro, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 0 1 1][f 3 1 1 0 0 21012][f 6 1 2 0 0 9]Uhhh... Si todo lo que tengo que hacer es correr hasta all胤, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 4][f 3 1 1 0 0 0]Pero necesitamos a alguien capaz de pasar el[n]sistema de seguridad tambi姻n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 4][f 3 1 1 0 0 0]Pero necesitamos a alguien capaz de desactivar el sistema de seguridad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Har姻 esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Yo lo har姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 1 6][f 3 1 1 0 0 26058][f 6 1 2 0 0 6]斡Ni hablar! 夷Esperas un milagro acrob茨tico[n]de m胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 1 6][f 3 1 1 0 0 26058][f 6 1 2 0 0 6]斡Ni hablar! 夷Esperas un milagro acrob茨tico de m胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0]Mmm. Si necesitamos a alguien que pueda[n]moverse r茨pidamente y tambi姻n puede evitar[n]el sistema de seguridad...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 1][f 3 1 1 0 0 0]Mmm. Si necesitamos a alguien que pueda moverse r茨pido y tambi姻n pueda desactivar el sistema de seguridad...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 15 0 0 1][f 3 1 1 0 0 0]Lo har姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15068]Understood. Har姻 esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 15068]Entendido. Lo har姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 12 1 1][f 3 1 1 0 0 21045][f 6 1 2 0 0 4]斡No te preocupes por si Joker est茨 en ello![n]夷Te gusta ir, hermano?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 12 1 1][f 3 1 1 0 0 21045][f 6 1 2 0 0 4]Oh, no hay de qu姻 preocuparse si Joker se encarga. 夷Est茨s listo, amigo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 1][f 3 1 1 0 0 0]Espera...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]S吋lo para prepararse para un escenario peor,[n]夷no ser胤a mejor que nuestro l胤der se[n]quedara atr茨s para esta operaci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Si ocurre lo peor, 夷no ser胤a mejor que nuestro líder se quedara atr茨s con nosotros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Then, Har姻 esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]De acuerdo, yo me encargo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 6][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]... 夷Seguro, Aigis?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 6][f 1 5][f 6 1 17 0 0 0][n][f 3 1 1 0 0 0]... 夷Segura, Aigis?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 15029]Si tuviera que acceder directamente a la[n]terminal, pasar el protocolo de seguridad[n]ser茨 una brisa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso si eso fuera una imposibilidad, el[n]programa de seguridad deber胤a cesar si[n]disparo bastante al terminal.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 15029]Si lograra acceder directamente al terminal, saltarse el protocolo de seguridad ser胤a "pan comido".[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Incluso si eso fuera imposible, el programa de seguridad deber胤a detenerse si disparo lo suficiente a la terminal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Es un buen punto. 斡Mi voto es por Aigis![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 26 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, Joker, 夷dir胤a?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Es un buen punto. 斡Yo voto por Aigis![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, Joker, 夷qu姻 dices?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_046 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Tienes raz吋n.[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]Ten cuidado, Aigis.[f 2 7 1 20 0 32][e]
 
 [msg MSG_047 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 15069]Entiendo. Ahora, debo pedirles que se muevan[n]a la posici吋n para que podamos comenzar[n]la operaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 1 0 0 15069]Entiendo. Ahora debo hacer, es pedirles que se coloquen en posici吋n para poder iniciar la operación.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]Vale. Todo lo que tenemos que hacer es caminar[n]all胤 al mismo tiempo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0][n][f 3 1 1 0 0 0]De acuerdo. 夷Todo lo que tenemos que hacer es pasar por all胤 al mismo tiempo, verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Oye, si algo sale mal, cualquier cosa...[n]aseg雨rate de correr por ello, 夷de acuerdo?[n]斡Atacar ser茨 nuestro 雨ltimo recurso![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Oye, si algo sale mal, cualquier cosa... aseg雨rense de correr, 夷de acuerdo? 斡Atacar ser茨 nuestro último recurso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 0]Entonces, aqu胤 va. Por favor, trabaje...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Entonces, aqu胤 vamos. Por favor, funciona...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Sistema De Seguridad]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]SILENCIO. IW. MODEL NUMBER...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]...ERROR. UNITS ASSIGNED DUPLICATE MODEL[n]NUMBERS. BUSCANDO UN PRODUCTO APROPIADO...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TIPO DE UNIDAD VERIFICADA... IW. N郁MERO DE MODELO...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]...ERROR. N郁MEROS DE MODELO DUPLICADOS. BUSCANDO EL PROCEDIMIENTO ADECUADO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Sistema De Seguridad]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ERROR CR緯TICO. ERROR. ERROR. ERROR ERROR[n]ERROR ERROR ERROR ERROR[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]ERROR CR緯TICO. ERROR. ERROR. ERROR ERROR ERROR ERROR...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 26106][f 6 1 2 0 0 1]斡Ah胤 va, ya![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 26106][f 6 1 2 0 0 1]斡Aqu胤 vamos!... ¡Ahora![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 4 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Me voy![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 4 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Voy![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]He llegado - ahora desactivando el sistema[n]de seguridad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 12 0 1][f 3 1 1 0 0 0]Bien... ahora desactivar姻 el sistema de seguridad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 0 3][f 3 1 1 0 0 26043][f 6 1 2 0 0 1]斡S胤! 斡Lo hicimos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 0 3][f 3 1 1 0 0 26043][f 6 1 2 0 0 1]斡S胤! ¡Lo hicimos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 6][f 1 5][f 6 1 17 0 0 0]　[n][f 3 1 1 0 0 0]Bueno... Parece que result吋 muy bien. Eso[n]fue un poco aterrador, sin embargo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 6][f 1 5][f 6 1 17 0 0 0][n][f 3 1 1 0 0 0]Bueno... Parece que result吋 bien. Aunque fue un poco aterrador.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]La buena noticia es que podemos seguir adelante[n]ahora![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡La buena noticia es que podemos seguir adelante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 6 0 3][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19033]畏l y yo somos errores, 夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 6 0 3][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19033]畏l y yo somos errores, 夷eh?...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 27 0 0 0]- 夷qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 27 0 0 0], 夷qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　[n][f 3 1 1 0 0 19018]Hm? 斡No, no es nada![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 3 1 1 0 0 0]斡M茨s importante, eras tan r茨pido! 斡Eso es lo[n]que s姻![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19018]夷Mm? Oh, 斡N-No es nada![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 3 1 1 0 0 0]斡M茨s importante, que rápida fuiste! ¡Esa es la Aigis que conozco![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 0]S胤, la operaci吋n tuvo 姻xito. No hay[n]complicaciones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 2 0 0][f 3 1 1 0 0 0]S胤, la operaci吋n fue un 姻xito. Sin complicaciones.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 4][f 3 1 1 0 0 14618]斡Tengan cuidado de avanzar![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 4][f 3 1 1 0 0 14618]斡Bien, tengan mucho cuidado adelante![n][f 1 3 65535][f 1 1][e]
 

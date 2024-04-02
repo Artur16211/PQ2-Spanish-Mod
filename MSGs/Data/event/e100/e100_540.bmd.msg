@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 82 0 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ngh... 斡Nnnnghhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Amigo, 夷pero qu姻 demonios!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷斡Pero qu姻 demonios!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Todos, tengan cuidado![n][f 1 3 65535][f 1 1][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6][f 6 1 3 0 0 1]Nggh... 斡Gggghhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷Est茨... sufriendo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? ¿Est茨... sufriendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 4 1 0][f 3 1 1 0 0 0]No me digas que va a atacarnos... 斡No podremos defendernos aqu胤![n][f 1 3 65535][f 1 1][e]
@@ -55,13 +55,13 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 0]Ah... Nnh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]夷Hikari? 夷Est茨s bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]夷Hikari? ¿Est茨s bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]T-Tranquila... 斡E-Estamos aqu胤 contigo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Doe]]
-[f 0 5 65278][f 2 1][f 4 6 82 4 1 0][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Gggggghhhhhhhhh! 斡Gggggghhhhhhhh![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 82 4 1 0][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Gggggghhhhhhhhh! ¡Gggggghhhhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]E-Eh, 夷est茨 a punto de explotar?[n][f 1 3 65535][f 1 1][e]
@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 71 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Est茨... bien ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 1 6][f 3 1 1 0 0 0]Oye, mira... Doe dej吋 algo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 1 6][f 3 1 1 0 0 0]Oye, mira... Doe solt吋 algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷Mmm? Eso es...[n][f 1 3 65535][f 1 1][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 3][f 3 1 1 0 0 0]斡Oye, Doe! 斡Resp吋ndenos, idiota![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 3][f 3 1 1 0 0 0]斡Oye, Doe! ¡Resp吋ndenos, idiota![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Doe]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
@@ -116,13 +116,13 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 0 0 1][f 3 1 1 0 0 0]Ahora que lo mencionas, parece que esta llave y una de las cerraduras de la salida podr胤an coincidir.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Pero, 夷es seguro usarla? 夷Y si explota cuando la tocamos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 12 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Pero, 夷es seguro usarla? ¿Y si explota cuando la tocamos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 4][f 4 6 74 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Y eso no te hace querer intentarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Ah! 夷Qui姻nes son ellos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡Ah! 夷¡Qui姻nes son ellos!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 0]Bueno, la versi吋n resumida es: son la Brigada Azul.[n][f 1 3 65535][f 1 1][e]
@@ -135,8 +135,8 @@
 [f 0 5 65278][f 2 1][f 4 6 80 2 0 0][f 3 1 1 0 0 0]Ah, 夷te intriga este disfraz? Me ordenaron usarlo como parte del ritual de "la gran inauguraci吋n", as胤 que...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]AHORA, 夷cu茨l ser茨?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Probar茨s la llave... o no? 夷斡Cu茨l es tu decisi吋n!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]AHORA, 夷cu茨l será?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Probar茨s la llave... o no? ¿斡Cuál es tu decisi吋n!?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_045 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Prob姻mosla.[f 2 7 1 64 2 32][e]

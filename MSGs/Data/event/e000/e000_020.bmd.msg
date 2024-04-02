@@ -1,8 +1,8 @@
 ﻿[msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 41 7 0 3][f 4 6 65 0 1 1][f 3 1 1 0 0 1]斡Otro d胤a de clase completado! 斡Hombre, fue un infierno![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 41 7 0 3][f 4 6 65 0 1 1][f 3 1 1 0 0 1]斡Otro d胤a de clase completado! ¡Hombre, fue un infierno![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 2 1 0][f 3 1 1 0 0 2]*bostezo* Tengo mucho sue隠o...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 2 1 0][f 3 1 1 0 0 2]*Bostezo* Tengo mucho sue隠o...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 41 0 0 0][f 3 1 1 0 0 3]斡Vamos Ryuji, contr吋late! No te pongas perezoso ahora.[n][f 1 3 65535][f 1 1][e]
@@ -16,7 +16,7 @@
 
 [msg MSG_005 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 7]斡C茨llate! Entonces, 夷qu姻 hacemos ahora?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 8]La fecha limite a雨n est茨 lejos, pero 夷a qui姻n le importa? 斡reun茨monos todos en el escondite![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 8]La fecha l胤mite a雨n est茨 lejos, pero 夷a qui姻n le importa? 斡Reunámonos todos en el escondite![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1]Ese es el plan.[f 2 7 1 41 8 0][e]
@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 15]斡Justo a tiempo! Est茨bamos hablando de ir al escondite.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Haru]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 6][f 3 1 1 0 0 16]Bueno, estoy libre por el resto del d胤a. Tengo m茨s tiempo libre ahora que las cosas se han calmado en la compa隠ia.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 6][f 3 1 1 0 0 16]Bueno, estoy libre por el resto del d胤a. Tengo m茨s tiempo libre ahora que las cosas se han calmado en la compa隠ía.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 41 2 0 0][f 3 1 1 0 0 17]Ryuji, env胤a mensaje a todos.[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 2 0][f 3 1 1 0 0 18]斡Bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 19]"Reun茨monos todos en el escondite..."[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 19]"Vamos a reunirnos en el escondite..."[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 2 0][f 6 1 2 0 0 6][f 3 1 1 0 0 20]斡Maldici吋n, eso fue r茨pido![n][f 1 3 65535][f 1 1][e]

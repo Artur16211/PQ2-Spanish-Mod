@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1]De Persona Q: Shadow of the Labyrinth[n][e]
 
 [msg MSG_BGM_011]
-[f 0 5 65278][f 2 1]De Persona 5 Royal[n][e]
+[f 0 5 65278][f 2 1]De Persona 5[n][e]
 
 [msg MSG_BGM_012]
 [f 0 5 65278][f 2 1]De Persona 5[n][e]

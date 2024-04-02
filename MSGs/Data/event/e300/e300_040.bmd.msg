@@ -15,26 +15,26 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 24076]S胤, creo que he visto algo asi antes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19065]斡Esperen! 斡Eso es un Evocador![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19065]斡Esperen! ¡Es un Evocador![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21019][f 6 1 2 0 0 4]夷Te refieres a esa cosa con la que invocas Personas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 4 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]S胤, 夷ven c吋mo tiene grabado 'SEES' en ella?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]La m胤a est茨 aqu胤 conmigo, 斡as胤 que esta puede ser la de uno de mis compa隠eros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]La m胤a est茨 aquí conmigo, 斡así que esta puede ser la de uno de mis compa隠eros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 0][f 3 1 1 0 0 22058][f 6 1 2 0 0 0]Espera, 夷斡significa que tus amigos realmente est茨n en esta pel胤cula!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19008]Probablemente. No s姻 de qui姻n es este Evocador, pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19008]Probablemente. No s姻 de quién es este Evocador, pero...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 3081][f 6 1 2 0 0 4]Bueno, si la necesitan para invocar personas, 夷no es malo que no la tengan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Tal vez la perdieron despu姻s de ser atacados.[n]Espero que todos est姻n bien...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Tal vez la perdieron despu姻s de ser atacados. Espero que todos estén bien...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3][f 4 6 4 12 0 6][f 3 1 1 0 0 4012][f 6 1 2 0 0 4]斡No te preocupes! 夷Recuerdas que Yosuke result吋 estar bien?[n][f 1 3 65535][f 1 1][e]
@@ -52,8 +52,8 @@
 
 [msg MSG_016 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Oh, chicos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 3 1 1 0 0 19024][f 6 1 2 0 0 6]斡Muchas gracias! 斡Y tienen raz吋n, debemos seguir movi姻ndonos por ahora![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 3 1 1 0 0 19024][f 6 1 2 0 0 6]斡Muchas gracias! ¡Y tienen raz吋n, debemos seguir movi姻ndonos por ahora![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1071]Estoy seguro de que tus compa隠eros tambi姻n[n]te est茨n buscando. Vamos a reunirte con[n]ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1071]Estoy seguro de que tus compa隠eros tambi姻n te est茨n buscando. Vamos a reunirte con ellos.[n][f 1 3 65535][f 1 1][e]
 

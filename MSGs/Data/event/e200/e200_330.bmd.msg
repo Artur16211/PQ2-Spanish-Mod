@@ -2,29 +2,29 @@
 [f 0 5 65278][f 2 1][f 4 6 22 10 1 1][f 3 1 1 0 0 22011][f 6 1 2 0 0 4]Entonces... incluso si encontramos a esos herb胤voros nuevamente, 夷nos servir茨 de algo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]夷De verdad van a escuchar lo que tenemos que decir?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]夷De verdad van a escuchar lo que tenemos que decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0]S胤, parec胤an muy enojados con nosotros. Incluso nos echaron de su grupo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 2 1 0][f 3 1 1 0 0 0]S胤, parecían muy enojados con nosotros. Incluso nos echaron de su grupo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 0][f 3 1 1 0 0 8016]Creen que la regla de la mayor胤a los ha mantenido vivos en este mundo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003_5 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 0]Puedo entender por qu姻 no pudieron perdonarnos despu姻s de tomar sus m姻todos de supervivencia tan a la ligera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 0 1 0][f 3 1 1 0 0 0]Puedo entender por qu姻 no pudieron perdonarnos después de tomar sus métodos de supervivencia tan a la ligera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 1][f 3 1 1 0 0 0]Pero, si vamos a cambiar esta pel胤cula...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No ser茨 imposible a menos que cambiemos ese pensamiento?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4104]夷C吋mo vamos a hacer eso? 夷Deber胤amos preparar unos ricos filetes para intentar convencerlos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 0][f 3 1 1 0 0 4104]夷C吋mo vamos a hacer eso? ¿Deber胤amos preparar unos ricos filetes para intentar convencerlos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Eso solo funcionar胤a contigo, Chie. 斡Esos tipos son herb胤voros![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Eso solo funcionar胤a contigo, Chie. 斡Esos tipos son herbívoros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 0]No parec胤an f茨ciles de convencer. Necesitamos una manera de cambiar sus mentes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]No parec胤an f茨ciles de convencer. Necesitamos una manera de cambiar sus mentes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 24 4 1 3][f 3 1 1 0 0 24017][f 6 1 2 0 0 4]Esos dinosaurios son el misterio... 夷Por qu姻 est茨n tan negados a pensar en alguna alternativa?[n][f 1 3 65535][f 1 1][e]
@@ -48,14 +48,14 @@
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0]Bueno, supongo que prefieren seguir la corriente. Tienen miedo de contradecir a los dem茨s y destacar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]Es verdad, tener que seguir a la multitud, tener expectativas y etiquetas impuestas sobre ti...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Es verdad, tener que seguir a la multitud, tener expectativas y etiquetas impuestas sobre ti...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Resistir ese tipo de cosas te agota mucho y realmente te golpea con el tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 7012][f 6 1 2 0 0 3]Ohhh, te entiendo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Seguir la corriente es m茨s f茨cil, y no tienes que asumir la responsabilidad de ning雨n resultado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Seguir la corriente es m茨s fácil, y no tienes que asumir la responsabilidad de ning雨n resultado.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ese tambi姻n fue el enfoque a resolver en la pel胤cula anterior.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Naoto]]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La diversidad debe ser m茨s valorada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 0 1 3][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 0]S胤, todos somos compa隠eros, pero cada uno tiene una manera diferente de pensar y sentir...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 0 1 3][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]S胤, todos somos compa隠eros, pero cada uno tiene una manera diferente de pensar y sentir...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero, si todos lo discutimos, s姻 que podemos llegar a la mejor soluci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yosuke]]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Creo que, en el fondo, 姻l realmente no quer胤a echarnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0]　　[n][f 3 1 1 0 0 0]S胤, definitivamente estaba indeciso. Al final, parec胤a que ten胤a que convencerse a s胤 mismo de seguir la corriente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]S胤, definitivamente estaba indeciso. Al final, parecía que tenía que convencerse a sí mismo de seguir la corriente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 0 1 1][f 3 1 1 0 0 0]As胤 que no tuvo el valor de dar ese peque隠o paso...[n][f 1 3 65535][f 1 1][e]

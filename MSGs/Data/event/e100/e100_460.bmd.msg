@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡TRES...[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_011]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷Eh? 夷Qu姻 es todo esto?[n][f 1 2 80][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]夷斡Eh!? ¿¡Qu姻 es todo esto!?[n][f 1 2 80][f 1 1][e]
 
 [msg MSG_012]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Un apag吋n?[n][f 1 2 60][f 1 1][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Es parte del espect茨culo?[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_014]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Enciendan la energ胤a de respaldo! 斡Mu姻vanse![n][f 1 2 80][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Enciendan la energ胤a de respaldo! ¡Mu姻vanse![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_015]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷斡Qu姻!?[n][f 1 2 60][f 1 1][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Como bien saben, mi justicia me hace invencible.[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_016_2]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡JAJAJA![n][f 1 2 80][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡JA, JA, JA![n][f 1 2 80][f 1 1][e]
 
 [msg MSG_017]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Kamoshidaman, 斡hay un trozo de papel en su espalda![n][f 1 2 150][f 1 1][e]

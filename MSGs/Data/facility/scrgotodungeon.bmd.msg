@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 17002]斡Guau, guau![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_BEST_17_2 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 17014]斡Arf! 斡Auuuu![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 2 0 0][f 3 1 1 0 0 17014]斡Guau! 斡Auuuu![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_BEST_18_1 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 2 0 0][f 3 1 1 0 0 18008]Oye, 夷te importa si me uno? No te arrepentir茨s.[n][f 1 3 65535][f 1 1][e]

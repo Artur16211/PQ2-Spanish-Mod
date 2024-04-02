@@ -1,8 +1,8 @@
 [msg MSG_000 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 0]斡Bien! 夷斡Soy yo o cambiamos todo!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 0]斡Bien! 夷¡Soy yo o cambiamos todo!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Rise]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 6 2 0 0][f 3 1 1 0 0 2]斡Seguro que s胤! 斡Todos ten胤an sonrisas tan felices al final![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 6 2 0 0][f 3 1 1 0 0 2]斡Seguro que s胤! ¡Todos tenían sonrisas tan felices al final![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 12 0 1][f 3 1 1 0 0 3]Bienvenidos.[n][f 1 3 65535][f 1 1][e]
@@ -43,11 +43,11 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16]Todos los dem茨s estaban en contra, pero... 姻l reuni吋 el valor para hacerlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 14 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 4]夷Te refieres al Yosukesaurio, 夷verdad? 夷Y? 夷Y?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 14 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 4]夷Te refieres al Yosukesaurio, ¿verdad? ¿Y? ¿Y?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 18]Y luego, los otros herb胤voros estaban realmente asustados... pero tambi姻n encontraron el coraje.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]Actu吋 seg雨n lo que realmente sent胤a... pero no se qued吋 solo con eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19]Actu吋 seg雨n lo que realmente sent胤a... pero no se quedó solo con eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 20]Eso es porque los amigos pueden decir lo que realmente sienten, 夷verdad, compa隠ero?[n][f 1 3 65535][f 1 1][e]
@@ -64,7 +64,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 25]Hikari, 夷me llamaste por mi nombre?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 18 2 1][f 3 1 1 0 0 26]Al igual que con la pel胤cula anterior, el final al que guiaste esta pel胤cula fue simplemente magn胤fico.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 84 18 2 1][f 3 1 1 0 0 26]Al igual que con la pel胤cula anterior, el final al que guiaste esta película fue simplemente magnífico.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]夷Tambi姻n lo crees, Nagi?[n][f 1 3 65535][f 1 1][e]
@@ -102,7 +102,7 @@
 [f 0 5 65278][f 2 1][f 4 6 82 1 0 1][f 3 1 1 0 0 40]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 41][f 6 1 2 0 0 0]斡Aaaaaaah! 斡me sorprendiste![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 41][f 6 1 2 0 0 0]斡Aaaaaaah! ¡me sorprendiste![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 42]Doe...[n][f 1 3 65535][f 1 1][e]
@@ -126,7 +126,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 3 1 1 0 0 48][f 6 1 1 0 0 1][f 6 1 2 0 0 6][f 6 1 3 0 0 1]Ngh... 斡Nghhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 3][f 3 1 1 0 0 49][f 6 1 2 0 0 0]夷Qu姻...! Me hablaste de esto, 夷斡pero realmente acaba de salir una llave de sus ojos!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 3][f 3 1 1 0 0 49][f 6 1 2 0 0 0]夷斡Qu姻...?! Me hablaste de esto, ¿¡pero realmente acaba de salir una llave de sus ojos!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 50][f 6 1 2 0 0 4]夷Podr胤a ser una llave para la puerta principal?[n][f 1 3 65535][f 1 1][e]

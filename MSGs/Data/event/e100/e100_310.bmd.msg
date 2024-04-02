@@ -8,37 +8,37 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 3 0 0 1]Estoy sobrellev茨ndolo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 2 0][f 3 1 1 0 0 4][f 6 1 2 0 0 4]夷D吋nde estamos? 夷Es esto Mementos?[n]O, 夷podr胤a ser un Palacio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 2 0][f 3 1 1 0 0 4][f 6 1 2 0 0 4]夷D吋nde estamos? ¿Esto es Mementos? O, ¿podr胤a ser un Palacio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 3 0 0 1]No estoy segura... Nuestra informaci吋n es muy limitada, tanto sobre Kamoshidaman como de este lugar.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 3 0 0 1]La pr吋xima vez que aparezca, necesito intentar obtener la mayor cantidad de informaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6][f 6 1 3 0 0 1]La pr吋xima vez que aparezca, necesito intentar obtener la mayor cantidad de información.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 32 6 2 1][f 3 1 1 0 0 7][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡JA JA JA JA![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 8]夷De qu姻 est茨n hablando? 夷Han decidido finalmente confesar sus delitos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 8]夷De qu姻 est茨n hablando? ¿Han decidido finalmente confesar sus delitos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Hablando del diablo... Voy a preguntar una[n]vez m茨s: 夷d吋nde estamos? 夷Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 9][f 6 1 2 0 0 4]Hablando del diablo... Voy a preguntar una vez m茨s: 夷d吋nde estamos? ¿Qui姻n eres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 0 1 0][f 3 1 1 0 0 10][f 6 1 2 0 0 2]夷Todav胤a est茨s atontada por tu peque隠a siesta? 斡No me hagas decir lo obvio![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 32 2 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]Esta es mi ciudad, KamoCiudad, y yo soy el h姻roe reinante de la justicia absoluta: 斡Kamoshidaman![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]夷Kamoshidaman? 夷No es Suguru Kamoshida, el antiguo profesor del Instituto Shujin?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 12][f 6 1 2 0 0 4]夷Kamoshidaman? ¿No es Suguru Kamoshida, el antiguo profesor del Instituto Shujin?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Instituto Shujin? 夷Ex profesor? 夷De qu姻[n]est茨s hablando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 4]夷Instituto Shujin? ¿Ex profesor? ¿De qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 2 6][f 3 1 1 0 0 14]Considerabas la escuela tu propio castillo y hac胤as lo que quer胤as...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 2 6][f 3 1 1 0 0 14]Considerabas la escuela tu propio castillo y hac胤as lo que querías...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 8 1 0][f 3 1 1 0 0 15]夷Un castillo? Miren a estas dos, diciendo a雨n m茨s tonter胤as. 斡Ya he tenido suficiente de este disparate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Makoto]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 3 0 0 3]Justo como pensaba, parece Kamoshida, pero[n]es una persona totalmente diferente...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16][f 6 1 3 0 0 3]Justo como pensaba, parece Kamoshida, pero es una persona totalmente diferente...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 17]M茨s importante a雨n, tengo noticias para ustedes: los detalles de su castigo han sido decididos.[n][f 1 3 65535][f 1 1][e]
@@ -56,20 +56,20 @@
 
 [msg MSG_017 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 23]斡JA JA JA! Malvado o justo, soy yo quien toma la decisi吋n. Esa es mi responsabilidad como el l胤der de Ciudad Kamo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Si no gu胤o a los ciudadanos, esta ciudad se[n]hundir茨 en el caos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24]Si no gu胤o a los ciudadanos, esta ciudad se hundir茨 en el caos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25]夷No los puedes escuchar... las voces de la gente anhelando la paz?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Mujer Curiosa]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26][f 6 1 9 0 0 1]夷Esas dos... son las malvadas que amenazan Ciudad Kamo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Hombre Descarado]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27][f 6 1 9 0 0 1]斡Eso es lo que dijo Kamoshidaman, as胤 que[n]tiene que ser verdad![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27][f 6 1 9 0 0 1]斡Eso es lo que dijo Kamoshidaman, as胤 que tiene que ser verdad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Mujer Cansada]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28][f 6 1 9 0 0 1]S胤... Todo lo que tenemos que hacer es escuchar[n]lo que diga Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28][f 6 1 9 0 0 1]S胤... Todo lo que tenemos que hacer es escuchar lo que diga Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hombre Agitado]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 29][f 6 1 9 0 0 1]斡Cualquiera que desaf胤e a Kamoshidaman es malvado! 斡Eso es lo que todos dicen![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 29][f 6 1 9 0 0 1]斡Cualquiera que desaf胤e a Kamoshidaman es malvado! ¡Eso es lo que todos dicen![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 27 1 2 6][f 4 6 25 1 3 3][f 4 6 32 6 2 1][f 3 1 1 0 0 30]斡JA JA JA! 夷Ahora lo entienden?[n][f 1 3 65535][f 1 1][e]
@@ -79,30 +79,30 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 3 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]La gente en esta ciudad est茨 siendo controlada por ti, no creen en lo que dices.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 4 1 0][f 3 1 1 0 0 33]斡Quien tiene el poder decide las reglas![n]斡desafiar ese poder es una tonter胤a![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 4 1 0][f 3 1 1 0 0 33]斡Quien tiene el poder decide las reglas! ¡Desafiar mi poder es una tonter胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024_5 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 34]斡Deber胤an sentirse honradas de ser castigadas por m胤, el h姻roe de la justicia absoluta! 斡JA JA JA![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 34]斡Deber胤an sentirse honradas de ser castigadas por mí, el h姻roe de la justicia absoluta! ¡JA JA JA![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 6 2 0][f 3 1 1 0 0 35][f 6 1 2 0 0 2]Entonces eres quien decide lo que es bueno y malo, solo porque tienes el poder. 斡Eso no es correcto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 2 3 0][f 3 1 1 0 0 36]斡No te dejaremos hacer lo que quieras con[n]nosotras! Estoy segura de que Joker y los[n]otros...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 2 3 0][f 3 1 1 0 0 36]斡No te dejaremos hacer lo que quieras con nosotras! Estoy segura de que Joker y los otros...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 8 1 0][f 3 1 1 0 0 37]Ni siquiera una disculpa,[n]夷eh? Parece que a雨n no est茨s arrepentida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 8 1 0][f 3 1 1 0 0 37]Ni siquiera una disculpa, 夷eh? Parece que a雨n no est茨s arrepentida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 38][f 6 1 2 0 0 5]Bueno, entonces, arrod胤llate y suplica ante todos los ciudadanos y tal vez te perdone.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 12 0 0][f 3 1 1 0 0 38][f 6 1 2 0 0 5]Bueno, entonces, arrod胤llate y s雨plica ante todos los ciudadanos y tal vez te perdone.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Haru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 2][f 6 1 3 0 0 3]斡Nunca har胤a tal cosa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Kamoshidaman]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 6 1 3 0 0 1]Qu姻 tonto es desafiar a los fuertes, y lo[n]justo que es obedecer al gobernante...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 6 1 3 0 0 1]Qu姻 tonto es desafiar a los fuertes, y lo justo que es obedecer al gobernante...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 3 0 0 1]Ser茨s una excelente oportunidad para recordarles a los ciudadanos estos hechos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 42]Retrasemos la ejecuci吋n un poco m茨s. 斡Reflexiona sobre tus acciones hasta entonces! 斡JA JA JA![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 32 6 2 0][f 3 1 1 0 0 42]Retrasemos la ejecuci吋n un poco m茨s. 斡Reflexiona sobre tus acciones hasta entonces! ¡JA JA JA![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 10 1 0][f 3 1 1 0 0 43]Vigila bien a estas dos. 斡Est茨n empe隠adas en destruir la paz de mi ciudad![n][f 1 3 65535][f 1 1][e]
@@ -124,11 +124,11 @@
 [f 0 5 65278][f 2 1][f 4 6 25 4 3 0][f 3 1 1 0 0 49]Ahora que lo mencionas, ese disfraz... Era como una versi吋n m茨s tosca del traje de Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Polic胤a Gordo]]
-[f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 50]Mmm. No importa cu茨nto resistas, nunca le[n]ganar茨s a Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 51][f 6 1 2 0 0 6]斡Mientras todav胤a tengamos "eso" aqu胤, Kamoshidaman es invencible![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 50]Mmm. No importa cu茨nto resistas, nunca le ganarás a Kamoshidaman.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 51][f 6 1 2 0 0 6]斡Mientras todav胤a tengamos "eso" aquí, Kamoshidaman es invencible![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 25 1 3 0][f 3 1 1 0 0 52][f 6 1 2 0 0 4]夷"Eso"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 1 3 0][f 3 1 1 0 0 52][f 6 1 2 0 0 4]...夷"Eso"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Polic胤a Gordo]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 53][f 6 1 3 0 0 1]Pero nuevamente, Kamoshidaman te ha juzgado como malvada, as胤 que no hay escapatoria de tu castigo...[n][f 1 3 65535][f 1 1][e]
@@ -140,5 +140,5 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 3 0 0 3]Si es invencible mientras tenga "eso"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Makoto]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 25 4 3 0][f 3 1 1 0 0 56]Entonces deber胤a ser cierto: puede ser da隠ado una vez que "eso" desaparezca. Pero, 夷qu姻 podr胤a ser?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 3][f 4 6 25 4 3 0][f 3 1 1 0 0 56]Entonces deber胤a ser cierto: puede ser da隠ado una vez que "eso" desaparezca. Pero, 夷qu姻 podría ser?[n][f 1 3 65535][f 1 1][e]
 

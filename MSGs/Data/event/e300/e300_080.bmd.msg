@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 6]斡No bromeaban con que era un cine![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chica Animada]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 2]Es dif胤cil de creer... Realmente est茨bamos dentro de una pel胤cula todo el tiempo, 夷eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 2]Es dif胤cil de creer... Realmente est茨bamos dentro de una película todo el tiempo, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chica Bien Vestida]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 6][f 3 1 1 0 0 3]Cielos. 夷Qu姻 es todo este alboroto?[n][f 1 3 65535][f 1 1][e]
@@ -23,7 +23,7 @@
 [msg MSG_006 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 4][f 4 6 84 2 2 1][f 3 1 1 0 0 11]Es un placer conocerte. Me llamo Nagi.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Como acaba de mencionar, todos aqu胤 estamos en las mismas circunstancias...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Yo tambi姻n har姻 lo que pueda para ayudarte, as胤 que por favor no duden en avisarme si necesitan algo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13]Yo tambi姻n haré lo que pueda para ayudarte, as胤 que por favor no duden en avisarme si necesitan algo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chica Bien Vestida]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 14]Gracias. Me disculpo, pero estamos muy agradecidos por su ayuda.[n][f 1 3 65535][f 1 1][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 26]No, eso es muy poco probable. Este lugar es diferente de Palacios o Mementos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 27][f 6 1 2 0 0 3]Hrgh, estoy totalmente perdida ahora. 夷Qu姻 significa todo esto en t姻rminos b茨sicos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 27][f 6 1 2 0 0 3]Hrgh, estoy totalmente perdida ahora. 夷Qu姻 significa todo esto en términos b茨sicos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 12 3 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 28][f 6 1 2 0 0 6]Bueno... Esto es un dilema. Como dir胤a Junpei, '斡Esto suena como un caso que ni siquiera un Superdetective como yo puede resolver![n][f 1 3 65535][f 1 1][e]
@@ -73,14 +73,14 @@
 [f 0 5 65278][f 2 1]Eso es bastante pat姻tico...[f 2 7 1 64 0 32][e]
 
 [msg MSG_021 [Chica Animada]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 30]No te preocupes por 姻l. Solo es una gran p姻rdida de tiempo y energ胤a para nada.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 30]No te preocupes por 姻l. Solo es una gran pérdida de tiempo y energ胤a para nada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Chico Con Gorra De B姻isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 31]Escucha, es una frase m茨s 雨til ahora que nunca.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 1 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]Eres un aguafiestas... ni siquiera un Superdetective como yo podr胤a entenderte, 斡Yuka![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Chico Con Gorra De B姻isbol]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 33][f 6 1 2 0 0 0]斡No... No me digas que t雨 tambi姻n eres un aguafiestas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 33][f 6 1 2 0 0 0]斡No… No me digas que t雨 tambi姻n eres aguafiestas![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 1 0][f 3 1 1 0 0 34][f 6 1 2 0 0 6]De un desplante al siguiente... 斡Ni siquiera un Superdetective como yo podr胤a entenderte![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Chica Animada]]
@@ -96,14 +96,14 @@
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 38]Lo siento... Realmente estoy tratando de recordar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Perro]]
-[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 39]*quejido*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 39]*Quejido*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Chico Con Gorra De B姻isbol]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 11 6 0 3][f 3 1 1 0 0 40][f 6 1 2 0 0 9]Lo siento... Realmente no s姻 qu姻 decir. Incluso se tomaron la molestia de salvarnos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 11 6 0 3][f 3 1 1 0 0 40][f 6 1 2 0 0 9]Lo siento... Realmente no s姻 qué decir. Incluso se tomaron la molestia de salvarnos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 41][f 6 1 2 0 0 6]斡Oh no, est茨 bien! 斡No te preocupes por eso! Quiero decir, 斡todo en este lugar parece estar realmente loco![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 42][f 6 1 2 0 0 4]Quiero decir. Hemos ayudado a un dinosaurio con una cabeza humana extra隠a, y incluso hay un gato parlante aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 41][f 6 1 2 0 0 6]斡Oh no, est茨 bien! ¡No te preocupes por eso! Quiero decir, ¡todo en este lugar parece estar realmente loco![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 42][f 6 1 2 0 0 4]Quiero decir. Hemos ayudado a un dinosaurio con una cabeza humana extra隠a, e incluso hay un gato parlante aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 43][f 6 1 2 0 0 0]夷斡Qu姻 quieres decir con una cabeza extra隠a!?[n][f 1 3 65535][f 1 1][e]
@@ -117,17 +117,17 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Quiero decir, no puedo explicar por qu姻, y se supone que esta es la primera vez que nos vemos, pero aun as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Perro]]
-[f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 48][f 6 1 2 0 0 6]斡Arf![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 48][f 6 1 2 0 0 6]斡Guau![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Ni隠o Sombr胤o]]
-[f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 49][f 6 1 2 0 0 6]斡Mira! 斡Incluso Koromaru est茨 de acuerdo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 49][f 6 1 2 0 0 6]斡Mira! ¡Incluso Koromaru est茨 de acuerdo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 50][f 6 1 2 0 0 7]Haha... Gracias. Ken, Koromaru.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 50][f 6 1 2 0 0 7]Ja, ja... Gracias. Ken, Koromaru.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Chico Con Gorro]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 18 0 0 0][f 3 1 1 0 0 51]Bueno, no te dejes que te afecte demasiado.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 52]Morder m茨s de lo que puedes masticar solo te agotar茨. No tiene sentido apresurarse. Estoy seguro de que resolveremos todo esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 52]Morder m茨s de lo que puedes masticar solo te agotará. No tiene sentido apresurarse. Estoy seguro de que resolveremos todo esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 53][f 6 1 2 0 0 6]斡Shinjiro...![n][f 1 3 65535][f 1 1][e]
@@ -141,7 +141,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 57][f 6 1 2 0 0 1]S胤... Estoy segura de que todo se resolver茨. 斡Sigamos dando lo mejor de nosotros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 0 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 58][f 6 1 2 0 0 4]Por cierto, 夷c吋mo terminaron todos en este[n]mundo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 0 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 58][f 6 1 2 0 0 4]Por cierto, 夷c吋mo terminaron todos en este mundo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Chica Tranquila]]
 [f 0 5 65278][f 2 1][f 4 6 14 12 0 0][f 3 1 1 0 0 59]S胤... Bueno...[n][f 1 3 65535][f 1 1][e]

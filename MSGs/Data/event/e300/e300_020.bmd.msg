@@ -27,11 +27,11 @@
 [f 0 5 65278][f 2 1][f 4 6 84 4 2 0][f 3 1 1 0 0 64009][f 6 1 2 0 0 4]Hikari 夷qu姻 piensas sobre esta pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 0]Ese robot est茨 siendo tratado tan mal... todo por ser diferente... Incluso siendo llamado "el mal"...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 0]Ese robot est茨 siendo tan maltratado... solo por ser diferente... Incluso siendo llamado "el mal"...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si hubiera intentado ser como los dem茨s... 夷No habr胤a evitado todo ese problema?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 1][f 3 1 1 0 0 26135][f 6 1 2 0 0 0]夷Eh? 夷Realmente piensas eso, Hikari?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 1][f 3 1 1 0 0 26135][f 6 1 2 0 0 0]夷Eh? ¿Realmente piensas eso, Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 9040]Ohhh nooo... Todo el mundo tiene que ser igual...[n][f 1 3 65535][f 1 1][e]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1029]Teddie...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]El Maestro, Yosuke y todos los dem茨s son diferentes, y me gusta cada uno de ellos por qui姻n son...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]El Maestro, Yosuke y todos los dem茨s son diferentes, pero... me gusta cada uno de ellos por qui姻n son...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 0]Entonces... me pone triste pensar que deber胤an ser iguales. Waaaaah...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yosuke]]
@@ -50,48 +50,48 @@
 [msg MSG_015 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 81 6 2 0][f 3 1 1 0 0 61052]Yo, ah...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Yo siempre... Intente actuar normal y mezclarme con la sociedad...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siempre pens姻 eso... Hasta ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Siempre hab胤a pensado eso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 1][f 3 1 1 0 0 26135][f 6 1 2 0 0 4]夷Y ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 7 2 0][f 3 1 1 0 0 61055]Verlos a todos en esas pel胤culas... Me hizo sentir mal...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 0]Pero no estoy segura. No s姻 que pensar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 7 2 0][f 3 1 1 0 0 61055]Verlos cambiar esas pel胤culas... Me hizo sentir mal...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 0]Pero, no estoy segura. No s姻 qué pensar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 2 3 0][f 3 1 1 0 0 26031]Ah, ya veo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 2 0 1][f 3 1 1 0 0 4106][f 6 1 2 0 0 6]斡De todas formas! 斡Vamos a esa pel胤cula![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 2 0 1][f 3 1 1 0 0 4106][f 6 1 2 0 0 6]斡De todas formas! ¡Vamos a esa pel胤cula![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Cuanto antes la cambiemos, antes saldremos de aqu胤. 斡Es hora de corregir esa trama de mierda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0]斡S胤! Y, si despu姻s, Hikari podr胤a estar menos confundida.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 2 0 0][f 3 1 1 0 0 0]斡S胤! Y, si despu姻s, Hikari podría estar menos confundida.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 0 4 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19005]斡Esperen! Hay algo que deber胤an saber antes de que saltemos a la pel胤cula...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 0 4 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19005]斡Esperen! Hay algo que deber胤an saber antes de que saltemos a la película...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El robot principal del tr茨iler me pareci吋 familiar, y el t胤tulo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]夷Qu姻 quieres decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19113]Ese robot parec胤a una amiga m胤a... Su nombre es Aigis.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19113]Ese robot parec胤a una amiga mía... Su nombre es Aigis.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_024 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷No es tambi姻n el t胤tulo de la pel胤cula?[f 2 7 1 64 8 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷No es tambi姻n el t胤tulo de la película?[f 2 7 1 64 8 32][e]
 [f 0 5 65278][f 2 1]夷Eres amiga de un robot?[f 2 7 1 64 0 32][e]
 
 [msg MSG_025 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 4 1 0][f 3 1 1 0 0 27094][f 6 1 2 0 0 4]El trailer de la pel胤cula pronunci吋 el t胤tulo como "A-I-gis", pero 夷t雨 lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 4 1 0][f 3 1 1 0 0 27094][f 6 1 2 0 0 4]El tr茨iler de la pel胤cula pronunci吋 el título como "A-I-gis", pero 夷t雨 lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La parte de "AI" significa inteligencia artificial, pero 夷qu姻 significa "GIS"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Mmm, y el nombre de mi amiga se escribe de igual. No creo que sea una simple coincidencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 1 0 3][f 4 6 9 10 0 6][f 3 1 1 0 0 9046]斡No importa! 夷斡Eres amiga de un robot!? Apenas puedo creerlo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 1 0 3][f 4 6 9 10 0 6][f 3 1 1 0 0 9046]斡No importa! 夷¡Eres amiga de un robot!? Apenas puedo creerlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 1 3][f 3 1 1 0 0 23016]S胤, esto se est茨 volviendo realmente extra隠o.[n][f 1 3 65535][f 1 1][e]
@@ -109,14 +109,14 @@
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 3010][f 6 1 2 0 0 9]夷Realmente acabamos de decir eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 71 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]El trailer de la pel胤cula pronunci吋 el t胤tulo como "A-I-gis", pero 夷t雨 lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 71 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]El tr茨iler de la pel胤cula pronunci吋 el título como "A-I-gis", pero 夷t雨 lo pronunciaste como "AI-gis"?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La parte de "AI" significa inteligencia artificial, pero 夷qu姻 significa "GIS"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19068]Mmm, y el nombre de mi amiga se escribe de igual. No creo que sea una simple coincidencia.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19053]Es cierto que Aigis es un robot, pero no la considero diferente a mis otros amigos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19053]Es cierto que Aigis es una robot, pero no la considero diferente a mis otros amigos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 3 1 1 0 0 0]Ella tiene su propia identidad y forma de pensar. La tratamos como nuestra compa隠era, no solo como un robot.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Hikari]]
@@ -133,24 +133,24 @@
 [f 0 5 65278][f 2 1][f 4 6 66 0 1 0][f 3 1 1 0 0 22113][f 6 1 2 0 0 4]Bueno, tal vez a la tercera va la vencida y los compa隠eros de [f 6 1 27 0 0 0] est姻n en esta, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 4 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19099]夷斡T雨 tambi姻n lo crees!? 斡Entonces, apresur姻monos a encontrarlos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 4 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19099]夷斡T雨 tambi姻n lo crees!? ¡Entonces, apresurémonos a encontrarlos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 64009]Asi que van a cambiar la pel胤cula una vez m茨s...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 64009]As胤 que van a cambiar la película una vez m茨s...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 0]Si creen que est茨n en peligro, por favor vuelvan aqu胤 de inmediato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19129]斡Claro! 斡Vamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 18 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19129]斡Claro! ¡Vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 3][f 4 6 74 1 4 1][f 3 1 1 0 0 54014]...Theo. Tu invitada tiene tanta urgencia de reunirse con sus compa隠eros.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]En un momento como este... *masticar* *masticar* 夷Qu姻 crees que deber胤amos hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]En un momento como este... *Masticar* *Masticar* 夷Qu姻 crees que deber胤amos hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 6 0 0][f 3 1 1 0 0 0]Vigilarla. Eso es todo lo que podemos hacer...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 1 4 0][f 3 1 1 0 0 54016]Entonces... Centr姻monos en observar de cerca, con palomitas... *masticar*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 1 4 0][f 3 1 1 0 0 54016]Entonces... Centr姻monos en observar de cerca, con palomitas... *Masticar*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Hermana... 夷Podr胤as concentrarte en comer o hablar, y no hacer ambas cosas?[n][f 1 3 65535][f 1 1][e]

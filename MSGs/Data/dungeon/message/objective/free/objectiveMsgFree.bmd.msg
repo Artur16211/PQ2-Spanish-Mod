@@ -1,5 +1,5 @@
 [msg D01_OBJECTIVE_MSG_LARGE_]
-[f 0 5 65278][f 2 1]Huye de la polic胤a.[n][e]
+[f 0 5 65278][f 2 1]Escapa de la polic胤a.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__2]
 [f 0 5 65278][f 2 1]Salva a Makoto y Haru.[n][e]
@@ -8,16 +8,16 @@
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Apunta hacia las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Ve hacia las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__3]
 [f 0 5 65278][f 2 1]Esquiva al FOE para avanzar.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__4]
-[f 0 5 65278][f 2 1]Apunta hacia las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Ve hacia las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Contin雨a m茨s all茨 de las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Contin雨a m茨s allá de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__6]
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__11]
-[f 0 5 65278][f 2 1]Contin雨a m茨s all茨 de las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Contin雨a m茨s allá de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__12]
 [f 0 5 65278][f 2 1]Encuentra otra ruta hacia adelante.[n][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__15]
-[f 0 5 65278][f 2 1]Avanza m茨s all茨 de las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Avanza m茨s allá de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__3]
 [f 0 5 65278][f 2 1]Aprende c吋mo apagar las luces.[n][e]
@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1]Encuentra los dinosaurios del tr茨iler.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL_]
-[f 0 5 65278][f 2 1]Contin雨a hacia adelante.[n][e]
+[f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE__2]
 [f 0 5 65278][f 2 1]Encuentra las lecturas misteriosas.[n][e]

@@ -1,5 +1,5 @@
 [msg MSG_000]
-[f 0 5 65278][f 2 1][f 6 1 18 0 0 1][f 0 6 255 255]Limitadores: 斡liberaci吋n completa![n][f 6 1 19 0 0 65535][e]
+[f 0 5 65278][f 2 1][f 6 1 18 0 0 1][f 0 6 255 255]Cargando... 斡Carga completa![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_001]
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 2][f 0 6 255 255]Ah...[n][f 6 1 19 0 0 65535][e]

@@ -1217,7 +1217,7 @@
 [f 0 5 65278][f 2 1]¡Allá voy![n][e]
 
 [msg BTLMSGID_ADD_ATK_KOROMAR [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]¡Arf! ¡Awoooo![n][e]
+[f 0 5 65278][f 2 1]¡Guau! ¡Awoooo![n][e]
 
 [msg BTLMSGID_ADD_ATK_ARAGAKI [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]¿Qué, crees que he terminado?[n][e]

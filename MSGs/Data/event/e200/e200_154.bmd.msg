@@ -2,11 +2,11 @@
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 1][f 3 1 1 0 0 55001]Los he estado esperando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 1 0 0 6][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 0]夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 1 0 0 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]夷Qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 6 0 0][f 3 1 1 0 0 0]Desde que fui citada aqu胤, he querido ayudarlos de alguna forma...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]Y lo que se me ocurri吋 es la "Fusi吋n de sacrificio", es una mejor forma de fortalecer a sus Personas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]Y lo que se me ocurri吋 es la "Fusión de sacrificio", es una mejor forma de fortalecer a sus Personas.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]夷Fortalecer?[f 2 7 1 64 0 32][e]
@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 6][f 3 1 1 0 0 24016]Eso suena bastante ominoso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]*risa* No te pedir姻 que ofrezcas la tuya como sacrificio ni nada por el estilo, as胤 que t吋matelo con calma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]*Risa* No te pedir姻 que ofrezcas la tuya como sacrificio ni nada por el estilo, as胤 que t吋matelo con calma.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]Esto implica fusionar Personas para fortalecer a tu Persona.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]
@@ -31,7 +31,7 @@
 [msg MSG_009 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 55092]La fusi吋n de Personas es el medio para crear una nueva Persona a partir de m雨ltiples Personas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Se realiza el sacrificio de una sola Persona, donde otra Persona se fusionan con ella para ayudar en su crecimiento.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La Persona original crecer茨 y las fusionadas desaparecer茨n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La Persona original crecer茨 y las fusionadas desaparecerán.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Una se vuelve m茨s fuerte, mientras que la otra se pierde... Eso definitivamente ser胤a considerado un sacrificio.[n][f 1 3 65535][f 1 1][e]
@@ -44,15 +44,15 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Aunque, naturalmente, ser茨s incapaz de sacrificar a tu Persona principal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Pero espera, 夷no hay m茨s? 夷Algo as胤 como a un costo m茨s alto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Pero espera, 夷no hay m茨s? ¿Algo as胤 como a un costo más alto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 6 0 0][f 3 1 1 0 0 55030]Por supuesto, pedir姻 una compensaci吋n, una cantidad razonable. Sin embargo, ya que esto es para mi propia investigaci吋n tambi姻n...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]Si la Persona que va a desaparecer est茨 siendo sacrificada por primera vez, ser茨 gratuito.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 6 0 0][f 3 1 1 0 0 55030]Por supuesto, pedir姻 una compensaci吋n, una cantidad razonable. Sin embargo, ya que esto es para mi propia investigación también...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]Si la Persona que va a desaparecer est茨 siendo sacrificada por primera vez, será gratuito.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Sin embargo, cuando esa Persona sea sacrificada nuevamente, pedir姻 ser compensada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, todas las Personas pueden ser sacrificadas gratis la primera vez?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Entonces, todas las Personas pueden ser sacrificadas gratis la primera vez?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 0 0 0][f 3 1 1 0 0 0]Eso es correcto.[n][f 1 3 65535][f 1 1][e]
@@ -61,7 +61,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡Oh... esto es una manera asombrosa para que todos nosotros nos volvamos m茨s fuertes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0]　　[n][f 3 1 1 0 0 1026]Gracias, Margaret. Aprecio tu cooperaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1026]Gracias, Margaret. Aprecio tu cooperaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Margaret]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]...No, mi papel aqu胤 tambi姻n es obra del destino.[n][f 1 3 65535][f 1 1][e]
@@ -69,18 +69,18 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 1]Puede que todos ustedes hayan sido asignados a roles como usuarios de Personas para lograr esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_1 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 1 5][f 6 1 13 0 0 0]　　[n][f 3 1 1 0 0 0]夷Fuimos asignados a tales roles?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 0]夷Fuimos asignados a tales roles?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_2 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 10 0 0][f 3 1 1 0 0 55058]S胤, y creo que fuimos llamados aqu胤 para supervisar eso... Entonces, 夷Marie?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 10 0 0][f 3 1 1 0 0 55058]S胤, y creo que fuimos llamados aquí para supervisar eso... Entonces, 夷Marie?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Marie]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 85 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷De verdad tengo que hacerlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 85 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Ugh... 夷De verdad tengo que hacerlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]Tendr茨s mucho tiempo para escribir tus poemas, as胤 que no te preocupes por eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 65047][f 6 1 2 0 0 6]E-eso no... No son solo mis poemas, 斡son mi patetismo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 16 1 0][f 3 1 1 0 0 0]斡Est雨pidaterribleMargarett雨ereslapeor! 斡Solo d姻jalo, 夷de acuerdo?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 16 1 0][f 3 1 1 0 0 0]斡Est雨pidaterribleMargarettúereslapeor! ¡Solo d姻jalo, 夷de acuerdo?![n][f 1 3 65535][f 1 1][e]
 
