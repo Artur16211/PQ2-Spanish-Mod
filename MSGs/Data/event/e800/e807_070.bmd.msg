@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 100 1][f 3 1 1 0 0 54115]Bien hecho, todos. Tengo confirmaci吋n de que[n]el FOE fue derrotado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 0 100 1][f 3 1 1 0 0 54115]Bien hecho. Tengo confirmaci吋n de que[n]el FOE fue derrotado.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Sin embargo... hay una cosa con la que estoy[n]insatisfecha.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 4 100 1][f 3 1 1 0 0 0]Hab胤a estado esperando incansablemente para[n]que trajeras un poco de pollo como[n]recuerdo, y sin embargo no has tra胤do nada![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 100 1][f 3 1 1 0 0 54037]Mi deseo de pollo permanecer茨 incumplido,[n]dejando que estas l茨grimas de desesperaci吋n[n]fluyan para siempre m茨s. *sniffle*[n]*sniffle*[n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 
 [msg MSG_020 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 7 0 0][f 3 1 1 0 0 0]No s姻 si todos intentaban evitar tocarlo por[n]mi bien o no, pero creo que me siento[n]culpable...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]No pude sacudir la sensaci吋n de que necesitaba[n]compensar eso de alguna manera... Lo[n]siento, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]No pude sacudir la sensaci吋n de que necesitaba[n]compensar eso de alguna manera... Lo[n]siento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0]夷Te preocupaba eso, Yosuke? Siempre te pones[n]tan serio con las cosas m茨s raras.[n][f 1 3 65535][f 1 1][e]

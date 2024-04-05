@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6321]斡La salud de la grupo no se ve bien![n][f 1 6 65535][e]
 
 [msg RISE_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 6322]斡Est茨n bajo en salud, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 6322]斡Est茨n bajos de salud![n][f 1 6 65535][e]
 
 [msg RISE_PARTY_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6323]斡Necesitan recuperar su salud, chicos![n][f 1 6 65535][e]

@@ -48,13 +48,13 @@
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]斡Nadie necesita esos experimentos in雨tiles! ¡Espero que todos coman una Llamarada At吋mica![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 75 2 0 0][f 3 1 1 0 0 12]*Risa* Quiz茨s deber胤as calmarte. Este es uno de tus trabajos menos embarazosos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 75 2 0 0][f 3 1 1 0 0 12]*risa* Quiz茨s deber胤as calmarte. Este es uno de tus trabajos menos embarazosos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 4 1 0][f 3 1 1 0 0 13][f 6 1 2 0 0 3]MENOS embarazoso... *Suspiro* Lo puse en mi bolsillo. 夷C吋mo terminó all胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 4 1 0][f 3 1 1 0 0 13][f 6 1 2 0 0 3]MENOS embarazoso... *suspiro* Lo puse en mi bolsillo. 夷C吋mo terminó all胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]*Jadeo* 夷Podr胤a ser? ¿Es esta la ley del universo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 0][f 3 1 1 0 0 14][f 6 1 2 0 0 4]*jadeo* 夷Podr胤a ser? ¿Es esta la ley del universo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 8 1 0][f 3 1 1 0 0 15]Falling...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16]"Fall in love"... "Fallen angel"...[n][f 1 3 65535][f 1 1][e]
 

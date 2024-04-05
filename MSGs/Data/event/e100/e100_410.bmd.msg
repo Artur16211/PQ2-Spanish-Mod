@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Oh, ese es un buen punto. Ojal茨 pudi姻ramos simplemente descender y tomarlo sin ser atrapados...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19008]*Suspiro* Si tan solo tuvi姻ramos superpoderes como Kamoshidaman...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 19 0 2 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19008]*suspiro* Si tan solo tuvi姻ramos superpoderes como Kamoshidaman...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 4][f 3 1 1 0 0 0]Podr胤amos simplemente descender desde el cielo con un "斡JA, JA, JA!", y escapar con la estatua...[n][f 1 3 65535][f 1 1][e]

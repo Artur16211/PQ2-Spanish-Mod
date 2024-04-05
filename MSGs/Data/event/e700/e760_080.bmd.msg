@@ -20,7 +20,7 @@
 
 [msg MSG_006 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11010][f 6 1 2 0 0 9]Figuras...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]*Suspiro* Sab胤a que sería así... Es un poco decepcionante. Esperaba algo con un poco m茨s misterioso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]*suspiro* Sab胤a que sería así... Es un poco decepcionante. Esperaba algo con un poco m茨s misterioso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 3][f 3 1 1 0 0 0]Bueno, si lo que quieres es misterio, creo que la existencia de Aigis es bastante interesante.[n][f 1 3 65535][f 1 1][e]
@@ -71,7 +71,7 @@
 
 [msg MSG_0006 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11010][f 6 1 2 0 0 9]Figuras...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]*Jadeo* Supuse que ser胤a así... Un poco decepcionante. Esperaba algo un poco m茨s misterioso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]*jadeo* Supuse que ser胤a así... Un poco decepcionante. Esperaba algo un poco m茨s misterioso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0007 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 12 0 3][f 3 1 1 0 0 0]Bueno, si quieres misterio, creo que la existencia de Aigis es bastante misteriosa.[n][f 1 3 65535][f 1 1][e]

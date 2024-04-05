@@ -218,7 +218,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19363]斡Ok, esto terminar茨 r茨pido, con suerte![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]Tenemos nuestras 吋rdenes, 斡Vamos, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 19364]Tenemos nuestras 吋rdenes, 斡Vamos![n][f 1 6 65535][e]
 
 [msg P3_HERO2_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19365]Estoy muy emocionada, ahora.[n][f 1 6 65535][e]

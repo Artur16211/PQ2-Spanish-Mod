@@ -693,7 +693,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 56404]Dormirse en un momento como este... ¡Por favor, despierta![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_230]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 56405]*Jadeo* 斡Est茨n confundidos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 56405]*jadeo* 斡Est茨n confundidos![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_231]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 56406]斡Eh! 斡Alguien ha sido paralizado![n][f 1 6 65535][e]

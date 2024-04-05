@@ -253,7 +253,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 108]Me habr胤a encantado estar en una película de acci吋n con muchas secuencias de peleas exageradas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 4][f 3 1 1 0 0 109][f 6 1 2 0 0 9]*Suspiro* Eres un idiota... Ve a filmar una por tu cuenta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 4][f 3 1 1 0 0 109][f 6 1 2 0 0 9]*suspiro* Eres un idiota... Ve a filmar una por tu cuenta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 81 1 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 110]Exacto, es nuestro deber de Ladrones Fantasma, ayudar a las personas en apuros.[n][f 1 3 65535][f 1 1][e]
@@ -272,13 +272,13 @@
 [f 0 5 65278][f 2 1][f 4 6 81 8 0 0][f 3 1 1 0 0 115]夷斡Eh!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_078 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 116][f 6 1 2 0 0 6]*Silbido* 斡Lo dijo como si nada! ¡Buena esa, Sr. Sutil![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 116][f 6 1 2 0 0 6]*silbido* 斡Lo dijo como si nada! ¡Buena esa, Sr. Sutil![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 4][f 3 1 1 0 0 117]En serio... Si sigues dej茨ndote llevar as胤, alg雨n día te meterás en problemas de verdad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_080 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 20 1 0 0][f 4 6 27 2 0 1][f 3 1 1 0 0 118][f 6 1 2 0 0 4]*Risa* Est茨s preocupándote demasiado, Mona. No hay forma de que Joker haga eso, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 20 1 0 0][f 4 6 27 2 0 1][f 3 1 1 0 0 118][f 6 1 2 0 0 4]*risa* Est茨s preocupándote demasiado, Mona. No hay forma de que Joker haga eso, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 4][f 3 1 1 0 0 119]As胤 es. 夷Nunca harías llorar a una chica, cierto?[n][f 1 3 65535][f 1 1][e]

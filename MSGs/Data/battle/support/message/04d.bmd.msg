@@ -548,7 +548,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57319]斡Aseg雨rate de bloquear! 斡No lo olvides![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_183]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57320]*Jadeo* 斡Esto no se ve bien![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57320]*jadeo* 斡Esto no se ve bien![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_184]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57321]U-Um... Si parece peligroso, deberíamos huir.[n][f 1 6 65535][e]
@@ -584,13 +584,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57331]夷Qu姻? 夷Qu姻 hacemos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_195]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57332]*Jadeo* Una muy aterradora apareci吋![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57332]*jadeo* Una muy aterradora apareci吋![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_196]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57333]Aaah... 夷Qu姻 hacemos?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_197]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57601]*Jadeo* 斡Big Bro est茨 en problemas![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57601]*jadeo* 斡Big Bro est茨 en problemas![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_198]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57602]斡Alguien est茨 herido! 夷¡Qu姻 hacemos!?[n][f 1 6 65535][e]
@@ -647,7 +647,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57619]斡Oh no! 斡Alguien est茨 en problemas![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_216]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57620]*Jadeo* ¡Alguien está herido! ¡Ten cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57620]*jadeo* ¡Alguien está herido! ¡Ten cuidado![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_217]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57621]Skull parece estar realmente herido...[n][f 1 6 65535][e]

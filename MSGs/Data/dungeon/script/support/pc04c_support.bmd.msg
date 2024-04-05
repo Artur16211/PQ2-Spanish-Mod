@@ -8,13 +8,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]夷Eh? 斡Oh, te ruego que tengas cuidado![n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]斡Cuidado, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21354]斡Cuidado![n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]斡Atenci吋n, todos! 斡Hay un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21342]斡Atenci吋n! 斡Hay un FOE![n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]*Jadeo* Esto podr胤a resultar desastroso. 斡Ten[n]cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]*jadeo* Esto podr胤a resultar desastroso. 斡Ten[n]cuidado![n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_FOLLOW_END_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21344]Parece que el FOE ha perdido las ganas de perseguirte.[n][f 1 6 65535][e]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]Puede que haya propiedades desconocidas en la pared que est茨 adelante.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_DEAD_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21351]夷T-Todos!? 夷Est茨n bien?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21351]¿¡C-Chicos!? 夷Est茨n bien?[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_DEAD_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]Por favor, considera regresar aqu胤.[n][f 1 6 65535][e]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]No se rendir茨...[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_WARNING_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21359]Todos, por favor tengan tanta precauci吋n como[n]puedan.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21359]Chicos, por favor tengan tanta precauci吋n como[n]puedan.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21346]Hermana, por favor c茨lmate. Solo necesitan[n]reagruparse y curarse.[n][f 1 6 65535][e]

@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 2 1 0 1][f 4 6 10 2 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Bueno, no es realmente nuestro estilo ser tan negativos. Si podemos ser m茨s positivos como t雨, entonces eso es lo mejor, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0][n][f 3 1 1 0 0 2031]*Risa* S胤, estoy de acuerdo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 1 5][f 6 1 17 0 0 0][n][f 3 1 1 0 0 2031]*risa* S胤, estoy de acuerdo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 13 2 0 1][f 3 1 1 0 0 0]Gracias. [f 6 1 26 0 0 0]. Me alegra poder escuchar lo que sientes.[n][f 1 3 65535][f 1 1][e]

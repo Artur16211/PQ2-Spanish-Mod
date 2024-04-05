@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19031]Estaba tan concentrada en rescatarlos que me exced胤 con esas Sombras all茨 atrás.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 4][f 3 1 1 0 0 0]*Risa* Creo que tambi姻n me volv胤 un poco loca...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 4][f 3 1 1 0 0 0]*risa* Creo que tambi姻n me volv胤 un poco loca...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 3 12 0 1][f 3 1 1 0 0 3033][f 6 1 2 0 0 6]E-En fin, gracias por eso... Me alegra que te hayas reunido con tus compa隠eros mucho antes de lo que esper茨bamos.[n][f 1 3 65535][f 1 1][e]
@@ -81,13 +81,13 @@
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 16039]Mm, Lo siento...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Perro]]
-[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17003]*Quejido*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17003]*quejido*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ni隠o Sombr胤o]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 17 1 0 4][f 4 6 16 6 0 1][f 3 1 1 0 0 16009]夷Reparto? Lo siento, no tengo idea de que hablas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Perro]]
-[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17003]*Quejido*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 17003]*quejido*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 3][f 3 1 1 0 0 3013][f 6 1 2 0 0 9]Bueno, pensamos que se estaba reuniendo con sus compa隠eros, pero... 夷Qu姻 est茨 pasando?[n][f 1 3 65535][f 1 1][e]

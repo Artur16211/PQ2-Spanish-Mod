@@ -288,7 +288,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]No tenemos tiempo para estrategias, sig茨mosle el paso a Joker.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_089 [Haru]]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 27120][f 6 1 2 0 0 6]Aseg雨rense de no mirar hacia abajo. 斡Todos, miren hacia adelante![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 27120][f 6 1 2 0 0 6]Aseg雨rense de no mirar hacia abajo. 斡Miren hacia adelante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_090 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 4 4 6][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Est茨 bien, puedo hacer esto... Acabo de hacerlo hace un segundo, as胤 que...[n][f 1 3 65535][f 1 1][e]

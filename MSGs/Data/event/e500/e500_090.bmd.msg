@@ -141,7 +141,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Prometo que terminar姻 la pel胤cula, no importa que haga falta![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 25 2 0 6][f 3 1 1 0 0 0]*Risa* Bueno, para que eso suceda, tenemos que acabar con este lugar primero.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 25 2 0 6][f 3 1 1 0 0 0]*risa* Bueno, para que eso suceda, tenemos que acabar con este lugar primero.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 21073][f 6 1 2 0 0 6]斡Cierto! ¡Vamos a ocuparnos de nuestros asuntos aqu胤, así Hikari podr茨 filmar de vuelta a casa![n][f 1 3 65535][f 1 1][e]

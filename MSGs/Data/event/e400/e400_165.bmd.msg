@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12][f 6 1 9 0 0 1]Eres mi hero胤na, Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chica Joven]]
-[f 0 5 65278][f 2 1][f 4 6 38 2 4 9][f 3 1 1 0 0 13][f 6 1 2 0 0 7]*Risa* 斡Yay![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 38 2 4 9][f 3 1 1 0 0 13][f 6 1 2 0 0 7]*risa* 斡Yay![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Y... um... 斡He tomado una decisi吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Voz De Hombre Tranquila]]

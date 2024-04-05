@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55301]Hay un FOE persigui姻ndote.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_FOLLOW_START__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57301]斡Cuidado, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57301]斡Cuidado![n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_FOLLOW_STAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55302]Te siguen.[n][f 1 6 65535][e]
@@ -20,13 +20,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55303]Tranquilo, es un FOE.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57303]*Jadeo* 夷Qu姻...?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57303]*jadeo* 夷Qu姻...?[n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55304]Es bastante grande, pero, por supuesto, todo te parece grande a ti.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57304]*Jadeo* 斡Es enorme![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57304]*jadeo* 斡Es enorme![n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55305]Tengan cuidado de que hay un FOE cerca.[n][f 1 6 65535][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57381]*斡Jadeo!* 夷Te est茨n matando?[n][f 1 6 65535][e]
 
 [msg MARGARET_KYOUHU_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55382]Cuidado con d吋nde pisan, todos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55382]Cuidado con d吋nde pisan.[n][f 1 6 65535][e]
 
 [msg NANAKO_KYOUHU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57382]斡El viento es fuerte![n][f 1 6 65535][e]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55383]斡Es una brisa![n][f 1 6 65535][e]
 
 [msg NANAKO_KYOUHU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57383]*Jadeo* 斡Volamos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57383]*jadeo* 斡Volamos![n][f 1 6 65535][e]
 
 [msg MARGARET_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55333]Bien hecho. Has encontrado las escaleras.[n][f 1 6 65535][e]
@@ -260,7 +260,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55322]En serio, deber胤as echar un vistazo a la[n]salud de tu grupo.[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57322]斡Tomen una siesta, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57322]斡Tomen una siesta![n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55323]Deber胤as curar a todos como tu primera[n]prioridad.[n][f 1 6 65535][e]

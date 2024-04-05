@@ -1460,7 +1460,7 @@
 [f 0 5 65278][f 2 1]Seríamos tontos si no atacáramos ahora... ¡Vamos![n][e]
 
 [msg BTLMSGID_COMBI_ATK_FUKA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]¡Todos, es nuestra oportunidad![n][e]
+[f 0 5 65278][f 2 1]¡Es nuestra oportunidad![n][e]
 
 [msg BTLMSGID_COMBI_ATK_AEGIS [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]¡Ventaja asegurada! ¡Debemos tomar la ofensiva![n][e]

@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 6][f 3 1 1 0 0 24016]Eso suena bastante ominoso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]*Risa* No te pedir姻 que ofrezcas la tuya como sacrificio ni nada por el estilo, as胤 que t吋matelo con calma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]*risa* No te pedir姻 que ofrezcas la tuya como sacrificio ni nada por el estilo, as胤 que t吋matelo con calma.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 0]Esto implica fusionar Personas para fortalecer a tu Persona.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]

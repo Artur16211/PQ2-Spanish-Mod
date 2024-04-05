@@ -98,5 +98,5 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Caroline y Justine se han quedado en p茨nico.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 2 0 1][f 3 1 1 0 0 24]*Risa* Qu姻 par tan adorable. Por favor, haz lo que puedas para seguir mim茨ndolas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 2 0 1][f 3 1 1 0 0 24]*risa* Qu姻 par tan adorable. Por favor, haz lo que puedas para seguir mim茨ndolas.[n][f 1 3 65535][f 1 1][e]
 

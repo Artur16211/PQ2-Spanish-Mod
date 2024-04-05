@@ -40,5 +40,5 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 1 6 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Somehow... Puedo sentir a Elizabeth esmirando,[n]incluso desde aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1068]En cualquier caso, parece que tendremos que[n]vencer a dos de ellos. Mantengan la[n]guardia, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 1068]En cualquier caso, parece que tendremos que[n]vencer a dos de ellos. Mantengan la[n]guardia.[n][f 1 3 65535][f 1 1][e]
 

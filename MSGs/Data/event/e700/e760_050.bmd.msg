@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 25010]...S胤, lo que digas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 100 4][f 3 1 1 0 0 0]*Jadeo* 斡Queen dej吋 de pensar por s胤 misma![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 4][f 3 1 1 0 0 0]*jadeo* 斡Queen dej吋 de pensar por s胤 misma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 1 2 0 3][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]...Tu equipo es todo un elenco de personajes, 夷no?[n][f 1 3 65535][f 1 1][e]

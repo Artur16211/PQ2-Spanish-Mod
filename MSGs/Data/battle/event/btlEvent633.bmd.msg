@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 807][f 6 1 3 0 0 2]...夷Qu姻 significa esto? Todav胤a podemos pelear.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Margaret]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 808][f 6 1 3 0 0 2]*Risa* No me malinterpretes. Hay una manera correcta y adecuada de librar estas batallas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 808][f 6 1 3 0 0 2]*risa* No me malinterpretes. Hay una manera correcta y adecuada de librar estas batallas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 809][f 6 1 2 0 0 6][f 6 1 3 0 0 2]斡Te dar姻 un ejemplo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Margaret]]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 0][f 6 1 3 0 0 2]※マー遺レットが先に倒れた会話[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Margaret]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 815][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*Risa* Hac胤a tiempo que no tenía un desafío así, esto es maravilloso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 815][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*risa* Hac胤a tiempo que no tenía un desafío así, esto es maravilloso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_051 [Theodore]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 816][f 6 1 3 0 0 2]A partir de aqu胤, yo me encargo.[n][f 1 3 65535][f 1 1][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 834][f 6 1 2 0 0 3][f 6 1 3 0 0 2]...Al menos ustedes dos parecen tener energ胤a de sobra...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_093 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 835][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*Risa* Bueno, rara vez podemos disfrutar de una pelea de este nivel.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 835][f 6 1 2 0 0 7][f 6 1 3 0 0 2]*risa* Bueno, rara vez podemos disfrutar de una pelea de este nivel.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 836][f 6 1 2 0 0 6][f 6 1 3 0 0 2]Cr姻eme, 斡necesitas mantener la compostura para disfrutarlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_100 [Elizabeth]]

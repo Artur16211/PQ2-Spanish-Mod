@@ -63,7 +63,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17002][f 6 1 9 0 0 1]斡Arf, arf![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4097][f 6 1 9 0 0 1]Oh, 夷Fuiste t雨, Koro? *Suspiro* Me asustaste...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4097][f 6 1 9 0 0 1]Oh, 夷Fuiste t雨, Koro? *suspiro* Me asustaste...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21018][f 6 1 9 0 0 1][f 6 1 2 0 0 4]夷Eh? Pero pens姻 que Koromaru estaba delante de m胤... ¿Qué es lo que me toca la cara?...[n][f 1 3 65535][f 1 1][e]
@@ -180,7 +180,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Mm, 夷podr胤an darse prisa? Hemos estado esperando aquí atr茨s por un buen rato.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 1 5][f 6 1 27 0 0 0][n][f 3 1 1 0 0 19130]*Risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 1 5][f 6 1 27 0 0 0][n][f 3 1 1 0 0 19130]*risa*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Yukari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10018][f 6 1 9 0 0 1][f 6 1 2 0 0 4]夷Eh? ¿Qu姻 es gracioso?[n][f 1 3 65535][f 1 1][e]

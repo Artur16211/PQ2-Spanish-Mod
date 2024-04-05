@@ -1000,11 +1000,11 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Voy a ayudar al Embaucador...? No importa. 斡Traer姻 el dolor como siempre lo hago![n][f 1 2 60][f 1 1][e]
 
 [msg msg_combine_MESSAGE__058 [1]]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Jajajaja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]![n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Ja, ja, ja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]![n][f 1 2 60][f 1 1][e]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷Quieres mi fuerza...? Heh... Bien. Pero no bajes la guardia, 斡o te aplastar姻 yo mismo![n][f 1 2 60][f 1 1][e]
 
 [msg msg_combine_MESSAGE__059 [1]]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Jajajaja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]![n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Ja, ja, ja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]![n][f 1 2 60][f 1 1][e]
 [f 0 5 65278][f 2 1][f 0 6 255 255]夷As胤 que un Embaucador quiere mi ayuda? Me parece bien... 斡Aplastar姻 a cualquiera que se te cruce![n][f 1 2 60][f 1 1][e]
 
 [msg cmb_cmm_quest02 [マー遺レ7:]]

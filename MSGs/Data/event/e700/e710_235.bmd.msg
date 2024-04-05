@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 1][f 3 1 1 0 0 22091][f 6 1 2 0 0 10]*Jadeo* 斡Eso fue agotador! 夷Cu茨nta vigilancia necesitan?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 1][f 3 1 1 0 0 22091][f 6 1 2 0 0 10]*jadeo* 斡Eso fue agotador! 夷Cu茨nta vigilancia necesitan?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]Tienes raz吋n, deber胤an ahorrar electricidad. Esos costos nunca deben tomarse a la ligera.[n][f 1 3 65535][f 1 1][e]

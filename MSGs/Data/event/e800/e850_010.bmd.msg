@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10091][f 6 1 2 0 0 9]Cuando lo dices as胤, suenas m茨s como un[n]perdedor.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 19 1 0 6][f 4 6 64 1 0 3][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Bueno, todos. Los invito a mostrar su poder[n]al contenido de sus corazones.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 1 0 6][f 4 6 64 1 0 3][f 4 6 74 12 100 0][f 3 1 1 0 0 0]Bueno. Los invito a mostrar su poder[n]al contenido de sus corazones.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y cuando hayas logrado esta obra con tu[n]habitual aplomo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015_1 [Elizabeth]]

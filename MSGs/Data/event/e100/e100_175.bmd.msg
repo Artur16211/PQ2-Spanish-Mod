@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 4]夷Cu茨nto tiempo llevan ah胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 26]*Risa* Siempre estamos a tu lado, en cualquier momento, en cualquier lugar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 26]*risa* Siempre estamos a tu lado, en cualquier momento, en cualquier lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ryuji]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 9][f 4 6 65 6 0 0][f 3 1 1 0 0 27]Oh, genial, m茨s mierda mental...[n][f 1 3 65535][f 1 1][e]
@@ -262,5 +262,5 @@
 [f 0 5 65278][f 2 1][f 4 6 79 4 0 0][f 3 1 1 0 0 90]En otras palabras, est茨s en libertad condicional. Pero no te olvides de tu rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 8 1 1][f 3 1 1 0 0 91]Bueno, entonces, todos, vayamos de prisa al puesto de comida...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 8 1 1][f 3 1 1 0 0 91]Bueno, entonces, vayamos de prisa al puesto de comida...[n][f 1 3 65535][f 1 1][e]
 

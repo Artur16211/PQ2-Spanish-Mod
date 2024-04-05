@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4360]斡Hag茨moslo![n][f 1 6 65535][e]
 
 [msg CHIE_DUNGEON_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4361]斡Alto esp胤ritu, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4361]斡Alto esp胤ritu![n][f 1 6 65535][e]
 
 [msg CHIE_DUNGEON_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4362]斡Bien! 斡Vamos manos a la obra![n][f 1 6 65535][e]

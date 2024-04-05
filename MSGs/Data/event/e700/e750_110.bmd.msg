@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 4 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces, 夷la destruiremos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]*Jadeo* 夷T雨 tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]*jadeo* 夷T雨 tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 2 0 1][f 3 1 1 0 0 8013]Quiz茨 no sea la peor idea.[n][f 1 3 65535][f 1 1][e]

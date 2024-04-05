@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 8]斡Estamos dejando salir a todos de los cines! ¡Tu plan fracaso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Enlil]]
-[f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 9]*Risa* No digas, esas tonter胤as. Solo observen...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 9]*risa* No digas, esas tonter胤as. Solo observen...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Aun con su intromisi吋n, no hay ni una sola alma que se est姻 poniendo de su lado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Voz De Mujer]]

@@ -42,7 +42,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 2 0 0 4]...夷Quieres escucharlas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Padre De Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 83 8 1 0][f 3 1 1 0 0 20]Jajaja... Bueno, puedes cont茨rmelo todo mientras tomamos una taza de caf姻.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 83 8 1 0][f 3 1 1 0 0 20]Ja, ja, ja... Bueno, puedes cont茨rmelo todo mientras tomamos una taza de caf姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 5 0][f 3 1 1 0 0 21]斡Bien! Entonces, para empezar...[n][f 1 3 65535][f 1 1][e]

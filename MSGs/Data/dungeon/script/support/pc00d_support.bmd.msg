@@ -221,7 +221,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13364]斡Ahora, a la misi吋n![n][f 1 6 65535][e]
 
 [msg MITURU_QUEST_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13365]Empecemos, todos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13365]Empecemos.[n][f 1 6 65535][e]
 
 [msg MITURU_TOUHA_25_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13352]Apenas hemos comenzado.[n][f 1 6 65535][e]

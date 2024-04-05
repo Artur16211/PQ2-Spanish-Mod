@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Queremos que el director de la pel胤cula suba al escenario.[n][f 1 2 135][f 1 1][e]
 
 [msg MSG_002]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Todos, por favor, denle una c茨lida bienvenida con un aplauso.[n][f 1 2 88][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Por favor, denle una c茨lida bienvenida con un aplauso.[n][f 1 2 88][f 1 1][e]
 
 [msg MSG_003]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Perm胤tanme presentarla...[n][f 1 2 35][f 1 1][e]

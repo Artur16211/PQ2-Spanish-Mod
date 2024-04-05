@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]夷ME PROTEGER威N? PERO, ¿POR QU畏 AYUDA A ALGUIEN COMO YO?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19031]*Risa* 夷Recuerdas lo que hablamos antes? La respuesta a esta es simple...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19031]*risa* 夷Recuerdas lo que hablamos antes? La respuesta a esta es simple...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Es porque eres una compa隠era para nosotros como Aigis, Ribbon.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Ribbon]]
@@ -89,7 +89,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0]Lo siento. No pude evitarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19130]*Risa* Oh, Aigis...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19130]*risa* Oh, Aigis...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19006][f 6 1 2 0 0 4]Bueno, empecemos de nuevo. 夷Est茨s lista, Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Ribbon]]

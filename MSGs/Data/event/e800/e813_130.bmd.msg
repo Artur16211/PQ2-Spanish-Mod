@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 6 2 1][f 3 1 1 0 0 54036]Parece que esos dos causaron un revuelo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 0]Esto fue claramente negligencia por parte de[n]Theo. No temas. Le dar姻 una estricta[n]conversaci吋n despu姻s de esto.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 0]Aqu胤 est茨 su recompensa por este tiempo. Por[n]favor, ac姻ptalo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54115]Excelente trabajo, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54115]Excelente trabajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 1 0 1][f 4 6 72 2 0 3][f 3 1 1 0 0 28031]Este caso ciertamente fue interesante.[n][f 1 3 65535][f 1 1][e]

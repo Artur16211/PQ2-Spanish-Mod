@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 2]Ella fue al ba隠o.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 3]Ya veo... *Suspiro*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 3]Ya veo... *suspiro*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 12 0 6][f 3 1 1 0 0 4]Pareces deca胤do. Quiero decir, puedo entender por qu姻...[n][f 1 3 65535][f 1 1][e]
@@ -84,7 +84,7 @@
 [f 0 5 65278][f 2 1]Estamos aqu胤 para ti.[f 2 7 1 64 0 32][e]
 
 [msg MSG_024 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 31]*Risa* Gracias... Est茨s tratando de animarme, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 31]*risa* Gracias... Est茨s tratando de animarme, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 32]Bueno, [f 6 1 26 0 0 0], estabas tan preocupado por tus compa隠eros...[n][f 1 3 65535][f 1 1][e]
@@ -99,7 +99,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 37]...Eres tan fuerte, [f 6 1 26 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 38]*Risa* 夷T雨 crees? Probablemente, sea porque tengo a todos aqu胤 apoy茨ndome.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 38]*risa* 夷T雨 crees? Probablemente, sea porque tengo a todos aqu胤 apoy茨ndome.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39]Si estuviera sola, no habr胤a podido llegar hasta aquí.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Hikari]]

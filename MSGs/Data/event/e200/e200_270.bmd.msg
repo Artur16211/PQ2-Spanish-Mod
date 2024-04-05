@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 1 0 0 1][f 6 1 2 0 0 10][f 6 1 3 0 0 2][f 6 1 9 0 0 1]斡Aaaaagh! ¡Al姻jate![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 5]*Jadeo* Esa voz... Con toda su amabilidad y ternura y patetismo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 5]*jadeo* Esa voz... Con toda su amabilidad y ternura y patetismo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 1]斡¡¡Es Yosuke!!![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Rise]]

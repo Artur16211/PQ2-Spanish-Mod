@@ -72,7 +72,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62][f 6 1 3 0 0 1]Si esto fuera una pel胤cula, este sería el mejor final posible.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_2 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 63]*Risa* En ese caso, tu actuaci吋n fue digna de Mejor Actriz Protagonista.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 63]*risa* En ese caso, tu actuaci吋n fue digna de Mejor Actriz Protagonista.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019_3 [Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 64][f 6 1 3 0 0 1]En realidad, creo que ustedes fueron los protagonistas aqu胤.[n][f 1 3 65535][f 1 1][e]

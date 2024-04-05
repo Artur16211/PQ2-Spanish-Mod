@@ -107,7 +107,7 @@
 
 [msg MSG_033 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 34 0 1 0][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 0]*Suspiro* Todo es su culpa...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 0]*suspiro* Todo es su culpa...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡夷Q-Qu姻!? ¡Tiene mi cabeza! ¿Qué demonios est茨 pasando aqu胤?[n][f 1 3 65535][f 1 1][e]

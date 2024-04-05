@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 2 0 0 9][f 6 1 3 0 0 3]Je, je, je... 'Extra brillante'...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Persona Disfrazada De Oso]]
-[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 4 6 9 0 0 0][f 3 1 1 0 0 18]*Jadeo* Al principio ol胤 algo agradable en 姻l, 斡pero ella tiene raz吋n![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 72 6 0 0][f 4 6 9 0 0 0][f 3 1 1 0 0 18]*jadeo* Al principio ol胤 algo agradable en 姻l, 斡pero ella tiene raz吋n![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 8][f 3 1 1 0 0 19]Adem茨s, prefiero ir por esta hermosa dama...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Elizabeth]]

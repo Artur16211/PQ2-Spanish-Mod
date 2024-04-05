@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Podr胤an ser nombres clave?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28031][f 6 1 2 0 0 4]*Risa* 夷Ha encontrado la detective una teor胤a que funcione?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28031][f 6 1 2 0 0 4]*risa* 夷Ha encontrado la detective una teor胤a que funcione?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0]B-Bueno, no... Es simplemente mi propia curiosidad.[n][f 1 3 65535][f 1 1][e]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Podr胤a ser... 夷Has visto a trav姻s de Yuki, hasta su verdadera naturaleza?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5130][f 6 1 2 0 0 4]夷Has dicho algo, Teddie? *Risa* ¿Quieres ser quemado?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5130][f 6 1 2 0 0 4]夷Has dicho algo, Teddie? *risa* ¿Quieres ser quemado?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 0][f 3 1 1 0 0 0]Entiendo. Fuego Negro... realmente encarna su verdadera naturaleza despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
@@ -167,7 +167,7 @@
 
 [msg MSG_052 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 6 0 1][f 3 1 1 0 0 0]Mmm... Bueno, siempre est茨s gritando "maldici吋n", as胤 que... 夷Cráneo Maldito?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 5 2 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Jaja... Eso suena tan rid胤culo... *resoplido* Jaja, 斡ja, ja, ja, ja![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ja, ja, ja... Eso suena tan rid胤culo... *Resoplido* Ja, ja, ja, 斡ja, ja, ja, ja![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 0][f 3 1 1 0 0 7091][f 6 1 2 0 0 9]Ni siquiera me importa... Quiero decir, 夷cu茨nto más vamos a seguir con esto?[n][f 1 3 65535][f 1 1][e]

@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 6]Pero me hizo muy feliz que todos pelearan a mi lado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Herb胤voro Enorme]]
-[f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]*Suspiro* Somos compa隠eros, 夷verdad? Es natural que hayamos ayudado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]*suspiro* Somos compa隠eros, 夷verdad? Es natural que hayamos ayudado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Herb胤voro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Trabajemos juntos a partir de ahora, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 4]Despu姻s de todo, 夷no descubrimos que no hay un para胤so para los herbívoros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 23][f 6 1 2 0 0 10]O-olvid姻 eso. *Suspiro* 夷Qué se supone que debemos hacer ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 23][f 6 1 2 0 0 10]O-Olvid姻 eso. *suspiro* 夷Qué se supone que debemos hacer ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 24][f 6 1 2 0 0 4]Si est茨n buscando un refugio seguro, lo 雨nico que tienen que hacer es crear uno juntos.[n][f 1 3 65535][f 1 1][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 34][f 6 1 2 0 0 6]斡Aprende a limpiarte antes de que termines lleno de insectos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 35]*Risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 35]*risa*[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 36]Ah, compa隠eros con los que puedes compartir una risa... Me pregunto c吋mo estar茨n los m胤os en este momento...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ryuji]]
@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 6]斡Los amigos y compa隠eros hacen lo que pueden para ayudarse mutuamente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 42]Todos... Gracias.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 42]... Gracias.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 3 1 1 0 0 43][f 6 1 2 0 0 6]Tambi姻n los considero a ustedes mis compa隠eros, as胤 que pueden contar conmigo tanto como sea necesario.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_030 top]

@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5302]斡Un FOE se acerca hacia nosotros![n][f 1 6 65535][e]
 
 [msg YUKIKO_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5303]斡Es un FOE! 斡Cuidado, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5303]斡Es un FOE! 斡Cuidado![n][f 1 6 65535][e]
 
 [msg YUKIKO_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5304]Un FOE est茨 cerca. Deber胤amos tener cuidado.[n][f 1 6 65535][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5374]Ser胤a mucho m茨s f茨cil si pudiera quemar esto...[n][f 1 6 65535][e]
 
 [msg YUKIKO_KYOUHU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5375]斡Jajajaja![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5375]斡Ja, ja, ja![n][f 1 6 65535][e]
 
 [msg YUKIKO_KYOUHU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5376]夷斡Eh!?[n][f 1 6 65535][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
 
 [msg YUKIKO_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 5360]No se esfuercen demasiado, todos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 5360]No se arriesguen demasiado.[n][f 1 6 65535][e]
 
 [msg YUKIKO_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5361]No olvidamos nada, 夷verdad?[n][f 1 6 65535][e]

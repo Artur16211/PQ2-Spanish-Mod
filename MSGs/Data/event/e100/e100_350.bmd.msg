@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 4 1 0][f 3 1 1 0 0 12][f 6 1 2 0 0 6]斡Queen! ¡Noir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 3 4][f 4 6 27 8 2 1][f 3 1 1 0 0 13][f 6 1 2 0 0 10]斡Todos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 3 4][f 4 6 27 8 2 1][f 3 1 1 0 0 13][f 6 1 2 0 0 10]斡Chicos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 32 14 1 1][f 3 1 1 0 0 14]斡Ahora castigar姻 la basura de la sociedad ante ustedes![n][f 1 3 65535][f 1 1][e]

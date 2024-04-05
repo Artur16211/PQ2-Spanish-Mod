@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 8 99 1][f 3 1 1 0 0 0]Pero... 斡M茨s importante! Parece que hay algo raro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 0]*Suspiro* Deb胤 haber traído mis suministros de arte...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 0 0 0][f 3 1 1 0 0 0]*suspiro* Deb胤 haber traído mis suministros de arte...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Grr... 夷斡C吋mo se me pudo pasar!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Ryuji]]

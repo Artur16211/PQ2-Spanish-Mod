@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 6 2 100 1][f 3 1 1 0 0 6570][f 3 1 6 0 0 500][f 6 1 2 0 0 7]斡Aqu胤 estamos! 夷Ves? Hay mucho, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 1]S胤... 斡Podemos comer esto! Este... 斡Ese...![n]斡Hahahahaha! 斡Es una mina de oro![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 4 0 1][f 3 1 1 0 0 24030][f 6 1 2 0 0 1]S胤... 斡Podemos comer esto! Este... 斡Ese...![n]斡Ja, ja, ja! 斡Es una mina de oro![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Por favor... Es s吋lo un pasto...[n][f 1 3 65535][f 1 1][e]

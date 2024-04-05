@@ -22,7 +22,7 @@
 
 [msg MSG_006 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 100 0][f 3 1 1 0 0 14512]Sin embargo... Parece que nuestra pelea con[n]el FOE asust吋 a algunos de los peces.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 14614]斡Pero todav胤a hay algunos aqu胤 y all茨! Buena[n]suerte, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 14614]斡Pero todav胤a hay algunos aqu胤 y all茨! Buena[n]suerte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]No tienen que ser grandes mientras est姻n[n]sabrosos. Vamos a hacerlo, chicos.[n][f 1 3 65535][f 1 1][e]

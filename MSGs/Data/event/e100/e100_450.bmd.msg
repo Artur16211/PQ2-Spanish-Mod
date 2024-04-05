@@ -78,7 +78,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Entonces, 斡iniciemos este atraco! Joker, haz los honores.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_023 top]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]斡Todos, vamos![f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]斡Vamos![f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]斡Robemos esa estatua![f 2 7 1 20 0 32][e]
 
 [msg MSG_024 [Morgana]]

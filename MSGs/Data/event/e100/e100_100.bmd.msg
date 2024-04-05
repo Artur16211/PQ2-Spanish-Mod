@@ -276,7 +276,7 @@
 
 [msg MSG_083 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 96]夷Es eso?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 97][f 6 1 2 0 0 3]*Suspiro* Tantos desarrollos perplejos... Me llevar茨 tiempo procesar todo esto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 97][f 6 1 2 0 0 3]*suspiro* Tantos desarrollos perplejos... Me llevar茨 tiempo procesar todo esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 98]Parece que tenemos mucho que investigar. Volvamos al Cine.[n][f 1 3 65535][f 1 1][e]

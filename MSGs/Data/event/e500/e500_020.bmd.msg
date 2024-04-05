@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 10 1 6][f 3 1 1 0 0 2][f 6 1 2 0 0 0]夷斡N-Nagi!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [夷Nagi?]]
-[f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 3]*Risa* No hay por qu姻 sorprenderse.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 3]*risa* No hay por qu姻 sorprenderse.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_003 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷Qui姻n eres realmente?[f 2 7 1 64 0 32][e]
@@ -113,5 +113,5 @@
 [f 0 5 65278][f 2 1][f 4 6 1 4 0 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 45]La salvaci吋n no es m茨s que una justificación ego胤sta. 斡Las personas no quieren simplemente abandonar su vida de esa manera![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Enlil]]
-[f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 4]*Risa* 夷Est茨s seguro?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 4]*risa* 夷Est茨s seguro?[n][f 1 3 65535][f 1 1][e]
 

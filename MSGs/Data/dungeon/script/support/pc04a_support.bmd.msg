@@ -20,13 +20,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54303]Hay un FOE cerca de ti.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56303]斡Todos, tengan cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56303]斡Tengan cuidado![n][f 1 6 65535][e]
 
 [msg ELIZABETH_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54304]Estoy anunciando formalmente la cercana presencia de un FOE.[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56304]斡Todos, por favor, tengan en cuenta que hay un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56304]斡Por favor, tengan en cuenta que hay un FOE![n][f 1 6 65535][e]
 
 [msg ELIZABETH_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54305]Lectura de un FOE, alta y clara.[n][f 1 6 65535][e]
@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54387]Oh querido... Tal vez deber胤amos rezar, Theo, no hay mucho m茨s que podamos hacer.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_DEAD_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56387]斡Todos! 夷Est茨n bien?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56387]夷¡Est茨n bien!?[n][f 1 6 65535][e]
 
 [msg ELIZABETH_PARTY_DEAD_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54388]Recomiendo que se reagrupen de inmediato.[n][f 1 6 65535][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54311]Parece que el FOE contin雨a su b雨squeda...[n][f 1 6 65535][e]
 
 [msg THEODOR_FOE_WARNING_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56311]Todos, por favor sean tan precavidos como[n]puedan.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56311]Por favor sean tan precavidos como[n]puedan.[n][f 1 6 65535][e]
 
 [msg ELIZABETH_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54315]斡Oh cielos! E-Esto es un estado de emergencia.[n][f 1 6 65535][e]
@@ -362,7 +362,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54330]Est茨n realmente, 夷c吋mo se dice?, EN RACHA.[n][f 1 6 65535][e]
 
 [msg THEODOR_1PERSON_HP80_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56330]斡Todos, un trabajo incre胤ble, de verdad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56330]斡Un trabajo incre胤ble, de verdad![n][f 1 6 65535][e]
 
 [msg ELIZABETH_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54331]Por favor, contin雨en adelante, como en un 'golpe de uno-dos'.[n][f 1 6 65535][e]

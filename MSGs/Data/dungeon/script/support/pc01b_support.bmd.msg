@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27303]斡Shhh! Est茨 ah胤...[n][f 1 6 65535][e]
 
 [msg HARU_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27304]Con cuidado, todos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27304]Con cuidado.[n][f 1 6 65535][e]
 
 [msg HARU_FOE_NEAR_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27305]Por favor, no dejes que nos vea...[n][f 1 6 65535][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27308]*risa* 斡Parece que ganamos al final![n][f 1 6 65535][e]
 
 [msg HARU_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27369]斡Cuidado, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27369]斡Cuidado![n][f 1 6 65535][e]
 
 [msg HARU_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27370]Andemos de puntillas...[n][f 1 6 65535][e]

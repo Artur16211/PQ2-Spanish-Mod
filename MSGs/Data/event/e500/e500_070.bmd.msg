@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Este equipo es m茨s que impresionante... 斡Es una locura! Quiero decir, 夷qu姻 es esto, un espectáculo de estrellas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]*Risa* Suena como una pel胤cula crossover.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 0]*risa* Suena como una pel胤cula crossover.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 0 0 4][f 3 1 1 0 0 15124]As胤 que estoy en una película crossover conformada por compa隠eros humanoides y un saltamontes... Entiendo.[n][f 1 3 65535][f 1 1][e]

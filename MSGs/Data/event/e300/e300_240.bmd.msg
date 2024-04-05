@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 3 1 1 0 0 0]Cada equipo presion吋 su interruptor y regresó al punto de encuentro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 8 1 1][f 3 1 1 0 0 11101][f 6 1 2 0 0 9]*Gru隠ido* Ah, mi espalda...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 8 1 1][f 3 1 1 0 0 11101][f 6 1 2 0 0 9]*gru隠ido* Ah, mi espalda...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]No podr胤a estar m茨s feliz de haber terminado eso. En serio.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yukari]]

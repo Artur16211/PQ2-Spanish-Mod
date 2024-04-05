@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 15][f 6 1 2 0 0 6]斡S胤, les mostraremos las verdaderas habilidades de los Ladrones Fantasma![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 2 0 1][f 3 1 1 0 0 16][f 6 1 2 0 0 7]*Risa* 斡Es como si todos nosotros nos hubi姻ramos unido a su equipo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 2 0 1][f 3 1 1 0 0 16][f 6 1 2 0 0 7]*risa* 斡Es como si todos nosotros nos hubi姻ramos unido a su equipo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡Eso suena genial! ¡Podemos estar en el equipo de investigaci吋n y en el de Ladrones Fantasma![n][f 1 3 65535][f 1 1][e]

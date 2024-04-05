@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Ah, creo que ya me he acostumbrado a este lugar, as胤 que quería decir algo de este estilo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 3][f 3 1 1 0 0 27031]*Risa* Ahora que lo mencionas, las pel胤culas a menudo suelen interrumpirse con alg雨n tipo de narraci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 3][f 3 1 1 0 0 27031]*risa* Ahora que lo mencionas, las pel胤culas a menudo suelen interrumpirse con alg雨n tipo de narraci吋n.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Como somos los parte de la pel胤cula, es normal que no podamos escuchar esas cosas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ryuji]]

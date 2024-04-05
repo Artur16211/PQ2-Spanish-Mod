@@ -50,7 +50,7 @@
 
 [msg MSG_015 [Profesora De Escuela Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 53 0 1 0][f 3 1 1 0 0 21][f 6 1 2 0 0 6]斡Eso no importa! ¡Disc雨lpate primero![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22]*Suspiro* Te niegas a escuchar a tu profesora... Tienes que molestar el orden del sal吋n de clases...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22]*suspiro* Te niegas a escuchar a tu profesora... Tienes que molestar el orden del sal吋n de clases...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23][f 6 1 2 0 0 4]Dime, 夷por qu姻 tienes que ser as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Hikari De Primaria]]

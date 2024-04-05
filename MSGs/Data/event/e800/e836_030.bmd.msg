@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14543][f 3 1 6 0 0 500][f 6 1 2 0 0 7]斡Buen trabajo, todos! 斡Ese es el primero![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14543][f 3 1 6 0 0 500][f 6 1 2 0 0 7]斡Buen trabajo! 斡Ese es el primero![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 0]斡Muy bien! Solo necesitamos dos m茨s, 夷verdad?[n][f 1 3 65535][f 1 1][e]
@@ -46,5 +46,5 @@
 [f 0 5 65278][f 2 1][f 4 6 6 2 100 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡Pero esto nos ayudar茨 a potenciar a雨n m茨s![n]As胤 que prep茨rate, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14625][f 6 1 2 0 0 6]斡Haz lo que puedas para encontrar las 雨ltimas[n]dos piezas, todos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 2 100 1][f 3 1 1 0 0 14625][f 6 1 2 0 0 6]斡Haz lo que puedas para encontrar las 雨ltimas[n]dos piezas![n][f 1 3 65535][f 1 1][e]
 

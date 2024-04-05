@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 1][f 3 1 1 0 0 0]Tambi姻n me preocupan nuestros compa隠eros. 斡Estoy listo para dejar que mis puños dirijan el camino![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0]*Suspiro* Mira a este tipo, sonriendo como un ni隠o... 斡Es mejor que no te vea corriendo solo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 6 0 0][f 3 1 1 0 0 0]*suspiro* Mira a este tipo, sonriendo como un ni隠o... 斡Es mejor que no te vea corriendo solo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 4 1 1][f 3 1 1 0 0 26003]Uh, um...[n][f 1 3 65535][f 1 1][e]

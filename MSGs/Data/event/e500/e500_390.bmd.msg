@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 39 10 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 4]夷Qu姻 es esto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]斡Miren! 夷¡Todos est茨n saliendo de sus Cines!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]斡Miren! 夷¡Todos est茨n saliendo de sus cines!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3][f 6 1 2 0 0 6]斡F-Funcion吋! ¡Wow![n][f 1 3 65535][f 1 1][e]

@@ -131,10 +131,10 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 21 14 1 1][f 3 1 1 0 0 21108][f 6 1 2 0 0 6]斡Bien, hag茨moslo! ¡Segunda ronda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 12 1 0][f 3 1 1 0 0 11102][f 6 1 2 0 0 9]*Jadeo* Mi espalda y brazos est茨n acabados... He superado mi l胤mite despu姻s de solo dos rondas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 12 1 0][f 3 1 1 0 0 11102][f 6 1 2 0 0 9]*jadeo* Mi espalda y brazos est茨n acabados... He superado mi l胤mite despu姻s de solo dos rondas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]*Jadeo* *Jadeo* 夷Alguien tiene alguna idea que no sea cargar m茨s cajas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]*jadeo* *jadeo* 夷Alguien tiene alguna idea que no sea cargar m茨s cajas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 4][f 3 1 1 0 0 0]夷Por qu姻 no metemos las 雨ltimas cajas dentro del traje de Teddie y simplemente lo rodamos hasta all茨?[n][f 1 3 65535][f 1 1][e]
@@ -205,7 +205,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 4 2 0 1][f 3 1 1 0 0 4044][f 6 1 2 0 0 1]斡S胤! ¡Funciona![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡S胤! ¡Vamos todos, en fila![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡S胤! ¡Vamos, en fila![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Si todos, incluida Ribbon, nos subimos, apuesto a que tendremos una tonelada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Chie]]

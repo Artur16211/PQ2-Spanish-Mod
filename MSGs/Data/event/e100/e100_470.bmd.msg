@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 14 1 1][f 3 1 1 0 0 5]S胤, 斡eso es![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 6]*Risa* Parece que las falsificaciones pueden ser bastante 雨tiles.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 6][f 3 1 1 0 0 6]*risa* Parece que las falsificaciones pueden ser bastante 雨tiles.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 32 0 1 9][f 3 1 1 0 0 7][f 6 1 2 0 0 0]斡Malditos! 夷¡Qu姻 hicieron!?[n][f 1 3 65535][f 1 1][e]

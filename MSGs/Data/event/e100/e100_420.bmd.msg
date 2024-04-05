@@ -39,7 +39,7 @@
 [f 0 5 65278][f 2 1]夷斡Ella... es la responsable de todo esto!?[f 2 7 1 64 8 32][e]
 
 [msg MSG_011 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 2 0 0][f 3 1 1 0 0 54031]*Risa* Pensar que llegar胤as a esa conclusi吋n... Est茨s bien adaptado a las tareas de detective.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 2 0 0][f 3 1 1 0 0 54031]*risa* Pensar que llegar胤as a esa conclusi吋n... Est茨s bien adaptado a las tareas de detective.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 72 12 0 0][f 3 1 1 0 0 0]Si la memoria no me falla, [f 6 1 26 0 0 0] vino aqu胤 a trav姻s de la Habitaci吋n Terciopelo...[n][f 1 3 65535][f 1 1][e]

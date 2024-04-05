@@ -90,7 +90,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 2 0 9][f 3 1 1 0 0 33][f 6 1 2 0 0 7]斡As胤 que, voy a hacer como un 茨rbol y salir de aquí![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 14 2 0 9][f 3 1 1 0 0 34]*Risa* Oh, Aigis...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 14 2 0 9][f 3 1 1 0 0 34]*risa* Oh, Aigis...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 14 12 0 9][f 3 1 1 0 0 35][f 6 1 2 0 0 6]斡Bueno, por favor cu胤dense![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yukari]]
@@ -172,7 +172,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 2 0 9][f 3 1 1 0 0 62][f 6 1 2 0 0 7]斡Yo tambi姻n quiero un poco! Vamos todos al Leblanc.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 12 0 9][f 3 1 1 0 0 63]No es como si fu姻ramos a recordarlo, 夷verdad? Bueno, al vamos al Leblanc todo el tiempo de todos modos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 65 12 0 9][f 3 1 1 0 0 63]No es como si fu姻ramos a recordarlo, 夷verdad? Bueno, vamos al Leblanc todo el tiempo de todos modos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 68 2 0 9][f 3 1 1 0 0 64]Me gustar胤a pedir un caf姻.[n][f 1 3 65535][f 1 1][e]

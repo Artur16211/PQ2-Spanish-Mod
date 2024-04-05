@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 3 1 1 0 0 0]Minutos m茨s tarde...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 0]*Jadeo* Fue complicado, pero esto deber胤a ser 雨til para tu rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 4][f 4 6 78 0 0 1][f 3 1 1 0 0 0]*jadeo* Fue complicado, pero esto deber胤a ser 雨til para tu rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora puedes usar 斡[f 0 1 2]Fusi吋n de 3 capas[f 0 1 0]! Esta requerir茨 tres Personas para funcionar.[n][f 1 3 65535][f 1 1][e]

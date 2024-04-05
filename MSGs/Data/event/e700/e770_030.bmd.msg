@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Solo... pens姻 que podr胤amos encontrar algo 雨til...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 3][f 3 1 1 0 0 0]*Risa* Suena emocionante seguir un mapa del tesoro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 3][f 3 1 1 0 0 0]*risa* Suena emocionante seguir un mapa del tesoro.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]夷Qu姻 tal si ponemos este mapa encima del nuestro? Entonces sabr胤amos su ubicaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]

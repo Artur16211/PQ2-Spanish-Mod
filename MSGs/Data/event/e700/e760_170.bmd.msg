@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Pero si sientes que conf胤as en ellos con todo tu coraz吋n, entonces no hay nada que temer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 27068]*Risa* Probablemente sea verdad. Estoy segura de que dir茨n cosas que no habr胤a pensado.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 27068]*risa* Probablemente sea verdad. Estoy segura de que dir茨n cosas que no habr胤a pensado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 2 0 0][f 3 1 1 0 0 0]No hay necesidad de encontrar una respuesta perfecta.[n][f 1 3 65535][f 1 1][e]

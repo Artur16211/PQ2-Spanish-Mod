@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 6 1 0][f 3 1 1 0 0 11086]Mmm... 畏l dijo, "斡Arf arf!"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 1][f 3 1 1 0 0 10091]*Suspiro* 夷Eres est雨pido? Todos o胤mos eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 1][f 3 1 1 0 0 10091]*suspiro* 夷Eres est雨pido? Todos o胤mos eso.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Ojal茨 Aigis estuviera aqu胤... Ella sabría lo que dice.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ribbon]]

@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 4 6 68 4 1 0][f 3 1 1 0 0 0]Popcorn... O胤r que la palabra es hacer que[n]mi est吋mago se ronque.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 0 1 1][f 3 1 1 0 0 56029]He estado esperando, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 0 1 1][f 3 1 1 0 0 56029]He estado esperando.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56119]Creo que me he superado en esta 雨ltima[n]creaci吋n. Por supuesto, por favor, prueba un[n]poco.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Haru]]

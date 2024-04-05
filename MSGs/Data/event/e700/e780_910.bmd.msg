@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 4]夷Es... una hoja de escribir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 2 0 1][f 3 1 1 0 0 10]Oh, 夷es de Marie? Ella hace eso de vez en cuando... *Risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 75 2 0 1][f 3 1 1 0 0 10]Oh, 夷es de Marie? Ella hace eso de vez en cuando... *risa*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011]
 [f 0 5 65278][f 2 1][f 4 6 64 5 1 0][f 3 1 1 0 0 0]Parece que esta hoja le pertenece a Marie...[n][f 1 3 65535][f 1 1][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 11][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Waaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 2 2 1][f 3 1 1 0 0 12][f 6 1 2 0 0 6]*Jadeo* *Jadeo*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 2 2 1][f 3 1 1 0 0 12][f 6 1 2 0 0 6]*jadeo* *jadeo*[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 1][f 3 1 1 0 0 13][f 6 1 2 0 0 0]夷斡Lo... lo le胤ste!? ¿¡Eh!? ¡¿LO HICISTE?![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_017 top]
@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 26][f 6 1 2 0 0 6]斡PAAAAAAARA! ¡Deja de citarme, deja de citarme, deja de citarme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 75 2 0 6][f 3 1 1 0 0 27]*Risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 75 2 0 6][f 3 1 1 0 0 27]*risa*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 4 1 0][f 3 1 1 0 0 28][f 6 1 2 0 0 3]Todos son... tan malos...[n][f 1 3 65535][f 1 1][e]

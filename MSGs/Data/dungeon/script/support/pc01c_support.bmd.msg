@@ -212,7 +212,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28361]Tengo plena confianza en que podemos hacerlo.[n][f 1 6 65535][e]
 
 [msg AKECHI_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28362]Todos est姻n alertas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28362]Todos est姻n alerta.[n][f 1 6 65535][e]
 
 [msg AKECHI_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28363]Comencemos la misi吋n.[n][f 1 6 65535][e]

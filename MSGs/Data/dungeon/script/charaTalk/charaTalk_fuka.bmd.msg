@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14501]Parece que podr胤a haber un tesoro en ese lugar. 夷Quieres comprobarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14574]斡Correcto! 斡Mantengan los ojos bien abiertos, todos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14574]斡Correcto! 斡Mantengan los ojos bien abiertos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14573]斡Entendido! 斡Vamos a centrarnos al m茨ximo en buscar objetos![n][f 1 3 65535][f 1 1][e]

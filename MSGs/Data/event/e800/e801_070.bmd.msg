@@ -74,7 +74,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 4 0 6][f 3 1 1 0 0 21036][f 6 1 2 0 0 6]夷T雨 crees?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 69 1 0 4][f 4 6 71 2 0 1][f 3 1 1 0 0 0]Hm, hm... Gracias de nuevo, todos. Nos alegra[n]estar aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 69 1 0 4][f 4 6 71 2 0 1][f 3 1 1 0 0 0]Hm, hm... Gracias de nuevo. Nos alegra[n]estar aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 0]Y no nos referimos como parte de los Ladrones[n]Fantasma.[n][f 1 3 65535][f 1 1][e]

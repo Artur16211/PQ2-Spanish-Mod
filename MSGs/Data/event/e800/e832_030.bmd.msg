@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9014]Considerando a todos ustedes hermosas damas[n]fueron especialmente elegidas para esta[n]especial...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]La capacidad de animar a alguien debe ser un[n]requisito previo para convertirse en[n]una chica bonita![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]As胤 que si aprendo las t姻cnicas adecuadas[n]para animar a los dem茨s, puedo volverme[n]a雨n m茨s hermosa![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Muy bien, todos! 斡Ens姻隠ame tus secretos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Muy bien! 斡Ens姻隠ame tus secretos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 6 100 0][f 3 1 1 0 0 6513][f 6 1 2 0 0 4]Oye, eso no parece muy justo.[n][f 1 3 65535][f 1 1][e]

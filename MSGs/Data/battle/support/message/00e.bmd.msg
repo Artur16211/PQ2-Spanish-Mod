@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_014_001]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 14300]斡Un enemigo poderoso! 斡cuidado, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 14300]斡Un enemigo poderoso! 斡cuidado![n][f 1 6 65535][e]
 
 [msg BTL_MES_014_002]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 14301]斡Claro! 斡Te respaldar姻![n][f 1 6 65535][e]

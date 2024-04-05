@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0]斡No lo digas as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 1 100 3][f 4 6 14 2 100 1][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]*Risa* Tambi姻n tengo curiosidad por estos robots.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 1 100 3][f 4 6 14 2 100 1][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]*risa* Tambi姻n tengo curiosidad por estos robots.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Las tareas tan detalladas que hacen requerir胤an una tecnología muy avanzada. Me pregunto como es su IA...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
@@ -75,7 +75,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0]斡No lo digas as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0007 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 1 0 3][f 4 6 14 2 100 1][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]*Risa* Tambi姻n tengo curiosidad por estos robots.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 1 0 3][f 4 6 14 2 100 1][f 3 1 1 0 0 14530][f 3 1 6 0 0 500]*risa* Tambi姻n tengo curiosidad por estos robots.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Las tareas tan detalladas que hacen requerir胤an una tecnología muy avanzada. Me pregunto como es su IA...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0008 [Futaba]]

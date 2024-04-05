@@ -128,7 +128,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 4 0 1][f 3 1 1 0 0 49][f 6 1 2 0 0 0]夷Podr胤an dejar de pelear? 斡Este no es momento para discusiones infantiles![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 50][f 6 1 3 0 0 1]*Risa* Ustedes dos nunca cambian.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 50][f 6 1 3 0 0 1]*risa* Ustedes dos nunca cambian.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Justine]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 78 1 0 1][f 4 6 79 0 0 4][f 3 1 1 0 0 51]Aun as胤...[n][f 1 3 65535][f 1 1][e]
@@ -400,7 +400,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 1 0 3][f 4 6 16 6 0 6][f 3 1 1 0 0 147]Nuestro l胤der...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_123 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 148]*Jadeo*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 148]*jadeo*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_124 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 12 4 0 3][f 3 1 1 0 0 149][f 6 1 2 0 0 6]Incluso si Aigis est茨 con 姻l, ella no podrá manejarlo sola. 斡Necesitamos encontrarlos y rescatarlos, pronto![n][f 1 3 65535][f 1 1][e]

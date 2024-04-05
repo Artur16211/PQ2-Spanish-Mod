@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6300]Esa parece dura... 斡Cuidado, chicos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_002]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6301]斡Mant姻nganse alerta, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6301]斡Mant姻nganse alerta![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_003]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6202]Oh no, 夷斡un FOE...!? 斡Debemos retroceder![n][f 1 6 65535][e]
@@ -353,7 +353,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6421]斡El fuego es efectivo! 斡Quemenlos a todos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_118]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6422]斡Odia el fr胤o! 夷Qui姻n no? 斡Intente atacar[n]con hielo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6422]斡Odia el fr胤o! 夷Qui姻n no? 斡Intenta atacar[n]con hielo![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_119]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6423]斡Es d姻bil contra el viento! 夷Puedes[n]golpearlo?[n][f 1 6 65535][e]
@@ -374,7 +374,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6428]斡Los ataques de maldici吋n son buenos contra ese![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_125]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6241]斡Lo est茨s haciendo genial, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6241]斡Lo est茨s haciendo genial![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_126]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6242]斡Vamos, vamos, vamos! 斡Derr胤benlos a todos![n][f 1 6 65535][e]
@@ -398,7 +398,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6246]斡Av胤same si hay algo que pueda hacer para[n]ayudar![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_133]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6250]斡Vamos, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6250]斡Vamos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_134]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6251]斡Acabemos con esto![n][f 1 6 65535][e]
@@ -530,7 +530,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6940]Algo horrible le est茨 pasando... 斡Tengan cuidado, chicos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_177]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6941]斡Todos, por los ojos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6941]斡Por los ojos![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_178]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6942]夷Es su punto d姻bil? 斡Yo digo que concentres[n]tus ataques all胤![n][f 1 6 65535][e]

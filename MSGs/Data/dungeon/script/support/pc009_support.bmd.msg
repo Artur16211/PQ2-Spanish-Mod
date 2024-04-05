@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9304]斡Ten cuidado con ese FOE![n][f 1 6 65535][e]
 
 [msg KUMA_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9305]*Oler oler* Este olor... 斡Es un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9305]*oler oler* Este olor... 斡Es un FOE![n][f 1 6 65535][e]
 
 [msg KUMA_FOE_FOLLOW_END_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9306]斡Muy lento! 斡No nos atrapar茨 un FOE miserable![n][f 1 6 65535][e]
@@ -71,10 +71,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9329]斡Es un cofre del tesoro! 斡Ooh! 斡Ooh! 夷斡Qu姻 hay[n]dentro!?[n][f 1 6 65535][e]
 
 [msg KUMA_CHECK_WALL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9330]*Oler oler* Hay pescador aqu胤...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9330]*oler oler* Hay pescador aqu胤...[n][f 1 6 65535][e]
 
 [msg KUMA_CHECK_WALL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9331]*Oler oler* Apuesto a que hay algo aqu胤...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9331]*oler oler* Apuesto a que hay algo aqu胤...[n][f 1 6 65535][e]
 
 [msg KUMA_CHECK_WALL_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9332]斡Estoy viendo algo sospechoso por aqu胤![n][f 1 6 65535][e]
@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9360]斡Sigamos nuestro camino![n][f 1 6 65535][e]
 
 [msg KUMA_DUNGEON_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9361]斡Todos, s胤ganme![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9361]斡S胤ganme![n][f 1 6 65535][e]
 
 [msg KUMA_DUNGEON_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9362]斡Estamos en marcha y en nuestro camino![n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9344]斡No nos perderemos si sabemos d吋nde est茨n[n]las escaleras![n][f 1 6 65535][e]
 
 [msg KUMA_MAPPING_ICON_KAIDAN_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9345]*Silbido* 斡Estoy muy impresionado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9345]*silbido* 斡Estoy muy impresionado![n][f 1 6 65535][e]
 
 [msg KUMA_MAPPING_CHANGE_COLO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9346]斡Yo, yo, yo! 斡D姻jame dibujar tambi姻n![n][f 1 6 65535][e]

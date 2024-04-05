@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55381]Qu姻 fuerte viento.[n][f 1 6 65535][e]
 
 [msg MARGARET_KYOUHU_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55382]Cuidado con d吋nde pisan, todos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55382]Cuidado con d吋nde pisan.[n][f 1 6 65535][e]
 
 [msg MARGARET_KYOUHU_REACTION_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55383]斡Es una brisa![n][f 1 6 65535][e]

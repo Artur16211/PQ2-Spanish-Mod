@@ -55,7 +55,7 @@
 
 [msg MSG_017 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 2 0 0 3][f 4 6 23 6 0 1][f 3 1 1 0 0 19]Mmm... supongo que es solo mi imaginaci吋n.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 20]De todos modos, 斡es la hora de transformarse! ¡Atr茨s, todos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 20]De todos modos, 斡es la hora de transformarse! ¡Atr茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 6 0 0][f 3 1 1 0 0 21]No puedo creer que este gato se convierta en un coche... Qu姻 mundo tan fascinante es este.[n][f 1 3 65535][f 1 1][e]

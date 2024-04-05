@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 15]S胤, nos pasa mucho. Ocurre de forma natural.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 4][f 4 6 84 2 2 1][f 3 1 1 0 0 16]Bienvenidos todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 4][f 4 6 84 2 2 1][f 3 1 1 0 0 16]Bienvenidos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Estoy realmente aliviada de que encontraran a su amigo perdido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yosuke]]
@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 42][f 6 1 2 0 0 4]夷Hikari?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 43]La mayor胤a decidi吋 abandonarla... Pero todos fueron a rescatarla de todos modos, porque...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 43]La mayor胤a decidi吋 abandonarla... Pero ustedes fueron a rescatarla de todos modos, porque...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 44][f 6 1 2 0 0 4]夷Por qu姻 quer胤as ser fiel a tus sentimientos?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]

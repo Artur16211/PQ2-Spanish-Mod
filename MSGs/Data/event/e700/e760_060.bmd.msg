@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 12 0 1][f 3 1 1 0 0 25068]Ya lo oyeron. Podr胤amos estar buscando problemas, así que no deberíamos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 6 0 1][f 3 1 1 0 0 25039][f 6 1 2 0 0 9]*Jadeo* 夷T雨 tambi姻n, Joker?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 25 6 0 1][f 3 1 1 0 0 25039][f 6 1 2 0 0 9]*jadeo* 夷T雨 tambi姻n, Joker?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_1 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0]Es peligroso consumir por descuido algo de lo que no sabemos nada.[n][f 1 3 65535][f 1 1][e]
@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 2 0 0][f 3 1 1 0 0 0]Bajo la refrescante acidez se esconde un dulzor espeso, como de miel... 斡Le doy tres estrellas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0]斡Te lo dije! ¡Vamos, todos, coman![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 1][f 3 1 1 0 0 0]斡Te lo dije! ¡Vamos, coman![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013_1 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 16 1 0][f 3 1 1 0 0 9102][f 6 1 2 0 0 0]...Espera, 夷斡hragh!?[n][f 1 3 65535][f 1 1][e]
@@ -103,5 +103,5 @@
 
 [msg MSG_023 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 4 0 6][f 3 1 1 0 0 25035][f 6 1 2 0 0 2]斡Basta![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]*Jadeo* Es peligroso quedarse aqu胤 mucho tiempo. Vamos, Joker.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 0 0][f 3 1 1 0 0 0]*jadeo* Es peligroso quedarse aqu胤 mucho tiempo. Vamos, Joker.[n][f 1 3 65535][f 1 1][e]
 

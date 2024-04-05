@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26130]Buen trabajo, todos! Misi吋n completa![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 3][f 3 1 1 0 0 26130]Buen trabajo! Misi吋n completa![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 0]Gracias, Futaba. Buen trabajo navegando.[n][f 1 3 65535][f 1 1][e]
@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 3][f 3 1 1 0 0 0]斡No son malos! Tendremos que hacerlo nosotros[n]mismos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54115]Bien hecho, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54115]Bien hecho.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Estaba tan entrada por la caza de tesoros,[n]que casi me olvido de respirar.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Fue una exhibici吋n muy h茨bil. Era como ver[n]una pel胤cula del ladr吋n fantasma.[n][f 1 3 65535][f 1 1][e]
 

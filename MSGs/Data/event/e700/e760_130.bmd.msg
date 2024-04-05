@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡夷Cu茨ntas veces tendremos la oportunidad de escuchar a una idol cantar para nosotros solos?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 2 100 3][f 3 1 1 0 0 6530][f 3 1 6 0 0 500]*Risa* Si eso los anima, lo har姻.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 2 100 3][f 3 1 1 0 0 6530][f 3 1 6 0 0 500]*risa* Si eso los anima, lo har姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010_1 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 100 0][f 3 1 1 0 0 0]Pero no podemos bajar la guardia mientras exploramos, as胤 que tal vez sería mejor guardarlo para cuando regresemos, 夷sí?[n][f 1 3 65535][f 1 1][e]

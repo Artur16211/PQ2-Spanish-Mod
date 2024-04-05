@@ -144,13 +144,13 @@
 
 [msg MSG_043 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 80 1 0 3][f 4 6 74 1 4 1][f 3 1 1 0 0 54014]...Theo. Tu invitada tiene tanta urgencia de reunirse con sus compa隠eros.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]En un momento como este... *Masticar* *Masticar* 夷Qu姻 crees que deber胤amos hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]En un momento como este... *masticar* *masticar* 夷Qu姻 crees que deber胤amos hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 6 0 0][f 3 1 1 0 0 0]Vigilarla. Eso es todo lo que podemos hacer...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 1 4 0][f 3 1 1 0 0 54016]Entonces... Centr姻monos en observar de cerca, con palomitas... *Masticar*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 1 4 0][f 3 1 1 0 0 54016]Entonces... Centr姻monos en observar de cerca, con palomitas... *masticar*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 6 80 12 0 0][f 3 1 1 0 0 0]Hermana... 夷Podr胤as concentrarte en comer o hablar, y no hacer ambas cosas?[n][f 1 3 65535][f 1 1][e]

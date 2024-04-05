@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 3][f 3 1 1 0 0 3043]斡S胤! 斡Eso es lo que pasa cuando nos ponemos[n]serios![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 0]No est茨 mal, todos. Pero no tan impresionante[n]como yo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 1][f 3 1 1 0 0 0]No est茨 mal. Pero no tan impresionante[n]como yo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Lo siento, pero esa es la realidad de trabajar[n]junto a un as de SEES como yo. No[n]puedo evitar ser MVP.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Ryuji]]

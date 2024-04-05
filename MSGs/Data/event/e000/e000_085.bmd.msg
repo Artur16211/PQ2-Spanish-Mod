@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 2 1][f 3 1 1 0 0 1][f 6 1 2 0 0 6]Oigan todos, miren el Navegador. No est茨 funcionando... Algo está mal aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 2 1][f 3 1 1 0 0 1][f 6 1 2 0 0 6]Chicos, miren el Navegador. No est茨 funcionando... Algo está mal aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 4]Todos tienen la misma pantalla de error... As胤 que, 夷la aplicaci吋n est茨 fallando para todos a la vez?[n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 26 3 0 6][f 3 1 1 0 0 12]Si no quieres agredirlo, amen茨zalo con tus picos, 斡Queen![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 9]*Suspiro* Bien, supongo que fue mi idea en primer lugar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 13][f 6 1 2 0 0 9]*suspiro* Bien, supongo que fue mi idea en primer lugar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 6][f 3 1 1 0 0 14]S胤, supongo que quedarnos parados y solo hablar de ello no nos est茨 llevando a ninguna parte...[n][f 1 3 65535][f 1 1][e]

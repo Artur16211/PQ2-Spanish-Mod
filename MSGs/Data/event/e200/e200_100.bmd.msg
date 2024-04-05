@@ -100,7 +100,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 10 1 4][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Maestro, tenemos que apurarnos! ¡Rise est茨 empeorando cada minuto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Chica Coja]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 6 0 2 1][f 3 1 1 0 0 37]*Jadeo* *Jadeo*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 6 0 2 1][f 3 1 1 0 0 37]*jadeo* *jadeo*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 1 5][f 6 1 27 0 0 0][n][f 4 6 19 10 0 0]斡Est茨 sudando demasiado! 夷Y su cara está tan pálida...? ¿Está enferma?[n][f 1 3 65535][f 1 1][e]

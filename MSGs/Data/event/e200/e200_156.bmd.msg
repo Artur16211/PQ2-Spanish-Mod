@@ -1,11 +1,11 @@
 [msg MSG_000 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 12 0 1][f 3 1 1 0 0 65073][f 6 1 2 0 0 4]*Suspiro* Bueno, escucha. Voy a explicar esto una vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 12 0 1][f 3 1 1 0 0 65073][f 6 1 2 0 0 4]*suspiro* Bueno, escucha. Voy a explicar esto una vez...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Te ayudar姻 a conectarte con "mundos que no est茨n aqu胤". Hay gente como t雨 en esos mundos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y cuando digo "como t雨", tambi姻n me refiero a que est茨n atrapados en sus mundos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Se llama "StreetPass". Estoy bastante segura de que te ayudar茨n de alguna manera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 12 0 1][f 3 1 1 0 0 65073][f 6 1 2 0 0 4]*Suspiro* Bueno, escucha. Voy a explicar esto una vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 85 12 0 1][f 3 1 1 0 0 65073][f 6 1 2 0 0 4]*suspiro* Bueno, escucha. Voy a explicar esto una vez...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Te ayudar姻 a conectarte con "mundos que no est茨n aqu胤". Hay gente como t雨 en esos mundos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Y cuando digo "como t雨", tambi姻n me refiero a que est茨n atrapados en sus mundos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 12 0 1][f 3 1 1 0 0 0]Estoy bastante segura de que te ayudar茨n de alguna manera.[n][f 1 3 65535][f 1 1][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 2 0 6][f 3 1 1 0 0 21075]Bien, entonces te dejaremos todo eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 2 0 6][f 3 1 1 0 0 0]*Risa* Te has acostumbrado bastante a proporcionar esas explicaciones...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 2 0 6][f 3 1 1 0 0 0]*risa* Te has acostumbrado bastante a proporcionar esas explicaciones...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 6 0 6][f 3 1 1 0 0 0]Todo lo que queda ahora es mejorar tus poemas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Marie]]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 2 0 0][f 3 1 1 0 0 65040]Aprendes sorprendidamente r茨pido... a diferencia de alguien más.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Margaret]]
-[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]Oh, querida, 夷a qui姻n podr胤as estar refiriéndote? *Risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 0]Oh, querida, 夷a qui姻n podr胤as estar refiriéndote? *risa*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Hrgh...[n][f 1 3 65535][f 1 1][e]

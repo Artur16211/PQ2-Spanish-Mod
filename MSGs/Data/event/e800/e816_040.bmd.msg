@@ -43,5 +43,5 @@
 
 [msg MSG_013 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 6 100 1][f 3 1 1 0 0 14502]No quiero arruinar la diversi吋n, pero[n]probablemente deber胤amos irnos.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 14 12 100 1][f 3 1 1 0 0 0]El contenedor est茨 justo por delante. Ten[n]cuidado, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 12 100 1][f 3 1 1 0 0 0]El contenedor est茨 justo por delante. Ten[n]cuidado.[n][f 1 3 65535][f 1 1][e]
 

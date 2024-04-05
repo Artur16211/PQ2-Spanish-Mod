@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷斡Pero qu姻 demonios!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Todos, tengan cuidado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Tengan cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 81 0 2 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Eek![n][f 1 3 65535][f 1 1][e]
@@ -30,7 +30,7 @@
 
 [sel SEL_010 top]
 [f 0 5 65278][f 2 1]Veamos qu姻 sucede.[e]
-[f 0 5 65278][f 2 1]Todos, en guardia.[e]
+[f 0 5 65278][f 2 1]En guardia.[e]
 [f 0 5 65278][f 2 1]Prep茨rense para salir corriendo.[e]
 
 [msg MSG_011 [Doe]]

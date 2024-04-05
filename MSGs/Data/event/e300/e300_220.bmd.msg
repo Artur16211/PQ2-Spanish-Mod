@@ -418,7 +418,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 1][f 3 1 1 0 0 3036][f 6 1 2 0 0 6]斡Espera! ¡"O" u "X" son las 雨nicas opciones![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_126 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 0 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]*Suspiro* 夷Podr胤an ustedes dos tomar esto en serio, por favor?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 0 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]*suspiro* 夷Podr胤an ustedes dos tomar esto en serio, por favor?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_127 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 7 6 0 0][f 4 6 13 0 0 1][f 3 1 1 0 0 13023][f 6 1 2 0 0 4]La respuesta que parece ajustarse a las leyes de este mundo es "X". Nadie tiene objeciones a esto, 夷verdad?[n][f 1 3 65535][f 1 1][e]

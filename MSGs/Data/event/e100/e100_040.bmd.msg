@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 10 1 0][f 3 1 1 0 0 10]夷Pero de d吋nde?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Akechi]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 72 2 0 4][f 3 1 1 0 0 11]Oh, 夷como si nos fuera bien aqu胤? Jaja, es una manera divertida de decirlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 7][f 4 6 72 2 0 4][f 3 1 1 0 0 11]Oh, 夷como si nos fuera bien aqu胤? Ja, ja, es una manera divertida de decirlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ryuji]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 10 1 0][f 3 1 1 0 0 12]Espera, 夷de qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]

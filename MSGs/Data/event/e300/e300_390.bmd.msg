@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 19][f 6 1 2 0 0 0]斡Ooooooh! 夷Est茨 a punto de confesar sus sentimientos por 姻l?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 6 0 6][f 3 1 1 0 0 20][f 6 1 2 0 0 9]*Suspiro* Realmente no puedes dejar de pensar en esas cosas, 夷verdad? Qu姻 chico tan simple...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 6 0 6][f 3 1 1 0 0 20][f 6 1 2 0 0 9]*suspiro* Realmente no puedes dejar de pensar en esas cosas, 夷verdad? Qu姻 chico tan simple...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 2 1 0 3][f 4 6 11 12 0 1][f 3 1 1 0 0 21][f 6 1 2 0 0 4]Pero t雨 tampoco sabes nada acerca de[n][f 6 1 27 0 0 0], 夷verdad, [n][f 6 1 16 0 0 0]?[n][f 1 3 65535][f 1 1][e]
@@ -99,7 +99,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 35][f 6 1 2 0 0 6]*Chilla* Se han declarado el uno al otro, 斡eso prueba que son uno solo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]*Silbido* 斡Ustedes dos son tan 胤ntimos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]*silbido* 斡Ustedes dos son tan 胤ntimos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 6 0 6][f 3 1 1 0 0 37]Un chico y una chica, llegando a la edad adulta de dos mundos diferentes, nunca destinados a encontrarse...[n][f 1 3 65535][f 1 1][e]
@@ -175,10 +175,10 @@
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 65][f 6 1 2 0 0 0]夷斡Qu姻eee...!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 2 1 1][f 3 1 1 0 0 66][f 6 1 2 0 0 6]Snrk... Jajaja... Kanji, un gorila... Pfft... 斡Jajaja! ¡Jajajajajaja![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 5 2 1 1][f 3 1 1 0 0 66][f 6 1 2 0 0 6]Snrk... Ja, ja, ja... Kanji, un gorila... Pfft... 斡Ja, ja, ja! ¡Jajajajajaja![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 71 2 0 4][f 3 1 1 0 0 67]*Risa* N-No deber胤a reírme de eso... Yukiko... *Risa*[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 71 2 0 4][f 3 1 1 0 0 67]*risa* N-No deber胤a reírme de eso... Yukiko... *risa*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 68]Heheh...[n][f 1 3 65535][f 1 1][e]

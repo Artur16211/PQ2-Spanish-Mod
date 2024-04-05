@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]Oh! Lonely! 斡斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 65051]*Jadeo* 斡Eso es! 斡Eso es genial![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 65051]*jadeo* 斡Eso es! 斡Eso es genial![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Lonely Lucifer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Marie]]

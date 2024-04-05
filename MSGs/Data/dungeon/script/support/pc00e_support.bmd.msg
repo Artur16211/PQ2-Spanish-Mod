@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14399]斡Entendido! 斡Har姻 lo mejor que pueda![n][f 1 6 65535][e]
 
 [msg RISE_FUKA_ANSWER_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14400]Tomar姻 el control desde aqu胤, Rise. 斡Vamos, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14400]Tomar姻 el control desde aqu胤, Rise. 斡Vamos![n][f 1 6 65535][e]
 
 [msg RISE_FUKA_ANSWER_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14401]Esa fue una navegaci吋n impresionante. 斡Tengo grandes zapatos que llenar![n][f 1 6 65535][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14392]夷Tal vez deber胤as regresar y poner algunos[n]art胤culos en almacenamiento?[n][f 1 6 65535][e]
 
 [msg FUKA_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14369]斡Buena suerte, todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14369]斡Buena suerte![n][f 1 6 65535][e]
 
 [msg FUKA_DUNGEON_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14370]Recuerden, no necesitan agotarse.[n][f 1 6 65535][e]

@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54031]Todos, me disculpo profundamente por la larga[n]espera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 74 12 100 1][f 3 1 1 0 0 54031]Me disculpo profundamente por la larga[n]espera.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]He estudiado esa pel胤cula que descubriste,[n]y tengo algunas teor胤as.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_001 top]

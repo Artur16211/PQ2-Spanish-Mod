@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Elizabeth]]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 74 0 2 1][f 3 1 1 0 0 54115]Bien hecho, todos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 74 0 2 1][f 3 1 1 0 0 54115]Bien hecho.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Esta proyecci吋n se neg吋 a permanecer como[n]una caza de tesoros fascinante.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 6 100 1][f 3 1 1 0 0 0]Cuando el robot se despert吋, fue como si mis[n]sentimientos fueran, 夷c吋mo deber胤a[n]ponerlo, "hit by a truck"? Romp胤 en l茨grimas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 74 0 100 1][f 3 1 1 0 0 0]Tienes mi m茨s profunda gratitud por haberme[n]llevado a trav姻s de una historia tan[n]conmovedora.[n][f 1 3 65535][f 1 1][e]

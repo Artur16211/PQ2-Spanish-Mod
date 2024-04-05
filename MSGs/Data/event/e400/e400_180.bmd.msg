@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 0]No, est茨 bien. No s姻 nada de eso, as胤 que siéntete libre de contármelo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 61152]*Risa* Gracias. Me alegra escucharlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 61152]*risa* Gracias. Me alegra escucharlo.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Ahora que lo pienso, no puedo evitar hablar mucho cuando se trata de pel胤culas... La gente se suele molestar conmigo por eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Yusuke]]
@@ -50,10 +50,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Todav胤a recuerdo cuando descubrí que los di茨logos no son la 雨nica forma de comunicar un mensaje.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5032]*Risa* Parece que amas los musicales, Hikari.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5032]*risa* Parece que amas los musicales, Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]*Jadeo* 斡Lo siento! Ah胤 voy otra vez, divagando...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]*jadeo* 斡Lo siento! Ah胤 voy otra vez, divagando...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Es bastante sorprendente, en realidad.[f 2 7 1 20 0 32][e]

@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56001]Hola a todos. 夷C吋mo est茨s?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 12 0 1][f 3 1 1 0 0 56001]Hola. 夷C吋mo est茨n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 10 100 3][f 3 1 1 0 0 54095]斡Villain![n][f 1 3 65535][f 1 1][e]

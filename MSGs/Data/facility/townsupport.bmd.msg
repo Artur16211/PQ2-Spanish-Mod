@@ -14,10 +14,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 61203]Vamos a asegurarnos de estar listos antes de salir.[n][f 1 6 65535][e]
 
 [msg town_okaeri_HIKARI_mes05]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 61204]斡Bienvenidos todos![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 61204]斡Bienvenidos![n][f 1 6 65535][e]
 
 [msg town_okaeri_NAGI_mes01]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 64220]Todos, aseg雨rense de descansar lo necesario.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 64220]Aseg雨rense de descansar lo necesario.[n][f 1 6 65535][e]
 
 [msg town_okaeri_NAGI_mes02]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 64221]Me alegra que est姻s a salvo.[n][f 1 6 65535][e]
@@ -149,7 +149,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 8203]Aconsejo que tomemos algunos Talue-Gos.[n][f 1 6 65535][e]
 
 [msg town_returnitem_KUMA_mes]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 9203]夷Estamos todos sin Talue-Gos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 9203]夷Estamos sin Talue-Gos?[n][f 1 6 65535][e]
 
 [msg town_returnitem_YOUSUKE_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3203]斡Vamos a por unos Talue-Gos![n][f 1 6 65535][e]
@@ -515,7 +515,7 @@
 [f 0 5 65278][f 2 1]夷Eh? 斡E-En serio![n][f 1 2 50][e]
 
 [msg town_bg02_NAGI_mes01]
-[f 0 5 65278][f 2 1]Oh... *Risa*[n][f 1 2 45][e]
+[f 0 5 65278][f 2 1]Oh... *risa*[n][f 1 2 45][e]
 
 [msg town_bg02_NAGI_mes02]
 [f 0 5 65278][f 2 1]Oh, Hikari... Hmhmhm.[n][f 1 2 65][e]
@@ -548,7 +548,7 @@
 [f 0 5 65278][f 2 1]斡"Un texto perdido" me hizo re胤r tan fuerte que me doli吋 el estómago![n][f 1 2 135][e]
 
 [msg town_bg02_YUKIKO_mes02]
-[f 0 5 65278][f 2 1]*Jadeo* Este debe ser el legendario ritual conocido como "charla de chicas".[n][f 1 2 70][e]
+[f 0 5 65278][f 2 1]*jadeo* Este debe ser el legendario ritual conocido como "charla de chicas".[n][f 1 2 70][e]
 
 [msg town_bg02_RISE_mes01]
 [f 0 5 65278][f 2 1]Estoy impaciente por "Vacaciones en Roma".[n][f 1 2 80][e]
@@ -773,7 +773,7 @@
 [f 0 5 65278][f 2 1]夷Est茨s recopilando los datos de Aigis, Futaba?[n][f 1 2 110][e]
 
 [msg town_bg08_ZABES_mes01]
-[f 0 5 65278][f 2 1]*Risa* 斡Qu姻 acontecimientos tan conmovedores![n][f 1 2 160][e]
+[f 0 5 65278][f 2 1]*risa* 斡Qu姻 acontecimientos tan conmovedores![n][f 1 2 160][e]
 
 [msg town_bg08_FUKA_mes01]
 [f 0 5 65278][f 2 1]斡Oh, no, tu habilidad con el hacha es incre胤ble! Estoy asombrado, Haru.[n][f 1 2 175][e]
@@ -890,7 +890,7 @@
 [f 0 5 65278][f 2 1]斡Qu姻 apetito! ¡Apenas puedo cumplir la demanda de palomitas![n][f 1 2 165][e]
 
 [msg town_bg11_HARU_mes01]
-[f 0 5 65278][f 2 1]*Risa* Este es el 雨ltimo. Necesitar姻 mi fuerza.[n][f 1 2 95][e]
+[f 0 5 65278][f 2 1]*risa* Este es el 雨ltimo. Necesitar姻 mi fuerza.[n][f 1 2 95][e]
 
 [msg town_bg11_HARU_mes02]
 [f 0 5 65278][f 2 1]Theodore, 夷me das un poco de t姻? Earl Grey estar胤a bien.[n][f 1 2 140][e]
@@ -965,7 +965,7 @@
 [f 0 5 65278][f 2 1]夷Est茨n todos listos?[n][f 1 2 50][e]
 
 [msg town_bg12_AEGIS_mes01]
-[f 0 5 65278][f 2 1]Vamos, todos. Lucharemos juntos.[n][f 1 2 110][e]
+[f 0 5 65278][f 2 1]Vamos. Lucharemos juntos.[n][f 1 2 110][e]
 
 [msg town_bg12_AEGIS_mes02]
 [f 0 5 65278][f 2 1]Voy a darlo todo. No perderemos.[n][f 1 2 80][e]
