@@ -1,10 +1,10 @@
 ﻿[msg MSG_000 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24109]Whew... Nos las arreglamos para derrotarlos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 24 2 0 1][f 3 1 1 0 0 24109]Uf... Nos las arreglamos para derrotarlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Ugh! 斡Mi cuerpo se siente tan perezoso ahora[n]mismo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]斡Ugh! ¡Mi cuerpo se siente tan pesado ahora mismo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 28 0 0 1][f 3 1 1 0 0 0]Mientras no hay nada que podamos hacer pero[n]acostumbrarnos a ello... Todav胤a es[n]frustrante.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28131]Joker, considerando la condici吋n en la que[n]estamos, debemos evitar hacer algo[n]imprudente. Procedamos con precauci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 28 0 0 1][f 3 1 1 0 0 0]No hay nada que podamos, solo queda acostumbrarnos a ello... Es frustrante.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 12 0 1][f 3 1 1 0 0 28131]Joker, considerando nuestra situaci吋n, debemos evitar hacer algo arriesgado. Procedamos con precaución.[n][f 1 3 65535][f 1 1][e]
 

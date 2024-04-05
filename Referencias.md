@@ -98,6 +98,7 @@
 | Splash Damage          | Daño por Salpicadura           |                                  |
 | Self                   | Propio                         |                                  |
 | Party Meter            | Medidor de Grupo               |                                  |
+| Searchlights           | Luces de busqueda                          |                                  |
 | **Historia** ############## | ################ | ######## |
 | the curator            | La Curadora                    |                                  |
 | concession stand       | puesto de comida               |                                  |

@@ -1,6 +1,6 @@
 [msg MSG_000 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 14 6 1][f 3 1 1 0 0 61194][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Por favor, d姻jame ayudar![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Solo puedo animarte, 斡pero quiero ayudarte tanto como pueda![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Solo puedo animarte, 斡pero quiero ayudar tanto como pueda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 1 0][f 3 1 1 0 0 0]De acuerdo. Luchemos juntos contra esto.[n][f 1 3 65535][f 1 1][e]
@@ -15,5 +15,5 @@
 [f 0 5 65278][f 2 1][f 4 6 81 2 1 0][f 3 1 1 0 0 61162][f 6 1 2 0 0 6]斡Mmm![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 61194]斡Te animar姻! ¡Déjalo en mis manos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 61194]斡Te animar姻! ¡Déjamelo a m胤![n][f 1 3 65535][f 1 1][e]
 

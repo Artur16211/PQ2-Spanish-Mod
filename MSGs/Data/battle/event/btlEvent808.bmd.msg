@@ -1,31 +1,31 @@
 [msg MSG_000 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 511][f 6 1 3 0 0 2]Soy el torbellino encarnado... Aquel que ustedes, los humanos, llaman "Enlil"...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 512][f 6 1 3 0 0 2]Si tu resoluci吋n, determinación y creencias son como dices... 斡Entonces demu姻stralo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 512][f 6 1 3 0 0 2]Si su soluci吋n, determinación y creencias son como dicen... 斡Entonces demu姻strenlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 513][f 6 1 2 0 0 10]斡E-Estoy percibiendo un poder enorme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 99 8][f 3 1 3 0 0 514][f 6 1 2 0 0 6]Este es un oponente extremadamente poderoso... 斡Por favor, tengan cuidado![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 99 8][f 3 1 3 0 0 514][f 6 1 2 0 0 6]Es un oponente extremadamente poderoso... 斡Por favor, tengan cuidado![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_3 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 6 1][f 3 1 3 0 0 61002]斡Puedes hacerlo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 6 1][f 3 1 3 0 0 61002]斡Pueden hacerlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002_5]
-[f 0 5 65278][f 2 1][f 4 6 20 0 1 7][f 3 1 1 0 0 0]斡Los deseos de los espectadores se transformaron en el poder para oponerse a Enlil![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 20 0 1 7][f 3 1 1 0 0 0]斡Los deseos de la gente se transformaron en poder para oponerse a Enlil![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 515][f 6 1 3 0 0 2]Los humanos no han aprendido nada del interminable ciclo de destrucci吋n y renacimiento.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 516][f 6 1 3 0 0 2]Se oponen a la providencia, manipulados por ilusiones que llaman posibilidades...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 515][f 6 1 3 0 0 2]Los humanos no han aprendido nada del interminable ciclo de la destrucci吋n y renacimiento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 516][f 6 1 3 0 0 2]Se oponen a la providencia, manipulados por ilusiones que llaman esperanza...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 517][f 6 1 3 0 0 2]Semejante falacia se debe a la simple debilidad de la existencia humana.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 518][f 6 1 3 0 0 2]Los humanos ven incluso una oferta de salvaci吋n como malvada, utilizando sus armas en su contra.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 519][f 6 1 3 0 0 2]Los humanos son realmente pat姻ticos. No es sorprendente que desaf胤en la voluntad de los cielos...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 520][f 6 1 3 0 0 2]Sin embargo, a pesar de todo, ofrec胤 mi protecci吋n a todos y cada uno de ellos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 520][f 6 1 3 0 0 2]Sin embargo, a pesar de todo, les ofrec胤 mi protecci吋n a todos y cada uno de ellos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 521][f 6 1 3 0 0 2]Los humanos no saben que la "esperanza" no es m茨s que un veneno que los vuelve locos, por lo tanto, se aferran a aquello que los destruye.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 521][f 6 1 3 0 0 2]Los humanos no saben que la "esperanza" no es m茨s que un veneno que los vuelve locos, se aferran a aquello que los destruye.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 522][f 6 1 3 0 0 2]Esto solo puede hacer que se arrepientan de sus decisiones y se ahoguen en la desesperaci吋n...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 523][f 6 1 3 0 0 2]Y por eso debo intervenir, para salvarlos.[n][f 1 3 65535][f 1 1][e]
 
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 525][f 6 1 3 0 0 2]Si no te hubieras aferrado a la esperanza... no te habr胤as perdido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 526][f 6 1 2 0 0 0]斡E-Espera un momento! 夷¡Qu姻 acabas de decir!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 526][f 6 1 2 0 0 0]斡E-Espera! 夷¡Qu姻 acabas de decir!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 528][f 6 1 3 0 0 2]夷Te das cuenta ahora? Los humanos son realmente d姻biles.[n][f 1 3 65535][f 1 1][e]
@@ -46,9 +46,9 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 563][f 6 1 3 0 0 2]夷Te das cuenta ahora? Los humanos son realmente d姻biles.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 564][f 6 1 3 0 0 2]La 雨nica salvaci吋n para seres tan d姻biles es aceptar mi mundo.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 565][f 6 1 3 0 0 2]Ladrones como ustedes no son m茨s que peligrosas anomal胤as que perturban mi orden...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 566][f 6 1 3 0 0 2]As胤, te extinguir姻 con mis propias manos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 564][f 6 1 3 0 0 2]La 雨nica salvaci吋n para seres tan d姻biles como ustedes es aceptar mi mundo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 565][f 6 1 3 0 0 2]Los ladrones no son m茨s que peligrosas anomal胤as que perturban mi orden...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 566][f 6 1 3 0 0 2]As胤 que, los extinguir姻 con mis propias manos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 3 0 0 560]斡Chicos![n][f 1 3 65535][f 1 1][e]
@@ -73,10 +73,10 @@
 
 [msg MSG_015 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 4][f 3 1 3 0 0 534]Hikari…[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 535][f 6 1 2 0 0 6]斡Por favor, huyan! ¡A este ritmo, los derribar茨![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 535][f 6 1 2 0 0 6]斡Por favor, huyan! ¡A este paso, los derribar茨![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 569][f 6 1 3 0 0 2]Todo no es m茨s que polvo ante mi viento... Tus acciones son in雨tiles.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 569][f 6 1 3 0 0 2]Todo no es m茨s que polvo ante mi viento... Sus acciones son in雨tiles.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 570]...No.[n][f 1 3 65535][f 1 1][e]
@@ -86,9 +86,9 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 572][f 6 1 3 0 0 2]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 3 0 0 573]斡S姻 que es cierto! ¡He estado observando a todos todo este tiempo![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 574]斡Nunca se rindieron dentro de esas pel胤culas, ni siquiera una vez![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 575]No importa lo duro que fue... o lo doloroso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 14 6 0][f 3 1 3 0 0 573]斡S姻 que es cierto! ¡Los he estado observando todo este tiempo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 574]斡Nunca se rindieron dentro de esas pel胤culas, niuna vez![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 575]No importa lo duro que fuera... o lo doloroso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 7][f 3 1 3 0 0 576]斡Hikari![n][f 1 3 65535][f 1 1][e]
@@ -103,12 +103,12 @@
 [msg MSG_053 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 580][f 6 1 3 0 0 2]夷Por qu姻 no lo entiendes?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 581][f 6 1 3 0 0 2]No eran m茨s que imágenes falsas proyectadas en una pantalla...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 582][f 6 1 3 0 0 2]Sab胤as que eran todas ilusiones, 夷verdad? Sin embargo, aun así aceptaste este mundo, ¿no es así?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 582][f 6 1 3 0 0 2]Sab胤as que eran todas ilusiones, 夷verdad? Y aun así aceptaste este mundo, ¿no es así?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 583]Es porque finalmente he recordado... 斡Gracias a todos, recuerdo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 583]Es porque finalmente recuerde... 斡Gracias a ellos, recuerdo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 10 6 8][f 3 1 3 0 0 584]斡Me ayudaron a recordar lo que realmente importa en la vida![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 585]斡Por eso creo tanto en ellos! ¡Nunca perder茨n, no ante ti![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 585]斡Por eso creo tanto en ellos! ¡Nunca perder胤an, no ante ti![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 587][f 6 1 3 0 0 2]Hikari...[n][f 1 3 65535][f 1 1][e]
@@ -118,11 +118,11 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 589]Todos me han apoyado, as胤 que esta vez... 斡Es mi turno![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 591]Han superado todos los problemas a los que se han enfrentado...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 591]Han superado todos los obst茨culos a los que se han enfrentado...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 592]Creo... 斡Estoy segura de que pueden con esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 593]斡Por favor, todos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 593]斡Por favor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 594][f 6 1 3 0 0 2]夷C吋mo…?[n][f 1 3 65535][f 1 1][e]
@@ -131,26 +131,26 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 1][f 1 5][f 6 1 27 0 0 0][n][f 3 1 3 0 0 595]Escuche tu voz, Hikari.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [P3 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][n][f 3 1 3 0 0 596]Lo siento por la espera.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 1 5][f 6 1 16 0 0 0][n][f 3 1 3 0 0 596]Lamento por la espera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_064 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 0 1][f 1 5][f 6 1 13 0 0 0][n][f 3 1 3 0 0 597]Deja el resto en nuestras manos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Enlil]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 598][f 6 1 3 0 0 2]Todav胤a...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 598][f 6 1 3 0 0 2]Ustedes a雨n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 7][f 1 5][f 6 1 27 0 0 0][n][f 3 1 3 0 0 599]斡No subestimes nuestra voluntad![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_067 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 0 0 8][f 1 5][f 6 1 13 0 0 0][n][f 3 1 3 0 0 600]斡Nos hemos levantado innumerables veces antes de esto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 0 0 8][f 1 5][f 6 1 13 0 0 0][n][f 3 1 3 0 0 600]斡Nos hemos levantado innumerables veces antes![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 7][f 1 5][f 6 1 16 0 0 0][n][f 3 1 3 0 0 601]Ganaremos porque nunca nos rendiremos.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_069 top]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 8]斡Terminemos esto![e]
-[f 0 5 65278][f 2 1]夷Est茨s listo?[e]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 8]斡Terminemos con esto![e]
+[f 0 5 65278][f 2 1]夷Est茨n listos?[e]
 [f 0 5 65278][f 2 1]Lo hiciste genial, Hikari.[e]
 
 [msg MSG_070 [Hikari]]
@@ -166,10 +166,10 @@
 [f 0 5 65278][f 2 1][f 4 6 6 0 0 0][f 3 1 3 0 0 0]No puede ser... Vamos, chicos... 斡Tienen que levantarse![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 3 0 0 0][f 6 1 2 0 0 0]No me digas que... 夷斡los derribaron!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 3 0 0 0][f 6 1 2 0 0 0]No me digan que... 夷斡los derribaron!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 590]斡Por favor, lev茨ntense de nuevo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 590]斡Por favor, lev茨ntense![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 3 0 0 0]N-Nngh...[n][f 1 3 65535][f 1 1][e]

@@ -12,7 +12,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 1][f 3 1 6 0 0 500][f 3 1 3 0 0 315]斡Parece que se cura autom茨ticamente cuando su salud disminuye![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 10 0 6][f 3 1 3 0 0 316][f 6 1 2 0 0 10]夷斡Qu姻!? ¿Eso significa que no podemos con esto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 10 0 6][f 3 1 3 0 0 316][f 6 1 2 0 0 10]夷斡Qu姻!? ¿Eso significa que no podemos derrolarla?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 1 0 3][f 4 6 35 2 1 1][f 3 1 3 0 0 317][f 6 1 2 0 0 5]ORACLE... TENGO UNA SUGERENCIA.[n][f 1 3 65535][f 1 1][e]
@@ -21,21 +21,21 @@
 [f 0 5 65278][f 2 1][f 4 6 26 4 1 0][f 3 1 3 0 0 318][f 6 1 2 0 0 4]夷Eh? ¿Qu姻 pasa, Ribbon?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ribbon]]
-[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 3 0 0 319]...SI EL PLAN FUNCIONA.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 3 0 0 319]...SI ESTE PLAN FUNCIONA.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 0 0][f 3 1 3 0 0 320][f 6 1 2 0 0 7]斡Ohhh, entiendo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 321]斡Genial! ¡D姻jamelo a m胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 4 1 1][f 3 1 3 0 0 322][f 6 1 2 0 0 0]Oracle, 夷斡qu姻 est茨s planeando!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 4 1 1][f 3 1 3 0 0 322][f 6 1 2 0 0 0]Oracle, 夷斡qu姻 est茨n planeando!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 3 0 0 323][f 6 1 2 0 0 7]Mweheheh... 斡Voy a hackearlo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 3 0 0 323][f 6 1 2 0 0 7]Mweheheh... 斡Voy a hackearla![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 324]Los circuitos de Ribbon est茨n conectados a la Madre Computadora, 斡eso es lo que necesitamos![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 3 0 0 325][f 6 1 2 0 0 6]斡Ribbon y yo vamos a tratar de desactivar esa funci吋n de auto-recuperación![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 3 0 0 325][f 6 1 2 0 0 6]斡Ribbon y yo vamos a tratar de desactivar su funci吋n de auto-recuperación![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 326]Mientras, necesito que distraigan a esa cosa.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 327]斡Dar姻 la orden de ataque cuando estemos listos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 327]斡Les dir姻 cuando atacar, una vez estemos listas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 18 2 4][f 1 5][f 6 1 27 0 0 0][n][f 3 1 3 0 0 328]Entendido, 斡d姻janoslo a nosotros![n][f 1 3 65535][f 1 1][e]

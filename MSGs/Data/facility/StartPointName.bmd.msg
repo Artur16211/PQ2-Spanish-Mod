@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1]Pantalla de cine[n][e]
 
 [msg quest_02]
-[f 0 5 65278][f 2 1]※カット０２[n][e]
+[f 0 5 65278][f 2 1]※吋ット０２[n][e]
 
 [msg quest_03]
 [f 0 5 65278][f 2 1]Escaleras hacia la 1ra Avenida[n][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1]Escaleras hacia la Plaza Kamoshida[n][e]
 
 [msg quest_05]
-[f 0 5 65278][f 2 1]※カット０５[n][e]
+[f 0 5 65278][f 2 1]※吋ット０５[n][e]
 
 [msg quest_06]
 [f 0 5 65278][f 2 1]Escaleras hacia el 威rea 1[n][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1]Entrada a la proyecci吋n especial[n][e]
 
 [msg quest_20]
-[f 0 5 65278][f 2 1]※カット２０[n][e]
+[f 0 5 65278][f 2 1]※吋ット２０[n][e]
 
 [msg quest_21]
 [f 0 5 65278][f 2 1]Escaleras hacia el Fin de la Isla[n][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1]Entrada a la proyecci吋n especial[n][e]
 
 [msg quest_26]
-[f 0 5 65278][f 2 1]Escaleras hacia el 威rea 3[n][e]
+[f 0 5 65278][f 2 1]Escaleras hacia la Zona 3[n][e]
 
 [msg quest_27]
 [f 0 5 65278][f 2 1]Pantalla de cine[n][e]
@@ -104,7 +104,7 @@
 [f 0 5 65278][f 2 1]Escaleras al Piso 2 del Laboratorio[n][e]
 
 [msg quest_34]
-[f 0 5 65278][f 2 1]※カット３４[n][e]
+[f 0 5 65278][f 2 1]※吋ット３４[n][e]
 
 [msg quest_35]
 [f 0 5 65278][f 2 1]Pantalla de cine[n][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]Entrada a la proyecci吋n especial[n][e]
 
 [msg quest_44]
-[f 0 5 65278][f 2 1]※カット４４[n][e]
+[f 0 5 65278][f 2 1]※吋ット４４[n][e]
 
 [msg quest_45]
 [f 0 5 65278][f 2 1]Escaleras hacia el Acto 2[n][e]
