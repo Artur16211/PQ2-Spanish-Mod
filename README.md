@@ -3,7 +3,7 @@
 https://gamebanana.com/wips/78426
 
 --------
-MSGs Traducidos/Corregidos: <br>
+MSGs Traducidos/Corrección Inicial:<br>
 | Carpeta     | Progreso      | Notas     |
 | ------------- | ------------- | -------- |
 | battle          | 100%         |  - |
