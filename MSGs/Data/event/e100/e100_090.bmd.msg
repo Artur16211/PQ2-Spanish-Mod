@@ -1,20 +1,20 @@
 ﻿[msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 1 3][f 3 1 1 0 0 1][f 6 1 2 0 0 0]As胤 que era claramente Kamoshida, 夷no?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 1 3][f 3 1 1 0 0 1][f 6 1 2 0 0 0]As胤 que ese era claramente Kamoshida, 夷斡no!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 2 1 6][f 3 1 1 0 0 2]斡No hay manera de que sea un h姻roe de justicia![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 4]夷De qui姻n hablan? ¿Lo conocen?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 4]夷De qui姻n est茨n hablando? ¿Lo conocen?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 6 0 0][f 3 1 1 0 0 4]S胤, es un antiguo profesor en nuestra escuela. B茨sicamente, es un maldito delincuente de mierda.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 6 0 0][f 3 1 1 0 0 4]S胤, es un antiguo profesor de nuestra escuela. B茨sicamente, es un maldito delincuente de mierda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 4 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 2]Pero, 夷por qu姻 est茨 Kamoshida en esa pel胤cula? ¿斡Y qué pasa con ese disfraz de tonto!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 4 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 2]Pero, 夷por qu姻 est茨 Kamoshida en esta pel胤cula? ¿斡Y qué pasa con ese disfraz de tonto!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 6]Ese tr茨iler lo hizo ser el protagonista, 夷está en otras pel胤culas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 68 12 0 0][f 3 1 1 0 0 6]Ese tr茨iler lo hizo ver como el protagonista, 夷está en otras pel胤culas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 7]No tengo idea, la pel胤cula que acabas de ver ha sido la 雨nica en cartelera todo este tiempo.[n][f 1 3 65535][f 1 1][e]
@@ -27,18 +27,18 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10][f 6 1 2 0 0 4]夷Han visto a ese ser extra隠o en la sala de proyecci吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 11]Supongo que no te refieres a ese extra隠o objeto negro... 夷El que es esponjoso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 12 0 0][f 3 1 1 0 0 11]Supongo que te refieres a ese extra隠o objeto negro... 夷El que es esponjoso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 10 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 0]夷Ese es el proyeccionista? No es un mu隠eco... ¿斡Est茨 vivo!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 13]Lo llamamos as胤 desde que pone las películas, pero no tenemos idea de qui姻n o qué puede ser realmente.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Ese extra隠o ser apareci吋 en la sala de proyección despu姻s de que la anomal胤a llego a este Cine...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 13]Lo llamamos as胤 desde que reproduce las películas, pero no tenemos idea de qui姻n o qué puede ser realmente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Ese extra隠o ser apareci吋 en la sala de proyección despu姻s de que la anomal胤a llego a este cine...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15]No conocemos sus intenciones, solo que sigue reproduciendo la misma pel胤cula, una y otra vez.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 2 4][f 3 1 1 0 0 16]Me asusta... No quiero acercarme a 姻l...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 2 4][f 3 1 1 0 0 16]Me asusta... N-No quiero acercarme a 姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 17]Por el momento, le hemos estado llamando "Doe".[n][f 1 3 65535][f 1 1][e]
@@ -71,14 +71,14 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 4][f 4 6 84 1 0 1][f 4 6 68 12 0 3][f 3 1 1 0 0 25][f 6 1 2 0 0 4]夷Ha hecho algo m茨s además de proyectar esa pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 4 3 0][f 3 1 1 0 0 26]No... nada en absoluto. Ni siquiera reacciona cuando hablamos con 姻l.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 4 3 0][f 3 1 1 0 0 26]No... nada en absoluto. Ni siquiera reacciona cuando le hablamos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27]Es una criatura misteriosa. Intentamos no interactuar con 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Hikari]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 81 4 2 0][f 3 1 1 0 0 28]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 29]Me recuerda c吋mo sol胤a ser...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 1 0][f 3 1 1 0 0 29]Me recuerda a c吋mo sol胤a ser...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 30]夷Mm? ¿Dijiste algo, Futaba?[n][f 1 3 65535][f 1 1][e]
@@ -87,42 +87,42 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 0 0][f 3 1 1 0 0 31]Oh, no. No es nada.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Pero la pel胤cula que Doe est茨 reproduciendo, 夷por qu姻 Kamoshida está en ella, y en el papel protag吋nico?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 32][f 6 1 2 0 0 4]Pero la pel胤cula que Doe est茨 reproduciendo... 夷Por qu姻 Kamoshida está en ella, y en el papel protag吋nico?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 33]夷Hay alg雨n tipo de conexi吋n entre Doe y Kamoshida?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 34]O quiz茨 sea una conexi吋n entre este Cine y Kamoshida...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 34]O quiz茨 una conexi吋n entre este cine y Kamoshida...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 35]Oh, espera un momento. Parece que has entendido mal...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]Solo desde que llegaron aqu胤, la película se convirti吋 en "Kamoshidaman"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 12 0 1][f 3 1 1 0 0 35]Oh, esperen un momento. Parece que han entendido mal...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 36]Desde que ustedes llegaron aqu胤, la película se convirti吋 en "Kamoshidaman".[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Yusuke]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷"Llegaron"?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷"Ustedes"?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Nagi]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 3 0 0 1]Antes de su llegada, la pel胤cula de aquí no se titulaba "Kamoshidaman"[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 3 0 0 1]Antes de que llegaran, la pel胤cula de no se titulaba "Kamoshidaman".[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 0 1 6][f 3 1 1 0 0 39][f 6 1 2 0 0 0]Espera, 夷qu姻? Entonces, ¿Kamoshida no era el protagonista?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 0 1 6][f 3 1 1 0 0 39][f 6 1 2 0 0 0]Espera, 夷斡qu姻!? Entonces, ¿Kamoshida no era el protagonista?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Nagi]]
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 40]La trama de la pel胤cula era la misma, pero la cara y el nombre del h姻roe eran completamente diferentes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Ann]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷C吋mo podr胤a un personaje de cine cambiar así de repente?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷C吋mo podr胤a un personaje cambiar así de repente?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yusuke]]
-[f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 42]As胤 que todos estos acontecimientos extra隠os, incluyendo la película adaptativa, est茨n ligados a la anomalía...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 68 6 0 0][f 3 1 1 0 0 42]As胤 que todos estos acontecimientos extra隠os, incluyendo la película que se adapta, est茨n ligados a la anomalía...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 43]Su propio salto fuera de la pel胤cula tambi姻n... Esto ha sido una serie interminable de sorpresas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 43]Que ustedes salieran de la pel胤cula, tambi姻n... Estas han sido una serie interminables sorpresas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Ryuji]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 4][f 4 6 65 0 0 0][f 3 1 1 0 0 44][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 45]... 夷Qu姻 acabas de decir?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 45]...夷Qu姻 acabas de decir?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 4]夷Salimos de la pel胤cula?[n][f 1 3 65535][f 1 1][e]
@@ -131,17 +131,17 @@
 [f 0 5 65278][f 2 1][f 4 6 84 12 0 0][f 3 1 1 0 0 47]S胤, de repente, salieron de la pantalla.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 6 0 0][f 3 1 1 0 0 48][f 6 1 2 0 0 0]斡Espera, espera! 夷C吋mo tiene sentido eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 6 0 0][f 3 1 1 0 0 48][f 6 1 2 0 0 0]斡Espera, espera! 夷¡C吋mo tiene sentido eso!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 49]Pero, de hecho, aparec胤an en la película... Hikari, t雨 tambi姻n lo viste, 夷no?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 49]Pero, de hecho, aparec胤an en la película... Hikari, t雨 tambi姻n los viste, 夷no?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 81 4 2 0][f 3 1 1 0 0 50]Mmhm...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 51]Fue un shock para nosotros que nos escondimos apresuradamente entre los asientos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 84 0 0 0][f 3 1 1 0 0 51]Fue tal el shock para nosotros que nos escondimos apresuradamente entre los asientos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 52][f 6 1 2 0 0 10]S胤, es muy imposible pasar por una película como…[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 52][f 6 1 2 0 0 10]Eh, s胤, es imposible simplemente pasar a trav姻s de una pantalla de cine como...[n][f 1 3 65535][f 1 1][e]
 

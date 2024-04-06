@@ -1122,7 +1122,7 @@ def run_program():
                     ' [n]', '[n]').replace('[n] ', '[n]')
                 # replace the fix_dict to fix compile errors
                 value = value.replace('[f[n]0 1 0]', '[n][f 0 1 0]').replace(
-                    '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]').replace('[f[n]0 1 3]', '[n][f 0 1 3]').replace('[f 2 4[n]0]', '[n][f 2 4 0]')
+                    '[f 0 1[n]8]', '[n][f 0 1 8]').replace('[f[n]6 1 4 0 30]', '[n][f 6 1 4 0 30]').replace('[f[n]0 1 3]', '[n][f 0 1 3]').replace('[f 2 4[n]0]', '[n][f 2 4 0]').replace('[f 6[n]1 27 0]', '[n][f 61 27 0]').replace('[f 6 1 40[n]0 0] .', '[n][f 6 1 40 0 0].').replace('[f 0 6 255[n]255]', '[f 0 6 255 255]').replace('[f 4 4 4 0[n]1333]', '[n][f 4 4 4 0 1333]')
                 # fix ¡¿ ?!
                 value = value.replace('¿¡', '¡¿').replace(
                     '!?', '?!').replace('夷斡', '斡夷')

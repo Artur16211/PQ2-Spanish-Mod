@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 1 0 4][f 4 6 74 12 0 1][f 3 1 1 0 0 21]Nos complace mucho conocerlos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 22][f 6 1 2 0 0 6]夷Qui姻nes demonios son ustedes? ¿Y por qué todos son azules?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 22][f 6 1 2 0 0 6]夷Qui姻nes demonios son ustedes? ¿斡Y por qué todos son azules!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 1 0][f 3 1 1 0 0 23]Soy Elizabeth. Este es mi hermano menor, Theodore.[n][f 1 3 65535][f 1 1][e]

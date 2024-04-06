@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1]Tampoco puedo ver d吋nde est茨n Queen o Noir. Lo siento...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 0]Muy bien, tendremos que buscarlos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 0]Muy bien, tendremos que buscarlas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 1 0 0 0]Sin embargo, parece que puedo ayudarlos en batalla como siempre.[n][f 1 3 65535][f 1 1][e]

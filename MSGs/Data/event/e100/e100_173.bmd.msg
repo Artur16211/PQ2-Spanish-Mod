@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 66 12 0 1][f 3 1 1 0 0 3]Oye, [f 6 1 30 0 0 0], pres姻ntanoslas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Justine]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 78 1 0 1][f 4 6 79 0 0 4][f 3 1 1 0 0 4]S胤, y cu姻ntanos algo sobre este cine en el que también estamos atrapadas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 78 1 0 1][f 4 6 79 0 0 4][f 3 1 1 0 0 4]S胤, y cu姻ntanos algo sobre este cine en el que estamos atrapadas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]Deber胤a decirles lo que s姻 hasta ahora...[n][f 1 3 65535][f 1 1][e]
@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 4][f 6 1 3 0 0 1]Ya veo... No nos est茨s mintiendo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 65 0 0 1][f 3 1 1 0 0 6]De todas formas, ahora entendemos lo de la Habitaci吋n Terciopelo, y esas gemelas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 65 0 0 1][f 3 1 1 0 0 6]Bien, ahora entendemos lo de la Habitaci吋n Terciopelo, y esas gemelas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Justine]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 78 1 0 1][f 4 6 79 12 0 4][f 3 1 1 0 0 7][f 6 1 2 0 0 4]Recluso, 夷nos est茨s diciendo que no hay forma de salir de aqu胤?[n][f 1 3 65535][f 1 1][e]
@@ -33,18 +33,18 @@
 [f 0 5 65278][f 2 1][f 4 6 79 6 0 0][f 3 1 1 0 0 8]Y pensar que nos har胤an prisioneras...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 9]Justine, no tiene sentido que nos obsesionemos con esto. Digamos que es parte de su rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 9]Justine, no tiene sentido que nos obsesionemos con esto. Ve茨moslo como parte de su rehabilitaci吋n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 10]De hecho, ser胤a mejor aceptar la situaci吋n por ahora.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Afortunadamente, es una Habitaci吋n Terciopelo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Afortunadamente, esta es una Habitaci吋n Terciopelo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 12]Gracias. Recluso: asumiremos la tarea de fusionar a Personas aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1]Eso ser胤a genial.[f 2 7 1 64 2 32][e]
-[f 0 5 65278][f 2 1]夷Pueden hacerlo?[f 2 7 1 64 0 32][e]
+[f 0 5 65278][f 2 1]斡Wow! 夷Pueden hacerlo?[f 2 7 1 64 0 32][e]
 
 [msg MSG_017 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 13]Ser茨 mejor que est姻s agradecido.[n][f 1 3 65535][f 1 1][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 15]斡Sigue con esa insolencia y te ejecutaremos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 16]Aun as胤, tendr茨s que esperar un tiempo, hasta que nuestros preparativos est姻n completos.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 16]Aun as胤, tendr茨s que esperar un tiempo, hasta que nuestros preparativos est姻n listos.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17]Parece que necesitaremos algo de tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Caroline]]
@@ -105,7 +105,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31]Si sirve de ayuda, utilicen esta instalaci吋n como consideren necesario.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 4]夷Son... sus amigas tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 4]夷Son... tus amigas tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 33]La palabra "amiga" es totalmente inadecuada para nosotras.[n][f 1 3 65535][f 1 1][e]
@@ -153,7 +153,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 78 1 0 1][f 4 6 79 0 0 4][f 3 1 1 0 0 45][f 6 1 2 0 0 6]Esto...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 4]Acabamos de encontrarlo. 夷Saben lo que es?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 4]Acabamos de encontrarla. 夷Saben que es?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_050 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 47]Esta pel胤cula brillante tiene infinitas posibilidades dentro...[n][f 1 3 65535][f 1 1][e]
@@ -180,17 +180,17 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]Observo la pel胤cula brillar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056_05]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]斡Un "Pixie" surgi吋 de la pel胤cula![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]斡Una "Pixie" surgi吋 de la pel胤cula![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La pel胤cula brillante se transforma y adquiero la Persona "Pixie".[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La pel胤cula brillante se transform吋 y obtuve la Persona "Pixie".[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057_05 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 56][f 6 1 2 0 0 6]No lo entiendo, 斡pero maldici吋n! ¡Eso del Comod胤n es malo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 56][f 6 1 2 0 0 6]No lo entiendo, 斡pero maldici吋n! ¡Eso del Comod胤n es increíble![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 57]Tienes suerte. Desear胤a poder usar dos Personas tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 58]Caroline.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 58]...Caroline.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 59]S胤... Así que parece, Justine.[n][f 1 3 65535][f 1 1][e]
@@ -202,12 +202,12 @@
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 61]El resto de ustedes tambi姻n son capaces de tomar una segunda Persona.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 62][f 6 1 2 0 0 0]夷En serio? ¿斡No solo [f 6 1 30 0 0 0]!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 62][f 6 1 2 0 0 0]夷斡En serio!? ¿¡No solo [f 6 1 30 0 0 0]!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 63]Obviamente, ese ser胤a el caso en un escenario normal...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 64]Pero aqu胤, pueden pedir prestada y utilizar las Personas que toman forma en el coraz吋n del Recluso.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 79 6 0 0][f 3 1 1 0 0 65][f 6 1 2 0 0 4]夷Por qu姻? ¿Podr胤a ser porque el poder del Comodín cambi吋?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 6 0 0][f 3 1 1 0 0 65][f 6 1 2 0 0 4]夷Por qu姻?... ¿Podr胤a ser porque el poder del Comodín cambi吋?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_064 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]夷T雨 tampoco lo sabes?[f 2 7 1 64 0 32][e]
@@ -232,10 +232,10 @@
 [f 0 5 65278][f 2 1][f 4 6 68 0 0 0][f 3 1 1 0 0 73]As胤 que lo que est茨s diciendo es que ahora podemos llamar a otra Persona además de la habitual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 74][f 6 1 2 0 0 1]斡Estoy tan emocionada![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 74][f 6 1 2 0 0 1]Oh, 斡Estoy tan emocionada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_071 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Principal y Secundaria, eh... 夷Ser姻 capaz de manejarme usando ambos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 75][f 6 1 2 0 0 4]Principal y Secundaria, eh... 夷Ser姻 capaz de manejarme usando ambas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 76]Bueno, tenemos a [f 6 1 30 0 0 0] para ayudar con eso...[n][f 1 3 65535][f 1 1][e]

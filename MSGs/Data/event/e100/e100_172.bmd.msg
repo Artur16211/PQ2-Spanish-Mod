@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 1 0 1][f 4 6 66 10 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 0]夷Eh? ¿Ni隠as? ¿Est茨n perdidas o algo as胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 1 0 4][f 4 6 78 1 0 1][f 4 6 66 10 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 0]夷Eh? ¿斡Ni隠as!? ¿Est茨n perdidas o algo as胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 2]No estoy tan seguro, parecen m茨s que simplemente ni隠as perdidas.[n][f 1 3 65535][f 1 1][e]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 6]T雨 tambi姻n est茨s aqu胤, Recluso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 0]Oye, recluso, 夷d吋nde estamos? ¿Qu姻 haces aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 0]Oye, recluso, 夷斡d吋nde estamos!? ¿¡Qu姻 haces aqu胤!?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_007 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Ni idea.[f 2 7 1 64 6 32][e]
@@ -25,17 +25,17 @@
 [f 0 5 65278][f 2 1]Adivina.[f 2 7 1 64 0 32][e]
 
 [msg MSG_008 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 8]Esa mirada en tu cara... Parece no tienes ni idea.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 8]Esa expresi吋n en tu cara... Parece no tienes ni idea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 2]夷C吋mo te atreves?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 9][f 6 1 2 0 0 2]夷斡C吋mo te atreves!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 10]Espera, Caroline.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Esa mirada en su cara... Parece no tiene ni idea.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11]Esa expresi吋n en su cara... Parece no tiene ni idea.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 2]夷Qu姻 crees que haces?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 12][f 6 1 2 0 0 2]夷斡Qu姻 crees que est茨s haciendo!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 12 0 0][f 3 1 1 0 0 13]Espera, Caroline. Dudo que el recluso sea capaz de algo as胤.[n][f 1 3 65535][f 1 1][e]
@@ -48,13 +48,13 @@
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 16]No lo s姻.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 0]Ooooh, 斡Son tan peque隠as! 夷Y son GEMELAS?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 2 0 0][f 3 1 1 0 0 17][f 6 1 2 0 0 0]Ooooh, 斡Son tan pequeee隠as! 夷Y son GEMELAS?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 4][f 6 1 30 0 0 0]夷Conoces a estas Rugrats?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 4][f 6 1 30 0 0 0], 夷Conoces a estas Rugrats?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 19][f 6 1 2 0 0 2]夷Rugrats?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 4 0 0][f 3 1 1 0 0 19][f 6 1 2 0 0 2]夷斡Rugrats!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 4 0 0][f 3 1 1 0 0 20][f 6 1 2 0 0 2]Esa basura...[n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1]Hablando de traici吋n...[f 2 7 1 64 8 32][e]
 
 [msg MSG_021 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 4]No, no es eso, pero... 夷Me siento bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 4]No, no es eso, pero... 夷M-Me siento bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Justine]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 4 6 78 1 0 1][f 4 6 79 12 0 4][f 3 1 1 0 0 23]En cualquier caso, cu姻ntanos tu situaci吋n aqu胤, recluso.[n][f 1 3 65535][f 1 1][e]
@@ -76,19 +76,19 @@
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 24]Vamos a escuchar lo que tienes que decir en esa habitaci吋n… 斡Eh, t雨! ¡Gato![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 25][f 6 1 1 0 0 1][f 6 1 2 0 0 6]夷S胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 25][f 6 1 1 0 0 1][f 6 1 2 0 0 6]夷斡S-S胤!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 12 0 0][f 3 1 1 0 0 26]Escolta al prisionero a la habitaci吋n, 斡y hazlo r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]夷Por qu姻 yo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]夷P-Por qu姻 yo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Justine]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 79 5 0 0][f 3 1 1 0 0 28]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 10]Lo har姻... 斡Claro! ¡Con mucho gusto![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 10]L-Lo har姻... 斡Claro! ¡Con mucho gusto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 0 0 0][f 3 1 1 0 0 30]Hmph, no te olvides del resto de esa gente tambi姻n.[n][f 1 3 65535][f 1 1][e]
@@ -112,13 +112,13 @@
 
 [msg MSG_035 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Te dije que no soy un gato![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 9]夷Ya est茨s contento? Estoy empezando a cansarme de este par…[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 9]*jadeo* 夷Ya est茨s contento? Estoy empezando a cansarme de ese par…[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 38]斡Pero eso es, como, tu marca comercial ahora![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 0 0 0][f 3 1 1 0 0 38]斡Pero eso es, como, tu marca ahora![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 18 1 0][f 3 1 1 0 0 39]... Esas dos tienen algo "especial" dentro de ellas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 18 1 0][f 3 1 1 0 0 39]...Esas dos tienen algo "especial" dentro de ellas.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 40]Cuando me miran con esos ojos, siento que tengo que escucharlas.[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_038 top]
@@ -127,7 +127,7 @@
 
 [msg MSG_039 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 18 1 0][f 3 1 1 0 0 42]No, nada de eso. Es m茨s como si hubiera algo en m胤...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 43]Algo que grita "斡Tengo que hacer lo que dicen!", dentro de m胤…[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 43]Algo que grita "斡Tengo que hacer lo que dicen!"…[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 0][f 3 1 1 0 0 44][f 6 1 2 0 0 4]No me gusta nada de esto...[n][f 1 3 65535][f 1 1][e]
