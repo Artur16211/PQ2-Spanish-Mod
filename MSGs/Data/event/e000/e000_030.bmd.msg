@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 67 12 0 6][f 3 1 1 0 0 1]...斡Eso lo hace un茨nime! ¡Nos vamos a infiltrar en Mementos hoy![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 67 12 0 6][f 3 1 1 0 0 1]...斡Eso lo hace un茨nime! ¡Nos infiltraremos en Mementos hoy![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]夷Te parece bien, Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]La 雨nica hija del presidente de la compa隠胤a Okumura Foods.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 7]Lo est茨s haciendo muy bien, Haru. 斡Has mejorado muy rápido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 2 0 0][f 3 1 1 0 0 5][f 6 1 2 0 0 7]Lo est茨s haciendo muy bien, Haru. 斡Estás mejorado muy rápido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Nombre clave: Panther.[n][f 1 3 65535][f 1 1][e]
@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Brillante y alegre; se preocupa mucho por sus amigos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 6]Oye, Makoto, la acci吋n en Mementos est茨n bien y todo, pero 夷cómo vamos en la infiltración del Palacio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 0 0][f 3 1 1 0 0 6]Oye, Makoto, la acci吋n en Mementos est茨 bien y todo, pero 夷cómo vamos con la infiltración del Palacio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 1][f 3 1 1 0 0 7]No hay problema. Ser茨 mejor que perfeccionemos nuestras habilidades en Mementos para estar preparados para el Palacio.[n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]De sangre caliente, pero compasivo y atento. A menudo habla sin pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 4 1 0][f 3 1 1 0 0 11]Oh, pero d吋nde est茨 ese tipo... Es la primera vez en Mementos, 夷no?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 4 1 0][f 3 1 1 0 0 11]Oh, pero d吋nde est茨 ese tipo... Es su primera vez en Mementos, 夷no?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12]Supongo que siempre podemos deshacernos de 姻l...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Akechi]]
@@ -86,14 +86,14 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 1][f 3 1 1 0 0 17]As胤 que escuch姻 que vamos a alg雨n lugar llamado Mementos, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_023 top]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Eso es lo esencial.[f 2 7 1 64 2 32][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Es lo esencial.[f 2 7 1 64 2 32][e]
 [f 0 5 65278][f 2 1]Seguro que s胤.[f 2 7 1 64 2 32][e]
 
 [msg MSG_024 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 2 0 0][f 6 1 2 0 0 7][f 3 1 1 0 0 18]Entendido, [f 6 1 30 0 0 0].[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025]
-[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Mi nombre en clave es "Joker". Segundo a隠o en el Instituto Shujin y el l胤der de los Ladrones Fantasma.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Mi nombre en clave es "Joker". Soy de segundo a隠o en el Instituto Shujin y el l胤der de los Ladrones Fantasma.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 0]Actualmente vivo en el Caf姻 Leblanc. Me pusieron en libertad condicional debido a una falsa acusaci吋n en mi contra.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]

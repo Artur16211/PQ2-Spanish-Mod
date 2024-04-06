@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 65 10 1 0][f 3 1 1 0 0 12]Espera, 夷de qu姻 est茨s hablando?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [La Voz De Morgana]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 1 0 0 1][f 6 1 2 0 0 6][f 6 1 3 0 0 1]斡Hola! ¡Vengan aqu胤 un segundo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13][f 6 1 1 0 0 1][f 6 1 2 0 0 6][f 6 1 3 0 0 1]斡Chicos! ¡Vengan aqu胤 un segundo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 68 1 0 4][f 4 6 66 0 1 1][f 3 1 1 0 0 14][f 6 1 2 0 0 6]斡Quiz茨 Morgana encontr吋 algo![n][f 1 3 65535][f 1 1][e]
