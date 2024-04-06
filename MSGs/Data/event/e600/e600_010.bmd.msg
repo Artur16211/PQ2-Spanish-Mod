@@ -1,4 +1,4 @@
-[msg MSG_000 [Hikari]]
+﻿[msg MSG_000 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 5 3][f 3 1 1 0 0 1]Mm... 夷Ya es de ma隠ana?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 4 5 3][f 3 1 1 0 0 2][f 6 1 2 0 0 4]夷Eh? 夷Estaba... llorando?[n][f 1 3 65535][f 1 1][e]
 

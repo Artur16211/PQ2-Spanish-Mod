@@ -1,4 +1,4 @@
-[msg YUSUKE_FOE_FOLLOW_START_]
+﻿[msg YUSUKE_FOE_FOLLOW_START_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24300]Parece que nos han descubierto.[n][f 1 6 65535][e]
 
 [msg YUSUKE_FOE_FOLLOW_START__2]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24370]Estaremos bien si caminamos con cuidado.[n][f 1 6 65535][e]
 
 [msg YUSUKE_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24371]Elijamos nuestro pr吋ximo movimiento con cuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24371]Elijamos nuestro pr吋ximo movimiento[n]con cuidado.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DENKISAKU_REACTIO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24372]Es una trampa bastante peligrosa...[n][f 1 6 65535][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24326]Parece que encontramos nuestro camino.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]Parece que hay un tesoro adelante. Vamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24327]Parece que hay un tesoro adelante.[n]Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24328]Mmm... Espero que sea comida...[n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24312]Mi salud y resistencia se est茨n agotando...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24312]Mi salud y resistencia se est茨n[n]agotando...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24313]Me estoy desvaneciendo r茨pido...[n][f 1 6 65535][e]
@@ -158,13 +158,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24316]No se cu茨nto m茨s pueda...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24317]Voy a necesitar m茨s que agua para seguir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24317]Voy a necesitar m茨s que agua para[n]seguir...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24318]Mi est吋mago... Est茨 demasiado vac胤o para seguir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24318]Mi est吋mago... Est茨 demasiado vac胤o[n]para seguir...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24319]Parece que estaba algo sobreindulgente...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24319]Parece que estaba algo[n]sobreindulgente...[n][f 1 6 65535][e]
 
 [msg YUSUKE_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24320]夷Te importa si descanso?[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24323]Sigamos adelante.[n][f 1 6 65535][e]
 
 [msg YUSUKE_BATTLE_CHANGE_DUN]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg YUSUKE_BATTLE_CHANGE_DUN_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg YUSUKE_BATTLE_CHANGE_DUN_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg YUSUKE_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -212,7 +212,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24361]Estamos listos. Vamos.[n][f 1 6 65535][e]
 
 [msg YUSUKE_DUNGEON_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24362]斡Quiz茨s, aqu胤, encuentre algo de inspiraci吋n![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24362]斡Quiz茨s, aqu胤, encuentre algo de[n]inspiraci吋n![n][f 1 6 65535][e]
 
 [msg YUSUKE_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24363]A trabajar.[n][f 1 6 65535][e]
@@ -242,10 +242,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24357]Ahora los toques finales.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24358]Mapa completo... Debo decir que es excelente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24358]Mapa completo... Debo decir que es[n]excelente.[n][f 1 6 65535][e]
 
 [msg YUSUKE_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24359]Hm... Este mapa result吋 ser bastante magn胤fico.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24359]Hm... Este mapa result吋 ser bastante[n]magn胤fico.[n][f 1 6 65535][e]
 
 [msg YUSUKE_MAPPING_ICON_ALL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24342]Buena elecci吋n.[n][f 1 6 65535][e]
@@ -263,7 +263,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24346]Qu姻 art胤stico...[n][f 1 6 65535][e]
 
 [msg YUSUKE_MAPPING_CHANGE_CO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 24347]Mmm, 夷as胤 que ese es el color que usar胤as?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 24347]Mmm, 夷as胤 que ese es el color que[n]usar胤as?[n][f 1 6 65535][e]
 
 [msg YUSUKE_MAPPING_ICON_DEL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 24348]El minimalismo tambi姻n es importante.[n][f 1 6 65535][e]

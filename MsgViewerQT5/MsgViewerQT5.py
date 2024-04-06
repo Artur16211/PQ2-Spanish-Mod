@@ -228,8 +228,8 @@ def process_line(line):
 
     removeline = line.replace(result_line, "")
 
-    if "[n]" in last_remove_line and "[n][" not in last_remove_line:
-        last_remove_line = last_remove_line.replace("[n]", " ")
+    # if "[n]" in last_remove_line and "[n][" not in last_remove_line:
+    #     last_remove_line = last_remove_line.replace("[n]", " ")
 
     last_remove_line = last_remove_line.replace(
         "[sel]", "").replace("[msg]", "").strip()

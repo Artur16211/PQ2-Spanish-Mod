@@ -1,4 +1,4 @@
-[msg start_01]
+﻿[msg start_01]
 [f 0 5 65278][f 2 1]Entrada[n][e]
 
 [msg start_02]

@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]Buscar minuciosamente[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0]Entendido. Mant姻n los ojos bien abiertos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18005]S胤, estamos fuera de peligro. Echemos un vistazo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18005]S胤, estamos fuera de peligro. Echemos[n]un vistazo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18067]Entendido...[n][f 1 3 65535][f 1 1][e]
@@ -55,22 +55,22 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18002]Un atajo, 夷eh...? 夷Qu姻 hacemos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]ショートカットがあるみたいだけど[n]どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]ショートカットがあるみたいだけど[n]どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18091]Tch... No podemos ir por aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]こちらからは通れないようだ…[n](ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]こちらからは通れないようだ…[n](ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0]こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18110]Tengo un mal presentimiento sobre este lugar... 夷Qu姻 opinas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18110]Tengo un mal presentimiento sobre este[n]lugar... 夷Qu姻 opinas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18077]De acuerdo. Hag茨moslo.[n][f 1 3 65535][f 1 1][e]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18071]S胤, seguro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18091]Vaya, ten胤a la sensaci吋n de que aparecer胤an.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18091]Vaya, ten胤a la sensaci吋n de que[n]aparecer胤an.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 0 0 0][f 3 1 1 0 0 18002]夷Regresamos al Cine?[n][f 1 3 65535][f 1 1][e]

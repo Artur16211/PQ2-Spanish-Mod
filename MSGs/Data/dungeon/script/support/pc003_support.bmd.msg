@@ -1,4 +1,4 @@
-[msg YOUSUKE_FOE_FOLLOW_START]
+﻿[msg YOUSUKE_FOE_FOLLOW_START]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3300]斡Mierda, es un FOE![n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_FOLLOW_START_2]
@@ -32,10 +32,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3370]Vamos despacio.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3371]Silencio, chicos... No queremos que nos vean.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3371]Silencio, chicos... No queremos que[n]nos vean.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_DENKISAKU_REACTI]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3372]S胤, probablemente no suceda. Primero desactivemos la electricidad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3372]S胤, probablemente no suceda. Primero[n]desactivemos la electricidad.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_DENKISAKU_REACTI_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3373]Si no apagamos eso, estaremos fritos.[n][f 1 6 65535][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3328]Es un cofre del tesoro, 夷verdad?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3329]斡Un cofre del tesoro! 夷Lo abriremos, verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3329]斡Un cofre del tesoro! 夷Lo abriremos,[n]verdad?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3330]Parece que hay algo ah胤...[n][f 1 6 65535][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_WARNING_NEAR]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3309]Rayos, el FOE todav胤a nos est茨 siguiendo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3309]Rayos, el FOE todav胤a nos est茨[n]siguiendo.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_FOE_WARNING_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3310]Un FOE. Mejor mantener nuestra distancia,[n]夷eh?[n][f 1 6 65535][e]
@@ -155,16 +155,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3315]No s姻 si puedo seguir…[n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3316]斡Vamos, por favor! 斡Necesito algo para animarme![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3316]斡Vamos, por favor! 斡Necesito algo para[n]animarme![n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3317]Hngh... Eso duele...[n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3318]Maldici吋n, me quedo sin… [n]energ胤a…[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3318]Maldici吋n, me quedo sin…  energ胤a…[n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3319]斡No puedo seguir adelante! 斡Estoy sin [n]energ胤a![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3319]斡No puedo seguir adelante! 斡Estoy sin[n]energ胤a![n][f 1 6 65535][e]
 
 [msg YOUSUKE_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3320]Maldici吋n… No puedo seguir…[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3323]Hombre, demasiado f茨cil.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_BATTLE_CHANGE_DU]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg YOUSUKE_BATTLE_CHANGE_DU_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg YOUSUKE_BATTLE_CHANGE_DU_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg YOUSUKE_ITEM_90_DUNGEON_]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3356]Hombre, hemos recorrido un largo camino.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3357]斡Vaya! Eso pr茨cticamente es un mapa completo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3357]斡Vaya! Eso pr茨cticamente es un mapa[n]completo.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3358]斡Genial! 斡Ese mapa parece acabado![n][f 1 6 65535][e]
@@ -263,16 +263,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3346]Eso tiene estilo, amigo.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_CHANGE_C_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3347]Es curioso c吋mo tu personalidad se refleja en esto…[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3347]Es curioso c吋mo tu personalidad se[n]refleja en esto…[n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_ICON_DEL]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3348]S胤, es bueno mantener nuestras notas ordenadas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3348]S胤, es bueno mantener nuestras notas[n]ordenadas.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_ICON_DEL_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3349]Ah胤 tienes. 斡Deja las cosas que no[n]necesitamos![n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_MEMO_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 3350]Hay que llevar un registro de las cosas importantes.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 3350]Hay que llevar un registro de las cosas[n]importantes.[n][f 1 6 65535][e]
 
 [msg YOUSUKE_MAPPING_MEMO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3351]Bien. 斡Se ve genial![n][f 1 6 65535][e]

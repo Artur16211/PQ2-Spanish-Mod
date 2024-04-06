@@ -1,4 +1,4 @@
-[msg CMPPOEM_PATHOS]
+﻿[msg CMPPOEM_PATHOS]
 [f 0 5 65278][f 2 1]夷Qu姻 compasi吋n deber胤a sentir...?[n][f 1 1][e]
 
 [msg CMPPOEM_NOT_PATHOS]

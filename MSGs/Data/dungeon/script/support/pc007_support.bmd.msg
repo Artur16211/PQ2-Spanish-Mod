@@ -1,4 +1,4 @@
-[msg KANJI_FOE_FOLLOW_START_1]
+﻿[msg KANJI_FOE_FOLLOW_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7300]斡Mierda! 斡Nos han visto![n][f 1 6 65535][e]
 
 [msg KANJI_FOE_FOLLOW_START_2]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7308]斡Bien! 斡Lo perdimos![n][f 1 6 65535][e]
 
 [msg KANJI_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7369]Esa mierda hace que sea dif胤cil moverse...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7369]Esa mierda hace que sea dif胤cil[n]moverse...[n][f 1 6 65535][e]
 
 [msg KANJI_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7370]No soy muy bueno para el sigilo...[n][f 1 6 65535][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7374]Si la energ胤a es el problema puedo...[n]No, no importa.[n][f 1 6 65535][e]
 
 [msg KANJI_KYOUHU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7375]夷斡Ack!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7375]斡夷Ack?![n][f 1 6 65535][e]
 
 [msg KANJI_KYOUHU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7376]斡斡斡Whoa!!![n][f 1 6 65535][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]L-Lo siento... 夷Te importa si tomamos un[n]descanso?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]L-Lo siento... 夷Te importa si tomamos[n]un descanso?[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7313]Tch, no puedo estar muriendo ahora...[n][f 1 6 65535][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7319]Estoy al l胤mite...[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7320]斡Maldici吋n! Este no es momento para estar agotado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7320]斡Maldici吋n! Este no es momento para[n]estar agotado...[n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7323]Eh, 夷Qui姻n sigue?[n][f 1 6 65535][e]
 
 [msg KANJI_BATTLE_CHANGE_DUNG]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg KANJI_BATTLE_CHANGE_DUNG_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg KANJI_BATTLE_CHANGE_DUNG_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg KANJI_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -224,10 +224,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7365]Terminemos con esto.[n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7352]Parece que todav胤a tenemos un largo camino[n]por recorrer.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7352]Parece que todav胤a tenemos un largo[n]camino por recorrer.[n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7353]El mapa est茨 bastante vac胤o. 斡Vamos a seguir![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7353]El mapa est茨 bastante vac胤o. 斡Vamos a[n]seguir![n][f 1 6 65535][e]
 
 [msg KANJI_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7354]Creo que estamos a mitad de camino.[n][f 1 6 65535][e]
@@ -257,7 +257,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7344]斡S胤, buena decisi吋n![n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_ICON_KAIDA_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7345]Saber d吋nde est茨n las escaleras nos ayudar茨[n]a evitar perdernos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7345]Saber d吋nde est茨n las escaleras nos[n]ayudar茨 a evitar perdernos.[n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_CHANGE_COL]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7346]Un poco elegante, 夷no?[n][f 1 6 65535][e]
@@ -269,13 +269,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7348]斡Hay que mantenerse organizados![n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_ICON_DEL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7349]Es bueno deshacerse de las cosas que no[n]necesitamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7349]Es bueno deshacerse de las cosas que[n]no necesitamos.[n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7350]Los detalles son importantes, 夷verdad?[n][f 1 6 65535][e]
 
 [msg KANJI_MAPPING_MEMO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7351]Olvidaremos esto si no lo escribimos, 夷sabes?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7351]Olvidaremos esto si no lo escribimos,[n]夷sabes?[n][f 1 6 65535][e]
 
 [msg KANJI_DOOR_OPEN_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7366]斡Vamos, maldici吋n![n][f 1 6 65535][e]

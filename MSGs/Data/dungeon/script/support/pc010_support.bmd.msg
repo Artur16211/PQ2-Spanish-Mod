@@ -1,5 +1,5 @@
-[msg AMADA_FOE_FOLLOW_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16300]斡Whoa! 斡Ese FOE todav胤a nos est茨 siguiendo![n][f 1 6 65535][e]
+﻿[msg AMADA_FOE_FOLLOW_START_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16300]斡Whoa! 斡Ese FOE todav胤a nos est茨[n]siguiendo![n][f 1 6 65535][e]
 
 [msg AMADA_FOE_FOLLOW_START_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16301]斡El FOE se acerca! 夷Deber胤amos correr?[n][f 1 6 65535][e]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16308]斡Qu姻 suerte! El FOE se rindi吋.[n][f 1 6 65535][e]
 
 [msg AMADA_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16369]Tenemos que asegurarnos de que no nos vea.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16369]Tenemos que asegurarnos de que no nos[n]vea.[n][f 1 6 65535][e]
 
 [msg AMADA_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16370]斡Tenemos que tener cuidado![n][f 1 6 65535][e]
@@ -35,13 +35,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16371]夷Estaremos bien...?[n][f 1 6 65535][e]
 
 [msg AMADA_DENKISAKU_REACTION]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16372]Una puerta el姻ctrica, y no hay forma de atravesarla.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16372]Una puerta el姻ctrica, y no hay forma[n]de atravesarla.[n][f 1 6 65535][e]
 
 [msg AMADA_DENKISAKU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16373]Tenemos que buscar otro camino, quiz茨s.[n][f 1 6 65535][e]
 
 [msg AMADA_DENKISAKU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16374]Tenemos que detener la electricidad primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16374]Tenemos que detener la electricidad[n]primero.[n][f 1 6 65535][e]
 
 [msg AMADA_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16375]斡Aahh![n][f 1 6 65535][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16376]El viento es... wow![n][f 1 6 65535][e]
 
 [msg AMADA_KYOUHU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16377]夷斡Qu姻!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16377]斡夷Qu姻?![n][f 1 6 65535][e]
 
 [msg AMADA_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16324]斡Hay unas escaleras! 夷Arriba o abajo?[n][f 1 6 65535][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16326]Podemos continuar ahora, pero... 夷qu姻[n]hacemos?[n][f 1 6 65535][e]
 
 [msg AMADA_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16327]Un verdadero tesoro. Podr胤a haber cualquier cosa dentro...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16327]Un verdadero tesoro. Podr胤a haber[n]cualquier cosa dentro...[n][f 1 6 65535][e]
 
 [msg AMADA_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16328]斡Vamos, abramos el cofre del tesoro![n][f 1 6 65535][e]
@@ -89,7 +89,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16335]斡Mira, un interruptor![n][f 1 6 65535][e]
 
 [msg AMADA_SHORTCUT_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16336]斡Mira! 斡Tal vez podamos atravesarlo ahora![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16336]斡Mira! 斡Tal vez podamos atravesarlo[n]ahora![n][f 1 6 65535][e]
 
 [msg AMADA_SHORTCUT_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16337]夷No parece un atajo?[n][f 1 6 65535][e]
@@ -137,10 +137,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16312]*jadeo* Lo siento, 夷pero podemos parar?[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16313]*jadeo* *jadeo* Estar姻 bien. No soy un cobarde.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16313]*jadeo* *jadeo* Estar姻 bien. No soy un[n]cobarde.[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16314]Esto no es nada. Podr胤a seguir todo el d胤a.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16314]Esto no es nada. Podr胤a seguir todo el[n]d胤a.[n][f 1 6 65535][e]
 
 [msg AMADA_PARTY_TP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16315]No quisiera admitirlo, pero no puedo seguir...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16315]No quisiera admitirlo, pero no puedo[n]seguir...[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16316]Bueno, estoy un poco nervioso... 夷Podr胤a[n]alguien curarme?[n][f 1 6 65535][e]
@@ -161,13 +161,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16317]Bueno... He alcanzado mi l胤mite.[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16318]Ugh... No puedo creer que este sea mi l胤mite.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16318]Ugh... No puedo creer que este sea mi[n]l胤mite.[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16319]Lo siento, pero no tengo energ胤a...[n][f 1 6 65535][e]
 
 [msg AMADA_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16320]Estoy sin energ胤a... Espero que mi resistencia sea mejor cuando crezca.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16320]Estoy sin energ胤a... Espero que mi[n]resistencia sea mejor cuando crezca.[n][f 1 6 65535][e]
 
 [msg AMADA_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16323]斡Puedo hacer esos movimientos otra vez![n][f 1 6 65535][e]
 
 [msg AMADA_BATTLE_CHANGE_DUNG]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg AMADA_BATTLE_CHANGE_DUNG_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg AMADA_BATTLE_CHANGE_DUNG_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg AMADA_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -218,7 +218,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16363]Ahora se est茨 poniendo emocionante.[n][f 1 6 65535][e]
 
 [msg AMADA_QUEST_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16364]Si trabajamos juntos, 斡s姻 que estaremos bien![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16364]Si trabajamos juntos, 斡s姻 que estaremos[n]bien![n][f 1 6 65535][e]
 
 [msg AMADA_QUEST_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16365]斡Hag茨moslo mejor![n][f 1 6 65535][e]
@@ -242,7 +242,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16357]Es divertido llenar los huecos.[n][f 1 6 65535][e]
 
 [msg AMADA_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16358]斡Gracias por encargarte de la cartograf胤a![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16358]斡Gracias por encargarte de la[n]cartograf胤a![n][f 1 6 65535][e]
 
 [msg AMADA_TOUHA_100_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16359]Whoa... 斡Lo hicimos![n][f 1 6 65535][e]
@@ -269,7 +269,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16348]Eso realmente despeja el mapa.[n][f 1 6 65535][e]
 
 [msg AMADA_MAPPING_ICON_DEL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 16349]Estoy aprendiendo mucho de tu cartograf胤a de primera.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 16349]Estoy aprendiendo mucho de tu cartograf胤a[n]de primera.[n][f 1 6 65535][e]
 
 [msg AMADA_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 16350]S胤, tomar nota es una buena idea.[n][f 1 6 65535][e]

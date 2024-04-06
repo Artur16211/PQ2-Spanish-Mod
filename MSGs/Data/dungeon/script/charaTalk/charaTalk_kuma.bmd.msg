@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]Buscar minuciosamente[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1]Cancelar[e]
 
 [msg MSG_000 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9002]斡Encontr姻 un punto del tesoro! 夷Quieres recoger algunas cosas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9002]斡Encontr姻 un punto del tesoro! 夷Quieres[n]recoger algunas cosas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9107]斡D姻jamelo todo a m胤![n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9380]斡Lo consegu胤![n][f 1 6 65535][e]
 
 [msg MSG_008 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9096]Uf... Lo logramos. Y tambi姻n obtuvimos algo de bot胤n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9096]Uf... Lo logramos. Y tambi姻n obtuvimos[n]algo de bot胤n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9381]斡Zas![n][f 1 6 65535][e]
@@ -52,22 +52,22 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 9383]斡Bingo![n][f 1 6 65535][e]
 
 [msg MSG_012 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9023]斡He encontrado un atajo! 夷Quieres tomarlo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9023]斡He encontrado un atajo! 夷Quieres[n]tomarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]ショートカットがあるみたいだけど[n]どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]ショートカットがあるみたいだけど[n]どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9019]Oh, no podemos pasar...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]こちらからは通れないようだ…[n](ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]こちらからは通れないようだ…[n](ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0]こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9102]Algo no huele bien en este lugar.[n][f 1 3 65535][f 1 1][e]
@@ -79,10 +79,10 @@
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9066]斡S胤, s胤! 斡Movimiento inteligente![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9040]Guh... uf... Esa sombra era realmente mala noticia...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9040]Guh... uf... Esa sombra era realmente[n]mala noticia...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9036]*olfateo olfateo* Huele como si hubiera un mont吋n de Sombras...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9036]*olfateo olfateo* Huele como si hubiera[n]un mont吋n de Sombras...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 0][f 3 1 1 0 0 9068]斡De acuerdo! 斡Hag茨moslo![n][f 1 3 65535][f 1 1][e]

@@ -1,8 +1,8 @@
-[msg MSG_000 [Yosukesaurio]]
+﻿[msg MSG_000 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 34 8 3 1][f 3 1 1 0 0 34029]A-Ah... Whaaaa...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh no! ¡Ese carn胤voro acaba de atraparla![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh no! 斡Ese carn胤voro acaba de[n]atraparla![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 42 1 1 4][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
@@ -11,11 +11,11 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 47 0 1 1][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 4 0 0][f 3 1 1 0 0 25036][f 6 1 2 0 0 6]夷Por qu姻 est茨s ah胤 parado? 斡Si no nos apresuramos, no podremos ayudarla![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 4 0 0][f 3 1 1 0 0 25036][f 6 1 2 0 0 6]夷Por qu姻 est茨s ah胤 parado? 斡Si no nos[n]apresuramos, no podremos ayudarla![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Herb胤voro Testarudo]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 34 1 0 1][f 6 1 25 0 0 0][f 4 6 93 1 0 3][f 3 1 1 0 0 0]...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 93 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces... 夷No es ahora cuando hacemos eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 93 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces... 夷No es ahora cuando hacemos[n]eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 34 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh?[n][f 1 3 65535][f 1 1][e]
@@ -28,11 +28,11 @@
 [f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 0]...Vamos a votar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻? ¿斡Votar!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Qu姻? 斡夷Votar?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Herb胤voro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 93 0 0 3][f 3 1 1 0 0 0]Muy bien, primero...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 93 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Si crees que deber胤amos ir tras el carnívoro, levanta tu mano![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 93 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Si crees que deber胤amos ir tras el[n]carn胤voro, levanta tu mano![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 47 1 0 1][f 4 6 42 0 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No es demasiado peligroso?[n][f 1 3 65535][f 1 1][e]
@@ -57,49 +57,49 @@
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 0][f 3 1 1 0 0 0]Un voto de ir tras ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Herb胤voro Testarudo]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 93 4 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ahora, los que piensan que debemos dejarla, 斡levanten la mano![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 93 4 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Ahora, los que piensan que debemos[n]dejarla, 斡levanten la mano![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 25 0 0 0][f 4 6 20 6 0 3][f 3 1 1 0 0 0]El resto de los herb胤voros levantaron la mano...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 6 1 25 0 0 0][f 4 6 20 6 0 3][f 3 1 1 0 0 0]El resto de los herb胤voros levantaron[n]la mano...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 4 10 0 1][f 3 1 1 0 0 4066][f 6 1 2 0 0 0]夷斡Qu姻!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 4 10 0 1][f 3 1 1 0 0 4066][f 6 1 2 0 0 0]斡夷Qu姻?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Herb胤voro Testarudo]]
-[f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]La mayor胤a vota por seguir adelante sin nuestra compa隠era. 夷Alguna objeci吋n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]La mayor胤a vota por seguir adelante sin[n]nuestra compa隠era. 夷Alguna objeci吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 1][f 3 1 1 0 0 0]N-No...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 7036][f 6 1 2 0 0 0]斡Idiota! 夷¡C吋mo puedes estar bien con eso!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 7036][f 6 1 2 0 0 0]斡Idiota! 斡夷C吋mo puedes estar bien con[n]eso?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Bueno, somos d姻biles, no sobreviviremos si no actuamos juntos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Bueno, somos d姻biles, no sobreviviremos[n]si no actuamos juntos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Pero no quer胤as salvar a tu compa隠era?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 34015]S胤, pero... ya se tom吋 una decisión por mayoría de votos...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 34015]S胤, pero... ya se tom吋 una decisi吋n por[n]mayor胤a de votos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 0]Admito que las decisiones pueden ser necesarias para la supervivencia, pero aun as胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 0]Admito que las decisiones pueden ser[n]necesarias para la supervivencia, pero[n]aun as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 0]...no puedo hacer nada al respecto. Aunque siento algo de pena por ella.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 0 0][f 3 1 1 0 0 0]...no puedo hacer nada al respecto.[n]Aunque siento algo de pena por ella.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 4 0 0][f 3 1 1 0 0 9034][f 6 1 2 0 0 2]斡Grrrrrr! ¡Puedes tener la misma cara que Yosuke, pero note pareces nada en el interior![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 4 0 0][f 3 1 1 0 0 9034][f 6 1 2 0 0 2]斡Grrrrrr! 斡Puedes tener la misma cara[n]que Yosuke, pero note pareces nada en[n]el interior![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]El verdadero Yosuke... 畏l...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Le importar胤an mucho m茨s sus compa隠eros![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1066]Tienes raz吋n. Yosukesaurio no es realmente Yosuke...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 1 6 0 6][f 3 1 1 0 0 0]Pero aun as胤 no puedo estar de acuerdo con su forma de pensar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 6 0 6][f 3 1 1 0 0 0]Pero aun as胤 no puedo estar de acuerdo[n]con su forma de pensar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Joker, 夷est茨s bien abandonando a ese herb胤voro así?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 23 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Joker, 夷est茨s bien abandonando a ese[n]herb胤voro as胤?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_032 top]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]Vamos a salvarla.[f 2 7 1 20 6 32][e]
@@ -112,13 +112,13 @@
 [f 0 5 65278][f 2 1][f 4 6 34 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Dices eso, pero... Ya se han ido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Haru]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oracle! ¡Rise![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 27 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oracle! 斡Rise![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡S胤! ¡Escuchamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 0][f 3 1 6 0 0 500]斡S胤! 斡Escuchamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 12 100 4][f 3 1 1 0 0 6634][f 6 1 2 0 0 6][f 3 1 6 0 0 500]斡S胤, d姻janoslo a nosotras, los encontraremos r茨pido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 12 100 4][f 3 1 1 0 0 6634][f 6 1 2 0 0 6][f 3 1 6 0 0 500]斡S胤, d姻janoslo a nosotras, los encontraremos[n]r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 34 0 0 1][f 3 1 1 0 0 0]夷Q-Qui姻nes son ustedes?[n][f 1 3 65535][f 1 1][e]
@@ -127,10 +127,10 @@
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 1 0 0 26572]斡Los tengo! Parecen estar un piso abajo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Rise]]
-[f 0 5 65278][f 2 1][f 4 6 6 0 100 4][f 3 1 1 0 0 0]Mmm, definitivamente est茨n abajo... Pero no creo que podamos identificar su ubicaci吋n exacta.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 4][f 3 1 1 0 0 0]Mmm, definitivamente est茨n abajo... Pero[n]no creo que podamos identificar su[n]ubicaci吋n exacta.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Eh, saber a donde ir es m茨s que suficiente. 斡Vamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Eh, saber a donde ir es m茨s que suficiente.[n]斡Vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 1 0 1 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1064]Bien. Definitivamente la salvaremos.[n][f 1 3 65535][f 1 1][e]

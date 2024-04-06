@@ -1,4 +1,4 @@
-[msg map_help_title_001]
+﻿[msg map_help_title_001]
 [f 0 5 65278][f 2 1]Dibujando y Borrando Paredes[n][e]
 
 [msg map_help_title_002]

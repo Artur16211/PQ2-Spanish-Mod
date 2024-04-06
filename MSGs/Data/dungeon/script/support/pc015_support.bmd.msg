@@ -1,4 +1,4 @@
-[msg RYUJI_FOE_FOLLOW_START_1]
+﻿[msg RYUJI_FOE_FOLLOW_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21300]斡Whoa! 斡Un FOE![n][f 1 6 65535][e]
 
 [msg RYUJI_FOE_FOLLOW_START_2]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21308]Parece que se rindi吋.[n][f 1 6 65535][e]
 
 [msg RYUJI_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21369]Trata de no ser descubierto, 夷de acuerdo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21369]Trata de no ser descubierto, 夷de[n]acuerdo?[n][f 1 6 65535][e]
 
 [msg RYUJI_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21370]Esa luz es una verdadera molestia.[n][f 1 6 65535][e]
@@ -107,13 +107,13 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg RYUJI_FOE_WARNING_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21309]斡Whoa, whoa! 斡Esa cosa todav胤a viene hacia nosotros![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21309]斡Whoa, whoa! 斡Esa cosa todav胤a viene[n]hacia nosotros![n][f 1 6 65535][e]
 
 [msg RYUJI_FOE_WARNING_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21310]斡Maldita sea, esa cosa no se rinde![n][f 1 6 65535][e]
 
 [msg RYUJI_FOE_WARNING_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21311]Ese FOE sigue aqu胤. 斡No dejes que te sorprenda![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21311]Ese FOE sigue aqu胤. 斡No dejes que te[n]sorprenda![n][f 1 6 65535][e]
 
 [msg RYUJI_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -158,7 +158,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21316]Necesito curaci吋n...[n][f 1 6 65535][e]
 
 [msg RYUJI_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21317]Maldici吋n... estoy listo para desmayarme.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21317]Maldici吋n... estoy listo para[n]desmayarme.[n][f 1 6 65535][e]
 
 [msg RYUJI_1PERSON_TP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21318]No puedo seguir as胤...[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21323]斡Muy bien! 斡Mu姻vanse![n][f 1 6 65535][e]
 
 [msg RYUJI_BATTLE_CHANGE_DUNG]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg RYUJI_BATTLE_CHANGE_DUNG_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg RYUJI_BATTLE_CHANGE_DUNG_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg RYUJI_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21365]Lo de siempre, 夷verdad?[n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Todav胤a tenemos mucho m茨s por explorar...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21352]Todav胤a tenemos mucho m茨s por[n]explorar...[n][f 1 6 65535][e]
 
 [msg RYUJI_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21353]斡Un paso a la vez![n][f 1 6 65535][e]

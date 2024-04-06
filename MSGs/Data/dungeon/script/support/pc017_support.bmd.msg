@@ -1,4 +1,4 @@
-[msg MONA_FOE_FOLLOW_START_1]
+﻿[msg MONA_FOE_FOLLOW_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23300]斡El FOE nos vio![n][f 1 6 65535][e]
 
 [msg MONA_FOE_FOLLOW_START_2]
@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23370]Mant姻n la calma mientras avanzas.[n][f 1 6 65535][e]
 
 [msg MONA_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23371]Escucha. Tenemos que hacer esto con cuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23371]Escucha. Tenemos que hacer esto con[n]cuidado.[n][f 1 6 65535][e]
 
 [msg MONA_DENKISAKU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23372]Mew... Me est茨 erizando el pelaje...[n][f 1 6 65535][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23374]No lo toques, esta cosa es peligrosa.[n][f 1 6 65535][e]
 
 [msg MONA_KYOUHU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23375]夷斡Miau!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23375]斡夷Miau?![n][f 1 6 65535][e]
 
 [msg MONA_KYOUHU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23376]斡Whoa! 斡Este viento![n][f 1 6 65535][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23332]Hay algo aqu胤...[n][f 1 6 65535][e]
 
 [msg MONA_SWITCH_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23333]夷Los interruptores no te dan ganas de usarlos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23333]夷Los interruptores no te dan ganas de[n]usarlos?[n][f 1 6 65535][e]
 
 [msg MONA_SWITCH_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23334]Mira, un interruptor.[n][f 1 6 65535][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23318]No creo que pueda ir m茨s lejos...[n][f 1 6 65535][e]
 
 [msg MONA_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23319]Tenemos que asegurarnos de no arriesgarnos, 夷de acuerdo...?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23319]Tenemos que asegurarnos de no arriesgarnos,[n]夷de acuerdo...?[n][f 1 6 65535][e]
 
 [msg MONA_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23320]Esto es bastante dif胤cil...[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23323]Vamos, chicos.[n][f 1 6 65535][e]
 
 [msg MONA_BATTLE_CHANGE_DUNGE]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg MONA_BATTLE_CHANGE_DUNGE_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg MONA_BATTLE_CHANGE_DUNGE_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg MONA_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -227,7 +227,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23352]El mapa est茨 empezando a tomar forma.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_25_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23353]Oh, finalmente estamos empezando a tener una idea de este lugar.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23353]Oh, finalmente estamos empezando a[n]tener una idea de este lugar.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_50_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23354]Estamos a mitad de camino.[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23355]Estamos a la mitad.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23356]Realmente tendremos que aprovecharlo al m茨ximo a partir de ahora.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23356]Realmente tendremos que aprovecharlo[n]al m茨ximo a partir de ahora.[n][f 1 6 65535][e]
 
 [msg MONA_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 23357]S吋lo un poco m茨s.[n][f 1 6 65535][e]

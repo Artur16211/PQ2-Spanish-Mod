@@ -1,4 +1,4 @@
-[msg DG_OBJECTIVE_MSG_LARGE_0]
+﻿[msg DG_OBJECTIVE_MSG_LARGE_0]
 [f 0 5 65278][f 2 1]Obt姻n objetos de las Torretas Rugientes.[n][e]
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]

@@ -1,5 +1,5 @@
-[msg quest_hint_000]
-[f 0 5 65278][f 2 1]クエスト００のヒントです。[n]ダミーメッセージです。[n]ダミーメッセージです。[n][e]
+﻿[msg quest_hint_000]
+[f 0 5 65278][f 2 1]クエスト００のヒントです。 ダミーメッセージです。 ダミーメッセージです。[n][e]
 
 [msg quest_hint_001]
 [f 0 5 65278][f 2 1]Alcanza la Zona 2 de Junessic Land.[n][e]
@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1]Dir胤gete al cine.[n][e]
 
 [msg quest_hint_010]
-[f 0 5 65278][f 2 1]Alcanza el Fin de la Isla en Junessic Land.[n][e]
+[f 0 5 65278][f 2 1]Alcanza el Fin de la Isla en Junessic[n]Land.[n][e]
 
 [msg quest_hint_011]
 [f 0 5 65278][f 2 1]Alcanza la Zona 1 en A.I.G.I.S.[n][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1]Investiga la Zona 2 de A.I.G.I.S.[n][e]
 
 [msg quest_hint_018]
-[f 0 5 65278][f 2 1]Investiga el Piso 2 del Laboratorio de A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Investiga el Piso 2 del Laboratorio de[n]A.I.G.I.S.[n][e]
 
 [msg quest_hint_019]
 [f 0 5 65278][f 2 1]Alcanza el Servidor Central en A.I.G.I.S.[n][e]
@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1]※クエストカット[n][e]
 
 [msg quest_hint_021]
-[f 0 5 65278][f 2 1]Investiga el Piso 1 del Laboratorio de A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Investiga el Piso 1 del Laboratorio de[n]A.I.G.I.S.[n][e]
 
 [msg quest_hint_022]
-[f 0 5 65278][f 2 1]Investiga el Piso 2 del laboratorio de A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Investiga el Piso 2 del laboratorio de[n]A.I.G.I.S.[n][e]
 
 [msg quest_hint_023]
-[f 0 5 65278][f 2 1]Despu姻s de completar una proyecci吋n especial, investiga el Piso 2 del Laboratorio A.I.G.I.S.[n][e]
+[f 0 5 65278][f 2 1]Despu姻s de completar una proyecci吋n[n]especial, investiga el Piso 2 del Laboratorio A.I.G.I.S.[n][e]
 
 [msg quest_hint_024]
 [f 0 5 65278][f 2 1]Investiga el Acto 2 de [f 6 1 40 0 0 0].[n][e]
@@ -83,7 +83,7 @@
 [f 0 5 65278][f 2 1]Dir胤gete a la taquilla.[n][e]
 
 [msg quest_hint_028]
-[f 0 5 65278][f 2 1]Despu姻s de completar una proyecci吋n especial, dir胤gete a la taquilla.[n][e]
+[f 0 5 65278][f 2 1]Despu姻s de completar una proyecci吋n[n]especial, dir胤gete a la taquilla.[n][e]
 
 [msg quest_hint_029]
 [f 0 5 65278][f 2 1]Investiga el Acto 1 de [f 6 1 40 0 0 0].[n][e]
@@ -119,25 +119,25 @@
 [f 0 5 65278][f 2 1]Dir胤gete a la taquilla.[n][e]
 
 [msg quest_hint_040]
-[f 0 5 65278][f 2 1]Alcanza el Bloque 3 del Distrito del Cine.[n][e]
+[f 0 5 65278][f 2 1]Alcanza el Bloque 3 del Distrito del[n]Cine.[n][e]
 
 [msg quest_hint_041]
-[f 0 5 65278][f 2 1]Alcanza el Bloque 2 del Distrito del Cine.[n][e]
+[f 0 5 65278][f 2 1]Alcanza el Bloque 2 del Distrito del[n]Cine.[n][e]
 
 [msg quest_hint_042]
-[f 0 5 65278][f 2 1]Investiga el Bloque 2 del Distrito del Cine.[n][e]
+[f 0 5 65278][f 2 1]Investiga el Bloque 2 del Distrito del[n]Cine.[n][e]
 
 [msg quest_hint_043]
-[f 0 5 65278][f 2 1]Investiga el Bloque 3 del Distrito del Cine.[n][e]
+[f 0 5 65278][f 2 1]Investiga el Bloque 3 del Distrito del[n]Cine.[n][e]
 
 [msg quest_hint_044]
 [f 0 5 65278][f 2 1]※クエストカット[n][e]
 
 [msg quest_hint_045]
-[f 0 5 65278][f 2 1]Alcanza el Bloque 3 del Distrito del Cine.[n][e]
+[f 0 5 65278][f 2 1]Alcanza el Bloque 3 del Distrito del[n]Cine.[n][e]
 
 [msg quest_hint_046]
-[f 0 5 65278][f 2 1]Investiga el Bloque 4 del Distrito del Cine.[n][e]
+[f 0 5 65278][f 2 1]Investiga el Bloque 4 del Distrito del[n]Cine.[n][e]
 
 [msg quest_hint_047]
 [f 0 5 65278][f 2 1]Completa varias proyecciones especiales.[n][e]

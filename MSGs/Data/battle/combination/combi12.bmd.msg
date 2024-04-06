@@ -1,4 +1,4 @@
-[msg MSG_BTL_001]
+﻿[msg MSG_BTL_001]
 [f 0 5 65278][f 2 1][f 0 6 255 255]Teddie, 斡toma el volante![n][f 1 1][e]
 
 [msg MSG_BTL_002]
@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡M-Mi est吋mago se atasc吋![n][f 1 1][e]
 
 [msg MSG_BTL_005]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷斡Qu姻!?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡夷Qu姻?![n][f 1 1][e]
 
 [msg MSG_BTL_006]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Nooo! S茨lvanosssss...[n][f 1 1][e]

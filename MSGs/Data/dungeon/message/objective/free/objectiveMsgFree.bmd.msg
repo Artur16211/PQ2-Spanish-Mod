@@ -1,4 +1,4 @@
-[msg D01_OBJECTIVE_MSG_LARGE_]
+﻿[msg D01_OBJECTIVE_MSG_LARGE_]
 [f 0 5 65278][f 2 1]Escapa de la polic胤a.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__2]
@@ -17,7 +17,7 @@
 [f 0 5 65278][f 2 1]Ve hacia las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Contin雨a m茨s allá de las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Contin雨a m茨s all茨 de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__6]
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__11]
-[f 0 5 65278][f 2 1]Contin雨a m茨s allá de las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Contin雨a m茨s all茨 de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__12]
 [f 0 5 65278][f 2 1]Encuentra otra ruta hacia adelante.[n][e]
@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1]Encuentra un camino hacia adelante.[n][e]
 
 [msg D01_OBJECTIVE_MSG_SMALL__15]
-[f 0 5 65278][f 2 1]Avanza m茨s allá de las escaleras.[n][e]
+[f 0 5 65278][f 2 1]Avanza m茨s all茨 de las escaleras.[n][e]
 
 [msg D01_OBJECTIVE_MSG_LARGE__3]
 [f 0 5 65278][f 2 1]Aprende c吋mo apagar las luces.[n][e]
@@ -71,19 +71,19 @@
 [f 0 5 65278][f 2 1]Encuentra las lecturas misteriosas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras avanzas.[n][e]
+[f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras[n]avanzas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_LARGE__3]
 [f 0 5 65278][f 2 1]Encuentra a Yosuke.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__3]
-[f 0 5 65278][f 2 1]Encuentra un interruptor y pasa por las puertas.[n][e]
+[f 0 5 65278][f 2 1]Encuentra un interruptor y pasa por las[n]puertas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__4]
 [f 0 5 65278][f 2 1]Persigue a Yosukesaurio.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__5]
-[f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras avanzas.[n][e]
+[f 0 5 65278][f 2 1]Mantente alerta ante los FOEs mientras[n]avanzas.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__6]
 [f 0 5 65278][f 2 1]Persigue al herb胤voro robado.[n][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]Descubre qu姻 es ese sonido extra隠o.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__11]
-[f 0 5 65278][f 2 1]Encuentra un camino que rodee los 茨rboles.[n][e]
+[f 0 5 65278][f 2 1]Encuentra un camino que rodee los[n]茨rboles.[n][e]
 
 [msg D02_OBJECTIVE_MSG_SMALL__12]
 [f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]Encuentra a Aigis y a su l胤der.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Mantente atento a los FOE mientras avanzas.[n][e]
+[f 0 5 65278][f 2 1]Mantente atento a los FOE mientras[n]avanzas.[n][e]
 
 [msg D03_OBJECTIVE_MSG_SMALL__3]
 [f 0 5 65278][f 2 1]Abre la puerta.[n][e]
@@ -176,7 +176,7 @@
 [f 0 5 65278][f 2 1]Contin雨a adelante.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__2]
-[f 0 5 65278][f 2 1]Encuentra una soluci吋n para los escombros.[n][e]
+[f 0 5 65278][f 2 1]Encuentra una soluci吋n para los[n]escombros.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__3]
 [f 0 5 65278][f 2 1]Atrae al FOE hacia los escombros.[n][e]
@@ -188,7 +188,7 @@
 [f 0 5 65278][f 2 1]Avanza con cuidado al viento.[n][e]
 
 [msg D05_OBJECTIVE_MSG_SMALL__6]
-[f 0 5 65278][f 2 1]Ten cuidado con los FOEs mientras avanzas.[n][e]
+[f 0 5 65278][f 2 1]Ten cuidado con los FOEs mientras[n]avanzas.[n][e]
 
 [msg D01_00_OBJECTIVE_MSG_SMA]
 [f 0 5 65278][f 2 1]Sigue las instrucciones de Oracle.[n][e]

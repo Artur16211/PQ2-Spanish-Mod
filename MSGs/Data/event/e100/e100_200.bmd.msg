@@ -1,4 +1,4 @@
-[msg MSG_000]
+﻿[msg MSG_000]
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 1][f 0 6 255 255]Eso es...[n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_001]
@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 3][f 0 6 255 255]斡He capturado a los ladrones que amenazan la armon胤a de nuestra utopía![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_002]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡Guau! ¡Eres incre胤ble![n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡Guau! 斡Eres incre胤ble![n][f 1 2 60][f 1 1][e]
 
 [msg MSG_003]
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 4][f 0 6 255 255]斡Kamoshidaman es nuestro h姻roe![n][f 6 1 19 0 0 65535][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 11][f 0 6 255 255]As胤, como enemigos de la justicia, 斡Cada uno ser茨 capturado![n][f 6 1 19 0 0 65535][e]
 
 [msg MSG_008]
-[f 0 5 65278][f 2 1][f 0 6 255 255]夷Eh? ¿Esto es real?[n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]夷Eh? 夷Esto es real?[n][f 1 2 60][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 6 1 18 0 0 12][f 0 6 255 255]Empecemos con estas dos...[n][f 6 1 19 0 0 65535][e]

@@ -1,11 +1,11 @@
-[msg explain_01_quest_00]
-[f 0 5 65278][f 2 1]クエスト００[n]説明文[n][e]
+﻿[msg explain_01_quest_00]
+[f 0 5 65278][f 2 1]クエスト００ 説明文[n][e]
 
 [msg explain_02_quest_00]
-[f 0 5 65278][f 2 1]クエスト００[n]説明文[n][e]
+[f 0 5 65278][f 2 1]クエスト００ 説明文[n][e]
 
 [msg explain_03_quest_00]
-[f 0 5 65278][f 2 1]クエスト００[n]説明文[n][e]
+[f 0 5 65278][f 2 1]クエスト００ 説明文[n][e]
 
 [msg explain_01_quest_01]
 [f 0 5 65278][f 2 1]Derrota a los Basaltos.[n][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].[n][e]
 
 [msg explain_01_quest_04]
-[f 0 5 65278][f 2 1]Ad姻ntrate m茨s en el [f 0 1 8]3er piso [f 0 1 5]mientras est茨s atento a las [f 0 1 8]c茨maras de vigilancia[f 0 1 5].[n][e]
+[f 0 5 65278][f 2 1]Ad姻ntrate m茨s en el [f 0 1 8]3er piso [f 0 1 5]mientras[n]est茨s atento a las [f 0 1 8]c茨maras de vigilancia[f 0 1 5].[n][e]
 
 [msg explain_02_quest_04]
 [f 0 5 65278][f 2 1][f 0 1 5]Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora.[n][f 0 1 8]"Informe de proyecci吋n especial completada"[f 0 1 5]Ejecutar[n][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].[n][e]
 
 [msg explain_01_quest_05]
-[f 0 5 65278][f 2 1]Encuentra una tienda con la letra K en su letrero.[n][e]
+[f 0 5 65278][f 2 1]Encuentra una tienda con la letra K en[n]su letrero.[n][e]
 
 [msg explain_02_quest_05]
 [f 0 5 65278][f 2 1][f 0 1 5]Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora.[n][f 0 1 8]"Informe de proyecci吋n especial completada"[f 0 1 5]Ejecutar[n][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].[n][e]
 
 [msg explain_01_quest_06]
-[f 0 5 65278][f 2 1]Explora el bosque y encuentra la criatura antigua.[n][e]
+[f 0 5 65278][f 2 1]Explora el bosque y encuentra la criatura[n]antigua.[n][e]
 
 [msg explain_02_quest_06]
 [f 0 5 65278][f 2 1][f 0 1 5]Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora.[n][f 0 1 8]"Informe de proyecci吋n especial completada"[f 0 1 5]Ejecutar[n][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].[n][e]
 
 [msg explain_01_quest_08]
-[f 0 5 65278][f 2 1]Encuentra al falso oficial de polic胤a en alg雨n lugar de la ciudad.[n][e]
+[f 0 5 65278][f 2 1]Encuentra al falso oficial de polic胤a[n]en alg雨n lugar de la ciudad.[n][e]
 
 [msg explain_02_quest_08]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_09]
-[f 0 5 65278][f 2 1]Encuentra el grafiti que sea diferente al resto.[n][e]
+[f 0 5 65278][f 2 1]Encuentra el grafiti que sea diferente[n]al resto.[n][e]
 
 [msg explain_02_quest_09]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_12]
-[f 0 5 65278][f 2 1]Encuentra una fruta que parezca comestible.[n][e]
+[f 0 5 65278][f 2 1]Encuentra una fruta que parezca[n]comestible.[n][e]
 
 [msg explain_02_quest_12]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_13]
-[f 0 5 65278][f 2 1]Re雨ne los ingredientes para hacer palomitas de ma胤z.[n][e]
+[f 0 5 65278][f 2 1]Re雨ne los ingredientes para hacer[n]palomitas de ma胤z.[n][e]
 
 [msg explain_02_quest_13]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_17]
-[f 0 5 65278][f 2 1]Pregunta a las personas y busca personal sospechoso.[n][e]
+[f 0 5 65278][f 2 1]Pregunta a las personas y busca personal[n]sospechoso.[n][e]
 
 [msg explain_02_quest_17]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_20]
-[f 0 5 65278][f 2 1]Captura al T-Rex para investigaci吋n cient胤fica.[n][e]
+[f 0 5 65278][f 2 1]Captura al T-Rex para investigaci吋n[n]cient胤fica.[n][e]
 
 [msg explain_02_quest_20]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -206,7 +206,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_23]
-[f 0 5 65278][f 2 1]Derrota a una Sombra con fines de entrenamiento.[n][e]
+[f 0 5 65278][f 2 1]Derrota a una Sombra con fines de[n]entrenamiento.[n][e]
 
 [msg explain_02_quest_23]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -215,7 +215,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_24]
-[f 0 5 65278][f 2 1]斡Avanza m茨s all茨 de la puerta transfigurada![n][e]
+[f 0 5 65278][f 2 1]斡Avanza m茨s all茨 de la puerta[n]transfigurada![n][e]
 
 [msg explain_02_quest_24]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_25]
-[f 0 5 65278][f 2 1]斡Derrota a la Sombra y demuestra el poder de los Ladrones Fantasma![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a la Sombra y demuestra el[n]poder de los Ladrones Fantasma![n][e]
 
 [msg explain_02_quest_25]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_26]
-[f 0 5 65278][f 2 1]斡Dir胤gete a la pelea y ve qui姻n es la mascota m茨s fuerte![n][e]
+[f 0 5 65278][f 2 1]斡Dir胤gete a la pelea y ve qui姻n es la[n]mascota m茨s fuerte![n][e]
 
 [msg explain_02_quest_26]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -242,7 +242,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_27]
-[f 0 5 65278][f 2 1]Encuentra los materiales para la freidora.[n][e]
+[f 0 5 65278][f 2 1]Encuentra los materiales para la[n]freidora.[n][e]
 
 [msg explain_02_quest_27]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -269,7 +269,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_30]
-[f 0 5 65278][f 2 1]Descubre qu姻 hacer con la puerta transfigurada.[n][e]
+[f 0 5 65278][f 2 1]Descubre qu姻 hacer con la puerta[n]transfigurada.[n][e]
 
 [msg explain_02_quest_30]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -413,7 +413,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_46]
-[f 0 5 65278][f 2 1]Lleva contigo lo que encuentres en el calabozo.[n][e]
+[f 0 5 65278][f 2 1]Lleva contigo lo que encuentres en el[n]calabozo.[n][e]
 
 [msg explain_02_quest_46]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -422,7 +422,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_47]
-[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha aparecido.[n][e]
+[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha[n]aparecido.[n][e]
 
 [msg explain_02_quest_47]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -431,7 +431,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_48]
-[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha aparecido.[n][e]
+[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha[n]aparecido.[n][e]
 
 [msg explain_02_quest_48]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -440,7 +440,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 8]completa.[f 0 1 5][n][e]
 
 [msg explain_01_quest_49]
-[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha aparecido.[n][e]
+[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha[n]aparecido.[n][e]
 
 [msg explain_02_quest_49]
 [f 0 5 65278][f 2 1]Dummy[n][e]
@@ -449,7 +449,7 @@
 [f 0 5 65278][f 2 1]Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].[n][e]
 
 [msg explain_01_quest_50]
-[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha aparecido.[n][e]
+[f 0 5 65278][f 2 1]Elimina la nueva amenaza que ha[n]aparecido.[n][e]
 
 [msg explain_02_quest_50]
 [f 0 5 65278][f 2 1]Dummy[n][e]

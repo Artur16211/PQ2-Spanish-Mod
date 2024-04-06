@@ -1,4 +1,4 @@
-[msg ANN_FOE_FOLLOW_START_1]
+﻿[msg ANN_FOE_FOLLOW_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22300]斡Viene un FOE![n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_START_2]
@@ -14,40 +14,40 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22304]夷Un FOE? 斡Esto es malo![n][f 1 6 65535][e]
 
 [msg ANN_FOE_NEAR_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22305]斡Oye, es un FOE, ya sabes! 斡Debemos tener cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22305]斡Oye, es un FOE, ya sabes! 斡Debemos[n]tener cuidado![n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_END_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22306]Uf, estamos bien... Supongo que lo perdimos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22306]Uf, estamos bien... Supongo que lo[n]perdimos.[n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_END_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22307]*suspiro* Parece que finalmente se rindi吋.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22307]*suspiro* Parece que finalmente se[n]rindi吋.[n][f 1 6 65535][e]
 
 [msg ANN_FOE_FOLLOW_END_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22308]斡S胤! 斡Escapamos![n][f 1 6 65535][e]
 
 [msg ANN_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22369]Vamos de puntillas, no queremos que nos descubran.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22369]Vamos de puntillas, no queremos que[n]nos descubran.[n][f 1 6 65535][e]
 
 [msg ANN_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22370]Muy f茨cil ahora...[n][f 1 6 65535][e]
 
 [msg ANN_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22371]Ugh, estoy sudando por todas partes. 斡Y no es porque hace calor![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22371]Ugh, estoy sudando por todas partes.[n]斡Y no es porque hace calor![n][f 1 6 65535][e]
 
 [msg ANN_DENKISAKU_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22372]Puedo sentir los pelos de la nuca eriz茨ndose...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22372]Puedo sentir los pelos de la nuca[n]eriz茨ndose...[n][f 1 6 65535][e]
 
 [msg ANN_DENKISAKU_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22373]斡NO queremos tocar eso![n][f 1 6 65535][e]
 
 [msg ANN_DENKISAKU_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22374]Whoa... Toda esta electricidad es rid胤cula...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22374]Whoa... Toda esta electricidad es[n]rid胤cula...[n][f 1 6 65535][e]
 
 [msg ANN_KYOUHU_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22375]斡Ay! 斡Viento![n][f 1 6 65535][e]
 
 [msg ANN_KYOUHU_REACTION_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22376]斡Ugh! 夷斡En serio!? 斡Mi pelo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22376]斡Ugh! 斡夷En serio?! 斡Mi pelo![n][f 1 6 65535][e]
 
 [msg ANN_KYOUHU_REACTION_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22377]夷D吋nde estamos, un tornado?[n][f 1 6 65535][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22332]斡Tiene que haber algo por aqu胤![n][f 1 6 65535][e]
 
 [msg ANN_SWITCH_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22333]Podemos activar este interruptor sin problemas, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22333]Podemos activar este interruptor sin[n]problemas, 夷verdad?[n][f 1 6 65535][e]
 
 [msg ANN_SWITCH_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22334]斡Oh! 斡Hay un interruptor![n][f 1 6 65535][e]
@@ -92,7 +92,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22336]斡Ah胤! 斡Parece un atajo![n][f 1 6 65535][e]
 
 [msg ANN_SHORTCUT_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22337]夷Quiz茨s usemos esto como un atajo, 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22337]夷Quiz茨s usemos esto como un atajo,[n]夷verdad?[n][f 1 6 65535][e]
 
 [msg ANN_SHORTCUT_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22338]Oye, tal vez podamos pasar por ah胤.[n][f 1 6 65535][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
 
 [msg ANN_FOE_WARNING_NEAR_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22309]夷斡Cu茨nto m茨s va a perseguirnos!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22309]斡夷Cu茨nto m茨s va a perseguirnos?![n][f 1 6 65535][e]
 
 [msg ANN_FOE_WARNING_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22310]斡Viene el FOE! 斡Corre![n][f 1 6 65535][e]
@@ -137,10 +137,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22312]Lo siento... No puedo seguir...[n][f 1 6 65535][e]
 
 [msg ANN_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22313]Oye, 夷crees que podamos descansar un poco y relajarnos...?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22313]Oye, 夷crees que podamos descansar un[n]poco y relajarnos...?[n][f 1 6 65535][e]
 
 [msg ANN_1PERSON_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22314]Creo que esto es lo m茨s lejos que puedo llegar...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22314]Creo que esto es lo m茨s lejos que puedo[n]llegar...[n][f 1 6 65535][e]
 
 [msg ANN_PARTY_TP10_1]
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
@@ -185,16 +185,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22322]夷Todos est茨n bien?[n][f 1 6 65535][e]
 
 [msg ANN_1PERSON_HP80_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22323]夷斡Por qu姻 parar ahora!?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22323]斡夷Por qu姻 parar ahora?![n][f 1 6 65535][e]
 
 [msg ANN_BATTLE_CHANGE_DUNGEO]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg ANN_BATTLE_CHANGE_DUNGEO_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg ANN_BATTLE_CHANGE_DUNGEO_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg ANN_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -269,7 +269,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22348]斡Buena forma de mantenerte organizado![n][f 1 6 65535][e]
 
 [msg ANN_MAPPING_ICON_DEL_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 22349]S胤, deber胤amos deshacernos de lo que no[n]necesitamos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 22349]S胤, deber胤amos deshacernos de lo que[n]no necesitamos.[n][f 1 6 65535][e]
 
 [msg ANN_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22350]斡Aseg雨rate de tomar notas![n][f 1 6 65535][e]

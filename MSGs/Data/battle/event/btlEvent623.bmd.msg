@@ -1,11 +1,11 @@
-[msg MSG_000 [Madre Computadora]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 920][f 6 1 3 0 0 2]Objetivos adquiridos. Prepar茨ndose para la batalla. Todas las "individualidades" deben ser destruidas.[n][f 1 3 65535][f 1 1][e]
+﻿[msg MSG_000 [Madre Computadora]]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 920][f 6 1 3 0 0 2]Objetivos adquiridos. Prepar茨ndose para[n]la batalla. Todas las "individualidades"[n]deben ser destruidas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 7][f 1 5][f 6 1 16 0 0 0][n][f 3 1 3 0 0 921]No soy nadie m茨s que yo. Puede que otros sean similares, pero nadie es exactamente igual.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 4 1 8][f 3 1 3 0 0 922]As胤 es. Mientras las personas vivan, la individualidad existir茨.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 4 1 8][f 3 1 3 0 0 922]As胤 es. Mientras las personas vivan, la[n]individualidad existir茨.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 8 2 7][f 1 5][f 6 1 27 0 0 0][n][f 3 1 3 0 0 923]No negar姻 quién soy, 斡y nunca temeré ser diferente de los dem茨s![n][f 1 3 65535][f 1 1][e]

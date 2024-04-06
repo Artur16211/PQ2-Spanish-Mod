@@ -1,17 +1,17 @@
-[msg MSG_BGM_000]
-[f 0 5 65278][f 2 1]Reproduce aleatoriamente la m雨sica original desbloqueada de Persona Q2[n][e]
+﻿[msg MSG_BGM_000]
+[f 0 5 65278][f 2 1]Reproduce aleatoriamente la m雨sica[n]original desbloqueada de Persona Q2[n][e]
 
 [msg MSG_BGM_001]
-[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n de Persona 5[n][e]
+[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n[n]de Persona 5[n][e]
 
 [msg MSG_BGM_002]
-[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n de Persona 3 Portable[n][e]
+[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n[n]de Persona 3 Portable[n][e]
 
 [msg MSG_BGM_003]
-[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n de Persona 4[n][e]
+[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n[n]de Persona 4[n][e]
 
 [msg MSG_BGM_004]
-[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n de Persona 3[n][e]
+[f 0 5 65278][f 2 1]M雨sica original de Persona Q2 versi吋n[n]de Persona 3[n][e]
 
 [msg MSG_BGM_005]
 [f 0 5 65278][f 2 1]De Persona 3[n][e]
@@ -41,5 +41,5 @@
 [f 0 5 65278][f 2 1]De Persona 5[n][e]
 
 [msg MSG_BGM_014]
-[f 0 5 65278][f 2 1]Reproduce aleatoriamente todas las pistas de m雨sica en la lista (incluyendo DLC).[n][e]
+[f 0 5 65278][f 2 1]Reproduce aleatoriamente todas las pistas[n]de m雨sica en la lista (incluyendo[n]DLC).[n][e]
 

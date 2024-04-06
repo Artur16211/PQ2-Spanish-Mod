@@ -1,4 +1,4 @@
-[sel GOTO_DUNGEON_YESNO top]
+﻿[sel GOTO_DUNGEON_YESNO top]
 [f 0 5 65278][f 2 1]S胤[e]
 [f 0 5 65278][f 2 1]No[e]
 

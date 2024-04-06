@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 23106]Tenemos la ubicaci吋n de Kamoshidaman... Una vez que entremos, no podemos regresar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 12 0 1][f 3 1 1 0 0 23106]Tenemos la ubicaci吋n de Kamoshidaman...[n]Una vez que entremos, no podemos[n]regresar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Hemos llegado hasta aqu胤, así que todo lo que queda es poner nuestro plan en acci吋n. 斡Hagamos bien, con confianza y precaución![n][f 1 3 65535][f 1 1][e]

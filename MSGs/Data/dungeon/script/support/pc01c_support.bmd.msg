@@ -1,4 +1,4 @@
-[msg AKECHI_FOE_FOLLOW_START_]
+﻿[msg AKECHI_FOE_FOLLOW_START_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28300]Viene, no entres en p茨nico.[n][f 1 6 65535][e]
 
 [msg AKECHI_FOE_FOLLOW_START__2]
@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28308]Parece que no nos est茨 siguiendo.[n][f 1 6 65535][e]
 
 [msg AKECHI_KANSI_REACTION_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28369]Est茨 bien. Estoy seguro de que estar茨s bien.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28369]Est茨 bien. Estoy seguro de que estar茨s[n]bien.[n][f 1 6 65535][e]
 
 [msg AKECHI_KANSI_REACTION_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28370]En realidad, es un simple truco.[n][f 1 6 65535][e]
@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28371]Mantengamos la calma.[n][f 1 6 65535][e]
 
 [msg AKECHI_DENKISAKU_REACTIO]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28372]Debemos encontrar una forma de detenerlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28372]Debemos encontrar una forma de[n]detenerlo.[n][f 1 6 65535][e]
 
 [msg AKECHI_DENKISAKU_REACTIO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28373]Oh... una puerta el姻ctrica...[n][f 1 6 65535][e]
@@ -62,10 +62,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28326]夷Cu茨l es el plan? 夷Seguir adelante?[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28327]Una cofre del tesoro. Ser姻 generoso y te lo dejar姻.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28327]Una cofre del tesoro. Ser姻 generoso y[n]te lo dejar姻.[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28328]Una cofre del tesoro, 夷eh? 夷Por qu姻 no intentas[n]abrirlo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28328]Una cofre del tesoro, 夷eh? 夷Por qu姻 no[n]intentas abrirlo?[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28329]斡He aqu胤! 斡Una cofre del tesoro![n][f 1 6 65535][e]
@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28312]He recibido demasiado da隠o. Necesito[n]apoyo.[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28313]Estoy en mal estado. 夷Un poco de ayuda, por[n]favor?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28313]Estoy en mal estado. 夷Un poco de ayuda,[n]por favor?[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28314]Seguir adelante podr胤a ser imprudente...[n][f 1 6 65535][e]
@@ -152,7 +152,7 @@
 [f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28315]夷Creen que podemos curarnos en[n]un futuro cercano?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28315]夷Creen que podemos curarnos en un futuro[n]cercano?[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28316]Estoy m茨s da隠ado de lo que pensaba...[n][f 1 6 65535][e]
@@ -161,13 +161,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28317]Es-esto no es nada, lo juro.[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_TP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28318]Estoy agotado... Creo que... podr胤a desmayarme.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28318]Estoy agotado... Creo que... podr胤a[n]desmayarme.[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28319]Tal vez podr胤amos descansar un poco...[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28320]Parece que ser茨 una batalla de resistencia...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28320]Parece que ser茨 una batalla de[n]resistencia...[n][f 1 6 65535][e]
 
 [msg AKECHI_ITEM_90_BATTLE_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28390]【justificadamente[n][f 1 6 65535][e]
@@ -182,19 +182,19 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28321]Todo el mundo est茨 bien.[n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28322]斡Estamos logrando haza隠as realmente impresionantes![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28322]斡Estamos logrando haza隠as realmente[n]impresionantes![n][f 1 6 65535][e]
 
 [msg AKECHI_1PERSON_HP80_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28323]Siempre puedes contar conmigo.[n][f 1 6 65535][e]
 
 [msg AKECHI_BATTLE_CHANGE_DUN]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg AKECHI_BATTLE_CHANGE_DUN_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg AKECHI_BATTLE_CHANGE_DUN_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg AKECHI_ITEM_90_DUNGEON_1]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28360]斡Ahora, comencemos![n][f 1 6 65535][e]
 
 [msg AKECHI_DUNGEON_START_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28361]Tengo plena confianza en que podemos hacerlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28361]Tengo plena confianza en que podemos[n]hacerlo.[n][f 1 6 65535][e]
 
 [msg AKECHI_DUNGEON_START_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28362]Todos est姻n alerta.[n][f 1 6 65535][e]
@@ -221,7 +221,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28364]Veamos de qu姻 se trata este lugar.[n][f 1 6 65535][e]
 
 [msg AKECHI_QUEST_START_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28365]Ahora, que comience nuestra noble exploraci吋n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28365]Ahora, que comience nuestra noble[n]exploraci吋n.[n][f 1 6 65535][e]
 
 [msg AKECHI_TOUHA_25_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28352]Poco a poco, pero con seguridad...[n][f 1 6 65535][e]
@@ -236,7 +236,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28355]Est茨 quedando bastante bien.[n][f 1 6 65535][e]
 
 [msg AKECHI_TOUHA_75_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28356]Deber胤amos proceder lentamente y con cuidado.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28356]Deber胤amos proceder lentamente y con[n]cuidado.[n][f 1 6 65535][e]
 
 [msg AKECHI_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28357]斡Estamos a punto de terminar![n][f 1 6 65535][e]
@@ -245,7 +245,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28358]斡Hemos terminado! 斡Se ve fant茨stico![n][f 1 6 65535][e]
 
 [msg AKECHI_TOUHA_100_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28359]斡Felicidades, hemos terminado con este piso![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28359]斡Felicidades, hemos terminado con este[n]piso![n][f 1 6 65535][e]
 
 [msg AKECHI_MAPPING_ICON_ALL_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28342]S胤, sin dudas en eso.[n][f 1 6 65535][e]
@@ -266,7 +266,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28347]Debes ser el tipo exigente.[n][f 1 6 65535][e]
 
 [msg AKECHI_MAPPING_ICON_DEL_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28348]Debo admitir que tambi姻n creo que eso es innecesario.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28348]Debo admitir que tambi姻n creo que eso[n]es innecesario.[n][f 1 6 65535][e]
 
 [msg AKECHI_MAPPING_ICON_DEL__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28349]Oh, eso es valiente de tu parte.[n][f 1 6 65535][e]

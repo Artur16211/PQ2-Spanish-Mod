@@ -1,4 +1,4 @@
-[msg BTL_MES_001_000]
+﻿[msg BTL_MES_001_000]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_001]
@@ -8,16 +8,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1301]＜声のみ＞大丈夫、絶対に勝つぞ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_003]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1302]Un FOE... Probablemente deber胤amos retirarnos.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1302]Un FOE... Probablemente deber胤amos[n]retirarnos.[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_004]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1303]＜声のみ＞無理は禁物だな…[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_005]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1304]Es un FOE, pero tal vez podamos manejarlo...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1304]Es un FOE, pero tal vez podamos[n]manejarlo...[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_006]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1305]Una Sombra rara.[n]斡Es nuestra oportunidad![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1305]Una Sombra rara. 斡Es nuestra[n]oportunidad![n][f 1 6 65535][e]
 
 [msg BTL_MES_001_007]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1306]＜声のみ＞なら、最初に狙うか…！[n][f 1 6 65535][e]
@@ -29,16 +29,16 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1311]＜声のみ＞ああ、りせ了解だ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_010]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1312]＜声のみ＞なるほど…[n]ありがとう、山岸さん[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1312]＜声のみ＞なるほど… ありがとう、山岸さん[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_011]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1320]El enemigo parece fuerte...[n]Esto podr胤a ser un problema.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1320]El enemigo parece fuerte... Esto podr胤a[n]ser un problema.[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_012]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1321]＜声のみ＞戦うか、それとも…[n]どうする？[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1321]＜声のみ＞戦うか、それとも… どうする？[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_013]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1322]Ese es uno nuevo... Encontremos su debilidad primero.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1322]Ese es uno nuevo... Encontremos su[n]debilidad primero.[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_014]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1323]＜声のみ＞ああ、色々試してみよう[n][f 1 6 65535][e]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1327]＜声のみ＞悪いが手加減はしない[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_019]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1328]Parece que algo[n]cambi吋... 夷verdad?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1328]Parece que algo cambi吋... 夷verdad?[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_020]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1329]＜声のみ＞マズイ状況だな…[n][f 1 6 65535][e]
@@ -167,7 +167,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1343]夷Deber胤a disparar?[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_056]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1344]Un Relevo podr胤a cambiar[n]esto...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1344]Un Relevo podr胤a cambiar esto...[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_057]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1345]夷Es mi turno ahora?[n][f 1 6 65535][e]
@@ -179,7 +179,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1502]＜声のみ＞ああ、頼んだ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_060]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1503]＜声のみ＞ああ！[n]蹴散らしてやれ、陽介！[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1503]＜声のみ＞ああ！ 蹴散らしてやれ、陽介！[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_061]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1504]＜声のみ＞千枝、頼んだ…！[n][f 1 6 65535][e]
@@ -257,5 +257,5 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 1528]＜声のみ＞クロウ、頼んだ！[n][f 1 6 65535][e]
 
 [msg BTL_MES_001_086]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 1430]Lo siento, pero no puedo permitirme contenerme.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 1430]Lo siento, pero no puedo permitirme[n]contenerme.[n][f 1 6 65535][e]
 

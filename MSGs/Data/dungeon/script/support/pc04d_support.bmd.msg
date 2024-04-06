@@ -1,4 +1,4 @@
-[msg MARGARET_FOE_FOLLOW_STAR]
+﻿[msg MARGARET_FOE_FOLLOW_STAR]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55300]Eso es... una Film Ob...[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_FOLLOW_START_]
@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57303]*jadeo* 夷Qu姻...?[n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_NEAR_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55304]Es bastante grande, pero, por supuesto, todo te parece grande a ti.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55304]Es bastante grande, pero, por supuesto,[n]todo te parece grande a ti.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_NEAR_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57304]*jadeo* 斡Es enorme![n][f 1 6 65535][e]
@@ -50,10 +50,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55308]Afortunadamente, dej吋 de perseguirte.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_FOLLOW_END_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57308]夷El F-O-E se ha ido? 夷Estamos a salvo ahora?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57308]夷El F-O-E se ha ido? 夷Estamos a salvo[n]ahora?[n][f 1 6 65535][e]
 
 [msg MARGARET_KANSI_REACTION_]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55375]Si esas luces logran tocarte, seguramente te[n]ver茨n.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55375]Si esas luces logran tocarte, seguramente[n]te ver茨n.[n][f 1 6 65535][e]
 
 [msg NANAKO_KANSI_REACTION_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57375]斡Si entras en una, te ver茨n![n][f 1 6 65535][e]
@@ -68,25 +68,25 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55377]Ten cuidado al pasar.[n][f 1 6 65535][e]
 
 [msg NANAKO_KANSI_REACTION_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57377]斡Es como el escondite! 斡No tienes que dejar[n]que te encuentren![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57377]斡Es como el escondite! 斡No tienes que[n]dejar que te encuentren![n][f 1 6 65535][e]
 
 [msg MARGARET_DENKISAKU_REACT]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55378]Para continuar, ser茨 necesario desactivar la[n]puerta el姻ctrica.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55378]Para continuar, ser茨 necesario desactivar[n]la puerta el姻ctrica.[n][f 1 6 65535][e]
 
 [msg NANAKO_DENKISAKU_REACTIO]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57378]Es todo zappy... 夷Podemos apagarlo?[n][f 1 6 65535][e]
 
 [msg MARGARET_DENKISAKU_REACT_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55379]Esa puerta es un desafortunado obst茨culo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55379]Esa puerta es un desafortunado[n]obst茨culo.[n][f 1 6 65535][e]
 
 [msg NANAKO_DENKISAKU_REACTIO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57379]斡Cuidado! 斡No te emociones![n][f 1 6 65535][e]
 
 [msg MARGARET_DENKISAKU_REACT_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55380]Es probable que haya un interruptor para[n]apagar la energ胤a. Espero que puedas[n]encontrarlo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55380]Es probable que haya un interruptor[n]para apagar la energ胤a. Espero que puedas encontrarlo.[n][f 1 6 65535][e]
 
 [msg NANAKO_DENKISAKU_REACTIO_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57380]夷Hay un interruptor para apagar la elerg胤a?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57380]夷Hay un interruptor para apagar la[n]elerg胤a?[n][f 1 6 65535][e]
 
 [msg MARGARET_KYOUHU_REACTION]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55381]Qu姻 fuerte viento.[n][f 1 6 65535][e]
@@ -107,16 +107,16 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57383]*jadeo* 斡Volamos![n][f 1 6 65535][e]
 
 [msg MARGARET_STAIR_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55333]Bien hecho. Has encontrado las escaleras.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55333]Bien hecho. Has encontrado las[n]escaleras.[n][f 1 6 65535][e]
 
 [msg NANAKO_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57333]斡S胤! 夷Te est茨s moviendo?[n][f 1 6 65535][e]
 
 [msg MARGARET_STAIR_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55334]Progreso notable. 夷Est茨s listo para ir m茨s[n]lejos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55334]Progreso notable. 夷Est茨s listo para ir[n]m茨s lejos?[n][f 1 6 65535][e]
 
 [msg NANAKO_STAIR_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57334]斡Oh! 斡Me encanta este juego! 斡Espio, con mi[n]peque隠o ojo, una escalera![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57334]斡Oh! 斡Me encanta este juego! 斡Espio,[n]con mi peque隠o ojo, una escalera![n][f 1 6 65535][e]
 
 [msg MARGARET_STAIR_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55335]Por fin, has encontrado las escaleras.[n][f 1 6 65535][e]
@@ -125,25 +125,25 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57335]斡Ah胤 est茨n las escaleras![n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55336]Eso parece ser un cofre del tesoro. 夷Planeas[n]abrirlo, no?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55336]Eso parece ser un cofre del tesoro.[n]夷Planeas abrirlo, no?[n][f 1 6 65535][e]
 
 [msg NANAKO_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57336]斡Un cofre del tesoro! 夷Qu姻 hay en 姻l?[n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55337]Un cofre del tesoro. 夷Qu姻 podr胤a haber dentro?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55337]Un cofre del tesoro. 夷Qu姻 podr胤a haber[n]dentro?[n][f 1 6 65535][e]
 
 [msg NANAKO_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57337]斡Vaya, encontraste un cofre del tesoro![n][f 1 6 65535][e]
 
 [msg MARGARET_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55338]Espero que encuentres algo que valga la pena[n]en esa cofre del tesoro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55338]Espero que encuentres algo que valga[n]la pena en esa cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg NANAKO_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57338]斡Veo un tesoro![n][f 1 6 65535][e]
 
 [msg MARGARET_CHECK_WALL_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55339]Puede que muy bien deses echar un vistazo[n]m茨s cerca all胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55339]Puede que muy bien deses echar un[n]vistazo m茨s cerca all胤.[n][f 1 6 65535][e]
 
 [msg NANAKO_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57339]夷Qu姻 es eso?[n][f 1 6 65535][e]
@@ -203,7 +203,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57387]No te ves bien. 斡Vuelve al cine![n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_DEAD_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55388]Estoy de acuerdo. 夷Tal vez deber胤as regresar[n]por ahora?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55388]Estoy de acuerdo. 夷Tal vez deber胤as[n]regresar por ahora?[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_DEAD_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57388]斡Es demasiado peligroso seguir![n][f 1 6 65535][e]
@@ -221,7 +221,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57309]斡D姻jalos en paz![n][f 1 6 65535][e]
 
 [msg MARGARET_FOE_WARNING_NEA_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55310]Eso es correcto, as胤 que mejor vigila tus[n]alrededores.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55310]Eso es correcto, as胤 que mejor vigila[n]tus alrededores.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_WARNING_NEAR__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57310]斡El F-O-E sigue aqu胤![n][f 1 6 65535][e]
@@ -230,7 +230,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55311]Un FOE se acerca. Ten cuidado.[n][f 1 6 65535][e]
 
 [msg NANAKO_FOE_WARNING_NEAR__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57311]斡Tenemos que hacer nuestro mejor esfuerzo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57311]斡Tenemos que hacer nuestro mejor[n]esfuerzo![n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55315]Te sugiero que te retires por ahora.[n][f 1 6 65535][e]
@@ -239,25 +239,25 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57315]S胤, 斡volvamos![n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55316]Desafortunadamente, todo el equipo est茨 al[n]borde del colapso...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55316]Desafortunadamente, todo el equipo est茨[n]al borde del colapso...[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57316]斡No quiero que pierdas![n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_HPTP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55317]S胤, no ser胤a prudente seguir adelante as胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55317]S胤, no ser胤a prudente seguir adelante[n]as胤.[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57317]夷Est茨s bien? 夷Debemos regresar?[n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55321]La salud de todos se acerca r茨pidamente a un[n]nivel peligroso.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55321]La salud de todos se acerca r茨pidamente[n]a un nivel peligroso.[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_HP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57321]No corras demasiados riesgos. 斡Eso es lo que dijo[n]mi profesor![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57321]No corras demasiados riesgos. 斡Eso es[n]lo que dijo mi profesor![n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_HP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55322]En serio, deber胤as echar un vistazo a la[n]salud de tu grupo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55322]En serio, deber胤as echar un vistazo a[n]la salud de tu grupo.[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_HP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57322]斡Tomen una siesta![n][f 1 6 65535][e]
@@ -275,13 +275,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57312]Oh no... Tengo miedo por todos...[n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HPTP10__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55313]Debes hacer de la curaci吋n de todos tu primera prioridad.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55313]Debes hacer de la curaci吋n de todos tu[n]primera prioridad.[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_HPTP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57313]斡Te tienes que curar antes de que sea demasiado[n]tarde![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57313]斡Te tienes que curar antes de que sea[n]demasiado tarde![n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HPTP10__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55314]Por desgracia, has perdido mucha salud y[n]energ胤a.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55314]Por desgracia, has perdido mucha salud[n]y energ胤a.[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_HPTP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57314]*jadeo* 斡Ayuda![n][f 1 6 65535][e]
@@ -293,7 +293,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57327]夷Por qu姻 todos se ven tan cansados?[n][f 1 6 65535][e]
 
 [msg MARGARET_PARTY_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55328]Me preocupa cada vez m茨s sus grandes p姻rdidas[n]de energ胤a.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55328]Me preocupa cada vez m茨s sus grandes[n]p姻rdidas de energ胤a.[n][f 1 6 65535][e]
 
 [msg NANAKO_PARTY_TP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57328]夷A雨n van a seguir...?[n][f 1 6 65535][e]
@@ -317,7 +317,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57319]S胤. 斡Si est茨s cansado, descansa![n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55320]夷Considerar胤as restaurar tu salud primero?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55320]夷Considerar胤as restaurar tu salud[n]primero?[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_HP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57320]夷Est茨s lastimando?[n][f 1 6 65535][e]
@@ -332,13 +332,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55325]Estoy de acuerdo. Ser胤a imprudente.[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_TP10_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57325]No deber胤as seguir adelante cuando est姻s tan[n]cansado...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57325]No deber胤as seguir adelante cuando[n]est姻s tan cansado...[n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_TP10_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55326]Est茨s totalmente sin de la resistencia.[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_TP10_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57326]Tom姻monos un descanso en grupo, 斡ya que estamos cansados![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57326]Tom姻monos un descanso en grupo, 斡ya[n]que estamos cansados![n][f 1 6 65535][e]
 
 [msg MARGARET_ITEM_90_BATTLE_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55390]Necesitas hacer algo de limpieza.[n][f 1 6 65535][e]
@@ -365,25 +365,25 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57330]斡Yo tambi姻n lo estoy haciendo bien![n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55331]Todav胤a hay alguien que parece estar en buenas[n]condiciones.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55331]Todav胤a hay alguien que parece estar[n]en buenas condiciones.[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_HP80_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57331]斡Todav胤a podemos seguir![n][f 1 6 65535][e]
 
 [msg MARGARET_1PERSON_HP80_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55332]Deber胤as seguir adelante mientras puedas.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55332]Deber胤as seguir adelante mientras[n]puedas.[n][f 1 6 65535][e]
 
 [msg NANAKO_1PERSON_HP80_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57332]斡Lo est茨s haciendo genial![n][f 1 6 65535][e]
 
 [msg NANAKO_BATTLE_CHANGE_DUN]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg NANAKO_BATTLE_CHANGE_DUN_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg NANAKO_BATTLE_CHANGE_DUN_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg MARGARET_ITEM_90_DUNGEON]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55390]Necesitas hacer algo de limpieza.[n][f 1 6 65535][e]
@@ -404,7 +404,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57392]斡Oh no, tu bolsa est茨 llena![n][f 1 6 65535][e]
 
 [msg MARGARET_DUNGEON_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55369]Te apoyar姻 'Detr茨s de c茨maras', como dicen aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55369]Te apoyar姻 'Detr茨s de c茨maras', como[n]dicen aqu胤.[n][f 1 6 65535][e]
 
 [msg NANAKO_DUNGEON_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57369]斡D姻jenme la navegaci吋n![n][f 1 6 65535][e]
@@ -422,7 +422,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57371]斡Estoy lista![n][f 1 6 65535][e]
 
 [msg MARGARET_QUEST_START_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55372]Ambas te brindaremos apoyo, en lo que sea[n]posible.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55372]Ambas te brindaremos apoyo, en lo que[n]sea posible.[n][f 1 6 65535][e]
 
 [msg NANAKO_QUEST_START_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57372]斡La proyecci吋n especial est茨 comenzando![n][f 1 6 65535][e]
@@ -443,7 +443,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55361]Te est茨s volviendo muy bueno en esto.[n][f 1 6 65535][e]
 
 [msg NANAKO_TOUHA_25_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57361]Todav胤a hay mucho que explorar. 斡Pero puedes[n]hacerlo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57361]Todav胤a hay mucho que explorar. 斡Pero[n]puedes hacerlo![n][f 1 6 65535][e]
 
 [msg MARGARET_TOUHA_25_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55362]En realidad, acabas de empezar.[n][f 1 6 65535][e]
@@ -470,13 +470,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57365]Casi. 斡Puedes hacerlo![n][f 1 6 65535][e]
 
 [msg MARGARET_TOUHA_75_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55366]Ya casi terminas este piso. Te deseo suerte.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55366]Ya casi terminas este piso. Te deseo[n]suerte.[n][f 1 6 65535][e]
 
 [msg NANAKO_TOUHA_75_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57366]斡El mapa est茨 casi terminado![n][f 1 6 65535][e]
 
 [msg MARGARET_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55367]Probablemente conozcas este piso como la[n]palma de tu mano.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55367]Probablemente conozcas este piso como[n]la palma de tu mano.[n][f 1 6 65535][e]
 
 [msg NANAKO_TOUHA_100_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57367]斡S胤! 斡Todo est茨 hecho![n][f 1 6 65535][e]
@@ -497,10 +497,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55352]Est茨s ejerciendo un juicio s吋lido.[n][f 1 6 65535][e]
 
 [msg NANAKO_MAPPING_ICON_ALL__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57352]Vaya. 斡Este mapa es el mejor dibujo que he[n]visto![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57352]Vaya. 斡Este mapa es el mejor dibujo[n]que he visto![n][f 1 6 65535][e]
 
 [msg MARGARET_MAPPING_ICON_KA]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55353]Con ese nivel de habilidad, no deber胤as tener[n]miedo de perderte.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55353]Con ese nivel de habilidad, no deber胤as[n]tener miedo de perderte.[n][f 1 6 65535][e]
 
 [msg NANAKO_MAPPING_ICON_KAID]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57353]斡Siento que nunca nos perderemos![n][f 1 6 65535][e]
@@ -533,7 +533,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55358]Por supuesto, es bueno corregir errores[n]siempre que sea posible.[n][f 1 6 65535][e]
 
 [msg NANAKO_MAPPING_ICON_DEL__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 57358]夷Has quitado algo? 夷Est茨s dibujando algo otra[n]vez?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 57358]夷Has quitado algo? 夷Est茨s dibujando[n]algo otra vez?[n][f 1 6 65535][e]
 
 [msg MARGARET_MAPPING_MEMO_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55359]No debes olvidar detalles importantes.[n][f 1 6 65535][e]
@@ -542,7 +542,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57359]斡Yo tambi姻n soy una buena escritora![n][f 1 6 65535][e]
 
 [msg MARGARET_MAPPING_MEMO_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55360]Escribir notas para m茨s tarde es un h茨bito excelente.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55360]Escribir notas para m茨s tarde es un[n]h茨bito excelente.[n][f 1 6 65535][e]
 
 [msg NANAKO_MAPPING_MEMO_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57360]Tambi姻n escribir姻 una nota. As胤, no lo[n]olvidar姻.[n][f 1 6 65535][e]
@@ -563,7 +563,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57384]斡El Segador! 斡Es el![n][f 1 6 65535][e]
 
 [msg MARGARET_KARITORU_ENCOUN_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55385]Sigue alerta. Se acerca un enemigo poderoso.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55385]Sigue alerta. Se acerca un enemigo[n]poderoso.[n][f 1 6 65535][e]
 
 [msg NANAKO_KARITORU_ENCOUNT__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 57384]斡Viene el Segador![n][f 1 6 65535][e]

@@ -1,4 +1,4 @@
-[sel ITEM_POINT_SEL top]
+﻿[sel ITEM_POINT_SEL top]
 [f 0 5 65278][f 2 1]Buscar con cautela[e]
 [f 0 5 65278][f 2 1]Buscar minuciosamente[e]
 [f 0 5 65278][f 2 1]Cancelar[e]
@@ -16,16 +16,16 @@
 [f 0 5 65278][f 2 1]Cancelar[e]
 
 [msg MSG_000 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28001]Tenemos la oportunidad de obtener algunos objetos poco comunes. 夷Qu姻 dices?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28001]Tenemos la oportunidad de obtener algunos[n]objetos poco comunes. 夷Qu姻 dices?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28068]Excelente idea. No estamos para luchar contra algo poderoso en este momento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28068]Excelente idea. No estamos para luchar[n]contra algo poderoso en este momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28072]En efecto, busquemos esos objetos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28070]Bueno, est茨 bien. Pero tal vez deber胤amos regresar m茨s tarde.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28070]Bueno, est茨 bien. Pero tal vez deber胤amos[n]regresar m茨s tarde.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28107]Parece que es todo por ahora.[n][f 1 3 65535][f 1 1][e]
@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28380]斡Genial![n][f 1 6 65535][e]
 
 [msg MSG_008 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28109]Eso estuvo cerca. Ciertamente no me importar胤a si dejamos de buscar ahora.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28109]Eso estuvo cerca. Ciertamente no me[n]importar胤a si dejamos de buscar ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28381]斡Eso s胤 que es un hallazgo![n][f 1 6 65535][e]
@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28091]斡Esa fue una pelea seria![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Akechi]]
-[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28056]Estoy sintiendo una Sombra espeluznante. 斡Espero que tengas un plan![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28056]Estoy sintiendo una Sombra espeluznante.[n]斡Espero que tengas un plan![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 0][f 3 1 1 0 0 28070]Ok, vamos a echar un vistazo.[n][f 1 3 65535][f 1 1][e]

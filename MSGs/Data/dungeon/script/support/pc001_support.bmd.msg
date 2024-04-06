@@ -1,4 +1,4 @@
-[msg P4_HERO_FOE_FOLLOW_START]
+﻿[msg P4_HERO_FOE_FOLLOW_START]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1300]斡Nos ha visto un FOE![n][f 1 6 65535][e]
 
 [msg P4_HERO_FOE_FOLLOW_START_2]
@@ -41,7 +41,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1373]Una puerta el姻ctrica... No la toques.[n][f 1 6 65535][e]
 
 [msg P4_HERO_DENKISAKU_REACTI_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1374]Tenemos que apagar la energ胤a de alguna manera...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1374]Tenemos que apagar la energ胤a de alguna[n]manera...[n][f 1 6 65535][e]
 
 [msg P4_HERO_KYOUHU_REACTION_]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1375]夷Qu姻[n][f 1 6 65535][e]
@@ -59,7 +59,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1325]夷Listo para el siguiente zona?[n][f 1 6 65535][e]
 
 [msg P4_HERO_STAIR_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1326]Podemos seguir adelante. 夷Estamos listos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1326]Podemos seguir adelante. 夷Estamos[n]listos?[n][f 1 6 65535][e]
 
 [msg P4_HERO_TREASURE_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1327]Un cofre del tesoro... 夷Vas a abrirlo?[n][f 1 6 65535][e]
@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1328]Veo un cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg P4_HERO_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1329]Un cofre del tesoro... Me pregunto qu姻 hay[n]dentro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1329]Un cofre del tesoro... Me pregunto qu姻[n]hay dentro.[n][f 1 6 65535][e]
 
 [msg P4_HERO_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1330]夷Qu姻 es eso?[n][f 1 6 65535][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1331]Hay algo ah胤.[n][f 1 6 65535][e]
 
 [msg P4_HERO_CHECK_WALL_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1332]Algo est茨 aqu胤... Echemos un vistazo m茨s de[n]cerca.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1332]Algo est茨 aqu胤... Echemos un vistazo[n]m茨s de cerca.[n][f 1 6 65535][e]
 
 [msg P4_HERO_SWITCH_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1333]Hemos encontrado un interruptor.[n][f 1 6 65535][e]
@@ -188,13 +188,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1323]Mantengamos el ritmo.[n][f 1 6 65535][e]
 
 [msg P4_HERO_BATTLE_CHANGE_DU]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg P4_HERO_BATTLE_CHANGE_DU_2]
-[f 0 5 65278][f 2 1]■ト {\cHFF}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
 
 [msg P4_HERO_BATTLE_CHANGE_DU_3]
-[f 0 5 65278][f 2 1]■ト {}[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
 
 [msg P4_HERO_ITEM_90_DUNGEON_]
 [f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
@@ -242,7 +242,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1357]Un poco m茨s, y este piso ser茨 nuestro.[n][f 1 6 65535][e]
 
 [msg P4_HERO_TOUHA_100_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 1358]Hemos visto todo lo que hay que ver por aqu胤.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 1358]Hemos visto todo lo que hay que ver[n]por aqu胤.[n][f 1 6 65535][e]
 
 [msg P4_HERO_TOUHA_100_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 1359]Bien. Este piso est茨 hecho.[n][f 1 6 65535][e]

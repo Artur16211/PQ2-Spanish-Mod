@@ -1,5 +1,5 @@
-[msg quest_explain_000]
-[f 0 5 65278][f 2 1]クエスト００の概要です。[n]ダミーメッセージです。[n][e]
+﻿[msg quest_explain_000]
+[f 0 5 65278][f 2 1]クエスト００の概要です。 ダミーメッセージです。[n][e]
 
 [msg quest_explain_001]
 [f 0 5 65278][f 2 1]斡Derrota a los Basaltos![n][e]
@@ -17,19 +17,19 @@
 [f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_006]
-[f 0 5 65278][f 2 1]斡Investiga la misteriosa criatura antigua![n][e]
+[f 0 5 65278][f 2 1]斡Investiga la misteriosa criatura[n]antigua![n][e]
 
 [msg quest_explain_007]
 [f 0 5 65278][f 2 1]Derrota al Chico Pollo[n][e]
 
 [msg quest_explain_008]
-[f 0 5 65278][f 2 1]斡Encuentra al falso oficial de polic胤a y hazlo pagar![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra al falso oficial de polic胤a[n]y hazlo pagar![n][e]
 
 [msg quest_explain_009]
-[f 0 5 65278][f 2 1]斡Encuentra el graffiti que es diferente al resto![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra el graffiti que es diferente[n]al resto![n][e]
 
 [msg quest_explain_010]
-[f 0 5 65278][f 2 1]斡Dir胤gete al lugar de pesca y atrapa uno grande![n][e]
+[f 0 5 65278][f 2 1]斡Dir胤gete al lugar de pesca y atrapa[n]uno grande![n][e]
 
 [msg quest_explain_011]
 [f 0 5 65278][f 2 1]斡Roba ese tesoro![n][e]
@@ -44,10 +44,10 @@
 [f 0 5 65278][f 2 1]斡Rescata al beb姻 dinosaurio![n][e]
 
 [msg quest_explain_015]
-[f 0 5 65278][f 2 1]斡Descubre qu姻 est茨 causando estragos en la jungla![n][e]
+[f 0 5 65278][f 2 1]斡Descubre qu姻 est茨 causando estragos en[n]la jungla![n][e]
 
 [msg quest_explain_016]
-[f 0 5 65278][f 2 1]斡Localiza el objeto en cuesti吋n dentro del contenedor![n][e]
+[f 0 5 65278][f 2 1]斡Localiza el objeto en cuesti吋n dentro[n]del contenedor![n][e]
 
 [msg quest_explain_017]
 [f 0 5 65278][f 2 1]斡Recopila informaci吋n y resuelve el caso![n][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1]※このクエストはカット[n][e]
 
 [msg quest_explain_021]
-[f 0 5 65278][f 2 1]斡Encuentra ingredientes comestibles en la jungla![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra ingredientes comestibles en[n]la jungla![n][e]
 
 [msg quest_explain_022]
 [f 0 5 65278][f 2 1]斡Derrota a tres Sombras grandes![n][e]
@@ -71,7 +71,7 @@
 [f 0 5 65278][f 2 1]斡Derrota a cuatro Rampage Drives![n][e]
 
 [msg quest_explain_024]
-[f 0 5 65278][f 2 1]斡Supera la tecnolog胤a de 雨ltima generaci吋n de seguridad![n][e]
+[f 0 5 65278][f 2 1]斡Supera la tecnolog胤a de 雨ltima generaci吋n[n]de seguridad![n][e]
 
 [msg quest_explain_025]
 [f 0 5 65278][f 2 1]斡Destruye al KNS-1000![n][e]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1]斡Observa la batalla de las mascotas![n][e]
 
 [msg quest_explain_027]
-[f 0 5 65278][f 2 1]斡Encuentra piezas para el equipo de cocina![n][e]
+[f 0 5 65278][f 2 1]斡Encuentra piezas para el equipo de[n]cocina![n][e]
 
 [msg quest_explain_028]
 [f 0 5 65278][f 2 1]斡Repara el robot averiado![n][e]
@@ -89,13 +89,13 @@
 [f 0 5 65278][f 2 1]斡Derrota a dos Tyranniqueens![n][e]
 
 [msg quest_explain_030]
-[f 0 5 65278][f 2 1]斡Resuelve el misterio de los dispositivos de teletransporte![n][e]
+[f 0 5 65278][f 2 1]斡Resuelve el misterio de los dispositivos[n]de teletransporte![n][e]
 
 [msg quest_explain_031]
 [f 0 5 65278][f 2 1]斡Localiza el club nocturno![n][e]
 
 [msg quest_explain_032]
-[f 0 5 65278][f 2 1]斡Haz que las hermosas damas salven la Kamociudad![n][e]
+[f 0 5 65278][f 2 1]斡Haz que las hermosas damas salven la[n]Kamociudad![n][e]
 
 [msg quest_explain_033]
 [f 0 5 65278][f 2 1]斡Busca los puntos del tesoro![n][e]
@@ -140,10 +140,10 @@
 [f 0 5 65278][f 2 1]斡Recupera la m雨sica de la pel胤cula![n][e]
 
 [msg quest_explain_047]
-[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en la Kamociudad![n][e]
+[f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en la[n]Kamociudad![n][e]
 
 [msg quest_explain_048]
-[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en Junessic Land![n][e]
+[f 0 5 65278][f 2 1]斡Derrota a la nueva Sombra en Junessic[n]Land![n][e]
 
 [msg quest_explain_049]
 [f 0 5 65278][f 2 1]斡Derrota la nueva Sombra en A.I.G.I.S![n][e]
