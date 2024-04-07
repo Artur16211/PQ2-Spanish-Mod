@@ -920,7 +920,7 @@
 [f 0 5 65278][f 2 1]Tch. No puedo perder...[n][f 1 2 50][e]
 
 [msg town_bg11_ARAGAKI_mes02]
-[f 0 5 65278][f 2 1]Tch. 斡De ninguna manera voy a ser[n]golpeado por un idiota relleno de palomitas![n][f 1 2 120][e]
+[f 0 5 65278][f 2 1]Tch. 斡De ninguna manera voy a ser[n]derrotado por un idiota relleno de palomitas![n][f 1 2 120][e]
 
 [msg town_bg12_ANN_mes01]
 [f 0 5 65278][f 2 1]斡Est茨 bien! 斡Nos van a echar![n][f 1 2 75][e]
