@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡夷Q-qu姻, es una cuenta atr茨s?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7063][f 6 1 2 0 0 10]斡Mierda! 斡夷V-v-Va a explotar?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7063][f 6 1 2 0 0 10]斡Mierda! 斡夷V-v-va a explotar?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡夷Qu姻?! 斡Nadie me dijo nada sobre una[n]explosi吋n![n][f 1 3 65535][f 1 1][e]

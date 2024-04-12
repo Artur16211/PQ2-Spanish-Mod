@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 6][f 3 1 1 0 0 3][f 6 1 2 0 0 6]斡F-funcion吋! 斡Wow![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 12 1 3][f 3 1 1 0 0 4][f 6 1 2 0 0 4]夷L-o hicimos? 夷Cambie a los dem茨s?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 12 1 3][f 3 1 1 0 0 4][f 6 1 2 0 0 4]夷L-lo hicimos? 夷Cambie a los dem茨s?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 4 1 1][f 3 1 1 0 0 5]As胤 es. Tu pel胤cula sacudi吋 los corazones[n]de las personas.[n][f 1 3 65535][f 1 1][e]

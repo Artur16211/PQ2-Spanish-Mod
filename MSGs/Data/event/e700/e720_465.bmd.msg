@@ -22,7 +22,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 6]斡Aqu胤 vamos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_02 [Morgana]]
-[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 3 1 1 0 0 23048]Wh-Whoa... 斡Santo cielo, Noir! Como...[n]斡夷C吋mo haces eso?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 3 1 1 0 0 23048]Wh-whoa... 斡Santo cielo, Noir! Como...[n]斡夷C吋mo haces eso?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_04 [Teddie]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]斡Wooooow! 斡Es incre胤ble![n][f 1 3 65535][f 1 1][e]

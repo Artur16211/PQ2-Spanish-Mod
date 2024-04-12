@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 3][f 6 1 3 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Hyaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 0]斡夷P-p-Por qu姻 le胤ste eso?! No, espera,[n]斡夷por qu姻 sigues encontr茨ndolos?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 0]斡夷P-p-por qu姻 le胤ste eso?! No, espera,[n]斡夷por qu姻 sigues encontr茨ndolos?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5]斡Deja de jugar conmigo, 斡夷entendido?![n]斡O si no, voy a dejar una marca eterna[n]en tu cara![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 1][f 3 1 1 0 0 6]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 1][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡Ohteodiotemaldigoporsiempre! 斡Todo esto[n]es un est雨pido malentendido![n][f 1 3 65535][f 1 1][e]
