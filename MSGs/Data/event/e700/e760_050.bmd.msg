@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 6][f 3 1 1 0 0 0]A m胤 tambi姻n me gustar胤a probarla.[n]Imagino que ser茨 saciante y energizante.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 26562][f 6 1 2 0 0 6]斡Y-Y-Yo tambi姻n! Una vez vi un enorme[n]trozo de carne de dinosaurio en una[n]caricatura, 斡y he querido comer algo[n]as胤 desde entonces![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 26562][f 6 1 2 0 0 6]斡Y-y-Yo tambi姻n! Una vez vi un enorme[n]trozo de carne de dinosaurio en una[n]caricatura, 斡y he querido comer algo[n]as胤 desde entonces![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 19 2 0 3][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]Tambi姻n tengo curiosidad por saber c吋mo sabe. 斡Pido los muslos![n][f 1 3 65535][f 1 1][e]
@@ -70,7 +70,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 6 0 3][f 3 1 1 0 0 27033][f 6 1 2 0 0 9]A m胤 tambi姻n me pica la curiosidad, pero[n]creo que no me atrever胤a a probar[n]bocado...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷V-Verdad? Gracias a Dios, pens姻 que[n]era la 雨nica...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]夷V-verdad? Gracias a Dios, pens姻 que[n]era la 雨nica...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]La verdad, creo que el caf姻 hecho con[n]esti姻rcol de dinosaurio herb胤voro[n]ser胤a m茨s sabroso, 夷no crees?[n][f 1 3 65535][f 1 1][e]

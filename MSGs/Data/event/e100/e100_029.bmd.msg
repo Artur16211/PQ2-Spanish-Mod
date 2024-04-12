@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Bien... Alguien tiene que intentar hablar con 姻l.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 1 6][f 3 1 1 0 0 11]夷H-Holaaa? ¿Puedes o胤rme?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 1 6][f 3 1 1 0 0 11]夷H-holaaa? ¿Puedes o胤rme?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Cr胤ptico Objeto Negro]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 15][f 6 1 3 0 0 3]Si hablamos alto, 夷no escuchar茨 lo que estamos diciendo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016_5 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 12 1 0][f 3 1 1 0 0 16][f 6 1 2 0 0 6]夷H-Holaaa? ¿Puedes o胤rme?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 12 1 0][f 3 1 1 0 0 16][f 6 1 2 0 0 6]夷H-holaaa? ¿Puedes o胤rme?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Cr胤ptico Objeto Negro]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 3 0 0 1]...[n][f 1 3 65535][f 1 1][e]
@@ -77,7 +77,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 25][f 6 1 2 0 0 4]夷Quiz茨s es alg雨n tipo de mu隠eco?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 0 6][f 3 1 1 0 0 26][f 6 1 2 0 0 9]E-Espera... Es solo un mu隠eco, 夷eh? Pero es demasiado grande. Al menos deber胤a ser escala 1:7.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 0 6][f 3 1 1 0 0 26][f 6 1 2 0 0 9]E-espera... Es solo un mu隠eco, 夷eh? Pero es demasiado grande. Al menos deber胤a ser escala 1:7.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 12 0 0][f 3 1 1 0 0 27]Bueno, ellas no est茨n aqu胤, así que sigamos buscando.[n][f 1 3 65535][f 1 1][e]

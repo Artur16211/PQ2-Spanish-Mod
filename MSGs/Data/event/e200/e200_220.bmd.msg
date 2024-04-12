@@ -31,7 +31,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]Teddie no quiso hacerte da隠o. Est茨 realmente arrepentido. 夷Crees que podr胤as perdonarlo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 12 0 0][f 3 1 1 0 0 34014]E-Est茨 bien... Pero recuerda, no me[n]asustes as胤 otra vez, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 12 0 0][f 3 1 1 0 0 34014]E-est茨 bien... Pero recuerda, no me[n]asustes as胤 otra vez, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Lo dejar姻 pasar esta vez, ya que mi[n]compa隠ero lo dice, pero ten cuidado a[n]partir de ahora.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chie]]

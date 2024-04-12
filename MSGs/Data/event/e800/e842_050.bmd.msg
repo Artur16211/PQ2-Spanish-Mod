@@ -32,7 +32,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 6 0 1][f 3 1 1 0 0 61172]Yo tambi姻n me sorprend胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 10 0 1][f 3 1 1 0 0 61168]U-Um..[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 10 0 1][f 3 1 1 0 0 61168]U-um..[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 8 0 1][f 3 1 1 0 0 0]La mariposa... S胤. Creo que tambi姻n es lindo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Junpei]]

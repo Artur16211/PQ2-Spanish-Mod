@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 6 82 2 1 1][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Nnnghhhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]P-Pero... 斡夷Correr hacia d吋nde?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]P-pero... 斡夷Correr hacia d吋nde?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 0]Ah... Nnh...[n][f 1 3 65535][f 1 1][e]
@@ -58,13 +58,13 @@
 [f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]夷Hikari? ¿斡Est茨s bien!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]T-Tranquila... 斡E-Estamos aqu胤 contigo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]T-tranquila... 斡E-estamos aqu胤 contigo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Doe]]
 [f 0 5 65278][f 2 1][f 4 6 82 4 1 0][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Gggggghhhhhhhhh! ¡Gggggghhhhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Ann]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]E-Eh, 夷est茨 a punto de explotar?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]E-eh, 夷est茨 a punto de explotar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Doe]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 6 1 3 0 0 1]Ggggghhhh... Nnnghh... Ngh...[n][f 1 3 65535][f 1 1][e]

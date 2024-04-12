@@ -65,7 +65,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27327]斡Un cofre del tesoro![n][f 1 6 65535][e]
 
 [msg HARU_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 27328]Es una cofre del tesoro, vamos a[n]abrirlo![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 27328]Es un cofre del tesoro, vamos a[n]abrirlo![n][f 1 6 65535][e]
 
 [msg HARU_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 27329]夷Es ese un tesoro?[n][f 1 6 65535][e]

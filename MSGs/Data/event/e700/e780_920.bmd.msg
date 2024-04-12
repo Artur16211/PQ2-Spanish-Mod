@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 3 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Nwaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 85 0 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 0]斡夷D-De nuevo?! 夷Lo hiciste de nuevo?![n]斡夷Por qu姻, c吋mo pudiste?! No...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 0][f 4 6 85 0 2 1][f 3 1 1 0 0 6][f 6 1 2 0 0 0]斡夷D-de nuevo?! 夷Lo hiciste de nuevo?![n]斡夷Por qu姻, c吋mo pudiste?! No...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡No estoy buscando a ning雨n maestro![n]斡Solo vi... un perro callejero! 斡En LA[n]pel胤cula![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 1][f 3 1 1 0 0 8]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 1][f 3 1 1 0 0 9][f 6 1 2 0 0 6]斡Diosteodioest雨pidocabez吋nesponjoso![n]斡Esta ser茨 TU canci吋n de cuna cuando[n]termine contigo![n][f 1 3 65535][f 1 1][e]

@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡Idiota, las manos en el volante![n][f 1 1][e]
 
 [msg MSG_BTL_004]
-[f 0 5 65278][f 2 1][f 0 6 255 255]斡M-Mi est吋mago se atasc吋![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]斡M-mi est吋mago se atasc吋![n][f 1 1][e]
 
 [msg MSG_BTL_005]
 [f 0 5 65278][f 2 1][f 0 6 255 255]斡夷Qu姻?![n][f 1 1][e]

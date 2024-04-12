@@ -35,7 +35,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 8 16 0][f 3 1 1 0 0 0]Pero las pel胤culas tienden a ser filmadas[n]en negativo porque las correcciones[n]y la duplicaci吋n son m茨s f茨ciles[n]de esa forma.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]B-Bien. No entend胤 nada de eso.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]B-bien. No entend胤 nada de eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 10 1 0][f 3 1 1 0 0 0]Oh...[n][f 1 3 65535][f 1 1][e]
@@ -67,7 +67,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 6][f 3 1 1 0 0 28072]Creo que se refiere a emociones humanas[n]positivas y negativas. Ciertamente[n]parecen conceptos an茨logos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]S-S胤, "conceptos an茨logos"... As胤 como,[n]eh... carrillera de cerdo y trasero[n]de cerdo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]S-s胤, "conceptos an茨logos"... As胤 como,[n]eh... carrillera de cerdo y trasero[n]de cerdo, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 3 0 1 0][f 3 1 1 0 0 3035][f 6 1 2 0 0 6]夷Sabes siquiera de que est茨 hablando?[n]夷Y la carne es realmente la 雨nica cosa[n]en tu mente?[n][f 1 3 65535][f 1 1][e]

@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]Aun con su intromisi吋n, no hay ni una[n]sola alma que se est姻 poniendo de su[n]lado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Voz De Mujer]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 11][f 6 1 9 0 0 1]P-Pero... todav胤a estoy...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 11][f 6 1 9 0 0 1]P-pero... todav胤a estoy...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Voz De Estudiante Malhumorado]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 12][f 6 1 9 0 0 1]Todav胤a tengo miedo...[n][f 1 3 65535][f 1 1][e]

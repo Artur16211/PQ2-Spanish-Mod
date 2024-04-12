@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 0]Mm... Sabes, Hikari, est茨s mucho m茨s[n]animada 雨ltimamente.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷A-A qu姻 te refieres?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Eh? 夷A-a qu姻 te refieres?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 0]夷Recuerdas cuando nos contaste qu姻 tipo[n]de pel胤culas te gustan?[n][f 1 3 65535][f 1 1][e]
@@ -66,7 +66,7 @@
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 24067][f 6 1 2 0 0 4]Mm... 夷Qu姻 tipo de pel胤culas hac胤as?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 1 0][f 3 1 1 0 0 0]N-No he filmado nada recientemente.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 1 0][f 3 1 1 0 0 0]N-no he filmado nada recientemente.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Perd胤 de vista... lo que quer胤a mostrarle[n]a todos... e incluso de qui姻n soy.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Futaba]]
@@ -129,7 +129,7 @@
 
 [msg MSG_038 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 8 16 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh, no! 斡No lo es! 斡Me encantar胤a que[n]ustedes la vieran![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷D-De verdad ir胤an a ver mi pel胤cula?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷D-de verdad ir胤an a ver mi pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 14 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Por supuesto! 斡Estoy convencido![n][f 1 3 65535][f 1 1][e]

@@ -81,7 +81,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 10 0 1][f 3 1 1 0 0 31]斡Golpe doble![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 12 1 4][f 3 1 1 0 0 32][f 6 1 2 0 0 0]E-Espera, 斡all胤 es donde estaba escondiendo mis propios hot dogs! No me digas...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 12 1 4][f 3 1 1 0 0 32][f 6 1 2 0 0 0]E-espera, 斡all胤 es donde estaba escondiendo mis propios hot dogs! No me digas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 2 0 1][f 3 1 1 0 0 33]Heheheh... As胤 que la verdad finalmente sale.[n][f 1 3 65535][f 1 1][e]
@@ -93,7 +93,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 3][f 3 1 1 0 0 35]Bueno, supongo que s胤... pero eso significa que fue acusado injustamente de robo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 1 0 0][f 4 6 78 6 1 4][f 3 1 1 0 0 36][f 6 1 2 0 0 10]斡B-Bien! 斡Al menos significa que tenemos una buena idea de tu poder![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 74 1 0 0][f 4 6 78 6 1 4][f 3 1 1 0 0 36][f 6 1 2 0 0 10]斡B-bien! 斡Al menos significa que tenemos una buena idea de tu poder![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 37]Dejemos este asunto de los hot dogs atr茨s. 斡Mejor s姻 agradecido, recluso![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Justine]]

@@ -45,7 +45,7 @@
 [f 0 5 65278][f 2 1][f 4 6 76 12 0 0][f 3 1 1 0 0 23][f 6 1 2 0 0 4]A ver... 夷Ser胤an suficientes 100 paquetes de takoyaki?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 10 0 6][f 3 1 1 0 0 24][f 6 1 2 0 0 0]夷斡T-Takoyaki!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 10 0 6][f 3 1 1 0 0 24][f 6 1 2 0 0 0]夷斡T-takoyaki!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 68 2 0 0][f 3 1 1 0 0 25]Los apreciar胤a mucho. Tambi姻n pediría que los sirva con mostaza y mayonesa.[n][f 1 3 65535][f 1 1][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 12 1 0][f 3 1 1 0 0 36]Tu ropa no cambia, 夷[f 6 1 27 0 0 0]? Aunque t雨 tambi姻n usas Personas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]!!!Wow!!! T-T-T-T雨 eres... Eres la chica de la pel胤cula...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]!!!Wow!!! T-t-T-t雨 eres... Eres la chica de la pel胤cula...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 2 3 6][f 3 1 1 0 0 38]Futaba, finalmente apareciste.[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 40]斡Gracias por rescatarme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 41]N-N-No... 斡No hice nada en p-particular![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 41]N-n-No... 斡No hice nada en p-particular![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 6][f 3 1 1 0 0 42]Lo siento. Es un poco t胤mida con extra隠os.[n][f 1 3 65535][f 1 1][e]
@@ -116,19 +116,19 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 43]Est茨 bien, todos no ponemos un poco nerviosos al principio. Encantada de conocerte, Futaba.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 44][f 6 1 2 0 0 10]U-Uh, s胤, i-igual...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 44][f 6 1 2 0 0 10]U-uh, s胤, i-igual...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 8 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 45]斡Oh! Futaba, esos auriculares![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 0]斡E-Eek![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 46][f 6 1 2 0 0 0]斡E-eek![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 47]斡Son geniales! 夷Tambi姻n eres amante de la m雨sica?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 48]斡W-Wow! ¡夷Puedes reconocer lo buenos que son?! ¡Nadie m茨s ha hecho comentarios sobre ellos...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 48]斡W-wow! ¡夷Puedes reconocer lo buenos que son?! ¡Nadie m茨s ha hecho comentarios sobre ellos...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 49][f 6 1 28 0 0 0]...夷Eres fan de estas cosas?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_040 top]
@@ -140,7 +140,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 50]S胤, no debería haber manzanas podridas entre audi吋filos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]C-Claro, estoy segura de que podemos pasar un buen rato si tenemos algo en com雨n.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]C-claro, estoy segura de que podemos pasar un buen rato si tenemos algo en com雨n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 0][f 3 1 1 0 0 52]Oh, as胤 que es una entusiasta del audio... 斡Quiero tener una charla con ella sobre eso![n][f 1 3 65535][f 1 1][e]
@@ -201,13 +201,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 55][f 6 1 2 0 0 4]夷Estar胤a bien que me quede aquí tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 56]夷Eh? O-Oh, s胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 56]夷Eh? O-oh, s胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 2 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 57]斡Gracias![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 58][f 6 1 2 0 0 10]Ah... M-Mm...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 58][f 6 1 2 0 0 10]Ah... M-mm...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 68 1 0 1][f 4 6 70 10 0 3][f 3 1 1 0 0 59][f 6 1 2 0 0 9]Vaya... Las habilidades sociales de la nueva chica est茨n al máximo...[n][f 1 3 65535][f 1 1][e]
@@ -244,7 +244,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 70]Estoy segura de que Hikari eventualmente se abrir茨 tambi姻n.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Futaba]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 71][f 6 1 3 0 0 3]S-S胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 71][f 6 1 3 0 0 3]S-s胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_071 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 72 2 0 3][f 3 1 1 0 0 90]Entonces, 夷por qu姻 no le damos a [f 6 1 26 0 0 0] un recorrido r茨pido por el cine?[n][f 1 3 65535][f 1 1][e]

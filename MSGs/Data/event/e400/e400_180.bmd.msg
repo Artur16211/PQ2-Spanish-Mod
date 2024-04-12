@@ -11,7 +11,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Las pel胤culas sonoras existen desde la[n]d姻cada de 1920, cuando las pel胤culas[n]habladas superpuestas con m雨sica[n]fueron...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 11 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]O-Oh, 夷Est茨s bien...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 11 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]O-oh, 夷Est茨s bien...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 6 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Oh... lo siento. No quer胤a levantar la[n]voz de esa manera...[n][f 1 3 65535][f 1 1][e]
@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Vaya, sabes mucho, Hikari. 斡Pensar que[n]entiendes lo genial que es esa[n]pel胤cula![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]U-Um... 夷Alguien m茨s tiene una pel胤cula[n]favorita?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]U-um... 夷Alguien m茨s tiene una pel胤cula[n]favorita?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_025 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]El Caballero de la Tarta Asciende.[f 2 7 1 20 0 32][e]

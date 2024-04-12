@@ -4,7 +4,7 @@
 
 [msg MSG_001 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 12 0 3][f 3 1 1 0 0 0]Pero, quiero decir... de esta manera, salvamos[n]a cinco personas![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]U-Um... De alguna manera, eso no me hace[n]sentir mejor...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]U-um... De alguna manera, eso no me hace[n]sentir mejor...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 7038]斡Arrrgh! 夷Qu姻 demonios es esto?[n][f 1 3 65535][f 1 1][e]

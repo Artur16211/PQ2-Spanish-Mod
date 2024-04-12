@@ -137,7 +137,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Nunca hab胤a visto este tipo de flor antes.[n]Incluso podr胤a ser una nueva especie.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 0 0 1][f 3 1 1 0 0 9081]B-B-Pero es s吋lo una flor. Eso no cuenta como[n]un tesoro...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 0 0 1][f 3 1 1 0 0 9081]B-b-Pero es s吋lo una flor. Eso no cuenta como[n]un tesoro...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 0 1 4][f 3 1 1 0 0 23099][f 6 1 2 0 0 10]S胤, es verdad. Puede que no sea eso...[n][f 1 3 65535][f 1 1][e]

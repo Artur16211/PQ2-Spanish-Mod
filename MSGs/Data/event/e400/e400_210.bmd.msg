@@ -115,15 +115,15 @@
 [f 0 5 65278][f 2 1][f 4 6 54 0 0 1][f 3 1 1 0 0 41][f 6 1 2 0 0 4]S胤, todos est茨n de acuerdo. T雨 tambi姻n,[n]夷verdad, Miyuki?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Miyuki]]
-[f 0 5 65278][f 2 1][f 4 6 57 0 0 6][f 3 1 1 0 0 42]Y-Yo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 57 0 0 6][f 3 1 1 0 0 42]Y-yo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 57 0 1 6][f 3 1 1 0 0 43]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Estudiante Ruidosa]]
 [f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 44]Bien, en ese caso, Miyuki es la que est茨[n]fuera.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Miyuki]]
-[f 0 5 65278][f 2 1][f 4 6 57 6 1 0][f 3 1 1 0 0 45][f 6 1 2 0 0 6]斡E-Espera![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 57 0 0 4][f 3 1 1 0 0 46]Y-Yo... estoy de acuerdo con que Hikari[n]deber胤a irse...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 57 6 1 0][f 3 1 1 0 0 45][f 6 1 2 0 0 6]斡E-espera![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 57 0 0 4][f 3 1 1 0 0 46]Y-yo... estoy de acuerdo con que Hikari[n]deber胤a irse...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Estudiante Ruidosa]]
 [f 0 5 65278][f 2 1][f 4 6 56 0 0 1][f 3 1 1 0 0 47]夷Lo ves? Todos est茨n de acuerdo, as胤[n]que la decisi吋n es obvia.[n][f 1 3 65535][f 1 1][e]

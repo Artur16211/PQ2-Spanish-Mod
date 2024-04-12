@@ -40,7 +40,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22380]斡Yay![n][f 1 6 65535][e]
 
 [msg MSG_008 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22012]E-Eso fue espeluznante. Vamos a parar[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22012]E-eso fue espeluznante. Vamos a parar[n]aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22381]斡Bastante genial, 夷verdad?![n][f 1 6 65535][e]
@@ -70,10 +70,10 @@
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0]こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22013]O-Oye, tengo un mal presentimiento sobre[n]este lugar.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22013]O-oye, tengo un mal presentimiento sobre[n]este lugar.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22012]B-Bien... Entendido.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22012]B-bien... Entendido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 1 0 0 22009]S胤, probablemente deber胤amos hacerlo[n]ahora.[n][f 1 3 65535][f 1 1][e]

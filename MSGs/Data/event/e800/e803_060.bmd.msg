@@ -99,12 +99,12 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]No le digas a nadie sobre todo esto, 夷s胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]S胤, de ninguna manera. S-Same va por ti.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]S胤, de ninguna manera. S-same va por ti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 100 4][f 3 1 1 0 0 26502]斡Oigan, ustedes se van a quedar atr茨s! 夷Por[n]qu姻 est茨n todos rojos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 4][f 3 1 1 0 0 0][f 6 1 2 0 0 7]Oh hoh... 夷Ustedes dos confesaron su amor[n]por el otro?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 6 3 0][f 3 1 1 0 0 21054][f 6 1 2 0 0 6]斡H-Hell no! 斡Ya vamos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 6 3 0][f 3 1 1 0 0 21054][f 6 1 2 0 0 6]斡H-hell no! 斡Ya vamos![n][f 1 3 65535][f 1 1][e]
 

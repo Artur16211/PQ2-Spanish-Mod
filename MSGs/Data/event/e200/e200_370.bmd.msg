@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Realmente est茨s satisfecho siendo el[n]tipo de persona que abandona a sus[n]amigos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 4 0 0][f 3 1 1 0 0 34021][f 6 1 2 0 0 6]斡N-No puedo evitarlo! 斡Esto es lo que[n]todos votaron![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 4 0 0][f 3 1 1 0 0 34021][f 6 1 2 0 0 6]斡N-no puedo evitarlo! 斡Esto es lo que[n]todos votaron![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 0]Es la ley de la manada... 斡Si me opongo,[n]ser姻 el siguiente en ser expulsado![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]Solo... 斡D姻jenme en paz![n][f 1 3 65535][f 1 1][e]
 
@@ -125,7 +125,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 0][f 3 1 1 0 0 0]Gracias por compartir tus sentimientos[n]con nosotros, Yosuke.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3003][f 6 1 2 0 0 6]U-Uhh... 斡Bueno, de todos modos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3003][f 6 1 2 0 0 6]U-uhh... 斡Bueno, de todos modos![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Quiero decirle a Yosukesaurio y a los[n]dem茨s dinosaurios lo que pienso![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Si realmente son compa隠eros, necesitan[n]dejar de preocuparse por las reacciones[n]de los dem茨s y ser honestos entre[n]ellos.[n][f 1 3 65535][f 1 1][e]
 

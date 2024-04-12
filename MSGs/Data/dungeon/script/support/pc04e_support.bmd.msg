@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59381]斡Un viento poderoso![n][f 1 6 65535][e]
 
 [msg CAROLIN_KYOUHU_REACTION__2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58382]斡夷E-Eh?![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58382]斡夷E-eh?![n][f 1 6 65535][e]
 
 [msg JUSTINE_KYOUHU_REACTION__2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59382]Intenta utilizar el viento a tu favor,[n]quiz茨 aumente tu movimiento.[n][f 1 6 65535][e]
@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59388]S吋lo conc姻ntrate en la curaci吋n.[n][f 1 6 65535][e]
 
 [msg CAROLIN_PARTY_DEAD_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 58389]斡E-Eh! 斡夷Est茨n bien?![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 58389]斡E-eh! 斡夷Est茨n bien?![n][f 1 6 65535][e]
 
 [msg JUSTINE_PARTY_DEAD_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59389]Recuerde que volver tambi姻n es una[n]opci吋n.[n][f 1 6 65535][e]

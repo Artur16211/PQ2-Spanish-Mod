@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 1][f 3 1 1 0 0 9008][f 6 1 2 0 0 10]斡Estoy tan confundido! 斡Si no mantengo[n]mi cabeza en su lugar, podr胤a empezar[n]a dar vueltas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Hrggh...! 斡T-Tambi姻n paso de esta[n]conversaci吋n! 斡Nada de esto tiene sentido![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Hrggh...! 斡T-tambi姻n paso de esta[n]conversaci吋n! 斡Nada de esto tiene sentido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Akihiko]]
 [f 0 5 65278][f 2 1][f 4 6 12 6 1 1][f 3 1 1 0 0 12071]Si no podemos averiguarlo, entonces[n]tendremos que preguntarle directamente...[n][f 1 3 65535][f 1 1][e]

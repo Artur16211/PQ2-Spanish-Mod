@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 8 3 1][f 3 1 1 0 0 34029]A-Ah... Whaaaa...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 8 3 1][f 3 1 1 0 0 34029]A-ah... Whaaaa...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Oh no! 斡Ese carn胤voro acaba de[n]atraparla![n][f 1 3 65535][f 1 1][e]
@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1]S姻 honesto.[f 2 7 1 20 2 32][e]
 
 [msg MSG_016 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 14 3 0][f 3 1 1 0 0 0]S-S胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 14 3 0][f 3 1 1 0 0 0]S-s胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Herb胤voro Disgustado]]
 [f 0 5 65278][f 2 1][f 4 6 42 0 0 0][f 3 1 1 0 0 0]Un voto de ir tras ella.[n][f 1 3 65535][f 1 1][e]
@@ -69,7 +69,7 @@
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]La mayor胤a vota por seguir adelante sin[n]nuestra compa隠era. 夷Alguna objeci吋n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 0 1 1][f 3 1 1 0 0 0]N-No...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 1 1][f 3 1 1 0 0 0]N-no...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 0][f 3 1 1 0 0 7036][f 6 1 2 0 0 0]斡Idiota! 斡夷C吋mo puedes estar bien con[n]eso?![n][f 1 3 65535][f 1 1][e]
@@ -121,7 +121,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 12 100 4][f 3 1 1 0 0 6634][f 6 1 2 0 0 6][f 3 1 6 0 0 500]斡S胤, d姻janoslo a nosotras, los encontraremos[n]r茨pido![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 34 0 0 1][f 3 1 1 0 0 0]夷Q-Qui姻nes son ustedes?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 34 0 0 1][f 3 1 1 0 0 0]夷Q-qui姻nes son ustedes?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 0 99 1][f 3 1 1 0 0 26572]斡Los tengo! Parecen estar un piso abajo.[n][f 1 3 65535][f 1 1][e]

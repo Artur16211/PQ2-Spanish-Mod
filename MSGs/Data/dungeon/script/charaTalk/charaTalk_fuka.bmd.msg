@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14574]Entendido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Fuuka]]
-[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14540]E-Eso estuvo cerca... 夷Est茨 todo el[n]mundo bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14540]E-eso estuvo cerca... 夷Est茨 todo el[n]mundo bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 1 0 0 14618]斡Estoy detectando Sombras en la zona![n]斡Mantente alerta![n][f 1 3 65535][f 1 1][e]

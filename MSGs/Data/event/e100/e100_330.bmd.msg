@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 22 8 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷Qu姻 pasa? Pregunta lo que quieras...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 4 1 4][f 3 1 1 0 0 23060][f 6 1 2 0 0 0]斡夷Q-Qu姻?! ¡¡¡No, no lo hagas!!![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 1 4][f 3 1 1 0 0 23060][f 6 1 2 0 0 0]斡夷Q-qu姻?! ¡¡¡No, no lo hagas!!![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 10 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡夷Lo dices en serio, cualquier cosa?![n][f 1 3 65535][f 1 1][e]
@@ -80,14 +80,14 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 23 2 0 0][f 3 1 1 0 0 0]*risa* 斡Eso es parte del encanto del Ladr吋n Fantasma! Entiendo lo que quieres decir.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19072]U-Uh, 夷Y t雨, Mona?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19072]U-uh, 夷Y t雨, Mona?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷C吋mo se siente estar dentro de un traje de gato? ¿Puedo quitarte la cabeza?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Mi cabeza no se quita! ¡Esto no es un disfraz![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]O-Oh, entiendo... Quiero decir, obviamente pens姻 que eras un...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 10 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]O-oh, entiendo... Quiero decir, obviamente pens姻 que eras un...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 1][f 3 1 1 0 0 23085]斡Tampoco soy un gato! ¡Claramente soy HUMANO![n][f 1 3 65535][f 1 1][e]

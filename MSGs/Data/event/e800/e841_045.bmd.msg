@@ -17,7 +17,7 @@
 
 [msg MSG_005 [Marie]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0][f 4 6 85 6 0 1][f 3 1 1 0 0 65061]S胤, hermosura. Una salsa oscura que bromea[n]y te lava dulcemente...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]F-Forget lo que acabo de decir. Ni siquiera[n]s姻 lo que significa la belleza... excepto[n]en la comida. 斡Estaba hablando de[n]comida![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 10 0 1][f 3 1 1 0 0 0]F-forget lo que acabo de decir. Ni siquiera[n]s姻 lo que significa la belleza... excepto[n]en la comida. 斡Estaba hablando de[n]comida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 3][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]Muy bien, entonces. Vamos a ver la otra flor.[n][f 1 3 65535][f 1 1][e]

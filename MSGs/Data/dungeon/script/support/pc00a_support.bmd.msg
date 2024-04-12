@@ -68,7 +68,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10328]斡Es nuestro d胤a de suerte! 夷Deber胤amos[n]abrir el tesoro?[n][f 1 6 65535][e]
 
 [msg YUKARI_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 10329]斡Una cofre del tesoro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 10329]斡Un cofre del tesoro![n][f 1 6 65535][e]
 
 [msg YUKARI_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10330]Creo que hay algo aqu胤... 夷Quieres[n]mirar m茨s de cerca?[n][f 1 6 65535][e]

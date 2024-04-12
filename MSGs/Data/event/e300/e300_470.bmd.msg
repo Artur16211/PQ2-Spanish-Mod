@@ -86,7 +86,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7137][f 6 1 9 0 0 1][f 6 1 2 0 0 8]Un pelaje tan suave y esponjoso en mi[n]rostro... Estoy en el cielo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Morgana]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 23105][f 6 1 9 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Mrooowgh! 斡P-Para! 斡Deja de frotar tu[n]rostro contra m胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23105][f 6 1 9 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Mrooowgh! 斡P-para! 斡Deja de frotar tu[n]rostro contra m胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Kanji]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7099][f 6 1 9 0 0 1]斡Oye! 斡No me patees as胤![n][f 1 3 65535][f 1 1][e]
@@ -164,7 +164,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Oh, lo siento, Mitsuru. Mi mano se[n]enganch吋 en tu falda.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 10]Y-Ya veo... Por favor, no me asustes[n]as胤. Es dif胤cil ver aqu胤 dentro.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 10]Y-ya veo... Por favor, no me asustes[n]as胤. Es dif胤cil ver aqu胤 dentro.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Junpei]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 11045][f 6 1 9 0 0 1]Oh, 夷Qu姻? 夷Mitsuru no es fan de la[n]oscuridad?[n][f 1 3 65535][f 1 1][e]
@@ -174,7 +174,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13047][f 6 1 9 0 0 1]Iori, 夷quieres que te congele a ti[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Junpei]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 10]斡E-Era broma! 斡Solo estaba bromeando![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1][f 6 1 2 0 0 10]斡E-era broma! 斡Solo estaba bromeando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Yukari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]Mm, 夷podr胤an darse prisa? Hemos estado[n]esperando aqu胤 atr茨s por un buen rato.[n][f 1 3 65535][f 1 1][e]

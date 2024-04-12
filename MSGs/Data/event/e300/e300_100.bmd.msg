@@ -119,7 +119,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 6 0 3][f 3 1 1 0 0 46]Un comentario cl茨sico de nuestro residente[n]obsesionado con la pelea, idiota[n]musculoso...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Chico Agresivo]]
-[f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 4 6 12 4 1 0][f 3 1 1 0 0 47][f 6 1 2 0 0 2]夷Q-Qu姻?! 夷A qui姻n est茨s llamando idiota,[n]Shinji?! 斡Nunca escuchas, todo lo[n]que haces es insultarme![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 2 0 1][f 4 6 12 4 1 0][f 3 1 1 0 0 47][f 6 1 2 0 0 2]夷Q-qu姻?! 夷A qui姻n est茨s llamando idiota,[n]Shinji?! 斡Nunca escuchas, todo lo[n]que haces es insultarme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Chico Con Gorro]]
 [f 0 5 65278][f 2 1][f 4 6 18 2 1 0][f 3 1 1 0 0 48][f 6 1 2 0 0 2]Como si t雨 fueras a hablar, Aki. Siempre[n]reaccionas bruscamente a lo que la[n]gente dice como un maldito cachorro[n]asustado.[n][f 1 3 65535][f 1 1][e]
@@ -210,7 +210,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 77][f 6 1 2 0 0 6]Adem茨s, sus habilidades culinarias son[n]de lo m茨s maternales. 斡Incluso cocina[n]comidas para todo el escuadr吋n a[n]veces![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Shinjiro]]
-[f 0 5 65278][f 2 1][f 4 6 18 4 1 0][f 3 1 1 0 0 78][f 6 1 2 0 0 0]夷Q-Qu姻?! 斡Oye, qu姻 les est茨s diciendo?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 18 4 1 0][f 3 1 1 0 0 78][f 6 1 2 0 0 0]夷Q-qu姻?! 斡Oye, qu姻 les est茨s diciendo?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 79][f 6 1 2 0 0 10]Lo siento...[n][f 1 3 65535][f 1 1][e]
@@ -224,7 +224,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 4 0 0][f 3 1 1 0 0 83][f 6 1 2 0 0 2]Junpei, tu peque隠o...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_069 [Chico Con Gorra De B姻isbol]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 84][f 6 1 2 0 0 10]E-En fin. 斡A continuaci吋n, tenemos a[n]nuestro joven Ken y al cachorro[n]Koromaru![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 84][f 6 1 2 0 0 10]E-en fin. 斡A continuaci吋n, tenemos a[n]nuestro joven Ken y al cachorro[n]Koromaru![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Ken]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 1][f 4 6 16 0 0 4][f 3 1 1 0 0 85]Me llamo Ken Amada.[n][f 1 3 65535][f 1 1][e]
@@ -289,20 +289,20 @@
 [f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 110][f 6 1 2 0 0 10]Oops, uh... Estaba hablando de Reiko[n]Kujakuin... no te preocupes por eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_088 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 111][f 6 1 2 0 0 4]B-Bien... todav胤a no lo entiendo...[n]pero, creo que Fuuka es la 雨ltima,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 0][f 3 1 1 0 0 111][f 6 1 2 0 0 4]B-bien... todav胤a no lo entiendo...[n]pero, creo que Fuuka es la 雨ltima,[n]夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_089 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 14 12 0 1][f 3 1 1 0 0 112]...Oh, 斡claro! Es un placer conocerlos[n]a todos. Soy Fuuka Yamagishi.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 113]Todav胤a tengo mucho que aprender, pero[n]sirvo como navegadora para todos. Es[n]reconfortante saber que hay otras[n]como yo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_090 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 114][f 6 1 2 0 0 6]斡O-Otra compa隠era navegadora![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 114][f 6 1 2 0 0 6]斡O-otra compa隠era navegadora![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_091 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 2 0 6][f 3 1 1 0 0 115][f 6 1 2 0 0 7]斡Es incre胤ble c吋mo tenemos tres navegadoras[n]ahora![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 116][f 6 1 2 0 0 10]U-Uh... 斡C-Claro! 斡Espero que nos llevemos[n]bien![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 116][f 6 1 2 0 0 10]U-uh... 斡C-claro! 斡Espero que nos llevemos[n]bien![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_093 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 0 0][f 3 1 1 0 0 117][f 6 1 2 0 0 7]斡Cu姻ntanos todo lo que sepas sobre ese[n]mundo de pel胤cula de ciencia ficci吋n![n]斡Trabajemos todos juntos en esto![n][f 1 3 65535][f 1 1][e]
@@ -355,7 +355,7 @@
 [f 0 5 65278][f 2 1][f 4 6 69 2 0 0][f 3 1 1 0 0 133]Me alegra escuchar eso. Tu expresi吋n es[n]mucho m茨s relajada en comparaci吋n[n]con cuando nos conocimos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_109 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 134][f 6 1 2 0 0 10]夷Eh? 夷E-En serio? No lo s姻...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 134][f 6 1 2 0 0 10]夷Eh? 夷E-en serio? No lo s姻...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_110 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 64 1 0 0]Definitivamente ha cambiado.[f 2 7 1 64 2 32][e]
@@ -375,7 +375,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 84 12 0 0][f 3 1 1 0 0 138]S胤, estoy de acuerdo. A pesar de la[n]situaci吋n en la que nos encontramos, me[n]alegro por ti.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_115 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 139]Ya veo... N-No sab胤a que era as胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 0][f 3 1 1 0 0 139]Ya veo... N-no sab胤a que era as胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_116 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 10 0 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 140][f 6 1 2 0 0 6]Ohhhh! 斡Eso me recuerda![n][f 1 3 65535][f 1 1][e]

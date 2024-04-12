@@ -147,13 +147,13 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 90 0 0 3][f 3 1 1 0 0 61][f 6 1 2 0 0 0]斡夷Deber胤amos escondernos?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Herb胤voro Inquieto]]
-[f 0 5 65278][f 2 1][f 4 6 47 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 6]斡T-Tenemos que huir![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 47 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 6]斡T-tenemos que huir![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Herb胤voro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 4][f 3 1 1 0 0 63][f 6 1 2 0 0 0]Pero, 斡夷d吋nde?! 斡No tenemos una salida![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 64][f 6 1 2 0 0 6]斡E-Eh! 斡C茨lmense![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 64][f 6 1 2 0 0 6]斡E-eh! 斡C茨lmense![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 26 10 100 1][f 3 1 1 0 0 65][f 6 1 2 0 0 10]斡No sirve de nada! 斡Viene hacia nosotros![n][f 1 3 65535][f 1 1][e]
@@ -188,14 +188,14 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 74][f 6 1 2 0 0 6]斡D姻jame demostrar que tambi姻n tengo lo[n]necesario![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 4][f 3 1 1 0 0 75][f 6 1 2 0 0 0]E-Eh, 夷qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 4][f 3 1 1 0 0 75][f 6 1 2 0 0 0]E-eh, 夷qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 76]Y-Yo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 76]Y-yo...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 16 1 0][f 3 1 1 0 0 77][f 6 1 2 0 0 6]He tomado una decisi吋n: 斡Voy a ser[n]honesto con mis sentimientos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Herb胤voro Malhumorado]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 42 2 1 1][f 3 1 1 0 0 78][f 6 1 2 0 0 6]夷Q-Qu姻 est茨s pensando? 斡Si no nos vamos[n]de aqu胤 r茨pido, todos seremos[n]asesinados![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 42 2 1 1][f 3 1 1 0 0 78][f 6 1 2 0 0 6]夷Q-qu姻 est茨s pensando? 斡Si no nos vamos[n]de aqu胤 r茨pido, todos seremos[n]asesinados![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 34 12 1 0][f 3 1 1 0 0 79][f 6 1 2 0 0 6]斡Yo tambi姻n soy un dinosaurio![n][f 1 3 65535][f 1 1][e]

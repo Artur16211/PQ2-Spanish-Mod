@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 1][f 3 1 1 0 0 28031][f 6 1 2 0 0 4]*risa* 夷Ha encontrado la detective una[n]teor胤a que funcione?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0]B-Bueno, no... Es simplemente mi propia[n]curiosidad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0]B-bueno, no... Es simplemente mi propia[n]curiosidad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 1][f 3 1 1 0 0 0]Dado que provocamos tanto a la sociedad,[n]pr茨cticamente estamos obligados a[n]realizar nuestro trabajo de inc吋gnito.[n][f 1 3 65535][f 1 1][e]
@@ -133,7 +133,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]斡No tiene nada que ver con que sea denso![n]Simplemente... no ten胤a ni idea.[n]Quiero decir, no puedo creerlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡夷V-Vamos a dejar de hablar de esto?![n]Rise, 斡t雨 sigues![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 8 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡夷V-vamos a dejar de hablar de esto?![n]Rise, 斡t雨 sigues![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 12 100 1][f 3 1 1 0 0 6518][f 6 1 2 0 0 4][f 3 1 6 0 0 500]夷Yo? Oh, 夷qu姻 tipo de nombre crees que[n]ser胤a bueno para m胤?[n][f 1 3 65535][f 1 1][e]
@@ -189,7 +189,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 0]Mmm. Ted.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_059 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 9136]Q-Qu姻 cruel... A este ritmo, 斡lo 雨nico[n]que puedo hacer es esperar que el[n]Maestro me vengue![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 9136]Q-qu姻 cruel... A este ritmo, 斡lo 雨nico[n]que puedo hacer es esperar que el[n]Maestro me vengue![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 1 0 6][f 4 6 20 1 0 3][f 4 6 22 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Un nombre en clave para [f 6 1 13 0 0 0], 夷eh...?[n]夷Qu姻 crees que ser胤a bueno, Joker?[n][f 1 3 65535][f 1 1][e]

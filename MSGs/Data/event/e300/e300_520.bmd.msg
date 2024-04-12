@@ -28,7 +28,7 @@
 [msg MSG_009 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]ESO ES CORRECTO. ESTO ME IBA A PASAR A[n]M緯 TAN BIEN.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 0]HABR緯A SIDO DESECHADA, Y ARROJADA A ESTE[n]MONT遺N, CON TODOS LOS DEM威S ERRORES.[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]N-NNGH...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]N-nNGH...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Ribbon, 夷est茨s bien?[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 0]TAL VEZ... HUBIERA SIDO MEJOR SI NUNCA[n]HUBIERA DESARROLLADO LA CONCIENCIA.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26065]夷P-Por qu姻 crees eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26065]夷P-por qu姻 crees eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 7 0 0][f 3 1 1 0 0 0]ESTE SIGNAL RALENTIZA MI CAPACIDAD DE[n]PROCESAMIENTO Y SU VELOCIDAD.[n][f 1 3 65535][f 1 1][e]

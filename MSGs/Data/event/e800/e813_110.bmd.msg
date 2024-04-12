@@ -73,7 +73,7 @@
 
 [msg MSG_020 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 78 10 0 1][f 3 1 1 0 0 58053][f 6 1 2 0 0 0]斡Estabas tan curioso como yo, Justine![n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 78 6 0 1][f 3 1 1 0 0 0]B-Besides, Theodore estaba pasando sobre c吋mo[n]hizo su mayor creaci吋n a雨n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 6 0 1][f 3 1 1 0 0 0]B-besides, Theodore estaba pasando sobre c吋mo[n]hizo su mayor creaci吋n a雨n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Justine]]
 [f 0 5 65278][f 2 1][f 4 6 79 0 0 0][f 3 1 1 0 0 0]Pero luego aprendimos que se hab胤a quedado[n]sin ingredientes para su nueva palomita[n]y que no pod胤a hacer tanto como es.[n][f 1 3 65535][f 1 1][e]

@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 2 1 7][f 1 5][f 6 1 13 0 0 0][n][f 3 1 3 0 0 208]斡Prep茨rense![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 209][f 6 1 3 0 0 2]N-Nngh... N-No... No puedo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 209][f 6 1 3 0 0 2]N-nngh... N-no... No puedo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 210]夷Qu姻? No puedes echarte atr茨s ahora...[n][f 1 3 65535][f 1 1][e]
@@ -44,7 +44,7 @@
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 215]As胤 es. No hay manera de que un voto[n]un茨nime sea incorrecto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 216][f 6 1 3 0 0 2]夷C-Cierto...? 斡No hay nada que pueda[n]hacer![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 216][f 6 1 3 0 0 2]夷C-cierto...? 斡No hay nada que pueda[n]hacer![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Herb胤voro Tímido]]
 [f 0 5 65278][f 2 1][f 4 6 90 0 1 3][f 3 1 3 0 0 217][f 6 1 2 0 0 10]Eh, oye... Si 姻l sigue as胤...[n][f 1 3 65535][f 1 1][e]
@@ -87,5 +87,5 @@
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 8][f 3 1 3 0 0 3040]斡Muy bien! 斡Lo hicimos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 223][f 6 1 3 0 0 2]夷E-En serio? Je, je, je... Ustedes...[n]realmente son fuertes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 223][f 6 1 3 0 0 2]夷E-en serio? Je, je, je... Ustedes...[n]realmente son fuertes...[n][f 1 3 65535][f 1 1][e]
 

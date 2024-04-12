@@ -96,14 +96,14 @@
 [f 0 5 65278][f 2 1][f 4 6 70 0 2 0][f 3 1 1 0 0 36][f 6 1 2 0 0 4]夷"Por favor, ven a ver la pel胤cula, sin importar qu姻..."?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028_5 [Futaba]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 4 6 70 6 1 0][f 6 1 2 0 0 4]E-Espera, 夷qu姻? ¿Se supone que esta carta es una amenaza?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 4 6 70 6 1 0][f 6 1 2 0 0 4]E-espera, 夷qu姻? ¿Se supone que esta carta es una amenaza?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 8 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 6]Eso significa que Hikari fue tra胤da aquí por alguien, o al menos le pidieron que viniera aquí.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 0]Quiz茨s realmente sea Doe despu姻s de todo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 40]N-No lo s姻... No sé nada... Tengo miedo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 40]N-no lo s姻... No sé nada... Tengo miedo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 7 13 0 0][f 4 6 19 6 3 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 41]Has estado sola desde que despertaste, puedo entender por qu姻 te sientes as胤...[n][f 1 3 65535][f 1 1][e]
@@ -113,10 +113,10 @@
 [f 0 5 65278][f 2 1][f 4 6 71 0 0 6][f 3 1 1 0 0 43]Tiene raz吋n. Trabajaremos juntos y saldremos de este lugar, 夷est茨 bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 44][f 6 1 2 0 0 6]...斡A-Ah![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 44][f 6 1 2 0 0 6]...斡A-ah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 45][f 6 1 2 0 0 0]斡夷Q-Qu姻 pasa?! ¡¿Recordaste algo?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 45][f 6 1 2 0 0 0]斡夷Q-qu姻 pasa?! ¡¿Recordaste algo?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 13 2 0][f 3 1 1 0 0 46]Hay una pel胤cula... que necesito ver...[n][f 1 3 65535][f 1 1][e]

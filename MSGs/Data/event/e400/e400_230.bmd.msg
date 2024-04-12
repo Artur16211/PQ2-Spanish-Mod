@@ -49,7 +49,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 57 1 0 3][f 4 6 54 0 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 4]Hikari realmente es una aguafiestas.[n]夷No crees, Miyuki?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Miyuki]]
-[f 0 5 65278][f 2 1][f 4 6 57 0 1 0][f 3 1 1 0 0 21]S-S胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 57 0 1 0][f 3 1 1 0 0 21]S-s胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Hikari De Secundaria]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 37 2 1 3][f 3 1 1 0 0 22]...夷Y qu姻? 斡No me importa si dicen que[n]soy una aguafiestas![n][f 1 3 65535][f 1 1][e]

@@ -26,7 +26,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 1][f 3 1 1 0 0 15010]S胤, ese es el caso. Me disculpo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 0 3][f 3 1 1 0 0 26058][f 6 1 2 0 0 0]斡夷Q-Qu姻, hace chistes?! 斡Hablando de[n]seres inteligentes![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 0 3][f 3 1 1 0 0 26058][f 6 1 2 0 0 0]斡夷Q-qu姻, hace chistes?! 斡Hablando de[n]seres inteligentes![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26033][f 6 1 2 0 0 9]Sinceramente... Se me hel吋 la sangre[n]por un segundo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ribbon]]

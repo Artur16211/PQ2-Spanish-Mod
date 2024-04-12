@@ -82,7 +82,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]PROPORCIONAR UNA EXPRESI遺N QUE CONTENGA[n]DOS O M威S N郁MEROS.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 0 1 6][f 3 1 1 0 0 23021][f 6 1 2 0 0 3]夷Q-Qu姻? 夷Dos n雨meros?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 0 1 6][f 3 1 1 0 0 23021][f 6 1 2 0 0 3]夷Q-qu姻? 夷Dos n雨meros?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 6][f 3 1 1 0 0 23045][f 6 1 2 0 0 5]斡Oh, tengo una! 斡Obviamente, "matar dos[n]p茨jaros de un tiro"![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yosuke]]
@@ -243,7 +243,7 @@
 
 [msg MSG_072 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 3041][f 6 1 2 0 0 3]No sirve de nada, 斡no puedo pensar en[n]nada! Algo aparte de aluminio que sea[n]duro... Mmm, mmm...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]夷A-Algo como... Calcio? Los huesos son[n]duros, as胤 que tal vez...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]夷A-algo como... Calcio? Los huesos son[n]duros, as胤 que tal vez...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]Oh, no hay manera de que eso sea[n]met茨li...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Sistema De IA Para Ex茨menes]]

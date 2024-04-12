@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 90 1 0 1][f 4 6 47 0 1 3][f 3 1 1 0 0 32][f 6 1 2 0 0 10]Entonces, eh... 夷Qu姻 deber胤amos votar?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Herb胤voro Tímido]]
-[f 0 5 65278][f 2 1][f 4 6 90 0 1 0][f 3 1 1 0 0 33]S-Si todos dicen que es su culpa...[n]entonces yo lo creo tambi姻n...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 90 0 1 0][f 3 1 1 0 0 33]S-si todos dicen que es su culpa...[n]entonces yo lo creo tambi姻n...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 4 1 3][f 3 1 1 0 0 34][f 6 1 2 0 0 6]No... Pero yo... 斡Tienen que escucharme![n][f 1 3 65535][f 1 1][e]
@@ -111,10 +111,10 @@
 [f 0 5 65278][f 2 1][f 4 6 47 2 1 1][f 3 1 1 0 0 38]S胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Herb胤voro Tímido]]
-[f 0 5 65278][f 2 1][f 4 6 90 2 1 4][f 3 1 1 0 0 39]...S-S胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 90 2 1 4][f 3 1 1 0 0 39]...S-s胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 40]斡E-Esperen un momento![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 0 1 0][f 3 1 1 0 0 40]斡E-esperen un momento![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 0]Si me echan... 夷Qu姻 se supone que har姻?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Herb胤voro Enorme]]
@@ -145,7 +145,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 49][f 6 1 2 0 0 6]Estoy de acuerdo con Joker, saltemos y[n]pongamos fin a esto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 4][f 3 1 1 0 0 50][f 6 1 2 0 0 10]夷E-Est茨s bromeando?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 4][f 3 1 1 0 0 50][f 6 1 2 0 0 10]夷E-est茨s bromeando?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 4 0 0][f 3 1 1 0 0 51][f 6 1 2 0 0 6]Lo siento, pero... 斡Simplemente, no[n]puedo ignorar esto![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Yosuke]]
@@ -153,7 +153,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 53][f 6 1 2 0 0 0]Todo lo que est茨n haciendo es votar por[n]lo que otro piensa. 夷Eso define a[n]la mayor胤a?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Herb胤voro Tímido]]
-[f 0 5 65278][f 2 1][f 4 6 90 0 1 0][f 3 1 1 0 0 54][f 6 1 2 0 0 3]B-Bien...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 90 0 1 0][f 3 1 1 0 0 54][f 6 1 2 0 0 3]B-bien...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 0][f 3 1 1 0 0 55][f 6 1 2 0 0 6]斡Somos presas indefensas! 斡Nunca[n]sobreviviremos si no nos mantenemos y[n]actuamos juntos![n][f 1 3 65535][f 1 1][e]
@@ -172,10 +172,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 62]No es que queramos hacerlo... 斡Esta es[n]la 雨nica manera en que podemos[n]protegernos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_052 [Herb胤voro Malhumorado]]
-[f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 1 0 0 63][f 6 1 2 0 0 6]斡S-S胤! Si obedecemos la decisi吋n de la[n]mayor胤a, sabemos que hemos hecho lo[n]correcto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 1 0 0 63][f 6 1 2 0 0 6]斡S-s胤! Si obedecemos la decisi吋n de la[n]mayor胤a, sabemos que hemos hecho lo[n]correcto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_053 [Herb胤voro Inquieto]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 1 0 3][f 4 6 47 12 0 1][f 3 1 1 0 0 64][f 6 1 2 0 0 4]A-Adem茨s... 夷No eras bastante amigable[n]con esos humanos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 1 0 3][f 4 6 47 12 0 1][f 3 1 1 0 0 64][f 6 1 2 0 0 4]A-adem茨s... 夷No eras bastante amigable[n]con esos humanos?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 1][f 3 1 1 0 0 65]Todo esto sucedi吋 porque tambi姻n cre胤ste[n]en un libro humano...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Yosukesaurio]]
@@ -185,7 +185,7 @@
 [f 0 5 65278][f 2 1][f 4 6 48 12 0 4][f 3 1 1 0 0 67]No importa, ya est茨 decidido. Tomamos[n]una votaci吋n y la mayor胤a decidi吋[n]expulsarte.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 10 1 0][f 3 1 1 0 0 68][f 6 1 2 0 0 1]斡N-No, por favor! No quiero estar solo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 10 1 0][f 3 1 1 0 0 68][f 6 1 2 0 0 1]斡N-no, por favor! No quiero estar solo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 1 0 0 69][f 6 1 2 0 0 6]Si est茨s tan decidido a no ser expulsado,[n]斡entonces demuestra que realmente[n]est茨s de nuestro lado![n][f 1 3 65535][f 1 1][e]

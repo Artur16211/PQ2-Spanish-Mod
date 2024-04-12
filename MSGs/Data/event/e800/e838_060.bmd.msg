@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 12 1 1][f 3 1 1 0 0 7102]Guh... hah... T-T吋mate eso... 斡Poniste una[n]mierda![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 12 1 1][f 3 1 1 0 0 7102]Guh... hah... T-t吋mate eso... 斡Poniste una[n]mierda![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 1 4][f 3 1 1 0 0 0][f 6 1 2 0 0 10]夷De qui姻n? No puedo moverme.[n][f 1 3 65535][f 1 1][e]

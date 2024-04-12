@@ -30,7 +30,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 4][f 6 1 3 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Gyaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 10]斡N-No es lo que piensas! Son... 斡Solo[n]apuntes! 斡Para estudiar! T雨 estudias[n]f胤sica, qu胤mica y cosas as胤 en la[n]escuela, 斡夷verdad?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 10]斡N-no es lo que piensas! Son... 斡Solo[n]apuntes! 斡Para estudiar! T雨 estudias[n]f胤sica, qu胤mica y cosas as胤 en la[n]escuela, 斡夷verdad?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 6][f 6 1 2 0 0 6]斡No escrib胤 sulforaphane porque sea[n]similar a Sandalphon ni nada por el[n]estilo! 斡No suenan para nada parecido![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 7]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 8][f 6 1 2 0 0 6]斡Teodioest雨pidadopamina! 斡Te estoy[n]lanzando una maldici吋n y ahora siempre[n]sacar茨s malas calificaciones en[n]ciencias![n][f 1 3 65535][f 1 1][e]

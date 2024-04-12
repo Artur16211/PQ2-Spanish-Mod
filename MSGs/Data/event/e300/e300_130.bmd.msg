@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 4 6 21 6 0 1][f 3 1 1 0 0 21012]Queen... 夷Est茨s segura? 夷No ser茨s[n]sospechosa de inmediato? Como con ese[n]polic胤a de antes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 25 4 0 0][f 3 1 1 0 0 25037][f 6 1 2 0 0 10]斡E-Esta vez lo har姻 mejor![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 25 4 0 0][f 3 1 1 0 0 25037][f 6 1 2 0 0 10]斡E-esta vez lo har姻 mejor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]Bueno, por favor ten cuidado. Estaremos[n]vigilando desde aqu胤.[n][f 1 3 65535][f 1 1][e]
@@ -99,7 +99,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 6 1 0][f 3 1 1 0 0 0]夷Qui姻n podr胤a ser ese de la pantalla?[n]Dice "Gran Supervisor"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11054]斡E-Espera un momento! Siento que he[n]visto ese cabello largo y ese par de[n]anteojos antes...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11054]斡E-espera un momento! Siento que he[n]visto ese cabello largo y ese par de[n]anteojos antes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]No importa c吋mo lo mires, definitivamente[n]es Ikutsuki...[n][f 1 3 65535][f 1 1][e]

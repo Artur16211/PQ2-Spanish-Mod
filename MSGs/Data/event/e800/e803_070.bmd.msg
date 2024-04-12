@@ -97,7 +97,7 @@
 
 [msg MSG_027 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 0]Bueno, aqu胤 voy...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 7 12 0 0][f 3 1 1 0 0 0]H-Hold quiet, Mona... ser姻 amable...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 12 0 0][f 3 1 1 0 0 0]H-hold quiet, Mona... ser姻 amable...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 6 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Eeeeek![n][f 1 3 65535][f 1 1][e]

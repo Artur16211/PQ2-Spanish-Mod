@@ -35,14 +35,14 @@
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 3 1 1 0 0 3][f 6 1 3 0 0 1][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Nngaaaaaaaah![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 10]斡P-P-Por qu姻...! 斡Esto no puede estar[n]pasando! 斡ACABO de escribir esto...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 10]斡P-p-Por qu姻...! 斡Esto no puede estar[n]pasando! 斡ACABO de escribir esto...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 5][f 6 1 2 0 0 6]夷Y por qu姻 los sigues leyendo? 斡Ese es[n]TU pecado mortal![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Margaret]]
 [f 0 5 65278][f 2 1][f 4 6 75 2 0 0][f 3 1 1 0 0 6]...Ya es suficiente. Vas a enrojecer tu[n]complexi吋n, Lonely Lucifer.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡P-Pero...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 7][f 6 1 2 0 0 6]斡P-pero...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 8 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]夷Sabes sobre... Lonely... Lucifer?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 85 5 1 0][f 3 1 1 0 0 9]...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 10][f 6 1 2 0 0 6]Como quieras, 斡est雨pidoteodioeresLucifer![n]斡Ah胤 tienes! 夷Por qu姻 no intentas[n]enamorarte?[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 4 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 3]Por favor... no escuches m茨s mi dolor...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 12][f 6 1 2 0 0 6]斡...! 斡N-Nada![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 12][f 6 1 2 0 0 6]斡...! 斡N-nada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 64 1 0 0][f 3 1 1 0 0 0]Marie volvi吋 a su lugar. Se ve胤a[n]inquieta...[n][f 1 3 65535][f 1 1][e]
@@ -89,7 +89,7 @@
 [f 0 5 65278][f 2 1][f 4 6 78 6 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 4]夷Verdad, Justine?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Justine]]
-[f 0 5 65278][f 2 1][f 4 6 79 4 1 0][f 3 1 1 0 0 22]S-S胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 79 4 1 0][f 3 1 1 0 0 22]S-s胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 78 4 0 0][f 3 1 1 0 0 23][f 6 1 2 0 0 6]斡Olv胤dalo, Recluso! 斡夷Entendido?![n][f 1 3 65535][f 1 1][e]

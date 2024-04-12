@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14]Debido a mi responsabilidad como Curadora, la he tomado bajo mi cuidado.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 4 1 1][f 3 1 1 0 0 15]U-Uhhh... Um... Yo-U-Um...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 4 1 1][f 3 1 1 0 0 15]U-uhhh... Um... Yo-U-um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 66 12 0 0][f 3 1 1 0 0 16]斡C茨lmate, Futaba... está bien![n][f 1 3 65535][f 1 1][e]
@@ -46,7 +46,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 1 0 3][f 4 6 81 0 2 6][f 3 1 1 0 0 17]Ah, u-um...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Futaba]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 6 1 0][f 3 1 1 0 0 18]S-S-S胤... 夷Espera, eh?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 6 1 0][f 3 1 1 0 0 18]S-s-S胤... 夷Espera, eh?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 3 1 1 0 0 19]T雨 estas, eh, est茨s temblando mucho...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Nagi]]
@@ -183,7 +183,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 6 0 0][f 3 1 1 0 0 64]Est茨 sonando de nuevo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Futaba]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 70 10 0 1][f 3 1 1 0 0 65]斡夷Q-Qu姻 significa eso?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 70 10 0 1][f 3 1 1 0 0 65]斡夷Q-qu姻 significa eso?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Nagi]]
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 3][f 3 1 1 0 0 66]Creo que Doe ha empezado a reproducir la pel胤cula.[n][f 1 3 65535][f 1 1][e]

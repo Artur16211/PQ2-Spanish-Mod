@@ -38,7 +38,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 17][f 6 1 9 0 0 1]Hikari, est茨 bien ser quien eres. No[n]deber胤as pensar que est茨 mal.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Chica Inocente]]
-[f 0 5 65278][f 2 1][f 4 6 37 8 5 9][f 3 1 1 0 0 18][f 6 1 2 0 0 4]...夷E-En serio?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 37 8 5 9][f 3 1 1 0 0 18][f 6 1 2 0 0 4]...夷E-en serio?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Voz De Hombre Tranquila]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 19][f 6 1 9 0 0 1]Mira, es natural que seas diferente de[n]los dem茨s...[n][f 1 3 65535][f 1 1][e]

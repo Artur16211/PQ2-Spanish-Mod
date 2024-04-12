@@ -51,7 +51,7 @@
 [f 0 5 65278][f 2 1][f 4 6 70 10 0 4][f 3 1 1 0 0 19][f 6 1 2 0 0 6]Ooh... 斡Un plano perfecto para una[n]pel胤cula![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 0 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 6]O-Oye... 斡Es la Risette de la vida real![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 64 1 0 3][f 4 6 65 0 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 6]O-oye... 斡Es la Risette de la vida real![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]S胤.[f 2 7 1 64 2 32][e]
@@ -103,7 +103,7 @@
 [f 0 5 65278][f 2 1][f 4 6 6 12 0 1][f 3 1 1 0 0 36][f 6 1 2 0 0 6]Soy Rise Kujikawa. 斡No puedo luchar,[n]pero d姻jame la navegaci吋n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]斡夷E-Eres... una navegadora?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 37][f 6 1 2 0 0 0]斡夷E-eres... una navegadora?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 0 0][f 3 1 1 0 0 38]斡Claro![n][f 1 3 65535][f 1 1][e]

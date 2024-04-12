@@ -62,10 +62,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14335]夷Eh? 夷Qu姻 pasa? 斡Oh! 斡Es una escalera![n][f 1 6 65535][e]
 
 [msg FUKA_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14336]斡Hay una cofre del tesoro por ah胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14336]斡Hay un cofre del tesoro por ah胤![n][f 1 6 65535][e]
 
 [msg FUKA_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 14337]夷Una cofre del tesoro? Veamos qu姻 hay[n]dentro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14337]夷Un cofre del tesoro? Veamos qu姻 hay[n]dentro.[n][f 1 6 65535][e]
 
 [msg FUKA_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 14338]斡Qu姻 emocionante! 夷Qu姻 podr胤a tener[n]dentro?[n][f 1 6 65535][e]

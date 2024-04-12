@@ -15,7 +15,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Hay muchos robots aqu胤. Quiz茨s Junes[n]podr胤a contratar a uno...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 9057][f 6 1 2 0 0 0]斡E-Espera, Yosuke! T雨 no... No vas a[n]abandonarme aqu胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 9057][f 6 1 2 0 0 0]斡E-espera, Yosuke! T雨 no... No vas a[n]abandonarme aqu胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_1 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 0]Ohhh, qu姻 cruel... 夷Has estado jugado[n]conmigo todo este tiempo y ahora[n]simplemente me abandonas...?[n][f 1 3 65535][f 1 1][e]
@@ -28,7 +28,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Las tareas tan detalladas que hacen[n]requerir胤an una tecnolog胤a muy avanzada.[n]Me pregunto como es su IA...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 100 0][f 3 1 1 0 0 26559][f 3 1 6 0 0 500]夷T-Te gustan ese tipo de cosas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 100 0][f 3 1 1 0 0 26559][f 3 1 6 0 0 500]夷T-te gustan ese tipo de cosas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Mm, bueno me gusta jugar con las m茨quinas[n]y eso...[n][f 1 3 65535][f 1 1][e]
@@ -66,7 +66,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 0 0 0][f 3 1 1 0 0 0]Hay muchos robots aqu胤. Quiz茨s Junes[n]podr胤a contratar a uno...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0005 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 9057][f 6 1 2 0 0 0]斡E-Espera, Yosuke! T雨 no... No vas a[n]abandonarme aqu胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 9057][f 6 1 2 0 0 0]斡E-espera, Yosuke! T雨 no... No vas a[n]abandonarme aqu胤, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0005_1 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 0]Ohhh, qu姻 cruel... 夷Has estado jugado[n]conmigo todo este tiempo y ahora[n]simplemente me abandonas...?[n][f 1 3 65535][f 1 1][e]
@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Las tareas tan detalladas que hacen[n]requerir胤an una tecnolog胤a muy avanzada.[n]Me pregunto como es su IA...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0008 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26059]夷T-Te gustan ese tipo de cosas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26059]夷T-te gustan ese tipo de cosas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0009 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 12 100 0][f 3 1 1 0 0 0]Mm, bueno me gusta jugar con las m茨quinas[n]y eso...[n][f 1 3 65535][f 1 1][e]

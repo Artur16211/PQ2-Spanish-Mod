@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27056]Tengo un mal presentimiento; 夷crees que[n]estaremos bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27074]夷E-Est茨s seguro? Est茨 bien, podemos[n]hacerlo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27074]夷E-est茨s seguro? Est茨 bien, podemos[n]hacerlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27068]斡Me alegra que est姻s de acuerdo! No[n]tiene sentido lanzarnos al peligro.[n][f 1 3 65535][f 1 1][e]

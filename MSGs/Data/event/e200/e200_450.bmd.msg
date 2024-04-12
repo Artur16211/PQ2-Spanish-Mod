@@ -21,7 +21,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 19 12 2 3][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 8][n][f 3 1 1 0 0 8]夷Te sientes mejor ahora, Hikari? Estabas temblando mucho...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-Mmm... Lo siento, estoy bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-mmm... Lo siento, estoy bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 1 0][f 3 1 1 0 0 10]Hikari parece ponerse extremadamente[n]nerviosa cuando est茨 Doe.[n][f 1 3 65535][f 1 1][e]

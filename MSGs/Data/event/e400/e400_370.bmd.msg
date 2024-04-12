@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]"夷Por qu姻 estoy aqu胤? 夷Estoy aqu胤 por[n]un error?" Cosas as胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 14 6 1][f 3 1 1 0 0 61175][f 6 1 2 0 0 6]斡P-Pero no fuiste un error![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 14 6 1][f 3 1 1 0 0 61175][f 6 1 2 0 0 6]斡P-pero no fuiste un error![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]夷Huh?[n][f 1 3 65535][f 1 1][e]

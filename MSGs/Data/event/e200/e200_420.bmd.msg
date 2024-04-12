@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]Trabajemos juntos a partir de ahora,[n]夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]斡U-Ustedes chicos![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 9][f 6 1 2 0 0 6]斡U-ustedes chicos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Herb胤voro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 6][f 3 1 1 0 0 10]Tambi姻n... debemos agradecer a los[n]humanos.[n][f 1 3 65535][f 1 1][e]
@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 13][f 6 1 2 0 0 6]斡Juramos intentar ser tan fuertes como[n]ustedes alg雨n d胤a![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷E-En serio? 斡夷Genial?! 斡夷No les pareci吋[n]una decepci吋n?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 2 1 0][f 3 1 1 0 0 14][f 6 1 2 0 0 0]夷E-en serio? 斡夷Genial?! 斡夷No les pareci吋[n]una decepci吋n?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 34 14 1 0][f 3 1 1 0 0 15][f 6 1 2 0 0 4]Bueno, no es por presumir ni nada, pero[n]yo fui el m茨s impresionante, 夷verdad?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Chie]]
@@ -56,7 +56,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22][f 6 1 2 0 0 4]Despu姻s de todo, 夷no descubrimos que no[n]hay un para胤so para los herb胤voros?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 23][f 6 1 2 0 0 10]O-Olvid姻 eso. *suspiro* 夷Qu姻 se supone[n]que debemos hacer ahora?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 34 4 1 0][f 3 1 1 0 0 23][f 6 1 2 0 0 10]O-olvid姻 eso. *suspiro* 夷Qu姻 se supone[n]que debemos hacer ahora?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 24][f 6 1 2 0 0 4]Si est茨n buscando un refugio seguro, lo[n]雨nico que tienen que hacer es crear[n]uno juntos.[n][f 1 3 65535][f 1 1][e]

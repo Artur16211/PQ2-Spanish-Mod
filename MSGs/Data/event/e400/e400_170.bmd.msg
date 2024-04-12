@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 1][f 3 1 1 0 0 0]夷Q-Qu姻 fue eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 1][f 3 1 1 0 0 0]夷Q-qu姻 fue eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 0][f 3 1 1 0 0 28012]夷Podr胤a haber sido un recuerdo de Hikari?[n]Fue mucho m茨s sombr胤o que el[n]tr茨iler...[n][f 1 3 65535][f 1 1][e]
@@ -33,7 +33,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 61052]Yo... Yo vine sola.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 100 0][f 3 1 1 0 0 26559][f 6 1 2 0 0 0][f 3 1 6 0 0 500]斡夷Q-Qu姻?! 夷No fue Doe?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 100 0][f 3 1 1 0 0 26559][f 6 1 2 0 0 0][f 3 1 6 0 0 500]斡夷Q-qu姻?! 夷No fue Doe?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 0]Mientras ve胤a las pel胤culas que cambiaron,[n]empec姻 a recordar, poco a poco...[n][f 1 3 65535][f 1 1][e]

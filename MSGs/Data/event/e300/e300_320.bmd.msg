@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 1 0 0 8]Por cierto, alguien me dijo que no puedes[n]recordar como llegaste aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-Mmhm... Cuando me despert姻, ya estaba[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 9]M-mmhm... Cuando me despert姻, ya estaba[n]aqu胤...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chico Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 2 12 0 0][f 3 1 1 0 0 10]No te preocupes. Saldremos de este lugar[n]juntos.[n][f 1 3 65535][f 1 1][e]

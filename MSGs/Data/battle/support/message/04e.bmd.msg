@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 58604]斡夷Chie estar茨 bien?![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_041]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 58605]E-Eh, podr胤amos perder a Yukiko a este[n]ritmo.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 58605]E-eh, podr胤amos perder a Yukiko a este[n]ritmo.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_042]
 [f 0 5 65278][f 2 1]Dummy[n][f 1 6 65535][e]

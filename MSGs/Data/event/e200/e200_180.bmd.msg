@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 0 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡La hierba fresca es la mejor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4059][f 6 1 2 0 0 0]斡夷Y-YOSUKE?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4059][f 6 1 2 0 0 0]斡夷Y-yOSUKE?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡夷Eh?! 夷Te refieres a tu compa隠ero[n]desaparecido?[n][f 1 3 65535][f 1 1][e]
@@ -112,7 +112,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 47 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡Cuidado! 斡Vienen los depredadores![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Herb胤voro Enorme]]
-[f 0 5 65278][f 2 1][f 4 6 48 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Aaaaaaah! 斡C-Corran por sus vidas![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 48 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Aaaaaaah! 斡C-corran por sus vidas![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Dinosaurio Con Auriculares]]
 [f 0 5 65278][f 2 1][f 4 6 34 18 1 1][f 3 1 1 0 0 34023][f 6 1 2 0 0 6]Mierda, mejor tambi姻n corro...[n][f 1 3 65535][f 1 1][e]
@@ -122,7 +122,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 10 0 3][f 3 1 1 0 0 0]...Se tropez吋.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Dinosaurio Con Auriculares]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 0 3 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡H-Hnnnnghhhh![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 0 3 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡H-hnnnnghhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 21 0 0 3][f 3 1 1 0 0 0]Vaya, realmente se lo comi吋, 夷verdad?[n]M胤ralo retorcerse de dolor.[n][f 1 3 65535][f 1 1][e]

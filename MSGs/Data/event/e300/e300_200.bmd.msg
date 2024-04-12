@@ -296,7 +296,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 3][f 4 6 13 12 0 1][f 3 1 1 0 0 13069][f 6 1 2 0 0 4]Es verdad... Si te parece bien, 夷estar胤as[n]de acuerdo en guiarnos, [f 6 1 26 0 0 0]?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 6 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19026]斡G-Gracias! Por favor... ¡D姻jenmelo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 6 2 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19026]斡G-gracias! Por favor... ¡D姻jenmelo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_093 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 12 0 4][f 3 1 1 0 0 0]No te presiones demasiado. No es como[n]si no crey姻semos en ti o nada, pero[n]no quiero que te lastimes.[n][f 1 3 65535][f 1 1][e]

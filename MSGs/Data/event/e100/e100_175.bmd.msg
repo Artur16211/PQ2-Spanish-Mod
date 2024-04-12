@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 74 0 3 1][f 3 1 1 0 0 17]Puedo o胤r que me llaman...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 18][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡O-O-OTRA M威S?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 0][f 3 1 1 0 0 18][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡O-o-OTRA M威S?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Caroline]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 79 1 0 3][f 4 6 78 12 0 6][f 3 1 1 0 0 19]Oye, Justine...[n][f 1 3 65535][f 1 1][e]
@@ -95,7 +95,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 0 0 0][f 3 1 1 0 0 45]En efecto, sin embargo, omitamos los detalles por ahora y vayamos directo al grano.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Theodore]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 6][f 4 6 76 12 0 0][f 3 1 1 0 0 46]A-Ah, 斡s胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 6][f 4 6 76 12 0 0][f 3 1 1 0 0 46]A-ah, 斡s胤![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Al llegar a este mundo, me separ姻 de mi invitada...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 48]La busqu姻 por todas partes en este cine, pero no hay rastro de ella.[n][f 1 3 65535][f 1 1][e]
 
@@ -174,7 +174,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 2 1 0][f 3 1 1 0 0 72]Es por eso que mi tonto hermano menor Theodore les proporcionar茨 toda la ayuda que necesiten.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 76 4 1 0][f 3 1 1 0 0 73][f 6 1 2 0 0 0]夷Eh? 斡¿H-Hermana?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 76 4 1 0][f 3 1 1 0 0 73][f 6 1 2 0 0 0]夷Eh? 斡¿H-hermana?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_066 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 0 0][f 3 1 1 0 0 74]"Buena compa隠胤a en el camino es el atajo m茨s corto hacia la tumba", creo que es el dicho.[n][f 1 3 65535][f 1 1][e]

@@ -10,7 +10,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5]Para ellos, este es, en cambio, un lugar[n]donde pueden ganar la paz que nunca[n]han encontrado en sus realidades.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 6][f 6 1 2 0 0 10]E-Eso... no es...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 6][f 6 1 2 0 0 10]E-eso... no es...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Enlil]]
 [f 0 5 65278][f 2 1][f 4 6 39 0 0 0][f 3 1 1 0 0 7][f 6 1 2 0 0 4]夷Quieres decir que no es as胤?[n][f 1 3 65535][f 1 1][e]

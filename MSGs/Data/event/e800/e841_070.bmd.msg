@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1]夷Nos est茨s dando algo?[f 2 7 1 64 0 32][e]
 
 [msg MSG_004 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 8 0 4][f 3 1 1 0 0 65047]斡N-N-N-Nada! 斡No es nada![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 8 0 4][f 3 1 1 0 0 65047]斡N-n-N-nada! 斡No es nada![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Definitivamente no es como si te estuviera[n]agradeciendo o algo as胤, por dejarme entrar[n]contigo en la pel胤cula.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Marie]]

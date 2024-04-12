@@ -1,8 +1,8 @@
 ﻿[msg MSG_000 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 39 1 0 1][f 4 6 16 10 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 4]夷S-Su color de pelo cambi吋... solo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 39 1 0 1][f 4 6 16 10 0 3][f 3 1 1 0 0 1][f 6 1 2 0 0 4]夷S-su color de pelo cambi吋... solo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 10 1 6][f 3 1 1 0 0 2][f 6 1 2 0 0 0]斡夷N-Nagi?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 10 1 6][f 3 1 1 0 0 2][f 6 1 2 0 0 0]斡夷N-nagi?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [夷Nagi?]]
 [f 0 5 65278][f 2 1][f 4 6 39 2 0 0][f 3 1 1 0 0 3]*risa* No hay por qu姻 sorprenderse.[n][f 1 3 65535][f 1 1][e]

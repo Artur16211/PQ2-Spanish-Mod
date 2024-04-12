@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 2][f 4 6 7 1 0 1][f 3 1 1 0 0 31]...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]...斡夷Q-Qu姻?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]...斡夷Q-qu姻?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Kanji]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 2][f 4 6 7 1 1 0][f 3 1 1 0 0 33]...[n][f 1 3 65535][f 1 1][e]
@@ -107,7 +107,7 @@
 
 [msg MSG_033 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 1 0][f 3 1 1 0 0 37][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Waaaaaaah! Oye, 夷Por qu姻 me delatas?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 2 0 0 6]S-Solo d姻jalo. 斡Siguiente! T雨, Naoto.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 2 0 0 6]S-solo d姻jalo. 斡Siguiente! T雨, Naoto.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 8 12 0 1][f 3 1 1 0 0 39]Oh, s胤. Soy Naoto Shirogane, tambi姻n de[n]primer a隠o como Kanji.[n][f 1 3 65535][f 1 1][e]
@@ -185,7 +185,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 67][f 6 1 2 0 0 4]夷Podr胤amos empezar con Futaba?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 10 0 3][f 3 1 1 0 0 68][f 6 1 2 0 0 0]斡夷QU畏?! 斡E-E-Es demasiada presi吋n para[n]m胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 10 0 3][f 3 1 1 0 0 68][f 6 1 2 0 0 0]斡夷QU畏?! 斡E-e-Es demasiada presi吋n para[n]m胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055_5 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 3][f 3 1 1 0 0 69][f 6 1 2 0 0 10][f 6 1 30 0 0 0], [f 6 1 30 0 0 0]! 夷斡No deber胤amos empezar contigo, ya que eres nuestro líder!?[n][f 1 3 65535][f 1 1][e]

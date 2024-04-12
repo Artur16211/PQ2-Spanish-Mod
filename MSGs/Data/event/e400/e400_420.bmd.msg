@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 6 3][f 3 1 1 0 0 1][f 6 1 2 0 0 6]N-No... 斡Esto no est茨 bien, esto no est茨[n]bien![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 6 3][f 3 1 1 0 0 1][f 6 1 2 0 0 6]N-no... 斡Esto no est茨 bien, esto no est茨[n]bien![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]畏l... 畏l no me dijo eso.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Hombre Con Gafas]]

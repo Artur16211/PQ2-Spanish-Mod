@@ -16,7 +16,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 6][f 3 1 1 0 0 5069]S胤, funcion吋 una vez, as胤 que deber胤amos[n]intentarlo de nuevo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]斡N-No! ...Deber胤amos tener un plan m茨s s吋lido esta vez.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 0]斡N-no! ...Deber胤amos tener un plan m茨s s吋lido esta vez.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Por qu姻 no le preguntamos a Noir,[n]nuestra experta en hachas?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [P4 Hero]]

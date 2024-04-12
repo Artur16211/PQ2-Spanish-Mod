@@ -112,7 +112,7 @@
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 6 1 25 0 0 0][f 4 6 79 7 1 0][f 3 1 1 0 0 0]...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Caroline]]
-[f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]R-R-Right! 斡Y todav胤a nos queda una monta隠a![n]斡Hahaha![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 78 0 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]R-r-Right! 斡Y todav胤a nos queda una monta隠a![n]斡Hahaha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 3][f 3 1 1 0 0 21093]夷Qu姻 fue eso?[n][f 1 3 65535][f 1 1][e]

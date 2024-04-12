@@ -858,7 +858,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 56342]Parece que esto va bien. 斡Sigan as胤![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_285]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 56347]H-Hermana...[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 56347]H-hermana...[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_286]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 56348]Hermana... Espero que no quieras decir[n]que te aburres...[n][f 1 6 65535][e]

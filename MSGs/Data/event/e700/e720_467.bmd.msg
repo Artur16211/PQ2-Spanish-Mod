@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 4 0 0][f 3 1 1 0 0 4036][f 6 1 2 0 0 0]斡Oye! 斡夷Qu姻 quieres decir con eso,[n]Yosuke?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]*jadeo* Bueno, ya sabes... U-Uhhhh...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]*jadeo* Bueno, ya sabes... U-uhhhh...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_021 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Cocinar en interiores es peligroso.[f 2 7 1 20 2 32][e]

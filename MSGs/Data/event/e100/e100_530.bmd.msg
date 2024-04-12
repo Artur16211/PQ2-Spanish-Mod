@@ -171,7 +171,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 63][f 6 1 2 0 0 3]Pero, 夷puedes estar a gusto contigo mismo haciendo eso? Yo no ser胤a capaz de soportarlo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 70 12 0 3][f 3 1 1 0 0 64][f 6 1 2 0 0 4]E-Entonces... 夷Y t雨, Hikari?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 1 0 1][f 4 6 70 12 0 3][f 3 1 1 0 0 64][f 6 1 2 0 0 4]E-entonces... 夷Y t雨, Hikari?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 65]Creo que los compa隠eros y amigos que te ayudan son... realmente importantes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Hikari]]
@@ -200,7 +200,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 10 0 6][f 3 1 1 0 0 74][f 6 1 2 0 0 0]斡夷Doe?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_057 [Makoto]]
-[f 0 5 65278][f 2 1][f 4 6 69 10 0 6][f 3 1 1 0 0 75][f 6 1 2 0 0 0]夷Q-Qu姻 es eso, ¿un mu隠eco?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 69 10 0 6][f 3 1 1 0 0 75][f 6 1 2 0 0 0]夷Q-qu姻 es eso, ¿un mu隠eco?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 71 12 0 6][f 3 1 1 0 0 76][f 6 1 2 0 0 4]Oh, 夷es ese el proyeccionista del que nos hablaste, que est茨 reproduciendo la pel胤cula?[n][f 1 3 65535][f 1 1][e]
@@ -268,7 +268,7 @@
 [f 0 5 65278][f 2 1][f 4 6 82 2 1 1][f 3 1 1 0 0 95][f 6 1 1 0 0 1][f 6 1 2 0 0 6]斡Nnnghhhhhhh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0016 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 96][f 6 1 2 0 0 10]P-Pero, 夷斡correr a d吋nde!?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 70 6 1 0][f 3 1 1 0 0 96][f 6 1 2 0 0 10]P-pero, 夷斡correr a d吋nde!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0017 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 1 0 0 97]Ah... Nnh...[n][f 1 3 65535][f 1 1][e]
@@ -277,7 +277,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 98]夷Hikari? ¿斡Est茨s bien!?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0019 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 99][f 6 1 2 0 0 6]T-Tranquil胤zate... 斡E-Estamos contigo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 99][f 6 1 2 0 0 6]T-tranquil胤zate... 斡E-estamos contigo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0020 [Doe]]
 [f 0 5 65278][f 2 1][f 4 6 82 4 1 0][f 3 1 1 0 0 100][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Gggghhhhhhhhhhhh! ¡Gggggghhhhhhhh![n][f 1 3 65535][f 1 1][e]

@@ -18,7 +18,7 @@
 [f 0 5 65278][f 2 1][f 4 6 18 8 1 4][f 3 1 1 0 0 0]Oye idiota, 斡no hay manera de que t雨 o[n]cualquiera de nosotros golpe a esa[n]cosa y viva para contarlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 8 0 0 1][f 3 1 1 0 0 8001]U-Um...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 8 0 0 1][f 3 1 1 0 0 8001]U-um...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷No se abrir胤a la puerta si llevamos al[n]FOE que nos sigue hacia esa puerta?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]

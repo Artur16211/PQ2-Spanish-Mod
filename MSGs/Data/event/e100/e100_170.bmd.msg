@@ -52,7 +52,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 4 6 66 12 0 3][f 3 1 1 0 0 16][f 6 1 2 0 0 4]Morgana, lo siento, pero 夷podr胤as intentarlo un poco m茨s por mí?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡P-Por supuesto! ¡Solo m胤rame, Se隠orita Ann![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 17][f 6 1 2 0 0 6]斡P-por supuesto! ¡Solo m胤rame, Se隠orita Ann![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 18][f 6 1 2 0 0 10]...Pero si un perro guardi茨n o algo as胤 sale, será mejor que alguien me salve rápido, 夷斡entendido!?[n][f 1 3 65535][f 1 1][e]

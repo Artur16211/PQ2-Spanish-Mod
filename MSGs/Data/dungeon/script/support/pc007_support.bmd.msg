@@ -134,7 +134,7 @@
 [f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]L-Lo siento... 夷Te importa si tomamos[n]un descanso?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 7312]L-lo siento... 夷Te importa si tomamos[n]un descanso?[n][f 1 6 65535][e]
 
 [msg KANJI_1PERSON_HPTP10_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 7313]Tch, no puedo estar muriendo ahora...[n][f 1 6 65535][e]

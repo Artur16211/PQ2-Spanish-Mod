@@ -71,24 +71,24 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 32][f 6 1 2 0 0 6]斡La Ribbon que ama las flores y acaricia[n]a Koromaru, eso es lo que realmente[n]eres![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ribbon]]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 3 0 0 3]F-FLORES... BIEN...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 3 0 0 3]KOROMARU... 畏-畏L... ME HIZO SENTIR[n]FELIZ...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 33][f 6 1 3 0 0 3]F-fLORES... BIEN...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 3 0 0 3]KOROMARU... 畏-姻L... ME HIZO SENTIR[n]FELIZ...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35][f 6 1 3 0 0 3]YO... YO...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 12 1 6][f 3 1 1 0 0 36][f 6 1 2 0 0 6]...斡R-Ribbon! 斡E-Escucha![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 12 1 6][f 3 1 1 0 0 36][f 6 1 2 0 0 6]...斡R-ribbon! 斡E-escucha![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 8 1 1][f 3 1 1 0 0 37][f 6 1 2 0 0 0]斡夷Oracle?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 6]A-A m胤 me gusta... Me gusta c吋mo eres[n]ahora, Ribbon. 斡Quiero que te quedes[n]as胤![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 6]A-a m胤 me gusta... Me gusta c吋mo eres[n]ahora, Ribbon. 斡Quiero que te quedes[n]as胤![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Ribbon]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 2 0 0 4][f 6 1 3 0 0 3]夷C遺MO SOY... AHORA?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 40]斡S胤, as胤 es...! M-Me gusta t雨 yo real...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 40]斡S胤, as胤 es...! M-me gusta t雨 yo real...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 41][f 6 1 2 0 0 6]Por eso... No... 斡No quiero que[n]desaparezca![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Ribbon]]
@@ -100,7 +100,7 @@
 [f 0 5 65278][f 2 1]Recuerda tu propio nombre.[f 2 7 1 20 0 32][e]
 
 [msg MSG_028 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 43]斡B-Bien! Nosotros... 斡Cambiaremos este[n]mundo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 43]斡B-bien! Nosotros... 斡Cambiaremos este[n]mundo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 13 1 0][f 3 1 1 0 0 44][f 6 1 2 0 0 6]斡Vamos a cambiar este mundo por ti,[n]Ribbon! 斡Solo intenta luchar contra esa[n]cosa![n][f 1 3 65535][f 1 1][e]
@@ -141,7 +141,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 10 0 1][f 3 1 1 0 0 56][f 6 1 2 0 0 0]斡夷Es el Modo Desenfreno?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Yukari]]
-[f 0 5 65278][f 2 1][f 4 6 10 10 0 1][f 3 1 1 0 0 57][f 6 1 2 0 0 4]斡夷P-Pero c吋mo?! 夷Ella fue programada[n]para eso?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 10 0 1][f 3 1 1 0 0 57][f 6 1 2 0 0 4]斡夷P-pero c吋mo?! 夷Ella fue programada[n]para eso?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_041 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 94 1 1 8][f 4 6 35 6 4 0][f 4 6 26 12 1 0][f 3 1 1 0 0 58][f 6 1 2 0 0 6]斡Te lo explico m茨s tarde! Ribbon,[n]斡volvamos al hackeo![n][f 1 3 65535][f 1 1][e]
@@ -166,7 +166,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 4 0 1][f 3 1 1 0 0 67][f 6 1 2 0 0 6]斡No! 斡Se est茨 sobrecalentando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_047 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 10 0 6][f 3 1 1 0 0 68][f 6 1 2 0 0 0]斡夷Q-Qu姻?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 10 0 6][f 3 1 1 0 0 68][f 6 1 2 0 0 0]斡夷Q-qu姻?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 26 12 1 6][f 3 1 1 0 0 69][f 6 1 2 0 0 6]斡No puedes seguir as胤, Ribbon![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Ribbon]]

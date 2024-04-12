@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 21 10 0 1][f 3 1 1 0 0 21061][f 6 1 2 0 0 0]斡夷Q-Qu姻 demonios es este enorme tallo?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 21 10 0 1][f 3 1 1 0 0 21061][f 6 1 2 0 0 0]斡夷Q-qu姻 demonios es este enorme tallo?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 100 0][f 3 1 6 0 0 500][f 3 1 1 0 0 0]No es un tallo ordinario...[n][f 1 3 65535][f 1 1][e]

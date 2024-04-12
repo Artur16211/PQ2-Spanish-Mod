@@ -29,7 +29,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 21060][f 6 1 2 0 0 7]斡夷En serio?! 斡Entonces, intentemos[n]moverlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡E-Eh! 夷Y si resulta ser una trampa?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡E-eh! 夷Y si resulta ser una trampa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 12 0 0][f 3 1 1 0 0 0]Cierto. 夷Por qu姻 no dejamos que Oracle[n]lo revise primero?[n][f 1 3 65535][f 1 1][e]

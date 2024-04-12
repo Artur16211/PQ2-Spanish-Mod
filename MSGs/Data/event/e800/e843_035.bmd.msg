@@ -7,7 +7,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Bueno, salva la mayor parte de las vidas.[n]Supongo que es una especie de "correcto"[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Kanji]]
-[f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 0]斡H-Hang en un segundo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 0]斡H-hang en un segundo![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 7 6 0 1][f 3 1 1 0 0 0]夷As胤 que ese inocente acaba de huir? Hombre,[n]no s姻 si salvar a esos tipos lo hace[n]bien...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Yusuke]]

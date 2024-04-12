@@ -233,7 +233,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56311]Por favor sean tan precavidos como[n]puedan.[n][f 1 6 65535][e]
 
 [msg ELIZABETH_PARTY_HPTP10_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 54315]斡Oh cielos! E-Esto es un estado de[n]emergencia.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 54315]斡Oh cielos! E-esto es un estado de[n]emergencia.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_HPTP10_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 56315]Hermana, por favor c茨lmate. Solo[n]necesitan reagruparse y curarse a s胤 mismos.[n][f 1 6 65535][e]
@@ -368,7 +368,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54331]Por favor, contin雨en adelante, como en[n]un 'golpe de uno-dos'.[n][f 1 6 65535][e]
 
 [msg THEODOR_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 56331]斡H-Hermana! 斡Por favor, abstente de[n]agitar tus brazos as胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 56331]斡H-hermana! 斡Por favor, abstente de[n]agitar tus brazos as胤![n][f 1 6 65535][e]
 
 [msg ELIZABETH_1PERSON_HP80_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 54332]斡Woohoo! 斡Bien hecho![n][f 1 6 65535][e]

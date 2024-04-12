@@ -19,7 +19,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Te estaba viendo pelear, y pens姻 que te ve胤as[n]muy bien...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4066][f 6 1 2 0 0 0]夷C-Cool? 夷Yo?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 4066][f 6 1 2 0 0 0]夷C-cool? 夷Yo?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]斡De ninguna manera! Eres m茨s genial que yo,[n]Ann. 夷C吋mo consigo un cuerpo como[n]el tuyo? 夷Es tu dieta?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷Come carne? Por favor dime que comes carne[n]y no s吋lo un mont吋n de hojas...[n][f 1 3 65535][f 1 1][e]
 

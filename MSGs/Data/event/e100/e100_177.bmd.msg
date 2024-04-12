@@ -50,14 +50,14 @@
 [f 0 5 65278][f 2 1][f 4 6 76 10 0 0][f 3 1 1 0 0 56050][f 6 1 2 0 0 0]夷Est茨s tratando de deshidratarme?! 斡Esto es igual que esa maldita harina de soja otra vez![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]U-Uhm...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]U-uhm...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡E-Est茨 bien![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 12 1 6][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡E-est茨 bien![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Me asusto al principio la Brigada Azul, pero ahora creo que son inofensivos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 61066]...E-Est茨 bien.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 61066]...E-est茨 bien.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Theodore]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 76 0 2 1][f 3 1 1 0 0 0]*隠am-ñam* Esto es bastante... *ñam-ñam*[n][f 1 3 65535][f 1 1][e]

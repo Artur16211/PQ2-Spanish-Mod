@@ -55,10 +55,10 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 10 0 3][f 3 1 1 0 0 23105][f 6 1 1 0 0 1][f 6 1 2 0 0 0]斡夷Nyaaaaaaaaagh?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 10 0 2][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡Eh! ¡夷Q-Qu姻 pasa?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 10 0 2][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡Eh! ¡夷Q-qu姻 pasa?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡¡¡U-U-U-Una rata gigante me pas吋 encima, es enorme!!![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1]斡¡¡U-u-U-una rata gigante me pas吋 encima, es enorme!!![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 1][f 3 1 1 0 0 0]Eh, 夷solo una rata? Vaya gato...[n][f 1 3 65535][f 1 1][e]
@@ -94,7 +94,7 @@
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 0]Oye, no es que vayamos a descubrirlo solo hablando de eso, 夷verdad? Solo estamos perdiendo el tiempo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Morgana]]
-[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 0]O-Oh... Es verdad.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 23 6 0 0][f 3 1 1 0 0 0]O-oh... Es verdad.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 22 6 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Huele muy mal aqu胤, así que 夷podemos darnos prisa? Siento que el hedor se va a quedar en mi traje...[n][f 1 3 65535][f 1 1][e]

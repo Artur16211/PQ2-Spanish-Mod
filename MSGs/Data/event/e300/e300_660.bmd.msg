@@ -5,7 +5,7 @@
 [f 0 5 65278][f 2 1][f 4 6 84 2 3 0][f 3 1 1 0 0 2][f 6 1 2 0 0 6]斡Hikari fue secuestrada por Doe![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 4 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]斡夷Secuestrada?! 斡夷D-De qu姻 est茨s[n]hablando?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 4 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]斡夷Secuestrada?! 斡夷D-de qu姻 est茨s[n]hablando?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 2 0][f 3 1 1 0 0 4][f 6 1 2 0 0 10]Hikari estaba viendo el final de la[n]pel胤cula con nosotros.[n][f 1 3 65535][f 1 1][e]
@@ -50,7 +50,7 @@
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 70 2 1 3][f 3 1 1 0 0 20]Pero... yo... hice lo mejor que pude...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 70 4 0 3][f 3 1 1 0 0 21][f 6 1 2 0 0 6]斡夷P-Por qu姻?! 斡La pel胤cula hab胤a resultado[n]ser tan bonita![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 4 0 3][f 3 1 1 0 0 21][f 6 1 2 0 0 6]斡夷P-por qu姻?! 斡La pel胤cula hab胤a resultado[n]ser tan bonita![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Aigis]]
 [f 0 5 65278][f 2 1][f 4 6 15 6 0 1][f 3 1 1 0 0 22]Futaba...[n][f 1 3 65535][f 1 1][e]

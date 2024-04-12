@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 27][f 6 1 2 0 0 0]斡夷Qu姻?! Ustedes dos parec胤an estar[n]peleando en serio entre ustedes...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
-[f 0 5 65278][f 2 1][f 4 6 27 2 1 0][f 3 1 1 0 0 28][f 6 1 2 0 0 10]斡P-Por favor, no nos malinterpreten![n]Solo pretend胤amos usarla para[n]intimidar...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 27 2 1 0][f 3 1 1 0 0 28][f 6 1 2 0 0 10]斡P-por favor, no nos malinterpreten![n]Solo pretend胤amos usarla para[n]intimidar...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 29]Nos preocupaba encontrarnos con gente[n]aqu胤, as胤 que esper茨bamos que la[n]pistola los asustara.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Chico Amenazador]]

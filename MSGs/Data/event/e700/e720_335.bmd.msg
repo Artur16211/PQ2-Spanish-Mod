@@ -1,5 +1,5 @@
 ﻿[msg MSG_000 [Yosukesaurio]]
-[f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 34 2 1 1][f 3 1 1 0 0 34025][f 6 1 2 0 0 6]斡夷O-OTRO?! 斡Vamos! 斡Tenemos que correr![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 4 6 34 2 1 1][f 3 1 1 0 0 34025][f 6 1 2 0 0 6]斡夷O-oTRO?! 斡Vamos! 斡Tenemos que correr![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]夷Otra vez? Si tenemos que pasar por esto[n]cada vez que aparece un carn胤voro,[n]no los alcanzaremos nunca.[n][f 1 3 65535][f 1 1][e]

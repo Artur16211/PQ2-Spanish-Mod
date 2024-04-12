@@ -101,7 +101,7 @@
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 10 0 0][f 3 1 1 0 0 11065][f 6 1 2 0 0 10]No intentes desarmarla, 夷de acuerdo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 8 0 4][f 3 1 1 0 0 8010][f 6 1 2 0 0 4]E-Em... 夷Que crees responder胤a si le[n]preguntara si puedo ver sus piezas[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 8 0 4][f 3 1 1 0 0 8010][f 6 1 2 0 0 4]E-em... 夷Que crees responder胤a si le[n]preguntara si puedo ver sus piezas[n]tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 8 1 0][f 3 1 1 0 0 26042][f 6 1 2 0 0 6]斡夷Qu姻?! Estoy sintiendo otra amante de[n]la mec茨nica aqu胤 tambi姻n. Mweheheh...[n]斡Entiendo tu curiosidad![n][f 1 3 65535][f 1 1][e]

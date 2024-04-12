@@ -209,7 +209,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Si todos, incluida Ribbon, nos subimos,[n]apuesto a que tendremos una[n]tonelada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4125][f 6 1 2 0 0 0]斡E-Espera! 夷Por qu姻 no subimos todos a[n]la vez?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 4125][f 6 1 2 0 0 0]斡E-espera! 夷Por qu姻 no subimos todos a[n]la vez?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Junpei]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 1][f 3 1 1 0 0 0]S胤, bien. Muy bien, vamos a contar[n]tres...[n][f 1 3 65535][f 1 1][e]

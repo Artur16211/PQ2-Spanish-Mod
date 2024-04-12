@@ -73,7 +73,7 @@
 [f 0 5 65278][f 2 1][f 4 6 82 0 0 0][f 3 1 1 0 0 28][f 6 1 2 0 0 4]Y ahora que sabes eso. 夷Qu姻 vas a hacer?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 8 2 0][f 3 1 1 0 0 29]Y-Yo... Quiero salir de este lugar.[n]Cambiar姻 el final de esta pel胤cula y[n]saldr姻 de aqu胤.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 8 2 0][f 3 1 1 0 0 29]Y-yo... Quiero salir de este lugar.[n]Cambiar姻 el final de esta pel胤cula y[n]saldr姻 de aqu胤.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Doe]]
 [f 0 5 65278][f 2 1][f 4 6 82 0 0 0][f 3 1 1 0 0 30][f 6 1 2 0 0 4]夷Tienes la voluntad para hacer eso?[n][f 1 3 65535][f 1 1][e]
@@ -87,7 +87,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 34][f 6 1 2 0 0 4]Si te alejas, nadie podr茨 criticarte.[n]夷No quieres evitar que te hagan da隠o?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 35]N-No es verdad... Eso...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 35]N-no es verdad... Eso...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 81 8 2 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]斡Por favor, para![n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_027 top]

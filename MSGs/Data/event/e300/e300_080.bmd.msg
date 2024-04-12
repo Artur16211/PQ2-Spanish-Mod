@@ -112,7 +112,7 @@
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 3][f 3 1 1 0 0 44][f 6 1 2 0 0 1]斡NO soy un gato![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Ni隠o Sombr胤o]]
-[f 0 5 65278][f 2 1][f 4 6 19 1 0 1][f 4 6 16 12 0 3][f 3 1 1 0 0 45][f 6 1 2 0 0 6]斡U-Um...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 1 0 1][f 4 6 16 12 0 3][f 3 1 1 0 0 45][f 6 1 2 0 0 6]斡U-um...![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 46]No creo que [f 6 1 27 0 0 0] sea una mala persona.[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]Quiero decir, no puedo explicar por qu姻,[n]y se supone que esta es la primera[n]vez que nos vemos, pero aun as胤...[n][f 1 3 65535][f 1 1][e]
 
@@ -134,7 +134,7 @@
 
 [msg MSG_039 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 0][f 3 1 1 0 0 54][f 6 1 26 0 0 0]... Estoy segura de que todo estar茨[n]bien...[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 55]U-Um, no s姻 c吋mo expresarlo... As胤 es[n]como me siento en este momento.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 55]U-um, no s姻 c吋mo expresarlo... As胤 es[n]como me siento en este momento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 56][f 6 1 2 0 0 6]斡Gracias, Hikari![n][f 1 3 65535][f 1 1][e]

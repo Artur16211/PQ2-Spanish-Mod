@@ -24,7 +24,7 @@
 [f 0 5 65278][f 2 1][f 4 6 85 14 1 0][f 3 1 1 0 0 65047][f 6 1 2 0 0 6]斡LALALAAAA! 斡夷Qu姻 dijiste?! 夷Qu姻? 斡No[n]tengo ni idea de lo que est茨s hablando![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005_5 [Marie]]
-[f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]M-M茨s importante, [f 6 1 30 0 0 0]! 夷Tienes m茨s[n]preguntas?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 85 0 2 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]M-m茨s importante, [f 6 1 30 0 0 0]! 夷Tienes m茨s[n]preguntas?[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 0]Estoy bien.[f 2 7 1 64 2 32][e]

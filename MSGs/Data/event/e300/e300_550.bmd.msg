@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]INICIANDO VERIFICACI遺N DE SEGURIDAD...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Junpei]]
-[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11060][f 6 1 2 0 0 0]斡夷Q-Qu姻 dem...?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11060][f 6 1 2 0 0 0]斡夷Q-qu姻 dem...?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Sistema De Seguridad]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]TIPO DE UNIDAD VERIFICADA... IW. N郁MERO[n]DE MODELO VERIFICADO... 02. CONFIRMACI遺N[n]DEL NIVEL DE SEGURIDAD...[n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 6 9 18 1 0][f 3 1 1 0 0 9023][f 6 1 2 0 0 4]夷Hrmm? 夷Pero no se le asign吋 "IW-00" a[n]la dama tambi姻n?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 2 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]S-S胤... Creo que tambi姻n soy "IW-00"...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 2 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 0]S-s胤... Creo que tambi姻n soy "IW-00"...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 35 1 0 1][f 4 6 22 8 1 3][f 3 1 1 0 0 22019][f 6 1 2 0 0 4]Espera, 夷c吋mo es posible? 夷Varias personas[n]pueden tener la misma identificaci吋n[n]exacta?[n][f 1 3 65535][f 1 1][e]
@@ -199,7 +199,7 @@
 [f 0 5 65278][f 2 1][f 4 6 15 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4][f 6 1 27 0 0 0], 夷qu姻 pasa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_061 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19018]夷Mm? Oh, 斡N-No es nada![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19018]夷Mm? Oh, 斡N-no es nada![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 2 3 0][f 3 1 1 0 0 0]斡M茨s importante, que r茨pida fuiste! 斡Esa[n]es la Aigis que conozco![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Aigis]]

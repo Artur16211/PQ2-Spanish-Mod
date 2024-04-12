@@ -113,7 +113,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6511]斡Junpei, mantengamos la calma y[n]encontremos sus debilidades![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_038]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6512]夷A-Akihiko? Vamos c茨lmate, 夷de acuerdo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6512]夷A-akihiko? Vamos c茨lmate, 夷de acuerdo?[n][f 1 6 65535][e]
 
 [msg BTL_MES_006_039]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6513]Mitsuru se ve tan genial...[n][f 1 6 65535][e]
@@ -194,7 +194,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6231]斡El intento de escape fall吋! 斡Cuidado![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_065]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 6232]N-No puede ser... 斡Apareci吋 un FOE![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 6232]N-no puede ser... 斡Apareci吋 un FOE![n][f 1 6 65535][e]
 
 [msg BTL_MES_006_066]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 6233]Pens姻 que todos sab胤an que es de mala[n]educaci吋n invadir el espacio personal. 斡Parece que NO![n][f 1 6 65535][e]

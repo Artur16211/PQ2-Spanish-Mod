@@ -25,13 +25,13 @@
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 7]Espera, si es un fantasma de este per胤odo,[n]夷es un fantasma dinosaurio? 夷No[n]ser胤a enorme?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007_5 [Yukiko]]
-[f 0 5 65278][f 2 1][f 4 6 5 2 1 4][f 3 1 1 0 0 8][f 6 1 2 0 0 6]Snrk... 斡Jajajajajaja! 斡U-Un fantasma[n]enorme y torpe! 斡Jajajaja...![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 5 2 1 4][f 3 1 1 0 0 8][f 6 1 2 0 0 6]Snrk... 斡Jajajajajaja! 斡U-un fantasma[n]enorme y torpe! 斡Jajajaja...![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 9][f 6 1 2 0 0 10]斡No, no, no, no! 斡No quiero ver una rana[n]aplastada![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 10][f 6 1 1 0 0 1][f 6 1 2 0 0 0]斡夷Q-Qu姻?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 10][f 6 1 1 0 0 1][f 6 1 2 0 0 0]斡夷Q-qu姻?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009_5 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 14 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]斡Hraaaaaaaaah! 斡Vamos![n][f 1 3 65535][f 1 1][e]
@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 2 99 1][f 3 1 6 0 0 500][f 3 1 1 0 0 20][f 6 1 2 0 0 10]斡Esperen! Malas noticias: 斡hay dinosaurio[n]gigante ah胤 tambi姻n![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Naoto]]
-[f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 0]P-Pero...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 0]P-pero...[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_019 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]Tenemos que hacer algo...[f 2 7 1 20 0 32][e]

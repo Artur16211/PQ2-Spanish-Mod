@@ -73,6 +73,6 @@
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 7]斡D姻jamelo a m胤! 斡Tengo algunos granos[n]de caf姻 deliciosos que fueron cosechados[n]despu姻s de ser fermentados en[n]excremento de elefante![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Mitsuru]]
-[f 0 5 65278][f 2 1][f 4 6 13 10 0 0][f 3 1 1 0 0 13054]夷Q-Qu姻...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 13 10 0 0][f 3 1 1 0 0 13054]夷Q-qu姻...?[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0]...No, no deber胤a prejuzgar. Deber胤a[n]intentarlo.[n][f 1 3 65535][f 1 1][e]
 

@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 28 6 1 6][f 3 1 1 0 0 28008]Es cierto que ser胤a estupendo si se[n]conectara con la siguiente planta, pero[n]puede que acabemos descendiendo para[n]siempre...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡夷Q-Qu姻?! 斡Nooo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]斡夷Q-qu姻?! 斡Nooo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 0]...Ja, ja, solo bromeo. Si parece[n]sospechoso, deber胤amos preguntarle a[n]nuestras navegadoras.[n][f 1 3 65535][f 1 1][e]

@@ -76,7 +76,7 @@
 [f 0 5 65278][f 2 1][f 4 6 93 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Entonces... 夷Deber胤amos hacer la cosa?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Herb胤voro Inquieto]]
-[f 0 5 65278][f 2 1][f 4 6 47 0 1 0][f 3 1 1 0 0 0]...S-S胤, supongo.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 47 0 1 0][f 3 1 1 0 0 0]...S-s胤, supongo.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Herb胤voro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0]Es hora de una votaci吋n.[n][f 1 3 65535][f 1 1][e]
@@ -110,7 +110,7 @@
 [f 0 5 65278][f 2 1][f 4 6 34 1 1 0][f 3 1 1 0 0 0]*suspiro* Todo es su culpa...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡夷Q-Qu姻?! 斡Tiene mi cabeza! 夷Qu姻 demonios[n]est茨 pasando aqu胤?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]斡夷Q-qu姻?! 斡Tiene mi cabeza! 夷Qu姻 demonios[n]est茨 pasando aqu胤?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 34 4 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Ustedes ignoraron la regla de la[n]mayor胤a![n][f 1 3 65535][f 1 1][e]

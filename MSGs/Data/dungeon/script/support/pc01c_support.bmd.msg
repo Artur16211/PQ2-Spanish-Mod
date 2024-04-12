@@ -62,13 +62,13 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28326]夷Cu茨l es el plan? 夷Seguir adelante?[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28327]Una cofre del tesoro. Ser姻 generoso y[n]te lo dejar姻.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28327]Un cofre del tesoro. Ser姻 generoso y[n]te lo dejar姻.[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28328]Una cofre del tesoro, 夷eh? 夷Por qu姻 no[n]intentas abrirlo?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28328]Un cofre del tesoro, 夷eh? 夷Por qu姻 no[n]intentas abrirlo?[n][f 1 6 65535][e]
 
 [msg AKECHI_TREASURE_FIND_3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 28329]斡He aqu胤! 斡Una cofre del tesoro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 28329]斡He aqu胤! 斡Un cofre del tesoro![n][f 1 6 65535][e]
 
 [msg AKECHI_CHECK_WALL_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 28330]夷Hm? 夷Eso es...?[n][f 1 6 65535][e]

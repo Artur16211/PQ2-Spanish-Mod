@@ -62,10 +62,10 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13326]Escaleras... El siguiente piso est茨[n]adelante.[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13327]Una cofre del tesoro... 夷Vamos?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13327]Un cofre del tesoro... 夷Vamos?[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 13328]Hm. Hay una cofre del tesoro.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 13328]Hm. Hay un cofre del tesoro.[n][f 1 6 65535][e]
 
 [msg MITURU_TREASURE_FIND_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 13329]Hay un tesoro adelante.[n][f 1 6 65535][e]

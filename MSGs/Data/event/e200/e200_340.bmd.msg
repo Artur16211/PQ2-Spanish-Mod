@@ -20,7 +20,7 @@
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 1][f 3 1 1 0 0 0]夷Qu姻 dices, Chie?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Eh? 斡夷Y-Yo?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Eh? 斡夷Y-yo?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Vamos, 夷deber胤a ser alguien que... se[n]vea m茨s delicioso que yo?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Teddie]]
@@ -72,7 +72,7 @@
 
 [msg MSG_022 [Chie]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 1][f 4 6 4 10 0 1][f 3 1 1 0 0 4056][f 6 1 2 0 0 0]夷Eh?[n][f 1 3 65535][f 1 1][e]
-[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]N-No vamos a llegar tan lejos, 夷verdad?[n]Je, je, je...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]N-no vamos a llegar tan lejos, 夷verdad?[n]Je, je, je...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 6 0 6][f 3 1 1 0 0 0]Mm, no lo tomes en serio, Estoy segura[n]de que simplemente Joker est茨...[n]bromeando.[n][f 1 3 65535][f 1 1][e]

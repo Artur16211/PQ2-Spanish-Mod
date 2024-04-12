@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]斡Qu姻 terrible! 斡Me asegurar姻 de mantener[n]tus mejillas en su lugar, Futaba![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 1 0 1][f 4 6 70 10 0 3][f 3 1 1 0 0 26061][f 6 1 2 0 0 0]斡夷Q-Qu姻?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 9 1 0 1][f 4 6 70 10 0 3][f 3 1 1 0 0 26061][f 6 1 2 0 0 0]斡夷Q-qu姻?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 0]Sus patas son... esponjosas, pero a la[n]vez un poco regordetas...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 0]夷Acaso percibo un agradable aroma de[n]suavizante de telas?[n][f 1 3 65535][f 1 1][e]
 

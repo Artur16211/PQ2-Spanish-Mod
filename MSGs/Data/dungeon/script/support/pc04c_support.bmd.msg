@@ -98,7 +98,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]Puede que haya propiedades desconocidas[n]en la pared que est茨 adelante.[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_DEAD_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21351]斡夷C-Chicos?! 夷Est茨n bien?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21351]斡夷C-chicos?! 夷Est茨n bien?[n][f 1 6 65535][e]
 
 [msg THEODOR_PARTY_DEAD_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21355]Por favor, considera regresar aqu胤.[n][f 1 6 65535][e]
@@ -182,7 +182,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21356]斡Todo el mundo, un trabajo incre胤ble,[n]de verdad![n][f 1 6 65535][e]
 
 [msg THEODOR_1PERSON_HP80_2]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 21358]斡夷H-Hermana?!, 斡por favor abstente de[n]agitar los brazos as胤![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 21358]斡夷H-hermana?!, 斡por favor abstente de[n]agitar los brazos as胤![n][f 1 6 65535][e]
 
 [msg THEODOR_1PERSON_HP80_3]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 21347]夷Hermana? Tal vez ser胤a mejor que[n]guardes tu baile de alegr胤a para ti misma...[n][f 1 6 65535][e]

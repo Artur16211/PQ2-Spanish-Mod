@@ -62,7 +62,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4326]斡Podemos seguir! 斡Y deber胤amos![n][f 1 6 65535][e]
 
 [msg CHIE_TREASURE_FIND_1]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 4327]斡Veo una cofre del tesoro![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 4327]斡Veo un cofre del tesoro![n][f 1 6 65535][e]
 
 [msg CHIE_TREASURE_FIND_2]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4328]斡Un cofre del tesoro![n][f 1 6 65535][e]

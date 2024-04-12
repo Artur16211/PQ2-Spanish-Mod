@@ -50,7 +50,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59382]Trata de usar el viento a tu favor,[n]quiz茨s puedas aumentar tu movimiento.[n][f 1 6 65535][e]
 
 [msg JUSTINE_KYOUHU_REACTION__3]
-[f 0 5 65278][f 2 1][f 3 1 1 0 0 59383]夷E-Est茨s bien...?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 59383]夷E-est茨s bien...?[n][f 1 6 65535][e]
 
 [msg JUSTINE_STAIR_FIND_1]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 59309]Parece ser uno. Por favor, confirmalo.[n][f 1 6 65535][e]

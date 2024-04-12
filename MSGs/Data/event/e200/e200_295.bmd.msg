@@ -36,7 +36,7 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 23 12 1 1][f 3 1 1 0 0 23106][f 6 1 2 0 0 6]Joker, 斡activa el interruptor! Espero[n]que funcione esta vez...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_011 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 8 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷F-Funcion吋...?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 8 1 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]夷F-funcion吋...?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 2 100 1][f 3 1 1 0 0 26544]斡Misi吋n completa, chicos! El objetivo[n]ha sido capturado.[n][f 1 3 65535][f 1 1][e]

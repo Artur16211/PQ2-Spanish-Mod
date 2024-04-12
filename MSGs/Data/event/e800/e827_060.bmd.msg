@@ -37,7 +37,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]斡Si es demasiado para ti, te frotar姻 la[n]espalda! 斡Si te desmayas, ser姻 el tipo que[n]te llevar茨![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [P4 Hero]]
-[f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]G-Great...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 1 6 0 0][f 1 5][f 6 1 14 0 0 0]　[n][f 3 1 1 0 0 0]G-great...[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 9]Eso es lo que esperan de m胤, 夷eh?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [P3 Hero]]

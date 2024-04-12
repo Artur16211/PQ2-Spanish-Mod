@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 64 10 0 3][f 6 1 3 0 0 3][f 3 1 1 0 0 0]La mano de Ryuji atraves吋 la pantalla...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Ryuji]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 65 18 1 0][f 3 1 1 0 0 1]斡夷M-Mi mano?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 65 18 1 0][f 3 1 1 0 0 1]斡夷M-mi mano?![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]斡Mi mano entr吋 EN la pantalla![n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]Esto acaba de pasar... 斡夷Verdad?![n][f 1 3 65535][f 1 1][e]
 
@@ -63,7 +63,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 0 4 1][f 3 1 1 0 0 22]斡Est茨 bien! ¡Todo el mundo, prepárense! 3, 2, 1...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 8 2 0][f 3 1 1 0 0 23][f 6 1 2 0 0 6]斡E-Espera![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 8 2 0][f 3 1 1 0 0 23][f 6 1 2 0 0 6]斡E-espera![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_020 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 24][f 6 1 2 0 0 0]斡Whoa! ¡夷Qu姻 pasa ahora?![n][f 1 3 65535][f 1 1][e]

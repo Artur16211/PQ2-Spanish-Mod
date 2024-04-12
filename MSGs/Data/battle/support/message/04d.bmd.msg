@@ -524,7 +524,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57315]夷Eso significa que es peligroso?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_175]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57311]E-Ese parece fuerte... 夷Est茨n todos[n]bien?[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57311]E-ese parece fuerte... 夷Est茨n todos[n]bien?[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_176]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57316]斡De acuerdo! 斡No lo olvidar姻![n][f 1 6 65535][e]
@@ -551,7 +551,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57320]*jadeo* 斡Esto no se ve bien![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_184]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57321]U-Um... Si parece peligroso, deber胤amos[n]huir.[n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57321]U-um... Si parece peligroso, deber胤amos[n]huir.[n][f 1 6 65535][e]
 
 [msg BTL_MES_026_185]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57322]Um... Nunca hab胤amos visto ese antes.[n][f 1 6 65535][e]
@@ -563,7 +563,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57324]斡Ah! 斡Estamos bajo ataque![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_188]
-[f 0 5 65278][f 2 1][f 3 1 3 0 0 57325]斡T-Ten cuidado![n][f 1 6 65535][e]
+[f 0 5 65278][f 2 1][f 3 1 3 0 0 57325]斡T-ten cuidado![n][f 1 6 65535][e]
 
 [msg BTL_MES_026_189]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 57326]斡Esto deber胤a ser f茨cil![n][f 1 6 65535][e]

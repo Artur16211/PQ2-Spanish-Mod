@@ -23,7 +23,7 @@
 [f 0 5 65278][f 2 1][f 4 6 40 15 1 0][f 3 1 1 0 0 10]Aun as胤, yo... Soy un error viviente,[n]causando problemas a los dem茨s...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 8 2 1][f 3 1 1 0 0 11][f 6 1 2 0 0 10]斡E-Eso no es verdad! 斡La individualidad[n]no es un error![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 8 2 1][f 3 1 1 0 0 11][f 6 1 2 0 0 10]斡E-eso no es verdad! 斡La individualidad[n]no es un error![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Hikari De Instituto]]
 [f 0 5 65278][f 2 1][f 4 6 40 0 0 0][f 3 1 1 0 0 12]Todos dicen que soy rara... Dicen que[n]llamarlo "individualidad" es solo una[n]excusa...[n][f 1 3 65535][f 1 1][e]
@@ -96,7 +96,7 @@
 [f 0 5 65278][f 2 1][f 4 6 58 2 1 0][f 3 1 1 0 0 39][f 6 1 1 0 0 1][f 6 1 2 0 0 1]斡Eres un erroooooooooooooor![n][f 1 3 65535][f 1 2 100][f 1 1][e]
 
 [msg MSG_027 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 4 0 0][f 3 1 1 0 0 40][f 6 1 2 0 0 6]斡N-Nooo![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 4 0 0][f 3 1 1 0 0 40][f 6 1 2 0 0 6]斡N-nooo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Chie]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 4 4 0 1][f 3 1 1 0 0 41]斡No podemos dejar que eso suceda![n][f 1 3 65535][f 1 1][e]

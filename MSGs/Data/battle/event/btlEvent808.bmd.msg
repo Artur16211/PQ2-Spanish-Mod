@@ -3,7 +3,7 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 512][f 6 1 3 0 0 2]Si su soluci吋n, determinaci吋n y creencias[n]son como dicen... 斡Entonces[n]demu姻strenlo![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 513][f 6 1 2 0 0 10]斡E-Estoy percibiendo un poder enorme![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 513][f 6 1 2 0 0 10]斡E-estoy percibiendo un poder enorme![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 8][f 3 1 3 0 0 514][f 6 1 2 0 0 6]Es un oponente extremadamente poderoso...[n]斡Por favor, tengan cuidado![n][f 1 3 65535][f 1 1][e]
@@ -34,13 +34,13 @@
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 525][f 6 1 3 0 0 2]Si no te hubieras aferrado a la esperanza...[n]no te habr胤as perdido.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 526][f 6 1 2 0 0 0]斡E-Espera! 斡夷Qu姻 acabas de decir?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 26 2 99 7][f 3 1 3 0 0 526][f 6 1 2 0 0 0]斡E-espera! 斡夷Qu姻 acabas de decir?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 528][f 6 1 3 0 0 2]夷Te das cuenta ahora? Los humanos son[n]realmente d姻biles.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 18 6 3][f 3 1 3 0 0 529]斡E-Esto no puede ser![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 18 6 3][f 3 1 3 0 0 529]斡E-esto no puede ser![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043_5 [Enlil]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 563][f 6 1 3 0 0 2]夷Te das cuenta ahora? Los humanos son[n]realmente d姻biles.[n][f 1 3 65535][f 1 1][e]
@@ -54,7 +54,7 @@
 [f 0 5 65278][f 2 1][f 4 6 14 0 100 0][f 3 1 3 0 0 560]斡Chicos![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 3 0 0 533]A-Ah...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 12 2 0][f 3 1 3 0 0 533]A-ah...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 0 99 4][f 3 1 3 0 0 531][f 6 1 2 0 0 1]No puede ser... 斡Chicos![n][f 1 3 65535][f 1 1][e]
@@ -63,13 +63,13 @@
 [f 0 5 65278][f 2 1][f 4 6 14 6 100 1][f 3 1 3 0 0 530]No... No estoy obteniendo lecturas...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 0 99 0][f 3 1 3 0 0 562]夷P-Perdimos?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 0 99 0][f 3 1 3 0 0 562]夷P-perdimos?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 10 6 3][f 3 1 3 0 0 567][f 6 1 2 0 0 6]斡N-Nnh![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 81 10 6 3][f 3 1 3 0 0 567][f 6 1 2 0 0 6]斡N-nnh![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 0 99 0][f 3 1 3 0 0 568]斡H-Hikari![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 0 99 0][f 3 1 3 0 0 568]斡H-hikari![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Fuuka]]
 [f 0 5 65278][f 2 1][f 4 6 14 0 99 4][f 3 1 3 0 0 534]Hikari…[n][f 1 3 65535][f 1 1][e]
@@ -172,7 +172,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 6 8][f 3 1 3 0 0 590]斡Por favor, lev茨ntense![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 3 0 0 0]N-Nngh...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 22 0 0 0][f 3 1 3 0 0 0]N-nngh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 3 0 0 0]Aagh...[n][f 1 3 65535][f 1 1][e]
@@ -235,7 +235,7 @@
 [f 0 5 65278][f 2 1][f 4 6 17 0 0 0][f 3 1 3 0 0 0]*quejido*[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 3 0 0 0]N-Nngh...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 15 0 0 0][f 3 1 3 0 0 0]N-nngh...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [P3 Protag]]
 [f 0 5 65278][f 2 1][f 4 6 2 0 0 0][f 3 1 3 0 0 0]Nngh...[n][f 1 3 65535][f 1 1][e]

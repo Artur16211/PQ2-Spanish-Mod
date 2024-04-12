@@ -155,7 +155,7 @@
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35008]MI PROGRAMA HA DETERMINADO QUE DEBO[n]DECLINAR EDUCADAMENTE.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_048 [Teddie]]
-[f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 9136][f 6 1 2 0 0 6]Q-Qu姻 cruel... 斡Todo este pelaje... sin[n]amor![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 6 0 0][f 3 1 1 0 0 9136][f 6 1 2 0 0 6]Q-qu姻 cruel... 斡Todo este pelaje... sin[n]amor![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_049 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 4][f 3 1 1 0 0 0]Claramente ten胤as tus motivos, no importa[n]lo que digas.[n][f 1 3 65535][f 1 1][e]

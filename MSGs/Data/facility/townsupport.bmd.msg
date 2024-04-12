@@ -506,13 +506,13 @@
 [f 0 5 65278][f 2 1]斡Guau, vives en el segundo piso de un[n]caf姻![n][f 1 2 120][e]
 
 [msg town_bg02_HIKARI_mes01]
-[f 0 5 65278][f 2 1]U-Um... Bueno...[n][f 1 2 50][e]
+[f 0 5 65278][f 2 1]U-um... Bueno...[n][f 1 2 50][e]
 
 [msg town_bg02_HIKARI_mes02]
-[f 0 5 65278][f 2 1]Y-Yo... um...[n][f 1 2 40][e]
+[f 0 5 65278][f 2 1]Y-yo... um...[n][f 1 2 40][e]
 
 [msg town_bg02_HIKARI_mes03]
-[f 0 5 65278][f 2 1]夷Eh? 斡E-En serio![n][f 1 2 50][e]
+[f 0 5 65278][f 2 1]夷Eh? 斡E-en serio![n][f 1 2 50][e]
 
 [msg town_bg02_NAGI_mes01]
 [f 0 5 65278][f 2 1]Oh... *risa*[n][f 1 2 45][e]
@@ -593,7 +593,7 @@
 [f 0 5 65278][f 2 1]Creo que hay un poco podemos hacer en[n]este caso...[n][f 1 2 130][e]
 
 [msg town_bg03_KUMA_mes01]
-[f 0 5 65278][f 2 1]Nooo... M-Mis se me est茨n durmiendo[n]las piernas...[n][f 1 2 90][e]
+[f 0 5 65278][f 2 1]Nooo... M-mis se me est茨n durmiendo[n]las piernas...[n][f 1 2 90][e]
 
 [msg town_bg03_KUMA_mes02]
 [f 0 5 65278][f 2 1]Si miras tanto... me pica todo...[n][f 1 2 120][e]
@@ -638,10 +638,10 @@
 [f 0 5 65278][f 2 1]Folletos... 夷Tal vez deber胤a leerlos[n]m茨s tarde tambi姻n?[n][f 1 2 100][e]
 
 [msg town_bg05_HIKARI_mes02]
-[f 0 5 65278][f 2 1]S-S胤... lo estar姻 esperando.[n][f 1 2 65][e]
+[f 0 5 65278][f 2 1]S-s胤... lo estar姻 esperando.[n][f 1 2 65][e]
 
 [msg town_bg05_TEO_mes01]
-[f 0 5 65278][f 2 1]斡S-S胤! 斡Ahora mismo![n][f 1 2 75][e]
+[f 0 5 65278][f 2 1]斡S-s胤! 斡Ahora mismo![n][f 1 2 75][e]
 
 [msg town_bg05_RYUJI_mes01]
 [f 0 5 65278][f 2 1]Vamos a correr mucho, as胤 que tenemos[n]que mantener los niveles de az雨car altos.[n][f 1 2 125][e]
@@ -680,7 +680,7 @@
 [f 0 5 65278][f 2 1]Las palomitas est茨n bien, pero me[n]gustar胤a tener comida de verdad...[n][f 1 2 140][e]
 
 [msg town_bg06_YUSUKE_mes02]
-[f 0 5 65278][f 2 1]斡夷Q-Qu姻 es esto?! 斡Est茨 delicioso![n][f 1 2 70][e]
+[f 0 5 65278][f 2 1]斡夷Q-qu姻 es esto?! 斡Est茨 delicioso![n][f 1 2 70][e]
 
 [msg town_bg06_YUSUKE_mes03]
 [f 0 5 65278][f 2 1]Barras de prote胤na... 夷Estos tambi姻n[n]est茨n dentro del poder de Theodore?[n][f 1 2 145][e]
@@ -755,7 +755,7 @@
 [f 0 5 65278][f 2 1]斡Whoaaaaa! 斡Qu姻 bien![n][f 1 2 80][e]
 
 [msg town_bg08_FUTABA_mes02]
-[f 0 5 65278][f 2 1]H-Hola, Naoto. 斡Estamos comparando los[n]datos de Ribbon![n][f 1 2 115][e]
+[f 0 5 65278][f 2 1]H-hola, Naoto. 斡Estamos comparando los[n]datos de Ribbon![n][f 1 2 115][e]
 
 [msg town_bg08_HARU_mes01]
 [f 0 5 65278][f 2 1]Fuuka, gracias por todo tu preciso[n]apoyo.[n][f 1 2 125][e]

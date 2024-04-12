@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 22]Hay una puerta ah胤. 夷Por qu姻 no intentamos explorar fuera el cine primero?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 6 0 0][f 3 1 1 0 0 23][f 6 1 2 0 0 10]S-S胤... Lo siento, todo esto me est茨 alterando.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 6 0 0][f 3 1 1 0 0 23][f 6 1 2 0 0 10]S-s胤... Lo siento, todo esto me est茨 alterando.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 1][f 3 1 1 0 0 24]斡Tengo muchas preguntas, pero encontrar a Haru y Makoto es lo primero![n][f 1 3 65535][f 1 1][e]

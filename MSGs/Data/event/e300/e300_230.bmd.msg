@@ -214,7 +214,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 13 2 0][f 3 1 1 0 0 10060][f 6 1 2 0 0 0]斡夷Quieres ir primero, Ken?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 6 1 0][f 3 1 1 0 0 0]斡S-S姻 que puedo hacerlo! Estar姻 bien...[n]mientras no mire hacia abajo.[n][f 1 2 100][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 16 6 1 0][f 3 1 1 0 0 0]斡S-s姻 que puedo hacerlo! Estar姻 bien...[n]mientras no mire hacia abajo.[n][f 1 2 100][f 1 1][e]
 
 [msg MSG_066 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 10 14 2 3][f 4 6 22 2 2 6][f 3 1 1 0 0 22041]斡夷Podemos ir despacio? Es aterrador,[n]as胤 que tal vez deber胤a cerrar los ojos…[n][f 1 3 65535][f 1 1][e]
@@ -409,7 +409,7 @@
 [f 0 5 65278][f 2 1][f 4 6 25 2 0 3][f 3 1 1 0 0 25074]Excelente, Mona, otra respuesta correcta.[n]Eres el 雨ltimo, Hanamura.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_124 [Yosuke]]
-[f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3092][f 6 1 2 0 0 10]B-Bien... 斡Hora de mostrar mis habilidades[n]como jefe de operaciones![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 4 0 1][f 3 1 1 0 0 3092][f 6 1 2 0 0 10]B-bien... 斡Hora de mostrar mis habilidades[n]como jefe de operaciones![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_125 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19077]Rel茨jate, Yosuke. Estarás bien si te dejas llevar.[n][f 1 3 65535][f 1 1][e]

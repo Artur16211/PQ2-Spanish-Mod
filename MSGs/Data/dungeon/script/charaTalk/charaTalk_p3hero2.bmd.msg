@@ -79,7 +79,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]　　[n][f 3 1 1 0 0 19069]S胤, qui姻n sabe qu姻 podr胤a salir a[n]atacarnos.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
-[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]　　[n][f 3 1 1 0 0 19066]M-Me tomaron completamente desprevenida...[n]夷Est茨n bien?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]　　[n][f 3 1 1 0 0 19066]M-me tomaron completamente desprevenida...[n]夷Est茨n bien?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 27 0 0 0]　　[n][f 3 1 1 0 0 19020]Este lugar est茨 lleno de sombras. 夷Qu姻[n]hacemos?[n][f 1 3 65535][f 1 1][e]

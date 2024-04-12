@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 12 0 1][f 3 1 1 0 0 40][f 6 1 2 0 0 4]Espera... Futaba, 夷puedes apoyarnos fuera de la pel胤cula?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Futaba]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 14 1 0][f 3 1 1 0 0 41]C-Claro, mm... creo que puedo manejarlo...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 70 14 1 0][f 3 1 1 0 0 41]C-claro, mm... creo que puedo manejarlo...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 66 0 0 6][f 3 1 1 0 0 42]Espera, no podemos dejar a Futaba aqu胤 sola...[n][f 1 3 65535][f 1 1][e]
@@ -180,7 +180,7 @@
 [f 0 5 65278][f 2 1][f 4 6 66 12 0 6][f 3 1 1 0 0 62]Bien. T雨 tambi姻n mantente a salvo, Morgana.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Hikari]]
-[f 0 5 65278][f 2 1][f 6 1 2 0 0 6][f 4 7 0 0 0][f 4 6 81 8 2 1][f 3 1 1 0 0 63]...斡E-Esperen![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 6][f 4 7 0 0 0][f 4 6 81 8 2 1][f 3 1 1 0 0 63]...斡E-esperen![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 12 0 0][f 3 1 1 0 0 64]夷Hay algo m茨s?[n][f 1 3 65535][f 1 1][e]
@@ -241,7 +241,7 @@
 [f 0 5 65278][f 2 1][f 4 6 65 10 0 0][f 3 1 1 0 0 81][f 6 1 2 0 0 0]斡Mierda! ¡Nos descubri吋![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_073 [Ann]]
-[f 0 5 65278][f 2 1][f 4 6 66 6 1 0][f 3 1 1 0 0 82][f 6 1 2 0 0 10]B-Bueno... sobre lo del Ladrones Fantasma...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 66 6 1 0][f 3 1 1 0 0 82][f 6 1 2 0 0 10]B-bueno... sobre lo del Ladrones Fantasma...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Nagi]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 84 12 0 0][f 3 1 1 0 0 83]夷Es de un caso criminal reciente? ¿O tal vez alguna nueva pel胤cula sobre crímenes que a雨n no he oído?[n][f 1 3 65535][f 1 1][e]

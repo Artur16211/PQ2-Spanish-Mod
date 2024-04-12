@@ -75,13 +75,13 @@
 [f 0 5 65278][f 2 1][f 6 1 3 0 0 2][f 0 6 255 255]斡La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha surgido[n]del mar de tu alma![n][f 1 1][e]
 
 [msg combine_accident [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 3 1 1 0 0 58206]Eso no estaba exactamente en el plan...[n]B-Bueno, 斡no es nuestro problema![n][f 1 2 133][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 3 1 1 0 0 58206]Eso no estaba exactamente en el plan...[n]B-bueno, 斡no es nuestro problema![n][f 1 2 133][f 1 1][e]
 
 [msg combine_fool_accident [Margaret]]
 [f 0 5 65278][f 2 1]Bien, bien... Esto es un "Comod胤n".[n][f 1 1][e]
 
 [msg combine_accident_Ex [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 3 1 1 0 0 58206]Eso no estaba exactamente en el plan...[n]B-Bueno, 斡no es nuestro problema![n][f 1 2 149][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 3 1 1 0 0 58206]Eso no estaba exactamente en el plan...[n]B-bueno, 斡no es nuestro problema![n][f 1 2 149][f 1 1][e]
 
 [msg combine_fool_accident_Ex [Elizabeth]]
 [f 0 5 65278][f 2 1]Vaya... Esto es un "Comod胤n".[n][f 1 1][e]
@@ -559,7 +559,7 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255]Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡Puedes contar[n]conmigo! Me asegurar姻 de que ganemos...[n][f 1 2 60][f 1 1][e]
 
 [msg msg_combine_MESSAGE029 [1]]
-[f 0 5 65278][f 2 1][f 0 6 255 255]Y-Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]! 斡Yo sOy uNo[n]COnTiGo![n][f 1 2 60][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255]Y-yo soy [f 0 1 1][f 2 4 1][f 0 1 0]! 斡Yo sOy uNo[n]COnTiGo![n][f 1 2 60][f 1 1][e]
 
 [msg msg_combine_MESSAGE030 [1]]
 [f 0 5 65278][f 2 1][f 0 6 255 255]YO SOY [f 0 1 1][f 2 4 1][f 0 1 0]. Es un placer[n]conocerte...[n][f 1 2 60][f 1 1][e]

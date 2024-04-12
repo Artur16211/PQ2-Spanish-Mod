@@ -123,7 +123,7 @@
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 10]Ah, cierto, ya me conoces. Lo olvid姻...[n]Lo siento.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Ken]]
-[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 4][f 4 6 16 12 0 1][f 3 1 1 0 0 16009]U-Um... 夷Koromaru y yo podr胤amos tener[n]tambi姻n nombres clave?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 17 1 0 4][f 4 6 16 12 0 1][f 3 1 1 0 0 16009]U-um... 夷Koromaru y yo podr胤amos tener[n]tambi姻n nombres clave?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]Amada lleva una lanza, as胤 que quiz茨s...[n]夷Lanzador? 夷Es demasiado simple?[n][f 1 3 65535][f 1 1][e]

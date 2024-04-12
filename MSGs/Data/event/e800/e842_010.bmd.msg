@@ -10,7 +10,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 12 0 4][f 3 1 1 0 0 61185]Ahora que lo pienso, hab胤a mucho en mi[n]pel胤cula. Todos eran tan hermosos...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chie]]
-[f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 4010]S-Same aqu胤... Pero creo que puedo manejar[n]mariposas.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 4010]S-same aqu胤... Pero creo que puedo manejar[n]mariposas.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 3][f 3 1 1 0 0 0]夷As胤 que tenemos que ir a coger una mariposa?[n]夷Un espec胤fico o alguno de ellos?[n][f 1 3 65535][f 1 1][e]

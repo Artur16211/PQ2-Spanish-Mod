@@ -6,7 +6,7 @@
 [f 0 5 65278][f 2 1][f 4 6 74 4 100 3][f 3 1 1 0 0 0]Ese atuendo sospechoso... 斡Alto ah胤! 斡Te[n]cortar姻 donde est茨s![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Theodore]]
-[f 0 5 65278][f 2 1][f 4 6 80 10 0 1][f 3 1 1 0 0 56052]S-Sister, por favor. Soy yo, Theodore.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 80 10 0 1][f 3 1 1 0 0 56052]S-sister, por favor. Soy yo, Theodore.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Elizabeth]]
 [f 0 5 65278][f 2 1][f 4 6 74 12 100 3][f 3 1 1 0 0 54023]夷Hm?[n][f 1 3 65535][f 1 1][e]
@@ -55,7 +55,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Por lo tanto, incluso si ambas pel胤culas[n]contienen el mismo tipo de dispositivo,[n]pueden estar hechas de materiales completamente[n]diferentes.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Ryuji]]
-[f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 21093]R-Right... Entonces... 夷 f胤sica?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 21093]R-right... Entonces... 夷 f胤sica?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 70 12 0 3][f 3 1 1 0 0 0]Mmm... Est茨n sintonizando a los normies para[n]que puedan hablar geek unos con otros.[n][f 1 3 65535][f 1 1][e]

@@ -14,7 +14,7 @@
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 5]Mmm, lo hice.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 6][f 6 1 2 0 0 4]Eh, O-Oye, Hikari... 夷Qu姻 opinas al[n]respecto?[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 4 1 0][f 3 1 1 0 0 6][f 6 1 2 0 0 4]Eh, O-oye, Hikari... 夷Qu姻 opinas al[n]respecto?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 7]Um...[n][f 1 3 65535][f 1 1][e]
@@ -27,7 +27,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 10]La pel胤cula fue realmente... maravillosa.[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Futaba]]
-[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 0]斡夷E-En serio?![n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 70 6 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 0]斡夷E-en serio?![n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 81 4 2 0][f 3 1 1 0 0 12]Mmm... De verdad.[n][f 1 3 65535][f 1 1][e]
@@ -117,7 +117,7 @@
 [f 0 5 65278][f 2 1][f 4 6 71 10 0 0][f 3 1 1 0 0 45][f 6 1 2 0 0 0]Su expresi吋n... 夷Est茨 a punto de soltar[n]otra llave?[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 46]A-Ah...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 0 2 0][f 3 1 1 0 0 46]A-ah...[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 10 3 6][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 47]Hikari, ven![n][f 1 3 65535][f 1 1][e]
