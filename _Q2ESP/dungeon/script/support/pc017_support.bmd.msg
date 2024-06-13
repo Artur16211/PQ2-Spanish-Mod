@@ -1,0 +1,297 @@
+[msg MONA_FOE_FOLLOW_START_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23300]斡El FOE nos vio![n][f 1 6 65535][e]
+
+[msg MONA_FOE_FOLLOW_START_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23301]斡El grande nos vio![n][f 1 6 65535][e]
+
+[msg MONA_FOE_FOLLOW_START_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23302]斡Eh-oh, nos est茨 persiguiendo![n][f 1 6 65535][e]
+
+[msg MONA_FOE_NEAR_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23303]斡Hay un FOE cerca![n][f 1 6 65535][e]
+
+[msg MONA_FOE_NEAR_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23304]斡Es un FOE![n][f 1 6 65535][e]
+
+[msg MONA_FOE_NEAR_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23305]斡FOE! 斡Atr茨s![n][f 1 6 65535][e]
+
+[msg MONA_FOE_FOLLOW_END_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23306]Muy bien, escapamos.[n][f 1 6 65535][e]
+
+[msg MONA_FOE_FOLLOW_END_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23307]Uf, parece que logramos escapar.[n][f 1 6 65535][e]
+
+[msg MONA_FOE_FOLLOW_END_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23308]Uf, eso me mantuvo alerta...[n][f 1 6 65535][e]
+
+[msg MONA_KANSI_REACTION_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23369]Presta atenci吋n a su movimiento.[n][f 1 6 65535][e]
+
+[msg MONA_KANSI_REACTION_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23370]Mant姻n la calma mientras avanzas.[n][f 1 6 65535][e]
+
+[msg MONA_KANSI_REACTION_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23371]Escucha. Tenemos que hacer esto con[n]cuidado.[n][f 1 6 65535][e]
+
+[msg MONA_DENKISAKU_REACTION_]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23372]Mew... Me est茨 erizando el pelaje...[n][f 1 6 65535][e]
+
+[msg MONA_DENKISAKU_REACTION__2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23373]夷Qu姻 hacemos?[n][f 1 6 65535][e]
+
+[msg MONA_DENKISAKU_REACTION__3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23374]No lo toques, esta cosa es peligrosa.[n][f 1 6 65535][e]
+
+[msg MONA_KYOUHU_REACTION_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23375]斡夷Miau?![n][f 1 6 65535][e]
+
+[msg MONA_KYOUHU_REACTION_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23376]斡Whoa! 斡Este viento![n][f 1 6 65535][e]
+
+[msg MONA_KYOUHU_REACTION_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23377]斡Whoa![n][f 1 6 65535][e]
+
+[msg MONA_STAIR_FIND_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23324]斡Un camino se abre![n][f 1 6 65535][e]
+
+[msg MONA_STAIR_FIND_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23325]斡Muy bien, un nuevo camino![n][f 1 6 65535][e]
+
+[msg MONA_STAIR_FIND_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23326]Vamos a seguir, 夷verdad, Joker?[n][f 1 6 65535][e]
+
+[msg MONA_TREASURE_FIND_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23327]Ooh, 斡Tesoro![n][f 1 6 65535][e]
+
+[msg MONA_TREASURE_FIND_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23328]斡Oye, veo un tesoro![n][f 1 6 65535][e]
+
+[msg MONA_TREASURE_FIND_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23329]斡Mrowroooow! 斡Tesoro![n][f 1 6 65535][e]
+
+[msg MONA_CHECK_WALL_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23330]Esto parece sospechoso.[n][f 1 6 65535][e]
+
+[msg MONA_CHECK_WALL_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23331]Debe haber algo aqu胤.[n][f 1 6 65535][e]
+
+[msg MONA_CHECK_WALL_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23332]Hay algo aqu胤...[n][f 1 6 65535][e]
+
+[msg MONA_SWITCH_FIND_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23333]夷Los interruptores no te dan ganas de[n]usarlos?[n][f 1 6 65535][e]
+
+[msg MONA_SWITCH_FIND_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23334]Mira, un interruptor.[n][f 1 6 65535][e]
+
+[msg MONA_SWITCH_FIND_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23335]Un interruptor, 夷eh? 斡Ten cuidado![n][f 1 6 65535][e]
+
+[msg MONA_SHORTCUT_FIND_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23336]Parece que podemos tomar un atajo.[n][f 1 6 65535][e]
+
+[msg MONA_SHORTCUT_FIND_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23337]斡Creo que podemos tomar un atajo![n][f 1 6 65535][e]
+
+[msg MONA_SHORTCUT_FIND_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23338]夷Crees que podemos pasar por ah胤?[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_DEAD_1]
+[f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_DEAD_2]
+[f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_DEAD_3]
+[f 0 5 65278][f 2 1]?[n][f 1 6 65535][e]
+
+[msg MONA_FOE_WARNING_NEAR_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23309]斡El FOE todav胤a nos persigue![n][f 1 6 65535][e]
+
+[msg MONA_FOE_WARNING_NEAR_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23310]斡FOE! 斡Aqu胤 viene![n][f 1 6 65535][e]
+
+[msg MONA_FOE_WARNING_NEAR_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23311]No bajes la guardia. 斡Todav胤a nos sigue![n][f 1 6 65535][e]
+
+[msg MONA_PARTY_HPTP10_1]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_HPTP10_2]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_HPTP10_3]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_HP10_1]
+[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_HP10_2]
+[f 0 5 65278][f 2 1]◆CONT威CTELO 10% DE LA VISTA[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_HP10_3]
+[f 0 5 65278][f 2 1]◆CONTINUAR LA B郁SQUEDA DE LA LUZ[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HPTP10_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23312]No me des por vencido a雨n... Nngh...[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HPTP10_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23313]Oye, 夷por qu姻 no tomamos un descanso...?[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HPTP10_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23314]Esto es malo...[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_TP10_1]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_TP10_2]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+
+[msg MONA_PARTY_TP10_3]
+[f 0 5 65278][f 2 1]■ CONTRASE謂A[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HP10_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23315]No creo que pueda durar mucho m茨s...[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HP10_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23316]Estoy empezando a cansarme...[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HP10_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23317]夷Alguien puede curarme?[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_TP10_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23318]No creo que pueda ir m茨s lejos...[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_TP10_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23319]Tenemos que asegurarnos de no arriesgarnos,[n]夷de acuerdo...?[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_TP10_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23320]Esto es bastante dif胤cil...[n][f 1 6 65535][e]
+
+[msg MONA_ITEM_90_BATTLE_1]
+[f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
+
+[msg MONA_ITEM_90_BATTLE_2]
+[f 0 5 65278][f 2 1]◆Recibir 90% escrito[n][f 1 6 65535][e]
+
+[msg MONA_ITEM_90_BATTLE_3]
+[f 0 5 65278][f 2 1]【justificadamente[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HP80_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23321]No olvides curarte, 夷de acuerdo?[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HP80_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23322]Bien, sigamos.[n][f 1 6 65535][e]
+
+[msg MONA_1PERSON_HP80_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23323]Vamos, chicos.[n][f 1 6 65535][e]
+
+[msg MONA_BATTLE_CHANGE_DUNGE]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
+
+[msg MONA_BATTLE_CHANGE_DUNGE_2]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4]\cHFF[f 0 1 0][n][f 1 6 65535][e]
+
+[msg MONA_BATTLE_CHANGE_DUNGE_3]
+[f 0 5 65278][f 2 1]■ト [f 0 1 4][f 0 1 0][n][f 1 6 65535][e]
+
+[msg MONA_ITEM_90_DUNGEON_1]
+[f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
+
+[msg MONA_ITEM_90_DUNGEON_2]
+[f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
+
+[msg MONA_ITEM_90_DUNGEON_3]
+[f 0 5 65278][f 2 1](DGP郁BLICA)[n][f 1 6 65535][e]
+
+[msg MONA_DUNGEON_START_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23360]斡D姻jamelo a m胤![n][f 1 6 65535][e]
+
+[msg MONA_DUNGEON_START_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23361]De acuerdo, vamos a entrar.[n][f 1 6 65535][e]
+
+[msg MONA_DUNGEON_START_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23362]斡Hag茨moslo![n][f 1 6 65535][e]
+
+[msg MONA_QUEST_START_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23363]斡Estaba esperando esto![n][f 1 6 65535][e]
+
+[msg MONA_QUEST_START_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23364]Vamos.[n][f 1 6 65535][e]
+
+[msg MONA_QUEST_START_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23365]Hora de trabajar.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_25_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23352]El mapa est茨 empezando a tomar forma.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_25_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23353]Oh, finalmente estamos empezando a[n]tener una idea de este lugar.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_50_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23354]Estamos a mitad de camino.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_50_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23355]Estamos a la mitad.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_75_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23356]Realmente tendremos que aprovecharlo[n]al m茨ximo a partir de ahora.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_75_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23357]S吋lo un poco m茨s.[n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_100_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23358]斡Ruta completada![n][f 1 6 65535][e]
+
+[msg MONA_TOUHA_100_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23359]Hemos terminado.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_ICON_ALL_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23342]No est茨 mal.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_ICON_ALL_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23343]Mmm, buen trabajo.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_ICON_KAIDAN]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23344]Ahora tenemos un camino claro.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_ICON_KAIDAN_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23345]斡Eso pasa por nuestra ruta![n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_CHANGE_COLO]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23346]Cambiar colores, 夷eh?[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_CHANGE_COLO_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23347]Ooh, Impresionante.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_ICON_DEL_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23348]Es importante ser organizado.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_ICON_DEL_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23349]夷Seguro que no necesitas eso?[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_MEMO_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23350]Ooh, buen trabajo.[n][f 1 6 65535][e]
+
+[msg MONA_MAPPING_MEMO_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23351]斡No queremos olvidar eso![n][f 1 6 65535][e]
+
+[msg MONA_DOOR_OPEN_1]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23366]Por aqu胤.[n][f 1 6 65535][e]
+
+[msg MONA_DOOR_OPEN_2]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23367]斡S胤gueme![n][f 1 6 65535][e]
+
+[msg MONA_DOOR_OPEN_3]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 23368]Vamos.[n][f 1 6 65535][e]
+
+[msg MONA_KARITORU_ENCOUNT_1]
+[f 0 5 65278][f 2 1]? ? Todav胤a no hay nada que ver[n][f 1 6 65535][e]
+
+[msg MONA_KARITORU_ENCOUNT_2]
+[f 0 5 65278][f 2 1]? ? Todav胤a no hay nada que ver[n][f 1 6 65535][e]
+
+[msg MONA_KARITORU_ENCOUNT_3]
+[f 0 5 65278][f 2 1]? ? Todav胤a no hay 姻xito[n][f 1 6 65535][e]
+
