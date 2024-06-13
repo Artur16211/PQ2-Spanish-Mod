@@ -88,8 +88,8 @@
 | Boost                  | Boost                          |                                  |
 | Binds                  | Ataduras                       |                                  |
 | Hex                    | Maldición                      |                                  |
-| Persona Film           | Persona Film                   |  # Temporal                      |
-| P-Book                 | P-Book                         |                                  |
+| Persona Film           | Cintas Persona                   |                       |
+| P-Book                 | Libro                         |                                  |
 | Front Row              | Fila Frontal                   |                                  |
 | Back Row               | Fila Trasera                   |                                  |
 | Unison Skills          | Habilidades de Unión           |                                  |
@@ -104,5 +104,5 @@
 | concession stand       | puesto de comida               |                                  |
 | Ticket                 | Entrada                        |                                  |
 | **Save** ################## | ################ | ######## |
-| suspend data           | Guardado rápido                |         
+| suspend data           | Guardado rápido/ Suspender (TEX)                |         
 | Ribbon                 | Ribbon                        |                                  |
