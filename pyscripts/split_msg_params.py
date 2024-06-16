@@ -6,7 +6,6 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-# Fixed parameters mapping
 fixparamsindialog = {
     '[f 6 1 12 0 0 0]': 'P4MCN1',
     '[f 6 1 13 0 0 0]': 'P4MCN2',
@@ -296,10 +295,7 @@ def process_all_files_in_directory(input_directory):
                 process_input_file(input_path, msg_output_path, max_length)
                 output_params(input_path, params_output_path)
 
-
-# Ruta de la carpeta principal
 input_directory = '_Q2ESP'
 # input_directory = 'Q2ESP'
 
-# Procesar todos los archivos .msg en la carpeta principal
 process_all_files_in_directory(input_directory)

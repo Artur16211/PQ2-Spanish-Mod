@@ -7,7 +7,7 @@ def only_params(text):
     # Eliminar '{dialog}' al final del texto
     modified_text = re.sub(r'\{dialog\}$', '', modified_text)
 
-    # Luego eliminamos todos los '{dialog}' excepto el último
+    # Eliminar '{dialog}' excepto el último
     final_text = re.sub(r'\{dialog\}.*\{dialog\}', '{dialog}', modified_text)
     
     return final_text

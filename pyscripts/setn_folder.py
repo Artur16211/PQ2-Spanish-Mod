@@ -5,7 +5,6 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-# Fixed parameters mapping
 fixparamsindialog = {
     '[f 6 1 12 0 0 0]': 'P4MCN1',
     '[f 6 1 13 0 0 0]': 'P4MCN2',
@@ -170,7 +169,7 @@ small_font = {
 
 
 def process_input_file(input_path, max_length):
-    output_filename = input_path  # Overwrite the original file
+    output_filename = input_path
 
     with open(input_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()

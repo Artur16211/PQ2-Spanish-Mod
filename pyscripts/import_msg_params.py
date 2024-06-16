@@ -1,7 +1,6 @@
 ﻿import os
 
 def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
-    # Create the imported directory if it doesn't exist
     os.makedirs(imported_dir, exist_ok=True)
     
     for root, dirs, files in os.walk(msgs_dir):
@@ -10,7 +9,6 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                 msg_file_path = os.path.join(root, file)
                 relative_path = os.path.relpath(root, msgs_dir)
                 
-                # Corresponding msgparams file
                 params_file_path = os.path.join(msgparams_dir, relative_path, file)
                 
                 if os.path.exists(params_file_path):
@@ -28,7 +26,6 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                                 source_line = source_lines[i].strip()
                                 destination_lines[i] = destination_line.replace("{dialog}", source_line)
                     
-                    # Write the modified lines to the new file in the imported directory
                     imported_file_path = os.path.join(imported_dir, relative_path, file)
                     os.makedirs(os.path.dirname(imported_file_path), exist_ok=True)
                     
@@ -36,11 +33,9 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                         imported_file.writelines(destination_lines)
                 else:
                     print(f"Corresponding params file not found for {msg_file_path}")
-
-# Define the directories
+                    
 msgs_dir = 'msgs'
 msgparams_dir = 'msgparamsES'
 imported_dir = 'imported'
 
-# Run the replacement process
 replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir)
