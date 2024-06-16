@@ -490,12 +490,12 @@
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58061]Si deseas copiar Personas, selecci吋nala al elegir cu茨l fusionar.[n][f 1 1][e]
 
 [msg msg_combine_HELP_RULE [Caroline]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 58001]El resultado de una fusi吋n se basa en la Arcana de las Personas utilizadas en la fusi吋n.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 12 0 1][f 3 1 1 0 0 58001]El resultado de una fusi吋n se basa en el Arcano de las Personas utilizadas en la fusi吋n.[n][f 1 1][e]
 [f 0 5 65278][f 2 1]Bueno, escuch姻 de algunas que no siguen esa regla...[n][f 1 1][e]
 
 [msg msg_combine_HELP_RULE_02 [Justine]]
-[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59042]Un ejemplo ser胤a si fusionas dos Personas de la misma Arcana.[n][f 1 1][e]
-[f 0 5 65278][f 2 1]Entendemos que si dos Personas de la misma Arcana se fusionan, el resultado tendr茨 un rango inferior.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 12 0 4][f 4 6 78 1 0 1][f 3 1 1 0 0 59042]Un ejemplo ser胤a si fusionas dos Personas del mismo Arcano.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Entendemos que si dos Personas del mismo Arcano se fusionan, el resultado tendr茨 un rango inferior.[n][f 1 1][e]
 
 [msg msg_combine_HELP_RULE_03 [Caroline]]
 [f 0 5 65278][f 2 1][f 0 6 255 255][f 4 6 79 1 0 4][f 4 6 78 0 1 1][f 3 1 1 0 0 58118]斡En cualquier caso, prueba diferentes combinaciones y desc雨brelo t雨 mismo![n][f 1 1][e]
