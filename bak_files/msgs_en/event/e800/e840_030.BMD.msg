@@ -1,0 +1,44 @@
+[msg MSG_000 [Yukari]]
+[f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 10109]Whew... We've walked quite a ways.[n]Should we take a break?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_001 [Teddie]]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 3][f 3 1 1 0 0 0]Yes! Let's all lie down! I get the spot[n]next to Yuka-chan![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_002 [Morgana]]
+[f 0 5 65278][f 2 1][f 4 6 23 4 1 1][f 3 1 1 0 0 0]Well then I get the one next to Lady[n]Ann![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_003 [Kanji]]
+[f 0 5 65278][f 2 1][f 4 6 7 4 0 6][f 3 1 1 0 0 7056]Then I'll take Mona...![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_004 [Futaba]]
+[f 0 5 65278][f 2 1][f 4 6 26 12 100 3][f 3 1 1 0 0 0][f 3 1 6 0 0 500]You're all hoping to get some pets,[n]huh? Kanji, at least the animals have an[n]excuse, for crying out loud.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_005 [Hikari]]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 25 0 0 0][f 4 6 81 6 0 1][f 3 1 1 0 0 0]......[n][f 1 3 65535][f 1 1][e]
+
+[sel SEL_006 top]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3]What's wrong?[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]You're tired, too?[f 2 7 1 20 0 32][e]
+
+[msg MSG_007 [Hikari]]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 61151]Oh, I'm fine.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]I just get a strange feeling here.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 6 0 1][f 3 1 1 0 0 0]It's oddly bright, strange... And scary.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]But for some reason, I'm kind of[n]comfortable here.[n][f 1 3 65535][f 1 1][e]
+
+[sel SEL_008 top]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 3]Well, it's your movie.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]It is a nice place.[f 2 7 1 20 0 32][e]
+
+[msg MSG_009 [Hikari]]
+[f 0 5 65278][f 2 1][f 4 6 81 0 0 1][f 3 1 1 0 0 61172]Mm-hm. Maybe this is like my second[n]home... [n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_010 [Hikari]]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 61147]*chuckle* Thank you for[n]complimenting my movie.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_011 [Hikari]]
+[f 0 5 65278][f 2 1][f 4 6 81 12 0 1][f 3 1 1 0 0 0]I wonder if this will always be here... Or[n]if it will change.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 81 1 0 1][f 3 1 1 0 0 0]......[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 81 2 0 1][f 3 1 1 0 0 0]*chuckle* Sorry for getting lost in my[n]thoughts.[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]Let's look for that fruit. We don't want[n]to keep Elizabeth waiting.[n][f 1 3 65535][f 1 1][e]
+

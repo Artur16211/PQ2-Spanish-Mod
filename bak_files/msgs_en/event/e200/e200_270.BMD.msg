@@ -1,0 +1,79 @@
+[msg MSG_000 [Ann]]
+[f 0 5 65278][f 2 1][f 4 6 22 12 0 1][f 3 1 1 0 0 1]Let's see―the reading was coming from[n]up ahead, right?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_001 [Yukiko]]
+[f 0 5 65278][f 2 1][f 4 6 5 6 1 0][f 3 1 1 0 0 2]Mmhm. If we don't hurry, that herbivore[n]might get eaten...[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_002 [Distant voice]]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 3 1 1 0 0 3][f 6 1 1 0 0 1][f 6 1 2 0 0 0][f 6 1 3 0 0 2][f 6 1 9 0 0 1]Waaaah!?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_003 [Teddie]]
+[f 0 5 65278][f 2 1][f 6 1 2 0 0 0][f 4 6 9 10 0 1][f 3 1 1 0 0 4]Wh-What was that!? It sounded like[n]someone getting squashed... Oh no,[n]don't tell me...[n][f 1 3 65535][f 1 1][e]
+
+[sel SEL_004 top]
+[f 0 5 65278][f 2 1][f 4 6 20 1 0 0]It was a ghost...[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]It was just a frog.[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Was that a carnivore!?[f 2 7 1 20 0 1][e]
+
+[msg MSG_005 [Chie]]
+[f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 5][f 6 1 2 0 0 10]H-Hey, cut it out! I mean―did ghosts[n]even exist in prehistoric times?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_006 [Teddie]]
+[f 0 5 65278][f 2 1][f 4 6 9 12 1 1][f 3 1 1 0 0 6][f 6 1 2 0 0 6]Please rest in peace... Lord, have mercy[n]on this innocent bear![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_007 [Yukiko]]
+[f 0 5 65278][f 2 1][f 4 6 5 12 0 4][f 3 1 1 0 0 7]Wait, if it's a ghost from this period,[n]then does that mean it's a dinosaur[n]ghost? Wouldn't that mean it's huge?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_007_5 [Yukiko]]
+[f 0 5 65278][f 2 1][f 4 6 5 2 1 4][f 3 1 1 0 0 8][f 6 1 2 0 0 6]Snrk... Ahahahahahaha! A-A massive,[n]lumbering ghost! Ahahahaha...![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_008 [Chie]]
+[f 0 5 65278][f 2 1][f 4 6 4 6 0 4][f 3 1 1 0 0 9][f 6 1 2 0 0 10]No no no no no! I don't wanna see[n]a squashed frog![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_009 [Teddie]]
+[f 0 5 65278][f 2 1][f 4 6 9 10 0 0][f 3 1 1 0 0 10][f 6 1 1 0 0 1][f 6 1 2 0 0 0]Wh-Whaaaaaat!?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_009_5 [Teddie]]
+[f 0 5 65278][f 2 1][f 4 6 9 14 1 0][f 3 1 1 0 0 11][f 6 1 2 0 0 6]Hraaaaaaaaah! Bring it on!!![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_010 [Futaba]]
+[f 0 5 65278][f 2 1][f 4 6 26 2 100 6][f 3 1 1 0 0 12][f 3 1 6 0 0 500]Whoa, Teddie's gonna go feral on 'em![n]Sic 'em, Teddie![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_011 [P4 Hero]]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 1 12 0 3][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 13]No, that voice was definitely―[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_012 [Panicked voice]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 14][f 6 1 1 0 0 1][f 6 1 2 0 0 10][f 6 1 3 0 0 2][f 6 1 9 0 0 1]Aaaaagh! Get awaaaay![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_013 [Teddie]]
+[f 0 5 65278][f 2 1][f 4 6 9 12 0 1][f 3 1 1 0 0 15][f 6 1 2 0 0 5]*gasp* That voice... All its kindness and[n]tenderness and pathetic-ness...[n][f 1 3 65535][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 9 2 0 0][f 3 1 1 0 0 16][f 6 1 2 0 0 1]It's Yosuke!!![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_014 [Rise]]
+[f 0 5 65278][f 2 1][f 4 6 6 4 99 4][f 3 1 1 0 0 17][f 3 1 6 0 0 500]We've finally located Yosuke-senpai![n]Looks like he's on the other side of[n]those trees![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_015 [Rise]]
+[f 0 5 65278][f 2 1][f 4 6 6 0 100 4][f 3 1 1 0 0 18]We've finally located Yosuke-senpai![n]Looks like he's just up ahead![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_016 [Kanji]]
+[f 0 5 65278][f 2 1][f 4 6 7 6 1 3][f 3 1 1 0 0 19][f 6 1 2 0 0 6]Awesome! Now that we've found him,[n]let's hurry and―[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_017 [Futaba]]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 26 2 99 1][f 3 1 6 0 0 500][f 3 1 1 0 0 20][f 6 1 2 0 0 10]Whoa, just a sec! Bad news―a giant[n]dinosaur's there, too![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_018 [Naoto]]
+[f 0 5 65278][f 2 1][f 4 6 8 10 0 0][f 3 1 1 0 0 21][f 6 1 2 0 0 0]B-But...[n][f 1 3 65535][f 1 1][e]
+
+[sel SEL_019 top]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]We have to do something...[f 2 7 1 20 0 32][e]
+[f 0 5 65278][f 2 1]Let's rush to his rescue![f 2 7 1 20 0 32][e]
+
+[msg MSG_020 [P4 Hero]]
+[f 0 5 65278][f 2 1][f 4 6 1 2 1 6][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 22][f 6 1 2 0 0 6]Yeah, we'll save him no matter what![n]Just hang in there a bit longer, Yosuke![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_021 [P4 Hero]]
+[f 0 5 65278][f 2 1][f 4 6 1 2 1 6][f 1 5][f 6 1 13 0 0 0][n][f 3 1 1 0 0 22][f 6 1 2 0 0 6]Yeah, we'll save him no matter what![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_022 [Makoto]]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 23][f 6 1 2 0 0 6]If we don't hurry, he'll be in real trouble.[n]Let's go![n][f 1 3 65535][f 1 1][e]
+

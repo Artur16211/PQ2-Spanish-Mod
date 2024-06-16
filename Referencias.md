@@ -32,7 +32,9 @@
 | Precisión              | Prec.                          |                                  |
 | Evasión                | Eva.                           |                                  |
 | Probabilidad           | Prob.                          |                                  |
-| **Arcanas** ###################### | ################ | ######## |
+| ######################## | ################ | ######## |
+| Arcana                 | Arcano                         |                                  |
+| **Arcanos** ###################### | ################ | ######## |
 | Hanged                 | Ahorcado                       |                                  |
 | Justice                | Justicia                       |                                  |
 | Magi                   | Mago                           |                                  |

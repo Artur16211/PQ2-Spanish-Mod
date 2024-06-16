@@ -1,0 +1,62 @@
+[msg MSG_000 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 8 1 1][f 3 1 1 0 0 11097][f 6 1 2 0 0 9]Ugh, I'm beat.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_000_1 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]It's a dead end, so we can take a little[n]break before heading back, right?[n][f 1 3 65535][f 1 1][e]
+
+[sel SEL_001 top]
+[f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 3]Sure, let's take a break.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]If you must.[f 2 7 1 20 2 32][e]
+[f 0 5 65278][f 2 1]Start running.[f 2 7 1 20 6 32][e]
+
+[msg MSG_002 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 2 0 0][f 3 1 1 0 0 11042][f 6 1 2 0 0 7]Aw yeah, you feel me![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_002_1 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]I bet someone as kindhearted as you's a[n]real hit with the ladies. Or maybe you're[n]already goin' steady with someone...[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_003 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 4 0 0][f 3 1 1 0 0 11058][f 6 1 2 0 0 10]You're a slavedriver, man! That won't[n]get you popular with the ladies![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_003_1 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 0]Speaking of which, how 'bout I give you[n]some pointers...?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_004 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 13 0 0 3][f 3 1 1 0 0 13034]Iori![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_005 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 11062][f 6 1 2 0 0 0]Y-Yes!?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_006 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 13092]If you've got time to chatter, then[n]you've clearly got energy to spare.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_006_1 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 13 4 0 0][f 3 1 1 0 0 13107][f 6 1 2 0 0 1]So less talking, more walking! Let's go![n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_007 [Junpei]]
+[f 0 5 65278][f 2 1][f 4 6 11 6 0 0][f 3 1 1 0 0 11097]Yes, ma'am...[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_008 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 13 4 1 3][f 3 1 1 0 0 13040]Honestly...[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_009 [Makoto]]
+[f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 25003][f 6 1 2 0 0 4]Are you okay?[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_010 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 13 6 1 0][f 3 1 1 0 0 13009]Oh, my apologies for the outburst; it's[n]just my negligence as a leader.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_010_1 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 0]He's not a bad person at heart, but he's[n]too carefree. Or maybe he just doesn't[n]know when to get serious...[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_011 [Makoto]]
+[f 0 5 65278][f 2 1][f 4 6 25 6 0 0][f 3 1 1 0 0 25076]The troubles never seem to end for us[n]older group members.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_012 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 13 2 0 0][f 3 1 1 0 0 13070]Ah, right, you're a third-year as well.[n]I'd love to chat with you at some point...[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_012_1 [Mitsuru]]
+[f 0 5 65278][f 2 1][f 4 6 25 1 0 0][f 4 6 13 12 0 0][f 3 1 1 0 0 0]But I don't want to be a hypocrite. We[n]should get going for now.[n][f 1 3 65535][f 1 1][e]
+
+[msg MSG_013]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 0]A new special screening:[n]"Those Who Stand at the Top"[n]has been added to the box office.[n][f 1 3 65535][f 1 1][e]
+
