@@ -32,8 +32,10 @@ jobs:
 
       - name: Create artifact
         run: |
-          powershell.exe Compress-Archive -Path .\MsgEditorLT\compiled -DestinationPath compiled.zip
-        working-directory: ${{ github.workspace }}
+          Set-Location -Path "${{ github.workspace }}/MsgEditorLT"
+          Compress-Archive -Path .\compiled -DestinationPath "${{ github.workspace }}/compiled.zip"
+        shell: powershell
+
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2
