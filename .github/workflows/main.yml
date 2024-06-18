@@ -1,0 +1,38 @@
+name: Run Scripts and Create Artifact
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12.4'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+
+    - name: Run setn_folder.py
+      run: python MsgEditorLT/setn_folder.py
+
+    - name: Run import_msg_params.py
+      run: python MsgEditorLT/import_msg_params.py
+
+    - name: Run compiler.py
+      run: python MsgEditorLT/compiler.py
+
+    - name: Create artifact
+      run: powershell.exe Compress-Archive -Path MsgEditorLT/compiled -DestinationPath compiled.zip
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: compiled-artifact
+        path: compiled.zip
