@@ -32,8 +32,8 @@ jobs:
 
       - name: Create artifact
         run: |
-          $sourcePath = "${{ github.workspace }}/MsgEditorLT/compiled"
-          $destinationPath = "${{ github.workspace }}/compiled.zip"
+          $sourcePath = Join-Path -Path $env:GITHUB_WORKSPACE -ChildPath "MsgEditorLT/compiled"
+          $destinationPath = Join-Path -Path $env:GITHUB_WORKSPACE -ChildPath "compiled.zip"
           
           if (Test-Path -Path $sourcePath) {
             Add-Type -AssemblyName System.IO.Compression.FileSystem
@@ -42,7 +42,8 @@ jobs:
             Write-Host "Directory '$sourcePath' not found."
             exit 1
           }
-        shell: powershell
+        shell: pwsh  # Use pwsh (PowerShell Core) as shell
+
 
 
 
