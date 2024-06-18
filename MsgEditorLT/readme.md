@@ -1,0 +1,1 @@
+﻿PQ2 Web dialogue editor created for use with the LanguageTool extension

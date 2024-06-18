@@ -1,0 +1,12 @@
+[msg MSG_NONE]
+TEST NONE
+
+[msg MSG_NEWGAME]
+TEST NEWGAME
+
+[msg MSG_CONTINUE]
+Datos cargados.
+
+[msg MSG_GAMEOVER]
+TEST GAMEOVER
+

@@ -1,0 +1,6 @@
+[msg MSG_000 [Nagi]]
+Perdieron...
+
+[msg MSG_001 [Hikari]]
+Lo sab胤a... Nadie tiene la oportunidad[n]contra el que tiene el poder...
+

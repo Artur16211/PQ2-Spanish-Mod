@@ -1,0 +1,6 @@
+[msg MSG_000 [Nagi]]
+They've lost...
+
+[msg MSG_001 [Hikari]]
+I knew it... No one has a chance against[n]whoever has the power...
+

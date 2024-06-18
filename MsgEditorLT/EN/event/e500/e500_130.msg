@@ -1,0 +1,6 @@
+[msg MSG_000]
+Th-That's right... If I could just be[n]brave like that, but...
+
+[msg MSG_001]
+There's nothing I can do... Even if I[n]tried my best, I'd just get hurt...
+

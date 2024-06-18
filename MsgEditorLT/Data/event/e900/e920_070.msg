@@ -1,0 +1,3 @@
+[msg MSG_000]
+Ah... Esto parece haber salido diferente[n]a lo planeado...
+

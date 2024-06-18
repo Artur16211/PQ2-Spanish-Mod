@@ -1,0 +1,3 @@
+[msg MSG_000]
+Ah... This seems to have gone[n]differently than was planned...
+

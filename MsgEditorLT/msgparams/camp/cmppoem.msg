@@ -1,0 +1,20 @@
+[msg CMPPOEM_PATHOS]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
+
+[msg CMPPOEM_NOT_PATHOS]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
+
+[sel CMPPOEM_SELECT_1 top]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+[f 0 5 65278][f 2 1]{dialog}[e]
+
