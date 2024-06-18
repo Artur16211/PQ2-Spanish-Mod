@@ -30,6 +30,12 @@ jobs:
         run: python MsgEditorLT/compiler.py
         working-directory: ${{ github.workspace }}
 
+      - name: List directory contents
+        run: |
+          Get-ChildItem -Path $env:GITHUB_WORKSPACE -Recurse | Select-Object FullName
+        shell: pwsh
+
+
       - name: Create artifact
         run: |
           $sourcePath = "D:\a\PQ2-Spanish-Mod\MsgEditorLT\compiled"
