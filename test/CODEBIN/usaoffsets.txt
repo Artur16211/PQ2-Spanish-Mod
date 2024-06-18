@@ -1,0 +1,13 @@
+offsets = {
+    "0": {"start": 0x4364DB, "end": 0x436758},
+    "1": {"start": 0x48BE1A, "end": 0x48DCB3}, # NADA?
+    "2": {"start": 0x431063, "end": 0x4362BB},
+    "3": {"start": 0x42D254, "end": 0x42D509}, # Nombres
+    "4": {"start": 0x435F0F, "end": 0x436127},
+    "5": {"start": 0x43617C, "end": 0x4362BB},
+    "6": {"start": 0x42BC20, "end": 0x42BD07}, # Arcanos
+    "7": {"start": 0x430727, "end": 0x43074C}, # NADA?
+    "8": {"start": 0x431C3C, "end": 0x431D3F}, # DLC
+    "9": {"start": 0x431D90, "end": 0x431E4E}, # NADA?
+    "10": {"start": 0x435F40, "end": 0x436127}, # Puerta/Escaleras/Etc
+}
