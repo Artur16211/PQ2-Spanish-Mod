@@ -3,24 +3,21 @@ import subprocess
 import shutil
 import logging
 
-# Rutas fijas para las carpetas de entrada y salida
-mod_folder = "imported"  # Reemplaza esto con la ruta real a tu carpeta de mods
-output_folder = "compiled"  # Reemplaza esto con la ruta real a tu carpeta de salida
-personaeditor_path = os.path.join(
-    'dependencies', 'personaeditor', 'personaeditorcmd.exe')
-atlus_script_tools_path = os.path.join(
-    "dependencies", "atlusscripttools", "AtlusScriptCompiler.exe")
+logging.basicConfig(level=logging.INFO)
+
+mod_folder = "imported"
+output_folder = "compiled"
+personaeditor_path = os.path.join('dependencies', 'personaeditor', 'personaeditorcmd.exe')
+atlus_script_tools_path = os.path.join("dependencies", "atlusscripttools", "AtlusScriptCompiler.exe")
 
 def ASCCompile(input_file_path):
     input_file_name = os.path.basename(input_file_path)
     logging.info(f"Compiling BMD file: {input_file_name} with PQ2 library")
     output_file_path = os.path.splitext(input_file_path)[0] + '.bmd'
-    subprocess.run([atlus_script_tools_path, input_file_path, "-Out",
-                    output_file_path, "-Compile", "-OutFormat", "V1", "-Library", "PQ2", "-Encoding", "SJ"])
+    subprocess.run([atlus_script_tools_path, input_file_path, "-Out", output_file_path, "-Compile", "-OutFormat", "V1", "-Library", "PQ2", "-Encoding", "SJ"])
 
 def PEImport(input_file_path):
-    subprocess.run([personaeditor_path, input_file_path,
-                    '-impall', '-save', input_file_path])
+    subprocess.run([personaeditor_path, input_file_path, '-impall', '-save', input_file_path])
 
 def delete_files_not_in_list(folder_path, files_list):
     Del_files = []
@@ -59,8 +56,7 @@ def run_program(mod_folder, output_folder):
             if file.is_file():
                 shutil.copy2(file.path, output_folder)
             if file.is_dir():
-                shutil.copytree(file.path, os.path.join(
-                    output_folder, file.name))
+                shutil.copytree(file.path, os.path.join(output_folder, file.name))
 
     logging.info("Compiling all the .msg files")
     for root, dirs, files in os.walk(output_folder):

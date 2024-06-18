@@ -1,4 +1,7 @@
 ﻿import os
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
     os.makedirs(imported_dir, exist_ok=True)
@@ -18,10 +21,8 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                     with open(params_file_path, 'r', encoding='utf-8') as destination_file:
                         destination_lines = destination_file.readlines()
                     
-                    # Replace {dialog} in the destination file with lines from the source file
                     for i, destination_line in enumerate(destination_lines):
                         if "{dialog}" in destination_line:
-                            # Ensure the index is within the bounds of the source_lines
                             if i < len(source_lines):
                                 source_line = source_lines[i].strip()
                                 destination_lines[i] = destination_line.replace("{dialog}", source_line)
@@ -32,10 +33,12 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                     with open(imported_file_path, 'w', encoding='utf-8') as imported_file:
                         imported_file.writelines(destination_lines)
                 else:
-                    print(f"Corresponding params file not found for {msg_file_path}")
-                    
-msgs_dir = 'Data'
-msgparams_dir = 'msgparams'
-imported_dir = 'imported'
+                    logging.warning(f"Corresponding params file not found for {msg_file_path}")
 
-replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir)
+if __name__ == "__main__":
+    logging.info("Replacing dialogs in files")
+    msgs_dir = 'Data'
+    msgparams_dir = 'msgparams'
+    imported_dir = 'imported'
+    replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir)
+    logging.info("Finished replacing dialogs")

@@ -1,65 +1,37 @@
-name: Run Scripts and Create Artifact
+name: Process and Compile Files
 
 on:
   push:
     branches:
       - master
+  pull_request:
+    branches:
+      - master
 
 jobs:
-  build:
+  process_and_compile_files_job:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
 
-      - name: Run setn_folder.py
-        run: python MsgEditorLT/setn_folder.py
-        working-directory: ${{ github.workspace }}
+    - name: Run first script
+      run: python MsgEditorLT/setn_folder.py
 
-      - name: Run import_msg_params.py
-        run: python MsgEditorLT/import_msg_params.py
-        working-directory: ${{ github.workspace }}
+    - name: Run second script
+      run: python MsgEditorLT/import_msg_params.py
 
-      - name: Run compiler.py
-        run: python MsgEditorLT/compiler.py
-        working-directory: ${{ github.workspace }}
+    - name: Run third script
+      run: python MsgEditorLT/compiler.py
 
-      - name: List directory contents
-        run: |
-          Get-ChildItem -Path $env:GITHUB_WORKSPACE -Recurse | Select-Object FullName
-        shell: pwsh
-
-
-      - name: Create artifact
-        run: |
-          $sourcePath = "${{ github.workspace }}/MsgEditorLT/compiled"
-          $destinationPath = "${{ github.workspace }}/compiled.zip"
-      
-          if (Test-Path -Path $sourcePath) {
-            Add-Type -AssemblyName System.IO.Compression.FileSystem
-            [System.IO.Compression.ZipFile]::CreateFromDirectory($sourcePath, $destinationPath)
-          } else {
-            Write-Host "Directory '$sourcePath' not found."
-            exit 1
-          }
-        shell: powershell
-
-
-
-
-
-
-
-
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: compiled-artifact
-          path: compiled.zip
+    - name: Upload compiled artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: compiled-files
+        path: compiled/
