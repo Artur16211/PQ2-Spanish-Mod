@@ -1,6 +1,9 @@
 name: Run Scripts and Create Artifact
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,23 +16,23 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.12.4'
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
+        python-version: '3.10'
 
     - name: Run setn_folder.py
       run: python MsgEditorLT/setn_folder.py
+      working-directory: ${{ github.workspace }}
 
     - name: Run import_msg_params.py
       run: python MsgEditorLT/import_msg_params.py
+      working-directory: ${{ github.workspace }}
 
     - name: Run compiler.py
       run: python MsgEditorLT/compiler.py
+      working-directory: ${{ github.workspace }}
 
     - name: Create artifact
       run: powershell.exe Compress-Archive -Path MsgEditorLT/compiled -DestinationPath compiled.zip
+      working-directory: ${{ github.workspace }}
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
