@@ -3,7 +3,7 @@ name: Run Scripts and Create Artifact
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
