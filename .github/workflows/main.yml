@@ -39,10 +39,11 @@ jobs:
             Add-Type -AssemblyName System.IO.Compression.FileSystem
             [System.IO.Compression.ZipFile]::CreateFromDirectory($sourcePath, $destinationPath)
           } else {
-            Write-Host "Directory '${{ github.workspace }}/MsgEditorLT/compiled' not found."
+            Write-Host "Directory '$sourcePath' not found."
             exit 1
           }
         shell: powershell
+
 
 
 
