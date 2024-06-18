@@ -27,15 +27,17 @@ jobs:
       working-directory: ${{ github.workspace }}
 
     - name: Run compiler.py
-      run: python MsgEditorLT/compiler.py
+      run: python PQ2-Spanish-Mod/MsgEditorLT/compiler.py
       working-directory: ${{ github.workspace }}
 
-    - name: Create artifact
-      run: powershell.exe Compress-Archive -Path ${{ github.workspace }}/MsgEditorLT/compiled -DestinationPath ${{ github.workspace }}/compiled.zip
+    - name: List contents of compiled directory
+      run: dir ${{ github.workspace }}/PQ2-Spanish-Mod/MsgEditorLT/compiled
 
+    - name: Create artifact
+      run: powershell.exe Compress-Archive -Path ${{ github.workspace }}/PQ2-Spanish-Mod/MsgEditorLT/compiled -DestinationPath ${{ github.workspace }}/PQ2-Spanish-Mod/compiled.zip
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
         name: compiled-artifact
-        path: compiled.zip
+        path: ${{ github.workspace }}/PQ2-Spanish-Mod/compiled.zip
