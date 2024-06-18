@@ -32,7 +32,7 @@ jobs:
 
       - name: Create artifact
         run: |
-          $sourcePath = Resolve-Path -Path "${{ github.workspace }}/MsgEditorLT/compiled" -Relative
+          $sourcePath = "${{ github.workspace }}/MsgEditorLT/compiled"
           $destinationPath = "${{ github.workspace }}/compiled.zip"
       
           if (Test-Path -Path $sourcePath) {
@@ -43,6 +43,7 @@ jobs:
             exit 1
           }
         shell: powershell
+
 
 
 
