@@ -32,8 +32,8 @@ jobs:
 
       - name: Create artifact
         run: |
-          $sourcePath = Join-Path $env:GITHUB_WORKSPACE "MsgEditorLT\compiled"
-          $destinationPath = Join-Path $env:GITHUB_WORKSPACE "compiled.zip"
+          $sourcePath = Resolve-Path -Path "${{ github.workspace }}/MsgEditorLT/compiled" -Relative
+          $destinationPath = "${{ github.workspace }}/compiled.zip"
       
           if (Test-Path -Path $sourcePath) {
             Add-Type -AssemblyName System.IO.Compression.FileSystem
@@ -43,7 +43,6 @@ jobs:
             exit 1
           }
         shell: powershell
-
 
 
 
