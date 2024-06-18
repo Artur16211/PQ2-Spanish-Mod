@@ -19,19 +19,34 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.10'
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Run first script
-      run: python MsgEditorLT/setn_folder.py
+      run: python scripts/script1.py
+
+    - name: List Data directory after first script
+      run: dir Data
 
     - name: Run second script
-      run: python MsgEditorLT/import_msg_params.py
+      run: python scripts/script2.py
+
+    - name: List imported directory after second script
+      run: dir imported
 
     - name: Run third script
-      run: python MsgEditorLT/compiler.py
+      run: python scripts/script3.py
+
+    - name: List compiled directory after third script
+      run: dir compiled
 
     - name: Upload compiled artifact
       uses: actions/upload-artifact@v2
       with:
         name: compiled-files
-        path: MsgEditorLT/compiled/
+        path: compiled/
+        if-no-files-found: warn
