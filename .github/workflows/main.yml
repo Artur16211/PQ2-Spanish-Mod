@@ -32,7 +32,7 @@ jobs:
 
       - name: Create artifact
         run: |
-          $sourcePath = D:\a\PQ2-Spanish-Mod\MsgEditorLT\compiled"
+          $sourcePath = "D:\a\PQ2-Spanish-Mod\MsgEditorLT\compiled"
           $destinationPath = Join-Path -Path $env:GITHUB_WORKSPACE -ChildPath "compiled.zip"
           
           if (Test-Path -Path $sourcePath) {
@@ -42,7 +42,8 @@ jobs:
             Write-Host "Directory '$sourcePath' not found."
             exit 1
           }
-        shell: pwsh  # Use pwsh (PowerShell Core) as shell
+        shell: pwsh
+
 
 
 
