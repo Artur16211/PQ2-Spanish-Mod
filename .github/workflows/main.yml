@@ -1,45 +1,42 @@
 name: Run Scripts and Create Artifact
 
 on:
-push:
-branches:
-
-    master
+  push:
+    branches:
+      - master
 
 jobs:
-build:
-runs-on: windows-latest
+  build:
+    runs-on: windows-latest
 
-yaml
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-steps:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
 
-    name: Checkout repository
-    uses: actions/checkout@v2
+      - name: Run setn_folder.py
+        run: python MsgEditorLT/setn_folder.py
+        working-directory: ${{ github.workspace }}
 
-    name: Set up Python
-    uses: actions/setup-python@v2
-    with:
-    python-version: '3.10'
+      - name: Run import_msg_params.py
+        run: python MsgEditorLT/import_msg_params.py
+        working-directory: ${{ github.workspace }}
 
-    name: Run setn_folder.py
-    run: python MsgEditorLT/setn_folder.py
-    working-directory: ${{ github.workspace }}
+      - name: Run compiler.py
+        run: python MsgEditorLT/compiler.py
+        working-directory: ${{ github.workspace }}
 
-    name: Run import_msg_params.py
-    run: python MsgEditorLT/import_msg_params.py
-    working-directory: ${{ github.workspace }}
+      - name: Create artifact
+        run: |
+          powershell.exe Compress-Archive -Path .\MsgEditorLT\compiled -DestinationPath compiled.zip
+        working-directory: ${{ github.workspace }}
 
-    name: Run compiler.py
-    run: python MsgEditorLT/compiler.py
-    working-directory: ${{ github.workspace }}
-
-    name: Create artifact
-    run: powershell.exe Compress-Archive -Path /MsgEditorLT/compiled -DestinationPath compiled.zip
-    working-directory: ${{ github.workspace }}
-
-    name: Upload artifact
-    uses: actions/upload-artifact@v2
-    with:
-    name: compiled-artifact
-    path: compiled.zip
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: compiled-artifact
+          path: compiled.zip
