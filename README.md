@@ -45,3 +45,4 @@ Ejecuta el <b>setn.py</b> para colocar los <b>[n]</b> de forma que el texto qued
 Ejecuta <b>CompileMSG.py</b> para tener una version del mod lista para usar con <b>Mod Compendium</b> o <b>Aemulus</b>.<br>
 https://github.com/tge-was-taken/Mod-Compendium/releases<br>
 https://github.com/TekkaGB/AemulusModManager/releases
+
