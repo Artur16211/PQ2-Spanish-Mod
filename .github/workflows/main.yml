@@ -22,19 +22,19 @@ jobs:
         python-version: '3.9'
 
     - name: Run first script
-      run: python scripts/script1.py
+      run: python MsgEditorLT/setn_folder.py
 
     - name: List Data directory after first script
       run: dir Data
 
     - name: Run second script
-      run: python scripts/script2.py
+      run: python MsgEditorLT/import_msg_params.py
 
     - name: List imported directory after second script
       run: dir imported
 
     - name: Run third script
-      run: python scripts/script3.py
+      run: python MsgEditorLT/compiler.py
 
     - name: List compiled directory after third script
       run: dir compiled
