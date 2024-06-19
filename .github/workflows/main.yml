@@ -48,7 +48,7 @@ jobs:
 #         if-no-files-found: warn
 
   create_pre_release:
-    needs: process_and_compile_files
+    # needs: process_and_compile_files
     runs-on: ubuntu-latest
 
     steps:
