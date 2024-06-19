@@ -46,6 +46,7 @@ fixparamsindialog = {
 # Reverse the fixed params dictionary for restoring original values
 reverse_fixparamsindialog = {v: k for k, v in fixparamsindialog.items()}
 
+
 def clean_dialogues(line):
     pattern = r'\[[^\[\]]+\](?:\[[^\[\]]+\])+'
     clean_line = re.sub(pattern, '', line)
@@ -55,6 +56,7 @@ def clean_dialogues(line):
     for key, value in fixparamsindialog.items():
         clean_line = clean_line.replace(key, value)
     return clean_line
+
 
 def restore_params(line):
     for key, value in reverse_fixparamsindialog.items():
@@ -165,10 +167,9 @@ small_font = {
     '謂': 'オ'
 }
 
+
 def process_input_file(input_path, max_length):
     output_filename = input_path
-    
-    logging.info(f"Processing file: {input_path}")
 
     with open(input_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
@@ -186,15 +187,20 @@ def process_input_file(input_path, max_length):
             current_dialogue = ""
         else:
             max_len1, max_len2, type = max_length
+            
             cleaned_line = clean_dialogues(line)
             transformed_line = set_n(cleaned_line, max_len1)
             
             if type == "normal":
+                #logging.info(f"Normal se cumplió en {input_path}")
                 if transformed_line.count('[n]') > 2:
+                    #logging.info(f"Normal se cumplió en {input_path} y es mayor a 2")
                     transformed_line = ''.join(small_font.get(c, c) for c in cleaned_line)
                     transformed_line = set_n(transformed_line, max_len2)
             elif type == "top":
+                #logging.info(f"Top se cumplió en {input_path}")
                 if transformed_line.count('[n]') > 1:
+                    #logging.info(f"Top se cumplió en {input_path} y es mayor a 1")
                     transformed_line = ''.join(small_font.get(c, c) for c in cleaned_line)
                     transformed_line = set_n(transformed_line, max_len2)
             
@@ -203,23 +209,48 @@ def process_input_file(input_path, max_length):
     if current_id:
         clean_dialogues_list.append((current_id, current_dialogue))
 
-    with open(output_filename, 'w', encoding='utf-8') as file:
-        for id, dialogue in clean_dialogues_list:
-            file.write(id + "\n")
-            file.write(dialogue)
-        file.write('[end]\n')
+    with open(output_filename, 'w', encoding='utf-8') as clean_file:
+        for dialogue_id, dialogue in clean_dialogues_list:
+            restored_params_dialogue = restore_params(dialogue)
+            clean_file.write(f"{dialogue_id}\n{restored_params_dialogue}")
 
-def process_directory(directory, max_length):
-    for root, dirs, files in os.walk(directory):
+
+def determine_max_length(relative_path):
+    if "battle\\event" in relative_path or "battle\\combination" in relative_path:
+        return 40, 46, "normal"
+    elif "event" in relative_path:
+        return 40, 46, "normal"
+    elif "battle" in relative_path:
+        return 38, 44, "top"
+    elif "camp" in relative_path:
+        return 40, 46, "normal"
+    elif "dungeon\\script\\support" in relative_path:
+        return 38, 44, "top"
+    elif "dungeon" in relative_path:
+        return 40, 46, "normal"
+    elif "facility\\townsupport.bmd.msg" in relative_path or "facility\\townsupport.msg" in relative_path:
+        return 38, 44, "top"
+    elif "facility" in relative_path:
+        return 40, 46, "normal"
+    elif "init\\dataQuestStory.bmd.msg" in relative_path or "init\\dataQuestStory.msg" in relative_path:
+        return 40, 46, "normal"
+    elif "init" in relative_path:
+        return 40, 46, "normal"
+    else:
+        return 40, 46, "normal"
+
+
+def process_all_files_in_directory(input_directory):
+    for root, dirs, files in os.walk(input_directory):
         for file in files:
             if file.endswith('.msg'):
                 input_path = os.path.join(root, file)
+                max_length = determine_max_length(input_path)
+
                 process_input_file(input_path, max_length)
 
 if __name__ == "__main__":
     logging.info("Processing Data directory")
     data_directory = "MsgEditorLT/Data"
-    os.makedirs(data_directory, exist_ok=True)  # Crear la carpeta 'Data'
-    max_length = (37, 50, 'normal')
-    process_directory(data_directory, max_length)
+    process_all_files_in_directory(data_directory)
     logging.info("Finished processing Data directory")
