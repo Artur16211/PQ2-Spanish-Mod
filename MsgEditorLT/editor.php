@@ -104,11 +104,11 @@ $show_font_inverse = array_flip($show_font);
                         this.value = this.value.replace(/\n/g, '');
                     });
                     // Si el ultimo caracter es un espacio, lo elimina
-                    textarea.addEventListener('click', function() {
-                        if (this.value.slice(-1) === ' ') {
-                            this.value = this.value.slice(0, -1);
-                        }
-                    });
+                    // textarea.addEventListener('click', function() {
+                    //     if (this.value.slice(-1) === ' ') {
+                    //         this.value = this.value.slice(0, -1);
+                    //     }
+                    // });
                 });
             });
             </script>
