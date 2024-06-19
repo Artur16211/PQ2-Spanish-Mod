@@ -167,6 +167,8 @@ small_font = {
 
 def process_input_file(input_path, max_length):
     output_filename = input_path
+    
+    logging.info(f"Processing file: {input_path}")
 
     with open(input_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()

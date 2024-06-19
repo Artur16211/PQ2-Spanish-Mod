@@ -15,6 +15,7 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                 params_file_path = os.path.join(msgparams_dir, relative_path, file)
                 
                 if os.path.exists(params_file_path):
+                    logging.info(f"Processing {msg_file_path}")
                     with open(msg_file_path, 'r', encoding='utf-8') as source_file:
                         source_lines = source_file.readlines()
                     

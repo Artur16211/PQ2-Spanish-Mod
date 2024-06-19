@@ -17,6 +17,7 @@ def ASCCompile(input_file_path):
     subprocess.run([atlus_script_tools_path, input_file_path, "-Out", output_file_path, "-Compile", "-OutFormat", "V1", "-Library", "PQ2", "-Encoding", "SJ"])
 
 def PEImport(input_file_path):
+    logging.info(f"Importing Persona Editor file: {input_file_path}")
     subprocess.run([personaeditor_path, input_file_path, '-impall', '-save', input_file_path])
 
 def delete_files_not_in_list(folder_path, files_list):
@@ -29,6 +30,7 @@ def delete_files_not_in_list(folder_path, files_list):
     for file in Del_files:
         try:
             os.remove(file)
+            logging.info(f"Deleted file: {file}")
         except FileNotFoundError:
             continue
 
@@ -38,6 +40,7 @@ def delete_empty_folders(path):
             full_path = os.path.join(root, name)
             if not os.listdir(full_path):
                 os.rmdir(full_path)
+                logging.info(f"Deleted empty folder: {full_path}")
             else:
                 delete_empty_folders(full_path)
 
@@ -55,8 +58,10 @@ def run_program(mod_folder, output_folder):
         for file in os.scandir(folder):
             if file.is_file():
                 shutil.copy2(file.path, output_folder)
+                logging.info(f"Copied file: {file.path} to {output_folder}")
             if file.is_dir():
                 shutil.copytree(file.path, os.path.join(output_folder, file.name))
+                logging.info(f"Copied folder: {file.path} to {os.path.join(output_folder, file.name)}")
 
     logging.info("Compiling all the .msg files")
     for root, dirs, files in os.walk(output_folder):
@@ -72,9 +77,11 @@ def run_program(mod_folder, output_folder):
                 new_path = os.path.join(root, name[:-8] + ".bmd")
                 try:
                     os.rename(old_path, new_path)
+                    logging.info(f"Renamed file: {old_path} to {new_path}")
                 except FileExistsError:
                     os.remove(new_path)
                     os.rename(old_path, new_path)
+                    logging.info(f"Renamed and replaced existing file: {old_path} to {new_path}")
 
     logging.info("Importing all the .bf files in the Output folder")
     for root, dirs, files in os.walk(output_folder):
@@ -89,6 +96,7 @@ def run_program(mod_folder, output_folder):
             if mod_file.lower().endswith('.msg'):
                 mod_file_path = os.path.join(root, mod_file)
                 os.remove(mod_file_path)
+                logging.info(f"Deleted file: {mod_file_path}")
 
     delete_files_not_in_list(mod_folder, mod_files_list)
     delete_empty_folders(mod_folder)
