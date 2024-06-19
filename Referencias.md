@@ -108,3 +108,51 @@
 | **Save** ################## | ################ | ######## |
 | suspend data           | Guardado rápido/ Suspender (TEX)                |         
 | Ribbon                 | Ribbon                        |                                  |
+
+| EN       | ES           |          |        |       |
+|----------|--------------|----------|--------|-------|
+| chuckle  | risita       |          |        |       |
+| gasp     | grito ahogado|          |        |       |
+| giggle   | risita       | Je, je   |        |       |
+| pant     | jadeo        |          |        |       |
+| sigh     | suspiro      | suspiro  |        |       |
+| wheeze   | jadeo        |          |        |       |
+| whine    | lloriqueo    |          |        |       |
+| Ah       |              |          |        |       |
+| Arrrgh   |              |          |        |       |
+| Aw       | Vaya         | Aw yeah! | 斡Oh, s胤! | Aw, man... | Jo, t胤o |
+| Awww     | Oh           | Ay       |        |       |
+| Geez     | Joder        | Uf...    | Uf     |       |
+| Grrr     |              |          |        |       |
+| Ha       | Ja           |          |        |       |
+| Haha     | Ja, ja       |          |        |       |
+| HAHAHA   | Ja, ja, ja   |          |        |       |
+| Heh      | Je           |          |        |       |
+| Heheheh  | Je, je, je   |          |        |       |
+| Hm       | Eliminado?   |          |        |       |
+| Hrggh    | No existe en royal? |          |        |       |
+| Huh      | Eliminado?   | Huh? - vale? |        |       |
+| Mmhm     | Mmm          | Aj茨     | Eliminado? |       |
+| Ngh      | Uf           | Argh     |        |       |
+| Oh       | Ah           |          |        |       |
+| Ohhh     | Ahhh         | Claro    | Eliminado? | Ohhh  |
+| Oho      | Ostras       | Vaya     | Eliminado? |       |
+| Ooh      | Genial       | Eh       | Ay     | Oh    |
+| Oops     | Ups          | Oh       |        |       |
+| Sheesh   | Pfff         | Pff      | Uf     |       |
+| Tch      | Bah          | Tss      | Eliminado? | Pfff  |
+| Ugh      | Uf           | Argh     | Buf    |       |
+| Um       | Mmm          | Mmm      | Eliminado? |       |
+| Whoa     | Hala         |          |        |       |
+| Wow      | Vaya         | Jo       | Jol胤n |       |
+|          |              |          |        |       |
+| Nghhhhhh | Argh         |          |        |       |
+| N-Ngh    | Argh         |          |        |       |
+| Oooh     | Eliminado?   |          |        |       |
+| Gotcha   | Vale         |          |        |       |
+|          |              |          |        |       |
+| Whew     |              |          |        |       |
+|          |              |          |        |       |
+| Eeeek!   | 斡Ay!        |          |        |       |
+| Eeek!    | 斡Ayyy!      |          |        |       |
+| Eek!     | 斡Ay!        |          |        |       |

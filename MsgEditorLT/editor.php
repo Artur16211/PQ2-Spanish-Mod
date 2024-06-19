@@ -49,8 +49,8 @@ $show_font_inverse = array_flip($show_font);
         <div class="mb-3">
             <a class="btn btn-primary mt-2" href="index.php?dir=<?php echo $parentDir; ?>"><-</a>
             <button type="button" class="btn btn-warning" onclick="saveChanges()">Guardar Pendiente</button>
-            <button type="button" class="btn btn-info" onclick="markAsCompleted()">Guardar Completado</button>
-            <button type="button" class="btn btn-success" onclick="markAsRevisedV2()">Guardar Revisado V2</button>
+            <button type="button" class="btn btn-info" onclick="SaveAndmarkAsCompleted()">Guardar Completado</button>
+            <button type="button" class="btn btn-success" onclick="SaveAndmarkAsRevisedV2()">Guardar Revisado V2</button>
         </div>
         <div class="row">
             <div class="col">
@@ -160,17 +160,18 @@ $show_font_inverse = array_flip($show_font);
         }
 
 
-        function markAsCompleted() {
+        function SaveAndmarkAsCompleted() {
             var file = '<?php echo $editableFilePath; ?>';
             file = file.replace("//", "/");
             var outputLines = [];
 
-            $('input[name="editable[]"]').each(function(index) {
-                var line = $(this).val();
+            $('textarea[name="editable[]"]').each(function(index) {
+                var line = $(this).val().replace(/\r?\n/g, ' '); // Reemplazar saltos de línea por espacios
+                line = revertCharacters(line);
                 outputLines.push(line);
             });
 
-            var confirmation = confirm("¿Guardar y marcar como completado: " + file + "?");
+            var confirmation = confirm("¿Desea guardar los cambios en " + file + " y marcar como completado?");
 
             if (confirmation) {
                 $.ajax({
@@ -182,26 +183,29 @@ $show_font_inverse = array_flip($show_font);
                     },
                     success: function(response) {
                         alert(response);
+                        updateDatabase(file);
                         markAsCompletedInDB(file);
                     },
                     error: function(xhr, status, error) {
-                        console.error("Error al guardar los cambios:", error);
+                        console.error("Error al guardar los cambios y marcar como completado:", error);
                     }
                 });
             }
         }
 
-        function markAsRevisedV2() {
+        function SaveAndmarkAsRevisedV2() {
             var file = '<?php echo $editableFilePath; ?>';
             file = file.replace("//", "/");
             var outputLines = [];
 
-            $('input[name="editable[]"]').each(function(index) {
-                var line = $(this).val();
+            $('textarea[name="editable[]"]').each(function(index) {
+                var line = $(this).val().replace(/\r?\n/g, ' '); // Reemplazar saltos de línea por espacios
+                line = revertCharacters(line);
                 outputLines.push(line);
             });
 
-            var confirmation = confirm("¿Guardar y marcar como revisado: " + file + "?");
+            var confirmation = confirm("¿Desea guardar los cambios en " + file + " y marcar como revisado V2?");
+
             if (confirmation) {
                 $.ajax({
                     type: "POST",
@@ -212,13 +216,15 @@ $show_font_inverse = array_flip($show_font);
                     },
                     success: function(response) {
                         alert(response);
+                        updateDatabase(file);
                         markAsRevisedInDB(file);
                     },
                     error: function(xhr, status, error) {
-                        console.error("Error al guardar los cambios:", error);
+                        console.error("Error al guardar los cambios y marcar como revisado V2:", error);
                     }
                 });
             }
+            
         }
 
         function updateDatabase(file) {
