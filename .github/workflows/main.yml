@@ -1,4 +1,4 @@
-name: Process and Compile Files
+name: Spanish Mod
 
 on:
   push:
@@ -21,17 +21,17 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Run first script
+    - name: SET N
       run: python MsgEditorLT/setn_folder.py
 
-    - name: Run second script
+    - name: IMPORT TO PARAMS
       run: python MsgEditorLT/import_msg_params.py
 
-    - name: Run third script
+    - name: COMPILE
       run: python MsgEditorLT/compiler.py
 
     - name: Upload compiled artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: compiled-files
         path: MsgEditorLT/compiled/
