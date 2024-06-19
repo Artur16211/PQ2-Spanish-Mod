@@ -55,18 +55,15 @@ jobs:
           name: spanish-mod-dev
           path: MsgEditorLT/compiled
 
-      - name: Get latest artifact
-        id: find-latest-artifact
+      - name: Compress compiled folder
         run: |
-          ls -l MsgEditorLT/compiled/
-          LATEST_ARTIFACT=$(find MsgEditorLT/compiled/ -type f -printf "%T@ %p\n" | sort -n | tail -n 1 | cut -d ' ' -f 2-)
-          echo "LATEST_ARTIFACT=$LATEST_ARTIFACT" >> $GITHUB_ENV
-          echo "::set-output name=latest_artifact::$LATEST_ARTIFACT"
+          zip -r compiled.zip MsgEditorLT/compiled
+          echo "COMPRESSED_ARTIFACT=compiled.zip" >> $GITHUB_ENV
 
       - name: Create Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: ${{ steps.find-latest-artifact.outputs.latest_artifact }}
+          artifacts: ${{ env.COMPRESSED_ARTIFACT }}
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: v0.0.0-pre-${{ github.run_number }}
           name: Pre-release
