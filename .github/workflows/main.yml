@@ -47,11 +47,9 @@ jobs:
         path: MsgEditorLT/compiled/
         if-no-files-found: warn
 
-  create_pre-release:
+  create_pre_release:
     needs: process_and_compile_files
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
     - name: Checkout repository
@@ -63,18 +61,19 @@ jobs:
         name: spanish-mod-dev
         path: ./compiled
 
-    - name: Get current date
-      id: date
-      run: echo "TAG_DATE=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+    - name: Get latest artifact
+      run: |
+        LATEST_ARTIFACT=$(find ./compiled -type f -printf "%T@ %p\n" | sort -n | tail -n 1 | cut -d ' ' -f 2-)
+        echo "::set-output name=latest_artifact::$LATEST_ARTIFACT"
 
     - name: Create Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: ./compiled
+        artifacts: ${{ steps.get_latest.outputs.latest_artifact }}
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: v0.0.0-${{ env.TAG_DATE }}
-        name: Spanish Mod Pre-release
-        body: Pre-release.
+        tag: v0.0.0-$(date +'%Y%m%d%H%M%S')
+        name: Pre-release
+        body: Commit.
         draft: false
         prerelease: true
         generateReleaseNotes: false
