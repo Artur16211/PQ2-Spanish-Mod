@@ -218,7 +218,7 @@ def process_directory(directory, max_length):
 
 if __name__ == "__main__":
     logging.info("Processing Data directory")
-    data_directory = "Data"
+    data_directory = "MsgEditorLT/Data"
     os.makedirs(data_directory, exist_ok=True)  # Crear la carpeta 'Data'
     max_length = (37, 50, 'normal')
     process_directory(data_directory, max_length)

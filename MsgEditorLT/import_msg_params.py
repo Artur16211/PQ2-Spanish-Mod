@@ -38,8 +38,8 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
 
 if __name__ == "__main__":
     logging.info("Replacing dialogs in files")
-    msgs_dir = 'Data'
-    msgparams_dir = 'msgparams'
-    imported_dir = 'imported'
+    msgs_dir = 'MsgEditorLT/Data'
+    msgparams_dir = 'MsgEditorLT/msgparams'
+    imported_dir = 'MsgEditorLT/imported'
     replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir)
     logging.info("Finished replacing dialogs")

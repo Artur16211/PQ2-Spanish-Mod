@@ -5,8 +5,8 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-mod_folder = "imported"
-output_folder = "compiled"
+mod_folder = "MsgEditorLT/imported"
+output_folder = "MsgEditorLT/compiled"
 personaeditor_path = os.path.join('dependencies', 'personaeditor', 'personaeditorcmd.exe')
 atlus_script_tools_path = os.path.join("dependencies", "atlusscripttools", "AtlusScriptCompiler.exe")
 
