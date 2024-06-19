@@ -7,8 +7,8 @@ logging.basicConfig(level=logging.INFO)
 
 mod_folder = "MsgEditorLT/imported"
 output_folder = "MsgEditorLT/compiled"
-personaeditor_path = os.path.join('dependencies', 'personaeditor', 'personaeditorcmd.exe')
-atlus_script_tools_path = os.path.join("dependencies", "atlusscripttools", "AtlusScriptCompiler.exe")
+personaeditor_path = os.path.join('MsgEditorLT', 'dependencies', 'personaeditor', 'personaeditorcmd.exe')
+atlus_script_tools_path = os.path.join("MsgEditorLT", "dependencies", "atlusscripttools", "AtlusScriptCompiler.exe")
 
 def ASCCompile(input_file_path):
     input_file_name = os.path.basename(input_file_path)
