@@ -12,40 +12,40 @@ on:
     paths:
       - 'MsgEditorLT/Data/**'
 
-jobs:
-  process_and_compile_files:
-    runs-on: windows-latest
+# jobs:
+#   process_and_compile_files:
+#     runs-on: windows-latest
 
-    steps:
-    - name: Checkout repository
-      # Check out the repository code
-      uses: actions/checkout@v4
+#     steps:
+#     - name: Checkout repository
+#       # Check out the repository code
+#       uses: actions/checkout@v4
 
-    - name: Set up Python
-      # Set up Python environment
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+#     - name: Set up Python
+#       # Set up Python environment
+#       uses: actions/setup-python@v5
+#       with:
+#         python-version: '3.10'
 
-    - name: SET N
-      # Run setn_folder.py script
-      run: python MsgEditorLT/setn_folder.py
+#     - name: SET N
+#       # Run setn_folder.py script
+#       run: python MsgEditorLT/setn_folder.py
 
-    - name: IMPORT TO PARAMS
-      # Run import_msg_params.py script
-      run: python MsgEditorLT/import_msg_params.py
+#     - name: IMPORT TO PARAMS
+#       # Run import_msg_params.py script
+#       run: python MsgEditorLT/import_msg_params.py
 
-    - name: COMPILE
-      # Compile using compiler.py script
-      run: python MsgEditorLT/compiler.py
+#     - name: COMPILE
+#       # Compile using compiler.py script
+#       run: python MsgEditorLT/compiler.py
 
-    - name: Upload compiled artifact
-      # Upload the compiled files as an artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: spanish-mod-dev
-        path: MsgEditorLT/compiled/
-        if-no-files-found: warn
+#     - name: Upload compiled artifact
+#       # Upload the compiled files as an artifact
+#       uses: actions/upload-artifact@v4
+#       with:
+#         name: spanish-mod-dev
+#         path: MsgEditorLT/compiled/
+#         if-no-files-found: warn
 
   create_pre_release:
     needs: process_and_compile_files
@@ -55,16 +55,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Download artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: spanish-mod-dev
-        path: ./compiled
-
     - name: Get latest artifact
+      id: find-latest-artifact
       run: |
         LATEST_ARTIFACT=$(find ./compiled -type f -printf "%T@ %p\n" | sort -n | tail -n 1 | cut -d ' ' -f 2-)
-        echo "::set-output name=latest_artifact::$LATEST_ARTIFACT"
+        echo "LATEST_ARTIFACT=$LATEST_ARTIFACT" >> $GITHUB_ENV
 
     - name: Create Release
       uses: ncipollo/release-action@v1
