@@ -1,5 +1,5 @@
 [msg MSG_000]
-test
+...
 ...
 
 [msg MSG_001 [Morgana]]
@@ -14,7 +14,7 @@ Vaya, por fin despiertas. La clase ya[n]termin吋...
 Esa mariposa...
 
 [msg MSG_004 [Morgana]]
-夷Sigues medio dormido o algo as胤?test
+夷Sigues medio dormido o algo as胤?
 
 [msg MSG_005 [Morgana]]
 夷Mariposa? 夷De qu姻 est茨s hablando?
