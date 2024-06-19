@@ -85,6 +85,8 @@ $show_font_inverse = array_flip($show_font);
                     if (textarea.value.trim().startsWith('[msg') || textarea.value.trim().startsWith('[sel')) {
                         textarea.readOnly = true;
                     }
+                    // Elimina los saltos de línea al cargar
+                    textarea.value = textarea.value.replace(/\n/g, '');
                 });
                 
                 textareas.forEach(textarea => {
@@ -99,16 +101,6 @@ $show_font_inverse = array_flip($show_font);
                     textarea.addEventListener('input', function() {
                         this.value = this.value.replace(/\n/g, '');
                     });
-                    // Al presionar en un textarea, elimina todos los saltos de línea
-                    textarea.addEventListener('click', function() {
-                        this.value = this.value.replace(/\n/g, '');
-                    });
-                    // Si el ultimo caracter es un espacio, lo elimina
-                    // textarea.addEventListener('click', function() {
-                    //     if (this.value.slice(-1) === ' ') {
-                    //         this.value = this.value.slice(0, -1);
-                    //     }
-                    // });
                 });
             });
             </script>
