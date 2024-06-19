@@ -25,23 +25,23 @@ jobs:
       run: python MsgEditorLT/setn_folder.py
 
     - name: List Data directory after first script
-      run: dir Data
+      run: dir MsgEditorLT/Data
 
     - name: Run second script
       run: python MsgEditorLT/import_msg_params.py
 
     - name: List imported directory after second script
-      run: dir imported
+      run: dir MsgEditorLT/imported
 
     - name: Run third script
       run: python MsgEditorLT/compiler.py
 
     - name: List compiled directory after third script
-      run: dir compiled
+      run: dir MsgEditorLT/compiled
 
     - name: Upload compiled artifact
       uses: actions/upload-artifact@v2
       with:
         name: compiled-files
-        path: compiled/
+        path: MsgEditorLT/compiled/
         if-no-files-found: warn
