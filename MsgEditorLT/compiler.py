@@ -3,7 +3,7 @@ import subprocess
 import shutil
 import logging
 
-logging.basicConfig(level=logging.WARNING)
+logging.basicConfig(level=logging.INFO)
 
 mod_folder = "MsgEditorLT/imported"
 output_folder = "MsgEditorLT/compiled"
@@ -14,7 +14,10 @@ def ASCCompile(input_file_path):
     input_file_name = os.path.basename(input_file_path)
     #logging.info(f"Compiling BMD file: {input_file_name} with PQ2 library")
     output_file_path = os.path.splitext(input_file_path)[0] + '.bmd'
-    subprocess.run([atlus_script_tools_path, input_file_path, "-Out", output_file_path, "-Compile", "-OutFormat", "V1", "-Library", "PQ2", "-Encoding", "SJ"])
+    subprocess.run(
+        [atlus_script_tools_path, input_file_path, "-Out", output_file_path, "-Compile", "-OutFormat", "V1", "-Library", "PQ2", "-Encoding", "SJ"],
+        stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
+    )
 
 def PEImport(input_file_path):
     #logging.info(f"Importing Persona Editor file: {input_file_path}")
