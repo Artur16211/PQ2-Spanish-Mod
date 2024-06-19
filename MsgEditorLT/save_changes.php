@@ -10,6 +10,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             if ($handle !== false) {
                 foreach ($_POST['lines'] as $line) {
+                    // Eliminar cualquier salto de línea al final de la línea
+                    $line = rtrim($line, "\r\n");
                     fwrite($handle, $line . PHP_EOL);
                 }
 

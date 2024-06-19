@@ -56,21 +56,62 @@ $show_font_inverse = array_flip($show_font);
             <div class="col">
                 <h3>Spanish</h3>
                 <form id="editForm" method="post">
-                    <?php
-                    // Spanish
-                    if (file_exists($editableFilePath)) {
-                        $editableContent = file($editableFilePath);
-                        foreach ($editableContent as $index => $line) {
-                            $cleanedLine = str_replace('[n]', ' ', $line);
-                            $cleanedLine = strtr($cleanedLine, $show_font);
-                            echo '<input type="text" class="form-control mb-2" name="editable[]" value="' . htmlspecialchars($cleanedLine) . '">';
-                        }
-                    } else {
-                        echo "El archivo editable no existe: $editableFilePath";
+                <?php
+                // Spanish
+                if (file_exists($editableFilePath)) {
+                    $editableContent = file($editableFilePath);
+                    foreach ($editableContent as $index => $line) {
+                        $cleanedLine = str_replace('[n]', ' ', $line);
+                        $cleanedLine = strtr($cleanedLine, $show_font);
+                        echo '<textarea class="no-newline form-control mb-2" name="editable[]" rows="1" style="resize: none; height: 70px;">' . htmlspecialchars($cleanedLine) . '</textarea>';
                     }
-                    ?>
+                } else {
+                    echo "El archivo editable no existe: $editableFilePath";
+                }
+                ?>
                 </form>
             </div>
+            <script>
+                document.addEventListener('DOMContentLoaded', (event) => {
+                const textareas = document.querySelectorAll('.no-newline');
+
+                textareas.forEach(function(textarea) {
+                    // Verifica si el contenido está vacío al cargar
+                    if (textarea.value.trim() === '') {
+                        textarea.readOnly = true;
+                    }
+
+                    // Si empieza por [msg o [sel establece readonly
+                    if (textarea.value.trim().startsWith('[msg') || textarea.value.trim().startsWith('[sel')) {
+                        textarea.readOnly = true;
+                    }
+                });
+                
+                textareas.forEach(textarea => {
+                    // Prevent new lines on Enter key press
+                    textarea.addEventListener('keydown', function(e) {
+                        if (e.key === 'Enter') {
+                            e.preventDefault();
+                        }
+                    });
+
+                    // Remove new lines in real-time
+                    textarea.addEventListener('input', function() {
+                        this.value = this.value.replace(/\n/g, '');
+                    });
+                    // Al presionar en un textarea, elimina todos los saltos de línea
+                    textarea.addEventListener('click', function() {
+                        this.value = this.value.replace(/\n/g, '');
+                    });
+                    // Si el ultimo caracter es un espacio, lo elimina
+                    textarea.addEventListener('click', function() {
+                        if (this.value.slice(-1) === ' ') {
+                            this.value = this.value.slice(0, -1);
+                        }
+                    });
+                });
+            });
+            </script>
             <div class="col">
                 <h3>English</h3>
                 <?php
@@ -79,7 +120,7 @@ $show_font_inverse = array_flip($show_font);
                     $originalContent = file($originalFilePath);
                     foreach ($originalContent as $index => $line) {
                         $cleanedLine = str_replace('[n]', ' ', $line);
-                        echo '<input type="text" class="form-control mb-2" value="' . htmlspecialchars($cleanedLine) . '" readonly>';
+                        echo '<textarea class="form-control mb-2" name="original[]" rows="1" readonly style="resize: none; height: 70px;">' . htmlspecialchars($cleanedLine) . '</textarea>';
                     }
                 } else {
                     echo "El archivo original no existe: $originalFilePath";
@@ -99,8 +140,8 @@ $show_font_inverse = array_flip($show_font);
             file = file.replace("//", "/");
             var outputLines = [];
 
-            $('input[name="editable[]"]').each(function(index) {
-                var line = $(this).val();
+            $('textarea[name="editable[]"]').each(function(index) {
+                var line = $(this).val().replace(/\r?\n/g, ' '); // Reemplazar saltos de línea por espacios
                 line = revertCharacters(line);
                 outputLines.push(line);
             });
@@ -125,6 +166,7 @@ $show_font_inverse = array_flip($show_font);
                 });
             }
         }
+
 
         function markAsCompleted() {
             var file = '<?php echo $editableFilePath; ?>';
