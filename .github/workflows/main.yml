@@ -12,7 +12,7 @@ on:
     paths:
       - 'MsgEditorLT/Data/**'
 
-# jobs:
+jobs:
 #   process_and_compile_files:
 #     runs-on: windows-latest
 
