@@ -19,11 +19,11 @@ jobs:
     steps:
     - name: Checkout repository
       # Check out the repository code
-      uses: actions/checkout@main
+      uses: actions/checkout@v4
 
     - name: Set up Python
       # Set up Python environment
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
@@ -46,3 +46,31 @@ jobs:
         name: spanish-mod-dev
         path: MsgEditorLT/compiled/
         if-no-files-found: warn
+
+  create_release:
+    needs: process_and_compile_files
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      # Check out the repository code
+      uses: actions/checkout@v4
+
+    - name: Download artifact
+      # Download the compiled files artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: spanish-mod-dev
+        path: ./compiled
+
+    - name: Create Pre-Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: ./compiled
+        token: ${{ secrets.GITHUB_TOKEN }}
+        tag: v1.0.0-$(date +%s)  # Unique tag name using current timestamp
+        name: Spanish Mod Pre-release
+        body: |
+          Pre-release.
+        draft: false
+        prerelease: true
