@@ -63,12 +63,16 @@ jobs:
         name: spanish-mod-dev
         path: ./compiled
 
-    - name: Create Pre-Release
+    - name: Get current date
+      id: date
+      run: echo "TAG_DATE=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+
+    - name: Create Release
       uses: ncipollo/release-action@v1
       with:
         artifacts: ./compiled
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: v0.0.0-$(date +%s)
+        tag: v0.0.0-${{ env.TAG_DATE }}
         name: Spanish Mod Pre-release
         body: Pre-release.
         draft: false
