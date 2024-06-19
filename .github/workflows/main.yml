@@ -4,35 +4,45 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'MsgEditorLT/Data/**'
   pull_request:
     branches:
       - master
+    paths:
+      - 'MsgEditorLT/Data/**'
 
 jobs:
-  process_and_compile_files_job:
+  process_and_compile_files:
     runs-on: windows-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      # Check out the repository code
+      uses: actions/checkout@v4
 
     - name: Set up Python
+      # Set up Python environment
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
     - name: SET N
+      # Run setn_folder.py script
       run: python MsgEditorLT/setn_folder.py
 
     - name: IMPORT TO PARAMS
+      # Run import_msg_params.py script
       run: python MsgEditorLT/import_msg_params.py
 
     - name: COMPILE
+      # Compile using compiler.py script
       run: python MsgEditorLT/compiler.py
 
     - name: Upload compiled artifact
+      # Upload the compiled files as an artifact
       uses: actions/upload-artifact@v4
       with:
-        name: compiled-files
+        name: spanish-mod-dev
         path: MsgEditorLT/compiled/
         if-no-files-found: warn
