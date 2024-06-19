@@ -18,29 +18,23 @@ jobs:
 
     steps:
     - name: Checkout repository
-      # Check out the repository code
       uses: actions/checkout@v4
 
     - name: Set up Python
-      # Set up Python environment
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
-    - name: SET N
-      # Run setn_folder.py script
+    - name: Run setn_folder.py
       run: python MsgEditorLT/setn_folder.py
 
-    - name: IMPORT TO PARAMS
-      # Run import_msg_params.py script
+    - name: Run import_msg_params.py
       run: python MsgEditorLT/import_msg_params.py
 
-    - name: COMPILE
-      # Compile using compiler.py script
+    - name: Run compiler.py
       run: python MsgEditorLT/compiler.py
 
     - name: Upload compiled artifact
-      # Upload the compiled files as an artifact
       uses: actions/upload-artifact@v4
       with:
         name: spanish-mod-dev
@@ -58,13 +52,15 @@ jobs:
     - name: Get latest artifact
       id: find-latest-artifact
       run: |
-        LATEST_ARTIFACT=$(find ./compiled -type f -printf "%T@ %p\n" | sort -n | tail -n 1 | cut -d ' ' -f 2-)
+        ls -l MsgEditorLT/compiled/
+        LATEST_ARTIFACT=$(find MsgEditorLT/compiled/ -type f -printf "%T@ %p\n" | sort -n | tail -n 1 | cut -d ' ' -f 2-)
         echo "LATEST_ARTIFACT=$LATEST_ARTIFACT" >> $GITHUB_ENV
+        echo "::set-output name=latest_artifact::$LATEST_ARTIFACT"
 
     - name: Create Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: ${{ steps.get_latest.outputs.latest_artifact }}
+        artifacts: ${{ steps.find-latest-artifact.outputs.latest_artifact }}
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: v0.0.0-pre-${{ github.run_number }}
         name: Pre-release
