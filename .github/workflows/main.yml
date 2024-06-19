@@ -71,7 +71,7 @@ jobs:
       with:
         artifacts: ${{ steps.get_latest.outputs.latest_artifact }}
         token: ${{ secrets.GITHUB_TOKEN }}
-        tag: v0.0.0-$(date +'%Y%m%d%H%M%S')
+        tag: v0.0.0-pre-${{ github.run_number }}
         name: Pre-release
         body: Commit.
         draft: false
