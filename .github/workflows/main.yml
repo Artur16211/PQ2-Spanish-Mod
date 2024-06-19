@@ -65,9 +65,9 @@ jobs:
         with:
           artifacts: ${{ env.COMPRESSED_ARTIFACT }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: v0.0.0-pre-${{ github.run_number }}
+          tag: v0.0.0-pre
           name: Pre-release
-          body: Commit.
+          body: Latest commit version.
           draft: false
           prerelease: true
           generateReleaseNotes: false
