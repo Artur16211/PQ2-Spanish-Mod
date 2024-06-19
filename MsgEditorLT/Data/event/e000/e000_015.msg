@@ -44,5 +44,5 @@ Por otra parte, 雨ltimamente han pasado[n]muchas cosas, tal vez todo ese trabaj
 Te cubro la espalda, as胤 que aguanta,[n]夷de acuerdo?
 
 [msg MSG_013 [Morgana]]
-斡Ahora, salgamos de aqu胤!TESTLAST FILq
+斡Vamos, salgamos de aqu胤!
 

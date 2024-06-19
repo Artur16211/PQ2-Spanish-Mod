@@ -57,8 +57,8 @@ jobs:
 
       - name: Compress compiled folder
         run: |
-          zip -r compiled.zip MsgEditorLT/compiled
-          echo "COMPRESSED_ARTIFACT=compiled.zip" >> $GITHUB_ENV
+          zip -r SpanishMod-dev_MC.zip MsgEditorLT/compiled
+          echo "COMPRESSED_ARTIFACT=SpanishMod-dev_MC.zip" >> $GITHUB_ENV
 
       - name: Create Release
         uses: ncipollo/release-action@v1
