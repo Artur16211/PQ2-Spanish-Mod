@@ -3,7 +3,7 @@ import subprocess
 import shutil
 import logging
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.WARNING)
 
 mod_folder = "MsgEditorLT/imported"
 output_folder = "MsgEditorLT/compiled"
