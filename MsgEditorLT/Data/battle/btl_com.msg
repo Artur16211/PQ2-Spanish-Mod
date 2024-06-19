@@ -1,6 +1,6 @@
 [sel YESNO_SEL top]  
 S胤
-No  
+No
 
 [sel DEAD_SEL top]  
 Continuar  

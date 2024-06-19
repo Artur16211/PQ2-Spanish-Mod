@@ -70,6 +70,7 @@ jobs:
           body: Latest commit version.
           draft: false
           prerelease: true
+          allowUpdates: true
           generateReleaseNotes: false
           makeLatest: legacy
           omitBody: false
