@@ -21,7 +21,92 @@ $show_font = array(
     "緯" => "Í",
     "遺" => "Ó",
     "郁" => "Ú",
-    "謂" => "Ñ"
+    "謂" => "Ñ",
+);
+
+$small_font = array(
+    'だ' => 'A',
+    'ち' => 'B',
+    'ぢ' => 'C',
+    'っ' => 'D',
+    'つ' => 'E',
+    'づ' => 'F',
+    'て' => 'G',
+    'で' => 'H',
+    'と' => 'I',
+    'ど' => 'J',
+    'な' => 'K',
+    'に' => 'L',
+    'ぬ' => 'M',
+    'ね' => 'N',
+    'の' => 'O',
+    'は' => 'P',
+    'ば' => 'Q',
+    'ぱ' => 'R',
+    'ひ' => 'S',
+    'び' => 'T',
+    'ぴ' => 'U',
+    'ふ' => 'V',
+    'ぶ' => 'W',
+    'ぷ' => 'X',
+    'へ' => 'Y',
+    'べ' => 'Z',
+    'ぺ' => 'a',
+    'ほ' => 'b',
+    'ぼ' => 'c',
+    'ぽ' => 'd',
+    'ま' => 'e',
+    'み' => 'f',
+    'む' => 'g',
+    'め' => 'h',
+    'も' => 'i',
+    'ゃ' => 'j',
+    'や' => 'k',
+    'ゅ' => 'l',
+    'ゆ' => 'm',
+    'ょ' => 'n',
+    'よ' => 'o',
+    'ら' => 'p',
+    'り' => 'q',
+    'る' => 'r',
+    'れ' => 's',
+    'ろ' => 't',
+    'ゎ' => 'u',
+    'わ' => 'v',
+    'ゐ' => 'w',
+    'ゑ' => 'x',
+    'を' => 'y',
+    'ん' => 'z',
+    'ァ' => 'á',
+    'ア' => 'Á',
+    'イ' => 'é',
+    'ゥ' => 'É',
+    'ウ' => 'í',
+    'ェ' => 'Í',
+    'ォ' => 'ñ',
+    'オ' => 'Ñ',
+    'カ' => 'ó',
+    'ガ' => 'Ó',
+    'グ' => 'ú',
+    'ゲ' => 'Ú',
+    'ィ' => '¡',
+    'エ' => '¿',
+    'ギ' => '/',
+    'ゼ' => '0',
+    'ソ' => '1',
+    'ゾ' => '2',
+    'タ' => '3',
+    'ダ' => '4',
+    'チ' => '5',
+    'ヂ' => '6',
+    'ッ' => '7',
+    'ツ' => '8',
+    'ヅ' => '9',
+    'テ' => '.',
+    'デ' => ',',
+    'ト' => ':',
+    'ド' => '(',
+    'ナ' => ')',
 );
 
 $show_font_inverse = array_flip($show_font);
@@ -50,7 +135,7 @@ $show_font_inverse = array_flip($show_font);
             <a class="btn btn-primary mt-2" href="index.php?dir=<?php echo $parentDir; ?>"><-</a>
             <button type="button" class="btn btn-warning" onclick="saveChanges()">Guardar Pendiente</button>
             <button type="button" class="btn btn-info" onclick="SaveAndmarkAsCompleted()">Guardar Completado</button>
-            <button type="button" class="btn btn-success" onclick="SaveAndmarkAsRevisedV2()">Guardar Revisado V2</button>
+            <button type="button" class="btn btn-success" onclick="SaveAndmarkAsRevisedV2()">Guardar Revisado</button>
         </div>
         <div class="row">
             <div class="col">
@@ -63,6 +148,7 @@ $show_font_inverse = array_flip($show_font);
                     foreach ($editableContent as $index => $line) {
                         $cleanedLine = str_replace('[n]', ' ', $line);
                         $cleanedLine = strtr($cleanedLine, $show_font);
+                        $cleanedLine = strtr($cleanedLine, $small_font);
                         echo '<textarea class="no-newline form-control mb-2" name="editable[]" rows="1" style="resize: none; height: 70px;">' . htmlspecialchars($cleanedLine) . '</textarea>';
                     }
                 } else {
