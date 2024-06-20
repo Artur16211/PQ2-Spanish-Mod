@@ -5,10 +5,10 @@ Teddie, 斡toma el volante!
 斡D姻jamelo a m胤!
 
 [msg MSG_BTL_003]
-斡Idiota, las manos en el volante!
+斡Idiota, tus manos en el volante!
 
 [msg MSG_BTL_004]
-斡M-mi est吋mago se atasc吋!
+斡M-Mi barriga se atasc吋!
 
 [msg MSG_BTL_005]
 斡夷Qu姻?!
