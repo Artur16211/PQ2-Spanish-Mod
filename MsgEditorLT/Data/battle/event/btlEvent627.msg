@@ -1,18 +1,18 @@
 [msg MSG_000 [P4 Protag]]
-Tan grande como lo esperaba...
-Pero no podemos echarnos atr茨s. 斡Vamos a[n]darlo todo, Joker!
+Tan enorme como lo esperaba...
+Pero no podemos echarnos atr茨s. 斡Vamos a darlo todo, Joker!
 
 [sel SEL_001 top]
-Hag茨moslo bien.
+Sincronic姻monos.
 Por supuesto.
 
 [msg MSG_002 [P4 Hero]]
-斡Entendido! Intentemos atacarlo al mismo[n]tiempo.
+斡Entendido! Intentemos atacarlo al mismo tiempo.
 
 [msg MSG_003 [P4 Hero]]
-斡Deber胤amos atacarlo juntos! 斡Conf胤o en[n]ti!
+斡Deber胤amos atacarlo juntos! 斡Conf胤o en ti!
 
 [msg MSG_010 [P4 Hero]]
-Parece que se est茨 retirando...
-斡Hora de retirarse, Joker!
+Parece que se retira...
+斡Hora de retirarnos tambi姻n, Joker!
 

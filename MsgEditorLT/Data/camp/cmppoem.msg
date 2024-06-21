@@ -1,16 +1,16 @@
 [msg CMPPOEM_PATHOS]
-夷Qu姻 compasi吋n deber胤a sentir...?
+Which pathos should I feel...?
 
 [msg CMPPOEM_NOT_PATHOS]
-Ahora no percibo nada...
+I don't sense anything now...
 
 [sel CMPPOEM_SELECT_1 top]
-"Hacia los Desalmados"
+"To the Heartless"
 "The Mongrels' Lullaby"
-"Novia Sangrienta"
-"Sorpresa de Cumplea隠os"
-"Ley"
-"Los Siete Pecados Capitales"
+"Bloody Bride"
+"Surprise Birthday"
+"Law"
+"The Seven Deadly Sins"
 ???
 ???
 ???

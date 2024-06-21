@@ -198,6 +198,8 @@ $show_font_inverse = array_flip($show_font);
                     $originalContent = file($originalFilePath);
                     foreach ($originalContent as $index => $line) {
                         $cleanedLine = str_replace('[n]', ' ', $line);
+                        $cleanedLine = strtr($cleanedLine, $show_font);
+                        $cleanedLine = strtr($cleanedLine, $small_font);
                         echo '<textarea class="form-control mb-2" name="original[]" rows="1" readonly style="resize: none; height: 70px;">' . htmlspecialchars($cleanedLine) . '</textarea>';
                     }
                 } else {
