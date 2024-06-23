@@ -140,7 +140,7 @@ Empecemos.
 斡Ese tesoro es nuestro!
 
 [msg MSG_041 [Ryuji]]
-Oh, te ves muy hinchada tambi姻n, . Debo[n]decir que es la primera vez que me[n]siento as胤 en un rato.
+Oh, te ves muy hinchada tambi姻n, [f 6 1 30 0 0 0][n]. Debo decir que es la primera vez que[n]me siento as胤 en un rato.
 
 [msg MSG_042 [Teddie]]
 斡Yo tambi姻n! 斡Le mostrar姻 a todos el[n]Teddie-way del fantasma ladrones!

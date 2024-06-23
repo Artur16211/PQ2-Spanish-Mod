@@ -92,7 +92,7 @@ Ni siquiera preguntes... Hay cosas que[n]es mejor no saber.
 斡Pero no te preocupes! 斡Nuestro Maestro[n]es un cocinero maestro!
 
 [msg MSG_029 [Morgana]]
-夷Oh? Apuesto a que las habilidades de[n]Joker se comparan con las de...
+夷Oh? Apuesto a que las habilidades de[n]Joker se comparan con las de [f 6 1 13 0 0 0]...
 Despu姻s de todo, 姻l vive en una[n]cafeter胤a. Cuando se trata de cocinar[n]curry, 斡no tiene rival!
 
 [msg MSG_030 [P4 Hero]]

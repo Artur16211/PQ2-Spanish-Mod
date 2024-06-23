@@ -4,7 +4,7 @@ Parece que has tenido una caza exitosa.[n]Felicitaciones.
 Esta es la recompensa por este tiempo.[n]Por favor, ac姻ptalo.
 
 [msg MSG_001 [Mitsuru]]
-Thanks for your help,.
+Thanks for your help, [f 6 1 26 0 0 0].
 Estoy seguro de que las versiones de[n]nosotros en tu mundo pueden descansar[n]f茨cil sabiendo que est茨s a cargo.
 
 [msg MSG_002 [P3 Fem Protag]]

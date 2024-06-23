@@ -55,5 +55,5 @@ No se ha elegido a un navegador.[n]斡Necesitas uno!
 Olvidaste elegir un navegador de campo.
 
 [msg PARTY_EDIT_RISKY_INVALID]
-Cuando tu dificultad est茨 configurada en[n]"Arriesgado", debes incluir en el grupo.
+Cuando tu dificultad est茨 configurada en[n]"Arriesgado", debes incluir [f 6 1 30 0 0 0] en el[n]grupo.
 

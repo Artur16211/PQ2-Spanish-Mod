@@ -5,7 +5,7 @@ Incluso ahora, no termino de creer que[n]todo esto est茨 dentro de una pel胤cu
 Un mont吋n de cosas que solo pasan en las[n]pel胤culas ocurren aqu胤.
 
 [msg MSG_002 [Junpei]]
-Aunque, el tema de [f 6 1 16 0 0] y es lo que es[n]incre胤ble ahora mismo.
+Aunque, el tema de [f 6 1 16 0 0] y [f 6 1 27 0 0 0] es lo[n]que es incre胤ble ahora mismo.
 
 [msg MSG_003 [Akihiko]]
 Mundos paralelos, eh...

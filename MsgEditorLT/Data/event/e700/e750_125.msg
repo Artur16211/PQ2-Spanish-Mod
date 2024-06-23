@@ -2,7 +2,7 @@
 斡夷Ah?! 斡夷Qu姻 fue ese ruido?!
 
 [msg MSG_001 [Akechi]]
-夷Quiz茨s ese FOE [f 0 1 2]destruy吋 los escombrosde[n]antes?
+夷Quiz茨s ese FOE [f 0 1 2]destruy吋 los escombros[f 0 1 0][n]de antes?
 
 [msg MSG_002 [Fuuka]]
 Lo comprobar姻. Veamos...

@@ -24,7 +24,7 @@ S胤, es solo una pel胤cula normal. No[n]estoy seguro por qu姻, pero... de rep
 
 [msg MSG_008 [Ken]]
 Oh, 夷qu姻 alquilaste?
-Me intriga tu gusto por las pel胤culas,.
+Me intriga tu gusto por las pel胤culas,[n][f 6 1 16 0 0].
 
 [msg MSG_009 [P3 Hero]]
 Si te parece bien, 夷quieres verla[n]conmigo?
@@ -38,7 +38,7 @@ Bueno... ver una pel胤cula en el espacio[n]compartido del dormitorio parece...
 
 [msg MSG_012 [Akihiko]]
 Vamos. Es importante relajarse de vez en[n]cuando.
-Adem茨s, me intriga una pel胤cula que[n]quiere ver tan de repente.
+Adem茨s, me intriga una pel胤cula que[n][f 6 1 16 0 0] quiere ver tan de repente.
 
 [msg MSG_013 [Yukari]]
 Ah, 斡entonces traer姻 las palomitas! Creo[n]que tengo algunas guardadas en mi[n]habitaci吋n...
@@ -65,7 +65,7 @@ Pel胤culas, 夷eh? Bueno, quiz茨s algo as胤[n]no est姻 mal... de vez en cuan
 ...He estado pregunt茨ndome esto desde[n]hace bastante tiempo, pero 夷de d吋nde[n]demonios aprendes ese lenguaje?
 
 [msg MSG_021 [Shinjiro]]
-Entonces, 夷de qu姻 pel胤cula se trata,?
+Entonces, 夷de qu姻 pel胤cula se trata,[n][f 6 1 16 0 0]?
 
 [msg MSG_022 [Junpei]]
 Oh, 夷es de ciencia ficci吋n? Creo que era[n]un g姻nero muy popular hace tiempo.

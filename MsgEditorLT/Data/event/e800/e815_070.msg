@@ -13,7 +13,7 @@ Nunca le dir胤a que no a un oponente[n]dif胤cil. Esperando al siguiente.
 El 雨nico sanguinario aqu胤 eres t雨.
 
 [msg MSG_004 [Akechi]]
-Well then, I think I'll take a break,.
+Well then, I think I'll take a break,[n][f 6 1 30 0 0 0].
 
 [msg MSG_005 [Akechi]]
 Phew...

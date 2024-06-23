@@ -12,5 +12,5 @@ Volver a la base
 Explorar libremente
 
 [msg DG_MSG_QST_PROGRESS_ENEM]
-Derrotado x[f 2 4 1].
+Derrotado [f 2 4 0][n]x[f 2 4 1].
 

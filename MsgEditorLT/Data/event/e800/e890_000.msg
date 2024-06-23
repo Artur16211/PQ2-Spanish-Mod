@@ -8,7 +8,7 @@ Oigamos.
 
 [msg MSG_002 [Elizabeth]]
 Bueno, por favor tenga en cuenta que[n]esto es principalmente especulaci吋n,[n]pero...
-In the special screening in question,[n]engaged in battle, as requested on its[n]ticket.
+In the special screening in question,[n][f 6 1 30 0 0 0] engaged in battle, as requested[n]on its ticket.
 La pel胤cula fue dejada por la Sombra[n]derrotada por el poder de [f 6 1 30 0 0 0]. En[n]otras palabras...
 Imagino que su poder es directamente[n]responsable de la apariencia de la[n]pel胤cula.
 
@@ -70,7 +70,7 @@ Bueno entonces. Ten una pelea con ellos[n]ahora mismo.
 夷Huh?
 
 [msg MSG_016_1 [Theodore]]
-A bout...? You want me to fight and his[n]companions?!
+A bout...? You want me to fight [f 6 1 30 0 0 0][n]and his companions?!
 
 [msg MSG_017 [Elizabeth]]
 斡De hecho! Naturalmente, no hay[n]necesidad de retener.

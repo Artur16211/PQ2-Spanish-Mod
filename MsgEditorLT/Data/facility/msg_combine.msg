@@ -27,7 +27,7 @@ Tienes [f 4 4 3 0 1350][n]x[f 2 4 0]. 夷Deber胤amos usar esto[n]para fusionar 
 Parece que te faltan fondos.
 
 [msg combine_money_conf [Justine]]
-Tomaremos yenes[f 0 1 0] para invocar esta[n]Persona. 夷Est茨s seguro?
+Tomaremos [f 0 1 2][f 2 4 0] yenes[f 0 1 0] para[n]invocar esta Persona. 夷Est茨s seguro?
 
 [msg combine_succession [Justine]]
 Elige las habilidades que deseas[n]transferir.
@@ -72,7 +72,7 @@ Not used
 ★未使用！
 
 [msg combine_get_card]
-斡La Persona ha surgido del mar de tu[n]alma!
+斡La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha surgido[n]del mar de tu alma!
 
 [msg combine_accident [Caroline]]
 Eso no estaba exactamente en el plan...[n]B-bueno, 斡no es nuestro problema!
@@ -129,13 +129,13 @@ Not used
 ★未使用！
 
 [msg zensyo_summons [Caroline]]
-Costar茨 yenes[f 0 1 0] invocar a esta Persona.[n]夷Est茨s seguro?
+Costar茨 [f 0 1 2][f 2 4 0] yenes[f 0 1 0] invocar a[n]esta Persona. 夷Est茨s seguro?
 
 [msg zensyo_not_summons [Justine]]
 No tienes suficiente dinero. Por favor,[n]no malgastes nuestro tiempo.
 
 [msg zensyo_get_summons]
-La Persona ha sido invocada.
+La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha sido[n]invocada.
 
 [msg zensyo_not2_summons [Justine]]
 Parece que ya tienes esta Persona. 夷No[n]pensaste en verificarlo?
@@ -150,7 +150,7 @@ No puedes tener m茨s Personas. La[n]avaricia no es buena.
 斡La Cinta ha sido sobrescrita!
 
 [msg zensyo_add_check [Caroline]]
-Quieres registrar con las otras Cintas[n]Persona, 夷verdad?
+Quieres registrar [f 0 1 1][f 2 4 0][f 0 1 0] con[n]las otras Cintas Persona, 夷verdad?
 
 [msg zensyo_all_add_check [Caroline]]
 Puedo registrar todas las Cintas de[n]Personas que tengas, 夷verdad?
@@ -190,7 +190,7 @@ Parece que no tienes Personas que pueda[n]registrar. Francamente, es[n]decepcion
 
 [msg skill_powerup [Margaret]]
 ペルソナのスキルが強化しそうです。
-『』を強化しますか？
+『[f 0 1 1][f 2 4 0][f 0 1 0]』を強化しますか？
 
 [msg cmb_comu_achieve_get_ite]
 Recibiste [f 2 5 3 65535 0].
@@ -472,146 +472,146 @@ Not used
 斡SOY UN TONTO!
 
 [msg msg_combine_MESSAGE001 [1]]
-Soy ...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]...
 Abre tus ojos... 斡Te levantar茨s...!
 
 [msg msg_combine_MESSAGE002 [1]]
-Soy ... Nuestros cuerpos pueden ser[n]diferentes, pero yo soy t雨. Me pongo a[n]tu cuidado.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Nuestros cuerpos[n]pueden ser diferentes, pero yo soy t雨.[n]Me pongo a tu cuidado.
 
 [msg msg_combine_MESSAGE003 [1]]
 夷Eres t雨 quien me llam吋...?
 Te ves fuerte... Muy bien. Estoy de[n]acuerdo en acompa隠arte.
-Soy . Estoy bajo tu cuidado...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Estoy bajo tu[n]cuidado...
 
 [msg msg_combine_MESSAGE004 [1]]
-Soy . Te prestar姻 el poder que puedo[n]ofrecer.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Te prestar姻 el[n]poder que puedo ofrecer.
 
 [msg msg_combine_MESSAGE005 [1]]
-Soy . Soy uno de los muchos que residen[n]en el mar de tu alma...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Soy uno de los[n]muchos que residen en el mar de tu[n]alma...
 
 [msg msg_combine_MESSAGE006 [1]]
-Soy . 斡Te proteger姻 con todo mi poder!
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡Te proteger姻 con[n]todo mi poder!
 
 [msg msg_combine_MESSAGE007 [1]]
-Soy ... No me olvidar茨s pronto...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... No me olvidar茨s[n]pronto...
 
 [msg msg_combine_MESSAGE008 [1]]
-Mi nombre es ... Juntos caminaremos por[n]este largo y arduo camino...
+Mi nombre es [f 0 1 1][f 2 4 1][f 0 1 0]... Juntos[n]caminaremos por este largo y arduo[n]camino...
 
 [msg msg_combine_MESSAGE009 [1]]
-Soy . Tu escudo, tu espada, tu amigo...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Tu escudo, tu[n]espada, tu amigo...
 
 [msg msg_combine_MESSAGE010 [1]]
-Soy . Soy uno contigo... Por favor[n]recuerde eso.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Soy uno contigo...[n]Por favor recuerde eso.
 
 [msg msg_combine_MESSAGE011 [1]]
-Soy . Te proteger姻 y curar姻 tus[n]heridas...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Te proteger姻 y[n]curar姻 tus heridas...
 
 [msg msg_combine_MESSAGE012 [1]]
-斡Soy ! 斡Atestiguar茨s mi poder con tus[n]propios ojos!
+斡Soy [f 0 1 1][f 2 4 1][f 0 1 0]! 斡Atestiguar茨s mi[n]poder con tus propios ojos!
 
 [msg msg_combine_MESSAGE013 [1]]
-Soy ... Esta espada ser茨 usada en tu[n]nombre...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Esta espada ser茨[n]usada en tu nombre...
 
 [msg msg_combine_MESSAGE014 [1]]
-Soy . Har姻 todo lo posible para darte[n]apoyo.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Har姻 todo lo[n]posible para darte apoyo.
 
 [msg msg_combine_MESSAGE015 [1]]
-Soy . 斡Rel茨jate y dejale todo a tu gran[n]hermana!
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡Rel茨jate y dejale[n]todo a tu gran hermana!
 
 [msg msg_combine_MESSAGE016 [1]]
-Soy . Har姻 todo lo posible, as胤 que por[n]favor d姻jame quedarme.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Har姻 todo lo[n]posible, as胤 que por favor d姻jame[n]quedarme.
 
 [msg msg_combine_MESSAGE017 [1]]
-Soy ... Veamos la verdadera fuerza de tu[n]determinaci吋n.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Veamos la[n]verdadera fuerza de tu determinaci吋n.
 
 [msg msg_combine_MESSAGE018 [1]]
-Soy . Mu姻strame qu姻 poderes tienes...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Mu姻strame qu姻[n]poderes tienes...
 
 [msg msg_combine_MESSAGE019 [1]]
-斡Soy ! 斡Nuestra victoria est茨 en tus[n]manos!
+斡Soy [f 0 1 1][f 2 4 1][f 0 1 0]! 斡Nuestra victoria[n]est茨 en tus manos!
 
 [msg msg_combine_MESSAGE020 [1]]
-Soy . Siempre estar姻 a tu lado...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Siempre estar姻 a tu[n]lado...
 
 [msg msg_combine_MESSAGE021 [1]]
-Soy ... Ir姻 contigo a construir un[n]futuro m茨s brillante...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Ir姻 contigo a[n]construir un futuro m茨s brillante...
 
 [msg msg_combine_MESSAGE022 [1]]
-Soy ... Muy bien, tendr茨s mi fuerza a tu[n]disposici吋n.
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Muy bien, tendr茨s[n]mi fuerza a tu disposici吋n.
 
 [msg msg_combine_MESSAGE023 [1]]
-Soy . 斡Estoy contigo en el camino de la[n]gloria!
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡Estoy contigo en[n]el camino de la gloria!
 
 [msg msg_combine_MESSAGE024 [1]]
-Soy . 斡La misi吋n de mi vida ser茨[n]mantenerte a salvo!
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡La misi吋n de mi[n]vida ser茨 mantenerte a salvo!
 
 [msg msg_combine_MESSAGE025 [1]]
-Soy ... He venido a ti, cuyo coraz吋n[n]desea poder...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... He venido a ti,[n]cuyo coraz吋n desea poder...
 
 [msg msg_combine_MESSAGE026 [1]]
-Yo . Te invito todo.
+Yo [f 0 1 1][f 2 4 1][f 0 1 0]. Te invito todo.
 
 [msg msg_combine_MESSAGE027 [1]]
-Soy ... Nac胤 de ti, y por eso volver姻 a[n]ti...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Nac胤 de ti, y por[n]eso volver姻 a ti...
 
 [msg msg_combine_MESSAGE028 [1]]
-Soy . 斡Puedes contar conmigo! Me[n]asegurar姻 de que ganemos...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡Puedes contar[n]conmigo! Me asegurar姻 de que ganemos...
 
 [msg msg_combine_MESSAGE029 [1]]
-Y-yo soy ! 斡Yo sOy uNo COnTiGo!
+Y-yo soy [f 0 1 1][f 2 4 1][f 0 1 0]! 斡Yo sOy uNo[n]COnTiGo!
 
 [msg msg_combine_MESSAGE030 [1]]
-YO SOY . Es un placer conocerte...
+YO SOY [f 0 1 1][f 2 4 1][f 0 1 0]. Es un placer[n]conocerte...
 
 [msg msg_combine_MESSAGE031 [1]]
 ... Sube. Estamos en un viaje de ida al[n]infierno...
 
 [msg msg_combine_MESSAGE032 [1]]
-Antes de estar ... Soy el invicto que te[n]jura lealtad...
+Antes de estar [f 0 1 1][f 2 4 1][f 0 1 0]... Soy el[n]invicto que te jura lealtad...
 
 [msg msg_combine_MESSAGE033 [1]]
-Hola. Soy . Te acompa隠ar姻 en tu viaje.
+Hola. Soy [f 0 1 1][f 2 4 1][f 0 1 0]. Te acompa隠ar姻[n]en tu viaje.
 
 [msg msg_combine_MESSAGE034 [1]]
-Soy ... Supongo que te cuidar姻 por un[n]tiempo...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Supongo que te[n]cuidar姻 por un tiempo...
 
 [msg msg_combine_MESSAGE035 [1]]
-斡Soy , ho! Encantado de conocerte, hee[n]ho!
+斡Soy [f 0 1 1][f 2 4 1][f 0 1 0], ho! Encantado de[n]conocerte, hee ho!
 
 [msg msg_combine_MESSAGE036 [1]]
 ... 夷Jugar茨s conmigo por y para siempre?
 
 [msg msg_combine_MESSAGE037 [1]]
-斡Soy . 斡Ser姻 el salvaje harbinger de tu[n]victoria absoluta!
+斡Soy [f 0 1 1][f 2 4 1][f 0 1 0]. 斡Ser姻 el salvaje[n]harbinger de tu victoria absoluta!
 
 [msg msg_combine_MESSAGE038 [1]]
-斡Soy , hee hoooo! 斡No me subestimes, hee[n]hee ho!
+斡Soy [f 0 1 1][f 2 4 1][f 0 1 0], hee hoooo! 斡No me[n]subestimes, hee hee ho!
 
 [msg msg_combine_MESSAGE039 [1]]
 夷Qui姻n se atreve a llamarme?
 Tienes la fuerza para penetrar esta[n]oscuridad atormentada... Tienes mi[n]inter姻s, chico...
-Soy ... Te prestar姻 mi poder por[n]ahora...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Te prestar姻 mi[n]poder por ahora...
 
 [msg msg_combine_MESSAGE040 [1]]
 夷Qui姻n se atreve a llamarme...?
 Eres un ni隠o noble, para tener una luz[n]tan fuerte. Te dar姻 mi protecci吋n...
-Soy ... Intentar姻 estar a la altura de[n]la fuerza de tu coraz吋n...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Intentar姻 estar a[n]la altura de la fuerza de tu coraz吋n...
 
 [msg msg_combine_MESSAGE041 [1]]
 T雨 eres yo... Y yo soy t雨... Desde el[n]mar de tu alma, vengo...
 Desde el mismo momento de mi emergencia,[n]he sido una luz gu胤a para iluminar tu[n]camino...
-Soy el dios original......
+Soy el dios original...[n][f 0 1 1][f 2 4 1][f 0 1 0]...
 
 [msg msg_combine_MESSAGE042 [1]]
 夷Qui姻n me llama...?
 Tu coraz吋n brillante brilla incluso en[n]la noche m茨s oscura... Ser姻 tu fuerza...
-Soy ... Que tu luz nunca se apague...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Que tu luz nunca[n]se apague...
 
 [msg msg_combine_MESSAGE043 [1]]
 夷Qui姻n me llama?
 Uno que brilla en la inimaginable[n]oscuridad... 夷Incluso dibujar茨s en tu[n]ser hueco por tu fuerza?
-Soy ... Yo marcar姻 el camino que[n]tomes...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Yo marcar姻 el[n]camino que tomes...
 
 [msg msg_combine_NETWORK_STOC [Marie]]
 Esto no va a funcionar. No tienes[n]ninguna Persona Secundaria.
@@ -628,13 +628,13 @@ Dummy
 夷Es esta la Persona que quieres mejorar[n]con el poder del sacrificio?
 
 [msg msg_combine_sacrifice_bo]
-El poder de las Personas sacrificadas se[n]vierte en ...
+El poder de las Personas sacrificadas se[n]vierte en [f 0 1 1][f 2 4 0][f 0 1 0]...
 
 [msg msg_combine_sacrifice_it]
 La habilidad de la Persona sacrificada[n]habita en su interior...
 
 [msg msg_combine_sacrifice_it_2]
-斡Obtuviste!
+斡Obtuviste[n][f 0 7 0 65535][f 2 5 3 65535 0][f 0 7 150 65535][f 2 5 3 65535 1][n][f 0 7 0 65535][f 2 5 3 65535 2][f 0 7 150 65535][f 2 5 3 65535 3]!
 
 [msg msg_combine_sacrifice_it_3]
 Todas las ranuras de habilidades est茨n[n]llenas. Por favor, selecciona una[n]habilidad para olvidar.
@@ -856,7 +856,7 @@ Yo soy t雨... T雨 eres yo... Del mar de tu[n]alma, surge...
 Yo soy [f 0 1 1]Orpheus[f 0 1 0], maestro de las[n]cuerdas...
 
 [msg msg_combine_MESSAGE047 [1]]
-Yo soy ... El que nace de ti y camina a[n]tu lado...
+Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]... El que nace de[n]ti y camina a tu lado...
 
 [msg msg_combine_MESSAGE048 [Caroline]]
 ★未使用！
@@ -905,22 +905,22 @@ Cancelar fusi吋n
 Utilizar un ticket
 
 [msg msg_combine_sac_skill_ch [Margaret]]
-Tienes x. 夷Le gustar胤a utilizarlo para[n]transmitir?
+Tienes [f 0 1 3][f 2 4 0][f 0 1 0] x[f 0 1 3][f 2 4 2][f 0 1 0]. 夷Le[n]gustar胤a utilizarlo para transmitir[n][f 0 1 1][f 2 4 1][f 0 1 0]?
 
 [msg msg_combine_sac_skill_ge]
-ha aprendido!
+ha aprendido [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg msg_combine_sac_skill_ha]
 Ya tienes [f 2 4 0].
 
 [msg msg_combine_stock_over_s [Justine]]
-Se necesitan ranura(s) adicional(es)[n]para retirarse del inventario de[n]Personas.
+ひま ょまぼまれもろぺょ [み ゼ ヂ ゾチチ[n]ゾチチ]のちどつびのねぴぬつぱののちどぷはつぱひのねだねだぬつねぴぬソ るぺょゎるぺドれナ[n]ぺぽもぼもよょぺゅドまれナ らぺるぺ るまろもるぺるれま ぽまゅ もょわまょろぺるもよ ぽま[n]はまるれよょぺれテ
 
 [msg msg_combine_sac_cost_fre [Margaret]]
 Dado que es la primera vez que veo esta[n]resonancia de poder, no habr茨 ning雨n[n]costo. 夷Est茨 seguro?
 
 [msg msg_combine_sac_cost_che [Margaret]]
-Necesito yenes[f 0 1 0] para esta Fusi吋n de[n]Sacrificio. 夷Puedo proceder?
+Necesito [f 0 1 2][f 2 4 0] yenes[f 0 1 0] para esta[n]Fusi吋n de Sacrificio. 夷Puedo proceder?
 
 [msg combine_money_caro [Caroline]]
 斡No tienes suficiente dinero! 斡Qu姻[n]verguenza!
@@ -958,53 +958,53 @@ Aceptar
 Cancelar
 
 [msg msg_combine_MESSAGE__048 [1]]
-Soy .
+Soy [f 0 1 1][f 2 4 1][f 0 1 0].
 Debo ayudar a un Embaucador, 夷eh? Que[n]as胤 sea. Te ayudar姻 a limpiar tu nombre.
 
 [msg msg_combine_MESSAGE__049 [1]]
-Soy .
+Soy [f 0 1 1][f 2 4 1][f 0 1 0].
 De ahora en adelante, Embaucador, acepto[n]existir a tu lado y ayudar a tu causa...
 
 [msg msg_combine_MESSAGE__050 [1]]
-Soy ...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]...
 Nac胤 de ti, y contigo caminar姻 por esta[n]tierra... como c吋mplice voluntario del[n]Embaucador...
 
 [msg msg_combine_MESSAGE__051 [1]]
-Soy ...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]...
 Abre los ojos... 斡Despierta, Embaucador!
 
 [msg msg_combine_MESSAGE__052 [1]]
 夷Qui姻n se atreve a llamarme...?
 El que hace brillar la luz sobre las[n]tinieblas... 夷Te atreves a hacer de la[n]nada tu objeto?
-Soy ... Yo determinar姻 el camino que[n]tomes...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Yo determinar姻 el[n]camino que tomes...
 
 [msg msg_combine_MESSAGE__053 [1]]
 夷Qui姻n se atreve a llamarme...?
 Oh coraz吋n radiante que brilla en la[n]noche... Me convertir姻 en tu fuerza,[n]Embaucador...
-Soy ... Que tu luz nunca se apague...
+Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Que tu luz nunca[n]se apague...
 
 [msg msg_combine_MESSAGE__054 [1]]
-Soy .
+Soy [f 0 1 1][f 2 4 1][f 0 1 0].
 斡Con una diosa como yo a tu lado,[n]conocer茨s la verdadera victoria!
 
 [msg msg_combine_MESSAGE__055 [1]]
-Soy .
+Soy [f 0 1 1][f 2 4 1][f 0 1 0].
 斡Sigue luchando, Embaucador! 斡Seguir姻 tu[n]camino y ser姻 tu fuerza!
 
 [msg msg_combine_MESSAGE__056 [1]]
-Soy .
+Soy [f 0 1 1][f 2 4 1][f 0 1 0].
 Locura en mi mano derecha, tenacidad en[n]la izquierda... Ahora bien, 夷a qui姻n[n]destrozar姻 primero?
 
 [msg msg_combine_MESSAGE__057 [1]]
-Soy .
+Soy [f 0 1 1][f 2 4 1][f 0 1 0].
 Voy a ayudar al Embaucador...? No[n]importa. 斡Traer姻 el dolor como siempre[n]lo hago!
 
 [msg msg_combine_MESSAGE__058 [1]]
-斡Ja, ja, ja! Yo soy !
+斡Ja, ja, ja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]!
 夷Quieres mi fuerza...? Heh... Bien. Pero[n]no bajes la guardia, 斡o te aplastar姻 yo[n]mismo!
 
 [msg msg_combine_MESSAGE__059 [1]]
-斡Ja, ja, ja! Yo soy !
+斡Ja, ja, ja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]!
 夷As胤 que un Embaucador quiere mi ayuda?[n]Me parece bien... 斡Aplastar姻 a[n]cualquiera que se te cruce!
 
 [msg cmb_cmm_quest02 [マー遺レ7:]]

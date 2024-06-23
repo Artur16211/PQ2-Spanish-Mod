@@ -15,7 +15,7 @@ OK, Un segundo. Mmm... Fuuka, Rise, 夷qu姻[n]opinan de esto?
 Um... 夷Creo que el aire ha cambiado un[n]poco?
 
 [msg MSG_005 [Rise]]
-Mmhm, yo tambi姻n lo siento. 夷Quiz茨s[n]uncambio en la direcci吋n del viento[f 0 1 0]?
+Mmhm, yo tambi姻n lo siento. 夷Quiz茨s un[n][f 0 1 2]cambio en la direcci吋n del viento[f 0 1 0]?
 
 [msg MSG_006 [Akihiko]]
 Bueno, 夷qu姻 hacemos ahora?

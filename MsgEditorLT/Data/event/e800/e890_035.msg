@@ -152,7 +152,7 @@ Me disculpo por no mencionarlo hasta[n]ahora, pero tambi姻n tengo una recompens
 Ahora, ir姻 en camino. Reunamos en la[n]taquilla.
 
 [msg PERSONA_STOCK_UP_MSG]
-Superar este ordeal ha fortalecido el[n]poder de la tarjeta salvaje. Su stock de[n]Persona ha aumentado en .
+ひゎらまるぺる まれろま よるぽまぺゅ めぺ みよるろぺゅまぼもぽよ まゅ らよぽまる ぽま[n]ゅぺ ろぺるゃまろぺ れぺゅわぺゃまテ ひゎ れろよぼや ぽま はまるれよょぺ めぺ[n]ぺゎゆまょろぺぽよ まょ [f 0 1 2] はつぱひのねだねだぬつねぴぬソ[f 0 1 0] テ
 
 [msg SYS_MES_000]
 El efecto de [f 4 4 3 0 1596] ha[n]aumentado el impulso EXP de los Bonos[n]Finales.

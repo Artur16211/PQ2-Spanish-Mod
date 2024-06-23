@@ -5,5 +5,5 @@ Uno: 斡Como p姻talos revoloteando!
 Dos: 斡Como un p茨jaro volando!
 
 [msg MSG_BTL_003]
-Tres: 斡m胤renos derrotarlos con gracia!
+Tres: 斡Miren c吋mo los derribamos con[n]elegancia!
 

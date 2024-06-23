@@ -54,12 +54,12 @@ Ser胤a bastante problem茨tico si nos[n]atrapa mientras luchamos contra otros[n
 Aseg雨rate de permanecer cauteloso[n]mientras huyes del FOE.
 
 [msg MSG_TUTORIAL_FOE_1]
-Los movimientos de un FOE se pueden[n]veren el mapa[f 0 1 0].
-Los FOEs seguir茨n movi姻ndose[n]inclusomientras est茨s en combate con[n]otros enemigos[f 0 1 0].
+Los movimientos de un FOE se pueden ver[f 0 1 2][n]en el mapa[f 0 1 0].
+Los FOEs seguir茨n movi姻ndose incluso[f 0 1 2][n]mientras est茨s en combate con otros[n]enemigos[f 0 1 0].
 Si un FOE te atrapa mientras combates[n]con otro enemigo, 斡El FOE va a[f 0 1 2] unirse a[n]la batalla[f 0 1 0]!
 
 [msg MSG_TUTORIAL_ENEMY_UI]
 El medidor de proximidad muestra el[n]riesgo[f 0 1 2] de entrar en batalla[f 0 1 0].
 Gris significa que est茨s a salvo.[f 0 1 0] Pero a[n]medida que te mueves, el color cambiara[n]de verde, amarillo, y finalmente a rojo.
-Rojo indica que una batalla es[n]inminente.斡Observa el medidor mientras[n]exploras!
+Rojo indica que una batalla es[n]inminente.[f 0 1 0] 斡Observa el medidor mientras[n]exploras!
 

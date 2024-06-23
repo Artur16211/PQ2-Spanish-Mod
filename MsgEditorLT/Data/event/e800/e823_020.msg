@@ -46,7 +46,7 @@ Nunca terminar茨. No tienes la intenci吋n[n]de esperarlo, 夷verdad?
 斡Est茨 bien, tengo una idea! 斡D姻melo!
 
 [msg MSG_014 [Mitsuru]]
-What do you plan to do,?
+What do you plan to do, [f 6 1 26 0 0 0]?
 
 [msg MSG_015 [P3 Fem Protag]]
 Shinjiro-senpai! 斡Akihiko-senpai![n]斡Escucha!
@@ -98,5 +98,5 @@ Ahaha, estoy acostumbrado. 斡Los que[n]conozco son as胤!
 
 [msg MSG_029 [Mitsuru]]
 夷Son as胤 tambi姻n? Ya me est茨 dando dolor[n]de cabeza...
-De cualquier manera, gracias a[n]finalmente podemos avanzar. Vamos.
+De cualquier manera, gracias a [f 6 1 26 0 0 0][n]finalmente podemos avanzar. Vamos.
 

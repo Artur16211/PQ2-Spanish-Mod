@@ -18,7 +18,7 @@ Badass.
 Suena como ese francotirador de esa[n]serie de mangas...
 
 [msg MSG_006 [Yosuke]]
-Nothing gets past you does it,...?
+Nothing gets past you does it,[n][f 6 1 30 0 0 0]...?
 
 [msg MSG_007 [Ann]]
 Aqu胤, Koro. Est茨 bien.

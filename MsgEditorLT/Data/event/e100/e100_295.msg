@@ -82,5 +82,5 @@ Esto es un poco diferente a la forma en[n]que estoy acostumbrada a hacerlo, pero
 Parece que ya hay Personas en esta[n]pel胤cula, puedes tenerlas si quieres.
 
 [msg GET_P3PHERO_PERSONA_MSG]
-ぱまぼもほもれろま ゅぺ らまるれよょぺ ゑ ぽまテ だぽまゆァれデ ぼよょ ゅぺ[n]もょぼよるらよるぺぼもカょ ぽま ゎょぺ ょゎまわぺ ぼよゆらぺォまるぺ ぼよょ まゅ[n]らよぽまる ぽまゅ ぼよゆよぽウょデ ろゎ ぼぺらぺぼもぽぺぽ めぺ ぺゎゆまょろぺぽよ ぺ[n]テ
+ぱまぼもほもれろま ゅぺ らまるれよょぺ ゑ[f 0 1 2]はつぱひのねだねだぬつねぴぬゾ[f 0 1 0] ぽま [み ヂ[n]ソ ゾツ ゼ ゼ ゼ]テ だぽまゆァれデ ぼよょ ゅぺ もょぼよるらよるぺぼもカょ ぽま[n]ゎょぺ ょゎまわぺ ぼよゆらぺォまるぺ ぼよょ まゅ らよぽまる ぽまゅ ぼよゆよぽウょデ[n]ろゎ ぼぺらぺぼもぽぺぽ めぺ ぺゎゆまょろぺぽよ ぺ [f 0 1 2]はつぱひのねだねだぬつねぴぬソ[f 0 1 0]テ
 

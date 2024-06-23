@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-ィぴょ ぼぺるるもろよ みゎまるぺ ぽまゅ ぼよょろるよゅ れま らるまよぼゎらぺ[n]めぺぼもぺ ゅよれ ろるぺほぺゃぺぽよるまれ ぼよょぽまょぺぽよれ! はまるよ まょ まゅ[n]グゅろもゆよ ゆよゆまょろよデ ぽまぼもぽま れゎ ぽまれろもょよ!
+ィぴょ ぼぺるるもろよ みゎまるぺ ぽまゅ ぼよょろるよゅ れま らるまよぼゎらぺ[n]めぺぼもぺ ゅよれ ろるぺほぺゃぺぽよるまれ ぼよょぽまょぺぽよれ! はまるよ まょ まゅ[n]グゅろもゆよ ゆよゆまょろよデ はチぬぢねゾ ぽまぼもぽま れゎ ぽまれろもょよ!
 ... Tal vez s吋lo fueron dos preguntas,[n]pero pueden haber mostrado una gran[n]comprensi吋n de sus corazones.
 Mientras esto era un poco de salida de[n]las proyecciones especiales habituales,[n]disfrut姻 sin embargo.
 

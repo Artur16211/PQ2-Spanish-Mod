@@ -11,25 +11,25 @@
 斡Mierda! 斡Se transform吋!
 
 [msg MSG_0004 [夷Kamoshidaman?]]
-斡JA, JA, JA! 斡Voy a mostrarles mi verdadero poder!
+斡JA, JA, JA! 斡Les mostrar姻 mi verdadero[n]poder!
 
 [msg MSG_000 [Ann]]
-斡夷QU畏 es eso?! Es espeluznante... 斡N-no puede ser!
+斡夷QU畏 es eso?! Es espeluznante... 斡N-no[n]puede ser!
 
 [msg MSG_001 [Akechi]]
-Es desagradable... pero, 夷por qu姻 un conejo?
+Es desagradable... pero, 夷por qu姻 un[n]conejo?
 
 [msg MSG_002 [Yusuke]]
 Lo discutiremos despu姻s. 斡Aqu胤 viene!
 
 [msg MSG_003 [夷Kamoshidaman?]]
-斡Malhechores corruptos! 斡Entreguen sus armas y r胤ndanse!
+斡Malhechores corruptos! 斡Entreguen sus[n]armas y rindanse!
 
 [msg MSG_004 [夷Kamoshidaman?]]
-La justicia... 斡La justicia siempre gana!
+La justicia... 斡La justicia siempre[n]gana!
 
 [msg MSG_005 [夷Kamoshidaman?]]
-斡Imposible...! 斡夷C吋mo es que yo, la justicia encarnada, es derrotada?!
+斡Imposible...! 斡夷C吋mo es que yo, la[n]justicia encarnada, es derrotado?!
 
 [msg MSG_006 [夷Kamoshidaman?]]
 斡夷Por qu姻?! 夷C吋mo...? Mi justicia...

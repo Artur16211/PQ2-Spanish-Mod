@@ -8,7 +8,7 @@ Encontr姻 algo interesante entre la[n]mercanc胤a, y quer胤a mostr茨rselos.
 夷Ah, s胤? Ve茨moslo.
 
 [msg WSHOP_1ST_IN_MES_NAG_03 [Nagi]]
-Por supuesto. Se llama ...
+Por supuesto. Se llama [f 4 4 4 0[n]1333]...
 La descripci吋n dice [f 0 1 2]Objeto para regresar[n]al Cine[f 0 1 0].
 夷Quiz茨 podr胤a ser utilidad...?
 

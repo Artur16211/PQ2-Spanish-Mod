@@ -1,17 +1,17 @@
 [msg MSG_BGM_000]
-Reproduce aleatoriamente la m雨sica original desbloqueada de Persona Q2
+Reproduce aleatoriamente la m雨sica[n]original desbloqueada de Persona Q2
 
 [msg MSG_BGM_001]
-M雨sica original de Persona Q2 versi吋n de Persona 5
+M雨sica original de Persona Q2 versi吋n de[n]Persona 5
 
 [msg MSG_BGM_002]
-M雨sica original de Persona Q2 versi吋n de Persona 3 Portable
+M雨sica original de Persona Q2 versi吋n de[n]Persona 3 Portable
 
 [msg MSG_BGM_003]
-M雨sica original de Persona Q2 versi吋n de Persona 4
+M雨sica original de Persona Q2 versi吋n de[n]Persona 4
 
 [msg MSG_BGM_004]
-M雨sica original de Persona Q2 versi吋n de Persona 3
+M雨sica original de Persona Q2 versi吋n de[n]Persona 3
 
 [msg MSG_BGM_005]
 De Persona 3
@@ -41,5 +41,5 @@ De Persona 5
 De Persona 5
 
 [msg MSG_BGM_014]
-Reproduce aleatoriamente todas las pistas de la lista (incluyendo DLC).
+Reproduce aleatoriamente todas las[n]pistas de m雨sica en la lista (incluyendo[n]DLC).
 

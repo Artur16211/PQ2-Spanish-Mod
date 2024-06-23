@@ -32,7 +32,7 @@ Adem茨s, considerando la forma en la que[n]te habl吋, dudo que seas diferente 
 [msg MSG_008 [Fuuka]]
 Hay algo que olvid姻 mencionar...
 Cuando los Ladrones Fantasma y el Equipo[n]de Investigaci吋n llegaron a nuestro[n]rescate en la pel胤cula...
-Por un momento, Luc胤a confundi吋 a como[n]nuestro l胤der.
+Por un momento, Luc胤a confundi吋 a [f 6 1 27 0 0 0][n]como nuestro l胤der.
 
 [msg MSG_009 [Mitsuru]]
 夷Qu姻?

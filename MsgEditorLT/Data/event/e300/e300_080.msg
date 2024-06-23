@@ -53,7 +53,7 @@ No creo que est姻 mintiendo...
 Su Evocador y su brazalete parecen[n]reales, e incluso sabe de Aigis.
 
 [msg MSG_015 [Ann]]
-夷Podr胤an ser seres cognitivos de ?
+夷Podr胤an ser seres cognitivos de [f 61[n]27 0]?
 
 [msg MSG_016 [Akechi]]
 No, eso es muy poco probable. Este lugar[n]es diferente de Palacios o Mementos.

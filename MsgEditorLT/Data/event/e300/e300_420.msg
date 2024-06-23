@@ -80,7 +80,7 @@ S胤... siento que es una analog胤a[n]apropiada.
 斡夷Eh?!
 
 [msg MSG_028 [Aigis]]
-Al igual que a [f 6 1 16 0 0], proteger姻 a[n]tambi姻n.
+Al igual que a [f 6 1 16 0 0], proteger姻 a[n][f 6 1 27 0 0 0] tambi姻n.
 
 [msg MSG_029 [P3 Fem Protag]]
 ...Gracias. Escuchar eso de ti me hace[n]sentir segura.

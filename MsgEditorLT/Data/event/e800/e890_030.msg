@@ -34,7 +34,7 @@ No, creo que este es m茨s sobre la[n]showmanship.
 斡No te oigo! 夷Alguien?
 
 [msg MSG_010_1 [Elizabeth]]
-Well then! You're the leader here,.[n]Let's have you answer!
+Well then! You're the leader here,[n][f 6 1 30 0 0 0]. Let's have you answer!
 
 [msg MSG_011 [Morgana]]
 Oye, probablemente deber胤as responder...

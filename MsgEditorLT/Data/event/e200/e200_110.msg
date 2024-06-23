@@ -90,7 +90,7 @@ No lo s姻... Estaba con Margaret cuando[n]termin姻 aqu胤.
 
 [msg MSG_027 [Ann]]
 斡No puede ser! 斡夷M茨s gente?!
-Quiero decir, 夷qui姻n es ella? 夷La[n]conoces,?
+Quiero decir, 夷qui姻n es ella? 夷La[n]conoces, [f 6 1 30 0 0 0]?
 
 [sel SEL_028 top]
 Parece un poco familiar.

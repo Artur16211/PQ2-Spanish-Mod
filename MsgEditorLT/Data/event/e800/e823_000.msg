@@ -24,7 +24,7 @@ Maldici吋n. Aki, eres un dolor en el culo[n]en ese mundo tambi姻n...
 
 [msg MSG_007 [Akihiko]]
 夷A qui姻n llamas dolor en el culo? Es[n]importante que entrenes diariamente.
-I'm sure the other me is only doing it[n]because he cares about you,.
+I'm sure the other me is only doing it[n]because he cares about you, [f 6 1 27 0 0 0].
 
 [msg MSG_008 [P3 Fem Protag]]
 Huh? Claro...

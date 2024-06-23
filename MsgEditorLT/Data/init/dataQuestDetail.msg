@@ -29,7 +29,7 @@ Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].
 Derrota a [f 0 1 8]Daring Gigas[f 0 1 5].
 
 [msg explain_02_quest_03]
-Has completado la proyecci吋n[n]especial.Regresa ahora."Informe de[n]proyecci吋n especial completada"[f 0 1 5]Ejecutar
+Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora. [f 0 1 8]"Informe de proyecci吋n[n]especial completada"[f 0 1 5]Ejecutar
 
 [msg explain_03_quest_03]
 Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
@@ -38,7 +38,7 @@ Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
 Ad姻ntrate m茨s en el [f 0 1 8]3er piso [f 0 1 5]mientras[n]est茨s atento a las [f 0 1 8]c茨maras de[n]vigilancia[f 0 1 5].
 
 [msg explain_02_quest_04]
-Has completado la proyecci吋n[n]especial.Regresa ahora."Informe de[n]proyecci吋n especial completada"[f 0 1 5]Ejecutar
+Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora. [f 0 1 8]"Informe de proyecci吋n[n]especial completada"[f 0 1 5]Ejecutar
 
 [msg explain_03_quest_04]
 Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
@@ -47,7 +47,7 @@ Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
 Encuentra una tienda con la letra K en[n]su letrero.
 
 [msg explain_02_quest_05]
-Has completado la proyecci吋n[n]especial.Regresa ahora."Informe de[n]proyecci吋n especial completada"[f 0 1 5]Ejecutar
+Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora. [f 0 1 8]"Informe de proyecci吋n[n]especial completada"[f 0 1 5]Ejecutar
 
 [msg explain_03_quest_05]
 Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
@@ -56,7 +56,7 @@ Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
 Explora el bosque y encuentra la[n]criatura antigua.
 
 [msg explain_02_quest_06]
-Has completado la proyecci吋n[n]especial.Regresa ahora."Informe de[n]proyecci吋n especial completada"[f 0 1 5]Ejecutar
+Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora. [f 0 1 8]"Informe de proyecci吋n[n]especial completada"[f 0 1 5]Ejecutar
 
 [msg explain_03_quest_06]
 Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
@@ -65,7 +65,7 @@ Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].
 Derrota al Chico Pollo.
 
 [msg explain_02_quest_07]
-Has completado la proyecci吋n[n]especial.Regresa ahora."Informe de[n]proyecci吋n especial completada"[f 0 1 5]Ejecutar
+Has completado la proyecci吋n especial.[n][f 0 1 5]Regresa ahora. [f 0 1 8]"Informe de proyecci吋n[n]especial completada"[f 0 1 5]Ejecutar
 
 [msg explain_03_quest_07]
 Esta proyecci吋n especial est茨 [f 0 1 8]completa[f 0 1 5].

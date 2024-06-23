@@ -6,7 +6,7 @@
 Volvamos al Cine e informemos a[n]Elizabeth.
 
 [msg MSG_002 [Yukari]]
-You did a good job too,. Are you doing[n]okay?
+You did a good job too, [f 6 1 27 0 0 0]. Are you[n]doing okay?
 
 [msg MSG_003 [P3 Fem Protag]]
 Aha, s胤. 斡Haciendo bien!

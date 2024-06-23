@@ -37,7 +37,7 @@ Como, [f 6 1 27 0 0 0] tambi姻n conoc胤a a[n]Theodore...
 
 [msg MSG_011 [P3 Fem Protag]]
 S胤, tengo el poder del comod胤n, as胤 que[n]puedo utilizar diferentes Personas.
-Parece que tengo la misma habilidad que[n]y [f 6 1 30 0 0 0].
+Parece que tengo la misma habilidad que[n][f 6 1 13 0 0 0] y [f 6 1 30 0 0 0].
 
 [msg MSG_011_5 [P3 Fem Protag]]
 Realmente, estoy asombrada al saber que[n]hay otros con el mismo poder que yo.

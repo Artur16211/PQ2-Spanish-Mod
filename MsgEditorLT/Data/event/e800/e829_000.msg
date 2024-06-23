@@ -75,7 +75,7 @@ Vamos a pensar en ello, somos cinco.
 夷Ser胤as Red, Ken? 夷O quiz茨s el negro[n]fresco?
 
 [msg MSG_021 [Ken]]
-I-i'm younger than everyone, so I'd say[n]Red is either Joker or.
+I-i'm younger than everyone, so I'd say[n]Red is either Joker or [f 6 1 16 0 0].
 
 [sel SEL_022 top]
 Phoenix Ranger!

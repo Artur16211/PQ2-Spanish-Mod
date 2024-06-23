@@ -8,13 +8,13 @@ Ahora, alza tus armas.
 Uf... Caroline, 夷qu姻 opinas?
 
 [msg MSG_011 [Caroline]]
-No es suficiente. 斡Recluso! 斡Sigue si puedes!
+No es suficiente. 斡Recluso! 斡Sigue si[n]puedes!
 
 [msg MSG_020 [Caroline]]
 N-no est茨 mal... 夷Qu姻 opinas, Justine?
 
 [msg MSG_021 [Justine]]
-No estamos ni cerca... Recluso, 夷tampoco has terminado, verdad?
+No estamos ni cerca... Recluso, 夷tampoco[n]has terminado, verdad?
 
 [msg MSG_030 [Justine]]
 ...Ahora, comienza el verdadero juego.

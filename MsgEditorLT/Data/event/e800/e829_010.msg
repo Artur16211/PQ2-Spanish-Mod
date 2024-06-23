@@ -29,7 +29,7 @@ Buen pensamiento. 斡Eso suena como algo[n]que escuchar胤as en esos espect茨cu
 Whoa! 斡Eso suena como algo que dir胤a un[n]h姻roe! Bien hecho, Red.
 
 [msg MSG_009 [Ken]]
-Haha, you make a good leader,.
+Haha, you make a good leader, [f 6 1 30 0 0 0].
 
 [msg MSG_010 [Yukari]]
 夷Eh? Ken parece que se est茨 divirtiendo.[n]夷De qu姻 est茨n hablando?

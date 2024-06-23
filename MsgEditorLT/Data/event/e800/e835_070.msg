@@ -33,7 +33,7 @@ Hehehehe. Probablemente tengas raz吋n.
 夷Tal vez nos probaron "huevos"?
 
 [msg MSG_010 [Yukari]]
-*sigh* Just ignore him,.
+*sigh* Just ignore him, [f 6 1 30 0 0 0].
 
 [msg MSG_011 [Futaba]]
 No, alguien definitivamente plane吋 esto.

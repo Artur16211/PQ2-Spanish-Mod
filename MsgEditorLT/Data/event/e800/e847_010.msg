@@ -45,7 +45,7 @@ El billete est茨 marcado con un nombre.[n]Usted ve aqu胤: "Cast: [f 6 1 30 0 0
 ねよ らよぽウぺ ぽまぼもる まゑぺぼろぺゆまょろまデ らまるよ をぺ れぺほまゆよれ[n]りゎま まれろま まれらまぼろァぼゎゅよ まょ らぺるろもぼゎゅぺる れまるァ ゆァれ ぽま[n]ゎょ まょみるまょろぺゆもまょろよテテテ
 
 [msg MSG_011_1 [Elizabeth]]
-Essentially, I believe the intent is[n]that must participate in this fight.
+Essentially, I believe the intent is[n]that [f 6 1 30 0 0 0] must participate in this[n]fight.
 
 [msg MSG_012 [Makoto]]
 夷Una proyecci吋n que especifica parte de[n]su yeso? 夷Qu姻 prop吋sito crees que sirve?
@@ -71,11 +71,11 @@ Vamos, estar茨s bien. Tenemos tu espalda,[n]como siempre.
 
 [msg MSG_018_1 [Elizabeth]]
 Por favor mata a la poderosa Sombra que[n]ha aparecido en las profundidades de la[n]ciudad de Kamo.
-And when doing so, make certain that[n]joins the fray.
+And when doing so, make certain that[n][f 6 1 30 0 0 0] joins the fray.
 
 [msg MSG_019 [Yusuke]]
 Entendido. Llegaremos all胤 una vez que[n]estemos listos.
 
 [msg MSG_020 [Elizabeth]]
-I look forward to a grand performance,.[n]Best of luck to you.
+I look forward to a grand performance,[n][f 6 1 30 0 0 0]. Best of luck to you.
 

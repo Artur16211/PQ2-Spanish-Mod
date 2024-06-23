@@ -1,24 +1,24 @@
 [msg MSG_BTL_UTIL_000]
-"Analizar" Puedes ver informaci吋n adicional sobre las Sombras presionando el [f 0 1 2]Bot吋n L[f 0 1 0].
+"Analizar" Puedes ver informaci吋n[n]adicional sobre las Sombras presionando[n]el [f 0 1 2]Bot吋n L[f 0 1 0].
 
 [msg MSG_BTL_TUTORIAL_100]
-"Cambiar de Persona" Cualquiera que tenga el poder del comod胤n puede, cambiar de Personas seleccionando [f 0 1 2]Cambiar Persona[f 0 1 0].
+"ぢぺゆほもぺる ぽま はまるれよょぺ" ぢゎぺゅりゎもまるぺ りゎま ろまょむぺ まゅ[n]らよぽまる ぽまゅ ぼよゆよぽウょ らゎまぽまデ ぽゎるぺょろま ゅぺ ほぺろぺゅゅぺデ[n]ぼぺゆほもぺる ぽま はまるれよょぺれ れまゅまぼぼもよょぺょぽよ [f 0 1 2]ぢぺゆほもぺる ぽま[n]はまるれよょぺ[f 0 1 0]テ
 
 [msg MSG_BTL_TUTORIAL_101]
-Puede ser muy ventajoso usar el Cambiar de Persona para [f 0 1 2]acceder a una Persona diferente[f 0 1 0] en medio de la batalla, pero tambi姻n debes considerar que cambiar茨 tus debilidades y afinidades.
-Intenta obtener tantas Personas como puedas y cambia a la que sea m茨s efectiva seg雨n la situaci吋n.
+はゎまぽま れまる ゆゎを わまょろぺゃよれよ ゎれぺる まゅ ぢぺゆほもぺる ぽま[n]はまるれよょぺ らぺるぺ [f 0 1 2]ぺぼぼまぽまる ぺ ゎょぺ はまるれよょぺ ぽもみまるまょろま[f 0 1 0][n]まょ ゆまぽもよ ぽま ゅぺ ほぺろぺゅゅぺデ らまるよ ろぺゆほもイょ ぽまほまれ[n]ぼよょれもぽまるぺる りゎま ぼぺゆほもぺるァ ぺゅむゎょぺれ ぼよれぺれデ ぼよゆよ[n]ろゎれ ぽまほもゅもぽぺぽまれ を ぺみもょもぽぺぽまれテ
+Intenta adquirir tantas Personas como[n]puedas y cambia a la que sea m茨s[n]efectiva en cada situaci吋n.
 
 [msg MSG_BTL_TUTORIAL_200]
-"Medidor de Grupo" Cuando un aliado inflige da隠o a una Sombra, el [f 0 1 2]Medidor de Grupo[f 0 1 0] se llenar茨 un poco. Una vez que est姻 completamente lleno, obtendr茨s un punto que puedes gastar en Habilidades de Apoyo.
-Las Habilidades de Apoyo[f 0 1 0] son habilidades particulares que pertenecen a aliados de apoyo que t雨 mismo puedes desplegar. Las Habilidades de Apoyo son poderosas, 斡雨salas sabiamente!
+"ぬまぽもぽよる ぽま てるゎらよ" ぢゎぺょぽよ ゎょ ぺゅもぺぽよ もょみゅもむま[n]ぽぺォよ ぺ ゎょぺ ひよゆほるぺデ まゅ [f 0 1 2]ぬまぽもぽよる ぽま てるゎらよ[f 0 1 0] れま[n]ゅゅまょぺるァ ゎょ らよぼよテ ぴょぺ わまん りゎま まれろイ[n]ぼよゆらゅまろぺゆまょろま ゅゅまょよデ よほろまょぽるァれ ゎょ らゎょろよ りゎま[n]らゎまぽまれ むぺれろぺる まょ でぺほもゅもぽぺぽまれ ぽま だらよをよテ
+にぺれ でぺほもゅもぽぺぽまれ ぽま だらよをよ[f 0 1 0] れよょ めぺほもゅもぽぺぽまれ[n]らぺるろもぼゎゅぺるまれ りゎま らまるろまょまぼまょ ぺ ぺゅもぺぽよれ ぽま ぺらよをよ[n]りゎま ろグ ゆもれゆよ らゎまぽまれ ぽまれらゅまむぺるテ にぺれ でぺほもゅもぽぺぽまれ[n]ぽま だらよをよ れよょ らよぽまるよれぺれデ ィグれぺゅぺれ れぺほもぺゆまょろま!
 
 [msg MSG_BTL_TUTORIAL_300]
-"Escapar de la Batalla" Cuando desees salir de una batalla, mant姻n presionado 姻l [f 0 1 2]Bot吋n B[f 0 1 0] para que todos en el grupo intenten escapar en su siguiente turno. Deber茨s mantener presionado el bot吋n por varios segundos.
+"つれぼぺらぺる ぽま ゅぺ ちぺろぺゅゅぺ" ぢゎぺょぽよ ぽまれままれ れぺゅもる ぽま[n]ゎょぺ ほぺろぺゅゅぺデ ゆぺょろイょ らるまれもよょぺぽよ まゅ [f 0 1 2]ちよろカょ ち[f 0 1 0] らぺるぺ[n]りゎま ろよぽよれ まょ まゅ むるゎらよ もょろまょろまょ まれぼぺらぺる まょ れゎ[n]ろゎるょよテ っまほまるァれ ゆぺょろまょまる らるまれもよょぺぽよ まゅ ほよろカょ[n]ぽゎるぺょろま わぺるもよれ れまむゎょぽよれテ
 
 [msg MSG_BTL_TUTORIAL_301]
-Los aliados autom茨ticamente se [f 0 1 2]defender茨n mientras intentan escapar. Escapar es una buena idea si te enfrentas a enemigos que no puedes vencer o si la salud de tu grupo es cr胤tica.
+によれ ぺゅもぺぽよれ ぺゎろよゆァろもぼぺゆまょろま れま [f 0 1 2]ぽまみまょぽまるァょ[f 0 1 0][n]ゆもまょろるぺれ もょろまょろぺょ まれぼぺらぺるテ つれぼぺらぺる まれ ゎょぺ[n]ほゎまょぺ もぽまぺ れも ろま まょみるまょろぺれ ぺ まょまゆもむよれ りゎま ょよ[n]らゎまぽまれ わまょぼまる よ れも ゅぺ れぺゅゎぽ ぽま ろゎ むるゎらよ まれ[n]ぼるウろもぼぺテ
 
 [msg MSG_BTL_TUTORIAL_900]
-"Boost" Si un aliado golpea a una Sombra con una afinidad a la que la Sombra es d姻bil, 斡ese aliado obtendr茨 un Boost[f 0 1 0]! Cualquier persona con un Boost tendr茨 todos los [f 0 1 2]costos de habilidad reducidos a 0[f 0 1 0], y tambi姻n actuar茨 primero[f 0 1 0].
-Por cierto, si la batalla termina justo despu姻s de un Ataque Combinado, [f 0 1 2]los Boost se trasladar茨n a la siguiente batalla[f 0 1 0].
+"ちよよれろ" ひも ゎょ ぺゅもぺぽよ むよゅらまぺ ぺ ゎょぺ ひよゆほるぺ ぼよょ[n]ゎょぺ ぺみもょもぽぺぽ ぺ ゅぺ りゎま ゅぺ ひよゆほるぺ まれ ぽイほもゅデ ィまれま[n]ぺゅもぺぽよ よほろまょぽるァ ゎょ [f 0 1 2]ちよよれろ[f 0 1 0]! ぢゎぺゅりゎもまる らまるれよょぺ[n]ぼよょ ゎょ ちよよれろ ろまょぽるァ ろよぽよれ ゅよれ [f 0 1 2]ぼよれろよれ ぽま[n]めぺほもゅもぽぺぽ るまぽゎぼもぽよれ ぺ ゼ[f 0 1 0]デ を ろぺゆほもイょ [f 0 1 2]ぺぼろゎぺるァ[n]らるもゆまるよ[f 0 1 0]テ
+はよる ぼもまるろよデ れも ゅぺ ほぺろぺゅゅぺ ろまるゆもょぺ ゃゎれろよ[n]ぽまれらゎイれ ぽま ゎょ だろぺりゎま ぢよゆほもょぺぽよデ [f 0 1 2]ゅよれ ちよよれろ れま[n]ろるぺれゅぺぽぺるァょ ぺ ゅぺ れもむゎもまょろま ほぺろぺゅゅぺ[f 0 1 0]テ
 

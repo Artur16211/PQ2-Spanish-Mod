@@ -1,5 +1,5 @@
 [msg MSG_000 [Margaret]]
-Bien, ahora regresar姻 con y sus amigos.
+Bien, ahora regresar姻 con [f 6 1 13 0 0 0] y sus[n]amigos.
 Ven, Marie. T雨 guiar茨s el camino.
 
 [msg MSG_001 [Marie]]
@@ -212,5 +212,5 @@ Tenemos que regresar a...
 斡Eeey, date prisa!
 
 [msg MSG_068 [Akechi]]
-Nos llaman... Vamos,.
+Nos llaman... Vamos, [f 6 1 30 0 0 0].
 

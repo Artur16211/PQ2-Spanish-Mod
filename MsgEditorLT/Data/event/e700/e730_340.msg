@@ -6,7 +6,7 @@
 
 [msg MSG_002 [Futaba]]
 Hmm... Despu姻s de un vistazo r茨pido,[n]parece estar conectada a otro lugar.
-斡En pocas palabras: es un[n]dispositivodispositivo warp[f 0 1 0]!
+斡En pocas palabras: es un dispositivo[n][f 0 1 2]dispositivo warp[f 0 1 0]!
 
 [msg MSG_003 [Kanji]]
 夷A d吋nde est茨 conectada?

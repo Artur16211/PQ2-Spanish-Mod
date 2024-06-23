@@ -19,7 +19,7 @@ Mhm, tienes la sensaci吋n de que todo va[n]a estar bien cuando est茨s con tu l
 斡S胤! Me siento a gusto sabiendo que[n]tiene mi espalda.
 
 [msg MSG_006 [P4 Hero]]
-Agreed. I felt the same from during the[n]special screening.
+Agreed. I felt the same from [f 6 1 30 0 0 0][n]during the special screening.
 
 [sel SEL_007 top]
 Charisma?

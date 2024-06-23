@@ -30,7 +30,7 @@ Est茨n contando contigo.
 No s吋lo yo. [f 6 1 13 0 0 0], tambi姻n.
 
 [msg MSG_010 [P3 Hero]]
-Quiero decir, est茨n animando bastante[n]duro para m胤. Estoy seguro de que[n]tampoco quiere decepcionar a su equipo.
+Quiero decir, est茨n animando bastante[n]duro para m胤. Estoy seguro de que [f 6 1 13 0 0 0][n]tampoco quiere decepcionar a su equipo.
 
 [msg MSG_011 [Kanji]]
 - 斡senpai! 斡Ser姻 tu animadora cabeza!

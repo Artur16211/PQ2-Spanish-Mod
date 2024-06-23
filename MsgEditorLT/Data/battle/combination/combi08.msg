@@ -1,8 +1,8 @@
 [msg MSG_BTL_001]
-斡Bien, hag茨moslo!
+斡Listo, hag茨moslo!
 
 [msg MSG_BTL_002]
-夷Est茨s listo?
+Muy bien, 夷est茨s listo?
 
 [msg MSG_BTL_003]
 斡S胤!

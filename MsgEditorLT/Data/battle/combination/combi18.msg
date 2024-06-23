@@ -1,12 +1,12 @@
 [msg MSG_BTL_001]
-斡Es hora de poner en pr茨ctica nuestro entrenamiento!
+斡Es hora de poner en pr茨ctica nuestro[n]entrenamiento!
 
 [msg MSG_BTL_002]
-斡Entendido, maestro!
+斡Entendido, Maestro!
 
 [msg MSG_BTL_003]
-斡D姻mosle todo lo que tenemos!
+斡Demos todo lo que tenemos!
 
 [msg MSG_BTL_004]
-斡Vamos!
+斡Aqu胤 vamos!
 

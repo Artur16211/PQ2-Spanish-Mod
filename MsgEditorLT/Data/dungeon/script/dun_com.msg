@@ -104,7 +104,7 @@ Sin embargo, tambi姻n tienes una mayor[n]probabilidad de iniciar una batalla.
 
 [msg MSG_TUTORIAL_POWERSPOT_3]
 Si eliges [f 0 1 2]Buscar con cautela[f 0 1 0] ...
-Entonces puede encontrar [f 0 1 2] hasta[n]3objetos, mientras disfrutas de una baja[n]probabilidad de iniciar una de batalla.
+Entonces puede encontrar [f 0 1 2] hasta 3[f 0 1 0][n]objetos, mientras disfrutas de una baja[n]probabilidad de iniciar una de batalla.
 
 [msg MSG_TUTORIAL_POWERSPOT_4]
 でぺを ゎょぺ ぼぺょろもぽぺぽ ゅもゆもろぺぽぺ ぽま よほゃまろよれ まょ ぼぺぽぺ[n]はゎょろよ ぽま びまれよるよデ らまるよ れも[f 0 1 2] れぺゅまれ ぽまゅ ゅぺほまるもょろよ[f 0 1 0]デ[n]ぼもまるろよれ らゎょろよれ れま るまぺほぺれろまぼまるァょ を らよぽるァれ[n]ほゎれぼぺるゅよれ ぽま ょゎまわよテ ィだらるよわまぼめぺ まれろよ を[n]ろまるゆもょぺるァれ れもまょぽよ ゆァれ るもぼよ りゎま ゎょ るまを!

@@ -48,8 +48,11 @@ fixparamsindialog = {
 reverse_fixparamsindialog = {v: k for k, v in fixparamsindialog.items()}
 
 def clean_dialogues(line):
-    pattern = r'\[[^\[\]]+\](?:\[[^\[\]]+\])+'
-    clean_line = re.sub(pattern, '', line)
+    pattern_start = r'^\[[^\[\]]+\](?:\[[^\[\]]+\])*'
+    pattern_end = r'(?:\[[^\[\]]+\])*$'
+    clean_line = re.sub(pattern_start, '', line)
+    clean_line = re.sub(pattern_end, '', clean_line)
+    #
     clean_line = re.sub(r'\[n\]', ' ', clean_line)
     clean_line = re.sub(r'\[e\]', '', clean_line)
     clean_line = re.sub(r'\s+', ' ', clean_line).strip()
@@ -295,7 +298,7 @@ def process_all_files_in_directory(input_directory):
                 process_input_file(input_path, msg_output_path, max_length)
                 output_params(input_path, params_output_path)
 
-input_directory = '_Q2ESP'
-# input_directory = 'Q2ESP'
+#input_directory = 'msgsq1'
+input_directory = 'msgs_es'
 
 process_all_files_in_directory(input_directory)

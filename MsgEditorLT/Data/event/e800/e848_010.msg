@@ -44,7 +44,7 @@ He aqu胤, el boleto para este espect茨culo[n]dice: "Cast: [f 6 1 13 0 0 0]."
 Yo...?
 
 [msg MSG_012 [Elizabeth]]
-Le pido que asegure que participe en[n]esta batalla.
+Le pido que asegure que [f 6 1 13 0 0 0] participe[n]en esta batalla.
 
 [msg MSG_013 [P4 Hero]]
 De acuerdo. Har姻 lo que pueda.

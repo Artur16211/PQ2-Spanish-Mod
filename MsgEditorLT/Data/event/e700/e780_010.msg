@@ -31,7 +31,7 @@ El poder del comod胤n que te permite[n]cambiar de Persona en batalla, ya no[n]e
 Aun as胤, parece que las cosas no son tan[n]malas. 斡As胤 que animo!
 
 [msg MSG_010 [Justine]]
-Aqu胤, todo el mundo podr茨 equipar[n]unaPersona adicional[f 0 1 0].
+Aqu胤, todo el mundo podr茨 equipar una[n][f 0 1 2]Persona adicional[f 0 1 0].
 
 [msg MSG_011 [Caroline]]
 No solo t雨, Recluso. Todos.[n]斡夷Entiendes?!

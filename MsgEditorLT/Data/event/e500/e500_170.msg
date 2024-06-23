@@ -92,7 +92,7 @@ Esto va a ser complicado...
 Igual que nuestro l胤der, pero el suyo es[n]tan confiable... 斡Estoy impresionada!
 
 [msg MSG_030 [Rise]]
-夷Verdad? Todos son tan confiables,[n]斡incluso tiene agallas!
+夷Verdad? Todos son tan confiables,[n]斡incluso [f 6 1 27 0 0 0] tiene agallas!
 
 [msg MSG_031 [Yusuke]]
 S胤, podr胤a ser todo un desaf胤o coordinar[n]a tantas personas de forma excepcional.

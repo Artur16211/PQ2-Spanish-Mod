@@ -16,7 +16,7 @@ Whoa, whoa, man. Cualquiera que pueda[n]terminar el Mega Beef Bowl de Aiya es[n]
 Esa cosa est茨 cargada con cinco veces la[n]carne, 夷verdad?
 
 [msg MSG_005 [Yukiko]]
-The only ones who can finish it are, or[n]maybe Chie.
+The only ones who can finish it are[n][f 6 1 13 0 0 0], or maybe Chie.
 
 [msg MSG_006 [P4 Hero]]
 Ahora que era una batalla...

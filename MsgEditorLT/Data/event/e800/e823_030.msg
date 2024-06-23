@@ -2,7 +2,7 @@
 斡Buena suerte, chicos! 斡Ese es uno[n]abajo!
 
 [msg MSG_001 [Akihiko]]
-Who was the winner that time? Tell us,.
+Who was the winner that time? Tell us,[n][f 6 1 27 0 0 0].
 
 [msg MSG_002 [P3 Fem Protag]]
 Mmm... Es demasiado pronto para decirlo.[n]Es mejor de cuatro, despu姻s de todo.

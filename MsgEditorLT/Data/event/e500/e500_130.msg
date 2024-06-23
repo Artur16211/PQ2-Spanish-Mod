@@ -1,0 +1,6 @@
+[msg MSG_000]
+E-es cierto... Si tan solo pudiera ser[n]valiente, pero...
+
+[msg MSG_001]
+No hay nada que pueda hacer... Aunque lo[n]intentara, solo me har胤a da隠o...
+

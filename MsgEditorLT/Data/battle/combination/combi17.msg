@@ -1,15 +1,15 @@
 [msg MSG_BTL_001]
-斡Enemigos aproxim茨ndose!
+斡A雨n quedan enemigos!
 
 [msg MSG_BTL_002]
-夷C吋mo est茨 salud de todos?
+夷C吋mo va la salud de todos?
 
 [msg MSG_BTL_003]
 斡Esto les vendr茨 bien!
 
 [msg MSG_BTL_004]
-斡Toma!
+斡Toma esto!
 
 [msg MSG_BTL_005]
-斡Todo nuestro apoyo!
+斡Nuestro apoyo total!
 

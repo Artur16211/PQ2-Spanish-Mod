@@ -68,7 +68,7 @@ Dejando de lado el berrinche de Ryuji,[n]la verdad es que tambi姻n tengo bastan
 Hablar de pel胤culas de culto amateur me[n]emociona bastante.
 
 [msg MSG_021 [Morgana]]
-夷Una pel胤cula, eh? He visto algunas con[n]fueron bastante interesantes.
+夷Una pel胤cula, eh? He visto algunas con[n][f 6 1 30 0 0 0] fueron bastante interesantes.
 
 [msg MSG_022 [Haru]]
 Ahora me est茨 entrando ganas de ir[n]tambi姻n. Oye, 夷por qu姻 no vamos todos[n]juntos?

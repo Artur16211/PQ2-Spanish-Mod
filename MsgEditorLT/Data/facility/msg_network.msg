@@ -90,7 +90,7 @@ Costar茨 [f 2 4 0] yenes invocar a[n]esta Persona. 夷Est茨s seguro?
 Costar茨 [f 2 4 0] yenes invocar a[n]esta Persona. 夷Te gustar胤a invocarla?
 
 [msg FCL_NETWORK_PERSONA_SUMM_3]
-La Persona ha sido invocada.
+La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha sido[n]invocada.
 
 [msg FCL_NETWORK_PERSONA_EXIS [Marie]]
 Ya tienes esta Persona.

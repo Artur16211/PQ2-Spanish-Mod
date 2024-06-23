@@ -26,7 +26,7 @@ Mmm... Perm胤teme darte un ejemplo.
 Bueno, el mapa ser茨 m茨s f茨cil de leer.[n]夷Por qu姻 no la usas?
 
 [msg MSG_ICON_KAITEN_KABE_OPE]
-Se ha a隠adido un icono [f 0 1 2]Jaula giratoriaal[n]mapa de la pantalla inferior.
+Se ha a隠adido un icono [f 0 1 2]Jaula giratoria[f 0 1 0][n]al mapa de la pantalla inferior.
 Si desea comprobar c吋mo utilizar este[n]icono...
 Presiona [f 0 1 2]AYUDA[f 0 1 0] en la parte inferior[n]derecha del mapa y presiona [f 0 1 2]Tipos de[n]Iconos[f 0 1 0].
 

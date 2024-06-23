@@ -27,7 +27,7 @@ Por supuesto, no debemos olvidar que[n]tambi姻n tuvimos su ayuda, [f 6 1 30 0 0
 Vamos... Que tengan su momento.
 
 [msg MSG_008 [Naoto]]
-*chuckle* Of course, we couldn't have[n]done it without your leadership,.
+*chuckle* Of course, we couldn't have[n]done it without your leadership, [f 6 1 30 0 0 0].
 
 [msg MSG_009 [Haru]]
 斡Pero los detectives son geniales![n]斡Estaba absolutamente sorprendido!

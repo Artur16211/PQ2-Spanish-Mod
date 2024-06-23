@@ -41,7 +41,7 @@ Pero despu姻s del proceso de eliminaci吋n,[n]ustedes dos fueron los 雨nicos[n
 
 [msg MSG_012 [Akechi]]
 Empecemos con Elizabeth y Theodore...
-The two of them were with when Haru[n]found the bear suit, so that clears[n]them.
+The two of them were with [f 6 1 30 0 0 0] when[n]Haru found the bear suit, so that clears[n]them.
 
 [msg MSG_013 [Naoto]]
 Luego sabemos que Margaret estaba en la[n]sala de proyecci吋n en el momento del[n]incidente.

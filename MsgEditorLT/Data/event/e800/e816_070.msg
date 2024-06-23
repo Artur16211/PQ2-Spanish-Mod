@@ -32,7 +32,7 @@ S胤, y todo es gracias a todos aqu胤.
 Ahora estoy refrescada y lista para[n]retomar mis deberes.
 
 [msg MSG_009 [P3 Fem Protag]]
-Y-you don't have any questions or[n]anything? You're really something,.
+Y-you don't have any questions or[n]anything? You're really something,[n][f 6 1 30 0 0 0].
 
 [msg MSG_010 [P3 Fem Protag]]
 Lo siento. Theo tiene esta habilidad[n]donde puede decir la temperatura exacta[n]de algo simplemente toc茨ndola...

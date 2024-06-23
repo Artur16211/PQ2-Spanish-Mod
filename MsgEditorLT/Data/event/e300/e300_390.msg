@@ -53,14 +53,14 @@ No puedo explicarlo, pero es como una[n]especie de nostalgia... o alg雨n tipo d
 *suspiro* Realmente no puedes dejar de[n]pensar en esas cosas, 夷verdad? Qu姻 chico[n]tan simple...
 
 [msg MSG_016 [Junpei]]
-Pero t雨 tampoco sabes nada acerca de,[n]夷verdad, ?
+Pero t雨 tampoco sabes nada acerca de[n][f 6 1 27 0 0 0], 夷verdad, [f 6 1 16 0 0]?
 斡As胤 que no tenemos ninguna pista! Ni[n]siquiera un Superdetective como yo[n]podr胤a resolver esto.
 
 [msg MSG_017 [Yusuke]]
 No estoy seguro de entender, pero esas[n]personas de azul dijeron que normalmente[n]no deber胤an cruzarse.
 
 [msg MSG_018 [P3 Hero]]
-Bien, tengo que admitir que siento lo[n]mismo que...
+Bien, tengo que admitir que siento lo[n]mismo que [f 6 1 27 0 0 0]...
 Nunca la he visto ni he hablado con[n]ella... pero, por alguna raz吋n, siento[n]que la conozco.
 
 [msg MSG_019 [Yukari]]

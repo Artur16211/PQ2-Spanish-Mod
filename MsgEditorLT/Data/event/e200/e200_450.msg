@@ -71,5 +71,5 @@ Una nueva pel胤cula comenzar茨 a[n]proyectarse en la Sala 3 en breve.[n]Repito
 Tch... Genial, una nueva pel胤cula.[n]Apuesto a que es tan mala como las dos[n]anteriores.
 
 [msg MSG_022 [P4 Hero]]
-Bueno, no hay nada m茨s que podamos hacer[n]para salir de este lugar... Vamos,.
+Bueno, no hay nada m茨s que podamos hacer[n]para salir de este lugar... Vamos,[n][f 6 1 30 0 0 0].
 

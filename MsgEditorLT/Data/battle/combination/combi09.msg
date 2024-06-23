@@ -5,11 +5,11 @@
 斡Hag茨moslo!
 
 [msg MSG_BTL_003]
-Excepto que... tengo hambre...
+Excepto que... me siento hambriento...
 
 [msg MSG_BTL_004]
 Est茨 bien... Come esto.
 
 [msg MSG_BTL_005]
-斡Tengo prote胤na tambi姻n! 斡Toma!
+斡Tengo prote胤na tambi姻n! 斡Aqu胤!
 

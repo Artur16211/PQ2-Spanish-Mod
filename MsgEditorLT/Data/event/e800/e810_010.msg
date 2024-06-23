@@ -14,7 +14,7 @@ Oh, vamos, lo haces sonar como todo lo[n]que quiero es carne.
 Ahora que lo pienso, la pesca no es[n]exactamente algo que esperar胤a de un[n]ladr吋n fantasma.
 
 [msg MSG_004 [Ryuji]]
-I mean, we do go to fishing ponds every[n]now 'n' then, don't we,?
+I mean, we do go to fishing ponds every[n]now 'n' then, don't we, [f 6 1 30 0 0 0]?
 Eres bueno en estas cosas, 夷no?
 
 [sel SEL_005 top]

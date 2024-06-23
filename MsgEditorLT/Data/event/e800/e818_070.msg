@@ -37,7 +37,7 @@ Quiero uno tambi姻n.
 Pero si un hombre le da un anillo a una[n]mujer... Eso es casi como decir...
 
 [msg MSG_010 [Haru]]
-Wait a minute. We have to hear's[n]response.
+Wait a minute. We have to hear [f 6 1 27 0 0 0]'s[n]response.
 夷Cu茨l es tu respuesta? 夷Vas a decir que[n]s胤, o...
 
 [msg MSG_011 [Theodore]]
@@ -80,7 +80,7 @@ Friendship...
 
 [msg MSG_022 [Fuuka]]
 Es verdad que no te conoc胤amos antes de[n]que nos trajeran aqu胤.
-But we enjoy being with you,, and we[n]want to get to know you better.
+But we enjoy being with you, [f 6 1 27 0 0 0], and[n]we want to get to know you better.
 
 [msg MSG_023 [Junpei]]
 Esper茨bamos que este anillo nos ayudara[n]a mostrar eso.

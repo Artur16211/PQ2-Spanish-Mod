@@ -252,7 +252,7 @@ Me sentir胤a mejor tambi姻n. 斡Cuida a ese[n]bot!
 ENTENDIDO. ESTOY A TU CUIDADO.
 
 [msg MSG_078 [Akechi]]
-Joker, [f 6 1 12 0 0 0], y son los 雨nicos que[n]quedan...
+Joker, [f 6 1 12 0 0 0], y [f 6 1 26 0 0 0] son los 雨nicos[n]que quedan...
 Es solo una idea, pero 夷y si los[n]nombramos l胤deres de cada equipo?
 
 [msg MSG_079 [Ann]]
@@ -271,7 +271,7 @@ Cierto. Definitivamente, puedo responder[n]a su liderazgo. 夷No es as胤, compa
 No me importa si los dem茨s est茨n de[n]acuerdo...
 
 [msg MSG_084 [P4 Hero]]
-Es solo mi opini吋n, pero creo que est茨[n]m茨s que lista para ser l胤der.
+Es solo mi opini吋n, pero creo que [f 6 1 27 0 0 0][n]est茨 m茨s que lista para ser l胤der.
 Parece entender bien a los miembros del[n]SEES.
 
 [msg MSG_085 [Haru]]

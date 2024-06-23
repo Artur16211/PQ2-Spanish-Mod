@@ -6,13 +6,13 @@ No
 夷Descartar el/los elemento(s)[n]seleccionado(s)?
 
 [msg IP_EXCESS_PERSONA]
-夷Quieres borrar ?
+夷Quieres borrar [f 0 1 1][f 2 4 0][f 0 1 0]?
 
 [msg IP_EXCESS_PERSONA_BUSY]
 Es una Persona equipada. 夷Borrar?
 
 [msg IP_EXCESS_PERSONA_END]
-La Persona ha desaparecido de tu[n]mente.
+La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha[n]desaparecido de tu mente.
 
 [msg IP_EXCESS_PERSONA_MULTI]
 夷Quieres borrar todas las Personas[n]seleccionadas?

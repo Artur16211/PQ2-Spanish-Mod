@@ -24,7 +24,7 @@ S胤, pero me preocupar胤a dejar a alguien[n]detr茨s cada vez que subimos al s
 No, tiene raz吋n. Los fans de Junpei en[n]todo el mundo van a estar muy[n]decepcionados.
 
 [msg MSG_008 [Yukari]]
-What're you talking about? Even's lost[n]faith in you.
+What're you talking about? Even [f 6 1 27 0 0 0]'s[n]lost faith in you.
 
 [msg MSG_009 [P3 Fem Protag]]
 ...
@@ -61,13 +61,13 @@ S胤.
 夷C吋mo?
 
 [msg MSG_020 [Yukari]]
-He probably wanted to make sure didn't[n]feel uncomfortable.
+He probably wanted to make sure [f 6 1 27 0 0 0][n]didn't feel uncomfortable.
 
 [msg MSG_021 [Fuuka]]
 se estaba riendo.
 
 [msg MSG_022 [Fuuka]]
-He was trying to help feel more at home.
+He was trying to help [f 6 1 27 0 0 0] feel more[n]at home.
 
 [msg MSG_023 [Yukari]]
 Ese Junpei... Siempre tratando de[n]ayudar.

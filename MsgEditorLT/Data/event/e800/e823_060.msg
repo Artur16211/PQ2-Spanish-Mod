@@ -33,7 +33,7 @@ Toda esta charla de ganar y perder...[n]Pat姻tico... Has perdido la vista de lo
 Bueno...
 
 [msg MSG_010 [Mitsuru]]
-Didn't you listen to what said? No going[n]at it alone.
+Didn't you listen to what [f 6 1 27 0 0 0] said?[n]No going at it alone.
 Ella hizo esa regla porque ustedes dos[n]s吋lo ven lo que hay delante de ustedes.
 Concedido, ninguno de ustedes podr胤a[n]seguir esa regla, dir胤a que ambos est茨n[n]descalificados.
 
@@ -77,7 +77,7 @@ Mitsuru-senpai gana porque fue capaz de[n]rega隠ar a sus compa隠eros por no es
 
 [msg MSG_022 [Shinjiro]]
 ... No puedo discutir con eso.
-I feel like an idiot, but Mitsuru and[n]are right. Sorry.
+I feel like an idiot, but Mitsuru and[n][f 6 1 27 0 0 0] are right. Sorry.
 
 [msg MSG_023 [Akihiko]]
 Lo siento tambi姻n. No deber胤a haber[n]actuado as胤 delante de los hombres de[n]clase...
@@ -91,7 +91,7 @@ Huh?
 
 [msg MSG_026 [Mitsuru]]
 Para ser honesto, nunca he podido[n]mantener a estos dos en l胤nea.
-You showed me that, much like, you too[n]have what it takes to be a leader.
+You showed me that, much like [f 6 1 16 0 0],[n]you too have what it takes to be a[n]leader.
 
 [msg MSG_027 [P3 Fem Protag]]
 斡Mitsuru-senpai!

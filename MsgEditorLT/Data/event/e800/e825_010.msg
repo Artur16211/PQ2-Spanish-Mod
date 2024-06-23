@@ -22,7 +22,7 @@ Para ver que realizamos nuestras[n]misiones, debo adquirir alguna[n]experiencia 
 No te empujes.
 
 [msg MSG_006 [Aigis]]
-I appreciate the sentiment,.
+I appreciate the sentiment, [f 6 1 30 0 0 0].
 Sin embargo, soy un arma anti-Shadow. Mi[n]deber es proteger a todos ustedes.
 Las batallas m茨s dif胤ciles seguramente[n]est茨n por delante, y si soy para[n]protegerte, tendr姻 que estar preparado.
 

@@ -24,42 +24,42 @@ Not used
 
 [msg WSHOP_DISCOUNT1_P1 [Theodore]]
 Ah, bienvenido.
-夷Oh...? Veo que tienes un.
+夷Oh...? Veo que tienes un [f 4 4 3 0 1636].
 斡Felicidades! 斡Ese es uno de mis cupones[n]hechos a mano!
 Esto te dar茨 un [f 0 1 2]descuento del 10% en[n]todos los productos[f 0 1 0].
 Que contin雨en con una experiencia de[n]compra satisfactoria.
 
 [msg WSHOP_DISCOUNT1_P2 [Theodore]]
 Ah, bienvenido.
-夷Oh...? Veo que tienes un.
+夷Oh...? Veo que tienes un [f 4 4 3 0 1637].
 斡Felicidades! 斡Ese es uno de mis cupones[n]hechos a mano!
 Esto te dar茨 un [f 0 1 2]descuento del 10% en[n]todos los productos[f 0 1 0].
 Que contin雨en con una experiencia de[n]compra satisfactoria.
 
 [msg WSHOP_DISCOUNT1_P3 [Theodore]]
 Ah, bienvenido.
-夷Oh...? Veo que tienes un.
+夷Oh...? Veo que tienes un [f 4 4 3 0[n]1638].
 斡Felicidades! 斡Ese es uno de mis cupones[n]hechos a mano!
 Esto te dar茨 un [f 0 1 2]descuento del 10% en[n]todos los productos[f 0 1 0].
 Que contin雨en con una experiencia de[n]compra satisfactoria.
 
 [msg WSHOP_DISCOUNT2_P1 [Theodore]]
 Ah, bienvenido.
-Ohh... Veo que llevas un y un [f 4 4 3 0[n]1638].
+Ohh... Veo que llevas un [f 4 4 3 0 1637] y[n]un [f 4 4 3 0 1638].
 斡Felicidades! Cada te dar茨 un descuento[n]del 10%.
 Esto te dar茨 un [f 0 1 2]descuento del 20% en[n]todos los productos[f 0 1 0].
 Te agradezco por tu continuo patrocinio.
 
 [msg WSHOP_DISCOUNT2_P2 [Theodore]]
 Ah, bienvenido.
-Ohh... Veo que llevas un y un [f 4 4 3 0[n]1638].
+Ohh... Veo que llevas un [f 4 4 3 0 1636] y[n]un [f 4 4 3 0 1638].
 斡Felicidades! Cada te dar茨 un descuento[n]del 10%.
 Esto te dar茨 un [f 0 1 2]descuento del 20% en[n]todos los productos[f 0 1 0].
 Te agradezco por tu continuo patrocinio.
 
 [msg WSHOP_DISCOUNT2_P3 [Theodore]]
 Ah, bienvenido.
-Ohh... Veo que llevas un y un[n][f 4 4 3 0 1637].
+Ohh... Veo que llevas un [f 4 4 3 0 1636] y[n]un [f 4 4 3 0 1637].
 斡Felicidades! Cada te dar茨 un descuento[n]del 10%.
 Esto te dar茨 un [f 0 1 2]descuento del 20% en[n]todos los productos[f 0 1 0].
 Te agradezco por tu continuo patrocinio.
@@ -113,8 +113,8 @@ Espero tu pr吋xima visita.
 Not used
 
 [msg WSHOP_THEO_SHOP_1ST_IN_M]
-"だゎゆまょろぺる まゅ もょわまょろぺるもよ ぽま ゅぺ ろもまょぽぺ"[n][f 0 1 2]ふまょぽもまょぽよ ゆぺろまるもぺゅまれ[f 0 1 0] よほろまょもぽよれ まょ ゅよれ[n]ゅぺほまるもょろよれデ びめまよぽよるま らよぽるァ ゎろもゅもんぺる れゎ ゆァりゎもょぺ[n]ぽま らぺゅよゆもろぺれ らぺるぺぼるまぺる ょゎまわよれ らるよぽゎぼろよれ[f 0 1 0]テ
-"ぢよゆらゅまろぺょぽよ らまぽもぽよれ ぽま ょゎまわよれ らるよぽゎぼろよれ"[n]だゅむゎょよれ らるよぽゎぼろよれ ょゎまわよれ らゎまぽまょ るまりゎまるもる[n][f 0 1 2]ゆグゅろもらゅまれ ゎょもぽぺぽまれ ぽまゅ ゆもれゆよ ゆぺろまるもぺゅ[f 0 1 0]テ[n]ぢゎぺゅりゎもまる ゆぺろまるもぺゅ りゎま れまぺ ょまぼまれぺるもよ まれろぺるァ[n]ゆぺるぼぺぽよ ぼよょねまぼまれぺるもよ[f 0 1 0]テ
+"だゎゆまょろぺる まゅ もょわまょろぺるもよ ぽま ゅぺ ろもまょぽぺ"[n][f 0 1 2]ふまょぽもまょぽよ ゆぺろまるもぺゅまれ[f 0 1 0] よほろまょもぽよれ まょ ゅよれ[n]ゅぺほまるもょろよれデ びめまよぽよるま らよぽるァ ゎろもゅもんぺる れゎ ゆァりゎもょぺ[n]ぽま らぺゅよゆもろぺれ らぺるぺ [f 0 1 2]ぼるまぺる ょゎまわよれ らるよぽゎぼろよれ[f 0 1 0]テ
+"ぢよゆらゅまろぺょぽよ らまぽもぽよれ ぽま ょゎまわよれ らるよぽゎぼろよれ"[n]だゅむゎょよれ らるよぽゎぼろよれ ょゎまわよれ らゎまぽまょ るまりゎまるもる[n][f 0 1 2]ゆグゅろもらゅまれ ゎょもぽぺぽまれ ぽまゅ ゆもれゆよ ゆぺろまるもぺゅ[f 0 1 0]テ[n]ぢゎぺゅりゎもまる ゆぺろまるもぺゅ りゎま れまぺ ょまぼまれぺるもよ まれろぺるァ[n]ゆぺるぼぺぽよ ぼよょ [f 0 1 2]ねまぼまれぺるもよ[f 0 1 0]テ
 
 [msg WSHOP_THEO_SHOP_1ST_IN_M_2]
 Presiona el [f 0 1 2]bot吋n Y[f 0 1 0] para ver el objeto[n]con m茨s detalle.
@@ -124,7 +124,7 @@ Presiona el [f 0 1 2]bot吋n Y[f 0 1 0] para ver el objeto[n]con m茨s detalle.
 No solo recibir茨s dinero por vender,[n]sino que tambi姻n podr茨s fabricar nuevos[n]productos.
 
 [msg WSHOP_TUTORIAL_UNKNOWN]
-"つわぺゅゎぺる" ぢゎぺょぽよ ゎろもゅもんぺれ [f 0 1 2]つわぺゅゎぺるまょ ゎょ よほゃまろよ[n]ょよ もぽまょろもみもぼぺぽよデ よほろまょぽるァれゎょ ぺぼぼまれよるもよ りゎま[n]らゎまぽま よみるまぼまる ゎょぺ わぺるもまぽぺぽ ぽま ほまょまみもぼもよれ[f 0 1 0]テ[n]とょろまょろぺ まわぺゅゎぺる よほゃまろよれ れもまゆらるま りゎま らゎまぽぺれテ
+"つわぺゅゎぺる" ぢゎぺょぽよ ゎろもゅもんぺれ [f 0 1 2]つわぺゅゎぺる[f 0 1 0] まょ ゎょ よほゃまろよ[n]ょよ もぽまょろもみもぼぺぽよデ よほろまょぽるァれ [f 0 1 2]ゎょ ぺぼぼまれよるもよ りゎま[n]らゎまぽま よみるまぼまる ゎょぺ わぺるもまぽぺぽ ぽま ほまょまみもぼもよれ[f 0 1 0]テ[n]とょろまょろぺ まわぺゅゎぺる よほゃまろよれ れもまゆらるま りゎま らゎまぽぺれテ
 
 [msg WSHOP_HELLO_NEWYEAR [だいだら．のオヤジ]]
 Not used

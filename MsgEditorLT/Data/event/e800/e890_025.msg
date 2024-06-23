@@ -69,7 +69,7 @@ Mweheh, siguen manteniendo el acto... Un[n]d胤a van a ir a la miseria, y va a s
 
 [msg MSG_020 [Elizabeth]]
 Casi lo olvido.
-I also have your hot dog prepared here.[n]It shall go to the victor,.
+I also have your hot dog prepared here.[n]It shall go to the victor, [f 6 1 30 0 0 0].
 
 [msg MSG_021 [Caroline]]
 斡Qu姻 humillante!
@@ -127,7 +127,7 @@ Tal vez la pr吋xima prueba especial con[n]un yeso especificado presente el cl�
 Estar姻 esperando, afluencia de coraz吋n[n]en anticipaci吋n. Hasta entonces, te pido[n]adi吋s.
 
 [msg PERSONA_STOCK_UP_MSG]
-Superar este ordeal ha fortalecido el[n]poder de la tarjeta salvaje. Su stock de[n]Persona ha aumentado en .
+ひゎらまるぺる まれろま よるぽまぺゅ めぺ みよるろぺゅまぼもぽよ まゅ らよぽまる ぽま[n]ゅぺ ろぺるゃまろぺ れぺゅわぺゃまテ ひゎ れろよぼや ぽま はまるれよょぺ めぺ[n]ぺゎゆまょろぺぽよ まょ [f 0 1 2] はつぱひのねだねだぬつねぴぬソ[f 0 1 0] テ
 
 [msg SYS_MES_000]
 つゅ まみまぼろよ ぽま のちどつびのねぴぬつぱののちどタ らまるゆもろま りゎま まゅ[n]まれろぺぽよ ぽま ちよよれろ ゅゅまわま ぺ ぼぺほよ ゅぺ らるカゑもゆぺ[n]ほぺろぺゅゅぺ ぺ ろるぺわイれ ぽま ゅよれ ちよょよれ づもょぺゅまれテ

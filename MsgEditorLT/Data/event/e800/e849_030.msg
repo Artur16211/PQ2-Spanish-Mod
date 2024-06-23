@@ -11,7 +11,7 @@ Oh, hey...
 Hay algo en el suelo...
 
 [msg MSG_004 [P3 Hero]]
-Lo sab胤a. Es como el que t雨 y[n]encontraron.
+Lo sab胤a. Es como el que t雨 y [f 6 1 13 0 0 0][n]encontraron.
 
 [msg MSG_005]
 斡Obtenido Sooty Film!

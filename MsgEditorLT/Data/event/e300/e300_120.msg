@@ -214,7 +214,7 @@ Ahora, para el de Shinjiro... 夷Qu姻 tal[n]"Brood"?
 As胤 que le encantan los perros, pero lo[n]mantiene en secreto, 夷eh...?
 
 [msg MSG_067 [Fuuka]]
-斡Realmente nos conoces a todos tan[n]bien,! 斡Es incre胤ble!
+斡Realmente nos conoces a todos tan bien,[n][f 6 1 27 0 0 0]! 斡Es incre胤ble!
 
 [msg MSG_068 [P3 Fem Protag]]
 Lo s姻 todo sobre ti tambi姻n, Fuuka. A[n]ver, el seud吋nimo de Fuuka...
@@ -260,7 +260,7 @@ Oh, tienes raz吋n... Mitsuru dice[n]"ejecutar" muy seguido.
 Por favor, para...
 
 [msg MSG_082 [Akihiko]]
-Realmente nos conoces bien, 夷verdad,?
+Realmente nos conoces bien, 夷verdad,[n][f 6 1 27 0 0 0]?
 Estoy empezando a sentir que siempre ha[n]sido parte de nuestro grupo.
 
 [msg MSG_083 [P3 Fem Protag]]

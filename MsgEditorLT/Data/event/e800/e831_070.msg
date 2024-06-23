@@ -40,7 +40,7 @@ Ver a [f 6 1 30 0 0 0] me hace sentir que deber胤a[n]salir m茨s a menudo.
 Ten cuidado. Mantenlo fuera demasiado[n]tarde, y ser茨s rodado por la polic胤a de[n]nuevo.
 
 [msg MSG_011 [P3 Hero]]
-*chuckle* You really are amazing,.
+*chuckle* You really are amazing,[n][f 6 1 30 0 0 0].
 
 [msg MSG_012 [Junpei]]
 Oye, ahora. Est茨s muy bien.

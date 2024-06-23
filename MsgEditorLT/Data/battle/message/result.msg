@@ -9,25 +9,25 @@ Su nivel ha aumentado!
 nivel ha aumentado en[n][f 2 4 1]!
 
 [msg BTLMSGID_RESULT03]
-ha aprendido!
+ha aprendido [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg BTLMSGID_RESULT04]
 びよぽよれ ゅよれ まれらぺぼもよれ ぽま めぺほもゅもぽぺぽ まれろァょ[n]ゅゅまょよれテ はよる みぺわよるデ れまゅまぼぼもよょぺ ゎょぺ めぺほもゅもぽぺぽ[n]らぺるぺ ほよるるぺるテ
 
 [msg BTLMSGID_RESULT05]
-夷Borrar ?
+夷Borrar [f 0 1 1][f 2 4 0][f 0 1 0]?
 
 [msg BTLMSGID_RESULT06]
-olvid吋.
+olvid吋 [f 0 1 1][f 2 4 1][f 0 1 0].
 
 [msg BTLMSGID_RESULT07]
-ha reemplazado.
+ha reemplazado [f 0 1 1][f 2 4 0][f 0 1 0].
 
 [msg BTLMSGID_RESULT08]
-ha sido mejorado a!
+ha sido mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg BTLMSGID_RESULT09]
-Algo le est茨 a punto de suceder a...
+Algo le est茨 a punto de suceder a[n][f 2 4 1]...
 
 [msg BTLMSGID_RESULT10]
 dej吋 escapar un grito agudo.
@@ -66,10 +66,10 @@ dej吋 escapar un grito agudo.
 斡Las ranuras de habilidad han[n]aumentado!
 
 [msg BTLMSGID_RESULT22]
-a renacido como !
+a renacido como [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg BTLMSGID_RESULT23]
-斡Parece que un potencial oculto ha[n]despertado en ...!
+斡Parece que un potencial oculto ha[n]despertado en [f 0 1 1][f 2 4 0][f 0 1 0]...!
 
 [msg BTLMSGID_RESULT24]
 Aprendi吋 todas las habilidades,[n]mensaje de prueba.
@@ -78,7 +78,7 @@ Aprendi吋 todas las habilidades,[n]mensaje de prueba.
 Mantuvo su forma, 斡pero se ha vuelto[n]m茨s poderoso!
 
 [msg BTLMSGID_RESULT26]
-Renacer como despert吋 nuevos poderes.
+Renacer como [f 0 1 1][f 2 4 0][f 0 1 0] despert吋[n]nuevos poderes.
 
 [msg BTLMSGID_RESULT27]
 斡Ha sido mejorado!

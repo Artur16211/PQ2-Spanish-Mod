@@ -2,7 +2,7 @@
 Saben, hay algo en estos ciudadanos...[n]Son un poco extra隠os.
 
 [msg MSG_001 [Ann]]
-Oh, 夷t雨 tambi姻n lo crees,?
+Oh, 夷t雨 tambi姻n lo crees, [f 6 1 27 0 0 0]?
 
 [msg MSG_002 [P3 Fem Protag]]
 Todos intentan autoconvencerse de que el[n]h姻roe siempre tiene raz吋n y no est茨[n]haciendo nada malo...

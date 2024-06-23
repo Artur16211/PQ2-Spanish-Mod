@@ -53,5 +53,5 @@ Bueno, no estamos hablando de Sombras,[n]pero... Est茨n un poco cerca, 夷verda
 
 [msg MSG_015 [Makoto]]
 Bueno, el sistema de seguridad ha[n]cambiado, as胤 que tendremos que proceder[n]con cuidado.
-Watch your step out there,-kun.
+Watch your step out there, [f 6 1 29 0 0 0]-kun.
 

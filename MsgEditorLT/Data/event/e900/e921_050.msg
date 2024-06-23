@@ -5,7 +5,7 @@ Entonces, en esos otros mundos, hay[n]otros "t雨"...
 Y todos est茨n tratando de comunicarse[n]con tu mundo desde el suyo.
 
 [msg MSG_000_1 [Marie]]
-As胤 que si quieres ponerte en contacto[n]con ese otro "t雨", utilizas elLibro[f 0 1 0].
+As胤 que si quieres ponerte en contacto[n]con ese otro "t雨", utilizas el [f 0 1 2]Libro[f 0 1 0].
 Tu Libro puede contener la informaci吋n[n]de tu equipo y una Persona Secundaria.
 Cuando intercambias un Libro con otro[n]"t雨", ambos podr茨n invocar las Personas[n]Secundarias dentro de los Libros.
 Obviamente, todav胤a tendr茨 un precio,[n]pero podr胤as conseguir una Persona[n]realmente fuerte.

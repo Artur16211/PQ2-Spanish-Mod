@@ -37,7 +37,7 @@ Seg雨n el ticket, usted parece ser el[n]miembro de fundici吋n especificado par
 W-wait, me?!
 
 [msg MSG_010 [Elizabeth]]
-Indeed so. Please make certain that you[n]participate in this battle,.
+Indeed so. Please make certain that you[n]participate in this battle, [f 6 1 27 0 0 0].
 
 [msg MSG_011 [Junpei]]
 斡Lo tienes, dama l胤der!

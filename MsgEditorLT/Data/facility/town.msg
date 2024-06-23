@@ -30,13 +30,13 @@ La [f 0 1 2]Tienda[f 0 1 0] ahora est茨 disponible. Puedes[n]comprar y vender e
 Ahora puedes dar [f 0 1 2]Paseos[f 0 1 0] por la escuela y[n]pasar tiempo con tus compa隠eros.
 
 [msg TOWN_TUTORIAL_VELVET_TRI]
-Ahora puedes realizar la [f 0 1 2]Fusi吋n[n]Avanzadaen la Habitaci吋n Terciopelo, que[n]fusiona tres Personas juntas.
+Ahora puedes realizar la [f 0 1 2]Fusi吋n Avanzada[f 0 1 0][n]en la Habitaci吋n Terciopelo, que fusiona[n]tres Personas juntas.
 
 [msg TOWN_TUTORIAL_NOFFICE_QU]
 Ahora puedes aceptar [f 0 1 2]"Solicitudes"[f 0 1 0] en la[n]Oficina de Enfermer胤a.
 
 [msg TOWN_TUTORIAL_CAMP_QUEST]
-Verifica tus solicitudes actuales[n]enSISTEMA[f 0 1 0] en el men雨.
+Verifica tus solicitudes actuales en[n][f 0 1 2]SISTEMA[f 0 1 0] en el men雨.
 
 [msg TOWN_TUTORIAL_CAMP_QUEST_2 [Futaba]]
 Mira las solicitudes que has aceptado.
@@ -72,7 +72,7 @@ Despu姻s de completar una solicitud,[n]rep吋rtala en las instalaciones de[n]so
 Veamos qu姻 nos ofrece la Habitaci吋n[n]Terciopelo.
 
 [msg MSG_TUTORIAL_NAVI_OPEN_S]
-っまほもぽよ ぺ ゎょ ゆもまゆほるよ ぺぽもぼもよょぺゅデ ぺめよるぺ らゎまぽまれ[n]ぼゅぺれもみもぼぺる ぺ ゅよれ ょぺわまむぺぽよるまれ まょ まれらまぼもぺゅもぽぺぽまれ[n]ぽま [f 0 1 2]ぼよゆほぺろま[f 0 1 0] をまゑらゅよるぺぼもカょ[f 0 1 0]テ でぺんゅよ まょ ゅぺ[n][f 0 1 2]ぼよょみもむゎるぺぼもカょ ぽま ねぺわまむぺぽよるまれ[f 0 1 0] まょ "てるゎらよ"[n]ゆもまょろるぺれ まれろァれ まょ まゅ ぼもょまテ
+っまほもぽよ ぺ ゎょ ゆもまゆほるよ ぺぽもぼもよょぺゅデ ぺめよるぺ らゎまぽまれ[n]ぼゅぺれもみもぼぺる ぺ ゅよれ ょぺわまむぺぽよるまれ まょ まれらまぼもぺゅもぽぺぽまれ[n]ぽま [f 0 1 2]ぼよゆほぺろま[f 0 1 0] を [f 0 1 2]まゑらゅよるぺぼもカょ[f 0 1 0]テ でぺんゅよ まょ ゅぺ[n][f 0 1 2]ぼよょみもむゎるぺぼもカょ ぽま ねぺわまむぺぽよるまれ[f 0 1 0] まょ "てるゎらよ"[n]ゆもまょろるぺれ まれろァれ まょ まゅ ぼもょまテ
 
 [msg MSG_DEBUG_BEST_01 [Futaba]]
 ※デバッグ用 5回以上連戦していた＆既に絶好調の人が いたので、絶好調終了！
@@ -88,16 +88,16 @@ Las [f 0 1 2]Personas Secundarias[f 0 1 0] se han[n]desbloqueado.
 
 [msg MSG_CAMP_MENU_OPEN]
 Presiona el [f 0 1 2]Bot吋n X[f 0 1 0] para abrir el Men雨.[n]Ah胤 puedes usar objetos o habilidades, y[n]ver el estado de tu grupo.
-Mientras investigas, presiona [f 0 1 2]STARTen el[n]men雨 para realizar una suspensi吋n de[n]guardado.
+Mientras investigas, presiona [f 0 1 2]START[f 0 1 0] en[n]el men雨 para realizar una suspensi吋n de[n]guardado.
 
 [msg MSG_SHOP_OPEN_GUIDE]
-Ahora puedes usar la [f 0 1 2]Tienda[f 0 1 0].[n]Compraobjetos[f 0 1 0] y [f 0 1 2]equipamiento[f 0 1 0] para[n]avanzar con seguridad en el calabozo.
+Ahora puedes usar la [f 0 1 2]Tienda[f 0 1 0]. Compra[n][f 0 1 2]objetos[f 0 1 0] y [f 0 1 2]equipamiento[f 0 1 0] para avanzar con[n]seguridad en el calabozo.
 
 [msg MSG_FCL_ITE_RETURN_ALERT [Futaba]]
 斡Oye, detente ah胤! No tenemos ning雨n[n]Talue-Gos. 斡Necesitamos Talue-Gos!
 
 [msg PERSONA_STOCK_UP_MSG]
-Ahora que otra persona con el poder del[n]comod胤n se ha unido, tu inventario de[n]Personas ha aumentado a .
+Ahora que otra persona con el poder del[n]comod胤n se ha unido, tu inventario de[n]Personas ha aumentado a [f 0 1 2][f 2 4 0][f 0 1 0].
 
 [msg MSG_KARI_JOIN_HAMUKO]
 P3女性主人公が加入しました！ ※仲間加入画像くるまでの仮表示！！

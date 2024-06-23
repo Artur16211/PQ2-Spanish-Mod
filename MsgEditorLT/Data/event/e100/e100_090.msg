@@ -50,7 +50,7 @@ Por el momento, le hemos estado llamando[n]"Doe".
 No, viene de John Doe.
 
 [msg MSG_016 [Ryuji]]
-夷John qui姻n? 夷Es un famoso extranjero?[n]夷Conoces a alguien con ese nombre,?
+夷John qui姻n? 夷Es un famoso extranjero?[n]夷Conoces a alguien con ese nombre,[n][f 6 1 30 0 0 0]?
 
 [sel SEL_017 top]
 Apuesto a que es un m雨sico legendario.

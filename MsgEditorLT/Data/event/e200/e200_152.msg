@@ -114,7 +114,7 @@ Y si escuche bien, t雨 tambi姻n, 夷verdad,[n]Futaba? 斡Hag茨moslo mejor jun
 夷Es una idol y puede proporcionar apoyo?[n]Sus especificaciones est茨n fuera de mis[n]registros...
 
 [msg MSG_033 [Naoto]]
-Aun as胤, estoy bastante preocupada por[n]los compa隠eros de.
+Aun as胤, estoy bastante preocupada por[n]los compa隠eros de [f 6 1 27 0 0 0].
 夷Est茨s bien? Me imagino que te sentir胤as[n]un poco sola siendo la 雨nica aqu胤...
 
 [msg MSG_034 [P3 Fem Protag]]

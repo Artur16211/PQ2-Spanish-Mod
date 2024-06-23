@@ -17,7 +17,7 @@ Esta sensaci吋n... Lo sab胤a. Eres igual.
 斡Arf arf!
 
 [msg MSG_006 [Aigis]]
-Koromaru says he also senses something[n]about you that is similar to.
+Koromaru says he also senses something[n]about you that is similar to [f 6 1 15 0 0 0].
 夷Qu姻 podr胤a ser...?
 
 [sel SEL_007 top]
@@ -48,7 +48,7 @@ Mmm... Entonces, 夷qu姻 es?
 
 [msg MSG_015 [Ken]]
 Koromaru es muy amistoso, incluso para[n]extra隠os. A雨n as胤, esto parece[n]diferente...
-All I can say for sure is: Koromaru[n]senses something special about you,.
+All I can say for sure is: Koromaru[n]senses something special about you,[n][f 6 1 27 0 0 0].
 
 [msg MSG_016 [Koromaru]]
 斡Arf!

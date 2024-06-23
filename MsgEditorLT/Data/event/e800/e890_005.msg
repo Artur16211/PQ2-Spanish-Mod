@@ -36,7 +36,7 @@ Pero a trav姻s de su portador mostrando[n]suficiente poder, creo que recuperar�
 Reclamaba la victoria contra m胤, y al[n]hacerlo, mostraba una gran fuerza.
 
 [msg MSG_010 [Haru]]
-Um, you said this film is related[n]to-kun's power of the wild card,[n]correct?
+Um, you said this film is related to[n][f 6 1 29 0 0 0]-kun's power of the wild card,[n]correct?
 
 [msg MSG_010_1 [Haru]]
 夷Qu姻 tal, [f 6 1 29 0 0 0]? 夷Te sientes diferente?
@@ -68,7 +68,7 @@ Cierto. Hay varias posibilidades para[n]esto.
 ...!
 
 [msg MSG_018 [Makoto]]
-We found this film after a special[n]screening where we needed to fight,[n]right?
+We found this film after a special[n]screening where we needed [f 6 1 30 0 0 0] to[n]fight, right?
 Podr胤a ver que hay otros ex茨menes como[n]姻l, tal vez tambi姻n requerir gente[n]espec胤fica...
 
 [msg MSG_019 [Elizabeth]]
@@ -165,5 +165,5 @@ En particular, permanecer姻 en la[n]b雨squeda de ex茨menes especiales que[n]e
 Bueno, entonces, hasta la pr吋xima vez.
 
 [msg SYS_MES_000]
-El efecto del [f 4 4 3 0 1593] aument吋[n]su stock de Persona por .
+El efecto del [f 4 4 3 0 1593] aument吋[n]su stock de Persona por [f 0 1 2] [f 2 4 0][f 0 1 0][n].
 

@@ -9,7 +9,7 @@ Por favor acepte esto como su[n]recompensa.
 斡Arf!
 
 [msg MSG_002 [Aigis]]
-Koromaru says he enjoyed spending time[n]with you,.
+Koromaru says he enjoyed spending time[n]with you, [f 6 1 27 0 0 0].
 
 [msg MSG_003 [Ken]]
 Eso me recuerda, Aigis... Dijiste que[n]Koromaru y t雨 sent胤an algo en [f 6 1 27 0 0 0].

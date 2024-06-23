@@ -76,7 +76,7 @@ Las motivaciones de Teddie a un lado, si[n]la proyecci吋n lo requiere, entonces
 S吋lo soy un navegante, 斡pero har姻 lo[n]mejor que pueda!
 
 [msg MSG_020 [Haru]]
-Is it all right if we handle this[n]screening,?
+Is it all right if we handle this[n]screening, [f 6 1 30 0 0 0]?
 
 [sel SEL_021 top]
 Eres todo tuyo.
@@ -115,5 +115,5 @@ Eres realmente... muy desagradable.
 
 [msg MSG_031 [Rise]]
 As胤 que, Haru y Aigis necesitan estar en[n]el partido principal, y estoy en[n]servicio de navegantes, 夷verdad?
-Let's head out once finishes organizing[n]the party!
+Let's head out once [f 6 1 30 0 0 0] finishes[n]organizing the party!
 

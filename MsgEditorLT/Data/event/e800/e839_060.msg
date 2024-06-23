@@ -45,7 +45,7 @@ No t雨 tambi姻n...
 Espera, 夷dijiste "inmejorable"? 夷Nos[n]escuchaste hablar antes?
 
 [msg MSG_014 [Junpei]]
-Cielos. No me digas [f 6 1 27 0 0 0] y podr胤a[n]haber o胤do, tambi姻n?
+Cielos. No me digas [f 6 1 27 0 0 0] y [f 6 1 16 0 0][n]podr胤a haber o胤do, tambi姻n?
 
 [msg MSG_015 [P3 Fem Protag]]
 S胤. O胤mos cada palabra.
