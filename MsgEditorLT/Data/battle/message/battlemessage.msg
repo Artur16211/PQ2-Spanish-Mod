@@ -116,7 +116,7 @@ Enjambre de Sombras
 斡[f 2 4 0] us吋 [f 2 4 3]!
 
 [msg BTLMSGID_DEFENCE]
-se defiende.
+ se defiende.
 
 [msg BTLMSGID_SUMMON]
 斡[f 2 4 0] invoc吋 aliados!
@@ -128,7 +128,7 @@ se defiende.
 斡[f 2 4 1] se petrific吋!
 
 [msg BLTMSGID_BST_SLEEP]
-se durmi吋...
+ se durmi吋...
 
 [msg BLTMSGID_BST_CONFUSE]
 tiene confusi吋n.
@@ -239,7 +239,7 @@ El grupo fue derrotado...
 Todos
 
 [msg BTLMSGID_SUMMON_SACRIFIC]
-ha muerto...
+ ha muerto...
 
 [msg BTLMSGID_SUMMON_MISS]
 斡Pero no aparecieron aliados!
@@ -668,10 +668,10 @@ Warped Savior
 斡[f 2 4 0] se volvi吋 gigantesco!
 
 [msg BTLMSGID_E_SUMMON_MSG_00]
-se retuerce...
+ se retuerce...
 
 [msg BTLMSGID_E_SUMMON_MSG_01]
-baja su mano...
+ baja su mano...
 
 [msg BTLMSGID_E_SUMMON_MSG_02]
 斡La fuerza de [f 2 4 0] est茨 atada!
@@ -842,10 +842,10 @@ vuelve a la normalidad.
 斡1 turno hasta que [f 2 4 0] se autodestruya!
 
 [msg BTLMSGID_MSGWAIT4]
-observa.
+ observa.
 
 [msg BTLMSGID_MSGWAIT5]
-est茨 buscando un objetivo.
+ est茨 buscando un objetivo.
 
 [msg BTLMSGID_BALLOON]
 斡[f 2 4 0] se expande enormemente!
@@ -1022,16 +1022,16 @@ Sin embargo, no se estableci吋 ning雨n C胤rculo.
 斡[f 2 4 1] no tiene suficiente PS para usar la habilidad!
 
 [msg BTLMSGID_KEIKAI]
-es cauteloso.
+ es cauteloso.
 
 [msg BTLMSGID_RARE_1]
-est茨 mirando al vac胤o.
+ est茨 mirando al vac胤o.
 
 [msg BTLMSGID_RARE_2]
-est茨 desconcertado.
+ est茨 desconcertado.
 
 [msg BTLMSGID_RARE_3]
-est茨 desconcertado.
+ est茨 desconcertado.
 
 [msg BTLMSGID_HAMA_OMEN]
 斡El poder de la luz se re雨ne alrededor de [f 2 4 0]!
@@ -1040,13 +1040,13 @@ est茨 desconcertado.
 斡El poder de oscuridad se re雨ne alrededor de [f 2 4 0]!
 
 [msg BTLMSGID_NIYANIYA]
-sonr胤e con satisfacci吋n.
+ sonr胤e con satisfacci吋n.
 
 [msg BTLMSGID_JIBAKU_MISS]
 La autodestrucci吋n de [f 2 4 0] fall吋...
 
 [msg BTLMSGID_CHICKEN]
-parece seguro de s胤 mismo.
+ parece seguro de s胤 mismo.
 
 [msg BTLMSGID_ROBOT]
 ADVERTENCIA: DESISTE INMEDIATAMENTE.
@@ -1061,10 +1061,10 @@ ADVERTENCIA: DESISTE INMEDIATAMENTE.
 斡[f 2 4 0] murmur吋 una maldici吋n!
 
 [msg BTLMSGID_KING]
-est茨 jugando con su cabello.
+ est茨 jugando con su cabello.
 
 [msg BTLMSGID_KING_ESCAPE]
-est茨 tratando de huir...
+ est茨 tratando de huir...
 
 [msg BTLMSGID_BIBIRI]
 斡[f 2 4 0] est茨 asustado!
@@ -1598,7 +1598,7 @@ Es nuestra oportunidad... Vamos.
 斡Margaret se concentra!
 
 [msg BTLMSGID_USAGI_OOGOE [Merciful Clergyman]]
-respira profundamente.
+ respira profundamente.
 
 [msg BTLMSGID_VELVET_SRICAM [Merciful Clergyman]]
 斡[f 2 4 0] ha recobrado la conciencia!
@@ -1751,13 +1751,13 @@ sonr胤e inocentemente.
 斡[f 2 4 0] est茨 emocionado!
 
 [msg BTLMSGID_BOAST [Merciful Clergyman]]
-muestra su cuerpo.
+ muestra su cuerpo.
 
 [msg BTLMSGID_RELAX [Merciful Clergyman]]
-descansa con elegancia.
+ descansa con elegancia.
 
 [msg BTLMSGID_CREEP [Merciful Clergyman]]
-se retuerce.
+ se retuerce.
 
 [msg BTLMSGID_TURNENDHEAL [Merciful Clergyman]]
 斡Se ha a隠adido un efecto de curaci吋n masiva!
