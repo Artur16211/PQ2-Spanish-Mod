@@ -914,7 +914,7 @@ ha aprendido [f 0 1 1][f 2 4 1][f 0 1 0]!
 Ya tienes [f 2 4 0].
 
 [msg msg_combine_stock_over_s [Justine]]
-ひま ょまぼまれもろぺょ [み ゼ ヂ ゾチチ[n]ゾチチ]のちどつびのねぴぬつぱののちどぷはつぱひのねだねだぬつねぴぬソ るぺょゎるぺドれナ[n]ぺぽもぼもよょぺゅドまれナ らぺるぺ るまろもるぺるれま ぽまゅ もょわまょろぺるもよ ぽま[n]はまるれよょぺれテ
+ひま ょまぼまれもろぺょ [み ゼ ヂ ゾチチ[n]ゾチチ][f 3 1 1 0 0 59203][f 2 4 0] るぺょゎるぺドれナ[n]ぺぽもぼもよょぺゅドまれナ らぺるぺ るまろもるぺるれま ぽまゅ もょわまょろぺるもよ ぽま[n]はまるれよょぺれテ
 
 [msg msg_combine_sac_cost_fre [Margaret]]
 Dado que es la primera vez que veo esta[n]resonancia de poder, no habr茨 ning雨n[n]costo. 夷Est茨 seguro?

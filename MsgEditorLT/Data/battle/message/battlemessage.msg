@@ -524,7 +524,7 @@ Por favor, espera mientras otro[n]jugador introduce comandos.
 斡Con sus 雨ltimas fuerzas,[n][f 2 4 0] usa [f 2 4 3]!
 
 [msg BTLMSGID_DEADACTION_18E]
-ィぢよょ れゎれ グゅろもゆぺれ みゎまるんぺれデ はつぱひのねだねだぬつねぴぬソ[n]ゅまわぺょろぺ はつぱひのねだひなとににねぴぬソ!
+ィぢよょ れゎれ グゅろもゆぺれ みゎまるんぺれデ [f 2 4 0][n]ゅまわぺょろぺ [f 2 4 3]!
 
 [msg BTLMSGID_RARE_DASH]
 斡La luminosidad de [f 2 4 0] se[n]intensifica!
@@ -638,7 +638,7 @@ Portador del Cielo
 Salvador Corrompido
 
 [msg BTLMSGID_H_KUISHIBARI]
-ィはつぱひのねだねだぬつねぴぬゾ れま めぺ わゎまゅろよ るまれもれろまょろま[n]ぼよょろるぺ ゅよれ むよゅらまれ ゆよるろぺゅまれ!
+ィ[f 2 4 1] れま めぺ わゎまゅろよ るまれもれろまょろま[n]ぼよょろるぺ ゅよれ むよゅらまれ ゆよるろぺゅまれ!
 
 [msg BTLMSGID_OOMIE]
 斡[f 2 4 1] hace una pose!
@@ -929,7 +929,7 @@ est茨 durmiendo...
 斡[f 2 4 1] se est茨 preparando[n]para un Ataque de seguimiento!
 
 [msg BTLMSGID_REF_DANCE_LINEC]
-ィにぺ ゅウょまぺ ぽま はつぱひのねだねだぬつねぴぬゾ れま らるまらぺるぺ[n]らぺるぺ ゎょ ぺろぺりゎま ぽま れまむゎもゆもまょろよ!
+ィにぺ ゅウょまぺ ぽま [f 2 4 1] れま らるまらぺるぺ[n]らぺるぺ ゎょ ぺろぺりゎま ぽま れまむゎもゆもまょろよ!
 
 [msg BTLMSGID_REF_DANCE_HEAL]
 斡La recuperaci吋n de la l胤nea de[n][f 2 4 1] se fortalece!
@@ -941,7 +941,7 @@ est茨 durmiendo...
 斡La defensa se ha potenciado para[n]todos en la l胤nea de [f 2 4 1]!
 
 [msg BTLMSGID_REF_DANCE_EN]
-ィつゅ ぼよれろま ぽま はつ まょ ゅぺ ゅもょまぺ ぽま[n]はつぱひのねだねだぬつねぴぬゾ めぺ ぽもれゆもょゎもぽよ らぺるぺ ろよぽよれ!
+ィつゅ ぼよれろま ぽま はつ まょ ゅぺ ゅもょまぺ ぽま[n][f 2 4 1] めぺ ぽもれゆもょゎもぽよ らぺるぺ ろよぽよれ!
 
 [msg BTLMSGID_REF_LINK]
 斡Las habilidades de enlace han[n]aumentado su n雨mero de ataques!
@@ -1718,7 +1718,7 @@ El l胤der del grupo ha muerto...
 斡Pero no hubo efecto!
 
 [msg BTLMSGID_AMRITA [Merciful Clergyman]]
-ィはつぱひのねだねだぬつねぴぬゾ めぺ れもぽよ ぼよゆらゅまろぺゆまょろま[n]ぼゎるぺぽよ を めぺ るまぼゎらまるぺぽよ れゎれ はひ!
+ィ[f 2 4 1] めぺ れもぽよ ぼよゆらゅまろぺゆまょろま[n]ぼゎるぺぽよ を めぺ るまぼゎらまるぺぽよ れゎれ はひ!
 
 [msg BTLMSGID_LPATRA [Merciful Clergyman]]
 斡Los aliados han sido curados de[n]todos los estados alterados!
@@ -1763,7 +1763,7 @@ se retuerce.
 斡Se ha a隠adido un efecto de curaci吋n[n]masiva!
 
 [msg BTLMSGID_DARKMIST [Merciful Clergyman]]
-つゅ ろもまゆらよ ぽま まれろぺぽよ ぺゅろまるぺぽよ を ぺろぺぽゎるぺれ ぽま[n]はつぱひのねだねだぬつねぴぬゾ れま めぺ まゑろまょぽもぽよテ
+つゅ ろもまゆらよ ぽま まれろぺぽよ ぺゅろまるぺぽよ を ぺろぺぽゎるぺれ ぽま[n][f 2 4 1] れま めぺ まゑろまょぽもぽよテ
 
 [msg BTLMSGID_TARGET_DEAD_ALR [Merciful Clergyman]]
 斡No hay un objetivo para[n][f 2 4 0]!

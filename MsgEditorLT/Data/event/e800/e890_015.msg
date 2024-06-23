@@ -150,7 +150,7 @@ Bueno entonces... adi吋s!
 斡Vuelve aqu胤, Elizabeth! 斡Mi orden debe[n]ser hecha primero!
 
 [msg PERSONA_STOCK_UP_MSG]
-ひゎらまるぺる まれろま よるぽまぺゅ めぺ みよるろぺゅまぼもぽよ まゅ らよぽまる ぽま[n]ゅぺ ろぺるゃまろぺ れぺゅわぺゃまテ ひゎ れろよぼや ぽま はまるれよょぺ めぺ[n]ぺゎゆまょろぺぽよ まょ [f 0 1 2] はつぱひのねだねだぬつねぴぬソ[f 0 1 0] テ
+ひゎらまるぺる まれろま よるぽまぺゅ めぺ みよるろぺゅまぼもぽよ まゅ らよぽまる ぽま[n]ゅぺ ろぺるゃまろぺ れぺゅわぺゃまテ ひゎ れろよぼや ぽま はまるれよょぺ めぺ[n]ぺゎゆまょろぺぽよ まょ [f 0 1 2] [f 2 4 0][f 0 1 0] テ
 
 [msg SYS_MES_000]
 El efecto de [f 4 4 3 0 1594] ha[n]aumentado el impulso EXP de los Bonos[n]Finales.
