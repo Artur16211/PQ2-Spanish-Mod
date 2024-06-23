@@ -38,7 +38,7 @@ Que contin雨en con una experiencia de[n]compra satisfactoria.
 
 [msg WSHOP_DISCOUNT1_P3 [Theodore]]
 Ah, bienvenido.
-夷Oh...? Veo que tienes un [f 4 4 3 0[n]1638].
+夷Oh...? Veo que tienes un [f 4 4 3 0 1638].
 斡Felicidades! 斡Ese es uno de mis cupones[n]hechos a mano!
 Esto te dar茨 un [f 0 1 2]descuento del 10% en[n]todos los productos[f 0 1 0].
 Que contin雨en con una experiencia de[n]compra satisfactoria.
