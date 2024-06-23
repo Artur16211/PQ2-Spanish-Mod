@@ -29,7 +29,7 @@ fixparamsindialog = {
     '[f 3 1 1 0 0 59203]': 'OBJETONUMEROOBJX',
     '[f 4 4 3 0 1636]': 'WEAPONNUMERO1',
     '[f 4 4 3 0 1637]': 'WEAPONNUMERO2',
-    '[f 4 4 3 0 1638]': 'WEAPONNUMERO3',
+    '[f 4 4 3 0 1637]': 'WEAPONNUMERO3',
     '[f 2 4 0]': 'PERSONANAMENUM1',
     '[f 2 4 1]': 'PERSONANAMENUM2',
     '[f 2 4 2]': 'DMG1',
@@ -41,6 +41,35 @@ fixparamsindialog = {
     '[f 0 1 0]': '}',
     '[f 0 1 5]': 'Ž',
     '[f 0 1 8]': 'Š',
+    # Slim font
+    '[f 6 1 12 0 0 0]': "はダぬぢねソ",
+    '[f 6 1 13 0 0 0]': "はダぬぢねゾ",
+    '[f 6 1 15 0 0 0]': "はタぬぢねソ",
+    '[f 6 1 16 0 0 0]': "はタぬぢねゾ",
+    '[f 6 1 16 0 0]': "はタぬぢねゾ",
+    '[f 6 1 26 0 0 0]': "はタづつぬソ",
+    '[f 6 1 27 0 0 0]': "はタづつぬゾ",
+    '[f 6 1 29 0 0 0]': "はチぬぢねソ",
+    '[f 6 1 30 0 0 0]': "はチぬぢねゾ",
+    '[f 4 4 3 0 1333]': "のちどつびのねチ",
+    '[f 4 4 3 0 1350]': "のちどつびのねぴぬつぱののちどソ",
+    '[f 4 4 3 0 1593]': "のちどつびのねぴぬつぱののちどゾ",
+    '[f 4 4 3 0 1595]': "のちどつびのねぴぬつぱののちどタ",
+    '[f 4 4 3 0 1596]': "のちどつびのねぴぬつぱののちどダ",
+    '[f 2 5 3 65535 0]': "のちどつびのねぴぬつぱののちどチ",
+    '[f 0 7 0 65535]': "のちどつびのねぴぬつぱののちどヂ",
+    '[f 0 7 150 65535]': "のちどつびのねぴぬつぱののちどッ",
+    '[f 2 5 3 65535 1]': "のちどつびのねぴぬつぱののちどツ",
+    '[f 2 5 3 65535 2]': "のちどつびのねぴぬつぱののちどヅ",
+    '[f 2 5 3 65535 3]': "のちどつびのねぴぬつぱののちどゼ",
+    '[f 3 1 1 0 0 59203]': "のちどつびのねぴぬつぱののちどぷ",
+    '[f 4 4 3 0 1636]': "ぶつだはのねねぴぬつぱのソ",
+    '[f 4 4 3 0 1637]': "ぶつだはのねねぴぬつぱのゾ",
+    '[f 4 4 3 0 1637]': "ぶつだはのねねぴぬつぱのタ",
+    '[f 2 4 0]': "はつぱひのねだねだぬつねぴぬソ",
+    '[f 2 4 1]': "はつぱひのねだねだぬつねぴぬゾ",
+    '[f 2 4 2]': "っぬてソ",
+    '[f 2 4 3]': "はつぱひのねだひなとににねぴぬソ",
 }
 
 # Reverse the fixed params dictionary for restoring original values
@@ -48,8 +77,11 @@ reverse_fixparamsindialog = {v: k for k, v in fixparamsindialog.items()}
 
 
 def clean_dialogues(line):
-    pattern = r'\[[^\[\]]+\](?:\[[^\[\]]+\])+'
-    clean_line = re.sub(pattern, '', line)
+    pattern_start = r'^\[[^\[\]]+\](?:\[[^\[\]]+\])*'
+    pattern_end = r'(?:\[[^\[\]]+\])*$'
+    clean_line = re.sub(pattern_start, '', line)
+    clean_line = re.sub(pattern_end, '', clean_line)
+    #
     clean_line = re.sub(r'\[n\]', ' ', clean_line)
     clean_line = re.sub(r'\[e\]', '', clean_line)
     clean_line = re.sub(r'\s+', ' ', clean_line).strip()
