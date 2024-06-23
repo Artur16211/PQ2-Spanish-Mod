@@ -8,16 +8,16 @@ GRUUUUUUUAAAAH...
 Argh... Parece que la charla termino.
 
 [msg MSG_000 [Yosuke]]
-Renunciaste a tu libertad... 夷Es as胤[n]como quieres vivir?
+Renunciando a tu libertad... 夷As胤 es como quieres vivir?
 
 [msg MSG_001 [Yosukesaurio]]
-斡C茨llate, c茨llate! Si no hago esto...[n]Yo... Yo...
+斡C茨llate, c茨llate! Si no hago esto... Yo... Yo...
 
 [msg MSG_001_5 [Yosukesaurio]]
 斡No tengo m茨s opci吋n... que eliminarte!
 
 [msg MSG_002 [Yosuke]]
-斡Se ha vuelto completamente loco![n]斡Despierta!
+斡Se ha vuelto completamente loco! 斡Despierta!
 
 [msg MSG_002_5 [P4 Hero]]
 斡Prep茨rense!
@@ -29,19 +29,19 @@ Argh... N-no... No puedo...
 夷Qu姻? No puedes negarte ahora...
 
 [msg MSG_005 [Herb胤voro Enorme]]
-La mayor胤a lo ha decidido, 夷o prefieres[n]ser expulsado de la manada?
+La mayor胤a lo decidi吋, 夷o prefieres ser expulsado de la manada?
 
 [msg MSG_006 [Yosukesaurio]]
-No... 斡No quiero que me echen!
+斡N-no quiero que me echen!
 
 [msg MSG_007 [Yosukesaurio]]
-Oye, ah... 夷No es esto suficiente?
+Oye, ah... 夷No es suficiente?
 
 [msg MSG_008 [Herb胤voro Inquieto]]
 No puedes negarte. Todos votamos...
 
 [msg MSG_009 [Herb胤voro Malhumorado]]
-As胤 es. No hay manera de que la mayor胤a[n]est姻 equivocada.
+As胤 es. No hay manera de que la mayor胤a est姻 equivocada.
 
 [msg MSG_010 [Yosukesaurio]]
 夷C-cierto...? 斡No puedo hacer nada!
@@ -50,10 +50,10 @@ As胤 es. No hay manera de que la mayor胤a[n]est姻 equivocada.
 Eh, oye... Si 姻l sigue as胤...
 
 [msg MSG_012 [Herb胤voro Enorme]]
-夷Quieres quedarte en la manada, verdad?[n]Entonces, 斡m茨s te vale demostrarlo!
+夷Quieres quedarte en la manada, verdad? Entonces, 斡m茨s te vale demostrarlo!
 
 [msg MSG_013 [Yosukesaurio]]
-斡Aaaaargh! 斡Bien! Lo har姻... 斡夷Esto es[n]lo que quieren, verdad?!
+斡Aaaaargh! 斡Bien! Lo har姻... 斡夷Esto es lo que quieren, verdad?!
 
 [msg MSG_014 [Yosukesaurio]]
 GRRRUUUUUUHHHHHHH...
@@ -74,18 +74,18 @@ Que... 斡Algo no est茨 bien!
 ...斡Hazlo de una vez!
 
 [msg MSG_025 [Haru]]
-Parece que solo est茨 luchando por los[n]otros dinosaurios...
+Parece que solo est茨 luchando por los otros dinosaurios...
 
 [msg MSG_026 [Yosuke]]
-斡Maldita sea, esto es terrible! 斡夷Qu姻[n]hacemos?!
+斡Maldita sea, esto es terrible! 斡夷Qu姻 hacemos?!
 
 [msg MSG_027 [P4 Hero]]
-Parece que tendremos que callar a esos[n]dinosaurios...
+Parece que tendremos que callar a esos dinosaurios...
 斡Vamos!
 
 [msg MSG_016_5 [Yosuke]]
 斡Bien! 斡Lo hicimos!
 
 [msg MSG_017 [Yosukesaurio]]
-夷E-en serio? Je, je, je... Ustedes...[n]son realmente fuertes...
+夷E-en serio? Je, je, je... Ustedes... son realmente fuertes...
 

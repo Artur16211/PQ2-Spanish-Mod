@@ -8,13 +8,13 @@ Teddie, 斡toma el volante!
 斡Idiota, las manos en el volante!
 
 [msg MSG_BTL_004]
-斡M-mi est吋mago se atasc吋!
+斡M-Mi barriga se atasc吋!
 
 [msg MSG_BTL_005]
 斡夷Qu姻?!
 
 [msg MSG_BTL_006]
-斡Nooo! S茨lvanosssss...
+斡Nooo! S茨lvenosssss...
 
 [msg MSG_BTL_007]
 斡Vamos a chocaaar!

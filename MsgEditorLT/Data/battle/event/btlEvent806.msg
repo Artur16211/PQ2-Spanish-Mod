@@ -2,13 +2,13 @@
 斡夷Qu姻 es eso?!
 
 [msg MSG_001 [Ann]]
-夷Est茨 relacionado con una pel胤cula?
+夷Es parte de una pel胤cula?
 
 [msg MSG_002 [Mitsuru]]
-Pero, Hikari dijo que lo cre吋. 夷Est茨[n]bien atacarlo?
+Pero, Hikari dijo que lo cre吋. 夷Est茨 bien atacarlo?
 
 [msg MSG_003 [Futaba]]
-斡Pero si no lo hacemos, Hikari estar茨 en[n]peligro! 斡Tenemos que protegerla!
+斡Pero si no lo hacemos, Hikari estar茨 en peligro! 斡Tenemos que protegerla!
 
 [msg MSG_004 [Doe]]
 Hikari... Hikari...
@@ -20,7 +20,7 @@ Hikari... Hikari...
 Hikari... 斡Hikari! 斡Hikari! 斡Hikari!
 
 [msg MSG_007 [Kanji]]
-Tss, 斡no vamos a dejar que le pongas un[n]dedo encima! 斡Aqu胤 vamos!
+Tss, 斡no vamos a dejar que le pongas un dedo encima! 斡Aqu胤 vamos!
 
 [msg MSG_008_00 [Doe]]
 Aaaagh...
@@ -32,10 +32,10 @@ Eh, sus ojos...
 S胤, parece ser su punto d姻bil.
 
 [msg MSG_010 [Shinjiro]]
-Bien, todo lo que tenemos que hacer es[n]darle una paliza a en los ojos.
+Bien, todo lo que tenemos que hacer es darle una paliza en los ojos.
 
 [msg MSG_011 [Aigis]]
-斡Terminemos esto!
+斡Terminemos con esto!
 
 [msg MSG_012 [Yusuke]]
 ...夷Lo hicimos?
@@ -47,7 +47,7 @@ Espera, algo no est茨 bien... 夷Eh...?
 夷Pasa algo?
 
 [msg MSG_015 [Rise]]
-斡No puede ser! Las lecturas del[n]enemigo... 斡夷Se est茨 volviendo m茨s[n]fuerte?!
+斡No puede ser! Las lecturas del enemigo... 斡夷Se est茨 volviendo m茨s fuerte?!
 
 [msg MSG_016 [Junpei]]
 斡夷De verdad?!
@@ -68,10 +68,10 @@ Espera, algo no est茨 bien... 夷Eh...?
 斡Chicos!
 
 [msg MSG_022 [Akihiko]]
-Esto deber胤a... 斡Argh! 夷Por qu姻 no puedo[n]moverme?
+Esto deber胤a... 斡Argh! 夷Por qu姻 no puedo moverme?
 
 [msg MSG_023 [Teddie]]
-Oh, duele... te... rescataremos,[n]Hikarin...
+Oh, duele... te... rescataremos, Hikarin...
 
 [msg MSG_024 [Hikari]]
 斡No!
@@ -90,14 +90,14 @@ Resistan... 斡No lo permitir姻!
 斡Eh! 斡夷Hikari?!
 
 [msg MSG_029 [Hikari]]
-Ustedes me salvaron... Esta vez... 斡Es[n]mi turno!
+Ustedes me salvaron... Ahora... 斡Es mi turno!
 
 [msg MSG_029_05]
-La Habilidad de Apoyo [f 0 1 2]威nimos de Hikari[f 0 1 0][n]ha sido agregada.
+La Habilidad de Apoyo [f 0 1 2]威nimos de Hikari[f 0 1 0] ha sido agregada.
 
 [msg MSG_030 [Chie]]
 斡Oye, la pel胤cula!
 
 [msg MSG_031 [Kanji]]
-斡Tss, tendremos que destruirla de nuevo![n]斡Vamos!
+斡Tss, tendremos que hacerlo de nuevo! 斡Vamos!
 

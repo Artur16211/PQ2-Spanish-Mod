@@ -1,54 +1,54 @@
 [msg MSG_000 [Enlil]]
-Soy el torbellino encarnado... Aquel que[n]ustedes, los humanos, llaman "Enlil"...
-Si su soluci吋n, determinaci吋n y[n]creencias son reales... 斡Entonces[n]demu姻strenlo!
+Soy el torbellino encarnado... Aquel que ustedes, los humanos, llaman "Enlil"...
+Si su soluci吋n, determinaci吋n y creencias son reales... 斡Entonces demu姻strenlo!
 
 [msg MSG_001 [Futaba]]
 斡E-estoy sintiendo un poder enorme!
 
 [msg MSG_002 [Fuuka]]
-Es extremadamente poderoso... 斡Por[n]favor, tengan cuidado!
+Es extremadamente poderoso... 斡Por favor, tengan cuidado!
 
 [msg MSG_002_3 [Hikari]]
 斡Pueden hacerlo!
 
 [msg MSG_002_5]
-斡Los deseos de la gente se transformaron[n]en poder para desafiar a Enlil!
+斡Los deseos de la gente se transformaron en poder para desafiar a Enlil!
 
 [msg MSG_003 [Enlil]]
-Los humanos no han aprendido nada del[n]interminable ciclo de la destrucci吋n y[n]el renacimiento.
-Se oponen a la providencia, manipulados[n]por ilusiones que llaman esperanza...
-Semejante falacia se debe a la simple y[n]d姻bil existencia humana.
+Los humanos no han aprendido nada del interminable ciclo de la destrucci吋n y el renacimiento.
+Se oponen a la providencia, manipulados por ilusiones que llaman esperanza...
+Semejante falacia se debe a la simple y d姻bil existencia humana.
 
 [msg MSG_004 [Enlil]]
-Los humanos ven una oferta de salvaci吋n[n]como malvada, utilizando sus armas en mi[n]contra.
-Los humanos son pat姻ticos. No es[n]sorprendente que desaf胤en la voluntad de[n]los cielos...
-Sin embargo, a pesar de todo, les ofrec胤[n]mi protecci吋n a todos y cada uno.
+Los humanos ven una oferta de salvaci吋n como malvada, utilizando sus armas en mi contra.
+Los humanos son pat姻ticos. No es sorprendente que desaf胤en la voluntad de los cielos...
+Sin embargo, a pesar de todo, les ofrec胤 mi protecci吋n a todos y cada uno.
 
 [msg MSG_005 [Enlil]]
-によれ めゎゆぺょよれ ょよ れぺほまょ りゎま ゅぺ "まれらまるぺょんぺ" ょよ まれ[n]ゆァれ りゎま ゎょ わまょまょよ りゎま ゅよれ わゎまゅわま ゅよぼよれデ れま[n]ぺみまるるぺょ ぺ ぺりゎまゅゅよ りゎま ゅよれ ぽまれろるゎをまテ
-Esto solo puede hacer que se arrepientan[n]de sus decisiones y se ahoguen en la[n]desesperaci吋n...
-Y por eso debo intervenir, para[n]salvarlos.
+Los humanos no saben que la "esperanza" no es m茨s que un veneno que los vuelve locos, se aferran a aquello que los destruye.
+Esto solo puede hacer que se arrepientan de sus decisiones y se ahoguen en la desesperaci吋n...
+Y por eso debo intervenir, para salvarlos.
 
 [msg MSG_006 [Enlil]]
 Qu姻 pena...
-Si no te hubieras aferrado a la[n]esperanza... no te habr胤as perdido.
+Si no te hubieras aferrado a la esperanza... no te habr胤as perdido.
 
 [msg MSG_007 [Futaba]]
 斡E-espera! 斡夷Qu姻 acabas de decir?!
 
 [msg MSG_009 [Enlil]]
-夷Se dan cuenta ahora? Los humanos son[n]realmente d姻biles.
+夷Se dan cuenta ahora? Los humanos son realmente d姻biles.
 
 [msg MSG_010 [Hikari]]
 斡N-no puede ser!
 
 [msg MSG_043_5 [Enlil]]
-夷Se dan cuenta ahora? Los humanos son[n]realmente d姻biles.
+夷Se dan cuenta ahora? Los humanos son realmente d姻biles.
 
 [msg MSG_043 [Enlil]]
-La 雨nica salvaci吋n para seres tan[n]d姻biles como ustedes es aceptar mi[n]mundo.
-Los ladrones no son m茨s que peligrosas[n]anomal胤as que perturban mi orden...
-As胤 que, los extinguir姻 con mis propias[n]manos.
+La 雨nica salvaci吋n para seres tan d姻biles como ustedes es aceptar mi mundo.
+Los ladrones no son m茨s que peligrosas anomal胤as que perturban mi orden...
+As胤 que, los extinguir姻 con mis propias manos.
 
 [msg MSG_040 [Fuuka]]
 斡Chicos!
@@ -73,10 +73,10 @@ No... No recibo lecturas...
 
 [msg MSG_015 [Fuuka]]
 Hikari…
-斡Por favor, huyan! 斡A este paso, los[n]derribar茨!
+斡Por favor, huyan! 斡A este paso, los derribar茨!
 
 [msg MSG_046 [Enlil]]
-Todo no es m茨s que polvo ante mi[n]viento... Sus acciones son in雨tiles.
+Todo no es m茨s que polvo ante mi viento... Sus acciones son in雨tiles.
 
 [msg MSG_047 [Hikari]]
 ...No.
@@ -86,15 +86,15 @@ Todo no es m茨s que polvo ante mi[n]viento... Sus acciones son in雨tiles.
 ...
 
 [msg MSG_049 [Hikari]]
-斡S姻 que es cierto! 斡Los he estado[n]observando!
-斡Nunca se rindieron en esas pel胤culas,[n]ni una vez!
-No les importo lo duro que fuera... o lo[n]doloroso...
+斡S姻 que es cierto! 斡Los estuve observando!
+斡Nunca se rindieron en esas pel胤culas, ni una vez!
+No les importo lo duro que fuera... o lo doloroso...
 
 [msg MSG_050 [Futaba]]
 斡Hikari!
 
 [msg MSG_051 [Hikari]]
-斡No han perdido todav胤a! Conozco su[n]poder...
+斡No han perdido todav胤a! Conozco su poder...
 斡Creo en ellos!
 
 [msg MSG_052 [Fuuka]]
@@ -102,24 +102,24 @@ Hikari...
 
 [msg MSG_053 [Enlil]]
 夷Por qu姻 no lo entiendes?
-No eran m茨s que im茨genes falsas[n]proyectadas en una pantalla...
-Sab胤as que eran todas ilusiones,[n]夷verdad? Y aun as胤 aceptaste este mundo,[n]夷no es as胤?
+No eran m茨s que im茨genes falsas proyectadas en una pantalla...
+Sab胤as que eran todas ilusiones, 夷verdad? Y aun as胤 aceptaste este mundo, 夷no es as胤?
 
 [msg MSG_054 [Hikari]]
-Es porque finalmente record姻... 斡Gracias[n]a ellos, recuerdo!
-斡Me ayudaron a recordar lo que realmente[n]importa en la vida!
-斡Por eso creo tanto en ellos! 斡Nunca[n]perder胤an, no ante ti!
+Es porque finalmente record姻... 斡Gracias a ellos, recuerdo!
+斡Me ayudaron a recordar lo que realmente importa en la vida!
+斡Por eso creo tanto en ellos! 斡Nunca perder胤an, no ante ti!
 
 [msg MSG_056 [Enlil]]
 Hikari...
 
 [msg MSG_057 [Hikari]]
 斡No me rendir姻!
-Todos me han apoyado, as胤 que esta[n]vez... 斡Es mi turno!
+Todos me han apoyado, as胤 que esta vez... 斡Es mi turno!
 
 [msg MSG_059 [Hikari]]
-Han superado todos los obst茨culos a los[n]que se han enfrentado...
-Creo... 斡Estoy segura de que pueden con[n]esto!
+Han superado todos los obst茨culos a los que se han enfrentado...
+Creo... 斡Estoy segura de que pueden con esto!
 
 [msg MSG_060 [Hikari]]
 斡Por favor!
@@ -143,7 +143,7 @@ Ustedes a雨n...
 斡No subestimes nuestra voluntad!
 
 [msg MSG_067 [P4 Hero]]
-斡Nos hemos levantado innumerables veces[n]antes!
+斡Nos hemos levantado innumerables veces antes!
 
 [msg MSG_068 [P3 Hero]]
 Ganaremos porque nunca nos rendiremos.
@@ -160,10 +160,10 @@ Lo hiciste genial, Hikari.
 斡Aaaaaagh!
 
 [msg MSG_008 [Rise]]
-El poder de Enlil est茨 aumentando...[n]斡Esto es malo!
+El poder de Enlil est茨 aumentando... 斡Esto es malo!
 
 [msg MSG_041 [Rise]]
-No puede... Vamos, chicos... 斡Tienen que[n]levantarse!
+No puede... Vamos, chicos... 斡Tienen que levantarse!
 
 [msg MSG_013 [Futaba]]
 No... 斡夷los derribaron?!

@@ -2,7 +2,7 @@
 夷Terminaste?
 
 [msg MSG_BTL_002]
-Te he estado esperando.
+Te estaba esperando.
 
 [msg MSG_BTL_003]
 斡Come esto!
