@@ -47,7 +47,7 @@ Pero [f 2 4 1] anticip吋 el[n]movimiento.
 斡[f 2 4 0] est茨 petrificado!
 
 [msg BLTMSGID_SLEEP]
-est茨 durmiendo...
+ est茨 durmiendo...
 
 [msg BLTMSGID_CONFUSE]
 斡[f 2 4 0] tiene confusi吋n!
@@ -116,7 +116,7 @@ Enjambre de Sombras
 斡[f 2 4 0] us吋[n][f 2 4 3]!
 
 [msg BTLMSGID_DEFENCE]
-se defiende.
+ se defiende.
 
 [msg BTLMSGID_SUMMON]
 斡[f 2 4 0] convoc吋 aliados!
@@ -128,10 +128,10 @@ se defiende.
 斡[f 2 4 1] se petrific吋!
 
 [msg BLTMSGID_BST_SLEEP]
-se durmi吋...
+ se durmi吋...
 
 [msg BLTMSGID_BST_CONFUSE]
-tiene confusi吋n.
+ tiene confusi吋n.
 
 [msg BLTMSGID_BST_POINSON_EX]
 斡[f 2 4 1] se envenen吋!
@@ -239,7 +239,7 @@ El grupo fue derrotado...
 Todos
 
 [msg BTLMSGID_SUMMON_SACRIFIC]
-ha muerto...
+ ha muerto...
 
 [msg BTLMSGID_SUMMON_MISS]
 斡Pero no aparecieron aliados!
@@ -668,10 +668,10 @@ Las Ataduras no afectar茨n ahora a[n][f 2 4 1].
 斡[f 2 4 0] se volvi吋[n]gigantesco!
 
 [msg BTLMSGID_E_SUMMON_MSG_00]
-comienza a retorcerse...
+ comienza a retorcerse...
 
 [msg BTLMSGID_E_SUMMON_MSG_01]
-baja su mano...
+ baja su mano...
 
 [msg BTLMSGID_E_SUMMON_MSG_02]
 斡La fuerza de [f 2 4 0] est茨[n]atada!
@@ -785,7 +785,7 @@ La forma de vida definitiva emerge de[n]su cuerpo larval...
 斡[f 2 4 0] est茨 experimentando[n]una Oleada de Sangre!
 
 [msg BTLMSGID_KIJIN_OFF]
-vuelve a la normalidad.
+ vuelve a la normalidad.
 
 [msg BTLMSGID_KUISHIBARI2]
 斡[f 2 4 0] resisti吋 el ataque!
@@ -842,10 +842,10 @@ vuelve a la normalidad.
 斡1 turno hasta que [f 2 4 0] se[n]autodestruya!
 
 [msg BTLMSGID_MSGWAIT4]
-est茨 observando.
+ est茨 observando.
 
 [msg BTLMSGID_MSGWAIT5]
-est茨 buscando un objetivo.
+ est茨 buscando un objetivo.
 
 [msg BTLMSGID_BALLOON]
 斡[f 2 4 0] se expande[n]enormemente!
@@ -854,7 +854,7 @@ est茨 buscando un objetivo.
 斡[f 2 4 0] dejo de moverse!
 
 [msg BTLMSGID_ACT_LION_SLEEP]
-est茨 durmiendo...
+ est茨 durmiendo...
 
 [msg BTLMSGID_REF_ATTACK_UP2]
 斡El ataque m茨gico de [f 2 4 1][n]aument吋!
@@ -959,7 +959,7 @@ est茨 durmiendo...
 斡[f 2 4 0] est茨 debilitado y no[n]puede moverse!
 
 [msg BTLMSGID_MASCOT]
-est茨 flotando...
+ est茨 flotando...
 
 [msg BTLMSGID_BUNNY]
 斡[f 2 4 0] est茨 confundido!
@@ -1022,16 +1022,16 @@ Sin embargo, no se estableci吋 ning雨n[n]C胤rculo.
 斡[f 2 4 1] no tiene suficiente[n]PS para usar la habilidad!
 
 [msg BTLMSGID_KEIKAI]
-es cauteloso.
+ es cauteloso.
 
 [msg BTLMSGID_RARE_1]
-est茨 mirando al vac胤o.
+ est茨 mirando al vac胤o.
 
 [msg BTLMSGID_RARE_2]
-est茨 desconcertado.
+ est茨 desconcertado.
 
 [msg BTLMSGID_RARE_3]
-est茨 desconcertado.
+ est茨 desconcertado.
 
 [msg BTLMSGID_HAMA_OMEN]
 斡El poder de la luz se re雨ne[n]alrededor de [f 2 4 0]!
@@ -1040,13 +1040,13 @@ est茨 desconcertado.
 斡El poder de oscuridad se re雨ne[n]alrededor de [f 2 4 0]!
 
 [msg BTLMSGID_NIYANIYA]
-sonr胤e con satisfacci吋n.
+ sonr胤e con satisfacci吋n.
 
 [msg BTLMSGID_JIBAKU_MISS]
 La autodestrucci吋n de [f 2 4 0][n]fall吋...
 
 [msg BTLMSGID_CHICKEN]
-parece seguro de s胤 mismo.
+ parece seguro de s胤 mismo.
 
 [msg BTLMSGID_ROBOT]
 ADVERTENCIA: DESISTA INMEDIATAMENTE.
@@ -1061,10 +1061,10 @@ ADVERTENCIA: DESISTA INMEDIATAMENTE.
 斡[f 2 4 0] murmur吋 una[n]maldici吋n!
 
 [msg BTLMSGID_KING]
-est茨 jugando con su cabello.
+ est茨 jugando con su cabello.
 
 [msg BTLMSGID_KING_ESCAPE]
-est茨 tratando de huir...
+ est茨 tratando de huir...
 
 [msg BTLMSGID_BIBIRI]
 斡[f 2 4 0] est茨 asustado!
@@ -1598,7 +1598,7 @@ Es nuestra oportunidad... Vamos.
 斡Margaret se concentra!
 
 [msg BTLMSGID_USAGI_OOGOE [Merciful Clergyman]]
-respira profundamente.
+ respira profundamente.
 
 [msg BTLMSGID_VELVET_SRICAM [Merciful Clergyman]]
 斡[f 2 4 0] ha recobrado la[n]conciencia!
@@ -1751,13 +1751,13 @@ sonr胤e inocentemente.
 斡[f 2 4 0] est茨 emocionado!
 
 [msg BTLMSGID_BOAST [Merciful Clergyman]]
-muestra su cuerpo.
+ muestra su cuerpo.
 
 [msg BTLMSGID_RELAX [Merciful Clergyman]]
-descansa con elegancia.
+ descansa con elegancia.
 
 [msg BTLMSGID_CREEP [Merciful Clergyman]]
-se retuerce.
+ se retuerce.
 
 [msg BTLMSGID_TURNENDHEAL [Merciful Clergyman]]
 斡Se ha a隠adido un efecto de curaci吋n[n]masiva!
@@ -1808,7 +1808,7 @@ se retuerce.
 斡Las habilidades de [f 2 4 1][n]fueron analizadas!
 
 [msg BTLMSGID_FULL_SNALYZE_FA [Merciful Clergyman]]
-est茨 bloqueando el an茨lisis...
+ est茨 bloqueando el an茨lisis...
 
 [msg BTLMSGID_PQ2_SONIC_RUSH [Merciful Clergyman]]
 斡Tomando una postura para usar[n]repetidamente habilidades!
