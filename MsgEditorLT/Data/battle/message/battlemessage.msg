@@ -1838,5 +1838,5 @@ El tiempo de estado alterado y ataduras de [f 2 4 1] se ha extendido.
 斡Costos de habilidad disminuidos!
 
 [msg BTLMSGID_PQ2_ZEROS [Merciful Clergyman]]
-斡Costes de habilidad negados para [f 2 4 1]!
+斡Costes de habilidad negados para [f 2 4 1]! 
 
