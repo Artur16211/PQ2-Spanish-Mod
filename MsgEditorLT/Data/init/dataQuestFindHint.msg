@@ -1,11 +1,11 @@
 [msg quest_hint_000]
-クエスト００のヒントです。 ダミーメッセージです。 ダミーメッセージです。
+ク夷ス:００Oヒン:Hす。 4ミーメ7セージHす。 4ミーメ7セージHす。
 
 [msg quest_hint_001]
 Alcanza la Zona 2 de Junessic Land.
 
 [msg quest_hint_002]
-※クエストカット
+※ク夷ス:吋7:
 
 [msg quest_hint_003]
 Investiga la Zona 4 de Junessic Land.
@@ -14,7 +14,7 @@ Investiga la Zona 4 de Junessic Land.
 Dir胤gete a la taquilla.
 
 [msg quest_hint_005]
-※クエストカット
+※ク夷ス:吋7:
 
 [msg quest_hint_006]
 Dir胤gete a la taquilla.
@@ -59,7 +59,7 @@ Investiga el Piso 2 del Laboratorio de[n]A.I.G.I.S.
 Alcanza el Servidor Central en[n]A.I.G.I.S.
 
 [msg quest_hint_020]
-※クエストカット
+※ク夷ス:吋7:
 
 [msg quest_hint_021]
 Investiga el Piso 1 del Laboratorio de[n]A.I.G.I.S.
@@ -101,7 +101,7 @@ Dir胤gete al puesto de concesiones.
 Investiga el Acto 6 de [f 6 1 40 0 0 0].
 
 [msg quest_hint_034]
-※クエストカット
+※ク夷ス:吋7:
 
 [msg quest_hint_035]
 Investiga el Acto 5 de [f 6 1 40 0 0 0].
@@ -131,7 +131,7 @@ Investiga el Bloque 2 del Distrito del[n]Cine.
 Investiga el Bloque 3 del Distrito del[n]Cine.
 
 [msg quest_hint_044]
-※クエストカット
+※ク夷ス:吋7:
 
 [msg quest_hint_045]
 Alcanza el Bloque 3 del Distrito del[n]Cine.

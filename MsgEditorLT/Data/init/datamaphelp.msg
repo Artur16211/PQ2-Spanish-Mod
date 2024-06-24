@@ -23,7 +23,7 @@ Para eliminar iconos en el mapa,[n]arr茨stralos a la papelera con la[n]herramie
 Toca el icono para cambiar el color.
 
 [msg map_help_005_01]
-テスト1
+.ス:1
 
 [msg map_help_006_01]
 Toque el n雨mero de piso mientras se[n]muestra todo el mapa, y solo ese piso se[n]mostrar茨.
@@ -32,7 +32,7 @@ Toque el n雨mero de piso mientras se[n]muestra todo el mapa, y solo ese piso se
 Toque el bot吋n del laberinto para[n]seleccionar el laberinto y el piso.
 
 [msg map_help_007_01]
-ぢゎぺょぽよ ろよぼぺれ ゅぺ ほるグゃゎゅぺ まょ ゅぺ らぺるろま れゎらまるもよる[n]もんりゎもまるぽぺデ らゎまぽまれ ゆぺょろまょまる まゅ ウぼよょよ ぽまゅ[n]ゃゎむぺぽよる ゆもるぺょぽよ めぺぼもぺ ぺるるもほぺ ゆもまょろるぺれ まゅ ゆぺらぺ[n]ぼぺゆほもぺ ぽま ぽもるまぼぼもカょテ
+Cuando tocas la br雨jula en la parte superior[n]izquierda, puedes mantener el 胤cono del[n]jugador mirando hacia arriba mientras el mapa[n]cambia de direcci吋n.
 
 [msg map_help_007_02]
 Devu姻lvelo a su configuraci吋n[n]predeterminada tocando la br雨jula[n]nuevamente.
@@ -62,8 +62,8 @@ Arrastra los iconos hacia la paleta[n]libre para guardar tus iconos favoritos.
 Elimina los iconos no deseados de la[n]paleta libre arrastr茨ndolos a la[n]papelera.
 
 [msg map_help_011_01]
-っゎるぺょろま ゅぺれ らるよをまぼぼもよょまれ まれらまぼもぺゅまれデ ろまょぽるァれ[n]ゎょぺ らぺゅまろぺ ぽま らるよをまぼぼもよょまれ まれらまぼもぺゅまれテ[n]ぢよょろまょぽるァ もぼよょよれ りゎま れよゅよ らよぽるァれ ぼよゅよぼぺる[n]ぽゎるぺょろま ゅぺれ らるよをまぼぼもよょまれテ
+Durante las proyecciones especiales, tendr茨s[n]una paleta de proyecciones especiales.[n]Contendr茨 iconos que solo podr茨s colocar[n]durante las proyecciones.
 
 [msg map_help_011_02]
-ひもょ まゆほぺるむよデ ょよ らゎまぽまれ ぼよゅよぼぺる もぼよょよれ ぽま[n]らるよをまぼぼもよょまれ まれらまぼもぺゅまれ まょぼもゆぺ ぽま よろるよれ りゎま[n]みゎまるよょ ぼよゅよぼぺぽよれ まょ ゎょ ゆよゆまょろよ ぽもみまるまょろまテ
+Sin embargo, no puedes colocar iconos de[n]proyecciones especiales encima de otros que[n]fueron colocados en un momento diferente.
 

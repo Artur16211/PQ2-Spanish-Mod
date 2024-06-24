@@ -2,767 +2,767 @@
 ブランク（※使用禁止）
 
 [msg material_D01]
-ぴょ ぺょもゅゅよ りゎま ぼよょろもまょま ゎょ らよぽまる[n]ゆもれろまるもよれよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un anillo que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D02]
-ぴょ ほるよぼめま りゎま ぼよょろもまょま ゎょ らよぽまる[n]ゆもれろまるもよれよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un broche que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D03]
-ぴょ ぺょもゅゅよ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un anillo con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D04]
-ぴょ ほるよぼめま ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un broche con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D05]
-未鑑定品ゼゑっゼチ１行目 未鑑定品ゼゑっゼチ２行目
+未鑑定品0xD05１行目 未鑑定品0xD05２行目
 
 [msg material_D06]
-ぴょぺ ぽもぺぽまゆぺ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅぺ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Una diadema con un tenue resplandor[n]enigm茨tico. Eval雨ala en la tienda para[n]conocer su efecto.
 
 [msg material_D07]
-ぴょ ぺゅみもゅまる ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un alfiler con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D08]
-ぴょぺ ぽもぺぽまゆぺ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅぺ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Una diadema con un tenue resplandor[n]enigm茨tico. Eval雨ala en la tienda para[n]conocer su efecto.
 
 [msg material_D09]
-ぴょ ぺゅみもゅまる ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un alfiler con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D0A]
-ぴょ ぺぼぼまれよるもよ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un accesorio con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D0B]
-未鑑定品ゼゑっゼち１行目 未鑑定品ゼゑっゼち２行目
+未鑑定品0xD0B１行目 未鑑定品0xD0B２行目
 
 [msg material_D0C]
-ぴょぺ ほぺょぽぺ りゎま ぼよょろもまょま ゎょ らよぽまる[n]ゆもれろまるもよれよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Una banda que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D0D]
-ぴょ ぺゆゎゅまろよ りゎま ぼよょろもまょま ゎょ らよぽまる[n]ゆもれろまるもよれよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un amuleto que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D0E]
-ぴょぺ ほぺょぽぺ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Una banda con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D0F]
-ぴょ ぺゆゎゅまろよ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un amuleto con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D10]
-ぴょ ぺぼぼまれよるもよ ぼよょ ゎょ るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un accesorio con un resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D11]
-未鑑定品ゼゑっソソ１行目 未鑑定品ゼゑっソソ２行目
+未鑑定品0xD11１行目 未鑑定品0xD11２行目
 
 [msg material_D12]
-ぴょ らぺるぼめま よぼゎゅぺる りゎま ぼよょろもまょま ゎょ らよぽまる[n]ゆもれろまるもよれよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un parche ocular que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D13]
-ぴょぺ ぼるゎん ぺょれぺぽぺ りゎま ぼよょろもまょま らよぽまるまれ[n]ゆもれろまるもよれよれテ つわぺゅグぺゅぺ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Una cruz ansada que contiene poderes[n]misteriosos. Eval雨ala en la tienda para[n]conocer su efecto.
 
 [msg material_D14]
-ぴょ らぺるぼめま よぼゎゅぺる ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un parche ocular con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D15]
-ぴょぺ ぼるゎん ぺょれぺぽぺ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅぺ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Una cruz ansada con un tenue resplandor[n]enigm茨tico. Eval雨ala en la tienda para[n]conocer su efecto.
 
 [msg material_D16]
-ぴょ ぺぼぼまれよるもよ ぼよょ ゎょ るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un accesorio con un resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D17]
-未鑑定品ゼゑっソッ１行目 未鑑定品ゼゑっソッ２行目
+未鑑定品0xD17１行目 未鑑定品0xD17２行目
 
 [msg material_D18]
-ぴょ ゆぺむぺろぺゆぺ りゎま ぼよょろもまょま らよぽまるまれ[n]ゆもれろまるもよれよれテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un magatama que contiene poderes[n]misteriosos. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D19]
-ぴょ よるほま りゎま ぼよょろもまょま らよぽまるまれ[n]ゆもれろまるもよれよれテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un orbe que contiene poderes[n]misteriosos. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D1A]
-ぴょ ゆぺむぺろぺゆぺ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un magatama con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D1B]
-ぴょ よるほま ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]まょもむゆァろもぼよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un orbe con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D1C]
-ぴょ ぺぼぼまれよるもよ ぼよょ ゎょ ろまょゎま るまれらゅぺょぽよる[n]ぽもわもょよテ つわぺゅグぺゅよ まょ ゅぺ ろもまょぽぺ らぺるぺ[n]ぼよょよぼまる れゎ まみまぼろよテ
+Un accesorio con un tenue resplandor[n]divino. Eval雨alo en la tienda para[n]conocer su efecto.
 
 [msg material_D1D]
-未鑑定品ゼゑっソっ１行目 未鑑定品ゼゑっソっ２行目
+未鑑定品0xD1D１行目 未鑑定品0xD1D２行目
 
 [msg material_D1E]
-未鑑定品ゼゑっソつ１行目 未鑑定品ゼゑっソつ２行目
+未鑑定品0xD1E１行目 未鑑定品0xD1E２行目
 
 [msg material_D1F]
-未鑑定品ゼゑっソづ１行目 未鑑定品ゼゑっソづ２行目
+未鑑定品0xD1F１行目 未鑑定品0xD1F２行目
 
 [msg material_D20]
-未鑑定品ゼゑっゾゼ１行目 未鑑定品ゼゑっゾゼ２行目
+未鑑定品0xD20１行目 未鑑定品0xD20２行目
 
 [msg material_D21]
-未鑑定品ゼゑっゾソ１行目 未鑑定品ゼゑっゾソ２行目
+未鑑定品0xD21１行目 未鑑定品0xD21２行目
 
 [msg material_D22]
-未鑑定品ゼゑっゾゾ１行目 未鑑定品ゼゑっゾゾ２行目
+未鑑定品0xD22１行目 未鑑定品0xD22２行目
 
 [msg material_D23]
-未鑑定品ゼゑっゾタ１行目 未鑑定品ゼゑっゾタ２行目
+未鑑定品0xD23１行目 未鑑定品0xD23２行目
 
 [msg material_D24]
-未鑑定品ゼゑっゾダ１行目 未鑑定品ゼゑっゾダ２行目
+未鑑定品0xD24１行目 未鑑定品0xD24２行目
 
 [msg material_D25]
-未鑑定品ゼゑっゾチ１行目 未鑑定品ゼゑっゾチ２行目
+未鑑定品0xD25１行目 未鑑定品0xD25２行目
 
 [msg material_D26]
-未鑑定品ゼゑっゾヂ１行目 未鑑定品ゼゑっゾヂ２行目
+未鑑定品0xD26１行目 未鑑定品0xD26２行目
 
 [msg material_D27]
-未鑑定品ゼゑっゾッ１行目 未鑑定品ゼゑっゾッ２行目
+未鑑定品0xD27１行目 未鑑定品0xD27２行目
 
 [msg material_D28]
-未鑑定品ゼゑっゾツ１行目 未鑑定品ゼゑっゾツ２行目
+未鑑定品0xD28１行目 未鑑定品0xD28２行目
 
 [msg material_D29]
-未鑑定品ゼゑっゾヅ１行目 未鑑定品ゼゑっゾヅ２行目
+未鑑定品0xD29１行目 未鑑定品0xD29２行目
 
 [msg material_D2A]
-未鑑定品ゼゑっゾだ１行目 未鑑定品ゼゑっゾだ２行目
+未鑑定品0xD2A１行目 未鑑定品0xD2A２行目
 
 [msg material_D2B]
-未鑑定品ゼゑっゾち１行目 未鑑定品ゼゑっゾち２行目
+未鑑定品0xD2B１行目 未鑑定品0xD2B２行目
 
 [msg material_D2C]
-未鑑定品ゼゑっゾぢ１行目 未鑑定品ゼゑっゾぢ２行目
+未鑑定品0xD2C１行目 未鑑定品0xD2C２行目
 
 [msg material_D2D]
-未鑑定品ゼゑっゾっ１行目 未鑑定品ゼゑっゾっ２行目
+未鑑定品0xD2D１行目 未鑑定品0xD2D２行目
 
 [msg material_D2E]
-未鑑定品ゼゑっゾつ１行目 未鑑定品ゼゑっゾつ２行目
+未鑑定品0xD2E１行目 未鑑定品0xD2E２行目
 
 [msg material_D2F]
-未鑑定品ゼゑっゾづ１行目 未鑑定品ゼゑっゾづ２行目
+未鑑定品0xD2F１行目 未鑑定品0xD2F２行目
 
 [msg material_D30]
-未鑑定品ゼゑっタゼ１行目 未鑑定品ゼゑっタゼ２行目
+未鑑定品0xD30１行目 未鑑定品0xD30２行目
 
 [msg material_D31]
-未鑑定品ゼゑっタソ１行目 未鑑定品ゼゑっタソ２行目
+未鑑定品0xD31１行目 未鑑定品0xD31２行目
 
 [msg material_D32]
-未鑑定品ゼゑっタゾ１行目 未鑑定品ゼゑっタゾ２行目
+未鑑定品0xD32１行目 未鑑定品0xD32２行目
 
 [msg material_D33]
-未鑑定品ゼゑっタタ１行目 未鑑定品ゼゑっタタ２行目
+未鑑定品0xD33１行目 未鑑定品0xD33２行目
 
 [msg material_D34]
-未鑑定品ゼゑっタダ１行目 未鑑定品ゼゑっタダ２行目
+未鑑定品0xD34１行目 未鑑定品0xD34２行目
 
 [msg material_D35]
-未鑑定品ゼゑっタチ１行目 未鑑定品ゼゑっタチ２行目
+未鑑定品0xD35１行目 未鑑定品0xD35２行目
 
 [msg material_D36]
-未鑑定品ゼゑっタヂ１行目 未鑑定品ゼゑっタヂ２行目
+未鑑定品0xD36１行目 未鑑定品0xD36２行目
 
 [msg material_D37]
-未鑑定品ゼゑっタッ１行目 未鑑定品ゼゑっタッ２行目
+未鑑定品0xD37１行目 未鑑定品0xD37２行目
 
 [msg material_D38]
-未鑑定品ゼゑっタツ１行目 未鑑定品ゼゑっタツ２行目
+未鑑定品0xD38１行目 未鑑定品0xD38２行目
 
 [msg material_D39]
-未鑑定品ゼゑっタヅ１行目 未鑑定品ゼゑっタヅ２行目
+未鑑定品0xD39１行目 未鑑定品0xD39２行目
 
 [msg material_D3A]
-未鑑定品ゼゑっタだ１行目 未鑑定品ゼゑっタだ２行目
+未鑑定品0xD3A１行目 未鑑定品0xD3A２行目
 
 [msg material_D3B]
-未鑑定品ゼゑっタち１行目 未鑑定品ゼゑっタち２行目
+未鑑定品0xD3B１行目 未鑑定品0xD3B２行目
 
 [msg material_D3C]
-未鑑定品ゼゑっタぢ１行目 未鑑定品ゼゑっタぢ２行目
+未鑑定品0xD3C１行目 未鑑定品0xD3C２行目
 
 [msg material_D3D]
-未鑑定品ゼゑっタっ１行目 未鑑定品ゼゑっタっ２行目
+未鑑定品0xD3D１行目 未鑑定品0xD3D２行目
 
 [msg material_D3E]
-未鑑定品ゼゑっタつ１行目 未鑑定品ゼゑっタつ２行目
+未鑑定品0xD3E１行目 未鑑定品0xD3E２行目
 
 [msg material_D3F]
-未鑑定品ゼゑっタづ１行目 未鑑定品ゼゑっタづ２行目
+未鑑定品0xD3F１行目 未鑑定品0xD3F２行目
 
 [msg material_D40]
-未鑑定品ゼゑっダゼ１行目 未鑑定品ゼゑっダゼ２行目
+未鑑定品0xD40１行目 未鑑定品0xD40２行目
 
 [msg material_D41]
-未鑑定品ゼゑっダソ１行目 未鑑定品ゼゑっダソ２行目
+未鑑定品0xD41１行目 未鑑定品0xD41２行目
 
 [msg material_D42]
-未鑑定品ゼゑっダゾ１行目 未鑑定品ゼゑっダゾ２行目
+未鑑定品0xD42１行目 未鑑定品0xD42２行目
 
 [msg material_D43]
-未鑑定品ゼゑっダタ１行目 未鑑定品ゼゑっダタ２行目
+未鑑定品0xD43１行目 未鑑定品0xD43２行目
 
 [msg material_D44]
-未鑑定品ゼゑっダダ１行目 未鑑定品ゼゑっダダ２行目
+未鑑定品0xD44１行目 未鑑定品0xD44２行目
 
 [msg material_D45]
-未鑑定品ゼゑっダチ１行目 未鑑定品ゼゑっダチ２行目
+未鑑定品0xD45１行目 未鑑定品0xD45２行目
 
 [msg material_D46]
-未鑑定品ゼゑっダヂ１行目 未鑑定品ゼゑっダヂ２行目
+未鑑定品0xD46１行目 未鑑定品0xD46２行目
 
 [msg material_D47]
-未鑑定品ゼゑっダッ１行目 未鑑定品ゼゑっダッ２行目
+未鑑定品0xD47１行目 未鑑定品0xD47２行目
 
 [msg material_D48]
-未鑑定品ゼゑっダツ１行目 未鑑定品ゼゑっダツ２行目
+未鑑定品0xD48１行目 未鑑定品0xD48２行目
 
 [msg material_D49]
-未鑑定品ゼゑっダヅ１行目 未鑑定品ゼゑっダヅ２行目
+未鑑定品0xD49１行目 未鑑定品0xD49２行目
 
 [msg material_D4A]
-未鑑定品ゼゑっダだ１行目 未鑑定品ゼゑっダだ２行目
+未鑑定品0xD4A１行目 未鑑定品0xD4A２行目
 
 [msg material_D4B]
-未鑑定品ゼゑっダち１行目 未鑑定品ゼゑっダち２行目
+未鑑定品0xD4B１行目 未鑑定品0xD4B２行目
 
 [msg material_D4C]
-未鑑定品ゼゑっダぢ１行目 未鑑定品ゼゑっダぢ２行目
+未鑑定品0xD4C１行目 未鑑定品0xD4C２行目
 
 [msg material_D4D]
-未鑑定品ゼゑっダっ１行目 未鑑定品ゼゑっダっ２行目
+未鑑定品0xD4D１行目 未鑑定品0xD4D２行目
 
 [msg material_D4E]
-未鑑定品ゼゑっダつ１行目 未鑑定品ゼゑっダつ２行目
+未鑑定品0xD4E１行目 未鑑定品0xD4E２行目
 
 [msg material_D4F]
-未鑑定品ゼゑっダづ１行目 未鑑定品ゼゑっダづ２行目
+未鑑定品0xD4F１行目 未鑑定品0xD4F２行目
 
 [msg material_D50]
-未鑑定品ゼゑっチゼ１行目 未鑑定品ゼゑっチゼ２行目
+未鑑定品0xD50１行目 未鑑定品0xD50２行目
 
 [msg material_D51]
-未鑑定品ゼゑっチソ１行目 未鑑定品ゼゑっチソ２行目
+未鑑定品0xD51１行目 未鑑定品0xD51２行目
 
 [msg material_D52]
-未鑑定品ゼゑっチゾ１行目 未鑑定品ゼゑっチゾ２行目
+未鑑定品0xD52１行目 未鑑定品0xD52２行目
 
 [msg material_D53]
-未鑑定品ゼゑっチタ１行目 未鑑定品ゼゑっチタ２行目
+未鑑定品0xD53１行目 未鑑定品0xD53２行目
 
 [msg material_D54]
-未鑑定品ゼゑっチダ１行目 未鑑定品ゼゑっチダ２行目
+未鑑定品0xD54１行目 未鑑定品0xD54２行目
 
 [msg material_D55]
-未鑑定品ゼゑっチチ１行目 未鑑定品ゼゑっチチ２行目
+未鑑定品0xD55１行目 未鑑定品0xD55２行目
 
 [msg material_D56]
-未鑑定品ゼゑっチヂ１行目 未鑑定品ゼゑっチヂ２行目
+未鑑定品0xD56１行目 未鑑定品0xD56２行目
 
 [msg material_D57]
-未鑑定品ゼゑっチッ１行目 未鑑定品ゼゑっチッ２行目
+未鑑定品0xD57１行目 未鑑定品0xD57２行目
 
 [msg material_D58]
-未鑑定品ゼゑっチツ１行目 未鑑定品ゼゑっチツ２行目
+未鑑定品0xD58１行目 未鑑定品0xD58２行目
 
 [msg material_D59]
-未鑑定品ゼゑっチヅ１行目 未鑑定品ゼゑっチヅ２行目
+未鑑定品0xD59１行目 未鑑定品0xD59２行目
 
 [msg material_D5A]
-未鑑定品ゼゑっチだ１行目 未鑑定品ゼゑっチだ２行目
+未鑑定品0xD5A１行目 未鑑定品0xD5A２行目
 
 [msg material_D5B]
-未鑑定品ゼゑっチち１行目 未鑑定品ゼゑっチち２行目
+未鑑定品0xD5B１行目 未鑑定品0xD5B２行目
 
 [msg material_D5C]
-未鑑定品ゼゑっチぢ１行目 未鑑定品ゼゑっチぢ２行目
+未鑑定品0xD5C１行目 未鑑定品0xD5C２行目
 
 [msg material_D5D]
-未鑑定品ゼゑっチっ１行目 未鑑定品ゼゑっチっ２行目
+未鑑定品0xD5D１行目 未鑑定品0xD5D２行目
 
 [msg material_D5E]
-未鑑定品ゼゑっチつ１行目 未鑑定品ゼゑっチつ２行目
+未鑑定品0xD5E１行目 未鑑定品0xD5E２行目
 
 [msg material_D5F]
-未鑑定品ゼゑっチづ１行目 未鑑定品ゼゑっチづ２行目
+未鑑定品0xD5F１行目 未鑑定品0xD5F２行目
 
 [msg material_D60]
-未鑑定品ゼゑっヂゼ１行目 未鑑定品ゼゑっヂゼ２行目
+未鑑定品0xD60１行目 未鑑定品0xD60２行目
 
 [msg material_D61]
-未鑑定品ゼゑっヂソ１行目 未鑑定品ゼゑっヂソ２行目
+未鑑定品0xD61１行目 未鑑定品0xD61２行目
 
 [msg material_D62]
-未鑑定品ゼゑっヂゾ１行目 未鑑定品ゼゑっヂゾ２行目
+未鑑定品0xD62１行目 未鑑定品0xD62２行目
 
 [msg material_D63]
-未鑑定品ゼゑっヂタ１行目 未鑑定品ゼゑっヂタ２行目
+未鑑定品0xD63１行目 未鑑定品0xD63２行目
 
 [msg material_D64]
-未鑑定品ゼゑっヂダ１行目 未鑑定品ゼゑっヂダ２行目
+未鑑定品0xD64１行目 未鑑定品0xD64２行目
 
 [msg material_D65]
-未鑑定品ゼゑっヂチ１行目 未鑑定品ゼゑっヂチ２行目
+未鑑定品0xD65１行目 未鑑定品0xD65２行目
 
 [msg material_D66]
-未鑑定品ゼゑっヂヂ１行目 未鑑定品ゼゑっヂヂ２行目
+未鑑定品0xD66１行目 未鑑定品0xD66２行目
 
 [msg material_D67]
-未鑑定品ゼゑっヂッ１行目 未鑑定品ゼゑっヂッ２行目
+未鑑定品0xD67１行目 未鑑定品0xD67２行目
 
 [msg material_D68]
-未鑑定品ゼゑっヂツ１行目 未鑑定品ゼゑっヂツ２行目
+未鑑定品0xD68１行目 未鑑定品0xD68２行目
 
 [msg material_D69]
-未鑑定品ゼゑっヂヅ１行目 未鑑定品ゼゑっヂヅ２行目
+未鑑定品0xD69１行目 未鑑定品0xD69２行目
 
 [msg material_D6A]
-未鑑定品ゼゑっヂだ１行目 未鑑定品ゼゑっヂだ２行目
+未鑑定品0xD6A１行目 未鑑定品0xD6A２行目
 
 [msg material_D6B]
-未鑑定品ゼゑっヂち１行目 未鑑定品ゼゑっヂち２行目
+未鑑定品0xD6B１行目 未鑑定品0xD6B２行目
 
 [msg material_D6C]
-未鑑定品ゼゑっヂぢ１行目 未鑑定品ゼゑっヂぢ２行目
+未鑑定品0xD6C１行目 未鑑定品0xD6C２行目
 
 [msg material_D6D]
-未鑑定品ゼゑっヂっ１行目 未鑑定品ゼゑっヂっ２行目
+未鑑定品0xD6D１行目 未鑑定品0xD6D２行目
 
 [msg material_D6E]
-未鑑定品ゼゑっヂつ１行目 未鑑定品ゼゑっヂつ２行目
+未鑑定品0xD6E１行目 未鑑定品0xD6E２行目
 
 [msg material_D6F]
-未鑑定品ゼゑっヂづ１行目 未鑑定品ゼゑっヂづ２行目
+未鑑定品0xD6F１行目 未鑑定品0xD6F２行目
 
 [msg material_D70]
-未鑑定品ゼゑっッゼ１行目 未鑑定品ゼゑっッゼ２行目
+未鑑定品0xD70１行目 未鑑定品0xD70２行目
 
 [msg material_D71]
-未鑑定品ゼゑっッソ１行目 未鑑定品ゼゑっッソ２行目
+未鑑定品0xD71１行目 未鑑定品0xD71２行目
 
 [msg material_D72]
-未鑑定品ゼゑっッゾ１行目 未鑑定品ゼゑっッゾ２行目
+未鑑定品0xD72１行目 未鑑定品0xD72２行目
 
 [msg material_D73]
-未鑑定品ゼゑっッタ１行目 未鑑定品ゼゑっッタ２行目
+未鑑定品0xD73１行目 未鑑定品0xD73２行目
 
 [msg material_D74]
-未鑑定品ゼゑっッダ１行目 未鑑定品ゼゑっッダ２行目
+未鑑定品0xD74１行目 未鑑定品0xD74２行目
 
 [msg material_D75]
-未鑑定品ゼゑっッチ１行目 未鑑定品ゼゑっッチ２行目
+未鑑定品0xD75１行目 未鑑定品0xD75２行目
 
 [msg material_D76]
-未鑑定品ゼゑっッヂ１行目 未鑑定品ゼゑっッヂ２行目
+未鑑定品0xD76１行目 未鑑定品0xD76２行目
 
 [msg material_D77]
-未鑑定品ゼゑっッッ１行目 未鑑定品ゼゑっッッ２行目
+未鑑定品0xD77１行目 未鑑定品0xD77２行目
 
 [msg material_D78]
-未鑑定品ゼゑっッツ１行目 未鑑定品ゼゑっッツ２行目
+未鑑定品0xD78１行目 未鑑定品0xD78２行目
 
 [msg material_D79]
-未鑑定品ゼゑっッヅ１行目 未鑑定品ゼゑっッヅ２行目
+未鑑定品0xD79１行目 未鑑定品0xD79２行目
 
 [msg material_D7A]
-未鑑定品ゼゑっッだ１行目 未鑑定品ゼゑっッだ２行目
+未鑑定品0xD7A１行目 未鑑定品0xD7A２行目
 
 [msg material_D7B]
-未鑑定品ゼゑっッち１行目 未鑑定品ゼゑっッち２行目
+未鑑定品0xD7B１行目 未鑑定品0xD7B２行目
 
 [msg material_D7C]
-未鑑定品ゼゑっッぢ１行目 未鑑定品ゼゑっッぢ２行目
+未鑑定品0xD7C１行目 未鑑定品0xD7C２行目
 
 [msg material_D7D]
-未鑑定品ゼゑっッっ１行目 未鑑定品ゼゑっッっ２行目
+未鑑定品0xD7D１行目 未鑑定品0xD7D２行目
 
 [msg material_D7E]
-未鑑定品ゼゑっッつ１行目 未鑑定品ゼゑっッつ２行目
+未鑑定品0xD7E１行目 未鑑定品0xD7E２行目
 
 [msg material_D7F]
-未鑑定品ゼゑっッづ１行目 未鑑定品ゼゑっッづ２行目
+未鑑定品0xD7F１行目 未鑑定品0xD7F２行目
 
 [msg material_D80]
-未鑑定品ゼゑっツゼ１行目 未鑑定品ゼゑっツゼ２行目
+未鑑定品0xD80１行目 未鑑定品0xD80２行目
 
 [msg material_D81]
-未鑑定品ゼゑっツソ１行目 未鑑定品ゼゑっツソ２行目
+未鑑定品0xD81１行目 未鑑定品0xD81２行目
 
 [msg material_D82]
-未鑑定品ゼゑっツゾ１行目 未鑑定品ゼゑっツゾ２行目
+未鑑定品0xD82１行目 未鑑定品0xD82２行目
 
 [msg material_D83]
-未鑑定品ゼゑっツタ１行目 未鑑定品ゼゑっツタ２行目
+未鑑定品0xD83１行目 未鑑定品0xD83２行目
 
 [msg material_D84]
-未鑑定品ゼゑっツダ１行目 未鑑定品ゼゑっツダ２行目
+未鑑定品0xD84１行目 未鑑定品0xD84２行目
 
 [msg material_D85]
-未鑑定品ゼゑっツチ１行目 未鑑定品ゼゑっツチ２行目
+未鑑定品0xD85１行目 未鑑定品0xD85２行目
 
 [msg material_D86]
-未鑑定品ゼゑっツヂ１行目 未鑑定品ゼゑっツヂ２行目
+未鑑定品0xD86１行目 未鑑定品0xD86２行目
 
 [msg material_D87]
-未鑑定品ゼゑっツッ１行目 未鑑定品ゼゑっツッ２行目
+未鑑定品0xD87１行目 未鑑定品0xD87２行目
 
 [msg material_D88]
-未鑑定品ゼゑっツツ１行目 未鑑定品ゼゑっツツ２行目
+未鑑定品0xD88１行目 未鑑定品0xD88２行目
 
 [msg material_D89]
-未鑑定品ゼゑっツヅ１行目 未鑑定品ゼゑっツヅ２行目
+未鑑定品0xD89１行目 未鑑定品0xD89２行目
 
 [msg material_D8A]
-未鑑定品ゼゑっツだ１行目 未鑑定品ゼゑっツだ２行目
+未鑑定品0xD8A１行目 未鑑定品0xD8A２行目
 
 [msg material_D8B]
-未鑑定品ゼゑっツち１行目 未鑑定品ゼゑっツち２行目
+未鑑定品0xD8B１行目 未鑑定品0xD8B２行目
 
 [msg material_D8C]
-未鑑定品ゼゑっツぢ１行目 未鑑定品ゼゑっツぢ２行目
+未鑑定品0xD8C１行目 未鑑定品0xD8C２行目
 
 [msg material_D8D]
-未鑑定品ゼゑっツっ１行目 未鑑定品ゼゑっツっ２行目
+未鑑定品0xD8D１行目 未鑑定品0xD8D２行目
 
 [msg material_D8E]
-未鑑定品ゼゑっツつ１行目 未鑑定品ゼゑっツつ２行目
+未鑑定品0xD8E１行目 未鑑定品0xD8E２行目
 
 [msg material_D8F]
-未鑑定品ゼゑっツづ１行目 未鑑定品ゼゑっツづ２行目
+未鑑定品0xD8F１行目 未鑑定品0xD8F２行目
 
 [msg material_D90]
-未鑑定品ゼゑっヅゼ１行目 未鑑定品ゼゑっヅゼ２行目
+未鑑定品0xD90１行目 未鑑定品0xD90２行目
 
 [msg material_D91]
-未鑑定品ゼゑっヅソ１行目 未鑑定品ゼゑっヅソ２行目
+未鑑定品0xD91１行目 未鑑定品0xD91２行目
 
 [msg material_D92]
-未鑑定品ゼゑっヅゾ１行目 未鑑定品ゼゑっヅゾ２行目
+未鑑定品0xD92１行目 未鑑定品0xD92２行目
 
 [msg material_D93]
-未鑑定品ゼゑっヅタ１行目 未鑑定品ゼゑっヅタ２行目
+未鑑定品0xD93１行目 未鑑定品0xD93２行目
 
 [msg material_D94]
-未鑑定品ゼゑっヅダ１行目 未鑑定品ゼゑっヅダ２行目
+未鑑定品0xD94１行目 未鑑定品0xD94２行目
 
 [msg material_D95]
-未鑑定品ゼゑっヅチ１行目 未鑑定品ゼゑっヅチ２行目
+未鑑定品0xD95１行目 未鑑定品0xD95２行目
 
 [msg material_D96]
-未鑑定品ゼゑっヅヂ１行目 未鑑定品ゼゑっヅヂ２行目
+未鑑定品0xD96１行目 未鑑定品0xD96２行目
 
 [msg material_D97]
-未鑑定品ゼゑっヅッ１行目 未鑑定品ゼゑっヅッ２行目
+未鑑定品0xD97１行目 未鑑定品0xD97２行目
 
 [msg material_D98]
-未鑑定品ゼゑっヅツ１行目 未鑑定品ゼゑっヅツ２行目
+未鑑定品0xD98１行目 未鑑定品0xD98２行目
 
 [msg material_D99]
-未鑑定品ゼゑっヅヅ１行目 未鑑定品ゼゑっヅヅ２行目
+未鑑定品0xD99１行目 未鑑定品0xD99２行目
 
 [msg material_D9A]
-未鑑定品ゼゑっヅだ１行目 未鑑定品ゼゑっヅだ２行目
+未鑑定品0xD9A１行目 未鑑定品0xD9A２行目
 
 [msg material_D9B]
-未鑑定品ゼゑっヅち１行目 未鑑定品ゼゑっヅち２行目
+未鑑定品0xD9B１行目 未鑑定品0xD9B２行目
 
 [msg material_D9C]
-未鑑定品ゼゑっヅぢ１行目 未鑑定品ゼゑっヅぢ２行目
+未鑑定品0xD9C１行目 未鑑定品0xD9C２行目
 
 [msg material_D9D]
-未鑑定品ゼゑっヅっ１行目 未鑑定品ゼゑっヅっ２行目
+未鑑定品0xD9D１行目 未鑑定品0xD9D２行目
 
 [msg material_D9E]
-未鑑定品ゼゑっヅつ１行目 未鑑定品ゼゑっヅつ２行目
+未鑑定品0xD9E１行目 未鑑定品0xD9E２行目
 
 [msg material_D9F]
-未鑑定品ゼゑっヅづ１行目 未鑑定品ゼゑっヅづ２行目
+未鑑定品0xD9F１行目 未鑑定品0xD9F２行目
 
 [msg material_DA0]
-未鑑定品ゼゑっだゼ１行目 未鑑定品ゼゑっだゼ２行目
+未鑑定品0xDA0１行目 未鑑定品0xDA0２行目
 
 [msg material_DA1]
-未鑑定品ゼゑっだソ１行目 未鑑定品ゼゑっだソ２行目
+未鑑定品0xDA1１行目 未鑑定品0xDA1２行目
 
 [msg material_DA2]
-未鑑定品ゼゑっだゾ１行目 未鑑定品ゼゑっだゾ２行目
+未鑑定品0xDA2１行目 未鑑定品0xDA2２行目
 
 [msg material_DA3]
-未鑑定品ゼゑっだタ１行目 未鑑定品ゼゑっだタ２行目
+未鑑定品0xDA3１行目 未鑑定品0xDA3２行目
 
 [msg material_DA4]
-未鑑定品ゼゑっだダ１行目 未鑑定品ゼゑっだダ２行目
+未鑑定品0xDA4１行目 未鑑定品0xDA4２行目
 
 [msg material_DA5]
-未鑑定品ゼゑっだチ１行目 未鑑定品ゼゑっだチ２行目
+未鑑定品0xDA5１行目 未鑑定品0xDA5２行目
 
 [msg material_DA6]
-未鑑定品ゼゑっだヂ１行目 未鑑定品ゼゑっだヂ２行目
+未鑑定品0xDA6１行目 未鑑定品0xDA6２行目
 
 [msg material_DA7]
-未鑑定品ゼゑっだッ１行目 未鑑定品ゼゑっだッ２行目
+未鑑定品0xDA7１行目 未鑑定品0xDA7２行目
 
 [msg material_DA8]
-未鑑定品ゼゑっだツ１行目 未鑑定品ゼゑっだツ２行目
+未鑑定品0xDA8１行目 未鑑定品0xDA8２行目
 
 [msg material_DA9]
-未鑑定品ゼゑっだヅ１行目 未鑑定品ゼゑっだヅ２行目
+未鑑定品0xDA9１行目 未鑑定品0xDA9２行目
 
 [msg material_DAA]
-未鑑定品ゼゑっだだ１行目 未鑑定品ゼゑっだだ２行目
+未鑑定品0xDAA１行目 未鑑定品0xDAA２行目
 
 [msg material_DAB]
-未鑑定品ゼゑっだち１行目 未鑑定品ゼゑっだち２行目
+未鑑定品0xDAB１行目 未鑑定品0xDAB２行目
 
 [msg material_DAC]
-未鑑定品ゼゑっだぢ１行目 未鑑定品ゼゑっだぢ２行目
+未鑑定品0xDAC１行目 未鑑定品0xDAC２行目
 
 [msg material_DAD]
-未鑑定品ゼゑっだっ１行目 未鑑定品ゼゑっだっ２行目
+未鑑定品0xDAD１行目 未鑑定品0xDAD２行目
 
 [msg material_DAE]
-未鑑定品ゼゑっだつ１行目 未鑑定品ゼゑっだつ２行目
+未鑑定品0xDAE１行目 未鑑定品0xDAE２行目
 
 [msg material_DAF]
-未鑑定品ゼゑっだづ１行目 未鑑定品ゼゑっだづ２行目
+未鑑定品0xDAF１行目 未鑑定品0xDAF２行目
 
 [msg material_DB0]
-未鑑定品ゼゑっちゼ１行目 未鑑定品ゼゑっちゼ２行目
+未鑑定品0xDB0１行目 未鑑定品0xDB0２行目
 
 [msg material_DB1]
-未鑑定品ゼゑっちソ１行目 未鑑定品ゼゑっちソ２行目
+未鑑定品0xDB1１行目 未鑑定品0xDB1２行目
 
 [msg material_DB2]
-未鑑定品ゼゑっちゾ１行目 未鑑定品ゼゑっちゾ２行目
+未鑑定品0xDB2１行目 未鑑定品0xDB2２行目
 
 [msg material_DB3]
-未鑑定品ゼゑっちタ１行目 未鑑定品ゼゑっちタ２行目
+未鑑定品0xDB3１行目 未鑑定品0xDB3２行目
 
 [msg material_DB4]
-未鑑定品ゼゑっちダ１行目 未鑑定品ゼゑっちダ２行目
+未鑑定品0xDB4１行目 未鑑定品0xDB4２行目
 
 [msg material_DB5]
-未鑑定品ゼゑっちチ１行目 未鑑定品ゼゑっちチ２行目
+未鑑定品0xDB5１行目 未鑑定品0xDB5２行目
 
 [msg material_DB6]
-未鑑定品ゼゑっちヂ１行目 未鑑定品ゼゑっちヂ２行目
+未鑑定品0xDB6１行目 未鑑定品0xDB6２行目
 
 [msg material_DB7]
-未鑑定品ゼゑっちッ１行目 未鑑定品ゼゑっちッ２行目
+未鑑定品0xDB7１行目 未鑑定品0xDB7２行目
 
 [msg material_DB8]
-未鑑定品ゼゑっちツ１行目 未鑑定品ゼゑっちツ２行目
+未鑑定品0xDB8１行目 未鑑定品0xDB8２行目
 
 [msg material_DB9]
-未鑑定品ゼゑっちヅ１行目 未鑑定品ゼゑっちヅ２行目
+未鑑定品0xDB9１行目 未鑑定品0xDB9２行目
 
 [msg material_DBA]
-未鑑定品ゼゑっちだ１行目 未鑑定品ゼゑっちだ２行目
+未鑑定品0xDBA１行目 未鑑定品0xDBA２行目
 
 [msg material_DBB]
-未鑑定品ゼゑっちち１行目 未鑑定品ゼゑっちち２行目
+未鑑定品0xDBB１行目 未鑑定品0xDBB２行目
 
 [msg material_DBC]
-未鑑定品ゼゑっちぢ１行目 未鑑定品ゼゑっちぢ２行目
+未鑑定品0xDBC１行目 未鑑定品0xDBC２行目
 
 [msg material_DBD]
-未鑑定品ゼゑっちっ１行目 未鑑定品ゼゑっちっ２行目
+未鑑定品0xDBD１行目 未鑑定品0xDBD２行目
 
 [msg material_DBE]
-未鑑定品ゼゑっちつ１行目 未鑑定品ゼゑっちつ２行目
+未鑑定品0xDBE１行目 未鑑定品0xDBE２行目
 
 [msg material_DBF]
-未鑑定品ゼゑっちづ１行目 未鑑定品ゼゑっちづ２行目
+未鑑定品0xDBF１行目 未鑑定品0xDBF２行目
 
 [msg material_DC0]
-未鑑定品ゼゑっぢゼ１行目 未鑑定品ゼゑっぢゼ２行目
+未鑑定品0xDC0１行目 未鑑定品0xDC0２行目
 
 [msg material_DC1]
-未鑑定品ゼゑっぢソ１行目 未鑑定品ゼゑっぢソ２行目
+未鑑定品0xDC1１行目 未鑑定品0xDC1２行目
 
 [msg material_DC2]
-未鑑定品ゼゑっぢゾ１行目 未鑑定品ゼゑっぢゾ２行目
+未鑑定品0xDC2１行目 未鑑定品0xDC2２行目
 
 [msg material_DC3]
-未鑑定品ゼゑっぢタ１行目 未鑑定品ゼゑっぢタ２行目
+未鑑定品0xDC3１行目 未鑑定品0xDC3２行目
 
 [msg material_DC4]
-未鑑定品ゼゑっぢダ１行目 未鑑定品ゼゑっぢダ２行目
+未鑑定品0xDC4１行目 未鑑定品0xDC4２行目
 
 [msg material_DC5]
-未鑑定品ゼゑっぢチ１行目 未鑑定品ゼゑっぢチ２行目
+未鑑定品0xDC5１行目 未鑑定品0xDC5２行目
 
 [msg material_DC6]
-未鑑定品ゼゑっぢヂ１行目 未鑑定品ゼゑっぢヂ２行目
+未鑑定品0xDC6１行目 未鑑定品0xDC6２行目
 
 [msg material_DC7]
-未鑑定品ゼゑっぢッ１行目 未鑑定品ゼゑっぢッ２行目
+未鑑定品0xDC7１行目 未鑑定品0xDC7２行目
 
 [msg material_DC8]
-未鑑定品ゼゑっぢツ１行目 未鑑定品ゼゑっぢツ２行目
+未鑑定品0xDC8１行目 未鑑定品0xDC8２行目
 
 [msg material_DC9]
-未鑑定品ゼゑっぢヅ１行目 未鑑定品ゼゑっぢヅ２行目
+未鑑定品0xDC9１行目 未鑑定品0xDC9２行目
 
 [msg material_DCA]
-未鑑定品ゼゑっぢだ１行目 未鑑定品ゼゑっぢだ２行目
+未鑑定品0xDCA１行目 未鑑定品0xDCA２行目
 
 [msg material_DCB]
-未鑑定品ゼゑっぢち１行目 未鑑定品ゼゑっぢち２行目
+未鑑定品0xDCB１行目 未鑑定品0xDCB２行目
 
 [msg material_DCC]
-未鑑定品ゼゑっぢぢ１行目 未鑑定品ゼゑっぢぢ２行目
+未鑑定品0xDCC１行目 未鑑定品0xDCC２行目
 
 [msg material_DCD]
-未鑑定品ゼゑっぢっ１行目 未鑑定品ゼゑっぢっ２行目
+未鑑定品0xDCD１行目 未鑑定品0xDCD２行目
 
 [msg material_DCE]
-未鑑定品ゼゑっぢつ１行目 未鑑定品ゼゑっぢつ２行目
+未鑑定品0xDCE１行目 未鑑定品0xDCE２行目
 
 [msg material_DCF]
-未鑑定品ゼゑっぢづ１行目 未鑑定品ゼゑっぢづ２行目
+未鑑定品0xDCF１行目 未鑑定品0xDCF２行目
 
 [msg material_DD0]
-未鑑定品ゼゑっっゼ１行目 未鑑定品ゼゑっっゼ２行目
+未鑑定品0xDD0１行目 未鑑定品0xDD0２行目
 
 [msg material_DD1]
-未鑑定品ゼゑっっソ１行目 未鑑定品ゼゑっっソ２行目
+未鑑定品0xDD1１行目 未鑑定品0xDD1２行目
 
 [msg material_DD2]
-未鑑定品ゼゑっっゾ１行目 未鑑定品ゼゑっっゾ２行目
+未鑑定品0xDD2１行目 未鑑定品0xDD2２行目
 
 [msg material_DD3]
-未鑑定品ゼゑっっタ１行目 未鑑定品ゼゑっっタ２行目
+未鑑定品0xDD3１行目 未鑑定品0xDD3２行目
 
 [msg material_DD4]
-未鑑定品ゼゑっっダ１行目 未鑑定品ゼゑっっダ２行目
+未鑑定品0xDD4１行目 未鑑定品0xDD4２行目
 
 [msg material_DD5]
-未鑑定品ゼゑっっチ１行目 未鑑定品ゼゑっっチ２行目
+未鑑定品0xDD5１行目 未鑑定品0xDD5２行目
 
 [msg material_DD6]
-未鑑定品ゼゑっっヂ１行目 未鑑定品ゼゑっっヂ２行目
+未鑑定品0xDD6１行目 未鑑定品0xDD6２行目
 
 [msg material_DD7]
-未鑑定品ゼゑっっッ１行目 未鑑定品ゼゑっっッ２行目
+未鑑定品0xDD7１行目 未鑑定品0xDD7２行目
 
 [msg material_DD8]
-未鑑定品ゼゑっっツ１行目 未鑑定品ゼゑっっツ２行目
+未鑑定品0xDD8１行目 未鑑定品0xDD8２行目
 
 [msg material_DD9]
-未鑑定品ゼゑっっヅ１行目 未鑑定品ゼゑっっヅ２行目
+未鑑定品0xDD9１行目 未鑑定品0xDD9２行目
 
 [msg material_DDA]
-未鑑定品ゼゑっっだ１行目 未鑑定品ゼゑっっだ２行目
+未鑑定品0xDDA１行目 未鑑定品0xDDA２行目
 
 [msg material_DDB]
-未鑑定品ゼゑっっち１行目 未鑑定品ゼゑっっち２行目
+未鑑定品0xDDB１行目 未鑑定品0xDDB２行目
 
 [msg material_DDC]
-未鑑定品ゼゑっっぢ１行目 未鑑定品ゼゑっっぢ２行目
+未鑑定品0xDDC１行目 未鑑定品0xDDC２行目
 
 [msg material_DDD]
-未鑑定品ゼゑっっっ１行目 未鑑定品ゼゑっっっ２行目
+未鑑定品0xDDD１行目 未鑑定品0xDDD２行目
 
 [msg material_DDE]
-未鑑定品ゼゑっっつ１行目 未鑑定品ゼゑっっつ２行目
+未鑑定品0xDDE１行目 未鑑定品0xDDE２行目
 
 [msg material_DDF]
-未鑑定品ゼゑっっづ１行目 未鑑定品ゼゑっっづ２行目
+未鑑定品0xDDF１行目 未鑑定品0xDDF２行目
 
 [msg material_DE0]
-未鑑定品ゼゑっつゼ１行目 未鑑定品ゼゑっつゼ２行目
+未鑑定品0xDE0１行目 未鑑定品0xDE0２行目
 
 [msg material_DE1]
-未鑑定品ゼゑっつソ１行目 未鑑定品ゼゑっつソ２行目
+未鑑定品0xDE1１行目 未鑑定品0xDE1２行目
 
 [msg material_DE2]
-未鑑定品ゼゑっつゾ１行目 未鑑定品ゼゑっつゾ２行目
+未鑑定品0xDE2１行目 未鑑定品0xDE2２行目
 
 [msg material_DE3]
-未鑑定品ゼゑっつタ１行目 未鑑定品ゼゑっつタ２行目
+未鑑定品0xDE3１行目 未鑑定品0xDE3２行目
 
 [msg material_DE4]
-未鑑定品ゼゑっつダ１行目 未鑑定品ゼゑっつダ２行目
+未鑑定品0xDE4１行目 未鑑定品0xDE4２行目
 
 [msg material_DE5]
-未鑑定品ゼゑっつチ１行目 未鑑定品ゼゑっつチ２行目
+未鑑定品0xDE5１行目 未鑑定品0xDE5２行目
 
 [msg material_DE6]
-未鑑定品ゼゑっつヂ１行目 未鑑定品ゼゑっつヂ２行目
+未鑑定品0xDE6１行目 未鑑定品0xDE6２行目
 
 [msg material_DE7]
-未鑑定品ゼゑっつッ１行目 未鑑定品ゼゑっつッ２行目
+未鑑定品0xDE7１行目 未鑑定品0xDE7２行目
 
 [msg material_DE8]
-未鑑定品ゼゑっつツ１行目 未鑑定品ゼゑっつツ２行目
+未鑑定品0xDE8１行目 未鑑定品0xDE8２行目
 
 [msg material_DE9]
-未鑑定品ゼゑっつヅ１行目 未鑑定品ゼゑっつヅ２行目
+未鑑定品0xDE9１行目 未鑑定品0xDE9２行目
 
 [msg material_DEA]
-未鑑定品ゼゑっつだ１行目 未鑑定品ゼゑっつだ２行目
+未鑑定品0xDEA１行目 未鑑定品0xDEA２行目
 
 [msg material_DEB]
-未鑑定品ゼゑっつち１行目 未鑑定品ゼゑっつち２行目
+未鑑定品0xDEB１行目 未鑑定品0xDEB２行目
 
 [msg material_DEC]
-未鑑定品ゼゑっつぢ１行目 未鑑定品ゼゑっつぢ２行目
+未鑑定品0xDEC１行目 未鑑定品0xDEC２行目
 
 [msg material_DED]
-未鑑定品ゼゑっつっ１行目 未鑑定品ゼゑっつっ２行目
+未鑑定品0xDED１行目 未鑑定品0xDED２行目
 
 [msg material_DEE]
-未鑑定品ゼゑっつつ１行目 未鑑定品ゼゑっつつ２行目
+未鑑定品0xDEE１行目 未鑑定品0xDEE２行目
 
 [msg material_DEF]
-未鑑定品ゼゑっつづ１行目 未鑑定品ゼゑっつづ２行目
+未鑑定品0xDEF１行目 未鑑定品0xDEF２行目
 
 [msg material_DF0]
-未鑑定品ゼゑっづゼ１行目 未鑑定品ゼゑっづゼ２行目
+未鑑定品0xDF0１行目 未鑑定品0xDF0２行目
 
 [msg material_DF1]
-未鑑定品ゼゑっづソ１行目 未鑑定品ゼゑっづソ２行目
+未鑑定品0xDF1１行目 未鑑定品0xDF1２行目
 
 [msg material_DF2]
-未鑑定品ゼゑっづゾ１行目 未鑑定品ゼゑっづゾ２行目
+未鑑定品0xDF2１行目 未鑑定品0xDF2２行目
 
 [msg material_DF3]
-未鑑定品ゼゑっづタ１行目 未鑑定品ゼゑっづタ２行目
+未鑑定品0xDF3１行目 未鑑定品0xDF3２行目
 
 [msg material_DF4]
-未鑑定品ゼゑっづダ１行目 未鑑定品ゼゑっづダ２行目
+未鑑定品0xDF4１行目 未鑑定品0xDF4２行目
 
 [msg material_DF5]
-未鑑定品ゼゑっづチ１行目 未鑑定品ゼゑっづチ２行目
+未鑑定品0xDF5１行目 未鑑定品0xDF5２行目
 
 [msg material_DF6]
-未鑑定品ゼゑっづヂ１行目 未鑑定品ゼゑっづヂ２行目
+未鑑定品0xDF6１行目 未鑑定品0xDF6２行目
 
 [msg material_DF7]
-未鑑定品ゼゑっづッ１行目 未鑑定品ゼゑっづッ２行目
+未鑑定品0xDF7１行目 未鑑定品0xDF7２行目
 
 [msg material_DF8]
-未鑑定品ゼゑっづツ１行目 未鑑定品ゼゑっづツ２行目
+未鑑定品0xDF8１行目 未鑑定品0xDF8２行目
 
 [msg material_DF9]
-未鑑定品ゼゑっづヅ１行目 未鑑定品ゼゑっづヅ２行目
+未鑑定品0xDF9１行目 未鑑定品0xDF9２行目
 
 [msg material_DFA]
-未鑑定品ゼゑっづだ１行目 未鑑定品ゼゑっづだ２行目
+未鑑定品0xDFA１行目 未鑑定品0xDFA２行目
 
 [msg material_DFB]
-未鑑定品ゼゑっづち１行目 未鑑定品ゼゑっづち２行目
+未鑑定品0xDFB１行目 未鑑定品0xDFB２行目
 
 [msg material_DFC]
-未鑑定品ゼゑっづぢ１行目 未鑑定品ゼゑっづぢ２行目
+未鑑定品0xDFC１行目 未鑑定品0xDFC２行目
 
 [msg material_DFD]
-未鑑定品ゼゑっづっ１行目 未鑑定品ゼゑっづっ２行目
+未鑑定品0xDFD１行目 未鑑定品0xDFD２行目
 
 [msg material_DFE]
-未鑑定品ゼゑっづつ１行目 未鑑定品ゼゑっづつ２行目
+未鑑定品0xDFE１行目 未鑑定品0xDFE２行目
 
 [msg material_DFF]
-未鑑定品ゼゑっづづ１行目 未鑑定品ゼゑっづづ２行目
+未鑑定品0xDFF１行目 未鑑定品0xDFF２行目
 

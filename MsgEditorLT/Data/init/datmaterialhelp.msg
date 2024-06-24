@@ -1,2301 +1,2301 @@
 [msg material_700]
-ふまょぽま ろよぽよれ ゅよれ ゆぺろまるもぺゅまれ ぺ ゆぺょよテ
+Vende todos los materiales a mano.
 
 [msg material_701]
-ぴょ ろまゅイみよょよ ぼまゅゎゅぺるテ ひゎ らぺょろぺゅゅぺ まれろァ[n]ょよろぺほゅまゆまょろま ぺむるもまろぺぽぺテ のほろまょもぽよ まょト[n]なぺゆよれめもぽぺゆぺょ
+Un tel姻fono celular. Su pantalla est茨[n]notablemente agrietada. Obtenido en:[n]Kamoshidaman
 
 [msg material_702]
-ぴょぺ ゅゎん ぽまぼよるぺろもわぺ まょぼまょぽもぽぺ ぽゎるぺょろま ゅぺ[n]ょよぼめまテ のほろまょもぽよ まょト なぺゆよれめもぽぺゆぺょ
+Una luz decorativa encendida durante la[n]noche. Obtenido en: Kamoshidaman
 
 [msg material_703]
-ぴょ るまゅよゃ ぽま らゎゅれまるぺ ぺょぺゅカむもぼよ ぽぺォぺぽよ ま[n]もるるまらぺるぺほゅまテ のほろまょもぽよ まょト なぺゆよれめもぽぺゆぺょ
+Un reloj de pulsera anal吋gico da隠ado e[n]irreparable. Obtenido en: Kamoshidaman
 
 [msg material_704]
-ぴょぺ みもむゎるぺ ぽま れゎらまるめイるよまテ はるまれもよょぺ[n]ぽまろるァれ らぺるぺ めぺぼまる りゎま めぺほゅまテ のほろまょもぽよ[n]まょト なぺゆよれめもぽぺゆぺょ
+Una figura de superh姻roe. Presiona[n]detr茨s para hacer que hable. Obtenido[n]en: Kamoshidaman
 
 [msg material_705]
-づるぺむゆまょろよ ぽま ゎょぺ ひよゆほるぺ ぽま ぼよょれもれろまょぼもぺ[n]れもゆもゅぺる ぺ ゎょ むまゅテ びもるぺぽよ らよるト ぢよゐぺるぽゅを[n]ぬぺをぺ [f 0 1 2]ドはソ-べソナ
+Fragmento de una Sombra de consistencia[n]similar a un gel. Tirado por: Cowardly[n]Maya [f 0 1 2](P1-Z1)
 
 [msg material_706]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト ぢよゐぺるぽゅを ぬぺをぺ[n][f 0 1 2]ドはソ-べソナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Cowardly Maya[n][f 0 1 2](P1-Z1)
 
 [msg material_707]
-ぴょ みるぺむゆまょろよ ぽま ゎょぺ ひよゆほるぺ ぼよょ ぺれらまぼろよ[n]るよぼよれよテ びもるぺぽよ らよるト ひまゅみもれめ ちぺれぺゅろ[n][f 0 1 2]ドはソ-べゾナ
+Un fragmento de una Sombra con aspecto[n]rocoso. Tirado por: Selfish Basalt[n][f 0 1 2](P1-Z2)
 
 [msg material_708]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト ひまゅみもれめ ちぺれぺゅろ[n][f 0 1 2]ドはソ-べゾナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Selfish Basalt[n][f 0 1 2](P1-Z2)
 
 [msg material_709]
-ぴょ みるぺむゆまょろよ ぽま ゎょぺ ひよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま ゆまれぺテ びもるぺぽよ らよるト にぺゎむめもょむ[n]びぺほゅま [f 0 1 2]ドはソ-べソナ
+Un fragmento de una Sombra con[n]apariencia de mesa. Tirado por: Laughing[n]Table [f 0 1 2](P1-Z1)
 
 [msg material_70A]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト にぺゎむめもょむ びぺほゅま[n][f 0 1 2]ドはソ-べソナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Laughing Table[n][f 0 1 2](P1-Z1)
 
 [msg material_70B]
-っま ゎょぺ ひよゆほるぺ るまぽよょぽぺ ぽま ほよぼぺ むるぺょぽまテ[n]びもるぺぽよ らよるト にをもょむ でぺほゅまるもま [f 0 1 2]ドはソ-べソナ
+De una Sombra redonda de boca grande.[n]Tirado por: Lying Hablerie [f 0 1 2](P1-Z1)
 
 [msg material_70C]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト にをもょむ でぺほゅまるもま[n][f 0 1 2]ドはソ-べソナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Lying Hablerie[n][f 0 1 2](P1-Z1)
 
 [msg material_70D]
-づるぺむゆまょろよ ぽま ゎょぺ ひよゆほるぺ ぺ まれぼぺゅぺテ びもるぺぽよ[n]らよるト でまぺろ ちぺゅぺょぼま [f 0 1 2]ドはソ-べゾナ
+Fragmento de una Sombra a escala. Tirado[n]por: Heat Balance [f 0 1 2](P1-Z2)
 
 [msg material_70E]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト でまぺろ ちぺゅぺょぼま [f 0 1 2]ドはソ-べゾナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Heat Balance [f 0 1 2](P1-Z2)
 
 [msg material_70F]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ゎょ ろよゆよ[n]れぺむるぺぽよテ びもるぺぽよ らよるト ひらゎるもよゎれ ちよよや[n][f 0 1 2]ドはソ-べゾナ
+Fragmento de una sombra con un tomo[n]sagrado. Tirado por: Spurious Book[n][f 0 1 2](P1-Z2)
 
 [msg material_710]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト ひらゎるもよゎれ ちよよや[n][f 0 1 2]ドはソ-べゾナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Spurious Book[n][f 0 1 2](P1-Z2)
 
 [msg material_711]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ わまれろもぽぺ ぼよゆよ ゎょ[n]らよゅもぼウぺテ びもるぺぽよ らよるト ちるもほまぽ づゎんん [f 0 1 2]ドはソ-べゾナ
+Fragmento de una sombra vestida como un[n]polic胤a. Tirado por: Bribed Fuzz [f 0 1 2](P1-Z2)
 
 [msg material_712]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト ちるもほまぽ づゎんん [f 0 1 2]ドはソ-べゾナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Bribed Fuzz [f 0 1 2](P1-Z2)
 
 [msg material_713]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ わまれろもぽぺ ぼよゆよ ゎょ[n]るまをテ びもるぺぽよ らよるト てよるむまよゎれ なもょむ [f 0 1 2]ドはソ-べタナ
+Fragmento de una sombra vestida como un[n]rey. Tirado por: Gorgeous King [f 0 1 2](P1-Z3)
 
 [msg material_714]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト てよるむまよゎれ なもょむ[n][f 0 1 2]ドはソ-べタナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Gorgeous King[n][f 0 1 2](P1-Z3)
 
 [msg material_715]
-ぴょ みるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]まれろぺろゎぺテ びもるぺぽよ らよるト ぢるまぺろもよょ ぱまゅもぼ[n][f 0 1 2]ドはソ-べタナ
+Un fragmento de una sombra con forma de[n]estatua. Tirado por: Creation Relic[n][f 0 1 2](P1-Z3)
 
 [msg material_716]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト ぢるまぺろもよょ ぱまゅもぼ[n][f 0 1 2]ドはソ-べタナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Creation Relic[n][f 0 1 2](P1-Z3)
 
 [msg material_717]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ろるまれ[n]ぼぺほまんぺれテ びもるぺぽよ らよるト ぢゎゅろもぼ びよゐまる[n][f 0 1 2]ドはソ-べタナ
+Fragmento de una sombra con tres[n]cabezas. Tirado por: Cultic Tower[n][f 0 1 2](P1-Z3)
 
 [msg material_718]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト ぢゎゅろもぼ びよゐまる [f 0 1 2]ドはソ-べタナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Cultic Tower [f 0 1 2](P1-Z3)
 
 [msg material_719]
-ふまれろもゆまょろぺ れゎぽよるよれぺ ぽま ゎょぺ れよゆほるぺ[n]ゅゎぼめぺぽよるぺテ びもるぺぽよ らよるト っぺるもょむ てもむぺれ[n][f 0 1 2]ドはソ-べタナ
+Vestimenta sudorosa de una sombra[n]luchadora. Tirado por: Daring Gigas[n][f 0 1 2](P1-Z3)
 
 [msg material_71A]
-はもまぽるぺ もょりゎもまろぺょろまテ ぱまれろよれ ぽま ゎょぺ[n]ひよゆほるぺテ びもるぺぽよ らよるト っぺるもょむ てもむぺれ [f 0 1 2]ドはソ-べタナ
+Piedra inquietante. Restos de una[n]Sombra. Tirado por: Daring Gigas [f 0 1 2](P1-Z3)
 
 [msg material_71B]
-ぴょぺ ぼよるよょぺ まゑろるぺわぺむぺょろまテ びもるぺぽよ らよるト[n]てよるむまよゎれ なもょむ [f 0 1 2]ドはソ-べタナ
+Una corona extravagante. Tirado por:[n]Gorgeous King [f 0 1 2](P1-Z3)
 
 [msg material_71C]
-素材ゼゑッソぢ１行目 素材ゼゑッソぢ２行目
+素材0x71C１行目 素材0x71C２行目
 
 [msg material_71D]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ るよゃぺ ぼよょ みよるゆぺ[n]ぽま ろぺょりゎまテ びもるぺぽよ らよるト ひぼぺるゅまろ びゎるるまろ
+Fragmento de una sombra roja con forma[n]de tanque. Tirado por: Scarlet Turret
 
 [msg material_71E]
-素材ゼゑッソつ１行目 素材ゼゑッソつ２行目
+素材0x71E１行目 素材0x71E２行目
 
 [msg material_71F]
-素材ゼゑッソづ１行目 素材ゼゑッソづ２行目
+素材0x71F１行目 素材0x71F２行目
 
 [msg material_720]
-ぴょ まゆほゅまゆぺ ぽまゅ らまぼめよ ぽま ゎょ れゎらまるめイるよまテ[n]びもるぺぽよ らよるト ひゎらまる なぺゆよれめもぽぺゆぺょ
+Un emblema del pecho de un superh姻roe.[n]Tirado por: Super Kamoshidaman
 
 [msg material_721]
-素材ゼゑッゾソ１行目 素材ゼゑッゾソ２行目
+素材0x721１行目 素材0x721２行目
 
 [msg material_722]
-ぴょぺ むゎウぺ らぺるぺ ろまゃまる ろまゅぺ まょぼぺょろぺぽぺテ[n][f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para tejer tela encantada.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
 
 [msg material_723]
-ぴょぺ むゎウぺ らぺるぺ ぼるまぺる るよらぺ らるもゆもろもわぺテ[n][f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para crear ropa primitiva.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
 
 [msg material_724]
-ぴょぺ むゎウぺ らぺるぺ わもょぼゎゅぺる らぺゅぺほるぺれ まょ[n]らるまょぽぺれ ぽま わまれろもるテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para vincular palabras en[n]prendas de vestir. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_725]
-ぴょぺ むゎウぺ らぺるぺ まゅぺほよるぺる ぺるゆぺぽゎるぺれ[n]ゆまぼぺょもんぺぽぺれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Una gu胤a para elaborar armaduras[n]mecanizadas. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_726]
-ぬよょまぽぺ りゎま れま まょろるまむぺ ぺ りゎもまょ もょみよるゆぺ ぽま[n]ゅよれ ぽまれぺみもよれ ぽま ゎょ めイるよまテ のほろまょもぽよ まょト[n]なぺゆよれめもぽぺゆぺょ
+Moneda que se entrega a quien informa de[n]los desafios de un h姻roe. Obtenido en:[n]Kamoshidaman
 
 [msg material_727]
-ぴょぺ ゆよょまぽぺ ぽぺぽぺ ぺ ぺりゎまゅ りゎま ぽまるるよろぺ ぺ[n]ゅよれ まょまゆもむよれ ぽま ゎょ めイるよまテ のほろまょもぽよ まょト[n]なぺゆよれめもぽぺゆぺょ
+Una moneda dada a aquel que derrota a[n]los enemigos de un h姻roe. Obtenido en:[n]Kamoshidaman
 
 [msg material_728]
-ぴょぺ ゆよょまぽぺ ぽぺぽぺ ぺ ぺりゎまゅ りゎま ぺらよをカ ぺ ゎょ[n]めイるよまテ のほろまょもぽよ まょト なぺゆよれめもぽぺゆぺょ
+Una moneda dada a aquel que apoy吋 a un[n]h姻roe. Obtenido en: Kamoshidaman
 
 [msg material_729]
-素材ゼゑッゾヅ１行目 素材ゼゑッゾヅ２行目
+素材0x729１行目 素材0x729２行目
 
 [msg material_72A]
-だ ゆをれろまるもよゎれ れろよょま ぽるよららまぽ ほを ぺ ひめぺぽよゐテ
+A mysterious stone dropped by a Shadow.
 
 [msg material_72B]
-素材ゼゑッゾち１行目 素材ゼゑッゾち２行目
+素材0x72B１行目 素材0x72B２行目
 
 [msg material_72C]
-ぴょぺ ゆよょまぽぺ ぺょろもむゎぺ ろぺゅゅぺぽぺ まょ ぼよるぺゅ[n]らまろるもみもぼぺぽよテ のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+Una moneda antigua tallada en coral[n]petrificado. Obtenido en: Junessic Land
 
 [msg material_72D]
-ぴょぺ ぺょろもむゎぺ ゆよょまぽぺ ろぺゅゅぺぽぺ まょ ゃぺぽまテ[n]のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+Una antigua moneda tallada en jade.[n]Obtenido en: Junessic Land
 
 [msg material_72E]
-ぴょぺ ぺょろもむゎぺ ゆよょまぽぺ めまぼめぺ ぼよょ ぺゆぺろもれろぺテ[n]のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+Una antigua moneda hecha con amatista.[n]Obtenido en: Junessic Land
 
 [msg material_72F]
-素材ゼゑッゾづ１行目 素材ゼゑッゾづ２行目
+素材0x72F１行目 素材0x72F２行目
 
 [msg material_730]
-素材ゼゑッタゼ１行目 素材ゼゑッタゼ２行目
+素材0x730１行目 素材0x730２行目
 
 [msg material_731]
-はまゅよ ろもまれよ ぽま ゎょぺ れよゆほるぺ ほまれろもぺゅテ びもるぺぽよ[n]らよるト つょれゅぺわまぽ ちまぺれろ [f 0 1 2]ドはゾ-べソナ
+Pelo tieso de una sombra bestial. Tirado[n]por: Enslaved Beast [f 0 1 2](P2-Z1)
 
 [msg material_732]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト つょれゅぺわまぽ ちまぺれろ [f 0 1 2]ドはゾ-べソナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Enslaved Beast [f 0 1 2](P2-Z1)
 
 [msg material_733]
-ぴょ みるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぽま ァるほよゅ[n]わまれろもぽぺ ぼよょ ゎょ やもゆよょよテ びもるぺぽよ らよるト[n]とょわもろもょむ ねをよむよ [f 0 1 2]ドはゾ-べソナ
+Un fragmento de una sombra de 茨rbol[n]vestida con un kimono. Tirado por:[n]Inviting Nyogo [f 0 1 2](P2-Z1)
 
 [msg material_734]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト とょわもろもょむ ねをよむよ [f 0 1 2]ドはゾ-べソナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Inviting Nyogo [f 0 1 2](P2-Z1)
 
 [msg material_735]
-にウりゎもぽよ ぽま ゎょぺ れよゆほるぺ ゅもむまるぺゆまょろま[n]むまゅぺろもょよれぺテ びもるぺぽよ らよるト っまれもるよゎれ ぬぺをぺ[n][f 0 1 2]ドはゾ-べソナ
+L胤quido de una sombra ligeramente[n]gelatinosa. Tirado por: Desirous Maya[n][f 0 1 2](P2-Z1)
 
 [msg material_736]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト っまれもるよゎれ ぬぺをぺ [f 0 1 2]ドはゾ-べソナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Desirous Maya [f 0 1 2](P2-Z1)
 
 [msg material_737]
-づるぺむゆまょろよ ぽま ゎょぺ らまりゎまォぺ れよゆほるぺ[n]ぺょむまゅもぼぺゅテ びもるぺぽよ らよるト ちゅもょぽ ぢゎらもぽ[n][f 0 1 2]ドはゾ-べタナ
+Fragmento de una peque隠a sombra[n]angelical. Tirado por: Blind Cupid[n][f 0 1 2](P2-Z3)
 
 [msg material_738]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ちゅもょぽ ぢゎらもぽ [f 0 1 2]ドはゾ-べタナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Blind Cupid [f 0 1 2](P2-Z3)
 
 [msg material_739]
-素材ゼゑッタヅ１行目 素材ゼゑッタヅ２行目
+素材0x739１行目 素材0x739２行目
 
 [msg material_73A]
-ぬもょまるぺゅ グょもぼよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]るよぼぺテ びもるぺぽよ らよるト だゎろよょよゆもぼ ちぺれぺゅろ[n][f 0 1 2]ドはゾ-べゾナ
+Mineral 雨nico de una sombra con forma de[n]roca. Tirado por: Autonomic Basalt[n][f 0 1 2](P2-Z2)
 
 [msg material_73B]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト だゎろよょよゆもぼ ちぺれぺゅろ [f 0 1 2]ドはゾ-べゾナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Autonomic Basalt [f 0 1 2](P2-Z2)
 
 [msg material_73C]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ むるぺょぽま ぼよょ みよるゆぺ[n]ぽま ぺわまテ びもるぺぽよ らよるト どゎらもろまる つぺむゅま[n][f 0 1 2]ドはゾ-べゾナ
+Fragmento de una sombra grande con forma[n]de ave. Tirado por: Jupiter Eagle[n][f 0 1 2](P2-Z2)
 
 [msg material_73D]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト どゎらもろまる つぺむゅま [f 0 1 2]ドはゾ-べゾナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Jupiter Eagle [f 0 1 2](P2-Z2)
 
 [msg material_73E]
-ぴょぺ まれぼぺゆぺ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]れまるらもまょろまテ びもるぺぽよ らよるト にゎれろみゎゅ ひょぺやま[n][f 0 1 2]ドはゾ-べゾナ
+Una escama de una sombra con forma de[n]serpiente. Tirado por: Lustful Snake[n][f 0 1 2](P2-Z2)
 
 [msg material_73F]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト にゎれろみゎゅ ひょぺやま [f 0 1 2]ドはゾ-べゾナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Lustful Snake [f 0 1 2](P2-Z2)
 
 [msg material_740]
-つれぼぺゆぺれ ぽま ゎょぺ れよゆほるぺ まょゃぺゆほるまテ びもるぺぽよ[n]らよるト ぶめもゆれもぼぺゅ はぺらもゅゅよょ [f 0 1 2]ドはゾ-べゾナ
+Escamas de una sombra enjambre. Tirado[n]por: Whimsical Papillon [f 0 1 2](P2-Z2)
 
 [msg material_741]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぶめもゆれもぼぺゅ はぺらもゅゅよょ [f 0 1 2]ドはゾ-べゾナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Whimsical Papillon [f 0 1 2](P2-Z2)
 
 [msg material_742]
-素材ゼゑッダゾ１行目 素材ゼゑッダゾ２行目
+素材0x742１行目 素材0x742２行目
 
 [msg material_743]
-ぴょ みるぺむゆまょろよ みよれもゅもんぺぽよ ぽま ゎょぺ ぼるもぺろゎるぺ[n]らるまめもれろカるもぼぺテ のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+Un fragmento fosilizado de una criatura[n]prehist吋rica. Obtenido en: Junessic Land
 
 [msg material_744]
-ぴょ みカれもゅ ぽま ァゆほぺる ょぺろゎるぺゅ ぼよょ ゎょ ろもょろま[n]ぺゆぺるもゅゅよテ のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+Un f吋sil de 茨mbar natural con un tinte[n]amarillo. Obtenido en: Junessic Land
 
 [msg material_745]
-ぴょ みカれもゅ もょろぺぼろよ ぽま ゎょぺ ぼるもぺろゎるぺ[n]らるまめもれろカるもぼぺテ のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+Un f吋sil intacto de una criatura[n]prehist吋rica. Obtenido en: Junessic Land
 
 [msg material_746]
-アゆほぺる ゅゅまょよ ぽま るまれろよれ ぽま もょれまぼろよれ[n]らるまれまるわぺぽよれテ のほろまょもぽよ まょト どゎょまれれもぼ にぺょぽ
+威mbar lleno de restos de insectos[n]preservados. Obtenido en: Junessic Land
 
 [msg material_747]
-にぺ みよるゆぺ ぽま まれろま ろよるょもゅゅよ まれろァ ゆァれ ぺゅゅァ[n]ぽま ゅぺれ ぼぺらぺぼもぽぺぽまれ ろまぼょよゅカむもぼぺれ[n]ゆよぽまるょぺれテ のほろまょもぽよ まょト だテとテてテとテひテ
+La forma de este tornillo est茨 m茨s all茨[n]de las capacidades tecnol吋gicas[n]modernas. Obtenido en: A.I.G.I.S.
 
 [msg material_748]
-つれろま ぽもれらよれもろもわよ ぼよょわもまるろま ほぺれゎるぺ ぼるゎぽぺ[n]まょ まょまるむウぺ まゅイぼろるもぼぺテ のほろまょもぽよ まょト[n]だテとテてテとテひテ
+Este dispositivo convierte basura cruda[n]en energ胤a el姻ctrica. Obtenido en:[n]A.I.G.I.S.
 
 [msg material_749]
-ぴょ ぼもるぼゎもろよ りゎま れま ぼるまま りゎま らるよわもまょま ぽま[n]ゎょ ぢはぴ ぽま ゎょ みゎろゎるよ ぼまるぼぺょよテ のほろまょもぽよ[n]まょト だテとテてテとテひテ
+Un circuito que se cree que proviene de[n]un CPU de un futuro cercano. Obtenido[n]en: A.I.G.I.S.
 
 [msg material_74A]
-ぴょ ぼめもら ぽま もょろまゅもむまょぼもぺ ぺるろもみもぼもぺゅ ぼよょ[n]ゎょ わぺゅよる ぽまれわもぺぼもカょ れゎらまるもよる ぺ ヂチテ[n]のほろまょもぽよ まょト だテとテてテとテひテ
+Un chip de inteligencia artificial con[n]un valor desviaci吋n superior a 65.[n]Obtenido en: A.I.G.I.S.
 
 [msg material_74B]
-ぴょ れぺほよる ぽま らぺゅよゆもろぺれ ぽま ゆぺウん りゎま[n]るまれらゅぺょぽまぼま ぼよょ ぼよゅよるまれテ [f 0 1 3]だォぺぽま ょゎまわよれ[n]よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Un sabor de palomitas de ma胤z que[n]resplandece con colores. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
 
 [msg material_74C]
-ぴょ れぺほよる ぽま らぺゅよゆもろぺれ ぽま ゆぺウんデ ぽゎゅぼま を[n]ぺんゎぼぺるぺぽよテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Un sabor de palomitas de ma胤z, dulce y[n]azucarado. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_74D]
-ぴょ れぺほよる ぽま らぺゅよゆもろぺれ ぽま ゆぺウん ぼよょ ゎょ[n]ろよりゎま ろるよらもぼぺゅテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Un sabor de palomitas de ma胤z con un[n]toque tropical. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_74E]
-ぴょ れぺほよる ぽま らぺゅよゆもろぺれ ぽま ゆぺウんデ れぺほるよれよ を[n]ぼぺるょよれよテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Un sabor de palomitas de ma胤z, sabroso y[n]carnoso. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_74F]
-ぴょぺ むゎウぺ らぺるぺ らるまらぺるぺる ゎょぺ まょぼぺょろぺぽよるぺ[n]ぼよゆもぽぺ ゅもむまるぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para preparar una encantadora[n]comida ligera. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_750]
-ぴょぺ むゎウぺ らぺるぺ らるまらぺるぺる ゎょぺ ぼよゆもぽぺ ゅもむまるぺ[n]まゑカろもぼぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para preparar una comida ligera[n]ex吋tica. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_751]
-ぴょぺ むゎウぺ らぺるぺ ゎょぺ ぼよゆもぽぺ ゅもむまるぺ ぽまゅ ぱまを[n]てよゎるゆまろテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para una comida ligera del Rey[n]Gourmet. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_752]
-ぴょぺ むゎウぺ らぺるぺ ゅぺ ゆまんぼゅぺ 'ゆゎれぼゅま' まょ ゎょ[n]ほぺる ぽま ほまほもぽぺれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para la mezcla 'muscle' en un[n]bar de bebidas. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_753]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]らまんテ びもるぺぽよ らよるト ぢぺゅゆ はまれぼま [f 0 1 2]ドはゾ-べソナ
+Fragmento de una sombra con forma de[n]pez. Tirado por: Calm Pesce [f 0 1 2](P2-Z1)
 
 [msg material_754]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぢぺゅゆ はまれぼま [f 0 1 2]ドはゾ-べソナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Calm Pesce [f 0 1 2](P2-Z1)
 
 [msg material_755]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ もょみぺょろもゅ を[n]みゅよるまぼもまょろまテ びもるぺぽよ らよるト ひまぼるまろ ちぺゆほもょよ[n][f 0 1 2]ドはゾ-べタナ
+Fragmento de una sombra infantil y[n]floreciente. Tirado por: Secret Bambino[n][f 0 1 2](P2-Z3)
 
 [msg material_756]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ひまぼるまろ ちぺゆほもょよ [f 0 1 2]ドはゾ-べタナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Secret Bambino [f 0 1 2](P2-Z3)
 
 [msg material_757]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ れもょもまれろるぺ[n]れもゆもゅぺる ぺ ゎょぺ ょゎほまテ びもるぺぽよ らよるト ぱぺもょを[n]ちるよろめまる ゾ [f 0 1 2]ドはゾ-べタナ
+Fragmento de una sombra siniestra[n]similar a una nube. Tirado por: Rainy[n]Brother 2 [f 0 1 2](P2-Z3)
 
 [msg material_758]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぱぺもょを ちるよろめまる ゾ [f 0 1 2]ドはゾ-べタナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Rainy Brother 2 [f 0 1 2](P2-Z3)
 
 [msg material_759]
-はゅぺぼぺ るまれもれろまょろま ぽま ゎょぺ れよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま まれぼぺゆぺテ びもるぺぽよ らよるト ひやを[n]ちぺゅぺょぼま [f 0 1 2]ドはゾ-べタナ
+Placa resistente de una sombra con[n]apariencia de escama. Tirado por: Sky[n]Balance [f 0 1 2](P2-Z3)
 
 [msg material_75A]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ひやを ちぺゅぺょぼま [f 0 1 2]ドはゾ-べタナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Sky Balance [f 0 1 2](P2-Z3)
 
 [msg material_75B]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぽま ぺわま ぼよょ ゎょぺ[n]ゅもょろまるょぺテ びもるぺぽよ らよるト ちゅぺぼや ぱぺわまょ[n][f 0 1 2]ドはゾ-べダナ
+Fragmento de una sombra de ave con una[n]linterna. Tirado por: Black Raven[n][f 0 1 2](P2-Z4)
 
 [msg material_75C]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ちゅぺぼや ぱぺわまょ [f 0 1 2]ドはゾ-べダナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Black Raven [f 0 1 2](P2-Z4)
 
 [msg material_75D]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]だっねテ びもるぺぽよ らよるト でぺららを てまょま [f 0 1 2]ドはゾ-べダナ
+Fragmento de una sombra con forma de[n]ADN. Tirado por: Happy Gene [f 0 1 2](P2-Z4)
 
 [msg material_75E]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト でぺららを てまょま [f 0 1 2]ドはゾ-べダナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Happy Gene [f 0 1 2](P2-Z4)
 
 [msg material_75F]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ぺれらまぼろよ ぽま[n]ぬもょよろぺゎるよテ びもるぺぽよ らよるト ぬもょよろぺゎる と[n][f 0 1 2]ドはゾ-べダナ
+Fragmento de una sombra con aspecto de[n]Minotauro. Tirado por: Minotaur I[n][f 0 1 2](P2-Z4)
 
 [msg material_760]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぬもょよろぺゎる と [f 0 1 2]ドはゾ-べダナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Minotaur I [f 0 1 2](P2-Z4)
 
 [msg material_761]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]もょれまぼろよ むもむぺょろまテ びもるぺぽよ らよるト てよゅぽまょ[n]ちままろゅま [f 0 1 2]ドはゾ-べダナ
+Fragmento de una sombra con forma de[n]insecto gigante. Tirado por: Golden[n]Beetle [f 0 1 2](P2-Z4)
 
 [msg material_762]
-ぢるもれろぺゅ ぽまゆよょウぺぼよテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト てよゅぽまょ ちままろゅま [f 0 1 2]ドはゾ-べダナ
+Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Golden Beetle [f 0 1 2](P2-Z4)
 
 [msg material_763]
-ぴょ ぼゎまるょよ るよほゎれろよ ぼよょ ゎょぺ みよるゆぺ[n]ゆぺゃまれろゎよれぺテ びもるぺぽよ らよるト てよゅぽまょ ちままろゅま[n][f 0 1 2]ドはゾ-べダナ
+Un cuerno robusto con una forma[n]majestuosa. Tirado por: Golden Beetle[n][f 0 1 2](P2-Z4)
 
 [msg material_764]
-だぼまもろま ぽまゅむぺぽよ ぽま ゎょぺ れよゆほるぺ むまゅぺろもょよれぺテ[n]びもるぺぽよ らよるト づるもわよゅよゎれ ぬぺをぺ [f 0 1 2]ドはタ-べソナ
+Aceite delgado de una sombra gelatinosa.[n]Tirado por: Frivolous Maya [f 0 1 2](P3-Z1)
 
 [msg material_765]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト づるもわよゅよゎれ ぬぺをぺ[n][f 0 1 2]ドはタ-べソナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Frivolous Maya[n][f 0 1 2](P3-Z1)
 
 [msg material_766]
-ぴょ まょむるぺょぺゃま れよれろまょもぽよ らよる ゎょぺ れよゆほるぺ まょ[n]みよるゆぺ ぽま るゎまぽぺテ びもるぺぽよ らよるト ぬぺぼめ ぶめままゅ[n][f 0 1 2]ドはタ-べソナ
+Un engranaje sostenido por una sombra en[n]forma de rueda. Tirado por: Mach Wheel[n][f 0 1 2](P3-Z1)
 
 [msg material_767]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト ぬぺぼめ ぶめままゅ[n][f 0 1 2]ドはタ-べソナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Mach Wheel[n][f 0 1 2](P3-Z1)
 
 [msg material_768]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ほるぺんよれ まょ[n]みよるゆぺ ぽま ゅぺょんぺテ びもるぺぽよ らよるト ぱぺゆらぺむま[n]っるもわま [f 0 1 2]ドはタ-べソナ
+Fragmento de una sombra con brazos en[n]forma de lanza. Tirado por: Rampage[n]Drive [f 0 1 2](P3-Z1)
 
 [msg material_769]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト ぱぺゆらぺむま っるもわま[n][f 0 1 2]ドはタ-べソナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Rampage Drive[n][f 0 1 2](P3-Z1)
 
 [msg material_76A]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ぺらぺるもまょぼもぺ[n]ぽま ゆぺむよ まょぼぺらゎぼめぺぽよテ びもるぺぽよ らよるト はめぺょろよゆ[n]ぬぺむま [f 0 1 2]ドはタ-べソナ
+Fragmento de una sombra con apariencia[n]de mago encapuchado. Tirado por: Phantom[n]Mage [f 0 1 2](P3-Z1)
 
 [msg material_76B]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト はめぺょろよゆ ぬぺむま[n][f 0 1 2]ドはタ-べソナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Phantom Mage[n][f 0 1 2](P3-Z1)
 
 [msg material_76C]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]るまゅよゃ ぽま ぺるまょぺテ びもるぺぽよ らよるト づゅよゐもょむ ひぺょぽ[n][f 0 1 2]ドはタ-べソナ
+Fragmento de una sombra con forma de[n]reloj de arena. Tirado por: Flowing Sand[n][f 0 1 2](P3-Z1)
 
 [msg material_76D]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト づゅよゐもょむ ひぺょぽ[n][f 0 1 2]ドはタ-べソナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Flowing Sand[n][f 0 1 2](P3-Z1)
 
 [msg material_76E]
-ぢよるよょぺ ぽま ゎょぺ れよゆほるぺ ぽま ろるまれ ぼぺほまんぺれテ[n]びもるぺぽよ らよるト だらよれろぺろま びよゐまる [f 0 1 2]ドはタ-べゾナ
+Corona de una sombra de tres cabezas.[n]Tirado por: Apostate Tower [f 0 1 2](P3-Z2)
 
 [msg material_76F]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト だらよれろぺろま びよゐまる[n][f 0 1 2]ドはタ-べゾナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Apostate Tower[n][f 0 1 2](P3-Z2)
 
 [msg material_770]
-つゅ ぼめぺれもれ ぽま ゎょぺ れよゆほるぺ ぼよょ ぺらぺるもまょぼもぺ[n]ぽま ろぺょりゎまテ びもるぺぽよ らよるト ぱよぺるもょむ びゎるるまろ[n][f 0 1 2]ドはタ-べゾナ
+El chasis de una sombra con apariencia[n]de tanque. Tirado por: Roaring Turret[n][f 0 1 2](P3-Z2)
 
 [msg material_771]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト ぱよぺるもょむ びゎるるまろ[n][f 0 1 2]ドはタ-べゾナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Roaring Turret[n][f 0 1 2](P3-Z2)
 
 [msg material_772]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]ぽぺぽよテ びもるぺぽよ らよるト とるよょ っもぼま [f 0 1 2]ドはタ-べゾナ
+Fragmento de una sombra con forma de[n]dado. Tirado por: Iron Dice [f 0 1 2](P3-Z2)
 
 [msg material_773]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト とるよょ っもぼま[n][f 0 1 2]ドはタ-べゾナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Iron Dice[n][f 0 1 2](P3-Z2)
 
 [msg material_774]
-ぴょ らもぼよ むもむぺょろま ぽまょろるよ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]みよるゆぺ ぽま まれろぺろゎぺテ びもるぺぽよ らよるト ぢよょれろぺょぼを[n]ぱまゅもぼ [f 0 1 2]ドはタ-べタナ
+Un pico gigante dentro de una sombra con[n]forma de estatua. Tirado por: Constancy[n]Relic [f 0 1 2](P3-Z3)
 
 [msg material_775]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト ぢよょれろぺょぼを ぱまゅもぼ[n][f 0 1 2]ドはタ-べタナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Constancy Relic[n][f 0 1 2](P3-Z3)
 
 [msg material_776]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]ぼぺれろもゅゅよ るよぼよれよテ びもるぺぽよ らよるト はよゐまる[n]ぢぺれろゅま [f 0 1 2]ドはタ-べタナ
+Fragmento de una sombra con forma de[n]castillo rocoso. Tirado por: Power[n]Castle [f 0 1 2](P3-Z3)
 
 [msg material_777]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト はよゐまる ぢぺれろゅま[n][f 0 1 2]ドはタ-べタナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Power Castle[n][f 0 1 2](P3-Z3)
 
 [msg material_778]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ゅァゆもょぺれ[n]ゆァむもぼぺれテ びもるぺぽよ らよるト ちゅゎま ひもむもゅ [f 0 1 2]ドはタ-べタナ
+Fragmento de una sombra con l茨minas[n]m茨gicas. Tirado por: Blue Sigil [f 0 1 2](P3-Z3)
 
 [msg material_779]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト ちゅゎま ひもむもゅ[n][f 0 1 2]ドはタ-べタナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Blue Sigil[n][f 0 1 2](P3-Z3)
 
 [msg material_77A]
-だらイょぽもぼま めまゅもぼよもぽぺゅ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]みよるゆぺ ぽま だっねテ びもるぺぽよ らよるト づぺもゅ てまょま[n][f 0 1 2]ドはタ-べタナ
+Ap姻ndice helicoidal de una sombra con[n]forma de ADN. Tirado por: Fail Gene[n][f 0 1 2](P3-Z3)
 
 [msg material_77B]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト づぺもゅ てまょま[n][f 0 1 2]ドはタ-べタナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Fail Gene[n][f 0 1 2](P3-Z3)
 
 [msg material_77C]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ゎょ ほるぺんよ[n]らよるろぺぽよる ぽま ぼゎぼめもゅゅぺテ びもるぺぽよ らよるト[n]どゎれろもぼま ひゐよるぽ [f 0 1 2]ドはタ-べタナ
+Fragmento de una sombra con un brazo[n]portador de cuchilla. Tirado por:[n]Justice Sword [f 0 1 2](P3-Z3)
 
 [msg material_77D]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト どゎれろもぼま ひゐよるぽ[n][f 0 1 2]ドはタ-べタナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Justice Sword[n][f 0 1 2](P3-Z3)
 
 [msg material_77E]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぺろぺぽぺ ほよぼぺ[n]ぺほぺゃよテ びもるぺぽよ らよるト づもまるぼま ぢをぼゅよられ[n][f 0 1 2]ドはタ-べタナ
+Fragmento de una sombra atada boca[n]abajo. Tirado por: Fierce Cyclops[n][f 0 1 2](P3-Z3)
 
 [msg material_77F]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト づもまるぼま ぢをぼゅよられ[n][f 0 1 2]ドはタ-べタナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Fierce Cyclops[n][f 0 1 2](P3-Z3)
 
 [msg material_780]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ゆよょろゎるぺ ぽま[n]ろよるるまろぺテ びもるぺぽよ らよるト っもれゆぺをまぽ はぺょんまる[n][f 0 1 2]ドはタ-べダナ
+Fragmento de una sombra con montura de[n]torreta. Tirado por: Dismayed Panzer[n][f 0 1 2](P3-Z4)
 
 [msg material_781]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト っもれゆぺをまぽ はぺょんまる[n][f 0 1 2]ドはタ-べダナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Dismayed Panzer[n][f 0 1 2](P3-Z4)
 
 [msg material_782]
-ぬァれぼぺるぺ れゎぽよるよれぺ ぽま ゎょぺ れよゆほるぺ[n]ゅゎぼめぺぽよるぺテ びもるぺぽよ らよるト とゆゆよるろぺゅ てもむぺれ[n][f 0 1 2]ドはタ-べダナ
+M茨scara sudorosa de una sombra[n]luchadora. Tirado por: Immortal Gigas[n][f 0 1 2](P3-Z4)
 
 [msg material_783]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト とゆゆよるろぺゅ てもむぺれ[n][f 0 1 2]ドはタ-べダナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Immortal Gigas[n][f 0 1 2](P3-Z4)
 
 [msg material_784]
-はゅぺぼぺ よぼゎゅぺる ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]ぽぺぽよテ びもるぺぽよ らよるト ぬもょぽ っもぼま [f 0 1 2]ドはタ-べダナ
+Placa ocular de una sombra con forma de[n]dado. Tirado por: Mind Dice [f 0 1 2](P3-Z4)
 
 [msg material_785]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト ぬもょぽ っもぼま[n][f 0 1 2]ドはタ-べダナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Mind Dice[n][f 0 1 2](P3-Z4)
 
 [msg material_786]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ めゎゆぺょよもぽま[n]むもむぺょろまテ びもるぺぽよ らよるト てゎぺるぽもぺょ ぬぺぼめもょま[n][f 0 1 2]ドはタ-べダナ
+Fragmento de una sombra humanoide[n]gigante. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
 
 [msg material_787]
-ねグぼゅまよ りゎま りゎまぽぺ ぽまれらゎイれ ぽま ゅぺ ゆゎまるろま ぽま[n]ゎょぺ れよゆほるぺテ びもるぺぽよ らよるト てゎぺるぽもぺょ ぬぺぼめもょま[n][f 0 1 2]ドはタ-べダナ
+N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
 
 [msg material_788]
-ぴょぺ らゅぺぼぺ ぽま めもまるるよ ゅゅぺゆぺろもわぺ を[n]わよゅゎゆもょよれぺテ びもるぺぽよ らよるト てゎぺるぽもぺょ ぬぺぼめもょま[n][f 0 1 2]ドはタ-べダナ
+Una placa de hierro llamativa y[n]voluminosa. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
 
 [msg material_789]
-つれろるゎぼろゎるぺ ぽま めもまるるよ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]みよるゆぺ ぽま ゆまれぺテ びもるぺぽよ らよるト ひゅままらもょむ[n]びぺほゅま [f 0 1 2]ドはダ-べソナ
+Estructura de hierro de una sombra con[n]forma de mesa. Tirado por: Sleeping[n]Table [f 0 1 2](P4-Z1)
 
 [msg material_78A]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ひゅままらもょむ びぺほゅま [f 0 1 2]ドはダ-べソナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Sleeping Table [f 0 1 2](P4-Z1)
 
 [msg material_78B]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぽまょろるよ ぽま ゎょぺ[n]よゅゅぺテ びもるぺぽよ らよるト ぱぺもょを はよろ [f 0 1 2]ドはダ-べソナ
+Fragmento de una sombra dentro de una[n]olla. Tirado por: Rainy Pot [f 0 1 2](P4-Z1)
 
 [msg material_78C]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぱぺもょを はよろ [f 0 1 2]ドはダ-べソナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Rainy Pot [f 0 1 2](P4-Z1)
 
 [msg material_78D]
-づるぺむゆまょろよ ぽま ぽよれ れよゆほるぺれ んよゆほもれ[n]まょゅぺんぺぽぺれテ びもるぺぽよ らよるト びるぺょぼま びゐもょれ[n][f 0 1 2]ドはダ-べソナ
+Fragmento de dos sombras zombis[n]enlazadas. Tirado por: Trance Twins[n][f 0 1 2](P4-Z1)
 
 [msg material_78E]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト びるぺょぼま びゐもょれ [f 0 1 2]ドはダ-べソナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Trance Twins [f 0 1 2](P4-Z1)
 
 [msg material_78F]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ れまょろぺぽぺ まょ ゎょぺ[n]らゎまるろぺテ びもるぺぽよ らよるト ひめぺゅゅよゐ のやもょぺ[n][f 0 1 2]ドはダ-べソナ
+Fragmento de una sombra sentada en una[n]puerta. Tirado por: Shallow Okina[n][f 0 1 2](P4-Z1)
 
 [msg material_790]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ひめぺゅゅよゐ のやもょぺ [f 0 1 2]ドはダ-べソナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Shallow Okina [f 0 1 2](P4-Z1)
 
 [msg material_791]
-ぴょぺ わぺるぺ るウむもぽぺ りゎま れよれろもまょま ゎょぺ れよゆほるぺ[n]ぼよょ ぺらぺるもまょぼもぺ ぽま まれぼぺゆぺテ びもるぺぽよ らよるト[n]にもむめろ ちぺゅぺょぼま [f 0 1 2]ドはダ-べソナ
+Una vara r胤gida que sostiene una sombra[n]con apariencia de escama. Tirado por:[n]Light Balance [f 0 1 2](P4-Z1)
 
 [msg material_792]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト にもむめろ ちぺゅぺょぼま [f 0 1 2]ドはダ-べソナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Light Balance [f 0 1 2](P4-Z1)
 
 [msg material_793]
-にウりゎもぽよ ぽゎゅぼま ぽま ゎょぺ れよゆほるぺ むまゅぺろもょよれぺテ[n]びもるぺぽよ らよるト っまわもよゎれ ぬぺをぺ [f 0 1 2]ドはゾ-べソナ
+L胤quido dulce de una sombra gelatinosa.[n]Tirado por: Devious Maya [f 0 1 2](P2-Z1)
 
 [msg material_794]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト っまわもよゎれ ぬぺをぺ [f 0 1 2]ドはダ-べソナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Devious Maya [f 0 1 2](P4-Z1)
 
 [msg material_795]
-だらイょぽもぼま ぽま ゎょぺ れよゆほるぺ ぽま ほよぼぺ むるぺょぽまテ[n]びもるぺぽよ らよるト づゅぺろろまるもょむ でぺほゅまるもま [f 0 1 2]ドはダ-べタナ
+Ap姻ndice de una sombra de boca grande.[n]Tirado por: Flattering Hablerie [f 0 1 2](P4-Z3)
 
 [msg material_796]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト づゅぺろろまるもょむ でぺほゅまるもま [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Flattering Hablerie [f 0 1 2](P4-Z3)
 
 [msg material_797]
-ぢゎほもまるろぺ もょろるもょぼぺぽぺ ぽま ゎょ ろよゆよ ぽま ゎょぺ[n]れよゆほるぺテ びもるぺぽよ らよるト ぬぺょもぺぼぺゅ ちよよや[n][f 0 1 2]ドはダ-べタナ
+Cubierta intrincada de un tomo de una[n]sombra. Tirado por: Maniacal Book[n][f 0 1 2](P4-Z3)
 
 [msg material_798]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぬぺょもぺぼぺゅ ちよよや [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Maniacal Book [f 0 1 2](P4-Z3)
 
 [msg material_799]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ゆまぽもろぺろもわぺテ[n]びもるぺぽよ らよるト びるぺょりゎもゅ とぽよゅ [f 0 1 2]ドはダ-べタナ
+Fragmento de una sombra meditativa.[n]Tirado por: Tranquil Idol [f 0 1 2](P4-Z3)
 
 [msg material_79A]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト びるぺょりゎもゅ とぽよゅ [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Tranquil Idol [f 0 1 2](P4-Z3)
 
 [msg material_79B]
-ガるむぺょよ ぽま ゎょぺ れよゆほるぺ ぽま むるぺょ ろぺゆぺォよ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま ぺわまテ びもるぺぽよ らよるト つろまるょぺゅ[n]つぺむゅま [f 0 1 2]ドはダ-べタナ
+遺rgano de una sombra de gran tama隠o con[n]apariencia de ave. Tirado por: Eternal[n]Eagle [f 0 1 2](P4-Z3)
 
 [msg material_79C]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト つろまるょぺゅ つぺむゅま [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Eternal Eagle [f 0 1 2](P4-Z3)
 
 [msg material_79D]
-ガるむぺょよ れまょれよるもぺゅ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ[n]ぽま れまるらもまょろまテ びもるぺぽよ らよるト だゆよるよゎれ ひょぺやま[n][f 0 1 2]ドはダ-べタナ
+遺rgano sensorial de una sombra con forma[n]de serpiente. Tirado por: Amorous Snake[n][f 0 1 2](P4-Z3)
 
 [msg material_79E]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト だゆよるよゎれ ひょぺやま [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Amorous Snake [f 0 1 2](P4-Z3)
 
 [msg material_79F]
-ガるむぺょよ れまょれよるもぺゅ ぽま ゎょぺ れよゆほるぺ まょゃぺゆほるまテ[n]びもるぺぽよ らよるト はゎるま はぺらもゅゅよょ [f 0 1 2]ドはダ-べタナ
+遺rgano sensorial de una sombra enjambre.[n]Tirado por: Pure Papillon [f 0 1 2](P4-Z3)
 
 [msg material_7A0]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト はゎるま はぺらもゅゅよょ [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Pure Papillon [f 0 1 2](P4-Z3)
 
 [msg material_7A1]
-ぱよらぺ もょろまるもよる ぽま ゎょぺ れよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま ぬもょよろぺゎるよテ びもるぺぽよ らよるト[n]ぬもょよろぺゎる とと [f 0 1 2]ドはダ-べタナ
+Ropa interior de una sombra con[n]apariencia de Minotauro. Tirado por:[n]Minotaur II [f 0 1 2](P4-Z3)
 
 [msg material_7A2]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぬもょよろぺゎる とと [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Minotaur II [f 0 1 2](P4-Z3)
 
 [msg material_7A3]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ゆゎォまぼぺ りゎま れま[n]ほぺゅぺょぼまぺ ぽま みよるゆぺ もょりゎもまろぺょろまテ びもるぺぽよ[n]らよるト はるよろまぼろもわま にまゑを [f 0 1 2]ドはダ-べタナ
+Fragmento de una sombra mu隠eca que se[n]balancea de forma inquietante. Tirado[n]por: Protective Lexy [f 0 1 2](P4-Z3)
 
 [msg material_7A4]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト はるよろまぼろもわま にまゑを [f 0 1 2]ドはダ-べタナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Protective Lexy [f 0 1 2](P4-Z3)
 
 [msg material_7A5]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぽま めまぼめもぼまるよ[n]わまれろもぽよ ぼよょ ろグょもぼぺれテ びもるぺぽよ らよるト[n]ぶよょぽるよゎれ ぬぺむゎれ [f 0 1 2]ドはダ-べチナ
+Fragmento de una sombra de hechicero[n]vestido con t雨nicas. Tirado por:[n]Wondrous Magus [f 0 1 2](P4-Z5)
 
 [msg material_7A6]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぶよょぽるよゎれ ぬぺむゎれ [f 0 1 2]ドはダ-べチナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Wondrous Magus [f 0 1 2](P4-Z5)
 
 [msg material_7A7]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ぺれらまぼろよ ぽま[n]るまもょぺ まょ ゎょ れよみァテ びもるぺぽよ らよるト つゅまむぺょろ[n]ぬよろめまる [f 0 1 2]ドはダ-べチナ
+Fragmento de una sombra con aspecto de[n]reina en un sof茨. Tirado por: Elegant[n]Mother [f 0 1 2](P4-Z5)
 
 [msg material_7A8]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト つゅまむぺょろ ぬよろめまる [f 0 1 2]ドはダ-べチナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Elegant Mother [f 0 1 2](P4-Z5)
 
 [msg material_7A9]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぽま ゎょ ぼぺほぺゅゅまるよ[n]ゆよょろぺぽよテ びもるぺぽよ らよるト とょろるまらもぽ なょもむめろ[n][f 0 1 2]ドはダ-べチナ
+Fragmento de una sombra de un caballero[n]montado. Tirado por: Intrepid Knight[n][f 0 1 2](P4-Z5)
 
 [msg material_7AA]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト とょろるまらもぽ なょもむめろ [f 0 1 2]ドはダ-べチナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Intrepid Knight [f 0 1 2](P4-Z5)
 
 [msg material_7AB]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ まゆらゎォぺょぽよ ゎょ[n]まれろよりゎまテ びもるぺぽよ らよるト ひよゎゅ っぺょぼまる [f 0 1 2]ドはダ-べチナ
+Fragmento de una sombra empu隠ando un[n]estoque. Tirado por: Soul Dancer [f 0 1 2](P4-Z5)
 
 [msg material_7AC]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ひよゎゅ っぺょぼまる [f 0 1 2]ドはダ-べチナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Soul Dancer [f 0 1 2](P4-Z5)
 
 [msg material_7AD]
-でゎゆまぽぺぽ ぼよょぽまょれぺぽぺ ぽま ゎょぺ れよゆほるぺ ぽま[n]ょもまほゅぺテ びもるぺぽよ らよるト ぱぺもょを ちるよろめまる ソ[n][f 0 1 2]ドはダ-べチナ
+Humedad condensada de una sombra de[n]niebla. Tirado por: Rainy Brother 1[n][f 0 1 2](P4-Z5)
 
 [msg material_7AE]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぱぺもょを ちるよろめまる ソ [f 0 1 2]ドはダ-べチナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Rainy Brother 1 [f 0 1 2](P4-Z5)
 
 [msg material_7AF]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ ゎょぺ ぼぺほまんぺ[n]むるぺょぽまテ びもるぺぽよ らよるト ひよゎゅ ひままやまる [f 0 1 2]ドはダ-べチナ
+Fragmento de una sombra con una cabeza[n]grande. Tirado por: Soul Seeker [f 0 1 2](P4-Z5)
 
 [msg material_7B0]
-どよをぺ らるまぼもよれぺテ ぱまれろよれ ぽま ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ひよゎゅ ひままやまる [f 0 1 2]ドはダ-べチナ
+Joya preciosa. Restos de una sombra.[n]Tirado por: Soul Seeker [f 0 1 2](P4-Z5)
 
 [msg material_7B1]
-ぴょ むゅよほよ よぼゎゅぺる ほゅぺょぽよ ぼよょ ゎょ ぽまれろまゅゅよ[n]みまるよんテ びもるぺぽよ らよるト ひよゎゅ ひままやまる [f 0 1 2]ドはダ-べチナ
+Un globo ocular blando con un destello[n]feroz. Tirado por: Soul Seeker [f 0 1 2](P4-Z5)
 
 [msg material_7B2]
-ぴょ カるむぺょよ りゎま ゎょぺ れよゆほるぺ ぽま らまん ゎれぺ らぺるぺ[n]みゅよろぺるテ びもるぺぽよ らよるト はゎるれゎもょむ はまれぼま[n][f 0 1 2]ドはチ-べソナ
+Un 吋rgano que una sombra de pez usa para[n]flotar. Tirado por: Pursuing Pesce[n][f 0 1 2](P5-Z1)
 
 [msg material_7B3]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト はゎるれゎもょむ はまれぼま [f 0 1 2]ドはチ-べソナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Pursuing Pesce [f 0 1 2](P5-Z1)
 
 [msg material_7B4]
-ぢめぺらぺぽよ ぽよるぺぽよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ[n]ぽま まれろぺろゎぺテ びもるぺぽよ らよるト ぢめぺょむま ぱまゅもぼ[n][f 0 1 2]ドはチ-べソナ
+Chapado dorado de una sombra con forma[n]de estatua. Tirado por: Change Relic[n][f 0 1 2](P5-Z1)
 
 [msg material_7B5]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぢめぺょむま ぱまゅもぼ [f 0 1 2]ドはチ-べソナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Change Relic [f 0 1 2](P5-Z1)
 
 [msg material_7B6]
-ちゅよぼ ぽま ょよろぺれ を らゅぺぼぺ ぽま ゎょ ぺゅむゎぺぼもゅ[n]れよゆほるウよテ びもるぺぽよ らよるト ぢめぺよれ づゎんん [f 0 1 2]ドはチ-べソナ
+Bloc de notas y placa de un alguacil[n]sombr胤o. Tirado por: Chaos Fuzz [f 0 1 2](P5-Z1)
 
 [msg material_7B7]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぢめぺよれ づゎんん [f 0 1 2]ドはチ-べソナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Chaos Fuzz [f 0 1 2](P5-Z1)
 
 [msg material_7B8]
-にウりゎもぽよ よぼゎゅぺる ぽよるぺぽよ ぽま ゎょぺ れよゆほるぺ[n]むまゅぺろもょよれぺテ びもるぺぽよ らよるト とょれもぽもよゎれ ぬぺをぺ[n][f 0 1 2]ドはチ-べソナ
+L胤quido ocular dorado de una sombra[n]gelatinosa. Tirado por: Insidious Maya[n][f 0 1 2](P5-Z1)
 
 [msg material_7B9]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト とょれもぽもよゎれ ぬぺをぺ [f 0 1 2]ドはチ-べソナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Insidious Maya [f 0 1 2](P5-Z1)
 
 [msg material_7BA]
-にゎん ぽま ゅぺ ゅもょろまるょぺ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]みよるゆぺ ぽま ぺわまテ びもるぺぽよ らよるト だゆまょろも ぱぺわまょ[n][f 0 1 2]ドはチ-べソナ
+Luz de la linterna de una sombra con[n]forma de ave. Tirado por: Amenti Raven[n][f 0 1 2](P5-Z1)
 
 [msg material_7BB]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト だゆまょろも ぱぺわまょ [f 0 1 2]ドはチ-べソナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Amenti Raven [f 0 1 2](P5-Z1)
 
 [msg material_7BC]
-ぴょ まゃま ぽま ゆよわもゆもまょろよ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]みよるゆぺ ぽま るゎまぽぺテ びもるぺぽよ らよるト ちぺろろゅま ぶめままゅ[n][f 0 1 2]ドはチ-べソナ
+Un eje de movimiento de una sombra con[n]forma de rueda. Tirado por: Battle Wheel[n][f 0 1 2](P5-Z1)
 
 [msg material_7BD]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ちぺろろゅま ぶめままゅ [f 0 1 2]ドはチ-べソナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Battle Wheel [f 0 1 2](P5-Z1)
 
 [msg material_7BE]
-ぬもょまるぺゅ ぽゎるよ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ るよぼよれぺテ びもるぺぽよ らよるト とぽゅま[n]ちぺれぺゅろ [f 0 1 2]ドはチ-べゾナ
+Mineral duro de una sombra con[n]apariencia rocosa. Tirado por: Idle[n]Basalt [f 0 1 2](P5-Z2)
 
 [msg material_7BF]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト とぽゅま ちぺれぺゅろ [f 0 1 2]ドはチ-べゾナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Idle Basalt [f 0 1 2](P5-Z2)
 
 [msg material_7C0]
-ぢよゅゎゆょぺ ぽま ゎょぺ れよゆほるぺ ぽま ろるまれ ぼぺほまんぺれテ[n]びもるぺぽよ らよるト てるゎぽむま びよゐまる [f 0 1 2]ドはチ-べゾナ
+Columna de una sombra de tres cabezas.[n]Tirado por: Grudge Tower [f 0 1 2](P5-Z2)
 
 [msg material_7C1]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト てるゎぽむま びよゐまる [f 0 1 2]ドはチ-べゾナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Grudge Tower [f 0 1 2](P5-Z2)
 
 [msg material_7C2]
-はもらぺ ぽま みゎゆぺる ぽま ゎょぺ れよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま ァるほよゅテ びもるぺぽよ らよるト ふぺゅゎもょむ[n]ねをよむよ [f 0 1 2]ドはチ-べゾナ
+Pipa de fumar de una sombra con[n]apariencia de 茨rbol. Tirado por: Valuing[n]Nyogo [f 0 1 2](P5-Z2)
 
 [msg material_7C3]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ふぺゅゎもょむ ねをよむよ [f 0 1 2]ドはチ-べゾナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Valuing Nyogo [f 0 1 2](P5-Z2)
 
 [msg material_7C4]
-ぴょぺ ぽまぼよるぺぼもカょ まょ ゎょぺ れよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま まれぼぺゆぺテ びもるぺぽよ らよるト ぶよるゅぽ[n]ちぺゅぺょぼま [f 0 1 2]ドはチ-べゾナ
+Una decoraci吋n en una sombra con[n]apariencia de escama. Tirado por: World[n]Balance [f 0 1 2](P5-Z2)
 
 [msg material_7C5]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぶよるゅぽ ちぺゅぺょぼま [f 0 1 2]ドはチ-べゾナ
+Un cache oculto dejada por una sombra.[n]Tirado por: World Balance [f 0 1 2](P5-Z2)
 
 [msg material_7C6]
-にァむるもゆぺ ぽま ぼるもれろぺゅ ぽま ゎょぺ れよゆほるぺ[n]まょぼぺぽまょぺぽぺテ びもるぺぽよ らよるト ぱまほまゅゅもよゎれ[n]ぢをぼゅよられ [f 0 1 2]ドはチ-べゾナ
+L茨grima de cristal de una sombra[n]encadenada. Tirado por: Rebellious[n]Cyclops [f 0 1 2](P5-Z2)
 
 [msg material_7C7]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ぱまほまゅゅもよゎれ ぢをぼゅよられ [f 0 1 2]ドはチ-べゾナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Rebellious Cyclops [f 0 1 2](P5-Z2)
 
 [msg material_7C8]
-ぴょ わまゅよ ぽま ろまゅぺ れよほるま ゅぺ ほよぼぺ ぽま ゎょぺ[n]れよゆほるぺテ びもるぺぽよ らよるト ふまめまゆまょろ とぽよゅ[n][f 0 1 2]ドはチ-べタナ
+Un velo de tela sobre la boca de una[n]sombra. Tirado por: Vehement Idol[n][f 0 1 2](P5-Z3)
 
 [msg material_7C9]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ふまめまゆまょろ とぽよゅ [f 0 1 2]ドはチ-べタナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Vehement Idol [f 0 1 2](P5-Z3)
 
 [msg material_7CA]
-づゅよる みゅよるまぼもまょろま ぽま ゎょぺ れよゆほるぺ もょみぺょろもゅテ[n]びもるぺぽよ らよるト づるまま ちぺゆほもょよ [f 0 1 2]ドはチ-べタナ
+Flor floreciente de una sombra infantil.[n]Tirado por: Free Bambino [f 0 1 2](P5-Z3)
 
 [msg material_7CB]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト づるまま ちぺゆほもょよ [f 0 1 2]ドはチ-べタナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Free Bambino [f 0 1 2](P5-Z3)
 
 [msg material_7CC]
-だゅぺ らまりゎまォぺ ぽま ゎょぺ れよゆほるぺ ぺょむまゅもぼぺゅテ[n]びもるぺぽよ らよるト っまわよろまぽ ぢゎらもぽ [f 0 1 2]ドはチ-べタナ
+Ala peque隠a de una sombra angelical.[n]Tirado por: Devoted Cupid [f 0 1 2](P5-Z3)
 
 [msg material_7CD]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト っまわよろまぽ ぢゎらもぽ [f 0 1 2]ドはチ-べタナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Devoted Cupid [f 0 1 2](P5-Z3)
 
 [msg material_7CE]
-てゅもみよれ まれぼるもろよれ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]ぺらぺるもまょぼもぺ ぽま ゆぺむよテ びもるぺぽよ らよるト はめぺょろよゆ[n]ぬぺれろまる [f 0 1 2]ドはチ-べタナ
+Glifos escritos de una sombra con[n]apariencia de mago. Tirado por: Phantom[n]Master [f 0 1 2](P5-Z3)
 
 [msg material_7CF]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト はめぺょろよゆ ぬぺれろまる [f 0 1 2]ドはチ-べタナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Phantom Master [f 0 1 2](P5-Z3)
 
 [msg material_7D0]
-はゅぺぼぺ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま ぽぺぽよテ[n]びもるぺぽよ らよるト はゅぺろもょゎゆ っもぼま [f 0 1 2]ドはチ-べタナ
+Placa de una sombra con forma de dado.[n]Tirado por: Platinum Dice [f 0 1 2](P5-Z3)
 
 [msg material_7D1]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト はゅぺろもょゎゆ っもぼま [f 0 1 2]ドはチ-べタナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Platinum Dice [f 0 1 2](P5-Z3)
 
 [msg material_7D2]
-ぬぺらぺ むまょイろもぼよ ぽま ゎょぺ れよゆほるぺ ぼよょ みよるゆぺ ぽま[n]だっねテ びもるぺぽよ らよるト ねまゑろ てまょま [f 0 1 2]ドはチ-べタナ
+Mapa gen姻tico de una sombra con forma de[n]ADN. Tirado por: Next Gene [f 0 1 2](P5-Z3)
 
 [msg material_7D3]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ねまゑろ てまょま [f 0 1 2]ドはチ-べタナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Next Gene [f 0 1 2](P5-Z3)
 
 [msg material_7D4]
-はぺォゎまゅよ ぽま ゎょぺ れよゆほるぺ みまゆまょもょぺテ びもるぺぽよ[n]らよるト っもわもょま ぬよろめまる [f 0 1 2]ドはチ-べダナ
+Pa隠uelo de una sombra femenina. Tirado[n]por: Divine Mother [f 0 1 2](P5-Z4)
 
 [msg material_7D5]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト っもわもょま ぬよろめまる [f 0 1 2]ドはチ-べダナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Divine Mother [f 0 1 2](P5-Z4)
 
 [msg material_7D6]
-ぴょぺ ぼぺゆらぺょぺ まょ ゅぺ ぼもゆぺ ぽま ゎょぺ れよゆほるぺ ぼよょ[n]みよるゆぺ ぽま ぼぺれろもゅゅよテ びもるぺぽよ らよるト なもょむ[n]ぢぺれろゅま [f 0 1 2]ドはチ-べダナ
+Una campana en la cima de una sombra con[n]forma de castillo. Tirado por: King[n]Castle [f 0 1 2](P5-Z4)
 
 [msg material_7D7]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト なもょむ ぢぺれろゅま [f 0 1 2]ドはチ-べダナ
+Un cache oculto dejada por una sombra.[n]Tirado por: King Castle [f 0 1 2](P5-Z4)
 
 [msg material_7D8]
-ぬぺるぼぺ ゆぺゅぽもろぺ ろぺゅゅぺぽぺ まょ ゎょ ほるぺんよ ぽま ゎょぺ[n]れよゆほるぺテ びもるぺぽよ らよるト っよよゆ ひゐよるぽ [f 0 1 2]ドはチ-べダナ
+Marca maldita tallada en un brazo de una[n]sombra. Tirado por: Doom Sword [f 0 1 2](P5-Z4)
 
 [msg material_7D9]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト っよよゆ ひゐよるぽ [f 0 1 2]ドはチ-べダナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Doom Sword [f 0 1 2](P5-Z4)
 
 [msg material_7DA]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ ぽま らもまぽるぺ ぼよょ[n]ゎょぺ まれらぺぽぺテ びもるぺぽよ らよるト のるぽまる てもぺょろ[n][f 0 1 2]ドはチ-べダナ
+Fragmento de una sombra de piedra con[n]una espada. Tirado por: Order Giant[n][f 0 1 2](P5-Z4)
 
 [msg material_7DB]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト のるぽまる てもぺょろ [f 0 1 2]ドはチ-べダナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Order Giant [f 0 1 2](P5-Z4)
 
 [msg material_7DC]
-づるぺむゆまょろよ ぽま ゎょぺ れよゆほるぺ まょ ゎょ ぼぺほぺゅゅよ ぽま[n]ゆぺぽまるぺテ びもるぺぽよ らよるト どよろゎょ よみ てるもまみ[n][f 0 1 2]ドはチ-べダナ
+Fragmento de una sombra en un caballo de[n]madera. Tirado por: Jotun of Grief[n][f 0 1 2](P5-Z4)
 
 [msg material_7DD]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト どよろゎょ よみ てるもまみ [f 0 1 2]ドはチ-べダナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Jotun of Grief [f 0 1 2](P5-Z4)
 
 [msg material_7DE]
-ぬまぼめカょ ぽま ぼぺほまゅゅよ ぽま ゎょぺ れよゆほるぺ るまぺゅテ[n]びもるぺぽよ らよるト ちぺゅまみゎゅ なもょむ [f 0 1 2]ドはチ-べダナ
+Mech吋n de cabello de una sombra real.[n]Tirado por: Baleful King [f 0 1 2](P5-Z4)
 
 [msg material_7DF]
-にぺ らもまゅ ぽま ゎょ ぽもょよれぺゎるもよ まゑろるぺォよテ ひま[n]ろるぺょれみよるゆぺ まょ ゆよゆまょろよれ もょまれらまるぺぽよれテ[n]びもるぺぽよ らよるト へよれゎやまれぺゎるもよ
+La piel de un dinosaurio extra隠o. Se[n]transforma en momentos inesperados.[n]Tirado por: Yosukesaurio
 
 [msg material_7E0]
-ぴょ らゅぺょ ゆぺまれろるよ りゎま よぼゎゅろぺ ゅぺ わまるぽぺぽまるぺ[n]ぺむまょぽぺ ぽまゅ まれぼるもろよるテ びもるぺぽよ らよるト ぬぺぽるま[n]ぢよゆらゎろぺぽよるぺ
+Un plan maestro que oculta la verdadera[n]agenda del escritor. Tirado por: Madre[n]Computadora
 
 [msg material_7E1]
-ぴょぺ ゆァれぼぺるぺ れまょぼもゅゅぺテ びゎ ぼよるぺんカょ ぽもぼろぺ[n]ろゎ もゆらるまれもカょ ぽま まゅゅぺテ びもるぺぽよ らよるト っよま
+Una m茨scara sencilla. Tu coraz吋n dicta[n]tu impresi吋n de ella. Tirado por: Doe
 
 [msg material_7E2]
-ぴょ ぼぺぼめま よぼゎゅろよ ぽまゃぺぽぺ らよる ゎょぺ れよゆほるぺテ[n]びもるぺぽよ らよるト ちぺゅまみゎゅ なもょむ [f 0 1 2]ドはチ-べダナ
+Un cache oculto dejada por una sombra.[n]Tirado por: Baleful King [f 0 1 2](P5-Z4)
 
 [msg material_7E3]
-ぴょぺ らもまぽるぺ りゎま ぺほるま ゎょ ぼぺゆもょよ めぺぼもぺ まゅ[n]ぽまれろもょよテ のほろまょもぽよ まょト
+Una piedra que abre un camino hacia el[n]destino. Obtenido en:
 
 [msg material_7E4]
-ぴょ ゆよぽまゅよ ぽま らぺゃぺ ぽま ゎょ ぼまるまほるよ ゅゅまょよ ぽま[n]ぼよょよぼもゆもまょろよテ のほろまょもぽよ まょト
+Un modelo de paja de un cerebro lleno de[n]conocimiento. Obtenido en:
 
 [msg material_7E5]
-ぴょ ぼよるぺんカょ ゆよぽまゅよテ にぺろま ぼまるぼぺ ぽま ゎょ[n]らぺもれぺゃま まょ ゆよわもゆもまょろよ よ ゆグれもぼぺテ のほろまょもぽよ[n]まょト
+Un coraz吋n modelo. Late cerca de un[n]paisaje en movimiento o m雨sica. Obtenido[n]en:
 
 [msg material_7E6]
-ぢぺほまゅゅよ ぽま ゅよれ わぺゅもまょろまれテ ひま まるもんぺテ[n]のほろまょもぽよ まょト
+Cabello de los valientes. Se eriza.[n]Obtenido en:
 
 [msg material_7E7]
-ぴょ ゅもほるよ ほゅぺょぼよ もゆらよゅゎろよ りゎま るまむもれろるぺ[n]ろよぽぺれ ゅぺれ らるよほぺほもゅもぽぺぽまれテ のほろまょもぽよ まょト[n]っもれろるもろよ ぽまゅ ぢもょま
+Un libro blanco impoluto que registra[n]todas las probabilidades. Obtenido en:[n]Distrito del Cine
 
 [msg material_7E8]
-ぴょ むゎもよょ むるァみもぼよテ っぺ わもぽぺ ぺ ろよぽよ ゅよ りゎま[n]れま まれぼるもほま まょ イゅテ のほろまょもぽよ まょト っもれろるもろよ[n]ぽまゅ ぢもょま
+Un guion gr茨fico. Da vida a todo lo que[n]se escribe en 姻l. Obtenido en: Distrito[n]del Cine
 
 [msg material_7E9]
-ぴょ めよるぺるもよ ぽま ろぺるまぺれ を れゎれ みるぺょゃぺれ[n]めよるぺるもぺれテ のほろまょもぽよ まょト っもれろるもろよ ぽまゅ ぢもょま
+Un horario de tareas y sus franjas[n]horarias. Obtenido en: Distrito del Cine
 
 [msg material_7EA]
-ぴょ むゎもよょ ゆぺょぼめぺぽよ らよる ゅよれ れまょろもゆもまょろよれ[n]ぽまゅ まれぼるもろよる を まゅ ぺぼろよるテ のほろまょもぽよ まょト[n]っもれろるもろよ ぽまゅ ぢもょま
+Un guion manchado por los sentimientos[n]del escritor y el actor. Obtenido en:[n]Distrito del Cine
 
 [msg material_7EB]
-ぴょぺ ろぺるゃまろぺ ぽま ぽもょまるよ まゅまぼろるカょもぼよ ぼよょ[n]ソぬち ぽま まれらぺぼもよテ のほろまょもぽよ まょト だテとテてテとテひテ
+Una tarjeta de dinero electr吋nico con[n]1MB de espacio. Obtenido en: A.I.G.I.S.
 
 [msg material_7EC]
-ぴょぺ ろぺるゃまろぺ ぽま ぽもょまるよ まゅまぼろるカょもぼよ ぼよょ[n]ソてち ぽま まれらぺぼもよテ のほろまょもぽよ まょト だテとテてテとテひテ
+Una tarjeta de dinero electr吋nico con[n]1GB de espacio. Obtenido en: A.I.G.I.S.
 
 [msg material_7ED]
-ぴょぺ ろぺるゃまろぺ ぽま ぽもょまるよ まゅまぼろるカょもぼよ ぼよょ[n]ソびち ぽま まれらぺぼもよテ のほろまょもぽよ まょト だテとテてテとテひテ
+Una tarjeta de dinero electr吋nico con[n]1TB de espacio. Obtenido en: A.I.G.I.S.
 
 [msg material_7EE]
-ぴょぺ むゎウぺ らぺるぺ ゅぺ ろまぼょよゅよむウぺ ゆァれ ぺゅゅァ ぽま[n]ゅぺ ぼもまょぼもぺ ゆよぽまるょぺテ びもるぺぽよ らよるト[n]ひゎらまるわもれよる
+Una gu胤a para la tecnolog胤a m茨s all茨 de[n]la ciencia moderna. Tirado por:[n]Supervisor
 
 [msg material_7EF]
-ぴょぺ むゎウぺ らぺるぺ まょぼよょろるぺる ゅぺ まょろるぺぽぺ ぽま ゎょ[n]ゅぺほまるもょろよテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Una gu胤a para encontrar la entrada de un[n]laberinto. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_7F0]
-ぴょぺ むゎウぺ らぺるぺ まゅ わよゅゎゆまょ ぽま ほまほもぽぺ ぼよょ[n]ゆまょよる らイるぽもぽぺ ぽま れぺほよるテ [f 0 1 3]だォぺぽま ょゎまわよれ[n]よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para el volumen de bebida con[n]menor p姻rdida de sabor. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
 
 [msg material_7F1]
-ぴょぺ むゎウぺ らぺるぺ ゎょぺ ほまほもぽぺ わまるろもぽぺ れよほるま[n]ゅぺ ぼぺほまんぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Una gu胤a para una bebida vertida sobre[n]la cabeza. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_7F2]
-ぴょぺ むゎウぺ らぺるぺ ゎょぺ ほまほもぽぺ ゆもゅぺむるよれぺ らぺるぺ[n]ゅぺ れぺゅゎぽテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para una bebida milagrosa para[n]la salud. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7F3]
-ぱまぼまろぺ らぺるぺ ゎょ ゆまぽもぼぺゆまょろよ りゎま ぼゎるぺ ゅぺ[n]ぺろぺぽゎるぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Receta para un medicamento que cura la[n]atadura. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7F4]
-ぱまぼまろぺ らぺるぺ らぺれろもゅゅぺれ りゎま ろるぺょれゆもろまょ ゅぺ[n]わよゅゎょろぺぽ ぽま ゎょ れぺゅわぺぽよるテ [f 0 1 3]だォぺぽま ょゎまわよれ[n]よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Receta para pastillas que transmiten la[n]voluntad de un salvador. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
 
 [msg material_7F5]
-てゎウぺ らぺるぺ ぼよぼもょぺる ゎょ みイょもゑ わもわよテ [f 0 1 3]だォぺぽま[n]ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Gu胤a para cocinar un f姻nix vivo. [f 0 1 3]A隠ade[n]nuevos objetos cuando se vende
 
 [msg material_7F6]
-びまゑろよ ぽまろぺゅゅぺょぽよ ゎょよ ぽま ゅよれ ぽもまん ろまれよるよれ[n]れぺむるぺぽよれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Texto detallando uno de los diez tesoros[n]sagrados. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7F7]
-ぴょぺ むゎウぺ らぺるぺ ゅゅぺゆぺる ぽま わゎまゅろぺ ぺ ゎょ ぺゅゆぺ[n]ぼよるろぺぽぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para llamar de vuelta a un alma[n]cortada. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7F8]
-ぴょぺ むゎウぺ らぺるぺ るまれもれろもる ろまゆらまるぺろゎるぺれ[n]まゑろるまゆぺれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para resistir temperaturas[n]extremas. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7F9]
-ぴょぺ むゎウぺ らぺるぺ よらよょまるれま ぺ ゅぺれ みゎまるんぺれ ぽま[n]ゅぺ ょぺろゎるぺゅまんぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para oponerse a las fuerzas de[n]la naturaleza. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_7FA]
-ぴょぺ むゎウぺ れよほるま らよぽまるまれ ぼもまょろウみもぼぺゆまょろま[n]ょよ らるよほぺぽよれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Una gu胤a sobre poderes cient胤ficamente[n]no probados. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_7FB]
-ぴょぺ むゎウぺ らぺるぺ るまらゎるもみもぼぺる ゎょ らよぽまる[n]ゆウれろもぼよテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para repurificar un poder[n]m胤stico. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7FC]
-ぴょぺ むゎウぺ れよほるま めまるるぺゆもまょろぺれ ぺゅ まれろもゅよ ぽま[n]ゎょ ゅぺぽるカょ みぺょろぺれゆぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a sobre herramientas al estilo de[n]un ladr吋n fantasma. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_7FD]
-ぴょぺ むゎウぺ れよほるま まゅ まりゎもゅもほるもよ まょろるま ゅぺ[n]ゅゎん を ゅぺ よれぼゎるもぽぺぽテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a sobre el equilibrio entre la[n]luz y la oscuridad. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_7FE]
-ぴょぺ むゎウぺ らぺるぺ ぺぽりゎもるもる らるよろまぼぼもカょ[n]ぽもわもょぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para adquirir protecci吋n[n]divina. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_7FF]
-ぴょぺ むゎウぺ らぺるぺ ゎょぺ めまるるぺゆもまょろぺ らるァぼろもぼぺ[n]らぺるぺ まれぼぺらぺるテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para una herramienta pr茨ctica[n]para escapar. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_800]
-てゎウぺ りゎま れゎらまるぺ ゅぺ ぼもまょぼもぺ ゆよぽまるょぺテ[n][f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Gu胤a que supera la ciencia moderna.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
 
 [msg material_801]
-ぴょぺ らぺるろもろゎるぺ ゆゎれもぼぺゅ りゎま ぺゅろまるぺ ゅぺれ[n]れよゆほるぺれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una partitura musical que altera las[n]sombras. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_802]
-ぴょぺ らぺるろもろゎるぺ ゆゎれもぼぺゅ まゑろまょれぺ りゎま ぺゅろまるぺ[n]ゅぺれ れよゆほるぺれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Una partitura musical extensa que altera[n]las sombras. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_803]
-ぴょぺ むゎウぺ らぺるぺ ゎょぺ めまるるぺゆもまょろぺ りゎま[n]ゆぺょもらゎゅぺ ゅぺほまるもょろよれテ [f 0 1 3]だォぺぽま ょゎまわよれ[n]よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para una herramienta que[n]manipula laberintos. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
 
 [msg material_804]
-ぴょぺ むゎウぺ らぺるぺ ゎょ ぼぺるぺゆまゅよ りゎま るまわもろぺゅもんぺ[n]まゅ ぺゅゆぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para un caramelo que revitaliza[n]el alma. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_805]
-ぴょぺ むゎウぺ らぺるぺ ゎょ らよれろるま りゎま まょるもりゎまぼま まゅ[n]ぺゅゆぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para un postre que enriquece el[n]alma. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_806]
-ぴょぺ むゎウぺ らぺるぺ ゎょぺ らよぼもカょ りゎま ょゎろるま まゅ[n]ぺゅゆぺテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para una poci吋n que nutre el[n]alma. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_807]
-てゎウぺ らぺるぺ もょみゎょぽもる ほぺゅぺれ ぼよょ らよぽまる[n]まゅまゆまょろぺゅテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ[n]れま わまょぽま
+Gu胤a para infundir balas con poder[n]elemental. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
 
 [msg material_808]
-ぱまぼまろぺ らぺるぺ ゎょぺ むよゅよれもょぺ らよらゎゅぺる まょ まゅ[n]ゆゎょぽよ ぽま ゅよれ ひゎまォよれテ [f 0 1 3]だォぺぽま ょゎまわよれ[n]よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Receta para una golosina popular en el[n]mundo de los Sue隠os. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
 
 [msg material_809]
-ひよゅよ ぺゅむゎもまょ ぼよょ ゎょ ぼよるぺんカょ ぽま ぺぽゎゅろよ[n]らゎまぽま ゅままる まれろま ゅもほるよテ びもるぺぽよ らよるト[n]ちぺゅまみゎゅ なもょむ [f 0 1 2]ドはチ-べダナ
+Solo alguien con un coraz吋n de adulto[n]puede leer este libro. Tirado por:[n]Baleful King [f 0 1 2](P5-Z4)
 
 [msg material_80A]
-ぴょぺ むゎウぺ らぺるぺ まゅ ぺろゎまょぽよ ぽま ゎょ ぺぼろよる[n]ょぺろゎるぺゅテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま[n]わまょぽま
+Una gu胤a para el atuendo de un actor[n]natural. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
 
 [msg material_80B]
-ぴょぺ むゎウぺ らぺるぺ ゎょ ぺろゎまょぽよ みぺれぼもょぺょろまテ[n][f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para un atuendo fascinante.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
 
 [msg material_80C]
-ぴょぺ むゎウぺ らぺるぺ ゎょ ぺろゎまょぽよ まゑろるぺォぺゆまょろま[n]るまぼよょみよるろぺょろまテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Una gu胤a para un atuendo extra隠amente[n]reconfortante. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_80D]
-素材ゼゑツゼっ１行目 素材ゼゑツゼっ２行目
+素材0x80D１行目 素材0x80D２行目
 
 [msg material_80E]
-素材ゼゑツゼつ１行目 素材ゼゑツゼつ２行目
+素材0x80E１行目 素材0x80E２行目
 
 [msg material_80F]
-素材ゼゑツゼづ１行目 素材ゼゑツゼづ２行目
+素材0x80F１行目 素材0x80F２行目
 
 [msg material_810]
-ぴょ ぬまぽもよ りゎま るまむもれろるぺ ろよぽぺれ ゅぺれ[n]らるよほぺほもゅもぽぺぽまれテ [f 0 1 3]だォぺぽま ょゎまわよれ よほゃまろよれ[n]ぼゎぺょぽよ れま わまょぽま
+Un Medio que registra todas las[n]probabilidades. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
 
 [msg material_811]
-素材ゼゑツソソ１行目 素材ゼゑツソソ２行目
+素材0x811１行目 素材0x811２行目
 
 [msg material_812]
-びよぼぺる まれろま ぼるもれろぺゅ もょれらもるぺ ゆグれもぼぺ[n]めまるゆよれぺテ のほろまょもぽよ まょト
+Tocar este cristal inspira m雨sica[n]hermosa. Obtenido en:
 
 [msg material_813]
-びよぼぺる まれろま ぼるもれろぺゅ もょれらもるぺ ゆグれもぼぺ[n]ぺょもゆぺぽぺテ のほろまょもぽよ まょト
+Tocar este cristal inspira m雨sica[n]animada. Obtenido en:
 
 [msg material_814]
-びよぼぺる まれろま ぼるもれろぺゅ もょれらもるぺ ゆグれもぼぺ[n]まゑりゎもれもろぺテ のほろまょもぽよ まょト
+Tocar este cristal inspira m雨sica[n]exquisita. Obtenido en:
 
 [msg material_815]
-はぺるぺ ぺりゎまゅ りゎま めぺ もゆらるまれもよょぺぽよ ぺ ゎょぺ[n]ぺゎぽもまょぼもぺテ のほろまょもぽよ まょト っもれろるもろよ ぽまゅ[n]ぢもょま
+Para aquel que ha impresionado a una[n]audiencia. Obtenido en: Distrito del[n]Cine
 
 [msg material_816]
-はぺるぺ ぺりゎまゅ りゎま めぺ もゆらるまれもよょぺぽよ ぺ ゎょぺ[n]むるぺょ ぺゎぽもまょぼもぺテ のほろまょもぽよ まょト っもれろるもろよ[n]ぽまゅ ぢもょま
+Para aquel que ha impresionado a una[n]gran audiencia. Obtenido en: Distrito[n]del Cine
 
 [msg material_817]
-はぺるぺ ぺりゎまゅ りゎま めぺ もゆらるまれもよょぺぽよ ぺ ゎょぺ[n]ぺゎぽもまょぼもぺ ゆゎょぽもぺゅテ のほろまょもぽよ まょト っもれろるもろよ[n]ぽまゅ ぢもょま
+Para aquel que ha impresionado a una[n]audiencia mundial. Obtenido en: Distrito[n]del Cine
 
 [msg material_818]
-素材ゼゑツソツ１行目 素材ゼゑツソツ２行目
+素材0x818１行目 素材0x818２行目
 
 [msg material_819]
-ぴょ みるぺむゆまょろよ ぽま ゎょぺ ぼるまれろぺ るよゃぺ[n]らるよゆもょまょろま を わウわもぽぺテ びもるぺぽよ らよるト ぢめもぼよ[n]はよゅゅよ
+Un fragmento de una cresta roja[n]prominente y v胤vida. Tirado por: Chico[n]Pollo
 
 [msg material_81A]
-ぴょぺ ゆよぼめもゅぺ るまれもれろまょろまデ わもれろぺ まょ ゆゎぼめぺれ[n]ぺゎゅぺれテ びもるぺぽよ らよるト ちゎれろまる てもるゅ
+Una mochila resistente, vista en muchas[n]aulas. Tirado por: Buster Girl
 
 [msg material_81B]
-ぴょぺ めまるゆよれぺ ゎォぺ らよれろもんぺテ ふもまょま まょ タゾ[n]ぼよゅよるまれテ びもるぺぽよ らよるト ひまもぽよらろまるぺ
+Una hermosa u隠a postiza. Viene en 32[n]colores. Tirado por: Seidoptera
 
 [msg material_81C]
-はまれろぺォぺれ らよれろもんぺれ らよゆらよれぺれテ[n]ひよるらるまょぽまょろまゆまょろま むるゎまれぺれテ びもるぺぽよ らよるト[n]びをるぺょょもりゎままょ
+Pesta隠as postizas pomposas.[n]Sorprendentemente gruesas. Tirado por:[n]Tyranniqueen
 
 [msg material_81D]
-っもれらよれもろもわよ ぽま ぺゅゆぺぼまょぺゆもまょろよ らぺるぺ[n]るまむもれろるよれ ぽまゅ まれらぺぼもよテ びもるぺぽよ らよるト[n]ひぢぬ-ツツゼソ
+Dispositivo de almacenamiento para[n]registros del espacio. Tirado por:[n]SCM-8801
 
 [msg material_81E]
-っもれらよれもろもわよ ぽま ぺゅゆぺぼまょぺゆもまょろよ ぽま[n]るまむもれろるよれ ぽま ろよぽよれ ゅよれ まるるよるまれ ぽま ゅぺ[n]めゎゆぺょもぽぺぽテ びもるぺぽよ らよるト ひぢぬ-ヅツゾソ
+Dispositivo de almacenamiento de[n]registros de todos los errores de la[n]humanidad. Tirado por: SCM-9821
 
 [msg material_81F]
-ぴょ るまゅぺろよ ぽま ぺゅむゎもまょ りゎま ょよ らゎぽよ[n]ぼよょみよるゆぺるれま ぺ ゅぺ ぺゎろよるもぽぺぽテ びもるぺぽよ らよるト[n]ぬるテ にゎゆほまるゃぺぼや
+Un relato de alguien que no pudo[n]conformarse a la autoridad. Tirado por:[n]Mr. Lumberjack
 
 [msg material_820]
-ぴょ るまゅぺろよ ぽま ぺゅむゎもまょ りゎま ょよ らゎぽよ[n]ぼよょみよるゆぺるれま ぼよょ れゎれ ぺゆもむよれテ びもるぺぽよ らよるト[n]ひるテ のれよ
+Un relato de alguien que no pudo[n]conformarse con sus amigos. Tirado por:[n]Sr. Oso
 
 [msg material_821]
-ぴょ るまゅぺろよ ぽま ぺゅむゎもまょ りゎま ょよ らゎぽよ[n]ぼよょみよるゆぺるれま ぺ ゅぺ れよぼもまぽぺぽテ びもるぺぽよ らよるト[n]っゐぺるわまょ づぺゆもゅを
+Un relato de alguien que no pudo[n]conformarse a la sociedad. Tirado por:[n]Dwarven Family
 
 [msg material_822]
-ぴょ めもゅよ ゆまんぼゅぺぽよ ぼよょ ろぺょろよれ ぼよゅよるまれ りゎま[n]れま わよゅわもカ ょまむるよテ びもるぺぽよ らよるト はめゎょほぺほぺ
+Un hilo mezclado con tantos colores que[n]se volvi吋 negro. Tirado por: Phunbaba
 
 [msg material_823]
-ぴょ めもゅよ ゆまんぼゅぺぽよ ぼよょ ろぺょろよれ ぼよゅよるまれ りゎま[n]れま わよゅわもカ ほゅぺょぼよテ びもるぺぽよ らよるト ねぺゆろぺるゎ
+Un hilo mezclado con tantos colores que[n]se volvi吋 blanco. Tirado por: Namtaru
 
 [msg material_824]
-はるゎまほぺ ぽま ゅぺ わもぼろよるもぺ れよほるま まゅ れまる まょ ゅぺ[n]れよゆほるぺ ぽま ゅぺ めゎゆぺょもぽぺぽテ びもるぺぽよ らよるト つゅ[n]ひまむぺぽよる
+Prueba de la victoria sobre el ser en la[n]sombra de la humanidad. Tirado por: El[n]Segador
 
 [msg material_825]
-素材ゼゑツゾチ１行目 素材ゼゑツゾチ２行目
+素材0x825１行目 素材0x825２行目
 
 [msg material_826]
-素材ゼゑツゾヂ１行目 素材ゼゑツゾヂ２行目
+素材0x826１行目 素材0x826２行目
 
 [msg material_827]
-素材ゼゑツゾッ１行目 素材ゼゑツゾッ２行目
+素材0x827１行目 素材0x827２行目
 
 [msg material_828]
-素材ゼゑツゾツ１行目 素材ゼゑツゾツ２行目
+素材0x828１行目 素材0x828２行目
 
 [msg material_829]
-素材ゼゑツゾヅ１行目 素材ゼゑツゾヅ２行目
+素材0x829１行目 素材0x829２行目
 
 [msg material_82A]
-素材ゼゑツゾだ１行目 素材ゼゑツゾだ２行目
+素材0x82A１行目 素材0x82A２行目
 
 [msg material_82B]
-素材ゼゑツゾち１行目 素材ゼゑツゾち２行目
+素材0x82B１行目 素材0x82B２行目
 
 [msg material_82C]
-素材ゼゑツゾぢ１行目 素材ゼゑツゾぢ２行目
+素材0x82C１行目 素材0x82C２行目
 
 [msg material_82D]
-素材ゼゑツゾっ１行目 素材ゼゑツゾっ２行目
+素材0x82D１行目 素材0x82D２行目
 
 [msg material_82E]
-素材ゼゑツゾつ１行目 素材ゼゑツゾつ２行目
+素材0x82E１行目 素材0x82E２行目
 
 [msg material_82F]
-素材ゼゑツゾづ１行目 素材ゼゑツゾづ２行目
+素材0x82F１行目 素材0x82F２行目
 
 [msg material_830]
-素材ゼゑツタゼ１行目 素材ゼゑツタゼ２行目
+素材0x830１行目 素材0x830２行目
 
 [msg material_831]
-素材ゼゑツタソ１行目 素材ゼゑツタソ２行目
+素材0x831１行目 素材0x831２行目
 
 [msg material_832]
-素材ゼゑツタゾ１行目 素材ゼゑツタゾ２行目
+素材0x832１行目 素材0x832２行目
 
 [msg material_833]
-素材ゼゑツタタ１行目 素材ゼゑツタタ２行目
+素材0x833１行目 素材0x833２行目
 
 [msg material_834]
-素材ゼゑツタダ１行目 素材ゼゑツタダ２行目
+素材0x834１行目 素材0x834２行目
 
 [msg material_835]
-素材ゼゑツタチ１行目 素材ゼゑツタチ２行目
+素材0x835１行目 素材0x835２行目
 
 [msg material_836]
-素材ゼゑツタヂ１行目 素材ゼゑツタヂ２行目
+素材0x836１行目 素材0x836２行目
 
 [msg material_837]
-素材ゼゑツタッ１行目 素材ゼゑツタッ２行目
+素材0x837１行目 素材0x837２行目
 
 [msg material_838]
-素材ゼゑツタツ１行目 素材ゼゑツタツ２行目
+素材0x838１行目 素材0x838２行目
 
 [msg material_839]
-素材ゼゑツタヅ１行目 素材ゼゑツタヅ２行目
+素材0x839１行目 素材0x839２行目
 
 [msg material_83A]
-素材ゼゑツタだ１行目 素材ゼゑツタだ２行目
+素材0x83A１行目 素材0x83A２行目
 
 [msg material_83B]
-素材ゼゑツタち１行目 素材ゼゑツタち２行目
+素材0x83B１行目 素材0x83B２行目
 
 [msg material_83C]
-素材ゼゑツタぢ１行目 素材ゼゑツタぢ２行目
+素材0x83C１行目 素材0x83C２行目
 
 [msg material_83D]
-素材ゼゑツタっ１行目 素材ゼゑツタっ２行目
+素材0x83D１行目 素材0x83D２行目
 
 [msg material_83E]
-素材ゼゑツタつ１行目 素材ゼゑツタつ２行目
+素材0x83E１行目 素材0x83E２行目
 
 [msg material_83F]
-素材ゼゑツタづ１行目 素材ゼゑツタづ２行目
+素材0x83F１行目 素材0x83F２行目
 
 [msg material_840]
-素材ゼゑツダゼ１行目 素材ゼゑツダゼ２行目
+素材0x840１行目 素材0x840２行目
 
 [msg material_841]
-素材ゼゑツダソ１行目 素材ゼゑツダソ２行目
+素材0x841１行目 素材0x841２行目
 
 [msg material_842]
-素材ゼゑツダゾ１行目 素材ゼゑツダゾ２行目
+素材0x842１行目 素材0x842２行目
 
 [msg material_843]
-素材ゼゑツダタ１行目 素材ゼゑツダタ２行目
+素材0x843１行目 素材0x843２行目
 
 [msg material_844]
-素材ゼゑツダダ１行目 素材ゼゑツダダ２行目
+素材0x844１行目 素材0x844２行目
 
 [msg material_845]
-素材ゼゑツダチ１行目 素材ゼゑツダチ２行目
+素材0x845１行目 素材0x845２行目
 
 [msg material_846]
-素材ゼゑツダヂ１行目 素材ゼゑツダヂ２行目
+素材0x846１行目 素材0x846２行目
 
 [msg material_847]
-素材ゼゑツダッ１行目 素材ゼゑツダッ２行目
+素材0x847１行目 素材0x847２行目
 
 [msg material_848]
-素材ゼゑツダツ１行目 素材ゼゑツダツ２行目
+素材0x848１行目 素材0x848２行目
 
 [msg material_849]
-素材ゼゑツダヅ１行目 素材ゼゑツダヅ２行目
+素材0x849１行目 素材0x849２行目
 
 [msg material_84A]
-ぴょ らまりゎまォよ よれよ ぽま ゃゎむゎまろま まょ ぼよょぽもぼもカょ[n]わもょろぺむまテ ひま わまょぽま ぺ ゎょ らるまぼもよ[n]れよるらるまょぽまょろまゆまょろま ぺゅろよテ
+Un peque隠o oso de juguete en condici吋n[n]vintage. Se vende a un precio[n]sorprendentemente alto.
 
 [msg material_84B]
-ぴょ ゆもるぺぽよる ゆもれろまるもよれよテ ひゎれ らぺろるよょまれ[n]ぼよゅよるもぽよれ まわよぼぺょ れまょろもゆもまょろよれ ぽま[n]ょよれろぺゅむもぺテ
+Un mirador misterioso. Sus patrones[n]coloridos evocan sentimientos de[n]nostalgia.
 
 [msg material_84C]
-ぴょぺ みもむゎるぺ ぽま ぺるぼもゅゅぺ りゎま れよゅウぺ れまる[n]ぼよゆグょ めぺぼま ゆゎぼめよ ろもまゆらよテ
+Una figura de arcilla que sol胤a ser[n]com雨n hace mucho tiempo.
 
 [msg material_84D]
-ぴょぺ ぼぺゃぺ もょまれぼるゎろぺほゅまテ ねもょむゎょぺ ぼぺょろもぽぺぽ[n]ぽま まれろゎぽもよ らゎまぽま ぺぼゅぺるぺる ゅぺ ろまぼょよゅよむウぺ[n]りゎま めぺを まょ れゎ もょろまるもよるテ
+Una caja inescrutable. Ninguna cantidad[n]de estudio puede aclarar la tecnolog胤a[n]que hay en su interior.
 
 [msg material_84E]
-てるぺょよれ ぽま ゆぺウん ぼゅぺるぺゆまょろま めグゆまぽよれテ
+Granos de ma胤z claramente h雨medos.
 
 [msg material_84F]
-てるぺょよれ ぽま ゆぺウん りゎま ろま ぽぺょ まれぺ らまりゎまォぺ[n]ぽまれぼぺるむぺ ぽま まょまるむウぺ まれろァろもぼぺテ
+Granos de ma胤z que te dan esa peque隠a[n]descarga de energ胤a est茨tica.
 
 [msg material_850]
-素材ゼゑツチゼ１行目 素材ゼゑツチゼ２行目
+素材0x850１行目 素材0x850２行目
 
 [msg material_851]
-素材ゼゑツチソ１行目 素材ゼゑツチソ２行目
+素材0x851１行目 素材0x851２行目
 
 [msg material_852]
-素材ゼゑツチゾ１行目 素材ゼゑツチゾ２行目
+素材0x852１行目 素材0x852２行目
 
 [msg material_853]
-素材ゼゑツチタ１行目 素材ゼゑツチタ２行目
+素材0x853１行目 素材0x853２行目
 
 [msg material_854]
-素材ゼゑツチダ１行目 素材ゼゑツチダ２行目
+素材0x854１行目 素材0x854２行目
 
 [msg material_855]
-素材ゼゑツチチ１行目 素材ゼゑツチチ２行目
+素材0x855１行目 素材0x855２行目
 
 [msg material_856]
-素材ゼゑツチヂ１行目 素材ゼゑツチヂ２行目
+素材0x856１行目 素材0x856２行目
 
 [msg material_857]
-素材ゼゑツチッ１行目 素材ゼゑツチッ２行目
+素材0x857１行目 素材0x857２行目
 
 [msg material_858]
-素材ゼゑツチツ１行目 素材ゼゑツチツ２行目
+素材0x858１行目 素材0x858２行目
 
 [msg material_859]
-素材ゼゑツチヅ１行目 素材ゼゑツチヅ２行目
+素材0x859１行目 素材0x859２行目
 
 [msg material_85A]
-素材ゼゑツチだ１行目 素材ゼゑツチだ２行目
+素材0x85A１行目 素材0x85A２行目
 
 [msg material_85B]
-素材ゼゑツチち１行目 素材ゼゑツチち２行目
+素材0x85B１行目 素材0x85B２行目
 
 [msg material_85C]
-素材ゼゑツチぢ１行目 素材ゼゑツチぢ２行目
+素材0x85C１行目 素材0x85C２行目
 
 [msg material_85D]
-素材ゼゑツチっ１行目 素材ゼゑツチっ２行目
+素材0x85D１行目 素材0x85D２行目
 
 [msg material_85E]
-素材ゼゑツチつ１行目 素材ゼゑツチつ２行目
+素材0x85E１行目 素材0x85E２行目
 
 [msg material_85F]
-素材ゼゑツチづ１行目 素材ゼゑツチづ２行目
+素材0x85F１行目 素材0x85F２行目
 
 [msg material_860]
-ぴょ ろるよんよ ぽま ゎょぺ ひよゆほるぺ ぼよょ ぺらぺるもまょぼもぺ[n]るよぼよれぺテ にぺれ ゆゎまれろるぺれ むるぺょぽまれ ぺゅぼぺょんぺょ[n]らるまぼもよれ まゅまわぺぽよれテ
+Un trozo de una Sombra con apariencia[n]rocosa. Las muestras grandes alcanzan[n]precios elevados.
 
 [msg material_861]
-ぴょぺ みるゎろぺ ぼよょ ゎょ ぺるよゆぺ ぽゎゅぼまテ でゎまゅま ゆァれ[n]ぺらまろもろよれぺ ぽま ゅよ りゎま れゎむもまるま れゎ[n]ぺらぺるもまょぼもぺテ
+Una fruta con un aroma dulce. Huele m茨s[n]apetitosa de lo que sugiere su[n]apariencia.
 
 [msg material_862]
-ぬぺりゎもょぺるもぺ めまぼめぺ ぼよょ らもまんぺれ ろよろぺゅゆまょろま[n]ぽまれぼよょよぼもぽぺれデ もょぼゅゎれよ らぺるぺ ゅよれ まゑらまるろよれテ
+Maquinaria hecha con piezas totalmente[n]desconocidas, incluso para los expertos.
 
 [msg material_863]
-クエストカット対応によって 恐らく使用しないと思われます
+ク夷ス:吋7:対応LoDG 恐pく使用しKいI思vseす
 
 [msg material_864]
-ぴょぺ らゅぺょろぺ ぽま ゅぺ ゃゎょむゅぺ りゎま めゎまゅま[n]わぺむぺゆまょろま ぺ ぽもまょろまれ るまぼもイょ ぼまらもゅゅぺぽよれテ
+Una planta de la jungla que huele[n]vagamente a dientes reci姻n cepillados.
 
 [msg material_865]
-ぴょぺ らゅぺょろぺ ぽま ゅぺ ゃゎょむゅぺ りゎま れまむるまむぺ ゎょ[n]みゅゎもぽよ らまむぺゃよれよ ぼよょ らるよらもまぽぺぽまれ[n]ゆまぽもぼもょぺゅまれテ
+Una planta de la jungla que segrega un[n]fluido pegajoso con propiedades[n]medicinales.
 
 [msg material_866]
-ぴょ ゆもょまるぺゅ るまれもれろまょろま まゑろるぺウぽよ ぽま ゎょ[n]ぼぺれろもゅゅよ ゆカわもゅテ
+Un mineral resistente extra胤do de un[n]castillo m吋vil.
 
 [msg material_867]
-はもまんぺれ ぽま ゆァりゎもょぺ りゎま らぺるまぼまょ れまる ゆゎを[n]ゎろもゅもんぺぽぺれ まょ ろまぼょよゅよむウぺ みゎろゎるもれろぺテ
+Piezas de m茨quina que parecen ser muy[n]utilizadas en tecnolog胤a futurista.
 
 [msg material_868]
-ぴょゎれまぽ
+Unused
 
 [msg material_869]
-ぴょゎれまぽ
+Unused
 
 [msg material_86A]
-ぴょゎれまぽ
+Unused
 
 [msg material_86B]
-ぴょゎれまぽ
+Unused
 
 [msg material_86C]
-ぴょゎれまぽ
+Unused
 
 [msg material_86D]
-ぴょゎれまぽ
+Unused
 
 [msg material_86E]
-ぴょゎれまぽ
+Unused
 
 [msg material_86F]
-ぬぺりゎもょぺるもぺ みぺほるもぼぺぽぺ ぼよょ ろまぼょよゅよむウぺ ぽま[n]らるカゑもゆぺ むまょまるぺぼもカょ りゎま ぺゅむゎょよれ らゎまぽまょ[n]るまぼよょよぼまるテ
+Maquinaria fabricada con tecnolog胤a de[n]pr吋xima generaci吋n que algunos pueden[n]reconocer.
 
 [msg material_870]
-ふぺるもよれ ろまれよるよれ るまゅゎぼもまょろまれ りゎま めぺ[n]るまぼよむもぽよ ゎょ らろまるよれぺゎるもよテ
+Varios tesoros relucientes que ha[n]recogido un pterosaurio.
 
 [msg material_871]
-でまゅまぼめよ むるぺょぽま れもろゎぺぽよ まょ ゅぺ れまゅわぺテ[n]でゎまゅま ゎょ らよぼよ ぺ ぼぺょまゅぺテ
+Helecho grande situado en la selva.[n]Huele un poco a canela.
 
 [msg material_872]
-素材ゼゑツッゾ１行目 素材ゼゑツッゾ２行目
+素材0x872１行目 素材0x872２行目
 
 [msg material_873]
-素材ゼゑツッタ１行目 素材ゼゑツッタ２行目
+素材0x873１行目 素材0x873２行目
 
 [msg material_874]
-素材ゼゑツッダ１行目 素材ゼゑツッダ２行目
+素材0x874１行目 素材0x874２行目
 
 [msg material_875]
-素材ゼゑツッチ１行目 素材ゼゑツッチ２行目
+素材0x875１行目 素材0x875２行目
 
 [msg material_876]
-素材ゼゑツッヂ１行目 素材ゼゑツッヂ２行目
+素材0x876１行目 素材0x876２行目
 
 [msg material_877]
-素材ゼゑツッッ１行目 素材ゼゑツッッ２行目
+素材0x877１行目 素材0x877２行目
 
 [msg material_878]
-素材ゼゑツッツ１行目 素材ゼゑツッツ２行目
+素材0x878１行目 素材0x878２行目
 
 [msg material_879]
-素材ゼゑツッヅ１行目 素材ゼゑツッヅ２行目
+素材0x879１行目 素材0x879２行目
 
 [msg material_87A]
-素材ゼゑツッだ１行目 素材ゼゑツッだ２行目
+素材0x87A１行目 素材0x87A２行目
 
 [msg material_87B]
-素材ゼゑツッち１行目 素材ゼゑツッち２行目
+素材0x87B１行目 素材0x87B２行目
 
 [msg material_87C]
-素材ゼゑツッぢ１行目 素材ゼゑツッぢ２行目
+素材0x87C１行目 素材0x87C２行目
 
 [msg material_87D]
-素材ゼゑツッっ１行目 素材ゼゑツッっ２行目
+素材0x87D１行目 素材0x87D２行目
 
 [msg material_87E]
-素材ゼゑツッつ１行目 素材ゼゑツッつ２行目
+素材0x87E１行目 素材0x87E２行目
 
 [msg material_87F]
-素材ゼゑツッづ１行目 素材ゼゑツッづ２行目
+素材0x87F１行目 素材0x87F２行目
 
 [msg material_880]
-素材ゼゑツツゼ１行目 素材ゼゑツツゼ２行目
+素材0x880１行目 素材0x880２行目
 
 [msg material_881]
-素材ゼゑツツソ１行目 素材ゼゑツツソ２行目
+素材0x881１行目 素材0x881２行目
 
 [msg material_882]
-素材ゼゑツツゾ１行目 素材ゼゑツツゾ２行目
+素材0x882１行目 素材0x882２行目
 
 [msg material_883]
-素材ゼゑツツタ１行目 素材ゼゑツツタ２行目
+素材0x883１行目 素材0x883２行目
 
 [msg material_884]
-素材ゼゑツツダ１行目 素材ゼゑツツダ２行目
+素材0x884１行目 素材0x884２行目
 
 [msg material_885]
-素材ゼゑツツチ１行目 素材ゼゑツツチ２行目
+素材0x885１行目 素材0x885２行目
 
 [msg material_886]
-素材ゼゑツツヂ１行目 素材ゼゑツツヂ２行目
+素材0x886１行目 素材0x886２行目
 
 [msg material_887]
-素材ゼゑツツッ１行目 素材ゼゑツツッ２行目
+素材0x887１行目 素材0x887２行目
 
 [msg material_888]
-素材ゼゑツツツ１行目 素材ゼゑツツツ２行目
+素材0x888１行目 素材0x888２行目
 
 [msg material_889]
-素材ゼゑツツヅ１行目 素材ゼゑツツヅ２行目
+素材0x889１行目 素材0x889２行目
 
 [msg material_88A]
-素材ゼゑツツだ１行目 素材ゼゑツツだ２行目
+素材0x88A１行目 素材0x88A２行目
 
 [msg material_88B]
-素材ゼゑツツち１行目 素材ゼゑツツち２行目
+素材0x88B１行目 素材0x88B２行目
 
 [msg material_88C]
-素材ゼゑツツぢ１行目 素材ゼゑツツぢ２行目
+素材0x88C１行目 素材0x88C２行目
 
 [msg material_88D]
-素材ゼゑツツっ１行目 素材ゼゑツツっ２行目
+素材0x88D１行目 素材0x88D２行目
 
 [msg material_88E]
-素材ゼゑツツつ１行目 素材ゼゑツツつ２行目
+素材0x88E１行目 素材0x88E２行目
 
 [msg material_88F]
-素材ゼゑツツづ１行目 素材ゼゑツツづ２行目
+素材0x88F１行目 素材0x88F２行目
 
 [msg material_890]
-素材ゼゑツヅゼ１行目 素材ゼゑツヅゼ２行目
+素材0x890１行目 素材0x890２行目
 
 [msg material_891]
-素材ゼゑツヅソ１行目 素材ゼゑツヅソ２行目
+素材0x891１行目 素材0x891２行目
 
 [msg material_892]
-素材ゼゑツヅゾ１行目 素材ゼゑツヅゾ２行目
+素材0x892１行目 素材0x892２行目
 
 [msg material_893]
-素材ゼゑツヅタ１行目 素材ゼゑツヅタ２行目
+素材0x893１行目 素材0x893２行目
 
 [msg material_894]
-素材ゼゑツヅダ１行目 素材ゼゑツヅダ２行目
+素材0x894１行目 素材0x894２行目
 
 [msg material_895]
-素材ゼゑツヅチ１行目 素材ゼゑツヅチ２行目
+素材0x895１行目 素材0x895２行目
 
 [msg material_896]
-素材ゼゑツヅヂ１行目 素材ゼゑツヅヂ２行目
+素材0x896１行目 素材0x896２行目
 
 [msg material_897]
-素材ゼゑツヅッ１行目 素材ゼゑツヅッ２行目
+素材0x897１行目 素材0x897２行目
 
 [msg material_898]
-素材ゼゑツヅツ１行目 素材ゼゑツヅツ２行目
+素材0x898１行目 素材0x898２行目
 
 [msg material_899]
-素材ゼゑツヅヅ１行目 素材ゼゑツヅヅ２行目
+素材0x899１行目 素材0x899２行目
 
 [msg material_89A]
-素材ゼゑツヅだ１行目 素材ゼゑツヅだ２行目
+素材0x89A１行目 素材0x89A２行目
 
 [msg material_89B]
-素材ゼゑツヅち１行目 素材ゼゑツヅち２行目
+素材0x89B１行目 素材0x89B２行目
 
 [msg material_89C]
-素材ゼゑツヅぢ１行目 素材ゼゑツヅぢ２行目
+素材0x89C１行目 素材0x89C２行目
 
 [msg material_89D]
-素材ゼゑツヅっ１行目 素材ゼゑツヅっ２行目
+素材0x89D１行目 素材0x89D２行目
 
 [msg material_89E]
-素材ゼゑツヅつ１行目 素材ゼゑツヅつ２行目
+素材0x89E１行目 素材0x89E２行目
 
 [msg material_89F]
-素材ゼゑツヅづ１行目 素材ゼゑツヅづ２行目
+素材0x89F１行目 素材0x89F２行目
 
 [msg material_8A0]
-素材ゼゑツだゼ１行目 素材ゼゑツだゼ２行目
+素材0x8A0１行目 素材0x8A0２行目
 
 [msg material_8A1]
-素材ゼゑツだソ１行目 素材ゼゑツだソ２行目
+素材0x8A1１行目 素材0x8A1２行目
 
 [msg material_8A2]
-素材ゼゑツだゾ１行目 素材ゼゑツだゾ２行目
+素材0x8A2１行目 素材0x8A2２行目
 
 [msg material_8A3]
-素材ゼゑツだタ１行目 素材ゼゑツだタ２行目
+素材0x8A3１行目 素材0x8A3２行目
 
 [msg material_8A4]
-素材ゼゑツだダ１行目 素材ゼゑツだダ２行目
+素材0x8A4１行目 素材0x8A4２行目
 
 [msg material_8A5]
-素材ゼゑツだチ１行目 素材ゼゑツだチ２行目
+素材0x8A5１行目 素材0x8A5２行目
 
 [msg material_8A6]
-素材ゼゑツだヂ１行目 素材ゼゑツだヂ２行目
+素材0x8A6１行目 素材0x8A6２行目
 
 [msg material_8A7]
-素材ゼゑツだッ１行目 素材ゼゑツだッ２行目
+素材0x8A7１行目 素材0x8A7２行目
 
 [msg material_8A8]
-素材ゼゑツだツ１行目 素材ゼゑツだツ２行目
+素材0x8A8１行目 素材0x8A8２行目
 
 [msg material_8A9]
-素材ゼゑツだヅ１行目 素材ゼゑツだヅ２行目
+素材0x8A9１行目 素材0x8A9２行目
 
 [msg material_8AA]
-素材ゼゑツだだ１行目 素材ゼゑツだだ２行目
+素材0x8AA１行目 素材0x8AA２行目
 
 [msg material_8AB]
-素材ゼゑツだち１行目 素材ゼゑツだち２行目
+素材0x8AB１行目 素材0x8AB２行目
 
 [msg material_8AC]
-素材ゼゑツだぢ１行目 素材ゼゑツだぢ２行目
+素材0x8AC１行目 素材0x8AC２行目
 
 [msg material_8AD]
-素材ゼゑツだっ１行目 素材ゼゑツだっ２行目
+素材0x8AD１行目 素材0x8AD２行目
 
 [msg material_8AE]
-素材ゼゑツだつ１行目 素材ゼゑツだつ２行目
+素材0x8AE１行目 素材0x8AE２行目
 
 [msg material_8AF]
-素材ゼゑツだづ１行目 素材ゼゑツだづ２行目
+素材0x8AF１行目 素材0x8AF２行目
 
 [msg material_8B0]
-素材ゼゑツちゼ１行目 素材ゼゑツちゼ２行目
+素材0x8B0１行目 素材0x8B0２行目
 
 [msg material_8B1]
-素材ゼゑツちソ１行目 素材ゼゑツちソ２行目
+素材0x8B1１行目 素材0x8B1２行目
 
 [msg material_8B2]
-素材ゼゑツちゾ１行目 素材ゼゑツちゾ２行目
+素材0x8B2１行目 素材0x8B2２行目
 
 [msg material_8B3]
-素材ゼゑツちタ１行目 素材ゼゑツちタ２行目
+素材0x8B3１行目 素材0x8B3２行目
 
 [msg material_8B4]
-素材ゼゑツちダ１行目 素材ゼゑツちダ２行目
+素材0x8B4１行目 素材0x8B4２行目
 
 [msg material_8B5]
-素材ゼゑツちチ１行目 素材ゼゑツちチ２行目
+素材0x8B5１行目 素材0x8B5２行目
 
 [msg material_8B6]
-素材ゼゑツちヂ１行目 素材ゼゑツちヂ２行目
+素材0x8B6１行目 素材0x8B6２行目
 
 [msg material_8B7]
-素材ゼゑツちッ１行目 素材ゼゑツちッ２行目
+素材0x8B7１行目 素材0x8B7２行目
 
 [msg material_8B8]
-素材ゼゑツちツ１行目 素材ゼゑツちツ２行目
+素材0x8B8１行目 素材0x8B8２行目
 
 [msg material_8B9]
-素材ゼゑツちヅ１行目 素材ゼゑツちヅ２行目
+素材0x8B9１行目 素材0x8B9２行目
 
 [msg material_8BA]
-素材ゼゑツちだ１行目 素材ゼゑツちだ２行目
+素材0x8BA１行目 素材0x8BA２行目
 
 [msg material_8BB]
-素材ゼゑツちち１行目 素材ゼゑツちち２行目
+素材0x8BB１行目 素材0x8BB２行目
 
 [msg material_8BC]
-素材ゼゑツちぢ１行目 素材ゼゑツちぢ２行目
+素材0x8BC１行目 素材0x8BC２行目
 
 [msg material_8BD]
-素材ゼゑツちっ１行目 素材ゼゑツちっ２行目
+素材0x8BD１行目 素材0x8BD２行目
 
 [msg material_8BE]
-素材ゼゑツちつ１行目 素材ゼゑツちつ２行目
+素材0x8BE１行目 素材0x8BE２行目
 
 [msg material_8BF]
-素材ゼゑツちづ１行目 素材ゼゑツちづ２行目
+素材0x8BF１行目 素材0x8BF２行目
 
 [msg material_8C0]
-素材ゼゑツぢゼ１行目 素材ゼゑツぢゼ２行目
+素材0x8C0１行目 素材0x8C0２行目
 
 [msg material_8C1]
-素材ゼゑツぢソ１行目 素材ゼゑツぢソ２行目
+素材0x8C1１行目 素材0x8C1２行目
 
 [msg material_8C2]
-素材ゼゑツぢゾ１行目 素材ゼゑツぢゾ２行目
+素材0x8C2１行目 素材0x8C2２行目
 
 [msg material_8C3]
-素材ゼゑツぢタ１行目 素材ゼゑツぢタ２行目
+素材0x8C3１行目 素材0x8C3２行目
 
 [msg material_8C4]
-素材ゼゑツぢダ１行目 素材ゼゑツぢダ２行目
+素材0x8C4１行目 素材0x8C4２行目
 
 [msg material_8C5]
-素材ゼゑツぢチ１行目 素材ゼゑツぢチ２行目
+素材0x8C5１行目 素材0x8C5２行目
 
 [msg material_8C6]
-素材ゼゑツぢヂ１行目 素材ゼゑツぢヂ２行目
+素材0x8C6１行目 素材0x8C6２行目
 
 [msg material_8C7]
-素材ゼゑツぢッ１行目 素材ゼゑツぢッ２行目
+素材0x8C7１行目 素材0x8C7２行目
 
 [msg material_8C8]
-素材ゼゑツぢツ１行目 素材ゼゑツぢツ２行目
+素材0x8C8１行目 素材0x8C8２行目
 
 [msg material_8C9]
-素材ゼゑツぢヅ１行目 素材ゼゑツぢヅ２行目
+素材0x8C9１行目 素材0x8C9２行目
 
 [msg material_8CA]
-素材ゼゑツぢだ１行目 素材ゼゑツぢだ２行目
+素材0x8CA１行目 素材0x8CA２行目
 
 [msg material_8CB]
-素材ゼゑツぢち１行目 素材ゼゑツぢち２行目
+素材0x8CB１行目 素材0x8CB２行目
 
 [msg material_8CC]
-素材ゼゑツぢぢ１行目 素材ゼゑツぢぢ２行目
+素材0x8CC１行目 素材0x8CC２行目
 
 [msg material_8CD]
-素材ゼゑツぢっ１行目 素材ゼゑツぢっ２行目
+素材0x8CD１行目 素材0x8CD２行目
 
 [msg material_8CE]
-素材ゼゑツぢつ１行目 素材ゼゑツぢつ２行目
+素材0x8CE１行目 素材0x8CE２行目
 
 [msg material_8CF]
-素材ゼゑツぢづ１行目 素材ゼゑツぢづ２行目
+素材0x8CF１行目 素材0x8CF２行目
 
 [msg material_8D0]
-素材ゼゑツっゼ１行目 素材ゼゑツっゼ２行目
+素材0x8D0１行目 素材0x8D0２行目
 
 [msg material_8D1]
-素材ゼゑツっソ１行目 素材ゼゑツっソ２行目
+素材0x8D1１行目 素材0x8D1２行目
 
 [msg material_8D2]
-素材ゼゑツっゾ１行目 素材ゼゑツっゾ２行目
+素材0x8D2１行目 素材0x8D2２行目
 
 [msg material_8D3]
-素材ゼゑツっタ１行目 素材ゼゑツっタ２行目
+素材0x8D3１行目 素材0x8D3２行目
 
 [msg material_8D4]
-素材ゼゑツっダ１行目 素材ゼゑツっダ２行目
+素材0x8D4１行目 素材0x8D4２行目
 
 [msg material_8D5]
-素材ゼゑツっチ１行目 素材ゼゑツっチ２行目
+素材0x8D5１行目 素材0x8D5２行目
 
 [msg material_8D6]
-素材ゼゑツっヂ１行目 素材ゼゑツっヂ２行目
+素材0x8D6１行目 素材0x8D6２行目
 
 [msg material_8D7]
-素材ゼゑツっッ１行目 素材ゼゑツっッ２行目
+素材0x8D7１行目 素材0x8D7２行目
 
 [msg material_8D8]
-素材ゼゑツっツ１行目 素材ゼゑツっツ２行目
+素材0x8D8１行目 素材0x8D8２行目
 
 [msg material_8D9]
-素材ゼゑツっヅ１行目 素材ゼゑツっヅ２行目
+素材0x8D9１行目 素材0x8D9２行目
 
 [msg material_8DA]
-素材ゼゑツっだ１行目 素材ゼゑツっだ２行目
+素材0x8DA１行目 素材0x8DA２行目
 
 [msg material_8DB]
-素材ゼゑツっち１行目 素材ゼゑツっち２行目
+素材0x8DB１行目 素材0x8DB２行目
 
 [msg material_8DC]
-素材ゼゑツっぢ１行目 素材ゼゑツっぢ２行目
+素材0x8DC１行目 素材0x8DC２行目
 
 [msg material_8DD]
-素材ゼゑツっっ１行目 素材ゼゑツっっ２行目
+素材0x8DD１行目 素材0x8DD２行目
 
 [msg material_8DE]
-素材ゼゑツっつ１行目 素材ゼゑツっつ２行目
+素材0x8DE１行目 素材0x8DE２行目
 
 [msg material_8DF]
-素材ゼゑツっづ１行目 素材ゼゑツっづ２行目
+素材0x8DF１行目 素材0x8DF２行目
 
 [msg material_8E0]
-素材ゼゑツつゼ１行目 素材ゼゑツつゼ２行目
+素材0x8E0１行目 素材0x8E0２行目
 
 [msg material_8E1]
-素材ゼゑツつソ１行目 素材ゼゑツつソ２行目
+素材0x8E1１行目 素材0x8E1２行目
 
 [msg material_8E2]
-素材ゼゑツつゾ１行目 素材ゼゑツつゾ２行目
+素材0x8E2１行目 素材0x8E2２行目
 
 [msg material_8E3]
-素材ゼゑツつタ１行目 素材ゼゑツつタ２行目
+素材0x8E3１行目 素材0x8E3２行目
 
 [msg material_8E4]
-素材ゼゑツつダ１行目 素材ゼゑツつダ２行目
+素材0x8E4１行目 素材0x8E4２行目
 
 [msg material_8E5]
-素材ゼゑツつチ１行目 素材ゼゑツつチ２行目
+素材0x8E5１行目 素材0x8E5２行目
 
 [msg material_8E6]
-素材ゼゑツつヂ１行目 素材ゼゑツつヂ２行目
+素材0x8E6１行目 素材0x8E6２行目
 
 [msg material_8E7]
-素材ゼゑツつッ１行目 素材ゼゑツつッ２行目
+素材0x8E7１行目 素材0x8E7２行目
 
 [msg material_8E8]
-素材ゼゑツつツ１行目 素材ゼゑツつツ２行目
+素材0x8E8１行目 素材0x8E8２行目
 
 [msg material_8E9]
-素材ゼゑツつヅ１行目 素材ゼゑツつヅ２行目
+素材0x8E9１行目 素材0x8E9２行目
 
 [msg material_8EA]
-素材ゼゑツつだ１行目 素材ゼゑツつだ２行目
+素材0x8EA１行目 素材0x8EA２行目
 
 [msg material_8EB]
-素材ゼゑツつち１行目 素材ゼゑツつち２行目
+素材0x8EB１行目 素材0x8EB２行目
 
 [msg material_8EC]
-素材ゼゑツつぢ１行目 素材ゼゑツつぢ２行目
+素材0x8EC１行目 素材0x8EC２行目
 
 [msg material_8ED]
-素材ゼゑツつっ１行目 素材ゼゑツつっ２行目
+素材0x8ED１行目 素材0x8ED２行目
 
 [msg material_8EE]
-素材ゼゑツつつ１行目 素材ゼゑツつつ２行目
+素材0x8EE１行目 素材0x8EE２行目
 
 [msg material_8EF]
-素材ゼゑツつづ１行目 素材ゼゑツつづ２行目
+素材0x8EF１行目 素材0x8EF２行目
 
 [msg material_8F0]
-素材ゼゑツづゼ１行目 素材ゼゑツづゼ２行目
+素材0x8F0１行目 素材0x8F0２行目
 
 [msg material_8F1]
-素材ゼゑツづソ１行目 素材ゼゑツづソ２行目
+素材0x8F1１行目 素材0x8F1２行目
 
 [msg material_8F2]
-素材ゼゑツづゾ１行目 素材ゼゑツづゾ２行目
+素材0x8F2１行目 素材0x8F2２行目
 
 [msg material_8F3]
-素材ゼゑツづタ１行目 素材ゼゑツづタ２行目
+素材0x8F3１行目 素材0x8F3２行目
 
 [msg material_8F4]
-素材ゼゑツづダ１行目 素材ゼゑツづダ２行目
+素材0x8F4１行目 素材0x8F4２行目
 
 [msg material_8F5]
-素材ゼゑツづチ１行目 素材ゼゑツづチ２行目
+素材0x8F5１行目 素材0x8F5２行目
 
 [msg material_8F6]
-素材ゼゑツづヂ１行目 素材ゼゑツづヂ２行目
+素材0x8F6１行目 素材0x8F6２行目
 
 [msg material_8F7]
-素材ゼゑツづッ１行目 素材ゼゑツづッ２行目
+素材0x8F7１行目 素材0x8F7２行目
 
 [msg material_8F8]
-素材ゼゑツづツ１行目 素材ゼゑツづツ２行目
+素材0x8F8１行目 素材0x8F8２行目
 
 [msg material_8F9]
-素材ゼゑツづヅ１行目 素材ゼゑツづヅ２行目
+素材0x8F9１行目 素材0x8F9２行目
 
 [msg material_8FA]
-素材ゼゑツづだ１行目 素材ゼゑツづだ２行目
+素材0x8FA１行目 素材0x8FA２行目
 
 [msg material_8FB]
-素材ゼゑツづち１行目 素材ゼゑツづち２行目
+素材0x8FB１行目 素材0x8FB２行目
 
 [msg material_8FC]
-素材ゼゑツづぢ１行目 素材ゼゑツづぢ２行目
+素材0x8FC１行目 素材0x8FC２行目
 
 [msg material_8FD]
-素材ゼゑツづっ１行目 素材ゼゑツづっ２行目
+素材0x8FD１行目 素材0x8FD２行目
 
 [msg material_8FE]
-素材ゼゑツづつ１行目 素材ゼゑツづつ２行目
+素材0x8FE１行目 素材0x8FE２行目
 
 [msg material_8FF]
-素材ゼゑツづづ１行目 素材ゼゑツづづ２行目
+素材0x8FF１行目 素材0x8FF２行目
 
 [msg material_900]
-素材ゼゑヅゼゼ１行目 素材ゼゑヅゼゼ２行目
+素材0x900１行目 素材0x900２行目
 
 [msg material_901]
-素材ゼゑヅゼソ１行目 素材ゼゑヅゼソ２行目
+素材0x901１行目 素材0x901２行目
 
 [msg material_902]
-素材ゼゑヅゼゾ１行目 素材ゼゑヅゼゾ２行目
+素材0x902１行目 素材0x902２行目
 
 [msg material_903]
-素材ゼゑヅゼタ１行目 素材ゼゑヅゼタ２行目
+素材0x903１行目 素材0x903２行目
 
 [msg material_904]
-素材ゼゑヅゼダ１行目 素材ゼゑヅゼダ２行目
+素材0x904１行目 素材0x904２行目
 
 [msg material_905]
-素材ゼゑヅゼチ１行目 素材ゼゑヅゼチ２行目
+素材0x905１行目 素材0x905２行目
 
 [msg material_906]
-素材ゼゑヅゼヂ１行目 素材ゼゑヅゼヂ２行目
+素材0x906１行目 素材0x906２行目
 
 [msg material_907]
-素材ゼゑヅゼッ１行目 素材ゼゑヅゼッ２行目
+素材0x907１行目 素材0x907２行目
 
 [msg material_908]
-素材ゼゑヅゼツ１行目 素材ゼゑヅゼツ２行目
+素材0x908１行目 素材0x908２行目
 
 [msg material_909]
-素材ゼゑヅゼヅ１行目 素材ゼゑヅゼヅ２行目
+素材0x909１行目 素材0x909２行目
 
 [msg material_90A]
-素材ゼゑヅゼだ１行目 素材ゼゑヅゼだ２行目
+素材0x90A１行目 素材0x90A２行目
 
 [msg material_90B]
-素材ゼゑヅゼち１行目 素材ゼゑヅゼち２行目
+素材0x90B１行目 素材0x90B２行目
 
 [msg material_90C]
-素材ゼゑヅゼぢ１行目 素材ゼゑヅゼぢ２行目
+素材0x90C１行目 素材0x90C２行目
 
 [msg material_90D]
-素材ゼゑヅゼっ１行目 素材ゼゑヅゼっ２行目
+素材0x90D１行目 素材0x90D２行目
 
 [msg material_90E]
-素材ゼゑヅゼつ１行目 素材ゼゑヅゼつ２行目
+素材0x90E１行目 素材0x90E２行目
 
 [msg material_90F]
-素材ゼゑヅゼづ１行目 素材ゼゑヅゼづ２行目
+素材0x90F１行目 素材0x90F２行目
 
 [msg material_910]
-素材ゼゑヅソゼ１行目 素材ゼゑヅソゼ２行目
+素材0x910１行目 素材0x910２行目
 
 [msg material_911]
-素材ゼゑヅソソ１行目 素材ゼゑヅソソ２行目
+素材0x911１行目 素材0x911２行目
 
 [msg material_912]
-素材ゼゑヅソゾ１行目 素材ゼゑヅソゾ２行目
+素材0x912１行目 素材0x912２行目
 
 [msg material_913]
-素材ゼゑヅソタ１行目 素材ゼゑヅソタ２行目
+素材0x913１行目 素材0x913２行目
 
 [msg material_914]
-素材ゼゑヅソダ１行目 素材ゼゑヅソダ２行目
+素材0x914１行目 素材0x914２行目
 
 [msg material_915]
-素材ゼゑヅソチ１行目 素材ゼゑヅソチ２行目
+素材0x915１行目 素材0x915２行目
 
 [msg material_916]
-素材ゼゑヅソヂ１行目 素材ゼゑヅソヂ２行目
+素材0x916１行目 素材0x916２行目
 
 [msg material_917]
-素材ゼゑヅソッ１行目 素材ゼゑヅソッ２行目
+素材0x917１行目 素材0x917２行目
 
 [msg material_918]
-素材ゼゑヅソツ１行目 素材ゼゑヅソツ２行目
+素材0x918１行目 素材0x918２行目
 
 [msg material_919]
-素材ゼゑヅソヅ１行目 素材ゼゑヅソヅ２行目
+素材0x919１行目 素材0x919２行目
 
 [msg material_91A]
-素材ゼゑヅソだ１行目 素材ゼゑヅソだ２行目
+素材0x91A１行目 素材0x91A２行目
 
 [msg material_91B]
-素材ゼゑヅソち１行目 素材ゼゑヅソち２行目
+素材0x91B１行目 素材0x91B２行目
 
 [msg material_91C]
-素材ゼゑヅソぢ１行目 素材ゼゑヅソぢ２行目
+素材0x91C１行目 素材0x91C２行目
 
 [msg material_91D]
-素材ゼゑヅソっ１行目 素材ゼゑヅソっ２行目
+素材0x91D１行目 素材0x91D２行目
 
 [msg material_91E]
-素材ゼゑヅソつ１行目 素材ゼゑヅソつ２行目
+素材0x91E１行目 素材0x91E２行目
 
 [msg material_91F]
-素材ゼゑヅソづ１行目 素材ゼゑヅソづ２行目
+素材0x91F１行目 素材0x91F２行目
 
 [msg material_920]
-素材ゼゑヅゾゼ１行目 素材ゼゑヅゾゼ２行目
+素材0x920１行目 素材0x920２行目
 
 [msg material_921]
-素材ゼゑヅゾソ１行目 素材ゼゑヅゾソ２行目
+素材0x921１行目 素材0x921２行目
 
 [msg material_922]
-素材ゼゑヅゾゾ１行目 素材ゼゑヅゾゾ２行目
+素材0x922１行目 素材0x922２行目
 
 [msg material_923]
-素材ゼゑヅゾタ１行目 素材ゼゑヅゾタ２行目
+素材0x923１行目 素材0x923２行目
 
 [msg material_924]
-素材ゼゑヅゾダ１行目 素材ゼゑヅゾダ２行目
+素材0x924１行目 素材0x924２行目
 
 [msg material_925]
-素材ゼゑヅゾチ１行目 素材ゼゑヅゾチ２行目
+素材0x925１行目 素材0x925２行目
 
 [msg material_926]
-素材ゼゑヅゾヂ１行目 素材ゼゑヅゾヂ２行目
+素材0x926１行目 素材0x926２行目
 
 [msg material_927]
-素材ゼゑヅゾッ１行目 素材ゼゑヅゾッ２行目
+素材0x927１行目 素材0x927２行目
 
 [msg material_928]
-素材ゼゑヅゾツ１行目 素材ゼゑヅゾツ２行目
+素材0x928１行目 素材0x928２行目
 
 [msg material_929]
-素材ゼゑヅゾヅ１行目 素材ゼゑヅゾヅ２行目
+素材0x929１行目 素材0x929２行目
 
 [msg material_92A]
-素材ゼゑヅゾだ１行目 素材ゼゑヅゾだ２行目
+素材0x92A１行目 素材0x92A２行目
 
 [msg material_92B]
-素材ゼゑヅゾち１行目 素材ゼゑヅゾち２行目
+素材0x92B１行目 素材0x92B２行目
 
 [msg material_92C]
-素材ゼゑヅゾぢ１行目 素材ゼゑヅゾぢ２行目
+素材0x92C１行目 素材0x92C２行目
 
 [msg material_92D]
-素材ゼゑヅゾっ１行目 素材ゼゑヅゾっ２行目
+素材0x92D１行目 素材0x92D２行目
 
 [msg material_92E]
-素材ゼゑヅゾつ１行目 素材ゼゑヅゾつ２行目
+素材0x92E１行目 素材0x92E２行目
 
 [msg material_92F]
-素材ゼゑヅゾづ１行目 素材ゼゑヅゾづ２行目
+素材0x92F１行目 素材0x92F２行目
 
 [msg material_930]
-素材ゼゑヅタゼ１行目 素材ゼゑヅタゼ２行目
+素材0x930１行目 素材0x930２行目
 
 [msg material_931]
-素材ゼゑヅタソ１行目 素材ゼゑヅタソ２行目
+素材0x931１行目 素材0x931２行目
 
 [msg material_932]
-素材ゼゑヅタゾ１行目 素材ゼゑヅタゾ２行目
+素材0x932１行目 素材0x932２行目
 
 [msg material_933]
-素材ゼゑヅタタ１行目 素材ゼゑヅタタ２行目
+素材0x933１行目 素材0x933２行目
 
 [msg material_934]
-素材ゼゑヅタダ１行目 素材ゼゑヅタダ２行目
+素材0x934１行目 素材0x934２行目
 
 [msg material_935]
-素材ゼゑヅタチ１行目 素材ゼゑヅタチ２行目
+素材0x935１行目 素材0x935２行目
 
 [msg material_936]
-素材ゼゑヅタヂ１行目 素材ゼゑヅタヂ２行目
+素材0x936１行目 素材0x936２行目
 
 [msg material_937]
-素材ゼゑヅタッ１行目 素材ゼゑヅタッ２行目
+素材0x937１行目 素材0x937２行目
 
 [msg material_938]
-素材ゼゑヅタツ１行目 素材ゼゑヅタツ２行目
+素材0x938１行目 素材0x938２行目
 
 [msg material_939]
-素材ゼゑヅタヅ１行目 素材ゼゑヅタヅ２行目
+素材0x939１行目 素材0x939２行目
 
 [msg material_93A]
-素材ゼゑヅタだ１行目 素材ゼゑヅタだ２行目
+素材0x93A１行目 素材0x93A２行目
 
 [msg material_93B]
-素材ゼゑヅタち１行目 素材ゼゑヅタち２行目
+素材0x93B１行目 素材0x93B２行目
 
 [msg material_93C]
-素材ゼゑヅタぢ１行目 素材ゼゑヅタぢ２行目
+素材0x93C１行目 素材0x93C２行目
 
 [msg material_93D]
-素材ゼゑヅタっ１行目 素材ゼゑヅタっ２行目
+素材0x93D１行目 素材0x93D２行目
 
 [msg material_93E]
-素材ゼゑヅタつ１行目 素材ゼゑヅタつ２行目
+素材0x93E１行目 素材0x93E２行目
 
 [msg material_93F]
-素材ゼゑヅタづ１行目 素材ゼゑヅタづ２行目
+素材0x93F１行目 素材0x93F２行目
 
 [msg material_940]
-素材ゼゑヅダゼ１行目 素材ゼゑヅダゼ２行目
+素材0x940１行目 素材0x940２行目
 
 [msg material_941]
-素材ゼゑヅダソ１行目 素材ゼゑヅダソ２行目
+素材0x941１行目 素材0x941２行目
 
 [msg material_942]
-素材ゼゑヅダゾ１行目 素材ゼゑヅダゾ２行目
+素材0x942１行目 素材0x942２行目
 
 [msg material_943]
-素材ゼゑヅダタ１行目 素材ゼゑヅダタ２行目
+素材0x943１行目 素材0x943２行目
 
 [msg material_944]
-素材ゼゑヅダダ１行目 素材ゼゑヅダダ２行目
+素材0x944１行目 素材0x944２行目
 
 [msg material_945]
-素材ゼゑヅダチ１行目 素材ゼゑヅダチ２行目
+素材0x945１行目 素材0x945２行目
 
 [msg material_946]
-素材ゼゑヅダヂ１行目 素材ゼゑヅダヂ２行目
+素材0x946１行目 素材0x946２行目
 
 [msg material_947]
-素材ゼゑヅダッ１行目 素材ゼゑヅダッ２行目
+素材0x947１行目 素材0x947２行目
 
 [msg material_948]
-素材ゼゑヅダツ１行目 素材ゼゑヅダツ２行目
+素材0x948１行目 素材0x948２行目
 
 [msg material_949]
-素材ゼゑヅダヅ１行目 素材ゼゑヅダヅ２行目
+素材0x949１行目 素材0x949２行目
 
 [msg material_94A]
-素材ゼゑヅダだ１行目 素材ゼゑヅダだ２行目
+素材0x94A１行目 素材0x94A２行目
 
 [msg material_94B]
-素材ゼゑヅダち１行目 素材ゼゑヅダち２行目
+素材0x94B１行目 素材0x94B２行目
 
 [msg material_94C]
-素材ゼゑヅダぢ１行目 素材ゼゑヅダぢ２行目
+素材0x94C１行目 素材0x94C２行目
 
 [msg material_94D]
-素材ゼゑヅダっ１行目 素材ゼゑヅダっ２行目
+素材0x94D１行目 素材0x94D２行目
 
 [msg material_94E]
-素材ゼゑヅダつ１行目 素材ゼゑヅダつ２行目
+素材0x94E１行目 素材0x94E２行目
 
 [msg material_94F]
-素材ゼゑヅダづ１行目 素材ゼゑヅダづ２行目
+素材0x94F１行目 素材0x94F２行目
 
 [msg material_950]
-素材ゼゑヅチゼ１行目 素材ゼゑヅチゼ２行目
+素材0x950１行目 素材0x950２行目
 
 [msg material_951]
-素材ゼゑヅチソ１行目 素材ゼゑヅチソ２行目
+素材0x951１行目 素材0x951２行目
 
 [msg material_952]
-素材ゼゑヅチゾ１行目 素材ゼゑヅチゾ２行目
+素材0x952１行目 素材0x952２行目
 
 [msg material_953]
-素材ゼゑヅチタ１行目 素材ゼゑヅチタ２行目
+素材0x953１行目 素材0x953２行目
 
 [msg material_954]
-素材ゼゑヅチダ１行目 素材ゼゑヅチダ２行目
+素材0x954１行目 素材0x954２行目
 
 [msg material_955]
-素材ゼゑヅチチ１行目 素材ゼゑヅチチ２行目
+素材0x955１行目 素材0x955２行目
 
 [msg material_956]
-素材ゼゑヅチヂ１行目 素材ゼゑヅチヂ２行目
+素材0x956１行目 素材0x956２行目
 
 [msg material_957]
-素材ゼゑヅチッ１行目 素材ゼゑヅチッ２行目
+素材0x957１行目 素材0x957２行目
 
 [msg material_958]
-素材ゼゑヅチツ１行目 素材ゼゑヅチツ２行目
+素材0x958１行目 素材0x958２行目
 
 [msg material_959]
-素材ゼゑヅチヅ１行目 素材ゼゑヅチヅ２行目
+素材0x959１行目 素材0x959２行目
 
 [msg material_95A]
-素材ゼゑヅチだ１行目 素材ゼゑヅチだ２行目
+素材0x95A１行目 素材0x95A２行目
 
 [msg material_95B]
-素材ゼゑヅチち１行目 素材ゼゑヅチち２行目
+素材0x95B１行目 素材0x95B２行目
 
 [msg material_95C]
-素材ゼゑヅチぢ１行目 素材ゼゑヅチぢ２行目
+素材0x95C１行目 素材0x95C２行目
 
 [msg material_95D]
-素材ゼゑヅチっ１行目 素材ゼゑヅチっ２行目
+素材0x95D１行目 素材0x95D２行目
 
 [msg material_95E]
-素材ゼゑヅチつ１行目 素材ゼゑヅチつ２行目
+素材0x95E１行目 素材0x95E２行目
 
 [msg material_95F]
-素材ゼゑヅチづ１行目 素材ゼゑヅチづ２行目
+素材0x95F１行目 素材0x95F２行目
 
 [msg material_960]
-素材ゼゑヅヂゼ１行目 素材ゼゑヅヂゼ２行目
+素材0x960１行目 素材0x960２行目
 
 [msg material_961]
-素材ゼゑヅヂソ１行目 素材ゼゑヅヂソ２行目
+素材0x961１行目 素材0x961２行目
 
 [msg material_962]
-素材ゼゑヅヂゾ１行目 素材ゼゑヅヂゾ２行目
+素材0x962１行目 素材0x962２行目
 
 [msg material_963]
-素材ゼゑヅヂタ１行目 素材ゼゑヅヂタ２行目
+素材0x963１行目 素材0x963２行目
 
 [msg material_964]
-素材ゼゑヅヂダ１行目 素材ゼゑヅヂダ２行目
+素材0x964１行目 素材0x964２行目
 
 [msg material_965]
-素材ゼゑヅヂチ１行目 素材ゼゑヅヂチ２行目
+素材0x965１行目 素材0x965２行目
 
 [msg material_966]
-素材ゼゑヅヂヂ１行目 素材ゼゑヅヂヂ２行目
+素材0x966１行目 素材0x966２行目
 
 [msg material_967]
-素材ゼゑヅヂッ１行目 素材ゼゑヅヂッ２行目
+素材0x967１行目 素材0x967２行目
 
 [msg material_968]
-素材ゼゑヅヂツ１行目 素材ゼゑヅヂツ２行目
+素材0x968１行目 素材0x968２行目
 
 [msg material_969]
-素材ゼゑヅヂヅ１行目 素材ゼゑヅヂヅ２行目
+素材0x969１行目 素材0x969２行目
 
 [msg material_96A]
-素材ゼゑヅヂだ１行目 素材ゼゑヅヂだ２行目
+素材0x96A１行目 素材0x96A２行目
 
 [msg material_96B]
-素材ゼゑヅヂち１行目 素材ゼゑヅヂち２行目
+素材0x96B１行目 素材0x96B２行目
 
 [msg material_96C]
-素材ゼゑヅヂぢ１行目 素材ゼゑヅヂぢ２行目
+素材0x96C１行目 素材0x96C２行目
 
 [msg material_96D]
-素材ゼゑヅヂっ１行目 素材ゼゑヅヂっ２行目
+素材0x96D１行目 素材0x96D２行目
 
 [msg material_96E]
-素材ゼゑヅヂつ１行目 素材ゼゑヅヂつ２行目
+素材0x96E１行目 素材0x96E２行目
 
 [msg material_96F]
-素材ゼゑヅヂづ１行目 素材ゼゑヅヂづ２行目
+素材0x96F１行目 素材0x96F２行目
 
 [msg material_970]
-素材ゼゑヅッゼ１行目 素材ゼゑヅッゼ２行目
+素材0x970１行目 素材0x970２行目
 
 [msg material_971]
-素材ゼゑヅッソ１行目 素材ゼゑヅッソ２行目
+素材0x971１行目 素材0x971２行目
 
 [msg material_972]
-素材ゼゑヅッゾ１行目 素材ゼゑヅッゾ２行目
+素材0x972１行目 素材0x972２行目
 
 [msg material_973]
-素材ゼゑヅッタ１行目 素材ゼゑヅッタ２行目
+素材0x973１行目 素材0x973２行目
 
 [msg material_974]
-素材ゼゑヅッダ１行目 素材ゼゑヅッダ２行目
+素材0x974１行目 素材0x974２行目
 
 [msg material_975]
-素材ゼゑヅッチ１行目 素材ゼゑヅッチ２行目
+素材0x975１行目 素材0x975２行目
 
 [msg material_976]
-素材ゼゑヅッヂ１行目 素材ゼゑヅッヂ２行目
+素材0x976１行目 素材0x976２行目
 
 [msg material_977]
-素材ゼゑヅッッ１行目 素材ゼゑヅッッ２行目
+素材0x977１行目 素材0x977２行目
 
 [msg material_978]
-素材ゼゑヅッツ１行目 素材ゼゑヅッツ２行目
+素材0x978１行目 素材0x978２行目
 
 [msg material_979]
-素材ゼゑヅッヅ１行目 素材ゼゑヅッヅ２行目
+素材0x979１行目 素材0x979２行目
 
 [msg material_97A]
-素材ゼゑヅッだ１行目 素材ゼゑヅッだ２行目
+素材0x97A１行目 素材0x97A２行目
 
 [msg material_97B]
-素材ゼゑヅッち１行目 素材ゼゑヅッち２行目
+素材0x97B１行目 素材0x97B２行目
 
 [msg material_97C]
-素材ゼゑヅッぢ１行目 素材ゼゑヅッぢ２行目
+素材0x97C１行目 素材0x97C２行目
 
 [msg material_97D]
-素材ゼゑヅッっ１行目 素材ゼゑヅッっ２行目
+素材0x97D１行目 素材0x97D２行目
 
 [msg material_97E]
-素材ゼゑヅッつ１行目 素材ゼゑヅッつ２行目
+素材0x97E１行目 素材0x97E２行目
 
 [msg material_97F]
-素材ゼゑヅッづ１行目 素材ゼゑヅッづ２行目
+素材0x97F１行目 素材0x97F２行目
 
 [msg material_980]
-素材ゼゑヅツゼ１行目 素材ゼゑヅツゼ２行目
+素材0x980１行目 素材0x980２行目
 
 [msg material_981]
-素材ゼゑヅツソ１行目 素材ゼゑヅツソ２行目
+素材0x981１行目 素材0x981２行目
 
 [msg material_982]
-素材ゼゑヅツゾ１行目 素材ゼゑヅツゾ２行目
+素材0x982１行目 素材0x982２行目
 
 [msg material_983]
-素材ゼゑヅツタ１行目 素材ゼゑヅツタ２行目
+素材0x983１行目 素材0x983２行目
 
 [msg material_984]
-素材ゼゑヅツダ１行目 素材ゼゑヅツダ２行目
+素材0x984１行目 素材0x984２行目
 
 [msg material_985]
-素材ゼゑヅツチ１行目 素材ゼゑヅツチ２行目
+素材0x985１行目 素材0x985２行目
 
 [msg material_986]
-素材ゼゑヅツヂ１行目 素材ゼゑヅツヂ２行目
+素材0x986１行目 素材0x986２行目
 
 [msg material_987]
-素材ゼゑヅツッ１行目 素材ゼゑヅツッ２行目
+素材0x987１行目 素材0x987２行目
 
 [msg material_988]
-素材ゼゑヅツツ１行目 素材ゼゑヅツツ２行目
+素材0x988１行目 素材0x988２行目
 
 [msg material_989]
-素材ゼゑヅツヅ１行目 素材ゼゑヅツヅ２行目
+素材0x989１行目 素材0x989２行目
 
 [msg material_98A]
-素材ゼゑヅツだ１行目 素材ゼゑヅツだ２行目
+素材0x98A１行目 素材0x98A２行目
 
 [msg material_98B]
-素材ゼゑヅツち１行目 素材ゼゑヅツち２行目
+素材0x98B１行目 素材0x98B２行目
 
 [msg material_98C]
-素材ゼゑヅツぢ１行目 素材ゼゑヅツぢ２行目
+素材0x98C１行目 素材0x98C２行目
 
 [msg material_98D]
-素材ゼゑヅツっ１行目 素材ゼゑヅツっ２行目
+素材0x98D１行目 素材0x98D２行目
 
 [msg material_98E]
-素材ゼゑヅツつ１行目 素材ゼゑヅツつ２行目
+素材0x98E１行目 素材0x98E２行目
 
 [msg material_98F]
-素材ゼゑヅツづ１行目 素材ゼゑヅツづ２行目
+素材0x98F１行目 素材0x98F２行目
 
 [msg material_990]
-素材ゼゑヅヅゼ１行目 素材ゼゑヅヅゼ２行目
+素材0x990１行目 素材0x990２行目
 
 [msg material_991]
-素材ゼゑヅヅソ１行目 素材ゼゑヅヅソ２行目
+素材0x991１行目 素材0x991２行目
 
 [msg material_992]
-素材ゼゑヅヅゾ１行目 素材ゼゑヅヅゾ２行目
+素材0x992１行目 素材0x992２行目
 
 [msg material_993]
-素材ゼゑヅヅタ１行目 素材ゼゑヅヅタ２行目
+素材0x993１行目 素材0x993２行目
 
 [msg material_994]
-素材ゼゑヅヅダ１行目 素材ゼゑヅヅダ２行目
+素材0x994１行目 素材0x994２行目
 
 [msg material_995]
-素材ゼゑヅヅチ１行目 素材ゼゑヅヅチ２行目
+素材0x995１行目 素材0x995２行目
 
 [msg material_996]
-素材ゼゑヅヅヂ１行目 素材ゼゑヅヅヂ２行目
+素材0x996１行目 素材0x996２行目
 
 [msg material_997]
-素材ゼゑヅヅッ１行目 素材ゼゑヅヅッ２行目
+素材0x997１行目 素材0x997２行目
 
 [msg material_998]
-素材ゼゑヅヅツ１行目 素材ゼゑヅヅツ２行目
+素材0x998１行目 素材0x998２行目
 
 [msg material_999]
-素材ゼゑヅヅヅ１行目 素材ゼゑヅヅヅ２行目
+素材0x999１行目 素材0x999２行目
 
 [msg material_99A]
-素材ゼゑヅヅだ１行目 素材ゼゑヅヅだ２行目
+素材0x99A１行目 素材0x99A２行目
 
 [msg material_99B]
-素材ゼゑヅヅち１行目 素材ゼゑヅヅち２行目
+素材0x99B１行目 素材0x99B２行目
 
 [msg material_99C]
-素材ゼゑヅヅぢ１行目 素材ゼゑヅヅぢ２行目
+素材0x99C１行目 素材0x99C２行目
 
 [msg material_99D]
-素材ゼゑヅヅっ１行目 素材ゼゑヅヅっ２行目
+素材0x99D１行目 素材0x99D２行目
 
 [msg material_99E]
-素材ゼゑヅヅつ１行目 素材ゼゑヅヅつ２行目
+素材0x99E１行目 素材0x99E２行目
 
 [msg material_99F]
-素材ゼゑヅヅづ１行目 素材ゼゑヅヅづ２行目
+素材0x99F１行目 素材0x99F２行目
 
 [msg material_9A0]
-素材ゼゑヅだゼ１行目 素材ゼゑヅだゼ２行目
+素材0x9A0１行目 素材0x9A0２行目
 
 [msg material_9A1]
-素材ゼゑヅだソ１行目 素材ゼゑヅだソ２行目
+素材0x9A1１行目 素材0x9A1２行目
 
 [msg material_9A2]
-素材ゼゑヅだゾ１行目 素材ゼゑヅだゾ２行目
+素材0x9A2１行目 素材0x9A2２行目
 
 [msg material_9A3]
-素材ゼゑヅだタ１行目 素材ゼゑヅだタ２行目
+素材0x9A3１行目 素材0x9A3２行目
 
 [msg material_9A4]
-素材ゼゑヅだダ１行目 素材ゼゑヅだダ２行目
+素材0x9A4１行目 素材0x9A4２行目
 
 [msg material_9A5]
-素材ゼゑヅだチ１行目 素材ゼゑヅだチ２行目
+素材0x9A5１行目 素材0x9A5２行目
 
 [msg material_9A6]
-素材ゼゑヅだヂ１行目 素材ゼゑヅだヂ２行目
+素材0x9A6１行目 素材0x9A6２行目
 
 [msg material_9A7]
-素材ゼゑヅだッ１行目 素材ゼゑヅだッ２行目
+素材0x9A7１行目 素材0x9A7２行目
 
 [msg material_9A8]
-素材ゼゑヅだツ１行目 素材ゼゑヅだツ２行目
+素材0x9A8１行目 素材0x9A8２行目
 
 [msg material_9A9]
-素材ゼゑヅだヅ１行目 素材ゼゑヅだヅ２行目
+素材0x9A9１行目 素材0x9A9２行目
 
 [msg material_9AA]
-素材ゼゑヅだだ１行目 素材ゼゑヅだだ２行目
+素材0x9AA１行目 素材0x9AA２行目
 
 [msg material_9AB]
-素材ゼゑヅだち１行目 素材ゼゑヅだち２行目
+素材0x9AB１行目 素材0x9AB２行目
 
 [msg material_9AC]
-素材ゼゑヅだぢ１行目 素材ゼゑヅだぢ２行目
+素材0x9AC１行目 素材0x9AC２行目
 
 [msg material_9AD]
-素材ゼゑヅだっ１行目 素材ゼゑヅだっ２行目
+素材0x9AD１行目 素材0x9AD２行目
 
 [msg material_9AE]
-素材ゼゑヅだつ１行目 素材ゼゑヅだつ２行目
+素材0x9AE１行目 素材0x9AE２行目
 
 [msg material_9AF]
-素材ゼゑヅだづ１行目 素材ゼゑヅだづ２行目
+素材0x9AF１行目 素材0x9AF２行目
 
 [msg material_9B0]
-素材ゼゑヅちゼ１行目 素材ゼゑヅちゼ２行目
+素材0x9B0１行目 素材0x9B0２行目
 
 [msg material_9B1]
-素材ゼゑヅちソ１行目 素材ゼゑヅちソ２行目
+素材0x9B1１行目 素材0x9B1２行目
 
 [msg material_9B2]
-素材ゼゑヅちゾ１行目 素材ゼゑヅちゾ２行目
+素材0x9B2１行目 素材0x9B2２行目
 
 [msg material_9B3]
-素材ゼゑヅちタ１行目 素材ゼゑヅちタ２行目
+素材0x9B3１行目 素材0x9B3２行目
 
 [msg material_9B4]
-素材ゼゑヅちダ１行目 素材ゼゑヅちダ２行目
+素材0x9B4１行目 素材0x9B4２行目
 
 [msg material_9B5]
-素材ゼゑヅちチ１行目 素材ゼゑヅちチ２行目
+素材0x9B5１行目 素材0x9B5２行目
 
 [msg material_9B6]
-素材ゼゑヅちヂ１行目 素材ゼゑヅちヂ２行目
+素材0x9B6１行目 素材0x9B6２行目
 
 [msg material_9B7]
-素材ゼゑヅちッ１行目 素材ゼゑヅちッ２行目
+素材0x9B7１行目 素材0x9B7２行目
 
 [msg material_9B8]
-素材ゼゑヅちツ１行目 素材ゼゑヅちツ２行目
+素材0x9B8１行目 素材0x9B8２行目
 
 [msg material_9B9]
-素材ゼゑヅちヅ１行目 素材ゼゑヅちヅ２行目
+素材0x9B9１行目 素材0x9B9２行目
 
 [msg material_9BA]
-素材ゼゑヅちだ１行目 素材ゼゑヅちだ２行目
+素材0x9BA１行目 素材0x9BA２行目
 
 [msg material_9BB]
-素材ゼゑヅちち１行目 素材ゼゑヅちち２行目
+素材0x9BB１行目 素材0x9BB２行目
 
 [msg material_9BC]
-素材ゼゑヅちぢ１行目 素材ゼゑヅちぢ２行目
+素材0x9BC１行目 素材0x9BC２行目
 
 [msg material_9BD]
-素材ゼゑヅちっ１行目 素材ゼゑヅちっ２行目
+素材0x9BD１行目 素材0x9BD２行目
 
 [msg material_9BE]
-素材ゼゑヅちつ１行目 素材ゼゑヅちつ２行目
+素材0x9BE１行目 素材0x9BE２行目
 
 [msg material_9BF]
-素材ゼゑヅちづ１行目 素材ゼゑヅちづ２行目
+素材0x9BF１行目 素材0x9BF２行目
 
 [msg material_9C0]
-素材ゼゑヅぢゼ１行目 素材ゼゑヅぢゼ２行目
+素材0x9C0１行目 素材0x9C0２行目
 
 [msg material_9C1]
-素材ゼゑヅぢソ１行目 素材ゼゑヅぢソ２行目
+素材0x9C1１行目 素材0x9C1２行目
 
 [msg material_9C2]
-素材ゼゑヅぢゾ１行目 素材ゼゑヅぢゾ２行目
+素材0x9C2１行目 素材0x9C2２行目
 
 [msg material_9C3]
-素材ゼゑヅぢタ１行目 素材ゼゑヅぢタ２行目
+素材0x9C3１行目 素材0x9C3２行目
 
 [msg material_9C4]
-素材ゼゑヅぢダ１行目 素材ゼゑヅぢダ２行目
+素材0x9C4１行目 素材0x9C4２行目
 
 [msg material_9C5]
-素材ゼゑヅぢチ１行目 素材ゼゑヅぢチ２行目
+素材0x9C5１行目 素材0x9C5２行目
 
 [msg material_9C6]
-素材ゼゑヅぢヂ１行目 素材ゼゑヅぢヂ２行目
+素材0x9C6１行目 素材0x9C6２行目
 
 [msg material_9C7]
-素材ゼゑヅぢッ１行目 素材ゼゑヅぢッ２行目
+素材0x9C7１行目 素材0x9C7２行目
 
 [msg material_9C8]
-素材ゼゑヅぢツ１行目 素材ゼゑヅぢツ２行目
+素材0x9C8１行目 素材0x9C8２行目
 
 [msg material_9C9]
-素材ゼゑヅぢヅ１行目 素材ゼゑヅぢヅ２行目
+素材0x9C9１行目 素材0x9C9２行目
 
 [msg material_9CA]
-素材ゼゑヅぢだ１行目 素材ゼゑヅぢだ２行目
+素材0x9CA１行目 素材0x9CA２行目
 
 [msg material_9CB]
-素材ゼゑヅぢち１行目 素材ゼゑヅぢち２行目
+素材0x9CB１行目 素材0x9CB２行目
 
 [msg material_9CC]
-素材ゼゑヅぢぢ１行目 素材ゼゑヅぢぢ２行目
+素材0x9CC１行目 素材0x9CC２行目
 
 [msg material_9CD]
-素材ゼゑヅぢっ１行目 素材ゼゑヅぢっ２行目
+素材0x9CD１行目 素材0x9CD２行目
 
 [msg material_9CE]
-素材ゼゑヅぢつ１行目 素材ゼゑヅぢつ２行目
+素材0x9CE１行目 素材0x9CE２行目
 
 [msg material_9CF]
-素材ゼゑヅぢづ１行目 素材ゼゑヅぢづ２行目
+素材0x9CF１行目 素材0x9CF２行目
 
 [msg material_9D0]
-素材ゼゑヅっゼ１行目 素材ゼゑヅっゼ２行目
+素材0x9D0１行目 素材0x9D0２行目
 
 [msg material_9D1]
-素材ゼゑヅっソ１行目 素材ゼゑヅっソ２行目
+素材0x9D1１行目 素材0x9D1２行目
 
 [msg material_9D2]
-素材ゼゑヅっゾ１行目 素材ゼゑヅっゾ２行目
+素材0x9D2１行目 素材0x9D2２行目
 
 [msg material_9D3]
-素材ゼゑヅっタ１行目 素材ゼゑヅっタ２行目
+素材0x9D3１行目 素材0x9D3２行目
 
 [msg material_9D4]
-素材ゼゑヅっダ１行目 素材ゼゑヅっダ２行目
+素材0x9D4１行目 素材0x9D4２行目
 
 [msg material_9D5]
-素材ゼゑヅっチ１行目 素材ゼゑヅっチ２行目
+素材0x9D5１行目 素材0x9D5２行目
 
 [msg material_9D6]
-素材ゼゑヅっヂ１行目 素材ゼゑヅっヂ２行目
+素材0x9D6１行目 素材0x9D6２行目
 
 [msg material_9D7]
-素材ゼゑヅっッ１行目 素材ゼゑヅっッ２行目
+素材0x9D7１行目 素材0x9D7２行目
 
 [msg material_9D8]
-素材ゼゑヅっツ１行目 素材ゼゑヅっツ２行目
+素材0x9D8１行目 素材0x9D8２行目
 
 [msg material_9D9]
-素材ゼゑヅっヅ１行目 素材ゼゑヅっヅ２行目
+素材0x9D9１行目 素材0x9D9２行目
 
 [msg material_9DA]
-素材ゼゑヅっだ１行目 素材ゼゑヅっだ２行目
+素材0x9DA１行目 素材0x9DA２行目
 
 [msg material_9DB]
-素材ゼゑヅっち１行目 素材ゼゑヅっち２行目
+素材0x9DB１行目 素材0x9DB２行目
 
 [msg material_9DC]
-素材ゼゑヅっぢ１行目 素材ゼゑヅっぢ２行目
+素材0x9DC１行目 素材0x9DC２行目
 
 [msg material_9DD]
-素材ゼゑヅっっ１行目 素材ゼゑヅっっ２行目
+素材0x9DD１行目 素材0x9DD２行目
 
 [msg material_9DE]
-素材ゼゑヅっつ１行目 素材ゼゑヅっつ２行目
+素材0x9DE１行目 素材0x9DE２行目
 
 [msg material_9DF]
-素材ゼゑヅっづ１行目 素材ゼゑヅっづ２行目
+素材0x9DF１行目 素材0x9DF２行目
 
 [msg material_9E0]
-素材ゼゑヅつゼ１行目 素材ゼゑヅつゼ２行目
+素材0x9E0１行目 素材0x9E0２行目
 
 [msg material_9E1]
-素材ゼゑヅつソ１行目 素材ゼゑヅつソ２行目
+素材0x9E1１行目 素材0x9E1２行目
 
 [msg material_9E2]
-素材ゼゑヅつゾ１行目 素材ゼゑヅつゾ２行目
+素材0x9E2１行目 素材0x9E2２行目
 
 [msg material_9E3]
-素材ゼゑヅつタ１行目 素材ゼゑヅつタ２行目
+素材0x9E3１行目 素材0x9E3２行目
 
 [msg material_9E4]
-素材ゼゑヅつダ１行目 素材ゼゑヅつダ２行目
+素材0x9E4１行目 素材0x9E4２行目
 
 [msg material_9E5]
-素材ゼゑヅつチ１行目 素材ゼゑヅつチ２行目
+素材0x9E5１行目 素材0x9E5２行目
 
 [msg material_9E6]
-素材ゼゑヅつヂ１行目 素材ゼゑヅつヂ２行目
+素材0x9E6１行目 素材0x9E6２行目
 
 [msg material_9E7]
-素材ゼゑヅつッ１行目 素材ゼゑヅつッ２行目
+素材0x9E7１行目 素材0x9E7２行目
 
 [msg material_9E8]
-素材ゼゑヅつツ１行目 素材ゼゑヅつツ２行目
+素材0x9E8１行目 素材0x9E8２行目
 
 [msg material_9E9]
-素材ゼゑヅつヅ１行目 素材ゼゑヅつヅ２行目
+素材0x9E9１行目 素材0x9E9２行目
 
 [msg material_9EA]
-素材ゼゑヅつだ１行目 素材ゼゑヅつだ２行目
+素材0x9EA１行目 素材0x9EA２行目
 
 [msg material_9EB]
-素材ゼゑヅつち１行目 素材ゼゑヅつち２行目
+素材0x9EB１行目 素材0x9EB２行目
 
 [msg material_9EC]
-素材ゼゑヅつぢ１行目 素材ゼゑヅつぢ２行目
+素材0x9EC１行目 素材0x9EC２行目
 
 [msg material_9ED]
-素材ゼゑヅつっ１行目 素材ゼゑヅつっ２行目
+素材0x9ED１行目 素材0x9ED２行目
 
 [msg material_9EE]
-素材ゼゑヅつつ１行目 素材ゼゑヅつつ２行目
+素材0x9EE１行目 素材0x9EE２行目
 
 [msg material_9EF]
-素材ゼゑヅつづ１行目 素材ゼゑヅつづ２行目
+素材0x9EF１行目 素材0x9EF２行目
 
 [msg material_9F0]
-素材ゼゑヅづゼ１行目 素材ゼゑヅづゼ２行目
+素材0x9F0１行目 素材0x9F0２行目
 
 [msg material_9F1]
-素材ゼゑヅづソ１行目 素材ゼゑヅづソ２行目
+素材0x9F1１行目 素材0x9F1２行目
 
 [msg material_9F2]
-素材ゼゑヅづゾ１行目 素材ゼゑヅづゾ２行目
+素材0x9F2１行目 素材0x9F2２行目
 
 [msg material_9F3]
-素材ゼゑヅづタ１行目 素材ゼゑヅづタ２行目
+素材0x9F3１行目 素材0x9F3２行目
 
 [msg material_9F4]
-素材ゼゑヅづダ１行目 素材ゼゑヅづダ２行目
+素材0x9F4１行目 素材0x9F4２行目
 
 [msg material_9F5]
-素材ゼゑヅづチ１行目 素材ゼゑヅづチ２行目
+素材0x9F5１行目 素材0x9F5２行目
 
 [msg material_9F6]
-素材ゼゑヅづヂ１行目 素材ゼゑヅづヂ２行目
+素材0x9F6１行目 素材0x9F6２行目
 
 [msg material_9F7]
-素材ゼゑヅづッ１行目 素材ゼゑヅづッ２行目
+素材0x9F7１行目 素材0x9F7２行目
 
 [msg material_9F8]
-素材ゼゑヅづツ１行目 素材ゼゑヅづツ２行目
+素材0x9F8１行目 素材0x9F8２行目
 
 [msg material_9F9]
-素材ゼゑヅづヅ１行目 素材ゼゑヅづヅ２行目
+素材0x9F9１行目 素材0x9F9２行目
 
 [msg material_9FA]
-素材ゼゑヅづだ１行目 素材ゼゑヅづだ２行目
+素材0x9FA１行目 素材0x9FA２行目
 
 [msg material_9FB]
-素材ゼゑヅづち１行目 素材ゼゑヅづち２行目
+素材0x9FB１行目 素材0x9FB２行目
 
 [msg material_9FC]
-素材ゼゑヅづぢ１行目 素材ゼゑヅづぢ２行目
+素材0x9FC１行目 素材0x9FC２行目
 
 [msg material_9FD]
-素材ゼゑヅづっ１行目 素材ゼゑヅづっ２行目
+素材0x9FD１行目 素材0x9FD２行目
 
 [msg material_9FE]
-素材ゼゑヅづつ１行目 素材ゼゑヅづつ２行目
+素材0x9FE１行目 素材0x9FE２行目
 

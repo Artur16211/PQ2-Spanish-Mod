@@ -1,63 +1,63 @@
 [msg chara_000]
-ちゅぺょや
+Blank
 
 [msg chara_001]
-ドづもゅぺ づるよょろぺゅナ ひもまゆらるま ゅもれろよ らぺるぺ ゅぺ[n]ほぺろぺゅゅぺデ ゆまゃよる ぼよょ ぺろぺりゎまれ ぽま ぼよるろま を[n]まゅイぼろるもぼよれテ
+(Fila Frontal) Siempre listo para la[n]batalla, mejor con ataques de corte y[n]el姻ctricos.
 
 [msg chara_002]
-ドづもゅぺ づるよょろぺゅナ ぴょ ゅゎぼめぺぽよる わまるれァろもゅデ[n]めァほもゅ ぼよょ ろよぽぺれ ゅぺれ ぺみもょもぽぺぽまれテ
+(Fila Frontal) Un luchador vers茨til,[n]h茨bil con todas las afinidades.
 
 [msg chara_003]
-ドづもゅぺ づるよょろぺゅナ ぴょ ゅゎぼめぺぽよる ァむもゅ りゎま れま[n]まれらまぼもぺゅもんぺ まょ ぺろぺりゎまれ ぽま ぼよるろま を[n]ふもまょろよテ
+(Fila Frontal) Un luchador 茨gil que se[n]especializa en ataques de corte y[n]Viento.
 
 [msg chara_004]
-ドづもゅぺ づるよょろぺゅナ ぴょぺ ぼめもぼぺ まゑらまるろぺ まょ やゎょむ[n]みゎ ぼよょ ぺゅろぺ まわぺれもカょ を ぺろぺりゎまれ ぼるウろもぼよれテ
+(Fila Frontal) Una chica experta en kung[n]fu con alta evasi吋n y ataques cr胤ticos.
 
 [msg chara_005]
-ドづもゅぺ びるぺれまるぺナ つゅまむぺょろまデ ぺらるよらもぺぽぺ を[n]ゆよるろぺゅデ ィらまるよ ぼゎもぽぺぽよ ぼよょ れゎ れぺゅゎぽ!
+(Fila Trasera) Elegante, apropiada y[n]mortal, 斡pero cuidado con su salud!
 
 [msg chara_006]
-ねもょむゎょよ
+Ninguno
 
 [msg chara_007]
-ドづもゅぺ づるよょろぺゅナ はるよろまむま ぺ れゎれ ぼよゆらぺォまるよれ[n]ぼよょ ゎょぺ ぺゅろぺ ぽまみまょれぺ を よみまょれぺテ
+(Fila Frontal) Protege a sus compa隠eros[n]con una alta defensa y ofensa.
 
 [msg chara_008]
-ドづもゅぺ びるぺれまるぺナ ぴょ ぽまろまぼろもわま ぽま ろぺゆぺォよ[n]らまりゎまォよデ まゑぼまゅまょろま ぼよょ めぺほもゅもぽぺぽまれ ぽま[n]まょゅぺぼまテ
+(Fila Trasera) Un detective de tama隠o[n]peque隠o, excelente con habilidades de[n]enlace.
 
 [msg chara_009]
-ドづもゅぺ づるよょろぺゅナ ぴょぺ ゆぺれぼよろぺ[n]ぺゎろよらるよぼゅぺゆぺぽぺ りゎま ぺをゎぽぺ ぺゅ むるゎらよ まょ[n]ぼよゆほぺろまテ
+(Fila Frontal) Una mascota[n]autoproclamada que ayuda al grupo en[n]combate.
 
 [msg chara_00A]
-ドづもゅぺ びるぺれまるぺナ ぴょぺ ぼめもぼぺ ぽま めゎゆよる[n]わぺるもぺほゅま りゎま れよほるまれぺゅま まょ めぺほもゅもぽぺぽまれ ぽま[n]ふもまょろよ を るまぼゎらまるぺぼもカょテ
+(Fila Trasera) Una chica de humor[n]variable que sobresale en habilidades de[n]Viento y recuperaci吋n.
 
 [msg chara_00B]
-ドづもゅぺ づるよょろぺゅナ ぴょ らるまれゎゆもぽよ ぼよょ[n]めぺほもゅもぽぺぽまれ まりゎもゅもほるぺぽぺれ まょ ぺろぺりゎまデ[n]ぽまみまょれぺ を ぼよょろるぺぺろぺりゎまテ
+(Fila Frontal) Un presumido con[n]habilidades equilibradas en ataque,[n]defensa y contraataque.
 
 [msg chara_00C]
-ドづもゅぺ づるよょろぺゅナ ぴょ ほよゑまぺぽよる れもょ るもわぺゅ りゎま[n]もょみゅもむま ゎょ ぽぺォよ まゑろるまゆよテ
+(Fila Frontal) Un boxeador sin rival que[n]inflige un da隠o extremo.
 
 [msg chara_00D]
-ドづるよょろ よる ちぺぼやナ ひまゅゅぺ ゅぺれ めぺほもゅもぽぺぽまれ[n]ぽまゅ まょまゆもむよ を ゅぺれ るまゆぺろぺ ぼよょ ゆぺむもぺ ぽま[n]でもまゅよテ
+(Front or Back) Sella las habilidades[n]del enemigo y las remata con magia de[n]Hielo.
 
 [msg chara_00E]
-ねよょま
+None
 
 [msg chara_00F]
-ドづるよょろ よる ちぺぼやナ だるゆぺ ぺょろも-れよゆほるぺれ りゎま[n]らゎまぽま ぺぼろもわぺる れゎ ぬよぽよ っまれまょみるまょよテ
+(Front or Back) Arma anti-sombras que[n]puede activar su Modo Desenfreno.
 
 [msg chara_010]
-ドづもゅぺ びるぺれまるぺナ つれ むまょもぺゅ ぼよょ めぺほもゅもぽぺぽまれ[n]づウれもぼぺれ を ぽま つゅまぼろるもぼもぽぺぽデ ィらまるよ ろもまょま[n]らよぼぺ れぺゅゎぽ!
+(Fila Trasera) Es genial con habilidades[n]F胤sicas y de Electricidad, 斡pero tiene[n]poca salud!
 
 [msg chara_011]
-ドづもゅぺ びるぺれまるぺナ ぱァらもぽよ を ゆぺょまゃぺ ゆぺむもぺ ぽま[n]づゎまむよ を よれぼゎるもぽぺぽデ ィらまるよ ょよ まれ[n]るまれもれろまょろま!
+(Fila Trasera) R茨pido y maneja magia de[n]Fuego y oscuridad, 斡pero no es[n]resistente!
 
 [msg chara_012]
-ドづもゅぺ づるよょろぺゅナ つゅ ろもらよ ゆァれ るまれもれろまょろまデ[n]らまるよ まゑろるまゆぺぽぺゆまょろま わゎゅょまるぺほゅま ぺ ゅぺ[n]ゆぺむもぺテ
+(Fila Frontal) El tipo m茨s resistente,[n]pero extremadamente vulnerable a la[n]magia.
 
 [msg chara_013]
-ドづもゅぺ びるぺれまるぺナ べまょ ぺろぺぼぺデ ゆもまょろるぺれ りゎま[n]ぱまも ぼゎるぺテ だゆほよれ ゎろもゅもんぺょ めぺほもゅもぽぺぽまれ[n]ゆもれろまるもよれぺれテテテ
+(Fila Trasera) Zen ataca, mientras que[n]Rei cura. Ambos utilizan habilidades[n]misteriosas...
 
 [msg chara_014]
-ドづもゅぺ びるぺれまるぺナ べまょ めぺ るまぼゎらまるぺぽよ れゎれ[n]るまぼゎまるぽよれ を れゎれ めぺほもゅもぽぺぽまれテテテ
+(Fila Trasera) Zen ha recuperado sus[n]recuerdos y sus habilidades...
 

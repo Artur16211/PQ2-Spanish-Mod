@@ -3,34 +3,34 @@ S胤
 No
 
 [msg BTLMSGID_RESULT01]
-Su nivel ha aumentado!
+斡El nivel de [f 2 4 0] subi吋!
 
 [msg BTLMSGID_RESULT02]
-nivel ha aumentado en[n][f 2 4 1]!
+斡[f 2 4 0] subi吋 por[n][f 2 4 1]!
 
 [msg BTLMSGID_RESULT03]
-ha aprendido [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] aprendi吋[n][f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg BTLMSGID_RESULT04]
-びよぽよれ ゅよれ まれらぺぼもよれ ぽま めぺほもゅもぽぺぽ まれろァょ[n]ゅゅまょよれテ はよる みぺわよるデ れまゅまぼぼもよょぺ ゎょぺ めぺほもゅもぽぺぽ[n]らぺるぺ ほよるるぺるテ
+Este Persona no puede recordar m茨s[n]habilidades. Por favor elige una para[n]olvidar.
 
 [msg BTLMSGID_RESULT05]
-夷Borrar [f 0 1 1][f 2 4 0][f 0 1 0]?
+夷Olvidar [f 0 1 1][f 2 4 0][f 0 1 0]?
 
 [msg BTLMSGID_RESULT06]
-olvid吋 [f 0 1 1][f 2 4 1][f 0 1 0].
+[f 0 1 1][f 2 4 0][f 0 1 0] ha olvidado[n][f 0 1 1][f 2 4 1][f 0 1 0].
 
 [msg BTLMSGID_RESULT07]
-ha reemplazado [f 0 1 1][f 2 4 0][f 0 1 0].
+[f 0 1 1][f 2 4 1][f 0 1 0] ha reemplazado a[n][f 0 1 1][f 2 4 0][f 0 1 0].
 
 [msg BTLMSGID_RESULT08]
-ha sido mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] mejor吋 a[n][f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg BTLMSGID_RESULT09]
-Algo le est茨 a punto de suceder a[n][f 2 4 1]...
+Algo est茨 por ocurrirle a la[n]habilidad [f 2 4 1]...
 
 [msg BTLMSGID_RESULT10]
-dej吋 escapar un grito agudo.
+[f 2 4 0] dej吋 escapar un[n]grito agudo.
 
 [msg BTLMSGID_RESULT11]
 > BTLMSGID_RESULT11
@@ -63,23 +63,23 @@ dej吋 escapar un grito agudo.
 > BTLMSGID_RESULT12
 
 [msg BTLMSGID_RESULT21]
-斡Las ranuras de habilidad han[n]aumentado!
+斡Aument吋 la cantidad de ranuras[n]para habilidad de [f 0 1 1][f 2 4 0][f 0 1 0]!
 
 [msg BTLMSGID_RESULT22]
-a renacido como [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] renaci吋 como[n][f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg BTLMSGID_RESULT23]
-斡Parece que un potencial oculto ha[n]despertado en [f 0 1 1][f 2 4 0][f 0 1 0]...!
+斡Un potencial oculto ha despertado[n]dentro de [f 0 1 1][f 2 4 0][f 0 1 0]...!
 
 [msg BTLMSGID_RESULT24]
-Aprendi吋 todas las habilidades,[n]mensaje de prueba.
+Learned all skills, dummy MSG.
 
 [msg BTLMSGID_RESULT25]
-Mantuvo su forma, 斡pero se ha vuelto[n]m茨s poderoso!
+[f 0 1 1][f 2 4 0][f 0 1 0] mantuvo su forma,[n]斡pero se ha vuelto m茨s poderoso!
 
 [msg BTLMSGID_RESULT26]
-Renacer como [f 0 1 1][f 2 4 0][f 0 1 0] despert吋[n]nuevos poderes.
+斡Haber renacido como [f 0 1 1][f 2 4 0][f 0 1 0] ha[n]despertado nuevos poderes!
 
 [msg BTLMSGID_RESULT27]
-斡Ha sido mejorado!
+斡Ha sido mejorada!
 

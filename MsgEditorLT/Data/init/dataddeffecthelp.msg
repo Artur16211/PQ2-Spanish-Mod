@@ -1,591 +1,591 @@
 [msg addeffect_000]
-ねもょむゎょよ
+Nada
 
 [msg addeffect_001]
-づる +ソ
+Fuerza +1.
 
 [msg addeffect_002]
-づる +ゾ
+Fuerza +2.
 
 [msg addeffect_003]
-づる +タ
+Fuerza +3.
 
 [msg addeffect_004]
-づる +ダ
+Fuerza +4.
 
 [msg addeffect_005]
-づる +チ
+Fuerza +5.
 
 [msg addeffect_006]
-ぱれ +ソ
+Defensa +1.
 
 [msg addeffect_007]
-ぱれ +ゾ
+Defensa +2.
 
 [msg addeffect_008]
-ぱれ +タ
+Defensa +3.
 
 [msg addeffect_009]
-ぱれ +ダ
+Defensa +4.
 
 [msg addeffect_010]
-ぱれ +チ
+Defensa +5.
 
 [msg addeffect_011]
-ぬぺ +ソ
+Magia +1.
 
 [msg addeffect_012]
-ぬぺ +ゾ
+Magia +2.
 
 [msg addeffect_013]
-ぬぺ +タ
+Magia +3.
 
 [msg addeffect_014]
-ぬぺ +ダ
+Magia +4.
 
 [msg addeffect_015]
-ぬぺ +チ
+Magia +5.
 
 [msg addeffect_016]
-だむ +ソ
+Agilidad +1.
 
 [msg addeffect_017]
-だむ +ゾ
+Agilidad +2.
 
 [msg addeffect_018]
-だむ +タ
+Agilidad +3.
 
 [msg addeffect_019]
-だむ +ダ
+Agilidad +4.
 
 [msg addeffect_020]
-だむ +チ
+Agilidad +5.
 
 [msg addeffect_021]
-ひゎ +ソ
+Suerte +1.
 
 [msg addeffect_022]
-ひゎ +ゾ
+Suerte +2.
 
 [msg addeffect_023]
-ひゎ +タ
+Suerte +3.
 
 [msg addeffect_024]
-ひゎ +ダ
+Suerte +4.
 
 [msg addeffect_025]
-ひゎ +チ
+Suerte +5.
 
 [msg addeffect_026]
-+ソゼ はひ
+M茨x PS +10.
 
 [msg addeffect_027]
-+ゾゼ はひ
+M茨x PS +20.
 
 [msg addeffect_028]
-+タゼ はひ
+M茨x PS +30.
 
 [msg addeffect_029]
-+ダゼ はひ
+M茨x PS +40.
 
 [msg addeffect_030]
-+チゼ はひ
+M茨x PS +50.
 
 [msg addeffect_031]
-+ソゼ はつ
+M茨x PE +10.
 
 [msg addeffect_032]
-+ゾゼ はつ
+M茨x PE +20.
 
 [msg addeffect_033]
-+タゼ はつ
+M茨x PE +30.
 
 [msg addeffect_034]
-+ダゼ はつ
+M茨x PE +40.
 
 [msg addeffect_035]
-+チゼ はつ
+M茨x PE +50.
 
 [msg addeffect_036]
-はるよほテ ちぺゃぺ ぽま ぢよょみゎれもカょ
+Baja probabilidad de provocar P茨nico.
 
 [msg addeffect_037]
-はるよほテ ぬまぽもぺ ぽま ぢよょみゎれもカょ
+Media probabilidad de provocar P茨nico.
 
 [msg addeffect_038]
-はるよほテ ぺゅろぺ ぽま ぢよょみゎれもカょ
+Alta probabilidad de provocar P茨nico.
 
 [msg addeffect_039]
-はるよほテ ちぺゃぺ ぽま つょわテ
+Baja probabilidad de Envenenar.
 
 [msg addeffect_040]
-はるよほテ ちぺゃぺ ぽま つょわテ
+Media probabilidad de Envenenar.
 
 [msg addeffect_041]
-はるよほテ ちぺゃぺ ぽま つょわテ
+Alta probabilidad de Envenenar.
 
 [msg addeffect_042]
-はるよほテ ちぺゃぺ ぽま ぬもまぽよ
+Baja probabilidad de Asustar.
 
 [msg addeffect_043]
-はるよほテ ぬまぽもぺ ぽま ぬもまぽよ
+Media probabilidad de Asustar.
 
 [msg addeffect_044]
-はるよほテ ぺゅろぺ ぽま ぬもまぽよ
+Alta probabilidad de Asustar.
 
 [msg addeffect_045]
-はるよほテ ちぺゃぺ ぽま づゎるもぺ
+Baja probabilidad de Enfurecer.
 
 [msg addeffect_046]
-はるよほテ ぬまぽもぺ ぽま づゎるもぺ
+Media probabilidad de Enfurecer.
 
 [msg addeffect_047]
-はるよほテ ぺゅろぺ ぽま づゎるもぺ
+Alta probabilidad de Enfurecer.
 
 [msg addeffect_048]
-はるよほテ ちぺゃぺ ぽま ぬぺるまよ
+Baja probabilidad de Marear.
 
 [msg addeffect_049]
-はるよほテ ぬまぽもぺ ぽま ぬぺるまよ
+Media probabilidad de Marear.
 
 [msg addeffect_050]
-はるよほテ ぺゅろぺ ぽま ぬぺるまよ
+Alta probabilidad de Marear.
 
 [msg addeffect_051]
-はるよほテ ちぺゃぺ ぽま だむよろぺゆもまょろよ
+Baja probabilidad de Agotar.
 
 [msg addeffect_052]
-はるよほテ ぬまぽもぺ ぽま だむよろぺゆもまょろよ
+Media probabilidad de Agotar.
 
 [msg addeffect_053]
-はるよほテ ぺゅろぺ ぽま だむよろぺゆもまょろよ
+Alta probabilidad de Agotar.
 
 [msg addeffect_054]
-はるよほテ ちぺゃぺ ぽま つょわまゃまぼもゆもまょろよ
+Baja probabilidad de Envejecer.
 
 [msg addeffect_055]
-はるよほテ ぬまぽもぺ ぽま つょわまゃまぼもゆもまょろよ
+Media probabilidad de Envejecer.
 
 [msg addeffect_056]
-はるよほテ ぺゅろぺ ぽま つょわまゃまぼもゆもまょろよ
+Alta probabilidad de Envejecer.
 
 [msg addeffect_057]
-はるよほテ ちぺゃぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ
+Baja probabilidad de sellar Magia.
 
 [msg addeffect_058]
-はるよほテ ぬまぽもぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ
+Media probabilidad de sellar Magia.
 
 [msg addeffect_059]
-はるよほテ ぺゅろぺ ぽま だろぺぽゎるぺ ぬァむもぼぺ
+Alta probabilidad de sellar Magia.
 
 [msg addeffect_060]
-はるよほテ ぼるウろもぼぺ
+Bajo aumento en la probabilidad de[n]cr胤ticos.
 
 [msg addeffect_061]
-はるよほテ ぼるウろもぼぺ+
+Medio aumento en la probabilidad de[n]cr胤ticos.
 
 [msg addeffect_062]
-はるよほテ ぼるウろもぼぺ++
+Alto aumento en la probabilidad de[n]cr胤ticos.
 
 [msg addeffect_063]
-びよぽぺれ ゅぺれ まれろぺぽテ +ソ
++1 todos los stats.
 
 [msg addeffect_064]
-びよぽぺれ ゅぺれ まれろぺぽテ +ゾ
++2 todos los stats.
 
 [msg addeffect_065]
-びよぽぺれ ゅぺれ まれろぺぽテ +タ
++3 todos los stats.
 
 [msg addeffect_066]
-びよぽぺれ ゅぺれ まれろぺぽテ +ダ
++4 todos los stats.
 
 [msg addeffect_067]
-びよぽぺれ ゅぺれ まれろぺぽテ +チ
++5 todos los stats.
 
 [msg addeffect_068]
-つゅ らよぽまる ぽま ぺろぺりゎま ぽま づゎまむよ ぺゎゆまょろカ ゎょ[n]ゾチ%
+Fortalece ataques de Fuego un 25%.
 
 [msg addeffect_069]
-つゅ らよぽまる ぽま ぺろぺりゎま ぽま でもまゅよ ぺゎゆまょろカ ゎょ[n]ゾチ%
+Fortalece ataques de Hielo un 25%.
 
 [msg addeffect_070]
-つゅ らよぽまる ぽま ぺろぺりゎま まゅまぼテ ぺゎゆまょろカ ゎょ ゾチ%
+Fortalece ataques El姻ctricos un 25%.
 
 [msg addeffect_071]
-つょまるむウぺ ぽま ぺろぺりゎま ぽま ふもまょろよ ぺゎゆまょろカ ゎょ[n]ゾチ%
+Fortalece ataques de Viento un 25%.
 
 [msg addeffect_072]
-はるよほテ ぽま るまみゅまゃぺる ぺろぺりゎまれ づウれもぼよれ
+Baja probabilidad de reflejar ataques[n]f胤sicos.
 
 [msg addeffect_073]
-はるよほテ ぽま るまみゅまゃぺる ぺろぺりゎまれ づウれもぼよれ+
+Media probabilidad de reflejar ataques[n]f胤sicos.
 
 [msg addeffect_074]
-はるよほテ ぽま るまみゅまゃぺる ぺろぺりゎまれ づウれもぼよれ++
+Alta probabilidad de reflejar ataques[n]f胤sicos.
 
 [msg addeffect_075]
-ぱまれもれろまょぼもぺ ぼよょろるぺ ぢよょみゎれもカょ
+Resistencia contra el P茨nico.
 
 [msg addeffect_076]
-ぱまれもれろまょぼもぺ ぼよょろるぺ ふまょまょよ
+Resistencia contra el Veneno.
 
 [msg addeffect_077]
-ぱまれもれろまょぼもぺ ぼよょろるぺ ぬもまぽよ
+Resistencia contra el Miedo.
 
 [msg addeffect_078]
-ぱまれもれろまょぼもぺ ぼよょろるぺ づゎるもぺ
+Resistencia contra la Ira.
 
 [msg addeffect_079]
-ぱまれもれろまょぼもぺ ぼよょろるぺ ぬぺるまよ
+Resistencia contra el Mareo.
 
 [msg addeffect_080]
-ぱまれもれろまょぼもぺ ぼよょろるぺ まゅ ぺむよろぺゆもまょろよ
+Resistencia contra el Cansancio.
 
 [msg addeffect_081]
-ぱまれもれろまょぼもぺ ぼよょろるぺ まゅ まょわまゃまぼもゆもまょろよ
+Resistencia contra el Envejecimiento.
 
 [msg addeffect_082]
-ぱまれもれろまょぼもぺ ぼよょろるぺ だろぺぽゎるぺ ゆァむもぼぺ
+Resistencia contra sellos de Magia.
 
 [msg addeffect_083]
-+だゎろよ-びぺるゎやぺゃぺ
+Activa Tarukaja al inicio del combate.
 
 [msg addeffect_084]
-+だゎろよ-ぱぺやゎやぺゃぺ
+Activa Rakukaja al inicio del combate.
 
 [msg addeffect_085]
-+だゎろよ-ひゎやゎやぺゃぺ
+Activa Sukukaja al inicio del combate.
 
 [msg addeffect_086]
-づる +ソゼ
+Fuerza +10.
 
 [msg addeffect_087]
-ぱれ +ソゼ
+Defensa +10.
 
 [msg addeffect_088]
-ぬぺ +ソゼ
+Magia +10.
 
 [msg addeffect_089]
-だむ +ソゼ
+Agilidad +10.
 
 [msg addeffect_090]
-ひゎ +ソゼ
+Suerte +10.
 
 [msg addeffect_091]
-+ソゼゼ はひ
+M茨x PS +100.
 
 [msg addeffect_092]
-はるよほテ ぽま もょみゅもむもる ろよぽよれ ゅよれ まれろぺぽよれ[n]ぺゅろまるぺぽよれ
+Baja probabilidad de infligir estados de[n]padecimiento.
 
 [msg addeffect_093]
-はるよほテ ぽま もょみゅもむもる ろよぽよれ ゅよれ まれろぺぽよれ[n]ぺゅろまるぺぽよれ+
+Media probabilidad de infligir estados[n]de padecimiento.
 
 [msg addeffect_094]
-はるよほテ ぽま もょみゅもむもる ろよぽよれ ゅよれ まれろぺぽよれ[n]ぺゅろまるぺぽよれ++
+Alta probabilidad de infligir estados de[n]padecimiento.
 
 [msg addeffect_095]
-っぺォよ みウれもぼよ るまぽゎぼもぽよ まょ ソゼ%
+Reduce da隠o f胤sico recibido un 10%.
 
 [msg addeffect_096]
-っぺォよ みウれもぼよ るまぽゎぼもぽよ まょ ゾゼ%
+Reduce da隠o f胤sico recibido un 20%.
 
 [msg addeffect_097]
-っぺォよ みウれもぼよ るまぽゎぼもぽよ まょ タゼ%
+Reduce da隠o f胤sico recibido un 30%.
 
 [msg addeffect_098]
-っぺォよ ぺゅ づゎまむよ るまぽゎぼもぽよ まょ ソゼ%
+Reduce da隠o de Fuego recibido un 10%.
 
 [msg addeffect_099]
-っぺォよ ぺゅ づゎまむよ るまぽゎぼもぽよ まょ ゾゼ%
+Reduce da隠o de Fuego recibido un 20%.
 
 [msg addeffect_100]
-っぺォよ ぺゅ づゎまむよ るまぽゎぼもぽよ まょ ゎょ タゼ%
+Reduce da隠o de Fuego recibido un 30%.
 
 [msg addeffect_101]
-っぺォよ ぺゅ でもまゅよ るまぽゎぼもぽよ まょ ゎょ ソゼ%
+Reduce da隠o de Hielo recibido un 10%.
 
 [msg addeffect_102]
-っぺォよ らよる でもまゅよ るまぽゎぼもぽよ まょ ゾゼ%
+Reduce da隠o de Hielo recibido un 20%.
 
 [msg addeffect_103]
-っぺォよ らよる でもまゅよ るまぽゎぼもぽよ まょ ゎょ タゼ%
+Reduce da隠o de Hielo recibido un 30%.
 
 [msg addeffect_104]
-っぺォよ ぺゅ ふもまょろよ るまぽゎぼもぽよ まょ ソゼ%
+Reduce da隠o de Viento recibido un 10%.
 
 [msg addeffect_105]
-っぺォよ ぺゅ ふもまょろよ るまぽゎぼもぽよ まょ ゾゼ%
+Reduce da隠o de Viento recibido un 20%.
 
 [msg addeffect_106]
-っぺォよ ぺゅ ふもまょろよ るまぽゎぼもぽよ まょ タゼ%
+Reduce da隠o de Viento recibido un 30%.
 
 [msg addeffect_107]
-っぺォよ まゅまぼテ るまぽゎぼもぽよ まょ ソゼ%
+Reduce da隠o El姻ctrico recibido un 10%.
 
 [msg addeffect_108]
-っぺォよ まゅまぼテ るまぽゎぼもぽよ まょ ゾゼ%
+Reduce da隠o El姻ctrico recibido un 20%.
 
 [msg addeffect_109]
-っぺォよ まゅまぼテ るまぽゎぼもぽよ まょ タゼ%
+Reduce da隠o El姻ctrico recibido un 30%.
 
 [msg addeffect_110]
-っぺォよ ぬァむもぼよ るまぽゎぼもぽよ まょ ソゼ%
+Reduce da隠o elemental recibido un 10%.
 
 [msg addeffect_111]
-っぺォよ ぬァむもぼよ るまぽゎぼもぽよ まょ ゾゼ%
+Reduce da隠o elemental recibido un 20%.
 
 [msg addeffect_112]
-っぺォよ ぬァむもぼよ るまぽゎぼもぽよ まょ タゼ%
+Reduce da隠o elemental recibido un 30%.
 
 [msg addeffect_113]
-ぱまぽゎぼま ゅぺ らるよほテ ぽま れまる ぽまるるもほぺぽよ
+Reduce probabilidad de tropezar.
 
 [msg addeffect_114]
-ぱまぽゎぼま ゅもむまるぺゆまょろま ゅぺ らるよほテ ぽま れまる[n]ぽまるるもほぺぽよ
+Reduce un poco la probabilidad de[n]tropezar.
 
 [msg addeffect_115]
-てるぺょ るまぽゎぼぼもカょ ぽま らるよほテ ぽま れまる ぽまるるもほぺぽよ
+Reduce mucho la probabilidad de[n]tropezar.
 
 [msg addeffect_116]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ みウれもぼよれ+
+Aumenta probabilidad de esquivar ataques[n]f胤sicos.
 
 [msg addeffect_117]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ みウれもぼよれ
+Aumenta un poco la probabilidad de[n]esquivar ataques f胤sicos.
 
 [msg addeffect_118]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ みウれもぼよれ+
+Aumenta mucho la probabilidad de[n]esquivar ataques f胤sicos.
 
 [msg addeffect_119]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぺ ぺろぺりゎまれ ぽま づゎまむよ+
+Aumenta probabilidad de esquivar ataques[n]de Fuego.
 
 [msg addeffect_120]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぺ ぺろぺりゎまれ ぽま づゎまむよ
+Aumenta un poco la probabilidad de[n]esquivar ataques de Fuego.
 
 [msg addeffect_121]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぺ ぺろぺりゎまれ ぽま づゎまむよ++
+Aumenta mucho la probabilidad de[n]esquivar ataques de Fuego.
 
 [msg addeffect_122]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぽま でもまゅよ+
+Aumenta probabilidad de esquivar ataques[n]de Hielo.
 
 [msg addeffect_123]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぽま でもまゅよ
+Aumenta un poco la probabilidad de[n]esquivar ataques de Hielo.
 
 [msg addeffect_124]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぽま でもまゅよ++
+Aumenta mucho la probabilidad de[n]esquivar ataques de Hielo.
 
 [msg addeffect_125]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぽま ふもまょろよ+
+Aumenta probabilidad de esquivar ataques[n]de Viento.
 
 [msg addeffect_126]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぽま ふもまょろよ
+Aumenta un poco la probabilidad de[n]esquivar ataques de Viento.
 
 [msg addeffect_127]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぽま[n]ふもまょろよ++
+Aumenta mucho la probabilidad de[n]esquivar ataques de Viento.
 
 [msg addeffect_128]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ[n]つゅイぼろるもぼよれ+
+Aumenta probabilidad de esquivar ataques[n]El姻ctricos.
 
 [msg addeffect_129]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ つゅイぼろるもぼよれ
+Aumenta un poco la probabilidad de[n]esquivar ataques El姻ctricos.
 
 [msg addeffect_130]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ[n]つゅイぼろるもぼよれ++
+Aumenta mucho la probabilidad de[n]esquivar ataques El姻ctricos.
 
 [msg addeffect_131]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぬァむもぼよれ+
+Aumenta la probabilidad de esquivar[n]ataques elementales.
 
 [msg addeffect_132]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぬァむもぼよれ
+Aumenta un poco la probabilidad de[n]esquivar ataques elementales.
 
 [msg addeffect_133]
-だゎゆまょろぺ ゅぺ まわぺれもカょ ぽま ぺろぺりゎまれ ぬァむもぼよれ++
+Aumenta mucho la probabilidad de[n]esquivar ataques elementales.
 
 [msg addeffect_134]
-つぷはテ +ソチゼ%
+EXP +150%
 
 [msg addeffect_135]
-はつ ぺ ゅぺ ゆもろぺぽ ぽまれらゎイれ ぽま ゅぺ ほぺろぺゅゅぺ
+Reduce PE a la mitad al final de un[n]combate.
 
 [msg addeffect_136]
-ぢぺるもれゆぺ
+Carisma
 
 [msg addeffect_137]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_138]
-+ソゼゼ はつ
+M茨x PE +100.
 
 [msg addeffect_139]
-びよぽぺれ ゅぺれ まれろぺぽテ +ソゼ
++10 todos los stats.
 
 [msg addeffect_140]
-ぢよれろよ ぽま はつ ろるもらゅもぼぺぽよ
+Costo de PE triplicado.
 
 [msg addeffect_141]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_142]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_143]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_144]
-ぱまれもれろまょぼもぺ ぺゅ づゎまむよ
+Resistencia al Fuego.
 
 [msg addeffect_145]
-ぱまれもれろまょぼもぺ ぺゅ でもまゅよ
+Resistencia al Hielo.
 
 [msg addeffect_146]
-ぱまれもれろまょぼもぺ ぺゅ ふもまょろよ
+Resistencia al Viento.
 
 [msg addeffect_147]
-ぱまれもれろまょぼもぺ つゅまぼテ
+Resistencia El姻ctrica.
 
 [msg addeffect_148]
-ぱまみゅまゃぺ ぺろぺりゎまれ ぽま づゎまむよ
+Refleja el Fuego.
 
 [msg addeffect_149]
-ぱまみゅまゃぺ ぺろぺりゎまれ ぽま でもまゅよ
+Refleja el Hielo.
 
 [msg addeffect_150]
-ぱまみゅまゃぺ ぺろぺりゎまれ ぽま ふもまょろよ
+Refleja el Viento.
 
 [msg addeffect_151]
-ぱまみゅまゃぺ ぺろぺりゎまれ つゅまぼテ
+Refleja la Electricidad.
 
 [msg addeffect_152]
-だほれよるほま づゎまむよ
+Absorve el Fuego.
 
 [msg addeffect_153]
-だほれよるほま でもまゅよ
+Absorbe Hielo
 
 [msg addeffect_154]
-だほれよるほま ふもまょろよ
+Absorbe Viento
 
 [msg addeffect_155]
-だほれよるほま つゅまぼろるもぼもぽぺぽ
+Absorve la Electricidad.
 
 [msg addeffect_156]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_157]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_158]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_159]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_160]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_161]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_162]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_163]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_164]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_165]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_166]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_167]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_168]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_169]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_170]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_171]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_172]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_173]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_174]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_175]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_176]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_177]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_178]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_179]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_180]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_181]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_182]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_183]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_184]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_185]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_186]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_187]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_188]
-ねもょむゎょよ
+Ninguno
 
 [msg addeffect_189]
-だろぺりゎま ぽま づゎまむよ
+Fortalece ataques de Fuego.
 
 [msg addeffect_190]
-だろぺりゎま ぽま でもまゅよ
+Fortalece ataques de Hielo.
 
 [msg addeffect_191]
-だろぺりゎま ぽま ふもまょろよ
+Fortalece ataques de Viento.
 
 [msg addeffect_192]
-だろぺりゎま まゅまぼテ
+Fortalece ataques de Electricidad.
 
 [msg addeffect_193]
-っぺォよ らよる づゎまむよ
+Debilita ataques de Fuego.
 
 [msg addeffect_194]
-っぺォよ らよる でもまゅよ
+Debilita ataques de Hielo.
 
 [msg addeffect_195]
-っぺォよ らよる ふもまょろよ
+Debilita ataques de Viento.
 
 [msg addeffect_196]
-っぺォよ まゅまぼテ
+Debilita ataques de Electricidad.
 

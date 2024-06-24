@@ -6,25 +6,25 @@ No
 斡[f 0 1 1][f 2 4 0][f 0 1 0] ha subido de nivel!
 
 [msg FCL_PERSONA_PARAMUP]
-斡El nivel de [f 0 1 1][f 2 4 0][f 0 1 0] ha[n]aumentado en [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] subi吋 por[n][f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg FCL_PERSONA_GETSKILL]
-斡[f 0 1 1][f 2 4 0][f 0 1 0] ha aprendido[n][f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] aprendi吋[n][f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg FCL_PERSONA_RMSKILL]
-Todos los espacios de habilidades est茨n[n]llenos. Por favor, selecciona una[n]habilidad para borrar.
+Esta Persona no puede recordar ninguna[n]otra habilidad. Por favor elige cu茨l[n]quieres olvidar.
 
 [msg FCL_PERSONA_RMSKILL_Q]
-夷Eliminar [f 0 1 1][f 2 4 0][f 0 1 0]?
+夷Olvidar [f 0 1 1][f 2 4 0][f 0 1 0]?
 
 [msg FCL_PERSONA_RMSKILL0]
-olvidar茨 [f 0 1 1][f 2 4 1][f 0 1 0].
+[f 0 1 1][f 2 4 0][f 0 1 0] ha olvidado[n][f 0 1 1][f 2 4 1][f 0 1 0].
 
 [msg FCL_PERSONA_RMSKILL1]
-ha reemplazado [f 0 1 1][f 2 4 0][f 0 1 0].
+[f 0 1 1][f 2 4 1][f 0 1 0] ha reemplazado[n][f 0 1 1][f 2 4 0][f 0 1 0].
 
 [msg FCL_PERSONA_RMSKILL2]
-se ha mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] fue mejorado a[n][f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg FCL_PERSONA_SKILLSHIFT]
 ......?
@@ -35,10 +35,10 @@ se ha mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
 ＞『[f 0 1 1][f 2 4 0][f 0 1 0]』の泣き声を聞いた…
 
 [msg FCL_PERSONA_SKILLSHIFTCH]
-se ha mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] se ha mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg FCL_PERSONA_SKILLSHIFTUP]
-ha cambiado a [f 0 1 1][f 2 4 1][f 0 1 0]!
+斡[f 0 1 1][f 2 4 0][f 0 1 0] ha cambiado a [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg FCL_PERSONA_SHIFT]
 ＞ペルソナ『[f 0 1 1][f 2 4 0][f 0 1 0]』から[n]何かが産み落とされようとしている…

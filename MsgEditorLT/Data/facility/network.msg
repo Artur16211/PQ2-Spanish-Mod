@@ -2,5 +2,5 @@
 Dummy
 
 [msg NETWORK_TUTORIAL_TO_STAR]
-Ahora est茨s listo para usar StreetPass.[n]Selecciona [f 0 1 2]Configuraci吋n de StreetPass[f 0 1 0].
+Ahora puedes usar StreetPass. Para[n]usarlo, por favor usa la opci吋n[n][f 0 1 2]StreetPass[f 0 1 0] desde el men雨.
 

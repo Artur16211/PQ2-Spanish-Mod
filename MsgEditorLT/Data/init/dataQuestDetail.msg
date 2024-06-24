@@ -1,17 +1,17 @@
 [msg explain_01_quest_00]
-クエスト００ 説明文
+ク夷ス:００ 説明文
 
 [msg explain_02_quest_00]
-クエスト００ 説明文
+ク夷ス:００ 説明文
 
 [msg explain_03_quest_00]
-クエスト００ 説明文
+ク夷ス:００ 説明文
 
 [msg explain_01_quest_01]
 Derrota a los Basaltos.
 
 [msg explain_02_quest_01]
-“クエスト１”[f 0 1 5]テストメッセージ2
+“ク夷ス:１”[f 0 1 5].ス:メ7セージ2
 
 [msg explain_03_quest_01]
 Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].
@@ -20,7 +20,7 @@ Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].
 Alcanza el [f 0 1 8]Destino[f 0 1 5].
 
 [msg explain_02_quest_02]
-“クエスト２”[f 0 1 5]テストメッセージ2
+“ク夷ス:２”[f 0 1 5].ス:メ7セージ2
 
 [msg explain_03_quest_02]
 Esta proyecci吋n especial est茨 [f 0 1 2]completa[f 0 1 0].
@@ -305,7 +305,7 @@ Dummy
 Esta proyecci吋n especial est茨 [f 0 1 8]completa.
 
 [msg explain_01_quest_34]
-カット予定
+吋7:予定
 
 [msg explain_02_quest_34]
 Dummy
@@ -395,7 +395,7 @@ Dummy
 Esta proyecci吋n especial est茨 [f 0 1 8]completa.
 
 [msg explain_01_quest_44]
-カット予定
+吋7:予定
 
 [msg explain_02_quest_44]
 Dummy

@@ -7,7 +7,7 @@ Continuar
 Volver
 
 [msg BTL_CONTINUE]
-Puedes continuar en la dificultad SEGURA. 夷Continuar?  
+La dificultad actual es SEGURA. 夷Continuar?  
 
 [msg BTL_TEAM_DEAD]
 El equipo ha sido eliminado. 夷Continuar batalla?  

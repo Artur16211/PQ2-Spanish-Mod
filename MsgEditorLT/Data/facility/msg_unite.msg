@@ -6,5 +6,5 @@ No
 夷Crear esta arma?
 
 [msg msg_unite_ok]
-Ha sido obtenida!
+Has obtenido [f 0 1 1][f 2 4 0][f 0 1 0].
 

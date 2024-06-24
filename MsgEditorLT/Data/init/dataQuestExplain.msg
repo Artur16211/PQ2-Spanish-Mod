@@ -1,11 +1,11 @@
 [msg quest_explain_000]
-クエスト００の概要です。 ダミーメッセージです。
+ク夷ス:００O概要Hす。 4ミーメ7セージHす。
 
 [msg quest_explain_001]
 斡Derrota a los Basaltos!
 
 [msg quest_explain_002]
-※このクエストはカット
+※こOク夷ス:P吋7:
 
 [msg quest_explain_003]
 斡Derrota a los Gigas fanfarrones!
@@ -14,7 +14,7 @@
 斡Evita los reflectores!
 
 [msg quest_explain_005]
-※このクエストはカット
+※こOク夷ス:P吋7:
 
 [msg quest_explain_006]
 斡Investiga la misteriosa criatura[n]antigua!
@@ -59,7 +59,7 @@ Derrota al Chico Pollo
 斡Derrota a Seidoptera!
 
 [msg quest_explain_020]
-※このクエストはカット
+※こOク夷ス:P吋7:
 
 [msg quest_explain_021]
 斡Encuentra ingredientes comestibles en[n]la jungla!
@@ -101,7 +101,7 @@ Derrota al Chico Pollo
 斡Busca los puntos del tesoro!
 
 [msg quest_explain_034]
-※このクエストはカット
+※こOク夷ス:P吋7:
 
 [msg quest_explain_035]
 斡Encuentra el huevo de Pascua!
@@ -131,7 +131,7 @@ Derrota al Chico Pollo
 斡Responde las preguntas y contin雨a!
 
 [msg quest_explain_044]
-※このクエストはカット
+※こOク夷ス:P吋7:
 
 [msg quest_explain_045]
 斡Termina la batalla de los osos!

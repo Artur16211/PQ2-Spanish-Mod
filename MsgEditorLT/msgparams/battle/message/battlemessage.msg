@@ -47,7 +47,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BLTMSGID_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BLTMSGID_CONFUSE]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -116,7 +116,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_DEFENCE]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_SUMMON]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -128,10 +128,10 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BLTMSGID_BST_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 1]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] {dialog}[n][e]
 
 [msg BLTMSGID_BST_CONFUSE]
-[f 0 5 65278][f 2 1][f 2 4 1]{dialog}[n][e]
+[f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BLTMSGID_BST_POINSON_EX]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -239,7 +239,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_SUMMON_SACRIFIC]
-[f 0 5 65278][f 2 1][f 2 4 1]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] {dialog}[n][e]
 
 [msg BTLMSGID_SUMMON_MISS]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -668,10 +668,10 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_00]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_01]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_E_SUMMON_MSG_02]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -785,7 +785,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_KIJIN_OFF]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_KUISHIBARI2]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -842,10 +842,10 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_MSGWAIT4]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_MSGWAIT5]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_BALLOON]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -854,7 +854,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_ACT_LION_SLEEP]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_REF_ATTACK_UP2]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -959,7 +959,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_MASCOT]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_BUNNY]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -1022,16 +1022,16 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_KEIKAI]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_RARE_1]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_RARE_2]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_RARE_3]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_HAMA_OMEN]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -1040,13 +1040,13 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_NIYANIYA]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_JIBAKU_MISS]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_CHICKEN]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_ROBOT]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -1061,10 +1061,10 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_KING]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_KING_ESCAPE]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_BIBIRI]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -1598,7 +1598,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_USAGI_OOGOE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_VELVET_SRICAM [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -1745,19 +1745,19 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_DOLL_SMILE [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_MOTIVATION [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_BOAST [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_RELAX [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_CREEP [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 0]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 0] {dialog}[n][e]
 
 [msg BTLMSGID_TURNENDHEAL [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]{dialog}[n][e]
@@ -1808,7 +1808,7 @@
 [f 0 5 65278][f 2 1]{dialog}[n][e]
 
 [msg BTLMSGID_FULL_SNALYZE_FA [Merciful Clergyman]]
-[f 0 5 65278][f 2 1][f 2 4 1]{dialog}[n][e]
+[f 0 5 65278][f 2 1][f 2 4 1] {dialog}[n][e]
 
 [msg BTLMSGID_PQ2_SONIC_RUSH [Merciful Clergyman]]
 [f 0 5 65278][f 2 1]{dialog}[n][e]

@@ -18,13 +18,13 @@
 [f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_RMSKILL0]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]{dialog}[n][f 1 1][e]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_RMSKILL1]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 1][f 0 1 0]{dialog}[n][f 1 1][e]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_RMSKILL2]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]{dialog}[n][f 1 1][e]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_SKILLSHIFT]
 [f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
@@ -35,10 +35,10 @@
 [f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_SKILLSHIFTCH]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]{dialog}[n][f 1 1][e]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_SKILLSHIFTUP]
-[f 0 5 65278][f 2 1][f 0 1 1][f 2 4 0][f 0 1 0]{dialog}[n][f 1 1][e]
+[f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
 
 [msg FCL_PERSONA_SHIFT]
 [f 0 5 65278][f 2 1]{dialog}[n][f 1 1][e]
