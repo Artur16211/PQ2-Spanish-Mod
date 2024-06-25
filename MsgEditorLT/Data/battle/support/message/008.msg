@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_008_001]
-No podemos escapar. 斡La 雨nica opci吋n[n]es salir victoriosos!
+No podemos escapar. 斡La 雨nica opci吋n es ganar!
 
 [msg BTL_MES_008_002]
-＜声のみ＞ええ、絶対に負けられません 油断は禁物です。
+＜声Of＞ええ、絶対L負けpseせz 油断P禁物Hす。
 
 [msg BTL_MES_008_003]
-El FOE... Deber胤amos alejarnos[n]sigilosamente ahora.
+El FOE... Deber胤amos alejarnos en sigilo.
 
 [msg BTL_MES_008_004]
-＜声のみ＞たしかに ここは退くべきですね。
+＜声Of＞たしかL ここP退くZきHすN。
 
 [msg BTL_MES_008_005]
-Un FOE... 斡Pero tal vez tengamos la[n]fuerza para derrotarlo ahora!
+Un FOE... 斡Pero tal vez tengamos la fuerza para derrotarlo!
 
 [msg BTL_MES_008_006]
-Ah, una Sombra rara... Esto es una[n]oportunidad para nosotros.
+Ah, una Sombra rara... Esto es una oportunidad para nosotros.
 
 [msg BTL_MES_008_007]
-＜声のみ＞ええ ここで逃がす手はありませんね！
+＜声Of＞ええ ここH逃がす手PあqeせzN！
 
 [msg BTL_MES_008_008]
-＜声のみ＞助かります、ナビ！
+＜声Of＞助かqeす、)ビ！
 
 [msg BTL_MES_008_009]
-＜声のみ＞久慈川さん、了解です
+＜声Of＞久慈川さz、了解Hす
 
 [msg BTL_MES_008_010]
-＜声のみ＞了解しました、山岸さん！
+＜声Of＞了解しeした、山岸さz！
 
 [msg BTL_MES_008_011]
-Parecen ser m茨s fuertes que[n]nosotros...
+Parecen m茨s fuertes que nosotros...
 
 [msg BTL_MES_008_012]
-＜声のみ＞戦略的撤退も視野に入れましょう。
+＜声Of＞戦略的撤退i視野L入seしnう。
 
 [msg BTL_MES_008_013]
-ねゎょぼぺ ぺょろまれ ょよれ めまゆよれ まょぼよょろるぺぽよ ぼよょ まれろま[n]まょまゆもむよテ ふぺゆよれ ぺ ぺょぺゅもんぺる れゎ ぽまほもゅもぽぺぽテ
+Nunca hab胤amos visto a este enemigo. Analicemos su debilidad.
 
 [msg BTL_MES_008_014]
-＜声のみ＞いろんな攻撃を試してみましょう
+＜声Of＞いtzK攻撃y試しGfeしnう
 
 [msg BTL_MES_008_015]
-Ni siquiera vale la pena luchar[n]contra este enemigo.
+Ni siquiera vale la pena luchar contra esa.
 
 [msg BTL_MES_008_016]
-＜声のみ＞ええ、わかっています
+＜声Of＞ええ、vかDGいeす
 
 [msg BTL_MES_008_017]
-Tenemos muchas posibilidades de[n]ganar.
+Tenemos muchas posibilidades de ganar.
 
 [msg BTL_MES_008_018]
-＜声のみ＞手加減はしない主義なんです
+＜声Of＞手加減PしKい主義KzHす
 
 [msg BTL_MES_008_019]
-La Sombra ha... 夷cambiado...?
+La Sombra ha... 夷Cambiado...?
 
 [msg BTL_MES_008_020]
-＜声のみ＞クッ！ マズイですね…
+＜声Of＞ク7！ マズ姻HすN…
 
 [msg BTL_MES_008_021]
-＜声のみ＞どうやら 囲まれたようですね…
+＜声Of＞Jうkp 囲esたoうHすN…
 
 [msg BTL_MES_008_022]
-Todos estamos en peligro...
+Estamos en peligro...
 
 [msg BTL_MES_008_023]
-＜声のみ＞立て直しが必要ですね…
+＜声Of＞立G直しが必要HすN…
 
 [msg BTL_MES_008_024]
-＜声のみ＞先輩…！ なんとかフォローしないと！
+＜声Of＞先輩…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_025]
-＜声のみ＞危ないですね… 治療を優先しましょう！
+＜声Of＞危KいHすN… 治療y優先しeしnう！
 
 [msg BTL_MES_008_026]
-＜声のみ＞花村先輩…！ なんとかフォローしないと！
+＜声Of＞花村先輩…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_027]
-＜声のみ＞里中先輩…！ なんとかフォローしないと！
+＜声Of＞里中先輩…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_028]
-＜声のみ＞天城先輩…！ なんとかフォローしないと！
+＜声Of＞天城先輩…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_030]
-＜声のみ＞大丈夫ですか、巽くん？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、巽くz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_031]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_032]
-＜声のみ＞大丈夫ですか、クマくん？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、クマくz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_033]
-＜声のみ＞岳羽さん…！ なんとかフォローしないと！
+＜声Of＞岳羽さz…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_034]
-＜声のみ＞伊織さん…！ なんとかフォローしないと！
+＜声Of＞伊織さz…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_035]
-＜声のみ＞真田さん…！ なんとかフォローしないと！
+＜声Of＞真田さz…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_036]
-＜声のみ＞桐条さん…！ なんとかフォローしないと！
+＜声Of＞桐条さz…！ KzIかフ隠ローしKいI！
 
 [msg BTL_MES_008_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_038]
-＜声のみ＞大丈夫ですか、アイギスさん？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、威姻/スさz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_039]
-＜声のみ＞大丈夫ですか、天田くん？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、天田くz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_040]
-＜声のみ＞大丈夫ですか、コロマルさん？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、コロマルさz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_041]
-＜声のみ＞大丈夫ですか、荒垣さん？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、荒垣さz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_042]
-＜声のみ＞このままでは危険です。 フォローを！
+＜声Of＞こOeeHP危険Hす。 フ隠ローy！
 
 [msg BTL_MES_008_043]
-＜声のみ＞ジョーカーが危険です！ フォローを！
+＜声Of＞ジョー吋ーが危険Hす！ フ隠ローy！
 
 [msg BTL_MES_008_044]
-＜声のみ＞スカルが危険です！ フォローを！
+＜声Of＞ス吋ルが危険Hす！ フ隠ローy！
 
 [msg BTL_MES_008_045]
-＜声のみ＞パンサーが危険です！ フォローを！
+＜声Of＞パンサーが危険Hす！ フ隠ローy！
 
 [msg BTL_MES_008_046]
-＜声のみ＞モナが危険です！ フォローを！
+＜声Of＞モ)が危険Hす！ フ隠ローy！
 
 [msg BTL_MES_008_047]
-＜声のみ＞フォックスが危険です！ フォローを！
+＜声Of＞フ隠7クスが危険Hす！ フ隠ローy！
 
 [msg BTL_MES_008_048]
-＜声のみ＞大丈夫ですか、クイーン？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、ク姻ーン？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_050]
-＜声のみ＞大丈夫ですか、ノワール？ 治療を優先しましょう！
+＜声Of＞大丈夫Hすか、ノワール？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_051]
-＜声のみ＞クロウが危険です！ フォローを！
+＜声Of＞クロ胤が危険Hす！ フ隠ローy！
 
 [msg BTL_MES_008_052]
-＜声のみ＞ここは、効率よくいきましょう
+＜声Of＞ここP、効率oくいきeしnう
 
 [msg BTL_MES_008_053]
-斡Esta es nuestra oportunidad! 斡La[n]aprovechar姻!
+斡Es nuestra oportunidad! 斡La aprovechar姻!
 
 [msg BTL_MES_008_054]
-＜声のみ＞そうですね 気を抜かずいきましょう
+＜声Of＞そうHすN 気y抜かずいきeしnう
 
 [msg BTL_MES_008_055]
-Puedo atacar con precisi吋n su[n]debilidad...
+Puedo atacar su debilidad con precisi吋n...
 
 [msg BTL_MES_008_056]
-Siempre podemos usar el relevo.
+Siempre podemos usar relevo.
 
 [msg BTL_MES_008_057]
-Parece que me toca a m胤.
+Parece que me toca.
 
 [msg BTL_MES_008_058]
-＜声のみ＞先輩、よろしくお願いします！
+＜声Of＞先輩、otしくお願いしeす！
 
 [msg BTL_MES_008_059]
-＜声のみ＞では、対処お願いします！
+＜声Of＞HP、対処お願いしeす！
 
 [msg BTL_MES_008_060]
-＜声のみ＞花村先輩のやる気が凄いですね
+＜声Of＞花村先輩Okr気が凄いHすN
 
 [msg BTL_MES_008_061]
-＜声のみ＞里中先輩、任せます！
+＜声Of＞里中先輩、任せeす！
 
 [msg BTL_MES_008_062]
-＜声のみ＞天城先輩… やり過ぎない程度にお願いします！
+＜声Of＞天城先輩… kq過ぎKい程度Lお願いしeす！
 
 [msg BTL_MES_008_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_064]
-＜声のみ＞巽くんが やる気に満ちていますね
+＜声Of＞巽くzが kr気L満BGいeすN
 
 [msg BTL_MES_008_065]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_066]
-＜声のみ＞クマくん！ キミの本気、見せてください！
+＜声Of＞クマくz！ キミO本気、見せGくAさい！
 
 [msg BTL_MES_008_067]
-＜声のみ＞岳羽さん、そのまま お願いします！
+＜声Of＞岳羽さz、そOee お願いしeす！
 
 [msg BTL_MES_008_068]
-＜声のみ＞伊織さんに お任せしますね。
+＜声Of＞伊織さzL お任せしeすN。
 
 [msg BTL_MES_008_069]
-＜声のみ＞真田さんが やる気ですね…！
+＜声Of＞真田さzが kr気HすN…！
 
 [msg BTL_MES_008_070]
-＜声のみ＞桐条さんは 容赦がなさそうです。
+＜声Of＞桐条さzP 容赦がKさそうHす。
 
 [msg BTL_MES_008_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_072]
-＜声のみ＞アイギスさん！ 作戦を開始してください！
+＜声Of＞威姻/スさz！ 作戦y開始しGくAさい！
 
 [msg BTL_MES_008_073]
-＜声のみ＞天田くんがやる気ですね！
+＜声Of＞天田くzがkr気HすN！
 
 [msg BTL_MES_008_074]
-＜声のみ＞コロマルさん！ 頑張ってください！
+＜声Of＞コロマルさz！ 頑張DGくAさい！
 
 [msg BTL_MES_008_075]
-＜声のみ＞蹴散らしてください！ 荒垣さん！
+＜声Of＞蹴散pしGくAさい！ 荒垣さz！
 
 [msg BTL_MES_008_076]
-＜声のみ＞ここはアナタにお任せします！
+＜声Of＞ここP威)3Lお任せしeす！
 
 [msg BTL_MES_008_077]
-＜声のみ＞さすがですね！ ジョーカー！
+＜声Of＞さすがHすN！ ジョー吋ー！
 
 [msg BTL_MES_008_078]
-＜声のみ＞期待しています！ スカル！
+＜声Of＞期待しGいeす！ ス吋ル！
 
 [msg BTL_MES_008_079]
-＜声のみ＞パンサーに 続きましょう！
+＜声Of＞パンサーL 続きeしnう！
 
 [msg BTL_MES_008_080]
-＜声のみ＞モナ！ キミに託します！
+＜声Of＞モ)！ キミL託しeす！
 
 [msg BTL_MES_008_081]
-＜声のみ＞フォックスなら 華麗に決めてくれるはず！
+＜声Of＞フ隠7クスKp 華麗L決hGくsrPず！
 
 [msg BTL_MES_008_082]
-＜声のみ＞この勢いに乗りましょう！ クイーン！
+＜声Of＞こO勢いL乗qeしnう！ ク姻ーン！
 
 [msg BTL_MES_008_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_008_084]
-＜声のみ＞ノワールも やる気充分ですね！
+＜声Of＞ノワールi kr気充分HすN！
 
 [msg BTL_MES_008_085]
-＜声のみ＞クロウ！ お願いしますね！
+＜声Of＞クロ胤！ お願いしeすN！
 
 [msg BTL_MES_008_086]
-斡Es mi momento de impresionarlos con[n]lo que puedo hacer!
+斡Es momento de demostrarles que puedo hacer!
 

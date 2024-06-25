@@ -44,7 +44,7 @@ Pero [f 2 4 1] lo anticip吋.
 斡Tu equipo no puede atacar!
 
 [msg BLTMSGID_STONE]
-斡[f 2 4 0] sufre de petrificaci吋n!
+斡[f 2 4 0] sufre petrificaci吋n!
 
 [msg BLTMSGID_SLEEP]
 est茨 durmiendo...
@@ -53,10 +53,10 @@ est茨 durmiendo...
 斡[f 2 4 0] est茨 en p茨nico!
 
 [msg BLTMSGID_PARA]
-斡[f 2 4 0] inm吋vil por la par茨lisis!
+斡[f 2 4 0] est茨 inm吋vil por la par茨lisis!
 
 [msg BLTMSGID_TERROR]
-斡[f 2 4 0] inm吋vil por el miedo!
+斡[f 2 4 0] est茨 inm吋vil por el miedo!
 
 [msg BLTMSGID_STUN]
 斡[f 2 4 0] se aturdi吋!
@@ -71,7 +71,7 @@ est茨 durmiendo...
 斡Agilidad de [f 2 4 0] sellada!
 
 [msg BTLMSGID_CRITICALHIT_P]
-斡[f 2 4 1] inconsciente!
+斡[f 2 4 1] ha muerto!
 
 [msg BTLMSGID_CRITICALHIT_E]
 斡Mat吋 a [f 2 4 1]!
@@ -83,7 +83,7 @@ est茨 durmiendo...
 斡Caus吋 da隠o de [f 2 4 2] a [f 2 4 1]!
 
 [msg BTLMSGID_DAMAGE_P_E_C]
-斡Casu吋 da隠o de [f 2 4 2]!
+斡Caus吋 da隠o de [f 2 4 2]!
 
 [msg BTLMSGID_DAMAGE_E_P_HP]
 斡[f 2 4 1] perdi吋 [f 2 4 2] PS!
@@ -140,7 +140,7 @@ duerme...
 斡[f 2 4 1] se envenen吋!
 
 [msg BLTMSGID_BST_BLIND]
-斡[f 2 4 1] sufre de ceguera!
+斡[f 2 4 1] sufre ceguera!
 
 [msg BLTMSGID_BST_CURSE]
 斡[f 2 4 1] sufre una maldici吋n!
@@ -206,7 +206,7 @@ duerme...
 斡No puedes escapar de esta batalla!
 
 [msg BTLMSGID_NOTSELECTESCAPE]
-斡El escape es imposible!
+斡Escapar es imposible!
 
 [msg BTLMSGID_NOT_ESCAPE_LEG]
 斡[f 2 4 0] no pudo escapar!
@@ -224,10 +224,10 @@ duerme...
 斡Grupo de Sombras derrotado!
 
 [msg BTLMSGID_PARTYDEAD_P]
-El equipo fue vencido...
+El grupo fue derrotado...
 
 [msg BTLMSGID_KUISHIBARI]
-斡[f 2 4 1] resiti吋 el ataque!
+斡[f 2 4 1] resisti吋 el ataque!
 
 [msg BTLMSGID_LIMITSUMMON]
 斡[f 2 4 0] cooper吋 invocando aliados!
@@ -257,7 +257,7 @@ muri吋...
 斡[f 2 4 0] cambi吋 posici吋n!
 
 [msg BTLMSGID_RANGEOUT]
-斡Pero el ataque no alcanz吋!
+斡Pero el ataque no lo alcanz吋!
 
 [msg BTLMSGID_MISS]
 Pero no tuvo efecto en [f 2 4 1].
@@ -269,7 +269,7 @@ Pero no tuvo efecto en [f 2 4 1].
 斡[f 2 4 1] bloque吋 el mov. de [f 2 4 0]!
 
 [msg BTLMSGID_REFUP_CRITICAL]
-斡Tasa de cr胤ticos de [f 2 4 1] aument吋!
+斡Tasa de cr胤ticos de [f 2 4 1] aumentada!
 
 [msg BTLMSGID_REFUP_HEALEFF]
 斡Ahora [f 2 4 1] tiene salud regenerativa!
@@ -326,10 +326,10 @@ WWWW[f 2 4 0] bit through [f 2 4 1]!
 斡[f 2 4 0] incapaz de actuar!
 
 [msg BTLMSGID_ANALYZE]
-斡Habilidades de [f 2 4 1] fueron analizadas!
+斡Habilidades de [f 2 4 1] analizadas!
 
 [msg BTLMSGID_MAXHP_DAMAGE]
-斡PS m茨ximo de [f 2 4 1] disminuido por [f 2 4 2]!
+斡PS m茨ximos de [f 2 4 1] disminuidos por [f 2 4 2]!
 
 [msg BTLMSGID_MITIBIKI]
 斡[f 2 4 0] comenz吋 a orar solemnemente!
@@ -449,7 +449,7 @@ El efecto ya est茨 activo en [f 2 4 1]...
 斡Ataque defensivo de [f 2 4 1] aumentado!
 
 [msg BTLMSGID_REF_SPEED_UP]
-斡[f 2 4 1] ahora actuar茨 primero!
+斡[f 2 4 1] actuar茨 ahora primero!
 
 [msg BTLMSGID_REF_HITRATIO_UP_2]
 斡La precisi吋n de [f 2 4 1] aument吋!
@@ -491,7 +491,7 @@ El efecto ya est茨 activo en [f 2 4 1]...
 斡Ahora a [f 2 4 1] no le afectan los estados!
 
 [msg BTLMSGID_REF_HP_UP]
-斡PS max. de [f 2 4 1] ha aumentado temporalmente!
+斡PS m茨x. de [f 2 4 1] ha aumentado temporalmente!
 
 [msg BTLMSGID_REF_DEV_GUARD]
 Divine Guard message
@@ -530,7 +530,7 @@ Por favor espera mientras el otro jugador ingresa comandos (se puede jugar multi
 斡El brillo de [f 2 4 0] se intensifica!
 
 [msg BTLMSGID_ATTRUP_1]
-斡Resistencia de [f 2 4 0] fortalecida!
+斡Resistencia de [f 2 4 0] aumentada!
 
 [msg BTLMSGID_ATTRUP_3]
 斡Resistencia de [f 2 4 0], [f 2 4 1] y [f 2 4 2] aumentada!
@@ -542,7 +542,7 @@ Por favor espera mientras el otro jugador ingresa comandos (se puede jugar multi
 斡Un tent茨culo de [f 2 4 0] atrap吋 a [f 2 4 1] y [f 2 4 2]!
 
 [msg BTLMSGID_ABSORB_HP]
-斡[f 2 4 1] absorve el da隠o de [f 2 4 2]!
+斡[f 2 4 1] absorbe el da隠o de [f 2 4 2]!
 
 [msg BTLMSGID_DEADACTION_18B]
 斡[f 2 4 0] ha explotado!
@@ -686,7 +686,7 @@ baj吋 su mano...
 斡[f 2 4 0] est茨 prepar茨ndose!
 
 [msg BTLMSGID_REF_ATTR_UP_ALL]
-斡Resistencia ([f 2 4 2]) de todos ha aumentado!
+斡Resistencia ([f 2 4 2]) de todos aumentada!
 
 [msg BTLMSGID_KAITAISHINSHO]
 斡Tasa de recompensas aumentada!
@@ -713,7 +713,7 @@ La forma de vida definitiva surge de su forma de larva...
 斡[f 2 4 1] no tiene PE para usar la habilidad!
 
 [msg BTLMSGID_FRONT_DEAD]
-斡El frente y la retaguardia cambiaron de posici吋n!
+斡El frente y la fila trasera cambiaron posici吋n!
 
 [msg BTLMSGID_ES_KEKKAI]
 斡Costo de PE de tus sig. acciones ser茨 doble!
@@ -914,7 +914,7 @@ est茨 durmiendo...
 斡Resistencia el姻ctrica de [f 2 4 1] reducida!
 
 [msg BTLMSGID_REF_ATTRDOWN_BU]
-斡La resistencia a los ataques f胤sicos de [f 2 4 1] ha disminuido!
+斡La resistencia a ataques f胤sicos de [f 2 4 1] ha disminuido!
 
 [msg BTLMSGID_REF_ATTRDOWN_SH]
 斡Resistencia a los golpes de [f 2 4 1] reducida!
@@ -1136,7 +1136,7 @@ Recuperaci吋n Autom茨tica ACTIVADA.
 （仮）ボス戦開始姻メージ.キス:
 
 [msg BTLMSGID_BUF_OMEN]
-斡El poder del hielo rodea a [f 2 4 0]!
+斡El poder de hielo rodea a [f 2 4 0]!
 
 [msg BTLMSGID_JIO_OMEN]
 斡El poder el姻ctrico rodea a [f 2 4 0]!
@@ -1163,7 +1163,7 @@ Recuperaci吋n Autom茨tica ACTIVADA.
 Te guiar姻, peque隠a oveja. Tu castigo divino es la muerte.
 
 [msg BTLMSGID_HOQ_CAST_SKILL [Merciful Clergyman]]
-斡El [f 2 4 0] est茨 intentando lanzar una maldici吋n!
+斡f 2 4 0] est茨 intentando lanzar una maldici吋n!
 
 [msg BTLMSGID_HOQ_INTERRUPT_S [Merciful Clergyman]]
 La maldici吋n del [f 2 4 0] parece haber fallado...
@@ -1181,7 +1181,7 @@ La maldici吋n del [f 2 4 0] parece haber fallado...
 斡Bien, esto lo acabar茨!
 
 [msg BTLMSGID_ADD_ATK_YUKIKO [Merciful Clergyman]]
-斡Yo puedo terminarlo!
+斡Yo me encargo!
 
 [msg BTLMSGID_ADD_ATK_RISE [Merciful Clergyman]]
 ※夷ラー
@@ -1190,19 +1190,19 @@ La maldici吋n del [f 2 4 0] parece haber fallado...
 斡Todav胤a no he terminado!
 
 [msg BTLMSGID_ADD_ATK_NAOTO [Merciful Clergyman]]
-斡Un ataque deber胤a terminar con esto!
+斡Un ataque deber胤a terminar茨 esto!
 
 [msg BTLMSGID_ADD_ATK_KUMA [Merciful Clergyman]]
-斡Es el momento de hacerlo o morir!
+斡Es hora de hacerlo o morir!
 
 [msg BTLMSGID_ADD_ATK_YUKARI [Merciful Clergyman]]
-斡Voy a terminar esto!
+斡Terminemos esto!
 
 [msg BTLMSGID_ADD_ATK_JUNPEI [Merciful Clergyman]]
 斡Es hora de llevarlo a casa!
 
 [msg BTLMSGID_ADD_ATK_SANADA [Merciful Clergyman]]
-斡Lo terminar姻!
+斡Lo acabar姻!
 
 [msg BTLMSGID_ADD_ATK_MITURU [Merciful Clergyman]]
 斡No he terminado con ellos!
@@ -1226,7 +1226,7 @@ La maldici吋n del [f 2 4 0] parece haber fallado...
 斡D姻jame ir tras ellos!
 
 [msg BTLMSGID_ADD_ATK_P5HERO [Merciful Clergyman]]
-斡Yo lo har姻!
+斡Yo me encargo!
 
 [msg BTLMSGID_ADD_ATK_RYUJI [Merciful Clergyman]]
 斡Lo tengo!
@@ -1235,7 +1235,7 @@ La maldici吋n del [f 2 4 0] parece haber fallado...
 斡Los eliminar姻!
 
 [msg BTLMSGID_ADD_ATK_MONA [Merciful Clergyman]]
-夷Te importa si yo me encargo de este?
+夷Te importa si me encargo de este?
 
 [msg BTLMSGID_ADD_ATK_YUSUKE [Merciful Clergyman]]
 斡El Zorro desciende!
@@ -1250,7 +1250,7 @@ La maldici吋n del [f 2 4 0] parece haber fallado...
 斡Noir, report茨ndose!
 
 [msg BTLMSGID_ADD_ATK_AKECI [Merciful Clergyman]]
-Listo cuando quieras.
+Listo, cuando quieras.
 
 [msg BTLMSGID_ALL_ATK_P4HERO [Merciful Clergyman]]
 斡Es nuestra oportunidad! 斡Hagamos un ataque combinado!
@@ -1262,7 +1262,7 @@ Listo cuando quieras.
 斡Muy bien! 斡Vamos a rockear!
 
 [msg BTLMSGID_ALL_ATK_CHIE [Merciful Clergyman]]
-斡夷Es nuestra oportunidad, verdad?! 斡Vamos a por ellos!
+斡夷Es nuestra oportunidad, verdad?! 斡A por ellos!
 
 [msg BTLMSGID_ALL_ATK_YUKIKO [Merciful Clergyman]]
 斡Creo que podemos hacer un ataque combinado!
@@ -1274,28 +1274,28 @@ Listo cuando quieras.
 夷Qu姻 est茨s esperando? 斡Es hora de actuar!
 
 [msg BTLMSGID_ALL_ATK_NAOTO [Merciful Clergyman]]
-斡Esta es nuestra oportunidad! 斡Demos todo lo que tenemos!
+斡Esta es nuestra oportunidad! 斡D姻mosles con todo!
 
 [msg BTLMSGID_ALL_ATK_KUMA [Merciful Clergyman]]
-斡Demosles una paliza!
+斡D姻mosles una paliza!
 
 [msg BTLMSGID_ALL_ATK_YUKARI [Merciful Clergyman]]
-斡Ah胤 viene! 斡Tenemos que hacer esto!
+斡Ah胤 viene! 斡Tenemos que hacerlo!
 
 [msg BTLMSGID_ALL_ATK_JUNPEI [Merciful Clergyman]]
-斡Oh, s胤! 斡Es hora de un ataque combinado!
+斡Es hora de un ataque combinado!
 
 [msg BTLMSGID_ALL_ATK_SANADA [Merciful Clergyman]]
-He estado esperando... 斡Hag茨moslo!
+He estado esperando esto... 斡Hag茨moslo!
 
 [msg BTLMSGID_ALL_ATK_MITURU [Merciful Clergyman]]
 斡Es nuestra oportunidad! 斡Vamos!
 
 [msg BTLMSGID_ALL_ATK_FUKA [Merciful Clergyman]]
-斡Esta es su oportunidad!
+斡Es su oportunidad!
 
 [msg BTLMSGID_ALL_ATK_AEGIS [Merciful Clergyman]]
-斡Iniciando un ataque combinado!
+斡Iniciando ataque combinado!
 
 [msg BTLMSGID_ALL_ATK_AMADA [Merciful Clergyman]]
 斡Es nuestra oportunidad! 斡Ataquemos!
@@ -1304,10 +1304,10 @@ He estado esperando... 斡Hag茨moslo!
 斡Bark, bark!
 
 [msg BTLMSGID_ALL_ATK_ARAGAKI [Merciful Clergyman]]
-斡Oye, est茨n expuestos! 斡A por ellos!
+斡Est茨n expuestos! 斡A por ellos!
 
 [msg BTLMSGID_ALL_ATK_P3_HERO [Merciful Clergyman]]
-夷Quieres hacer un ataque combinado?
+夷Hacemos un ataque combinado?
 
 [msg BTLMSGID_ALL_ATK_P5HERO [Merciful Clergyman]]
 ※夷ラー（総攻撃確認１）
@@ -1325,16 +1325,16 @@ He estado esperando... 斡Hag茨moslo!
 斡Es nuestra oportunidad! 夷Objeciones?
 
 [msg BTLMSGID_ALL_ATK_MAKOTO [Merciful Clergyman]]
-斡Vamos bien! 斡Mantengamos el ritmo!
+斡Bien! 斡Mantengamos el ritmo!
 
 [msg BTLMSGID_ALL_ATK_FUTABA [Merciful Clergyman]]
-斡Esta es tu oportunidad! 斡A darles!
+斡Es tu oportunidad! 斡A darles!
 
 [msg BTLMSGID_ALL_ATK_HARU [Merciful Clergyman]]
 斡Podemos derrotarlos ahora!... 斡Eso creo!
 
 [msg BTLMSGID_ALL_ATK_AKECI [Merciful Clergyman]]
-斡Todos derribados!
+斡Est茨n derribados!
 
 [msg BTLMSGID_ALL2_ATK_P4HERO [Merciful Clergyman]]
 斡Podemos hacerlo!
@@ -1343,7 +1343,7 @@ He estado esperando... 斡Hag茨moslo!
 斡Ahora es nuestra oportunidad! 斡Vamos!
 
 [msg BTLMSGID_ALL2_ATK_YOUSUK [Merciful Clergyman]]
-斡Es la hora! 斡D姻mosles un ataque combinado!
+斡Es hora! 斡D姻mosles un ataque combinado!
 
 [msg BTLMSGID_ALL2_ATK_CHIE [Merciful Clergyman]]
 斡Ahora! 斡A la caaarga!
@@ -1352,79 +1352,79 @@ He estado esperando... 斡Hag茨moslo!
 斡Es nuestra oportunidad! 斡Hag茨moslo en equipo!
 
 [msg BTLMSGID_ALL2_ATK_RISE [Merciful Clergyman]]
-斡Oh, parece ser nuestra oportunidad!
+斡Oh, parece nuestra oportunidad!
 
 [msg BTLMSGID_ALL2_ATK_KANJI [Merciful Clergyman]]
 斡D姻mosles una paliza!
 
 [msg BTLMSGID_ALL2_ATK_NAOTO [Merciful Clergyman]]
-斡Est茨n vulnerables! 夷Permiso para un ataque combinado?
+斡Est茨n vulnerables! 夷Permiso para ataque combinado?
 
 [msg BTLMSGID_ALL2_ATK_KUMA [Merciful Clergyman]]
 斡Es hora de una paliza!
 
 [msg BTLMSGID_ALL2_ATK_YUKARI [Merciful Clergyman]]
-Est茨s listo, 夷verdad? 斡Vamos a intentarlo!
+夷Est茨s listo? 斡Intent姻moslo!
 
 [msg BTLMSGID_ALL2_ATK_JUNPEI [Merciful Clergyman]]
-斡Un buen ataque y podemos terminar con esto ahora!
+斡Un buen ataque y podremos terminar con esto ahora!
 
 [msg BTLMSGID_ALL2_ATK_SANADA [Merciful Clergyman]]
-斡Ha llegado el momento! 斡Aplast姻moslos!
+斡Lleg吋 el momento! 斡Aplast姻moslos!
 
 [msg BTLMSGID_ALL2_ATK_MITURU [Merciful Clergyman]]
-斡Tenemos la ventaja! 斡Tomemos la ofensiva!
+斡Tenemos ventaja! 斡Hora de tomar la ofensiva!
 
 [msg BTLMSGID_ALL2_ATK_FUKA [Merciful Clergyman]]
 斡Es tu oportunidad!
 
 [msg BTLMSGID_ALL2_ATK_AEGIS [Merciful Clergyman]]
-斡Prepar茨ndose para el combate!
+斡Preparada para el combate!
 
 [msg BTLMSGID_ALL2_ATK_AMADA [Merciful Clergyman]]
-斡Esta es nuestra oportunidad! 斡Hag茨moslo!
+斡Es nuestra oportunidad! 斡Hag茨moslo!
 
 [msg BTLMSGID_ALL2_ATK_KOROMA [Merciful Clergyman]]
 斡Arf, arf!
 
 [msg BTLMSGID_ALL2_ATK_ARAGAK [Merciful Clergyman]]
-Ya era hora. Vamos a por ellos.!
+Ya era hora. 斡A por ellos!
 
 [msg BTLMSGID_ALL2_ATK_P3_HER [Merciful Clergyman]]
-斡Es nuestra 雨nica oportunidad! 斡Vamos!
+斡Es nuestra oportunidad! 斡Vamos!
 
 [msg BTLMSGID_ALL2_ATK_P5HERO [Merciful Clergyman]]
 ※夷ラー（総攻撃確認２）
 
 [msg BTLMSGID_ALL2_ATK_RYUJI [Merciful Clergyman]]
-De acuerdo, 斡comencemos esta fiesta!
+Bien, 斡que comience la fiesta!
 
 [msg BTLMSGID_ALL2_ATK_ANN [Merciful Clergyman]]
-夷Quieres hacer lo de siempre?
+夷Hacemos lo de siempre?
 
 [msg BTLMSGID_ALL2_ATK_MONA [Merciful Clergyman]]
-斡Obviamente, no vamos a desperdiciar esta oportunidad!
+斡No debemos desperdiciar esta oportunidad!
 
 [msg BTLMSGID_ALL2_ATK_YUSUKE [Merciful Clergyman]]
-Y ahora, que comiencen los juegos.
+Y ahora, que comience el juego.
 
 [msg BTLMSGID_ALL2_ATK_MAKOTO [Merciful Clergyman]]
-夷Qu姻 tal si terminamos esto aqu胤 y ahora?
+夷Qu姻 tal si terminamos esto?
 
 [msg BTLMSGID_ALL2_ATK_FUTABA [Merciful Clergyman]]
 斡Esta es nuestra oportunidad! 斡Ataquemos!
 
 [msg BTLMSGID_ALL2_ATK_HARU [Merciful Clergyman]]
-Podemos realizar un ataque combinado. 夷Deber胤amos?
+Podemos realizar un ataque combinado. 夷Listo?
 
 [msg BTLMSGID_ALL2_ATK_AKECI [Merciful Clergyman]]
-斡Finalmente, es nuestro momento!
+斡Es nuestro momento!
 
 [msg BTLMSGID_COMBI_ATK_P4HER [Merciful Clergyman]]
-D姻janos encargarnos de esto.
+D姻janos esto.
 
 [msg BTLMSGID_COMBI_ATK_P3HER [Merciful Clergyman]]
-Parece que es nuestro turno, 夷verdad?
+Es nuestro turno, 夷verdad?
 
 [msg BTLMSGID_COMBI_ATK_YOUSU [Merciful Clergyman]]
 Parece que nos toca. 斡Solo tenemos que vencerlos!
@@ -1433,31 +1433,31 @@ Parece que nos toca. 斡Solo tenemos que vencerlos!
 斡De acuerdo, podemos hacerlo!
 
 [msg BTLMSGID_COMBI_ATK_YUKIK [Merciful Clergyman]]
-斡Ahora! 斡Unamos nuestras fuerzas!
+斡Ahora! 斡Juntemos nuestras fuerzas!
 
 [msg BTLMSGID_COMBI_ATK_RISE [Merciful Clergyman]]
 斡Creo que es nuestra oportunidad!
 
 [msg BTLMSGID_COMBI_ATK_KANJI [Merciful Clergyman]]
-Tenemos que hacerlo, 斡ahora! 斡Vamos, maldita sea!
+Tenemos que hacerlo, 斡ahora! 斡Vamos!
 
 [msg BTLMSGID_COMBI_ATK_NAOTO [Merciful Clergyman]]
-斡Ya est茨! 斡Vamos a eliminarlos!
+斡Listo! 斡Elimin姻moslos!
 
 [msg BTLMSGID_COMBI_ATK_KUMA [Merciful Clergyman]]
-斡Es hora de una paliza!
+斡Es hora de algo preligr-oso!
 
 [msg BTLMSGID_COMBI_ATK_YUKAR [Merciful Clergyman]]
 斡Vamos, chicos! 斡Es ahora o nunca!
 
 [msg BTLMSGID_COMBI_ATK_JUNPE [Merciful Clergyman]]
-斡Es hora, chicos! 斡Sigan mi liderazgo!
+斡Es hora, chicos! 斡S胤ganme!
 
 [msg BTLMSGID_COMBI_ATK_SANAD [Merciful Clergyman]]
 Supongo que es nuestro momento de brillar...
 
 [msg BTLMSGID_COMBI_ATK_MITUR [Merciful Clergyman]]
-Ser胤amos tontos si no atac茨ramos ahora... 斡Vamos!
+Ser胤a imprudente no atacar ahora... 斡Vamos!
 
 [msg BTLMSGID_COMBI_ATK_FUKA [Merciful Clergyman]]
 斡Es nuestra oportunidad!
@@ -1466,22 +1466,22 @@ Ser胤amos tontos si no atac茨ramos ahora... 斡Vamos!
 斡Ventaja asegurada! 斡Debemos tomar la ofensiva!
 
 [msg BTLMSGID_COMBI_ATK_AMADA [Merciful Clergyman]]
-斡Podemos derrotarlos si hacemos esto juntos!
+斡Podemos hacer esto juntos!
 
 [msg BTLMSGID_COMBI_ATK_KOROM [Merciful Clergyman]]
 斡Bark, bark!
 
 [msg BTLMSGID_COMBI_ATK_ARAGA [Merciful Clergyman]]
-夷Crees que deber胤amos darle fin a esto?
+夷Terminamos con esto?
 
 [msg BTLMSGID_COMBI_ATK_P3_HE [Merciful Clergyman]]
-Estoy aqu胤 para ayudar. 斡Derrib姻moslos!
+Estoy listo. 斡Derrib姻moslos!
 
 [msg BTLMSGID_COMBI_ATK_P5HER [Merciful Clergyman]]
 斡Aqu胤 vamos!
 
 [msg BTLMSGID_COMBI_ATK_RYUJI [Merciful Clergyman]]
-斡Es nuestra oportunidad! 斡Lo tenemos!
+斡Es nuestra oportunidad! 斡Podemos hacerlo!3.5
 
 [msg BTLMSGID_COMBI_ATK_ANN [Merciful Clergyman]]
 斡Creo que podemos hacerlo!
@@ -1490,58 +1490,58 @@ Estoy aqu胤 para ayudar. 斡Derrib姻moslos!
 斡Mostr姻mosles con qui姻n est茨n tratando!
 
 [msg BTLMSGID_COMBI_ATK_YUSUK [Merciful Clergyman]]
-斡Es hora de mostrar nuestro poder!
+斡Mostr姻mosles nuestro poder!
 
 [msg BTLMSGID_COMBI_ATK_MAKOT [Merciful Clergyman]]
-Es nuestra oportunidad... S吋lo dilo.
+Es nuestra oportunidad...
 
 [msg BTLMSGID_COMBI_ATK_FUTAB [Merciful Clergyman]]
-斡Solo av胤same si necesitas una mano!
+斡Av胤same si necesitas una mano!
 
 [msg BTLMSGID_COMBI_ATK_HARU [Merciful Clergyman]]
-Bueno, entonces... 夷Los enfrentamos juntos?
+Bien... 夷Vamos juntos?
 
 [msg BTLMSGID_COMBI_ATK_AKECI [Merciful Clergyman]]
-Nuestro momento para brillar, 夷supongo?
+Es nuestro momento para brillar, 夷no?
 
 [msg BTLMSGID_COMBI2_ATK_P4HE [Merciful Clergyman]]
 斡Vamos, golp姻moslos con fuerza!
 
 [msg BTLMSGID_COMBI2_ATK_P3HE [Merciful Clergyman]]
-斡D姻janos encargarnos de esto!
+斡D姻janos esto!
 
 [msg BTLMSGID_COMBI2_ATK_YOUS [Merciful Clergyman]]
-斡Creo que lo tenemos! 斡S吋lo dilo!
+斡Creo que lo tenemos!
 
 [msg BTLMSGID_COMBI2_ATK_CHIE [Merciful Clergyman]]
 斡Estamos listos! 斡D姻janos el resto a nosotros!
 
 [msg BTLMSGID_COMBI2_ATK_YUKI [Merciful Clergyman]]
-斡Solo dilo!
+斡Vamos!
 
 [msg BTLMSGID_COMBI2_ATK_RISE [Merciful Clergyman]]
-斡Vamos, vamos! 斡Es nuestra gran oportunidad!
+斡Vamos, vamos! 斡Es nuestra oportunidad!
 
 [msg BTLMSGID_COMBI2_ATK_KANJ [Merciful Clergyman]]
 斡Vamos a hacerles da隠o!
 
 [msg BTLMSGID_COMBI2_ATK_NAOT [Merciful Clergyman]]
-斡Podemos acorralarlos en este momento!
+斡Podemos acorralarlos!
 
 [msg BTLMSGID_COMBI2_ATK_KUMA [Merciful Clergyman]]
-夷Quieres verme moverme? 夷Eh? 夷Quieres?
+夷Quieres ver c吋mo me muevo? 夷Eh? 夷Quieres?
 
 [msg BTLMSGID_COMBI2_ATK_YUKA [Merciful Clergyman]]
-夷De acuerdo, lo hacemos?
+Bien, 夷vamos?
 
 [msg BTLMSGID_COMBI2_ATK_JUNP [Merciful Clergyman]]
 斡Hora de sacar las armas pesadas!
 
 [msg BTLMSGID_COMBI2_ATK_SANA [Merciful Clergyman]]
-Me cans姻 de esperar. 斡Derrumb姻moslos!
+Me cans姻 de esperar. 斡Derrib姻moslos!
 
 [msg BTLMSGID_COMBI2_ATK_MITU [Merciful Clergyman]]
-El momento ha llegado. 斡Los derribaremos!
+Lleg吋 la hora. 斡Los derribaremos!
 
 [msg BTLMSGID_COMBI2_ATK_FUKA [Merciful Clergyman]]
 斡Es tu oportunidad!
@@ -1601,13 +1601,13 @@ Es nuestra oportunidad... Vamos.
  respira profundamente.
 
 [msg BTLMSGID_VELVET_SRICAM [Merciful Clergyman]]
-斡[f 2 4 0] ha recobrado la conciencia!
+斡[f 2 4 0] recobr吋 la conciencia!
 
 [msg BTLMSGID_GK_COUNT3 [Merciful Clergyman]]
 斡Los ojos de [f 2 4 0] est茨n brillando!
 
 [msg BTLMSGID_GK_COUNT2 [Merciful Clergyman]]
-斡Los ojos de [f 2 4 0] han dejado de brillar!
+斡Los ojos de [f 2 4 0] dejaron de brillar!
 
 [msg BTLMSGID_GK_COUNT1 [Merciful Clergyman]]
 Los ojos de [f 2 4 0] brillan brevemente.
@@ -1616,13 +1616,13 @@ Los ojos de [f 2 4 0] brillan brevemente.
 斡El grupo escap吋!
 
 [msg BTLMSGID_OVERWRITE_ALL [Merciful Clergyman]]
-斡Los potenciadores del grupo se han extendido.!
+斡Potenciadores del grupo extendidos!
 
 [msg BTLMSGID_HPHEAL_ALL_MEMB [Merciful Clergyman]]
 斡Todos recuperan PS!
 
 [msg BTLMSGID_EXP_GIFT [Merciful Clergyman]]
-斡Las recompensas de EXP de esta batalla aumentaron!
+斡Recompensas de EXP de esta batalla aumentadas!
 
 [msg BTLMSGID_BOUHEKI [Merciful Clergyman]]
 斡La defensa de todos aument吋!
@@ -1634,7 +1634,7 @@ Los ojos de [f 2 4 0] brillan brevemente.
 斡La precisi吋n y la evasi吋n de todos aument吋!
 
 [msg BTLMSGID_COVERAL [Merciful Clergyman]]
-斡Los ataques enemigos han sido anulados!
+斡Ataques enemigos anulados!
 
 [msg BTLMSGID_DENKOH [Merciful Clergyman]]
 斡Todo el grupo puede actuar primero!
@@ -1643,10 +1643,10 @@ Los ojos de [f 2 4 0] brillan brevemente.
 斡El aliado recupero todos sus PS!
 
 [msg BTLMSGID_MESSIAH [Merciful Clergyman]]
-斡Los PS y el Estado de todos se han curado!
+斡PS y Estado de todos curado!
 
 [msg BTLMSGID_ESHOWER [Merciful Clergyman]]
-斡Los estados alterados y ataduras del grupo han sido curadas!
+斡Estados alterados y Ataduras del grupo curadas!
 
 [msg BTLMSGID_FULLGET [Merciful Clergyman]]
 斡Los enemigos derrotados en este turno soltar茨n materiales!
@@ -1655,22 +1655,22 @@ Los ojos de [f 2 4 0] brillan brevemente.
 斡Todos los ataques son gratis!
 
 [msg BTLMSGID_TIYUDAI [Merciful Clergyman]]
-斡Todos los miembros del grupo recuperar茨n PS durante tres turnos!
+斡Miembros del grupo recuperan PS por tres turnos!
 
 [msg BTLMSGID_TIYUSOK [Merciful Clergyman]]
-斡Todos los miembros del grupo recuperar茨n PS durante tres turnos!
+斡Miembros del grupo recuperan PS por tres turnos!
 
 [msg BTLMSGID_HOMUNCU [Merciful Clergyman]]
 斡El hom雨nculo ocup吋 tu lugar!
 
 [msg BTLMSGID_OWNDOLL [Merciful Clergyman]]
-斡El Chivo Expiatorio se activa para [f 2 4 0]!
+斡El Chivo Expiatorio activado para [f 2 4 0]!
 
 [msg BTLMSGID_KIAIBRACE [Merciful Clergyman]]
-斡El Brazalete de Poder se activa para [f 2 4 0]!
+斡El Brazalete de Poder activado para [f 2 4 0]!
 
 [msg BTLMSGID_KAMINONIE [Merciful Clergyman]]
-斡El 緯dolo Sacrificial se activa para [f 2 4 0]!
+斡El 緯dolo Sacrificial activado para [f 2 4 0]!
 
 [msg BTLMSGID_DLCATK [Merciful Clergyman]]
 斡Atacando al final del turno!
@@ -1685,10 +1685,10 @@ Los ojos de [f 2 4 0] brillan brevemente.
 斡[f 2 4 0] est茨 pensando!
 
 [msg BTLMSGID_KETSUDAN [Merciful Clergyman]]
-斡[f 2 4 0] se ha decidido!
+斡[f 2 4 0] est茨 decidido!
 
 [msg BTLMSGID_MAHASUKU [Merciful Clergyman]]
-斡La precisi吋n y la evasi吋n de [f 2 4 1] han aumentado!
+斡Precisi吋n y Evasi吋n de [f 2 4 1] aumentados!
 
 [msg BTLMSGID_RANDAMA [Merciful Clergyman]]
 斡Todas las estad胤sticas de [f 2 4 1] disminuyeron!
@@ -1697,52 +1697,52 @@ Los ojos de [f 2 4 0] brillan brevemente.
 斡Todas las estad胤sticas de [f 2 4 1] aumentaron!
 
 [msg BTLMSGID_SASTAIN [Merciful Clergyman]]
-斡Los potenciadores de estad胤sticas de [f 2 4 1] se han extendido!
+斡Potenciadores de estad胤sticas de [f 2 4 1] extendidos!
 
 [msg BTLMSGID_HIDE [Merciful Clergyman]]
 斡[f 2 4 1] ahora es inmune a los ataques f胤sicos!
 
 [msg BTLMSGID_RISKY_GAMEOVER [Merciful Clergyman]]
-El l胤der del grupo ha muerto...
+El l胤der del grupo muri吋...
 
 [msg BTLMSGID_JIBAKU [Merciful Clergyman]]
-斡[f 2 4 0] ha iniciado su secuencia de autodestrucci吋n!
+斡[f 2 4 0] ha iniciado su autodestrucci吋n!
 
 [msg BTLMSGID_EIKOHNO [Merciful Clergyman]]
-斡El ataque y la defensa de todos han aumentado considerablemente!
+斡Ataque y Defensa de todos aument吋 considerablemente!
 
 [msg BTLMSGID_ALLBSTHEAL [Merciful Clergyman]]
-斡Los aliados se curaron de cualquier estado alterado!
+斡Aliados curados de cualquier estado alterado!
 
 [msg BTLMSGID_KOUKA_NASHI [Merciful Clergyman]]
-斡Pero no hubo efecto!
+斡Pero no tuvo efecto!
 
 [msg BTLMSGID_AMRITA [Merciful Clergyman]]
-斡[f 2 4 1] ha sido completamente curado y ha recuperado sus PS!
+斡[f 2 4 1] completamente curado y recuper吋 sus PS!
 
 [msg BTLMSGID_LPATRA [Merciful Clergyman]]
-斡Los aliados han sido curados de todos los estados alterados!
+斡Aliados curados de todos los estados alterados!
 
 [msg BTLMSGID_COUNT_UP [Merciful Clergyman]]
 斡El contador de [f 2 4 1] aument吋!
 
 [msg BTLMSGID_ONEBSTHEAL [Merciful Clergyman]]
-斡[f 2 4 1] ha sido curado de cualquier estado alterado!
+斡Estados alterados de [f 2 4 1] curados!
 
 [msg BTLMSGID_ONESEALHEAL [Merciful Clergyman]]
 斡Las ataduras de [f 2 4 1] desaparecieron!
 
 [msg BTLMSGID_CHARGE [Merciful Clergyman]]
-斡[f 2 4 1] est茨 acumulando fuerza!
+斡[f 2 4 1] acumula fuerza!
 
 [msg BTLMSGID_CONCENTRATE [Merciful Clergyman]]
 斡[f 2 4 1] se concentra!
 
 [msg BTLMSGID_KAKUSEI [Merciful Clergyman]]
-斡[f 2 4 1] ahora est茨 despierto!
+斡[f 2 4 1] se despierta!
 
 [msg BTLMSGID_SUMMON_TRUMP [Merciful Clergyman]]
-斡Han aparecido los Soldados de Cartas!
+斡Han aparecido los Soldados de Carta!
 
 [msg BTLMSGID_DOLL_SMILE [Merciful Clergyman]]
 sonr胤e inocentemente.
@@ -1760,19 +1760,19 @@ sonr胤e inocentemente.
  se retuerce.
 
 [msg BTLMSGID_TURNENDHEAL [Merciful Clergyman]]
-斡Se ha a隠adido un efecto de curaci吋n masiva!
+斡Se a隠adi吋 efecto de curaci吋n masiva!
 
 [msg BTLMSGID_DARKMIST [Merciful Clergyman]]
-El tiempo de estado alterado y ataduras de [f 2 4 1] se ha extendido.
+Estado alterado y atadura de [f 2 4 1] extendido.
 
 [msg BTLMSGID_TARGET_DEAD_ALR [Merciful Clergyman]]
-斡No hay un objetivo para [f 2 4 0]!
+斡Sin objetivo para [f 2 4 0]!
 
 [msg BTLMSGID_DROP_MONEY [Merciful Clergyman]]
-斡La Sombra esparci吋 [f 2 4 2] yenes!
+斡La Sombra tir吋 [f 2 4 2] yenes!
 
 [msg BTLMSGID_REF_COUNTER_ATT [Merciful Clergyman]]
-斡El contador de burlas de [f 2 4 1] se activa!
+斡Contador de burlas de [f 2 4 1] activado!
 
 [msg BTLMSGID_REF_SKILL_LOCK [Merciful Clergyman]]
 斡Tu individualidad fue robada!
@@ -1787,56 +1787,56 @@ El tiempo de estado alterado y ataduras de [f 2 4 1] se ha extendido.
 斡La batalla es abrasadora!
 
 [msg BTLMSGID_REF_ATTRUP_NEND [Merciful Clergyman]]
-斡La resistencia Ps胤quica de [f 2 4 1] aument吋!
+斡Resistencia Ps胤quica de [f 2 4 1] aumentada!
 
 [msg BTLMSGID_REF_ATTRUP_KAKU [Merciful Clergyman]]
-斡La resistencia Nuclear de [f 2 4 1] aument吋!
+斡Resistencia Nuclear de [f 2 4 1] aumentada!
 
 [msg BTLMSGID_REF_ATTRDOWN_NE [Merciful Clergyman]]
-斡La resistencia Ps胤quica de [f 2 4 1] disminuy吋!
+斡Resistencia Ps胤quica de [f 2 4 1] reducida!
 
 [msg BTLMSGID_REF_ATTRDOWN_KA [Merciful Clergyman]]
-斡La resistencia Nuclear de [f 2 4 1] disminuy吋!
+斡Resistencia Nuclear de [f 2 4 1] reducida!
 
 [msg BTLMSGID_DOUBLE_ATTACK [Merciful Clergyman]]
-斡Se activa el Ataque Doble!
+斡Ataque Doble activado!
 
 [msg BTLMSGID_BOOT2 [Merciful Clergyman]]
 斡[f 2 4 3] se activ吋!
 
 [msg BTLMSGID_FULL_ANALYZE_SU [Merciful Clergyman]]
-斡Las habilidades de [f 2 4 1] fueron analizadas!
+斡Habilidades de [f 2 4 1] analizadas!
 
 [msg BTLMSGID_FULL_SNALYZE_FA [Merciful Clergyman]]
  est茨 bloqueando el an茨lisis...
 
 [msg BTLMSGID_PQ2_SONIC_RUSH [Merciful Clergyman]]
-斡Tomando una postura para usar repetidamente habilidades!
+斡Tomando postura para repetir habilidades!
 
 [msg BTLMSGID_PQ2_RUSH_STEP [Merciful Clergyman]]
-斡Tomando una postura para usar repetidamente habilidades!
+斡Tomando postura para repetir habilidades!
 
 [msg BTLMSGID_PQ2_GOWAN [Merciful Clergyman]]
-斡Tomando una postura para que las habilidades salpiquen!
+斡Tomando postura salpicar habilidades!
 
 [msg BTLMSGID_PQ2_GAISHU [Merciful Clergyman]]
-斡Tomando una postura para que las habilidades salpiquen!
+斡Tomando postura salpicar habilidades!
 
 [msg BTLMSGID_PQ2_UTIOTOSI [Merciful Clergyman]]
-斡Tomando una postura para anular los ataques f胤sicos!
+斡Tomando postura para anular ataques f胤sicos!
 
 [msg BTLMSGID_PQ2_GEIGEKI [Merciful Clergyman]]
-斡Tomando una postura para anular los ataques f胤sicos!
+斡Tomando postura para anular ataques f胤sicos!
 
 [msg BTLMSGID_PQ2_ORGIA [Merciful Clergyman]]
 斡Limitadores liberados!
 
 [msg BTLMSGID_PQ2_COSTC [Merciful Clergyman]]
-斡Costos de habilidad disminuidos!
+斡Costos de habilidad reducidos!
 
 [msg BTLMSGID_PQ2_COSTR [Merciful Clergyman]]
-斡Costos de habilidad disminuidos!
+斡Costos de habilidad reducidos!
 
 [msg BTLMSGID_PQ2_ZEROS [Merciful Clergyman]]
-斡Costes de habilidad negados para [f 2 4 1]! 
+斡Costes de habilidad de [f 2 4 1] negados! 
 

@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_007_001]
-斡No podemos retroceder ante esto!
+斡No podemos retroceder!
 
 [msg BTL_MES_007_002]
-＜声のみ＞やってやんぜコラァ！ ぜってー負けねえ！
+＜声Of＞kDGkzぜコラ茨！ ぜDGー負けNえ！
 
 [msg BTL_MES_007_003]
-E-es un I-i-algo. 斡Esto no pinta[n]bien!
+E-es un I-i-algo. 斡Esto no pinta bien!
 
 [msg BTL_MES_007_004]
-＜声のみ＞クソッ！ 退くしかねえのかよ…！
+＜声Of＞ク17！ 退くしかNえOかo…！
 
 [msg BTL_MES_007_005]
-斡Oye! Creo que podemos ganar esta,[n]夷verdad?
+斡Oye! Podemos ganar esta, 夷verdad?
 
 [msg BTL_MES_007_006]
 斡Oh, mierda! 斡Una rara!
 
 [msg BTL_MES_007_007]
-＜声のみ＞オラオラオラー！ 逃がさねーぞ！
+＜声Of＞謂ラ謂ラ謂ラー！ 逃がさNーぞ！
 
 [msg BTL_MES_007_008]
-＜声のみ＞わーったぜ、ナビ
+＜声Of＞vーDたぜ、)ビ
 
 [msg BTL_MES_007_009]
-＜声のみ＞おうよ！ あんがとな、りせ！
+＜声Of＞おうo！ あzがIK、qせ！
 
 [msg BTL_MES_007_010]
-＜声のみ＞山岸さん、了解っス
+＜声Of＞山岸さz、了解Dス
 
 [msg BTL_MES_007_011]
-斡Whoa! Este parece ser un demasiado[n]para nosotros, 夷verdad?
+斡Ah! Esta parece ser demasiado para nosotros, 夷verdad?
 
 [msg BTL_MES_007_012]
-＜声のみ＞クッソ…ケツ向けんのは癪だけど、 やられるワケにいかねーし…
+＜声Of＞ク71…ケ8向けzOP癪AけJ、 kpsrワケLいかNーし…
 
 [msg BTL_MES_007_013]
-Nunca hab胤a visto uno de esos.[n]夷Quieres buscar una debilidad?
+Nunca hab胤a visto una de esas. 夷Quieres buscar su debilidad?
 
 [msg BTL_MES_007_014]
-＜声のみ＞うっス！ 了解っス！
+＜声Of＞うDス！ 了解Dス！
 
 [msg BTL_MES_007_015]
 斡Pan comido!
 
 [msg BTL_MES_007_016]
-＜声のみ＞これならボコれそうだぜ やるぜコラァ！
+＜声Of＞こsKpボコsそうAぜ krぜコラ茨！
 
 [msg BTL_MES_007_017]
-Heh, d姻biles. Esto terminar茨 en poco[n]tiempo.
+Je, d姻biles. Esto terminar茨 r茨pido.
 
 [msg BTL_MES_007_018]
-＜声のみ＞ヨユーっスね！ 瞬殺してやんぜ！
+＜声Of＞ヨユーDスN！ 瞬殺しGkzぜ！
 
 [msg BTL_MES_007_019]
 Oye, 夷hay algo extra隠o en esa Sombra?
 
 [msg BTL_MES_007_020]
-＜声のみ＞うおっ！？ 逃げらんねぇ！
+＜声Of＞うおD！？ 逃げpzNぇ！
 
 [msg BTL_MES_007_021]
-＜声のみ＞乱入かよコラ！ 聞いてねーぞ！
+＜声Of＞乱入かoコラ！ 聞いGNーぞ！
 
 [msg BTL_MES_007_022]
-斡Uuuuugh, maldici吋n! 斡Estamos en un[n]gran aprieto!
+斡Argh, maldici吋n! 斡Estamos en un gran aprieto!
 
 [msg BTL_MES_007_023]
-＜声のみ＞くっそ… マジかよ！？
+＜声Of＞くDそ… マジかo！？
 
 [msg BTL_MES_007_024]
-＜声のみ＞ちょっ、大丈夫っスか先輩！ 手当てしねぇと…！
+＜声Of＞BnD、大丈夫Dスか先輩！ 手当GしNぇI…！
 
 [msg BTL_MES_007_025]
-＜声のみ＞ヤベー状況になってっスね… フォローしねぇと！
+＜声Of＞ヤベー状況LKDGDスN… フ隠ローしNぇI！
 
 [msg BTL_MES_007_026]
-＜声のみ＞花村先輩、ヤベェ！ 回復しねぇと！
+＜声Of＞花村先輩、ヤベ緯！ 回復しNぇI！
 
 [msg BTL_MES_007_027]
-＜声のみ＞里中先輩、マジかよ！？ 助けねーと！
+＜声Of＞里中先輩、マジかo！？ 助けNーI！
 
 [msg BTL_MES_007_028]
-＜声のみ＞天城先輩、ヤベェっスよ！ 回復しねーと！
+＜声Of＞天城先輩、ヤベ緯Dスo！ 回復しNーI！
 
 [msg BTL_MES_007_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_030]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_031]
-＜声のみ＞おい直斗、しっかりしろ！ チッ…なんとかしねーと！
+＜声Of＞おい直斗、しDかqしt！ 57…KzIかしNーI！
 
 [msg BTL_MES_007_032]
-＜声のみ＞クマがヤベェことになってんぞ！ どうにかしねーと！
+＜声Of＞クマがヤベ緯こILKDGzぞ！ JうLかしNーI！
 
 [msg BTL_MES_007_033]
-＜声のみ＞岳羽さんがピンチっスよ！ 回復しねぇと！
+＜声Of＞岳羽さzがピン5Dスo！ 回復しNぇI！
 
 [msg BTL_MES_007_034]
-＜声のみ＞伊織さんがヤベェ状態だぜ！ フォローしねーと！
+＜声Of＞伊織さzがヤベ緯状態Aぜ！ フ隠ローしNーI！
 
 [msg BTL_MES_007_035]
-＜声のみ＞ちょっ、真田さんヤベェぞ！ 早くなんとかしねーと！
+＜声Of＞BnD、真田さzヤベ緯ぞ！ 早くKzIかしNーI！
 
 [msg BTL_MES_007_036]
-＜声のみ＞うおっ、桐条さんがヤベェ…！ どうにかしねーと！
+＜声Of＞うおD、桐条さzがヤベ緯…！ JうLかしNーI！
 
 [msg BTL_MES_007_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_038]
-＜声のみ＞アイギスさん、おかしくなってんぞ！？ 早く回復しねぇと！
+＜声Of＞威姻/スさz、おかしくKDGzぞ！？ 早く回復しNぇI！
 
 [msg BTL_MES_007_039]
-＜声のみ＞大丈夫かよ、天田！？ チッ、助けねーと…！
+＜声Of＞大丈夫かo、天田！？ 57、助けNーI…！
 
 [msg BTL_MES_007_040]
-＜声のみ＞コロマルがヤベェ！ すぐ助けねぇと！
+＜声Of＞コロマルがヤベ緯！ すぐ助けNぇI！
 
 [msg BTL_MES_007_041]
-＜声のみ＞うおっ、荒垣さん！？ なんとかしねぇと、ヤベェ！
+＜声Of＞うおD、荒垣さz！？ KzIかしNぇI、ヤベ緯！
 
 [msg BTL_MES_007_042]
-＜声のみ＞おい、大丈夫かよ！？ 手当てしねぇと…！
+＜声Of＞おい、大丈夫かo！？ 手当GしNぇI…！
 
 [msg BTL_MES_007_043]
-＜声のみ＞くっそ、ジョーカーが… 早く助けねーと！
+＜声Of＞くDそ、ジョー吋ーが… 早く助けNーI！
 
 [msg BTL_MES_007_044]
-＜声のみ＞スカルがヤベェぞ！？ 回復しねーと！
+＜声Of＞ス吋ルがヤベ緯ぞ！？ 回復しNーI！
 
 [msg BTL_MES_007_045]
-＜声のみ＞パンサー、マジかよ！？ 早く助けねーと！
+＜声Of＞パンサー、マジかo！？ 早く助けNーI！
 
 [msg BTL_MES_007_046]
-＜声のみ＞モナがおかしなことになってんぞ！ 回復しねーと！
+＜声Of＞モ)がおかしKこILKDGzぞ！ 回復しNーI！
 
 [msg BTL_MES_007_047]
-＜声のみ＞フォックス、ヤバくねぇか？ 早く助けねーと！
+＜声Of＞フ隠7クス、ヤバくNぇか？ 早く助けNーI！
 
 [msg BTL_MES_007_048]
-＜声のみ＞うおっ、クイーンが…！ とっとと回復しねーと！
+＜声Of＞うおD、ク姻ーンが…！ IDII回復しNーI！
 
 [msg BTL_MES_007_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_050]
-＜声のみ＞ノワールがヤベェ！ どうにかしねーと！
+＜声Of＞ノワールがヤベ緯！ JうLかしNーI！
 
 [msg BTL_MES_007_051]
-＜声のみ＞クロウがやられてんぞ！ 回復しねーと！
+＜声Of＞クロ胤がkpsGzぞ！ 回復しNーI！
 
 [msg BTL_MES_007_052]
-＜声のみ＞おっしゃあ！ ぶっ潰す！
+＜声Of＞おDしjあ！ WD潰す！
 
 [msg BTL_MES_007_053]
-斡Bien! 斡Estoy en ello!
+斡Bien! 斡Estoy en eso!
 
 [msg BTL_MES_007_054]
-＜声のみ＞ウオオオオ！ このまま、突っ走ってやらぁ！
+＜声Of＞胤謂謂謂謂！ こOee、突D走DGkpぁ！
 
 [msg BTL_MES_007_055]
-斡Puedo golpear su debilidad!
+斡Puedo atacar su debilidad!
 
 [msg BTL_MES_007_056]
-斡El Relevo suena como una buena idea!
+斡Un Relevo suena como una buena idea!
 
 [msg BTL_MES_007_057]
 斡Bien! 斡Mi momento de brillar!
 
 [msg BTL_MES_007_058]
-＜声のみ＞さすが先輩！ 期待してるッス！
+＜声Of＞さすが先輩！ 期待しGr7ス！
 
 [msg BTL_MES_007_059]
-＜声のみ＞おっしゃ！ やっちまってください！
+＜声Of＞おDしj！ kDBeDGくAさい！
 
 [msg BTL_MES_007_060]
-＜声のみ＞花村先輩、やる気じゃ ねーっスか！
+＜声Of＞花村先輩、kr気じj NーDスか！
 
 [msg BTL_MES_007_061]
-＜声のみ＞おっ、里中先輩！ 燃えてっスね！
+＜声Of＞おD、里中先輩！ 燃えGDスN！
 
 [msg BTL_MES_007_062]
-＜声のみ＞天城先輩、すげー… やる気ありすぎんだろ
+＜声Of＞天城先輩、すげー… kr気あqすぎzAt
 
 [msg BTL_MES_007_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_064]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_065]
-＜声のみ＞いっちまえ、直斗！
+＜声Of＞いDBeえ、直斗！
 
 [msg BTL_MES_007_066]
-＜声のみ＞おいクマ！ 気合いれろよ！
+＜声Of＞おいクマ！ 気合いsto！
 
 [msg BTL_MES_007_067]
-＜声のみ＞岳羽さんに まかせるっス！
+＜声Of＞岳羽さzL eかせrDス！
 
 [msg BTL_MES_007_068]
-＜声のみ＞伊織さんなら やってくれんだろ！
+＜声Of＞伊織さzKp kDGくszAt！
 
 [msg BTL_MES_007_069]
-＜声のみ＞真田さん！ あとは頼んだぜ！
+＜声Of＞真田さz！ あIP頼zAぜ！
 
 [msg BTL_MES_007_070]
-＜声のみ＞桐条さんならキメてくれんだろ！
+＜声Of＞桐条さzKpキメGくszAt！
 
 [msg BTL_MES_007_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_072]
-＜声のみ＞思いっきり暴れろ、アイギスさん！
+＜声Of＞思いDきq暴st、威姻/スさz！
 
 [msg BTL_MES_007_073]
-＜声のみ＞やる気すげぇじゃねーか、天田 やっちまえ！
+＜声Of＞kr気すげぇじjNーか、天田 kDBeえ！
 
 [msg BTL_MES_007_074]
-＜声のみ＞よっしゃ、コロマル！ 頼むぜ！
+＜声Of＞oDしj、コロマル！ 頼gぜ！
 
 [msg BTL_MES_007_075]
-＜声のみ＞荒垣さん、頼んだっス！
+＜声Of＞荒垣さz、頼zADス！
 
 [msg BTL_MES_007_076]
-＜声のみ＞期待してっからな！
+＜声Of＞期待しGDかpK！
 
 [msg BTL_MES_007_077]
-＜声のみ＞ジョーカー！ アンタの力、見せてくれ！
+＜声Of＞ジョー吋ー！ 威ン3O力、見せGくs！
 
 [msg BTL_MES_007_078]
-＜声のみ＞スカル！ 遠慮はいらねーかんな！
+＜声Of＞ス吋ル！ 遠慮PいpNーかzK！
 
 [msg BTL_MES_007_079]
-＜声のみ＞パンサー、まかせたっスよ！
+＜声Of＞パンサー、eかせたDスo！
 
 [msg BTL_MES_007_080]
-＜声のみ＞モナ！ 頼りにしてっからな！
+＜声Of＞モ)！ 頼qLしGDかpK！
 
 [msg BTL_MES_007_081]
-＜声のみ＞フォックス、キメてくれ！
+＜声Of＞フ隠7クス、キメGくs！
 
 [msg BTL_MES_007_082]
-＜声のみ＞クイーン、ぶちかましちまえ！
+＜声Of＞ク姻ーン、WBかeしBeえ！
 
 [msg BTL_MES_007_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_007_084]
-＜声のみ＞へへっ！ ノワール、期待してんぜ！
+＜声Of＞YYD！ ノワール、期待しGzぜ！
 
 [msg BTL_MES_007_085]
-＜声のみ＞クロウ、ぶちかましてくれ！
+＜声Of＞クロ胤、WBかeしGくs！
 
 [msg BTL_MES_007_086]
-斡Bien! 斡Listo!
+斡Bien! 斡Estoy listo!
 

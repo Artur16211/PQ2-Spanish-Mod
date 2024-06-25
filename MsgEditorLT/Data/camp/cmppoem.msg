@@ -5,12 +5,12 @@
 Ahora no percibo nada...
 
 [sel CMPPOEM_SELECT_1 top]
-"Hacia los Desalmados"
+"To the Heartless"
 "The Mongrels' Lullaby"
-"Novia Sangrienta"
-"Sorpresa de Cumplea隠os"
-"Ley"
-"Los Siete Pecados Capitales"
+"Bloody Bride"
+"Surprise Birthday"
+"Law"
+"The Seven Deadly Sins"
 ???
 ???
 ???

@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_005_001]
-斡No podemos perder aqu胤!
+斡No podemos perder!
 
 [msg BTL_MES_005_002]
-＜声のみ＞負けないよ！ 絶対、勝ってみせる！
+＜声Of＞負けKいo！ 絶対、勝DGfせr！
 
 [msg BTL_MES_005_003]
-Puede que no queramos pelear en[n]esta...
+Puede que no queramos pelear esta...
 
 [msg BTL_MES_005_004]
-＜声のみ＞そうだね ここは逃げたほうが良さそう
+＜声Of＞そうAN ここP逃げたbうが良さそう
 
 [msg BTL_MES_005_005]
-Es un FOE... Pero tal vez podamos[n]enfrentarlo.
+Es un FOE... Pero tal vez podamos con 姻l.
 
 [msg BTL_MES_005_006]
-Parece una Sombra rara. Esta es[n]nuestra oportunidad.
+Parece una Sombra rara. Es nuestra oportunidad.
 
 [msg BTL_MES_005_007]
-＜声のみ＞わかった 必ず仕留めよう？
+＜声Of＞vかDた 必ず仕留hoう？
 
 [msg BTL_MES_005_008]
-＜声のみ＞わかった！ ナビ、ありがとね
+＜声Of＞vかDた！ )ビ、あqがIN
 
 [msg BTL_MES_005_009]
-＜声のみ＞りせちゃん、了解！
+＜声Of＞qせBjz、了解！
 
 [msg BTL_MES_005_010]
-＜声のみ＞うん、風花ちゃん了解！
+＜声Of＞うz、風花Bjz了解！
 
 [msg BTL_MES_005_011]
-Este enemigo es bastante fuerte...[n]夷Qu姻 deber胤amos hacer?
+El enemigo es bastante fuerte... 夷Qu姻 hacemos?
 
 [msg BTL_MES_005_012]
-＜声のみ＞うーん、どうしよう？ 戦っちゃう？
+＜声Of＞うーz、Jうしoう？ 戦DBjう？
 
 [msg BTL_MES_005_013]
-Nunca hab胤amos visto a ese antes...[n]夷Cu茨l podr胤a ser su debilidad?
+Nunca hab胤amos visto esa antes... 夷Cu茨l ser茨 su debilidad?
 
 [msg BTL_MES_005_014]
-＜声のみ＞わかった！ とりあえずウェルダンでいい？
+＜声Of＞vかDた！ Iqあえず胤緯ル4ンHいい？
 
 [msg BTL_MES_005_015]
-夷Crees que podemos ganar?
+夷Crees que podremos ganar?
 
 [msg BTL_MES_005_016]
-＜声のみ＞うん、わかった 安心して
+＜声Of＞うz、vかDた 安心しG
 
 [msg BTL_MES_005_017]
-No deber胤a tener ning雨n problema[n]quem茨ndolos.
+No deber胤a tener ning雨n problema quem茨ndolos.
 
 [msg BTL_MES_005_018]
-＜声のみ＞ふふ、丸焼きが１つ… 丸焼きが２つ…
+＜声Of＞VV、丸焼きが１E… 丸焼きが２E…
 
 [msg BTL_MES_005_019]
-夷Eh? Siento como si algo hubiera[n]cambiado...
+夷Eh? Siento como si algo hubiera cambiado...
 
 [msg BTL_MES_005_020]
-＜声のみ＞うーん、マズイね…どうしよう
+＜声Of＞うーz、マズ姻N…Jうしoう
 
 [msg BTL_MES_005_021]
-＜声のみ＞うわ、来ちゃった… どうする！？
+＜声Of＞うv、来BjDた… Jうすr！？
 
 [msg BTL_MES_005_022]
-Bueno... Esto definitivamente es[n]malo, 夷verdad?
+Bien... Definitivamente, esto es malo, 夷verdad?
 
 [msg BTL_MES_005_023]
-＜声のみ＞たいへん。早く治療しないと…！
+＜声Of＞たいYz。早く治療しKいI…！
 
 [msg BTL_MES_005_024]
-＜声のみ＞大丈夫！？ 早く手当てしないと！
+＜声Of＞大丈夫！？ 早く手当GしKいI！
 
 [msg BTL_MES_005_025]
-＜声のみ＞このままじゃ危ないかも。 手当てしなくちゃ！
+＜声Of＞こOeeじj危Kいかi。 手当GしKくBj！
 
 [msg BTL_MES_005_026]
-＜声のみ＞花村くんが危ないよ。 回復が必要そう！
+＜声Of＞花村くzが危Kいo。 回復が必要そう！
 
 [msg BTL_MES_005_027]
-＜声のみ＞千枝、しっかり！ 早く手当てしないと！
+＜声Of＞千枝、しDかq！ 早く手当GしKいI！
 
 [msg BTL_MES_005_028]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_030]
-＜声のみ＞完二くんが危ないよ。 回復しなくちゃ！
+＜声Of＞完二くzが危Kいo。 回復しKくBj！
 
 [msg BTL_MES_005_031]
-＜声のみ＞直斗くん、大丈夫？ フォローしなくちゃ！
+＜声Of＞直斗くz、大丈夫？ フ隠ローしKくBj！
 
 [msg BTL_MES_005_032]
-＜声のみ＞クマさんが危ないよ。 回復しないと！
+＜声Of＞クマさzが危Kいo。 回復しKいI！
 
 [msg BTL_MES_005_033]
-＜声のみ＞あっ、ゆかりちゃんが…！ 早く手当てしないと！
+＜声Of＞あD、mかqBjzが…！ 早く手当GしKいI！
 
 [msg BTL_MES_005_034]
-＜声のみ＞伊織くんがピンチだよ。 なんとかしなくちゃ！
+＜声Of＞伊織くzがピン5Ao。 KzIかしKくBj！
 
 [msg BTL_MES_005_035]
-＜声のみ＞大変、真田さんが！ なんとかしないと！
+＜声Of＞大変、真田さzが！ KzIかしKいI！
 
 [msg BTL_MES_005_036]
-＜声のみ＞美鶴さんが大変みたい。 なんとかしなくちゃ！
+＜声Of＞美鶴さzが大変fたい。 KzIかしKくBj！
 
 [msg BTL_MES_005_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_038]
-＜声のみ＞アイギスさん、大丈夫？ 手当てしないと大変だよ！
+＜声Of＞威姻/スさz、大丈夫？ 手当GしKいI大変Ao！
 
 [msg BTL_MES_005_039]
-＜声のみ＞天田くんが危ないよ！ フォローしなくちゃ！
+＜声Of＞天田くzが危Kいo！ フ隠ローしKくBj！
 
 [msg BTL_MES_005_040]
-＜声のみ＞コロマルくん、大丈夫！？ 早く手当てしてあげないと！
+＜声Of＞コロマルくz、大丈夫！？ 早く手当GしGあげKいI！
 
 [msg BTL_MES_005_041]
-＜声のみ＞荒垣さんが大変なことに…！ すぐに手当てしないと！
+＜声Of＞荒垣さzが大変KこIL…！ すぐL手当GしKいI！
 
 [msg BTL_MES_005_042]
-＜声のみ＞たいへん！ すぐに手当が必要だよ！
+＜声Of＞たいYz！ すぐL手当が必要Ao！
 
 [msg BTL_MES_005_043]
-＜声のみ＞ジョーカーが大変なことに…！ なんとかしなくちゃ！
+＜声Of＞ジョー吋ーが大変KこIL…！ KzIかしKくBj！
 
 [msg BTL_MES_005_044]
-＜声のみ＞スカルがピンチだよ！ 回復が必要みたい！
+＜声Of＞ス吋ルがピン5Ao！ 回復が必要fたい！
 
 [msg BTL_MES_005_045]
-＜声のみ＞パンサー、大丈夫？ 早く手当てを！
+＜声Of＞パンサー、大丈夫？ 早く手当Gy！
 
 [msg BTL_MES_005_046]
-＜声のみ＞モナ、しっかりして！ すぐに処置が必要だよ！
+＜声Of＞モ)、しDかqしG！ すぐL処置が必要Ao！
 
 [msg BTL_MES_005_047]
-＜声のみ＞フォックスが大変みたい！ 回復してあげないと！
+＜声Of＞フ隠7クスが大変fたい！ 回復しGあげKいI！
 
 [msg BTL_MES_005_048]
-＜声のみ＞クイーン、大丈夫かな… なんとかしないと危険だよ
+＜声Of＞ク姻ーン、大丈夫かK… KzIかしKいI危険Ao
 
 [msg BTL_MES_005_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_050]
-＜声のみ＞大変、ノワールが…！ 早く何とかしないと！
+＜声Of＞大変、ノワールが…！ 早く何IかしKいI！
 
 [msg BTL_MES_005_051]
-＜声のみ＞クロウが危ないよ。 回復しなくっちゃ！
+＜声Of＞クロ胤が危Kいo。 回復しKくDBj！
 
 [msg BTL_MES_005_052]
-＜声のみ＞うん、わかった！ 弱点狙ってみるね
+＜声Of＞うz、vかDた！ 弱点狙DGfrN
 
 [msg BTL_MES_005_053]
-斡Jeje! Sigamos as胤.
+斡Je, je! Sigamos as胤.
 
 [msg BTL_MES_005_054]
-＜声のみ＞うん、いい感じ！ やっちゃおう！
+＜声Of＞うz、いい感じ！ kDBjおう！
 
 [msg BTL_MES_005_055]
-Oye, 夷a alguien le importa si voy a[n]por su debilidad?
+夷Les importa si voy a por su debilidad?
 
 [msg BTL_MES_005_056]
-夷Tal vez intentemos un Relevo?
+夷Tal vez intentamos un Relevo?
 
 [msg BTL_MES_005_057]
-斡D姻jamelo a m胤! 斡Incinerar姻 todo!
+斡D姻jamelo a m胤! 斡Quemar姻 todo!
 
 [msg BTL_MES_005_058]
-＜声のみ＞お願い、やっちゃって！
+＜声Of＞お願い、kDBjDG！
 
 [msg BTL_MES_005_059]
-＜声のみ＞うん、よろしくね！
+＜声Of＞うz、otしくN！
 
 [msg BTL_MES_005_060]
-＜声のみ＞お願い、花村くん！ いっちゃって！
+＜声Of＞お願い、花村くz！ いDBjDG！
 
 [msg BTL_MES_005_061]
-＜声のみ＞千枝、任せたよ！
+＜声Of＞千枝、任せたo！
 
 [msg BTL_MES_005_062]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_064]
-＜声のみ＞完二くん、やっちゃえ！
+＜声Of＞完二くz、kDBjえ！
 
 [msg BTL_MES_005_065]
-＜声のみ＞直斗くん、お願いするね！
+＜声Of＞直斗くz、お願いすrN！
 
 [msg BTL_MES_005_066]
-＜声のみ＞クマさん、気合はいってるね
+＜声Of＞クマさz、気合PいDGrN
 
 [msg BTL_MES_005_067]
-＜声のみ＞ゆかりちゃん、やっちゃおう！
+＜声Of＞mかqBjz、kDBjおう！
 
 [msg BTL_MES_005_068]
-＜声のみ＞伊織くん、期待してるからね
+＜声Of＞伊織くz、期待しGrかpN
 
 [msg BTL_MES_005_069]
-＜声のみ＞真田さん、頼もしいです！
+＜声Of＞真田さz、頼iしいHす！
 
 [msg BTL_MES_005_070]
-＜声のみ＞美鶴さん、お願いします！
+＜声Of＞美鶴さz、お願いしeす！
 
 [msg BTL_MES_005_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_072]
-＜声のみ＞殲滅開始だね、アイギスさん
+＜声Of＞殲滅開始AN、威姻/スさz
 
 [msg BTL_MES_005_073]
-＜声のみ＞天田くんならやってくれるよね
+＜声Of＞天田くzKpkDGくsroN
 
 [msg BTL_MES_005_074]
-＜声のみ＞チョーソカベ、ゴー！
+＜声Of＞5ョー1吋ベ、ゴー！
 
 [msg BTL_MES_005_075]
-＜声のみ＞荒垣さん、どうぞ！
+＜声Of＞荒垣さz、Jうぞ！
 
 [msg BTL_MES_005_076]
-＜声のみ＞うん！よろしくおねがいね！
+＜声Of＞うz！otしくおNがいN！
 
 [msg BTL_MES_005_077]
-＜声のみ＞ジョーカー、魅せちゃって！
+＜声Of＞ジョー吋ー、魅せBjDG！
 
 [msg BTL_MES_005_078]
-＜声のみ＞スカル、お願いするね！
+＜声Of＞ス吋ル、お願いすrN！
 
 [msg BTL_MES_005_079]
-＜声のみ＞パンサー、弾けちゃって！
+＜声Of＞パンサー、弾けBjDG！
 
 [msg BTL_MES_005_080]
-＜声のみ＞頼りにしてるね、モナ！
+＜声Of＞頼qLしGrN、モ)！
 
 [msg BTL_MES_005_081]
-＜声のみ＞フォックス、力の見せ所だよ！
+＜声Of＞フ隠7クス、力O見せ所Ao！
 
 [msg BTL_MES_005_082]
-＜声のみ＞気合い充分だね、クイーン！
+＜声Of＞気合い充分AN、ク姻ーン！
 
 [msg BTL_MES_005_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_005_084]
-＜声のみ＞ノワール、お任せするね！
+＜声Of＞ノワール、お任せすrN！
 
 [msg BTL_MES_005_085]
-＜声のみ＞クロウ！ 遠慮なくやっちゃって！
+＜声Of＞クロ胤！ 遠慮KくkDBjDG！
 
 [msg BTL_MES_005_086]
-Incre胤ble... 斡El poder est茨 brotando[n]desde dentro de m胤!
+Incre胤ble... 斡Hay poder brotando dentro de m胤!
 

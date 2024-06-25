@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_001_001]
-No podemos perder aqu胤.
+No podemos perder.
 
 [msg BTL_MES_001_002]
-＜声のみ＞大丈夫、絶対に勝つぞ！
+＜声Of＞大丈夫、絶対L勝Eぞ！
 
 [msg BTL_MES_001_003]
-Un FOE... Probablemente deber胤amos[n]retirarnos.
+Un FOE... Lo mejor ser胤a retirarnos.
 
 [msg BTL_MES_001_004]
-＜声のみ＞無理は禁物だな…
+＜声Of＞無理P禁物AK…
 
 [msg BTL_MES_001_005]
-Es un FOE, pero tal vez podamos[n]manejarlo...
+Es un FOE, pero tal vez podamos con 姻l...
 
 [msg BTL_MES_001_006]
-Una Sombra rara. 斡Es nuestra[n]oportunidad!
+Una Sombra rara. 斡Es nuestra oportunidad!
 
 [msg BTL_MES_001_007]
-＜声のみ＞なら、最初に狙うか…！
+＜声Of＞Kp、最初L狙うか…！
 
 [msg BTL_MES_001_008]
-＜声のみ＞ナビ、了解だ
+＜声Of＞)ビ、了解A
 
 [msg BTL_MES_001_009]
-＜声のみ＞ああ、りせ了解だ！
+＜声Of＞ああ、qせ了解A！
 
 [msg BTL_MES_001_010]
-＜声のみ＞なるほど… ありがとう、山岸さん
+＜声Of＞KrbJ… あqがIう、山岸さz
 
 [msg BTL_MES_001_011]
-El enemigo parece fuerte... Esto[n]podr胤a ser un problema.
+El enemigo parece fuerte... Podr胤a ser un problema.
 
 [msg BTL_MES_001_012]
-＜声のみ＞戦うか、それとも… どうする？
+＜声Of＞戦うか、そsIi… Jうすr？
 
 [msg BTL_MES_001_013]
-Ese es uno nuevo... Encontremos su[n]debilidad primero.
+Esa es nueva... Encontremos su debilidad primero.
 
 [msg BTL_MES_001_014]
-＜声のみ＞ああ、色々試してみよう
+＜声Of＞ああ、色々試しGfoう
 
 [msg BTL_MES_001_015]
 斡De acuerdo, manteng茨monos alerta!
 
 [msg BTL_MES_001_016]
-＜声のみ＞ああ、いくぞ！
+＜声Of＞ああ、いくぞ！
 
 [msg BTL_MES_001_017]
 Terminemos esto r茨pido...
 
 [msg BTL_MES_001_018]
-＜声のみ＞悪いが手加減はしない
+＜声Of＞悪いが手加減PしKい
 
 [msg BTL_MES_001_019]
-Parece que algo cambi吋... 夷verdad?
+Parece que algo cambi吋... 夷Verdad?
 
 [msg BTL_MES_001_020]
-＜声のみ＞マズイ状況だな…
+＜声Of＞マズ姻状況AK…
 
 [msg BTL_MES_001_021]
-＜声のみ＞くっ、どうする？
+＜声Of＞くD、Jうすr？
 
 [msg BTL_MES_001_022]
-斡Ngh...! Esto no se ve bien.
+斡Argh...! Esto no se ve bien.
 
 [msg BTL_MES_001_023]
-＜声のみ＞みんな、大丈夫か？
+＜声Of＞fzK、大丈夫か？
 
 [msg BTL_MES_001_024]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_025]
-＜声のみ＞回復を考えないとな…
+＜声Of＞回復y考えKいIK…
 
 [msg BTL_MES_001_026]
-＜声のみ＞陽介、しっかりしろ！
+＜声Of＞陽介、しDかqしt！
 
 [msg BTL_MES_001_027]
-＜声のみ＞千枝、大丈夫か？
+＜声Of＞千枝、大丈夫か？
 
 [msg BTL_MES_001_028]
-＜声のみ＞雪子、大丈夫か？
+＜声Of＞雪子、大丈夫か？
 
 [msg BTL_MES_001_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_030]
-＜声のみ＞完二、しっかりしろ！
+＜声Of＞完二、しDかqしt！
 
 [msg BTL_MES_001_031]
-＜声のみ＞直斗、大丈夫か？
+＜声Of＞直斗、大丈夫か？
 
 [msg BTL_MES_001_032]
-＜声のみ＞クマ、しっかりしろ！
+＜声Of＞クマ、しDかqしt！
 
 [msg BTL_MES_001_033]
-＜声のみ＞岳羽さんが危険だな…
+＜声Of＞岳羽さzが危険AK…
 
 [msg BTL_MES_001_034]
-＜声のみ＞伊織が危険だな…
+＜声Of＞伊織が危険AK…
 
 [msg BTL_MES_001_035]
-＜声のみ＞真田さんが危険だな…
+＜声Of＞真田さzが危険AK…
 
 [msg BTL_MES_001_036]
-＜声のみ＞桐条さんが危険だな…
+＜声Of＞桐条さzが危険AK…
 
 [msg BTL_MES_001_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_038]
-＜声のみ＞アイギスさん、大丈夫か？
+＜声Of＞威姻/スさz、大丈夫か？
 
 [msg BTL_MES_001_039]
-＜声のみ＞天田、大丈夫か？
+＜声Of＞天田、大丈夫か？
 
 [msg BTL_MES_001_040]
-＜声のみ＞コロマルが危険だな…
+＜声Of＞コロマルが危険AK…
 
 [msg BTL_MES_001_041]
-＜声のみ＞荒垣さんが危険だな…
+＜声Of＞荒垣さzが危険AK…
 
 [msg BTL_MES_001_042]
-＜声のみ＞フォローを考えないとな
+＜声Of＞フ隠ローy考えKいIK
 
 [msg BTL_MES_001_043]
-＜声のみ＞ジョーカー、しっかりしろ！
+＜声Of＞ジョー吋ー、しDかqしt！
 
 [msg BTL_MES_001_044]
-＜声のみ＞スカル、しっかりしろ！
+＜声Of＞ス吋ル、しDかqしt！
 
 [msg BTL_MES_001_045]
-＜声のみ＞パンサー、大丈夫か？
+＜声Of＞パンサー、大丈夫か？
 
 [msg BTL_MES_001_046]
-＜声のみ＞モナ、しっかりしろ！
+＜声Of＞モ)、しDかqしt！
 
 [msg BTL_MES_001_047]
-＜声のみ＞フォックス、しっかりしろ！
+＜声Of＞フ隠7クス、しDかqしt！
 
 [msg BTL_MES_001_048]
-＜声のみ＞クイーン、大丈夫か？
+＜声Of＞ク姻ーン、大丈夫か？
 
 [msg BTL_MES_001_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_050]
-＜声のみ＞ノワール、大丈夫か？
+＜声Of＞ノワール、大丈夫か？
 
 [msg BTL_MES_001_051]
-＜声のみ＞クロウ、しっかりしろ！
+＜声Of＞クロ胤、しDかqしt！
 
 [msg BTL_MES_001_052]
-＜声のみ＞ああ、そうしよう…！
+＜声Of＞ああ、そうしoう…！
 
 [msg BTL_MES_001_053]
 斡Es nuestra oportunidad! 斡Vamos!
 
 [msg BTL_MES_001_054]
-＜声のみ＞ああ、この調子でいくぞ…！
+＜声Of＞ああ、こO調子Hいくぞ…！
 
 [msg BTL_MES_001_055]
-夷Deber胤a disparar?
+夷Deber胤a tomarla?
 
 [msg BTL_MES_001_056]
 Un Relevo podr胤a cambiar esto...
 
 [msg BTL_MES_001_057]
-夷Es mi turno ahora?
+夷Es mi turno?
 
 [msg BTL_MES_001_058]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_059]
-＜声のみ＞ああ、頼んだ！
+＜声Of＞ああ、頼zA！
 
 [msg BTL_MES_001_060]
-＜声のみ＞ああ！ 蹴散らしてやれ、陽介！
+＜声Of＞ああ！ 蹴散pしGks、陽介！
 
 [msg BTL_MES_001_061]
-＜声のみ＞千枝、頼んだ…！
+＜声Of＞千枝、頼zA…！
 
 [msg BTL_MES_001_062]
-＜声のみ＞雪子…ほどほどに頼んだぞ
+＜声Of＞雪子…bJbJL頼zAぞ
 
 [msg BTL_MES_001_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_064]
-＜声のみ＞完二、遠慮はいらない！
+＜声Of＞完二、遠慮PいpKい！
 
 [msg BTL_MES_001_065]
-＜声のみ＞直斗、頼りにしてるぞ
+＜声Of＞直斗、頼qLしGrぞ
 
 [msg BTL_MES_001_066]
-＜声のみ＞輝いてるぞ、クマ！
+＜声Of＞輝いGrぞ、クマ！
 
 [msg BTL_MES_001_067]
-＜声のみ＞岳羽さん、一気に頼む！
+＜声Of＞岳羽さz、一気L頼g！
 
 [msg BTL_MES_001_068]
-＜声のみ＞任せた、伊織！
+＜声Of＞任せた、伊織！
 
 [msg BTL_MES_001_069]
-＜声のみ＞真田さんが燃えてるな…
+＜声Of＞真田さzが燃えGrK…
 
 [msg BTL_MES_001_070]
-＜声のみ＞桐条さん、お願いします
+＜声Of＞桐条さz、お願いしeす
 
 [msg BTL_MES_001_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_072]
-＜声のみ＞思う存分にやってくれ、アイギスさん！
+＜声Of＞思う存分LkDGくs、威姻/スさz！
 
 [msg BTL_MES_001_073]
-＜声のみ＞天田、任せてもいいか？
+＜声Of＞天田、任せGiいいか？
 
 [msg BTL_MES_001_074]
-＜声のみ＞いってくれ、コロマル！
+＜声Of＞いDGくs、コロマル！
 
 [msg BTL_MES_001_075]
-＜声のみ＞荒垣さん、頼みます！
+＜声Of＞荒垣さz、頼feす！
 
 [msg BTL_MES_001_076]
-＜声のみ＞ああ、頼んだぞ！
+＜声Of＞ああ、頼zAぞ！
 
 [msg BTL_MES_001_077]
-＜声のみ＞頼もしいな、ジョーカー
+＜声Of＞頼iしいK、ジョー吋ー
 
 [msg BTL_MES_001_078]
-＜声のみ＞絶好調だな、スカル！
+＜声Of＞絶好調AK、ス吋ル！
 
 [msg BTL_MES_001_079]
-＜声のみ＞パンサー、まかせた！
+＜声Of＞パンサー、eかせた！
 
 [msg BTL_MES_001_080]
-＜声のみ＞モナ、かっこいいぞ
+＜声Of＞モ)、かDこいいぞ
 
 [msg BTL_MES_001_081]
-＜声のみ＞やる気だな、フォックス！
+＜声Of＞kr気AK、フ隠7クス！
 
 [msg BTL_MES_001_082]
-＜声のみ＞クイーン、頼もしいぞ！
+＜声Of＞ク姻ーン、頼iしいぞ！
 
 [msg BTL_MES_001_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_001_084]
-＜声のみ＞やってくれ、ノワール！
+＜声Of＞kDGくs、ノワール！
 
 [msg BTL_MES_001_085]
-＜声のみ＞クロウ、頼んだ！
+＜声Of＞クロ胤、頼zA！
 
 [msg BTL_MES_001_086]
-Lo siento, pero no puedo permitirme[n]contenerme.
+Lo siento, pero no puedo contenerme.
 

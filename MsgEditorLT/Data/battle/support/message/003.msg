@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_003_001]
-斡Ja! Lo siento, pero voy a darlo[n]todo. 斡Te derrotaremos!
+斡Je! Lo siento, pero voy a darlo todo. 斡Te derrotaremos!
 
 [msg BTL_MES_003_002]
-＜声のみ＞やってやろうぜ！ ぜってー負けねえ！
+＜声Of＞kDGktうぜ！ ぜDGー負けNえ！
 
 [msg BTL_MES_003_003]
-斡夷Qu姻?! 斡Un FOE! 斡Ah, demonios...!
+斡夷Qu姻?! 斡Un FOE! 斡Ah, vamos...!
 
 [msg BTL_MES_003_004]
-＜声のみ＞了解っと！ 退散退散！
+＜声Of＞了解DI！ 退散退散！
 
 [msg BTL_MES_003_005]
-夷A qui姻n le importa si es un FOE? 斡No[n]nos echaremos atr茨s!
+夷A qui姻n le importa si es un FOE? 斡No vamos a retroceder!
 
 [msg BTL_MES_003_006]
-斡Vaya, uno raro! 斡Qu姻 suerte!
+斡Eh, una rara! 斡Qu姻 suerte!
 
 [msg BTL_MES_003_007]
-＜声のみ＞まかせとけって！ ぜってー逃がさねーぞ！
+＜声Of＞eかせIけDG！ ぜDGー逃がさNーぞ！
 
 [msg BTL_MES_003_008]
-＜声のみ＞さんきゅーな、ナビ！
+＜声Of＞さzきlーK、)ビ！
 
 [msg BTL_MES_003_009]
-＜声のみ＞りょーかい！ りせ、さんきゅーな！
+＜声Of＞qnーかい！ qせ、さzきlーK！
 
 [msg BTL_MES_003_010]
-＜声のみ＞なるほどな！ めっちゃ助かるぜ、山岸さん！
+＜声Of＞KrbJK！ hDBj助かrぜ、山岸さz！
 
 [msg BTL_MES_003_011]
-斡Maldici吋n! 斡Este es fuerte! 斡夷C吋mo[n]salimos de esto?!
+斡Esta es fuerte! 斡夷C吋mo salimos de esta?!
 
 [msg BTL_MES_003_012]
-＜声のみ＞えっと…ここは次の機会に！ つーことにしねぇ？
+＜声Of＞えDI…ここP次O機会L！ EーこILしNぇ？
 
 [msg BTL_MES_003_013]
-斡Vaya! No hemos visto a ese antes.[n]斡Vamos a ver sus debilidades!
+No la hemos visto antes. 斡Busquemos sus debilidades!
 
 [msg BTL_MES_003_014]
-＜声のみ＞うっし、いろいろやってみようぜ！
+＜声Of＞うDし、いtいtkDGfoうぜ！
 
 [msg BTL_MES_003_015]
-斡Oye! 斡Podr胤amos ganar esto!
+斡Oye! 斡Podr胤amos ganar esta!
 
 [msg BTL_MES_003_016]
-＜声のみ＞よっし！ 俺にまかせなさい！
+＜声Of＞oDし！ 俺LeかせKさい！
 
 [msg BTL_MES_003_017]
 斡Muy f茨cil! 斡Podemos con esto!
 
 [msg BTL_MES_003_018]
-＜声のみ＞お？やるか？ やっちまうのか？
+＜声Of＞お？krか？ kDBeうOか？
 
 [msg BTL_MES_003_019]
-斡Vaya! 夷La Sombra cambi吋?
+斡Ah! 夷La Sombra cambi吋?
 
 [msg BTL_MES_003_020]
-＜声のみ＞おいおい！ ヤベーって！
+＜声Of＞おいおい！ ヤベーDG！
 
 [msg BTL_MES_003_021]
-＜声のみ＞くそ…！ 呼んでねーっつの！
+＜声Of＞くそ…！ 呼zHNーDEO！
 
 [msg BTL_MES_003_022]
-斡夷Qu姻 vamos a hacer?!
+斡夷Qu姻 hacemos?!
 
 [msg BTL_MES_003_023]
-＜声のみ＞ちょっ、マジ！？ 立て直さねーとやべーだろ。
+＜声Of＞BnD、マジ！？ 立G直さNーIkZーAt。
 
 [msg BTL_MES_003_024]
-＜声のみ＞大丈夫かよ、相棒！？ なんとかしねーとな…
+＜声Of＞大丈夫かo、相棒！？ KzIかしNーIK…
 
 [msg BTL_MES_003_025]
-＜声のみ＞うおっ、大丈夫かよ！？ 治さねぇとやべーな
+＜声Of＞うおD、大丈夫かo！？ 治さNぇIkZーK
 
 [msg BTL_MES_003_026]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_027]
-＜声のみ＞里中、平気かよ！？ すぐになんとかしねーと！
+＜声Of＞里中、平気かo！？ すぐLKzIかしNーI！
 
 [msg BTL_MES_003_028]
-＜声のみ＞天城の事、なんとかしねーとな…
+＜声Of＞天城O事、KzIかしNーIK…
 
 [msg BTL_MES_003_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_030]
-＜声のみ＞完二、しっかりしろ！ くそ、フォローしねーとな…
+＜声Of＞完二、しDかqしt！ くそ、フ隠ローしNーIK…
 
 [msg BTL_MES_003_031]
-＜声のみ＞マジかよ、直斗… なんとかしねーとな…
+＜声Of＞マジかo、直斗… KzIかしNーIK…
 
 [msg BTL_MES_003_032]
-＜声のみ＞クマ、しっかりしろって！ くそ、フォローしねーとな…
+＜声Of＞クマ、しDかqしtDG！ くそ、フ隠ローしNーIK…
 
 [msg BTL_MES_003_033]
-＜声のみ＞岳羽さん、大丈夫か？ 助けねーと…！
+＜声Of＞岳羽さz、大丈夫か？ 助けNーI…！
 
 [msg BTL_MES_003_034]
-＜声のみ＞伊織、大丈夫かよ！？ 早くなんとかしねーと
+＜声Of＞伊織、大丈夫かo！？ 早くKzIかしNーI
 
 [msg BTL_MES_003_035]
-＜声のみ＞真田さん、大丈夫かよ！？ やべえ、手うたねーと
+＜声Of＞真田さz、大丈夫かo！？ kZえ、手うたNーI
 
 [msg BTL_MES_003_036]
-＜声のみ＞桐条さん、ヤバくねーか！？ 何とかしねぇと！
+＜声Of＞桐条さz、ヤバくNーか！？ 何IかしNぇI！
 
 [msg BTL_MES_003_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_038]
-＜声のみ＞アイちゃん、大変なことになってんぞ！？ 何とかしねーとやべぇ
+＜声Of＞威姻Bjz、大変KこILKDGzぞ！？ 何IかしNーIkZぇ
 
 [msg BTL_MES_003_039]
-＜声のみ＞天田がヤベェ！ 放っておけねーぞ！？
+＜声Of＞天田がヤベ緯！ 放DGおけNーぞ！？
 
 [msg BTL_MES_003_040]
-＜声のみ＞コロマル、なんとかしねーとな… このままじゃマズイって
+＜声Of＞コロマル、KzIかしNーIK… こOeeじjマズ姻DG
 
 [msg BTL_MES_003_041]
-＜声のみ＞荒垣さん、大丈夫… じゃないっすよね
+＜声Of＞荒垣さz、大丈夫… じjKいDすoN
 
 [msg BTL_MES_003_042]
-＜声のみ＞おいおい、マジか？ ほっとくとヤベーんじゃねーの？
+＜声Of＞おいおい、マジか？ bDIくIヤベーzじjNーO？
 
 [msg BTL_MES_003_043]
-＜声のみ＞ジョーカー、しっかりしろって！ 何とかしねーと…
+＜声Of＞ジョー吋ー、しDかqしtDG！ 何IかしNーI…
 
 [msg BTL_MES_003_044]
-＜声のみ＞スカル、しっかりしろ！ くそ、フォローしねーとな…
+＜声Of＞ス吋ル、しDかqしt！ くそ、フ隠ローしNーIK…
 
 [msg BTL_MES_003_045]
-＜声のみ＞パンサーがやべぇ！ フォローしねーと！
+＜声Of＞パンサーがkZぇ！ フ隠ローしNーI！
 
 [msg BTL_MES_003_046]
-＜声のみ＞モナがピンチになってんぞ！ どうにかしねーと！
+＜声Of＞モ)がピン5LKDGzぞ！ JうLかしNーI！
 
 [msg BTL_MES_003_047]
-＜声のみ＞フォックス、しっかりしろって！ すぐフォローしねぇと！
+＜声Of＞フ隠7クス、しDかqしtDG！ すぐフ隠ローしNぇI！
 
 [msg BTL_MES_003_048]
-＜声のみ＞クイーン、大丈夫かよ… このままじゃマズイって！
+＜声Of＞ク姻ーン、大丈夫かo… こOeeじjマズ姻DG！
 
 [msg BTL_MES_003_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_050]
-＜声のみ＞ノワール、マジかよ！ 大丈夫…じゃねぇよな！？
+＜声Of＞ノワール、マジかo！ 大丈夫…じjNぇoK！？
 
 [msg BTL_MES_003_051]
-＜声のみ＞しっかりしろって、クロウ！ すぐにフォローしねぇと…！
+＜声Of＞しDかqしtDG、クロ胤！ すぐLフ隠ローしNぇI…！
 
 [msg BTL_MES_003_052]
-＜声のみ＞おっし、狙い撃ちしてやるぜ！
+＜声Of＞おDし、狙い撃BしGkrぜ！
 
 [msg BTL_MES_003_053]
-斡Amigo! 斡Hoy estamos en racha!
+斡Estamos en racha!
 
 [msg BTL_MES_003_054]
-＜声のみ＞オッケー！ やってやろうぜっ！
+＜声Of＞謂7ケー！ kDGktうぜD！
 
 [msg BTL_MES_003_055]
-Si queremos golpear su debilidad,[n]斡simplemente c茨mbiame!
+Si quieres atacar su debilidad, 斡c茨mbiame!
 
 [msg BTL_MES_003_056]
-斡De acuerdo! 夷Hora de un Relevo?
+斡Bien! 夷Hora de un Relevo?
 
 [msg BTL_MES_003_057]
-斡Oh! 斡Parece que es mi momento de[n]brillar!
+斡Oh! 斡Parece que es mi momento de brillar!
 
 [msg BTL_MES_003_058]
-＜声のみ＞さっすが、相棒！ 頼んだぜ！
+＜声Of＞さDすが、相棒！ 頼zAぜ！
 
 [msg BTL_MES_003_059]
-＜声のみ＞ああ、任せるぜ。 やっちまってくれ！
+＜声Of＞ああ、任せrぜ。 kDBeDGくs！
 
 [msg BTL_MES_003_060]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_061]
-＜声のみ＞うおっ、里中のやる気がスゲーな
+＜声Of＞うおD、里中Okr気がス郁ーK
 
 [msg BTL_MES_003_062]
-＜声のみ＞えっと…天城？ 俺たちまで燃やすなよ…？
+＜声Of＞えDI…天城？ 俺たBeH燃kすKo…？
 
 [msg BTL_MES_003_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_064]
-＜声のみ＞完二！ ぶちかましてやれよ！
+＜声Of＞完二！ WBかeしGkso！
 
 [msg BTL_MES_003_065]
-＜声のみ＞よっしゃ！ やっちまえ、直斗！
+＜声Of＞oDしj！ kDBeえ、直斗！
 
 [msg BTL_MES_003_066]
-＜声のみ＞いいぞ、クマ！ いっけええええ！
+＜声Of＞いいぞ、クマ！ いDけええええ！
 
 [msg BTL_MES_003_067]
-＜声のみ＞おおっ。岳羽さん、燃えてるな！
+＜声Of＞おおD。岳羽さz、燃えGrK！
 
 [msg BTL_MES_003_068]
-＜声のみ＞おっしゃー！ 伊織、頼んだぜ！
+＜声Of＞おDしjー！ 伊織、頼zAぜ！
 
 [msg BTL_MES_003_069]
-＜声のみ＞真田さんの気迫、やべぇ…！
+＜声Of＞真田さzO気迫、kZぇ…！
 
 [msg BTL_MES_003_070]
-＜声のみ＞桐条さん、超クールだぜ！
+＜声Of＞桐条さz、超クールAぜ！
 
 [msg BTL_MES_003_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_072]
-＜声のみ＞アイちゃん！ ぶちかましてやれ！
+＜声Of＞威姻Bjz！ WBかeしGks！
 
 [msg BTL_MES_003_073]
-＜声のみ＞おっし、天田！ 頑張れよ！
+＜声Of＞おDし、天田！ 頑張so！
 
 [msg BTL_MES_003_074]
-＜声のみ＞コロマル！ お前に任せた！
+＜声Of＞コロマル！ お前L任せた！
 
 [msg BTL_MES_003_075]
-＜声のみ＞荒垣さん、 やる気充分じゃないっすか！
+＜声Of＞荒垣さz、 kr気充分じjKいDすか！
 
 [msg BTL_MES_003_076]
-＜声のみ＞おう、期待してっからな！
+＜声Of＞おう、期待しGDかpK！
 
 [msg BTL_MES_003_077]
-＜声のみ＞決めてくれよな、ジョーカー！
+＜声Of＞決hGくsoK、ジョー吋ー！
 
 [msg BTL_MES_003_078]
-＜声のみ＞スカル、ぶちかましてやれよ！
+＜声Of＞ス吋ル、WBかeしGkso！
 
 [msg BTL_MES_003_079]
-＜声のみ＞パンサー、 やっちまってくれ！
+＜声Of＞パンサー、 kDBeDGくs！
 
 [msg BTL_MES_003_080]
-＜声のみ＞モナー！ 頼んだぞー！
+＜声Of＞モ)ー！ 頼zAぞー！
 
 [msg BTL_MES_003_081]
-＜声のみ＞おうよ。任せるぜフォックス！
+＜声Of＞おうo。任せrぜフ隠7クス！
 
 [msg BTL_MES_003_082]
-＜声のみ＞クイーンのやる気、スゲーぜ…！
+＜声Of＞ク姻ーンOkr気、ス郁ーぜ…！
 
 [msg BTL_MES_003_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_003_084]
-＜声のみ＞やっちまえ、ノワール！
+＜声Of＞kDBeえ、ノワール！
 
 [msg BTL_MES_003_085]
-＜声のみ＞クロウ！ 蹴散らしてやれよ！
+＜声Of＞クロ胤！ 蹴散pしGkso！
 
 [msg BTL_MES_003_086]
-斡De acuerdo! 斡Estoy listo para[n]arrasar!
+斡Muy bien! 斡Listo para rockear!
 
