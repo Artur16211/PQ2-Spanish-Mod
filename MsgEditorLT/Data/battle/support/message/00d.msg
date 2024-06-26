@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_013_001]
-によ れもまょろよデ らまるよ ょよ らよぽまゆよれ るまろるよぼまぽまるテ ィにぺ[n]わもぼろよるもぺ れまるァ ょゎまれろるぺ!
+Lo siento, pero no podemos retroceder. 斡La victoria ser茨 nuestra!
 
 [msg BTL_MES_013_002]
-＜声のみ＞負けるわけにはいかない。 すまないが、ここは退いてもらうぞ！
+＜声Of＞負けrvけLPいかKい。 すeKいが、ここP退いGipうぞ！
 
 [msg BTL_MES_013_003]
-Un FOE... La retirada podr胤a ser la[n]mejor opci吋n.
+Un FOE... Retirarse ser胤a la mejor opci吋n.
 
 [msg BTL_MES_013_004]
-＜声のみ＞ああ、こちらも 無茶をする道理はない
+＜声Of＞ああ、こBpi 無茶yすr道理PKい
 
 [msg BTL_MES_013_005]
-Un FOE... Pero este parece estar a[n]nuestro alcance.
+Un FOE... Pero este parece estar a nuestro alcance.
 
 [msg BTL_MES_013_006]
-斡Es una Sombra rara...! 斡No dejes que[n]escape!
+斡Una Sombra rara...! 斡No dejes que escape!
 
 [msg BTL_MES_013_007]
-＜声のみ＞なるほど… 優先的に狙うとしよう
+＜声Of＞KrbJ… 優先的L狙うIしoう
 
 [msg BTL_MES_013_008]
-＜声のみ＞了解した、ナビ
+＜声Of＞了解した、)ビ
 
 [msg BTL_MES_013_009]
-＜声のみ＞了解だ、久慈川
+＜声Of＞了解A、久慈川
 
 [msg BTL_MES_013_010]
-＜声のみ＞承知した、山岸
+＜声Of＞承知した、山岸
 
 [msg BTL_MES_013_011]
-Este parece poderoso... 夷Qu姻 hacemos?
+Esta parece poderosa... 夷Qu姻 hacemos?
 
 [msg BTL_MES_013_012]
-＜声のみ＞退くか、進むか。 采配は任せる
+＜声Of＞退くか、進gか。 采配P任せr
 
 [msg BTL_MES_013_013]
-Un nuevo enemigo. Mantengan la calma[n]y 斡encuentren su punto d姻bil!
+Un nuevo enemigo. Mantengan la calma y 斡encuentren su punto d姻bil!
 
 [msg BTL_MES_013_014]
-＜声のみ＞戦闘データの収集が必要だな やるぞ！
+＜声Of＞戦闘,ー3O収集が必要AK krぞ！
 
 [msg BTL_MES_013_015]
 Esto no deber胤a ser un problema.
 
 [msg BTL_MES_013_016]
-＜声のみ＞戦力は五分五分のようだな。 いくぞ！
+＜声Of＞戦力P五分五分OoうAK。 いくぞ！
 
 [msg BTL_MES_013_017]
 斡Los derrotaremos aqu胤 y ahora!
 
 [msg BTL_MES_013_018]
-＜声のみ＞格下だからといって 決して侮るなよ！
+＜声Of＞格下AかpIいDG 決しG侮rKo！
 
 [msg BTL_MES_013_019]
-夷Qu姻...? 夷Esa Sombra cambi吋?
+夷Qu姻...? 夷La Sombra cambi吋?
 
 [msg BTL_MES_013_020]
-＜声のみ＞逃走失敗か… さて、どうする！？
+＜声Of＞逃走失敗か… さG、Jうすr！？
 
 [msg BTL_MES_013_021]
-＜声のみ＞退くのも作戦だぞ！
+＜声Of＞退くOi作戦Aぞ！
 
 [msg BTL_MES_013_022]
-斡Esto es una crisis! 斡Necesitamos un[n]plan!
+斡Estamos en crisis! 斡Necesitamos un plan!
 
 [msg BTL_MES_013_023]
-＜声のみ＞今は、回復を最優先で 進めるべきだろう
+＜声Of＞今P、回復y最優先H 進hrZきAtう
 
 [msg BTL_MES_013_024]
-＜声のみ＞このままではマズいな… 援護を優先するぞ！
+＜声Of＞こOeeHPマズいK… 援護y優先すrぞ！
 
 [msg BTL_MES_013_025]
-＜声のみ＞大丈夫か？ ここは回復を考えなければ…
+＜声Of＞大丈夫か？ ここP回復y考えKけsQ…
 
 [msg BTL_MES_013_026]
-＜声のみ＞大丈夫か、花村！ 対処を考えねば…
+＜声Of＞大丈夫か、花村！ 対処y考えNQ…
 
 [msg BTL_MES_013_027]
-＜声のみ＞無理をするな、里中！ こちらでも援護をする！
+＜声Of＞無理yすrK、里中！ こBpHi援護yすr！
 
 [msg BTL_MES_013_028]
-＜声のみ＞しっかりしろ、天城！ すぐに援護する！
+＜声Of＞しDかqしt、天城！ すぐL援護すr！
 
 [msg BTL_MES_013_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_030]
-＜声のみ＞大丈夫か、巽！ このままではマズいな…
+＜声Of＞大丈夫か、巽！ こOeeHPマズいK…
 
 [msg BTL_MES_013_031]
-＜声のみ＞しっかりしろ、白鐘！ どうにか回復をしなければ…
+＜声Of＞しDかqしt、白鐘！ JうLか回復yしKけsQ…
 
 [msg BTL_MES_013_032]
-＜声のみ＞おいクマ、しっかりしろ！ このまま放っておけないな…
+＜声Of＞おいクマ、しDかqしt！ こOee放DGおけKいK…
 
 [msg BTL_MES_013_033]
-＜声のみ＞岳羽がやられてるぞ！ くっ…回復が必要だな
+＜声Of＞岳羽がkpsGrぞ！ くD…回復が必要AK
 
 [msg BTL_MES_013_034]
-＜声のみ＞無理をするな伊織！ 待っていろ、援護する！
+＜声Of＞無理yすrK伊織！ 待DGいt、援護すr！
 
 [msg BTL_MES_013_035]
-＜声のみ＞しっかりしろ、明彦！ 今、援護をする！
+＜声Of＞しDかqしt、明彦！ 今、援護yすr！
 
 [msg BTL_MES_013_036]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_038]
-＜声のみ＞くっ…アイギス！ こちらもフォローに努める！
+＜声Of＞くD…威姻/ス！ こBpiフ隠ローL努hr！
 
 [msg BTL_MES_013_039]
-＜声のみ＞天田、しっかりしてくれ！ すぐ援護する！
+＜声Of＞天田、しDかqしGくs！ すぐ援護すr！
 
 [msg BTL_MES_013_040]
-＜声のみ＞おいっ、コロマル！ くっ…回復が必要そうだな
+＜声Of＞おいD、コロマル！ くD…回復が必要そうAK
 
 [msg BTL_MES_013_041]
-＜声のみ＞しっかりしろ、荒垣！ 早く回復をしてやらないと…
+＜声Of＞しDかqしt、荒垣！ 早く回復yしGkpKいI…
 
 [msg BTL_MES_013_042]
-＜声のみ＞おい、大丈夫か！？ すぐにフォローにあたる！
+＜声Of＞おい、大丈夫か！？ すぐLフ隠ローLあたr！
 
 [msg BTL_MES_013_043]
-＜声のみ＞ジョーカー、しっかりしろ！ 早く手当てしなければ…！
+＜声Of＞ジョー吋ー、しDかqしt！ 早く手当GしKけsQ…！
 
 [msg BTL_MES_013_044]
-＜声のみ＞このままではスカルが危険だ！ 早急に対処が必要だぞ！
+＜声Of＞こOeeHPス吋ルが危険A！ 早急L対処が必要Aぞ！
 
 [msg BTL_MES_013_045]
-＜声のみ＞くっ…パンサーが…！ こちらも、すぐ援護する！
+＜声Of＞くD…パンサーが…！ こBpi、すぐ援護すr！
 
 [msg BTL_MES_013_046]
-＜声のみ＞どうした、モナ！？ このままでは危険だぞ！
+＜声Of＞Jうした、モ)！？ こOeeHP危険Aぞ！
 
 [msg BTL_MES_013_047]
-＜声のみ＞大丈夫か、フォックス！ くっ…すぐに回復しなければ！
+＜声Of＞大丈夫か、フ隠7クス！ くD…すぐL回復しKけsQ！
 
 [msg BTL_MES_013_048]
-＜声のみ＞クイーンがやられてるぞ！ すぐに回復にあたれ！
+＜声Of＞ク姻ーンがkpsGrぞ！ すぐL回復Lあたs！
 
 [msg BTL_MES_013_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_050]
-＜声のみ＞ノワール、しっかりしろ！ こちらもフォローする！
+＜声Of＞ノワール、しDかqしt！ こBpiフ隠ローすr！
 
 [msg BTL_MES_013_051]
-＜声のみ＞クロウがやられているぞ！ 早急な回復を！
+＜声Of＞クロ胤がkpsGいrぞ！ 早急K回復y！
 
 [msg BTL_MES_013_052]
-＜声のみ＞了解した。 すぐに楽にしてやろう
+＜声Of＞了解した。 すぐL楽LしGktう
 
 [msg BTL_MES_013_053]
 斡Ahora es mi turno! 斡Prep茨rate!
 
 [msg BTL_MES_013_054]
-＜声のみ＞フッ… まだまだ、いけそうだな
+＜声Of＞フ7… eAeA、いけそうAK
 
 [msg BTL_MES_013_055]
 Perm胤teme exponer su debilidad.
 
 [msg BTL_MES_013_056]
-Un Relevo puede sernos 雨til.
+Un Relevo podr胤a sernos 雨til.
 
 [msg BTL_MES_013_057]
-Supongo que sera un espect茨culo de[n]fuerza.
+Supongo que ser茨 un desaf胤o de fuerza.
 
 [msg BTL_MES_013_058]
-＜声のみ＞ああ、期待に応えてくれ！
+＜声Of＞ああ、期待L応えGくs！
 
 [msg BTL_MES_013_059]
-＜声のみ＞フッ…頼もしい限りだな 任せるぞ！
+＜声Of＞フ7…頼iしい限qAK 任せrぞ！
 
 [msg BTL_MES_013_060]
-＜声のみ＞花村、目にものを見せてやれ！
+＜声Of＞花村、目LiOy見せGks！
 
 [msg BTL_MES_013_061]
-＜声のみ＞頼むぞ、里中！
+＜声Of＞頼gぞ、里中！
 
 [msg BTL_MES_013_062]
-＜声のみ＞天城、思う存分に 力を奮ってくれ！
+＜声Of＞天城、思う存分L 力y奮DGくs！
 
 [msg BTL_MES_013_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_064]
-＜声のみ＞気合は充分の様だな、巽！
+＜声Of＞気合P充分O様AK、巽！
 
 [msg BTL_MES_013_065]
-＜声のみ＞白鐘！ 君の力を信じている！
+＜声Of＞白鐘！ 君O力y信じGいr！
 
 [msg BTL_MES_013_066]
-＜声のみ＞クマ、君の本領を 発揮してくれ！
+＜声Of＞クマ、君O本領y 発揮しGくs！
 
 [msg BTL_MES_013_067]
-＜声のみ＞頼んだぞ、岳羽！ そのまま敵を殲滅しろ！
+＜声Of＞頼zAぞ、岳羽！ そOee敵y殲滅しt！
 
 [msg BTL_MES_013_068]
-＜声のみ＞フッ、伊織… 存分にやってみせろ！
+＜声Of＞フ7、伊織… 存分LkDGfせt！
 
 [msg BTL_MES_013_069]
-＜声のみ＞明彦！ 全力で行け！
+＜声Of＞明彦！ 全力H行け！
 
 [msg BTL_MES_013_070]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_072]
-＜声のみ＞アイギス！ 敵の殲滅を開始しろ！
+＜声Of＞威姻/ス！ 敵O殲滅y開始しt！
 
 [msg BTL_MES_013_073]
-＜声のみ＞天田、実力を見せつけてやれ！
+＜声Of＞天田、実力y見せEけGks！
 
 [msg BTL_MES_013_074]
-＜声のみ＞いいぞ、コロマル。 お前ならやれる！
+＜声Of＞いいぞ、コロマル。 お前Kpksr！
 
 [msg BTL_MES_013_075]
-＜声のみ＞気合が入っているな、荒垣。 後は頼んだぞ。
+＜声Of＞気合が入DGいrK、荒垣。 後P頼zAぞ。
 
 [msg BTL_MES_013_076]
-＜声のみ＞フッ…いい気合いだ、期待してるぞ！
+＜声Of＞フ7…いい気合いA、期待しGrぞ！
 
 [msg BTL_MES_013_077]
-＜声のみ＞お前の力、見せてくれジョーカー！
+＜声Of＞お前O力、見せGくsジョー吋ー！
 
 [msg BTL_MES_013_078]
-＜声のみ＞ほう…ずいぶんと 頼もしいじゃないか、スカル！
+＜声Of＞bう…ずいWzI 頼iしいじjKいか、ス吋ル！
 
 [msg BTL_MES_013_079]
-＜声のみ＞パンサー！ 君の力、期待しているぞ！
+＜声Of＞パンサー！ 君O力、期待しGいrぞ！
 
 [msg BTL_MES_013_080]
-＜声のみ＞ならば、モナ！ 遠慮なくやってみせろ！
+＜声Of＞KpQ、モ)！ 遠慮KくkDGfせt！
 
 [msg BTL_MES_013_081]
-＜声のみ＞どうやら、フォックスに まかせた方がよさそうだな
+＜声Of＞Jうkp、フ隠7クスL eかせた方がoさそうAK
 
 [msg BTL_MES_013_082]
-＜声のみ＞頼んだぞ、クイーン。 君ならやってくれると信じてる
+＜声Of＞頼zAぞ、ク姻ーン。 君KpkDGくsrI信じGr
 
 [msg BTL_MES_013_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_013_084]
-＜声のみ＞ノワール、君の出番だ。 フルパワーでいってくれ！
+＜声Of＞ノワール、君O出番A。 フルパワーHいDGくs！
 
 [msg BTL_MES_013_085]
-＜声のみ＞フッ、クロウなら 完璧にキメてくれそうだ
+＜声Of＞フ7、クロ胤Kp 完璧LキメGくsそうA
 
 [msg BTL_MES_013_086]
-Supongo que es hora de mostrarte de[n]lo que soy capaz.
+Supongo que es hora de mostrar de lo que soy capaz.
 

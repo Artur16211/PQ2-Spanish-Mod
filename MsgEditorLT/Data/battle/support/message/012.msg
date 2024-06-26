@@ -2,260 +2,260 @@
 Dummy
 
 [msg BTL_MES_018_001]
-Hmph... Si vamos a hacer esto,[n]asegur姻monos de ganar.
+Pfff... Si vamos a hacer esto, asegur姻monos de ganar.
 
 [msg BTL_MES_018_002]
-＜声のみ＞ハナから負けるつもりはねぇ 全力でぶちのめす！
+＜声Of＞ハ)かp負けrEiqPNぇ 全力HWBOhす！
 
 [msg BTL_MES_018_003]
 夷Un FOE, eh? Genial...
 
 [msg BTL_MES_018_004]
-＜声のみ＞ああ、気に食わねえが ここは退く方が良いだろうな。
+＜声Of＞ああ、気L食vNえが ここP退く方が良いAtうK。
 
 [msg BTL_MES_018_005]
-S胤, es un FOE, pero podemos vencer a[n]esta mierda.
+S胤, es un FOE, pero podemos vencer esa mierda.
 
 [msg BTL_MES_018_006]
-Una Sombra rara... De ninguna manera[n]podemos a dejarla escapar.
+Una Sombra rara... De ninguna manera podemos dejarla escapar.
 
 [msg BTL_MES_018_007]
-＜声のみ＞ああ、逃がさねぇように しっかり仕留めんぞ。
+＜声Of＞ああ、逃がさNぇoうL しDかq仕留hzぞ。
 
 [msg BTL_MES_018_008]
-＜声のみ＞了解だ、ナビ
+＜声Of＞了解A、)ビ
 
 [msg BTL_MES_018_009]
-＜声のみ＞わかった、久慈川
+＜声Of＞vかDた、久慈川
 
 [msg BTL_MES_018_010]
-＜声のみ＞了解だ、山岸
+＜声Of＞了解A、山岸
 
 [msg BTL_MES_018_011]
-Deber胤a ser una buena pelea... Aun[n]as胤, ser茨 dif胤cil.
+Podr胤a una buena pelea... Aun as胤, ser茨 dif胤cil.
 
 [msg BTL_MES_018_012]
-＜声のみ＞戦えない相手じゃねぇが… どうすんだ？
+＜声Of＞戦えKい相手じjNぇが… JうすzA？
 
 [msg BTL_MES_018_013]
-つれ ゅぺ らるもゆまるぺ わまん りゎま わまよ ぺ まれまテ ねよ ぽまほまるウぺ[n]れまる ゎょ らるよほゅまゆぺ ゎょぺ わまん りゎま ぽまれぼゎほるぺゆよれ れゎ[n]ぽまほもゅもぽぺぽテ
+Es la primera vez que veo a esa. No deber胤a ser problema si descubrimos su debilidad.
 
 [msg BTL_MES_018_014]
-＜声のみ＞そんじゃ、探ってみっか。
+＜声Of＞そzじj、探DGfDか。
 
 [msg BTL_MES_018_015]
-Podemos con estas, 夷verdad?
+Podemos con esas, 夷verdad?
 
 [msg BTL_MES_018_016]
-＜声のみ＞心配しねぇでも 全部沈めてやるよ
+＜声Of＞心配しNぇHi 全部沈hGkro
 
 [msg BTL_MES_018_017]
-Tch, debiluchos... Acabemos con[n]ellas.
+Tss, debiluchos... Acabemos con ellos.
 
 [msg BTL_MES_018_018]
-＜声のみ＞手こずる相手じゃねぇな
+＜声Of＞手こずr相手じjNぇK
 
 [msg BTL_MES_018_019]
-...Parece que esa Sombra cambi吋 de[n]alguna manera.
+...Parece que esa Sombra cambi吋 de alguna manera.
 
 [msg BTL_MES_018_020]
-＜声のみ＞退路はねぇみたいだぜ… どうすんだ？
+＜声Of＞退路PNぇfたいAぜ… JうすzA？
 
 [msg BTL_MES_018_021]
-＜声のみ＞チッ… こんな時にうぜぇ…
+＜声Of＞57… こzK時Lうぜぇ…
 
 [msg BTL_MES_018_022]
-Dada la situaci吋n, no te metas en[n]algo que no puedas manejar.
+Dada la situaci吋n, no te metas en algo que no puedas manejar.
 
 [msg BTL_MES_018_023]
-＜声のみ＞クソッ… 立て直さねぇと、全滅すんぞ
+＜声Of＞ク17… 立G直さNぇI、全滅すzぞ
 
 [msg BTL_MES_018_024]
-＜声のみ＞チッ、まずいな。 なんとかしねぇと…
+＜声Of＞57、eずいK。 KzIかしNぇI…
 
 [msg BTL_MES_018_025]
-＜声のみ＞おい、このままじゃヤベェぞ？ フォローが必要だ
+＜声Of＞おい、こOeeじjヤベ緯ぞ？ フ隠ローが必要A
 
 [msg BTL_MES_018_026]
-＜声のみ＞しっかりしろ、花村！ チッ…なんとかしねぇとな…
+＜声Of＞しDかqしt、花村！ 57…KzIかしNぇIK…
 
 [msg BTL_MES_018_027]
-＜声のみ＞おい、里中がヤベェぞ？ フォローしてやんねぇと
+＜声Of＞おい、里中がヤベ緯ぞ？ フ隠ローしGkzNぇI
 
 [msg BTL_MES_018_028]
-＜声のみ＞チッ…天城がマズいな どうにかしねぇと…
+＜声Of＞57…天城がマズいK JうLかしNぇI…
 
 [msg BTL_MES_018_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_030]
-＜声のみ＞しっかりしろ、完二！ このままじゃマズイぞ
+＜声Of＞しDかqしt、完二！ こOeeじjマズ姻ぞ
 
 [msg BTL_MES_018_031]
-＜声のみ＞チッ…白鐘がマズいぞ 早くどうにかしねぇと
+＜声Of＞57…白鐘がマズいぞ 早くJうLかしNぇI
 
 [msg BTL_MES_018_032]
-＜声のみ＞おいクマ、大丈夫か？ フォローが必要そうだな
+＜声Of＞おいクマ、大丈夫か？ フ隠ローが必要そうAK
 
 [msg BTL_MES_018_033]
-＜声のみ＞チッ…岳羽がマズいな どうにかしねぇと
+＜声Of＞57…岳羽がマズいK JうLかしNぇI
 
 [msg BTL_MES_018_034]
-＜声のみ＞このままだと、順平がヤベェぞ。 フォローが必要そうだな
+＜声Of＞こOeeAI、順平がヤベ緯ぞ。 フ隠ローが必要そうAK
 
 [msg BTL_MES_018_035]
-＜声のみ＞チッ…アキがマズいな とっとと、どうにかしねぇと
+＜声Of＞57…威キがマズいK IDII、JうLかしNぇI
 
 [msg BTL_MES_018_036]
-＜声のみ＞チッ…桐条がやられてるな 回復が必要だぜ
+＜声Of＞57…桐条がkpsGrK 回復が必要Aぜ
 
 [msg BTL_MES_018_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_038]
-＜声のみ＞チッ…アイギスがマズいな 早く手をうたねぇと
+＜声Of＞57…威姻/スがマズいK 早く手yうたNぇI
 
 [msg BTL_MES_018_039]
-＜声のみ＞チッ…天田… フォローが必要そうだな
+＜声Of＞57…天田… フ隠ローが必要そうAK
 
 [msg BTL_MES_018_040]
-＜声のみ＞大丈夫か、コロちゃん！？ どうにかしてやんねぇと…
+＜声Of＞大丈夫か、コロBjz！？ JうLかしGkzNぇI…
 
 [msg BTL_MES_018_041]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_042]
-＜声のみ＞フォローが必要そうだな。 待ってろよ
+＜声Of＞フ隠ローが必要そうAK。 待DGto
 
 [msg BTL_MES_018_043]
-＜声のみ＞ジョーカーがヤバそうだな 早く回復しねぇと
+＜声Of＞ジョー吋ーがヤバそうAK 早く回復しNぇI
 
 [msg BTL_MES_018_044]
-＜声のみ＞しっかりしろ、スカル こりゃ、フォローが必要そうだな
+＜声Of＞しDかqしt、ス吋ル こqj、フ隠ローが必要そうAK
 
 [msg BTL_MES_018_045]
-＜声のみ＞チッ…パンサーがマズそうだな どうにかしねぇと
+＜声Of＞57…パンサーがマズそうAK JうLかしNぇI
 
 [msg BTL_MES_018_046]
-＜声のみ＞モナの野郎、ヤバそうだな… 早くフォローしねぇと
+＜声Of＞モ)O野郎、ヤバそうAK… 早くフ隠ローしNぇI
 
 [msg BTL_MES_018_047]
-＜声のみ＞フォックスがやられてんな… フォローがいるぜ
+＜声Of＞フ隠7クスがkpsGzK… フ隠ローがいrぜ
 
 [msg BTL_MES_018_048]
-＜声のみ＞チッ…クイーンがマズいな 手をうたねぇと
+＜声Of＞57…ク姻ーンがマズいK 手yうたNぇI
 
 [msg BTL_MES_018_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_050]
-＜声のみ＞ノワールがやられてんな… 回復できっか？
+＜声Of＞ノワールがkpsGzK… 回復HきDか？
 
 [msg BTL_MES_018_051]
-＜声のみ＞チッ…クロウの回復できるか？ 放っておけねぇぞ
+＜声Of＞57…クロ胤O回復Hきrか？ 放DGおけNぇぞ
 
 [msg BTL_MES_018_052]
-＜声のみ＞フン、さっさと 片付けるぞ
+＜声Of＞フン、さDさI 片付けrぞ
 
 [msg BTL_MES_018_053]
-Lo siento, pero no me voy a contener.[n]Reza por ti.
+Lo siento, pero no me voy a contener. Reza.
 
 [msg BTL_MES_018_054]
-＜声のみ＞わーったよ。 確実に仕留めろよ？
+＜声Of＞vーDたo。 確実L仕留hto？
 
 [msg BTL_MES_018_055]
-Parece que puedo golpear su[n]debilidad.
+Parece que puedo golpear su debilidad.
 
 [msg BTL_MES_018_056]
-Probablemente es mejor cambiar,[n]夷verdad?
+Probablemente ser胤a mejor cambiar, 夷verdad?
 
 [msg BTL_MES_018_057]
-Yo me encargar姻 de esto.
+Yo me encarg吋 de esto.
 
 [msg BTL_MES_018_058]
-＜声のみ＞ハッ、ぶちかましてやれ！
+＜声Of＞ハ7、WBかeしGks！
 
 [msg BTL_MES_018_059]
-＜声のみ＞おう、お前に任せんぜ
+＜声Of＞おう、お前L任せzぜ
 
 [msg BTL_MES_018_060]
-＜声のみ＞花村！ 全力でいけ！
+＜声Of＞花村！ 全力Hいけ！
 
 [msg BTL_MES_018_061]
-＜声のみ＞里中、そのまま 敵を蹴散らせ！
+＜声Of＞里中、そOee 敵y蹴散pせ！
 
 [msg BTL_MES_018_062]
-＜声のみ＞遠慮はすんなよ、天城
+＜声Of＞遠慮PすzKo、天城
 
 [msg BTL_MES_018_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_064]
-＜声のみ＞思う存分、暴れてやれ、完二！
+＜声Of＞思う存分、暴sGks、完二！
 
 [msg BTL_MES_018_065]
-＜声のみ＞白鐘、後は任せたぜ
+＜声Of＞白鐘、後P任せたぜ
 
 [msg BTL_MES_018_066]
-＜声のみ＞クマ！ 全力でぶちあたれ！
+＜声Of＞クマ！ 全力HWBあたs！
 
 [msg BTL_MES_018_067]
-＜声のみ＞ああ、頼んだぜ岳羽！
+＜声Of＞ああ、頼zAぜ岳羽！
 
 [msg BTL_MES_018_068]
-＜声のみ＞順平、夷振りすんなよ？
+＜声Of＞順平、夷振qすzKo？
 
 [msg BTL_MES_018_069]
-＜声のみ＞アキ！ お前の拳、見せてやれ！
+＜声Of＞威キ！ お前O拳、見せGks！
 
 [msg BTL_MES_018_070]
-＜声のみ＞桐条、本気でやれ…って、 いつもそうだったな
+＜声Of＞桐条、本気Hks…DG、 いEiそうADたK
 
 [msg BTL_MES_018_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_072]
-＜声のみ＞ああ。やっちまえ、アイギス
+＜声Of＞ああ。kDBeえ、威姻/ス
 
 [msg BTL_MES_018_073]
-＜声のみ＞天田… 無茶はすんなよ。
+＜声Of＞天田… 無茶PすzKo。
 
 [msg BTL_MES_018_074]
-＜声のみ＞思う存分噛みつけ、コロちゃん！
+＜声Of＞思う存分噛fEけ、コロBjz！
 
 [msg BTL_MES_018_075]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_076]
-＜声のみ＞フッ…お前の力、見せてもらうぜ？
+＜声Of＞フ7…お前O力、見せGipうぜ？
 
 [msg BTL_MES_018_077]
-＜声のみ＞フン、ジョーカーの奴、 やる気じゃねえか
+＜声Of＞フン、ジョー吋ーO奴、 kr気じjNえか
 
 [msg BTL_MES_018_078]
-＜声のみ＞ああ、スカル！ ぶちのめしてやれ！
+＜声Of＞ああ、ス吋ル！ WBOhしGks！
 
 [msg BTL_MES_018_079]
-＜声のみ＞後は任せんぜ、パンサー
+＜声Of＞後P任せzぜ、パンサー
 
 [msg BTL_MES_018_080]
-＜声のみ＞ヘッ…モナの奴、いきいきしてんな
+＜声Of＞ヘ7…モ)O奴、いきいきしGzK
 
 [msg BTL_MES_018_081]
-＜声のみ＞ああ、後は好きにしろフォックス
+＜声Of＞ああ、後P好きLしtフ隠7クス
 
 [msg BTL_MES_018_082]
-＜声のみ＞煮るなり焼くなり 好きにしな、クイーン
+＜声Of＞煮rKq焼くKq 好きLしK、ク姻ーン
 
 [msg BTL_MES_018_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_018_084]
-＜声のみ＞気合い入ってんじゃねぇか、ノワール。 やっちまえ
+＜声Of＞気合い入DGzじjNぇか、ノワール。 kDBeえ
 
 [msg BTL_MES_018_085]
-＜声のみ＞やっちまえ、クロウ。 後は任せる
+＜声Of＞kDBeえ、クロ胤。 後P任せr
 
 [msg BTL_MES_018_086]
-No est茨 mal... 斡No me importa[n]soltarme un poco!
+No est茨 mal... 斡No me importar胤a soltarme un poco!
 

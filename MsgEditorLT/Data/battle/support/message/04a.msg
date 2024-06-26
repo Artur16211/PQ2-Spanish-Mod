@@ -31,7 +31,6 @@ Este enemigo se destaca en ataques[n]m茨gicos. Por favor, ten cuidado.
 [msg BTL_MES_026_010]
 Este enemigo parece desatarse cuando[n]est茨 herido. 斡Elim胤nalo r茨pido!
 
-
 [msg BTL_MES_026_011]
 斡Pongan atenci吋n! 斡Es una rara entre[n]las raras!
 
@@ -482,7 +481,6 @@ Estoy completamente listo para[n]apoyarte.
 [msg BTL_MES_026_160]
 S姻 que ya lo sabes... pero puedo[n]apoyarte cuando lo necesites.
 
-
 [msg BTL_MES_026_161]
 Es un enemigo bastante poderoso. Ten[n]cuidado.
 
@@ -521,7 +519,6 @@ Este se vuelve m茨s fuerte cuando se[n]debilita. Elim胤nalo r茨pido.
 
 [msg BTL_MES_026_173]
 斡Tengan cuidado! 斡El enemigo puede[n]golpear a todo el grupo a la vez!
-
 
 [msg BTL_MES_026_174]
 Parece que el enemigo puede golpear a[n]todo el grupo a la vez.
@@ -627,7 +624,6 @@ Hm... Parece que Teddie est茨 en su[n]l胤mite...
 
 [msg BTL_MES_026_208]
 Um... 夷Akihiko est茨 bien? Parece que[n]podr胤a colapsar en cualquier momento.
-
 
 [msg BTL_MES_026_209]
 斡Oh no, Mitsuru est茨 a punto de[n]colapsar!

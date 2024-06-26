@@ -5,257 +5,257 @@ Dummy
 斡Tenemos que ganar esta pelea!
 
 [msg BTL_MES_012_002]
-＜声のみ＞望む所だ、来い！
+＜声Of＞望g所A、来い！
 
 [msg BTL_MES_012_003]
-Ugh, un FOE. Esto podr胤a ponerse[n]feo... 夷Cu茨l es el plan?
+Uf, un FOE. Esto podr胤a ponerse feo... 夷Cu茨l es el plan?
 
 [msg BTL_MES_012_004]
-＜声のみ＞ふむ、そうだな… ここは退くのも手か
+＜声Of＞Vg、そうAK… ここP退くOi手か
 
 [msg BTL_MES_012_005]
-Somos bastante fuertes. Podemos con[n]este FOE.
+Somos bastante fuertes. Podemos con este FOE.
 
 [msg BTL_MES_012_006]
-Mira eso, una Sombra rara... No[n]podemos permitir que escape.
+Mira, una Sombra rara... No podemos dejar que escape.
 
 [msg BTL_MES_012_007]
-＜声のみ＞ああ、必ず仕留める！
+＜声Of＞ああ、必ず仕留hr！
 
 [msg BTL_MES_012_008]
-＜声のみ＞了解だ、ナビ！ 任せておけ！
+＜声Of＞了解A、)ビ！ 任せGおけ！
 
 [msg BTL_MES_012_009]
-＜声のみ＞了解だ、久慈川！ 気は抜かずに行く！
+＜声Of＞了解A、久慈川！ 気P抜かずL行く！
 
 [msg BTL_MES_012_010]
-＜声のみ＞了解だ、山岸！ 全力で行く！
+＜声Of＞了解A、山岸！ 全力H行く！
 
 [msg BTL_MES_012_011]
-Este es un enemigo dif胤cil... 斡Vaya,[n]qu姻 emoci吋n!
+Este es dif胤cil... 斡Qu姻 emoci吋n!
 
 [msg BTL_MES_012_012]
-＜声のみ＞無茶をする必要はない 撤退も作戦のうちだ
+＜声Of＞無茶yすr必要PKい 撤退i作戦OうBA
 
 [msg BTL_MES_012_013]
-Nunca hab胤a visto a este antes...[n]Busquemos su debilidad.
+Nunca hab胤a visto a esa antes... Busquemos su debilidad.
 
 [msg BTL_MES_012_014]
-＜声のみ＞どう攻める…？ 弱点を探るのがセオリーか
+＜声Of＞Jう攻hr…？ 弱点y探rOがセ謂リーか
 
 [msg BTL_MES_012_015]
-Hmph. Esto ser茨 un calentamiento[n]perfecto.
+Esto ser茨 un calentamiento perfecto.
 
 [msg BTL_MES_012_016]
-＜声のみ＞問題無い、勝てるぞ
+＜声Of＞問題無い、勝Grぞ
 
 [msg BTL_MES_012_017]
-Al menos estas Sombras deber胤an ser[n]un buen calentamiento.
+Al menos estas Sombras deber胤an ser un buen calentamiento.
 
 [msg BTL_MES_012_018]
-＜声のみ＞よし、一気に蹴散らすぞ
+＜声Of＞oし、一気L蹴散pすぞ
 
 [msg BTL_MES_012_019]
-夷Eh? 夷La Sombra cambi吋...?!
+夷Eh? 斡夷La Sombra cambi吋...?!
 
 [msg BTL_MES_012_020]
-＜声のみ＞くっ、ダメか！ どうする！？
+＜声Of＞くD、4メか！ Jうすr！？
 
 [msg BTL_MES_012_021]
-＜声のみ＞クソッ！ 次から次へと…！
+＜声Of＞ク17！ 次かp次YI…！
 
 [msg BTL_MES_012_022]
-Eh... Las probabilidades est茨n en[n]nuestra contra. Ten cuidado.
+Eh... Las probabilidades est茨n en nuestra contra. Ten cuidado.
 
 [msg BTL_MES_012_023]
-＜声のみ＞諦めるな、まずは立て直すぞ
+＜声Of＞諦hrK、eずP立G直すぞ
 
 [msg BTL_MES_012_024]
-＜声のみ＞くっ、やられたか… このままではマズイ…
+＜声Of＞くD、kpsたか… こOeeHPマズ姻…
 
 [msg BTL_MES_012_025]
-＜声のみ＞しっかりするんだ！ 次が来るぞ！
+＜声Of＞しDかqすrzA！ 次が来rぞ！
 
 [msg BTL_MES_012_026]
-＜声のみ＞しっかりしろ、花村！ 諦めるな！
+＜声Of＞しDかqしt、花村！ 諦hrK！
 
 [msg BTL_MES_012_027]
-＜声のみ＞気を確かに持て、里中！ ここが踏ん張りどころだぞ
+＜声Of＞気y確かL持G、里中！ ここが踏z張qJこtAぞ
 
 [msg BTL_MES_012_028]
-＜声のみ＞天城がピンチのようだな… ここはフォローが必要か
+＜声Of＞天城がピン5OoうAK… ここPフ隠ローが必要か
 
 [msg BTL_MES_012_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_030]
-＜声のみ＞どうした、完二！ お前なら跳ね除けられる！
+＜声Of＞Jうした、完二！ お前Kp跳N除けpsr！
 
 [msg BTL_MES_012_031]
-＜声のみ＞くそ、白鐘が危ない… 誰かフォローを！
+＜声Of＞くそ、白鐘が危Kい… 誰かフ隠ローy！
 
 [msg BTL_MES_012_032]
-＜声のみ＞クマ、大丈夫か！ 回復してやりたいところだが…
+＜声Of＞クマ、大丈夫か！ 回復しGkqたいIこtAが…
 
 [msg BTL_MES_012_033]
-＜声のみ＞岳羽、しっかりするんだ！ くそ、届いているか…？
+＜声Of＞岳羽、しDかqすrzA！ くそ、届いGいrか…？
 
 [msg BTL_MES_012_034]
-＜声のみ＞しっかりしろ、順平！ 今、助けてやる！
+＜声Of＞しDかqしt、順平！ 今、助けGkr！
 
 [msg BTL_MES_012_035]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_036]
-＜声のみ＞こらえろ、美鶴！ お前ならできるはずだ！
+＜声Of＞こpえt、美鶴！ お前KpHきrPずA！
 
 [msg BTL_MES_012_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_038]
-＜声のみ＞アイギス、慌てるな！ まずは回復が優先だ！
+＜声Of＞威姻/ス、慌GrK！ eずP回復が優先A！
 
 [msg BTL_MES_012_039]
-＜声のみ＞天田、無理するな！ くそ、なんとか打開したいところだ
+＜声Of＞天田、無理すrK！ くそ、KzIか打開したいIこtA
 
 [msg BTL_MES_012_040]
-＜声のみ＞コロマルが… ここは立て直したいところだな
+＜声Of＞コロマルが… ここP立G直したいIこtAK
 
 [msg BTL_MES_012_041]
-＜声のみ＞どうした、シンジ！ 跳ね除けて見せろ！
+＜声Of＞Jうした、シンジ！ 跳N除けG見せt！
 
 [msg BTL_MES_012_042]
-＜声のみ＞あまり無茶をするな！ 俺がフォローする！
+＜声Of＞あeq無茶yすrK！ 俺がフ隠ローすr！
 
 [msg BTL_MES_012_043]
-＜声のみ＞しっかりするんだ、ジョーカー！ くそ、まずいな…
+＜声Of＞しDかqすrzA、ジョー吋ー！ くそ、eずいK…
 
 [msg BTL_MES_012_044]
-＜声のみ＞スカル、危険だぞ！ 立て直せ！
+＜声Of＞ス吋ル、危険Aぞ！ 立G直せ！
 
 [msg BTL_MES_012_045]
-＜声のみ＞パンサーがピンチか… 俺もフォローしたいところだが…
+＜声Of＞パンサーがピン5か… 俺iフ隠ローしたいIこtAが…
 
 [msg BTL_MES_012_046]
-＜声のみ＞くっ、モナがやられている 立て直しが必要だな
+＜声Of＞くD、モ)がkpsGいr 立G直しが必要AK
 
 [msg BTL_MES_012_047]
-＜声のみ＞フォックスが危ない！ ここはフォローするぞ
+＜声Of＞フ隠7クスが危Kい！ ここPフ隠ローすrぞ
 
 [msg BTL_MES_012_048]
-＜声のみ＞クイーンがピンチのようだな 乗り切るしかない
+＜声Of＞ク姻ーンがピン5OoうAK 乗q切rしかKい
 
 [msg BTL_MES_012_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_050]
-＜声のみ＞ノワールがやられている 冷静に立て直すぞ
+＜声Of＞ノワールがkpsGいr 冷静L立G直すぞ
 
 [msg BTL_MES_012_051]
-＜声のみ＞クロウがやられている ここは危ないところだな
+＜声Of＞クロ胤がkpsGいr ここP危KいIこtAK
 
 [msg BTL_MES_012_052]
-＜声のみ＞フッ、ならば話は早い 一気に行くぞ！
+＜声Of＞フ7、KpQ話P早い 一気L行くぞ！
 
 [msg BTL_MES_012_053]
 斡S胤! 斡Terminemos esto rapido!
 
 [msg BTL_MES_012_054]
-＜声のみ＞ああ、問題はない やってやるさ
+＜声Of＞ああ、問題PKい kDGkrさ
 
 [msg BTL_MES_012_055]
-斡Esta es nuestra oportunidad! 斡Lo[n]terminar姻!
+斡Es nuestra oportunidad! 斡Lo acabar姻!
 
 [msg BTL_MES_012_056]
-Usa el Relevo si quieres. 斡Estoy[n]listo!
+Puedes usar el Relevo. 斡Estoy listo!
 
 [msg BTL_MES_012_057]
 斡Ven a m胤! 斡Eres toda m胤a!
 
 [msg BTL_MES_012_058]
-＜声のみ＞ああ、蹴散らしてやれ！
+＜声Of＞ああ、蹴散pしGks！
 
 [msg BTL_MES_012_059]
-＜声のみ＞いいぞ、お前の力を見せてやれ！
+＜声Of＞いいぞ、お前O力y見せGks！
 
 [msg BTL_MES_012_060]
-＜声のみ＞フッ、任せたぞ！ 一気に行け！
+＜声Of＞フ7、任せたぞ！ 一気L行け！
 
 [msg BTL_MES_012_061]
-＜声のみ＞いいぞ、里中！ 好きなように暴れて来い！
+＜声Of＞いいぞ、里中！ 好きKoうL暴sG来い！
 
 [msg BTL_MES_012_062]
-＜声のみ＞ああ、燃やし尽くせ、天城！
+＜声Of＞ああ、燃kし尽くせ、天城！
 
 [msg BTL_MES_012_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_064]
-＜声のみ＞フッ、その意気だ 遠慮はするなよ、完二！
+＜声Of＞フ7、そO意気A 遠慮PすrKo、完二！
 
 [msg BTL_MES_012_065]
-＜声のみ＞見事な闘志だ 任せたぞ
+＜声Of＞見事K闘志A 任せたぞ
 
 [msg BTL_MES_012_066]
-＜声のみ＞やれやれ、面白いモノが見られそうだな
+＜声Of＞ksks、面白いモノが見psそうAK
 
 [msg BTL_MES_012_067]
-＜声のみ＞よし、行って来い！ 期待してるぞ、岳羽！
+＜声Of＞oし、行DG来い！ 期待しGrぞ、岳羽！
 
 [msg BTL_MES_012_068]
-＜声のみ＞なるほど、気合いは十分だな やってやれ、順平！
+＜声Of＞KrbJ、気合いP十分AK kDGks、順平！
 
 [msg BTL_MES_012_069]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_070]
-＜声のみ＞容赦するなよ、美鶴！ 叩きのめせ！
+＜声Of＞容赦すrKo、美鶴！ 叩きOhせ！
 
 [msg BTL_MES_012_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_072]
-＜声のみ＞任せたぞ、アイギス！ 徹底的にやれ！
+＜声Of＞任せたぞ、威姻/ス！ 徹底的Lks！
 
 [msg BTL_MES_012_073]
-＜声のみ＞ああ、思いっきりやって来い、天田！
+＜声Of＞ああ、思いDきqkDG来い、天田！
 
 [msg BTL_MES_012_074]
-＜声のみ＞ハハハ、コロマル！ お前の強さ、見せてやれ！
+＜声Of＞ハハハ、コロマル！ お前O強さ、見せGks！
 
 [msg BTL_MES_012_075]
-＜声のみ＞気合い十分だな、シンジ 頼んだぞ
+＜声Of＞気合い十分AK、シンジ 頼zAぞ
 
 [msg BTL_MES_012_076]
-＜声のみ＞ああ、ここは任せるぞ！
+＜声Of＞ああ、ここP任せrぞ！
 
 [msg BTL_MES_012_077]
-＜声のみ＞お前に託すぞ、ジョーカー！
+＜声Of＞お前L託すぞ、ジョー吋ー！
 
 [msg BTL_MES_012_078]
-＜声のみ＞スカル、存分に暴れて来い！
+＜声Of＞ス吋ル、存分L暴sG来い！
 
 [msg BTL_MES_012_079]
-＜声のみ＞その通りだ！ 行って来い、パンサー！
+＜声Of＞そO通qA！ 行DG来い、パンサー！
 
 [msg BTL_MES_012_080]
-＜声のみ＞ほう…しかと見させてもらうぞ、モナ！
+＜声Of＞bう…しかI見させGipうぞ、モ)！
 
 [msg BTL_MES_012_081]
-＜声のみ＞なかなかの闘志だ 一気に行け！
+＜声Of＞KかKかO闘志A 一気L行け！
 
 [msg BTL_MES_012_082]
-＜声のみ＞いい呼吸だ、クイーン！ 叩き潰せ！
+＜声Of＞いい呼吸A、ク姻ーン！ 叩き潰せ！
 
 [msg BTL_MES_012_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_012_084]
-＜声のみ＞気合は充分の様だな、ノワール！
+＜声Of＞気合P充分O様AK、ノワール！
 
 [msg BTL_MES_012_085]
-＜声のみ＞任せたぞ、クロウ！
+＜声Of＞任せたぞ、クロ胤！
 
 [msg BTL_MES_012_086]
-Puedo sentirlo en mis pu隠os... D姻jame[n]encargarme de esto.
+Lo siento en mis pu隠os... D姻jame esto.
 
