@@ -1,134 +1,134 @@
 [msg MSG_000 [Caroline]]
-Parece que nos golpe吋. Estoy[n]impresionado, Inmate.
+Ngh... Looks like he actually beat us.[n]I'm impressed, Inmate.
 
 [msg MSG_001 [Justine]]
-Qu姻 sorpresa... No sab胤a que hab胤as[n]acumulado tal poder.
+What a surprise... I didn't know you had[n]amassed such power.
 
 [sel SEL_002 top]
-Igualmente.
-Es gracias a mi equipo.
+Same to you.
+It's thanks to my team.
 
 [msg MSG_003 [Caroline]]
-Heh... Bueno, eres audaz, te lo dar姻.[n]Supongo que realmente te has probado.
+Heh... Well, you're bold, I'll give you[n]that. I guess you really have proven[n]yourself.
 
 [msg MSG_004 [Justine]]
-Esa fue una evaluaci吋n seria de sus[n]oponentes, tambi姻n. Dir胤a que su[n]rehabilitaci吋n va bien.
+That was an earnest appraisal of his[n]opponents, too. I'd say his[n]rehabilitation is going well.
 
 [msg MSG_005 [Justine]]
-Ya veo... S胤, has probado que tienes[n]muchos buenos confidentes a tu lado.
+I see... Yes, you've proven that you[n]have many fine confidants at your side.
 
 [msg MSG_006 [Caroline]]
-Hmph. Entonces has estado tomando[n]nuestro consejo al coraz吋n. Supongo que[n]no has estado jugando.
+Hmph. So you've been taking our advice[n]to heart, then. I guess you haven't just[n]been playing around.
 
 [msg MSG_007 [Elizabeth]]
-Fue un espl姻ndido combate. Ambos lados[n]dieron una espl姻ndida muestra de poder.
+That was a splendid bout. Both sides[n]gave a splendid showing of power.
 
 [msg MSG_007_1 [Elizabeth]]
-En cuanto a la pel胤cula...
+Now then, as for the film...
 
 [msg MSG_008]
-La pel胤cula que parec胤a sooty est茨[n]brillando d姻bilmente...
+The film that looked sooty is now[n]glowing faintly...
 
 [msg MSG_009 [Junpei]]
-斡Muy bien! 斡Ah胤 va!
+All right! There it goes!
 
 [msg MSG_010]
-...!
-Las tres piezas de pel胤cula brillan a雨n[n]m茨s juntas...!
+......!
+The three pieces of film are shining[n]even brighter together...!
 
 [msg MSG_011 [P3 Fem Protag]]
-Whoa, creo que los tres est茨n[n]resonando... Hay algo realmente m胤stico[n]sobre todo esto.
+Whoa, I think all three of them are[n]resonating... There's something really[n]mystic about all this.
 
 [msg MSG_012]
-El brillo se abr胤a...
+The shine quietly ebbed away...
 
 [msg MSG_013 [Teddie]]
-夷Hunh? Volvi吋 a c吋mo era. 夷No era[n]suficiente?
+Hunh? It went back to how it was. Was[n]that still not enough?
 
 [msg MSG_014 [Naoto]]
-Pero por lo que parece, s吋lo estamos a[n]un paso de la verdad.
+But from the looks of it, we're only one[n]step away from the truth.
 
 [msg MSG_015 [Elizabeth]]
-De hecho, esperar姻 al pr吋ximo billete[n]especificando un yeso.
-Ahora, debes una recompensa. He[n]preparado algo para tus problemas...
-... Un espl姻ndido art胤culo que ser茨 雨til[n]en batallas feroz, proporcionado a usted[n]por este d雨o impertinente.
+Indeed, I shall look forward to the next[n]ticket specifying a cast.
+Now, you are due a reward. I have[n]prepared something for your troubles...
+...A splendid item that will be useful[n]in fierce battles, provided to you by[n]this impertinent duo.
 
 [sel SEL_016 top]
-Gracias.
-Lo atesorar姻.
+Thank you.
+I'll treasure it.
 
 [msg MSG_017 [Caroline]]
-斡No tengas la idea equivocada, Recluso!
-斡Es que no podemos tenerte muriendo en[n]esas pel胤culas! 斡Ser胤a demasiado[n]anticlimatico!
+D-Don't get the wrong idea, Inmate!
+It's just that we can't have you dying[n]out in those movies! It'd be too[n]anticlimactic!
 
 [msg MSG_018 [Justine]]
-Esto no es un regalo... simplemente[n]desorden que ya no tenemos el espacio[n]para. Use o descarte como quiera.
+This is no gift... merely clutter we no[n]longer have the space for. Use or[n]discard it as you please.
 
 [msg MSG_019 [Futaba]]
-Mweheh, siguen manteniendo el acto... Un[n]d胤a van a ir a la miseria, y va a ser[n]incre胤ble.
+Mweheheh, they're still keeping up the[n]act... One day they're gonna go full[n]dere, and it's gonna be awesome.
 
 [msg MSG_020 [Elizabeth]]
-Casi lo olvido.
-I also have your hot dog prepared here.[n]It shall go to the victor, [f 6 1 30 0 0 0].
+Oh, I almost forgot.
+I also have your hot dog prepared here.[n]It shall go to the victor,.
 
 [msg MSG_021 [Caroline]]
-斡Qu姻 humillante!
-夷De todas las personas, el prisionero[n]tiene uno? 斡Se supon胤a que era nuestro[n]premio!
+Grrr... How humiliating!
+Of all people, the prisoner gets one!?[n]That was supposed to be our prize!
 
 [msg MSG_022 [Makoto]]
-Vaya, parece que ha funcionado bastante.[n]No sab胤a que le gustaban tanto.
+Wow, she seems pretty worked up. I[n]didn't know she liked these so much.
 
 [msg MSG_023 [Fuuka]]
-Casi me siento mal tom茨ndolo...
+I almost feel kind of bad taking it...
 
 [sel SEL_024 top]
-Ustedes dos pueden tenerlo...
-Es todo nuestro.
+You two can have it...
+It's all ours.
 
 [msg MSG_025 [Caroline]]
-夷Qu姻? 夷Lo dices en serio?
+What!? Do you mean it!?
 
 [msg MSG_026 [Justine]]
-...Ejem.
+...Ahem.
 
 [msg MSG_027 [Caroline]]
 Oh, uhh...
 
 [msg MSG_028 [Caroline]]
-斡Claro que s胤! 斡Ganaste! Y no es que lo[n]necesite ni nada...
+O-Of course it is! You won! And it's not[n]like I need it or anything...
 
 [msg MSG_029 [Kanji]]
-Hombre, 夷tienes que ser tan duro con los[n]ni隠os?
+Man, [f 6 1 30 0 0 0]-san, do ya have to be so[n]tough on kids...?
 
 [msg MSG_030 [Justine]]
-Nos est茨s avergonzando, Caroline.
-Para empezar, ya hemos asegurado nuestra[n]parte.
-Y nos aseguramos de esconder donde los[n]ladrones nunca podr胤an encontrarlo.
+You are embarrassing us, Caroline.
+To begin with, we've already secured our[n]share.
+And we made sure to hide where would-be[n]thieves could never find it.
 
 [msg MSG_031 [Caroline]]
-Bueno... eso es...
+Well, um... that's...
 
 [msg MSG_032 [Justine]]
-...?
+......?
 
 [msg MSG_033 [Caroline]]
-R-r-Right! 斡Y todav胤a nos queda una[n]monta隠a! 斡Hahaha!
+R-R-Right! And we've still got a[n]mountain left for us, anyway! Hahaha!
 
 [msg MSG_034 [Ryuji]]
-夷Qu姻 fue eso?
+What was that about?
 
 [msg MSG_035 [Junpei]]
-Me golpea...
+Beats me...
 
 [msg MSG_036 [Elizabeth]]
-Ahora, todos. Gracias por su trabajo[n]duro.
-Parece que apenas estamos a un paso de[n]descubrir el secreto de la pel胤cula.
-Tal vez la pr吋xima prueba especial con[n]un yeso especificado presente el cl胤max[n]de este misterio.
-Estar姻 esperando, afluencia de coraz吋n[n]en anticipaci吋n. Hasta entonces, te pido[n]adi吋s.
+Now then, everyone. Thank you for your[n]hard work.
+It seems we're barely a step away from[n]uncovering the film's secret.
+Perhaps the next special screening with[n]a specified cast will present the climax[n]of this mystery.
+I will be waiting, heart aflutter in[n]anticipation. Until then, I bid you[n]adieu.
 
 [msg PERSONA_STOCK_UP_MSG]
-ひゎらまるぺる まれろま よるぽまぺゅ めぺ みよるろぺゅまぼもぽよ まゅ らよぽまる ぽま[n]ゅぺ ろぺるゃまろぺ れぺゅわぺゃまテ ひゎ れろよぼや ぽま はまるれよょぺ めぺ[n]ぺゎゆまょろぺぽよ まょ [f 0 1 2] [f 2 4 0][f 0 1 0] テ
+Overcoming this ordeal has strengthened[n]the power of the wild card. Your Persona[n]stock has increased by .
 
 [msg SYS_MES_000]
-つゅ まみまぼろよ ぽま [f 4 4 3 0 1595] らまるゆもろま りゎま まゅ[n]まれろぺぽよ ぽま ちよよれろ ゅゅまわま ぺ ぼぺほよ ゅぺ らるカゑもゆぺ[n]ほぺろぺゅゅぺ ぺ ろるぺわイれ ぽま ゅよれ ちよょよれ づもょぺゅまれテ
+The effect of [f 4 4 3 0 1595] allows[n]for Boost state to carry over into the[n]next battle through Finish Bonuses.
 

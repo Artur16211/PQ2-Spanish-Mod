@@ -1,56 +1,56 @@
 [msg MSG_000 [Elizabeth]]
-つれろぺゆよれ めぺぼもまょぽよ ゅよ りゎま らよぼぺれ らまるれよょぺれ ゅよむるぺょ[n]めぺぼまるテテテ ゅゅまむぺる ぺ ゅぺ るぺウん ぽまゅ らるよほゅまゆぺテ[n]ィとょぼゅゎれよ まれろよを ゎょ らよぼよ ょまるわもよれよ!
-はまるよ ぺらゎまれろよ ぺ りゎま ょよ まれ ょぺぽぺ ぼよゆらぺるぺぽよ ぼよょ ゅぺ[n]ぺょれもまぽぺぽ ぽま ろゎれ ゆまょろまれ ゆゎぼめよ ゆァれ わゎゅょまるぺほゅまれテ[n]びま ゆまるまぼまれ ゎょ ほもゅゅまろま ょゎまわよテ
+We're doing what few people ever manage[n]to do... getting to the root of the[n]problem. Even I'm a little nervous!
+But I bet it's nothing compared to the[n]anxiety of your much more vulnerable[n]minds. You deserve a new ticket.
 
 [msg MSG_001 [Akihiko]]
-夷Es una batalla contra un FOE para que[n]podamos ser mejor entrenados?
+Is it a battle against an FOE so we can[n]be better trained?
 
 [msg MSG_002 [Aigis]]
-夷O nos llevar茨 a un arma nueva y[n]poderosa?
+Or is it going to lead us to a new,[n]powerful weapon?
 
 [msg MSG_003 [Elizabeth]]
-*ぼめゎぼやゅま* ねよ まれ ょぺぽぺ ぽま まれよテ つれ ぺゅむよ らぺるぺ[n]ぺをゎぽぺる ぼよょ ゅぺ ぺょれもまぽぺぽデ らぺるぺ ぺをゎぽぺる ぼよょ ろよぽよれ[n]ゅよれ まれろるまれぺょろまれ ぽま れゎ れもろゎぺぼもカょテテテ
-Es una b雨squeda simple. Recoge cuatro[n]frutas en la pel胤cula de Hikari.
-Ser茨 muy relajante.
+*chuckle* It's nothing like that. It's[n]something to help with anxiety, to help with[n]all the stressors of your situation...
+It's a simple quest. Collect four fruits[n]in Hikari's movie.
+It'll be so relaxing.
 
 [sel SEL_004 top]
-Suena as胤.
-No tenemos tiempo para relajarnos.
+Sounds like it.
+We don't have time to relax.
 
 [msg MSG_005 [P3 Hero]]
-S胤, tiene raz吋n. No queremos ceder[n]demasiado los nervios.
-Podr胤a ser un buen refrescante.
+Yeah, she has a point. We don't want to[n]strain our nerves too much.
+It could be a nice refresher.
 
 [msg MSG_006 [Morgana]]
-Hag茨moslo. No tenemos tanta prisa.
+Let's do it. We're not in that much of a[n]hurry.
 
 [msg MSG_007 [P3 Hero]]
-Bueno, cuando consideras el peso de la[n]responsabilidad que hemos asumido...
-Supongo que un cambio de ritmo nos har茨[n]bien. Podr胤amos usar un respiro.
+Well, when you consider the weight of[n]the responsibility we've taken on...
+I guess a change of pace will do us some[n]good. We could use a breather.
 
 [msg MSG_008 [Teddie]]
-斡S胤! 斡Finalmente podremos cosechar[n]algunos frutos literales de nuestro[n]trabajo!
+Yay! Finally we'll be able to reap some[n]literal fruits of our labor!
 
 [msg MSG_009 [P3 Hero ]]
-Entonces, Elizabeth. 夷Tiene alguna[n]informaci吋n sobre d吋nde se encuentran[n]estos frutos?
+So, Elizabeth. Do you have any[n]information as to where these fruits are[n]located?
 
 [msg MSG_010 [Elizabeth]]
-No, para nada.
-Pero te aseguro que esta proyecci吋n es[n]f茨cil.
-Camina lentamente, 斡y m胤ralo! Echa un[n]vistazo r茨pido.
+No, not at all.
+But I assure you, this screening is an[n]easy one.
+Simply walk around slowly, and look for[n]it! Just give a quick look.
 
 [msg MSG_011 [P3 Hero]]
-No hay pistas, 夷eh?
+No hints, huh?
 
 [msg MSG_012 [Ken]]
-Elizabeth hace cosas a su manera.
-Supongo que tenemos que comprobarlo.
+Elizabeth sure does things her own way.
+I guess we just have to check it out.
 
 [msg MSG_013 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_014 [Elizabeth]]
-Estar姻 mirando con gran titilaci吋n.[n]Quiero decir, estar姻 aqu胤 viendo con[n]hiperlactaci吋n. 夷Cu茨l es la palabra?
-夷Trapidaci吋n? No, eso no suena real.[n]Har姻 que sea f茨cil para m胤 mismo...[n]斡Estar姻 aqu胤 viendo con el pecho batido!
-Disfruta...
+I'll be watching with great titillation.[n]I mean, I'll be here watching with[n]hyperlactation. Hmm... what's the word?
+Trepidation? No, that doesn't sound real. I'll[n]just make it easy on myself... I'll be here[n]watching with bated breast!
+Enjoy...
 

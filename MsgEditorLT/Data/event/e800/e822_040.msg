@@ -1,42 +1,42 @@
 [msg MSG_000 [Ann]]
-斡Otra Sombra abajo! 斡S吋lo una m茨s para[n]ir!
+Another Shadow down! Just one more to[n]go!
 
 [msg MSG_001 [Ryuji]]
-Esto no es nada comparado con robar[n]斡Tesoro!
+Heh, this is nothin' compared to[n]stealin' Treasure!
 
 [msg MSG_002 [Ken]]
-夷Qu姻 le pasa a una persona cuando robas[n]su Tesoro?
+Oh, so what happens to a person once you[n]steal their Treasure?
 
 [sel SEL_003 top]
-Tienen un cambio de coraz吋n.
-Se entregan.
-Irrumpieron en l茨grimas.
+They have a change of heart.
+They turn themselves in.
+They burst into tears.
 
 [msg MSG_004 [Ann]]
-Eso s吋lo sucede porque se sienten[n]culpables por lo que han hecho.
+That only happens because they feel[n]guilty for what they've done.
 
 [msg MSG_005 [Morgana]]
-Es porque sus deseos de guerra[n]desaparecen junto con su Palacio.
-Su conciencia da paso a su culpa, as胤[n]que terminan confesando todo.
+It's because their warped desires[n]disappear along with their Palace.
+Their conscience gives way to their[n]guilt, so they end up confessing[n]everything.
 
 [msg MSG_006 [Ken]]
-As胤 que eso es un cambio de coraz吋n...[n]Es bastante aterrador cuando lo piensas.
+So that's a change of heart... It's[n]pretty scary when you think about it.
 
 [msg MSG_007 [Ryuji]]
-はよる まれよ ろよぽよれ まれろぺゆよれ ぽま ぺぼゎまるぽよ まょ ょゎまれろるよ[n]よほゃまろもわよ ぺょろまれ ぽま めぺぼまる ゎょ ゆよわもゆもまょろよテ ねよ[n]りゎまるまゆよれ ゆぺゅ ゎれよ ぽま まれま らよぽまるテ
+That's why we all agree on our target[n]before making a move. We don't wanna[n]misuse that power.
 
 [msg MSG_008 [Ken]]
 Misuse...
 
 [msg MSG_009 [Ann]]
-夷Ken?
+...Ken-kun?
 
 [msg MSG_010 [Ken]]
-Lo siento. Estoy aprendiendo mucho, es[n]todo.
+Oh, sorry. I'm just learning a lot, is[n]all.
 
 [msg MSG_011 [Morgana]]
-Seguiremos la lecci吋n m茨s tarde. Vamos[n]por ahora.
+We'll continue the lesson later. Let's[n]get going for now.
 
 [msg MSG_012 [Ken]]
-R-right!
+R-Right!
 

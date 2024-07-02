@@ -1,79 +1,79 @@
 [msg MSG_000 [Elizabeth]]
-Para esta proyecci吋n especial, todos[n]ustedes ser茨n obligados a completar una[n]determinada misi吋n.
+Para esta proyecci吋n especial, deb姻is completar una misi吋n concreta.
 
 [msg MSG_001 [Yosuke]]
 夷Misi吋n?
 
 [msg MSG_002 [Elizabeth]]
-Me gustar胤a que llegaras a la ubicaci吋n[n]que especifique.
+Me gustar胤a que llegarais a la localizaci吋n que os especifico.
 
 [msg MSG_003 [Chie]]
-夷Huh? 夷Eso es todo? 斡Eso suena f茨cil!
+... 夷Huh? 夷Eso es todo? 斡Parece f茨cil!
 
 [msg MSG_004 [Elizabeth]]
-Tal vez, pero las cosas raramente van[n]como estaba planeado. Tal es el camino[n]del mundo.
+Quiz茨s, pero las cosas rara vez salen como se planean. As胤 es el mundo.
 
 [sel SEL_005 top]
-夷Qu姻?
-Lo vi venir...
-No hay problema.
+斡夷Qu姻 has dicho?!
+Lo ve胤a venir...
+Sin problema.
 
 [msg MSG_006 [Morgana]]
-Vamos, deber胤as haber visto eso venir.
+Vamos, deber胤as haberlo visto venir.
 
 [msg MSG_007 [Ryuji]]
-Amigo, 夷algo te molesta? 夷Incluso un[n]poco?
+Bro, 夷hay algo que te asuste? 夷Aunque sea un poco?
 
 [msg MSG_008 [Yosuke]]
-Siempre tocando bien.
+Wow... Siempre jugando tranquilo.
 
 [msg MSG_009 [Elizabeth]]
-Dicho esto, parece que el sindicato se[n]ha vuelto consciente recientemente de[n]nuestros planes...
-Como resultado, la seguridad se ha[n]elevado al nivel m茨ximo.
-Los detalles de la guardia y la[n]actividad de b雨squeda ser茨n megatones[n]m茨s pesados de lo habitual.
+Dicho esto, parece que el sindicato se ha enterado recientemente de nuestros planes...
+Como resultado, la seguridad se ha elevado al m茨ximo nivel.
+La actividad de los guardias y de los reflectores ser茨 m茨s intensa que de lo habitual.
 
 [msg MSG_010 [Ryuji]]
-Esto es un dolor que escucha sobre[n]eso...
+Ugh... Es un dolor simplemente oy姻ndolo.
 
 [msg MSG_011 [Ann]]
-Eso es...
+Es...
 
 [msg MSG_012 [Chie]]
-斡S胤, es perfecto!
-Deslizar los focos de b雨squeda es algo[n]que un ladr吋n fantasma har胤a!
+Si, 斡es perfecto!
+斡Escabullirse de los reflectores es algo que har胤a un Ladr吋n Fantasma!
 
 [msg MSG_013 [Ryuji]]
-夷Qu姻 tienen esos dos tan preparados?[n]夷Algo sucede?
+夷Por qu姻 est茨n esas dos tan alteradas? 夷Ha ocurrido algo?
 
 [sel SEL_014 top]
-Est茨n motivados.
-Son buenos amigos.
-No podemos dejar que nos muestren.
+Est茨n motivadas.
+Son buenas amigas.
+No podemos dejar que nos pongan en evidencia.
 
 [msg MSG_015 [Ryuji]]
-Bueno, eso es genial, supongo...
-Honestamente, sin embargo, es un par muy[n]raro, ahora que lo pienso.
+Bien, qu姻 guay, supongo...
+Honestamente, ahora que lo pienso, hacen una pareja muy rara.
 
 [msg MSG_016 [Ryuji]]
-Bueno, eso es genial, supongo... Still,[n]they weren't always that close, were[n]they?
+Bien, qu姻 guay, supongo... Aun as胤, antes no estaban tan unidas, 夷no?
 
 [msg MSG_017 [Ryuji]]
-夷Qu姻 es esto, una competencia?
-Solo digo que es un par raro, 夷no crees?
+斡夷Qu姻 es esto, una competici吋n?!
+Solo digo que hacen una pareja bastante rara, 夷no crees?
 
 [msg MSG_018 [Yosuke]]
-Bueno, son diferentes entre s胤. No[n]parecen tener nada en com雨n...
+S胤, son muy diferentes. No parece que tengan nada en com雨n...
 
 [msg MSG_019 [Teddie]]
-Una chica dulce de la ciudad y un amante[n]de la carne del pa胤s...
-Ambos tan diferentes pero tan bonito![n]斡No puedo soportar elegir entre ellos!
+Una chica golosa de ciudad, y una amante de la carne del campo...
+斡Ambas son tan diferentes y tan guapas! 斡No soporto tener que elegir entre ellas!
 
 [msg MSG_020 [Ann]]
-Hola. 夷Qu姻 est茨n murmurando por ah胤?
+Hey. 夷Qu姻 est茨is murmurando por all胤?
 
 [msg MSG_021 [Chie]]
 斡Te vas a quedar atr茨s!
 
 [msg MSG_022 [Kanji]]
-Realmente est茨n arreglados... Supongo[n]que deber胤amos irnos tambi姻n.
+Est茨n realmente emocionados... Supongo que deber胤amos movernos tambi姻n.
 

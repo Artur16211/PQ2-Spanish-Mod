@@ -1,20 +1,20 @@
 [msg MSG_000 [Fuuka]]
-斡Sombra enemigo entrante! 斡Es tan[n]poderoso como hemos o胤do!
+Incoming enemy Shadow! It's just as[n]powerful as we heard!
 
 [msg MSG_001 [P3 Fem Protag]]
-... Vale.
-Ay雨dame a bajar esta cosa, Joker. Juro[n]que no perder姻.
+...Okay.
+Help me take this thing down, Joker. I[n]swear I won't lose.
 
 [sel SEL_002 top]
-Tienes esto.
-No te quedes atr茨s.
+You've got this.
+Don't fall behind.
 
 [msg MSG_003 [P3 Fem Protag]]
-S胤, no me preocupa nada. Quiero decir,[n]斡los tengo de mi lado!
+Yeah, I'm not worried at all. I mean,[n]I've got you guys on my side!
 
 [msg MSG_004 [P3 Fem Protag]]
-Lo s姻. 斡Pelear姻 con todo lo que tengo!
+I know. I'll fight it with everything[n]I've got!
 
 [msg MSG_005 [Fuuka]]
-斡Aqu胤 viene el enemigo Sombra! Buena[n]suerte!
+Here comes the enemy Shadow! Good luck,[n][f 6 1 27 0 0 0]-chan!
 

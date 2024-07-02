@@ -1,13 +1,13 @@
 [msg MSG_000 [Elizabeth]]
-斡Lo llamo aqu胤! Este partido termin吋.
+I'm calling it here! This match is over.
 
 [msg MSG_001 [Theodore]]
-Bien peleado. Supongo que es mi[n]victoria.
+Well fought. I suppose that's my win.
 
 [msg MSG_001_1 [Theodore]]
-Si quieres otro combate una vez que te[n]hayas hecho m茨s fuerte, aceptar姻[n]felizmente un reto en cualquier momento.
+If you'd like another bout once you've[n]grown stronger, I'll happily accept a[n]challenge anytime.
 
 [msg MSG_002 [Elizabeth]]
-Si deseas un partido de regreso, por[n]favor h茨blame en la taquilla.
-Hasta la pr吋xima vez, entonces.
+If you wish for a return match, please[n]speak to me at the box office.
+Until next time, then.
 

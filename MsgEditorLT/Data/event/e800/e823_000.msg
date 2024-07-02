@@ -1,63 +1,63 @@
 [msg MSG_000 [Mitsuru]]
-Parece que est茨s muy bien con todos[n]aqu胤.
+, it seems you're fitting in quite well[n]with everyone here.
 
 [msg MSG_001 [P3 Fem Protag]]
-*chuckle* Casi siento que estoy de[n]vuelta a casa.
-No es dif胤cil llevarse bien con todos[n]cuando act雨an como siempre lo hacen.
+*chuckle* I almost feel like I'm back[n]home.
+It's not hard to get along with everyone[n]when they act just like they always do.
 
 [msg MSG_002 [Akihiko]]
-夷Oh? 夷No hay mucha diferencia entre[n]nosotros aqu胤 y nosotros en tu mundo?
+Oh? So there isn't much difference[n]between us here and us in your world?
 
 [msg MSG_003 [P3 Fem Protag]]
-斡As胤 es! Mitsuru-senpai es siempre super[n]madura y confiable.
-Shinjiro-senpai es siempre muy amable y[n]a menudo se escapa a la mascota Koromaru[n]y le hace comer.
+That's right! Mitsuru-senpai is always[n]super mature and reliable.
+Shinjiro-senpai is always very kind and[n]often sneaks off to pet Koromaru and[n]make him food.
 
 [msg MSG_004 [Shinjiro]]
-夷Eh?
+Huh...!?
 
 [msg MSG_005 [P3 Fem Protag]]
-Y cada vez que intento salir con[n]Akihiko-senpai, siempre se convierte en[n]alg雨n tipo de rutina de entrenamiento...
-As胤 que termino jodiendo de vuelta al[n]dormitorio, empapado en sudor.
+And whenever I try to hang out with[n]Akihiko-senpai, it always turns into[n]some kind of training routine...
+So I end up jogging back to the dorm,[n]drenched in sweat.
 
 [msg MSG_006 [Shinjiro]]
-Maldici吋n. Aki, eres un dolor en el culo[n]en ese mundo tambi姻n...
+*sigh* Damn, Aki, you're a pain in the[n]ass in that world too...
 
 [msg MSG_007 [Akihiko]]
-夷A qui姻n llamas dolor en el culo? Es[n]importante que entrenes diariamente.
-I'm sure the other me is only doing it[n]because he cares about you, [f 6 1 27 0 0 0].
+Who're you calling a pain in the ass!?[n]It's important that you train daily.
+I'm sure the other me is only doing it[n]because he cares about you,.
 
 [msg MSG_008 [P3 Fem Protag]]
-Huh? Claro...
+Huh? Sure... Ahaha...
 
 [msg MSG_009 [Akihiko]]
-Si puedes seguir con mi rutina, entonces[n]est茨s en buena forma.
-De acuerdo, entonces, tal vez deber胤amos[n]ir a trabajar m茨s tarde. Nos vamos a[n]debilitar si nos largamos demasiado.
+If you can keep up with my routine, then[n]you're in good shape.
+All right, then, maybe we should go work[n]out later. We're gonna get weak if we[n]slack off too much.
 
 [msg MSG_010 [Shinjiro]]
-De esto estoy hablando. No necesitas[n]escuchar lo que dice Aki si no quieres.
+This is what I'm talkin' about. You[n]don't need to listen to what Aki says if[n]you don't want to.
 
 [msg MSG_011 [P3 Fem Protag]]
-斡Oh, no! 斡No es que no quiera!
-斡Estaba sintiendo el impulso de moverse!
+Oh, no! It's not that I don't want to!
+I was feeling the urge to move around[n]anyway!
 
 [msg MSG_012 [Akihiko]]
-夷Ves? 夷Escuchaste eso?
+See? You hear that?
 
 [msg MSG_013 [Shinjiro]]
-Tch... Si dejas la rutina a Aki, qui姻n[n]sabe lo que acabar茨s haciendo.
-- Hola. Si planeas entrenar, av胤same.
+Tch... If you leave the routine up to[n]Aki, who knows what you'll end up doing.
+...Hey. If you plan on trainin', let me[n]know.
 
 [msg MSG_014 [Akihiko]]
-夷Por fin vas a trabajar conmigo, Shinji?
-Est茨 bien... 斡Parecer姻 una rutina[n]incre胤ble!
+Are you finally gonna work out with me,[n]Shinji!?
+Heh, all right... I'll come up with an[n]awesome routine!
 
 [msg MSG_015 [Shinjiro]]
-Eso no es lo que digo, tonto.
+That's not what I'm sayin', dumbass.
 
 [msg MSG_016 [Mitsuru]]
-Francamente, me preocupar胤a mucho dejar[n]solo a los dos.
-Ser茨 mejor que controlen sus[n]temperamentos. 夷Entendido?
+Ugh... Frankly, I'd be too concerned to[n]leave [f 6 1 26 0 0 0] with just the two of you.
+Both of you better control your tempers.[n]Understood?
 
 [msg MSG_017]
-Una nueva proyecci吋n especial:[n]"Confianza Transcendental" se ha a隠adido[n]a la taquilla.
+A new special screening: "Transcendental[n]Trust" has been added to the box office.
 

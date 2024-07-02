@@ -1,19 +1,19 @@
 [msg MSG_000 [Teddie]]
-Woo! 斡Una puerta cubierta de vid!
+Woo! A vine-covered door!
 
 [msg MSG_001 [Haru]]
-Supongo que estoy levantada. Echar姻 un[n]vistazo.
+I suppose I'm up. I'll take a look.
 
 [msg MSG_002 [Haru]]
-斡Ah胤! 斡Encontr姻 uno!
+There! I found one!
 
 [msg MSG_003 [Morgana]]
-斡Bien! 夷Cu茨nto m茨s necesitamos...?
+Nice! How much more do we need...?
 
 [msg MSG_004 [Haru]]
-Esto deber胤a ser suficiente.
-Ahora solo necesitamos molerlos y[n]aplicarlos a la herida del dinosaurio, y[n]deber胤a estar bien.
+This should be enough.
+Now we just need to grind these and[n]apply them to the dinosaur's wound, and[n]it should be okay.
 
 [msg MSG_005 [Yukiko]]
-Me alegra o胤r eso. 夷Qu姻 dices si[n]regresamos?
+I'm so glad to hear that. What do you[n]say we head back?
 

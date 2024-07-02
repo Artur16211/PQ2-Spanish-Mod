@@ -1,189 +1,189 @@
 [msg MSG_000 [Elizabeth]]
-Bienvenido a todos.
-Qu姻 emoci吋n era verte aniquilar a tus[n]enemigos; estuve al borde de mi asiento[n]todo el tiempo.
-Ahora bien, aqu胤 est茨 tu recompensa.
+Welcome back, everyone.
+What a thrill it was to see you[n]annihilate your enemies; I was on the[n]edge of my seat the whole time.
+Now then, here is your reward.
 
 [msg MSG_001 [Ken]]
-斡Lo hicimos!
+We did it!
 
 [msg MSG_002 [Morgana]]
-斡S胤! Habiendo llegado hasta aqu胤, dir胤a[n]que eres b茨sicamente una Junior Phantom[n]Thief.
+Yeah! Having come this far, I'd say[n]you're basically a Junior Phantom Thief.
 
 [msg MSG_003 [Ken]]
 Junior...
 
 [msg MSG_004 [Ryuji]]
-No te culpo... Tampoco quiero ser[n]entrenado por un gato. Sabes, siempre[n]puedes ser mi aprendiz, Ken.
+I don't blame you―I wouldn't wanna be[n]trained by a cat either. Y'know, you can[n]always be my apprentice, Ken.
 
 [msg MSG_005 [Morgana]]
-斡Como si fueras mejor profesor, Skull[n]por cerebro!
+As if you'd be a better teacher,[n]skull-for-brains!
 
 [msg MSG_006 [Ryuji]]
-斡Eso es! 夷Y qu姻 demonios significa eso?
+That does it! And what the hell does[n]that even mean!?
 
 [msg MSG_007 [Ann]]
-Ah胤 van otra vez... y delante de Ken[n]tambi姻n. Quiz茨s deber胤as decir algo,.
+There they go again... and in front of[n]Ken-kun too. Maybe you should say[n]something, [f 6 1 30 0 0 0].
 
 [sel SEL_008 top]
-Nos est茨s avergonzando.
-Son buenos amigos.
-Es mi aprendiz.
+You're embarrassing us.
+They're just good friends.
+He's MY apprentice.
 
 [msg MSG_009 [Ann]]
-En serio.
-夷Os matar胤a a vosotros dos a actuar un[n]poco m茨s de vuestra edad?
+Seriously.
+Would it kill you two to act a little[n]bit more your age?
 
 [msg MSG_010 [Morgana]]
-Lo siento, me llevaron.
+Urgh... Sorry... I got carried away.
 
 [msg MSG_011 [Morgana]]
-夷Qu姻?
+What!?
 
 [msg MSG_012 [Ryuji]]
-斡Como el infierno que somos!
+Like hell we are!
 
 [msg MSG_013 [Ann]]
-Son dos de una especie...
+They're two of a kind...
 
 [msg MSG_014 [Morgana]]
-夷Tambi姻n est茨s en esto?
+You're in on this too!?
 
 [msg MSG_015 [Ryuji]]
-夷Por qu姻 no decimos que es el aprendiz[n]de Ladrones Fantasma y lo dejamos en[n]eso?
+All right then, why don't we just say[n]he's the Phantom Thieves' apprentice and[n]leave it at that?
 
 [msg MSG_016 [Ken]]
 *snicker*
 
 [msg MSG_017 [Ann]]
-夷Ken?
+Ken-kun?
 
 [msg MSG_018 [Ken]]
-Oh, perd吋name... Estaba pensando en c吋mo[n]se llevan tan bien.
+Oh, forgive me... I was just thinking[n]about how you all get along so well.
 
 [msg MSG_019 [Ryuji]]
-No lo s姻, pero todos confiamos el uno al[n]otro...
-El Fantasma Los ladrones son un equipo.
-Nunca har胤amos nada si siempre[n]hubi姻semos huido por nuestra cuenta.
+I dunno 'bout that... but we do all[n]sorta trust each other...
+The Phantom Thieves are a team, y'know.
+We'd never get anything done if we were[n]always running off on our own.
 
 [msg MSG_020 [Morgana]]
-Ryuji, supongo que puedes decir algo[n]bonito de vez en cuando.
+Oho, Ryuji, I guess you can say[n]something nice every once in a while.
 
 [msg MSG_021 [Ryuji]]
-夷Qu姻 significa, "todo de vez en cuando"?
+Whaddya mean, "every once in a while"?
 
 [msg MSG_022 [Ken]]
-... Creo que estoy empezando a entender[n]lo que significa ser un fantasma.
-Tienes mucha m茨s convicci吋n que los[n]ladrones que he visto en manga y anime.
+...I think I'm beginning to understand[n]what it means to be a Phantom Thief.
+You've got a lot more conviction than[n]the thieves I've seen in manga and[n]anime.
 
 [msg MSG_023 [Ryuji]]
-Oye, Ken...
-夷Por qu姻 te interesa tanto el Ladrones[n]Fantasma? Es porque...
+Say, Ken...
+Why're you so interested in the Phantom[n]Thieves anyways? Is it because...
 
 [sel SEL_024 top]
-夷Quieres cambiar tu coraz吋n?
-夷Tienes una solicitud para nosotros?
-夷Quieres un disfraz?
+You want to change your heart?
+You have a request for us?
+You want a costume?
 
 [msg MSG_025 [Ken]]
-夷Eh?
+Huh!?
 
 [msg MSG_026 [Ryuji]]
-Vamos, no es eso.
-夷Hay alguien cuyo coraz吋n quieres[n]cambiar?
+C'mon, that ain't it.
+There somebody whose heart you wanna[n]change?
 
 [msg MSG_027 [Ken]]
-Bueno...
+Well...
 
 [msg MSG_028 [Ryuji]]
-... 夷Quiz茨 alguien que no puedas[n]perdonar?
+...Maybe someone you can't forgive?
 
 [msg MSG_029 [Ken]]
-...
+......
 
 [msg MSG_030 [Ryuji]]
-Te dijimos por qu姻 nos convertimos en[n]ladrones fantasma, 夷verdad?
-Fue porque todos ten胤amos a alguien que[n]nos jodi吋. B茨sicamente est茨bamos por[n]venganza...
+We told you why we became phantom[n]thieves, right?
+It was because we all had someone who[n]screwed us over. We were basically out[n]for revenge...
 
 [msg MSG_031 [Ken]]
-Venganza...
+Revenge...
 
 [msg MSG_032 [Ann]]
-Definitivamente no merecemos ning雨n[n]elogio por ello.
-Pero tampoco creo que hayamos elegido[n]mal.
-Hay gente que est茨 mucho mejor por[n]nosotros.
+We definitely don't deserve any praise[n]for it.
+But I don't think we made the wrong[n]choice either.
+There are people out there who're much[n]better off because of us.
 
 [msg MSG_033 [Morgana]]
-Usamos nuestro poder para otros no para[n]nosotros mismos.
-Esa es nuestra forma de justicia, la[n]forma de justicia del Ladrones Fantasma.
+We use our power for others not for[n]ourselves.
+That's our form of justice, the Phantom[n]Thieves' form of justice.
 
 [msg MSG_034 [Ken]]
-Para otros... El Fantasma Los ladrones[n]son incre胤bles.
+For others... The Phantom Thieves really[n]are amazing.
 
 [sel SEL_035 top]
-Puedes hacer lo mismo, Ken.
-Lo entender茨s a tiempo.
-Ese es nuestro c吋digo.
+You can do the same, Ken.
+You'll understand in time.
+That's our code.
 
 [msg MSG_036 [Ann]]
-As胤 es. Tambi姻n tienes el poder de[n]salvar a otros, Ken.
+That's right. You've got the power to[n]save others too, Ken-kun.
 
 [msg MSG_037 [Morgana]]
-S胤. Podr胤a ser dif胤cil al principio,[n]pero definitivamente puedes hacerlo.
-Tienes el potencial de ser uno de[n]nosotros. Lo garantizo.
+Yeah. It might be tough at first, but[n]you can definitely do it.
+You've got the potential to be one of[n]us. I guarantee it.
 
 [msg MSG_038 [Morgana]]
-Aseg雨rate de mantener tus estudios[n]tambi姻n, 夷de acuerdo?
+Make sure to keep up your studies as[n]well, okay?
 
 [msg MSG_039 [Ryuji]]
-No s姻 qu姻 te pas吋 pero no tienes que[n]apresurarte, 夷verdad?
-Puedes decidir qu姻 hacer una vez que[n]descubras tu propio sentido de justicia.
+I dunno what happened to you... but you[n]don't gotta rush it, do ya?
+You can decide what to do once you[n]figure out your own sense of justice.
 
 [msg MSG_040 [Ken]]
-Mi propio sentido de la justicia...
-Ya veo... Necesito tiempo para pensar.[n]Yo decidir姻 qu姻 hacer despu姻s de eso.
+My own sense of justice...
+I see... I need some time to think. I'll[n]decide what to do after that.
 
 [msg MSG_041 [Morgana]]
-Ese es el esp胤ritu.
+Heh, that's the spirit.
 
 [msg MSG_042 [Ken]]
-Muchas gracias a todos!
-Nunca he tenido a nadie con quien hablar[n]de este tipo de cosas antes...
+Um, thank you very much, everyone!
+I've never had anyone I could discuss[n]this kind of stuff with before...
 
 [msg MSG_043 [Ryuji]]
-Oye, 夷recuerdas lo que dije? Nunca vas a[n]hacer nada si te escapas solo.
-Lo que quiero decir es que me recuerdas[n]un poco a m胤 mismo cuando ten胤a tu[n]edad...
+Hey, remember what I said? You'll never[n]get anything done if you run off on your[n]own.
+What I mean is, uh... you remind me a[n]bit of myself when I was your age...
 
 [sel SEL_044 top]
-夷C吋mo?
-No eres nada igual.
-夷Has visto un espejo 雨ltimamente?
+How?
+You're nothing alike.
+You looked in a mirror lately?
 
 [msg MSG_045 [Ryuji]]
-斡No hablo de miradas! Es m茨s como... su[n]aura o algo as胤.
-Como si se reh雨sa a depender de nadie, o[n]cree que el mundo est茨 en su contra, esa[n]cosa...
+I'm not talkin' about looks! It's more[n]like... his aura or somethin'.
+Like he refuses to depend on anyone, or[n]he thinks the world is against him―that[n]kinda thing...
 
 [msg MSG_046 [Ann]]
-Vaya...
+Wow...
 
 [msg MSG_047 [Morgana]]
-夷Ryuji realmente tom吋 algo as胤? 夷Va a[n]nevar ma隠ana tambi姻n?
+Ryuji actually picked up on something[n]like that...? Is it gonna snow tomorrow[n]too?
 
 [msg MSG_048 [Ryuji]]
-斡Arrrgh! 夷Qu姻 les pasa?
+Arrrgh! What's with you guys!?
 
 [msg MSG_049 [Ken]]
-S姻 que todav胤a tengo mucho que aprender.
-Pero espero que alg雨n d胤a pueda usar mi[n]poder para un sentido de justicia en el[n]que creo, como todos ustedes.
+*chuckle* I know I still have a lot to[n]learn.
+But I hope that someday I'll be able to[n]use my power for a sense of justice I[n]believe in, just like all of you.
 
 [msg MSG_050 [Morgana]]
 Ken...
 
 [msg MSG_051 [Ann]]
-S姻 que puedes hacerlo, Ken.
+I know you can do it, Ken-kun.
 
 [msg MSG_052 [Ryuji]]
-斡S胤, esperando!
+Yeah, lookin' forward to it!
 
 [msg MSG_053 [Ken]]
-斡Gracias!
+Thank you!
 

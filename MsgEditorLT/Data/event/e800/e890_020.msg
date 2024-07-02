@@ -1,94 +1,94 @@
 [msg MSG_000 [Elizabeth]]
-斡Bien! Creo que ya todos conocemos el[n]taladro...
-Usted ha adquirido una nueva pieza de[n]pel胤cula que contiene posibilidades[n]ocultas del poder de la tarjeta salvaje.
-En consecuencia, he encontrado c吋mplices[n]para ayudar a restaurar su luz.
+Well! I believe we all know the drill by[n]now...
+You have acquired a new piece of film[n]containing hidden possibilities of the[n]power of the wild card.
+Accordingly, I have found accomplices to[n]assist in restoring its light.
 
 [msg MSG_001 [Caroline]]
-Hmph. No estamos aqu胤 por tu bien.
+Hmph. We're not here for your sake.
 
 [msg MSG_002 [Justine]]
-Nos encontramos aburridos. Esa es la[n]雨nica raz吋n por la que te adulamos.
+We happened to find ourselves bored.[n]That is the only reason we're indulging[n]you.
 
 [msg MSG_003 [Futaba]]
-斡Ooh, doble golpe!
+Ooh, double tsundere blast!
 
 [sel SEL_004 top]
-Lo aprecio, ustedes dos.
-No os presion姻is.
+I appreciate it, you two.
+Don't push yourselves.
 
 [msg MSG_005 [Caroline]]
-斡No hay nada que apreciar! 斡Ya dijimos[n]que no lo estamos haciendo por ti!
+Th-There's nothing to appreciate! We[n]already said we're not doing it for you!
 
 [msg MSG_006 [Justine]]
-Si salimos victoriosos sobre ti, hay[n]algo para nosotros.
+If we emerge victorious over you, there[n]is something in it for us.
 
 [msg MSG_007 [Futaba]]
-S胤, ustedes dos son peque隠os. No[n]queremos hacerte da隠o.
+Yeah, you two are tiny. We don't wanna[n]end up hurting you.
 
 [msg MSG_008 [Caroline]]
-斡La audacia! 斡El tama隠o de nuestros[n]cuerpos no tiene nada que ver con esto!
+U-Ugh, the audacity! The size of our[n]bodies has nothing to do with this!
 
 [msg MSG_009 [Justine]]
-夷C吋mo te atreves a subestimarnos? Te[n]arrepentir茨s pronto de tus palabras.
+How dare you underestimate us... You'll[n]regret your words soon enough.
 
 [msg MSG_010 [Caroline]]
-Hola, Elizabeth.
+Hey, Elizabeth.
 
 [msg MSG_010_1 [Caroline]]
-斡Mejor no olvides tu promesa! Hicimos[n]que esos prisioneros se comportaran, 斡y[n]t雨 nos traes m茨s hot dogs!
+You better not forget your promise! We[n]put those prisoners in their place, and[n]you get us more hot dogs!
 
 [msg MSG_011 [Elizabeth]]
-Apostaste tu dulce bippy. Si姻ntete libre[n]de tomar tanto de mi parte como quieras.
+You bet your sweet bippy. Feel free to[n]take as much of my share as you like.
 
 [msg MSG_012 [Caroline]]
-夷Escuchaste eso, Justine? Quiero una[n]victoria absoluta, incuestionable y[n]perfecta.
+You hear that, Justine? I want an[n]absolute, unquestionable, perfect[n]victory.
 
 [msg MSG_013 [Justine]]
-Entiendo.
-Juro que ser茨n destruidos, en nombre de[n]bollos blandos y salchichas saladas por[n]todas partes.
+I understand.
+I vow that they will be destroyed, on[n]the name of soft buns and savory[n]sausages everywhere.
 
 [msg MSG_014 [Ryuji]]
-夷M茨s hot dogs...? Hombre, ustedes est茨n[n]obsesionadas.
+Hot dogs again...? Man, you guys are[n]obsessed.
 
 [msg MSG_015 [Elizabeth]]
-斡Sin embargo! Para que cuente como su[n]victoria, deben indicar claramente: "Nos[n]rindimos"
+However! For it to count as your[n]victory, they must clearly state: "We[n]give up."
 
 [msg MSG_016 [Justine]]
-No tengo problema con eso.
-Hacer que los prisioneros admitan la[n]derrota no ser茨 dif胤cil. Correr茨n a[n]casa, colas entre sus piernas.
+I've no issue with that.
+Making the prisoners admit defeat won't[n]be difficult. They'll run home, tails[n]between their legs.
 
 [msg MSG_017 [Caroline]]
-Ahora, recluso. 夷Est茨s preparado? Si[n]quieres retroceder, ahora es tu 雨ltima[n]oportunidad.
+Now, Inmate. Are you prepared? If you[n]want to back out, now's your last[n]chance.
 
 [sel SEL_018 top]
-斡Hag茨moslo!
-Dame tiempo.
+Let's do this!
+Give me some time.
 
 [msg MSG_019 [Caroline]]
-斡Hmph! 斡Tienes esp胤ritu, al menos!
+Hmph! Well, you've got spirit, at least!
 
 [msg MSG_020 [Justine]]
-Veremos cu茨nto tiempo tarda en romperlo.[n]Ahora, empecemos.
+We'll see how long it takes to break it.[n]Now, let us begin.
 
 [msg MSG_021 [Caroline]]
-Heh heh... 夷Qu姻? 夷Tienes pies fr胤os? No[n]puedo culparte.
+Heh heh... What, getting cold feet? I[n]can't blame you.
 
 [msg MSG_022 [Justine]]
-No correremos ni nos esconderemos. Una[n]vez que est姻s listo, ven a hablar con[n]nosotros.
+We will not run or hide. Once you are[n]ready, come speak to us.
 
 [msg MSG_023 [Caroline]]
-夷Qu姻 pasa? 夷Ya est茨s preparado para ser[n]aplastado?
+What's the matter? You prepared to get[n]crushed yet?
 
 [sel SEL_024 top]
-Estoy listo.
-Necesito un poco m茨s.
+I'm ready.
+I need a bit longer.
 
 [msg MSG_025 [Caroline]]
-Heh heh... 斡Nos cans茨bamos de esperar!
+Heh heh... We were getting tired of[n]waiting around!
 
 [msg MSG_026 [Justine]]
-Bueno, entonces, ven a la Habitaci吋n[n]Terciopelo.
+Well then, come to the Velvet Room.
 
 [msg MSG_027 [Justine]]
-夷En serio? Entonces ven a hablar con[n]nosotros cuando est姻s completamente[n]preparado.
+Is that so? Then come speak to us once[n]you are fully prepared.
 

@@ -1,54 +1,54 @@
 [msg MSG_000 [Elizabeth]]
-El objetivo de esta proyecci吋n[n]especial...
-Es limpiar el piso especificado de[n]A.I.G.I.S.
+The objective of this special[n]screening...
+Is to clear the specified floor of[n]A.I.G.I.S.
 
 [msg MSG_001 [Ryuji]]
-夷Eso es todo? Ya conocemos muy bien ese[n]piso. 夷No ser茨 f茨cil?
+That's it? We already know that floor[n]pretty well. Won't this be easy?
 
 [msg MSG_002 [Elizabeth]]
-Pero hay que recordar que no puedes[n]juzgar un libro por sus portadas. Las[n]cosas no son siempre como parecen.
-Como tal, el dise隠o del suelo se ha[n]convertido en terriblemente complejo.
-Su tarea es navegar por los pasajes[n]laber胤nticos y regresar con seguridad.
+But one must remember that you cannot[n]judge a book by its coveralls. Things[n]are not always as they seem.
+As such, the layout of the floor has[n]become terribly complex.
+Your task is to navigate the[n]labyrinthine passages and return safely.
 
 [sel SEL_003 top]
-夷Qu姻 pas吋?
-夷Qui姻n es responsable de esto?
+What happened?
+Who's responsible for this?
 
 [msg MSG_004 [Elizabeth]]
-Bueno... Me temo que no tengo m茨s[n]detalles sobre el asunto.
+Well... I'm afraid I don't have further[n]details on the matter.
 
 [msg MSG_005 [Fuuka]]
-Cuando dices que el dise隠o se vuelve[n]complejo... 夷C吋mo cambi吋 exactamente?
+When you say the layout's become[n]complex... How exactly did it change?
 
 [msg MSG_006 [Elizabeth]]
-Bueno... Si fuera a dar un ejemplo m茨s[n]visual, ahora se parece a la habitaci吋n[n]de Junpei.
+Well... If I were to give a more visual[n]example, it now resembles Junpei's room.
 
 [msg MSG_007 [Yukari]]
-Eso ya es m茨s de lo que quer胤a saber.
+Ugh, that's already more than I wanted[n]to know.
 
 [msg MSG_008 [Mitsuru]]
-Ngh... 夷Quieres decir que tenemos que[n]navegar por una pesadilla?
+Ngh... You mean to say we have to[n]navigate such a nightmare?
 
 [msg MSG_009 [Junpei]]
-夷Chicos? Las palabras tambi姻n pueden[n]doler.
+Um, guys? Words can hurt too, y'know.
 
 [msg MSG_010 [Makoto]]
-No tiene sentido discutirlo aqu胤.[n]Entremos y veamos por nosotros mismos.
+There's no point discussing it here.[n]Let's go in and see for ourselves.
 
 [sel SEL_011 top]
-De acuerdo.
-Nos vamos a perder...
+Agreed.
+We're gonna get lost...
 
 [msg MSG_012 [Haru]]
-Cierto. Tenemos un mapa espl姻ndido, y[n]navegadores 雨tiles adem茨s!
+Right. We have a splendid map, and[n]helpful navigators besides!
 
 [msg MSG_013 [Futaba]]
-No te preocupes. Ya tienes un mapa, y[n]estaremos navegando por ti.
+Don't worry. You already got a map, and[n]we'll be navigating for you.
 
 [msg MSG_014 [Rise]]
-S胤, estaremos aqu胤 para apoyarte.[n]Aseg雨rate de volver directamente si se[n]pone demasiado duro ah胤 fuera.
+Yeah, we'll be here to support you. Make[n]sure to come straight back if it gets[n]too rough out there.
 
 [msg MSG_015 [Morgana]]
-斡Muy bien! Entonces est茨 arreglado.
-Podr胤a ser un largo trek, y podr胤amos[n]perdernos. Aseg雨rate de estar[n]preparados.
+All right! Then it's settled.
+It might be a long trek, and we might[n]get lost. Make sure we're prepared.
 

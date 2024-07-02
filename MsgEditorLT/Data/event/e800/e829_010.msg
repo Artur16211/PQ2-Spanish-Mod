@@ -1,65 +1,65 @@
 [msg MSG_000 [Elizabeth]]
-He o胤do rumores de que un vil[n]Tyrannosaurus rex est茨 vagando por la[n]Tierra Junesic una vez m茨s.
-El objetivo de este tiempo es derrotar a[n]un Tyranniqueen.
+I've heard rumors that a vicious[n]Tyrannosaurus rex is roaming Junessic[n]Land once again.
+The goal this time is to defeat a[n]Tyranniqueen.
 
 [msg MSG_001 [Rise]]
-El Tyranniqueen es ese FOE en la[n]pel胤cula de dinosaurios, 夷verdad?
+The Tyranniqueen's that FOE in the[n]dinosaur movie, right?
 
 [msg MSG_002 [Yosuke]]
-畏se es. Es el carn胤voro... Lo m茨s fuerte[n]que hay.
+That's the one. It's THE carnivore...[n]The strongest there is.
 
 [msg MSG_003 [Teddie]]
-斡Siento una intensa batalla!
+Hm, I feel an intense battle coming up!
 
 [msg MSG_004 [Futaba]]
-Nos hemos vuelto mucho m茨s fuertes. No[n]es que no tengamos oportunidad ni nada.
-Adem茨s, 夷no crees que es algo[n]emocionante ir contra el dinosaurio m茨s[n]fuerte?
+We've gotten a lot stronger. It's not[n]like we don't stand a chance or[n]anything.
+Besides, don't you think it's kind of[n]exciting going up against the strongest[n]dinosaur?
 
 [sel SEL_005 top]
-Lo llevaremos juntos.
-Vamos a mostrar nuestro valor.
+We'll take it together.
+We'll show our courage.
 
 [msg MSG_006 [Ken]]
-Cierto. Si los cinco trabajamos juntos,[n]no hay nada que no podamos vencer.
+Right. If the five of us work together,[n]there's nothing we can't beat.
 
 [msg MSG_007 [Futaba]]
-Buen pensamiento. 斡Eso suena como algo[n]que escuchar胤as en esos espect茨culos de[n]h姻roes!
+Ooh, good thinking. That totally sounded[n]like something you'd hear in those hero[n]shows!
 
 [msg MSG_008 [Futaba]]
-Whoa! 斡Eso suena como algo que dir胤a un[n]h姻roe! Bien hecho, Red.
+Whoa! That totally sounded like[n]something a hero would say! Good going,[n]Red.
 
 [msg MSG_009 [Ken]]
-Haha, you make a good leader, [f 6 1 30 0 0 0].
+Haha, you make a good leader,-san.
 
 [msg MSG_010 [Yukari]]
-夷Eh? Ken parece que se est茨 divirtiendo.[n]夷De qu姻 est茨n hablando?
+Huh? Ken-kun looks like he's having fun.[n]What're you guys talking about?
 
 [msg MSG_011 [Futaba]]
-Phoenix Ranger Featherman! Eres Pink,[n]Yukari... No hay sorpresa.
+Phoenix Ranger Featherman! You're Pink,[n]Yukari... No surprise there.
 
 [msg MSG_012 [Kanji]]
-Y supongo que eso significa que soy[n]Amarillo.
+A-And I guess that means I'm Yellow.
 
 [msg MSG_013 [Morgana]]
-Pens姻 que eras el malo.
+I thought you were the bad guy.
 
 [msg MSG_014 [Kanji]]
-斡C茨llate!
+Sh-Shut up!
 
 [msg MSG_015 [Elizabeth]]
-Vayan a la Tierra de Junessic cuando[n]est姻n listos. Pero antes de hacer eso...[n]夷Podr胤a molestarte por una foto?
-Oh, tambi姻n, olvid姻 mencionar: tendr茨s[n]que derrotar a dos Tyranniqueens.
+Head to Junessic Land when you're ready.[n]But before you do that... Could I[n]trouble you for a picture?
+Oh, also, I forgot to mention: you'll[n]need to defeat two Tyranniqueens.
 
 [msg MSG_016 [Yosuke]]
-夷TWO? Es un detalle muy importante para[n]olvidar...
+TWO!? That's a pretty important detail[n]to forget...
 
 [msg MSG_017 [Elizabeth]]
-S胤, bueno, la prueba especial requiere[n]que derrotas a dos.
+Yes, well, the special screening[n]requires that you defeat two.
 
 [msg MSG_018 [Futaba]]
-Carnaje Carnivore! 斡Derrota a los dos[n]FOEs dinosaurios!
+Featherman: Carnivore Carnage! Defeat[n]the two dinosaur FOEs!
 
 [msg MSG_019 [Ken]]
-Haha, suena como el t胤tulo para el[n]episodio de la pr吋xima semana.
-Me estoy excitando mucho. Vamos, [f 6 1 30 0 0 0].
+Haha, sounds like the title for next[n]week's episode.
+I'm getting pretty excited myself. Let's[n]go, [f 6 1 30 0 0 0]-san.
 

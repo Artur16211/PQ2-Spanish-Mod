@@ -1,17 +1,17 @@
-[msg MSG_000 [Flor Shrill]]
-Oh yo, oh, miren a todos ustedes. Buscas[n]la "cosa negra", 夷no?
+[msg MSG_000 [Shrill flower]]
+Oh me, oh my, look at all of you. You[n]seek the "black thing," yes?
 
-[msg MSG_001 [Flor Sonriente]]
-だ ゅよ ゅぺるむよ ぽま ゎょぺ れまょぽぺ よれぼゎるぺデ ほゅよりゎまぺぽぺデ ゎょぺ[n]ぼぺれぺ れま まょぼゎまょろるぺ ぺ ゅぺ れよゆほるぺ まょ ゅぺ もるぺテ ふもよ ぺ[n]ろるぺわイれ ぽま ゎょぺ らゎまるろぺデ もょみゎょぽもぽぺ ぼよょ まゅ ゆぺゅ[n]めぺぼま ゆゎぼめよ ろもまゆらよ もむょよるぺぽぺテ
+[msg MSG_001 [Smiling flower]]
+Along a dark, blocked path, a house[n]stands a-swirl in wrath. Seen through a[n]door, infused with evil long ignored.
 
 [msg MSG_002 [Shrill Flower]]
-... Oh, pero debes cuidarte, gran[n]cuidado. Porque est茨n esperando en esa[n]casa.
+...Oh, but you must take care, great[n]care. For they are waiting in that[n]house.
 
 [msg MSG_003 [Yosuke]]
-Acabo de pensar en algo. Cuando dicen[n]"carreo bloqueado", 夷significan un[n]callej吋n sin salida?
-Una casa situada en un callej吋n sin[n]salida... dulce, lo descubr胤! Y est茨 al[n]otro lado de una puerta...
-Oye, hab胤a una puerta justo donde[n]bajamos, 夷verdad? 夷No era al oeste de[n]aqu胤? 斡Estoy en un rollo!
+Hey, I just thought of something. When[n]they say "blocked path," do they mean a[n]dead end?
+A house located at a dead end... sweet,[n]I figured it out! And it's on the other[n]side of some door...
+Hey, there was a door right by where we[n]came down, right? Wasn't it west of[n]here? Man, I'm on a roll!
 
 [msg MSG_004 [Junpei]]
-Amigo, lo eres! 斡Vamos por all茨!
+Dude, you are! Let's make our way over[n]there!
 

@@ -1,67 +1,67 @@
 [msg MSG_000 [Elizabeth]]
-Esta proyecci吋n especial se refiere al[n]graffiti en la pel胤cula Kamoshidaman...
-Parecer胤a que uno de esos dibujos ha[n]cambiado dr茨sticamente.
-Sus 吋rdenes esta vez son encontrar el[n]dibujo que es diferente del resto... Eso[n]es todo.
+Esta proyecci吋n especial se centra en los grafitis de la pel胤cula de Kamoshidaman...
+Parece que uno de esos dibujos ha cambiado dr茨sticamente.
+Esta vez vuestro objetivo es encontrar el grafiti que es diferente del resto... Eso es todo.
 
 [msg MSG_001 [Makoto]]
-Cuando dices graffiti, te refieres al[n]arte callejero, 夷verdad?
-夷Est茨s diciendo que hay una nueva en[n]alguna parte?
+Cuando dices grafiti, quieres decir arte callejero, 夷verdad?
+夷Est茨s diciendo que hay uno nuevo por ah胤?
 
 [msg MSG_002 [Akechi]]
-Elizabeth dijo que uno de ellos ha[n]cambiado.
-Eso significar胤a que uno de los dibujos[n]existentes ha sido sobrescrito.
+No. Elizabeth ha dicho que uno de ellos ha "cambiado"
+Eso quiere decir que uno de los que hab胤a, ha sido modificado.
 
 [msg MSG_003 [Elizabeth]]
-*chuckle* Bien hecho, detective Prince.[n]Tus habilidades deductivas son bastante[n]agudas.
-En cualquier caso, creo que tendr茨 m茨s[n]sentido una vez que lo vean por ustedes[n]mismos.
+*risita* Bien hecho, Pr胤ncipe Detective. Tus habilidades deductivas son muy agudas.
+En cualquier caso, creo que tendr茨 m茨s sentido una vez que lo ve茨is por vosotros mismos.
 
 [msg MSG_004 [Ann]]
-Eso no fue una explicaci吋n...
+Eso no fue una gran explicaci吋n...
 
 [msg MSG_005 [Yusuke]]
-斡Ja, ja, ja!
+Heh... Heheh... 斡Hahahahaha!
 
 [msg MSG_006 [Futaba]]
-Whoa! 夷Qu姻 te pasa, Inari?
+斡Eh! 斡夷Qu姻 te pasa, Inari?!
 
 [msg MSG_007 [Yusuke]]
-Mientras que va sin decir que esta[n]proyecci吋n especial es perfecta para[n]m胤...
-Esta es tambi姻n una espl姻ndida[n]oportunidad para presentar a todos las[n]maravillas visuales del arte callejero!
+Aunque no hace falta decir que esta proyecci吋n especial es perfecta para m胤...
+斡Tambi姻n es una oportunidad perfecta para introduciros a las maravillas visuales del arte callejero!
 
 [msg MSG_008 [Rise]]
-Es verdad que no vemos el arte de la[n]calle tan a menudo.
+Hmm, es verdad que no solemos ver arte callejero.
 
 [msg MSG_009 [Yukiko]]
-S胤, causar胤as una escena si lo[n]intentaras en Inaba.
+S胤, armar胤ais un gran esc茨ndalo si lo intentarais en Inaba.
 
 [msg MSG_010 [Yusuke]]
-Una b雨squeda de arte callejero... 斡Estoy[n]temblando de emoci吋n!
-Urgh, pero a雨n no... 斡Es muy pronto![n]斡Sigue, mi mano...!
+Una misi吋n de arte callejero... Jejeje... Estoy temblando de la emoci吋n.
+Urgh, pero todav胤a no... 斡Es muy pronto todav胤a! 斡P茨rate, mano...!
 
 [msg MSG_011 [Futaba]]
-Oh, hermano... Lo siguiente que sabes,[n]Inari abrir茨 un tercer ojo.
+Oh, t胤o... Lo pr吋ximo ser茨 que Inari abra un tercer ojo.
 
 [msg MSG_012 [Yusuke]]
-De cualquier manera, [f 6 1 30 0 0 0], perm胤tanme[n]manejar esta prueba especial!
+En cualquier caso, [f 6 1 30 0 0 0], 斡d姻jame encargarme de esta proyecci吋n especial!
 
 [sel SEL_013 top]
-Eres todo tuyo.
+Es todo tuya.
 Creo que no.
 
 [msg MSG_014 [Yusuke]]
-Por supuesto. Ahora, salgamos. Nuestra[n]b雨squeda de nueva inspiraci吋n comienza!
+Por supuesto. Ahora, v茨monos. 斡Comienza nuestra b雨squeda de nueva inspiraci吋n!
 
 [msg MSG_015 [Yusuke]]
-夷Qu姻...?
-Erk, el shock es demasiado grande... 斡No[n]puedo dejar de temblar!
+斡夷Qu姻...?!
+Erk, estoy tan en shock... 斡Que no puedo parar de temblar!
 
 [msg MSG_016 [Futaba]]
-Si no vamos pronto, va a llamar a Dark[n]Inari o algo as胤.
+Si no nos vamos pronto, va a invocar al Inari Oscuro o algo as胤.
 
 [msg MSG_017 [Morgana]]
-Suena bien. Hay una recompensa en ella,[n]y podemos aumentar nuestra fuerza[n]tambi姻n, 夷por qu姻 no?
+Suena bien. Hay una recompensa, y podremos mejorar nuestra fuerza tambi姻n, 夷por qu姻 no?
 
 [msg MSG_018 [Makoto]]
-夷Entonces todo lo que tenemos que hacer[n]es buscar un arte callejero reci姻n[n]hecho?
-Vale, vamos, [f 6 1 29 0 0 0].
+夷As胤 que lo 雨nico que tenemos que hacer es buscar arte callejero reci姻n dibujado?
+Okay, vamos, [f 6 1 29 0 0 0].
 

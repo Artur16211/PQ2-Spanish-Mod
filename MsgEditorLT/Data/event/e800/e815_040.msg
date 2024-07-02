@@ -2,63 +2,63 @@
 Woof! Woof!
 
 [msg MSG_001 [Akechi]]
-S胤, m茨s huesos. Otro trabajo bien hecho,[n]Koromaru.
+Yes, more bones. Another job well done,[n]Koromaru-kun.
 
 [msg MSG_002 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_003 [Akechi]]
-Ah胤, ah胤, buen chico.
+There, there, good boy.
 
 [msg MSG_004 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_005 [Akechi]]
-斡Ja, ja, ja! 斡Eso hace cosquillas!
+Hahaha! That tickles!
 
 [msg MSG_006 [Ken]]
-...?
+......?
 
 [msg MSG_007 [Rise]]
-Wow, Crow y Koro van genial juntos.
-Un chico guapo y su perro. Es un par[n]perfecto.
+Wow, Crow and Koro-chan go great[n]together.
+A handsome guy and his dog. It's a[n]perfect pair.
 
 [msg MSG_008 [Yukiko]]
-Parece que le gustas mucho. Tal vez est姻[n]feliz de estar en equipo con alguien tan[n]talentoso.
+He seems to really like you. Maybe he's[n]happy to be teamed up with someone so[n]talented.
 
 [msg MSG_009 [Yukari]]
-Ahaha. No es como Koro desagrada a la[n]gente que no tiene talento ni nada.
+Ahaha. It's not like Koro-chan dislikes[n]people who aren't talented or anything.
 
 [msg MSG_010 [Junpei]]
-夷Mmm? 夷Por qu姻 me miras, Yuka?
+Hmm? Why're you looking at me, Yuka-tan?
 
 [msg MSG_011 [Yosuke]]
-Bueno, ciertamente es diferente de otro[n]animal que s姻 que s吋lo piensa en[n]perseguir faldas.
+Well, he's certainly different from[n]another animal I know that only thinks[n]about chasing skirts.
 
 [msg MSG_012 [Teddie]]
-斡Oye! 夷Por qu姻 me miras?
+Hey! What're you looking at me for!?
 
 [msg MSG_013 [Akechi]]
-... Ahaha. Veo que todos se llevan bien[n]como siempre.
-Ahora, veamos estos huesos...
+...Ahaha. I see everyone's getting along[n]as usual.
+Now, let's see about these bones...
 
 [msg MSG_014 [Koromaru]]
 *whine*
 
 [msg MSG_015 [Ken]]
-...
-夷Cu茨l es el veredicto, Crow?
+......
+What's the verdict, Crow?
 
 [msg MSG_016 [Akechi]]
-Bueno, esto parece nuevo.[n]Definitivamente nos estamos acercando.
+Well, these do look new. We're[n]definitely getting close.
 
 [msg MSG_017 [Koromaru]]
-斡斡Arf! 斡Barco, corteza!
+Arf! Bark, bark!
 
 [msg MSG_018 [Ken]]
-Dice que huele algo al este.
+He says he smells something to the east.
 
 [msg MSG_019 [Akechi]]
-Lo tengo. Este es.
-Ser茨 mejor que mantengamos a nuestro[n]guardia de aqu胤 en adelante. Vamos a[n]estar concentrados, Joker.
+Got it. East it is.
+We'd better keep our guard up from here[n]on out. Let's stay focused, Joker.
 

@@ -1,94 +1,94 @@
 [msg MSG_000 [Naoto]]
-Parece que todas las pistas que vamos a[n]conseguir por el momento.
-Oracle, comparemos los datos que hemos[n]adquirido hasta ahora.
+Parece que esas son todas las pistas que podemos recibir por ahora.
+Oracle, vamos a comparar los datos que hemos obtenido hasta el momento.
 
 [msg MSG_001 [Futaba]]
-斡Muy bien! Escribelo si lo necesitas.
+斡Perfecto! Ap雨ntalo si lo necesitas.
 
 [msg MSG_002 [Futaba]]
 Entonces el primer oficial dijo...
-"El oficial falso est茨 montando en un[n]coche marcado con dobles"
-Su coche est茨 n雨mero 77-55.
+"El polic胤a falso va en un coche marcado con un doble uno."
+Su coche est茨 numerado 77-55.
 
 [msg MSG_003 [Futaba]]
 Y el segundo...
-"El oficial con el coche n雨mero 77-55 es[n]real."
-Est茨 en el coche 11-10.
+"El oficial con el coche numerado 77-55 es real."
+畏l est茨 en el coche 11-10
 
 [msg MSG_004 [Futaba]]
 El tercero dice...
-"El oficial en el coche con doble 4 es[n]real."
+"El polic胤a en el coche con un doble 4 es real."
 Su coche es 11-22.
 
 [msg MSG_005 [Futaba]]
-Cuarto...
-"El oficial con doble 7s est茨 actuando[n]sospechoso."
-El n雨mero en su coche era 44-11.
+El cuarto...
+"El oficial con un doble 7 est茨 actuando de modo sospechoso."
+El n雨mero de su coche era 44-11.
 
 [msg MSG_006 [Futaba]]
-Y finalmente est茨 el quinto...
-"El oficial en coche n雨mero 11-10 me[n]parece sospechoso."
-Sus n雨meros son 11-77. La culpa falla y[n]los siete afortunados.
+Y finalmente el quinto...
+"El polic胤a con el n雨mero de coche 11-10 me parece sospechoso."
+Sus n雨meros son 11-77. Dos unos y dos sietes de la suerte.
 
 [msg MSG_007 [Futaba]]
-斡Eso es todo lo que tenemos! 夷Quieres[n]o胤rlo otra vez?
+斡Eso es todo lo que tenemos! 夷Quieres volver a o胤rlo?
 
 [sel SEL_008 top]
 Por favor.
-Estoy bien.
+Voy bien.
 
 [msg MSG_009 [Futaba]]
-斡Roger! Preste atenci吋n ahora.
+斡Entendido! Pon atenci吋n ahora.
 
 [msg MSG_010 [Futaba]]
-斡Est茨 bien! 斡A la fase de pensamiento![n]斡Ll姻venselo, detective!
+斡Okay! 斡Pasamos a la fase de pensar! 斡Ll姻vatelo, Detective!
 
 [msg MSG_011 [Naoto]]
-El punto principal es que s吋lo uno de[n]ellos est茨 mintiendo.
-ねまぼまれもろぺゆよれ ぼよゆらぺるぺる まれろよれ ろまれろもゆよょもよれ を[n]ぽまれろぺぼぺる ぺ ぼゎぺゅりゎもまる れよれらまぼめよれよ りゎま わもよゅま[n]ょゎまれろるぺ るまむゅぺ ぽま りゎま "めぺを れカゅよ ゎょ ゆまょろもるよれよ"
-はよる ゅよ ろぺょろよデ れもゆらゅまゆまょろま ょまぼまれもろぺゆよれ らるよほぺる[n]りゎイ ろまれろもゆよょもよ まれ ょゎまれろるぺ グょもぼぺ ゆまょろもるぺデ を わまる[n]れも ゅよれ ろまれろもゆよょもよれ るまれろぺょろまれ れよょ わまるぽぺぽまるよれテ
+La cuesti吋n principal aqu胤 es que solo uno de ellos est茨 mintiendo.
+Tenemos que comparar esos testimonios y destacar los sospechosos que no cumplen la regla de que "solo hay un mentiroso."
+Por lo tanto, solo tenemos que comprobar cu茨l es nuestro 雨nico testimonio mentiroso, y ver si el resto son ciertos.
 
 [msg MSG_012 [Futaba]]
-夷Qu姻 tal, Joker? 夷Descubriste qui姻n es[n]el mentiroso?
+夷Qu姻 te parece, Joker? 夷Ya sabes qui姻n es el mentiroso?
 
 [sel SEL_013 top]
-Oficial 77-55.
-Oficial 11-10.
-Oficial 11-22.
-Oficial 44-11.
-Oficial 11-77.
+El polic胤a 77-55.
+El polic胤a 11-10.
+El polic胤a 11-22.
+El polic胤a 44-11.
+El polic胤a 11-77.
 
 [msg MSG_014 [Naoto]]
-El oficial del auto n雨mero 77-55,[n]夷correcto?
+El polic胤a con el coche numerado 77-55, 夷verdad?
 
 [msg MSG_015 [Futaba]]
-Ese estaba cerca del punto de partida.
+Ese estaba cerca de nuestro punto de partida.
 
 [msg MSG_016 [Naoto]]
-夷El oficial que estaba en el coche[n]11-10?
+夷El polic胤a que ten胤a el coche 11-10, dices?
 
 [msg MSG_017 [Futaba]]
-斡Ese era un poco al sur de donde[n]empezamos!
+斡Ese estaba un poco al sur de donde empezamos!
 
 [msg MSG_018 [Naoto]]
-夷Entonces el oficial con el coche n雨mero[n]11-22?
+夷Entonces el oficial con el coche numerado 11-22?
 
 [msg MSG_019 [Futaba]]
-Estaba un poco al sur desde el punto de[n]partida, justo antes de un giro.
+Estaba un poco al sur de donde empezamos, justo antes de una curva.
 
 [msg MSG_020 [Naoto]]
-El oficial con el coche n雨mero 44-11,[n]夷verdad?
+El polic胤a con el coche numerado 44-11, 夷es correcto?
 
 [msg MSG_021 [Futaba]]
-Creo que estaba... cerca del medio del[n]mapa, por un Treasure Spot.
+Creo que estaba... cerca del centro del mapa, por un Punto del Tesoro.
 
 [msg MSG_022 [Naoto]]
-夷El oficial con el coche 11-77?
+夷El polic胤a con el coche 11-77?
 
 [msg MSG_023 [Futaba]]
-Est茨 en una zona abierta en el lado[n]oeste.
+Est茨 en una zona abierta en el 茨rea oeste.
 
 [msg MSG_024 [Naoto]]
 Muy bien, vamos.
-Si tienes raz吋n, probablemente nos[n]encontraremos con una pelea. Aseg雨rate[n]de que estemos listos.
+Si est茨s en lo cierto, probablemente tengamos que luchar. Aseg雨rate de que estamos listos.
 

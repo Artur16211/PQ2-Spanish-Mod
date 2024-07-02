@@ -1,26 +1,26 @@
 [msg MSG_000]
-La m雨sica desapareci吋 de la caja de[n]m雨sica...
+The music disappeared from the music[n]box...
 
 [msg MSG_001 [Fuuka]]
-斡Oh no! 斡La m雨sica!
+Oh no...! The music...!
 
 [msg MSG_002 [P3 Fem Protag]]
-Qu姻 verguenza. Supongo que deber胤amos[n]regresar y conseguir la m雨sica de[n]nuevo...
+Aw, that's a shame. Guess we should head[n]back and get the music again...
 
 [msg MSG_003 [Morgana]]
-斡S吋lo tenemos 46 pasos, Joker![n]斡Aseg雨rate de no desperdiciar nada!
+We've only got 46 steps, Joker! Make[n]sure not to waste any!
 
 [msg MSG_004]
-...!
-La m雨sica desapareci吋 de la caja de[n]m雨sica...
+......!
+The music disappeared from the music[n]box...
 
 [msg MSG_005 [Fuuka]]
-斡Oh no!
-Nos advirti吋 que no usemos un Goba-K o[n]una habilidad de escape. Por eso...
+Oh no...!
+She warned us not to use a Goba-K or a[n]escape-type skill. This must be why...
 
 [msg MSG_006 [P3 Fem Protag]]
-Qu姻 verguenza. Supongo que deber胤amos[n]regresar y conseguir la m雨sica de[n]nuevo...
+Aw, that's a shame. Guess we should head[n]back and get the music again...
 
 [msg MSG_007 [Morgana]]
-斡Tenemos que hacerlo dentro de 46 pasos[n]sin hacer trampa! Vamos a conseguirlo[n]esta vez!
+We've gotta do it in within 46 steps[n]without cheating! Let's get it this[n]time!
 

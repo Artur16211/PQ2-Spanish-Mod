@@ -1,94 +1,94 @@
 [msg MSG_000 [Teddie]]
-夷Eh? 夷Esto es un callej吋n sin salida?[n]斡Entonces eso significa que hemos[n]terminado!
+Huh? Is this a dead end? Then that means[n]we're done!
 
 [msg MSG_001 [Junpei]]
-Espera un segundo. 夷Y si este objetivo[n]es una trampa?
-夷Va a abrir el piso y dejarnos abajo un[n]pozo de pico o algo as胤?
+H-Hey, wait a sec. What if this goal is[n]a trap...?
+Is the floor gonna open up and drop us[n]down a spike pit or something...?
 
 [msg MSG_002 [Junpei]]
-斡Gah! 夷Qu姻?
+Gah! What!?
 
-[msg MSG_003 [Voz Sonora]]
-Bien hecho, todos. Has alcanzado el[n]objetivo.
+[msg MSG_003 [Sonorous voice]]
+Well done, everyone. You have reached[n]the goal.
 
 [msg MSG_004 [Junpei]]
-Eso me asust吋... Es la se隠ora de[n]antes...
+*sigh* That scared me... It's just that[n]lady from before...
 
-[msg MSG_005 [Voz Sonora]]
-Observ姻 las decisiones que tomaste, y[n]las encontr姻 bastante intrigantes.
-Tal vez ya est茨s al tanto, pero no hubo[n]respuesta correcta a las preguntas que[n]le胤ste.
-Simplemente quer胤a saber c吋mo pensar胤as,[n]y lo que sentir胤as en respuesta a ellos.
+[msg MSG_005 [Sonorous voice]]
+I observed the choices you made, and I[n]found them quite intriguing.
+Perhaps you're already aware, but there[n]was no right answer to the questions you[n]read.
+I simply wanted to know how you would[n]think, and what you would feel in[n]response to them.
 
 [sel SEL_006 top]
-Fue interesante.
-Dej吋 un mal gusto.
+It was interesting.
+It left a bad taste.
 
-[msg MSG_007 [Voz Sonora]]
-Hmhm... Me alegra que hayas disfrutado.
-Estoy seguro de que el tiempo que[n]pasaste deliberando no fue[n]desperdiciado.
+[msg MSG_007 [Sonorous voice]]
+Hmhm... I'm certainly glad you enjoyed.
+I'm certain the time you spent[n]deliberating was not wasted.
 
-[msg MSG_008 [Voz Sonora]]
-夷Oh? 夷No fue por tu gusto?
-びぺゅ わまん ゅぺれ らるまむゎょろぺれ まるぺょ ゎょ らよぼよ ぽもみウぼもゅまれデ[n]らまるよ まれぺ まゑろるまゆもぽぺぽ れカゅよ まれろぺほぺ ぽまれろもょぺぽぺ ぺ[n]らるよわよぼぺる るまれらゎまれろぺれ れまるもぺれテ
+[msg MSG_008 [Sonorous voice]]
+Oh? Was it not to your liking?
+Perhaps the questions were a bit dire,[n]but that extremity was only meant to[n]provoke serious answers.
 
-[msg MSG_009 [Voz Sonora]]
-つょ ぼゎぺゅりゎもまる ぼぺれよデ ぼよゆよ ゆも ぺむるぺぽまぼもゆもまょろよ らよる[n]ゎょ まれらまぼろァぼゎゅよ ろぺょ みぺれぼもょぺょろまデ めま らるまらぺるぺぽよ ゎょ[n]るまむぺゅよ ゆよぽまれろよテ
+[msg MSG_009 [Sonorous voice]]
+In any case, as my thanks for such a[n]fascinating show, I've prepared a modest[n]gift.
 
-[msg MSG_010 [Voz Sonora]]
-Parece que eres un pensador muy l吋gico.
-夷Mantendr胤as esa fortaleza en una[n]crisis? 夷Actuar胤as con calma, sin sombra[n]por tensi吋n o emoci吋n?
-Ahora, por favor acepta esto.
+[msg MSG_010 [Sonorous voice]]
+It seems you're a very logical thinker.
+Would you maintain that fortitude in a[n]crisis? Would you act with calm,[n]unclouded by tension or emotion?
+Now, please accept this.
 
 [msg MSG_011]
-Hay algo en el suelo...
-斡Recibido Logos Mirror!
+There's something on the ground...
+Received Logos Mirror!
 
-[msg MSG_012 [Voz Sonora]]
-Pareces ser gente muy amable. Pero m茨s[n]que eso...
-Tienes una resoluci吋n inquebrantable[n]para proteger lo que es importante para[n]ti... Tal convicci吋n acerca a otros.
-Ahora, por favor acepta esto.
+[msg MSG_012 [Sonorous voice]]
+You seem to be very kindhearted people.[n]But more than that...
+You have an unwavering resolve to[n]protect what's important to you... Such[n]conviction draws others closer.
+Now, please accept this.
 
 [msg MSG_013]
-Hay algo en el suelo...
-斡Recibido Espejo Romano!
+There's something on the ground...
+Received Roman Mirror!
 
-[msg MSG_014 [Voz Sonora]]
-Pareces seguir tus instintos, y eres muy[n]honesto con tus sentimientos.
-Tal intuici吋n naturalmente equilibrada[n]es seguro resonar con muchos otros.
-Ahora, por favor acepta esto.
+[msg MSG_014 [Sonorous voice]]
+You seem to follow your instincts, and[n]you are very honest with your feelings.
+Such naturally balanced intuition is[n]sure to resonate with many others.
+Now, please accept this.
 
 [msg MSG_015]
-Hay algo en el suelo...
-斡Recibido Sense Mirror!
+There's something on the ground...
+Received Sense Mirror!
 
-[msg MSG_016 [Voz Sonora]]
-Bueno, bueno... Usted exhibe una manera[n]雨nica de pensar de hecho. Es bastante[n]diferente a la mayor胤a de los dem茨s.
-Son tales individuos que a menudo traen[n]la revoluci吋n al mundo. Recuerda[n]agudizar y confiar en esos instintos.
-Ahora, por favor acepta esto.
+[msg MSG_016 [Sonorous voice]]
+Well, well... You exhibit a unique way[n]of thinking indeed. It's quite unlike[n]most others.
+It is such individuals who often bring[n]revolution to the world. Remember to[n]sharpen and trust those instincts.
+Now, please accept this.
 
 [msg MSG_017]
-Hay algo en el suelo...
-斡Recibido Maverick Mirror!
+There's something on the ground...
+Received Maverick Mirror!
 
-[msg MSG_018 [Voz Sonora]]
-Usted puede encontrar que su perspectiva[n]sobre estas opciones cambiar茨 con el[n]tiempo...
-Si la oportunidad se presenta, te animo[n]a pensar en tus decisiones de nuevo.
-Aunque nuestro tiempo era corto, no[n]obstante era una experiencia valiosa.
-Ahora bien, les pido adi吋s a todos.
+[msg MSG_018 [Sonorous voice]]
+You may find that your perspective on[n]these choices will change with time...
+Should the opportunity present itself, I[n]encourage you to think on your decisions[n]again.
+Though our time was short, it was[n]nonetheless a valuable experience.
+Now then, I bid you all farewell.
 
 [msg MSG_019 [Junpei]]
-Qu姻 voz sexy... Quienquiera que sea,[n]apuesto a que es una chica total.
+*sigh* What a sexy voice... Whoever she[n]is, I bet she's a total babe.
 
 [msg MSG_020 [Yukari]]
-Ugh. 夷Esa es la primera cosa de tu boca?[n]Tenemos que encontrar un carrito para[n]presionarte.
+Ugh. That's the first thing out of your[n]mouth? We need to find a cart to push[n]YOU under.
 
 [msg MSG_021 [Chie]]
-Sheesh, he tenido pruebas que fueron m茨s[n]f茨ciles que esas dos preguntas measly!
+Sheesh, I've had tests that were easier[n]than those two measly questions!
 
 [msg MSG_022 [Akechi]]
-Estaban bastante emocionados.
-Adem茨s, tenemos una visi吋n de c吋mo[n]piensa Joker. Me gust吋 mucho eso.
+They were rather thought-provoking.
+Plus, we got a glimpse of the way Joker[n]thinks. I quite enjoyed that.
 
 [msg MSG_023 [Morgana]]
-Parece que es el final. Ya era hora de[n]volver.
+Looks like that's the end of it. It's[n]about time we headed back.
 

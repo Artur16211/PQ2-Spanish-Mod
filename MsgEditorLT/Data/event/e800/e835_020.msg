@@ -1,22 +1,22 @@
 [msg MSG_000 [Junpei]]
-斡Estamos aqu胤! Este lugar grita ciencia[n]ficci吋n en todas partes.
-Tenemos que encontrar un huevo, 夷verdad?
+Well, we're here! Man, this place[n]screams sci-fi everywhere you look.
+So we gotta find an egg, right?
 
 [msg MSG_001 [Ann]]
-斡Mira por ah胤!
+Hey, look over there!
 
 [msg MSG_002 [Futaba]]
-夷La foto del monitor cambi吋? Ahora es[n]una flecha.
+The picture on the monitor changed? It's[n]an arrow now.
 
 [msg MSG_003 [Ann]]
-S胤, recuerdo esto de cuando era peque隠a.
-っゎるぺょろま ゅぺれ ぼぺぼまるウぺれ ぽま めゎまわよれ ぽま はぺれぼゎぺデ[n]めぺほるウぺ れまォぺゅまれ ぼよゆよ ゅぺれ りゎま ろま ぺをゎぽぺるウぺょ ぺ[n]まょぼよょろるぺる ゅよれ ゅゎむぺるまれ まれぼよょぽもぽよれテ
+Oh, yeah, I remember this from when I[n]was little.
+During Easter egg hunts, there would be[n]signs like those to help you find the[n]hiding spots.
 
 [msg MSG_004 [Junpei]]
-斡D姻jalo a Panther para que nos acompa隠e[n]con una oferta en el extranjero!
-Dices que debemos seguir las flechas,[n]夷s胤?
+Ooh, leave it to Panther to school us on[n]some overseas bidness!
+You're sayin' we just gotta follow the[n]arrows, yeah?
 
 [msg MSG_005 [Futaba]]
-夷Hay un huevo de Pascua escondido al[n]final del camino?
-Est茨 bien, Joker. 斡Mant姻n tus ojos en[n]los monitores y sigue esas flechas!
+Hmm, so there's an Easter egg hidden at[n]the end of the path?
+Aaaaall right, Joker. Keep your eyes on[n]the monitors and follow those arrows!
 

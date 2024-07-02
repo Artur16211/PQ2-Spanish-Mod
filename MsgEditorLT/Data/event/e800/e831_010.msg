@@ -1,136 +1,136 @@
 [msg MSG_000 [Elizabeth]]
-Me gustar胤a notificarle que se ha[n]a隠adido una nueva proyecci吋n especial.
-Aunque este puede ser demasiado[n]sugestivo para algunos...
+I would like to notify you that a new[n]special screening has been added.
+Though this one may be a little too[n]suggestive for some...
 
 [msg MSG_001 [Teddie]]
-夷Qu姻? Mi nariz me dice que estamos para[n]algo... maduro!
+...Hm!? My nose tells me we're in for[n]something... mature[f 0 1 1]!
 
 [msg MSG_002 [Elizabeth]]
-Me gustar胤a que encuentres un lugar[n]secreto en la Kamociudad.
-All胤, hombres y mujeres festejan toda la[n]noche, susurrando y luchando, cediendo a[n]sus deseos terrenales...
+I'd like for you to locate a secret hot[n]spot in Kamo City.
+There, men and women party all night―[n]rustling and tussling, giving in to[n]their earthly desires...
 
 [msg MSG_003 [Yusuke]]
-夷Susurrando y luchando...?
+Rustling and tussling...?
 
 [msg MSG_004 [Kanji]]
-夷Un lugar secreto popular?
+A secret hot spot?
 
 [msg MSG_005 [Yosuke]]
-Whoa, whoa... Suena peligroso.
+Whoa, whoa... That sounds kinda[n]dangerous.
 
 [sel SEL_006 top]
-夷No quieres ir?
-Puedes quedarte aqu胤.
+You don't want to go?
+You can stay here.
 
 [msg MSG_007 [Yosuke]]
-Nunca dije eso. En realidad, tengo[n]curiosidad...
+I never said that. Actually, I'm kinda[n]curious...
 
 [msg MSG_008 [Kanji]]
-Me pregunto por qu姻, Senpai...
+I wonder why, Senpai...
 
 [msg MSG_009 [Yosuke]]
-斡C茨llate!
+Shut it!
 
 [msg MSG_010 [Akechi]]
-Un lugar popular nocturno...[n]Probablemente se refiere a...
+A nighttime hot spot... She probably[n]means...
 
 [sel SEL_011 top]
-夷Un arcade?
-Un club nocturno.
-Un ba隠o p雨blico.
+An arcade?
+A nightclub.
+A bath house.
 
 [msg MSG_012 [Yosuke]]
-Bueno, los arcades son un lugar para[n]divertirse...
+Well, arcades ARE a place to have fun...
 
 [msg MSG_013 [Naoto]]
-Pero no son precisamente lugares para[n]adultos, 夷verdad?
-Elizabeth probablemente se refiere a un[n]club nocturno.
+But they're not exactly adult hot spots,[n]are they?
+Elizabeth is most likely referring to a[n]nightclub.
 
 [msg MSG_014 [P4 Hero]]
-夷Te refieres a donde van los tipos[n]machos para ponerse todos calientes...?
+You mean where macho guys go to get all[n]steamy...?
 
 [msg MSG_015 [Kanji]]
-斡夷Por qu姻 me miras a m胤?!
+Why you lookin' at me!?
 
 [msg MSG_016 [Naoto]]
-No estoy seguro de lo que quieres decir,[n]pero es muy probable que Elizabeth se[n]refiera a un club nocturno.
+I'm not sure what you mean, but[n]Elizabeth is most likely referring to a[n]nightclub.
 
 [msg MSG_017 [Elizabeth]]
-Eso es correcto.
-Hay muchos clubes nocturnos populares y[n]exclusivos en Kamo City accesible s吋lo a[n]VIPs.
+That is correct.
+There are many popular and exclusive[n]nightclubs in Kamo City accessible only[n]to VIPs.
 
 [msg MSG_018 [Ann]]
-夷Un club nocturno?
+A nightclub, huh...?
 
 [msg MSG_019 [Makoto]]
-No me como suena eso.
+I don't like the sound of that.
 
 [msg MSG_020 [P3 Hero]]
-夷No?
+Oh, no?
 
 [msg MSG_021 [Yosuke]]
-"夷No?"... 夷Vas a los clubes a menudo o[n]algo as胤?
+"Oh, no?"... You go to clubs often or[n]something?
 
 [msg MSG_022 [Teddie]]
-斡Eres un chico malo! 斡Te dejaremos esto,[n]entonces!
+*whistle* You're a bad boy! We'll leave[n]this to you, then!
 
 [sel SEL_023 top]
-Contamos contigo.
-Yo tambi姻n soy un b雨ho nocturno.
+We're counting on you.
+I'm a night owl too.
 
 [msg MSG_024 [Ryuji]]
-夷No fuiste a ese club en Shinjuku?
+Ain't you been goin' to that club in[n]Shinjuku...?
 
 [msg MSG_025 [Ryuji]]
-As胤 es. Sigues yendo a ese club en[n]Shinjuku, 夷no?
+That's right. You're still goin' to that[n]club in Shinjuku, aren't you...?
 
 [msg MSG_026 [Teddie]]
-夷Qu姻? 斡Tenemos otro chico malo aqu胤!
+What!? We got another bad boy here!
 
 [msg MSG_027 [Junpei]]
-Bueno, parece que tenemos un par de[n]veteranos aqu胤. Esto parece un trabajo[n]para nosotros.
+Well, it looks like we've got a couple[n]of veterans here. This looks like a job[n]for us guys.
 
 [msg MSG_028 [Ann]]
-夷Nosotros?
+Uh... Us guys?
 
 [msg MSG_029 [Junpei]]
-Es demasiado peligroso para las chicas[n]caminar por la ciudad por la noche,[n]夷verdad?
-Mejor dejarnos tomar la delantera en[n]esto.
+It's too dangerous for the girls to walk[n]around the city at night, right?
+Better to let us take the lead on this.
 
 [msg MSG_030 [Yukari]]
-... 夷Qu姻 est茨s tramando, Junpei?
+...What are you up to, Junpei?
 
 [msg MSG_031 [Junpei]]
-Nada. Intenta ser un caballero...
+N-Nothing. Just tryna be a gentleman...
 
 [msg MSG_032 [P3 Hero]]
-No creo que sea tan peligroso...
+I don't think it's that dangerous...
 
 [msg MSG_033 [Junpei]]
-Vamos a un ahorcado adulto, 夷verdad? Tal[n]vez podamos divertirnos un poco...
+We're going to an adult hangout, right?[n]Maybe we can have some "adult fun"...
 
 [msg MSG_034 [Fuuka]]
-夷Junpei?
+Junpei-kun?
 
 [msg MSG_035 [Junpei]]
-斡Nada, nada! Diciendo que nos[n]encargaremos de ello.
+Oh, nothing, nothing! Just sayin' we'll[n]take care of it.
 
 [sel SEL_036 top]
-Tenemos esto.
-Puedes confiar en nosotros.
+We got this.
+You can trust us.
 
 [msg MSG_038 [Mitsuru]]
-Hm... Bueno, si insisten, supongo que se[n]lo dejaremos a ellos.
+Hm... Well, if they insist, then I[n]suppose we'll leave it to them.
 
 [msg MSG_039 [Yukari]]
-夷Est茨s seguro?
+Are you sure?
 
 [msg MSG_040 [Mitsuru]]
-S吋lo tienen que encontrar el club[n]nocturno. 夷Qu姻 es lo peor que podr胤a[n]pasar?
+They just have to find the nightclub.[n]What's the worst that could happen?
 
 [msg MSG_041 [Junpei]]
-斡Bien dicho, Senpai! Muy bien,[n]斡hag茨moslo!
+Well said, Senpai! All right, let's do[n]this!
 
 [msg MSG_042 [Elizabeth]]
-Muy bien. Ahora est茨 en las manos de los[n]chicos malos.
+Very well. It's in the bad boys' hands[n]now.
 

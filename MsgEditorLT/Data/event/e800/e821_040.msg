@@ -1,73 +1,73 @@
 [msg MSG_000 [Morgana]]
-斡Muy bien, aqu胤 estamos! 斡El para胤so de[n]un pescador normal!
+All right, here we are! A regular[n]fisherman's paradise!
 
 [msg MSG_001 [P3 Fem Protag]]
-斡Ah胤! Acabo de ver uno. 斡Fue enorme!
+Oh, there! I just saw one. It was huge!
 
 [msg MSG_002 [Ryuji]]
-斡Hay otro! 斡Hay un mont吋n de mierda de[n]ellos!
+Yo, there's another one! There's a crap[n]ton of 'em!
 
 [msg MSG_003 [Yosuke]]
-Ya sabes, ahora que lo pienso, 夷c吋mo[n]diablos los atraparemos?
-No tenemos un poste de pesca...[n]夷Tendremos que usar nuestras manos?
+Y'know, now that I think about it, how[n]the heck are we gonna catch 'em?
+We don't have a fishing pole... We gonna[n]have to use our hands?
 
 [msg MSG_004 [Akihiko]]
-O mejor a雨n, nuestros pu隠os.
-斡Los detendremos con una barbilla[n]derecha y los atraparemos con un corte[n]superior!
-Ser茨 un paseo en el parque en[n]comparaci吋n con la lucha contra las[n]sombras.
+Or, better yet, our fists.
+We'll stop 'em with a right jab then[n]snatch 'em with an uppercut!
+It'll be a walk in the park compared to[n]fighting Shadows.
 
 [msg MSG_005 [Yosuke]]
-Whoa, whoa! 斡De ninguna manera!
-Es mejor usar una ca隠a de pescar o una[n]lanza o algo...
+Whoa, whoa! No way!
+It's way better to use a fishing rod or[n]a spear or something...
 
 [msg MSG_006 [Chie]]
-夷Eh? 夷Qu姻 es ese sonido?
+Huh? What's that sound?
 
 [msg MSG_007 [Rise]]
-斡Cuidado, chicos! 斡Un FOE se est茨[n]cerrando r茨pido!
+Careful, guys! An FOE's closing in fast!
 
 [msg MSG_008 [Chie]]
-斡Hola! 斡Haz algo antes de ser comida de[n]dinosaurios!
+H-Hey! Do something before we're[n]dinosaur food!
 
 [msg MSG_009 [Fuuka]]
-Debe haber un nido cerca. 斡Viene por[n]aqu胤!
+There must have been a nest nearby! It's[n]coming this way!
 
 [msg MSG_010 [Ann]]
-夷Qu姻 hacemos? 夷Corremos por ello?
+Wh-What do we do? Do we run for it!?
 
 [msg MSG_011 [Yusuke]]
-...
-斡Haaaaaah!
+......
+Haaaaaah!
 
 [msg MSG_012 [Yusuke]]
-斡Eso es! 斡Ya no tolerar姻 este hambre!
-Cualquier cosa que se atreva a estar[n]entre m胤 y mi comida responder茨 a mi[n]espada!
+That's it! I will tolerate this hunger[n]no longer!
+Anything that dares stand between me and[n]my food will answer to my blade!
 
 [msg MSG_013 [Futaba]]
-Mierda. Fox est茨 enojado.
+Ohhh, crap. Fox is pissed.
 
 [msg MSG_014 [Akihiko]]
-Estoy con Fox en eso. No hay manera de[n]que estemos retrocediendo ahora.
+I'm with Fox on that. There's no way[n]we're backing down now.
 
 [msg MSG_015 [Shinjiro]]
-Espera un segundo. Si luchamos aqu胤,[n]asustaremos a todos los peces.
-Podemos mudarnos a otro lugar o luchar[n]contra ellos aqu胤... Es tu decisi吋n,[n]Joker.
+Hang on a sec. If we fight here, we'll[n]scare off all the fish.
+We can either move somewhere else or[n]fight them here... It's your call,[n]Joker.
 
 [sel SEL_016 top]
-V茨monos de aqu胤.
-Peleemos cerca.
+Let's get away from here.
+Let's fight somewhere nearby.
 
 [msg MSG_017 [Futaba]]
-斡Entendido! 斡Aseg雨rese de alejarlo de[n]aqu胤!
-Mantener una distancia segura, ir a[n]alg雨n lugar seguro, y bajarlo!
+Roger that! Be sure to lead it away from[n]here!
+Keep a safe distance, go somewhere safe,[n]and bring it down!
 
 [msg MSG_018 [Futaba]]
-Vas a luchar as胤, 夷eh? Siento que ser茨[n]mejor que se muevan m茨s lejos, pero...
-Estoy seguro de que si mantienen su[n]distancia, podremos sacarla de aqu胤!
+You're gonna fight it just like that,[n]huh? I feel like it'll be better if you[n]guys move further away, but...
+I'm sure if you guys keep your distance,[n]we'll be able to shoo it out of here!
 
-[msg MSG_019 [Carn胤voro Llamativo]]
+[msg MSG_019 [Gaudy carnivore]]
 ROOOAAARRR!
 
 [msg MSG_020 [Futaba]]
-斡Aqu胤 viene! 斡Vamos, chicos!
+Here it comes! Let 'im have it, guys!
 

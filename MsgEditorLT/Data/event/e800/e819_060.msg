@@ -1,12 +1,12 @@
 [msg MSG_000 [Morgana]]
-斡Muy bien, se acab吋 la pelea! 斡Eso es[n]ganar para nosotros!
+All riiight, the fight's over! That's[n]back-to-back wins for us!
 
 [msg MSG_001 [Futaba]]
-Heheh. 斡Nada como una peque隠a acci吋n[n]antes de entrar para ganar! Habla de un[n]final feliz.
+Heheheh. Nothing like a little action[n]before swooping in for the win! Talk[n]about a happy ending.
 
 [msg MSG_002 [Junpei]]
-斡Hombre, rock! Todo lo que queda es[n]hacer algunos cr姻ditos emocionales y[n]hacer nuestro retorno triunfante!
+Man, we rock! All that's left is to roll[n]some emotional end credits and make our[n]triumphant return!
 
 [msg MSG_003 [Ann]]
-夷Me pregunto si los gemelos estaban[n]mirando? Con suerte, disfrutaron del[n]espect茨culo.
+I wonder if the twins were watching?[n]Hopefully, they enjoyed the show.
 

@@ -1,102 +1,102 @@
 [msg MSG_000 [Yukari]]
-As胤 que este es el segundo, 夷eh? Parece[n]muy brillante.
-S姻 que es parte de una Sombra, pero si[n]nadie me lo dijo, podr胤a haber terminado[n]us茨ndolo como un accesorio.
+So this is the second one, huh...? Seems[n]awfully shiny.
+I know it's part of a Shadow, but if no[n]one told me, I might've ended up using[n]it as some kind of accessory.
 
 [msg MSG_001 [P3 Fem Protag]]
-Suena como el Yukari que conozco. 斡Tiene[n]buen ojo para la moda!
+That sounds like the Yukari I know.[n]She's got quite an eye for fashion!
 
 [msg MSG_002 [Yukari]]
-夷S胤?
+She does...?
 
 [msg MSG_003 [Fuuka]]
-Eso deja s吋lo un material m茨s raro. 斡Van[n]a un gran ritmo!
+That leaves just one more rare material.[n]You guys are going at a great pace!
 
 [msg MSG_004 [P3 Fem Protag]]
-Todo es gracias a ti, Fuuka. Eres tan[n]confiable como siempre.
-のめデ らよる れゎらゎまれろよデ ゅよれ よろるよれ ょぺわまむぺょろまれ ろぺゆほもイょ[n]れよょ むまょもぺゅまれデ らまるよ ろまょむよ りゎま ぺぽゆもろもるデ ゆま[n]れもまょろよ ゆゎを まょ ぼぺれぺ ぼゎぺょぽよ まれろァれ ょぺわまむぺょぽよテ
-Probablemente sea porque estoy tan[n]acostumbrado a escuchar tu voz.
+It's all thanks to you, Fuuka. You're[n]just as reliable as ever.
+Oh, of course, the other navigators are[n]great too, but I have to admit, I feel[n]very at home when you're navigating.
+It's probably because I'm so used to[n]hearing your voice.
 
 [msg MSG_005 [Fuuka]]
-夷Est茨s acostumbrado?
+You're used to it?
 
 [msg MSG_006 [P3 Fem Protag]]
-Oh, cierto... Supongo que me refiero al[n]Fuuka en mi mundo.
+Oh, right... I guess I mean the Fuuka in[n]my world.
 
 [sel SEL_007 top]
-夷Hay alguna diferencia?
-Ser胤a divertido compararlos.
+Is there a difference?
+It'd be fun to compare them.
 
 [msg MSG_008 [P3 Fem Protag]]
-夷Tal vez el Fuuka habla un poco m茨s[n]r茨pido? Probablemente no...
-Son exactamente iguales tanto en su[n]personalidad como en la forma en que[n]hablan.
+Maybe the Fuuka here talks a little bit[n]faster? Hmm, probably not...
+They're exactly alike in both their[n]personality and the way they talk.
 
 [msg MSG_009 [P3 Fem Protag]]
-No creo que haya diferencias.
-Son exactamente iguales tanto en su[n]personalidad como en la forma en que[n]hablan.
+Hmm... I don't think there'd be any[n]differences.
+They're exactly alike in both their[n]personality and the way they talk.
 
 [msg MSG_010 [Yukari]]
-En serio... 夷Tu Fuuka tambi姻n es buena[n]con la tecnolog胤a?
+Really... Is your Fuuka good with tech[n]too?
 
 [msg MSG_011 [P3 Fem Protag]]
-斡S胤! 斡Incluso sabe usar una plancha de[n]soldadura!
-Pero es muy mala cuando se trata de[n]cocinar. Incluso se ha equivocado de[n]az雨car para la harina...
+Yeah! She even knows how to use a[n]soldering iron!
+But she's really bad when it comes to[n]cooking. She's even mistaken sugar for[n]flour...
 
 [msg MSG_012 [Fuuka]]
-...
+......
 
 [msg MSG_013 [P3 Fem Protag]]
-Um, esto es s吋lo el Fuuka que conozco!
-Estoy seguro de que es raro ser[n]comparado con un yo que ni siquiera[n]sabes.
+Um, this is just the Fuuka I know!
+I'm sure it's odd being compared to a[n]self you don't even know.
 
 [msg MSG_014 [Fuuka]]
-No es eso.
-Es s吋lo, cuanto m茨s oigo, m茨s creo que[n]la persona de la que est茨s hablando soy[n]yo.
+It's not that.
+It's just, the more I hear, the more I[n]think the person you're talking about is[n]me.
 
 [msg MSG_015 [Junpei]]
-Al principio, se sinti吋 raro que alguien[n]que nunca conociste te conociera muy[n]bien.
-Pero si el otro yo dice que es una[n]amiga, entonces todo est茨 bien!
-Quiero decir, soy yo. Puedo confiar en[n]m胤 mismo, 夷verdad?
+At first, it felt kinda weird having[n]someone you've never met know you really[n]well.
+But if the other me says she's a friend,[n]then it's all good!
+I mean, it's me. I can trust myself,[n]right?
 
 [msg MSG_016 [P3 Fem Protag]]
 Junpei...
 
 [msg MSG_017 [Yukari]]
-Supongo que puede decir algo agradable[n]de vez en cuando.
+Huh, I guess he can say something nice[n]every once in a while.
 
 [msg MSG_018 [Junpei]]
-夷Todos est茨n empezando a ver que hay m茨s[n]a Junpei de lo que pensaban? Siento[n]decepcionarte, se隠oritas.
-Pero me temo que mi coraz吋n pertenece a[n]Chidorita...
+Oh, is everyone starting to see there's[n]more to Junpei than they thought? Sorry[n]to disappoint you, ladies.
+But I'm afraid my heart belongs to[n]Chidorita...
 
 [sel SEL_019 top]
-Lo que sea.
+Whatever.
 Way to ruin it...
-Vamos.
+Let's go.
 
 [msg MSG_020 [P3 Fem Protag]]
-夷Por qu姻 no dejamos a Junpei aqu胤 y[n]seguimos?
+Why don't we leave Junpei here and keep[n]going?
 
 [msg MSG_021 [P3 Fem Protag]]
-Bueno, 夷qu姻 m茨s esperar胤as de Junpei?[n]Vamos, vamos.
+Well, what else would you expect from[n]Junpei? C'mon, let's go.
 
 [msg MSG_022 [Yukari]]
-S胤. 夷D吋nde a continuaci吋n, Fuuka?
+Yeah. Where to next, Fuuka?
 
 [msg MSG_023 [Fuuka]]
-Lo 雨ltimo que necesitamos es el Oso[n]Teddy de un Mago Fantasma en 4-B.
+The last thing we need is the Teddy Bear[n]from a Phantom Mage in 4-B.
 
 [msg MSG_024 [P3 Fem Protag]]
-Ok! Entonces, vamos a encontrarlo y[n]ap雨rate a Theo!
+Okay! Then, let's find it and hurry back[n]to Theo!
 
 [msg MSG_025 [Fuuka]]
-Lo 雨ltimo que necesitamos es el[n]Kaleidoscopio de una Flowing Sand en[n]3-F.
+The last thing we need is the[n]Kaleidoscope from a Flowing Sand in 3-F.
 
 [msg MSG_026 [P3 Fem Protag]]
-Ok! Entonces, vamos a encontrarlo y[n]ap雨rate a Theo!
+Okay! Then, let's find it and hurry back[n]to Theo!
 
 [msg MSG_027 [Fuuka]]
-Lo 雨ltimo que necesitamos es la Figura[n]Clay de un Rampage Drive.
-Deber胤as poder encontrar uno en este[n]piso.
+The last thing we need is the Clay[n]Figurine from a Rampage Drive.
+You should be able to find one anywhere[n]on this floor.
 
 [msg MSG_028 [P3 Fem Protag]]
-Ok! Entonces, vamos a encontrarlo y[n]ap雨rate a Theo!
+Okay! Then, let's find it and hurry back[n]to Theo!
 

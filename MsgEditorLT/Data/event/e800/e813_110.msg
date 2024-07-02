@@ -1,144 +1,144 @@
 [msg MSG_000]
-Plantamos las palomitas en el vest胤bulo[n]y luego nos escondimos de la vista...
+Dejamos las palomitas en el vest胤bulo y luego nos escondimos...
 
 [msg MSG_001 [Teddie]]
-Oho, esto debe ser uno de esos filetes[n]que he o胤do tanto sobre!
+Oho, 斡este debe ser uno de esos filetes para llevar de los que tanto he o胤do hablar!
 
 [msg MSG_002 [Naoto]]
-Um... 夷Te refieres a una vigilancia?
+Um... 夷Te refieres quiz茨s a una vigilancia?
 
 [msg MSG_003 [Akechi]]
-Alguien viene.
+Shh... Algo se acerca.
 
-[msg MSG_003_2 [夷Teddie]]
+[msg MSG_003_2 [Teddie?]]
 ...
 
 [msg MSG_003_4 [Naoto]]
-Es como pensamos... y ahora los hemos[n]atrapado en el acto.
+Es tal y como pens茨bamos... y ahora les encontramos in fraganti.
 
 [msg MSG_004 [Teddie]]
-斡Oye, oye, oye! 夷Qu姻 crees que est茨s[n]haciendo con mi traje de oso?
-斡Me niego a pasar por alto tus maldades!
+斡Hey, hey, hey! 斡夷Qu姻 cre姻is que est茨is haciendo con mi traje de oso?!
+斡Me niego a seguir pasando por alto vuestras maldades!
 
-[msg MSG_005 [夷Teddie]]
-...?!
+[msg MSG_005 [Teddie?]]
+斡夷...?!
 
 [msg MSG_006 [Naoto]]
-Finalmente te hemos atrapado.
+Finalmente los encontramos.
 
 [msg MSG_007 [Akechi]]
-Dada la situaci吋n, s吋lo hay una[n]respuesta. Qu胤tate ese traje...
+Dada la situaci吋n, solo hay una respuesta. Quitaos ese traje...
 
-[msg MSG_008 [Akechi & Naoto]]
+[msg MSG_008 [Akechi ＆ Naoto]]
 斡Caroline y Justine!
 
 [msg MSG_010 [Caroline]]
-Rrrgh...! 夷C吋mo supiste que 姻ramos[n]nosotros?
+斡Rrrgh...! 斡夷C吋mo sab胤ais que 姻ramos nosotras?!
 
 [msg MSG_011 [Naoto]]
-Puede que s吋lo hayamos tenido pruebas[n]circunstanciales...
-Pero despu姻s del proceso de eliminaci吋n,[n]ustedes dos fueron los 雨nicos[n]sospechosos restantes.
+Puede que solo tuvi姻ramos pruebas circunstanciales...
+Pero despu姻s de un proceso de eliminaci吋n, vosotras dos erais las 雨nicas sospechosas que quedaban.
 
 [msg MSG_012 [Akechi]]
 Empecemos con Elizabeth y Theodore...
-The two of them were with [f 6 1 30 0 0 0] when[n]Haru found the bear suit, so that clears[n]them.
+Los dos estaban con Haru cuando encontr吋 el traje de oso, as胤 que eso los exculpa.
 
 [msg MSG_013 [Naoto]]
-Luego sabemos que Margaret estaba en la[n]sala de proyecci吋n en el momento del[n]incidente.
-Marie tambi姻n tuvo un ataque con el[n]traje de oso, as胤 que claramente no era[n]ella.
+Despu姻s, sabemos que Margaret estaba en la sala de proyecciones durante el incidente.
+Marie tambi姻n tuvo un incidente con el traje de oso, as胤 que claramente no fue ella.
 
 [msg MSG_014 [Akechi]]
-As胤 que ver茨s, eso solo dej吋 a los dos.
+As胤 que ya ven, solo quedaban ustedes dos.
 
 [msg MSG_015 [Naoto]]
-Y si te preguntas c吋mo sab胤amos que eran[n]los dos, el traje de oso nos dio una[n]pista.
-Ustedes dos son demasiado peque隠os para[n]que uno de ustedes lo haya usado solo.
-はよる ゅよ ろぺょろよデ ゅぺ るぺんカょ らよる ゅぺ りゎま まれろぺほぺれ[n]ろるよらまんぺょぽよ まるぺ らよるりゎま ゎょよ ぽま わよれよろるよれ まれろぺほぺ[n]れまょろぺぽよ れよほるま ゅよれ めよゆほるよれ ぽまゅ よろるよテ
+Y si os imaginabais como sab胤amos que erais las dos, el traje de oso nos dio una pista.
+Las dos sois demasiado peque隠as para que una de las dos lo haya llevado sola.
+Por lo tanto, la raz吋n por la que os balanceabais era porque una se sentaba sobre los brazos de la otra.
 
 [msg MSG_015_2 [Teddie]]
-Nunca hubiera imaginado que dos personas[n]podr胤an encajar en mi traje de oso...
-斡No es justo! 斡Mira toda la diversi吋n[n]que estabas teniendo ah胤! 夷Por qu姻 no[n]fui invitado?
+Nunca imagin姻 que dos personas cabr胤an en mi traje de oso...
+斡No es justo! 斡Mira lo bien que os lo estabais pasando ah胤 dentro! 斡夷Por qu姻 yo no estaba invitado?!
 
 [msg MSG_016 [Justine]]
-No creo que podamos hablar de esto,[n]Caroline.
+No creo que podamos hablar para salir de esto, Caroline.
 
 [msg MSG_017 [Caroline]]
 Urrrgh...
 
 [msg MSG_018 [Naoto]]
-夷Por qu姻 lo hiciste?
+夷Por qu姻 lo hicisteis?
 
 [msg MSG_019 [Justine]]
-Cuando Caroline oy吋 hablar de las[n]palomitas, dijo que ten胤a que[n]intentarlo...
+Cuando Caroline escuch吋 sobre las palomitas, ella dijo que ten胤a que probarlas.
 
 [msg MSG_020 [Caroline]]
-斡Estabas tan curioso como yo, Justine!
-B-besides, Theodore estaba pasando sobre[n]c吋mo hizo su mayor creaci吋n a雨n...
+斡T雨 estabas tan curiosa como yo, Justine!
+A-Adem茨s, Theodore estaba hablando de que hizo su mayor creaci吋n hasta ahora...
 
 [msg MSG_021 [Justine]]
-はまるよ ゅゎまむよ ぺらるまょぽもゆよれ りゎま れま めぺほウぺ りゎまぽぺぽよ れもょ[n]もょむるまぽもまょろまれ らぺるぺ れゎ ょゎまわぺ らぺゅよゆもろぺ を りゎま ょよ[n]らよぽウぺ めぺぼまる ろぺょろよ ぼよゆよ まれテ
-Sin embargo, cuanto m茨s nos dimos cuenta[n]que no pod胤amos tener, m茨s quer胤amos...
-...o as胤 lo dijo Caroline.
+Pero entonces nos enteramos de que se hab胤a quedado sin ingredientes para sus nuevas palomitas y que no pod胤a hacer m茨s.
+Sin embargo, cuanto m茨s nos d茨bamos cuenta de que no pod胤amos tenerlo, m茨s lo dese茨bamos...
+... O eso fue lo que dijo Caroline.
 
 [msg MSG_021_2 [Caroline]]
-斡Oye! 斡No intentes ponerme esto encima!
+斡Oye! 斡Deja de intentar culparme de todo esto!
 
 [msg MSG_021_4 [Justine]]
-Luego, mientras nos recortamos en la[n]desesperaci吋n, encontramos el traje de[n]oso vac胤o.
+Entonces, mientras nos revolc茨bamos en la desesperaci吋n, nos encontramos con el traje de oso vac胤o.
 
 [sel SEL_022 top]
-As胤 que fue el impulso del momento.
-Si el traje no hubiera estado all胤...
+As胤 que fue improvisado.
+Si el traje no hubiera estado ah胤...
 
 [msg MSG_023 [Justine]]
-S胤, el traje estaba pr茨cticamente[n]suplicando ser usado.
+S胤, el traje estaba pr茨cticamente suplicando que se lo pusieran.
 
 [msg MSG_024 [Akechi]]
-De alguna manera, ustedes dos tambi姻n[n]fueron v胤ctimas en que fueron[n]manipulados por el traje...
+En cierto modo, ustedes dos tambi姻n fueron v胤ctimas al ser manipuladas por el traje...
 
 [msg MSG_025 [Teddie]]
-夷Wh-Wha? 夷Es mi culpa?
+夷Q-Qu姻? 斡夷Es mi culpa?!
 
 [msg MSG_026 [Caroline]]
-Urgh... No quer胤amos volar las cosas tan[n]fuera de proporci吋n.
-Siento no poder controlar mejor el[n]traje...
+Urgh... No quer胤amos que las cosas se salieran de control.
+Siento no haber podido controlar el traje mejor...
 
 [msg MSG_027 [Justine]]
-S胤, nos disculpamos por la conmoci吋n...
+S胤, nos disculpamos por lo ocurrido...
 
 [msg MSG_028 [Teddie]]
-Est茨 bien. 斡S姻 que a veces es dif胤cil[n]ser honesto!
-... 斡As胤 que aqu胤 tienes! 斡Ta-da!
-斡Theodore lo hizo por nosotros!
+No pasa nada. S姻 que a veces es dif胤cil ser sincero.
+... 斡As胤 que aqu胤 ten姻is! 斡Ta-da!
+斡Theodore las hizo para nosotros!
 
 [msg MSG_028_2 [Justine]]
-斡Pero eso es...!
+斡P-Pero eso es...!
 
 [msg MSG_028_4 [Caroline]]
-夷Nos lo est茨s dando?
+斡夷Nos lo est茨is dando a nosotras?!
 
 [msg MSG_028_6 [Teddie]]
-斡Presensos para ti! 斡Todos est茨n m茨s[n]felices cuando compartimos!
+斡Un regalo para vosotras! 斡Todo el mundo es m茨s feliz cuando comparte!
 
 [msg MSG_029 [Caroline]]
-斡Mmph!
-Este sabor... 斡Es... impactante!
+*chomp* *chomp* *snarf* ... 斡Mmph!
+E-Este sabor... Es... 斡Electrizante!
 
 [msg MSG_030 [Justine]]
-S胤, muy... No puedo dejar de comer.
+S胤, mucho... No puedo... *munch* ... No puedo parar de comer.
 
 [msg MSG_031 [Teddie]]
-斡Vamos a decir lo siento y compartir[n]nuestras nuevas palomitas con todos![n]斡Seguro que te perdonar茨n!
+斡Vamos a pedir perd吋n y a compartir nuestras nuevas palomitas con todo el mundo! 斡Seguro que te perdonan!
 
 [msg MSG_032 [Caroline]]
-Bueno... Gracias.
+Urgh... Bueno, uh... Gracias.
 
 [msg MSG_032_2 [Justine]]
-Perm胤tanme expresar mi gratitud[n]tambi姻n... Muchas gracias.
+Perm胤tanme expresarles tambi姻n mi gratitud... muchas gracias.
 
 [msg MSG_033 [Akechi]]
-*chuckle* Bueno, caso cerrado... Creo.
+*risita* Bueno, caso cerrado... creo.
 
 [msg MSG_034 [Naoto]]
-S胤, bien hecho. Ahora, deber胤amos[n]informarnos a la taquilla.
+S胤, bien hecho. Entonces, debemos informar en la taquilla.
 

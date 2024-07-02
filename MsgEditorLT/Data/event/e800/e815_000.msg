@@ -1,52 +1,52 @@
 [msg MSG_000 [Naoto]]
-Debo decir que este lugar est茨[n]impecablemente limpio; no puedo[n]encontrar un solo rastro de polvo.
+I must say, this place is impeccably[n]clean; I can't find a single trace of[n]dust.
 
 [msg MSG_001 [P4 Hero]]
-S胤, es como el opuesto completo de la[n]pel胤cula de dinosaurios.
+Yeah, it's like the complete opposite of[n]the dinosaur movie.
 
 [msg MSG_002 [Kanji]]
-No bromees. No hay hierba ni huesos[n]gigantes en ninguna parte.
+No kiddin'. No grass or giant bones[n]anywhere.
 
 [msg MSG_003 [Ann]]
-Ya sabes, entiendo que esos huesos son[n]s吋lo dinosaurios muertos, pero 夷no es un[n]poco raro cuando los miras en los ojos?
-Acabo de recordarlo todo... Estoy tan[n]contenta de que no haya nada as胤 aqu胤.
+Y'know, I get that those bones are just[n]dead dinosaurs, but isn't it kinda[n]freaky when you look 'em in the eyes?
+Ugh, I just remembered all of it... I'm[n]so glad there's nothing like that here.
 
 [msg MSG_004 [Akechi]]
-S胤. Sin embargo, este paisaje impecable[n]trae temas propios.
-Por ejemplo, toma esos huesos de[n]dinosaurios Panther acaba de[n]mencionar...
-Esos son un buen indicador de si una[n]zona es peligrosa o no.
+Yes. Still, this spotless scenery brings[n]issues of its own.
+For example, take those dinosaur bones[n]Panther just mentioned...
+Those were a good indicator of whether[n]or not an area was dangerous.
 
 [sel SEL_005 top]
-夷Qu姻 quieres decir?
-夷C吋mo lo sabes?
+What do you mean?
+How could you tell?
 
 [msg MSG_006 [Akechi]]
-Si analizas los huesos, puedes adivinar[n]cu茨ndo muri吋 el dinosaurio.
-Y si lo sabes, entonces puedes estimar[n]lo lejos que est茨 su asesino.
+If you analyze the bones, you can make a[n]good guess as to when the dinosaur died.
+And if you know that, then you can[n]estimate how far away its killer is.
 
 [msg MSG_007 [Naoto]]
-Ya veo. Los huesos frescos significan[n]que el peligro est茨 cerca. De lo[n]contrario es seguro...
+I see. Fresh bones would mean danger is[n]close by. Otherwise it's safe...
 
 [msg MSG_008 [Akechi]]
-Desafortunadamente, no hay nada as胤 en[n]esta pel胤cula; tendremos que tener m茨s[n]cuidado.
+Unfortunately, there's nothing like that[n]in this movie; we'll need to be more[n]careful.
 
 [msg MSG_009 [Ryuji]]
-Tsk, deber胤as haberlo dicho.
+Tsk, you should've just said so.
 
 [msg MSG_010 [Akechi]]
-Lo siento.
-Soy un reci姻n llegado, as胤 que no quer胤a[n]actuar como si estuviera a cargo.
+Haha, sorry.
+I'm a newcomer here, so I didn't want to[n]act like I was in charge.
 
 [msg MSG_011 [Chie]]
-Vaya, Crow, eres tan genial.
+Wow, Crow, you're so cool.
 
 [msg MSG_012 [Koromaru]]
-斡Arf, Arf!
+Arf, arf!
 
 [msg MSG_013 [Akechi]]
-As胤 es, Koromaru. Tu nariz no ser茨 tan[n]efectiva contra los enemigos mec茨nicos[n]aqu胤.
-Parece que esta ciudad de ciencia[n]ficci吋n demostrar茨 el reto.
+That's right, Koromaru-kun. Your nose[n]won't be as effective against the[n]mechanical enemies here.
+It seems this sci-fi city will prove[n]quite the challenge.
 
 [msg MSG_014]
-Una nueva proyecci吋n especial: "Beast[n]Hunt" se ha a隠adido a la taquilla.
+A new special screening: "Beast Hunt"[n]has been added to the box office.
 

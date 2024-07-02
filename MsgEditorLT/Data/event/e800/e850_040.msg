@@ -1,36 +1,36 @@
 [msg MSG_000 [Elizabeth]]
-Incluso Sombras de tremendo poder no son[n]m茨s que juego de ni隠os para ti.
-Todos ustedes han crecido admirablemente[n]desde su llegada aqu胤. Tu nuevo poder es[n]realmente notable.
+Even Shadows of tremendous power are[n]nothing but child's play for you.
+You've all grown admirably since your[n]arrival here. Your newfound power is[n]truly remarkable.
 
 [msg MSG_001 [Hikari]]
-Eres incre胤ble...
-Te he estado observando, as胤 que puedo[n]decirlo. Todos ustedes se han vuelto m茨s[n]fuertes y m茨s fuertes.
+You're all really amazing...
+I've been watching you, so I can tell.[n]You've all been getting stronger and[n]stronger.
 
 [msg MSG_002 [P3 Fem Protag]]
-斡S胤, me sorprend胤!
+Yeah, I kinda surprised myself!
 
 [msg MSG_002_1 [P3 Fem Protag]]
-はまるよ ろよぽぺわウぺテテテ つれろよを ゅゎぼめぺょぽよ らよる ろよぽよれデ ょよ[n]れよゅよ らよる ゆウ ゆもれゆよテ ぢるまよ りゎま まれ ゅぺ グょもぼぺ るぺんカょ[n]らよる ゅぺ りゎま ゅゅまむゎイ ろぺょ ゅまゃよれテ
+But still... I'm fighting for everyone,[n]not just myself. I think that's the only[n]reason I made it this far.
 
 [msg MSG_003 [Elizabeth]]
-Cada uno de ustedes trabaja para[n]perfeccionar su capacidad, y las[n]reuniones fat胤dicas dan a luz m茨s poder.
-Siento que he aprendido algo vitalmente[n]importante al ver tus haza隠as en la[n]pantalla de plata...
+You each work to hone your ability, and[n]fateful meetings give birth to further[n]power.
+I feel I've learned something vitally[n]important from watching your exploits on[n]the silver screen...
 
 [msg MSG_003_1 [Elizabeth]]
-Aunque no sea mi lugar, me gustar胤a[n]darle las gracias una vez m茨s.
+Though it may not be my place, I'd like[n]to thank you all once more.
 
 [sel SEL_004 top]
-Es tu turno despu姻s.
-A雨n no hemos terminado.
+It's your turn next.
+We're not done yet.
 
 [msg MSG_005 [Elizabeth]]
-S胤, lo entiendo.
+Yes, I understand.
 
 [msg MSG_005_1 [Elizabeth]]
-Las posibilidades ilimitadas est茨n[n]ocultas dentro de esa pel胤cula oscura...
-Siento que la hora se acerca. Pronto[n]veremos todos sus secretos desnudos.
-Pero por ahora... no hay nada m茨s que[n]pueda decir.
+Limitless possibilities are hidden[n]within that obscured film...
+I feel the hour drawing near. Soon, we[n]will see all its secrets laid bare.
+But for now... there is nothing more I[n]can say.
 
 [msg MSG_005_2 [Elizabeth]]
-En cualquier caso, por favor venga a[n]hablar conmigo una vez que est姻[n]preparado.
+In any case, please come speak to me[n]once you are prepared.
 

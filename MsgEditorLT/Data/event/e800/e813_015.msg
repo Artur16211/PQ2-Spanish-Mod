@@ -1,8 +1,8 @@
-[msg MSG_000 [Grito Distante]]
-斡Aaaaaaaaaaah!
+[msg MSG_000 [Distant scream]]
+斡Aaaaaaaaaaaaah!
 
 [msg MSG_001 [Theodore]]
-夷Qu姻 fue eso?
+斡夷Q-Qu姻 ha sido eso?!
 
 [msg MSG_002 [Morgana]]
 斡Vamos, vamos a comprobarlo!

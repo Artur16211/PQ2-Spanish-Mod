@@ -1,115 +1,115 @@
 [msg MSG_000 [Elizabeth]]
-Esta pr吋xima prueba especial promete ser[n]una aventura bastante llena de acci吋n...
-Es una b雨squeda de tesoros. 斡Tu tarea[n]ser茨 localizar el tesoro escondido[n]dentro de la selva!
+This next special screening promises to[n]be a rather action-packed adventure...
+It's a treasure hunt. Your task will be[n]to locate the hidden treasure deep[n]within the jungle!
 
 [sel SEL_001 top]
-夷Qu姻 m茨s es nuevo?
-Eso es lo nuestro.
-夷Tesoro oculto?
+What else is new?
+That's our thing.
+Hidden treasure?
 
 [msg MSG_002 [Morgana]]
-S胤. Encontrar tesoro es la especialidad[n]de Ladrones Fantasma.
-夷Qu姻 clase de tesoro es?
+Yeah. Finding treasure is the Phantom[n]Thieves' specialty.
+So what kind of treasure is it?
 
 [msg MSG_003 [Elizabeth]]
-Parece ser una especie de artefacto[n]preciado un investigador destinado a[n]ofrecer a su amante...
-Esperando hacerlo cuando su[n]investigaci吋n estaba completa, lo[n]escondi吋 para su custodia.
+It seems to be some sort of prized[n]artifact a researcher intended to offer[n]to his lover...
+Hoping to do so once his research was[n]complete, he hid it for safekeeping.
 
 [msg MSG_004 [Rise]]
-... Lo que le pas吋 al investigador..
+...What happened to the researcher―
 
 [msg MSG_005 [Elizabeth]]
-Aqu胤 hay un mapa de la ubicaci吋n del[n]tesoro... 夷Oh? Parece que hay algo en la[n]espalda...
-"Una vez que termine este trabajo,[n]finalmente se lo propongo"
-"Esta obra es la pura encarnaci吋n de la[n]belleza y el alusi吋n. A ella le[n]encanta..."
+Here is a map of the treasure's[n]location... Oh? There appears to be[n]something scribbled on the back...
+"Once this job is over, I'll finally[n]propose to her."
+"This work is the sheer embodiment of[n]both beauty and allure. She's sure to[n]love it..."
 
 [msg MSG_006 [Futaba]]
-Supongo que tent吋 el destino...
+Guess he tempted fate...
 
 [msg MSG_007 [Ann]]
-夷As胤 que fue un regalo para su novia...?[n]Tengo curiosidad por lo que era.
+So it was a present to his[n]girlfriend...? I'm kinda curious about[n]what it was.
 
 [msg MSG_008 [Yukari]]
-Dijo que era la encarnaci吋n de la[n]belleza. 夷Quiz茨 sea una joya?
+He said it was the embodiment of beauty.[n]Maybe it's some kind of jewel?
 
 [msg MSG_009 [Rise]]
-斡Qu姻 rom茨ntico!
+Wow, that's so romantic!
 
 [msg MSG_010 [Junpei]]
-Las chicas est茨n emocionadas por esto...
+The girls sure are excited about this...
 
 [msg MSG_011 [Teddie]]
-Ooh! 斡Esto es!
+Ooh! This is it!
 
 [msg MSG_012 [Yosuke]]
-夷Eh? 夷De qu姻 est茨s hablando?
+Huh!? What're you goin' on about!?
 
 [msg MSG_013 [Teddie]]
-Quien encuentre el tesoro primero ser茨[n]coronado la mascota n雨mero uno!
+Whoever finds the treasure first will be[n]crowned the number-one mascot!
 
 [sel SEL_014 top]
-夷Una mascota n雨mero uno?
-夷Por qu姻?
+Number-one mascot?
+Why?
 
 [msg MSG_015 [Teddie]]
-El deber de una mascota es hacer feliz a[n]las damas y proporcionar consuelo cuando[n]lo necesiten...
-ねぺろゎるぺゅゆまょろまデ れも まょぼよょろるぺる まゅ ろまれよるよ めぺぼま[n]みまゅもん ぺ ろよぽよれデ まょろよょぼまれ まれ ゃゎれろよ りゎま まゅ りゎま ゅよ[n]まょぼゎまょろるぺ ぼよょれもむゎま まゅ ろウろゎゅよ!
+A mascot's duty is to make the ladies[n]happy and provide comfort whenever they[n]need it...
+Naturally, if finding the treasure makes[n]everyone happy, then it's only fair that[n]the one who finds it gets the title!
 
 [msg MSG_016 [Koromaru]]
 Woof...
 
 [msg MSG_017 [Aigis]]
-Koromaru dice que no tiene idea de lo[n]que est茨s hablando.
+Koromaru-san says he has no idea what[n]you're talking about.
 
 [msg MSG_018 [Morgana]]
-Lo dijiste. A nadie le importa tu tonto[n]concurso...
+You said it. No one cares about your[n]silly little contest...
 
 [msg MSG_019 [Teddie]]
-夷Oho...? Bueno, si no hay competencia,[n]entonces supongo que gan姻 por defecto.
-Y luego me pongo bonita Ann todo para m胤[n]mismo...
+Oho...? Well, if there's no competition,[n]then I guess I win by default.
+And then I get pretty Ann-chan all to[n]myself...
 
 [msg MSG_020 [Morgana]]
-斡Arrrgh! 夷D吋nde te vas?
+Arrrgh! Where do you get off!?
 
 [msg MSG_021 [Teddie]]
-斡Si no te gusta, intenta quitarme el[n]t胤tulo!
+If you don't like it, just try and take[n]the title from me!
 
 [msg MSG_022 [Morgana]]
-Maldici吋n... 斡Bien, lo har姻! Pero vamos[n]a tener una cosa clara...
-斡No me importa tu est雨pido t胤tulo! S吋lo[n]estoy haciendo esto para hacer feliz a[n]Lady Ann!
+Dammit... Fine, I'll do it! But let's[n]get one thing straight...
+I don't care about your stupid title![n]I'm only doing this to make Lady Ann[n]happy!
 
 [msg MSG_023 [Yukari]]
-Se est茨 calentando bastante all胤. 夷Est茨n[n]bien?
+It's getting pretty heated over there.[n]Are they okay?
 
 [sel SEL_024 top]
-Est茨n bien.
-En realidad es conveniente.
-Morgana va a ganar.
+They're fine.
+It's actually convenient.
+Morgana's gonna win.
 
 [msg MSG_025 [Futaba]]
-Bueno, es una b雨squeda de tesoros. Es[n]bueno que todos est姻n motivados.
+Well, it is a treasure hunt. It's good[n]for everyone to be motivated.
 
 [msg MSG_026 [Morgana]]
 ...
-Cierto. 斡No hay forma de perder a un oso[n]pervertido!
+Right. There's no way I'm losing to some[n]pervy bear!
 
 [msg MSG_027 [Haru]]
-夷Y t雨, Koro?
+What about you, Koro-chan?
 
 [msg MSG_028 [Koromaru]]
-斡斡Arf! Arf, 斡Arf!
+Arf! Arf, arf!
 
 [msg MSG_029 [Aigis]]
-"El concurso es de poco inter姻s para m胤,[n]pero con gusto ayudar姻 a buscar el[n]tesoro..."
-... As胤 dice Koromaru.
+"The contest is of little interest to[n]me, but I'll gladly help look for the[n]treasure..."
+...So says Koromaru-san.
 
 [msg MSG_030 [Teddie]]
-斡Entonces eso lo resuelve! 斡Que empiece[n]el primer Mascot Match-up!
-斡Que los hombres m茨s valientes, vengan!
+Then, that settles it! Let the[n]first-ever Mascot Match-up begin!
+May the manliest of all men, come on[n]down!
 
 [msg MSG_031 [Morgana]]
-斡S胤!
+Yeah!
 
 [msg MSG_032 [Koromaru]]
-斡Arf!
+Arf!
 

@@ -1,90 +1,90 @@
 [msg MSG_000 [Elizabeth]]
-Un relato m茨s conmovedor de dos[n]dinosaurios... Qu姻 hermosa.
-Realmente calentaba mi coraz吋n. De[n]hecho, dir胤a que alcanz吋 temperaturas de[n]m茨s de 2000 grados.
+A most moving tale of two dinosaurs...[n]How beautiful.
+It truly warmed my heart. In fact, I'd[n]say it reached temperatures of over 2000[n]degrees.
 
 [msg MSG_001 [Kanji]]
-夷Te quedar胤a algo?
-De todos modos, me alegro de que el[n]peque隠o haya podido encontrar a su[n]madre.
+Would there even be anythin' left of[n]you...?
+Anyway, I'm just glad the little guy was[n]able to find his mom.
 
 [msg MSG_002 [Yosuke]]
-へぺ れぺほまれデ らゎまぽま らぺるまぼまる りゎま ょよ ゅま もゆらよるろぺ[n]ろぺょろよデ らまるよ なぺょゃも ろまょウぺ ゅァむるもゆぺれ まょ れゎれ よゃよれ[n]ぼゎぺょぽよ まれよれ ぽよれ れま るまゎょもまるよょテ
+Y'know, it may look like he doesn't care[n]all that much, but Kanji had tears in[n]his eyes when those two reunited.
 
 [msg MSG_003 [Kanji]]
-夷Qu姻? 夷De qu姻 diablos hablas? 斡Tengo[n]alergias!
+Wha―!? The hell're you talkin' about!?[n]I-I just have allergies!
 
 [msg MSG_004 [Teddie]]
-Kanji est茨 tan f茨cilmente avergonzado.
+Hehe, Kanji's so easily embarrassed.
 
 [msg MSG_005 [Haru]]
-Bueno, s吋lo pudieron reunirse gracias a[n]todos aqu胤.
-Gracias, Yukiko, por trabajar tan duro[n]para ayudarlos.
+Well, they were only able to reunite[n]thanks to everyone here.
+Thank you, Yukiko-chan, for working so[n]hard to help them.
 
 [msg MSG_006 [Yukiko]]
-Yo... Haru...
-Me alegra que nos encontremos.
+I... Haru-san...
+I'm so glad we got to meet each other.
 
 [msg MSG_007 [Haru]]
-夷Eh?
+Huh?
 
 [msg MSG_008 [Yukiko]]
-Esto podr胤a ser un poco adelante, pero[n]me di cuenta de que somos muy parecidos.
-Y al darse cuenta de eso, de repente me[n]sent胤 cerca de ti...
+This might be a bit forward, but I[n]realized we're very much alike.
+And upon realizing that, I suddenly felt[n]close to you...
 
 [msg MSG_009 [Haru]]
-Me sent胤 igual.
-Estaba pensando en c吋mo deber胤amos[n]hablar m茨s, as胤 que puedo conocerte[n]mejor.
+*giggle* I felt the same way.
+I was thinking about how we should talk[n]some more, so I can get to know you[n]better.
 
 [msg MSG_010 [Yukiko]]
-Me alegra o胤r eso. Me gustar胤a mucho[n]hablar m茨s contigo tambi姻n.
+I'm happy to hear that. I would very[n]much like to talk more with you as well.
 
 [msg MSG_011 [Haru]]
-No hay necesidad de ser tan apropiado,[n]Yukiko. Seamos buenos amigos.
+There's no need to be so proper,[n]Yukiko-chan. Let's just be good friends.
 
 [msg MSG_012 [Yukiko]]
-斡Correcto!
+Right!
 
 [msg MSG_013 [Morgana]]
-Parece que ustedes dos se llevan bien.[n]斡Contin雨en, chicos!
+Looks like you two are getting along[n]just fine. Keep it up, you guys!
 
 [msg MSG_014 [Yukiko]]
-斡Por supuesto! 斡Quemar姻 a todos nuestros[n]enemigos a un crujiente!
+Of course! I'll burn all of our enemies[n]to a crisp!
 
 [msg MSG_015 [Haru]]
-No te olvides de m胤. Voy a cortar cada[n]雨ltimo enemigo que nos encontramos!
+Don't forget about me. I'll chop down[n]every last foe we come across!
 
 [msg MSG_016 [Ryuji]]
-Haha... Me alegro de que se lleven[n]bien...
+Haha... Glad you two are getting[n]along...
 
 [msg MSG_017 [Kanji]]
-Son un par bastante aterrador...
+They're a pretty scary pair...
 
 [msg MSG_018 [Haru]]
-斡Eso me recuerda! Teddie estaba diciendo[n]algo sobre "quemar"
-夷Estabas jugando un juego? 夷Crees que[n]puedo venir la pr吋xima vez?
+Oh, that reminds me! Teddie was saying[n]something about "scoring."
+Were you playing a game? Do you think I[n]can come along next time?
 
 [msg MSG_019 [Yukiko]]
-夷Teddie dijo qu姻...?
+Teddie said what...?
 
 [msg MSG_020 [Teddie]]
-斡Eeeek! No s姻 lo que dices..
+Eeeek! I-I don't know what you're talki―
 
 [msg MSG_021 [Yukiko]]
-斡Te har姻 cenizas! 斡Konohana Sakuya!
+I'll turn you to ash! Konohana Sakuya!
 
 [msg MSG_022 [Teddie]]
-斡Yaaargh! 斡Aqu胤 vamos otra vez!
+Yaaargh! Here we go again!
 
 [msg MSG_023 [Haru]]
-Vaya, 夷es parte del juego? D姻jame[n]intentarlo...
-斡Eh, bomb吋n! 夷Quieres subir una colina y[n]cortar algunos 茨rboles conmigo?
+Wow, is this part of the game? Let me[n]try...
+Hey, hot stuff! You wanna hike up a hill[n]and chop down some trees with me?
 
 [msg MSG_024 [Yosuke]]
-夷Esa es tu idea de conquistar? Espera...[n]夷Entonces PREFIERES una colina!
+That's your idea of scoring!? Wait... So[n]you WOULD prefer a hill!
 
 [msg MSG_025 [Yukiko]]
-夷Qu姻 tal esto?
-斡T雨 ah胤! 夷Est茨s dispuesto a dedicar tu[n]vida a mantener la larga historia y[n]tradiciones del Amagi Inn?
+Oh, then, how about this?
+You there! Are you willing to devote[n]your life to upholding the long-standing[n]history and traditions of the Amagi Inn?
 
 [msg MSG_026 [Ryuji]]
-斡Eso no suena a conquista para m胤!
+That don't sound like scorin' to me!
 

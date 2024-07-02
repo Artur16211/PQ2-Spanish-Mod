@@ -1,29 +1,29 @@
 [msg MSG_000 [Junpei]]
-Aqu胤 vamos. 夷Todos listos?
+H-Here we go. Everyone ready?
 
 [msg MSG_001 [Yukiko]]
-Tu voz est茨 rompiendo mucho.
+Your voice sure is cracking a lot.
 
 [msg MSG_002 [Yosuke]]
-Ahora que lo miro mejor, esa cosa es[n]enorme...
+Now that I get a better look at it, that[n]thing's huge...
 
 [msg MSG_003 [Teddie]]
-斡S胤! 夷C吋mo voy a impresionar a las damas[n]si esa gran bestia saca un bocado de[n]este hermoso mandio de mi...?
+Yeah! How am I gonna impress the ladies[n]if that big beastie takes a bite outta[n]this beautiful bod of mine...?
 
 [sel SEL_004 top]
-Estaremos bien.
-No tengas miedo.
+We'll be fine.
+Don't be afraid.
 
 [msg MSG_005 [Ken]]
-Cierto. S吋lo perdemos si renunciamos.
+Right. We only lose if we give up.
 
 [msg MSG_006 [Morgana]]
-No est茨 mal, Ken. Tienes raz吋n.
+Heh, not bad, Ken. You're right.
 
 [msg MSG_007 [Ken]]
-Heheh... Es algo que escuch姻.
+Heheh... It's just something I heard.
 
 [msg MSG_008 [Futaba]]
-斡Es de Featherman! "斡Los h姻roes nunca se[n]retiran, suplican o se rinden!"
-斡Adelante, Joker! 斡Es hora de derrotar[n]al Tyranniqueen!
+That's from Featherman! "Heroes never[n]retreat, beg, or give up!"
+Lead the way, Joker! It's time for a[n]Tyranniqueen tussle!
 

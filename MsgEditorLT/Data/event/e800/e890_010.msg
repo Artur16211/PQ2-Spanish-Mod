@@ -1,81 +1,81 @@
 [msg MSG_000 [Elizabeth]]
-Bueno, parece que todos est茨n aqu胤.[n]Vayamos inmediatamente al tema que nos[n]ocupa.
+Well, it seems everyone is here. Let us[n]immediately move to the topic at hand.
 
 [msg MSG_000_1 [Elizabeth]]
-にぺ らまゅウぼゎゅぺ りゎま めぺれ ぺぽりゎもるもぽよ まれろァ ぼよょまぼろぺぽぺ ぺ[n]ゅぺれ もょょゎゆまるぺほゅまれ らよれもほもゅもぽぺぽまれ ぽまゅ らよぽまる ぽま ゅぺ[n]ろぺるゃまろぺ れぺゅわぺゃまテ
-によれ ぽまろぺゅゅまれ れよほるま れゎ ゎれよ れよょ ぽまれぼよょよぼもぽよれデ[n]らまるよ ぺゎょりゎま らぺるまぼま よれぼゎるよ を よれぼゎるまぼもぽよ れよほるま[n]まゅ らるもゆまる ぽまれぼゎほるもゆもまょろよテテテ
-Con un despliegue adecuado de energ胤a,[n]puede restaurar su brillo perdido.
+The film you've acquired is connected to[n]the myriad possibilities of the wild[n]card's power.
+Details on its usage are unknown, but[n]while it seems dark and obscured upon[n]first discovery...
+With an appropriate display of power,[n]you can restore its lost brilliance.
 
-[msg MSG_001 [Voz Sonora]]
-Y tal pantalla se logra mejor luchando[n]contra uno que gobierna sobre el poder[n]mismo. Es decir, nosotros...
-*chuckle* Qu姻 intrigante.
+[msg MSG_001 [Sonorous voice]]
+And such a display is best achieved by[n]battling one who rules over power[n]itself. Namely, us...
+*chuckle* How intriguing.
 
 [msg MSG_002 [P4 Hero]]
-Margaret?!
+Margaret!?
 
 [msg MSG_003 [Margaret]]
-Buenos d胤as a todos ustedes.
-Elizabeth ya me ha llenado. Yo estar胤a[n]m茨s que feliz de prestar mi ayuda[n]tambi姻n.
+Good day to you all.
+Elizabeth has already filled me in. I[n]would be more than happy to lend my[n]assistance as well.
 
 [sel SEL_004 top]
-夷Asistencia?
-夷As胤 que eres el siguiente?
+Assistance...?
+So you're next?
 
 [msg MSG_005 [Margaret]]
-De hecho. Tu pr吋ximo combate ser茨 contra[n]m胤.
+Indeed so. Your next bout will be[n]against me.
 
 [msg MSG_005_1 [Margaret]]
-No te preocupes, como quien gobierna el[n]poder yo mismo, estoy seguro de que[n]probar姻 un oponente digno.
+You needn't worry―as one who rules over[n]power myself, I'm sure I will prove a[n]worthy opponent.
 
 [msg MSG_006 [Yosuke]]
-No se trata tanto de lo del[n]"contrincante digno". M茨s bien una cosa[n]de "podemos sobrevivir a esto"...
+Uh, it's not so much about the "worthy[n]opponent" thing. More like a "can we[n]survive this" thing...
 
 [msg MSG_007 [Margaret]]
-Veo que todos ustedes han crecido m茨s[n]fuerte desde su pelea con Theo.
+I can see you've all grown stronger[n]since your bout with Theo.
 
 [msg MSG_007_1 [Margaret]]
-Ven conmigo como si quisieras matar. A[n]su vez, responder姻 con todo mi poder.
+Come at me as if you wish to kill. In[n]turn, I shall respond with all my might.
 
 [msg MSG_008 [Teddie]]
-斡Tan sexy, pero tan peligroso tambi姻n![n]斡Este femme fatale ser茨 un enemigo[n]poderoso!
+So sexy, but oh so dangerous too! This[n]femme fatale's gonna be a powerful[n]foe...!
 
 [msg MSG_009 [Margaret]]
-Estoy listo para hacer esto cuando[n]quieras. Ven a hablar conmigo cuando[n]est姻s preparado.
+I'm ready to do this whenever you wish.[n]Come speak to me when you're prepared.
 
 [sel SEL_010 top]
-Estamos listos para hacer esto.
-Necesitamos tiempo.
+We're ready to do this.
+We need some time.
 
 [msg MSG_011 [Margaret]]
-Eager, 夷verdad? Por favor, venga por[n]aqu胤.
+*chuckle* Eager, are we? Well, please[n]come this way.
 
 [msg MSG_012 [Margaret]]
-S胤, comprensible. Por favor, vuelve una[n]vez que est姻s listo.
+Yes, understandable. Please come again[n]once you're ready.
 
 [msg MSG_013 [Margaret]]
-夷Est茨s suficientemente preparado?
+Are you sufficiently prepared?
 
 [sel SEL_014 top]
-Estamos listos para irnos.
-Todav胤a no.
+We're good to go.
+Not just yet.
 
 [msg MSG_015 [Margaret]]
-Muy bien. Entonces, por favor, ven por[n]aqu胤.
+Very well. Then please, come this way.
 
 [msg MSG_016 [Margaret]]
-*chuckle* No te preocupes. Puedo ser[n]paciente.
+*chuckle* You needn't worry. I can be[n]patient.
 
 [msg MSG_017 [Margaret]]
-夷Me estabas llamando para otra batalla?
+Were you calling me for another battle?
 
 [sel SEL_018 top]
-S胤, por favor.
-Lo siento, no quer胤a.
+Yes, please.
+Sorry, didn't mean to.
 
 [msg MSG_019 [Margaret]]
-Muy bien. Entonces, por favor, ven por[n]aqu胤.
+Very well. Then please, come this way.
 
 [msg MSG_020 [Margaret]]
-夷Es as胤?
-Por favor, ven a preguntarme si alguna[n]vez te sientes inclinado.
+My... Is that so?
+Please come and ask for me if ever you[n]feel inclined.
 

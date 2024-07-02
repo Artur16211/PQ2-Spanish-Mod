@@ -1,102 +1,102 @@
 [msg MSG_000 [Elizabeth]]
-Gracias a todos por esperar.
-Me gustar胤a hacerle saber que la prueba[n]especial que todos ustedes solicitaron[n]est茨 lista ahora.
+Thank you all for waiting.
+I would like to let you know that the[n]special screening you all requested is[n]now ready.
 
 [sel SEL_001 top]
-Espera, 夷qu姻 petici吋n?
-No recuerdo...
+Wait, what request?
+I don't remember...
 
 [msg MSG_002 [Elizabeth]]
-夷Hm? Qu姻 curioso...
+Hm? How curious...
 
 [msg MSG_002_1 [Elizabeth]]
-Estaba seguro de que escuch姻 que todos[n]quer胤an luchar contra un FOE en la[n]pel胤cula de Hikari.
+I was sure I heard you all wanted to[n]fight an FOE in Hikari's movie.
 
 [msg MSG_003 [Hikari]]
-夷El FOE en mi pel胤cula? 夷Te refieres al[n]lindo oso teddie?
+The FOE in my movie...? You mean the[n]cute teddie bear?
 
 [msg MSG_004 [Teddie]]
-斡Por aqu胤! 夷Estabas buscando un berio[n]adorable oso Teddie?
+Oh, over here! You were looking for a[n]beary adorable Teddie bear?
 
 [msg MSG_005 [Hikari]]
-T雨 no, Teddie... Es un oso, pero es el[n]oso de mi pel胤cula, as胤 que...
+Oh, not you, Teddie... It is a bear, but[n]it's the bear from my movie, so...
 
 [msg MSG_006 [Teddie]]
-Awww... 夷C吋mo puede Hikarin soportar esa[n]ab-bearaci吋n insoportable, pero todav胤a[n]creo que estoy sobrecargando?
+Awww... How can Hikarin bear that[n]unbearable ab-bearation, but still think[n]I'm overbearing...?
 
 [msg MSG_007 [P4 Hero]]
-S吋lo sonr胤e y d姻jalo, Teddie. Ese oso[n]tiene el oso que lleva.
+Just grin and bear it, Teddie. That bear[n]bear-ly has the bearlike bearing you[n]bear.
 
 [msg MSG_008 [Aigis]]
-Aproximando velocidades de quince osos[n]por minuto.
+Approaching speeds of fifteen bears per[n]minute.
 
 [msg MSG_009 [Yosuke]]
-Mira, bromea a un lado... 夷Estamos[n]luchando seriamente contra este oso?[n]夷Qui姻n puso esa petici吋n?
+Look, jokes aside... Are we seriously[n]fighting this bear? Who even put in that[n]request...?
 
 [msg MSG_010 [Elizabeth]]
-Teddie me asegur吋 que todos ya estaban[n]de acuerdo.
+Why, Teddie here assured me that[n]everyone already agreed to this.
 
 [msg MSG_011 [Teddie]]
-Supongo que dije eso.
+Hrmm... I guess I did say that.
 
 [msg MSG_012 [Yosuke]]
-夷Fuiste t雨? 斡No puedes tomar estas[n]decisiones solo!
+It was you!? You can't just make these[n]decisions on your own!
 
 [msg MSG_013 [Teddie]]
-斡Vamos! 夷No quieren saber qui姻n es el[n]m茨s osado de todos?
+Aw, c'mon! Don't you guys want to find[n]out who's the bearest of them all?
 
 [msg MSG_014 [Yosuke]]
-斡No nos arrastres en tu extra隠o complejo[n]de osos!
+Don't drag us into your weird bear[n]complex!
 
 [msg MSG_015 [P4 Hero]]
-No te alteres demasiado, Yosuke.
+Don't get too worked up, Yosuke.
 
 [msg MSG_015_1 [P4 Hero]]
-Ser茨 un poderoso oponente, pero siempre[n]es bueno cuando podemos aprender de una[n]lucha dura.
+It'll be a powerful opponent, but it's[n]always good when we can learn from a[n]tough fight.
 
 [msg MSG_016 [Yosuke]]
-Bueno, s胤... Supongo que s胤, pero...
+Well, yeah... I guess so, but...
 
 [msg MSG_017 [Aigis]]
-Cierto. Teddie, quieres prepararte para[n]batallas a雨n mayores, 夷no?
+Right. Teddie-san, you aim to prepare[n]yourself for even greater battles ahead,[n]do you not?
 
 [msg MSG_018 [Teddie]]
-Absolutamente, positivamente! 斡El[n]Maestro, Ai, ustedes dos me atrapan[n]totalmente!
+Absolutely, positively! Sensei, Ai-chan,[n]you two totally get me!
 
 [msg MSG_019 [Yosuke]]
-*Suspira* ...De verdad necesitas[n]aprender cu茨ndo dejar de hablar.
+*sigh* ...You seriously need to learn[n]when to stop talking.
 
 [msg MSG_020 [Yosuke]]
-Una pelea contra ese oso FOE, 夷eh? 夷Qu姻[n]dices?
+A fight against that bear FOE, huh...?[n]What do you say, [f 6 1 30 0 0 0]?
 
 [sel SEL_021 top]
-Vamos.
-Tambi姻n podr胤a.
+Let's take it on.
+Might as well.
 
 [msg MSG_022 [Teddie]]
-斡S胤! 斡Eso lo resuelve! 斡Este oso est茨[n]listo para ir!
+Yaaay! That settles it! This bear's all[n]hyped up and ready to go!
 
 [msg MSG_023 [Yosuke]]
-Lo siento. No quer胤amos arrastrarte a[n]los vagabundos de nuestro oso.
+Sorry about this. We didn't mean to drag[n]you into our dumb bear's shenanigans.
 
 [msg MSG_024 [Elizabeth]]
-夷Se ha decidido?
+Has it been decided?
 
 [msg MSG_024_1 [Elizabeth]]
-斡Empecemos! 斡Es hora de un Teddie[n]Showdown! 斡Pelea doble con oso! Luces,[n]c茨mara, acci吋n!
+Let us begin! It's time for a Teddie[n]Showdown! Double bear-relled battle![n]Lights, camera, action!
 
 [msg MSG_025 [Teddie]]
-斡Acci吋n!
+Action!
 
 [msg MSG_026 [Aigis]]
-斡23 acci吋n por minuto!
+23 bears-per-minute action!
 
 [msg MSG_027 [P4 Hero]]
-Uh, are we making this a thing...?[n]斡Acci吋n!
+Uh, are we making this a thing...?[n]Action!
 
 [msg MSG_028 [Hikari]]
-Vas contra un oso bastante duro. 斡Seguro[n]que ser茨 acci吋n!
+You're going up against a pretty tough[n]bear. It sure will be action!
 
 [msg MSG_029 [Yosuke]]
-Ahora "bear" ha perdido todo[n]significado...
+Ugh... now "bear"'s lost all meaning...
 

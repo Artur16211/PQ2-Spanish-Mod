@@ -1,9 +1,9 @@
 [msg MSG_000 [Futaba]]
-Espera, no de esa manera. Es al rev姻s.
+Hold up, not that way. It's the other[n]way.
 
 [msg MSG_001 [Yukiko]]
-Cierto. Necesitamos encontrar al[n]dinosaurio herido. Estar胤a al este de[n]aqu胤.
+Right. We need to find the injured[n]dinosaur. It'd be east of here.
 
 [msg MSG_002 [Haru]]
-As胤 que por aqu胤. Estoy empezando a[n]preocuparme... 斡R茨pido!
+So this way. I'm starting to get[n]worried... Let's hurry!
 

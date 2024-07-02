@@ -1,47 +1,47 @@
 [msg MSG_000 [Elizabeth]]
-ィぴょ ぼぺるるもろよ みゎまるぺ ぽまゅ ぼよょろるよゅ れま らるまよぼゎらぺ[n]めぺぼもぺ ゅよれ ろるぺほぺゃぺぽよるまれ ぼよょぽまょぺぽよれ! はまるよ まょ まゅ[n]グゅろもゆよ ゆよゆまょろよデ [f 6 1 30 0 0 0] ぽまぼもぽま れゎ ぽまれろもょよ!
-... Tal vez s吋lo fueron dos preguntas,[n]pero pueden haber mostrado una gran[n]comprensi吋n de sus corazones.
-Mientras esto era un poco de salida de[n]las proyecciones especiales habituales,[n]disfrut姻 sin embargo.
+An out-of-control cart careens toward[n]the doomed workers! But at the last[n]moment, [f 6 1 30 0 0 0] decides their fate!
+...Perhaps it was only two questions,[n]but they may have shown great insight[n]into your hearts.
+While this was a bit of a departure from[n]the usual special screenings, I enjoyed[n]it nonetheless.
 
 [msg MSG_001 [Futaba]]
-夷Pero qui姻n hizo esas se隠ales en primer[n]lugar? 夷Y qu姻 hay de la espeluznante[n]mujer que anuncia?
+But who made those signs in the first[n]place? And what about the spooky[n]announcer lady?
 
 [msg MSG_002 [Junpei]]
-En realidad, ahora que lo pienso, esa[n]voz sexy era un poco familiar...
-夷Te suenan las campanas?
+Actually, now that I think of it, that[n]sexy voice was kinda familiar...
+Ring any bells for you, [f 6 1 30 0 0 0]?
 
 [sel SEL_003 top]
-Ni idea.
-夷Elizabeth?
-Era familiar...
+No idea.
+Elizabeth?
+It WAS familiar...
 
 [msg MSG_004 [Junpei]]
-斡Pero mi Babe Radar se est茨 volviendo[n]salvaje!
-Alguien muy sexy, muy maduro, con ese[n]tipo de aura sofisticada para ella...
+Man, but my Babe Radar is going wild!
+Someone real sexy, real mature, with[n]that kinda sophisticated aura to her...
 
 [msg MSG_005 [Elizabeth]]
-Desafortunadamente, no fui yo.
-つれ ゆァれ らるよほぺほゅま まょぼよょろるぺるゆま まょ ゆも ぺれもまょろよ[n]ぽゎるぺょろま ゅぺれ らるよをまぼぼもよょまれデ ぽまわよるぺょぽよ らぺゅよゆもろぺれ[n]ぽま ゆぺウん を めよろ ぽよむれ ぼよょ ろよろぺゅ ぺほぺょぽよょよテ
+Most unfortunately, it was not me.
+I am more likely to be found in my seat[n]during screenings, devouring popcorn and[n]hot dogs with wild abandon.
 
 [msg MSG_006 [P4 Hero]]
-Me alegra que haya disfrutado del[n]espect茨culo, como siempre.
+I'm glad you enjoyed the show, as usual.
 
 [msg MSG_007 [Junpei]]
-No, tengo la sensaci吋n de que es alguien[n]mayor y m茨s maduro que Elizabeth...
+Nah, I get the feeling it's someone[n]older and more mature than Elizabeth...
 
 [msg MSG_008 [Junpei]]
-Lo s姻, 夷verdad? Y sent胤 que era alguien[n]s雨per reciente, como justo despu姻s de[n]llegar a este Cine.
-Alguien muy sexy, muy maduro, con ese[n]tipo de aura sofisticada para ella...
+I know, right? And it felt like it was[n]someone super recent, like just after we[n]got to this theater.
+Someone real sexy, real mature, with[n]that kinda sophisticated aura to her...
 
 [msg MSG_009 [Elizabeth]]
-Quiz茨 nunca sepamos la verdad. Pero en[n]cuanto a mi especulaci吋n sobre los[n]motivos del orquestador...
-Creo que ella estaba intrigada por ti, y[n]fue impulsada por un deseo de comprender[n]mejor a todos ustedes.
+We may never know the truth. But as for[n]my speculation on the orchestrator's[n]motives...
+I believe she was intrigued by you, and[n]was driven by a desire to better[n]understand you all.
 
 [msg MSG_010 [P4 Hero]]
-Bueno, s吋lo puedo esperar que tenga lo[n]que quer胤a fuera de ella.
+Well, I can only hope she got what she[n]wanted out of it.
 
 [msg MSG_011 [Elizabeth]]
-夷Qui姻n puede decir?
-Espero que siga observando tus haza隠as[n]en los juicios por venir.
-En cualquier caso, fue un espect茨culo[n]muy entretenido. Por favor, contin雨e con[n]el buen trabajo.
+Who can say?
+I expect she will continue observing[n]your exploits in the trials to come.
+In any case, it was a most entertaining[n]show. Please continue to keep up the[n]good work.
 

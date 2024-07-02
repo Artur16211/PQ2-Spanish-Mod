@@ -1,38 +1,38 @@
 [msg MSG_000 [Morgana]]
-Bueno, aqu胤 vienen las FOEs.
+Bien, aqu胤 vienen los FOEs.
 
 [msg MSG_001 [Futaba]]
-Bueno, la oposici吋n es m茨s fuerte de lo[n]habitual. No vamos a poder pasarlos como[n]siempre.
+Bueno, la amenaza es m茨s dura que de costumbre. No vamos a poder escabullirnos como siempre.
 
 [msg MSG_001_02 [Rise]]
-Se ven muy fren姻ticas tambi姻n...[n]Probablemente ser茨n a雨n m茨s agresivos,[n]as胤 que cuidado!
+Tambi姻n parecen muy agitados... Probablemente sean m茨s agresivos, as胤 que, 斡tened cuidado!
 
 [msg MSG_002 [Chie]]
-Estoy empezando a ponerme nervioso.
+Ohh... Estoy empezando a ponerme nerviosa.
 
 [sel SEL_003 top]
-Solo mantente concentrado.
-Intenta contar tres.
-S胤, mis manos est茨n sudadas.
+Conc姻ntrate.
+Prueba a contar hasta tres.
+S胤, a m胤 me est茨n sudando las manos.
 
 [msg MSG_004 [Chie]]
-Focus, conc姻ntrate. Vaya, ahora estoy[n]m茨s nervioso...
+... C姻ntrate, c姻ntrate. Ay, ahora estoy incluso m茨s nerviosa...
 
 [msg MSG_005 [Kanji]]
-Lo he o胤do mucho. 夷De verdad funciona?
+He escuchado eso un mont吋n. Pero, 夷funciona realmente?
 
 [msg MSG_006 [Naoto]]
-Se dice que tareas simples ayudan a[n]calmar la mente.
+Se dice que las tareas sencillas ayudan a calmar la mente.
 
 [msg MSG_007 [Chie]]
-Uno, dos, tres... Uno, dos, tres...[n]夷Cu茨ntas veces tengo que hacer esto?
+Uno, dos, tres... Uno, dos, tres... 斡夷Cu茨ntas veces tengo que hacerlo?!
 
 [msg MSG_008 [Yosuke]]
-夷T雨 tambi姻n?
+Qu姻, 斡夷t雨 tambi姻n?!
 
 [msg MSG_009 [Ann]]
-斡Dijiste que la mejor manera de aprender[n]algo es salir y hacerlo! 斡Vamos, vamos!
+Bueno, dijiste que la mejor forma de hacer algo es salir y hacerlo 斡Venga, vamos!
 
 [msg MSG_010 [Chie]]
-斡S胤, se隠ora!
+斡S-S胤, se隠ora!
 

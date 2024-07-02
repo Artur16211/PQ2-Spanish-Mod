@@ -1,142 +1,142 @@
 [msg MSG_000 [Koromaru]]
-斡Bark! 斡Barco, corteza!
+Bark! Bark, bark!
 
 [msg MSG_001 [Kanji]]
-Whoa! 夷Qu姻 est茨s haciendo, Koro? 斡No me[n]cortejes as胤!
+Whoa! What're you doin', Koro!? Don't[n]bark at me like that!
 
 [msg MSG_002 [Koromaru]]
 Grrr...
 
 [msg MSG_003 [Aigis]]
-Koromaru parece estar diciendo: "No te[n]quedes detr茨s de m胤."
+Koromaru-san appears to be saying:[n]"Don't stand behind me."
 
 [sel SEL_004 top]
 Badass.
-夷Eres un asesino?
+Are you a hitman!?
 
 [msg MSG_005 [Yosuke]]
-Suena como ese francotirador de esa[n]serie de mangas...
+He sounds just like that sniper from[n]that one manga series...
 
 [msg MSG_006 [Yosuke]]
-Nothing gets past you does it,[n][f 6 1 30 0 0 0]...?
+Nothing gets past you does it,...?
 
 [msg MSG_007 [Ann]]
-Aqu胤, Koro. Est茨 bien.
+Here, Koro-chan. It's okay.
 
 [msg MSG_008 [Koromaru]]
 *whine*
 
 [msg MSG_009 [Kanji]]
-夷Qu姻 demonios? 夷Por qu姻 Ann lo[n]acaricia...?
+The hell!? Why does Ann-san get to pet[n]him...!?
 
 [msg MSG_010 [Ann]]
-Buen chico, Koro. Eres como nuestra[n]peque隠a mascota.
+Good boy, Koro-chan. You're like our own[n]little mascot.
 
 [msg MSG_011 [Teddie]]
-夷Qu姻 hay de m胤? 斡Yo hago una buena[n]mascota!
-As胤 que si姻ntete libre de acariciarme[n]tambi姻n, Ann.
+What about me!? I make a pretty good[n]mascot myself!
+So feel free to pet me too, Ann-chan.
 
 [msg MSG_012 [Ann]]
-斡Eh, eh...!
-En realidad, eres muy suave...
+H-Hey, uh...!
+Actually, you are pretty soft...
 
 [msg MSG_013 [Teddie]]
-Ahhh... Esta es la vida...
+Ahhh... This is the life...
 
 [msg MSG_014 [Morgana]]
-斡Oigan, ustedes dos fuzzballs! 夷Qu姻[n]crees que est茨s haciendo?
-Lady Ann, 夷c吋mo puedes acariciar a esos[n]dos cuando me tienes?
+Hey, you two fuzzballs! What do you[n]think you're doing!?
+Lady Ann, how could you pet those two[n]when you've got me...?
 
 [msg MSG_015 [Ann]]
-Haha, lo siento. Pens姻 que no te gustaba[n]cuando te trataba como un animal.
+Haha, I'm sorry. I thought you didn't[n]like it when I treated you like an[n]animal.
 
 [msg MSG_016 [Teddie]]
-Puedes acariciarme hasta que quieras.[n]Ah胤 tienes
+You can pet me aaallllll you want. There[n]you go[f 0 1 1]
 
 [msg MSG_017 [Koromaru]]
-斡Barco, corteza!
+Bark, bark!
 
 [msg MSG_018 [Morgana]]
-No soy una mascota... Pero...
+Grrrr... I'm no mascot... But...
 
 [sel SEL_019 top]
-Perder茨s a este ritmo.
-夷Te vas a tragar el orgullo?
+You'll lose at this rate.
+Gonna swallow your pride?
 
 [msg MSG_020 [Morgana]]
-Lo s姻... Pero sigo siendo un ladr吋n[n]fantasma.
-No puedo ir a ese nivel...
+I know... But I'm still a phantom thief.
+I can't stoop to that level...
 
 [msg MSG_021 [Morgana]]
-No... tengo que recordar que soy un[n]ladr吋n fantasma.
-No puedo subir al nivel de una[n]mascota...
+No... I have to remember I'm a phantom[n]thief.
+I can't stoop to the level of some[n]mascot...
 
 [msg MSG_022 [Rise]]
-S胤, s姻 c吋mo te sientes.
-Los 胤dolos pueden ir por el estilo lindo[n]o el estilo fresco. Es muy dif胤cil[n]elegir al principio.
+Yeah, I know how you feel.
+Idols can either go for the cute style[n]or the cool style. It's really hard to[n]choose at first.
 
 [msg MSG_023 [Yosuke]]
-No creo que sea lo mismo...
+I don't think it's the same...
 
 [msg MSG_024 [Morgana]]
-斡No importa! 斡Al姻jate de Lady Ann, sucio[n]oso!
+Never mind! Just get away from Lady Ann,[n]you dirty old bear!
 
 [msg MSG_025 [Teddie]]
-夷Oyes eso? Suena como un mal perdedor
-S吋lo las mascotas bonitas tienen derecho[n]a ser mascotas por mujeres bonitas.
-Y la mascota m茨s bonita de todos es...
+Oho, do you hear that? It sounds like a[n]sore loser[f 0 1 1]
+Only pretty mascots have the right to be[n]pet by pretty ladies.
+And the prettiest mascot of all is...
 
 [sel SEL_026 top]
 Morgana.
 Koromaru.
-夷Qui姻n?
+Who?
 
 [msg MSG_027 [Morgana]]
-夷M-me?
-Ni siquiera soy una mascota. Eso dijo,[n]definitivamente no Teddie!
+M-Me!?
+No way, I'm not even a mascot. That[n]said, its definitely not Teddie!
 
 [msg MSG_028 [Koromaru]]
-夷Arf?
+Arf!?
 
 [msg MSG_029 [Morgana]]
-Yo tampoco estoy de acuerdo, pero lo[n]dejar姻 deslizarse.
-Al menos, Teddie, ciertamente no eres[n]t雨!
+I don't agree either, but I'll let it[n]slide.
+At the very least, Teddie, it's[n]certainly not you!
 
 [msg MSG_030 [Teddie]]
-Obviamente, la mejor opci吋n posible es[n]el 雨nico Teddie!
+Obviously, the best possible choice is[n]the one and only Teddie!
 
 [msg MSG_031 [Morgana]]
-Dijo que t雨 y nadie m茨s. 斡No mereces ese[n]t胤tulo un poco!
+Heh, said you and no one else. You don't[n]deserve that title one bit!
 
 [msg MSG_032 [Teddie]]
-夷Te niegas a admitirlo?
-Muy bien, digo que decidamos qui姻n es la[n]mascota n雨mero uno aqu胤 y ahora!
+Grrr... So, you refuse to admit it?
+Very well, I say we decide who the[n]number one mascot is here and now!
 
 [msg MSG_033 [Mitsuru]]
-夷Qu姻 est茨 pasando aqu胤?
-No te largues solo porque nadie est茨 por[n]aqu胤.
+Hey, what's going on over here?
+Don't slack off just because nobody's[n]around.
 
 [msg MSG_034 [Ann]]
-Claro. 斡Lo siento!
+Oh, right. Sorry!
 
 [msg MSG_034_1 [Ann]]
-夷Ves? Tenemos problemas. Tratemos de[n]llevarnos bien, 夷vale?
+See? We got in trouble. Let's all just[n]try to get along, okay?
 
 [msg MSG_035 [Morgana]]
-斡Bien dicho, Lady Ann! 斡El amor y la paz[n]son el camino a seguir!
+W-Well said, Lady Ann! Love and peace[n]are the way to go!
 
 [msg MSG_036 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_037 [Teddie]]
-Hmph, lo pasar姻 por alto esta vez, pero[n]la pr吋xima vez, no ser茨s tan[n]afortunado...!
+Hmph, I'll overlook it just this once,[n]but, next time, you won't be so[n]lucky...!
 
 [msg MSG_038 [Yosuke]]
-Oye, 夷est茨s hablando contigo mismo,[n]Teddie? Todos los dem茨s ya se fueron.
+Hey, you talking to yourself, Teddie?[n]Everybody else up and left already.
 
 [msg MSG_039 [Teddie]]
-夷Huh?
+...Huh?
 
 [msg MSG_040]
-Una nueva proyecci吋n especial: "Mascot[n]Match-up!" se ha a隠adido a la taquilla.
+A new special screening: "Mascot[n]Match-up!" has been added to the box[n]office.
 

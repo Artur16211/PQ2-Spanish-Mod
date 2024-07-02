@@ -1,242 +1,241 @@
 [msg MSG_005 [Elizabeth]]
-...
+......
 
 [sel SEL_006 top]
-夷Qu姻 pasa?
-夷Hay alg雨n problema?
+What's wrong?
+Is there a problem?
 
 [msg MSG_007 [Elizabeth]]
-斡No finjas ignorancia, t雨 demonio sin[n]ley! 斡T雨 perturbador de la paz!
+Don't play dumb, you lawless fiend! You[n]disturber of the peace!
 
 [sel SEL_008 top]
-Es "ladr吋n fantasma"
-Lo siento, 夷qu姻?
+It's "phantom thief."
+Sorry, what?
 
 [msg MSG_009 [Elizabeth]]
-斡Silencio! 斡Las excusas no pueden[n]ocultar sus malas acciones, villanos!
+Silence! Excuses cannot conceal your[n]evil deeds, villain!
 
 [msg MSG_009_1 [Elizabeth]]
-斡Formen, Velvet Rangers!
+Form up, Velvet Rangers!
 
 [msg MSG_010 [Theodore]]
-斡El azul del coraje compasivo! 斡La[n]Marina Velvet!
+The blue of compassionate courage![n]Velvet Navy!
 
 [msg MSG_011 [Margaret]]
-El azul de gracia graciosa. Velvet[n]Sapphire.
+The blue of gracious grace. Velvet[n]Sapphire.
 
 [msg MSG_012 [Caroline]]
-斡El azul de las tripas y la gloria![n]Velvet Cobalt!
+The blue of guts and glory! Velvet[n]Cobalt!
 
 [msg MSG_013 [Justine]]
-... El azul de la calma cuidadosa.[n]Velvet Indigo.
+...Th-The blue of careful calm. Velvet[n]Indigo.
 
 [msg MSG_014 [Elizabeth]]
-斡El azul de la justicia jubilosa![n]斡Velvet Blue!
-斡Juntos, somos el equipo de h姻roes[n]ultramarino! 斡Los Velvet Rangers!
+The blue of jubilant justice! Velvet[n]Blue!
+Together, we are the ultramarine hero[n]team! The Velvet Rangers!
 
 [sel SEL_015 top]
-Es demasiado azul.
-No, en serio, 夷qu姻?
+It's too much blue.
+No, really, what?
 
 [msg MSG_016 [Margaret]]
-Mira su mirada helada. Fui un tonto para[n]ir con esta farsa.
+*sigh* Look at his icy stare. I was a[n]fool to go along with this charade.
 
 [msg MSG_017 [Theodore]]
-Pero Hermana, 夷no eras una de las m茨s[n]entusiastas para hacerlo?
+But Sister, were you not one of the most[n]enthusiastic to do it...?
 
 [msg MSG_018 [Margaret]]
-...
+......
 
 [msg MSG_019 [Theodore]]
-Lo siento...
+I-I'm sorry...
 
 [msg MSG_020 [Elizabeth]]
-Ahora, 夷no se supone que debes ser el[n]"gracioso"? Velvet... eh...
-夷Velvet Marine? 夷Velvet Aqua?
+Now, now, aren't you supposed to be the[n]"gracious" one? Velvet... uh...
+Velvet Marine? Velvet Aqua?
 
 [msg MSG_021 [Margaret]]
-Velvet Sapphire. T雨 fuiste quien lo[n]sugiri吋. 夷C吋mo pudiste olvidarlo?
+Velvet Sapphire. You were the one who[n]came up with it. How could you forget?
 
 [msg MSG_022 [Justine]]
-Ya estoy tan cansada de esto...
+Already, I am so tired of this...
 
 [msg MSG_023 [Elizabeth]]
-Bueno... 斡En cualquier caso! 斡Este[n]malhechor no se content吋 simplemente[n]trabaj茨ndonos al hueso!
-斡No, fue m茨s all茨! Consider吋 apropiado[n]saquear nuestro escondite de hot dogs.
+Well... In any case! This evildoer[n]wasn't content simply working us to the[n]bone!
+No, he went further! He saw fit to[n]pilfer our hidden stockpile of hot dogs!
 
 [msg MSG_023_1 [Elizabeth]]
-斡El mal debe ser castigado! 夷No es as胤,[n]Caroline?
+Evil must be punished! Is that not so,[n]Caroline?
 
 [msg MSG_024 [Caroline]]
-斡As胤 es! 夷Qu姻, no fue suficiente para[n]huir de la rehabilitaci吋n? 夷Tuviste que[n]hundirte incluso m茨s abajo?
+That's right! What, it wasn't enough to[n]run from rehabilitation!? You had to[n]sink even lower!?
 
 [msg MSG_025 [Margaret]]
-夷Era esta farsa realmente necesaria?
+Was this farce really necessary?
 
 [msg MSG_026 [Theodore]]
-En la sociedad humana, aparentemente es[n]costumbre. Uno no puede herir a los[n]malhechores sin un mon吋logo expositivo.
+In human society, it is apparently[n]custom. One cannot smite evildoers[n]without an expository monologue.
 
 [msg MSG_027 [Caroline]]
-斡Pagar茨s por esos hot dogs que robaste,[n]recluso! 斡Aqu胤 y ahora!
+You'll pay for those hot dogs you stole,[n]Inmate! Right here, right now!
 
 [msg MSG_028 [Elizabeth]]
-斡Ese es el esp胤ritu, Caroline!
-Uno no necesita simplemente seguir el[n]protocolo. Una inversi吋n personal puede[n]ser muy motivadora.
+That's the spirit, Caroline!
+One needn't just go through the motions.[n]A bit of personal investment can be very[n]motivating.
 
 [sel SEL_029 top]
-夷Los procedimientos de qu姻?
-Estoy totalmente perdido.
+The motions of what?
+I'm totally lost here.
 
 [msg MSG_030 [Elizabeth]]
-によ りゎま りゎもまるよ ぽまぼもる まれ りゎま ゅよれ るまょぼよるまれ ぽま[n]ぼよゆもぽぺ らゎまぽまょ れまる ほぺれろぺょろま ぺろまるるぺぽよるまれテ[n]つれらまぼもぺゅゆまょろま ぼゎぺょぽよ まれぼイょもぼよテ
+What I mean to say is that food grudges[n]can be quite terrifying. Especially when[n]hot-dog-centric.
 
 [msg MSG_031 [Margaret]]
-Desde que llegaste aqu胤, has superado[n]numerosas dificultades y crecido m茨s[n]fuerte por ello.
-Esa es una verdad innegable...
+Ever since you arrived here, you have[n]overcome numerous hardships and grown[n]stronger for it.
+That is an undeniable truth...
 
 [msg MSG_032 [Justine]]
-Como tal, su reto final ser茨 luchar[n]contra todos nosotros de inmediato.
+As such, your final challenge will be to[n]battle all of us at once.
 
 [msg MSG_033 [Elizabeth]]
-Esto no es una b雨squeda oficial. Por lo[n]tanto, no hay billete emitido para 姻l.
-Siendo sincera, esta es nuestra petici吋n[n]ego胤sta... una elecci吋n de nuestra[n]propia voluntad no adulterada.
+This is not an official quest. Thus,[n]there is no ticket issued for it.
+If I may be frank, this is our selfish[n]request... a choice of our own[n]unadulterated will.
 
 [msg MSG_034 [Theodore]]
-El poder y los v胤nculos que has[n]ganado... S吋lo pod胤amos preguntarnos:[n]夷c吋mo nos afectar胤an?
-Nada pasa simplemente por casualidad.[n]S吋lo hay inevitabilidades...
+The power and bonds you've gained... We[n]could only wonder: how would they affect[n]us?
+Nothing happens simply by chance. There[n]are only inevitabilities...
 
 [msg MSG_035 [Caroline]]
-En otras palabras, el robo de hot dogs[n]era una parte inevitable de tu[n]rehabilitaci吋n.
+In other words, your hot dog thievery[n]was an inevitable part of your[n]rehabilitation!
 
 [sel SEL_036 top]
-Soy inocente.
-Un momento.
+I'm innocent.
+Hold on a second here.
 
 [msg MSG_037 [Margaret]]
-No necesitamos aclarar cada detalle.[n]Claramente hay varias intenciones en[n]juego aqu胤.
-Y si nuestra presencia es una[n]consecuencia de estos acontecimientos,[n]debemos aprovecharla al m茨ximo.
+We needn't clarify every single detail.[n]Clearly there are several intents at[n]play here.
+And if our presence is a consequence of[n]these happenings, we must make the most[n]of it.
 
 [msg MSG_038 [Elizabeth]]
-As胤 que ves, este calvario es el[n]resultado evidente de tu gran robo de[n]hot dogs.
-Al luchar, quiz茨s podamos resolver el[n]asunto.
+So you see, this ordeal is the clear[n]result of your grand hot dog heist.
+By doing battle, we may be able to[n]resolve the matter.
 
 [msg MSG_039 [Margaret]]
-No te obligaremos. Esto es simplemente[n]una petici吋n nuestra.
-Y no es necesario que ganes, tampoco.[n]Ciertamente, esto va m茨s all茨 de tus[n]habilidades.
-
+We won't force you. This is merely a[n]request from us.
+And you needn't claim total victory,[n]either. Certainly, that seems a bit[n]beyond your abilities.
 
 [msg MSG_040 [Caroline]]
-No te preocupes por perder, Recluso.
-Robar esos hot dogs es un delito[n]capital, pero no te ejecutar胤amos sin el[n]permiso de nuestro maestro.
+Don't worry about losing, Inmate.
+Stealing those hot dogs is a capital[n]offense, but we wouldn't execute you[n]without our master's permission.
 
 [msg MSG_041 [Justine]]
-Dicho esto, el prop吋sito de esta prueba[n]es probar los l胤mites de sus habilidades[n]de combate...
-Si no puedes derrotarnos, simplemente te[n]evaluaremos tu fuerza.
+That said, the purpose of this ordeal is[n]to test the limits of your combat[n]abilities...
+If you cannot defeat us, we will simply[n]give you an appraisal of your strength.
 
 [sel SEL_042 top]
-夷Y si ganamos?
-Crees que no puedes perder.
+And if we win?
+You think you can't lose.
 
 [msg MSG_043 [Theodore]]
-Bueno... en el caso muy improbable de[n]que seamos derrotadas...
-Entonces tendremos m茨s que una[n]felicitaci吋n. Le daremos una[n]felicitaci吋n especial.
-As胤 se hacen las cosas. 夷Es correcto,[n]hermana?
+Well... in the very unlikely event that[n]we are defeated...
+Then we will have more than simple[n]praise for you. We will grant you a[n]special commendation.
+That is the way these things are done.[n]Is that correct, Sister?
 
 [msg MSG_044 [Elizabeth]]
-De hecho.
+Indeed.
 
 [msg MSG_045 [Margaret]]
-Puedes desafiarnos tantas veces como[n]desees. Como tu prueba final, parece[n]justo.
-*risa* Estoy deseando que pase.
+You may challenge us as many times as[n]you wish. As your final ordeal, it seems[n]only fair.
+*chuckle* I'm looking forward to it.
 
 [msg MSG_046 [Caroline]]
-斡De acuerdo, basta de charla!
-El punto es que te estamos castigando[n]por tus cr胤menes. 夷Entendido, Recluso?
+All right, enough chitchat!
+The bottom line is that we're punishing[n]you for your crimes. Got that, Inmate!?
 
 [msg MSG_047 [Elizabeth]]
-Parece que tus malas acciones han dejado[n]a Caroline en un estado de mareo.
+It seems your foul misdeeds have left[n]Caroline in something of a tizzy.
 
 [msg MSG_048 [Theodore]]
-Bueno, ella encontr吋 tanta alegr胤a[n]comiendo esos hot dogs mientras ve胤a las[n]pel胤culas...
+Well, she found such joy in eating those[n]hot dogs as she watched the movies...
 
 [msg MSG_049 [Caroline]]
-斡Arrrgh! 斡C茨llate! Si no vas a empezar[n]esto, 斡entonces yo lo har姻!
-夷Qu姻 tal si los enfrento todos yo sola?
+Arrrgh! Shut up! If you're not gonna get[n]this started, then I will!
+How about I just take them all on[n]myself!?
 
 [msg MSG_050 [Margaret]]
-Mi... Incluso nos est茨 acostando. Esto[n]podr胤a ser muy interesante...
+My my... She's even lashing out at us.[n]This could be very interesting...
 
 [msg MSG_051 [Elizabeth]]
-斡Adelante! Velvet Indigo, Velvet Cobalt!
-斡Haz justicia contra esos viles[n]criminales de las salchichas!
+Go forth! Velvet Indigo, Velvet Cobalt!
+Bring justice upon those vile[n]frankfurter felons!
 
 [msg MSG_052 [Caroline]]
-斡Ahora est茨s hablando! 斡Vamos, Jus,[n]quiero decir, Velvet Indigo!
+Now you're talking! Let's go, Jus― I[n]mean, Velvet Indigo!
 
 [msg MSG_053 [Justine]]
-... De alguna manera sab胤a que esto[n]pasar胤a.
+...Somehow I knew it would come to this.
 
 [msg MSG_053_1 [Justine]]
-Ahora, recluso. 夷Est茨s preparado?
+Now then, Inmate. Are you prepared?
 
 [sel SEL_054 top]
-S胤.
-A雨n no.
+Yeah.
+Not yet.
 
 [msg MSG_055 [Caroline]]
-As胤 que est茨s listo para enfrentar tu[n]castigo, 夷eh? 斡Entonces vamos!
+So you're ready to face your punishment,[n]huh? Then come on!
 
 [msg MSG_056 [Justine]]
-Es importante mantenerse en buena[n]condici吋n... pero para una batalla a[n]petici吋n nuestra, a雨n m茨s.
-T吋mate un tiempo para prepararte.[n]Estaremos esperando, Recluso.
+It is important to keep yourself in good[n]condition... but for a battle of our[n]request, especially so.
+Take some time to prepare. We will be[n]waiting, Inmate.
 
 [msg MSG_057 [Elizabeth]]
-Me alegra verte volver.
+I'm glad to see you return.
 
 [msg MSG_058 [Justine]]
-Ahora, recluso. 夷Est茨s preparado?
+Now then, Inmate. Are you prepared?
 
 [sel SEL_059 top]
-S胤.
-A雨n no.
+Yeah.
+Not yet.
 
 [msg MSG_060_1 [Caroline]]
-As胤 que est茨s listo para enfrentar tu[n]castigo, 夷eh? 斡Entonces vamos!
+So you're ready to face your punishment,[n]huh? Then come on!
 
 [msg MSG_060_2 [Theodore]]
-斡El azul del coraje compasivo! 斡La[n]Marina Velvet!
+The blue of compassionate courage![n]Velvet Navy!
 
 [msg MSG_060_3 [Margaret]]
-El azul de gracia graciosa. Velvet[n]Sapphire.
+The blue of gracious grace. Velvet[n]Sapphire.
 
 [msg MSG_060_4 [Caroline]]
-斡El azul de las tripas y la gloria![n]Velvet Cobalt!
+The blue of guts and glory! Velvet[n]Cobalt!
 
 [msg MSG_060_5 [Justine]]
-... El azul de la calma cuidadosa.[n]Velvet Indigo.
+...Th-The blue of careful calm. Velvet[n]Indigo.
 
 [msg MSG_060_6 [Elizabeth]]
-斡El azul de la justicia jubilante![n]Velvet Blue!
+The blue of jubilant justice! Velvet[n]Blue!
 
 [msg MSG_060_7 [Elizabeth]]
-斡Vamos, Velvet Rangers!
+Let's go, Velvet Rangers!
 
 [msg MSG_061 [Margaret]]
-Es justo. Ser胤a un esfuerzo in雨til[n]luchar contra ti de cualquier forma[n]menos que perfecta.
+Fair enough. It would be a pointless[n]endeavor to fight you in anything less[n]than perfect form.
 
 [msg MSG_062 [Elizabeth]]
-*risa* Si deseas otro intento de nuestra[n]gloriosa batalla, eres bienvenido en[n]cualquier momento.
+*chuckle* Should you wish another[n]attempt at our glorious battle, you are[n]welcome anytime.
 
 [msg MSG_063 [Justine]]
-Deber胤as saber que la 雨ltima vez fue[n]simplemente una casualidad. Entonces,[n]Inmate... 夷Est茨s preparado?
+You should know last time was merely a[n]fluke. So then, Inmate... Are you[n]prepared?
 
 [sel SEL_064 top]
-Estoy listo.
-A雨n no.
+We're ready.
+Not yet.
 
 [msg MSG_065 [Caroline]]
-斡Hmph! 斡No te tomar姻 m茨s en serio!
+Hmph! No more going easy on you!
 
 [msg MSG_066 [Theodore]]
-Ya veo. Incluso habiendo ganado antes,[n]no bajas la guardia... Por favor,[n]prep茨rate como debes.
+I see. Even having won before, you still[n]won't let your guard down... Please,[n]prepare as you must.
 

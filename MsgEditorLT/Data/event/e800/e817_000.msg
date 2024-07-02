@@ -1,62 +1,62 @@
 [msg MSG_000 [Junpei]]
-Estoy vencido.
+Ugh, I'm beat.
 
 [msg MSG_000_1 [Junpei]]
-Es un callej吋n sin salida, as胤 que[n]podemos tomar un peque隠o descanso antes[n]de regresar, 夷verdad?
+It's a dead end, so we can take a little[n]break before heading back, right?
 
 [sel SEL_001 top]
-Claro, tomemos un descanso.
-Si es necesario.
-Empieza a correr.
+Sure, let's take a break.
+If you must.
+Start running.
 
 [msg MSG_002 [Junpei]]
-斡S胤, me sientes!
+Aw yeah, you feel me!
 
 [msg MSG_002_1 [Junpei]]
-Apuesto a que alguien tan amable como t雨[n]es un verdadero 姻xito con las damas. O[n]tal vez ya est姻s estable con alguien...
+I bet someone as kindhearted as you's a real[n]hit with the ladies. Or maybe you're already[n]goin' steady with someone...
 
 [msg MSG_003 [Junpei]]
-斡Eres un esclavista! 斡Eso no te har茨[n]popular con las damas!
+You're a slavedriver, man! That won't[n]get you popular with the ladies!
 
 [msg MSG_003_1 [Junpei]]
-Hablando de eso, 夷qu姻 tal si te doy[n]algunos punteros?
+Speaking of which, how 'bout I give you[n]some pointers...?
 
 [msg MSG_004 [Mitsuru]]
-斡Iori!
+Iori!
 
 [msg MSG_005 [Junpei]]
-夷S胤?
+Y-Yes!?
 
 [msg MSG_006 [Mitsuru]]
-Si tienes tiempo para charlar, entonces[n]claramente tienes energ胤a que ahorrar.
+If you've got time to chatter, then[n]you've clearly got energy to spare.
 
 [msg MSG_006_1 [Mitsuru]]
-斡As胤 que menos hablando, m茨s caminando![n]斡Vamos!
+So less talking, more walking! Let's go!
 
 [msg MSG_007 [Junpei]]
-S胤, se隠ora...
+Yes, ma'am...
 
 [msg MSG_008 [Mitsuru]]
-Sinceramente...
+Honestly...
 
 [msg MSG_009 [Makoto]]
-夷Est茨s bien?
+Are you okay?
 
 [msg MSG_010 [Mitsuru]]
-Mis disculpas por el desembolso; es s吋lo[n]mi negligencia como l胤der.
+Oh, my apologies for the outburst; it's[n]just my negligence as a leader.
 
 [msg MSG_010_1 [Mitsuru]]
-No es una mala persona en el coraz吋n,[n]pero es demasiado descuidado. O tal vez[n]no sabe cu茨ndo ponerse serio...
+He's not a bad person at heart, but he's[n]too carefree. Or maybe he just doesn't[n]know when to get serious...
 
 [msg MSG_011 [Makoto]]
-Los problemas nunca parecen terminar[n]para nosotros los miembros del grupo[n]mayor.
+The troubles never seem to end for us[n]older group members.
 
 [msg MSG_012 [Mitsuru]]
-Ah, cierto, t雨 tambi姻n eres un tercer[n]a隠o. Me encantar胤a charlar contigo en[n]alg雨n momento...
+Ah, right, you're a third-year as well.[n]I'd love to chat with you at some[n]point...
 
 [msg MSG_012_1 [Mitsuru]]
-Pero no quiero ser hip吋crita. Deber胤amos[n]irnos por ahora.
+But I don't want to be a hypocrite. We[n]should get going for now.
 
 [msg MSG_013]
-Se ha a隠adido a la taquilla una nueva[n]selecci吋n especial: "Aquellos que est茨n[n]en la parte superior".
+A new special screening: "Those Who[n]Stand at the Top" has been added to the[n]box office.
 

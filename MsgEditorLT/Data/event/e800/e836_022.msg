@@ -1,15 +1,15 @@
 [msg MSG_000 [Ryuji]]
-斡Muy bien! 斡Tanto para ese tonto FOE!
+All right! So much for that dumbass FOE!
 
 [msg MSG_001 [Yukari]]
-Huh. Supongo que podemos permitirnos[n]hacer esto a nuestro propio ritmo...
+Huh. I guess we can afford to do this at[n]our own pace...
 
 [msg MSG_002 [Yukari]]
-Espera, 夷qu姻?
+Wait, what!?
 
 [msg MSG_003 [Futaba]]
-斡Ten cuidado! 斡Tenemos otro FOE!
+Be careful! We got another FOE!
 
 [msg MSG_004 [Morgana]]
-Parece que pidieron refuerzos... Deber胤a[n]haber sabido que no ser胤a tan f茨cil.
+Looks like they called for backup...[n]Should've known it wouldn't be that[n]easy.
 

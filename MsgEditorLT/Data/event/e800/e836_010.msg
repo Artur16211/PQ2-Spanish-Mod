@@ -1,52 +1,52 @@
 [msg MSG_000 [Elizabeth]]
-La solicitud esta vez es "recoger partes[n]para un dispositivo de comunicaci吋n"
-Derrotar la Torreta Roaring dentro de la[n]pel胤cula A.I.G.I.S., y...
-Reunir tres Gizmos futuristas de sus[n]restos.
+The request this time is to "gather[n]parts for a communication device."
+Defeat the Roaring Turret within the[n]A.I.G.I.S. movie, and...
+Gather three Futuristic Gizmos from its[n]remains.
 
 [msg MSG_001 [Ryuji]]
-夷Esto es para alg雨n "dispositivo de[n]comunicaci吋n"? 夷Qu姻 quieres decir?
+This is for some "communication device"?[n]The hell's that supposed to mean?
 
 [msg MSG_002 [Elizabeth]]
-Esta solicitud viene espec胤ficamente de[n]las tres naves de su equipo.
+This request specifically comes from the[n]three navigatrices of your team.
 
 [msg MSG_003 [P4 Hero]]
-Navigatrices...? 夷Te refieres a Rise y[n]los otros?
+Navigatrices...? You mean Rise and the[n]others?
 
 [msg MSG_004 [Rise]]
-斡S胤! Entonces, la cosa es...
+Yeah! So, the thing is...
 
 [msg MSG_005 [Mitsuru]]
-Eso es familiar. 夷Un dispositivo de[n]comunicaci吋n que aumentar茨 sus[n]habilidades de navegaci吋n...?
+That's familiar. A communication device[n]that'll increase your navigational[n]abilities...?
 
 [msg MSG_006 [Fuuka]]
-Cierto. No queremos preguntar lo[n]imposible, as胤 que... 夷Qu姻 piensan[n]todos?
+Right. We don't want to ask the[n]impossible, so... What do you all think?
 
 [msg MSG_007 [Ryuji]]
-夷Qu姻 te parece?
+What do ya think, [f 6 1 30 0 0 0]?
 
 [sel SEL_008 top]
-Estamos en ello.
-Suena duro.
+We're on it.
+Sounds kind of hard.
 
 [msg MSG_009 [Ryuji]]
-斡S胤! 斡Hag茨moslo!
+Yeah! Let's do this!
 
 [msg MSG_010 [Ryuji]]
-Aw, hombre... Al menos podemos[n]intentarlo, 夷verdad?
-Si podemos sacar esto, tambi姻n har茨 las[n]batallas m茨s f茨ciles, 夷no crees?
+Aw, man... We can at least try, right?
+If we can pull this off, it'll make[n]battles easier too, dontcha think?
 
 [msg MSG_011 [Mitsuru]]
-De hecho. Parece una buena persecuci吋n,[n]por las ventajas pr茨cticas, si nada m茨s.
+Indeed. It seems like a fine pursuit―[n]for the practical advantages, if nothing[n]else.
 
 [msg MSG_012 [Futaba]]
-夷En serio? 夷Lo aceptar茨n?
+Really!? You guys'll take it?
 
 [msg MSG_013 [Chie]]
-斡Por supuesto! 斡Aunque no fuera a[n]hacernos m茨s fuertes, es una petici吋n de[n]nuestros amigos!
+Of course! Even if it wasn't gonna make[n]us stronger, it's a request from our[n]friends!
 
 [msg MSG_014 [Yusuke]]
-Estoy de acuerdo. Parece poco sentido[n]negar la solicitud. Yo ayudar姻.
+I agree. There seems little sense in[n]denying the request. I shall help.
 
 [msg MSG_015 [Rise]]
-斡Muchas gracias a todos! Cuento con[n]ustedes!
+Thanks so much, everyone! I'm counting[n]on you guys!
 

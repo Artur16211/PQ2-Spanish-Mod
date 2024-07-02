@@ -1,173 +1,173 @@
 [msg MSG_000 [Morgana]]
-Esto es...
+This is it...
 
 [msg MSG_001 [Ann]]
-No veo nada aqu胤, pero...
+I don't really see anything here,[n]though...
 
 [msg MSG_002 [Futaba]]
-S胤. No ayuda que ni siquiera sepamos[n]c吋mo es el tesoro.
-Tal vez echar un vistazo por ah胤. Debe[n]haber algo que se ajuste a la cuenta.
+Yeah. It doesn't help that we don't even[n]know what the treasure looks like.
+Maybe take a look around over there.[n]There should be something that fits the[n]bill.
 
 [msg MSG_003 [Yukari]]
-No creo que esto se ajuste a ning雨n[n]proyecto de ley...
+I don't think any of this fits any[n]bill...
 
 [msg MSG_004 [Junpei]]
-Palabra... Son s吋lo un mont吋n de[n]plantas...
+Word... It's just a buncha plants...
 
 [msg MSG_005 [Teddie]]
-斡WOOOAH! 斡Ah胤 est茨! 斡Est茨 aqu胤! 斡Y lo[n]encontr姻 primero!
+WOOOAH! There it is! It's here! And I[n]found it first!
 
 [msg MSG_006 [Morgana]]
-夷Qu姻?
+What!?
 
 [msg MSG_007 [Teddie]]
-斡S胤, esto es! 斡Es hermoso, atractivo y[n]har胤a un gran regalo!
-Aqu胤 est茨n, se隠oritas. 斡De m胤 a ti!
+Yes, this is it! It's beautiful,[n]alluring and would make a great gift!
+Here you are, ladies. From me to you!
 
 [msg MSG_008 [Ann]]
-Um... No llamar胤a a esta hermosa...
+Um... I wouldn't call this beautiful...
 
 [msg MSG_009 [Yukari]]
-Lo siento, pero... S胤, de ninguna[n]manera.
+Sorry, but... Yeah, no way.
 
 [msg MSG_010 [Yukiko]]
-Pon eso donde lo encontraste ahora[n]mismo, Teddie.
+Put that back where you found it right[n]now, Teddie.
 
 [msg MSG_011 [Teddie]]
-Wh-夷Qu姻? What could possibly be wrong[n]with this perfectly fine golden[n]rhinoceros beetle?!
+Wh-What!? What could possibly be wrong[n]with this perfectly fine golden[n]rhinoceros beetle!?
 
 [sel SEL_012 top]
-Los errores no son buenos.
-Lo tomar姻.
-Creo que s吋lo te gusta.
+Bugs are no good.
+I'll take it.
+I think only you like it.
 
 [msg MSG_013 [Mitsuru]]
-La mayor胤a de las personas, hombres y[n]mujeres por igual, mantienen un[n]desprecio compartido por los insectos.
-El sentido com雨n dicta que no son los[n]regalos m茨s adecuados.
+Most people, men and women alike, hold a[n]shared disdain for insects.
+Common sense dictates that they're not[n]the most suitable gifts.
 
 [msg MSG_014 [Yusuke]]
-Estoy de acuerdo. Una criatura de tama隠o[n]y color como este es absolutamente[n]notable.
+I agree. A creature of both size and[n]color such as this is absolutely[n]remarkable.
 
 [msg MSG_015 [Mitsuru]]
-Claro, pero el sentido com雨n dicta que[n]no son los regalos m茨s adecuados.
+Sure, but common sense dictates that[n]they're not the most suitable gifts.
 
 [msg MSG_016 [Mitsuru]]
-Cierto. Usted podr胤a verlo como un buen[n]regalo, pero no mucha gente estar胤a[n]feliz de recibir esto.
+Right. You might view it as a good gift,[n]but not many people would be happy to[n]receive this.
 
 [msg MSG_017 [Yosuke]]
-Definitivamente no es lo que estamos[n]buscando.
+It's definitely not what we're looking[n]for.
 
 [msg MSG_018 [Teddie]]
-Nooo... No puede ser...
+Nooo... It can't be...
 
 [msg MSG_019 [Morgana]]
-斡Lo encontr姻!
-Algo tan hermoso y tan colorido como[n]esto es seguro ganar el coraz吋n de[n]cualquier chica.
-No s吋lo eso, pero, como un bono a隠adido,[n]tambi姻n es comestible. Es un regalo[n]que..
+Found it!
+Something as beautiful and as colorful[n]as this is sure to win the heart of any[n]girl.
+Not only that, but, as an added bonus,[n]it's edible too. It's a gift that―
 
 [msg MSG_020 [Futaba]]
-S胤, s胤, ens姻隠anos ya.
+Yeah, yeah, just show us already.
 
 [msg MSG_021 [Morgana]]
-斡Saca tus ojos... esto!
+Feast your eyes on... this!
 
 [msg MSG_021_02 [Morgana]]
-Tengo un buen ojo para la belleza, 夷no[n]crees?
+I've got a pretty good eye for beauty,[n]don't you think?
 
 [sel SEL_022 top]
-夷Eso es hermoso?
-Parece venenoso.
-Devuelve eso.
+That's beautiful?
+Looks poisonous.
+Put that back.
 
 [msg MSG_023 [Morgana]]
-斡Por supuesto que es hermoso! 夷Verdad,[n]se隠oritas?
+Of course it's beautiful! Right,[n]ladies!?
 
 [msg MSG_024 [Makoto]]
-...
+......
 
 [msg MSG_025 [Haru]]
-...
+......
 
 [msg MSG_026 [Futaba]]
-S胤, ese color me grita "peligroso".
+Yeah, that color screams "dangerous" to[n]me.
 
 [msg MSG_027 [Fuuka]]
-Una vez vi una rana que parec胤a as胤 en[n]un libro. Creo que fue extremadamente[n]venenoso...
+I saw a frog that looked like this in a[n]book once. I believe it was extremely[n]poisonous...
 
 [msg MSG_028 [Morgana]]
-斡Pero esto no es una rana venenosa!
+B-But this isn't a poisonous frog!
 
 [msg MSG_029 [Morgana]]
-夷Por qu姻?
+Why!?
 
 [msg MSG_030 [Naoto]]
-Este color... Por alguna raz吋n, env胤a[n]shivers a mi columna...
+This color... For some reason, it sends[n]shivers up my spine...
 
 [msg MSG_031 [Yukari]]
 ...Gross.
 
 [msg MSG_032 [Morgana]]
-夷Ni siquiera se ve bien?
+It doesn't even LOOK nice!?
 
 [msg MSG_033 [Aigis]]
-Esc茨ner completo. Detecto compuestos[n]t吋xicos en una concentraci吋n muy[n]superior al umbral letal.
+Scan complete. I detect toxic compounds[n]in a concentration far exceeding the[n]lethal threshold.
 
 [msg MSG_034 [Morgana]]
 Urrrrrrgh...!
 
 [msg MSG_035 [Ann]]
-Nunca vamos a encontrar esta cosa...
+We're never gonna find this thing...
 
 [msg MSG_036 [Koromaru]]
-斡Barco, corteza!
+Bark, bark!
 
 [msg MSG_037 [Chie]]
-夷Hm? 夷Hay algo en los arbustos?
+Hm? Is there something in the bushes?
 
 [msg MSG_038 [Koromaru]]
 Awooo.
 
 [msg MSG_039 [Yusuke]]
-Esto es hermoso...
+Oho... Now, this is beautiful...
 
 [msg MSG_040 [Haru]]
-Y huele maravilloso...
+Oh, and it smells wonderful...
 
 [msg MSG_041 [Fuuka]]
-Nunca hab胤a visto este tipo de flor[n]antes. Incluso podr胤a ser una nueva[n]especie.
+I've never seen this type of flower[n]before. It might even be a new species.
 
 [msg MSG_042 [Teddie]]
-B-b-Pero es s吋lo una flor. Eso no cuenta[n]como un tesoro...
+B-B-But it's just a flower. That doesn't[n]count as a treasure...
 
 [msg MSG_043 [Morgana]]
-S胤, es verdad. Puede que no sea eso...
+Y-Yeah, that's true. That might not be[n]it...
 
 [msg MSG_044 [Yosuke]]
-Dice que los tipos que escogieron un[n]bicho y una fruta venenosa...
+Says the guys that picked a bug and a[n]poisonous fruit...
 
 [msg MSG_045 [Naoto]]
-夷Hm? Hay algo enterrado aqu胤.
-Es una especie de placa; parece que hay[n]algo grabado en ella...
-"Te ofrezco esta flor, mi amor."
+Hm? There's something buried here.
+It's some kind of plaque; it looks like[n]there's something etched into it...
+"I offer this flower to you, my love."
 
 [msg MSG_046 [Mitsuru]]
-Ya veo. As胤 que el investigador puso[n]todos sus sentimientos en esta sola[n]flor.
-No hay duda de que este es el tesoro que[n]dej吋 atr茨s.
+I see. So the researcher placed all of[n]his feelings into this single flower.
+There's no doubt this is the treasure he[n]left behind.
 
 [sel SEL_047 top]
-Supongo que tenemos a nuestro ganador.
-Bien hecho, Koromaru.
+Guess we have our winner.
+Well done, Koromaru.
 
 [msg MSG_048 [Koromaru]]
-斡Awooo!
+Awooo!
 
 [msg MSG_049 [Teddie]]
-斡Grraaaahhh...!
+Grraaaaahhh...!
 
 [msg MSG_050 [Morgana]]
 Mrowwwww...!
 
 [msg MSG_051 [Futaba]]
-De acuerdo, no te preocupes por esos dos[n]llorones...
-斡Vuelvan todos!
+Okay, never mind those two crybabies...
+Come on back, everyone!
 

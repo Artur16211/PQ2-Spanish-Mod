@@ -1,9 +1,9 @@
 [msg MSG_000 [Futaba]]
-斡Tengo dos lecturas de FOE! Como[n]dijeron.
+I've got two FOE readings! Just like[n]they said.
 
 [msg MSG_001 [Ryuji]]
-De acuerdo, nada de pensar en ello.[n]斡Empezamos con uno y luego clavamos el[n]otro!
+All right, no use thinkin' about it. We[n]start with one then nail the other!
 
 [msg MSG_002 [Futaba]]
-Depende de ti a quien golpeemos primero.[n]Aseg雨rese de mantener un ojo en el mapa[n]al escoger sus peleas!
+It's up to you which one we hit first.[n]Be sure to keep an eye on the map when[n]picking your fights!
 

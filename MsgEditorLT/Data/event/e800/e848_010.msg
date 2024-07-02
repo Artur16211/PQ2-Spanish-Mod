@@ -1,59 +1,59 @@
 [msg MSG_000 [Elizabeth]]
-Estas proyecciones especiales han sido[n]una obra maestra tras otra...
+These special screenings have been one[n]masterpiece after another...
 
 [msg MSG_000_1 [Elizabeth]]
-Mientras me siento y observo tus[n]haza隠as, he estado consumiendo palomitas[n]a velocidades cercanas.
+As I sit and observe your exploits, I[n]have been consuming popcorn at near-mach[n]speeds.
 
 [msg MSG_001 [Haru]]
-*Grecha* Bueno, supongo que hemos[n]completado un n雨mero justo de ellos.
+*giggle* Well, I suppose we have[n]completed a fair number of them.
 
 [msg MSG_002 [Elizabeth]]
-斡Y ahora, ha llegado el momento de una[n]proyecci吋n muy especial!
+And now, the time has come once more for[n]a very special screening!
 
 [msg MSG_003 [Yusuke]]
-Ah, entonces... otra tarea que requiere[n]un yeso espec胤fico.
+Ah, then... another task that calls for[n]a specific cast.
 
 [msg MSG_004 [Elizabeth]]
-S胤. Exacto.
-Parecer胤a que un nuevo enemigo vicioso[n]ha surgido en las profundidades de la[n]Tierra de Junessic...
-Tu tarea ser茨 matar a esta Sombra.
+Yes. Exactly correct.
+It would seem a vicious new enemy has[n]emerged in the depths of Junessic[n]Land...
+Your task will be to slay this Shadow.
 
 [sel SEL_005 top]
-夷Otra vez?
-Ya era hora.
+Again?
+About time.
 
 [msg MSG_006 [Elizabeth]]
-Nunca imagin姻 que reaccionar胤as tan[n]gru隠吋n. Espero que esta expresi吋n agria[n]obtenga resultados dulces.
+My, I never imagined you would react so[n]grumpily. I hope this sour expression[n]begets sweet results.
 
 [msg MSG_007 [Futaba]]
-Hombre, esta se隠ora no aceptar茨 un no[n]por respuesta.
+Man, this lady won't take no for an[n]answer.
 
 [msg MSG_008 [Elizabeth]]
-Aprecio su paciencia. De hecho, he[n]estado esperando esto yo mismo.
+I do appreciate your patience. Indeed,[n]I've been looking forward to this[n]myself.
 
 [msg MSG_009 [Makoto]]
-Entonces, 夷tiene que luchar contra esto[n]tambi姻n?
+So, does [f 6 1 29 0 0 0]-kun have to fight this[n]one too?
 
 [msg MSG_010 [Elizabeth]]
-Absolutamente, innegable, exactamente[n]equivocado.
+Absolutely, undeniably, exactly wrong.
 
 [msg MSG_010_1 [Elizabeth]]
-He aqu胤, el boleto para este espect茨culo[n]dice: "Cast: [f 6 1 13 0 0 0]."
+Lo and behold, the ticket for this[n]showing reads: "Cast: [f 6 1 13 0 0 0]."
 
 [msg MSG_011 [P4 Hero]]
-Yo...?
+Me...?
 
 [msg MSG_012 [Elizabeth]]
-Le pido que asegure que [f 6 1 13 0 0 0] participe[n]en esta batalla.
+I ask that you ensure participates in[n]this battle.
 
 [msg MSG_013 [P4 Hero]]
-De acuerdo. Har姻 lo que pueda.
+All right. I'll do what I can.
 
 [msg MSG_014 [Makoto]]
-夷Y una vez que ganamos contra esta[n]Sombra? 夷Vamos a pelear contra Theodore[n]otra vez?
+And once we win against this Shadow?[n]Will we be fighting Theodore again?
 
 [msg MSG_015 [Elizabeth]]
-ちゎまょよデ ょよ らゎぽま ぺるるゎもょぺる ゅぺ れよるらるまれぺ まれらまるぺょぽよ[n]ぽまろるァれ ぽま ゅぺ らゎまるろぺ らるよわまるほもぺゅ ょグゆまるよ ぽよれテ はよる[n]みぺわよるデ ゎれぺ ろゎ もゆぺむもょぺぼもカょテ
-Primero, por favor, conc姻ntrese en traer[n]su fuerza para soportar a este enemigo[n]mortal.
-Buena suerte a todos.
+Well, I couldn't ruin the surprise[n]waiting behind the proverbial door[n]number two. Please use your imagination.
+First, please focus on bringing your[n]strength to bear against this deadly[n]foe.
+Good luck to you all.
 

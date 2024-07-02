@@ -1,15 +1,15 @@
 [msg MSG_000]
-La m雨sica desapareci吋 de la caja de[n]m雨sica...
+The music disappeared from the music[n]box...
 
 [msg MSG_001 [Fuuka]]
-Oh no... la m雨sica...
+Oh no... the music...
 
 [msg MSG_002 [Morgana]]
-Oye... 夷No nos advirti吋 que no usemos un[n]Goho-M?
+Hey... Didn't she warn us not to use a[n]Goho-M?
 
 [msg MSG_003 [P3 Fem Protag]]
-Qu姻 verguenza. Supongo que deber胤amos[n]regresar y conseguir la m雨sica de[n]nuevo...
+Aw, that's a shame. Guess we should head[n]back and get the music again...
 
 [msg MSG_004 [Morgana]]
-Tienes 46 pasos, y no puedes usar un[n]Goho-M. 斡No te olvides esta vez!
+You've got 46 steps, and you can't use a[n]Goho-M. Don't forget this time!
 

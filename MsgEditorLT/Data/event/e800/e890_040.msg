@@ -1,22 +1,22 @@
 [msg MSG_000 [Elizabeth]]
-Ya veo.
+I see.
 
 [msg MSG_000_1 [Elizabeth]]
-Bueno, por favor, ven a la Habitaci吋n[n]Terciopelo, como est茨 escrito en el[n]aviso.
-All胤 te explicar姻 todo.
+Well then, please come to the Velvet[n]Room, as written on the calling card.
+I shall explain everything there.
 
 [msg MSG_001 [Ryuji]]
-Entonces, 夷qu姻 pasa con este aviso?
+So, what's up with this calling card?
 
 [msg MSG_002 [Elizabeth]]
-Eso tambi姻n se explicar茨.
+That will be explained as well.
 
 [msg MSG_003 [Morgana]]
-Bueno, supongo que debemos ir a la[n]Habitaci吋n Terciopelo.
+Okay, I guess we'll head to the Velvet[n]Room.
 
 [msg MSG_010 [Elizabeth]]
-Bien, como sugiere el aviso, por favor[n]ven a la Habitaci吋n Terciopelo.
+Well, as the calling card suggests,[n]please come to the Velvet Room.
 
 [msg MSG_011 [Elizabeth]]
-Entiendo. Por favor, ven a la Habitaci吋n[n]Terciopelo.
+I understand. Well then, please come to[n]the Velvet Room.
 

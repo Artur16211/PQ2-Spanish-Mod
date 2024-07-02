@@ -1,16 +1,16 @@
 [msg MSG_000 [Koromaru]]
-斡Bark!
+Bark!
 
 [msg MSG_001 [P3 Fem Protag]]
-Oh, 夷es esto lo que buscamos? El... 夷qu姻[n]cosa de Chamacallit?
+Oh, is this what we're looking for? The,[n]uh... whatchamacallit thingy?
 
 [msg MSG_002 [Junpei]]
-夷No crees que es algo importante saber[n]el nombre de lo que buscamos?
+Don't you think it's kinda important to[n]know the name of the thing we're looking[n]for!?
 
 [msg MSG_003 [Aigis]]
-Se llama conductor de motor, y, s胤, esto[n]parece ser lo que est茨bamos buscando.
-No parece ser da隠ado. Todo lo que queda[n]es llevar esto al robot en necesidad y[n]podemos comenzar las reparaciones.
+It is called a motor driver, and, yes,[n]this does seem to be what we were[n]searching for.
+It doesn't appear to be damaged. All that is[n]left is to take this to the robot in need and[n]we can begin the repairs.
 
 [msg MSG_004 [Ken]]
-斡Es una gran noticia! Volvamos[n]enseguida!
+That's great news! Let's head back right[n]away!
 

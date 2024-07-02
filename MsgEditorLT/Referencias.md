@@ -109,6 +109,7 @@
 | suspend data           | Guardado rápido/ Suspender (TEX)                |         
 | Ribbon                 | Ribbon                        |                                  |
 
+| **Traducción Oficial P5R/P4G/P3P/P3R** |
 | EN       | ES           |          |        |       |
 |----------|--------------|----------|--------|-------|
 | chuckle  | risita       |          |        |       |
@@ -156,3 +157,51 @@
 | Eeeek!   | 斡Ay!        |          |        |       |
 | Eeek!    | 斡Ayyy!      |          |        |       |
 | Eek!     | 斡Ay!        |          |        |       |
+
+| **1** ################## | ################ | ######## |
+|------------------------|-------------------------|
+| resistance barrier     | barrera de resistencia  |
+| special Shadow         | Sombra especial         |
+| Overseer               | Supervisor              |
+| Kamo City              | Kamo Ciudad             |
+| Yosukesaurus           | Yosukesaurio            |
+| Loud herbivore         | Herbívoro Enorme        |
+| Nervous herbivore      | Herbívoro Inquieto      |
+| Sulky herbivore        | Herbívoro Malhumorado   |
+| Timid herbivore        | Herbívoro Tímido        |
+| Mother Computer        | Madre Computadora       |
+| Enlil                  | Enlil                   |
+| Hikari's Cheerhas      | Ánimos de Hikari        |
+| Link Boost             |                         |
+| Team Convert           |                         |
+| Quick Convert          |                         |
+| Rare Shadows           | Sombras Raras           |
+| Shadow Swarm           | Horda de Sombras        |
+| fire module            | módulo de fuego         |
+| ice module             | módulo de hielo         |
+| volt module            | módulo eléctrico        |
+| Savior's Tentacle      | Tentáculo del Salvador  |
+| Runic Guidance         | Guía Rúnica             |
+| Heavenbringer          | Portador del Cielo      |
+| Warped Savior          | Salvador Deforme        |
+| Abyssal King           | Rey Abismal             |
+| Olympia                | Olimpia                 |
+| Gatekeeper             | Guardián de la Puerta   |
+| Pierce                 | Perforación             |
+| Blood Surge            | Blood Surge             |
+| Burst Gauge            | Medidor de Poder        |
+| drive blade            | Mecanismo               |
+| Stab attacks           | Perforación             |
+| Bash attacks           | Golpes                  |
+| Death Counter          | Contador Mortal         |
+| Death Chaser           | Repercusor Mortal       |
+| Eldritch Eye           | Ojo Arcano              |
+| Barrage Eye            | Ojo de Barrera          |
+| Blight Eye             | Ojo de Plaga            |
+| Auto Recovery          | Recuperación Automática |
+| Homunculus             | homúnculo               |
+| Scapegoat              | Chivo Expiatorio        |
+| Bracer of Might        | Brazalete de Poder      |
+| Sacrificial Idol       | Ídolo Sacrificial       |
+| Taunt Counter          | Contador de burlas      |
+| item storage           | almacén de objetos      | 

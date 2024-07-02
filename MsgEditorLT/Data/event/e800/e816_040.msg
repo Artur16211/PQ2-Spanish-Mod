@@ -1,47 +1,47 @@
 [msg MSG_000 [Yusuke]]
-Bueno ahora, dir胤a que estamos mucho m茨s[n]cerca del contenedor que antes.
+Well now, I'd say we're much closer to[n]the container than before.
 
 [msg MSG_001 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_002 [Yusuke]]
-Haha, 夷qu姻 pasa? Esos ojos brillantes me[n]dicen que quieres algo.
+Haha, what is it? Those sparkly eyes[n]tell me you want something.
 
 [msg MSG_003 [Koromaru]]
-斡Arf, Arf!
+Arf, arf!
 
 [msg MSG_004 [Ken]]
-Creo que quiere que juegues con 姻l, Fox.
+I think he wants you to play with him,[n]Fox.
 
 [msg MSG_005 [Futaba]]
-Bien por ti, Fox. Estoy seguro de que se[n]llevar茨n bien.
+Ohh, good for you, Fox. I'm sure you[n]two'll get along great.
 
 [msg MSG_006 [Fuuka]]
-Parece que Koro est茨 interesado en la[n]cola de Fox.
-Es asqueroso, despu姻s de todo. Tal vez[n]姻l piensa que eres como 姻l.
+It looks like Koro-chan's interested in[n]Fox's tail.
+It is fluffy, after all. Maybe he thinks[n]you're like him.
 
 [msg MSG_007 [Koromaru]]
-斡Arf, Arf!
+Arf, arf!
 
 [msg MSG_008 [Yusuke]]
-Ahora que te miro, eres bastante linda.
-Sin duda se siente diferente jugando con[n]un perro. He crecido un poco[n]acostumbrado a los gatos 雨ltimamente.
+Now that I look at you, you are rather[n]cute.
+It certainly feels different playing[n]with a dog. I've grown somewhat[n]accustomed to cats lately.
 
 [msg MSG_009 [Morgana]]
-夷Qu姻 quieres decir con "algo"? 斡Adem茨s,[n]no soy un gato!
+What do you mean "somewhat"!? Also, I'm[n]not a cat!
 
 [msg MSG_010 [Futaba]]
-La broma es b茨sicamente una tradici吋n en[n]este punto...
+The joke's basically a tradition at this[n]point...
 
 [msg MSG_011 [Naoto]]
-Me gustan los gatos...
-No s吋lo son lindos, sino que tambi姻n[n]tienen un aire de nobleza sobre ellos.
+I like cats...
+Not only are they cute, but they also[n]have an air of nobility about them.
 
 [msg MSG_012 [Morgana]]
-Mira, Naoto lo entiende. Puedes tocar mi[n]pata si quieres.
-... 斡Pero no soy un gato!
+See, Naoto gets it. You may touch my paw[n]if you like.
+...I'm not a cat, though!
 
 [msg MSG_013 [Fuuka]]
-No quiero arruinar la diversi吋n, pero[n]probablemente deber胤amos irnos.
-El contenedor est茨 justo por delante.[n]Ten cuidado.
+Um, I don't mean to spoil the fun, but[n]we should probably get going.
+The container is just up ahead. Be[n]careful, everyone.
 

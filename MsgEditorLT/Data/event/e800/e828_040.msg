@@ -1,34 +1,34 @@
 [msg MSG_000 [Koromaru]]
-斡Arf, Arf!
+Arf, arf!
 
 [msg MSG_001 [Aigis]]
-Dice que es peligroso continuar recto y[n]que ser胤a m茨s seguro girar a la[n]izquierda.
+He says it is dangerous to continue[n]straight and that it would be safer to[n]turn left.
 
 [msg MSG_002 [Ryuji]]
-夷畏l sabe todo eso? 斡Hombre, los perros[n]son geniales!
+Yo, he knows all that? Man, dogs are so[n]cool!
 
 [msg MSG_003 [Fuuka]]
-S胤, Koro es correcto.
-Parece que te encontraras con un FOE si[n]vas directo.
-Estoy viendo algunos cofres de tesoro de[n]esa manera... aunque parece un poco[n]peligroso.
+Yes, Koro-chan is correct.
+It looks like you'll run into an FOE if[n]you go straight.
+I am seeing some treasure chests that[n]way... though it looks a bit dangerous.
 
 [msg MSG_004 [Morgana]]
-夷Tesoro?
-El Fantasma 斡Los ladrones no pueden[n]mirar a ciegas cuando hay un tesoro que[n]tener!
+Treasure!?
+The Phantom Thieves can't just turn a[n]blind eye when there's treasure to be[n]had!
 
 [msg MSG_005 [Ken]]
-Pero tambi姻n hay un FOE. Si nos[n]dirigimos a la izquierda, estaremos en[n]el claro... 夷Qu姻 hacemos?
+But there's an FOE too. If we head left,[n]we'll be in the clear... What do we do?
 
 [sel SEL_006 top]
-Vamos a la izquierda.
-Vamos directo.
+Let's go left.
+Let's go straight.
 
 [msg MSG_007 [P3 Fem Protag]]
-Entonces vamos a evitar el FOE? 斡Est茨[n]bien!
+So we're gonna avoid the FOE? Okay!
 
 [msg MSG_008 [Morgana]]
-斡Ese es el esp胤ritu, Joker! 斡No vamos a[n]dejar atr茨s ese tesoro!
+That's the spirit, Joker! We're not[n]gonna leave that treasure behind!
 
 [msg MSG_009 [Aigis]]
-Entendido. Cumpliremos las 吋rdenes del[n]l胤der.
+Understood. We will comply with the[n]leader's orders.
 

@@ -5,70 +5,70 @@ Dummy
 No podemos perder.
 
 [msg BTL_MES_020_002]
-＜声のみ＞ここは引けないな。
+＜声Of＞ここP引けKいK。
 
 [msg BTL_MES_020_003]
 Un FOE...
 
 [msg BTL_MES_020_004]
-＜声のみ＞まずいな…
+＜声Of＞eずいK…
 
 [msg BTL_MES_020_005]
-夷Realmente podemos hacerlo?
+夷Realmente podemos con esto?
 
 [msg BTL_MES_020_006]
-Uno raro...
+Una rara...
 
 [msg BTL_MES_020_007]
-＜声のみ＞いくぞ！
+＜声Of＞いくぞ！
 
 [msg BTL_MES_020_008]
-＜声のみ＞了解した。
+＜声Of＞了解した。
 
 [msg BTL_MES_020_009]
-＜声のみ＞了解だ。
+＜声Of＞了解A。
 
 [msg BTL_MES_020_010]
-＜声のみ＞ああ、わかった。
+＜声Of＞ああ、vかDた。
 
 [msg BTL_MES_020_011]
-Ciertamente es fuerte...
+Es realmente fuerte...
 
 [msg BTL_MES_020_012]
-＜声のみ＞どうする…
+＜声Of＞Jうすr…
 
 [msg BTL_MES_020_013]
-Es nuevo.
+Esa es nueva.
 
 [msg BTL_MES_020_014]
-＜声のみ＞探ってみるか。
+＜声Of＞探DGfrか。
 
 [msg BTL_MES_020_015]
 Dudo que esto sea un problema.
 
 [msg BTL_MES_020_016]
-＜声のみ＞やるぞ！
+＜声Of＞krぞ！
 
 [msg BTL_MES_020_017]
 Esto ser茨 pan comido.
 
 [msg BTL_MES_020_018]
-＜声のみ＞一気に行くぞ！
+＜声Of＞一気L行くぞ！
 
 [msg BTL_MES_020_019]
 夷Esa sombra...?
 
 [msg BTL_MES_020_020]
-＜声のみ＞マズいか…
+＜声Of＞マズいか…
 
 [msg BTL_MES_020_021]
-＜声のみ＞くっ、どうする？
+＜声Of＞くD、Jうすr？
 
 [msg BTL_MES_020_022]
-Hemos entrado en un peligro real...
+Estamos en verdadero peligro...
 
 [msg BTL_MES_020_023]
-＜声のみ＞立て直すぞ！
+＜声Of＞立G直すぞ！
 
 [msg BTL_MES_020_024]
 Dummy
@@ -155,19 +155,19 @@ Dummy
 Dummy
 
 [msg BTL_MES_020_052]
-＜声のみ＞了解した！
+＜声Of＞了解した！
 
 [msg BTL_MES_020_053]
-斡Saqu姻enlos!
+斡Vamos!
 
 [msg BTL_MES_020_054]
-＜声のみ＞抜かるなよ！
+＜声Of＞抜かrKo！
 
 [msg BTL_MES_020_055]
-斡Puedo hacerlo!
+斡Puedo con esto!
 
 [msg BTL_MES_020_056]
-Un Relevo, tal vez.
+Es hora de un relevo.
 
 [msg BTL_MES_020_057]
 斡D姻jamelo a m胤!
@@ -257,5 +257,5 @@ Dummy
 Dummy
 
 [msg BTL_MES_020_086]
-斡Puedo encargarme de esto!
+斡Puedo encargarme!
 

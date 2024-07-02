@@ -1,39 +1,39 @@
 [msg MSG_000 [Chie]]
-夷Huh?
+...Huh?
 
 [msg MSG_001 [Yukari]]
-Espera, 夷est茨s diciendo...
+Wait, are you saying...
 
 [msg MSG_002 [Yusuke]]
-S胤, fui yo. Casi me muero de hambre en[n]ese momento.
+Yes, that was me. I was nearly starving[n]to death at the time.
 
 [msg MSG_003 [Chie]]
-夷Contaste esta historia por una broma?
+You told this story for a gag!?
 
 [msg MSG_004 [Junpei]]
-斡Espera, Yukki! 斡Hiciste la revelaci吋n[n]demasiado pronto!
+Wait, Yukki! You did the reveal too[n]early!
 
 [msg MSG_005 [Yukiko]]
-夷Eh? 夷S胤? Estaba haciendo lo que me[n]dijiste...
+Huh? I did? I was just doing what you[n]told me...
 
 [msg MSG_006 [Junpei]]
-La idea es sacarlo todo lo posible y[n]poner a todos al borde de sus[n]asientos...
+The idea is to draw it out as long as[n]possible and put everyone on the edge of[n]their seats...
 
 [msg MSG_007 [Yukari]]
-夷T雨 enga隠as a Yukiko en esto tambi姻n?[n]Tienes nervios, Tontei.
-Ha pasado mucho tiempo. 夷Alguna 雨ltima[n]palabra?
+You roped Yukiko-chan into this too...?[n]You've got some nerve, Stupei.
+This has been a long time coming. Any[n]last words?
 
 [msg MSG_008 [Junpei]]
-斡Espera, tiempo fuera! 斡No hagamos nada[n]loco, Yuka-tan!
-S吋lo lo hice para ayudar a Yukiko a[n]dominar la cosa "creerla, o no"...
+Wait, time out! Let's not do anything[n]crazy, Yuka-tan!
+I only did it to help Yukiko-chan master[n]the "Believe It, or Don't" thing...
 
 [msg MSG_009 [Makoto]]
-... M茨s tonter胤as, y tendr茨s que[n]responder al pu隠o de hierro de la[n]justicia.
+...Any more nonsense, and you'll have to[n]answer to the iron fist of justice.
 
 [msg MSG_010 [Junpei]]
-斡Eek! 斡Lo siento! 斡Me llevaron! 斡Por[n]favor, todo menos los picos!
+Eek...! I'm sorry! I got carried away![n]Please, anything but the spikes!
 
 [msg MSG_011 [Futaba]]
-Hehehehe. Los pu隠os de Queen son m茨s[n]aterradores que cualquier historia[n]fantasma. Cuidado.
-Welp, nuestra investigaci吋n ha[n]terminado. Creo que es hora de volver.
+Hehehe. Queen's fists are scarier than[n]any ghost story. You better watch out.
+Welp, our investigation is over. I think[n]it's time we head back.
 

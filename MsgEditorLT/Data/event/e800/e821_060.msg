@@ -1,189 +1,189 @@
 [msg MSG_000 [Chie]]
-Phew... Finalmente hemos vuelto... No[n]m茨s carn胤voros, 夷verdad?
+Phew... We're finally back... No more[n]carnivores, right?
 
 [msg MSG_001 [Fuuka]]
-No, no estoy viendo nada por aqu胤.[n]Parece que podemos pescar en paz.
+No, I'm not sensing any around here.[n]Looks like we can fish in peace.
 
 [msg MSG_002 [Fuuka]]
-Y porque alejamos al FOE de la zona, los[n]peces siguen aqu胤.
-斡Apuesto a que atraparemos a uno muy[n]grande!
+And because we led the FOE away from the[n]area, the fish are still here.
+I bet we'll catch a really big one!
 
 [msg MSG_003 [P4 Hero]]
-Una grande, 夷eh? Bien, estoy listo.
+A big one, huh...? Okay, I'm ready.
 
 [msg MSG_004 [Futaba]]
-夷Oh? Est茨s empezando a sonar como un[n]verdadero cazador.
-斡Con tantos, apuesto a que podemos sacar[n]leg胤timamente a los peces del agua![n]斡Vamos! 斡Cazadores de la jungla!
+Oh? You're starting to sound like a real[n]hunter.
+With this many, I bet we can[n]legitimately grab the fish outta the[n]water! Go! Hunters of the Jungle!
 
 [msg MSG_005]
-Decidimos trabajar juntos para pescar[n]algunos peces...
-...
-斡Logramos atrapar a uno muy grande!
+We decided to work together to catch[n]some fish...
+......
+We managed to catch a really big one!
 
 [msg MSG_006 [Fuuka]]
-Sin embargo... Parece que nuestra pelea[n]con el FOE asust吋 a algunos de los[n]peces.
-斡Pero todav胤a hay algunos aqu胤 y all茨![n]Buena suerte.
+However... It looks like our fight with[n]the FOE scared off some of the fish.
+Oh, but there's still a few here and[n]there! Good luck, everyone.
 
 [msg MSG_007 [P4 Hero]]
-No tienen que ser grandes mientras est姻n[n]sabrosos. Vamos a hacerlo, chicos.
+They don't have to be big as long as[n]they're tasty. Let's get to it, guys.
 
 [msg MSG_008]
-Decidimos trabajar juntos para pescar[n]algunos peces...
-...
-No vimos ningunos grandes, pero todav胤a[n]logramos redondear algunos peces de[n]tama隠o razonable!
+We decided to work together to catch[n]some fish...
+......
+We didn't see any big ones, but we still[n]managed to round up a few[n]reasonably-sized fish!
 
 [msg MSG_009 [Chie]]
-斡Tenemos el pescado que quer胤amos y[n]derrotamos al FOE! 斡Tres alegr胤as para[n]todos!
+We got the fish we wanted AND defeated[n]the FOE! Three cheers for everyone!
 
 [msg MSG_010 [Shinjiro]]
-Esto ser茨 suficiente. Entre los peces y[n]las hierbas, deber胤amos ser capaces de[n]hacer algo decente.
+This'll be enough. Between the fish and[n]the herbs, we should be able to make[n]something decent.
 
 [msg MSG_011 [Ann]]
-Bueno, tenemos los ingredientes y el[n]utensilios de cocina. Lo 雨nico que queda[n]por hacer es cocinar.
-Ahora tambi姻n tengo hambre. 斡Me pregunto[n]qu姻 har茨!
+Well, we have the ingredients and the[n]cookware. The only thing left to do is[n]cook.
+Now I'm getting hungry too. I wonder[n]what he's gonna make!
 
 [msg MSG_012 [P3 Fem Protag]]
-*chuckle* Sabes que ser茨 bueno si es la[n]cocina de Shinjiro-senpai!
-斡No s吋lo te llenar茨 el est吋mago, sino[n]que tambi姻n te har茨 sentir mareado[n]dentro!
+*chuckle* You know it'll be good if it's[n]Shinjiro-senpai's cooking!
+Not only will it fill your stomach, but[n]it'll also make you feel all fuzzy[n]inside!
 
 [msg MSG_013 [Shinjiro]]
-夷Eh? No digas mierda as胤...
+Huh...? Don't say shit like that...
 
 [msg MSG_014 [Junpei]]
-Ohh? 夷Est茨s mintiendo, Shinjiro?
+Ohh? Are you blushing, Shinjiro-san?
 
 [msg MSG_015 [Shinjiro]]
-夷Quieres comer estos crudos, Junpei?
+You wanna eat these raw, Junpei?
 
 [msg MSG_016 [Junpei]]
-斡Vamos, estaba bromeando! Sheesh... 夷No[n]puedes tomarte una broma?
+C-C'mon, I was just joking! Sheesh...[n]Can't you take a joke?
 
 [msg MSG_017 [Yusuke]]
-Esto es para m胤... Estoy perdiendo la[n]conciencia...
+This is it for me... I'm losing[n]consciousness...
 
 [msg MSG_018 [Futaba]]
-Me olvid姻 de Fox.
+Oh, whoops, I forgot about Fox.
 
 [msg MSG_018_02 [Futaba]]
-Me olvid姻 de Fox.
+Oh, whoops, I forgot about Fox.
 
 [msg MSG_019 [Yusuke]]
-Ngh...! Bastardo. 斡Qu姻 cobarde de tu[n]parte para emboscarnos usando esa[n]c茨scara de langosta!
-No perder姻 a un crust茨ceo... Zzz...
+Ngh...! You bastard. How cowardly of you[n]to ambush us wearing that lobster shell!
+I will not lose to a crustacean...[n]Zzz...
 
 [msg MSG_020 [Futaba]]
-Parece que tambi姻n est茨 listo para[n]comer.
+Hm. Looks like he's ready to eat too.
 
 [msg MSG_021 [Shinjiro]]
-Jus me da un segundo, y cocinar姻 algo.
+Psh... Jus' give me a sec, and I'll cook[n]somethin' up.
 
 [msg MSG_022 [Shinjiro]]
-Aqu胤 est茨 hecho. C吋mela antes de que se[n]enfr胤e.
+...Here, it's done. Eat it before it[n]gets cold.
 
 [msg MSG_023 [Yusuke]]
-Oh... 斡Ohhh!
+Oh... Ohhh!
 
 [msg MSG_024 [Chie]]
-Whoa! Huele tan bien como parece!
+Whoa! It smells just as good as it[n]looks!
 
 [msg MSG_025 [Yusuke]]
-斡Es delicioso!
-La mezcla de las hierbas y la salsa del[n]pescado...! 斡Es positivamente bucal!
-La comida es verdaderamente una de las[n]grandes alegr胤as de la vida: 斡un arte en[n]s胤 mismo!
+I-It's delicious!
+The mixture of the herbs and the sauce[n]from the fish...! It's positively[n]mouthwatering!
+Food is truly one of life's great[n]joys―an art in and of itself!
 
 [msg MSG_026 [Yosuke]]
-No puedo dejar de babear. 夷D吋nde est茨 el[n]nuestro?
+I can't stop drooling. Where's ours?
 
 [msg MSG_027 [Shinjiro]]
-No te preocupes, hay suficiente para[n]todos, pero tienes que esperar tu turno.
-Esto es tuyo, Koromaru. Te dej姻 un poco[n]a un lado.
-Hace calor. No te quemes la lengua.
+Don't worry, there's enough for[n]everyone, but you gotta wait your turn.
+This is yours, Koromaru. I put some[n]aside just for you.
+It's hot. Don't burn your tongue.
 
 [msg MSG_028 [Koromaru]]
 Woof! Woof!
 
 [msg MSG_029 [P3 Fem Protag]]
 *huff* *huff* It'f foooooo gooof!
-斡Shinjiro-senpai! 斡Estoy tan feliz ahora[n]mismo!
+I just knew it would be good,[n]Shinjiro-senpai! Oh, I'm so happy right[n]now!
 
 [msg MSG_030 [Chie]]
-Man, it's like my chopsticks have a mind[n]of their own! 斡Segundos, por favor!
+Man, it's like my chopsticks have a mind[n]of their own! Seconds, please!
 
 [msg MSG_031 [Morgana]]
-斡Meow! 斡Shinjiro! 斡Yo tambi姻n quiero[n]m茨s!
+Meow[f 0 1 1]! Shinjiro! I want some more too!
 
 [msg MSG_032 [Shinjiro]]
-斡Muy bien! 斡C茨lmate!
+All right! Calm down!
 
 [msg MSG_033]
-Disfrutamos comer con todos...
+We enjoyed eating with everyone...
 
 [msg MSG_034 [Yusuke]]
-Me siento tan viva.
-Sanada, Aragaki... No puedo agradecerte[n]lo suficiente. Fue una experiencia[n]incre胤ble.
+*sigh* I feel so alive.
+Sanada-san, Aragaki-san... I can't thank[n]you enough. This was an amazing[n]experience.
 
 [msg MSG_035 [Akihiko]]
-Est茨s poniendo demasiado elogio en la[n]comida. Es Shinji que deber胤as estar[n]agradeciendo.
+You're putting too much praise on the[n]food. It's Shinji you should be[n]thanking.
 
 [msg MSG_036 [Yusuke]]
-Cierto. Estaba delicioso. Les agradezco[n]a ambos por permitirme comer.
-Sin embargo, eso no es todo lo que deseo[n]agradecer. Ustedes dos tambi姻n me[n]recordaron algo importante.
+Right. It was delicious. I thank you[n]both for allowing me to eat.
+However, that's not all I wish to be[n]thankful for. The two of you also[n]reminded me of something important.
 
 [msg MSG_037 [Akihiko]]
-夷Qu姻 es eso?
+What's that?
 
 [msg MSG_038 [Yusuke]]
-Comer es m茨s que una forma de satisfacer[n]el hambre.
-Re雨ne a todos, y al hacerlo, satisface[n]el coraz吋n de uno.
-...
-Esta experiencia me record吋 las veces[n]que me sentar胤a alrededor de la mesa con[n]mis compa隠eros aprendices.
+Eating is more than just a way to[n]satisfy one's hunger.
+It brings everyone together, and in[n]doing so, satisfies one's heart.
+......
+This experience reminded me of the times[n]I would sit around the table with my[n]fellow apprentices.
 
 [sel SEL_039 top]
-Deben haber sido memorables.
-夷Te sientes solo?
-Hag茨moslo otra vez alguna vez.
+They must've been memorable.
+Do you feel lonely?
+Let's do it again sometime.
 
 [msg MSG_040 [Yusuke]]
-De hecho. Fue hace mucho tiempo, casi me[n]hab胤a olvidado... Me alegro de poder[n]recordar este sentimiento.
+Indeed. It was so long ago, I'd nearly[n]forgotten... I'm glad I was able to[n]recall this feeling.
 
 [msg MSG_041 [Yusuke]]
-No, ahora los tengo a todos.
+No, I have all of you now.
 
 [msg MSG_042 [Yusuke]]
-Por supuesto. S吋lo di la palabra, y[n]estar姻 all胤.
+Absolutely. Just say the word, and I'll[n]be there.
 
 [msg MSG_043 [Akihiko]]
-Heh... Es casi como si fu姻ramos familia.
-Tambi姻n hemos tenido momentos como este,[n]夷no, Shinji?
+Heh... It's almost like we're family.
+We've had times like this too, huh,[n]Shinji?
 
 [msg MSG_044 [Shinjiro]]
-Hmph, no puedo decir que recuerdo...
+Hmph, can't say I remember...
 
 [msg MSG_045 [Akihiko]]
-Psh... tal vez no lo recuerdes, pero[n]definitivamente lo hago.
+Psh... You might not remember, but I[n]definitely do.
 
 [msg MSG_046 [Shinjiro]]
-夷Verdad? Bien por ti.
+That right? Good for you.
 
 [msg MSG_047 [Akihiko]]
-Tengo que agradecer, Fox.
-Gracias a ti, Fui capaz de comer la[n]cocina de Shinji por primera vez en lo[n]que se siente para siempre.
-Si hay algo con lo que necesites ayuda,[n]h茨zmelo saber.
+I gotta say thanks as well, Fox.
+Thanks to you, I was able to eat[n]Shinji's cooking for the first time in[n]what feels like forever.
+If there's anything you ever need help[n]with, just let me know.
 
 [msg MSG_048 [Yusuke]]
-Gracias. Lo mismo pasa por ti.
-Adem茨s... Tengo algunas palabras m茨s de[n]agradecimiento que me gustar胤a dar.
+Thank you. The same goes for you.
+Furthermore... I've a few more words of[n]appreciation I'd like to give.
 
 [msg MSG_049 [Shinjiro]]
-夷S胤? 夷Qu姻 pasa?
+Yeah? What's up...?
 
 [msg MSG_050 [Yusuke]]
-斡Segundos, por favor!
+Seconds, please!
 
 [msg MSG_051 [Akihiko]]
-Admiro ese est吋mago tuyo, Fox!
-No voy a dejar que me presente aqu胤.[n]Hey, Shinji, 斡tambi姻n quiero segundos!
+Heh... I admire that stomach of yours,[n]Fox!
+I'm not about to let myself get showed[n]up here. Hey, Shinji, I want seconds[n]too!
 
 [msg MSG_052 [Shinjiro]]
-Genial... Ahora tengo que lidiar con dos[n]de ellos.
+Great... Now I've got two of 'em to deal[n]with.
 

@@ -1,34 +1,34 @@
 [msg MSG_000 [Elizabeth]]
-El objetivo de esta proyecci吋n especial[n]es...
-"斡Juega los ingredientes!" Debe ser una[n]de esas llamadas pel胤culas gourmet.
+The goal of this special screening is[n]to...
+"Gather the ingredients!" It must be one[n]of those so-called gourmet films.
 
 [msg MSG_001 [Yusuke]]
-斡S胤!
+Yes...!
 
 [msg MSG_002 [Elizabeth]]
-Este ser茨 establecido en "Tierra[n]Juc茨nica"
-Ah, 夷as胤 que finalmente est茨s dando a tu[n]deseo carnal de festejar en uno de esos[n]dinosaurios? Por supuesto, por favor.
+This one will be set in "Junessic Land."
+Ah, so you're finally giving in to your[n]carnal desire to feast upon one of those[n]dinosaurs? By all means, please do.
 
 [msg MSG_003 [Ryuji]]
-斡No! 斡No lo haremos, no importa cu茨n[n]hambrientos tengamos!
+Hell no! We ain't doin' that, no matter[n]how hungry we are!
 
 [msg MSG_004 [Akihiko]]
-No podr胤a haber pedido una mejor[n]proyecci吋n.
-ひめもょゃもデ れまるァ ゆまゃよる りゎま ぼゎゆらゅぺれ ろゎ らるよゆまれぺテ ぴょぺ[n]わまん りゎま ろまょむぺゆよれ まれよれ もょむるまぽもまょろまれデ りゎもまるよ りゎま[n]ょよれ めぺむぺれ まゅ ゆまゃよる らゅぺろよ りゎま らゎまぽぺれテ
+Hmph. I couldn't've asked for a better[n]screening.
+Shinji, you better keep your promise.[n]Once we get those ingredients, I want[n]you to make us the best dish you can.
 
 [msg MSG_005 [P3 Fem Protag]]
-でゎめ? ィふぺゆよれ ぺ ぼよゆまる ゅぺ ぼよぼもょぺ ぽま[n]ひめもょゃもるよ-れまょらぺも! ィでゎるるぺ! ィつれよ れもむょもみもぼぺ りゎま[n]ろまょまゆよれ りゎま めぺぼまる ょゎまれろるよ ゆまゃよる まれみゎまるんよ!
+Huh? We'll get to eat Shinjiro-senpai's[n]cooking!? Hooray! That means we HAVE to[n]do our very best!
 
 [msg MSG_006 [Morgana]]
-Oho, Shinjiro est茨 cocinando, 夷eh? No[n]puedo decir que no est姻 intrigado.
+Oho, Shinjiro's cooking, huh? Can't say[n]I'm not intrigued.
 
 [msg MSG_007 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_008 [Shinjiro]]
-Diablos... No recuerdo haber probado[n]nada...
+The hell... I don't remember promisin'[n]anything...
 
 [msg MSG_009 [Yusuke]]
-斡Muy bien, vamos!
-Debemos darnos prisa, [f 6 1 30 0 0 0]! 斡Puedo o胤r[n]la recompensa de la naturaleza llamando[n]mi nombre!
+All right, let's go!
+We must hurry, [f 6 1 30 0 0 0]! I can hear[n]nature's bounty calling my name!
 

@@ -1,119 +1,119 @@
 [msg MSG_000 [Ryuji]]
-Veamos, esto est茨 cerca de donde estaba[n]la marca en el mapa, 夷verdad?
+Let's see, this is near where the mark[n]on the map was... right?
 
 [msg MSG_001 [Junpei]]
-斡Y aqu胤 hay flores! 斡De acuerdo, vamos a[n]sacudirlos!
+And there are flowers here! All right,[n]let's shake 'em down!
 
 [msg MSG_002 [Yosuke]]
-Oye, estamos buscando una "cosa negra".[n]夷Alguno lo vio por aqu胤?
+Hey, we're looking for a "black thing."[n]Any of you seen it around here?
 
 [msg MSG_003 [Shrill Flower]]
-Dios m胤o, m胤rate a todos. 夷Est茨s[n]buscando la "cosa negra", dices?
+Oh my my my, look at all of you. You're[n]looking for the "black thing," you say?
 
-[msg MSG_004 [Flor Sonriente]]
-S胤, s胤, lo sabemos bien. Escucha, y te[n]dir姻...
-だ ゅよ ゅぺるむよ ぽま ゎょぺ れまょぽぺ よれぼゎるぺデ ほゅよりゎまぺぽぺデ ゎょぺ[n]ぼぺれぺ れま まょぼゎまょろるぺ ぺ ゅぺ れよゆほるぺ まょ ゅぺ もるぺテ ふもよ ぺ[n]ろるぺわイれ ぽま ゎょぺ らゎまるろぺデ もょみゎょぽもぽぺ ぼよょ まゅ ゆぺゅ[n]めぺぼま ゆゎぼめよ ろもまゆらよ もむょよるぺぽぺテ
+[msg MSG_004 [Smiling Flower]]
+Yes, yes, we know it oh-so-well. Listen[n]close, and I will tell...
+Along a dark, blocked path, a house[n]stands a-swirl in wrath. Seen through a[n]door, infused with evil long ignored.
 
 [msg MSG_005 [Ryuji]]
-っま ぺぼゎまるぽよデ まょ ぺゅむグょ ゅゎむぺる ぽま まれま ろよょろよ みぺょむよ[n]エでま よウぽよ めぺほゅぺる ぽま ゎょぺ ぼぺれぺ ぺ ろるぺわイれ ぽま ゎょぺ[n]らゎまるろぺ? エつょ ゎょ ぼぺゆもょよ ほゅよりゎまぺぽよ?
-夷Como uno de esos extremos muertos que[n]s吋lo aparecen en ex茨menes especiales?
+Okay, somewhere in that silly muddle I[n]heard about a house through a door? On a[n]blocked path?
+Like one of those dead ends that only[n]appear in special screenings?
 
 [msg MSG_006 [Yosuke]]
-斡Muy bien, sigamos! 斡No hay tiempo para[n]parar y oler las rosas!
+All right, let's keep going! No time to[n]stop and smell the roses!
 
 [msg MSG_007 [Shrill Flower]]
-Oh, pero debes cuidarte, gran cuidado.
-Quieren todo para ellos mismos, para[n]ellos mismos... Y esperan... Lurking en[n]los oscuros recreos de esa casa.
+Oh, but you must take care, great care.
+They want it all to themselves, all to[n]themselves... And they wait... Lurking[n]in the dark recesses of that house.
 
-[msg MSG_008 [Flor Sonriente]]
-No te dejar茨n tenerlo. Nunca...
+[msg MSG_008 [Smiling Flower]]
+They won't let you have it. Never[n]ever...
 
 [msg MSG_009 [Hikari]]
-夷Qu姻...?
+Wha...?
 
 [msg MSG_010 [P4 Hero]]
-Esto no va a ser tan f茨cil como[n]esper茨bamos.
+This isn't going to be as easy as we[n]hoped.
 
 [msg MSG_011 [P3 Hero]]
-O como seguro, parece. 夷Est茨n hablando[n]de Sombras esper茨ndonos?
+Or as safe, it sounds like. Are they[n]talking about Shadows waiting for us?
 
 [msg MSG_012 [Hikari]]
-... Tal vez deber胤amos irnos...
+...Maybe we should just leave...
 
 [sel SEL_013 top]
-夷Te est茨s rindiendo?
-夷Tienes miedo?
+Are you giving up?
+Are you scared?
 
 [msg MSG_014 [Hikari]]
-S胤... No quiero poner a todos en peligro[n]por mi bien.
+Yes... I don't want to put everyone in[n]danger for my sake.
 
 [msg MSG_015 [Hikari]]
-No, estoy bien, mientras est姻s aqu胤.
-Pero no quiero poner a todos en peligro[n]s吋lo por m胤.
+No. I'm fine, as long as you're all[n]here.
+But I don't want to put everyone in[n]danger just for my sake.
 
 [msg MSG_016 [Junpei]]
-でもやぺるもデ らまょまデ ゆゎまゅゅまデ ょよ ろま らるまよぼゎらまれ らよる まれろま[n]らまろぺゅ-ろぺゅや! つょ れまるもよテテテ ろま らるよろまむまるまゆよれ; ゅぺれ[n]みゅよるまれ れよょ らゅぺょろぺれ ぽま ゆもまぽよテ
-D姻jalo todo a Junpei Iori y semillas.[n]斡Sees!
+Hikari, dickory, dock, don't worry 'bout this[n]petal-talk! Seriously... we'll protect you;[n]the flowers are just scaredy-plants.
+Just leave it all to Junpei Iori and[n]seeds. Uh, SEES!
 
 [msg MSG_017 [Yosuke]]
-As胤 es. Te hicimos una promesa, 夷verdad?
-斡El cliente siempre tiene raz吋n! 斡Esa es[n]la mentalidad que aprend胤 en Junes!
+That's right. We made you a promise,[n]didn't we?
+The customer is always right! That's the[n]mentality I learned at Junes!
 
 [msg MSG_018 [Hikari]]
-Iori, Hanamura...
+Iori-kun, Hanamura-kun...
 
 [msg MSG_019 [Ryuji]]
-Heck, con esta mucha gente, enviaremos a[n]esas Sombras a casa llorando a sus[n]madres Sombr胤as.
-El Fantasma Los ladrones no abandonan a[n]nadie.
+Heck, with this many people, we'll send[n]those Shadows home crying to their[n]Shadow mommies.
+The Phantom Thieves don't abandon[n]anyone.
 
 [sel SEL_020 top]
-As胤 es.
-斡Todo para uno y uno para todos!
+That's right.
+All for one and one for all!
 
 [msg MSG_021 [Ryuji]]
-斡S胤! No podemos rechazar una petici吋n de[n]un amigo, despu姻s de todo.
+Yeah! We can't turn down a request from[n]a friend, after all.
 
 [msg MSG_022 [Ryuji]]
-斡Claro que s胤! No podemos rechazar una[n]petici吋n de un amigo, despu姻s de todo.
+Hell yeah! We can't turn down a request[n]from a friend, after all.
 
 [msg MSG_023 [Hikari]]
-Amigos...
-Gracias... Estoy tan feliz de que est姻s[n]aqu胤 por m胤.
+Friends...
+Thank you... I'm so happy you're here[n]for me.
 
 [msg MSG_024 [Junpei]]
-斡Entonces dejemos este show de m雨sica y[n]consigamos nuestro show en el camino!
-斡Sigue mi pista, Pollen-hair y[n]Grump-face!
+Then let's leave this music show and get[n]OUR show on the road!
+Follow my lead, Pollen-hair and[n]Grump-face!
 
 [msg MSG_025 [Ryuji]]
-夷Qui姻n te puso a cargo, Se隠or[n]Inapropiado para Flujos?
+Who put you in charge, Mister[n]Inappropriate-to-Flowers?
 
 [msg MSG_026 [Yosuke]]
-斡S胤, los ofendiste casi tanto como nos[n]ofendes!
+Yeah, you offended them almost as much[n]as you offend us!
 
 [msg MSG_027 [Junpei]]
-Quiero decir, estaban siendo delicadas[n]peque隠as flores... literalmente!
-斡Vamos! 斡Vamos, tienes que seguir,[n]Hikari!
+I mean, they were being delicate little[n]flowers... literally!
+Let's just go! Come on, you gotta keep[n]up, Hikari-chan!
 
 [msg MSG_028 [Hikari]]
-斡Est茨 bien!
+Okay!
 
 [msg MSG_029 [Yukari]]
-Bueno, est茨n en buen esp胤ritu. 夷Esos[n]tres estaban siempre tan cerca?
+*sigh* Well, they're in good spirits.[n]Were those three always that close?
 
 [msg MSG_030 [Ann]]
-Creo que acaban de hacer clic porque son[n]todos esos balones!
-Al menos los mantiene motivados, haha.
+I think they just click because they're[n]all such goofballs!
+At least it keeps them motivated, haha.
 
 [msg MSG_031 [Chie]]
-Espero que no se lleven demasiado.
+Hopefully they don't get too carried[n]away.
 
 [msg MSG_032 [P4 Hero]]
-No te preocupes. Yosuke siempre pasa[n]cuando lo necesita.
+Don't worry. Yosuke always comes through[n]when he needs to.
 
 [msg MSG_033 [P3 Hero]]
-Tambi姻n podemos contar con Junpei. Creo[n]que las cosas funcionar茨n.
-Ahora, estamos buscando algo en una[n]casa, 夷verdad?
+We can count on Junpei as well. I think[n]things will work out.
+Now then, we're looking for something in[n]a house, right?
 
 [msg MSG_034 [Futaba]]
-Una casa que atraviesa una puerta.[n]斡Vamos a buscar casa!
+A house that's through a door. Let's get[n]house-hunting!
 

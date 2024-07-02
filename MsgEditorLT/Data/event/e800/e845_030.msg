@@ -1,44 +1,44 @@
 [msg MSG_000 [Rise]]
-斡Espera, para! Joker, esto es malo!
+W-Wait, stop! Joker, this is bad!
 
 [sel SEL_001 top]
-夷Qu姻 pas吋?
-C茨lmate.
+What happened?
+Calm down.
 
 [msg MSG_002 [Fuuka]]
-Parece... 斡Hay otro de esos osos FOEs[n]ah胤 fuera!
+It looks like... there's another of[n]those bear FOEs out there!
 
 [msg MSG_003 [P4 Hero]]
-夷Qu姻?
+What?
 
 [msg MSG_004 [Aigis]]
-Esta situaci吋n es de hecho suboptimal.[n]夷Cu茨l objetivo atacaremos primero?
+This situation is indeed suboptimal.[n]Which target do we attack first?
 
 [msg MSG_005 [Teddie]]
-夷Eh? Bueno, vamos a vencer a ambos,[n]夷verdad?
+Huh? Well, we'll just beat both, right?
 
 [msg MSG_006 [Yosuke]]
-斡No puedes decir eso! 夷Crees que podemos[n]tomarlos a las dos a la vez?
+Dude, you can't just say that! You think[n]we can just take both of them at once!?
 
 [msg MSG_007 [Teddie]]
-斡Tal vez no puedas, pero definitivamente[n]dijo que ser胤a una "doble batalla con[n]oso"!
+Maybe YOU can't, but she definitely said[n]this would be a "double bear-relled[n]battle"!
 
 [msg MSG_007_1 [Teddie]]
-Si no ganamos dos a la vez, entonces el[n]marcador no tendr胤a sentido.
+If we don't beat two at once, then the[n]tagline wouldn't make sense.
 
 [msg MSG_008 [Aigis]]
-Doble oso...
-Tenemos un solo oso a nuestro lado, y el[n]enemigo posee dos.
+Double bear-relled...
+We have a single bear on our side, and[n]the enemy possesses two.
 
 [msg MSG_008_1 [Aigis]]
-En otras palabras, las FOEs son los[n]dobles osos en cuesti吋n. Ya veo.
+In other words, the FOEs are the double[n]bears in question. I see.
 
 [msg MSG_009 [Teddie]]
-斡S胤, como le dije a Ellie! 斡Ahora,[n]ponlos! 斡Veremos qui姻n es el 雨ltimo oso!
+Yeah, just like I told Ellie-chan! Now,[n]put 'em up! We'll see who's the last[n]bear standing!
 
 [msg MSG_010 [P4 Hero]]
-Somehow... Puedo sentir a Elizabeth[n]esmirando, incluso desde aqu胤.
+Somehow... I can feel Elizabeth[n]smirking, even from over here.
 
 [msg MSG_010_1 [P4 Hero]]
-En cualquier caso, parece que tendremos[n]que vencer a dos de ellos. Mantengan la[n]guardia.
+Either way, it looks like we'll have to[n]beat two of them. Stay on guard,[n]everyone.
 

@@ -1,13 +1,13 @@
 [msg MSG_000 [Fuuka]]
-Es una zona bastante grande, con dos[n]plantas.
+It's a pretty big area, with two floors.
 
 [msg MSG_001 [Hikari]]
-Un lugar con fruta... Lo siento, no[n]puedo pensar en d吋nde podr胤a ser.
+A place with fruit... Sorry, I just[n]can't think of where that could be.
 
 [msg MSG_002 [Junpei]]
-No te esforces. Hay mucho que explorar[n]aqu胤.
+Don't strain yourself. There's plenty to[n]explore here.
 
 [msg MSG_003 [P3 Hero]]
-S胤, podemos caminar hasta encontrar lo[n]que estamos buscando.
-Pero como hay Sombras alrededor,[n]mantengamos la guardia arriba.
+Yeah, we can just walk around until we[n]find what we're looking for.
+But since there are Shadows around,[n]let's keep our guard up.
 

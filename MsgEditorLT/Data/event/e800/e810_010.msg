@@ -1,56 +1,56 @@
 [msg MSG_000 [Elizabeth]]
-Parece que se ha a隠adido una nueva[n]proyecci吋n especial.
-La tarea esta vez es atrapar un pez[n]antiguo en la Tierra de Junio.
-Pescaremos en tiempos antiguos.
+Parece que una nueva proyecci吋n especial ha sido a隠adida.
+Esta vez el objetivo ser茨 capturar un pez antiguo en Junessic Land.
+Pescaremos en la antigüedad.
 
 [msg MSG_001 [Chie]]
-夷Pesar? No tengo una experiencia de[n]lotta con la pesca...
+夷Pescar? Yo no tengo mucha experiencia pescando...
 
 [msg MSG_002 [Kanji]]
-Bueno, no es como si te importara mucho[n]el pescado, 夷verdad, Chie-senpai?
+Bueno, tampoco es que te importe mucho el pescado, 夷verdad, Chie?
 
 [msg MSG_003 [Chie]]
-Oh, vamos, lo haces sonar como todo lo[n]que quiero es carne.
-Ahora que lo pienso, la pesca no es[n]exactamente algo que esperar胤a de un[n]ladr吋n fantasma.
+Ay, vamos, haces que parezca que lo 雨nico que quiero es carne.
+Ahora que lo pienso, pescar no es exactamente algo que esperar胤a de un ladr吋n fantasma.
 
 [msg MSG_004 [Ryuji]]
-I mean, we do go to fishing ponds every[n]now 'n' then, don't we, [f 6 1 30 0 0 0]?
-Eres bueno en estas cosas, 夷no?
+Quiero decir, a menudo vamos a pescar, 夷no?
+Se te dan bien estas cosas, 夷verdad?
 
 [sel SEL_005 top]
-Un poco.
+M茨s o menos.
 D姻jamelo a m胤.
-No tan bien como la Sra. Kawakami.
+No soy tan bueno como la profesora Kawakami.
 
 [msg MSG_006 [Teddie]]
-Ngh... Estos chicos de la ciudad pueden[n]hacer cualquier cosa...
-斡Pero el Maestro puede hacer mucho m茨s!
+Ngh... Estos chicos de ciudad pueden hacer lo que sea...
+斡Pero Sensei puede hacer mucho m茨s!
 
 [msg MSG_007 [Teddie]]
-Mucha confianza...
-斡Pero el Maestro puede hacer mucho m茨s!
+Cuanta confianza...
+斡Pero Sensei puede hacer mucho m茨s!
 
 [msg MSG_008 [Ryuji]]
-S胤, ella tiene un mordisco en el momento[n]en que golpea el agua. Es un maldito[n]profesional...
-As胤 que no eres tan bueno, pero sigues[n]muy confiado, 夷verdad?
+S胤, pican justo cuando lanza el anzuelo al agua. Es una maldita profesional...
+As胤 que no eres tan bueno, pero, aun as胤, sigues teniendo mucha confianza, 夷no?
 
 [msg MSG_009 [Teddie]]
-Hoho... 斡Pero nuestro Maestro puede[n]hacer mucho m茨s!
+Jojo... Pero, 斡nuestro Sensei puede hacer mucho m茨s!
 
 [msg MSG_010 [P4 Hero]]
-Tengo una experiencia de pesca. Estoy[n]seguro de que puedo ayudar.
+Yo tambi姻n tengo experiencia pescando. Seguro que puedo ayudar.
 
 [msg MSG_011 [Haru]]
-夷En serio? 夷Qu姻 clase de peces has[n]atrapado?
+夷De verdad? 夷Qu姻 tipos de peces has pescado, [f 6 1 12 0 0 0]?
 
 [msg MSG_012 [P4 Hero]]
-Veamos... Todo desde una se隠al de parada[n]de autob雨s hasta el legendario Sea[n]Guardian.
+Veamos... De todo, desde una se隠al de la parada del autob雨s hasta el legendario Guardi茨n del Mar.
 
 [msg MSG_013 [Haru]]
-夷Una se隠al de parada de autob雨s?
+夷Una se隠al de la parada del autob雨s...?
 
 [msg MSG_014 [Elizabeth]]
-Tenemos dos ca隠as de pesca aqu胤...
-はよる ゅよ ろぺょろよデ ぼよょみもぺるまゆよれ まれろよ ぺ ゅよれ ぽよれ りゎま[n]まゃまるぼまょ まゅ らよぽまる ぽま ゅぺ ろぺるゃまろぺ れぺゅわぺゃまデ ぽぺぽぺれ[n]れゎれ ぼぺるむぺれ ぽま まゑらまるもまょぼもぺ らまれりゎまるぺテ
-Pescado, pescado, pescar todos los peces[n]que desee.
+Tenemos dos ca隠as de pescar aqu胤...
+Sin embargo, se las confiaremos a los dos que poseen el poder de la carta del comod胤n, debido a su gran experiencia pescando.
+Pescad, pescad, pescad todos los peces que quer茨is.
 

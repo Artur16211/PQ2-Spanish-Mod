@@ -1,54 +1,54 @@
 [msg MSG_000 [Futaba]]
-Nuestros objetivos son las tres M茨quinas[n]Guardi茨n. Ten cuidado ahora.
+Our targets are the three Guardian[n]Machines. Be careful now.
 
 [msg MSG_001 [Morgana]]
-斡Vamos, Ken, intenta seguir!
+Come on, Ken, try to keep up!
 
 [msg MSG_002 [Ken]]
-だれウ りゎま ゅよれ ゅぺぽるよょまれ みぺょろぺれゆぺれ まれろァょ ぺ らゎょろよ[n]ぽま ぺみまるるぺるれま ぺ ゅぺれ れよゆほるぺれ を りゎもろぺる[n]れもゅまょぼもよれぺゆまょろま ぺ れゎれ まょまゆもむよれデ エわまるぽぺぽ?
+Um, so phantom thieves are all about[n]sticking to the shadows and quietly[n]taking out their enemies, right?
 
 [sel SEL_003 top]
-Stealth es la manera de ir.
-Todo el tiempo.
-Qu姻 l茨stima que no podamos hacer eso[n]aqu胤...
+Stealth's the way to go.
+All the time.
+Too bad we can't do that here...
 
 [msg MSG_004 [Ken]]
-As胤 que es verdad...
-夷Ustedes saltan sobre las paredes y[n]pasan lasers de seguridad tambi姻n?
+So it's true...
+Do you guys leap over walls and sneak[n]past security lasers too?
 
 [msg MSG_005 [Ann]]
-S胤, lo hemos hecho un par de veces...
+Yeah, we've done that a couple times...
 
 [msg MSG_006 [Ann]]
-S胤. Eso definitivamente har胤a las cosas[n]m茨s f茨ciles...
+Yeah. That'd definitely make things[n]easier...
 
 [msg MSG_007 [Ryuji]]
-No bromees. Ya estar胤amos acabados con[n]la proyecci吋n si fueran negocios como[n]siempre.
-Piense en todas esas paredes que tuvimos[n]que saltar y los l茨seres de seguridad[n]que tuvimos que pasar.
+No kiddin'. We'd already be done with[n]the screening if it were business as[n]usual.
+Think about all those walls we had to[n]hop and security lasers we had to slip[n]past.
 
 [msg MSG_008 [Ken]]
-S-As胤 que es verdad...
+S-So it's true...
 
 [msg MSG_009 [Morgana]]
-Pareces familiarizado con esto, Ken.
+You seem pretty familiar with this[n]stuff, Ken.
 
 [msg MSG_010 [Ken]]
-夷Eh? Bueno... He aprendido mucho de[n]libros y pel胤culas.
+Huh? Uh, well... I've learned a lot from[n]books and movies.
 
 [msg MSG_011 [Morgana]]
-Eso es genial. Podr胤as tener m茨s[n]potencial que Skull.
+That's great. You might even have more[n]potential than Skull.
 
 [msg MSG_012 [Ryuji]]
-夷Decir qu姻?
+Say what!?
 
 [msg MSG_013 [Ann]]
-Vale, vale, s茨lvalo para las Sombras.[n]Deber胤amos irnos.
+Okay, okay, save it for the Shadows. We[n]should get going.
 
 [sel SEL_014 top]
-Comienzo de la misi吋n.
-Empecemos.
-Sigue nuestra pista.
+Commencing mission.
+Let's get started.
+Follow our lead.
 
 [msg MSG_015 [Ken]]
-斡S胤!
+Yeah!
 

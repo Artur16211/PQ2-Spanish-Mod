@@ -1,79 +1,79 @@
 [msg MSG_000 [Yosuke]]
-Hombre, no importa lo lejos que vayamos,[n]es lo mismo una y otra vez.
-Plantas y insectos gigantes hasta donde[n]puede ver el ojo. 夷Y los dinosaurios[n]tambi姻n? Este lugar es una locura...
+... T胤o, no importa cuanto avancemos, siempre es lo mismo una y otra vez.
+Plantas y bichos gigantes hasta donde alcanza la vista. 夷Y dinosaurios tambi姻n? Este lugar es una locura...
 
 [msg MSG_001 [Naoto]]
-Naturalmente, los caminos tampoco est茨n[n]pavimentados, lo que hace dif胤cil[n]moverse...
+Como es normal, los caminos tampoco est茨n asfaltados, haciendo dif胤cil que avancemos...
 
 [msg MSG_002 [Kanji]]
-Bueno, el menos uno de nosotros est茨[n]bien.
+Bueno, al menos uno de nosotros lo est茨 haciendo bien.
 
 [msg MSG_003 [Yusuke]]
-斡Qu姻 exquisita vida vegetal! 斡Una[n]monta隠a de cuadernos no ser胤a suficiente[n]para capturar toda esta belleza!
+斡Ahh, qu姻 naturaleza m茨s exquisita! 斡Ni con una monta隠a de cuadernos ser胤a suficiente para captar toda esta belleza!
 
 [msg MSG_004 [Ann]]
-S胤, no te preocupes por 姻l.
+Oh, s胤, no os preocup姻is por 姻l.
 
 [msg MSG_005 [Yosuke]]
-Sheesh, est茨 realmente metido en esto...[n]No va a vagar y ser comido, 夷verdad?
+Shhh, est茨 muy concentrado... 夷No se perder茨 y ser茨 comido, no?
 
 [msg MSG_006 [Morgana]]
-Sinceramente, Fox es m茨s probable que[n]coma uno de los dinosaurios...
+Honestamente, Fox es m茨s propenso a comerse a alguno de los dinosaurios...
 
 [msg MSG_007 [Yosuke]]
-夷Qu姻 demonios? 斡Es algo que esperar胤a de[n]Chie!
+斡夷Qu姻 demonios?! 斡Eso es algo que podr胤a esperar de Chie!
 
 [msg MSG_008 [Chie]]
-斡Oye! 斡Incluso mi apetito no me har胤a[n]coger un dinosaurio y empezar a[n]ahogarme!
-No es que me opongo a probar dinosaurios[n]o nada. 斡No hay carne mala!
+斡Eh! 斡Ni siquiera mi apetito me har胤a coger un dinosaurio y empezar a masticarlo!
+... No es que me oponga a probar un dinosaurio o algo as胤. 斡Ninguna carne est茨 mala!
 
 [msg MSG_009 [P3 Fem Protag]]
-Mmm... carne de dinosaurio a un lado, me[n]pregunto cu茨ndo podremos comer carne de[n]nuevo.
+Hmm... aparte de la carne de dinosaurio, me pregunto cu茨ndo podremos volver a comer carne.
 
 [sel SEL_010 top]
-Hay hot dogs en el cine.
-Siento que vi algo antes...
-S吋lo tienes que hacer algo con el agua.
+Hay perritos calientes en el cine.
+Creo que he visto alguna antes...
+Hay que conformarse con agua.
 
 [msg MSG_011 [Chie]]
-ばゎもまるよ ぽまぼもるデ ゅよれ めよろ ぽよむれ れよょ むまょもぺゅまれ を ろよぽよ[n]まれよデ らまるよ ゅぺ ぼぺるょま ぽま ぽもょよれぺゎるもよ ろもまょま ゆァれテテテ[n]ィちぴぴぬ! エひぺほまれ ぺ ゅよ りゎま ゆま るまみもまるよ?
-Quiero comer en un pedazo de carne tan[n]grande, me sentir姻 como si nunca fuera[n]capaz de terminarlo!
+Quiero decir, los perritos calientes son geniales, pero la carne de dinosaurio es m茨s... BAM, 夷sab姻is?
+斡Quiero comerme un trozo de carne tan grande que parezca que nunca pueda acabarlo!
 
 [msg MSG_012 [Chie]]
-Espera, 夷en serio? 夷D吋nde?
+斡夷Espera, en serio?! 斡夷D吋nde?!
 
 [msg MSG_013 [Ryuji]]
-S胤, creo que yo tambi姻n. 夷D吋nde estaba?
+S胤, yo creo que tambi姻n. 夷D吋nde estaba...?
 
 [msg MSG_014 [Chie]]
-Agua...
-S姻 que me quejo, pero el agua no lo hace[n]por m胤, no por nada.
+Aww... Agua...
+Se que me estoy quejando, pero el agua no me va ni lo m茨s m胤nimo.
 
 [msg MSG_015 [Yusuke]]
-Entonces, 夷d吋nde encontramos este pedazo[n]de carne enorme?
+Entonces, 夷d吋nde encontramos ese pedazo de carne gigante?
 
 [msg MSG_016 [Ryuji]]
-Eso es lo que decimos. No est茨 aqu胤...
-斡Espera, espera! 夷De d吋nde diablos has[n]venido?
+Eso era lo que est茨bamos diciendo. No est茨 aqu胤...
+斡Espera, qu姻! 夷De d吋nde demonios has salido?
 
 [msg MSG_017 [Yusuke]]
-O胤 que alguien mencion吋 carne. Mi[n]est吋mago est茨 listo.
+He o胤do que alguien mencionaba carne. Mi est吋mago est茨 listo.
 
 [msg MSG_018 [Yosuke]]
-Este tipo es tan raro como Chie...
-Mira, lamento decepcionarte, pero[n]probablemente no vamos a comer carne por[n]un tiempo.
+Este chico es igual de raro que Chie...
+Mira, perd吋n por decepcionarte, pero seguramente no comeremos carne por un tiempo.
 
 [msg MSG_019 [Yusuke]]
-Entonces... 夷no hay... carne?
-Y aqu胤 estaba listo para festejar...[n]Ahora soy a雨n m茨s colgador...
+Entonces... 夷No hay... carne?
+Y yo que estaba preparado para un fest胤n... Ahora a雨n tengo m茨s hambre...
 
 [msg MSG_020 [Chie]]
-S胤, toda esta charla sobre la carne me[n]ha hecho tener hambre tambi姻n...
+S胤, toda esta charla sobre carne tambi姻n me est茨 dando hambre...
 
 [msg MSG_021 [Morgana]]
-Un par de carn胤voros, estos dos.
-La pr吋xima vez que tengamos una[n]oportunidad, Joker.
+*suspiro* Esos dos son una pareja de carn胤voros.
+Invit姻mosles a comer carne la pr吋xima vez que podamos, Joker.
 
 [msg MSG_022]
-Una nueva proyecci吋n especial: "Meat &[n]the Art of Friendship" se ha a隠adido a[n]la taquilla.
+Una nueva proyecci吋n especial: "Meat ＆ the Art of Friendship" ha sido a隠adida a la taquilla.
 

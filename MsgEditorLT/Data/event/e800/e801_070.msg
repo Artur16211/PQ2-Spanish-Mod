@@ -1,93 +1,93 @@
 [msg MSG_000 [Elizabeth]]
-Bien hecho. Conseguiste derrotar a los[n]ocho Basalts.
-Mis palmas estaban sudando tan[n]intensamente, casi perd胤 mi palomita y[n]mi cola...
-Mirar a Makoto y Haru constantemente[n]hundir a sus enemigos era realmente[n]estimulante.
+Bien hecho. Se las han arreglado para derrotar a los ocho Basaltos.
+Me sudaban tanto las manos que casi pierdo mis palomitas y mi refresco...
+Ver c吋mo Makoto y Haru acababan con sus enemigos era realmente emocionante.
 
 [msg MSG_001 [Haru]]
-夷De verdad los hemos cortado...?
+夷De verdad arrasamos con ellas...?
 
 [msg MSG_002 [Ryuji]]
-Bueno, con la forma en que ustedes dos[n]estaban pateando el culo y tocando[n]nombres, lo creo.
+Bueno, por la forma en la que acababan con ellas, ya lo creo
 
 [msg MSG_003 [Morgana]]
-Hola, Makoto. Dijiste que ten胤as algo en[n]tu mente antes. 夷Qu姻 fue?
+Oye, Makoto. Antes dijiste que ten胤as algo en mente. 夷Qu姻 era?
 
 [msg MSG_004 [Makoto]]
-No iba a decir nada, pero ya sabes[n]tanto...
+No iba a decir nada, pero como sabes tanto...
 
 [msg MSG_005 [Haru]]
-... Siento no haberte dicho antes.[n]Probablemente sea un buen momento.
+...Perd吋n por no dec胤rselos antes. Ahora probablemente sea un buen momento
 
 [msg MSG_006 [Makoto]]
-夷Sabes c吋mo nos capturaron en la[n]pel胤cula Kamoshidaman?
-Quer胤amos hacer algo para compensar[n]todos los problemas que te causamos[n]all胤.
+夷Sabes como fuimos capturadas en la pel胤cula de Kamoshidaman?
+Quer胤amos hacer algo para compensar todos los problemas que les causamos all胤.
 
 [msg MSG_007 [Haru]]
-Ahora que estamos con todos de nuevo,[n]pensamos que intentar胤amos ayudar con la[n]proyecci吋n especial...
-Si lo despejamos, conseguiremos equipos[n]que nos hagan m茨s fuertes, 夷verdad?
+Ahora que estamos con todos de nuevo, pensamos que deber胤amos ayudar con la proyecci吋n especial...
+Si la complet茨bamos, conseguir胤amos equipamiento que nos har胤a m茨s fuerte, 夷verdad?
 
 [msg MSG_008 [Naoto]]
-Ya veo. As胤 que tu anhelo surgi吋 de un[n]deseo de ayudar a todos.
+Ya veo. As胤 que lo hicieron porque quer胤an ayudar a todos.
 
 [msg MSG_009 [Makoto]]
-Supongo que eso es todo...
-Quer胤a mantenerlo en secreto, as胤 que...[n]Estoy un poco avergonzado ahora que todo[n]est茨 abierto.
+Supongo que es eso...
+Quer胤a mantenerlo en secreto, por lo que... me da un poco de vergüenza ahora que lo saben.
 
 [sel SEL_010 top]
-Gracias.
-Te resbalaste.
+Muchas gracias.
+Se te ha escapado.
 
 [msg MSG_011 [Haru]]
-No, somos los que deben estar[n]agradeci姻ndote.
-Si no hubieras venido por nosotros,[n]nunca habr胤amos escapado.
+No, nosotras somos quienes deber胤an agradeceros a vosotros.
+Si no hubieran venido por nosotras, nunca podr胤amos haber escapado.
 
 [msg MSG_012 [Morgana]]
-Tienes raz吋n. Makoto puede parecer[n]perfecta, pero puede tener cuidado de[n]vez en cuando.
+Tienes raz吋n. Makoto podr胤a parecer perfecta, pero puede descuidarse de vez en cuando.
 
 [msg MSG_013 [Makoto]]
-Bueno...
-Supongo que sucede en ocasiones...
+B-Bueno...
+Supongo que a veces ocurre...
 
 [msg MSG_014 [Ann]]
-斡Ahaha! 斡Pero sigues siendo s雨per[n]confiable!
+斡Ja, ja, ja! 斡Aun as胤, t雨 eres superfiable!
 
 [msg MSG_015 [Haru]]
-Mako y yo simplemente quer胤amos mostrar[n]nuestra gratitud a todos.
-Si no hubieras venido por nosotros,[n]nunca habr胤amos escapado.
+Makoto y yo simplemente quer胤amos agradecerles a todos.
+Si no hubieran venido por nosotras, nunca podr胤amos haber escapado.
 
 [msg MSG_016 [Ryuji]]
-Bueno, ustedes no tienen que arreglarse.
-S吋lo logramos salvarte por esa punta que[n]nos diste sobre la estatua.
+Bien, no tienen que ponerse nerviosas por eso.
+Es decir, solo pudimos salvarlas gracias a que nos dieron la pista sobre la estatua.
 
 [msg MSG_017 [Yusuke]]
-De hecho. T雨 tambi姻n nos ayudaste.
-Adem茨s, es natural que los amigos se[n]ayuden. No hay necesidad de pagarnos.
+Ya lo creo. Tambi姻n nos ayudaron.
+Adem茨s, es normal que los amigos se ayuden mutuamente. No hace falta que nos paguen. 
 
 [msg MSG_018 [Futaba]]
-Whoa... Estoy orgulloso de ti, Inari.[n]Pens姻 que querr胤as pagar m茨s que nadie.
+Wow... Estoy orgullosa de ti, Inari. Pensaba que quer胤as el pago m茨s que nadie.
 
 [msg MSG_019 [Yusuke]]
-Qu姻 grosero...
-No puedo decir que no a las comidas[n]gratis, pero no soy tan mezquino de un[n]individuo... Creo.
+Qu姻 ruda...
+Puede que no me niegue a comidas gratis, pero no soy tan taca隠o... creo.
 
 [msg MSG_020 [Ryuji]]
-夷T雨 crees?
+斡斡夷Crees?!!
 
 [msg MSG_021 [Haru]]
-Hm, hm... Gracias de nuevo. Nos alegra[n]estar aqu胤.
+Gracias a todos de nuevo. Estamos muy contentas de estar aqu胤.
 
 [msg MSG_022 [Makoto]]
-Y no nos referimos como parte de los[n]Ladrones Fantasma.
-Eso es para [f 6 1 26 0 0 0] y el Equipo de[n]Investigaci吋n tambi姻n. Estamos juntos en[n]esto.
+Y no nos referimos 雨nicamente a los Ladrones Fantasma.
+Va por [f 6 1 26 0 0 0] y el Equipo de Investigaci吋n tambi姻n. Estamos en esto juntos.
 
 [msg MSG_023 [P3 Fem Protag]]
-S胤! 斡Cu姻ntame!
+斡S胤! 斡Cuenta conmigo!
 
 [msg MSG_024 [P4 Hero]]
-Como sea, nos alegra estar aqu胤 tambi姻n.
+Igualmente, nosotros tambi姻n nos alegramos de estar aqu胤.
 
 [msg MSG_025 [Elizabeth]]
-斡Qu姻 final hermoso y feliz! Estoy muy[n]emocionada, estoy a punto de llorar.
-Ahora bien, aqu胤 est茨 tu recompensa. Por[n]favor, ac姻ptalo.
-Adem茨s, no te olvides de visitar La[n]tienda de Theo y vender los materiales[n]que has recogido...
+斡Oh, qu姻 final m茨s bonito! Estoy tan emocionada que estoy a punto de llorar.
+Ahora bien, aqu胤 est茨 tu recompensa. Por favor, ac姻ptala.
+Tampoco te olvides de visitar la tienda de Theo y vender los materiales que has conseguido...
 

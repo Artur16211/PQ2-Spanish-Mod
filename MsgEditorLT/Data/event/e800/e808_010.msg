@@ -1,85 +1,85 @@
 [msg MSG_000 [Elizabeth]]
-La pr吋xima vez, en Dragon Ba... Quiero[n]decir, la proyecci吋n especial...
+En el pr吋ximo cap胤tulo de Dragon Ba... quiero decir, la pr吋xima proyecci吋n especial...
 
 [msg MSG_001 [Futaba]]
-Oh hoh. Este pr吋ximo suena como un[n]negocio de "m茨s de 9000"...
+Oh hoh. Esta pr吋xima parece que es de m茨s de 9000...
 
 [msg MSG_002 [Yusuke]]
-夷M茨s de 9000? 夷De qu姻 est茨s hablando?
+夷M茨s de 9000? 夷A qu姻 te refieres?
 
 [msg MSG_003 [Futaba]]
-夷Qu姻? 夷No lo sabes? 斡Todo el mundo sabe[n]lo que es!
+斡夷Qu姻?! 斡夷No lo sabes?! 斡Todo el mundo lo conoce!
 
 [msg MSG_004 [Naoto]]
-夷Es as胤? Me temo que tampoco entiendo...
+夷Es as胤? Me temo que yo tampoco lo entiendo...
 
 [msg MSG_005 [Elizabeth]]
-斡Silencio, por favor! Las proyecciones[n]especiales no deben tomarse a la[n]ligera...
-斡Si no te callas, enfrentar茨s mi poder[n]de 530.000!
+斡Silencio, por favor! Las proyecciones especiales no debe tomarse a la ligera...
+斡Si no os call茨is, se enfrentar茨n a mi poder de 530,000!
 
 [msg MSG_006 [Ryuji]]
-Oh, Dios, est茨 saliendo con esto...
+Oh, ella va a por todas con esto...
 
 [msg MSG_007 [Naoto]]
-夷Qu姻 quieres que hagamos, Elizabeth? Por[n]favor, explique.
+夷Qu姻 tenemos que hacer, Elizabeth? Por favor, expl胤canoslo.
 
 [msg MSG_008 [Elizabeth]]
-Me alegro de que lo hayas preguntado.
-斡Esta prueba especial pide que[n]encuentres un impersonador de la[n]polic胤a!
-Una Sombra est茨 creando confusi吋n entre[n]los ciudadanos de la ciudad de Kamo.
+Me alegro de que preguntes.
+斡Esta proyecci吋n especial pide que encuentren a un imitador de polic胤a!
+Una sombra est茨 creando confusi吋n entre los ciudadanos de Kamo City.
 
 [sel SEL_009 top]
 Eso es imperdonable.
-夷Quieres que nos ocupemos?
+夷Quieres que nos hagamos cargo de eso?
 
 [msg MSG_010 [Kanji]]
-斡Claro que s胤! 斡Encontraremos la Sombra[n]y pondremos el da隠o en 'im!
+斡Claro que s胤! 斡Encontraremos a la sombra y nos la cargaremos!
 
 [msg MSG_011 [Elizabeth]]
-Puede que no resulte tan f茨cil como[n]suena.
-La Sombra se ha disfrazado como uno de[n]los polic胤as patrullando la ciudad.
-Para encontrarlo, tendr茨 que encontrar y[n]hablar con cada uno de ellos.
+Puede que no sea tan f茨cil como lo aparenta.
+La sombra est茨 disfrazada como uno de los polic胤as que patrullan la ciudad.
+Para encontrarla, necesitar茨n encontrar y hablar con cada uno de ellos.
 
 [msg MSG_012 [Chie]]
-斡Vaya! 夷Entonces ser茨 como una[n]investigaci吋n? 斡Seremos como detectives[n]reales!
+斡Wow! 夷Entonces va a ser como una investigaci吋n? 斡Seremos como detectives de verdad!
 
 [msg MSG_013 [Naoto]]
-La pregunta es: 夷El polic胤a falso[n]admitir茨 que es falso?
+La pregunta es: 夷el polic胤a falso admitir茨 que 姻l es el falso?
 
 [msg MSG_014 [Elizabeth]]
-La Sombra probablemente intentar茨 mentir[n]su salida de ser atrapado.
-Por lo tanto, tendr茨 que hablar con[n]todos los oficiales de polic胤a.
+La sombra seguramente tender茨 a mentir para evitar ser capturada.
+Por lo tanto, tendr茨n que hablar con todos los polic胤as.
 
 [msg MSG_015 [Ann]]
-夷Pero c吋mo sabemos cu茨l est茨 mintiendo?
+Pero, 夷c吋mo sabemos cu茨l de ellos est茨 mintiendo?
 
 [msg MSG_016 [Naoto]]
-Ah... Es como un rompecabezas l吋gico.
+Ah... Es como un acertijo de l吋gica.
 
 [msg MSG_017 [Chie]]
-夷Un rompecabezas l吋gico?
+夷Acertijo de l吋gica?
 
 [msg MSG_018 [Naoto]]
-Es un tipo de rompecabezas donde hay que[n]identificar una contradicci吋n entre la[n]informaci吋n que se le da.
-En este caso, debemos hablar con los[n]agentes de polic胤a y encontrar la[n]contradicci吋n dentro de sus testimonios.
+Es un tipo de acertijo donde tienes que identificar una contradicci吋n entre toda la informaci吋n que recibas.
+En este caso, debemos hablar con los polic胤as y encontrar la contradicci吋n en sus testimonios.
 
 [msg MSG_019 [Futaba]]
-斡As胤 que tenemos que encontrar la[n]mentira! 斡Suena divertido!
+斡Entonces tenemos que encontrar la mentira! 斡Suena divertido!
 
 [sel SEL_020 top]
-Lo tengo.
+Lo pillo.
 Es un poco confuso...
 
 [msg MSG_021 [Ann]]
-夷Hablas en serio? No entend胤 nada de[n]eso... Eres muy inteligente, [f 6 1 30 0 0 0].
+夷En serio? Yo no entendido nada de eso... Eres muy inteligente, [f 6 1 30 0 0 0].
 
 [msg MSG_022 [Futaba]]
-斡Sin sudor! 斡Tengo la espalda!
+斡No se preocupen! 斡Yo os cubro las espaldas!
 
 [msg MSG_023 [Naoto]]
-No necesitas preocuparte. No es tan malo[n]cuando lo intentas.
-En primer lugar, tendremos que encontrar[n]a los polic胤as.
+No tienen por qu姻 preocuparos. No est茨 tan mal una vez que lo intentas.
+Lo primero y m茨s importante, tendremos que encontrar a los polic胤as.
 
 [msg MSG_024 [Akechi]]
-Veamos qu姻 puede hacer, detective[n]Prince.
+Veamos qu姻 puedes hacer, Pr胤ncipe Detective.
 

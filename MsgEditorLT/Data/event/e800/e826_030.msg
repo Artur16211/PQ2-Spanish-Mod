@@ -1,71 +1,71 @@
 [msg MSG_000 [Rise]]
-Mmm...
+Hmm...
 
 [msg MSG_001 [Ann]]
-夷Qu姻 pasa?
+What's wrong?
 
 [msg MSG_002 [Rise]]
-Parece que el camino se divide por[n]delante.
-Un camino contin雨a hacia el este y hace[n]un gran bucle hacia el norte...
+It looks like the road splits up ahead.
+One path continues east and makes a big[n]loop to the north...
 
 [msg MSG_003 [Fuuka]]
-Y el otro camino conduce hacia el norte[n]y hace un bucle m茨s peque隠o.
-Basado en nuestra posici吋n, ese ser胤a el[n]m茨s corto de los dos caminos.
+And the other path leads due north and[n]makes a smaller loop.
+Based on our position, that would be the[n]shorter of the two paths.
 
 [msg MSG_004 [Teddie]]
-斡M茨s corto es! 斡Todos s胤ganme!
+Shorter it is! Everyone follow me!
 
 [msg MSG_005 [Morgana]]
-Espera. El camino m茨s corto no es[n]siempre la mejor opci吋n.
-Si la experiencia me ha ense隠ado algo,[n]es que el camino f茨cil tiende a ser una[n]trampa...
+Wait. The shortest path isn't always the[n]best option.
+If experience has taught me anything,[n]it's that the easy path tends to be a[n]trap...
 
 [msg MSG_006 [Teddie]]
-Conferencia, conferencia, conferencia...[n]Si esto fuera un concurso de quejas,[n]ganar胤as las manos abajo.
+Lecture, lecture, lecture... If this[n]were a complaining contest, you'd win[n]hands down.
 
 [msg MSG_007 [Morgana]]
-夷Qui姻n se queja?
+Who's complaining!?
 
 [msg MSG_008 [Ann]]
-Bueno, creo que t雨 tambi姻n podr胤as hacer[n]un caso. 夷Qu姻 camino crees que[n]deber胤amos tomar, Joker?
+Well, I think you could make a case for[n]either. Which path do you think we[n]should we take, Joker?
 
 [sel SEL_009 top]
-El camino m茨s corto.
-El camino m茨s largo.
-Necesitamos m茨s informaci吋n.
+The shorter path.
+The longer path.
+We need more info.
 
 [msg MSG_010 [Teddie]]
-夷Ves? 夷Qu姻 te dije?
+See? What'd I tell you!?
 
 [msg MSG_011 [Morgana]]
-斡Sab胤a que lo entender胤as, Joker!
+I knew you'd understand, Joker!
 
 [msg MSG_012 [Ann]]
-S胤, ser胤a agradable si conoci姻ramos un[n]poco m茨s sobre lo que nos espera por[n]cada camino.
+Yeah, it'd be nice if we knew a little[n]more about what's waiting for us down[n]each path.
 
 [msg MSG_013 [Koromaru]]
-斡Barco, corteza!
+Bark, bark!
 
 [msg MSG_014 [Yukari]]
-夷Hm? 夷Qu姻 pasa, Koromaru?
+Hm? What is it, Koromaru?
 
 [msg MSG_015 [Aigis]]
-Parece estar diciendo que puede oler[n]algo por cada camino.
+He seems to be saying he can smell[n]something down each path.
 
 [msg MSG_016 [Chie]]
-夷En serio? No huelo nada.
-へ まれろよを ほぺれろぺょろま れまむゎるよ ぽま らよぽまる るまぼよむまる まゅ[n]よゅよる ぽま ゅぺ ぼぺるょま ぽまれぽま ぼゎぺゅりゎもまる らぺるろま ぽまょろるよ[n]ぽま ゎょぺ ゆもゅゅぺ を ゆまぽもぺ ぽま まれろま ゅゎむぺるテ
+Really? I don't smell anything.
+And I'm pretty sure I could pick up the[n]smell of meat from anywhere within a[n]mile and a half of this place.
 
 [msg MSG_017 [Yosuke]]
-Ah胤 va el monstruo de la carne... Como[n]si fuera algo de lo que estar orgulloso.
+There goes the meat freak... Like that's[n]anything to be proud of.
 
 [msg MSG_018 [Ken]]
-Koromaru tiene un olor mucho mejor que[n]nosotros, as胤 que podr胤a estar en algo.
+Koromaru has a much better sense of[n]smell than us, so he might actually be[n]onto something.
 
 [msg MSG_019 [Futaba]]
-No hay forma de saberlo desde aqu胤.[n]Tendremos que acercarnos.
-Tendr茨s tanta informaci吋n como puedas[n]antes de tomar una decisi吋n.
+There's no real way to tell from here.[n]We'll have to get closer.
+You'll wanna get as much info as you can[n]before you make a decision.
 
 [msg MSG_020 [Teddie]]
-斡Yo digo que revisemos el camino m茨s[n]corto primero!
-斡Vamos!
+I say we check out the shorter path[n]first!
+Let's gooo!
 

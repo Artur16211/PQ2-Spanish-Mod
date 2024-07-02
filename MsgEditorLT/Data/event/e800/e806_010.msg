@@ -1,62 +1,62 @@
 [msg MSG_000 [Elizabeth]]
-Para esta pr吋xima tarea, ser茨 necesario[n]encontrar lo que se conoce como[n]"ammonitas"
-Se ha rumorado que estas criaturas de[n]larga data se han visto recientemente en[n]alg雨n lugar de la Tierra de Junessic.
-Me gustar胤a mucho tener una cita[n]juguetona con este "ammonite" y sus[n]magn胤ficas piernas tipo tent茨culo.
+Para la siguiente tarea, necesitar茨n encontrar lo que se conoce como "amonites"
+Se rumorea que esas criaturas que se extinguieron hace tanto han sido recientemente vistas en alg雨n lugar de Junessic Land.
+Me gustar胤a mucho tener una cita juguetona con esa "amonita" y sus geniales tent茨culos.
 
 [msg MSG_001 [Chie]]
-夷D吋nde est茨 Elizabeth enterado de este[n]tipo de cosas?
+夷D吋nde aprende Elizabeth ese tipo de cosas...?
 
 [msg MSG_002 [Elizabeth]]
-斡Tengo un regalo para ver estas cosas!
-Es una cura para el boredo, quiero[n]decir... Soy naturalmente talentoso.
+*risita* 斡Tengo un don para sentir ese tipo de cosas!
+Es una especie de cura para el aburrimiento, quiero decir... Tengo un talento natural.
 
 [msg MSG_003 [Ryuji]]
 ... Podemos o胤rte, sabes.
 
 [msg MSG_004 [Naoto]]
-Bueno, parece que nos beneficia[n]completar estas solicitudes.
+Bien, parece que nos beneficiaremos completando estas tareas.
 
 [msg MSG_005 [Yusuke]]
 Amonitas...
 
 [msg MSG_006 [Futaba]]
-夷Hm? 夷Qu姻 pasa con Inari?
+夷Hm? 夷Qu姻 ocurre, Inari?
 
 [msg MSG_007 [Yusuke]]
-斡Quiero aceptar esta misi吋n! 夷Est茨 bien?
+斡Quiero aceptar esta misi吋n! 夷Te parece bien?
 
 [sel SEL_008 top]
-No hay problema.
-Te lo dejar姻.
+Sin problema.
+Te lo dejar姻 a ti.
 夷Por qu姻?
 
 [msg MSG_009 [Yusuke]]
 Gracias.
 
 [msg MSG_010 [Ryuji]]
-夷Qu姻 te excita tanto?
+夷Qu姻 te tiene tan emocionado?
 
 [msg MSG_011 [Yusuke]]
-Deseo mover el coraz吋n de Amagi.
+Desear胤a conmover el coraz吋n de Amagi.
 
 [msg MSG_012 [Teddie]]
-夷D茨ndole un ammonito? 斡Eso es una[n]tonter胤a!
-斡Las chicas quieren cosas brillantes y[n]caras!
+夷D茨ndole una amonita? 斡Eso no tiene sentido!
+斡Las chicas quieren cosas que sean brillantes y caras!
 
 [msg MSG_013 [Chie]]
-No es as胤 como lo haces, pero... 夷Desde[n]cu茨ndo eran ustedes dos una cosa?
+As胤 no es c吋mo se hace, pero... 夷Desde cu茨ndo vosotros dos sois algo?
 
 [msg MSG_014 [Yukiko]]
-No es as胤. Yusuke me ense隠a c吋mo[n]dibujar.
-Quiere ayudarme a encontrar algo que me[n]guste, algo que pueda ser apasionado.
+Lo has malinterpretado. Yusuke me est茨 ense隠ando a dibujar.
+Quiere ayudarme a encontrar algo que me guste, algo que me apasione.
 
 [msg MSG_015 [Yusuke]]
-Amagi no tiene idea del incre胤ble[n]potencial art胤stico que posee.
-Debo encontrar este ammonite para ver de[n]qu姻 es realmente capaz!
+Amagi no tiene idea del incre胤ble potencial art胤stico que ella tiene.
+斡Debo encontrar esa amonita para vez de lo que ella es realmente capaz!
 
 [msg MSG_016 [Morgana]]
-Yusuke se est茨 arreglando. Ser茨 mejor[n]que hagamos esto r茨pido.
+Yusuke se est茨 poniendo nervioso. Ser茨 mejor que lo hagamos r茨pido.
 
 [msg MSG_017 [Chie]]
-テテテ つゅ ぺるろま ぽま へゎやもやよ ょよ まるぺ ろぺょ まれらまぼもぺゅデ[n]エわまるぽぺぽ? ひもまょろよ りゎま めま わもれろよ まゅ ゆもれゆよ ろもらよ ぽま[n]ぼよれぺれ まょ ゅぺ ぼゅぺれま ぽま ぺるろまテテテ
+... El arte de Yukiko no era tan especial, 夷no? Me parece que he visto el mismo tipo de cosas en la clase de arte...
 

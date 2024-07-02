@@ -1,95 +1,95 @@
 [msg MSG_000 [Elizabeth]]
-Es bueno ver que est茨s bien.
-斡Has cazado a tu presa y cerrado para[n]matar! Parece que eran las verdaderas[n]bestias sanguinarias de esta historia.
-Qu姻 espect茨culo tan espl姻ndido. Fue una[n]muestra perfecta de las duras leyes de[n]la naturaleza.
+It is good to see you are all well.
+You hunted down your prey then closed in[n]for the kill! It seems you were the real[n]bloodthirsty beasts in this story.
+What a splendid show. It was a perfect[n]display of the harsh laws of nature.
 
 [msg MSG_001 [Yukari]]
-Ahaha... Nos llam吋 bestias...
+Ahaha... She called us beasts...
 
 [msg MSG_002 [Akihiko]]
-Nunca le dir胤a que no a un oponente[n]dif胤cil. Esperando al siguiente.
+I'd never say no to a tough opponent.[n]Lookin' forward to the next one.
 
 [msg MSG_003 [Shinjiro]]
-El 雨nico sanguinario aqu胤 eres t雨.
+*sigh* The only bloodthirsty one here is[n]you.
 
 [msg MSG_004 [Akechi]]
-Well then, I think I'll take a break,[n][f 6 1 30 0 0 0].
+Well then, I think I'll take a break,.
 
 [msg MSG_005 [Akechi]]
 Phew...
 
 [msg MSG_006 [Ken]]
-Akechi.
+Um, Akechi-san.
 
 [msg MSG_007 [Akechi]]
-夷Amada? 夷Qu姻 pasa?
+Amada-kun? What is it?
 
 [msg MSG_008 [Ken]]
 Um...
-Eres diferente del resto de los Phantom[n]Thieves, 夷no?
+You're different from the rest of the[n]Phantom Thieves, aren't you?
 
 [msg MSG_009 [Akechi]]
-...?
+......?
 
 [msg MSG_010 [Ken]]
-Me di cuenta de que tu expresi吋n cambia[n]cuando est茨s con Koromaru...
-Me siento a gusto cuando estoy con 姻l[n]tambi姻n.
-Me hizo pensar que... tal vez somos[n]iguales, Akechi.
+I noticed your expression changes when[n]you're with Koromaru...
+I feel at ease when I'm with him too.
+It got me thinking that... maybe we're[n]the same, Akechi-san.
 
 [msg MSG_011 [Akechi]]
-Mmm... 夷Qu姻 te hace decir eso?
+Hmm... What makes you say that?
 
 [msg MSG_012 [Ken]]
-Koromaru es un perro inteligente, as胤[n]que puede recoger ese tipo de cosas.
-Estaba muy preocupado por ti, as胤 que[n]eso debe significar que...
+Koromaru's a smart dog, so he can pick[n]up on that kind of stuff.
+He was really worried about you, so that[n]must mean you...
 
 [msg MSG_013 [Akechi]]
-...
+......
 
 [msg MSG_014 [Ken]]
-Lo siento... Probablemente no tengas[n]idea de lo que estoy hablando.
+Uh, sorry... You probably have no idea[n]what I'm talking about.
 
 [msg MSG_015 [Koromaru]]
-斡Arf, Arf!
+Arf, arf!
 
 [msg MSG_016 [Ken]]
-Me est茨 llamando, as胤 que tengo que[n]irme. 斡Lo siento, olvida que dije algo!
+He's calling for me, so I gotta go.[n]Sorry, just forget I said anything!
 
 [msg MSG_017 [Akechi]]
-...
-Realmente est茨s afilada, Koromaru...
+......
+You really are sharp, Koromaru-kun...
 
 [msg MSG_018 [P4 Hero]]
-Es un par inesperado.
-Parec胤a una discusi吋n bastante seria.[n]夷De qu姻 crees que estaban hablando?
+That's an unexpected pair.
+It looked like a pretty serious[n]discussion. What do you think they were[n]talking about?
 
 [sel SEL_019 top]
-夷Problemas personales?
-夷Amor, tal vez?
-No lo s姻, no importa.
+Personal problems?
+Love, maybe?
+Don't know, don't care.
 
 [msg MSG_020 [P4 Hero]]
-Ya veo. Akechi parece que ofrece un buen[n]consejo.
+I see. Akechi-san does seem like he'd[n]offer good advice.
 
 [msg MSG_021 [P4 Hero]]
-夷Qu姻? Pero Ken sigue en la escuela...
-Bueno... es maduro para su edad, as胤 que[n]es posible. Me imagino que Akechi sabr胤a[n]mucho sobre esas cosas.
+What!? But Ken's still in grade[n]school...
+Well... he is mature for his age, so[n]it's possible. I imagine Akechi-san[n]would know a lot about those things.
 
 [msg MSG_022 [P4 Hero]]
-S胤. Probablemente sea mejor no llorar.
+Yeah. It's probably best not to pry.
 
 [msg MSG_023 [P4 Hero]]
-...
-Esto es s吋lo un pensamiento, pero...
-Parece que cada uno tiene algo sobre[n]ellos que no siente que realmente puedan[n]hablar.
-Y sean cuales sean esas cosas,[n]eventualmente llevar茨n a...
+......
+This is just a thought, but...
+It seems like they each have something[n]looming over them that neither feels[n]they can really talk about.
+And whatever those somethings are,[n]they'll eventually lead to...
 
 [sel SEL_024 top]
-夷Qu姻 quieres decir?
-No sigo.
+What do you mean?
+I don't follow.
 
 [msg MSG_025 [P4 Hero]]
-Oh, lo siento. Supongo que no tiene[n]sentido preguntarse.
-Por ahora, tendremos que cuidarlos...
-Con suerte, creceremos m茨s cerca como[n]equipo y tendremos alg雨n tipo de[n]influencia positiva en esos dos.
+Oh, sorry. I guess there's no point in[n]wondering.
+For now, we'll just have to watch over[n]them...
+Hopefully, we'll grow closer as a team[n]and have some sort of positive influence[n]on those two.
 

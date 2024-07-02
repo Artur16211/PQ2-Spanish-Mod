@@ -1,60 +1,60 @@
 [msg MSG_000 [Rise]]
-夷Est茨n todos listos?
-La ubicaci吋n que Elizabeth especific吋 es[n]un agujero justo al norte de aqu胤.
+夷Est茨 todo el mundo preparado?
+La localizaci吋n que especific吋 Elizabeth es una alcantarilla justo al norte de aqu胤.
 
 [msg MSG_001 [Futaba]]
-Si recuerdo bien, tendremos que pasar[n]por un mont吋n de reflectores para llegar[n]all胤.
+Si la memoria no me falla, tendremos que escabullirnos entre un mont吋n de reflectores para llegar.
 
 [msg MSG_002 [Yosuke]]
-Este tipo de cosas es la especialidad de[n]Ladrones Fantasma, 夷verdad?
+Ese tipo de cosas son la especialidad de los Ladrones Fantasma, 夷no?
 
 [sel SEL_003 top]
 Estamos acostumbrados a esto.
-D姻janoslo.
-斡Yo digo que nos cobramos!
+D姻janoslo a nosotros
+斡Vamos a la carga!
 
 [msg MSG_004 [Yusuke]]
-S胤, evitar la detecci吋n es com雨n cuando[n]se infiltra un palacio.
+S胤, evitar ser detectados es habitual cuando nos infiltramos en un Palacio.
 
 [msg MSG_005 [Teddie]]
-夷C吋mo est茨s siempre tan calmada? Es casi[n]inquietante...
+夷C吋mo est茨is siempre tan tranquilos? Es casi inquietante...
 
 [msg MSG_006 [Naoto]]
-*chuckle* Contamos contigo.
+*Risita* Contamos contigo
 
 [msg MSG_007 [Ryuji]]
-斡S胤! 斡Al final del d胤a, se trata de[n]fuerza bruta!
+斡S胤! Al final del d胤a, 斡todo depende de la fuerza bruta!
 
 [msg MSG_008 [Morgana]]
-斡Y ustedes se llaman ladrones fantasma!
+斡Y vosotros os llam茨is Ladrones Fantasmas!
 
 [msg MSG_009 [Kanji]]
-As胤 que tenemos que evitar que nos vean,[n]夷verdad?
+Entonces, solo tenemos que evitar ser detectados, 夷verdad?
 
 [msg MSG_010 [Morgana]]
-夷Crees que estar茨s bien? Esto va a tomar[n]precisi吋n y un buen ojo para sutilezas.
+夷Cre姻is que estar姻is bien? Esto necesita precisi吋n y sutileza.
 
 [msg MSG_011 [Rise]]
-斡Si ese es el caso, Kanji deber胤a ser[n]genial en esto!
+En ese caso, 斡Kanji ser胤a perfecto en esto!
 
 [msg MSG_012 [Kanji]]
-No soy especial...
+Y-Yo no soy nada especial...
 
 [msg MSG_013 [Yukiko]]
-Chie tambi姻n es bastante 茨gil. 夷Tal vez[n]estar胤a bien?
+Chie tambi姻n es bastante 茨gil. Quiz茨s podr胤a encajar bien.
 
 [msg MSG_014 [Chie]]
-Bueno, soy bastante atl姻tico, pero no[n]soy exactamente graciosa, 夷sabes?
+Soy bastante atl姻tica, pero no exactamente sutil, 夷sabes?
 
 [msg MSG_015 [Ann]]
-斡No te preocupes! 斡Sigan mi pista!
+斡No te preocupes! 斡T雨 solo s胤gueme!
 
 [msg MSG_016 [Chie]]
-斡Est茨 bien!
+斡V-Vale!
 
 [msg MSG_017 [Teddie]]
-Hrrm... Parece que se llevan bien. Estoy[n]celoso...
+Hmm... Ellas parecen llevarse bastante bien. Que cel-oso estoy...
 
 [msg MSG_018 [Morgana]]
-Deja de perder el tiempo. Tenemos un[n]agujero para encontrar.
+Dejad de perder el tiempo. Tenemos una alcantarilla que encontrar.
 

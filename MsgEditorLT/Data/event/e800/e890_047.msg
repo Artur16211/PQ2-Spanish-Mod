@@ -1,16 +1,16 @@
 [msg MSG_000 [Caroline]]
-*sigh* Totalmente inaceptable. 夷Qu姻 te[n]pasa, Reclusa?
+*sigh* Completely unacceptable. What's[n]the matter with you, Inmate?
 
 [msg MSG_001 [Justine]]
-S胤. Decepcionante, en el mejor de los[n]casos.
+Yes. Disappointing, at best.
 
 [msg MSG_002 [Margaret]]
-夷Hemos malinterpretado tus habilidades?[n]Luego, los resultados hablan por s胤[n]mismos...
+Did we misjudge your skills? Then again,[n]the results speak for themselves...
 
 [msg MSG_003 [Theodore]]
-Entonces, por favor acepta esto. Una[n]muestra de nuestro agradecimiento por el[n]combate.
+Well then, please accept this. A token[n]of our appreciation for the bout.
 
 [msg MSG_004 [Elizabeth]]
-Todos, est茨n libres de desafiarnos de[n]nuevo cuando quieran. Esto es una[n]verdadera prueba, despu姻s de todo.
-Hasta que llegue el momento, y obtengas[n]el poder para vencernos... te esperamos[n]pacientemente aqu胤.
+Everyone, you are free to challenge us[n]again whenever you please. This is a[n]true ordeal, after all.
+Until the time comes, and you gain the[n]power to overcome us... we shall[n]patiently await you here.
 

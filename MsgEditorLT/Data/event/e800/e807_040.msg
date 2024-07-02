@@ -1,29 +1,29 @@
 [msg MSG_000 [Futaba]]
-斡Objetivo avistado! 斡D姻jalo tener!
+斡Objetivo localizado! 斡Qu姻 se lo quede!
 
 [msg MSG_001 [Ryuji]]
-Ya sabes, ahora que estoy viendo esa[n]carne, o arma, o lo que sea de nuevo...[n]Esa cosa es enorme.
+Sabes, ahora que estoy viendo la carne, o arma, o lo que sea... Esa cosa es malditamente gigante.
 
 [msg MSG_002 [Yusuke]]
-Lo sab胤a. Cuanto m茨s lo veo, m茨s fuerte[n]ser茨 mi curiosidad y apetito.
+Lo sab胤a. Cuanto m茨s lo veo, mi curiosidad y mi apetito se hacen m茨s fuertes.
 
 [msg MSG_003 [Chie]]
-夷Es pollo frito? 斡Eso podr胤a alimentar,[n]como, cinco personas, no!
+Oh, t胤o, 夷eso es pollo frito? Eso podr胤a alimentar como, cinco, no, 斡diez personas!
 
 [msg MSG_004 [Yosuke]]
-Espera, chicos. Es demasiado peligroso[n]cargar all胤 solo.
-Estamos aqu胤 tambi姻n, as胤 que no lo[n]tomes todo por ti, 夷de acuerdo?
+Ey, esperad, chicos. Es muy peligroso entrar ah胤 solos.
+Nosotros tambi姻n estamos aqu胤, as胤 que no se lo queden todo para ustedes, 夷correcto?
 
 [msg MSG_005 [Chie]]
-... Tienes raz吋n. Tenemos que dividirlo[n]uniformemente.
+... Tienes raz吋n. Tenemos que dividirlo en partes iguales.
 
 [msg MSG_006 [Yosuke]]
-斡No hablaba de la carne! 斡Dije que no se[n]lleve toda la gloria!
+斡No me refer胤a a la carne! 斡Dec胤a que no te llevaras toda la gloria!
 
 [msg MSG_007 [Kanji]]
-夷Eh? Suenas bastante bombeado,[n]Yosuke-senpai.
+夷Eh? Suenas muy entusiasmado, Yosuke.
 
 [msg MSG_008 [Yosuke]]
-Haha. S胤, supongo que...
-斡De acuerdo, derribamos a este tipo!
+Jaja. S胤, supongo...
+斡Muy bien, acabemos con este tipo!
 

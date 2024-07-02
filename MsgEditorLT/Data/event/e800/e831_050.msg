@@ -1,120 +1,120 @@
 [msg MSG_000 [Ryuji]]
-夷Ves esa se隠al? Hay una mierda de gente[n]aqu胤 tambi姻n.
+Yo, you see that sign? There's a[n]shit-ton of people here too.
 
 [msg MSG_001 [Yusuke]]
-Este lugar parece muy popular. Esto debe[n]ser todo.
+This place looks quite popular. This[n]must be it.
 
 [msg MSG_002 [P3 Hero]]
-Bueno, Elizabeth dijo que todo lo que[n]necesit茨bamos era encontrar el lugar,[n]as胤 que parece que hemos terminado aqu胤.
-Vamos..
+Well, Elizabeth said all we needed to do[n]was find the place, so it looks like[n]we're done here.
+Let's―
 
 [msg MSG_003 [Junpei]]
-斡Espera! 夷Quieres irte a casa?
-Llegamos tan lejos, y ni siquiera[n]quieres ver c吋mo es?!
+Hold up! You wanna go home!?
+We came this far, and you don't even[n]wanna see what it's like!?
 
 [msg MSG_004 [Teddie]]
-斡As胤 es! 斡A veces un oso tiene que[n]luchar por su derecho a la fiesta!
-Y con eso... 斡Carga!
+That's right! Sometimes a bear's gotta[n]fight for his right to party!
+And with that... Charge!
 
 [msg MSG_005 [Junpei]]
-斡Eso no es justo! 斡No te apresures solo!
+Hey, that ain't fair! Don't rush in by[n]yourself!
 
 [msg MSG_006 [Yosuke]]
-斡Hola! 斡Chicos!
+H-Hey! Guys!
 
 [msg MSG_007 [Teddie]]
-No fue de utilidad... El guardia no me[n]dej吋 entrar...
+It was no use... The guard wouldn't let[n]me in...
 
 [msg MSG_008 [Shinjiro]]
-S吋lo es VIP. Probablemente necesitemos[n]alg雨n tipo de membres胤a o algo as胤.
+It's VIP only. We probably need some[n]kinda membership or something.
 
 [msg MSG_009 [Teddie]]
-No... No es s吋lo VIP.
+No... It's not VIP only.
 
 [msg MSG_010 [Yosuke]]
-夷Eh? Entonces, 夷por qu姻 no pudiste[n]entrar?
+Huh? Then, why couldn't you get in?
 
 [msg MSG_011 [Junpei]]
-Los chicos no pueden entrar solos.
-Seguridad dice que los chicos s吋lo[n]pueden entrar si tienen chicas con[n]ellos.
+Guys can't get in on their own.
+Security says guys can only come in if[n]they got girls with 'em.
 
 [msg MSG_012 [Teddie]]
-Es un mundo duro para nosotros chicos[n]solitarios...
+It's a harsh world for us lonely boys...
 
 [msg MSG_013 [Junpei]]
-斡No estoy sola! Maldici吋n... Si tuviera[n]mi dulce Chidorita...
-Esto requiere medidas dr茨sticas. Si[n]pedimos ayuda a nuestras encantadoras[n]damas, estoy seguro de que..
+I'm not lonely! Dammit... If only I had[n]my sweet Chidorita...
+This calls for drastic measures. If we[n]ask our lovely ladies for help, I'm sure[n]we―
 
 [msg MSG_014 [Yukari]]
-No.
+Nope.
 
 [msg MSG_015 [Mitsuru]]
-夷Nos vas a usar? Y te llamas un[n]caballero...
+*sigh* You're going to use us? And you[n]call yourself a gentleman...
 
 [msg MSG_016 [Junpei]]
-Quiero convertirme en un adulto. D姻jame[n]ser uno...
+Ugh... I wanna become an adult. Let me[n]be one...
 
 [msg MSG_016_1 [Kanji]]
-Puedes empezar por no ser tan beb姻...[n]Vamos, volvamos.
+You can start by not bein' such a[n]baby... C'mon, let's go back.
 
 [msg MSG_016_2 [Teddie]]
-斡Espera! 斡Tenemos profesionales con[n]nosotros! 斡Quiz茨 puedan ayudar!
-斡Maestros de la noche! 斡Ens姻隠anos tus[n]caminos! 斡Por favor!
+Hmm... Wait! We have professionals with[n]us! Maybe they can help!
+Masters of the night! Teach us your[n]ways! Please!
 
 [msg MSG_017 [P3 Hero]]
-夷Nuestras formas...?
-夷Alguna idea de c吋mo podemos enga隠ar a[n]la seguridad?
+Our ways...?
+Any idea how we can trick security?
 
 [sel SEL_018 top]
-夷Ropa cruzada?
-夷Encontrar algunas chicas?
-夷Un soborno?
+Cross dressing?
+Find some girls?
+A bribe?
 
 [msg MSG_019 [Teddie]]
-斡Ah! 斡Es una gran idea! 斡Si no hay[n]chicas, entonces me convertir姻 en una!
-斡Estar胤as fuera de tu mente para no caer[n]por esta cara bonita m胤a!
+Ah! That's a great idea! If there are no[n]girls, then I shall become one!
+Why, you'd be out of your mind not to[n]fall for this pretty face of mine!
 
 [msg MSG_020 [Yosuke]]
-No, no hay manera de que eso vaya a...
+Nah, there's no way that's going to...
 
 [msg MSG_021 [Kanji]]
-Teddie se ha ido, amigo...
+Uhhh, Teddie's gone, dude...
 
 [msg MSG_022 [Teddie]]
-斡S胤! 斡Hay una idea! 斡Vamos a hacer algo[n]bonito, bonito, pretties y bingo,[n]estamos dentro!
+Yeah! There's an idea! We go schmooze[n]some pretty, pretty, pretties, and[n]bingo―we're in!
 
 [msg MSG_023 [Yosuke]]
-Como cualquier chica estar胤a de acuerdo[n]en venir con nosotros. Vamos a...
+Like any girl would agree to come along[n]with us. Let's just...
 
 [msg MSG_024 [Kanji]]
-Teddie se ha ido, amigo...
+Uhhh, Teddie's gone, dude...
 
 [msg MSG_025 [Teddie]]
-Oh-hoh... 夷Un poco de acci吋n[n]insuficiente, dices? Realmente eres un[n]chico malo.
+Oh-hoh... A little under-the-table[n]action, you say? You really are a bad[n]boy.
 
 [msg MSG_026 [Yosuke]]
-Bueno, 夷con qu姻 diablos se supone que[n]debemos sobornarlos?
+Well, what the heck are we supposed to[n]bribe 'em with?
 
 [msg MSG_027 [Teddie]]
-Puede que no tenga dinero dentro de m胤,[n]pero tengo caramelos.
-斡Los traer姻 con una sorpresa de caramelo[n]medio comido!
+I may not have money inside me, but I do[n]have candy.
+I'll get 'em with a half-eaten candy[n]surprise!
 
 [msg MSG_028 [Teddie]]
-斡No funcion吋!
+It didn't work!
 
 [msg MSG_029 [Junpei]]
-斡Dah! 斡Pensaban que ibas a venir con[n]ellos!
+Duh! They thought you were comin' on to[n]them!
 
 [msg MSG_030 [Yosuke]]
-斡Mierda, tenemos compa隠胤a!
+Crap, we've got company!
 
 [msg MSG_031 [P3 Hero]]
-夷Sombras? Supongo que es una pelea,[n]entonces.
+Are those... Shadows!? Guess it's a[n]fight, then.
 
 [sel SEL_032 top]
-Hag茨moslo.
-Lo hacemos juntos.
+Let's do it.
+We do it together.
 
 [msg MSG_033 [P3 Hero]]
-Bien, podemos tomarlos. 斡Vamos!
+Right, we can take them. Let's go!
 

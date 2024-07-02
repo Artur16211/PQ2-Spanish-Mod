@@ -1,96 +1,96 @@
 [msg MSG_000 [Elizabeth]]
-夷Oh? Todos hab姻is llegado al momento[n]perfecto.
-Simplemente sucede que hubo una[n]solicitud para ver una determinada[n]selecci吋n especial.
-El billete ya ha sido registrado en la[n]taquilla. Por favor, echa un vistazo.
+Oh? You've all come at the perfect time.
+It just so happens that there was a[n]request to view a certain special[n]screening.
+The ticket has already been registered[n]at the box office. Please take a look.
 
 [sel SEL_001 top]
-夷Una petici吋n?
-夷De qui姻n?
+A request?
+From who?
 
 [msg MSG_002 [Elizabeth]]
-S胤, estaba teniendo mi o胤do[n]incesantemente hablado por nada m茨s[n]que...
+Yes, I was having my ear incessantly[n]talked off by none other than...
 
-[msg MSG_003 [Voz Arrogante]]
-*Snicker* No fue tanto problema,[n]夷verdad?
+[msg MSG_003 [Cocky voice]]
+*snicker* It wasn't that much trouble,[n]was it?
 
-[msg MSG_004 [Voz Tranquila]]
-S胤, creo que eso estaba seguro dentro de[n]nuestros derechos.
+[msg MSG_004 [Calm voice]]
+Yes, I believe that was safely within[n]our rights.
 
 [msg MSG_005 [Elizabeth]]
-Bueno...
+Well...
 
-[msg MSG_006 [Voz Arrogante]]
-*Snicker* Fue de nosotros.
+[msg MSG_006 [Cocky voice]]
+*snicker* It was from us.
 
-[msg MSG_007 [Voz Tranquila]]
-Y cumplir茨s esa petici吋n como deseamos.
+[msg MSG_007 [Calm voice]]
+And you shall fulfill said request as we[n]desire.
 
 [msg MSG_008 [Futaba]]
-Whoa! 夷De d吋nde vienen las miradas?
-夷Qu姻 pasa? 夷Estaban solos?
+Whoa! Where'd the look-alikes come[n]from!?
+What's up? Were you two lonely all by[n]yourselves?
 
 [msg MSG_009 [Justine]]
-Apenas... Simplemente hemos venido a[n]pasar nuestras 吋rdenes a usted.
+Hardly... We've merely come to pass our[n]orders on to you.
 
 [msg MSG_010 [Caroline]]
-S胤. Si dejamos que las cosas sigan as胤,[n]todas tus pel胤culas se volver茨n suaves.
-Pensamos que organizar胤amos algunos[n]ensayos para ayudar con su[n]rehabilitaci吋n.
+Yeah. If we let things keep going as[n]they have, all of your movies are gonna[n]turn out soft.
+We figured we would arrange some trials[n]to help with your rehabilitation.
 
 [msg MSG_011 [Elizabeth]]
-Tu objetivo en esta selecci吋n especial[n]de sus...
-...Es derrotar al Seidoptera que reside[n]en la Tierra Junesic.
+Your goal in this special screening of[n]theirs...
+...Is to defeat the Seidoptera residing[n]in Junessic Land.
 
 [msg MSG_012 [P4 Hero]]
-Ese FOE, 夷eh? Esto ser茨 dif胤cil.
+That FOE, huh? This'll be tough.
 
 [msg MSG_013 [Chie]]
-Debe ser una buena lucha, sin embargo,[n]considerando lo fuertes que somos ahora!
+It should be a good fight, though,[n]considering how strong we are now!
 
 [msg MSG_014 [Ryuji]]
-Nos hemos puesto muy c吋modos con este[n]lugar tambi姻n. No deber胤a ser tan duro,[n]con nuestro equipo m茨s grande y todo.
+We've gotten pretty comfortable with[n]this place too. Shouldn't be that hard,[n]what with our bigger team and all.
 
 [msg MSG_015 [Justine]]
-Quiz茨s. Sin embargo, hay dos FOEs. Debes[n]derrotarlos a ambos.
+...Perhaps. However, there are two FOEs.[n]You must defeat them both.
 
 [msg MSG_016 [P4 Hero]]
-夷Dos?
+Two?
 
 [msg MSG_017 [Caroline]]
-夷Asustado?
-No ser胤a divertido verte brisa a trav姻s[n]de 姻l.
+*snicker* Scared yet?
+It wouldn't be any fun to watch you[n]breeze through it.
 
 [msg MSG_018 [Justine]]
-Ahora, deje que la prueba especial[n]comience. Ap雨rate y entretenernos.
+Now, let the special screening begin.[n]Hurry up and entertain us.
 
 [sel SEL_019 top]
-Supongo que lo intentaremos.
-No dijimos que s胤.
+Guess we'll give it a try.
+We didn't say yes.
 
 [msg MSG_020 [Caroline]]
-斡Bien dicho! 斡Sal de ah胤 y b茨jalos!
+Well said! Now, get out there and take[n]them down!
 
 [msg MSG_021 [Justine]]
-Esa es una buena mentalidad. Tal vez[n]podamos elevar nuestras expectativas un[n]poco.
+That is a good mindset. Perhaps we can[n]raise our expectations somewhat.
 
 [msg MSG_022 [Justine]]
-夷Planeas huir, Recluso? Este juicio[n]tambi姻n es por tu propio bien.
+Do you plan to run away, Inmate? This[n]trial is for your own sake as well.
 
 [msg MSG_023 [Caroline]]
-S胤, si ni siquiera puedes manejar esto,[n]entonces puedes olvidarte de tener 姻xito[n]en tu rehabilitaci吋n.
+Yeah, if you can't even manage this,[n]then you can forget about succeeding in[n]your rehabilitation.
 
 [msg MSG_024 [Makoto]]
-Tienen raz吋n. Luchar contra oponentes[n]fuertes podr胤a servir como buena[n]experiencia.
+They've got a point. Fighting strong[n]opponents might serve as good[n]experience.
 
 [msg MSG_025 [Ann]]
-Mmm... Nos han ayudado mucho. 夷Quiz茨s[n]deber胤amos escucharlos?
+Hmm... They have helped us a lot. Maybe[n]we should hear them out?
 
 [msg MSG_026 [Elizabeth]]
-Parece que has llegado a una decisi吋n.
-Levanta las cortinas. 斡Esta pelea est茨 a[n]punto de empezar!
+It seems you've reached a decision.
+Raise the curtains. This brawl's about[n]to begin!
 
 [msg MSG_027 [Justine]]
-Como las estrellas de este espect茨culo,[n]es su deber realizar lo m茨ximo de sus[n]habilidades.
+As the stars of this showing, it is your[n]duty to perform the utmost of your[n]abilities.
 
 [msg MSG_028 [Caroline]]
-Estaremos vigilando desde aqu胤. 斡No se[n]permiten errores, Recluso!
+We'll be watching from here. No missteps[n]allowed, Inmate!
 

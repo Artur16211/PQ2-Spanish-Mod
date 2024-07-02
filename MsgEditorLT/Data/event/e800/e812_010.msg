@@ -1,97 +1,97 @@
 [msg MSG_000 [Elizabeth]]
-Disculpe, [f 6 1 30 0 0 0].
-夷Sabes de esta cosa que es popular entre[n]los j吋venes y la cadera llamados[n]"churros"?
+Perd吋name, [f 6 1 30 0 0 0].
+夷Conoces de casualidad esa cosa que es tan popular entre los j吋venes y modernos a la que llaman "chu-rros"?
 
 [msg MSG_001 [P3 Fem Protag]]
-夷Te refieres a "churros", como el[n]aperitivo?
+夷Quieres decir "churros", como el aperitivo?
 
 [sel SEL_002 top]
-No.
+No, no s姻.
 He o胤do hablar de ellos.
-Los amo..
+Me encantan.
 
 [msg MSG_003 [Rise]]
-夷Eh? 夷En serio?
-斡Son como donas largas y finas cubiertas[n]de canela y az雨car!
+夷Huh? 夷En serio?
+斡Son como donuts alargados y delgados cubiertos con canela y az雨car!
 
 [msg MSG_004 [Rise]]
-夷As胤 que nunca has tenido uno antes?
-斡Son como donas largas y finas cubiertas[n]de canela y az雨car!
+Entonces, 夷nunca te has comido ninguno?
+斡Son como donuts alargados y delgados cubiertos con canela y az雨car!
 
 [msg MSG_005 [P3 Fem Protag]]
-*chuckle* [f 6 1 30 0 0 0] 夷eres un gran fan de[n]los dulces?
+*risita* [f 6 1 30 0 0 0], 夷eres un gran fan de los dulces?
 
 [msg MSG_006 [Ann]]
-Es crujiente en el exterior, s雨per suave[n]en el interior, y lleno de dulce y dulce[n]bondad.
+Por fuera est茨 crujiente, por dentro superblando, y est茨 repleto de dulces y azucaradas golosinas.
 
 [msg MSG_007 [Rise]]
-Son tan buenos, y son muy convenientes[n]tambi姻n. Es la merienda perfecta para[n]llevar al cine.
+Est茨n muy buenos, y son realmente pr茨cticos. Es el snack perfecto para llevarte al cine.
 
 [msg MSG_008 [Elizabeth]]
-Ah... As胤 es como dicen los rumores:[n]mejora la experiencia de cine.
-Me gustar胤a mucho probar estos[n]"churros"!
-でぺほもまょぽよ らまょれぺぽよ まょ まれろよデ めま よるぽまょぺぽよ びめまよ[n]らぺるぺ めぺぼまるゆま ゎょ らよぼよ よ ぽもほゎゃぺる ゎょ ぼゎぼめもゅゅよ ぺ[n]ろるぺわイれ ぽま れゎ まれろカゆぺむよ ぼよゆよ ろるもほゎろよテ
+Ah... As胤 que es como dicen los rumores: mejora la experiencia de ir al cine.
+斡Me encantar胤a probar esos "churros"!
+Habi姻ndolo pensado, le he pedido a Theo o que me haga algunos o le atravesar姻 su est吋mago con un cuchillo como tributo.
 
 [msg MSG_009 [P3 Fem Protag]]
-Ahahaha... Es una orden... 夷Tenemos los[n]ingredientes?
+Ahaha... Es todo un pedido... 夷Tenemos los ingredientes?
 
 [msg MSG_010 [Elizabeth]]
-Lo hice recoger los ingredientes, pero[n]ha estado lloriqueando por haber "una[n]cosa desaparecida"
-Seg雨n 姻l, necesitamos algo llamado[n]"Si-na-mom", que es conocido por su olor[n]apasionante.
+Le he hecho reunir los ingredientes, pero se ha quejado de que "faltaba una cosa".
+Seg雨n 姻l, necesitamos algo llamado "Ka-ne-la", que se conoce por su seductor aroma.
 
 [msg MSG_011 [Rise]]
-Cierto, los churros tienen ese olor a[n]canela, 夷no? Sin ella, sentir胤as que[n]falta algo.
+Oh, es verdad, los churros tienen ese olor a canela, 夷no? Sin eso, sentir胤as que falta algo.
 
 [msg MSG_012 [Elizabeth]]
-... Eso dijo, si por favor le ofrece a[n]esta mujer lamentable su ayuda.
-でま よウぽよ りゎま ゎょぺ らゅぺょろぺ ぼよょよぼもぽぺ ぼよゆよ まゅ[n]"ぢもょょぺゆよょ づまるょ" らゎまぽま まょぼよょろるぺるれま まょ ぺゅむグょ[n]ゅゎむぺる ぽま ゅぺ らまゅウぼゎゅぺ ぽま ぽもょよれぺゎるもよれテ
-Si no te importar胤a recoger algo para[n]m胤... No gratis, por supuesto.
+... Dicho esto, podr胤an por favor ofrecer su ayuda a esta pobre mujer.
+He o胤do que una planta conocida como "Helecho de Canela" se puede encontrar en alg雨n lugar de la pel胤cula de dinosaurios.
+Si no os importa reunir algunas para m胤... No gratis, por supuesto.
 
 [sel SEL_013 top]
-Lo tengo.
-Suena como un arrastre...
+Entendido.
+Parece un rollo...
 
 [msg MSG_014 [Ann]]
-Yay, est茨 arreglado, entonces! Busquemos[n]canela!
+斡S胤, decidido entonces! 斡Vamos a buscar canela!
 
 [msg MSG_015 [P3 Fem Protag]]
-*chuckle* Suenas tan emocionada. Apuesto[n]a que vas por los churros.
+*risita* Pareces muy emocionada. Apuesto a que vas a por los churros.
 
 [msg MSG_016 [Ann]]
-Hehe, me tienes.
-斡Los churros son tan buenos ahora mismo!
+Hehe, me has pillado.
+斡Qu姻 bien suenan ahora los churros calentitos!
 
 [msg MSG_017 [Rise]]
-斡Estoy con ustedes en este! 斡Ser姻 el[n]mejor navegante que pueda ser!
+Oh, 斡estoy con vosotros en esto! 斡Voy a ser la mejor navegante que pueda!
 
 [msg MSG_018 [Ann]]
-Vamos, Elizabeth nos necesita. Vamos a[n]ayudarla.
-Adem茨s, probablemente comeremos unos[n]churros una vez que hayamos terminado,[n]夷verdad?
+Ay, vamos, Elizabeth nos necesita. Vamos a ayudarle.
+Adem茨s, probablemente podamos comer churros cuando acabemos, 夷verdad?
 
 [msg MSG_019 [P3 Fem Protag]]
-*chuckle* 夷Es eso lo que buscas, Ann?
+*risita* 夷Eso era lo que quer胤as, Ann?
 
 [msg MSG_020 [Ann]]
-Hehe, me tienes.
-斡Los churros son tan buenos ahora mismo!
+Jeje, me descubriste.
+斡Qu姻 bien suenan ahora los churros calentitos!
 
 [msg MSG_021 [Rise]]
-Oh, por favor di que s胤, [f 6 1 30 0 0 0]! 斡Te[n]prometo que ser姻 el mejor navegante que[n]pueda ser!
+Oh, 斡por favor di que s胤, [f 6 1 30 0 0 0]! 斡Prometo que ser姻 la mejor navegante que pueda!
 
 [msg MSG_022 [Elizabeth]]
-Aprecio la bondad de todos.
-Esto puede ser ego胤sta de m胤, pero he[n]avanzado y preparado esto como una[n]proyecci吋n especial.
+Aprecio la amabilidad de todos.
+Puede que sea ego胤sta por mi parte, pero he preparado esto como una proyecci吋n especial.
 
 [msg MSG_023 [Rise]]
-斡Eso fue r茨pido!
+斡Ha sido r茨pido!
 
 [msg MSG_024 [Elizabeth]]
-Y lo que es m茨s, ya se han determinado[n]los lugares de los Ferns de Canela. Qu姻[n]incre胤blemente fortuito.
-Puede ser mejor si los escribes.
+Y, adem茨s, ya he determinado las localizaciones de los Helechos de Canela. Qu姻 incre胤ble casualidad.
+Ser胤a mejor que las apuntarais.
 
 [msg MSG_025]
-Las ubicaciones de Cinnamon Ferns se han[n]a隠adido al mapa.
+La localizaci吋n de los Helechos de Canela han sido a隠adidas en el mapa.
 
 [msg MSG_026 [Ann]]
-Esto es perfecto. 斡Vamos!
+Perfecto. 斡Vayamos yendo!
 

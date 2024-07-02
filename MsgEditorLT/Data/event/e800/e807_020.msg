@@ -1,45 +1,45 @@
 [msg MSG_000 [Chie]]
 *sniff* *sniff*
-S胤... 斡Eso es! 斡El olor de carne jugosa!
+S胤... 斡Eso es! 斡El olor de la carne jugosa!
 
 [msg MSG_001 [Yusuke]]
-S胤. Yo tambi姻n recojo el aroma d姻bil de[n]la carne del sur...
+Hm, s胤. Yo tambi姻n estoy percibiendo el d姻bil aroma a carne del sur...
 
 [msg MSG_002 [Ryuji]]
-夷Eh? No puedo oler nada.
+夷Eh? Yo no puedo oler ninguna maldita cosa.
 
 [msg MSG_003 [Yosuke]]
-No te preocupes, est茨s bien. Tienen una[n]sensaci吋n de olor.
+No te preocupes, est茨s bien. Solo tienen un extra隠o sentido del olfato.
 
 [msg MSG_004 [Teddie]]
-Hrm, hrm... 斡Tambi姻n puedo olerlo! 斡El[n]dulce y dulce olor a carne cocida!
+Hrm, hrm... 斡Yo tambi姻n lo puedo oler! 斡El dulce aroma de la ternera!
 
 [msg MSG_005 [Ann]]
-夷Eh? Pens姻 que FOE ten胤a pollo, no[n]carne.
+夷Eh? Pensaba que el FOE llevaba pollo, no ternera.
 
 [msg MSG_006 [Futaba]]
-Bueno, pollo o carne, definitivamente[n]voy a recoger un FOE al sur.
+Bueno, pollo o ternera, definitivamente detecto un FOE al sur.
 
 [msg MSG_007 [Yosuke]]
-夷Estamos cerca? 斡Muy bien, vamos!
+Oh, 夷estamos cerca? 斡Muy bien, vamos!
 
 [msg MSG_008 [Rise]]
-斡Espera, chicos! 斡Estoy viendo un mont吋n[n]de cajas de tesoros al norte!
+斡Esperad, chicos! 斡Siento un mont吋n de cajas del tesoro al norte!
 
 [msg MSG_009 [Morgana]]
-夷Treasure?
+斡夷T-Tesoro?!
 
 [msg MSG_010 [Makoto]]
-As胤 es. En proyecciones especiales, no[n]s吋lo el 茨rea de actividad es diferente,[n]pero el dise隠o es tambi姻n, 夷no es as胤?
-Supongo que tambi姻n se aplica a las[n]cajas de tesoros esta vez.
+Oh, es verdad. En las proyecciones especiales, no solo el 茨rea es diferente, sino que el dise隠o tambi姻n, 夷verdad?
+Supongo que esta vez tambi姻n se aplica a las cajas del tesoro.
 
 [msg MSG_011 [Yusuke]]
-Mmm. As胤 que tomamos el corto camino y[n]vamos directo a la carne, o tomamos el[n]largo camino y agarramos el tesoro...
+Hmm. As胤 que o tomamos el camino corto y vamos directos a por la carne, o tomamos el largo y conseguimos el tesoro...
 
 [msg MSG_012 [Chie]]
-Realmente quiero esa carne, pero el[n]tesoro...
+Ngh... Yo realmente quiero esa carne, pero el tesoro...
 
 [msg MSG_013 [Morgana]]
-El objetivo FOE es al sur, pero una[n]monta隠a de tesoros nos espera si tomamos[n]el camino de la rotonda al norte...
-Como siempre, te lo dejaremos, Joker!
+El FOE objetivo est茨 al sur, pero una monta隠a de tesoros nos espera si vamos hacia el norte...
+Como siempre, 斡te lo dejamos a ti, Joker!
 

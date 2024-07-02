@@ -1,20 +1,20 @@
 [msg MSG_000 [P3 Hero]]
-夷Necesitamos dos partes?
+So we need two parts?
 
 [msg MSG_001 [Fuuka]]
-S胤. Deber胤amos poder reunirlos en[n]Treasure Spots.
+Yes. We should be able to gather them at[n]Treasure Spots.
 
 [msg MSG_002 [Yusuke]]
-斡Ahora, adelante! Por nuestra recompensa[n]de Donu..
+Now then, onward! To our bounty of donu―
 
 [msg MSG_003 [Futaba]]
-斡Espera, Fox!
-Hay muchas m茨s FOEs por aqu胤 de lo[n]habitual.
-Si te cobras, te van a destrozar.
+Hold on, Fox!
+There are a lot more FOEs around here[n]than usual.
+If you just charge in, you're gonna get[n]wrecked out there.
 
 [msg MSG_004 [P3 Hero]]
-... Esto va a ser largo.
+...This is gonna be a long one.
 
 [msg MSG_005 [P4 Hero]]
-Bueno, al menos ser茨 un buen ejercicio[n]antes de comer. Mantengamos a nuestros[n]guardias arriba.
+Well, at least it'll be good exercise[n]before we eat. Let's keep our guards up.
 

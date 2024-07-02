@@ -1,95 +1,95 @@
 [msg MSG_000 [Junpei]]
-斡Ta-dah da-da-daaah! Junpei obtuvo un[n]art胤culo raro!
+Ta-dah da-da-daaah! Junpei obtained a[n]rare item!
 
 [msg MSG_001 [P3 Fem Protag]]
-Esto va mucho m茨s suave de lo que[n]esperaba. Supongo que no ser茨 muy[n]dif胤cil con todos nosotros aqu胤.
+This is going a lot smoother than I[n]expected. I guess it won't be too hard[n]with all of us here.
 
 [msg MSG_002 [Morgana]]
-Fantasma Treeves veces tres, 夷eh?[n]Aunque, en este momento, no me siento[n]como un ladr吋n.
+Phantom Thieves times three, huh...?[n]Though, at this point, I don't feel much[n]like a thief.
 
 [sel SEL_003 top]
-Eso es 3 veces el poder de ataque.
-Eso significa 1l3 la hora de la[n]pantalla...
+That's 3x the attack power.
+That means 1/3 the screen time...
 
 [msg MSG_004 [P3 Fem Protag]]
-Exactamente. Imagina cu茨nto m茨s f茨cil[n]escalar Tartarus ser胤a con esta mucha[n]gente.
+Exactly. Imagine how much easier[n]climbing Tartarus would be with this[n]many people.
 
 [msg MSG_005 [Junpei]]
-S胤, pero me preocupar胤a dejar a alguien[n]detr茨s cada vez que subimos al siguiente[n]piso.
+Yeah, but I'd be worried about leavin'[n]someone behind every time we went up to[n]the next floor.
 
 [msg MSG_006 [P3 Fem Protag]]
-斡Eso es lo que te preocupa?
+That's what you're worried about!?
 
 [msg MSG_007 [Junpei]]
-No, tiene raz吋n. Los fans de Junpei en[n]todo el mundo van a estar muy[n]decepcionados.
+No, he's right. Junpei fans all over the[n]world are gonna be real disappointed.
 
 [msg MSG_008 [Yukari]]
-What're you talking about? Even [f 6 1 27 0 0 0]'s[n]lost faith in you.
+What're you talking about? Even's lost[n]faith in you.
 
 [msg MSG_009 [P3 Fem Protag]]
-...
+......
 
 [msg MSG_010 [Junpei]]
-No bromees. 斡Ella no tiene palabras!
+No kidding. She's speechless!
 
 [msg MSG_011 [P3 Fem Protag]]
-Lo siento... Es que me siento muy[n]emocional ahora mismo.
+Sorry... It's just that I'm feeling[n]really emotional right now.
 
 [msg MSG_012 [Yukari]]
-夷Eh? 夷Qu姻 parte de eso te hizo[n]emocional?
+Huh? Which part of that made you[n]emotional?
 
 [msg MSG_013 [P3 Fem Protag]]
-Bueno, estaba pensando que, no importa[n]en qu姻 hora o espacio estoy, Junpei[n]todav胤a es tan tonto como siempre.
+Well, I was just thinking that, no[n]matter which time or space I'm in,[n]Junpei's still just as silly as ever.
 
 [msg MSG_014 [Junpei]]
-夷Ahora me est茨s despidiendo?
+Now you're dissin' me!?
 
 [msg MSG_015 [P3 Fem Protag]]
-Ahaha, no pienses demasiado en ello![n]斡Vamos, encontremos al siguiente[n]enemigo!
+Ahaha, don't think too hard about it![n]C'mon, let's find the next enemy!
 
 [msg MSG_016 [Junpei]]
-斡Oye! 斡Espera un segundo!
+Hey! Hang on a second!
 
 [msg MSG_017 [Yukari]]
-夷Qu姻 est茨n haciendo?
+What are they doing...?
 
 [msg MSG_018 [Fuuka]]
-Creo que es la forma de ser considerado[n]por Junpei.
+*giggle* I think it's Junpei-kun's way[n]of being considerate.
 
 [sel SEL_019 top]
-S胤.
-夷C吋mo?
+Yeah.
+How?
 
 [msg MSG_020 [Yukari]]
-He probably wanted to make sure [f 6 1 27 0 0 0][n]didn't feel uncomfortable.
+He probably wanted to make sure didn't[n]feel uncomfortable.
 
 [msg MSG_021 [Fuuka]]
-se estaba riendo.
+-chan was laughing.
 
 [msg MSG_022 [Fuuka]]
-He was trying to help [f 6 1 27 0 0 0] feel more[n]at home.
+He was trying to help-chan feel more at[n]home.
 
 [msg MSG_023 [Yukari]]
-Ese Junpei... Siempre tratando de[n]ayudar.
+That Junpei... Always trying to help.
 
 [msg MSG_024 [Fuuka]]
-Pero creo que la est茨 ayudando a abrir[n]un poco.
-Ahora, 夷nos vamos? Nuestro pr吋ximo[n]destino es 3-F.
+But I think it's helping her open up a[n]bit.
+Now then, shall we get going? Our next[n]destination is 3-F.
 
 [msg MSG_025 [Yukari]]
-Lo tengo. No queremos caer detr茨s de[n]Junpei, 夷verdad?
+Got it. We don't wanna fall behind[n]Junpei, do we?
 
 [msg MSG_026 [Fuuka]]
-Pero creo que la est茨 ayudando a abrir[n]un poco.
-Ahora, 夷nos vamos? Nuestro pr吋ximo[n]destino es 4-B.
+But I think it's helping her open up a[n]bit.
+Now then, shall we get going? Our next[n]destination is 4-B.
 
 [msg MSG_027 [Yukari]]
-Lo tengo. No queremos caer detr茨s de[n]Junpei, 夷verdad?
+Got it. We don't wanna fall behind[n]Junpei, do we?
 
 [msg MSG_028 [Fuuka]]
-Pero creo que la est茨 ayudando a abrir[n]un poco.
-Ahora, 夷nos vamos? Nuestro pr吋ximo[n]destino es 4-B o 3-F.
+But I think it's helping her open up a[n]bit.
+Now then, shall we get going? Our next[n]destination is either 4-B or 3-F.
 
 [msg MSG_029 [Yukari]]
-Lo tengo. No queremos caer detr茨s de[n]Junpei, 夷verdad?
+Got it. We don't wanna fall behind[n]Junpei, do we?
 

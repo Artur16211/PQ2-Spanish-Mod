@@ -1,9 +1,9 @@
 [msg MSG_000 [Fuuka]]
-Buen trabajo, todos. Dir胤a que lo hace[n]por nuestra investigaci吋n.
+Good work, everyone. I'd say that just[n]about does it for our investigation.
 
 [msg MSG_001 [Yukari]]
-夷Eso significa que hemos terminado?
+Does that mean... we're done?
 
 [msg MSG_002 [Chie]]
-*Suspira* Gracias a Dios... Pens姻 que[n]algo nos iba a saltar...
+*sigh* Thank goodness... I thought[n]something was gonna jump out at us...
 

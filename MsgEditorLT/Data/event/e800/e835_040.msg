@@ -1,16 +1,16 @@
 [msg MSG_000 [Junpei]]
-斡Una flecha! Parece que tenemos que ir[n]por ah胤.
+Yo, an arrow! Looks like we gotta go[n]that way.
 
 [msg MSG_001 [Ann]]
-Esto es divertido. Casi me hace sentir[n]como un ni隠o.
+This is kinda fun. It's almost making me[n]feel like a little kid again.
 
 [msg MSG_002 [Futaba]]
-斡Lo s姻, es tan emocionante!
-Parece que no hay demasiadas flechas de[n]pista. Cuidado con no perder nada.
+I know, it's so exciting!
+Looks like there aren't too many hint[n]arrows. Careful not to miss anything.
 
 [msg MSG_003]
-La flecha apunta a la izquierda.[n]Intentemos ir as胤...
+The arrow is pointing to the left. Let's[n]try going that way...
 
 [msg MSG_004]
-La flecha apunta a la izquierda.[n]Intentemos ir as胤...
+The arrow is pointing to the left. Let's[n]try going that way...
 

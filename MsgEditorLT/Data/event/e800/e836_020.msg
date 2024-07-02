@@ -1,18 +1,18 @@
 [msg MSG_000 [Yusuke]]
-Ahora, recojamos estas partes.
-Nuestra cantera esta vez ser胤an las[n]Torretas Roaring, entonces? 夷Est茨n[n]cerca?
+Now, let us gather these parts.
+Our quarry this time would be the[n]Roaring Turrets, then? Are they nearby?
 
 [msg MSG_001 [Fuuka]]
-Parece que estas Torretas Roaring est茨n[n]alrededor de la parte suroeste del[n]mapa...
-Mis lecturas dicen que hay un grupo[n]grande por las puertas de seguridad!
+Looks like these Roaring Turrets are[n]around the southwest part of the map...
+My readings say there's a large group by[n]the security gates!
 
 [msg MSG_002 [Rise]]
-斡Vamos primero!
-斡Necesitamos tres de esos Gizmos[n]futuristas!
+Let's head there first!
+We need three of those Futuristic[n]Gizmos!
 
 [msg MSG_003 [Kanji]]
-Suena bastante simple... 斡De acuerdo,[n]vamos a destrozarlos!
+Sounds pretty simple... Okay, let's tear[n]'em apart!
 
 [msg MSG_004 [Futaba]]
-No te vuelvas loco, 夷vale? 斡Buena[n]suerte, chicos!
+Just don't go crazy out there, okay?[n]Good luck, guys!
 

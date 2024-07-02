@@ -1,10 +1,10 @@
 [msg MSG_000 [Futaba]]
-斡Espera un segundo!
-Hay un FOE directamente en el otro lado[n]de esta puerta. Podemos olvidarnos de ir[n]por aqu胤.
+Whoa, hold up a sec!
+There's an FOE directly on the other[n]side of this door. We can forget about[n]going this way.
 
 [msg MSG_001 [P3 Fem Protag]]
-Mmm, supongo que tenemos que seguir[n]buscando.
+Hmm, guess we have to keep looking.
 
 [msg MSG_002 [Futaba]]
-Hay un FOE a trav姻s de esta puerta.[n]Olv胤date de ir por ah胤.
+There's an FOE through this door. Forget[n]about going that way.
 

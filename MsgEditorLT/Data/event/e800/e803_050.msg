@@ -1,17 +1,17 @@
 [msg MSG_000 [Rise]]
-斡Esos son todos! Misi吋n completa! 斡Buen[n]trabajo, todos!
+斡Ya est茨n! 斡Misi吋n completada! 斡Buen trabajo, chicos!
 
 [msg MSG_001 [Ryuji]]
-Eso fue f茨cil. 斡Vamos! 夷Qui姻n sigue?
+Fue muy f茨cil. 斡Vamos! 斡夷Qui姻n es el siguiente?!
 
 [msg MSG_002 [Kanji]]
-斡Heh! Apenas romper un sudor! 斡Que[n]vengan!
+斡Je! 斡Apenas he sudado! 斡Qu姻 sigan viniendo!
 
 [msg MSG_003 [Ryuji]]
 斡Somos imparables!
 
 [msg MSG_004 [Kanji]]
-斡Claro que s胤! Peleemos por el resto del[n]movimiento..
+斡Claro que s胤! Vamos a luchar hasta el final de la pel胤...
 
 [msg MSG_005 [Kanji]]
 Er...
@@ -20,73 +20,73 @@ Er...
 Uhh...
 
 [msg MSG_007 [Morgana]]
-夷Todav胤a est茨n en ello? 斡Acepta que[n]tienes cosas en com雨n y trabaja juntos!
+夷Chicos, a雨n est茨n con eso? 斡Acepten que tienen cosas en com雨n y luchen juntos!
 
 [sel SEL_008 top]
-Necesitamos tu fuerza.
-Deja de pelear.
-Deja que tus pu隠os hablen.
+Necesitamos su fuerza.
+Paren de pelear.
+Dejemos que los pu隠os hablen.
 
 [msg MSG_009 [Ryuji]]
-S胤... Lo s姻...
+S-s胤... S姻 que...
 
 [msg MSG_010 [Ryuji]]
-No es una pelea...
+E-eso no era una pelea...
 
 [msg MSG_011 [Futaba]]
-Ooh! 斡He visto esto en el manga que he[n]le胤do! Dos tipos, hablando a trav姻s de[n]sus pu隠os!
-Un poco de t吋pico, 夷no? Super vieja[n]escuela tambi姻n.
+斡Ohh! 斡He visto esto en algunos mangas que he le胤do! Dos chicos hablando a trav姻s de sus pu隠os.
+Un poco clich姻, 夷no? Tambi姻n muy de la vieja escuela.
 
 [msg MSG_012 [P4 Protag]]
 O-oh, s胤...?
 
 [msg MSG_013 [Ryuji]]
 ...
-Quiero conocerte mejor. Hablemos hombre[n]a hombre.
-Supongo que siento haber elegido todo lo[n]que dices.
+Oye, me gustar胤a conocerte mejor. Vamos a hablar hombre a hombre.
+Supongo que lo siento por todo lo que dices.
 
 [msg MSG_014 [Kanji]]
-...!
+斡...!
 
 [msg MSG_015 [Morgana]]
-斡Skull se disculpa! 夷Es un sue隠o? 夷Estoy[n]escuchando cosas?
+斡夷S-Skull pidiendo disculpas?! 斡夷Esto es un sue隠o?! 斡夷Estoy oyendo voces?!
 
 [msg MSG_016 [Ryuji]]
-斡C茨llate, gato! 夷No ves que me he[n]preocupado por ti?
+斡C茨llate, gato! 夷No ves que me he estado preocupando por ti...?
 
 [msg MSG_017 [Kanji]]
-...?!
-斡Haaah!
+斡夷...?!
+斡Aaah!
 
 [msg MSG_018 [Ryuji]]
-Ugh..!
+斡Argh...!
 
 [msg MSG_019 [Morgana]]
-夷Srow?
+斡夷Mrow?!
 
 [msg MSG_020 [Ryuji]]
-夷Qu姻 demonios fue eso por...?
+夷Para, qu姻 demonios fue eso...?
 
 [msg MSG_020_1 [Ryuji]]
-...?!
+斡夷...?!
 
 [msg MSG_021 [Kanji]]
-斡Es mejor que se mantengan concentrados[n]o est姻n muertos!
-Maldici吋n...
+斡Ambos deber胤an estar mejor concentrados, o ser茨n carne muerta!
+Argh. Mierda...
 
 [msg MSG_022 [Futaba]]
-夷Una Sombra? 斡Parece que hay otro! 斡Est茨[n]justo encima de nosotros!
+斡夷Una sombra?! 斡Parece que a雨n hay otra! 斡Est茨 justo encima de nosotros!
 
 [msg MSG_022_02 [Futaba]]
-夷Una Sombra? 斡Parece que hay otro! 斡Est茨[n]justo encima de nosotros!
+斡夷Una sombra?! 斡Parece que a雨n hay otra! 斡Est茨 justo encima de nosotros!
 
 [msg MSG_023 [Morgana]]
-斡Kanji! 夷Est茨s bien?
-Hizo eso para protegernos...
+斡Kanji! 斡夷Est茨s bien?!
+畏l lo hizo para protegernos...
 
 [msg MSG_024 [Ryuji]]
 Bastardo... 斡Fuera de aqu胤!
-斡Abajo, Joker! 斡Nadie ataca a nuestros[n]amigos y se escapa!
+斡Acabemos con 姻l, Joker! 斡Nadie ataca a nuestros amigos y se sale con la suya!
 
 [msg MSG_025 [Futaba]]
 斡Aqu胤 viene!

@@ -1,45 +1,45 @@
 [msg MSG_000 [Makoto]]
-Primero, busquemos al dinosaurio. 夷Qui姻n[n]sabe qu姻 pasar茨 si no lo hacemos.
+First, let's locate the dinosaur. Who[n]knows what'll happen to it if we don't.
 
 [msg MSG_001 [P4 Hero]]
-Lev茨ntate, 夷lo sientes cerca?
+Rise, do you sense it nearby?
 
 [msg MSG_002 [Rise]]
-Mmm... Un segundo.
-斡Oh! 斡Me estoy poniendo algo peque隠o[n]cerca de aqu胤!
+Hmm... One sec.
+Oh! I'm getting something small near[n]here!
 
 [msg MSG_003 [Teddie]]
-S吋lo espero que no nos encontremos en[n]alg雨n tipo de carn胤voro...
+I just hope we don't run into some kinda[n]carnivore...
 
 [msg MSG_004 [Yosuke]]
-Si eso sucede, eres el decoy. Ayudaremos[n]al dino.
+If that happens, you're the decoy. We'll[n]help the dino.
 
 [msg MSG_005 [Teddie]]
-斡No quiero ser un combo de osos y[n]patatas fritas! 斡Vienes conmigo, Yosuke!
+I don't wanna be a bear-ger and fries[n]combo! You're coming with me, Yosuke!
 
 [msg MSG_006 [Yukiko]]
-Buen punto. Un plato necesita algo para[n]a隠adir color, como perejil.
+Good point. A dish does need a little[n]something to add color―like parsley.
 
 [msg MSG_007 [Yosuke]]
-夷As胤 que solo soy un adorno...?
+So I'm just a garnish...?
 
 [msg MSG_008 [Haru]]
-Es una buena idea. A todos no les gusta[n]la forma en que los animales huelen.
+That's a good idea. Not everyone likes[n]the way animals smell either.
 
 [msg MSG_009 [Teddie]]
-夷Est茨s diciendo que apesto?
+Are you saying I stink!?
 
 [msg MSG_010 [Haru]]
-Y si el dinosaurio est茨 herido, tambi姻n[n]tendremos que curarlo.
-ねよ まれろよを れまむゎるよ れも ゅぺ ゆまぽもぼもょぺ らぺるぺ ゅよれ[n]めゎゆぺょよれ みゎょぼもよょぺるァデ れもょ まゆほぺるむよテテテ[n]はるよほぺほゅまゆまょろま れまぺ ゆまゃよる れも ゎれぺゆよれ ぺゅむよ ゆァれテ
+And if the dinosaur is wounded, we'll[n]need to heal it as well.
+I'm not sure if medicine for humans will[n]work, though... It's probably best if we[n]use something else.
 
 [msg MSG_011 [Makoto]]
-Es verdad. Espero que podamos encontrar[n]hierbas por aqu胤...
-Pero primero lo primero: necesitamos[n]rescatar a ese dinosaurio.
+That's true. Hopefully we can find some[n]herbs somewhere around here...
+But, first things first: we need to[n]rescue that dinosaur.
 
 [msg MSG_012 [Haru]]
-Vamos r茨pido. Quiero reunirlo con su[n]madre.
+Let's hurry. I want to reunite it with[n]its mom.
 
 [msg MSG_013 [Yukiko]]
-Bien, no podemos dejarlo solo. Vamos a[n]encontrarlo lo antes posible.
+Right, we can't leave it alone. Let's[n]find it ASAP.
 

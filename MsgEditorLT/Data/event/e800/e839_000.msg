@@ -1,103 +1,103 @@
 [msg MSG_000 [Hikari]]
-...
+......
 
 [msg MSG_001 [Ryuji]]
-夷Hola, Hikari? 夷Por qu姻 hablas ah胤?
+Yo, Hikari? Why're you just spacin' out[n]right there?
 
 [msg MSG_002 [Hikari]]
-Estaba... dando vueltas por algo en mi[n]mente...
+I was just... turning over something in[n]my mind...
 
 [msg MSG_003 [Futaba]]
-夷S胤? 夷Qu姻 es eso?
+Yeah? What's that?
 
 [msg MSG_004 [Hikari]]
-Mi pel胤cula epon胤mica, "Hikari"...
-Creo... Creo que olvid姻 algo importante[n]all胤.
+My eponymous movie, "Hikari"...
+I think... I think I forgot something[n]important in there.
 
 [msg MSG_005 [Ryuji]]
-斡Vaya! 斡R茨pido, vamos a buscarlo antes[n]de que algo m茨s lo haga!
+Aw geez! Quick, let's go get it before[n]something else does!
 
 [msg MSG_006 [Hikari]]
-斡Oh! 斡No, est茨 bien! No lo necesito en[n]este segundo...
-Es tonto. Quiero decir... Ni siquiera[n]estoy seguro de lo que es.
-Olvida que dije algo. Enlil es m茨s[n]importante que nos preocupemos.
-No deber胤a haberlo criado...
+Oh! No, that's okay! I-I don't need it[n]right this second...
+It's silly. I mean I'm, uh... I'm not[n]even really sure what it is.
+Just forget I said anything. Enlil is[n]more important to concern ourselves[n]with.
+I shouldn't have brought it up...
 
 [msg MSG_007 [Futaba]]
-斡Pero lo hiciste! 斡Vamos, puedes[n]defenderte!
-斡Si es importante para ti, entonces[n]deber胤amos ir a buscarlo!
+But you did! Come on, you can stand up[n]for yourself!
+If it's important to you, then we should[n]go find it!
 
 [msg MSG_008 [Hikari]]
-Futaba, realmente... No quiero ser una[n]molestia.
+Futaba-chan, really... I don't want to[n]be a bother.
 
 [msg MSG_009 [Ryuji]]
-Demasiado tarde para eso! Deber胤amos[n]acabar con esto.
-De lo contrario lo escucharemos m茨s[n]tarde, de todos modos.
+Way too late for that! We should just[n]get this over with.
+Otherwise we'll be hearing about it[n]later, anyways.
 
 [msg MSG_010 [Junpei]]
-No te pongas as胤 en Hikari; ella no[n]quer胤a ser una carga. 斡Pero ella no sabe[n]que esto es f茨cil para nosotros!
+Don't get so down on Hikari-chan; she[n]just didn't want to be a burden. But she[n]doesn't know this stuff is easy for us!
 
 [msg MSG_011 [Yukari]]
-夷C吋mo lo sabes?
+How do you know?
 
 [msg MSG_012 [Junpei]]
-斡Porque soy yo, el mejor t胤o de SEES,[n]justo delante de tu ojo! 夷No ves la[n]grandeza de SEES?
+Because it is I, SEES' best guy, right[n]in front of your eye! Can't you see the[n]greatness of SEES?
 
 [msg MSG_013 [Yukari]]
-...nunca vuelvas a hablarme.
+...Never speak to me again.
 
 [msg MSG_014 [Junpei]]
-斡Pero te echar姻 de menos, Yuka-tan!
+But I'll miss you, Yuka-tan!
 
 [msg MSG_015 [Yosuke]]
-Descansa. 斡Y no olvides que el Equipo de[n]Investigaci吋n est茨 aqu胤 tambi姻n![n]夷Verdad, compa隠ero?
+Give it a rest. And don't forget that[n]the Investigation Team is here, too![n]Right, partner?
 
 [msg MSG_016 [P4 Hero]]
-As胤 es. Somos los que Hikari realmente[n]puede confiar.
+That's right. We're the ones Hikari can[n]really rely on.
 
 [sel SEL_017 top]
-Por supuesto.
-夷Tenemos que...?
+Absolutely.
+Do we have to...?
 
 [msg MSG_018 [Morgana]]
-Mm-hm. Podemos hacerlo en poco tiempo.
+Mm-hm. We can get it done in no time.
 
 [msg MSG_019 [Yosuke]]
-斡S胤, d姻janoslo!
+Yeah, leave it to us!
 
 [msg MSG_020 [Junpei]]
-斡Y tienes a este tipo, el mejor que SEES[n]haya visto!
+And you got this guy, the best that SEES[n]has ever seen!
 
 [msg MSG_021 [Futaba]]
-Puedes contar conmigo para navegar. Y[n]con Fuuka y Rise, 斡tienes una s吋lida[n]base de apoyo!
+You can count on me to navigate. And[n]with Fuuka and Rise, you've got yourself[n]a solid bedrock of support!
 
 [msg MSG_022 [Ryuji]]
-Vamos, no seas un llor吋n.
-Con todos nosotros juntos, somos[n]pr茨cticamente invencibles. Nada puede[n]interponerse en nuestro camino.
+Come on, don't be a whiner.
+With all of us together, we're[n]practically invincible. Nothin' can[n]stand in our way.
 
 [msg MSG_023 [Morgana]]
-夷O胤ste eso, chicos? Somos invencibles.[n]Ryuji lo dice, y todos sabemos que es un[n]tipo que nunca exagera.
-はまるよ ゅよ りゎま れまぺデ まれろよを れまむゎるよ ぽま りゎま ろよぽよれ[n]まれろぺゆよれ ぽま ぺぼゎまるぽよ まょ りゎま れよゆよれ ゅよ[n]れゎみもぼもまょろまゆまょろま らよぽまるよれよれ らぺるぺ るまれよゅわまる まゅ[n]らるよほゅまゆぺ ぽま でもやぺるも ゆゎを るァらもぽぺゆまょろまテ
+Hear that, guys? We're invincible. Ryuji[n]says so, and we all know he's a guy who[n]NEVER exaggerates.
+But whatever, I'm sure we all agree that[n]we're powerful enough to solve Hikari's[n]problem pretty quickly.
 
 [msg MSG_024 [Yosuke]]
-斡S胤, d姻janoslo!
+Yeah, leave it to us!
 
 [msg MSG_025 [Junpei]]
-斡Y espero que vea que SEES acepta s吋lo[n]lo mejor!
+And I hope she sees that SEES accepts[n]only the best!
 
 [msg MSG_026 [Futaba]]
-ねよ ゅよ れイデ めま よウぽよ りゎま めぺ めぺほもぽよ ゎょ ぼぺゆほもよ ぽま[n]ゆぺる まょ ゅよれ まれろァょぽぺるまれ ぽま ひつつひテ だ ぽもみまるまょぼもぺ ぽま[n]ょよれよろるよれデ ゅよれ ょぺわまむぺょろまれデ らよる れゎらゎまれろよテ
+I dunno about that, I've heard there's been a[n]sea change in SEES standards, heh. Unlike us,[n]the navigators, of course.
 
 [msg MSG_027 [Hikari]]
-Ustedes... 斡No s姻 qu姻 decir! Muchas[n]gracias.
-Entonces... 夷realmente no te importa[n]ayudarme?
+You guys... I don't know what to say![n]Thank you so much.
+So... you really don't mind helping me?
 
 [msg MSG_028 [Ryuji]]
-斡No te preocupes!
+Don't sweat it!
 
 [msg MSG_029 [Futaba]]
-Ah胤 lo tienes, [f 6 1 30 0 0 0]. 斡Contamos con su[n]liderazgo cuando llegue el momento!
+There you have it, [f 6 1 30 0 0 0]. We'll be[n]counting on your leadership when the[n]time comes!
 
 [msg MSG_030]
-Una nueva proyecci吋n especial: "La Forma[n]de los Huesos" se ha a隠adido a la[n]taquilla.
+A new special screening: "The Shape of[n]Bonds" has been added to the box office.
 

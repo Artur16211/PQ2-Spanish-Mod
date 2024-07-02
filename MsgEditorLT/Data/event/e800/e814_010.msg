@@ -1,30 +1,30 @@
 [msg MSG_000 [Elizabeth]]
-Se ha a隠adido una nueva proyecci吋n[n]especial. Se refiere a...
-Encontrar un pobre, joven dinosaurio y[n]su madre.
+A new special screening has been added.[n]It concerns...
+Finding a poor, young dinosaur and its[n]mother.
 
 [msg MSG_001 [Futaba]]
-夷Se separ吋 de su madre?
+It got separated from its mom?
 
 [msg MSG_002 [Elizabeth]]
-La familia fue atacada por un[n]depredador. Ellos lograron sobrevivir,[n]pero...
-El joven fue herido y separado de su[n]madre.
-Por favor ayuda al dinosaurio y a su[n]madre.
+The family was attacked by a predator.[n]They managed to survive, but...
+The young one was wounded and separated[n]from its mother.
+Please help the dinosaur and its mother.
 
 [msg MSG_003 [Kanji]]
-Si est茨 herido y separado de su familia,[n]queremos darnos prisa, 夷s胤?
+If it's wounded and separated from its[n]family, we'll wanna hurry, yeah?
 
 [msg MSG_004 [Haru]]
-Probablemente est姻 muy solo ahora[n]mismo...
-Estoy seguro de que tiene miedo y no[n]sabe qu姻 hacer.
+It's probably really lonely right now...
+I'm sure it's scared and doesn't know[n]what to do.
 
 [msg MSG_005 [Yukiko]]
-Haru...
-S胤, tambi姻n quiero ayudarla. 夷Qu姻 te[n]parece?
+Haru-san...
+Yeah, I want to help it too. What do you[n]think, [f 6 1 30 0 0 0]-kun?
 
 [sel SEL_006 top]
-Vamos ahora mismo.
-Siento lo mismo.
+Let's go right now.
+I feel the same way.
 
 [msg MSG_007 [Ann]]
-斡Bueno, vamos!
+Okay then, let's get going!
 

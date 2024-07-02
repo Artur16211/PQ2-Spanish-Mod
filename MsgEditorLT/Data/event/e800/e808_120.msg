@@ -1,31 +1,31 @@
 [msg MSG_000 [Naoto]]
-Aqu胤 est茨 la terminal de b雨squeda.[n]Oracle, por favor?
+Aqu胤 est茨 la terminal de los reflectores. Oracle, por favor.
 
 [msg MSG_001 [Futaba]]
-Veamos...
+D姻jame ver...
 
 [msg MSG_002 [Futaba]]
-Lo siento, no esperaba esto, pero no[n]est茨 conectado a la red...
-Incluso si hubiera hackeado aqu胤,[n]todav胤a no ser胤a capaz de encontrar esos[n]coches.
+Perd吋n, no esperaba esto, pero no est茨 conectado a la red...
+Aunque lo hackeara, no podr胤a encontrar esos coches.
 
 [msg MSG_003 [Naoto]]
-Eso es un problema. Supongo que[n]tendremos que encontrarlos solos.
+Hmm, eso es un problema. Supongo que tendremos que encontrarlos por nuestra cuenta.
 
 [sel SEL_004 top]
 Tenemos que hacer algo.
-夷Hay otra manera?
+夷Hay alguna otra forma?
 
 [msg MSG_005 [Futaba]]
-夷Hm? Espera un segundo... Hab胤a otra[n]terminal, 夷no?
-Tal vez pueda acceder a esa. S胤, vamos a[n]intentarlo.
+夷Hm? Espera un segundo... Hab胤a otra terminal, 夷no?
+Quiz茨s pueda acceder a esa. S胤, dejadme intentarlo.
 
 [msg MSG_006 [Naoto]]
-Entonces, para encontrar los coches de[n]la polic胤a, tendremos que encontrar el[n]otro terminal.
-Eso o cambiamos a buscar los coches por[n]nuestra cuenta. Dejaremos la decisi吋n,[n]Joker.
+Entonces, para localizar los coches de polic胤a, tendremos que encontrar la otra terminal.
+Eso o cambiar y ponernos a buscar los coches por nuestra cuenta. Te dejamos esa decisi吋n a ti, Joker.
 
 [msg MSG_007 [Futaba]]
-Esta terminal no va a cortarla.[n]Tendremos que hackear el otro.
+Esta terminal no va a servir. Tendremos que hackear la otra.
 
 [msg MSG_008 [Futaba]]
-Parece que ya no necesitamos esto. Ya[n]sabemos d吋nde est茨n los coches.
+Parece que ya no necesitamos esto. Ya sabemos d吋nde est茨n los coches.
 

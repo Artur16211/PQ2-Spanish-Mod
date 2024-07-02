@@ -1,15 +1,15 @@
 [msg MSG_000 [Yosuke]]
-斡Ah胤 est茨! 斡Una puerta cubierta de vid!
+There it is! A vine-covered door!
 
 [msg MSG_001 [Haru]]
-Mmm... Un momento. D姻jame ver si puedo[n]encontrar lo que necesitamos.
+Hmm... One moment. Let me see if I can[n]find what we need.
 
 [msg MSG_002 [Haru]]
-Mmm... Aqu胤 no hay hierbas.
+Mm... There aren't any herbs here.
 
 [msg MSG_003 [Futaba]]
-Revisa el otro lado de la puerta.[n]斡Deber胤a haber alg雨n crecimiento all茨!
+Check the other side of the door. There[n]should be some growing over there!
 
 [msg MSG_004 [Yukiko]]
-Bien, vamos.
+Okay, let's go.
 

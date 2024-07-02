@@ -1,102 +1,102 @@
 [msg MSG_000 [P3 Fem Protag]]
-Uhm, as胤 que s吋lo tenemos que derrotar[n]los objetivos en los lugares que[n]Elizabeth especific吋, 夷verdad?
+Uhm, so we just have to defeat the[n]targets at the locations Elizabeth[n]specified, right?
 
 [msg MSG_001 [Akihiko]]
-夷Eso es todo lo que necesitamos hacer?[n]Ser茨 f茨cil.
+That's all we need to do? That'll be[n]easy.
 
 [msg MSG_002 [Mitsuru]]
-Recuerda que estas sombras no son[n]d姻biles. No dudes en correr si las cosas[n]salen de la mano.
-つれらまぼもぺゅゆまょろま ろグデ だやもめもやよテ びま ぼぺゅもまょろぺれ[n]ぽまゆぺれもぺぽよ みァぼもゅゆまょろまテ つれろぺほゅまぼま ゎょ ほゎまょ[n]まゃまゆらゅよ らぺるぺ ゅよれ めよゆほるまれ ぽま ぼゅぺれま もょみまるもよるテ
+Just remember, these Shadows aren't[n]weak. Don't hesitate to run if things[n]get out of hand.
+Especially you, Akihiko. You get heated[n]far too easily. Set a good example for[n]the underclassmen.
 
 [msg MSG_003 [Akihiko]]
-Lo s姻. Dame cr姻dito.
+I know. Give me some credit.
 
 [msg MSG_004 [Shinjiro]]
-夷Ahora?
+Hah, do you now...?
 
 [msg MSG_005 [Akihiko]]
-夷Qu姻, no me crees, Shinji?
+What, you don't believe me, Shinji?
 
 [msg MSG_006 [Shinjiro]]
-Trate de ser el que tiene que riendarte[n]cada vez que te escapas por tu cuenta.
+Try being the one who has to rein you in[n]every time you run off on your own.
 
 [msg MSG_007 [Akihiko]]
-夷Y t雨, Shinji? Has estado hablando con[n]nosotros por qui姻n sabe cu茨nto[n]tiempo...!
+Wha―Well, what about you, Shinji!?[n]You've been talking down to us for who[n]knows how long...!
 
 [msg MSG_008 [Mitsuru]]
-Esto de nuevo... Ser茨n un momento.
+*sigh* This again... They'll be a[n]moment.
 
 [sel SEL_009 top]
-Por favor di algo, Mitsuru.
-Ayuda, [f 6 1 27 0 0 0].
-Vamos a dejarlos estar.
+Please say something, Mitsuru.
+Help, [f 6 1 27 0 0 0].
+Let's leave them be.
 
 [msg MSG_010 [Mitsuru]]
-Aunque yo interviniera, solo seguir胤an.
-Quiz茨s sea porque se conocen desde que[n]eran ni隠os. Lo juro, son tan[n]inmaduros...
+Even if I were to intervene, they'd just[n]keep going.
+Perhaps it's because they've known each[n]other since they were kids. I swear,[n]they're so immature...
 
 [msg MSG_011 [Mitsuru]]
-No creo que pueda ayudar si lo intent吋.
-Son estos dos de los que estamos[n]hablando. Empezar茨 de nuevo.
+I don't think [f 6 1 26 0 0 0] could help if she[n]tried.
+It's these two we're talking about.[n]It'll just start up again.
 
 [msg MSG_012 [Mitsuru]]
-Nunca terminar茨. No tienes la intenci吋n[n]de esperarlo, 夷verdad?
+It'll never end. You don't intend to[n]wait it out, do you?
 
 [msg MSG_013 [P3 Fem Protag]]
-斡Est茨 bien, tengo una idea! 斡D姻melo!
+It's okay, I have an idea! Just leave it[n]to me!
 
 [msg MSG_014 [Mitsuru]]
-What do you plan to do, [f 6 1 26 0 0 0]?
+What do you plan to do,?
 
 [msg MSG_015 [P3 Fem Protag]]
-Shinjiro-senpai! 斡Akihiko-senpai![n]斡Escucha!
-Esta es una misi吋n de caza, 夷por qu姻 no[n]tenemos una competencia para ver cu茨l de[n]ustedes es el mejor luchador?
+Shinjiro-senpai! Akihiko-senpai! Listen[n]up!
+This is a hunting mission, so why don't[n]we have a competition to see which one[n]of you is the better fighter?
 
 [msg MSG_016 [Akihiko]]
-Una competencia, 夷eh?
+A competition, huh?
 
 [msg MSG_017 [P3 Fem Protag]]
-As胤 es. Pero no puedes derrotar a los[n]enemigos.
-Estamos juntos en esto, as胤 que volar[n]solo est茨 fuera de los l胤mites.
-Esto ser茨 sobre observar a tus[n]compa隠eros de equipo y hacer todo lo[n]posible para apoyarlos.
-Decidiremos al ganador bas茨ndose en su[n]rendimiento general. 夷Trato?
+That's right. But you can't just defeat[n]the enemies.
+We're in this together, so flying solo's[n]off limits.
+This will be about observing your[n]teammates and doing your best to support[n]them.
+We'll decide the winner based on their[n]overall performance. Deal?
 
 [msg MSG_018 [Akihiko]]
-Interesante. Acepto.
-Si gano, entonces tienes que entrenar[n]conmigo, Shinji.
+Heh... Interesting. I accept.
+If I win, then you have to train with[n]me, Shinji.
 
 [msg MSG_019 [Shinjiro]]
-夷Qu姻? 夷Por qu姻 demonios tendr胤a que[n]hacerlo?
+Wha―!? Why the hell would I have to do[n]that?
 
 [msg MSG_020 [Akihiko]]
-夷Qu姻, no tienes miedo de perder, verdad?
+What, you're not afraid of losing, are[n]you?
 
 [msg MSG_021 [Shinjiro]]
-Peque隠o... No hay forma de perderte,[n]Aki.
+You little... There's no way I'd lose to[n]you, Aki.
 
 [msg MSG_022 [Akihiko]]
-斡Muy bien, es un duelo, Shinji!
+All right, it's a duel, Shinji!
 
 [msg MSG_023 [Shinjiro]]
-No vengas a llorarme m茨s tarde.
-夷D吋nde est茨n estos enemigos? Estoy listo[n]para ellos.
+Hah, don't come crying to me later.
+So where're these enemies? I'm ready for[n]'em.
 
 [msg MSG_024 [Akihiko]]
-夷Intentas ir solo? Eso es contra las[n]reglas. 斡Ni un punto!
+Trying to go at it alone...? That's[n]against the rules. Minus one point!
 
 [msg MSG_025 [Shinjiro]]
-夷Qu姻? Eso no cuenta. A雨n no hemos[n]empezado.
+What!? That doesn't count. We haven't[n]even started yet.
 
 [msg MSG_026 [P3 Fem Protag]]
-Trabajar juntos es clave, 夷de acuerdo?[n]斡Buena suerte, chicos!
+Working together is key, okay? Good[n]luck, you guys!
 
 [msg MSG_027 [Mitsuru]]
-Para pensar que podr胤as domar a esos[n]dos... No est茨 mal, [f 6 1 26 0 0 0].
+To think you'd be able to tame those[n]two... Not bad, [f 6 1 26 0 0 0].
 
 [msg MSG_028 [P3 Fem Protag]]
-Ahaha, estoy acostumbrado. 斡Los que[n]conozco son as胤!
+Ahaha, I'm used to it. The ones I know[n]are just like that!
 
 [msg MSG_029 [Mitsuru]]
-夷Son as胤 tambi姻n? Ya me est茨 dando dolor[n]de cabeza...
-De cualquier manera, gracias a [f 6 1 26 0 0 0][n]finalmente podemos avanzar. Vamos.
+*sigh* They're like that over there too?[n]It's already giving me a headache...
+Either way, thanks to we can finally[n]move forward. Let's get going.
 

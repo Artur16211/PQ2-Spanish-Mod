@@ -1,6 +1,6 @@
 [msg MSG_000 [Hikari]]
-No parece que est姻 aqu胤. Estoy seguro de[n]que vol吋 as胤...
+Doesn't look like it's here. I'm sure it[n]flew this way...
 
 [msg MSG_001 [Yukari]]
-Si es tan grande, ser茨 dif胤cil de[n]perder. Sigamos buscando en este piso.
+If it's that big, it'll be hard to miss.[n]Let's keep looking on this floor.
 

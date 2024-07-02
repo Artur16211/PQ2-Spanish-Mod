@@ -1,15 +1,15 @@
 [msg MSG_000 [Teddie]]
-斡All茨 vamos! 斡Uno a la izquierda!
+There we go! One down, one left!
 
 [msg MSG_001 [Yosuke]]
-Whew... En realidad lo hicimos...
+Whew... We actually did it...
 
 [msg MSG_001_1 [Yosuke]]
-斡Ese oso estaba loco! Es dif胤cil verlo[n]tan lindo cuando intenta arrancar[n]nuestras caras...
+Man, that bear was crazy! Hard to see it[n]as cute when it's trying to rip our[n]faces off...
 
 [msg MSG_002 [P4 Hero]]
-Pero no importa lo agresivo que sea,[n]todav胤a lo ganamos. Y tambi姻n venceremos[n]al siguiente.
+But no matter how aggressive it is, we[n]still beat it. And we'll beat the next[n]one, too.
 
 [msg MSG_003 [Teddie]]
-斡Ahora es hora de la ronda final! 斡El[n]ganador toma todo! 斡Esto es por el[n]t胤tulo de Oso Supremo!
+Now it's time for the final round![n]Winner takes all! This is for the title[n]of Bear Supreme!
 

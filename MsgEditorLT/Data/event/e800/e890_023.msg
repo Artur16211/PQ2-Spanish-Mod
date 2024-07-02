@@ -1,60 +1,60 @@
 [msg MSG_000 [Caroline]]
-Vamos, Recluso. Ser茨 mejor que no[n]retengas nada!
-Pr茨cticamente estamos doblando las[n]reglas para tener este combate contigo.[n]夷Te gusta ese tratamiento especial?
+Come on, Inmate. You'd better not hold[n]anything back!
+We're practically bending the rules to[n]have this bout with you. How do you like[n]that special treatment?
 
 [msg MSG_001 [Justine]]
-Nunca te he visto tan alto en esp胤ritus,[n]Caroline.
-Supongo que puedes estar tan entusiasta[n]como quieras, siempre y cuando no nos[n]despiertes.
+I've never seen you so high in spirits,[n]Caroline.
+I suppose you can be as enthusiastic as[n]you like, as long as you don't trip us[n]up.
 
 [msg MSG_002 [Caroline]]
-夷Qu姻? 斡No soy "enthusi茨stico"!
-斡Y m胤rate! 斡Has estado hablando mucho[n]m茨s de lo habitual!
+Wha―!? I'm not "enthusiastic"!
+And look at you! You've been talking a[n]lot more than usual around him!
 
 [msg MSG_003 [Justine]]
-...
-No puedo imaginar lo que quieres decir.
+......
+I can't imagine what you mean.
 
 [sel SEL_004 top]
-夷Ya han terminado?
-Esto es adorable.
+Are you two done yet?
+This is adorable.
 
 [msg MSG_005 [Caroline]]
-斡C茨llate! 斡Todo esto es culpa tuya!
+Sh-Shut up! This is all your fault[n]anyway!
 
 [msg MSG_006 [Justine]]
-Correcto. Tu presencia es[n]desconcertante.
+That's correct. Your very presence is...[n]disconcerting.
 
 [msg MSG_007 [Akechi]]
-Bueno, bueno. Me parece una fijaci吋n,[n]Joker.
+Well, well. Sounds like a fixation to[n]me, Joker.
 
 [msg MSG_008 [Caroline]]
-A-adora - 夷Qu姻 significa eso?
+A-Adora―whuh, I―what's that supposed to[n]mean!?
 
 [msg MSG_009 [Justine]]
-H-hrmph. No te molestes en aplacarnos.[n]No tenemos piedad de ti.
+H-Hrmph. Don't bother placating us. We[n]have no mercy for you.
 
 [msg MSG_010 [Caroline]]
-斡S胤, es cierto!
+Y-Yeah, th-th-that's right!
 
 [msg MSG_011 [Akechi]]
-El tartamudeo y el ruborismo no est茨[n]ayudando exactamente a su caso.
+The stuttering and blushing isn't[n]exactly helping their case.
 
 [msg MSG_012 [Elizabeth]]
-斡Bien! Esta introducci吋n es muy larga.
+Well! This introduction is running a tad[n]long.
 
 [msg MSG_012_1 [Elizabeth]]
-Aprecio que el papel de tsundere sea un[n]poco lento, pero 夷puedo pedir que[n]empieces pronto?
+I appreciate that the tsundere schtick[n]is a bit of a "slow burn," but may I ask[n]that you begin soon?
 
 [msg MSG_013 [Justine]]
-No tienes que dec胤rnoslo dos veces.
-Ven, Caroline. Nuestros hot dogs nos[n]esperan.
+You don't have to tell us twice.
+Come, Caroline. Our hot dogs await.
 
 [msg MSG_014 [Caroline]]
-Heh heh... Entendido. 斡Es hora de que te[n]ense隠emos una lecci吋n, recluso!
+Heh heh... Understood. It's time we[n]taught you a lesson, Inmate!
 
 [msg MSG_015 [Caroline]]
-でまめテテテ ちゎまょよデ ぱまぼゅゎれよデ らぺるまぼまれ ほぺれろぺょろま[n]ぼよょみもぺぽよ まれろぺ わまんテ はまるよ ょよ もゆらよるろぺ ぼゎァょろぺれ[n]わまぼまれ ゅよ もょろまょろまれデ ろよぽぺわウぺ らまるぽまるァれテ
+Heh... Well, Inmate, you seem pretty[n]confident this time. But no matter how[n]many times you try, you'll still lose.
 
 [msg MSG_016 [Justine]]
-Al menos intenta poner una lucha. Ahora,[n]empecemos.
+At least try and put up a struggle. Now,[n]let us commence.
 

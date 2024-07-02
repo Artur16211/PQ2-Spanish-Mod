@@ -1,10 +1,10 @@
 [msg MSG_000 [Rise]]
-斡Y eso hace tres! 斡Buen trabajo, todos!
+斡Y ya van tres! 斡Buen trabajo!
 
 [msg MSG_001 [Ann]]
-Phew... 斡Deber胤amos ser capaces de hacer[n]mucho con todo esto!
+Few... 斡Deber胤amos de poder hacer muchos con todo esto!
 
 [msg MSG_002 [P3 Fem Protag]]
-斡No puedo esperar para unos ricos[n]churros calientes!
-Volvamos. Estoy seguro de que Elizabeth[n]nos est茨 esperando.
+斡No puedo esperar para unos buenos y calentitos churros!
+Volvamos r茨pido. Seguro que Elizabeth nos est茨 esperando.
 

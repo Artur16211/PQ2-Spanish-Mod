@@ -1,18 +1,18 @@
 [msg MSG_000 [P3 Hero]]
-Bueno, estamos muy cerca ahora.
+Well, we're pretty close now.
 
 [msg MSG_000_1 [P3 Hero]]
-S胤, es dif胤cil. Puedo sentir su poder[n]desde aqu胤.
+Yeah, that's a tough one all right. I[n]can feel its power from here.
 
 [msg MSG_001 [Futaba]]
-Hombre, [f 6 1 16 0 0]. Dices eso, 斡pero sigues[n]tan calmado! Supongo que por eso tambi姻n[n]eres un l胤der.
+Man, [f 6 1 16 0 0]. You say that, but you're[n]still so calm! I guess that's why you're[n]a leader, too.
 
 [msg MSG_001_1 [Futaba]]
-Bueno, contamos contigo. 斡Es hora de tu[n]gran papel protag吋nico!
+Well, we're counting on you. Time for[n]your big starring role!
 
 [msg MSG_002 [P3 Hero]]
-Bien. Lo intentar姻.
+Right. I'll give it a try.
 
 [msg MSG_003 [Akihiko]]
-Ojos arriba. 斡Aqu胤 viene!
+Eyes up. Here it comes!
 

@@ -1,58 +1,58 @@
 [msg MSG_000 [Yukari]]
-Phew... Parece que pasamos por las[n]puertas de alguna manera.
+Phew... Looks like we made it past the[n]gates somehow.
 
 [msg MSG_001 [Ryuji]]
-Esos cambios de seguridad no[n]significaron nada para nosotros. Tenemos[n]esto, no hay problema.
+Those security changes didn't mean squat[n]to us. We got this―no problem.
 
 [msg MSG_002 [Morgana]]
-No te relajes todav胤a, Skull. Te vas a[n]poner nervioso si no prestas atenci吋n.
+Don't relax just yet, Skull. You're[n]gonna get tripped up if you don't pay[n]attention.
 
 [msg MSG_003 [Makoto]]
-Tengo que decir, sin embargo, que la[n]cantidad de m茨quinas junto con la falta[n]de gente es bastante inquietante...
+I have to say, though, the amount of[n]machines coupled with the lack of people[n]is pretty unsettling...
 
 [msg MSG_004 [Junpei]]
-夷Oh? 夷Tienes miedo, Queen?
+Oh? You scared, Queen?
 
 [msg MSG_005 [Makoto]]
-斡N-no, por supuesto que no!
-Adem茨s, no hay evidencia que apoye la[n]existencia de... Espadas G.
+N-No, of course not!
+Besides, there's no evidence that[n]supports the existence of... G-words.
 
 [msg MSG_006 [Makoto]]
-夷Aaah?
-Hola... 夷Has o胤do algo?
+Aaah!?
+H-Hey... Did you hear something?
 
 [sel SEL_007 top]
 A G-word?
-Es tu imaginaci吋n.
-Hay algo ah胤...
+It's your imagination.
+There's something over there...
 
 [msg MSG_008 [Chie]]
-斡No, no, no! 斡Para! 斡No quiero o胤rlo!
+No, no, no! Stop! I don't wanna hear it!
 
 [msg MSG_009 [Makoto]]
-斡C茨lmate! No hay manera...
+Calm down! There's no way...
 
 [msg MSG_010 [P4 Hero]]
-No, definitivamente escuchamos algo. No[n]estamos seguros de qu姻...
+No, we definitely heard something. We're[n]just not sure what...
 
 [msg MSG_011 [Chie]]
-夷Podemos dejar de hablar de esto? 斡Las[n]palabras G no existen! 斡No hay manera!
+C-Can we stop talking about this!?[n]G-words don't exist! There's no way!
 
 [msg MSG_012 [Yukiko]]
-Dicen que hablar as胤 atrae a fantasmas,[n]夷sabes?
+They say talking like that attracts[n]ghosts, you know?
 
 [msg MSG_013 [Chie]]
-斡Aaaah! 斡No lo digas! 斡No lo digas!
+Aaaah! Don't say it! Don't say it!
 
 [msg MSG_014 [Yukiko]]
-Tienes raz吋n. Es algo redondo, rojo.
+Oh, you're right. It's some round, red[n]thing.
 
 [msg MSG_015 [Chie]]
-斡Aaaaah! 斡Basta!
+Aaaaah! Stop that!
 
 [msg MSG_016 [Teddie]]
-Yuki, 夷c吋mo pudiste? 斡Soy un oso dulce y[n]peque隠o!
+Yuki-chan, how could you!? I'm just a[n]sweet, little bear!
 
 [msg MSG_017 [Yukiko]]
-Es s吋lo Teddie. Lo siento. Teddie, no[n]pod胤a ver muy claramente...
+Oh... it's just Teddie. Sorry, Teddie, I[n]couldn't see very clearly...
 

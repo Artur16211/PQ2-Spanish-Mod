@@ -1,50 +1,50 @@
 [msg MSG_000 [Elizabeth]]
-Bienvenido a la Habitaci吋n Terciopelo.
-Hmhm... Debo decir, donar el uniforme ha[n]hecho maravillas para preparar mi mente.
+Welcome to the Velvet Room.
+Hmhm... I must say, donning the uniform[n]has done wonders to prepare my mind.
 
 [msg MSG_001 [P3 Hero]]
-Elizabeth... Te est茨s poniendo serio.
+Elizabeth... You're getting serious.
 
 [msg MSG_002 [Elizabeth]]
-S胤. Naturalmente.
-S吋lo puedo agradecer el destino por[n]reunirnos. Con gratitud, har姻 de esto un[n]combate feroz.
+Yes. Naturally.
+I can only thank fate for bringing us[n]together. With gratitude, I shall make[n]this a fierce bout indeed.
 
 [msg MSG_003 [P3 Fem Protag]]
-Qu姻 inmensa presencia... 斡Nunca la he[n]visto as胤!
+What an immense presence... I've never[n]seen her like this...!
 
 [msg MSG_004 [Elizabeth]]
-Soy ella quien gobierna el poder.
-Si me superaras, entonces mu姻strame el[n]alcance completo de tu fuerza.
+I am she who governs power.
+If you would overcome me, then show me[n]the full scope of your strength.
 
 [msg MSG_005 [P4 Hero]]
-S胤. Vamos a ganar esto.
+Yeah. We're going to win this.
 
 [msg MSG_006 [Elizabeth]]
-Si tienen 姻xito, s姻 sin duda que[n]descubrir茨n nuevas posibilidades dentro[n]de ustedes mismos.
+Should you succeed, I know without a[n]doubt that you shall discover new[n]possibilities within yourselves.
 
 [sel SEL_007 top]
-Usaremos todo nuestro poder.
-Con calma.
+We'll use all our power.
+Go easy on us.
 
 [msg MSG_008 [Elizabeth]]
-No puedo pedir nada m茨s.
+*chuckle* I can ask for nothing more.
 
 [msg MSG_009 [Elizabeth]]
-*chuckle* Desafortunadamente, me falta[n]el talento para tal moderaci吋n.
+*chuckle* Unfortunately, I lack the[n]talent for such restraint.
 
 [msg MSG_010 [Elizabeth]]
-Verdaderamente, no puedo recordar sentir[n]tal elaci吋n... no desde que empec姻 a[n]servir a mi amo.
-De alguna manera, ustedes portadores de[n]potencial han desafiado el tiempo y el[n]espacio, y ahora est茨n hombro a hombro.
+Truly, I cannot remember feeling such[n]elation... not since I first began[n]serving my master.
+Somehow, you bearers of potential have[n]defied time and space, and you now stand[n]shoulder-to-shoulder.
 
 [msg MSG_010_1 [Elizabeth]]
-Te dar姻 una pelea honorable. Una batalla[n]acorde a quien gobierna el poder.
+I shall give you an honorable fight. A[n]battle befitting one who governs power.
 
 [msg MSG_010_2 [Elizabeth]]
-斡Ahora... aqu胤 voy!
+Now then... here I come!
 
 [msg MSG_011 [Elizabeth]]
-Bienvenido. Ahora, deja que el timbre de[n]la campanilla suene. Nuestra revancha[n]comienza ahora.
+Welcome back. Now, let the ringside bell[n]ring. Our rematch begins now.
 
 [msg MSG_011_1 [Elizabeth]]
-斡Vamos, [f 6 1 30 0 0 0]! 斡Si no puedes hacerlo,[n]nadie puede! 斡El partido de venganza[n]comienza ahora!
+Come on, [f 6 1 30 0 0 0]! If you can't do it, no[n]one can! The revenge match starts now!
 

@@ -1,30 +1,30 @@
 [msg MSG_000 [P3 Fem Protag]]
-Phew... Lo hicimos.
+Phew... We did it.
 
 [msg MSG_001 [Mitsuru]]
-Un espect茨culo espectacular, [f 6 1 26 0 0 0]. Sus[n]esfuerzos son una inspiraci吋n para todos[n]nosotros.
+A spectacular showing, [f 6 1 26 0 0 0]. Your[n]efforts are an inspiration to us all.
 
 [msg MSG_002 [P3 Fem Protag]]
-斡Gracias, Mitsuru-senpai! Para ser[n]honesto, sin embargo, estaba centrado en[n]patear su trasero.
+Aw, thanks, Mitsuru-senpai! To be[n]honest, though, I was just focused on[n]kicking its butt.
 
 [msg MSG_002_1 [P3 Fem Protag]]
-Gracias por la copia de seguridad,[n]Joker! Me ayud吋 a luchar como lo hice en[n]casa.
+Thanks for the backup, Joker! It helped[n]me fight just like I did back home.
 
 [msg MSG_003 [P3 Fem Protag]]
-Oh, mira...
+Oh, look...
 
 [msg MSG_004]
-Hay algo en el suelo...
+There's something on the ground...
 
 [msg MSG_005 [P3 Fem Protag]]
-Wow, eso es un alivio... Si yo fuera el[n]雨nico que no tuviera un premio, ser胤a[n]muy vergonzoso.
+Wow, that's a relief... If I was the[n]only one who didn't get a prize, it'd be[n]super embarrassing.
 
 [msg MSG_005_1 [P3 Fem Protag]]
-Realmente es un poco misterioso, 夷eh?[n]Aqu胤, tal vez deber胤as aferrarte a 姻l.
+It really is kinda mysterious, huh...?[n]Here, maybe you should hold onto it.
 
 [msg MSG_006]
-斡Obtenido Sooty Film!
+Obtained Sooty Film!
 
 [msg MSG_007 [P3 Hero]]
-Bueno, ser茨 mejor que empecemos a[n]regresar. Elizabeth probablemente est茨[n]esperando.
+Well, we'd better start heading back.[n]Elizabeth's probably waiting.
 

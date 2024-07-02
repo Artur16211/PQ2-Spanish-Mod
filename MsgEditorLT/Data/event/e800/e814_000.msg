@@ -1,113 +1,113 @@
 [msg MSG_000_0]
-Es un callej吋n sin salida...
+It's a dead end...
 
 [msg MSG_000 [Ryuji]]
-... S吋lo s姻, como, los lugares[n]regulares, 夷sabes? Ll姻vala a una peque隠a[n]tienda de ramen y eres bueno, 夷verdad?
+...I only know, like, the regular[n]places, y'know? Just take her to some[n]small ramen shop and you're good, right?
 
 [msg MSG_001 [Yosuke]]
-斡Idiotas! Chicas como lugares que son[n]rom茨nticos!
-En alg雨n lugar como una colina o un[n]faro, un lugar donde puedes ver las[n]estrellas y esas cosas!
+You idiots. Girls like places that are[n]romantic!
+Somewhere like a hill or a lighthouse, a[n]place where you can see the stars and[n]stuff!
 
 [msg MSG_002 [Ryuji]]
-夷Una colina? No tenemos ninguno.
+A hill? We ain't got any.
 
 [msg MSG_003 [Kanji]]
-夷Qu姻 tal una monta隠a?
+How 'bout a mountain?
 
 [msg MSG_004 [Yosuke]]
-斡No seas est雨pido! 斡Eso es totalmente[n]exagerado!
-Quiero decir un lugar donde se pone un[n]poco de fr胤o por la noche, y los dos[n]naturalmente se acercan... 夷Sabes?
+Don't be stupid! That's totally[n]overdoing it!
+I mean a place where it gets a little[n]cold at night, and the two of you[n]naturally get closer... You know?
 
 [msg MSG_005 [Kanji]]
-No... En realidad no.
+Uh, no... Not really.
 
 [msg MSG_006 [Yukiko]]
-Parece que se est茨n divirtiendo mucho[n]all胤.
+It looks like they're having a lot of[n]fun over there.
 
 [msg MSG_007 [Haru]]
-夷Colinas y estrellas? Me pregunto de qu姻[n]est茨n hablando.
+Hmm, hills and stars? I wonder what[n]they're talking about.
 
 [msg MSG_008 [Yosuke]]
-夷Has o胤do todo eso?
-Estamos tratando de ver qui姻n puede[n]venir con el mejor plan de citas.
+Oh, you heard all that?
+We're trying to see who can come up with[n]the best date plan.
 
 [msg MSG_009 [Ryuji]]
-No puedes preguntar a alguien cu茨l ser胤a[n]su cita ideal...
-Quiero decir, 夷no puedes ir a donde[n]quieres ir? 夷Como un gimnasio o algo[n]as胤?
+You can't just ask someone what their[n]ideal date would be...
+I mean, can't you just go where you[n]wanna go? Like a gym or somethin'?
 
 [msg MSG_010 [Yosuke]]
-夷No crees que el mejor lugar para tomar[n]una chica para una cita va a ser super[n]diferente de donde quieres ir?
+Don't you think the best place to take a[n]girl for a date is gonna be super[n]different from where you wanna go?
 
 [msg MSG_011 [Kanji]]
-No estoy seguro de tu colina,[n]Yosuke-senpai. Me siento como si hubiera[n]un mont吋n de errores 'n' mierda ...
+Not sure about your hill, Yosuke-senpai.[n]I feel like there'd be a buncha bugs 'n'[n]shit...
 
 [msg MSG_012 [Ryuji]]
-夷No ser胤a m茨s f茨cil preguntar?
-斡Oye! Ramen o una colina, 夷qu姻 se[n]siente?
+Wouldn't it be easier to just ask?
+Hey! Ramen or a hill, whaddya feelin'?
 
 [msg MSG_013 [Haru]]
-夷Hm? 夷S吋lo tengo esas dos opciones?
+Hm? Do I only get those two choices?
 
 [msg MSG_014 [Yukiko]]
-Deber胤a ser sobre con qui姻n vas, no[n]donde vas.
+It should be about who you go with, not[n]where you go.
 
 [msg MSG_015 [Teddie]]
-Si estamos juntos, Yuki, podemos[n]divertirnos sin importar a d吋nde[n]vayamos!
-Y tal vez finalmente puedas marcar con[n]un..
+If we're together, Yuki-chan, we can[n]have fun no matter where we go!
+And maybe you can finally score with a―
 
 [msg MSG_016 [Yukiko]]
-斡Quema todo, Konohana Sakuya!
+Burn it all, Konohana Sakuya!
 
 [msg MSG_017 [Teddie]]
-斡Aaah! 斡Fue una broma!
+Aaah! It was just a joke!
 
 [msg MSG_018 [Yosuke]]
-Yukiko es despiadado. Pensar que es tan[n]dama cuando est茨 callada...
+Man... Yukiko's ruthless. To think she's[n]so ladylike when she's quiet...
 
 [msg MSG_019 [Ryuji]]
-Hablando de damas, Noir es una dama.
-Quiero decir, ella es la heredera de esa[n]gran compa隠胤a.
+Speaking of ladies, Noir's quite a lady[n]herself.
+I mean, she's the heiress to that[n]huge-ass company.
 
 [msg MSG_020 [Haru]]
-Yo... No soy diferente de nadie m茨s.
+I... I'm no different from anyone else.
 
 [msg MSG_021 [Yosuke]]
-Vamos. 夷Esa elegancia? 夷Ese noble aura?[n]Eso es lo tuyo.
+C'mon. That elegance? That noble aura?[n]That's like your thing.
 
 [msg MSG_022 [Yukiko]]
-S胤, la forma en que te llevas siempre es[n]tan hermosa.
+Yeah, the way you carry yourself is[n]always so beautiful.
 
 [msg MSG_023 [Haru]]
-てるぺぼもぺれテ ぬもれ らぺぽるまれ まるぺょ ゆゎを まれろるもぼろよれ ぼよょ[n]ぼよれぺれ ぺれウデ ぺれウ りゎま れゎらよょむよ りゎま まれ れカゅよ ゅぺ[n]れまむゎょぽぺ ょぺろゎるぺゅまんぺ まょ まれろま らゎょろよテ
-Pero eres tan adorable, Yukiko. Eres[n]graciosa, y tus modales son tan[n]majestuosos.
+Thank you. My parents were really strict[n]about things like that, so I suppose[n]it's just second nature at this point.
+But you're just as lovely, Yukiko-chan.[n]You're graceful, and your mannerisms are[n]so majestic.
 
 [msg MSG_024 [Yukiko]]
-Gracias.
-S吋lo estoy haciendo lo que me[n]ense隠aron...
+Th-Thank you.
+I'm just doing what I was taught...
 
 [msg MSG_025 [Haru]]
-Oh... As胤 que tambi姻n es lo mismo para[n]ti.
+Oh... So it's the same for you too.
 
 [msg MSG_026 [Yusuke]]
-Eso puede ser cierto, pero cuando Noir[n]lucha, ella es el ep胤tome de la palabra[n]"bold"
-Y esa imprevisibilidad s吋lo mejora su[n]elegancia.
-Ambas damas son refinadas, pero dentro[n]de ellas mienten corazones apasionados.[n]Quiz茨s tengan algo en com雨n.
+That may be true, but when Noir fights,[n]she's the epitome of the word "bold."
+And that unpredictability only enhances[n]her elegance.
+Both ladies are refined, but within them[n]lie passionate hearts. Perhaps they have[n]something in common.
 
 [msg MSG_027 [Kanji]]
-... 夷Entonces, Ramen o una colina?
+...So, ramen or a hill?
 
 [msg MSG_028 [Haru]]
-夷Hm? 夷Todav胤a estamos hablando de esto?[n]No tiene sentido, 夷no crees?
+Hm? We're still talking about this? It's[n]kind of pointless, don't you think?
 
 [msg MSG_029 [Yukiko]]
-S胤. Incre胤blemente in雨til.
+Yes. Incredibly pointless.
 
 [msg MSG_030 [Yosuke]]
-Haha... Pens姻 que...
+Haha... I thought so...
 
 [msg MSG_031 [Ryuji]]
-Esos dos har胤an un gran equipo...
+Man, those two'd make one hell of a[n]team...
 
 [msg MSG_032]
-Una nueva proyecci吋n especial: "Los Ties[n]que Bind" se ha a隠adido a la taquilla.
+A new special screening: "The Ties that[n]Bind" has been added to the box office.
 

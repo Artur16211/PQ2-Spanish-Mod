@@ -1,14 +1,14 @@
 [msg MSG_000 [Fuuka]]
-Ahora, por favor, dir胤jase al KNS-1000.
+Now then, please make your way over to[n]the KNS-1000.
 
 [msg MSG_001 [Aigis]]
-斡Entendido! 斡Har姻 todo lo posible para[n]destruir el objetivo!
+Understood! I will do my best to destroy[n]the target!
 
 [msg MSG_002 [Rise]]
-Hay m雨ltiples KNS-1000s, pero parece que[n]puedes elegir a cualquiera de ellos.
-Como siempre, te lo dejaremos, Joker.
+There are multiple KNS-1000s, but it[n]sounds like you can choose any one of[n]them.
+As always, we'll leave it to you, Joker.
 
 [msg MSG_003 [Futaba]]
-Parece que el mapa est茨 preparado para[n]la proyecci吋n especial. Tal vez podamos[n]andar por ah胤 si tenemos tiempo.
-De cualquier manera, mantenga un ojo en[n]el mapa y observe su paso!
+Looks like the map is set for the[n]special screening. Maybe we can roam[n]around if we have time.
+Either way, keep an eye on the map and[n]watch your step!
 

@@ -1,103 +1,103 @@
 [msg MSG_000 [Yusuke]]
 Ngh...
-A este ritmo... Voy a colapsar...
+At this rate... I'm going to collapse...
 
 [sel SEL_001 top]
-夷Est茨s bien?
-Apenas puedes pararte.
+Are you okay?
+You can barely stand.
 
 [msg MSG_002 [Yusuke]]
-Joker... Creo que esto es todo para[n]m胤...
+Joker... I think this is it for me...
 
 [msg MSG_003 [Yusuke]]
-Como estoy seguro de que ya has[n]adivinado... Tengo mucha hambre...
-Casi me muero de la cola de Mona porque[n]parec胤a un anguila... 斡Mi est吋mago est茨[n]vac胤o!
+As I'm sure you've already guessed...[n]I'm very hungry...
+I nearly took a bite out of Mona's tail[n]because it looked like an eel... My[n]stomach is beyond empty!
 
 [msg MSG_004 [Akihiko]]
-夷Qu姻 pasa, Fox? 夷Te sientes enfermo o[n]algo as胤?
+What's wrong, Fox? You feelin' sick or[n]something?
 
 [msg MSG_005 [Yusuke]]
-Mi hambre me ha mejorado.
-Normalmente, recurrir胤a a comer frijoles[n]o hojas radiales, pero no puedo hacerlo[n]aqu胤...
-Esto es vergonzoso de m胤 para preguntar,[n]pero... 夷me ahorrar茨s algo de comida?
+My hunger has bested me.
+Normally, I'd resort to eating[n]beansprouts or radish leaves, but I[n]can't do that here...
+This is shameful of me to ask, but...[n]will you spare me some food?
 
 [msg MSG_006 [Akihiko]]
-Deber胤as haberlo dicho. Toma, toma esto.
+Heh, you should've just said so. Here,[n]take this.
 
 [msg MSG_007 [Yusuke]]
-斡Ahh! 斡Esto es...!
+Ahh! This is...!
 
 [msg MSG_008 [Akihiko]]
-斡Una barra de prote胤nas! No s吋lo es[n]saludable, pero tambi姻n es f茨cil de[n]comer.
+A protein bar! Not only is it healthy,[n]but it's also easy to eat.
 
 [msg MSG_009 [Akihiko]]
-Para mantenerse en forma, tiene que[n]estar seguro de hacer ejercicio y[n]obtener mucha nutrici吋n.
-Puedes ejercitar todo lo que quieras,[n]pero sin nutrici吋n, no tiene sentido.
-斡Por eso tienes que tomar prote胤nas!
-Es mejor tomarlo aproximadamente 45[n]minutos despu姻s de que trabajes, as胤 que[n]llevo...
+In order to stay fit, you have to be[n]sure to exercise AND get plenty of[n]nutrition.
+You can exercise all you want, but[n]without any nutrition, it's pointless.
+That's why you gotta take protein!
+It's best to take it roughly 45 minutes[n]after you work out, so I carry...
 
 [msg MSG_010 [Yusuke]]
-Gracias. Eso fue bastante agradable.
+*sigh* Thank you. That was quite nice.
 
 [msg MSG_011 [Akihiko]]
-夷Qu姻? 夷Ya terminaste?
+Wha...!? You're finished already!?
 
 [msg MSG_012 [Yusuke]]
-S胤... Pero estoy lejos de estar lleno...[n]De hecho, soy m茨s hambriento que nunca.
+Yes... But I'm far from full... In fact,[n]I'm hungrier than ever.
 
 [msg MSG_013 [Yusuke]]
-Qu姻 humillante... Supongo que aqu胤 es[n]donde muero...
+Ugh... How humiliating... I suppose this[n]is where I die...
 
 [msg MSG_014 [Akihiko]]
-斡Qu姻date conmigo, Fox!
-No puedo dejar a un hombre atr茨s...[n]Tendr姻 que preguntarle.
+Stay with me, Fox!
+I can't leave a man behind... I'll just[n]have to ask him.
 
 [msg MSG_015 [Shinjiro]]
-... 夷Quieres que te haga algo?
+...So, you want me to make you[n]somethin'?
 
 [msg MSG_016 [Akihiko]]
-S胤, algo que nos energizar茨.
-Ha pasado tanto tiempo desde que com胤[n]algo hecho por ti. Me pregunto qu姻[n]deber胤amos hacer...
+Yeah, something that'll energize us.
+It's been so long since I've eaten[n]anything made by you. I wonder what we[n]should have you make...
 
 [msg MSG_017 [Shinjiro]]
-夷C吋mo es que est茨s llamando a los[n]disparos aqu胤?
+How come you're callin' the shots here?
 
 [msg MSG_018 [Akihiko]]
-夷A qui姻n le importan los detalles?
-斡Adem茨s, casi nunca cocinas para m胤! No[n]es justo.
+Who cares about the details!?
+Besides, you almost never cook for me![n]It's not fair.
 
 [msg MSG_019 [Shinjiro]]
-Y pens姻 que intentabas ayudar a[n]alguien... Bastardo ego胤sta.
-Lo que sea... Todo el mundo estar茨 feliz[n]si hago algo de comida, 夷verdad?
+*sigh* And I thought you were trying to[n]help someone... Selfish bastard.
+Whatever... Everyone'll be happy if I[n]make some food, right?
 
 [sel SEL_020 top]
-S胤, por favor.
-Yo tambi姻n quiero algo.
+Yes, please.
+I want some too.
 
 [msg MSG_021 [Shinjiro]]
-Hombre, eres un buen mantenimiento.
-La pregunta ahora es: 夷tenemos[n]ingredientes?
+Man, you're high maintenance.
+The question now is: do we have any[n]ingredients?
 
 [msg MSG_022 [Yusuke]]
-Hrgh, eso es correcto...! 夷Hay hierba[n]cerca?
+Hrgh, that's right...! Is there any[n]grass nearby?
 
 [msg MSG_023 [Akihiko]]
-Tengo una prote胤na de respaldo. Pero es[n]polvo.
+I have some backup protein. It's powder,[n]though.
 
 [msg MSG_024 [Shinjiro]]
-No puedo hacer nada con esto.
+*sigh* I can't make anything with this.
 
 [msg MSG_025 [Yusuke]]
-Ngh... Bueno, si no tenemos[n]ingredientes, entonces tendremos que[n]encontrar algunos!
-斡Yo, Fox, har姻 cualquier cosa por una[n]deliciosa comida!
+Ngh... Well, if we don't have any[n]ingredients, then we'll just have to[n]find some!
+I, Fox, will do anything for a delicious[n]meal!
 
 [msg MSG_026 [Akihiko]]
-Heh... Parece que est茨s a la altura de[n]la tarea. Bueno, yo tambi姻n. Le dar姻 mi[n]mejor oportunidad.
+Heh... Looks like you're up to the task.[n]Okay, me too. I'll give it my best shot.
 
 [msg MSG_027 [Shinjiro]]
-夷Qu姻 tan hambrientos tienen?
-De cualquier manera, no puedo hacer nada[n]hasta que consigas esos ingredientes.
+Just how hungry are you guys...?
+Either way, I can't do anything until[n]you get those ingredients.
 
 [msg MSG_028]
-Una nueva proyecci吋n especial: "El[n]precio de una comida gratis" se ha[n]a隠adido a la taquilla.
+A new special screening: "The Price of a[n]Free Meal" has been added to the box[n]office.
 

@@ -1,64 +1,64 @@
 [msg MSG_000 [Akechi]]
-Esta es la flor.
+This is the flower.
 
-[msg MSG_001 [Flor Cantando]]
-No importa lo que como, nunca estoy[n]satiada. 夷Es un pecado sentirse as胤?
+[msg MSG_001 [Singing flower]]
+No matter what I eat, I'm never[n]satiated. Is it a sin to feel this way?
 
 [msg MSG_002 [Marie]]
-びイぼょもぼぺゆまょろま まれテテテ ぽまれらゎイれ ぽま ろよぽよデ ゎょよ ぽま ゅよれ[n]れもまろま らまぼぺぽよれ ゆよるろぺゅまれ まれ ゅぺ むゅよろよょウぺテ はよぽるウぺ[n]ろるぺほぺゃぺる まれよテ "つゅ ぽゎゅぼま れぺほよる ぽまゅ らまぼぺぽよテテテ"
+It technically is... after all, one of the[n]seven deadly sins is gluttony. I could work[n]that in. "The sweet taste of sin..."
 
 [msg MSG_003 [Yosuke]]
-夷Eso es lo que buscabas?
+Ooh, is that what you were looking for?
 
 [msg MSG_004 [Marie]]
-Dulce fruta... No. Necesita sonar m茨s[n]tentador... y m茨s t吋xico...
+Sweet fruit... No. It needs to sound[n]more tempting... and more toxic...
 
 [sel SEL_005 top]
-Fruta prohibida.
-Manzana envenenada.
-Fruta podrida.
+Forbidden fruit.
+Poisoned apple.
+Rotten fruit.
 
 [msg MSG_006 [Marie]]
-斡S胤, eso es! Eres muy bueno en la[n]poes胤a. 夷Tal vez tienes anhelos secretos[n]de tu propio...?
-... La dulce fruta prohibida. 斡S胤, me[n]gusta el sonido de eso!
+Yes, that's it! You're pretty good at[n]poetry. Maybe you have secret yearnings[n]of your own...?
+...The sweet forbidden fruit. Yes[n]indeed, I like the sound of that!
 
 [msg MSG_007 [Marie]]
-Manzana envenenada... Manzana[n]prohibida... 斡No, fruta prohibida!
-... La dulce fruta prohibida. 斡S胤, me[n]gusta el sonido de eso!
+Poisoned apple... Forbidden apple... No,[n]forbidden fruit!
+...The sweet forbidden fruit. Yes, I[n]like the sound of that!
 
 [msg MSG_008 [Marie]]
-No s姻, eso es m茨s repelente que todo,[n]夷no? Quiero que suene mal de una buena[n]manera. Rotten es... malo.
-夷Qu姻 hay de "fruta prohibida"? 斡Me gusta[n]el sonido de eso!
+I dunno, that's more repellent than alluring,[n]isn't it? I want it to sound bad in a good[n]way. Rotten is just... bad.
+What about "forbidden fruit"? Ooh, I[n]like the sound of that!
 
 [msg MSG_009 [Haru]]
-Parece que Marie se est茨 divirtiendo.
+Looks like Marie-chan's having fun.
 
 [msg MSG_010 [Marie]]
-ひウテテテ つれ ゎょぺ めもれろよるもぺ ぽま ぺゆよる ぼよょ ゅよれ れもまろま[n]らまぼぺぽよれ ゆよるろぺゅまれテ ひま ろるぺろぺ ぽま ゎれぺる ゎょぺ ゆァれぼぺるぺ[n]ぺょむまゅもぼぺゅ ゆもまょろるぺれ ぺゅほまるむぺ れまぼるまろよれ ろぺょ[n]よれぼゎるよれテテテ
+Yes... It's a love story with the seven deadly[n]sins. It's about wearing an angelic mask while[n]harboring such dark secrets...
 
 [msg MSG_011 [P4 Hero]]
-夷Terminaste?
+Oh, are you done?
 
 [msg MSG_012 [Marie]]
-*jadeo* NYAAAAAH! 夷Estaba hablando en[n]voz alta?
-斡Esto no puede ser! 斡Por favor, detengan[n]sus o胤dos! 斡L茨rgate de tu memoria!
+*gasp* NYAAAAAAAH! Was I talking out[n]loud!?
+This can't be! Please, stop up your[n]ears! Fling such words far away from[n]your memory!
 
 [msg MSG_013 [P4 Hero]]
-Vale, vale. C茨lmate. 夷Por qu姻 no me[n]dices si tu poema est茨 acabado?
+Okay, okay. Calm down. Why don't you[n]just tell me if your poem is finished?
 
 [msg MSG_014 [Marie]]
-夷Qu姻 es una forma po姻tica de decir esto?[n]Casi.
-Si puedo obtener un poco m茨s de[n]inspiraci吋n, creo que puedo terminar...
+Er, what's a poetic way of saying this?[n]Almost.
+If I can just get a bit more[n]inspiration, I think I can finish...
 
-[msg MSG_015 [Flor Cantando]]
-斡Si tu alma no est茨 llena... entonces ve[n]a NORTH, jovencita!
+[msg MSG_015 [Singing flower]]
+If your soul is unfulfilled... then go[n]NORTH, young lass!
 
 [msg MSG_016 [Akechi]]
-As胤 es. O胤 cantar all胤 arriba. Estaba[n]profundo en un 茨rea con un oso FOE...
+Oh, that's right. I heard singing up[n]there. It was deep in an area with a[n]bear FOE...
 
 [msg MSG_017 [Yosuke]]
-S胤, eso fue definitivamente al norte.[n]斡Bueno, entonces! 斡Vamos!
+Yeah, that was definitely up north.[n]Okay, then! Let's go!
 
 [msg MSG_018 [P4 Hero]]
-Recordemos que tenemos los ojos abiertos[n]para las FOEs.
+Let's just remember to keep our eyes[n]peeled for FOEs.
 

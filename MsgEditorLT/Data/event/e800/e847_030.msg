@@ -1,27 +1,27 @@
 [msg MSG_000 [P3 Fem Protag]]
-S胤! 斡Lo logramos, chicos!
+Yes! We beat it, guys!
 
 [msg MSG_000_1 [P3 Fem Protag]]
-Realmente nos llevaste a trav姻s de esa[n]lucha, Joker. 斡Dir胤a que eso te[n]convierte en nuestro l胤der!
+You really carried us through that[n]fight, Joker. I'd say that makes you our[n]leading man!
 
 [msg MSG_001 [Haru]]
-夷Oh? 夷Qu姻 es esto?
+Oh? What's this...?
 
 [msg MSG_002]
-Hay algo en el suelo...
+There's something on the ground...
 
 [msg MSG_003 [Morgana]]
-Esa Sombra debe haber dejado esto.
+That Shadow must have dropped this.
 
 [msg MSG_004 [Makoto]]
-夷No es una pel胤cula? Est茨 casi[n]completamente cubierto de holl胤n, sin[n]embargo...
+Isn't it a piece of film? It's almost[n]completely covered in soot, though...
 
 [msg MSG_005 [Morgana]]
-Sea lo que sea, cuenta como un trofeo de[n]nuestra victoria!
+Whatever else it is, it counts as a[n]trophy of our victory!
 
 [msg MSG_006]
-斡Obtenido Sooty Film!
+Obtained Sooty Film!
 
 [msg MSG_007 [Makoto]]
-Bueno, hemos logrado nuestro objetivo.[n]Vamos a informarle a Elizabeth.
+Well, we've accomplished our goal. Let's[n]go report to Elizabeth.
 

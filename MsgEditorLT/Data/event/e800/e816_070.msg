@@ -1,61 +1,61 @@
 [msg MSG_000 [Elizabeth]]
-Te agradezco que hayas completado la[n]proyecci吋n especial para mi hermano sin[n]valor.
-A partir de ahora, por favor, si姻ntete[n]libre de ordenarle todo lo que quieras.
+I appreciate you completing the special[n]screening for my worthless brother.
+From now on, please feel free to order[n]him around however you like.
 
 [msg MSG_001 [Yosuke]]
-Haha... Me siento mal por c吋mo lo tratan[n]como es...
+Haha... I feel bad about how he's[n]treated as is...
 
 [msg MSG_002 [Theodore]]
-Gracias por traer el "Futurista Gizmo"
-Era tan fascinante como esperaba. Estoy[n]empezando a sentirme motivada...!
+Thank you for bringing the "Futuristic[n]Gizmo."
+It was just as enthralling as I[n]expected. I'm beginning to feel quite[n]motivated...!
 
 [msg MSG_003 [P3 Fem Protag]]
-*giggle* Pareces muy emocionada, Theo.[n]Espero que sigas prestando tu ayuda.
-Eso dijo, no sab胤a que estabas tan[n]metido en la tecnolog胤a.
+*giggle* You seem pretty excited, Theo.[n]I hope you'll continue to lend us your[n]assistance.
+That said, I didn't know you were so[n]into technology.
 
 [msg MSG_004 [Theodore]]
-Bueno, no era necesariamente el[n]dispositivo en s胤, en realidad s吋lo[n]quer胤a mantenerlo.
-Como pens姻, es temperatura ambiente.
+Well, it wasn't necessarily the device[n]itself, I actually just wanted to hold[n]it.
+As I thought, it's room temperature.
 
 [msg MSG_005 [P3 Fem Protag]]
-Huh? 夷Eso es todo lo que quer胤as?
+Huh? That's all you wanted?
 
 [msg MSG_006 [Theodore]]
-Pude alimentar mi curiosidad, aunque no[n]pens姻 que ser胤a tan reconfortante.
+I was able to feed my curiosity, though[n]I didn't think it would be this[n]comforting.
 
 [sel SEL_007 top]
-Bien por ti.
-No lo entiendo.
+Good for you.
+I don't get it.
 
 [msg MSG_008 [Theodore]]
-S胤, y todo es gracias a todos aqu胤.
-Ahora estoy refrescada y lista para[n]retomar mis deberes.
+Yes, and it's all thanks to everyone[n]here.
+I'm now refreshed and ready to resume my[n]duties.
 
 [msg MSG_009 [P3 Fem Protag]]
-Y-you don't have any questions or[n]anything? You're really something,[n][f 6 1 30 0 0 0].
+Y-You don't have any questions or[n]anything? You're really something,-kun.
 
 [msg MSG_010 [P3 Fem Protag]]
-Lo siento. Theo tiene esta habilidad[n]donde puede decir la temperatura exacta[n]de algo simplemente toc茨ndola...
-Supongo que eso no aclara las cosas...[n]De todos modos, es un poco raro.[n]Ahaha...
+S-Sorry. Theo has this ability where he[n]can tell the exact temperature of[n]something just by touching it...
+I guess that doesn't make things any[n]clearer... Anyway, he's just a little[n]odd. Ahaha...
 
 [msg MSG_011 [Futaba]]
-De cualquier manera, Theodore est茨 listo[n]para cualquier cosa. Supongo que[n]llegamos al final verdadero.
-Espera un segundo...
+Either way, Theodore's ready for[n]anything. Guess we reached the true[n]ending.
+Wait a sec...
 
 [msg MSG_012 [Fuuka]]
-El cableado y todo... Realmente es[n]incre胤ble.
-No pod胤a creer mis ojos. Pensar que[n]alguien tendr胤a una idea as胤.
+The wiring and everything... It really[n]is amazing.
+I couldn't believe my eyes. To think[n]someone would have an idea like this.
 
 [msg MSG_013 [Naoto]]
-Cierto, pero bien podr胤a convertirse en[n]una realidad en un futuro cercano.
-Este dispositivo se est茨 desarrollando[n]actualmente en algunos pa胤ses.
+Right, but it could very well become a[n]reality in the near future.
+This device is currently being developed[n]in some countries.
 
 [msg MSG_014 [Yusuke]]
-Desde la perspectiva de un artista, esta[n]l胤nea de simetr胤a es...
+From an artist's perspective, this line[n]of symmetry is just...
 
 [msg MSG_015 [Koromaru]]
 Woof! Woof!
 
 [msg MSG_016 [Futaba]]
-夷Todav胤a est茨n en ello? Esa m茨quina[n]realmente es algo!
+You guys are still at it? That machine[n]really is something!
 

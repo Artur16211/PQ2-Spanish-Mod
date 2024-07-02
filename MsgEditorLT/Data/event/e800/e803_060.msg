@@ -1,110 +1,110 @@
 [msg MSG_000 [Futaba]]
-Whew... 斡Hemos derrotado al nuevo[n]retador! Estoy bastante seguro de que[n]son todos.
+Wow... 斡Hemos derrotado al nuevo contrincante! Estoy segura de que ya est茨n todos.
 
 [msg MSG_001 [Ryuji]]
 斡Oye, Kanji! 夷Est茨s bien?
 
 [msg MSG_002 [Kanji]]
-斡No hay problema aqu胤! Soy bastante[n]bueno para hacer un golpe.
-A雨n as胤, tengo que decir, lamento[n]haberles dejado as胤.
+斡No hay problema! Soy bastante bueno recibiendo golpes.
+Aun as胤, perd吋n por haberlos empujado de esa forma.
 
 [msg MSG_003 [Ryuji]]
-No te preocupes. Habr胤amos estado[n]tostadas si no lo hicieras.
-Fue un gran golpe. Tienes un poder real.
+Eh, no te preocupes por eso. Estar胤amos fritos si no lo hubieras hecho.
+Eso fue un pu隠etazo infernal. Realmente tienes mucho poder.
 
 [msg MSG_004 [Kanji]]
-斡Gracias!
+斡G-gracias!
 
 [msg MSG_005 [Kanji]]
-Por cierto, lim吋n tambi姻n dice... 斡Lo[n]siento!
+Por cierto, d姻jame tambi姻n decir... 斡Lo siento!
 
 [msg MSG_006 [Ryuji]]
-夷Wh-Wha?
+夷Q-qu姻?
 
 [msg MSG_007 [Kanji]]
-Supongo que no te entend胤, Skull.
-Pens姻 que eras un mat吋n de la ciudad que[n]no sab胤a escuchar...
+Supongo que no te entend胤a, Skull.
+Pensaba que solo eras un mat吋n de ciudad que no sab胤a escuchar...
 
 [msg MSG_008 [Futaba]]
-Eso lo resume bastante.
+Eso lo resume todo.
 
 [msg MSG_009 [Ann]]
-Suena bien.
+Suena bastante bien.
 
 [msg MSG_010 [Ryuji]]
 斡C茨llate!
 
 [msg MSG_011 [Kanji]]
-Me disculpaste despu姻s de que intentara[n]pelear contigo, y...
+T雨 te disculpaste despu姻s de que intentara pelear contigo, y...
 Me llamaste amigo.
 
 [msg MSG_012 [Ryuji]]
-Bueno, s胤. Est茨bamos luchando contra una[n]Sombra... Bastante vergonzoso ahora que[n]lo pienso...
-Lo siento tambi姻n. Pens姻 que eras como[n]todos los dem茨s... Juzg茨ndome cosas.
-Esos ojos tuyos me despidieron.
+B-bien, s胤. Est茨bamos luchando contra una sombra... bastante vergonzoso ahora que lo pienso...
+Yo tambi姻n lo siento. Pensaba que eras como todos los dem茨s... Juzg茨ndome y eso.
+Esos ojos tuyos me lo dejan claro.
 
 [msg MSG_013 [Naoto]]
-Es comprensible. Es la verdad.
+Entendible. Es la verdad.
 
 [msg MSG_014 [Rise]]
-S胤, no hay mucho que podamos hacer all胤.[n]Kanji no es exactamente la persona m茨s[n]atractiva del mundo.
+Bien, ya no hay mucho que hacer aqu胤. Kanji no es exactamente la persona m茨s acogedora del mundo.
 
 [msg MSG_015 [Kanji]]
-斡C茨llate!
+斡Oye, c茨llate!
 
 [sel SEL_016 top]
 Ustedes dos hacen un buen equipo.
-Ustedes dos son iguales.
+Se parecen mucho.
 
 [msg MSG_017 [Ryuji]]
-Tal vez lo somos. Definitivamente[n]tenemos esp胤ritu, eso es seguro!
+Je, je, je, quiz茨s lo somos. Definitivamente, tenemos esp胤ritu, 斡eso est茨 claro!
 
 [msg MSG_018 [Kanji]]
-斡Claro que s胤! 斡Nadie tiene m茨s esp胤ritu[n]que nosotros!
+斡Claro que s胤! 斡Nadie tiene m茨s esp胤ritu que nosotros!
 
 [msg MSG_019 [Futaba]]
-Y as胤 naci吋 una broma apasionada entre[n]dos hombres.
-Felizmente despu姻s. 斡Ahora, vamos de[n]vuelta!
+Y as胤, un apasionado bromance naci吋 entre dos hombres.
+Felices para siempre. Ahora, 斡vuelve!
 
 [msg MSG_020 [Kanji]]
 Oye...
-Eres muy diferente de c吋mo te ves,[n]夷sabes?
+Eres muy diferente de lo que pareces, 夷lo sab胤as?
 
 [msg MSG_021 [Ryuji]]
-Haha, mira qui姻n habla.
+Ja, ja, mira qui姻n est茨 hablando.
 
 [msg MSG_022 [Kanji]]
-Quiz茨s sea est雨pido, pero supongo que no[n]puedes juzgar un libro por su portada.
+Quiz茨s soy un poco tonto, pero creo que realmente no se puede juzgar un libro por su portada.
 
 [msg MSG_023 [Ryuji]]
-Supongo.
-Joker puede parecer tranquilo todo el[n]tiempo, pero es s雨per confiable cuando[n]se trata de eso.
-... Ha ense隠ado mucho a un marginado[n]como yo.
-Estoy muy agradecida por los Ladrones[n]Fantasma. Cada uno de ellos.
+Pienso lo mismo.
+Joker parece siempre silencioso, pero es superfiable cuando se trata de eso.
+...Le ha ense隠ado mucho a un marginado como yo.
+Estoy muy agradecido a los Ladrones Fantasma. A cada uno de ellos.
 
 [msg MSG_024 [Kanji]]
-Es b茨sicamente lo mismo para m胤.
-Mi equipo acept吋 todo sobre m胤, incluso[n]mis debilidades.
-As胤 que, estoy tratando de devolver, o[n]al menos ayudar, 夷sabes?
+Yo b茨sicamente igual.
+Mi equipo acept吋 todo sobre m胤, incluso mis debilidades.
+As胤 que, intento devolver eso, o al menos lo intento, 夷entiendes?
 
 [msg MSG_025 [Ryuji]]
-S胤. No es como si tuvi姻ramos las[n]habilidades inteligentes o de apoyo,[n]pero...
-夷Qu姻 puedo decir? 斡S姻 que somos buenos[n]para algo!
+S胤. No es que tengamos la inteligencia o las habilidades de apoyo, pero...
+夷Qu姻 puedo decir? 斡Yo S畏 que somos buenos para algo!
 
 [msg MSG_026 [Kanji]]
-斡Claro que s胤! 斡Eres un tipo apasionado,[n]Skull!
+斡Claro que s胤! 斡Eres un tipo apasionado Skull!
 
 [msg MSG_027 [Ryuji]]
-Toda esta charla me hace sentir m茨s[n]avergonzada...
-No le digas a nadie sobre todo esto,[n]夷s胤?
+Je, toda esta charla me hace pasar a雨n m茨s vergüenza...
+No le cuentes a nadie sobre esto, 夷vale?
 
 [msg MSG_028 [Kanji]]
-S胤, de ninguna manera. S-same va por ti.
+S胤, de ninguna forma. L-lo mismo va por ti.
 
 [msg MSG_029 [Futaba]]
-斡Oigan, ustedes se van a quedar atr茨s![n]夷Por qu姻 est茨n todos rojos?
-Oh hoh... 夷Ustedes dos confesaron su[n]amor por el otro?
+斡Van a quedarse atr茨s! 斡Por qu姻 est茨n tan rojos!
+Oh... 夷Se han confesado?
 
 [msg MSG_030 [Ryuji]]
-斡H-hell no! 斡Ya vamos!
+斡Claro que no! 斡Vamos!
 

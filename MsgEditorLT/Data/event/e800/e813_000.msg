@@ -1,97 +1,97 @@
 [msg MSG_000 [Rise]]
-斡Oh! 斡Bienvenido!
-Escuchen todos. 斡Theodore ha hecho un[n]nuevo tipo de palomitas!
+斡Oh! 斡Bienvenidos de vuelta!
+Escuchad. 斡Theodore ha creado un nuevo tipo de palomitas!
 
 [msg MSG_001 [Yusuke]]
-Popcorn... O胤r que la palabra es hacer[n]que mi est吋mago se ronque.
+Palomitas... Solo con escuchar la palabra mi est吋mago ruge.
 
 [msg MSG_002 [Theodore]]
-He estado esperando.
-Creo que me he superado en esta 雨ltima[n]creaci吋n. Por supuesto, por favor,[n]prueba un poco.
+Os he estado esperando.
+Creo que me he superado en esta 雨ltima creaci吋n. Por favor, probadlas.
 
 [msg MSG_003 [Haru]]
-斡Es tan colorido! No ves comida que se[n]parece a eso todos los d胤as.
-斡Y huele incre胤ble tambi姻n!
+斡Wow, qu姻 coloridas! No ves comida parecida todos los d胤as.
+Mmm, 斡y adem茨s huele de maravilla!
 
 [msg MSG_004 [Yusuke]]
-Bueno, entonces, no importa si lo[n]hago...
-...?
-夷Qu姻 es esto?
+Bueno, entonces, no importa si yo...
+斡夷...?!
+斡夷Q-Qu姻 es esto?!
 
 [msg MSG_005 [Futaba]]
-夷Qu姻 pasa? 夷Por qu姻 te congelaste de[n]repente?
+斡夷Q-Qu姻 ocurre?! 斡夷Por qu姻 te has congelado de repente?!
 
 [msg MSG_006 [Yusuke]]
-つょ まゅ ゆよゆまょろよ まょ りゎま れぺゅゎぽカ ゆもれ らぺらもゅぺれ[n]むゎれろぺろもわぺれデ れまょろウ ゎょぺ まれらまぼもま ぽま まゑらゅよれもカょ[n]ぼぺるむぺぽぺテテテ づゎま ぼよゆよ れも めゎほもまるぺ れもぽよ むよゅらまぺぽよ[n]らよる ゎょ るぺをよテテテ
+En el momento en el que toc吋 mis papilas gustativas, he sentido una especie de explosi吋n... Era como si me hubiera alcanzado un rayo...
 
 [msg MSG_007 [Naoto]]
-夷Podr胤a ser venenoso? 斡Esc雨pelo, r茨pido!
+斡夷Podr胤a ser venenoso?! 斡Esc雨pelo, r茨pido!
 
 [msg MSG_008 [Ryuji]]
-夷Es realmente tan peligroso?
+斡夷Es peligroso de verdad?!
 
 [msg MSG_009 [Yusuke]]
-S胤, es peligroso... 斡Peligroso!
+S胤, son realmente peligro... 斡Peligrosamente deliciosas!
 
 [msg MSG_010 [Haru]]
-Oh wow, tienes raz吋n sobre que se le[n]cobre. Podr胤a comer esto todo el d胤a.
+Oh wow, ten胤as raz吋n en que estaba cargado. Podr胤a comerlas todo el d胤a.
 
 [msg MSG_011 [Morgana]]
-夷Seriously?
+... 夷En serio?
 
 [msg MSG_012 [Yukiko]]
-Esto suena interesante. 斡D姻jame probar,[n]Theodore!
+Hmm, suena interesante. 斡D姻jame probarlas, Theodore!
 
 [msg MSG_013 [Ann]]
-斡Yo tambi姻n!
+Oh, 斡a m胤 tambi姻n!
 
 [msg MSG_014]
-Todos est茨n probando las nuevas[n]palomitas...
+Todos est茨n probando las nuevas palomitas...
 
 [msg MSG_015 [Morgana]]
-Las chicas siempre son m茨s aventureras[n]en momentos como este...
+Las chicas son siempre m茨s aventureras en momentos como estos...
 
 [sel SEL_016 top]
-Intent姻moslo.
-Esperemos a ver.
+Vamos a probarlas.
+Esperemos y veamos.
 
 [msg MSG_017 [Morgana]]
-S胤. Tenemos que subir.
+S-S胤. Los chicos tenemos que dar un paso adelante.
 
 [msg MSG_018 [Morgana]]
-S姻 c吋mo te sientes, pero nosotros[n]deber胤amos subirlo.
+S姻 c吋mo te sientes, pero los chicos tenemos que dar un paso adelante.
 
 [msg MSG_019 [Theodore]]
 Ah, [f 6 1 30 0 0 0]...
-Mis disculpas, pero me he quedado sin[n]palomitas.
+Mis disculpas, pero justo nos acabamos de quedar sin palomitas.
 
 [msg MSG_020 [Morgana]]
-夷Ya? 斡Eso fue casi nada!
+斡夷Ya?! 斡Eran muy pocas!
 
 [msg MSG_021 [Theodore]]
-Realmente siento la molestia.
-Tuve una peque隠a dificultad para obtener[n]los ingredientes para producir ese[n]sabor...
+Siento mucho las molestias.
+Tuve algunas ligeras dificultades obteniendo los ingredientes para producir ese sabor...
 
 [msg MSG_022 [Akechi]]
-夷 Dificultad?
+夷Dificultades?
 
 [msg MSG_023 [Theodore]]
-S胤. Descubr胤 un secreto dentro de la[n]selva...
-All胤, pude hacer uso de una cierta cosa[n]que ayud吋 a darle al producto final su[n]carga.
+S胤. He descubierto un secreto en lo profundo de la jungla...
+All胤, pude utilizar algo que me ayud吋 a darle al producto final su carga.
 
 [msg MSG_024 [Rise]]
-No estoy seguro de lo que est茨s[n]hablando, pero suena como mucho[n]trabajo...
-Bueno, tenemos mucho aqu胤, as胤 que[n]podemos dividirlo entre todos una vez[n]que regresemos al vest胤bulo.
+No s姻 seguro de lo que est茨s hablando, pero parece mucho trabajo...
+Bueno, tenemos muchas aqu胤, as胤 que podemos dividirlas entre todos una vez volvamos al vest胤bulo.
 
 [msg MSG_025 [Yusuke]]
-Podr胤a 夷Tambi姻n tengo algo, Kujikawa?
+夷Podr胤a tener yo tambi姻n unas pocas, Kujikawa?
 
 [msg MSG_026 [Ann]]
-夷No has tenido ya algo?
+斡夷No has comido ya?!
 
 [msg MSG_027 [Theodore]]
-Necesitar姻 restaurar los ingredientes en[n]alg雨n momento...
+Necesitar姻 reponer los ingredientes en alg雨n momento.
 
 [msg MSG_028]
-Una nueva proyecci吋n especial:[n]"Theodore's Special Popcorn" se ha[n]a隠adido a la taquilla.
+Una nueva proyecci吋n especial: "Theodore's Special Popcorn" ha sido a隠adida a la taquilla.
 

@@ -1,23 +1,23 @@
 [msg MSG_000 [Rise]]
-El agujero est茨 justo por aqu胤.
+La alcantarilla est茨 justo all胤.
 
 [msg MSG_001 [Yosuke]]
-Eso es genial, pero estoy viendo una[n]tonelada de sombras por delante...
+Genial, pero estoy sintiendo un mont吋n de sombras m茨s adelante...
 
 [msg MSG_002 [Futaba]]
-Siento decirlo, pero es la 雨nica manera[n]de pasar.
+Siento decirlo, pero es el 雨nico camino que tenemos.
 
 [msg MSG_003 [Chie]]
-夷Qu姻 har胤a un ladr吋n fantasma en esta[n]situaci吋n?
+Oh, 夷qu姻 har胤a un Ladr吋n Fantasma en esta situaci吋n?
 
 [sel SEL_004 top]
-Lucha.
-Vamos a entrar.
-夷Todos listos?
+Luchar
+Vamos a entrar
+夷Est茨 todo el mundo listo?
 
 [msg MSG_005 [Morgana]]
-Cautious pero bold... De eso se trata[n]ser un ladr吋n fantasma.
+Cauteloso pero audaz... En eso consiste ser un Ladr吋n Fantasma.
 
 [msg MSG_006 [Ann]]
-斡Podemos hacer esto! 斡Vamos!
+斡Podemos hacerlo! 斡Vamos!
 

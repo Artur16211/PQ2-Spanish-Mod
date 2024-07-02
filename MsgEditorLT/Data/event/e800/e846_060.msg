@@ -1,30 +1,30 @@
 [msg MSG_000 [Fuuka]]
-斡Lo hiciste!
-斡Lo lograste sin que la m雨sica se[n]desvaneciera!
+You did it!
+You made it back without the music[n]fading away!
 
 [msg MSG_001 [Ann]]
-Whew... Lo hicimos, de alguna manera.
+Whew... We did it, somehow.
 
 [msg MSG_002 [Fuuka]]
-S胤. Definitivamente lo cerramos, pero lo[n]que importa es que hayamos terminado.
+Yes. We definitely cut it close, but[n]what matters is that we're done.
 
 [msg MSG_002_1 [Fuuka]]
-斡Te ver姻 en el Cine!
+Okay, I'll see you back in the theater!
 
 [msg MSG_003 [P3 Fem Protag]]
-Vale, ahora todo lo que tenemos que[n]hacer es entregar esto a Elizabeth!
+Okay, now all we gotta do is deliver[n]this to Elizabeth!
 
 [msg MSG_004 [Fuuka]]
-斡Parece que acabaste con unos pasos para[n]ahorrar! Buen trabajo.
-斡Te ver姻 en el Cine!
+Looks like you finished with a few steps[n]to spare! Good job.
+Okay, I'll see you back in the theater!
 
 [msg MSG_005 [P3 Fem Protag]]
-Vale, ahora todo lo que tenemos que[n]hacer es entregar esto a Elizabeth!
+Okay, now all we gotta do is deliver[n]this to Elizabeth!
 
 [msg MSG_006 [Fuuka]]
-斡Terminaste con pasos para ahorrar! Buen[n]trabajo.
-斡Te ver姻 en el Cine!
+You finished with steps to spare! Great[n]work.
+Okay, I'll see you back in the theater!
 
 [msg MSG_007 [P3 Fem Protag]]
-Vale, ahora todo lo que tenemos que[n]hacer es entregar esto a Elizabeth!
+Okay, now all we gotta do is deliver[n]this to Elizabeth!
 

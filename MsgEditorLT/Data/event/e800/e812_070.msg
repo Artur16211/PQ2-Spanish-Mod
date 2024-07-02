@@ -1,50 +1,50 @@
 [msg MSG_000 [Elizabeth]]
-Bien hecho, todos. Recib胤 el Cinnamon[n]Fern que me trajiste.
-Trat姻 de alimentar uno a Theo, pero se[n]quej吋 y dijo cosas como, "Es amargo", y,[n]"A雨n no est茨 maduro"
+Bien hecho. He recibido los Helechos de Canela que me trajeron.
+Intent姻 darle uno a Theo, pero se quej吋 diciendo cosas como, "Est茨 amargo", y "A雨n no est茨 maduro."
 
 [msg MSG_001 [Akechi]]
-Oh... Se comi吋 esto crudo... Debo[n]admitir que siento pena por 姻l.
+O-Oh... Se lo ha comido crudo... Debo admitir que siento l茨stima por 姻l.
 
 [msg MSG_002 [Elizabeth]]
-Para pensar que ten胤amos que secarlo y[n]luego molerlo en un polvo fino...
-Parece que ten胤a la idea equivocada.[n]Whoopsie-daisy.
+Y pensar que ten胤amos que secarlo y luego molerlo hasta convertirlo en un polvo fino...
+Parece que me equivocaba.
 
 [msg MSG_003 [Futaba]]
-夷Eso es todo lo que tienes que decir?
+夷Eso es todo lo que ten胤as que decir...?
 
 [msg MSG_004 [Elizabeth]]
-Ahora bien, una vez que todo el mundo[n]est姻 listo, finalmente podemos empezar a[n]hacer estos "churros"
-Adem茨s, creo que tenemos suficientes[n]ingredientes para empezar a venderlos[n]desde este punto.
+Ahora bien, una vez que todos est姻n listos, podemos finalmente empezar a hacer esos "churros"
+Adem茨s, creo que tenemos suficientes ingredientes para empezar a venderlos de ahora en adelante.
 
 [msg MSG_005 [Ann]]
-斡Eso significa que podremos comerlos[n]cuando queramos! 斡Me alegro de haber[n]hecho todo ese trabajo!
+斡Eso significa que podremos comerlos cuando queramos! 斡Me alegro de que hici姻ramos todo este trabajo!
 
 [sel SEL_006 top]
-Eso es emocionante.
+Es emocionante.
 No comas demasiados.
 
 [msg MSG_007 [Ann]]
-斡S胤! 斡Comamos juntos! Nos ayudar茨 a[n]relajarnos cuando estemos cansados.
+斡S胤! 斡Vamos a comernos algunos juntos! Nos ayudar茨n a relajarnos cuando estemos cansados.
 
 [msg MSG_008 [P3 Fem Protag]]
-Tendremos mucho tiempo para hablar, Theo[n]tendr茨 que trabajar m茨s duro.
+Tenemos mucho tiempo para hablar, Theo necesitar茨 trabajar a雨n m茨s duro.
 
 [msg MSG_009 [Ann]]
-Lo s姻, lo s姻. C吋rtame un poco.
-斡Tendr姻 que luchar tanto como pueda y[n]quemar algunas de esas calor胤as!
+Jaja, lo s姻, lo s姻. Dame un respiro.
+斡Tendr姻 que luchar lo m茨s duro que pueda y quemar estas calor胤as!
 
 [msg MSG_010 [P3 Fem Protag]]
-Hehe, no olvides nuestro tiempo de[n]charla. Theo tendr茨 que trabajar m茨s[n]duro para mantenerse al d胤a.
+Jeje, no te olvides de nuestro tiempo de charlar. Theo tendr茨 que trabajar extra para seguir el ritmo.
 
 [msg MSG_011 [Rise]]
-斡Estoy tan emocionada! 斡Tenemos mucho de[n]qu姻 hablar!
+斡Oh, estoy tan emocionada! 斡Tenemos mucho de qu姻 hablar!
 
 [msg MSG_012 [Ryuji]]
-Amigo, las chicas se vuelven amigas tan[n]r茨pido...
+T胤o, las chicas se hacen amigas tan jodidamente r茨pido...
 
 [msg MSG_013 [Yusuke]]
-A menudo hablan mucho para conocerse. Es[n]una zona en la que nunca pude esperar[n]superarlos.
+Suelen hablar mucho para conocerse. Es un 茨mbito en el que nunca podr胤a superarles.
 
 [msg MSG_014 [P4 Hero]]
-ちゎまょよデ ろよぽよれ めまゆよれ れもぽよ ゅよ れゎみもぼもまょろまゆまょろま[n]ぺみよるろゎょぺぽよれ らぺるぺ るまゎょもるれま ぺりゎウデ ぺれウ りゎま[n]ぽまほまゆよれ めぺぼまる ょゎまれろるよ ゆまゃよる まれみゎまるんよ らぺるぺ[n]みよるろぺゅまぼまる まれろぺれ ょゎまわぺれ ぺゆもれろぺぽまれテ
+Bueno, todos hemos tenido la suerte de encontrarnos aqu胤, as胤 que deber胤amos hacer todo lo posible por fortalecer estas nuevas amistades.
 

@@ -2,83 +2,83 @@
 斡Ch-Chie!
 
 [msg MSG_001 [Chie]]
-Whoa! Me asustaste...
+斡Ay! M-Me has asustado...
 夷Qu姻 pasa?
 
 [msg MSG_002 [Ann]]
-Eh... Esto podr胤a sonar un poco raro,[n]preguntando esto de la nada, pero...
-夷Puedes ense隠arme kung fu?
+Er, um... Esto podr胤a sonar un poco raro, preguntando as胤 de la nada, pero...
+斡夷Me puedes ense隠ar kung-fu?!
 
 [msg MSG_003 [Chie]]
-夷Kung fu? Supongo que podr胤a... 斡Espera!
-Ann, 夷tambi姻n eres un fan茨tico de la[n]pel胤cula kung fu?
-Oh, oh, oh! 夷Cu茨l es tu prueba favorita[n]del Drag吋n? Es dif胤cil de elegir,[n]pero... Creo que el m胤o es el primero.
+夷Kung-fu? Supongo que podr胤a... 斡Espera!
+Ann, 夷tambi姻n eres fan de las pel胤culas de kung-fu?
+斡Oh, oh, oh! 夷Cu茨l es tu "Trial of the Dragon" favorita? Es dif胤cil de elegir, pero... creo que la m胤a es la primera.
 
 [msg MSG_004 [Ann]]
-夷Trial del Drag吋n? Lo siento, realmente[n]no s姻 qu姻 es eso.
-Te estaba viendo pelear, y pens姻 que te[n]ve胤as muy bien...
+... 夷"Trial of the Dragon? Perd吋n, realmente no s姻 qu姻 es eso
+Te estaba viendo luchar y pensaba que te ve胤as muy guay...
 
 [msg MSG_005 [Chie]]
-夷C-cool? 夷Yo?
-斡De ninguna manera! Eres m茨s genial que[n]yo, Ann. 夷C吋mo consigo un cuerpo como el[n]tuyo? 夷Es tu dieta?
-夷Come carne? Por favor dime que comes[n]carne y no s吋lo un mont吋n de hojas...
+斡夷G-Guay?! 斡夷Yo?!
+斡No puede ser! T雨 eres mucho m茨s guay que yo, Ann. 夷C吋mo puedo tener un cuerpo como el tuyo? 夷Es tu dieta?
+夷Comes carne? Por favor, dime que comes carne y no solo un mont吋n de hojas...
 
 [msg MSG_006 [Ann]]
-夷Se va?
-Bueno, supongo que la dieta es[n]importante, pero tambi姻n me gustan las[n]cosas con crema batida...
+夷Hojas...?
+Supongo que la dieta es importante, pero tambi姻n me gustan mucho las cosas con nata montada...
 
 [msg MSG_007 [Chie]]
-夷Entonces trabajas?
-斡Lo entiendo! S胤, Fantasma. 斡Los[n]ladrones siempre andan como locos!
+夷Entonces, haces deporte?
+斡Oh, ya lo entiendo! 斡Claro, los Ladrones Fantasma siempre est茨is volando como locos!
 
 [msg MSG_008 [Ann]]
-S胤, es verdad. Supongo que me desgasto[n]bastante de eso...
+S胤, es verdad. Supongo que eso me agota bastante...
 
 [msg MSG_009 [Chie]]
 斡Lo sab胤a!
-Vale, 夷qu姻 tal si me ense隠as a moverme[n]como t雨?
+Okay, 夷por qu姻 no me ense隠as a moverme como t雨?
 
 [msg MSG_010 [Ann]]
-夷Eh?
+斡夷Qu姻!?
 
 [msg MSG_011 [Chie]]
-Y, a cambio, te ense隠ar姻 kung fu.
-As胤, ambos aprenderemos los secretos del[n]otro a ser geniales. 夷Qu姻 piensas?
+Y, a cambio, yo te ense隠ar姻 kung-fu.
+De ese modo, ambas aprenderemos los secretos de la otra para ser guay. 夷Qu姻 piensas?
 
 [sel SEL_012 top]
-Suena divertido.
+Parece divertido.
 Es un trato.
 
 [msg MSG_013 [Chie]]
-- 夷kun? 夷Cu茨ndo llegaste aqu胤?
+斡夷Eh?! 斡夷Cu茨ndo has llegado?!
 
 [msg MSG_014 [Ann]]
-Ha estado aqu胤 todo el tiempo...
-De todos modos, si eso es todo lo que[n]quieres saber, entonces estar胤a feliz de[n]ense隠arte!
+Umm, ha estado aqu胤 todo el tiempo.
+De todas formas, si eso es todo lo que quieres saber, 斡estar姻 encantada de ense隠arte!
 
 [msg MSG_015 [Chie]]
-Ooh, eso suena tan fantasma ladr吋n-y...[n]Tan guay...
+Oh, eso suena muy ladr吋n fantasmal... Que guay...
 
 [msg MSG_016 [Ann]]
-Hehe. Parece que ambos estamos[n]recibiendo lo que queremos.
-Si eso es todo lo que quieres saber,[n]entonces estar胤a feliz de ense隠arte!
+Jeje. Parece que ambas estamos consiguiendo lo que queremos.
+Si eso es todo lo que quieres saber, 斡estar姻 encantada de ense隠arte!
 
 [msg MSG_017 [Chie]]
-Muy bien, a cambio de que te ense隠e kung[n]fu...
+De acuerdo, entonces a cambio de que te ense隠e kung-fu...
 
 [msg MSG_018 [Ann]]
-Te ense隠ar姻 a moverse como un ladr吋n[n]fantasma. 斡Es un trato!
+Te ense隠ar姻 a moverte como un Ladr吋n Fantasma. 斡Es un trato!
 
 [msg MSG_019 [Chie]]
-Vale, 夷d吋nde deber胤amos practicar? La[n]雨nica manera real de aprender esto es[n]salir y hacerlo...
+Okay, 夷d吋nde deber胤amos practicar? La 雨nica forma de aprender es salir fuera y practicar...
 
 [msg MSG_020 [Yosuke]]
-Heyyy! Elizabeth dice que tiene una[n]nueva proyecci吋n especial.
+斡Eyyy! Elizabeth dice que tiene una nueva proyecci吋n especial.
 
 [msg MSG_021 [Chie]]
-斡Lo tengo! 斡Ya vamos!
-Podemos averiguar el resto m茨s tarde,[n]夷de acuerdo?
+斡Lo tengo! 斡Vamos para all茨!
+Podemos planear lo que queda despu姻s, 夷vale?
 
 [msg MSG_022]
-Una nueva proyecci吋n especial: "斡Kung Fu[n]Catwalk!" se ha a隠adido a la taquilla.
+Una nueva proyecci吋n especial: "Kung Fu Catwalk!" ha sido a隠adida a la taquilla.
 

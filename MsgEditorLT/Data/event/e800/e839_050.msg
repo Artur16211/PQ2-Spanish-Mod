@@ -1,19 +1,19 @@
 [msg MSG_000 [Ryuji]]
-Una casa en un callej吋n sin salida...[n]Bueno, esto parece prometedor.
+A house on a dead end... Well, this[n]looks promising.
 
 [msg MSG_001 [Hikari]]
-S胤, esto tiene que ser. Siento algo[n]dentro de la casa.
-... 斡Est茨 aqu胤! 斡El precioso art胤culo[n]que olvid姻!
+Yeah, this has to be it. I sense[n]something inside the house.
+...It's here! The precious item I[n]forgot!
 
 [msg MSG_002 [Futaba]]
-Cuidado, has atra胤do la atenci吋n de[n]algunas Sombras! 斡No van a dejar que[n]pases m茨s all茨!
+Careful, you've attracted the attention[n]of some Shadows! They're not about to[n]just let you walk on past!
 
 [msg MSG_003 [Yosuke]]
-Oye, sin piel de la nariz. 斡D姻mosles por[n]lo que vinieron!
+Hey, no skin off our nose. Let's give[n]'em what they came for!
 
 [msg MSG_004 [Junpei]]
-S吋lo mira, Hikari. 斡El famoso atacante[n]de limpieza de Ladrones Fantasma Junpei[n]Iori est茨 a punto de batear!
+Just watch, Hikari-chan. The Phantom[n]Thieves' famed cleanup hitter Junpei[n]Iori is up to bat!
 
 [msg MSG_005 [Ryuji]]
-斡Miren vivos, chicos! 斡Lo que sea que[n]Hikari haya perdido, la vamos a llevar a[n]casa con ella, sano y salvo!
+Look alive, guys! Whatever Hikari's[n]lost, we're getting it home to her, safe[n]and sound!
 

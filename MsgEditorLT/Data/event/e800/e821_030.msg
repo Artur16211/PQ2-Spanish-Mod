@@ -1,153 +1,153 @@
 [msg MSG_000 [Rise]]
-斡Aqu胤 estamos! 夷Ves? Hay mucho, 夷verdad?
+Here we are! See? There's a lot, right?
 
 [msg MSG_001 [Yusuke]]
-S胤... 斡Podemos comer esto! Este...[n]斡Ese...! 斡Ja, ja, ja! 斡Es una mina de[n]oro!
+Yes... We can eat these! This one...[n]That one...! Hahahaha! It's a gold mine!
 
 [msg MSG_002 [Chie]]
-Por favor... Es s吋lo un pasto...
+Oh, please... It's just a buncha[n]grass...
 
 [msg MSG_003 [Ann]]
-Bueno, lo que sea, vamos a reunir lo que[n]podamos. Estoy seguro de que Fox nos[n]dir茨 si es bueno o no.
+Well, whatever, let's gather what we[n]can. I'm sure Fox'll tell us if it's[n]good or not.
 
 [msg MSG_004]
-Decidimos reunir algunas plantas[n]silvestres comestibles...
+We decided to gather some edible wild[n]plants...
 
 [msg MSG_005 [Futaba]]
-Un mont吋n de persas recolectando plantas[n]silvestres... No lo ves todos los d胤as.
+A bunch of Persona-users collecting wild[n]plants... You don't see that every day.
 
 [msg MSG_006 [Junpei]]
-Ughhh... Me duele la espalda. Voy a[n]tomar un descanso...
+Ughhh... My back's startin' to hurt. I'm[n]gonna take a break...
 
 [msg MSG_007 [Futaba]]
-Vamos, Junpei. 夷Ya te vas? Noob.
+C'mon, Junpei. Giving up already? You[n]noob.
 
 [msg MSG_008 [Junpei]]
-斡De ninguna manera! 斡Estoy empezando!
-Carga de energ胤a completa, y... 斡Es hora[n]de Junpei, el Superdetective!
-斡Aqu胤 vamos! 斡Cuchillas dobles, nena![n]斡Guau!
+No way! I'm just gettin' started!
+Energy charge complete, aaand... it's[n]time for Junpei, Ace Collective!
+Here we go! Double blades, baby![n]Woooooo!
 
 [msg MSG_009 [Yukari]]
-斡Idiota! 斡Me lo est茨s superando!
+You idiot! You're getting it all over[n]me!
 
 [msg MSG_010 [Haru]]
-Fox, 夷qu姻 hay de este?
+Fox, what about this one?
 
 [msg MSG_011 [Yusuke]]
-Esta es buena. Un poco de sal despu姻s de[n]que est姻 frita, y debe saborear muy[n]bien.
-Este es un poco amargo, pero si podemos[n]prepararlo lo suficiente...
+This one's good. A little bit of salt[n]after it's fried, and it should taste[n]great.
+This one's a bit bitter, but if we can[n]prepare it well enough...
 
 [msg MSG_012 [Shinjiro]]
-Eh... Conoces tus cosas. 夷Por qu姻?
+Huh... You know your stuff. Why is that?
 
 [msg MSG_013 [Yusuke]]
-夷Te refieres a mi conocimiento de[n]plantas silvestres?
+Are you referring to my knowledge of[n]wild plants?
 
 [sel SEL_014 top]
-Le gustan mucho.
-Es porque es pobre.
-Es un raro.
+He really likes them.
+It's because he's poor.
+He's just a weirdo.
 
 [msg MSG_015 [Yusuke]]
-ちゎまょよデ ゆま むゎれろぺょ ゅぺれ らゅぺょろぺれ れもゅわまれろるまれテ ひまる[n]ぼぺらぺん ぽま れよほるまわもわもる れよゅよ ぽま ゅぺれ ほまょぽもぼもよょまれ ぽま[n]ゅぺ ょぺろゎるぺゅまんぺ まれ ゎょぺ ぼよれぺ わまるぽぺぽまるぺゆまょろま[n]ゆぺるぺわもゅゅよれぺテ
-Pero, sinceramente, hay otra raz吋n...
+Well, I like wild plants. To be able to[n]survive off nature's blessings alone is[n]a truly wonderful thing.
+But, truthfully, there is another[n]reason...
 
 [msg MSG_016 [Yusuke]]
-斡Exactamente! 斡Y, como pobre hombre, es[n]una excelente manera de ahorrar dinero!
+Exactly! And, as a poor man, this is an[n]excellent way to save money!
 
 [msg MSG_017 [Yusuke]]
-夷Un bicho raro?
+A weirdo!?
 
 [msg MSG_018 [Yusuke]]
-La naturaleza es comida para m胤...[n]Plantas silvestres incluidas. Tuve que[n]aprender esto para seguir vivo.
+Nature is food to me... Wild plants[n]included. I had to learn this to stay[n]alive.
 
 [msg MSG_019 [Akihiko]]
-Es casi como si estuvieras entrenando.[n]Sin embargo, no parece que lo est姻s[n]haciendo voluntariamente.
+It's almost like you're training. Still,[n]it doesn't exactly seem like you're[n]doing it willingly.
 
 [msg MSG_020 [Yusuke]]
-ぢもまるろよテ はゎまぽま りゎま れまぺ ゅよ れゎみもぼもまょろまゆまょろま[n]ぺみよるろゎょぺぽよ らぺるぺ もる ぺ ゅぺ まれぼゎまゅぺデ らまるよ ょよ[n]ょまぼまれぺるもぺゆまょろま ろまょむよ まゅ ぽもょまるよ らぺるぺ わもわもる ぼよゆよ[n]りゎもまるぺテ
-Tampoco tengo una familia de apoyo.
+Right. I may be fortunate enough to go[n]to school, but I don't necessarily have[n]the money to live as I please.
+Nor do I have a family for support.
 
 [msg MSG_021 [Shinjiro]]
-...
+......
 
 [msg MSG_022 [Yusuke]]
-ひも わよを ぺ れまむゎもる ほゎれぼぺょぽよ ほまゅゅまんぺデ ょまぼまれもろよ[n]ぽもょまるよテ によれ れゎゆもょもれろるよれ ぽま ぺるろま まれろァょ ゅまゃよれ ぽま[n]れまる ほぺるぺろよれデ らまるよ ょよ らゎまぽよ めぺぼまる ょもょむグょ[n]ぼよゆらるよゆもれよテ
-Dicho esto, no puedo crear nada si estoy[n]muerto. Es esta lucha la que me[n]alimenta.
-Me esfuerzo por insertar cada parte de[n]mi ser en mi arte... Es lo que me ha[n]mantenido yendo todo este tiempo.
+If I'm to keep pursuing beauty, I need[n]money. Art supplies are far from cheap,[n]but I can't make any compromises.
+That said, I can't create anything if[n]I'm dead. It is this struggle that fuels[n]me.
+I strive to insert every part of my[n]being into my art... It's what's kept me[n]going all this time.
 
 [msg MSG_023 [Akihiko]]
-Esa es una forma bastante est吋tica de[n]pensar... Pero me gusta.
+That's a pretty stoic way of thinking...[n]But I like it.
 
 [msg MSG_024 [Yusuke]]
-斡S胤, me entiendes, Sanada!
+Yes, you understand me, Sanada-san!
 
 [msg MSG_025 [Akihiko]]
-S胤. S姻 la sensaci吋n de hacer sacrificios[n]para conseguir lo que realmente quieres.
-Si significa fortalecerme... entonces[n]estoy m茨s que dispuesto a arriesgar mi[n]vida.
+Yeah. I know the feeling of making[n]sacrifices to get what you truly want.
+If it means getting stronger... then I'm[n]more than willing to risk my life.
 
 [msg MSG_026 [Shinjiro]]
-...
-Maldita sea... Para pensar que hay otro[n]tonto torpe aqu胤.
-Bien, al diablo. Les dejar姻 comer todo[n]lo que quieran. Ve a buscar m茨s[n]ingredientes.
+......
+Damn... To think there's another clumsy[n]dumbass here.
+Okay, screw it. I'll let you guys eat[n]all you want. Just go get some more[n]ingredients.
 
 [msg MSG_027 [P4 Hero]]
-Hemos recogido muchas plantas[n]silvestres. Esto deber胤a ser suficiente.
+We've gathered up a lot of wild plants.[n]This should be enough.
 
 [msg MSG_028 [Akihiko]]
-... No, a雨n no.
-斡No hay suficiente prote胤na! 斡No[n]construiremos ning雨n m雨sculo de esto!
+...No, not yet.
+There isn't enough protein! We won't[n]build any muscle from this!
 
 [msg MSG_029 [Junpei]]
-夷Qu姻? 夷De verdad te vas a preocupar por[n]eso?
+Whaaa―!? You're really gonna worry about[n]that!?
 
 [msg MSG_030 [Akechi]]
-つれろよを ぽま ぺぼゎまるぽよ まょ りゎま ゅぺれ らゅぺょろぺれ らよぽるウぺょ ょよ[n]れまる れゎみもぼもまょろまれテ エばゎもんァれ れも ろゎわもイるぺゆよれ ぺゅむグょ[n]ろもらよ ぽま ぼぺるょま よ らまれぼぺぽよ?
+I do agree that plants might not be[n]enough. Perhaps if we had some type of[n]meat or fish?
 
 [sel SEL_031 top]
-Definitivamente carne.
-Hagamos pescado.
-夷Polvillo de prote胤nas?
+Definitely meat.
+Let's do fish.
+Protein powder?
 
 [msg MSG_032 [Chie]]
-斡Yo tambi姻n! 斡Carne, carne, carne!
+Oh, me too! Meat, meat, meat!
 
 [msg MSG_033 [Makoto]]
-Pero todos estamos listos para usar toda[n]la carne congelada en los[n]contenedores...
+But we all ready used up all the frozen[n]meat in the containers...
 
 [msg MSG_034 [Akihiko]]
-Hmph, hay carne vagando por todo este[n]lugar. 夷Quieres que vaya a buscarnos?
+Hmph, there's meat roaming around all[n]over this place. Want me to go get us[n]some?
 
 [msg MSG_035 [Shinjiro]]
-No seas est雨pido. No vas a huir solo de[n]nuevo, 夷verdad?
+Don't be stupid. You're not gonna run[n]off by yourself again, are you?
 
 [msg MSG_036 [Morgana]]
-斡Pez! 斡Eso suena genial!
-斡Heheh! 斡Por fin voy a comer sushi!
+Fish! That sounds great!
+Heheh! I'll finally get to eat some[n]sushi!
 
 [msg MSG_037 [Makoto]]
-夷Qu姻? 夷Sushi prehist吋rico? Siento que[n]tomar胤a algo serio para comer ese tipo[n]de pescado crudo...
+What? Prehistoric sushi!? I feel like[n]it'd take some serious guts to eat that[n]kind of fish raw...
 
 [msg MSG_038 [Shinjiro]]
-Lo siento, pero no puedo hacer sushi. Lo[n]mejor que puedo hacer es cocinar el[n]pescado.
+Sorry, but I can't make sushi. The best[n]I can do is cook the fish.
 
 [msg MSG_039 [Akihiko]]
-Supongo que funcionar茨. Definitivamente[n]proporcionar茨 prote胤nas.
+I suppose that'll work. It'll definitely[n]provide protein.
 
 [msg MSG_040 [Shinjiro]]
-Diablos no. Ve a buscar comida de[n]verdad.
+Hell no. Go get some real food.
 
 [msg MSG_041 [Yusuke]]
-斡Mi visi吋n est茨 borrosa! No creo que[n]pueda continuar...
+Ngh... My vision is blurring...! I don't[n]think I can go on...
 
 [msg MSG_042 [Shinjiro]]
-Mira, este tipo va a morir de hambre si[n]no hacemos algo r茨pido.
-Fish es probablemente nuestra mejor[n]apuesta. Seguro que habr茨 alg雨n r胤o o[n]algo as胤 por aqu胤.
+Look, this guy's gonna die from hunger[n]if we don't do somethin' fast.
+Fish is probably our best bet. Pretty[n]sure there'd be some kinda river or[n]something like that around here.
 
 [msg MSG_043 [Fuuka]]
-Ahora que lo mencionas, recuerdo haber[n]visto lo que parec胤a un estanque antes.
-Est茨 en la esquina noreste de este piso.[n]夷Tal vez deber胤as echar un vistazo?
+Now that you mention it, I do remember[n]seeing what looked like a pond earlier.
+It's at the northeastern corner of this[n]floor. Perhaps you should take a look?
 
 [msg MSG_044 [Morgana]]
-斡Est茨 bien, vamos a pescar pescado![n]斡Vamos antes de que Fox se desmaye!
+Okay, we're off to catch some fish![n]Let's go before Fox faints!
 

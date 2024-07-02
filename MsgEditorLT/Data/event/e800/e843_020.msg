@@ -1,29 +1,29 @@
 [msg MSG_000 [Ann]]
-夷Qu姻 es eso?
+Whoa, what's that!?
 
 [msg MSG_001 [Yusuke]]
-斡Silencio! Algo est茨 pasando.
+Shh, quiet! Something's happening.
 
-[msg MSG_002 [Voz Sonora]]
-Hola, y bienvenido.
-Hoy tengo un poco de diversi吋n preparada[n]para ti.
-Eso dijo, no es nada dif胤cil. Las reglas[n]son muy simples.
-Adelante, ver茨s dos se隠ales. Cada uno[n]tiene una pregunta impresa en ellos.
-Por favor responda a las preguntas,[n]luego proceda de acuerdo con sus[n]respuestas.
-*chuckle* Me pregunto qu姻 pensar茨s, una[n]vez que veas d吋nde te guiar茨n tus[n]respuestas?
+[msg MSG_002 [Sonorous voice]]
+Hmhm... Hello, and welcome.
+Today, I have a little diversion[n]prepared for you.
+That said, it's nothing too difficult.[n]The rules are quite simple.
+Up ahead, you will see two signs. Each[n]has a question printed on them.
+Please answer the questions, then[n]proceed in accordance with your answers.
+*chuckle* I wonder what you will think,[n]once you see where your answers will[n]lead you?
 
 [msg MSG_003 [Ken]]
-夷Se ha ido?
+Is it gone...?
 
 [msg MSG_004 [Ryuji]]
-夷Qui姻n era? 夷Un enemigo?
+Who was that? An enemy?
 
 [msg MSG_005 [Fuuka]]
-No sent胤 ninguna hostilidad de ellos...[n]Parec胤a que s吋lo estaban explicando las[n]reglas.
+Hm. I didn't sense any hostility from[n]them... It seemed like they were just[n]explaining the rules.
 
 [msg MSG_006 [Akihiko]]
-エつょろよょぼまれ ろよぽよ ゅよ りゎま ろまょまゆよれ りゎま めぺぼまる まれ[n]るまれらよょぽまる らるまむゎょろぺれ れよほるま れもむょよれ? びまょぽるまゆよれ[n]りゎま わまる ゅぺれ らるまむゎょろぺれ らるもゆまるよテテテ
+So all we have to do is answer questions[n]on signs? We'll have to see the[n]questions first...
 
 [msg MSG_007 [Morgana]]
-De acuerdo, el primer orden de negocio[n]es encontrar esos signos. Vamos, Joker.
+All right, first order of business is to[n]find those signs. Let's go, Joker.
 

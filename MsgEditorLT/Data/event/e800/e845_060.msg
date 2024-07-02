@@ -1,21 +1,21 @@
 [msg MSG_000 [Teddie]]
-斡Hurra! 斡Lo hicimos!
+Hooray! We did it!
 
 [msg MSG_001 [Aigis]]
-Felicitaciones, Teddie.
+Congratulations, Teddie-san.
 
 [msg MSG_001_1 [Aigis]]
-Ustedes han vencido a todos los osos[n]menores, y leg胤timamente han reclamado[n]el t胤tulo de "los mejores de todos"
+You have vanquished all lesser bears,[n]and rightfully claimed the title of[n]"bearest of them all."
 
 [msg MSG_002 [Teddie]]
-Gracias. 斡Ai! 斡No podr胤a haberlo hecho[n]sin la ayuda de todos!
+Thank you, Ai-chan! I couldn't have done[n]it without everyone's help!
 
 [msg MSG_003 [P4 Hero]]
-Fue una buena batalla. Eso tambi姻n[n]termina la misi吋n.
+It was a good battle. That finishes the[n]mission, too.
 
 [msg MSG_004 [Teddie]]
-斡Maestro, lo hice! No puedo dejar que[n]nadie me vea llorar ahora que soy una[n]leyenda del oso...
+Sensei, I did it! Aw, I can't let anyone[n]see me cry now that I'm a bear legend...
 
 [msg MSG_005 [Rise]]
-Hahahaha... Lo hiciste genial, Teddie.[n]斡Ahora puedes volver a casa!
+Hahaha... You did great, Teddie. You can[n]come home now!
 

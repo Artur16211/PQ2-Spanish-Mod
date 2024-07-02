@@ -1,109 +1,109 @@
 [msg MSG_000 [Kanji]]
-Este es el lugar.
+Este es el sitio.
 
 [msg MSG_001 [Yosuke]]
-Pero no podemos empezar a pescar sin[n]cebo.
+Pero no podemos empezar a pescar sin ning雨n cebo.
 
 [msg MSG_002 [Haru]]
 Necesitaremos algunos bichos.
-Estoy seguro de que encontraremos m茨s[n]que suficiente si miramos entre las[n]hojas. Vamos a ver.
+Seguro que encontraremos m茨s que suficiente si buscamos entre las hojas. Vamos a ver.
 
 [msg MSG_003 [Rise]]
-斡Esto es! 斡Puedo sentirlos!
+斡Eso es! 斡Puedo sentirlos!
 
 [msg MSG_004 [Kanji]]
-Bueno, tenemos nuestro cebo.[n]斡Encontremos ese pez!
-斡Lo tienes, Senpai!
+Bien, tenemos nuestro cebo. 斡Vamos a encontrar a ese pez!
+斡T雨 puedes, Senpai!
 
 [msg MSG_005 [Ryuji]]
-Bet Joker lo atrapa primero!
+斡Apuesto a que Joker lo pesca primero!
 
 [msg MSG_006 [Kanji]]
-夷Qu姻 es eso?
+斡夷Qu姻 es eso?!
 
 [msg MSG_007 [Ryuji]]
-Bien, entonces, 斡es un duelo![n]斡Mu姻strales lo que tienes, Joker!
+Bueno, entonces, 斡esto es un duelo! 斡Mu姻strales lo que tienes, Joker!
 
 [sel SEL_008 top]
 D姻jamelo a m胤.
-Es hora de terminar lo que empezamos.
-No me arrastres en esto.
+Hora de acabar lo que empezamos.
+No me metas en esto.
 
 [msg MSG_009 [P4 Hero]]
 Hm. Hag茨moslo.
 
 [msg MSG_010 [P4 Hero]]
-C'mon, ser茨 divertido.
+Vamos, ser茨 divertido.
 
 [msg MSG_011 [Teddie]]
-斡Puedes hacerlo, Maestro!
+斡Puedes hacerlo, Sensei!
 
 [msg MSG_012 [Yusuke]]
-斡Vamos, Joker! 斡Mu姻stranos tu[n]brillantez!
+斡Vamos, Joker! 斡Mu姻stranos tu brillo!
 
 [msg MSG_013 [Makoto]]
-Sab胤a que esto pasar胤a.
+Sab胤a que esto ocurrir胤a.
 
 [msg MSG_014 [Yosuke]]
-Muy bien. Listo... 斡Vamos!
+De acuerdo. Listos... 斡Adelante!
 
 [msg MSG_015 [P4 Hero]]
-Hm!
+斡Hm!
 
 [msg MSG_016 [Ryuji]]
-Supongo que tendremos que esperar.[n]Normalmente toma un tiempo desde este[n]punto...
+Supongo que tendremos que esperar. Normalmente tarda un ratillo...
 
 [msg MSG_017 [P4 Hero]]
-... 斡Tengo un mordisco!
+...斡Ha picado!
 
 [msg MSG_018 [Ryuji]]
-夷Est茨s bromeando?
+斡夷Me est茨s jodiendo!?
 
 [msg MSG_019 [Morgana]]
-La forma en que la l胤nea est茨 tirando,[n]va a ser grande!
+Por la forma en la que est茨 tirando de la ca隠a, 斡seguro que ser茨 gigante!
 
 [msg MSG_020 [P4 Hero]]
-Ugh... Esta cosa est茨 a punto de[n]derribarme con ella...
+Ugh... Esta cosa me va a llevar con 姻l...
 
 [sel SEL_021 top]
-Tengo tu espalda.
-Lo haremos juntos.
+Te cubro las espaldas.
+Lo haremos mejor juntos.
 
 [msg MSG_022 [P4 Hero]]
-Joker... 斡Correcto!
-夷Listo? Uno... dos...
+Joker... 斡Muy bien!
+夷Preparado? Uno... Dos...
 
 [sel SEL_023 top]
-斡Tres!!
-斡Te tengo!!
+斡Tres!
+斡Te tengo!
 
 [msg MSG_024 [Kanji]]
-Whoa! Eso es enorme...
+斡Whoa! Es enorme...
 
 [msg MSG_025 [Makoto]]
-A juzgar por el tama隠o, estoy seguro de[n]que este es el pez que estamos buscando.
+Juzgando por su tama隠o, parece que es el pez que busc茨bamos.
 
 [msg MSG_026 [P4 Hero]]
-Whew... Gracias. Se supon胤a que era un[n]duelo, pero a雨n me ayudaste.
+Whew... Gracias. Se supon胤a que era un duelo, pero aun as胤 te has preocupado en ayudarme.
 
 [sel SEL_027 top]
-Hice lo que cualquier l胤der har胤a.
+He hecho lo que har胤a cualquier l胤der.
 Somos un equipo.
 
 [msg MSG_028 [P4 Hero]]
 Nuestro l胤der...
-Tienes raz吋n. Habr胤a hecho lo mismo.
+Tienes raz吋n. Yo habr胤a hecho lo mismo.
 
 [msg MSG_029 [P4 Hero]]
-Un equipo... 斡S胤, tienes raz吋n!
+Un equipo... S胤, 斡tienes raz吋n!
 
 [msg MSG_030 [Futaba]]
-Hab胤a como, un choque de poderes, y una[n]cosa de fusi吋n que era tan intensa!
+斡Ha habido como un choque de poderes y una fusi吋n muy intensa!
 
 [msg MSG_031 [Haru]]
-Ustedes dos pudieron pescar el pescado[n]porque trabajaron juntos.
+Los dos pudieron capturar al pez porque trabajaron juntos.
 
 [msg MSG_032 [Yusuke]]
-S胤, fue toda la batalla.
-Bueno, ahora dir胤a que hemos terminado[n]aqu胤. Volvamos.
+S胤, fue toda una batalla.
+Bueno, ahora, dir胤a que ya hemos acabado. Regresemos...
 

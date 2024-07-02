@@ -1,33 +1,33 @@
 [msg MSG_000 [P4 Protag]]
-Great! 斡Lo hicimos!
+Great! We did it!
 
 [msg MSG_001 [Yosuke]]
-斡Buen trabajo, compa隠ero! 斡Por eso eres[n]la estrella del Equipo de Investigaci吋n!
+Nice job, partner! That's why you're the[n]star of the Investigation Team!
 
 [msg MSG_002 [Makoto]]
-Eso fue impresionante, [f 6 1 12 0 0 0]. Te[n]quedaste tranquilo durante toda esa[n]batalla.
+That was impressive, [f 6 1 12 0 0 0]-kun. You[n]stayed calm throughout that entire[n]battle.
 
 [msg MSG_003 [P4 Hero]]
-No, eso fue s吋lo porque ten胤a a todos[n]apoy茨ndome. Espero poder seguir contando[n]contigo.
+No, that was only because I had everyone[n]backing me up. I hope I can keep[n]counting on you.
 
 [msg MSG_003_1 [P4 Hero]]
-Huh? 夷Qu姻 es esto?
+Huh? What's this...?
 
 [msg MSG_004]
-Hay algo en el suelo...
+There's something on the ground...
 
 [msg MSG_005 [Morgana]]
-斡Es otra pel胤cula!
+Ooh, it's another piece of film!
 
 [msg MSG_006 [P4 Hero]]
-Como predijo Elizabeth, 夷eh?
+Just like Elizabeth predicted, huh?
 
 [msg MSG_006_1 [P4 Hero]]
-Aqu胤, creo que deber胤as aferrarte a 姻l.[n]Vamos a mostrarle lo que encontramos.
+Here, I think you should hold on to it.[n]Let's go show her what we found.
 
 [msg MSG_007]
-斡Obtenido Sooty Film!
+Obtained Sooty Film!
 
 [msg MSG_008 [Futaba]]
-Buen trabajo derribando ese. 斡Ahora todo[n]lo que tenemos que hacer es reportar!
+Nice job taking that one down. Now all[n]we gotta do is report in!
 

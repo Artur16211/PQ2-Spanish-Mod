@@ -1,40 +1,40 @@
 [msg MSG_000 [Elizabeth]]
-Buen trabajo. 斡Has salido victorioso de[n]una lucha m茨s viciosa! S吋lo puedo darte[n]una ovaci吋n de pie.
-Y como lo hab胤a predicho, has adquirido[n]otra pel胤cula.
+Fine work. You've emerged victorious[n]from a most vicious fight! I can only[n]give you a standing ovation.
+And just as I had predicted, you've[n]acquired another piece of film.
 
 [msg MSG_001 [P4 Hero]]
-Pero definitivamente se ven mejores[n]d胤as.
+But it's definitely seen better days.
 
 [msg MSG_001_1 [P4 Hero]]
-Si es como el otro, entonces tenemos que[n]mostrar nuestro poder para activarlo,[n]夷verdad?
+If it's just like the other one, then we[n]just have to display our power to[n]activate it, right?
 
 [msg MSG_002 [Makoto]]
-夷Eso significa que estaremos luchando[n]contra Theodore otra vez?
+Does that mean we'll be fighting[n]Theodore again...?
 
 [sel SEL_003 top]
-Tr茨elo.
-Tengo que presumir...
+Bring it on.
+Gotta brace myself...
 
 [msg MSG_004 [Elizabeth]]
-Hmhm... Hablas como un verdadero p胤caro[n]fogoso.
+Hmhm... Spoken like a truly hotblooded[n]rapscallion.
 
 [msg MSG_004_1 [Elizabeth]]
-Por todos los medios... o as胤 dir胤a,[n]pero las reglas deben ser observadas.
+By all means... or so I would say, but[n]the rules must be observed.
 
 [msg MSG_005 [Elizabeth]]
-No es necesario estar tan ansioso.
-Despu姻s de todo, hay reglas que deben[n]ser observadas. Mientras tanto, puede[n]prepararse mental y f胤sicamente.
+My, there's no need to be so anxious.
+After all, there are rules that must be[n]observed. In the meantime, you may[n]prepare mentally and physically.
 
 [msg MSG_006 [Elizabeth]]
-Todo eso aparte, has satisfecho la[n]solicitud. La Sombra est茨 muerta.
+All that aside, you have satisfied the[n]request. The Shadow is slain.
 
 [msg MSG_006_1 [Elizabeth]]
-Y as胤 se le debe una recompensa[n]apropiada. nos dio un buen rendimiento.
-Una vez que est姻 completamente preparado[n]para mostrar su poder, venga a hablarme[n]de nuevo, como antes.
+And so you are owed an appropriate[n]reward. [f 6 1 13 0 0 0] gave us a fine[n]performance indeed.
+Once you are fully prepared to display[n]your power, come speak to me again, just[n]like before.
 
 [msg MSG_007 [Morgana]]
-No se sabe a qui姻n vamos a enfrentar[n]esta vez. Quien sea, no ser茨 f茨cil.
+There's no telling who we'll be up[n]against this time. Whoever it is, it[n]won't be easy.
 
 [msg MSG_007_1 [Morgana]]
-Tomaremos su reto cuando nos hayamos[n]preparado. Ser茨 una pelea seria, seguro.
+We'll take her challenge once we've[n]gotten ourselves ready. It'll be a[n]serious fight, that's for sure.
 

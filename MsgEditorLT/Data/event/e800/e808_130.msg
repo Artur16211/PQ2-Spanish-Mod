@@ -1,29 +1,29 @@
 [msg MSG_000 [Futaba]]
-Ohh. Ah胤 est茨 la terminal.
-Dame un segundo. Veamos si puedo[n]conseguir lo que necesitamos.
+Ohh. Aqu胤 est茨 la terminal.
+Dadme un segundo. Voy a ver si podemos conseguir lo que necesitamos.
 
 [msg MSG_001 [Naoto]]
-Muy bien. Supongo que podemos tomar un[n]descanso, entonces.
+Muy bien, supongo que podemos descansar entonces.
 
 [msg MSG_002 [Futaba]]
 Hecho.
 
 [msg MSG_003 [Naoto]]
-夷Eh? 夷Ya?
+斡夷Eh?! 夷Ya?
 
 [msg MSG_004 [Futaba]]
-Hehehehe. Un pastel. Todo lo que hice[n]fue echar un vistazo.
+Jejeje. Pan comido. Lo 雨nico que hice fue echarle un vistazo.
 
 [msg MSG_005 [Futaba]]
-Joker, te dir姻 d吋nde est茨n los autos.[n]Marcarlos en tu mapa.
+Joker, voy a decirte d吋nde est茨n los coches. Se隠茨lalos en tu mapa.
 
 [msg MSG_006]
-Los lugares de los coches de polic胤a se[n]han a隠adido al mapa.
+Las localizaciones de los coches de polic胤a han sido a隠adidas al mapa.
 
 [msg MSG_007 [Naoto]]
-Esto har茨 las cosas un poco m茨s f茨cil.
-Los oficiales deben estar en sus coches.[n]Vamos en camino.
+Esto har茨 las cosas un poco m茨s f茨ciles.
+Los polic胤as deber胤an estar en sus coches. Sigamos nuestro camino.
 
 [msg MSG_008 [Futaba]]
-Parece que ya no necesitamos esto. Ya[n]sabemos d吋nde est茨n los coches.
+Parece que ya no lo necesitamos. Ya sabemos d吋nde est茨n los coches.
 

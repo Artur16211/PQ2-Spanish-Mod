@@ -1,34 +1,34 @@
 [msg MSG_000 [Futaba]]
-斡Mierda! 斡No bromeaba con esos Treasure[n]Spots!
+Holy crap! She wasn't kidding about[n]those Treasure Spots!
 
 [msg MSG_001 [Morgana]]
-斡Mee-YOW! 斡Mira todo el tesoro!
-斡Vamos, Joker! 斡Puedo o胤rlo llamando mi[n]nombre!
+Mee-YOW! Look at all the treasure!
+Let's get going, Joker! I can hear it[n]calling my name!
 
 [msg MSG_002 [Haru]]
-*giggle* C茨lmate, Mona.
-No podemos cargar. Echemos un vistazo al[n]mapa y mu姻vanse con cuidado.
+*giggle* Calm down, Mona-chan.
+We can't just charge in. Let's take a[n]look at the map, and move carefully.
 
 [msg MSG_003 [Futaba]]
-Como dijo Zabby, tambi姻n hay m茨s puntos[n]warp por aqu胤.
+Hmm... Like Zabby said, there's more[n]warp points around here, too.
 
 [msg MSG_004 [Mitsuru]]
-Mencion吋 que los Treasure Spots estaban[n]m茨s all茨 de los nuevos warps... si[n]recuerdo.
-Entonces supongo que tendremos que[n]encontrar nuevas formas alrededor de los[n]puntos warp y las puertas posteriores.
+She did mention that the Treasure Spots[n]lay beyond the new warps... if I recall.
+Then I suppose we'll have to find new[n]ways around the warp points and[n]subsequent doors.
 
 [sel SEL_005 top]
-Estoy en ello.
-Suena como un dolor.
+I'm on it.
+Sounds like a pain.
 
 [msg MSG_006 [Mitsuru]]
-En otras palabras, nuestro enfoque[n]habitual. No muy exigente...
+In other words, our usual approach. Not[n]terribly demanding...
 
 [msg MSG_007 [Mitsuru]]
-*chuckle* 夷Renunciar antes de empezar?[n]Al menos intentarlo.
+*chuckle* Giving up before we've even[n]begun? At least give it a try.
 
 [msg MSG_008 [Haru]]
-Hab胤a tres lugares, 夷correcto? Entonces[n]encontremos el primero.
+There were three locations, correct?[n]Then let's find the first one.
 
 [msg MSG_009 [Futaba]]
-斡Muy bien! 斡Entonces vamos a buscar esos[n]Treasure Spots! Mantengan los ojos[n]fuera, chicos!
+Alright! Then let's go look for those[n]Treasure Spots! Keep your eyes out,[n]guys!
 

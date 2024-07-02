@@ -1,9 +1,9 @@
 [msg MSG_000 [Chie]]
-斡Demasiado f茨cil!
+Too easy!
 
 [msg MSG_001 [Akihiko]]
-Bueno, eso deber胤a haberte dado una[n]buena idea de nuestra fuerza. 斡Esperando[n]esa retroalimentaci吋n, Queen!
+Well, that should've given you a good[n]idea of our strength. Looking forward to[n]that feedback, Queen!
 
 [msg MSG_002 [Chie]]
-斡Muy bien! 斡Hora de volver!
+All right! Time to head back!
 

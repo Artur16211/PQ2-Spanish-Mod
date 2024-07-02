@@ -1,89 +1,89 @@
 [msg MSG_000 [P4 Protag]]
-As胤 que esta es la flor de canto...
+So this is the singing flower...
 
-[msg MSG_001 [Flor Cantando]]
-Mis alas est茨n arrancadas. Anhelo por el[n]cielo... S姻 lo que soy, una efigie[n]tr茨gica...
+[msg MSG_001 [Singing flower]]
+My wings are plucked. I yearn for the[n]sky... I know what I am, a tragic[n]effigy...
 
 [msg MSG_002 [Kanji]]
-夷Eh? 夷Qu姻 demonios dice este tipo?
+Huh? What the hell's this guy sayin'?
 
 [msg MSG_003 [Marie]]
-斡Puedo sentir tanto de sus patos!
-Mis alas est茨n arrancadas. Anhelo por el[n]cielo... 斡S胤, soy un 茨ngel, enamorado!
+Wow... I can feel so much of its pathos!
+My wings are plucked. I yearn for the[n]sky... Yes, I am an angel, fallen in[n]love!
 
 [msg MSG_004 [Morgana]]
-No lo entiendo... 夷Se supone que la[n]poes胤a te hace sentir picante?
+I don't get it... Is poetry supposed to[n]make you feel itchy?
 
 [msg MSG_005 [Marie]]
-Un 茨ngel... que est茨 ca胤do del cielo, y[n]ca胤do en amor... 斡Pero falta algo!
-つれろぺれ らぺゅぺほるぺれ ょまぼまれもろぺょ ゎょ ぺゎるぺ ぽま れよゅまぽぺぽデ[n]ぼよゆよ れも まれろゎわもまるぺょ れよらよるろぺょぽよ ゎょ らまぼぺぽよ[n]ぽまゆぺれもぺぽよ わまるむよょんよれよ らぺるぺ りゎま まゅ ゆゎょぽよ[n]わもまるぺテテテ!
+An angel... that is both fallen from[n]Heaven, and fallen in love... But[n]there's something missing!
+These words need an aura of solitude,[n]like they're shouldering a sin too[n]shameful for the world to see...!
 
 [sel SEL_006 top]
-S吋lo.
-Solitariamente.
+Only.
+Lonely.
 Single.
 
 [msg MSG_007 [Marie]]
-No est茨 mal, supongo... S吋lo...
-Oh! Lonely! 斡斡Lonely Lucifer!
+That's not bad, I guess... Only, only...
+Oh! Lonely! Lonely Lucifer!
 
 [msg MSG_008 [Marie]]
-*jadeo* 斡Eso es! 斡Eso es genial!
-斡Lonely Lucifer!
+*gasp* That's it! That's great!
+Lonely Lucifer!
 
 [msg MSG_009 [Marie]]
-Esa es una idea, pero necesito algo m茨s[n]triste... 斡Oh!
-Lonely! 斡斡Lonely Lucifer!
+That's sort of the idea, but I need[n]something more sad... Oh!
+Lonely! Lonely Lucifer!
 
 [msg MSG_010 [Futaba]]
-Maldici吋n, escribe r茨pido. Por supuesto,[n]nuestro equipo tiene a alguien as胤,[n]tambi姻n...
+Damn, she writes fast. Of course, our[n]team has someone like that, too...
 
 [msg MSG_011 [P4 Hero]]
-夷De qui姻n est茨s hablando? De todos[n]modos, esto es bastante normal para[n]Marie.
-夷C吋mo te va, Marie? 夷Tienes suficiente[n]para continuar, ahora?
+Who are you talking about? Anyway, this[n]is pretty normal for Marie.
+How's it going, Marie? You have enough[n]to go on, now?
 
 [msg MSG_012 [Marie]]
-ひウデ らよるりゎま まゅ ゆァれ れよゅもろぺるもよ ぽま ゅよれ ァょむまゅまれ[n]まれろァ ぼよるるよゆらもぽよ らよる ゅよれ れもまろま らまぼぺぽよれ ゆよるろぺゅまれ[n]を ぼよょぽまょぺぽよ ぺ りゎまゆぺる まょ ゅよれ もょみもまるょよれ ぽまゅ[n]ぺゆよる!
-斡Argh, los patos! Tan fuerte, pero no lo[n]suficiente. 斡Y cuando estoy tan cerca!
+Yes, for the loneliest of the angels is[n]corrupted by the seven deadly sins and[n]doomed to burn in the hellfires of love!
+Argh, the pathos! So strong, but not[n]quite enough. And when I'm so close!
 
-[msg MSG_013 [Flor Cantando]]
-Lo que buscas se encuentra abajo...
+[msg MSG_013 [Singing flower]]
+What you seek lies deep below...
 
 [msg MSG_014 [Marie]]
-夷Eh?
+Huh?
 
 [msg MSG_015 [Akechi]]
-夷Est茨 diciendo que deber胤amos ir al piso[n]de abajo?
-Creo que vi una flor similar ah胤 abajo.
+Is it saying we should go to the floor[n]below?
+I think I saw a similar flower down[n]there.
 
 [sel SEL_016 top]
-Vaya, buen recuerdo.
-夷Hablas flor?
+Wow, good memory.
+You speak flower?
 
 [msg MSG_017 [Akechi]]
-Es resultado de mi trabajo detective.
+It's a result of my detective work.
 
 [msg MSG_018 [Marie]]
-Ahh, as胤 que no eres simplemente chispa[n]para el espect茨culo.
+Ahh, so you aren't just sparkly for[n]show.
 
 [msg MSG_019 [Marie]]
-夷El lenguaje de flores hermosas? As胤 que[n]tambi姻n tienes patos. No esperaba eso de[n]alguien tan chispeante...
-夷Podr胤a ser que la chispa est茨 ah胤 para[n]ocultar la oscuridad dentro de ti?
+The language of beautiful blossoms? So[n]you have pathos as well. Didn't expect[n]that from someone so sparkly...
+*gasp* Could it be that the sparkliness[n]is just there to hide the darkness[n]inside of you...?
 
 [msg MSG_020 [Akechi]]
-Haha. No estoy seguro de entender lo que[n]est茨s diciendo.
+Haha. I'm, uh, not sure I understand[n]what you're saying.
 
 [msg MSG_021 [P4 Hero]]
-Break it up, break it up. Tenemos que ir[n]a un piso inferior y buscar m茨s flores[n]de canto.
+Break it up, break it up. We need to[n]head to a lower floor and search for[n]more singing flowers.
 
 [msg MSG_022 [Marie]]
-夷No te importa mantener la b雨squeda de[n]patos?
+You don't mind keeping up the search for[n]pathos?
 
 [msg MSG_023 [P4 Hero]]
-Seguiremos yendo hasta que est姻s[n]satisfecho.
+We'll keep going until you're satisfied.
 
 [msg MSG_024 [Teddie]]
-Al otro piso, para conseguir m茨s. 斡Para[n]que Marie no sea aburrida! 夷Qu姻 piensas[n]de ese vers胤culo, Emmy?
+To the other floor, to get some more. So[n]that Marie won't be a bore! What do you[n]think of that verse, Emmy-chan?
 
 [msg MSG_025 [Marie]]
 Um...

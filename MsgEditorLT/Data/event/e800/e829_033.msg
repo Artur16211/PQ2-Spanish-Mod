@@ -1,24 +1,24 @@
 [msg MSG_000 [Futaba]]
-斡All茨 vamos! 斡Ese es uno abajo!
+There we go! That's one down!
 
 [msg MSG_001 [Yukari]]
-Phew... Eso no fue muy malo.
+Phew... That wasn't too bad.
 
 [msg MSG_002 [Makoto]]
-Apenas tuvimos una oportunidad al[n]principio... Hemos crecido mucho m茨s[n]fuerte.
+We barely stood a chance at first...[n]We've grown a lot stronger.
 
 [msg MSG_003 [Teddie]]
-斡Si, estoy empezando mi estimulaci吋n de[n]crecimiento! 斡M茨s grande y m茨s fuerte[n]todos los d胤as!
+Yeah, I'm even starting my growth spurt![n]Getting bigger and stronger every day!
 
 [sel SEL_004 top]
-Vamos a seguir.
-Todav胤a tenemos uno m茨s.
+Let's keep it up.
+We still have one more.
 
 [msg MSG_005 [Ken]]
-Cierto. No podemos bajar la guardia. Es[n]el enemigo m茨s fuerte aqu胤, despu姻s de[n]todo.
+Right. We can't let our guard down. It's[n]the strongest enemy here, after all.
 
 [msg MSG_006 [Futaba]]
-斡Tienes raz吋n Feather-Kenken! 斡Mantente[n]fuerte!
-斡Vamos, Phoenix Rangers! 斡No nos[n]detendremos hasta que esos Tyranniqueens[n]est姻n abajo para la cuenta!
-斡Seguir!
+You're right Feather-Kenken! Stay sharp!
+Go, go, Phoenix Rangers! We won't stop[n]until those Tyranniqueens are down for[n]the count!
+To be continued!
 

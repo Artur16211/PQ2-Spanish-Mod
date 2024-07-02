@@ -1,94 +1,94 @@
 [msg MSG_000 [Elizabeth]]
-Eff, eff, F-O-E. Si lo lees al rev姻s,[n]E-O-F...
-... Ya basta, Theo.
+Eff, eff, F-O-E. If you read it[n]backwards, E-O-F...
+...That's enough of that, Theo.
 
 [msg MSG_001 [Theodore]]
-M-me...?
+M-Me...!?
 
 [msg MSG_002 [Kanji]]
-夷Podr胤as llegar al punto?
+Uh, could you get to the point?
 
 [msg MSG_003 [Elizabeth]]
-斡Ahem! Ahora entonces...
+Ahem! Now then...
 
 [msg MSG_004 [Elizabeth]]
-HOLA. HOLA. NEW TICKET AVAILABLE.
-EXTERMINADO FOE: SCM-8801. LOCALIZACI遺N:[n]A.I.G.I.S.
-EXTERMINADO FOE: SCM-8801. EXTERMINATE[n]FOE: SCM-8801...
+ALL OCCUPANTS: HELLO. HELLO. NEW TICKET[n]AVAILABLE.
+EXTERMINATE FOE: SCM-8801. LOCATION:[n]A.I.G.I.S.
+EXTERMINATE FOE: SCM-8801. EXTERMINATE[n]FOE: SCM-8801...
 
 [msg MSG_005 [Junpei]]
-夷Qu姻 pasa con el sonido robot...?
+What's with the robot-speak...?
 
 [msg MSG_006 [Akihiko]]
-"SCM-8801", 夷eh? Ese es el robot del[n]verdugo.
+"SCM-8801," huh? That's the executioner[n]robot.
 
 [msg MSG_007 [Elizabeth]]
-El FOE present吋 una amenaza mortal para[n]usted antes, pero creo que ahora deber胤a[n]ser un desaf胤o m茨s razonable.
-夷Por qu姻 no prueban su fuerza contra[n]ella?
+The FOE presented a deadly threat to you[n]before, but I believe it should now be a[n]more reasonable challenge.
+Why don't you all test your strength[n]against it?
 
 [sel SEL_008 top]
-Hag茨moslo.
-No s姻...
+Let's do it.
+I don't know...
 
 [msg MSG_009 [Akihiko]]
-S胤, tiene mi atenci吋n. No hay nada como[n]un poderoso oponente para ayudarte a[n]fortalecerte.
+Yeah, it's got my attention. There's[n]nothing like a powerful opponent to help[n]you get stronger.
 
 [msg MSG_010 [Akihiko]]
-夷Qu姻 pasa? Es diferente a ti dudar. No[n]creo que nos pase un mal rato.
+What's wrong? It's unlike you to[n]hesitate. I don't think it'll give us a[n]hard time.
 
 [msg MSG_011 [Junpei]]
-S姻 que esa mirada en su cara... Nunca[n]cambia, 夷eh?
+Uh-oh, I know that look on his face...[n]He never changes, huh?
 
 [msg MSG_012 [Yukari]]
-Hahah, bueno, este es Akihiko-senpai del[n]que estamos hablando. Tal vez pueda[n]ayudarte a endurecerte.
+Hahah, well, this is Akihiko-senpai[n]we're talking about. Maybe he can help[n]you toughen up.
 
 [msg MSG_013 [Akihiko]]
-夷Qu姻 piensas, Junpei? Con mi[n]entrenamiento, podr胤amos empujarte a tus[n]l胤mites.
+What do you think, Junpei? With my[n]training, we could push you to your[n]limits.
 
 [msg MSG_014 [Junpei]]
-夷Eh? Espera, 夷de d吋nde vino eso?
+Huh!? Wait, where did THAT come from!?
 
 [msg MSG_015 [Akihiko]]
-No te detengas. Hay algunos lugares[n]donde s吋lo un entrenamiento intenso y[n]doloroso puede traerte a...
-斡Vamos a empujarnos, Junpei! 斡Vamos a[n]alcanzar esas alturas juntos!
+Don't hold back. There are some places[n]where only intense, painful training can[n]bring you to...
+Let's push ourselves, Junpei! We'll[n]reach those heights together!
 
 [msg MSG_016 [Junpei]]
-Mierda, est茨 totalmente en la zona ahora[n]mismo...
-斡Pagar茨s por esto, Yuka-tan! Bueno,[n]ahora que no hay escape...
+Crap, he's totally in the zone right[n]now...
+You'll pay for this, Yuka-tan! Well, now[n]that there's no escape... uh...
 
 [msg MSG_017 [Kanji]]
-夷Est茨s bien, Junpei? Te ves muy[n]cambiante.
+You okay, Junpei-san? You're lookin'[n]awfully shifty.
 
 [msg MSG_018 [Junpei]]
-斡Ah! 斡Kanji! 斡Perfecto momento!
-Mira, amigo, nada personal... No tengo[n]nada contra ti, pero si bajo, 斡te estoy[n]tocando conmigo!
+Ah! Kanji! Perfect timing!
+Look, buddy, nothing personal... I got[n]nothing against you, but if I go down,[n]I'm takin' you with me!
 
 [msg MSG_019 [Kanji]]
-夷De qu姻 est茨s hablando?
+Wh-What're you talkin' about?
 
 [msg MSG_020 [Junpei]]
-斡Este tipo es demasiado caliente para[n]que yo lo maneje! Pero t雨 est茨s bastante[n]fuerte, 夷verdad? 斡Vamos, ay雨dame!
+This guy's way too hot for me to handle![n]But you're pretty buff, right? C'mon,[n]help me out!
 
 [msg MSG_021 [Kanji]]
-夷C-caliente? 夷Fuerte?
-夷Qu姻, tengo "manejar" chicos calientes y[n]sudados? 斡Esto te parece una maldita[n]sauna?
+H-Hot? Buff?
+What, I gotta "handle" hot and sweaty[n]guys!? This look like a goddamn sauna to[n]you!?
 
 [msg MSG_022 [Junpei]]
-夷De d吋nde vino eso?
+Wh-Where did that come from?
 
 [msg MSG_023 [Kanji]]
-Nada. Mi culpa.
-Era algo sobre FOEs y entrenamiento y[n]esa clase de mierda, 夷verdad?
+Uh, nothin'. My bad.
+It was somethin' about FOEs and training[n]and that kinda crap, right?
 
 [msg MSG_024 [Junpei]]
-斡S胤! 畏se es. Vamos, somos hermanos,[n]夷verdad? 斡Los dos podemos entrenar! 斡Ve[n]por el oro! 斡Avancen por las estrellas!
+Yeah! That's the one. Come on, we're[n]bros, right? We can both train! Go for[n]the gold! Reach for the stars!
 
 [msg MSG_025 [Kanji]]
-Mira, no s姻 de qu姻 est茨s hablando, pero[n]no me importar胤a entrenar...
+Look, I dunno what you're talkin' about,[n]but I wouldn't mind training...
 
 [msg MSG_026 [Junpei]]
-Phew, eres un tipo de apoyo...![n]斡Akihiko-senpai! 斡Tenemos otro en el[n]club!
+Phew, you're a standup guy...![n]Akihiko-senpai! We got another one in[n]the club!
 
 [msg MSG_027 [Kanji]]
-Hombre, 夷c吋mo siempre me encaden吋 en[n]esta mierda?
+Man, how do I always get roped into this[n]crap...?
 

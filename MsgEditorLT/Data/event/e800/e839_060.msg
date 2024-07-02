@@ -1,99 +1,99 @@
 [msg MSG_000 [Yosuke]]
-斡S胤! 斡Eso es lo que pasa cuando nos[n]ponemos serios!
+Yeah! That's what happens when we get[n]serious!
 
 [msg MSG_001 [Junpei]]
-No est茨 mal. Pero no tan impresionante[n]como yo.
-Lo siento, pero esa es la realidad de[n]trabajar junto a un as de SEES como yo.[n]No puedo evitar ser MVP.
+Not bad, everyone. But not quite as[n]awesome as me.
+Sorry, but that's just the reality of[n]working alongside a SEES ace such as[n]myself. I can't help being MVP.
 
 [msg MSG_002 [Ryuji]]
-No hombre, yo era el MVP. 斡Estaba frente[n]a todos!
+Nah man, I was the MVP. I was out in[n]front of everyone!
 
 [msg MSG_003 [Yosuke]]
-夷Qu姻? 斡Amigo, fui yo! 斡Nadie hubiera[n]tenido la pista de flores sin m胤!
+What!? Dude, it was me! Nobody would[n]have had the flowers' hint without me!
 
 [msg MSG_004 [Chie]]
-Parecen charlat茨n all胤.
+They sure seem chatty over there.
 
 [msg MSG_005 [Yukiko]]
-Bueno, al menos hacen un buen equipo.
+Well, at least they make a good team.
 
 [msg MSG_006 [Junpei]]
-Muy bien, preguntemos [f 6 1 16 0 0], el l胤der[n]de SEES.
-夷Qui姻n hizo lo mejor esta vez? 夷Yo, yo o[n]yo?
+Alright then, let's ask [f 6 1 16 0 0], the[n]leader of SEES.
+Who did the best this time? Me, myself,[n]or I?
 
 [msg MSG_007 [Ryuji]]
-夷Qu姻 clase de pregunta es esa?
+The hell kinda question is that!?
 
 [msg MSG_008 [P3 Hero]]
-Haha, no puedo responder a eso. Lo[n]hiciste muy bien.
+Haha, I can't answer that. You all did[n]really well.
 
 [msg MSG_009 [P4 Hero]]
-Tiene raz吋n. Los tres lo hiciste genial.
+He's right. All three of you did great.
 
 [sel SEL_010 top]
-Eres incre胤ble, Skull.
-Cuento contigo.
+You're awesome, Skull.
+I'm counting on you.
 
 [msg MSG_011 [Ryuji]]
-Gracias... S胤, no estoy acostumbrado a[n]alabar, as胤 que no s姻 qu姻 decir...
+Oh, uh, thanks... Um, yeah, I'm not used[n]to praise, so I dunno what to say...
 
 [msg MSG_012 [P4 Hero]]
-ねよ めぺを ょまぼまれもぽぺぽ ぽま まゑらゅもぼぺるテ ぬも ぼよゆらぺォまるよデ[n]へよれゎやまデ ろぺゆらよぼよ らゎまぽま ぺぼまらろぺる まゅよむもよテ はまるよ をよ[n]ろぺゆほもイょ ゆま れもまょろよ もょれよらよるろぺほゅま ぼよょ イゅテ
+No need to explain. My partner, Yosuke,[n]can't accept praise either. But I too[n]feel unbeatable with him.
 
 [msg MSG_013 [Yosuke]]
-No t雨 tambi姻n...
-Espera, 夷dijiste "inmejorable"? 夷Nos[n]escuchaste hablar antes?
+Whoa, not you too...
+Wait, did you say "unbeatable"? Did[n]you... overhear us talking earlier?
 
 [msg MSG_014 [Junpei]]
-Cielos. No me digas [f 6 1 27 0 0 0] y [f 6 1 16 0 0][n]podr胤a haber o胤do, tambi姻n?
+Aw, geez. Don't tell me and [f 6 1 16 0 0][n]might've heard, too?
 
 [msg MSG_015 [P3 Fem Protag]]
-S胤. O胤mos cada palabra.
-Y me gustar胤a ofrecerte mi sincero[n]agradecimiento, Junpei.
+Yep. We heard every word.
+And I'd like to offer you my heartfelt[n]thanks, Junpei.
 
 [msg MSG_016 [Junpei]]
-斡No! 斡Prefiero que te burles de m胤!
+No! I'd rather you make fun of me!
 
 [msg MSG_017 [P3 Hero]]
-Tambi姻n te lo agradezco, Junpei. Vamos a[n]tener una buena rivalidad.
+I thank you as well, Junpei. Let's have[n]a good rivalry.
 
 [msg MSG_018 [Junpei]]
-Claro...
-Espera, 夷no has o胤do lo que acabo de[n]decir?
+Oh, uh, sure...
+Wait, didn't you hear what I just said!?
 
 [msg MSG_019 [Ann]]
-Haha, eres tan fuerte que podr胤amos[n]escuchar todo lo que dijiste, Skull.
-Tal vez ahora est姻s callado cuando te[n]digamos que est姻s.
+Haha, you're so loud that we could hear[n]everything you said, Skull.
+Maybe now you'll be quiet when we tell[n]you to be.
 
 [msg MSG_020 [Ryuji]]
-Maldita sea, esto es tan vergonzoso.[n]Incluso Panther se uni吋 a...
-... 斡Argh, no tengo tiempo para esto!
+Dammit, this is so embarrassing. Even[n]Panther's joined in...
+...Argh, I don't got time for this!
 
 [msg MSG_021 [Hikari]]
-...
+......
 
 [msg MSG_022 [Ryuji]]
-夷Qu姻 hay de dejar atr茨s este mushy y[n]hacer nuestra misi吋n? Hikari,[n]夷encontraste lo que buscabas?
+What about leaving behind this mushy[n]stuff and doing our mission? Hikari, did[n]you find what you were looking for?
 
 [msg MSG_023 [Hikari]]
-斡S胤! Esto es lo que sent胤.
+...Yes! This is the thing I sensed.
 
 [msg MSG_024 [Yosuke]]
-斡Lo hiciste! 斡Felicidades, Hikari!
+Hey, you did it! Congrats, Hikari-chan!
 
 [msg MSG_025 [Hikari]]
-No podr胤a haberlo hecho sin todos[n]ustedes.
+I couldn't have done it without you all.
 
 [msg MSG_025_2 [Junpei]]
-Me alegra que todo haya funcionado. Si[n]alguna vez necesitas ayuda de nuevo,[n]sabes d吋nde encontrarme.
-斡Vendr姻 corriendo a Hikari en una[n]colina!
+Glad it all worked out. If you ever need[n]a helping hand again, you know where to[n]find me.
+I'll come runnin' to Hikari in a[n]hikurry!
 
 [msg MSG_026 [Hikari]]
 Uh...
 
 [msg MSG_027 [Yosuke]]
-夷Hikari en un hikurry? Esa broma es tan[n]mala que ni siquiera s姻 qu姻 decir...
+Hikari in a hikurry? That joke's so bad[n]I don't even know what to say...
 
 [msg MSG_028 [Ryuji]]
-Hombre, casi siento pena por tu[n]amigo,...
+Man, I almost feel sorry for your buddy,[n][f 6 1 16 0 0]...
 

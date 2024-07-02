@@ -1,30 +1,30 @@
 [msg MSG_000 [Elizabeth]]
-El tiempo finalmente ha llegado...
-No s吋lo podremos decidir el vencedor,[n]tendremos una monta隠a de donuts...
-Esto est茨 golpeando a ochenta p茨jaros[n]con una piedra.
+The time has finally come...
+Not only will we be able to decide the[n]victor, we shall have a mountain of[n]donuts...
+This is hitting eighty birds with one[n]stone.
 
 [msg MSG_001 [Yukari]]
-No estoy seguro de la parte de la[n]competencia, pero conseguir comer todos[n]los donuts que queremos suena genial.
+I'm not sure about the competition part,[n]but getting to eat all the donuts we[n]want sounds great.
 
 [msg MSG_002 [Ann]]
-S胤. Casi me preocupa que terminemos[n]comiendo demasiado.
+Yeah. I'm almost worried we'll end up[n]eating too much.
 
 [msg MSG_003 [P4 Hero]]
-...
+......
 
 [msg MSG_004 [P3 Hero]]
-... Vamos.
+...Let's go.
 
 [sel SEL_005 top]
-Lo tienen dif胤cil.
-Mis condolencias.
+You guys have it hard.
+My condolences.
 
 [msg MSG_006 [P3 Hero]]
-Hemos llegado hasta aqu胤, y todo el[n]mundo parece muy emocionado.
+We've come this far, and everyone seems[n]pretty excited about it.
 
 [msg MSG_007 [P4 Hero]]
-S胤. As胤 que vamos a darle lo mejor.
+Yeah. So let's give it our best.
 
 [msg MSG_008 [Kanji]]
-S-senpai... 斡Eres el m茨s masculino!
+S-Senpai... You're the manliest!
 

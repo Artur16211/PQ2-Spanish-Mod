@@ -1,78 +1,78 @@
 [msg MSG_000 [Rise]]
-Este camino es un poco de desv胤o, pero[n]definitivamente nos llevar茨 al tesoro.
+This path is a bit of a detour, but[n]it'll definitely take us to the[n]treasure.
 
 [msg MSG_001 [Koromaru]]
-斡Arf, Arf!
+Arf, arf!
 
 [msg MSG_002 [Ann]]
-斡Ko! 夷Qu姻 pasa?
+Koro-chan!? What is it?
 
 [msg MSG_003 [Aigis]]
-Parece estar diciendo: "Huelo el tesoro.[n]S胤gueme."
+He seems to be saying, "I smell[n]treasure. Follow me."
 
 [msg MSG_004 [Chie]]
-夷Tesoro? Mmm... Definitivamente no huele[n]a carne...
+Treasure? Hmm... It definitely doesn't[n]smell like meat...
 
 [msg MSG_005 [Yosuke]]
-夷Por qu姻 est茨s tan seguro de que el[n]tesoro es carne? 夷D吋nde est茨 la belleza[n]ylo el encanto en eso?
+Why are you so sure the treasure is[n]meat? Where's the beauty and/or allure[n]in that?
 
 [msg MSG_006 [Yusuke]]
-ぬゆゆデ るもぼぺ ぼぺるょま るゎほウ ぼよゆらゅまゆまょろぺぽぺ らよる ゅウょまぺれ[n]ほゅぺょぼぺれ ぽま ょもまわま ぽま むるぺれぺテテテ ィへよ ぽもるウぺ りゎま ゅぺ[n]ぼぺるょま ろもまょま ゎょぺ ほまゅゅまんぺ らるよらもぺ!
+Mmm, rich ruby flesh complimented by[n]snow-white lines of fat... I would argue[n]that meat has a beauty all its own!
 
 [msg MSG_007 [Teddie]]
-斡Hmph, eso no le gustar茨 a las damas!
-夷Crees que lo has descubierto todo?[n]Bueno, no eres rival para la nariz de[n]este oso...
-*Sniff sniff* *sniff sniff* 夷Hrmmm?
+Hmph, that won't please the ladies!
+You think you've got it all figured out,[n]huh? Well, you're no match for this[n]bear's nose...
+*sniff sniff* *sniff sniff* Hrmmm!?
 
 [sel SEL_008 top]
-No me digas...
-夷Tesoro?
+Don't tell me...
+Treasure?
 
 [msg MSG_009 [Teddie]]
-Esta sensaci吋n de bronceaci吋n que hace[n]cosquillas mis sentidos de Teddie...[n]斡Tiene que ser un tesoro!
-Y no hablo de una o dos piezas. 斡Estoy[n]hablando de todo un trove!
+This tantalizing sensation tickling my[n]Teddie senses... It has to be treasure!
+And I'm not talkin' a measly one or two[n]pieces. I'm talkin' a whole trove!
 
 [msg MSG_010 [Ryuji]]
-Parece que esos dos est茨n a punto de[n]mostrarte. 夷Estar茨s bien?
-夷Mona? Oye...
+Hey, looks like those two are about to[n]show you up. You gonna be all right?
+...Mona? Hey...
 
 [msg MSG_011 [Morgana]]
-Mrrroooow... Treasuure...
+Mrrroooow... Treasuuure...
 
 [msg MSG_012 [Ryuji]]
-斡T雨 tambi姻n no!
+Not you too!
 
 [msg MSG_013 [Yusuke]]
-El tesoro es esencialmente su catnip.
+Treasure is essentially his catnip.
 
 [msg MSG_014 [Ann]]
-Bueno, no es lo mismo que el Tesoro en[n]un palacio, pero supongo que fue un poco[n]disparado por Teddie y Koro...
+Well, it's not the same as the Treasure[n]in a Palace, but I guess he got kinda[n]triggered by Teddie and Koro-chan...
 
 [msg MSG_015 [Futaba]]
-Este camino es m茨s largo, pero parece[n]que hay un tesoro en el camino.
-夷Qu姻 piensas, Joker?
+This path is longer, but it looks like[n]there's treasure along the way.
+Whaddya thinkin', Joker?
 
 [sel SEL_016 top]
-Vamos por aqu胤.
-Confiar姻 en mis instintos.
-El corto camino es mejor.
+We keep going this way.
+I'll trust my instincts.
+The short path is better.
 
 [msg MSG_017 [Ryuji]]
-S胤, no podemos regresar ahora que[n]sabemos que hay un tesoro.
+Yeah, we can't turn back now that we[n]know there's treasure.
 
 [msg MSG_018 [Ann]]
-斡Entonces, vamos a por 姻l!
+Then, let's go get it!
 
 [msg MSG_019 [Ryuji]]
-斡Claro que s胤! 斡No ser胤amos ladrones[n]fantasmas si pasamos un tesoro sentado[n]frente a nosotros!
+Hell yeah! We wouldn't be phantom[n]thieves if we passed up treasure sittin'[n]right in front of us!
 
 [msg MSG_020 [Ann]]
-斡S胤! 斡Ese tesoro es nuestro!
+Yeah! That treasure is ours!
 
 [msg MSG_021 [Ryuji]]
-夷Qu姻? 夷No vamos a ir a buscar el tesoro?
-Bueno, t雨 eres el jefe.
+Wha―? We're not gonna go get the[n]treasure?
+Oh well, you're the boss.
 
 [msg MSG_022 [Ann]]
-Entonces, 夷quieres regresar?
+Then, do you want to turn back?
 

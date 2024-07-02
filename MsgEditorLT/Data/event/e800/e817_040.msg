@@ -1,76 +1,76 @@
 [msg MSG_000 [Akihiko]]
-Esto es todo.
+This is it.
 
 [msg MSG_001 [Ken]]
-Est茨 muy lleno aqu胤.
+It's really crowded here.
 
 [msg MSG_002 [Mitsuru]]
-Ahora, nos separamos y preguntamos por[n]ah胤.
+Now then, let's split up and ask around.
 
 [msg MSG_003 [Yukari]]
-夷C吋mo te fue?
+How'd it go?
 
 [msg MSG_004 [Junpei]]
-Es lo mismo que la 雨ltima vez.
+It's the same as last time.
 
 [msg MSG_004_1 [Junpei]]
-M雨ltiples perps se metieron en una sola[n]mujer y cogieron su cartera.
+Multiple perps ganged up on a lone woman[n]and took her wallet.
 
 [msg MSG_005 [Yusuke]]
-Aparentemente, sucedi吋 tan r茨pido, nadie[n]sabe de d吋nde vinieron ni de d吋nde[n]desaparecieron.
+Apparently, it happened so fast, no one[n]knows where they came from nor where[n]they disappeared to.
 
 [msg MSG_005_1 [Yusuke]]
-Nuestros enemigos ciertamente saben c吋mo[n]evitar la detecci吋n.
+Our enemies certainly know how to avoid[n]detection.
 
 [sel SEL_006 top]
-Eso no es bueno.
-Como ladrones fantasma.
+That's not good.
+Just like phantom thieves.
 
 [msg MSG_007 [Morgana]]
-Es muy malo que no podamos recoger su[n]rastro...
+It's too bad we can't pick up their[n]trail...
 
 [msg MSG_008 [Akihiko]]
-夷No quieres decir?
+You don't mean―!?
 
 [msg MSG_009 [Morgana]]
-斡No! 斡Deja de confundir a todos, Joker!
+No! Stop confusing everyone, Joker!
 
 [msg MSG_010 [Ann]]
-Pero tengo que decir que la gente se[n]est茨 comportando de forma muy diferente[n]ahora.
+But I gotta say, the people are behaving[n]a lot differently now.
 
 [msg MSG_011 [Ryuji]]
-En serio. Pens姻 que ser胤an m茨s "lo que[n]sea" sobre todo esto.
+Seriously. I kinda thought they'd be[n]more "whatever" about all this.
 
 [msg MSG_012 [Mitsuru]]
-夷Hm? 夷Qu姻 quieres decir?
+Hm? What do you mean?
 
 [msg MSG_013 [Ryuji]]
-Esta ciudad sol胤a ser gobernada por una[n]verdadera basura, y todo el mundo aqu胤[n]s吋lo hizo lo que dijo.
+This city used to be ruled by a real[n]scumbag, and everybody here just did[n]what he said.
 
 [msg MSG_013_1 [Ryuji]]
-Ellos depend胤an completamente de 姻l.[n]Nadie se defendi吋 por s胤 mismo...
+They were completely dependent on him.[n]No one ever stood up for themselves...
 
 [msg MSG_014 [Ann]]
-Pero ahora parece que la gente est茨[n]empezando a actuar por su cuenta.
+But now it looks like the people are[n]starting to act on their own.
 
 [msg MSG_014_1 [Ann]]
-Algunos de ellos llegaron y hablaron con[n]nosotros, esperando que ayudara a[n]resolver el caso.
+A few of them even came over and talked[n]to us, hoping it would help solve the[n]case.
 
 [msg MSG_015 [Mitsuru]]
-夷Oh? Qu姻 interesante...
+Oh? How interesting...
 
 [msg MSG_016 [Yusuke]]
-Los de arriba a menudo afectar茨n a los[n]de abajo... Creo que esta pel胤cula es[n]prueba de eso.
+Those at the top will often affect those[n]below... I think this film is proof of[n]that.
 
 [msg MSG_017 [Mitsuru]]
-Los de arriba...
+Those at the top...
 
 [msg MSG_018 [Makoto]]
-夷Qu姻 pasa?
+What's wrong?
 
 [msg MSG_019 [Mitsuru]]
-Nada...
+Nothing...
 
 [msg MSG_019_1 [Mitsuru]]
-Todav胤a tenemos una escena del crimen[n]m茨s que comprobar. Vamos a preguntar por[n]ah胤 tambi姻n.
+We still have one more crime scene to[n]check. Let's ask around there as well.
 

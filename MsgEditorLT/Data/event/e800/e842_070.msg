@@ -1,26 +1,26 @@
 [msg MSG_000 [Elizabeth]]
-Muchas gracias por obtener lo que ped胤.
-Esto es hermoso. Me encargar姻 de ello.
+Thank you most kindly for obtaining what[n]I requested.
+This is beautiful indeed. I will take[n]excellent care of it.
 
 [msg MSG_001 [Hikari]]
-Me alegra que te guste... Trabajamos muy[n]duro para atraparlo.
+I'm glad you like it... We worked really[n]hard to catch it.
 
 [sel SEL_002 top]
-夷Qu姻 har茨s con eso?
-夷Te gustan las mariposas?
+What'll you do with it?
+You like butterflies?
 
 [msg MSG_003 [Elizabeth]]
-Nada en particular. Aunque...
-Me gustar胤a pasar un tiempo relajando,[n]viendo bailar en vuelo.
+Nothing in particular. Though...
+I would like to spend some time[n]relaxing, watching it dance in flight.
 
 [msg MSG_004 [Elizabeth]]
-Supongo que podr胤as decir eso.
-Verlo tejer y bailar en el aire inspira[n]cierta calma.
+I suppose you could say that.
+Seeing it weave and dance in the air[n]inspires a certain calm.
 
 [msg MSG_005 [Yukari]]
-Se puso un poco conmovedor cerca del[n]final, pero creo que lo disfrut姻.
-Vamos otra vez, Hikari.
+It got a little bumpy near the end, but[n]I think I enjoyed it.
+Let's go again sometime, Hikari-chan.
 
 [msg MSG_006 [Hikari]]
-Gracias... Yo tambi姻n me divert胤. Espero[n]que me dejes venir contigo otra vez.
+Thanks... I had fun too. I hope you'll[n]let me come with you again sometime.
 

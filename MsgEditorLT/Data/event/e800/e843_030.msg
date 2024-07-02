@@ -1,38 +1,38 @@
 [msg MSG_000 [Ryuji]]
-斡Esto tiene que ser una de las se隠ales!
+Oh, this's gotta be one of the signs!
 
 [msg MSG_001 [Chie]]
-La voz dijo que habr胤a una pregunta,[n]夷verdad? Veamos...
+The voice said there'd be a question on[n]it, right? Let's see...
 
 [msg MSG_002 [Naoto]]
-"Est茨s al lado de una v胤a ferroviaria."
-"Ves un carrito de velocidad en la[n]pista. Sus frenos est茨n fallando."
-"A la cabeza del carrito, ves a cinco[n]trabajadores. Si el carrito no se[n]detiene, sus vidas estar茨n en peligro"
-"Mira hacia adelante, ves una palanca[n]que puede cambiar el rumbo del carrito a[n]otra pista."
-"Si cambias su curso, puedes salvar a[n]los cinco trabajadores, pero hay un[n]trabajador en la otra v胤a"
-"En esta situaci吋n, 夷puedes sacar la[n]palanca? Si es as胤, gira a la derecha.[n]Si no, gira a la izquierda"
+"You stand beside a railroad track."
+"You see a speeding cart on the track.[n]Its brakes are failing."
+"Ahead of the cart, you see five[n]workers. If the cart isn't stopped,[n]their lives will be in danger."
+"Straight ahead, you see a lever that[n]can change the cart's course to another[n]track."
+"If you change its course, you can save[n]the five workers, but there is one[n]worker on the other track."
+"In this situation, would you pull the[n]lever? If yes, turn right. If no, turn[n]left."
 
 [msg MSG_003 [Teddie]]
-夷Carrito? 夷Pista? No veo ninguno de esos[n]por aqu胤...
+Cart? Track? I don't see any of those[n]around here...
 
 [msg MSG_004 [Akechi]]
-No, la se隠al propone un experimento de[n]pensamiento. Un cl茨sico, en eso. S吋lo[n]tenemos que dar una respuesta.
+No, the sign proposes a thought[n]experiment. A classic one, at that. We[n]just need to provide an answer.
 
 [msg MSG_005 [Mitsuru]]
-O no hacemos nada, y ponemos en peligro[n]a cinco personas por nuestra inacci吋n, o[n]matamos a uno para salvar a los cinco...
-Hm... Los par茨metros son bastante[n]simples, pero la respuesta es menos as胤.
+Either we do nothing, and endanger five[n]people by our inaction, or kill one to[n]save the five...
+Hm... The parameters are simple enough,[n]but the answer is less so.
 
 [msg MSG_006 [Makoto]]
-S胤, aqu胤 no hay una respuesta clara. Nos[n]est茨n preguntando qu姻 har胤amos.
-Si sacamos la palanca, vamos a la[n]derecha, pero si no hacemos nada, vamos[n]a la izquierda...
-Depende de ti, Joker. Iremos por donde[n]vayas.
+Yeah, there's no clear-cut right answer[n]here. We're just being asked what we[n]would do.
+If we pull the lever, we go right, but[n]if we don't do anything, we go left...
+It's up to you, Joker. We'll go[n]whichever way you go.
 
 [msg MSG_007]
-Hay una pregunta escrita en el cartel...
-"Est茨s al lado de una v胤a ferroviaria."
-"Ves un carrito de velocidad en la[n]pista. Sus frenos est茨n fallando."
-"A la cabeza del carrito, ves a cinco[n]trabajadores. Si el carrito no se[n]detiene, sus vidas estar茨n en peligro"
-"Mira hacia adelante, ves una palanca[n]que puede cambiar el rumbo del carrito a[n]otra pista."
-"Si cambias su curso, puedes salvar a[n]los cinco trabajadores, pero hay un[n]trabajador en la otra v胤a"
-"En esta situaci吋n, 夷puedes sacar la[n]palanca? Si es as胤, gira a la derecha.[n]Si no, gira a la izquierda"
+There's a question written on the[n]sign...
+"You stand beside a railroad track."
+"You see a speeding cart on the track.[n]Its brakes are failing."
+"Ahead of the cart, you see five[n]workers. If the cart isn't stopped,[n]their lives will be in danger."
+"Straight ahead, you see a lever that[n]can change the cart's course to another[n]track."
+"If you change its course, you can save[n]the five workers, but there is one[n]worker on the other track."
+"In this situation, would you pull the[n]lever? If yes, turn right. If no, turn[n]left."
 

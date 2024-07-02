@@ -1,7 +1,7 @@
 [msg MSG_000 [Yukari]]
-夷Eh? No recuerdo que la entrada[n]estuviera aqu胤, 夷verdad?
+Huh...? I don't remember the entrance[n]being here, do you?
 
 [msg MSG_001 [Makoto]]
-夷Crees que podr胤a tener algo que ver con[n]el cambio de seguridad?
-En cualquier caso, empecemos a[n]investigar.
+Do you think it might have something to[n]do with the security changing?
+In any case, let's start investigating.
 

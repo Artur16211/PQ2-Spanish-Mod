@@ -2,169 +2,169 @@
 Dummy
 
 [msg BTL_MES_019_001]
-Tenemos que ganar, 斡no importan las[n]probabilidades!
+Tenemos que ganar, 斡no importan las probabilidades!
 
 [msg BTL_MES_019_002]
-＜声のみ＞大丈夫！ 私たちなら、勝てるって信じてる！
+＜声Of＞大丈夫！ 私たBKp、勝GrDG信じGr！
 
 [msg BTL_MES_019_003]
 Este FOE es una verdadera amenaza...
 
 [msg BTL_MES_019_004]
-＜声のみ＞うん！ みんな、撤収ー！
+＜声Of＞うz！ fzK、撤収ー！
 
 [msg BTL_MES_019_005]
-Ooh, 斡realmente podr胤amos derrotar a[n]este!
+Ooh, 斡realmente podr胤amos derrotar a esta!
 
 [msg BTL_MES_019_006]
-斡Oye, Sombra rara! 斡No ir茨s a ninguna[n]parte!
+斡Oye, Sombra rara! 斡No ir茨s a ninguna parte!
 
 [msg BTL_MES_019_007]
-＜声のみ＞確実に捕らえる！
+＜声Of＞確実L捕pえr！
 
 [msg BTL_MES_019_008]
-＜声のみ＞わかったよ、ナビ！
+＜声Of＞vかDたo、)ビ！
 
 [msg BTL_MES_019_009]
-＜声のみ＞了解、りせちゃん！
+＜声Of＞了解、qせBjz！
 
 [msg BTL_MES_019_010]
-＜声のみ＞オッケー、風花！
+＜声Of＞謂7ケー、風花！
 
 [msg BTL_MES_019_011]
-夷Eh? 斡No puede ser! 斡Parece s雨per[n]fuerte!
+夷Eh? 斡No puede ser! 斡Parece superfuerte!
 
 [msg BTL_MES_019_012]
-＜声のみ＞ええと…戦う？ それとも撤退する？
+＜声Of＞ええI…戦う？ そsIi撤退すr？
 
 [msg BTL_MES_019_013]
-はぺるまぼま りゎま めまゆよれ れもぽよ ほまょぽまぼもぽよれ ぼよょ ゎょ[n]ょゎまわよ まょまゆもむよテ ィつれ めよるぺ ぽま めぺぼまる ぺゅむゎょぺれ[n]らるゎまほぺれ!
+Parece que hemos sido bendecidos con un nuevo enemigo. 斡Es hora de hacer algunas pruebas!
 
 [msg BTL_MES_019_014]
-＜声のみ＞そうだね、色々試してみよう！
+＜声Of＞そうAN、色々試しGfoう！
 
 [msg BTL_MES_019_015]
 Creo que podemos ganar esto...
 
 [msg BTL_MES_019_016]
-＜声のみ＞全力でいくね…！
+＜声Of＞全力HいくN…！
 
 [msg BTL_MES_019_017]
 斡Muy bien, a la caaarga!
 
 [msg BTL_MES_019_018]
-＜声のみ＞全部まとめて ボッコボコにしちゃおっか！
+＜声Of＞全部eIhG ボ7コボコLしBjおDか！
 
 [msg BTL_MES_019_019]
 夷Eh? Algo en la Sombra cambi吋...
 
 [msg BTL_MES_019_020]
-＜声のみ＞うそでしょ！？ どうしよう…！
+＜声Of＞うそHしn！？ Jうしoう…！
 
 [msg BTL_MES_019_021]
-＜声のみ＞もう！ こんな時に来ないでよ！
+＜声Of＞iう！ こzK時L来KいHo！
 
 [msg BTL_MES_019_022]
-Esta es una situaci吋n bastante mala,[n]夷verdad?
+Esta es una situaci吋n bastante mala, 夷verdad?
 
 [msg BTL_MES_019_023]
-＜声のみ＞た、大変！ 手当てしなきゃ！
+＜声Of＞た、大変！ 手当GしKきj！
 
 [msg BTL_MES_019_024]
-＜声のみ＞大丈夫！？ はやく助けなきゃ！
+＜声Of＞大丈夫！？ Pkく助けKきj！
 
 [msg BTL_MES_019_025]
-＜声のみ＞無茶はだめだよ！ 今、助けるからね！
+＜声Of＞無茶PAhAo！ 今、助けrかpN！
 
 [msg BTL_MES_019_026]
-＜声のみ＞陽介くん、大丈夫！？ ここは私に任せて！
+＜声Of＞陽介くz、大丈夫！？ ここP私L任せG！
 
 [msg BTL_MES_019_027]
-＜声のみ＞千枝が危ない！ 待ってて、助けるから！
+＜声Of＞千枝が危Kい！ 待DGG、助けrかp！
 
 [msg BTL_MES_019_028]
-＜声のみ＞雪子がピンチ！ 今、助けるからね！
+＜声Of＞雪子がピン5！ 今、助けrかpN！
 
 [msg BTL_MES_019_029]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_030]
-＜声のみ＞完二くん、大丈夫！？ 無理は禁物だよ！
+＜声Of＞完二くz、大丈夫！？ 無理P禁物Ao！
 
 [msg BTL_MES_019_031]
-＜声のみ＞あっ、直斗くんが！ このままじゃ危ない！
+＜声Of＞あD、直斗くzが！ こOeeじj危Kい！
 
 [msg BTL_MES_019_032]
-＜声のみ＞クマくん、平気！？ 何とかしなきゃ！
+＜声Of＞クマくz、平気！？ 何IかしKきj！
 
 [msg BTL_MES_019_033]
-＜声のみ＞ゆかりがピンチになってる！ 助けないと！
+＜声Of＞mかqがピン5LKDGr！ 助けKいI！
 
 [msg BTL_MES_019_034]
-＜声のみ＞順平、大丈夫！？ 何とかしないと…！
+＜声Of＞順平、大丈夫！？ 何IかしKいI…！
 
 [msg BTL_MES_019_035]
-＜声のみ＞あっ、真田先輩！ 大変…何とかしないと！
+＜声Of＞あD、真田先輩！ 大変…何IかしKいI！
 
 [msg BTL_MES_019_036]
-＜声のみ＞ウソ、美鶴先輩！？ しっかりしてください！
+＜声Of＞胤1、美鶴先輩！？ しDかqしGくAさい！
 
 [msg BTL_MES_019_037]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_038]
-＜声のみ＞アイギスが大変なことに…！ すぐ助けるから！
+＜声Of＞威姻/スが大変KこIL…！ すぐ助けrかp！
 
 [msg BTL_MES_019_039]
-＜声のみ＞あっ、天田くんがピンチ！ 何とかしなきゃ！
+＜声Of＞あD、天田くzがピン5！ 何IかしKきj！
 
 [msg BTL_MES_019_040]
-＜声のみ＞ああっ、コロマル！ すぐ助けるから！
+＜声Of＞ああD、コロマル！ すぐ助けrかp！
 
 [msg BTL_MES_019_041]
-＜声のみ＞荒垣先輩、無茶しないでください！ すぐに助けます！
+＜声Of＞荒垣先輩、無茶しKいHくAさい！ すぐL助けeす！
 
 [msg BTL_MES_019_042]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_043]
-＜声のみ＞大変、ジョーカーが！ すぐに助けるから！
+＜声Of＞大変、ジョー吋ーが！ すぐL助けrかp！
 
 [msg BTL_MES_019_044]
-＜声のみ＞うそ、スカルが！ はやく助けなきゃ！
+＜声Of＞うそ、ス吋ルが！ Pkく助けKきj！
 
 [msg BTL_MES_019_045]
-＜声のみ＞パンサー、大丈夫！？ いま助けるから！
+＜声Of＞パンサー、大丈夫！？ いe助けrかp！
 
 [msg BTL_MES_019_046]
-＜声のみ＞モナが大変！ すぐに何とかしなきゃ！
+＜声Of＞モ)が大変！ すぐL何IかしKきj！
 
 [msg BTL_MES_019_047]
-＜声のみ＞フォックス、大丈夫！？ 助けるから、踏ん張って！
+＜声Of＞フ隠7クス、大丈夫！？ 助けrかp、踏z張DG！
 
 [msg BTL_MES_019_048]
-＜声のみ＞クイーン、しっかり！ 助けるから、待ってて！
+＜声Of＞ク姻ーン、しDかq！ 助けrかp、待DGG！
 
 [msg BTL_MES_019_049]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_050]
-＜声のみ＞大変、ノワールが…！ すぐ助けるから、待ってて！
+＜声Of＞大変、ノワールが…！ すぐ助けrかp、待DGG！
 
 [msg BTL_MES_019_051]
-＜声のみ＞クロウ、どうしたの！？ 大変、すぐに助けなきゃ！
+＜声Of＞クロ胤、JうしたO！？ 大変、すぐL助けKきj！
 
 [msg BTL_MES_019_052]
-＜声のみ＞弱点はどんどん狙ってこー！
+＜声Of＞弱点PJzJz狙DGこー！
 
 [msg BTL_MES_019_053]
 斡No te contengas ahora! 斡Hag茨moslo!
 
 [msg BTL_MES_019_054]
-＜声のみ＞よーっし！ 次、いこっか！
+＜声Of＞oーDし！ 次、いこDか！
 
 [msg BTL_MES_019_055]
-Puedo golpear su debilidad. 夷Qu姻[n]dices?
+Puedo golpear su debilidad. 夷Qu姻 dices?
 
 [msg BTL_MES_019_056]
 El Relevo ser胤a una buena opci吋n.
@@ -173,89 +173,89 @@ El Relevo ser胤a una buena opci吋n.
 斡D姻jamelo a m胤! 斡Hacia la victoria!
 
 [msg BTL_MES_019_058]
-＜声のみ＞うん！ボッコボコにしちゃえ！
+＜声Of＞うz！ボ7コボコLしBjえ！
 
 [msg BTL_MES_019_059]
-＜声のみ＞うん、任せたよっ！
+＜声Of＞うz、任せたoD！
 
 [msg BTL_MES_019_060]
-＜声のみ＞陽介くん、思いっきりやっちゃって！
+＜声Of＞陽介くz、思いDきqkDBjDG！
 
 [msg BTL_MES_019_061]
-＜声のみ＞千枝、ぶっとばせー！
+＜声Of＞千枝、WDIQせー！
 
 [msg BTL_MES_019_062]
-＜声のみ＞燃やし尽くしちゃえ、雪子！
+＜声Of＞燃kし尽くしBjえ、雪子！
 
 [msg BTL_MES_019_063]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_064]
-＜声のみ＞完二くん、たのんだー！
+＜声Of＞完二くz、たOzAー！
 
 [msg BTL_MES_019_065]
-＜声のみ＞直斗くん、キメちゃって！
+＜声Of＞直斗くz、キメBjDG！
 
 [msg BTL_MES_019_066]
-＜声のみ＞クマくん、やっちゃえー！
+＜声Of＞クマくz、kDBjえー！
 
 [msg BTL_MES_019_067]
-＜声のみ＞ゆかりなら 絶対にキメてくれる！
+＜声Of＞mかqKp 絶対LキメGくsr！
 
 [msg BTL_MES_019_068]
-＜声のみ＞順平、たまにはカッコいいとこ見せて！
+＜声Of＞順平、たeLP吋7コいいIこ見せG！
 
 [msg BTL_MES_019_069]
-＜声のみ＞真田先輩、やっちゃってください！
+＜声Of＞真田先輩、kDBjDGくAさい！
 
 [msg BTL_MES_019_070]
-＜声のみ＞美鶴先輩、ブリリアントにお願いします！
+＜声Of＞美鶴先輩、ブリリ威ン:Lお願いしeす！
 
 [msg BTL_MES_019_071]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_072]
-＜声のみ＞頼んだ！ アイギスならキメてくれるはず！
+＜声Of＞頼zA！ 威姻/スKpキメGくsrPず！
 
 [msg BTL_MES_019_073]
-＜声のみ＞天田くん、頑張って！
+＜声Of＞天田くz、頑張DG！
 
 [msg BTL_MES_019_074]
-＜声のみ＞コロマル、いっけー！
+＜声Of＞コロマル、いDけー！
 
 [msg BTL_MES_019_075]
-＜声のみ＞荒垣先輩、信じてます！
+＜声Of＞荒垣先輩、信じGeす！
 
 [msg BTL_MES_019_076]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_077]
-＜声のみ＞ジョーカー、派手に決めちゃって！
+＜声Of＞ジョー吋ー、派手L決hBjDG！
 
 [msg BTL_MES_019_078]
-＜声のみ＞いっけー、スカル！
+＜声Of＞いDけー、ス吋ル！
 
 [msg BTL_MES_019_079]
-＜声のみ＞パンサー、遠慮はいらないからね！
+＜声Of＞パンサー、遠慮PいpKいかpN！
 
 [msg BTL_MES_019_080]
-＜声のみ＞モナ、メラメラに 燃えてるねー！
+＜声Of＞モ)、メラメラL 燃えGrNー！
 
 [msg BTL_MES_019_081]
-＜声のみ＞フォックス、華麗に決めちゃって！
+＜声Of＞フ隠7クス、華麗L決hBjDG！
 
 [msg BTL_MES_019_082]
-＜声のみ＞クイーンの実力、見せつけちゃって！
+＜声Of＞ク姻ーンO実力、見せEけBjDG！
 
 [msg BTL_MES_019_083]
-＜声のみ＞ダミー
+＜声Of＞4ミー
 
 [msg BTL_MES_019_084]
-＜声のみ＞遠慮はいらないよ！ ノワール、暴れちゃえ！
+＜声Of＞遠慮PいpKいo！ ノワール、暴sBjえ！
 
 [msg BTL_MES_019_085]
-＜声のみ＞クロウ、期待してるからね！
+＜声Of＞クロ胤、期待しGrかpN！
 
 [msg BTL_MES_019_086]
-Lo tengo... 斡Prep茨rate para[n]sorprenderte!
+Lo tengo... 斡Prep茨rate para sorprenderte!
 

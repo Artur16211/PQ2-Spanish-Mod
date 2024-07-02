@@ -1,46 +1,46 @@
 [msg MSG_000 [Futaba]]
-斡Eso parece el final! 斡Lo hicimos! 斡Lo[n]logramos hasta el final!
+That looks like the finish! We did it![n]We made it to the end!
 
 [msg MSG_001 [Junpei]]
-Vaya, eso tom吋 para siempre. Todo lo que[n]rebota por ah胤 me gana.
-As胤 que, de todos modos, 夷qu姻 se supon胤a[n]que significaba esa cosa de "GROW"?
+Whew, that took forever. All that[n]bouncing around's got me beat.
+So anyway, what was that "GROW" thing[n]supposed to mean?
 
 [msg MSG_002 [Yukari]]
-Incre胤ble. 夷Has venido hasta aqu胤 sin[n]saber qu姻 significa eso?
+Unbelievable. You came all this way[n]without knowing what that meant?
 
 [msg MSG_003 [Junpei]]
-夷Eh? 斡Espera, no me digas que todo el[n]mundo lo descubri吋?
+Huh? Wait, don't tell me everyone else[n]figured it out!?
 
 [sel SEL_004 top]
-Son colores.
-Es un acr吋nimo.
+They're colors.
+It's an acronym.
 
 [msg MSG_005 [Akechi]]
-As胤 es. Cada letra en GROW es una[n]abreviatura para uno de los colores de[n]punto warp.
-Verde, rojo, naranja y blanco. Si tomas[n]la primera letra de cada uno de estos[n]colores, deletrean...
-"GRU謂O"
-As胤 que el peri吋dico nos dec胤a que[n]us茨ramos los puntos de urdimbre verde,[n]rojo, naranja y blanco en ese orden.
+That's right. Each letter in GROW is an[n]abbreviation for one of the warp point[n]colors.
+Green, red, orange, and white. If you[n]take the first letter of each of these[n]colors, they spell...
+"GROW."
+So the paper was telling us to use the[n]green, red, orange, and white warp[n]points in that order.
 
 [msg MSG_006 [Naoto]]
-Lo not姻 una vez que recogimos el papel y[n]vi que los puntos warp eran de color.
-En cuanto a los rompecabezas, esta es[n]una variante bastante popular.
+I noticed it once we picked up the paper[n]and saw that the warp points were[n]color-coded.
+As far as puzzles go, this is a fairly[n]popular variant.
 
 [msg MSG_007 [Ann]]
-Oh, cierto. 斡Por supuesto!
+O-Oh, right. Totally by-the-book, of[n]course!
 
 [msg MSG_008 [Ryuji]]
-斡S胤! Psh, es una hora totalmente[n]amateur, 夷verdad?
+Y-Yeah! Psh, this is totally amateur[n]hour, right?
 
 [msg MSG_009 [Morgana]]
-... No ten胤an idea, 夷verdad.
+...You guys had no idea, did you.
 
 [msg MSG_010 [P4 Hero]]
-Sin embargo, creo que "GROW" es bastante[n]apropiado.
-Despu姻s de todo, todos hemos crecido un[n]poco de lo que pasamos, 夷verdad?
+Still, I think "GROW" is pretty[n]appropriate.
+After all, we've all grown a little from[n]what we went through, right?
 
 [msg MSG_011 [Yosuke]]
-No s姻 c吋mo dices esas cosas con una cara[n]recta... Supongo que por eso eres mi[n]compa隠ero.
+Man, I dunno how you say that kinda[n]stuff with a straight face... Guess[n]that's why you're my partner.
 
 [msg MSG_012 [Rise]]
-De todos modos, misi吋n completa![n]斡Regresemos y reportemos!
+Anyhow, mission complete! Let's head[n]back and report in!
 

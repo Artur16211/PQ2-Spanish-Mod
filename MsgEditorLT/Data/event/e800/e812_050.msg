@@ -1,7 +1,7 @@
 [msg MSG_000 [Ann]]
-Muy bien, son dos.
-斡Estamos un paso m茨s cerca de la hora[n]del churro! 斡Manteng茨moslo!
+Muy bien, ya van dos.
+斡Ahora estamos un paso m茨s cerca de la hora del churro! 斡Sigamos as胤, chicos!
 
 [msg MSG_001 [Futaba]]
-Eso deja s吋lo una m茨s. 斡No decepciones a[n]tu guardia!
+Solo queda una m茨s. No baj姻is la guardia.
 

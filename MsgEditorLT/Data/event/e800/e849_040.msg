@@ -1,32 +1,32 @@
 [msg MSG_000 [Elizabeth]]
-斡Qu姻 choque glorioso! Como fui testigo[n]de tu batalla, pude sentir que mi alma[n]se calienta!
+What a gloriously fiery clash! As I[n]witnessed your battle, I could feel my[n]very soul heating up!
 
 [msg MSG_000_1 [Elizabeth]]
-斡Estaba a pocos minutos de abandonar mi[n]puesto y sumergirse en la fray yo mismo!
+I was moments away from abandoning my[n]post and diving into the fray myself!
 
 [msg MSG_001 [P3 Hero]]
-Ahaha, uh... Cuando lo dices as胤, no[n]suena como una broma...
+Ahaha, uh... When you say it like that,[n]it doesn't sound like a joke...
 
 [msg MSG_002 [Elizabeth]]
-斡Ahora! Parece que has conseguido otra[n]pel胤cula.
+Now then! It seems you've obtained yet[n]another piece of film.
 
 [msg MSG_002_1 [Elizabeth]]
-Finalmente estamos cerrando la verdad[n]detr茨s de ellos. Por favor, d姻melo.
+We're finally closing in on the truth[n]behind them. Please, leave it to me.
 
 [sel SEL_003 top]
-Nos prepararemos.
-Entonces, 夷qui姻n es el siguiente?
+We'll prepare ourselves.
+So who's next?
 
 [msg MSG_004 [Elizabeth]]
-*chuckle* Apenas puedes contener tu[n]emoci吋n, ya veo.
+*chuckle* You can barely contain your[n]excitement, I see.
 
 [msg MSG_005 [Elizabeth]]
-No hay necesidad de ser tan apresurada.[n]Estoy seguro de que lo sabr茨s pronto.[n]Hmhmhm...
+My, there's no need to be so hasty. I'm[n]sure you'll find out soon enough.[n]Hmhmhm...
 
 [msg MSG_006 [Elizabeth]]
-Bueno entonces. Supongo que las[n]formalidades usuales vienen primero...
-Por favor acepte su recompensa por[n]completar esta prueba especial.
+Well then. I suppose the usual[n]formalities come first...
+Please accept your reward for completing[n]this special screening.
 
 [msg MSG_006_1 [Elizabeth]]
-Una vez que est姻n totalmente preparados[n]para una nueva batalla, pido que vengan[n]a hablarme de nuevo.
+Once you are all fully prepared for a[n]new battle, I ask that you come speak to[n]me again.
 

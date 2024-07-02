@@ -1,55 +1,55 @@
 [msg MSG_000 [Rise]]
-夷Est茨n todos listos? 夷Recuerdas la[n]ubicaci吋n del tesoro?
+Is everyone ready? Do you remember the[n]treasure's location?
 
 [msg MSG_001 [Teddie]]
-斡Claro que s胤!
-Esto no es nada. 斡Estaremos all胤 en[n]cualquier momento!
+You betcha!
+This is nothing. We'll be there in[n]bear-ly any time at all!
 
 [msg MSG_002 [Futaba]]
-夷Oh? 夷Qu姻 es esto?
-Hay algo que bloquea el camino hacia el[n]objetivo; no parece que podamos[n]atravesar...
+Oh? What's this...?
+There's something blocking the path to[n]the target; it doesn't look like we're[n]gonna be able to get through...
 
 [msg MSG_003 [Teddie]]
-夷Un cerdo ya?
+A snag already!?
 
 [msg MSG_004 [Morgana]]
-Aficionados.
-A veces as胤, debes mantener la calma y[n]buscar una ruta alternativa.
+Hah, amateurs.
+At times like this, you gotta remain[n]calm and search for an alternate route.
 
 [msg MSG_005 [Teddie]]
-S胤, s胤.
+Grrr... Yeah, yeah.
 
 [msg MSG_006 [Koromaru]]
 Woof...
 
 [sel SEL_007 top]
-"Va a ser un d胤a largo..."
-Ya estoy cansado
+"It's going to be a long day..."
+"I'm tired already."
 Woof...
 
 [msg MSG_008 [Aigis]]
-斡Joker! 夷Tambi姻n puedes entender a[n]Koromaru?
+Joker-san! You can understand[n]Koromaru-san too?
 
 [msg MSG_009 [Yosuke]]
-No, ese era obvio...
+No, that one was obvious...
 
 [msg MSG_010 [Aigis]]
-Koromaru dijo: "Ya estoy cansado", y[n]usted respondi吋 con, "Yo tambi姻n..."
-Joker! No sab胤a que pose胤as una funci吋n[n]de traducci吋n tambi姻n.
+Koromaru-san said, "I'm tired already,"[n]and you responded with, "Me too..."
+Joker-san! I wasn't aware you possessed[n]a translation function as well.
 
 [msg MSG_011 [Yosuke]]
-No creo que estuviera diciendo nada en[n]particular... Espera, 夷s吋lo te has ido?
+Uh, I don't think he was saying anything[n]in particular... Wait, did you just[n]woof!?
 
 [msg MSG_012 [Fuuka]]
-Es un camino m茨s largo, pero hay otra[n]ruta hacia el sur.
-Dicen que lento y constante gana la[n]carrera. No hay necesidad de correr.
+It's a longer path, but there is another[n]route to the south.
+They say slow and steady wins the race.[n]There's no need to rush.
 
 [msg MSG_013 [Teddie]]
-斡Y Teddie toma la delantera! 斡Aqu胤 voy!
+And Teddie takes the lead! Here I gooo!
 
 [msg MSG_014 [Morgana]]
-斡Oye! 斡No sigas adelante!
+Hey! Don't run ahead!
 
 [msg MSG_015 [Ann]]
-No creo que pueda o胤rte...
+I don't think he can hear you...
 

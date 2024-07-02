@@ -1,102 +1,102 @@
 [msg MSG_000 [Teddie]]
-斡Hora de pagar sus cr胤menes! 斡Ven[n]tranquilo y nadie sale herido!
+Time to pay for your crimes! Come[n]quietly and no one gets hurt!
 
 [msg MSG_001 [Ryuji]]
-夷Y qu姻 hacemos? 夷S吋lo cobra y lo agarra?
+So what do we do? Just charge in and[n]grab it?
 
 [msg MSG_002 [Hikari]]
-Espera... Podr胤as asustarlo de nuevo.
-Ven aqu胤.
+Wait... You might scare it again.
+Come here.
 
 [msg MSG_003]
-La mariposa creci吋 m茨s peque隠a, y[n]aterriz吋 en el dedo de Hikari...
+The butterfly grew smaller, and landed[n]on Hikari's finger...
 
 [msg MSG_004 [Hikari]]
-Hee hee... Eres tan linda.
+Hee hee... Aw, you're so cute.
 
 [msg MSG_005 [Yukari]]
-Whoa! 斡Hikari, eso fue incre胤ble! 夷C吋mo[n]hiciste eso?
+Whoa! Hikari-chan, that was amazing! How[n]did you do that!?
 
 [msg MSG_006 [Hikari]]
-Bueno... S吋lo quer胤a hacerlo, y sucedi吋.[n]Tal vez porque es mi pel胤cula...
+Well... I just sort of wanted to do it,[n]and it happened. Maybe because it's my[n]movie...
 
 [sel SEL_007 top]
-Bien hecho.
-Me sorprendiste.
+Good going.
+You surprised me.
 Adorable...
 
 [msg MSG_008 [Hikari]]
-Gracias. Joker. Me alegro de poder[n]ayudar.
+Thank you, Joker. I'm just glad I could[n]help.
 
 [msg MSG_009 [Hikari]]
-Yo tambi姻n me sorprend胤.
+*giggle* I surprised myself, too.
 
 [msg MSG_010 [Hikari]]
-U-um..
-La mariposa... S胤. Creo que tambi姻n es[n]lindo.
+U-Um―
+O-Oh, the butterfly... Yeah. I think[n]it's cute too.
 
 [msg MSG_011 [Junpei]]
-Una chica preciosa, y una peque隠a[n]mariposa en su dedo. Como una princesa[n]de Destinyland...
+A gorgeous girl, and a pretty little[n]butterfly on her finger. Like a princess[n]right outta Destinyland...
 
 [msg MSG_012 [Morgana]]
-Muy bien. 斡Tenemos la mariposa! Misi吋n[n]cumplida!
-Vamos a casa.
+All right. We got the butterfly! Mission[n]accomplished!
+Let's go home.
 
 [msg MSG_013 [Teddie]]
-斡Mira aqu胤! 斡Este lugar est茨 lleno de[n]flores!
+Look over here! This place is chock-full[n]of flowers!
 
 [msg MSG_014 [Haru]]
-斡Tienes raz吋n! Qu姻 aroma tan encantador,[n]tambi姻n... Realmente es un lugar[n]maravilloso.
+You're right! What a lovely scent,[n]too... It really is a wonderful place.
 
 [msg MSG_015]
-Hay colores a nuestro alrededor, y huele[n]como un jard胤n fresco...
+There are colors all around us, and it[n]smells like a fresh garden...
 
 [msg MSG_016 [Yosuke]]
-Oye, hemos estado caminando durante[n]siglos. 夷Por qu姻 no tomamos un descanso[n]aqu胤?
+Hey, we've been walking for ages. Why[n]don't we take a break here?
 
 [sel SEL_017 top]
-Suena bien.
-Mejor retroceder...
+Sounds good.
+Better head back...
 
 [msg MSG_018 [Teddie]]
-斡Hurra! 斡Retrocede para el aperitivo!
+Hurray! Kick back for snacktime!
 
 [msg MSG_019 [P4 Hero]]
-Tambi姻n podr胤amos relajarnos. Es un buen[n]lugar para hacerlo.
+We might as well relax. It's a nice[n]place to do it.
 
 [msg MSG_020 [Teddie]]
-夷Eh? Joker, 夷est茨s enfermo?
-斡Vamos, ser茨 un poco! 斡Quiero hacer un[n]picnic con todos!
+Huh? Aw, Joker, are you homesick?
+C'mon, it'll just be for a little bit! I[n]wanna have a picnic with everyone!
 
 [msg MSG_021 [P4 Hero]]
-Lo siento. 夷Te importa dejar que Teddie[n]tenga esto?
+Sorry. Do you mind letting Teddie have[n]this?
 
 [msg MSG_022]
-Decidimos tomar un descanso en esta[n]ubicaci吋n...
+We decided to take a break in this[n]location...
 
 [msg MSG_023 [Teddie]]
-斡Oh! 斡Veo una mariposa!
+Oh! I see a butterfly!
 
 [msg MSG_024 [Ann]]
-Tambi姻n hay mucho aqu胤. Probablemente ir[n]por las flores, supongo.
+There's a lot here, too. Probably going[n]for the flowers, I guess.
 
 [msg MSG_025 [Teddie]]
-斡Son todos tan hermosos!
-斡Quiero coger mariposas como Hikarin!
+They're all so gorgeous!
+I wanna catch butterflies like Hikarin!
 
 [msg MSG_026 [Teddie]]
-斡Vamos, pandilla! 斡Sigan mis feromonas!
+C'mon over, gang! Just follow my[n]pheromones!
 
 [msg MSG_027]
-Las mariposas est茨n enjambre...
+The butterflies are swarming...
 
 [msg MSG_028 [Hikari]]
-...!
-斡Teddie, no! 斡Atr茨s!
+......!
+Teddie, no! Get back!
 
 [msg MSG_029 [Fuuka]]
-斡Estoy viendo muchas sombras cerca de[n]repente! 斡Prep茨rense para defenderse!
+I'm sensing a lot of Shadows nearby all[n]of a sudden! Everyone, get ready to[n]defend yourselves!
 
 [msg MSG_030 [Futaba]]
-斡Son todas sombras! 斡Aqu胤 vienen!
+They're all Shadows! Here they come!
 

@@ -1,94 +1,94 @@
 [msg MSG_000 [Elizabeth]]
-Veamos... Esta proyecci吋n especial es un[n]poco diferente de lo habitual.
-Bueno, es decir...
-Tu objetivo ser茨 recuperar m雨sica de la[n]pel胤cula de Hikari.
+Let's see... This special screening is a[n]bit different than the usual.
+Well, that is to say...
+Your goal will be to retrieve music from[n]Hikari's movie.
 
 [msg MSG_001 [Akechi]]
-夷Retire la m雨sica? 夷Es metaf吋rico?
+Retrieve music...? Is that metaphorical?
 
 [msg MSG_002 [Elizabeth]]
-斡No! Fue muy literal. Lo dec胤a en serio[n]como dije.
-Dicho esto, la m雨sica no tiene forma[n]f胤sica, por lo que ser胤a dif胤cil traer[n]de vuelta.
-Por favor, eche un vistazo a esto.
+No indeed! It was quite literal. I meant[n]it just as I said.
+That said, music has no physical form,[n]so it would be difficult to bring back.
+So please, take a look at this.
 
 [msg MSG_003 [Naoto]]
-夷Una caja de m雨sica?
+A music box?
 
 [msg MSG_004 [Elizabeth]]
-S胤. Aunque actualmente no tiene m雨sica,[n]me temo.
+Yes. Though it currently holds no music,[n]I'm afraid.
 
 [msg MSG_005 [Akechi]]
-Aha, creo que veo...
-As胤 que se supone que debemos poner la[n]m雨sica en la caja de m雨sica, y traerla[n]de nuevo de esa manera?
+Aha, I think I see...
+So we're supposed to put the music into[n]the music box, and bring it back that[n]way?
 
 [msg MSG_006 [Elizabeth]]
-斡Ding ding ding! 斡Tenemos un ganador!
+Ding ding ding! We have a winner!
 
 [msg MSG_006_1 [Elizabeth]]
-Si quieren saber m茨s, por favor[n]dir胤janse a la pel胤cula y averiguenlo[n]para ustedes mismos.
+If you want to know more, please head to[n]the movie and figure it out for[n]yourselves.
 
 [msg MSG_007 [Yosuke]]
-夷Qu姻? 斡No te saltes la parte m茨s[n]importante! No s姻 por qu姻 esperaba algo[n]diferente...
+What!? Don't just skip the most[n]important part! I don't know why I[n]expected any different...
 
 [msg MSG_008 [Elizabeth]]
-夷Qu姻 clase de m雨sica tocar茨? Esperar姻 en[n]tentadores hasta que lo traigas.
+What kind of music will it play...? I[n]will await on tenterhooks until you[n]bring it forth.
 
 [msg MSG_009 [P3 Fem Protag]]
-Una caja de m雨sica... 斡Eso es!
+A music box... That's it!
 
 [msg MSG_009_1 [P3 Fem Protag]]
-Hey, Fuuka, [f 6 1 30 0 0 0]! 夷No funcionar胤a[n]perfectamente para eso de lo que[n]est茨bamos hablando?
-Ya sabes, lo de Ann!
+Hey, Fuuka, [f 6 1 30 0 0 0]-kun! Wouldn't this[n]work perfectly for that thing we were[n]talking about?
+You know, the thing for Ann!
 
 [sel SEL_010 top]
-夷Qu姻 cosa?
-夷Por animarla?
+What thing?
+For cheering her up?
 
 [msg MSG_011 [P3 Fem Protag]]
-La cosa sobre ayudar a Ann a sentirse[n]mejor! Creo que la m雨sica ser胤a una gran[n]idea.
+The thing about helping Ann feel better![n]I think music would be a great idea.
 
 [msg MSG_012 [P3 Fem Protag]]
-斡S胤! La m雨sica siempre ayuda, 夷verdad?
+Yeah! Music always helps, right?
 
 [msg MSG_013 [Fuuka]]
-S胤, eso suena como una gran idea. Una[n]buena canci吋n puede hacer mucho por tu[n]humor...
+Yes, that sounds like a great idea. A[n]good song can do a lot for your mood...
 
 [msg MSG_014 [P3 Fem Protag]]
-Vamos a conseguir esta m雨sica en la caja[n]de m雨sica, y luego d茨mosla a Ann como[n]regalo.
+Let's get this music in the music box,[n]and then give it to Ann as a present.
 
 [msg MSG_014_1 [P3 Fem Protag]]
-S吋lo me reunir姻 con Elizabeth y[n]preguntar姻 si es bueno d茨rselo a Ann...
+I'll just sidle up to Elizabeth and ask[n]if it's cool to give it to Ann...
 
 [msg MSG_015 [Ann]]
-夷Eh? 夷Alguien dijo mi nombre?
+Huh? Did someone say my name?
 
 [msg MSG_016 [P3 Fem Protag]]
-Huh? 斡No te preocupes por nosotros! 斡No[n]hay nada que ver aqu胤!
+Huh? Oh uh, don't mind us! N-Nothing to[n]see here!
 
 [msg MSG_017 [Ann]]
-Te das cuenta de que eso te hace a雨n m茨s[n]sospechoso...
+Uh, you realize that makes you even more[n]suspicious...
 
 [msg MSG_018 [Elizabeth]]
-Un detalle muy importante que no[n]mencion姻.
+Oh, one very important detail I[n]neglected to mention.
 
 [msg MSG_018_1 [Elizabeth]]
-La m雨sica dentro de la pel胤cula es una[n]cosa ef胤mera y delicada...
+The music within the movie is an[n]ephemeral, delicate thing...
 
 [msg MSG_018_2 [Elizabeth]]
-Incluso despu姻s de capturar la m雨sica,[n]desaparecer茨 si pasa demasiado tiempo.
+Even after capturing the music, it will[n]disappear if too much time passes.
 
 [msg MSG_019 [Akechi]]
-夷Entonces hay un l胤mite de tiempo?
+Meaning there's a time limit, then?
 
 [msg MSG_020 [Elizabeth]]
-Correcto. Para traer la m雨sica de[n]vuelta, debes hacerlo "en 46 pasos de[n]capturarla"
-Tenga en cuenta que si la m雨sica termina[n]desapareciendo de la caja, tendr茨 que[n]volver a intentarlo de nuevo.
-Adem茨s, parece que usar un Goho-M o un[n]Goba-K tambi姻n disipar茨 la m雨sica.
-Una canci吋n es algo delicado.
+Correct. In order to successfully bring[n]the music back, you must do it "within[n]46 steps of capturing it."
+Be warned that if the music ends up[n]disappearing from the box, you will have[n]to go back and try again.
+In addition, it seems that using a[n]Goho-M or a Goba-K will also dispel the[n]music.
+A song is such a delicate thing.
 
 [msg MSG_020_1 [Elizabeth]]
-Ahora bien, espero ansiosamente mi[n]oportunidad de escuchar la canci吋n una[n]vez que est姻 segura en tus manos.
+Now then, I eagerly await my chance to[n]hear the song once it is safely in your[n]hands.
 
 [msg MSG_021 [P3 Fem Protag]]
-Bueno, salgamos y hagamos de esto un[n]姻xito!
+Okay, let's get out there and make this[n]a success!
 

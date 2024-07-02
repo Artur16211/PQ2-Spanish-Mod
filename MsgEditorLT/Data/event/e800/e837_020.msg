@@ -1,39 +1,39 @@
 [msg MSG_000 [Akihiko]]
-斡Ah胤 est茨! 斡Entremos all胤 y aterricemos[n]la primera huelga!
+There it is! Let's get in there and land[n]the first strike!
 
 [msg MSG_001 [Chie]]
-斡Entendido! 斡Estoy listo para aprender[n]de lo mejor!
-斡Espera, no hay camino?
+Roger that! I'm ready to learn from the[n]best!
+...Wait, there's no road!?
 
 [msg MSG_002 [Akihiko]]
 Whoa!
 
 [msg MSG_003 [Makoto]]
-C茨lmense, ustedes dos. Primero, tenemos[n]que evaluar la situaci吋n.
-Vea la orientaci吋n del enemigo. Medir su[n]velocidad, movimientos y posici吋n.[n]Observa, entonces predecir sus acciones.
-Despu姻s de eso, puedes decidir la mejor[n]manera de responder.
+Calm down, you two. First, we need to[n]assess the situation.
+See the enemy's orientation. Gauge its[n]speed, movements, and position. Observe,[n]then predict its actions.
+After that, you can decide the best way[n]to respond.
 
 [msg MSG_004 [Akihiko]]
-Ya veo.
-...
+I see.
+......
 
 [msg MSG_005 [Chie]]
-...
+......
 
 [msg MSG_006 [Morgana]]
-... Est茨n totalmente congelados. Supongo[n]que no pueden pensar en nada.
+...They're totally frozen. Guess they[n]can't think of anything.
 
 [msg MSG_007 [Makoto]]
-En cualquier caso, nuestros ataques no[n]llegar茨n desde aqu胤.
-Tendremos que buscar un camino, primero.
+*sigh* In any case, our attacks won't[n]reach it from here.
+We'll have to look for a way around,[n]first.
 
 [msg MSG_008 [Chie]]
-斡Lo tengo, entrenador!
+Got it, Coach!
 
 [msg MSG_009 [Akihiko]]
-斡Vamos, Chie! 斡Te voy a correr!
+Let's go, Chie! I'll race you!
 
 [msg MSG_010 [Makoto]]
-Bueno, al menos son r茨pidos en sus[n]pies...
-Muy bien. Deber胤amos ir tambi姻n.
+Well, at least they're quick on their[n]feet...
+All right. We should go too.
 

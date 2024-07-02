@@ -1,18 +1,18 @@
 [msg MSG_000 [Ann]]
-Vale... tenemos que buscar pistas en las[n]escenas del crimen, 夷verdad?
+Okay... so we need to look for clues at[n]the crime scenes, right?
 
 [msg MSG_001 [Makoto]]
-Cierto. Elizabeth marc吋 los lugares para[n]nosotros.
+Right. Elizabeth marked down the[n]locations for us.
 
 [msg MSG_002 [Junpei]]
-斡Esto ser茨 f茨cil!
+Heh, this'll be easy!
 
 [msg MSG_002_1 [Junpei]]
-斡Aqu胤 viene Junpei!
+Here comes Junpei!
 
 [msg MSG_003 [Mitsuru]]
-Me alegra que est姻 motivado...
+Well, I'm glad he's motivated...
 
 [msg MSG_003_1 [Mitsuru]]
-Bueno, entonces, vamos.
+Well then, let's get going.
 

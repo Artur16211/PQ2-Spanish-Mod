@@ -1,158 +1,158 @@
 [msg MSG_000 [Rise]]
-斡Bienvenidos, chicos!
+Welcome back, guys!
 
 [msg MSG_001 [Junpei]]
-Phew, estoy totalmente vencido... Nunca[n]quiero volver a correr...
+Phew, I'm totally beat... I never wanna[n]run anywhere again...
 
 [msg MSG_002 [P3 Fem Protag]]
-夷Est茨n bien? 夷Todos siguen vivos?
+You guys okay? Everyone still alive?
 
 [msg MSG_003 [Aigis]]
-Teddie estaba buscando brevemente a los[n]fiordos, pero aparte de eso, no hay[n]problemas importantes.
+Teddie-san was briefly pining for the[n]fjords, but apart from that, no major[n]issues.
 
 [msg MSG_004 [Fuuka]]
-Qu姻 alivio... Estaba tan preocupada por[n]todos ustedes.
+Oh, what a relief... I was so worried[n]for all of you.
 
 [msg MSG_005 [Ryuji]]
-斡Todo fue gracias a nuestros navegantes![n]斡Muchas gracias!
+It was all thanks to our navigators![n]Thanks a bunch!
 
 [msg MSG_006 [Morgana]]
-S胤, fue una ejecuci吋n perfecta. Lo[n]hicimos con seguridad porque ustedes[n]tres estaban sincronizados.
+Yeah, that was perfect execution. We[n]made it out safely because you three[n]were in sync.
 
 [msg MSG_007 [Rise]]
-Lo s姻, 夷verdad? 斡Estamos en la misma[n]longitud de onda!
-Desde que empezamos a trabajar juntos,[n]hemos llegado a comprender el estilo y[n]el ritmo del otro.
+I know, right? We're totally on the same[n]wavelength!
+Ever since we started working together,[n]we've gotten to understand each other's[n]style and pace.
 
 [msg MSG_008 [Fuuka]]
-Cierto. 夷C吋mo lo describo? Nos asentamos[n]en roles. Ahora ni siquiera tenemos que[n]pensarlo.
+Right. How do I describe it...? We sort[n]of settled into roles. Now we don't even[n]have to think about it.
 
 [sel SEL_009 top]
-Un escuadr吋n de 姻lites, 夷eh?
-Trabajas bien juntos.
+A squad of elites, huh?
+You work well together.
 
 [msg MSG_010 [Futaba]]
-Mwehehe. 斡Tenemos una gran qu胤mica, eso[n]es todo!
+Mwehehe. We have great chemistry, that's[n]all!
 
 [msg MSG_011 [P3 Hero]]
-Oh, trajimos todas las partes que[n]ustedes pidieron. 夷Es esto lo que[n]necesitabas?
+Oh, we brought back all the parts you[n]guys requested. Is this what you needed?
 
 [msg MSG_012 [Fuuka]]
-斡Muchas gracias! S胤, esto deber胤a[n]funcionar bien.
-Ahora, tenemos que construirlo...
+Oh, thank you so much! Yes, this should[n]work fine.
+Now, we just have to build it...
 
 [msg MSG_013 [Futaba]]
-Est茨 bien... 夷Crees que podemos hacer[n]algo con todos esos cables?
+Hm, okay... You think we can do[n]something about all those wires?
 
 [msg MSG_014 [Fuuka]]
-ぬゆめゆテ つれろぺれ らぺるろまれ まれろァょ まょ れよるらるまょぽまょろまゆまょろま[n]ほゎまょぺれ ぼよょぽもぼもよょまれデ ぺれウ りゎま ろぺゅ わまん ょよ[n]ょまぼまれもろまゆよれ ろよぽよれ ゅよれ ぼよょぽゎぼろよるまれ[n]ぼよょまぼろぺぽよれテテテ
-夷Podr胤a abrir un nuevo puerto en la red[n]inal茨mbrica, Futaba?
+Mmhm. These parts are in surprisingly[n]good condition, so we might not need all[n]conductors connected...
+Could you open a new port on the[n]wireless network, Futaba-chan?
 
 [msg MSG_015 [Junpei]]
-Mira estos dos nerding fuera. Una mirada[n]a esas partes, y tienen ese brillo en[n]sus ojos...
-A雨n as胤, Risette es un navegante, y no[n]se vuelve loca por esas cosas.
+Whoa, look at these two nerding out. One[n]look at those parts, and they've got[n]that gleam in their eyes...
+Still, Risette's a navigator, and she[n]doesn't go nuts over that stuff.
 
 [msg MSG_016 [Rise]]
-Es verdad, pero...
-Ahora que he llegado a trabajar con[n]otros navegantes, he aprendido muchas[n]cosas nuevas.
+Hmm. I mean, that's true, but...
+Now that I've gotten to work with other[n]navigators, I've learned a lot of new[n]stuff.
 
 [msg MSG_017 [Futaba]]
-Quiero decir, lo mismo aqu胤!
-Nunca pens姻 que estar胤a apoyando con un[n]胤dolo, pero...
-夷A qui姻n le importa si es famosa? Me[n]trata como a un amigo.
-Y tambi姻n Fuuka, as胤 que... tenerlos[n]alrededor me hace m茨s confiado. Como si[n]tuviera que tomarlo en serio.
+I-I mean, same here!
+I never thought I'd be running support[n]with an idol, but...
+At this point, who cares if she's[n]famous? She treats me like a friend.
+And so does Fuuka, so... having them[n]around makes me more confident. Like I[n]gotta take it seriously.
 
 [msg MSG_018 [Rise]]
-斡Correcto! Puedo navegar solo, pero con[n]ambos de mi lado, me siento mucho m茨s[n]fuerte.
-夷No crees que podemos hacer mucho m茨s[n]con los tres?
-No estamos mejorando solos... Nos[n]ayudamos.
+Right! I can navigate by myself, but[n]with both of them on my side, I feel so[n]much stronger.
+Don't you think we can do so much more[n]with all three of us?
+We're not just getting better on our[n]own... We help each other.
 
 [msg MSG_019 [Fuuka]]
-Rise, Futaba... Siento lo mismo hacia[n]ustedes dos.
-Despu姻s de todo, no somos solo[n]compa隠eros de equipo. 斡Somos amigos!
+Rise-chan, Futaba-chan... I feel the[n]same way towards you two.
+We're not just teammates, after all.[n]We're friends!
 
 [msg MSG_020 [Futaba]]
-F-Amigos...
-Mwehehehe... Sin conexi吋n Y amigos en[n]l胤nea!
+F-Friends...
+Mwehehe... Offline AND online friends!
 
 [msg MSG_021 [Fuuka]]
-Tengo una sugerencia...
-Creo que hay otras formas de fortalecer[n]nuestra navegaci吋n adem茨s de usar esa[n]m茨quina.
+Oh, I have a suggestion...
+I think there are other ways we can[n]strengthen our navigation besides using[n]that machine.
 
 [msg MSG_022 [Futaba]]
-夷Qu姻, sin este dispositivo de[n]comunicaciones?
+What, without this comms device?
 
 [msg MSG_023 [Fuuka]]
-Um... Tal vez m茨s como adem茨s.
-Si pudi姻ramos agregar su informaci吋n de[n]combate m茨s r茨pido, podr胤amos hacer m茨s[n]para ayudarles en la batalla, 夷verdad?
+Um... Maybe more like in addition to it.
+If we could aggregate their combat[n]information faster, we could do more to[n]help them in battle, right?
 
 [msg MSG_024 [Futaba]]
-Con el dispositivo de comunicaciones,[n]podemos ver m茨s, y conseguir una mejor[n]idea de la situaci吋n de batalla.
-Y dependiendo de lo que est姻 pasando,[n]tal vez podr胤amos usar nuestras Personas[n]para apoyarlas f胤sicamente.
+With the comms device, we can see more,[n]and get a better idea of the battle[n]situation.
+And depending on what's happening, maybe[n]we could use our Personas to physically[n]support them.
 
 [msg MSG_025 [Rise]]
-Apoyo f胤sico... Entonces, 夷como cosas de[n]recuperaci吋n de sanaci吋n y enfermedad?
+Physical support... So, like healing and[n]ailment recovery stuff?
 
 [msg MSG_026 [Futaba]]
-斡S胤! 斡As胤 es! 斡Esta ser茨 una gran ayuda[n]para todos!
-Bien, vamos a golpear este gadget[n]juntos! 斡Llamo a una reuni吋n de[n]navegantes!
+Yep! That's right! This'll be a big help[n]for everyone!
+Okay, let's slap this gadget together! I[n]call a navigator meeting!
 
 [msg MSG_027 [Yosuke]]
-Ah胤 van con las partes. Son como un[n]hurac茨n.
-Bueno, tenemos todo lo que quer胤an, as胤[n]que supongo que esta solicitud est茨[n]hecha.
+Aaand there they go with the parts.[n]They're like a hurricane.
+Well, we got everything they wanted, so[n]I guess this request is done.
 
 [msg MSG_028 [Yusuke]]
-Espera. Siento que olvidamos algo[n]importante.
+Hold on. I feel like we're forgetting[n]something important.
 
 [msg MSG_029 [Yosuke]]
-夷Eh? 夷Algo que olvidamos?
+Huh? Something we forgot?
 
 [sel SEL_030 top]
-Reportando a Elizabeth.
-No lo s姻.
-夷La cena de esta noche?
+Reporting to Elizabeth.
+I don't know.
+Tonight's dinner?
 
 [msg MSG_031 [Yosuke]]
-斡Oh! 斡Correcto!
+Oh! Right!
 
 [msg MSG_032 [Yosuke]]
-Ahora que lo mencionas, tal vez hab胤a[n]una cosa m茨s... 夷pero qu姻?
+Now that you mention it, maybe there was[n]one more thing... but what?
 
 [msg MSG_033 [Akechi]]
-Si tuviera que adivinar, 夷le informar胤a[n]a Elizabeth?
+If I had to guess, it'd be reporting to[n]Elizabeth?
 
 [msg MSG_034 [Yosuke]]
-斡Oh, cierto! Hombre, he estado tan[n]ausente 雨ltimamente...
-斡Espera! 斡Eso no es de lo que estoy[n]hablando!
+Oh, right! Man, I've been so absent-[n]minded lately...
+Wait, no, dang it! That's not what I'm[n]talking about!
 
 [msg MSG_035 [Akechi]]
-Si tuviera que adivinar, 夷le informar胤a[n]a Elizabeth?
+If I had to guess, it'd be reporting to[n]Elizabeth?
 
 [msg MSG_036 [Elizabeth]]
-Hmhmhm... Y por fin recuerdas mi[n]existencia...
+Hmhmhm... And so you finally remember my[n]existence...
 
 [msg MSG_037 [Yosuke]]
-夷De d吋nde vienes?
+What the―Geez, where'd you come from!?
 
 [msg MSG_038 [Elizabeth]]
-He estado aqu胤 detr茨s de ti, todo este[n]tiempo...
-Como un cachorro abandonado, esperando[n]sin ayuda, pregunt茨ndose por qu姻 el[n]maestro no ha vuelto...
+I've been here behind you, this whole[n]time...
+Like an abandoned puppy, waiting[n]helplessly, wondering why the master has[n]not returned...
 
 [msg MSG_039 [P3 Hero]]
-Uh... Lo siento.
+Uh... Sorry about that.
 
 [msg MSG_040 [Elizabeth]]
-No, no... Est茨 bien... No te[n]preocupes...
-Ni siquiera cruz吋 mi mente para[n]otorgarles maldiciones eternas. Ni una[n]vez.
-Adem茨s, esta proyecci吋n me permiti吋 ver[n]algo maravilloso.
-Ahora bien, aqu胤 est茨 tu recompensa. Por[n]favor, ac姻ptalo.
+No, no... It's fine... Don't worry...
+It did not even cross my mind to bestow[n]everlasting curses upon you. Not once.
+Besides, this screening allowed me a[n]glimpse of something wonderful indeed.
+Now then, here is your reward. Please[n]accept it.
 
 [msg MSG_041 [Elizabeth]]
-El trabajo en equipo de los navegantes[n]fue simplemente excepcional. Espero[n]ansiosamente sus nuevas explotaciones.
+The navigators' teamwork was simply[n]outstanding. I eagerly await their[n]further exploits.
 
 [msg MSG_042 [Morgana]]
-Si los lazos de los navegantes se[n]fortalecen, su apoyo ser茨 a雨n mejor.
-Fue definitivamente una prueba especial[n]productiva, de todos modos.
+If the navigators' bonds strengthen,[n]their support will be even better.
+It was definitely a productive special[n]screening, anyway.
 
 [msg MSG_043 [Ryuji]]
-斡S胤! 斡Mantengamos esto arriba!
+Yeah! Let's keep this up!
 

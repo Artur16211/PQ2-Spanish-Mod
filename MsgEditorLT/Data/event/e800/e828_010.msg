@@ -1,38 +1,38 @@
 [msg MSG_000 [Elizabeth]]
-El escenario para esta pr吋xima prueba[n]especial ser茨 A.I.G.I.S.
-El papel principal ser茨 desempe隠ado por[n]un solitario robot roto. Parece que ha[n]perdido un componente...
-Su tarea es localizar dicho componente y[n]devolver el robot a la normalidad en un[n]final t茨ctil...
+The stage for this next special[n]screening will be A.I.G.I.S.
+The lead role will be played by a lone,[n]broken robot. It seems it has lost a[n]certain component...
+Your task is to locate said component[n]and return the robot to normal in a[n]touching finale...
 
 [msg MSG_001 [P3 Fem Protag]]
-Un robot roto, 夷eh? Espero que podamos[n]arreglarlo pronto.
+A broken robot, huh...? I hope we can[n]fix it soon.
 
 [msg MSG_002 [Koromaru]]
-Arf, 斡斡Arf!
+Arf, arf!
 
 [msg MSG_003 [Aigis]]
-Koromaru dice que le gustar胤a ir con[n][f 6 1 27 0 0 0].
+Koromaru-san says he would like to go[n]with [f 6 1 27 0 0 0]-san.
 
 [msg MSG_004 [P3 Fem Protag]]
-Huh? 夷Yo?
+Huh? Me?
 
 [msg MSG_005 [Koromaru]]
-斡Arf!
+Arf!
 
 [msg MSG_006 [Ken]]
-Koromaru dijo que estaba interesado en[n]ti.
-Estoy seguro de que es una raz吋n por la[n]que quiere venir.
+Koromaru did say he was interested in[n]you, [f 6 1 27 0 0 0]-san.
+I'm sure that's one reason why he wants[n]to come along.
 
 [msg MSG_007 [P3 Fem Protag]]
-*giggle* Supongo que estoy feliz de[n]escuchar eso.
-斡Vamos, Koromaru! Oh, eres bienvenido a[n]unirte a nosotros, Ken.
+*giggle* I guess I'm sort of happy to[n]hear that.
+All right, let's go, Koromaru! Oh,[n]you're welcome to join us, Ken-kun.
 
 [msg MSG_008 [Ken]]
-夷Eh? 斡Claro!
+Huh!? Uh... Sure!
 
 [msg MSG_009 [Aigis]]
-Yo tambi姻n ir姻. Por favor, perm胤teme[n]acompa隠arte tambi姻n.
+I will go too. Please allow me to[n]accompany you as well.
 
 [msg MSG_010 [Elizabeth]]
-Creo que encontrar al robot ser茨[n]bastante f茨cil... La parte dif胤cil ser茨[n]localizar su componente desaparecido.
-Estoy deseando una conclusi吋n muy[n]satisfactoria. Buena suerte a todos.
+I believe finding the robot will prove[n]rather easy... The difficult part will[n]be locating its missing component.
+I'm looking forward to a most[n]satisfactory conclusion. Good luck to[n]you all.
 

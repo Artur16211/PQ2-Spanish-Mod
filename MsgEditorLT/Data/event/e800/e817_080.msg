@@ -1,128 +1,128 @@
 [msg MSG_000 [Junpei]]
-Bueno, eso es todo. Hombre, esta vez[n]ense隠姻 esas sombras...
+Well, that's that. Man, I really showed[n]those Shadows this time...
 
 [msg MSG_001 [Mitsuru]]
-斡Iori!
+Iori!
 
 [msg MSG_002 [Junpei]]
-斡Eek! 斡Lo siento! 斡Tienes raz吋n, estaba[n]jugando demasiado!
+Eek...! Sorry! You're right, I was[n]messin' around too much!
 
 [msg MSG_003 [Mitsuru]]
-No, solo quiero decir... buen trabajo.
+No, I just want to say... good job.
 
 [msg MSG_003_1 [Mitsuru]]
-T雨 tambi姻n, Takeba. Bien hecho.
+You too, Takeba. Well done.
 
 [msg MSG_004 [Yukari]]
-Gracias...
+Oh, uh, thanks...
 
 [msg MSG_005 [Ryuji]]
-斡Gracias, Kirijo!
+Thanks, Kirijo-san!
 
 [msg MSG_006 [Ann]]
-夷Est茨s bien, Mitsuru?
+Are you okay, Mitsuru-san?
 
 [msg MSG_007 [Mitsuru]]
-S胤, estoy bien, gracias a todos ustedes.
+Yes, I'm fine, thanks to all of you.
 
 [msg MSG_008 [Makoto]]
-Creo que lo hiciste muy bien, 夷no?
+*chuckle* I think you did pretty well,[n]don't you?
 
 [msg MSG_009 [Mitsuru]]
-夷Te refieres al cebo? S吋lo funcion吋[n]porque ten胤a la ayuda de todos.
+You mean as the bait? That only worked[n]because I had everyone's help.
 
 [msg MSG_010 [Makoto]]
-No, me refer胤a a toda la operaci吋n.[n]Pens姻 que tu equipo estaba perfectamente[n]coordinado contigo.
+No, I meant the whole operation. I[n]thought your team coordinated with you[n]perfectly.
 
 [msg MSG_010_1 [Makoto]]
-Incluso Iori. Dirigi吋 la carga cuando[n]lanzamos la trampa.
+Even Iori-kun. He led the charge when we[n]sprung the trap.
 
 [msg MSG_011 [Mitsuru]]
-Hrm... 夷Pero no s吋lo estaba haciendo eso[n]porque ten胤a miedo de que me enojara con[n]姻l?
+Hrrm... But wasn't he only doing that[n]because he was afraid of me getting[n]angry at him?
 
 [sel SEL_012 top]
-No es eso.
-Es posible.
-Lo inspiraste.
+That's not it.
+It's possible.
+You inspired him.
 
 [msg MSG_013 [Makoto]]
-Right. Creo que todos notaron su[n]determinaci吋n en liderar el grupo.
+Right. I think everyone noticed your[n]determination in leading the group.
 
 [msg MSG_013_1 [Makoto]]
-Por eso todos se levantaron.
+That's why they all stepped up.
 
 [msg MSG_014 [Makoto]]
-Bueno, eso podr胤a haber sido parte de[n]ello... pero dudo que fuera la 雨nica[n]raz吋n.
+Well, that might've been part of it...[n]but I doubt that was the only reason.
 
 [msg MSG_014_1 [Makoto]]
-Creo que todos notaron su determinaci吋n[n]en liderar el grupo.
+I think everyone noticed your[n]determination in leading the group.
 
 [msg MSG_014_2 [Makoto]]
-Por eso todos se levantaron.
+That's why they all stepped up.
 
 [msg MSG_015 [Makoto]]
-ぢもまるろよテ ぢるまよ りゎま ろよぽよ まゅ ゆゎょぽよ れま ぽぺ ぼゎまょろぺ ぽま[n]りゎまデ ぺゎょりゎま まるまれ まれろるもぼろよデ れもまょろまれ ゎょ むるぺょ[n]れまょろもぽよ ぽま るまれらよょれぺほもゅもぽぺぽ らよる ろゎ まりゎもらよテ
+Right. I think everyone realizes that,[n]although you're strict, you feel a great[n]sense of responsibility for your team.
 
 [msg MSG_016 [Mitsuru]]
-Veo... Muy bien, entonces.
+I-I see... Very well, then.
 
 [msg MSG_016_1 [Mitsuru]]
-A雨n as胤, preferir胤a que me abrieran un[n]poco m茨s...
+Still, I would prefer if they opened up[n]to me a little more...
 
 [msg MSG_017 [Ann]]
-夷Abriste...? Tal vez s吋lo necesitas[n]crear alguna oportunidad.
+Opened up...? Maybe you just need to[n]create some kind of opportunity.
 
 [sel SEL_018 top]
-夷Como un pasatiempo compartido?
-Come dulces con todos.
+Like a shared hobby?
+Eat some sweets with everyone.
 
 [msg MSG_019 [Ryuji]]
-斡Ah胤 tienes! Es f茨cil hablar de cosas[n]que ambos est茨n interesados.
+There you go! It's easy to talk about[n]things you're both interested in.
 
 [msg MSG_020 [Mitsuru]]
-Un hobby... Supongo que me gustan las[n]motos...
+A hobby... I suppose I like[n]motorcycles...
 
 [msg MSG_021 [Ryuji]]
-斡Eso es genial! 斡A los chicos les[n]encantan las motos! 斡Son geniales!
+Hey, that's great! Guys love[n]motorcycles! They're cool as hell!
 
 [msg MSG_021_1 [Ryuji]]
-Nunca mir姻 a Queen de la misma manera[n]despu姻s de ver a su mueca por las[n]sombras en su moto.
+I never looked at Queen the same way[n]after seeing her mow down Shadows on her[n]motorcycle.
 
 [msg MSG_022 [Makoto]]
-斡Skull! 斡No digas eso!
+Skull! Don't say that...!
 
 [msg MSG_023 [Mitsuru]]
-夷Matarse abajo? No estoy seguro de lo[n]que quieres decir, pero no creo que Iori[n]tenga mucho inter姻s en motos.
+...Mow down? I'm not sure what you mean,[n]but I don't think Iori has much interest[n]in motorcycles.
 
 [msg MSG_024 [Ann]]
-S胤... No parece que t雨 y Junpei[n]compartieran intereses...
-Si ese es el caso, tu 雨nica opci吋n[n]podr胤a ser intentar hacer algo que le[n]guste...
+Yeah... It doesn't seem like you and[n]Junpei-kun would share any interests...
+If that's the case, your only choice[n]might be to try doing something he[n]likes...
 
 [msg MSG_025 [Ann]]
-斡Buena idea! 斡La Queen y yo empezamos a[n]llevarnos bien despu姻s de que nos[n]fu姻ramos y comimos cr!
+Oh, good idea! Queen and I started[n]getting along again after we went and[n]ate cr○pes together!
 
 [msg MSG_026 [Mitsuru]]
-Dulces... Me gusta el t姻 de la tarde.[n]Quiz茨s invite a Iori la pr吋xima vez...
+Sweets... I do enjoy afternoon tea.[n]Perhaps I'll invite Iori next time...
 
 [msg MSG_027 [Makoto]]
-Mmm... Bueno, lo disfrutamos, pero, por[n]alguna raz吋n, eso no suena exactamente[n]como lo de Iori...
-En este momento, tu 雨nica opci吋n podr胤a[n]ser intentar hacer algo que le guste...
+Hmm... Well, we enjoyed that, but, for[n]some reason, that doesn't exactly sound[n]like Iori-kun's thing...
+At this point, your only choice might be[n]to try doing something he likes...
 
 [msg MSG_028 [Mitsuru]]
-Algo que le gusta... Eso ser茨 dif胤cil.
+Something he likes... That will be[n]difficult.
 
 [msg MSG_028_1 [Mitsuru]]
-夷Imagino que ten胤as que superar un[n]problema similar?
+I imagine you had to overcome a similar[n]problem?
 
 [msg MSG_029 [Makoto]]
-S胤. Al principio, no era m茨s que un[n]mont吋n de cabeza y malentendido casi[n]todos los d胤as.
+Yes. At first, it was nothing but a[n]bunch of headbutting and[n]misunderstanding almost every day.
 
 [msg MSG_029_1 [Makoto]]
-Pero las cosas funcionar茨n eventualmente[n]mientras no te rindas.
+But things will work out eventually as[n]long as you don't give up.
 
 [msg MSG_030 [Mitsuru]]
-Ya veo... Creo que estoy empezando a[n]entenderte un poco mejor ahora.
+I see... I think I'm beginning to[n]understand you a little better now.
 
 [msg MSG_031 [Makoto]]
-*chuckle* Bueno, deber胤amos regresar[n]ahora.
+*chuckle* Well, we should be heading[n]back now.
 

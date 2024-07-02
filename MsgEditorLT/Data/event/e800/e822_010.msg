@@ -1,78 +1,78 @@
 [msg MSG_000 [Elizabeth]]
-Esta pr吋xima proyecci吋n especial toma la[n]forma de una pel胤cula de acci吋n[n]impactante.
-Tu destino ser茨 A.I.G.I.S.
-Y tu tarea ser茨 derribar tres M茨quinas[n]Guardi茨n.
+This next special screening takes the[n]form of a pulse-pounding action film.
+Your destination will be A.I.G.I.S.
+And your task will be to take down three[n]Guardian Machines.
 
 [msg MSG_001 [Ryuji]]
-Son esos grandes, 夷s胤? Entonces ser茨[n]mejor que acabemos nuestro juego.
+They're those big ones, yeah...? We[n]better step up our game, then.
 
 [msg MSG_002 [Morgana]]
-S胤. 斡No hay lugar para los errores[n]cuando eres parte de los Fantasmas!
+Yeah. There's no room for mistakes when[n]you're part of the Phantom Thieves!
 
 [msg MSG_003 [Ken]]
-斡Espera!
+Um, wait!
 
 [msg MSG_004 [Ryuji]]
-夷Hm?
+Hm?
 
 [msg MSG_005 [Ken]]
-Si no te importa, 夷crees que podr胤as[n]ense隠arme m茨s sobre los Ladrones[n]Fantasma durante esta proyecci吋n?
+If you don't mind, do you think you[n]could teach me more about the Phantom[n]Thieves during this screening?
 
 [sel SEL_006 top]
-夷Por qu姻?
-夷Quieres unirte?
+Why?
+You looking to join?
 
 [msg MSG_007 [Ryuji]]
-夷Quieres ser como nosotros?
+Oh, you wanna be like us?
 
 [msg MSG_008 [Morgana]]
-Un ladr吋n fantasma esperanzador, 夷eh?[n]Bueno, ciertamente tienes potencial.
-Tendremos que ver c吋mo sigues con mi[n]liderazgo estricto...
+A phantom thief hopeful, huh...? Well,[n]you've certainly got potential.
+We'll just have to see how you keep up[n]with my strict leadership...
 
 [msg MSG_009 [Ken]]
-No quiero unirme...! 斡Prefiero mirar y[n]aprender!
+I-I don't exactly want to join...! I'd[n]rather just watch and learn!
 
 [msg MSG_010 [Morgana]]
-Un deseo de aprender es algo[n]maravilloso.
+Mmm, a desire to learn is a wonderful[n]thing.
 
 [msg MSG_011 [Ryuji]]
-Entonces, 夷qu姻 tal si te ense隠amos el[n]c吋digo de los Ladrones Fantasma aqu胤,[n]ahora mismo?
+Then, how about we teach you the code of[n]the Phantom Thieves―right here, right[n]now?
 
 [sel SEL_012 top]
-夷Qui姻n te hizo el l胤der?
-夷C吋digo?
-斡Te llamaremos Kid Phantom!
+Who made you the leader?
+Code?
+We'll call you Kid Phantom!
 
 [msg MSG_013 [Ann]]
-S胤. 夷No crees que te est茨s llevando un[n]poco?
-No tienes que decir que s胤 si no[n]quieres, Ken.
+Yeah. Don't you think you're getting a[n]little carried away...?
+You don't have to say yes if you don't[n]want to, Ken-kun.
 
 [msg MSG_014 [Ken]]
-Est茨 bien.
-Quiero saber m茨s sobre el Ladrones[n]Fantasma, sin embargo, as胤 que estar胤a[n]feliz si accedieras a ense隠arme.
+I-It's okay.
+I do want to know more about the Phantom[n]Thieves, though, so I'd be happy if you[n]agreed to teach me.
 
 [msg MSG_015 [Ryuji]]
-Es como... Bueno... Sabes lo que quiero[n]decir, 夷verdad, Morgana?
+It's like, uh... Well... You know what I[n]mean, right, Morgana?
 
 [msg MSG_016 [Morgana]]
-夷Eh? S胤. Por supuesto.
+Huh? O-Oh, yeah. Absolutely.
 
 [msg MSG_017 [Ann]]
-Siento lo de esos dos, Ken... No tienes[n]que decir que s胤 si no quieres.
+Sorry about those two, Ken-kun... You[n]don't have to say yes if you don't want[n]to.
 
 [msg MSG_018 [Ken]]
-No, est茨 bien. Es mejor aprender por[n]experiencia de todos modos. Puedo[n]manejarlo.
+No, it's okay. It's better to learn by[n]experience anyway. I can handle it.
 
 [msg MSG_019 [Ken]]
-斡Deja de tratarme como un ni隠o!
+Hey, stop treating me like a kid!
 
 [msg MSG_020 [Ann]]
-S胤, deja de molestarlo. No tiene que[n]unirse si no quiere...
+Yeah, stop bugging him. He doesn't have[n]to join if he doesn't want to...
 
 [msg MSG_021 [Ken]]
-Oh... Bueno, no me importar胤a verlos un[n]poco.
+Oh... Well, I wouldn't mind watching you[n]guys for a bit.
 
 [msg MSG_022 [Elizabeth]]
-Bueno, bueno, bueno... Esto se est茨[n]conformando para ser una proyecci吋n m茨s[n]vertiginosa.
-Ahora bien, les deseo a todos lo mejor[n]de la suerte.
+Well, well, well... This is shaping up[n]to be a most eventful screening.
+Now then, I wish all of you the best of[n]luck.
 

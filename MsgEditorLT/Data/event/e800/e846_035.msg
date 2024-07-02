@@ -1,13 +1,13 @@
 [msg MSG_000 [Fuuka]]
-Quieres recapturar la m雨sica en la caja[n]de m雨sica, 夷verdad?
+You want to recapture the music in the[n]music box, right?
 
 [msg MSG_000_1 [Fuuka]]
-Una vez que lo hayamos capturado,[n]tenemos que "regresar al Cine dentro de[n]46 pasos"!
+Once we've captured it, we have to[n]"return to the theater within 46 steps"!
 
 [msg MSG_001 [Fuuka]]
-Pongamos la m雨sica en la caja de m雨sica[n]una vez m茨s.
-Una vez que lo hayamos capturado,[n]tenemos que "regresar al Cine dentro de[n]46 pasos"!
+Let's put the music into the music box[n]one more time.
+Once we've captured it, we have to[n]"return to the theater within 46 steps"!
 
 [msg MSG_001_1 [Fuuka]]
-斡Hag茨moslo al final esta vez!
+Let's make it to the end this time!
 

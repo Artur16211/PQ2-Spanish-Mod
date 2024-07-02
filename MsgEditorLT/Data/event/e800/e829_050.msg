@@ -1,91 +1,91 @@
 [msg MSG_000 [Elizabeth]]
-Los objetivos han sido eliminados.
-Una feroz batalla contra poderosos[n]tiranos... Podr胤as haber hecho historia[n]de cine.
-Hay pocas cosas m茨s agradables que[n]enraizar a mi equipo con una boca llena[n]de palomitas.
+The targets have been eliminated.
+A fierce battle against mighty[n]tyrants... You may very well have made[n]film history.
+Ah, there are few things more enjoyable[n]than rooting for my team with a mouth[n]full of popcorn.
 
 [msg MSG_001 [Junpei]]
-Me alegra que se divierta...
+Glad she's having fun...
 
 [msg MSG_002 [Elizabeth]]
-Aqu胤 est茨 su recompensa por este tiempo.
-Esto te permitir茨 convocar a la Persona[n]"Fenrir"
-Con suerte, lo pondr茨s a buen uso.
+Here is your reward for this time.
+This will allow you to summon the[n]Persona "Fenrir."
+Hopefully, you will put it to good use.
 
 [msg MSG_003 [Morgana]]
-斡Muy bien, esto ayudar茨 mucho!
+All right, this'll help a lot!
 
 [msg MSG_004 [Yosuke]]
-Creo que los MVP eran Ken y Futaba.
-Esos eran unos oponentes locos, pero nos[n]mantuvieron en marcha.
+I think the MVPs this time were Ken and[n]Futaba-chan.
+Those were some crazy-tough opponents,[n]but they kept us going.
 
 [msg MSG_005 [Rise]]
-S胤. Eran s雨per motivadores.
-夷No ten胤as miedo, Ken? Esos[n]Tyranniqueens eran enormes.
+Haha, yeah. They were super motivating.
+Weren't you afraid, though, Ken-kun?[n]Those Tyranniqueens were huge.
 
 [msg MSG_006 [Ken]]
-Haha, necesitar茨 m茨s que eso para[n]asustar a Featherman.
-Adem茨s, pens姻 que tal vez podr胤a recrear[n]esa famosa escena donde luchan contra el[n]monstruo gigante.
+Haha, it'll take more than that to scare[n]Featherman.
+Besides, I thought maybe I could[n]recreate that famous scene where they[n]fight the giant monster.
 
 [msg MSG_007 [Rise]]
-夷Escena famosa?
+Famous scene?
 
 [msg MSG_008 [Futaba]]
-Featherman Temporada 1, Episodio 13! 斡Un[n]episodio de m茨s dios a este d胤a!
-Normalmente luchan como robots cuando un[n]enemigo crece todo grande...
+Featherman Season 1, Episode 13! A[n]god-tier episode to this day!
+They usually fight as robots when an[n]enemy grows all big...
 
 [msg MSG_009 [Yosuke]]
-S胤. Todos salen de su base y se[n]conectan, 夷verdad?
+Oh, yeah. They all come out of their[n]base and connect, right?
 
 [msg MSG_010 [Ken]]
-S胤, pero esta vez los robots estaban[n]bajo inspecci吋n, y no pod胤an usarlos.
+Yeah, but this time the robots were[n]under inspection, and they couldn't use[n]them.
 
 [msg MSG_011 [Yosuke]]
-Esa es una situaci吋n extra隠amente[n]realista para ese show...
+That's a weirdly realistic situation for[n]that show...
 
 [msg MSG_012 [Futaba]]
-夷Y qu姻 hacen nuestros h姻roes?
-斡Se juntan y derrotan al monstruo como[n]nosotros!
+And what do our heroes do!?
+They band together and defeat the[n]monster just like we did!
 
 [msg MSG_013 [Ken]]
-Con cada 雨ltima onza de su coraje,[n]corren hasta sus pies y hacen un ataque[n]especial!
-斡Esa escena es genial! Me sentar胤a all胤[n]y lo mirar胤a una y otra vez.
-Fue tan emocionante poder hacer algo[n]as胤.
+With every last ounce of their courage,[n]they run up to its feet and do a special[n]attack!
+That scene is great! I would sit there[n]and watch it over and over.
+It was so exciting to actually be able[n]to do something like that.
 
 [msg MSG_014 [Ann]]
-No entiendo lo que est茨 pasando, pero[n]definitivamente suena genial.
+I... don't really get what's going on,[n]but it definitely sounds cool.
 
 [msg MSG_015 [Futaba]]
-斡Si quieres, puedo prestarte el DVD![n]斡Hay muchos m茨s episodios que ver!
+If you want, I can lend you the DVD![n]There's a lot more episodes to see!
 
 [sel SEL_016 top]
-Tal vez la pr吋xima vez...
-Por favor.
+Maybe next time...
+Please do.
 
 [msg MSG_017 [P3 Hero]]
-Haha, te tomar姻 en eso. Podemos verlo[n]juntos, Ken.
+Haha, I'll take you up on that. We can[n]watch it together, Ken.
 
 [msg MSG_018 [P3 Hero]]
-Hahaha, 夷est茨s saltando en el carro de[n]banda, Feather Joker?
+Hahaha, are you jumping on the[n]bandwagon, Feather Joker?
 
 [msg MSG_019 [P3 Hero]]
-O sea, buen trabajo. Cuento con ustedes.
+Either way, good job, everyone. I'm[n]counting on you guys.
 
 [msg MSG_020 [Ken]]
-斡Por supuesto!
+Of course!
 
 [msg MSG_021 [Futaba]]
-斡S胤, d姻janoslo!
+Yeah, leave it to us!
 
 [msg MSG_022 [Kanji]]
-Hola... 夷Crees que puedo entrar en eso?
-Ser姻 Amarillo, el que le gusta el[n]curry...
+H-Hey... You think I can get in on that?
+I'll be Yellow, the one that likes[n]curry...
 
 [msg MSG_023 [Futaba]]
-Whoa! 斡Es el monstruo del Skull! 斡Atr茨s,[n]demonio!
+Whoa! It's the big skull monster! Back[n]off, you demon!
 
 [msg MSG_024 [Ken]]
-Una bestia persistente, 夷no? 斡Te[n]derrotaremos esta vez!
+Persistent beast, aren't you!? We'll[n]defeat you this time!
 
 [msg MSG_025 [Kanji]]
-斡Grrrahh! 斡Dije que quiero ser Amarillo!
+Grrrahh! I said I wanna be Yellow!
 

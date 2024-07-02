@@ -1,31 +1,31 @@
 [msg MSG_000 [Futaba]]
-Parece que vamos al final, chicos!
+Looks like we're comin' up on the end,[n]guys!
 
 [msg MSG_001 [Junpei]]
-Ya era hora... As胤 que este es nuestro[n]huevo de Pascua, 夷eh?
-Espera, 夷qu姻?
+About time... So this is our Easter egg,[n]huh!?
+...Wait, what?
 
 [sel SEL_002 top]
-Es s吋lo una foto.
-T姻cnicamente es un huevo.
+It's just a picture.
+It's... technically an egg.
 
 [msg MSG_003 [Junpei]]
-夷Eso es todo? 夷Y mi mill吋n de yenes?
+That's all!? What about my million[n]yen...?
 
 [msg MSG_004 [Ann]]
-Ahaha, eso es un poco de decepci吋n, pero[n]no est茨 mal, 夷verdad?
-Intentando encontrarlo fue divertido.[n]Fue como un juego.
+Ahaha, that's a bit of a letdown, but[n]it's not all bad, right?
+Trying to find it was kinda fun. It was[n]like a game.
 
 [msg MSG_005 [Haru]]
-Creo que tengo una mejor idea de c吋mo[n]era la Pascua para ti, Panther.
+I think, now, I have a better idea of[n]what Easter was like for you, Panther.
 
 [msg MSG_006 [Futaba]]
-Supongo que los videojuegos no son los[n]雨nicos tipos de juegos.
-Necesitar姻 familiarizarme con los otros[n]tipos m茨s participativos tambi姻n.
+Hmm, I guess video games aren't the only[n]kinds of games out there.
+I'll need to familiarize myself with the[n]other, more participatory types too.
 
 [msg MSG_007 [Junpei]]
-夷Crees que si lo hacemos por segunda[n]vez, un jefe secreto aparecer茨 y soltar茨[n]el verdadero tesoro? 夷Quiz茨?
+Y-You think if we do it a second time, a[n]secret boss will show up and drop the[n]real treasure...? Maybe?
 
 [msg MSG_008 [Futaba]]
-D姻jalo, Junpei. El juego termin吋...
+Give it up, Junpei. The game's over...
 

@@ -1,119 +1,119 @@
 [msg MSG_000 [Elizabeth]]
-Se ha a隠adido otra prueba especial.
-Parece que esta proyecci吋n tendr茨 lugar[n]dentro de la ciudad de Kamo.
-Habiendo perdido a su h姻roe, los pueblos[n]necesitan aliento mientras se marchan[n]hacia un nuevo ma隠ana...
-Tal es la configuraci吋n sincera para[n]esta presentaci吋n.
+Yet another special screening has been[n]added.
+It seems this screening will take place[n]within Kamo City.
+Having lost their hero, the townspeople[n]need encouragement as they set off[n]toward a new tomorrow...
+Such is the heartfelt setup for this[n]showing.
 
 [msg MSG_001 [Makoto]]
-Alentando a la gente... Esto parece un[n]poco diferente de lo que normalmente nos[n]encargan.
+Encouraging the people... This seems a[n]little different from what we're[n]normally tasked with.
 
 [msg MSG_002 [Ryuji]]
-Bueno, somos los que derribaron a[n]Kamoshidaman...
-No dir姻 exactamente que somos[n]responsables, pero... 夷crees que[n]deber胤amos tomar este?
+Well, we are the ones who took down[n]Kamoshidaman...
+I won't exactly say we're responsible,[n]but... you think maybe we should take[n]this one?
 
 [msg MSG_003 [P3 Hero]]
-S胤. Deber胤amos ayudar si podemos.
+Yeah. We should help if we can.
 
 [msg MSG_004 [Kanji]]
-Muy bien, salgamos y hagamos que suceda!
+All right, then let's get out there and[n]make it happen!
 
 [msg MSG_005 [Elizabeth]]
-斡No tan faast! 斡Eliza-blocker en!
+Not so faaast! Eliza-blocker on!
 
 [msg MSG_006 [Kanji]]
-夷Qu姻 est茨s haciendo?
+Wh-What're you doin'...?
 
 [msg MSG_007 [Elizabeth]]
-Para este examen especial se ha[n]implementado una condici吋n especial...
-Se le pedir茨 que traiga un grupo[n]especial de miembros en esta salida.
-Dichos individuos especiales incluyen:[n]Aigis, Haru Okumura, y Rise Kujikawa!
-Esos tres deben participar.
+For this special screening, a certain[n]special condition has been[n]implemented...
+You will be required to bring a special[n]set of members on this outing.
+Said special individuals include: Aigis,[n]Haru Okumura, and Rise Kujikawa!
+Those three must take part.
 
 [msg MSG_008 [Teddie]]
-夷Eh? 夷Por qu姻?
+Huh? Why's that?
 
 [msg MSG_009 [Elizabeth]]
-Bueno, seg雨n mi fuente...
-Esas chicas elegidas tienen que usar sus[n]poderes de bomba y traer felicidad a los[n]corazones de la gente, 斡YO!
-... As胤 que me lo han dicho.
+Well, according to my source...
+Those chosen babes gotta use them[n]bomb-ass powers and bring happiness to[n]the hearts of the people, YO!
+...So I'm told.
 
 [msg MSG_010 [Junpei]]
-No hay manera de que eso sea lo que fue[n]escrito...
-As胤 que b茨sicamente, 夷las triples[n]bellezas son las estrellas de este[n]espect茨culo?
+There's no way that's what was written[n]down...
+So basically, the triple beauties are[n]the stars of this show?
 
 [msg MSG_010_1 [Elizabeth]]
-De hecho. Creo que deber胤a bastar si[n]incluyes a esos tres en tu partido[n]activo.
+Indeed. I believe it should suffice if[n]you include those three in your active[n]party.
 
 [msg MSG_011 [Haru]]
-Beauties... 夷Tambi姻n estoy incluido en[n]eso?
+Beauties...? I'm included in that too?
 
 [msg MSG_012 [Ryuji]]
-Heyyy, Belleza 斡Ladr吋n en la escena!
+Heyyy, Beauty Thief on the scene!
 
 [msg MSG_013 [Haru]]
-... 夷Quieres que te coja el cuello?
+...Shall I wring your neck?
 
 [msg MSG_014 [Ryuji]]
-No, estaba bromeando!
+No, I was, uh, just joking!
 
 [msg MSG_015 [Teddie]]
-Hrrm... una selecci吋n especial de[n]chicas... 斡Esto es seguro que conduce a[n]una charla de chicas!
-斡En ese caso, no puedo dejar que me[n]golpeen en el departamento de looks!
+Hrrm... A special girl's-themed[n]screening... This is sure to lead to[n]some girl talk!
+In that case, I can't let myself be beat[n]in the looks department!
 
 [msg MSG_016 [Rise]]
-Ahaha, pareces bastante despedido,[n]Teddie. Debes estar seguro.
+Ahaha, you seem pretty fired up, Teddie.[n]You must be confident.
 
 [msg MSG_017 [Teddie]]
-Ya me he dicho que me convertir姻 en el[n]m茨s justo de todos.
-Una vez que faculto a todos con mi[n]belleza inigualable...
-Entrar姻 en el mundo secreto de las[n]chicas y finalmente conocer姻 los[n]placeres de las chicas hablar!
+I've already told myself I'm going to[n]become the fairest of them all.
+Once I empower everyone with my[n]unmatched beauty...
+I will enter the secret world of girls[n]and finally know the pleasures of girl[n]talk!
 
 [msg MSG_018 [Aigis]]
-Esto significar胤a que tus aspiraciones[n]de participar en la bisagra de charlas[n]de chicas en esta proyecci吋n.
+This would mean your aspirations to[n]participate in girl talk hinge on this[n]screening.
 
 [msg MSG_019 [Rise]]
-Las motivaciones de Teddie a un lado, si[n]la proyecci吋n lo requiere, entonces[n]supongo que no tenemos mucha elecci吋n.
-S吋lo soy un navegante, 斡pero har姻 lo[n]mejor que pueda!
+Teddie's motivations aside, if the[n]screening requires it, then I guess we[n]don't have much choice.
+I'm just a navigator, but I'll do my[n]best!
 
 [msg MSG_020 [Haru]]
-Is it all right if we handle this[n]screening, [f 6 1 30 0 0 0]?
+Is it all right if we handle this[n]screening,-kun?
 
 [sel SEL_021 top]
-Eres todo tuyo.
-Estoy un poco preocupada.
-Yo tambi姻n har姻 lo mejor que pueda.
+It's all you.
+I'm a little worried.
+I'll do my best too.
 
 [msg MSG_022 [Aigis]]
-Entendido. Nos aseguraremos de que la[n]misi吋n sea un 姻xito.
+Understood. We will ensure the mission[n]is a success.
 
 [msg MSG_023 [Teddie]]
-斡Prep茨rate para festejar tus ojos en mi[n]belleza tan refrescante! 斡Aqu胤 viene[n]Teddie!
+Prepare to feast your eyes on my[n]oh-so-refreshing beauty! Here comes[n]Teddie!
 
 [msg MSG_024 [Yosuke]]
-S姻 lo que quieres decir. Lo s姻 muy[n]bien...
+I know what you mean. I know all too[n]well...
 
 [msg MSG_025 [Teddie]]
-斡No te preocupes! Teddie, la belleza[n]entre bellezas, est茨 aqu胤 para ayudar!
+Don't worry! Teddie, beauty amongst[n]beauties, is here to help!
 
 [msg MSG_026 [Yosuke]]
-斡Por eso estamos preocupados!
-Bueno, no suena como si pudi姻ramos[n]luchar contra cualquier FOEs, as胤 que[n]deber胤a estar bien... 夷Creo?
+That's exactly WHY we're worried!
+Well, it doesn't sound like we'll be[n]fighting any FOEs, so it should be[n]fine... I think?
 
 [msg MSG_027 [P4 Hero]]
-Eso es verdad. No os presion姻is si se[n]pone demasiado duro.
+That's true. Just don't push yourselves[n]if it gets too tough.
 
 [msg MSG_028 [Junpei]]
-斡S胤! Honestamente, yo tambi姻n estoy muy[n]emocionado.
-Estar rodeado de todas estas chicas...[n]Estoy un paso m茨s cerca del equipo Harem[n]Dream Team de Junpei...
+Yeah! Honestly, I'm pretty stoked too.
+Being surrounded by all these girls...[n]I'm one step closer to Junpei's Harem[n]Dream Team...
 
 [msg MSG_029 [Yukari]]
-Ya sabes, Junpei...
-Eres realmente... muy desagradable.
+You know, Junpei...
+You're really... REALLY disgusting.
 
 [msg MSG_030 [Junpei]]
-夷Por qu姻 tienes que derribarme as胤?
+Why you gotta shoot me down like that!?
 
 [msg MSG_031 [Rise]]
-As胤 que, Haru y Aigis necesitan estar en[n]el partido principal, y estoy en[n]servicio de navegantes, 夷verdad?
-Let's head out once [f 6 1 30 0 0 0] finishes[n]organizing the party!
+So, Haru-san and Aigis need to be in the[n]main party, and I'm on navigator duty,[n]right?
+Let's head out once-san finishes[n]organizing the party!
 

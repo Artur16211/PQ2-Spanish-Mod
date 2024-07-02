@@ -1,11 +1,11 @@
 [msg MSG_000 [Rise]]
-斡Arriba, chicos! 斡Tenemos dos FOEs[n]cerca!
+Heads up, guys! We've got two FOEs[n]nearby!
 
 [msg MSG_001 [Shinjiro]]
-Tch, 夷son por el cambio de seguridad?
+Tch, they here 'cause of the security[n]change?
 
 [msg MSG_002 [Futaba]]
-Parece que tenemos que investigar un[n]poco m茨s.
-Tendremos que vencer a esos FOEs si[n]queremos pasar por aqu胤. Eso o encontrar[n]otra manera.
-Si derribamos las FOEs o buscamos una[n]ruta alternativa depende de ti, Joker!
+Looks like we got a little more[n]investigating to do.
+We'll have to beat those FOEs if we[n]wanna get through here. That or find[n]another way around.
+Whether we take down the FOEs or search[n]for an alternate route is up to you,[n]Joker!
 

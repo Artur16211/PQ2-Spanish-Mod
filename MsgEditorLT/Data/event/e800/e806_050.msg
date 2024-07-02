@@ -1,94 +1,94 @@
 [msg MSG_000 [Ann]]
-Bueno, aqu胤 estamos. Estoy seguro de que[n]encontraremos uno esta vez!
+Bueno, ya estamos. 斡Estoy segura de que esta vez encontraremos alguna!
 
 [msg MSG_001 [Yusuke]]
-斡Correcto! 斡Encontrar姻 un ammonite sin[n]importar lo que sea necesario!
+斡Vale! 斡Encontrar姻 una amonita, cueste lo que cueste!
 
 [msg MSG_002 [Ryuji]]
-Amigo, no puedo encontrar mierda...[n]Quiero decir, 夷qu姻 demonios es una[n]amonestaci吋n de todos modos?
+Bro, no encuentro una mierda... Quiero decir, 夷qu姻 es de hecho una amonita?
 
 [sel SEL_003 top]
 Ni idea.
-Es como una concha de concha.
-Una criatura del espacio exterior.
+Es como una caracola.
+Una criatura de otro universo.
 
 [msg MSG_004 [Yosuke]]
-夷Quieres decir que lo has estado[n]buscando sin saber realmente lo que es?
+斡夷Quieres decir que estabas buscando sin siquiera saber lo que era?!
 
 [msg MSG_005 [Makoto]]
-*sigh* Un ammonite es un tipo de[n]criatura marina bombardeada.
-M茨s espec胤ficamente, es como un calamar[n]o un pulpo que vive dentro de una[n]c茨scara.
+*suspiro* Una amonita es un tipo de criatura marina con un caparaz吋n.
+M茨s espec胤ficamente, es como un calamar o un pulpo que vive dentro de un caparaz吋n.
 
 [msg MSG_006 [Makoto]]
-Correcto, un ammonito es un tipo de[n]criatura marina bombardeada.
-M茨s espec胤ficamente, es como un calamar[n]o un pulpo que vive dentro de una[n]c茨scara.
+Correcto, una amonita es un tipo de criatura marina con un caparaz吋n.
+M茨s espec胤ficamente, es como un calamar o un pulpo que vive dentro de un caparaz吋n.
 
 [msg MSG_007 [Kanji]]
-夷No es tonto?
+斡夷En serio?!
 
 [msg MSG_008 [Makoto]]
-Podr胤a parecerlo, pero no lo es. Es un[n]tipo de criatura marina bombardeada.
-M茨s espec胤ficamente, es como un calamar[n]o un pulpo que vive dentro de una[n]c茨scara.
+Podr胤a parecerlo, 斡pero no! Es un tipo de criatura marina con un caparaz吋n.
+M茨s espec胤ficamente, es como un calamar o un pulpo que vive dentro de un caparaz吋n.
 
 [msg MSG_009 [Yusuke]]
-Calamar y pulpo... Tengo hambre[n]oy姻ndolo.
+Calamares y pulpos... Me est茨 entrando hambre solo de o胤rlo.
 
 [msg MSG_010 [Yukiko]]
-Tu apego a la comida es incre胤ble.
+Sabes Fox, tu inter姻s por la comida es realmente asombroso.
 
 [msg MSG_011 [Yusuke]]
-Perd胤 a mis padres cuando era joven y,[n]como resultado, tuve un momento dif胤cil[n]con dinero.
-Hab胤a un hombre que una vez me cuid吋,[n]pero por muchas razones, me he[n]encontrado solo una vez m茨s.
+Perd胤 a mis padres cuando era joven, y debido a esto, tuve dificultades con el dinero.
+Hab胤a un hombre que me cuidaba, pero por diversas razones, me he vuelto a encontrar solo.
 
 [msg MSG_012 [Yukiko]]
-Siento o胤r eso.
+Oh... Siento o胤r eso. 
 
 [msg MSG_013 [Yusuke]]
-No, est茨 bien. Actualmente, los[n]suministros de arte son mi mayor[n]gasto...
-Aquellos que no puedo hacer sin. Incluso[n]si significaba comer hierba otra vez.
+No, est茨 muy bien. Actualmente, los materiales de arte son mi mayor gasto...
+De esos no puedo prescindir. Incluso si eso significara comer hierba de nuevo.
 
 [msg MSG_014 [Yukiko]]
-Eres apasionado.
+S胤 que te apasiona el arte.
 
 [msg MSG_015 [Yusuke]]
-Bueno, yo no ser胤a as胤 si estuviera[n]realmente solo.
-He tenido mucho apoyo de mis amigos. Me[n]salvaron y me dieron un lugar donde[n]pertenecer.
+Bueno, no estar胤a aqu胤 si estuviera realmente solo.
+He tenido un mont吋n de apoyo de mis amigos. Ellos me salvaron y me dieron un lugar al que pertenecer.
 
 [msg MSG_016 [Yukiko]]
-Creo que lo entiendo ahora.
-La raz吋n por la que puedo ser yo es[n]porque estoy rodeado de gente que me[n]acepta por lo que soy.
+Creo que ahora lo entiendo.
+La raz吋n por la que puedo ser yo misma es porque estoy rodeada de gente que me acepta tal y como soy.
 
 [msg MSG_017 [Yusuke]]
-As胤 es. Pasi吋n o no, no puedo hacerlo[n]solo.
-No s姻 cu茨ntas veces me han alimentado el[n]cafista Joker que se queda en...
+Correcto. Con pasi吋n o sin pasi吋n, no puedo hacerlo solo.
+No s姻 cuantas veces me ha dado de comer la cafeter胤a donde Joker vive...
 
 [msg MSG_018 [Yukiko]]
-Siento que es un poco diferente...
-Oh, pero si est茨s corto de comida, 夷por[n]qu姻 no te hago algo que agradecer?
+Siento que eso es un poco diferente.
+Pero, si te falta comida, 夷por qu姻 no te preparo algo para darte las gracias?
 
 [msg MSG_019 [Yusuke]]
-夷Qu姻? 夷Est茨s seguro?
+斡夷Qu姻?! 斡夷Est茨s segura?!
 
 [msg MSG_020 [Chie]]
-斡Heeey! 夷Encontraron algo?
+斡Eeey! 夷Han encontrado algo?
 
 [msg MSG_021 [Yukiko]]
 No, a雨n no.
 
 [msg MSG_022 [Naoto]]
-Entonces, tal vez deber胤amos cambiar de[n]ubicaci吋n.
-Rise dijo que sent胤a m茨s agua al oeste[n]de aqu胤.
+Entonces quiz茨s deber胤amos ir a otro sitio.
+Rise ha dicho que ha detectado m茨s agua al este de aqu胤.
 
 [msg MSG_023 [Yukiko]]
-Entonces, ah胤 es donde iremos despu姻s.[n]斡Vamos, Fox!
+Entonces, 斡es all胤 adonde tenemos que ir despu姻s! 斡Vamos, Fox!
 
 [msg MSG_024 [Yusuke]]
-斡S胤, vamos!
+S胤, 斡vamos!
 
 [msg MSG_025 [Chie]]
-斡Oigan, esperen, ustedes dos! 夷No me[n]digas que Yukiko tambi姻n es todo loco?
+Ey, 斡esperad el par de dos! 夷No me digas que ahora Yukiko est茨 loca por el arte tambi姻n?
 
 [msg MSG_026 [Futaba]]
-Creo que Fox realmente hizo una[n]impresi吋n en ella...
-De cualquier manera, tenemos m茨s agua al[n]oeste. 斡Vamos a comprobarlo!
+Supongo que Fox realmente la ha impresionado.
+De todas formas, tenemos m茨s agua al este. 斡Vamos a comprobarlo!
 

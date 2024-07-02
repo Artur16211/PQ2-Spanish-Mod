@@ -1,51 +1,51 @@
 [msg MSG_000 [Elizabeth]]
-Bienvenido a todos.
-Fue un espect茨culo verlo superar ese[n]nuevo sistema de seguridad.
+Welcome back, everyone.
+It was quite a spectacle to watch you[n]overcome that new security system.
 
 [msg MSG_001 [Yukari]]
-No creo que la seguridad fuera la parte[n]dif胤cil; estaba sentado a trav姻s de esas[n]historias...
+I don't think the security was the hard[n]part; it was sitting through those[n]stories...
 
 [msg MSG_002 [Elizabeth]]
-S胤, la doble caracter胤stica de Junpei y[n]Yukiko tambi姻n fue fascinante.
-Tal vez, alg雨n d胤a, tendr姻 la[n]oportunidad de acoger un "Elizabeth lo[n]crea, o no"... Heh heh heh ...
+Yes, the double feature from Junpei and[n]Yukiko was rather fascinating as well.
+Perhaps, one day, I'll get the chance to[n]host an "Elizabeth's Believe it, or[n]Don't"... Heh heh heh...
 
 [msg MSG_003 [Junpei]]
-夷Oh? Si est茨s tan interesado, estar胤a[n]feliz de mostrarte las cuerdas.
+Oh? If you're that interested, I'd be[n]happy to show you the ropes.
 
 [msg MSG_004 [Yukiko]]
-Yo tambi姻n. Me gustar胤a ser un mejor[n]anfitri吋n para "Yukiko lo cree, o no"
-Mi pr吋xima historia ser茨 titulada: "El[n]pepino gigante del mar en el Cine[n]Cursed"... 夷C吋mo suena eso?
+Me too. I'd like to become a better host[n]for "Yukiko's Believe It, or Don't."
+My next story will be titled: "The Giant[n]Sea Cucumber in the Cursed Theater"...[n]How does that sound?
 
 [sel SEL_005 top]
-Suena divertido.
-夷Por qu姻 un pepino de mar?
+Sounds like fun.
+Why a sea cucumber?
 
 [msg MSG_006 [Yukiko]]
-Lo s姻, 夷verdad? Y luego el pepino del[n]mar dispara un rayo l茨ser y entra en su[n]tercera evoluci吋n.
+I know, right? And then the sea cucumber[n]fires a laser beam and enters its third[n]evolution.
 
 [msg MSG_007 [Junpei]]
-Eso es Yukiko para ti, creativo m茨s all茨[n]de la comprensi吋n.
+Hmm, that's Yukiko-chan for you―[n]creative beyond comprehension.
 
 [msg MSG_008 [Yukiko]]
-夷Eh? 夷Hay algo malo con pepinos de mar?
+Huh? Is there something wrong with sea[n]cucumbers?
 
 [msg MSG_009 [Junpei]]
-Bueno, no, pero se siente un poco...[n]夷bajo presupuesto? Es interesante por[n]las razones equivocadas.
+Well, no, but it feels kinda...[n]low-budget? It's interesting for the[n]wrong reasons.
 
 [msg MSG_010 [Makoto]]
-Sinceramente... 夷No crees que son[n]suficientes historias de fantasmas?
+Honestly... Don't you think that's[n]enough ghost stories?
 
 [msg MSG_011 [Yukiko]]
-Est茨 bien, son historias de fantasmas[n]divertidas.
+It's okay, they're funny ghost stories.
 
 [msg MSG_012 [Junpei]]
-夷Desde cu茨ndo "Junpei lo cree o no" es[n]gracioso?
-Bueno, lo que sea.
-ィへゎややも を をよ ろまょぽるまゆよれ りゎま ゆぺょろまょまる ゅぺれ[n]めもれろよるもぺれ を ゆぺょろまょまる ぺ ろよぽよれ ぼよゆらるよゆまろもぽよれ![n]ィはゎまぽまれ ぼよょろぺる ぼよょ ょよれよろるよれ!
+Since when was "Junpei's Believe It, or[n]Don't" funny!?
+...Well, whatever.
+Yukki and I will just have to keep the[n]stories comin' and keep everyone[n]engaged! You can count on us!
 
 [msg MSG_013 [Yukiko]]
-斡Por supuesto!
+Absolutely!
 
 [msg MSG_014 [Yukari]]
-斡Por favor, no m茨s! 斡En serio, estamos[n]bien!
+Please, no more! Really, we're good!
 

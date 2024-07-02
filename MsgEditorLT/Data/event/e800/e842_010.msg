@@ -1,44 +1,44 @@
 [msg MSG_000 [Elizabeth]]
-Esta prueba especial esta vez es un poco[n]entusiasta, un poco et姻reo, como un[n]cuento de hadas...
-Me gustar胤a que encuentres una mariposa[n]en la pel胤cula de Hikari, y la traigas[n]aqu胤.
+This special screening this time is a[n]bit fanciful, a bit ethereal, like a[n]fairy tale...
+I'd like for you to find a butterfly in[n]Hikari's movie, and bring it here.
 
 [sel SEL_001 top]
-Suena f茨cil.
-No me gustan los bichos...
+Sounds easy.
+I don't like bugs...
 
 [msg MSG_002 [Hikari]]
-Ahora que lo pienso, hab胤a mucho en mi[n]pel胤cula. Todos eran tan hermosos...
+Now that I think about it, there were a[n]lot in my movie. They were all so[n]beautiful...
 
 [msg MSG_003 [Chie]]
-S-same aqu胤... Pero creo que puedo[n]manejar mariposas.
+S-Same here... But I think I can handle[n]butterflies.
 
 [msg MSG_004 [Yukari]]
-夷As胤 que tenemos que ir a coger una[n]mariposa? 夷Un espec胤fico o alguno de[n]ellos?
+So we have to go catch a butterfly? A[n]specific one, or any of them?
 
 [msg MSG_005 [Elizabeth]]
-Si estamos pasando por el problema de[n]todos modos, preferir胤a que atraparas a[n]un verdadero ladr吋n.
+If we're going through the trouble[n]anyway, I'd prefer you catch a real[n]lunker.
 
 [msg MSG_006 [Futaba]]
-夷Pueden las mariposas ser "lunkers"? 夷No[n]es algo de pescado?
-Ser茨 mejor que no te vea tratando de[n]comer uno, Inari. 斡No me importa cu茨nta[n]prote胤na tengan!
+Can butterflies be "lunkers"? Isn't that[n]a fish thing?
+I better not see you trying to eat one,[n]Inari. I don't care how much protein[n]they have!
 
 [msg MSG_007 [Yusuke]]
-夷Insectos? Incluso tengo mis l胤mites.
-Aunque... Quiz茨s si no hubiera otra[n]opci吋n...
+Insects? Even I have my limits.
+Though... Perhaps if there was no other[n]choice...
 
 [msg MSG_008 [Naoto]]
-夷Es demasiado tarde para plantear[n]objeciones?
+I-Is it too late to raise objections?
 
 [msg MSG_009 [Akihiko]]
-Interesante. 夷Dijiste que est茨n llenos[n]de prote胤na?
+Interesting. You said they're full of[n]protein?
 
 [msg MSG_010 [Yukari]]
-夷Qu姻 tal si paras ah胤.
+How about you stop right there.
 
 [msg MSG_011 [Haru]]
-*Grecha* Suena casi como un picnic, 夷no?[n]Rodeado de flores, buscando mariposas...
+*giggle* It sounds almost like a picnic,[n]doesn't it? Surrounded by flowers,[n]looking for butterflies...
 
 [msg MSG_012 [Morgana]]
-ぢよょ ろよぽぺれ まれぺれ れよゆほるぺれ ぺゅるまぽまぽよるデ ょよ らよぽまゆよれ[n]ぽまぼまらぼもよょぺる ぺ ょゎまれろるよれ むゎぺるぽもぺれテテテ らまるよ[n]れゎらよょむよ りゎま らよぽまゆよれ るまゅぺゃぺるょよれ ゎょ らよぼよテ
-Vale... Una vez que estemos listos,[n]vamos.
+With all those Shadows around, we can't[n]let our guards down... but I guess we[n]can relax a little.
+Okay... Once we're ready, let's go.
 

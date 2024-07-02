@@ -1,46 +1,46 @@
 [msg MSG_000 [Chie]]
-As胤 que tenemos que ir donde dice el[n]mapa y vencer a los enemigos all胤,[n]夷verdad?
+Entonces, solo tenemos que ir d吋nde dice el mapa y derrotar all胤 a los enemigos, 夷verdad?
 
 [msg MSG_001 [Ryuji]]
-斡Heh! 斡Pedazo de pastel! Vamos por[n]aqu胤...
+斡Je! 斡Pan comido! Vamos por aqu胤...
 
 [msg MSG_002 [Kanji]]
-斡Muy bien! Entonces, vamos por ah胤...
+斡Muy bien! Vamos por aqu胤...
 
 [msg MSG_003 [Ryuji]]
-夷Huh?
+...夷Eh?
 
 [msg MSG_004 [Kanji]]
-... 夷Qu姻 es eso?
+...夷Qu姻?
 
 [msg MSG_005 [Chie]]
-斡Oookay, chicos, no peleen!
-Lo siento. Creo que Kanji est茨 demasiado[n]emocionado con esto.
+斡Bieeen, chicos, no se pelen!
+Perd吋n. Creo que Kanji est茨 un poco emocionado.
 
 [msg MSG_006 [Teddie]]
-Kanjiii, 夷qu姻 pasa? Si eres bueno, te[n]dar姻 una bananaaa.
+夷Kanjiii, qu姻 te ocurre? Si eres bueno, te dar姻 una bananaaa.
 
 [msg MSG_007 [Kanji]]
-斡No me trates como un animal, maldita[n]sea!
+N-No me trates como un animal, 斡maldici吋n!
 
 [msg MSG_008 [Ann]]
-No, no. Lo sentimos tambi姻n.
-Skull se molesta bastante f茨cilmente. Es[n]como un gorila salvaje.
+No, no. Disc雨lpenos a nosotros tambi姻n.
+Skull se enfada muy f茨cilmente. Es como un gorila salvaje.
 
 [msg MSG_009 [Ryuji]]
-夷Qu姻 demonios? 夷Tambi姻n me tratas como a[n]un animal?
+斡夷Qu姻 demonios?! 夷Tambi姻n me est茨s tratando como un animal?
 
 [sel SEL_010 top]
-Deja de pelear.
-Vamos a dejarte atr茨s.
+Dejen de pelear.
+Los vamos a dejar detr茨s.
 
 [msg MSG_011 [Ryuji]]
-Psh...
+Tss...
 
 [msg MSG_012 [Kanji]]
-Mi culpa.
+...Culpa m胤a.
 
 [msg MSG_013 [Futaba]]
-Heheh. Es dif胤cil ser el jefe cuando[n]tienes dos hijos grandes para cuidar.
-斡No importa con qu姻 enemigo empecemos![n]Elige y dir胤gete, Joker!
+Ja, ja, ja. Es dif胤cil ser el jefe cuando tienes dos grandes ni隠os que cuidar.
+斡No importa con que enemigo empecemos! 斡Elige y lidera el camino, Joker!
 

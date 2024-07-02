@@ -1,28 +1,28 @@
-[msg MSG_000 [Seguridad Del Laboratorio]]
-UNAUTHORIZED PRESENCE DETECTED.[n]UNAUTHORIZED PRESENCE DETECTED. TODOS[n]LOS UNITS, CONVERGE ON INTRUDERS.
+[msg MSG_000 [Lab security]]
+UNAUTHORIZED PRESENCE DETECTED.[n]UNAUTHORIZED PRESENCE DETECTED. ALL[n]UNITS, CONVERGE ON INTRUDERS.
 
 [msg MSG_001 [Kanji]]
-斡Maldita sea, m茨s! 斡Siguen viniendo!
+Dammit, more!? They just keep comin'!
 
 [msg MSG_002 [Teddie]]
-Estamos condenados... Veo una luz al[n]final del t雨nel...
+We're doomed... I see a light at the end[n]of the tunnel...
 
 [msg MSG_003 [Kanji]]
-斡Aguanta, Teddie! 斡No entres en la luz!
+Hang in there, Teddie! Don't go into the[n]light!
 
 [msg MSG_004 [Rise]]
-斡Hemos vuelto! 斡El an茨lisis est茨[n]completo!
+We're back! The analysis is complete!
 
 [msg MSG_005 [Fuuka]]
-Los sistemas de seguridad han activado.[n]Est茨 enviando m雨ltiples enemigos a tu[n]posici吋n.
-ねよ ろもまょま れまょろもぽよ もょろまょろぺる ぽまろまょまる まゅ れもれろまゆぺ[n]ぽま れまむゎるもぽぺぽデ ぺれウ りゎま らるもよるもんぺゆよれ れぺぼぺるろま ぽま[n]ぺめウ ぼよょ れまむゎるもぽぺぽ!
+The security systems have activated.[n]It's sending multiple enemies to your[n]position.
+There's no point trying to stop the[n]security system, so we prioritized[n]getting you safely out of there!
 
 [msg MSG_006 [Mitsuru]]
-夷Tenemos una ruta de escape?
+Do we have an escape route?
 
 [msg MSG_007 [Futaba]]
-斡Por supuesto! 斡Te guiaremos! 斡Por aqu胤!
+Of course! We'll guide you out! This[n]way!
 
 [msg MSG_008 [Morgana]]
-斡Muy bien! 斡Salgamos de aqu胤!
+All right! Let's get outta here!
 

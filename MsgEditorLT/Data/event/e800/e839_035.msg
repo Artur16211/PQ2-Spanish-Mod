@@ -1,13 +1,13 @@
-[msg MSG_000 [Flor Relajada]]
-Hehehehehehehehehehehe. La "cosa negra"[n]fue quitada.
+[msg MSG_000 [Relaxed flower]]
+Hehehehehe. The "black thing" was taken[n]away.
 
-[msg MSG_001 [Flor Alegre]]
-Y abajo abajo.
+[msg MSG_001 [Cheerful Flower]]
+And taken down below.
 
-[msg MSG_002 [Flor Relajada]]
-Quer胤an todo para ellos mismos.
+[msg MSG_002 [Relaxed Flower]]
+They wanted it all to themselves.
 
 [msg MSG_003 [Ryuji]]
-Todav胤a no s姻 de qu姻 demonios est茨n[n]hablando, pero esta "cosa negra" tiene[n]que estar abajo, 夷verdad?
-Echemos un vistazo alrededor del lugar[n]que Hikari marc吋 en el mapa.
+I still dunno what the hell they're talking[n]about, but this "black thing" has gotta be[n]somewhere down below, right?
+Let's just look around that spot Hikari[n]marked on the map.
 

@@ -1,18 +1,18 @@
 [msg MSG_000 [P4 Protag]]
-Vale, una puerta cubierta de vid. Noir,[n]夷podr胤as, por favor?
+Okay, a vine-covered door. Noir, would[n]you please?
 
 [msg MSG_001 [Haru]]
-Claro. Un momento.
+Sure. One moment.
 
 [msg MSG_002 [Haru]]
-斡Oh! 斡Aqu胤 hay uno!
+Oh! Here's one!
 
 [msg MSG_003 [Kanji]]
-斡Genial! 夷Es suficiente?
+Sweet! That enough?
 
 [msg MSG_004 [Haru]]
-Um... Parece que necesitamos m茨s.
+Um... It looks like we may need more.
 
 [msg MSG_005 [Yukiko]]
-Vale. Entonces, sigamos mirando.
+Okay. Then, let's keep looking around.
 

@@ -3,107 +3,107 @@ Fuera de la sala de proyecci吋n...
 El traje de oso de Teddie sigue aqu胤.
 
 [msg MSG_001 [Akechi]]
-Bas茨ndonos en lo que sabemos de su[n]comportamiento, Teddie estaba tras una[n]cosa...
+Bas茨ndonos en lo que sabemos de su comportamiento, Teddie buscaba una cosa...
 
 [msg MSG_002 [Naoto]]
-Cierto. Las palomitas de Theodore.
+Correcto. Las palomitas de Theodore.
 
 [msg MSG_003 [Akechi]]
-夷Pero por qu姻 Teddie no preguntar胤a?
-Considerando su personalidad, es dif胤cil[n]creer que actuara tan agresivamente.
+夷Pero por qu姻 Teddie no solo las pidi吋?
+Considerando su personalidad, es dif胤cil creer que actuar胤a tan agresivamente.
 
 [msg MSG_004 [Naoto]]
-Tengo una teor胤a sobre eso...
+Tengo una teor胤a al respecto...
 
 [msg MSG_005 [Teddie]]
-Ohh? Es Nao y Goro. 夷Qu姻 haces aqu胤?
+夷Ohh? Son Naoto y Goro. 夷Qu姻 est茨is haciendo aqu胤?
 
 [msg MSG_006 [Naoto]]
-斡Teddie! 斡Te hemos estado buscando!
+斡Teddie! 斡Te est茨bamos buscando!
 
 [msg MSG_007 [Teddie]]
-夷Hm? 夷Por qu姻 todos parecen tan serios?
+夷Hm? 夷Por qu姻 est茨 todo el mundo tan serio?
 
 [msg MSG_008 [Naoto]]
-Bueno, ya ves...
+Bueno, ver茨s...
 
 [msg MSG_009 [Teddie]]
-夷Hwah? No puedo creer que todo eso pas吋[n]mientras estaba fuera...!
+斡夷Hwah?! 斡No puedo creer que todo eso haya pasado mientras estaba fuera...!
 斡No he hecho nada! 斡Soy un oso inocente!
 
 [msg MSG_010 [Naoto]]
 S胤, lo sabemos.
-El Teddie que vimos actu吋 muy diferente[n]de c吋mo normalmente te comportar胤as.
+El Teddie que vimos antes actu吋 muy diferente a como te comportar胤as normalmente. 
 
 [sel SEL_011 top]
-夷Qu姻 sugieres?
-夷El culpable es alguien m茨s?
+夷Qu姻 est茨s sugiriendo?
+夷El culpable es otro?
 夷Estabas pose胤do?
 
 [msg MSG_012 [Akechi]]
-つょ よろるぺれ らぺゅぺほるぺれデ ろよぽよれ ゅよれ もょぼもぽまょろまれ みゎまるよょ[n]ゅゅまわぺぽよれ ぺ ぼぺほよ らよる ぺゅむゎもまょ ぽもれみるぺんぺぽよ ぽま[n]びまぽぽもまテテテ エつれろよを まょ ゅよ ぼもまるろよ?
+En otras palabras, todos los incidentes fueron llevados a cabo por alguien disfrazado de Teddie... 夷Estoy en lo correcto?
 
 [msg MSG_013 [Akechi]]
-S胤, alguien probablemente se disfraz吋[n]como Teddie... 夷Es cierto?
+S胤, alguien probablemente se disfraz吋 de Teddie... 夷Verdad?
 
 [msg MSG_014 [Teddie]]
-斡Nwaah! 斡Soy inocente! 斡Tienes que[n]creerme!
+斡Nwaah! 斡Soy inocente! 斡Ten姻is que creerme!
 
 [msg MSG_015 [Akechi]]
-Lo sabemos.
-はるよほぺほゅまゆまょろま ろよぽよれ ゅよれ もょぼもぽまょろまれ みゎまるよょ[n]ゅゅまわぺぽよれ ぺ ぼぺほよ らよる ぺゅむゎもまょ ぽもれみるぺんぺぽよ ぽま[n]びまぽぽもまテテテ エねよ まれろぺるウぺれ ぽま ぺぼゎまるぽよ?
+Ya lo sabemos.
+Parece que todos los incidentes fueron llevados a cabo por alguien disfrazado de Teddie... 夷No est茨s de acuerdo?
 
 [msg MSG_016 [Naoto]]
-S胤, esa es mi opini吋n tambi姻n.
-La pregunta que queda es: 夷qui姻n estaba[n]tratando de plantear como Teddie?
+S胤, esa es tambi姻n mi opini吋n.
+La pregunta que queda es: 夷qui姻n intentaba hacerse pasar por Teddie?
 
 [msg MSG_017 [Akechi]]
-夷Has estado en la sala de proyecci吋n[n]todo este tiempo, Teddie?
+夷Has estado en la sala de proyecci吋n todo este tiempo, Teddie?
 
 [msg MSG_018 [Teddie]]
-斡Afirmativo! Estaba saliendo con Yosuke[n]y los otros.
+斡C-Correcto! Estaba pasando el rato con Yosuke y los dem茨s.
 
 [msg MSG_019 [Naoto]]
-夷Entonces no escuchaste el grito antes?
+夷Entonces no escuchaste el grito de antes?
 
 [msg MSG_020 [Teddie]]
-No lo creo.
-Est茨bamos viendo una pel胤cula muy fuerte[n]en ese momento, as胤 que tal vez por[n]eso...
-Pero entonces Marga se enoj吋 con[n]nosotros y nos hizo marcharnos.
+No creo.
+Est茨bamos viendo una pel胤cula muy ruidosa en ese momento, as胤 que tal vez por eso...
+Pero entonces Margaret se enfad吋 con nosotros e hizo que nos fu姻ramos.
 
 [msg MSG_021 [Akechi]]
-夷Qu姻 le pas吋 a tu traje de oso?
+夷Qu姻 ocurri吋 con tu traje de oso?
 
 [msg MSG_022 [Teddie]]
-Estaba lleno en la sala de proyecci吋n,[n]as胤 que me lo quit姻 y lo dej姻 afuera.
+Hac胤a mucho calor en la sala de proyecci吋n, as胤 que me lo quit姻 y lo dej姻 fuera.
 
 [msg MSG_023 [Akechi]]
-Ya veo. As胤 que el culpable se aprovech吋[n]de eso...
+Ya seo. As胤 que el culpable se aprovech吋 de eso...
 
 [msg MSG_024 [Naoto]]
-S胤, estoy empezando a ver lo que pas吋, y[n]creo que s姻 qui姻n es responsable[n]tambi姻n...
+S胤, estoy empezando a ver lo que ocurri吋, y creo que s姻 tambi姻n qui姻n es el responsable...
 
 [sel SEL_025 top]
 夷Qui姻n?
-Tengo una idea tambi姻n.
+Yo tambi姻n tengo una idea.
 
 [msg MSG_026 [Naoto]]
-Te lo dir胤a, pero a雨n no tenemos pruebas[n]irrefutables.
-Si el culpable decide jugar tonto,[n]estaremos fuera de opciones.
-Ser胤a mejor no nombrar nombres hasta que[n]estemos absolutamente seguros.
+Os lo dir胤a, pero todav胤a no tenemos ninguna prueba irrefutable.
+Si el culpable decide hacerse el tonto, nos quedaremos sin opciones.
+Ser胤a mejor no nombrar a nadie hasta que estemos seguros.
 
 [msg MSG_027 [Naoto]]
-Entonces, tambi姻n debes darte cuenta de[n]que todav胤a no tenemos pruebas[n]irrefutables.
-Si el culpable decide jugar tonto,[n]estaremos fuera de opciones.
-Por lo tanto, ser胤a mejor no nombrar[n]nombres hasta que estemos absolutamente[n]seguros.
+Entonces, tambi姻n te habr茨s dado cuenta de que no tenemos pruebas irrefutables.
+Si el culpable decide hacerse el tonto, nos quedaremos sin opciones.
+Por lo tanto, ser胤a mejor no nombrar a nadie hasta que estemos seguros.
 
 [msg MSG_028 [Akechi]]
 En ese caso, tengo una idea.
-Pero si queremos que esto funcione,[n]vamos a necesitar m茨s palomitas de[n]Theodore.
+Pero si queremos que funcione, necesitaremos m茨s palomitas de Theodore.
 
 [msg MSG_029 [Naoto]]
-Lo que significa que tendremos que[n]conseguirle los ingredientes.
+Lo que significa que tendremos que conseguirle los ingredientes.
 
 [msg MSG_030 [Akechi]]
-Cierto. [f 6 1 30 0 0 0], siempre que est姻s listo,[n]deber胤amos intentar esa proyecci吋n[n]especial.
+Correcto. [f 6 1 30 0 0 0], cuando est姻s preparado, deber胤amos intentar esa proyecci吋n especial.
 

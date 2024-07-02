@@ -1,61 +1,61 @@
 [msg MSG_000 [Haru]]
-Acabo de recordar. 夷Has visto alg雨n[n]lugar cubierto de vides por aqu胤?
+Oh, I just remembered. Did you happen to[n]see any places covered in vines around[n]here?
 
 [msg MSG_001 [Yosuke]]
-夷Te refieres a esas puertas con las[n]vides arriba?
-Si eso es de lo que est茨s hablando, vi[n]muchos de esos cuando me separaron de[n]ustedes.
+You mean those doors with the vines up[n]top?
+If that's what you're talking about, I[n]saw plenty of those when I was separated[n]from you guys.
 
 [msg MSG_002 [Haru]]
-Mhm. Deber胤a haber hierbas medicinales[n]creciendo justo m茨s all茨 de esas vides.
+Mhm. There should be medicinal herbs[n]growing just past those vines.
 
 [msg MSG_003 [Yukiko]]
-Noir, no sab胤a que sab胤as mucho de las[n]plantas.
+Wow, Noir, I didn't know you knew so[n]much about plants.
 
 [msg MSG_004 [Haru]]
-Estoy a su alrededor a menudo. No soy[n]nada comparado con los expertos.
+I'm just around them often. I'm nothing[n]compared to the experts.
 
 [msg MSG_005 [Ann]]
-Es incre胤ble, sin embargo. Siempre se[n]est茨 cubriendo de barro cuidando las[n]camas de flores de la escuela.
+It is amazing, though. She's always[n]getting herself covered in mud taking[n]care of the school's flower beds.
 
 [msg MSG_006 [Yusuke]]
-No s吋lo eso, pero tambi姻n ha estado[n]cultivando su propio huerto.
+Not only that, but she's been growing[n]her own vegetable garden as well.
 
 [msg MSG_007 [P4 Hero]]
-夷Ella cultiva su propio huerto? Me[n]gustar胤a o胤r m茨s sobre eso alguna vez.
+She grows her own vegetable garden...?[n]I'd like to hear more about that[n]sometime.
 
 [msg MSG_008 [Kanji]]
-No parece la hija de un gran presidente[n]de la compa隠胤a.
+Y'know, she don't seem like the daughter[n]of a big company president.
 
 [msg MSG_009 [Yosuke]]
-S胤, pero... est茨 bien. 斡Creo que eso es[n]lo que la hace tan genial!
+Yeah, but... it's cool. I think that's[n]what makes her so great!
 
 [msg MSG_010 [Teddie]]
-Una chica tan hermosa y amable... 斡Su[n]compasi吋n se mueve realmente!
+Such a beautiful and kind-hearted[n]girl... Her compassion is truly moving!
 
 [msg MSG_011 [Haru]]
-Ustedes est茨n exagerando...
-No es nada noble as胤. Lo hago porque[n]quiero...
+Y-You guys are over-exaggerating...
+It's nothing noble like that. I just do[n]it because I want to...
 
 [msg MSG_012 [Yukiko]]
-... Bueno, estoy celoso de que tengas[n]algo que puedas ser apasionado.
+...Well, I'm jealous you have something[n]you can be passionate about.
 
 [msg MSG_013 [Haru]]
-夷Yukiko?
+...Yukiko-chan?
 
 [msg MSG_014 [Yukiko]]
-Lo siento. Estoy pensando en voz alta.
-Tenemos que encontrar al dinosaurio y[n]protegerlo. Vamos r茨pido.
+Oh, sorry. I'm just thinking aloud.
+We have to find the dinosaur and protect[n]him. Let's hurry.
 
 [msg MSG_015 [Haru]]
-...!
-夷Escuchan eso? Ese grito...
+......!
+Hey, do you guys hear that? That cry...
 
 [msg MSG_016 [Yukiko]]
-斡S胤! 斡Viene de all胤!
+Yeah! It's coming from over there!
 
 [msg MSG_017 [Rise]]
-斡Hay algo en el noreste! Me sorprende[n]que se hayan dado cuenta.
+There's something to the northeast! I'm[n]surprised you guys noticed.
 
 [msg MSG_018 [Haru]]
-Vamos, Joker. Necesita nuestra ayuda.
+Let's go, Joker. He needs our help.
 

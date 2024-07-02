@@ -1,39 +1,39 @@
 [msg MSG_000 [Akechi]]
-Ya veo. 夷As胤 que sacaste la palanca,[n]Joker?
-El carrito perder茨 a los cinco[n]trabajadores, y en cambio matar茨 al[n]trabajador soltero en la otra pista...
+I see. So you pulled the lever, Joker?
+The cart will miss the five workers, and[n]instead kill the single worker on the[n]other track...
 
 [msg MSG_001 [Akihiko]]
-Sacrificando a uno para salvar a cinco,[n]夷eh?
-Bueno, salva la mayor parte de las[n]vidas. Supongo que es una especie de[n]"correcto"
+Sacrificing one to save five, huh...?
+Well, it saves the most lives. I guess[n]that's a kind of "correct."
 
 [msg MSG_002 [Kanji]]
-斡H-hang en un segundo!
-夷As胤 que ese inocente acaba de huir?[n]Hombre, no s姻 si salvar a esos tipos lo[n]hace bien...
+H-Hang on a sec!
+So that innocent guy just gets run over?[n]Man, I don't know if saving those guys[n]makes it okay...
 
 [msg MSG_003 [Yusuke]]
-Estoy de acuerdo. No puedes medir el[n]valor de la vida humana solo en n雨meros.
-Supongo que eso hace que este problema[n]sea tan dif胤cil.
+I agree. You can't measure the value of[n]human life in numbers alone.
+I suppose that's what makes this problem[n]so difficult.
 
 [msg MSG_004 [Mitsuru]]
-S胤. Queen lo resumi吋 mejor... No hay[n]respuesta objetivamente correcta.
-Todo lo que podemos hacer es tener en[n]cuenta todo lo que hemos considerado, y[n]luego avanzar.
+Yes. Queen summed it up best― There's no[n]objectively right answer.
+All we can do is keep in mind everything[n]we've considered, then move forward.
 
 [msg MSG_005 [Akechi]]
-Ya veo. 夷As胤 que elegiste no tirar de la[n]palanca, Joker?
-El carro continuar茨 en su camino, y[n]golpear a esas cinco personas... Pero la[n]otra persona ser茨 perdonada.
+I see. So you chose not to pull the[n]lever, Joker?
+The cart will continue on its path, and[n]hit those five people... But the one[n]other person will be spared.
 
 [msg MSG_006 [Chie]]
-夷Est茨 bien? Quiero decir, 夷no ser胤a[n]mejor salvar a cinco personas en vez de[n]solo una...?
-斡Arrgh, no lo entiendo! Tampoco podemos[n]matar a ese otro tipo!
+I-Is that really okay? I mean, wouldn't[n]it be better to save five people instead[n]of just one...?
+Arrgh, I don't get it! We can't just[n]kill that other guy, either!
 
 [msg MSG_007 [Aigis]]
-Si no hacemos un sacrificio, entonces no[n]podemos salvar a otro...
-Una condici吋n de extraordinaria[n]crueldad.
+If we do not make a sacrifice, then we[n]cannot save another...
+A condition of remarkable cruelty.
 
 [msg MSG_008 [Rise]]
-No s姻 qu姻 har胤a si estuviera en esa[n]situaci吋n...
+I don't know what I'd do if I were[n]actually in that situation...
 
 [msg MSG_009 [Makoto]]
-Bueno, como dije, no hay una respuesta[n]que sea objetivamente "correcta" aqu胤.
-Todo lo que podemos hacer es tener en[n]cuenta todo lo que hemos considerado, y[n]luego avanzar.
+Well, like I said, there isn't an answer[n]that's objectively "right" here.
+All we can do is keep in mind everything[n]we've considered, then move forward.
 

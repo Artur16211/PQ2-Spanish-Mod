@@ -1,45 +1,45 @@
 [msg MSG_000 [Junpei]]
-夷Eh? 夷Cambi吋 la historia?
+Huh!? She changed the story!?
 
 [msg MSG_001 [Chie]]
-No estoy seguro por qu姻 estoy[n]preguntando esto, pero... 夷c吋mo termina[n]la historia?
+I'm not sure why I'm even asking this,[n]but... how does the story end?
 
 [msg MSG_002 [Yukiko]]
-La chica aprende lo b茨sico de cocinar[n]del t胤tere y se convierte en chef[n]profesional.
-Entonces los dos comienzan un peque隠o[n]restaurante en la ciudad y viven felices[n]para siempre.
+The girl learns the basics of cooking[n]from the puppet and becomes a[n]professional chef.
+Then the two of them start a little[n]restaurant in the city and live happily[n]ever after.
 
 [msg MSG_003 [Junpei]]
-夷Felizmente? 夷Por qu姻 feliz?
+Happily!? Why happily!?
 
 [msg MSG_004 [Yukari]]
-Esto es agotador.
-Y, Junpei, 夷le dar胤as un descanso a la[n]est雨pida narraci吋n? Est茨s perdiendo[n]nuestro tiempo.
+*sigh* This is exhausting.
+And, Junpei, would you give the stupid[n]storytelling a rest? You're wasting our[n]time.
 
 [msg MSG_005 [Junpei]]
-夷Qu姻? 斡Pero me desmay姻 antes de llegar a[n]la buena parte!
+What!? But I got shut down before I[n]could even get to the good part!
 
 [msg MSG_006 [Yukiko]]
-へ ぺめウ ゅよ ろもまょまょデ ぺゆもむよれテ びゎょま まょ ゅぺ らるカゑもゆぺ[n]れまゆぺょぺ らぺるぺ よろるよ まゆよぼもよょぺょろま まらもれよぽもよ ぽま[n]"へゎやもやよ ゅよ ぼるままデ よ ょよ ゅよ めぺむぺ"
+And there you have it, folks. Tune in[n]next week for another exciting episode[n]of "Yukiko's Believe It, or Don't."
 
 [msg MSG_007 [Chie]]
-夷Eh? 夷Otro episodio?
+Huh? Another episode?
 
 [msg MSG_008 [Makoto]]
-Vamos, basta de charla. Vamos ya.
+*sigh* Come on, that's enough chatter.[n]Let's get going already.
 
 [msg MSG_009 [Makoto]]
-斡Eeek!
+Eeek!
 
 [msg MSG_010 [Junpei]]
-夷Eh? 夷Asustado as胤?
+Huh? Scared just like that?
 
 [msg MSG_011 [Futaba]]
-S姻 que es un raro placer ver a Queen ser[n]el gato asustado, pero no tenemos tiempo[n]para estar de pie.
-Ese sonido era una Sombra o un robot...[n]Sea lo que sea, no es amistoso, as胤 que[n]ten cuidado.
+I know it's a rare treat to see Queen be[n]the scaredy-cat, but we don't have time[n]to stand around.
+That sound was either a Shadow or a[n]robot... Whatever it is, it isn't[n]friendly, so be on your guard.
 
 [msg MSG_012 [Makoto]]
-Lo s姻. Tenemos que estar concentrados[n]con enemigos alrededor.
+I-I know. We need to stay focused with[n]enemies around.
 
 [msg MSG_013 [Yukari]]
-Ngh, ser胤a agradable si pudi姻ramos[n]evitarlos... Supongo que ser茨 mejor que[n]sigamos movi姻ndonos.
+Ngh, it'd be nice if we could just avoid[n]them... Guess we'd better keep moving.
 

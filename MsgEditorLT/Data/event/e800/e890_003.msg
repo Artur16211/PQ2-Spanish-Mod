@@ -1,50 +1,50 @@
 [msg MSG_000 [Elizabeth]]
-Heheheh... Parecer胤a que todos nuestros[n]actores est茨n presentes.
+Heheheh... It would appear that all our[n]actors are present.
 
 [msg MSG_001 [P3 Fem Protag]]
-Theo, esas ropas...
+Theo, those clothes...
 
 [msg MSG_002 [Theodore]]
-夷Esto?
-Bueno, esta es una rara oportunidad para[n]m胤. Etiquette exige que me ponga el[n]traje adecuado.
+Ah, this?
+Well, this is a rare opportunity for me.[n]Etiquette demands I wear the proper[n]attire.
 
 [msg MSG_003 [Rise]]
-Pero no eres nuestro enemigo, Theodore.[n]Luchar contra ti se siente mal...
+But you're not our enemy, Theodore.[n]Fighting you just feels wrong...
 
 [msg MSG_004 [Theodore]]
-Por favor, no dejes que eso te moleste.[n]Despu姻s de todo, esto no es una mera[n]pelea, es un combate formal.
-Combatamos sin sentimientos. Voy a darle[n]todo esto tambi姻n.
+Please, do not let that bother you.[n]After all, this is no mere fight― it is[n]a formal bout.
+Let us battle with no hard feelings. I[n]shall be giving this my all as well.
 
 [msg MSG_005 [Elizabeth]]
-Hmhm... Confieso que me alivia ver que[n]te has calentado, Theo.
+Hmhm... I confess I'm relieved to see[n]you've warmed up to the idea, Theo.
 
 [msg MSG_006 [Theodore]]
-Quiz茨s simplemente tengamos una[n]inclinaci吋n natural a este tipo de[n]cosas.
+Perhaps we simply have a natural[n]inclination to this sort of thing.
 
 [msg MSG_007 [P3 Fem Protag]]
-夷Una inclinaci吋n natural?
+A natural inclination?
 
 [msg MSG_008 [Theodore]]
-Presidimos el poder. Normalmente,[n]simplemente observamos mientras caminas[n]por tu camino...
-はまるよ ぼゎぺょろよ ゆァれ みゎまるろま ぼるまんぼぺれデ ゆァれ れまょろもるまゆよれ[n]ゎょ ぼもまるろよ めぺゆほるまテテテ らぺるぺ ゅゎぼめぺる ぼよょろるぺ ろも を[n]れぺほよるまぺる ろゎ らよぽまる ょよれよろるよれ ゆもれゆよれテ
-El mandato de mi hermana ciertamente me[n]sorprendi吋, pero ahora me doy cuenta...[n]Anhelo la emoci吋n de la batalla.
+We preside over power. Normally, we[n]simply observe as you walk your path...
+But the stronger you grow, the more we[n]feel a certain hunger... to battle you,[n]and taste your power ourselves.
+My sister's command certainly surprised[n]me, but now I realize... I long for the[n]thrill of battle.
 
 [msg MSG_009 [Futaba]]
-Whoaaa... 斡Esa l胤nea sali吋 directamente[n]de un mon吋logo de superboss postjuego![n]夷Esto es como Omega Theodore?
+Whoaaa... That line was straight out of[n]a postgame superboss monologue! Is this,[n]like, Omega Theodore!?
 
 [msg MSG_010 [Theodore]]
-Ahora, empecemos. Por favor, no retengas[n]nada.
+Now, let us begin. Please, hold nothing[n]back.
 
 [sel SEL_011 top]
-Hag茨moslo.
-夷Est茨s listo?
+Let's do this.
+Are you ready?
 
 [msg MSG_012 [Theodore]]
-S胤. Perm胤tanme dar testimonio del[n]alcance total de su poder.
+Yes. Allow me to bear witness to the[n]full scope of your power.
 
 [msg MSG_012_1 [Theodore]]
-Bueno entonces... 斡Aqu胤 voy!
+Well then... Here I come!
 
 [msg MSG_013 [Theodore]]
-Bueno entonces. Empecemos una vez m茨s.[n]Esperar姻 grandes cosas...
+Well then. Let us begin once again. I[n]will be expecting great things...
 

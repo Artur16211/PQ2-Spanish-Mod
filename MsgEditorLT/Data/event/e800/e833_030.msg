@@ -1,18 +1,18 @@
 [msg MSG_000 [Chie]]
-斡Muy bien! 斡Hay m茨s lugares de tesoros[n]por aqu胤!
+All right! There really are more[n]Treasure Spots out here!
 
 [msg MSG_001 [Morgana]]
-Nyeheheh... No importa cu茨ntas veces[n]encuentre tesoro, todav胤a tengo esa[n]prisa...
+Nyeheheh... No matter how many times I[n]find treasure, I still get that rush...
 
 [msg MSG_002 [Rise]]
-Eso se encarga de la primera. 斡Dos[n]lugares a la izquierda, chicos!
+That takes care of the first one. Two[n]places left, guys!
 
 [msg MSG_003 [Mitsuru]]
-Bien. Al siguiente punto warp.[n]Deber胤amos encontrar m茨s tesoros all胤.
+Good. On to the next warp point. We[n]should find more treasure there.
 
 [msg MSG_004 [Haru]]
-Es una zona bastante grande, as胤 que tal[n]vez deber胤amos marcar d吋nde hemos[n]estado.
+It's a rather large area, so maybe we[n]should mark where we've been to.
 
 [msg MSG_005 [Morgana]]
-斡Est茨 bien! 斡Entonces vamos! 斡El tesoro[n]me espera!
+Okay! Then let's get going! The[n]treasure's out there waiting for me!
 

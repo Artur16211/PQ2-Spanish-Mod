@@ -1,57 +1,57 @@
 [msg MSG_000 [Elizabeth]]
-El objetivo de esta proyecci吋n especial[n]es desactivar el nuevo sistema de[n]seguridad y escape de A.I.G.I.S.
-La tecnolog胤a que se encuentra all胤[n]ciertamente es sorprendente, es decir,[n]fuera de este mundo o quiz茨s O.M.G.
-A la luz de este cambio de seguridad, me[n]gustar胤a que investigaras.
+The objective of this special screening[n]is to deactivate A.I.G.I.S.'s new[n]security system and escape.
+The technology found there certainly is[n]surprising―dare I say, out of this world[n]or perhaps O.M.G.
+In light of this change in security, I'd[n]like you to investigate.
 
 [msg MSG_001 [Junpei]]
-Ohh, parece que es hora de la segunda[n]parte de "Junpei lo crea, o no"!
+Ohh, it sounds like it's time for part[n]two of "Junpei's Believe It, or Don't"!
 
 [msg MSG_002 [Yukari]]
-夷Qu姻? 斡No hagas eso!
-斡Lo digo en serio! 斡M茨s vale que no!
+Wha―? Don't do that!
+I'm serious! You better not!
 
 [msg MSG_003 [Junpei]]
-斡Oye, oye, te tengo! 斡Me asegurar姻 de[n]que el estado de 茨nimo sea correcto y[n]todo!
+Hey, hey, I gotcha! I'll make sure the[n]mood's right and everything!
 
 [msg MSG_004 [Yukari]]
-斡No tienes nada!
+You "got" nothing!
 
 [msg MSG_005 [Makoto]]
-Est茨 bien. Puede ser espeluznante all胤,[n]pero al menos no es demasiado oscuro...[n]夷verdad?
+I-It's okay. It may be creepy there, but[n]at least it's not too dark... right?
 
 [sel SEL_006 top]
-Estoy aqu胤 por ti.
-Tengo un mal presentimiento...
-Lo peor es lo peor, peleamos.
+I'm here for you.
+I've got a bad feeling...
+Worst comes to worst, we fight.
 
 [msg MSG_007 [Makoto]]
-Gracias. Me siento mucho m茨s seguro[n]oyendo que dices eso.
+Thanks. I feel a lot safer hearing you[n]say that.
 
 [msg MSG_008 [Makoto]]
-Deja eso. 斡Nada va a pasar!
+S-Stop that. Nothing's going to happen!
 
 [msg MSG_009 [Makoto]]
-Con suerte, es un enemigo que podemos[n]golpear...
-Por favor, no dejes que sea algo no[n]corporal...
+Hopefully, it's an enemy we can actually[n]hit...
+Please don't let it be anything[n]non-corporeal...
 
 [msg MSG_010 [Yukiko]]
-No puedo esperar a ver qu姻 hay en la[n]tienda. Vamos.
+*giggle* I can't wait to see what's in[n]store. Let's go.
 
 [msg MSG_011 [Chie]]
-Yukiko se est茨 divirtiendo.
-Ven a pensar en ello, no quiero ver[n]ninguna palabra G tampoco, 夷entendido?
+Er... Yukiko's having fun.
+Come to think of it, I don't wanna see[n]any G-words either, got it!?
 
 [msg MSG_012 [Akihiko]]
-夷De qu姻 tienen tanto miedo?
-No s姻 qu姻 tipo de sistema de seguridad[n]tienen, pero si aparecen sombras, los[n]derrotamos. Tan simple como eso.
+What are you all so afraid of?
+I dunno what kind of security system[n]they've got, but if any Shadows show up,[n]we beat 'em down. Simple as that.
 
 [msg MSG_013 [Junpei]]
-Bueno, no estamos hablando de Sombras,[n]pero... Est茨n un poco cerca, 夷verdad?
+Well, we're not talkin' about Shadows,[n]but... they're kinda close, right?
 
 [msg MSG_014 [Yukari]]
-斡No est茨n cerca! Mira, 夷podemos darnos[n]prisa y acabar con esto?
+They're nowhere near close! Look, can we[n]just hurry and get this over with?
 
 [msg MSG_015 [Makoto]]
-Bueno, el sistema de seguridad ha[n]cambiado, as胤 que tendremos que proceder[n]con cuidado.
-Watch your step out there, [f 6 1 29 0 0 0]-kun.
+Well, the security system's been[n]changed, so we'll need to proceed[n]carefully.
+Watch your step out there,-kun.
 

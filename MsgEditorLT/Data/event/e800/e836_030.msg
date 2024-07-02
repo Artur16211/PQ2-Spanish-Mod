@@ -1,50 +1,50 @@
 [msg MSG_000 [Fuuka]]
-斡Buen trabajo! 斡Ese es el primero!
+Good job, everyone! That's the first[n]one!
 
 [msg MSG_001 [Junpei]]
-斡Muy bien! Solo necesitamos dos m茨s,[n]夷verdad?
-Pero esto va a encender a nuestros[n]navegantes, 夷eh? 夷Qu姻 poderes tendr茨n?
+All right! We just need two more, right?
+But this is gonna power up our[n]navigators, huh? Wonder what powers[n]they'll get?
 
 [msg MSG_002 [Akihiko]]
-夷Quiz茨 algo como Auto-Prote胤na? 斡Puede[n]darnos autom茨ticamente un impulso de[n]prote胤nas!
+Hm... Maybe something like Auto-Protein?[n]It can automatically give us a boost of[n]protein!
 
 [msg MSG_003 [Ken]]
-Bueno... Me gustar胤a algo m茨s fresco.[n]斡Quiz茨s puedan generar sables de haz[n]para nosotros!
+Well... I'd like something cooler. Maybe[n]they'll be able to generate beam sabers[n]for us!
 
 [msg MSG_004 [Futaba]]
-Siento dec胤rtelo, chicos, pero los[n]sables de haz no est茨n en las cartas. O[n]prote胤na, tampoco.
+Sorry to break it to you, guys, but beam[n]sabers aren't in the cards. Or protein,[n]either.
 
 [msg MSG_005 [Akihiko]]
-Bah, cifras...
+Bah, figures...
 
 [msg MSG_006 [Ken]]
-Por supuesto que no...
+O-Of course not...
 
 [msg MSG_007 [Fuuka]]
-つれろぺゆよれ ほゎれぼぺょぽよ ぺゎゆまょろぺる ょゎまれろるぺ わまゅよぼもぽぺぽ を[n]ょゎまれろるぺ ろるぺょれゆもれもカょ ぽま もょみよるゆぺぼもカょ らぺるぺ りゎま[n]らよぽぺゆよれ ろるぺほぺゃぺる ゆまゃよる ぼよゆよ むるゎらよテ
-Creo que deber胤a ser capaz de hackear[n]algo as胤 juntos... 斡Seguro que ayudar茨!
+We're looking to increase our speed and[n]our information streaming so we can work[n]even better as a group.
+I think I should be able to hack[n]something like that together... I'm sure[n]it'll help!
 
 [msg MSG_008 [Yosuke]]
-Dices que es f茨cil, pero el hecho de que[n]puedas inventar nueva tecnolog胤a como[n]esa es incre胤ble...
+You say that like it's easy, but the[n]fact that you can just invent new tech[n]like that is amazing...
 
 [msg MSG_009 [Rise]]
-Lo s姻, 夷verdad? Es una locura lo que[n]Oracle y Fuuka pueden hacer con todo[n]esto de ingenier胤a!
-斡Son nuestro equipo de ensue隠o[n]navegante! 斡Pueden hacer cualquier cosa!
+I know, right? It's crazy what Oracle[n]and Fuuka-chan can do with all this[n]engineering stuff!
+They're our navigator dream team! They[n]can do anything!
 
 [msg MSG_010 [Fuuka]]
-No s姻... Sus habilidades de navegaci吋n[n]son tan buenas como las nuestras.
+O-Oh, I don't know... Your navigation[n]skills are just as good as ours.
 
 [msg MSG_011 [Futaba]]
-ィひウ! つゅゅぺ まれ まゑぺぼろぺデ まゅゅぺ ゆぺょろもまょま ゅぺれ ぼよれぺれ[n]れもゆらゅまれデ を めよゅぺデ まゅゅぺ まれ ゎょ とっのに! エだ りゎもイょ ょよ[n]ゅま まょぼぺょろぺるウぺ ろまょまるゅぺ らよる ぺりゎウ?
+Yeah! She's accurate, she keeps things[n]simple, and hello, she's an IDOL! Who[n]wouldn't love having her around?
 
 [msg MSG_012 [P4 Hero]]
-Cada navegante es diferente y 雨nico.
-Pero hay una cosa que todos tienen, y[n]eso es incre胤ble habilidad. Por eso[n]podemos explorar sin preocuparse.
+Each navigator is different and unique.
+But there's one thing they all have, and[n]that's incredible skill. That's why we[n]can explore without worrying.
 
 [msg MSG_013 [Rise]]
-Eheh... Bueno, cuando Senpai lo dice[n]as胤...!
-斡Pero esto nos ayudar茨 a potenciar a雨n[n]m茨s! As胤 que prep茨rate, 夷de acuerdo?
+Eheheh... Well, when Senpai says it like[n]that...!
+But this'll help us power up even more![n]So be ready, okay?
 
 [msg MSG_014 [Fuuka]]
-斡Haz lo que puedas para encontrar las[n]雨ltimas dos piezas!
+Do your best to find the last two[n]pieces, everyone!
 

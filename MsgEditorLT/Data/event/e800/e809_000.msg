@@ -2,51 +2,51 @@
 ...
 
 [sel SEL_001 top]
-夷Qu姻 pasa?
-夷Tienes hambre o algo?
+夷Qu姻 ocurre?
+夷Tienes hambre o algo as胤?
 
 [msg MSG_002 [Yusuke]]
-Oh... Lo siento, estaba mirando este[n]graffiti.
+Oh... Perd吋n, solo estaba mirando este grafiti.
 
 [msg MSG_003 [Yusuke]]
-Bueno, podr胤a comer, pero estoy lejos de[n]morir de hambre.
-Estaba mirando este graffiti.
+Bueno, ciertamente podr胤a comer algo, pero estoy lejos de morirme de hambre.
+Solo estaba mirando este grafiti.
 
 [msg MSG_004 [Yusuke]]
-Mira aqu胤. Es inacabado.
+Mira aqu胤. Est茨 sin acabar.
 
 [msg MSG_005 [Ryuji]]
-S胤, no es como los otros. 夷Tal vez se[n]aburrieron a mitad de camino?
+Oh, s胤, no es como los otros. A lo mejor se aburrieron cuando llevaban la mitad.
 
 [msg MSG_006 [Yusuke]]
-No, eso es poco probable.
-Puedo sentir la vacilaci吋n del artista[n]aqu胤, su sufrimiento...
-Sus manos fueron obligadas a dejar de[n]pintar contra su voluntad. Justo aqu胤.
+No, eso parece poco probable.
+Puedo sentir aqu胤 la duda del artista, su sufrimiento...
+Esas manos fueron forzadas a parar de pintar en contra de su voluntad. Justo aqu胤.
 
 [msg MSG_007 [P3 Fem Protag]]
-Wow, Fox. 夷C吋mo lo averiguaste todo?
+Wow, Fox. 夷C吋mo te has dado cuenta de todo eso?
 
 [msg MSG_008 [Yusuke]]
-Graffiti es un crimen, pero hay una[n]cualidad art胤stica que no puede ser[n]descartada.
-へ ょよ ゆま るまみもまるよ ぺ ゅぺ ろイぼょもぼぺテ ばゎもまるよ ぽまぼもる ゅよれ[n]れまょろもゆもまょろよれ ぽまゅ ぼるまぺぽよる を まゅ ゆまょれぺゃま りゎま[n]ろるぺろぺょ ぽま ろるぺょれゆもろもる ぺ ゅぺ れよぼもまぽぺぽテテテ!
-斡S胤, viene a m胤! 斡Este pozo de[n]inspiraci吋n simplemente no dejar茨 de[n]fluir!
-Ahh, tal vez llenar姻 los huecos y lo[n]terminar姻 para ellos...!
-斡Urgh! No... 斡Sigue, mi mano...!
+Hacer graffitis es un crimen, pero tienen una cualidad art胤stica que no se puede pasar por alto.
+Y no me refiero solo a la t姻cnica. 斡Me refiero a los sentimientos del creador y el mensaje que intentan transmitir a la sociedad...!
+S胤, 斡viene a por m胤! Esta fuente de inspiraci吋n no parar茨 de fluir.
+Ahh, 斡quiz茨s puedo rellenar los huecos y terminarlo por 姻l...!
+Urgh! No... 斡Quieta, mano...!
 
 [msg MSG_009 [Ryuji]]
-Welp, est茨 en ello otra vez.
+Bueno, ya est茨 otra vez as胤.
 
 [msg MSG_010 [Morgana]]
-Nunca me ha importado mucho el graffiti.
-Pero es un crimen, 夷verdad? Si Queen se[n]entera, estar胤as degustando el pu隠o de[n]hierro de la justicia con seguridad.
+Hmm, nunca me hab胤a preocupado mucho por los grafitis.
+Pero es un crimen, 夷verdad? Si Queen lo viera, seguro que probar胤ais el pu隠o de la justicia.
 
 [msg MSG_011 [Ann]]
-Oye, 夷cu茨nto tiempo van a quedarse ah胤?[n]斡Queen y Noir nos est茨n esperando![n]斡Vamos!
+Hey, 夷cu茨nto tiempo m茨s vais a estar ah胤 quietos? 斡Queen y Noir nos est茨n esperando! 斡Vamos!
 
 [msg MSG_012 [Yusuke]]
-Mis disculpas, estaba distra胤do...[n]Cierto. Son nuestra m茨xima prioridad.
-Ahora, salgamos. 斡Debemos destronar a[n]ese falso h姻roe!
+Mis disculpas, me he distra胤do... Bien. Acabemos con nuestra prioridad.
+Ahora, v茨monos. 斡Debemos destronar a ese falso h姻roe!
 
 [msg MSG_013]
-Hay un graffiti inacabado en la pared...
+Hay algunos grafitis sin acabar en esta pared...
 

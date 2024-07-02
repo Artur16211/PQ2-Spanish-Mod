@@ -1,69 +1,69 @@
 [msg MSG_000 [Elizabeth]]
-斡Bien! Se siente como si finalmente nos[n]acercamos al gran final a todas estas[n]proyecciones especiales.
-はまょれぺょぽよ まょ まゅゅよデ ゅよれ もょょゎゆまるぺほゅまれ[n]まれらまぼろァぼゎゅよれ ぽま ゅよれ りゎま めぺれ れもぽよ らぺるろま みゎまるよょ[n]るまぺゅゆまょろま まれらまぼろぺぼゎゅぺるまれ まょ れゎれ らるよらもよれ[n]ぼぺゆもょよれテ
+Well! It feels as though we're finally[n]approaching the grand finale to all[n]these special screenings.
+Thinking back, the countless shows[n]you've been a part of were all truly[n]spectacular in their own ways.
 
 [msg MSG_001 [Hikari]]
-S胤... Siempre les espero ahora, ya que[n]puedo ver diferentes caras a todos.
-Son todos tan memorables... como las[n]grandes pel胤culas.
+Yeah... I always look forward to them[n]now, since I get to see different sides[n]to everyone.
+They're all so memorable... like great[n]movies should be.
 
 [msg MSG_002 [Elizabeth]]
-Ya es hora de que te tomes un descanso.[n]Disfruta de una proyecci吋n del tipo[n]especial.
+It's about time you take a break. Enjoy[n]a screening of the special sort.
 
 [msg MSG_002_1 [Elizabeth]]
-Parecer胤a que una sombra mortal ha[n]aparecido en las profundidades de la[n]pel胤cula de Hikari.
-Por favor, matala, y as胤 prueba tu[n]fuerza.
+It would seem a deadly Shadow has[n]appeared in the depths of Hikari's[n]movie.
+Please slay it, and thus prove your[n]strength.
 
 [sel SEL_003 top]
-Hag茨moslo.
-夷Otra vez? 夷En serio?
+Let's do this.
+Again? Seriously?
 
 [msg MSG_004 [Akihiko]]
-S胤, los llevaremos. Es una oportunidad[n]perfecta para entrenarnos a雨n m茨s.
+Yeah, we'll take them on. It's a perfect[n]opportunity to train ourselves even[n]harder.
 
 [msg MSG_005 [Mitsuru]]
-No tiene sentido negarse. Las batallas[n]serias como estas son oportunidades[n]valiosas para nosotros.
+Come now, there's no sense refusing.[n]Serious battles like these are valuable[n]opportunities for us.
 
 [msg MSG_006 [P3 Fem Protag]]
-斡S胤, Senpai tiene raz吋n! Despu姻s de[n]todo, tenemos mucho m茨s peleas por[n]delante.
+Yeah, Senpai's right! We've got a lot[n]more fighting ahead of us, after all.
 
 [msg MSG_007 [Junpei]]
-Entonces, 夷cu茨les son las sobras? Si[n]esto es como siempre, va a tener un yeso[n]espec胤fico, 夷verdad?
+So, what's the deets? If this is just[n]like usual, it's gonna have a specific[n]cast, right?
 
 [msg MSG_008 [Elizabeth]]
-Ah s胤, [f 6 1 27 0 0 0].
-Seg雨n el ticket, usted parece ser el[n]miembro de fundici吋n especificado para[n]esta proyecci吋n.
+Ah yes, [f 6 1 27 0 0 0].
+According to the ticket, you appear to[n]be the specified cast member for this[n]screening.
 
 [msg MSG_009 [P3 Fem Protag]]
-W-wait, me?!
+W-Wait, me!?
 
 [msg MSG_010 [Elizabeth]]
-Indeed so. Please make certain that you[n]participate in this battle, [f 6 1 27 0 0 0].
+Indeed so. Please make certain that you[n]participate in this battle,.
 
 [msg MSG_011 [Junpei]]
-斡Lo tienes, dama l胤der!
+You got this, leading lady!
 
 [msg MSG_011_1 [Junpei]]
-No te preocupes. 斡No hay manera de que[n]puedas perder! Me tienes de tu lado, y[n]soy la superestrella m茨s grande aqu胤!
+Don't worry. There's no way you can[n]lose! You got me on your side, and I'm[n]the biggest superstar here!
 
 [msg MSG_012 [P3 Fem Protag]]
-Hee hee... Gracias, Junpei, pero no[n]esperar姻 ning雨n h姻roe.
+Hee hee... Thanks, Junpei, but I won't[n]expect any big heroics.
 
 [msg MSG_013 [Junpei]]
-斡Podr胤a ser un h姻roe si quisiera!
+H-Hey now, I could be a hero if I[n]wanted!
 
 [msg MSG_014 [Yukari]]
-Cuando lo dices as胤, suenas m茨s como un[n]perdedor.
+When you say it like that, you sound[n]like even more of a loser.
 
 [msg MSG_015 [Elizabeth]]
-Bueno. Los invito a mostrar su poder al[n]contenido de sus corazones.
-Y cuando hayas logrado esta obra con tu[n]habitual aplomo...
+Well then, everyone. I invite you to[n]display your power to your hearts'[n]content.
+And when you've accomplished this deed[n]with your usual aplomb...
 
 [msg MSG_015_1 [Elizabeth]]
-斡Finalmente, mi tiempo llegar茨...! 斡Oh,[n]la emoci吋n! 斡Mi coraz吋n est茨 golpeando!
+Finally, my time will come...! Oh, the[n]thrill of it! My heart is pounding!
 
 [msg MSG_016 [P3 Fem Protag]]
-Ella parece un poco distra胤da, as胤[n]que... mejor nos centramos en golpear a[n]ese enemigo all胤.
+She seems kinda distracted, so... we'd[n]better focus on beating that enemy down[n]there.
 
 [msg MSG_016_1 [P3 Fem Protag]]
-Dijo que estaba en las profundidades de[n]la pel胤cula de Hikari, 夷verdad? Una vez[n]que estemos listos, 斡vamos!
+She said it was in the depths of[n]Hikari-chan's movie, right? Once we're[n]all set, let's get going!
 

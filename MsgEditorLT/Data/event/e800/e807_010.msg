@@ -1,99 +1,99 @@
 [msg MSG_000 [Elizabeth]]
-斡Ha llegado el momento!
+斡Ha llegado la hora!
 
 [msg MSG_001 [Kanji]]
-夷Para qu姻?
+Eh... 夷Para qu姻?
 
 [msg MSG_002 [Elizabeth]]
-Desde que llegaste a este mundo, has[n]enfrentado una lucha ardua tras otra...
-ぢよょ ゅよ ゅまゃよれ りゎま めぺれ ゅゅまむぺぽよデ ぼるまよ りゎま ぺめよるぺ[n]らゎまぽまれ れまる ゅよ れゎみもぼもまょろまゆまょろま みゎまるろま らぺるぺ[n]れゎらまるぺる まれろま ょゎまわよ ぽまれぺみウよテテテ
-斡No hablo de ninguna otra que la pr吋xima[n]proyecci吋n especial!
-Esta vez, se le encargar茨 de entrar en[n]la ciudad de Kamo y derrotar al pollo[n]FOE!
+Desde que llegaron a este mundo, han hecho frente a un duro problema tras otro...
+Como han llegado tan lejos, supongo que ser茨n lo suficientemente fuertes para superar este nuevo desaf胤o...
+斡No hablo nada m茨s y nada menos que de la pr吋xima proyecci吋n especial!
+Esta vez, 斡os pedir姻 entrar en Kamo City y derrotar al FOE gallina!
 
 [msg MSG_003 [Ann]]
-夷Te refieres a ese cretino sosteniendo[n]la pierna de pollo?
+夷Te refieres a ese grande asqueroso que llevaba una pata de pollo?
 
 [msg MSG_004 [Elizabeth]]
-Eso es correcto.
+Correcto.
 
 [msg MSG_005 [Morgana]]
-Hah. Esto deber胤a ser f茨cil. 斡Ya hemos[n]ganado a su tipo antes!
-Ser茨 un negocio como siempre, pero con[n]una recompensa mayor. Eso me suena muy[n]bien.
+Ja. Eso deber胤a ser f茨cil. 斡Ya hemos vencido a otros as胤 antes!
+Ser茨 como siempre, pero con una mejor recompensa. Eso suena muy bien para m胤.
 
 [msg MSG_006 [Morgana]]
-Al principio, no ten胤amos otra opci吋n[n]que huir... pero hemos crecido mucho m茨s[n]fuerte desde entonces.
-Probablemente podemos manejarlo ahora,[n]夷no crees? Vamos a intentarlo.
+Al principio no ten胤amos ninguna oportunidad aparte de esquivarlos... pero hemos mejorado un mont吋n desde entonces.
+Ahora probablemente podremos ocuparnos de 姻l, 夷no creen? Vamos a intentarlo.
 
 [msg MSG_007 [Yusuke]]
-Tambi姻n quisiera participar en esta[n]prueba especial.
-He estado interesado en su arma por un[n]tiempo. Una forma tan intrigante... Es[n]casi como una losa de carne.
+A m胤 tambi姻n me gustar胤a participar en esta proyecci吋n especial.
+He estado interesado en esa arma suya desde hace tiempo. Tiene una forma intrigante... Es casi como un trozo de carne.
 
 [msg MSG_008 [Ryuji]]
-斡Acabo de recordar!
-斡Sab胤a que hab胤a visto un enorme trozo[n]de carne en alg雨n lugar! As胤 que ah胤 es[n]donde estaba...
+Ohh, 斡me acabo de acordar!
+斡Sab胤a que hab胤a visto un trozo gigante de carne en alg雨n sitio! As胤 que era all胤...
 
 [msg MSG_009 [Chie]]
-夷Un mont吋n de carne?
-斡Muy bien, vamos a sacarlos! 斡Ese pollo[n]es m胤o!
+斡夷Un trozo gigante de carne?!
+Muy bien, 斡vamos a por 姻l! 斡Ese pollo ser茨 m胤o!
 
 [msg MSG_010 [Yusuke]]
-Arte comestible, 夷eh? Lo espero.
+夷Arte comestible, hm...? Estoy dese茨ndolo.
 
 [msg MSG_011 [P4 Hero]]
-... Parece que 姻l y Chie planean[n]comerlo.
+... Suena como si 姻l y Chie estuvieran planeando com姻rselo.
 
 [msg MSG_012 [Naoto]]
-S胤... Ciertamente parecer胤a as胤.
+S胤... Podr胤a parecer as胤.
 
 [msg MSG_013 [Akechi]]
-Espera un minuto. Puede parecer carne a[n]primera vista, pero no hay garant胤a de[n]que sea comestible...
+Espera un minuto. A primera vista parece ser carne, pero no est茨 garantizado que sea comestible...
 
 [msg MSG_014 [Chie]]
-Comer es creer! 斡Nunca lo sabremos a[n]menos que lo intentemos!
+斡Comer es creer! 斡No lo sabremos hasta que lo probemos!
 
 [msg MSG_015 [Yusuke]]
-De acuerdo. No puedo suprimir mi pasi吋n[n]por el arte ni mi pasi吋n por la comida.
+Coincido. No puedo reprimir ni mi pasi吋n por el arte ni por la comida.
 
 [msg MSG_016 [Morgana]]
-Vaya, parece que est茨n muertos comiendo[n]esa cosa... Quiz茨s deber胤as decir algo.
+Caray, parece que est茨n dispuestos a com姻rselo... Quiz茨 deber胤as decirles algo.
 
 [sel SEL_017 top]
-Derrotar el FOE viene primero.
+Derrotar al FOE es lo primero.
 斡Es un buffet de carne!
-Golp姻ense.
+Que os den.
 
 [msg MSG_018 [Chie]]
-斡Bien, bien, bien! 斡Y luego tenemos la[n]carne!
+斡Bien, bien, bien! 斡Y despu姻s conseguimos la carne!
 
 [msg MSG_019 [Morgana]]
-夷Qu姻? 夷Tambi姻n est茨s en esto?
+斡夷Qu姻?! 斡Tu tambi姻n est茨s en esto!
 
 [msg MSG_020 [Chie]]
-斡Un buffet! 斡Me gusta el sonido de eso![n]斡Apres雨rense y ag茨rrenlo!
+斡Un buffet! 斡Me encanta como suena! 斡Vamos a darnos prisa y a conseguirlo!
 
 [msg MSG_021 [Yusuke]]
-Muy bien, haremos lo que nos plazca.[n]Sugiero que traigamos algunos[n]contenedores para la carne.
+Muy bien, haremos como nos plazca. Sugiero que llevemos recipientes para la carne.
 
 [msg MSG_022 [Chie]]
 斡Oh! 斡Yo tambi姻n!
 
 [msg MSG_023 [Yosuke]]
-T胤o, realmente est茨n listos para hacer[n]esto.
-Bueno, si es carne FOE que quieres,[n]supongo que deber胤a echar una mano.
+T胤os, realmente est茨is empe隠ados en hacer esto.
+Bueno, si quieren la carne del FOE, supongo que os echar姻 una mano.
 
 [msg MSG_024 [P4 Hero]]
-Yosuke... 夷Tienes hambre tambi姻n?
+Yosuke... 夷T雨 tambi姻n tienes hambre?
 
 [msg MSG_025 [Yosuke]]
-斡No lo comer姻!
-Es que... Bueno... Siento que es hora de[n]empezar a sacar mi propio peso de nuevo,[n]夷sabes?
-Estuve separado de todos durante todo[n]ese tiempo, as胤 que no he tenido la[n]oportunidad de mostrar mis cosas.
+斡Yo no quiero com姻rmela!
+Es que... Bueno... Creo que ya es hora de que ponga un poco de mi parte, 夷no crees?
+Estuve separado de todos durante todo este tiempo, as胤 que realmente no he tenido oportunidad de mostrar mi talento.
 
 [msg MSG_026 [P4 Hero]]
 ...
 
 [msg MSG_027 [Elizabeth]]
-*chuckle* apetitos monstruosos,[n]curiosidad persistente y otras[n]motivaciones complejas tambi姻n...
-Aunque sus razones pueden diferir, todos[n]ustedes est茨n unidos en su determinaci吋n[n]de ver esto a trav姻s.
-Sin embargo, recuerde que se enfrentar茨[n]a un FOE... Le pido que permanezca[n]vigilante hasta el final.
+*risita* Apetitos monstruosos, curiosidad persistente y otros motivos complejos tambi姻n...
+Aunque sus razones puedan ser distintas, est茨n muy unidos para conseguirlo.
+Sin embargo, recordad que se enfrentar茨n a un FOE... Os pido que tengan cuidado hasta el final.
 

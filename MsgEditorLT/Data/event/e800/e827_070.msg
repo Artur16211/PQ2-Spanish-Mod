@@ -1,198 +1,198 @@
 [msg MSG_000 [Elizabeth]]
-Gracias por traer las partes. Aqu胤 est茨[n]tu recompensa.
+Thank you for bringing the parts in.[n]Here is your reward.
 
 [msg MSG_001 [Elizabeth]]
-Como prometi吋, tambi姻n puede comer todas[n]las donas que desea...
-Y [f 6 1 13 0 0 0], por la presente le concedo el[n]privilegio de unirse a la competencia de[n]comer!
+As promised, you may also eat all the[n]donuts you desire...
+and [f 6 1 13 0 0 0], I hereby grant you the[n]privilege of joining the eating[n]competition!
 
 [msg MSG_002 [P3 Hero]]
-No parece que tengamos el "privilegio"[n]de negarnos.
+Doesn't look like we have the[n]"privilege" of refusing.
 
 [msg MSG_003 [P4 Hero]]
-S胤. Estoy acechando mi est吋mago...
+Yeah. I'm steeling my stomach...
 
 [msg MSG_004 [Theodore]]
-Ahora, preparar姻 la freidora. Por favor,[n]dame un momento.
+Now, I will prepare the fryer. Please[n]give me a moment.
 
 [msg MSG_005 [Theodore]]
-Gracias por esperar.
-La freidora est茨 fija, y ahora est茨[n]lista para producir donuts aplenty.
+Thank you for waiting.
+The fryer is fixed, and it is now ready[n]to produce donuts aplenty.
 
 [msg MSG_006 [Shinjiro]]
-夷C吋mo me atasqu姻 en el equipo de[n]cocina...?
+How did I get stuck on the cooking[n]crew...?
 
 [msg MSG_007 [Theodore]]
-Mis disculpas, pero me temo que habr胤a[n]sido un poco para m胤 solo...
+My apologies, but I'm afraid it would[n]have been a bit much for me alone...
 
 [msg MSG_008 [Margaret]]
-Perm胤tanme revisar las reglas. Su[n]objetivo es simple...
-Quien pueda comer m茨s donuts que su[n]oponente dentro del plazo ser茨 declarado[n]ganador.
-夷Est茨n listos?
+Allow me to review the rules. Your[n]objective is simple...
+Whoever can eat more donuts than his[n]opponent within the time limit shall be[n]declared the winner.
+Are you two ready?
 
 [msg MSG_009 [P4 Hero]]
-He llegado hasta aqu胤. Ahora no hay[n]marcha atr茨s.
-... Y si estamos haciendo esto, quiero[n]enfrentarte a ti mejor.
+I've come this far. There's no backing[n]out now.
+...And if we're doing this, I want to[n]face you at your best.
 
 [msg MSG_010 [P3 Hero]]
-... Espero sobrevivir.
+...Hopefully I'll survive it.
 
 [msg MSG_011 [Elizabeth]]
-斡Ahora... que empiece el desaf胤o[n]Wildcard!
+Now... let the Wildcard challenge begin!
 
 [msg MSG_012 [Kanji]]
-斡Creo en ti, Senpai!
+I believe in you, Senpai!
 
 [msg MSG_013 [Aigis]]
-- 斡San, s姻 que puedes hacerlo!
+-san, I know you can do it!
 
 [msg MSG_014 [Ann]]
-斡Buena suerte, ustedes dos!
+Good luck, you two!
 
 [msg MSG_015 [Elizabeth]]
-Un plato m茨s de donas, por favor.
+One more plate of donuts here, please.
 
 [msg MSG_016 [Margaret]]
-Uno por aqu胤 tambi姻n. S姻 r茨pido.
+One over here, too. Be quick about it.
 
 [msg MSG_017 [Haru]]
-Los donuts se est茨n desvaneciendo tan[n]r茨pido...
+The donuts are vanishing so swiftly...
 
 [msg MSG_018 [Shinjiro]]
-斡Ya est茨! 斡Deprisa!
+There ya go! Hurry up!
 
 [msg MSG_019 [Kanji]]
-斡Senpai! 斡Est茨 caliente y fresco![n]斡D姻jame soplarle para que se enfr胤e!
+Senpai! It's hot and fresh! Lemme blow[n]on it so it'll cool down!
 
 [msg MSG_020 [Aigis]]
-Entonces usar姻 un ventilador del aire[n]acondicionado...!
+Then I shall use an air-conditioner[n]fan...!
 
 [msg MSG_021 [P4 Hero]]
-... Hngh...
+...Hngh...
 
 [msg MSG_022 [P3 Hero]]
-... Gh...
+...Gh...
 
 [msg MSG_023 [Makoto]]
-Ambos est茨n comiendo tanto, pero parece[n]que se est茨 poniendo dif胤cil.
+They're both eating so much, but it[n]looks like it's getting tough.
 
 [sel SEL_024 top]
-夷Tal vez un poco de agua?
-夷Tal vez cambiar el sabor?
+Maybe some water?
+Maybe change the flavor?
 
 [msg MSG_025 [Ryuji]]
-S胤, comer nada, pero los donuts secar胤an[n]la boca...
+Yeah, eating nothin' but donuts would[n]get your mouth all dry...
 
 [msg MSG_026 [Akihiko]]
-No. Si beben agua ahora, todo se[n]expandir茨 en su est吋mago.
-Por eso luchan contra el impulso de[n]tomar una copa.
+No. If they drink water now, it'll all[n]expand in their stomach.
+That's why they're fighting against the[n]urge to take a drink.
 
 [msg MSG_027 [Makoto]]
-Cierto... Deben estar cansados de comer[n]el sabor por ahora...
+True... They must be tired of eating the[n]one flavor by now...
 
 [msg MSG_028 [Rise]]
-Si quieren aumentar su hambre, 斡quiz茨s[n]prueba algo picante! Senpai, 斡tengo[n]salsa superhot!
+If they want to boost their hunger,[n]maybe try something spicy! Senpai, I[n]have some superhot sauce!
 
 [msg MSG_029 [Fuuka]]
-Alg雨n tipo de 茨cido ayudar胤a a arreglar[n]su est吋mago, 夷verdad? 夷Qu姻 tal un[n]vinagre?
+Some sort of acid would help settle[n]their stomach, right? How about some[n]vinegar?
 
 [msg MSG_030 [Yosuke]]
-夷Est茨s tratando de matarlos?
+Are you trying to kill them!?
 
 [msg MSG_031 [Margaret]]
-No importa lo que pase, su tiempo se[n]est茨 acabando...
+No matter what happens, their time is[n]running out...
 
 [msg MSG_032 [Elizabeth]]
-3, 2, 1... 斡Se acab吋 el tiempo!
-Empecemos la historia.
+3, 2, 1... Time's up!
+Let us start the tally.
 
 [msg MSG_033 [Junpei]]
-夷Qui姻n gan吋...?
+Wh-Who won...?
 
 [msg MSG_034 [Yosuke]]
-No puedes decir s吋lo mirando los[n]platos...
+You can't tell just by looking at the[n]plates...
 
 [msg MSG_035 [Theodore]]
-Ahora, declarar姻 el veredicto...
-Parece que comieron exactamente la misma[n]cantidad de donuts. Esta batalla[n]concluye como un sorteo decisivo.
+Now, I shall declare the verdict...
+They appear to have eaten exactly the[n]same amount of donuts. This battle[n]concludes as a decisive draw.
 
 [msg MSG_036 [P4 Hero]]
-...
+......
 
 [msg MSG_037 [P3 Hero]]
-...
+......
 
 [msg MSG_038 [Kanji]]
-Parece que usaron toda su energ胤a...
+L-Looks like they used up all their[n]energy...
 
 [msg MSG_039 [Margaret]]
-夷Una coincidencia? Bueno, esperaba[n]tanto.
+An even match...? Well, I expected as[n]much.
 
 [msg MSG_040 [Elizabeth]]
-S胤. Me atrevo a decir que estoy[n]satisfecho.
+Yes. I daresay I'm quite satisfied.
 
 [msg MSG_041 [Ryuji]]
-Si supieras que ser胤a una corbata, 夷por[n]qu姻 los hiciste ir?
+If you knew it'd be a tie, then why'd[n]you make 'em go at it?
 
 [sel SEL_042 top]
-夷Un experimento?
-Se aburrieron.
+An experiment?
+They just got bored.
 
 [msg MSG_043 [Margaret]]
-斡De hecho! Deseamos probar el verdadero[n]potencial de los Wildcards.
+Indeed! We wished to test the true[n]potential of the Wildcards.
 
 [msg MSG_044 [Margaret]]
-No es necesario calumniar. Simplemente[n]intentamos probar el potencial de los[n]Wildcard.
+There's no need for slander. We merely[n]aimed to test the Wildcards' potential.
 
 [msg MSG_045 [Elizabeth]]
-S胤. Ahora sabemos la verdad.
+Yes. We now know the truth.
 
 [msg MSG_046 [Junpei]]
-夷Eso es todo lo que quer胤as? Chicos,[n]creo que se les permite quejarse[n]ahora...
+That's all you wanted? Guys, I think[n]you're allowed to complain now...
 
 [msg MSG_047 [P4 Hero]]
-... No est茨 mal, [f 6 1 16 0 0].
+...Not bad, [f 6 1 16 0 0].
 
 [msg MSG_048 [P3 Hero]]
-Same va para ti, [f 6 1 13 0 0 0].
+Same goes for you, [f 6 1 13 0 0 0].
 
 [msg MSG_049 [Junpei]]
-斡Miradlos ahora! 斡Terminaron con una[n]rara conexi吋n de donut!
+What the―Look at them now! They ended up[n]with some weird donut connection!
 
 [msg MSG_050 [P3 Hero]]
-Me imagin姻 que una gran competencia de[n]comer iba a ser un arrastre... pero fue[n]divertido.
-Creo que tengo que conocerte un poco[n]mejor de esto.
+I kind of figured a big eating[n]competition was going to be a drag...[n]but it was fun.
+I think I got to know you a little[n]better from this.
 
 [msg MSG_051 [P4 Hero]]
-Aqu胤 mismo. Estoy deseando trabajar[n]juntos a partir de ahora.
+Same here. I'm looking forward to[n]working together with you from now on.
 
 [msg MSG_052 [Elizabeth]]
-斡Y est茨n contentos de compartir primero![n]Perm胤tanme recompensar sus esfuerzos con[n]este trofeo.
+And so they are content to share first[n]place! Allow me to reward your efforts[n]with this trophy.
 
 [msg MSG_053 [Yosuke]]
-夷Cu茨ndo hiciste esto?
+When did you even make this...?
 
 [msg MSG_054 [Ann]]
-Al menos tenemos que verlos competir.[n]斡Ahora es nuestro turno, as胤 que trae[n]las donas!
+Well at least we got to see them[n]compete. Now it's our turn, so bring on[n]the donuts!
 
 [msg MSG_055 [Shinjiro]]
-Sobre eso.
+Uh, about that.
 
 [msg MSG_056 [Theodore]]
-Trabajamos la m茨quina bastante duro.[n]Parece que la freidora est茨 rota otra[n]vez.
-Y esta vez, temo que un reemplazo de[n]piezas simples no ser茨 suficiente.
+We worked the machine rather hard. It[n]appears the fryer is broken again.
+And this time, I fear a simple parts[n]replacement will not be enough.
 
 [msg MSG_057 [Yusuke]]
-夷Qu姻...? Mis donuts...
+What...? My donuts...
 
 [msg MSG_058 [Shinjiro]]
-Rel茨jate. Har姻 un par de lotes de donuts[n]cuando lleguemos a casa.
+...Relax. I'll make a couple batches of[n]donuts when we get home.
 
 [msg MSG_059 [Teddie]]
-Entonces vamos a tener una fiesta de[n]donut cuando regresemos, tambi姻n!
+Then let's have a donut party when we[n]get back, too!
 
 [msg MSG_060 [P3 Hero]]
-Creo que pasar姻 donuts por un tiempo...
+I think I'll pass on donuts for a[n]while...
 
 [msg MSG_061 [P4 Hero]]
-Qu姻 coincidencia. Yo tambi姻n...
+What a coincidence. Me too...
 

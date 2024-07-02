@@ -1,56 +1,56 @@
 [msg MSG_000 [Ann]]
-Chur-ros, chur-ros, dulce, azucarado[n]churroooooos!
+Chu-rros, chu-rros, 斡dulces y azucarados, churroooooooos!
 
 [msg MSG_001 [P3 Fem Protag]]
-*giggle* Panther est茨 de buen humor. Yo[n]tambi姻n estoy emocionada.
+*risita* Panther seguro que est茨 de buen humor. Aunque, yo tambi姻n estoy emocionada.
 
 [msg MSG_002 [Morgana]]
-斡Estoy de buen humor s吋lo por verla!
+斡Yo estoy de buen humor solo de verla!
 
 [msg MSG_003 [Ryuji]]
-Te gustan los dulces. 夷Eso es todo lo[n]que piensas?
+T胤o, realmente te gustan los dulces. 夷Es en lo 雨nico que piensas?
 
 [msg MSG_004 [Ann]]
-斡C茨llate! 斡Al menos no soy una cabeza de[n]hueso como t雨!
+斡C茨llate! 斡Al menos no soy un cabeza hueca como t雨!
 
 [msg MSG_005 [Ryuji]]
-Bonehead..?
-夷A qui姻n llamas cabeza hueca?
+夷Cabeza hueca...?
+斡夷A qui姻n le has llamado cabeza hueca...?!
 
 [msg MSG_006 [Rise]]
-夷Te encantan tanto los dulces, y todav胤a[n]tienes un cuerpo as胤?
+夷Te encantan tanto los dulces y, aun as胤, tienes un cuerpo como ese?
 
 [msg MSG_007 [P3 Fem Protag]]
-S胤, es genial que seas modelo. Debes[n]resolver cuando nadie est茨 mirando.
+S胤, mola mucho que seas modelo. Debes de entrenar cuando nadie te ve.
 
 [msg MSG_008 [Ann]]
-でぺめぺテテテ びもまょぽま ぺ ぼまぽまる ぺ ゆもれ ぺょろよゃよれ ほぺれろぺょろま[n]ぺ ゆまょゎぽよ を むまょまるぺゅゆまょろま ろまょむよ りゎま ろるぺほぺゃぺる ゆゎを[n]ぽゎるよ らぺるぺ わよゅわまる ぺ ゅぺ みよるゆぺテ
+Jaja... Suelo ceder mis antojos a menudo, y normalmente tengo que entrenar duro para volver a ponerme en forma.
 
 [msg MSG_009 [Rise]]
-斡A雨n as胤, probablemente seas uno de los[n]mejores del negocio! Estoy tan celoso.
+Aun as胤, 斡seguramente seas una de las mejores! Qu姻 envidia.
 
 [msg MSG_010 [Ann]]
-Chicos, me est茨is haciendo ruborizar.
-Pero tambi姻n me hace muy feliz o胤rte[n]decir eso, as胤 que gracias!
+V-Vamos chicos, est茨is haciendo que me sonroje.
+Pero tambi姻n me pone muy feliz escucharos decir eso, as胤 que 斡gracias!
 
 [msg MSG_011 [Rise]]
-Eres elegante, y sabes c吋mo vestirte.[n]夷Puedes ense隠arme a coordinar mis[n]trajes?
+Tienes estilo y sabes vestirte. 夷Podr胤as ense隠arme a combinar mis atuendos?
 
 [msg MSG_012 [P3 Fem Protag]]
-斡Oh! 斡Yo tambi姻n!
-Tal vez despu姻s Theo nos hace los[n]churros que podemos chit-chat mientras[n]comemos.
+斡Oh! 斡A m胤 tambi姻n!
+Quiz茨s despu姻s de que Theo nos haga los churros, podemos charlar mientras comemos.
 
 [msg MSG_013 [Rise]]
-斡Eso suena genial! 斡Har姻 t姻!
+斡Suena genial! 斡Preparar姻 algo de t姻!
 
 [msg MSG_014 [Ryuji]]
-Bueno, se est茨n divirtiendo.
+... Bueno, se est茨n divirtiendo.
 
 [msg MSG_015 [Kanji]]
-S胤... Probablemente va a pasar un[n]tiempo.
+S胤... Probablemente ser茨 un rato.
 
 [msg MSG_016 [Futaba]]
-Toda esta chica... 斡Es demasiado para[n]manejar!
-Ser茨 mejor que vayas a por esa canela.[n]斡No podemos decepcionarlos!
-Nos estamos acercando a nuestros[n]objetivos, as胤 que dir胤jase a lo que[n]quiera!
+Toda esta feminidad... 斡Es demasiado que manejar!
+斡Deber胤ais ir mejor a por la canela! 斡No podemos defraudarles!
+Nos acercamos a nuestros objetivos, 斡as胤 que dir胤gete al que quieras!
 

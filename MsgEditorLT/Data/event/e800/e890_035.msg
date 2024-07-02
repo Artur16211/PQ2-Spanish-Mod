@@ -1,159 +1,159 @@
 [msg MSG_000 [Elizabeth]]
-Ah... Y ahora, todo lo que queda es[n]decepci吋n.
-No porque haya sido mejorada, sino[n]porque nuestra actuaci吋n se ha acercado.
+Ah... And now, all that remains is[n]disappointment.
+Not because I have been bested, but[n]because our performance has drawn to a[n]close.
 
 [sel SEL_001 top]
-Eras fuerte.
-Eso no fue muy dif胤cil.
+You were strong.
+That wasn't too hard.
 
 [msg MSG_002 [Elizabeth]]
-No... mientras Tengo un poco de[n]conocimiento de este juego duro, todav胤a[n]estoy bastante inexperto.
+No... While I have some knowledge of[n]this rough play, I am still quite[n]inexperienced.
 
 [msg MSG_003 [Elizabeth]]
-*chuckle* En verdad, tu fuerza nunca[n]deja de sorprenderme.
+*chuckle* Truly, your strength never[n]ceases to amaze me.
 
 [msg MSG_004 [Margaret]]
-Fue una pelea maravillosa. Sent胤 un[n]resplandor en mi coraz吋n solo por la[n]mirada.
+That was a wonderful fight. I felt a[n]fire blaze in my heart from spectation[n]alone.
 
 [msg MSG_005 [Elizabeth]]
-夷Hermana? No sab胤a que estabas aqu胤.
+Sister? I didn't know you were here.
 
 [msg MSG_006 [Margaret]]
-S胤. Esperaba ver esta batalla.
-No s吋lo pretend胤a presenciar el poder[n]que han alimentado aqu胤...
+Yes. I had hoped to see this battle.
+Not only did I aim to witness the power[n]they've nurtured here...
 
 [msg MSG_006_1 [Margaret]]
-Quer胤a ver qu姻 posibilidades hay m茨s[n]all茨 de su magn胤fica exhibici吋n.
+I wished to see what possibilities lie[n]beyond their magnificent display.
 
 [msg MSG_007 [P3 Fem Protag]]
-Oh, cierto, esa pel胤cula...
+Oh right, that film...
 
 [msg MSG_008]
-La pel胤cula que parec胤a sooty est茨[n]brillando d姻bilmente...
-...!
-Las cuatro piezas de pel胤cula brillan[n]poderosamente juntas...!
+The film that looked sooty is now[n]glowing faintly...
+......!
+The four pieces of film are shining[n]powerfully bright together...!
 
 [msg MSG_009 [P4 Hero]]
-夷Es...?
+Is it...?
 
 [msg MSG_010 [P4 Hero]]
 Ngh...!
 
 [msg MSG_011]
-Una luz brillante inunda la zona...
+A brilliant light floods the area...
 
 [msg MSG_012 [P4 Hero]]
-Esa luz ahora...
+That light just now...
 
 [msg MSG_013 [P3 Hero]]
-Es como... algo ha cambiado dentro de[n]m胤.
+It's like... something's changed within[n]me.
 
 [msg MSG_014 [P3 Fem Protag]]
-夷Es esto mi...?
+Is this my...?
 
 [msg MSG_015]
-Siento un nuevo poder dentro de mi[n]coraz吋n...
+I sense a new power within my heart...
 
 [msg MSG_016 [Margaret]]
-*chuckle* Parece que todos hab姻is[n]captado una nueva posibilidad.
+*chuckle* It seems you've all grasped a[n]new possibility.
 
 [msg MSG_017 [Elizabeth]]
-Ha sido una alegr胤a y un privilegio[n]presenciar una vista tan rara.
-Si pudiera preguntar... 夷C吋mo te[n]sientes?
+It has been a joy and a privilege to[n]witness such a rare sight.
+If I might ask... How do you feel?
 
 [sel SEL_018 top]
-Es... incre胤ble.
-Es dif胤cil de decir.
+It's... incredible.
+It's hard to tell.
 
 [msg MSG_019 [Margaret]]
-S胤, de verdad.
-No puedo esperar a ver lo que puedes[n]lograr de aqu胤 en adelante.
+Yes, truly.
+I cannot wait to see what you can[n]accomplish from here on.
 
 [msg MSG_020 [Margaret]]
-Hmhm... Supongo que est茨 bien por ahora.
+Hmhm... I suppose that's fine for now.
 
 [msg MSG_020_1 [Margaret]]
-Pero ese poder seguramente te ayudar茨 a[n]elegir tus propios caminos por venir.
+But that power will surely help you[n]choose your own paths to come.
 
 [msg MSG_021 [Elizabeth]]
-De cualquier manera... es asombroso[n]saber que has ganado a todos los que[n]gobiernan el poder. 斡Me incluyo!
+Either way... it is staggering indeed to[n]know you've bested all those who govern[n]power. Myself included!
 
 [msg MSG_022 [Margaret]]
-Estoy seguro de que esto ser茨 una gran[n]sorpresa para nuestro maestro.
+Ha... I'm certain this will be a great[n]surprise indeed to our master.
 
 [msg MSG_022_1 [Margaret]]
-Has hecho bien en venir hasta ahora.[n]Aunque quiz茨s todo esto era simplemente[n]tu destino..?
+You've done well in coming so far.[n]Though perhaps all this was simply your[n]fate...?
 
 [msg MSG_023 [Akechi]]
-Dir胤a que es gracias a que nos[n]mantengamos al d胤a con esas proyecciones[n]especiales.
+I'd say it's thanks to us keeping up[n]with those special screenings.
 
 [msg MSG_023_1 [Akechi]]
-Despu姻s de todo, ah胤 fue donde empez吋[n]todo esto.
+After all, that was where this all[n]began.
 
 [msg MSG_024 [Junpei]]
-斡S胤, no habr胤amos llegado a ninguna[n]parte sin esos! Te hace preguntar qui姻n[n]estaba tirando de las cuerdas.
+Yeah, we'd have gotten nowhere without[n]those! Makes you wonder who was pullin'[n]the strings.
 
 [msg MSG_025 [Hikari]]
-...
+......
 
 [msg MSG_025_1 [Hikari]]
-Um... Bueno, no s姻 si alguien lo prepar吋[n]deliberadamente... pero he estado[n]pensando en ello.
-Me pregunto si es m茨s como... las[n]proyecciones especiales suceden basadas[n]en tus emociones? O... deseos, supongo?
+Um... Well, I don't know if anyone set[n]it up deliberately... but I've been[n]thinking about it.
+I wonder if it's more like... the[n]special screenings happen based on your[n]emotions? Or... wishes, I guess?
 
 [msg MSG_026 [Naoto]]
-Ya veo. Una hip吋tesis interesante...
-Nuestros recuerdos parec胤an alterar los[n]personajes de esas pel胤culas que hemos[n]estado investigando.
-M茨s importante a雨n, la pel胤cula de[n]Hikari parec胤a profundamente reflexiva[n]en su propia mentalidad y perspectiva.
+I see. An interesting hypothesis...
+Our memories did seem to alter the[n]characters in those movies we've been[n]investigating.
+More importantly, Hikari-san's movie[n]seemed deeply reflective of her own[n]mindset and perspective.
 
 [msg MSG_027 [Akechi]]
-夷As胤 que, de forma similar, las[n]proyecciones especiales reflejan nuestra[n]propia conciencia...?
+So, similarly, the special screenings[n]reflect our own consciousness...?
 
 [msg MSG_028 [Hikari]]
-Cierto. Como querer acercarse a todo el[n]mundo, o quiz茨s querer ser m茨s fuerte...
-Si deseas todas esas cosas lo[n]suficiente, 夷entonces quiz茨s se[n]convirtieron en pel胤culas?
+Right. Like wanting to get closer to[n]everyone, or maybe wanting to get[n]stronger...
+If you wished for all those things hard[n]enough, then maybe they became movies?
 
 [msg MSG_029 [P4 Hero]]
-Eso puede ser verdad. Eso explicar胤a por[n]qu姻 aprendimos que Unison Skill...
+That may be true. It would explain why[n]we learned that Unison Skill...
 
 [msg MSG_030 [Teddie]]
-斡Las toneladas de mis deseos tambi姻n se[n]hicieron realidad!
+Tons of my wishes came true, too!
 
 [msg MSG_031 [Yukiko]]
-Quer胤a conocer mejor a todos, y eso se[n]hizo realidad. Ahora todos somos amigos,[n]夷no?
+I wanted to get to know everybody[n]better, and that came true. Now we're[n]all friends, aren't we?
 
 [msg MSG_032 [P3 Fem Protag]]
-Si he aprendido algo, es que puedes[n]hacer realidad cualquier deseo si te[n]aferras a 姻l con todo tu coraz吋n.
+If I've learned anything, it's that you[n]can make any wish come true if you hold[n]onto it with all your heart.
 
 [msg MSG_033 [Junpei]]
-夷Me est茨s diciendo que nuestros[n]pensamientos pueden convertirse en[n]pel胤culas? 斡No puedo soportarlo m茨s!
+You're telling me our thoughts can turn[n]into movies...? Gah, I can't take it[n]anymore!
 
 [msg MSG_033_1 [Junpei]]
-斡Quiero una pel胤cula en la que yo sea la[n]estrella! 斡Con chicas guapas, una[n]persecuci吋n en coche y explosiones!
+I want a movie where I'm the star! With[n]hot babes, and a car chase, and[n]explosions!
 
 [msg MSG_034 [Yukari]]
-Ya tenemos suficientes de tus delirios.[n]No necesito un boleto personal para[n]ellos.
+*sigh* We get enough of your delusions[n]already. I don't need a personal ticket[n]to them.
 
 [msg MSG_035 [Elizabeth]]
-En cualquier caso, est茨 claro que todos[n]ustedes han crecido enormemente en este[n]mundo de las pel胤culas.
-Creo que la libertad ya est茨 a tu[n]alcance. Sigue esforz茨ndote, y estoy[n]seguro de que tendr茨s 姻xito.
+In any case, it is clear you have all[n]grown tremendously in this world of[n]movies.
+I believe freedom is already within your[n]grasp. Keep striving, and I am sure you[n]will succeed.
 
 [sel SEL_036 top]
-Gracias.
-Espero que nos ayudes.
+Thanks.
+I hope you'll help us.
 
 [msg MSG_037 [Elizabeth]]
-No necesitas agradecerme. Has llegado[n]hasta aqu胤 casi completamente bajo tu[n]propio poder.
+Oh, you need not thank me. You have come[n]this far almost entirely under your own[n]power.
 
 [msg MSG_038 [Elizabeth]]
-Entiendo. Har姻 todo lo que pueda para[n]ayudarte.
+I understand. I will do everything in my[n]power to assist you.
 
 [msg MSG_039 [Elizabeth]]
-Me disculpo por no mencionarlo hasta[n]ahora, pero tambi姻n tengo una recompensa[n]por ti. Por favor, util胤zalo bien.
-Ahora, ir姻 en camino. Reunamos en la[n]taquilla.
+I apologize for not mentioning it until[n]now, but I also have a reward for you.[n]Please use it well.
+Now, I shall be on my way. Let us meet[n]again at the box office.
 
 [msg PERSONA_STOCK_UP_MSG]
-ひゎらまるぺる まれろま よるぽまぺゅ めぺ みよるろぺゅまぼもぽよ まゅ らよぽまる ぽま[n]ゅぺ ろぺるゃまろぺ れぺゅわぺゃまテ ひゎ れろよぼや ぽま はまるれよょぺ めぺ[n]ぺゎゆまょろぺぽよ まょ [f 0 1 2] [f 2 4 0][f 0 1 0] テ
+Overcoming this ordeal has strengthened[n]the power of the wild card. Your Persona[n]stock has increased by .
 
 [msg SYS_MES_000]
-El efecto de [f 4 4 3 0 1596] ha[n]aumentado el impulso EXP de los Bonos[n]Finales.
+The effect of [f 4 4 3 0 1596] has[n]increased the EXP boost of Finish[n]Bonuses.
 

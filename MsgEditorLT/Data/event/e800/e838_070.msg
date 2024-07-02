@@ -1,91 +1,91 @@
 [msg MSG_000 [Theodore]]
-Eff, eff, FOE. Ahora que est茨 aplastado,[n]ex-FOE...
+Eff, eff, FOE. Now that it's crushed,[n]ex-FOE...
 
 [msg MSG_001 [Elizabeth]]
-... Lo siento mucho. Parece que mi[n]hermano est茨 vencido con delirio.
+...I'm terribly sorry. It appears my[n]brother is overcome with delirium.
 
 [msg MSG_002 [Theodore]]
-斡Eres t雨 quien me dijo que hiciera esto!
+You're the one who told me to do this!
 
 [msg MSG_003 [Elizabeth]]
-斡Has ejecutado con 姻xito al verdugo! 斡Lo[n]arranc吋 a chatarra!
-Parece que puedes tomar cualquier[n]obst茨culo que el enemigo te tira...
-夷Hm...?
+You have successfully executed the[n]executioner! Scrapped it to scrap metal!
+It appears you can take on any obstacle[n]the enemy throws at you...
+Hm...?
 
 [msg MSG_004 [Junpei]]
-斡Grrrraah! Junpei 斡Iori todav胤a no est茨[n]fuera del juego!
+Grrrraah! Junpei Iori's not outta the[n]game yet!
 
 [msg MSG_005 [Kanji]]
-斡Ngaahhh! 斡No voy a perder!
+Ngaaahhh! I ain't gonna lose!
 
 [msg MSG_006 [Junpei]]
 Whoa!
 
 [msg MSG_007 [Kanji]]
-斡Wh-whoa!
+Wh-Whoa!
 
 [msg MSG_008 [Morgana]]
-Qu姻 mala ca胤da... Descansen en paz,[n]chicos.
+Yikes, that was a pretty bad fall...[n]Rest in peace, guys.
 
 [msg MSG_009 [Akihiko]]
-Hah! Cuidado. Incluso cuando est姻s en[n]tus l胤mites, tienes que concentrarte.
+Hah! Careful there. Even when you're at[n]your limits, you gotta stay focused.
 
 [msg MSG_010 [Kanji]]
-Guh, hah... No est茨 mal... Junpei.
-夷Pensaste que... te hab胤as ido?
+Guh, hah... Not bad... Junpei-san.
+Thought you... dropped out...?
 
 [msg MSG_011 [Junpei]]
-No estoy seguro, pero...
-Tengo... alguien... Tengo que[n]protegerme.
-As胤 que... todav胤a... tengo que[n]fortalecerme.
+Phew... I, uh... I'm not sure, but...
+I've got... someone... I gotta protect.
+So... I still... gotta get stronger.
 
 [msg MSG_012 [Kanji]]
-Hombre, Junpei...
-Tal vez me equivoqu姻 contigo. Despu姻s de[n]todo, tienes algo de gracia.
+Man, Junpei-san...
+Maybe I was wrong about you. You got[n]some real grit after all.
 
 [msg MSG_013 [Junpei]]
-夷Eh? Tal vez eso fue demasiado serio...
-Bah, 斡no importa! Mejor vuelvo a los[n]chistes. 斡No puede ser Junpei, el[n]detective de cara recta!
+Huh...? Maybe that was too serious...
+Bah, nevermind! I better get back to the[n]jokes. Can't just be Junpei, the[n]Straight-faced Detective!
 
 [msg MSG_014 [Kanji]]
-斡No te averguences por eso! Tienes algo[n]que quieres proteger, 夷verdad?
-斡Entonces seamos m茨s fuertes! 斡Akihiko[n]puede ayudarnos!
+Man, don't get embarrassed by that! You[n]got something you wanna protect, right?
+Then let's get even stronger![n]Akihiko-san can help us!
 
 [msg MSG_015 [Junpei]]
-Bueno... Tal vez eso pueda esperar hasta[n]la pr吋xima vez...
+Uh, well... Maybe that can wait until[n]next time...
 
 [msg MSG_016 [Akihiko]]
-斡Lo o胤 todo!
-Ya te hice un r姻gimen de entrenamiento.[n]斡Lo tengo cubierto!
+I heard it all!
+Already made you a training regimen.[n]I've got it covered!
 
 [msg MSG_017 [Junpei]]
-斡Dije la pr吋xima vez! 夷No has o胤do esa[n]parte?
+I said next time! Didn't you hear THAT[n]part!?
 
 [msg MSG_018 [Kanji]]
-Junpei... 斡Lo tienes! 斡Te estoy[n]animando!
+Junpei-san... You got this! I'm cheerin'[n]for ya!
 
 [msg MSG_019 [Akihiko]]
-No te preocupes, Kanji. 斡Tambi姻n te he[n]hecho un r姻gimen de entrenamiento!
+Don't worry, Kanji. I've made you a[n]training regimen too!
 
 [msg MSG_020 [Kanji]]
-夷Qu姻?
+...What?
 
 [msg MSG_021 [Akihiko]]
-斡Empecemos con calentamientos!
-斡Mil squats! 斡Vamos!
+Now, let's start with warmups!
+One thousand squats! Go!
 
 [msg MSG_022 [Junpei]]
-斡Noooo!
+Noooo!
 
 [msg MSG_023 [Kanji]]
-夷Por qu姻 meeee?
+Wh-Why meeee!?
 
 [msg MSG_024 [Yukiko]]
-Se est茨n divirtiendo mucho. Supongo que[n]esto es lo que llaman "de esp胤ritu"?
+They're having so much fun. I guess this[n]is what they call "teen spirit"?
 
 [msg MSG_025 [P3 Hero]]
-Y descienden al atardecer.
+And off they go into the sunset.
 
 [msg MSG_026 [Morgana]]
-No estoy seguro de que ser adolescente[n]normalmente implica tanto grito...
+I'm not sure being a teenager usually[n]involves this much screaming...
 

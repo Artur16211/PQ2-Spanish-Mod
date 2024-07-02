@@ -1,81 +1,81 @@
 [msg MSG_000 [Elizabeth]]
-ゲゅろもゆぺゆまょろまデ ろよぽよれ ゎれろまぽまれ めぺょ まれろぺぽよ らよょもまょぽよ[n]ぺゅむゎょぺれ ぺぼろゎぺぼもよょまれ ゆぺるぺわもゅゅよれぺれ ぺ ろるぺわイれ ぽま[n]らるよをまぼぼもよょまれ まれらまぼもぺゅまれ ゆぺむもれろるぺゅまれテ
+Lately, you've all been putting on some[n]wonderful performances through masterful[n]special screenings.
 
 [msg MSG_001 [Ryuji]]
-Hemos hecho un mont吋n ahora, 夷eh? Creo[n]que los estamos golpeando a buen ritmo.
+We've done a bunch now, huh? I think[n]we're hittin' 'em at a good pace.
 
 [msg MSG_002 [Ann]]
-Bueno, son un buen cambio de lo[n]habitual. Y siempre es bueno que les[n]paguen.
+Well, they're a nice change from our[n]usual! And it's always nice to get paid[n]for them.
 
 [msg MSG_003 [Elizabeth]]
-Y para un equipo de tal distinci吋n,[n]tengo un nuevo billete para presentar.
-Gracias a ti, la pel胤cula "Kamoshidaman"[n]fue agraciada con un final m茨s grande de[n]lo que nadie podr胤a haber predicho.
-Sin embargo, parece que una Sombra de[n]incre胤ble poder ha aparecido[n]inesperadamente en sus profundidades.
+And for a team of such distinction, I[n]have a new ticket to present.
+Thanks to you, the "Kamoshidaman" movie[n]was graced with a grander finale than[n]anyone could have predicted.
+However, it seems a Shadow of incredible[n]power has unexpectedly appeared in its[n]depths.
 
 [msg MSG_003_1 [Elizabeth]]
-Para esta proyecci吋n especial, solo[n]necesitas derrotarla.
+For this special screening, you need[n]only defeat it.
 
 [sel SEL_004 top]
-As胤 que es poderoso, 夷eh?
-Suena f茨cil.
+So it's powerful, huh?
+Sounds easy.
 
 [msg MSG_005 [Elizabeth]]
-斡De hecho, terriblemente! Supuestamente,[n]su poder rivaliza con el de[n]Kamoshidaman.
+Indeed, terribly! Supposedly, its power[n]rivals that of Kamoshidaman himself.
 
 [msg MSG_006 [Morgana]]
-Hmph. Entonces no tenemos nada de qu姻[n]preocuparse.
-斡Despu姻s de todo, s吋lo nos hemos[n]fortalecido desde entonces!
+Hmph. Then we've got nothing to worry[n]about.
+After all, we've only gotten stronger[n]since then!
 
 [msg MSG_007 [Ryuji]]
-斡S胤! Si todo lo que tenemos que hacer es[n]sacarlo, vamos a terminar en poco[n]tiempo!
+Yeah! If all we gotta do is take it out,[n]we're gonna be done in no time!
 
 [msg MSG_008 [Morgana]]
-斡Correcto! Nos hemos puesto muy duros[n]ahora mismo, despu姻s de todo!
+Right! We've gotten pretty tough by now[n]ourselves, after all!
 
 [msg MSG_009 [Elizabeth]]
-Qu姻 tranquilizador. Hay, sin embargo,[n]una condici吋n que me gustar胤a se隠alar.
+How very reassuring. There is, however,[n]one condition I'd like to point out.
 
 [msg MSG_009_1 [Elizabeth]]
-El billete est茨 marcado con un nombre.[n]Usted ve aqu胤: "Cast: [f 6 1 30 0 0 0]."
+The ticket is marked with a name. You[n]see here: "Cast: [f 6 1 30 0 0 0]."
 
 [msg MSG_010 [Haru]]
-夷Qu姻 significa eso?
+What could that mean?
 
 [msg MSG_011 [Elizabeth]]
-ねよ らよぽウぺ ぽまぼもる まゑぺぼろぺゆまょろまデ らまるよ をぺ れぺほまゆよれ[n]りゎま まれろま まれらまぼろァぼゎゅよ まょ らぺるろもぼゎゅぺる れまるァ ゆァれ ぽま[n]ゎょ まょみるまょろぺゆもまょろよテテテ
+I couldn't say exactly, but we already[n]know this particular showing will be[n]more of a showdown...
 
 [msg MSG_011_1 [Elizabeth]]
-Essentially, I believe the intent is[n]that [f 6 1 30 0 0 0] must participate in this[n]fight.
+Essentially, I believe the intent is[n]that must participate in this fight.
 
 [msg MSG_012 [Makoto]]
-夷Una proyecci吋n que especifica parte de[n]su yeso? 夷Qu姻 prop吋sito crees que sirve?
+A screening that specifies part of its[n]cast? What purpose do you think that[n]serves?
 
 [msg MSG_013 [Akechi]]
-夷Es un reto para [f 6 1 30 0 0 0]...? 夷O tal vez[n]alg雨n tipo de trampa?
+Is it a challenge to [f 6 1 30 0 0 0]...? Or maybe[n]some kind of trap...?
 
 [msg MSG_014 [Ryuji]]
-Estar aqu胤 no nos ayudar茨 a resolverlo.[n]Sea lo que sea, estar茨 bien!
+Well, standin' around here won't help us[n]figure it out. Whatever it is, he'll be[n]fine!
 
 [sel SEL_015 top]
-D姻jamelo a m胤.
-No lo s姻...
+Leave it to me.
+I don't know about this...
 
 [msg MSG_016 [Futaba]]
-斡Ese es nuestro l胤der! Est茨s[n]acostumbrado a ser la estrella del[n]espect茨culo de todos modos.
+Now that's our leader! You're used to[n]being the star of the show anyway.
 
 [msg MSG_017 [Ryuji]]
-Vamos, estar茨s bien. Tenemos tu espalda,[n]como siempre.
+C'mon, you'll be fine. We got your back,[n]just like always.
 
 [msg MSG_018 [Elizabeth]]
-夷Hemos llegado a un acuerdo? Entonces[n]d姻jame resumir las cosas.
+Have we come to an agreement? Then let[n]me sum things up.
 
 [msg MSG_018_1 [Elizabeth]]
-Por favor mata a la poderosa Sombra que[n]ha aparecido en las profundidades de la[n]ciudad de Kamo.
-And when doing so, make certain that[n][f 6 1 30 0 0 0] joins the fray.
+Please slay the powerful Shadow that has[n]appeared in the depths of Kamo City.
+And when doing so, make certain that[n]joins the fray.
 
 [msg MSG_019 [Yusuke]]
-Entendido. Llegaremos all胤 una vez que[n]estemos listos.
+Understood. We'll make our way there[n]once we're ready.
 
 [msg MSG_020 [Elizabeth]]
-I look forward to a grand performance,[n][f 6 1 30 0 0 0]. Best of luck to you.
+I look forward to a grand performance,.[n]Best of luck to you.
 

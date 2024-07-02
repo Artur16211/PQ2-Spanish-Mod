@@ -1,71 +1,71 @@
 [msg MSG_000 [Futaba]]
-斡Bien! 斡Esos son todos! 斡Tenemos todas[n]las partes que necesitamos!
+Nice! That's all of 'em! We got all the[n]parts we need!
 
 [msg MSG_001 [P4 Hero]]
-Ahora solo necesitamos recuperarlo con[n]seguridad. Llegaremos pronto.
+Now we just need to get it back safely.[n]We'll be there soon.
 
 [msg MSG_002 [Fuuka]]
-斡Estoy emocionado pensando en[n]construirlo!
-No he sido capaz de agarrar con ninguna[n]de estas mechs, as胤 que es una especie[n]de emoci吋n...
+*giggle* I'm getting excited just[n]thinking about building it!
+I haven't been able to tinker with any[n]of these mechs, so it's kind of a[n]thrill...
 
 [msg MSG_003 [Futaba]]
-Mweheheh... Un paso m茨s cerca de[n]evolucionar hacia nuestras nuevas[n]formas.
+Mweheheh... One step closer to evolving[n]into our new forms.
 
 [msg MSG_004 [Fuuka]]
-Sabes, algo me ocurri吋 cuando est茨bamos[n]hablando de la tecnolog胤a de la[n]torreta...
+You know, something occurred to me when[n]we were talking about the turret's[n]tech...
 
 [msg MSG_005 [Futaba]]
-夷Qu姻 tienes? 斡P吋nmelo encima!
+Oh, whatcha got? Lay it on me!
 
 [msg MSG_006 [Junpei]]
-Esos dos son t姻cnicos de verdad, 夷eh?[n]Parece que incluso hacen esto en su[n]tiempo libre.
-Pens姻 que a las chicas les gustaba, ya[n]sabes... ir de compras, postres y cosas[n]populares.
+Those two are real techies, huh? Sounds[n]like they even do this stuff in their[n]free time.
+I figured girls usually liked, y'know...[n]shopping, and desserts, and popular[n]stuff.
 
 [msg MSG_007 [Yosuke]]
-No lo s姻. Chie no est茨 en eso.
+I dunno. Chie's not really into that.
 
 [msg MSG_008 [Chie]]
-斡Yo hago esas cosas!
-He salido a comprar por filete, y ver[n]nuevos estilos de combate populares, y[n]practicarlos por el r胤o!
+Wha―H-Hey, I do that stuff!
+I've gone out to shop for steak, and[n]check out popular new fighting styles,[n]and practice them down by the river!
 
 [msg MSG_009 [Yosuke]]
-No deber胤a haber dicho nada.
+Uhh... I shouldn't have said anything.
 
 [msg MSG_010 [Futaba]]
-Bien, podemos guardar la charla para m茨s[n]tarde. Volvamos al Cine.
-Espera... 斡Mierda!
+Okay, we can save the chatting for[n]later. Let's get you back to the[n]theater.
+Wait... Oh, crap!
 
 [msg MSG_011 [Yusuke]]
-夷Qu姻 pasa, Oracle? 夷Hay alg雨n problema?
+What's going on, Oracle? Is there a[n]problem?
 
-[msg MSG_012 [Seguridad Del Laboratorio]]
+[msg MSG_012 [Lab security]]
 UNAUTHORIZED PRESENCE DETECTED.[n]UNAUTHORIZED PRESENCE DETECTED.
-TODOS LOS UNITS, CONVERGE ON INTRUDERS.[n]REPITO, DESATENDIDA LA TENSI遺N.
+ALL UNITS, CONVERGE ON INTRUDERS. I[n]REPEAT, UNAUTHORIZED PRESENCE DETECTED.
 
 [msg MSG_013 [Rise]]
-斡Chicos, esto es malo! 斡Estamos leyendo[n]un enorme pico en presencia de la[n]Sombra! 斡Est茨s rodeado!
+Guys, this is bad! We're reading a huge[n]spike in Shadow presence! You're[n]surrounded!
 
 [msg MSG_014 [Chie]]
-Espera, 夷en serio? 斡Estamos en problemas[n]profundos!
+Wait, seriously!? We're in some deep[n]trouble!
 
 [msg MSG_015 [Fuuka]]
-Trate de calmarse. Analizar姻 la[n]situaci吋n.
-Rise, por favor busca una ruta segura.
+Try to stay calm. I'll analyze the[n]situation.
+Rise-chan, please search for a safe[n]route.
 
 [msg MSG_016 [Rise]]
-斡Entendido!
+Roger that!
 
 [msg MSG_017 [Futaba]]
-Voy a buscar otras Sombras alrededor de[n]la zona.
-Chicos, qu姻dense quietos un segundo o[n]dos. 斡Te ayudaremos a guiarte!
-斡Espera un poco m茨s!
+I'll check for other Shadows around the[n]area.
+Guys, just stay put for a second or two.[n]We'll help guide you!
+Just hang in there a little longer!
 
 [msg MSG_018 [Mitsuru]]
-Tsk. Supongo que una pelea es[n]inevitable.
+Tsk. I suppose a fight is unavoidable.
 
 [msg MSG_019 [Akihiko]]
-Hmph, los voy a sacar. Estaba pensando[n]que quer胤a golpear algo!
+Hmph. I'll just knock them out. I was[n]just thinking I wanted to punch[n]something!
 
 [msg MSG_020 [Fuuka]]
-斡Viene el enemigo! 斡Ten cuidado!
+The enemy's coming! Be careful!
 

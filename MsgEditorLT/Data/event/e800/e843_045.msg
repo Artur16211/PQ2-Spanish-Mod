@@ -1,68 +1,68 @@
 [msg MSG_000 [Shinjiro]]
-As胤 que fuimos a la derecha... y eso[n]significa que empujaste al tipo a las[n]pistas.
-Supongo que detuviste el carrito, pero[n]tu gallinero mat吋 a un tipo para[n]hacerlo.
+So we went right... and that means you[n]pushed the guy onto the tracks.
+I guess you stopped the cart, but you[n]stone-cold killed a guy to do it.
 
 [msg MSG_001 [Ann]]
-Pero, quiero decir... de esta manera,[n]salvamos a cinco personas!
-U-um... De alguna manera, eso no me hace[n]sentir mejor...
+But, I mean... this way, we saved five[n]people!
+U-Um... Somehow, that doesn't really[n]make me feel better...
 
 [msg MSG_002 [Kanji]]
-斡Arrrgh! 夷Qu姻 demonios es esto?
-斡Al diablo todos estos carros, pistas y[n]interruptores! 斡Voy a detener la maldita[n]cosa yo mismo!
+Arrrgh! What the hell is this!?
+Screw all these carts and tracks and[n]switches! I'm gonna stop the damn thing[n]myself!
 
 [msg MSG_003 [Akechi]]
-C茨lmate, Tatsumi. Todo esto es un[n]escenario hipot姻tico.
+Calm down, Tatsumi-kun. This is all a[n]hypothetical scenario.
 
 [msg MSG_004 [Mitsuru]]
-A雨n as胤, te hace pensar.
-Como antes, es cuesti吋n de sacrificar[n]una vida para salvar cinco.
-Sin embargo, tener que empujar[n]directamente a un hombre a su muerte[n]hace que se sienta un poco menos pasivo.
+Still, it makes you think.
+Just like before, it's a question of[n]sacrificing one life to save five.
+However, having to directly push a man[n]to his death makes it feel a bit less...[n]passive.
 
 [msg MSG_005 [Akechi]]
-Supongo que ese es el punto. Quien[n]prepar吋 esto quer胤a que reflexion茨ramos[n]sobre eso.
-Cuando nos enfrentamos a una elecci吋n[n]dif胤cil, 夷qu姻 pasar胤a por nuestras[n]mentes, y qu姻 har胤amos...?
+I imagine that's the point. Whoever[n]prepared this wanted us to reflect on[n]that.
+When faced with a difficult choice, what[n]would go through our minds, and what[n]would we do...?
 
 [msg MSG_006 [Morgana]]
-Eso me asusta... Es como si estuvieran[n]tratando de ver en las profundidades de[n]nuestros corazones.
-Pero tal vez pensar en estas cosas es lo[n]que nos hace humanos.
+That kinda creeps me out... It's like[n]they're trying to see into the depths of[n]our hearts.
+Still, maybe thinking about these things[n]is what makes us human.
 
 [msg MSG_007 [Makoto]]
-En cualquier caso, hemos respondido a[n]ambas preguntas. 夷Vamos al final?
+At any rate, we've answered both[n]questions. Shall we make our way to the[n]end?
 
 [msg MSG_008 [Shinjiro]]
-As胤 que nos fuimos... Eso significa que[n]no empujaste al tipo a las pistas.
-Lo que significa que sigui吋 adelante, y[n]golpe吋 a los cinco trabajadores... Suena[n]bastante desordenado.
+So we went left... That means you didn't[n]push the guy onto the tracks.
+Which means it kept going, and hit the[n]five workers... Sounds pretty messy.
 
 [msg MSG_009 [Akihiko]]
-Sin embargo, al menos el tipo grande[n]consigue sobrevivir.
-De lo contrario, habr胤amos tenido que[n]empujarlo a las pistas nosotros[n]mismos...
-No s姻 si podr胤a haberlo hecho. Incluso[n]si hubiera salvado a cinco personas.
+Still, at least the big guy gets to[n]survive.
+Otherwise, we would've had to push him[n]onto the tracks ourselves...
+I don't know if I could have done it.[n]Even if it'd have saved five people.
 
 [msg MSG_010 [Teddie]]
-Si Kanji estuviera all胤, podr胤a saltar[n]delante del carrito y golpearlo!
+If Kanji were there, he could just jump[n]in front of the cart and smack it away!
 
 [msg MSG_011 [Yosuke]]
-S胤. Es tan duro, que el carrito no lo[n]arrodillar胤a.
+Yeah. He's so tough, that cart wouldn't[n]budge him at all.
 
 [msg MSG_012 [Kanji]]
-斡Claro que s胤! 斡Todo lo que necesito es[n]un golpe para enviarlo volando!
+Hell yeah! All I need is one punch to[n]send it flying!
 
 [msg MSG_013 [Naoto]]
-No estoy seguro de que los trabajadores[n]estar胤an mejor en ese caso...
+I'm not sure the workers would be any[n]better off in that case...
 
 [msg MSG_014 [Mitsuru]]
-Es extra隠o.
-Como antes, es cuesti吋n de sacrificar[n]una vida para salvar cinco.
-Sin embargo, tener que empujar[n]directamente a un hombre a su muerte[n]hace que se sienta un poco menos pasivo.
+All joking aside, it is strange.
+Just like before, it's a question of[n]sacrificing one life to save five.
+However, having to directly push a man[n]to his death makes it feel a bit less...[n]passive.
 
 [msg MSG_015 [Akechi]]
-Supongo que ese es el punto. Quien[n]prepar吋 esto quer胤a que reflexion茨ramos[n]sobre eso.
-Cuando nos enfrentamos a una elecci吋n[n]dif胤cil, 夷qu姻 pasar胤a por nuestras[n]mentes, y qu姻 har胤amos...?
+I imagine that's the point. Whoever[n]prepared this wanted us to reflect on[n]that.
+When faced with a difficult choice, what[n]would go through our minds, and what[n]would we do...?
 
 [msg MSG_016 [Morgana]]
-Eso me asusta... Es como si estuvieran[n]tratando de ver en las profundidades de[n]nuestros corazones.
-Pero tal vez pensar en estas cosas es lo[n]que nos hace humanos.
+That kinda creeps me out... It's like[n]they're trying to see into the depths of[n]our hearts.
+Still, maybe thinking about these things[n]is what makes us human.
 
 [msg MSG_017 [Makoto]]
-En cualquier caso, hemos respondido a[n]ambas preguntas. 夷Vamos al final?
+At any rate, we've answered both[n]questions. Shall we make our way to the[n]end?
 

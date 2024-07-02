@@ -1,24 +1,24 @@
 [msg MSG_000 [Morgana]]
-Ahora, empecemos.
+Now, let's get started.
 
 [msg MSG_001 [Yukiko]]
-斡Ah! 斡Oh no!
+Ah! Oh no!
 
 [msg MSG_002 [Morgana]]
-夷Qu姻 pas吋? 夷Estamos bajo ataque?
+What happened? Are we under attack!?
 
 [msg MSG_003 [Yukiko]]
-Olvid姻 traer nuestro almuerzo... Trabaj姻[n]tan duro en ello...
+I forgot to bring our lunch... I worked[n]so hard on it...
 
 [msg MSG_004 [P4 Hero]]
-... Son buenas noticias.
+...That's very good news.
 
 [msg MSG_005 [Yosuke]]
-S胤. Vamos a un buen comienzo.
+...Yeah. We're off to a good start.
 
 [msg MSG_006 [Hikari]]
-Elizabeth dijo que quer胤a un lubricante,[n]as胤 que... 夷una grande?
+Elizabeth said she wanted a lunker,[n]so... a big one?
 
 [msg MSG_007 [Yukari]]
-S胤. Supongo que tendremos que echar un[n]vistazo.
+Yeah. I guess we'll have to take a look[n]around.
 

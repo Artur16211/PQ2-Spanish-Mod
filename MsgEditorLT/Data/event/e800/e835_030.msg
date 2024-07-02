@@ -1,12 +1,12 @@
 [msg MSG_000 [Ann]]
-斡Hay otra flecha! 斡Est茨 apuntando a la[n]derecha!
+There's another arrow! It's pointing[n]right!
 
 [msg MSG_001 [Junpei]]
-斡Lo tengo, Panther! Dif胤cil a estribor!
+Got it, Panther! Hard to starboard!
 
 [msg MSG_002]
-Intentemos ir bien...
+Let's try going right...
 
 [msg MSG_003]
-La flecha apunta a la derecha.[n]Intentemos ir as胤...
+The arrow is pointing to the right.[n]Let's try going that way...
 

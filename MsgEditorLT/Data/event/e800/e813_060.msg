@@ -1,46 +1,46 @@
 [msg MSG_000 [Akechi]]
-Ahora, vamos a recoger esos[n]ingredientes, 夷de acuerdo?
-Todo lo que necesitamos son los Kernels[n]Tingly, 夷no es as胤?
+Pues bien, pong茨monos a reunir esos ingredientes, 夷de acuerdo?
+Solo necesitamos Granos Explosivos, 夷verdad?
 
 [msg MSG_001 [Naoto]]
-S胤, pero no ser胤a prudente buscar[n]ciegamente.
-Theodore nos dio un consejo sobre d吋nde[n]encontrar...
+S胤, pero no ser胤a prudente buscar a ciegas.
+Theodore nos dio un consejo de d吋nde encontrarlas...
 
 [sel SEL_002 top]
 Lugares brillantes.
-Lugares de viento.
+Lugares con viento.
 Lugares h雨medos.
 
 [msg MSG_003 [Teddie]]
-夷Oh? 夷畏l dijo eso?
+夷Oh? 夷Dijo eso?
 
 [msg MSG_004 [Akechi]]
-No, dijo que deber胤amos buscar algo de[n]humedad.
-En ese caso, probablemente deber胤amos[n]concentrar nuestra b雨squeda cerca de los[n]cuerpos de agua.
+No, dijo que deber胤amos buscar en alg雨n sitio h雨medo.
+En cuyo caso, probablemente deber胤amos concentrar nuestra b雨squeda cerca de zonas de agua.
 
 [msg MSG_005 [Naoto]]
-S胤, mencion吋 buscar en sitios h雨medos.
-En ese caso, queremos concentrar nuestra[n]b雨squeda cerca de cuerpos de agua.
+S胤, ha mencionado buscar en lugares h雨medos.
+En cuyo caso, probablemente deber胤amos concentrar nuestra b雨squeda cerca de zonas de agua.
 
 [msg MSG_006 [Teddie]]
-Por cierto, 夷por qu姻 necesitamos las[n]palomitas?
+Por cierto, 夷por qu姻 necesitamos las palomitas?
 
 [msg MSG_007 [Akechi]]
-だぼろゎぺゅゆまょろま れカゅよ ろまょまゆよれ らるゎまほぺれ[n]ぼもるぼゎょれろぺょぼもぺゅまれデ らよる ゅよ りゎま ょよ ろまょまゆよれ ゆァれ[n]るまゆまぽもよ りゎま ぺろるぺらぺる ぺゅ ぼゎゅらぺほゅま まょ まゅ ぺぼろよテ
+Ahora mismo solo tenemos pruebas circunstanciales, as胤 que no nos queda m茨s remedio que atrapar al culpable in fraganti.
 
 [msg MSG_008 [Naoto]]
-Por lo tanto, le pediremos a Theodore[n]que vuelva a hacer su nueva palomita...
-Y lo usaremos como cebo para atraer al[n]culpable, 夷correcto?
+Por lo tanto, le pediremos a Theodore que vuelva a hacer sus nuevas palomitas.
+Y las utilizaremos como cebo para atraer al culpable, 夷correcto?
 
 [msg MSG_009 [Akechi]]
-S胤. Adem茨s, nadie sospechar茨 nada;[n]pensar茨n que solo estamos tratando de[n]ayudar a Theodore.
+S胤. Adem茨s, nadie sospechar茨 nada; pensar茨n que simplemente estamos intentando ayudar a Theodor.
 
 [msg MSG_010 [Teddie]]
-Qu姻 ingenioso.
+Hrmm... Que fabul-oso.
 
 [msg MSG_011 [Akechi]]
-*chuckle* Eres muy amable.
+*risita* Eres muy simp茨tico.
 
 [msg MSG_012 [Naoto]]
-Encontraremos los Kernels Tingly cerca[n]del agua. Empecemos nuestra b雨squeda.
+Encontraremos los Granos Explosivos cerca del agua. Comencemos nuestra b雨squeda.
 
