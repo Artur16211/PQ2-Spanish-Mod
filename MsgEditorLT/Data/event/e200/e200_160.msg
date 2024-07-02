@@ -41,7 +41,7 @@ Quiero decir, es tan genial. 夷T雨 tambi姻n[n]quieres uno, Naoto?
 Chie, Es mejor decidir nuestros nombres[n]en clave pronto. 夷Cu茨les ser茨n?
 
 [msg MSG_013 [Chie]]
-斡夷C吋mo me involucre en esto?!
+斡夷C吋mo me involucr姻 en esto?!
 Quiero decir, pensar en un nombre clave[n]tan de repente... 斡No soy experta en[n]eso!
 
 [msg MSG_014 [Morgana]]
