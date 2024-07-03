@@ -686,7 +686,7 @@ baj吋 su mano...
 斡[f 2 4 0] est茨 prepar茨ndose!
 
 [msg BTLMSGID_REF_ATTR_UP_ALL]
-斡Resistencia ([f 2 4 2]) de todos aumentada!
+斡Resistencia [f 2 4 2] de todos aumentada!
 
 [msg BTLMSGID_KAITAISHINSHO]
 斡Tasa de recompensas aumentada!
@@ -698,7 +698,7 @@ baj吋 su mano...
 斡El Medidor de Poder se ha drenado!
 
 [msg BTLMSGID_REF_ATTR_DOWN]
-斡La resistencia ([f 2 4 2]) de [f 2 4 1] se ha reducido!
+斡La resistencia [f 2 4 2] de [f 2 4 1] se ha reducido!
 
 [msg BTLMSGID_BS_CHANGE_ATK]
 斡Los ojos de [f 2 4 0] se abrieron!
@@ -1817,10 +1817,10 @@ Estado alterado y atadura de [f 2 4 1] extendido.
 斡Tomando postura para repetir habilidades!
 
 [msg BTLMSGID_PQ2_GOWAN [Merciful Clergyman]]
-斡Tomando postura salpicar habilidades!
+斡Tomando postura para salpicar habilidades!
 
 [msg BTLMSGID_PQ2_GAISHU [Merciful Clergyman]]
-斡Tomando postura salpicar habilidades!
+斡Tomando postura para salpicar habilidades!
 
 [msg BTLMSGID_PQ2_UTIOTOSI [Merciful Clergyman]]
 斡Tomando postura para anular ataques f胤sicos!
