@@ -1163,7 +1163,7 @@ Recuperaci吋n Autom茨tica ACTIVADA.
 Te guiar姻, peque隠a oveja. Tu castigo divino es la muerte.
 
 [msg BTLMSGID_HOQ_CAST_SKILL [Merciful Clergyman]]
-斡f 2 4 0] est茨 intentando lanzar una maldici吋n!
+斡[f 2 4 0] est茨 intentando lanzar una maldici吋n!
 
 [msg BTLMSGID_HOQ_INTERRUPT_S [Merciful Clergyman]]
 La maldici吋n del [f 2 4 0] parece haber fallado...
