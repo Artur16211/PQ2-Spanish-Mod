@@ -1,134 +1,134 @@
 [msg MSG_000 [Yukiko]]
-We're back with some herbs. Hang on just[n]little bit longer, okay?
+Hemos vuelto con algunas hierbas. Espera solo un poco m茨s, 夷okay?
 
 [msg MSG_001 [Young herbivore]]
-*whimper*
+*gimoteo*
 
 [msg MSG_002]
-We ground the herbs and treated the[n]young dinosaur...
+Molimos las hierbas y tratamos al joven dinosaurio...
 
 [msg MSG_003 [Haru]]
-There we go. He should feel better soon.
+All茨 vamos. Deber胤a sentirse mejor pronto.
 
 [msg MSG_004 [Young herbivore]]
-Kyu!
+斡Kyu!
 
 [msg MSG_005 [Yukiko]]
-Hehe, looks like you're all better now.[n]Way to hang in there, Kyubei.
+Jeje, parece que ahora est茨s mejor. Qu姻 manera de aguantar, Kyubei.
 
 [msg MSG_006 [Young herbivore]]
-Kyu, kyu, kyu!
+斡Kyu, kyu, kyu!
 
 [msg MSG_007 [Chie]]
-When did you name him!?
+斡夷Cu茨ndo le has puesto nombre?!
 
 [msg MSG_008 [P4 Hero]]
-I still don't see his mother though.
-We could ask Margaret to look after him,[n]but...
+Aunque sigo sin ver a su madre.
+Podr胤amos pedirle a Margaret que lo cuide, pero...
 
 [sel SEL_009 top]
-Let's keep looking.
-Let's pull back for now.
+Sigamos buscando.
+Volvamos por ahora.
 
 [msg MSG_010 [Haru]]
-Right, we can't just leave him here.
+Cierto, no podemos dejarlo aqu胤.
 
 [msg MSG_011 [Haru]]
-I don't want to leave him here. I say we[n]look around a little more.
+No quiero dejarlo aqu胤. Yo digo que busquemos un poco m茨s.
 
 [msg MSG_012 [Futaba]]
-Hey, wait a sec! That voice...
+Hey, 斡espera un segundo! Esa voz...
 
 [msg MSG_013 [Naoto]]
-It's faint, but I hear it as well. Could[n]it be...
+Es d姻bil, pero yo tambi姻n la oigo. Podr胤a ser...
 
 [msg MSG_014 [Young herbivore]]
-Kyuuu!
+斡Kyuuu!
 
 [msg MSG_015 [Mother herbivore]]
-Rrrr!
+斡Rrrr!
 
 [msg MSG_016 [Makoto]]
-That must be his mother... I'm glad they[n]found each other.
+Debe ser su madre... Me alegro de que se hayan encontrado.
 
 [msg MSG_017 [Yukiko]]
-They look so happy.
+Parecen muy felices.
 
 [msg MSG_018 [Haru]]
-Mhm, Kyu-chan seems much better now. It[n]looks like all he really wanted was to[n]be near his mother.
+Mhm, Kyu parece mucho mejor ahora. Parece que todo lo que quer胤a era estar cerca de su madre.
 
 [msg MSG_019 [Yukiko]]
 ......
-In reality, I guess every parent worries[n]about their child...
+En realidad, supongo que todos los padres se preocupan por sus hijos...
 
 [msg MSG_020 [Haru]]
-Yukiko-chan?
+夷Yukiko?
 
 [msg MSG_021 [Yukiko]]
-Oh, um... I'm sorry.
-I just got this strange feeling watching[n]them...
+Oh, um... lo siento.
+Tengo una sensaci吋n extra隠a al verlos...
 
 [msg MSG_022 [Haru]]
-Strange feeling?
+夷Sensaci吋n extra隠a?
 
 [msg MSG_023 [Yukiko]]
-When I was little, I never had a hard[n]time being honest about my feelings.
-I didn't worry about anything, and I was[n]able to have fun everyday.
-But, one day, things got complicated[n]between my family and...
-I wasn't able to be honest with my[n]feelings anymore―like how Kyubei's being[n]right now...
+Cuando era peque隠a, nunca me cost吋 ser sincera con mis sentimientos.
+No me preocupaba por nada, y pod胤a divertirme cada d胤a.
+Pero, un d胤a, las cosas se complicaron entre mi familia y...
+No pude ser honesta con mis sentimientos nunca m茨s, como lo que est茨 sintiendo Kyubei ahora mismo...
 
 [msg MSG_024 [Haru]]
-Oh... You know, Yukiko-chan, I'm just[n]like you.
-I hated being tied down to the house rules. I[n]would tell myself I wasn't going to let my[n]parents push me around...
+Oh... Sabes, Yukiko, soy como t雨.
+Odiaba estar sujeta a las reglas de la casa. Me dec胤a a m胤 misma que no iba a dejar que mis padres me mangonearan...
 
 [msg MSG_025 [Yukiko]]
-You too, Noir? I had no idea...
+夷T雨 tambi姻n, Noir? No ten胤a idea...
 
 [msg MSG_026 [Haru]]
-But I noticed something.
-Perhaps tying me down was their way of[n]showing that they loved me.
+Pero me di cuenta de algo.
+Quiz茨s atarme era su forma de demostrarme que me quer胤an.
 
 [msg MSG_027 [Yukiko]]
-You really think so?
-But... I still want to make my own[n]decisions.
+夷De verdad lo crees?
+Pero... Todav胤a quiero tomar mis propias decisiones.
 
 [msg MSG_028 [Haru]]
-Of course. I think that's great. You[n]shouldn't have to lie to yourself and[n]give in to what everyone says.
-Even if you think differently than them,[n]I'm sure they'd be happy to see you[n]follow what you believe in.
+Por supuesto. Me parece estupendo. No deber胤as tener que mentirte a ti misma y ceder ante lo que dice todo el mundo.
+Aunque pienses diferente a ellos, seguro que se alegrar胤an de que sigas aquello en lo que crees.
 
 [msg MSG_029 [Yukiko]]
-Yeah... You're right.
+S胤... Tienes raz吋n.
 
 [msg MSG_030 [Young herbivore]]
-Kyu!
+斡Kyu!
 
 [msg MSG_031 [Yukiko]]
-Hm? What is it, Kyubei?
+夷Hm? 夷Qu姻 ocurre, Kyubei?
 
 [msg MSG_032 [Haru]]
-It looks like he's carrying something.
+Parece que lleva algo.
 
 [msg MSG_033 [Yukiko]]
-A stone? It's beautiful...
+夷Una piedra? Es muy bonita...
 
 [msg MSG_034 [Chie]]
-Maybe it's to say thanks for all the[n]help?
+夷Quiz茨s sea para agradecernos por toda nuestra ayuda?
 
 [msg MSG_035 [Yukiko]]
-Oh... Thank you, Kyubei.
+Oh... Muchas gracias, Kyubei.
 
 [msg MSG_036 [Young herbivore]]
-Kyu, kyu!
+斡Kyu, kyu!
 
 [msg MSG_037 [Haru]]
-Don't get lost anymore, all right? Take[n]good care of yourself, Kyu-chan!
+No te pierdas nunca m茨s, 夷entendido? 斡Cu胤date mucho, Kyu!
 
 [msg MSG_038 [Young herbivore]]
-Kyu!
+斡Kyu!
 
 [msg MSG_039 [Chie]]
-Wow, they actually understand him! Those[n]two are amazing...
+斡Wow, realmente lo entienden! Esos dos son incre胤bles...
 
 [msg MSG_040 [Morgana]]
-Guess that's it for now. Let's head[n]back.
+Supongo que eso es todo por ahora. Volvamos.
 

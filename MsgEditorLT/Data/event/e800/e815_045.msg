@@ -1,38 +1,38 @@
 [msg MSG_000 [Chie]]
-Oh, there's some bones!
+Oh, 斡aqu胤 hay algunos huesos!
 
 [msg MSG_001 [Naoto]]
-Yes, and from the looks of it... I don't[n]think we'll need Crow's consensus.
+S胤, y por lo que parece... no creo que necesitemos el consenso de Crow.
 
 [msg MSG_002 [Akechi]]
-This is clearly a fresh kill; no doubt[n]the Ravenous Beast is near.
+Es claramente una muerte reciente; no hay duda de que el Ravenous Beast est茨 cerca.
 
 [msg MSG_003 [Teddie]]
-Hrrm, my Teddie senses are going[n]bear-serk too!
+Hrrm, 斡mi sentido de Teddie tambi姻n se est茨 poniendo nervi-oso!
 
 [sel SEL_004 top]
-Let's get ready.
-Let's proceed carefully.
-Let's run for it.
+Prepar姻monos.
+Avancemos con cuidado.
+Corramos a por 姻l.
 
 [msg MSG_005 [Akechi]]
-Indeed, we should probably prepare[n]ourselves. We're about to face a very[n]dangerous opponent.
+En efecto, deber胤amos prepararnos. Estamos a punto de enfrentarnos a un oponente muy peligroso.
 
 [msg MSG_006 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_007 [Akechi]]
-Agreed. We could be attacked at any[n]time. We'll want to stay alert.
+De acuerdo. Podr胤amos ser atacados en cualquier momento. Tendremos que estar alerta.
 
 [msg MSG_008 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_009 [Koromaru]]
-*whine*
+*lloriqueo*
 
 [msg MSG_010 [Akechi]]
-Well, it certainly is a dangerous[n]opponent. It might be a good idea to[n]regroup.
+Bueno, ciertamente es un oponente peligroso. Podr胤a ser una buena idea reagruparse.
 
 [msg MSG_011 [Futaba]]
-Okay, the enemy is just up ahead! Don't[n]let your guard down!
+斡Vale, el enemigo est茨 justo delante! 斡No bajen la guardia!
 

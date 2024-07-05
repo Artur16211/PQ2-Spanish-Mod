@@ -1,33 +1,33 @@
 [msg MSG_000 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_001 [Akechi]]
-Yes, bones. It's just like you said,[n]Koromaru-kun.
+S胤, huesos. Es justo como dijiste, Koromaru.
 
 [sel SEL_002 top]
-Mind taking a look?
-Isn't this dangerous?
+夷Te importar胤a echar un vistazo?
+夷Esto no es peligroso?
 
 [msg MSG_003 [Akechi]]
-Certainly. Let's see...
+Ciertamente. Veamos...
 
 [msg MSG_004 [Akechi]]
-Haha, don't worry. Let me take a closer[n]look...
+Ja, ja, no te preocupes. D姻jame echar un vistazo m茨s de cerca.
 
 [msg MSG_005 [Akechi]]
-Yes, this is definitely one of its[n]meals. It's fairly old, though.
-If we stay on the trail, I'm sure we'll[n]find the beast eventually.
+S胤, esta es sin duda una de sus comidas. Aunque, es bastante viejo.
+Si seguimos el rastro, seguro que al final encontramos a la bestia.
 
 [msg MSG_006 [Chie]]
-Wow, you're amazing, Koro-chan... Muku[n]would never be able to do that.
+Wow, eres incre胤ble, Koromaru... Muku nunca podr胤a hacer eso.
 
 [msg MSG_007 [Koromaru]]
 *sniff* *sniff* *sniff*
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_008 [Ken]]
-Koromaru looks really enthusiastic. He[n]says the trail leads north.
+Koromaru parece muy entusiasmado. Dice que el rastro lleva al norte.
 
 [msg MSG_009 [Akechi]]
-Very well. North it is, then.
+Muy bien. Vamos al norte entonces.
 

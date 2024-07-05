@@ -1,75 +1,75 @@
 [msg MSG_000 [Elizabeth]]
-Now then, for the special screening my[n]worthless brother requested...
-You are to find the "Futuristic Gizmo"[n]in Junessic Land.
+Bueno, para esta proyecci吋n especial que ha pedido mi hermano in雨til...
+Tienen que encontrar el "Gizmo Futurista"
 
 [msg MSG_001 [Naoto]]
-I'm rather curious about this[n]"Futuristic Gizmo."
+Siento bastante curiosidad por este "Gizmo Futurista"
 
 [msg MSG_002 [Fuuka]]
-I'm excited to see it as well.
-I bet it uses technology we could only[n]dream of in our day and age.
+Yo tambi姻n estoy emocionada por verlo.
+Apuesto a que usa tecnolog胤a que solo podr胤amos imaginar actualmente.
 
 [msg MSG_003 [Yusuke]]
-Yes, I, too, would like to take a look.[n]My heart is ready.
+S胤, a m胤 tambi姻n me gustar胤a echarle un vistazo. Mi coraz吋n est茨 listo.
 
 [sel SEL_004 top]
-You too?
-You like machines?
+夷T雨 tambi姻n?
+夷Te gustan las m茨quinas?
 
 [msg MSG_005 [Yusuke]]
-Well, I know very little about machines,[n]but, yes, I'm quite interested.
-If this mechanism is as technologically[n]impressive as it sounds, then there's[n]surely some beauty in it.
+Bueno, s姻 muy poco sobre m茨quinas, pero, s胤, estoy bastante interesado.
+Si este mecanismo es tan interesante en cuanto a tecnolog胤a, entonces seguramente haya algo de belleza en 姻l.
 
 [msg MSG_006 [Naoto]]
-Of course. It's only natural for a[n]perfectly-made machine to have some[n]elegance in its design.
+Por supuesto. Es natural que una m茨quina perfectamente hecha tenga algo de elegancia en su dise隠o.
 
 [msg MSG_007 [Yusuke]]
-Precisely, Shirogane-san!
-Not only that, but this futuristic[n]technology likely contains ideas the[n]likes of which we've never seen...
-And THAT will undoubtedly stimulate my[n]creativity!
+斡Exactamente, Shirogane!
+Y no solo eso, pero esta tecnolog胤a futur胤stica parece contener ideas que nunca hayamos visto.
+斡Y ESO estimular茨 indudablemente mi creatividad!
 
 [msg MSG_008 [Futaba]]
-Whoa. Who'da thought he'd be interested?
-So where do we find this thing?
+Hala. 夷Qui姻n iba a pensar que estaba interesado?
+Entonces, 夷d吋nde encontramos esa cosa?
 
 [msg MSG_009 [Elizabeth]]
-The mechanism in question is in a[n]container.
+El mecanismo en cuesti吋n est茨 en un contenedor.
 
 [msg MSG_010 [Akechi]]
-There were a lot of containers. I wonder[n]which one.
-Also, I should say, it didn't look as[n]though any of those containers would[n]open very easily.
+Hab胤a un mont吋n de contenedores. Me pregunto en cu茨l.
+Adem茨s, debo decir que esos contenedores no parec胤a que se fueran a abrir con facilidad.
 
 [msg MSG_011 [Fuuka]]
-Hmm, that is a problem.
+Mmm, eso es un problema.
 
 [msg MSG_012 [Naoto]]
-Oh right. Does anyone else remember?
-We saw that broken container when we[n]were looking for Yosuke-senpai.
+Oh, cierto. 夷Alguien m茨s se acuerda?
+Vimos ese contenedor roto cuando est茨bamos buscando a Yosuke.
 
 [msg MSG_013 [Yusuke]]
-Ah, the one that was already open! We'll[n]be able to look inside!
+Ah, 斡ese que ya estaba abierto! 斡Podremos mirar dentro!
 
 [msg MSG_014 [Naoto]]
-Oh, I just remembered.
-We came across a broken container while[n]we were searching for Yosuke-senpai.
+Oh, me acabo de acordar,
+Encontramos un contenedor roto mientras est茨bamos buscando a Yosuke.
 
 [msg MSG_015 [Akechi]]
-Now that you mention it, I do remember[n]seeing one.
-It was just big enough for someone to[n]fit inside.
+Ahora que lo mencionas, recuerdo ver uno.
+Era lo suficientemente grande para que alguien cupiera dentro.
 
 [sel SEL_016 top]
-Let's check it out.
-Time to investigate.
+Vamos a comprobarlo.
+Hora de investigar.
 
 [msg MSG_017 [Naoto]]
-Right. Then, let's head out.
+Bien. Entonces, vamos all茨.
 
 [msg MSG_018 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_019 [Fuuka]]
-Oh dear, I'm getting anxious.
+Oh cielos, me estoy poniendo nerviosa.
 
 [msg MSG_020 [Yusuke]]
-Let us depart, [f 6 1 30 0 0 0]. The "Futuristic[n]Gizmo" awaits!
+V茨monos, [f 6 1 30 0 0 0]. 斡El "Gizmo Futurista" nos espera!
 

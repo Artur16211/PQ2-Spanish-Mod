@@ -1,25 +1,25 @@
 [msg MSG_000 [Teddie]]
-Hrrm!? I found some dinosaur bones!
-Such terrible table manners. It was[n]clearly eating with its hands.
+斡夷Hrrm?! 斡He encontrado algunos huesos de dinosaurio!
+Qu姻 malos modales. Est茨 claro que come con las manos.
 
 [msg MSG_001 [Yosuke]]
-You're the last one who should be[n]judging someone's table manners...
+T雨 eres el 雨ltimo que deber胤a juzgar los modales de alguien...
 
 [msg MSG_002 [Rise]]
-Can you check the bones, Crow?
+夷Puedes comprobar los huesos, Crow?
 
 [msg MSG_003 [Akechi]]
-Yes, I'm looking at them right now.
-These bones are starting to wear down.[n]They must be very old.
+S胤, los estoy mirando ahora mismo.
+Estos huesos est茨n empezando a descomponerse. Deben de ser muy viejos.
 
 [sel SEL_004 top]
-That won't do.
-Let's try somewhere else.
+Esos no servir茨n.
+Probemos en otro sitio.
 
 [msg MSG_005 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_006 [Akechi]]
-Haha, Koromaru-kun seems to agree.
-We're looking for fresh sets of bones.[n]Let's keep our eyes open.
+Ja, ja, Koromaru parece estar de acuerdo.
+Estamos buscando conjuntos de huesos recientes. Mantengamos los ojos abiertos.
 

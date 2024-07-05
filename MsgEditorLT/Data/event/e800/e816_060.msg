@@ -1,69 +1,69 @@
 [msg MSG_000 [Naoto]]
-There's the container!
+斡Aqu胤 est茨 el contenedor!
 
 [msg MSG_001 [Yusuke]]
-Now to look for that "Next-Gen[n]Mechanism"!
+斡Ahora a ver ese "Mecanismo de Nueva Generaci吋n"!
 
 [msg MSG_002 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_003]
-We looked inside the container...
+Miramos dentro del contenedor...
 
 [msg MSG_004 [Junpei]]
-Sheesh, nothin' but dust and mold... and[n]now we're covered in it.
+Pff, nada m茨s que polvo y moho... y ahora estamos cubiertos de eso.
 
 [msg MSG_005 [Akechi]]
-It seems the container's been left like[n]this for some time.
+Parece que el contenedor ha estado as胤 durante un tiempo.
 
 [msg MSG_006 [Ryuji]]
-Well, we pulled everything out, but it[n]looks like it's all just a buncha crap.
+Bueno, hemos sacado todo, pero parece que solo es un mont吋n de basura.
 
 [msg MSG_007 [Naoto]]
 ......
-...Wait, what's this!?
-The excellent wiring, this exceptional[n]design... What could this possibly be[n]used for?
+... Espera, 斡夷qu姻 es esto?!
+El excelente cableado, este dise隠o excepcional... 夷Para qu姻 podr胤a servir esto?
 
 [msg MSG_008 [Yusuke]]
-It looks somewhat worn, but its aura is[n]incredibly unique!
-There's no doubt about it! This is what[n]we were looking for!
+Parece algo desgastado, 斡pero su aura es incre胤blemente 雨nica!
+斡No hay ninguna duda! 斡Esto es lo que est茨bamos buscando!
 
 [msg MSG_009 [Naoto]]
-I think so too! So, this connects to[n]here...
+斡Yo tambi姻n lo creo! Entonces, esto se conecta aqu胤...
 
 [sel SEL_010 top]
-Let me take a look.
-Looks like you're having fun.
+D姻jame echarle un vistazo.
+Parece que te est茨s divirtiendo.
 
 [msg MSG_011 [Yusuke]]
-Hold on, I'm going to try and capture[n]the inspiration I felt when I first laid[n]eyes upon it!
+Un momento, 斡voy a intentar capturar la inspiraci吋n que sent胤 cuando lo he visto por primera vez!
 
 [msg MSG_012 [Naoto]]
-This material is rather peculiar... Is[n]it some kind of alloy? What's the mixing[n]ratio, I wonder?
+Este material es bastante peculiar... 夷Es alg雨n tipo de aleaci吋n? Me pregunto cu茨l ser茨 la proporci吋n de mezcla
 
 [msg MSG_013 [Morgana]]
-Aw, man... They're gonna be a while.
+Vaya, t胤o... Van a tardar un rato.
 
 [msg MSG_014 [Naoto]]
-This material is rather peculiar... Is[n]it some kind of alloy? What's the mixing[n]ratio, I wonder?
+Este material es bastante peculiar... 夷Es alg雨n tipo de aleaci吋n? Me pregunto cu茨l ser茨 la proporci吋n de mezcla
 
 [msg MSG_015 [Yusuke]]
-All right, I'm going to try and capture[n]the inspiration I felt when I first laid[n]eyes upon it!
+Muy bien, 斡voy a intentar capturar la inspiraci吋n que sent胤 cuando lo he visto por primera vez!
 
 [msg MSG_016 [Morgana]]
-Man, they're in their own world right[n]now... This could be a while.
+T胤o, ahora est茨n en su propio mundo... Esto podr胤a tardar bastante.
 
 [msg MSG_017 [Fuuka]]
-Aw, that's not fair... I want to see it[n]too!
+Ay, no es justo... 斡Yo tambi姻n quiero verlo!
 
 [msg MSG_018 [Futaba]]
-C'mon, the techie here wants a turn. We[n]can't leave her out of it.
-Hey, you mecha nerds, come back here[n]when you're done.
+Vamos, la t姻cnica quiere su turno. No podemos dejarla fuera.
+Ey, frikis de los mechas, volved cuando hay茨is acabado.
 
 [msg MSG_019 [Yusuke]]
-Hahaha! I could sketch this forever!
-This is a wellspring of inspiration![n]What a truly amazing device!
+斡Ja, ja, ja! 斡Podr胤a dibujar esto para siempre!
+斡Esto es un manantial de inspiraci吋n! 斡Qu姻 dispositivo tan asombroso!
 
 [msg MSG_020 [Naoto]]
-...Oh, I see! The drive system absorbs[n]the energy here then converts it here[n]and...
+... 斡Oh, ya veo! El sistema de propulsi吋n absorbe la energ胤a aqu胤, luego la convierte aqu胤 y...
 

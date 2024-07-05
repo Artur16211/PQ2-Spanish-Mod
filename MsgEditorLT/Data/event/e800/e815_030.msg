@@ -1,49 +1,49 @@
 [msg MSG_000 [Koromaru]]
-Arf! Woof, woof!
+斡Arf! 斡Woof, woof!
 
 [msg MSG_001 [Ken]]
-Look, more bones! We're really making[n]progress, huh?
+斡Mirad, m茨s huesos! Realmente estamos progresando, 夷eh?
 
 [msg MSG_002 [Akechi]]
-Yes, thanks to Koromaru-kun. All right,[n]it looks like it's my turn.
+S胤, gracias a Koromaru. Muy bien, parece que es mi turno.
 
 [msg MSG_003 [Akechi]]
-These certainly look like leftovers, and[n]they're pretty recent too.
+Desde luego parecen restos, y tambi姻n son muy recientes.
 
 [msg MSG_004 [Akihiko]]
-What!? Is it finally time for the[n]face-off!?
+斡夷Qu姻?! 斡夷Ha llegado el momento del enfrentamiento!?
 
 [msg MSG_005 [Akechi]]
-Haha, sorry, not quite yet.
-I said recent, but it's still been some[n]time since these bones were left behind.
+Ja, ja, perd吋n, a雨n no.
+He dicho reciente, pero a雨n ha pasado alg雨n tiempo desde que estos huesos fueron desechados.
 
 [msg MSG_006 [Koromaru]]
-Bark, bark, bark!
+斡Bark, bark, bark!
 
 [msg MSG_007 [Akechi]]
-I see. So we should make our way east[n]now?
+Ya veo. 夷As胤 que ahora deber胤amos ir hacia el este?
 
 [msg MSG_008 [Ken]]
-......!
+斡......!
 
 [sel SEL_009 top]
-You can understand him?
-I think he said west.
+夷Puedes entenderlo?
+Creo que ha dicho al oeste.
 
 [msg MSG_010 [Akechi]]
-Oh, no, not really. I just sort of[n]pictured him saying that.
-Was I right, Amada-kun?
+Oh, no, no realmente. Me lo imaginaba diciendo eso.
+夷Ten胤a raz吋n, Amada?
 
 [msg MSG_011 [Ken]]
-...Yeah. It sounds like Koromaru's[n]saying to head east.
+... S胤. Parece que Koromaru est茨 diciendo que vayamos al este.
 
 [msg MSG_012 [Akechi]]
-Hm? Was I wrong?
+夷Entonces me he equivocado?
 
 [msg MSG_013 [Ken]]
-...No, you were right, Crow. Koromaru[n]said to head east.
+... No, tienes raz吋n, Crow. Koromaru ha dicho que vayamos al este.
 
 [msg MSG_014 [Rise]]
-Wow, Crow and Koro-chan make a pretty[n]good team.
-Okay then, we're heading east!
+Wow, Crow y Koro hacen un muy buen equipo.
+De acuerdo, entonces, 斡nos dirigimos al este!
 

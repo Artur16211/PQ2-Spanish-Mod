@@ -1,47 +1,47 @@
 [msg MSG_000 [Yusuke]]
-Well now, I'd say we're much closer to[n]the container than before.
+Bueno, ahora dir胤a que estamos mucho m茨s cerca del contenedor que antes.
 
 [msg MSG_001 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_002 [Yusuke]]
-Haha, what is it? Those sparkly eyes[n]tell me you want something.
+Ja, ja, 夷qu姻 es eso? Esos ojos brillantes me dicen que quieres algo.
 
 [msg MSG_003 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_004 [Ken]]
-I think he wants you to play with him,[n]Fox.
+Creo que quiere que juegues con 姻l, Fox.
 
 [msg MSG_005 [Futaba]]
-Ohh, good for you, Fox. I'm sure you[n]two'll get along great.
+Oh, bien por ti, Fox. Seguro que los dos os llev茨is genial.
 
 [msg MSG_006 [Fuuka]]
-It looks like Koro-chan's interested in[n]Fox's tail.
-It is fluffy, after all. Maybe he thinks[n]you're like him.
+Parece que Koro est茨 interesado en la cola de Fox.
+Es esponjosa, despu姻s de todo. Quiz茨s piensa que eres como 姻l.
 
 [msg MSG_007 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_008 [Yusuke]]
-Now that I look at you, you are rather[n]cute.
-It certainly feels different playing[n]with a dog. I've grown somewhat[n]accustomed to cats lately.
+Ahora que te veo, eres muy mono.
+Sin duda, es diferente jugar con un perro. 郁ltimamente, me he acostumbrado algo a los gatos.
 
 [msg MSG_009 [Morgana]]
-What do you mean "somewhat"!? Also, I'm[n]not a cat!
+夷A qu姻 te refieres? Adem茨s, 斡no soy un gato!
 
 [msg MSG_010 [Futaba]]
-The joke's basically a tradition at this[n]point...
+La broma es pr茨cticamente una tradici吋n a estas alturas...
 
 [msg MSG_011 [Naoto]]
-I like cats...
-Not only are they cute, but they also[n]have an air of nobility about them.
+Me gustan los gatos...
+No solo son monos, sino que tambi姻n tienen un aire de nobleza.
 
 [msg MSG_012 [Morgana]]
-See, Naoto gets it. You may touch my paw[n]if you like.
-...I'm not a cat, though!
+Ven, Naoto lo entiende. Puedes tocarme la pata si quieres.
+... Aunque, 斡no soy un gato!
 
 [msg MSG_013 [Fuuka]]
-Um, I don't mean to spoil the fun, but[n]we should probably get going.
-The container is just up ahead. Be[n]careful, everyone.
+Um, no quiero estropear la diversi吋n, pero probablemente deber胤amos continuar.
+El contenedor est茨 justo delante. Tened cuidado.
 

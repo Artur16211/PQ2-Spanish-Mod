@@ -1,60 +1,60 @@
 [msg MSG_000 [Elizabeth]]
-Now, for this special screening...
-You are to go to Junessic Land and end[n]the unchecked tyranny of the Ravenous[n]Beast.
+Ahora, para esta proyecci吋n especial...
+Deb姻is ir a Junessic Land y acabar con la tiran胤a incontrolada del Ravenous Beast.
 
 [msg MSG_001 [Rise]]
-Carnivorous... Wait, so it's not one of[n]those FOEs?
+Carn胤voro... espera, 夷no es uno de esos FOEs?
 
 [msg MSG_002 [Elizabeth]]
-Correct... It's a much more malicious[n]menace than any ordinary dinosaur.
-Devouring everything in sight, it's the[n]definition of B-E-A-S-T.
-It's currently running amok, doing[n]whatever it pleases, wherever it[n]pleases...
-If something is not done soon, it is[n]sure to prey on you sooner or later...[n]or so I fear.
+Correcto. Es una amenaza mucho m茨s maliciosa que cualquier otro dinosaurio.
+Devorando todo a la vista, es la definici吋n de B-E-S-T-I-A.
+Actualmente, est茨 desmadrado, haciendo lo que le da la gana, donde le da la gana...
+Si no se hace algo pronto, seguro que tarde o temprano ir茨 contra vosotros... o eso me temo.
 
 [msg MSG_003 [Shinjiro]]
-The shit you're sayin' sure doesn't[n]match your expression...
+La mierda que est茨s diciendo no concuerda con tu expresi吋n...
 
 [msg MSG_004 [Akihiko]]
-Wow, that sounds like one terrifying[n]opponent.
+Wow, parece un oponente terror胤fico.
 
 [msg MSG_005 [Shinjiro]]
-Same with you...
-So, how do we find this thing? Can the[n]navigators spot it for us?
+Igual que t雨...
+Entonces, 夷c吋mo encontramos esta cosa? 夷Pueden los navegantes encontrarlo por nosotros?
 
 [msg MSG_006 [Rise]]
-Hmm, it's moving around so much, I don't[n]think we can pinpoint its exact[n]location...
-If only we had some kinda hint as to[n]where it might be...
+Hmm, se est茨 moviendo mucho, no creo que podamos determinar su localizaci吋n exacta.
+Ojal茨 tuvi姻ramos alg雨n tipo de pista de d吋nde podr胤a estar...
 
 [sel SEL_007 top]
-Let's look for bones.
-Near its prey.
+Busquemos huesos.
+Cerca de su presa.
 
 [msg MSG_008 [Akechi]]
-Good idea. All we have to do is look for[n]the tracks left behind by this Ravenous[n]Beast.
-If it's attacking and eating everything[n]it lays eyes on, then we can follow its[n]feeding trail...
+Buena idea. Todo lo que tenemos que hacer es buscar las huellas dejadas por ese Ravenous Beast.
+Si est茨 atacando y comiendo todo lo que ve, entonces podremos seguir su rastro de alimentaci吋n...
 
 [msg MSG_009 [Shinjiro]]
-And eventually we'll come face to face[n]with the bastard, huh? Pretty gruesome.
+Y finalmente nos encontraremos cara a cara con el bastardo, 夷eh? Bastante horripilante.
 
 [msg MSG_010 [Akechi]]
-So we'll need to find traces of its[n]latest meal... In other words, fresh[n]dinosaur bones.
-Sound good, [f 6 1 30 0 0 0]?
+As胤 que tendremos que encontrar rastros de su 雨ltima comida... En otras palabras, huesos frescos de dinosaurio.
+夷Suena bien, [f 6 1 30 0 0 0]?
 
 [sel SEL_011 top]
-I'll leave it to you.
-Whatever you want.
+Te lo dejo a ti.
+Lo que t雨 quieras.
 
 [msg MSG_012 [Akechi]]
-Me...?
-Haha, very well. I suppose I should pull[n]some weight every now and then.
+夷Yo...?
+Ja, ja, muy bien. Supongo que deber胤a poner m茨s de mi parte de ahora en adelante.
 
 [msg MSG_013 [Akechi]]
-Haha, are you saying you want me to[n]handle this?
-Very well, then. I was curious about[n]this Ravenous Beast anyhow.
+Ja, ja, 夷est茨s diciendo que quieres que me encargue de esto?
+Muy bien. Ten胤a curiosidad por este Ravenous Beast de todos modos.
 
 [msg MSG_014 [Akihiko]]
-Whatever it is, it's definitely tough. I[n]can't wait to meet it.
+Sea lo que sea, seguramente sea fuete. Estoy impaciente por conocerlo.
 
 [msg MSG_015 [Akechi]]
-Haha, I'm glad I can count on you. I'll[n]try to meet expectations as well.
+Ja, ja, me alegro de que podamos contar contigo. Yo tambi姻n intentar姻 cumplir las expectativas.
 

@@ -1,50 +1,50 @@
 [msg MSG_000 [Rise]]
-Okay, let's go over the plan one more[n]time.
-We're looking for dinosaur bones left[n]behind by the Ravenous Beast.
-If we can find a fresh set of bones,[n]then it should be close by!
+Okay, repasemos el plan una vez m茨s.
+Estamos buscando los huesos de dinosaurio que ha ido dejando el Ravenous Beast.
+Si podemos encontrar un conjunto de huesos, 斡entonces deber胤a de estar cerca!
 
 [msg MSG_001 [Akechi]]
-I'll be examining the bones, so that[n]part's covered.
+Yo examinar姻 los huesos, as胤 que esa parte est茨 cubierta.
 
 [msg MSG_002 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_003 [Akechi]]
-......?
-What's wrong, Koromaru-kun?
+夷......?
+夷Qu姻 ocurre, Koromaru?
 
 [sel SEL_004 top]
-He wants to help.
-He's hungry.
+Quiere ayudar.
+Tiene hambre.
 
 [msg MSG_005 [Ken]]
-Yeah, looks like it. He says he's good[n]at tracking.
+S胤, parece que s胤. Dice que es un buen rastreador.
 
 [msg MSG_006 [Ken]]
-No... It looks like he wants to help.
+No... Parece que quiere ayudar.
 
 [msg MSG_007 [Akechi]]
-Haha, I see. That's reassuring.
+Ja, ja, ya veo. Eso es tranquilizador.
 
 [msg MSG_008 [Chie]]
-Huh, they do kinda look like they go[n]together―like an investigator and a[n]police dog!
+Parece que van juntos, 斡como un investigador y su perro polic胤a!
 
 [msg MSG_009 [Akechi]]
-Ahaha, you think so? Well then, I'm[n]counting on you, Koromaru-kun.
-Do you think you can lead us to some[n]bones right now?
+Ja, ja, ja, 夷piensas eso? Bueno, entonces, cuento contigo, Koromaru.
+夷Crees que puedas llevarnos a algunos huesos ahora mismo?
 
 [msg MSG_010 [Koromaru]]
 *sniff* *sniff*
 
 [msg MSG_011 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_012 [Akechi]]
-Um, does that mean...?
+Um, 夷eso significa...?
 
 [msg MSG_013 [Ken]]
-It sounds like we should head east.
+Parece que deber胤amos ir al este.
 
 [msg MSG_014 [Akechi]]
-I see. That's a rather keen sense of[n]smell. Shall we get going, then?
+Ya veo. Ese es un sentido del olfato bastante agudo. 夷Nos ponemos en marcha, entonces?
 

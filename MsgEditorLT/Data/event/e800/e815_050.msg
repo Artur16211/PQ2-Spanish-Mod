@@ -1,18 +1,18 @@
 [msg MSG_000 [Rise]]
-Careful, you guys! I'm picking up a[n]powerful reading just ahead! It looks[n]like the Ravenous Beast!
+斡Cuidado, chicos! 斡Detecto una lectura poderosa justo delante! 斡Parece que es el Ravenous Beast!
 
 [msg MSG_001 [Akechi]]
-Yeah, I'm sensing some intense[n]bloodlust. It seems we've been noticed.
+S胤, estoy sintiendo una intensa sed de sangre. Parece que nos han notado.
 
 [msg MSG_002 [Koromaru]]
-Grrrrr...!
+斡Grrrrr...!
 
 [msg MSG_003 [Akihiko]]
-Heh, a beast that devours everything it[n]sees, huh? Not a bad opponent, if you[n]ask me.
+夷Una bestia que devota todo lo que ve? No es un mal oponente, si me preguntas.
 
 [msg MSG_004 [Futaba]]
-One false move and you're dino food![n]Don't get eaten out there!
+斡Un movimiento en falso y ser姻is carne de dinosaurio! 斡Qu姻 no os coman all胤!
 
 [msg MSG_005 [Akihiko]]
-I'd like to see it try! Bring it on!
+斡Me gustar胤a verlo! 斡Adelante!
 

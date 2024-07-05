@@ -1,90 +1,90 @@
 [msg MSG_000 [Elizabeth]]
-A most moving tale of two dinosaurs...[n]How beautiful.
-It truly warmed my heart. In fact, I'd[n]say it reached temperatures of over 2000[n]degrees.
+Una historia muy conmovedora de dos dinosaurios... Qu姻 bonito.
+Realmente me calent吋 el coraz吋n. De hecho, dir胤a que alcanz吋 temperaturas de m茨s de 2000 grados.
 
 [msg MSG_001 [Kanji]]
-Would there even be anythin' left of[n]you...?
-Anyway, I'm just glad the little guy was[n]able to find his mom.
+夷Quedar胤a algo de ti...?
+De todos modos, estoy contento de que el peque隠胤n pudiera encontrar a su madre.
 
 [msg MSG_002 [Yosuke]]
-Y'know, it may look like he doesn't care[n]all that much, but Kanji had tears in[n]his eyes when those two reunited.
+Puede parecer que no le importa mucho, pero a Kanji se le llenaron los ojos de l茨grimas cuando esos dos se reencontraron.
 
 [msg MSG_003 [Kanji]]
-Wha―!? The hell're you talkin' about!?[n]I-I just have allergies!
+斡夷Qu姻?! 斡夷Qu姻 demonios est茨s diciendo?! 斡S-Solo ten胤a alergia!
 
 [msg MSG_004 [Teddie]]
-Hehe, Kanji's so easily embarrassed.
+Jeje, Kanji se avergüenza con tanta facilidad.
 
 [msg MSG_005 [Haru]]
-Well, they were only able to reunite[n]thanks to everyone here.
-Thank you, Yukiko-chan, for working so[n]hard to help them.
+Bueno, solo pudieron reencontrarse gracias a todos los aqu胤 presentes.
+Gracias, Yukiko, por trabajar tan duro para ayudarlos.
 
 [msg MSG_006 [Yukiko]]
-I... Haru-san...
-I'm so glad we got to meet each other.
+Yo... Haru...
+Me alegro mucho de que nos hayamos conocido.
 
 [msg MSG_007 [Haru]]
-Huh?
+夷Eh?
 
 [msg MSG_008 [Yukiko]]
-This might be a bit forward, but I[n]realized we're very much alike.
-And upon realizing that, I suddenly felt[n]close to you...
+Puede que sea un poco atrevido, pero me he dado cuenta de que nos parecemos mucho.
+Y al darme cuenta de eso, de repente me sent胤 m茨s cercana a ti...
 
 [msg MSG_009 [Haru]]
-*giggle* I felt the same way.
-I was thinking about how we should talk[n]some more, so I can get to know you[n]better.
+*risita* He sentido lo mismo.
+Estaba pensando en c吋mo podr胤amos hablar m茨s, para que as胤 pueda conocerte mejor
 
 [msg MSG_010 [Yukiko]]
-I'm happy to hear that. I would very[n]much like to talk more with you as well.
+Me alegra escuchar eso. A m胤 tambi姻n me encantar胤a hablar m茨s contigo.
 
 [msg MSG_011 [Haru]]
-There's no need to be so proper,[n]Yukiko-chan. Let's just be good friends.
+No hace falta ser tan educada, Yukiko. Simplemente seamos buenas amigas.
 
 [msg MSG_012 [Yukiko]]
-Right!
+斡Cierto!
 
 [msg MSG_013 [Morgana]]
-Looks like you two are getting along[n]just fine. Keep it up, you guys!
+Parece que os llev茨is muy bien. 斡Seguid as胤, chicos!
 
 [msg MSG_014 [Yukiko]]
-Of course! I'll burn all of our enemies[n]to a crisp!
+斡Claro que s胤! 斡Quemar姻 a todos nuestros enemigos!
 
 [msg MSG_015 [Haru]]
-Don't forget about me. I'll chop down[n]every last foe we come across!
+No te olvides de m胤. 斡Acabar姻 con hasta el 雨ltimo enemigo que nos encontremos!
 
 [msg MSG_016 [Ryuji]]
-Haha... Glad you two are getting[n]along...
+Jaja... Me alegro de que os llev姻is bien...
 
 [msg MSG_017 [Kanji]]
-They're a pretty scary pair...
+Son una pareja bastante aterradora...
 
 [msg MSG_018 [Haru]]
-Oh, that reminds me! Teddie was saying[n]something about "scoring."
-Were you playing a game? Do you think I[n]can come along next time?
+Oh, 斡eso me recuerda! Teddie estaba diciendo algo sobre "meter ficha"
+夷Estabais jugando a un juego? 夷Cre姻is que me pueda unir la pr吋xima vez?
 
 [msg MSG_019 [Yukiko]]
-Teddie said what...?
+夷Teddie dijo eso...?
 
 [msg MSG_020 [Teddie]]
-Eeeek! I-I don't know what you're talki―
+斡Eeeek! N-No s姻 de qu姻 est茨s habl...
 
 [msg MSG_021 [Yukiko]]
-I'll turn you to ash! Konohana Sakuya!
+斡Te convertir姻 en cenizas! 斡Konohana Sakuya!
 
 [msg MSG_022 [Teddie]]
-Yaaargh! Here we go again!
+斡Yaaargh! 斡Ya estamos otra vez!
 
 [msg MSG_023 [Haru]]
-Wow, is this part of the game? Let me[n]try...
-Hey, hot stuff! You wanna hike up a hill[n]and chop down some trees with me?
+Wow, 夷esto es parte de un juego? Dejadme probar...
+斡Eh, t胤o bueno! 夷Quieres subir una colina y talar algunos 茨rboles conmigo?
 
 [msg MSG_024 [Yosuke]]
-That's your idea of scoring!? Wait... So[n]you WOULD prefer a hill!
+斡夷Esa es tu idea para meter ficha?! Espera... 斡As胤 que prefieres una colina!
 
 [msg MSG_025 [Yukiko]]
-Oh, then, how about this?
-You there! Are you willing to devote[n]your life to upholding the long-standing[n]history and traditions of the Amagi Inn?
+Oh, entonces, 夷qu姻 tal esto?
+斡T雨! 夷Est茨s dispuesto a dedicar tu vida a mantener la larga historia y tradiciones de la posada Amagi?
 
 [msg MSG_026 [Ryuji]]
-That don't sound like scorin' to me!
+斡Eso no me suena a meter ficha!
 

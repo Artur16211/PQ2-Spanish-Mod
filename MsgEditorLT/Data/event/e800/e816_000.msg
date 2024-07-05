@@ -1,92 +1,92 @@
 [msg MSG_000 [Theodore]]
-Oh, hello, everyone. How are you doing?
+Hola a todos. 夷Qu姻 tal est茨is?
 
 [msg MSG_001 [Elizabeth]]
-...Villain!
-That suspicious attire... Hold it right[n]there! I'll cut you down where you[n]stand!
+... 斡Villano!
+Ese traje sospechoso... 斡Alto ah胤! 斡Te cortar姻 donde est茨s parado!
 
 [msg MSG_002 [Theodore]]
-S-Sister, please. It's me, Theodore.
+H-Hermana, por favor. Soy yo, Theodore.
 
 [msg MSG_003 [Elizabeth]]
-Hm?
-Oh, it appears I've jumped the gun. Now[n]that I get a closer look at you, I see[n]you're just my brother.
+夷Hm?
+Oh, parece que me he confundido. Ahora que te veo de cerca, veo que solo eres mi hermano.
 
 [msg MSG_004 [P3 Fem Protag]]
-Theo? What are you doing here?
+夷Theo? 夷Qu姻 est茨s haciendo aqu胤?
 
 [msg MSG_005 [Theodore]]
-About that... I came here because I have[n]a request.
+Sobre eso... He venido aqu胤 porque ten胤a una solicitud.
 
 [sel SEL_006 top]
-A request?
-Something wrong?
+夷Una solicitud?
+夷Ocurre algo?
 
 [msg MSG_007 [Theodore]]
-Well, if you're able...
-There's something I'd like to get my[n]hands on.
-They call it a "Futuristic Gizmo"!
+Bueno, si sois capaces...
+Hay algo que me gustar胤a tener en mis manos.
+斡Lo llaman "Gizmo Futurista"!
 
 [msg MSG_008 [Naoto]]
-Futuristic Gizmo...?
+夷Gizmo Futurista...?
 
 [msg MSG_009 [Theodore]]
-Yes. The "Junessic Land" film you[n]journeyed through...
-Apparently, it is home to a multitude of[n]next-generation technology.
+S胤. La pel胤cula de "Junessic Land" que explorasteis...
+Aparentemente, es hogar de una gran multitud de tecnolog胤a de nueva generaci吋n.
 
 [msg MSG_010 [Makoto]]
-Now that you mention it, that film does[n]take place in the future.
-The people there were able to revive[n]dinosaurs with their technology.
+Ahora que lo mencionas, esa pel胤cula ocurre en el futuro.
+La gente all胤 pod胤a revivir dinosaurios con su tecnolog胤a.
 
 [msg MSG_011 [Junpei]]
-But if we're talking about the future,[n]wouldn't "A.I.G.I.S." be better?
-There's way more tech there, y'know?
+Pero, si estamos hablando sobre el futuro, 夷no ser胤a mejor "A.I.G.I.S."?
+All胤 hay mucha m茨s tecnolog胤a, 夷sabes?
 
 [msg MSG_012 [Naoto]]
-Hmm, about that...
+Hmm, sobre eso...
 
 [msg MSG_013 [Fuuka]]
-The technology used in "Junessic Land"[n]is a little different from the[n]technology we saw in "A.I.G.I.S."
-That which is found in "A.I.G.I.S." was[n]derived from fictional physics...
+La tecnolog胤a usada en "Junessic Land" es un poco diferente a la tecnolog胤a que vimos en "A.I.G.I.S."
+Lo que se encuentra en "A.I.G.I.S." se deriv吋 de la f胤sica ficticia...
 
 [msg MSG_014 [Naoto]]
-Yes, that's exactly it!
-And the technology found in "Junessic[n]Land" was derived from real-world[n]physics.
-Therefore, even if both films contain the same[n]type of device, they may be made from[n]completely different materials.
+S胤, 斡es eso exactamente!
+Y la tecnolog胤a encontrada en "Junessic Land" se deriv吋 de la f胤sica del mundo real.
+Por lo tanto, aunque ambas pel胤culas contengan el mismo tipo de dispositivos, pueden estar fabricadas con materiales totalmente distintos.
 
 [msg MSG_015 [Ryuji]]
-R-Right... So, uh... physics?
+B-Bien... Entonces... 夷F胤sica?
 
 [msg MSG_016 [Futaba]]
-Hmm... They're tuning out the normies so[n]they can speak geek with each other.
+Hmm... Est茨n dejando fuera a los normies para que los frikis puedan hablar entre s胤.
 
 [msg MSG_017 [Theodore]]
-Ah, you two know quite a lot.
+Ah, vosotras dos sab姻is un mont吋n.
 
 [msg MSG_018 [Naoto]]
--san, is it all right with you if we[n]search for this "Futuristic Gizmo"?
+L胤der, 夷te parece bien que busquemos ese "Gizmo Futurista"?
 
 [sel SEL_019 top]
 Okay.
-Fine by me.
+Me parece bien.
 
 [msg MSG_020 [Theodore]]
-Much appreciated, [f 6 1 30 0 0 0].
-And if we consider it a special[n]screening, I'll be able to present you[n]with a reward.
-With that, Sister, would you please[n]create a...
+Muy agradecido, [f 6 1 30 0 0 0].
+Y si lo consideramos una proyecci吋n especial, os podr姻 regalar una recompensa.
+Con eso, Hermana, podr胤as crear una...
 
 [msg MSG_021 [Elizabeth]]
 ......
 
 [msg MSG_022 [Theodore]]
-...Sister?
+... 夷Hermana?
 
 [msg MSG_023 [Elizabeth]]
-Wh-Where did this mysterious, costumed[n]rogue come from...!?
+斡夷D-De d吋nde ha salido este misterioso granuja disfrazado?!
 
 [msg MSG_024 [Theodore]]
-*sigh*
+*suspiro*
 
 [msg MSG_025]
-A new special screening: "Long-lost[n]Tech" has been added to the box office.
+Una nueva proyecci吋n especial: "Long-lost Tech" ha sido a隠adida a la taquilla.
 

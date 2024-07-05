@@ -1,29 +1,29 @@
 [msg MSG_000 [Morgana]]
-Whew, that's a relief. It's nice to know[n]we're off the menu now.
+Uf, qu姻 alivio. Es bueno saber que ahora estamos fuera del men雨.
 
 [msg MSG_001 [Akechi]]
-Excellent. I believe my work here is[n]done.
+Excelente. Creo que mi trabajo aqu胤 est茨 hecho.
 
 [msg MSG_002 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_003 [Ken]]
-He's asking if you're all right, Crow.
+Est茨 preguntando si est茨s bien, Crow.
 
 [msg MSG_004 [Akechi]]
-Haha, you were worried about me? You're[n]pretty sharp, you know that?
+Ja, ja, 夷estabas preocupado por m胤? Eres muy listo, 夷lo sab胤as?
 
 [msg MSG_005 [Ken]]
 ......
 
 [sel SEL_006 top]
-What's wrong?
-You all right?
+夷Qu姻 ocurre?
+夷Est茨is bien?
 
 [msg MSG_007 [Ken]]
-Oh, uh, it's nothing.
-I was just thinking what a great job[n]those two did.
+Oh, no es nada.
+Solo estaba pensando en el gran trabajo que han hecho estos dos.
 
 [msg MSG_008 [Akechi]]
-All right then, all that's left is to[n]report our success. Shall we get going?
+Muy bien, entonces lo 雨nico que queda es reportar nuestro 姻xito. 夷Nos vamos yendo?
 
