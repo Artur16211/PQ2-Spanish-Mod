@@ -1,39 +1,39 @@
 [msg MSG_000 [Chie]]
-...Huh?
+... 夷Eh?
 
 [msg MSG_001 [Yukari]]
-Wait, are you saying...
+Espera, est茨n diciendo...
 
 [msg MSG_002 [Yusuke]]
-Yes, that was me. I was nearly starving[n]to death at the time.
+S胤, era yo. Casi me muero de hambre en ese momento.
 
 [msg MSG_003 [Chie]]
-You told this story for a gag!?
+斡夷Han contado esta historia como un chiste?!
 
 [msg MSG_004 [Junpei]]
-Wait, Yukki! You did the reveal too[n]early!
+斡Espera, Yukki! 斡Lo has revelado demasiado pronto!
 
 [msg MSG_005 [Yukiko]]
-Huh? I did? I was just doing what you[n]told me...
+夷Eh? 夷Lo he hecho? Solo estaba haciendo lo que me dec胤as...
 
 [msg MSG_006 [Junpei]]
-The idea is to draw it out as long as[n]possible and put everyone on the edge of[n]their seats...
+La idea es alargarlo todo lo posible y poner a todos en vilo...
 
 [msg MSG_007 [Yukari]]
-You roped Yukiko-chan into this too...?[n]You've got some nerve, Stupei.
-This has been a long time coming. Any[n]last words?
+夷Has metido a Yukiko en todo esto...? Tienes agallas, Tontei.
+Esto ha tardado mucho en llegar. 夷Algunas 雨ltimas palabras?
 
 [msg MSG_008 [Junpei]]
-Wait, time out! Let's not do anything[n]crazy, Yuka-tan!
-I only did it to help Yukiko-chan master[n]the "Believe It, or Don't" thing...
+斡Espera, tiempo fuera! 斡No hagamos locuras, Yuka!
+Solo lo hice para ayudar a Yukiko a dominar lo de "Cr姻elo o No"
 
 [msg MSG_009 [Makoto]]
-...Any more nonsense, and you'll have to[n]answer to the iron fist of justice.
+... Una tonter胤a m茨s y tendr茨s que responder ante el pu隠o de hierro de la justicia.
 
 [msg MSG_010 [Junpei]]
-Eek...! I'm sorry! I got carried away![n]Please, anything but the spikes!
+斡Eek...! 斡Lo siento! 斡Me dej姻 llevar! 斡Por favor, cualquier cosa menos los pinchos!
 
 [msg MSG_011 [Futaba]]
-Hehehe. Queen's fists are scarier than[n]any ghost story. You better watch out.
-Welp, our investigation is over. I think[n]it's time we head back.
+Je, je, je. Los pu隠os de Queen dan m茨s miedo que cualquier historia de fantasmas.  Ser茨 mejor que tengas cuidado.
+Bueno, nuestra investigaci吋n ha acabado. Creo que es hora de que volv茨is.
 

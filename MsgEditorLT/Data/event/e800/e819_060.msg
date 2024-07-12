@@ -1,12 +1,12 @@
 [msg MSG_000 [Morgana]]
-All riiight, the fight's over! That's[n]back-to-back wins for us!
+斡Muy bien, ya hemos acabado! 斡Son dos victorias consecutivas!
 
 [msg MSG_001 [Futaba]]
-Heheheh. Nothing like a little action[n]before swooping in for the win! Talk[n]about a happy ending.
+Je, je, je. 斡No hay nada como un poco de acci吋n antes de conseguir la victoria! Un final feliz.
 
 [msg MSG_002 [Junpei]]
-Man, we rock! All that's left is to roll[n]some emotional end credits and make our[n]triumphant return!
+斡T胤o, somos lo m茨s! 斡Solo nos queda rodar unos emotivos cr姻ditos finales y hacer nuestro regreso triunfal!
 
 [msg MSG_003 [Ann]]
-I wonder if the twins were watching?[n]Hopefully, they enjoyed the show.
+Me pregunto si las gemelas nos estar茨n viendo. Espero que hayan disfrutado el show.
 

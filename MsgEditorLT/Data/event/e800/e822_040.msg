@@ -1,42 +1,42 @@
 [msg MSG_000 [Ann]]
-Another Shadow down! Just one more to[n]go!
+斡Otra sombra menos! 斡Ya solo queda una!
 
 [msg MSG_001 [Ryuji]]
-Heh, this is nothin' compared to[n]stealin' Treasure!
+Je, 斡esto no es nada comparado con robar un Tesoro!
 
 [msg MSG_002 [Ken]]
-Oh, so what happens to a person once you[n]steal their Treasure?
+Oh, 夷y qu姻 le ocurre a una persona cuando le rob茨is su Tesoro?
 
 [sel SEL_003 top]
-They have a change of heart.
-They turn themselves in.
-They burst into tears.
+Tienen un despertar de coraz吋n.
+Se entregan a ellos mismos.
+Se echan a llorar.
 
 [msg MSG_004 [Ann]]
-That only happens because they feel[n]guilty for what they've done.
+Eso solo ocurre porque se sienten culpables por lo que han hecho.
 
 [msg MSG_005 [Morgana]]
-It's because their warped desires[n]disappear along with their Palace.
-Their conscience gives way to their[n]guilt, so they end up confessing[n]everything.
+Es porque sus retorcidos deseos desaparecen junto con su Palacio.
+Su conciencia cede ante su culpabilidad, por lo que acaban confes茨ndolo todo.
 
 [msg MSG_006 [Ken]]
-So that's a change of heart... It's[n]pretty scary when you think about it.
+As胤 que eso es un despertar de coraz吋n... Es bastante aterrador cuando lo piensas.
 
 [msg MSG_007 [Ryuji]]
-That's why we all agree on our target[n]before making a move. We don't wanna[n]misuse that power.
+Por eso todos acordamos nuestro objetivo antes de hacer ir a por 姻l. No queremos abusar de ese poder.
 
 [msg MSG_008 [Ken]]
-Misuse...
+Abusar...
 
 [msg MSG_009 [Ann]]
-...Ken-kun?
+... 夷Ken?
 
 [msg MSG_010 [Ken]]
-Oh, sorry. I'm just learning a lot, is[n]all.
+Oh, perd吋n. Estoy aprendiendo mucho, eso es todo.
 
 [msg MSG_011 [Morgana]]
-We'll continue the lesson later. Let's[n]get going for now.
+Continuemos con la lecci吋n m茨s tarde. V茨monos por ahora.
 
 [msg MSG_012 [Ken]]
-R-Right!
+斡C-Cierto!
 

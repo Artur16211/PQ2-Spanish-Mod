@@ -1,78 +1,78 @@
 [msg MSG_000 [Elizabeth]]
-Perhaps this one was a bit too easy for[n]you. You made excellent time.
-The purpose of this screening was to see[n]how strong you've all become. A very[n]pleasant film indeed.
-Here is your reward. I look forward to[n]the next showing.
+Quiz茨s este fuera demasiado f茨cil para vosotros. Han hecho un tiempo excelente.
+El prop吋sito de esta proyecci吋n era ver cu茨n fuertes se han hecho. Una pel胤cula muy agradable.
+Aqu胤 tienen su recompensa. Espero con impaciencia la pr吋xima actuaci吋n.
 
 [msg MSG_001 [Aigis]]
-I was able to gather some data as well.[n]Thank you, everyone, for your[n]cooperation.
+Tambi姻n he podido recopilar algunos datos. Gracias a todos por su colaboraci吋n.
 
 [msg MSG_002 [Yosuke]]
-Haha, of course. We're all here to help.
+Ja, ja, por supuesto. Estamos aqu胤 para ayudar.
 
 [msg MSG_003 [P3 Hero]]
-Thank you―that's reassuring. It almost[n]makes being separated from the group[n]feel like some kind of dream.
+Gracias, eso me tranquiliza. Separarse del grupo se siente casi como un tipo de sue隠o.
 
 [msg MSG_004 [Junpei]]
-Speaking of which, what were you two[n]doing all that time, [f 6 1 16 0 0]?
+Hablando de eso, 夷qu姻 han estado haciendo todo este tiempo, [f 6 1 16 0 0]?
 
 [msg MSG_005 [P3 Hero]]
-Well... I wasn't sure what to do once I[n]realized I'd dropped the Evoker.
-We tried our best to get away, but we[n]ended up cornering ourselves.
+Bueno... No sab胤a qu姻 hacer una vez que me di cuenta de que hab胤a perdido el Evocador.
+Hicimos todo lo posible por alejarnos, pero acabamos arrincon茨ndonos.
 
 [sel SEL_006 top]
-We're glad you're okay.
-That must've been tough.
+Nos alegramos de que est姻n bien.
+Ha debido de ser duro.
 
 [msg MSG_007 [P3 Hero]]
-Thanks, it was a close call. You really[n]saved us back there.
+Gracias, estuvo cerca. Realmente nos salvaron all胤.
 
 [msg MSG_008 [Mitsuru]]
-True, but the two of you were able to[n]hold your own. I'd expect nothing less.
-Of course, we'll be counting on you as[n]well, Aigis, provided you're willing to[n]help.
+Cierto, pero ustedes dos pudieron aguantar. No esperaba menos.
+Por supuesto, tambi姻n contamos contigo, Aigis, siempre que est姻s dispuesta a ayudar.
 
 [msg MSG_009 [Aigis]]
-Certainly! I will do my very best to[n]provide support!
+斡Por supuesto! 斡Har姻 todo lo que pueda para ayudarles!
 
 [msg MSG_010 [Naoto]]
-Come to think of it... the Kirijo Group[n]were the ones who created Aigis-san,[n]yes?
+Ahora que lo pienso... el Grupo Kirijo fue quien cre吋 a Aigis, 夷no?
 
 [msg MSG_011 [Mitsuru]]
-...I suppose that would be correct.
+... Supongo que eso es correcto.
 
 [msg MSG_012 [Naoto]]
-Her technology's beyond anything I could[n]possibly imagine... She looks almost[n]human.
-She can even use Personas. Exactly what[n]sorts of experiments did they[n]perform...?
+Su tecnolog胤a est茨 m茨s all茨 de cualquier cosa que pudiera imaginar... Parece casi humana.
+Incluso ella puede usar Personas. Exactamente, 夷qu姻 tipos de experimentos realizaron...?
 
 [msg MSG_013 [Mitsuru]]
-It'll take some time to explain, but...
+Me llevar茨 alg雨n tiempo explicarlo, pero...
 
 [msg MSG_014 [Aigis]]
 ......
 
 [msg MSG_015 [Naoto]]
-......?
+夷......?
 
 [msg MSG_016 [Futaba]]
-Hehehe, don't sweat the small stuff![n]Robot girls are super moe! Totally[n]legit!
+Je, je, je, 斡no te preocupes por eso! 斡Las chicas robot son superlindas!
 
 [msg MSG_017 [Aigis]]
-Moe...? Legit...?
-I'm afraid these terms are not in my[n]database. What do they mean?
+夷Lindas...?
+Me temo que ese t姻rmino no se encuentra en mi base de datos. 夷Qu姻 significa?
 
 [msg MSG_018 [P3 Hero]]
-Hahah. I think she means you're amazing,[n]Aigis.
-Either way, I owe you one. Thanks for[n]helping Aigis.
+Ja, ja, ja. Creo que quiere decir que eres alucinante, Aigis.
+De cualquier manera, te debo una. Gracias por ayudar a Aigis.
 
 [sel SEL_019 top]
-No problem.
-We're a team, right?
+Sin problema.
+Somos un equipo, 夷verdad?
 
 [msg MSG_020 [P3 Hero]]
-Haha, spoken like a true leader. I could[n]learn a lot from you.
+Ja, ja, has hablado como un verdadero l胤der. Podr胤a aprender mucho de ti.
 
 [msg MSG_021 [Aigis]]
-I too will do my best to become more[n]"moe" and "legit"!
+Yo tambi姻n har姻 todo lo posible por ser m茨s "linda".
 
 [msg MSG_022 [P3 Hero]]
-I'm looking forward to us working[n]together.
+Estoy deseando que trabajemos juntos.
 

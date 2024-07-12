@@ -1,23 +1,23 @@
 [msg MSG_000 [Elizabeth]]
-Welcome back, everyone.
-It appears you had a successful hunt.[n]Congratulations.
-This is the reward for this time. Please[n]accept it.
+Bienvenidos de vuelta.
+Parece que han tenido una cacer胤a exitosa. Enhorabuena.
+Esta es la recompensa en esta ocasi吋n. Por favor, ac姻ptala.
 
 [msg MSG_001 [Mitsuru]]
-Thanks for your help,.
-I'm sure the versions of us in your[n]world can rest easy knowing you're in[n]charge.
+Gracias por tu ayuda, [f 6 1 26 0 0 0].
+Estoy segura de que nuestras versiones en tu mundo pueden estar tranquilas sabiendo que est茨s al mando.
 
 [msg MSG_002 [P3 Fem Protag]]
-Hehe... I hope so.
-It helps when everyone here is just as[n]supportive!
+Je, je... Eso espero.
+斡Es de gran ayuda que todo el mundo me apoye!
 
 [msg MSG_003 [Akihiko]]
-All I can really do is train and keep[n]fighting... Still, I'll do my best to[n]help out.
-And, Shinji, I won't force you, but if[n]you're ever interested in training, just[n]let me know, and I'll make us a routine!
+Todo lo que puedo hacer es entrenar y seguir luchando... Aun as胤, har姻 lo que pueda para ayudar.
+Y, Shinji, no te fuerces, pero si est茨s interesado en entrenar, 斡simplemente d胤melo y nos preparar姻 una rutina!
 
 [msg MSG_004 [Shinjiro]]
-Yeah, yeah. When the time comes.
+S胤, s胤. Cuando llegue el momento.
 
 [msg MSG_005 [P3 Fem Protag]]
-*giggle* We're counting on you guys!
+*risita* 斡Contamos con vosotros, chicos!
 

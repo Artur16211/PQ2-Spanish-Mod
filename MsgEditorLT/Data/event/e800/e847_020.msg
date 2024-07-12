@@ -1,9 +1,9 @@
 [msg MSG_000 [Futaba]]
-My readings are going crazy! Be[n]careful... That's our target, without a[n]doubt!
+斡Mis lecturas se est茨n volviendo locas! Tened cuidado... 斡Es nuestro objetivo, sin ninguna duda!
 
 [msg MSG_001 [Morgana]]
-I see... So it's got some fight after[n]all.
+Ya veo... As胤 que despu姻s de todo nos toca luchar.
 
 [msg MSG_001_1 [Morgana]]
-Let's go, Joker! Show it what you're[n]made of!
+斡Vamos, Joker! 斡Demu姻strales de lo que est茨s hecho!
 

@@ -1,15 +1,15 @@
 [msg MSG_000 [Aigis]]
-Target eliminated. Well done, everyone!
+Objetivo eliminado. 斡Bien hecho!
 
 [msg MSG_001 [Ryuji]]
-Heheh, that was nothin'! It was[n]basically a bonus stage.
+Je, je, je, 斡eso no ha sido nada! Era b茨sicamente un nivel de bonus.
 
 [msg MSG_002 [Futaba]]
-Well, we do have Ms. Robot here![n]Everyone knows the best mechs got the[n]white, red, and yellow thing goin' on!
+Bueno, 斡aqu胤 tenemos a la Srta. Robot! 斡Todo el mundo sabe que los mejores mecas son blancos, rojos y amarillos!
 
 [msg MSG_003 [Aigis]]
-Is that how things work in your world,[n]Oracle? I comprehend.
+夷Es as胤 como funcionan las cosas en tu mundo, Oracle? Entiendo.
 
 [msg MSG_004 [P3 Hero]]
-Good job, everyone. Let's head back and[n]report.
+Buen trabajo. Volvamos e inform姻moslo.
 

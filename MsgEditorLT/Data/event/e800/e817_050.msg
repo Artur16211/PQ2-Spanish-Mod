@@ -1,181 +1,181 @@
 [msg MSG_000 [Morgana]]
-This is the last one.
+Esta es la 雨ltima.
 
 [msg MSG_001 [Ryuji]]
-All right, let's see what we can find[n]out!
+Muy bien, 斡veamos lo que podemos encontrar!
 
 [msg MSG_002 [Junpei]]
-*sigh* I didn't learn anything...
+*suspiro* No he aprendido nada...
 
 [msg MSG_002_1 [Junpei]]
-Lemme just take a quick break...
+Dejadme  tomar un peque隠o descanso...
 
 [sel SEL_003 top]
-Quit slacking off!
-Junpei!
+斡Deja de holgazanear!
+斡Junpei!
 
 [msg MSG_004 [Junpei]]
-Wha―!? Y-You've got it all wrong! I[n]wasn't slacking or nothin'...
+斡夷Qu姻?! 斡Lo hab姻is entendido mal! No estaba vagueando ni nada...
 
 [msg MSG_004_1 [Junpei]]
-Oh, it's just you, Joker. Don't scare me[n]like that, man, I thought you were[n]Mitsuru-senpai.
+Oh, solo eres t雨, Joker. No me asustes as胤, t胤o, que pensaba que eras Mitsuru.
 
 [msg MSG_005 [Mitsuru]]
-Oh...? Is there a problem with me being[n]here?
+夷Oh? 夷Hay alg雨n problema porque yo est姻 aqu胤?
 
 [msg MSG_006 [Junpei]]
-Ack!?
+斡夷Qu姻?!
 
 [msg MSG_006_1 [Junpei]]
-N-Not at all! Y'know, I think I missed a[n]few people, so I'm gonna do a little[n]more askin' around...
+斡E-En absoluto! Sabes, creo que se me ha olvidado preguntar a algunas personas, as胤 que voy a preguntar un poco m茨s...
 
 [msg MSG_007 [Mitsuru]]
 Hmph...
 
 [msg MSG_008 [Makoto]]
-Well, he's on his feet again, so I guess[n]it worked out.
+Bueno, est茨 otra vez en pie, as胤 que creo que ha funcionado.
 
 [msg MSG_009 [Mitsuru]]
-I'm sorry you had to see yet another[n]shameful display of leadership.
+Siento que hayas tenido que ver otra vergonzosa exhibici吋n de liderazgo.
 
 [msg MSG_009_1 [Mitsuru]]
-It was a lack of communication on my[n]part. Seeing you only makes that more[n]clear.
+Ha sido una falta de comunicaci吋n por mi parte. Verte a ti solo lo deja m茨s claro.
 
 [msg MSG_010 [Makoto]]
-Me?
+夷A mi?
 
 [msg MSG_011 [Mitsuru]]
-You're a student council president and[n]an elder among your peers...
+Eres presidente del consejo estudiantil y tambi姻n mayor entre tus compa隠eros...
 
 [msg MSG_011_1 [Mitsuru]]
-And, unlike me, you've built a proper[n]foundation of trust with the younger[n]members of your group.
+Y, a diferencia de m胤, has construido una base adecuada de confianza con los miembros m茨s j吋venes de tu grupo.
 
 [sel SEL_012 top]
-Now she has...
-She was pretty scary at first.
-She really loosened up.
+Ahora ella tiene...
+Al principio daba bastante miedo.
+Ella realmente se ha aflojado.
 
 [msg MSG_013 [Mitsuru]]
-...It wasn't always like this?
+... 夷No ha sido siempre as胤?
 
 [msg MSG_014 [Makoto]]
-Well, no. For a long time, I felt[n]separated from everyone else just like[n]you do now.
+Pues no. Durante mucho tiempo, me sent胤a separada de los dem茨s, igual que t雨 ahora.
 
 [msg MSG_014_1 [Makoto]]
-But since meeting everyone, I think I've[n]changed somewhat...
+Pero desde que conoc胤 a todos, creo que he cambiado algo...
 
 [msg MSG_014_2 [Makoto]]
-If anything, I'm envious of you,[n]Kirijo-san.
+En todo caso, te envidio, Kirijo.
 
 [msg MSG_015 [Mitsuru]]
-Envious? Of me?
+夷Envidiarme? 夷A mi?
 
 [msg MSG_016 [Makoto]]
-In my case, I wouldn't say I was good at[n]making friends or anything. I think I[n]just didn't have a sense of seniority.
+En mi caso, no dir胤a que se me daba bien hacer amigos ni nada por el estilo. Creo que simplemente no ten胤a experiencia.
 
 [msg MSG_016_1 [Makoto]]
-Truthfully, I sort of respect that[n]commanding presence of yours...
+Sinceramente, respeto un poco tu impotente presencia...
 
 [msg MSG_017 [Mitsuru]]
-...So that's how you see it?
-Hah, it seems we both have our[n]weaknesses.
+... 夷As胤 que as胤 es c吋mo lo ves?
+Ja, parece que ambas tenemos nuestras debilidades.
 
 [msg MSG_018 [Yukari]]
-Oh, Mitsuru-senpai!
+Oh, 斡Mitsuru!
 
 [msg MSG_019 [Mitsuru]]
-How are things? Any useful information?
+夷C吋mo van las cosas? 夷Alguna informaci吋n 雨til?
 
 [msg MSG_020 [Yukari]]
-Same story―someone was jumped by[n]multiple attackers and had their[n]valuables stolen.
+La misma historia, varios asaltantes atacaron a alguien y le robaron sus objetos de valor.
 
 [msg MSG_021 [Junpei]]
-These guys are pretty pathetic to only[n]target young ladies.
+Esos t胤os son muy pat姻ticos atacando solo a mujeres j吋venes.
 
 [msg MSG_022 [Mitsuru]]
-All of the victims are women?
+夷Todas las v胤ctimas son mujeres?
 
 [msg MSG_023 [Junpei]]
-It was a girl about the same age as us,[n]just like the last place.
+Era una chicha m茨s o menos de nuestra misma edad, igual que en el 雨ltimo sitio.
 
 [msg MSG_024 [Makoto]]
-Just like last place, you say... What[n]about the first victim?
+Igual que en el primer sitio, dices... 夷Qu姻 hay de la primera v胤ctima?
 
 [msg MSG_025 [Ryuji]]
-Oh, you know, I think I did hear[n]somethin' about it being a young girl...
+Oh, sabes, creo que he o胤do algo de que era una chica joven.
 
 [msg MSG_026 [Yusuke]]
-Yes, it likely raises their chances of[n]success when compared with targeting[n]muscular men.
+S胤, eso seguramente aumente sus posibilidades de 姻xito, en comparaci吋n con dirigirse a hombres musculosos.
 
 [msg MSG_026_1 [Yusuke]]
-Regardless, these thieves are the scum[n]of the earth.
+En cualquier caso, esos ladrones son escoria.
 
 [msg MSG_027 [Makoto]]
-Agreed. But knowing their usual target[n]may be useful to us...
+Totalmente de acuerdo. Pero, conocer su objetivo com雨n quiz茨s nos sea 雨til...
 
 [sel SEL_028 top]
-Useful?
-We can bait them.
+夷郁til?
+Podemos enga隠arles.
 
 [msg MSG_029 [Makoto]]
-If we know they only target girls, then[n]we can set a trap for them.
+Si sabemos que solo se dirigen a chicas, entonces podremos tenderles una trampa.
 
 [msg MSG_030 [Morgana]]
-I see. We're going to lure them in.
+Ya veo. 
 
 [msg MSG_031 [Makoto]]
-Right. If we know they only target[n]girls, then we can set a trap for them.
+Cierto. Si sabemos que solo se dirigen a chicas, entonces podremos tenderles una trampa.
 
 [msg MSG_032 [Ken]]
-But won't it be dangerous for whoever[n]plays the bait?
+夷Pero no ser茨 peligroso para quien haga de cebo?
 
 [msg MSG_033 [Makoto]]
-I think I'd be able to defend myself,[n]but with my appearance...
+Yo creo que ser胤a capaz de defenderme, pero con mi apariencia...
 
 [msg MSG_034 [Yukari]]
-Ahaha... Yeah, I doubt they'd wanna[n]target a phantom thief...
+Jajaja... S胤, dudo que quieran atacar a un ladr吋n fantasma...
 
 [msg MSG_034_1 [Yukari]]
-Should I go?
+夷Deber胤a ir?
 
 [msg MSG_035 [Mitsuru]]
-No, I'll do it. As an elder of the[n]group, it's my job to take the risk.
+No, yo lo har姻. Como soy la mayor del grupo, es mi responsabilidad correr el riesgo.
 
 [sel SEL_036 top]
-Please do.
-Don't let your guard down.
-Want me to cross-dress?
+Por favor, hazlo.
+No bajes la guardia.
+夷Quieres que me vista de chica?
 
 [msg MSG_037 [Makoto]]
-Yeah, we'll be ready to jump in at[n]anytime, so you won't have to worry.
+S胤, estaremos listos para intervenir en cualquier momento, as胤 que no tienes que preocuparte.
 
 [msg MSG_038 [Mitsuru]]
-I know. That was my intention from the[n]start.
+Ya lo s姻. Esa era mi intenci吋n desde el principio.
 
 [msg MSG_039 [Ryuji]]
-Don't think that's gonna work, dude...
+No creer茨s que eso vaya a funcionar, bro...
 
 [msg MSG_040 [Mitsuru]]
-I appreciate your concern, but I'll be[n]fine.
+Aprecio que te preocupes, pero estar姻 bien.
 
 [msg MSG_041 [Mitsuru]]
-Yamagishi!
+斡Yamagishi!
 
 [msg MSG_042 [Fuuka]]
-Y-Yes, ma'am!
+斡S-S胤, se隠ora!
 
 [msg MSG_043 [Mitsuru]]
-Can you find us a good location to lure[n]in the thieves?
+夷Puedes encontrarnos un buen lugar para atraer a los ladrones?
 
 [msg MSG_044 [Fuuka]]
-Let me see... How about the back alley[n]near the center of the map?
+D姻jame ver... 夷Qu姻 tal el callej吋n cerca del centro del mapa?
 
 [msg MSG_044_1 [Fuuka]]
-Mitsuru-senpai will wait there on[n]standby. The rest of you will cover the[n]exits and attack them from both sides.
+Mitsuru estar茨 all胤 a la espera. El resto cubrir茨n las salidas y les atacar茨n desde ambos lados.
 
 [msg MSG_045 [Mitsuru]]
-Thank you. I'll mark the location on the[n]map.
+Gracias. Marcar姻 la localizaci吋n en el mapa
 
 [msg MSG_046 [Makoto]]
-We can't let them get away with any more[n]thefts. Let's make our way to the alley.
+No podemos dejar que sigan con m茨s robos. Dirij茨monos al callej吋n.
 

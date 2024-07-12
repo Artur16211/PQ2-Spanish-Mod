@@ -1,34 +1,34 @@
 [msg MSG_000 [Elizabeth]]
-The goal of this special screening is[n]to...
-"Gather the ingredients!" It must be one[n]of those so-called gourmet films.
+El objetivo de esta proyecci吋n especial es...
+"斡Reunir los ingredientes!" Debe de ser una de esas llamadas pel胤culas gourmet.
 
 [msg MSG_001 [Yusuke]]
-Yes...!
+斡S胤...!
 
 [msg MSG_002 [Elizabeth]]
-This one will be set in "Junessic Land."
-Ah, so you're finally giving in to your[n]carnal desire to feast upon one of those[n]dinosaurs? By all means, please do.
+Esta tendr茨 lugar en "Junessic Land"
+Ah, 夷as胤 que por fin vas a ceder a tu deseo carnal de darte un fest胤n con uno de esos dinosaurios? Por supuesto, hazlo.
 
 [msg MSG_003 [Ryuji]]
-Hell no! We ain't doin' that, no matter[n]how hungry we are!
+斡Diablos, no! 斡No vamos a hacer eso, no importa el hambre que tengamos!
 
 [msg MSG_004 [Akihiko]]
-Hmph. I couldn't've asked for a better[n]screening.
-Shinji, you better keep your promise.[n]Once we get those ingredients, I want[n]you to make us the best dish you can.
+Hmph. No podr胤a haber pedido una proyecci吋n mejor.
+Shinji, ser茨 mejor que cumplas tu promesa. Una vez que tengamos esos ingredientes, quiero que nos hagas el mejor plato que puedas.
 
 [msg MSG_005 [P3 Fem Protag]]
-Huh? We'll get to eat Shinjiro-senpai's[n]cooking!? Hooray! That means we HAVE to[n]do our very best!
+夷Eh? 斡夷Vamos a comer la comida de Shinjiro?! 斡Hurra! 斡Eso significa que TENEMOS que hacerlo lo mejor posible!
 
 [msg MSG_006 [Morgana]]
-Oho, Shinjiro's cooking, huh? Can't say[n]I'm not intrigued.
+Ostras, la comida de Shinjiro. No puedo decir que no estoy intrigado.
 
 [msg MSG_007 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_008 [Shinjiro]]
-The hell... I don't remember promisin'[n]anything...
+Diablos... No recuerdo haber prometido nada...
 
 [msg MSG_009 [Yusuke]]
-All right, let's go!
-We must hurry, [f 6 1 30 0 0 0]! I can hear[n]nature's bounty calling my name!
+斡Muy bien, vamos!
+斡Debemos darnos prisa, [f 6 1 30 0 0 0]! 斡Puedo o胤r a la naturaleza llam茨ndome!
 

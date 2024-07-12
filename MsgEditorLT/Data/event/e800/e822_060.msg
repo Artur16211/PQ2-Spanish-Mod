@@ -1,36 +1,36 @@
 [msg MSG_000 [Futaba]]
-Mission accomplished. Come on back,[n]everyone.
+Misi吋n completada. Volved todos.
 
 [msg MSG_001 [Ryuji]]
-All right! Let's roll, Ken.
+斡Muy bien! Vamos a rodar, Ken.
 
 [msg MSG_002 [Ken]]
-Um, would it be all right if I asked one[n]more thing?
+Um, 夷pasar胤a algo si os pido una cosa m茨s?
 
 [msg MSG_003 [Morgana]]
-Hm? What is it?
+夷Hm? 夷Qu姻 es?
 
 [msg MSG_004 [Ken]]
-Can you change anyone's heart, no matter[n]who they are?
+夷Pueden despertar el coraz吋n de cualquiera, sin importar quien sea?
 
 [sel SEL_005 top]
-If they're evil...
-If they're on the navigator.
+Si son malvados...
+Si est茨n en el navegador.
 
 [msg MSG_006 [Morgana]]
-Yeah. If there's evil in someone's[n]heart, we should be able to find them on[n]the Metaverse Navigator.
-Why do you ask?
+S胤. Si hay maldad en el coraz吋n de alguien, deber胤amos de poder encontrarlo en el Meta-Nav.
+夷Por qu姻 lo preguntas?
 
 [msg MSG_007 [Ken]]
-Navigator? You mean Oracle?
+夷Navegador? 夷Te refieres a Oracle?
 
 [msg MSG_008 [Morgana]]
-No, the Metaverse Navigator. It usually[n]only reacts to criminals.
-Why do you ask?
+No, el Navegador del Metaverso. Normalmente solo reacciona ante criminales.
+夷Por qu姻 lo preguntas?
 
 [msg MSG_009 [Ken]]
-Oh, no reason. I was just a little[n]curious.
-Well, we've finished up here, so let's[n]head back!
+Oh, no hay ninguna raz吋n. Solo ten胤a un poco de curiosidad.
+Bueno, hemos terminado aqu胤, 斡as胤 que volvamos!
 
 [msg MSG_010 [Ryuji]]
 ......

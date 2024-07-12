@@ -1,18 +1,18 @@
 [msg MSG_000 [Akihiko]]
-All right. We should be okay for a[n]while.
+Muy bien. Deber胤amos estar bien por un tiempo.
 
 [msg MSG_001 [Yusuke]]
-Hahahaha! Those who delay my meal are[n]beyond forgiveness!
+斡Ja, ja, ja, ja! 斡Aquellos que retrasan mi comida no tienen perd吋n!
 
 [msg MSG_002 [Yukiko]]
-It's amazing what he'll do for food...[n]He almost reminds me of Chie and her[n]love of meat.
+Es incre胤ble lo que hace por comida... Casi me recuerda a Chie y su amor por la carne.
 
 [msg MSG_003 [Chie]]
-I'm not that bad, am I!?
+斡夷Eso no es tan malo, verdad?!
 
 [msg MSG_004 [Yosuke]]
-I don't know 'bout that... I feel like[n]it's pretty much the same.
+No s姻... Creo que es m茨s o menos lo mismo.
 
 [msg MSG_005 [Yusuke]]
-Regardless, we've eliminated the threat.[n]Let's get back to those fish!
+En cualquier caso, hemos eliminado la amenaza. 斡Volvamos a los peces!
 

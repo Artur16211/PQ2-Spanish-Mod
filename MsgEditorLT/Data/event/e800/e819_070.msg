@@ -1,70 +1,70 @@
 [msg MSG_000 [Elizabeth]]
-Welcome back, everyone.
-Even those once-terrifying FOEs were[n]nothing but mere playthings against your[n]current strength.
-I cannot help but be surprised by the[n]rate at which you've grown.
+Bienvenidos de vuelta.
+Incluso esos FOEs que antes eran aterradores no eran m茨s que meros juguetes ante vuestra fuerza actual.
+No puedo dejar de sorprenderme por el ritmo al que han crecido.
 
 [msg MSG_001 [Caroline]]
-Hmph, she's exaggerating. We were[n]falling asleep over here.
+Hmph, est茨 exagerando. Nosotras nos est茨bamos quedando dormidas.
 
 [msg MSG_002 [Justine]]
-You may have won the battle, yes, but[n]your slow pace made for a rather dull[n]viewing.
+Podr茨n haber ganado la batalla, pero su lentitud ha hecho que sea bastante aburrido.
 
 [msg MSG_003 [Elizabeth]]
-Dull, you say...?
-I could've sworn I witnessed you two[n]cheering on [f 6 1 30 0 0 0] and his team the[n]whole way through...
-Do you mean to say it was all some sort[n]of illusion?
+夷Aburrido, dices...?
+Jurar胤a que os he visto animar a [f 6 1 30 0 0 0] y a su equipo durante toda la pel胤cula...
+夷Quer姻is decir que era alg雨n tipo de ilusi吋n?
 
 [msg MSG_004 [Caroline]]
-N-No!
-W-We were just monitoring on the[n]Inmate's rehabilitation progress!
+斡N-No!
+斡S-Solo est茨bamos supervisando el progreso de rehabilitaci吋n del Recluso!
 
 [msg MSG_005 [Justine]]
-Correct. We were simply performing our[n]duties.
+Cierto. Simplemente cumpl胤amos con nuestro deber.
 
 [msg MSG_006 [Yukiko]]
-*giggle* They must be really worried[n]about you, [f 6 1 30 0 0 0]-kun.
+*risita* Deb胤an de estar muy preocupadas por ti, [f 6 1 30 0 0 0].
 
 [msg MSG_007 [Yosuke]]
-Well, you were technically the lead role[n]in that showing. I guess they're kinda[n]like your fans.
+Bueno, t姻cnicamente eras el protagonista. Supongo que son como tus fans.
 
 [sel SEL_008 top]
-Don't fall for me now.
-Want my autograph?
+No os enamor姻is de m胤.
+夷Quer姻is un aut吋grafo?
 
 [msg MSG_009 [Caroline]]
-......!
+斡......!
 
 [msg MSG_010 [Justine]]
-......!
+斡......!
 
 [msg MSG_011 [Caroline]]
-D-Don't be so full of yourself! Show[n]some respect!
+斡N-no seas tan maleducado! 斡Muestra algo de respeto!
 
 [msg MSG_012 [Justine]]
-I-It is merely our job to monitor you at[n]all times.
-We are to know everything about you,[n]Inmate...
+N-Nuestro trabajo es simplemente vigilarle en todo momento.
+Debemos saber todo sobre ti, Recluso...
 
 [msg MSG_013 [Futaba]]
-Mwehehe, textbook excuses. I'm getting[n]embarrassed just watching.
+Je, je, je, excusas de manual. Me estoy avergonzando solo de verlo.
 
 [msg MSG_014 [Caroline]]
-Autograph...? What, you mean signing[n]your name?
-Hmph, humans. Why waste your time with[n]something so stupid...?
-It's pointless...
+夷Aut吋grafo...? 夷Te refieres a firmar con tu nombre?
+Hmph, humanos. 夷Por qu姻 perd姻is vuestro tiempo con algo tan est雨pido...?
+No tiene sentido...
 
 [msg MSG_015 [Justine]]
 ......
-I'll have him sign a corner of my notes[n]later.
+Le har姻 firmar una de mis notas m茨s tarde.
 
 [msg MSG_016 [Caroline]]
-Hey, no fair!
+斡Ey, no es justo!
 
 [msg MSG_017 [Futaba]]
-Mwehehe, well aren't you popular. Treat[n]your fans well, you hear?
+Je, je, je, bueno, no eres popular. Trata bien a tus fans, 夷entiendes?
 
 [msg MSG_018 [Elizabeth]]
-In any case, you've performed quite[n]admirably, Phantom Thieves.
-You've lived up to your viewers' expectations.[n]It would seem that stealing hearts is indeed[n]your specialty.
-Once again, well done.
-I've readied your reward. Please take[n]it.
+En cualquier caso, hab姻is actuado admirablemente, Ladrones Fantasma.
+Han estado a la altura de las expectativas de sus espectadoras. Parece que su especialidad es robar corazones.
+Una vez m茨s, bien hecho.
+He preparado vuestra recompensa. Por favor, t吋menla.
 

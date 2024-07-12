@@ -11,7 +11,7 @@ S胤, los otros dec胤an "GUAY", pero este dice "TONTO".
 "TONTO"...
 
 [msg MSG_004 [Akechi]]
-"GUAY" and "TONTO." Son dos palabras con un significado opuesto.
+"GUAY" y "TONTO." Son dos palabras con un significado opuesto.
 Entonces un graffiti que elogiaba a Kamoshidaman ahora ha cambiado para rechazarlo.
 
 [msg MSG_005 [Yusuke]]

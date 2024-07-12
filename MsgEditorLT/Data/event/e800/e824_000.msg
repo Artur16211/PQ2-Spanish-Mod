@@ -1,62 +1,62 @@
 [msg MSG_000 [Yukiko]]
-Oh, it looks like a dead end. All I see[n]here are those cheery flowers.
+Oh, parece que hemos llegado a un camino sin salida. Todo lo que veo aqu胤 son esas alegres flores.
 
 [msg MSG_001 [Makoto]]
-Cheery? More like creepy... It's[n]definitely animated, though.
-It evokes a different kind of disgust[n]than the other movie...
+夷Alegres? M茨s bien espeluznantes... Sin embargo, es bastante animado.
+Evoca un tipo de asco diferente de la otra pel胤cula...
 
 [sel SEL_002 top]
-Other movie?
-You mean A.I.G.I.S.?
+夷La otra pel胤cula?
+夷Te refieres a A.I.G.I.S.?
 
 [msg MSG_003 [Yukari]]
-I think she means A.I.G.I.S.
+Creo que se refiere a A.I.G.I.S.
 
 [msg MSG_004 [Makoto]]
-Yes, that's the one. I can't believe[n]that research facility sought to erase[n]everyone's individuality.
+S胤, ese mismo. No puedo creer que ese centro de investigaci吋n buscara borrar la individualidad de todos.
 
 [msg MSG_005 [Makoto]]
-Yes, that's the one. I can't believe[n]that research facility sought to erase[n]everyone's individuality.
+S胤, ese mismo. No puedo creer que ese centro de investigaci吋n buscara borrar la individualidad de todos.
 
 [msg MSG_006 [Yukari]]
-Yeah, I think I know what you mean...
-It is kinda off-putting knowing there's[n]nothing but robots living there...
+S胤, entiendo lo que quieres decir...
+Es un poco desagradable saber que no hay m茨s que robots viviendo all胤...
 
 [msg MSG_007 [Yukiko]]
-There could be more than just robots.[n]Maybe there's, you know... Those things[n]that start with a G...
+Podr胤a haber algo m茨s que robots. Tal vez haya, ya sabes... Esas cosas que empiezan por F...
 
 [msg MSG_008 [Makoto]]
-L-Let's not talk about those!
+斡N-no hablemos de eso!
 
 [msg MSG_009 [Junpei]]
-Huh? Not a fan of scary stories, Queen?
-Well, then, Junpei Iori's got just the[n]story for you...
+夷Eh? 夷No te gustan las historias de miedo, Queen?
+Pues bien, Junpei Iori tiene la historia perfecta para ti...
 
 [msg MSG_010 [Yukiko]]
-Ooh, I wanna hear this.
+Oh, quiero escucharla.
 
 [msg MSG_011 [Junpei]]
-Oh? Interested?
-Ahem... Good evening, ladies and[n]gentlemen, and welcome to "Junpei's[n]Believe It, or Don't"...
+夷Oh? 夷Est茨s interesada?
+Ejem... Buenas tardes, damas y caballeros, y bienvenidos a "Junpei, Cr姻elo o No..."
 
 [msg MSG_012 [Yukari]]
-Any more of that, and I'm going to slap[n]you.
+Como sigas con eso, te voy a pegar una bofetada.
 
 [msg MSG_013 [Junpei]]
-Y-Yo, don't gimme that evil stare,[n]Yuka-tan! It's even scarier than the[n]G-word!
+斡No me mires as胤, Yuka! 斡Da incluso m茨s miedo que la palabra con F!
 
 [msg MSG_014 [Makoto]]
-All right, this conversation is over! We[n]need to keep moving!
+斡Muy bien, esta conversaci吋n ha acabado! 斡Tenemos que continuar!
 
 [msg MSG_015 [Junpei]]
-Aww. Well, we can pick this up the next[n]time we're in A.I.G.I.S., or―
+Oh. Bueno, podemos seguir con esto la pr吋xima vez que estemos en A.I.G.I.S., o...
 
 [msg MSG_016 [Yukari]]
-Why don't you just tell it to yourself?[n]Let's go, everyone.
+夷Por qu姻 no te la cuentas a ti mismo? V茨monos.
 
 [msg MSG_017 [Junpei]]
-Wait! Don't just leave me here!
+斡Espera! 斡No me dej姻is aqu胤!
 
 [msg MSG_018]
-A new special screening: "Investigate[n]A.I.G.I.S.!" has been added to the box[n]office.
+Una nueva proyecci吋n especial: "Investigate A.I.G.I.S.!" ha sido a隠adida a la taquilla.
 

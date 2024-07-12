@@ -1,71 +1,71 @@
 [msg MSG_000 [Mitsuru]]
-Here we are.
+Aqu胤 estamos.
 
 [msg MSG_000_1 [Mitsuru]]
-All right, Joker's team will man the[n]west end, and everyone else will cover[n]the north, just like we planned.
+Muy bien, el equipo de Joker se encargar茨 de la salida este, y todos los dem茨s cubrir茨n el norte, justo como hemos planeado.
 
 [msg MSG_000_2 [Mitsuru]]
-As soon as the thieves show up, we[n]surround them and take them out at once.
+En cuanto aparezcan los ladrones, los rodeamos y los eliminamos de inmediato.
 
 [sel SEL_001 top]
-Got it.
-They won't get away.
+Entendido.
+No se saldr茨n con la suya.
 
 [msg MSG_002 [Mitsuru]]
-Then, let's begin. Everyone, to your[n]positions!
+Entonces, empecemos. 斡Todo el mundo a sus posiciones!
 
 [msg MSG_003 [Yukari]]
-I wonder if Mitsuru-senpai'll be okay...
+Me pregunto si Mitsuru estar茨 bien...
 
 [msg MSG_004 [Junpei]]
-It's not like you to be worried about[n]your senpai, Yuka-tan.
+No es propio de ti preocuparte por Kirijo, Yukari.
 
 [msg MSG_005 [Yukari]]
-Well, even she'd be in trouble going up[n]against a large group on her own...
+Bueno, incluso ella tendr胤a problemas para enfrentarse sola a un grupo tan grande.
 
 [msg MSG_006 [Akihiko]]
-That's exactly why she volunteered for[n]such a dangerous role.
+Precisamente por eso se ha ofrecido voluntaria para un papel tan peligroso.
 
 [msg MSG_007 [Shinjiro]]
-Tch, reckless of her...
+Tch, qu姻 imprudente por su parte...
 
 [msg MSG_008 [Akihiko]]
-It just shows how much she trusts us.
+Eso muestra lo mucho que conf胤a en nosotros.
 
 [msg MSG_008_1 [Akihiko]]
-She's willing to place her life in our[n]hands.
+Est茨 dispuesta a poner su vida en nuestras manos.
 
 [msg MSG_009 [Junpei]]
 ......
 
 [msg MSG_010 [Akihiko]]
-They're here! Now, everyone!
+斡All胤 est茨n! 斡Ahora, vamos!
 
 [msg MSG_011 [Junpei]]
-Chaaarge!
+斡A la  carga!
 
 [msg MSG_012 [Yukari]]
-Wha―!? Junpei, wait for us!
+斡夷Qu姻?! 斡Junpei, esp姻ranos!
 
 [msg MSG_013 [Makoto]]
-They're here! Everyone ready!?
+斡Est茨n aqu胤! 斡夷Todo el mundo listo?!
 
 [sel SEL_014 top]
-Let's go!
-Bring 'em down!
+斡Vamos!
+斡Acabemos con ellos!
 
 [msg MSG_015 [Junpei]]
-Hyaaah! Keep your hands off my senpai!
+斡Hyaaah! 斡Quitadle a Kirijo las manos de encima!
 
 [msg MSG_015_1 [Junpei]]
-...Wait, these are the thieves!?
+... Espera, 斡夷esos son los ladrones?!
 
 [msg MSG_016 [Makoto]]
-They're Shadows!?
+斡夷Son sombras?!
 
 [msg MSG_017 [Mitsuru]]
-Yes, it would appear so. Still, that[n]doesn't change anything.
+S胤, eso parece. Aun as胤, eso no cambia nada.
 
 [msg MSG_018 [Futaba]]
-Here they come! Get ready...
+斡Aqu胤 vienen! Preparaos...
 

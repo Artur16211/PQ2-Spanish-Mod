@@ -1,22 +1,22 @@
 [msg MSG_000 [Fuuka]]
-I've confirmed one FOE down! You did it!
+斡He confirmado un FOE menos! 斡Lo hab姻is logrado!
 
 [msg MSG_001 [P4 Hero]]
-All right. So far, so good.
+De acuerdo. Hasta aqu胤 todo bien.
 
 [msg MSG_002 [P4 Hero]]
-What do you think? Can we take on the[n]next one too?
+夷Qu姻 te parece? 夷Podemos encargarnos tambi姻n del otro?
 
 [sel SEL_003 top]
-Of course.
-I'm a little hesitant.
+Por supuesto.
+Estoy un poco indeciso.
 
 [msg MSG_004 [P4 Hero]]
-Yeah, it shouldn't be a problem. Let's[n]ride this momentum.
+S胤, no deber胤a de haber problema. Aprovechemos este impulso.
 
 [msg MSG_005 [P4 Hero]]
-Yeah, we shouldn't underestimate our[n]enemy's strength. Let's stay on our[n]guard as we move forward.
+S胤, no deber胤amos subestimar la fuerza de nuestro enemigo. Manteng茨monos en guardia mientras avanzamos.
 
 [msg MSG_006 [Rise]]
-One down, one to go! Keep it up, guys!
+斡Uno menos, ya solo queda uno! 斡Seguid as胤, chicos!
 

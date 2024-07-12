@@ -1,27 +1,27 @@
 [msg MSG_000 [Akihiko]]
-Two down, two to go. That one wasn't so[n]bad.
+Dos menos, quedan dos. Esa no estuvo tan mal.
 
 [msg MSG_001 [Shinjiro]]
-Yeah, well, it ain't over yet.
+S胤, bueno, a雨n no ha terminado.
 
 [msg MSG_002 [Akihiko]]
-Sorry, Shinji, but this competition is[n]mine. No hard feelings, all right?
+Perd吋n, Shinji, pero esta competici吋n es m胤a. Sin rencores, 夷de acuerdo?
 
 [msg MSG_003 [Shinjiro]]
-Yeah, sure... Dumbass.
+S胤, seguro... Tonto del culo.
 
 [msg MSG_004 [Mitsuru]]
-Stop it, you two! Aren't you[n]embarrassed, acting like that in front[n]of the underclassmen!?
+斡Parad vosotros dos! 斡夷No os da vergüenza actuar de esa forma en frente de personas m茨s j吋venes?!
 
 [msg MSG_005 [Akihiko]]
-Don't worry, Mitsuru. Shinji'll calm[n]down once this is all over.
+No te preocupes, Mitsuru. Shinji se calmar茨 una vez que acabe todo esto.
 
 [msg MSG_006 [Shinjiro]]
-Oh, like I'm gonna lose? You're gonna[n]eat those words, you little shit!
+Oh, 夷como si fuera a perder? 斡Te vas a comer esas palabras, mierdecilla!
 
 [msg MSG_007 [P3 Fem Protag]]
-*giggle* Okay, let's go! Onto the third[n]one!
+*risita* 斡Okay, vamos! 斡A por el tercero!
 
 [msg MSG_008 [Mitsuru]]
-Ugh... I can't watch...
+Uf... No puedo mirar...
 

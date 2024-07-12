@@ -1,87 +1,87 @@
 [msg MSG_000 [Elizabeth]]
-, that was truly a showing worthy of a[n]hearty "bravo."
+, ha sido un espect茨culo digno de un merecido "bravo".
 
 [msg MSG_000_1 [Elizabeth]]
-Even against an enemy beyond all my[n]expectations, you performed[n]magnificently.
+Incluso contra un enemigo que superaba todas mis expectativas, hab姻is actuado de forma magn胤fica.
 
 [msg MSG_001 [Ryuji]]
-Heheh! We're talkin' about our leader[n]here. What did you expect?
+斡Je, je, je! Estamos hablando de nuestro l胤der. 夷Qu姻 te esperabas?
 
 [msg MSG_002 [Elizabeth]]
-Your talent was remarkable to begin[n]with, but you have made great strides[n]indeed...
+Tu talento era notable al inicio, pero has hecho grandes progresos...
 
 [msg MSG_002_1 [Elizabeth]]
-As one who governs power, I will be[n]watching your progress with great, great[n]interest.
-Staaaaaare...
+Como alguien que controla el poder, estar姻 observando tu progreso con gran, gran inter姻s.
+Miiiiiiiiira...
 
 [msg MSG_003 [Elizabeth]]
-Hm...?
+夷Hm...?
 
 [msg MSG_003_1 [Elizabeth]]
-My, [f 6 1 30 0 0 0]... You've found something[n]rare indeed.
+... Han encontrado algo realmente raro.
 
 [msg MSG_004]
-It looks like she's talking about that[n]sooty film we found earlier...
+Parece que est茨 hablando sobre esa pel胤cula de holl胤n que encontramos antes...
 
 [msg MSG_005 [Elizabeth]]
-If you wouldn't mind, might I take a[n]look at it?
+Si no te importa, 夷podr胤a echarle un vistazo?
 
 [msg MSG_006]
-I hand over the Sooty Film to[n]Elizabeth...
+Le he entregado la "Pel胤cula de Holl胤n" a Elizabeth...
 
 [msg MSG_007 [Elizabeth]]
 ......
 Hmmmm.
-Interesting. Very interesting.
+Interesante. Muy interesante.
 
 [msg MSG_008 [Morgana]]
-Is it something important?
+夷Es algo importante?
 
 [msg MSG_009 [Elizabeth]]
-was specifically called to this special[n]screening to slay a powerful opponent...
+ fue llamado espec胤ficamente a esta proyecci吋n especial para derrotar a un poderoso oponente...
 
 [msg MSG_009_1 [Elizabeth]]
-Could this be...?
+夷Podr胤a ser...?
 
 [msg MSG_010 [Makoto]]
-Could it be... what?
+夷Qu姻 podr胤a ser...?
 
 [msg MSG_011 [Elizabeth]]
 ......
 
 [msg MSG_011_1 [Elizabeth]]
-If my theory is correct, an[n]extraordinary power dwells within this[n]item.
-It holds great potential... powerful[n]enough to define your fate, [f 6 1 30 0 0 0], and[n]that of your friends.
+Si mi teor胤a es correcta, un poder extraordinario reside en ese objeto.
+Tiene un gran potencial... lo bastante poderoso como para definir tu destino, [f 6 1 30 0 0 0], y el de tus amigos.
 
 [msg MSG_012 [Ann]]
-No way! That sounds amazing!
+斡No puede ser! 斡Eso suena incre胤ble!
 
 [msg MSG_013 [Akechi]]
-But... he seems just like he always[n]does.
+Pero... parece igual que siempre.
 
 [msg MSG_013_1 [Akechi]]
-Does that mean there's an element still[n]missing here?
+夷Quiere decir eso que falta alg雨n elemento?
 
 [msg MSG_014 [Elizabeth]]
-Naturally, I cannot say for certain.[n]Though... it is a distinct possibility.
+Naturalmente, no puedo asegurarlo. Aunque... es una posibilidad.
 
 [msg MSG_014_1 [Elizabeth]]
-If it's all right with you, I'd like to[n]take some time to think this over[n]myself.
+Si te parece bien, me gustar胤a tomarme un tiempo para reflexionar.
 
 [sel SEL_015 top]
-We'll leave it to you.
-We'll be waiting.
+Te lo dejamos a ti.
+Estaremos esperando.
 
 [msg MSG_016 [Elizabeth]]
-Well then! I shall take it upon myself[n]to delve into its secrets.
-Feel free to check in with me at the[n]counter, and I'll let you know if I've[n]made any progress.
+斡Pues bien! Me encargar姻 de descifrar sus secretos.
+No duden en consultarme en el mostrador y les dir姻 si he hecho alg雨n progreso.
 
 [msg MSG_017 [Futaba]]
-Well, that sure was a twist. It's all up[n]to you, Zabby!
+Bueno, eso s胤 que fue un giro. 斡Todo depende de ti, Zabby!
 
 [msg MSG_018 [Elizabeth]]
-Hmhm... Well, I can't deny that all this[n]has piqued my interest tremendously.
+Hmhm... Bueno, no puedo negar que todo esto me interesa enormemente.
 
 [msg MSG_018_1 [Elizabeth]]
-Now, I apologize for the delay, but here[n]is your due reward for your efforts.
+Ahora, perd吋n por el retraso, pero aqu胤 tienen su merecida recompensa por sus esfuerzos.
 

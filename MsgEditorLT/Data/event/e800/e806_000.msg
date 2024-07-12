@@ -55,7 +55,7 @@ Amagi... 夷Podr胤as estar conteni姻ndote?
 斡夷Qu姻?!
 
 [msg MSG_015 [Yusuke]]
-No significa que sea un mal dibujo, pero el calamar parece un poco limitado...
+No significa que sea un mal dibujo, pero el camar吋n parece un poco limitado...
 
 [msg MSG_016 [Yukiko]]
 夷Limitado...?
@@ -89,7 +89,7 @@ Tienes un don para esto.
 No te sigo...
 
 [msg MSG_024 [Yusuke]]
-夷C-C吋mo puede ser...? 斡Y pensar que me llamaba a m胤 misma una artista!
+夷C-C吋mo puede ser...? 斡Y pensar que me llamaba a m胤 mismo un artista!
 
 [msg MSG_025 [Yukiko]]
 夷Eh? 夷E-Eso es malo?

@@ -1,65 +1,65 @@
 [msg MSG_000 [Ryuji]]
-How you holdin' up, Ken? Not runnin'[n]outta steam, are ya?
+夷C吋mo lo llevas, Ken? No te est茨s quedando sin fuerzas, 夷verdad?
 
 [msg MSG_001 [Ken]]
-*chuckle* Don't underestimate me just[n]because I'm still in grade school.
-I've honed my skills in Tartarus, you[n]know.
+*risita* No me subestim姻is solo porque a雨n voy a la escuela.
+He perfeccionado mis habilidades en la T茨rtaro, sab姻is.
 
 [sel SEL_002 top]
-Ah, that's right.
-Tartarus?
-It's got nothing on the Palaces.
+Ah, es cierto.
+夷Tartaro?
+No tiene nada que ver con los Palacios.
 
 [msg MSG_003 [Ken]]
-Yeah. I've fought tons of Shadows there.
+S胤. He luchado contra un mont吋n de sombras all胤.
 
 [msg MSG_004 [Morgana]]
-Sounds a lot like Mementos and the[n]Palaces.
+Me suena mucho a Mementos y los Palacios.
 
 [msg MSG_005 [Ken]]
-It's where we usually fight Shadows.
+Es donde normalmente nos enfrentamos contra las sombras.
 
 [msg MSG_006 [Morgana]]
-Sounds a lot like Mementos and the[n]Palaces.
+Me suena mucho a Mementos y los Palacios.
 
 [msg MSG_007 [Morgana]]
-Hey, we've never seen Tartarus before,[n]so we can't say that for sure.
-But if it's a nest for Shadows, it's[n]probably pretty similar.
+Oye, nunca hemos visto la T茨rtaro, as胤 que no podemos asegurarlo.
+Pero, si es un nido de sombras, probablemente sea muy similar.
 
 [msg MSG_008 [Ken]]
-Palaces... Is that where you do most of[n]your phantom thief stuff?
+Palacios... 夷Es d吋nde normalmente hac姻is vuestras cosas de ladrones fantasma?
 
 [msg MSG_009 [Morgana]]
-Yeah. Warped desires can cause someone[n]to form a Palace in their heart.
-The core of those desires rests deep[n]within that Palace... And that's the[n]Treasure we're after.
+S胤. Los deseos retorcidos pueden hacer que alguien forme un Palacio en su coraz吋n.
+El n雨cleo de esos deseos se encuentra en lo profundo del Palacio... Y ese es el Tesoro que buscamos.
 
 [msg MSG_010 [Ken]]
-So that's why you're called the Phantom[n]Thieves that steals hearts...
-It's all so unbelievable.
+As胤 que por eso os llam茨is los Ladrones Fantasma que roban corazones...
+Es todo tan incre胤ble.
 
 [sel SEL_011 top]
-The feeling's mutual.
-You still don't believe us?
-The same goes for SEES.
+El sentimiento es mutuo.
+夷A雨n no nos crees?
+Lo mismo va para el SEES.
 
 [msg MSG_012 [Ryuji]]
-You said it. What about all that crap[n]with the Tartarus and the Dark Hour?
-That sounds way more farfetched, man.
+T雨 lo has dicho. 夷Qu姻 pasa con toda esa mierda de la T茨rtaro y la Hora Oscura?
+Eso suena mucho m茨s inveros胤mil, t胤o.
 
 [msg MSG_013 [Ken]]
-Well, as a member of SEES, I'm pretty[n]used to hearing crazy stories...
-But all this stuff about phantom thieves[n]is just...
+Bueno, como miembro del SEES, estoy muy acostumbrado a escuchar historias locas...
+Pero todo esto de los ladrones fantasma es...
 
 [msg MSG_014 [Futaba]]
-I get you. It does sound like something[n]straight out of a comic book.
+Te entiendo. Suena como algo sacado de un c吋mic.
 
 [msg MSG_015 [Ryuji]]
-I know, right? You're an extracurricular[n]squad of students who fight Shadows[n]during an hour nobody knows about...
-That sounds way crazier than anything on[n]our end.
+Lo s姻, 夷verdad? Sois un escuadr吋n extracurricular de estudiantes que luchan contra las Sombras durante una hora que nadie conoce...
+Eso suena mucho m茨s loco que cualquier cosa por nuestra parte.
 
 [msg MSG_016 [Morgana]]
-Hey, we've still got a lot of work to[n]do. We'd better keep moving.
+Hey, todav胤a tenemos mucho trabajo por hacer. Ser茨 mejor que sigamos.
 
 [msg MSG_017 [Ann]]
-Yeah, you're right. Let's stay focused[n]for these last two!
+S胤, tienes raz吋n. 斡Centr姻monos en esos dos que quedan!
 

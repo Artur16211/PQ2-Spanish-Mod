@@ -1,58 +1,58 @@
 [msg MSG_000 [Elizabeth]]
-The objective of this next special[n]screening is quite simple.
-You must defeat one of the KNS-1000s[n]found within "A.I.G.I.S."
+El objetivo de esta pr吋xima proyecci吋n especial es muy simple.
+Deben derrotar uno de los KNS-1000 que se encuentran en "A.I.G.I.S."
 
 [msg MSG_001 [Fuuka]]
-I take it, by "KNS-1000," you mean the[n]surveillance-type FOE, correct?
+Entiendo que con "KNS-1000" te refieres al FOE de vigilancia, 夷verdad?
 
 [msg MSG_002 [Aigis]]
-I see. A troublesome opponent indeed.[n]However, I do possess some data on said[n]enemy.
-This is a perfect opportunity to[n]calibrate my energy levels.
+Ya veo. De hecho, es un oponente problem茨tico. Sin embargo, poseo algunos datos de este enemigo.
+Esta es una oportunidad perfecta para calibrar mis niveles de energ胤a.
 
 [msg MSG_003 [P3 Hero]]
-Aigis, do you still need some time?
+Aigis, 夷todav胤a necesitas algo de tiempo?
 
 [msg MSG_004 [Aigis]]
-Nonsense. All systems are functioning[n]properly.
-However, I was not designed to fight in[n]these films.
-In order to see that we accomplish our[n]missions, I must acquire some combat[n]experience.
+Tonter胤as. Todos los sistemas funcionan correctamente.
+Sin embargo, no fui dise隠ada para luchar en esas pel胤culas.
+Para que cumplamos nuestras misiones, debo conseguir experiencia en combate.
 
 [sel SEL_005 top]
-Are you okay?
-Don't push yourself.
+夷Est茨s bien?
+No te fuerces.
 
 [msg MSG_006 [Aigis]]
-I appreciate the sentiment,-san.
-However, I am an anti-Shadow weapon. My[n]duty is to protect all of you.
-More difficult battles surely lie ahead,[n]and if I am to protect you, I will need[n]to be prepared.
+Agradezco es sentimiento, [f 6 1 30 0 0 0].
+Sin embargo, sigo siendo un arma antisombras. Mi deber es protegeros a todos.
+Seguramente me esperan batallas m茨s dif胤ciles, y si quiero protegeros, tendr姻 que estar preparada.
 
 [msg MSG_007 [Ann]]
-That's... pretty cool.
+Eso es... bastante guay.
 
 [sel SEL_008 top]
-We'll work together.
-Don't bear it all by yourself.
+Trabajaremos juntos.
+No te encargues de todo t雨 sola.
 
 [msg MSG_009 [Aigis]]
-Work... together?
+夷Trabajar... juntos?
 
 [msg MSG_010 [P3 Hero]]
-is right, Aigis. We're a team.
-There's no need for you to bear it all[n]by yourself. We'll work together.
+ tiene raz吋n, Aigis. Somos un equipo.
+No tienes por qu姻 encargarte de todo t雨 sola. Trabajaremos juntos.
 
 [msg MSG_011 [Aigis]]
-Understood! Then, let us all go to the[n]special screening together!
+斡Entendido! 斡Entonces, vayamos todos juntos a la proyecci吋n especial!
 
 [msg MSG_012 [Aigis]]
-Is that a no? I was hoping to provide[n]assistance...
+夷Eso es un no? Esperaba poder ayudar...
 
 [msg MSG_013 [P3 Hero]]
-is right, Aigis. You don't have to bear[n]it all to yourself.
-We're a team. We should all work[n]together.
+ tiene raz吋n, Aigis. No tienes que encargarte de todo t雨 sola.
+Somos un equipo. Deber胤amos de trabajar todos juntos.
 
 [msg MSG_014 [Aigis]]
-Thank you, both of you. Let us all do[n]our best!
+Muchas gracias a ambos. 斡Hag茨moslo lo mejor posible!
 
 [msg MSG_015 [P3 Hero]]
-Okay, [f 6 1 30 0 0 0], let's head out once we're[n]ready.
+Okay, [f 6 1 30 0 0 0], salgamos cuando estemos listos.
 

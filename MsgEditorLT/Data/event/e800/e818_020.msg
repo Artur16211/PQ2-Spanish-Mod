@@ -1,48 +1,48 @@
 [msg MSG_000 [Ken]]
-Hmm, rare materials... I feel this'll[n]really test our patience.
+Hmm, materiales raros... Apuesto a que esto realmente pondr茨 a prueba nuestra paciencia.
 
 [sel SEL_001 top]
-Let's beat up every foe we see.
-We need the enemies' locations.
+Derrotemos a todos los enemigos que veamos.
+Necesitamos las ubicaciones de los enemigos.
 
 [msg MSG_002 [Akihiko]]
-Yeah. If we do that, we're sure to get[n]those materials eventually.
+S胤. Si lo hacemos, seguro que al final conseguiremos esos materiales.
 
 [msg MSG_003 [Shinjiro]]
-We'd just be wasting time. Ain't there a[n]way we can go straight for the ones that[n]have what we need?
+Estar胤amos perdiendo el tiempo. 夷No hay ning雨n camino que nos lleve directamente a aquellos que tienen lo que necesitamos?
 
 [msg MSG_004 [Mitsuru]]
-Good thinking. We'll want to seek out[n]only the enemies that have the required[n]materials.
+Bien pensado. Queremos buscar solo a los enemigos que tengan los materiales necesarios.
 
 [msg MSG_005 [Fuuka]]
-There's a large number of those Phantom[n]Mages Theo mentioned around area 4-B.
+Hay muchos de esos Phantom Mages que Theo mencion吋 por la zona 4-B.
 
 [msg MSG_006 [Rise]]
-We've got a bunch of Flowing Sands in[n]3-F too!
+斡Y tambi姻n tenemos un mont吋n de Flowing Sands en la 3-F!
 
 [msg MSG_007 [Mitsuru]]
-I see... Hm? There should be one more[n]target.
+Ya veo... 夷Hm? Deber胤a haber un objetivo m茨s.
 
 [msg MSG_008 [Futaba]]
-The Rampage Drive... It doesn't appear[n]to be exclusive to any one location.
+El Rampage Drive... No parece estar exclusivamente en una localizaci吋n. 
 
 [msg MSG_009 [Ryuji]]
-So we'll just have to be on the lookout,[n]yeah?
+As胤 que tendremos que estar atentos, 夷no?
 
 [msg MSG_010 [Futaba]]
-Yeah, but no set location means we could[n]run into 'em anytime.
-Take down those Rampage Drives while[n]searching for the other two enemies!
+S胤, pero no tener una localizaci吋n fija significa que podremos encontrarlos cuando sea.
+斡Derroten a esos Rampage Drives mientras buscan a los otros dos enemigos!
 
 [msg MSG_011 [Fuuka]]
-If the materials the Shadows drop are[n]tough, then it's likely they are as[n]well.
-Be sure to use your Personas wisely, and[n]give yourselves an advantage!
+Si los materiales que dejan las sombras son duros, eso significa que ellas lo son tambi姻n.
+Aseguraos de utilizar vuestras Personas sabiamente, 斡y daros una ventaja!
 
 [msg MSG_012 [P3 Fem Protag]]
-Right!
+斡Cierto!
 
 [msg MSG_013 [Yukari]]
-So 4-B or 3-F, right? We'll leave the[n]decision to you.
+Entonces 4-B o 3-F, 夷verdad? Te dejamos tomar la decisi吋n a ti.
 
 [msg MSG_014 [Junpei]]
-All right, let's go!
+Muy bien, 斡vamos!
 

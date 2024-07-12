@@ -1,68 +1,68 @@
 [msg MSG_000 [Elizabeth]]
-Oh my, it seems this next special[n]screening is a crime thriller...
-There has been a series of suspicious[n]incidents in Kamo City... Your task is[n]to get to the bottom of the mystery.
+Oh, parece que la pr吋xima proyecci吋n especial es un thriller polic胤aco...
+Ha habido una serie de incidentes sospechosos en Kamo City... Vuestra tarea es llegar al fondo de este misterio.
 
 [msg MSG_001 [Makoto]]
-It sounds like we should step in.
+Parece que deber胤amos intervenir.
 
 [msg MSG_002 [Mitsuru]]
-What sort of incidents have occurred?
+夷Qu姻 tipos de incidentes han ocurrido?
 
 [msg MSG_003 [Elizabeth]]
-I only have an outline of the[n]circumstances... Frankly, I've no idea.
+Solo tengo una ligera idea de las circunstancias... Sinceramente, no tengo ni idea.
 
 [msg MSG_004 [Shinjiro]]
-You can't seriously be that clueless...
+No puedes ser tan despistada...
 
 [msg MSG_005 [Elizabeth]]
-The bulk of your task will be to uncover[n]the details of said incidents. 'Tis not[n]my job.
+La mayor parte de vuestra tarea ser茨 descubrir los detalles de dichos incidentes. Esto no es mi trabajo.
 
 [msg MSG_006 [Junpei]]
-Dude, if you don't even know what[n]happened, then what the heck're we[n]supposed to do...?
+T胤吋, si ni siquiera sabes d吋nde ocurri吋, entonces, 夷qu姻 cojones se supone que hagamos?
 
 [sel SEL_007 top]
-It's a mystery.
-You tell her, Ace Detective.
+Es un misterio.
+D胤selo t雨, superdetective.
 
 [msg MSG_008 [Elizabeth]]
-But of course. It is a crime thriller,[n]after all.
+Pero claro. Al fin y al cabo, es un thriller polic胤aco.
 
 [msg MSG_009 [Junpei]]
-I mean, she's not wrong...
+Quiero decir, no se equivoca...
 
 [msg MSG_010 [Junpei]]
-Hey, this guy's got it! Yeah, not even[n]Junpei, Ace Detective could solve this[n]one!
+斡Eh, este t胤o lo sabe! 斡S胤, ni siquiera Junpei, el superdetective, podr胤a resolver esto!
 
 [msg MSG_011 [Mitsuru]]
-All right, enough fooling around...
+Muy bien, basta de bromas...
 
 [msg MSG_011_1 [Mitsuru]]
-We barely have anything to go by. What[n]should we do...?
+Apenas tenemos nada con lo que guiarnos. 夷Qu姻 deber胤amos hacer?
 
 [msg MSG_012 [Makoto]]
-Well, one of the first steps in any[n]investigation is to examine the crime[n]scene.
+Bueno, uno de los primeros pasos en cualquier investigaci吋n es examinar la escena del crimen.
 
 [msg MSG_012_1 [Makoto]]
-I think it'd be best if we just went out[n]and looked for clues.
+Creo que ser胤a mejor salir a buscar pistas.
 
 [msg MSG_013 [Mitsuru]]
-I see...
+Ya veo...
 
 [msg MSG_014 [Futaba]]
-Just what I'd expect from the daughter[n]of a cop. Glad we can count on you.
+Justo lo que esperar胤a de la hija de un polic胤a. Me alegro de que podamos contar contigo.
 
 [msg MSG_015 [Elizabeth]]
-Indeed! Examining the crime scenes will[n]surely prove useful.
+斡Efectivamente! Examinar la escena del crimen seguramente ser茨 雨til.
 
 [msg MSG_015_1 [Elizabeth]]
-As such, I have taken the liberty of[n]marking the locations where these[n]incidents have occurred.
+Por ello, me he tomado la libertad de marcar las localizaciones de los lugares donde han ocurrido los incidentes.
 
 [msg MSG_016 [Ryuji]]
-That's strangely convenient...
+Eso es extra隠amente 雨til...
 
 [msg MSG_017 [Makoto]]
-I wouldn't worry about it. Let's give it[n]a try.
+Yo no me preocupar胤a por eso. Vamos a intentarlo.
 
 [msg MSG_018 [Elizabeth]]
-Now then, I am greatly looking forward[n]to seeing this detective story unfold.
+Ahora bien, tengo muchas ganas de ver c吋mo se desarrolla esta historia de detectives.
 

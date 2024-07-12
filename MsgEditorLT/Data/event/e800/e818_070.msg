@@ -1,122 +1,122 @@
 [msg MSG_000 [Elizabeth]]
-I am glad you were able to gather the[n]materials safely.
-Now to hand them over to Theo.
+Me alegro de que hayan podido encontrar los materiales de forma segura.
+Ahora entreg茨rselos a Theo.
 
 [msg MSG_001 [Theodore]]
-Thank you.
-Ah, these are indeed the materials I'd[n]hoped for... They'll likely allow me to[n]craft you new equipment.
-I'll do my very best. If all of you[n]would please wait here.
+Gracias.
+Ah, estos son los materiales que esperaba... Probablemente me permitir茨n fabricarte nuevo equipo.
+Lo har姻 lo mejor que pueda. Por favor, esperad aqu胤.
 
 [msg MSG_002 [P3 Fem Protag]]
-Hooray! Now we'll have even more to[n]choose from.
+斡Hurra! Ahora tendremos incluso m茨s para elegir.
 
 [sel SEL_003 top]
-We'll be even more powerful.
-I bet it'll cost us...
+Tambi姻n seremos m茨s fuertes.
+Apuesto a que nos costar茨...
 
 [msg MSG_004 [Futaba]]
-Yeah, but be sure you actually equip the[n]stuff or else there's no point in buying[n]it.
+S胤, pero aseg雨rate de equipar el material o de lo contario, no tendr胤a sentido comprarlo.
 
 [msg MSG_005 [Theodore]]
-Ah, I nearly forgot.
-It will cost money, yes. That said, this[n]is from me to you.
-Please accept this, [f 6 1 27 0 0 0].
+Ah, casi se me olvida.
+S胤 que costar茨 dinero. Dicho esto, esto es para vosotros.
+Por favor, acepta esto, [f 6 1 27 0 0 0].
 
 [msg MSG_006 [P3 Fem Protag]]
-A ring? For me?
+夷Un anillo? 夷Para m胤?
 
 [sel SEL_007 top]
-He's proposing.
-Congratulations.
-I want one too.
+Se est茨 declarando.
+Enhorabuena.
+Yo tambi姻n quiero uno.
 
 [msg MSG_008 [Chie]]
-Wh-What!?
+斡夷Q-Qu姻?!
 
 [msg MSG_009 [Yukiko]]
-But if a man gives a woman a ring...[n]That's almost like saying...
+Pero si un hombre le da un anillo a una mujer... Eso est茨 pr茨cticamente diciendo...
 
 [msg MSG_010 [Haru]]
-Wait a minute. We have to hear-chan's[n]response.
-What's your answer? Are you going to say[n]yes, or...
+Espera un minuto. Tenemos que escuchar la respuesta de [f 6 1 27 0 0 0].
+夷Cu茨l es tu respuesta? Vas a decir que s胤, o...
 
 [msg MSG_011 [Theodore]]
-I apologize. I had only those materials[n]to work with...
+Perd吋n. Solo ten胤a esos materiales para trabajar.
 
 [msg MSG_012 [Ryuji]]
-Materials?
+夷Materiales?
 
 [msg MSG_013 [Theodore]]
-Uh, I feel as though you've[n]misunderstood...
-This is a present from Yukari, Fuuka,[n]and Junpei.
+Oh, siento como si lo hubierais malinterpretado.
+Esto es un regalo de Yukari, Fuuka y Junpei.
 
 [msg MSG_014 [P3 Fem Protag]]
-Wha―!? It's from you guys?
+斡夷Qu姻?! 夷Es de vosotros?
 
 [msg MSG_015 [Theodore]]
-They brought it to my attention in[n]advance and asked if I would make[n]something from what was left over.
+Me lo comunicaron con antelaci吋n y me preguntaron si pod胤a hacer algo con lo que sobraba.
 
 [msg MSG_016 [Yukari]]
-It's really just pieces of the materials[n]we found, so it's not much, but...
+En realidad son trozos de los materiales que encontramos, as胤 que no es mucho, pero...
 
 [msg MSG_017 [Fuuka]]
-They were so pretty, we thought we'd[n]turn them into an accessory.
+Eran muy bonitos, as胤 que pensamos convertirlos en un accesorio.
 
 [msg MSG_018 [P3 Fem Protag]]
-But why me? I didn't do anything to[n]receive a gift...
+夷Pero por qu姻 a m胤? No he hecho nada para recibir un regalo...
 
 [sel SEL_019 top]
-It's to say thanks for all you do.
-It's a token of our appreciation.
-We're friends, aren't we?
+Es para agradecerte todo lo que has hecho.
+Es una muestra de nuestro aprecio.
+Somos amigos, 夷verdad?
 
 [msg MSG_020 [Yukari]]
-There you have it.
-You said you were just trying to do your[n]part for the team.
-So we figured we'd try to do our part[n]and show that we value your friendship.
+Ah胤 lo tienes.
+Dijiste que solo intentabas hacer tu parte por el equipo.
+As胤 que hemos pensado en poner de nuestra parte y demostrar que valoramos tu amistad.
 
 [msg MSG_021 [P3 Fem Protag]]
-Friendship...
+Amistad...
 
 [msg MSG_022 [Fuuka]]
-It's true we didn't know you before we[n]were brought here.
-But we enjoy being with you,, and we[n]want to get to know you better.
+Es verdad que no te conoc胤amos antes de llegar aqu胤.
+Pero disfrutamos estando contigo, [f 6 1 27 0 0 0], y queremos conocerte mejor.
 
 [msg MSG_023 [Junpei]]
-We were hoping this ring would help us[n]show that.
-It is made of Shadows, though...
+Esperamos que este anillo nos ayude a demostrarlo.
+Aunque, est茨 hecho de sombras...
 
 [msg MSG_024 [Yukari]]
-Can it, Junpei! It's pretty, so who[n]cares!?
+斡Junpei! 斡Es bonito! 斡夷As胤 que a qui姻n le importa?!
 
 [msg MSG_025 [P3 Fem Protag]]
 ......
 
 [msg MSG_026 [Fuuka]]
--chan...?
+...?
 
 [msg MSG_027 [P3 Fem Protag]]
-...Thank you. You've all made me very[n]happy.
-It's really beautiful, even if it is[n]made from Shadows.
+... Gracias. Me hab姻is hecho muy feliz.
+Es muy bonito, incluso aunque est姻 hecho de sombras.
 
 [msg MSG_028 [Yukari]]
-Let's stop saying that, all right?
+Vamos a parar de decir eso, 夷de acuerdo?
 
 [msg MSG_029 [Makoto]]
--san does look happy.
+parece feliz.
 
 [msg MSG_030 [Mitsuru]]
-Yes. It certainly wasn't our intention[n]to make her feel lonely.
-Although, judging from her expression,[n]it looks like we won't have to worry[n]about that anymore...
+S胤. Desde luego no era nuestra intenci吋n hacerla sentir sola.
+Aunque, a juzgar por su expresi吋n, parece que ya no tendremos que preocuparnos por eso...
 
 [msg MSG_031 [Elizabeth]]
-You did a good deed, Theo.
-It seems your guest has formed new[n]bonds.
+Hiciste una buena acci吋n, Theo.
+Parece que tu invitada ha formado nuevos lazos.
 
 [msg MSG_032 [Theodore]]
-Not at all. I simply lent a hand...
-The rest they did on their own.
+En absoluto. Solo ech姻 una mano...
+El resto lo hicieron ellos solos.
 
 [msg MSG_033 [Elizabeth]]
-*chuckle* I suppose you are right.
+*risita* Supongo que tienes raz吋n.
 

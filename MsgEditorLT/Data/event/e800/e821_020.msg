@@ -1,78 +1,78 @@
 [msg MSG_000 [Kanji]]
-Well, we're here, but doesn't look like[n]there's anything to eat.
+Bueno, estamos aqu胤, pero no parece que haya nada para comer.
 
 [msg MSG_001 [Yukiko]]
-Maybe we should've kept the dish we made[n]for that carnivore?
+夷Quiz茨s deber胤amos haber guardado el plato que hicimos para ese carnivoro?
 
 [msg MSG_002 [Chie]]
-Oh, I kept a little bit of that sauce![n]You want some?
+Oh, 斡yo guard姻 un poco de esa salsa! 夷Quer姻is una poca?
 
 [msg MSG_003 [Yosuke]]
-N-No thanks, I'm good! We're here, so[n]we'd better get out there and find what[n]we're lookin' for, yeah?
+斡N-No gracias, estoy bien! Ya estamos aqu胤, as胤 que ser茨 mejor que salgamos y encontremos lo que buscamos, 夷no?
 
 [msg MSG_004 [Yukiko]]
-I guess you're right. Maybe we'll be[n]able to make something new.
+Supongo que tienes raz吋n. Quiz茨s podamos hacer algo nuevo.
 
 [msg MSG_005 [Ryuji]]
-...Yo, are they for real? That slime[n]they made last time's gonna haunt me for[n]years.
+... Oye, 夷est茨n en serio? Esa baba que hicieron la 雨ltima vez me va a perseguir durante a隠os.
 
 [msg MSG_006 [Yosuke]]
-Know this, Skull: those two have very[n]little common sense when it comes to[n]cooking.
-You'd do well to remember that. There's[n]no telling what they'll cook up...
+Que sepas esto, Skull: esas dos no tienen sentido com雨n cuando se trata de cocinar.
+Deber胤as de recordarlo bien. Nunca se sabe lo que van a cocinar.
 
 [msg MSG_007 [Yukiko]]
-...Hm? What's wrong?
+... 夷Hm? 夷Qu姻 ocurre?
 
 [msg MSG_008 [Yosuke]]
-Hm!? Nothing! Right, Joker?
+斡夷Hm?! 斡Nada! 夷Verdad, Joker?
 
 [msg MSG_009 [Akihiko]]
-Well... it looks like there's only grass[n]here. Should we keep moving?
+Bueno, parece que solo hay hierba por aqu胤. 夷Deber胤amos seguir?
 
 [sel SEL_010 top]
-Let's try somewhere else.
-Let's look here.
+Probemos en otro sitio.
+Vamos a buscar por aqu胤.
 
 [msg MSG_011 [Yusuke]]
-Just a moment, Joker.
-Look here! We've hit the jackpot!
+Un momento, Joker.
+斡Mirad aqu胤! 斡Nos ha tocado la loter胤a!
 
 [msg MSG_012 [Yusuke]]
-Good thinking, Joker. We've hit the[n]jackpot!
+Bien pensado, Joker. 斡Nos ha tocado la loter胤a!
 
 [msg MSG_013 [Yusuke]]
-There's parsley, mugwort, wild[n]rocambole, butterbur...
+Hay bastantes plantas salvajes.
 
 [msg MSG_014 [Yukiko]]
-Oh, and it looks like there are even[n]some carnivorous plants here too.
+Oh, y parece que hay tambi姻n algunas plantas carn胤voras.
 
 [msg MSG_015 [Yosuke]]
-We don't need any more of those!
+斡No necesitamos m茨s de esas!
 
 [msg MSG_016 [Shinjiro]]
-Hmm, wild edible plants, huh? Those'll[n]work.
+Hmm, plantas salvajes comestibles. Deber胤an funcionar.
 
 [msg MSG_017 [Rise]]
-I know just the place to look too! I'm[n]pretty sure it's south of here.
-Remember those trees the herbivores[n]knocked down? There was a ton of plants[n]just on the other side of it!
+斡Yo tambi姻n s姻 d吋nde buscar! Estoy segura de que est茨 al sur.
+夷Se acuerdan de esos 茨rboles que derribaron los herb胤voros? 斡Hab胤a un mont吋n de plantas justo al otro lado!
 
 [msg MSG_018 [Yosuke]]
-Yeah, there was, but who knows if we'll[n]be able to eat them...?
+S胤, hab胤a, pero qui姻n sabe si podremos com姻rnoslas...
 
 [msg MSG_019 [Yusuke]]
-I'll be able to tell whether they're[n]edible or not; I've had first hand[n]experience.
+Yo podr姻 deciros sin son comestibles o no; tengo experiencia de primera mano.
 
 [msg MSG_020 [Chie]]
-Ohh... I'm not super familiar with[n]vegetables. I know cabbage and[n]lettuce... That's pretty much it.
+Ohh... No estoy muy acostumbrada a las verduras. Conozco la col y la lechuga ... Eso es m茨s o menos todo.
 
 [msg MSG_021 [Yusuke]]
-It's all about instinct. I'll know very[n]well which ones are safe to eat.
+Todo es cuesti吋n de instinto. Sabr姻 muy bien cu茨les ser茨n seguras para comer.
 
 [msg MSG_022 [Akihiko]]
-All right then, let's go gather some.
-You said they're over by "those trees[n]the herbivores knocked down", right?[n]Then, let's head south!
+Muy bien, entonces vamos a recoger algunas.
+Has dicho que est茨n por "esos 茨rboles que derribaron los herb胤voros", 夷verdad? Entonces, 斡vamos hacia el sur!
 
 [msg MSG_023 [Shinjiro]]
-...Man, guess I'll just have to go along[n]here.
-I'll cook everything up real good once[n]you get what we need.
+... Bueno, supongo que tendr姻 que seguir la corriente.
+Cocinar姻 todo muy bien una vez que tengan lo que necesitamos.
 

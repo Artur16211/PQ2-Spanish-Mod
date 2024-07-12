@@ -1,82 +1,82 @@
 [msg MSG_000 [Fuuka]]
-Looks like we have everything we need!
+斡Parece que ya tenemos todo lo que necesitamos!
 
 [msg MSG_001 [P3 Fem Protag]]
-Good job, everyone!
-Let's head back to the theater and[n]report to Elizabeth.
+斡Buen trabajo!
+Volvamos al cine e informemos a Elizabeth.
 
 [msg MSG_002 [Yukari]]
-You did a good job too,. Are you doing[n]okay?
+T雨 tambi姻n hiciste un buen trabajo, [f 6 1 27 0 0 0]. 夷Te va bien?
 
 [msg MSG_003 [P3 Fem Protag]]
-Ahaha, yep. Doing just fine!
+Ja, ja, ja, s胤p. 斡Me va genial!
 
 [msg MSG_004 [Yukari]]
-Oh, I mean like... I know you've had a[n]hard time since you were first brought[n]here...
-You've got it harder than everyone else[n]here, but you're also the brightest and[n]most uplifting.
+Oh, quiero decir... S姻 que lo has pasado mal desde que te trajeron aqu胤...
+T雨 lo has tenido mucho m茨s dif胤cil que todos nosotros, pero t雨 tambi姻n eres la m茨s brillante y la m茨s divertida.
 
 [msg MSG_005 [P3 Fem Protag]]
-Well, right now, I have no role as a[n]leader, so it's really all I can do.
-I'd have nothing if you took that away.
+Bueno, ahora mismo, no tengo papel de l胤der, as胤 que es todo lo que puedo hacer.
+No tendr胤a nada si me quitarais eso.
 
 [sel SEL_006 top]
-It's helping a lot.
-That's really important.
-You're the life of the party.
+Eso ayuda mucho.
+Eso es realmente importante.
+T雨 eres el alma de la fiesta.
 
 [msg MSG_007 [Junpei]]
-F'sho. If you're feelin' depressed, then[n]the rest of us are gonna feel down too.
+Claro. Si te sientes de baj吋n, entonces el resto del grupo tambi姻n estaremos de baj吋n.
 
 [msg MSG_008 [Yukari]]
-Mm-hm. Unlike someone else I know, you[n]actually do a good job.
+Mm. A diferencia de otra persona que conozco, haces un buen trabajo.
 
 [msg MSG_009 [Fuuka]]
-I think keeping the party lively is very[n]important.
+Creo que mantener la fiesta animada es muy importante.
 
 [msg MSG_010 [P3 Fem Protag]]
-You're going to make me blush...
-I'm just trying to do my part for the[n]team...
+Vais a hacer que me sonroje...
+Solo estoy intentando poner de mi parte para el equipo...
 
 [msg MSG_011 [Akihiko]]
-Hey, [f 6 1 27 0 0 0], you got a sec? Mitsuru's[n]calling for you.
+Ey, [f 6 1 27 0 0 0], 夷tienes un segundo? Mitsuru te est茨 llamando.
 
 [msg MSG_012 [P3 Fem Protag]]
-Be right there.
-I'll leave the materials to you guys.
+Ahora mismo voy.
+Os dejo los materiales a vosotros.
 
 [msg MSG_013 [Junpei]]
-Still feels like there's some distance[n]between us...
+A雨n parece que hay algo de distancia entre nosotros...
 
 [msg MSG_014 [Fuuka]]
-It sounded like she was being modest[n]earlier too.
+Antes tambi姻n parec胤a que estaba siendo modesta.
 
 [msg MSG_015 [Junpei]]
-Isn't there some kinda magic item or[n]somethin' that brings hearts closer[n]together?
+夷No hay ning雨n tipo de objeto m茨gico o algo as胤 que acerque los corazones?
 
 [sel SEL_016 top]
-Magic item?
-How about a present?
+夷Objeto m茨gico?
+夷Qu姻 tal un regalo?
 
 [msg MSG_017 [Junpei]]
-Uh, that was just an example...
+Oh, solo era un ejemplo.
 
 [msg MSG_018 [Yukari]]
-Oh, that's it!
+斡Oh, eso es!
 
 [msg MSG_019 [Fuuka]]
-What is it, Yukari-chan?
+夷Qu姻 pasa, Yukari?
 
 [msg MSG_020 [Yukari]]
-It's good to show your teammates you[n]appreciate them every once in a while,[n]right?
-Huddle up, guys... I say we... Then[n]we...
+Es bueno demostrar a tus compa隠eros que les aprecias de vez en cuando, 夷verdad?
+Acercaos, chicos... Yo digo que... Y entonces...
 
 [msg MSG_021 [Junpei]]
-Uh-huh, okay... You're quite the[n]schemer, Yuka-tan.
+Oh, bien... Eres muy intrigante, Yuka.
 
 [msg MSG_022 [Fuuka]]
-*giggle* I can't wait to see her[n]reaction.
+*risita* No puedo esperar a ver su reacci吋n.
 
 [msg MSG_023 [Yukari]]
-We should hurry up and give these to[n]Theodore.
-C'mon, everyone, let's go.
+Deber胤amos darnos prisa y darle esto a Theodore.
+斡Vamos!
 

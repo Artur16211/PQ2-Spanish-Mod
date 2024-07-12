@@ -328,6 +328,6 @@ def process_all_files_in_directory(input_directory):
                 output_params(input_path, params_output_path)
 
 #input_directory = 'msgsq1'
-input_directory = 'msgs_es'
+input_directory = 'msgs_en'
 
 process_all_files_in_directory(input_directory)

@@ -1,41 +1,41 @@
 [msg MSG_000 [P3 Fem Protag]]
-Hooray! That's the last of them!
+斡Hurra! 斡Ese era el 雨ltimo!
 
 [msg MSG_001 [Akihiko]]
-Yeah, I guess so.
-...So? Who won? I feel like I had better[n]accuracy.
+S胤, eso creo.
+... As胤 que, 夷qui姻n ha ganado? Creo que yo tuve mejor precisi吋n.
 
 [msg MSG_002 [Shinjiro]]
-Hah, the hell are you talking about? We[n]were basically the same.
+Ja, 夷qu姻 diablos est茨s diciendo? Lo hicimos b茨sicamente igual.
 
 [msg MSG_003 [Akihiko]]
-No way. I got slammed, and you didn't[n]even back me up! That's minus another[n]point!
+No puede ser. 斡Me golpearon y no hiciste nada para apoyarme! 斡Eso es otro punto menos!
 
 [msg MSG_004 [Shinjiro]]
-That was nothin'! Rub some dirt in it!
+斡Eso no fue nada! 斡Fr吋tate un poco la suciedad!
 
 [msg MSG_005 [Akihiko]]
-What!? Man, you never show me any[n]respect!
-And you never make me food! Would it[n]kill you to be a little nicer to me?
+斡夷Qu姻?! 斡T胤o, nunca me muestras ning雨n respeto!
+斡Y nunca me preparas comida! 夷Te matar胤a ser algo m茨s bueno conmigo?
 
 [msg MSG_006 [Shinjiro]]
-I could say the same to you, Aki―
+Podr胤a decir lo mismo de ti, Aki.
 
 [msg MSG_007 [Mitsuru]]
-Cut it out! Both of you!
-How can either of you possibly hope to[n]set a good example with the way you're[n]behaving!?
+斡Dejadlo ya! 斡Los dos!
+夷C吋mo puede alguno de ustedes dar un buen ejemplo con la forma en que se comportan?
 
 [msg MSG_008 [Mitsuru]]
-We're not here for fun! We're putting[n]our lives on the line!
-All this talk of winning and losing...[n]Pathetic... You've lost sight of what's[n]important.
+斡No estamos aqu胤 para divertirnos! 斡Estamos poniendo en riesgo nuestras vidas!
+Y esa charla sobre ganar o perder... Pat姻tico... Hab姻is perdido de vista lo que es importante.
 
 [msg MSG_009 [Akihiko]]
-...Well, uh...
+... Bueno, eh...
 
 [msg MSG_010 [Mitsuru]]
-Didn't you listen to what said? No going[n]at it alone.
-She made that rule because you two only[n]see what's in front of you.
-Granted, neither of you could follow[n]that rule, I'd say you're both[n]disqualified.
+夷No hab姻is escuchado lo que dijo [f 6 1 27 0 0 0]? Nada de hacerlo solo.
+Ella hizo esa regla porque ustedes solo ven lo que tienen delante.
+Y ya que ninguno de los dos pudo seguir esa regla, yo dir胤a que ambos est茨n descalificados.
 
 [msg MSG_011 [Shinjiro]]
 ......
@@ -44,73 +44,73 @@ Granted, neither of you could follow[n]that rule, I'd say you're both[n]disquali
 ......
 
 [msg MSG_013 [P3 Fem Protag]]
-Hmm... I say... the winner is...
+Hmm... Yo digo... que el ganador es...
 
 [sel SEL_014 top]
-Sanada-san.
-Aragaki-san.
+Sanada.
+Aragaki.
 Mitsuru.
-Me.
+Yo.
 
 [msg MSG_015 [P3 Fem Protag]]
-True, Akihiko-senpai really gave it his[n]all, but...
+Cierto, Akihiko realmente lo dio todo, pero...
 
 [msg MSG_016 [P3 Fem Protag]]
-I do think that Shinjiro-senpai showed[n]some amazing strength, but...
+Creo que Shinjiro mostr吋 una fuerza alucinante, pero...
 
 [msg MSG_017 [P3 Fem Protag]]
-Oh, you think so too, Joker?
+Oh, 夷t雨 tambi姻n piensas eso, Joker?
 
 [msg MSG_018 [P3 Fem Protag]]
-Yeah, I think you did really well too,[n]Joker. But...
+S胤, creo que t雨 tambi姻n lo hiciste muy bien, Joker. Pero...
 
 [msg MSG_019 [P3 Fem Protag]]
-I say the winner is, Mitsuru-senpai!
+斡Yo digo que la ganadora es Mitsuru!
 
 [msg MSG_020 [Mitsuru]]
-Me?
+夷Yo?
 
 [msg MSG_021 [P3 Fem Protag]]
-Yes, all of you fought very hard and[n]held your own.
-But you were also asked to support your[n]teammates.
-Mitsuru-senpai wins because she was able[n]to scold her companions for not being[n]there for each other!
+S胤, todos hab姻is luchado mucho y os hab姻is mantenido firmes.
+Pero tambi姻n os ped胤 que apoyarais a vuestros compa隠eros.
+斡As胤 que Mitsuru gana porque pudo rega隠ar a sus compa隠eros por no estar ah胤 para los dem茨s!
 
 [msg MSG_022 [Shinjiro]]
-...Can't argue with that.
-I feel like an idiot, but Mitsuru and[n]are right. Sorry.
+... No se puede discutir.
+Me siento como un idiota, pero Mitsuru y [f 6 1 27 0 0 0] tienen raz吋n. Perd吋n.
 
 [msg MSG_023 [Akihiko]]
-I'm sorry too. I shouldn't've acted that[n]way in front of the underclassmen...
+Yo tambi姻n lo siento. No deber胤a haber actuado as胤 en frente de gente m茨s joven...
 
 [msg MSG_024 [Mitsuru]]
-Hmph, as long as you understand...
-...That said, I think the real winner[n]here is [f 6 1 26 0 0 0].
+Hmph, al menos lo entienden...
+... Dicho esto, creo que la verdadera ganadora aqu胤 es [f 6 1 26 0 0 0].
 
 [msg MSG_025 [P3 Fem Protag]]
-Huh?
+夷Eh?
 
 [msg MSG_026 [Mitsuru]]
-To be honest, I've never been able to[n]keep these two in line.
-You showed me that, much like, you too[n]have what it takes to be a leader.
+Para ser honesta, nunca podr胤a haber mantenido a raya a esos dos.
+Me has demostrado que, al igual que [f 6 1 16 0 0], t雨 tambi姻n tienes lo que hace falta para ser un l胤der.
 
 [msg MSG_027 [P3 Fem Protag]]
-Th-Thank you, Mitsuru-senpai!
+斡G-Gracias, Mitsuru!
 
 [msg MSG_028 [Akihiko]]
-I agree with Mitsuru.
-Both [f 6 1 27 0 0 0] and are incredible people.
+Estoy de acuerdo con Mitsuru.
+Tanto [f 6 1 27 0 0 0] como [f 6 1 15 0 0 0] son personas incre胤bles.
 
 [msg MSG_029 [Shinjiro]]
-We made real asses out of ourselves...[n]Aki, what do you say we try this again?
+Hicimos el rid胤culo... Aki, 夷qu姻 dices si lo intentamos de nuevo?
 
 [msg MSG_030 [Akihiko]]
-Right! Leave it to me! I'll be sure to[n]back you up...
-With the best protein I got!
+斡Vale! 斡D姻jamelo a m胤! Me asegurar姻 de apoyarte...
+斡Con la mejor prote胤na que tengo!
 
 [msg MSG_031 [Shinjiro]]
-...I think I'll pass.
+... Creo que paso.
 
 [msg MSG_032 [Mitsuru]]
-Should I add a rule about no protein[n]next time...?
-Either way, we've finished our mission.[n]Let's head back to the theater.
+夷Deber胤a a隠adir una regla que no permita prote胤nas la pr吋xima vez?
+De todas formas, hemos acabado nuestra misi吋n. Volvamos al cine.
 

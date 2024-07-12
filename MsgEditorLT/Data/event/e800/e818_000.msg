@@ -1,76 +1,76 @@
 [msg MSG_000 [P3 Fem Protag]]
-Oh, it looks like it's a dead end. Let's[n]take a break.
+Oh, parece que hemos llegado a un camino sin salida. Tomemos un descanso.
 
 [msg MSG_001 [Fuuka]]
-There don't appear to be any enemies[n]nearby. What should we do?
+No parece que haya enemigos por aqu胤 cerca. 夷Qu姻 deber胤amos hacer?
 
 [sel SEL_002 top]
-A break sounds nice.
-We can keep going.
+Un descanso suena bien.
+Podemos seguir avanzando.
 
 [msg MSG_003 [Ann]]
-Awesome! I've been wanting to take a[n]break anyway!
+斡Incre胤ble! 斡De todos modos, yo tambi姻n estaba esperando tomar un descanso!
 
 [msg MSG_004 [Junpei]]
-Yeah, good choice!
-You guys really know how to read a[n]crowd.
+斡S胤, buena elecci吋n!
+Vosotros realmente sab姻is c吋mo convencer a la gente.
 
 [msg MSG_005 [Ann]]
-Hmm, everyone looks pretty tired. Maybe[n]we should take a break?
+Hmm, todos parecen muy cansados. Quiz茨s deber胤amos tomar un descanso.
 
 [msg MSG_006 [Junpei]]
-C'mon, let's rest a bit. You guys ain't[n]too good at reading a crowd, are ya?
+Bien, vamos a descansar un poco. Vosotros no sois muy buenos entendiendo a la gente, 夷verdad?
 
 [msg MSG_007 [P3 Fem Protag]]
-Ahaha, you're always the same, no matter[n]where we are, Junpei.
+Ja, ja, ja, t雨 siempre eres igual, no importa d吋nde estemos, Junepi.
 
 [msg MSG_008 [Yukari]]
-Always?
+夷Siempre?
 
 [msg MSG_009 [P3 Fem Protag]]
-Oh, sorry... I mean...
+Oh, perd吋n... Quiero decir...
 
 [msg MSG_010 [Junpei]]
-In other words, you're sayin' Junpei's[n]always the life of the party, right?
+En otras palabras, est茨s diciendo que Junpei es siempre el alma de la fiesta, 夷verdad?
 
 [msg MSG_011 [Fuuka]]
-Um... I don't know about that.
+Um... No lo s姻.
 
 [msg MSG_012 [Yukari]]
-Life of the party? More like a loudmouth[n]who's way too into himself.
+夷Alma de la fiesta? M茨s bien un bocazas que est茨 demasiado metido en s胤 mismo.
 
 [msg MSG_013 [Junpei]]
-Sheesh, Yuka-tan, why you gotta be so[n]mean...?
+Joder, Yuka, 夷por qu姻 eres tan cruel...?
 
 [msg MSG_014 [P3 Fem Protag]]
 ......
 
 [msg MSG_015 [Fuuka]]
--chan...?
+夷[f 6 1 27 0 0 0]...?
 
 [msg MSG_016 [P3 Fem Protag]]
-...Oh, I-I'm gonna go talk to the[n]others! You guys enjoy your break!
+... Oh, 斡v-voy a ir a hablar con los dem茨s! 斡Disfrutad de vuestro descanso!
 
 [msg MSG_017 [Yukari]]
 ...
 
 [msg MSG_018 [Junpei]]
-I feel like there's a wall there...
+Siento como si hubiera una barrera entre nosotros...
 
 [msg MSG_019 [Fuuka]]
-It's as if she wants to mingle with all[n]of us but can't...
+Es como si intentara integrarse con todos nosotros, pero no puede...
 
 [msg MSG_020 [Yukari]]
-She knows everybody, but nobody knows[n]her...
-I'd have a really hard time with that.
+Ella conoce a todo el mundo, pero nadie la conoce...
+Yo lo pasar胤a bastante mal.
 
 [msg MSG_021 [Fuuka]]
-So would I... [f 6 1 27 0 0 0]-chan doesn't show[n]it, since she tries to be optimistic,[n]but...
-If only she could open up a little[n]more...
+Yo tambi姻n... [f 6 1 27 0 0 0] no lo muestra, pues intenta ser optimista, pero...
+Ojal茨 ella pudiera abrirse un poco m茨s.
 
 [msg MSG_022 [Junpei]]
-Well, I can't think of anything to help[n]her right now... Guess we'll just have[n]to wait...
+Bueno, no puedo pensar en algo para ayudarla ahora mismo... Parece que tendremos que esperar...
 
 [msg MSG_023]
-A new special screening: "A Bond Beyond[n]Worlds" has been added to the box[n]office.
+Una nueva proyecci吋n especial: "A Bond Beyond Worlds" ha sido a隠adida a la taquilla.
 

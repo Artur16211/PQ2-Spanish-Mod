@@ -69,14 +69,14 @@ Jejeje, 夷es tan obvio? No se te escapa nada, 夷eh, bro?
 Todav胤a te molesta c吋mo fuiste separado de nosotros en Junessic Land, 夷no?
 
 [msg MSG_020 [Yosuke]]
-No s姻 si todo el mundo intentaba tocar el tema por mi bien o no, pero supongo que me siento un poco culpable...
+No s姻 si todo el mundo evitaba tocar el tema por mi bien o no, pero supongo que me siento un poco culpable...
 No pod胤a quitarme la sensaci吋n de que ten胤a que compensarlo de alguna forma... Perd吋n a todos.
 
 [msg MSG_021 [Chie]]
 夷Estabas preocupado por eso, Yosuke? Siempre te pones tan serio con las cosas m茨s raras.
 
 [msg MSG_022 [Kanji]]
-Parece que eres m茨s blando de lo que pareces, Yosuke.
+Parece que eres m茨s blando de lo que aparentas, Yosuke.
 
 [msg MSG_023 [Yosuke]]
 Ay, 斡d姻jame! Soy sensible, 斡夷vale?! 斡Pienso en estas cosas!
@@ -119,7 +119,7 @@ Gracias por ayudarnos a salvarlo.
 Gracias por venir a por m胤, chicos. 斡Estoy muy feliz de estar aqu胤 con todos vosotros!
 
 [msg MSG_034 [Elizabeth]]
-Vaya, hemos pasado de hablar de un falso poyo a una conmovedora conversaci吋n sobre la belleza de la amistad...
+Vaya, hemos pasado de hablar de un falso pollo a una conmovedora conversaci吋n sobre la belleza de la amistad...
 Aunque el asunto del pollo sigue siendo muy lamentable.
 Aun as胤, supongo que este resultado es satisfactorio.
 Aqu胤 ten姻is vuestra recompensa. Aceptadla por favor.

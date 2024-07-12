@@ -85,7 +85,7 @@ Estoy muy agradecido a los Ladrones Fantasma. A cada uno de ellos.
 [msg MSG_024 [Kanji]]
 Yo b茨sicamente igual.
 Mi equipo acept吋 todo sobre m胤, incluso mis debilidades.
-As胤 que, intento devolver eso, o al menos lo intento, 夷entiendes?
+As胤 que, intento devolver eso, o al menos ayudarles, 夷entiendes?
 
 [msg MSG_025 [Ryuji]]
 S胤. No es que tengamos la inteligencia o las habilidades de apoyo, pero...

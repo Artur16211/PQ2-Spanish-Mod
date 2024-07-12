@@ -1838,5 +1838,5 @@
 [f 0 5 65278][f 2 1]斡Costos de habilidad reducidos![n][e]
 
 [msg BTLMSGID_PQ2_ZEROS [Merciful Clergyman]]
-[f 0 5 65278][f 2 1]斡Costes de habilidad de[n][f 2 4 1] negados![n][e]
+[f 0 5 65278][f 2 1]斡Costes de habilidad de [f 2 4 1] negados![n][e]
 

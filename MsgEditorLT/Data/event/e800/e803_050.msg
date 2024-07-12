@@ -38,7 +38,7 @@ E-eso no era una pelea...
 Un poco clich姻, 夷no? Tambi姻n muy de la vieja escuela.
 
 [msg MSG_012 [P4 Protag]]
-O-oh, s胤...?
+O-oh, 夷s胤...?
 
 [msg MSG_013 [Ryuji]]
 ...
@@ -65,7 +65,7 @@ Supongo que lo siento por todo lo que dices.
 斡夷Mrow?!
 
 [msg MSG_020 [Ryuji]]
-夷Para, qu姻 demonios fue eso...?
+夷Qu姻 demonios fue eso...?
 
 [msg MSG_020_1 [Ryuji]]
 斡夷...?!

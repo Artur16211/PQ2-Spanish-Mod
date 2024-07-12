@@ -1,77 +1,77 @@
 [msg MSG_000 [Elizabeth]]
-The goal of this next special screening[n]is to collect three types of materials.
-Now, if our material specialist would[n]please describe the materials in[n]detail... Theo! Theo, where are you!?
-Theo, get out here, or so help me, I[n]will fill your popcorn machine with[n]soybean powder and―
+El objetivo de la pr吋xima proyecci吋n especial es conseguir tres tipos de materiales.
+Ahora, si nuestro especialista de materiales pudiera describ胤rnoslos en detalle... 斡Theo! 斡夷Theo, d吋nde est茨s?!
+Theo, ven aqu胤 y ay雨dame, o si no voy a llenar tu m茨quina de palomitas con polvo de soja y...
 
 [msg MSG_001 [Theodore]]
-I-I'm here! How can I help you, Sister?
+斡E-Estoy aqu胤! 夷En qu姻 puedo ayudarte, hermana?
 
 [msg MSG_002 [Elizabeth]]
-Describe to them the required materials.
+Descr胤beles los materiales necesarios.
 
 [msg MSG_003 [Theodore]]
-Certainly. The Phantom Mage will drop[n]the Teddy Bear.
-The Flowing Sand will drop the[n]Kaleidoscope...
-And the Clay Figurine you can obtain[n]from the Rampage Drive.
+Cierto. El Phantom Mage dejar茨 el Teddy Bear.
+La Flowing Sand dejar茨 el Kaleidoscope...
+Y podr姻is obtener la Clay Figurine del Rampage Drive.
 
 [msg MSG_004 [Elizabeth]]
-These are all rare parts of a Shadow...[n]We'd like you to extract them.
+Todas esas son partes raras de una sombra... Nos gustar胤a que las consiguieran.
 
 [msg MSG_005 [Junpei]]
-Rare materials...? What a drag...
+夷Materiales raros...? Menudo fastidio...
 
 [msg MSG_006 [Theodore]]
-Please refrain from saying such things[n]and accept this screening!
+Por favor, 斡dejar de decir esas cosas y aceptad esta proyecci吋n!
 
 [sel SEL_007 top]
-You're awfully enthusiastic.
-What's wrong?
+Est茨s terriblemente entusiasmado.
+夷Qu姻 ocurre?
 No.
 
 [msg MSG_008 [P3 Fem Protag]]
-Yeah, what's going on?
+S胤, 夷qu姻 est茨 pasando?
 
 [msg MSG_009 [P3 Fem Protag]]
-Mmhm, you seem stressed. Everything[n]okay?
+Mmhm, pareces estresado. 夷Todo bien?
 
 [msg MSG_010 [Theodore]]
-Have a heart!
+斡Tened compasi吋n!
 
 [msg MSG_011 [P3 Fem Protag]]
-Hang on. I'm sure there's a good reason[n]he's acting like this. Right, Theo?
+Esperad. Estoy segura de que hay una buena raz吋n por la que est茨 actuando as胤. 夷Verdad, Theo?
 
 [msg MSG_012 [Theodore]]
-Yes... If we gather the materials[n]listed, we'll be able to craft new[n]equipment.
-Each material is quite sturdy. They will[n]allow us to craft bigger, better, and[n]bulkier equipment.
+S胤... Si nos tra姻is los materiales listados, podremos fabricar nuevo equipamiento.
+Cada material es bastante resistente. Eso nos permitir茨 fabricar un mejor, m茨s grande y m茨s voluminoso equipamiento.
 
 [sel SEL_013 top]
-They're that strong?
-That's exciting.
-Bulky, huh?
+夷Son tan fuertes?
+Eso es emocionante.
+Voluminoso, 夷eh?
 
 [msg MSG_014 [Theodore]]
-Yes. On my honor, I'll make you[n]something worthwhile.
+S胤. En mi honor, te har姻 algo que merezca la pena.
 
 [msg MSG_015 [Junpei]]
-Tough equipment'd be a dream!
+斡Un equipamiento resistente ser胤a un sue隠o!
 
 [msg MSG_016 [Theodore]]
-Yes. On my honor, I'll make you[n]something worthwhile.
+S胤. En mi honor, te har姻 algo que merezca la pena.
 
 [msg MSG_017 [Yukari]]
-I don't know how I feel about bulky...
+No s姻 c吋mo tomarme lo de voluminoso...
 
 [msg MSG_018 [Theodore]]
-I'm merely referring to the strength of[n]the equipment.
-Rest assured, I guarantee you will all[n]be happy with both its effectiveness and[n]its design.
+Solo me estoy refiriendo a la fuerza del equipamiento.
+Estad tranquilos, os garantizo que estar茨n contentos tanto con su efectividad como con su dise隠o.
 
 [msg MSG_019 [Elizabeth]]
-Goodness, how dare you think you can use[n]the special screening for your own[n]gain...
-I've half a mind to tell you to impale[n]yourself where you stand...
-It seems that my worthless brother is[n]determined to have his head cut off.
+Cielos, c吋mo te atreves a pensar que puedes usar la proyecci吋n especial en tu propio beneficio...
+Tengo ganas de pedirte que te empales all胤 donde est茨s.
+Parece que mi in雨til hermano est茨 decidido a que le corten la cabeza.
 
 [msg MSG_020 [Theodore]]
-M-My head!?
-...Right. If you're willing to risk your[n]lives for the sake of these materials...
-Then I will do the same. Please lend me[n]your assistance.
+斡夷M-Mi cabeza?!
+... Cierto. Si est茨n dispuestos a arriesgar sus vidas por el bien de esos materiales...
+Entonces yo har姻 lo mismo. Por favor, prestadme vuestra ayuda.
 

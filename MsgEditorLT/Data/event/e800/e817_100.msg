@@ -1,102 +1,102 @@
 [msg MSG_000 [Elizabeth]]
-Bravo, bravo. My hat is off to your[n]investigational skills.
+Bravo, bravo. Me quito el sombrero ante vuestras habilidades de investigaci吋n.
 
 [msg MSG_001 [Junpei]]
-You really gave us a hard time, y'know.[n]It was tough figurin' it all out with[n]next to no info.
+Realmente nos hiciste pasar un mal rato. Fue dif胤cil imaginarse todo sin apenas informaci吋n.
 
 [msg MSG_001_1 [Junpei]]
-But the people of Kamo City can sleep[n]soundly tonight, thanks to me...
+Pero la gente de Kamo City podr茨 dormir tranquila esta noche, gracias a m胤...
 
 [sel SEL_002 top]
-Junpei, Ace Detective?
+夷Junpei, superdetective?
 ......
 
 [msg MSG_003 [Mitsuru]]
-...J-Junpei, Ace Detective...
+...J-Junpei, superdetective...
 
 [msg MSG_004 [Junpei]]
-Huh?
+夷Eh?
 
 [msg MSG_005 [Yukari]]
-What the...!?
+斡夷Qu姻...!?
 
 [msg MSG_006 [Mitsuru]]
-...I just had a feeling you were going[n]to say that.
+... Ten胤a el presentimiento de que ibas a decir eso.
 
 [sel SEL_007 top]
-That's thinking like Junpei.
-Are you feeling okay?
-That was beautiful...
+Eso es pensar como Junpei.
+夷Te encuentras bien?
+Eso ha sido bonito...
 
 [msg MSG_008 [Mitsuru]]
-Will you stop talking about it!?
+斡夷Puedes dejar de hablar sobre eso?!
 
 [msg MSG_009 [Mitsuru]]
-Y-You said I should try it, so I did...
+D-Dijiste que deber胤a probarlo, as胤 que lo hice...
 
 [msg MSG_010 [Mitsuru]]
-Don't act like it's so moving...!
+斡No act雨es como si fuera tan conmovedor...!
 
 [msg MSG_011 [Ryuji]]
-Well, we really only solved the case[n]because of all the info we got from the[n]people around town.
+Bueno, realmente solo hemos resuelto el caso gracias a toda la informaci吋n que hemos conseguido de la gente de alrededor.
 
 [msg MSG_012 [Ann]]
-I don't think they would've ever done[n]something like that before. They really[n]have changed.
+No creo que hubieran hecho nada parecido antes. Realmente han cambiado.
 
 [msg MSG_013 [Junpei]]
-Guess the most important thing is the[n]guy in charge. That's just the way of[n]the world.
+Supongo que lo m茨s importante es el que manda. As胤 es el mundo.
 
 [msg MSG_014 [Yukari]]
-Because you know so much about that...
+Porque sabes tanto sobre eso...
 
 [msg MSG_015 [Elizabeth]]
-Now then, here is your reward. Please[n]accept it.
+Ahora bien, aqu胤 est茨 tu recompensa. Por favor, ac姻ptala.
 
 [msg MSG_016 [Mitsuru]]
-Pardon me, but I'd like you to have[n]these.
+Perd吋name, pero me gustar胤a que tuvieras esto.
 
 [msg MSG_017 [Makoto]]
-Gloves?
+夷Guantes?
 
 [msg MSG_018 [Mitsuru]]
-They're motorcycle gloves. I wanted to[n]thank you for everything you did for me[n]this time around.
+Son guantes de moto. Quer胤a agradecerte todo lo que has hecho por m胤 esta vez.
 
 [msg MSG_019 [Makoto]]
-You don't need to thank me... Besides, I[n]don't even have my license yet.
+No necesitas agradec姻rmelo... Adem茨s, a雨n ni siquiera tengo el carnet.
 
 [msg MSG_020 [Mitsuru]]
-Really? After seeing your Persona, I[n]assumed...
+夷En serio? Despu姻s de ver tu Persona, supuse...
 
 [msg MSG_021 [Makoto]]
-I think it's just a representation of[n]how I feel.
+Creo que solo es una representaci吋n de c吋mo me siento.
 
 [msg MSG_021_1 [Makoto]]
-Responsibility, regulations... I just[n]want to throw all of those things away[n]and take off at full speed.
+Responsabilidad, normas... Yo solo quiero tirar todas esas cosas y despegar a toda velocidad.
 
 [msg MSG_022 [Mitsuru]]
-It seems we both carry a similar burden[n]after all.
+Parece que ambas tenemos una carga similar despu姻s de todo.
 
 [msg MSG_022_1 [Mitsuru]]
-I feel the same sense of freedom when[n]I'm riding my motorcycle.
+Tengo esa misma sensaci吋n de libertad cuando voy en moto...
 
 [msg MSG_022_2 [Mitsuru]]
-I won't force you to accept these[n]gloves, but...
+No quiero obligarte a aceptar estos guantes, pero...
 
 [msg MSG_022_3 [Mitsuru]]
-Seeing as you bear the same burden as[n]me, I want you to know that feeling of[n]the wind on your face someday.
+Viendo que llevas la misma carga que yo, quiero que alg雨n d胤a conozcas esa sensaci吋n del viento en la cara.
 
 [msg MSG_023 [Makoto]]
-Kirijo-san...
+Kirijo...
 
 [msg MSG_023_1 [Makoto]]
-Thank you. What do you say we both take[n]our bikes out somewhere, once I get my[n]license?
+Gracias. 夷Qu姻 te parece si ambas vamos en moto a alg雨n sitio cuando me saque mi carnet?
 
 [msg MSG_024 [Mitsuru]]
-Of course. Once we're back in the real[n]world...
+Por supuesto. Una vez que volvamos al mundo real...
 
 [msg MSG_024_1 [Mitsuru]]
-Let's ride together, full throttle!
+Montemos juntas, 斡a todo gas!
 
 [msg MSG_025 [Makoto]]
-Yeah, that's a promise!
+S胤, 斡es una promesa!
 

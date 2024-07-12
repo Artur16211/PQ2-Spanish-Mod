@@ -1,30 +1,30 @@
 [msg MSG_000 [P3 Fem Protag]]
-That's number three! Just one more to[n]go!
+斡Ese es el tercero! 斡Ya solo queda uno!
 
 [msg MSG_001 [Akihiko]]
-All right, I'm all warmed up. Let's end[n]it!
+Muy bien, ya he calentado. 斡Acabemos con esto!
 
 [msg MSG_002 [Mitsuru]]
-This is beginning to feel like[n]training...
+Esto est茨 empezando a sentirse como un entrenamiento...
 
 [msg MSG_003 [P3 Fem Protag]]
-*giggle* It is, isn't it?
-But thanks to both Shinjiro-senpai and[n]Akihiko-senpai, this screening has been[n]almost effortless!
+*risita* 夷Lo es, no?
+Pero gracias a Shinjiro y Akihiko, 斡no nos hemos tenido que esforzar mucho!
 
 [msg MSG_004 [Mitsuru]]
-That's all thanks to your idea. I[n]greatly appreciate it.
-Hm... So you're the leader over in your[n]world, are you, [f 6 1 26 0 0 0]...?
-I think I know why now.
+Todo es gracias a tu idea. Te lo agradezco enormemente.
+Hm... 夷Entonces t雨 eres la l胤der en tu mundo, verdad, [f 6 1 26 0 0 0]...?
+Creo que ahora entiendo por qu姻.
 
 [msg MSG_005 [P3 Fem Protag]]
-Mitsuru-senpai...
+Mitsuru...
 
 [msg MSG_006 [Akihiko]]
-Number four's waiting for us! Get ready!
+斡Nos espera el cuarto! 斡Preparaos!
 
 [msg MSG_007 [P3 Fem Protag]]
-Oh, right! Coming!
+斡Ah, s胤! 斡Ya voy!
 
 [msg MSG_008 [Mitsuru]]
-*sigh* Let's go, then.
+*suspiro* Vamos, entonces.
 
