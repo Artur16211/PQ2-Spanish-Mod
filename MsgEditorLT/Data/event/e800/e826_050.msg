@@ -1,69 +1,69 @@
 [msg MSG_000 [Futaba]]
-We'll save a lot of time if we cut[n]through here. Only thing is...
+Ahorraremos mucho tiempo si atajamos por aqu胤. Lo 雨nico es que...
 
 [msg MSG_001 [Koromaru]]
 Grrr...
 
 [msg MSG_002 [Ann]]
-Koro-chan looks tense...
+Koro parece tenso...
 
 [msg MSG_003 [Teddie]]
-My nose itches. This smell must be...
+Me pica la nariz. Ese olor debe de ser...
 
 [msg MSG_004 [Morgana]]
-Yeah, it's an FOE. My whiskers have been[n]on edge for a while now.
+S胤, es un FOE. Tengo los bigotes de punta desde hace un rato.
 
 [msg MSG_005 [Kanji]]
-Wow, their senses are somethin' else...
+Wow, sus sentidos son algo m茨s...
 
 [msg MSG_006 [Teddie]]
-Hmph, what's another FOE at this point!?[n]We'll just tip-toe around it!
-Ready or not, here comes Teddie!
+Hmph, 夷斡qu姻 hay otro FOE a estas alturas?! 斡Pasaremos de puntillas!
+斡Listo o no, aqu胤 viene Teddie!
 
 [msg MSG_007 [Fuuka]]
-W-Wait!
+斡E-Espera!
 
 [msg MSG_008 [Teddie]]
-Huh?
+夷Eh?
 
 [msg MSG_009 [Fuuka]]
-The path up ahead is actually quite[n]narrow. There's not enough space to go[n]around.
+El camino es bastante estrecho. No hay suficiente espacio para rodearlo.
 
 [msg MSG_010 [Futaba]]
-Yeah, that thing's not letting anyone[n]through.
-If we wanna take this shortcut, we're[n]gonna have to fight.
+S胤, por ah胤 no puede pasar nadie.
+Si queremos tomar este atajo, tendremos que pelear.
 
 [msg MSG_011 [Mitsuru]]
-That's a difficult choice to make.[n]Passing through here would shorten our[n]trip considerably.
+Es una elecci吋n dif胤cil. Pasar por aqu胤 acortar胤a nuestro viaje considerablemente.
 
 [msg MSG_012 [Futaba]]
-Well, at our current strength, it's not[n]exactly invincible.
-So, what's the plan, Joker?
+Bueno, con nuestra fuerza actual, no es exactamente invencible.
+As胤 que, 夷cu茨l es el plan, Joker?
 
 [sel SEL_013 top]
-We're going in.
-Let's turn back.
-Let me think.
+Vamos all茨.
+Volvamos.
+D姻jame pensarlo.
 
 [msg MSG_014 [Teddie]]
-Wow, you're just as crazy as Sensei.
+Wow, est茨s casi tan loco como Maestro.
 
 [msg MSG_015 [Morgana]]
-You gonna do it, Joker?
-Heh, okay then, I'm with you.
+夷Vas a hacerlo, Joker?
+Je, de acuerdo, entonces estoy contigo.
 
 [msg MSG_016 [Ann]]
-Then, let's go!
+Entonces, 斡vamos!
 
 [msg MSG_017 [Teddie]]
-Oh, we're not gonna go for it?
+Oh, 夷no vamos a ir?
 
 [msg MSG_018 [Morgana]]
-There're other paths we can take. No[n]need for any unnecessary risks here.
+Hay otros caminos que podemos tomar. No hay necesidad de arriesgarse innecesariamente.
 
 [msg MSG_019 [Ann]]
-Then, do you want to head back?
+Entonces, 夷quieres volver?
 
 [msg MSG_020 [Morgana]]
-Sure, pick whichever seems easier to[n]you. I'm with you, no matter what!
+Claro, elige el que te parezca m茨s sencillo. 斡Estoy contigo pase lo que pase!
 

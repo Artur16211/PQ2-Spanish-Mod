@@ -58,5 +58,5 @@ Oh. Bueno, podemos seguir con esto la pr吋xima vez que estemos en A.I.G.I.S., o
 斡Espera! 斡No me dej姻is aqu胤!
 
 [msg MSG_018]
-Una nueva proyecci吋n especial: "Investigate A.I.G.I.S.!" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "斡Investiga A.I.G.I.S.!" ha sido a隠adida a la taquilla.
 

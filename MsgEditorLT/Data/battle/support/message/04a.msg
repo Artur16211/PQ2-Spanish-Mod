@@ -2,7 +2,7 @@
 Dummy
 
 [msg BTL_MES_026_001]
-No te preocupes. Esto deber胤a ser[n]f茨cil para ti...
+No te preocupes. Esto deber胤a ser f茨cil para ti...
 
 [msg BTL_MES_026_002]
 斡Es hora de la batalla!
@@ -11,52 +11,52 @@ No te preocupes. Esto deber胤a ser[n]f茨cil para ti...
 Oh... Dios m胤o...
 
 [msg BTL_MES_026_004]
-Te recomiendo que te retires de[n]inmediato.
+Recomiendo que te retires de inmediato.
 
 [msg BTL_MES_026_005]
-S胤, es un FOE. De todas formas...
+Mmm... S胤, es un FOE. Pero...
 
 [msg BTL_MES_026_006]
-つれろぺ らぺるまぼま ゆゎを ぽまみまょれもわぺテ ねまぼまれもろぺるァれ[n]ぺゅむグょ ゆまぽもよ らぺるぺ ぺろるぺわまれぺるゅよテ
+Esta parece muy defensiva. Necesitar茨s alguna forma de atravesarlo.
 
 [msg BTL_MES_026_007]
-つゅ まょまゆもむよ ろもまょま ゎょぺ めぺほもゅもぽぺぽ らよぽまるよれぺテ[n]はゎまぽま りゎま ゅよ ゆまゃよる れまぺ ぽまみまょぽまるれまテ
+El enemigo tiene una habilidad poderosa. Puede que lo mejor sea defenderse.
 
 [msg BTL_MES_026_008]
-つれろま まょまゆもむよ ぽまれろぺぼぺ まょ ぺろぺりゎまれ みウれもぼよれテ[n]はよる みぺわよるデ ろまょ まれろよ まょ ゆまょろまテ
+Este enemigo destaca en ataques f胤sicos. Por favor, recu姻rdalo.
 
 [msg BTL_MES_026_009]
-Este enemigo se destaca en ataques[n]m茨gicos. Por favor, ten cuidado.
+Este enemigo destaca en ataques m茨gicos. Por favor, ten cuidado.
 
 [msg BTL_MES_026_010]
-Este enemigo parece desatarse cuando[n]est茨 herido. 斡Elim胤nalo r茨pido!
+Este enemigo parece desatarse cuando est茨 herido. 斡Elim胤nalo r茨pido!
 
 [msg BTL_MES_026_011]
-斡Pongan atenci吋n! 斡Es una rara entre[n]las raras!
+斡Pongan atenci吋n! 斡Es una rara entre las raras!
 
 [msg BTL_MES_026_012]
-Ser胤a bastante vergonzoso si dejaras[n]escapar a este...
+Ser胤a vergonzoso si dejaras escapar a esta...
 
 [msg BTL_MES_026_013]
-夷Qu姻 es esto? Estoy sintiendo una[n]extraordinaria presencia cerca...
+夷Qu姻 es esto...? Siento una extraordinaria presencia cerca...
 
 [msg BTL_MES_026_014]
-Oh... Pensar que Theo terminar胤a[n]explic茨ndolo todo...
+Oh... Pensar que Theo terminar胤a explic茨ndolo todo...
 
 [msg BTL_MES_026_015]
-Parece que este enemigo realiza un[n]ataque en 茨rea.
+Parece que este enemigo realiza un ataque en 茨rea.
 
 [msg BTL_MES_026_016]
-Estoy segura de que protegerte a[n]tiempo te ayudar茨 a resistir...
+Estoy segura de que protegerte a tiempo te ayudar茨 a resistir...
 
 [msg BTL_MES_026_017]
-Una de estas puede usar muerte[n]instant茨nea... No importa.
+Una tiene ataques de muerte instant茨nea... No importa.
 
 [msg BTL_MES_026_018]
-Todo lo que podemos hacer ahora es[n]rezar por que no funcione...
+Todo lo que podemos hacer es rezar por que no funcione...
 
 [msg BTL_MES_026_019]
-Parece que los ataques de afinidad no[n]funcionar茨n.
+Parece que los ataques de afinidad no funcionar茨n.
 
 [msg BTL_MES_026_020]
 Es un enemigo impertinente.
@@ -65,28 +65,28 @@ Es un enemigo impertinente.
 Ataque enooorme inminente.
 
 [msg BTL_MES_026_022]
-Puedes demostrar tu hombr胤a atrayendo[n]los ataques del enemigo hacia ti.
+Puedes demostrar tu hombr胤a atrayendo los ataques del enemigo hacia ti.
 
 [msg BTL_MES_026_023]
-Vaya... Este deber胤a ser bastante[n]f茨cil...
+Oh... Este deber胤a ser bastante f茨cil...
 
 [msg BTL_MES_026_024]
-S胤, deber胤a ofrecer una excelente[n]pelea.
+S胤, deber胤a ofrecerte una excelente pelea.
 
 [msg BTL_MES_026_025]
 夷Eh...? Todav胤a no conocemos a esta.
 
 [msg BTL_MES_026_026]
-Bueno, 夷por qu姻 no darle la[n]bienvenida con un ataque de afinidad?
+Bueno, 夷por qu姻 no darle la bienvenida con un ataque de afinidad?
 
 [msg BTL_MES_026_027]
-Este parece ser un oponente a la[n]altura.
+Este parece ser un oponente a la altura.
 
 [msg BTL_MES_026_028]
-はぺるまぼま まれろぺる ぺ ろゎ ょもわまゅテ はよる ゅよ ろぺょろよデ まれ[n]ゎょ よらよょまょろま ほぺれろぺょろま ぺぽまぼゎぺぽよテ
+Parece de tu nivel. Un oponente bastante adecuado.
 
 [msg BTL_MES_026_029]
-Bueno, esta sin duda ser茨 f茨cil!
+斡Bueno, esta sin duda ser茨 f茨cil!
 
 [msg BTL_MES_026_030]
 S胤. Nos tomar茨 unos tres segundos.
@@ -95,31 +95,31 @@ S胤. Nos tomar茨 unos tres segundos.
 Oh... Parece que algo cambi吋...
 
 [msg BTL_MES_026_032]
-Creo quees el momento de atacar su[n]debilidad.
+Creo que es el momento de atacar su debilidad.
 
 [msg BTL_MES_026_033]
-Ding-dong-ding-dong. Tengo malas[n]noticias para ti...
+Ding-dong-ding-dong. Tengo malas noticias para ti...
 
 [msg BTL_MES_026_034]
-S胤, todo esto es por culpa de mi[n]indigno hermano, Theo.
+S胤, todo esto es por culpa de mi indigno hermano, Theo.
 
 [msg BTL_MES_026_035]
-Dear me, dear me...
+...
 
 [msg BTL_MES_026_036]
-Un FOE se ha unido a la batalla.
+Un FOE se uni吋 a la batalla.
 
 [msg BTL_MES_026_037]
-Alguien de tu grupo parece estar en[n]problemas... 夷Estar茨n bien?
+Alguien de tu grupo parece estar en problemas... 夷Estar茨n bien?
 
 [msg BTL_MES_026_038]
-Alguien est茨 en grave peligro... Ser茨[n]mejor ayudarlos.
+Alguien est茨 en grave peligro... Ser茨 mejor ayudar.
 
 [msg BTL_MES_026_039]
-Oh... Yosuke est茨 en un estado[n]lamentable.
+Oh... Yosuke est茨 en un estado lamentable.
 
 [msg BTL_MES_026_040]
-Oh di... Parece que Chie est茨 al[n]l胤mite.
+Oh di... Parece que Chie est茨 en su l胤mite.
 
 [msg BTL_MES_026_041]
 夷Yukiko est茨 bien?
@@ -128,55 +128,55 @@ Oh di... Parece que Chie est茨 al[n]l胤mite.
 Dummy
 
 [msg BTL_MES_026_043]
-Kanji est茨 cerca de conocer a su[n]creador.
+Kanji est茨 a punto de conocer a su creador.
 
 [msg BTL_MES_026_044]
-Naoto parece un muerto viviente...
+Naoto parece una muerta viviente...
 
 [msg BTL_MES_026_045]
-夷Oh? Teddie parece estar a[n]cent胤metros de la muerte...
+夷Eh? Teddie parece estar a cent胤metros de la muerte...
 
 [msg BTL_MES_026_046]
-Yukari... Apenas puede mantenerse de[n]pie.
+Yukari... Apenas puede mantenerse de pie.
 
 [msg BTL_MES_026_047]
-Si descuidan a Junpei, ser茨 su[n]perdici吋n...
+Si descuidan a Junpei, ser茨 su perdici吋n...
 
 [msg BTL_MES_026_048]
-Akihiko... Tu cara parece m茨s blanca[n]de lo habitual...
+Akihiko... Tu cara parece m茨s blanca de lo habitual...
 
 [msg BTL_MES_026_049]
-Oh, di... La salud de Mitsuru es roja[n]brillante.
+Oh, di... La salud de Mitsuru es roja brillante.
 
 [msg BTL_MES_026_050]
 Dummy
 
 [msg BTL_MES_026_051]
-夷Est茨 bien Aigis?
+夷Est茨s bien Aigis?
 
 [msg BTL_MES_026_052]
-斡Por favor observen la salud de Ken!
+斡Por favor vigilen la salud de Ken!
 
 [msg BTL_MES_026_053]
-Koromaru parece estar sufriendo...[n]Estoy muy preocupada por 姻l.
+Koromaru parece sufrir... Estoy muy preocupada por 姻l.
 
 [msg BTL_MES_026_054]
-Shinjiro puede parecer tranquilo,[n]pero creo que est茨 en problemas...
+Shinjiro puede parecer tranquilo, pero creo que est茨 en problemas...
 
 [msg BTL_MES_026_055]
-Oh di... Parece que alguien necesita[n]ayuda...
+Oh di... Parece que alguien necesita ayuda...
 
 [msg BTL_MES_026_056]
-Por favor, ten cuidado con tu salud.[n]Est茨s al borde de la muerte.
+Por favor, cuida tu salud. Est茨s al borde de la muerte.
 
 [msg BTL_MES_026_057]
-Parece que Skull est茨 en peligro... A[n]este ritmo, caer茨 pronto.
+Parece que Skull est茨 en peligro... A este ritmo, caer茨 pronto.
 
 [msg BTL_MES_026_058]
-夷Est茨s bien Panther? Parece estar a[n]punto de caer de cara.
+夷Est茨s bien Panther...? Parece estar a punto de caer de cara.
 
 [msg BTL_MES_026_059]
-Mona... Estabas tan lleno de energ胤a[n]hace un momento...
+Mona... Estabas tan lleno de energ胤a hace un momento...
 
 [msg BTL_MES_026_060]
 Fox se ve bastante p茨lido...
@@ -191,7 +191,7 @@ Dummy
 Noir no llegar茨 muy lejos...
 
 [msg BTL_MES_026_064]
-Crow... 夷Podr茨s soportar un poco m茨s?
+Crow... 夷Puedes soportar un poco m茨s?
 
 [msg BTL_MES_026_065]
 夷Por qu姻 no priorizas la curaci吋n?
@@ -203,10 +203,10 @@ Oh... Veo una estatua...
 Parece que alguien ha sido maldecido.
 
 [msg BTL_MES_026_068]
-夷Eh...? Parece que han sido[n]envenenados.
+夷Eh...? Parece que han sido envenenados.
 
 [msg BTL_MES_026_069]
-Oh... No podr茨s despertarlos tan[n]f茨cilmente.
+Oh... No podr茨s despertarlos tan f茨cilmente.
 
 [msg BTL_MES_026_070]
 Parece que alguien est茨 confundido.
@@ -218,145 +218,145 @@ Oh Di... Te han paralizado
 Parece que... est茨n aturdidos.
 
 [msg BTL_MES_026_073]
-Oh... Su magia est茨 limitada...
+Oh... Su magia fue atada...
 
 [msg BTL_MES_026_074]
-Por favor, ten cuidado. Tu fuerza[n]est茨 limitada.
+Por favor, ten cuidado. Tu fuerza est茨 atada.
 
 [msg BTL_MES_026_075]
-Tu agilidad ha sido reducida...
+Tu agilidad ha sido atada...
 
 [msg BTL_MES_026_076]
-Si tienes una forma curar esto, hazlo[n]sin dudar.
+Si tienes una forma curar, hazlo sin dudar.
 
 [msg BTL_MES_026_077]
 夷Es d姻bil a lo f胤sico...? Tr茨gico.
 
 [msg BTL_MES_026_078]
-ぴょよ ぽま まれろよれ まょまゆもむよれ まれ ぽイほもゅ ぺゅ みゎまむよテ[n]エはよる りゎイ ょよ ぽぺるゅま ゎょぺ ほゎまょぺ ろよれろぺぽぺ?
+Uno de los enemigos es d姻bil al fuego. 夷Por qu姻 no darle una buena tostada?
 
 [msg BTL_MES_026_079]
-Parece que al enemigo le disgusta el[n]fr胤o.
+Parece que al enemigo le disgusta el fr胤o.
 
 [msg BTL_MES_026_080]
-Uno de estos enemigos es d姻bil al[n]viento...
+Uno de los enemigos es d姻bil al Viento...
 
 [msg BTL_MES_026_081]
-ぴょよ ぽま まゅゅよれ まれ ぽイほもゅ ぺ ゅぺ つゅまぼろるもぼもぽぺぽテ[n]エはゎまぽよ れゎむまるもる ゎょ ほゎまょ れめよぼや?
+Uno de ellos es d姻bil a la Electricidad. 夷Puedo sugerir un buen shock?
 
 [msg BTL_MES_026_082]
-夷Oh...? El enemigo parece ser d姻bil[n]al Nuclear...
+夷Oh...? El enemigo parece ser d姻bil a lo Nuclear...
 
 [msg BTL_MES_026_083]
-エびもまょまれ ぺゅむゎょぺ めぺほもゅもぽぺぽ ぽま られもぼよりゎもょまれもれ?[n]はゎまぽま れまる まゅ ゆまゃよる ゆよゆまょろよ らぺるぺ ゎれぺるゅぺテテテ
+夷Tienes alguna habilidad de psicoquinesis? Quiz茨 sea el mejor momento para usarla...
 
 [msg BTL_MES_026_084]
-Pensar que es d姻bil a la Bendici吋n...[n]斡Esto merece una celebraci吋n!
+Y pensar que es d姻bil a la Bendici吋n... 斡Esto merece una celebraci吋n!
 
 [msg BTL_MES_026_085]
-Uno de estos es d姻bil a la maldici吋n.[n]夷Qu姻 tal una maldici吋n o dos?
+Uno es d姻bil a la maldici吋n. 夷Qu姻 tal una maldici吋n o dos?
 
 [msg BTL_MES_026_086]
-El enemigo... Parece ser d姻bil a los[n]ataques f胤sicos.
+El enemigo... Parece d姻bil a los ataques f胤sicos.
 
 [msg BTL_MES_026_087]
-夷Puedo sugerir incinerar a uno de[n]estos enemigos?
+夷Puedo sugerir incinerar a uno?
 
 [msg BTL_MES_026_088]
-Uno de estos enemigos es d姻bil al[n]Hielo.
+Uno es d姻bil al Hielo.
 
 [msg BTL_MES_026_089]
-Si quieres atacar su debilidad,[n]sugerir胤a usar Viento.
+Si quieres atacar su debilidad, sugerir胤a usar Viento.
 
 [msg BTL_MES_026_090]
-Este enemigo... La electricidad puede[n]ser la clave.
+Este enemigo... La electricidad podr胤a ser la clave.
 
 [msg BTL_MES_026_091]
-夷Hm? 夷Quieres golpear su debilidad?[n]夷Puedo sugerir tipo Nuclear?
+夷Mm? 夷Quieres golpear su debilidad? 夷Puedo sugerir tipo Nuclear?
 
 [msg BTL_MES_026_092]
-La afinidad de la Psicokinesis puede[n]darte la ventaja...
+La afinidad de Psicoquinesis puede darte ventaja...
 
 [msg BTL_MES_026_093]
-Este enemigo... Parece ser d姻bil a la[n]Bendici吋n...
+Este enemigo... Parece ser d姻bil a la Bendici吋n...
 
 [msg BTL_MES_026_094]
-Uno de estos enemigos es d姻bil a la[n]maldici吋n. L茨nzale una maldici吋n.
+Uno de estos enemigos es d姻bil a la maldici吋n. L茨nzale una maldici吋n.
 
 [msg BTL_MES_026_095]
-...Entonces, solo hay una manera de[n]hacer esto.
+...Entonces, solo hay una manera de hacerlo.
 
 [msg BTL_MES_026_096]
 夷Qui姻n har茨 el primer movimiento?
 
 [msg BTL_MES_026_097]
-斡Ese es nuestro Yosuke! 斡Vamos,[n]vamos!
+斡Ese es nuestro Yosuke! 斡Vamos, vamos!
 
 [msg BTL_MES_026_098]
-Ah... Si tan solo Chie estuviera aqu胤[n]en este momento... *Mirada*
+Ah... Si tan solo Chie estuviera aqu胤 en este momento... *mirada*
 
 [msg BTL_MES_026_099]
-Yukiko... Te estoy mirando.
+Yukiko... Te estoy viendo.
 
 [msg BTL_MES_026_100]
 Dummy
 
 [msg BTL_MES_026_101]
-Kanji, 夷cu茨ndo vas a actuar si no[n]act雨as ahora?
+Kanji, 夷cu茨ndo vas a actuar si no act雨as ahora?
 
 [msg BTL_MES_026_102]
-ィつれろよを れまむゎるぺ ぽま りゎま ねぺよろよ まれろぺるァ らよる[n]まょぼもゆぺ を ゆァれ ぺゅゅァ ぽま ゅぺれ まゑらまぼろぺろもわぺれ!
+斡Estoy segura de que Naoto estar茨 por encima de las expectativas!
 
 [msg BTL_MES_026_103]
-Vamos, Teddie, 斡vamos! Si t雨 no[n]puedes hacerlo, 斡nadie puede!
+Vamos, Teddie, 斡vamos! Si t雨 no puedes, 斡nadie puede!
 
 [msg BTL_MES_026_104]
-Estoy segura de que cumplir茨s las[n]expectativas, Yukari.
+Estoy segura de que cumplir茨s las expectativas, Yukari.
 
 [msg BTL_MES_026_105]
-ひも るまぺゅゆまょろま まるまれ まゅ ゆゎょぽもぺゅゆまょろま ぼよょよぼもぽよ[n]どゎょらまもデ エまれろぺるァれ ほもまょデ わまるぽぺぽ?
+Si realmente eres el mundialmente conocido Junpei, 夷estar茨s bien, verdad?
 
 [msg BTL_MES_026_106]
-Estoy segura de que Akihiko dar茨[n]buenos resultados...
+Estoy segura de que Akihiko dar茨 buenos resultados...
 
 [msg BTL_MES_026_107]
-Creo que esta es la especialidad de[n]Mitsuru...
+Creo que esta es la especialidad de Mitsuru...
 
 [msg BTL_MES_026_108]
 Dummy
 
 [msg BTL_MES_026_109]
-...Espero que hayas captado eso,[n]Aigis.
+...Espero que hayas grabado eso, Aigis.
 
 [msg BTL_MES_026_110]
-斡Es tu momento de brillar, Ken![n]斡Adelante!
+斡Es tu momento de brillar, Ken! 斡Vamos!
 
 [msg BTL_MES_026_111]
-Mu姻stranos la verdadera bestia que[n]llevas dentro, Koromaru.
+Mu姻stranos la verdadera bestia que llevas dentro, Koromaru.
 
 [msg BTL_MES_026_112]
-Estoy segura de que Shinjiro puede[n]con esto.
+Estoy segura de que Shinjiro puede con esto.
 
 [msg BTL_MES_026_113]
-Bueno, entonces, 斡dale con todo lo[n]que tengas! 斡Adelante!
+Bueno, entonces, 斡dale con todo lo que tengas! 斡Vamos!
 
 [msg BTL_MES_026_114]
-Bueno, entonces, 斡es hora de que te[n]sueltes contra el enemigo!
+斡Entonces, es hora de que te desates contra el enemigo!
 
 [msg BTL_MES_026_115]
 斡Vamos, Skull! Tu turno.
 
 [msg BTL_MES_026_116]
-斡Tengo grandes expectativas de ti,[n]Panther! 斡Ve a por un gran golpe!
+斡Tengo grandes expectativas de ti, Panther! 斡Ve a por un gran golpe!
 
 [msg BTL_MES_026_117]
-斡Adelante con confianza, Mona![n]斡Adelante!
+斡Con confianza, Mona! 斡Vamos!
 
 [msg BTL_MES_026_118]
-Perdona... pero creo que este es tu[n]momento, Fox.
+Perdona... pero creo que es tu momento, Fox.
 
 [msg BTL_MES_026_119]
-Ah... puedo ver a Queen acabando[n]r茨pidamente con esto.
+Ah... puedo ver a Queen acabando r茨pido con esto.
 
 [msg BTL_MES_026_120]
 Dummy
@@ -365,124 +365,124 @@ Dummy
 Noir, 斡Es tu momento de atacar!
 
 [msg BTL_MES_026_122]
-夷Qu姻 dices, Crow? 斡Vamos, ahora! 斡Ve,[n]ve, ve!
+夷Qu姻 dices, Crow? 斡Vamos, ahora! 斡Ve, ve, ve!
 
 [msg BTL_MES_026_123]
-Solo mirar est茨 empezando a[n]aburrirme...
+Solo mirar est茨 empezando a aburrirme...
 
 [msg BTL_MES_026_124]
-Uf... Dejo el resto en tus manos,[n]Theo.
+Uf... Dejo el resto en tus manos, Theo.
 
 [msg BTL_MES_026_125]
-S胤, t吋mate tu tiempo con este.
+S胤, t吋mate tu tiempo con esta.
 
 [msg BTL_MES_026_126]
 Te cuidar姻 con todo mi coraz吋n.
 
 [msg BTL_MES_026_127]
-夷Por qu姻 no probar un Relevo?
+夷Por qu姻 no pruebas un Relevo?
 
 [msg BTL_MES_026_128]
-En un momento como este, nos vendr胤a[n]bien 夷Un relevo... o algo as胤?
+En un momento como este, nos vendr胤a bien 夷Un relevo... o algo as胤?
 
 [msg BTL_MES_026_129]
-Como se suele decir, 斡un impulso[n]incre胤ble!
+Como se suele decir, 斡un boost incre胤ble!
 
 [msg BTL_MES_026_130]
 夷Oh...? 斡Has obtenido un Boost!
 
 [msg BTL_MES_026_131]
-Yosuke puede ser 雨til aqu胤...[n]Quiz茨s...
+Yosuke puede ser 雨til aqu胤... Tal vez...
 
 [msg BTL_MES_026_132]
 Ah... Chie se ve bastante genial...
 
 [msg BTL_MES_026_133]
-Ciertamente pareces motivada, Yukiko.
+Pareces motivada, Yukiko.
 
 [msg BTL_MES_026_134]
 Dummy
 
 [msg BTL_MES_026_135]
-Vaya... Kanji se ve bastante seguro[n]con su boost.
+Vaya... Kanji se ve bastante seguro con su boost.
 
 [msg BTL_MES_026_136]
 Excelente boost, Naoto.
 
 [msg BTL_MES_026_137]
-夷Eh...? Teddie parece haber sido[n]boosteado.
+夷Eh...? Teddie parece haber sido boosteado.
 
 [msg BTL_MES_026_138]
-Yukari parece estar fluyendo con m茨s[n]energ胤a de lo habitual...
+Yukari parece estar con m茨s energ胤a de lo habitual...
 
 [msg BTL_MES_026_139]
-Junpei est茨 boosteado. Este es su[n]momento.
+Junpei est茨 boosteado. Este es su momento.
 
 [msg BTL_MES_026_140]
-Presta atenci吋n a Akihiko. Parece que[n]est茨 a toda velocidad.
+Presta atenci吋n a Akihiko. Parece estar a toda velocidad.
 
 [msg BTL_MES_026_141]
-Mitsuru est茨 en ejecuci吋n, quiero[n]decir... ha ganado un boost.
+Mitsuru est茨 en modo ejecuci吋n, digo... ha obtenido un boost.
 
 [msg BTL_MES_026_142]
 Dummy
 
 [msg BTL_MES_026_143]
-Aigis est茨 en modo boost. Por favor,[n]no te arriesgues...
+Aigis est茨 en modo boost. Por favor, no te arriesgues...
 
 [msg BTL_MES_026_144]
 Ken est茨 completamente boosteado.
 
 [msg BTL_MES_026_145]
-Parece que Koromaru ha desatado su[n]lado salvaje!
+斡Parece que Koromaru ha desatado su lado salvaje!
 
 [msg BTL_MES_026_146]
-Vaya, vaya, incre胤ble boost,[n]Shinjiro.
+Vaya, vaya, incre胤ble boost, Shinjiro.
 
 [msg BTL_MES_026_147]
-Por favor, observa a tu grupo.[n]Alguien ha obtenido un boost.
+Por favor, mira. Alguien ha obtenido un boost.
 
 [msg BTL_MES_026_148]
-Veo a alguien en Boost.
+Veo a alguien boosteado.
 
 [msg BTL_MES_026_149]
-Skull brilla a雨n m茨s que de[n]costumbre.
+Skull brilla m茨s que de costumbre.
 
 [msg BTL_MES_026_150]
-Un Boost incre胤ble, Panther.
+Un boost incre胤ble, Panther.
 
 [msg BTL_MES_026_151]
 Mona parece muy emocionado...
 
 [msg BTL_MES_026_152]
-Vaya, Fox... definitivamente est茨s[n]emocionado.
+Vaya, Fox... definitivamente est茨s emocionado.
 
 [msg BTL_MES_026_153]
-ィばゎままょ まれろァ まょ ゅゅぺゆぺれ! ちゎまょよデ ょよ[n]ゅもろまるぺゅゆまょろまデ りゎもまるよ ぽまぼもる りゎま ィめぺ れもぽよ[n]ほよよれろまぺぽぺ!
+斡Queen est茨 en llamas! Bueno, no literalmente, quise decir, 斡ha sido boosteada!
 
 [msg BTL_MES_026_154]
 Dummy
 
 [msg BTL_MES_026_155]
-夷Oh...? Noir se ve un poco m茨s[n]brillante de lo habitual.
+夷Oh...? Noir se ve un poco m茨s brillante de lo habitual.
 
 [msg BTL_MES_026_156]
 Crow ha obtenido un boost.
 
 [msg BTL_MES_026_157]
-斡Continuemos apuntando a sus[n]debilidades!
+斡Continuemos apuntando a sus debilidades!
 
 [msg BTL_MES_026_158]
-Adem茨s, podemos apuntar a sus[n]debilidades... Vaya...
+Adem茨s, podemos atacar sus debilidades...
 
 [msg BTL_MES_026_159]
-Estoy completamente listo para[n]apoyarte.
+Estoy completamente lista para apoyarte.
 
 [msg BTL_MES_026_160]
-S姻 que ya lo sabes... pero puedo[n]apoyarte cuando lo necesites.
+S姻 que ya lo sabes... pero puedo apoyarte cuando lo necesites.
 
 [msg BTL_MES_026_161]
-Es un enemigo bastante poderoso. Ten[n]cuidado.
+Es un enemigo bastante poderoso. Ten cuidado.
 
 [msg BTL_MES_026_162]
 斡Hermana! 斡Es un enemigo poderoso!
@@ -491,25 +491,25 @@ Es un enemigo bastante poderoso. Ten[n]cuidado.
 夷Un FOE? Esto no se ve bien...
 
 [msg BTL_MES_026_164]
-斡Es un FOE! 斡Por favor retrocede[n]inmediatamente!
+斡Es un FOE! 斡Por favor retrocede inmediatamente!
 
 [msg BTL_MES_026_165]
-Este FOE... Ahora puedes tener una[n]oportunidad...
+Este FOE... Ahora puedes tener una oportunidad...
 
 [msg BTL_MES_026_166]
-Este enemigo se destaca en defensa.[n]Planea tus ataques cuidadosamente.
+Este enemigo se destaca en defensa. Planea tus ataques cuidadosamente.
 
 [msg BTL_MES_026_167]
-はぺるまぼま りゎま まれろま まょまゆもむよ ろもまょま ゎょ ぺろぺりゎま[n]らよぽまるよれよテ はよる みぺわよるデ ろまょ ぼゎもぽぺぽよテ
+Parece que este enemigo tiene un ataque poderoso. Por favor, ten cuidado.
 
 [msg BTL_MES_026_168]
-つゅ まょまゆもむよ ぽまれろぺぼぺ まょ ぺろぺりゎまれ みウれもぼよれテ[n]はるまれろぺ ぺろまょぼもカょ ぺ れゎ ゆよわもゆもまょろよテ
+El enemigo destaca en ataques f胤sicos. Presta atenci吋n a su movimiento.
 
 [msg BTL_MES_026_169]
-El enemigo destaca en ataques[n]m茨gicos. Cuida tu salud.
+El enemigo destaca en ataques m茨gicos. Cuida tu salud.
 
 [msg BTL_MES_026_170]
-Este se vuelve m茨s fuerte cuando se[n]debilita. Elim胤nalo r茨pido.
+Este se vuelve m茨s fuerte cuando se debilita. Elim胤nalo r茨pido.
 
 [msg BTL_MES_026_171]
 斡Mira! 斡Es una Sombra rara!
@@ -518,28 +518,28 @@ Este se vuelve m茨s fuerte cuando se[n]debilita. Elim胤nalo r茨pido.
 斡No desperdiciemos esta oportunidad!
 
 [msg BTL_MES_026_173]
-斡Tengan cuidado! 斡El enemigo puede[n]golpear a todo el grupo a la vez!
+斡Tengan cuidado! 斡El enemigo puede golpear a todo el grupo a la vez!
 
 [msg BTL_MES_026_174]
-Parece que el enemigo puede golpear a[n]todo el grupo a la vez.
+Parece que el enemigo puede golpear a todo el grupo a la vez.
 
 [msg BTL_MES_026_175]
-Este enemigo es capaz de realizar un[n]ataque de 茨rea...
+Este enemigo es capaz de realizar un ataque de 茨rea...
 
 [msg BTL_MES_026_176]
 Por favor, aseg雨rense de protegerse.
 
 [msg BTL_MES_026_177]
-斡Uno de estos enemigos puede realizar[n]un ataque de muerte instant茨nea!
+斡Uno de estos enemigos puede realizar un ataque de muerte instant茨nea!
 
 [msg BTL_MES_026_178]
-No, sigue siendo peligroso... 夷A[n]menos que tengas alg雨n plan?
+No, sigue siendo peligroso... 夷A menos que tengas alg雨n plan?
 
 [msg BTL_MES_026_179]
-Parece que s吋lo los ataques f胤sicos[n]funcionar茨n...
+Parece que s吋lo los ataques f胤sicos funcionar茨n...
 
 [msg BTL_MES_026_180]
-っま めまぼめよテ はぺるまぼま りゎま ょゎまれろるぺ グょもぼぺ よらぼもカょ[n]まれ るまぼゎるるもる ぺ ぺろぺりゎまれ みウれもぼよれテテテ
+De hecho. Parece que nuestra 雨nica opci吋n es recurrir a ataques f胤sicos...
 
 [msg BTL_MES_026_181]
 斡Ataque poderoso inminente!
@@ -548,40 +548,40 @@ Parece que s吋lo los ataques f胤sicos[n]funcionar茨n...
 斡Por favor, prot姻janse!
 
 [msg BTL_MES_026_183]
-Este enemigo puede ser muy[n]poderoso...
+Este enemigo puede ser muy poderoso...
 
 [msg BTL_MES_026_184]
-En efec―斡Espera, no! 斡No hay que[n]subestimar a este enemigo!
+En efec―斡Espera, no! 斡No hay que subestimar a este enemigo!
 
 [msg BTL_MES_026_185]
 Este enemigo es algo inusual...
 
 [msg BTL_MES_026_186]
-Bueno, entonces, busquemos su[n]debilidad, 夷de acuerdo?
+Bueno, entonces, busquemos su debilidad, 夷de acuerdo?
 
 [msg BTL_MES_026_187]
 No es fuerte ni d姻bil...
 
 [msg BTL_MES_026_188]
-De hecho, tienen una fuerza similar.[n]Esta deber胤a ser una buena batalla.
+De hecho, tienen una fuerza similar. Esta deber胤a ser una buena batalla.
 
 [msg BTL_MES_026_189]
-No creo que estos te causen[n]problemas.
+No creo que estos te causen problemas.
 
 [msg BTL_MES_026_190]
-Hermana... 夷Podr胤as proporcionar un[n]poco m茨s de detalle...?
+Hermana... 夷Podr胤as proporcionar un poco m茨s de detalle...?
 
 [msg BTL_MES_026_191]
-夷Hm...? 斡Algo sobre el enemigo ha[n]cambiado!
+夷Hm...? 斡Algo sobre el enemigo ha cambiado!
 
 [msg BTL_MES_026_192]
-夷Tal vez puedas atacar su debilidad[n]ahora?
+夷Tal vez puedas atacar su debilidad ahora?
 
 [msg BTL_MES_026_193]
-Es in雨til... No puedo encontrar una[n]ruta de escape...
+Es in雨til... No puedo encontrar una ruta de escape...
 
 [msg BTL_MES_026_194]
-No pude encontrar una ruta de[n]escape... Por favor, disc雨lpame.
+No pude encontrar una ruta de escape... Por favor, disc雨lpame.
 
 [msg BTL_MES_026_195]
 Oh no... Ha llegado...
@@ -590,85 +590,85 @@ Oh no... Ha llegado...
 斡Es un FOE! 斡Ten cuidado!
 
 [msg BTL_MES_026_197]
-Alguien est茨 en peligro. Tengan[n]cuidado.
+Alguien est茨 en peligro. Tengan cuidado.
 
 [msg BTL_MES_026_198]
-Uno de ustedes est茨 en peligro. No[n]pueden dejarlo as胤.
+Uno de ustedes est茨 en peligro. No pueden dejarlo as胤.
 
 [msg BTL_MES_026_199]
-夷Est茨s bien, Yosuke? 斡Parece que[n]apenas puedes mantenerte de pie!
+夷Est茨s bien, Yosuke? 斡Parece que apenas puedes mantenerte de pie!
 
 [msg BTL_MES_026_200]
 斡No deber胤as presionarte tanto, Chie!
 
 [msg BTL_MES_026_201]
-Tengan cuidado con la salud de[n]Yukiko.
+Tengan cuidado con la salud de Yukiko.
 
 [msg BTL_MES_026_202]
 Dummy
 
 [msg BTL_MES_026_203]
-Oh no, Kanji... 斡Se derrumbar茨 a este[n]ritmo!
+Oh no, Kanji... 斡Se derrumbar茨 a este ritmo!
 
 [msg BTL_MES_026_204]
-のめ ょよテテテ ねぺよろよ まれろぺるァ まょ むるぺわま らまゅもむるよ れも[n]まれろよ ぼよょろもょグぺテ ィっまほまょ めぺぼまる ぺゅむよ!
+Oh no... Naoto estar茨 en grave peligro si esto contin雨a. 斡Deben hacer algo!
 
 [msg BTL_MES_026_205]
-Hm... Parece que Teddie est茨 en su[n]l胤mite...
+Hm... Parece que Teddie est茨 en su l胤mite...
 
 [msg BTL_MES_026_206]
-斡Yukari no lo lograr茨 si esto[n]sigue...!
+斡Yukari no lo lograr茨 si esto sigue...!
 
 [msg BTL_MES_026_207]
 夷Est茨s bien, Junpei? 斡Cuidado!
 
 [msg BTL_MES_026_208]
-Um... 夷Akihiko est茨 bien? Parece que[n]podr胤a colapsar en cualquier momento.
+Um... 夷Akihiko est茨 bien? Parece que podr胤a colapsar en cualquier momento.
 
 [msg BTL_MES_026_209]
-斡Oh no, Mitsuru est茨 a punto de[n]colapsar!
+斡Oh no, Mitsuru est茨 a punto de colapsar!
 
 [msg BTL_MES_026_210]
 Dummy
 
 [msg BTL_MES_026_211]
-La salud de Aigis es baja... 斡Ten[n]cuidado!
+La salud de Aigis es baja... 斡Ten cuidado!
 
 [msg BTL_MES_026_212]
-Ken est茨 en peligro. 斡Por favor,[n]ay雨denlo!
+Ken est茨 en peligro. 斡Por favor, ay雨denlo!
 
 [msg BTL_MES_026_213]
-Koromaru, no deber胤as seguir luchando[n]en esta condici吋n...
+Koromaru, no deber胤as seguir luchando en esta condici吋n...
 
 [msg BTL_MES_026_214]
-Puedo ver dolor en la cara de[n]Shinjiro...
+Puedo ver dolor en la cara de Shinjiro...
 
 [msg BTL_MES_026_215]
-斡Oh no... est茨n en condici吋n cr胤tica![n]斡Alguien por favor ay雨delos!
+斡Oh no... est茨n en condici吋n cr胤tica! 斡Alguien por favor ay雨delos!
 
 [msg BTL_MES_026_216]
 斡La salud de alguien es muy baja!
 
 [msg BTL_MES_026_217]
-夷Est茨s bien, Skull? Te ves muy[n]adolorido...
+夷Est茨s bien, Skull? Te ves muy adolorido...
 
 [msg BTL_MES_026_218]
-Esto no es bueno. Panther estar茨 en[n]grave peligro si esto contin雨a...
+Esto no es bueno. Panther estar茨 en grave peligro si esto contin雨a...
 
 [msg BTL_MES_026_219]
 Me preocupa Mona...
 
 [msg BTL_MES_026_220]
-Fox estar茨 en peligro si esto[n]continua...
+Fox estar茨 en peligro si esto continua...
 
 [msg BTL_MES_026_221]
-斡A este ritmo, Queen no durar茨 mucho[n]m茨s!
+斡A este ritmo, Queen no durar茨 mucho m茨s!
 
 [msg BTL_MES_026_222]
 Dummy
 
 [msg BTL_MES_026_223]
-夷Est茨 bien Noir? Parece estar[n]adolorida...
+夷Est茨 bien Noir? Parece estar adolorida...
 
 [msg BTL_MES_026_224]
 斡Crow est茨 al borde del colapso!
@@ -677,16 +677,16 @@ Dummy
 斡Debes sanar de inmediato!
 
 [msg BTL_MES_026_226]
-斡Esto no es bueno! 斡Est茨n[n]petrificados!
+斡Esto no es bueno! 斡Est茨n petrificados!
 
 [msg BTL_MES_026_227]
 Han sido maldecidos...
 
 [msg BTL_MES_026_228]
-Por favor, ten cuidado. 斡Te han[n]envenenado!
+Por favor, ten cuidado. 斡Te han envenenado!
 
 [msg BTL_MES_026_229]
-Dormirse en un momento como este...[n]斡Por favor, despierta!
+Dormirse en un momento como este... 斡Por favor, despierta!
 
 [msg BTL_MES_026_230]
 *jadeo* 斡Est茨n confundidos!
@@ -704,79 +704,79 @@ Parece que su magia est茨 atada...
 Su fuerza est茨 atada. 斡Ten cuidado!
 
 [msg BTL_MES_026_235]
-Parece que su agilidad ha sido[n]atada...
+Parece que su agilidad ha sido atada...
 
 [msg BTL_MES_026_236]
 夷Alguien tiene algo para curarlos?
 
 [msg BTL_MES_026_237]
-El enemigo parece ser d姻bil a los[n]ataques f胤sicos.
+El enemigo parece ser d姻bil a los ataques f胤sicos.
 
 [msg BTL_MES_026_238]
-Uno de estos enemigos es d姻bil al[n]Fuego.
+Uno de estos enemigos es d姻bil al Fuego.
 
 [msg BTL_MES_026_239]
-Uno de estos enemigos es d姻bil al[n]Hielo...
+Uno de estos enemigos es d姻bil al Hielo...
 
 [msg BTL_MES_026_240]
-El enemigo parece ser d姻bil contra el[n]Viento.
+El enemigo parece ser d姻bil contra el Viento.
 
 [msg BTL_MES_026_241]
-Uno de estos enemigos es d姻bil a la[n]Electricidad...
+Uno de estos enemigos es d姻bil a la Electricidad...
 
 [msg BTL_MES_026_242]
-La afinidad nuclear deber胤a ser el[n]truco.
+La afinidad nuclear deber胤a ser el truco.
 
 [msg BTL_MES_026_243]
-エびもまょまれ ゎょぺ めぺほもゅもぽぺぽ ぽま はれもぼよりゎもょまれもれ?[n]ィぴょよ ぽま まれろよれ まょまゆもむよれ まれ ぽイほもゅ ぺ まれよ!
+夷Tienes una habilidad de Psicoquinesis? 斡Uno de estos enemigos es d姻bil a eso!
 
 [msg BTL_MES_026_244]
-Parece que uno de estos enemigos es[n]d姻bil a la Bendici吋n...
+Parece que uno de estos enemigos es d姻bil a la Bendici吋n...
 
 [msg BTL_MES_026_245]
-斡Mira! 斡Hay un enemigo d姻bil contra[n]Curse!
+斡Mira! 斡Hay un enemigo d姻bil contra Curse!
 
 [msg BTL_MES_026_246]
-Uno de estos enemigos es d姻bil ante[n]ataques f胤sicos.
+Uno de estos enemigos es d姻bil ante ataques f胤sicos.
 
 [msg BTL_MES_026_247]
 Veo a un enemigo d姻bil al fuego...
 
 [msg BTL_MES_026_248]
-Parece que este enemigo es d姻bil al[n]Hielo.
+Parece que este enemigo es d姻bil al Hielo.
 
 [msg BTL_MES_026_249]
-Si quieres atacar su debilidad, te[n]sugiero que uses ataques de Viento.
+Si quieres atacar su debilidad, te sugiero que uses ataques de Viento.
 
 [msg BTL_MES_026_250]
-La electricidad parece funcionar[n]contra ese enemigo.
+La electricidad parece funcionar contra ese enemigo.
 
 [msg BTL_MES_026_251]
-Este enemigo parece ser d姻bil a lo[n]Nuclear...
+Este enemigo parece ser d姻bil a lo Nuclear...
 
 [msg BTL_MES_026_252]
-Uno de estos enemigos es d姻bil a la[n]Psicokinesis.
+Uno de estos enemigos es d姻bil a la Psicokinesis.
 
 [msg BTL_MES_026_253]
-Utiliza la Bendici吋n para atacar su[n]debilidad.
+Utiliza la Bendici吋n para atacar su debilidad.
 
 [msg BTL_MES_026_254]
 Creo que la Maldici吋n ser茨 efectiva.
 
 [msg BTL_MES_026_255]
-斡Por todos los medios, ataca su[n]debilidad!
+斡Por todos los medios, ataca su debilidad!
 
 [msg BTL_MES_026_256]
 斡Deber胤as apuntar a su debilidad!
 
 [msg BTL_MES_026_257]
-Estoy segura de que puedes hacerlo,[n]Yosuke!
+Estoy segura de que puedes hacerlo, Yosuke!
 
 [msg BTL_MES_026_258]
-Por favor haz lo mejor que puedas,[n]Chie.
+Por favor haz lo mejor que puedas, Chie.
 
 [msg BTL_MES_026_259]
-斡Creo que es tu momento de brillar de[n]Yukiko!
+斡Creo que es tu momento de brillar de Yukiko!
 
 [msg BTL_MES_026_260]
 Dummy
@@ -785,10 +785,10 @@ Dummy
 斡Es tu oportunidad, Kanji!
 
 [msg BTL_MES_026_262]
-斡Tengo grandes expectativas para ti,[n]Naoto!
+斡Tengo grandes expectativas para ti, Naoto!
 
 [msg BTL_MES_026_263]
-Creo que Teddie puede atacar su[n]debilidad...
+Creo que Teddie puede atacar su debilidad...
 
 [msg BTL_MES_026_264]
 夷Qu姻 te parece, Yukari?
@@ -809,13 +809,13 @@ Dummy
 夷Qu姻 te parece, Aigis?
 
 [msg BTL_MES_026_270]
-斡Por favor, haz lo mejor que puedas,[n]Ken!
+斡Por favor, haz lo mejor que puedas, Ken!
 
 [msg BTL_MES_026_271]
-斡Este debe ser el momento de Koromaru[n]para brillar!
+斡Este debe ser el momento de Koromaru para brillar!
 
 [msg BTL_MES_026_272]
-Creo que Shinjiro puede golpear su[n]debilidad.
+Creo que Shinjiro puede golpear su debilidad.
 
 [msg BTL_MES_026_273]
 夷Alguien quiere intentarlo?
@@ -824,7 +824,7 @@ Creo que Shinjiro puede golpear su[n]debilidad.
 夷Por qu姻 no apuntar a su debilidad?
 
 [msg BTL_MES_026_275]
-Tengo grandes expectativas para ti,[n]Skull.
+Tengo grandes expectativas para ti, Skull.
 
 [msg BTL_MES_026_276]
 夷Qu姻 dices, Panther?
@@ -857,13 +857,13 @@ Parece que esto va bien. 斡Sigan as胤!
 H-hermana...
 
 [msg BTL_MES_026_286]
-Hermana... Espero que no quieras[n]decir que te aburres...
+Hermana... Espero que no quieras decir que te aburres...
 
 [msg BTL_MES_026_287]
-斡Oh, alguien puede golpear su[n]debilidad!
+斡Oh, alguien puede golpear su debilidad!
 
 [msg BTL_MES_026_288]
-Si cambias ahora, podr茨s golpear su[n]debilidad.
+Si cambias ahora, podr茨s golpear su debilidad.
 
 [msg BTL_MES_026_289]
 斡Alguien ha sido boosteado!
@@ -890,7 +890,7 @@ Dummy
 斡Naoto est茨 en un estado de boost!
 
 [msg BTL_MES_026_297]
-斡Teddie ha obtenido un boost! 斡Sigue[n]as胤!
+斡Teddie ha obtenido un boost! 斡Sigue as胤!
 
 [msg BTL_MES_026_298]
 斡Yukari ha sido boosteado!
@@ -899,7 +899,7 @@ Dummy
 斡Junpei ha obtenido un boost!
 
 [msg BTL_MES_026_300]
-斡Parece que Akihiko ha obtenido un[n]boost!
+斡Parece que Akihiko ha obtenido un boost!
 
 [msg BTL_MES_026_301]
 斡Maravilloso impulso, Mitsuru!
@@ -914,13 +914,13 @@ Dummy
 斡Ken est茨 en un estado de boost!
 
 [msg BTL_MES_026_305]
-斡Koromaru est茨 completamente[n]boosteado!
+斡Koromaru est茨 completamente boosteado!
 
 [msg BTL_MES_026_306]
-Parece que Shinjiro ha obtenido un[n]boost.
+Parece que Shinjiro ha obtenido un boost.
 
 [msg BTL_MES_026_307]
-Vaya... parece que ha obtenido un[n]boost.
+Vaya... parece que ha obtenido un boost.
 
 [msg BTL_MES_026_308]
 Veo a alguien en un estado de boost.
@@ -950,14 +950,14 @@ Noir est茨 en un estado de boost.
 斡Crow ha sido boosteado!
 
 [msg BTL_MES_026_317]
-斡Tambi姻n puedes atacar su debilidad![n]斡Es tu oportunidad!
+斡Tambi姻n puedes atacar su debilidad! 斡Es tu oportunidad!
 
 [msg BTL_MES_026_318]
 斡Sigamos atacando su debilidad!
 
 [msg BTL_MES_026_319]
-Estoy listo para brindar apoyo cuando[n]lo desees.
+Estoy listo para brindar apoyo cuando lo desees.
 
 [msg BTL_MES_026_320]
-Estoy disponible para proporcionar[n]apoyo. Por favor, consid姻ralo.
+Estoy disponible para proporcionar apoyo. Por favor, consid姻ralo.
 

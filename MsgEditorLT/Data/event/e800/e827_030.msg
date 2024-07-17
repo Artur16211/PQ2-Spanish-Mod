@@ -1,89 +1,89 @@
 [msg MSG_000 [P3 Hero]]
-Doesn't look like there are a lot around[n]here...
+No parece que haya mucho por aqu胤...
 
 [msg MSG_001 [P4 Hero]]
-Yeah, not here either.
+S胤, por aqu胤 tampoco.
 
 [msg MSG_002 [Haru]]
-Excuse me, but I was wondering...
-Are you two really such big eaters? I[n]would never have guessed...
+Perdonadme, pero estaba pensando...
+夷De verdad son tan comilones? Nunca lo hubiera imaginado...
 
 [msg MSG_003 [P4 Hero]]
-Yeah, I don't know. I've never thought[n]of myself as one.
+S胤, no lo s姻. Nunca me he considerado como tal.
 
 [msg MSG_004 [Yosuke]]
-Whoa, whoa, man. Anyone who can finish[n]Aiya's Mega Beef Bowl is definitely some[n]kind of monster...
-That thing's loaded with five times the[n]beef, right?
+Hala, hala, hombre. Cualquiera que pueda terminar el Mega de ternera de Aiya es definitivamente alg雨n tipo de monstruo...
+Esa cosa est茨 cargada con much胤sima ternera, 夷verdad?
 
 [msg MSG_005 [Yukiko]]
-The only ones who can finish it are-kun,[n]or maybe Chie.
+Los 雨nicos capaces de terminarlo son [f 6 1 13 0 0 0], o quiz茨s Chie.
 
 [msg MSG_006 [P4 Hero]]
-Now that was a battle...
+Eso s胤 que era una batalla...
 
 [msg MSG_007 [P3 Hero]]
-Huh. Sounds pretty impressive.
+Je.  Parece muy impresionante.
 
 [msg MSG_008 [Junpei]]
-Hey, look who's talking! You eat like a[n]horse too, right?
+Ey, 斡mira qui姻n est茨 hablando! T雨 tambi姻n comes como un animal, 夷verdad?
 
 [msg MSG_009 [Yukari]]
-Extra noodles in your ramen, speed-[n]eating takoyaki... I think you've got a[n]reputation at Paulownia Mall.
+Fideos extra en tu ramen, takoyaki para comer r茨pido... Creo que tienes una buena reputaci吋n en el centro comercial Paulownia.
 
 [msg MSG_010 [Aigis]]
-Your intake exceeds your body's[n]estimated capacity, yet your vitals and[n]expression indicate no difficulty.
+Su ingesta supera la capacidad estimada de su organismo, pero sus constantes vitales y su expresi吋n no indican ninguna dificultad.
 
 [msg MSG_011 [Ryuji]]
-Those two really are amazing... No[n]wonder the blue crew's all over them.
+Esos dos son realmente incre胤bles... No me extra隠a que el equipo azul est姻 encima de ellos.
 
 [sel SEL_012 top]
-They're unbeatable.
-I'm on their level.
+Son invencibles.
+Estoy a su nivel.
 
 [msg MSG_013 [Ryuji]]
-Huh? But you actually beat the Big Bang[n]Challenge, didn't you?
+夷Eh? Pero si t雨 tambi姻n puedes con el desaf胤o Big Bang, 夷no?
 
 [msg MSG_014 [Yosuke]]
-Wait, you too!?
+Espera, 斡夷t雨 tambi姻n?!
 
 [msg MSG_015 [Ryuji]]
-Now that I think about it, you did beat[n]the Big Bang Challenge...
+Ahora que lo pienso, venciste el desaf胤o Big Bang.
 
 [msg MSG_016 [Haru]]
-I'd say it takes quite a bit of guts to[n]finish that...
+Yo dir胤a que hay que tener muchas agallas para terminar eso...
 
 [msg MSG_017 [Kanji]]
-Huh. So your leader's the same way?
-I guess if you wanna be the boss, you[n]gotta eat tons of food?
+Je. 夷As胤 que su l胤der es igual?
+Supongo que si quieres ser el jefe, tienes que comer toneladas de comida.
 
 [msg MSG_018 [Yosuke]]
-C'mon, no way... Eating's just about how[n]big your stomach is, right?
+Vamos, no puede ser... Comer solo depende de lo grande que es tu est吋mago, 夷verdad?
 
 [sel SEL_019 top]
-It's about guts.
-It's about knowledge.
-It's about proficiency.
-It's about kindness.
+Hace falta coraje.
+Hace falta conocimiento.
+Hace falta destreza.
+Hace falta gentileza.
 
 [msg MSG_020 [P4 Hero]]
-Right. To eat well, you need[n]understanding of your limits, knowledge[n]to control your pace...
-The courage to face an unrelenting tide[n]of food, and the diligence to persevere[n]against a colossal challenge.
+Cierto. Para comer bien, necesitas entender tus l胤mites, saber controlar tu ritmo...
+El valor de enfrentarse a una marea implacable de comida, y la diligencia de perseverar ante un reto colosal.
 
 [msg MSG_021 [Aigis]]
-Those are precisely the skills necessary[n]to be a leader.
+Esas son las habilidades necesarias para ser un l胤der.
 
 [msg MSG_022 [Yosuke]]
-Oh. Uh... okay. Sorry.
+Oh. Eh... vale. Perd吋n.
 
 [msg MSG_023 [P4 Hero]]
-Don't worry about it. Let's find the[n]parts we need.
+No te preocupes por eso. Vamos a encontrar las partes que necesitamos.
 
 [msg MSG_024 [P3 Hero]]
-Yeah. Let's keep moving.
+S胤. Sigamos movi姻ndonos.
 
 [msg MSG_025 [Mitsuru]]
-So a ravenous appetite is the key to[n]true leadership...? Fascinating...
+夷As胤 que un apetito voraz es la clave del verdadero liderazgo? Fascinante...
 
 [msg MSG_026 [Junpei]]
-Uh, I dunno if you wanna use these guys[n]as reference for that...
+Eh, no s姻 si quieres usar a estos tipos como referencia...
 

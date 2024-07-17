@@ -1,101 +1,101 @@
 [msg MSG_000 [Teddie]]
-Treasure, treasure[f 0 1 1]!
+斡Tesoro, tesoro[f 0 1 1]!
 
 [msg MSG_001 [Koromaru]]
-Woof! Woof!
+斡Woof! 斡Woof!
 
 [msg MSG_002 [Ann]]
-It really is a treasure trove! Good[n]thing we came this way.
+Era realmente un tesoro escondido. Menos mal que vinimos por aqu胤.
 
 [msg MSG_003 [Morgana]]
-See? This wouldn't have happened if we'd[n]taken the short path.
+夷Ven? Esto no hubiera ocurrido si hubi姻ramos tomado el camino corto.
 
 [msg MSG_004 [Teddie]]
 Ngh...
-B-But the only reason we found the[n]treasure was because of my nose!
-I'm not just some cat who starts[n]drooling at the first sign of treasure!
+斡P-Pero encontramos el tesoro gracias a mi nariz!
+斡No soy un gato que empieza a babear a la primera se隠al de tesoro!
 
 [msg MSG_005 [Morgana]]
-I wasn't drooling! You better shut it,[n]you... You...
+斡No estaba babeando! Mejor c茨llate t雨... T雨...
 
 [sel SEL_006 top]
-Quit fighting.
-You all did well.
-Say something, Panther.
+Dejad de pelear.
+Todos lo hicieron bien.
+Di algo, Panther.
 
 [msg MSG_007 [Ann]]
-Yeah. We're here because we worked[n]together.
-Besides, there's no time to argue. We[n]haven't even found the grand prize yet!
+S胤. Estamos aqu胤 porque trabajamos juntos.
+Adem茨s, no hay tiempo para pelear. 斡A雨n no hemos encontrado el gran premio!
 
 [msg MSG_008 [Ann]]
-That's right. We're here because we[n]worked together.
-Let's keep it up and go for the grand[n]prize too!
+Tienes raz吋n. Estamos aqu胤 porque trabajamos juntos.
+斡Sigamos as胤 y vayamos a por el gran premio!
 
 [msg MSG_009 [Ann]]
-Me...?
-Uh... good job, you guys! We couldn't[n]have made it this far without you.
+夷Yo...?
+Eh... 斡Buen trabajo, chicos! No podr胤amos haber llegado tan lejos sin ustedes.
 
 [msg MSG_010 [Morgana]]
-Well, if you say so, Lady Ann...
+Bueno, si dices eso, se隠orita Ann...
 
 [msg MSG_011 [Teddie]]
-Hear, hear. I, too, cannot bring myself[n]to trouble such a lovely lady.
+Escuche, escuche. Yo tampoco puedo molestar a una dama tan encantadora.
 
 [msg MSG_012 [Yosuke]]
-Okay, on to the grand prize.
+Okay, vamos a por el gran premio.
 
 [msg MSG_013 [Yukari]]
-Any idea of what that might be?
-None of what we've found so far has been[n]particularly beautiful or alluring.
+夷Alguna idea de lo que puede ser?
+Nada de lo que hemos encontrado hasta ahora ha sido especialmente bonito o seductor.
 
 [msg MSG_014 [Junpei]]
-It's gonna be something a girl would[n]like, right? I'll bet it's...
+Va a ser algo que le gustar胤a a una chica, 夷verdad? Apuesto a que es...
 
 [sel SEL_015 top]
-Clothes.
-Sweets.
-Money.
+Ropa.
+Dulces.
+Dinero.
 
 [msg MSG_016 [Junpei]]
-Yeah. Something really fancy with frills[n]or ribbons or whatever. Girls love that.
+S胤. Algo muy elegante con volantes o cintas o lo que sea. A las chicas les encanta eso.
 
 [msg MSG_017 [Yukari]]
-Uh, I think you mean YOU love that.
-Also, why would he go through the[n]trouble of hiding something like that[n]out in the jungle?
+Eh, creo que quieres decir que a TI te encantan.
+Adem茨s, 夷por qu姻 se tomar胤a la molestia de esconder algo as胤 en la selva?
 
 [msg MSG_018 [Ann]]
-Well, I do like sweets, but...
+Bueno, me gustan los dulces, pero...
 
 [msg MSG_019 [Yosuke]]
-Nah, who hides something like that in[n]the jungle?
+Nah, 夷qui姻n esconder胤a algo as胤 en la jungla?
 
 [msg MSG_020 [Yukari]]
-Well, I guess it is better to let her[n]buy something she likes rather than give[n]her something without much thought...
+Bueno, supongo que es mejor dejar que se compre algo que le guste a que regalarle algo sin pensarlo mucho...
 
 [msg MSG_021 [Junpei]]
-Yeah, real romantic...
+S胤, muy rom茨ntico...
 
 [msg MSG_022 [Teddie]]
-No, no, that won't do.
-The one that thing that would make a[n]girl happiest is obviously a passionate[n]kiss on the―
+No, no, eso no servir茨.
+Lo que m茨s feliz har胤a a una chica es, obviamente, un beso apasionado en...
 
 [msg MSG_023 [Koromaru]]
-Bark, bark!
+斡Bark, bark!
 
 [msg MSG_024 [Teddie]]
-Wha―!?
+斡夷Qu姻?!
 
 [msg MSG_025 [Aigis]]
-He said if you do that again, you will[n]be escorted off the premises.
+Dijo que si lo vuelves a hacer, ser茨s escoltado fuera de las instalaciones.
 
 [msg MSG_026 [Rise]]
-It's just like a meet and greet...
+Es como conocer y saludar...
 
 [msg MSG_027 [Morgana]]
-Good one, Koromaru.
-Let's ditch this dummy, and find that[n]treasure.
-We're almost there!
+Muy buena, Koromaru.
+Deshag茨monos de este mu隠eco y encontremos ese tesoro.
+斡Ya casi estamos!
 
 [msg MSG_028 [Koromaru]]
-Arf!
+斡Arf!
 

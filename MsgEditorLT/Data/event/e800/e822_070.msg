@@ -88,8 +88,8 @@ Dime, Ken...
 斡夷Eh?!
 
 [msg MSG_026 [Ryuji]]
-C'mon, that ain't it.
-There somebody whose heart you wanna change?
+Vamos, no es eso.
+夷Quieres cambiar el coraz吋n de alguien?
 
 [msg MSG_027 [Ken]]
 Bueno...

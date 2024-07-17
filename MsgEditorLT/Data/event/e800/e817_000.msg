@@ -58,5 +58,5 @@ Ah, es verdad, t雨 tambi姻n eres una estudiante de tercer a隠o. Me encantar�
 Pero no quiero ser hip吋crita. Deber胤amos irnos yendo por ahora.
 
 [msg MSG_013]
-Una nueva proyecci吋n especial: "Those Who Stand at the Top" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Aquellos que est茨n en la Cima" ha sido a隠adida a la taquilla.
 

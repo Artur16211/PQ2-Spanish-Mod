@@ -51,5 +51,5 @@ Todav胤a est茨 mir茨ndolo. 夷Qu姻 le ocurre?
 斡Culpa m胤a! Ya voy.
 
 [msg MSG_016]
-Una nueva proyecci吋n especial: "Clash of the Thugs" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Choque de Matones" ha sido a隠adida a la taquilla.
 

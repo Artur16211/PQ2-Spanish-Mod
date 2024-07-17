@@ -20,7 +20,7 @@ De Persona 3
 De Persona 3 Portable
 
 [msg MSG_BGM_007]
-De Persona Q: Shadow of the Labyrinth
+De Persona Q: Sombras del Laberinto
 
 [msg MSG_BGM_008]
 De Persona 4
@@ -29,7 +29,7 @@ De Persona 4
 De Persona 4 Golden
 
 [msg MSG_BGM_010]
-De Persona Q: Shadow of the Labyrinth
+De Persona Q: Sombras del Laberinto
 
 [msg MSG_BGM_011]
 De Persona 5

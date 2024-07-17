@@ -1,28 +1,28 @@
 [msg MSG_000 [Elizabeth]]
-What promised to be an action-packed[n]adventure turned out to be a[n]heartrending romance...
-I began to think my tears would never[n]cease during those last five minutes.
-Now then, this is your reward.
+Lo que promet胤a ser una aventura llena de acci吋n result吋 ser un romance desgarrador...
+Empec姻 a pensar que mis l茨grimas no cesar胤an durante esos 雨ltimos cinco minutos.
+Ahora bien, esta es su recompensa.
 
 [msg MSG_001 [Teddie]]
-Grraaaaahhh...!
+斡Grraaaaahhh...!
 
 [msg MSG_002 [Morgana]]
-Mrowwwww...!
+斡Miauuuuu...!
 
 [msg MSG_003 [Kanji]]
-Man, they've been like that since we got[n]back.
-You guys all right? You look like you're[n]gonna go all Shadow on us.
+Bro, han estado as胤 desde que volvimos.
+夷Est茨n bien, chicos? Parece que os vais a convertir en sombras.
 
 [sel SEL_004 top]
-This happens all the time.
-Let's leave them be.
-Don't be jealous.
+Esto ocurre a menudo.
+Dej姻moslos estar.
+No sean celosos.
 
 [msg MSG_005 [Ryuji]]
-I dunno... This looks worse than normal.
+No s姻... Esto parece peor de lo normal.
 
 [msg MSG_006 [P4 Hero]]
-Yeah, it's out of our hands at this[n]point.
+S胤, est茨 fuera de nuestras manos en este momento.
 
 [msg MSG_007 [Morgana]]
 ......
@@ -31,105 +31,105 @@ Yeah, it's out of our hands at this[n]point.
 ......
 
 [msg MSG_009 [Ann]]
-Hey! You made it even worse!
+斡Oye! 斡Lo hiciste a雨n peor!
 
 [msg MSG_010 [Morgana]]
-Ngh... I can't accept this. I won't[n]accept this!
-That dog may have won the contest, but[n]I'm the one who gets to be at Lady Ann's[n]side!
+Uf... No puedo aceptar esto. 斡No aceptar姻 esto!
+Ese perro podr茨 haber ganado el concurso, 斡pero yo ser姻 quien est姻 al lado de la se隠orita Ann!
 
 [msg MSG_011 [Teddie]]
-What!? The title of number one belongs[n]to me!
+斡夷Qu姻?! 斡El t胤tulo de n雨mero uno me pertenece a m胤!
 
 [sel SEL_012 top]
-Enough fighting.
-You'll just have to duke it out.
+Basta de pelear.
+Tendr茨n que batirse en duelo.
 
 [msg MSG_013 [Morgana]]
-Stay out of it! This has been a long[n]time coming!
+斡No te metas! 斡Este momento ten胤a que llegar!
 
 [msg MSG_014 [Ann]]
-Wha―!? Don't encourage them!
+斡夷Qu姻?! 斡No los animes!
 
 [msg MSG_015 [Morgana]]
-Sorry, Lady Ann, but this has been a[n]long time coming!
-Let's go, Teddie!
+Perd吋n, se隠orita Ann, 斡pero este momento ten胤a que llegar!
+斡Vamos Teddie!
 
 [msg MSG_016 [Teddie]]
-Now you're talking! Take this! Quick[n]Draw Bear Paw!
+斡Ahora est茨s hablando! 斡Toma esto! 斡Garra de oso veloz!
 
 [msg MSG_017 [Morgana]]
-Nyanyanyanyanya!
+斡Nyanyanyanyanya!
 
 [msg MSG_018 [Teddie]]
-Rahrahrahrahrah!
+斡Rahrahrahrahrah!
 
 [msg MSG_019 [Aigis]]
-Neither of them seem to have arms long[n]enough to reach the other.
+Ninguno de los dos parece tener brazos lo suficientemente largos para alcanzar al otro.
 
 [msg MSG_020 [Makoto]]
-This is embarrassing...
+Esto es vergonzoso...
 
 [msg MSG_021 [Akihiko]]
-But it means a lot to both of them. Let[n]them go at it for a bit.
+Pero significa mucho para ambos. Dejad que se peleen un rato.
 
 [msg MSG_022 [P4 Hero]]
-Yeah. Sometimes a friendship doesn't[n]really begin until you've traded a punch[n]or two.
+S胤. A veces una amistad no empieza realmente hasta que has intercambiado un pu隠etazo o dos.
 
 [msg MSG_023 [Teddie]]
-Rrrrah!
+斡Rrrrah!
 
 [msg MSG_024 [Morgana]]
-Nnnyah!
+斡Nnnyah!
 
 [msg MSG_025 [Morgana]]
-*pant pant* Not bad, for a bear...
+*jadeo* *jadeo* No est茨 mal para ser un oso...
 
 [msg MSG_026 [Teddie]]
-You've got a pretty good pair of paws[n]yourself...
+T雨 tambi姻n tienes un buen par de patas...
 
 [msg MSG_027 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_028 [Morgana]]
-Koromaru?
+夷Koromaru?
 
 [msg MSG_029 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_030 [Aigis]]
-"I may have been the one to find the[n]treasure, but we only made it to the end[n]because we worked together."
-...So says Koromaru-san.
+"Puede que yo fuera el que encontr吋 el tesoro, pero solo llegamos al final porque trabajamos juntos".
+... Eso dice Koromaru.
 
 [msg MSG_031 [Ann]]
-Don't you see? You don't need to decide[n]who's number one.
-You're both valued members of our team.
-You too, Koro-chan.
+夷No lo ven? No tienen que decidir qui姻n es el n雨mero uno.
+Ambos son miembros valiosos de nuestro equipo.
+T雨 tambi姻n, Koro.
 
 [msg MSG_032 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_033 [Morgana]]
-Lady Ann...
-Sorry. I guess I got a little too heated[n]there...
+Se隠orita Ann...
+Perd吋n. Supongo que me he calentado un poco...
 
 [msg MSG_034 [Teddie]]
-Yeah, I need to calm down too... Sorry.
+S胤, yo tambi姻n necesito calmarme... Perd吋n.
 
 [sel SEL_035 top]
-Let's all get along.
-We're counting on you guys.
+Llev姻monos todos bien.
+Contamos con vosotros.
 
 [msg MSG_036 [Morgana]]
-I'll be sure to make up for all the[n]trouble I caused next time.
+La pr吋xima vez me asegurar姻 de compensar todos los problemas que caus姻.
 
 [msg MSG_037 [Teddie]]
-Yeah, me too!
-If all of us mascots worked together,[n]we'd be unstoppable...
-Let this mark the bear-ginning of the[n]great mascot alliance!
+斡S胤, yo tambi姻n!
+Si todas las mascotas trabajamos juntas, seremos imparables...
+Que esto marque el maravill-oso inicio de la gran alianza de las mascotas.
 
 [msg MSG_038 [Koromaru]]
-Awooo!
+斡Awooo!
 
 [msg MSG_039 [Morgana]]
-Yeah! ...Wait, I'm not a mascot!
+斡S胤!... Espera, 斡yo no soy una mascota!
 

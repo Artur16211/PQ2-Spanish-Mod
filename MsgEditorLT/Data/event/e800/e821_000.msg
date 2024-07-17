@@ -99,5 +99,5 @@ Je... Parece que est茨s a la altura. Vale, yo tambi姻n. Voy a dar lo mejor de 
 De cualquier manera, no puedo hacer nada hasta que consigas esos ingredientes.
 
 [msg MSG_028]
-Una nueva proyecci吋n especial: "The Price of a Free Meal" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "El Precio de una Comida Gratis" ha sido a隠adida a la taquilla.
 

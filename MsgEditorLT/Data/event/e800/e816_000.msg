@@ -88,5 +88,5 @@ Con eso, Hermana, podr胤as crear una...
 *suspiro*
 
 [msg MSG_025]
-Una nueva proyecci吋n especial: "Long-lost Tech" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Tecnolog胤a Perdida" ha sido a隠adida a la taquilla.
 

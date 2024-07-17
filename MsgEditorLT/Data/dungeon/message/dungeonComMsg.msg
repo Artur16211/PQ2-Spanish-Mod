@@ -2,7 +2,7 @@
 斡Has encontrado una misi吋n!
 
 [msg DG_MSG_QUEST_FIND_QUESTI]
-No pudiste encontrar una misi吋n...[n]斡Porque ya est茨s en una misi吋n!
+No encontraste una misi吋n... 斡Porque ya est茨s en una!
 
 [msg DG_MSG_LOCK_DOOR_NO_OPEN]
 Est茨 bloqueada.
@@ -12,5 +12,5 @@ Volver a la base
 Explorar libremente
 
 [msg DG_MSG_QST_PROGRESS_ENEM]
-Derrotado [f 2 4 0][n]x[f 2 4 1].
+Derrotado [f 2 4 0] x[f 2 4 1].
 

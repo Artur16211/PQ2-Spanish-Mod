@@ -72,5 +72,5 @@ Ojal茨 ella pudiera abrirse un poco m茨s.
 Bueno, no puedo pensar en algo para ayudarla ahora mismo... Parece que tendremos que esperar...
 
 [msg MSG_023]
-Una nueva proyecci吋n especial: "A Bond Beyond Worlds" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Un V胤nculo m茨s All茨 de los Mundos" ha sido a隠adida a la taquilla.
 

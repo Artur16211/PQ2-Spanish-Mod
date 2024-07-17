@@ -75,5 +75,5 @@ S胤, toda esta charla sobre carne tambi姻n me est茨 dando hambre...
 Invit姻mosles a comer carne la pr吋xima vez que podamos, Joker.
 
 [msg MSG_022]
-Una nueva proyecci吋n especial: "Meat ＆ the Art of Friendship" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Carne y el Arte de la Amistad" ha sido a隠adida a la taquilla.
 

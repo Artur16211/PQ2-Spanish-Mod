@@ -115,5 +115,5 @@ Bien, entonces lo encontrar姻 para ti. Cuando lo haga, 斡me encantar胤a que v
 夷Hmm? 夷De qu姻 te r胤es, Inari? De todos modos, 斡vamos!
 
 [msg MSG_032]
-Una nueva proyecci吋n especial: "Inspiration Investigation!", ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "斡Investigaci吋n de inspiraci吋n!", ha sido a隠adida a la taquilla.
 

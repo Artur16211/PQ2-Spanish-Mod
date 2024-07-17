@@ -1,9 +1,9 @@
 [msg MSG_000 [P3 Hero]]
-One more to go.
+Falta una m茨s.
 
 [msg MSG_001 [Yusuke]]
-The all-you-can-eat donut feast is[n]almost upon us!
+El fest胤n de comer todos los donuts que puedas est茨 al caer.
 
 [msg MSG_002 [Rise]]
-There should be more Treasure Spots![n]Keep looking for more!
+斡Deber胤a haber m茨s Puntos del Tesoro! 斡Sigue buscando m茨s!
 

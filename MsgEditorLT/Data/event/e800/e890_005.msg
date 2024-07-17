@@ -1,169 +1,169 @@
 [msg MSG_000 [Theodore]]
-Nothing less than incredible. I accept[n]my loss.
+Ha sido incre胤ble. Acepto mi derrota.
 
 [sel SEL_001 top]
-You gave us a hard fight.
-That was a breeze.
+Nos diste una dura batalla.
+Eso fue pan comido.
 
 [msg MSG_002 [Theodore]]
-Ah, you are too kind. I only hope we can[n]have another bout someday.
+Ah, eres muy amable. Solo espero que podamos volver a luchar alg雨n d胤a.
 
 [msg MSG_003 [Theodore]]
-I am glad indeed to hear it! You've[n]grown quite strong―moreso than I had[n]anticipated.
+Me alegro mucho de o胤rlo. Has crecido mucho, m茨s de lo que esperaba.
 
 [msg MSG_004 [Theodore]]
-So, are you quite finished, Sister? Why[n]did you ask for such a bout...?
-...Hm?
+Entonces, 夷ha terminado ya, Hermana? 夷Por qu姻 pediste tal combate...?
+... 夷Hm?
 
 [msg MSG_005]
-The film that looked sooty is now[n]glowing faintly...
+La pel胤cula de holl胤n est茨 brillando d姻bilmente...
 
 [msg MSG_006 [Futaba]]
-Hey, the film's going all shiny!
+Ey, 斡la pel胤cula est茨 brillando!
 
 [msg MSG_007 [Yusuke]]
-It's faint, yes... but how oddly[n]beautiful.
+Es tenue, s胤... pero extra隠amente hermoso.
 
 [msg MSG_008 [Elizabeth]]
-It's just as I thought.
+Es justo como pensaba.
 
 [msg MSG_008_1 [Elizabeth]]
-When you first acquired that film, it[n]was nothing more than a simple piece of[n]junk...
-But through its bearer displaying[n]sufficient power, I believe it will[n]regain its original shine.
+Cuando consiguieron por primera vez la pel胤cula, no era m茨s que simple chatarra...
+Pero si su portador muestra suficiente poder, creo que recuperar茨 su brillo original.
 
 [msg MSG_009 [Theodore]]
-I see! So that was your intent...
-claimed victory against me, and in doing[n]so, displayed great strength.
+斡Ya veo! As胤 que esa era tu intenci吋n...
+ me derrot吋, y al hacer eso, demostr吋 una gran fuerza.
 
 [msg MSG_010 [Haru]]
-Um, you said this film is related[n]to-kun's power of the wild card,[n]correct?
+Em, dijiste que esta pel胤cula est茨 relacionada con el poder del comod胤n de [f 6 1 29 0 0 0], 夷cierto?
 
 [msg MSG_010_1 [Haru]]
-How about it, [f 6 1 29 0 0 0]-kun? Do you feel[n]any different?
+夷Qu姻 te parece [f 6 1 29 0 0 0]? 夷Te sientes distinto?
 
 [sel SEL_011 top]
-No, not really.
-Power flows through me...
+No, la verdad es que no.
+El poder fluye en mi interior...
 
 [msg MSG_012 [Akechi]]
-Hmm... I have to say, I'm not seeing[n]much changed on the outside.
+Hmm... Tengo que decir que no veo mucho cambio en el exterior.
 
 [msg MSG_013 [Akechi]]
-Really? You look the same as ever...
+夷En serio? Pareces el mismo de siempre...
 
 [msg MSG_014 [Elizabeth]]
-Grrrr... I am quite flummoxed.
-Could my judgment have been wrong? Ah,[n]no, that cannot be...
+Grrrr... Estoy muy desconcertada.
+夷Puede que me haya equivocado? Ah, no, eso no puede ser...
 
 [msg MSG_015 [Theodore]]
-You mustn't lose hope, Sister.
-I battled them as an arbiter of power,[n]and in doing so, the film clearly[n]underwent some change.
-So at the very least, your conjecture[n]was close to the truth, yes?
+No debes perder la esperanza, Hermana.
+Luch姻 contra ellos como 茨rbitro del poder y, al hacerlo, la pel胤cula sufri吋 claramente algunos cambios.
+As胤 que, como m胤nimo, tu conjetura se acercaba a la verdad, 夷no?
 
 [msg MSG_016 [Akechi]]
-True. There's various possibilities to[n]this.
-Perhaps this isn't the only film of its[n]kind out there? If we collect more...
+Cierto. Hay varias posibilidades.
+Quiz茨s no sea la 雨nica pel胤cula de este tipo que existe. Si conseguimos m茨s...
 
 [msg MSG_017 [Elizabeth]]
-......!
+斡......!
 
 [msg MSG_018 [Makoto]]
-We found this film after a special[n]screening where we needed-kun to fight,[n]right?
-I could see there being other screenings[n]like it, maybe also requiring specific[n]people...
+Encontramos esta pel胤cula despu姻s de una proyecci吋n especial donde necesit茨bamos que [f 6 1 30 0 0 0] luchara, 夷verdad?
+Quiz茨s haya otras proyecciones como esa, y puede que tambi姻n requieran a personas en espec胤fico...
 
 [msg MSG_019 [Elizabeth]]
-For a moment, I gave in to despair. Yet[n]now, I see a world of possibility[n]opening up before me.
-Well then, let us wait until we find[n]these other screenings! Possibilities[n]are limitless, after all.
+Por un momento, ca胤 en la desesperaci吋n. Sin embargo, ahora veo que se abre ante m胤 todo un mundo de posibilidades.
+Entonces, 斡esperemos a encontrar esas otras proyecciones! Al fin y al cabo, las posibilidades son ilimitadas.
 
 [msg MSG_020 [Futaba]]
-Ahaha... She swings back fast.
+Ja, ja, ja... Ella se recupera r茨pido.
 
 [msg MSG_021 [Elizabeth]]
-In any case, [f 6 1 30 0 0 0]... You and your[n]allies have put on a marvelous display.
-Your bout against Theo was separate from[n]the special showings, but I've prepared[n]a humble reward for you.
-Please accept it later, as a token of[n]gratitude from we who govern power.
+En cualquier caso, [f 6 1 30 0 0 0]... T雨 y tus aliados han hecho una exhibici吋n maravillosa.
+Tu combate contra Theo va aparte de las proyecciones especiales, pero te he preparado una humilde recompensa.
+Por favor, ac姻ptalo despu姻s, como muestra de gratitud de quienes gobernamos el poder.
 
 [msg MSG_022 [Ryuji]]
-Whoa, for real!? Thanks a lot, lady!
+斡夷Qu姻, en serio?! 斡Muchas gracias, se隠orita!
 
 [msg MSG_023 [Elizabeth]]
-*chuckle* No thanks necessary.
-Nothing pleases us more than watching[n]over your growth.
+*risita* No es necesario dar las gracias.
+Nada nos complace m茨s que observar su crecimiento.
 
 [msg MSG_024 [Theodore]]
-Indeed. I must thank you as well.
+Por supuesto. Yo tambi姻n debo daros las gracias.
 
 [msg MSG_025 [Elizabeth]]
 ......
-So, Theo? How shall you reward them?
+Entonces, Theo, 夷c吋mo los recompensar茨s?
 
 [msg MSG_026 [Theodore]]
-Um...?
+夷Em...?
 
 [msg MSG_027 [Elizabeth]]
-You govern power, just as I do. Surely[n]you have some kind of gift to offer for[n]their troubles?
+T雨 gobiernas el poder, igual que yo. Seguro que tienes alg雨n regalo que ofrecerles por sus problemas.
 
 [msg MSG_028 [Theodore]]
-Huh!? W-Well, this is all so sudden―
+斡夷Eh?! B-Bueno, es todo tan repentino...
 
 [msg MSG_029 [Elizabeth]]
-You're not going to embarrass your[n]sister, are you? Hop to it!
+No vas a avergonzar a tu hermana, 夷verdad? 斡Vamos!
 
 [msg MSG_030 [Theodore]]
-I-I know! How about this?
-I shall give you one of my greatest[n]creations―something I've made with the[n]utmost care.
+斡Y-Ya s姻! 夷Qu姻 les parece esto?
+Les dar姻 una de mis mejores creaciones, algo que he preparado con sumo cuidado.
 
 [msg MSG_031 [Futaba]]
-Whoa, we're getting a certified Theodore[n]masterwork! So what is it?
+斡Vaya, estamos ante una obra maestra certificada de Theodore! 夷Qu姻 es?
 
 [msg MSG_032 [Theodore]]
-Why, nothing less than a masterpiece. I[n]present the pride of my craft...
-The Velvet-style Artisanal Hot Dog!
+No es nada menos que una obra maestra. Les presento el orgullo de mi trabajo...
+斡El Perrito Caliente Artesanal al estilo Terciopelo!
 
 [msg MSG_033 [Haru]]
-...Um...
+...Em...
 
 [msg MSG_034 [Yukiko]]
-...A hot dog? Your masterpiece is just a[n]sausage in a bun...?
+... 夷Un perrito caliente? 夷Tu obra maestra no es m茨s que una salchicha en un panecillo...?
 
 [msg MSG_035 [Theodore]]
-Yes. It's wonderfully suited to pair[n]with watching movies! Please, try one[n]today.
+S胤. 斡Es ideal para ver pel胤culas! Por favor, probad uno hoy.
 
 [sel SEL_036 top]
-Advertising a new product?
-I can't wait.
+夷Publicitando un nuevo producto?
+No puedo esperar.
 
 [msg MSG_037 [Futaba]]
-Yeah, this totally feels like an[n]infomercial. Maybe he missed his calling[n]as a salesman.
+S胤, se siente totalmente como un comercial. Tal vez perdi吋 su vocaci吋n como vendedor.
 
 [msg MSG_038 [Theodore]]
-Thank you. Your eagerness vindicates all[n]my efforts.
+Gracias. Su af茨n reivindica todos mis esfuerzos.
 
 [msg MSG_039 [Theodore]]
-I was very particular about the ratio of[n]meat, the level of bun toastage, and the[n]optimal ketchup volume.
-It's been a hit with my sisters as well![n]I'm certain it shall not disappoint.
+Fui muy exigente con la proporci吋n de carne, el nivel de tostado del panecillo y el volumen 吋ptimo de ketchup.
+斡Tambi姻n ha sido un 姻xito entre mis hermanas! Estoy segura de que no decepcionar茨.
 
 [msg MSG_040 [Futaba]]
-You need a career change, Theodore...
+Necesitas un cambio de profesi吋n, Theodore...
 
 [msg MSG_041 [Theodore]]
-Sister, I believe you robbed the entire[n]batch of hot dogs I just finished making[n]earlier...
-Won't you donate some on my behalf,[n]along with your reward?
+Hermana, creo que me robaste todo el lote de perritos calientes que acababa de hacer...
+夷No donar胤as unos pocos en mi nombre, junto con tu recompensa?
 
 [msg MSG_042 [Elizabeth]]
 ......
-Thank goodness, a crisis has been[n]averted. You asked at the perfect[n]moment.
-Fortunately, I have one remaining on[n]hand. I present it to you.
+Gracias a Dios, se ha evitado una crisis. Has preguntado en el momento perfecto.
+Afortunadamente, me queda uno a mano. Se los regalo.
 
 [msg MSG_043 [Theodore]]
-J-Just one left!? Don't tell me you've[n]already devoured the rest...?
+斡夷S-Solo te queda uno?! 夷No me digas que ya has devorado el resto...?
 
 [msg MSG_044 [Elizabeth]]
-Now! As this case has been neatly[n]wrapped up, let us call this gathering[n]to a close for now.
-I will continue to investigate the true[n]nature of that film.
-In particular, I shall remain on the[n]lookout for special screenings that[n]demand someone's participation.
-Well then, until next time.
+Como este caso ha quedado perfectamente resuelto, demos por concluida esta reuni吋n por ahora.
+Seguir姻 investigando la verdadera naturaleza de esa pel胤cula.
+En particular, permanecer姻 atenta a las proyecciones especiales que exijan la participaci吋n de alguien en espec胤fico.
+Bueno, hasta la pr吋xima.
 
 [msg SYS_MES_000]
-The effect of the increased your Persona[n]stock by .
+El efecto del [f 4 4 3 0 1593] ha aumentado tu reserva de personas en [f 0 1 2][f 2 4 0][f 0 1 0].
 

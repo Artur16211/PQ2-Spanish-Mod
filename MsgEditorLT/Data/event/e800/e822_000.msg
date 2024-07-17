@@ -56,5 +56,5 @@ Cualquier cr胤o tiene un momento en el que quiere ser un superh姻roe.
 ... 夷En serio?
 
 [msg MSG_016]
-Una nueva proyecci吋n especial: "A Lesson in Justice" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Una Lecci吋n de Justicia" ha sido a隠adida a la taquilla.
 

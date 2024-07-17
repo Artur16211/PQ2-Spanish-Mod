@@ -72,5 +72,5 @@ Y lo mismo va para ti, Oracle―si eres tan amable de aconsejarnos cuando estemo
 斡S-S胤! 斡Vamos a hacerlo lo mejor posible!
 
 [msg MSG_021]
-Una nueva proyecci吋n especial: "Officer Imposter!", ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "斡Oficial Impostor!", ha sido a隠adida a la taquilla.
 

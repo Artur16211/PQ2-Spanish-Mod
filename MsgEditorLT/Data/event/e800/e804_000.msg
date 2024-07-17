@@ -80,5 +80,5 @@ Okay, 夷d吋nde deber胤amos practicar? La 雨nica forma de aprender es salir f
 Podemos planear lo que queda despu姻s, 夷vale?
 
 [msg MSG_022]
-Una nueva proyecci吋n especial: "Kung Fu Catwalk!" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "斡Pasarela de Kung Fu!" ha sido a隠adida a la taquilla.
 

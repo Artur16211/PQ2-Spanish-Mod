@@ -93,5 +93,5 @@ Bueno, tenemos muchas aqu胤, as胤 que podemos dividirlas entre todos una vez v
 Necesitar姻 reponer los ingredientes en alg雨n momento.
 
 [msg MSG_028]
-Una nueva proyecci吋n especial: "Theodore's Special Popcorn" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Las Palomitas Especiales de Theodore" ha sido a隠adida a la taquilla.
 

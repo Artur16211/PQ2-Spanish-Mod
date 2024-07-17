@@ -2,7 +2,7 @@
 夷Qu姻 compasi吋n deber胤a sentir...?
 
 [msg CMPPOEM_NOT_PATHOS]
-Ahora no percibo nada...
+No percibo nada...
 
 [sel CMPPOEM_SELECT_1 top]
 "To the Heartless"

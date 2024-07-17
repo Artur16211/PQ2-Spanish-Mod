@@ -1,178 +1,178 @@
 [msg MSG_000 [Elizabeth]]
-...However, [f 6 1 16 0 0]'s stomach truly knows[n]no limit.
-Certainly, I believe his gastronomic[n]capacity is far beyond that of ordinary[n]humans...
+... Sin embargo, el est吋mago de [f 6 1 16 0 0] realmente no conoce l胤mites.
+Ciertamente, creo que su capacidad gastron吋mica est茨 muy por encima de la de los humanos corrientes.
 
 [msg MSG_001 [Margaret]]
-I wonder. You'll find my guest has quite[n]an uncanny skill for it as well.
+Me lo imagino. T雨 tambi姻n ver茨s que mi invitado tiene una habilidad asombrosa para ello.
 
 [msg MSG_002 [Junpei]]
-Yikes, sparks are flyin'. Are those two[n]glaring at each other?
+Vaya, saltan chispas. 夷Esas dos se est茨n fulminando con la mirada?
 
 [msg MSG_003 [Theodore]]
-Well, it began innocently enough...
-They were discussing the capabilities of[n]their respective guests, and [f 6 1 13 0 0 0]...
-They could not agree on who was the more[n]voracious eater, and now it's become[n]quite an argument.
+Bueno, empez吋 inocentemente...
+Estaban discutiendo las capacidades de sus respectivos invitados, [f 6 1 16 0 0] y [f 6 1 13 0 0 0]...
+No se pon胤an de acuerdo sobre qui姻n com胤a m茨s, y ahora se ha convertido en toda una discusi吋n.
 
 [msg MSG_004 [Yosuke]]
-How does this stuff happen...?
-Geez. If those two aren't even here,[n]this is just gonna go on forever.
+夷C吋mo ocurren estas cosas...?
+Cielos. Si esos dos ni siquiera est茨n aqu胤, esto va a durar para siempre.
 
 [sel SEL_005 top]
-Let's call them over.
-Hey, [f 6 1 16 0 0]!
-Hey, [f 6 1 13 0 0 0]!
+Vamos a llamarles.
+斡Ey, [f 6 1 16 0 0]!
+斡Ey, [f 6 1 13 0 0 0]!
 
 [msg MSG_006 [P3 Hero]]
-...I have a bad feeling about this.
+... Tengo un mal presentimiento.
 
 [msg MSG_007 [P4 Hero]]
-Yeah. I'm starting to think we need an[n]escape plan...
+S胤. Estoy empezando a pensar que necesitamos un plan de escape...
 
 [msg MSG_008 [Margaret]]
-Ah, there you are.
+Ah, est茨n ah胤.
 
 [msg MSG_009 [P3 Hero]]
-...Too late, I guess.
+... Muy tarde, supongo.
 
 [msg MSG_010 [P4 Hero]]
-Ah, geez...
+Ah, vaya...
 
 [msg MSG_011 [Elizabeth]]
-Allow me to explain. The fact is, et[n]cetera, et cetera, et cetera...
-We would like to decide the winner[n]between you two once and for all.
+Perm胤tanme que me explique. El hecho es, etc姻tera, etc姻tera, etc姻tera...
+Nos gustar胤a decidir el ganador entre ustedes dos de una vez por todas.
 
 [msg MSG_012 [P3 Hero]]
-This is pretty short notice...
+Esto es con muy poca anticipaci吋n...
 
 [msg MSG_013 [Margaret]]
-The rules are simple.
-Your only task is to eat as much as you[n]can within the allotted time.
+Las reglas son sencillas.
+Su 雨nica tarea es comer todo lo que puedan en el tiempo asignado.
 
 [sel SEL_014 top]
-Sounds easy enough.
-Oh, this'll be good.
-Eating what?
+Suena bastante f茨cil.
+Oh, esto estar茨 bien.
+夷Comer qu姻?
 
 [msg MSG_015 [Chie]]
-Yeah, it's like an all-you-can-eat[n]contest. But what food do we even have[n]around here?
+S胤, es como un concurso de comer todo lo que puedas. Pero, 夷qu姻 comida tenemos por aqu胤?
 
 [msg MSG_016 [Ann]]
-You're not joining in, are you?
+T雨 no participas, 夷verdad?
 
 [msg MSG_017 [Makoto]]
-Please don't complicate this further...
-Besides, do we even have that much food[n]for them to eat?
+Por favor, no lo compliques m茨s...
+Adem茨s, 夷tenemos tanta comida para ellos?
 
 [msg MSG_018 [Haru]]
-We have a lot of popcorn, but I'm not[n]sure that's suitable for a competition[n]like this...
+Tenemos un mont吋n de palomitas, pero no s姻 si son adecuadas para una competici吋n como esta...
 
 [msg MSG_019 [P3 Hero]]
-Ah, what a shame. And we don't have[n]cooking supplies, either. Guess it's[n]impossible―
+Ah, qu姻 pena. Y tampoco tenemos utensilios de cocina. Supongo que es imposible...
 
 [msg MSG_020 [Hikari]]
-We... might have some cooking supplies.
+Nosotros... podr胤amos tener algunos utensilios.
 
 [msg MSG_021 [P3 Hero]]
-...Oh. That's just... great.
+... Oh. Eso es... genial.
 
 [msg MSG_022 [Hikari]]
-I think I saw some at the concession[n]stand... One moment...
+Creo que vi algunos en el puesto de comida... Un momento...
 
 [msg MSG_023 [Hikari]]
-This is it...
+Esto es...
 
 [msg MSG_024 [Chie]]
-A square tray thing?
+夷Una bandeja cuadrada?
 
 [msg MSG_025 [Fuuka]]
-Oh... This is a sieve for a deep fryer.
+Oh... Esto es un colador para una freidora.
 
 [msg MSG_026 [Chie]]
-Oh! We can deep fry some stuff! Let's[n]make some fried chicken! Or maybe even[n]some croquettes!
+斡Oh! 斡Podemos fre胤r algunas cosas! 斡Hagamos pollo frito! 斡O quiz茨s unas croquetas!
 
 [msg MSG_027 [Shinjiro]]
-We wouldn't have the ingredients for[n]that. All we've got is a ton of flour...
+No tendr胤amos los ingredientes para eso. Todo lo que tenemos es un mont吋n de harina...
 
 [sel SEL_028 top]
-Donuts?
-Udon?
-Soba?
+夷Donuts?
+夷Udon?
+夷Soba?
 
 [msg MSG_029 [Shinjiro]]
-Yeah, that'll work fine.
+S胤, eso servir茨.
 
 [msg MSG_030 [Shinjiro]]
-You don't fry that, genius. And we don't[n]have any soup.
-Guess we could make donuts or something.
+Eso no se fr胤e, genio. Y no tenemos sopa.
+Supongo que podr胤amos hacer donuts o algo as胤.
 
 [msg MSG_031 [Chie]]
-I like that! I'll eat as much as you[n]guys can make!
+斡Me gusta! 斡Me comer姻 todos los que puedan hacer!
 
 [msg MSG_032 [Shinjiro]]
-Not happening. It's not made with flour,[n]and it's not fried.
-Guess we could make donuts or something.
+No podr茨 ser. No est茨 hecho con harina, y no se fr胤e.
+Supongo que podr胤amos hacer donuts o algo as胤.
 
 [msg MSG_033 [Ann]]
-Donuts...!
+斡Donuts...!
 
 [msg MSG_034 [P4 Hero]]
-Fried, heavy dough!?
+斡夷Masa frita y pesada?!
 
 [msg MSG_035 [Elizabeth]]
-Then it is decided. Here begins the[n]grandest donut-eating competition of[n]all―
+Entonces est茨 decidido. 斡Aqu胤 comienza la mayor competici吋n de comer donuts de todos los...!
 
 [msg MSG_036 [Theodore]]
-Um, Sister... I do apologize for[n]interrupting, but...
-I believe the deep fryer needs some more[n]parts before it'll function.
+Um, Hermana... Perd吋n por interrumpirte, pero...
+Creo que la freidora necesita algunas piezas m茨s para funcionar.
 
 [msg MSG_037 [Elizabeth]]
 ......
 
 [msg MSG_038 [Margaret]]
-Then I suppose the verdict will have to[n]wait.
+Entonces supongo que el veredicto tendr茨 que esperar.
 
 [msg MSG_039 [Elizabeth]]
-Yes... None can escape our final[n]judgment.
+S胤... Nadie puede escapar de nuestro juicio final.
 
 [msg MSG_040 [P3 Hero]]
-Final... judgment?
+夷Juicio... final?
 
 [msg MSG_041 [Elizabeth]]
-Oh? It appears another special screening[n]has been added.
-This mission's objective is to obtain[n]two Cognitive Devices in A.I.G.I.S.
+夷Oh? Parece que otra proyecci吋n especial ha sido a隠adida.
+El objetivo de esta misi吋n es conseguir dos "Dispositivos Cognitivos" en A.I.G.I.S.
 
 [msg MSG_042 [Theodore]]
-Ah! That's exactly what we need to fix[n]the fryer.
+斡Ah! Eso es exactamente lo que necesitamos para arreglar la freidora.
 
 [sel SEL_043 top]
-A little too perfect...
-What a coincidence.
+Un poco demasiado perfecto...
+Menuda coincidencia.
 
 [msg MSG_044 [Margaret]]
-Yes... Most fortuitous indeed.
+S胤... Muy casual, de hecho.
 
 [msg MSG_045 [P4 Hero]]
 ......
 
 [msg MSG_046 [Elizabeth]]
-This task will not only earn you the[n]standard reward...
-You will win the chance at all the[n]donuts you can eat!
+Esta tarea no solo les har茨 ganar la recompensa est茨ndar...
+斡Ganar茨n la oportunidad de comer todos los donuts que puedan!
 
 [msg MSG_047 [Futaba]]
-Whoa!
+斡Whoa!
 
 [msg MSG_048 [Yusuke]]
-All we can eat!?
+斡夷Todos los que podamos comer?!
 
 [msg MSG_049 [Elizabeth]]
-It seems their hopes lie with you.
+Parece que sus esperanzas est茨n puestas en ti.
 
 [msg MSG_050 [P3 Hero]]
 ......
 
 [msg MSG_051 [Elizabeth]]
-So I do hope that you all accept this[n]mission.
+As胤 que espero que todos acepten esta misi吋n.
 
 [msg MSG_052]
-A new special screening: "Wildcard[n]Buffet" has been added to the box[n]office.
+Una nueva proyecci吋n especial: "Banquete de Comod胤n" ha sido a隠adida a la taquilla.
 

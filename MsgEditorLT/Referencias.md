@@ -171,7 +171,8 @@
 | Mother Computer      | Madre Computadora     |
 | Enlil                | Enlil                 |
 | Hikari's Cheerhas    | Ánimos de Hikari      |
-| Link Boost           |                      |
+| Link Boost           | AUMENTO DE ENLACE                     |
+| Link Up              | Enlazar                     |
 | Team Convert         |                      |
 | Quick Convert        |                      |
 | Rare Shadows         | Sombras Raras         |

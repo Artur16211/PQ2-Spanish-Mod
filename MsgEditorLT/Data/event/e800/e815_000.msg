@@ -48,5 +48,5 @@ As胤 es, Koromaru. Tu nariz no ser茨 tan efectiva contra los enemigos mec茨ni
 Parece que esta ciudad de ciencia ficci吋n ser茨 todo un reto.
 
 [msg MSG_014]
-Una nueva proyecci吋n especial: "Beast Hunt" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Caza de Bestias" ha sido a隠adida a la taquilla.
 

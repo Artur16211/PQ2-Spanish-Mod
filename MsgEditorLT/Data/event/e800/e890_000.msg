@@ -1,143 +1,143 @@
 [msg MSG_000 [Elizabeth]]
-Everyone, I apologize deeply for the[n]long wait.
-I've studied that film you discovered,[n]and come up with some theories.
+Pido disculpas a todos por la larga espera.
+He estudiado la pel胤cula que descubrieron y he elaborado algunas teor胤as.
 
 [sel SEL_001 top]
-Let's hear it.
-What did you find out?
+Vamos a o胤rlas.
+夷Qu姻 has descubierto?
 
 [msg MSG_002 [Elizabeth]]
-Well, please keep in mind that this is[n]mostly speculation, but...
-In the special screening in question,[n]engaged in battle, as requested on its[n]ticket.
-The film was left behind by the Shadow[n]defeated by [f 6 1 30 0 0 0]'s might. In other[n]words...
-I hypothesize that his power is directly[n]responsible for the film's appearance.
+Bueno, tened en cuenta que mayormente son especulaciones, pero...
+En la proyecci吋n especial en cuesti吋n, [f 6 1 30 0 0 0] particip吋 en batalla, como el ticket lo ped胤a.
+La pel胤cula fue dejada por la sombra que [f 6 1 30 0 0 0] derrot吋. En otras palabras...
+Mi hip吋tesis es que su poder es el responsable de la aparici吋n de la pel胤cula.
 
 [sel SEL_003 top]
-Which power?
-I don't get it.
+夷Qu姻 podre?
+No lo entiendo.
 
 [msg MSG_004 [Elizabeth]]
-I refer to your limitless possibilities.[n]What we call the power of the wild card.
+Me refiero a tus posibilidades ilimitadas. Lo que llamamos el poder del comod胤n.
 
 [msg MSG_005 [Elizabeth]]
-My, have you still not realized?
-I refer to the limitless possibilities[n]slumbering within you. We know it as the[n]power of the wild card.
+Vaya, 夷a雨n no te has dado cuenta?
+Me refiero a las posibilidades que dormitan en tu interior. Lo conocemos como el poder del comod胤n.
 
 [msg MSG_006 [Elizabeth]]
-And those with the power of the wild[n]card never gain such power without[n]reason.
-In other words, that film is a key― one[n]meant to draw out further possibilities[n]from within you...
+Y los que tienen el poder del comod胤n nunca lo adquieren sin un motivo.
+En otras palabras, esa pel胤cula es una llave destinada a sacar m茨s posibilidades de tu interior...
 
 [msg MSG_007 [Akechi]]
-Hmm... That seems like a bit of a reach[n]to me, but let's suppose this film[n]actually is a "key" to his power.
+Hmm... Eso me parece un poco exagerado, pero supongamos que esta pel胤cula es realmente una "llave" a su poder.
 
 [msg MSG_007_1 [Akechi]]
-himself doesn't seem to have changed[n]much... How do you explain that?
+ no parece haber cambiado mucho... 夷C吋mo se explica eso?
 
 [msg MSG_008 [Elizabeth]]
 ......
 
 [msg MSG_008_1 [Elizabeth]]
-For the sake of answering this query,[n]allow me to offer an idea of my own.
+Para responder a esta pregunta, perm胤tanme aportar mi propia idea.
 
 [msg MSG_009 [Elizabeth]]
-Theo! Theo! Come here at once!
-Theo! Theooooo! Don't make me get the[n]soybean powder―
+斡Theo! 斡Theo! 斡Ven aqu胤 de una vez!
+斡Theo! 斡Theooooo! No me hagas usar el polvo de soja...
 
 [msg MSG_010 [Theodore]]
-Th-That's enough, Sister!
+斡Y-Ya basta, Hermana!
 
 [msg MSG_010_1 [Theodore]]
-Even the mere mention of it... I can[n]feel my tongue shriveling, drying into[n]lifeless dust...
+Incluso la mera menci吋n de ello... Puedo sentir mi lengua arrug茨ndose, sec茨ndose en polvo sin vida...
 
 [msg MSG_011 [Ryuji]]
-The hell kinda PTSD is that...? What did[n]she do to you, man?
+夷Qu姻 clase de enfermedad es esa...? 夷Qu姻 te ha hecho, bro?
 
 [msg MSG_012 [Theodore]]
-Goodness! What a pleasant surprise to[n]see you all gathered here.
-So, Sister? What did you need of me?
+斡Madre m胤a! Qu姻 agradable sorpresa veros a todos reunidos aqu胤.
+Entonces, hermana, 夷qu姻 necesitabas de m胤?
 
 [msg MSG_013 [Elizabeth]]
-Theo, surely you have not forgotten that[n]you are one who governs power?
+Theo, 夷seguro que no has olvidado que t雨 eres uno de los que gobiernan el poder?
 
 [msg MSG_014 [Theodore]]
-Why, certainly not.
-However I may be dressed, I take pride[n]in performing my duties.
+Claro que no.
+Me vista como me vista, me enorgullezco de cumplir con mi deber.
 
 [msg MSG_015 [Elizabeth]]
-Well then. Have a bout with them right[n]now.
+Pues bien. Combate contra ellos ahora mismo.
 
 [msg MSG_016 [Theodore]]
-...Huh?
+... 夷Eh?
 
 [msg MSG_016_1 [Theodore]]
-A bout...? You want me to fight and his[n]companions!?
+夷Una batalla...? 斡夷Quieres que luche contra [f 6 1 30 0 0 0] y sus compa隠eros?!
 
 [msg MSG_017 [Elizabeth]]
-Indeed! Naturally, there's no need to[n]hold back.
-Of course, I ask the same of you all as[n]well. Please fight as if you wish to[n]kill him.
+斡Ya lo creo! Naturalmente, no hay por qu姻 contenerse.
+Por supuesto, les pido lo mismo a todos ustedes tambi姻n. Por favor, luchen como si quisieran matarlo.
 
 [sel SEL_018 top]
-This makes no sense.
-I'm totally lost.
+Esto no tiene sentido.
+Estoy totalmente perdido.
 
 [msg MSG_019 [Theodore]]
-Yes, this is ridiculous. Look, they're[n]all struggling to keep up with you...
+S胤, esto es rid胤culo. Mira, todos est茨n luchando para seguirte el ritmo...
 
 [msg MSG_020 [Elizabeth]]
-Oh...?
-Are you back-sassing me? I didn't know[n]you had such an attitude problem, Theo.
+夷Oh...?
+夷Me est茨s dando la espalda? No sab胤a que tendr胤as ese problema de actitud, Theo.
 
 [msg MSG_021 [Theodore]]
-O-Oh, no... Believe me, there was no[n]variety of sass intended...!
+O-Oh, no... 斡Cr姻eme, no lo he hecho intencionadamente...!
 
 [msg MSG_022 [Elizabeth]]
-, I truly apologize if this suggestion[n]is too sudden or brash...
+ , pido disculpas si esta petici吋n ha sido demasiado repentina o descarada.
 
 [msg MSG_022_1 [Elizabeth]]
-However, I believe this battle will bear[n]fruitful results indeed.
-This is but a step to solving the[n]mystery of that film, and delving into[n]the possibilities of the wild card.
+Sin embargo, creo que esta batalla dar茨 resultados realmente fruct胤feros.
+Esto no es m茨s que un paso para resolver el misterio de esa pel胤cula, y ahondar en las posibilidades del comod胤n.
 
 [msg MSG_023 [Theodore]]
-This is for the power of the wild[n]card...?
+夷Esto es por el poder del comod胤n...?
 
 [msg MSG_024 [Makoto]]
-How is fighting Theodore going to solve[n]anything?
+夷C吋mo pelear contra Teo va a solucionar algo?
 
 [msg MSG_025 [Elizabeth]]
-I shall happily explain further once[n]you've beaten the crap out of Theo.
+Te lo explicar姻 con mucho gusto cuando le hayas dado una paliza a Theo.
 
 [msg MSG_025_1 [Elizabeth]]
-Come now, and I shall witness it all![n]Theo VS. everyone! Round 1! FIGHT!
+斡Venid ahora y ser茨n testigos de todo! 斡Theo VS. todos! 斡Primera ronda! 斡LUCHAD!
 
 [msg MSG_026 [Futaba]]
-Whoa, Zabby's hyped.
+Hala, Zabby est茨 entusiasmada.
 
 [msg MSG_027 [Theodore]]
-...Well, I'm sure you know by now. Once[n]my sister seizes on an idea, there is[n]little point resisting.
-Would you do as my sister says, and have[n]a bout with me?
+... Bueno, estoy seguro de que ya lo saben. Una vez que mi hermana se apodera de una idea, no tiene sentido resistirse.
+夷Podr胤an hacer lo que dice mi hermana y luchar contra m胤?
 
 [sel SEL_028 top]
-Bring it on.
-I'll need a moment.
+Adelante.
+Necesitar姻 un momento.
 
 [msg MSG_029 [Theodore]]
-Understood.
-I shall go prepare myself as well. Let[n]us meet in the Velvet Room.
+Entendido.
+Yo tambi姻n ir姻 a prepararme. Encontr姻monos en la Habitaci吋n Terciopelo.
 
 [msg MSG_030 [Theodore]]
-Of course. Please speak to me again once[n]you are prepared.
+Por supuesto. Por favor, vuelva a hablar conmigo cuando est姻 preparado.
 
 [msg MSG_031 [Theodore]]
-Ah, welcome. Are you ready for our bout?
+Ah, bienvenidos. 夷Est茨n listos para nuestra batalla?
 
 [sel SEL_032 top]
-We're ready.
-Not yet.
+Estamos preparados.
+A雨n no.
 
 [msg MSG_033 [Theodore]]
-Understood.
-I shall go prepare myself as well. Let[n]us meet in the Velvet Room.
+Entendido.
+Yo tambi姻n ir姻 a prepararme. Encontr姻monos en la Habitaci吋n Terciopelo.
 
 [msg MSG_034 [Theodore]]
-In that case, please speak to me again[n]once you are prepared.
+En ese caso, por favor, vuelva a hablar conmigo cuando est姻 preparado.
 

@@ -1,87 +1,87 @@
 [msg MSG_000 [P4 Protag]]
-Now we have two.
+Ahora tenemos dos.
 
 [msg MSG_001 [Fuuka]]
-Good job, everyone! That should be[n]enough to get the fryer fixed.
+斡Buen trabajo a todos! Eso deber胤a de ser suficiente para reparar la freidora.
 
 [msg MSG_002 [Yosuke]]
-Time for the duel!
+斡Hora del duelo!
 
 [msg MSG_003 [P4 Hero]]
-You're having fun with this, huh.
+Te est茨s divirtiendo con esto, eh.
 
 [msg MSG_004 [Yosuke]]
-Well, it's not every day I see you get[n]serious about a competition. I'm rooting[n]for you, partner!
+Bueno, no todos los d胤as te veo tomarte en serio una competici吋n. 斡Te apoyo, compa隠ero!
 
 [msg MSG_005 [Aigis]]
-We will be cheering with equal support.
+Nosotros tambi姻n te estaremos animando con el mismo apoyo.
 
 [msg MSG_006 [Koromaru]]
-Awoooo!
+斡Awoooo!
 
 [msg MSG_007 [P3 Hero]]
-I'll do my best.
+Lo har姻 lo mejor que pueda.
 
 [sel SEL_008 top]
-They're counting on you.
-You accepted the duel?
+Cuentan contigo.
+夷Aceptaste el duelo?
 
 [msg MSG_009 [P3 Hero]]
-Not just me. [f 6 1 13 0 0 0], too.
+No solo conmigo. Con [f 6 1 13 0 0 0], tambi姻n.
 
 [msg MSG_010 [P3 Hero]]
-I mean, they're cheering pretty hard for[n]me. I'm sure [f 6 1 13 0 0 0] doesn't want to let[n]his team down either.
+Me est茨n animando mucho. Estoy seguro de que [f 6 1 13 0 0 0] tampoco quiere defraudar a su equipo.
 
 [msg MSG_011 [Kanji]]
--senpai! I'll be your head cheerleader!
-If it's too much for you, I'll rub your[n]back! If you faint, I'm gonna be the guy[n]carryin' you!
+! 斡Ser姻 tu animador principal!
+Si es demasiado para ti, 斡te frotar姻 la espalda! 斡Si te desmayas, yo ser姻 quien te cargue!
 
 [msg MSG_012 [P4 Hero]]
-G-Great...
-That's what they're expecting from me,[n]huh...?
+G-Genial...
+Eso es lo que esperan de m胤, 夷eh...?
 
 [msg MSG_013 [P3 Hero]]
-Eh, you're tough. Everyone believes in[n]you.
+Eh, eres duro. Todo el mundo cree en ti.
 
 [msg MSG_014 [P4 Hero]]
-I don't know if they believe in me[n]because I'm tough. I think it's the[n]other way around.
+No s姻 si creen en m胤 porque soy duro. Creo que es al rev姻s.
 
 [msg MSG_015 [P3 Hero]]
-Huh?
+夷Eh?
 
 [msg MSG_016 [P4 Hero]]
-Because I have all of them believing in[n]me, I've become this strong.
-I got better so I'd never let my friends[n]down.
+Gracias a que todos ellos creen en m胤, me he hecho as胤 de fuerte.
+Mejor姻 para no defraudar a mis amigos.
 
 [sel SEL_017 top]
-I know how that feels.
-Guess it's universal.
+S姻 como se siente.
+Supongo que es universal.
 
 [msg MSG_018 [P3 Hero]]
-Heh... I see your point. My friends are[n]what keep me fighting, too.
-Feels like we rely on them more than[n]they ever rely on us...
+Je... Te entiendo. Mis amigos son los que tambi姻n me mantienen luchando.
+Parece que dependemos m茨s de ellos que ellos de nosotros...
 
 [msg MSG_019 [Junpei]]
-Hey, pick it up, you two. Or else[n]Akihiko-senpai's gonna...
+Eh, dense prisa ustedes dos. O si no Akihiko va a...
 
 [msg MSG_020 [Akihiko]]
-I've got it! What if we made flags for[n]each team?
-Two powerful rivals pitted against each[n]other! I'm rooting for both of them.
+斡Ya lo tengo! 夷Y si hacemos banderas para cada equipo?
+Dos poderosos rivales enfrentados. Los apoyo a ambos.
 
 [msg MSG_021 [P3 Hero]]
-That's a little much...
+Eso es demasiado...
 
 [msg MSG_022 [Yukiko]]
-I'll get some condiments ready to help[n]you eat all you can.
-Maybe some mustard would help them go[n]down? Oh, or some nice, salty soy sauce!
+Preparar姻 algunos condimentos para ayudarte a comer todo lo que puedas.
+夷Quiz茨s un poco de mostaza ayudar胤a a bajarlo? 斡O un poco de salsa de soja salada!
 
 [msg MSG_023 [P4 Hero]]
-On donuts?
-...I'm good, thanks. It's the thought[n]that counts.
+夷En los donuts?
+... Estoy bien, gracias. La intenci吋n es lo que cuenta.
 
 [msg MSG_024 [P3 Hero]]
-...Let's just get this over with, before[n]it gets any worse for us.
+... Acabemos con esto, antes de que se ponga peor para nosotros.
 
 [msg MSG_025 [P4 Hero]]
-Right. Let's head back to the theater.
+Cierto. Volvamos al cine.
 

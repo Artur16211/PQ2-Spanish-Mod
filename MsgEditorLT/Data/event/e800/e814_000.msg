@@ -109,5 +109,5 @@ Jajaja... Eso pensaba...
 T胤o, esas dos har胤an un gran equipo...
 
 [msg MSG_032]
-Una nueva proyecci吋n especial: "The Ties that Bind" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Los Lazos que Nos Unen" ha sido a隠adida a la taquilla.
 

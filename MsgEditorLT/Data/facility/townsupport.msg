@@ -917,10 +917,10 @@ Wow, 夷C吋mo pueden comer tanto...?
 Vamos, Shinji. 夷Es lo mejor que[n]tienes?
 
 [msg town_bg11_ARAGAKI_mes01]
-Tch. No puedo perder...
+Tss. No puedo perder...
 
 [msg town_bg11_ARAGAKI_mes02]
-びぼめテ ィっま ょもょむゎょぺ ゆぺょまるぺ わよを ぺ れまる ぽまるるよろぺぽよ[n]らよる ゎょ もぽもよろぺ るまゅゅまょよ ぽま らぺゅよゆもろぺれ!
+びれれテ ィっま ょもょむゎょぺ ゆぺょまるぺ わよを ぺ れまる ぽまるるよろぺぽよ[n]らよる ゎょ もぽもよろぺ るまゅゅまょよ ぽま らぺゅよゆもろぺれ!
 
 [msg town_bg12_ANN_mes01]
 斡Est茨 bien! 斡Nos van a echar!

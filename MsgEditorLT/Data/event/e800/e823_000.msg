@@ -59,5 +59,5 @@ Ugh... Francamente, me preocupar胤a dejar a [f 6 1 26 0 0 0] justo con vosotros
 Ambos deber胤as controlar vuestros temperamentos. 夷Entendido?
 
 [msg MSG_017]
-Una nueva proyecci吋n especial: "Transcendental Trust" ha sido a隠adida a la taquilla.
+Una nueva proyecci吋n especial: "Confianza Trascendental" ha sido a隠adida a la taquilla.
 

@@ -1,106 +1,106 @@
 [msg MSG_000 [Teddie]]
-Whew, we made it...
+Whew, lo hemos hecho...
 
 [msg MSG_001 [Morgana]]
-Heh, tired already? Some number-one[n]mascot you are.
+Je, 夷ya est茨s cansado? Menuda mascota n雨mero uno eres.
 
 [msg MSG_002 [Koromaru]]
-Woof! Woof!
+斡Woof! 斡Woof!
 
 [msg MSG_003 [Teddie]]
-I'm not tired! I'm just doing breathing[n]exercises! Foo-Fooo[f 0 1 1]
+斡No estoy cansado! 斡Solo estoy haciendo ejercicios de respiraci吋n! Foo-Fooo[f 0 1 1]
 
 [msg MSG_004 [Rise]]
-Good work, guys! Make sure you give[n]yourselves a rest before getting back on[n]track!
+斡Buen trabajo, chicos! 斡Aseguraos de descansar antes de volver al trabajo!
 
 [msg MSG_005 [Ann]]
-Honestly, I'm kinda surprised we got[n]through. It definitely made the trip[n]shorter, though!
+Honestamente, me sorprende que lo hayamos conseguido. 斡Sin embargo, definitivamente ha acortado el camino!
 
 [msg MSG_006 [Teddie]]
-It sure did! And it's all thanks to my[n]bear-ave leadership.
+斡Claro que s胤! Y todo gracias a mi valer-oso liderazgo.
 
 [msg MSG_007 [Morgana]]
-Quit trying to steal all the credit!
-If anything, it's thanks to my fighting[n]expertise...
+斡Deja de intentar robarte todo el m姻rito!
+En todo caso, es gracias a mi experiencia en la batalla...
 
 [sel SEL_008 top]
-Quit fighting.
-You all did well.
-Say something, Panther.
+Dejen de pelear.
+Todos lo hicieron bien.
+Di algo, Panther.
 
 [msg MSG_009 [Ann]]
-Yeah. We're here because we worked[n]together.
-Besides, there's no time to argue. We[n]haven't even found the grand prize yet!
+S胤. Estamos aqu胤 porque hemos trabajado todos juntos.
+Adem茨s, no hay tiempo para discutir. 斡No hemos encontrado el gran premio todav胤a!
 
 [msg MSG_010 [Ann]]
-That's right. We're here because we[n]worked together.
-Let's keep it up and go for the grand[n]prize too!
+Tienes raz吋n. Estamos aqu胤 porque hemos trabajado juntos.
+斡Sigamos as胤 y vayamos tambi姻n a por el gran premio!
 
 [msg MSG_011 [Ann]]
-Me...?
-Uh... good job, you guys! We wouldn't[n]have made it through that without you!
+夷Yo...?
+Eh... 斡Buen trabajo, chicos! 斡No podr胤amos haberlo hecho sin ustedes!
 
 [msg MSG_012 [Morgana]]
-Well, if you say so, Lady Ann...
+Bueno, si dices eso, Se隠orita Ann...
 
 [msg MSG_013 [Teddie]]
-Hear, hear. I, too, cannot bring myself[n]to trouble such a lovely lady.
+Escuche, escuche. Yo tampoco puedo molestar a una dama tan encantadora.
 
 [msg MSG_014 [Yosuke]]
-Okay, on to the grand prize.
+Bien, vamos al gran premio.
 
 [msg MSG_015 [Yukari]]
-Any idea of what that might be?
-None of what we've found so far has been[n]particularly beautiful or alluring.
+夷Alguna idea de lo que podr胤a ser?
+Nada de lo que hemos encontrado hasta ahora ha sido especialmente bonito o seductor.
 
 [msg MSG_016 [Junpei]]
-It's gonna be something a girl would[n]like, right? I'll bet it's...
+Va a ser algo que le gustar胤a a una chica, 夷verdad? Apuesto a que es...
 
 [sel SEL_017 top]
-Clothes.
-Sweets.
-Money.
+Ropa.
+Dulces.
+Dinero.
 
 [msg MSG_018 [Junpei]]
-Yeah. Something really fancy with frills[n]or ribbons or whatever. Girls love that.
+S胤. Algo muy elegante con volantes o cintas o lo que sea. A las chicas les encanta eso.
 
 [msg MSG_019 [Yukari]]
-Uh, I think you mean YOU love that.
-Also, why would he go through the[n]trouble of hiding something like that[n]out in the jungle?
+Eh, creo que quieres decir que a TI te encantan.
+Adem茨s, 夷por qu姻 se tomar胤a la molestia de esconder algo as胤 en la selva?
 
 [msg MSG_020 [Ann]]
-Well, I do like sweets, but...
+Bueno, me gustan los dulces, pero...
 
 [msg MSG_021 [Yosuke]]
-Nah, who hides something like that in[n]the jungle?
+Nah, 夷qui姻n esconder胤a algo as胤 en la jungla?
 
 [msg MSG_022 [Yukari]]
-Well, I guess it is better to let her[n]buy something she likes rather than give[n]her something without much thought...
+Bueno, supongo que es mejor dejar que se compre algo que le guste a que regalarle algo sin pensarlo mucho...
 
 [msg MSG_023 [Junpei]]
-Yeah, real romantic...
+S胤, muy rom茨ntico...
 
 [msg MSG_024 [Teddie]]
-No, no, that won't do.
-The one that thing that would make a[n]girl happiest is obviously a passionate[n]kiss on the―
+No, no, eso no servir茨.
+Lo que m茨s feliz har胤a a una chica es, obviamente, un beso apasionado en...
 
 [msg MSG_025 [Koromaru]]
-Bark, bark!
+斡Bark, bark!
 
 [msg MSG_026 [Teddie]]
-Wha―!?
+斡夷Qu姻?!
 
 [msg MSG_027 [Aigis]]
-He said if you do that again, you will[n]be escorted off the premises.
+Dijo que si lo vuelves a hacer, ser茨s escoltado fuera de las instalaciones.
 
 [msg MSG_028 [Rise]]
-It's just like a meet and greet...
+Es como conocer y saludar...
 
 [msg MSG_029 [Morgana]]
-Good one, Koromaru.
-Let's ditch this dummy, and find that[n]treasure.
-We're almost there!
+Muy buena, Koromaru.
+Deshag茨monos de este mu隠eco y encontremos ese tesoro.
+斡Ya casi estamos!
 
 [msg MSG_030 [Koromaru]]
-Arf!
+斡Arf!
 
