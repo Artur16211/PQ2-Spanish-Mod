@@ -1,5 +1,20 @@
 ﻿import os
 import logging
+import shutil
+
+def copy_and_replace_files(src_dirs, dest_dir):
+    os.makedirs(dest_dir, exist_ok=True)
+    
+    for src_dir in src_dirs:
+        for root, dirs, files in os.walk(src_dir):
+            for file in files:
+                src_file_path = os.path.join(root, file)
+                relative_path = os.path.relpath(root, src_dir)
+                dest_file_path = os.path.join(dest_dir, relative_path, file)
+                
+                os.makedirs(os.path.dirname(dest_file_path), exist_ok=True)
+                shutil.copy2(src_file_path, dest_file_path)
+                logging.info(f"Copied {src_file_path} to {dest_file_path}")
 
 def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
     os.makedirs(imported_dir, exist_ok=True)
@@ -36,6 +51,22 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                     print(f"Corresponding params file not found for {msg_file_path}")
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
+    
+    src_dirs = [
+        'formats/ARC', 
+        'formats/FONT', 
+        'formats/GSD', 
+        'formats/manual_fixed', 
+        'formats/TABLES', 
+        'formats/TBL'
+    ]
+    dest_dir = 'MsgEditorLT/imported'
+    
+    logging.info("Copying Format files")
+    copy_and_replace_files(src_dirs, dest_dir)
+    
+    #
     logging.info("Replacing dialogs in files")
     msgs_dir = 'MsgEditorLT/Data'
     msgparams_dir = 'MsgEditorLT/msgparams'
