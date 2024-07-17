@@ -1,5 +1,5 @@
 [msg CMPPOEM_PATHOS]
-夷Qu姻 compasi吋n deber胤a sentir...?
+夷Qu姻 compasi吋n deber胤a sentir...? 
 
 [msg CMPPOEM_NOT_PATHOS]
 No percibo nada...
