@@ -1,16 +1,16 @@
 [msg MSG_000 [P4 Protag]]
-Over there. I guess that's our target.
+Ah胤 est茨. Supongo que ese es nuestro objetivo.
 
 [msg MSG_001 [Rise]]
-Senpai, that one's strong...! Be careful[n]out there, okay?
+斡Este enemigo es fuerte...! 夷Ten cuidado por all胤, vale?
 
 [msg MSG_002 [P4 Hero]]
-Don't worry. I've got Joker and the[n]others with me.
+No te preocupes. Tengo a Joker y a los dem茨s conmigo.
 
 [sel SEL_003 top]
-You can handle this one.
-We'll be counting on you.
+Puedes encargarte de esto.
+Contamos contigo.
 
 [msg MSG_004 [P4 Hero]]
-Right. I'll give it everything I've got.[n]Let's win this!
+De acuerdo. Dar姻 todo lo que tengo. 斡Ganemos esta batalla!
 

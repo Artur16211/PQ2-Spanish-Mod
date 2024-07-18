@@ -1,40 +1,40 @@
 [msg MSG_000 [Elizabeth]]
-Fine work. You've emerged victorious[n]from a most vicious fight! I can only[n]give you a standing ovation.
-And just as I had predicted, you've[n]acquired another piece of film.
+Buen trabajo. 斡Han salido victoriosos de una batalla muy feroz! Solo puedo alabaros. 
+Y justo como hab胤a predicho, han conseguido otra parte de pel胤cula.
 
 [msg MSG_001 [P4 Hero]]
-But it's definitely seen better days.
+Pero definitivamente ha visto d胤as mejores.
 
 [msg MSG_001_1 [P4 Hero]]
-If it's just like the other one, then we[n]just have to display our power to[n]activate it, right?
+Si es igual que la otra, solo tenemos que desplegar nuestro poder para activarla, 夷no?
 
 [msg MSG_002 [Makoto]]
-Does that mean we'll be fighting[n]Theodore again...?
+夷Eso significa que tendremos que luchar otra vez contra Theodore...?
 
 [sel SEL_003 top]
-Bring it on.
-Gotta brace myself...
+Traedlo.
+Tengo que prepararme...
 
 [msg MSG_004 [Elizabeth]]
-Hmhm... Spoken like a truly hotblooded[n]rapscallion.
+Hmhm... Lo has dicho como un verdadero brib吋n apasionado.
 
 [msg MSG_004_1 [Elizabeth]]
-By all means... or so I would say, but[n]the rules must be observed.
+Por supuesto... o eso dir胤a yo, pero hay que respetar las normas.
 
 [msg MSG_005 [Elizabeth]]
-My, there's no need to be so anxious.
-After all, there are rules that must be[n]observed. In the meantime, you may[n]prepare mentally and physically.
+No hay necesidad de estar tan inquieto.
+Despu姻s de todo, hay normas que deben ser respetadas. Mientras tanto, puedes prepararte mental y f胤sicamente.
 
 [msg MSG_006 [Elizabeth]]
-All that aside, you have satisfied the[n]request. The Shadow is slain.
+Aparte de eso, han completado la petici吋n. La sombra est茨 derrotada.
 
 [msg MSG_006_1 [Elizabeth]]
-And so you are owed an appropriate[n]reward. [f 6 1 13 0 0 0] gave us a fine[n]performance indeed.
-Once you are fully prepared to display[n]your power, come speak to me again, just[n]like before.
+Y por eso, os debo una recompensa apropiada. De hecho, [f 6 1 13 0 0 0] nos deleit吋 con una magn胤fica actuaci吋n.
+Una vez que est姻n totalmente preparados para desplegar su poder, venid a hablar conmigo, como la otra vez.
 
 [msg MSG_007 [Morgana]]
-There's no telling who we'll be up[n]against this time. Whoever it is, it[n]won't be easy.
+No sabemos a qui姻n nos enfrentaremos esta vez. Sea quien sea, no ser茨 f茨cil.
 
 [msg MSG_007_1 [Morgana]]
-We'll take her challenge once we've[n]gotten ourselves ready. It'll be a[n]serious fight, that's for sure.
+Aceptaremos su desaf胤o cuando nos hayamos preparado. Ser茨 un combate serio, eso seguro.
 
