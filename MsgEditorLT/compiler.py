@@ -56,7 +56,7 @@ def run_program(mod_folder, output_folder):
 
     mod_files_list = [x.replace(mod_folder, '') for x in mod_files_list]
 
-    logging.info("Copying all the files and folders from mod_folder to output_folder")
+    logging.info("Copying all the files and folders to output_folder")
     for folder in [mod_folder]:
         for file in os.scandir(folder):
             if file.is_file():
@@ -66,13 +66,13 @@ def run_program(mod_folder, output_folder):
                 shutil.copytree(file.path, os.path.join(output_folder, file.name))
                 #logging.info(f"Copied folder: {file.path} to {os.path.join(output_folder, file.name)}")
 
-    logging.info("Compiling all the .msg files")
+    logging.info("Compiling all .msg files")
     for root, dirs, files in os.walk(output_folder):
         for msg_file in files:
             if msg_file.lower().endswith('.msg'):
                 ASCCompile(os.path.join(root, msg_file))
 
-    logging.info("Renaming all the .bmd.bmd files to .bmd")
+    #logging.info("Renaming all the .bmd.bmd files to .bmd")
     for root, dirs, files in os.walk(output_folder):
         for name in files:
             if name.lower().endswith('.bmd.bmd'):
@@ -86,14 +86,14 @@ def run_program(mod_folder, output_folder):
                     os.rename(old_path, new_path)
                     #logging.info(f"Renamed and replaced existing file: {old_path} to {new_path}")
 
-    logging.info("Importing all the .bf files in the Output folder")
+    logging.info("Importing all .bf files in the Output folder")
     for root, dirs, files in os.walk(output_folder):
         for mod_file in files:
             if mod_file.lower().endswith('.bf'):
                 mod_file_path = os.path.join(root, mod_file)
                 PEImport(mod_file_path)
 
-    logging.info("Deleting all the .msg files in the Output folder")
+    logging.info("Deleting all .msg files in the Output folder")
     for root, dirs, files in os.walk(output_folder):
         for mod_file in files:
             if mod_file.lower().endswith('.msg'):
@@ -104,7 +104,7 @@ def run_program(mod_folder, output_folder):
     delete_files_not_in_list(mod_folder, mod_files_list)
     delete_empty_folders(mod_folder)
 
-    logging.info("Done!")
+    logging.info("Compilation finished")
 
 if __name__ == "__main__":
     run_program(mod_folder, output_folder)

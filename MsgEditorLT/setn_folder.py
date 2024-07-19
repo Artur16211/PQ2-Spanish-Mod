@@ -282,7 +282,7 @@ def process_all_files_in_directory(input_directory):
                 process_input_file(input_path, max_length)
 
 if __name__ == "__main__":
-    logging.info("Processing Data directory")
+    logging.info("Putting [n] in dialogues...")
     data_directory = "MsgEditorLT/Data"
     process_all_files_in_directory(data_directory)
-    logging.info("Finished processing Data directory")
+    logging.info("[n] added to dialogues")

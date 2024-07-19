@@ -1,13 +1,13 @@
 [msg MSG_000 [Margaret]]
-Oh? It's over already? What a pity. I[n]was just beginning to enjoy myself.
+夷Oh? 夷Ya se acab吋? Qu姻 pena. Estaba empezando a disfrutarlo.
 
 [msg MSG_000_1 [Margaret]]
-Perhaps I dove into this too fast? I[n]thought you'd be able to keep up...
+夷Quiz茨s me met胤 en esto demasiado r茨pido? Pensaba que ser胤an capaces de seguir el ritmo...
 
 [msg MSG_001 [Elizabeth]]
-My sister is the victor of this bout.
-If you with to challenge her again,[n]please speak to me at the box office.
+Mi hermana es la vencedora de esta batalla.
+Si desean volver a desafiarla, por favor, d胤ganmelo en la taquilla.
 
 [msg MSG_002 [Margaret]]
-Try to let me enjoy myself a bit longer[n]next time. It's a promise, yes?
+Intenta dejarme disfrutar un poco m茨s la pr吋xima vez. Es una promesa, 夷s胤?
 

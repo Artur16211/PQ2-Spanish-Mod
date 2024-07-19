@@ -14,7 +14,7 @@ def copy_and_replace_files(src_dirs, dest_dir):
                 
                 os.makedirs(os.path.dirname(dest_file_path), exist_ok=True)
                 shutil.copy2(src_file_path, dest_file_path)
-                logging.info(f"Copied {src_file_path} to {dest_file_path}")
+                # logging.info(f"Copied {src_file_path} to {dest_file_path}")
 
 def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
     os.makedirs(imported_dir, exist_ok=True)
@@ -67,9 +67,9 @@ if __name__ == "__main__":
     copy_and_replace_files(src_dirs, dest_dir)
     
     #
-    logging.info("Replacing dialogs in files")
+    logging.info("Inserting dialogs in files")
     msgs_dir = 'MsgEditorLT/Data'
     msgparams_dir = 'MsgEditorLT/msgparams'
     imported_dir = 'MsgEditorLT/imported'
     replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir)
-    logging.info("Finished replacing dialogs")
+    logging.info("Insertion complete")

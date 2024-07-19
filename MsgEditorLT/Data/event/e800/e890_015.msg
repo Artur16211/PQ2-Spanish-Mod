@@ -1,157 +1,157 @@
 [msg MSG_000 [Margaret]]
-Hmhm... And so I have lost.
-I felt your power resound through my[n]whole body. I never guessed you'd excite[n]me this much...
+Hmhm... Y as胤 he perdido.
+He sentido resonar vuestro poder a trav姻s de todo mi cuerpo. Nunca imagin姻 que me emocionar胤an tanto...
 
 [sel SEL_001 top]
-Thank you.
-That was a tough battle.
-That was fun.
+Gracias.
+Ha sido una dura batalla.
+Fue divertido.
 
 [msg MSG_002 [Margaret]]
-No... if anyone deserves thanks, it is[n]you. I had a wonderful time.
+No... si alguien se merece las gracias son ustedes. Me lo he pasado de maravilla.
 
 [msg MSG_003 [Margaret]]
-*chuckle* I'm honored to hear it. I hope[n]you took at least some enjoyment from[n]it.
+*risita* Me honra o胤rlo. Espero que al menos hayan disfrutado un poco.
 
 [msg MSG_004 [Margaret]]
-Yes, indeed... So much so that it's a[n]pity that it's over.
+S胤, en efecto... Tanto que es una pena que se haya acabado.
 
 [msg MSG_005 [Elizabeth]]
-Well done, [f 6 1 30 0 0 0]. Now, what of the[n]film...?
+Bien hecho, [f 6 1 30 0 0 0]. Ahora, 夷qu姻 hay en la pel胤cula...?
 
 [msg MSG_006]
-The film that looked sooty is now[n]glowing faintly...
+La pel胤cula de holl胤n est茨 brillando d姻bilmente...
 
 [msg MSG_007 [Teddie]]
-Whoaaa, this one's all shiny now! That[n]means we did it!
+Whoaaa, 斡ahora est茨 brillando! 斡Eso significa que lo hemos conseguido!
 
 [msg MSG_008]
-......!
-The two pieces of film are shining[n]brighter together now...
+斡......!
+Las dos partes de pel胤cula ahora est茨n brillando m茨s...
 
 [msg MSG_009 [P4 Hero]]
-What's happening...?
-Are they resonating with each other...?
+夷Qu姻 est茨 ocurriendo...?
+夷Resuenan entre s胤...?
 
 [msg MSG_010]
-The glow quietly ebbed away...
+El resplandor se devaneci吋 en silencio...
 
 [msg MSG_011 [Rise]]
-Huh? It's back to how it was...
+夷Eh? Vuelve a ser como antes...
 
 [msg MSG_012 [Akechi]]
-But there was a clear reaction between[n]the two of them.
+Pero hubo una clara reacci吋n entre las dos.
 
 [msg MSG_013 [Naoto]]
-Yes. I think we can conclude that[n]gathering and activating more of this[n]film is bound to have some effect.
+S胤. Creo que podemos concluir que reunir y activar m茨s de estas pel胤culas tendr茨 alg雨n efecto.
 
 [msg MSG_014 [Margaret]]
-Hmhm... I'm glad if I could help.
-I think I will also watch closely, to[n]see the possibilities of the wild card[n]for myself.
+Hmhm... Me alegrar胤a poder ayudar.
+Creo que tambi姻n observar姻 de cerca, para ver por m胤 misma las posibilidades del comod胤n.
 
 [msg MSG_015 [Elizabeth]]
-I'm pleased that things are going[n]smoothly.
-Now, we shall wait until we acquire[n]another ticket specifying its cast.
+Me alegro de que todo vaya sobre ruedas.
+Ahora, esperaremos otro ticket que especifique su reparto.
 
 [msg MSG_016 [Naoto]]
-Still, this is all fairly mysterious.[n]I've been wondering myself...
-What could be the purpose of these[n]special screenings? What is generating[n]them?
+Aun as胤, todo esto es bastante misterioso. Me he estado preguntando...
+夷Cu茨l podr胤a ser el prop吋sito de esas proyecciones especiales? 夷Qu姻 las est茨 generando?
 
 [msg MSG_017 [Akechi]]
-It's true, these screenings seem oddly[n]suited to our circumstances.
+Es cierto, estas proyecciones parecen extra隠amente adaptadas a nuestras circunstancias.
 
 [msg MSG_018 [Yukiko]]
-...Do you think... someone's watching[n]us?
+... Creen que... 夷Alguien nos est茨 observando?
 
 [msg MSG_019 [Yukari]]
-Gah! Yukiko-chan, you don't have to say[n]it like that...
+斡Gah! Yukiko, no tienes por qu姻 decirlo as胤.
 
 [msg MSG_020 [Margaret]]
-Ha... Perhaps you'd be better off not[n]thinking too hard about it.
-As you proceed through these various[n]movies, you will continue to grow as a[n]matter of course.
+Ja... Quiz茨s ser胤a mejor que no pensaran en eso.
+A medida que avancen en estas pel胤culas, seguir茨n mejorando.
 
 [msg MSG_020_1 [Margaret]]
-And so, you will find budding new[n]possibilities, granting you the power to[n]define your own fate...
+Y as胤, encontrar茨n nuevas posibilidades, que les otorgar茨n el poder de definir su propio destino...
 
 [msg MSG_020_2 [Margaret]]
-Cherish that fact, so that you will[n]never falter on your path.
+Aprecia ese hecho, para que nunca falles en tu camino.
 
 [sel SEL_021 top]
-I'll try.
-Not sure I get it.
+Lo intentar姻.
+Creo que no lo he entendido.
 
 [msg MSG_022 [Margaret]]
-Yes, I hope you do so. If you feel[n]you've lost your way, come and see me.
+S胤, espero que lo hagas. Si sientes que est茨s perdido, ven a verme.
 
 [msg MSG_023 [Margaret]]
-*chuckle* Just keep doing what you've[n]always done. If you feel you've lost[n]your way, come and see me.
+*risita* Sigue haci姻ndolo como siempre. Si sientes que est茨s perdido, ven a verme.
 
 [msg MSG_024 [Elizabeth]]
-Now then, since you've successfully made[n]my sister cry mercy, I have wonderful[n]news for you.
+Ahora bien, ya que han logrado que mi hermana admita su derrota, tengo maravillosas noticias para ustedes.
 
 [msg MSG_025 [Margaret]]
-Hmhm... I could hardly let you leave[n]empty-handed, after you've provided such[n]a stimulating diversion.
-You've done so much to thrill me, it's[n]only fair that I give you a reward in[n]kind...
+Hmm... No pod胤a dejar que se fueran con las manos vac胤as, despu姻s de haberme proporcionado una diversi吋n tan estimulante.
+Han hecho tanto por emocionarme, que es justo que les d姻 una recompensa...
 
 [msg MSG_026 [Yosuke]]
-Whoa, seriously!?
-Wh-When she says it like that... Oh man,[n]I've been waiting for this kinda reward[n]my whole life!
+斡夷Qu姻, en serio?!
+C-Cuando lo dice as胤... Oh, bro, 斡he estado esperando este momento toda mi vida!
 
 [msg MSG_027 [Chie]]
-Whatever you're thinking, it's not that.[n]The only reward you're getting is a[n]swift kick in the butt.
+Sea lo que sea que est姻s pensando, no es eso. La 雨nica recompensa que te vas a llevar va a ser una patada en el culo.
 
 [msg MSG_028 [Margaret]]
-I hope it'll meet your expectations.[n]Make sure to pick it up from Elizabeth[n]later.
-It's an item that should help you[n]further refine your power. I hope you[n]make good use of it.
+Espero que cumpla sus expectativas. Aseg雨rense de recogerlo de Elizabeth m茨s tarde.
+Es un objeto que deber胤a ayudarles a aumentar a雨n m茨s su poder. Espero que le den buen uso.
 
 [msg MSG_029 [Elizabeth]]
-Well then, I believe that draws our[n]efforts to a close! Please visit again[n]if you―
+斡Creo que con esto damos por concluido la batalla! Vuelva a visitarnos si...
 
 [msg MSG_030 [Margaret]]
-A moment, Elizabeth.
-There should be another reward for them.[n]Hand it to them at once.
+Un momento, Elizabeth.
+Deber胤a haber otra recompensa para ellos. D茨sela de inmediato.
 
 [msg MSG_031 [Futaba]]
-Oooh! We got a one-more!
+斡Oooh! 斡Tenemos otra m茨s!
 
 [msg MSG_032 [Elizabeth]]
 ......
-My! I had, as they say, plumb forgotten.[n]I suppose it slipped my mind while I was[n]watching the battle.
-Naturally, it was purely an accident,[n]and not a devious attempt to pilfer it[n]during the long conversations.
-Now, please accept this.
+斡Vaya! Lo hab胤a olvidado, como suele decirse. Supongo que se me olvid吋 mientras observaba la batalla.
+Naturalmente, fue un mero accidente, y no un intento de hurtarlo durante las largas conversaciones.
+Por favor, acepten esto.
 
 [msg MSG_033 [Yosuke]]
-...Uh...?
+... 夷Eh...?
 
 [msg MSG_034 [Makoto]]
-...This is... another hot dog.
+... Es... otro perrito caliente.
 
 [msg MSG_035 [P4 Hero]]
-We got one when we faced Theodore too. I[n]guess hot dogs are a pretty big deal[n]here...?
+Tambi姻n nos dieron uno cuando nos enfrentamos contra Theodore. Supongo que los perritos calientes ser茨n muy importantes...
 
 [msg MSG_036 [Margaret]]
-Ah, I suppose that's understandable.
-They are impressively tasty for one of[n]Theo's creations. I hear he puts great[n]time and effort into them.
-Indeed, it gets to the point that we[n]fight over each one. Even Elizabeth is[n]partial to them, aren't you?
+Ah, supongo que es comprensible.
+Son impresionantemente sabrosos para ser una de las creaciones de Theo. He o胤do que les dedica mucho tiempo y esfuerzo.
+De hecho, llegamos al punto de pelearnos por cada uno de ellos. Incluso Elizabeth los desea, 夷no?
 
 [msg MSG_037 [Elizabeth]]
-Yes, I must say I'm surprised Theo[n]managed this. Truly, they are the[n]greatest treasure of this domain.
+S胤, debo decir que me sorprende que Theo lograra esto. Realmente son el mayor tesoro de este dominio.
 
 [msg MSG_038 [Margaret]]
-...Hm, I have less on hand than I[n]thought... It's about time Theo made[n]another batch.
+... Hm, tengo menos a mano de lo que pensaba... Ya era hora de que Theo hiciera otro lote.
 
 [msg MSG_039 [Elizabeth]]
-Ah, seeing it in person only makes me[n]want one more! Truly, it is the hottest[n]of all possible dogs.
-With a little threateni―that is to say,[n]polite reminding, I'm sure he will make[n]me some more.
-Well then... farewell!
+Ah, 斡verlo en persona solo hace que quiera uno m茨s! 斡El m茨s caliente de todos los perritos posibles!
+Con un poco de amena... quiero decir, record茨ndoselo educadamente, estoy segura de que me har茨 m茨s.
+Pues bien... 斡adi吋s!
 
 [msg MSG_040 [Margaret]]
-Ah...!
-Come back here, Elizabeth! My order must[n]be made first!
+斡Ah...!
+斡Vuelve aqu胤, Elizabeth! 斡Mi pedido debe hacerse primero!
 
 [msg PERSONA_STOCK_UP_MSG]
-Overcoming this ordeal has strengthened[n]the power of the wild card. Your Persona[n]stock has increased by .
+Superar esta prueba ha fortalecido el poder del comod胤n. Tu reserva de Personas ha aumentado en [f 0 1 2][f 2 4 0][f 0 1 0].
 
 [msg SYS_MES_000]
-The effect of [f 4 4 3 0 1594] has[n]increased the EXP boost of Finish[n]Bonuses.
+El efecto de [f 4 4 3 0 1594] ha aumentado el boost de EXP de los Bonos de Finalizaci吋n.
 
