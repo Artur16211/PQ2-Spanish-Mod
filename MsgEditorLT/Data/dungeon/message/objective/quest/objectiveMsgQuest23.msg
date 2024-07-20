@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota a las Unidades Descontroladas!
+斡Derrota a los Veh胤culos Feroces!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Derrota 4 m茨s

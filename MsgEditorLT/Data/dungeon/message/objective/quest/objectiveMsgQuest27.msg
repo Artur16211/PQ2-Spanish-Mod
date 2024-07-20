@@ -2,7 +2,7 @@
 斡Obt姻n dos Dispositivos Cognitivos!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Revisa los Puntos de Tesoro.
+Revisa los Puntos del Tesoro
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 Encuentra 2 m茨s
@@ -23,5 +23,5 @@ Encuentra 6 m茨s
 Encuentra 7 m茨s
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_8]
-Revisa los Puntos de Tesoro.
+Revisa los Puntos del Tesoro
 

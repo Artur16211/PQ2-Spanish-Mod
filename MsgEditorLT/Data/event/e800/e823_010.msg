@@ -3,7 +3,7 @@ Esta proyecci吋n especial requerir茨 que cac姻is a un n雨mero espec胤fico d
 Aunque tambi姻n pueden recurrir a eliminar a todo lo que se plante en vuestro camino...
 Sea cual sea vuestra decisi吋n, 斡ser茨 una experiencia emocionante, escalofriante y muy satisfactoria! 斡Por favor, dadle un intento!
 ... Ah胤 la tienen, una candidata segura a la pel胤cula m茨s satisfactoria del a隠o.
-Vuestros objetivos esta vez son los Rampage Drives encontrados en "A.I.G.I.S."
+Vuestros objetivos esta vez son los Veh胤culos Feroces de "A.I.G.I.S."
 Quiero que derrot姻is cuatro de ellos.
 
 [msg MSG_001 [Akihiko]]

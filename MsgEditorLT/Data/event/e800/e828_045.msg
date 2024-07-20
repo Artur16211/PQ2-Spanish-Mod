@@ -1,93 +1,93 @@
 [msg MSG_000 [Ken]]
-This way should be safe, right?
-Let's follow Joker's lead and keep[n]going.
+Este camino deber胤a de ser seguro, 夷verdad?
+Sigamos a Joker y continuemos.
 
 [sel SEL_001 top]
-Right.
-I've changed my mind.
+Cierto.
+He cambiado de opini吋n.
 
 [msg MSG_002 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_003 [Morgana]]
-Oh? Couldn't leave that treasure alone[n]after all, huh?
+夷Oh? 夷No has podido dejar ese tesoro despu姻s de todo, eh?
 
 [msg MSG_004 [Aigis]]
-We will leave it to you to decide which[n]path we take.
+Dejaremos que decidas qu姻 camino tomamos.
 
 [msg MSG_005 [Ken]]
-Huh? Didn't you say to go left? This way[n]leads to the FOE.
+夷Eh? 夷No dijiste que fu姻ramos a la izquierda? Este camino lleva al FOE.
 
 [msg MSG_006 [Morgana]]
-Nyahaha! That's the spirit, Joker! We're[n]not gonna leave that treasure behind!
+斡Muajaja! 斡Esa es la actitud, Joker! 斡No dejaremos ese tesoro atr茨s!
 
 [msg MSG_007 [Aigis]]
-Will you go toward the FOE or take the[n]path to the left?
+夷Ir茨s hacia el FOE o tomar茨s el camino de la izquierda?
 
 [sel SEL_008 top]
-Let's go straight!
-I took a wrong turn.
+斡Sigamos recto!
+Me equivoqu姻 de camino.
 
 [msg MSG_009 [Morgana]]
-That's more like it! The treasure's as[n]good as ours!
+斡Eso est茨 mejor! 斡El tesoro es tan bueno como nosotros!
 
 [msg MSG_010 [Morgana]]
-What? Aw, c'mon! You got my hopes up and[n]everything...
+夷Qu姻? 斡Ay, vamos! Me hab胤as dado esperanzas y todo...
 
 [msg MSG_011 [Ken]]
-There's an FOE this way, right? Are you[n]sure we'll be okay...?
+Hay un FOE en este camino, 夷verdad? 夷Seguro que estaremos bien?
 
 [msg MSG_012 [Morgana]]
-Hey, there's treasure too! We're going[n]this way, right Joker?
+Ey, 斡tambi姻n hay un tesoro! Vamos por aqu胤, 夷verdad, Joker?
 
 [sel SEL_013 top]
-Right.
-I've changed my mind.
+Cierto.
+He cambiado de opini吋n.
 
 [msg MSG_014 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_015 [Morgana]]
-All right! Get ready, everyone―
-Wait, WHAT!? We're not going this way!?
+斡Muy bien! Entonces prep茨rense para...
+Espera, 斡夷QU畏?! 斡夷No vamos a seguir este camino?!
 
 [msg MSG_016 [Aigis]]
-We will leave it to you to decide which[n]path we take.
+Te dejaremos a ti decidir qu姻 camino tomar.
 
 [msg MSG_017 [Ken]]
-Huh? You want to go this way instead?
-This is the path without any FOEs or[n]treasure chests.
+夷Eh? 夷Quieres ir por aqu胤?
+Este es el camino sin el FOE ni cofres del tesoro.
 
 [msg MSG_018 [Morgana]]
-Are you really giving up on the[n]treasure, Joker?
-I guess it's better than getting wiped[n]out by an FOE and losing everything...
+夷Est茨s renunciando de verdad al tesoro, Joker?
+Supongo que es mejor que ser aniquilado por un FOE y perderlo todo...
 
 [msg MSG_019 [Aigis]]
-Will you continue this way or head[n]toward the FOE?
+夷Continuar茨s por aqu胤 o te dirigir茨s hacia el FOE?
 
 [sel SEL_020 top]
-Let's go this way.
-I took a wrong turn.
+Sigamos por aqu胤.
+Me equivoqu姻 de camino.
 
 [msg MSG_021 [Morgana]]
-Hmm... I don't exactly agree, but it's[n]your call, Joker.
+Hmm... No estoy totalmente de acuerdo, pero es tu decisi吋n, Joker.
 
 [msg MSG_022 [P3 Fem Protag]]
-Better safe than sorry, right? Let's go!
+Mejor prevenir que curar, 夷no? 斡Vamos!
 
 [msg MSG_023 [Morgana]]
-After all's said and done, you can't[n]forget about the treasure either, can[n]you, Joker?
+Despu姻s de todo, tampoco puedes olvidarte del tesoro, 夷verdad, Joker?
 
 [msg MSG_024 [Aigis]]
-We will leave it to you to decide which[n]path we take.
+Te dejaremos a ti decidir qu姻 camino tomamos.
 
 [msg MSG_025 [Aigis]]
-Will you continue along this path?
+夷Seguir茨s por este camino?
 
 [sel SEL_026 top]
-Let's go this way.
-I need to think.
+Vamos por aqu胤.
+Necesito pensarlo.
 
 [msg MSG_027 [Aigis]]
-Understood. Let us proceed.
+Entendido. Prosigamos.
 

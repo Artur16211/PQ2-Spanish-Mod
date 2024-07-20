@@ -1,55 +1,55 @@
 [msg MSG_000 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_001 [Aigis]]
-Target located. This must be the broken[n]robot.
+Objetivo localizado. Ese debe de ser el robot roto.
 
 [msg MSG_002 [Ken]]
-Let's see, it's missing a component,[n]right? I wonder which one...
+Veamos, le falta una pieza, 夷verdad? Me pregunto cu茨l ser茨...
 
 [msg MSG_003 [Aigis]]
-I will take a look. Please wait a[n]moment.
+Voy a echar un vistazo. Por favor, esperad un momento.
 
 [msg MSG_004 [Aigis]]
-It seems to be missing its motor driver.[n]Repairs should be possible once we[n]locate it.
+Parece que le falta el controlador del motor. Podr胤amos repararlo una vez que lo localicemos.
 
 [msg MSG_005 [P3 Fem Protag]]
-Okay, so that's all we need? Let's get[n]to it, then!
+Vale, 夷entonces eso es todo lo que necesitamos? 斡Pues vamos all茨!
 
 [msg MSG_006 [Ken]]
-This sounds like a job for Koromaru.
+Esto parece un trabajo para Koromaru.
 
 [msg MSG_007 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_008 [Aigis]]
-Koromaru-san is indeed very motivated.[n]He says his strong sense of smell will[n]aid us in our search.
+Koromaru tambi姻n est茨 muy motivado. Dice que su fuerte sentido del olfato nos ayudar茨 en la b雨squeda.
 
 [msg MSG_009 [Teddie]]
-Now, wait just a minute! I've got a[n]pretty good sense of smell myself, you[n]know!
-Witness the power of my all-smelling[n]nose! Let's see...*sniff sniff*
-...Ah, this scent! It's coming from[n]Yosuke's pocket!
+Ey, 斡esperad un minuto! 斡Yo tambi姻n tengo un buen sentido del olfato, ya lo saben!
+斡Sed testigos del poder de mi nariz que todo lo huele! Veamos... *sniff sniff*
+... Ah, 斡este olor! 斡Proviene del bolsillo de Yosuke!
 
 [msg MSG_010 [Yosuke]]
-Hey! That's my gum, you idiot!
-Look, just sit down and let Koromaru[n]handle it!
+斡Ey! 斡Ese es mi chicle, idiota!
+斡Mira, simplemente si姻ntate y deja que Koromaru se encargue!
 
 [msg MSG_011 [Teddie]]
-Huwah!?
+斡夷Qu姻ee?!
 
 [msg MSG_012 [Koromaru]]
 *sniff sniff*
-Bark! Bark, bark!
+斡Bark! 斡Bark, bark!
 
 [msg MSG_013 [Aigis]]
-He wishes for us to follow him. It seems[n]he's picked up the scent.
+Desea que le sigamos. Parece que ha captado el olor.
 
 [msg MSG_014 [P3 Fem Protag]]
-Way to go, Koromaru! We can always count[n]on you!
+斡As胤 se hace, Koromaru! Siempre podemos contar contigo.
 
 [msg MSG_015 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_016 [Ken]]
-Let's go!
+斡Vamos!
 

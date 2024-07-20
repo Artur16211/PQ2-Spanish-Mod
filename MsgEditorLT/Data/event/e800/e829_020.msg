@@ -1,13 +1,13 @@
 [msg MSG_000 [Junpei]]
-Whoa... I can already feel that[n]Tyranniqueen looking down at me.
+Whoa... Ya puedo sentir a ese Tyranniqueen mir茨ndome.
 
 [msg MSG_001 [Futaba]]
-Our target is the Tyranniqueen―two of[n]them, to be exact.
-Everyone's clear on the goal here,[n]right? Find those FOEs and bring 'em[n]down! Easy as 1-2-3!
+Nuestro objetivo son los Tyranniqueen. Dos de ellos, para ser exactos.
+Todo el mundo tiene claro el objetivo aqu胤, 夷verdad? 斡Encontrar a esos enemigos y derribarlos! 斡Tan f茨cil como contar 1-2-3!
 
 [msg MSG_002 [Mitsuru]]
-A battle against an FOE without any[n]gimmicks or tricks... Sounds easy[n]enough.
+Una batalla contra un FOE sin trucos ni artima隠as... Suena bastante f茨cil.
 
 [msg MSG_003 [Futaba]]
-Go, go, Phoenix Rangers! For the safety[n]of Junessic Land!
+斡Vamos, vamos, Phoenix Rangers! 斡Por la seguridad de Junessic Land!
 

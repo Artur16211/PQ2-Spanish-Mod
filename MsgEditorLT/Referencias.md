@@ -205,3 +205,19 @@
 | Sacrificial Idol     | Ídolo Sacrificial     |
 | Taunt Counter        | Contador de burlas    |
 | item storage         | almacén de objetos    |
+| stage lifts         | elevadores del escenario            |
+| Memorial Square      | Plaza Memorial   |
+| manhole       | alcantarilla |
+| Amonites      | Amonites    |
+| Golden Crowns | Coronas Doradas |
+| Cinnamon Fern | Helecho Canela  |
+| Ravenous Beast | Bestia Carn胤vora |
+| Futuristic Gizmo | Gizmo Futurista |
+| Phantom Mage | Mago Fantasmal |
+| Teddy Bear |  |
+| Kaleidoscope |  |
+| Flowing Sand | Arena Afluente |
+| Rampage Drive | Vehículo Feroz |
+| Clay Figurine |  |
+| Guardian Machines | Máquinas Guardianas |
+| Cognitive Devices | Dispositivos Cognitivos |

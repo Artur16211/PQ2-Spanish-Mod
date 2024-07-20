@@ -1,51 +1,51 @@
 [msg MSG_000 [Elizabeth]]
-Well done, everyone.
-This screening refused to remain as just[n]a riveting treasure hunt.
-When the robot reawakened, it was as if[n]my feelings were, how should I put it,[n]"hit by a truck"―I burst into tears.
-You have my deepest gratitude for taking[n]me through such a moving story.
-Please accept this as your reward.
+Bien hecho.
+Esta proyecci吋n se neg吋 a quedarse solo en una fascinante b雨squeda del tesoro.
+Cuando el robot despert吋, fue como si mis sentimientos fueran, "atropellados por un cami吋n", y romp胤 a llorar.
+Tienen mi m茨s profunda gratitud por llevarme a trav姻s de una historia tan conmovedora.
+Por favor, aceptad esto como recompensa.
 
 [msg MSG_001 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_002 [Aigis]]
-Koromaru-san says he enjoyed spending[n]time with you,-san.
+Koromaru dice que ha disfrutado pasando tiempo contigo, [f 6 1 27 0 0 0].
 
 [msg MSG_003 [Ken]]
-That reminds me, Aigis-san... You said[n]both you and Koromaru sensed something[n]in [f 6 1 27 0 0 0]-san.
-What exactly was it?
+Eso me recuerda, Aigis... Tanto t雨 como Koromaru dijeron que sintieron algo en [f 6 1 27 0 0 0].
+夷Qu姻 era eso exactamente?
 
 [msg MSG_004 [Koromaru]]
-Arf...?
+夷Arf...?
 
 [msg MSG_005 [Aigis]]
-I'm sorry. Neither of us were able to[n]come up with a clear answer.
+Lo siento. Ninguno de los dos fue capaz de dar una respuesta clara.
 
 [msg MSG_006 [P3 Fem Protag]]
-Ahaha, weird.
-Well, no sense worrying about it, right?[n]I mean, the fact that we're all here in[n]the first place is weird too!
-I'm just glad to be here with everyone.[n]Is that okay? Or is that weird?
+Ja, ja, ja, qu姻 raro.
+Bueno, no tiene sentido preocuparse por ello, 夷verdad? Quiero decir, 斡el hecho de que estemos todos aqu胤 tambi姻n es raro!
+Me alegro de estar aqu胤 con todos. 夷Les parece bien? 夷O es raro?
 
 [msg MSG_007 [Aigis]]
--san...
+ ...
 
 [msg MSG_008 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_009 [Aigis]]
-Koromaru-san says, too, it is best to[n]live in the present.
-I must agree.
+Koromaru tambi姻n dice que es mejor vivir en el presente.
+Estoy de acuerdo con ello.
 
 [msg MSG_010 [Ken]]
-*chuckle* You're right. I think things[n]are just fine the way they are now!
-We've still got a ways to go, but we'll[n]get through this if we work together.
+*risita* Tienes raz吋n. 斡Creo que las cosas est茨n bien como est茨n ahora!
+A雨n nos queda camino por recorrer, pero saldremos de esta si trabajamos juntos.
 
 [msg MSG_011 [Koromaru]]
-Awooo!
+斡Awooo!
 
 [msg MSG_012 [Ken]]
-Koromaru seems motivated too. Of course,[n]I don't plan on sitting around either.
+Koromaru tambi姻n parece motivado. Por supuesto, tampoco planeo quedarme de brazos cruzados.
 
 [msg MSG_013 [P3 Fem Protag]]
-*giggle* We're all counting on you two![n]Let's do it, team!
+*giggle* We're all counting on you two! Let's do it, team!
 

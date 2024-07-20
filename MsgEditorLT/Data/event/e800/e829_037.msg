@@ -1,29 +1,29 @@
 [msg MSG_000 [Futaba]]
-Tyranniqueen, dead ahead! Monster! Your[n]time is up!
+斡Tyranniqueen, justo delante! 斡Monstruo! 斡Se te acab吋 el tiempo!
 
 [msg MSG_001 [Yosuke]]
-Heheh, Oracle's really playing her part.
+Je, je, je, Oracle s胤 que est茨 desempe隠ando su papel.
 
 [msg MSG_002 [Ken]]
-Prepare yourself, Tyranniqueen! We won't[n]just sit back while you wreck the place!
+斡Prep茨rate, Tyranniqueen! 斡No nos quedaremos de brazos cruzados mientras destrozas el lugar!
 
 [msg MSG_003 [Yukari]]
-Hahaha, looks like Ken-kun is too. This[n]turned out to be pretty fun.
+Ja, ja, ja, parece que Ken tambi姻n. Esto se ha hecho muy divertido.
 
 [msg MSG_004 [Ken]]
-Feather Joker! Give us the word!
+斡Feather Joker! 斡Danos la se隠al!
 
 [sel SEL_005 top]
-Let's do it!
-It's Show Time!
-Feather Change!
+斡Hag茨moslo!
+斡Es la hora del espect茨culo!
+斡Cambio de plumas!
 
 [msg MSG_006 [Junpei]]
-Heheh, you're feelin' it! Right on!
+Je, je, je, 斡lo est茨s sintiendo! 斡Muy bien!
 
 [msg MSG_007 [Junpei]]
-C'mon, you're already in costume. This[n]is where you say, "Let's go!"
+Vamos, ya est茨s disfrazado. Aqu胤 es donde dices, "斡Vamos!"
 
 [msg MSG_008 [Futaba]]
-Let's finish this, Joker! Bring 'em on!
+斡Terminemos con esto, Joker! 斡A por 姻l!
 

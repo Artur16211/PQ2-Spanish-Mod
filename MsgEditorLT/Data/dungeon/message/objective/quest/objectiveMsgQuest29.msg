@@ -11,5 +11,5 @@ Derrota 1 m茨s
 Ve m茨s profundo en el laberinto
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
-Dir胤gete a las profundidades del[n]laberinto.
+Dir胤gete a las profundidades del laberinto
 

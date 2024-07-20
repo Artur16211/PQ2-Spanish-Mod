@@ -1,13 +1,13 @@
 [msg MSG_000 [P3 Fem Protag]]
-Okay, first thing is to find the broken[n]robot.
-Elizabeth said we should be able to find[n]it without any trouble... I wonder where[n]it is.
+Vale, lo primero es encontrar al robot roto.
+Elizabeth dijo que deber胤amos poder encontrarlo sin problemas... Me pregunto d吋nde estar茨.
 
 [msg MSG_001 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_002 [Aigis]]
-Koromaru-san says he can hear what[n]sounds like a broken machine.
+Koromaru dice que puede o胤r algo que suena como una m茨quina rota.
 
 [msg MSG_003 [Ken]]
-Sounds like it's not far from here.[n]Let's go check it out.
+Parece que no est茨 lejos de aqu胤. Vayamos a revisar.
 

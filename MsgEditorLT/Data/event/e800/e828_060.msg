@@ -1,113 +1,113 @@
 [msg MSG_000 [P3 Fem Protag]]
-Hang on, we'll fix you right up...!
+斡Aguanta, te arreglaremos...!
 
 [msg MSG_001 [Aigis]]
-I shall begin the repairs right away.[n]Please wait a moment.
+Comenzar姻 con las reparaciones de inmediato. Por favor, esperen un momento.
 
 [msg MSG_002 [P3 Fem Protag]]
-Okay. Go for it, Aigis!
+De acuerdo. 斡A por ello, Aigis!
 
 [msg MSG_003 [Ken]]
-Yes! It moved!
+斡S胤! 斡Se ha movido!
 
 [msg MSG_004 [Broken robot]]
 ......
 ......
 
 [msg MSG_005 [Ann]]
-Huh? What's going on...? Did it not[n]work?
+夷Eh? 夷Qu姻 est茨 pasando...? 夷Por qu姻 no funciona?
 
 [msg MSG_006 [Broken robot]]
 Gggg... ggg...
 
 [msg MSG_007 [Aigis]]
-It appears its systems are not fully[n]operational just yet.
-It did manage to boot, however. So its[n]communication functions should[n]reactivate soon.
+Al parecer, sus sistemas a雨n no est茨n plenamente operativos.
+Sin embargo, ha conseguido arrancar. As胤 que sus funciones de comunicaci吋n deber胤an reactivarse pronto.
 
 [msg MSG_008 [P3 Fem Protag]]
-Oh, that's a relief...
+Oh, menudo alivio.
 
 [msg MSG_009 [Broken robot]]
 Ggg... ggg... gg...
 
 [msg MSG_010 [Ken]]
-Um... Is this an error?
+Um... 夷Esto es un error?
 
 [msg MSG_011 [Aigis]]
-No, it's...
+No, es...
 
 [msg MSG_012 [Broken robot]]
-Ggg... ggg!
+斡Ggg... ggg!
 
 [msg MSG_013 [Aigis]]
-It appears to be trying very hard to[n]express its thanks.
-It says, "Thank you for saving me."
+Parece que est茨 esforz茨ndose para expresar su agradecimiento.
+Dice, "Gracias por salvarme."
 
 [msg MSG_014 [Ken]]
-So that's what it was saying. *chuckle*[n]Well, I'm glad it's happy!
+As胤 que eso es lo que estaba diciendo. *risita* Bueno, 斡me alegro de que est姻 feliz!
 
 [msg MSG_015 [Koromaru]]
-Arf, arf!
+斡Arf, arf!
 
 [msg MSG_016 [Broken robot]]
 Ggg... gg...
 
 [msg MSG_017 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_018 [Broken robot]]
-Ggg... gggg... gg!
+斡Ggg... gggg... gg!
 
 [msg MSG_019 [Junpei]]
-Hmm, I see... A conversation between a[n]dog and a robot...
-Any idea what the heck they're sayin'?[n]Ai-chan, mind translatin' for us?
+Hmm, ya veo... Una conversaci吋n entre un perro y un robot.
+夷Alguna idea de qu姻 diablos est茨n hablando? Aigis, 夷podr胤as traduc胤rnoslo?
 
 [msg MSG_020 [Aigis]]
-Koromaru-san says, "Everyone here worked[n]together to save you."
-The robot says "I am jealous of all the[n]wonderful friends you have."
+Koromaru dice, "Todos los aqu胤 presentes han trabajado para ayudarte."
+El robot dice "Estoy celoso de todos los amigos maravillosos que tienes."
 
 [sel SEL_021 top]
-I'm proud of them.
-You can make friends too.
+Estoy orgulloso de ellos.
+T雨 tambi姻n puedes hacer amigos.
 
 [msg MSG_022 [P3 Fem Protag]]
-Hehe, I'm glad! You can have friends[n]like this too, you know?
+Je, je, 斡Me alegro! T雨 tambi姻n puedes tener amigos como estos, 夷sabes?
 
 [msg MSG_023 [Futaba]]
-Yeah! This world's gonna keep on[n]changin'!
-And then you'll get to make a whole[n]buncha friends! You better be ready!
+斡S胤! 斡El mundo va a seguir cambiando!
+斡Y luego har茨s un mont吋n de amigos! 斡Ser茨 mejor que te prepares!
 
 [msg MSG_024 [Futaba]]
-You said it, Joker! This world's gonna[n]keep on changin' too.
-And then you'll get to make a whole[n]buncha friends! You better be ready!
+斡T雨 lo has dicho, Joker! Este mundo tambi姻n va a seguir cambiando.
+斡Y luego har茨s un mont吋n de amigos! 斡Ser茨 mejor que te prepares!
 
 [msg MSG_025 [Broken robot]]
-Ggg... gg... Thank... you...
+Ggg... gg... Gracias...
 
 [msg MSG_026 [P3 Fem Protag]]
-Huh!? Did it break again?
+斡夷Eh?! 夷Se ha vuelto a romper?
 
 [msg MSG_027 [Aigis]]
-It seems to have run out of power.
-This unit runs on solar energy, so it[n]will recharge if we leave it alone.
-I believe its systems are recovered for[n]the most part.
+Parece que se ha quedado sin energ胤a.
+Esta unidad funciona con energ胤a solar, por lo que se recargar茨 si la dejamos sola.
+Creo que sus sistemas est茨n en su mayor parte recuperados.
 
 [msg MSG_028 [P3 Fem Protag]]
-That scared me for a second... But it[n]sounds like it's gonna be okay now!
+Eso me ha asustado por un segundo... 斡Pero parece que ahora todo va a ir bien!
 
 [msg MSG_029 [Fuuka]]
-I'm surprised there's a robot here with[n]such unique functions.
-When we first came here, it was nothing[n]but Ribbon-chan and those identical[n]ones...
+Me sorprende que aqu胤 haya un robot con funciones tan 雨nicas.
+Cuando vinimos por primera vez, no estaban m茨s que Ribbon y esos robots id姻nticos...
 
 [msg MSG_030 [Naoto]]
-Perhaps this is another result from[n]righting the wrongs in this film.
+Quiz茨 sea otro resultado de corregir los errores de esta pel胤cula.
 
 [msg MSG_031 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_032 [Aigis]]
-It seems our objective is complete.[n]Shall we return to the theater?
+Parece que nuestro objetivo est茨 completado. 夷Regresamos al cine?
 
 [msg MSG_033 [P3 Fem Protag]]
-Yeah, good idea. Let's get back to[n]Elizabeth.
+S胤, buena idea. Volvamos con Elizabeth.
 

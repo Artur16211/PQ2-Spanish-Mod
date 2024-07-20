@@ -2,47 +2,47 @@
 Gir姻 el interruptor.
 
 [msg S01_DG_GIMMICK_SWITCH_MS]
-Has girado firmemente el interruptor a[n]su otra posici吋n.
+Has girado firmemente el interruptor a su otra posici吋n.
 
 [msg S02_DG_GIMMICK_SWITCH_MS]
-El interruptor ha sido girado.
+El interruptor est茨 girado.
 
 [msg S03_DG_GIMMICK_SWITCH_MS]
-El interruptor ya ha sido girado[n]firmemente a su otra posici吋n.
+El interruptor ya ha sido girado a su otra posici吋n.
 
 [msg S04_DG_GIMMICK_CHANGE_SW]
-Gir吋 el interruptor a ENCENDIDO.
+Gir姻 el interruptor a ENCENDIDO.
 
 [msg S05_DG_GIMMICK_CHANGE_SW]
-Gir吋 el interruptor a APAGADO.
+Gir姻 el interruptor a APAGADO.
 
 [msg S06_DG_GIMMICK_CHANGE_SE]
-Los reflectores han sido apagados.
+Las luces de b雨squeda han sido apagadas.
 
 [msg S07_DG_GIMMICK_CHANGE_SE]
-Los reflectores ya est茨n apagados.
+Las luces de b雨squeda ya est茨n apagados.
 
 [msg S08_DG_GIMMICK_CHANGE_SE]
-El patr吋n de los reflectores ha[n]cambiado.
+El patr吋n de las luces de b雨squeda cambi吋.
 
 [msg S09_DG_GIMMICK_KAITENSAK]
-Rot吋 la jaula.
+Rot姻 la jaula.
 
 [msg S10_DG_GIMMICK_DENKISAKU]
-La puerta el姻ctrica ha sido apagada[n]temporalmente.
+La puerta el姻ctrica se ha apagado temporalmente.
 
 [msg S11_DG_GIMMICK_DENKISAKU]
-El poder ya ha sido apagado.
+La energ胤a ya ha sido apagada.
 
 [msg S12_DG_GIMMICK_SERI_CHAN]
-Los ascensores fueron utilizados.
+Se usaron los elevadores del escenario.
 
 [msg S13_DG_GIMMICK_BOUHU_OPE]
 La direcci吋n del viento cambi吋.
 
 [msg S14_DG_GIMMICK_SERI_FIRS]
-Los ascensores fueron utilizados.
+Se usaron los elevadores del escenario.
 
 [msg S15_DG_GIMMICK_BOUHU_FIR]
-Se escucha el sonido de maquinaria...
+Se escucha un sonido de maquinaria...
 

@@ -1,104 +1,104 @@
 [msg MSG_000 [Kanji]]
-Yo, it's a dead end.
-Man this place is nuts. First it's up,[n]then it's down. What's next?
+Ey, estamos en un camino sin salida.
+Bro, este lugar es una locura. Primero estaba arriba, despu姻s abajo. 夷Qu姻 es lo siguiente?
 
 [msg MSG_001 [P4 Hero]]
-Yeah, it's a puzzle for sure... Let's[n]take a break.
+S胤, seguro que es un puzzle... Tomemos un descanso.
 
 [msg MSG_002 [P3 Hero]]
-Navigators, feel free to take a break[n]too. I'm sure you're tired as well.
+Navegadoras, si姻ntanse libres de tomar un descanso tambi姻n. Seguro que estar茨n cansadas.
 
 [msg MSG_003 [Rise]]
-Hey, thanks! Then, if you don't mind...
-I'm gonna have a little snack. I'm[n]starving.
+斡Ey, gracias! Entonces, si no te importa...
+Voy a comer algo. Me muero de hambre.
 
 [msg MSG_004 [Futaba]]
-Me too.
+Yo tambi姻n.
 
 [msg MSG_005 [Kanji]]
-Hahah, that was loud. Hey Oracle, I[n]could hear that from all the way over[n]here!
+Ja, ja, ja, qu姻 fuerte lo ha dicho. Ey, Oracle, 斡se ha o胤do desde aqu胤!
 
 [msg MSG_006 [Futaba]]
-Ugh, I want curry!
-This is your fault, Kanji! Every time I[n]look at you, all I want to do is eat[n]curry!
+Uf, 斡quiero curry!
+斡Es tu culpa, Kanji! 斡Cada vez que te veo, lo 雨nico que quiero hacer es comer curry!
 
 [msg MSG_007 [Kanji]]
-Huh? Curry? The hell you talkin' about?
+夷Eh? 夷Curry? 夷De qu姻 demonios est茨s hablando?
 
 [msg MSG_008 [Futaba]]
-Your hair color, that big body ol' body[n]of yours...
-You get me, don't you, Joker!?
+Tu color de pelo, ese cuerpazo que tienes...
+斡夷Me entiendes, verdad, Joker?!
 
 [sel SEL_009 top]
-Uh, no.
-Sort of...
+Oh, no.
+M茨s o menos...
 
 [msg MSG_010 [Futaba]]
-Why not!? Can't you just picture him[n]eating it!?
-Yellow's the powerful one and he loves[n]curry. It's elementary.
+斡夷Por qu姻 no?! 斡夷No te lo puedes imaginar comiendo curry?!
+B雨ho Amarillo es el m茨s poderoso y le encanta el curry. Es elemental.
 
 [msg MSG_011 [Futaba]]
-Right!? Can't you just picture him[n]chowing down!?
-Yellow's the powerful one and he loves[n]curry. It's a given.
+斡夷Verdad?! 斡夷No te lo imaginas comiendo?!
+B雨ho Amarillo es el m茨s poderoso y le encanta el curry. Es un hecho.
 
 [msg MSG_012 [Kanji]]
-Sorry, I have no idea what you guys're[n]talkin' about...
+Perd吋n, pero no tengo ni idea de lo que est茨n hablando...
 
 [msg MSG_013 [Ken]]
-Ohh, are you talking about Feather Owl?
-The yellow ranger always likes curry.[n]It's kinda become a character trait over[n]the years.
+Ohh, 夷est茨s hablando de B雨ho Amarillo?
+Al ranger amarillo le encanta el curry. Es algo que se ha convertido en su rasgo caracter胤stico con el paso del tiempo.
 
 [msg MSG_014 [Futaba]]
-Ooh, Owl is from Featherman R! I take it[n]you're a fan?
+Ooh, 斡B雨ho Amarillo es de Featherman R! 夷Supongo entonces que eres un fan, verdad?
 
 [msg MSG_015 [Ken]]
-N-No... I've just heard a lot from my[n]friend. I don't know much about it...
-You like Featherman, Oracle?
+N-No... Solo he o胤do a mi amigo hablar un mont吋n de ellos. No s姻 mucho al respecto...
+夷Te gusta Featherman, Oracle?
 
 [msg MSG_016 [Futaba]]
-Heheh... I have all the movies and tons[n]of memorabilia.
-And the current series is totally...[n]Whoops, I don't wanna spoil it.
+Je, je, je... Tengo todas las pel胤culas y millones de objetos memorables.
+Y la serie actual es totalmente... Ups, no quiero spoilearte.
 
 [msg MSG_017 [Ken]]
-Whoa! Featherman is still going in your[n]time!?
+斡Whoa! 斡夷Los Featherman siguen en tu tiempo?!
 
 [msg MSG_018 [Futaba]]
-Of course! Phoenix Ranger Featherman is[n]classic!
+斡Por supuesto! 斡Phoenix Ranger Featherman es un cl茨sico!
 
 [msg MSG_019 [Ken]]
-It is amazing, isn't it?
-I want to be just like them―brave enough[n]to stand against any opponent...
-...That's what my friend was saying,[n]anyway.
+Es alucinante, 夷no?
+Yo quiero ser como ellos, lo bastante valiente para enfrentarme a cualquier oponente...
+... De todos modos, eso era lo que mi amigo dec胤a.
 
 [msg MSG_020 [Futaba]]
-Come to think of it, there are five of[n]us.
-Would you be Red, Ken? Or maybe the cool[n]Black?
+Ahora que lo pienso, somos cinco.
+夷Te gustar胤a ser 威guila Roja, Ken? 夷O quiz茨s el guay Halc吋n Negro?
 
 [msg MSG_021 [Ken]]
-I-I'm younger than everyone, so I'd say[n]Red is either Joker or-san.
+S-Soy el m茨s joven, entonces dir胤a que 威guila Roja ser胤a o Joker o [f 6 1 16 0 0].
 
 [sel SEL_022 top]
-Phoenix Ranger!
-I wanna be Pink!
+斡Phoenix Ranger!
+斡Yo quiero ser Grulla Rosa!
 
 [msg MSG_023 [Futaba]]
-Mwehehehe, now we're talkin'! I'll help[n]you cosplay!
+Mue, je, je, 斡ahora que lo estamos hablando! 斡Te ayudar姻 con el cosplay!
 
 [msg MSG_024 [Futaba]]
-So we'd have Pink as the leader? Never[n]seen that before!
+夷Entonces tendr胤amos a Grulla Rosa como l胤der? 斡Lo nunca antes visto!
 
 [msg MSG_025 [Kanji]]
-Wh-What about me, then? Would I be[n]that... Yellow guy?
+夷E-Entonces qu姻 hay de m胤? 夷Yo ser胤a ese tal... B雨ho Amarillo?
 
 [msg MSG_026 [Futaba]]
-Actually, you're probably the giant[n]skeleton monster!
+En realidad, 斡probablemente seas el monstruoso gigante esqueleto!
 
 [msg MSG_027 [Ken]]
-Well... he is big. He'd definitely be a[n]challenge.
+Bueno... es grande. Definitivamente ser胤a un desaf胤o.
 
 [msg MSG_028 [Kanji]]
-Wait, so I'm a bad guy now!?
+Espera, 斡夷entonces ahora soy un villano?!
 
 [msg MSG_029]
-A new special screening: "Learning from[n]the Bad Guy" has been added to the box[n]office.
+Una nueva proyecci吋n especial: "Aprendiendo del Villano" ha sido a隠adida a la taquilla.
 

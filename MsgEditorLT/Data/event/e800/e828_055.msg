@@ -1,16 +1,16 @@
 [msg MSG_000 [Koromaru]]
-Bark!
+斡Guau!
 
 [msg MSG_001 [P3 Fem Protag]]
-Oh, is this what we're looking for? The,[n]uh... whatchamacallit thingy?
+Oh, 夷es esto lo que est茨bamos buscando? Eh... 夷Esta cosa?
 
 [msg MSG_002 [Junpei]]
-Don't you think it's kinda important to[n]know the name of the thing we're looking[n]for!?
+斡夷No creen que es importante saber el nombre de lo que estamos buscando?!
 
 [msg MSG_003 [Aigis]]
-It is called a motor driver, and, yes,[n]this does seem to be what we were[n]searching for.
-It doesn't appear to be damaged. All that is[n]left is to take this to the robot in need and[n]we can begin the repairs.
+Se llama controlador de motor, y s胤, parece que esto es lo que est茨bamos buscando.
+No parece estar da隠ado. Todo lo que queda es llevar esto al robot y podemos comenzar las reparaciones.
 
 [msg MSG_004 [Ken]]
-That's great news! Let's head back right[n]away!
+斡Qu姻 buenas noticias! 斡Volvamos enseguida!
 

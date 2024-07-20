@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 Ahora, para esta proyecci吋n especial...
-Deb姻is ir a Junessic Land y acabar con la tiran胤a incontrolada del Ravenous Beast.
+Deb姻is ir a Junessic Land y acabar con la tiran胤a incontrolada de la Bestia Carn胤vora.
 
 [msg MSG_001 [Rise]]
 Carn胤voro... espera, 夷no es uno de esos FOEs?
@@ -30,7 +30,7 @@ Busquemos huesos.
 Cerca de su presa.
 
 [msg MSG_008 [Akechi]]
-Buena idea. Todo lo que tenemos que hacer es buscar las huellas dejadas por ese Ravenous Beast.
+Buena idea. Todo lo que tenemos que hacer es buscar las huellas dejadas por esa Bestia Carn胤vora.
 Si est茨 atacando y comiendo todo lo que ve, entonces podremos seguir su rastro de alimentaci吋n...
 
 [msg MSG_009 [Shinjiro]]
@@ -50,7 +50,7 @@ Ja, ja, muy bien. Supongo que deber胤a poner m茨s de mi parte de ahora en adel
 
 [msg MSG_013 [Akechi]]
 Ja, ja, 夷est茨s diciendo que quieres que me encargue de esto?
-Muy bien. Ten胤a curiosidad por este Ravenous Beast de todos modos.
+Muy bien. Ten胤a curiosidad por esta Bestia Carn胤vora de todos modos.
 
 [msg MSG_014 [Akihiko]]
 Sea lo que sea, seguramente sea fuete. Estoy impaciente por conocerlo.

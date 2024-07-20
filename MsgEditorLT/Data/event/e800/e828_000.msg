@@ -1,61 +1,61 @@
 [msg MSG_000 [Aigis]]
--san, may I speak with you for a moment?
+, 夷puedo hablar contigo un momento?
 
 [msg MSG_001 [P3 Fem Protag]]
-What is it, Aigis?
+夷Qu姻 ocurre, Aigis?
 
 [msg MSG_002 [Aigis]]
-*stare*
+*mira fijamente*
 
 [msg MSG_003 [P3 Fem Protag]]
-W-What are you doing?
+夷Q-Qu姻 est茨s haciendo?
 
 [msg MSG_004 [Aigis]]
-This feeling... I knew it. You are the[n]same as [f 6 1 15 0 0 0]-san.
+Este sentimiento... Lo sab胤a. Eres igual que [f 6 1 15 0 0 0]
 
 [msg MSG_005 [Koromaru]]
-Arf arf!
+斡Arf arf!
 
 [msg MSG_006 [Aigis]]
-Koromaru-san says he also senses[n]something about you that is similar[n]to-san.
-What could it be...?
+Koromaru dice que 姻l tambi姻n siente algo de ti similar a [f 6 1 15 0 0 0].
+夷Qu姻 podr胤a ser...?
 
 [sel SEL_007 top]
-She pets him the same way.
-He smells dog food on her.
-It's pheromones.
+Ella lo acaricia de la misma forma.
+Huele comida de perro en ella.
+Es por las feromonas.
 
 [msg MSG_008 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_009 [Aigis]]
-He says he greatly enjoys both of their[n]petting techniques, but that is not it.
+Dice que disfruta mucho de sus caricias, pero que no es eso.
 
 [msg MSG_010 [P3 Fem Protag]]
-Huh? I don't have any dog food... though[n]I did have that hot dog earlier.
+夷Eh? No tengo comida para perros... aunque antes s胤 que ten胤a.
 
 [msg MSG_011 [Aigis]]
-No, I don't think that is the answer.
+No, no creo que esa sea la respuesta.
 
 [msg MSG_012 [P3 Fem Protag]]
-Wha―!? I'm giving off pheromones?
+斡夷Qu姻?! 夷Estoy emitiendo feromonas?
 
 [msg MSG_013 [Aigis]]
-No, I don't think that is the answer.
+No, no creo que esa sea la respuesta.
 
 [msg MSG_014 [P3 Fem Protag]]
-Hmm... Then, what is it?
+Hmm... 夷Entonces qu姻 ocurre?
 
 [msg MSG_015 [Ken]]
-Koromaru is really friendly, even to[n]strangers. Still, this seems[n]different...
-All I can say for sure is: Koromaru[n]senses something special about you,-san.
+Koromaru es muy amigable, incluso con los extra隠os. Aun as胤, esto parece diferente...
+Todo lo que puedo decir con seguridad es que Koromaru siente algo especial en ti, [f 6 1 27 0 0 0].
 
 [msg MSG_016 [Koromaru]]
-Arf!
+斡Arf!
 
 [msg MSG_017 [Aigis]]
-How peculiar... This is truly a mystery.
+Qu姻 peculiar... Esto es realmente un misterio.
 
 [msg MSG_018]
-A new special screening: "A Fated[n]Crossover" has been added to the box[n]office.
+Una nueva proyecci吋n especial: "A Fated Crossover" ha sido a隠adida a la taquilla.
 

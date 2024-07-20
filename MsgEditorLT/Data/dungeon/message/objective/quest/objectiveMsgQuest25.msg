@@ -1,8 +1,8 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota a KNS-1000!
+斡Derrota a un KNS-1000!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Utiliza tu mapa para ubicar el objetivo.
+Usa tu mapa para localizar al objetivo
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 Derrota 9 m茨s

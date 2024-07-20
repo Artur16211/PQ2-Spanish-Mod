@@ -10,9 +10,9 @@ Theo, ven aqu胤 y ay雨dame, o si no voy a llenar tu m茨quina de palomitas con
 Descr胤beles los materiales necesarios.
 
 [msg MSG_003 [Theodore]]
-Cierto. El Phantom Mage dejar茨 el Teddy Bear.
-La Flowing Sand dejar茨 el Kaleidoscope...
-Y podr姻is obtener la Clay Figurine del Rampage Drive.
+Cierto. El Mago Fantasmal soltar茨 el Teddy Bear.
+La Arena Afluente soltar茨 el Kaleidoscope...
+Y podr姻is obtener la Clay Figurine del Veh胤culo Feroz.
 
 [msg MSG_004 [Elizabeth]]
 Todas esas son partes raras de una sombra... Nos gustar胤a que las consiguieran.

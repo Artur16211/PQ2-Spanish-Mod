@@ -1,9 +1,9 @@
 [msg MSG_000 [Koromaru]]
-Arf arf!
+斡Arf arf!
 
 [msg MSG_001 [Aigis]]
-It seems we are close to the missing[n]part.
+Parece que nos acercamos a la pieza perdida.
 
 [msg MSG_002 [Ken]]
-It's in this room, then. Let's keep[n]searching!
+Entonces est茨 en esta habitaci吋n. 斡Sigamos buscando!
 

@@ -1,33 +1,33 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota a los Basaltos Ego胤stas!
+斡Derrota a los Basaltos Interesados!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 10 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-Derrota a otros 9.
+9 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-Derrota a otros 8.
+8 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
-Derrota a otros 7.
+7 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_5]
-Derrota a otros 6.
+6 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_6]
-Derrota a otros 5.
+5 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_7]
-Derrota a otros 4.
+4 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_8]
-Derrota a otros 3.
+3 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_9]
-Derrota a otros 2.
+2 restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_10]
-Derrota a otros 1.
+1 restante
 

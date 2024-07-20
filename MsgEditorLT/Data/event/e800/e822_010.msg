@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 La siguiente proyecci吋n especial es una pel胤cula de acci吋n trepidante.
-Your destination will be A.I.G.I.S.
-Y vuestro objetivo ser茨 derrotar a tres Guardian Machines.
+Su destino ser茨 A.I.G.I.S.
+Y vuestro objetivo ser茨 derrotar a tres M茨quinas Guardianas.
 
 [msg MSG_001 [Ryuji]]
 Son esos grandes, 夷no? Entonces ser茨 mejor que mejoremos.

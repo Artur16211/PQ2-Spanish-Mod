@@ -1,35 +1,35 @@
 [msg MSG_000 [Futaba]]
-You've defeated the almighty[n]Tyranniqueen! Good work, warriors!
+斡Han derrotado al todopoderoso Tyranniqueen! 斡Bien hecho, gerreros!
 
 [msg MSG_001 [Kanji]]
-Heh! Take that, shitbag! I don't wanna[n]see your ugly face here ever again!
+斡Eh! 斡Toma eso, saco de mierda! 斡No quiero ver tu fea cara aqu胤 nunca m茨s!
 
 [msg MSG_002 [Ken]]
-You can't say it like that, Kanji-san.[n]Heroes don't curse like that.
-Try to have some finesse.
+No puedes decir eso, Kanji. Los h姻roes nunca maldicen as胤.
+Intenta tener algo de delicadeza.
 
 [msg MSG_003 [Kanji]]
-O-Oh, yeah? All right then...
-Y-Yeah! How do you like that!? We are[n]the Phoenix Rangers!
+夷O-Oh, s胤? Muy bien, entonces...
+斡S-S胤! 斡夷Qu姻 te parece?! 斡Somos los Phoenix Rangers!
 
 [msg MSG_004 [Ken]]
-Yeah, that's it! Okay, my turn!
-Villains don't stand a chance as long as[n]the Phoenix Rangers are around![n]Featherman forever!
+斡S胤, eso es! 斡Ahora es mi turno!
+斡Los villanos no tienen ninguna oportunidad mientras est姻n los Phoenix Rangers! 斡Featherman para siempre!
 
 [sel SEL_005 top]
-Nice.
-That was cool.
+Muy bonito.
+Eso fue genial.
 
 [msg MSG_006 [Ken]]
-Thanks! We did it by working together.
+斡Gracias! Lo conseguimos trabajando en equipo.
 
 [msg MSG_007 [Ken]]
-Heheh, pretty heroic, right? This is a[n]dream come true.
+Je, je, je, bastante heroico, 夷verdad? Esto es un sue隠o hecho realidad.
 
 [msg MSG_008 [Futaba]]
-The great tyrant was vanquished, and[n]thus, peace was restored in Junessic[n]Land.
-Next time on Phoenix Ranger Featherman,[n]the heroes return to base!
+El gran tirano fue derrotado, y as胤, la paz fue restaurada en Junessic Land.
+En el pr吋ximo cap胤tulo de Phoenix Ranger Featherman, 斡los h姻roes vuelven a la base!
 
 [msg MSG_009 [Morgana]]
-I'm not sure what's going on, but it[n]looks like we're all done here. Let's[n]head back.
+No estoy seguro de lo que est茨 pasando, pero parece que hemos terminado. Volvamos.
 

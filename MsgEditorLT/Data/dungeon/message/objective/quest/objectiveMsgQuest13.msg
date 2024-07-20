@@ -1,14 +1,14 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Consigue los ingredientes para[n]palomitas!
+斡Consigue ingredientes para palomitas!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Busca un punto de tesoro cerca del agua
+Busca un punto del tesoro cerca del agua
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 斡Usa electricidad en los granos de ma胤z!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-Encuentra tres m茨s.
+Encuentra tres m茨s
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
 Encuentra cuatro m茨s
@@ -29,5 +29,5 @@ Encuentra ocho m茨s
 Encuentra nueve m茨s
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_10]
-Revisa los puntos de tesoro.
+Comprueba los puntos del tesoro
 
