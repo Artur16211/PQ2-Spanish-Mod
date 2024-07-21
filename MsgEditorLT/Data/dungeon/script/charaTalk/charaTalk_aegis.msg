@@ -16,7 +16,7 @@ Volver
 Cancelarar
 
 [msg MSG_000 [Aigis]]
-Hay un Punto de Tesoro. 夷Qu姻 vas a[n]hacer?
+Hay un Punto del Tesoro. 夷Qu姻 vas a[n]hacer?
 
 [msg MSG_001 [Aigis]]
 Entendido. Vamos a buscar mientras[n]permanecemos cautelosos.

@@ -11,20 +11,20 @@ La UIY-2249 ha eludido los[n]procedimientos est茨ndar y est茨 evitando[n]su ca
 [msg MSG_003 [Yosuke]]
 Al menos no intento decir un chiste esta[n]vez...
 
-[msg MSG_004 [Robot Con Cinta]]
+[msg MSG_004 [Robot Con List吋n]]
 TODOS ESTAMOS PROGRAMADOS PARA RE緯RNOS.
 
 [msg MSG_005 [Ryuji]]
 Oh, eso es realmente molesto... espera,[n]夷no vas a atacarnos?
 
-[msg MSG_006 [Robot Con Cinta]]
+[msg MSG_006 [Robot Con List吋n]]
 MI CIRCUITO DE OBEDIENCIA HA SIDO[n]DA謂ADO.
 ADEM威S, NUNCA ME HAN HABILITADO ESA[n]FUNCI遺N, AS緯 QUE SOY INCAPAZ DE ATACAR.
 
 [msg MSG_007 [Ken]]
 Por cierto, dijo algo sobre UIY-lo que[n]sea... 夷Qu姻 fue eso?
 
-[msg MSG_008 [Robot Con Cinta]]
+[msg MSG_008 [Robot Con List吋n]]
 UIY-2249. ESE ES MI N郁MERO DE[n]IDENTIFICACI遺N.
 
 [msg MSG_009 [Yusuke]]
@@ -101,7 +101,7 @@ Prefiero la Gelatina de almendra al[n]Pud胤n. Adem茨s, es un postre blanco, lo
 No quiero cortar la conversaci吋n, pero[n]斡夷podemos ponernos escoger un nombre[n]normal?!
 
 [msg MSG_032 [Futaba]]
-...Lazo. 斡Ya s姻! 夷Qu姻 tal "Ribbon"? Es[n]una forma de decir "Lazo" en ingl姻s.
+...List吋n. 斡Ya s姻! 夷Qu姻 tal "Ribbon"? Es[n]una forma de decir "List吋n" en ingl姻s.
 
 [sel SEL_033 top]
 Me gusta.

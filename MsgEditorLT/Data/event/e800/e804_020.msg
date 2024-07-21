@@ -3,7 +3,7 @@
 La localizaci吋n que especific吋 Elizabeth es una alcantarilla justo al norte de aqu胤.
 
 [msg MSG_001 [Futaba]]
-Si la memoria no me falla, tendremos que escabullirnos entre un mont吋n de reflectores para llegar.
+Si la memoria no me falla, tendremos que escabullirnos entre un mont吋n de luces de b雨squeda para llegar.
 
 [msg MSG_002 [Yosuke]]
 Ese tipo de cosas son la especialidad de los Ladrones Fantasma, 夷no?

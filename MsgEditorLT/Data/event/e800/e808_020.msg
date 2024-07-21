@@ -61,7 +61,7 @@ Teng茨moslo tambi姻n en cuenta. Podr胤a ayudarnos a encontrar una respuesta.
 斡Muy bien! 斡Sigamos con la b雨squeda!
 
 [msg MSG_018 [Naoto]]
-Kamo City es realmente grande...
+Ciudad Kamo es realmente grande...
 Deber胤amos mejor marcar las localizaciones de los polic胤as en el mapa.
 
 [msg MSG_019 [Futaba]]
@@ -97,7 +97,7 @@ Eso ser胤a de gran ayuda. 夷Pero qu姻 piensas hacer exactamente?
 
 [msg MSG_028 [Futaba]]
 Si puedo hackear el sistema inform茨tico de la ciudad, sabremos exactamente d吋nde encontrarlos.
-Usaban una terminal para controlar los reflectores, 夷verdad? Hackear姻 desde all胤. Jejejeje.
+Usaban una terminal para controlar las luces, 夷verdad? Hackear姻 desde all胤. Jejejeje.
 
 [msg MSG_029 [Morgana]]
 夷Sabes? A veces me das miedo...
@@ -105,7 +105,7 @@ Usaban una terminal para controlar los reflectores, 夷verdad? Hackear姻 desde 
 [msg MSG_030 [Naoto]]
 Entonces, pensemos una estrategia.
 Si queremos hablar con los polic胤as, tendremos que encontrar primero sus coches.
-Y si queremos saber d吋nde est茨n los coches, tendremos que encontrar la terminal de los reflectores.
+Y si queremos saber d吋nde est茨n los coches, tendremos que encontrar la terminal de las luces.
 
 [sel SEL_031 top]
 Entendido.

@@ -59,25 +59,25 @@ Queen... 夷Est茨s segura? 夷No ser茨s[n]sospechosa de inmediato? Como con es
 [msg MSG_018 [Naoto]]
 Bueno, por favor ten cuidado. Estaremos[n]vigilando desde aqu胤.
 
-[msg MSG_019 [Patrol Robot]]
+[msg MSG_019 [Patrulla Robot]]
 ...
 
 [msg MSG_020 [Makoto]]
 Ah, disculpa... Hay algo que me gustar胤a[n]preguntarte…
 
-[msg MSG_021 [Patrol Robot]]
+[msg MSG_021 [Patrulla Robot]]
 LA PAUSA ES A LAS 15:00.
 
 [msg MSG_022 [Makoto]]
 夷Eh?
 
-[msg MSG_023 [Patrol Robot]]
+[msg MSG_023 [Patrulla Robot]]
 LA TASA DE PRODUCCI遺N DE HOY ACTUALMENTE[n]ES DEL 80%. UN DESCENSO DEL 2% RESPECTO[n]AL PROMEDIO DE AYER...
 
 [msg MSG_024 [Makoto]]
 Eso no es lo que quer胤a preguntar…
 
-[msg MSG_025 [Patrol Robot]]
+[msg MSG_025 [Patrulla Robot]]
 5 CASOS DE CORRECCI遺N DE ERRORES. 21[n]CASOS DE TRATAMIENTO DE DESECHOS...
 
 [msg MSG_026 [Makoto]]

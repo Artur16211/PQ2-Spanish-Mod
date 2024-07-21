@@ -1,5 +1,5 @@
 [msg MSG_000 [Naoto]]
-Aqu胤 est茨 la terminal de los reflectores. Oracle, por favor.
+Aqu胤 est茨 la terminal de las luces de b雨squeda. Oracle, por favor.
 
 [msg MSG_001 [Futaba]]
 D姻jame ver...

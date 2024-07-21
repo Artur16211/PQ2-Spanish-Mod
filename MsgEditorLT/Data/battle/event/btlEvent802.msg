@@ -8,7 +8,7 @@ No me interesa aprender algo tan presuntuoso como eso.
 斡Malhechores insolentes…! 斡Kamoshidaman no perder茨!
 
 [msg MSG_002_5 [Kamoshidaman]]
-斡No perdono a nadie que perturbe la paz en la Kamo Ciudad!
+斡No perdono a nadie que perturbe la paz en la Ciudad Kamo!
 
 [msg MSG_003 [Kamoshidaman]]
 Argh... 斡Imposible!
@@ -19,5 +19,5 @@ Argh... 斡Imposible!
 斡Soy el 茨rbitro de la justicia! 斡Todo lo que tienen que hacer es callarse y obedecerme!
 
 [msg MSG_005 [Kamoshidaman]]
-Argh, 斡pensar que caer胤a as胤! 斡Malditos malhechores, maldiciendo mi Kamo Ciudad!
+Argh, 斡pensar que caer胤a as胤! 斡Malditos malhechores, maldiciendo mi Ciudad Kamo!
 

@@ -36,7 +36,7 @@ Hm. Hag茨moslo.
 Vamos, ser茨 divertido.
 
 [msg MSG_011 [Teddie]]
-斡Puedes hacerlo, Sensei!
+斡Puedes hacerlo, Maestro!
 
 [msg MSG_012 [Yusuke]]
 斡Vamos, Joker! 斡Mu姻stranos tu brillo!

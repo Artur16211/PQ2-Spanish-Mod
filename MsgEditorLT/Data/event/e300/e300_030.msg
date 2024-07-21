@@ -103,7 +103,7 @@ Noooo...
 
 [msg MSG_033 [P4 Hero]]
 Um... volvamos a la pel胤cula, 夷no?
-夷Hay alguna objeci吋n para buscar primero[n]ese robot del lazo?
+夷Hay alguna objeci吋n para buscar primero[n]a ese robot del list吋n?
 
 [msg MSG_034 [Naoto]]
 Ninguna. Ese robot probablemente tiene[n]la clave de esta pel胤cula.

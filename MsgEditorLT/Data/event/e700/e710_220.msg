@@ -12,7 +12,7 @@ Oye, el olfato animal deber胤a ser 雨til[n]para este tipo de cosas... Mona, �
 ...Aunque, tiene un buen brillo. Me[n]recuerda a un Tesoro.
 
 [msg MSG_004 [Akechi]]
-Un Tesoro, 夷eh? Entonces, 夷por qu姻 no lo[n]llamamos a este "Punto de Tesoro"?
+Un Tesoro, 夷eh? Entonces, 夷por qu姻 no lo[n]llamamos a este "Punto del Tesoro"?
 Es posible que contenga objetos bastante[n]雨tiles.
 
 [msg MSG_005 [Ryuji]]

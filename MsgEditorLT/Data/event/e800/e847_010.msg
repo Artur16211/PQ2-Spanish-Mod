@@ -70,7 +70,7 @@ Vamos, estar茨s bien. Te cubrimos las espaldas, como siempre.
 夷Hemos llegado a un acuerdo? Entonces dejadme que os lo resuma.
 
 [msg MSG_018_1 [Elizabeth]]
-Por favor, acabad con la poderosa sombra que ha aparecido en las profundidades de la KamoCiudad.
+Por favor, acabad con la poderosa sombra que ha aparecido en las profundidades de la Ciudad Kamo.
 Y cuando lo hag茨is, aseguraos que [f 6 1 30 0 0 0] se una a la batalla.
 
 [msg MSG_019 [Yusuke]]

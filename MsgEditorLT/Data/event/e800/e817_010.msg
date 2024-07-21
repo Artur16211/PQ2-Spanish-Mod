@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 Oh, parece que la pr吋xima proyecci吋n especial es un thriller polic胤aco...
-Ha habido una serie de incidentes sospechosos en Kamo City... Vuestra tarea es llegar al fondo de este misterio.
+Ha habido una serie de incidentes sospechosos en Ciudad Kamo... Vuestra tarea es llegar al fondo de este misterio.
 
 [msg MSG_001 [Makoto]]
 Parece que deber胤amos intervenir.

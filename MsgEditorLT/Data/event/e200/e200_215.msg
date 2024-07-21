@@ -2,10 +2,10 @@
 Obtuviste [f 4 4 3 0 1605].
 
 [msg MSG_001 [Kanji]]
-...夷Qu姻 demonios? 夷Por qu姻 esta tarjeta[n]brilla?
+...夷Qu姻 demonios? 夷Por qu姻 esta carta[n]brilla?
 
 [msg MSG_002 [P3 Fem Protag]]
-Me recuerda a las tiras de las Persona[n]Films, pero es un poco diferente.
+Me recuerda a las tiras de las Cintas Persona, pero es un poco diferente.
 
 [msg MSG_003 [Ann]]
 Tienes raz吋n, se parece. 夷Podr胤a ser[n]雨til?

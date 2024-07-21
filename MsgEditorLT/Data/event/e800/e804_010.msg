@@ -30,7 +30,7 @@ Wow... Siempre jugando tranquilo.
 [msg MSG_009 [Elizabeth]]
 Dicho esto, parece que el sindicato se ha enterado recientemente de nuestros planes...
 Como resultado, la seguridad se ha elevado al m茨ximo nivel.
-La actividad de los guardias y de los reflectores ser茨 m茨s intensa que de lo habitual.
+La actividad de los guardias y de las luces de b雨squeda ser茨 m茨s intensa que de lo habitual.
 
 [msg MSG_010 [Ryuji]]
 Ugh... Es un dolor simplemente oy姻ndolo.
@@ -40,7 +40,7 @@ Es...
 
 [msg MSG_012 [Chie]]
 Si, 斡es perfecto!
-斡Escabullirse de los reflectores es algo que har胤a un Ladr吋n Fantasma!
+斡Escabullirse de las luces de b雨squeda es algo que har胤a un Ladr吋n Fantasma!
 
 [msg MSG_013 [Ryuji]]
 夷Por qu姻 est茨n esas dos tan alteradas? 夷Ha ocurrido algo?

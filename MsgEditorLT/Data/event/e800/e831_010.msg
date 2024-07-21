@@ -6,7 +6,7 @@ Though this one may be a little too[n]suggestive for some...
 ...Hm!? My nose tells me we're in for[n]something... mature[f 0 1 1]!
 
 [msg MSG_002 [Elizabeth]]
-I'd like for you to locate a secret hot[n]spot in Kamo City.
+I'd like for you to locate a secret hot[n]spot in Ciudad Kamo.
 There, men and women party all night―[n]rustling and tussling, giving in to[n]their earthly desires...
 
 [msg MSG_003 [Yusuke]]
@@ -57,7 +57,7 @@ I'm not sure what you mean, but[n]Elizabeth is most likely referring to a[n]nigh
 
 [msg MSG_017 [Elizabeth]]
 That is correct.
-There are many popular and exclusive[n]nightclubs in Kamo City accessible only[n]to VIPs.
+There are many popular and exclusive[n]nightclubs in Ciudad Kamo accessible only[n]to VIPs.
 
 [msg MSG_018 [Ann]]
 A nightclub, huh...?

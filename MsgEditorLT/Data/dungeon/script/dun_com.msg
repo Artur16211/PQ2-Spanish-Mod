@@ -38,7 +38,7 @@ No usar
 Parece que mi bolsa est茨 llena...
 
 [msg GATHER_SUSPENSE]
-Busqu姻 en el Punto de Tesoro...
+Busqu姻 en el Punto del Tesoro...
 夷...?
 
 [sel JIJIKU_SEL top]
@@ -92,7 +92,7 @@ No hay suficiente SP para usar la[n]habilidad de recuperaci吋n.
 Nadie en el grupo puede usar una[n]habilidad de recuperaci吋n.
 
 [msg MSG_TUTORIAL_OTAKARA_GET]
-> Evento del Punto de Tesoro
+> Evento del Punto del Tesoro
 
 [msg MSG_TUTORIAL_POWERSPOT_1]
 "Los Puntos de Tesoro" son donde puedes[n]obtener [f 0 1 2]diversos objetos[f 0 1 0].

@@ -29,7 +29,7 @@ Supongo que el FOE se rindi吋.
 Tratemos de no ser descubiertos...
 
 [msg P3_HERO_KANSI_REACTION_2]
-Ten cuidado con los reflectores.
+Ten cuidado con las luces de b雨squeda.
 
 [msg P3_HERO_KANSI_REACTION_3]
 Ser茨 mejor mantenerse oculto...

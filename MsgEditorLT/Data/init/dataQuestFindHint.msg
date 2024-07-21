@@ -53,7 +53,7 @@ Dir胤gete a la taquilla.
 Investiga la Zona 2 de A.I.G.I.S.
 
 [msg quest_hint_018]
-Investiga el Piso 2 del Laboratorio de A.I.G.I.S.
+Investiga el Laboratorio 2 en A.I.G.I.S.
 
 [msg quest_hint_019]
 Llega al Servidor Central en A.I.G.I.S.

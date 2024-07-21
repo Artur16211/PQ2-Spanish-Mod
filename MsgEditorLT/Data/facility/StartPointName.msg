@@ -71,7 +71,7 @@ Escaleras hacia el Fin de la Isla
 Escaleras hacia la Zona 2
 
 [msg quest_23]
-Escaleras al Piso 1 del Laboratorio
+Escaleras a Laboratorio 1
 
 [msg quest_24]
 Entrada a la Proyecci吋n Especial
@@ -101,7 +101,7 @@ Escaleras hacia la Plaza Kamoshida
 Escaleras hacia la 2da Avenida
 
 [msg quest_33]
-Escaleras al Piso 2 del Laboratorio
+Escaleras a Laboratorio 2
 
 [msg quest_34]
 ※吋7:３４
@@ -110,13 +110,13 @@ Escaleras al Piso 2 del Laboratorio
 Pantalla de cine
 
 [msg quest_36]
-Escaleras al Piso 1 del Laboratorio
+Escaleras a Laboratorio 1
 
 [msg quest_37]
 Entrada a la Proyecci吋n Especial
 
 [msg quest_38]
-Escaleras al Piso 1 del Laboratorio.
+Escaleras a Laboratorio 1
 
 [msg quest_39]
 Entrada a la Proyecci吋n Especial
@@ -149,7 +149,7 @@ Escaleras hacia la 3ra Avenida
 Escaleras hacia la Zona 4
 
 [msg quest_49]
-Escaleras al Piso 2 del Laboratorio
+Escaleras a Laboratorio 2
 
 [msg quest_50]
 Escaleras hacia el Acto 7

@@ -4,7 +4,7 @@
 [msg MSG_001 [Chie]]
 夷Eh? 夷Qu姻 est茨 pasando?
 
-[msg MSG_002 [Robot Con Cinta]]
+[msg MSG_002 [Robot Con List吋n]]
 TRAS REALIZAR UN AN威LISIS INTERNO, HE[n]IDENTIFICADO UN ERROR T畏CNICO.
 
 [msg MSG_003 [Robot Producido En Masa A]]
@@ -13,7 +13,7 @@ TODOS LOS ERRORES DEBEN SER ELIMINADOS.
 [msg MSG_004 [Robot Producido En Masa B]]
 VEN CON NOSOTROS. RESTAURAREMOS TU[n]MEMORIA A SUS VALORES DE FABRICA.
 
-[msg MSG_005 [Robot Con Cinta]]
+[msg MSG_005 [Robot Con List吋n]]
 ENTENDIDO.
 
 [msg MSG_006 [Futaba]]

@@ -95,7 +95,7 @@
 斡Encuentra el club nocturno!
 
 [msg quest_explain_032]
-斡Haz que las hermosas damas salven la Kamo Ciudad!
+斡Haz que las hermosas damas salven la Ciudad Kamo!
 
 [msg quest_explain_033]
 斡Busca los puntos del tesoro!

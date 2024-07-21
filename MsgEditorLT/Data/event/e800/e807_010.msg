@@ -8,7 +8,7 @@ Eh... 夷Para qu姻?
 Desde que llegaron a este mundo, han hecho frente a un duro problema tras otro...
 Como han llegado tan lejos, supongo que ser茨n lo suficientemente fuertes para superar este nuevo desaf胤o...
 斡No hablo nada m茨s y nada menos que de la pr吋xima proyecci吋n especial!
-Esta vez, 斡os pedir姻 entrar en Kamo City y derrotar al FOE gallina!
+Esta vez, 斡os pedir姻 entrar en Ciudad Kamo y derrotar al FOE gallina!
 
 [msg MSG_003 [Ann]]
 夷Te refieres a ese grande asqueroso que llevaba una pata de pollo?

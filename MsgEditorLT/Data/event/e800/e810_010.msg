@@ -24,18 +24,18 @@ No soy tan bueno como la profesora Kawakami.
 
 [msg MSG_006 [Teddie]]
 Ngh... Estos chicos de ciudad pueden hacer lo que sea...
-斡Pero Sensei puede hacer mucho m茨s!
+斡Pero el Maestro puede hacer mucho m茨s!
 
 [msg MSG_007 [Teddie]]
 Cuanta confianza...
-斡Pero Sensei puede hacer mucho m茨s!
+斡Pero el Maestro puede hacer mucho m茨s!
 
 [msg MSG_008 [Ryuji]]
 S胤, pican justo cuando lanza el anzuelo al agua. Es una maldita profesional...
 As胤 que no eres tan bueno, pero, aun as胤, sigues teniendo mucha confianza, 夷no?
 
 [msg MSG_009 [Teddie]]
-Jojo... Pero, 斡nuestro Sensei puede hacer mucho m茨s!
+Jojo... Pero, 斡nuestro Maestro puede hacer mucho m茨s!
 
 [msg MSG_010 [P4 Hero]]
 Yo tambi姻n tengo experiencia pescando. Seguro que puedo ayudar.

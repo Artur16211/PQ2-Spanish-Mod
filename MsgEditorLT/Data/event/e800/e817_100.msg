@@ -5,7 +5,7 @@ Bravo, bravo. Me quito el sombrero ante vuestras habilidades de investigaci吋n.
 Realmente nos hiciste pasar un mal rato. Fue dif胤cil imaginarse todo sin apenas informaci吋n.
 
 [msg MSG_001_1 [Junpei]]
-Pero la gente de Kamo City podr茨 dormir tranquila esta noche, gracias a m胤...
+Pero la gente de Ciudad Kamo podr茨 dormir tranquila esta noche, gracias a m胤...
 
 [sel SEL_002 top]
 夷Junpei, superdetective?

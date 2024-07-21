@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 Yet another special screening has been[n]added.
-It seems this screening will take place[n]within Kamo City.
+It seems this screening will take place[n]within Ciudad Kamo.
 Having lost their hero, the townspeople[n]need encouragement as they set off[n]toward a new tomorrow...
 Such is the heartfelt setup for this[n]showing.
 

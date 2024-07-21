@@ -1,7 +1,7 @@
 [msg MSG_000 [Kanji]]
 Me preguntaba, ya sabes... 夷Puedes[n]pelear?
 
-[msg MSG_001 [Robot Con Cinta]]
+[msg MSG_001 [Robot Con List吋n]]
 NO. NO TENGO FUNCIONES DE COMBATE. POR[n]FAVOR RECU畏RDALO.
 
 [msg MSG_002 [Futaba]]
@@ -10,20 +10,20 @@ NO. NO TENGO FUNCIONES DE COMBATE. POR[n]FAVOR RECU畏RDALO.
 [msg MSG_003 [Yukari]]
 斡S胤, d姻janos las peleas!
 
-[msg MSG_004 [Robot Con Cinta]]
+[msg MSG_004 [Robot Con List吋n]]
 夷ME LLEVAN CON USTEDES, A PESAR DE QUE[n]NO PUEDO PELEAR? NO LES SOY DE UTILIDAD.[n]夷POR QU畏?
 
 [sel SEL_005 top]
 Nos beneficias en algo.
 Solo olv胤dalo y s胤gueme.
 
-[msg MSG_006 [Robot Con Cinta]]
+[msg MSG_006 [Robot Con List吋n]]
 CLARO, PUEDO SERVIR COMO ESCUDO...
 
 [msg MSG_007 [Futaba]]
 斡S-sin escudos! 斡Nadie te pidi吋 que[n]hicieras eso! Solo s胤guenos, 夷est茨 bien?
 
-[msg MSG_008 [Robot Con Cinta]]
+[msg MSG_008 [Robot Con List吋n]]
 PERO...
 
 [msg MSG_009 [Kanji]]
@@ -44,14 +44,14 @@ La maquinaria es muy delicada. No[n]debemos acercarla a ning雨n escenario[n]par
 [msg MSG_034 [Chie]]
 夷Deber胤amos tratar de esconderla en[n]alguna parte? 夷Y si la atrapan esos[n]robots de seguridad?
 
-[msg MSG_035 [Robot Con Cinta]]
+[msg MSG_035 [Robot Con List吋n]]
 SI ESTO LES PREOCUPA, CREO QUE TENGO UNA[n]SOLUCI遺N.
 NO DEBER緯A SER IDENTIFICABLE PARA LOS[n]ROBOTS DE SEGURIDAD =SI SUSPENDO MIS[n]OPERACIONES.
 
 [msg MSG_036 [Naoto]]
 夷Suspender sus operaciones? 夷Te refieres[n]a apagarte?
 
-[msg MSG_037 [Robot Con Cinta]]
+[msg MSG_037 [Robot Con List吋n]]
 NO. TENGO UN MODO REPOSO. PUEDO[n]SUSPENDER TEMPORALMENTE MIS OPERACIONES.
 
 [msg MSG_038 [Yusuke]]

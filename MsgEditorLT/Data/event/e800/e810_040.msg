@@ -86,7 +86,7 @@ Correcto.
 Oh... 斡Peque隠o hermanito!
 
 [msg MSG_025 [Teddie]]
-Oookay, 斡ya es suficiente! 斡Sensei ya tiene a su preciosa hermanita!
+Oookay, 斡ya es suficiente! 斡El Maestro ya tiene a su preciosa hermanita!
 
 [msg MSG_026 [Yosuke]]
 S胤, ambos hacen un poco lo suyo.

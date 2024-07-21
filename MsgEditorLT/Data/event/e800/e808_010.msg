@@ -26,7 +26,7 @@ Oh, ella va a por todas con esto...
 [msg MSG_008 [Elizabeth]]
 Me alegro de que preguntes.
 斡Esta proyecci吋n especial pide que encuentren a un imitador de polic胤a!
-Una sombra est茨 creando confusi吋n entre los ciudadanos de Kamo City.
+Una sombra est茨 creando confusi吋n entre los ciudadanos de Ciudad Kamo.
 
 [sel SEL_009 top]
 Eso es imperdonable.

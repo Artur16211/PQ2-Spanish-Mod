@@ -162,7 +162,7 @@
 | resistance barrier   | barrera de resistencia|
 | special Shadow       | Sombra especial       |
 | Overseer             | Supervisor            |
-| Kamo City            | Kamo Ciudad           |
+| Kamo City            | Ciudad Kamo           |
 | Yosukesaurus         | Yosukesaurio          |
 | Loud herbivore       | Herbívoro Enorme      |
 | Nervous herbivore    | Herbívoro Inquieto    |
