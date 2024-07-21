@@ -1,73 +1,73 @@
 [msg MSG_000 [Ryuji]]
-A nightclub, huh...? Any idea where[n]we're supposed to look?
+Un club nocturno. 夷Alguna idea de donde deber胤amos buscar?
 
 [msg MSG_001 [Yusuke]]
-I'm not too familiar with such places[n]myself.
-From the conversation from earlier, it[n]sounds like [f 6 1 16 0 0]-san's an expert...
+Yo no estoy muy familiarizado con esos sitios.
+Por la conversaci吋n de antes, parece que [f 6 1 16 0 0] es un experto...
 
 [msg MSG_002 [P3 Hero]]
-I'm no expert... I just go every now and[n]then.
+No soy un experto... Solo voy a veces.
 
 [msg MSG_003 [Shinjiro]]
-Club Escapade at Paulownia Mall...?
+夷Al Escapade en el Centro comercial Paulownia...?
 
 [msg MSG_004 [Kanji]]
-Oh! I know that place! We went there[n]during our school trip!
+斡Oh! 斡Conozco ese sitio! 斡Fuimos all胤 durante nuestro viaje escolar!
 
 [msg MSG_005 [Teddie]]
-Yeah, we had a reeeeeeal good time!
+S胤, 斡nos lo pasamos muy bien!
 
 [msg MSG_006 [Yosuke]]
-I feel like you guys were just drunk off[n]the atmosphere...
-So is that where you and your pals like[n]to hang out, [f 6 1 15 0 0 0]?
+Creo que ustedes se emborracharon solo con el ambiente...
+夷As胤 que all胤 es donde t雨 y tus amigos pasan el rato, [f 6 1 15 0 0 0]?
 
 [msg MSG_007 [P3 Hero]]
-No, I usually go by myself.
+No, normalmente voy solo.
 
 [msg MSG_008 [Kanji]]
-W-Whoa... You're like an adult...
-What the hell you even do at clubs and[n]bars if you go by yourself?
+H-Hala... Eres como un adulto...
+夷Qu姻 demonios haces en las discotecas y bares si vas solo?
 
 [sel SEL_009 top]
-Talk to the adults.
-Work.
-Listen to drunks complain.
+Hablar con los adultos.
+Trabajar.
+Escuchar las quejas de los borrachos.
 
 [msg MSG_010 [P3 Hero]]
-Yeah. You meet all sorts of interesting[n]people you probably wouldn't otherwise.
-Like a monk...
+S胤. Conoces todo tipo de gente interesante que probablemente no conocer胤as de otra manera.
+Como un monje...
 
 [msg MSG_011 [P3 Hero]]
-Work, huh...? It's tough keeping up with[n]all the orders, isn't it?
-There was always this monk asking me to[n]bring him drinks...
+夷Trabajar, eh...? Es dif胤cil acorarse de todos los pedidos, 夷verdad?
+Siempre hab胤a un monje pidi姻ndome que le llevara bebidas...
 
 [msg MSG_012 [P3 Hero]]
-You get to hear things you normally[n]wouldn't.
-Like a monk preaching, for example...
+Oyes cosas que normalmente no oir胤as.
+Como un monje predicando, por ejemplo...
 
 [msg MSG_013 [Junpei]]
-A monk!? You met a monk at a nightclub!?
+斡夷Un monje?! 斡夷Conociste a un monje en un club nocturno?!
 
 [msg MSG_014 [Ken]]
--san never fails to surprise us...
+ nunca deja de sorprendernos...
 
 [msg MSG_015 [Ryuji]]
-I guess that's just how it goes with[n]these guys...
+Supongo que as胤 son las cosas con estos tipos...
 
 [sel SEL_016 top]
-These guys?
-What're you talking about?
+夷Estos tipos?
+夷De qu姻 est茨s hablando?
 
 [msg MSG_017 [Ryuji]]
-You're always making friends with[n]people! Like that doctor lady and the[n]shogi girl!
+斡Siempre est茨s haciendo amigos! 斡Como esa doctora y la chica del shogi!
 
 [msg MSG_018 [Teddie]]
-Say what!? Tell me more! Please! I gotta[n]know!
+斡夷Qu姻 has dicho?! 斡Cu姻ntame m茨s! 斡Por favor! 斡Tengo que saberlo!
 
 [msg MSG_019 [P3 Hero]]
-Look, this is fun and all, but can we[n]get going?
-Nightclubs are usually located in the[n]far corners of a city or deep within.
+Mira, esto es divertido y todo, pero 夷podemos irnos?
+Los clubes nocturnos suelen encontrarse en los rincones m茨s alejados de la ciudad o en lo m茨s profundo de ella.
 
 [msg MSG_020 [Akihiko]]
-'s right. Let's go.
+ tiene raz吋n. Vamos.
 

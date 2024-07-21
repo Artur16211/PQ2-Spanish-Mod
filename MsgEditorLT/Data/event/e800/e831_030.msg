@@ -1,85 +1,85 @@
 [msg MSG_000 [Yusuke]]
-It doesn't look like there are any[n]nightclubs around here... I wonder if we[n]can get some kind of hint.
+No parece que haya clubes nocturnos por aqu胤... Me pregunto si podemos conseguir alg雨n tipo de pista.
 
 [msg MSG_001 [Ken]]
-Elizabeth said only VIPs can get in, so[n]maybe the entrance is hidden.
+Elizabeth dijo que solo pod胤a entrar gente VIP, as胤 que quiz茨s la entrada est茨 oculta.
 
 [msg MSG_002 [Kanji]]
-VIPs, huh...? Think we'll see any monks?
+夷VIP, eh? 夷Creen que hemos visto alg雨n monje?
 
 [msg MSG_003 [Junpei]]
-As if, man...
-The late night brings out sexy women[n]and...
+Como si as胤 fuera, bro...
+La noche saca a relucir mujeres sexys y...
 
 [sel SEL_004 top]
-Journalists.
-Non-conformists.
-Creeps.
+Periodistas.
+Inconformistas.
+Tipos espeluznantes.
 
 [msg MSG_005 [Shinjiro]]
-Huh... That where you get your intel?[n]Not bad...
+Eh... 夷De ah胤 sacas tu informaci吋n? No est茨 mal...
 
 [msg MSG_006 [Morgana]]
-Oh, like Lala Escargot? She's quite a[n]character...
+Oh, 夷como Lala Escargot? Ella es todo un personaje...
 
 [msg MSG_007 [Akihiko]]
-Escargot? Is she French?
+夷Escargot? 夷Es francesa?
 
 [msg MSG_008 [Yosuke]]
-I can only imagine...
+Me imagino...
 
 [msg MSG_009 [Ryuji]]
-Yeah, man. There's all kinds of weirdos[n]runnin' around at night.
+S胤, bro. Hay todo tipo de bichos raros durante la noche.
 
 [msg MSG_010 [Kanji]]
-I guess the city's just as crazy as[n]people say...
+Supongo que la ciudad es tan loca como la gente dice...
 
 [msg MSG_011 [P4 Hero]]
-It can be... You just have to be[n]careful...
+Puede ser... Solo tienes que tener cuidado...
 
 [msg MSG_012 [Ken]]
-You must know a lot of people too,[n]Joker.
+Debes de conocer a un mont吋n de gente, Joker.
 
 [msg MSG_013 [Morgana]]
-As the leader of the Phantom Thieves,[n]it's his job to make connections.
+Como l胤der de los Ladrones Fantasma, es su trabajo hacer contactos.
 
 [msg MSG_014 [Ryuji]]
-Thanks to this guy, we're able to[n]strategize and get better weapons.
+Gracias a este tipo, podemos elaborar estrategias y conseguir mejores armas.
 
 [msg MSG_015 [Ken]]
-Even if you have a duty to fulfill,[n]walking the city at night...?
-You must have a lot of guts to do[n]something like that.
+Aunque tengas deberes que cumplir, 夷pasear por la ciudad por la noche...?
+Debes tener muchas agallas para hacer algo como eso.
 
 [sel SEL_016 top]
-It's scary at first.
-It's exciting.
-Things tend to work out.
+Al principio da miedo.
+Es emocionante.
+Las cosas tienden a funcionar.
 
 [msg MSG_017 [Ryuji]]
-I'm still iffy about that airsoft shop[n]guy...
+Sigo dudando de ese tipo de la tienda de airsoft...
 
 [msg MSG_018 [Morgana]]
-Yeah, some people can be pretty[n]intimidating.
-But you guys are good now.
+S胤, alguna gente puede ser muy intimidante.
+Pero ustedes est茨n bien ahora.
 
 [msg MSG_019 [P3 Hero]]
-They might seem scary in the beginning, but[n]you learn pretty quickly that there's more to[n]people than meets the eye.
+Pueden parecer aterrador al principio, pero aprendes bastante r茨pido que hay m茨s en las personas de lo que parece a simple vista.
 
 [msg MSG_020 [P3 Hero]]
-Yeah, it can be pretty exciting to learn[n]about a world so different from your[n]own.
+S胤, puede ser muy emocionante conocer un mundo tan diferente al tuyo.
 
 [msg MSG_021 [P3 Hero]]
-Yeah, sometimes. You just have to be[n]willing to take a chance.
+S胤, a veces. Solo tienes que estar dispuesto a correr el riesgo.
 
 [msg MSG_022 [Shinjiro]]
-Man, you guys ain't scared of nothin'.
+Bro, ustedes no tienen miedo de nada.
 
 [msg MSG_023 [Koromaru]]
-Woof, woof!
+斡Woof, woof!
 
 [msg MSG_024 [Ken]]
-Something up ahead, Koromaru?
+夷Hay algo m茨s adelante, Koromaru?
 
 [msg MSG_025 [Junpei]]
-Oh? Did he get a whiff of the nightclub?[n]Let's check it out!
+夷Oh? 夷Ha olido el club nocturno? 斡Vamos a comprobarlo!
 

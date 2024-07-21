@@ -1,48 +1,48 @@
 [msg MSG_000 [P3 Hero]]
-Phew... That takes care of that.
-A nightclub for Shadows, huh...? You[n]don't see that everyday.
+Uf... Eso soluciona el problema.
+Un club nocturno para sombras. No ves eso todos los d胤as.
 
 [msg MSG_001 [Yosuke]]
-We had to bust our asses because SOMEONE[n]had to rush up and try every stupid[n]trick in the book to get in...
+Tuvimos que esforzarnos mucho porque ALGUIEN se apresur吋 y prob吋 cada truco est雨pido del libro para entrar...
 
 [msg MSG_002 [Junpei]]
-Sorry 'bout that... I guess that was[n]pretty immature... Being an adult's[n]harder than I thought.
-But I ain't giving up yet. Plenty more[n]adult paradise waitin' for us out there[n]in the city that never sleeps!
+Perd吋n por eso... Supongo que fue muy inmaduro... Ser un adulto es m茨s dif胤cil de lo que pensaba.
+Pero a雨n no me rindo. 斡Nos esperan muchos m茨s para胤sos para adultos en la ciudad que nunca duerme!
 
 [msg MSG_002_1 [Teddie]]
-That's the spirit, Junpei! I'm stickin'[n]with you tonight!
+斡Ese es el esp胤ritu, Junpei! 斡Me quedo contigo esta noche!
 
 [msg MSG_003 [Fuuka]]
 Umm...
 
 [msg MSG_004 [Teddie]]
-Sorry, Fuu-chan, you'll have to leave a[n]message. We're headed to paradise...
+Perd吋n, Fuu, tendr茨s que dejar un mensaje. Nos dirigimos al para胤so...
 
 [msg MSG_005 [Fuuka]]
-But... Mitsuru-senpai's...
+Pero... Mitsuru...
 
 [msg MSG_005_1 [Mitsuru]]
-You're all going to take responsibility[n]for acting so recklessly.
+Todos ustedes van a asumir la responsabilidad por actuar tan imprudentemente.
 
 [msg MSG_005_2 [Mitsuru]]
-You want to be adults? Fine, I'll send[n]you to paradise...
+夷Quieren ser adultos? Bien, os llevar姻 al para胤so...
 
 [msg MSG_006 [Futaba]]
-Heheheh. Ooh, you guys are in trouble.[n]Looks like you're all gonna get it.
+Je, je, je. Oh, los chicos est茨n en problemas. Parece que os va a tocar a todos.
 
 [msg MSG_007 [Yosuke]]
-Wha―? Hey! Leave me out of this!
-Hey, Kanji! Teach this dumb bear a[n]lesson!
+夷Qu姻? 斡Ey! 斡D姻jame fuera de esto!
+斡Ey, Kanji! 斡Ens姻隠ale una lecci吋n a este oso tonto!
 
 [msg MSG_008 [Kanji]]
-Sir!
+斡S胤 se隠or!
 
 [msg MSG_009 [Teddie]]
-N-Noo! My adulthood... it's slipping[n]away!
+斡N-Noo! Mi edad adulta... 斡Se me escapa!
 
 [msg MSG_010 [Junpei]]
-Sorry, Teddie. We tried... We really[n]tried...
+Perd吋n, Teddie. Lo intentamos... Realmente lo intentamos...
 
 [msg MSG_011 [P3 Hero]]
-...Haha. Well, at least we finished the[n]screening. Let's head back once we're[n]done being punished.
+... Ja, ja. Bueno, al menos hemos acabado la proyecci吋n. Volvamos una vez que hayamos terminado de ser castigados.
 

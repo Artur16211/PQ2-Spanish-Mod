@@ -1,16 +1,16 @@
 [msg MSG_000 [Justine]]
-That was trifling. Is that really the[n]extent of your powers?
+Eso fue insignificante. 夷Ese es realmente el alcance de tus poderes?
 
 [msg MSG_001 [Caroline]]
-Heheh... Aww, you frustrated? Then get[n]better and come try again!
+Je, je, je... 夷Est茨n frustrados? 斡Entonces mejorad y volverlo a intentar!
 
 [msg MSG_001_1 [Caroline]]
-We won't run or hide from you! You can[n]keep challenging us, and we'll keep[n]taking you down!
+斡No huiremos ni nos esconderemos de ustedes! Pueden seguir desafi茨ndonos, 斡y nosotras seguiremos derrib茨ndoles!
 
 [msg MSG_002 [Elizabeth]]
-Hmhm... I'm glad they're enjoying[n]themselves.
+Hmm... Me alegro de que est姻n disfrutando.
 
 [msg MSG_002_1 [Elizabeth]]
-I doubt this is enough to break your[n]spirit, [f 6 1 30 0 0 0]...
-If you seek vengeance for your defeat,[n]please speak to me at the box office.
+Aunque dudo que esto sea suficiente para quebrar tu esp胤ritu, [f 6 1 30 0 0 0]...
+Si buscan venganza por su derrota, hablen conmigo en la taquilla.
 

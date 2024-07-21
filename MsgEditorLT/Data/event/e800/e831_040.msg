@@ -1,46 +1,46 @@
 [msg MSG_000 [Junpei]]
-Daaang... What's with all the FOEs...?
+Maldita sea... 夷Qu姻 pasa con todos esos FOE...?
 
 [msg MSG_001 [Ken]]
-This must have been what Koromaru was[n]telling us about.
+Esto debe de ser lo que Koromaru quer胤a decirnos.
 
 [msg MSG_002 [Kanji]]
-So this wasn't the right way? Do we head[n]back?
+夷Entonces no era el camino correcto? 夷Regresamos?
 
 [msg MSG_003 [Akechi]]
-Hold on... All these FOEs are here for[n]security.
-They don't want anyone getting close...[n]Which can only mean...
+Espera... Todos estos FOEs est茨n aqu胤 por la seguridad.
+No quieren que nadie se acerca... Lo que significa que...
 
 [sel SEL_004 top]
-They're guards.
-They're protecting something?
-They're keeping people away.
+Son guardia.
+夷Est茨n protegiendo algo?
+Est茨n alejando a la gente.
 
 [msg MSG_005 [Akechi]]
-Right. If security is this tight, then[n]they must be guarding something.
+Correcto. Si la seguridad es tan estricta, entonces deben de estar protegiendo algo.
 
 [msg MSG_006 [Morgana]]
-You mean they're security for the[n]nightclub? The nightclub's using FOEs!?
+夷Quieres decir que son seguridad para el club nocturno? 斡夷El club nocturno est茨 usando FOEs?!
 
 [msg MSG_007 [Akechi]]
-Well, it would make sense. It is VIP,[n]after all.
+Bueno, tendr胤a sentido. Despu姻s de todo, es VIP.
 
 [msg MSG_008 [Kanji]]
-Then the club's gotta be just past here.
+Entonces el club tiene que estar pasando por aqu胤.
 
 [msg MSG_009 [Junpei]]
-Hell yeah! Adult paradise awaits! FOEs,[n]clear the way!
+斡Claro que s胤! 斡El para胤so adulto nos espera! 斡FOEs, despejad el camino!
 
 [msg MSG_010 [Teddie]]
-Here we gooo!
+斡All茨 vamoooos!
 
 [msg MSG_011 [Yukari]]
-What a bunch of children... Why can't[n]they always be that motivated?
+Vaya panda de ni隠atos... 夷Por qu姻 est茨n siempre tan motivados?
 
 [msg MSG_012 [Ann]]
-Using FOEs for security... That's[n]definitely not normal.
+Utilizar FOEs como seguridad... Esto definitivamente no es normal.
 
 [msg MSG_013 [Mitsuru]]
-*sigh* Either way, we'll want to be on[n]our guard.
-And let's not forget, we said we'd leave[n]it to them. Let's see what they can do.
+*suspiro* De cualquier forma, tenemos que estar en guardia.
+Y no olvidemos que dijimos que se lo dejar胤amos a ellos. Veamos qu姻 pueden hacer.
 
