@@ -358,7 +358,7 @@ Not used
 ★未使用！
 
 [msg msg_combine_MHELP001_M [Caroline]]
-Las Personas que registres en "Persona[n]Film" se pueden ver siempre que quieras.
+Las Personas que registres en "Cintas[n]Persona" se pueden ver siempre que quieras.
 Adem茨s, podemos invocar una Persona[n]desde la pel胤cula si est茨s dispuesto a[n]pagar su precio.
 Solo hay un peque隠o detalle: cuanto m茨s[n]fuerte sea la Persona, m茨s te va a[n]costar. Obviamente.
 Si registras muchas Personas, tal vez[n]consideremos darte un descuento. 斡Mejor[n]trabaja duro para conseguirlo!

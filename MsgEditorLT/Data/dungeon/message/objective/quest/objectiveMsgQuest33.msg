@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Busca los Puntos de Tesoro!
+斡Busca en los Puntos del Tesoro!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Ve m茨s all茨 del 雨ltimo punto de[n]teletransportaci吋n.
@@ -23,5 +23,5 @@ Encuentra otros 6.
 Encuentra otros 7.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_8]
-Revisa los Puntos de Tesoro.
+Revisa los Puntos del Tesoro.
 

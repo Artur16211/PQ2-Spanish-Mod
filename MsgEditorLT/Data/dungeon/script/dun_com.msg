@@ -95,7 +95,7 @@ Nadie en el grupo puede usar una[n]habilidad de recuperaci吋n.
 > Evento del Punto del Tesoro
 
 [msg MSG_TUTORIAL_POWERSPOT_1]
-"Los Puntos de Tesoro" son donde puedes[n]obtener [f 0 1 2]diversos objetos[f 0 1 0].
+"Los Puntos del Tesoro" son donde puedes[n]obtener [f 0 1 2]diversos objetos[f 0 1 0].
 
 [msg MSG_TUTORIAL_POWERSPOT_2]
 Si eliges [f 0 1 2]Buscar a fondo[f 0 1 0]...

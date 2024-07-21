@@ -122,7 +122,7 @@ Atrae al carn胤voro
 Contin雨a adelante
 
 [msg D03_OBJECTIVE_MSG_LARGE_]
-Encuentra al robot con cinta
+Encuentra al robot con list吋n
 
 [msg D03_OBJECTIVE_MSG_SMALL_]
 Contin雨a adelante

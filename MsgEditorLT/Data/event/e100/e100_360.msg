@@ -36,7 +36,7 @@ Entonces, es posible que necesiten[n]apuntar...
 
 [msg MSG_011 [Kamoshidaman]]
 斡Ja! 斡As胤 que es verdad cuando dicen que[n]los perdedores tienen las bocas m茨s[n]grandes!
-斡Malhechores amenazando a mi sociedad:[n]esta es la ley de la Kamo ciudad!
+斡Malhechores amenazando a mi sociedad:[n]esta es la ley de la Ciudad Kamo!
 
 [msg MSG_012 [Makoto]]
 斡Chicos! 斡La estatua de Kamoshidaman es[n]la raz吋n por la que no pueden moverse!

@@ -78,7 +78,7 @@ Pero ahora me estoy acostumbrando.[n]Gracias por preguntar.
 斡Es hora de cambiar esta pel胤cula! 夷Por[n]d吋nde debemos empezamos?
 
 [msg MSG_025 [P3 Fem Protag]]
-Supongo que deber胤amos empezar buscando[n]a ese robot de la cinta roja...
+Supongo que deber胤amos empezar buscando[n]a ese robot del list吋n rojo...
 
 [msg MSG_026 [Ann]]
 Bueno, no podemos andar buscando con[n]estos enemigos por todas partes... 夷Qu姻[n]vamos a hacer?

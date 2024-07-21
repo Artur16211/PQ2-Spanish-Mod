@@ -98,7 +98,7 @@
 斡Haz que las hermosas damas salven la Ciudad Kamo!
 
 [msg quest_explain_033]
-斡Busca los puntos del tesoro!
+斡Busca en los puntos del tesoro!
 
 [msg quest_explain_034]
 ※こOク夷ス:P吋7:
@@ -140,7 +140,7 @@
 斡Recupera la m雨sica de la pel胤cula!
 
 [msg quest_explain_047]
-斡Derrota la nueva Sombra en la Kamociudad!
+斡Derrota la nueva Sombra en la Ciudad Kamo!
 
 [msg quest_explain_048]
 斡Derrota a la nueva Sombra en Junessic Land!
