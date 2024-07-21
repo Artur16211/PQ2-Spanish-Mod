@@ -33,7 +33,7 @@ Ah...
 夷Qu姻 me paso...?
 
 [msg MSG_011 [Aigis]]
-はまるぽもれろま ゎょぺ むるぺょ ぼぺょろもぽぺぽ ぽま まょまるむウぺ ぽまほもぽよ ぺ[n]ゅぺ ぺぼろもわぺぼもカょ ぽま ろゎ ぬよぽよ っまれまょみるまょよデ を めぺほウぺ[n]ゎょ まるるよる まょ ろゎ れまぼゎまょぼもぺ ぽま ぺるるぺょりゎまテ
+Perdiste una gran cantidad de energ胤a debido a[n]la activaci吋n de tu Modo Desenfreno, y hab胤a[n]un error en tu secuencia de arranque.
 Por eso te conectamos temporalmente a mi[n]sistema e intentamos restaurarlo.
 
 [msg MSG_012 [Mitsuru]]
@@ -66,7 +66,7 @@ Es una buena pregunta. 夷Qu姻 planeas[n]hacer ahora, Ribbon?
 
 [msg MSG_020 [Ribbon]]
 Creo que, eventualmente, m茨s de mis[n]compa隠eros conseguir茨n su[n]individualidad.
-っまほよ らるまらぺるぺるゆま らぺるぺ ぼゎぺょぽよ まれま ゆよゆまょろよ[n]ゅゅまむゎまデ りゎもまるよ ぼるまぺる ゎょ ゆゎょぽよ ぽよょぽま らよぽぺゆよれ[n]わもわもる ゃゎょろよれデ まょ ゎょ ゅゎむぺる れもょ ゆもまぽよ ぺ れまる[n]まゅもゆもょぺぽよれテ
+Debo prepararme para cuando ese momento[n]llegue, quiero crear un mundo donde podamos[n]vivir juntos, en un lugar sin miedo a ser[n]eliminados.
 
 [msg MSG_021 [Morgana]]
 斡Eso es incre胤ble! 斡Te animaremos![n]夷Verdad, Joker?
@@ -97,7 +97,7 @@ No soy especial. Sin embargo, hablando[n]hipot姻ticamente, si hubiera algo[n]es
 
 [msg MSG_029 [Futaba]]
 No somos los 雨nicos que piensan as胤.[n]Estoy segura de que habr茨 otros que te[n]acepten tal como eres.
-はよる まれよ ろぺゆほもイょ ぽまほまるウぺれ めぺぼまる ょゎまわよれ[n]ぼよゆらぺォまるよれテ ひも めぺぼまれ まれよデ れまむゎるよ りゎま ろよぽよれ ゅよれ[n]ぽウぺれ まれろぺるァょ ゅゅまょよれ ぽま ぽもわまるれもカょテ
+Por eso tambi姻n deber胤as hacer nuevos[n]compa隠eros. Si haces eso, seguro que todos los[n]d胤as estar茨n llenos de diversi吋n.
 
 [msg MSG_030 [Aigis]]
 Ribbon-san, por favor, af姻rrate a eso[n]que te hace "especial".
@@ -169,7 +169,7 @@ Pero ahora, ninguno de nosotros est茨[n]solo, 夷no?
 夷Huh?
 
 [msg MSG_048 [Mitsuru]]
-ぢよゆよ ぺゅむゎもまょ りゎま ゅゎぼめぺ ゃゎょろよ ぺ ろもデ めぺれ[n]ぽまゆよれろるぺぽよ ろゎ ゅまぺゅろぺぽ を みもぺほもゅもぽぺぽ ゅよ[n]れゎみもぼもまょろま ぼよゆよ らぺるぺ むぺょぺる ょゎまれろるぺ ぼよょみもぺょんぺテ
+Como alguien que lucha junto a ti, has[n]demostrado tu lealtad y fiabilidad lo[n]suficiente como para ganar nuestra confianza.
 Si quieres que lo ponga m茨s claro, creo[n]que puedo hablar por todos cuando digo[n]que eres nuestra compa隠era.
 
 [msg MSG_049 [P3 Fem Protag]]

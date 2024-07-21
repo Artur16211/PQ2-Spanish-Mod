@@ -38,7 +38,7 @@ Solo me he dado cuenta de que no me[n]importa hacer cosas de esta naturaleza.
 
 [msg MSG_010 [Elizabeth]]
 Por cierto *隠am-隠am* Mis invitados[n]*隠am-隠am*.
-はぺるまぼま りゎま まゅゅよれ ろぺゆほもイょ まれろァょ らまるぽもぽよれテテテ[n]*ォぺゆ-ォぺゆ* ふぺをぺデ まれろま ぺゅもゆまょろよ ゅゅぺゆぺぽよ[n]らぺゅよゆもろぺれ ぽま ゆぺウんテテテ *ォぺゆ-ォぺゆ* *ォぺゆ-ォぺゆ*
+Parece que ellos tambi姻n est茨n perdidos...[n]*隠am-隠am* Vaya, este alimento llamado[n]palomitas de ma胤z... *隠am-隠am* *隠am-隠am*
 
 [msg MSG_011 [Theodore]]
 斡Hermana! Es de mala educaci吋n comer y[n]hablar al mismo tiempo...

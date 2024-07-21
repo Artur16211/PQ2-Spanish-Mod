@@ -49,7 +49,7 @@ Crow, tu m茨scara parece que hace un buen[n]trabajo protegiendo tu nariz.
 Es cierto, 夷pero no pinchar胤a a[n]cualquiera que est姻 parado frente a 姻l[n]en la cabeza?
 
 [msg MSG_015 [Yukiko]]
-つれよ れよゅよ れもむょもみもぼぺ りゎま ろもまょま ゎょぺ ほゎまょぺ[n]よみまょれもわぺ を ぽまみまょれぺテ ぢゎぺょぽよ ゅよ ぼよょれもぽまるぺれデ[n]ぺらゎまれろよ ぺ りゎま まれ もょぼゅゎれよ ゆまゃよる りゎま ゎょぺれ むぺみぺれ[n]ぽま ほるよゆぺテ
+Eso solo significa que tiene una buena[n]ofensiva y defensa. Cuando lo consideras,[n]apuesto a que es incluso mejor que unas gafas[n]de broma.
 
 [msg MSG_016 [Akechi]]
 Ja, ja... gracias por 姻l... elogio,[n]supongo?
@@ -99,7 +99,7 @@ S胤, qu姻date con ese. Incluso le encanta[n]esparcir prote胤na en polvo en su
 斡Vamos! 夷Puedes siquiera pensar en un[n]apodo para m胤 que no tenga que ver con[n]prote胤na, Shinji?
 
 [msg MSG_031 [Shinjiro]]
-ィとょぼゅゎれよ れも ゆま ろよゆぺるぺ まゅ ろもまゆらよ らぺるぺ らまょれぺる まょ[n]ゎょよデ れまむゎもるウぺれ めぺほゅぺょぽよ を めぺほゅぺょぽよ れよほるま[n]らるよろまウょぺ ぽま ろよぽよれ ゆよぽよれ! エはよる りゎイ ゆま ゆよゅまれろよ?
+斡Incluso si me tomara el tiempo para pensar en[n]uno, seguir胤as hablando y hablando sobre[n]prote胤na de todos modos! 夷Por qu姻 me molesto?
 
 [msg MSG_032 [Akihiko]]
 夷Qu姻...? 斡No hagas que suene como si eso[n]fuera lo 雨nico de lo que hablo!
@@ -199,7 +199,7 @@ Ahora, para el de Shinjiro... 夷Qu姻 tal[n]"Brood"?
 斡Oh! 夷Est茨s diciendo que soy de mal[n]humor o algo as胤?
 
 [msg MSG_062 [P3 Fem Protag]]
-ィだめデ ょよ! びま らるまよぼゎらぺれ ゆゎぼめよ らよる ょよれよろるよれデ[n]まれらまぼもぺゅゆまょろま らよる なよるよゆぺるゎテ だれウ りゎまデ まるまれ ぼよゆよ[n]ょゎまれろるぺ ゆぺぽるま らるよろまぼろよるぺテテテ
+斡Ah, no! Te preocupas mucho por nosotros,[n]especialmente por Koromaru. As胤 que, eres como[n]nuestra madre protectora...
 
 [msg MSG_063 [Shinjiro]]
 夷Qu姻? 斡夷Qu姻 est茨s...?!
@@ -233,7 +233,7 @@ Oh, en ese caso, "Chef Asesina" tambi姻n[n]funciona para las chicas de nuestro[
 Oh... Entonces, yo en tu mundo tampoco[n]soy muy buena cocinando...
 
 [msg MSG_073 [P3 Fem Protag]]
-ぴめめめデ "ょよ ゆゎを ほゎまょぺ" ょよ ぼぺらろゎるぺ ぽまゅ ろよぽよ ゅぺ[n]もぽまぺテテテ つれ ゆァれ ぼよゆよ れも らゎぽもまるぺ るまれゎゅろぺる まょ ゎょぺ[n]もょわまれろもむぺぼもカょ らよる ぺれまれもょぺろよデ エょよ?
+Uhhh, "no muy buena" no captura del todo la[n]idea... Es m茨s como si pudiera resultar en una[n]investigaci吋n por asesinato, 夷no?
 
 [msg MSG_074 [Yukari]]
 斡Est茨s siendo demasiado honesta ahora[n]mismo!
@@ -298,7 +298,7 @@ Es verdad, siempre es tan brillante y[n]alegre. Estar con ella realmente nos[n]a
 夷Eh? 夷En serio? Ja, ja, ja, esto es[n]vergonzoso...
 
 [msg MSG_093 [Futaba]]
-つゅゅぺ まれ ぼよゆよ ゎょぺ まれらまぼもま ぽま ぽもよれぺ れよぼもぺゅテ[n]びもまょま ろぺょろぺ まょまるむウぺ りゎま めよょまれろぺゆまょろま るまれゎゅろぺ[n]ぽまれゅゎゆほるぺょろま らぺるぺ ぺゅむゎもまょ ぼよゆよ をよテ
+Ella es como una especie de diosa social.[n]Tiene tanta energ胤a que honestamente resulta[n]deslumbrante para alguien como yo.
 
 [msg MSG_094 [P3 Fem Protag]]
 Demonio Deslumbrante...

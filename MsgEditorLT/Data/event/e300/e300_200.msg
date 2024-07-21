@@ -71,7 +71,7 @@ ES UN EXAMEN QUE DETERMINA LA CAPACIDAD[n]DE REALIZAR TAREAS, INCLUSO BAJO[n]CIR
 A MENOS QUE SE CUMPLAN LOS TRES[n]EST威NDARES, SE TE DESIGNAR威 COMO[n]DEFECTUOSO Y SE TE DENEGAR威 LA ENTRADA.
 
 [msg MSG_021 [Mitsuru]]
-ちァれもぼぺゆまょろまデ れよょ れもゆもゅぺるまれ ぺ らるゎまほぺれ ぽま[n]めぺほもゅもぽぺぽ わよぼぺぼもよょぺゅ を まゑァゆまょまれ ぽま[n]ぼぺゅもみもぼぺぼもカょテ はぺるまぼま りゎま まれろよ ょよ れまるァ みァぼもゅテテテ
+B茨sicamente, son similares a pruebas de[n]habilidad vocacional y ex茨menes de[n]calificaci吋n. Parece que esto no ser茨 f茨cil...
 
 [msg MSG_022 [P3 Fem Protag]]
 夷Crees que aprobar胤as estos ex茨menes,[n]Ribbon?
@@ -99,7 +99,7 @@ Eso es tener confianza... Pero en serio,[n]夷c吋mo eres tan valiente?
 斡Hemos superado innumerables desaf胤os[n]con esa misma actitud!
 
 [msg MSG_030 [Naoto]]
-つれらまるぺほぺ りゎま ゅぺ もょみもゅろるぺぼもカょ みゎまるぺ れゎ[n]まれらまぼもぺゅもぽぺぽテ っまほまるウぺゆよれ るまぼゎるるもる ぺ ゅよれ[n]にぺぽるよょまれ づぺょろぺれゆぺ らぺるぺ よほろまょまる よるもまょろぺぼもカょ[n]れよほるま まれろぺ ゆもれもカょテ
+Esperaba que la infiltraci吋n fuera su[n]especialidad. Deber胤amos recurrir a los[n]Ladrones Fantasma para obtener orientaci吋n[n]sobre esta misi吋n.
 
 [msg MSG_031 [P3 Fem Protag]]
 斡Entonces, tenemos 吋rdenes! 斡Es hora de[n]ponerse en marcha!
@@ -160,7 +160,7 @@ Qu姻... Aw... No puedo discutir con[n]eso...
 Oh, tambi姻n ir姻 al examen de "Poder". No[n]tengo otras opciones.
 
 [msg MSG_049 [Makoto]]
-ひゎらよょむよ りゎま のるぺぼゅま を をよ ぽまほまるウぺゆよれ まょぼぺるむぺるょよれ[n]ぽまゅ まゑぺゆまょ ぽま "ぢよょよぼもゆもまょろよ"テ ぢよょみもカ まょ りゎま[n]らゎまぽよ るまれよゅわまる ぼゎぺゅりゎもまる らるよほゅまゆぺ ぽま[n]もょろまゅもむまょぼもぺ れもゆらゅまテテテ
+Supongo que Oracle y yo deber胤amos encargarnos[n]del examen de "Conocimiento". Confi吋 en que[n]puedo resolver cualquier problema de[n]inteligencia simple...
 
 [msg MSG_050 [Mitsuru]]
 Tambi姻n elegir姻 el "Conocimiento". He[n]estudiado los asuntos generales del[n]gobierno imperial.
@@ -169,7 +169,7 @@ Tambi姻n elegir姻 el "Conocimiento". He[n]estudiado los asuntos generales del[
 斡No te olvides de m胤! 斡Soy el cerebro de[n]los Ladrones Fantasma!
 
 [msg MSG_052 [Yosuke]]
-つょろよょぼまれ ろぺゆほもイょ ぼゎまょろよ らぺるぺ "ぢよょよぼもゆもまょろよ"テ[n]ひよを まゅ ゃまみま ぽま よらまるぺぼもよょまれ ぽまゅ つりゎもらよ ぽま[n]とょわまれろもむぺぼもカょデ エれぺほまれ?
+Entonces tambi姻n cuento para "Conocimiento".[n]Soy el jefe de operaciones del Equipo de[n]Investigaci吋n, 夷sabes?
 
 [msg MSG_053 [Yukiko]]
 夷Eh? 夷En serio? 夷Desde cu茨ndo?
@@ -189,13 +189,13 @@ Creo que puedo manejarlo, ya que trato[n]con clientes todos los d胤as.
 
 [msg MSG_058 [Yusuke]]
 Ha... Estoy seguro de que tambi姻n se[n]trata de adaptabilidad.
-ぬも ぼるまぺろもわもぽぺぽ ほるもゅゅぺ れもょ もゆらよるろぺる ゅぺれ[n]ぼもるぼゎょれろぺょぼもぺれ まょ ゅぺれ りゎま まれろよをデ を らゎまぽよ[n]ぺゅもゆまょろぺるゆま もょぼゅゎれよ ぼゎぺょぽよ ょよ ろまょむよ ぽもょまるよテ
+Mi creatividad brilla sin importar las[n]circunstancias en las que estoy, y puedo[n]alimentarme incluso cuando no tengo dinero.
 
 [msg MSG_059 [Makoto]]
 Creo que podr胤as usar un poco m茨s de[n]sentido com雨n... De todos modos, Fox va[n]a "Adaptaci吋n"
 
 [msg MSG_060 [Ann]]
-エびま もゆらよるろぺ れも ゆま ゎょよ? でま わもわもぽよ ろぺょろよ まょ まゅ[n]まゑろるぺょゃまるよ ぼよゆよ まょ どぺらカょデ ぺれウ りゎま ぼるまよ りゎま ゆも[n]ぺぽぺらろぺほもゅもぽぺぽ まれ ほぺれろぺょろま れカゅもぽぺテ
+夷Te importa si me uno? He vivido tanto en el[n]extranjero como en Jap吋n, as胤 que creo que mi[n]adaptabilidad es bastante s吋lida.
 
 [msg MSG_061 [Haru]]
 Yo tambi姻n ir姻 a "Adaptaci吋n". Creo que[n]ser胤a mejor que con las otras opciones.
@@ -284,7 +284,7 @@ Um... 夷Qu姻 hacemos?
 Est茨 m茨s que bien para m胤. 斡Tener a una[n]chica l胤der es como un sue隠o!
 
 [msg MSG_088 [Akihiko]]
-びぺゆらよぼよ ろまょむよ らるよほゅまゆぺれテ ひも ぺゅむよ みゎまるぺ ぺ ほぺゃぺる[n]ぽゎるぺょろま まゅ まゑぺゆまょデ ろよぽよ ゅよ りゎま ろまょぽるウぺ りゎま[n]めぺぼまる まれ らるよらよるぼもよょぺる れゎ るまれらぺゅぽよテ
+Tampoco tengo problemas. Si algo fuera a bajar[n]durante el examen, todo lo que tendr胤a que[n]hacer es proporcionar su respaldo.
 
 [msg MSG_089 [Koromaru]]
 斡Guau!

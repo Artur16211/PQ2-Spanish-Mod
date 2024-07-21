@@ -26,7 +26,7 @@ Eso es correcto. Soy Elizabeth, la[n]hermana mayor. Y este hombre palomitas[n]aq
 
 [msg MSG_008 [Elizabeth]]
 Ah, qu姻 broma tan encantadora.
-ひよゆよれ ゅよれ ぺれもれろまょろまれ ぽま ろよぽよれ まょ まれろま ぼもょまテ へよ[n]れよを つゅもんぺほまろめデ ゅぺ めまるゆぺょぺ ゆぺをよるデ を まれろま めよゆほるま[n]らぺゅよゆもろぺれ ぽま ぺりゎウ まれテテテ
+Somos los asistentes de todos en este cine. Yo[n]soy Elizabeth, la hermana mayor, y este hombre[n]palomitas de aqu胤 es...
 
 [msg MSG_009 [Theodore]]
 Soy Theodore, su hermano menor. Como[n]parece que todos est茨n muy[n]confundidos...
@@ -169,7 +169,7 @@ Bueno, ni siquiera recuerdo cu茨ntas[n]veces lo hemos hecho, pero supongo que[n
 
 [msg MSG_052 [Mitsuru]]
 Me disculpo por no presentarnos antes:[n]mi nombre es Mitsuru Kirijo.
-ひよを ゅぺ らるまれもぽまょろぺ ぽまゅ ぼよょれまゃよ まれろゎぽもぺょろもゅ ぽまゅ[n]もょれろもろゎろよ てまややよゎやぺょ を ぽま ゅぺ ひよぼもまぽぺぽ[n]つゑろるぺまれぼよゅぺる ぽま つゃまぼゎぼもカょ ぽま ひよゆほるぺれテ
+Soy la presidenta del consejo estudiantil del[n]instituto Gekkoukan y de la Sociedad[n]Extraescolar de Ejecuci吋n de Sombras.
 
 [msg MSG_053 [Akechi]]
 夷Kirijo? 夷Podr胤a usted estar afiliada de[n]alguna manera con el Grupo Kirijo?
@@ -187,13 +187,13 @@ Soy Akihiko Sanada. Soy el capit茨n del[n]club de boxeo escolar.
 斡Argh... Estoy tan celoso de que sea tan[n]gal茨n! 斡Definitivamente debo esforzarme[n]m茨s!
 
 [msg MSG_058 [Akihiko]]
-ひも ょまぼまれもろぺれ ぺゅむグょ ぼよょれまゃよ ぽま まょろるまょぺゆもまょろよデ[n]ょよ ぽゎぽまれ まょ らるまむゎょろぺるテ はゎまぽよ ぺをゎぽぺるろま ぼよょ[n]らゅぺょまれ ょゎろるもぼもよょぺゅまれデ るゎろもょぺれ ぽま まゃまるぼもぼもよテテテ[n]ぼゎぺゅりゎもまる ぼよれぺ ぽま まれぺれテ
+Si necesitas alg雨n consejo de entrenamiento,[n]no dudes en preguntar. Puedo ayudarte con[n]planes nutricionales, rutinas de ejercicio...[n]cualquier cosa de esas.
 
 [msg MSG_059 [Chico Con Gorro]]
 斡Todo lo que haces es echarle polvo de[n]prote胤na a todo...!
 
 [msg MSG_060 [Akihiko]]
-のをまデ ょよ ゆまょよれらるまぼもまれ まゅ らよゅわよ ぽま らるよろまウょぺテ でぺを[n]ゎょぺ わぺるもまぽぺぽ もょみもょもろぺ ぽま ゆまんぼゅぺれ ぽま らるよろまウょぺれ[n]らぺるぺ ろよぽよ ろもらよ ぽまテテテ
+Oye, no menosprecies el polvo de prote胤na. Hay[n]una variedad infinita de mezclas de prote胤nas[n]para todo tipo de...
 
 [msg MSG_061 [Shinjiro]]
 Soy Shinjiro Aragaki. Supongo que soy de[n]tercer a隠o... si quieres ser t姻cnico al[n]respecto.
@@ -293,7 +293,7 @@ B-bien... todav胤a no lo entiendo...[n]pero, creo que Fuuka es la 雨ltima,[n]�
 
 [msg MSG_089 [Fuuka]]
 ...Oh, 斡claro! Es un placer conocerlos a[n]todos. Soy Fuuka Yamagishi.
-びよぽぺわウぺ ろまょむよ ゆゎぼめよ りゎま ぺらるまょぽまるデ らまるよ れもるわよ[n]ぼよゆよ ょぺわまむぺぽよるぺ らぺるぺ ろよぽよれテ つれ るまぼよょみよるろぺょろま[n]れぺほまる りゎま めぺを よろるぺれ ぼよゆよ をよテ
+Todav胤a tengo mucho que aprender, pero sirvo[n]como navegadora para todos. Es reconfortante[n]saber que hay otras como yo.
 
 [msg MSG_090 [Futaba]]
 斡O-otra compa隠era navegadora!
@@ -434,5 +434,5 @@ Y seguir姻 proporcionando ayuda tambi姻n.[n]No hay de que preocuparse.
 
 [msg MSG_133 [Morgana]]
 Ahora que est茨 decidido, vamos a[n]movernos.
-ィびまょまゆよれ ぺグょ ゆァれ ぼよゆらぺォまるよれ ぺめよるぺデ ぺれウ りゎま[n]ぺれまむグるぺろま ぽま るまわもれぺる ょゎまれろるぺ みよるゆぺぼもカょ ぽま[n]むるゎらよ を らるまらぺるぺる ょゎまれろるよ まりゎもらよ!
+斡Tenemos a雨n m茨s compa隠eros ahora, as胤 que[n]aseg雨rate de revisar nuestra formaci吋n de[n]grupo y preparar nuestro equipo!
 

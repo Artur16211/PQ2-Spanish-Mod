@@ -49,7 +49,7 @@ Creo que fue m茨s como una ilusi吋n que[n]Hikari hab胤a creado.
 
 [msg MSG_014 [Futaba]]
 Apuesto a que es igual que lo que pas吋[n]en mi palacio, era una imagen falsa[n]nacida de su cognici吋n distorsionada.
-っまほもぽよ ぺ りゎま ゅぺ らまるぼまらぼもカょ ぽま でもやぺるも まれろぺほぺ[n]ぽもれろよるれもよょぺぽぺデ っよま ぺぽよらろカ ゎょぺ みよるゆぺ りゎま[n]ぽもみまるウぺ ぽま れゎ わまるぽぺぽまるよ らぺぽるまテテテ
+Debido a que la percepci吋n de Hikari estaba[n]distorsionada, Doe adopt吋 una forma que[n]difer胤a de su verdadero padre...
 Este lugar es un poco diferente a los[n]Palacios, pero definitivamente est茨[n]relacionado con la cognici吋n de Hikari.
 
 [msg MSG_015 [Mitsuru]]
@@ -99,7 +99,7 @@ Qu姻 padre tan maravilloso.
 
 [msg MSG_030 [Hikari]]
 Mmhm. Pero, sin darme cuenta... empec姻 a[n]tener miedo de ser sincera con 姻l.
-にぺ らまるれよょぺ りゎま ゆも らぺらァ まれらまるぺ りゎま れまぺ まれ ゎょぺ[n]れまむゎるぺ ぽま れウ ゆもれゆぺデ ぼよゆよ ゅぺ らるよろぺむよょもれろぺ ぽま ゎょ[n]ゆゎれもぼぺゅデ ぺゆぺぽぺ らよる ろよぽよれテテテ
+La persona que mi pap茨 espera que sea es una[n]segura de s胤 misma, como la protagonista de un[n]musical, amada por todos...
 Pero empec姻 a pensar que eso no me[n]quedaba bien, ya que siempre destacaba y[n]me pon胤a nerviosa...
 
 [msg MSG_031 [Mitsuru]]
@@ -115,7 +115,7 @@ Incluso cuando toda la clase estaba en[n]mi contra, o cuando me convert胤 en un
 
 [msg MSG_034 [Hikari]]
 Creo que cuanto m茨s se preocupaba por[n]m胤, peor me sent胤a por lo que estaba[n]pasando.
-ひよゅよ まゆらまよるカ ぽまれらゎイれ ぽま まょろるぺる まょ ゅぺ[n]れまぼゎょぽぺるもぺテテテ とょぼゅゎれよ ゆもれ らぺるもまょろまれ ゆま ぽもゃまるよょ[n]りゎま まれろぺほぺ れもまょぽよ ゎょ らるよほゅまゆぺ らぺるぺ ゆも らぺぽるまテ
+Solo empeor吋 despu姻s de entrar en la[n]secundaria... Incluso mis parientes me dijeron[n]que estaba siendo un problema para mi padre.
 No quer胤a que me odiara o ser un[n]problema para 姻l, as胤 que por eso[n]decid胤...
 
 [msg MSG_035 [Junpei]]
@@ -173,11 +173,11 @@ Pero quiz茨s 夷Y si Doe no era solo parte[n]de la cognici吋n de Hikari?
 [msg MSG_049 [Akechi]]
 夷No crees que los cambios de Hikari y[n]Doe estaban estrechamente vinculados?
 Pens茨bamos que Doe soltaba una llave[n]cada vez que cambi茨bamos una pel胤cula...
-エはまるよデ を れも まょ るまぺゅもぽぺぽ っよま れよゅろぺほぺ ゎょぺ ゅゅぺわま[n]らよる りゎイ まゅ ぼよるぺんカょ ぽま でもやぺるも ぼぺゆほもぺほぺ ぽまれらゎイれ[n]ぽま ぼぺゆほもぺる ゅぺれ らまゅウぼゎゅぺれ?
+夷Pero, y si en realidad Doe soltaba una llave[n]por qu姻 el coraz吋n de Hikari cambiaba despu姻s[n]de cambiar las pel胤culas?
 
 [msg MSG_050 [Hikari]]
 Podr胤as tener raz吋n...
-ぢぺぽぺ わまん りゎま わまウぺ まゅ みもょぺゅ ぽま ゎょぺ らまゅウぼゎゅぺテテテ[n]ゅぺ れまょれぺぼもカょ ぽま りゎま ょまぼまれもろぺほぺ れぺゅもる ぽま ぺりゎウ[n]れま わよゅわウぺ ゆァれ みゎまるろまテテテ
+Cada vez que ve胤a el final de una pel胤cula...[n]la sensaci吋n de que necesitaba salir de aqu胤[n]se volv胤a m茨s fuerte...
 
 [msg MSG_051 [Naoto]]
 Si Doe fue creado a partir de la[n]conciencia de Hikari, entonces ese[n]sentimiento l吋gicamente seguir胤a.
@@ -186,7 +186,7 @@ Si Doe fue creado a partir de la[n]conciencia de Hikari, entonces ese[n]sentimie
 En otras palabras... El deseo de Hikari[n]de salir de este lugar apareci吋 en forma[n]de su padre.
 
 [msg MSG_053 [Makoto]]
-っま めまぼめよテ ぢるまよ りゎまデ まょ ぺゅむグょ ゅゎむぺる らるよみゎょぽよ[n]ぽまょろるよ ぽまゅ ぼよるぺんカょ ぽま でもやぺるもデ まるぺ ゎょ ぽまれまよ りゎま[n]ょよ らよぽウぺ ぽまれぼぺるろぺる らよる ぼよゆらゅまろよテテテ
+De hecho. Creo que, en alg雨n lugar profundo[n]dentro del coraz吋n de Hikari, era un deseo que[n]no pod胤a descartar por completo...
 El deseo de creer en su padre, y serle[n]fiel a s胤 misma...
 Esos sentimientos pueden haber sido la[n]clave para su cambio en estas pel胤culas.
 
@@ -309,7 +309,7 @@ Prometo que una vez que salgamos, vivir姻[n]mi vida con la cabeza en alto, como
 As胤 es. 斡Aunque nos separemos, nuestros[n]corazones estar茨n conectados!
 
 [msg MSG_090 [Yukiko]]
-つゅ ゆよゆまょろよ を まゅ ゅゎむぺる ぽまゅ りゎま わまょもゆよれ らゎまぽまょ[n]れまる ぽもみまるまょろまれデ らまるよ まれよ ょよ ぼぺゆほもぺ まゅ めまぼめよ ぽま[n]りゎま ぺめよるぺ れよゆよれ ぺゆもむよれテ
+El momento y el lugar del que venimos pueden[n]ser diferentes, pero eso no cambia el hecho de[n]que ahora somos amigos.
 
 [msg MSG_091 [Ken]]
 Je, je, je, Esto fue bonito...

@@ -40,7 +40,7 @@ Hay mucho que no entiendo... Pero ver[n]personas con las que no me identifico es
 Es una forma de verlas...
 
 [msg MSG_012 [Hikari]]
-*るもれぺ* ぢるまよ りゎま まゅ めまぼめよ ぽま りゎま ぺゅむゎもまょ らゎまぽぺ[n]ぽもれみるゎろぺる ぽま まゅゅぺれ ぽま まれぺ ゆぺょまるぺ まれ らぺるろま ぽま[n]ゅよ りゎま ゅぺれ めぺぼま ろぺょ むまょもぺゅまれテ
+*risa* Creo que el hecho de que alguien pueda[n]disfrutar de ellas de esa manera es parte de[n]lo que las hace tan geniales.
 Las pel胤culas te permiten experimentar[n]cosas que normalmente no puedes y ver[n]los valores de otra persona.
 Dependiendo de c吋mo la veas, hay muchas[n]formas de disfrutar una pel胤cula.
 

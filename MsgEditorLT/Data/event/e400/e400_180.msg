@@ -8,7 +8,7 @@ La gente ah胤 solo comienza a cantar de[n]la nada, 夷verdad? Eso es demasiado[
 
 [msg MSG_002 [Hikari]]
 斡Eso no es verdad!
-にぺれ らまゅウぼゎゅぺれ れよょよるぺれ まゑもれろまょ ぽまれぽま ゅぺ ぽイぼぺぽぺ[n]ぽま ソヅゾゼデ ぼゎぺょぽよ ゅぺれ らまゅウぼゎゅぺれ めぺほゅぺぽぺれ[n]れゎらまるらゎまれろぺれ ぼよょ ゆグれもぼぺ みゎまるよょテテテ
+Las pel胤culas sonoras existen desde la d姻cada[n]de 1920, cuando las pel胤culas habladas[n]superpuestas con m雨sica fueron...
 
 [msg MSG_003 [Ryuji]]
 O-oh, 夷Est茨s bien...?
@@ -21,7 +21,7 @@ No, est茨 bien. No s姻 nada de eso, as胤[n]que si姻ntete libre de cont茨rme
 
 [msg MSG_006 [Hikari]]
 *risa* Gracias. Me alegra escucharlo.
-だめよるぺ りゎま ゅよ らもまょれよデ ょよ らゎまぽよ まわもろぺる めぺほゅぺる[n]ゆゎぼめよ ぼゎぺょぽよ れま ろるぺろぺ ぽま らまゅウぼゎゅぺれテテテ にぺ むまょろま[n]れま れゎまゅま ゆよゅまれろぺる ぼよょゆもむよ らよる まれよテ
+Ahora que lo pienso, no puedo evitar hablar[n]mucho cuando se trata de pel胤culas... La gente[n]se suele molestar conmigo por eso.
 
 [msg MSG_007 [Yusuke]]
 "夷Molestar"? 斡Pero, la pasi吋n que la[n]gente muestra al hablar de lo que le[n]gusta es tan alentadora!
@@ -35,17 +35,17 @@ Puede que no haya sido una pel胤cula,[n]斡pero cuando vi una obra en vivo en[n
 
 [msg MSG_010 [Haru]]
 Estoy de acuerdo. Cuando escuchas las[n]voces de un gran grupo y ves c吋mo se[n]unen sus movimientos, es muy conmovedor.
-つれ ぼもまるろよ りゎま ゅぺ むまょろま ょよ まれろぺゅゅぺ まょ ぼぺょぼもよょまれ[n]まょ ゅぺ わもぽぺ るまぺゅテテテ らまるよ ぼるまよ りゎま めぺを ぺゅむゎょよれ[n]ゆよゆまょろよれ まょ ゅよれ りゎま ろゎ ぼよるぺんカょ れま ぼよょわもまるろま まょ[n]ぼぺょぼもカょテ
+Es cierto que la gente no estalla en canciones[n]en la vida real... pero creo que hay algunos[n]momentos en los que tu coraz吋n se convierte en[n]canci吋n.
 
 [msg MSG_011 [Hikari]]
-ィつゑぺぼろよ! ィつょろもまょぽまれ! ィでぺを ゆよゆまょろよれ まょ ゅぺ わもぽぺ[n]るまぺゅ まょ ゅよれ りゎま ろゎれ まゆよぼもよょまれ れま わゎまゅわまょ ろぺょ[n]みゎまるろまれ りゎま れもまょろまれ むぺょぺれ ぽま ぼぺょろぺる!
+斡Exacto! 斡Entiendes! 斡Hay momentos en la vida[n]real en los que tus emociones se vuelven tan[n]fuertes que sientes ganas de cantar!
 Pero yo no soy mucho de cantar, as胤 que[n]experimento eso a trav姻s de los[n]personajes en los musicales.
 
 [msg MSG_012 [Ann]]
 斡S胤! La tristeza, la felicidad e incluso[n]la ira se expresan de manera tan v胤vida[n]con canciones y bailes.
 
 [msg MSG_013 [Hikari]]
-ひウテ によれ ぺぼろよるまれ まゑらるまれぺょ ろよぽよ ろもらよ ぽま[n]まゆよぼもよょまれ を まれろぺぽよれ ぽま ァょもゆよ ぼよょ れゎ ぼゎまるらよデ まょ[n]ろよぽよ ろもらよ ぽま むイょまるよれ ゆゎれもぼぺゅまれテ
+S胤. Los actores expresan todo tipo de[n]emociones y estados de 茨nimo con su cuerpo, en[n]todo tipo de g姻neros musicales.
 La capacidad de un musical para expresar[n]directamente las emociones humanas es lo[n]que me atrae.
 Todav胤a recuerdo cuando descubr胤 que los[n]di茨logos no son la 雨nica forma de[n]comunicar un mensaje.
 
@@ -65,10 +65,10 @@ Eres toda una entusiasta.
 As胤 es, los musicales te permiten[n]expresar emociones intensas a trav姻s del[n]canto y el baile, 夷verdad?
 
 [msg MSG_018 [Makoto]]
-つゅゅぺ ぽまほま ぺゆぺる ゅよれ ゆゎれもぼぺゅまれ らよるりゎま まれ ぺれウ まょ[n]まゅ みよょぽよデ を ゅよれ ゆゎれもぼぺゅまれ ぺ ゆまょゎぽよ まゑらるまれぺょ[n]ぽもるまぼろぺゆまょろま まれぺ まゆよぼもカょテ
+Ella debe amar los musicales porque es as胤 en[n]el fondo, y los musicales a menudo expresan[n]directamente esa emoci吋n.
 
 [msg MSG_019 [Futaba]]
-ぬゐまめまめまめテテテ ぴょぺ まょろゎれもぺれろぺ ょよ れま ぽまろまょぽるァ ゎょぺ[n]わまん りゎま ぼよゆもまょぼま ぺ めぺほゅぺる ぽま れゎ ろまゆぺテ ィつれろよを[n]ゆゎを みまゅもん ぽま わまる ぺ でもやぺるも ろぺょ まゆよぼもよょぺぽぺ!
+Mweheheh... Una entusiasta no se detendr茨 una[n]vez que comience a hablar de su tema. 斡Estoy[n]muy feliz de ver a Hikari tan emocionada!
 
 [msg MSG_020 [Yukiko]]
 Admito que estoy un poco celosa de que[n]tengas algo por lo que est姻s tan[n]apasionada...
@@ -95,7 +95,7 @@ Se隠or Miserable.
 No se me ocurre ninguna.
 
 [msg MSG_026 [Morgana]]
-だめデ れウテ はまょれイ りゎま れまるウぺ ゎょぺ らまゅウぼゎゅぺ ぽま めイるよまれ[n]ぼゅもぼめイデ らまるよ みゎま れよるらるまょぽまょろまゆまょろま らるよわよぼぺぽよるぺ[n]まょ ぼゎぺょろよ ぺ ゅぺ ぼよょぼもまょぼもぺ れよぼもぺゅテ
+Ah, s胤. Pens姻 que ser胤a una pel胤cula de h姻roes[n]clich姻, pero fue sorprendentemente provocadora[n]en cuanto a la conciencia social.
 
 [msg MSG_027 [Ann]]
 斡Yo tambi姻n la vi! No pude contener las[n]l茨grimas con esa pel胤cula.

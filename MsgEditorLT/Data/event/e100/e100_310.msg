@@ -55,7 +55,7 @@ As胤 es. El juicio debe ser aplicado[n]sobre el mal...
 No acepto esto. 斡No hemos hecho nada[n]malo!
 
 [msg MSG_017 [Kamoshidaman]]
-ィどだ どだ どだ! ぬぺゅわぺぽよ よ ゃゎれろよデ れよを をよ りゎもまょ ろよゆぺ[n]ゅぺ ぽまぼもれもカょテ つれぺ まれ ゆも るまれらよょれぺほもゅもぽぺぽ ぼよゆよ まゅ[n]ゅウぽまる ぽま ぢもゎぽぺぽ なぺゆよテ
+斡JA JA JA! Malvado o justo, soy yo quien toma[n]la decisi吋n. Esa es mi responsabilidad como el[n]l胤der de Ciudad Kamo.
 Si no gu胤o a los ciudadanos, esta ciudad[n]se hundir茨 en el caos.
 夷No las escuchas... las voces de la[n]gente anhelando la paz?
 

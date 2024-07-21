@@ -55,19 +55,19 @@ Uf, eso estuvo demasiado cerca para mi.
 夷Un atajo? 夷No es 雨til?
 
 [msg MSG_013 [Yukari]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Yukari]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Yukari]]
 Oh, 夷no podemos pasar por aqu胤?
 
 [msg MSG_016 [Yukari]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Yukari]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Yukari]]
 Viene algo... Puedo sentirlo, hay un[n]escalofr胤o recorriendo mi espalda.

@@ -1,7 +1,7 @@
 [msg MSG_000 [Morgana]]
 Bien, repasemos el plan.
 Las personas en los cines de Enlil est茨n[n]viendo pel胤culas superdepresivas, o en[n]otras palabras, "pel胤culas negativas".
-つれろぺれ らまゅウぼゎゅぺれ まょろるもれろまぼまょ ぺ ゅぺれ らまるれよょぺれ ぼよょ[n]まゆよぼもよょまれ ょまむぺろもわぺれデ ぽま みよるゆぺ りゎま ろよぽよれ まれろァょ[n]まょぼまるるぺぽよれ まょ れゎれ ぼもょまれテ
+Estas pel胤culas entristecen a las personas con[n]emociones negativas, de forma que todos est茨n[n]encerrados en sus cines.
 
 [msg MSG_001 [P4 Hero]]
 Todos est茨n viendo algo diferente, pero[n]parecen estar conectados de alguna[n]manera.
@@ -28,7 +28,7 @@ S胤. Aunque, no hay garant胤a de que[n]suceda...
 Pero supongo, que esta pel胤cula les dar茨[n]el impulso y coraje para cambiar de[n]opini吋n.
 
 [msg MSG_007 [Ken]]
-びよぽぺれ まれろぺれ らまゅウぼゎゅぺれ まれろァょ ぼよゆらゎまれろぺれ らよる[n]みるぺむゆまょろよれ ぽま るまぼゎまるぽよれ ぽよょぽま れま ゅま ょまむぺほぺ ゅぺ[n]もょぽもわもぽゎぺゅもぽぺぽ ぺ ゅぺれ らまるれよょぺれテテテ
+Todas estas pel胤culas est茨n compuestas por[n]fragmentos de recuerdos donde se le negaba la[n]individualidad a las personas...
 Debe ser tan agotar, ver solo eso, tanto[n]f胤sica como mentalmente...
 
 [msg MSG_008 [Akihiko]]

@@ -1,5 +1,5 @@
 [msg MSG_000 [Ryuji]]
-のをまデ エょよ ぽまほまるウぺゆよれ ゎれぺる ゎょ もぼよょよ ぽもみまるまょろま[n]らぺるぺ ゅぺれ らゎまるろぺれ まゅイぼろるもぼぺれ まょ ゅゎむぺる ぽま[n]るまゎろもゅもんぺる まゅ ぽま ゅぺれ ゃぺゎゅぺれ むもるぺろよるもぺれ?
+Oye, 夷no deber胤amos usar un icono diferente[n]para las puertas el姻ctricas en lugar de[n]reutilizar el de las jaulas giratorias?
 
 [sel SEL_001 top]
 Es un buen punto.

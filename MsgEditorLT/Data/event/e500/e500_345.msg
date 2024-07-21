@@ -1,5 +1,5 @@
 [msg MSG_000_5]
-＞ｅ５００＿３４５吋ット割り姻ベント フ斡ルムが見せる希望
+＞ｅ５００＿３４５吋7:割q姻ベン: フ斡ルムが見せr希望
 
 [msg MSG_000 [Kamoshidaman]]
 He sido... tan malo todo este tiempo.
@@ -23,7 +23,7 @@ YO SOY... yo misma.
 Soy Ribbon, amante de las flores y de[n]todos en mi vida...
 
 [msg MSG_005 [Ribbon]]
-ぢるまよ りゎま ゅぺれ みゅよるまれ れよょ ぺむるぺぽぺほゅまれテテテ ぢるまよ りゎま[n]ゅぺれ みゅよるまれ れよょ ほよょもろぺれテテテ びよぽよ まゅ ゆゎょぽよ ろもまょま[n]れゎ よらもょもカょ れよほるま まれろぺれ ぼよれぺれテテテ
+Creo que las flores son agradables... Creo que[n]las flores son bonitas... Todo el mundo tiene[n]su opini吋n sobre estas cosas...
 Ser diferente no es un error. Intentar姻[n]ser soy yo misma...
 
 [msg MSG_006 [Hikari De Instituto]]

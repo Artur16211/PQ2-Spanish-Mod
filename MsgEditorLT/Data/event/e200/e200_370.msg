@@ -67,19 +67,19 @@ Bueno, supongo que as胤 puede ser parte[n]de ellos. Me recuerda a c吋mo sol胤
 Bueno, no es algo demasiado interesante[n]ni nada por el estilo...
 
 [msg MSG_021 [Yosuke]]
-だゅ ぼるまぼまるデ ろゎわま りゎま ゆゎぽぺるゆま ゆゎぼめよデ を ゅよれ[n]まれろゎぽもぺょろまれ ょゎまわよれ れゎまゅまょ れまょろもるれま ぺもれゅぺぽよれ[n]ぼゎぺょぽよ ゅゅまむぺょ ぺ ゎょぺ ょゎまわぺ まれぼゎまゅぺテ
+Al crecer, tuve que mudarme mucho, y los[n]estudiantes nuevos suelen sentirse aislados[n]cuando llegan a una nueva escuela.
 
 [msg MSG_022 [Ann]]
 Entiendo a lo que te refieres. Todos los[n]grupos de amigos establecidos, y luego[n]simplemente apareces t雨...
 
 [msg MSG_023 [Yosuke]]
 Por eso simplemente me re胤a o iba con lo[n]que los dem茨s dec胤an, todo para no[n]sentirme aislado...
-はまるよ ろまるゆもょイ よぼゎゅろぺょぽよ ぼカゆよ ゆま れまょろウぺ[n]るまぺゅゆまょろまテ とょぼゅゎれよ ぼゎぺょぽよ ょよ まれろぺほぺ ぽま ぺぼゎまるぽよ[n]ぼよょ ゅよ りゎま ぽまぼウぺょデ れもゆらゅまゆまょろま ゆま ゅよ むゎぺるぽぺほぺテ
+Pero termin姻 ocultando c吋mo me sent胤a[n]realmente. Incluso cuando no estaba de acuerdo[n]con lo que dec胤an, simplemente me lo guardaba.
 Si no hubiera hecho eso, 夷ser胤a el raro,[n]verdad?
 
 [msg MSG_024 [Futaba]]
 S姻 lo dif胤cil que es sentirse solo...
-はゎまぽま めぺほまる ゎょ ゆよょろカょ ぽま らまるれよょぺれ ぺ ろゎ[n]ぺゅるまぽまぽよるデ らまるよ ぺゎょ ぺれウ れもまょろまれ りゎま ぽまれろぺぼぺれ[n]ぼよゆよ ゎょ らゎゅむぺる ぽよゅよるもぽよテ はゎまぽま れまる ぺろまるるぺぽよるテ
+Puede haber un mont吋n de personas a tu[n]alrededor, pero aun as胤 sientes que destacas[n]como un pulgar dolorido. Puede ser aterrador.
 
 [msg MSG_025 [P3 Fem Protag]]
 Es dif胤cil estar solo...
@@ -89,14 +89,14 @@ Cuando la familia de Yosuke lleg吋 por[n]primera vez a Yasoinaba, fueron juzgad
 
 [msg MSG_027 [Yosuke]]
 S胤, no importaba a d吋nde fuera, siempre[n]era lo mismo...
-ぢよょれろぺょろまゆまょろま まわぺゅゎぺほぺ ゅぺれ るまぺぼぼもよょまれ ぽま ゅぺれ[n]らまるれよょぺれ らぺるぺ わまる れも ゅまれ ぼぺウぺ ほもまょテテテ びよぽぺれ[n]ゆもれ るまゅぺぼもよょまれ れま れまょろウぺょ みぺゅれぺれテ
+Constantemente evaluaba las reacciones de las[n]personas para ver si les ca胤a bien... Todas[n]mis relaciones se sent胤an falsas.
 Eso fue hasta que los conoc胤.
 
 [msg MSG_028 [Naoto]]
 Yosuke...
 
 [msg MSG_029 [Yosuke]]
-ぢゎぺょぽよ まゆらまぼイ ぺ らぺれぺる ろもまゆらよ ぼよょ まゅゅよれデ[n]よぼゎゅろぺる ゆも らまるれよょぺゅもぽぺぽ ぺ れゎ ぺゅるまぽまぽよる ゆま[n]めぺぼウぺ れまょろもる ぼよゆよ れも まれろゎわもまるぺ ぺぼろゎぺょぽよ ぼよゆよ[n]ゎょ ろよょろよテ
+Cuando empec姻 a pasar tiempo con ellos,[n]ocultar mi personalidad a su alrededor me[n]hac胤a sentir como si estuviera actuando como[n]un tonto.
 
 [msg MSG_030 [Chie]]
 Espera, 夷realmente nos est茨s dando un[n]cumplido?

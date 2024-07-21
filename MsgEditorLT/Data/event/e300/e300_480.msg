@@ -83,7 +83,7 @@ Es verdad que se necesitan algunas[n]reglas para una sociedad...
 斡Nunca voy a estar de acuerdo en que[n]todo el mundo tiene que ser igual para[n]que la vida sea mejor!
 
 [msg MSG_024 [Supervisor]]
-ひも もむょよるぺれ ゅよれ まれろァょぽぺるまれデ まょろよょぼまれ ろぺゆほもイょ[n]まるまれ ゎょ まるるよる らぺるぺ ょゎまれろるぺ れよぼもまぽぺぽテテテ にぺれ[n]もるるまむゎゅぺるもぽぺぽまれ ぽまほまょ れまる まゅもゆもょぺぽぺれテ
+Si ignoras los est茨ndares, entonces tambi姻n[n]eres un error para nuestra sociedad... Las[n]irregularidades deben ser eliminadas.
 Antes de deshacerme de esta unidad, me[n]deshar姻 de ustedes primero.
 
 [msg MSG_025 [P3 Hero]]

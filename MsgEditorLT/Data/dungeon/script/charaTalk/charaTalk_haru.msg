@@ -55,19 +55,19 @@ Eso fue dif胤cil y, viendo las caras de[n]todos, creo que deber胤amos descansa
 斡Un atajo! 夷Deber胤amos usarlo?
 
 [msg MSG_013 [Haru]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Haru]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Haru]]
 Hmm, un ligero impedimento... No podemos[n]pasar desde este lado.
 
 [msg MSG_016 [Haru]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Haru]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Haru]]
 Tengo un mal presentimiento; 夷crees que[n]estaremos bien?

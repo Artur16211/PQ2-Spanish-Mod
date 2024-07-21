@@ -110,7 +110,7 @@ Parece un atajo.
 Hay un FOE detr茨s de nosotros... 夷Qu姻[n]debemos hacer?
 
 [msg P3_HERO_FOE_WARNING_NEAR_2]
-だゅむよ ぽまれぺむるぺぽぺほゅま ょよれ まれろァ れもむゎもまょぽよテテテ[n]エぢカゆよ まれろァ ょゎまれろるぺ れぺゅゎぽ?
+Algo desagradable nos est茨 siguiendo...[n]夷C吋mo est茨 nuestra salud?
 
 [msg P3_HERO_FOE_WARNING_NEAR_3]
 Viene un FOE. Mantente alerta.
@@ -188,13 +188,13 @@ Esa batalla fue bastante bien.
 Eso fue bastante f茨cil. Bueno,[n]sigamos.
 
 [msg P3_HERO_BATTLE_CHANGE_DU]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg P3_HERO_BATTLE_CHANGE_DU_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg P3_HERO_BATTLE_CHANGE_DU_3]
-■ト
+■:
 
 [msg P3_HERO_ITEM_90_DUNGEON_]
 (DGP郁BLICA)
@@ -224,7 +224,7 @@ Muy bien. Vamos.
 Vamos a trabajar juntos.
 
 [msg P3_HERO_TOUHA_25_1]
-びよぽぺわウぺ ょよれ りゎまぽぺ ゎょ ゅぺるむよ ぼぺゆもょよ らよる[n]るまぼよるるまるテテテ ぬぺょろまょむァゆよょよれ ぼよょぼまょろるぺぽよれテ
+Todav胤a nos queda un largo camino por[n]recorrer... Manteng茨monos concentrados.
 
 [msg P3_HERO_TOUHA_25_2]
 Deber胤amos estar listos para[n]cualquier cosa.

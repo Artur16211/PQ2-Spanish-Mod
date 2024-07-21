@@ -66,7 +66,7 @@ S胤, aunque puedes acabar herida o peor.
 Mmm... 夷Esta ropa no sirve? 夷Es[n]absolutamente necesario tener una[n]m茨scara?
 
 [msg MSG_020 [Yusuke]]
-にぺ らもょろゎるぺ ぼよるらよるぺゅ れもまゆらるま まれ ゎょぺ よらぼもカょテ[n]びまょむよ ぼゎるもよれもぽぺぽ らよる れぺほまる りゎイ れま れもまょろま ぺゅ[n]らもょろぺる ぽもるまぼろぺゆまょろま れよほるま ゅぺ らもまゅ ぽま ぺゅむゎもまょテ
+La pintura corporal siempre es una opci吋n.[n]Tengo curiosidad por saber qu姻 se siente al[n]pintar directamente sobre la piel de alguien.
 
 [msg MSG_021 [Futaba]]
 Detente ah胤, Inari... A este ritmo vas a[n]terminar arrestado.

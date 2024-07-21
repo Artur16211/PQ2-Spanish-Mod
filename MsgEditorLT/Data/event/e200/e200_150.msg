@@ -29,7 +29,7 @@ Um... 夷Est茨n todos usando alg雨n tipo de[n]c吋digo?
 
 [msg MSG_009 [Ryuji]]
 Oh, 夷ya est茨n en la misma sinton胤a?
-はよるりゎまデ めよゆほるまデ めぺを ぺゅむよ るまぺゅゆまょろま れもゆもゅぺる[n]まょろるま ゎれろまぽまれ ろるまれテテテ エひゎらよょむよ りゎま まれ れよゅよ ゅぺ[n]まれらまぼもま ぽま わもほるぺ りゎま ろもまょまょ?
+Porque, hombre, hay algo realmente similar[n]entre ustedes tres... 夷Supongo que es solo la[n]especie de vibra que tienen?
 
 [msg MSG_010 [Ann]]
 Ahora que lo mencionas, ya conoc胤as a[n]algunos de los tipos azules tambi姻n.

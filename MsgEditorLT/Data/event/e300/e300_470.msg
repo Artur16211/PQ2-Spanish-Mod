@@ -168,7 +168,7 @@ Y-ya veo... Por favor, no me asustes[n]as胤. Es dif胤cil ver aqu胤 dentro.
 
 [msg MSG_053 [Junpei]]
 Oh, 夷Qu姻? 夷Mitsuru no es fan de la[n]oscuridad?
-ちゎまょよデ まれ ゎょぺ ぽまほもゅもぽぺぽ れよるらるまょぽまょろま らぺるぺ[n]まゅゅぺテ ぴょぺ るまわまゅぺぼもカょ もゆらるまれもよょぺょろま りゎま めぺぼま ぺ[n]ぺゅむゎもまょ ぼよゆよ まゅゅぺ ゆァれ ぺぽよるぺほゅま…
+Bueno, es una debilidad sorprendente para[n]ella. Una revelaci吋n impresionante que hace a[n]alguien como ella m茨s adorable…
 
 [msg MSG_054 [Mitsuru]]
 Iori, 夷quieres que te congele a ti[n]tambi姻n?

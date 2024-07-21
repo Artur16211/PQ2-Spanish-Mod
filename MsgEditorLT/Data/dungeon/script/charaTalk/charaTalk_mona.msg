@@ -55,19 +55,19 @@ Eso fue aterrador... Parece que eso es[n]todo.
 斡He encontrado un atajo! 夷Deber胤amos[n]tomarlo?
 
 [msg MSG_013 [Morgana]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Morgana]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Morgana]]
 Supongo que no podemos pasar desde este[n]lado...
 
 [msg MSG_016 [Morgana]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Morgana]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Morgana]]
 斡Joker! 斡Siento peligro cerca!

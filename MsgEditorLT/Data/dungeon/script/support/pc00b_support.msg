@@ -20,7 +20,7 @@ Hagamos esto de manera bien[n]tranquila.
 Parece que lo perdimos.
 
 [msg JUNPEI_FOE_FOLLOW_END_2]
-どぺデ ぼよゆよ れも みゎイるぺゆよれ ゅよ れゎみもぼもまょろまゆまょろま[n]ろよょろよれ ぼよゆよ らぺるぺ まょみるまょろぺる まれよ ぽま みるまょろまテ
+Ja, como si fu姻ramos lo suficientemente[n]tontos como para enfrentar eso de frente.
 
 [msg JUNPEI_FOE_FOLLOW_END_3]
 斡Junpei Iori vive para ver otro d胤a!
@@ -188,13 +188,13 @@ Hmm. Eso fue bastante f茨cil, 夷eh?
 斡S胤! 夷Qui姻n es el hombre?
 
 [msg JUNPEI_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg JUNPEI_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg JUNPEI_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg JUNPEI_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)
@@ -272,7 +272,7 @@ Verte poner los toques finales en ese[n]mapa... Es hermoso.
 夷C吋mo pudiste tirar eso? S吋lo[n]bromeaba.
 
 [msg JUNPEI_MAPPING_MEMO_1]
-だりゎウデ ぽイゃぺゆま みもるゆぺる ゆも ょよゆほるまテテテ エつめ? エばゎイ[n]りゎもまるまれ ぽまぼもる ぼよょ りゎま ょよ ゅよ ょまぼまれもろぺれ?
+Aqu胤, d姻jame firmar mi nombre... 夷Eh? 夷Qu姻[n]quieres decir con que no lo necesitas?
 
 [msg JUNPEI_MAPPING_MEMO_2]
 Eh, eso es conveniente.

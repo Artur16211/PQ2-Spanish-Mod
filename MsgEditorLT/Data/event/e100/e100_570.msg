@@ -33,7 +33,7 @@ Buena suerte con eso, Ryuji.
 Creo que... 夷No ser胤a m茨s inteligente no[n]provocarlo?
 
 [msg MSG_010 [Futaba]]
-びよぽよ まれよ ぽまゅ "ねょむめめめ" みゎま まれらまゅゎんょぺょろまテテテ[n]ひもまょろよ りゎま まゑらゅよろぺるァ れも ゅよ ゆよゅまれろぺゆよれテ ひまるァ まゅ[n]みもょ らぺるぺ ょよれよろるよれテ
+Todo eso del "Nnghhh" fue espeluznante...[n]Siento que explotar茨 si lo molestamos. Ser茨 el[n]fin para nosotros.
 
 [msg MSG_011 [Ann]]
 斡Espera un momento! 夷No ser胤a m茨s[n]inteligente no provocarlo?

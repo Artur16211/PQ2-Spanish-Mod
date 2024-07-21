@@ -188,13 +188,13 @@ No hay problema.
 Mantengamos el ritmo.
 
 [msg P4_HERO_BATTLE_CHANGE_DU]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg P4_HERO_BATTLE_CHANGE_DU_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg P4_HERO_BATTLE_CHANGE_DU_3]
-■ト
+■:
 
 [msg P4_HERO_ITEM_90_DUNGEON_]
 (DGP郁BLICA)

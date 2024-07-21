@@ -11,8 +11,8 @@ Aceptar
 Cancelar
 
 [sel noffice_yesno_accept_jum top]
-受領後ダンジョンジャンプ確認はい★未使用
-受領後ダンジョンジャンプ確認いいえ★未使用
+受領後4ンジョンジャンプ確認Pい★未使用
+受領後4ンジョンジャンプ確認いいえ★未使用
 
 [sel noffice_yesno_cancel_che top]
 Descartar
@@ -46,7 +46,7 @@ En este momento, no hay entradas[n]disponibles.
 Not used
 
 [msg not_report_E [Elizabeth]]
-※PQ2では使用しない ご報告頂ける依頼はございません。
+※PQ2HP使用しKい ご報告頂けr依頼Pございeせz。
 
 [msg not_cancel_E [Elizabeth]]
 Parece que no tienes una entrada en este[n]momento.
@@ -110,6 +110,6 @@ Not used
 [msg quest_find]
 Hay una nueva proyecci吋n especial[n]disponible. Puedes recibir la entrada[n]aqu胤.
 
-[msg talk_dammy [ダミー]]
-会話ダミー
+[msg talk_dammy [4ミー]]
+会話4ミー
 

@@ -108,7 +108,7 @@ Invocamos a nuestras Personas al estar[n]dispuestos a apretar el gatillo del[n]E
 斡Eh... tienes que estar, como, REALMENTE[n]decidida para invocar a una Persona de[n]esa manera!
 
 [msg MSG_031 [P3 Fem Protag]]
-へぺ れまぺ ぼよょ れゎれ ぺろゎまょぽよれ よ ぼよょ ゆも つわよぼぺぽよるデ[n]らぺるまぼまょ めぺほまる わぺるもぺれ みよるゆぺれ ぽもみまるまょろまれ ぽま[n]もょわよぼぺるゅぺれテ ィつれよ まれ ほぺれろぺょろま むまょもぺゅ!
+Ya sea con sus atuendos o con mi Evocador,[n]parecen haber varias formas diferentes de[n]invocarlas. 斡Eso es bastante genial!
 
 [msg MSG_032 [Yusuke]]
 Mmm, tal vez deber胤a a隠adir un poco de[n]estilo a mi invocaci吋n... Por ejemplo...

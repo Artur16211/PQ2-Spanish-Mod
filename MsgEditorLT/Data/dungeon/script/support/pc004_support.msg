@@ -26,7 +26,7 @@ Uf... Estamos bien ahora.
 斡Parece que nos escapamos del FOE!
 
 [msg CHIE_KANSI_REACTION_1]
-ふよを ぺ ょまぼまれもろぺる ゆまぽもぼぺぼもカょ らぺるぺ まゅ ぼよるぺんカょ[n]ぺょろまれ ぽま りゎま ろよぽよ まれろよ ろまるゆもょまテテテ
+Voy a necesitar medicaci吋n para el coraz吋n[n]antes de que todo esto termine...
 
 [msg CHIE_KANSI_REACTION_2]
 Cuidado... Despacio...
@@ -98,13 +98,13 @@ Podemos pasar por ah胤, 斡creo!
 斡Yuhu! 斡Veo un atajo!
 
 [msg CHIE_PARTY_DEAD_1]
-【パーティの半分以上が死んでいる】 ダミーメッセージ１
+【パー.斡O半分以上が死zHいr】 4ミーメ7セージ１
 
 [msg CHIE_PARTY_DEAD_2]
-【パーティーの半分以上が死んでいる】 ダミーメッセージ２
+【パー.斡ーO半分以上が死zHいr】 4ミーメ7セージ２
 
 [msg CHIE_PARTY_DEAD_3]
-【パーティーの半分以上が死んでいる】 ダミーメッセージ３
+【パー.斡ーO半分以上が死zHいr】 4ミーメ7セージ３
 
 [msg CHIE_FOE_WARNING_NEAR_1]
 斡Ah! 斡Todav胤a nos est茨 persiguiendo!
@@ -167,7 +167,7 @@ Si tan solo tuviera m茨s carne...
 Vaya, 夷podemos hacer una pausa o algo[n]as胤...?
 
 [msg CHIE_1PERSON_TP10_3]
-つれろよ まれ ぽまゆぺれもぺぽよ らぺるぺ ゆウテテテ ぬま るまぼゎまるぽぺ ぺ[n]ゅぺ ぼぺるょま ゆァれ みもほるよれぺ りゎま ゃぺゆァれ めぺをぺ[n]ぼよゆもぽよテテテ
+Esto es demasiado para m胤... Me recuerda a[n]la carne m茨s fibrosa que jam茨s haya[n]comido...
 
 [msg CHIE_ITEM_90_BATTLE_1]
 【justificadamente
@@ -188,13 +188,13 @@ Vaya, 夷podemos hacer una pausa o algo[n]as胤...?
 斡Hm! 斡No est茨 mal!
 
 [msg CHIE_BATTLE_CHANGE_DUNGE]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg CHIE_BATTLE_CHANGE_DUNGE_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg CHIE_BATTLE_CHANGE_DUNGE_3]
-■ト
+■:
 
 [msg CHIE_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)
@@ -254,7 +254,7 @@ Lo estamos haciendo muy bien, 夷no?
 斡Parece correcto!
 
 [msg CHIE_MAPPING_ICON_KAIDAN]
-だめよるぺ らよぽまゆよれ ゎれぺる ょゎまれろるよれ るまぼゎるれよれ[n]ゆまょろぺゅまれ らぺるぺ よろるぺれ ぼよれぺれデ ぼよゆよ ゅぺ ぼぺるょまテ
+Ahora podemos usar nuestros recursos[n]mentales para otras cosas, como la carne.
 
 [msg CHIE_MAPPING_ICON_KAIDAN_2]
 斡S胤, ese es importante!

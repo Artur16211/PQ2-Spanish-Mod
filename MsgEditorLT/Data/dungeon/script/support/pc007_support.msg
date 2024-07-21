@@ -188,13 +188,13 @@ Todav胤a estoy tratando de pelear.
 Eh, 夷Qui姻n sigue?
 
 [msg KANJI_BATTLE_CHANGE_DUNG]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg KANJI_BATTLE_CHANGE_DUNG_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg KANJI_BATTLE_CHANGE_DUNG_3]
-■ト
+■:
 
 [msg KANJI_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

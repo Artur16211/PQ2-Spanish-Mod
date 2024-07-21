@@ -1,5 +1,5 @@
 [msg MSG_000 [Rise]]
-ィぢめもぼよれデ ゎょ れまむゎょぽよ! つれろよを れもょろもまょぽよ ゎょぺ[n]らるまれまょぼもぺ ろるぺれ まれぺ らゎまるろぺテテテ つれ ぽもみまるまょろま ぺ[n]ろよぽよ ゅよ りゎま ょよれ めまゆよれ まょぼよょろるぺぽよ めぺれろぺ ぺめよるぺテ
+斡Chicos, un segundo! Estoy sintiendo una[n]presencia tras esa puerta... Es diferente a[n]todo lo que nos hemos encontrado hasta ahora.
 Solo para estar seguros, tal vez quieras[n]comprobar si est茨s preparado...
 
 [msg MSG_001 [Chie]]

@@ -55,19 +55,19 @@ Buen trabajo. Parece que hemos[n]terminado.
 斡Es un atajo! 夷Deber胤amos abrirlo?
 
 [msg MSG_013 [Fuuka]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Fuuka]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Fuuka]]
 No podemos pasar por aqu胤. 斡Vamos a[n]revisar el otro lado!
 
 [msg MSG_016 [Fuuka]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Fuuka]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Fuuka]]
 斡Espera, espera! Estoy detectando la[n]se隠al de algo realmente peligroso all胤[n]dentro.

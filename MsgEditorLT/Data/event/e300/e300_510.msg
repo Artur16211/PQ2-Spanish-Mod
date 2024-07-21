@@ -61,7 +61,7 @@ Cierto, tambi姻n lloramos cuando nos[n]sentimos aliviados o especialmente[n]mot
 夷SE PUEDE LLORAR DE ALEGR緯A? 夷O[n]TRISTEZA? 夷O DE ALIVIO?
 
 [msg MSG_020 [Akechi]]
-ひゎらよょむよ りゎま れま らよぽるウぺ ぽまぼもる りゎま めぺを ゆゎぼめぺれ[n]まゆよぼもよょまれ ぽもみまるまょろまれ りゎま らゎまぽまょ らるよわよぼぺる まれよ[n]ぼゎぺょぽよ れま れもまょろま もょろまょれぺゆまょろまテ
+Supongo que se podr胤a decir que hay muchas[n]emociones diferentes que pueden provocar eso[n]cuando se siente intensamente.
 
 [msg MSG_021 [Ribbon]]
 AS緯 QUE PUEDEN SER EMOCIONES[n]DIFERENTES... 夷QUIZ威S ESO ES LO QUE ME[n]PAS遺 ANTES?
@@ -121,7 +121,7 @@ Es posible que una Computadora Madre[n]est姻 detr茨s de todo esto.
 夷Una Computadora Madre?
 
 [msg MSG_038 [Akechi]]
-ぴょぺ ゎょもぽぺぽ ぽま ぼよょろるよゅ ゆぺまれろるよ りゎま ゆぺょぽぺ まょ[n]まれろま ゆゎょぽよテ つれ ぺゅむよ ぼよゆグょ まょ らまゅウぼゎゅぺれ ぽま[n]ぼもまょぼもぺ みもぼぼもカょ ぼよょ れよぼもまぽぺぽまれ るよほカろもぼぺれテ
+Una unidad de control maestro que manda en[n]este mundo. Es algo com雨n en pel胤culas de[n]ciencia ficci吋n con sociedades rob吋ticas.
 Eso significar胤a que el Supervisor que[n]derrotamos fue solo una parte de dicha[n]computadora.
 
 [msg MSG_039 [P3 Hero]]

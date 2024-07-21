@@ -25,7 +25,7 @@ Todo lo que hacen es imponer su opini吋n[n]en mis cines.
 
 [msg MSG_008 [Hikari]]
 He negado qui姻n soy por tanto tiempo...
-ひもまゆらるま ろゎわま ゆもまぽよ ぽま ゅよ りゎま ゅぺ むまょろま らまょれぺるウぺ[n]ぽま ゆウデ らよる まれよ まわもろぺほぺ ぽまれまれらまるぺぽぺゆまょろま れまる[n]ゅぺれろもゆぺぽぺ れもむゎもまょぽよ ぺ ゅよれ ぽまゆァれテ
+Siempre tuve miedo de lo que la gente pensar胤a[n]de m胤, por eso evitaba desesperadamente ser[n]lastimada siguiendo a los dem茨s.
 Me odiaba por ser as胤. Siempre me sent胤[n]tan miserable...
 Me dec胤a a m胤 misma que no pod胤a hacer[n]nada porque era d姻bil. Hasta que lo[n]cre胤.
 夷No han pasado por lo mismo?

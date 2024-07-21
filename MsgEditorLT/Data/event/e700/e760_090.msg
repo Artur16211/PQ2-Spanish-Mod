@@ -15,7 +15,7 @@ Todos han sido criogenizados.
 
 [msg MSG_004 [Futaba]]
 斡Eso suena genial!
-ィぢよゆよ れも まれろゎわもまるぺょ ぺぼまぼめぺょぽよ まょ ゅぺれ[n]らるよみゎょぽもぽぺぽまれ ぽまゅ れゎほれゎまゅよデ まれらまるぺょぽよ まゅ[n]ゆよゆまょろよ よらよるろゎょよ らぺるぺ ぺゅんぺるれま みもょぺゅゆまょろま[n]ぼよょろるぺ ゅぺれ ゆァりゎもょぺれテテテ!
+斡Como si estuvieran acechando en las[n]profundidades del subsuelo, esperando el[n]momento oportuno para alzarse finalmente[n]contra las m茨quinas...!
 
 [msg MSG_005 [Ryuji]]
 S胤...
@@ -31,7 +31,7 @@ Ah, estaba pensando lo mismo.
 Ya veo. Existe la posibilidad de que se[n]almacenen en grandes cantidades y se[n]conviertan en bater胤as vivientes...
 
 [msg MSG_009 [Akechi]]
-つょ ぼもまるろよ ゆよぽよデ ゎろもゅもんぺる ぺ ゅよれ れまるまれ めゎゆぺょよれ[n]ぼよゆよ るまぼゎるれよ ょぺろゎるぺゅ れまるウぺ ゅぺ みよるゆぺ ぽまみもょもろもわぺ[n]ぽま ぺをゎぽぺる ぺゅ ゆまぽもよ ぺゆほもまょろまテ つれろよを ほぺれろぺょろま[n]もょろるもむぺぽよテ
+En cierto modo, utilizar a los seres humanos[n]como recurso natural ser胤a la forma definitiva[n]de ayudar al medio ambiente. Estoy bastante[n]intrigado.
 
 [msg MSG_010 [Yosuke]]
 斡No! 斡De ninguna manera! 斡Me est茨n[n]asustando!
@@ -56,7 +56,7 @@ Todos han sido criogenizados.
 
 [msg MSG_0004 [Futaba]]
 斡Eso suena genial!
-ィぢよゆよ れも まれろゎわもまるぺょ ぺぼまぼめぺょぽよ まょ ゅぺれ[n]らるよみゎょぽもぽぺぽまれ ぽまゅ れゎほれゎまゅよデ まれらまるぺょぽよ まゅ[n]ゆよゆまょろよ よらよるろゎょよ らぺるぺ ぺゅんぺるれま みもょぺゅゆまょろま[n]ぼよょろるぺ ゅぺれ ゆァりゎもょぺれテテテ!
+斡Como si estuvieran acechando en las[n]profundidades del subsuelo, esperando el[n]momento oportuno para alzarse finalmente[n]contra las m茨quinas...!
 
 [msg MSG_0005 [Ryuji]]
 S胤...
@@ -72,7 +72,7 @@ Ah, estaba pensando lo mismo.
 Ya veo. Existe la posibilidad de que se[n]almacenen en grandes cantidades y se[n]conviertan en bater胤as vivientes...
 
 [msg MSG_0009 [Akechi]]
-つょ ぼもまるろよ ゆよぽよデ ゎろもゅもんぺる ぺ ゅよれ れまるまれ めゎゆぺょよれ[n]ぼよゆよ るまぼゎるれよ ょぺろゎるぺゅ れまるウぺ ゅぺ みよるゆぺ ぽまみもょもろもわぺ[n]ぽま ぺをゎぽぺる ぺゅ ゆまぽもよ ぺゆほもまょろまテ つれろよを ほぺれろぺょろま[n]もょろるもむぺぽよテ
+En cierto modo, utilizar a los seres humanos[n]como recurso natural ser胤a la forma definitiva[n]de ayudar al medio ambiente. Estoy bastante[n]intrigado.
 
 [msg MSG_0010 [Yosuke]]
 斡No! 斡De ninguna manera! 斡Me est茨n[n]asustando!

@@ -38,7 +38,7 @@ Ser茨 un problema si nos encuentran.[n]斡Ten cuidado!
 Si no apagamos la energ胤a, nos[n]convertiremos en cenizas.
 
 [msg P3_HERO2_DENKISAKU_REACT_2]
-ぴょぺ らゎまるろぺ まゅイぼろるもぼぺデ まめテテテ ィはぺるまぼま りゎま[n]ろまょまゆよれ りゎま ぺらぺむぺる ゅぺ まょまるむウぺ らるもゆまるよ!
+Una puerta el姻ctrica, eh... 斡Parece que[n]tenemos que apagar la energ胤a primero!
 
 [msg P3_HERO2_DENKISAKU_REACT_3]
 斡Cuidado! 斡Una puerta el姻ctrica!
@@ -188,13 +188,13 @@ Espero que el pr吋ximo sea as胤[n]tambi姻n!
 斡Eso fue pan comido!
 
 [msg P3_HERO2_BATTLE_CHANGE_D]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg P3_HERO2_BATTLE_CHANGE_D_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg P3_HERO2_BATTLE_CHANGE_D_3]
-■ト
+■:
 
 [msg P3_HERO2_ITEM_90_DUNGEON]
 (DGP郁BLICA)

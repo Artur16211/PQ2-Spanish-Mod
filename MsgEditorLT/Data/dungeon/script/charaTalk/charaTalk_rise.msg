@@ -58,16 +58,16 @@ He visto un atajo. 夷Vamos a usarlo?
 He visto un atajo. 夷Vamos a usarlo?
 
 [msg MSG_014 [Rise]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Rise]]
 No podemos pasar por aqu胤. 斡Pero revisa[n]el otro lado!
 
 [msg MSG_016 [Rise]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Rise]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Rise]]
 斡Espera! Ten cuidado, hay algo realmente[n]peligroso all胤.

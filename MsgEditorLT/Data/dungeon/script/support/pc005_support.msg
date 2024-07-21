@@ -188,13 +188,13 @@ Puedo seguir. D姻jamelo a m胤.
 Creo que podemos mantener el ritmo.
 
 [msg YUKIKO_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg YUKIKO_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg YUKIKO_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg YUKIKO_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)
@@ -227,7 +227,7 @@ No te preocupes, estoy segura de que[n]podemos hacerlo.
 Siento que todav胤a tenemos mucho m茨s[n]por explorar...
 
 [msg YUKIKO_TOUHA_25_2]
-びよぽぺわウぺ ょよれ りゎまぽぺ ぼぺゆもょよ らよる るまぼよるるまるデ らまるよ[n]れもむぺゆよれ めぺぼもまょぽよ ゅよ ゆまゃよる りゎま らよぽぺゆよれテ
+Todav胤a nos queda camino por recorrer, pero[n]sigamos haciendo lo mejor que podamos.
 
 [msg YUKIKO_TOUHA_50_1]
 Creo que estamos a mitad de camino.

@@ -188,13 +188,13 @@ Todo el mundo est茨 bien.
 Siempre puedes contar conmigo.
 
 [msg AKECHI_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg AKECHI_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg AKECHI_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg AKECHI_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

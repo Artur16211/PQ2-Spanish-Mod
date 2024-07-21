@@ -28,11 +28,11 @@ Esta Persona no puede recordar ninguna[n]otra habilidad. Por favor elige cu茨l[
 
 [msg FCL_PERSONA_SKILLSHIFT]
 ......?
-＞『[f 0 1 1][f 2 4 1][f 0 1 0]』に 何かが起こりそうだ……
-＞やらせてみますか？
+＞『[f 0 1 1][f 2 4 1][f 0 1 0]』L 何かが起こqそうA……
+＞kpせGfeすか？
 
 [msg FCL_PERSONA_SKILLSHIFTCA]
-＞『[f 0 1 1][f 2 4 0][f 0 1 0]』の泣き声を聞いた…
+＞『[f 0 1 1][f 2 4 0][f 0 1 0]』O泣き声y聞いた…
 
 [msg FCL_PERSONA_SKILLSHIFTCH]
 斡[f 0 1 1][f 2 4 0][f 0 1 0] se ha mejorado a [f 0 1 1][f 2 4 1][f 0 1 0]!
@@ -41,34 +41,34 @@ Esta Persona no puede recordar ninguna[n]otra habilidad. Por favor elige cu茨l[
 斡[f 0 1 1][f 2 4 0][f 0 1 0] ha cambiado a [f 0 1 1][f 2 4 1][f 0 1 0]!
 
 [msg FCL_PERSONA_SHIFT]
-＞ペルソナ『[f 0 1 1][f 2 4 0][f 0 1 0]』から[n]何かが産み落とされようとしている…
-＞見届けますか？
+＞ペル1)『[f 0 1 1][f 2 4 0][f 0 1 0]』かp[n]何かが産f落IさsoうIしGいr…
+＞見届けeすか？
 
 [msg FCL_PERSONA_SHIFTCANCEL]
-＞『[f 0 1 1][f 2 4 0][f 0 1 0]』から 『受胎の兆候』が消えた…
+＞『[f 0 1 1][f 2 4 0][f 0 1 0]』かp 『受胎O兆候』が消えた…
 
 [msg FCL_PERSONA_SHIFT1]
-＞なんと、『[f 0 1 1][f 2 4 0][f 0 1 0]』は[n]『[f 0 1 1][f 2 4 1][f 0 1 0]』を生んだ！
+＞KzI、『[f 0 1 1][f 2 4 0][f 0 1 0]』P[n]『[f 0 1 1][f 2 4 1][f 0 1 0]』y生zA！
 
 [msg FCL_GET_SKILLCARD0]
 夷...?
-＞『[f 0 1 1][f 2 4 0][f 0 1 0]』は 何かを差し出した・・・
+＞『[f 0 1 1][f 2 4 0][f 0 1 0]』P 何かy差し出した・・・
 
 [msg FCL_GET_SKILLCARD1]
-＞なんと、『[f 0 1 1][f 2 4 0][f 0 1 0]』から[n]スキルカード『[f 0 1 1][f 2 4 1][f 0 1 0]』を手に入れた！
+＞KzI、『[f 0 1 1][f 2 4 0][f 0 1 0]』かp[n]スキル吋ー(『[f 0 1 1][f 2 4 1][f 0 1 0]』y手L入sた！
 
 [msg FCL_SKILLCARD_TUTORIAL]
-『スキルカード』は、 あなたのペルソナに使えるアイテムです。[n]カードに封じられたスキルを、 ペルソナが覚えます。
-スキルカードは使用すると無くなりますが、 覚えたスキルは、[n]合体で継承させることができます。
+『スキル吋ー(』P、 あKたOペル1)L使えr威姻.ムHす。[n]吋ー(L封じpsたスキルy、 ペル1)が覚えeす。
+スキル吋ー(P使用すrI無くKqeすが、 覚えたスキルP、[n]合体H継承させrこIがHきeす。
 
 [msg FCL_SKILL_FRAME]
 斡Los espacios de habilidades de[n][f 0 1 1][f 2 4 0][f 0 1 0] han aumentado!
 
 [msg FCL_MOVIE_BONUS]
-＞映画を見たことで各種能力にボーナス値が付いた！
+＞映画y見たこIH各種能力Lボー)ス値が付いた！
 
 [msg FCL_PERSONA_EVOLUTION_FI]
-＞『[f 0 1 1][f 2 4 0][f 0 1 0]』は[n]『[f 0 1 1][f 2 4 1][f 0 1 0]』に転生した！
+＞『[f 0 1 1][f 2 4 0][f 0 1 0]』P[n]『[f 0 1 1][f 2 4 1][f 0 1 0]』L転生した！
 
 [msg FCL_PERSONA_EVOLUTION_PR]
 斡Parece que un poder oculto ha[n]despertado en [f 0 1 1][f 2 4 0][f 0 1 0]...!

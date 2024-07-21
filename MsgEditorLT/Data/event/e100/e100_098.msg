@@ -16,7 +16,7 @@ Dijo que la pel胤cula cambio cuando[n]llegamos.
 Entonces, quiz茨s...
 
 [msg MSG_005 [Akechi]]
-はよぽるウぺ めぺほまる ゎょぺ ぼよるるまゅぺぼもカょデ らまるよ ょよ ぼるまよ りゎま[n]まょぼよょろるまゆよれ ゅぺ るまれらゎまれろぺ ぺめよるぺ ゆもれゆよデ れもょ[n]もゆらよるろぺる ぼゎぺょろよ ゅよ ぽもれぼゎろぺゆよれテ
+Podr胤a haber una correlaci吋n, pero no creo que[n]encontremos la respuesta ahora mismo, sin[n]importar cuanto lo discutamos.
 
 [msg MSG_006 [Ann]]
 Es verdad. Nagi nos espera en el puesto[n]de comida, vamos.

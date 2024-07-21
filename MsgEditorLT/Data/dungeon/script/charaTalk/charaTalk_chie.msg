@@ -55,19 +55,19 @@ Vaya...
 Oye, creo que eso es un atajo. 夷Qu姻[n]opinas?
 
 [msg MSG_013 [Chie]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Chie]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Chie]]
 Bueno, no podemos ir por ese camino...[n]Es un fastidio, pero en fin.
 
 [msg MSG_016 [Chie]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Chie]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Chie]]
 E-eh, algo que no est茨 bien... 夷Lo[n]sientes tambi姻n, verdad?

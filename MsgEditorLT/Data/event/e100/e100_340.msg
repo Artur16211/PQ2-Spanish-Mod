@@ -80,13 +80,13 @@ Quiero decir, s胤, esas criminales[n]merecen castigo, pero 夷exhibirlo?
 
 [msg MSG_026 [Polic胤a Gordo]]
 斡Es gracias a las ejecuciones p雨blicas[n]que podemos mantener la paz!
-はるまれまょぼもぺる まゅ ぼぺれろもむよ らよる めぺぼまる まゅ ゆぺゅ めぺぼま[n]りゎま ゆまょよれ ぼもゎぽぺぽぺょよれ りゎもまるぺょ めぺぼまるゅよデ ゅよ りゎま[n]れもむょもみもぼぺ ゆまょよれ ろるぺほぺゃよ らぺるぺ ょよれよろるよれデ[n]エわまるぽぺぽ?
+Presenciar el castigo por hacer el mal hace[n]que menos ciudadanos quieran hacerlo, lo que[n]significa menos trabajo para nosotros,[n]夷verdad?
 
 [msg MSG_027 [Polic胤a Serio]]
 S胤, supongo que... Si podemos vivir[n]pac胤ficamente, sacrificar criminales es[n]un precio bajo a pagar.
 
 [msg MSG_028 [Polic胤a Gordo]]
-ちもまょデ らるまらぺるイゆよょよれ らぺるぺ ぼよゅよぼぺる ゅぺれ ゅゎぼまれ を[n]ぺれまむゎるぺるょよれ ぽま りゎま まゅ まれらまぼろァぼゎゅよ ぽま[n]なぺゆよれめもぽぺゆぺょ れまぺ ゎょ イゑもろよテ
+Bien, prepar姻monos para colocar las luces y[n]asegurarnos de que el espect茨culo de[n]Kamoshidaman sea un 姻xito.
 
 [msg MSG_029 [Akechi]]
 Las luces, eh...

@@ -8,7 +8,7 @@ Reservado
 Las Sombras Raras pueden parecerse a las[n]Sombras normales, 斡pero hay una[n]diferencia!
 
 [msg MSG_BTL_TUTORIAL_845_103]
-ひも ゅぺれ ぺろぺぼぺれ を れよょ るまれもれろまょろまれ ぺ ゎょぺ[n]ぺみもょもぽぺぽデ ィるまぺゅもんぺるァょ ゎょ ぼよょろるぺぺろぺりゎま らよぽまるよれよ[n]ぼよょろるぺ ろも! はまるよ れも らゎまぽまれ まょぼよょろるぺる ゎょぺ[n]ぽまほもゅもぽぺぽ を ぺらるよわまぼめぺるゅぺデ ろまょぽるァれ ゆゎぼめぺれ ゆァれ[n]らよれもほもゅもぽぺぽまれ ぽま ぽまるるよろぺるゅぺテ
+Si las atacas y son resistentes a una[n]afinidad, 斡realizar茨n un contraataque poderoso[n]contra ti! Pero si puedes encontrar una[n]debilidad y aprovecharla, tendr茨s muchas m茨s[n]posibilidades de derrotarla.
 
 [msg MSG_BTL_TUTORIAL_845_104]
 A diferencia de Team Convert, Quick[n]Convert hace que sea m茨s f茨cil derribar[n]a las Sombras.

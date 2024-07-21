@@ -28,7 +28,7 @@ Mm... Sabes, Hikari, est茨s mucho m茨s[n]animada 雨ltimamente.
 
 [msg MSG_009 [Ryuji]]
 夷Recuerdas cuando nos contaste qu姻 tipo[n]de pel胤culas te gustan?
-っまれぽま りゎま ぽもゃもれろま りゎま ろま むゎれろぺょ ゅぺれ らまゅウぼゎゅぺれ[n]りゎま ゅま ぽぺょ まれらまるぺょんぺ ぺ ゅぺ むまょろまデ らぺるまぼまれ ゎょぺ[n]らまるれよょぺ ぼよゆらゅまろぺゆまょろま ぽもみまるまょろまテ
+Desde que dijiste que te gustan las pel胤culas[n]que le dan esperanza a la gente, pareces una[n]persona completamente diferente.
 
 [msg MSG_010 [Hikari]]
 Bueno, es que... Finalmente, record姻 el[n]sue隠o que quiero alcanzar, solo ten胤a[n]que decirlo.
@@ -44,7 +44,7 @@ Bueno, es que... Finalmente, record姻 el[n]sue隠o que quiero alcanzar, solo te
 As胤 es. Hikari dijo que quer胤a hacer[n]peliculas desde que era joven.
 
 [msg MSG_014 [Hikari]]
-つれよ れまるウぺ ほぺれろぺょろま ぺむるぺぽぺほゅまデ をぺ りゎま まれろぺるウぺ[n]るよぽまぺぽぺ ぽま らまゅウぼゎゅぺれ ろよぽよ まゅ ろもまゆらよデ らまるよ ゅよ[n]りゎま るまぺゅゆまょろま りゎもまるま まれ めぺぼまるゅぺれテ
+Eso ser胤a bastante agradable, ya que estar胤a[n]rodeada de pel胤culas todo el tiempo, pero lo[n]que realmente quiere es hacerlas.
 
 [msg MSG_015 [Haru]]
 Tu sue隠o es convertirte en directora,[n]夷no? Mencionaste que quer胤as hacer[n]pel胤culas desde que eras joven.

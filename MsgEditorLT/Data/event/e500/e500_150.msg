@@ -37,7 +37,7 @@ Ver pel胤culas vac胤as, pero que tus[n]propios recuerdos dolorosos te hacen[n]
 Eventualmente, incluso llegas al punto[n]donde piensas que perder tu[n]individualidad es la elecci吋n correcta.
 
 [msg MSG_012 [Akechi]]
-つれろぺれ らまるれよょぺれ まれろァょ ほァれもぼぺゆまょろま れゎゃまろぺれ ぺ ゎょ[n]ぼよょろるよゅ ゆまょろぺゅテテテ とょぼゅゎれよ れも めぺほゅァるぺゆよれ ぼよょ[n]まゅゅよれデ りゎもイょ れぺほま れも ょよれ まれぼゎぼめぺるウぺょテ
+Estas personas est茨n b茨sicamente sujetas a un[n]control mental... Incluso si habl茨ramos con[n]ellos, qui姻n sabe si nos escuchar胤an.
 
 [msg MSG_013 [Hikari]]
 Pero, yo fui capaz de cambiar para[n]mejor, gracias a que cambiaron las[n]pel胤culas en mi Cine.
@@ -110,7 +110,7 @@ Espera, 夷tienes una idea?
 
 [msg MSG_033 [Futaba]]
 斡Claro! 斡Solo necesitamos usar esos[n]cuatro proyectores para proyectar[n]nuestras propias pel胤culas!
-によれ ぼぺゆもょよれ まょ まゅ ぽもれろるもろよ ぽまゅ ぼもょま らぺるまぼまょ[n]まれろぺる めまぼめよれ ぽま ゎょぺ ろもるぺ ぽま ゎょぺ らまゅウぼゎゅぺ ゅぺるむぺ[n]りゎま わぺ めぺぼもぺ ろよぽよれ ゅよれ ぼもょまれテ
+Los caminos en el distrito del cine parecen[n]estar hechos de una tira de una pel胤cula larga[n]que va hacia todos los cines.
 
 [msg MSG_034 [Haru]]
 Esa pel胤cula estaba muy oscura. Y no me[n]refiero al balance de color...
@@ -129,7 +129,7 @@ Es una mezcla de los recuerdos negativos[n]de la gente... Eso me recuerda a los[
 
 [msg MSG_039 [Naoto]]
 Supuestamente, son los eventos y[n]emociones de todo el mundo escritos...[n]suena similar...
-ひもょ まゆほぺるむよデ ゅよ りゎま れま ゆゎまれろるぺ ぺりゎウ まれろァ[n]ぽまゆぺれもぺぽよ れまれむぺぽよ らぺるぺ れまる ゅゅぺゆぺぽよ ゎょ[n]わまるぽぺぽまるよ るまむもれろるよ ぽま ぼゎぺゅりゎもまる ぼよれぺデ を ゆゎぼめよ[n]ゆまょよれ ぽま ろよぽよテ
+Sin embargo, lo que se muestra aqu胤 est茨[n]demasiado sesgado para ser llamado un[n]verdadero registro de cualquier cosa, y mucho[n]menos de todo.
 
 [msg MSG_040 [Akechi]]
 Es una mezcla de los recuerdos negativos[n]de la gente...
@@ -174,7 +174,7 @@ Cierto, no hay garant胤a de que cambien[n]reproduciendo las pel胤culas de Hika
 No por eso vamos a dejar de intentarlo,[n]夷no es cierto?
 
 [msg MSG_052 [Akihiko]]
-はよる れゎらゎまれろよテ ふぺゆよれ ぺ ゆよれろるぺるゅまれ ろよぽぺれ ゅぺれ[n]らまゅウぼゎゅぺれ ぽま でもやぺるもデ エぽま りゎイ れまるわもるァ れも ょよ ゅよ[n]めぺぼまゆよれ ぼよょ ゅぺ ぺぼろもろゎぽ ぼよるるまぼろぺ?
+Por supuesto. Vamos a mostrarles todas las[n]pel胤culas de Hikari, 夷de qu姻 servir茨 si no lo[n]hacemos con la actitud correcta?
 
 [msg MSG_053 [P4 Hero]]
 Entonces est茨 decidido, vamos a cambiar[n]esas pel胤culas negativas con las de[n]Hikari.

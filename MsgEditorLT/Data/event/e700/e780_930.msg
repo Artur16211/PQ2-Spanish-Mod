@@ -46,7 +46,7 @@ La cara de Marie se ha puesto roja,[n]hasta su cuello...
 Es una maldici吋n... En otras palabras,[n]debe ser una habilidad que erosiona el[n]poder espiritual de alguien.
 
 [msg MSG_012 [Marie]]
-ィねよデ ょよデ ょよ! エっま りゎイ まれろァれ めぺほゅぺょぽよ? つれ ゎょぺ[n]みゎれもカょ ぽまゅ ぽよゅよるデ まゅ れゎみるもゆもまょろよ を ゅぺ ろるもれろまんぺ[n]ぽま ぺゅむゎもまょデ ろよぽよ まょ ゎょ らまぼぺゆもょよれよテテテ
+斡No, no, no! 夷De qu姻 est茨s hablando? Es una[n]fusi吋n del dolor, el sufrimiento y la tristeza[n]de alguien, todo en un pecaminoso...
 ...斡Ngh!
 
 [msg MSG_013 [Marie]]

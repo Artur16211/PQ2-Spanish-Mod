@@ -61,7 +61,7 @@ Si empiezas a correr de un T-Rex, 斡solo[n]te pondr茨s m茨s en peligro!
 Ah, el cl茨sico clich姻... El primero en[n]huir es el primero en ser comido.
 
 [msg MSG_019 [P3 Fem Protag]]
-ィつれ わまるぽぺぽ りゎま ゅよれ ぽもょよれぺゎるもよれ ぼぺるょウわよるよれ れよょ[n]ろまるるもほゅまれテテテ らまるよ まれろよを れまむゎるぺ ぽま りゎま[n]まれろぺるまゆよれ ほもまょ れも ょよれ りゎまぽぺゆよれ ゃゎょろよれ!
+斡Es verdad que los dinosaurios carn胤voros son[n]terribles... pero estoy segura de que[n]estaremos bien si nos quedamos juntos!
 
 [msg MSG_020 [Haru]]
 斡Aj茨! 斡Si la situaci吋n empeora, lo[n]partir姻 por la mitad con mi hacha!

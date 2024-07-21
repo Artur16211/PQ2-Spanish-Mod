@@ -41,7 +41,7 @@ Una puerta el姻ctrica... 夷Tal vez[n]pueda apagarse?
 No hay forma de pasar por la puerta.[n]Tenemos que apagarla.
 
 [msg FUKA_DENKISAKU_REACTION__3]
-ねよ ゅよ ろよりゎまれデ まれぺ らゎまるろぺ まれ まゅイぼろるもぼぺテ[n]ねゎまれろるぺ グょもぼぺ まれらまるぺょんぺ まれ まょぼよょろるぺる れゎ[n]もょろまるるゎらろよるテ
+No lo toques, esa puerta es el姻ctrica.[n]Nuestra 雨nica esperanza es encontrar su[n]interruptor.
 
 [msg FUKA_KYOUHU_REACTION_1]
 斡Eeep! 斡Eso es un asqueroso calabozo!
@@ -122,7 +122,7 @@ Creo que hay un atajo en por all胤.[n]夷Ves algo?
 斡Todos tienen una salud y energ胤a muy[n]bajas!
 
 [msg FUKA_PARTY_HPTP10_3]
-だゅむゎょよれ ぽま ゎれろまぽまれ まれろァょ ゆゎを ゆぺゅめまるもぽよれテ[n]エだゅむゎもまょ らゎまぽま ゎれぺる ぼゎるぺぼもカょ?
+Algunos de ustedes est茨n muy malheridos.[n]夷Alguien puede usar curaci吋n?
 
 [msg FUKA_PARTY_HP10_1]
 斡Por favor, vigila tu salud!

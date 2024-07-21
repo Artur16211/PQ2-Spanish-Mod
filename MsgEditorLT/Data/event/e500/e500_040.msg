@@ -52,7 +52,7 @@ Hikarin...
 
 [msg MSG_015 [Hikari]]
 Pero entonces ustedes me salvaron... Me[n]hicieron darme cuenta de que quiero ser[n]yo misma.
-つれろよを れまむゎるぺ ぽま りゎま らよぽまゆよれ めぺぼまる ゅよ ゆもれゆよ らよる[n]ゅよれ ぽまゆァれテ びよぽよ ゅよ りゎま ょまぼまれもろぺょ まれ ゎょぺ[n]よらよるろゎょもぽぺぽ ぽま わまる ぼカゆよ ぽまほま れまる ゅぺ わもぽぺテテテ
+Estoy segura de que podemos hacer lo mismo por[n]los dem茨s. Todo lo que necesitan es una[n]oportunidad de ver c吋mo debe ser la vida...
 
 [msg MSG_015_5 [Hikari]]
 ...Y tendr茨n lo necesario para valorar[n]su individualidad. 斡No puedo abandonar a[n]todos as胤!

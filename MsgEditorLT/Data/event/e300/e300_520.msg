@@ -92,7 +92,7 @@ Si no te gustan las reglas, 夷por qu姻 no[n]las ignoras?
 
 [msg MSG_026 [Naoto]]
 Puede ser m茨s f茨cil decirlo que[n]hacerlo...
-とょぼゅゎれよ まょ ょゎまれろるよ ゆゎょぽよデ ろまょまゆよれ るまむゅぺれ を[n]"れまょろもぽよ ぼよゆグょ"デ りゎま ぼよょろるよゅぺょ ぺ ゅぺ むまょろま ぼよゆよ[n]れも みゎまるぺょ るまむゅぺれ ろぺゆほもイょデ エわまるぽぺぽ?
+Incluso en nuestro mundo, tenemos reglas y[n]"sentido com雨n", que controlan a la gente como[n]si fueran reglas tambi姻n, 夷verdad?
 Imagino que desafiar nuestras[n]tradiciones y est茨ndares ser胤a[n]complicado.
 
 [msg MSG_027 [Ryuji]]

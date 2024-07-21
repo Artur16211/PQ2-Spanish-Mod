@@ -2,7 +2,7 @@
 Vaya, tantas cerraduras...
 
 [msg MSG_001 [Makoto]]
-ねよれ めぺほウぺれ ぽもぼめよ りゎま まれろァほぺゆよれ まょぼまるるぺぽよれデ[n]らまるよ まれろよ わぺ ゆゎぼめよ ゆァれ ぺゅゅァ ぽま ぼゎぺゅりゎもまる[n]ゆまぽもぽぺ ぽま れまむゎるもぽぺぽデ まれ まゑろるぺォよテテテ
+Nos hab胤as dicho que est茨bamos encerrados,[n]pero esto va mucho m茨s all茨 de cualquier[n]medida de seguridad, es extra隠o...
 
 [msg MSG_002 [Morgana]]
 S胤, ni siquiera mis habilidades para[n]forzar cerraduras hicieron algo.

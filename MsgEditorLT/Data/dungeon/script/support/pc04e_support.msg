@@ -80,7 +80,7 @@ A menos que desactives la energ胤a, no[n]puedes seguir.
 斡Busca el interruptor! 斡Tiene que[n]estar por ah胤!
 
 [msg JUSTINE_DENKISAKU_REACTI_2]
-によ ゆァれ らるよほぺほゅま まれ りゎま めぺをぺ ゎょ もょろまるるゎらろよる[n]りゎま らゎまぽぺれ ゎろもゅもんぺる らぺるぺ ぼよるろぺる ゅぺ[n]まゅまぼろるもぼもぽぺぽテ
+Lo m茨s probable es que haya un interruptor[n]que puedas utilizar para cortar la[n]electricidad.
 
 [msg CAROLIN_DENKISAKU_REACTI_3]
 *risa* 斡Es como nuestras ejecuciones!
@@ -254,7 +254,7 @@ Es obvio que todos est茨n fatigados.
 斡Oye, todos ustedes est茨n agotados![n]斡Toma un descanso!
 
 [msg JUSTINE_PARTY_HP10_1]
-つれ もょゎれゎぺゅゆまょろま ぼよゆらぺれもわよ ぽま ろゎ らぺるろまデ[n]ぢぺるよゅもょまテテテ へ まれろよを ぽま ぺぼゎまるぽよテ
+Es inusualmente compasivo de tu parte,[n]Caroline... Y estoy de acuerdo.
 
 [msg CAROLIN_PARTY_HP10_2]
 斡Deprisa y c雨rate!
@@ -302,7 +302,7 @@ Todos est茨n agotados... H茨gamoslos[n]regresar y descansar, Caroline.
 斡夷Qu姻 pas吋 con tu energ胤a?!
 
 [msg JUSTINE_PARTY_TP10_3]
-はよぽるウぺれ まょみるまょろぺる ぽもみもぼゎゅろぺぽまれ ぼるまぼもまょろまれ[n]れも ぼよょろもょグぺれ ぼよゆほぺろもまょぽよ まょ ろゎ まれろぺぽよ[n]ぺぼろゎぺゅテ
+Podr胤as enfrentar dificultades crecientes[n]si contin雨as combatiendo en tu estado[n]actual.
 
 [msg CAROLIN_1PERSON_HP10_1]
 斡Justine tiene raz吋n! 斡Toma un[n]descanso!
@@ -317,7 +317,7 @@ Recluso, tu salud est茨 muy baja.[n]夷Quiz茨s deber胤as tomarte un descanso?
 La salud del prisionero es muy baja.
 
 [msg CAROLIN_1PERSON_HP10_3]
-ィのをま! ぱまぼよるぽぺろよるもよト ィまれま ぽよゅよる ぺるぽもまょろま りゎま[n]れもまょろまれ まれ ろゎ れぺゅゎぽ ぽもれゆもょゎをまょぽよ!
+斡Oye! Recordatorio: 斡ese dolor ardiente que[n]sientes es tu salud disminuyendo!
 
 [msg JUSTINE_1PERSON_HP10_3]
 Por favor, c雨rate inmediatamente.
@@ -377,13 +377,13 @@ Fue una pelea estupenda.
 Parece que todav胤a tienes algo de[n]lucha en ti.
 
 [msg CAROLIN_BATTLE_CHANGE_DU]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg CAROLIN_BATTLE_CHANGE_DU_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg CAROLIN_BATTLE_CHANGE_DU_3]
-■ト
+■:
 
 [msg CAROLIN_ITEM_90_DUNGEON_]
 Tsk, tsk, te volviste avaricioso.
@@ -476,7 +476,7 @@ S吋lo necesitamos explorar un poco m茨s[n]para completar este piso.
 Solo un poco m茨s y completaremos este[n]piso.
 
 [msg CAROLIN_TOUHA_100_1]
-ちゎまょよデ をぺ りゎま ろまるゆもょぺれろま ぽま ぽもほゎゃぺる まれろま[n]らもれよデ れゎらよょむよ りゎま ゆまるまぼまれ ぺゅむよ ぽま まゅよむもよテ
+Bueno, ya que terminaste de dibujar este[n]piso, supongo que mereces algo de elogio.
 
 [msg JUSTINE_TOUHA_100_1]
 Completamos todo el mapa. Eso es un[n]logro.
@@ -503,7 +503,7 @@ No est茨 mal para un prisionero.
 No olvidaste dibujar la escalera. Eso[n]me gusta.
 
 [msg JUSTINE_MAPPING_ICON_KAI]
-ひまむゎるぺゆまょろま まれろま まゑぼまゅまょろま ぽまれまゆらまォよ まれ まゅ[n]るまれゎゅろぺぽよ ぽま ょゎまれろるよれ まれみゎまるんよれ ぽま[n]るまめぺほもゅもろぺぼもカょテ
+Seguramente este excelente desempe隠o es el[n]resultado de nuestros esfuerzos de[n]rehabilitaci吋n.
 
 [msg CAROLIN_MAPPING_ICON_KAI_2]
 Movimiento inteligente, dibujarlo.[n]斡Pero no lo olvides!

@@ -55,19 +55,19 @@ E-eso fue espeluznante. Vamos a parar[n]aqu胤.
 斡Oh! 斡Veo un atajo! 夷Deber胤amos pasar[n]por aqu胤?
 
 [msg MSG_013 [Ann]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Ann]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Ann]]
 Parece que no podemos pasar por aqu胤.
 
 [msg MSG_016 [Ann]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Ann]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Ann]]
 O-oye, tengo un mal presentimiento sobre[n]este lugar.

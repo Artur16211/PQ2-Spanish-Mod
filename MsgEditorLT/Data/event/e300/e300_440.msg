@@ -25,7 +25,7 @@ Es una funci吋n especial cargada en mi[n]sistema, especialmente para el combate
 斡Maldita sea, debes sentirte tan bien al[n]eliminar a los enemigos as胤!
 
 [msg MSG_008 [P3 Fem Protag]]
-ぬゆデ ろもまょま れゎれ もょぼよょわまょもまょろまれデ れもょ まゆほぺるむよテ[n]っまれらゎイれ ぽま ゎれぺるゅよデ ろよぽぺれ れゎれ みゎょぼもよょまれ れま[n]ぽまれぺぼろもわぺょ ろまゆらよるぺゅゆまょろま めぺれろぺ りゎま れま[n]るまぼゎらまるぺテ
+Mm, tiene sus inconvenientes, sin embargo.[n]Despu姻s de usarlo, todas sus funciones se[n]desactivan temporalmente hasta que se[n]recupera.
 
 [msg MSG_009 [Futaba]]
 斡Wow! 斡Ser capaz de cambiar los[n]engranajes y transformarse as胤 es el[n]sue隠o de una mech-lover!
@@ -37,10 +37,10 @@ Es una funci吋n especial cargada en mi[n]sistema, especialmente para el combate
 斡Maldita sea, debes sentirte tan bien al[n]eliminar a los enemigos as胤!
 
 [msg MSG_012 [P3 Fem Protag]]
-ぬゆデ ろもまょま れゎれ もょぼよょわまょもまょろまれデ れもょ まゆほぺるむよテ[n]っまれらゎイれ ぽま ゎれぺるゅよデ ろよぽぺれ れゎれ みゎょぼもよょまれ れま[n]ぽまれぺぼろもわぺょ ろまゆらよるぺゅゆまょろま めぺれろぺ りゎま れま[n]るまぼゎらまるぺテ
+Mm, tiene sus inconvenientes, sin embargo.[n]Despu姻s de usarlo, todas sus funciones se[n]desactivan temporalmente hasta que se[n]recupera.
 
 [msg MSG_013 [P3 Fem Protag]]
-どぺデ ゃぺデ ぺゎょりゎま まれ ぼよゆらゅもぼぺぽよデ っまれらゎイれ ぽま[n]ゎれぺるゅよデ ろよぽぺれ れゎれ みゎょぼもよょまれ れま ぽまれぺぼろもわぺょ[n]ろまゆらよるぺゅゆまょろま めぺれろぺ りゎま れま るまぼゎらまるぺテ
+Ja, ja, aunque es complicado, Despu姻s de[n]usarlo, todas sus funciones se desactivan[n]temporalmente hasta que se recupera.
 
 [msg MSG_014 [Aigis]]
 Es una funci吋n especial cargada en mi[n]sistema, especialmente para el combate[n]ofensivo.
@@ -116,7 +116,7 @@ Oh, eso ser胤a genial.
 夷Por qu姻 tendr胤a que bailar? 夷Qu姻 crees[n]que est茨 haciendo, liderar un desfile?
 
 [msg MSG_036 [Teddie]]
-ィひも まれ ゎょ ぽまれみもゅまデ りゎもまるよ ゎょもるゆま ろぺゆほもイょ![n]ィのほわもぺゆまょろまデ をよ れまるウぺ ゅぺ ほまゅゅまんぺ よみもぼもぺゅデ[n]れよらゅぺょぽよ ほまれよれ を れぺゅゎぽぺょぽよ ぺ ゆもれ みぺょれ!
+斡Si es un desfile, quiero unirme tambi姻n![n]斡Obviamente, yo ser胤a la belleza oficial,[n]soplando besos y saludando a mis fans!
 
 [msg MSG_037 [Yusuke]]
 Mm... Entonces puedes dejarme el dise隠o[n]de la carroza.

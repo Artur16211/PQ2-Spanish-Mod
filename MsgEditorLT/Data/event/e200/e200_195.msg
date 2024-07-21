@@ -1,6 +1,6 @@
 [msg MSG_000 [Futaba]]
 Oye, parece que Zabby se est茨 cansando[n]de esperar a que ustedes vengan a[n]descubrir lo que tiene que decir...
-つゅゅぺ まれろァ ぺぼゎるるゎぼぺぽぺ ゃゎょろよ ぺ ゅぺ ゆァりゎもょぺ ぽま[n]まょろるぺぽぺれテテテ ねぺわまむぺる ゆもまょろるぺれ ゆま みゎゅゆもょぺ ぼよょ ゅぺ[n]ゆもるぺぽぺ まょ れもゅまょぼもよ れま まれろァ わよゅわもまょぽよ るまぺゅゆまょろま[n]もょぼカゆよぽよテ
+Ella est茨 acurrucada junto a la m茨quina de[n]entradas... Navegar mientras me fulmina con la[n]mirada en silencio se est茨 volviendo realmente[n]inc吋modo.
 
 [msg MSG_001 [Ann]]
 Oh, s胤, dijo que la m茨quina empez吋 a[n]brillar de repente. 夷Deber胤amos volver,[n]Joker?

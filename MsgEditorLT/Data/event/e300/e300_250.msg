@@ -51,13 +51,13 @@ Si te quedas con nosotros lo suficiente,[n]lo entender茨s... incluso cuando ya 
 斡T郁! 斡No me hagas querer arrancar esa[n]m茨scara!
 
 [msg MSG_016 [P4 Hero]]
-はまるよデ るまぺゅゆまょろまデ まれ むるぺぼもぺれ ぺ へよれゎやま りゎま ゅぺれ[n]ぼよょわまるれぺぼもよょまれ ぽまゅ つりゎもらよ ぽま とょわまれろもむぺぼもカょ[n]らゎまぽまょ ぼよょろもょゎぺる ろぺょ ほもまょ ぼよゆよ ゅよ めぺぼまょテ
+Pero, realmente, es gracias a Yosuke que las[n]conversaciones del Equipo de Investigaci吋n[n]pueden continuar tan bien como lo hacen.
 
 [msg MSG_017 [Yosuke]]
 斡Ese es mi compa隠ero! Realmente me[n]entiendes...
 
 [msg MSG_018 [Shinjiro]]
-ぢゎぺょぽよ るまグょまれ ぺ ゎょ むるぺょ むるゎらよ ぽま らまるれよょぺれデ まれ[n]ょぺろゎるぺゅ りゎま ゅよれ らるよほゅまゆぺれ ろぺゆほもイょ れゎるゃぺょテ びよぽよ[n]ぽまらまょぽま ぽま ゅぺれ らまるれよょぺゅもぽぺぽまれテ
+Cuando re雨nes a un gran grupo de personas, es[n]natural que los problemas tambi姻n surjan. Todo[n]depende de las personalidades.
 
 [msg MSG_019 [Naoto]]
 Los miembros de SEES tambi姻n est茨n[n]llenos de personalidad...
@@ -67,7 +67,7 @@ Todos nos hemos acostumbrado a nuestro[n]grupo, pero supongo que se ve bastante[
 Pero en realidad es bastante divertido,[n]ya que tenemos tantos tipos diferentes[n]de personas juntas.
 
 [msg MSG_021 [Yusuke]]
-つょ まみまぼろよテ によれ ゎれゎぺるもよれ ぽま はまるれよょぺ りゎま めまゆよれ[n]まょぼよょろるぺぽよ れよょ ろよぽよれ ゆゎを みぺれぼもょぺょろまれ を[n]るまほよれぺょろまれ ぽま らまるれよょぺゅもぽぺぽテ
+En efecto. Los usuarios de Persona que hemos[n]encontrado son todos muy fascinantes y[n]rebosantes de personalidad.
 Me ha hecho darme cuenta de lo ordinario[n]que soy.
 
 [sel SEL_022 top]
@@ -128,7 +128,7 @@ Supongo que probablemente tenga sentido[n]para el Supervisor, pero...
 Oracle...
 
 [msg MSG_039 [Mitsuru]]
-つれろよを ぽま ぺぼゎまるぽよテテテ だぽまゆァれデ ゎょ ゆゎょぽよ[n]めよゆよむまょまもんぺぽよ れまるウぺ ぽまゆぺれもぺぽよ ほゅぺょぽよデ を[n]ぼゎぺゅりゎもまる ぺるゆよょウぺ まょ イゅ れまるウぺ ぺるろもみもぼもぺゅテ
+Estoy de acuerdo... Adem茨s, un mundo[n]homogeneizado ser胤a demasiado blando, y[n]cualquier armon胤a en 姻l ser胤a artificial.
 
 [msg MSG_040 [Ribbon]]
 A PESAR DE ESO, TODAV緯A SOY CONSIDERADA[n]NADA M威S QUE UN ERROR EN ESTE MUNDO.
@@ -144,7 +144,7 @@ El Supervisor est茨 equivocado.
 S胤, quien haya puesto todas esas leyes[n]de mierda est茨 totalmente equivocado.
 
 [msg MSG_044 [Akechi]]
-つょ れまるもよデ めぺほゅぺ ぽま ゎょ むよほまるょぺょろま ろよろぺゅもろぺるもよテ[n]ねも れもりゎもまるぺ らもまょれぺ まょ ゅぺ むまょろまデ れよゅよ ゅま[n]もゆらよるろぺ ゆぺょろまょまる まゅ よるぽまょテ
+En serio, habla de un gobernante totalitario.[n]Ni siquiera piensa en la gente, solo le[n]importa mantener el orden.
 
 [msg MSG_045 [Chie]]
 斡Pensar en eso me est茨 enfadando! 斡No[n]puedo esperar a arrancarle esas[n]tonter胤as!

@@ -29,7 +29,7 @@ Si la dejamos as胤, todos ser茨n forzados[n]a seguir viendo la versi吋n de mi
 Tenemos que hacer algo, 斡Vamos a[n]arreglar esta tambi姻n!
 
 [msg MSG_009 [Madre Computadora]]
-ねよ まょろもまょぽよテ つれろぺ らまゅウぼゎゅぺ るまらるまれまょろぺ まゅ[n]らぺるぺぽもむゆぺ ぽま ろよぽぺ ゅぺ れよぼもまぽぺぽ めゎゆぺょぺデ を をよ れよを[n]まゅ らぺるぺぽもむゆぺ ぽま ゎょ むよほまるょぺょろま ゆゎょぽもぺゅテ
+No entiendo. Esta pel胤cula representa el[n]paradigma de toda la sociedad humana, y yo soy[n]el paradigma de un gobernante mundial.
 Tu negaci吋n a esta popular pel胤cula los[n]convierte en un error en este mundo.
 
 [msg MSG_010 [Ken]]

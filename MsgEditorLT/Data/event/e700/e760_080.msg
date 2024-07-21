@@ -43,7 +43,7 @@ Oh, tambi姻n lo entiendo. Estoy...[n]bueno... algo interesada en la[n]maquinari
 Los intereses de todos pueden diferir un[n]poco, pero suena como si tuvieras[n]bastante inter姻s.
 
 [msg MSG_011_1 [Futaba]]
-だらゎまれろよ ぺ りゎま れまるウぺ ぽもわまるろもぽよ れも ろよぽよれ ゅよれ[n]ゎれゎぺるもよれ ぽま はまるれよょぺ ぺみもぼもよょぺぽよれ ぺ ゅぺ ぼもまょぼもぺ[n]みもぼぼもカょ めもぼもまるぺょ ゎょぺ らまりゎまォぺ るまゎょもカょテ
+Apuesto a que ser胤a divertido si todos los[n]usuarios de Persona aficionados a la ciencia[n]ficci吋n hicieran una peque隠a reuni吋n.
 
 [msg MSG_012 [Makoto]]
 Me parece que ser胤a muy intensa. No creo[n]que fuera capaz de seguir la[n]conversaci吋n...
@@ -94,7 +94,7 @@ Oh, tambi姻n lo entiendo. Estoy...[n]bueno... algo interesada en la[n]maquinari
 Los intereses de todos pueden diferir un[n]poco, pero suena como si tuvieras[n]bastante inter姻s.
 
 [msg MSG_0011_1 [Futaba]]
-だらゎまれろよ ぺ りゎま れまるウぺ ぽもわまるろもぽよ れも ろよぽよれ ゅよれ[n]ゎれゎぺるもよれ ぽま はまるれよょぺ ぺみもぼもよょぺぽよれ ぺ ゅぺ ぼもまょぼもぺ[n]みもぼぼもカょ めもぼもまるぺょ ゎょぺ らまりゎまォぺ るまゎょもカょテ
+Apuesto a que ser胤a divertido si todos los[n]usuarios de Persona aficionados a la ciencia[n]ficci吋n hicieran una peque隠a reuni吋n.
 
 [msg MSG_0012 [Makoto]]
 Me parece que ser胤a muy intensa. No creo[n]que fuera capaz de seguir la[n]conversaci吋n...

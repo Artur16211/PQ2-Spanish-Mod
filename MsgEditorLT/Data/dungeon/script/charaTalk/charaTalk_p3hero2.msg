@@ -55,19 +55,19 @@ Perfecto.
 斡Un pasaje oculto! 夷Deber胤amos abrirnos[n]camino hacia el otro lado?
 
 [msg MSG_013 [P3 Fem Protag]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [P3 Fem Protag]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [P3 Fem Protag]]
 夷Hm? Parece que no podemos seguir por[n]aqu胤.
 
 [msg MSG_016 [P3 Fem Protag]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [P3 Fem Protag]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [P3 Fem Protag]]
 Tengo un mal presentimiento sobre[n]esto... 夷Qu姻 opinas?

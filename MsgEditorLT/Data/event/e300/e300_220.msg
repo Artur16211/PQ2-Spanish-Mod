@@ -103,7 +103,7 @@ Dos son compa隠胤a; tres son multitud.
 Nada supera comer carne.
 
 [msg MSG_030 [Mitsuru]]
-にぺれ らまるれよょぺれ ろるぺほぺゃぺょぽよ ゃゎょろぺれ らゎまぽまょ ゅよむるぺる[n]ゆまゃよるまれ るまれゎゅろぺぽよれ りゎま ぼゎぺょぽよ まれろァょ れよゅぺれテテテ[n]つれよ ょよれ ぽまれぼるもほま ほぺれろぺょろま ほもまょテ
+Las personas trabajando juntas pueden lograr[n]mejores resultados que cuando est茨n solas...[n]Eso nos describe bastante bien.
 
 [msg MSG_031 [Akechi]]
 Si juntamos todas nuestras cabezas,[n]estoy seguro de que podemos cambiar esta[n]pel胤cula en poco tiempo.
@@ -265,7 +265,7 @@ Je, je, qu姻 apropiado, un elemento que[n]suena a ciencia ficci吋n. Adem茨s, 
 UNIDAD YS-01...
 
 [msg MSG_079 [Yosuke]]
-"つれま" ゎょよテテテ ゎょよ みァぼもゅテテテ びぺゅ わまん ゅよ わまよ ろよぽよ[n]まゅ ろもまゆらよ まょ ゅぺ ぼぺみまろまるウぺ ぽま どゎょまれテ だれウ りゎまデ[n]ぼよゆもぽぺテテテ てぺゅゅまろぺれテテテ つょわよゅろゎるぺ ぽま らゅァれろもぼよテテテ[n]はぺらまゅ ぽま ぺゅゎゆもょもよテテテ
+"Ese" uno... uno f茨cil... Tal vez lo veo todo[n]el tiempo en la cafeter胤a de Junes. As胤 que,[n]comida... Galletas... Envoltura de pl茨stico...[n]Papel de aluminio...
 斡Oh! 斡夷Es "Aluminio"?!
 
 [msg MSG_080 [Sistema De IA Para Ex茨menes]]
@@ -291,7 +291,7 @@ CORRECTO.
 
 [msg MSG_087 [Makoto]]
 Ahora no es el momento de "Jokes"...
-エはゎまぽまれ ぽぺる ゎょぺ るまれらゎまれろぺ れまるウぺ まれろぺ わまん? にぺれ[n]ゆよょまぽぺれ れゎまゅまょ れまる ぽま よるよデ らゅぺろぺ よ ぼよほるまデ ぺれウ[n]りゎま もょろまょろぺ ぼよょ ゎょよ ぽもみまるまょろまテ
+夷Puedes dar una respuesta ser胤a esta vez? Las[n]monedas suelen ser de oro, plata o cobre, as胤[n]que intenta con uno diferente.
 
 [sel SEL_088 top]
 Aluminio.
@@ -328,7 +328,7 @@ Claro. As胤 que... 夷Qu姻 quieres decir con[n]"ese"?
 UNIDAD YS-01...
 
 [msg MSG_099 [Yosuke]]
-"つれま" ゎょよテテテ ゎょよ みァぼもゅテテテ びぺゅ わまん ゅよ わまよ ろよぽよ[n]まゅ ろもまゆらよ まょ ゅぺ ぼぺみまろまるウぺ ぽま どゎょまれテ だれウ りゎまデ[n]ぼよゆもぽぺテテテ てぺゅゅまろぺれテテテ つょわよゅろゎるぺ ぽま らゅァれろもぼよテテテ[n]はぺらまゅ ぽま ぺゅゎゆもょもよテテテ
+"Ese" uno... uno f茨cil... Tal vez lo veo todo[n]el tiempo en la cafeter胤a de Junes. As胤 que,[n]comida... Galletas... Envoltura de pl茨stico...[n]Papel de aluminio...
 斡Oh! 斡夷Es "Aluminio"?!
 
 [msg MSG_100 [Sistema De IA Para Ex茨menes]]
@@ -371,7 +371,7 @@ Entonces, 夷tenemos que tomar impulso y[n]saltar sobre una? Esa parece una form
 斡Vamos, se supone que esto es una prueba[n]de conocimientos! 夷Ahora nos exigen[n]habilidad atl姻tica? Eso es trampa.
 
 [msg MSG_112 [Mitsuru]]
-でぺれろぺ ぺめよるぺデ まれろぺゆよれ まょ ゆまぽもよ ぽまゅ まゑぺゆまょテ ねよ[n]ろまょまゆよれ ゆァれ るまゆまぽもよ りゎま るまれらよょぽまるテ つれぼゎぼめまゆよれ[n]ゅぺ らるまむゎょろぺ らるもゆまるよテ
+Hasta ahora, estamos en medio del examen. No[n]tenemos m茨s remedio que responder. Escuchemos[n]la pregunta primero.
 
 [msg MSG_113 [Sistema De IA Para Ex茨menes]]
 PREGUNTA 3...

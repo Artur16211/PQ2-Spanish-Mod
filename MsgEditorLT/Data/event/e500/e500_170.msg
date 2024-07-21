@@ -5,7 +5,7 @@ En serio vamos a meternos con esos[n]proyectores, 夷eh? Supongo que estaremos[n
 Ella no es alguien que nos escuchar胤a.[n]Si nos atrapa en el acto, realmente nos[n]la pondr茨 dif胤cil esta vez...
 
 [msg MSG_003 [Teddie]]
-ィふぺゆよれデ まれ めよるぺ ぽま れまる ゎょ ゅぺぽるカょ みぺょろぺれゆぺ![n]ィねよれ ぽまれゅもんぺるまゆよれ らよる ゅぺれ れよゆほるぺれ を[n]ぼぺらろゎるぺるまゆよれ るァらもぽぺゆまょろま ぺ ょゎまれろるよ よほゃまろもわよ!
+斡Vamos, es hora de ser un ladr吋n fantasma![n]斡Nos deslizaremos por las sombras y[n]capturaremos r茨pidamente a nuestro objetivo!
 
 [msg MSG_004 [Akihiko]]
 No est茨 en mi naturaleza escabullirme.
@@ -115,7 +115,7 @@ Justo aqu胤, en este momento, solo queda[n]una cosa por hacer, y es algo que[n]
 As胤 es. 斡Estoy segura de que nuestro[n]encuentro significa algo!
 
 [msg MSG_037 [Morgana]]
-つょろよょぼまれデ ィぼよゆまょぼまゆよれ ぼよょ ゅぺ ゆもれもカょ もょぺゎむゎるぺゅ[n]ぽま ゅよれ るまぼもイょ ゅゅまむぺぽよれ にぺぽるよょまれ づぺょろぺれゆぺ![n]ぢよゆまょぼまゆよれ ぼよょ ゅよれ ぽまろぺゅゅまれ ぽまテテテ
+Entonces, 斡comencemos con la misi吋n inaugural[n]de los reci姻n llegados Ladrones Fantasma![n]Comencemos con los detalles de...
 
 [msg MSG_038 [Ryuji]]
 斡OH, MIERDA! 斡Lo olvid姻 completamente,[n]el aviso!

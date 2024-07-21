@@ -24,7 +24,7 @@ MI MEMORIA ES... AH... NO... YO... YO...[n]NNNH...
 夷C吋mo te sientes ahora, UIY-2249?
 Todo su sufrimiento se debe a tu[n]individualidad.
 Desecha esa irregularidad.
-ィびよぽよ ゅよ りゎま ぽまほまれ めぺぼまる まれ ぽまゃぺる ぽま らまょれぺるデ[n]まゆゎゅぺる ぺ ゅよれ ぽまゆァれ ぺ ろゎ ぺゅるまぽまぽよるデ を れまむゎもる[n]ろるぺほぺゃぺょぽよ らぺるぺ ろよぽぺ ゅぺ まろまるょもぽぺぽ!
+斡Todo lo que debes hacer es dejar de pensar,[n]emular a los dem茨s a tu alrededor, y seguir[n]trabajando para toda la eternidad!
 
 [msg MSG_007 [Ribbon]]
 ...

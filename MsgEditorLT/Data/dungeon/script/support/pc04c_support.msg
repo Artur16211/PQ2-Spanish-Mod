@@ -41,7 +41,7 @@ No podr茨s avanzar a menos que[n]detengas la energ胤a.
 Debe haber un interruptor...
 
 [msg THEODOR_DENKISAKU_REACTI_3]
-ぴょぺ らゎまるろぺ まゅイぼろるもぼぺテテテ つれろよ ゆま るまぼゎまるぽぺ ぺ[n]ゅぺ ぽま ゆも めまるゆぺょぺテテテ ゆまゃよる よゅわウぽぺゅよデ ょよ まれ[n]ょぺぽぺテ
+Una puerta el姻ctrica... Esto me recuerda a[n]la de mi hermana... mejor olv胤dalo, no es[n]nada.
 
 [msg THEODOR_KYOUHU_REACTION_]
 斡Cuidado con las r茨fagas de viento!
@@ -68,7 +68,7 @@ Impresionante, hermana. Tienes una[n]aguda habilidad de observaci吋n.
 Tengo curiosidad por el contenido del[n]cofre del tesoro.
 
 [msg THEODOR_TREASURE_FIND_3]
-ぴょ ぼよみるま ぽまゅ ろまれよるよテ っまほよ ぽまぼもる りゎま まれろよを[n]まゆよぼもよょぺぽよ ぽま わまる ゅよ りゎま めぺを ぽまょろるよテ
+Un cofre del tesoro. Debo decir que estoy[n]emocionado de ver lo que hay dentro.
 
 [msg THEODOR_CHECK_WALL_1]
 斡Hay algo intrigante ah胤!
@@ -95,7 +95,7 @@ Esta pared... siento que tiene algo[n]m茨s de lo que parece.
 夷Por qu姻 no revisamos esa pared?
 
 [msg THEODOR_SHORTCUT_FIND_3]
-はゎまぽま りゎま めぺをぺ らるよらもまぽぺぽまれ ぽまれぼよょよぼもぽぺれ まょ[n]ゅぺ らぺるまぽ りゎま まれろァ ぺぽまゅぺょろまテ
+Puede que haya propiedades desconocidas en[n]la pared que est茨 adelante.
 
 [msg THEODOR_PARTY_DEAD_1]
 斡夷C-chicos?! 夷Est茨n bien?
@@ -185,16 +185,16 @@ Por favor, ven a mi tienda si[n]necesitas ordenar tus cosas.
 斡夷H-hermana?!, 斡por favor abstente de[n]agitar los brazos as胤!
 
 [msg THEODOR_1PERSON_HP80_3]
-エでまるゆぺょぺ? びぺゅ わまん れまるウぺ ゆまゃよる りゎま むゎぺるぽまれ[n]ろゎ ほぺもゅま ぽま ぺゅまむるウぺ らぺるぺ ろも ゆもれゆぺテテテ
+夷Hermana? Tal vez ser胤a mejor que guardes[n]tu baile de alegr胤a para ti misma...
 
 [msg THEODOR_BATTLE_CHANGE_DU]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg THEODOR_BATTLE_CHANGE_DU_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg THEODOR_BATTLE_CHANGE_DU_3]
-■ト
+■:
 
 [msg THEODOR_ITEM_90_DUNGEON_]
 斡夷Hermana?! 斡夷Tiraste mis posesiones[n]m茨s preciadas?!

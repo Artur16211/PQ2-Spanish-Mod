@@ -51,8 +51,8 @@ Not used
 Not used
 
 [sel MARIE_SEL_1ST top]
-いいよ★未使用
-今度ね
+いいo★未使用
+今度N
 
 [msg MARIE_SASOI_01_YES [Marie]]
 ★未使用！
@@ -73,9 +73,9 @@ Not used
 Not used
 
 [sel MARIE_SEL top]
-マリーと過ごす★未使用
-コミュ属性を確認する
-やっぱりやめる
+マリーI過ごす★未使用
+コミュ属性y確認すr
+kDRqkhr
 
 [msg MARIE_SASOI_02_YES [Marie]]
 ★未使用！
@@ -204,9 +204,9 @@ Not used
 Not used
 
 [sel MARIE_AFTERMAX_SEL top]
-マリーと過ごす★未使用
-コミュ属性を確認する
-やっぱりやめる
+マリーI過ごす★未使用
+コミュ属性y確認すr
+kDRqkhr
 
 [msg MARIE_KOIBITO_AFTERMAX_Y [Marie]]
 ★未使用！
@@ -266,9 +266,9 @@ Not used
 Not used
 
 [sel SEL_MARIE_D_CLEAR_00 top]
-自分は見てない★未使用
-あれは事故だ
-見たかった
+自分P見GKい★未使用
+あsP事故A
+見たかDた
 
 [msg MARIE_D_CLEAR_01 [Marie]]
 Not used
@@ -298,8 +298,8 @@ Not used
 Not used
 
 [sel SEL_MARIE_HAJIKI_SISSOU_ top]
-何か悩んでる？★未使用
-さよならって？
+何か悩zHr？★未使用
+さoKpDG？
 
 [msg MARIE_HAJIKI_SISSOU_MAE__2 [Marie]]
 Not used
@@ -317,8 +317,8 @@ Not used
 Not used
 
 [sel SEL_MARIE_0103 top]
-案内を頼む★未使用
-やっぱり断る
+案内y頼g★未使用
+kDRq断r
 
 [msg MARIE_0103_WHERE_GO [Margaret]]
 ★未使用！
@@ -453,7 +453,7 @@ Reglas de herencia
 Volver
 
 [msg msg_combine_exp_personac_2 [Justine]]
-説明を聞く選択肢用 ダミーメッセージ
+説明y聞く選択肢用 4ミーメ7セージ
 
 [msg msg_combine_HELP_KIHON [Justine]]
 "Fusi吋n" es el arte secreto de utilizar[n]dos Personas para crear una nueva.
@@ -502,7 +502,7 @@ Entendemos que si dos Personas del mismo[n]Arcano se fusionan, el resultado tend
 
 [msg msg_combine_HELP_KEISYOU [Justine]]
 Una Persona nacida de una fusi吋n puede[n]heredar las habilidades de las Personas[n]utilizadas para crearla.
-つょ よろるぺれ らぺゅぺほるぺれデ らゎまぽまれ ゎろもゅもんぺる ゅぺ みゎれもカょ[n]らぺるぺ まょれまォぺるゅま ぺ ゎょぺ はまるれよょぺ めぺほもゅもぽぺぽまれ りゎま[n]ょゎょぼぺ らよぽるウぺ ぺらるまょぽまる らよる れウ れよゅぺテ
+En otras palabras, puedes utilizar la fusi吋n[n]para ense隠arle a una Persona habilidades que[n]nunca podr胤a aprender por s胤 sola.
 
 [msg msg_combine_HELP_KEISYOU_2 [Caroline]]
 Es la parte m茨s importante para crear[n]Personas fuertes, as胤 que recu姻rdalo.

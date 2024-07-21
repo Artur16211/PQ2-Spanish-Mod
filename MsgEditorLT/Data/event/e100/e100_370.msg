@@ -26,7 +26,7 @@ Simplemente, nos congel吋 en el acto...[n]Eso fue gracias a la estatua, 夷verd
 S胤, realmente perdi吋 los estribos cuando[n]Makoto y Haru la mencionaron,[n]斡definitivamente es eso!
 
 [msg MSG_008 [Yusuke]]
-づもょぺゅゆまょろまデ めぺ るまわまゅぺぽよ れゎ わまるぽぺぽまるぺ[n]ょぺろゎるぺゅまんぺテテテ ねまぼまれもろぺゆよれ まょぼよょろるぺる ゎょぺ ゆぺょまるぺ[n]ぽま ぼよょろるぺるるまれろぺる よ ぽまれぺぼろもわぺる まゅ らよぽまる ぽま ゅぺ[n]まれろぺろゎぺテ
+Finalmente, ha revelado su verdadera[n]naturaleza... Necesitamos encontrar una manera[n]de contrarrestar o desactivar el poder de la[n]estatua.
 
 [msg MSG_009 [Futaba]]
 Kamoshidaman la est茨 protegiendo.[n]Primero tenemos que averiguar c吋mo[n]llegar a ella.
@@ -89,7 +89,7 @@ S胤, a pesar de su tama隠o, se balanceaba[n]de un lado a otro.
 斡Oh s胤, tienes raz吋n! Quiero decir, 夷no[n]es extra隠o que algo tan pesado se mueva[n]as胤?
 
 [msg MSG_029 [Yusuke]]
-にぺ まれろぺろゎぺ らよぽるウぺ まれろぺる ぽもれまォぺぽぺ らぺるぺ らぺるまぼまる[n]まれろぺる めまぼめぺ ぽま らもまぽるぺデ ぼゎぺょぽよ まょ るまぺゅもぽぺぽ まれろァ[n]めまぼめぺ ぽま まれらゎゆぺ よ ぺゅむよ れもゆもゅぺるテ
+La estatua podr胤a estar dise隠ada para parecer[n]estar hecha de piedra, cuando en realidad est茨[n]hecha de espuma o algo similar.
 Podr胤a habernos enga隠ado con su[n]apariencia, esa estatua podr胤a ser[n]realmente bastante ligera.
 
 [msg MSG_030 [Akechi]]

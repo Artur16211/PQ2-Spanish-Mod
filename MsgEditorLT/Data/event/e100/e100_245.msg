@@ -35,7 +35,7 @@ Somos los Ladrones Fantasma.
 夷Woohoo...? 斡No entiendo qu姻 quieres[n]decir, pero suena divertido!
 
 [msg MSG_011 [P3 Fem Protag]]
-エつょろよょぼまれデ れゎ ろるぺほぺゃよ まれ めぺぼまる ぼよれらゅぺを ぽま[n]ゅぺぽるよょまれデ よ れよょ ろよぽよれ ゅぺぽるよょまれ りゎま みゎまるよょ[n]ぼよょろるぺろぺぽよれ らぺるぺ めぺぼまる ぼよれらゅぺをテテテ?
+夷Entonces, su trabajo es hacer cosplay de[n]ladrones, o son todos ladrones que fueron[n]contratados para hacer cosplay...?
 
 [msg MSG_012 [Ann]]
 Um, s胤... No pienses demasiado en ello.
@@ -111,7 +111,7 @@ Es una larga historia...
 ...Estoy agotado.
 
 [msg MSG_033 [Morgana]]
-つれよ まれ ぼよるるまぼろよテ びよゆよ まれろぺ みよるゆぺ ぽまほもぽよ ぺ ゅぺ[n]ぽもれろよるれもカょ ぽま ぬまゆまょろよれデ ぽよょぽま れま まょろるまゅぺんぺょ[n]ゅよれ ぽまれまよれ ぼよゅまぼろもわよれ を ゅよれ らまょれぺゆもまょろよれ[n]もょぼよょれぼもまょろまれ ぽま ゅぺ めゎゆぺょもぽぺぽテ
+Eso es correcto. Tomo esta forma debido a la[n]distorsi吋n de Mementos, donde se entrelazan[n]los deseos colectivos y los pensamientos[n]inconscientes de la humanidad.
 
 [msg MSG_034 [P3 Fem Protag]]
 夷Mementos?

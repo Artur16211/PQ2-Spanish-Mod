@@ -57,7 +57,7 @@ Huesos... Huesos... Costillas...[n]Costillas de dinosaurio...
 A m胤 tambi姻n me gustar胤a probarla.[n]Imagino que ser茨 saciante y energizante.
 
 [msg MSG_016 [Futaba]]
-ィへ-を-をよ ろぺゆほもイょ! ぴょぺ わまん わも ゎょ まょよるゆま ろるよんよ ぽま[n]ぼぺるょま ぽま ぽもょよれぺゎるもよ まょ ゎょぺ ぼぺるもぼぺろゎるぺデ ィを めま[n]りゎまるもぽよ ぼよゆまる ぺゅむよ ぺれウ ぽまれぽま まょろよょぼまれ!
+斡Y-y-yo tambi姻n! Una vez vi un enorme trozo de[n]carne de dinosaurio en una caricatura, 斡y he[n]querido comer algo as胤 desde entonces!
 
 [msg MSG_017 [P3 Fem Protag]]
 Tambi姻n tengo curiosidad por saber c吋mo[n]sabe. 斡Pido los muslos!

@@ -29,21 +29,21 @@ Entonces, 夷crees que hay otra pel胤cula[n]que tenga un mont吋n de... cosas[n
 
 [msg MSG_009 [Junpei]]
 斡Ja, te atrap姻! 斡No puedo creer que ESA[n]sea la pel胤cula a la que quieres entrar!
-つょ ゆも ぼぺれよデ ィりゎもまるよ まょろるぺる まょ ゎょぺ らまゅウぼゎゅぺ[n]ぽまらよるろもわぺ! ィひまるウぺ ゎょ ゃゎむぺぽよる ぽま ゅぺ ゅもむぺ[n]れゎらまるむゎぺらよ を らよぽるウぺ ゆよれろるぺる ゆもれ めぺほもゅもぽぺぽまれ!
+En mi caso, 斡quiero entrar en una pel胤cula[n]deportiva! 斡Ser胤a un jugador de la liga[n]superguapo y podr胤a mostrar mis habilidades!
 
 [msg MSG_010 [Yusuke]]
 En ese caso, deseo entrar en una[n]pel胤cula rebosante de obras de arte y[n]comida deliciosa.
 
 [msg MSG_011 [Akechi]]
 斡Ja, ja, todos son tan abiertos con sus[n]deseos!
-はまるよデ ぼよょれもぽまるぺょぽよ ぼカゆよ みゎょぼもよょぺょ ゅぺれ[n]らまゅウぼゎゅぺれ ぺりゎウデ もょぼゅゎれよ れも ゅよむるァるぺゆよれ[n]まょぼよょろるぺるゅぺれデ ぽゎぽよ りゎま わもイるぺゆよれ ゅよ りゎま[n]りゎまるまゆよれテ
+Pero, considerando c吋mo funcionan las[n]pel胤culas aqu胤, incluso si logr茨ramos[n]encontrarlas, dudo que vi姻ramos lo que[n]queremos.
 
 [msg MSG_012 [P3 Hero]]
 夷En qu姻 clase de pel胤cula te gustar胤a[n]entrar, Crow?
 
 [msg MSG_013 [Akechi]]
 Creo que me gustar胤a entrar en una de[n]misterio.
-ぢよゆよ はるウょぼもらま っまろまぼろもわまデ まれろよを もょろまるまれぺぽよ まょ[n]るまれよゅわまる ぼぺれよれ ぽもみウぼもゅまれデ もょぼゅゎれよ まょ ゎょぺ[n]らまゅウぼゎゅぺテテテ エねよ ろま むゎれろぺるウぺデ ひめもるよむぺょま?
+Como Pr胤ncipe Detective, estoy interesado en[n]resolver casos dif胤ciles, incluso en una[n]pel胤cula... 夷No te gustar胤a, Shirogane?
 
 [msg MSG_014 [Naoto]]
 S胤, tengo curiosidad sobre los[n]artilugios y planes que solo podr胤a[n]haber en una pel胤cula.
@@ -62,7 +62,7 @@ Solo ver a la gente vivir su vida al[n]m茨ximo puede ser alentador.
 
 [msg MSG_018 [Junpei]]
 斡Oh, le diste en el clavo, Hikari!
-ィぱまぺゅゆまょろま ろまょむよ りゎま ゅゅまわぺる ゆも ゃゎまむよ ぺ ゎょ[n]ょもわまゅ ゆァれ ぺゅろよ らぺるぺ ぼよょりゎもれろぺる まゅ ぼよるぺんカょ ぽま[n]でもやぺるも ぼよゆよ ゎょ ゃゎむぺぽよる ぽま ゅぺれ むるぺょぽまれ ゅもむぺれ!
+斡Realmente tengo que llevar mi juego a un[n]nivel m茨s alto para conquistar el coraz吋n de[n]Hikari como un jugador de las grandes ligas!
 
 [msg MSG_019 [Futaba]]
 斡Vamos, mantengamos esa energ胤a mientras[n]avanzamos!

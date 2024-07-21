@@ -35,7 +35,7 @@ Obviamente preferir胤amos escuchar a[n]Rise, Yosuke.
 *risa* Si eso los anima, lo har姻.
 
 [msg MSG_010_1 [Rise]]
-はまるよ ょよ らよぽまゆよれ ほぺゃぺる ゅぺ むゎぺるぽもぺ ゆもまょろるぺれ[n]まゑらゅよるぺゆよれデ ぺれウ りゎま ろぺゅ わまん れまるウぺ ゆまゃよる[n]むゎぺるぽぺるゅよ らぺるぺ ぼゎぺょぽよ るまむるまれまゆよれデ エれウ?
+Pero no podemos bajar la guardia mientras[n]exploramos, as胤 que tal vez ser胤a mejor[n]guardarlo para cuando regresemos, 夷s胤?
 
 [msg MSG_011 [Ryuji]]
 斡夷En serio?!

@@ -27,7 +27,7 @@ As胤 que... 夷Eres del Instituto[n]Gekkoukan?
 
 [msg MSG_009 [Chico Con Gorra De B姻isbol]]
 斡夷Qu姻?! 夷C吋mo sabes mi nombre?
-ばゎもまるよ ぽまぼもるデ れよれらまぼめぺほぺ りゎま ろまょウぺ わぺるもぺれ みぺょれ[n]れまぼるまろぺれ まょ ゅぺ まれぼゎまゅぺデ らまるよ らまょれぺる りゎま ゆま[n]まょぼよょろるぺるウぺ ぼよょ ゎょぺ ぺりゎウテテテ
+Quiero decir, sospechaba que ten胤a varias fans[n]secretas en la escuela, pero pensar que me[n]encontrar胤a con una aqu胤...
 
 [msg MSG_010 [P3 Fem Protag]]
 夷Eh...?
@@ -109,7 +109,7 @@ No somos sospechosos.
 M茨s les vale venir con nosotros.
 
 [msg MSG_034 [Naoto]]
-つれろァょ まょ ろまるるもろよるもよ ぽまれぼよょよぼもぽよ を れよゆよれ[n]ぽまれぼよょよぼもぽよれ らぺるぺ まゅゅよれテテテ ひゎらよょむよ りゎま ょよ めぺを[n]ょぺぽぺ りゎま らよぽぺゆよれ めぺぼまる ぺゅ るまれらまぼろよデ らまるよテテテ
+Est茨n en territorio desconocido y somos[n]desconocidos para ellos... Supongo que no hay[n]nada que podamos hacer al respecto, pero...
 
 [msg MSG_035 [Yosuke]]
 夷Vas a decir que no eres sospechoso...[n]mientras est茨s vestido as胤?

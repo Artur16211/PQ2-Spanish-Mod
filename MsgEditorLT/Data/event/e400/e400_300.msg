@@ -19,10 +19,10 @@ Es un anfitri吋n cort姻s.
 Uh, si es tan amable, 斡夷por qu姻 la[n]atrap吋 para empezar?!
 
 [msg MSG_006 [Yosuke]]
-ひウテ ねよ もゆらよるろぺ ぼゎァょろよ ゅま むゎれろまょ ゅぺれ らまゅウぼゎゅぺれデ[n]ぺろるぺらぺるゅぺ を よほゅもむぺるゅぺ ぺ わまる ぺ まれぺれ めよるるもほゅまれ[n]わまるれもよょまれ ょよ ろもまょま れまょろもぽよテ
+S胤. No importa cu茨nto le gusten las pel胤culas,[n]atraparla y obligarla a ver a esas horribles[n]versiones no tiene sentido.
 
 [msg MSG_007 [Ann]]
-ぢゅぺるよテ っぺぽよ りゎま っよま まれ まゅ りゎま ゅぺれ らるよをまぼろぺデ ょよ[n]まれ ぽもみウぼもゅ もゆぺむもょぺる りゎま まゅもゃぺ ゎょ ゅゎむぺる りゎま れま[n]ぺぽぺらろま ぺ れゎれ らゅぺょまれ ろぺゆほもイょテ
+Claro. Dado que Doe es el que las proyecta, no[n]es dif胤cil imaginar que elija un lugar que se[n]adapte a sus planes tambi姻n.
 
 [msg MSG_008 [Yusuke]]
 Ya veo. Si va a estar tanto tiempo,[n]tambi姻n pudo hacerlo c吋modo para ella.
@@ -32,7 +32,7 @@ Ya veo. Si va a estar tanto tiempo,[n]tambi姻n pudo hacerlo c吋modo para ella.
 
 [msg MSG_010 [Yusuke]]
 Aunque, tendr胤a ning雨n problema estar[n]atrapado en la residencia de Joker...
-つれ ゎょ ゅゎむぺる ぼカゆよぽよデ を めぺを ぼゎるるをテ ひも ろゎわもまるぺ[n]れゎゆもょもれろるよれ らぺるぺ ぼるまぺる ぺるろま ぼよょゆもむよデ らよぽるウぺ[n]らぺれぺる れまゆぺょぺれ まょ れゎ ぼぺれぺテ
+Es un lugar c吋modo, y hay curry. Si tuviera[n]suministros para crear arte conmigo, podr胤a[n]pasar semanas en su casa.
 
 [msg MSG_011 [Yosuke]]
 Acabo de experimentar un d姻jà vu...
@@ -43,7 +43,7 @@ Pod胤a ver pel胤culas todo el tiempo que[n]quisiera.
 
 [msg MSG_013 [Ann]]
 夷En serio? Pero, 夷no era la misma[n]pel胤cula en bucle hasta que llegamos?
-だぽまゆァれデ みゎま まれぺ めよるるもほゅま らまゅウぼゎゅぺ ぽま[n]なぺゆよれめもぽぺゆぺょテテテ ひイ りゎま ろま まょぼぺょろぺょ ゅぺれ[n]らまゅウぼゎゅぺれ を ろよぽよデ らまるよ エらまるよ ょよ れま わよゅわまるウぺ[n]ぺほゎるるもぽよ?
+Adem茨s, fue esa horrible pel胤cula de[n]Kamoshidaman... S姻 que te encantan las[n]pel胤culas y todo, pero 夷pero no se volver胤a[n]aburrido?
 
 [msg MSG_014 [Hikari]]
 Fue repetitivo, pero no me importaba...[n]En realidad, no me molestaba lo que[n]estaba viendo...
@@ -64,7 +64,7 @@ No tener que pensar mientras vez la[n]pel胤cula... Es casi como si te[n]estuvie
 
 [msg MSG_019 [Naoto]]
 Cuando lleg吋, Hikari no ten胤a[n]intenciones de salir del cine...
-はまるよデ ゆもまょろるぺれ わまウぺ ゅぺれ らまゅウぼゎゅぺれデ ろぺょろよ ゅぺれ[n]らまゅウぼゎゅぺれ ぼよゆよ れゎれ れまょろもゆもまょろよれ まゆらまんぺるよょ ぺ[n]ぼぺゆほもぺるデ を っよま まれぼゎらウぺ ゅぺれ ゅゅぺわまれテ
+Pero, mientras ve胤a las pel胤culas, tanto las[n]pel胤culas como sus sentimientos empezaron a[n]cambiar, y Doe escup胤a las llaves.
 
 [msg MSG_020 [Akechi]]
 Es como si sus acciones estuvieran[n]relacionadas con los cambios del coraz吋n[n]de Hikari y su deseo de salir.
@@ -76,7 +76,7 @@ Es como si sus acciones estuvieran[n]relacionadas con los cambios del coraz吋n[
 Cuando lleg吋, Hikari no ten胤a[n]intenciones de salir del cine...
 Pero, mientras ve胤a las pel胤culas, tanto[n]las pel胤culas como sus sentimientos[n]empezaron a cambiar...
 No podemos asegurar nada, pero debe[n]haber alguna conexi吋n entre el Cine y[n]Hikari.
-ひも ろゎわもまるぺ りゎま ぺらよれろぺる りゎもイょ らよぽるウぺ ぼぺゆほもぺる ゎょ[n]ぼもょま らぺるぺ りゎま まれろイ ゅゅまょよ ぽま らまゅウぼゎゅぺれ りゎま[n]るまみゅまゃまょ まゅ ぼよるぺんカょ ぽま でもやぺるもデ れまるウぺテテテ
+Si tuviera que apostar qui姻n podr胤a cambiar un[n]cine para que est姻 lleno de pel胤culas que[n]reflejen el coraz吋n de Hikari, ser胤a...
 
 [sel SEL_023 top]
 Doe.
@@ -119,7 +119,7 @@ Debo decir que estoy de acuerdo...
 Sin embargo, no tenemos idea de cu茨les[n]son las intenciones de Doe, as胤 que no[n]podemos decir nada con certeza a雨n.
 
 [msg MSG_034 [Akihiko]]
-ひゎらよょむよ りゎま ろよぽよ ゅよ りゎま らよぽまゆよれ めぺぼまる まれ[n]まょぼよょろるぺるゅよ を めぺぼまる りゎま るまれらよょぽぺテ ばゎもイょ れぺほま[n]れも まれよ るまぺゅゆまょろま ょよれ れまるわもるァ ぽま ぺゅむよテテテ
+Supongo que todo lo que podemos hacer es[n]encontrarlo y hacer que responda. Qui姻n sabe[n]si eso realmente nos servir茨 de algo...
 Hikari y Doe entraron en esta pel胤cula,[n]夷verdad? Tiene que haber una raz吋n por[n]la que hizo ese movimiento.
 
 [msg MSG_035 [Shinjiro]]

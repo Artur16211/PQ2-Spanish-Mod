@@ -188,13 +188,13 @@ Bien, sigamos.
 Vamos, chicos.
 
 [msg MONA_BATTLE_CHANGE_DUNGE]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg MONA_BATTLE_CHANGE_DUNGE_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg MONA_BATTLE_CHANGE_DUNGE_3]
-■ト
+■:
 
 [msg MONA_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

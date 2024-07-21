@@ -188,13 +188,13 @@ Prefiero luchar contra alguien m茨s[n]fuerte.
 斡Buenas t茨cticas! 斡Lo hicimos!
 
 [msg SANADA_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg SANADA_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg SANADA_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg SANADA_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

@@ -66,7 +66,7 @@ Vamos, no es una mascota que se escap吋 y[n]se volvi吋 salvaje. Eso es imposib
 
 [msg MSG_021 [Yusuke]]
 Es cierto que la col no evoca la misma[n]imagen de hierba que la lechuga...
-へデ ぺゎょりゎま まれろァ ぽまゅもぼもよれぺデ れも ぼよゆらるぺれ ゎょぺ[n]ぼぺほまんぺ ぽま ぼよゅ ぼゎぺょぽよ まれろァ ぽま よみまるろぺデ まれ[n]ぽもみウぼもゅ ぺぼぺほァるれまゅぺ ぺょろまれ ぽま りゎま れま まれろるよらままテ
+Y, aunque est茨 deliciosa, si compras una[n]cabeza de col cuando est茨 de oferta, es[n]dif胤cil acab茨rsela antes de que se estropee.
 
 [msg MSG_022 [P4 Hero]]
 斡Conozco a alguien con ese mismo[n]problema!

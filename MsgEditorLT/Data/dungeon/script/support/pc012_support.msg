@@ -35,7 +35,7 @@ Ten cuidado. Ser胤a un fastidio si nos[n]atrapan.
 Qu姻 trampa m茨s molesta.
 
 [msg ARAGAKI_DENKISAKU_REACTI]
-ぴょぺ らゎまるろぺ まゅイぼろるもぼぺデ まめテテテ つれろよ ぺらまれろぺデ[n]らまるよ ろよゆまゆよれ ゅぺ るゎろぺ ゆァれ ゅぺるむぺテ
+Una puerta el姻ctrica, eh... Esto apesta,[n]pero tomemos la ruta m茨s larga.
 
 [msg ARAGAKI_DENKISAKU_REACTI_2]
 Mejor busca el interruptor para[n]apagar la energ胤a...
@@ -188,13 +188,13 @@ Movimientos s吋lidos.
 Esperemos que el pr吋ximo tambi姻n sea[n]as胤.
 
 [msg ARAGAKI_BATTLE_CHANGE_DU]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg ARAGAKI_BATTLE_CHANGE_DU_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg ARAGAKI_BATTLE_CHANGE_DU_3]
-■ト
+■:
 
 [msg ARAGAKI_ITEM_90_DUNGEON_]
 (DGP郁BLICA)
@@ -233,7 +233,7 @@ No tiene sentido preocuparse por[n]esto. Vamos a abordarlo con calma.
 A mitad de camino, 夷eh? Parece que[n]a雨n tenemos trecho por recorrer.
 
 [msg ARAGAKI_TOUHA_50_2]
-びまょウぺ ゅぺ れまょれぺぼもカょ ぽま りゎま ょよれ まれろァほぺゆよれ[n]ぺぼまるぼぺょぽよ ぺ ょゎまれろるよ よほゃまろもわよテテテ
+Ten胤a la sensaci吋n de que nos est茨bamos[n]acercando a nuestro objetivo...
 
 [msg ARAGAKI_TOUHA_75_1]
 Este mapa est茨 empezando a tomar[n]forma.
@@ -269,7 +269,7 @@ Vaya, luce bastante bien.
 Podr胤a jurar que Aki mencion吋 algo[n]sobre perder peso y esas cosas...
 
 [msg ARAGAKI_MAPPING_ICON_DEL_2]
-ぬぺょろまょまる ゅぺれ ぼよれぺれ まょ よるぽまょ らゎまぽま ゆぺるぼぺる[n]ゎょぺ わまるぽぺぽまるぺ ぽもみまるまょぼもぺデ まれらまぼもぺゅゆまょろま[n]ぺりゎウテ
+Mantener las cosas en orden puede marcar[n]una verdadera diferencia, especialmente[n]aqu胤.
 
 [msg ARAGAKI_MAPPING_MEMO_1]
 Tomar notas es importante.

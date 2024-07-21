@@ -16,13 +16,13 @@ No estoy seguro de entenderlo, pero[n]significa que hay otro grupo como[n]nosotr
 
 [msg MSG_005 [Mitsuru]]
 Y nuestras personalidades en ambos[n]mundos son iguales, existiendo al mismo[n]tiempo.
-はよる ゅよ りゎま めま よウぽよデ ょゎまれろるぺれ めぺほもゅもぽぺぽまれ を[n]わもぽぺれ ろぺゆほもイょ れよょ ゅぺれ ゆもれゆぺれテ つょろよょぼまれテテテ エはよる[n]りゎイ れよょ れよゅよ ゎれろまぽまれ ぽよれ ぽもみまるまょろまれ?
+Por lo que he o胤do, nuestras habilidades y[n]vidas tambi姻n son las mismas. Entonces... 夷Por[n]qu姻 son solo ustedes dos diferentes?
 
 [msg MSG_006 [P3 Hero]]
 Muy interesante, 夷eh?
 
 [msg MSG_007 [Junpei]]
-"ィエとょろまるまれぺょろま?!" ィエつひの まれ ろよぽよ ゅよ りゎま ろもまょまれ[n]りゎま ぽまぼもる ぺゅ るまれらまぼろよ?! でよゆほるまデ まるまれ もむゎぺゅ ぽま[n]ぽまれらるまよぼゎらぺぽよ りゎま れもまゆらるまテテテ
+"斡夷Interesante?!" 斡夷ESO es todo lo que tienes[n]que decir al respecto?! Hombre, eres igual de[n]despreocupado que siempre...
 
 [msg MSG_008 [Akihiko]]
 "Yo soy 姻l y 姻l soy yo..."

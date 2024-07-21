@@ -9,7 +9,7 @@ Mientras m茨s caminamos por este piso de[n]pel胤cula, m茨s siento que me est�
 Hmh... As胤 que esto es lo que Enlil[n]llama "salvaci吋n".
 
 [msg MSG_003 [Ken]]
-ひも ゅぺ るまぺゅもぽぺぽ まれ ぽまゆぺれもぺぽよ ぽよゅよるよれぺデ まゅゅぺ ゅまれ[n]よみるまぼま ゅぺ よらぼもカょ ぽま まれぼぺらぺるテ ひゎらよょむよ りゎま まれよ[n]まれ ゎょぺ まれらまぼもま ぽま れぺゅわぺぼもカょテテテ
+Si la realidad es demasiado dolorosa, ella les[n]ofrece la opci吋n de escapar. Supongo que eso[n]es una especie de salvaci吋n...
 Pero yo no podr胤a soportar esto. Si solo[n]escapara de mis problemas, ninguno se[n]resolver胤a.
 
 [msg MSG_004 [Hikari]]

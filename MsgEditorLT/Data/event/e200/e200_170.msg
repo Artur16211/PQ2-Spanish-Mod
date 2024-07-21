@@ -71,7 +71,7 @@ Es un disfraz. Puede quit茨rselo.
 斡夷Hab胤a alguien adentro?!
 
 [msg MSG_022 [Teddie]]
-のめデ エまれろァれ ろぺょ れよるらるまょぽもぽぺ らよる ゅぺ るまらまょろもょぺ[n]ぺらぺるもぼもカょ ぽま ゎょ ぼめもぼよ ろぺょ むゎぺらよ りゎま ろま めぺれ[n]りゎまぽぺぽよ れもょ らぺゅぺほるぺれ? どもデ ゃもデ ゃもテテテ
+Oh, 夷est茨s tan sorprendida por la repentina[n]aparici吋n de un chico tan guapo que te has[n]quedado sin palabras? Ji, ji, ji...
 
 [sel SEL_023 top]
 Wow.

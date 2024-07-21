@@ -521,10 +521,10 @@
 [f 0 5 65278][f 2 1]斡La resistencia de [f 2 4 1] explot吋![n][e]
 
 [msg BTLMSGID_DEADACTION]
-[f 0 5 65278][f 2 1]ィぢよょ れゎれ グゅろもゆぺれ みゎまるんぺれデ [f 2 4 0] ゎろもゅもんカ [f 2 4 3]![n][e]
+[f 0 5 65278][f 2 1]斡Con sus 雨ltimas fuerzas, [f 2 4 0] utiliz吋 [f 2 4 3]![n][e]
 
 [msg BTLMSGID_DEADACTION_18E]
-[f 0 5 65278][f 2 1]ィぢよょ れゎれ グゅろもゆぺれ みゎまるんぺれデ [f 2 4 0] ぺゎゆまょろカ [f 2 4 3]![n][e]
+[f 0 5 65278][f 2 1]斡Con sus 雨ltimas fuerzas, [f 2 4 0] aument吋 [f 2 4 3]![n][e]
 
 [msg BTLMSGID_RARE_DASH]
 [f 0 5 65278][f 2 1]斡El brillo de [f 2 4 0] se intensifica![n][e]

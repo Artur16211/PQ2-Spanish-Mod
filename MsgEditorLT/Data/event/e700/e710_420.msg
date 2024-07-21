@@ -2,7 +2,7 @@
 Tenemos la ubicaci吋n de Kamoshidaman...[n]Una vez que entremos, no podemos[n]regresar.
 
 [msg MSG_001 [P3 Fem Protag]]
-でまゆよれ ゅゅまむぺぽよ めぺれろぺ ぺりゎウデ ぺれウ りゎま ろよぽよ ゅよ りゎま[n]りゎまぽぺ まれ らよょまる ょゎまれろるよ らゅぺょ まょ ぺぼぼもカょテ[n]ィでぺむぺゆよれ ほもまょデ ぼよょ ぼよょみもぺょんぺ を らるまぼぺゎぼもカょ!
+Hemos llegado hasta aqu胤, as胤 que todo lo que[n]queda es poner nuestro plan en acci吋n.[n]斡Hagamos bien, con confianza y precauci吋n!
 
 [msg MSG_002 [Morgana]]
 Joker, 夷est茨s listo?

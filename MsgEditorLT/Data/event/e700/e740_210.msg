@@ -27,5 +27,5 @@ Tiene el cuerpo de un peso pesado, pero[n]la agilidad de un peso pluma... 斡Qu�
 
 [msg MSG_009 [Mitsuru]]
 No importa lo r茨pido que sea, [f 0 1 2]debe tener[n]alg雨n tipo de patr吋n como los otros FOE[f 0 1 0].
-ひも よほれまるわぺゆよれ ぼゎもぽぺぽよれぺゆまょろま れゎ ゆよわもゆもまょろよデ ょよ[n]ぽまほまるウぺ れゎらよょまる ゎょぺ ぺゆまょぺんぺ らぺるぺ ょよれよろるよれテテテ[n]ちゎまょぺ れゎまるろまデ どよやまるテ
+Si observamos cuidadosamente su movimiento, no[n]deber胤a suponer una amenaza para nosotros...[n]Buena suerte, Joker.
 

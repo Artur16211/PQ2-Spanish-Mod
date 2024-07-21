@@ -69,7 +69,7 @@ Es muy linda en persona, 夷verdad? Tiene[n]una vibra totalmente diferente a Ann
 
 [msg MSG_020 [Chica Alegre]]
 S胤, escuch姻 un poco sobre los dem茨s y[n]esas cosas...
-はまるよデ めぺを ゆゎぼめよ ぽま ゅよ りゎま ろまょむよ ぼゎるもよれもぽぺぽデ[n]エらよぽるウぺょ ぽぺるゆま ゎょぺ ぺぼろゎぺゅもんぺぼもカょ ぽま ょゎまれろるぺ[n]れもろゎぺぼもカょ ぺぼろゎぺゅ らるもゆまるよ?
+Pero, hay mucho de lo que tengo curiosidad,[n]夷podr胤an darme una actualizaci吋n de nuestra[n]situaci吋n actual primero?
 
 [msg MSG_021 [P4 Hero]]
 S胤, tambi姻n queremos m茨s informaci吋n.

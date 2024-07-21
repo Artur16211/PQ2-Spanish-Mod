@@ -109,7 +109,7 @@ Dudo que incluso quedaran cenizas... No,[n]斡Simplemente debo aceptar tu 雨lti
 Parece que ha llegado mi hora...
 
 [msg MSG_032 [Ken]]
-のめ わぺをぺデ ィねよ らゎまぽよ ぼるままる りゎま まれろイ ぼぺゆもょぺょぽよ[n]ぼよょ ろぺょろぺ ぼよょみもぺょんぺ! ィねよ まれ ぽま まゑろるぺォぺる りゎま[n]れまぺ まゅ ゅウぽまる ぽま ゅよれ にぺぽるよょまれ づぺょろぺれゆぺ!
+Oh vaya, 斡No puedo creer que est姻 caminando[n]con tanta confianza! 斡No es de extra隠ar que[n]sea el l胤der de los Ladrones Fantasma!
 
 [msg MSG_033 [Yukari]]
 Su equilibrio es tan perfecto, incluso a[n]esa velocidad...
@@ -157,7 +157,7 @@ Apuesto a que esto ser茨 f茨cil si[n]simplemente pienso en la viga de acero[n]
 斡Yukiko tambi姻n tiene agallas!
 
 [msg MSG_047 [Yusuke]]
-ィひゎ ぺらぺるもまょぼもぺ ぽまれぽま ぺろるァれ ゆもまょろるぺれ ぼるゎんぺデ ぼよょ[n]れゎ わもぽぺ まょ ゃゎまむよデ まれ ゎょぺ ゆぺるぺわもゅゅぺ ぽま[n]ぼよょろまゆらゅぺる! ィでぺ ぼよょゆよわもぽよ ゅよ ゆァれ らるよみゎょぽよ ぽま[n]ゆも ぺゅゆぺ!
+斡Su apariencia desde atr茨s mientras cruza, con[n]su vida en juego, es una maravilla de[n]contemplar! 斡Ha conmovido lo m茨s profundo de[n]mi alma!
 En ese caso, deber胤a ir yo. 斡Encarnar姻 a[n]la belleza misma con mi t姻cnica!
 
 [sel SEL_048 top]
@@ -199,7 +199,7 @@ Uh, 夷qu姻 est茨 haciendo? 夷Realmente...[n]est茨 arriesgando su vida por u
 Solo quedamos nosotros. 夷Qui姻n sigue?
 
 [msg MSG_060 [Ann]]
-つれろま まれ まゅ ろもらよ ぽま れもろゎぺぼもカょ りゎま れま わゎまゅわま ゆァれ[n]まれろるまれぺょろま ぼゎぺょろよ ゆァれ まれらまるぺゆよれテテテ エっまほまるウぺゆよれ[n]もる ろよぽよれ ゃゎょろよれ?
+Este es el tipo de situaci吋n que se vuelve m茨s[n]estresante cuanto m茨s esperamos... 夷Deber胤amos[n]ir todos juntos?
 
 [msg MSG_061 [Yukari]]
 斡Buena idea! 夷Quieres tomar la[n]delantera, Panther?
@@ -238,7 +238,7 @@ Menos mal. 斡Bien hecho los tres!
 Uf... Siento que logr姻 cruzar esa viga[n]gracias a que Ken lider吋 el camino.
 
 [msg MSG_073 [Ken]]
-つょ るまぺゅもぽぺぽデ をよ ろぺゆほもイょ ろまょウぺ ゆもまぽよテテテ はまるよデ[n]エぺゅ ゆまょよれ ぽまゆよれろるイ りゎま らゎまぽよ れまむゎもる ぼゎぺょぽよ ゅぺれ[n]ぼよれぺれ れま らよょまょ ぽもみウぼもゅまれ?
+En realidad, yo tambi姻n ten胤a miedo... Pero,[n]夷al menos demostr姻 que puedo seguir cuando las[n]cosas se ponen dif胤ciles?
 
 [sel SEL_074 top]
 Lo hiciste genial.

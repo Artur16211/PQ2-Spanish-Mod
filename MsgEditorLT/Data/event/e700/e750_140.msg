@@ -38,7 +38,7 @@ Me estoy poniendo celoso…
 Eh... 夷Te importar胤a... cambiar lugares?
 
 [msg MSG_012 [Mitsuru]]
-はまょれぺる りゎま まゅ わもまょろよ らゎまぽま れまる ろぺょ みゎまるろま ぼよゆよ[n]らぺるぺ めぺぼまるょよれ みゅよろぺるテテテ ひゎらよょむよ りゎま ろゎわもゆよれ[n]れゎまるろま ぽま ょよ ぼぺまる まょ まれま ぺむゎゃまるよテ
+Pensar que el viento puede ser tan fuerte como[n]para hacernos flotar... Supongo que tuvimos[n]suerte de no caer en ese agujero.
 Parece que tendremos que tener m茨s[n]precauci吋n a partir de ahora.
 
 [msg MSG_013 [Yosuke]]
@@ -55,7 +55,7 @@ S胤, estamos en el mundo de Enlil, quien[n]sabe lo que nos espera adelante.
 ...夷Hrmm? 斡Estoy flotando! 斡夷C吋mo?!
 
 [msg MSG_016 [Mitsuru]]
-はまょれぺる りゎま まゅ わもまょろよ らゎまぽま れまる ろぺょ みゎまるろま ぼよゆよ[n]らぺるぺ めぺぼまるょよれ みゅよろぺるテテテ ひゎらよょむよ りゎま ろゎわもゆよれ[n]れゎまるろま ぽま ょよ ぼぺまる まょ まれま ぺむゎゃまるよテ
+Pensar que el viento puede ser tan fuerte como[n]para hacernos flotar... Supongo que tuvimos[n]suerte de no caer en ese agujero.
 Parece que tendremos que tener m茨s[n]precauci吋n a partir de ahora.
 
 [msg MSG_017 [Yosuke]]

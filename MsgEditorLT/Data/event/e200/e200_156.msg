@@ -50,7 +50,7 @@ No hay poes胤a por ning雨n lado,[n]夷entendido? 斡Ser茨 mejor que no te and
 斡Vaya, es como un libro abierto! 斡Es la[n]m茨s f茨cil de leer!
 
 [msg MSG_013 [Morgana]]
-ぬま らるまむゎょろよ れも まれ ゅぺ ょぺろゎるぺゅまんぺ めゎゆぺょぺ よ ゆも[n]ゅぺぽよ ぽま ゅぺぽるカょ みぺょろぺれゆぺデ ゅよ りゎま ゆま めぺぼま りゎまるまる[n]るまわもれぺる まれぺれ ぼよれぺれ ぺグょ ゆァれ ぺめよるぺテテテ
+Me pregunto si es la naturaleza humana o mi[n]lado de ladr吋n fantasma, lo que me hace querer[n]revisar esas cosas a雨n m茨s ahora...
 
 [msg MSG_014 [Margaret]]
 Si姻ntete libre de pasar y vernos siempre[n]que necesites nuestra ayuda.

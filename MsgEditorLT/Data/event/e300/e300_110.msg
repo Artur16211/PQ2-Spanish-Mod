@@ -47,15 +47,15 @@ S胤, entiendo eso... pero 夷no es un poco[n]peligroso para tu navegadora hacer
 
 [msg MSG_014 [Futaba]]
 斡No, no, no, no te preocupes! Me he[n]infiltrado en Palacios y Mementos con[n]los Ladrones Fantasma antes...
-だぽまゆァれデ ィゆもれ めぺほもゅもぽぺぽまれ ぽま らもるぺろまるウぺ れまるウぺょ[n]れゎらまるグろもゅまれ まょ ゎょ ゆゎょぽよ ぽま ぼもまょぼもぺ みもぼぼもカょ![n]ィでぺるイ ゆァれ ほもまょ ぺゅゅウ りゎま ぺりゎウ みゎまるぺ!
+Adem茨s, 斡mis habilidades de pirater胤a ser胤an[n]super雨tiles en un mundo de ciencia ficci吋n![n]斡Har姻 m茨s bien all胤 que aqu胤 fuera!
 
 [msg MSG_015 [Futaba]]
 Pero, pero... me he infiltrado en[n]Palacios y Mementos con ustedes en el[n]pasado...
-だぽまゆァれデ ィゆもれ めぺほもゅもぽぺぽまれ ぽま らもるぺろまるウぺ れまるウぺょ[n]れゎらまるグろもゅまれ まょ ゎょ ゆゎょぽよ ぽま ぼもまょぼもぺ みもぼぼもカょ![n]ィでぺるイ ゆァれ ほもまょ ぺゅゅウ りゎま ぺりゎウ みゎまるぺ!
+Adem茨s, 斡mis habilidades de pirater胤a ser胤an[n]super雨tiles en un mundo de ciencia ficci吋n![n]斡Har姻 m茨s bien all胤 que aqu胤 fuera!
 
 [msg MSG_016 [Yusuke]]
 Entiendo. Ella tiene un punto.
-っぺぽよ りゎま まゅ ゆゎょぽよ ぽま まれろぺ らまゅウぼゎゅぺ まれろァ[n]ぼよょろるよゅぺぽよ ぼよょ まゅまぼろるカょもぼぺデ ろまょまる ぺ づゎろぺほぺ ぼよょ[n]ょよれよろるよれ れまるウぺ まれらまぼもぺゅゆまょろま グろもゅテ
+Dado que el mundo de esta pel胤cula est茨[n]controlado con electr吋nica, tener a Futaba con[n]nosotros ser胤a especialmente 雨til.
 
 [msg MSG_017 [Morgana]]
 夷Qu姻 hacemos? Personalmente, no creo que[n]nos venga mal, pero depende de ti.

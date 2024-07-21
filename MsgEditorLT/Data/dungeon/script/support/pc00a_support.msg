@@ -95,7 +95,7 @@ Hay algo gracioso en esta 茨rea.
 斡Creo que veo un atajo!
 
 [msg YUKARI_SHORTCUT_FIND_3]
-ィぴょ ぼぺゆもょよ よぼゎゅろよ! ひイ れよほるま ゆまょれぺゃまれ[n]よぼゎゅろよれ まょ ゅぺれ らまゅウぼゎゅぺれデ ィらまるよ まれろよ まれ ゎょぺ[n]ゅよぼゎるぺ!
+斡Un camino oculto! S姻 sobre mensajes[n]ocultos en las pel胤culas, 斡pero esto es una[n]locura!
 
 [msg YUKARI_PARTY_DEAD_1]
 ?
@@ -188,13 +188,13 @@ Hey, 斡esa pelea fue bastante bien!
 斡Punto para el trabajo en equipo![n]Gracias, chicos.
 
 [msg YUKARI_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg YUKARI_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg YUKARI_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg YUKARI_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

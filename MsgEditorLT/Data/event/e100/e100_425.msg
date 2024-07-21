@@ -17,7 +17,7 @@ Acab茨bamos de preguntarle a Nagi si[n]pod胤a encontrar los suministros que[n]
 
 [msg MSG_005 [Nagi]]
 S胤, justo como predijiste, hab胤a algunos[n]nuevos en la sala de suministros.
-びぺゆほもイょ まょぼよょろるイ ゅぺれ めまるるぺゆもまょろぺれ りゎま らまぽもれろまテ[n]だゎょりゎまテテテ れよょ ほぺれろぺょろま ぺょろもむゎぺれデ ぺれウ りゎま ょよ[n]まれろよを れまむゎるぺ ぽま れも れまるァょ グろもゅまれテ
+Tambi姻n encontr姻 las herramientas que pediste.[n]Aunque... son bastante antiguas, as胤 que no[n]estoy segura de si ser茨n 雨tiles.
 
 [msg MSG_006 [Yusuke]]
 No, esto es m茨s que suficiente. El resto[n]depende de mis habilidades art胤sticas...

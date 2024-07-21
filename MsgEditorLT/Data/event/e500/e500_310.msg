@@ -30,7 +30,7 @@ Pero creo que m茨s gente seguir asiendo[n]arrastrada por ella.
 Bueno, estamos hablando de las[n]reacciones de las personas al dolor.[n]Estos problemas nunca van a desaparecer.
 
 [msg MSG_010 [Hikari]]
-だゅ みもょぺゅデ ぽまれらゎイれ ぽま ぼぺゆほもぺる ぺ ゅよれ りゎま まれろァょ[n]ぺめよるぺテテテ つょゅもゅ れまむゎもるウぺ ゆよれろるァょぽよゅまれ ゅぺれ[n]らまゅウぼゎゅぺれ りゎま まゅゅぺ りゎもまるぺ ぺ ゅよれ ょゎまわよれテ
+Al final, despu姻s de cambiar a los que est茨n[n]ahora... Enlil seguir胤a mostr茨ndoles las[n]pel胤culas que ella quiera a los nuevos.
 Entonces, esto ser茨 in雨til, as胤 que...[n]Quiero decirle a Enlil lo que siento[n]antes de irnos.
 
 [msg MSG_010_5 [Hikari]]

@@ -30,7 +30,7 @@ Todo comenz吋 cuando estaba devorando[n]palomitas y empec姻 a quedarme dormida
 斡Cuando, de repente! 斡Un brillante rayo[n]de luz sali吋 de esta m茨quina de[n]entradas!
 
 [msg MSG_008 [Ryuji]]
-だれウ りゎまデ ゆもまょろるぺれ まれろァほぺゆよれ ぺゅゅァ ろるぺほぺゃぺょぽよ[n]ぽゎるよデ まれろぺ ゆゎゃまる まれろぺほぺ ぽもれみるゎろぺょぽよ ぽま[n]らぺゅよゆもろぺれ を まぼめァょぽよれま ゎょぺ れもまれろぺテテテ
+As胤 que, mientras est茨bamos all茨 trabajando[n]duro, esta mujer estaba disfrutando de[n]palomitas y ech茨ndose una siesta...
 
 [msg MSG_009 [Elizabeth]]
 Esta luz que contempl姻 era tan[n]deslumbrante que no tuve m茨s opci吋n que[n]limpiarme la babilla y ponerme de pie.
@@ -48,7 +48,7 @@ Ahora puede emitir entradas para[n]"Proyecciones Especiales".
 夷Qu姻 es una proyecci吋n especial?
 
 [msg MSG_014 [Elizabeth]]
-ひも "なぺゆよれめもぽぺゆぺょ" まれ ゎょぺ らまゅウぼゎゅぺ ぽま ゅぺるむぺ[n]ぽゎるぺぼもカょデ まょろよょぼまれ ゅぺれ らるよをまぼぼもよょまれ まれらまぼもぺゅまれ[n]らゎまぽまょ ぼよょれもぽまるぺるれま ぼよゆよ ぼよるろよゆまろるぺゃまれテ
+Si "Kamoshidaman" es una pel胤cula de larga[n]duraci吋n, entonces las proyecciones especiales[n]pueden considerarse como cortometrajes.
 Su objetivo no es cambiar los finales,[n]sino que lograr los objetivos fijados[n]pondr茨 fin a las proyecciones...
 ...Eso es lo que dice en el manual de[n]instrucciones
 
@@ -75,7 +75,7 @@ Extravagante, 夷dices?
 夷Ves? 夷No es esto incre胤blemente genial?[n]Aunque no tengo idea de por qu姻 hace[n]tanto por nosotros.
 
 [msg MSG_022 [Elizabeth]]
-ひも らゎまぽよ らるまれまょぼもぺる ゎょぺ らまゅウぼゎゅぺ もょろるもむぺょろまデ[n]まょろよょぼまれ まれろま まれ ゎょ らまりゎまォよ らるまぼもよ ぺ らぺむぺるテ[n]ぢよょれもぽイるぺゅよ ぼよゆよ ゎょ むまれろよ ぽま ゆも むるぺろもろゎぽテ
+Si puedo presenciar una pel胤cula intrigante,[n]entonces este es un peque隠o precio a pagar.[n]Consid姻ralo como un gesto de mi gratitud.
 
 [msg MSG_023 [P4 Hero]]
 ...Est茨 demasiado metida en esto.
@@ -117,7 +117,7 @@ En particular, debes "Derrotar a Ocho[n]Basaltos".
 
 [msg MSG_034 [Elizabeth]]
 En caso de que tengas 姻xito, recibir茨s[n]una recompensa monetaria...
-ねよ れよゅよ まれよデ ろぺゆほもイょ ぺらぺるまぼまるァ まょ ゅぺ ろもまょぽぺ ゎょ[n]"ちるぺんぺゅまろま ぢゎるぺろもわよ" りゎま れま らゎまぽま みぺほるもぼぺる ぼよょ[n]ゅよれ ゆぺろまるもぺゅまれ りゎま ぽまゃぺょ まれよれ まょまゆもむよれテ
+No solo eso, tambi姻n aparecer茨 en la tienda un[n]"Brazalete Curativo" que se puede fabricar con[n]los materiales que dejan esos enemigos.
 
 [msg MSG_035 [Akechi]]
 夷Qu姻 es un Brazalete Curativo?
@@ -130,7 +130,7 @@ Es un accesorio excepcional que permite[n]el uso de un hechizo curativo a quien 
 斡夷Espera, tenemos que pagarlo?!
 
 [msg MSG_038 [Yusuke]]
-のみるまぼもまょぽよ ゎょぺ るまぼよゆらまょれぺデ を ゅゎまむよ めぺぼもイょぽよょよれ[n]らぺむぺる らよる ぽもぼめぺ るまぼよゆらまょれぺテテテ はぺるまぼま りゎま まるまれ[n]ゎょぺ ぼよゆまるぼもぺょろま まゑらまるろぺテ
+Ofreciendo una recompensa, y luego haci姻ndonos[n]pagar por dicha recompensa... Parece que eres[n]una comerciante experta.
 
 [msg MSG_039 [P4 Hero]]
 Pero, un equipo nuevo como ese ser胤a[n]雨til, mejorar胤a nuestras posibilidades[n]en la batalla tambi姻n...
@@ -143,9 +143,9 @@ Est茨 bien.
 Si encontramos el tiempo para ello.
 
 [msg MSG_042 [Makoto]]
-ひも らよぽまゆよれ ぺゎゆまょろぺる ょゎまれろるよ らよろまょぼもぺゅ ぽま[n]ほぺろぺゅゅぺ ぼよょ まれろぺれ るまぼよゆらまょれぺれデ ょよれ ぺをゎぽぺるァょ ぺ[n]ぺぼまゅまるぺる ょゎまれろるよれ まれみゎまるんよれ ぽま まゑらゅよるぺぼもカょテテテ
-ねよ れよゅよ まれよデ れも ょよれ もょわよゅゎぼるぺゆよれ まょ[n]ぺぼろもわもぽぺぽまれ りゎま ぽもみもまるぺょ ぽま ょゎまれろるよれ まれみゎまるんよれ[n]めぺほもろゎぺゅまれデ ろぺゆほもイょ ぽまほまるウぺょ ぺをゎぽぺるょよれ ぺ[n]みよるろぺゅまぼまるょよれテ
-だわぺょぼまゆよれ ぼよょ まれろぺれ らまゅウぼゎゅぺれ ぼよるろぺれ ゆもまょろるぺれ[n]らるよむるまれぺゆよれ ぺ ろるぺわイれ ぽま ゅぺれ らまゅウぼゎゅぺれテテテ[n]っまれらゎイれ ぽま ろよぽよデ ぽまれらぺぼもよデ らまるよ ぼよょれろぺょろまデ[n]むぺょぺ ゅぺ ぼぺるるまるぺテ
+Si podemos aumentar nuestro potencial de[n]batalla con estas recompensas, nos ayudar茨n a[n]acelerar nuestros esfuerzos de exploraci吋n...
+No solo eso, si nos involucramos en[n]actividades que difieran de nuestros esfuerzos[n]habituales, tambi姻n deber胤an ayudarnos a[n]fortalecernos.
+Avancemos con estas pel胤culas cortas mientras[n]progresamos a trav姻s de las pel胤culas...[n]Despu姻s de todo, despacio, pero constante,[n]gana la carrera.
 
 [msg MSG_043 [Elizabeth]]
 Por el momento, estas entradas no tienen[n]l胤mite de tiempo en particular.

@@ -113,128 +113,128 @@ Espero tu pr吋xima visita.
 Not used
 
 [msg WSHOP_THEO_SHOP_1ST_IN_M]
-"だゎゆまょろぺる まゅ もょわまょろぺるもよ ぽま ゅぺ ろもまょぽぺ"[n][f 0 1 2]ふまょぽもまょぽよ ゆぺろまるもぺゅまれ[f 0 1 0] よほろまょもぽよれ まょ ゅよれ[n]ゅぺほまるもょろよれデ びめまよぽよるま らよぽるァ ゎろもゅもんぺる れゎ ゆァりゎもょぺ[n]ぽま らぺゅよゆもろぺれ らぺるぺ [f 0 1 2]ぼるまぺる ょゎまわよれ らるよぽゎぼろよれ[f 0 1 0]テ
-"ぢよゆらゅまろぺょぽよ らまぽもぽよれ ぽま ょゎまわよれ らるよぽゎぼろよれ"[n]だゅむゎょよれ らるよぽゎぼろよれ ょゎまわよれ らゎまぽまょ るまりゎまるもる[n][f 0 1 2]ゆグゅろもらゅまれ ゎょもぽぺぽまれ ぽまゅ ゆもれゆよ ゆぺろまるもぺゅ[f 0 1 0]テ[n]ぢゎぺゅりゎもまる ゆぺろまるもぺゅ りゎま れまぺ ょまぼまれぺるもよ まれろぺるァ[n]ゆぺるぼぺぽよ ぼよょ [f 0 1 2]ねまぼまれぺるもよ[f 0 1 0]テ
+"Aumentar el inventario de la tienda"[n][f 0 1 2]Vendiendo materiales[f 0 1 0] obtenidos en los[n]laberintos, Theodore podr茨 utilizar su m茨quina[n]de palomitas para [f 0 1 2]crear nuevos productos[f 0 1 0].
+"Completando pedidos de nuevos productos"[n]Algunos productos nuevos pueden requerir[n][f 0 1 2]m雨ltiples unidades del mismo material[f 0 1 0].[n]Cualquier material que sea necesario estar茨[n]marcado con [f 0 1 2]Necesario[f 0 1 0].
 
 [msg WSHOP_THEO_SHOP_1ST_IN_M_2]
 Presiona el [f 0 1 2]bot吋n Y[f 0 1 0] para ver el objeto[n]con m茨s detalle.
 
 [msg WSHOP_THEO_SHOP_1ST_IN_M_3]
-"ぬぺろまるもぺゅまれ もょれゎみもぼもまょろまれ" はゎまぽまれ わまる[n]もょみよるゆぺぼもカょ ぽま ぽもみまるまょろまれ ゆぺろまるもぺゅまれデ ぼよゆよ れゎれ[n]ゎほもぼぺぼもよょまれ を ぼカゆよ よほろまょまるゅよれテ だれまむグるぺろま ぽま[n]ぺらるよわまぼめぺる まれろぺ みゎょぼもカょ れも ぽまれまぺれ ぺむるまむぺる ゎょ[n]らるよぽゎぼろよ まれらまぼウみもぼよ ぺ ゅぺ ろもまょぽぺテ
+"Materiales insuficientes" Puedes ver[n]informaci吋n de diferentes materiales, como sus[n]ubicaciones y c吋mo obtenerlos. Aseg雨rate de[n]aprovechar esta funci吋n si deseas agregar un[n]producto espec胤fico a la tienda.
 No solo recibir茨s dinero por vender,[n]sino que tambi姻n podr茨s fabricar nuevos[n]productos.
 
 [msg WSHOP_TUTORIAL_UNKNOWN]
-"つわぺゅゎぺる" ぢゎぺょぽよ ゎろもゅもんぺれ [f 0 1 2]つわぺゅゎぺる[f 0 1 0] まょ ゎょ よほゃまろよ[n]ょよ もぽまょろもみもぼぺぽよデ よほろまょぽるァれ [f 0 1 2]ゎょ ぺぼぼまれよるもよ りゎま[n]らゎまぽま よみるまぼまる ゎょぺ わぺるもまぽぺぽ ぽま ほまょまみもぼもよれ[f 0 1 0]テ[n]とょろまょろぺ まわぺゅゎぺる よほゃまろよれ れもまゆらるま りゎま らゎまぽぺれテ
+"Evaluar" Cuando utilizas [f 0 1 2]Evaluar[f 0 1 0] en un objeto[n]no identificado, obtendr茨s [f 0 1 2]un accesorio que[n]puede ofrecer una variedad de beneficios[f 0 1 0].[n]Intenta evaluar objetos siempre que puedas.
 
-[msg WSHOP_HELLO_NEWYEAR [だいだら．のオヤジ]]
+[msg WSHOP_HELLO_NEWYEAR [AいAp．O謂ヤジ]]
 Not used
 
-[msg WSHOP_HELLO_RAIN [だいだら．のオヤジ]]
+[msg WSHOP_HELLO_RAIN [AいAp．O謂ヤジ]]
 Not used
 
-[msg WSHOP_HELLO_THUNDER [だいだら．のオヤジ]]
+[msg WSHOP_HELLO_THUNDER [AいAp．O謂ヤジ]]
 Not used
 
-[msg WSHOP_HELLO_SNOW [だいだら．のオヤジ]]
+[msg WSHOP_HELLO_SNOW [AいAp．O謂ヤジ]]
 Not used
 
-[msg WSHOP_HELLO_SELL_RAIN [だいだら．のオヤジ]]
+[msg WSHOP_HELLO_SELL_RAIN [AいAp．O謂ヤジ]]
 Not used
 
-[msg WSHOP_HELLO_SELL_THUNDER [だいだら．のオヤジ]]
+[msg WSHOP_HELLO_SELL_THUNDER [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_00_000 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_00_000 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_00_010 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_00_010 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_02_001 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_02_001 [AいAp．O謂ヤジ]]
 Not used
 
 [sel SEL_WSHOP_QUSET_02_010 top]
 S胤
 No
 
-[msg MSG_WSHOP_QUSET_02_021 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_02_021 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_02_000 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_02_000 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_02_020 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_02_020 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_02_030 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_02_030 [AいAp．O謂ヤジ]]
 Not used
 
 [msg MSG_WSHOP_QUSET_02_040]
 Not used
 
-[msg MSG_WSHOP_QUSET_02_050 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_02_050 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_10_000 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_10_000 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_10_010 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_10_010 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_12_001 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_12_001 [AいAp．O謂ヤジ]]
 Not used
 
 [sel SEL_WSHOP_QUSET_12_010 top]
 S胤
 No
 
-[msg MSG_WSHOP_QUSET_12_021 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_12_021 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_12_000 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_12_000 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_12_020 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_12_020 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_12_030 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_12_030 [AいAp．O謂ヤジ]]
 Not used
 
 [msg MSG_WSHOP_QUSET_12_040]
 Not used
 
-[msg MSG_WSHOP_QUSET_12_050 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_12_050 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_20_000 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_20_000 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_20_010 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_20_010 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_22_001 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_22_001 [AいAp．O謂ヤジ]]
 Not used
 
 [sel SEL_WSHOP_QUSET_22_010 top]
 S胤
 No
 
-[msg MSG_WSHOP_QUSET_22_021 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_22_021 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_22_000 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_22_000 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_22_020 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_22_020 [AいAp．O謂ヤジ]]
 Not used
 
-[msg MSG_WSHOP_QUSET_22_030 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_22_030 [AいAp．O謂ヤジ]]
 Not used
 
 [msg MSG_WSHOP_QUSET_22_040]
 Not used
 
-[msg MSG_WSHOP_QUSET_22_050 [だいだら．のオヤジ]]
+[msg MSG_WSHOP_QUSET_22_050 [AいAp．O謂ヤジ]]
 Not used
 
 [msg WSHOP_EXP_EFFECT_T [Theodore]]
@@ -279,7 +279,7 @@ Obtener materiales especiales
 Volver
 
 [msg WSHOP_EXP_ITEM_ADD_ABOUT_2 [Theodore]]
-説明を聞く選択肢用 ダミーメッセージ
+説明y聞く選択肢用 4ミーメ7セージ
 
 [msg WSHOP_EXP_NEW_ITEM_T [Theodore]]
 Vender los materiales que encuentres en[n]los laberintos puede permitirme crear[n]nuevos productos.

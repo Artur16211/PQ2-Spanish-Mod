@@ -55,19 +55,19 @@ Maldici吋n... 夷Ya terminamos?
 斡Un atajo! 夷Quieres tomarlo?
 
 [msg MSG_013 [Ryuji]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Ryuji]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Ryuji]]
 Vaya, no podemos pasar desde este[n]extremo.
 
 [msg MSG_016 [Ryuji]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Ryuji]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Ryuji]]
 Eh, 夷oye... ustedes tambi姻n est茨n[n]asustados, no?

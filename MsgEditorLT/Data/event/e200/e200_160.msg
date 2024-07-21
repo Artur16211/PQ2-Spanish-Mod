@@ -87,7 +87,7 @@ Entiendo. Fuego Negro... realmente[n]encarna su verdadera naturaleza despu姻s[n
 Oye, 夷qu姻 tal Okami? La palabra japonesa[n]para la due隠a de un hotel suena mucho[n]m茨s intimidante que "Azafata", 夷verdad?
 
 [msg MSG_026 [Ann]]
-つるまれ ろぺょ ろよょろよテテテ っま めまぼめよデ ぼよょれもぽまるぺょぽよ りゎま ぺ[n]ゅよれ めゎイれらまぽまれ まゑろるぺょゃまるよれ ゅまれ まょぼぺょろぺ ゎれぺる[n]ろイるゆもょよれ ぼよゆよ れゎれめも を むまもれめぺデ のやぺゆも ょよ まれろァ[n]ゆぺゅテテテ
+Eres tan tonto... De hecho, considerando que a[n]los hu姻spedes extranjeros les encanta usar[n]t姻rminos como sushi y geisha, Okami no est茨[n]mal...
 
 [msg MSG_027 [Chie]]
 Parece que van a empezar a brotar[n]palabras japonesas como teriyaki y[n]tempura para nuestros nombres clave...

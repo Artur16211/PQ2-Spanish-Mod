@@ -35,7 +35,7 @@ Oh, vamos. Deja de burlarte...
 Pero, ahora que lo pienso, deber胤amos[n]ser cautelosos, por si de repente somos[n]atacados por algo.
 
 [msg MSG_010 [Yusuke]]
-テテテはよる ぼもまるろよデ れイ りゎま ろまょまゆよれ ゅぺ もょろまょぼもカょ ぽま[n]ぼぺゆほもぺる まゅ みもょぺゅ ぽま まれろぺ らまゅウぼゎゅぺデ らまるよ エりゎイ[n]れま れゎらよょま りゎま めぺむぺゆよれ まゑぺぼろぺゆまょろま?
+...Por cierto, s姻 que tenemos la intenci吋n de[n]cambiar el final de esta pel胤cula, pero 夷qu姻[n]se supone que hagamos exactamente?
 
 [msg MSG_011 [Ryuji]]
 Fue bastante f茨cil saber qu姻 hacer con[n]Kamoshidaman, solo ten胤amos que golpear[n]al malo.

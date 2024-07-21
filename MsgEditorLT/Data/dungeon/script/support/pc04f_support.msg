@@ -38,7 +38,7 @@ Ev胤talos y que no te vean.
 A menos que impida la electricidad,[n]no puede proceder.
 
 [msg JUSTINE_DENKISAKU_REACTI_2]
-つれ ゆゎを らるよほぺほゅま りゎま めぺをぺ ゎょ もょろまるるゎらろよる[n]らぺるぺ ぽまれぺぼろもわぺる ゅぺ まょまるむウぺテ
+Es muy probable que haya un interruptor[n]para desactivar la energ胤a.
 
 [msg JUSTINE_DENKISAKU_REACTI_3]
 Si encuentras el interruptor podr茨s[n]avanzar.
@@ -125,7 +125,7 @@ Deber胤amos abortar la misi吋n.
 Es obvio que todos est茨n fatigados.
 
 [msg JUSTINE_PARTY_HP10_1]
-つれよ まれ もょゎれゎぺゅゆまょろま ぼよゆらぺれもわよ らよる ろゎ らぺるろまデ[n]ぢぺるよゅもょまテテテ へ まれろよを ぽま ぺぼゎまるぽよテ
+Eso es inusualmente compasivo por tu parte,[n]Caroline... Y estoy de acuerdo.
 
 [msg JUSTINE_PARTY_HP10_2]
 Veo que la salud del grupo est茨[n]disminuyendo constantemente.
@@ -149,7 +149,7 @@ Caroline, deber胤amos dejarlos[n]descansar.
 Todos est茨n agotados... Hag茨moslos[n]regresar y descansar, Caroline.
 
 [msg JUSTINE_PARTY_TP10_3]
-はよぽるウぺれ まょみるまょろぺる ゆァれ ぽもみもぼゎゅろぺぽまれ れも[n]ぼよょろもょグぺれ ゅゎぼめぺょぽよ まょ ろゎ まれろぺぽよ ぺぼろゎぺゅテ
+Podr胤as enfrentar m茨s dificultades si[n]contin雨as luchando en tu estado actual.
 
 [msg JUSTINE_1PERSON_HP10_1]
 Recluso, tu salud est茨 muy baja.[n]夷Quiz茨s deber胤as tomar un descanso?
@@ -188,13 +188,13 @@ Fue una pelea estupenda.
 Parece que todav胤a tienes algo de[n]lucha en ti.
 
 [msg JUSTINE_BATTLE_CHANGE_DU]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg JUSTINE_BATTLE_CHANGE_DU_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg JUSTINE_BATTLE_CHANGE_DU_3]
-■ト
+■:
 
 [msg JUSTINE_ITEM_90_DUNGEON_]
 Tienes demasiadas cosas.
@@ -254,7 +254,7 @@ No est茨 mal.
 No est茨 mal para un prisionero.
 
 [msg JUSTINE_MAPPING_ICON_KAI]
-ひまむゎるぺゆまょろま まれろま まゑぼまゅまょろま ぽまれまゆらまォよ まれ まゅ[n]るまれゎゅろぺぽよ ぽま ょゎまれろるぺ るまめぺほもゅもろぺぼもカょテ
+Seguramente este excelente desempe隠o es el[n]resultado de nuestra rehabilitaci吋n.
 
 [msg JUSTINE_MAPPING_ICON_KAI_2]
 Vas a marcar la escalera, 夷no?
@@ -272,7 +272,7 @@ Los errores deben ser rectificados.
 Mantener el mapa limpio es una buena[n]idea.
 
 [msg JUSTINE_MAPPING_MEMO_1]
-エびよゆぺょぽよ ょよろぺれ? はるよほぺほゅまゆまょろまデ ろゎわもれろま ゎょぺ[n]ゆぺゅぺ まゑらまるもまょぼもぺ ぼよょ まれよ ぺょろまれテテテ
+夷Tomando notas? Probablemente, tuviste una[n]mala experiencia con eso antes...
 
 [msg JUSTINE_MAPPING_MEMO_2]
 Ahora no tendremos que depender de[n]nuestros recuerdos.

@@ -29,7 +29,7 @@ As胤 parece. Creo que si nos dirigimos a[n]la derecha, se mover胤a a su derech
 Uhhh...
 
 [msg MSG_008_5 [Chie]]
-ねよ まょろもまょぽよ ろよぽよ まれよ ぽま "ぽまるまぼめぺ れもむょもみもぼぺ[n]もんりゎもまるぽぺ"デ らまるよ ゆもまょろるぺれ ろまょむぺゆよれ ぼゎもぽぺぽよデ[n]まれろぺるまゆよれ ほもまょ… ィエふまるぽぺぽ?!
+No entiendo todo eso de "derecha significa[n]izquierda", pero mientras tengamos cuidado,[n]estaremos bien… 斡夷Verdad?!
 
 [msg MSG_009 [Mitsuru]]
 De hecho. Todo lo que debemos hacer es[n]observar sus movimientos a medida que[n]avanzamos. Te seguimos, Joker.

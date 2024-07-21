@@ -5,7 +5,7 @@ Hemos llegado a una nueva zona... 夷Est茨[n]Yosuke por aqu胤?
 Mmm... Lo siento, parece que no puedo[n]encontrarlo por mi cuenta...
 
 [msg MSG_002 [Naoto]]
-ねよ まれ ょまぼまれぺるもよ りゎま ろま ぽもれぼゎゅらまれテ っまれらゎイれ ぽま[n]ろよぽよデ まゅ ろるぺほぺゃよ ぽま ぼぺゆらよ ろぺゆほもイょ まれ らぺるろま[n]わもろぺゅ ぽま ゎょぺ もょわまれろもむぺぼもカょテ
+No es necesario que te disculpes. Despu姻s de[n]todo, el trabajo de campo tambi姻n es parte[n]vital de una investigaci吋n.
 
 [msg MSG_003 [Yosukesaurio]]
 斡Oye, oye! 夷Puedo hacerles algunas[n]preguntas ahora?
@@ -87,7 +87,7 @@ Prefiero carbohidratos.
 
 [msg MSG_026 [Yusuke]]
 Por supuesto. La carne y las verduras[n]brillan m茨s cuando se combinan con arroz[n]para hacer una comida m茨s llena.
-つゅ まりゎもゅもほるもよ まれ わもろぺゅ ろぺょろよ らぺるぺ ゅぺ ぼよゆもぽぺ[n]ぼよゆよ らぺるぺ まゅ ぺるろまテテテ ィだ ぽもみまるまょぼもぺ ぽま ぺゅむゎょよれデ[n]ぼよゆまるイ ぼゎぺゅりゎもまる ぼよれぺ らぺるぺ まりゎもゅもほるぺる ゆも[n]ぽもまろぺ!
+El equilibrio es vital tanto para la comida[n]como para el arte... 斡A diferencia de algunos,[n]comer姻 cualquier cosa para equilibrar mi[n]dieta!
 
 [msg MSG_027 [Yosukesaurio]]
 夷Qu姻 quieres decir? Todos son humanos,[n]as胤 que... 夷No es lo mismo?

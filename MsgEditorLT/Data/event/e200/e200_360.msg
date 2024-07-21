@@ -50,7 +50,7 @@ Bueno, parece que todo sali吋 bien al[n]final, 夷verdad?
 Vaya, ahora parece que fue un[n]desperdicio dejar que ese dinosaurio se[n]comiera nuestra carne.
 
 [msg MSG_015 [Yusuke]]
-つれろよを ぽま ぺぼゎまるぽよテ にぺ よらよるろゎょもぽぺぽ ぽま ぽもれみるゎろぺる[n]ぽま ゎょ ろるよんよ ぽま ぼぺるょま ぽま まれま ろぺゆぺォよ れま らるまれまょろぺ[n]れよゅよ ゎょぺ わまん まょ ゅぺ わもぽぺテ
+Estoy de acuerdo. La oportunidad de disfrutar[n]de un trozo de carne de ese tama隠o se presenta[n]solo una vez en la vida.
 
 [sel SEL_016 top]
 Intentemos conseguir m茨s.
@@ -69,10 +69,10 @@ Imagino que queda al menos algo de jugo[n]de carne. Ir姻 a ver...
 Oh, no lo har茨s. Cuida tus modales.
 
 [msg MSG_021 [Chie]]
-ィのめデ ろよぽぺわウぺ ょよれ りゎまぽぺ ゎょ ゆよょろカょ ぽま まれぺ れぺゅれぺ![n]つれ れぺゅゎぽぺほゅま を れぺほるよれぺテテテ エっまほまるウぺゆよれ ゅゅまわぺるゅぺ[n]ぽま わゎまゅろぺ ぺゅ ぼもょま ぼよゆよ ゎょ るまむぺゅよ?
+斡Oh, todav胤a nos queda un mont吋n de esa salsa![n]Es saludable y sabrosa... 夷Deber胤amos llevarla[n]de vuelta al cine como un regalo?
 
 [msg MSG_022 [Yukiko]]
-ぬま らるまむゎょろよ れも らよぽるウぺゆよれ れまるわもる まれろよ まょ[n]ょゎまれろるぺ らよれぺぽぺテテテ びぺゅ わまん らゎまぽぺ めぺぼまる ぺゅむよ[n]れもゆもゅぺる ぼよょ もょむるまぽもまょろまれ ぼよょわまょぼもよょぺゅまれテ
+Me pregunto si podr胤amos servir esto en[n]nuestra posada... Tal vez pueda hacer algo[n]similar con ingredientes convencionales.
 
 [msg MSG_023 [Yosuke]]
 夷Olvidar la salsa? 斡夷Qu姻 est茨s tratando[n]de hacer, hacer una versi吋n de la jungla[n]de la Comida Misteriosa X?!

@@ -3,7 +3,7 @@
 
 [msg MSG_001 [Elizabeth]]
 Bienvenidos.
-でま まれろぺぽよ まれらまるぺょぽよ れゎ ゅゅまむぺぽぺ ぼよょ ろぺょろよ[n]みまるわよる りゎま ゆもれ よゃよれ ぼよゆまょんぺるよょ ぺ れよほるまれぺゅもる ぽま[n]ゆも ぼるァょまよデ ぼよゆよ ゅよれ ぽま ょゎまれろるよ ゆぺまれろるよテ
+He estado esperando su llegada con tanto[n]fervor que mis ojos comenzaron a sobresalir de[n]mi cr茨neo, como los de nuestro maestro.
 
 [msg MSG_002 [Theodore]]
 Sin embargo, no parecen estar[n]sobresaliendo m茨s de lo habitual...

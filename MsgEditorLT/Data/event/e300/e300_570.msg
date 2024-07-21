@@ -19,10 +19,10 @@ Uh, 斡夷Pero por qu姻 est茨 aqu胤?!
 
 [msg MSG_006 [Madre Computadora]]
 Me manifest姻 porque los robots anhelaban[n]mi existencia.
-だょれウぺょ ゎょぺ れよぼもまぽぺぽ ゎょもみもぼぺぽぺデ れもょ[n]もょぽもわもぽゎぺゅもぽぺぽテ だれウ りゎま ぼるまぺるよょ ゎょ れまる ぼぺらぺん[n]ぽま まれろぺほゅまぼまる を ぽまみまょぽまる まれぺ れよぼもまぽぺぽテ
+Ans胤an una sociedad unificada, sin[n]individualidad. As胤 que crearon un ser capaz[n]de establecer y defender esa sociedad.
 Ese ser soy yo.
 Estoy conectada a los circuitos de cada[n]robot...
-ひも ぺらぺるまぼま ゎょぺ もるるまむゎゅぺるもぽぺぽデ らゎまぽよ ぽまろまぼろぺるゅぺ[n]もょゆまぽもぺろぺゆまょろまテ へぺ りゎま れよを ぼぺらぺん ぽま まるるぺぽもぼぺる[n]まれろぺれ もるるまむゎゅぺるもぽぺぽまれ みァぼもゅゆまょろまテ
+Si aparece una irregularidad, puedo detectarla[n]inmediatamente. Ya que soy capaz de erradicar[n]estas irregularidades f茨cilmente.
 En otras palabras, soy el guardi茨n de[n]los robots.
 
 [msg MSG_007 [Kanji]]
@@ -33,7 +33,7 @@ Cualquiera con individualidad perturba[n]la armon胤a de la sociedad, por lo que
 Entonces, 夷eres t雨 quien hace que los[n]robots se purguen al ser considerados[n]"errores"?
 
 [msg MSG_009 [Madre Computadora]]
-ひも ゅよ まょろもまょぽまょ ろぺょ ほもまょデ だぼろグまょ ぽま ぺぼゎまるぽよ ぺ[n]まるるよるまれ りゎま れよょ を れもむぺょ まゅ らるよぼまぽもゆもまょろよ[n]まれろァょぽぺる ぼよゆよ ろよぽよれ ゅよれ ぽまゆァれテ
+Si lo entienden tan bien, Act雨en de acuerdo a[n]errores que son y sigan el procedimiento[n]est茨ndar como todos los dem茨s.
 Las existencias que se desv胤an de las[n]reglas no son m茨s que una vergüenza que[n]se debe corregir.
 
 [msg MSG_010 [Yosuke]]
@@ -44,7 +44,7 @@ No impongas tus creencias sobre[n]nosotros.
 
 [msg MSG_012 [Madre Computadora]]
 Estas no son mis creencias. Son las[n]leyes de este mundo.
-にぺ もょぽもわもぽゎぺゅもぽぺぽ ぽま ぴとへ-ゾゾダヅ まれ ゎょ ぽまみまぼろよ[n]りゎま ぽまれぺみウぺ ゅぺ ぺるゆよょウぺ ぽま ょゎまれろるぺ れよぼもまぽぺぽテテテ[n]つれぺ ゎょもぽぺぽ ぽまほま れまる ろるぺろぺぽぺ ぼよゆよ ろぺゅテ
+La individualidad de UIY-2249 es un defecto[n]que desaf胤a la armon胤a de nuestra sociedad...[n]Esa unidad debe ser tratada como tal.
 
 [msg MSG_013 [Ribbon]]
 MI INDIVIDUALIDAD ES... UN DEFECTO...

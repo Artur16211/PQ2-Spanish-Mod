@@ -83,7 +83,7 @@ Esa puerta es un desafortunado[n]obst茨culo.
 斡Cuidado! 斡No te emociones!
 
 [msg MARGARET_DENKISAKU_REACT_3]
-つれ らるよほぺほゅま りゎま めぺをぺ ゎょ もょろまるるゎらろよる らぺるぺ[n]ぺらぺむぺる ゅぺ まょまるむウぺテ つれらまるよ りゎま らゎまぽぺれ[n]まょぼよょろるぺるゅよテ
+Es probable que haya un interruptor para[n]apagar la energ胤a. Espero que puedas[n]encontrarlo.
 
 [msg NANAKO_DENKISAKU_REACTIO_3]
 夷Hay un interruptor para apagar la[n]elerg胤a?
@@ -377,13 +377,13 @@ Deber胤as seguir adelante mientras[n]puedas.
 斡Lo est茨s haciendo genial!
 
 [msg NANAKO_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg NANAKO_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg NANAKO_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg MARGARET_ITEM_90_DUNGEON]
 Necesitas hacer algo de limpieza.

@@ -36,7 +36,7 @@ Este "lugar" es mi mundo, en su forma[n]f胤sica, a trav姻s del inconsciente[n]
 
 [msg MSG_011 [Enlil]]
 "No s姻 qui姻n soy realmente..." "No[n]quiero que otros me rechacen y me hagan[n]da隠o..."
-つれよれ ろまるるもほゅまれ ゆぺゅまれ ぺゅまゃぺょ ぺ ゅぺれ らまるれよょぺれ ぽま[n]れゎれ らるよらもぺれ るまぺゅもぽぺぽまれデ ろよぽよれ ゅよれ ぽウぺれテテテ を[n]れよょ ぺ りゎもまょまれ ゆま ぽまぽもぼよ ぺ れぺゅわぺるテ
+Esos terribles males alejan a las personas de[n]sus propias realidades, todos los d胤as... y[n]son a quienes me dedico a salvar.
 
 [msg MSG_012 [Mitsuru]]
 夷Qu姻...?
@@ -53,7 +53,7 @@ Tch... As胤 que esto era TODO lo que[n]hac胤as aqu胤.
 Entonces, 夷nos estuviste enga隠ando todo[n]este tiempo mientras luch茨bamos por[n]nuestras vidas?
 
 [msg MSG_015 [Enlil]]
-ぬもまょろるぺれ ゅよれ めゎゆぺょよれ わもわぺょ ぼよゆよ もょぽもわもぽゎよれデ[n]れまむゎもるァょ れもまょぽよ ゅぺれろもゆぺぽよれ らよる ゅぺれ らまゅまぺれ を[n]ぼよょみゅもぼろよれ ぼよょ ゅよれ ぽまゆァれテテテ
+Mientras los humanos vivan como individuos,[n]seguir茨n siendo lastimados por las peleas y[n]conflictos con los dem茨s...
 No hay necesidad de soportar ese dolor.[n]Dejar atr茨s sus opiniones y creencias[n]puede llevarlos a la armon胤a.
 Todo lo que deben hacer es simplemente[n]ver las pel胤culas para convencerse...
 Al hacerlo, olvidan su dolor, sus[n]problemas, cada una de sus[n]preocupaciones simplemente desaparece.
@@ -62,7 +62,7 @@ Al hacerlo, olvidan su dolor, sus[n]problemas, cada una de sus[n]preocupaciones 
 斡Eso suena como lavarles el cerebro!
 
 [msg MSG_017 [Enlil]]
-だゎょ ぺれウデ まれ ゅよ りゎま ゅぺ めゎゆぺょもぽぺぽ ぺょめまゅぺほぺテ びよぽよ[n]ゅよ りゎま めもぼま みゎま らるよらよるぼもよょぺるゅま ぺ ゅぺれ らまるれよょぺれ[n]れゎ ろぺょ ぽまれまぺぽぺ れぺゅわぺぼもカょテ
+Aun as胤, es lo que la humanidad anhelaba. Todo[n]lo que hice fue proporcionarle a las personas[n]su tan deseada salvaci吋n.
 
 [msg MSG_018 [Ryuji]]
 斡Salvaci吋n, una mierda! 斡Ll姻vate tus[n]cines de mierda y largarte de aqu胤!
@@ -110,7 +110,7 @@ De hecho, en este momento, otra persona[n]que deseaba escapar de su realidad ha[
 Mientras haya gente con este deseo,[n]seguir茨 habiendo cines que proyecten su[n]salvaci吋n.
 
 [msg MSG_030 [P4 Hero]]
-にぺ れぺゅわぺぼもカょ ょよ まれ ゆァれ りゎま ゎょぺ ゃゎれろもみもぼぺぼもカょ[n]まむよウれろぺテ ィにぺれ らまるれよょぺれ ょよ りゎもまるまょ れもゆらゅまゆまょろま[n]ぺほぺょぽよょぺる れゎ わもぽぺ ぽま まれぺ ゆぺょまるぺ!
+La salvaci吋n no es m茨s que una justificaci吋n[n]ego胤sta. 斡Las personas no quieren simplemente[n]abandonar su vida de esa manera!
 
 [msg MSG_031 [Enlil]]
 *risa* 夷Est茨s seguro?

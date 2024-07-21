@@ -61,11 +61,11 @@ Es solo un nombre provisional.
 Ese no es el nombre de alguna[n]celebridad...
 
 [msg MSG_019 [Akechi]]
-つれ まゅ ょよゆほるま ゎろもゅもんぺぽよ らぺるぺ ゎょ ぼぺぽァわまる[n]ゆぺれぼゎゅもょよ ょよ もぽまょろもみもぼぺぽよデ らるもょぼもらぺゅゆまょろま まょ[n]もょわまれろもむぺぼもよょまれ らよゅもぼもぺゅまれ を ぺゎろよられもぺれテ
+Es el nombre utilizado para un cad茨ver[n]masculino no identificado, principalmente en[n]investigaciones policiales y autopsias.
 
 [msg MSG_020 [Akechi]]
 斡As胤 es! Me sorprende que lo supieras.
-つれ まゅ ょよゆほるま ゎろもゅもんぺぽよ らぺるぺ ゎょ ぼぺぽァわまる[n]ゆぺれぼゎゅもょよ ょよ もぽまょろもみもぼぺぽよデ らるもょぼもらぺゅゆまょろま まょ[n]もょわまれろもむぺぼもよょまれ らよゅもぼもぺゅまれ を ぺゎろよられもぺれテ
+Es el nombre utilizado para un cad茨ver[n]masculino no identificado, principalmente en[n]investigaciones policiales y autopsias.
 
 [msg MSG_021 [Yusuke]]
 夷Ha hecho algo m茨s adem茨s de proyectar[n]esa pel胤cula?

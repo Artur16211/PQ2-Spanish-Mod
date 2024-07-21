@@ -188,13 +188,13 @@ Estoy sin energ胤a... Espero que mi[n]resistencia sea mejor cuando crezca.
 斡Puedo hacer esos movimientos otra[n]vez!
 
 [msg AMADA_BATTLE_CHANGE_DUNG]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg AMADA_BATTLE_CHANGE_DUNG_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg AMADA_BATTLE_CHANGE_DUNG_3]
-■ト
+■:
 
 [msg AMADA_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

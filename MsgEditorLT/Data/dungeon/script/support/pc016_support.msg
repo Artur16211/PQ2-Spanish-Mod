@@ -188,13 +188,13 @@ Estoy completamente agotada...
 斡夷Por qu姻 parar ahora?!
 
 [msg ANN_BATTLE_CHANGE_DUNGEO]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg ANN_BATTLE_CHANGE_DUNGEO_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg ANN_BATTLE_CHANGE_DUNGEO_3]
-■ト
+■:
 
 [msg ANN_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

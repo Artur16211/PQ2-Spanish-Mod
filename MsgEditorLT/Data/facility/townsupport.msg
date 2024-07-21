@@ -542,7 +542,7 @@ Hikari, 夷alguna vez viste "Trial of[n]the Dragon"? 夷El golpe de kung-fu?
 斡Estoy segura de que lo[n]averiguaremos! Verdad. 夷Hikari?
 
 [msg town_bg02_CHIE_mes03]
-ィにぺ ぼぺるょま まれ ゅぺ るぺウん ぽま ろよぽぺれ ゅぺれ ぼよゆもぽぺれ![n]ィにぺ ぼぺるょま ょゎょぼぺ ろま ろるぺもぼもよょぺ!
+斡La carne es la ra胤z de todas las comidas![n]斡La carne nunca te traiciona!
 
 [msg town_bg02_YUKIKO_mes01]
 斡"Un texto perdido" me hizo re胤r tan[n]fuerte que me doli吋 el est吋mago!
@@ -623,7 +623,7 @@ Una vez que terminemos de descansar,[n]斡volvamos a la pel胤cula!
 Es bueno tener amigos de nuestro[n]lado.
 
 [msg town_bg04_P4HERO_mes02]
-びもまょまれ るぺんカょテ ひまるァ ゆまゃよる りゎま らまるゆぺょまんぼぺゆよれ[n]ぺゅまるろぺ ゆもまょろるぺれ ぺわぺょんぺゆよれテ
+Tienes raz吋n. Ser茨 mejor que permanezcamos[n]alerta mientras avanzamos.
 
 [msg town_bg04_KANJI_mes01]
 斡D-Deja de mirar, maldita sea, o te[n]coser姻!
@@ -698,7 +698,7 @@ Eso es... voy a arreglar esto, y...[n]Excelente. Mweheheh...
 Ahora que tambi姻n tenemos a Fuuka,[n]斡estamos listas para el apoyo!
 
 [msg town_bg06_RISE_mes02]
-びまょまゆよれ りゎま ぼよゆらぺるろもる ろよぽぺ ょゎまれろるぺ[n]もょみよるゆぺぼもカょテ ィだゎょりゎま ょよ らぺるまんぼぺ るまゅまわぺょろま!
+Tenemos que compartir toda nuestra[n]informaci吋n. 斡Aunque no parezca relevante!
 
 [msg town_bg06_SANADA_mes01]
 Una barra de prote胤nas, y una de las[n]mejores... 夷Quieres m茨s?
@@ -824,7 +824,7 @@ Nuestro grupo ha crecido. Necesitamos[n]conocernos.
 Estoy de acuerdo. Deber胤amos[n]prepararnos.
 
 [msg town_bg09_MITURU_mes03]
-でよょまれろぺゆまょろまテテテ ばゎイ むるゎらよ ろぺょ ぺゅほよるよろぺぽよテ[n]とょぼゅゎれよ なよるよゆぺるゎ まれろァ もるるもろぺぽよテテテ
+Honestamente... Qu姻 grupo tan alborotado.[n]Incluso Koromaru est茨 irritado...
 
 [msg town_bg09_KOROMARU_mes01]
 斡Guau!
@@ -845,13 +845,13 @@ Uh. 夷As胤 que necesitan esto para[n]invocar a los suyos?
 Bueno, cuando lo dices as胤, es[n]dif胤cil de explicar...
 
 [msg town_bg10_AKECHI_mes02]
-はよる れゎらゎまれろよテ はまるよ まゅ ろるぺほぺゃよ ぽま ぽまろまぼろもわま[n]ょよ まれ ろぺょ むゅぺゆよるよれよ ぼよゆよ まょ ゅぺ びふテテテ
+Por supuesto. Pero el trabajo de detective[n]no es tan glamoroso como en la TV...
 
 [msg town_bg10_AKECHI_mes03]
 夷Tienes planes para el futuro, Amada?
 
 [msg town_bg10_YOUSUKE_mes01]
-ィふぺをぺデ ゅよれ つわよぼぺぽよるまれ れよょ もゆらるまれもよょぺょろまれ![n]ひよょ むまょもぺゅまれデ らまるよ ゎょ らよぼよ ぺろまるるぺぽよるまれテテテ
+斡Vaya, los Evocadores son impresionantes![n]Son geniales, pero un poco aterradores...
 
 [msg town_bg10_YOUSUKE_mes02]
 斡Gah, idiota! 斡No me digas eso!
@@ -860,7 +860,7 @@ Bueno, cuando lo dices as胤, es[n]dif胤cil de explicar...
 S胤. Ponlo en tu cabeza, tira el[n]gatillo y 斡bam! 斡Persona!
 
 [msg town_bg10_JUNPEI_mes02]
-ひもむゎま れもまょぽよ もょりゎもまろぺょろま もょぼゅゎれよ ぼゎぺょぽよ[n]れぺほまれ りゎま まれ ゎょ つわよぼぺぽよるデ エわまるぽぺぽ?
+Sigue siendo inquietante incluso cuando[n]sabes que es un Evocador, 夷verdad?
 
 [msg town_bg10_AMADA_mes01]
 夷As胤 que eres detective, Akechi?[n]夷C吋mo te conviertes en uno?
@@ -920,7 +920,7 @@ Vamos, Shinji. 夷Es lo mejor que[n]tienes?
 Tss. No puedo perder...
 
 [msg town_bg11_ARAGAKI_mes02]
-びれれテ ィっま ょもょむゎょぺ ゆぺょまるぺ わよを ぺ れまる ぽまるるよろぺぽよ[n]らよる ゎょ もぽもよろぺ るまゅゅまょよ ぽま らぺゅよゆもろぺれ!
+Tss. 斡De ninguna manera voy a ser derrotado[n]por un idiota relleno de palomitas!
 
 [msg town_bg12_ANN_mes01]
 斡Est茨 bien! 斡Nos van a echar!

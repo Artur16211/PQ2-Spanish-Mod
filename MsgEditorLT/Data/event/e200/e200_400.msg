@@ -39,7 +39,7 @@ Je, je, je, y aun as胤 vinieron, y nos[n]salvaron. En comparaci吋n ustedes, so
 斡Oh, genial! 斡Me ha dejado impresionado[n]su actitud despreocupada!
 
 [msg MSG_012 [P4 Hero]]
-にぺ みよるゆぺ まょ りゎま れま まれろぺほぺょ みよるんぺょぽよ ぺ ぼるままる まょ[n]ゅぺ るまむゅぺ ぽま ゅぺ ゆぺをよるウぺテテテ びよぽよれ らぺるまぼウぺょ まれろぺる[n]れゎみるもまょぽよデ ょよ れよほるまわもわもまょぽよテ
+La forma en que se estaban forzando a creer en[n]la regla de la mayor胤a... Todos parec胤an estar[n]sufriendo, no sobreviviendo.
 
 [msg MSG_013 [Yosukesaurio]]
 夷No est茨bamos sobreviviendo?
@@ -92,7 +92,7 @@ Mm... Nosotros...
 [msg MSG_026 [Yosukesaurio]]
 斡Tengo una idea!
 斡Dejemos de decidir las cosas por[n]mayor胤a y discutamos las cosas a partir[n]de ahora!
-ィねよ ゆァれ らるまよぼゎらぺぼもよょまれ らよる ゅよ りゎま らもまょれまょ ゅよれ[n]ぽまゆァれ! ばゎもまるよ りゎまぽぺるゆま ぼよょ ゎれろまぽまれデ ぺれウ りゎまテテテ[n]エはよる りゎイ ょよ めぺほゅぺゆよれ ゅぺれ ぼよれぺれ?
+斡No m茨s preocupaciones por lo que piensen los[n]dem茨s! Quiero quedarme con ustedes, as胤 que...[n]夷Por qu姻 no hablamos las cosas?
 
 [msg MSG_027 [Herb胤voro T胤mido]]
 Me di cuenta de que solo pensaba en m胤[n]mismo, porque tambi姻n ten胤a miedo de ser[n]abandonado...
@@ -108,14 +108,14 @@ Creo que fui demasiado lejos con[n]ustedes, humanos... Lo siento.
 Entonces, todos... Todos sent胤amos lo[n]mismo al respecto...
 
 [msg MSG_030 [Herb胤voro Inquieto]]
-ねも れもりゎもまるぺ もょろまょろぺゆよれ めぺほゅぺる ゅぺれ ぼよれぺれ を[n]れもゆらゅまゆまょろま ょよれ ぺれゎれろぺゆよれ ろよゆぺょぽよ ぽまぼもれもよょまれ[n]まりゎもわよぼぺぽぺれテテテ づゎもゆよれ るまぺゅゆまょろま まれろグらもぽよれテ
+Ni siquiera intentamos hablar las cosas y[n]simplemente nos asustamos tomando decisiones[n]equivocadas... Fuimos realmente est雨pidos.
 
 [msg MSG_031 [Yusuke]]
 Ahora que ya no se esconden detr茨s de[n]n雨meros, finalmente podemos escuchar los[n]verdaderos sentimientos de todos.
 
 [msg MSG_032 [Yosukesaurio]]
 Creo que la regla de la mayor胤a puede[n]ser una forma 雨til de tomar[n]decisiones...
-はまるよ ょよ めぺむぺゆよれ りゎま ぺぽめまるもるれま ぺ まゅゅぺ れまぺ[n]ょゎまれろるぺ らるもょぼもらぺゅ らるもよるもぽぺぽテ エばゎイ ゅまれ らぺるまぼま[n]れも ほゎれぼぺゆよれ よろるぺれ みよるゆぺれ ぽま よるもまょろぺるょよれ?
+Pero no hagamos que adherirse a ella sea[n]nuestra principal prioridad. 夷Qu姻 les parece[n]si buscamos otras formas de orientarnos?
 
 [msg MSG_033 [Herb胤voro T胤mido]]
 ...斡S胤!

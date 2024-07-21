@@ -54,7 +54,7 @@ En cualquier caso, 夷Deber胤amos[n]prepararnos para entrar?
 Muy bien, hag茨moslo.
 
 [msg MSG_024 [Yukari]]
-つれらまるぺデ エるまぺゅゆまょろま わぺゆよれ ぺ めぺぼまるゅよ? ふぺゆよれ ぺ[n]ぺるるぺれろるぺるょよれ れよほるま ょゎまれろるぺれ ゆぺょよれ を るよぽもゅゅぺれデ[n]エぼもまるろよ? ぬま らるまむゎょろよ れも まれろぺるまゆよれ ほもまょテテテ
+Espera, 夷realmente vamos a hacerlo? Vamos a[n]arrastrarnos sobre nuestras manos y rodillas,[n]夷cierto? Me pregunto si estaremos bien...
 
 [msg MSG_025 [Akihiko]]
 夷Qu姻 pasa Yukari? 夷Tienes miedo?

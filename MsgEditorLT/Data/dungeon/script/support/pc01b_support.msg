@@ -98,13 +98,13 @@ Oh, hola, interruptor.
 夷Encontramos un atajo?
 
 [msg HARU_PARTY_DEAD_1]
-【パーティの半分以上が死んでいる】 ダミーメッセージ１
+【パー.斡O半分以上が死zHいr】 4ミーメ7セージ１
 
 [msg HARU_PARTY_DEAD_2]
-【パーティーの半分以上が死んでいる】 ダミーメッセージ２
+【パー.斡ーO半分以上が死zHいr】 4ミーメ7セージ２
 
 [msg HARU_PARTY_DEAD_3]
-【パーティーの半分以上が死んでいる】 ダミーメッセージ３
+【パー.斡ーO半分以上が死zHいr】 4ミーメ7セージ３
 
 [msg HARU_FOE_WARNING_NEAR_1]
 斡夷Todav胤a no se ha dado por vencido?!
@@ -116,22 +116,22 @@ Oh, hola, interruptor.
 Sin duda, no se rinde f茨cilmente.
 
 [msg HARU_PARTY_HPTP10_1]
-【パーティ全体のＨＰＴＰが１０％以下】 ダミーメッセージ１
+【パー.斡全体OＨＰＴＰが１０％以下】 4ミーメ7セージ１
 
 [msg HARU_PARTY_HPTP10_2]
-【パーティ全体のＨＰＴＰが１０％以下】 ダミーメッセージ２
+【パー.斡全体OＨＰＴＰが１０％以下】 4ミーメ7セージ２
 
 [msg HARU_PARTY_HPTP10_3]
-【パーティ全体のＨＰＴＰが１０％以下】 ダミーメッセージ３
+【パー.斡全体OＨＰＴＰが１０％以下】 4ミーメ7セージ３
 
 [msg HARU_PARTY_HP10_1]
-【パーティ全体のＨＰが１０％以下】 ダミーメッセージ１
+【パー.斡全体OＨＰが１０％以下】 4ミーメ7セージ１
 
 [msg HARU_PARTY_HP10_2]
-【パーティ全体のＨＰが１０％以下】 ダミーメッセージ２
+【パー.斡全体OＨＰが１０％以下】 4ミーメ7セージ２
 
 [msg HARU_PARTY_HP10_3]
-【パーティ全体のＨＰが１０％以下】 ダミーメッセージ３
+【パー.斡全体OＨＰが１０％以下】 4ミーメ7セージ３
 
 [msg HARU_1PERSON_HPTP10_1]
 Um, 夷Alguien puede curarme?
@@ -188,13 +188,13 @@ Es posible que me haya esforzado[n]demasiado...
 斡Todos est茨n tan en姻rgicos!
 
 [msg HARU_BATTLE_CHANGE_DUNGE]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg HARU_BATTLE_CHANGE_DUNGE_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg HARU_BATTLE_CHANGE_DUNGE_3]
-■ト
+■:
 
 [msg HARU_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

@@ -55,19 +55,19 @@ Nos tomaron desprevenidos. Deber胤amos[n]descansar para evitar que se repita.
 夷Qu姻 planeas hacer con ese atajo?
 
 [msg MSG_013 [Makoto]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Makoto]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Makoto]]
 No podemos pasar por aqu胤. Vamos a[n]revisar el otro lado.
 
 [msg MSG_016 [Makoto]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Makoto]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Makoto]]
 Este camino es peligroso. Espero que[n]tengas un plan, 夷Joker?

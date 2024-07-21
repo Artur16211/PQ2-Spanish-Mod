@@ -24,10 +24,10 @@ Exacto. Ella usa un hacha, podr胤a ser de[n]ayuda con esto.
 
 [msg MSG_007 [Haru]]
 Bueno... las hachas tienen un alcance de[n]ataque bastante corto, as胤 que es mejor[n]no acercarse demasiado.
-だぽまゆァれデ ゎょ めぺぼめぺ ろぺょ むるぺょぽま れまるもぺ[n]まゑろるまゆぺぽぺゆまょろま らまれぺぽぺデ ぺれウ りゎま ぽゎぽよ りゎま らゎまぽぺ[n]ほぺゅぺょぼまぺるゅぺデ らるよほぺほゅまゆまょろま れよゅよ らゎまぽま ぽぺる ゎょ[n]むよゅらま ぺ ゅぺ わまんテ
+Adem茨s, un hacha tan grande seria[n]extremadamente pesada, as胤 que dudo que pueda[n]balancearla, probablemente solo puede dar un[n]golpe a la vez.
 
 [msg MSG_008 [Yusuke]]
-つょろもまょぽよテテテ "ねよ ろま ぺぼまるりゎまれ れも まれ らよれもほゅま" を[n]"ぢぺゅぼゎゅぺ ほもまょ まゅ ゆよゆまょろよ れも まれ ょまぼまれぺるもよ[n]ぺぼまるぼぺるろま" らぺるまぼまょ れまる ゅぺれ ゆまゃよるまれ ろァぼろもぼぺれ[n]ぺりゎウテ
+Entiendo... "No te acerques si es posible" y[n]"Calcula bien el momento si es necesario[n]acercarte" parecen ser las mejores t茨cticas[n]aqu胤.
 
 [msg MSG_009 [Yukiko]]
 Su expresi吋n[f 0 1 0] tambi姻n puede ser una pista[n]雨til para saber cuando va a realizar un[n]ataque.

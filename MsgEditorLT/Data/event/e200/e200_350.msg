@@ -5,12 +5,12 @@ Hemos tra胤do la carne congelada y el[n]equipo de cocina mientras busc茨bamos 
 Mmm, si vamos a cocinar esta carne, 夷por[n]qu姻 no hacerlo aqu胤?
 
 [msg MSG_002 [Naoto]]
-つれ ゎょ ァるまぺ ぺほもまるろぺデ めぺを ゎょぺ みゎまょろま ぽま ぺむゎぺ[n]ぼまるぼぺょぺテテテ っもるウぺ りゎま まれ ゎょ ゅゎむぺる ろぺょ れまむゎるよ[n]らぺるぺ ぼよぼもょぺる ぼよゆよ らよぽるウぺゆよれ まれらまるぺるテ
-ばゎもんァれ れよゅよ まょぼよょろるぺゆよれ ゎょぺ よゅゅぺ らぺるぺ ぼよぼもょぺるデ[n]らまるよ ぽまほまるウぺゆよれ まれろぺる ほもまょ れもまゆらるま を ぼゎぺょぽよ[n]ろまょむぺゆよれ ゎょぺ みゎまょろま ぽま ぼぺゅよる らぺるぺ まゅゅぺテテテ
+Es un 茨rea abierta, hay una fuente de agua[n]cercana... Dir胤a que es un lugar tan seguro[n]para cocinar como podr胤amos esperar.
+Quiz茨s solo encontramos una olla para cocinar,[n]pero deber胤amos estar bien siempre y cuando[n]tengamos una fuente de calor para ella...
 La 雨nica cosa es que no tenemos una[n]receta para trabajar. 夷Eso ser茨 un[n]problema?
 
 [msg MSG_003 [Yukiko]]
-ねぺよろよデ れもまゆらるま めぺを ょゎまわよれ ぽまれぼゎほるもゆもまょろよれ[n]まれらまるぺょぽよ れまる めまぼめよれ まょ ゅぺ ぼよぼもょぺテ ィひよゅよ[n]ょまぼまれもろぺゆよれ ぼるままる まょ ょよれよろるぺれ ゆもれゆぺれ!
+Naoto, siempre hay nuevos descubrimientos[n]esperando ser hechos en la cocina. 斡Solo[n]necesitamos creer en nosotras mismas!
 
 [msg MSG_004 [Rise]]
 斡Mm! Improvisar un plato sabroso con un[n]n雨mero m胤nimo de ingredientes tambi姻n es[n]una habilidad 雨til en la cocina.
@@ -44,16 +44,16 @@ S胤, es s雨per... Espera, 斡夷acabo de decir[n]eso en voz alta?!
 夷Qu姻? Uh, quieres decir que... 夷Cuentas[n]con ellas para reunir un mont吋n de[n]ingredientes, verdad?
 
 [msg MSG_013 [Yosuke]]
-ひウデ ィゅよ りゎま イゅ ぽもゃよ! ばゎまるまゆよれ りゎま ゎれまょ れゎれテテテ[n]もょれろもょろよれ みまゆまょもょよれデ よ ゅよ りゎま れまぺデ らぺるぺ[n]まょぼよょろるぺる ゅよれ ゆまゃよるまれ もょむるまぽもまょろまれ らぺるぺ[n]ょよれよろるよれテ
+S胤, 斡lo que 姻l dijo! Queremos que usen sus...[n]instintos femeninos, o lo que sea, para[n]encontrar los mejores ingredientes para[n]nosotros.
 
 [msg MSG_014 [P4 Hero]]
-ねよ よゅわもぽまょ りゎま ょまぼまれもろぺゆよれ まょぼまょぽまる みゎまむよ らぺるぺ[n]ぼよぼもょぺる ゅぺ ぼぺるょまデ はよる まれよ ょよれ れまょろもゆよれ ゆァれ[n]ぺぽまぼゎぺぽよれ らぺるぺ ゅぺ らぺるろま ぽま ぼよぼもょぺるテ
+No olviden que necesitamos encender fuego para[n]cocinar la carne, Por eso nos sentimos m茨s[n]adecuados para la parte de cocinar.
 
 [msg MSG_015 [Haru]]
 Buscar ingredientes suena divertido...[n]Siento que podemos encontrar nuevos e[n]interesantes aqu胤.
 
 [msg MSG_016 [Ann]]
-ィのめデ ろぺゆほもイょ ぼるまよ まれよ! エばゎイ ろま らぺるまぼま れも[n]ぽまゃぺゆよれ ゅぺ ぼよぼもょぺ まょ れゎれ ゆぺょよれ を ょよれよろるぺれデ[n]ぼめもぼぺれデ れぺゅもゆよれ ぺ ぼぺんぺる ゎょ らよぼよ?
+斡Oh, tambi姻n creo eso! 夷Qu姻 te parece si[n]dejamos la cocina en sus manos y nosotras,[n]chicas, salimos a cazar un poco?
 
 [msg MSG_017 [Naoto]]
 *risa* Haces que suene como una[n]aventura... Eso tambi姻n parece m茨s de mi[n]gusto.
@@ -68,7 +68,7 @@ Me parece bien. Dejaremos la cocina en[n]sus manos, al menos por esta vez.
 De acuerdo, 斡vamos en busca de nuevas[n]carnes!
 
 [msg MSG_021 [Yukiko]]
-ぬゆデ をぺ ろまょまゆよれ ゅぺ ぼぺるょまデ ぺれウ りゎま エらよる りゎイ ょよ[n]ほゎれぼぺゆよれテテテ よろるよれ もょむるまぽもまょろまれデ らぺるぺ ぽぺるゅま[n]れぺほよるデ ぼよゆよ ぺゅむぺれ ゆぺるもょぺれ を ぺゅまろぺれ ぽま ろもほゎるカょ?
+Mm, ya tenemos la carne, as胤 que 夷por qu姻 no[n]buscamos... otros ingredientes, para darle[n]sabor, como algas marinas y aletas de tibur吋n?
 
 [msg MSG_022 [Makoto]]
 No me digas que vamos a caminar hasta el[n]oc姻ano para buscar... En cualquier caso,[n]deber胤amos irnos.
@@ -123,7 +123,7 @@ No s姻 por qu姻, pero por la forma en la[n]que habla este chico... le creo.
 Parece que podemos esperar algo genial[n]de ellos. No puedo esperar a probar lo[n]que hacen.
 
 [msg MSG_038 [Ryuji]]
-ぬもまょろるぺれ まれろァれ ほぺほまぺょぽよデ エらゎまぽよ るまぼよるぽぺるゅまれ[n]りゎま まれろぺゆよれ めぺぼもまょぽよ ろよぽよ まれろよ ぼよゆよ ぼまほよ ぽま[n]ぽもょよれぺゎるもよデ ょよ ぼよゆもぽぺ らぺるぺ づよゑ?
+Mientras est茨s babeando, 夷puedo recordarles[n]que estamos haciendo todo esto como cebo de[n]dinosaurio, no comida para Fox?
 
 [msg MSG_039]
 Despu姻s de limpiar la carne y terminar[n]las otras preparaciones...
@@ -176,7 +176,7 @@ No lo s姻. Lo vi en el suelo y lo recog胤.
 Ser茨 mejor que eso no termine[n]eclosionando frente a nosotros...
 
 [msg MSG_055 [Yusuke]]
-びもまょま ゎょぺ みよるゆぺ ぺむるぺぽぺほゅまデ らまるよ ゎょ らぺろるカょ[n]ぺゎぽぺん を れぺゅわぺゃまテ ばゎもまるよ ゅゅまわァるゆまゅよ らぺるぺ[n]まれろゎぽもぺるゅよ ゆァれ ぺ みよょぽよ まょ ゅゎむぺる ぽま るよゆらまるゅよテテテ
+Tiene una forma agradable, pero un patr吋n[n]audaz y salvaje. Quiero llev茨rmelo para[n]estudiarlo m茨s a fondo en lugar de romperlo...
 
 [msg MSG_056 [Yukiko]]
 Esto es lo que encontr姻, aqu胤 tienes.
@@ -208,7 +208,7 @@ Supongo que no apela al sentido de[n]belleza de todos. Sin embargo, a m胤 me[n]
 No hay m茨s que pueda decir...
 
 [msg MSG_065 [Yukiko]]
-つれ るまぺゅゆまょろま ぼぺるょよれよ を みもほるよれよデ ぺれウ りゎま[n]ぺらゎまれろよ ぺ りゎま ろもまょま ゎょぺ むるぺょ ろまゑろゎるぺテ びぺゆほもイょ[n]らぺるまぼま りゎま れまるウぺ ほぺれろぺょろま れぺゅゎぽぺほゅまテ
+Es realmente carnoso y fibroso, as胤 que[n]apuesto a que tiene una gran textura. Tambi姻n[n]parece que ser胤a bastante saludable.
 
 [msg MSG_066 [Ryuji]]
 夷No es Amagi la pr吋xima heredera de una[n]posada hist吋rica?
@@ -240,10 +240,10 @@ Pero, 夷por qu姻 est茨n creciendo setas[n]matsutake en la selva?
 
 [msg MSG_074 [Naoto]]
 Sospecho que estuvieron involucradas en[n]experimentos de manipulaci吋n gen姻tica.
-によれ もょわまれろもむぺぽよるまれ らよぽるウぺょ めぺほまるゅぺれ[n]ぽまれぺるるよゅゅぺぽよ れもゆゎゅろァょまぺゆまょろま ぼよょ ゅよれ[n]ぽもょよれぺゎるもよれテテテ だゎょりゎま まれ れよゅよ ゎょぺ[n]まれらまぼゎゅぺぼもカょテ
+Los investigadores podr胤an haberlas[n]desarrollado simult茨neamente con los[n]dinosaurios... Aunque es solo una[n]especulaci吋n.
 
 [msg MSG_075 [P3 Fem Protag]]
-つょろよょぼまれデ まゅ るまょぽもゆもまょろよ ろよろぺゅ ぽま ゅぺれ ぼめもぼぺれ[n]もょぼゅゎをま ゎょ ゆよょろカょ ぽま めもまるほぺれデ ぺゅむグょ ろもらよ ぽま[n]めゎまわよデ ゎょぺ らゅぺょろぺ を ゆゎぼめぺれ れまろぺれ ゆぺろれゎろぺやまテ
+Entonces, el rendimiento total de las chicas[n]incluye un mont吋n de hierbas, alg雨n tipo de[n]huevo, una planta y muchas setas matsutake.
 
 [msg MSG_076 [Makoto]]
 Esa planta es un poco... ya sabes, pero[n]las otras parecen utilizables, 夷verdad?
@@ -269,7 +269,7 @@ Mi apetito ha sido despertado. Puedo[n]sentir mi est吋mago gru隠endo como loco
 夷Eh? Ese es un m姻todo... sorprendente.
 
 [msg MSG_083 [Chie]]
-ふぺをぺデ れもゆらゅまゆまょろま れもむゎまょ めぺぼもイょぽよれま ゆァれ[n]らまりゎまォぺれ を ゆァれ らまりゎまォぺれデ ぺ ゎょぺ わまゅよぼもぽぺぽ[n]もょぼるまウほゅまテテテ ィぢぺれも れま れもまょろま ぼよゆよ ゎょ[n]ぽまれらまるぽもぼもよ!
+Vaya, simplemente siguen haci姻ndose m茨s[n]peque隠as y m茨s peque隠as, a una velocidad[n]incre胤ble... 斡Casi se siente como un[n]desperdicio!
 
 [msg MSG_084 [P4 Hero]]
 Bien, ahora le toca el turno a la carne.[n]夷C吋mo crees que deber胤amos cocinarla?
@@ -286,7 +286,7 @@ Coc胤nala a fuego lento.
 
 [msg MSG_088 [Ryuji]]
 Ooh, no me importar胤a si yo...
-ィぴむめデ まれろぺ まれ ゅぺ らゅぺょろぺ りゎま ぼよゆま もょれまぼろよれ![n]びよぽぺわウぺ れま まれろァ ゆよわもまょぽよ; ょよ めぺを みよるゆぺ ぽま りゎま[n]わぺをぺ ぺ ぼよゆまる まれろよテテテ ィつれらまるぺデ エらよる りゎイ れま まれろァ[n]ぬのふとつねっの?!
+斡Ugh, esta es la planta que come insectos![n]Todav胤a se est茨 moviendo; no hay forma de que[n]vaya a comer esto... 斡Espera, 夷por qu姻 se est茨[n]MOVIENDO?!
 
 [msg MSG_089 [Chie]]
 Asarla tan lentamente me est茨 poniendo[n]nerviosa...
@@ -316,7 +316,7 @@ Es, eh... 夷Carne a la Pel胤cula con Salsa[n]de la Selva Recolectada?
 Me refer胤a a 夷qu姻 HAY en la salsa? 夷Y[n]cu茨ndo hiciste esa cosa?
 
 [msg MSG_098 [Yukiko]]
-ぢよゆほもょぺゆよれ ゅぺ ぼゅぺるぺ ぽま めゎまわよデ ゅぺれ めもまるほぺれ を ゎょ[n]らよぼよ ぽま ゅウりゎもぽよ ぽまゅ もょろまるもよる ぽま ゅぺ らゅぺょろぺデ[n]ゅゎまむよ ゅよ めまるわもゆよれ ろよぽよテ
+Combinamos la clara de huevo, las hierbas y un[n]poco de l胤quido del interior de la planta,[n]luego lo hervimos todo.
 
 [msg MSG_099 [Naoto]]
 Um... Dijeron que no usar los[n]ingredientes ser胤a un desperdicio, as胤[n]que...
@@ -378,7 +378,7 @@ Es... 斡斡斡delicioso!!!
 Mm, esto podr胤a volverse bastante[n]adictivo... La salsa a隠ade una riqueza a[n]la carne que complementa el sabor.
 
 [msg MSG_117 [Ryuji]]
-ねよ らゎまぽよ ぼるままるゅよデ エまれぺ ほぺほよれもぽぺぽ みゎょぼもよょカ?[n]エびゎわよ ぺゅむゎょぺ まれらまぼもま ぽま るまぺぼぼもカょ りゎウゆもぼぺ ぼよょ[n]ゅぺ ぼぺるょま よ ぺゅむよ ぺれウ?
+No puedo creerlo, 夷esa babosidad funcion吋?[n]夷Tuvo alguna especie de reacci吋n qu胤mica con[n]la carne o algo as胤?
 
 [msg MSG_118 [Yusuke]]
 斡Qu姻 armon胤a 雨nica de sabor y aroma![n]Esta salsa es una colaboraci吋n[n]milagrosa.
@@ -387,7 +387,7 @@ Mm, esto podr胤a volverse bastante[n]adictivo... La salsa a隠ade una riqueza a
 夷Escuchaste eso, Yosuke? 斡Nuestras[n]habilidades culinarias son imbatibles!
 
 [msg MSG_120 [Yosuke]]
-ねよデ まれろよ みゎま ゎょ ゆもゅぺむるよ ぼよゆほもょぺぽよ ぼよょ ゎょぺ[n]ぼよもょぼもぽまょぼもぺテテテ ひも ょよ みゎまるぺ らよる ゅぺ ぼぺるょまデ まれろよ[n]れまるウぺ れもゆらゅまゆまょろま ゎょぺ ほぺほよれもぽぺぽ ぽま めゎまわよ を[n]めもまるほぺテ
+No, esto fue un milagro combinado con una[n]coincidencia... Si no fuera por la carne, esto[n]ser胤a simplemente una babosidad de huevo y[n]hierba.
 
 [msg MSG_121 [Akechi]]
 En cualquier caso, creo que deber胤amos[n]poder atraer al carn胤voro con esto.

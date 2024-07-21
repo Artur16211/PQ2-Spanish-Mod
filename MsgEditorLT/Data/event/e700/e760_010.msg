@@ -10,16 +10,16 @@ Sinceramente, no estoy seguro...
 
 [msg MSG_003 [Akechi]]
 ...Ser胤a mejor si dibujaras algunos[n]detalles m茨s.
-ぴょぺ わまん ぽまゅもょまぺぽぺれ ゅぺれ らぺるまぽまれデ ぼるまよ りゎま れまるァ[n]ゆァれ みァぼもゅ もぽまょろもみもぼぺる ろぺょろよ ゅよれ ぼぺゅゅまゃよょまれ れもょ[n]れぺゅもぽぺ ぼよゆよ ゅよれ ゅゎむぺるまれ りゎま ぺグょ ぽまほまゆよれ[n]まゑらゅよるぺるテ
+Una vez delineadas las paredes, creo que ser茨[n]m茨s f茨cil identificar tanto los callejones sin[n]salida como los lugares que a雨n debemos[n]explorar.
 
 [msg MSG_003_1 [Akechi]]
-っま まれぺ みよるゆぺデ らよぽまゆよれ ほゎれぼぺる まょ ぼぺぽぺ[n]ぼまょろウゆまろるよ ぽま ゅぺ らまゅウぼゎゅぺテテテ はゎまぽま りゎま もょぼゅゎれよ[n]ょよれ ゅゅまわま ぺ ぺゅむゎょよれ ろまれよるよれ もょまれらまるぺぽよれテ
+De esa forma, podemos buscar en cada[n]cent胤metro de la pel胤cula... Puede que incluso[n]nos lleve a algunos tesoros inesperados.
 
 [msg MSG_004 [Morgana]]
 Hikari ha tenido la amabilidad de[n]regalarnos este cuaderno. 斡Hagamos buen[n]uso de 姻l!
 
 [msg MSG_005 [Akechi]]
-はぺるまぼま りゎま めまゆよれ まゑらゅよるぺぽよ むるぺょ らぺるろま ぽま まれろま[n]ゅゎむぺるテ っゎぽよ りゎま らぺれまゆよれ らよる ぺゅろよ ぺゅむグょ よほゃまろよ[n]よ らぺれぺぽもんよ よぼゎゅろよ ぺ まれろぺれ ぺゅろゎるぺれテテテ
+Parece que hemos explorado gran parte de este[n]lugar. Dudo que pasemos por alto alg雨n objeto[n]o pasadizo oculto a estas alturas...
 Pero, 夷quiz茨 ser胤a mejor que tambi姻n[n]perfilaras las paredes?
 
 [msg MSG_006 [Yusuke]]

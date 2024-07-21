@@ -57,7 +57,7 @@ Todos han vuelto... Intentar姻[n]preguntarles sobre su amigo humano.
 夷No est茨s molesto con ellos? 斡Te dejaron[n]aqu胤 sin pensarlo!
 
 [msg MSG_018 [Dinosaurio Con Auriculares]]
-ねよ るまぺゅゆまょろまテテテ ばゎもまるよ ぽまぼもるデ まれ ゆも ぼゎゅらぺ らよる[n]ぼぺまるゆま ぽまろるァれテテテ ひも ゅよれ ぽまゆァれ ろもまょまょ りゎま[n]れよほるまわもわもるデ ょよ めぺを ょぺぽぺ ゆァれ りゎま らゎまぽぺ めぺぼまるテ
+No realmente... Quiero decir, es mi culpa por[n]caerme detr茨s... Si los dem茨s tienen que[n]sobrevivir, no hay nada m茨s que pueda hacer.
 Pero ya que han vuelto, me siento m茨s[n]c吋modo con ellos.
 
 [msg MSG_019 [Haru]]
@@ -99,7 +99,7 @@ Entonces, 夷por qu姻 no simplificamos y[n]simplemente lo llamamos "Yosukesauri
 斡Oh, Yosukesaurio! 斡Tenemos el[n]privilegio de nombrar una especie reci姻n[n]descubierta!
 
 [msg MSG_031 [Akechi]]
-つょ るまぺゅもぽぺぽデ ょよ ぼるまよ りゎま れまぺ らぺるろま ぽま ゎょぺ[n]ょゎまわぺ まれらまぼもまデ エょよ ぽまほまるウぺ れまる ぼよょれもぽまるぺぽよ ゎょ[n]ぼぺれよ まれらまぼもぺゅ ぽま まれろぺ らまゅウぼゎゅぺ?
+En realidad, no creo que sea parte de una[n]nueva especie, 夷no deber胤a ser considerado un[n]caso especial de esta pel胤cula?
 
 [msg MSG_032 [Haru]]
 Oh, 夷te refieres a lo que sucedi吋 con[n]Kamoshidaman?

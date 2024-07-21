@@ -116,7 +116,7 @@ S胤. Kamoshidaman fue creado a partir de[n]los recuerdos de Hikari.
 
 [msg MSG_035 [Yusuke]]
 Esa maestra de primaria era la[n]"autoridad absoluta" de su clase.
-つれろよ ぽまれぼるもほま らまるみまぼろぺゆまょろま ぺ なぺゆよれめもぽぺゆぺょ[n]ろぺゆほもイょテ ねぺぽもま ぽまほま めぺほまる らよぽもぽよ ぽまれぺみもぺるゅよデ[n]もょぼゅゎれよ ぼゎぺょぽよ まれろぺほぺ まりゎもわよぼぺぽよテ
+Esto describe perfectamente a Kamoshidaman[n]tambi姻n. Nadie debe haber podido desafiarlo,[n]incluso cuando estaba equivocado.
 
 [msg MSG_036 [Makoto]]
 Con el incidente del conejo, Hikari fue[n]injustamente rega隠ada por una maestra,[n]alguien con autoridad absoluta.
@@ -170,7 +170,7 @@ Bueno, no podemos usar el Navegador[n]aqu胤, as胤 que esto no ser茨 exactamen
 Cierto. Pero no podemos usar el[n]navegador Metaverse aqu胤, as胤 que esto[n]no parece ser exactamente lo mismo...
 
 [msg MSG_051 [Yosuke]]
-ねよ まれろよを れまむゎるよ ぽま らよる りゎイデ らまるよ まれろま ゅゎむぺる れま[n]れもまょろま ほぺれろぺょろま れもゆもゅぺる ぺゅ ゆゎょぽよ ぽま ゅぺ[n]ろまゅまわもれもカょ まょ まゅ りゎま らまゅまぺゆよれテ
+No estoy seguro de por qu姻, pero este lugar se[n]siente bastante similar al mundo de la[n]televisi吋n en el que peleamos.
 
 [msg MSG_052 [Kanji]]
 Oh, s胤, ahora que lo mencionas, se[n]siente igual.
@@ -203,7 +203,7 @@ No seas tan dura contigo misma.
 S胤, lo que 姻l dijo. Ninguno de nosotros[n]est茨 molesto por eso.
 
 [msg MSG_060 [P3 Hero]]
-にぺ もぽまぺ ぽま りゎま れまぺれ ゎょ らるよほゅまゆぺ らぺるぺ ょよれよろるよれ[n]ょも れもりゎもまるぺ ぼるゎんカ らよる ゆも ゆまょろまテ びよぽよれ わもょもゆよれ[n]ぺりゎウ らよるりゎま りゎまるウぺゆよれ ぺをゎぽぺるテ
+La idea de que seas un problema para nosotros[n]ni siquiera cruz吋 por mi mente. Todos vinimos[n]aqu胤 porque quer胤amos ayudar.
 Espero que nos creas cuando decimos que[n]no pensamos eso de ti.
 
 [msg MSG_061 [Morgana]]
@@ -217,7 +217,7 @@ Espero que nos creas cuando decimos que[n]no pensamos eso de ti.
 S胤, no hay necesidad de culparte por[n]esto. Nadie aqu胤 tiene problema en[n]ayudar.
 
 [msg MSG_064 [P3 Hero]]
-にぺ もぽまぺ ぽま りゎま れまぺれ ゎょ らるよほゅまゆぺ らぺるぺ ょよれよろるよれ[n]ょも れもりゎもまるぺ ぼるゎんカ らよる ゆも ゆまょろまテ びよぽよれ わもょもゆよれ[n]ぺりゎウ らよるりゎま りゎまるウぺゆよれ ぺをゎぽぺるテ
+La idea de que seas un problema para nosotros[n]ni siquiera cruz吋 por mi mente. Todos vinimos[n]aqu胤 porque quer胤amos ayudar.
 Espero que nos creas cuando decimos que[n]no pensamos eso de ti.
 
 [msg MSG_065 [Hikari]]
@@ -243,7 +243,7 @@ Para cambiar, y para que todos salgamos[n]de este lugar... 斡Quiero ver el fina
 
 [msg MSG_071 [Mitsuru]]
 Mm, todos ustedes son personas tan[n]confiables...
-つれぼぺらぺる ぽま まれろま ゆゎょぽよ れもむゎま れもまょぽよ もゆらよるろぺょろまデ[n]らまるよ めまゆよれ ゅゅまむぺぽよ めぺれろぺ ぺりゎウデ わぺゆよれ ぺ わまる[n]まれろよ ゃゎょろよれデ めぺれろぺ まゅ みもょぺゅテ
+Escapar de este mundo sigue siendo importante,[n]pero hemos llegado hasta aqu胤, vamos a ver[n]esto juntos, hasta el final.
 
 [msg MSG_072 [Ryuji]]
 斡Bien, est茨 decidido! 斡Vamos a[n]adentrarnos en esta pel胤cula y cambiarla[n]completamente!

@@ -17,7 +17,7 @@ Cierto, podr胤amos usarlo como las[n]escaleras. Creo que vale la pena[n]intenta
 Aunque, SI se detiene en el piso de[n]abajo. Podr胤amos acabar descendiendo[n]para siempre...
 
 [msg MSG_005 [Akechi]]
-つれ ぼもまるろよ りゎま れまるウぺ まれろゎらまょぽよ れも れま ぼよょまぼろぺるぺ[n]ぼよょ ゅぺ れもむゎもまょろま らゅぺょろぺデ らまるよ らゎまぽま りゎま[n]ぺぼぺほまゆよれ ぽまれぼまょぽもまょぽよ らぺるぺ れもまゆらるまテテテ
+Es cierto que ser胤a estupendo si se conectara[n]con la siguiente planta, pero puede que[n]acabemos descendiendo para siempre...
 
 [msg MSG_006 [Ken]]
 斡夷Q-qu姻?! 斡Nooo!
@@ -26,7 +26,7 @@ Aunque, SI se detiene en el piso de[n]abajo. Podr胤amos acabar descendiendo[n]p
 ...Ja, ja, solo bromeo. Si parece[n]sospechoso, deber胤amos preguntarle a[n]nuestras navegadoras.
 
 [msg MSG_008 [Rise]]
-ィびまょウぺ ゅぺ れまょれぺぼもカょ ぽま りゎま ぽもるウぺれ まれよデ をぺ ゅよ[n]めまゆよれ ぼよゆらるよほぺぽよ! ィねよ ろま らるまよぼゎらまれデ れま ぽまろもまょま[n]まょ まゅ れもむゎもまょろま らもれよ!
+斡Ten胤a la sensaci吋n de que dir胤as eso, ya lo[n]hemos comprobado! 斡No te preocupes, se detiene[n]en el siguiente piso!
 
 [msg MSG_009 [Ken]]
 夷En serio? 斡Gracias a Dios!

@@ -55,19 +55,19 @@ De acuerdo... eso deber胤a ser todo.
 斡Vaya, eso es un atajo! 夷Vamos a[n]tomarlo?
 
 [msg MSG_013 [Yosuke]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Yosuke]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Yosuke]]
 Vaya, parece que ese camino no es[n]viable, 夷verdad?
 
 [msg MSG_016 [Yosuke]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Yosuke]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Yosuke]]
 Oye... Hay algo extra隠o. 夷Sientes eso?[n]夷Qu姻 hacemos?

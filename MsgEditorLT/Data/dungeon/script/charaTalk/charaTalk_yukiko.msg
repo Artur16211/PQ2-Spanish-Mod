@@ -55,19 +55,19 @@ Uf, lo logramos... Creo que hemos[n]terminado aqu胤.
 Oh, veo un atajo. 夷Deber胤amos tomarlo?
 
 [msg MSG_013 [Yukiko]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Yukiko]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Yukiko]]
 夷Hm...? No creo que podamos entrar por[n]aqu胤.
 
 [msg MSG_016 [Yukiko]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Yukiko]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Yukiko]]
 Este lugar se siente peligroso... 夷Qu姻[n]opinas?

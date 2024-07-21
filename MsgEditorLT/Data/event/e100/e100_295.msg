@@ -82,5 +82,5 @@ Esto es un poco diferente a la forma en[n]que estoy acostumbrada a hacerlo, pero
 Parece que ya hay Personas en esta[n]pel胤cula, puedes tenerlas si quieres.
 
 [msg GET_P3PHERO_PERSONA_MSG]
-ぱまぼもほもれろま ゅぺ らまるれよょぺ ゑ[f 0 1 2][f 2 4 1][f 0 1 0] ぽま [み ヂ[n]ソ ゾツ ゼ ゼ ゼ]テ だぽまゆァれデ ぼよょ ゅぺ もょぼよるらよるぺぼもカょ ぽま[n]ゎょぺ ょゎまわぺ ぼよゆらぺォまるぺ ぼよょ まゅ らよぽまる ぽまゅ ぼよゆよぽウょデ[n]ろゎ ぼぺらぺぼもぽぺぽ めぺ ぺゎゆまょろぺぽよ ぺ [f 0 1 2][f 2 4 0][f 0 1 0]テ
+Recibiste la persona x[f 0 1 2][f 2 4 1][f 0 1 0] de [f 6[n]1 28 0 0 0]. Adem茨s, con la incorporaci吋n de[n]una nueva compa隠era con el poder del comod胤n,[n]tu capacidad ha aumentado a [f 0 1 2][f 2 4 0][f 0 1 0].
 

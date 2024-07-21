@@ -104,5 +104,5 @@ Es cierto, tambi姻n hay que tener en[n]cuenta la formaci吋n del grupo, con[n]p
 Los miembros de la l胤nea trasera reciben[n]menos da隠o que los de la l胤nea[n]delantera.
 
 [msg MSG_099]
-モル遺ナが加入しました！ ※仲間加入ＷＮＤ用画像くるまでの仮。 TEMP
+モル遺)が加入しeした！ ※仲間加入ＷＮＤ用画像くreHO仮。 TEMP
 

@@ -62,7 +62,7 @@ No, eso es muy poco probable. Este lugar[n]es diferente de Palacios o Mementos.
 Hrgh, estoy totalmente perdida ahora.[n]夷Qu姻 significa todo esto en t姻rminos[n]b茨sicos?
 
 [msg MSG_018 [P3 Fem Protag]]
-ちゎまょよテテテ つれろよ まれ ゎょ ぽもゅまゆぺテ ぢよゆよ ぽもるウぺ どゎょらまもデ[n]'ィつれろよ れゎまょぺ ぼよゆよ ゎょ ぼぺれよ りゎま ょも れもりゎもまるぺ ゎょ[n]ひゎらまるぽまろまぼろもわま ぼよゆよ をよ らゎまぽま るまれよゅわまる!
+Bueno... Esto es un dilema. Como dir胤a Junpei,[n]'斡Esto suena como un caso que ni siquiera un[n]Superdetective como yo puede resolver!
 
 [msg MSG_019 [Chico Con Gorra De B姻isbol]]
 斡Whoa! 夷Conoces mi broma[n]caracter胤stica?!
@@ -103,7 +103,7 @@ Lo siento... Realmente no s姻 qu姻 decir.[n]Incluso se tomaron la molestia de[
 
 [msg MSG_030 [P3 Fem Protag]]
 斡Oh no, est茨 bien! 斡No te preocupes por[n]eso! Quiero decir, 斡todo en este lugar[n]parece estar realmente loco!
-ばゎもまるよ ぽまぼもるテ でまゆよれ ぺをゎぽぺぽよ ぺ ゎょ ぽもょよれぺゎるもよ[n]ぼよょ ゎょぺ ぼぺほまんぺ めゎゆぺょぺ まゑろるぺォぺデ ま もょぼゅゎれよ めぺを[n]ゎょ むぺろよ らぺるゅぺょろま ぺりゎウテ
+Quiero decir. Hemos ayudado a un dinosaurio[n]con una cabeza humana extra隠a, e incluso hay[n]un gato parlante aqu胤.
 
 [msg MSG_031 [Yosuke]]
 斡夷Qu姻 quieres decir con una cabeza[n]extra隠a?!
@@ -127,7 +127,7 @@ Ja, ja... Gracias. Ken, Koromaru.
 
 [msg MSG_037 [Chico Con Gorro]]
 Bueno, no te dejes que te afecte[n]demasiado.
-ぬよるぽまる ゆァれ ぽま ゅよ りゎま らゎまぽまれ ゆぺれろもぼぺる れよゅよ ろま[n]ぺむよろぺるァテ ねよ ろもまょま れまょろもぽよ ぺらるまれゎるぺるれまテ つれろよを[n]れまむゎるよ ぽま りゎま るまれよゅわまるまゆよれ ろよぽよ まれろよテ
+Morder m茨s de lo que puedes masticar solo te[n]agotar茨. No tiene sentido apresurarse. Estoy[n]seguro de que resolveremos todo esto.
 
 [msg MSG_038 [P3 Fem Protag]]
 斡Shinjiro...!

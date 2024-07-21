@@ -30,10 +30,10 @@ Everything comes down to chemicals...[n]And their reactions...
 斡Gyaaaaaaah!
 
 [msg MSG_008 [Marie]]
-ィね-ょよ まれ ゅよ りゎま らもまょれぺれ! ひよょテテテ ィひよゅよ ぺらゎょろまれ![n]ィはぺるぺ まれろゎぽもぺる! びグ まれろゎぽもぺれ みウれもぼぺデ りゎウゆもぼぺ を[n]ぼよれぺれ ぺれウ まょ ゅぺ まれぼゎまゅぺデ ィエわまるぽぺぽ?!
+斡N-no es lo que piensas! Son... 斡Solo apuntes![n]斡Para estudiar! T雨 estudias f胤sica, qu胤mica y[n]cosas as胤 en la escuela, 斡夷verdad?!
 斡No escrib胤 sulforaphane porque sea[n]similar a Sandalphon ni nada por el[n]estilo! 斡No suenan para nada parecido!
 ...
-ィびまよぽもよまれろグらもぽぺぽよらぺゆもょぺ! ィびま まれろよを ゅぺょんぺょぽよ[n]ゎょぺ ゆぺゅぽもぼもカょ を ぺめよるぺ れもまゆらるま れぺぼぺるァれ ゆぺゅぺれ[n]ぼぺゅもみもぼぺぼもよょまれ まょ ぼもまょぼもぺれ!
+斡Teodioest雨pidadopamina! 斡Te estoy lanzando[n]una maldici吋n y ahora siempre sacar茨s malas[n]calificaciones en ciencias!
 
 [msg MSG_009]
 Marie est茨 sonroj茨ndose m茨s que nunca...

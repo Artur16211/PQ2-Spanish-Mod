@@ -59,7 +59,7 @@ Es demasiado peligroso.
 ...Si Hikari est茨 segura, entonces los[n]apoyar姻 con todo lo que tengo.
 
 [msg MSG_016_5 [Futaba]]
-はまるよ ょよ めぺむぺれ ょぺぽぺ もゆらるゎぽまょろまデ エぽま ぺぼゎまるぽよ?[n]ィひも ゅぺれ ぼよれぺれ れま らよょまょ ぽもみウぼもゅまれデ ろもまょまれ りゎま[n]るまろるよぼまぽまるデ まょろまょぽもぽよ!
+Pero no hagas nada imprudente, 夷de acuerdo?[n]斡Si las cosas se ponen dif胤ciles, tienes que[n]retroceder, entendido!
 
 [msg MSG_017 [Futaba]]
 Honestamente, te entiendo...

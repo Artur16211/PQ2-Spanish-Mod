@@ -35,7 +35,7 @@ Mmm... Eso significa que en serio no[n]quieren que los sigamos, 夷eh?
 斡夷A qui姻n le importa?! 斡No vamos a[n]volver ahora, despu姻s de todo lo que[n]pasamos!
 
 [msg MSG_011 [Naoto]]
-だゎょりゎまデ ゆもるぺ まれろよれ まょよるゆまれ ァるほよゅまれデ ろもるぺぽよれ[n]ぼよょ ろぺょろぺ みぺぼもゅもぽぺぽテテテ はぺるまぼま りゎま れよょ[n]わまるぽぺぽまるよれ ぽもょよれぺゎるもよれ ぽまれらゎイれ ぽま ろよぽよテ
+Aunque, mira estos enormes 茨rboles, tirados[n]con tanta facilidad... Parece que son[n]verdaderos dinosaurios despu姻s de todo.
 
 [msg MSG_012 [Ryuji]]
 Sabes, es un buen punto... podr胤amos[n]estar en verdaderos problemas si los[n]molestamos...

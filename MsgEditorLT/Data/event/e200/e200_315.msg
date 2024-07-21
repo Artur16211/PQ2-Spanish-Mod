@@ -53,11 +53,11 @@ As胤 es como logramos hacer que el[n]carn胤voro retrocediera con solo un[n]ata
 Pero, 夷por qu姻 algo as胤 suceder胤a justo[n]ahora?
 
 [msg MSG_015 [Elizabeth]]
-びよぽよれ むぺょぺるよょ ゅぺ ぼぺらぺぼもぽぺぽ ぽま ゆぺょまゃぺる[n]ゆグゅろもらゅまれ はまるれよょぺれ ぽまほもぽよ ぺ りゎま ぺりゎまゅゅよれ ぼよょ[n]まゅ らよぽまる ぽまゅ ぼよゆよぽウょ りゎま れま るまゎょもまるよょ ぺりゎウテテテ
-つょろよょぼまれデ まれろま ぽまれらまるろぺる ぽま ゎょ らよぽまる ぺ ろるぺわイれ[n]ぽま ゅよれ わウょぼゎゅよれ らよぽるウぺ れまる ゎょ みまょカゆまょよ[n]まれらまぼウみもぼよ ぽま まれろま ゆゎょぽよ ろぺゆほもイょテ
+Todos ganaron la capacidad de manejar[n]m雨ltiples Personas debido a que aquellos con[n]el poder del comod胤n que se reunieron aqu胤...
+Entonces, este despertar de un poder a trav姻s[n]de los v胤nculos podr胤a ser un fen吋meno[n]espec胤fico de este mundo tambi姻n.
 
 [msg MSG_016 [P4 Hero]]
-ぢよよるぽもょぺゆよれ ょゎまれろるよ ぺろぺりゎま まょ まれま ゆよゆまょろよ れよゅよ[n]らよる ぼぺれゎぺゅもぽぺぽデ らまるよ れも らゎぽもイるぺゆよれ めぺぼまるゅよ[n]れもまゆらるま りゎま りゎもれもイるぺゆよれテテテ
+Coordinamos nuestro ataque en ese momento solo[n]por casualidad, pero si pudi姻ramos hacerlo[n]siempre que quisi姻ramos...
 
 [msg MSG_017 [Elizabeth]]
 Entonces, 夷por qu姻 no desarrollar a雨n[n]m茨s esos v胤nculos?
@@ -75,6 +75,6 @@ Con eso resuelto, por favor[n]disc雨lpeme...
 
 [msg MSG_020]
 Despu姻s de completar ciertas misiones,[n]adquirir茨n "Habilidades de Uni吋n".
-にぺれ でぺほもゅもぽぺぽまれ ぽま ぴょもカょ れよょ ぺろぺりゎまれ らよぽまるよれよれ[n]るまぺゅもんぺぽよれ らよる ゎれゎぺるもよれ ぽま はまるれよょぺ りゎま めぺょ[n]みよるろぺゅまぼもぽよ れゎ わウょぼゎゅよ まょろるま まゅゅよれテ
+Las Habilidades de Uni吋n son ataques poderosos[n]realizados por usuarios de Persona que han[n]fortalecido su v胤nculo entre ellos.
 Estos ser茨n 雨tiles dentro de las[n]pel胤culas, as胤 que aseg雨rate de[n]aprovecharlos al m茨ximo.
 

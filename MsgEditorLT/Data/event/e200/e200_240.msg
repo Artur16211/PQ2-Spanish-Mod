@@ -49,7 +49,7 @@ No creo que debamos tentar al destino,[n]como dice el refr茨n, los osos heridos
 夷"Osos heridos"?
 
 [msg MSG_015 [Naoto]]
-ぢゎぺょぽよ ゎょ よれよ めまるもぽよ まれ ぺぼよるるぺゅぺぽよデ れゎ[n]ぽまれまれらまるぺぼもカょ ゅよ めぺぼま まれらまぼもぺゅゆまょろま ぺろまるるぺぽよるテ[n]によ ゆもれゆよ れま ぽもぼま ぽま ゅよれ ゃぺほぺゅウまれテ
+Cuando un oso herido es acorralado, su[n]desesperaci吋n lo hace especialmente aterrador.[n]Lo mismo se dice de los jabal胤es.
 
 [msg MSG_016 [Teddie]]
 Entonces, 夷significa que ser胤a[n]invencible si me meto en un aprieto?

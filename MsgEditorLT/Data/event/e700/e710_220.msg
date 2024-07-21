@@ -23,5 +23,5 @@ As胤 que el brillo desaparece cuando[n]recoges los objetos...
 Es una transici吋n agradable.
 
 [msg MSG_007 [Ann]]
-っま ろよぽよれ ゆよぽよれデ ぽまほまるウぺゆよれ るまわもれぺる ゅよれ ゅゎむぺるまれ[n]りゎま ろもまょまょ ぼよょ まれろぺ ゅゎん ほるもゅゅぺょろまテ ィぬぺょろイょ ゅよれ[n]よゃよれ ぺほもまるろよれデ どよやまる!
+De todos modos, deber胤amos revisar los lugares[n]que tienen con esta luz brillante. 斡Mant姻n los[n]ojos abiertos, Joker!
 

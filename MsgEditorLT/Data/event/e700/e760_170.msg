@@ -21,7 +21,7 @@ Me preguntaba, como lo manejas... Siento[n]mencionarlo tan de repente.
 [msg MSG_006 [Mitsuru]]
 No, est茨 bien.
 Bueno, cuando se trata de mi familia...[n]Siendo honesta, se siente como una carga[n]a veces.
-つれらまぼもぺゅゆまょろま ぼゎぺょぽよ らもまょれよ まょ まゅ みゎろゎるよ ぽまゅ[n]てるゎらよ なもるもゃよ を まょ ゅぺれ るまれらよょれぺほもゅもぽぺぽまれ りゎま[n]ろまょぽるイ ぼよゆよ ゅぺ グょもぼぺ めまるまぽまるぺテ
+Especialmente cuando pienso en el futuro del[n]Grupo Kirijo y en las responsabilidades que[n]tendr姻 como la 雨nica heredera.
 
 [msg MSG_007 [Haru]]
 Lo imaginaba...
@@ -63,14 +63,14 @@ Solo ve poco a poco, y haz lo mejor que[n]puedas.
 
 [msg MSG_017 [Haru]]
 斡S胤, fue muy 雨til! 斡Gracias!
-のめデ ほゎまょよテ ねよ まれろよを れまむゎるぺ ぽま れも れまるウぺ ゎょぺ[n]ほゎまょぺ みよるゆぺ ぽま ぺむるぺぽまぼまるろまテテテ エはまるよ ゆま[n]らまるゆもろもるウぺれ もょわもろぺるろま ぺ ろよゆぺる ゎょ ぼぺみイ ぺゅむグょ[n]ぽウぺ?
+Oh, bueno. No estoy segura de si ser胤a una[n]buena forma de agradecerte... 夷Pero me[n]permitir胤as invitarte a tomar un caf姻 alg雨n[n]d胤a?
 
 [msg MSG_018 [Mitsuru]]
 夷Caf姻? Bebo t姻 de vez en cuando, pero no[n]tengo mucha experiencia con el caf姻.
 He escuchado que es un tema muy amplio.[n]Ser胤a un honor aceptar tu invitaci吋n.
 
 [msg MSG_019 [Haru]]
-ィっイゃぺゆまゅよ ぺ ゆウ! ィびまょむよ ぺゅむゎょよれ むるぺょよれ ぽま ぼぺみイ[n]ぽまゅもぼもよれよれ りゎま みゎまるよょ ぼよれまぼめぺぽよれ ぽまれらゎイれ ぽま[n]れまる みまるゆまょろぺぽよれ まょ まゑぼるまゆまょろよ ぽま まゅまみぺょろま!
+斡D姻jamelo a m胤! 斡Tengo algunos granos de caf姻[n]deliciosos que fueron cosechados despu姻s de[n]ser fermentados en excremento de elefante!
 
 [msg MSG_020 [Mitsuru]]
 夷Q-qu姻...?

@@ -42,7 +42,7 @@ Oh, s胤, pero... Su personalidad es[n]diferente, pero tiene, como... 夷Una[n]v
 Me recuerda a nuestro l胤der. No puedo[n]explicarlo.
 
 [msg MSG_011 [Yukari]]
-ひウテ ひま れゎらよょま りゎま まれろぺ まれ ゅぺ らるもゆまるぺ わまん りゎま[n]ゅぺ わまよデ らまるよ れま れもまょろま ろぺょ ょぺろゎるぺゅ ろまょまるゅぺ[n]ぼまるぼぺテテテ ぬま らるまむゎょろよ らよる りゎイ れまるァテ
+S胤. Se supone que esta es la primera vez que[n]la veo, pero se siente tan natural tenerla[n]cerca... Me pregunto por qu姻 ser茨.
 
 [msg MSG_012 [Koromaru]]
 斡Guau!

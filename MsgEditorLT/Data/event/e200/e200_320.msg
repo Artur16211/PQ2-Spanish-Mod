@@ -15,7 +15,7 @@ Yosukesaurio probablemente es la clave[n]para cambiar esta pel胤cula.
 La manada hab胤a dicho que se dirig胤an a[n]un "para胤so sin carn胤voros" en los[n]confines m茨s lejanos de la isla...
 
 [msg MSG_004 [Yusuke]]
-つょ まれま ぼぺれよデ まれろよを れまむゎるよ ぽま りゎま まわまょろゎぺゅゆまょろま[n]ょよれ るまゎょもるまゆよれ ぼよょ まゅゅよれ れも わぺゆよれ まょ ゅぺ[n]ぽもるまぼぼもカょ ぽま まれろま らぺるぺウれよテ
+En ese caso, estoy seguro de que eventualmente[n]nos reuniremos con ellos si vamos en la[n]direcci吋n de este para胤so.
 
 [msg MSG_005 [Yosuke]]
 斡Genial! 斡Acabemos con esto lo m茨s[n]r茨pido posible!

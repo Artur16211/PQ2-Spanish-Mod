@@ -13,7 +13,7 @@ Activar StreetPass te permitir茨[n]intercambiar Libros con otras personas.
 [msg FCL_NETWORK_SETTING_SUCC]
 La funci吋n StreetPass de Persona Q2 se[n]ha activado en este sistema Nintendo[n]3DS.
 Los intercambios de StreetPass ocurrir茨n[n]autom茨ticamente, incluso durante el modo[n]de reposo.
-はぺるぺ ぽまれぺぼろもわぺる ひろるままろはぺれれデ ぽまれぽま まゅ ぬまょグ[n]でのぬつデ れまゅまぼぼもよょぺ ぢよょみもむゎるぺぼもカょ ぽまゅ れもれろまゆぺ >[n]てまれろもカょ ぽま ぽぺろよれ > てまれろもカょ ぽま ひろるままろはぺれれテ
+Para desactivar StreetPass, desde el Men雨[n]HOME, selecciona Configuraci吋n del sistema >[n]Gesti吋n de datos > Gesti吋n de StreetPass.
 
 [msg FCL_NETWORK_SETTING_EXIS]
 La funci吋n StreetPass de Persona Q2 ya[n]est茨 activada.
@@ -22,17 +22,17 @@ Una vez all胤, selecciona Gesti吋n de[n]datos y luego desact胤vala con la opc
 
 [msg FCL_NETWORK_SETTING_FULL]
 Tu sistema Nintendo 3DS ya ha alcanzado[n]el n雨mero m茨ximo de registros de[n]StreetPass.
-はぺるぺ るまむもれろるぺる まれろま ろウろゎゅよ らぺるぺ れゎ ゎれよ ぼよょ[n]ひろるままろはぺれれデ わま ぺ ゅぺ てまれろもカょ ぽま ひろるままろはぺれれ まょ[n]ゅぺ ぢよょみもむゎるぺぼもカょ ぽまゅ れもれろまゆぺ を ぽまれぺぼろもわぺ よろるよ[n]ろウろゎゅよテ
+Para registrar este t胤tulo para su uso con[n]StreetPass, ve a la Gesti吋n de StreetPass en[n]la Configuraci吋n del sistema y desactiva otro[n]t胤tulo.
 
 [msg FCL_NETWORK_SETTING_EULA]
-はぺるぺ ぺぼろもわぺる ひろるままろはぺれれデ ぽまほまれ まれろぺる ぽま[n]ぺぼゎまるぽよ ぼよょ まゅ だぼゎまるぽよ ぽま ぴれゎぺるもよ ぽまゅ ひまるわもぼもよ[n]ぽま ねもょろまょぽよ タっひ ゆァれ るまぼもまょろまゆまょろま ぺぼろゎぺゅもんぺぽよテ
-ひまゅまぼぼもよょぺ ぢよょみもむゎるぺぼもカょ ぽま とょろまるょまろ -> のろるぺ[n]もょみよるゆぺぼもカょ -> だぼゎまるぽよ ぽま ゎれゎぺるもよ を ぺぼまらろぺ まゅ[n]だぼゎまるぽよ ぽま ゎれゎぺるもよ ゆァれ るまぼもまょろまテ
+Para activar StreetPass, debes estar de[n]acuerdo con el Acuerdo de Usuario del Servicio[n]de Nintendo 3DS m茨s recientemente actualizado.
+Selecciona Configuraci吋n de Internet -> Otra[n]informaci吋n -> Acuerdo de usuario y acepta el[n]Acuerdo de usuario m茨s reciente.
 
 [msg FCL_NETWORK_SETTING_PARE]
-にぺ みゎょぼもカょ ぽま ひろるままろはぺれれ まょ まれろま ゃゎまむよ ょよ れま[n]らゎまぽま ゎろもゅもんぺるデ をぺ りゎま ひろるままろはぺれれ まれろァ[n]るまれろるもょむもぽよ まょ ゅよれ ぢよょろるよゅまれ はぺるまょろぺゅまれテ
+La funci吋n de StreetPass en este juego no se[n]puede utilizar, ya que StreetPass est茨[n]restringido en los Controles Parentales.
 
 [msg FCL_NETWORK_QR_ALERT]
-はよる みぺわよるデ ょよ まれぼるもほぺれ ゆぺろまるもぺゅ よみまょれもわよデ[n]もょみるもょゃぺれ ぽまるまぼめよれ ぽま ぺゎろよる ょも るまわまゅまれ[n]もょみよるゆぺぼもカょ らまるれよょぺゅ まょ ろゎれ ゆまょれぺゃまれテ
+Por favor, no escribas material ofensivo,[n]infrinjas derechos de autor ni reveles[n]informaci吋n personal en tus mensajes.
 
 [msg FCL_NETWORK_QR_MAKE]
 Generando el c吋digo QR del Libro en la[n]tarjeta SD. Si ya existen datos, ser茨n[n]sobrescritos.

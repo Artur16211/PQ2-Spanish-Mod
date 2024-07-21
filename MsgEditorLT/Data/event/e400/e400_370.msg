@@ -25,7 +25,7 @@ Especialmente si ese recuerdo es[n]importante para ti.
 斡No la apresures, idiota! No debemos[n]presionarla.
 
 [msg MSG_007 [Shinjiro]]
-ねよ めぺを ょまぼまれもぽぺぽ ぽま ぺらるまれゎるぺるゅぺテテテ つれろよを[n]れまむゎるよ ぽま りゎま ゅよ るまぼよるぽぺるァれ まわまょろゎぺゅゆまょろまテ[n]つれらまぼもぺゅゆまょろま れも まれま るまぼゎまるぽよ まれ もゆらよるろぺょろま[n]らぺるぺ ろもテ
+No hay necesidad de apresurarla... Estoy[n]seguro de que lo recordar茨s eventualmente.[n]Especialmente si ese recuerdo es importante[n]para ti.
 
 [msg MSG_008 [P3 Fem Protag]]
 Adem茨s, 夷recuerdas lo que dijo Oracle?[n]Todos volveremos a casa juntos.
@@ -66,7 +66,7 @@ Por eso no pude evitar pensar, una y[n]otra vez...
 Quiero decir, la gente de SEES te[n]acepto. 夷Verdad?
 ...ya recuerdo. Estoy segura de que[n]sent胤 exactamente lo mismo de regreso a[n]casa.
 Cuanto m茨s pensaba en cosas, como en la[n]raz吋n para ser yo o por qu姻 existo, m茨s[n]confianza perd胤a en m胤...
-はまるよデ ぼよょよぼまるゅよれ ゆま ぺをゎぽよ ぺ ぽぺるゆま ぼゎまょろぺ ぽま[n]ぺゅむよ もゆらよるろぺょろまテ ねよ めぺを ょぺぽもま まょ まれろま ゆゎょぽよ[n]りゎま ょよ ろまょむぺ ゎょぺ るぺんカょ らぺるぺ まゑもれろもるテ
+Pero, conocerlos me ayudo a darme cuenta de[n]algo importante. No hay nadie en este mundo[n]que no tenga una raz吋n para existir.
 Es porque estuviste conmigo todo este[n]tiempo, que gan姻 el valor para enfrentar[n]mis miedos, [f 6 1 27 0 0 0].
 
 [msg MSG_018 [P3 Fem Protag]]
@@ -102,7 +102,7 @@ Yo... 斡Yo tampoco puedo dejar de llorar!
 Ugh! 斡Idiota, no puedes sonarte la nariz[n]con m茨s cortes胤a?!
 
 [msg MSG_027 [Yukari]]
-ちゎまょよデ ょよ まれ るまぺゅゆまょろま ょゎまれろるよ まれろもゅよ れまる ろぺょ[n]ょまむぺろもわよれテ ひも らよぽまゆよれ れまる ゆァれ らよれもろもわよれ ぼよゆよ[n]ろグデ まょろよょぼまれ まれよ まれ ゅよ ゆまゃよるデ エわまるぽぺぽ?
+Bueno, no es realmente nuestro estilo ser tan[n]negativos. Si podemos ser m茨s positivos como[n]t雨, entonces eso es lo mejor, 夷verdad?
 
 [msg MSG_028 [P3 Hero]]
 *risa* S胤, estoy de acuerdo.

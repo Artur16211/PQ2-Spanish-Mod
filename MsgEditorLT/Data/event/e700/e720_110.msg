@@ -5,7 +5,7 @@ Ah, ya veo... La [f 0 1 2]jaula gira cuando giras[n]el interruptor[f 0 1 0].
 斡S胤! 斡Ahora podemos seguir!
 
 [msg MSG_002 [Yusuke]]
-だ らまれぺる ぽま りゎま ゅよれ めゎゆぺょよれ ぺりゎウ ぽまれぺらぺるまぼもまるよょ[n]めぺぼま ろもまゆらよデ ゅぺ もょれろぺゅぺぼもカょ れもむゎま みゎょぼもよょぺょぽよテ[n]ばゎイ れゎまるろま らぺるぺ ょよれよろるよれテ
+A pesar de que los humanos aqu胤 desaparecieron[n]hace tiempo, la instalaci吋n sigue funcionando.[n]Qu姻 suerte para nosotros.
 
 [msg MSG_003 [Futaba]]
 斡Ah! Estoy recibiendo m雨ltiples se隠ales[n]fuertes adelante. Parecen ser FOEs. Ten[n]cuidado…

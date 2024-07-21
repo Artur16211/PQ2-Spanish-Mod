@@ -90,7 +90,7 @@ Vaya... Esto es un "Comod胤n".
 ジュース使用前確認MSG（仮）
 
 [msg combine_accident_up [Elizabeth]]
-事故率ＵＰ時のメッセージ（仮）
+事故率ＵＰ時Oメ7セージ（仮）
 
 [msg weather_bonus_omen]
 ★未使用！
@@ -162,74 +162,74 @@ Puedo registrar todas las Cintas de[n]Personas que tengas, 夷verdad?
 Parece que no tienes Personas que pueda[n]registrar. Francamente, es[n]decepcionante.
 
 [msg powerup_message [Margaret]]
-このペルソナを強化しますか？
+こOペル1)y強化しeすか？
 
 [msg powerup_cancel [Margaret]]
-あなたが現在身に着けている ペルソナに関しては、お預かり出来ません…
+あKたが現在身L着けGいr ペル1)L関しGP、お預かq出来eせz…
 
 [msg powerup_non [Margaret]]
-強化素材となるペルソナを お持ちで無いご様子…
+強化素材IKrペル1)y お持BH無いご様子…
 
 [msg powerup_receive [Margaret]]
-このペルソナの強化を中止し、 引き取りますか？
+こOペル1)O強化y中止し、 引き取qeすか？
 
 [msg powerup_receive1 [Margaret]]
-現在お預かりしているペルソナは、 ご覧の状態です。
+現在お預かqしGいrペル1)P、 ご覧O状態Hす。
 
 [msg powerup_receive2 [Margaret]]
-現在お預かりしているペルソナは、 ご覧の状態です。
+現在お預かqしGいrペル1)P、 ご覧O状態Hす。
 
 [msg powerup_receive3 [Margaret]]
-現在お預かりしているペルソナは、 ご覧の状態です。
+現在お預かqしGいrペル1)P、 ご覧O状態Hす。
 
 [msg powerup_failed [Margaret]]
-残念な事になってしまいました…
+残念K事LKDGしeいeした…
 
 [msg powerup_no_receive [Margaret]]
-これ以上ペルソナを所持出来ないご様子…[n]夷きを作ってから引き取りにいらして下さい。
+こs以上ペル1)y所持出来Kいご様子…[n]夷きy作DGかp引き取qLいpしG下さい。
 
 [msg skill_powerup [Margaret]]
-ペルソナのスキルが強化しそうです。
-『[f 0 1 1][f 2 4 0][f 0 1 0]』を強化しますか？
+ペル1)Oスキルが強化しそうHす。
+『[f 0 1 1][f 2 4 0][f 0 1 0]』y強化しeすか？
 
 [msg cmb_comu_achieve_get_ite]
 Recibiste [f 2 5 3 65535 0].
 
 [msg comu_achieve_rank_A [Margaret]]
-私の忠告など、 必要ありませんでしたね。
+私O忠告KJ、 必要あqeせzHしたN。
 
 [msg comu_achieve_rank_B [Margaret]]
-素晴らしいペースです。
-コミュニテ斡こそがあなたの“世界”を作る… どうぞお忘れなきよう…
+素晴pしいペースHす。
+コミュニ.斡こそがあKたO“世界”y作r… Jうぞお忘sKきoう…
 
 [msg comu_achieve_rank_C [Margaret]]
-なかなかのペースですね。
-コミュニテ斡こそがあなたの“世界”を作る… どうぞお忘れなきよう…
+KかKかOペースHすN。
+コミュニ.斡こそがあKたO“世界”y作r… Jうぞお忘sKきoう…
 
 [msg comu_achieve_rank_D [Margaret]]
-もっと絆を大事になさった方がいいかと。
-コミュニテ斡こそがあなたの“世界”を作る… どうぞお忘れなきよう…
+iDI絆y大事LKさDた方がいいかI。
+コミュニ.斡こそがあKたO“世界”y作r… Jうぞお忘sKきoう…
 
 [msg comu_achieve_rank_E [Margaret]]
-もっと絆を大事になさい。 貴方の傍に、きっと見つかるはずなのだから。
-コミュニテ斡こそがあなたの“世界”を作る… どうぞお忘れなきよう…
+iDI絆y大事LKさい。 貴方O傍L、きDI見EかrPずKOAかp。
+コミュニ.斡こそがあKたO“世界”y作r… Jうぞお忘sKきoう…
 
 [msg cmb_comu_achieve [Margaret]]
-あら…？
-どうやら、貴方のコミュニテ斡達成率が、 ５０％を越えた様子…
-素晴らしいわ。 なら…これを受け取ってちょうだい。
-コミュの充実こそが、 あなたの“世界”の充実になる…
-私、あなたの“世界”を 楽しみにしているわ。
+あp…？
+Jうkp、貴方Oコミュニ.斡達成率が、 ５０％y越えた様子…
+素晴pしいv。 Kp…こsy受け取DGBnうAい。
+コミュO充実こそが、 あKたO“世界”O充実LKr…
+私、あKたO“世界”y 楽しfLしGいrv。
 
 [msg cmb_comu_achieve_100 [Margaret]]
-素晴らしいわ…
-貴方はとうとう、全てのコミュニテ斡を 真の絆へと育んだのね…
-誰にでも出来ることじゃないわ…
-やはり貴方は…私の思ったとおりの人。
-貴方の“世界”とは… どんなものなのかしら。
-出来るなら、その“世界”に 私も連れて行って欲しいわね…
-…では、これを。 私が長い時をかけて作ったものよ。
-きっと、貴方を守るわ。 この私の代わりにね…
+素晴pしいv…
+貴方PIうIう、全GOコミュニ.斡y 真O絆YI育zAON…
+誰LHi出来rこIじjKいv…
+kPq貴方P…私O思DたIおqO人。
+貴方O“世界”IP… JzKiOKOかしp。
+出来rKp、そO“世界”L 私i連sG行DG欲しいvN…
+…HP、こsy。 私が長い時yかけG作DたiOo。
+きDI、貴方y守rv。 こO私O代vqLN…
 
 [msg book_bonus001 [Margaret]]
 Not used
@@ -244,64 +244,64 @@ Not used
 ★未使用！
 
 [msg combine_before_comu_none [Igor]]
-“[f 2 4 0]”コミュはまだお持ちでないご様子。[n]もっとも、“[f 2 4 0]”コミュを築かれるのは、[n]まだ先のようですが…
-新たな力を授かる事はございませんが、 このペルソナで宜しいですかな？
+“[f 2 4 0]”コミュPeAお持BHKいご様子。[n]iDIi、“[f 2 4 0]”コミュy築かsrOP、[n]eA先OoうHすが…
+新たK力y授かr事Pございeせzが、 こOペル1)H宜しいHすかK？
 
 [msg combine_before_comu_none_2 [Igor]]
-“[f 2 4 0]”コミュはまだお持ちでないご様子。[n]そろそろ現れる頃かと存じますが…
-新たな力を授かる事はございませんが、 このペルソナで宜しいですかな？
+“[f 2 4 0]”コミュPeAお持BHKいご様子。[n]そtそt現sr頃かI存じeすが…
+新たK力y授かr事Pございeせzが、 こOペル1)H宜しいHすかK？
 
 [msg combine_before_comu_none_3 [Igor]]
-“[f 2 4 0]”コミュはまだお持ちでないご様子。
-新たな力を授かる事はございませんが、 このペルソナで宜しいですかな？
+“[f 2 4 0]”コミュPeAお持BHKいご様子。
+新たK力y授かr事Pございeせzが、 こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_00 [Igor]]
-対応する“コミュ”をお持ちでないご様子… 新たな力を授かる事はございませんな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”yお持BHKいご様子… 新たK力y授かr事PございeせzK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_01 [Igor]]
-対応する“コミュ”のランクは１… さて…力をどれほど授かるでしょうな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP１… さG…力yJsbJ授かrHしnうK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_02 [Igor]]
-対応する“コミュ”のランクは２… 幾らかは力を授かって生まれるでしょうな…
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP２… 幾pかP力y授かDG生esrHしnうK…
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_03 [Igor]]
-対応する“コミュ”のランクは３… 幾らかは力を授かって生まれるでしょうな…
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP３… 幾pかP力y授かDG生esrHしnうK…
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_04 [Igor]]
-対応する“コミュ”のランクは４… なかなかの力を授かって生まれそうですな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP４… KかKかO力y授かDG生esそうHすK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_05 [Igor]]
-対応する“コミュ”のランクは５… なかなかの力を授かって生まれそうですな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP５… KかKかO力y授かDG生esそうHすK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_06 [Igor]]
-対応する“コミュ”のランクは６… かなりの力を授かって生まれそうですな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP６… かKqO力y授かDG生esそうHすK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_07 [Igor]]
-対応する“コミュ”のランクは７… かなりの力を授かって生まれそうですな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP７… かKqO力y授かDG生esそうHすK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_08 [Igor]]
-対応する“コミュ”のランクは８… 大きな力を授かって生まれて参りますな…
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP８… 大きK力y授かDG生esG参qeすK…
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_09 [Igor]]
-対応する“コミュ”のランクは９… 大きな力を授かって生まれて参りますな…
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP９… 大きK力y授かDG生esG参qeすK…
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_rank_10 [Igor]]
-対応する“コミュ”のランクは１０…
-ほう…これは間違いなく、 強大な力を授かって生まれて参りますな。
-このペルソナで宜しいですかな？
+対応すr“コミュ”OランクP１０…
+bう…こsP間違いKく、 強大K力y授かDG生esG参qeすK。
+こOペル1)H宜しいHすかK？
 
 [msg combine_comu_world [Igor]]
-このペルソナで宜しいですかな？
+こOペル1)H宜しいHすかK？
 
 [msg combine_tutorial_mes_igo [Igor]]
 ★未使用！
@@ -696,7 +696,7 @@ Not used
 [msg msg_combine_HELP_ACCIDEN [Justine]]
 "Fusi吋n de Personas" es un proceso muy[n]delicado.
 Aunque es muy raro, nos equivocamos[n]ocasionalmente... y en tales casos,[n]puede ocurrir un "accidente".
-によれ ぺぼぼもぽまょろまれ まょ ゅぺ みゎれもカょ ぺゅろまるぺょ まゅ[n]るまれゎゅろぺぽよ ぽまゅ るもろゎぺゅテ つれらまぼウみもぼぺゆまょろまデ[n]もょわよぼぺょぽよ ぺ ゎょ はまるれよょぺ ぽもみまるまょろま ぺ ゅぺ[n]らるまわもれろぺテ
+Los accidentes en la fusi吋n alteran el[n]resultado del ritual. Espec胤ficamente,[n]invocando a un Persona diferente a la[n]prevista.
 Incluso no podemos saber lo que surgir茨[n]de tal error.
 
 [msg msg_combine_HELP_KENSAKU [Caroline]]
@@ -717,7 +717,7 @@ Podr胤as intentarlo, al menos. 斡Usa todas[n]las ventajas que puedes conseguir
 
 [msg msg_combine_HELP_SACRIFI [Margaret]]
 Estoy a cargo de esto.
-にぺ "づゎれもカょ ぽま ひぺぼるもみもぼもよ" まれ ゎょ ぺるろま れまぼるまろよ[n]まょ まゅ りゎま ゎょぺ はまるれよょぺ まれ れぺぼるもみもぼぺぽぺ らぺるぺ[n]ぺをゎぽぺる ぺ よろるぺ はまるれよょぺ ぺ ゆまゃよるぺるテ
+La "Fusi吋n de Sacrificio" es un arte secreto[n]en el que una Persona es sacrificada para[n]ayudar a otra Persona a mejorar.
 Cuanto m茨s altos sean los niveles de la[n]Persona Sacrificada, m茨s mejoras[n]obtendr茨s.
 Normalmente, este arte secreto requiere[n]un pago apropiado...
 Pero en nombre de otras investigaciones,[n]existe una condici吋n especial.
@@ -914,7 +914,7 @@ ha aprendido [f 0 1 1][f 2 4 1][f 0 1 0]!
 Ya tienes [f 2 4 0].
 
 [msg msg_combine_stock_over_s [Justine]]
-ひま ょまぼまれもろぺょ [み ゼ ヂ ゾチチ[n]ゾチチ][f 3 1 1 0 0 59203][f 2 4 0] るぺょゎるぺドれナ[n]ぺぽもぼもよょぺゅドまれナ らぺるぺ るまろもるぺるれま ぽまゅ もょわまょろぺるもよ ぽま[n]はまるれよょぺれテ
+Se necesitan [f 0 6 255 255][f 3 1 1 0 0 59203][f 2 4 0] ranura(s)[n]adicional(es) para retirarse del inventario de[n]Personas.
 
 [msg msg_combine_sac_cost_fre [Margaret]]
 Dado que es la primera vez que veo esta[n]resonancia de poder, no habr茨 ning雨n[n]costo. 夷Est茨 seguro?
@@ -1008,49 +1008,49 @@ Voy a ayudar al Embaucador...? No[n]importa. 斡Traer姻 el dolor como siempre[n
 夷As胤 que un Embaucador quiere mi ayuda?[n]Me parece bien... 斡Aplastar姻 a[n]cualquiera que se te cruce!
 
 [msg cmb_cmm_quest02 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]マハンマ[f 0 1 0]”を持った“[f 0 1 1]マタドール[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]マハンマ[f 0 1 0]”y持Dた“[f 0 1 1]マ3(ール[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest03 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]暴れまくり[f 0 1 0]”を持った“[f 0 1 1]ド畏ン[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]暴seくq[f 0 1 0]”y持Dた“[f 0 1 1](畏ン[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest04 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]ブフーラ[f 0 1 0]”を持った“[f 0 1 1]ネコショ胤雨ン[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]ブフーラ[f 0 1 0]”y持Dた“[f 0 1 1]ネコショ胤雨ン[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest05 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]素早さの心得[f 0 1 0]”を持った“[f 0 1 1]ジャ威クフロスト[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]素早さO心得[f 0 1 0]”y持Dた“[f 0 1 1]ジャ威クフロス:[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest06 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]メギド[f 0 1 0]”を持った“[f 0 1 1]ヤタ遺ラス[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]メ/([f 0 1 0]”y持Dた“[f 0 1 1]ヤ3遺ラス[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest07 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]メデ斡ラマ[f 0 1 0]”を持った“[f 0 1 1]ヤツフサ[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]メ,斡ラマ[f 0 1 0]”y持Dた“[f 0 1 1]ヤ8フサ[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest08 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]テトラ吋ーン[f 0 1 0]”を持った“[f 0 1 1]遺ネーシャ[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1].:ラ吋ーン[f 0 1 0]”y持Dた“[f 0 1 1]遺ネーシャ[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest09 [マー遺レ7:]]
-では次は…
-“[f 0 1 1]コンセントレ姻ト[f 0 1 0]”を持った“[f 0 1 1]トランペッター[f 0 1 0]”… 貴方なら見せてくださるわね。
-楽しみに、お待ちしております。
+HP次P…
+“[f 0 1 1]コンセン:レ姻:[f 0 1 0]”y持Dた“[f 0 1 1]:ランペ73ー[f 0 1 0]”… 貴方Kp見せGくAさrvN。
+楽しfL、お待BしGおqeす。
 
 [msg cmb_cmm_quest10 [マー遺レ7:]]
-これ以上、貴方の心を見せてくれなくていいわ。 もう充分、分かっているから…
-…ありがとう。
-やはり貴方は、私が思った通りの人…
-時が来たら…私に答えをくれる人だわ…
-ふふっ… その時が楽しみね…
+こs以上、貴方O心y見せGくsKくGいいv。 iう充分、分かDGいrかp…
+…あqがIう。
+kPq貴方P、私が思Dた通qO人…
+時が来たp…私L答えyくsr人Av…
+VVD… そO時が楽しfN…
 

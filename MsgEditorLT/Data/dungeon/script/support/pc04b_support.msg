@@ -41,7 +41,7 @@ Para continuar, ser茨 necesario[n]desactivar la puerta el姻ctrica.
 Esa puerta es un obst茨culo[n]desafortunado.
 
 [msg MARGARET_DENKISAKU_REACT_3]
-つれ らるよほぺほゅま りゎま めぺをぺ ゎょ もょろまるるゎらろよる らぺるぺ[n]ぺらぺむぺる ゅぺ まょまるむウぺテ つれらまるよ りゎま らゎまぽぺれ[n]まょぼよょろるぺるゅよテ
+Es probable que haya un interruptor para[n]apagar la energ胤a. Espero que puedas[n]encontrarlo.
 
 [msg MARGARET_KYOUHU_REACTION]
 Qu姻 fuerte viento.
@@ -188,13 +188,13 @@ Todav胤a hay alguien que parece estar[n]en buenas condiciones.
 Deber胤as seguir adelante mientras[n]puedas.
 
 [msg MARGARET_BATTLE_CHANGE_D]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg MARGARET_BATTLE_CHANGE_D_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg MARGARET_BATTLE_CHANGE_D_3]
-■ト
+■:
 
 [msg MARGARET_ITEM_90_DUNGEON]
 Considera organizar tu colecci吋n[n]excesiva de objetos.

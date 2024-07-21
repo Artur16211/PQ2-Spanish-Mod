@@ -10,13 +10,13 @@ Es un mundo perfecto, donde se promete a[n]todos una vida perfecta.
 
 [msg MSG_003 [Voz De Hombre Misterioso]]
 La raz吋n por la que tal mundo puede ser[n]realidad es porque todos son iguales.
-はもまょれぺ まょ ゅよ もょみるゎぼろゎよれよ りゎま まれ ぼよょろるぺれろぺる よ[n]ぽまれろぺぼぺるテ ひまる ぼよゆよ ゅよれ ぽまゆァれ -れまる ょよるゆぺゅ- まれ[n]ゅよ ゆまゃよる らぺるぺ ろよぽよれテ
+Piensa en lo infructuoso que es contrastar o[n]destacar. Ser como los dem茨s -ser normal- es[n]lo mejor para todos.
 
 [msg MSG_004 [Akechi]]
 Teniendo en cuenta el discurso, es[n]probable que 姻l sea el Supervisor de los[n]robots.
 
 [msg MSG_005 [Voz De Hombre Misterioso]]
-のゃよれ ぺ ゅぺ ぽまるまぼめぺテテテ のゃよれ ぺ ゅぺ もんりゎもまるぽぺテテテ[n]にぺれ ゎょもぽぺぽまれ ぼよょ ゆぺゅ みゎょぼもよょぺゆもまょろよ りゎま ょよ れま[n]ぺぽめもまるぺょ ぺ ゅぺ ょよるゆぺゅもぽぺぽ れまるァょ まゅもゆもょぺぽぺれテ
+Ojos a la derecha... Ojos a la izquierda...[n]Las unidades con mal funcionamiento que no se[n]adhieran a la normalidad ser茨n eliminadas.
 En ese orden, cada robot debe enfocarse[n]en sus tareas asignadas, sin peros, ni[n]y's, tampoco quiero verlos ro-parados.
 
 [msg MSG_006 [Haru]]
@@ -107,5 +107,5 @@ E-em... 夷Que crees responder胤a si le[n]preguntara si puedo ver sus piezas[n]
 斡夷Qu姻?! Estoy sintiendo otra amante de[n]la mec茨nica aqu胤 tambi姻n. Mweheheh...[n]斡Entiendo tu curiosidad!
 
 [msg MSG_033 [Mitsuru]]
-ぬもまょろるぺれ まれろま ぽま ぺぼゎまるぽよ ぼよょ まれよデ ょよ わまよ まゅ[n]らるよほゅまゆぺテテテ ひもょ まゆほぺるむよデ らるもゆまるよ ぽまほまゆよれ[n]らるもよるもんぺる るまゎょもるょよれ ぼよょ まゅゅぺ を ょゎまれろるよ ゅウぽまるテ
+Mientras este de acuerdo con eso, no veo el[n]problema... Sin embargo, primero debemos[n]priorizar reunirnos con ella y nuestro l胤der.
 Vamos, apresur姻monos.

@@ -23,7 +23,7 @@ Me duelen los ojos.
 No noto nada.
 
 [msg MSG_006 [Yusuke]]
-ひウテ へ ぺゎょりゎま ろま るまれゎゅろま ぽまれぺむるぺぽぺほゅまデ まれろァれ[n]よほゅもむぺぽよ ぺ るまらるもゆもる ろゎれ れまょろもゆもまょろよれ を ぺぼまらろぺる[n]まれろま ゆゎょぽよ ろぺゅ ぼゎぺゅ まれテ
+S胤. Y aunque te resulte desagradable, est茨s[n]obligado a reprimir tus sentimientos y aceptar[n]este mundo tal cual es.
 Estoy percibiendo una gran cantidad de[n]intrusi吋n y compulsi吋n tambi姻n desde un[n]enfoque art胤stico...
 
 [msg MSG_007 [Haru]]
@@ -82,7 +82,7 @@ Estoy preocupado por Hikari.
 斡S胤! 斡Deber胤amos apresurarnos y buscar a[n]Hikari!
 
 [msg MSG_022 [P4 Hero]]
-びるぺょりゎもゅよ ぼよゆよ れもまゆらるまデ ほぺれろぺょろま[n]もゆらるまれもよょぺょろまテ ぢもまるろぺゆまょろまデ ろよぽよれ ょゎまれろるよれ[n]まれみゎまるんよれ れまるウぺょ まょ わぺょよ れも ょよれ れぺぼぺょ ぽま ぺりゎウテ
+Tranquilo como siempre, bastante[n]impresionante. Ciertamente, todos nuestros[n]esfuerzos ser胤an en vano si nos sacan de aqu胤.
 
 [msg MSG_023 [P3 Fem Protag]]
 Pero, me pregunto si Hikari estar茨[n]bien... Estoy preocupada.

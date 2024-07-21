@@ -47,7 +47,7 @@ Aunque, naturalmente, ser茨s incapaz de[n]sacrificar a tu Persona principal.
 Pero espera, 夷no hay m茨s? 夷Algo as胤 como[n]a un costo m茨s alto?
 
 [msg MSG_014 [Margaret]]
-はよる れゎらゎまれろよデ らまぽもるイ ゎょぺ ぼよゆらまょれぺぼもカょデ ゎょぺ[n]ぼぺょろもぽぺぽ るぺんよょぺほゅまテ ひもょ まゆほぺるむよデ をぺ りゎま まれろよ[n]まれ らぺるぺ ゆも らるよらもぺ もょわまれろもむぺぼもカょ ろぺゆほもイょテテテ
+Por supuesto, pedir姻 una compensaci吋n, una[n]cantidad razonable. Sin embargo, ya que esto[n]es para mi propia investigaci吋n tambi姻n...
 Si la Persona que va a desaparecer est茨[n]siendo sacrificada por primera vez, ser茨[n]gratuito.
 Sin embargo, cuando esa Persona sea[n]sacrificada nuevamente, pedir姻 ser[n]compensada.
 

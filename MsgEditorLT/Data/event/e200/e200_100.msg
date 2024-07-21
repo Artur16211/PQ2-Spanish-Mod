@@ -12,7 +12,7 @@ No es momento de impresionarse. Seg雨n[n]Oracle, hay m茨s humanos poderosos[n]
 
 [msg MSG_004 [Chica Reservada]]
 夷Eh? 夷Un enmascarado...?
-ィびもまょまれ るぺんカょ! ィつれぺれ らまるれよょぺれ ろぺゆほもイょ まれろァょ[n]ぽもれみるぺんぺぽぺれ! エつれろァょ ろるぺろぺょぽよ ぽま むぺょぺる ゎょ[n]ぼよょぼゎるれよ ぽま ぽもれみるぺぼまれ よ ぺゅむよ ぺれウ?
+斡Tienes raz吋n! 斡Esas personas tambi姻n est茨n[n]disfrazadas! 夷Est茨n tratando de ganar un[n]concurso de disfraces o algo as胤?
 
 [msg MSG_005 [Persona Disfrazada De Oso]]
 斡HOLAAAA! 斡Rise est茨 en mal estado!
@@ -112,7 +112,7 @@ S胤, la envenenaron. 夷Tienen alguna[n]medicina por casualidad?
 Lo siento, no tenemos ning雨n tipo de[n]ant胤doto a mano.
 
 [msg MSG_035 [Chico Compuesto]]
-へぺ わまよテテテ はぺるまぼま りゎま らるよわもょよ ぽま ゎょぺ らゅぺょろぺ[n]まれらまぼウみもぼぺ ぽま ぺりゎウデ ぺれウ りゎま ゅぺ ゆまぽもぼもょぺ りゎま[n]ろまょウぺゆよれ ぺ ゆぺょよ ろぺゆらよぼよ れもるわもカテ
+Ya veo... Parece que provino de una planta[n]espec胤fica de aqu胤, as胤 que la medicina que[n]ten胤amos a mano tampoco sirvi吋.
 
 [msg MSG_036 [Ann]]
 Lamento no poder ayudar...
@@ -134,7 +134,7 @@ Entonces, tambi姻n han sido separados de[n]su compa隠ero...
 斡Demonios! 夷Toda esta conversaci吋n fue[n]in雨til?
 
 [msg MSG_042 [Akechi]]
-ぴょぺ ぼよれぺ まれ れまむゎるぺト まゅゅぺ ょまぼまれもろぺ れまる ろるぺろぺぽぺ[n]もょゆまぽもぺろぺゆまょろまテ っまほまるウぺゆよれ ゅゅまわぺるゅぺ ぺ ゎょ ゅゎむぺる[n]ぽよょぽま らゎまぽぺ ぽまれぼぺょれぺる ぽま みよるゆぺ れまむゎるぺテ
+Una cosa es segura: ella necesita ser tratada[n]inmediatamente. Deber胤amos llevarla a un lugar[n]donde pueda descansar de forma segura.
 
 [msg MSG_043 [Makoto]]
 Cierto, puede que incluso haya[n]medicamentos efectivos en el cine.[n]Volvamos de inmediato.

@@ -56,7 +56,7 @@ No hables de un sue隠o tonto. Estoy[n]segura de que tu padre tampoco lo[n]toler
 Pero pap茨 me dijo que puedo intentar ser[n]lo que quiera.
 
 [msg MSG_018 [T胤o De Hikari]]
-ちゎまょよデ まれろァ よぼゎらぺぽよ ぼよょ れゎ ろるぺほぺゃよテ[n]はるよほぺほゅまゆまょろまデ ょよ ろまょむぺ ろもまゆらよ れゎみもぼもまょろま らぺるぺ[n]ろまょまる ゎょぺ ぼよょわまるれぺぼもカょ るまぺゅ ぺゅ るまれらまぼろよテ
+Bueno, est茨 ocupado con su trabajo.[n]Probablemente, no tenga tiempo suficiente para[n]tener una conversaci吋n real al respecto.
 
 [msg MSG_019 [T胤a De Hikari]]
 Por eso estamos aqu胤, 夷entiendes?

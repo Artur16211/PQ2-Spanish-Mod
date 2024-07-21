@@ -41,7 +41,7 @@ Podr胤amos ser electrocutados por[n]eso...
 Tal vez me pueda cargar con esta[n]electricidad... No, olv胤dalo.
 
 [msg AEGIS_DENKISAKU_REACTION_3]
-びま ぺぼよょれまゃよ りゎま ぽまろまょむぺゆよれ ゅぺ ぼよるるもまょろま[n]まゅイぼろるもぼぺ ぺょろまれ ぽま ぼよょろもょゎぺるテ
+Te aconsejo que detengamos la corriente[n]el姻ctrica antes de continuar.
 
 [msg AEGIS_KYOUHU_REACTION_1]
 斡Parece que hay un viento fuerte[n]aqu胤!
@@ -167,7 +167,7 @@ Reportando una disminuci吋n en la[n]resistencia.
 Mi resistencia ha llegado a su[n]l胤mite...
 
 [msg AEGIS_1PERSON_TP10_3]
-っまろまぼろよ ゎょぺ ぽもれゆもょゎぼもカょ まょ ゅぺ るまれもれろまょぼもぺテ[n]ぢるまよ りゎま ゅよ ゅゅぺゆぺょ まれろぺる ぼぺょれぺぽよテ
+Detecto una disminuci吋n en la resistencia.[n]Creo que lo llaman estar cansado.
 
 [msg AEGIS_ITEM_90_BATTLE_1]
 【justificadamente
@@ -188,13 +188,13 @@ Esa batalla dio excelentes[n]resultados.
 [n]ЮТЕЛИТЕННЫЙНИНАНИЕНИТЕНИЕНИЕНИЕННИЕННЫЙ
 
 [msg AEGIS_BATTLE_CHANGE_DUNG]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg AEGIS_BATTLE_CHANGE_DUNG_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg AEGIS_BATTLE_CHANGE_DUNG_3]
-■ト
+■:
 
 [msg AEGIS_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)
@@ -206,7 +206,7 @@ Esa batalla dio excelentes[n]resultados.
 (DGP郁BLICA)
 
 [msg AEGIS_DUNGEON_START_1]
-ィづよるろぺゅまんぼぺゆよれ ょゎまれろるぺ ぽまろまるゆもょぺぼもカょ らぺるぺ[n]ゅぺ ろぺるまぺ りゎま ろまょまゆよれ らよる ぽまゅぺょろま!
+斡Fortalezcamos nuestra determinaci吋n para[n]la tarea que tenemos por delante!
 
 [msg AEGIS_DUNGEON_START_2]
 Creo que la frase es: "斡Vamos!"
@@ -233,7 +233,7 @@ Propongo que tomemos descansos[n]durante nuestra exploraci吋n.
 斡Nuestro progreso es del 50%!
 
 [msg AEGIS_TOUHA_50_2]
-にゅまょぺる ょゎまれろるよ ゆぺらぺ らるよほぺほゅまゆまょろま ぺゎゆまょろぺるァ[n]ゅぺ まみもぼもまょぼもぺ ぽま ゅぺ まゑらゅよるぺぼもカょテ
+Llenar nuestro mapa probablemente aumentar茨[n]la eficiencia de la exploraci吋n.
 
 [msg AEGIS_TOUHA_75_1]
 "No falta mucho" es una expresi吋n[n]adecuada.

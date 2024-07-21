@@ -17,7 +17,7 @@ Ryuji...
 
 [msg MSG_005 [Morgana]]
 Pero ahora, sabemos que es lo mejor.
-だらゅもぼぺゆよれ ょゎまれろるぺ ゃゎれろもぼもぺ れもょ まれろぺる[n]もょみゅゎまょぼもぺぽよれ らよる ゅよれ ぼぺらるもぼめよれ ぽま ゅぺ[n]れよぼもまぽぺぽデ ぺれウ ゅよれ めぺぼまょ ゅよれ ゅぺぽるよょまれ みぺょろぺれゆぺテ
+Aplicamos nuestra justicia sin estar[n]influenciados por los caprichos de la[n]sociedad, as胤 los hacen los ladrones fantasma.
 
 [msg MSG_005_05 [Yusuke]]
 Nuestros m姻todos a un lado... Hikari,[n]夷es esta pel胤cula la que necesitas ver?
@@ -61,12 +61,12 @@ Un dinosaurio que quiere salvar a su[n]manada, pero no puede hacerlo por la[n]op
 Se supone que es una pel胤cula de[n]dinosaurios, pero es como ver los[n]dolorosos problemas de la vida humana.
 
 [msg MSG_016 [Haru]]
-エぢカゆよ ぺゅむゎもまょ ゆぺゅよ りゎま れま ぺるるゎもょぺ ゅぺ らぺん を[n]ろよぽよ まゅ ゆゎょぽよ れま らるまよぼゎらぺ ぼよょれろぺょろまゆまょろま ぽま[n]ぼカゆよ れま れもまょろまょ を らもまょれぺょ ゅよれ ぽまゆァれ?
+夷C吋mo alguien malo que se arruina la paz y[n]todo el mundo se preocupa constantemente de[n]c吋mo se sienten y piensan los dem茨s?
 Lo mismo podr胤a decirse de la pel胤cula[n]de Kamoshidaman, 夷por qu姻 son las[n]historias as胤?
 
 [msg MSG_017 [Yusuke]]
 Esto no solo se aplica a las pel胤culas,[n]sino que los creadores incluyen un[n]mensaje en su pel胤cula.
-つょ まれろま ぼぺれよデ れゎらよょむよ りゎま ゅよれ ぼもょまぺれろぺれ まれろァょ[n]ぽもぼもまょぽよデ "っまゃぺ ぽま れまる りゎもまょ まるまれ を[n]れもゆらゅまゆまょろま めぺん ゅよ りゎま めぺぼま ろよぽよ まゅ ゆゎょぽよテテテ"
+En este caso, supongo que los cineastas est茨n[n]diciendo, "Deja de ser quien eres y[n]simplemente haz lo que hace todo el mundo..."
 
 [msg MSG_018 [Ryuji]]
 夷Qu姻? 夷Decides qu姻 hacer por una mierda[n]como esa? 斡Eso no es diferente a estar[n]muerto!
@@ -89,7 +89,7 @@ Solo tengo curiosidad de por qu姻[n]est茨s...
 夷Por qu姻 sientes tanta ira... o tristeza[n]por eso?
 
 [msg MSG_024 [Ryuji]]
-つょ まゅ みよょぽよデ まれま ぽもょよれぺゎるもよ りゎもまるま れぺゅわぺる ぺ れゎ[n]ゆぺょぺぽぺデ らまるよ ょぺぽもま まれろァ ぽもれらゎまれろよ ぺ ぺをゎぽぺるデ[n]ぺれウ りゎま ょよ らゎまぽまテテテ つれよ まれ るまぺゅゆまょろま[n]ぽまれぺゅまょろぺぽよるテ
+En el fondo, ese dinosaurio quiere salvar a su[n]manada, pero nadie est茨 dispuesto a ayudar,[n]as胤 que no puede... Eso es realmente[n]desalentador.
 
 [msg MSG_025 [Hikari]]
 Pero sus compa隠eros se opusieron a la[n]idea. Si intentaran rescatarlos, todos[n]los dem茨s estar胤an en peligro...

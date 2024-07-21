@@ -188,13 +188,13 @@ Jeje, 斡fue pan comido!
 斡Muy bien! 斡Mu姻vanse!
 
 [msg RYUJI_BATTLE_CHANGE_DUNG]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg RYUJI_BATTLE_CHANGE_DUNG_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg RYUJI_BATTLE_CHANGE_DUNG_3]
-■ト
+■:
 
 [msg RYUJI_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

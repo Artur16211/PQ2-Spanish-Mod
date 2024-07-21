@@ -15,7 +15,7 @@ Los colores parecen... mal. 夷La pel胤cula[n]est茨 da隠ada?
 Parece que est茨n proyectando los[n]negativos de la pel胤cula.
 
 [msg MSG_005 [Hikari]]
-だれウ まれテ にぺ るぺんカょ らよる ゅぺ りゎま ゅよれ ょまむぺろもわよれ[n]めぺぼまょ りゎま ゅぺ むまょろま れま れもまょろぺ ゆぺゅ まれ ゅぺ[n]もょわまるれもカょ ぽま ぼよゅよるまれ りゎま ぼぺゆほもぺ ゅぺ ゅゎん を ゅぺ[n]よれぼゎるもぽぺぽテテテ
+As胤 es. La raz吋n por la que los negativos[n]hacen que la gente se sienta mal es la[n]inversi吋n de colores que cambia la luz y la[n]oscuridad...
 La pel胤cula se desinvierte durante la[n]impresi吋n, al final, los colores salen[n]como los ves normalmente en la pantalla.
 
 [sel SEL_006 top]
@@ -31,8 +31,8 @@ No puede evitarlo, es una entusiasta.[n]Solo s姻 amable, sonr胤e, asiente... A
 
 [msg MSG_009 [Hikari]]
 Dado que cualquier pel胤cula invertida se[n]llama "negativa", las que se invierten[n]de nuevo son "positivas".
-びぺゆほもイょ まゑもれろま ぺゅむよ ゅゅぺゆぺぽよ "らまゅウぼゎゅぺ ぽま[n]もょわまるれもカょ" りゎま むるぺほぺ もゆァむまょまれ らよれもろもわぺれ ぽま[n]もょゆまぽもぺろよデ まょ ゅゎむぺる ぽま もゆァむまょまれ ょまむぺろもわぺれテテテ
-はまるよ ゅぺれ らまゅウぼゎゅぺれ ろもまょぽまょ ぺ れまる みもゅゆぺぽぺれ まょ[n]ょまむぺろもわよ らよるりゎま ゅぺれ ぼよるるまぼぼもよょまれ を ゅぺ[n]ぽゎらゅもぼぺぼもカょ れよょ ゆァれ みァぼもゅまれ ぽま まれぺ みよるゆぺテ
+Tambi姻n existe algo llamado "pel胤cula de[n]inversi吋n" que graba im茨genes positivas de[n]inmediato, en lugar de im茨genes negativas...
+Pero las pel胤culas tienden a ser filmadas en[n]negativo porque las correcciones y la[n]duplicaci吋n son m茨s f茨ciles de esa forma.
 
 [msg MSG_010 [Ryuji]]
 B-bien. No entend胤 nada de eso.
@@ -73,7 +73,7 @@ S-s胤, "conceptos an茨logos"... As胤 como,[n]eh... carrillera de cerdo y tras
 夷Sabes siquiera de que est茨 hablando? 夷Y[n]la carne es realmente la 雨nica cosa en[n]tu mente?
 
 [msg MSG_022 [Haru]]
-ちゎまょよデ らよる まゃまゆらゅよデ ゅぺ むまょろま ぺゅまむるま れま[n]ゅゅぺゆぺるウぺ "らよれもろもわぺ"デ ゆもまょろるぺれ りゎま ゅぺ むまょろま[n]れよゆほるウぺ れま ぼよょよぼまるウぺ ぼよゆよ "ょまむぺろもわぺ"テテテ
+Bueno, por ejemplo, la gente alegre se[n]llamar胤a "positiva", mientras que la gente[n]sombr胤a se conocer胤a como "negativa"...
 
 [msg MSG_023 [Yosuke]]
 Entiendo. Esto est茨 empezando a tener[n]sentido ahora.

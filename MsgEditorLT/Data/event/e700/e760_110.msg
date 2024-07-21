@@ -27,7 +27,7 @@ No te preocupes, Chie.
 El entrenamiento no normal no har茨 que[n]tus m雨sculos se pongan as胤.
 
 [msg MSG_007_1 [Akihiko]]
-つれま ろもらよ ぽま ぼゎまるらよ れよゅよ ゅよ よほろもまょまょ ぺりゎまゅゅよれ[n]ゅよ れゎみもぼもまょろまゆまょろま ぺらぺれもよょぺぽよれ ぼよゆよ らぺるぺ[n]ぽまぽもぼぺるゅま もょぼよょろぺほゅまれ めよるぺれ ぽま ろるぺほぺゃよテ
+Ese tipo de cuerpo solo lo obtienen aquellos[n]lo suficientemente apasionados como para[n]dedicarle incontables horas de trabajo.
 
 [msg MSG_008 [Chie]]
 Ooh, 夷En serio? Entonces, tal vez[n]deber胤a trabajar mis m雨sculos m茨s a[n]menudo...

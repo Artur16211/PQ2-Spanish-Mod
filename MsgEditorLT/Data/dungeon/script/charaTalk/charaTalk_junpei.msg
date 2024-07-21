@@ -55,19 +55,19 @@ Hombre, eso fue espeluznante... De todos[n]modos, 斡hemos terminado!
 斡Vaya, encontr姻 un atajo! 夷Lo usamos?
 
 [msg MSG_013 [Junpei]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Junpei]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Junpei]]
 Supongo que no podemos ir por aqu胤.
 
 [msg MSG_016 [Junpei]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Junpei]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Junpei]]
 Eh... algo nos va a atacar, puedo[n]sentirlo.

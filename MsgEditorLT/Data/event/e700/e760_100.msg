@@ -8,7 +8,7 @@ Un paso m茨s, y mi espalda estar茨[n]hecha... hora de un descanso.
 Si te cansas tan r茨pido, tu salario[n]nunca va a subir.
 
 [msg MSG_003 [Teddie]]
-ィつれろよを ぼぺょれぺぽよ ぽま ろるぺほぺゃぺるデ まれろよを ぼぺょれぺぽよ ぽま[n]もる ぺゅ むもゆょぺれもよデ を まれろよ まれ ぺゅむよ りゎま[n]ぽまみもょもろもわぺゆまょろま ょよ らゎまぽよ ゆぺょまゃぺる!
+斡Estoy cansado de trabajar, estoy cansado de[n]ir al gimnasio, y esto es algo que[n]definitivamente no puedo manejar!
 
 [msg MSG_004 [Yosuke]]
 Sheesh... Ser胤a bueno que encontraras[n]otro trabajo a tiempo parcial que puedas[n]manejar.
@@ -59,7 +59,7 @@ Un paso m茨s, y mi espalda estar茨[n]hecha... hora de un descanso.
 Si te cansas tan r茨pido, tu salario[n]nunca va a subir.
 
 [msg MSG_0003 [Teddie]]
-ィつれろよを ぼぺょれぺぽよ ぽま ろるぺほぺゃぺるデ まれろよを ぼぺょれぺぽよ ぽま[n]もる ぺゅ むもゆょぺれもよデ を まれろよ まれ ぺゅむよ りゎま[n]ぽまみもょもろもわぺゆまょろま ょよ らゎまぽよ ゆぺょまゃぺる!
+斡Estoy cansado de trabajar, estoy cansado de[n]ir al gimnasio, y esto es algo que[n]definitivamente no puedo manejar!
 
 [msg MSG_0004 [Yosuke]]
 Sheesh... Ser胤a bueno que encontraras[n]otro trabajo a tiempo parcial que puedas[n]manejar.

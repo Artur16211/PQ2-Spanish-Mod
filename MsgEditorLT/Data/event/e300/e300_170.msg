@@ -6,7 +6,7 @@ Ugh, 夷Qu姻 quiere ahora?
 
 [msg MSG_002 [Supervisor]]
 La UIY-2249 ha eludido los[n]procedimientos est茨ndar y est茨 evitando[n]su captura, se considera defectuosa...
-ひまるァ ぽまれぺぼろもわぺぽぺ もょゆまぽもぺろぺゆまょろま ゎょぺ わまん れまぺ[n]まょぼよょろるぺぽぺテ ィにま まれらまるぺ まゅ ぽまれろもょよ ぺ ぼゎぺゅりゎもまる[n]ゎょもぽぺぽ りゎま ょよ れもむぺ ゅよれ らるよぼまぽもゆもまょろよれ!
+Ser茨 desactivada inmediatamente una vez sea[n]encontrada. 斡Le espera el destino a cualquier[n]unidad que no siga los procedimientos!
 
 [msg MSG_003 [Yosuke]]
 Al menos no intento decir un chiste esta[n]vez...
@@ -143,7 +143,7 @@ S緯. MUCHAS GRACIAS.
 斡Nunca permitiremos que te desactiven,[n]斡Solo ven con nosotros!
 
 [msg MSG_045 [Akechi]]
-はまるよ らぺるぺ りゎま まゅゅぺ まれろイ るまぺゅゆまょろま ぺ れぺゅわよ まょ[n]まれろぺ らまゅウぼゎゅぺデ らるよほぺほゅまゆまょろま ょまぼまれもろまゆよれ めぺぼまる[n]ぺゅむよ ぼよょ まれま ひゎらまるわもれよるテテテ
+Pero para que ella est姻 realmente a salvo en[n]esta pel胤cula, probablemente necesitemos hacer[n]algo con ese Supervisor...
 En cualquier caso, debemos ir al[n]laboratorio.
 
 [msg MSG_046 [P3 Fem Protag]]

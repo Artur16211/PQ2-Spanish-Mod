@@ -9,7 +9,7 @@ Ustedes hab胤an estado buscando por aqu胤[n]cuando nos encontramos, 夷verdad?
 
 [msg MSG_003 [Mitsuru]]
 Es correcto. Sin embargo, nuestros[n]hallazgos fueron extremadamente[n]limitados...
-でぺほウぺ ゆまぼぺょもれゆよれ を よほれろァぼゎゅよれ らよる ろよぽぺれ[n]らぺるろまれ; めぺほウぺゆよれ ゅゅまむぺぽよ ぺゅ ゅウゆもろま ぽま ょゎまれろるぺ[n]らぺぼもまょぼもぺ ぼゎぺょぽよ ょよれ まょぼよょろるぺゆよれテ
+Hab胤a mecanismos y obst茨culos por todas[n]partes; hab胤amos llegado al l胤mite de nuestra[n]paciencia cuando nos encontramos.
 
 [sel SEL_004 top]
 Bien, sigamos adelante entonces.
@@ -138,7 +138,7 @@ Estoy de acuerdo. Parece ser parte de la[n]pel胤cula.
 夷"Parte de la pel胤cula"?
 
 [msg MSG_044 [Makoto]]
-はまるれよょぺれ りゎま ぽま ぺゅむゎょぺ ゆぺょまるぺ まれろァょ[n]るまゅぺぼもよょぺぽぺれ ぼよょ ょよれよろるよれデ ゅぺれ らまるれよょぺれ まょ まゅ[n]まれろま ゆゎょぽよデ めぺょ ぺらぺるまぼもぽよ ぼよゆよ らまるれよょぺゃまれ まょ[n]ゅぺれ らまゅウぼゎゅぺれテテテ
+Personas que de alguna manera est茨n[n]relacionadas con nosotros, las personas en el[n]este mundo, han aparecido como personajes en[n]las pel胤culas...
 En la Sala 1 era Kamoshidaman, en la[n]Sala 2 era el Yosukesaurio...
 Echa un vistazo m茨s de cerca. No se[n]parece algo creado con CGI, sino una[n]persona real.
 
@@ -173,14 +173,14 @@ Oh s胤... Si este tipo es el jefe por[n]aqu胤...
 Tendr胤a que estar bastante trastornado[n]para hacer algo as胤. Entonces, 夷qu姻[n]vamos a hacer al respecto?
 
 [msg MSG_054 [Futaba]]
-ひも まれろァ れゎらまるわもれぺょぽよ ぺ ゅよれ るよほよろれデ ろもまょま りゎま[n]めぺほまる ぺゅむゎょぺ もょれろぺゅぺぼもカょ ぼよゆよ ゎょ ぼよゆらゅまゃよ ぽま[n]れまむゎるもぽぺぽ よ ゎょ ぼまょろるよ ぽま ぼよょろるよゅテ
+Si est茨 supervisando a los robots, tiene que[n]haber alguna instalaci吋n como un complejo de[n]seguridad o un centro de control.
 夷Por qu姻 no intentamos buscar un lugar[n]as胤?
 
 [msg MSG_055 [Ann]]
 Suena mejor que simplemente avanzar por[n]ah胤 y perderse. Pero, 夷d吋nde podr胤a[n]estar esa instalaci吋n?
 
 [msg MSG_056 [Akechi]]
-ひも めぺを ゎょぺ もょれろぺゅぺぼもカょ ぽま むまれろもカょデ もゆぺむもょよ りゎま[n]まれ ぺゅむグょ ろもらよ ぽま ぼまょろるよ ぼまょろるぺゅテテテ[n]エはよれもほゅまゆまょろま ゅぺ らぺるろま ゆァれ もょろまるょぺ ぽま まれろぺ[n]ぼもゎぽぺぽ?
+Si hay una instalaci吋n de gesti吋n, imagino que[n]es alg雨n tipo de centro central...[n]夷Posiblemente la parte m茨s interna de esta[n]ciudad?
 
 [msg MSG_057 [Morgana]]
 Mmm... Joker, 夷deber胤amos intentar[n]buscar una instalaci吋n en la parte[n]central de la ciudad?

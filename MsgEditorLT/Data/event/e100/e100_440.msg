@@ -12,7 +12,7 @@ Todos se reunieron en el vest胤bulo[n]despu姻s de terminar sus preparativos...
 
 [msg MSG_004 [Morgana]]
 , 夷Y tus preparativos?
-ぴょぺ わまん りゎま れぺゅむぺゆよれデ ょよ らよぽるまゆよれ るまむるまれぺる[n]ぺりゎウ らよる ゎょ ろもまゆらよテ ひも ょまぼまれもろぺれ よぼゎらぺるろま ぽま[n]ぺゅむよデ まれろま まれ まゅ ゆよゆまょろよテ
+Una vez que salgamos, no podremos regresar[n]aqu胤 por un tiempo. Si necesitas ocuparte de[n]algo, este es el momento.
 
 [sel SEL_005 top]
 Necesito tiempo para prepararme.

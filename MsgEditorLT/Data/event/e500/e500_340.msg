@@ -42,7 +42,7 @@ Este Aviso... 斡Es para ti!
 
 [msg MSG_013 [Enlil]]
 "Se隠orita Enlil, curadora de los cines[n]de las mentiras..."
-"へぺ りゎま らるよをまぼろぺれ らまゅウぼゎゅぺれ りゎま らるよゆゎまわまょ まゅ[n]ぺゎろよぺほゎれよ を まょむぺォぺょ ぺ ゅよれ まれらまぼろぺぽよるまれ[n]めぺぼもイょぽよゅまれ ぼるままる りゎま ゅぺ もょれまょれもほもゅもぽぺぽ まれ[n]らぺんテテテ"
+"Ya que proyectas pel胤culas que promueven el[n]autoabuso y enga隠an a los espectadores[n]haci姻ndoles creer que la insensibilidad es[n]paz..."
 "Robaremos tus pel胤culas distorsionadas.[n]Firmado, los Ladrones Fantasma."
 
 [msg MSG_014 [Enlil]]

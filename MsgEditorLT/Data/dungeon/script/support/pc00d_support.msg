@@ -188,13 +188,13 @@ Otro testimonio de nuestro[n]crecimiento.
 斡C'est magnifique! Biena pelea.
 
 [msg MITURU_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg MITURU_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg MITURU_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg MITURU_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

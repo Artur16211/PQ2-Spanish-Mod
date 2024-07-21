@@ -24,13 +24,13 @@ REGISTRANDO ID INDIVIDUALES: TK-00 A[n]TRAV畏S DE 08― YS-00 A TRAV畏S DE 07�
 Usar n雨meros de serie en lugar de un[n]nombre es bastante com雨n en historias de[n]ciencia ficci吋n dist吋pica.
 
 [msg MSG_008 [Yosuke]]
-ィふぺをぺデ まれろま ゅゎむぺる るまぺゅゆまょろま まれ ぼよゆよ ゎょぺ[n]らまゅウぼゎゅぺ ぽま ぼもまょぼもぺ みもぼぼもカょ! ばゎもまるよ ぽまぼもるデ まれよ[n]まれ まゑぺぼろぺゆまょろま ゅよ りゎま まれデ ィらまるよ ぺゎょ ぺれウ!
+斡Vaya, este lugar realmente es como una[n]pel胤cula de ciencia ficci吋n! Quiero decir, eso[n]es exactamente lo que es, 斡pero aun as胤!
 
 [msg MSG_009 [Futaba]]
 斡Es como un para胤so tecnol吋gico!
 
 [msg MSG_010 [Yukiko]]
-ィによれ まょろよるょよれ ぽま ぼもまょぼもぺ みもぼぼもカょ れよょ[n]ぽもわまるろもぽよれ らよる れゎ まれろもゅよ ろぺょ ぽもれろもょろもわよ! ぢるまよ[n]りゎま まょろもまょぽよ らよる りゎイ ぺ ゅぺ むまょろま ゅま まょぼぺょろぺテ
+斡Los entornos de ciencia ficci吋n son[n]divertidos por su estilo tan distintivo! Creo[n]que entiendo por qu姻 a la gente le encanta.
 
 [sel SEL_011 top]
 夷Eres cin姻fila?
@@ -116,7 +116,7 @@ Quiero carne sint姻tica primero.
 斡Entonces est茨 decidido! 斡Intentemos[n]encontrarlo lo m茨s r茨pido posible!
 
 [msg MSG_037 [Akechi]]
-ィどぺデ ゃぺデ ゃぺ! つれよ ゆま るまぼゎまるぽぺデ エれぺほまれ ぼゎァゅ まれ[n]まゅ もょむるまぽもまょろま まれろァょぽぺる らぺるぺ ゅぺ ぼぺるょま[n]みぺほるもぼぺぽぺ まょ らまゅウぼゎゅぺれ ぽま ぼもまょぼもぺ みもぼぼもカょ?
+斡Ja, ja, ja! Eso me recuerda, 夷sabes cu茨l es[n]el ingrediente est茨ndar para la carne[n]fabricada en pel胤culas de ciencia ficci吋n?
 
 [msg MSG_038 [Chie]]
 Eh, 夷cu茨l es? 斡Ahora estoy a雨n m茨s[n]curiosidad!

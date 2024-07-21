@@ -16,19 +16,19 @@ Volver
 Cancelar
 
 [msg MSG_000 [Elizabeth]]
-ここは採取できるようだな。 どうする？（※ダミーです）
+ここP採取HきroうAK。 Jうすr？（※4ミーHす）
 
 [msg MSG_001 [Elizabeth]]
-そうだな。 敵に気をつけて探すか。（※ダミーです）
+そうAK。 敵L気yEけG探すか。（※4ミーHす）
 
 [msg MSG_002 [Elizabeth]]
-うむ。 では、専念して探すとしよう。（※ダミーです）
+うg。 HP、専念しG探すIしoう。（※4ミーHす）
 
 [msg MSG_003 [Elizabeth]]
-今は止めておくのか？ 分かった。（※ダミーです）
+今P止hGおくOか？ 分かDた。（※4ミーHす）
 
 [msg MSG_004 [Elizabeth]]
-もう見つからないようだな。（※ダミーです）
+iう見EかpKいoうAK。（※4ミーHす）
 
 [msg ZABE_MSG_005]
 No est茨 mal.
@@ -49,13 +49,13 @@ Bien, bien, bien.
 Esto es bastante agradable...
 
 [msg MSG_008 [Elizabeth]]
-勘付かれたか。 採取はここまでにしよう。（※ダミーです）
+勘付かsたか。 採取PここeHLしoう。（※4ミーHす）
 
 [msg ZABE_MSG_009]
 斡Un hallazgo impresionante!
 
 [msg THEO_MSG_009]
-おおっ！（※ダミーです）
+おおD！（※4ミーHす）
 
 [msg ZABE_MSG_010]
 斡O-oh!
@@ -70,49 +70,49 @@ Vaya, 斡uno raro!
 斡Eso es bastante raro!
 
 [msg MSG_012 [Elizabeth]]
-ショートカットか。 どうする？通っておくか？（※ダミーです）
+ショー:吋7:か。 Jうすr？通DGおくか？（※4ミーHす）
 
 [msg MSG_013 [Elizabeth]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Elizabeth]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Elizabeth]]
-こちらは通れんようだな。（※ダミーです）
+こBpP通szoうAK。（※4ミーHす）
 
 [msg MSG_016 [Elizabeth]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Elizabeth]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Elizabeth]]
-ヤバそうな雰囲気だがどうする? (戦闘オタカラスポット 発見MSG（仮）)
+ヤバそうK雰囲気AがJうすr? (戦闘謂3吋ラスポ7: 発見MSG（仮）)
 
 [msg MSG_019 [Elizabeth]]
-探してみよう (戦闘オタカラスポット 探すMSG（仮）)
+探しGfoう (戦闘謂3吋ラスポ7: 探すMSG（仮）)
 
 [msg MSG_020 [Elizabeth]]
-今回はやめておこう (戦闘オタカラスポット やめるMSG（仮）)
+今回PkhGおこう (戦闘謂3吋ラスポ7: khrMSG（仮）)
 
 [msg MSG_021 [Elizabeth]]
-危なかったな (戦闘オタカラスポット 戦闘終了MSG（仮）)
+危KかDたK (戦闘謂3吋ラスポ7: 戦闘終了MSG（仮）)
 
 [msg MSG_022 [Elizabeth]]
-ここはシャドウの気配が強いな。 まわりにシャドウがいそうだが、どうする？[n](雑魚戦闘オタカラスポット 発見MSG（仮）)
+ここPシャ(胤O気配が強いK。 evqLシャ(胤がいそうAが、Jうすr？[n](雑魚戦闘謂3吋ラスポ7: 発見MSG（仮）)
 
 [msg MSG_023 [Elizabeth]]
-いたぞ、シャドウだ！ (雑魚戦闘オタカラスポット 探すMSG（仮）)
+いたぞ、シャ(胤A！ (雑魚戦闘謂3吋ラスポ7: 探すMSG（仮）)
 
 [msg MSG_024 [Elizabeth]]
-そうだな、行こう (雑魚戦闘オタカラスポット やめるMSG（仮）)
+そうAK、行こう (雑魚戦闘謂3吋ラスポ7: khrMSG（仮）)
 
 [msg MSG_025 [Elizabeth]]
-ふーあぶなかった。あっ、なんか落ちてる！ (雑魚戦闘オタカラスポット[n]戦闘終了MSG（仮）)
+VーあWKかDた。あD、Kzか落BGr！ (雑魚戦闘謂3吋ラスポ7:[n]戦闘終了MSG（仮）)
 
 [msg MSG_026 [Elizabeth]]
-出入り口がある。 戻るか？ (出入り口MSG（仮）)
+出入q口があr。 戻rか？ (出入q口MSG（仮）)
 
 [msg MSG_027]
 斡Cuidado!

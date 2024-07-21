@@ -13,7 +13,7 @@ Mis palabras, ese fue un final realmente[n]impresionante. 斡Bravo!
 
 [msg MSG_004 [Theodore]]
 Nuestro papel aqu胤 ha terminado.
-ぬァれ もゆらよるろぺょろま ぺグょデ ぽまほよ ぼよゆらぺるろもる ゅよ[n]もゆらるまれもよょぺぽよ りゎま まれろよを ぼよょ ゎれろまぽまれテ でぺょ[n]ゅゅまわぺぽよ まれろま みまれろもわぺゅ ぽま ぼもょまれ ぺ れゎ みもょぺゅテ
+M茨s importante a雨n, debo compartir lo[n]impresionado que estoy con ustedes. Han[n]llevado este festival de cines a su final.
 
 [msg MSG_005 [Caroline]]
 Bien... Finalmente, podemos volver a[n]nuestras tareas habituales.

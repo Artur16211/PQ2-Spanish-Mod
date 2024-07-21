@@ -98,13 +98,13 @@
 斡Woof!
 
 [msg KOROMARU_PARTY_DEAD_1]
-ダミー1
+4ミー1
 
 [msg KOROMARU_PARTY_DEAD_2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_PARTY_DEAD_3]
-ダミー3
+4ミー3
 
 [msg KOROMARU_FOE_WARNING_NEA]
 斡Woof!
@@ -116,22 +116,22 @@
 斡Woof!
 
 [msg KOROMARU_PARTY_HPTP10_1]
-ダミー1
+4ミー1
 
 [msg KOROMARU_PARTY_HPTP10_2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_PARTY_HPTP10_3]
-ダミー3
+4ミー3
 
 [msg KOROMARU_PARTY_HP10_1]
-ダミー1
+4ミー1
 
 [msg KOROMARU_PARTY_HP10_2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_PARTY_HP10_3]
-ダミー3
+4ミー3
 
 [msg KOROMARU_1PERSON_HPTP10_]
 斡Woof!
@@ -143,13 +143,13 @@
 斡Woof!
 
 [msg KOROMARU_PARTY_TP10_1]
-ダミー1
+4ミー1
 
 [msg KOROMARU_PARTY_TP10_2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_PARTY_TP10_3]
-ダミー3
+4ミー3
 
 [msg KOROMARU_1PERSON_HP10_1]
 斡Woof!
@@ -170,13 +170,13 @@
 斡Woof!
 
 [msg KOROMARU_ITEM_90_BATTLE_]
-ダミー1
+4ミー1
 
 [msg KOROMARU_ITEM_90_BATTLE__2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_ITEM_90_BATTLE__3]
-ダミー3
+4ミー3
 
 [msg KOROMARU_1PERSON_HP80_1]
 斡Woof!
@@ -188,22 +188,22 @@
 斡Woof!
 
 [msg KOROMARU_BATTLE_CHANGE_D]
-【バトルからダンジョン担当へナビ切り替え】 ダミーメッセージ１
+【バ:ルかp4ンジョン担当Y)ビ切q替え】 4ミーメ7セージ１
 
 [msg KOROMARU_BATTLE_CHANGE_D_2]
-【バトルからダンジョン担当へナビ切り替え】 ダミーメッセージ２
+【バ:ルかp4ンジョン担当Y)ビ切q替え】 4ミーメ7セージ２
 
 [msg KOROMARU_BATTLE_CHANGE_D_3]
-【バトルからダンジョン担当へナビ切り替え】 ダミーメッセージ３
+【バ:ルかp4ンジョン担当Y)ビ切q替え】 4ミーメ7セージ３
 
 [msg KOROMARU_ITEM_90_DUNGEON]
-ダミー1
+4ミー1
 
 [msg KOROMARU_ITEM_90_DUNGEON_2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_ITEM_90_DUNGEON_3]
-ダミー3
+4ミー3
 
 [msg KOROMARU_DUNGEON_START_1]
 斡Woof!
@@ -287,11 +287,11 @@
 *jadeo* *jadeo* *jadeo*
 
 [msg KOROMARU_KARITORU_ENCOUN]
-ダミー1
+4ミー1
 
 [msg KOROMARU_KARITORU_ENCOUN_2]
-ダミー2
+4ミー2
 
 [msg KOROMARU_KARITORU_ENCOUN_3]
-ダミー3
+4ミー3
 

@@ -38,7 +38,7 @@ Pero no puedo luchar ni ayudar como los[n]dem茨s... Y, acabamos de conocernos..
 
 [msg MSG_011 [Rise]]
 Nada de eso importa.
-びよぽよれ れよゆよれ ぺゆもむよれ りゎま れま ぽもるもむまょ ゃゎょろよれ めぺぼもぺ[n]まゅ ゆもれゆよ よほゃまろもわよデ りゎま れま ぺらよをぺょ ゆゎろゎぺゆまょろまテテテ[n]エねよ まれ まれぺ るぺんカょ れゎみもぼもまょろま?
+Todos somos amigos que se dirigen juntos hacia[n]el mismo objetivo, que se apoyan mutuamente...[n]夷No es esa raz吋n suficiente?
 
 [msg MSG_012 [Hikari]]
 Amigos...

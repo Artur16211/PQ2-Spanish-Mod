@@ -188,13 +188,13 @@ Mmm, eso fue sorprendentemente bien.
 Sigamos adelante.
 
 [msg YUSUKE_BATTLE_CHANGE_DUN]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg YUSUKE_BATTLE_CHANGE_DUN_2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg YUSUKE_BATTLE_CHANGE_DUN_3]
-■ト
+■:
 
 [msg YUSUKE_ITEM_90_DUNGEON_1]
 (DGP郁BLICA)

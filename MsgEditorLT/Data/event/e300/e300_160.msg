@@ -57,7 +57,7 @@ No tienes por qu姻 obedecerlo.
 夷POR QU畏?
 
 [msg MSG_018 [Haru]]
-ひも れよゅよ れもむゎもまるぺれ ゅぺれ カるぽまょまれ ぽま ゅよれ ぽまゆァれ[n]ろよぽぺ ろゎ わもぽぺデ ょよ めぺほるウぺ ゎょ れもむょもみもぼぺぽよ[n]らまるれよょぺゅ らぺるぺ まゑもれろもるデ エわまるぽぺぽ?
+Si solo siguieras las 吋rdenes de los dem茨s[n]toda tu vida, no habr胤a un significado[n]personal para existir, 夷verdad?
 
 [msg MSG_019 [Robot Con List吋n]]
 夷UN SIGNIFICADO PERSONAL PARA MI[n]EXISTENCIA?
@@ -143,7 +143,7 @@ Bueno, no quieres ser formateada,[n]夷verdad?
 夷...?
 
 [msg MSG_046 [Ryuji]]
-びま まれろよを らるまむゎょろぺょぽよ れも りゎもまるまれ れまる まゅもゆもょぺぽぺデ[n]よ れも れもゆらゅまゆまょろま まれろァれ れもむゎもまょぽよ まれよ らよるりゎま[n]ぺゅむゎもまょ ゆァれ ろま ゅよ よるぽまょよテ
+Te estoy preguntando si quieres ser eliminada,[n]o si simplemente est茨s siguiendo eso porque[n]alguien m茨s te lo ordeno.
 
 [msg MSG_047 [Robot Con List吋n]]
 夷SI QUIERO?

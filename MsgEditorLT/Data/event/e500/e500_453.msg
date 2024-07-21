@@ -28,7 +28,7 @@ Desafortunadamente, eso ser茨 imposible.
 夷Eh? 斡夷Por qu姻?!
 
 [msg MSG_009 [Margaret]]
-つれろま ゆゎょぽよ らよぽるウぺ れまる ぼよゆらぺるぺぽよ ぼよょ ゎょ[n]まれぼまょぺるもよ まれらまぼもぺゅ りゎま みゎま ぼよょれろるゎもぽよ れよゅよ[n]らぺるぺ ゎょぺ ぺぼろゎぺぼもカょ ぽま ゎょぺ れよゅぺ ょよぼめまテ
+Este mundo podr胤a ser comparado con un[n]escenario especial que fue construido solo[n]para una actuaci吋n de una sola noche.
 Y al igual que un sue隠o, esta ilusi吋n[n]fugaz terminar茨 en el momento en que[n]despierten.
 Todo en este mundo es transitorio y[n]tambi姻n desaparecer茨 de todos ustedes.
 
@@ -76,7 +76,7 @@ Si esto fuera una pel胤cula, este ser胤a[n]el mejor final posible.
 
 [msg MSG_019_3 [Hikari]]
 En realidad, creo que ustedes fueron los[n]protagonistas aqu胤.
-ぢるまよ りゎま ぼぺぽぺ ゎょよ ぽまれまゆらまォカ ゎょ らぺらまゅ グょもぼよテ ひも[n]ぺゅむゎょよ ぽま ゎれろまぽまれ ょよ めゎほもまるぺ まれろぺぽよ ぺりゎウデ ょよ[n]めゎほもイるぺゆよれ ゅゅまむぺぽよ ぺ まれろま みもょぺゅテ
+Creo que cada uno desempe隠吋 un papel 雨nico. Si[n]alguno de ustedes no hubiera estado aqu胤, no[n]hubi姻ramos llegado a este final.
 ...夷Verdad?
 
 [msg MSG_019_4 [P3 Fem Protag]]

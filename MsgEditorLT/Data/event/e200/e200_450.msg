@@ -55,7 +55,7 @@ S胤, lo que 姻l dijo... simplemente[n]d姻janos esto. T雨 piensa ue quieres h
 Mi recomendaci吋n es la m茨quina de garra[n]de Featherman, 斡se encuentra en Akiba!
 
 [msg MSG_017_5 [Futaba]]
-にぺ ぼゅぺわま らぺるぺ ゅぺ わもぼろよるもぺ るぺぽもぼぺ まょ ゅぺ みゎまるんぺ[n]ぽまゅ ほるぺんよデ ィらまるよ ろぺゆほもイょ ぽまほまれ わまるもみもぼぺる まゅ[n]ぺょぼめよ ぽま ゅぺ むぺるるぺ ぼゎぺょぽよ まれろァ ぺほもまるろぺ!
+La clave para la victoria radica en la fuerza[n]del brazo, 斡pero tambi姻n debes verificar el[n]ancho de la garra cuando est茨 abierta!
 
 [msg MSG_018 [Makoto]]
 Realmente amas ese juego, 夷verdad,[n]Futaba...? Bueno, si te saca de casa, es[n]lo mejor.

@@ -57,7 +57,7 @@ Puede que me est姻 poniendo algo nervioso[n]en este entorno sin darme cuenta.
 Puede que me est姻 poniendo algo nervioso[n]en este entorno sin darme cuenta.
 
 [msg MSG_017 [Akechi]]
-ちゎまょよデ れゎらよょむよ りゎま まれろよ れもむょもみもぼぺ りゎま ろまょむよ ゆも[n]らるよらもぺ よらもょもカょ れよほるま まれろま ゆゎょぽよテ つれ[n]まゆよぼもよょぺょろま を ゅゅまょよ ぽま ゆもれろまるもよテテテ
+Bueno, supongo que esto significa que tengo mi[n]propia opini吋n sobre este mundo. Es[n]emocionante y lleno de misterio...
 Mientras estamos aqu胤, incluso podr胤a…
 No, no importa. Me asegurar姻 de[n]mantenerme fuerte de ahora en adelante.
 

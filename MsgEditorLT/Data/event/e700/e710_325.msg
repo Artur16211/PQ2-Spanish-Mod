@@ -1,6 +1,6 @@
 [msg MSG_000 [Futaba]]
 Nuestro destino est茨 adelante.
-でぺを ゆゎぼめぺれ ゆァれ ゅゎぼまれ ぽま ほグれりゎまぽぺ まょ[n]ぼよゆらぺるぺぼもカょ ぼよょ ゅぺれ んよょぺれ ぺょろまるもよるまれテテテ つ[n]もょぼゅゎれよデ まれろよを よほろまょもまょぽよ れまォぺゅまれ ぽま づのつれ[n]ぺぽまゅぺょろまテ
+Hay muchas m茨s luces de b雨squeda en[n]comparaci吋n con las zonas anteriores... E[n]incluso, estoy obteniendo se隠ales de FOEs[n]adelante.
 
 [msg MSG_001 [Ryuji]]
 As胤 que tenemos que evitar esos enormes[n]FOEs, mientras esquivamos las luces...

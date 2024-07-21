@@ -55,19 +55,19 @@ Eso es raro.
 Eso podr胤a funcionar como un atajo.[n]夷Deber胤amos pasar por ah胤?
 
 [msg MSG_013 [P3 Hero]]
-これは！！レア！！ （結果ウィンドウ表示時メッセージ レア版（仮））
+こsP！！レ威！！ （結果胤斡ン(胤表示時メ7セージ レ威版（仮））
 
 [msg MSG_014 [P3 Hero]]
-これは！！レア！！ （結果ウィンドウ表示時メッセージ レア版（仮））
+こsP！！レ威！！ （結果胤斡ン(胤表示時メ7セージ レ威版（仮））
 
 [msg MSG_015 [P3 Hero]]
 Parece que no podemos pasar por aqu胤...
 
 [msg MSG_016 [P3 Hero]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [P3 Hero]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [P3 Hero]]
 Algo malo acecha en las sombras. 夷Qu姻[n]hacemos?

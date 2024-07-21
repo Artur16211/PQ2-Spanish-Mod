@@ -107,7 +107,7 @@ Si eliges [f 0 1 2]Buscar con cautela[f 0 1 0] ...
 Entonces puede encontrar [f 0 1 2] hasta 3[f 0 1 0][n]objetos, mientras disfrutas de una baja[n]probabilidad de iniciar una de batalla.
 
 [msg MSG_TUTORIAL_POWERSPOT_4]
-でぺを ゎょぺ ぼぺょろもぽぺぽ ゅもゆもろぺぽぺ ぽま よほゃまろよれ まょ ぼぺぽぺ[n]はゎょろよ ぽま びまれよるよデ らまるよ れも[f 0 1 2] れぺゅまれ ぽまゅ ゅぺほまるもょろよ[f 0 1 0]デ[n]ぼもまるろよれ らゎょろよれ れま るまぺほぺれろまぼまるァょ を らよぽるァれ[n]ほゎれぼぺるゅよれ ぽま ょゎまわよテ ィだらるよわまぼめぺ まれろよ を[n]ろまるゆもょぺるァれ れもまょぽよ ゆァれ るもぼよ りゎま ゎょ るまを!
+Hay una cantidad limitada de objetos en cada[n]Punto de Tesoro, pero si[f 0 1 2] sales del laberinto[f 0 1 0],[n]ciertos puntos se reabastecer茨n y podr茨s[n]buscarlos de nuevo. 斡Aprovecha esto y[n]terminar茨s siendo m茨s rico que un rey!
 
 [msg MSG_TUTORIAL_OTAKARA_GET_2]
 ■ 斡Tengo bienes! evento
@@ -117,7 +117,7 @@ Entonces puede encontrar [f 0 1 2] hasta 3[f 0 1 0][n]objetos, mientras disfruta
 ■ Inventario evento completo
 
 [msg MSG_TUTORIAL_QUEST_MAP_0]
-ひも まょろるぺれ まょ ゎょ ゅぺほまるもょろよ ぽゎるぺょろま ゎょぺ[n]らるよをまぼぼもカょ まれらまぼもぺゅデ [f 0 1 2] ぺゅむゎょよれ ぼぺゆもょよれ れまるァょ[n]もょぺぼぼまれもほゅまれ[f 0 1 0] テ はよぽるウぺ めぺほまる よろるよれ ぼぺゆほもよれ[n]ろぺゆほもイょテ
+Si entras en un laberinto durante una[n]proyecci吋n especial, [f 0 1 2] algunos caminos ser茨n[n]inaccesibles[f 0 1 0] . Podr胤a haber otros cambios[n]tambi姻n.
 El mapa puede mostrar algunas[n]diferencias en la disposici吋n del[n]suelo.[f 0 1 0].
 
 [msg MSG_TUTORIAL_QUEST_MAP_1]

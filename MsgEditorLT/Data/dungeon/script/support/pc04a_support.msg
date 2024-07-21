@@ -59,7 +59,7 @@ Deber胤an avanzar y evitar que los[n]iluminen.
 Deber胤an avanzar sin ser expuestos.
 
 [msg ELIZABETH_KANSI_REACTION_2]
-はよる みぺわよるデ ぺわぺょぼまょ ぽま らゎょろもゅゅぺれ らよる ぺりゎウデ[n]らるまみまるもるウぺ ょよ らるまよぼゎらぺるゆま らよる ろよぽよれ[n]ゎれろまぽまれテ
+Por favor, avancen de puntillas por aqu胤,[n]preferir胤a no preocuparme por todos[n]ustedes.
 
 [msg THEODOR_KANSI_REACTION_2]
 Contin雨en avanzando lo m茨s[n]silenciosamente posible.
@@ -86,7 +86,7 @@ Debe haber un interruptor...
 Vaya, 夷qu姻 voltaje podr胤a tener ese[n]aparato?
 
 [msg THEODOR_DENKISAKU_REACTI_3]
-ぴょぺ らゎまるろぺ まゅイぼろるもぼぺテテテ つれろよ ゆま るまぼゎまるぽぺ ぺ[n]ゆも めまるゆぺょぺテテテ よゅわウぽぺゅよデ ょよ まれ ょぺぽぺテ
+Una puerta el姻ctrica... Esto me recuerda a[n]mi hermana... olv胤dalo, no es nada.
 
 [msg ELIZABETH_KYOUHU_REACTIO]
 斡Zas, mi falda se fue volando! Bueno,[n]eso es algo un poco especial para ti.
@@ -137,10 +137,10 @@ He confirmado un cofre del tesoro a[n]delante.
 Tengo mucha curiosidad por el[n]contenido del cofre del tesoro.
 
 [msg ELIZABETH_TREASURE_FIND__3]
-ぬも ぽまれまよ らまるれよょぺゅ まれ りゎま まれま ぼよみるま ぽまゅ[n]ろまれよるよ ぼよょろまょむぺ らぺらぺれ みるもろぺれ よ ろぺやよをぺやもテ
+Mi deseo personal es que ese cofre del[n]tesoro contenga papas fritas o takoyaki.
 
 [msg THEODOR_TREASURE_FIND_3]
-ぴょ ぼよみるま ぽまゅ ろまれよるよテ っまほよ ぽまぼもる りゎま まれろよを[n]まゆよぼもよょぺぽぺ ぽま わまる ゅよ りゎま めぺを ぽまょろるよテ
+Un cofre del tesoro. Debo decir que estoy[n]emocionada de ver lo que hay dentro.
 
 [msg ELIZABETH_CHECK_WALL_1]
 Se siente como si algo estuviera[n]cerca...
@@ -173,19 +173,19 @@ All茨 est茨 un interruptor.
 夷Presionar茨s ese interruptor?
 
 [msg ELIZABETH_SWITCH_FIND_3]
-ひカゅよ めぺを ゎょぺ らるまむゎょろぺ まょ まれろぺ れもろゎぺぼもカょテ[n]エばゎもまるまれ ゎれぺる まゅ もょろまるるゎらろよる?
+S吋lo hay una pregunta en esta situaci吋n.[n]夷Quieres usar el interruptor?
 
 [msg THEODOR_SWITCH_FIND_3]
 Parece que es un interruptor.
 
 [msg ELIZABETH_SHORTCUT_FIND_]
-っまほまるウぺ れまる らよれもほゅま りゎま ろま ぽまれゅもぼまれ[n]ぽもるまぼろぺゆまょろま ぺ ろるぺわイれ ぽま ゎょぺ らぺるまぽ ぼまるぼぺょぺテ
+Deber胤a ser posible que te deslices[n]directamente a trav姻s de una pared cercana.
 
 [msg THEODOR_SHORTCUT_FIND_1]
 Esta pared... siento que tiene m茨s de[n]lo que parece.
 
 [msg ELIZABETH_SHORTCUT_FIND__2]
-っもよれ ゆウよデ まれぺ らぺるまぽテテテ めゎまゅま ゆゎを[n]れよれらまぼめよれぺデ れも まれま まれ まゅ わまるほよ ぼよるるまぼろよテ
+Dios m胤o, esa pared... huele muy[n]sospechosa, si ese es el verbo correcto.
 
 [msg THEODOR_SHORTCUT_FIND_2]
 夷Por qu姻 no revisas esa pared de[n]all胤?
@@ -194,10 +194,10 @@ Esta pared... siento que tiene m茨s de[n]lo que parece.
 Mi instinto me dice que hay una pared[n]que se puede atravesar cerca.
 
 [msg THEODOR_SHORTCUT_FIND_3]
-はゎまぽま りゎま めぺをぺ らるよらもまぽぺぽまれ ぽまれぼよょよぼもぽぺれ[n]れよほるま ゅぺ らぺるまぽ りゎま まれろァ ぺぽまゅぺょろまテ
+Puede que haya propiedades desconocidas[n]sobre la pared que est茨 adelante.
 
 [msg ELIZABETH_PARTY_DEAD_1]
-のめ りゎまるもぽよテテテ びぺゅ わまん ぽまほまるウぺゆよれ るまんぺるデ[n]びめまよデ ょよ めぺを ゆゎぼめよ ゆァれ りゎま らよぽぺゆよれ めぺぼまるテ
+Oh querido... Tal vez deber胤amos rezar,[n]Theo, no hay mucho m茨s que podamos hacer.
 
 [msg THEODOR_PARTY_DEAD_1]
 斡夷Est茨n bien?!
@@ -236,7 +236,7 @@ Por favor sean tan precavidos como[n]puedan.
 斡Oh cielos! E-esto es un estado de[n]emergencia.
 
 [msg THEODOR_PARTY_HPTP10_1]
-でまるゆぺょぺデ らよる みぺわよる ぼァゅゆぺろまテ ひよゅよ ょまぼまれもろぺょ[n]るまぺむるゎらぺるれま を ぼゎるぺるれま ぺ れウ ゆもれゆよれテ
+Hermana, por favor c茨lmate. Solo necesitan[n]reagruparse y curarse a s胤 mismos.
 
 [msg ELIZABETH_PARTY_HPTP10_2]
 Theo, debes prepararte para darles la[n]bienvenida.
@@ -245,7 +245,7 @@ Theo, debes prepararte para darles la[n]bienvenida.
 Me preocupan tus niveles de[n]agotamiento. Deber胤as regresar.
 
 [msg ELIZABETH_PARTY_HPTP10_3]
-はぺるまぼま りゎま ゅぺ みゎまるんぺ ぽま ろよぽよれ めぺ ぺゅぼぺょんぺぽよ[n]れゎ らるよらもよ ゅウゆもろま まゑぼイょろるもぼよテ
+Parece que la fuerza de todos ha alcanzado[n]su propio l胤mite exc姻ntrico.
 
 [msg THEODOR_PARTY_HPTP10_3]
 Parece que mi hermana desea que[n]regreses.
@@ -284,7 +284,7 @@ Parece que est茨s en tus l胤mites tanto[n]en salud como en resistencia...
 Se ofrecer茨 apoyo cuando regresen...[n]Theo se encargar茨 de ustedes.
 
 [msg THEODOR_1PERSON_HPTP10_3]
-はぺるまぼま りゎま ぺらまょぺれ らゎまぽまれ ゆぺょろまょまるろま まょ[n]らもまテテテ エばゎもんァれ ぽまほまるウぺれ ぼゎるぺるろま ぺ ろも ゆもれゆよ?
+Parece que apenas puedes mantenerte en[n]pie... 夷Quiz茨s deber胤as curarte a ti mismo?
 
 [msg ELIZABETH_PARTY_TP10_1]
 Para ser honesto, puede ser mejor[n]darse prisa y retroceder...
@@ -293,7 +293,7 @@ Para ser honesto, puede ser mejor[n]darse prisa y retroceder...
 La energ胤a de todos se est茨[n]agotando... 夷Quieres ocuparte de eso?
 
 [msg ELIZABETH_PARTY_TP10_2]
-ぢゅぺるよデ らよぽるウぺれ ゎれぺる ゅぺ めぺほもゅもぽぺぽ みもょぺゅ を[n]'ゃゎむァるろまゅぺ'デ らまるよ るまむるまれぺる まれ ゆァれ れまむゎるよテ
+Claro, podr胤as usar la habilidad final y[n]'jug茨rtela', pero regresar es m茨s seguro.
 
 [msg THEODOR_PARTY_TP10_2]
 Deber胤as cambiar tu estrategia debido[n]a tu disminuci吋n de la energ胤a.
@@ -341,13 +341,13 @@ Theo, dej姻mosles la decisi吋n.
 夷Has abordado tus necesidades de[n]energ胤a?
 
 [msg ELIZABETH_ITEM_90_BATTLE]
-によれ よほゃまろよれ りゎま ょよ らゎまぽぺれ ゆぺょろまょまる ぽまほまるウぺょ[n]れまる ぺるるよゃぺぽよれ ゅまゃよれデ ゆゎゎゎを ゅまゃよれテ
+Los objetos que no puedas mantener deber胤an[n]ser arrojados lejos, muuuy lejos.
 
 [msg THEODOR_ITEM_90_BATTLE_1]
 斡夷Hermana?! 夷Has arrojado mis[n]posesiones m茨s preciadas?
 
 [msg ELIZABETH_ITEM_90_BATTLE_2]
-つょ ぼゎぺょろよ ぺ ろゎれ らまるろまょまょぼもぺれデ らよる みぺわよるデ[n]ぽまゃぺ ろよぽよ まれよ まょ ゆぺょよれ ぽま ゆも もょぽもむょよ[n]めまるゆぺょよデ びめまよテ
+En cuanto a tus pertenencias, por favor,[n]deja todo eso en manos de mi indigno[n]hermano, Theo.
 
 [msg THEODOR_ITEM_90_BATTLE_2]
 夷No est茨 tu inventario un poco lleno?
@@ -374,25 +374,25 @@ Por favor, contin雨en adelante, como[n]en un 'golpe de uno-dos'.
 斡Woohoo! 斡Bien hecho!
 
 [msg THEODOR_1PERSON_HP80_3]
-でまるゆぺょぺデ ろぺゅ わまん れまぺ ゆまゃよる りゎま むゎぺるぽまれ ろゎ[n]ほぺもゅま ぽま ぺゅまむるウぺ らぺるぺ ろも ゆもれゆぺテテテ
+Hermana, tal vez sea mejor que guardes tu[n]baile de alegr胤a para ti misma...
 
 [msg ELIZABETH_BATTLE_CHANGE_]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg ELIZABETH_BATTLE_CHANGE__2]
-■ト [f 0 1 4]\cHFF
+■: [f 0 1 4]\cHFF
 
 [msg ELIZABETH_BATTLE_CHANGE__3]
-■ト
+■:
 
 [msg ELIZABETH_ITEM_90_DUNGEO]
-によれ よほゃまろよれ りゎま ょよ らゎまぽぺれ ゆぺょろまょまる ぽまほまるウぺょ[n]れまる ぺるるよゃぺぽよれ ゅまゃよれデ ゆゎゎを ゅまゃよれテ
+Los objetos que no puedas mantener deber胤an[n]ser arrojados lejos, muuy lejos.
 
 [msg THEODOR_ITEM_90_DUNGEON_]
 斡夷Hermana?! 夷Has arrojado mis[n]posesiones m茨s preciadas?
 
 [msg ELIZABETH_ITEM_90_DUNGEO_2]
-つょ ぼゎぺょろよ ぺ ろゎれ らまるろまょまょぼもぺれデ らよる みぺわよるデ[n]ぽまゃぺ ろよぽよ まれよ まょ ゆぺょよれ ぽま ゆも もょぽもむょよ[n]めまるゆぺょよデ びめまよテ
+En cuanto a tus pertenencias, por favor,[n]deja todo eso en manos de mi indigno[n]hermano, Theo.
 
 [msg THEODOR_ITEM_90_DUNGEON__2]
 夷No est茨 tu inventario un poco lleno?
@@ -464,7 +464,7 @@ S吋lo falta la mitad. Recuerda nuestro[n]prop吋sito original y sigue adelante.
 Has llegado a la mitad. Bueno, no[n]puedo pedir m茨s de ti.
 
 [msg ELIZABETH_TOUHA_75_1]
-ぢぺれも めぺれ むぺょぺぽよ まゅ ろウろゎゅよ ぽま "ぬぺまれろるよ ぽま[n]ゅよれ らもれよれ"デ れも まれ りゎま まゑもれろま ぺゅむよ ぺれウテ
+Casi has ganado el t胤tulo de "Maestro de[n]los pisos", si es que existe algo as胤.
 
 [msg THEODOR_TOUHA_75_1]
 Solo queda un poco por explorar.
@@ -476,7 +476,7 @@ Solo un poco m茨s, y habr茨s recorrido[n]completamente este piso.
 斡Un poquito m茨s y este mapa estar茨[n]completo!
 
 [msg ELIZABETH_TOUHA_100_1]
-ィびぺ-ぽぺぺぺぺめ! エぢるまよ りゎま まれよ まれ ゅよ りゎま れま ぽもぼま[n]ぼゎぺょぽよ ぺゅむよ もゆらるまれもよょぺょろま よぼゎるるま?
+斡Ta-daaaah! 夷Creo que eso es lo que se dice[n]cuando algo impresionante ocurre?
 
 [msg THEODOR_TOUHA_100_1]
 斡Incre胤ble! 斡El mapa est茨 completo!
@@ -494,7 +494,7 @@ Eres realmente un maestro cart吋grafo.
 Est茨s dibujando el mapa con[n]precisi吋n.
 
 [msg ELIZABETH_MAPPING_ICON_A_2]
-ぬぺら-ぽるぺゐもょむト ゎょぺ まゑらるまれもカょ ぽま るよゆぺょろもぼもれゆよ[n]れゎらるまゆよテ ィつわよぼぺ わまるぽぺぽまるぺ ぺわまょろゎるぺ!
+Map-drawing: una expresi吋n de romanticismo[n]supremo. 斡Evoca verdadera aventura!
 
 [msg THEODOR_MAPPING_ICON_ALL_2]
 Hermana… 夷Es eso cierto…?

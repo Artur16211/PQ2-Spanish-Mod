@@ -55,19 +55,19 @@ Oye, eso es raro, 夷no?
 Un atajo, 夷eh...? 夷Qu姻 hacemos?
 
 [msg MSG_013 [Shinjiro]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Shinjiro]]
-ショートカットがあるみたいだけど どうする？[n](ショートカット選択メッセージ（仮）)
+ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Shinjiro]]
 Tch... No podemos ir por aqu胤.
 
 [msg MSG_016 [Shinjiro]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Shinjiro]]
-こちらからは通れないようだ… (ショートカット未開通メッセージ（仮）)
+こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Shinjiro]]
 Tengo un mal presentimiento sobre este[n]lugar... 夷Qu姻 opinas?

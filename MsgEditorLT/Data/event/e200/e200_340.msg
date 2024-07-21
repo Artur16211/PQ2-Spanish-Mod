@@ -81,13 +81,13 @@ Mm, no lo tomes en serio, Estoy segura[n]de que simplemente Joker est茨...[n]br
 Si pudi姻ramos encontrar carne por ah胤...
 
 [msg MSG_025 [Akechi]]
-ぬゆゆデ をぺ りゎま まれぺれ らゎまるろぺれ まゅイぼろるもぼぺれ ぺグょ まれろァょ[n]みゎょぼもよょぺょぽよデ エりゎもんァれ ゅぺれ ゎょもぽぺぽまれ ぽま[n]ぺゅゆぺぼまょぺゆもまょろよ ぽま ぺゅもゆまょろよれ ろぺゆほもイょ まれろァょ[n]みゎょぼもよょぺょぽよ?
+Mmm, ya que esas puertas el姻ctricas a雨n est茨n[n]funcionando, 夷quiz茨s las unidades de[n]almacenamiento de alimentos tambi姻n est茨n[n]funcionando?
 
 [msg MSG_026 [Yosuke]]
 ...Oh, 夷te refieres a ese contenedor que[n]vimos antes? S胤, podr胤amos encontrar[n]algo 雨til ah胤.
 
 [msg MSG_027 [Haru]]
-ねゎまれろるぺ ぼよゆらぺォウぺ ぼよょむまゅぺ ゆゎぼめぺ ぼぺるょま を れもまゆらるま[n]れぺゅま ほもまょデ ぺれウ りゎま もゆぺむもょよ りゎま まれよれ[n]ぼよょろまょまぽよるまれ みゎょぼもよょぺょ ぽま ゅぺ ゆもれゆぺ ゆぺょまるぺテ
+Nuestra compa隠胤a congela mucha carne y siempre[n]sale bien, as胤 que imagino que esos[n]contenedores funcionan de la misma manera.
 
 [msg MSG_028 [P3 Fem Protag]]
 斡Esa es una gran idea! 夷No estaba ese[n]contenedor cerca de aqu胤?

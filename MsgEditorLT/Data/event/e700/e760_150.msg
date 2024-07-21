@@ -8,8 +8,8 @@ Oh, matar胤a por algo de ramen ahora[n]mismo...
 Hrgh... Pensar en eso tan de repente me[n]dio hambre...
 
 [msg MSG_003 [Junpei]]
-つゅ るぺゆまょ まれ ゎょ らゅぺぼまる ぼゎゅらよれよデ まょ るまぺゅもぽぺぽテ つれ[n]ぽま まれよれ ぺゅもゆまょろよれ ぽもぺほカゅもぼよれ りゎま ぽま るまらまょろま[n]ぺょめまゅぺれ ぽま ゅぺ ょぺぽぺテテテ
-とゆぺむもょぺ まれよれ みもぽまよれ ゆまんぼゅァょぽよれま ぼよょ まゅ ぺぼまもろま[n]ぽま ぺゃよ ゅもむまるぺゆまょろま ろよれろぺぽよ を まゅ ぼぺゅぽよ ゆもまょろるぺれ[n]ゅよ れよるほまれ ろよぽよテテテ ィっまゅもぼもよれよ!
+El ramen es un placer culposo, en realidad. Es[n]de esos alimentos diab吋licos que de repente[n]anhelas de la nada...
+Imagina esos fideos mezcl茨ndose con el aceite[n]de ajo ligeramente tostado y el caldo mientras[n]lo sorbes todo... 斡Delicioso!
 
 [msg MSG_004 [Yusuke]]
 Ahora estoy a雨n m茨s hambriento. Ser茨[n]mejor que te hagas responsable de eso.

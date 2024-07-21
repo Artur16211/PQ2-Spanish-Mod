@@ -41,7 +41,7 @@ Mantengamos la calma, 夷de acuerdo?
 斡Cuidado con esa puerta el姻ctrica!
 
 [msg RISE_DENKISAKU_REACTION__3]
-ィっまほまるウぺ めぺほまる ゎょ もょろまるるゎらろよる まょ ぺゅむゎょぺ[n]らぺるろま! ィびもまょまれ りゎま まょぼよょろるぺるゅよ!
+斡Deber胤a haber un interruptor en alguna[n]parte! 斡Tienes que encontrarlo!
 
 [msg RISE_KYOUHU_REACTION_1]
 斡Ese viento es fuerte!

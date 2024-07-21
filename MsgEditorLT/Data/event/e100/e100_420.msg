@@ -27,7 +27,7 @@ Como dije, no es nada serio, solo una[n]simple pregunta.
 Bueno, eso es lamentable. Estaba[n]esperando experimentarlo con una porci吋n[n]de "Katsu Dune"...
 
 [msg MSG_008 [Akechi]]
-どぺデ ゃぺデ ゃぺデ エろま るまみもまるまれ ぺ ゅぺれ れまるもまれ[n]らよゅもぼウぺぼぺれ ぽよょぽま よみるまぼまょ ぼよゆもぽぺ ぺ ゅよれ[n]れよれらまぼめよれよれ ぼゎぺょぽよ ゅよれ もょろまるるよむぺょ? つれよ まれ[n]らゎるぺゆまょろま みもぼろもぼもよテ
+Ja, ja, ja, 夷te refieres a las series[n]polic胤acas donde ofrecen comida a los[n]sospechosos cuando los interrogan? Eso es[n]puramente ficticio.
 Esto es simplemente para satisfacer mi[n]curiosidad personal.
 
 [msg MSG_009 [Akechi]]

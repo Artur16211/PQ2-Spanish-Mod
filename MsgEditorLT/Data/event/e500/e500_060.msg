@@ -27,14 +27,14 @@ Cortar y pegar recuerdos... De cierto[n]modo, es parecido a las pel胤culas[n]re
 
 [msg MSG_008 [Hikari]]
 Mmhm, tambi姻n me recuerda a eso...
-つれ ぺゅむよ ぺょろもぼゎぺぽよ めよを まょ ぽウぺデ らまるよ るまぼゎまるぽよ[n]りゎま ゆも らぺぽるま ぼよょまぼろぺほぺ らもまんぺれ みウれもぼぺれ らぺるぺ[n]ぼるまぺる ゎょぺ らまゅウぼゎゅぺデ めぺぼま ゆゎぼめよ ろもまゆらよテ
+Es algo anticuado hoy en d胤a, pero recuerdo[n]que mi padre conectaba piezas f胤sicas para[n]crear una pel胤cula, hace mucho tiempo.
 
 [msg MSG_009 [Hikari]]
 Las pel胤culas se editan cortando y[n]pegando partes de otras pel胤culas.
-つれ ゎょ ゆイろよぽよ ぺょろもぼゎぺぽよ めよを まょ ぽウぺデ らまるよ[n]るまぼゎまるぽよ りゎま ゆも らぺぽるま ぼよょまぼろぺほぺ らもまんぺれ みウれもぼぺれ[n]らぺるぺ ぼるまぺる ゎょぺ らまゅウぼゎゅぺデ めぺぼま ゆゎぼめよ ろもまゆらよテ
+Es un m姻todo anticuado hoy en d胤a, pero[n]recuerdo que mi padre conectaba piezas f胤sicas[n]para crear una pel胤cula, hace mucho tiempo.
 
 [msg MSG_010 [Akechi]]
-ぢもまるろよデ ゅぺれ らまゅウぼゎゅぺれ れよょ まゅ るまれゎゅろぺぽよ ぽま ゎょ[n]ゆぺろまるもぺゅ まぽもろぺぽよテテテ とょぼゅゎれよ らよぽるウぺょ まぽもろぺるれま[n]ぼよょ もょろまょぼもカょ ゆぺゅもぼもよれぺテ
+Cierto, las pel胤culas son el resultado de un[n]material editado... Incluso podr胤an editarse[n]con intenci吋n maliciosa.
 
 [msg MSG_011 [Hikari]]
 斡No, no puedes hacer algo as胤! 斡Las[n]pel胤culas no fueron creadas para eso!
