@@ -1,46 +1,46 @@
 [msg MSG_000 [Futaba]]
-That looks like the finish! We did it![n]We made it to the end!
+斡Parece que hemos acabado! 斡Lo hicimos! 斡Pudimos llegar al final!
 
 [msg MSG_001 [Junpei]]
-Whew, that took forever. All that[n]bouncing around's got me beat.
-So anyway, what was that "GROW" thing[n]supposed to mean?
+Uf, eso nos llev吋 una eternidad. Todo esto me tiene agotado.
+En cualquier caso, 夷qu姻 se supone que significaba "GROW"?
 
 [msg MSG_002 [Yukari]]
-Unbelievable. You came all this way[n]without knowing what that meant?
+Incre胤ble. 夷Has llegado hasta aqu胤 sin saber lo que significaba?
 
 [msg MSG_003 [Junpei]]
-Huh? Wait, don't tell me everyone else[n]figured it out!?
+夷Eh? Espera, 斡夷no me digas que todo el mundo lo descubri吋?!
 
 [sel SEL_004 top]
-They're colors.
-It's an acronym.
+Son colores.
+Es un acr吋nimo.
 
 [msg MSG_005 [Akechi]]
-That's right. Each letter in GROW is an[n]abbreviation for one of the warp point[n]colors.
-Green, red, orange, and white. If you[n]take the first letter of each of these[n]colors, they spell...
+Cierto. Cada letra en GROW es una abreviaci吋n de los colores de los teletransportadores.
+En ingl姻s ser胤a green, red, orange, y white. Si tomas la primera letra de cada uno de los colores, deletrean...
 "GROW."
-So the paper was telling us to use the[n]green, red, orange, and white warp[n]points in that order.
+As胤 que la nota nos dec胤a que utiliz茨ramos los teletransportadores verde, rojo, naranja y blanco en ese orden.
 
 [msg MSG_006 [Naoto]]
-I noticed it once we picked up the paper[n]and saw that the warp points were[n]color-coded.
-As far as puzzles go, this is a fairly[n]popular variant.
+Me di cuenta una vez que cogimos el papel y vimos que los teletransportadores estaban codificados con colores.
+En cuanto a los rompecabezas, se trata de uno bastante popular.
 
 [msg MSG_007 [Ann]]
-O-Oh, right. Totally by-the-book, of[n]course!
+O-Oh, claro, 斡es cierto!
 
 [msg MSG_008 [Ryuji]]
-Y-Yeah! Psh, this is totally amateur[n]hour, right?
+斡S-S胤! Pf, esto es totalmente para aficionados, 夷verdad?
 
 [msg MSG_009 [Morgana]]
-...You guys had no idea, did you.
+... No ten胤an ni idea, verdad.
 
 [msg MSG_010 [P4 Hero]]
-Still, I think "GROW" is pretty[n]appropriate.
-After all, we've all grown a little from[n]what we went through, right?
+Aun as胤, creo que "GROW" es bastante apropiado.
+Al fin y al cabo, todos hemos crecido un poco con lo que hemos pasado, 夷no?
 
 [msg MSG_011 [Yosuke]]
-Man, I dunno how you say that kinda[n]stuff with a straight face... Guess[n]that's why you're my partner.
+Bro, no s姻 c吋mo puedes decir esas cosas con cara seria... Supongo que por eso eres mi compa隠ero.
 
 [msg MSG_012 [Rise]]
-Anyhow, mission complete! Let's head[n]back and report in!
+En fin, 斡misi吋n cumplida! 斡Volvamos e informemos!
 

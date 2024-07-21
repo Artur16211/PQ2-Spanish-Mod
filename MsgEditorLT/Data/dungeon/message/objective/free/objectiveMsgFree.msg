@@ -152,7 +152,7 @@ Cambia el final de la pel胤cula
 Contin雨a adelante
 
 [msg D03_OBJECTIVE_MSG_SMALL__7]
-Utiliza los portales para avanzar
+Usa los teletransportadores para avanzar
 
 [msg D03_OBJECTIVE_MSG_LARGE__5]
 Derrota a la Madre Computadora

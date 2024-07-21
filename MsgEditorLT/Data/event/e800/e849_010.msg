@@ -1,62 +1,62 @@
 [msg MSG_000 [Elizabeth]]
-Well, I imagine you're all used to this:[n]I have another special screening!
-You've made good use of the resources[n]here. As the proprietor, I must say I'm[n]proud.
+Bueno, supongo que ya se habr茨n acostumbrado a esto: 斡tengo otra proyecci吋n especial!
+Han hecho un buen uso de los recursos. Como propietaria, debo decir que estoy orgullosa.
 
 [msg MSG_000_1 [Elizabeth]]
-And now, the time has come to raise the[n]curtain on a very special screening!
+Y ahora, 斡ha llegado la hora de levantar el tel吋n de una proyecci吋n muy especial!
 
 [msg MSG_001 [Ryuji]]
-Oh, one of those specific-cast ones? So[n]we're fighting a big one again, huh?
+Oh, 夷una de esas que especifica su reparto? 夷Entonces vamos a luchar contra algo fuerte otra vez?
 
 [msg MSG_002 [Elizabeth]]
-*chuckle* I see this is routine for you[n]by now. Yes, you're correct.
+*risita* Veo que esto ya se ha convertido en rutina para vosotros. S胤, llevas raz吋n.
 
 [msg MSG_002_1 [Elizabeth]]
-This time, your brutal deathmatch is[n]against a villain who has appeared in[n]the depths of "A.I.G.I.S."
-Please crush the living hell out of it[n]and then return to me.
+Esta vez, su brutal combate a muerte es contra un villano que ha aparecido en las profundidades de "A.I.G.I.S."
+Por favor, apl茨stenlo y luego vuelvan a m胤.
 
 [sel SEL_003 top]
-Consider it crushed.
-This is getting old.
+Consid姻ralo aplastado.
+Esto se est茨 haciendo repetitivo.
 
 [msg MSG_004 [Elizabeth]]
-My, you're brimming with confidence.
-Or perhaps you're more focused on the[n]bout beyond this task...?
+Vaya, rebosas confianza.
+夷O quiz茨s est茨s m茨s centrado en el combate m茨s all茨 de esta tarea...?
 
 [msg MSG_005 [Morgana]]
-Well, it's true this is just an opener[n]for the real battle. But we can't let[n]our guard down.
+Es cierto que esto es solo un aperitivo de la verdadera batalla. Pero no podemos bajar la guardia.
 
 [msg MSG_006 [P3 Hero]]
-Yeah. Doesn't matter who we're up[n]against. We'll fight with all we've got.
+S胤. No importa contra qui姻n nos enfrentemos. Lucharemos con todo lo que tenemos.
 
 [msg MSG_007 [Elizabeth]]
-Grrr... Then again, this would be the[n]third one. I suppose anyone might be[n]losing their zeal by now.
+Grrr... Este ser胤a el tercero. Supongo que a estas alturas cualquiera podr胤a estar perdiendo el entusiasmo.
 
 [msg MSG_008 [Morgana]]
-C'mon, don't be like that. The Phantom[n]Thieves have to take on anyone in their[n]way!
+Vamos, no seas as胤. 斡Los Ladrones Fantasma tienen que enfrentarse a cualquiera que se interponga en su camino!
 
 [msg MSG_009 [P3 Hero]]
-Haha... That's just your style, huh?[n]Guess I've got to step up my game.
+Ja, ja... 夷Ese es su estilo? Supongo que tendr姻 que mejorar.
 
 [msg MSG_010 [Elizabeth]]
-Your chance may come sooner than you[n]think, [f 6 1 16 0 0].
+Tu oportunidad puede llegar antes de lo que crees, [f 6 1 16 0 0].
 
 [msg MSG_010_1 [Elizabeth]]
-As it happens, your name is the one[n]written on this ticket.
+Resulta que su nombre es el que est茨 escrito en este billete.
 
 [msg MSG_011 [P3 Hero]]
-Huh. Well, okay. Guess that means I'm up[n]for the next battle.
+Eh. Bueno, vale. Eso significa que estoy listo para la siguiente batalla.
 
 [msg MSG_012 [P3 Hero]]
-Let's do this, Leader. Sounds like a[n]pretty big responsibility, but I'll give[n]it a shot.
+Hag茨moslo, L胤der. Parece una gran responsabilidad, pero lo intentar姻.
 
 [sel SEL_013 top]
-Show me your best.
-I know you can do it.
+Mu姻strame lo mejor de ti.
+S姻 que puedes hacerlo.
 
 [msg MSG_014 [P3 Hero]]
-Of course. I owe you, anyway. Gotta[n]repay you for saving my life.
+Por supuesto. Te lo debo, de todos modos. Tengo que pagarte por salvarme la vida.
 
 [msg MSG_014_1 [P3 Hero]]
-Well, it's going to be as tough as the[n]last ones were. Let's work together and[n]take it out.
+Bueno, va a ser tan duro como los anteriores. Trabajemos juntos y acabemos con 姻l.
 

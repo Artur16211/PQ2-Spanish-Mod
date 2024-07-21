@@ -1,24 +1,24 @@
 [msg MSG_000 [P3 Hero]]
-Looks like we managed. You all did[n]great, guys.
+Parece que lo hemos conseguido. Lo han hecho genial, chicos.
 
 [msg MSG_001 [Yusuke]]
-We finished it with grace. Now, does[n]that complete our task?
+Hemos acabado con gracia. Ahora, 夷eso completa nuestra tarea?
 
 [msg MSG_002 [P3 Hero]]
-Oh, hey...
+Oh, ey...
 
 [msg MSG_003]
-There's something on the ground...
+Hay algo en el suelo...
 
 [msg MSG_004 [P3 Hero]]
-Knew it. It's just like the one you and[n][f 6 1 13 0 0 0] found.
+Lo sab胤a. Es justo como la que t雨 y [f 6 1 13 0 0 0] encontraron.
 
 [msg MSG_005]
-Obtained Sooty Film!
+斡Obtuviste una Pel胤cula de Holl胤n!
 
 [msg MSG_006 [P3 Hero]]
-This is what, our third one? It's about[n]time we find out what they really are...
+夷Esta es ya la tercera? Ya es hora de que averigüemos qu姻 son en realidad...
 
 [msg MSG_006_1 [P3 Hero]]
-In any case, let's head back. We'd[n]better report to Elizabeth.
+En cualquier caso, volvamos. Ser茨 mejor avisar a Elizabeth.
 

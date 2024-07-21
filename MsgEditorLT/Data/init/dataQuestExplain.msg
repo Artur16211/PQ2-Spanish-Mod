@@ -8,34 +8,34 @@
 ※こOク夷ス:P吋7:
 
 [msg quest_explain_003]
-斡Derrota a los Gigas fanfarrones!
+斡Derrota a los Gigas Osados!
 
 [msg quest_explain_004]
-斡Evita los reflectores!
+斡Evita las luces de b雨squeda!
 
 [msg quest_explain_005]
 ※こOク夷ス:P吋7:
 
 [msg quest_explain_006]
-斡Investiga la misteriosa criatura[n]antigua!
+斡Investiga la misteriosa criatura antigua!
 
 [msg quest_explain_007]
-Derrota al Chico Pollo
+斡Derrota al Chico Pollo!
 
 [msg quest_explain_008]
-斡Encuentra al falso oficial de polic胤a y[n]hazlo pagar!
+斡Encuentra al falso polic胤a y hazlo pagar!
 
 [msg quest_explain_009]
-斡Encuentra el graffiti que es diferente[n]al resto!
+斡Encuentra el graffiti que ha cambiado!
 
 [msg quest_explain_010]
-斡Dir胤gete al lugar de pesca y atrapa uno[n]grande!
+斡Dir胤gete a la zona de pesca y atrapa uno grande!
 
 [msg quest_explain_011]
 斡Roba ese tesoro!
 
 [msg quest_explain_012]
-斡Recoge un helecho de canela!
+斡Recoge un Helecho de Canela!
 
 [msg quest_explain_013]
 斡Encuentra al culpable!
@@ -44,13 +44,13 @@ Derrota al Chico Pollo
 斡Rescata al beb姻 dinosaurio!
 
 [msg quest_explain_015]
-斡Descubre qu姻 est茨 causando estragos en[n]la jungla!
+斡Descubre qu姻 est茨 amenazando la jungla!
 
 [msg quest_explain_016]
-斡Localiza el objeto en cuesti吋n dentro[n]del contenedor!
+斡Localiza el objeto dentro del contenedor!
 
 [msg quest_explain_017]
-斡Recopila informaci吋n y resuelve el[n]caso!
+斡Re雨ne informaci吋n y resuelve el caso!
 
 [msg quest_explain_018]
 斡Obt姻n tres materiales raros!
@@ -62,16 +62,16 @@ Derrota al Chico Pollo
 ※こOク夷ス:P吋7:
 
 [msg quest_explain_021]
-斡Encuentra ingredientes comestibles en[n]la jungla!
+斡Encuentra ingredientes comestibles en la jungla!
 
 [msg quest_explain_022]
 斡Derrota a tres Sombras grandes!
 
 [msg quest_explain_023]
-斡Derrota a cuatro Rampage Drives!
+斡Derrota a cuatro Veh胤culos Feroces!
 
 [msg quest_explain_024]
-斡Supera la tecnolog胤a de 雨ltima[n]generaci吋n de seguridad!
+斡Supera la tecnolog胤a de seguridad de 雨ltima generaci吋n!
 
 [msg quest_explain_025]
 斡Destruye al KNS-1000!
@@ -80,22 +80,22 @@ Derrota al Chico Pollo
 斡Observa la batalla de las mascotas!
 
 [msg quest_explain_027]
-斡Encuentra piezas para el equipo de[n]cocina!
+斡Encuentra piezas para el equipo de cocina!
 
 [msg quest_explain_028]
-斡Repara el robot averiado!
+斡Repara el robot roto!
 
 [msg quest_explain_029]
 斡Derrota a dos Tyranniqueens!
 
 [msg quest_explain_030]
-斡Resuelve el misterio de los[n]dispositivos de teletransporte!
+斡Resuelve el misterio de los dispositivos de teletransporte!
 
 [msg quest_explain_031]
-斡Localiza el club nocturno!
+斡Encuentra el club nocturno!
 
 [msg quest_explain_032]
-斡Haz que las hermosas damas salven la[n]Kamociudad!
+斡Haz que las hermosas damas salven la Kamo Ciudad!
 
 [msg quest_explain_033]
 斡Busca los puntos del tesoro!
@@ -140,10 +140,10 @@ Derrota al Chico Pollo
 斡Recupera la m雨sica de la pel胤cula!
 
 [msg quest_explain_047]
-斡Derrota la nueva Sombra en la[n]Kamociudad!
+斡Derrota la nueva Sombra en la Kamociudad!
 
 [msg quest_explain_048]
-斡Derrota a la nueva Sombra en Junessic[n]Land!
+斡Derrota a la nueva Sombra en Junessic Land!
 
 [msg quest_explain_049]
 斡Derrota la nueva Sombra en A.I.G.I.S!

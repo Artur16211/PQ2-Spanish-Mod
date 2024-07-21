@@ -1,63 +1,63 @@
 [msg MSG_000 [Elizabeth]]
-So you managed to root out the truth of[n]the complex labyrinth, and made it to[n]safety.
-Just as the word "GROW" guided you, the[n]path you followed was indeed one of[n]self-betterment.
+As胤 que han conseguido desentra隠ar la verdad del complejo laberinto y han logrado volver a salvo.
+Al igual que la palabra «GROW» les guio, el camino que siguieron fue el de la superaci吋n personal.
 
 [msg MSG_001 [Yosuke]]
-Uh huh. I had a feeling you'd bring that[n]up.
+Ten胤a el presentimiento de que sacar胤as ese tema.
 
 [msg MSG_002 [P4 Hero]]
-Heh... Sounds familiar.
+Je... Suena familiar.
 
 [msg MSG_003 [Yukari]]
-It's weird, though. The entire labyrinth[n]really did change somehow.
+Aunque, es raro. Todo el laberinto realmente cambi吋 de alguna forma.
 
 [msg MSG_004 [P3 Hero]]
-Maybe there's some hidden meaning to[n]it... or maybe I'm overthinking it.
+Quiz茨 tenga alg雨n significado oculto... o quiz茨 le est姻 dando demasiadas vueltas.
 
 [msg MSG_005 [Teddie]]
-The heart of a labyrinth is allowed to[n]change! Just like the heart of a fair[n]bear maiden!
+斡El coraz吋n de un laberinto puede cambiar! 斡Igual que el coraz吋n de una bella doncella!
 
 [msg MSG_006 [Rise]]
-Ahaha! Whatever you say.
+斡Ja, ja, ja! Lo que t雨 digas.
 
 [msg MSG_007 [Shinjiro]]
-You still hangin' out way over here?
+夷Sigues por aqu胤?
 
 [msg MSG_008 [Akechi]]
-Hahaha... You're one to talk.
-Sorry, I don't mean to worry you. You[n]needn't feel obligated to talk to me.
+Ja, ja, ja... Mira quien habla.
+Perd吋n, no quer胤a preocuparte. No tienes que sentirte obligado a hablarme.
 
 [msg MSG_009 [Shinjiro]]
-Nah, that ain't it.
-Kinda feels like we're the same, is all.[n]Nice to talk to another guy who doesn't[n]fit in.
+Nah, no es eso.
+Parece que somos iguales, eso es todo. Es agradable hablar con otro tipo que no encaja.
 
 [msg MSG_010 [Akechi]]
-You and I...? The same?
+夷T雨 y yo...? 夷Iguales?
 
 [msg MSG_011 [Shinjiro]]
-Besides, I can tell you're―
+Adem茨s, puedo decir que eres...
 
 [msg MSG_012 [Akihiko]]
-Shinji, give me a hand! I got you a[n]mitt, so help me do some drills!
-Hey, Shinji! Where'd you go?
+斡Shinji, 姻chame una mano! 斡Te consegu胤 un guante, as胤 que ay雨dame a hacer algunos ejercicios!
+斡Ey, Shinji! 夷A d吋nde has ido?
 
 [msg MSG_013 [Akechi]]
-Sounds like you're needed elsewhere. Go[n]on, don't worry about me.
+Parece que te necesitan en otra parte. Vamos, no te preocupes por m胤.
 
 [msg MSG_014 [Akechi]]
-I suspect... we're not as similar as you[n]think.
-I've chosen my own path. That's all[n]there is to it, I'm afraid.
+Sospecho... que no somos tan parecidos como crees.
+He elegido mi propio camino. Me temo que eso es todo.
 
 [msg MSG_015 [Shinjiro]]
 ......
-Look, I don't know your life, but let me[n]just say this.
-I've done a lot of bad shit. Wish I[n]could undo some of it. But since I[n]can't, I try to live with no regrets.
-That's all. See ya.
+Mira, no conozco tu vida, pero d姻jame decirte esto.
+He hecho muchas cosas malas. Ojal茨 pudiera deshacer algunas. Pero como no puedo, intento vivir sin arrepentimientos.
+Eso es todo. Nos vemos.
 
 [msg MSG_016 [Akechi]]
 ......
-I really am sorry... but I just don't[n]understand.
+De verdad que lo siento... pero es que no lo entiendo.
 
 [msg MSG_017 [Akechi]]
-..."Regrets," indeed.
+... "Arrepentimientos", en efecto.
 

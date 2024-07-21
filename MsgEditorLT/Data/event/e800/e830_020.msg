@@ -1,48 +1,48 @@
 [msg MSG_000 [Haru]]
-So we just have to get through this[n]floor, right?
-She told us the layout has become[n]terribly complex, but it doesn't seem[n]that way...
+Entonces solo tenemos que avanzar en este piso, 夷verdad?
+Elizabeth nos dijo que la distribuci吋n se ha vuelto terriblemente compleja, pero no lo parece...
 
 [msg MSG_001 [Futaba]]
-Hrrm...? Whoa, the warp points are in[n]different places!
+夷Hm...? 斡Hala, los teletransportadores est茨n en sitios diferentes!
 
 [msg MSG_002 [P4 Hero]]
-That's not good. Those things were[n]already confusing to begin with.
+Eso no es bueno. Esas cosas ya eran confusas para empezar.
 
 [msg MSG_003 [Akechi]]
-Not to mention we don't have any[n]information besides our objective.
-If only we had some kind of hint to help[n]us find our way...
+Por no mencionar que no tenemos ninguna informaci吋n aparte de nuestro objetivo.
+Ojal茨 tuvi姻ramos alguna pista que nos ayudara a encontrar el camino...
 
 [msg MSG_004 [Koromaru]]
-Arf arf, arf!
+斡Arf arf, arf!
 
 [msg MSG_005]
-Koromaru has a piece of paper in his[n]mouth...
+Koromaru tiene un trozo de papel en su boca...
 
 [msg MSG_006 [Ken]]
-Hey... There's something written here.
-G, R, O, W...?
+Hey... Hay algo escrito aqu胤.
+夷G, R, O, W...?
 
 [msg MSG_007 [Ann]]
-It spells "GROW"... Does it mean, like,[n]physically or metaphorically?
+Pone "GROW", que significa crecer... 夷Pero en qu姻 sentido, f胤sico o metaf吋ricamente?
 
 [msg MSG_008 [Mitsuru]]
-Perhaps it's some kind of code?
-In any case, it's safe to say this is[n]some manner of clue for the sake of this[n]special screening.
+夷Quiz茨s sea alg雨n tipo de c吋digo?
+En cualquier caso, es seguro que se trata de alg雨n tipo de pista para esta proyecci吋n especial.
 
 [msg MSG_009 [Morgana]]
-So the warp points are different, and[n]we've got this paper that says[n]"G-R-O-W"...
-What do you think of all this, Joker?
+Entonces tenemos este papel que pone "G-R-O-W" y los teletransportadores son diferentes...
+夷Qu姻 piensas de todo esto, Joker?
 
 [sel SEL_010 top]
-Not sure yet.
-Aha, I get it...
+A雨n no estoy seguro.
+Aj茨, lo entiendo...
 
 [msg MSG_011 [Naoto]]
-We don't have enough clues to say for[n]certain right now. Maybe if we keep[n]moving, we'll learn more.
+No tenemos suficientes pistas para decirlo con certeza. Tal vez si seguimos movi姻ndonos aprenderemos m茨s.
 
 [msg MSG_012 [Naoto]]
-Really!? And with so few clues...[n]Impressive deduction.
+斡夷En serio?! Y con tan pocas pistas... Una deducci吋n impresionante.
 
 [msg MSG_013 [Naoto]]
-In any case, we'll follow your lead,[n]Joker. Let's keep moving for now.
+En cualquier caso, te seguiremos, Joker. Sigamos movi姻ndonos por ahora.
 

@@ -221,3 +221,6 @@
 | Clay Figurine |  |
 | Guardian Machines | Máquinas Guardianas |
 | Cognitive Devices | Dispositivos Cognitivos |
+| Warp Points / Warps | Teletransportadores |
+| Sooty Film | Pel胤cula de Holl胤n | # Cambiar a "Cinta?"
+| piece of film |trozo de pel胤cula |

@@ -1,37 +1,37 @@
 [msg MSG_000 [Yosuke]]
-Hey, we got two more warp spots over[n]here. Which do we take?
+Ey, aqu胤 hay otros dos teletransportadores. 夷Cu茨l tomamos?
 
 [msg MSG_001 [Ann]]
-I got it! It's the one to the left!
+斡Lo tengo! 斡Es el de la izquierda!
 
 [msg MSG_002 [Makoto]]
-You seem certain, Panther. Did you[n]figure out the hint?
+Pareces segura, Panther. 夷Descubriste la pista?
 
 [msg MSG_003 [Ann]]
-Nope! I've just got a hunch, that's all.
-Actually, I just remembered I saw on TV[n]that Scorpio was the most lucky sign for[n]today.
-And Scorpio's lucky color was blue. So[n]the blue warp spot is definitely the way[n]to go!
+斡No! Solo tengo una corazonada, eso es todo.
+De hecho, acabo de acordarme de que hoy he visto en la tele que escorpio era el signo m茨s afortunado.
+Y el color de la suerte de escorpio era el azul. 斡As胤 que el teletransportador azul seguro que es el correcto!
 
 [msg MSG_004 [Ann]]
-Um... or not.
-Eheheh... I guess that's kinda flimsy.
+Um... o no.
+Je, je, je... Supongo que no tiene mucho sentido.
 
 [msg MSG_005 [Akechi]]
-Which one do you think is right,[n]Aragaki-kun?
+夷Cu茨l crees que es el correcto, Aragaki?
 
 [msg MSG_006 [Shinjiro]]
-Huh? How the hell should I know?
+夷Eh? 夷C吋mo cojones quieres que lo sepa?
 
 [msg MSG_007 [Akechi]]
-Haha... No reason in particular.
-Joker makes the final call anyway. I[n]suppose I just wanted your opinion for[n]reference.
+Ja, ja... Por ninguna raz吋n en particular.
+De todos modos, Joker toma la decisi吋n final. Supongo que solo quer胤a tu opini吋n como referencia.
 
 [msg MSG_008 [Shinjiro]]
 ......
-No idea.
-For all we know, both of 'em are wrong.
+Ni idea.
+Por lo que sabemos, ninguno de los dos es correcto.
 
 [msg MSG_009 [Akechi]]
-Hahaha, true enough...
-If we do get this wrong, I hope we get a[n]chance to go back and make the right[n]choice.
+Ja, ja, ja, bastante cierto...
+Si nos equivocamos, espero que tengamos la oportunidad de volver atr茨s y tomar la decisi吋n correcta.
 

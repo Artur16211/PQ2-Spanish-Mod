@@ -2,7 +2,7 @@
 ク夷ス:００Oヒン:Hす。 4ミーメ7セージHす。 4ミーメ7セージHす。
 
 [msg quest_hint_001]
-Alcanza la Zona 2 de Junessic Land.
+Llega a la Zona 2 de Junessic Land.
 
 [msg quest_hint_002]
 ※ク夷ス:吋7:
@@ -29,13 +29,13 @@ Investiga la Zona 3 de Junessic Land.
 Dir胤gete al cine.
 
 [msg quest_hint_010]
-Alcanza el Fin de la Isla en Junessic[n]Land.
+Llega al Fin de la Isla en Junessic Land.
 
 [msg quest_hint_011]
-Alcanza la Zona 1 en A.I.G.I.S.
+Llega a la Zona 1 en A.I.G.I.S.
 
 [msg quest_hint_012]
-Alcanza la Zona 2 de Junessic Land.
+Llega a la Zona 2 de Junessic Land.
 
 [msg quest_hint_013]
 Dir胤gete al cine.
@@ -53,22 +53,22 @@ Dir胤gete a la taquilla.
 Investiga la Zona 2 de A.I.G.I.S.
 
 [msg quest_hint_018]
-Investiga el Piso 2 del Laboratorio de[n]A.I.G.I.S.
+Investiga el Piso 2 del Laboratorio de A.I.G.I.S.
 
 [msg quest_hint_019]
-Alcanza el Servidor Central en[n]A.I.G.I.S.
+Llega al Servidor Central en A.I.G.I.S.
 
 [msg quest_hint_020]
 ※ク夷ス:吋7:
 
 [msg quest_hint_021]
-Investiga el Piso 1 del Laboratorio de[n]A.I.G.I.S.
+Investiga al Laboratorio 1 de A.I.G.I.S.
 
 [msg quest_hint_022]
-Investiga el Piso 2 del laboratorio de[n]A.I.G.I.S.
+Investiga al Laboratorio 2 de A.I.G.I.S.
 
 [msg quest_hint_023]
-Despu姻s de completar una proyecci吋n[n]especial, investiga el Piso 2 del[n]Laboratorio A.I.G.I.S.
+Despu姻s de completar una proyecci吋n especial, investiga el Laboratorio 2 en A.I.G.I.S.
 
 [msg quest_hint_024]
 Investiga el Acto 2 de [f 6 1 40 0 0 0].
@@ -83,7 +83,7 @@ Dir胤gete a la taquilla.
 Dir胤gete a la taquilla.
 
 [msg quest_hint_028]
-Despu姻s de completar una proyecci吋n[n]especial, dir胤gete a la taquilla.
+Despu姻s de completar una proyecci吋n especial, dir胤gete a la taquilla.
 
 [msg quest_hint_029]
 Investiga el Acto 1 de [f 6 1 40 0 0 0].
@@ -95,7 +95,7 @@ Alcanza el Acto 4 de [f 6 1 40 0 0 0].
 Alcanza el Acto 5 de [f 6 1 40 0 0 0].
 
 [msg quest_hint_032]
-Dir胤gete al puesto de concesiones.
+Dir胤gete al puesto de comida.
 
 [msg quest_hint_033]
 Investiga el Acto 6 de [f 6 1 40 0 0 0].
@@ -107,37 +107,37 @@ Investiga el Acto 6 de [f 6 1 40 0 0 0].
 Investiga el Acto 5 de [f 6 1 40 0 0 0].
 
 [msg quest_hint_036]
-Dir胤gete al puesto de concesiones.
+Dir胤gete al puesto de comida.
 
 [msg quest_hint_037]
 Investiga el Acto 6 de [f 6 1 40 0 0 0].
 
 [msg quest_hint_038]
-Alcanza el Bloque 1 del Distrito del[n]Cine
+Alcanza el Bloque 1 del Distrito del Cine
 
 [msg quest_hint_039]
 Dir胤gete a la taquilla.
 
 [msg quest_hint_040]
-Alcanza el Bloque 3 del Distrito del[n]Cine.
+Alcanza el Bloque 3 del Distrito del Cine.
 
 [msg quest_hint_041]
-Alcanza el Bloque 2 del Distrito del[n]Cine.
+Alcanza el Bloque 2 del Distrito del Cine.
 
 [msg quest_hint_042]
-Investiga el Bloque 2 del Distrito del[n]Cine.
+Investiga el Bloque 2 del Distrito del Cine.
 
 [msg quest_hint_043]
-Investiga el Bloque 3 del Distrito del[n]Cine.
+Investiga el Bloque 3 del Distrito del Cine.
 
 [msg quest_hint_044]
 ※ク夷ス:吋7:
 
 [msg quest_hint_045]
-Alcanza el Bloque 3 del Distrito del[n]Cine.
+Alcanza el Bloque 3 del Distrito del Cine.
 
 [msg quest_hint_046]
-Investiga el Bloque 4 del Distrito del[n]Cine.
+Investiga el Bloque 4 del Distrito del Cine.
 
 [msg quest_hint_047]
 Completa varias proyecciones especiales.
