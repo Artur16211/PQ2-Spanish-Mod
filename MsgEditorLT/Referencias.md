@@ -73,6 +73,7 @@
 | ------------- | ------------- | -------- |
 | **Traducción Oficial P4G** |
 | Sensei                 | Maestro                        |                                  |
+| Risette                 | Risechi                        |                                  |
 
 | Ingles     | Español      | Notas     |
 | ------------- | ------------- | -------- |
