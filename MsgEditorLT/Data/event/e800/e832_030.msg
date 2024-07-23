@@ -1,95 +1,95 @@
 [msg MSG_000 [Aigis]]
-...Excuse me, I have a question.
+... Perd吋nenme, tengo una pregunta.
 
 [msg MSG_001 [Rise]]
-What is it, Aigis?
+夷Qu姻 pasa, Aigis?
 
 [msg MSG_002 [Aigis]]
-How exactly are we to encourage these[n]people?
+夷C吋mo vamos a animar exactamente a esa gente?
 
 [msg MSG_003 [Haru]]
-Oh, yeah... we didn't really come up[n]with a plan, did we?
-I was more or less going to wing it.[n]Maybe just tell them that everything[n]will be okay?
+Oh, s胤... realmente no hemos ideado un plan, 夷no?
+M茨s o menos iba a improvisar. 夷Quiz茨s solo tenemos que decirles que todo ir茨 bien?
 
 [msg MSG_004 [Rise]]
-Hmm... If we want to do more than that,[n]we'll have to come up with an idea.
+Hmm... Si queremos hacer m茨s que eso, tendremos que pensar una idea.
 
 [msg MSG_005 [Teddie]]
-Considering all of you lovely ladies[n]were specially chosen for this special[n]screening...
-The ability to encourage someone must be[n]a prerequisite to becoming a pretty[n]girl!
-So if I learn the proper techniques for[n]encouraging others, I can become even[n]more beautiful!
-All right, everyone! Teach me your[n]secrets!
+Considerando que todas ustedes son unas hermosas damas y fueron elegidas para esta proyecci吋n especial...
+斡La habilidad de animar a alguien debe de ser un prerrequisito para convertirte en una chica guapa!
+As胤 que si aprendo las t姻cnicas m茨s adecuadas para animar a los dem茨s, 斡podr姻 ser a雨n m茨s linda!
+斡Muy bien! 斡Ens姻隠enme sus secretos!
 
 [msg MSG_006 [Rise]]
-Hey, that doesn't seem very fair.
+Ey, eso no parece muy justo.
 
 [msg MSG_007 [Teddie]]
-I'm still a beauty in training. You[n]first, Ai-chan! Let's see how it's done!
+Todav胤a soy una belleza en formaci吋n. 斡T雨 primera, Ai! 斡Veamos c吋mo se hace!
 
 [msg MSG_008 [Aigis]]
-Me? Let's see...
-I have heard that spending some time[n]away from the city and visiting nature[n]can bring solace to one's heart.
-To that end, what would you say to[n]destroying this place and returning[n]everything to its natural state?
+夷Yo? Veamos...
+He o胤do que pasar un tiempo lejos de la ciudad y visitar la naturaleza puede consolar el coraz吋n.
+Para ello, 夷qu姻 les parece destruir este lugar y devolverlo a su estado natural?
 
 [msg MSG_009 [Teddie]]
-Destroy!?
+斡夷Destruir?!
 
 [msg MSG_010 [Aigis]]
-By removing these buildings and roads,[n]we can restore the forests and other[n]greenery.
-Is this plan satisfactory?
+Quitando esos edificios y carreteras, podemos restaurar los bosques y otras zonas verdes.
+夷Os parece satisfactorio este plan?
 
 [msg MSG_011 [Teddie]]
-I don't think burning down the city will[n]be very encouraging...
+No creo que quemar la ciudad sea muy alentador...
 
 [msg MSG_012 [Haru]]
-I agree. I don't think it would calm[n]their hearts either...
-So instead of destroying the city, how[n]about we remodel it?
+Coincido. No creo que eso calme sus corazones...
+As胤 que, en vez de destruir la ciudad, 夷qu姻 tal si la remodelamos?
 
 [msg MSG_013 [Teddie]]
-Remodel!?
+斡夷Remodelar?!
 
 [msg MSG_014 [Haru]]
-We could maybe repaint the buildings, or[n]develop some empty land into a park or[n]theater...
-Perhaps add a few large-scale theme[n]parks for the children...
+Podr胤amos repintar los edificios o construir un parque o un cine en alg雨n terreno vac胤o...
+Quiz茨 tambi姻n a隠adir algunos parques tem茨ticos a gran escala para los ni隠os...
 
 [msg MSG_015 [Rise]]
-Theme parks!?
-You two are thinking way too big! If we[n]want to encourage people, we have to do[n]it on a more personal level!
-What about... Oh! Why don't we do a[n]special live performance for them?
+斡夷Parques tem茨ticos?!
+斡Ustedes est茨n pensando demasiado a lo grande! Si queremos animar a la gente, 斡tenemos que hacerlo a un nivel m茨s personal!
+Que tal... 斡Oh! 夷Por qu姻 no hacemos una actuaci吋n especial en directo para ellos?
 
 [msg MSG_016 [Teddie]]
-A live performance? You mean like those[n]concerts you do, Rise-chan?
+夷Una actuaci吋n en directo?  夷Te refieres a esos conciertos que haces, Rise?
 
 [msg MSG_017 [Rise]]
-It doesn't have to be a concert. It can[n]be anything, as long as the people enjoy[n]it.
-Let's do something that only us girls[n]can! Wouldn't that be perfect?
+No tiene que ser un concierto. Puede ser cualquier cosa, siempre que la gente disfrute.
+斡Hagamos algo que solo las chicas puedan! 夷No ser胤a perfecto?
 
 [msg MSG_018 [Haru]]
-Should we each come up with our own act?[n]That sounds fun, and it wouldn't take[n]too much time either.
+夷Deber胤amos montar cada una su propio n雨mero? Eso suena divertido, y tampoco tomar胤a mucho tiempo.
 
 [msg MSG_019 [Aigis]]
-I am skilled in precision sniping. I can[n]also take off my head.
+Soy experta en disparar con precisi吋n. Tambi姻n s姻 quitarme la cabeza.
 
 [msg MSG_020 [Haru]]
-I can do ballet and... chop firewood, I[n]guess? Maybe I'll try doing both at[n]once?
-What are you going to do, Teddie?
+Yo puedo hacer ballet y... cortar le隠a, 夷supongo? 夷Podr胤a probar a hacer ambas a la vez?
+夷T雨 que vas a hacer, Teddie?
 
 [msg MSG_021 [Teddie]]
-I'm gonna jump out of my suit and show[n]everyone the pretty lady within!
+斡Voy a saltar de mi traje y mostrar a todo el mundo la hermosa dama que llevo dentro!
 
 [msg MSG_022 [Rise]]
-Good idea! You can even make other stuff[n]pop out too, so it'll look like a magic[n]trick!
+斡Buena idea! Incluso puedes hacer que salgan otras cosas, 斡parecer胤a un truco de magia!
 
 [msg MSG_023 [Haru]]
-Hey, that sounds like fun! It's kind of[n]like a street performance.
+Ey, 斡eso suena divertido! Eso es otro tipo de actuaciones callejeras.
 
 [msg MSG_024 [Aigis]]
-I see. I understand now. All that is[n]left is to reach the target area.
+Ya veo. Ahora lo entiendo. Todo lo que queda es llegar a nuestra zona objetiva.
 
 [msg MSG_025 [Rise]]
-All right! Let's spread some cheer!
+斡Muy bien! 斡Esparzamos algo de alegr胤a!
 
 [msg MSG_026 [Teddie]]
-Yeah!
-And then it's all aboard the girl talk[n]train!
+斡S胤!
+Y luego, 斡todos a bordo de la charla de chicas!
 

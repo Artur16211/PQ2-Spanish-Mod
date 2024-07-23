@@ -1,54 +1,54 @@
 [msg MSG_000 [Teddie]]
-Now, who needs encouraging? I'm ready to[n]cheer some people up with my girly[n]cuteness!
+夷Qui姻n necesita 茨nimos? 斡Estoy listo para animar a la gente con mi belleza femenina!
 
 [msg MSG_001 [Rise]]
-Teddie, that heavy breathing is really[n]creepy.
-Try to calm down, okay? We're gonna need[n]you for this.
+Teddie, esa respiraci吋n pesada da mal rollo.
+Intenta calmarte, 夷vale? Te vamos a necesitar para esto.
 
 [msg MSG_002 [Haru]]
-It's interesting... I wonder why we of[n]all people were chosen...
+Es interesante... Me pregunto por qu姻 nos eligieron a nosotras de entre todos...
 
 [msg MSG_003 [Aigis]]
-According to Skull-san, you are known as[n]the Beauty Thief.
-That seems to be the reason you were[n]chosen.
+Seg雨n Skull, eres conocida como la Bella Ladrona.
+Esa parece la raz吋n por la que fuiste elegida.
 
 [msg MSG_004 [Haru]]
-Um, well... that's just a name I use to[n]hide my real identity!
+Oh, bueno... 斡Solo era un nombre que utilizaba para ocultar mi verdadera identidad!
 
 [msg MSG_005 [Teddie]]
-Oooh! That's so stylish!
+斡Oooh! 斡Qu姻 elegante!
 
 [msg MSG_006 [Aigis]]
-If we consider the possibility that we[n]were all chosen for specific reasons...
-Then, it makes sense that Rise-san was[n]chosen because of her work as an idol.
-As for me, it is likely that I was[n]chosen through the process of[n]elimination.
+Si consideramos la posibilidad de que fu姻ramos elegidas por motivos espec胤ficos...
+Entonces, tiene sentido que Rise fuera elegida por su trabajo como idol.
+Y en mi caso, seguramente fuera escogida por eliminaci吋n.
 
 [msg MSG_007 [Rise]]
-Process of elimination?
+夷Por eliminaci吋n?
 
 [msg MSG_008 [Aigis]]
--san was likely removed as a candidate[n]because she comes from another world.
-And according to the simulations I ran[n]for Mitsuru-san, Yukari-san, and[n]Fuuka-san...
-There was a 99% probability that they[n]would have either refused to participate[n]or just left altogether.
+ seguramente fue eliminada como candidata por venir de otro mundo.
+Y seg雨n las simulaciones que hice para Mitsuru, Yukari y Fuuka...
+Hay un 99% de posibilidades de que se hubieran negado a participar, o que se hubieran marchado.
 
 [msg MSG_009 [Haru]]
-But that isn't to say you're not[n]beautiful yourself, Aigis-san.
+Pero eso no quiere decir que no seas linda, Aigis.
 
 [msg MSG_010 [Teddie]]
-That's right. Ai-chan, Rise-chan,[n]Noir... All of you are very, very[n]pretty!
-But I shall surpass you, and then I will[n]become the Girl Talk King!
-Hrm, hrm, hrm... I'll learn all the best[n]beauty secrets and become a beauty[n]myself!
+Eso es cierto. Ai, Rise, Noir... 斡Todas son muy, muy guapas!
+Pero les superar姻, 斡y entonces me convertir姻 en el Rey de las Charlas de Chicas!
+Hrm, hrm, hrm... 斡Aprender姻 todos los secretos de la belleza y me convertir姻 en una!
 
 [msg MSG_011 [Haru]]
-*giggle* Good luck, Teddie.
+*risita* Buena suerte, Teddie.
 
 [msg MSG_012 [Rise]]
-Just don't forget that our mission is to[n]encourage the people here, okay?
+Solo no te olvides de que nuestra misi吋n es animar a la gente de aqu胤, 夷entendido?
 
 [msg MSG_013 [Aigis]]
-In that case, should we relocate to an[n]area where people are known to gather?
+En ese caso, 夷no deber胤amos ir a una zona donde se sepa que se re雨ne la gente?
 
 [msg MSG_014 [Haru]]
-The best place for that would probably[n]be Kamoshida Square, wouldn't it?
-Let's head over that way for now.
+El mejor lugar para eso ser胤a la Plaza Kamoshida, 夷no?
+Vayamos en esa direcci吋n por ahora.
 

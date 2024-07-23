@@ -1,50 +1,50 @@
 [msg MSG_000 [Elizabeth]]
-Things turned out rather differently[n]than I had envisioned... Nonetheless, I[n]see you've fulfilled your objective.
-I must say, though... I have a mild[n]interest in this girl talk myself.
-Someday, I would like to host girl talk[n]between the residents of the Velvet[n]Room.
-When that time comes, Theo shall be[n]included as Theoko... or perhaps[n]Theobeth.
+Las cosas acabaron siendo bastante distintas de lo que hab胤a previsto... No obstante, veo que han cumplido su objetivo.
+Aunque, debo decir... que yo tambi姻n tengo un leve inter姻s en esa charla de chicas.
+Alg雨n d胤a, me gustar胤a organizar una charla de chicas entre los residentes de la Habitaci吋n Terciopelo.
+Cuando eso ocurra, Theo podr胤a ser incluido como Theoko... o quiz茨s Theobeth.
 
 [msg MSG_001 [Haru]]
-Ahaha... Will Theodore end up like[n]Teddie, then?
+Ja, ja, ja... 夷Entonces, Theodore acabar茨 como Teddie?
 
 [msg MSG_002 [Teddie]]
-Nuh-uh-uh. You can't mimic such[n]prettiness so easily.
+No, no, no. No puedes imitar esa belleza tan f茨cilmente.
 
 [msg MSG_003 [Chie]]
-So, why exactly do you wanna join in on[n]the girl talk so much, Teddie?
+Entonces, 夷por qu姻 quieres unirte tanto a la charla de chicas, Teddie?
 
 [msg MSG_004 [Teddie]]
-Well... Everyone always looks like[n]they're having so much fun.
-I thought, if I joined, I'd be able to[n]learn more about you guys. And not only[n]that...
-But I thought maybe we'd become better[n]friends too.
+Bueno... Siempre parece que todas se divierten mucho.
+Pens姻 que si me un胤a podr胤a aprender m茨s sobre vosotras. Y no solo eso...
+Tambi姻n cre胤a que quiz茨 nos podr胤amos hacer mejores amigos.
 
 [msg MSG_005 [Yukiko]]
 Teddie...
 
 [msg MSG_006 [Rise]]
-Aww, you should've just said so.
+Ay, deber胤as haberlo dicho.
 
 [msg MSG_007 [Haru]]
-Yeah. If that's the case, then it[n]doesn't have to just be us girls. We[n]could all chat together.
+S胤. Si ese es el caso, entonces no tenemos que ser solo las chicas. Podr胤amos charlar todos juntos.
 
 [msg MSG_008 [Teddie]]
-Really!? You're gonna let me join!?
-I can come into your secret girl's[n]paradise and talk about this and that?
+斡夷En serio?! 斡夷Van a dejar que me una?!
+夷Podr姻 entrar a su para胤so secreto de chicas y hablar de cualquier cosa?
 
 [msg MSG_009 [Yukiko]]
-Sure you can. But if you get any funny[n]ideas, I'll roast you.
+Claro que puedes. Pero si se te ocurre algo raro, te asar姻.
 
 [msg MSG_010 [Teddie]]
-Eek... But then paradise will roast with[n]me...!
-N-No matter! As a member of the beauty[n]brigade, I'm gonna keep giving it all[n]I've got!
-Ai-chan, Rise-chan, Haru-chan! Let's[n]steal everyone's hearts together!
+Ay... 斡Pero entonces el para胤so se asar茨 conmigo...!
+斡N-No importa! 斡Como miembro de la brigada de la belleza, seguir姻 d茨ndolo todo!
+斡Ai, Rise, Haru! 斡Robemos juntos el coraz吋n de todos!
 
 [msg MSG_011 [Haru]]
-Yeah, let's do it!
+斡S胤! 斡Hag茨moslo!
 
 [msg MSG_012 [Rise]]
-You got it! Just don't think I'm ever[n]gonna let you beat me as far as cuteness[n]is concerned!
+斡Ya lo tienes! 斡No creas que voy a dejar que me ganes en lo que a belleza se refiere!
 
 [msg MSG_013 [Aigis]]
-I shall follow your example and pierce[n]everyone's hearts, Teddie!
+斡Seguir姻 tu ejemplo y atravesar姻 los corazones de todos, Teddie!
 

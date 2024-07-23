@@ -1,88 +1,88 @@
 [msg MSG_000 [Rise]]
-...So that enzyme drink is really[n]popular in the industry. They say it[n]makes your skin silky smooth!
+... As胤 que esa bebida es muy popular en la industria. 斡Dicen que te deja la piel suave como la seda!
 
 [msg MSG_001 [Haru]]
-Wow. I actually worry about my skin all[n]the time.
+Vaya. En realidad estoy todo el tiempo preocup茨ndome por mi piel.
 
 [msg MSG_002 [Rise]]
-I've been looking into fasting too. You[n]know, where you go a period of time[n]without eating anything?
-I hear a lot of models and actresses do[n]it overseas, so I'd like to try it when[n]I get a little older!
+He estado pensando tambi姻n en el ayuno. Ya sabes, d吋nde est茨s un per胤odo de tiempo sin comer nada
+He o胤do a un mont吋n de modelos extranjeros que lo hacen, 斡as胤 que me gustar胤a probarlo cuando sea algo mayor!
 
 [msg MSG_003 [Chie]]
-F-Fasting!? Just thinking about it[n]stresses me out... I could never do[n]that...
+斡夷A-Ayunar?! Solo de pensarlo me estreso... Nunca podr胤a hacerlo...
 
 [msg MSG_004 [Yukiko]]
-If it's smooth skin you want, you can[n]always use the hot springs at my[n]family's inn. That works really well.
+Si lo que quieres es una piel suave, siempre puedes usar las aguas termales en la posada de mi familia. Funcionan muy bien.
 
 [msg MSG_005 [Rise]]
-You do have really beautiful skin,[n]Yukiko-senpai.
-I wish my family owned a hot spring inn.[n]I'd be able to detox every day.
+Tienes una piel muy linda, Yukiko.
+Ojal茨 mi familia tuviera una posada de aguas termales. Podr胤a cuidarme la piel todos los d胤as.
 
 [msg MSG_006 [Aigis]]
-I have a question: Do robots benefit[n]from the effects of hot springs too?
+Tengo una pregunta: 夷los robots tambi姻n se benefician de los efectos de las aguas termales?
 
 [msg MSG_007 [Haru]]
-Um, I don't think that's a good idea...
+Um, no creo que eso sea una buena idea.
 
 [msg MSG_008 [Aigis]]
-I see. That is unfortunate.
+Ya veo. Es una pena.
 
 [msg MSG_009 [Teddie]]
-Hey there, ladies! What are we talking[n]about[f 0 1 1]?
+斡Ey, se隠oritas! 夷De qu姻 est茨n hablando[f 0 1 1]?
 
 [msg MSG_010 [Rise]]
-Huh? Not telling! It's girl talk... Just[n]kidding.
+夷Eh? 斡No te lo dir姻! Es una charla de chicas... Solo bromeaba.
 
 [msg MSG_011 [Teddie]]
-Girl talk!? I heard about this from[n]Yosuke!
-He said it's a secret safe haven where[n]girls share their thoughts about love[n]and infatuation and romance!
+斡夷Una charla de chicas?! 斡He o胤do a Yosuke hablar de ellas!
+斡Dijo que es un refugio secreto donde las chicas comparten sus pensamientos sobre el amor, el enamoramiento y el romance!
 
 [msg MSG_012 [Chie]]
-Those are all basically the same thing.[n]Also, what the hell has Yosuke been[n]telling you...?
+Todo eso es b茨sicamente lo mismo. Adem茨s, 夷qu姻 demonios te ha estado contado Yosuke...?
 
 [msg MSG_013 [Teddie]]
-I want to talk like a girl! Let me join[n]in!
+斡Quiero hablar como una chica! 斡Dejadme unirme!
 
 [msg MSG_014 [Yukiko]]
-Huh? Aren't you an alpha male, Teddie?
+夷Eh? 夷No eras un macho alfa, Teddie?
 
 [msg MSG_015 [Teddie]]
-Are you sayin' I'm an animal!?
+斡夷Est茨s diciendo que soy un animal?!
 
 [msg MSG_016 [Chie]]
-Well, you're definitely not a girl,[n]right? You always call yourself a[n]"lonely boy" or whatever.
+Bueno, definitivamente no eres una chica, 夷verdad? Siempre te llamas a ti mismo un "chico solitario" o lo que sea.
 
 [msg MSG_017 [Teddie]]
-Erk! That's right...
-But aren't I as pretty as a girl? That[n]should be enough... right?
+斡Erk! Eso es cierto...
+夷Pero no soy tan lindo como una chica? Eso ser胤a suficiente... 夷Verdad?
 
 [msg MSG_018 [Rise]]
-That's not the same! Only girls can have[n]girl talk.
-Well, I guess you can join in this time.[n]We were just talking about beauty and[n]skincare.
+斡No es lo mismo! Solo las chicas pueden tener una charla de chicas.
+Bueno, supongo que te puedes unir por esta vez. Solo est茨bamos hablando sobre la belleza y el cuidado de la piel.
 
 [msg MSG_019 [Teddie]]
-That's not girl talk! I want GIRL talk!
+斡Eso no es una charla de chicas! 斡Yo quiero una charla de CHICAS!
 
 [msg MSG_020 [Haru]]
-Wha―!? But...
+斡夷Qu姻?! Pero...
 
 [msg MSG_021 [Teddie]]
-I will enter this secret realm of[n]ladyhood, even if it kills me!
-So, how about this? If I can become[n]prettier than the rest of you, I get to[n]join you for some REAL girl talk.
+Entrar姻 en este reino secreto de la feminidad, 斡aunque eso me mate!
+夷Qu姻 os parece esto? Si consigo ser m茨s guapo  que culaquiera de vosotras, podr姻 unirme a una charla de chicas REAL. 
 
 [msg MSG_022 [Haru]]
-W-Wow, you sure are determined. You want[n]to join in that much?
+H-Hala, qu姻 determinaci吋n. 夷Tanto quieres participar?
 
 [msg MSG_023 [Aigis]]
-I am interested in this girl talk as[n]well. I will be recording data for[n]future reference.
+Yo tambi姻n estoy interesada en esta charla de chicas. Recopilar姻 datos para futuras referencias.
 
 [msg MSG_024 [Rise]]
-As a member of the idol world, I'm not[n]gonna let you show me up so easily.
-All right, Teddie, you're on. Let's see[n]just how pretty you can be!
+Como miembro del mundo de los idol, no dejar姻 que me dejes en evidencia tan f茨cilmente.
+Muy bien, Teddie, te toca. 斡Veamos lo guapo que puedes ser!
 
 [msg MSG_025 [Teddie]]
-Rrrrraaaahh, challenge accepted! I'll[n]show you my girl power!
+Rrrrraaaahh, 斡reto aceptado! 斡Os mostrar姻 mi poder femenino!
 
 [msg MSG_026]
-A new special screening: "The Secret to[n]Beauty" has been added to the box[n]office.
+Una nueva proyecci吋n especial: "El Secreto de la Belleza" ha sido a隠adida a la taquilla.
 
