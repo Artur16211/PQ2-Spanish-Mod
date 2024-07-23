@@ -139,7 +139,7 @@ Quiz茨s es porque eres un poco denso.[n]Pens姻 que todo el mundo lo sab胤a.
 夷Yo? Oh, 夷qu姻 tipo de nombre crees que[n]ser胤a bueno para m胤?
 
 [msg MSG_043 [Ryuji]]
-Para Risette, 夷eh... Idol? Pero eso[n]parece tan obvio.
+Para Risechi, 夷eh... Idol? Pero eso[n]parece tan obvio.
 
 [msg MSG_044 [Teddie]]
 Adem茨s, eso podr胤a confundir a los dem茨s[n]haci姻ndoles pensar en m胤, soy un idol[n]tambi姻n.

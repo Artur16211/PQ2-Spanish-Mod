@@ -21,12 +21,12 @@ As胤 es. Una vez que Rise se recupere,[n]tenemos que volver de inmediato y busc
 斡Oye! 斡No grites as胤 alado m胤o!
 
 [msg MSG_006 [Ryuji]]
-斡Ahora recuerdo! Esa chica, 斡es la idol[n]Risette!
+斡Ahora recuerdo! Esa chica, 斡es la idol[n]Risechi!
 斡Sab胤a que la hab胤a visto en alguna[n]parte!
 
 [msg MSG_007 [Futaba]]
 S胤, yo tambi姻n ten胤a curiosidad, ella[n]est茨 m茨s all茨 de un mero parecido...
-Pero eso no puede ser, Risette ya no es[n]una estudiante del instituto.
+Pero eso no puede ser, Risechi ya no es[n]una estudiante del instituto.
 
 [msg MSG_008 [Chica Reservada]]
 夷Eh? Rise va a nuestro instituto.
@@ -34,7 +34,7 @@ Est茨 tomando un descanso de su carrera[n]en este momento.
 
 [msg MSG_009 [Futaba]]
 E-espera un segundo...
-斡La Risette que conozco est茨 al 100%[n]activa en el mundo del espect茨culo!
+斡La Risechi que conozco est茨 al 100%[n]activa en el mundo del espect茨culo!
 
 [msg MSG_010 [Chico Amenazador]]
 ...夷Huh?

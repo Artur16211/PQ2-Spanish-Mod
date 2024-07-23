@@ -168,7 +168,7 @@ Est茨 bien, 夷esto podr胤a volverse a雨n m茨s[n]confuso?
 A ver... Los 雨nicos que no est茨n aqu胤[n]son Rise y Yosuke.
 
 [msg MSG_050 [Ryuji]]
-Sabemos qui姻n es Risette, 夷verdad? 斡Es[n]como una superestrella!
+Sabemos qui姻n es Risechi, 夷verdad? 斡Es[n]como una superestrella!
 
 [msg MSG_051 [P4 Hero]]
 Muy bien, entonces. Dejemos que ella se[n]presente apropiadamente m茨s tarde.

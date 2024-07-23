@@ -41,7 +41,7 @@ Fuu-chan is so kind and polite! It makes[n]my bear heart go all fluttery...
 But Oracle is always pumped up! I'm[n]always hyped when she's around.
 
 [msg MSG_010 [Junpei]]
-Yeah, I know what you mean... Still, out[n]of all of them, Risette's probably the[n]biggest surprise.
+Yeah, I know what you mean... Still, out[n]of all of them, Risechi's probably the[n]biggest surprise.
 
 [msg MSG_011 [Ryuji]]
 Yeah. We've got an idol backing us up![n]We're totally like VIPs over here!

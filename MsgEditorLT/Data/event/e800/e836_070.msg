@@ -49,7 +49,7 @@ Could you open a new port on the[n]wireless network, Futaba-chan?
 
 [msg MSG_015 [Junpei]]
 Whoa, look at these two nerding out. One[n]look at those parts, and they've got[n]that gleam in their eyes...
-Still, Risette's a navigator, and she[n]doesn't go nuts over that stuff.
+Still, Risechi's a navigator, and she[n]doesn't go nuts over that stuff.
 
 [msg MSG_016 [Rise]]
 Hmm. I mean, that's true, but...

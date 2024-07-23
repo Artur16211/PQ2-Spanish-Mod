@@ -3,7 +3,7 @@ Es un callej吋n sin salida. 斡Parece un[n]buen momento para descansar!
 
 [msg MSG_001 [Ryuji]]
 Awright...
-Sabes, he estado pensando, pero 夷no es[n]una locura que estemos hablando con[n]Risette?
+Sabes, he estado pensando, pero 夷no es[n]una locura que estemos hablando con[n]Risechi?
 
 [sel SEL_002 top]
 Es una locura.
@@ -14,10 +14,10 @@ Ya me acostumbre.
 夷Verdad? Incluso tiene una persona...
 
 [msg MSG_004 [Ryuji]]
-夷Qu姻 quieres decir con "t雨 crees"?[n]斡Estamos hablando de la idol Risette!
+夷Qu姻 quieres decir con "t雨 crees"?[n]斡Estamos hablando de la idol Risechi!
 
 [msg MSG_005 [Ryuji]]
-斡Como si eso importara! 斡Estamos[n]hablando de la idol Risette!
+斡Como si eso importara! 斡Estamos[n]hablando de la idol Risechi!
 
 [msg MSG_006 [Kanji]]
 夷No est茨s demasiado emocionado? No es[n]nada fuera de lo com雨n.

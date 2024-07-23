@@ -203,7 +203,7 @@ Pronto estar茨s lleno de objetos.
 斡Buen trabajo, Fuuka! 斡Tengo suerte[n]de tomar el relevo de ti!
 
 [msg FUKA_RISE_ANSWER_3]
-Sustituyendo a Fuuka... 斡la 雨nica y[n]verdadera Risette!
+Sustituyendo a Fuuka... 斡la 雨nica y[n]verdadera Risechi!
 
 [msg FUTABA_RISE_MAKASETA_1]
 斡Cambiando a Rise! 斡Buena suerte!

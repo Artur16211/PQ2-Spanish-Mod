@@ -16,7 +16,7 @@ So, how do we draw a crowd?
 Oh, um... We still need to figure that[n]out, don't we?
 
 [msg MSG_005 [Rise]]
-Leave that to the one and only Risette![n]I'll support you the whole way!
+Leave that to the one and only Risechi![n]I'll support you the whole way!
 First, we'll wanna hammer out your[n]opening lines.
 
 [msg MSG_006 [Aigis]]

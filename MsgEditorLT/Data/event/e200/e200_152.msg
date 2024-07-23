@@ -51,7 +51,7 @@ Me asust姻 cuando despert姻 en un lugar[n]desconocido, y con un mont吋n de ge
 Ooh... 斡Un plano perfecto para una[n]pel胤cula!
 
 [msg MSG_015 [Ryuji]]
-O-oye... 斡Es la Risette de la vida real!
+O-oye... 斡Es la Risechi de la vida real!
 
 [sel SEL_016 top]
 S胤.

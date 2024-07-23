@@ -28,7 +28,7 @@ Bien, entonces, 夷por qu姻 no lo intento?
 Obviamente preferir胤amos escuchar a[n]Rise, Yosuke.
 
 [msg MSG_009 [Futaba]]
-斡Oh, eso ser胤a genial! 斡Me encantar胤a[n]escuchar a Risette en vivo!
+斡Oh, eso ser胤a genial! 斡Me encantar胤a[n]escuchar a Risechi en vivo!
 斡夷Cu茨ntas veces tendremos la oportunidad[n]de escuchar a una idol cantar para[n]nosotros solos?!
 
 [msg MSG_010 [Rise]]
