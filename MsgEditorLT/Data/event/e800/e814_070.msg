@@ -44,7 +44,7 @@ No hace falta ser tan educada, Yukiko. Simplemente seamos buenas amigas.
 斡Cierto!
 
 [msg MSG_013 [Morgana]]
-Parece que os llev茨is muy bien. 斡Seguid as胤, chicos!
+Parece que se llevan muy bien. 斡Seguid as胤, chicos!
 
 [msg MSG_014 [Yukiko]]
 斡Claro que s胤! 斡Quemar姻 a todos nuestros enemigos!

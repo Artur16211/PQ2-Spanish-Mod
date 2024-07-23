@@ -12,7 +12,7 @@ Mhm. Debe haber hierbas medicinales creciendo justo al pasar esas enredaderas.
 Wow, Noir, no sab胤a que sab胤as tanto de plantas.
 
 [msg MSG_004 [Haru]]
-Estoy cerca de ellas a menudo. No soy nada comparado con los expertos.
+Estoy cerca de ellas a menudo. No soy nada en comparaci吋n con los expertos.
 
 [msg MSG_005 [Ann]]
 Pero es incre胤ble. Siempre est茨 cubierta de barro cuidando los parterres de la escuela.

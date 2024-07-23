@@ -15,7 +15,7 @@ Desde luego parecen restos, y tambi姻n son muy recientes.
 
 [msg MSG_005 [Akechi]]
 Ja, ja, perd吋n, a雨n no.
-He dicho reciente, pero a雨n ha pasado alg雨n tiempo desde que estos huesos fueron desechados.
+He dicho reciente, pero a雨n ha pasado algo de tiempo desde que estos huesos fueron desechados.
 
 [msg MSG_006 [Koromaru]]
 斡Bark, bark, bark!

@@ -19,7 +19,7 @@ Wow, parece un oponente terror胤fico.
 
 [msg MSG_005 [Shinjiro]]
 Igual que t雨...
-Entonces, 夷c吋mo encontramos esta cosa? 夷Pueden los navegantes encontrarlo por nosotros?
+Entonces, 夷c吋mo encontramos esta cosa? 夷Pueden las navegadoras encontrarlo por nosotros?
 
 [msg MSG_006 [Rise]]
 Hmm, se est茨 moviendo mucho, no creo que podamos determinar su localizaci吋n exacta.

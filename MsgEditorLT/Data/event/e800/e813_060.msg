@@ -33,7 +33,7 @@ Por lo tanto, le pediremos a Theodore que vuelva a hacer sus nuevas palomitas.
 Y las utilizaremos como cebo para atraer al culpable, 夷correcto?
 
 [msg MSG_009 [Akechi]]
-S胤. Adem茨s, nadie sospechar茨 nada; pensar茨n que simplemente estamos intentando ayudar a Theodor.
+S胤. Adem茨s, nadie sospechar茨 nada; pensar茨n que simplemente estamos intentando ayudar a Theodore.
 
 [msg MSG_010 [Teddie]]
 Hrmm... Que fabul-oso.

@@ -30,7 +30,7 @@ S胤, lo llevaba.
 Ya veo... Esto se est茨 convirtiendo en todo un caso.
 
 [sel SEL_010 top]
-Esto es un trabajo para el d雨o de detectives.
+Esto es un trabajo para detectives.
 夷Qui姻n es el verdadero culpable?
 
 [msg MSG_011 [Naoto]]

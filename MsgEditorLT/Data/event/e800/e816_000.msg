@@ -64,7 +64,7 @@ Hmm... Est茨n dejando fuera a los normies para que los frikis puedan hablar ent
 Ah, vosotras dos sab姻is un mont吋n.
 
 [msg MSG_018 [Naoto]]
-L胤der, 夷te parece bien que busquemos ese "Gizmo Futurista"?
+, 夷te parece bien que busquemos ese "Gizmo Futurista"?
 
 [sel SEL_019 top]
 Okay.

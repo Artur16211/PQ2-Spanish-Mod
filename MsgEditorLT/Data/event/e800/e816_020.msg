@@ -7,7 +7,7 @@ Dejar姻 una marca en el mapa. 夷Ser茨 suficiente?
 Entonces, estando donde estamos, tendremos que dar la vuelta.
 
 [msg MSG_002 [Yusuke]]
-斡Entendidoo! Let us proceed! 斡Prosigamos!
+斡Entendido! 斡Prosigamos!
 
 [msg MSG_003 [Koromaru]]
 斡Arf!

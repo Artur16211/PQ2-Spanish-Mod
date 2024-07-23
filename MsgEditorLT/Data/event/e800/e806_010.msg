@@ -23,7 +23,7 @@ Amonitas...
 夷Hm? 夷Qu姻 ocurre, Inari?
 
 [msg MSG_007 [Yusuke]]
-斡Quiero aceptar esta misi吋n! 夷Te parece bien?
+, 斡Quiero aceptar esta misi吋n! 夷Te parece bien?
 
 [sel SEL_008 top]
 Sin problema.

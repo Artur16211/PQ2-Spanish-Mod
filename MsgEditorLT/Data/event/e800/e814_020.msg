@@ -6,10 +6,10 @@ Rise, 夷lo sientes por aqu胤 cerca?
 
 [msg MSG_002 [Rise]]
 Hmm... Un segundo.
-斡Oh! 斡Not吋 algo peque隠o cerca de aqu胤!
+斡Oh! 斡Veo algo peque隠o cerca de aqu胤!
 
 [msg MSG_003 [Teddie]]
-Solo espero que no nos encontremos con alg雨n carn胤voro...
+Solo espero que no nos encontremos con ning雨n carn胤voro...
 
 [msg MSG_004 [Yosuke]]
 Si eso sucede, t雨 eres el se隠uelo. Vamos a ayudar al dinosaurio.

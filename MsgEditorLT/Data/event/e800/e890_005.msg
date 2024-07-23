@@ -33,7 +33,7 @@ Pero si su portador muestra suficiente poder, creo que recuperar茨 su brillo or
 
 [msg MSG_009 [Theodore]]
 斡Ya veo! As胤 que esa era tu intenci吋n...
- me derrot吋, y al hacer eso, demostr吋 una gran fuerza.
+me derrot吋, y al hacer eso, demostr吋 una gran fuerza.
 
 [msg MSG_010 [Haru]]
 Em, dijiste que esta pel胤cula est茨 relacionada con el poder del comod胤n de [f 6 1 29 0 0 0], 夷cierto?

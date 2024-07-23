@@ -26,7 +26,7 @@ Si intentamos enfrentarnos a ellos, probablemente acabemos como comida de dinosa
 
 [sel SEL_008 top]
 No tenemos que pelear.
-Entrenaremos hasta que podamos vencerles.
+Entrenaremos hasta vencerles.
 
 [msg MSG_009 [Chie]]
 夷Huh? 夷Entonces como conseguimos el tesoro?

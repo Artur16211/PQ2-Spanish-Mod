@@ -8,7 +8,7 @@ Oh, 斡mirad!
 Ah胤 est茨. Debe de ser nuestro dinosaurio perdido.
 
 [msg MSG_003 [Ann]]
-Esa herida parece que le duele de verdad... No cero que pueda moverse.
+Esa herida parece que le duele de verdad... No creo que pueda moverse.
 
 [sel SEL_004 top]
 D姻monos prisa y trat姻moslo.

@@ -61,7 +61,7 @@ Una vez me vi forzado a sobrevivir 雨nicamente a base de hierba y brotes de soj
 夷Pasa algo si yo tambi姻n sigo buscando?
 
 [msg MSG_019 [Teddie]]
-斡夷Q-Qu姻?! 斡Realmente te est茨n emocionando con esto, Yukiko!
+斡夷Q-Qu姻?! 斡Realmente te est茨s emocionando con esto, Yukiko!
 
 [msg MSG_020 [Futaba]]
 Bueno, no parece que haya muchas sombras alrededor. Solo tened cuidado.

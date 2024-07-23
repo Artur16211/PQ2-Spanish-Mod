@@ -5,7 +5,7 @@ Nos dirigimos a la tienda de Theodore...
 夷Oh...? 夷Qu姻 os trae a todos aqu胤?
 
 [msg MSG_000_5 [Naoto]]
-Por favor disculpe la repentina intrusi吋n. Solo queremos hacerte unas preguntas.
+Por favor, disculpe la repentina intrusi吋n. Solo queremos hacerte unas preguntas.
 
 [msg MSG_001 [Marie]]
 ...
@@ -32,7 +32,7 @@ Una pregunta m茨s: 夷por qu姻 est茨 Marie de mal humor?
 Ahh, bueno... Sobre eso...
 
 [msg MSG_006 [Marie]]
-Es la culpa de Teddie.
+Es culpa de Teddie.
 
 [msg MSG_007 [Naoto]]
 斡夷Qu姻?!

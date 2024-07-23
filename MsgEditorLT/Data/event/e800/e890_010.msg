@@ -15,14 +15,14 @@ Y tal despliegue de poder se logra mejor luchando contra quien gobierna el poder
 
 [msg MSG_003 [Margaret]]
 Buenos d胤as a todos.
-Elizabeth ya me ha informado. Yo tambi姻n estoy encantada de prestarle mi ayuda.
+Elizabeth ya me ha informado. Yo tambi姻n estoy encantada de prestarles mi ayuda.
 
 [sel SEL_004 top]
 夷Ayuda...?
 夷Entonces t雨 eres la siguiente?
 
 [msg MSG_005 [Margaret]]
-As胤. Su pr吋xima batalla ser茨 contra m胤.
+As胤 es. Su pr吋xima batalla ser茨 contra m胤.
 
 [msg MSG_005_1 [Margaret]]
 No tienen que preocuparse, yo misma domino el poder y estoy segura de que ser姻 una digna oponente.

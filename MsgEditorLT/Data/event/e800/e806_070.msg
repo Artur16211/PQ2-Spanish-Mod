@@ -67,7 +67,7 @@ No... Esto fue enteramente obra tuya.
 
 [msg MSG_020 [Yusuke]]
 Dibujar no es tan simple como tener destreza o conocimiento.
-Es un arte que nade del alma, de las experiencias pasadas. Son estas cosas las que dan lugar a la creatividad...
+Es un arte que nace del alma, de las experiencias pasadas. Son estas cosas las que dan lugar a la creatividad...
 Cre胤a que deb胤a ense隠arte, pero resulta que has acabado ense隠茨ndome t雨 a m胤.
 
 [msg MSG_021 [Yukiko]]
