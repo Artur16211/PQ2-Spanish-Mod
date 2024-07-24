@@ -108,10 +108,10 @@
 [msg MSG_033 [Ann]]
 [f 0 5 65278][f 2 1][f 4 6 22 10 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_034 [Herb胤voro Inquieto]]
+[msg MSG_034 [Herbボvoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 47 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Herb胤voro Enorme]]
+[msg MSG_035 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Dinosaurio Con Auriculares]]
@@ -130,10 +130,10 @@
 [msg MSG_040 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 1009]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Herb胤voro Malhumorado]]
+[msg MSG_041 [Herbボvoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 42 12 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_042 [Herb胤voro Testarudo]]
+[msg MSG_042 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 1][f 6 1 3 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Morgana]]

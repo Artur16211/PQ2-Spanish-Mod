@@ -107,13 +107,13 @@
 [msg MSG_031 [Kamoshidaman]]
 [f 0 5 65278][f 2 1][f 4 6 32 10 1 0][f 3 1 1 0 0 43]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_032 [Polic胤a Gordo]]
+[msg MSG_032 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 2 1 1][f 3 1 1 0 0 44][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_033 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 3 0][f 3 1 1 0 0 45]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_034 [Polic胤a Gordo]]
+[msg MSG_034 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 46]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -123,17 +123,17 @@
 [msg MSG_036 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 4 3 0][f 3 1 1 0 0 49]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_037 [Polic胤a Gordo]]
+[msg MSG_037 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 50]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 51][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 25 1 3 0][f 3 1 1 0 0 52][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_039 [Polic胤a Gordo]]
+[msg MSG_039 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 53][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_039_5 [Polic胤a Gordo]]
+[msg MSG_039_5 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 4 1 1][f 3 1 1 0 0 54][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Haru]]

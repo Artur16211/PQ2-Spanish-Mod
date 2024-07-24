@@ -9,7 +9,7 @@
 [f 0 5 65278][f 2 1][f 4 6 53 0 0 0][f 3 1 1 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 5][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Ni隠o Travieso]]
+[msg MSG_003 [Niワo Travieso]]
 [f 0 5 65278][f 2 1][f 4 6 52 0 1 6][f 3 1 1 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Chica Timida]]
@@ -22,7 +22,7 @@
 [msg MSG_006 [Chica Timida]]
 [f 0 5 65278][f 2 1][f 4 6 51 2 1 0][f 3 1 1 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [Ni隠o Travieso]]
+[msg MSG_007 [Niワo Travieso]]
 [f 0 5 65278][f 2 1][f 4 6 52 2 1 0][f 3 1 1 0 0 11]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Chica Confundida]]

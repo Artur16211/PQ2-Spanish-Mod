@@ -44,47 +44,47 @@
 [msg MSG_012 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Herb胤voro T胤mido]]
+[msg MSG_013 [Herbボvoro Tボmido]]
 [f 0 5 65278][f 2 1][f 4 6 90 0 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 0][f 3 1 1 0 0 3029][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Herb胤voro T胤mido]]
+[msg MSG_015 [Herbボvoro Tボmido]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 90 0 1 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_016 [Herb胤voro Testarudo]]
+[msg MSG_016 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 93 0 1 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 21031][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Herb胤voro Inquieto]]
+[msg MSG_018 [Herbボvoro Inquieto]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 47 1 1 4][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Herb胤voro Testarudo]]
+[msg MSG_020 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 93 1 1 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 0 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19020]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Herb胤voro Testarudo]]
+[msg MSG_022 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 2 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Herb胤voro Inquieto]]
+[msg MSG_023 [Herbボvoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Herb胤voro Testarudo]]
+[msg MSG_024 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 7034][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Herb胤voro Testarudo]]
+[msg MSG_026 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Yosukesaurio]]
@@ -93,13 +93,13 @@
 [msg MSG_028 [Ann]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 7 4 0 0][f 4 6 22 10 0 0][f 3 1 1 0 0 22055][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_029 [Herb胤voro T胤mido]]
+[msg MSG_029 [Herbボvoro Tボmido]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 90 0 1 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_030 [Herb胤voro Testarudo]]
+[msg MSG_030 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 4 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_031 [Herb胤voro Testarudo]]
+[msg MSG_031 [Herbボvoro Testarudo]]
 [f 0 5 65278][f 2 1][f 4 6 93 0 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [Haru]]

@@ -1,7 +1,7 @@
 [msg MSG_000 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 5117][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Herb胤voro Joven]]
+[msg MSG_001 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Morgana]]
@@ -28,7 +28,7 @@
 [msg MSG_008 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 2 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Herb胤voro Joven]]
+[msg MSG_009 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yukiko]]
@@ -41,6 +41,6 @@
 [f 0 5 65278][f 2 1][f 4 6 27 0 0 0][f 3 1 1 0 0 27024]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Herb胤voro Joven]]
+[msg MSG_013 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 

@@ -4,7 +4,7 @@
 [msg MSG_001 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 0][f 3 1 1 0 0 10050][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Sistema De IA Para Ex茨menes]]
+[msg MSG_002 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 3 1][f 4 6 10 0 4 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
@@ -18,7 +18,7 @@
 [msg MSG_004_1 [Haru]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Sistema De IA Para Ex茨menes]]
+[msg MSG_005 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
@@ -32,7 +32,7 @@
 [msg MSG_008 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Sistema De IA Para Ex茨menes]]
+[msg MSG_009 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
@@ -262,13 +262,13 @@
 [msg MSG_080 [Koromaru]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 0][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_081 [Sistema De IA Para Ex茨menes]]
+[msg MSG_081 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_082 [Haru]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 27 0 3 1][f 3 1 1 0 0 27115][f 6 1 2 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_083 [Sistema De IA Para Ex茨menes]]
+[msg MSG_083 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -278,7 +278,7 @@
 [msg MSG_085 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_086 [Sistema De IA Para Ex茨menes]]
+[msg MSG_086 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_087 [Ann]]
@@ -293,7 +293,7 @@
 [msg MSG_090 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 4 4 6][f 3 1 1 0 0 0][f 6 1 2 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_091 [Sistema De IA Para Ex茨menes]]
+[msg MSG_091 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Ken]]

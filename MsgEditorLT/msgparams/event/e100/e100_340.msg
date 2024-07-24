@@ -31,13 +31,13 @@
 [msg MSG_010 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 1 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Polic胤a Serio]]
+[msg MSG_011 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 12 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Polic胤a Gordo]]
+[msg MSG_012 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Polic胤a Serio]]
+[msg MSG_013 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Yusuke]]
@@ -69,23 +69,23 @@
 [msg MSG_022 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Polic胤a Serio]]
+[msg MSG_023 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Polic胤a Gordo]]
+[msg MSG_024 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_025 [Polic胤a Serio]]
+[msg MSG_025 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 6 1 0][f 3 1 1 0 0 0][f 6 1 2 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Polic胤a Gordo]]
+[msg MSG_026 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 0 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_027 [Polic胤a Serio]]
+[msg MSG_027 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_028 [Polic胤a Gordo]]
+[msg MSG_028 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Akechi]]

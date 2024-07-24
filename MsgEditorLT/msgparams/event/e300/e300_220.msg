@@ -7,7 +7,7 @@
 [msg MSG_002 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 0 1 0][f 3 1 1 0 0 13037]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Sistema De IA Para Ex茨menes]]
+[msg MSG_003 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
@@ -36,10 +36,10 @@
 [msg MSG_010 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 6][f 3 1 1 0 0 25037]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Sistema De IA Para Ex茨menes]]
+[msg MSG_011 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Sistema De IA Para Ex茨menes]]
+[msg MSG_012 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -77,7 +77,7 @@
 [msg MSG_023 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 2 0 1][f 3 1 1 0 0 8067]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Sistema De IA Para Ex茨menes]]
+[msg MSG_024 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -135,7 +135,7 @@
 [msg MSG_040 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 2 0 0][f 3 1 1 0 0 28067][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Sistema De IA Para Ex茨menes]]
+[msg MSG_041 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Morgana]]
@@ -144,14 +144,14 @@
 [msg MSG_043 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_044 [Sistema De IA Para Ex茨menes]]
+[msg MSG_044 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 9 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_045 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 10 0 0][f 3 1 1 0 0 23060][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_046 [Sistema De IA Para Ex茨menes]]
+[msg MSG_046 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -173,49 +173,49 @@
 [msg MSG_052 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3054][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_053 [Sistema De IA Para Ex茨menes]]
+[msg MSG_053 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_054 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 3][f 3 1 1 0 0 28072]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_055 [Sistema De IA Para Ex茨menes]]
+[msg MSG_055 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 1][f 3 1 1 0 0 25017]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_056_1 [Sistema De IA Para Ex茨menes]]
+[msg MSG_056_1 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_056_2 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 4][f 3 1 1 0 0 8013]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_057 [Sistema De IA Para Ex茨menes]]
+[msg MSG_057 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_058 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 3][f 3 1 1 0 0 13069]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_059 [Sistema De IA Para Ex茨menes]]
+[msg MSG_059 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_060 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 4 6 26 12 0 6][f 3 1 1 0 0 26042]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_061 [Sistema De IA Para Ex茨menes]]
+[msg MSG_061 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_062 [Ribbon]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 35002]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_062_1 [Sistema De IA Para Ex茨menes]]
+[msg MSG_062_1 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_063 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_064 [Sistema De IA Para Ex茨menes]]
+[msg MSG_064 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_065 [Morgana]]
@@ -226,19 +226,19 @@
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 8 32][e]
 
-[msg MSG_067 [Sistema De IA Para Ex茨menes]]
+[msg MSG_067 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 1 1][f 3 1 1 0 0 8033]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_069 [Sistema De IA Para Ex茨menes]]
+[msg MSG_069 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23032]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_071 [Sistema De IA Para Ex茨menes]]
+[msg MSG_071 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_072 [Yosuke]]
@@ -246,7 +246,7 @@
 [f 0 5 65278][f 2 1][f 4 6 3 12 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_073 [Sistema De IA Para Ex茨menes]]
+[msg MSG_073 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_074 [Yosuke]]
@@ -255,20 +255,20 @@
 [msg MSG_075 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_076 [Sistema De IA Para Ex茨menes]]
+[msg MSG_076 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_077 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 8 1 6][f 3 1 1 0 0 28072]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_078 [Sistema De IA Para Ex茨menes]]
+[msg MSG_078 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 3 6 0 1][f 3 1 1 0 0 3020][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 1][f 3 1 1 0 0 3045][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_080 [Sistema De IA Para Ex茨menes]]
+[msg MSG_080 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_081 [Yosuke]]
@@ -277,13 +277,13 @@
 [msg MSG_082 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_083 [Sistema De IA Para Ex茨menes]]
+[msg MSG_083 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_084 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 0][f 3 1 1 0 0 23052][f 6 1 2 0 0 5]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_085 [Sistema De IA Para Ex茨menes]]
+[msg MSG_085 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_086 [Futaba]]
@@ -297,25 +297,25 @@
 [f 0 5 65278][f 2 1][f 4 6 20 1 0 0]{dialog}[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 0 32][e]
 
-[msg MSG_089 [Sistema De IA Para Ex茨menes]]
+[msg MSG_089 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_090 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 1 0][f 3 1 1 0 0 25109]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_091 [Sistema De IA Para Ex茨menes]]
+[msg MSG_091 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_092 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 10 0 0][f 3 1 1 0 0 26018]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_093 [Sistema De IA Para Ex茨menes]]
+[msg MSG_093 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 23 1 0 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_094 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 2 0 1][f 3 1 1 0 0 23052]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_095 [Sistema De IA Para Ex茨menes]]
+[msg MSG_095 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_096 [Naoto]]
@@ -324,14 +324,14 @@
 [msg MSG_097 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 10 0 0][f 3 1 1 0 0 3054][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_098 [Sistema De IA Para Ex茨menes]]
+[msg MSG_098 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 7 4 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_099 [Yosuke]]
 [f 0 5 65278][f 2 1][f 4 6 3 6 0 0][f 3 1 1 0 0 3020][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 3 0 1 0][f 3 1 1 0 0 3045][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_100 [Sistema De IA Para Ex茨menes]]
+[msg MSG_100 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_101 [Yosuke]]
@@ -340,7 +340,7 @@
 [msg MSG_102 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 0 4][f 3 1 1 0 0 0][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_103 [Sistema De IA Para Ex茨menes]]
+[msg MSG_103 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_104 [Makoto]]
@@ -349,10 +349,10 @@
 [msg MSG_105 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_106 [Sistema De IA Para Ex茨menes]]
+[msg MSG_106 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_107 [Sistema De IA Para Ex茨menes]]
+[msg MSG_107 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -373,7 +373,7 @@
 [msg MSG_112 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 4][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_113 [Sistema De IA Para Ex茨menes]]
+[msg MSG_113 [Sistema De IA Para Exホmenes]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 

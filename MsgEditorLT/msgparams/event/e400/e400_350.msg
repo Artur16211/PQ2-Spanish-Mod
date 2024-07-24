@@ -80,10 +80,10 @@
 [msg MSG_022 [Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 40 19 1 0][f 4 6 81 16 2 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [T胤o De Hikari]]
+[msg MSG_023 [Tボo De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 59 0 0 0][f 3 1 1 0 0 33][f 6 1 2 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [T胤a De Hikari]]
+[msg MSG_024 [Tボa De Hikari]]
 [f 0 5 65278][f 2 1][f 4 6 58 0 1 0][f 3 1 1 0 0 34][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Hikari De Instituto]]
@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 40 16 1 0][f 3 1 1 0 0 36][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 37][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [T胤a De Hikari]]
+[msg MSG_026 [Tボa De Hikari]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 38][f 6 1 3 0 0 3][f 6 1 2 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 58 2 1 0][f 3 1 1 0 0 39][f 6 1 1 0 0 1][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 2 100][f 1 1][e]
 

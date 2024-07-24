@@ -14,7 +14,7 @@
 [msg MSG_004 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 71 1 0 0][f 4 6 65 6 0 6][f 3 1 1 0 0 6][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Chico Con Gorra De B姻isbol]]
+[msg MSG_005 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 64 1 0 3][f 4 6 11 10 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_006 top]
@@ -86,7 +86,7 @@
 [msg MSG_025 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 34]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Chico Con Gorra De B姻isbol]]
+[msg MSG_026 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 35][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Chica Tranquila]]
@@ -109,7 +109,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 0][f 3 1 1 0 0 42]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 43]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_033 [Chico Con Gorra De B姻isbol]]
+[msg MSG_033 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 11 2 0 0][f 3 1 1 0 0 44][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Chico Agresivo]]
@@ -174,7 +174,7 @@
 [msg MSG_053 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 72 0 0 0][f 3 1 1 0 0 64][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_054 [Chico Con Gorra De B姻isbol]]
+[msg MSG_054 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 2 0 4][f 3 1 1 0 0 65][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_055 [Akihiko]]
@@ -216,14 +216,14 @@
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 79][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 3 1 1 0 0 80][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_067 [Chico Con Gorra De B姻isbol]]
+[msg MSG_067 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 81]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 82][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_068 [Shinjiro]]
 [f 0 5 65278][f 2 1][f 4 6 18 4 0 0][f 3 1 1 0 0 83][f 6 1 2 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_069 [Chico Con Gorra De B姻isbol]]
+[msg MSG_069 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 84][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_070 [Ken]]
@@ -255,7 +255,7 @@
 [f 0 5 65278][f 2 1][f 4 6 16 12 0 0][f 3 1 1 0 0 96]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 16 8 1 0][f 3 1 1 0 0 97][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_078 [Chico Con Gorra De B姻isbol]]
+[msg MSG_078 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 11 2 0 1][f 3 1 1 0 0 98][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_079 [Junpei]]

@@ -10,7 +10,7 @@
 [msg MSG_0003 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 26 10 100 1][f 3 1 3 0 0 144][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_0004 [夷Kamoshidaman?]]
+[msg MSG_0004 [メKamoshidaman?]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 145][f 6 1 2 0 0 6][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_000 [Ann]]
@@ -22,15 +22,15 @@
 [msg MSG_002 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 1 8][f 3 1 3 0 0 133][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [夷Kamoshidaman?]]
+[msg MSG_003 [メKamoshidaman?]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 134][f 6 1 2 0 0 6][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [夷Kamoshidaman?]]
+[msg MSG_004 [メKamoshidaman?]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 135][f 6 1 2 0 0 6][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [夷Kamoshidaman?]]
+[msg MSG_005 [メKamoshidaman?]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 136][f 6 1 2 0 0 0][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_006 [夷Kamoshidaman?]]
+[msg MSG_006 [メKamoshidaman?]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 138][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 

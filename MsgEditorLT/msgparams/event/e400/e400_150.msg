@@ -26,7 +26,7 @@
 [msg MSG_007 [Hikari De Primaria]]
 [f 0 5 65278][f 2 1][f 4 6 38 1 1 0][f 3 1 1 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [夷Hikari?]]
+[msg MSG_008 [メHikari?]]
 [f 0 5 65278][f 2 1][f 4 6 81 0 0 0][f 3 1 1 0 0 11]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Junpei]]

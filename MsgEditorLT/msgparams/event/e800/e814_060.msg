@@ -1,7 +1,7 @@
 [msg MSG_000 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 12 0 1][f 3 1 1 0 0 5069]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Herb胤voro Joven]]
+[msg MSG_001 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002]
@@ -10,13 +10,13 @@
 [msg MSG_003 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 2 0 3][f 3 1 1 0 0 27107]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Herb胤voro Joven]]
+[msg MSG_004 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 1][f 3 1 1 0 0 5032]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_006 [Herb胤voro Joven]]
+[msg MSG_006 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Chie]]
@@ -42,10 +42,10 @@
 [msg MSG_013 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 6 1 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Herb胤voro Joven]]
+[msg MSG_014 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Madre Herb胤voro]]
+[msg MSG_015 [Madre Herbボvoro]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_016 [Makoto]]
@@ -99,7 +99,7 @@
 [msg MSG_029 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 0 0 0][f 3 1 1 0 0 5039]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_030 [Herb胤voro Joven]]
+[msg MSG_030 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yukiko]]
@@ -117,13 +117,13 @@
 [msg MSG_035 [Yukiko]]
 [f 0 5 65278][f 2 1][f 4 6 5 2 0 0][f 3 1 1 0 0 5075]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_036 [Herb胤voro Joven]]
+[msg MSG_036 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Herb胤voro Joven]]
+[msg MSG_038 [Herbボvoro Joven]]
 [f 0 5 65278][f 2 1][f 6 1 9 0 0 1][f 3 1 1 0 0 0][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_039 [Chie]]

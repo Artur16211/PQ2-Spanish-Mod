@@ -25,13 +25,13 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8003]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Polic胤a Gordo]]
+[msg MSG_008 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 3][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_010 [Polic胤a Gordo]]
+[msg MSG_010 [Policボa Gordo]]
 [f 0 5 65278][f 2 1][f 4 6 45 12 0 3][f 3 1 1 0 0 45002]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45005]{dialog}[n][f 1 3 65535][f 1 1][e]

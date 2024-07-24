@@ -25,10 +25,10 @@
 [msg MSG_003 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 209][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Herb胤voro Malhumorado]]
+[msg MSG_004 [Herbボvoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 210]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Herb胤voro Enorme]]
+[msg MSG_005 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 0][f 3 1 3 0 0 211]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosukesaurio]]
@@ -37,19 +37,19 @@
 [msg MSG_007 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 213][f 6 1 2 0 0 10][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Herb胤voro Inquieto]]
+[msg MSG_008 [Herbボvoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 3][f 3 1 3 0 0 214]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Herb胤voro Malhumorado]]
+[msg MSG_009 [Herbボvoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 3 0 0 215]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 216][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Herb胤voro T胤mido]]
+[msg MSG_011 [Herbボvoro Tボmido]]
 [f 0 5 65278][f 2 1][f 4 6 90 0 1 3][f 3 1 3 0 0 217][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_012 [Herb胤voro Enorme]]
+[msg MSG_012 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 3 0 0 218][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_013 [Yosukesaurio]]
@@ -64,13 +64,13 @@
 [msg MSG_020 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 222][f 6 1 3 0 0 2][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Herb胤voro Enorme]]
+[msg MSG_021 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 1 1][f 3 1 3 0 0 226]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Herb胤voro Malhumorado]]
+[msg MSG_022 [Herbボvoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 3][f 3 1 3 0 0 227]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Herb胤voro Inquieto]]
+[msg MSG_023 [Herbボvoro Inquieto]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 1][f 3 1 3 0 0 228]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
