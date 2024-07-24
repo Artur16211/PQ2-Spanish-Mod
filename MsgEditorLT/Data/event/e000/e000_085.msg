@@ -81,7 +81,7 @@ Ooh, ムrealmente le creyポ! Eso fue mホs[n]fホcil de lo que esperaba.
 Tal vez nuestros estilos ostentosos[n]ayudaron a reforzar nuestra[n]credibilidad.
 
 [msg MSG_026 [Policボa Serio]]
-Entonces, メcuホl es el problema?
+Entonces, メcuホl es el problema? 
 
 [msg MSG_027 [Makoto]]
 Si no es mucha molestia, メpodrボa[n]decirnos donde estamos ahora mismo?
