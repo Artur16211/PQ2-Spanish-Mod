@@ -34,8 +34,8 @@ def replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir):
                 else:
                     print(f"Corresponding params file not found for {msg_file_path}")
                     
-msgs_dir = 'msgs'
-msgparams_dir = 'msgparamsES'
+msgs_dir = 'data'
+msgparams_dir = 'params'
 imported_dir = 'imported'
 
 replace_dialog_in_files(msgs_dir, msgparams_dir, imported_dir)

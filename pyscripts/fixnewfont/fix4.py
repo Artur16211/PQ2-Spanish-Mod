@@ -55,7 +55,7 @@ def replace_text_in_file(filepath):
         file.write(content)
 
 # Ruta de la carpeta
-folder_path = 'C:/Users/Artur/Documents/PQ2-Spanish-Mod/formats/manual_fixed/event'  # Cambia esto por la ruta de tu carpeta
+folder_path = 'C:/Users/Artur/Documents/PQ2-Spanish-Mod/pyscripts/fixnewfont'  # Cambia esto por la ruta de tu carpeta
 
 # Iterar sobre todos los archivos .txt en la carpeta
 for filename in os.listdir(folder_path):

@@ -27,7 +27,7 @@ def process_folder(folder_path):
                 replace_characters_in_file(file_path)
 
 # Define la carpeta a procesar
-folder_path = 'C:/Users/Artur/Documents/PQ2-Spanish-Mod/formats/manual_fixed/event'  # Cambia esto por la ruta de tu carpeta
+folder_path = 'C:/Users/Artur/Documents/PQ2-Spanish-Mod/pyscripts/fixnewfont'  # Cambia esto por la ruta de tu carpeta
 
 # Procesa la carpeta
 process_folder(folder_path)
