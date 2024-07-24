@@ -2,16 +2,16 @@
 Es el...
 
 [msg JUSTINE_FOE_FOLLOW_START_2]
-El FOE te encontr吋.
+El FOE te encontrポ.
 
 [msg JUSTINE_FOE_FOLLOW_START_3]
-Ahora te est茨 persiguiendo.
+Ahora te estホ persiguiendo.
 
 [msg JUSTINE_FOE_NEAR_1]
 El FOE se acerca.
 
 [msg JUSTINE_FOE_NEAR_2]
-Ten en cuenta que el FOE est茨 cerca.
+Ten en cuenta que el FOE estホ cerca.
 
 [msg JUSTINE_FOE_NEAR_3]
 Por favor, procede con cautela.
@@ -20,7 +20,7 @@ Por favor, procede con cautela.
 Parece que pueden relajarse,[n]Caroline.
 
 [msg JUSTINE_FOE_FOLLOW_END_2]
-El FOE dej吋 de perseguirte.
+El FOE dejポ de perseguirte.
 
 [msg JUSTINE_FOE_FOLLOW_END_3]
 Parece que el FOE ha dejado de[n]perseguirlos, Caroline.
@@ -32,25 +32,25 @@ Avanza sin dejar que te ilumine.
 Hasta que apagues el interruptor,[n]evita las luces.
 
 [msg JUSTINE_KANSI_REACTION_3]
-Ev胤talos y que no te vean.
+Evボtalos y que no te vean.
 
 [msg JUSTINE_DENKISAKU_REACTI]
 A menos que impida la electricidad,[n]no puede proceder.
 
 [msg JUSTINE_DENKISAKU_REACTI_2]
-Es muy probable que haya un interruptor[n]para desactivar la energ胤a.
+Es muy probable que haya un interruptor[n]para desactivar la energボa.
 
 [msg JUSTINE_DENKISAKU_REACTI_3]
-Si encuentras el interruptor podr茨s[n]avanzar.
+Si encuentras el interruptor podrホs[n]avanzar.
 
 [msg JUSTINE_KYOUHU_REACTION_]
-斡Un viento poderoso!
+ムUn viento poderoso!
 
 [msg JUSTINE_KYOUHU_REACTION__2]
-Trata de usar el viento a tu favor,[n]quiz茨s puedas aumentar tu movimiento.
+Trata de usar el viento a tu favor,[n]quizホs puedas aumentar tu movimiento.
 
 [msg JUSTINE_KYOUHU_REACTION__3]
-夷E-est茨s bien...?
+メE-estホs bien...?
 
 [msg JUSTINE_STAIR_FIND_1]
 Parece ser uno. Por favor,[n]confirmalo.
@@ -65,28 +65,28 @@ Parece que hay escaleras delante.
 Debe ser un cofre del tesoro.
 
 [msg JUSTINE_TREASURE_FIND_2]
-Qu姻 suerte. Has tropezado con un[n]cofre del tesoros.
+Qu〒 suerte. Has tropezado con un[n]cofre del tesoros.
 
 [msg JUSTINE_TREASURE_FIND_3]
 Eso debe ser lo que otros llaman[n]"tesoro".
 
 [msg JUSTINE_CHECK_WALL_1]
-Es evidente que hay algo ah胤.
+Es evidente que hay algo ahボ.
 
 [msg JUSTINE_CHECK_WALL_2]
 Siento algo en ese lugar.
 
 [msg JUSTINE_CHECK_WALL_3]
-Ser胤a buena idea investigar la zona.
+Serボa buena idea investigar la zona.
 
 [msg JUSTINE_SWITCH_FIND_1]
-Debe ser... alg雨n tipo de[n]interruptor.
+Debe ser... algマn tipo de[n]interruptor.
 
 [msg JUSTINE_SWITCH_FIND_2]
 Toma nota, hay un interruptor cerca.
 
 [msg JUSTINE_SWITCH_FIND_3]
-Algo deber胤a cambiar si usas el[n]interruptor.
+Algo deberボa cambiar si usas el[n]interruptor.
 
 [msg JUSTINE_SHORTCUT_FIND_1]
 Puede haber una manera de pasar por[n]la pared.
@@ -98,61 +98,61 @@ Probablemente, esa pared se puede[n]atravesar.
 Por favor, revisa las paredes[n]cercanas.
 
 [msg JUSTINE_PARTY_DEAD_1]
-Caroline... 夷Crees que estar茨n bien?
+Caroline... メCrees que estarホn bien?
 
 [msg JUSTINE_PARTY_DEAD_2]
-S吋lo conc姻ntrate en la curaci吋n.
+Sポlo conc〒ntrate en la curaciポn.
 
 [msg JUSTINE_PARTY_DEAD_3]
-Recuerda que volver tambi姻n una[n]opci吋n.
+Recuerda que volver tambi〒n una[n]opciポn.
 
 [msg JUSTINE_FOE_WARNING_NEAR]
-El FOE todav胤a te persigue. Mantente[n]alerta, Caroline.
+El FOE todavボa te persigue. Mantente[n]alerta, Caroline.
 
 [msg JUSTINE_FOE_WARNING_NEAR_2]
-Contin雨a con precauci吋n.
+Continマa con precauciポn.
 
 [msg JUSTINE_FOE_WARNING_NEAR_3]
-El FOE contin雨a acech茨ndote.
+El FOE continマa acechホndote.
 
 [msg JUSTINE_PARTY_HPTP10_1]
-Veo que todos han agotado sus[n]reservas de energ胤a.
+Veo que todos han agotado sus[n]reservas de energボa.
 
 [msg JUSTINE_PARTY_HPTP10_2]
-Deber胤amos abortar la misi吋n.
+Deberボamos abortar la misiポn.
 
 [msg JUSTINE_PARTY_HPTP10_3]
-Es obvio que todos est茨n fatigados.
+Es obvio que todos estホn fatigados.
 
 [msg JUSTINE_PARTY_HP10_1]
 Eso es inusualmente compasivo por tu parte,[n]Caroline... Y estoy de acuerdo.
 
 [msg JUSTINE_PARTY_HP10_2]
-Veo que la salud del grupo est茨[n]disminuyendo constantemente.
+Veo que la salud del grupo estホ[n]disminuyendo constantemente.
 
 [msg JUSTINE_PARTY_HP10_3]
 Puede ser mejor para parar y curarse.
 
 [msg JUSTINE_1PERSON_HPTP10_1]
-夷No te est茨s arriesgando demasiado?
+メNo te estホs arriesgando demasiado?
 
 [msg JUSTINE_1PERSON_HPTP10_2]
-Parece que su salud y la energ胤a son[n]peligrosamente bajas.
+Parece que su salud y la energボa son[n]peligrosamente bajas.
 
 [msg JUSTINE_1PERSON_HPTP10_3]
 Por favor, extiende una mano de[n]ayuda.
 
 [msg JUSTINE_PARTY_TP10_1]
-Caroline, deber胤amos dejarlos[n]descansar.
+Caroline, deberボamos dejarlos[n]descansar.
 
 [msg JUSTINE_PARTY_TP10_2]
-Todos est茨n agotados... Hag茨moslos[n]regresar y descansar, Caroline.
+Todos estホn agotados... Hagホmoslos[n]regresar y descansar, Caroline.
 
 [msg JUSTINE_PARTY_TP10_3]
-Podr胤as enfrentar m茨s dificultades si[n]contin雨as luchando en tu estado actual.
+Podrボas enfrentar mホs dificultades si[n]continマas luchando en tu estado actual.
 
 [msg JUSTINE_1PERSON_HP10_1]
-Recluso, tu salud est茨 muy baja.[n]夷Quiz茨s deber胤as tomar un descanso?
+Recluso, tu salud estホ muy baja.[n]メQuizホs deberボas tomar un descanso?
 
 [msg JUSTINE_1PERSON_HP10_2]
 La salud del prisionero es muy baja.
@@ -161,31 +161,31 @@ La salud del prisionero es muy baja.
 Alguien debe curar al prisionero.
 
 [msg JUSTINE_1PERSON_TP10_1]
-Todas las se隠ales apuntan al[n]agotamiento...
+Todas las seワales apuntan al[n]agotamiento...
 
 [msg JUSTINE_1PERSON_TP10_2]
-Ay, se est茨n quedando sin energ胤a.
+Ay, se estホn quedando sin energボa.
 
 [msg JUSTINE_1PERSON_TP10_3]
-Han sido empujados a su l胤mite.
+Han sido empujados a su lボmite.
 
 [msg JUSTINE_ITEM_90_BATTLE_1]
 Tienes demasiadas cosas.
 
 [msg JUSTINE_ITEM_90_BATTLE_2]
-Ser胤a conveniente que fueras[n]organizado.
+Serボa conveniente que fueras[n]organizado.
 
 [msg JUSTINE_ITEM_90_BATTLE_3]
 Tienes demasiadas cosas. Recomiendo[n]organizarlas.
 
 [msg JUSTINE_1PERSON_HP80_1]
-Tienes raz吋n, Caroline. Ahora podemos[n]estar tranquilas.
+Tienes razポn, Caroline. Ahora podemos[n]estar tranquilas.
 
 [msg JUSTINE_1PERSON_HP80_2]
 Fue una pelea estupenda.
 
 [msg JUSTINE_1PERSON_HP80_3]
-Parece que todav胤a tienes algo de[n]lucha en ti.
+Parece que todavボa tienes algo de[n]lucha en ti.
 
 [msg JUSTINE_BATTLE_CHANGE_DU]
 ■: [f 0 1 4]\cHFF
@@ -200,13 +200,13 @@ Parece que todav胤a tienes algo de[n]lucha en ti.
 Tienes demasiadas cosas.
 
 [msg JUSTINE_ITEM_90_DUNGEON__2]
-Ser胤a conveniente que fueras[n]organizado.
+Serボa conveniente que fueras[n]organizado.
 
 [msg JUSTINE_ITEM_90_DUNGEON__3]
 Tienes demasiadas cosas. Recomiendo[n]organizarlas.
 
 [msg JUSTINE_DUNGEON_START_1]
-夷Est茨s empezando tu exploraci吋n?
+メEstホs empezando tu exploraciポn?
 
 [msg JUSTINE_DUNGEON_START_2]
 Entonces proporcionaremos respaldo.
@@ -215,7 +215,7 @@ Entonces proporcionaremos respaldo.
 Ahora, empecemos.
 
 [msg JUSTINE_QUEST_START_1]
-Pongamos en marcha esta proyecci吋n[n]especial.
+Pongamos en marcha esta proyecciポn[n]especial.
 
 [msg JUSTINE_QUEST_START_2]
 Brindaremos ayuda hasta el final.
@@ -233,37 +233,37 @@ Parece que has progresado mucho en el[n]mapa.
 Esto debe estar cerca de la mitad...
 
 [msg JUSTINE_TOUHA_50_2]
-Dir胤a que finalmente has llegado a la[n]mitad.
+Dirボa que finalmente has llegado a la[n]mitad.
 
 [msg JUSTINE_TOUHA_75_1]
-S吋lo necesitamos explorar un poco m茨s[n]para completar este piso.
+Sポlo necesitamos explorar un poco mホs[n]para completar este piso.
 
 [msg JUSTINE_TOUHA_75_2]
-Solo un poco m茨s y completaremos este[n]piso.
+Solo un poco mホs y completaremos este[n]piso.
 
 [msg JUSTINE_TOUHA_100_1]
 Buenas noticias. Terminamos el mapa.
 
 [msg JUSTINE_TOUHA_100_2]
-Hemos explorado cada rinc吋n de este[n]piso.
+Hemos explorado cada rincポn de este[n]piso.
 
 [msg JUSTINE_MAPPING_ICON_ALL]
-No est茨 mal.
+No estホ mal.
 
 [msg JUSTINE_MAPPING_ICON_ALL_2]
-No est茨 mal para un prisionero.
+No estホ mal para un prisionero.
 
 [msg JUSTINE_MAPPING_ICON_KAI]
-Seguramente este excelente desempe隠o es el[n]resultado de nuestra rehabilitaci吋n.
+Seguramente este excelente desempeワo es el[n]resultado de nuestra rehabilitaciポn.
 
 [msg JUSTINE_MAPPING_ICON_KAI_2]
-Vas a marcar la escalera, 夷no?
+Vas a marcar la escalera, メno?
 
 [msg JUSTINE_MAPPING_CHANGE_C]
-Estoy interesada en la versi吋n final[n]del mapa.
+Estoy interesada en la versiポn final[n]del mapa.
 
 [msg JUSTINE_MAPPING_CHANGE_C_2]
-As胤 que ese es el color que usaras.
+Asボ que ese es el color que usaras.
 
 [msg JUSTINE_MAPPING_ICON_DEL]
 Los errores deben ser rectificados.
@@ -272,7 +272,7 @@ Los errores deben ser rectificados.
 Mantener el mapa limpio es una buena[n]idea.
 
 [msg JUSTINE_MAPPING_MEMO_1]
-夷Tomando notas? Probablemente, tuviste una[n]mala experiencia con eso antes...
+メTomando notas? Probablemente, tuviste una[n]mala experiencia con eso antes...
 
 [msg JUSTINE_MAPPING_MEMO_2]
 Ahora no tendremos que depender de[n]nuestros recuerdos.
@@ -293,5 +293,5 @@ El Segador se acerca. Por favor, ten[n]cuidado.
 Por favor, ten cuidado, porque hay un[n]Segador rondando.
 
 [msg JUSTINE_KARITORU_ENCOUNT_3]
-Es el Segador... Tu 雨nica oportunidad[n]es mantener el enfoque.
+Es el Segador... Tu マnica oportunidad[n]es mantener el enfoque.
 

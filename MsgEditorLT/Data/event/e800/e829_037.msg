@@ -1,29 +1,29 @@
 [msg MSG_000 [Futaba]]
-斡Tyranniqueen, justo delante! 斡Monstruo! 斡Se te acab吋 el tiempo!
+ムTyranniqueen, justo delante! ムMonstruo! ムSe te acabポ el tiempo!
 
 [msg MSG_001 [Yosuke]]
-Je, je, je, Oracle s胤 que est茨 desempe隠ando su papel.
+Je, je, je, Oracle sボ que estホ desempeワando su papel.
 
 [msg MSG_002 [Ken]]
-斡Prep茨rate, Tyranniqueen! 斡No nos quedaremos de brazos cruzados mientras destrozas el lugar!
+ムPrepホrate, Tyranniqueen! ムNo nos quedaremos de brazos cruzados mientras destrozas el lugar!
 
 [msg MSG_003 [Yukari]]
-Ja, ja, ja, parece que Ken tambi姻n. Esto se ha hecho muy divertido.
+Ja, ja, ja, parece que Ken tambi〒n. Esto se ha hecho muy divertido.
 
 [msg MSG_004 [Ken]]
-斡Feather Joker! 斡Danos la se隠al!
+ムFeather Joker! ムDanos la seワal!
 
 [sel SEL_005 top]
-斡Hag茨moslo!
-斡Es la hora del espect茨culo!
-斡Cambio de plumas!
+ムHagホmoslo!
+ムEs la hora del espectホculo!
+ムCambio de plumas!
 
 [msg MSG_006 [Junpei]]
-Je, je, je, 斡lo est茨s sintiendo! 斡Muy bien!
+Je, je, je, ムlo estホs sintiendo! ムMuy bien!
 
 [msg MSG_007 [Junpei]]
-Vamos, ya est茨s disfrazado. Aqu胤 es donde dices, "斡Vamos!"
+Vamos, ya estホs disfrazado. Aquボ es donde dices, "ムVamos!"
 
 [msg MSG_008 [Futaba]]
-斡Terminemos con esto, Joker! 斡A por 姻l!
+ムTerminemos con esto, Joker! ムA por 〒l!
 

@@ -2,14 +2,14 @@
 Vaya, tantas cerraduras...
 
 [msg MSG_001 [Makoto]]
-Nos hab胤as dicho que est茨bamos encerrados,[n]pero esto va mucho m茨s all茨 de cualquier[n]medida de seguridad, es extra隠o...
+Nos habボas dicho que estホbamos encerrados,[n]pero esto va mucho mホs allホ de cualquier[n]medida de seguridad, es extraワo...
 
 [msg MSG_002 [Morgana]]
-S胤, ni siquiera mis habilidades para[n]forzar cerraduras hicieron algo.
-Creemos que si las desbloqueamos todas[n]podremos salir de aqu胤.
+Sボ, ni siquiera mis habilidades para[n]forzar cerraduras hicieron algo.
+Creemos que si las desbloqueamos todas[n]podremos salir de aquボ.
 
 [msg MSG_003 [Nagi]]
-夷Realmente vas a intentarlo? 夷Y si... lo[n]peor llegara a suceder?
+メRealmente vas a intentarlo? メY si... lo[n]peor llegara a suceder?
 
 [msg MSG_004 [Morgana]]
 Si eso sucede, nos encargaremos. Ahora,[n]intenta usar esa llave, [f 6 1 30 0 0 0].
@@ -17,23 +17,23 @@ Si eso sucede, nos encargaremos. Ahora,[n]intenta usar esa llave, [f 6 1 30 0 0 
 [sel SEL_005 top]
 Entendido.
 Esto es aterrador...
-夷Qui姻n quiere abrir la puerta?
+メQui〒n quiere abrir la puerta?
 
 [msg MSG_006 [Akechi]]
-Esa valent胤a es justo lo que esperamos[n]de ti, L胤der.
+Esa valentボa es justo lo que esperamos[n]de ti, Lボder.
 
 [msg MSG_007 [Yusuke]]
 Si caemos, caeremos todos juntos.
 
 [msg MSG_010 [Ann]]
-Oh, 夷vamos a hacerlo levantando las[n]manos?
+Oh, メvamos a hacerlo levantando las[n]manos?
 
 [msg MSG_011 [Morgana]]
-斡Vamos, vamos! 斡Obviamente, esto[n]requiere que lo haga nuestro l胤der!
+ムVamos, vamos! ムObviamente, esto[n]requiere que lo haga nuestro lボder!
 
 [msg MSG_012 [Yusuke]]
 No te preocupes. Si caemos, caeremos[n]juntos.
 
 [msg MSG_013]
-Deber胤a intentar usar la llave...
+Deberボa intentar usar la llave...
 

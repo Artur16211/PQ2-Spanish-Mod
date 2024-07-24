@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Yukari]]
-Oh, un punto del tesoro. 夷Deber胤amos ir?
+Oh, un punto del tesoro. メDeberボamos ir?
 
 [msg MSG_001 [Yukari]]
-As胤 que debemos mantenernos alerta[n]mientras buscamos... 斡Entendido!
+Asボ que debemos mantenernos alerta[n]mientras buscamos... ムEntendido!
 
 [msg MSG_002 [Yukari]]
-Entendido, pondremos toda nuestra[n]energ胤a en buscar. 斡Enfoqu姻monos en[n]ello!
+Entendido, pondremos toda nuestra[n]energボa en buscar. ムEnfoqu〒monos en[n]ello!
 
 [msg MSG_003 [Yukari]]
-夷Oh, no en este momento?
+メOh, no en este momento?
 
 [msg MSG_004 [Yukari]]
-Creo que eso es todo... 夷verdad?
+Creo que eso es todo... メverdad?
 
 [msg MSG_005]
-Bastante decente, 夷verdad?
+Bastante decente, メverdad?
 
 [msg MSG_006]
-斡Yay!
+ムYay!
 
 [msg MSG_007]
-Eso es lo que necesit茨bamos.
+Eso es lo que necesitホbamos.
 
 [msg MSG_008 [Yukari]]
 Uf, eso estuvo demasiado cerca para mi.
 
 [msg MSG_009]
-斡Dios m胤o!
+ムDios mボo!
 
 [msg MSG_010]
-斡Oh, una rara!
+ムOh, una rara!
 
 [msg MSG_011]
-斡Hurra para nosotros!
+ムHurra para nosotros!
 
 [msg MSG_012 [Yukari]]
-夷Un atajo? 夷No es 雨til?
+メUn atajo? メNo es マtil?
 
 [msg MSG_013 [Yukari]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Yukari]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Yukari]]
-Oh, 夷no podemos pasar por aqu胤?
+Oh, メno podemos pasar por aquボ?
 
 [msg MSG_016 [Yukari]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Yukari]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Yukari]]
-Viene algo... Puedo sentirlo, hay un[n]escalofr胤o recorriendo mi espalda.
+Viene algo... Puedo sentirlo, hay un[n]escalofrボo recorriendo mi espalda.
 
 [msg MSG_019 [Yukari]]
-夷De verdad? Bueno, entonces...
+メDe verdad? Bueno, entonces...
 
 [msg MSG_020 [Yukari]]
-S胤, creo que es lo mejor.
+Sボ, creo que es lo mejor.
 
 [msg MSG_021 [Yukari]]
-夷Qu姻 demonios...? Nunca hab胤a visto a un[n]enemigo tan fuerte antes...
+メQu〒 demonios...? Nunca habボa visto a un[n]enemigo tan fuerte antes...
 
 [msg MSG_022 [Yukari]]
-Demasiadas Sombras por aqu胤. 夷Cu茨l es el[n]plan?
+Demasiadas Sombras por aquボ. メCuホl es el[n]plan?
 
 [msg MSG_023 [Yukari]]
 De acuerdo. Seamos cuidadosos...
 
 [msg MSG_024 [Yukari]]
-Oh, 夷retroceder? Eso probablemente es[n]sabio.
+Oh, メretroceder? Eso probablemente es[n]sabio.
 
 [msg MSG_025 [Yukari]]
-ESO realmente fue un desaf胤o... Tal vez[n]deber胤amos retirarnos.
+ESO realmente fue un desafボo... Tal vez[n]deberボamos retirarnos.
 
 [msg MSG_026 [Yukari]]
-斡Qu姻 alivio! Podemos volver al cine[n]desde aqu胤. 夷Vamos?
+ムQu〒 alivio! Podemos volver al cine[n]desde aquボ. メVamos?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

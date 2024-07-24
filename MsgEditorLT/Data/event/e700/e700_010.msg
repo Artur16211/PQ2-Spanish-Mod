@@ -1,6 +1,6 @@
 [msg MSG_000 [Futaba]]
-斡Joker! 斡No es buena idea ir en esa[n]direcci吋n ahora!
+ムJoker! ムNo es buena idea ir en esa[n]direcciポn ahora!
 
 [msg MSG_001 [Haru]]
-Oracle tiene raz吋n, 夷por qu姻 no nos[n]retiramos y nos reagrupamos?
+Oracle tiene razポn, メpor qu〒 no nos[n]retiramos y nos reagrupamos?
 

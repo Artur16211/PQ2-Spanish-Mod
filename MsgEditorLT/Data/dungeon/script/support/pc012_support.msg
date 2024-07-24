@@ -11,58 +11,58 @@ Ten cuidado. Un FOE nos sigue.
 Hay un FOE cerca...
 
 [msg ARAGAKI_FOE_NEAR_2]
-Bueno, parece que un FOE apareci吋.
+Bueno, parece que un FOE apareciポ.
 
 [msg ARAGAKI_FOE_NEAR_3]
 Un FOE... intenta que no te vea.
 
 [msg ARAGAKI_FOE_FOLLOW_END_1]
-Parece que finalmente se rindi吋.
+Parece que finalmente se rindiポ.
 
 [msg ARAGAKI_FOE_FOLLOW_END_2]
-Parece que fue en la otra direcci吋n.
+Parece que fue en la otra direcciポn.
 
 [msg ARAGAKI_FOE_FOLLOW_END_3]
-Dejamos atr茨s a ese FOE.
+Dejamos atrホs a ese FOE.
 
 [msg ARAGAKI_KANSI_REACTION_1]
 Tch, esto va a hacer que moverse sea[n]molesto.
 
 [msg ARAGAKI_KANSI_REACTION_2]
-Ten cuidado. Ser胤a un fastidio si nos[n]atrapan.
+Ten cuidado. Serボa un fastidio si nos[n]atrapan.
 
 [msg ARAGAKI_KANSI_REACTION_3]
-Qu姻 trampa m茨s molesta.
+Qu〒 trampa mホs molesta.
 
 [msg ARAGAKI_DENKISAKU_REACTI]
-Una puerta el姻ctrica, eh... Esto apesta,[n]pero tomemos la ruta m茨s larga.
+Una puerta el〒ctrica, eh... Esto apesta,[n]pero tomemos la ruta mホs larga.
 
 [msg ARAGAKI_DENKISAKU_REACTI_2]
-Mejor busca el interruptor para[n]apagar la energ胤a...
+Mejor busca el interruptor para[n]apagar la energボa...
 
 [msg ARAGAKI_DENKISAKU_REACTI_3]
-Parece que es mejor que nos[n]concentremos la energ胤a.
+Parece que es mejor que nos[n]concentremos la energボa.
 
 [msg ARAGAKI_KYOUHU_REACTION_]
-斡夷Whoa?!
+ムメWhoa?!
 
 [msg ARAGAKI_KYOUHU_REACTION__2]
-斡夷En serio...?!
+ムメEn serio...?!
 
 [msg ARAGAKI_KYOUHU_REACTION__3]
-斡Tch...!
+ムTch...!
 
 [msg ARAGAKI_STAIR_FIND_1]
 Oye, unas escaleras...
 
 [msg ARAGAKI_STAIR_FIND_2]
-Parece que podemos seguir adelante.[n]夷Vamos?
+Parece que podemos seguir adelante.[n]メVamos?
 
 [msg ARAGAKI_STAIR_FIND_3]
-A雨n queda m茨s, 夷verdad? 夷Qu姻 hacemos?
+Aマn queda mホs, メverdad? メQu〒 hacemos?
 
 [msg ARAGAKI_TREASURE_FIND_1]
-Hay un cofre del tesoro... 夷Quieres[n]abrirlo?
+Hay un cofre del tesoro... メQuieres[n]abrirlo?
 
 [msg ARAGAKI_TREASURE_FIND_2]
 Un cofre del tesoro, eh... Espero que[n]tenga algo bueno.
@@ -71,31 +71,31 @@ Un cofre del tesoro, eh... Espero que[n]tenga algo bueno.
 Oye, hay un cofre del tesoro.
 
 [msg ARAGAKI_CHECK_WALL_1]
-Siento algo sospechoso... 夷Deber胤amos[n]abrirlo?
+Siento algo sospechoso... メDeberボamos[n]abrirlo?
 
 [msg ARAGAKI_CHECK_WALL_2]
-Oye, 夷Qu姻 es eso?
+Oye, メQu〒 es eso?
 
 [msg ARAGAKI_CHECK_WALL_3]
-Hay algo por all胤.
+Hay algo por allボ.
 
 [msg ARAGAKI_SWITCH_FIND_1]
-Un interruptor, eh... 夷Lo usamos?
+Un interruptor, eh... メLo usamos?
 
 [msg ARAGAKI_SWITCH_FIND_2]
-Oye, 夷no es un interruptor?
+Oye, メno es un interruptor?
 
 [msg ARAGAKI_SWITCH_FIND_3]
-Un interruptor, eh... 夷Qu姻 quieres[n]hacer?
+Un interruptor, eh... メQu〒 quieres[n]hacer?
 
 [msg ARAGAKI_SHORTCUT_FIND_1]
-夷No podemos pasar por ah胤?
+メNo podemos pasar por ahボ?
 
 [msg ARAGAKI_SHORTCUT_FIND_2]
-Mira, podr胤amos usar eso como un[n]atajo.
+Mira, podrボamos usar eso como un[n]atajo.
 
 [msg ARAGAKI_SHORTCUT_FIND_3]
-夷No funcionar胤a como un atajo?
+メNo funcionarボa como un atajo?
 
 [msg ARAGAKI_PARTY_DEAD_1]
 ?
@@ -107,67 +107,67 @@ Mira, podr胤amos usar eso como un[n]atajo.
 ?
 
 [msg ARAGAKI_FOE_WARNING_NEAR]
-Parece que todav胤a nos sigue.
+Parece que todavボa nos sigue.
 
 [msg ARAGAKI_FOE_WARNING_NEAR_2]
-Ten胤a la sensaci吋n de que no nos[n]dejar胤a ir tan f茨cilmente...
+Tenボa la sensaciポn de que no nos[n]dejarボa ir tan fホcilmente...
 
 [msg ARAGAKI_FOE_WARNING_NEAR_3]
-Parece que esto a雨n no ha terminado.
+Parece que esto aマn no ha terminado.
 
 [msg ARAGAKI_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ARAGAKI_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ARAGAKI_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ARAGAKI_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg ARAGAKI_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg ARAGAKI_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg ARAGAKI_1PERSON_HPTP10_1]
-Tch, estoy alcanzando mi l胤mite...
+Tch, estoy alcanzando mi lボmite...
 
 [msg ARAGAKI_1PERSON_HPTP10_2]
-Oye, 夷por qu姻 no volvemos?
+Oye, メpor qu〒 no volvemos?
 
 [msg ARAGAKI_1PERSON_HPTP10_3]
 Siento que voy a caer de cabeza...
 
 [msg ARAGAKI_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ARAGAKI_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ARAGAKI_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ARAGAKI_1PERSON_HP10_1]
 Tch, me estoy mareando...
 
 [msg ARAGAKI_1PERSON_HP10_2]
-Lo siento, pero necesito curaci吋n.
+Lo siento, pero necesito curaciポn.
 
 [msg ARAGAKI_1PERSON_HP10_3]
 Mi salud es baja...
 
 [msg ARAGAKI_1PERSON_TP10_1]
-Me estoy quedando sin energ胤a...
+Me estoy quedando sin energボa...
 
 [msg ARAGAKI_1PERSON_TP10_2]
-Mi energ胤a est茨 empezando a agotarse.
+Mi energボa estホ empezando a agotarse.
 
 [msg ARAGAKI_1PERSON_TP10_3]
-Sin energ胤a, 夷eh? Tch, qu姻 l茨stima.
+Sin energボa, メeh? Tch, qu〒 lホstima.
 
 [msg ARAGAKI_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,13 +179,13 @@ Sin energ胤a, 夷eh? Tch, qu姻 l茨stima.
 【justificadamente
 
 [msg ARAGAKI_1PERSON_HP80_1]
-No est茨 mal.
+No estホ mal.
 
 [msg ARAGAKI_1PERSON_HP80_2]
-Movimientos s吋lidos.
+Movimientos sポlidos.
 
 [msg ARAGAKI_1PERSON_HP80_3]
-Esperemos que el pr吋ximo tambi姻n sea[n]as胤.
+Esperemos que el prポximo tambi〒n sea[n]asボ.
 
 [msg ARAGAKI_BATTLE_CHANGE_DU]
 ■: [f 0 1 4]\cHFF
@@ -197,28 +197,28 @@ Esperemos que el pr吋ximo tambi姻n sea[n]as胤.
 ■:
 
 [msg ARAGAKI_ITEM_90_DUNGEON_]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg ARAGAKI_ITEM_90_DUNGEON__2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg ARAGAKI_ITEM_90_DUNGEON__3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg ARAGAKI_DUNGEON_START_1]
-Ap雨rate y terminemos esto.
+Apマrate y terminemos esto.
 
 [msg ARAGAKI_DUNGEON_START_2]
 Muy bien, vamos.
 
 [msg ARAGAKI_DUNGEON_START_3]
-M茨s vale que des lo mejor de ti.
+Mホs vale que des lo mejor de ti.
 
 [msg ARAGAKI_QUEST_START_1]
-...Terminemos esto r茨pido.
+...Terminemos esto rホpido.
 
 [msg ARAGAKI_QUEST_START_2]
-No te relajes, 夷de acuerdo?
+No te relajes, メde acuerdo?
 
 [msg ARAGAKI_QUEST_START_3]
 Bien, empecemos.
@@ -230,19 +230,19 @@ Este lugar parece bastante disperso.
 No tiene sentido preocuparse por[n]esto. Vamos a abordarlo con calma.
 
 [msg ARAGAKI_TOUHA_50_1]
-A mitad de camino, 夷eh? Parece que[n]a雨n tenemos trecho por recorrer.
+A mitad de camino, メeh? Parece que[n]aマn tenemos trecho por recorrer.
 
 [msg ARAGAKI_TOUHA_50_2]
-Ten胤a la sensaci吋n de que nos est茨bamos[n]acercando a nuestro objetivo...
+Tenボa la sensaciポn de que nos estホbamos[n]acercando a nuestro objetivo...
 
 [msg ARAGAKI_TOUHA_75_1]
-Este mapa est茨 empezando a tomar[n]forma.
+Este mapa estホ empezando a tomar[n]forma.
 
 [msg ARAGAKI_TOUHA_75_2]
-Vamos a un ritmo bastante bueno, 夷no?
+Vamos a un ritmo bastante bueno, メno?
 
 [msg ARAGAKI_TOUHA_100_1]
-As胤 que, el mapa est茨 todo lleno.[n]Buen trabajo.
+Asボ que, el mapa estホ todo lleno.[n]Buen trabajo.
 
 [msg ARAGAKI_TOUHA_100_2]
 Realmente lo terminaste... estoy[n]impresionado.
@@ -251,47 +251,47 @@ Realmente lo terminaste... estoy[n]impresionado.
 Realmente sigues trabajando en ello.
 
 [msg ARAGAKI_MAPPING_ICON_ALL_2]
-S胤, estaba por ah胤.
+Sボ, estaba por ahボ.
 
 [msg ARAGAKI_MAPPING_ICON_KAI]
 Creo que eso es correcto.
 
 [msg ARAGAKI_MAPPING_ICON_KAI_2]
-Saber d吋nde est茨 nuestra entrada es[n]bastante importante.
+Saber dポnde estホ nuestra entrada es[n]bastante importante.
 
 [msg ARAGAKI_MAPPING_CHANGE_C]
-Cambiaste de colores, 夷eh? No est茨[n]mal.
+Cambiaste de colores, メeh? No estホ[n]mal.
 
 [msg ARAGAKI_MAPPING_CHANGE_C_2]
 Vaya, luce bastante bien.
 
 [msg ARAGAKI_MAPPING_ICON_DEL]
-Podr胤a jurar que Aki mencion吋 algo[n]sobre perder peso y esas cosas...
+Podrボa jurar que Aki mencionポ algo[n]sobre perder peso y esas cosas...
 
 [msg ARAGAKI_MAPPING_ICON_DEL_2]
-Mantener las cosas en orden puede marcar[n]una verdadera diferencia, especialmente[n]aqu胤.
+Mantener las cosas en orden puede marcar[n]una verdadera diferencia, especialmente[n]aquボ.
 
 [msg ARAGAKI_MAPPING_MEMO_1]
 Tomar notas es importante.
 
 [msg ARAGAKI_MAPPING_MEMO_2]
-夷Oh? Bueno, estoy impresionado.
+メOh? Bueno, estoy impresionado.
 
 [msg ARAGAKI_DOOR_OPEN_1]
-Apresur姻monos y vayamos.
+Apresur〒monos y vayamos.
 
 [msg ARAGAKI_DOOR_OPEN_2]
-Vamos, por aqu胤...
+Vamos, por aquボ...
 
 [msg ARAGAKI_DOOR_OPEN_3]
 Ten cuidado.
 
 [msg ARAGAKI_KARITORU_ENCOUNT]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg ARAGAKI_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg ARAGAKI_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

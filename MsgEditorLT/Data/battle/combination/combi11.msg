@@ -2,8 +2,8 @@
 Contamos contigo.
 
 [msg MSG_BTL_002]
-斡Muy bien!
+ムMuy bien!
 
 [msg MSG_BTL_003]
-斡Vamos!
+ムVamos!
 

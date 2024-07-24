@@ -2,71 +2,71 @@
 Distrito de Cine, Profundidades...
 
 [msg MSG_001 [Kanji]]
-Espero que est姻s lista, eh...
+Espero que est〒s lista, eh...
 
 [msg MSG_002 [Kanji]]
-...夷Qu姻 demonios? 斡No hay nadie aqu胤!
+...メQu〒 demonios? ムNo hay nadie aquボ!
 
 [msg MSG_003 [Junpei]]
-Eh, en serio, 夷nos equivocamos?
+Eh, en serio, メnos equivocamos?
 
 [msg MSG_004 [Rise]]
-斡Chicos! 斡Miren arriba!
+ムChicos! ムMiren arriba!
 
 [msg MSG_005 [Enlil]]
-Vaya... no pueden dejar de interferir,[n]夷verdad?
+Vaya... no pueden dejar de interferir,[n]メverdad?
 
 [msg MSG_006 [Naoto]]
-斡Enlil!
+ムEnlil!
 
 [msg MSG_007 [Enlil]]
-No lo entiendo, 夷por qu姻 se esfuerzan[n]tanto en luchar por completos extra隠os?
-Si me hubieran escuchado y regresado a[n]sus mundos, todo habr胤a terminado.
+No lo entiendo, メpor qu〒 se esfuerzan[n]tanto en luchar por completos extraワos?
+Si me hubieran escuchado y regresado a[n]sus mundos, todo habrボa terminado.
 
 [msg MSG_008 [Yosuke]]
 Lo entiendo... querer escapar y no[n]querer que te lastimen...
-斡Pero por eso no puedo dejar que sigas[n]con esto!
+ムPero por eso no puedo dejar que sigas[n]con esto!
 
 [msg MSG_009 [Ann]]
-Si saliera corriendo, no estar胤a[n]haciendo lo que pienso, 斡nunca har胤a[n]algo as胤!
+Si saliera corriendo, no estarボa[n]haciendo lo que pienso, ムnunca harボa[n]algo asボ!
 
 [msg MSG_010 [Enlil]]
-夷En serio? 夷Y...? 夷Qu姻 piensan hacer?
+メEn serio? メY...? メQu〒 piensan hacer?
 
 [msg MSG_011 [Yusuke]]
-Llego la hora: 斡Muestrale, Joker!
+Llego la hora: ムMuestrale, Joker!
 
 [sel SEL_012 top]
-Este Aviso... 斡Es para ti!
-斡Vamos a cambiar tu pel胤cula!
+Este Aviso... ムEs para ti!
+ムVamos a cambiar tu pelボcula!
 
 [msg MSG_013 [Enlil]]
-"Se隠orita Enlil, curadora de los cines[n]de las mentiras..."
-"Ya que proyectas pel胤culas que promueven el[n]autoabuso y enga隠an a los espectadores[n]haci姻ndoles creer que la insensibilidad es[n]paz..."
-"Robaremos tus pel胤culas distorsionadas.[n]Firmado, los Ladrones Fantasma."
+"Seワorita Enlil, curadora de los cines[n]de las mentiras..."
+"Ya que proyectas pelボculas que promueven el[n]autoabuso y engaワan a los espectadores[n]haci〒ndoles creer que la insensibilidad es[n]paz..."
+"Robaremos tus pelボculas distorsionadas.[n]Firmado, los Ladrones Fantasma."
 
 [msg MSG_014 [Enlil]]
-夷Robar pel胤culas distorsionadas...? 夷De[n]qu姻 est茨s hablando?
+メRobar pelボculas distorsionadas...? メDe[n]qu〒 estホs hablando?
 
 [msg MSG_015 [Makoto]]
-A menos que cambiemos la forma de pensar[n]de tus espectadores, ser茨 imposible[n]deshacernos de ti.
-Por eso ten胤amos un plan.
+A menos que cambiemos la forma de pensar[n]de tus espectadores, serホ imposible[n]deshacernos de ti.
+Por eso tenボamos un plan.
 
 [msg MSG_016 [Haru]]
-S胤, encontramos una forma de cambiar los[n]corazones de todos.
+Sボ, encontramos una forma de cambiar los[n]corazones de todos.
 
 [msg MSG_017 [Morgana]]
-斡Oracle! 斡夷Lista?!
+ムOracle! ムメLista?!
 
 [msg MSG_018 [Futaba]]
-斡S胤! 斡Lista reproducir el final!
+ムSボ! ムLista reproducir el final!
 
 [msg MSG_019 [Ryuji]]
-斡Bien! 斡Dale con todo, Hikari!
+ムBien! ムDale con todo, Hikari!
 
 [msg MSG_020 [Hikari]]
-Mm... 斡S胤! 斡Hag茨moslo!
+Mm... ムSボ! ムHagホmoslo!
 
 [msg MSG_021 [Enlil]]
-斡夷...?!
+ムメ...?!
 

@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota a los Basaltos Interesados!
+ムDerrota a los Basaltos Interesados!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 10 restantes

@@ -1,47 +1,47 @@
 [msg ELIZABETH_FOE_FOLLOW_STA]
-Has sido magn胤ficamente bloqueado.
+Has sido magnボficamente bloqueado.
 
 [msg THEODOR_FOE_FOLLOW_START]
-Un FOE te persigue. Con admirable[n]convicci吋n, tengo que decir...
+Un FOE te persigue. Con admirable[n]convicciポn, tengo que decir...
 
 [msg ELIZABETH_FOE_FOLLOW_STA_2]
-Dir胤a que es una emergencia.
+Dirボa que es una emergencia.
 
 [msg THEODOR_FOE_FOLLOW_START_2]
 Por desgracia, parece que el FOE te[n]vio.
 
 [msg ELIZABETH_FOE_FOLLOW_STA_3]
-Oh, un FOE te est茨 siguiendo... Theo,[n]dejo esto en tus manos.
+Oh, un FOE te estホ siguiendo... Theo,[n]dejo esto en tus manos.
 
 [msg THEODOR_FOE_FOLLOW_START_3]
-斡夷Eh?! 斡Oh, te ruego que tengas[n]cuidado!
+ムメEh?! ムOh, te ruego que tengas[n]cuidado!
 
 [msg ELIZABETH_FOE_NEAR_1]
 Hay un FOE cerca de ti.
 
 [msg THEODOR_FOE_NEAR_1]
-斡Tengan cuidado!
+ムTengan cuidado!
 
 [msg ELIZABETH_FOE_NEAR_2]
 Estoy anunciando formalmente la[n]cercana presencia de un FOE.
 
 [msg THEODOR_FOE_NEAR_2]
-斡Por favor, tengan en cuenta que hay[n]un FOE!
+ムPor favor, tengan en cuenta que hay[n]un FOE!
 
 [msg ELIZABETH_FOE_NEAR_3]
 Lectura de un FOE, alta y clara.
 
 [msg THEODOR_FOE_NEAR_3]
-*jadeo* Esto podr胤a resultar[n]desastroso. 斡Ten cuidado!
+*jadeo* Esto podrボa resultar[n]desastroso. ムTen cuidado!
 
 [msg ELIZABETH_FOE_FOLLOW_END]
-Fue una impresionante exhibici吋n de[n]escape.
+Fue una impresionante exhibiciポn de[n]escape.
 
 [msg THEODOR_FOE_FOLLOW_END_1]
 Parece que el FOE ha perdido su[n]voluntad de acosarte.
 
 [msg ELIZABETH_FOE_FOLLOW_END_2]
-El FOE ha abandonado la persecuci吋n.[n]Cobarde.
+El FOE ha abandonado la persecuciポn.[n]Cobarde.
 
 [msg THEODOR_FOE_FOLLOW_END_2]
 Bien hecho. Estoy impresionado.
@@ -50,88 +50,88 @@ Bien hecho. Estoy impresionado.
 Estoy levantando la alerta de[n]emergencia.
 
 [msg THEODOR_FOE_FOLLOW_END_3]
-Has logrado poner distancia entre t雨[n]y el FOE.
+Has logrado poner distancia entre tマ[n]y el FOE.
 
 [msg ELIZABETH_KANSI_REACTION]
-Deber胤an avanzar y evitar que los[n]iluminen.
+Deberボan avanzar y evitar que los[n]iluminen.
 
 [msg THEODOR_KANSI_REACTION_1]
-Deber胤an avanzar sin ser expuestos.
+Deberボan avanzar sin ser expuestos.
 
 [msg ELIZABETH_KANSI_REACTION_2]
-Por favor, avancen de puntillas por aqu胤,[n]preferir胤a no preocuparme por todos[n]ustedes.
+Por favor, avancen de puntillas por aquボ,[n]preferirボa no preocuparme por todos[n]ustedes.
 
 [msg THEODOR_KANSI_REACTION_2]
-Contin雨en avanzando lo m茨s[n]silenciosamente posible.
+Continマen avanzando lo mホs[n]silenciosamente posible.
 
 [msg ELIZABETH_KANSI_REACTION_3]
-Eviten las luces, y nadie los ver茨.
+Eviten las luces, y nadie los verホ.
 
 [msg THEODOR_KANSI_REACTION_3]
 Por favor, eviten esas luces.
 
 [msg ELIZABETH_DENKISAKU_REAC]
-夷Podr胤a ser... 斡un dispositivo de[n]entrenamiento?!
+メPodrボa ser... ムun dispositivo de[n]entrenamiento?!
 
 [msg THEODOR_DENKISAKU_REACTI]
-No podr茨s avanzar a menos que[n]desactives la energ胤a.
+No podrホs avanzar a menos que[n]desactives la energボa.
 
 [msg ELIZABETH_DENKISAKU_REAC_2]
-Localiza el interruptor para apagar[n]la energ胤a.
+Localiza el interruptor para apagar[n]la energボa.
 
 [msg THEODOR_DENKISAKU_REACTI_2]
 Debe haber un interruptor...
 
 [msg ELIZABETH_DENKISAKU_REAC_3]
-Vaya, 夷qu姻 voltaje podr胤a tener ese[n]aparato?
+Vaya, メqu〒 voltaje podrボa tener ese[n]aparato?
 
 [msg THEODOR_DENKISAKU_REACTI_3]
-Una puerta el姻ctrica... Esto me recuerda a[n]mi hermana... olv胤dalo, no es nada.
+Una puerta el〒ctrica... Esto me recuerda a[n]mi hermana... olvボdalo, no es nada.
 
 [msg ELIZABETH_KYOUHU_REACTIO]
-斡Zas, mi falda se fue volando! Bueno,[n]eso es algo un poco especial para ti.
+ムZas, mi falda se fue volando! Bueno,[n]eso es algo un poco especial para ti.
 
 [msg THEODOR_KYOUHU_REACTION_]
-斡Cuidado con las r茨fagas de viento!
+ムCuidado con las rホfagas de viento!
 
 [msg ELIZABETH_KYOUHU_REACTIO_2]
 El lugar donde aterrizas depende del[n]viento.
 
 [msg THEODOR_KYOUHU_REACTION__2]
-夷Por qu姻 no podr胤as quiz茨s montar en[n]el viento?
+メPor qu〒 no podrボas quizホs montar en[n]el viento?
 
 [msg ELIZABETH_KYOUHU_REACTIO_3]
 Ohhh noooooo.
 
 [msg THEODOR_KYOUHU_REACTION__3]
-斡Oh, qu姻 terrible vendaval!
+ムOh, qu〒 terrible vendaval!
 
 [msg ELIZABETH_STAIR_FIND_1]
-Por favor, mira a la derecha. Ver茨s[n]las escaleras.
+Por favor, mira a la derecha. Verホs[n]las escaleras.
 
 [msg THEODOR_STAIR_FIND_1]
-Hermana, creo que las escaleras est茨n[n]a delante...
+Hermana, creo que las escaleras estホn[n]a delante...
 
 [msg ELIZABETH_STAIR_FIND_2]
-Vamos a subir, y quiz茨s tambi姻n[n]bajar.
+Vamos a subir, y quizホs tambi〒n[n]bajar.
 
 [msg THEODOR_STAIR_FIND_2]
-斡S胤, son las escaleras!
+ムSボ, son las escaleras!
 
 [msg ELIZABETH_STAIR_FIND_3]
 Excelente, veo escaleras.
 
 [msg THEODOR_STAIR_FIND_3]
-Impresionante, hermana. Tienes una[n]aguda habilidad de observaci吋n.
+Impresionante, hermana. Tienes una[n]aguda habilidad de observaciポn.
 
 [msg ELIZABETH_TREASURE_FIND_]
 He confirmado un cofre del tesoro a[n]delante.
 
 [msg THEODOR_TREASURE_FIND_1]
-斡Una recompensa en forma de un cofre[n]del tesoro!
+ムUna recompensa en forma de un cofre[n]del tesoro!
 
 [msg ELIZABETH_TREASURE_FIND__2]
-夷Podr胤a ser eso lo que se llama un[n]tesoro?
+メPodrボa ser eso lo que se llama un[n]tesoro?
 
 [msg THEODOR_TREASURE_FIND_2]
 Tengo mucha curiosidad por el[n]contenido del cofre del tesoro.
@@ -146,16 +146,16 @@ Un cofre del tesoro. Debo decir que estoy[n]emocionada de ver lo que hay dentro.
 Se siente como si algo estuviera[n]cerca...
 
 [msg THEODOR_CHECK_WALL_1]
-Oh, hay algo intrigante all胤.
+Oh, hay algo intrigante allボ.
 
 [msg ELIZABETH_CHECK_WALL_2]
-Hay algo aqu胤 que llama mi atenci吋n.
+Hay algo aquボ que llama mi atenciポn.
 
 [msg THEODOR_CHECK_WALL_2]
-夷Qu姻 es eso? 夷Podr胤as comprobarlo?
+メQu〒 es eso? メPodrボas comprobarlo?
 
 [msg ELIZABETH_CHECK_WALL_3]
-He sentido algo. S胤, definitivamente.
+He sentido algo. Sボ, definitivamente.
 
 [msg THEODOR_CHECK_WALL_3]
 Creo que hay algo cerca.
@@ -164,148 +164,148 @@ Creo que hay algo cerca.
 Se ha confirmado la presencia de un[n]interruptor.
 
 [msg THEODOR_SWITCH_FIND_1]
-Hay un interruptor. 夷Qu姻 har茨s?
+Hay un interruptor. メQu〒 harホs?
 
 [msg ELIZABETH_SWITCH_FIND_2]
-All茨 est茨 un interruptor.
+Allホ estホ un interruptor.
 
 [msg THEODOR_SWITCH_FIND_2]
-夷Presionar茨s ese interruptor?
+メPresionarホs ese interruptor?
 
 [msg ELIZABETH_SWITCH_FIND_3]
-S吋lo hay una pregunta en esta situaci吋n.[n]夷Quieres usar el interruptor?
+Sポlo hay una pregunta en esta situaciポn.[n]メQuieres usar el interruptor?
 
 [msg THEODOR_SWITCH_FIND_3]
 Parece que es un interruptor.
 
 [msg ELIZABETH_SHORTCUT_FIND_]
-Deber胤a ser posible que te deslices[n]directamente a trav姻s de una pared cercana.
+Deberボa ser posible que te deslices[n]directamente a trav〒s de una pared cercana.
 
 [msg THEODOR_SHORTCUT_FIND_1]
-Esta pared... siento que tiene m茨s de[n]lo que parece.
+Esta pared... siento que tiene mホs de[n]lo que parece.
 
 [msg ELIZABETH_SHORTCUT_FIND__2]
-Dios m胤o, esa pared... huele muy[n]sospechosa, si ese es el verbo correcto.
+Dios mボo, esa pared... huele muy[n]sospechosa, si ese es el verbo correcto.
 
 [msg THEODOR_SHORTCUT_FIND_2]
-夷Por qu姻 no revisas esa pared de[n]all胤?
+メPor qu〒 no revisas esa pared de[n]allボ?
 
 [msg ELIZABETH_SHORTCUT_FIND__3]
 Mi instinto me dice que hay una pared[n]que se puede atravesar cerca.
 
 [msg THEODOR_SHORTCUT_FIND_3]
-Puede que haya propiedades desconocidas[n]sobre la pared que est茨 adelante.
+Puede que haya propiedades desconocidas[n]sobre la pared que estホ adelante.
 
 [msg ELIZABETH_PARTY_DEAD_1]
-Oh querido... Tal vez deber胤amos rezar,[n]Theo, no hay mucho m茨s que podamos hacer.
+Oh querido... Tal vez deberボamos rezar,[n]Theo, no hay mucho mホs que podamos hacer.
 
 [msg THEODOR_PARTY_DEAD_1]
-斡夷Est茨n bien?!
+ムメEstホn bien?!
 
 [msg ELIZABETH_PARTY_DEAD_2]
 Recomiendo que se reagrupen de[n]inmediato.
 
 [msg THEODOR_PARTY_DEAD_2]
-Por favor, considera regresar aqu胤.
+Por favor, considera regresar aquボ.
 
 [msg ELIZABETH_PARTY_DEAD_3]
 Como dicen, despacio y con constancia[n]se gana la carrera.
 
 [msg THEODOR_PARTY_DEAD_3]
-Deber胤an curarse primero.
+Deberボan curarse primero.
 
 [msg ELIZABETH_FOE_WARNING_NE]
 Pueden desear ser cautelosos al[n]entrar en batalla, por el momento.
 
 [msg THEODOR_FOE_WARNING_NEAR]
-El FOE sigue persigui姻ndote.
+El FOE sigue persigui〒ndote.
 
 [msg ELIZABETH_FOE_WARNING_NE_2]
-Bien, entonces, un FOE nos est茨[n]persiguiendo ahora.
+Bien, entonces, un FOE nos estホ[n]persiguiendo ahora.
 
 [msg THEODOR_FOE_WARNING_NEAR_2]
-No parece querer rendirse, 夷verdad?
+No parece querer rendirse, メverdad?
 
 [msg ELIZABETH_FOE_WARNING_NE_3]
-Parece que el FOE contin雨a su[n]b雨squeda...
+Parece que el FOE continマa su[n]bマsqueda...
 
 [msg THEODOR_FOE_WARNING_NEAR_3]
 Por favor sean tan precavidos como[n]puedan.
 
 [msg ELIZABETH_PARTY_HPTP10_1]
-斡Oh cielos! E-esto es un estado de[n]emergencia.
+ムOh cielos! E-esto es un estado de[n]emergencia.
 
 [msg THEODOR_PARTY_HPTP10_1]
-Hermana, por favor c茨lmate. Solo necesitan[n]reagruparse y curarse a s胤 mismos.
+Hermana, por favor cホlmate. Solo necesitan[n]reagruparse y curarse a sボ mismos.
 
 [msg ELIZABETH_PARTY_HPTP10_2]
 Theo, debes prepararte para darles la[n]bienvenida.
 
 [msg THEODOR_PARTY_HPTP10_2]
-Me preocupan tus niveles de[n]agotamiento. Deber胤as regresar.
+Me preocupan tus niveles de[n]agotamiento. Deberボas regresar.
 
 [msg ELIZABETH_PARTY_HPTP10_3]
-Parece que la fuerza de todos ha alcanzado[n]su propio l胤mite exc姻ntrico.
+Parece que la fuerza de todos ha alcanzado[n]su propio lボmite exc〒ntrico.
 
 [msg THEODOR_PARTY_HPTP10_3]
 Parece que mi hermana desea que[n]regreses.
 
 [msg ELIZABETH_PARTY_HP10_1]
-Eh... 夷Quiz茨s ser胤a adecuado[n]regresar?
+Eh... メQuizホs serボa adecuado[n]regresar?
 
 [msg THEODOR_PARTY_HP10_1]
 La salud de todos es bastante baja.
 
 [msg ELIZABETH_PARTY_HP10_2]
-斡La salud de todos es muy baja!
+ムLa salud de todos es muy baja!
 
 [msg THEODOR_PARTY_HP10_2]
-Deber胤as considerar usar curaci吋n[n]inmediatamente.
+Deberボas considerar usar curaciポn[n]inmediatamente.
 
 [msg ELIZABETH_PARTY_HP10_3]
-El nivel de salud de todos es tan[n]peque隠o como una l茨grima de gorri吋n.
+El nivel de salud de todos es tan[n]pequeワo como una lホgrima de gorriポn.
 
 [msg THEODOR_PARTY_HP10_3]
-Por favor, prioricen la curaci吋n de[n]sus heridas.
+Por favor, prioricen la curaciポn de[n]sus heridas.
 
 [msg ELIZABETH_1PERSON_HPTP10]
-斡Curaci吋n! 斡Alguien proporcione[n]curaci吋n!
+ムCuraciポn! ムAlguien proporcione[n]curaciポn!
 
 [msg THEODOR_1PERSON_HPTP10_1]
-夷No est茨 tu salud y tu resistencia[n]bastante baja?
+メNo estホ tu salud y tu resistencia[n]bastante baja?
 
 [msg ELIZABETH_1PERSON_HPTP10_2]
-Parece que est茨s en tus l胤mites tanto[n]en salud como en resistencia...
+Parece que estホs en tus lボmites tanto[n]en salud como en resistencia...
 
 [msg THEODOR_1PERSON_HPTP10_2]
-夷Por qu姻 no curas tu salud?
+メPor qu〒 no curas tu salud?
 
 [msg ELIZABETH_1PERSON_HPTP10_3]
-Se ofrecer茨 apoyo cuando regresen...[n]Theo se encargar茨 de ustedes.
+Se ofrecerホ apoyo cuando regresen...[n]Theo se encargarホ de ustedes.
 
 [msg THEODOR_1PERSON_HPTP10_3]
-Parece que apenas puedes mantenerte en[n]pie... 夷Quiz茨s deber胤as curarte a ti mismo?
+Parece que apenas puedes mantenerte en[n]pie... メQuizホs deberボas curarte a ti mismo?
 
 [msg ELIZABETH_PARTY_TP10_1]
 Para ser honesto, puede ser mejor[n]darse prisa y retroceder...
 
 [msg THEODOR_PARTY_TP10_1]
-La energ胤a de todos se est茨[n]agotando... 夷Quieres ocuparte de eso?
+La energボa de todos se estホ[n]agotando... メQuieres ocuparte de eso?
 
 [msg ELIZABETH_PARTY_TP10_2]
-Claro, podr胤as usar la habilidad final y[n]'jug茨rtela', pero regresar es m茨s seguro.
+Claro, podrボas usar la habilidad final y[n]'jugホrtela', pero regresar es mホs seguro.
 
 [msg THEODOR_PARTY_TP10_2]
-Deber胤as cambiar tu estrategia debido[n]a tu disminuci吋n de la energ胤a.
+Deberボas cambiar tu estrategia debido[n]a tu disminuciポn de la energボa.
 
 [msg ELIZABETH_PARTY_TP10_3]
-Deber胤as ahorrar el resto de tu[n]energ胤a y regresar.
+Deberボas ahorrar el resto de tu[n]energボa y regresar.
 
 [msg THEODOR_PARTY_TP10_3]
-斡Bien dicho, hermana! 斡Eso es un[n]consejo maravilloso!
+ムBien dicho, hermana! ムEso es un[n]consejo maravilloso!
 
 [msg ELIZABETH_1PERSON_HP10_1]
-Seguir presionando m茨s es imprudente.[n]Por favor, restauren su salud.
+Seguir presionando mホs es imprudente.[n]Por favor, restauren su salud.
 
 [msg THEODOR_1PERSON_HP10_1]
 Por favor, ten cuidado con tu salud.
@@ -317,64 +317,64 @@ Su salud es preocupante... Por favor,[n]no te arriesgues demasiado.
 Te pido que primero te cures.
 
 [msg ELIZABETH_1PERSON_HP10_3]
-No son tan d姻biles, Theo. Espero.
+No son tan d〒biles, Theo. Espero.
 
 [msg THEODOR_1PERSON_HP10_3]
-夷Est茨s estable en cuanto a tu salud?
+メEstホs estable en cuanto a tu salud?
 
 [msg ELIZABETH_1PERSON_TP10_1]
-Tu energ胤a ha alcanzado su l胤mite. Es[n]bastante obvio.
+Tu energボa ha alcanzado su lボmite. Es[n]bastante obvio.
 
 [msg THEODOR_1PERSON_TP10_1]
-Sugiero que cambies tus t茨cticas de[n]batalla.
+Sugiero que cambies tus tホcticas de[n]batalla.
 
 [msg ELIZABETH_1PERSON_TP10_2]
-Theo, dej姻mosles la decisi吋n.
+Theo, dej〒mosles la decisiポn.
 
 [msg THEODOR_1PERSON_TP10_2]
-夷Tienes suficiente energ胤a para esto?
+メTienes suficiente energボa para esto?
 
 [msg ELIZABETH_1PERSON_TP10_3]
-斡Lev茨ntate! 斡Vuelve a levantarte! As胤[n]es como se anima a alguien, 夷verdad?
+ムLevホntate! ムVuelve a levantarte! Asボ[n]es como se anima a alguien, メverdad?
 
 [msg THEODOR_1PERSON_TP10_3]
-夷Has abordado tus necesidades de[n]energ胤a?
+メHas abordado tus necesidades de[n]energボa?
 
 [msg ELIZABETH_ITEM_90_BATTLE]
-Los objetos que no puedas mantener deber胤an[n]ser arrojados lejos, muuuy lejos.
+Los objetos que no puedas mantener deberボan[n]ser arrojados lejos, muuuy lejos.
 
 [msg THEODOR_ITEM_90_BATTLE_1]
-斡夷Hermana?! 夷Has arrojado mis[n]posesiones m茨s preciadas?
+ムメHermana?! メHas arrojado mis[n]posesiones mホs preciadas?
 
 [msg ELIZABETH_ITEM_90_BATTLE_2]
 En cuanto a tus pertenencias, por favor,[n]deja todo eso en manos de mi indigno[n]hermano, Theo.
 
 [msg THEODOR_ITEM_90_BATTLE_2]
-夷No est茨 tu inventario un poco lleno?
+メNo estホ tu inventario un poco lleno?
 
 [msg ELIZABETH_ITEM_90_BATTLE_3]
-Te est茨s quedando sin espacio en tu[n]inventario.
+Te estホs quedando sin espacio en tu[n]inventario.
 
 [msg THEODOR_ITEM_90_BATTLE_3]
 Por favor, pasa por mi tienda si[n]necesitas ordenar tus pertenencias.
 
 [msg ELIZABETH_1PERSON_HP80_1]
-Est茨n realmente, 夷c吋mo se dice?, EN[n]RACHA.
+Estホn realmente, メcポmo se dice?, EN[n]RACHA.
 
 [msg THEODOR_1PERSON_HP80_1]
-斡Un trabajo incre胤ble, de verdad!
+ムUn trabajo increボble, de verdad!
 
 [msg ELIZABETH_1PERSON_HP80_2]
-Por favor, contin雨en adelante, como[n]en un 'golpe de uno-dos'.
+Por favor, continマen adelante, como[n]en un 'golpe de uno-dos'.
 
 [msg THEODOR_1PERSON_HP80_2]
-斡H-hermana! 斡Por favor, abstente de[n]agitar tus brazos as胤!
+ムH-hermana! ムPor favor, abstente de[n]agitar tus brazos asボ!
 
 [msg ELIZABETH_1PERSON_HP80_3]
-斡Woohoo! 斡Bien hecho!
+ムWoohoo! ムBien hecho!
 
 [msg THEODOR_1PERSON_HP80_3]
-Hermana, tal vez sea mejor que guardes tu[n]baile de alegr胤a para ti misma...
+Hermana, tal vez sea mejor que guardes tu[n]baile de alegrボa para ti misma...
 
 [msg ELIZABETH_BATTLE_CHANGE_]
 ■: [f 0 1 4]\cHFF
@@ -386,55 +386,55 @@ Hermana, tal vez sea mejor que guardes tu[n]baile de alegr胤a para ti misma...
 ■:
 
 [msg ELIZABETH_ITEM_90_DUNGEO]
-Los objetos que no puedas mantener deber胤an[n]ser arrojados lejos, muuy lejos.
+Los objetos que no puedas mantener deberボan[n]ser arrojados lejos, muuy lejos.
 
 [msg THEODOR_ITEM_90_DUNGEON_]
-斡夷Hermana?! 夷Has arrojado mis[n]posesiones m茨s preciadas?
+ムメHermana?! メHas arrojado mis[n]posesiones mホs preciadas?
 
 [msg ELIZABETH_ITEM_90_DUNGEO_2]
 En cuanto a tus pertenencias, por favor,[n]deja todo eso en manos de mi indigno[n]hermano, Theo.
 
 [msg THEODOR_ITEM_90_DUNGEON__2]
-夷No est茨 tu inventario un poco lleno?
+メNo estホ tu inventario un poco lleno?
 
 [msg ELIZABETH_ITEM_90_DUNGEO_3]
-Te est茨s quedando sin espacio en el[n]inventario muy rapido.
+Te estホs quedando sin espacio en el[n]inventario muy rapido.
 
 [msg THEODOR_ITEM_90_DUNGEON__3]
 Por favor, pasa por mi tienda si[n]necesitas ordenar tus pertenencias.
 
 [msg ELIZABETH_DUNGEON_START_]
-Los estoy oyendo llamarme, as胤 que[n]aqu胤 vamos. 斡Es... 斡Elizabeeeeth!
+Los estoy oyendo llamarme, asボ que[n]aquボ vamos. ムEs... ムElizabeeeeth!
 
 [msg THEODOR_DUNGEON_START_1]
 ...y yo, Th-Theodore, que actuaremos[n]como tu navegador.
 
 [msg ELIZABETH_DUNGEON_START__2]
-Hoy, tu gu胤a ser姻 yo misma,[n]Elizabeth...
+Hoy, tu guボa ser〒 yo misma,[n]Elizabeth...
 
 [msg THEODOR_DUNGEON_START_2]
 Y su hermano, Theodore. Por favor,[n]ten paciencia con nosotros.
 
 [msg ELIZABETH_DUNGEON_START__3]
-斡Aqu胤 viene Elizabeeeeeth!
+ムAquボ viene Elizabeeeeeth!
 
 [msg THEODOR_DUNGEON_START_3]
-Bien, entonces, empecemos nuestra[n]exploraci吋n.
+Bien, entonces, empecemos nuestra[n]exploraciポn.
 
 [msg ELIZABETH_QUEST_START_1]
-Vamos a resolver esto r茨pidamente.
+Vamos a resolver esto rホpidamente.
 
 [msg THEODOR_QUEST_START_1]
-La proyecci吋n especial ha comenzado.
+La proyecciポn especial ha comenzado.
 
 [msg ELIZABETH_QUEST_START_2]
-Comencemos la proyecci吋n especial.[n]斡Reproduciendo pel胤cula!
+Comencemos la proyecciポn especial.[n]ムReproduciendo pelボcula!
 
 [msg THEODOR_QUEST_START_2]
-Mi hermana y yo te acompa隠aremos[n]hasta el final.
+Mi hermana y yo te acompaワaremos[n]hasta el final.
 
 [msg ELIZABETH_QUEST_START_3]
-Empecemos, como dicen. Ser姻 la mejor[n]navegadora de todos los tiempos.
+Empecemos, como dicen. Ser〒 la mejor[n]navegadora de todos los tiempos.
 
 [msg THEODOR_QUEST_START_3]
 Bueno, vamos a empecemos esto.
@@ -449,88 +449,88 @@ Parece que apenas has empezado a[n]recorrer este piso.
 Este piso sigue siendo nuevo para ti.
 
 [msg THEODOR_TOUHA_25_2]
-Parece que hay mucho m茨s por venir.
+Parece que hay mucho mホs por venir.
 
 [msg ELIZABETH_TOUHA_50_1]
-Supongo que se podr胤a decir que has[n]alcanzado la mitad.
+Supongo que se podrボa decir que has[n]alcanzado la mitad.
 
 [msg THEODOR_TOUHA_50_1]
 Finalmente llegaste a la mitad.
 
 [msg ELIZABETH_TOUHA_50_2]
-S吋lo falta la mitad. Recuerda nuestro[n]prop吋sito original y sigue adelante.
+Sポlo falta la mitad. Recuerda nuestro[n]propポsito original y sigue adelante.
 
 [msg THEODOR_TOUHA_50_2]
-Has llegado a la mitad. Bueno, no[n]puedo pedir m茨s de ti.
+Has llegado a la mitad. Bueno, no[n]puedo pedir mホs de ti.
 
 [msg ELIZABETH_TOUHA_75_1]
-Casi has ganado el t胤tulo de "Maestro de[n]los pisos", si es que existe algo as胤.
+Casi has ganado el tボtulo de "Maestro de[n]los pisos", si es que existe algo asボ.
 
 [msg THEODOR_TOUHA_75_1]
 Solo queda un poco por explorar.
 
 [msg ELIZABETH_TOUHA_75_2]
-Solo un poco m茨s, y habr茨s recorrido[n]completamente este piso.
+Solo un poco mホs, y habrホs recorrido[n]completamente este piso.
 
 [msg THEODOR_TOUHA_75_2]
-斡Un poquito m茨s y este mapa estar茨[n]completo!
+ムUn poquito mホs y este mapa estarホ[n]completo!
 
 [msg ELIZABETH_TOUHA_100_1]
-斡Ta-daaaah! 夷Creo que eso es lo que se dice[n]cuando algo impresionante ocurre?
+ムTa-daaaah! メCreo que eso es lo que se dice[n]cuando algo impresionante ocurre?
 
 [msg THEODOR_TOUHA_100_1]
-斡Incre胤ble! 斡El mapa est茨 completo!
+ムIncreボble! ムEl mapa estホ completo!
 
 [msg ELIZABETH_TOUHA_100_2]
-斡Bien hecho, has dominado este piso!
+ムBien hecho, has dominado este piso!
 
 [msg THEODOR_TOUHA_100_2]
-El mapa est茨 completo. Lo has hecho[n]bien.
+El mapa estホ completo. Lo has hecho[n]bien.
 
 [msg ELIZABETH_MAPPING_ICON_A]
-Eres realmente un maestro cart吋grafo.
+Eres realmente un maestro cartポgrafo.
 
 [msg THEODOR_MAPPING_ICON_ALL]
-Est茨s dibujando el mapa con[n]precisi吋n.
+Estホs dibujando el mapa con[n]precisiポn.
 
 [msg ELIZABETH_MAPPING_ICON_A_2]
-Map-drawing: una expresi吋n de romanticismo[n]supremo. 斡Evoca verdadera aventura!
+Map-drawing: una expresiポn de romanticismo[n]supremo. ムEvoca verdadera aventura!
 
 [msg THEODOR_MAPPING_ICON_ALL_2]
-Hermana… 夷Es eso cierto…?
+Hermana… メEs eso cierto…?
 
 [msg ELIZABETH_MAPPING_ICON_K]
-斡Bien hecho! Ahora no te perder茨s.
+ムBien hecho! Ahora no te perderホs.
 
 [msg THEODOR_MAPPING_ICON_KAI]
-Tienes un excelente dominio de d吋nde[n]est茨n las escaleras.
+Tienes un excelente dominio de dポnde[n]estホn las escaleras.
 
 [msg ELIZABETH_MAPPING_ICON_K_2]
-斡Correcto! Theo, saca el premio por[n]una colocaci吋n precisa.
+ムCorrecto! Theo, saca el premio por[n]una colocaciポn precisa.
 
 [msg THEODOR_MAPPING_ICON_KAI_2]
-夷Eh? 斡Hermana, no he preparado nada[n]parecido!
+メEh? ムHermana, no he preparado nada[n]parecido!
 
 [msg ELIZABETH_MAPPING_CHANGE]
-Entonces est茨s usando ese color… Eso[n]es genial, como dicen.
+Entonces estホs usando ese color… Eso[n]es genial, como dicen.
 
 [msg THEODOR_MAPPING_CHANGE_C]
-Qu姻 incre胤ble gusto art胤stico.
+Qu〒 increボble gusto artボstico.
 
 [msg ELIZABETH_MAPPING_CHANGE_2]
-Mi coraz吋n est茨 latiendo lleno de[n]asombro por c吋mo resultar茨 este mapa.
+Mi corazポn estホ latiendo lleno de[n]asombro por cポmo resultarホ este mapa.
 
 [msg THEODOR_MAPPING_CHANGE_C_2]
-Espero con ansias ver el mapa en su[n]encarnaci吋n final y gloriosa.
+Espero con ansias ver el mapa en su[n]encarnaciポn final y gloriosa.
 
 [msg ELIZABETH_MAPPING_ICON_D]
-斡Las cosas que estorban deben ser[n]desechadas! …Algo as胤 como Theo.
+ムLas cosas que estorban deben ser[n]desechadas! …Algo asボ como Theo.
 
 [msg THEODOR_MAPPING_ICON_DEL]
-斡Hermana! 斡夷Quieres deshacerte de[n]m胤?!
+ムHermana! ムメQuieres deshacerte de[n]mボ?!
 
 [msg ELIZABETH_MAPPING_ICON_D_2]
-Entonces, 夷se puede corregir tambi姻n[n]mi bocadillo robado por Theo...?
+Entonces, メse puede corregir tambi〒n[n]mi bocadillo robado por Theo...?
 
 [msg THEODOR_MAPPING_ICON_DEL_2]
 Siempre es mejor volver y corregir[n]nuestros errores.
@@ -539,13 +539,13 @@ Siempre es mejor volver y corregir[n]nuestros errores.
 Los hombres sabios nunca olvidan[n]tomar notas.
 
 [msg THEODOR_MAPPING_MEMO_1]
-Esa atenci吋n al detalle es[n]espl姻ndida.
+Esa atenciポn al detalle es[n]espl〒ndida.
 
 [msg ELIZABETH_MAPPING_MEMO_2]
-Tal vez deber胤as escribir,[n]"ELIZABETH".
+Tal vez deberボas escribir,[n]"ELIZABETH".
 
 [msg THEODOR_MAPPING_MEMO_2]
-Ah, bien, est茨s tomando nota.
+Ah, bien, estホs tomando nota.
 
 [msg ELIZABETH_DOOR_OPEN_1]
 ↑
@@ -557,20 +557,20 @@ Ah, bien, est茨s tomando nota.
 ↑
 
 [msg ELIZABETH_KARITORU_ENCOU]
-斡El Segador ha hecho su gran entrada!
+ムEl Segador ha hecho su gran entrada!
 
 [msg THEODOR_KARITORU_ENCOUNT]
-Ojal茨 esto no fuera verdad, 斡pero[n]viene el Segador!
+Ojalホ esto no fuera verdad, ムpero[n]viene el Segador!
 
 [msg ELIZABETH_KARITORU_ENCOU_2]
-Con mis o胤dos incre胤bles, puedo[n]escuchar al Segador llamando.
+Con mis oボdos increボbles, puedo[n]escuchar al Segador llamando.
 
 [msg THEODOR_KARITORU_ENCOUNT_2]
-Llega el Segador. 斡Por favor, ten[n]cuidado!
+Llega el Segador. ムPor favor, ten[n]cuidado!
 
 [msg ELIZABETH_KARITORU_ENCOU_3]
-Ese sonido... S吋lo puede ser el[n]Segador.
+Ese sonido... Sポlo puede ser el[n]Segador.
 
 [msg THEODOR_KARITORU_ENCOUNT_3]
-Estoy sintiendo algo, 斡y es el[n]Segador!
+Estoy sintiendo algo, ムy es el[n]Segador!
 

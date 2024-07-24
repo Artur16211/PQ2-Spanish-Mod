@@ -1,12 +1,12 @@
 [msg MSG_000 [Elizabeth]]
-Perm胤teme explicarte los conceptos[n]b茨sicos de [f 0 1 2]comunicarte con otros mundos[f 0 1 0].
+Permボteme explicarte los conceptos[n]bホsicos de [f 0 1 2]comunicarte con otros mundos[f 0 1 0].
 Hay innumerables otros mundos que[n]existen en paralelo a este...
 Y de hecho, innumerables versiones paralelas[n]de ti mismo. Incluso ahora, buscan contactarte[n]desde sus propios mundos.
-Si deseas comunicarte con estas otras[n]versiones de ti, necesitar茨s el [f 0 1 2]Libro[f 0 1 0].
-La informaci吋n de tu equipo y una[n]Persona Secundaria pueden incluirse en[n]el Libro.
-Cuando intercambias un Libro con otro[n]"t雨",[f 0 1 2] ambos podr茨n invocar las Personas[n]Secundarias dentro de los Libros[f 0 1 0].
-Usar esta habilidad te dar茨 la[n]oportunidad de obtener Personas[n]Secundarias poderosas.
-Ahora bien, debes decidir un nombre para[n]diferenciarte de los otros "t雨".
-Ser茨 un nombre para el Libro... As胤 que[n]esto ser茨 conocido como tu [f 0 1 2]Nombre de[n]Libro[f 0 1 0].
-Puedes cambiarlo f茨cilmente m茨s tarde,[n]as胤 que pon el que m茨s te guste.
+Si deseas comunicarte con estas otras[n]versiones de ti, necesitarホs el [f 0 1 2]Libro[f 0 1 0].
+La informaciポn de tu equipo y una[n]Persona Secundaria pueden incluirse en[n]el Libro.
+Cuando intercambias un Libro con otro[n]"tマ",[f 0 1 2] ambos podrホn invocar las Personas[n]Secundarias dentro de los Libros[f 0 1 0].
+Usar esta habilidad te darホ la[n]oportunidad de obtener Personas[n]Secundarias poderosas.
+Ahora bien, debes decidir un nombre para[n]diferenciarte de los otros "tマ".
+Serホ un nombre para el Libro... Asボ que[n]esto serホ conocido como tu [f 0 1 2]Nombre de[n]Libro[f 0 1 0].
+Puedes cambiarlo fホcilmente mホs tarde,[n]asボ que pon el que mホs te guste.
 

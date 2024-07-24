@@ -1,14 +1,14 @@
 [msg HARU_FOE_FOLLOW_START_1]
-斡Oh, cielos! 斡Nos han visto!
+ムOh, cielos! ムNos han visto!
 
 [msg HARU_FOE_FOLLOW_START_2]
-斡Nos siguen, chicos!
+ムNos siguen, chicos!
 
 [msg HARU_FOE_FOLLOW_START_3]
-斡FOE se dirige a nuestro camino!
+ムFOE se dirige a nuestro camino!
 
 [msg HARU_FOE_NEAR_1]
-斡Shhh! Est茨 ah胤...
+ムShhh! Estホ ahボ...
 
 [msg HARU_FOE_NEAR_2]
 Con cuidado.
@@ -20,13 +20,13 @@ Por favor, no dejes que nos vea...
 Eso estuvo tan cerca...
 
 [msg HARU_FOE_FOLLOW_END_2]
-斡Nos escapamos, nos escapamos!
+ムNos escapamos, nos escapamos!
 
 [msg HARU_FOE_FOLLOW_END_3]
-*risa* 斡Parece que ganamos al final!
+*risa* ムParece que ganamos al final!
 
 [msg HARU_KANSI_REACTION_1]
-斡Cuidado!
+ムCuidado!
 
 [msg HARU_KANSI_REACTION_2]
 Andemos de puntillas...
@@ -38,37 +38,37 @@ Me estoy poniendo nerviosa.
 Esto... puede ser un poco excesivo[n]para mantener alejados a los cuervos.
 
 [msg HARU_DENKISAKU_REACTION__2]
-Me pregunto cu茨l es el voltaje...
+Me pregunto cuホl es el voltaje...
 
 [msg HARU_DENKISAKU_REACTION__3]
 Tenemos que apagar la electricidad[n]primero...
 
 [msg HARU_KYOUHU_REACTION_1]
-斡Whoa!
+ムWhoa!
 
 [msg HARU_KYOUHU_REACTION_2]
-斡Ay!
+ムAy!
 
 [msg HARU_KYOUHU_REACTION_3]
-斡Ahh!
+ムAhh!
 
 [msg HARU_STAIR_FIND_1]
-斡Oh! Es el camino hacia la siguiente[n]茨rea.
+ムOh! Es el camino hacia la siguiente[n]ホrea.
 
 [msg HARU_STAIR_FIND_2]
-斡Yay! Podemos ir al siguiente piso.
+ムYay! Podemos ir al siguiente piso.
 
 [msg HARU_STAIR_FIND_3]
-斡Solo imagina c吋mo ser茨 la pr吋xima[n]茨rea!
+ムSolo imagina cポmo serホ la prポxima[n]ホrea!
 
 [msg HARU_TREASURE_FIND_1]
-斡Un cofre del tesoro!
+ムUn cofre del tesoro!
 
 [msg HARU_TREASURE_FIND_2]
 Es un cofre del tesoro, vamos a[n]abrirlo!
 
 [msg HARU_TREASURE_FIND_3]
-夷Es ese un tesoro?
+メEs ese un tesoro?
 
 [msg HARU_CHECK_WALL_1]
 Hmm... Algo parece sospechoso...
@@ -77,85 +77,85 @@ Hmm... Algo parece sospechoso...
 Echemos un vistazo a esa zona.
 
 [msg HARU_CHECK_WALL_3]
-Oye, 夷qu姻 crees que es eso...?
+Oye, メqu〒 crees que es eso...?
 
 [msg HARU_SWITCH_FIND_1]
 Mira, un interruptor.
 
 [msg HARU_SWITCH_FIND_2]
-夷Crees que deber胤amos usar el[n]interruptor?
+メCrees que deberボamos usar el[n]interruptor?
 
 [msg HARU_SWITCH_FIND_3]
 Oh, hola, interruptor.
 
 [msg HARU_SHORTCUT_FIND_1]
-斡Un atajo!
+ムUn atajo!
 
 [msg HARU_SHORTCUT_FIND_2]
-夷Es un atajo?
+メEs un atajo?
 
 [msg HARU_SHORTCUT_FIND_3]
-夷Encontramos un atajo?
+メEncontramos un atajo?
 
 [msg HARU_PARTY_DEAD_1]
-【パー.斡O半分以上が死zHいr】 4ミーメ7セージ１
+【パー.ムO半分以上が死zHいr】 4ミーメ7セージ１
 
 [msg HARU_PARTY_DEAD_2]
-【パー.斡ーO半分以上が死zHいr】 4ミーメ7セージ２
+【パー.ムーO半分以上が死zHいr】 4ミーメ7セージ２
 
 [msg HARU_PARTY_DEAD_3]
-【パー.斡ーO半分以上が死zHいr】 4ミーメ7セージ３
+【パー.ムーO半分以上が死zHいr】 4ミーメ7セージ３
 
 [msg HARU_FOE_WARNING_NEAR_1]
-斡夷Todav胤a no se ha dado por vencido?!
+ムメTodavボa no se ha dado por vencido?!
 
 [msg HARU_FOE_WARNING_NEAR_2]
-斡Chicos, todav胤a nos sigue!
+ムChicos, todavボa nos sigue!
 
 [msg HARU_FOE_WARNING_NEAR_3]
-Sin duda, no se rinde f茨cilmente.
+Sin duda, no se rinde fホcilmente.
 
 [msg HARU_PARTY_HPTP10_1]
-【パー.斡全体OＨＰＴＰが１０％以下】 4ミーメ7セージ１
+【パー.ム全体OＨＰＴＰが１０％以下】 4ミーメ7セージ１
 
 [msg HARU_PARTY_HPTP10_2]
-【パー.斡全体OＨＰＴＰが１０％以下】 4ミーメ7セージ２
+【パー.ム全体OＨＰＴＰが１０％以下】 4ミーメ7セージ２
 
 [msg HARU_PARTY_HPTP10_3]
-【パー.斡全体OＨＰＴＰが１０％以下】 4ミーメ7セージ３
+【パー.ム全体OＨＰＴＰが１０％以下】 4ミーメ7セージ３
 
 [msg HARU_PARTY_HP10_1]
-【パー.斡全体OＨＰが１０％以下】 4ミーメ7セージ１
+【パー.ム全体OＨＰが１０％以下】 4ミーメ7セージ１
 
 [msg HARU_PARTY_HP10_2]
-【パー.斡全体OＨＰが１０％以下】 4ミーメ7セージ２
+【パー.ム全体OＨＰが１０％以下】 4ミーメ7セージ２
 
 [msg HARU_PARTY_HP10_3]
-【パー.斡全体OＨＰが１０％以下】 4ミーメ7セージ３
+【パー.ム全体OＨＰが１０％以下】 4ミーメ7セージ３
 
 [msg HARU_1PERSON_HPTP10_1]
-Um, 夷Alguien puede curarme?
+Um, メAlguien puede curarme?
 
 [msg HARU_1PERSON_HPTP10_2]
-Disculpa, 夷pero podemos descansar...?
+Disculpa, メpero podemos descansar...?
 
 [msg HARU_1PERSON_HPTP10_3]
 Lo siento, no creo que pueda[n]seguir...
 
 [msg HARU_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg HARU_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg HARU_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg HARU_1PERSON_HP10_1]
 Necesito sanar pronto...
 
 [msg HARU_1PERSON_HP10_2]
-Esto es muy dif胤cil para m胤 ahora...
+Esto es muy difボcil para mボ ahora...
 
 [msg HARU_1PERSON_HP10_3]
 No estoy en la mejor forma...
@@ -164,7 +164,7 @@ No estoy en la mejor forma...
 Lo intento pero... Apenas puedo[n]permanecer despierta.
 
 [msg HARU_1PERSON_TP10_2]
-Caminar es dif胤cil para m胤 en mi[n]estado...
+Caminar es difボcil para mボ en mi[n]estado...
 
 [msg HARU_1PERSON_TP10_3]
 Es posible que me haya esforzado[n]demasiado...
@@ -179,13 +179,13 @@ Es posible que me haya esforzado[n]demasiado...
 【justificadamente
 
 [msg HARU_1PERSON_HP80_1]
-斡Estoy lista si ustedes est茨n listos!
+ムEstoy lista si ustedes estホn listos!
 
 [msg HARU_1PERSON_HP80_2]
-*risa* 斡Creo que hoy estoy imparable!
+*risa* ムCreo que hoy estoy imparable!
 
 [msg HARU_1PERSON_HP80_3]
-斡Todos est茨n tan en姻rgicos!
+ムTodos estホn tan en〒rgicos!
 
 [msg HARU_BATTLE_CHANGE_DUNGE]
 ■: [f 0 1 4]\cHFF
@@ -197,101 +197,101 @@ Es posible que me haya esforzado[n]demasiado...
 ■:
 
 [msg HARU_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg HARU_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg HARU_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg HARU_DUNGEON_START_1]
-斡Una nueva investigaci吋n fresca!
+ムUna nueva investigaciポn fresca!
 
 [msg HARU_DUNGEON_START_2]
-*risa* Esto est茨 empezando a ser[n]divertido.
+*risa* Esto estホ empezando a ser[n]divertido.
 
 [msg HARU_DUNGEON_START_3]
-Estoy emocionada de ver qu姻 pasar茨.
+Estoy emocionada de ver qu〒 pasarホ.
 
 [msg HARU_QUEST_START_1]
-夷Todos listos?
+メTodos listos?
 
 [msg HARU_QUEST_START_2]
-斡Voy a hacer mi mejor esfuerzo!
+ムVoy a hacer mi mejor esfuerzo!
 
 [msg HARU_QUEST_START_3]
-斡Listo, listo, vamos!
+ムListo, listo, vamos!
 
 [msg HARU_TOUHA_25_1]
-斡Estoy tan emocionada de ver la[n]versi吋n final!
+ムEstoy tan emocionada de ver la[n]versiポn final!
 
 [msg HARU_TOUHA_25_2]
-斡Est茨 empezando a parecer un mapa!
+ムEstホ empezando a parecer un mapa!
 
 [msg HARU_TOUHA_50_1]
-斡A mitad de camino!
+ムA mitad de camino!
 
 [msg HARU_TOUHA_50_2]
-斡Uf, a mitad de camino!
+ムUf, a mitad de camino!
 
 [msg HARU_TOUHA_75_1]
-夷Ya casi terminamos?
+メYa casi terminamos?
 
 [msg HARU_TOUHA_75_2]
-Casi terminamos, 斡lo tenemos!
+Casi terminamos, ムlo tenemos!
 
 [msg HARU_TOUHA_100_1]
-斡Hurra! 斡Terminamos el mapa!
+ムHurra! ムTerminamos el mapa!
 
 [msg HARU_TOUHA_100_2]
-斡Miren! 斡Result吋 un mapa maravilloso!
+ムMiren! ムResultポ un mapa maravilloso!
 
 [msg HARU_MAPPING_ICON_ALL_1]
-斡Vaya! 斡Est茨 muy bien!
+ムVaya! ムEstホ muy bien!
 
 [msg HARU_MAPPING_ICON_ALL_2]
 Lo dibujaste muy bien.
 
 [msg HARU_MAPPING_ICON_KAIDAN]
-Esa es una representaci吋n precisa.
+Esa es una representaciポn precisa.
 
 [msg HARU_MAPPING_ICON_KAIDAN_2]
-Mmhm, as胤 es como lo recuerdo.
+Mmhm, asボ es como lo recuerdo.
 
 [msg HARU_MAPPING_CHANGE_COLO]
-*risa* A隠adiendo un toque personal,[n]夷verdad?
+*risa* Aワadiendo un toque personal,[n]メverdad?
 
 [msg HARU_MAPPING_CHANGE_COLO_2]
-Oh, 夷Cambiando el color?
+Oh, メCambiando el color?
 
 [msg HARU_MAPPING_ICON_DEL_1]
-夷Lo vas a quitar?
+メLo vas a quitar?
 
 [msg HARU_MAPPING_ICON_DEL_2]
-S胤, eliminemos eso.
+Sボ, eliminemos eso.
 
 [msg HARU_MAPPING_MEMO_1]
-斡Qu姻 hermoso!
+ムQu〒 hermoso!
 
 [msg HARU_MAPPING_MEMO_2]
 Excelente, no lo olvidaremos si lo[n]anotamos.
 
 [msg HARU_DOOR_OPEN_1]
-斡Por aqu胤!
+ムPor aquボ!
 
 [msg HARU_DOOR_OPEN_2]
-夷Listo? Vamos.
+メListo? Vamos.
 
 [msg HARU_DOOR_OPEN_3]
-*risa* 斡Vamos! 斡R茨pido!
+*risa* ムVamos! ムRホpido!
 
 [msg HARU_KARITORU_ENCOUNT_1]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg HARU_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg HARU_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

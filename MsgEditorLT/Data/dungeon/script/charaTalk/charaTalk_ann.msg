@@ -16,58 +16,58 @@ Volver
 Cancelar
 
 [msg MSG_000 [Ann]]
-斡Oye! 斡Parece que podemos recolectar[n]cosas aqu胤! 夷Cu茨l es el plan?
+ムOye! ムParece que podemos recolectar[n]cosas aquボ! メCuホl es el plan?
 
 [msg MSG_001 [Ann]]
-斡De acuerdo! 斡Mantengamos nuestros ojos[n]abiertos para cualquier Sombra!
+ムDe acuerdo! ムMantengamos nuestros ojos[n]abiertos para cualquier Sombra!
 
 [msg MSG_002 [Ann]]
-斡Suena bien! 斡Enfoqu姻monos en[n]recolectar!
+ムSuena bien! ムEnfoqu〒monos en[n]recolectar!
 
 [msg MSG_003 [Ann]]
-Parece arriesgado. Tal vez deber胤amos[n]volver m茨s tarde.
+Parece arriesgado. Tal vez deberボamos[n]volver mホs tarde.
 
 [msg MSG_004 [Ann]]
 Parece que eso es todo.
 
 [msg MSG_005]
-斡Esto es nuestro!
+ムEsto es nuestro!
 
 [msg MSG_006]
-斡Muy bien!
+ムMuy bien!
 
 [msg MSG_007]
-斡Yay!
+ムYay!
 
 [msg MSG_008 [Ann]]
-E-eso fue espeluznante. Vamos a parar[n]aqu胤.
+E-eso fue espeluznante. Vamos a parar[n]aquボ.
 
 [msg MSG_009]
-斡Bastante genial, 夷verdad?!
+ムBastante genial, メverdad?!
 
 [msg MSG_010]
-斡La situaci吋n se est茨 poniendo intensa!
+ムLa situaciポn se estホ poniendo intensa!
 
 [msg MSG_011]
-斡Bien!
+ムBien!
 
 [msg MSG_012 [Ann]]
-斡Oh! 斡Veo un atajo! 夷Deber胤amos pasar[n]por aqu胤?
+ムOh! ムVeo un atajo! メDeberボamos pasar[n]por aquボ?
 
 [msg MSG_013 [Ann]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Ann]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Ann]]
-Parece que no podemos pasar por aqu胤.
+Parece que no podemos pasar por aquボ.
 
 [msg MSG_016 [Ann]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Ann]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Ann]]
 O-oye, tengo un mal presentimiento sobre[n]este lugar.
@@ -76,26 +76,26 @@ O-oye, tengo un mal presentimiento sobre[n]este lugar.
 B-bien... Entendido.
 
 [msg MSG_020 [Ann]]
-S胤, probablemente deber胤amos hacerlo[n]ahora.
+Sボ, probablemente deberボamos hacerlo[n]ahora.
 
 [msg MSG_021 [Ann]]
-Uf... Pens姻 que eso era todo para[n]nosotros.
+Uf... Pens〒 que eso era todo para[n]nosotros.
 
 [msg MSG_022 [Ann]]
-夷No hay como un mont吋n de Sombras aqu胤?[n]夷Qu姻 deber胤amos hacer?
+メNo hay como un montポn de Sombras aquボ?[n]メQu〒 deberボamos hacer?
 
 [msg MSG_023 [Ann]]
-斡De acuerdo! 斡Seamos cuidadosos!
+ムDe acuerdo! ムSeamos cuidadosos!
 
 [msg MSG_024 [Ann]]
-S胤, probablemente deber胤amos hacerlo.
+Sボ, probablemente deberボamos hacerlo.
 
 [msg MSG_025 [Ann]]
 Uf... Eso estuvo cerca.
 
 [msg MSG_026 [Ann]]
-Este camino nos lleva de vuelta al cine,[n]夷no? 夷Nos vamos?
+Este camino nos lleva de vuelta al cine,[n]メno? メNos vamos?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

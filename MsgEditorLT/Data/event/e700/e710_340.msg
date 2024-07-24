@@ -1,7 +1,7 @@
 [msg MSG_000 [Ann]]
-斡Mierda! 斡No podemos avanzar con esas[n]luces de b雨squeda!
+ムMierda! ムNo podemos avanzar con esas[n]luces de bマsqueda!
 
 [msg MSG_001 [Morgana]]
-Oye, 夷no podr胤amos avanzar si usamos ese[n]interruptor direccional de antes?
-斡Vamos a probarlo!
+Oye, メno podrボamos avanzar si usamos ese[n]interruptor direccional de antes?
+ムVamos a probarlo!
 

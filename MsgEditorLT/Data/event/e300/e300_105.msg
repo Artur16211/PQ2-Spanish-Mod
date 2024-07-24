@@ -6,55 +6,55 @@ Mitsuru parece estar perdida en sus[n]pensamientos...
 Dime, [f 6 1 26 0 0 0]... sobre tu mundo...
 
 [msg MSG_001 [Yukari]]
-Ella fue al ba隠o.
+Ella fue al baワo.
 
 [msg MSG_002 [Mitsuru]]
 Ya veo... *suspiro*
 
 [msg MSG_003 [Akihiko]]
-Pareces deca胤do. Quiero decir, puedo[n]entender por qu姻...
+Pareces decaボdo. Quiero decir, puedo[n]entender por qu〒...
 
 [msg MSG_004 [Junpei]]
-Si [f 6 1 27 0 0 0] est茨 diciendo la verdad,[n]entonces todo esto se parece a雨n m茨s a[n]una historia de ciencia ficci吋n.
-夷No significa que hay otro "yo" en alg雨n[n]lugar?
+Si [f 6 1 27 0 0 0] estホ diciendo la verdad,[n]entonces todo esto se parece aマn mホs a[n]una historia de ciencia ficciポn.
+メNo significa que hay otro "yo" en algマn[n]lugar?
 
 [msg MSG_005 [Ken]]
-He pensado en ese tipo de cosas antes,[n]pero... 夷Es realmente posible?
+He pensado en ese tipo de cosas antes,[n]pero... メEs realmente posible?
 
 [msg MSG_006 [Junpei]]
 Otro yo...
-斡夷Qu姻 pasa si ESE yo es un modelo[n]completamente apuesto y exitoso con las[n]mujeres?!
+ムメQu〒 pasa si ESE yo es un modelo[n]completamente apuesto y exitoso con las[n]mujeres?!
 
 [msg MSG_007 [Yukari]]
-No hay forma de que sea as胤. La 雨nica[n]manera es si fueras reencarnado como[n]otra persona.
-Adem茨s, considerando la forma en la que[n]te habl吋, dudo que seas diferente en su[n]mundo.
+No hay forma de que sea asボ. La マnica[n]manera es si fueras reencarnado como[n]otra persona.
+Ademホs, considerando la forma en la que[n]te hablポ, dudo que seas diferente en su[n]mundo.
 
 [msg MSG_008 [Fuuka]]
-Hay algo que olvid姻 mencionar...
-Cuando los Ladrones Fantasma y el Equipo[n]de Investigaci吋n llegaron a nuestro[n]rescate en la pel胤cula...
-Por un momento, Luc胤a confundi吋 a [f 6 1 27 0 0 0][n]como nuestro l胤der.
+Hay algo que olvid〒 mencionar...
+Cuando los Ladrones Fantasma y el Equipo[n]de Investigaciポn llegaron a nuestro[n]rescate en la pelボcula...
+Por un momento, Lucボa confundiポ a [f 6 1 27 0 0 0][n]como nuestro lボder.
 
 [msg MSG_009 [Mitsuru]]
-夷Qu姻?
+メQu〒?
 
 [msg MSG_010 [Junpei]]
-Oh, s胤, pero... Su personalidad es[n]diferente, pero tiene, como... 夷Una[n]vibra similar, de alguna manera?
-Me recuerda a nuestro l胤der. No puedo[n]explicarlo.
+Oh, sボ, pero... Su personalidad es[n]diferente, pero tiene, como... メUna[n]vibra similar, de alguna manera?
+Me recuerda a nuestro lボder. No puedo[n]explicarlo.
 
 [msg MSG_011 [Yukari]]
-S胤. Se supone que esta es la primera vez que[n]la veo, pero se siente tan natural tenerla[n]cerca... Me pregunto por qu姻 ser茨.
+Sボ. Se supone que esta es la primera vez que[n]la veo, pero se siente tan natural tenerla[n]cerca... Me pregunto por qu〒 serホ.
 
 [msg MSG_012 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_013 [Ken]]
-Parece que Koromaru est茨 de acuerdo[n]contigo.
+Parece que Koromaru estホ de acuerdo[n]contigo.
 
 [msg MSG_014 [Shinjiro]]
-Bueno, no vamos a descubrir nada[n]qued茨ndonos parados. Solo tr茨tala como a[n]todos los dem茨s y estaremos bien.
+Bueno, no vamos a descubrir nada[n]quedホndonos parados. Solo trホtala como a[n]todos los demホs y estaremos bien.
 
 [msg MSG_015 [Mitsuru]]
-Tienes raz吋n. En cualquier caso,[n]necesitamos priorizar el rescate de[n]nuestro l胤der y Aigis.
+Tienes razポn. En cualquier caso,[n]necesitamos priorizar el rescate de[n]nuestro lボder y Aigis.
 
 [msg MSG_016]
 ve a los estudiantes del Instituto[n]Gekkoukan desde lejos...
@@ -66,49 +66,49 @@ ve a los estudiantes del Instituto[n]Gekkoukan desde lejos...
 ...
 
 [msg MSG_019 [P3 Fem Protag]]
-斡Ah! 斡Oh, me asustaste...
-Lo siento, me desconect姻 un poco... Je,[n]je, je. Pero, 夷qu姻 pasa?
+ムAh! ムOh, me asustaste...
+Lo siento, me desconect〒 un poco... Je,[n]je, je. Pero, メqu〒 pasa?
 
 [msg MSG_020 [Ryuji]]
-夷Por qu姻 no te unes a ellos, a menos que[n]sea demasiado inc吋modo...
+メPor qu〒 no te unes a ellos, a menos que[n]sea demasiado incポmodo...
 
 [msg MSG_021 [Yosuke]]
-Quiero decir, puedo entender por qu姻[n]est茨n tan confundidos...
-Pero cuando pienso en como est茨 haciendo[n]sentir a [f 6 1 27 0 0 0], es simplemente[n]desgarrador.
+Quiero decir, puedo entender por qu〒[n]estホn tan confundidos...
+Pero cuando pienso en como estホ haciendo[n]sentir a [f 6 1 27 0 0 0], es simplemente[n]desgarrador.
 
 [msg MSG_022 [P3 Fem Protag]]
-斡Ja, ja, ja! Estoy bien, cosas como[n]universos paralelos son tan de ciencia[n]ficci吋n.
+ムJa, ja, ja! Estoy bien, cosas como[n]universos paralelos son tan de ciencia[n]ficciポn.
 
 [sel SEL_023 top]
 No te preocupes.
-Estamos aqu胤 para ti.
+Estamos aquボ para ti.
 
 [msg MSG_024 [P3 Fem Protag]]
-*risa* Gracias... Est茨s tratando de[n]animarme, 夷verdad?
+*risa* Gracias... Estホs tratando de[n]animarme, メverdad?
 
 [msg MSG_025 [Hikari]]
-Bueno, [f 6 1 26 0 0 0], estabas tan preocupado[n]por tus compa隠eros...
+Bueno, [f 6 1 26 0 0 0], estabas tan preocupado[n]por tus compaワeros...
 
 [msg MSG_026 [P3 Fem Protag]]
 Gracias, todos son muy amables...
-Pero, incluso si no me conocen, siguen[n]siendo preciados compa隠eros para m胤.
-Eso nunca cambiar茨, y no quiero que lo[n]haga.
-斡Por eso har姻 mi mayor esfuerzo para[n]encontrar a su l胤der y Aigis!
+Pero, incluso si no me conocen, siguen[n]siendo preciados compaワeros para mボ.
+Eso nunca cambiarホ, y no quiero que lo[n]haga.
+ムPor eso har〒 mi mayor esfuerzo para[n]encontrar a su lボder y Aigis!
 
 [msg MSG_027 [Hikari]]
 ...Eres tan fuerte, [f 6 1 26 0 0 0].
 
 [msg MSG_028 [P3 Fem Protag]]
-*risa* 夷T雨 crees? Probablemente, sea[n]porque tengo a todos aqu胤 apoy茨ndome.
-Si estuviera sola, no habr胤a podido[n]llegar hasta aqu胤.
+*risa* メTマ crees? Probablemente, sea[n]porque tengo a todos aquボ apoyホndome.
+Si estuviera sola, no habrボa podido[n]llegar hasta aquボ.
 
 [msg MSG_029 [Hikari]]
-斡...!
-S胤, yo tambi姻n... Me alegro de[n]conocerlos a todos...
+ム...!
+Sボ, yo tambi〒n... Me alegro de[n]conocerlos a todos...
 
 [msg MSG_030 [P3 Fem Protag]]
-斡Muy bien! Seguir姻 dando lo mejor de m胤[n]all胤, 斡solo esperen y ver茨n!
+ムMuy bien! Seguir〒 dando lo mejor de mボ[n]allボ, ムsolo esperen y verホn!
 
 [msg MSG_031 [Hikari]]
-斡Mmm!
+ムMmm!
 

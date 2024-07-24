@@ -2,22 +2,22 @@
 Dummy
 
 [msg BTL_MES_004_001]
-No perder姻, 斡porque no podemos perder ahora!
+No perder〒, ムporque no podemos perder ahora!
 
 [msg BTL_MES_004_002]
 ＜声Of＞oぉーし！ kDGkrかzN！
 
 [msg BTL_MES_004_003]
-斡Ah! 斡Un FOE! 斡Yo digo que escapemos!
+ムAh! ムUn FOE! ムYo digo que escapemos!
 
 [msg BTL_MES_004_004]
 ＜声Of＞Sえ…！ ささDI撤退しo！
 
 [msg BTL_MES_004_005]
-斡GANAREMOS! 斡D姻mosles una paliza!
+ムGANAREMOS! ムD〒mosles una paliza!
 
 [msg BTL_MES_004_006]
-斡Carne rara! Quiero decir... 斡Sombra rara!
+ムCarne rara! Quiero decir... ムSombra rara!
 
 [msg BTL_MES_004_007]
 ＜声Of＞待G待G待Gー！ 逃がさーz！
@@ -32,31 +32,31 @@ No perder姻, 斡porque no podemos perder ahora!
 ＜声Of＞あqがI、風花Bjz！ 了解したぞo！
 
 [msg BTL_MES_004_011]
-斡Eeep! 斡Este va a ser dif胤cil!
+ムEeep! ムEste va a ser difボcil!
 
 [msg BTL_MES_004_012]
 ＜声Of＞Jーz、IWD飛QしBjう？ DG、調子LOrIヤバいかi…
 
 [msg BTL_MES_004_013]
-斡Oh! Nunca hab胤amos visto esa antes. 夷Deber胤amos buscar su debilidad?
+ムOh! Nunca habボamos visto esa antes. メDeberボamos buscar su debilidad?
 
 [msg BTL_MES_004_014]
 ＜声Of＞おDけー！ kDGkt！
 
 [msg BTL_MES_004_015]
-斡Lo tenemos! 斡S胤!
+ムLo tenemos! ムSボ!
 
 [msg BTL_MES_004_016]
 ＜声Of＞qnーかい！ いDくぞー！
 
 [msg BTL_MES_004_017]
-Esto no ser茨 problema. Apuesto a que ni siquiera sudaremos.
+Esto no serホ problema. Apuesto a que ni siquiera sudaremos.
 
 [msg BTL_MES_004_018]
-＜声Of＞威5ョー！威5ャ5ャ5ャ5ャ！
+＜声Of＞ミ5ョー！ミ5ャ5ャ5ャ5ャ！
 
 [msg BTL_MES_004_019]
-斡夷Qu姻...?! 夷La Sombra cambi吋...?
+ムメQu〒...?! メLa Sombra cambiポ...?
 
 [msg BTL_MES_004_020]
 ＜声Of＞えええええ！？ マジDすか！？
@@ -65,10 +65,10 @@ Esto no ser茨 problema. Apuesto a que ni siquiera sudaremos.
 ＜声Of＞BnD、こpーD！ KL来GzADEO！
 
 [msg BTL_MES_004_022]
-Oh... 斡Esto no es bueno!
+Oh... ムEsto no es bueno!
 
 [msg BTL_MES_004_023]
-＜声Of＞こs…かKqヤバ姻気がすr…
+＜声Of＞こs…かKqヤバ〒気がすr…
 
 [msg BTL_MES_004_024]
 ＜声Of＞BnDIBnDI！ KzIかしKいI！
@@ -113,7 +113,7 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞4ミー
 
 [msg BTL_MES_004_038]
-＜声Of＞威姻/スがピン5Ddい！ フ隠ローしKきj！
+＜声Of＞ミ〒/スがピン5Ddい！ フワローしKきj！
 
 [msg BTL_MES_004_039]
 ＜声Of＞Jうしoう、乾くzが！ 回復しKきjAo！
@@ -128,10 +128,10 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞うvD、たいYz！ KzIか治療しGあげKいI…
 
 [msg BTL_MES_004_043]
-＜声Of＞ジョー吋ーがピン5Ao！ 回復しKくBj！
+＜声Of＞ジョーポーがピン5Ao！ 回復しKくBj！
 
 [msg BTL_MES_004_044]
-＜声Of＞うv、kQD！ ス吋ル、しDかq！
+＜声Of＞うv、kQD！ スポル、しDかq！
 
 [msg BTL_MES_004_045]
 ＜声Of＞パンサー、しDかq！ 早くKzIかしKいI…！
@@ -140,10 +140,10 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞おvD、モ)が…！ KおしGあげKいI！
 
 [msg BTL_MES_004_047]
-＜声Of＞ヤ7バ！ フ隠7クス、しDかq！
+＜声Of＞ヤ7バ！ フワ7クス、しDかq！
 
 [msg BTL_MES_004_048]
-＜声Of＞ああD、ク姻ーンが！ 回復が必要そうAo！
+＜声Of＞ああD、ク〒ーンが！ 回復が必要そうAo！
 
 [msg BTL_MES_004_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞kQD、ノワールが！ KzIかしKいI！
 
 [msg BTL_MES_004_051]
-＜声Of＞うDそ！ クロ胤、しDかqしGー！
+＜声Of＞うDそ！ クロボ、しDかqしGー！
 
 [msg BTL_MES_004_052]
 ＜声Of＞ぜーzW、eIhG WDIQしBjうかpN！
 
 [msg BTL_MES_004_053]
-斡Hwataaa! 斡Los patear姻 a todos en la cara!
+ムHwataaa! ムLos patear〒 a todos en la cara!
 
 [msg BTL_MES_004_054]
 ＜声Of＞VDVDV！ (ン(ンこいDGO！
 
 [msg BTL_MES_004_055]
-斡Usemos su debilidad en su contra, chicos!
+ムUsemos su debilidad en su contra, chicos!
 
 [msg BTL_MES_004_056]
-斡夷Deber胤amos usar relevo?!
+ムメDeberボamos usar relevo?!
 
 [msg BTL_MES_004_057]
-斡Oh, yo, yo! 斡Chie Satonaka, lista!
+ムOh, yo, yo! ムChie Satonaka, lista!
 
 [msg BTL_MES_004_058]
 ＜声Of＞そO漢気、見せGfo！
@@ -215,7 +215,7 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞4ミー
 
 [msg BTL_MES_004_072]
-＜声Of＞威姻/ス いDけえええ！
+＜声Of＞ミ〒/ス いDけえええ！
 
 [msg BTL_MES_004_073]
 ＜声Of＞乾くzL任せrD！
@@ -230,10 +230,10 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞おおD、kr気fたいAN！ いけいけゴー！
 
 [msg BTL_MES_004_077]
-＜声Of＞頼zAo、ジョー吋ー！
+＜声Of＞頼zAo、ジョーポー！
 
 [msg BTL_MES_004_078]
-＜声Of＞いいN！ ス吋ル、いDBjえー！
+＜声Of＞いいN！ スポル、いDBjえー！
 
 [msg BTL_MES_004_079]
 ＜声Of＞パンサー、任せたD！
@@ -242,10 +242,10 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞モー)ー！ WD飛Qせー！
 
 [msg BTL_MES_004_081]
-＜声Of＞頼iしいぞー！フ隠7クスー！
+＜声Of＞頼iしいぞー！フワ7クスー！
 
 [msg BTL_MES_004_082]
-＜声Of＞ク姻ーン！お願いND！
+＜声Of＞ク〒ーン！お願いND！
 
 [msg BTL_MES_004_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Oh... 斡Esto no es bueno!
 ＜声Of＞ノワール！ (ーンIいDBjえ！
 
 [msg BTL_MES_004_085]
-＜声Of＞いいぞー！ クロ胤、kDBjえー！
+＜声Of＞いいぞー！ クロボ、kDBjえー！
 
 [msg BTL_MES_004_086]
-斡Hwa-cha! 斡No soy la misma Chie de antes! 斡M胤rame ahora!
+ムHwa-cha! ムNo soy la misma Chie de antes! ムMボrame ahora!
 

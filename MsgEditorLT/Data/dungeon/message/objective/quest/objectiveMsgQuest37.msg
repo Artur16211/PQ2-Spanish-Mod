@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota al Sr. Oso!
+ムDerrota al Sr. Oso!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Encuentra una salida

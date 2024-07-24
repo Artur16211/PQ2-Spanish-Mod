@@ -1,99 +1,99 @@
 [msg MSG_000]
-Hemos tra胤do la carne congelada y el[n]equipo de cocina mientras busc茨bamos un[n]buen lugar para cocinar...
+Hemos traボdo la carne congelada y el[n]equipo de cocina mientras buscホbamos un[n]buen lugar para cocinar...
 
 [msg MSG_001 [Yusuke]]
-Mmm, si vamos a cocinar esta carne, 夷por[n]qu姻 no hacerlo aqu胤?
+Mmm, si vamos a cocinar esta carne, メpor[n]qu〒 no hacerlo aquボ?
 
 [msg MSG_002 [Naoto]]
-Es un 茨rea abierta, hay una fuente de agua[n]cercana... Dir胤a que es un lugar tan seguro[n]para cocinar como podr胤amos esperar.
-Quiz茨s solo encontramos una olla para cocinar,[n]pero deber胤amos estar bien siempre y cuando[n]tengamos una fuente de calor para ella...
-La 雨nica cosa es que no tenemos una[n]receta para trabajar. 夷Eso ser茨 un[n]problema?
+Es un ホrea abierta, hay una fuente de agua[n]cercana... Dirボa que es un lugar tan seguro[n]para cocinar como podrボamos esperar.
+Quizホs solo encontramos una olla para cocinar,[n]pero deberボamos estar bien siempre y cuando[n]tengamos una fuente de calor para ella...
+La マnica cosa es que no tenemos una[n]receta para trabajar. メEso serホ un[n]problema?
 
 [msg MSG_003 [Yukiko]]
-Naoto, siempre hay nuevos descubrimientos[n]esperando ser hechos en la cocina. 斡Solo[n]necesitamos creer en nosotras mismas!
+Naoto, siempre hay nuevos descubrimientos[n]esperando ser hechos en la cocina. ムSolo[n]necesitamos creer en nosotras mismas!
 
 [msg MSG_004 [Rise]]
-斡Mm! Improvisar un plato sabroso con un[n]n雨mero m胤nimo de ingredientes tambi姻n es[n]una habilidad 雨til en la cocina.
+ムMm! Improvisar un plato sabroso con un[n]nマmero mボnimo de ingredientes tambi〒n es[n]una habilidad マtil en la cocina.
 
 [msg MSG_005 [Chie]]
-斡Me estoy emocionando! 斡Es hora de que[n]nosotras, chicas, saquemos a relucir[n]nuestras habilidades culinarias!
-斡Adelante!
+ムMe estoy emocionando! ムEs hora de que[n]nosotras, chicas, saquemos a relucir[n]nuestras habilidades culinarias!
+ムAdelante!
 
 [msg MSG_006 [P4 Hero]]
-E-espera... Dado hay poca carne, 夷no[n]deber胤amos conseguir un cocinero m茨s[n]confiable... digo, menos experimental?
+E-espera... Dado hay poca carne, メno[n]deberボamos conseguir un cocinero mホs[n]confiable... digo, menos experimental?
 
 [msg MSG_007 [Yosuke]]
-S-s胤, 斡lo que 姻l dijo! Nosotros nos[n]encargaremos de la parte de cocinar el[n]cebo, y t雨 puedes, eh...
-斡Ya s姻! 斡Puedes salir y buscar otros[n]ingredientes! 夷Por favor?
+S-sボ, ムlo que 〒l dijo! Nosotros nos[n]encargaremos de la parte de cocinar el[n]cebo, y tマ puedes, eh...
+ムYa s〒! ムPuedes salir y buscar otros[n]ingredientes! メPor favor?
 
 [msg MSG_008 [Kanji]]
-Te est茨s alterando un poco, Yosuke... lo[n]entiendo, pero...
+Te estホs alterando un poco, Yosuke... lo[n]entiendo, pero...
 
 [msg MSG_009 [Chie]]
-斡Oye, qu姻 se supone que significa eso![n]夷Realmente te molesta que nosotras[n]cocinemos?
+ムOye, qu〒 se supone que significa eso![n]メRealmente te molesta que nosotras[n]cocinemos?
 
 [sel SEL_010 top]
-Es m茨s inquietante que molesto.
-Contar姻 con ustedes, chicas.
-Ser胤as la mejor para reunir[n]ingredientes.
+Es mホs inquietante que molesto.
+Contar〒 con ustedes, chicas.
+Serボas la mejor para reunir[n]ingredientes.
 
 [msg MSG_011 [Yosuke]]
-S胤, es s雨per... Espera, 斡夷acabo de decir[n]eso en voz alta?!
+Sボ, es sマper... Espera, ムメacabo de decir[n]eso en voz alta?!
 
 [msg MSG_012 [Yosuke]]
-夷Qu姻? Uh, quieres decir que... 夷Cuentas[n]con ellas para reunir un mont吋n de[n]ingredientes, verdad?
+メQu〒? Uh, quieres decir que... メCuentas[n]con ellas para reunir un montポn de[n]ingredientes, verdad?
 
 [msg MSG_013 [Yosuke]]
-S胤, 斡lo que 姻l dijo! Queremos que usen sus...[n]instintos femeninos, o lo que sea, para[n]encontrar los mejores ingredientes para[n]nosotros.
+Sボ, ムlo que 〒l dijo! Queremos que usen sus...[n]instintos femeninos, o lo que sea, para[n]encontrar los mejores ingredientes para[n]nosotros.
 
 [msg MSG_014 [P4 Hero]]
-No olviden que necesitamos encender fuego para[n]cocinar la carne, Por eso nos sentimos m茨s[n]adecuados para la parte de cocinar.
+No olviden que necesitamos encender fuego para[n]cocinar la carne, Por eso nos sentimos mホs[n]adecuados para la parte de cocinar.
 
 [msg MSG_015 [Haru]]
-Buscar ingredientes suena divertido...[n]Siento que podemos encontrar nuevos e[n]interesantes aqu胤.
+Buscar ingredientes suena divertido...[n]Siento que podemos encontrar nuevos e[n]interesantes aquボ.
 
 [msg MSG_016 [Ann]]
-斡Oh, tambi姻n creo eso! 夷Qu姻 te parece si[n]dejamos la cocina en sus manos y nosotras,[n]chicas, salimos a cazar un poco?
+ムOh, tambi〒n creo eso! メQu〒 te parece si[n]dejamos la cocina en sus manos y nosotras,[n]chicas, salimos a cazar un poco?
 
 [msg MSG_017 [Naoto]]
-*risa* Haces que suene como una[n]aventura... Eso tambi姻n parece m茨s de mi[n]gusto.
+*risa* Haces que suene como una[n]aventura... Eso tambi〒n parece mホs de mi[n]gusto.
 
 [msg MSG_018 [Akechi]]
-En ese caso, 夷qu姻 tal si preparamos la[n]comida mientras ustedes buscan m茨s[n]ingredientes?
+En ese caso, メqu〒 tal si preparamos la[n]comida mientras ustedes buscan mホs[n]ingredientes?
 
 [msg MSG_019 [Yukiko]]
 Me parece bien. Dejaremos la cocina en[n]sus manos, al menos por esta vez.
 
 [msg MSG_020 [Chie]]
-De acuerdo, 斡vamos en busca de nuevas[n]carnes!
+De acuerdo, ムvamos en busca de nuevas[n]carnes!
 
 [msg MSG_021 [Yukiko]]
-Mm, ya tenemos la carne, as胤 que 夷por qu姻 no[n]buscamos... otros ingredientes, para darle[n]sabor, como algas marinas y aletas de tibur吋n?
+Mm, ya tenemos la carne, asボ que メpor qu〒 no[n]buscamos... otros ingredientes, para darle[n]sabor, como algas marinas y aletas de tiburポn?
 
 [msg MSG_022 [Makoto]]
-No me digas que vamos a caminar hasta el[n]oc姻ano para buscar... En cualquier caso,[n]deber胤amos irnos.
+No me digas que vamos a caminar hasta el[n]oc〒ano para buscar... En cualquier caso,[n]deberボamos irnos.
 
 [msg MSG_023 [P3 Fem Protag]]
-斡S胤! 斡Vamos, chicas!
+ムSボ! ムVamos, chicas!
 
 [msg MSG_024 [Teddie]]
-Uf, funcion吋... 斡Excelente trabajo,[n]Yosuke!
+Uf, funcionポ... ムExcelente trabajo,[n]Yosuke!
 
 [msg MSG_025 [Yosuke]]
-Si les hubi姻ramos dejado la cocina a[n]ellos, no terminar胤amos con cebo,[n]terminar胤amos con un arma qu胤mica...
+Si les hubi〒ramos dejado la cocina a[n]ellos, no terminarボamos con cebo,[n]terminarボamos con un arma quボmica...
 
 [msg MSG_026 [Ryuji]]
-Mm... 夷Las chicas de tu equipo son[n]realmente tan malas cocinando?
+Mm... メLas chicas de tu equipo son[n]realmente tan malas cocinando?
 
 [msg MSG_027 [Yosuke]]
 Ni siquiera preguntes... Hay cosas que[n]es mejor no saber.
 
 [msg MSG_028 [Teddie]]
-斡Pero no te preocupes! 斡Nuestro Maestro[n]es un cocinero maestro!
+ムPero no te preocupes! ムNuestro Maestro[n]es un cocinero maestro!
 
 [msg MSG_029 [Morgana]]
-夷Oh? Apuesto a que las habilidades de[n]Joker se comparan con las de [f 6 1 13 0 0 0]...
-Despu姻s de todo, 姻l vive en una[n]cafeter胤a. Cuando se trata de cocinar[n]curry, 斡no tiene rival!
+メOh? Apuesto a que las habilidades de[n]Joker se comparan con las de [f 6 1 13 0 0 0]...
+Despu〒s de todo, 〒l vive en una[n]cafeterボa. Cuando se trata de cocinar[n]curry, ムno tiene rival!
 
 [msg MSG_030 [P4 Hero]]
 Eso es genial. Trabajemos juntos para[n]asegurarnos de que todo salga bien.
@@ -101,297 +101,297 @@ Eso es genial. Trabajemos juntos para[n]asegurarnos de que todo salga bien.
 [sel SEL_031 top]
 Espero una cocina de primera.
 Esto es tan pesado.
-斡Les robar姻 el apetito!
+ムLes robar〒 el apetito!
 
 [msg MSG_032 [Yosuke]]
-Oh, 夷ustedes est茨n fortaleciendo lazos[n]sobre la cocina?
+Oh, メustedes estホn fortaleciendo lazos[n]sobre la cocina?
 
 [msg MSG_033 [Ryuji]]
-斡Claro que s胤, parece que esto va a ser[n]todo un espect茨culo! No puedo esperar[n]para ver qu姻 preparan.
+ムClaro que sボ, parece que esto va a ser[n]todo un espectホculo! No puedo esperar[n]para ver qu〒 preparan.
 
 [msg MSG_034 [Yusuke]]
-Cocinar en un entorno desconocido puede[n]ser inc吋modo. La incomodidad por s胤 sola[n]puede parecer imposible de manejar...
-Sin embargo, cualquier cosa puede ser[n]comestible una vez que ha sido cocinada,[n]eso es lo 雨nico de lo que estoy seguro.
+Cocinar en un entorno desconocido puede[n]ser incポmodo. La incomodidad por sボ sola[n]puede parecer imposible de manejar...
+Sin embargo, cualquier cosa puede ser[n]comestible una vez que ha sido cocinada,[n]eso es lo マnico de lo que estoy seguro.
 
 [msg MSG_035 [Kanji]]
-No s姻 por qu姻, pero por la forma en la[n]que habla este chico... le creo.
+No s〒 por qu〒, pero por la forma en la[n]que habla este chico... le creo.
 
 [msg MSG_036 [Teddie]]
-斡Ohhh, su orgullo como chef se ha[n]encendido como una hoguera!
+ムOhhh, su orgullo como chef se ha[n]encendido como una hoguera!
 
 [msg MSG_037 [Yusuke]]
 Parece que podemos esperar algo genial[n]de ellos. No puedo esperar a probar lo[n]que hacen.
 
 [msg MSG_038 [Ryuji]]
-Mientras est茨s babeando, 夷puedo recordarles[n]que estamos haciendo todo esto como cebo de[n]dinosaurio, no comida para Fox?
+Mientras estホs babeando, メpuedo recordarles[n]que estamos haciendo todo esto como cebo de[n]dinosaurio, no comida para Fox?
 
 [msg MSG_039]
-Despu姻s de limpiar la carne y terminar[n]las otras preparaciones...
+Despu〒s de limpiar la carne y terminar[n]las otras preparaciones...
 
 [msg MSG_040 [Akechi]]
 Parece que estamos listos para cocinar[n]una vez que las chicas regresen.
 Joker y [f 6 1 12 0 0 0] manejaron todo con tanta[n]habilidad. Estoy impresionado.
 
 [msg MSG_041 [Morgana]]
-Ya se ve delicioso y ni siquiera est茨[n]cocido a雨n... Estoy emocionado por ver[n]c吋mo resulta eso.
+Ya se ve delicioso y ni siquiera estホ[n]cocido aマn... Estoy emocionado por ver[n]cポmo resulta eso.
 
 [msg MSG_042 [Futaba]]
-Chicos, parece que las chicas est茨n de[n]vuelta.
+Chicos, parece que las chicas estホn de[n]vuelta.
 
 [msg MSG_043 [Chie]]
-斡Perd吋n por la espera!
+ムPerdポn por la espera!
 
 [msg MSG_044 [Yukiko]]
 Recogimos muchos ingredientes.
 
 [msg MSG_045 [Ryuji]]
-Perfecto. Entonces, 夷qu姻 trajeron?
+Perfecto. Entonces, メqu〒 trajeron?
 
 [msg MSG_046 [Naoto]]
-Esto es lo que encontr姻.
+Esto es lo que encontr〒.
 
 [msg MSG_047 [Yosuke]]
-...夷Es alg雨n tipo de hierba?
+...メEs algマn tipo de hierba?
 
 [msg MSG_048 [Haru]]
-Parece ser alg雨n tipo de hierba.
-夷No huele bien?
+Parece ser algマn tipo de hierba.
+メNo huele bien?
 
 [msg MSG_049 [Morgana]]
-斡夷Meowww?! Eso es pasto para mi nariz...
+ムメMeowww?! Eso es pasto para mi nariz...
 
 [msg MSG_050 [Akechi]]
-Es bastante... penetrante, pero las[n]hierbas pueden complementar bien el olor[n]de la carne, as胤 que podr胤an ser 雨tiles.
+Es bastante... penetrante, pero las[n]hierbas pueden complementar bien el olor[n]de la carne, asボ que podrボan ser マtiles.
 
 [msg MSG_051 [Chie]]
-Okay, 斡siguiente! Echen un vistazo...[n]斡Taraaaan!
+Okay, ムsiguiente! Echen un vistazo...[n]ムTaraaaan!
 
 [msg MSG_052 [Kanji]]
-斡Dios m胤o, es enorme! 夷Qu姻 tipo de huevo[n]es este?
+ムDios mボo, es enorme! メQu〒 tipo de huevo[n]es este?
 
 [msg MSG_053 [Chie]]
-No lo s姻. Lo vi en el suelo y lo recog胤.
+No lo s〒. Lo vi en el suelo y lo recogボ.
 
 [msg MSG_054 [Yosuke]]
-Ser茨 mejor que eso no termine[n]eclosionando frente a nosotros...
+Serホ mejor que eso no termine[n]eclosionando frente a nosotros...
 
 [msg MSG_055 [Yusuke]]
-Tiene una forma agradable, pero un patr吋n[n]audaz y salvaje. Quiero llev茨rmelo para[n]estudiarlo m茨s a fondo en lugar de romperlo...
+Tiene una forma agradable, pero un patrポn[n]audaz y salvaje. Quiero llevホrmelo para[n]estudiarlo mホs a fondo en lugar de romperlo...
 
 [msg MSG_056 [Yukiko]]
-Esto es lo que encontr姻, aqu胤 tienes.
+Esto es lo que encontr〒, aquボ tienes.
 
 [msg MSG_057 [P4 Hero]]
-夷Es eso... alg雨n tipo de planta[n]carn胤vora que come insectos?
+メEs eso... algマn tipo de planta[n]carnボvora que come insectos?
 
 [msg MSG_058 [Teddie]]
 Mis instintos animales... me dicen que[n]eso es peligroso...
 
 [msg MSG_059 [Yukiko]]
-夷No ser胤a lindo como un plato para[n]servir? Lo acabo de recoger, as胤 que[n]est茨 fresco y bonito.
+メNo serボa lindo como un plato para[n]servir? Lo acabo de recoger, asボ que[n]estホ fresco y bonito.
 
 [sel SEL_060 top]
 Es una gran idea.
 Esa cosa es espeluznante.
-Deber胤amos cocinarlo.
+Deberボamos cocinarlo.
 
 [msg MSG_061 [Ryuji]]
-斡Amigo, 夷en serio?! 斡Si usamos eso como[n]un plato, se comer茨 la comida!
+ムAmigo, メen serio?! ムSi usamos eso como[n]un plato, se comerホ la comida!
 
 [msg MSG_062 [Yusuke]]
-Supongo que no apela al sentido de[n]belleza de todos. Sin embargo, a m胤 me[n]parece bastante magn胤fico.
+Supongo que no apela al sentido de[n]belleza de todos. Sin embargo, a mボ me[n]parece bastante magnボfico.
 
 [msg MSG_063 [Yukiko]]
-夷Verdad? 斡Tambi姻n creo que se ve[n]realmente genial!
+メVerdad? ムTambi〒n creo que se ve[n]realmente genial!
 
 [msg MSG_064 [P4 Hero]]
-No hay m茨s que pueda decir...
+No hay mホs que pueda decir...
 
 [msg MSG_065 [Yukiko]]
-Es realmente carnoso y fibroso, as胤 que[n]apuesto a que tiene una gran textura. Tambi姻n[n]parece que ser胤a bastante saludable.
+Es realmente carnoso y fibroso, asボ que[n]apuesto a que tiene una gran textura. Tambi〒n[n]parece que serボa bastante saludable.
 
 [msg MSG_066 [Ryuji]]
-夷No es Amagi la pr吋xima heredera de una[n]posada hist吋rica?
+メNo es Amagi la prポxima heredera de una[n]posada histポrica?
 
 [msg MSG_066_5 [Ryuji]]
-夷Escuch姻 mal? Por favor, dime que s胤...
+メEscuch〒 mal? Por favor, dime que sボ...
 
 [msg MSG_067 [P4 Hero]]
-No, no lo hiciste... Pero entiendo a qu姻[n]te refieres...
+No, no lo hiciste... Pero entiendo a qu〒[n]te refieres...
 
 [msg MSG_068 [Ann]]
-Oh... Todas las dem茨s pueden presumir un[n]mont吋n de cosas geniales, pero todo lo[n]que consegu胤 fueron estas...
+Oh... Todas las demホs pueden presumir un[n]montポn de cosas geniales, pero todo lo[n]que conseguボ fueron estas...
 
 [msg MSG_069 [Ryuji]]
-夷Qu姻 es, qu姻 es? Vamos, 斡mu姻stranos!
+メQu〒 es, qu〒 es? Vamos, ムmu〒stranos!
 
 [msg MSG_070 [Morgana]]
-斡Ooooh, qu姻 aroma tan tentador! 夷Podr胤an[n]ser lo que estoy pensando?
+ムOoooh, qu〒 aroma tan tentador! メPodrボan[n]ser lo que estoy pensando?
 
 [msg MSG_071 [Haru]]
-斡Son setas matsutake silvestres!
-las vio, 斡y luego las Ladronas Fantasma[n]se llevaron todas!
+ムSon setas matsutake silvestres!
+las vio, ムy luego las Ladronas Fantasma[n]se llevaron todas!
 
 [msg MSG_072 [Yosuke]]
-斡Maldici吋n! Esas cosas son caras, 斡y hay[n]tantas!
+ムMaldiciポn! Esas cosas son caras, ムy hay[n]tantas!
 
 [msg MSG_073 [Akechi]]
-Pero, 夷por qu姻 est茨n creciendo setas[n]matsutake en la selva?
+Pero, メpor qu〒 estホn creciendo setas[n]matsutake en la selva?
 
 [msg MSG_074 [Naoto]]
-Sospecho que estuvieron involucradas en[n]experimentos de manipulaci吋n gen姻tica.
-Los investigadores podr胤an haberlas[n]desarrollado simult茨neamente con los[n]dinosaurios... Aunque es solo una[n]especulaci吋n.
+Sospecho que estuvieron involucradas en[n]experimentos de manipulaciポn gen〒tica.
+Los investigadores podrボan haberlas[n]desarrollado simultホneamente con los[n]dinosaurios... Aunque es solo una[n]especulaciポn.
 
 [msg MSG_075 [P3 Fem Protag]]
-Entonces, el rendimiento total de las chicas[n]incluye un mont吋n de hierbas, alg雨n tipo de[n]huevo, una planta y muchas setas matsutake.
+Entonces, el rendimiento total de las chicas[n]incluye un montポn de hierbas, algマn tipo de[n]huevo, una planta y muchas setas matsutake.
 
 [msg MSG_076 [Makoto]]
-Esa planta es un poco... ya sabes, pero[n]las otras parecen utilizables, 夷verdad?
+Esa planta es un poco... ya sabes, pero[n]las otras parecen utilizables, メverdad?
 
 [msg MSG_077 [Yusuke]]
-La olla se ha elevado a la temperatura[n]adecuada, y la carne tambi姻n est茨 lista[n]para cocinar.
+La olla se ha elevado a la temperatura[n]adecuada, y la carne tambi〒n estホ lista[n]para cocinar.
 Joker, [f 6 1 12 0 0 0] dejamos el resto en sus[n]manos.
 
 [msg MSG_078 [P4 Hero]]
-Supongo que cocinaremos las setas[n]primero. 夷Qu姻 deber胤amos hacer con[n]ellas?
+Supongo que cocinaremos las setas[n]primero. メQu〒 deberボamos hacer con[n]ellas?
 
 [sel SEL_079 top]
-Asarlas r茨pido sobre el fuego.
-P胤calas en trozos extremadamente finos.
+Asarlas rホpido sobre el fuego.
+Pボcalas en trozos extremadamente finos.
 
 [msg MSG_080 [Morgana]]
-Oooh, en el momento en que tocaron las[n]llamas, este agradable aroma me lleg吋...
+Oooh, en el momento en que tocaron las[n]llamas, este agradable aroma me llegポ...
 
 [msg MSG_081 [Teddie]]
-Mi apetito ha sido despertado. Puedo[n]sentir mi est吋mago gru隠endo como loco.
+Mi apetito ha sido despertado. Puedo[n]sentir mi estポmago gruワendo como loco.
 
 [msg MSG_082 [Makoto]]
-夷Eh? Ese es un m姻todo... sorprendente.
+メEh? Ese es un m〒todo... sorprendente.
 
 [msg MSG_083 [Chie]]
-Vaya, simplemente siguen haci姻ndose m茨s[n]peque隠as y m茨s peque隠as, a una velocidad[n]incre胤ble... 斡Casi se siente como un[n]desperdicio!
+Vaya, simplemente siguen haci〒ndose mホs[n]pequeワas y mホs pequeワas, a una velocidad[n]increボble... ムCasi se siente como un[n]desperdicio!
 
 [msg MSG_084 [P4 Hero]]
-Bien, ahora le toca el turno a la carne.[n]夷C吋mo crees que deber胤amos cocinarla?
+Bien, ahora le toca el turno a la carne.[n]メCポmo crees que deberボamos cocinarla?
 
 [sel SEL_085 top]
-S姻llala r茨pidamente a fuego alto.
-Coc胤nala a fuego lento.
+S〒llala rホpidamente a fuego alto.
+Cocボnala a fuego lento.
 
 [msg MSG_086 [Ryuji]]
-斡Oh, se ve taaaaan bien! 斡Tiene esas[n]quemaduras todo! Tengo hambre...
+ムOh, se ve taaaaan bien! ムTiene esas[n]quemaduras todo! Tengo hambre...
 
 [msg MSG_087 [Yukiko]]
-夷Hambriento? 斡Prueba un poco de esto,[n]entonces!
+メHambriento? ムPrueba un poco de esto,[n]entonces!
 
 [msg MSG_088 [Ryuji]]
-Ooh, no me importar胤a si yo...
-斡Ugh, esta es la planta que come insectos![n]Todav胤a se est茨 moviendo; no hay forma de que[n]vaya a comer esto... 斡Espera, 夷por qu姻 se est茨[n]MOVIENDO?!
+Ooh, no me importarボa si yo...
+ムUgh, esta es la planta que come insectos![n]Todavボa se estホ moviendo; no hay forma de que[n]vaya a comer esto... ムEspera, メpor qu〒 se estホ[n]MOVIENDO?!
 
 [msg MSG_089 [Chie]]
-Asarla tan lentamente me est茨 poniendo[n]nerviosa...
+Asarla tan lentamente me estホ poniendo[n]nerviosa...
 
 [msg MSG_090 [Yukiko]]
-Estoy de acuerdo. Preferir胤a tostarla[n]con una llama fuerte.
+Estoy de acuerdo. Preferirボa tostarla[n]con una llama fuerte.
 
 [msg MSG_091 [Yosuke]]
 Yukiko, por favor, no te acerques al[n]fuego...
 
 [msg MSG_092 [Yusuke]]
-...Ah, esta carne est茨 maravillosamente[n]dorada. Creo que est茨 lista para[n]emplatar.
+...Ah, esta carne estホ maravillosamente[n]dorada. Creo que estホ lista para[n]emplatar.
 
 [msg MSG_093 [Makoto]]
-Ahora, deber胤amos decorarlo con las[n]setas que preparamos...
+Ahora, deberボamos decorarlo con las[n]setas que preparamos...
 
 [msg MSG_094 [Chie]]
-Y ahora a隠adimos la salsa especial...[n]斡Listo, voilà!
+Y ahora aワadimos la salsa especial...[n]ムListo, voilà!
 
 [msg MSG_095 [Yosuke]]
-斡夷Qu姻?! 斡Chie! 夷Qu姻 demonios acabas de[n]hacer?
+ムメQu〒?! ムChie! メQu〒 demonios acabas de[n]hacer?
 
 [msg MSG_096 [Chie]]
-Es, eh... 夷Carne a la Pel胤cula con Salsa[n]de la Selva Recolectada?
+Es, eh... メCarne a la Pelボcula con Salsa[n]de la Selva Recolectada?
 
 [msg MSG_097 [Yosuke]]
-Me refer胤a a 夷qu姻 HAY en la salsa? 夷Y[n]cu茨ndo hiciste esa cosa?
+Me referボa a メqu〒 HAY en la salsa? メY[n]cuホndo hiciste esa cosa?
 
 [msg MSG_098 [Yukiko]]
-Combinamos la clara de huevo, las hierbas y un[n]poco de l胤quido del interior de la planta,[n]luego lo hervimos todo.
+Combinamos la clara de huevo, las hierbas y un[n]poco de lボquido del interior de la planta,[n]luego lo hervimos todo.
 
 [msg MSG_099 [Naoto]]
-Um... Dijeron que no usar los[n]ingredientes ser胤a un desperdicio, as胤[n]que...
+Um... Dijeron que no usar los[n]ingredientes serボa un desperdicio, asボ[n]que...
 
 [msg MSG_099_5 [Naoto]]
 No pude detenerlas. Lo siento.
 
 [msg MSG_100 [Yusuke]]
-Dios m胤o, este plato parece haber[n]sido... 斡Cubierto de algo viscoso!
+Dios mボo, este plato parece haber[n]sido... ムCubierto de algo viscoso!
 
 [msg MSG_101 [Chie]]
-Es, mm... 夷C吋mo lo llaman? 夷Org茨nico?[n]Adem茨s, es bonito y verde, 夷y no huele[n]como algo que comer胤a un dinosaurio?
+Es, mm... メCポmo lo llaman? メOrgホnico?[n]Ademホs, es bonito y verde, メy no huele[n]como algo que comerボa un dinosaurio?
 
 [msg MSG_102 [Yosuke]]
-斡Para nada! Simplemente apesta. 斡Huele[n]a... huevos de hierba!
+ムPara nada! Simplemente apesta. ムHuele[n]a... huevos de hierba!
 
 [msg MSG_103 [Kanji]]
-夷Qu姻 vamos a hacer con esto? Se ha[n]convertido en una especie de objeto[n]misterioso.
+メQu〒 vamos a hacer con esto? Se ha[n]convertido en una especie de objeto[n]misterioso.
 
 [msg MSG_104 [P3 Fem Protag]]
-夷Deber胤amos... hacer una prueba?
+メDeberボamos... hacer una prueba?
 
 [msg MSG_105 [Yosuke]]
-夷Eh? Pero qui姻n va a…
+メEh? Pero qui〒n va a…
 
 [msg MSG_106 [Teddie]]
-斡Alley-oop! Directo a tu boca.
+ムAlley-oop! Directo a tu boca.
 
 [msg MSG_107 [Yosuke]]
-斡夷Hrg?! 斡Bluh! 斡Ah, idiota! Y-yo no[n]quiero morir todav胤a... 斡Blech! 斡Blech!
+ムメHrg?! ムBluh! ムAh, idiota! Y-yo no[n]quiero morir todavボa... ムBlech! ムBlech!
 
 [msg MSG_108 [P4 Hero]]
 Yosuke... Por favor, sobrevive a esto...
 
 [msg MSG_109 [Yosuke]]
-*Tos* 斡Urgh!
+*Tos* ムUrgh!
 
 [msg MSG_110 [Ann]]
-夷Est茨s bien? 夷Deber胤amos intentar[n]hacerte vomitar o algo as胤?
+メEstホs bien? メDeberボamos intentar[n]hacerte vomitar o algo asボ?
 
 [msg MSG_111 [Yosuke]]
-N-nnngh... 斡Hrrrrrghhhh!
+N-nnngh... ムHrrrrrghhhh!
 E-es... Es...
 
 [msg MSG_112 [Yosuke]]
-Es... 斡斡斡delicioso!!!
+Es... ムムムdelicioso!!!
 
 [msg MSG_113 [Morgana]]
-斡夷En serio?!
+ムメEn serio?!
 
 [msg MSG_114 [Yosuke]]
-斡En serio! 斡Es tan bueno que no tiene[n]sentido! 斡Pru姻benlo, chicos!
+ムEn serio! ムEs tan bueno que no tiene[n]sentido! ムPru〒benlo, chicos!
 
 [msg MSG_115 [P3 Fem Protag]]
 *Mordisco*
-斡Wow, tiene raz吋n, esto es bueno! 斡Est茨[n]cremoso y lleno de sabor!
+ムWow, tiene razポn, esto es bueno! ムEstホ[n]cremoso y lleno de sabor!
 
 [msg MSG_116 [Haru]]
-Mm, esto podr胤a volverse bastante[n]adictivo... La salsa a隠ade una riqueza a[n]la carne que complementa el sabor.
+Mm, esto podrボa volverse bastante[n]adictivo... La salsa aワade una riqueza a[n]la carne que complementa el sabor.
 
 [msg MSG_117 [Ryuji]]
-No puedo creerlo, 夷esa babosidad funcion吋?[n]夷Tuvo alguna especie de reacci吋n qu胤mica con[n]la carne o algo as胤?
+No puedo creerlo, メesa babosidad funcionポ?[n]メTuvo alguna especie de reacciポn quボmica con[n]la carne o algo asボ?
 
 [msg MSG_118 [Yusuke]]
-斡Qu姻 armon胤a 雨nica de sabor y aroma![n]Esta salsa es una colaboraci吋n[n]milagrosa.
+ムQu〒 armonボa マnica de sabor y aroma![n]Esta salsa es una colaboraciポn[n]milagrosa.
 
 [msg MSG_119 [Chie]]
-夷Escuchaste eso, Yosuke? 斡Nuestras[n]habilidades culinarias son imbatibles!
+メEscuchaste eso, Yosuke? ムNuestras[n]habilidades culinarias son imbatibles!
 
 [msg MSG_120 [Yosuke]]
-No, esto fue un milagro combinado con una[n]coincidencia... Si no fuera por la carne, esto[n]ser胤a simplemente una babosidad de huevo y[n]hierba.
+No, esto fue un milagro combinado con una[n]coincidencia... Si no fuera por la carne, esto[n]serボa simplemente una babosidad de huevo y[n]hierba.
 
 [msg MSG_121 [Akechi]]
-En cualquier caso, creo que deber胤amos[n]poder atraer al carn胤voro con esto.
+En cualquier caso, creo que deberボamos[n]poder atraer al carnボvoro con esto.
 
 [msg MSG_122 [Naoto]]
-Vamos a colocar la carnada antes de que[n]se enfr胤e.
+Vamos a colocar la carnada antes de que[n]se enfrボe.
 

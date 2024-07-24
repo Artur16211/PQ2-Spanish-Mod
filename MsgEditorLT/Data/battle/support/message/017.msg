@@ -2,25 +2,25 @@
 Dummy
 
 [msg BTL_MES_023_001]
-No podemos perder aqu胤. 斡Vamos, chicos!
+No podemos perder aquボ. ムVamos, chicos!
 
 [msg BTL_MES_023_002]
 ＜声Of＞退けKい戦いA 気合い入sGいくぞ！
 
 [msg BTL_MES_023_003]
-斡夷Un FOE?! 斡Esto parece mortal!
+ムメUn FOE?! ムEsto parece mortal!
 
 [msg BTL_MES_023_004]
 ＜声Of＞仕方Kい こsP戦略的撤退A
 
 [msg BTL_MES_023_005]
-斡Ooh! 斡Creo que podemos con esta!
+ムOoh! ムCreo que podemos con esta!
 
 [msg BTL_MES_023_006]
-斡Mira! Un Tesor... Quiero decir, 斡una Sombra rara!
+ムMira! Un Tesor... Quiero decir, ムuna Sombra rara!
 
 [msg BTL_MES_023_007]
-＜声Of＞おし、謂マ夷ラ、逃がすKo！
+＜声Of＞おし、ヰマメラ、逃がすKo！
 
 [msg BTL_MES_023_008]
 ＜声Of＞了解A、)ビ！
@@ -29,40 +29,40 @@ No podemos perder aqu胤. 斡Vamos, chicos!
 ＜声Of＞リセ、サンキューK！
 
 [msg BTL_MES_023_010]
-＜声Of＞フー吋、了解A！ eかせIけ！
+＜声Of＞フーポ、了解A！ eかせIけ！
 
 [msg BTL_MES_023_011]
-斡Esta es fuerte!
+ムEsta es fuerte!
 
 [msg BTL_MES_023_012]
 ＜声Of＞うーg、勝GKいvけじj KさそうKzAが…
 
 [msg BTL_MES_023_013]
-Nunca hab胤amos visto a esa antes. 斡Encontremos su debilidad! 斡Derrot姻mosla!
+Nunca habボamos visto a esa antes. ムEncontremos su debilidad! ムDerrot〒mosla!
 
 [msg BTL_MES_023_014]
 ＜声Of＞了解A！ いtzK攻撃y試そう！
 
 [msg BTL_MES_023_015]
-斡No es rival para nosotros!
+ムNo es rival para nosotros!
 
 [msg BTL_MES_023_016]
-＜声Of＞ワ遺ハ姻O力y見せGkr！
+＜声Of＞ワロハ〒O力y見せGkr！
 
 [msg BTL_MES_023_017]
-Je, je, je, 斡esto ser茨 pan comido!
+Je, je, je, ムesto serホ pan comido!
 
 [msg BTL_MES_023_018]
-＜声Of＞ワ遺ハ姻O爪O錆L Krがいい！
+＜声Of＞ワロハ〒O爪O錆L Krがいい！
 
 [msg BTL_MES_023_019]
-斡Eh! 斡夷Qu姻 es esto...?!
+ムEh! ムメQu〒 es esto...?!
 
 [msg BTL_MES_023_020]
-＜声Of＞おいおい！ マズ姻ぜ、こqj！
+＜声Of＞おいおい！ マズ〒ぜ、こqj！
 
 [msg BTL_MES_023_021]
-＜声Of＞ヤベ緯！ Jうすr！？
+＜声Of＞ヤベレ！ Jうすr！？
 
 [msg BTL_MES_023_022]
 Esto es malo.
@@ -71,16 +71,16 @@ Esto es malo.
 ＜声Of＞おいおい！ 大丈夫かo！？
 
 [msg BTL_MES_023_024]
-＜声Of＞コ姻8Pマズ姻K… 援護しNーI！
+＜声Of＞コ〒8Pマズ〒K… 援護しNーI！
 
 [msg BTL_MES_023_025]
-＜声Of＞謂姻謂姻、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞ヰ〒ヰ〒、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_026]
-＜声Of＞ヨースケがマズ姻ぞ… 援護しNーI！
+＜声Of＞ヨースケがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_027]
-＜声Of＞5夷、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞5メ、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_028]
 ＜声Of＞ユキコ、大丈夫か！？ こsP回復が必要Aぞ！
@@ -89,22 +89,22 @@ Esto es malo.
 ＜声Of＞4ミー
 
 [msg BTL_MES_023_030]
-＜声Of＞吋ンジがマズ姻ぞ… 援護しNーI！
+＜声Of＞ポンジがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_031]
-＜声Of＞)謂:、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞)ヰ:、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_032]
-＜声Of＞クマがマズ姻ぞ… 援護しNーI！
+＜声Of＞クマがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_033]
-＜声Of＞ユ吋リ殿、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞ユポリ殿、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_034]
-＜声Of＞ジュンペーがマズ姻ぞ… 援護しNーI！
+＜声Of＞ジュンペーがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_035]
-＜声Of＞威キヒコ、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞ミキヒコ、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_036]
 ＜声Of＞ミ8ル、大丈夫か！？ こsP回復が必要Aぞ！
@@ -113,13 +113,13 @@ Esto es malo.
 ＜声Of＞4ミー
 
 [msg BTL_MES_023_038]
-＜声Of＞威姻/ス、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞ミ〒/ス、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_039]
-＜声Of＞ケンがマズ姻ぞ… 援護しNーI！
+＜声Of＞ケンがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_040]
-＜声Of＞コロマルがマズ姻ぞ… 援護しNーI！
+＜声Of＞コロマルがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_041]
 ＜声Of＞シンジロー、大丈夫か！？ こsP回復が必要Aぞ！
@@ -128,10 +128,10 @@ Esto es malo.
 ＜声Of＞無理P禁物A！ 援護しNーI！
 
 [msg BTL_MES_023_043]
-＜声Of＞ジョー吋ー、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞ジョーポー、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_044]
-＜声Of＞ス吋ルがマズ姻ぞ… 援護しNーI！
+＜声Of＞スポルがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_045]
 ＜声Of＞パンサー、大丈夫か！？ こsP回復が必要Aぞ！
@@ -140,10 +140,10 @@ Esto es malo.
 ＜声Of＞4ミー
 
 [msg BTL_MES_023_047]
-＜声Of＞フ隠7クスがマズ姻ぞ… 援護しNーI！
+＜声Of＞フワ7クスがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_048]
-＜声Of＞ク姻ーン、大丈夫か！？ こsP回復が必要Aぞ！
+＜声Of＞ク〒ーン、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Esto es malo.
 ＜声Of＞ノワール、大丈夫か！？ こsP回復が必要Aぞ！
 
 [msg BTL_MES_023_051]
-＜声Of＞クロ胤がマズ姻ぞ… 援護しNーI！
+＜声Of＞クロボがマズ〒ぞ… 援護しNーI！
 
 [msg BTL_MES_023_052]
-＜声Of＞そsKpQ、 ワ遺ハ姻LeDかせtー！
+＜声Of＞そsKpQ、 ワロハ〒LeDかせtー！
 
 [msg BTL_MES_023_053]
-斡Sigue golpe茨ndolos donde m茨s les duele!
+ムSigue golpeホndolos donde mホs les duele!
 
 [msg BTL_MES_023_054]
-＜声Of＞フ7フーン！ ワ遺ハ姻LかかsQ、お手O物A！
+＜声Of＞フ7フーン！ ワロハ〒LかかsQ、お手O物A！
 
 [msg BTL_MES_023_055]
-斡Me asegurar姻 de golpear su debilidad!
+ムMe asegurar〒 de golpear su debilidad!
 
 [msg BTL_MES_023_056]
-斡No olvides usar Relevo!
+ムNo olvides usar Relevo!
 
 [msg BTL_MES_023_057]
-斡Je, je, je! 斡Mi momento de brillar!
+ムJe, je, je! ムMi momento de brillar!
 
 [msg BTL_MES_023_058]
 ＜声Of＞おお！ さDすがO貫禄Aぜ！
@@ -182,7 +182,7 @@ Esto es malo.
 ＜声Of＞ヨースケ、頼zAぞ！
 
 [msg BTL_MES_023_061]
-＜声Of＞5夷O本気、見せGくs！
+＜声Of＞5メO本気、見せGくs！
 
 [msg BTL_MES_023_062]
 ＜声Of＞ユ、ユキコ… bJbJL、Aぞ！？
@@ -191,22 +191,22 @@ Esto es malo.
 ＜声Of＞4ミー
 
 [msg BTL_MES_023_064]
-＜声Of＞吋ンジ、フ茨姻:A！
+＜声Of＞ポンジ、フホ〒:A！
 
 [msg BTL_MES_023_065]
-＜声Of＞)謂:が kDGくsそうAぜ！
+＜声Of＞)ヰ:が kDGくsそうAぜ！
 
 [msg BTL_MES_023_066]
-＜声Of＞krK、クマO奴… ワ遺ハ姻i負けGpsNぇぜ！
+＜声Of＞krK、クマO奴… ワロハ〒i負けGpsNぇぜ！
 
 [msg BTL_MES_023_067]
-＜声Of＞いけー！ ユ吋リー！
+＜声Of＞いけー！ ユポリー！
 
 [msg BTL_MES_023_068]
 ＜声Of＞ジュンペー、WD飛QしGks！
 
 [msg BTL_MES_023_069]
-＜声Of＞威キヒコO 拳がうKrぜ！
+＜声Of＞ミキヒコO 拳がうKrぜ！
 
 [msg BTL_MES_023_070]
 ＜声Of＞ミ8ル！ ここP頼zAぜ！
@@ -215,7 +215,7 @@ Esto es malo.
 ＜声Of＞4ミー
 
 [msg BTL_MES_023_072]
-＜声Of＞kDGくsrK！ 威姻/ス！
+＜声Of＞kDGくsrK！ ミ〒/ス！
 
 [msg BTL_MES_023_073]
 ＜声Of＞kDGksー、ケン！
@@ -230,10 +230,10 @@ Esto es malo.
 ＜声Of＞行けー！目LiOfせGks！
 
 [msg BTL_MES_023_077]
-＜声Of＞ジョー吋ー！ 頼zAぜ！
+＜声Of＞ジョーポー！ 頼zAぜ！
 
 [msg BTL_MES_023_078]
-＜声Of＞ス吋ル、kDBeえ…！
+＜声Of＞スポル、kDBeえ…！
 
 [msg BTL_MES_023_079]
 ＜声Of＞パンサー、輝いGrぞ！
@@ -242,10 +242,10 @@ Esto es malo.
 ＜声Of＞4ミー
 
 [msg BTL_MES_023_081]
-＜声Of＞フ隠7クス、最高Aぜ！
+＜声Of＞フワ7クス、最高Aぜ！
 
 [msg BTL_MES_023_082]
-＜声Of＞頼zAぜ、ク姻ーン！
+＜声Of＞頼zAぜ、ク〒ーン！
 
 [msg BTL_MES_023_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Esto es malo.
 ＜声Of＞ノワール、華麗L決hGks！
 
 [msg BTL_MES_023_085]
-＜声Of＞クロ胤、期待しGrぞ！
+＜声Of＞クロボ、期待しGrぞ！
 
 [msg BTL_MES_023_086]
-斡Aaah! 斡Estoy listo!
+ムAaah! ムEstoy listo!
 

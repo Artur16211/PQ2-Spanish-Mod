@@ -1,64 +1,64 @@
 [msg MSG_000 [Junpei]]
-*sigh*
+*suspiro*
 
 [sel SEL_001 top]
-What's wrong?
-You hungry or something?
+メQu〒 ocurre?
+メTienes hambre o algo?
 
 [msg MSG_002 [Junpei]]
-Oh, it's nothin'. It's just that life's[n]tough at this age, y'know?
+Oh, no es nada. Es solo que la vida es dura a esta edad, メsabes?
 
 [msg MSG_003 [Junpei]]
-What, am I Fox now? Nah, that ain't it.
+メQu〒, ahora soy Fox? Nah, no es eso.
 
 [msg MSG_004 [Yusuke]]
-What!? As if my existence is defined by[n]an incessant, hunger-driven rapping at[n]death's door!
+ムメQu〒?! ムComo si mi existencia se definiera por un  hambriento viaje a las puertas de la muerte!
 
 [msg MSG_005 [Mitsuru]]
-It seems he's not aware of it himself...
+Parece que ni 〒l mismo se da cuenta...
 
 [msg MSG_006 [Junpei]]
-It's just, I haven't had time to play[n]any of the games I bought recently, and[n]now my backlog's crazy.
+Es que no he tenido tiempo de jugar a ninguno de los juegos que he comprado, y ahora mi atraso es una locura.
 
 [msg MSG_007 [Yukari]]
-*sigh* I seriously couldn't care less if[n]I tried...
+*suspiro* En serio, no podrボa importarme menos...
 
 [msg MSG_008 [Junpei]]
-Aw, come on! Just hear me out!
-So that sci-fi flick we were in was all[n]"beep-boop" like a game, right?
-We were basically in a fantasy world[n]like the ones you'd see in those games,[n]and that's why I remembered my backlog.
+ムAy, vamos! ムSolo escマchame!
+Esa pelボcula de ciencia ficciポn en la que estホbamos era como un videojuego, メverdad?
+Estホbamos bホsicamente en un mundo de fantasボa como los que se ven en esos juegos, y por eso me acord〒 de mis atrasos.
 
 [msg MSG_009 [Futaba]]
-Oho? Are you a gamer, Junpei? Yeah,[n]games have a way of piling up when[n]you're not looking.
-I've got a pretty hefty backlog myself.[n]I'll get through it one day, though.
+メQu〒? メEres un gamer, Junpei? Sボ, los juegos se acumulan cuando no te das cuenta.
+Yo tambi〒n tengo un inmenso atraso. Aunque algマn dボa lo conseguir〒.
 
 [msg MSG_010 [Ann]]
-Video games, huh...? It's been awhile[n]since I played anything. Maybe I'll get[n]back into it.
+メVideojuegos, eh? Hace mucho tiempo que no juego a uno. Quizホs deberボa de volver a probarlos.
 
 [msg MSG_011 [Junpei]]
-Ooh, are you two hardcore? What's your[n]favorite genre?
+Oh, メustedes dos son hardcore? メCuホl es su g〒nero favorito?
 
 [msg MSG_012 [Ann]]
-I actually don't know that much. I just[n]kinda mess around a bit if I'm[n]interested.
+Yo en verdad no s〒 mucho. Solo lo pruebo un poco si me interesa.
 
 [msg MSG_013 [Futaba]]
-I play all kinds: adventure games,[n]shooters, and even MMOs and RTSs and[n]RPGs!
+Yo juego de todo: ムjuegos de aventura, shooters, y tambi〒n MMOs, RTSs y RPGs!
 
 [msg MSG_014 [Makoto]]
-Was that last bit her casting some kind[n]of spell...?
+メPor qu〒 esa マltima parte parecボa algマn tipo de conjuro?
 
 [msg MSG_015 [Futaba]]
-I'd love to hear about some of your[n]favorites sometime, Junpei!
+ムAlgマn dボa me encantarボa escuchar sobre tus juegos favoritos, Junpei!
 
 [msg MSG_016 [Junpei]]
-Yeah, you bet. Maybe we can get a little[n]multiplayer action goin' too?
+Sボ, por supuesto. メQuizホs podamos jugar algo multijugador tambi〒n?
 
 [msg MSG_017 [Ann]]
-Ooh, I'm down! We can play a fighting[n]game or something!
+ムOh, me apunto! ムPodemos jugar a un juego de lucha o algo asボ!
 
 [msg MSG_018 [Yosuke]]
-That's an unlikely trio. I guess a lot[n]of us are secretly gamers.
+Es un trボo impensable. Supongo que muchos de nosotros somos jugadores en secreto.
 
 [msg MSG_019]
-A new special screening: "Easter Egg[n]Hunt!" has been added to the box office.
+Una nueva proyecciポn especial: "ムBマsqueda de Huevos de Pascua!" ha sido aワadida a la taquilla.
 

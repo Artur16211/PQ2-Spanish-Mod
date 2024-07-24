@@ -1,20 +1,20 @@
 [msg YUKIKO_FOE_FOLLOW_START_]
-斡Parece que el FOE nos persigue!
+ムParece que el FOE nos persigue!
 
 [msg YUKIKO_FOE_FOLLOW_START__2]
-斡Es el FOE! 斡Cuidado!
+ムEs el FOE! ムCuidado!
 
 [msg YUKIKO_FOE_FOLLOW_START__3]
-斡Un FOE se acerca hacia nosotros!
+ムUn FOE se acerca hacia nosotros!
 
 [msg YUKIKO_FOE_NEAR_1]
-斡Es un FOE! 斡Cuidado!
+ムEs un FOE! ムCuidado!
 
 [msg YUKIKO_FOE_NEAR_2]
-Un FOE est茨 cerca. Deber胤amos tener[n]cuidado.
+Un FOE estホ cerca. Deberボamos tener[n]cuidado.
 
 [msg YUKIKO_FOE_NEAR_3]
-夷No es el FOE?
+メNo es el FOE?
 
 [msg YUKIKO_FOE_FOLLOW_END_1]
 Parece que se dio por vencido.
@@ -35,67 +35,67 @@ Esto es bastante estresante.
 Debemos tener cuidado de no ser[n]atrapados.
 
 [msg YUKIKO_DENKISAKU_REACTIO]
-Esta trampa est茨 resultando ser un[n]obst茨culo bastante grande.
+Esta trampa estホ resultando ser un[n]obstホculo bastante grande.
 
 [msg YUKIKO_DENKISAKU_REACTIO_2]
-夷No podr胤amos destruir esta puerta?
+メNo podrボamos destruir esta puerta?
 
 [msg YUKIKO_DENKISAKU_REACTIO_3]
-Ser胤a mucho m茨s f茨cil si pudiera[n]quemar esto...
+Serボa mucho mホs fホcil si pudiera[n]quemar esto...
 
 [msg YUKIKO_KYOUHU_REACTION_1]
-斡Ja, ja, ja!
+ムJa, ja, ja!
 
 [msg YUKIKO_KYOUHU_REACTION_2]
-斡夷Eh?!
+ムメEh?!
 
 [msg YUKIKO_KYOUHU_REACTION_3]
-斡Whoa!
+ムWhoa!
 
 [msg YUKIKO_STAIR_FIND_1]
-夷Crees que podemos seguir desde aqu胤?
+メCrees que podemos seguir desde aquボ?
 
 [msg YUKIKO_STAIR_FIND_2]
 Parece que podemos ir al siguiente[n]piso.
 
 [msg YUKIKO_STAIR_FIND_3]
-Creo que podemos seguir adelante.[n]夷Por qu姻 no lo intentamos?
+Creo que podemos seguir adelante.[n]メPor qu〒 no lo intentamos?
 
 [msg YUKIKO_TREASURE_FIND_1]
-斡Mira, es un tesoro!
+ムMira, es un tesoro!
 
 [msg YUKIKO_TREASURE_FIND_2]
-Es un tesoro. 夷Deber胤amos abrirlo?
+Es un tesoro. メDeberボamos abrirlo?
 
 [msg YUKIKO_TREASURE_FIND_3]
-Me pregunto qu姻 hay dentro.
+Me pregunto qu〒 hay dentro.
 
 [msg YUKIKO_CHECK_WALL_1]
-Oh, 斡Mira por ah胤!
+Oh, ムMira por ahボ!
 
 [msg YUKIKO_CHECK_WALL_2]
-Hmm... siento que hay algo aqu胤.
+Hmm... siento que hay algo aquボ.
 
 [msg YUKIKO_CHECK_WALL_3]
-夷Por qu姻 no echamos un vistazo por[n]aqu胤?
+メPor qu〒 no echamos un vistazo por[n]aquボ?
 
 [msg YUKIKO_SWITCH_FIND_1]
 Oh, un interruptor.
 
 [msg YUKIKO_SWITCH_FIND_2]
-Vamos a tener que presionar el[n]interruptor, 夷no?
+Vamos a tener que presionar el[n]interruptor, メno?
 
 [msg YUKIKO_SWITCH_FIND_3]
-夷No parece un interruptor?
+メNo parece un interruptor?
 
 [msg YUKIKO_SHORTCUT_FIND_1]
-Creo que podemos pasar por all胤.
+Creo que podemos pasar por allボ.
 
 [msg YUKIKO_SHORTCUT_FIND_2]
-夷Crees que podemos usar eso como un[n]atajo?
+メCrees que podemos usar eso como un[n]atajo?
 
 [msg YUKIKO_SHORTCUT_FIND_3]
-Creo que podemos pasar por ah胤.
+Creo que podemos pasar por ahボ.
 
 [msg YUKIKO_PARTY_DEAD_1]
 ?
@@ -107,67 +107,67 @@ Creo que podemos pasar por ah胤.
 ?
 
 [msg YUKIKO_FOE_WARNING_NEAR_]
-斡El FOE todav胤a se acerca!
+ムEl FOE todavボa se acerca!
 
 [msg YUKIKO_FOE_WARNING_NEAR__2]
 Nos siguen. Tengamos cuidado.
 
 [msg YUKIKO_FOE_WARNING_NEAR__3]
-斡El FOE todav胤a nos persigue!
+ムEl FOE todavボa nos persigue!
 
 [msg YUKIKO_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YUKIKO_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YUKIKO_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YUKIKO_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg YUKIKO_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg YUKIKO_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg YUKIKO_1PERSON_HPTP10_1]
 Lo siento, no puedo seguir...
 
 [msg YUKIKO_1PERSON_HPTP10_2]
-Esto no es bueno. Creo que estoy en[n]mi l胤mite...
+Esto no es bueno. Creo que estoy en[n]mi lボmite...
 
 [msg YUKIKO_1PERSON_HPTP10_3]
-夷Crees que podr胤amos tomar un[n]descanso...?
+メCrees que podrボamos tomar un[n]descanso...?
 
 [msg YUKIKO_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YUKIKO_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YUKIKO_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YUKIKO_1PERSON_HP10_1]
-Alguien, por favor, c雨reme...
+Alguien, por favor, cマreme...
 
 [msg YUKIKO_1PERSON_HP10_2]
-Mi salud est茨 muy baja...
+Mi salud estホ muy baja...
 
 [msg YUKIKO_1PERSON_HP10_3]
 Por favor, alguien me cura...
 
 [msg YUKIKO_1PERSON_TP10_1]
-Nnh... no creo que tenga m茨s[n]energ胤a...
+Nnh... no creo que tenga mホs[n]energボa...
 
 [msg YUKIKO_1PERSON_TP10_2]
 Me estoy cansando...
 
 [msg YUKIKO_1PERSON_TP10_3]
-No sirve de nada... no creo que pueda[n]moverme ni un cent胤metro m茨s...
+No sirve de nada... no creo que pueda[n]moverme ni un centボmetro mホs...
 
 [msg YUKIKO_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,10 +179,10 @@ No sirve de nada... no creo que pueda[n]moverme ni un cent胤metro m茨s...
 【justificadamente
 
 [msg YUKIKO_1PERSON_HP80_1]
-斡Jeje! 斡Esto no es nada para[n]nosotros!
+ムJeje! ムEsto no es nada para[n]nosotros!
 
 [msg YUKIKO_1PERSON_HP80_2]
-Puedo seguir. D姻jamelo a m胤.
+Puedo seguir. D〒jamelo a mボ.
 
 [msg YUKIKO_1PERSON_HP80_3]
 Creo que podemos mantener el ritmo.
@@ -197,85 +197,85 @@ Creo que podemos mantener el ritmo.
 ■:
 
 [msg YUKIKO_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg YUKIKO_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg YUKIKO_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg YUKIKO_DUNGEON_START_1]
 No se arriesguen demasiado.
 
 [msg YUKIKO_DUNGEON_START_2]
-No olvidamos nada, 夷verdad?
+No olvidamos nada, メverdad?
 
 [msg YUKIKO_DUNGEON_START_3]
-Deber胤amos estar preparados para[n]cualquier cosa.
+Deberボamos estar preparados para[n]cualquier cosa.
 
 [msg YUKIKO_QUEST_START_1]
-Hagamos todo lo posible para tener[n]姻xito.
+Hagamos todo lo posible para tener[n]〒xito.
 
 [msg YUKIKO_QUEST_START_2]
-斡Vamos con cuidado!
+ムVamos con cuidado!
 
 [msg YUKIKO_QUEST_START_3]
 No te preocupes, estoy segura de que[n]podemos hacerlo.
 
 [msg YUKIKO_TOUHA_25_1]
-Siento que todav胤a tenemos mucho m茨s[n]por explorar...
+Siento que todavボa tenemos mucho mホs[n]por explorar...
 
 [msg YUKIKO_TOUHA_25_2]
-Todav胤a nos queda camino por recorrer, pero[n]sigamos haciendo lo mejor que podamos.
+Todavボa nos queda camino por recorrer, pero[n]sigamos haciendo lo mejor que podamos.
 
 [msg YUKIKO_TOUHA_50_1]
 Creo que estamos a mitad de camino.
 
 [msg YUKIKO_TOUHA_50_2]
-Mm, estamos en racha. 斡Sigamos as胤!
+Mm, estamos en racha. ムSigamos asボ!
 
 [msg YUKIKO_TOUHA_75_1]
 Uf... Hemos caminado bastante.
 
 [msg YUKIKO_TOUHA_75_2]
-Solo un poco m茨s y este piso estar茨[n]terminado.
+Solo un poco mホs y este piso estarホ[n]terminado.
 
 [msg YUKIKO_TOUHA_100_1]
 Hemos recorrido cada parte de este[n]piso. Bien hecho.
 
 [msg YUKIKO_TOUHA_100_2]
-斡Hemos recorrido cada parte de este[n]piso!
+ムHemos recorrido cada parte de este[n]piso!
 
 [msg YUKIKO_MAPPING_ICON_ALL_]
 El mapa se ve realmente bien,[n]gracias.
 
 [msg YUKIKO_MAPPING_ICON_ALL__2]
-Wow, 斡Este mapa es muy preciso!
+Wow, ムEste mapa es muy preciso!
 
 [msg YUKIKO_MAPPING_ICON_KAID]
-Estoy segura de que ser茨 雨til si[n]sabemos d吋nde est茨n las escaleras.
+Estoy segura de que serホ マtil si[n]sabemos dポnde estホn las escaleras.
 
 [msg YUKIKO_MAPPING_ICON_KAID_2]
-Es bueno marcar puntos de inter姻s.
+Es bueno marcar puntos de inter〒s.
 
 [msg YUKIKO_MAPPING_CHANGE_CO]
-Ah, 夷Usar茨s ese color?
+Ah, メUsarホs ese color?
 
 [msg YUKIKO_MAPPING_CHANGE_CO_2]
-Tienes un ojo agudo para el arte. Tal[n]vez yo tambi姻n lo intente.
+Tienes un ojo agudo para el arte. Tal[n]vez yo tambi〒n lo intente.
 
 [msg YUKIKO_MAPPING_ICON_DEL_]
 Es mejor tirar cosas que no[n]necesitamos.
 
 [msg YUKIKO_MAPPING_ICON_DEL__2]
-Mmhm, mucho m茨s limpio ahora.
+Mmhm, mucho mホs limpio ahora.
 
 [msg YUKIKO_MAPPING_MEMO_1]
 Es importante tomar notas.
 
 [msg YUKIKO_MAPPING_MEMO_2]
-Aseg雨rate de escribirlo para que no[n]se te olvide.
+Asegマrate de escribirlo para que no[n]se te olvide.
 
 [msg YUKIKO_DOOR_OPEN_1]
 Supongo que vamos por este camino.
@@ -284,14 +284,14 @@ Supongo que vamos por este camino.
 Sigamos.
 
 [msg YUKIKO_DOOR_OPEN_3]
-夷Qu姻 crees que hay al otro lado?
+メQu〒 crees que hay al otro lado?
 
 [msg YUKIKO_KARITORU_ENCOUNT_]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg YUKIKO_KARITORU_ENCOUNT__2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg YUKIKO_KARITORU_ENCOUNT__3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

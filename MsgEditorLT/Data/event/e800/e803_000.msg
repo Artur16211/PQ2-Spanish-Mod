@@ -1,38 +1,38 @@
 [msg MSG_000 [Morgana]]
-Parece un callej吋n sin salida.
+Parece un callejポn sin salida.
 
 [msg MSG_001 [Ann]]
-夷Podemos tomar un descanso? Hace mucho calor y tengo sed.
+メPodemos tomar un descanso? Hace mucho calor y tengo sed.
 
 [msg MSG_002 [Akechi]]
-No es de extra隠ar el calor. Despu姻s de todo, este sitio fue especialmente dise隠ado para los dinosaurios.
+No es de extraワar el calor. Despu〒s de todo, este sitio fue especialmente diseワado para los dinosaurios.
 
 [msg MSG_003 [Yukiko]]
-夷Est茨s bien, Mona? Quiz茨s deber胤as quitarte eso.
+メEstホs bien, Mona? Quizホs deberボas quitarte eso.
 
 [msg MSG_004 [Morgana]]
-斡Que no es un disfraz!
+ムQue no es un disfraz!
 
 [msg MSG_005 [Kanji]]
 ...
 ...
 
 [msg MSG_006]
-夷...?
-Kanji est茨 mirando fijamente a Morgana...
+メ...?
+Kanji estホ mirando fijamente a Morgana...
 
 [msg MSG_007 [Ryuji]]
-斡Oye! 斡Joker!
+ムOye! ムJoker!
 
 [msg MSG_008 [Kanji]]
-斡...!
+ム...!
 
 [msg MSG_009 [Ryuji]]
-夷Qu姻 pasa con 姻l?
-Estaba mirando a Mona, 夷no?
+メQu〒 pasa con 〒l?
+Estaba mirando a Mona, メno?
 
 [msg MSG_010 [Morgana]]
-夷Qu姻 pasa, Skull?
+メQu〒 pasa, Skull?
 
 [msg MSG_011 [Ryuji]]
 Oh, no es nada.
@@ -42,14 +42,14 @@ Suficiente descanso por ahora. Continuemos.
 ...
 
 [msg MSG_013 [Ryuji]]
-Todav胤a est茨 mir茨ndolo. 夷Qu姻 le ocurre?
+Todavボa estホ mirホndolo. メQu〒 le ocurre?
 
 [msg MSG_014 [Morgana]]
-斡Oye, Skull! 斡Te vas a caer ah胤 abajo!
+ムOye, Skull! ムTe vas a caer ahボ abajo!
 
 [msg MSG_015 [Ryuji]]
-斡Culpa m胤a! Ya voy.
+ムCulpa mボa! Ya voy.
 
 [msg MSG_016]
-Una nueva proyecci吋n especial: "Choque de Matones" ha sido a隠adida a la taquilla.
+Una nueva proyecciポn especial: "Choque de Matones" ha sido aワadida a la taquilla.
 

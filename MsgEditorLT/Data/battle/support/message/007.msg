@@ -2,25 +2,25 @@
 Dummy
 
 [msg BTL_MES_007_001]
-斡No podemos retroceder!
+ムNo podemos retroceder!
 
 [msg BTL_MES_007_002]
-＜声Of＞kDGkzぜコラ茨！ ぜDGー負けNえ！
+＜声Of＞kDGkzぜコラホ！ ぜDGー負けNえ！
 
 [msg BTL_MES_007_003]
-E-es un I-i-algo. 斡Esto no pinta bien!
+E-es un I-i-algo. ムEsto no pinta bien!
 
 [msg BTL_MES_007_004]
 ＜声Of＞ク17！ 退くしかNえOかo…！
 
 [msg BTL_MES_007_005]
-斡Oye! Podemos ganar esta, 夷verdad?
+ムOye! Podemos ganar esta, メverdad?
 
 [msg BTL_MES_007_006]
-斡Oh, mierda! 斡Una rara!
+ムOh, mierda! ムUna rara!
 
 [msg BTL_MES_007_007]
-＜声Of＞謂ラ謂ラ謂ラー！ 逃がさNーぞ！
+＜声Of＞ヰラヰラヰラー！ 逃がさNーぞ！
 
 [msg BTL_MES_007_008]
 ＜声Of＞vーDたぜ、)ビ
@@ -32,31 +32,31 @@ E-es un I-i-algo. 斡Esto no pinta bien!
 ＜声Of＞山岸さz、了解Dス
 
 [msg BTL_MES_007_011]
-斡Ah! Esta parece ser demasiado para nosotros, 夷verdad?
+ムAh! Esta parece ser demasiado para nosotros, メverdad?
 
 [msg BTL_MES_007_012]
 ＜声Of＞ク71…ケ8向けzOP癪AけJ、 kpsrワケLいかNーし…
 
 [msg BTL_MES_007_013]
-Nunca hab胤a visto una de esas. 夷Quieres buscar su debilidad?
+Nunca habボa visto una de esas. メQuieres buscar su debilidad?
 
 [msg BTL_MES_007_014]
 ＜声Of＞うDス！ 了解Dス！
 
 [msg BTL_MES_007_015]
-斡Pan comido!
+ムPan comido!
 
 [msg BTL_MES_007_016]
-＜声Of＞こsKpボコsそうAぜ krぜコラ茨！
+＜声Of＞こsKpボコsそうAぜ krぜコラホ！
 
 [msg BTL_MES_007_017]
-Je, d姻biles. Esto terminar茨 r茨pido.
+Je, d〒biles. Esto terminarホ rホpido.
 
 [msg BTL_MES_007_018]
 ＜声Of＞ヨユーDスN！ 瞬殺しGkzぜ！
 
 [msg BTL_MES_007_019]
-Oye, 夷hay algo extra隠o en esa Sombra?
+Oye, メhay algo extraワo en esa Sombra?
 
 [msg BTL_MES_007_020]
 ＜声Of＞うおD！？ 逃げpzNぇ！
@@ -65,7 +65,7 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞乱入かoコラ！ 聞いGNーぞ！
 
 [msg BTL_MES_007_022]
-斡Argh, maldici吋n! 斡Estamos en un gran aprieto!
+ムArgh, maldiciポn! ムEstamos en un gran aprieto!
 
 [msg BTL_MES_007_023]
 ＜声Of＞くDそ… マジかo！？
@@ -74,16 +74,16 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞BnD、大丈夫Dスか先輩！ 手当GしNぇI…！
 
 [msg BTL_MES_007_025]
-＜声Of＞ヤベー状況LKDGDスN… フ隠ローしNぇI！
+＜声Of＞ヤベー状況LKDGDスN… フワローしNぇI！
 
 [msg BTL_MES_007_026]
-＜声Of＞花村先輩、ヤベ緯！ 回復しNぇI！
+＜声Of＞花村先輩、ヤベレ！ 回復しNぇI！
 
 [msg BTL_MES_007_027]
 ＜声Of＞里中先輩、マジかo！？ 助けNーI！
 
 [msg BTL_MES_007_028]
-＜声Of＞天城先輩、ヤベ緯Dスo！ 回復しNーI！
+＜声Of＞天城先輩、ヤベレDスo！ 回復しNーI！
 
 [msg BTL_MES_007_029]
 ＜声Of＞4ミー
@@ -95,43 +95,43 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞おい直斗、しDかqしt！ 57…KzIかしNーI！
 
 [msg BTL_MES_007_032]
-＜声Of＞クマがヤベ緯こILKDGzぞ！ JうLかしNーI！
+＜声Of＞クマがヤベレこILKDGzぞ！ JうLかしNーI！
 
 [msg BTL_MES_007_033]
 ＜声Of＞岳羽さzがピン5Dスo！ 回復しNぇI！
 
 [msg BTL_MES_007_034]
-＜声Of＞伊織さzがヤベ緯状態Aぜ！ フ隠ローしNーI！
+＜声Of＞伊織さzがヤベレ状態Aぜ！ フワローしNーI！
 
 [msg BTL_MES_007_035]
-＜声Of＞BnD、真田さzヤベ緯ぞ！ 早くKzIかしNーI！
+＜声Of＞BnD、真田さzヤベレぞ！ 早くKzIかしNーI！
 
 [msg BTL_MES_007_036]
-＜声Of＞うおD、桐条さzがヤベ緯…！ JうLかしNーI！
+＜声Of＞うおD、桐条さzがヤベレ…！ JうLかしNーI！
 
 [msg BTL_MES_007_037]
 ＜声Of＞4ミー
 
 [msg BTL_MES_007_038]
-＜声Of＞威姻/スさz、おかしくKDGzぞ！？ 早く回復しNぇI！
+＜声Of＞ミ〒/スさz、おかしくKDGzぞ！？ 早く回復しNぇI！
 
 [msg BTL_MES_007_039]
 ＜声Of＞大丈夫かo、天田！？ 57、助けNーI…！
 
 [msg BTL_MES_007_040]
-＜声Of＞コロマルがヤベ緯！ すぐ助けNぇI！
+＜声Of＞コロマルがヤベレ！ すぐ助けNぇI！
 
 [msg BTL_MES_007_041]
-＜声Of＞うおD、荒垣さz！？ KzIかしNぇI、ヤベ緯！
+＜声Of＞うおD、荒垣さz！？ KzIかしNぇI、ヤベレ！
 
 [msg BTL_MES_007_042]
 ＜声Of＞おい、大丈夫かo！？ 手当GしNぇI…！
 
 [msg BTL_MES_007_043]
-＜声Of＞くDそ、ジョー吋ーが… 早く助けNーI！
+＜声Of＞くDそ、ジョーポーが… 早く助けNーI！
 
 [msg BTL_MES_007_044]
-＜声Of＞ス吋ルがヤベ緯ぞ！？ 回復しNーI！
+＜声Of＞スポルがヤベレぞ！？ 回復しNーI！
 
 [msg BTL_MES_007_045]
 ＜声Of＞パンサー、マジかo！？ 早く助けNーI！
@@ -140,37 +140,37 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞モ)がおかしKこILKDGzぞ！ 回復しNーI！
 
 [msg BTL_MES_007_047]
-＜声Of＞フ隠7クス、ヤバくNぇか？ 早く助けNーI！
+＜声Of＞フワ7クス、ヤバくNぇか？ 早く助けNーI！
 
 [msg BTL_MES_007_048]
-＜声Of＞うおD、ク姻ーンが…！ IDII回復しNーI！
+＜声Of＞うおD、ク〒ーンが…！ IDII回復しNーI！
 
 [msg BTL_MES_007_049]
 ＜声Of＞4ミー
 
 [msg BTL_MES_007_050]
-＜声Of＞ノワールがヤベ緯！ JうLかしNーI！
+＜声Of＞ノワールがヤベレ！ JうLかしNーI！
 
 [msg BTL_MES_007_051]
-＜声Of＞クロ胤がkpsGzぞ！ 回復しNーI！
+＜声Of＞クロボがkpsGzぞ！ 回復しNーI！
 
 [msg BTL_MES_007_052]
 ＜声Of＞おDしjあ！ WD潰す！
 
 [msg BTL_MES_007_053]
-斡Bien! 斡Estoy en eso!
+ムBien! ムEstoy en eso!
 
 [msg BTL_MES_007_054]
-＜声Of＞胤謂謂謂謂！ こOee、突D走DGkpぁ！
+＜声Of＞ボヰヰヰヰ！ こOee、突D走DGkpぁ！
 
 [msg BTL_MES_007_055]
-斡Puedo atacar su debilidad!
+ムPuedo atacar su debilidad!
 
 [msg BTL_MES_007_056]
-斡Un Relevo suena como una buena idea!
+ムUn Relevo suena como una buena idea!
 
 [msg BTL_MES_007_057]
-斡Bien! 斡Mi momento de brillar!
+ムBien! ムMi momento de brillar!
 
 [msg BTL_MES_007_058]
 ＜声Of＞さすが先輩！ 期待しGr7ス！
@@ -215,7 +215,7 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞4ミー
 
 [msg BTL_MES_007_072]
-＜声Of＞思いDきq暴st、威姻/スさz！
+＜声Of＞思いDきq暴st、ミ〒/スさz！
 
 [msg BTL_MES_007_073]
 ＜声Of＞kr気すげぇじjNーか、天田 kDBeえ！
@@ -230,10 +230,10 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞期待しGDかpK！
 
 [msg BTL_MES_007_077]
-＜声Of＞ジョー吋ー！ 威ン3O力、見せGくs！
+＜声Of＞ジョーポー！ ミン3O力、見せGくs！
 
 [msg BTL_MES_007_078]
-＜声Of＞ス吋ル！ 遠慮PいpNーかzK！
+＜声Of＞スポル！ 遠慮PいpNーかzK！
 
 [msg BTL_MES_007_079]
 ＜声Of＞パンサー、eかせたDスo！
@@ -242,10 +242,10 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞モ)！ 頼qLしGDかpK！
 
 [msg BTL_MES_007_081]
-＜声Of＞フ隠7クス、キメGくs！
+＜声Of＞フワ7クス、キメGくs！
 
 [msg BTL_MES_007_082]
-＜声Of＞ク姻ーン、WBかeしBeえ！
+＜声Of＞ク〒ーン、WBかeしBeえ！
 
 [msg BTL_MES_007_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Oye, 夷hay algo extra隠o en esa Sombra?
 ＜声Of＞YYD！ ノワール、期待しGzぜ！
 
 [msg BTL_MES_007_085]
-＜声Of＞クロ胤、WBかeしGくs！
+＜声Of＞クロボ、WBかeしGくs！
 
 [msg BTL_MES_007_086]
-斡Bien! 斡Estoy listo!
+ムBien! ムEstoy listo!
 

@@ -1,8 +1,8 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota al Manipulador Solitario!
+ムDerrota al Manipulador Solitario!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Dir胤gete al Final de la Isla.
+Dirボgete al Final de la Isla.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 ♪♪

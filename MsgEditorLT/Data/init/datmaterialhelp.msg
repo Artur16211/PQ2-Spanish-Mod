@@ -2,16 +2,16 @@
 Vende todos los materiales a mano.
 
 [msg material_701]
-Un tel姻fono celular. Su pantalla est茨[n]notablemente agrietada. Obtenido en:[n]Kamoshidaman
+Un tel〒fono celular. Su pantalla estホ[n]notablemente agrietada. Obtenido en:[n]Kamoshidaman
 
 [msg material_702]
 Una luz decorativa encendida durante la[n]noche. Obtenido en: Kamoshidaman
 
 [msg material_703]
-Un reloj de pulsera anal吋gico da隠ado e[n]irreparable. Obtenido en: Kamoshidaman
+Un reloj de pulsera analポgico daワado e[n]irreparable. Obtenido en: Kamoshidaman
 
 [msg material_704]
-Una figura de superh姻roe. Presiona[n]detr茨s para hacer que hable. Obtenido[n]en: Kamoshidaman
+Una figura de superh〒roe. Presiona[n]detrホs para hacer que hable. Obtenido[n]en: Kamoshidaman
 
 [msg material_705]
 Fragmento de una Sombra de consistencia[n]similar a un gel. Tirado por: Cowardly[n]Maya [f 0 1 2](P1-Z1)
@@ -50,7 +50,7 @@ Fragmento de una sombra con un tomo[n]sagrado. Tirado por: Spurious Book[n][f 0 
 Piedra inquietante. Restos de una[n]Sombra. Tirado por: Spurious Book[n][f 0 1 2](P1-Z2)
 
 [msg material_711]
-Fragmento de una sombra vestida como un[n]polic胤a. Tirado por: Bribed Fuzz [f 0 1 2](P1-Z2)
+Fragmento de una sombra vestida como un[n]policボa. Tirado por: Bribed Fuzz [f 0 1 2](P1-Z2)
 
 [msg material_712]
 Piedra inquietante. Restos de una[n]Sombra. Tirado por: Bribed Fuzz [f 0 1 2](P1-Z2)
@@ -95,31 +95,31 @@ Fragmento de una sombra roja con forma[n]de tanque. Tirado por: Scarlet Turret
 素材0x71F１行目 素材0x71F２行目
 
 [msg material_720]
-Un emblema del pecho de un superh姻roe.[n]Tirado por: Super Kamoshidaman
+Un emblema del pecho de un superh〒roe.[n]Tirado por: Super Kamoshidaman
 
 [msg material_721]
 素材0x721１行目 素材0x721２行目
 
 [msg material_722]
-Una gu胤a para tejer tela encantada.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
+Una guボa para tejer tela encantada.[n][f 0 1 3]Aワade nuevos objetos cuando se vende
 
 [msg material_723]
-Una gu胤a para crear ropa primitiva.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
+Una guボa para crear ropa primitiva.[n][f 0 1 3]Aワade nuevos objetos cuando se vende
 
 [msg material_724]
-Una gu胤a para vincular palabras en[n]prendas de vestir. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa para vincular palabras en[n]prendas de vestir. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_725]
-Una gu胤a para elaborar armaduras[n]mecanizadas. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Una guボa para elaborar armaduras[n]mecanizadas. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_726]
-Moneda que se entrega a quien informa de[n]los desafios de un h姻roe. Obtenido en:[n]Kamoshidaman
+Moneda que se entrega a quien informa de[n]los desafios de un h〒roe. Obtenido en:[n]Kamoshidaman
 
 [msg material_727]
-Una moneda dada a aquel que derrota a[n]los enemigos de un h姻roe. Obtenido en:[n]Kamoshidaman
+Una moneda dada a aquel que derrota a[n]los enemigos de un h〒roe. Obtenido en:[n]Kamoshidaman
 
 [msg material_728]
-Una moneda dada a aquel que apoy吋 a un[n]h姻roe. Obtenido en: Kamoshidaman
+Una moneda dada a aquel que apoyポ a un[n]h〒roe. Obtenido en: Kamoshidaman
 
 [msg material_729]
 素材0x729１行目 素材0x729２行目
@@ -149,151 +149,151 @@ Una antigua moneda hecha con amatista.[n]Obtenido en: Junessic Land
 Pelo tieso de una sombra bestial. Tirado[n]por: Enslaved Beast [f 0 1 2](P2-Z1)
 
 [msg material_732]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Enslaved Beast [f 0 1 2](P2-Z1)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Enslaved Beast [f 0 1 2](P2-Z1)
 
 [msg material_733]
-Un fragmento de una sombra de 茨rbol[n]vestida con un kimono. Tirado por:[n]Inviting Nyogo [f 0 1 2](P2-Z1)
+Un fragmento de una sombra de ホrbol[n]vestida con un kimono. Tirado por:[n]Inviting Nyogo [f 0 1 2](P2-Z1)
 
 [msg material_734]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Inviting Nyogo [f 0 1 2](P2-Z1)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Inviting Nyogo [f 0 1 2](P2-Z1)
 
 [msg material_735]
-L胤quido de una sombra ligeramente[n]gelatinosa. Tirado por: Desirous Maya[n][f 0 1 2](P2-Z1)
+Lボquido de una sombra ligeramente[n]gelatinosa. Tirado por: Desirous Maya[n][f 0 1 2](P2-Z1)
 
 [msg material_736]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Desirous Maya [f 0 1 2](P2-Z1)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Desirous Maya [f 0 1 2](P2-Z1)
 
 [msg material_737]
-Fragmento de una peque隠a sombra[n]angelical. Tirado por: Blind Cupid[n][f 0 1 2](P2-Z3)
+Fragmento de una pequeワa sombra[n]angelical. Tirado por: Blind Cupid[n][f 0 1 2](P2-Z3)
 
 [msg material_738]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Blind Cupid [f 0 1 2](P2-Z3)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Blind Cupid [f 0 1 2](P2-Z3)
 
 [msg material_739]
 素材0x739１行目 素材0x739２行目
 
 [msg material_73A]
-Mineral 雨nico de una sombra con forma de[n]roca. Tirado por: Autonomic Basalt[n][f 0 1 2](P2-Z2)
+Mineral マnico de una sombra con forma de[n]roca. Tirado por: Autonomic Basalt[n][f 0 1 2](P2-Z2)
 
 [msg material_73B]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Autonomic Basalt [f 0 1 2](P2-Z2)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Autonomic Basalt [f 0 1 2](P2-Z2)
 
 [msg material_73C]
 Fragmento de una sombra grande con forma[n]de ave. Tirado por: Jupiter Eagle[n][f 0 1 2](P2-Z2)
 
 [msg material_73D]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Jupiter Eagle [f 0 1 2](P2-Z2)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Jupiter Eagle [f 0 1 2](P2-Z2)
 
 [msg material_73E]
 Una escama de una sombra con forma de[n]serpiente. Tirado por: Lustful Snake[n][f 0 1 2](P2-Z2)
 
 [msg material_73F]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Lustful Snake [f 0 1 2](P2-Z2)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Lustful Snake [f 0 1 2](P2-Z2)
 
 [msg material_740]
 Escamas de una sombra enjambre. Tirado[n]por: Whimsical Papillon [f 0 1 2](P2-Z2)
 
 [msg material_741]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Whimsical Papillon [f 0 1 2](P2-Z2)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Whimsical Papillon [f 0 1 2](P2-Z2)
 
 [msg material_742]
 素材0x742１行目 素材0x742２行目
 
 [msg material_743]
-Un fragmento fosilizado de una criatura[n]prehist吋rica. Obtenido en: Junessic Land
+Un fragmento fosilizado de una criatura[n]prehistポrica. Obtenido en: Junessic Land
 
 [msg material_744]
-Un f吋sil de 茨mbar natural con un tinte[n]amarillo. Obtenido en: Junessic Land
+Un fポsil de ホmbar natural con un tinte[n]amarillo. Obtenido en: Junessic Land
 
 [msg material_745]
-Un f吋sil intacto de una criatura[n]prehist吋rica. Obtenido en: Junessic Land
+Un fポsil intacto de una criatura[n]prehistポrica. Obtenido en: Junessic Land
 
 [msg material_746]
-威mbar lleno de restos de insectos[n]preservados. Obtenido en: Junessic Land
+ミmbar lleno de restos de insectos[n]preservados. Obtenido en: Junessic Land
 
 [msg material_747]
-La forma de este tornillo est茨 m茨s all茨[n]de las capacidades tecnol吋gicas[n]modernas. Obtenido en: A.I.G.I.S.
+La forma de este tornillo estホ mホs allホ[n]de las capacidades tecnolポgicas[n]modernas. Obtenido en: A.I.G.I.S.
 
 [msg material_748]
-Este dispositivo convierte basura cruda[n]en energ胤a el姻ctrica. Obtenido en:[n]A.I.G.I.S.
+Este dispositivo convierte basura cruda[n]en energボa el〒ctrica. Obtenido en:[n]A.I.G.I.S.
 
 [msg material_749]
 Un circuito que se cree que proviene de[n]un CPU de un futuro cercano. Obtenido[n]en: A.I.G.I.S.
 
 [msg material_74A]
-Un chip de inteligencia artificial con[n]un valor desviaci吋n superior a 65.[n]Obtenido en: A.I.G.I.S.
+Un chip de inteligencia artificial con[n]un valor desviaciポn superior a 65.[n]Obtenido en: A.I.G.I.S.
 
 [msg material_74B]
-Un sabor de palomitas de ma胤z que[n]resplandece con colores. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
+Un sabor de palomitas de maボz que[n]resplandece con colores. [f 0 1 3]Aワade nuevos[n]objetos cuando se vende
 
 [msg material_74C]
-Un sabor de palomitas de ma胤z, dulce y[n]azucarado. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Un sabor de palomitas de maボz, dulce y[n]azucarado. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_74D]
-Un sabor de palomitas de ma胤z con un[n]toque tropical. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Un sabor de palomitas de maボz con un[n]toque tropical. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_74E]
-Un sabor de palomitas de ma胤z, sabroso y[n]carnoso. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Un sabor de palomitas de maボz, sabroso y[n]carnoso. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_74F]
-Una gu胤a para preparar una encantadora[n]comida ligera. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa para preparar una encantadora[n]comida ligera. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_750]
-Una gu胤a para preparar una comida ligera[n]ex吋tica. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para preparar una comida ligera[n]exポtica. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_751]
-Una gu胤a para una comida ligera del Rey[n]Gourmet. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para una comida ligera del Rey[n]Gourmet. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_752]
-Una gu胤a para la mezcla 'muscle' en un[n]bar de bebidas. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa para la mezcla 'muscle' en un[n]bar de bebidas. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_753]
 Fragmento de una sombra con forma de[n]pez. Tirado por: Calm Pesce [f 0 1 2](P2-Z1)
 
 [msg material_754]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Calm Pesce [f 0 1 2](P2-Z1)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Calm Pesce [f 0 1 2](P2-Z1)
 
 [msg material_755]
 Fragmento de una sombra infantil y[n]floreciente. Tirado por: Secret Bambino[n][f 0 1 2](P2-Z3)
 
 [msg material_756]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Secret Bambino [f 0 1 2](P2-Z3)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Secret Bambino [f 0 1 2](P2-Z3)
 
 [msg material_757]
 Fragmento de una sombra siniestra[n]similar a una nube. Tirado por: Rainy[n]Brother 2 [f 0 1 2](P2-Z3)
 
 [msg material_758]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Rainy Brother 2 [f 0 1 2](P2-Z3)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Rainy Brother 2 [f 0 1 2](P2-Z3)
 
 [msg material_759]
 Placa resistente de una sombra con[n]apariencia de escama. Tirado por: Sky[n]Balance [f 0 1 2](P2-Z3)
 
 [msg material_75A]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Sky Balance [f 0 1 2](P2-Z3)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Sky Balance [f 0 1 2](P2-Z3)
 
 [msg material_75B]
 Fragmento de una sombra de ave con una[n]linterna. Tirado por: Black Raven[n][f 0 1 2](P2-Z4)
 
 [msg material_75C]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Black Raven [f 0 1 2](P2-Z4)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Black Raven [f 0 1 2](P2-Z4)
 
 [msg material_75D]
 Fragmento de una sombra con forma de[n]ADN. Tirado por: Happy Gene [f 0 1 2](P2-Z4)
 
 [msg material_75E]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Happy Gene [f 0 1 2](P2-Z4)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Happy Gene [f 0 1 2](P2-Z4)
 
 [msg material_75F]
 Fragmento de una sombra con aspecto de[n]Minotauro. Tirado por: Minotaur I[n][f 0 1 2](P2-Z4)
 
 [msg material_760]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Minotaur I [f 0 1 2](P2-Z4)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Minotaur I [f 0 1 2](P2-Z4)
 
 [msg material_761]
 Fragmento de una sombra con forma de[n]insecto gigante. Tirado por: Golden[n]Beetle [f 0 1 2](P2-Z4)
 
 [msg material_762]
-Cristal demon胤aco. Restos de una sombra.[n]Tirado por: Golden Beetle [f 0 1 2](P2-Z4)
+Cristal demonボaco. Restos de una sombra.[n]Tirado por: Golden Beetle [f 0 1 2](P2-Z4)
 
 [msg material_763]
 Un cuerno robusto con una forma[n]majestuosa. Tirado por: Golden Beetle[n][f 0 1 2](P2-Z4)
@@ -302,109 +302,109 @@ Un cuerno robusto con una forma[n]majestuosa. Tirado por: Golden Beetle[n][f 0 1
 Aceite delgado de una sombra gelatinosa.[n]Tirado por: Frivolous Maya [f 0 1 2](P3-Z1)
 
 [msg material_765]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Frivolous Maya[n][f 0 1 2](P3-Z1)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Frivolous Maya[n][f 0 1 2](P3-Z1)
 
 [msg material_766]
 Un engranaje sostenido por una sombra en[n]forma de rueda. Tirado por: Mach Wheel[n][f 0 1 2](P3-Z1)
 
 [msg material_767]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Mach Wheel[n][f 0 1 2](P3-Z1)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Mach Wheel[n][f 0 1 2](P3-Z1)
 
 [msg material_768]
 Fragmento de una sombra con brazos en[n]forma de lanza. Tirado por: Rampage[n]Drive [f 0 1 2](P3-Z1)
 
 [msg material_769]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Rampage Drive[n][f 0 1 2](P3-Z1)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Rampage Drive[n][f 0 1 2](P3-Z1)
 
 [msg material_76A]
 Fragmento de una sombra con apariencia[n]de mago encapuchado. Tirado por: Phantom[n]Mage [f 0 1 2](P3-Z1)
 
 [msg material_76B]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Phantom Mage[n][f 0 1 2](P3-Z1)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Phantom Mage[n][f 0 1 2](P3-Z1)
 
 [msg material_76C]
 Fragmento de una sombra con forma de[n]reloj de arena. Tirado por: Flowing Sand[n][f 0 1 2](P3-Z1)
 
 [msg material_76D]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Flowing Sand[n][f 0 1 2](P3-Z1)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Flowing Sand[n][f 0 1 2](P3-Z1)
 
 [msg material_76E]
 Corona de una sombra de tres cabezas.[n]Tirado por: Apostate Tower [f 0 1 2](P3-Z2)
 
 [msg material_76F]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Apostate Tower[n][f 0 1 2](P3-Z2)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Apostate Tower[n][f 0 1 2](P3-Z2)
 
 [msg material_770]
 El chasis de una sombra con apariencia[n]de tanque. Tirado por: Roaring Turret[n][f 0 1 2](P3-Z2)
 
 [msg material_771]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Roaring Turret[n][f 0 1 2](P3-Z2)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Roaring Turret[n][f 0 1 2](P3-Z2)
 
 [msg material_772]
 Fragmento de una sombra con forma de[n]dado. Tirado por: Iron Dice [f 0 1 2](P3-Z2)
 
 [msg material_773]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Iron Dice[n][f 0 1 2](P3-Z2)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Iron Dice[n][f 0 1 2](P3-Z2)
 
 [msg material_774]
 Un pico gigante dentro de una sombra con[n]forma de estatua. Tirado por: Constancy[n]Relic [f 0 1 2](P3-Z3)
 
 [msg material_775]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Constancy Relic[n][f 0 1 2](P3-Z3)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Constancy Relic[n][f 0 1 2](P3-Z3)
 
 [msg material_776]
 Fragmento de una sombra con forma de[n]castillo rocoso. Tirado por: Power[n]Castle [f 0 1 2](P3-Z3)
 
 [msg material_777]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Power Castle[n][f 0 1 2](P3-Z3)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Power Castle[n][f 0 1 2](P3-Z3)
 
 [msg material_778]
-Fragmento de una sombra con l茨minas[n]m茨gicas. Tirado por: Blue Sigil [f 0 1 2](P3-Z3)
+Fragmento de una sombra con lホminas[n]mホgicas. Tirado por: Blue Sigil [f 0 1 2](P3-Z3)
 
 [msg material_779]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Blue Sigil[n][f 0 1 2](P3-Z3)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Blue Sigil[n][f 0 1 2](P3-Z3)
 
 [msg material_77A]
-Ap姻ndice helicoidal de una sombra con[n]forma de ADN. Tirado por: Fail Gene[n][f 0 1 2](P3-Z3)
+Ap〒ndice helicoidal de una sombra con[n]forma de ADN. Tirado por: Fail Gene[n][f 0 1 2](P3-Z3)
 
 [msg material_77B]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Fail Gene[n][f 0 1 2](P3-Z3)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Fail Gene[n][f 0 1 2](P3-Z3)
 
 [msg material_77C]
 Fragmento de una sombra con un brazo[n]portador de cuchilla. Tirado por:[n]Justice Sword [f 0 1 2](P3-Z3)
 
 [msg material_77D]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Justice Sword[n][f 0 1 2](P3-Z3)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Justice Sword[n][f 0 1 2](P3-Z3)
 
 [msg material_77E]
 Fragmento de una sombra atada boca[n]abajo. Tirado por: Fierce Cyclops[n][f 0 1 2](P3-Z3)
 
 [msg material_77F]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Fierce Cyclops[n][f 0 1 2](P3-Z3)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Fierce Cyclops[n][f 0 1 2](P3-Z3)
 
 [msg material_780]
 Fragmento de una sombra con montura de[n]torreta. Tirado por: Dismayed Panzer[n][f 0 1 2](P3-Z4)
 
 [msg material_781]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Dismayed Panzer[n][f 0 1 2](P3-Z4)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Dismayed Panzer[n][f 0 1 2](P3-Z4)
 
 [msg material_782]
-M茨scara sudorosa de una sombra[n]luchadora. Tirado por: Immortal Gigas[n][f 0 1 2](P3-Z4)
+Mホscara sudorosa de una sombra[n]luchadora. Tirado por: Immortal Gigas[n][f 0 1 2](P3-Z4)
 
 [msg material_783]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Immortal Gigas[n][f 0 1 2](P3-Z4)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Immortal Gigas[n][f 0 1 2](P3-Z4)
 
 [msg material_784]
 Placa ocular de una sombra con forma de[n]dado. Tirado por: Mind Dice [f 0 1 2](P3-Z4)
 
 [msg material_785]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Mind Dice[n][f 0 1 2](P3-Z4)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Mind Dice[n][f 0 1 2](P3-Z4)
 
 [msg material_786]
 Fragmento de una sombra humanoide[n]gigante. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
 
 [msg material_787]
-N雨cleo que queda despu姻s de la muerte de[n]una sombra. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
+Nマcleo que queda despu〒s de la muerte de[n]una sombra. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
 
 [msg material_788]
 Una placa de hierro llamativa y[n]voluminosa. Tirado por: Guardian Machine[n][f 0 1 2](P3-Z4)
@@ -434,19 +434,19 @@ Fragmento de una sombra sentada en una[n]puerta. Tirado por: Shallow Okina[n][f 
 Joya preciosa. Restos de una sombra.[n]Tirado por: Shallow Okina [f 0 1 2](P4-Z1)
 
 [msg material_791]
-Una vara r胤gida que sostiene una sombra[n]con apariencia de escama. Tirado por:[n]Light Balance [f 0 1 2](P4-Z1)
+Una vara rボgida que sostiene una sombra[n]con apariencia de escama. Tirado por:[n]Light Balance [f 0 1 2](P4-Z1)
 
 [msg material_792]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Light Balance [f 0 1 2](P4-Z1)
 
 [msg material_793]
-L胤quido dulce de una sombra gelatinosa.[n]Tirado por: Devious Maya [f 0 1 2](P2-Z1)
+Lボquido dulce de una sombra gelatinosa.[n]Tirado por: Devious Maya [f 0 1 2](P2-Z1)
 
 [msg material_794]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Devious Maya [f 0 1 2](P4-Z1)
 
 [msg material_795]
-Ap姻ndice de una sombra de boca grande.[n]Tirado por: Flattering Hablerie [f 0 1 2](P4-Z3)
+Ap〒ndice de una sombra de boca grande.[n]Tirado por: Flattering Hablerie [f 0 1 2](P4-Z3)
 
 [msg material_796]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Flattering Hablerie [f 0 1 2](P4-Z3)
@@ -464,19 +464,19 @@ Fragmento de una sombra meditativa.[n]Tirado por: Tranquil Idol [f 0 1 2](P4-Z3)
 Joya preciosa. Restos de una sombra.[n]Tirado por: Tranquil Idol [f 0 1 2](P4-Z3)
 
 [msg material_79B]
-遺rgano de una sombra de gran tama隠o con[n]apariencia de ave. Tirado por: Eternal[n]Eagle [f 0 1 2](P4-Z3)
+ロrgano de una sombra de gran tamaワo con[n]apariencia de ave. Tirado por: Eternal[n]Eagle [f 0 1 2](P4-Z3)
 
 [msg material_79C]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Eternal Eagle [f 0 1 2](P4-Z3)
 
 [msg material_79D]
-遺rgano sensorial de una sombra con forma[n]de serpiente. Tirado por: Amorous Snake[n][f 0 1 2](P4-Z3)
+ロrgano sensorial de una sombra con forma[n]de serpiente. Tirado por: Amorous Snake[n][f 0 1 2](P4-Z3)
 
 [msg material_79E]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Amorous Snake [f 0 1 2](P4-Z3)
 
 [msg material_79F]
-遺rgano sensorial de una sombra enjambre.[n]Tirado por: Pure Papillon [f 0 1 2](P4-Z3)
+ロrgano sensorial de una sombra enjambre.[n]Tirado por: Pure Papillon [f 0 1 2](P4-Z3)
 
 [msg material_7A0]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Pure Papillon [f 0 1 2](P4-Z3)
@@ -488,19 +488,19 @@ Ropa interior de una sombra con[n]apariencia de Minotauro. Tirado por:[n]Minotau
 Joya preciosa. Restos de una sombra.[n]Tirado por: Minotaur II [f 0 1 2](P4-Z3)
 
 [msg material_7A3]
-Fragmento de una sombra mu隠eca que se[n]balancea de forma inquietante. Tirado[n]por: Protective Lexy [f 0 1 2](P4-Z3)
+Fragmento de una sombra muワeca que se[n]balancea de forma inquietante. Tirado[n]por: Protective Lexy [f 0 1 2](P4-Z3)
 
 [msg material_7A4]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Protective Lexy [f 0 1 2](P4-Z3)
 
 [msg material_7A5]
-Fragmento de una sombra de hechicero[n]vestido con t雨nicas. Tirado por:[n]Wondrous Magus [f 0 1 2](P4-Z5)
+Fragmento de una sombra de hechicero[n]vestido con tマnicas. Tirado por:[n]Wondrous Magus [f 0 1 2](P4-Z5)
 
 [msg material_7A6]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Wondrous Magus [f 0 1 2](P4-Z5)
 
 [msg material_7A7]
-Fragmento de una sombra con aspecto de[n]reina en un sof茨. Tirado por: Elegant[n]Mother [f 0 1 2](P4-Z5)
+Fragmento de una sombra con aspecto de[n]reina en un sofホ. Tirado por: Elegant[n]Mother [f 0 1 2](P4-Z5)
 
 [msg material_7A8]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Elegant Mother [f 0 1 2](P4-Z5)
@@ -512,7 +512,7 @@ Fragmento de una sombra de un caballero[n]montado. Tirado por: Intrepid Knight[n
 Joya preciosa. Restos de una sombra.[n]Tirado por: Intrepid Knight [f 0 1 2](P4-Z5)
 
 [msg material_7AB]
-Fragmento de una sombra empu隠ando un[n]estoque. Tirado por: Soul Dancer [f 0 1 2](P4-Z5)
+Fragmento de una sombra empuワando un[n]estoque. Tirado por: Soul Dancer [f 0 1 2](P4-Z5)
 
 [msg material_7AC]
 Joya preciosa. Restos de una sombra.[n]Tirado por: Soul Dancer [f 0 1 2](P4-Z5)
@@ -533,7 +533,7 @@ Joya preciosa. Restos de una sombra.[n]Tirado por: Soul Seeker [f 0 1 2](P4-Z5)
 Un globo ocular blando con un destello[n]feroz. Tirado por: Soul Seeker [f 0 1 2](P4-Z5)
 
 [msg material_7B2]
-Un 吋rgano que una sombra de pez usa para[n]flotar. Tirado por: Pursuing Pesce[n][f 0 1 2](P5-Z1)
+Un ポrgano que una sombra de pez usa para[n]flotar. Tirado por: Pursuing Pesce[n][f 0 1 2](P5-Z1)
 
 [msg material_7B3]
 Un cache oculto dejada por una sombra.[n]Tirado por: Pursuing Pesce [f 0 1 2](P5-Z1)
@@ -545,13 +545,13 @@ Chapado dorado de una sombra con forma[n]de estatua. Tirado por: Change Relic[n]
 Un cache oculto dejada por una sombra.[n]Tirado por: Change Relic [f 0 1 2](P5-Z1)
 
 [msg material_7B6]
-Bloc de notas y placa de un alguacil[n]sombr胤o. Tirado por: Chaos Fuzz [f 0 1 2](P5-Z1)
+Bloc de notas y placa de un alguacil[n]sombrボo. Tirado por: Chaos Fuzz [f 0 1 2](P5-Z1)
 
 [msg material_7B7]
 Un cache oculto dejada por una sombra.[n]Tirado por: Chaos Fuzz [f 0 1 2](P5-Z1)
 
 [msg material_7B8]
-L胤quido ocular dorado de una sombra[n]gelatinosa. Tirado por: Insidious Maya[n][f 0 1 2](P5-Z1)
+Lボquido ocular dorado de una sombra[n]gelatinosa. Tirado por: Insidious Maya[n][f 0 1 2](P5-Z1)
 
 [msg material_7B9]
 Un cache oculto dejada por una sombra.[n]Tirado por: Insidious Maya [f 0 1 2](P5-Z1)
@@ -581,19 +581,19 @@ Columna de una sombra de tres cabezas.[n]Tirado por: Grudge Tower [f 0 1 2](P5-Z
 Un cache oculto dejada por una sombra.[n]Tirado por: Grudge Tower [f 0 1 2](P5-Z2)
 
 [msg material_7C2]
-Pipa de fumar de una sombra con[n]apariencia de 茨rbol. Tirado por: Valuing[n]Nyogo [f 0 1 2](P5-Z2)
+Pipa de fumar de una sombra con[n]apariencia de ホrbol. Tirado por: Valuing[n]Nyogo [f 0 1 2](P5-Z2)
 
 [msg material_7C3]
 Un cache oculto dejada por una sombra.[n]Tirado por: Valuing Nyogo [f 0 1 2](P5-Z2)
 
 [msg material_7C4]
-Una decoraci吋n en una sombra con[n]apariencia de escama. Tirado por: World[n]Balance [f 0 1 2](P5-Z2)
+Una decoraciポn en una sombra con[n]apariencia de escama. Tirado por: World[n]Balance [f 0 1 2](P5-Z2)
 
 [msg material_7C5]
 Un cache oculto dejada por una sombra.[n]Tirado por: World Balance [f 0 1 2](P5-Z2)
 
 [msg material_7C6]
-L茨grima de cristal de una sombra[n]encadenada. Tirado por: Rebellious[n]Cyclops [f 0 1 2](P5-Z2)
+Lホgrima de cristal de una sombra[n]encadenada. Tirado por: Rebellious[n]Cyclops [f 0 1 2](P5-Z2)
 
 [msg material_7C7]
 Un cache oculto dejada por una sombra.[n]Tirado por: Rebellious Cyclops [f 0 1 2](P5-Z2)
@@ -611,7 +611,7 @@ Flor floreciente de una sombra infantil.[n]Tirado por: Free Bambino [f 0 1 2](P5
 Un cache oculto dejada por una sombra.[n]Tirado por: Free Bambino [f 0 1 2](P5-Z3)
 
 [msg material_7CC]
-Ala peque隠a de una sombra angelical.[n]Tirado por: Devoted Cupid [f 0 1 2](P5-Z3)
+Ala pequeワa de una sombra angelical.[n]Tirado por: Devoted Cupid [f 0 1 2](P5-Z3)
 
 [msg material_7CD]
 Un cache oculto dejada por una sombra.[n]Tirado por: Devoted Cupid [f 0 1 2](P5-Z3)
@@ -629,13 +629,13 @@ Placa de una sombra con forma de dado.[n]Tirado por: Platinum Dice [f 0 1 2](P5-
 Un cache oculto dejada por una sombra.[n]Tirado por: Platinum Dice [f 0 1 2](P5-Z3)
 
 [msg material_7D2]
-Mapa gen姻tico de una sombra con forma de[n]ADN. Tirado por: Next Gene [f 0 1 2](P5-Z3)
+Mapa gen〒tico de una sombra con forma de[n]ADN. Tirado por: Next Gene [f 0 1 2](P5-Z3)
 
 [msg material_7D3]
 Un cache oculto dejada por una sombra.[n]Tirado por: Next Gene [f 0 1 2](P5-Z3)
 
 [msg material_7D4]
-Pa隠uelo de una sombra femenina. Tirado[n]por: Divine Mother [f 0 1 2](P5-Z4)
+Paワuelo de una sombra femenina. Tirado[n]por: Divine Mother [f 0 1 2](P5-Z4)
 
 [msg material_7D5]
 Un cache oculto dejada por una sombra.[n]Tirado por: Divine Mother [f 0 1 2](P5-Z4)
@@ -665,16 +665,16 @@ Fragmento de una sombra en un caballo de[n]madera. Tirado por: Jotun of Grief[n]
 Un cache oculto dejada por una sombra.[n]Tirado por: Jotun of Grief [f 0 1 2](P5-Z4)
 
 [msg material_7DE]
-Mech吋n de cabello de una sombra real.[n]Tirado por: Baleful King [f 0 1 2](P5-Z4)
+Mechポn de cabello de una sombra real.[n]Tirado por: Baleful King [f 0 1 2](P5-Z4)
 
 [msg material_7DF]
-La piel de un dinosaurio extra隠o. Se[n]transforma en momentos inesperados.[n]Tirado por: Yosukesaurio
+La piel de un dinosaurio extraワo. Se[n]transforma en momentos inesperados.[n]Tirado por: Yosukesaurio
 
 [msg material_7E0]
 Un plan maestro que oculta la verdadera[n]agenda del escritor. Tirado por: Madre[n]Computadora
 
 [msg material_7E1]
-Una m茨scara sencilla. Tu coraz吋n dicta[n]tu impresi吋n de ella. Tirado por: Doe
+Una mホscara sencilla. Tu corazポn dicta[n]tu impresiポn de ella. Tirado por: Doe
 
 [msg material_7E2]
 Un cache oculto dejada por una sombra.[n]Tirado por: Baleful King [f 0 1 2](P5-Z4)
@@ -686,7 +686,7 @@ Una piedra que abre un camino hacia el[n]destino. Obtenido en:
 Un modelo de paja de un cerebro lleno de[n]conocimiento. Obtenido en:
 
 [msg material_7E5]
-Un coraz吋n modelo. Late cerca de un[n]paisaje en movimiento o m雨sica. Obtenido[n]en:
+Un corazポn modelo. Late cerca de un[n]paisaje en movimiento o mマsica. Obtenido[n]en:
 
 [msg material_7E6]
 Cabello de los valientes. Se eriza.[n]Obtenido en:
@@ -695,7 +695,7 @@ Cabello de los valientes. Se eriza.[n]Obtenido en:
 Un libro blanco impoluto que registra[n]todas las probabilidades. Obtenido en:[n]Distrito del Cine
 
 [msg material_7E8]
-Un guion gr茨fico. Da vida a todo lo que[n]se escribe en 姻l. Obtenido en: Distrito[n]del Cine
+Un guion grホfico. Da vida a todo lo que[n]se escribe en 〒l. Obtenido en: Distrito[n]del Cine
 
 [msg material_7E9]
 Un horario de tareas y sus franjas[n]horarias. Obtenido en: Distrito del Cine
@@ -704,106 +704,106 @@ Un horario de tareas y sus franjas[n]horarias. Obtenido en: Distrito del Cine
 Un guion manchado por los sentimientos[n]del escritor y el actor. Obtenido en:[n]Distrito del Cine
 
 [msg material_7EB]
-Una tarjeta de dinero electr吋nico con[n]1MB de espacio. Obtenido en: A.I.G.I.S.
+Una tarjeta de dinero electrポnico con[n]1MB de espacio. Obtenido en: A.I.G.I.S.
 
 [msg material_7EC]
-Una tarjeta de dinero electr吋nico con[n]1GB de espacio. Obtenido en: A.I.G.I.S.
+Una tarjeta de dinero electrポnico con[n]1GB de espacio. Obtenido en: A.I.G.I.S.
 
 [msg material_7ED]
-Una tarjeta de dinero electr吋nico con[n]1TB de espacio. Obtenido en: A.I.G.I.S.
+Una tarjeta de dinero electrポnico con[n]1TB de espacio. Obtenido en: A.I.G.I.S.
 
 [msg material_7EE]
-Una gu胤a para la tecnolog胤a m茨s all茨 de[n]la ciencia moderna. Tirado por:[n]Supervisor
+Una guボa para la tecnologボa mホs allホ de[n]la ciencia moderna. Tirado por:[n]Supervisor
 
 [msg material_7EF]
-Una gu胤a para encontrar la entrada de un[n]laberinto. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Una guボa para encontrar la entrada de un[n]laberinto. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_7F0]
-Una gu胤a para el volumen de bebida con[n]menor p姻rdida de sabor. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
+Una guボa para el volumen de bebida con[n]menor p〒rdida de sabor. [f 0 1 3]Aワade nuevos[n]objetos cuando se vende
 
 [msg material_7F1]
-Una gu胤a para una bebida vertida sobre[n]la cabeza. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Una guボa para una bebida vertida sobre[n]la cabeza. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_7F2]
-Una gu胤a para una bebida milagrosa para[n]la salud. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para una bebida milagrosa para[n]la salud. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7F3]
-Receta para un medicamento que cura la[n]atadura. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Receta para un medicamento que cura la[n]atadura. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7F4]
-Receta para pastillas que transmiten la[n]voluntad de un salvador. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
+Receta para pastillas que transmiten la[n]voluntad de un salvador. [f 0 1 3]Aワade nuevos[n]objetos cuando se vende
 
 [msg material_7F5]
-Gu胤a para cocinar un f姻nix vivo. [f 0 1 3]A隠ade[n]nuevos objetos cuando se vende
+Guボa para cocinar un f〒nix vivo. [f 0 1 3]Aワade[n]nuevos objetos cuando se vende
 
 [msg material_7F6]
-Texto detallando uno de los diez tesoros[n]sagrados. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Texto detallando uno de los diez tesoros[n]sagrados. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7F7]
-Una gu胤a para llamar de vuelta a un alma[n]cortada. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para llamar de vuelta a un alma[n]cortada. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7F8]
-Una gu胤a para resistir temperaturas[n]extremas. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para resistir temperaturas[n]extremas. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7F9]
-Una gu胤a para oponerse a las fuerzas de[n]la naturaleza. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa para oponerse a las fuerzas de[n]la naturaleza. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_7FA]
-Una gu胤a sobre poderes cient胤ficamente[n]no probados. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Una guボa sobre poderes cientボficamente[n]no probados. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_7FB]
-Una gu胤a para repurificar un poder[n]m胤stico. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para repurificar un poder[n]mボstico. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7FC]
-Una gu胤a sobre herramientas al estilo de[n]un ladr吋n fantasma. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa sobre herramientas al estilo de[n]un ladrポn fantasma. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_7FD]
-Una gu胤a sobre el equilibrio entre la[n]luz y la oscuridad. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa sobre el equilibrio entre la[n]luz y la oscuridad. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_7FE]
-Una gu胤a para adquirir protecci吋n[n]divina. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para adquirir protecciポn[n]divina. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_7FF]
-Una gu胤a para una herramienta pr茨ctica[n]para escapar. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa para una herramienta prホctica[n]para escapar. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_800]
-Gu胤a que supera la ciencia moderna.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
+Guボa que supera la ciencia moderna.[n][f 0 1 3]Aワade nuevos objetos cuando se vende
 
 [msg material_801]
-Una partitura musical que altera las[n]sombras. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una partitura musical que altera las[n]sombras. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_802]
-Una partitura musical extensa que altera[n]las sombras. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Una partitura musical extensa que altera[n]las sombras. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_803]
-Una gu胤a para una herramienta que[n]manipula laberintos. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
+Una guボa para una herramienta que[n]manipula laberintos. [f 0 1 3]Aワade nuevos[n]objetos cuando se vende
 
 [msg material_804]
-Una gu胤a para un caramelo que revitaliza[n]el alma. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para un caramelo que revitaliza[n]el alma. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_805]
-Una gu胤a para un postre que enriquece el[n]alma. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para un postre que enriquece el[n]alma. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_806]
-Una gu胤a para una poci吋n que nutre el[n]alma. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para una pociポn que nutre el[n]alma. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_807]
-Gu胤a para infundir balas con poder[n]elemental. [f 0 1 3]A隠ade nuevos objetos cuando[n]se vende
+Guボa para infundir balas con poder[n]elemental. [f 0 1 3]Aワade nuevos objetos cuando[n]se vende
 
 [msg material_808]
-Receta para una golosina popular en el[n]mundo de los Sue隠os. [f 0 1 3]A隠ade nuevos[n]objetos cuando se vende
+Receta para una golosina popular en el[n]mundo de los Sueワos. [f 0 1 3]Aワade nuevos[n]objetos cuando se vende
 
 [msg material_809]
-Solo alguien con un coraz吋n de adulto[n]puede leer este libro. Tirado por:[n]Baleful King [f 0 1 2](P5-Z4)
+Solo alguien con un corazポn de adulto[n]puede leer este libro. Tirado por:[n]Baleful King [f 0 1 2](P5-Z4)
 
 [msg material_80A]
-Una gu胤a para el atuendo de un actor[n]natural. [f 0 1 3]A隠ade nuevos objetos cuando se[n]vende
+Una guボa para el atuendo de un actor[n]natural. [f 0 1 3]Aワade nuevos objetos cuando se[n]vende
 
 [msg material_80B]
-Una gu胤a para un atuendo fascinante.[n][f 0 1 3]A隠ade nuevos objetos cuando se vende
+Una guボa para un atuendo fascinante.[n][f 0 1 3]Aワade nuevos objetos cuando se vende
 
 [msg material_80C]
-Una gu胤a para un atuendo extra隠amente[n]reconfortante. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Una guボa para un atuendo extraワamente[n]reconfortante. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_80D]
 素材0x80D１行目 素材0x80D２行目
@@ -815,19 +815,19 @@ Una gu胤a para un atuendo extra隠amente[n]reconfortante. [f 0 1 3]A隠ade nuev
 素材0x80F１行目 素材0x80F２行目
 
 [msg material_810]
-Un Medio que registra todas las[n]probabilidades. [f 0 1 3]A隠ade nuevos objetos[n]cuando se vende
+Un Medio que registra todas las[n]probabilidades. [f 0 1 3]Aワade nuevos objetos[n]cuando se vende
 
 [msg material_811]
 素材0x811１行目 素材0x811２行目
 
 [msg material_812]
-Tocar este cristal inspira m雨sica[n]hermosa. Obtenido en:
+Tocar este cristal inspira mマsica[n]hermosa. Obtenido en:
 
 [msg material_813]
-Tocar este cristal inspira m雨sica[n]animada. Obtenido en:
+Tocar este cristal inspira mマsica[n]animada. Obtenido en:
 
 [msg material_814]
-Tocar este cristal inspira m雨sica[n]exquisita. Obtenido en:
+Tocar este cristal inspira mマsica[n]exquisita. Obtenido en:
 
 [msg material_815]
 Para aquel que ha impresionado a una[n]audiencia. Obtenido en: Distrito del[n]Cine
@@ -842,16 +842,16 @@ Para aquel que ha impresionado a una[n]audiencia mundial. Obtenido en: Distrito[
 素材0x818１行目 素材0x818２行目
 
 [msg material_819]
-Un fragmento de una cresta roja[n]prominente y v胤vida. Tirado por: Chico[n]Pollo
+Un fragmento de una cresta roja[n]prominente y vボvida. Tirado por: Chico[n]Pollo
 
 [msg material_81A]
 Una mochila resistente, vista en muchas[n]aulas. Tirado por: Buster Girl
 
 [msg material_81B]
-Una hermosa u隠a postiza. Viene en 32[n]colores. Tirado por: Seidoptera
+Una hermosa uワa postiza. Viene en 32[n]colores. Tirado por: Seidoptera
 
 [msg material_81C]
-Pesta隠as postizas pomposas.[n]Sorprendentemente gruesas. Tirado por:[n]Tyranniqueen
+Pestaワas postizas pomposas.[n]Sorprendentemente gruesas. Tirado por:[n]Tyranniqueen
 
 [msg material_81D]
 Dispositivo de almacenamiento para[n]registros del espacio. Tirado por:[n]SCM-8801
@@ -869,10 +869,10 @@ Un relato de alguien que no pudo[n]conformarse con sus amigos. Tirado por:[n]Sr.
 Un relato de alguien que no pudo[n]conformarse a la sociedad. Tirado por:[n]Dwarven Family
 
 [msg material_822]
-Un hilo mezclado con tantos colores que[n]se volvi吋 negro. Tirado por: Phunbaba
+Un hilo mezclado con tantos colores que[n]se volviポ negro. Tirado por: Phunbaba
 
 [msg material_823]
-Un hilo mezclado con tantos colores que[n]se volvi吋 blanco. Tirado por: Namtaru
+Un hilo mezclado con tantos colores que[n]se volviポ blanco. Tirado por: Namtaru
 
 [msg material_824]
 Prueba de la victoria sobre el ser en la[n]sombra de la humanidad. Tirado por: El[n]Segador
@@ -989,22 +989,22 @@ Prueba de la victoria sobre el ser en la[n]sombra de la humanidad. Tirado por: E
 素材0x849１行目 素材0x849２行目
 
 [msg material_84A]
-Un peque隠o oso de juguete en condici吋n[n]vintage. Se vende a un precio[n]sorprendentemente alto.
+Un pequeワo oso de juguete en condiciポn[n]vintage. Se vende a un precio[n]sorprendentemente alto.
 
 [msg material_84B]
 Un mirador misterioso. Sus patrones[n]coloridos evocan sentimientos de[n]nostalgia.
 
 [msg material_84C]
-Una figura de arcilla que sol胤a ser[n]com雨n hace mucho tiempo.
+Una figura de arcilla que solボa ser[n]comマn hace mucho tiempo.
 
 [msg material_84D]
-Una caja inescrutable. Ninguna cantidad[n]de estudio puede aclarar la tecnolog胤a[n]que hay en su interior.
+Una caja inescrutable. Ninguna cantidad[n]de estudio puede aclarar la tecnologボa[n]que hay en su interior.
 
 [msg material_84E]
-Granos de ma胤z claramente h雨medos.
+Granos de maボz claramente hマmedos.
 
 [msg material_84F]
-Granos de ma胤z que te dan esa peque隠a[n]descarga de energ胤a est茨tica.
+Granos de maボz que te dan esa pequeワa[n]descarga de energボa estホtica.
 
 [msg material_850]
 素材0x850１行目 素材0x850２行目
@@ -1058,25 +1058,25 @@ Granos de ma胤z que te dan esa peque隠a[n]descarga de energ胤a est茨tica.
 Un trozo de una Sombra con apariencia[n]rocosa. Las muestras grandes alcanzan[n]precios elevados.
 
 [msg material_861]
-Una fruta con un aroma dulce. Huele m茨s[n]apetitosa de lo que sugiere su[n]apariencia.
+Una fruta con un aroma dulce. Huele mホs[n]apetitosa de lo que sugiere su[n]apariencia.
 
 [msg material_862]
 Maquinaria hecha con piezas totalmente[n]desconocidas, incluso para los expertos.
 
 [msg material_863]
-ク夷ス:吋7:対応LoDG 恐pく使用しKいI思vseす
+クメス:ポ7:対応LoDG 恐pく使用しKいI思vseす
 
 [msg material_864]
-Una planta de la jungla que huele[n]vagamente a dientes reci姻n cepillados.
+Una planta de la jungla que huele[n]vagamente a dientes reci〒n cepillados.
 
 [msg material_865]
 Una planta de la jungla que segrega un[n]fluido pegajoso con propiedades[n]medicinales.
 
 [msg material_866]
-Un mineral resistente extra胤do de un[n]castillo m吋vil.
+Un mineral resistente extraボdo de un[n]castillo mポvil.
 
 [msg material_867]
-Piezas de m茨quina que parecen ser muy[n]utilizadas en tecnolog胤a futurista.
+Piezas de mホquina que parecen ser muy[n]utilizadas en tecnologボa futurista.
 
 [msg material_868]
 Unused
@@ -1100,7 +1100,7 @@ Unused
 Unused
 
 [msg material_86F]
-Maquinaria fabricada con tecnolog胤a de[n]pr吋xima generaci吋n que algunos pueden[n]reconocer.
+Maquinaria fabricada con tecnologボa de[n]prポxima generaciポn que algunos pueden[n]reconocer.
 
 [msg material_870]
 Varios tesoros relucientes que ha[n]recogido un pterosaurio.

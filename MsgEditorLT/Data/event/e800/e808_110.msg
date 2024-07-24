@@ -1,51 +1,51 @@
 [msg MSG_000 [Rise]]
-斡Volved aqu胤! 斡Lo han hecho genial, Naoto y Futaba!
+ムVolved aquボ! ムLo han hecho genial, Naoto y Futaba!
 
 [msg MSG_001 [Makoto]]
-S胤, me ha impresionado mucho la memoria de Futaba y la capacidad de an茨lisis de Shirogane.
+Sボ, me ha impresionado mucho la memoria de Futaba y la capacidad de anホlisis de Shirogane.
 Gracias a vosotras dos, hemos sido capaces de resolver el crimen.
 
 [sel SEL_002 top]
-斡Buen trabajo!
+ムBuen trabajo!
 Una pareja perfecta.
-Todo es gracias a m胤.
+Todo es gracias a mボ.
 
 [msg MSG_003 [Futaba]]
-斡Ohh! 斡Suenas como un jefe de polic胤a!
+ムOhh! ムSuenas como un jefe de policボa!
 
 [msg MSG_004 [Naoto]]
-Gracias. Me hace feliz o胤r que digas eso.
+Gracias. Me hace feliz oボr que digas eso.
 Por supuesto, no podemos olvidar que contamos con tu ayuda, [f 6 1 30 0 0 0].
 
 [msg MSG_005 [Futaba]]
-斡S胤! 斡Quiz茨s podr胤amos convertirlo en algo!
+ムSボ! ムQuizホs podrボamos convertirlo en algo!
 
 [msg MSG_006 [Naoto]]
-*risita* Eres una genial compa隠era, Futaba. Me encantar胤a volver a trabajar contigo.
+*risita* Eres una genial compaワera, Futaba. Me encantarボa volver a trabajar contigo.
 
 [msg MSG_007 [Morgana]]
 Vamos... Deja que tengan su momento.
 
 [msg MSG_008 [Naoto]]
-*risita* Por su puesto, no lo podr胤amos haber hecho sin tu liderazgo.
+*risita* Por su puesto, no lo podrボamos haber hecho sin tu liderazgo.
 
 [msg MSG_009 [Haru]]
-斡Pero los detectives son superguais! 斡Me qued姻 absolutamente asombrada!
+ムPero los detectives son superguais! ムMe qued〒 absolutamente asombrada!
 
 [msg MSG_010 [Teddie]]
-斡Yo tambi姻n! 斡Quiero ver m茨s!
+ムYo tambi〒n! ムQuiero ver mホs!
 
 [msg MSG_011 [Rise]]
-Oh, quiz茨s Akechi podr胤a ir la pr吋xima vez. 斡Ser胤a la vieja Detective Pr胤ncipe contra el m茨s moderno!
+Oh, quizホs Akechi podrボa ir la prポxima vez. ムSerボa la vieja Detective Prボncipe contra el mホs moderno!
 
 [msg MSG_012 [Yukiko]]
-斡Wow! 斡Eso ser胤a genial! 斡Seguro que resolver胤an el crimen rapid胤simo!
+ムWow! ムEso serボa genial! ムSeguro que resolverボan el crimen rapidボsimo!
 
 [msg MSG_013 [Akechi]]
 Haha. Espero poder ser de ayuda.
 Por cierto, lo que he visto hoy ha sido genial. Realmente me ha ayudado a ampliar mis horizontes.
-Si alguna vez tenemos la oportunidad, d姻jame ayudarte, Pr胤ncipe Detective.
+Si alguna vez tenemos la oportunidad, d〒jame ayudarte, Prボncipe Detective.
 
 [msg MSG_014 [Naoto]]
-Ser胤a un honor. Si ese momento llega, por favor, hazlo.
+Serボa un honor. Si ese momento llega, por favor, hazlo.
 

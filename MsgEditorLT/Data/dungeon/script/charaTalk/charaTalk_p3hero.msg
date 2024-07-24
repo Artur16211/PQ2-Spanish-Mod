@@ -16,16 +16,16 @@ Volver
 Cancelar
 
 [msg MSG_000 [P3 Hero]]
-Parece que hay algo aqu胤. 夷Quieres echar[n]un vistazo?
+Parece que hay algo aquボ. メQuieres echar[n]un vistazo?
 
 [msg MSG_001 [P3 Hero]]
-S胤, mejor ser cuidadosos.
+Sボ, mejor ser cuidadosos.
 
 [msg MSG_002 [P3 Hero]]
-Claro. Podr胤amos hacerlo bien.
+Claro. Podrボamos hacerlo bien.
 
 [msg MSG_003 [P3 Hero]]
-Si cambias de opini吋n, siempre podemos[n]regresar.
+Si cambias de opiniポn, siempre podemos[n]regresar.
 
 [msg MSG_004 [P3 Hero]]
 Parece que hemos terminado.
@@ -37,46 +37,46 @@ Uf...
 Genial.
 
 [msg MSG_007]
-斡S胤!
+ムSボ!
 
 [msg MSG_008 [P3 Hero]]
 Uf... Eso lo soluciona.
 
 [msg MSG_009]
-斡Genial!
+ムGenial!
 
 [msg MSG_010]
 Eso es raro.
 
 [msg MSG_011]
-斡Felicidades!
+ムFelicidades!
 
 [msg MSG_012 [P3 Hero]]
-Eso podr胤a funcionar como un atajo.[n]夷Deber胤amos pasar por ah胤?
+Eso podrボa funcionar como un atajo.[n]メDeberボamos pasar por ahボ?
 
 [msg MSG_013 [P3 Hero]]
-こsP！！レ威！！ （結果胤斡ン(胤表示時メ7セージ レ威版（仮））
+こsP！！レミ！！ （結果ボムン(ボ表示時メ7セージ レミ版（仮））
 
 [msg MSG_014 [P3 Hero]]
-こsP！！レ威！！ （結果胤斡ン(胤表示時メ7セージ レ威版（仮））
+こsP！！レミ！！ （結果ボムン(ボ表示時メ7セージ レミ版（仮））
 
 [msg MSG_015 [P3 Hero]]
-Parece que no podemos pasar por aqu胤...
+Parece que no podemos pasar por aquボ...
 
 [msg MSG_016 [P3 Hero]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [P3 Hero]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [P3 Hero]]
-Algo malo acecha en las sombras. 夷Qu姻[n]hacemos?
+Algo malo acecha en las sombras. メQu〒[n]hacemos?
 
 [msg MSG_019 [P3 Hero]]
-Muy bien. Manteng茨monos alerta.
+Muy bien. Mantengホmonos alerta.
 
 [msg MSG_020 [P3 Hero]]
-S胤, retrocedamos por ahora.
+Sボ, retrocedamos por ahora.
 
 [msg MSG_021 [P3 Hero]]
 Ese fue un oponente bastante duro...
@@ -85,17 +85,17 @@ Ese fue un oponente bastante duro...
 Siento que hay muchas sombras cerca...
 
 [msg MSG_023 [P3 Hero]]
-De acuerdo. Manteng茨monos en guardia.
+De acuerdo. Mantengホmonos en guardia.
 
 [msg MSG_024 [P3 Hero]]
-S胤. Retrocedamos por ahora.
+Sボ. Retrocedamos por ahora.
 
 [msg MSG_025 [P3 Hero]]
 Creo que eso es todo.
 
 [msg MSG_026 [P3 Hero]]
-Podemos regresar por aqu胤. 夷Ese es el[n]plan?
+Podemos regresar por aquボ. メEse es el[n]plan?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

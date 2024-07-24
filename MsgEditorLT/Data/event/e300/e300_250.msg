@@ -1,69 +1,69 @@
 [msg MSG_000 [Futaba]]
-斡Whoaaaaaa! Esto... 斡Esto es incre胤ble!
+ムWhoaaaaaa! Esto... ムEsto es increボble!
 
 [msg MSG_001 [Ken]]
-夷Ser茨 una instalaci吋n dise隠ada para[n]humanos?
+メSerホ una instalaciポn diseワada para[n]humanos?
 
 [msg MSG_002 [Akechi]]
 Probablemente...
-Aunque ahora, parece ser utilizada por[n]robots para crear m茨s robots.
+Aunque ahora, parece ser utilizada por[n]robots para crear mホs robots.
 
 [msg MSG_003 [Chie]]
-Wowww... 斡Esto es en serio como una[n]pel胤cula de ciencia ficci吋n!
+Wowww... ムEsto es en serio como una[n]pelボcula de ciencia ficciポn!
 
 [msg MSG_004 [Yosuke]]
-No es "como". Estamos literalmente[n]dentro de una pel胤cula de ciencia[n]ficci吋n.
+No es "como". Estamos literalmente[n]dentro de una pelボcula de ciencia[n]ficciポn.
 
 [msg MSG_005 [Kanji]]
-Eh, ciencia ficci吋n... 夷Qu姻 quieres[n]decir?
+Eh, ciencia ficciポn... メQu〒 quieres[n]decir?
 
 [msg MSG_006 [Yosuke]]
-Lo que acabo de decir, 斡esto! 斡Esto,[n]ahora mismo! 斡Lo que est茨s mirando ahora[n]es ciencia ficci吋n!
+Lo que acabo de decir, ムesto! ムEsto,[n]ahora mismo! ムLo que estホs mirando ahora[n]es ciencia ficciポn!
 
 [msg MSG_007 [Teddie]]
-Oh... Entonces, 夷Crees que vendan[n]helados y jugos en este mundo de ciencia[n]ficci吋n?
+Oh... Entonces, メCrees que vendan[n]helados y jugos en este mundo de ciencia[n]ficciポn?
 
 [msg MSG_008 [Yosuke]]
-夷C吋mo voy a saber eso? 斡Es lo 雨ltimo en[n]lo que pensar胤a ahora mismo!
+メCポmo voy a saber eso? ムEs lo マltimo en[n]lo que pensarボa ahora mismo!
 
 [msg MSG_009 [Junpei]]
-Oye, 夷No crees que Yosuke se toma todo[n]muy en serio?
+Oye, メNo crees que Yosuke se toma todo[n]muy en serio?
 
 [msg MSG_010 [Ann]]
-Ahora que lo mencionas, siempre est茨[n]hablando como si su vida dependiera de[n]ello...
+Ahora que lo mencionas, siempre estホ[n]hablando como si su vida dependiera de[n]ello...
 
 [msg MSG_011 [Yosuke]]
-斡夷C吋mo se supone que me lo tome?! 斡Si[n]solo seguimos adelante, las cosas se[n]pueden salir del control!
-夷Entiendes por qu姻 mi sarcasmo es tan[n]importante, Joker?
+ムメCポmo se supone que me lo tome?! ムSi[n]solo seguimos adelante, las cosas se[n]pueden salir del control!
+メEntiendes por qu〒 mi sarcasmo es tan[n]importante, Joker?
 
 [sel SEL_012 top]
 Entiendo.
 No lo entiendo...
-夷Qui姻n es el "Joker" ahora?
+メQui〒n es el "Joker" ahora?
 
 [msg MSG_013 [Yosuke]]
-夷Verdad? Estoy tratando de hacerles un[n]favor...
+メVerdad? Estoy tratando de hacerles un[n]favor...
 
 [msg MSG_014 [Yosuke]]
-Si te quedas con nosotros lo suficiente,[n]lo entender茨s... incluso cuando ya no[n]quieras hacerlo.
+Si te quedas con nosotros lo suficiente,[n]lo entenderホs... incluso cuando ya no[n]quieras hacerlo.
 
 [msg MSG_015 [Yosuke]]
-斡T郁! 斡No me hagas querer arrancar esa[n]m茨scara!
+ムTヮ! ムNo me hagas querer arrancar esa[n]mホscara!
 
 [msg MSG_016 [P4 Hero]]
-Pero, realmente, es gracias a Yosuke que las[n]conversaciones del Equipo de Investigaci吋n[n]pueden continuar tan bien como lo hacen.
+Pero, realmente, es gracias a Yosuke que las[n]conversaciones del Equipo de Investigaciポn[n]pueden continuar tan bien como lo hacen.
 
 [msg MSG_017 [Yosuke]]
-斡Ese es mi compa隠ero! Realmente me[n]entiendes...
+ムEse es mi compaワero! Realmente me[n]entiendes...
 
 [msg MSG_018 [Shinjiro]]
-Cuando re雨nes a un gran grupo de personas, es[n]natural que los problemas tambi姻n surjan. Todo[n]depende de las personalidades.
+Cuando reマnes a un gran grupo de personas, es[n]natural que los problemas tambi〒n surjan. Todo[n]depende de las personalidades.
 
 [msg MSG_019 [Naoto]]
-Los miembros de SEES tambi姻n est茨n[n]llenos de personalidad...
+Los miembros de SEES tambi〒n estホn[n]llenos de personalidad...
 
 [msg MSG_020 [Ken]]
-Todos nos hemos acostumbrado a nuestro[n]grupo, pero supongo que se ve bastante[n]extra隠o para otros.
+Todos nos hemos acostumbrado a nuestro[n]grupo, pero supongo que se ve bastante[n]extraワo para otros.
 Pero en realidad es bastante divertido,[n]ya que tenemos tantos tipos diferentes[n]de personas juntas.
 
 [msg MSG_021 [Yusuke]]
@@ -71,90 +71,90 @@ En efecto. Los usuarios de Persona que hemos[n]encontrado son todos muy fascinan
 Me ha hecho darme cuenta de lo ordinario[n]que soy.
 
 [sel SEL_022 top]
-Eh, 夷"Ordinario"?
-Tienes raz吋n.
-夷De qu姻 est茨s hablando?
+Eh, メ"Ordinario"?
+Tienes razポn.
+メDe qu〒 estホs hablando?
 
 [msg MSG_023 [Ryuji]]
-斡夷Est茨s bromeando?!
+ムメEstホs bromeando?!
 
 [msg MSG_024 [Makoto]]
-Definitivamente, no eres ordinario, Fox.[n]Si algo eres, es... extremadamente[n]雨nico.
+Definitivamente, no eres ordinario, Fox.[n]Si algo eres, es... extremadamente[n]マnico.
 
 [msg MSG_025 [Yusuke]]
-斡夷Qu姻?! 夷En serio?
+ムメQu〒?! メEn serio?
 
 [msg MSG_026 [Yukari]]
-As胤 que no ten胤as ni idea, 夷eh? Bueno,[n]supongo que as胤 para la gente 雨nica...
+Asボ que no tenボas ni idea, メeh? Bueno,[n]supongo que asボ para la gente マnica...
 
 [msg MSG_027 [Yusuke]]
-Supongo que necesito estudiar a todos[n]los dem茨s de cerca y aprender a ser m茨s[n]雨nico.
+Supongo que necesito estudiar a todos[n]los demホs de cerca y aprender a ser mホs[n]マnico.
 
 [msg MSG_028 [Yukari]]
-Ya eres demasiado 雨nico... En toda[n]honestidad, eres como la encarnaci吋n[n]viviente de lo raro.
+Ya eres demasiado マnico... En toda[n]honestidad, eres como la encarnaciポn[n]viviente de lo raro.
 
 [msg MSG_029 [Yusuke]]
-夷Dije algo peculiar?
+メDije algo peculiar?
 
 [msg MSG_030 [Makoto]]
-Definitivamente, no eres ordinario, Fox.[n]Si algo eres, es... extremadamente[n]雨nico.
+Definitivamente, no eres ordinario, Fox.[n]Si algo eres, es... extremadamente[n]マnico.
 
 [msg MSG_031 [Yusuke]]
-斡夷Qu姻?! 夷En serio?
+ムメQu〒?! メEn serio?
 
 [msg MSG_032 [Yukari]]
-As胤 que no ten胤as ni idea, 夷eh? Bueno,[n]supongo que as胤 para la gente 雨nica...
+Asボ que no tenボas ni idea, メeh? Bueno,[n]supongo que asボ para la gente マnica...
 
 [msg MSG_033 [Yusuke]]
-Desde mi punto de vista, todos los dem茨s[n]son mucho m茨s 雨nicos que yo...
-Pero, esa singularidad es esencial para[n]el arte, as胤 que he elegido aceptar tus[n]comentarios como elogios.
+Desde mi punto de vista, todos los demホs[n]son mucho mホs マnicos que yo...
+Pero, esa singularidad es esencial para[n]el arte, asボ que he elegido aceptar tus[n]comentarios como elogios.
 
 [msg MSG_034 [P3 Fem Protag]]
-Bueno, eso est茨 bien y todo, pero ese[n]tipo de individualidad no es algo que[n]alaban en este mundo, 夷verdad?
+Bueno, eso estホ bien y todo, pero ese[n]tipo de individualidad no es algo que[n]alaban en este mundo, メverdad?
 
 [msg MSG_035 [Ribbon]]
-CORRECTO. LA INDIVIDUALIDAD ES UNA[n]EMERGENCIA. DIFERIR DE OTROS NO ES[n]遺PTIMO.
-SI SE ATENTA A LA INDIVIDUALIDAD, LA[n]ARMON緯A DE ESTE MUNDO SER緯A DESTRUIDA...
+CORRECTO. LA INDIVIDUALIDAD ES UNA[n]EMERGENCIA. DIFERIR DE OTROS NO ES[n]ロPTIMO.
+SI SE ATENTA A LA INDIVIDUALIDAD, LA[n]ARMONレA DE ESTE MUNDO SERレA DESTRUIDA...
 LA INDIVIDUALIDAD ES MALDAD EN NUESTRO[n]PROGRAMA.
 
 [msg MSG_036 [Ryuji]]
 Supongo que probablemente tenga sentido[n]para el Supervisor, pero...
 
 [msg MSG_037 [Futaba]]
-夷Dice que no deber胤as existir, solo[n]porque eres diferente, o rara?
-...斡Eso no es m茨s que forzar a los[n]dem茨s!
+メDice que no deberボas existir, solo[n]porque eres diferente, o rara?
+...ムEso no es mホs que forzar a los[n]demホs!
 
 [msg MSG_038 [Makoto]]
 Oracle...
 
 [msg MSG_039 [Mitsuru]]
-Estoy de acuerdo... Adem茨s, un mundo[n]homogeneizado ser胤a demasiado blando, y[n]cualquier armon胤a en 姻l ser胤a artificial.
+Estoy de acuerdo... Ademホs, un mundo[n]homogeneizado serボa demasiado blando, y[n]cualquier armonボa en 〒l serボa artificial.
 
 [msg MSG_040 [Ribbon]]
-A PESAR DE ESO, TODAV緯A SOY CONSIDERADA[n]NADA M威S QUE UN ERROR EN ESTE MUNDO.
+A PESAR DE ESO, TODAVレA SOY CONSIDERADA[n]NADA MミS QUE UN ERROR EN ESTE MUNDO.
 
 [sel SEL_041 top]
 No eres un error.
-El Supervisor est茨 equivocado.
+El Supervisor estホ equivocado.
 
 [msg MSG_042 [Ribbon]]
-夷NO ES AS緯...?
+メNO ES ASレ...?
 
 [msg MSG_043 [Junpei]]
-S胤, quien haya puesto todas esas leyes[n]de mierda est茨 totalmente equivocado.
+Sボ, quien haya puesto todas esas leyes[n]de mierda estホ totalmente equivocado.
 
 [msg MSG_044 [Akechi]]
 En serio, habla de un gobernante totalitario.[n]Ni siquiera piensa en la gente, solo le[n]importa mantener el orden.
 
 [msg MSG_045 [Chie]]
-斡Pensar en eso me est茨 enfadando! 斡No[n]puedo esperar a arrancarle esas[n]tonter胤as!
+ムPensar en eso me estホ enfadando! ムNo[n]puedo esperar a arrancarle esas[n]tonterボas!
 
 [msg MSG_046 [Futaba]]
-De acuerdo. 斡Tenemos que cambiar esta[n]pel胤cula en una que sea menos opresiva y[n]divertida!
+De acuerdo. ムTenemos que cambiar esta[n]pelボcula en una que sea menos opresiva y[n]divertida!
 
 [msg MSG_047 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_048 [Morgana]]
-斡Bien, entonces, avancemos! 斡Esta es la[n]fortaleza del enemigo, as胤 que no bajen[n]la guardia!
+ムBien, entonces, avancemos! ムEsta es la[n]fortaleza del enemigo, asボ que no bajen[n]la guardia!
 

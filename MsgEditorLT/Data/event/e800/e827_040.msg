@@ -1,9 +1,9 @@
 [msg MSG_000 [P3 Hero]]
-Falta una m茨s.
+Falta una mホs.
 
 [msg MSG_001 [Yusuke]]
-El fest胤n de comer todos los donuts que puedas est茨 al caer.
+El festボn de comer todos los donuts que puedas estホ al caer.
 
 [msg MSG_002 [Rise]]
-斡Deber胤a haber m茨s Puntos del Tesoro! 斡Sigue buscando m茨s!
+ムDeberボa haber mホs Puntos del Tesoro! ムSigue buscando mホs!
 

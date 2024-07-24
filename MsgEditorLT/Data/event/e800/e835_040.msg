@@ -1,16 +1,16 @@
 [msg MSG_000 [Junpei]]
-Yo, an arrow! Looks like we gotta go[n]that way.
+ムEy, una flecha! Parece que tenemos que ir por ahボ.
 
 [msg MSG_001 [Ann]]
-This is kinda fun. It's almost making me[n]feel like a little kid again.
+Esto es muy divertido. Casi me hace sentir como una niワa pequeワa de nuevo.
 
 [msg MSG_002 [Futaba]]
-I know, it's so exciting!
-Looks like there aren't too many hint[n]arrows. Careful not to miss anything.
+Lo s〒, ムes tan emocionante!
+Parece que no hay demasiadas flechas de pista. Cuidado con no perderse nada.
 
 [msg MSG_003]
-The arrow is pointing to the left. Let's[n]try going that way...
+La flecha seワala a la izquierda. Intenta ir por ese camino...
 
 [msg MSG_004]
-The arrow is pointing to the left. Let's[n]try going that way...
+La flecha seワala a la izquierda. Intenta ir por ese camino...
 

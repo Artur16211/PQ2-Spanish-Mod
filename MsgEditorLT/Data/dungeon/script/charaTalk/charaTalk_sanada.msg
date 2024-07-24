@@ -16,22 +16,22 @@ Volver
 Cancelar
 
 [msg MSG_000 [Akihiko]]
-Un punto del tesoro... 夷Cu茨l es el plan?
+Un punto del tesoro... メCuホl es el plan?
 
 [msg MSG_001 [Akihiko]]
-Muy bien. Manteng茨monos concentrados.
+Muy bien. Mantengホmonos concentrados.
 
 [msg MSG_002 [Akihiko]]
-斡D姻jame las sombras a m胤!
+ムD〒jame las sombras a mボ!
 
 [msg MSG_003 [Akihiko]]
-Este no, 夷eh?
+Este no, メeh?
 
 [msg MSG_004 [Akihiko]]
 Parece que eso es todo.
 
 [msg MSG_005]
-No est茨 mal.
+No estホ mal.
 
 [msg MSG_006]
 Hah.
@@ -40,7 +40,7 @@ Hah.
 Aha...
 
 [msg MSG_008 [Akihiko]]
-Jaj茨. 夷Eso es todo? Estoy listo para[n]m茨s.
+Jajホ. メEso es todo? Estoy listo para[n]mホs.
 
 [msg MSG_009]
 Esa es una rara.
@@ -52,37 +52,37 @@ Aparentemente, es una rara.
 Bien.
 
 [msg MSG_012 [Akihiko]]
-Un atajo, 夷eh? 夷Lo necesitamos?
+Un atajo, メeh? メLo necesitamos?
 
 [msg MSG_013 [Akihiko]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Akihiko]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Akihiko]]
-Parece que no podemos pasar por aqu胤.
+Parece que no podemos pasar por aquボ.
 
 [msg MSG_016 [Akihiko]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Akihiko]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Akihiko]]
-Hm. Puedo sentir Sombras fuertes[n]cerca... 夷Est茨s listo?
+Hm. Puedo sentir Sombras fuertes[n]cerca... メEstホs listo?
 
 [msg MSG_019 [Akihiko]]
-斡Entendido! 斡D姻jalo en mis manos!
+ムEntendido! ムD〒jalo en mis manos!
 
 [msg MSG_020 [Akihiko]]
 Ya veo... Siempre es bueno estar[n]preparado.
 
 [msg MSG_021 [Akihiko]]
-Una buena batalla y buenos objetos. Dos[n]p茨jaros de un tiro.
+Una buena batalla y buenos objetos. Dos[n]pホjaros de un tiro.
 
 [msg MSG_022 [Akihiko]]
-Siento Sombras cerca... 斡Hag茨moslo!
+Siento Sombras cerca... ムHagホmoslo!
 
 [msg MSG_023 [Akihiko]]
 Entendido.
@@ -91,11 +91,11 @@ Entendido.
 Muy bien.
 
 [msg MSG_025 [Akihiko]]
-夷Eh? 夷Eso es todo?
+メEh? メEso es todo?
 
 [msg MSG_026 [Akihiko]]
-Podemos volver desde aqu胤. 夷Necesitas un[n]descanso?
+Podemos volver desde aquボ. メNecesitas un[n]descanso?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

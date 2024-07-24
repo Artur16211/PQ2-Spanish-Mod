@@ -1,5 +1,5 @@
 [msg MSG_000 [Ryuji]]
-Tss, 斡est茨n aqu胤!
+Tss, ムestホn aquボ!
 
 [msg MSG_001 [Ann]]
 Justo como pensaba. Son diferentes a las de los Palacios.
@@ -8,6 +8,6 @@ Justo como pensaba. Son diferentes a las de los Palacios.
 Siguen siendo enemigos. Si se interponen en nuestro camino, debemos eliminarlos.
 
 [msg MSG_003 [Futaba]]
-Inari tiene raz吋n.
-No parecen muy fuertes, as胤 que hag茨moslo como siempre.
+Inari tiene razポn.
+No parecen muy fuertes, asボ que hagホmoslo como siempre.
 

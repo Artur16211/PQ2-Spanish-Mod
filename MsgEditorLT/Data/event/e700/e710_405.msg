@@ -1,25 +1,25 @@
 [msg MSG_000 [Futaba]]
-Parece que La plaza Kamoshida est茨 al[n]otro lado de estas puertas.
-Estoy recibiendo se隠ales de Queen,[n]Noir... y Kamoshidaman.
-斡Tengan cuidado!
+Parece que La plaza Kamoshida estホ al[n]otro lado de estas puertas.
+Estoy recibiendo seワales de Queen,[n]Noir... y Kamoshidaman.
+ムTengan cuidado!
 
 [msg MSG_001 [Morgana]]
-S胤, dudo que simplemente las entregue...
-Probablemente, sea un oponente dif胤cil,[n]podr胤a ser buena idea volver y[n]reagruparnos primeros.
-Dejaremos esa decisi吋n, Joker, 夷qu姻[n]deber胤amos hacer?
+Sボ, dudo que simplemente las entregue...
+Probablemente, sea un oponente difボcil,[n]podrボa ser buena idea volver y[n]reagruparnos primeros.
+Dejaremos esa decisiポn, Joker, メqu〒[n]deberボamos hacer?
 
 [msg MSG_002 [Futaba]]
-M茨s all茨 de estas puertas est茨 la Plaza[n]Kamoshida.
-Estoy recibiendo se隠ales de Queen,[n]Noir... y Kamoshidaman.
-夷Est茨s listo?
+Mホs allホ de estas puertas estホ la Plaza[n]Kamoshida.
+Estoy recibiendo seワales de Queen,[n]Noir... y Kamoshidaman.
+メEstホs listo?
 
 [sel SEL_003 top]
 Vamos.
-A雨n no.
+Aマn no.
 
 [msg MSG_004 [Morgana]]
-斡Bien, entonces, sigan a Joker!
+ムBien, entonces, sigan a Joker!
 
 [msg MSG_005 [Morgana]]
-Bien, asegur姻monos de estar preparados.
+Bien, asegur〒monos de estar preparados.
 

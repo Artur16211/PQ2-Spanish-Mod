@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Recolecta tres materiales de enemigos!
+ムRecolecta tres materiales de enemigos!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Lucha cerca de 4-B, 3-F y otras ubicaciones
@@ -23,11 +23,11 @@ Lucha cerca de 3-F
 Lucha en cualquier lugar excepto 4-B o 3-F
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_8]
-Derrota 3 m茨s
+Derrota 3 mホs
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_9]
-Derrota 2 m茨s
+Derrota 2 mホs
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_10]
-Derrota 1 m茨s
+Derrota 1 mホs
 

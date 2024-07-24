@@ -1,8 +1,8 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Encuentra el club nocturno!
+ムEncuentra el club nocturno!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Pasea por la ciudad y re雨ne pistas.
+Pasea por la ciudad y reマne pistas.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 Supera a los guardias intimidantes.

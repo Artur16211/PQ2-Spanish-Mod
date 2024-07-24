@@ -3,15 +3,15 @@ Uf... Finalmente, llegamos las[n]escaleras.
 Parece que podemos bajar.
 
 [msg MSG_001 [Ann]]
-夷Qu姻 hacemos? 夷Bajamos?
+メQu〒 hacemos? メBajamos?
 
 [sel SEL_002 top]
-Hag茨moslo.
-A雨n no.
+Hagホmoslo.
+Aマn no.
 
 [msg MSG_003 [Ann]]
-斡S胤! 斡Vamos!
+ムSボ! ムVamos!
 
 [msg MSG_004 [Ryuji]]
-夷Mm? 夷Todav胤a hay algo que aqu胤?
+メMm? メTodavボa hay algo que aquボ?
 

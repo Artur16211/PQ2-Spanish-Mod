@@ -5,25 +5,25 @@ En la pared pone "KAMOSHIDAMAN ES GUAY"...
 Este parece no estar acabado.
 
 [msg MSG_002 [Ryuji]]
-夷Cool... Kamoshidaman?
-夷Pens茨is que ten胤a calor con esa capa o algo? 夷Y por eso a lo mejor la gente intentaba ayudarle refresc茨ndolo?
+メCool... Kamoshidaman?
+メPensホis que tenボa calor con esa capa o algo? メY por eso a lo mejor la gente intentaba ayudarle refrescホndolo?
 
 [msg MSG_003 [Ann]]
-No, tonto. "Cool" aqu胤 significa obviamente "guay", no "fresco"
+No, tonto. "Cool" aquボ significa obviamente "guay", no "fresco"
 
 [msg MSG_004 [Ryuji]]
-Agh, 斡夷as胤 que esto es un ELOGIO a Kamoshidaman?! Ten姻is que estar bromeando.
+Agh, ムメasボ que esto es un ELOGIO a Kamoshidaman?! Ten〒is que estar bromeando.
 
 [msg MSG_005 [Akechi]]
-La gente de esta ciudad lo ve胤an como un h姻roe. Es probable que los grafitis sigan desde entonces.
-Pero, puede que se lo est姻n pensando mejor.
+La gente de esta ciudad lo veボan como un h〒roe. Es probable que los grafitis sigan desde entonces.
+Pero, puede que se lo est〒n pensando mejor.
 
 [msg MSG_006 [Morgana]]
-Seguramente tengas raz吋n. De todas formas, vamos a seguir buscando el grafiti que ha cambiado
+Seguramente tengas razポn. De todas formas, vamos a seguir buscando el grafiti que ha cambiado
 
 [msg MSG_007]
 En la pared pone "KAMOSHIDAMAN ES GUAY"...
 
 [msg MSG_008 [Yusuke]]
-Hmm... Este parece que no es el dibujo que buscamos. Queremos el que es diferente de los dem茨s.
+Hmm... Este parece que no es el dibujo que buscamos. Queremos el que es diferente de los demホs.
 

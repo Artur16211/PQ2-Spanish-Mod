@@ -2,22 +2,22 @@
 Dummy
 
 [msg BTL_MES_027_001]
-斡Podemos con estas Sombras, no hay problema!
+ムPodemos con estas Sombras, no hay problema!
 
 [msg BTL_MES_027_002]
 ＜声Of＞うz！絶対勝たKきjN！
 
 [msg BTL_MES_027_003]
-斡Un FOE! Probablemente deber胤amos evitarlo...
+ムUn FOE! Probablemente deberボamos evitarlo...
 
 [msg BTL_MES_027_004]
 ＜声Of＞そうAN 逃げrが勝B！
 
 [msg BTL_MES_027_005]
-Tal vez, solo tal vez... 斡Podemos derrotarlo!
+Tal vez, solo tal vez... ムPodemos derrotarlo!
 
 [msg BTL_MES_027_006]
-夷Una Sombra rara? 斡No podemos dejarla escapar!
+メUna Sombra rara? ムNo podemos dejarla escapar!
 
 [msg BTL_MES_027_007]
 ＜声Of＞eかせG！ 優先的L狙DGいきeしn！
@@ -32,31 +32,31 @@ Tal vez, solo tal vez... 斡Podemos derrotarlo!
 ＜声Of＞風花Bjz、了解Ao！
 
 [msg BTL_MES_027_011]
-Ooh, uno fuerte... 斡Un digno adversario! 夷Qu姻 debemos hacer?
+Ooh, uno fuerte... ムUn digno adversario! メQu〒 debemos hacer?
 
 [msg BTL_MES_027_012]
 ＜声Of＞時LP逃げrOi手AけJ… JうしDか？
 
 [msg BTL_MES_027_013]
-Una Sombra nueva, 斡Encontremos su debilidad!
+Una Sombra nueva, ムEncontremos su debilidad!
 
 [msg BTL_MES_027_014]
 ＜声Of＞vかDた、 いtzK攻撃試しGfoう！
 
 [msg BTL_MES_027_015]
-Estaremos bien, 夷verdad?
+Estaremos bien, メverdad?
 
 [msg BTL_MES_027_016]
 ＜声Of＞おeかせくAさい！
 
 [msg BTL_MES_027_017]
-夷Quiz茨 nos volvimos DEMASIADO fuertes?
+メQuizホ nos volvimos DEMASIADO fuertes?
 
 [msg BTL_MES_027_018]
 ＜声Of＞絶対L逃がさKいzAかp！
 
 [msg BTL_MES_027_019]
-Algo est茨 pasando con esa Sombra.
+Algo estホ pasando con esa Sombra.
 
 [msg BTL_MES_027_020]
 ＜声Of＞J、Jうしoう…？
@@ -71,13 +71,13 @@ Puede que hayamos encontrado a nuestro igual...
 ＜声Of＞BnDI危険AoN KzIかしKいI…
 
 [msg BTL_MES_027_024]
-＜声Of＞無理しGKいかK？ フ隠ローすro！
+＜声Of＞無理しGKいかK？ フワローすro！
 
 [msg BTL_MES_027_025]
 ＜声Of＞フラフラしGKい？ 回復しKいI！
 
 [msg BTL_MES_027_026]
-＜声Of＞花村くzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞花村くzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_027]
 ＜声Of＞千枝Bjz、大丈夫かK… 回復しKいI！
@@ -89,22 +89,22 @@ Puede que hayamos encontrado a nuestro igual...
 ＜声Of＞4ミー
 
 [msg BTL_MES_027_030]
-＜声Of＞完二くzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞完二くzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_031]
 ＜声Of＞直斗くz、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_032]
-＜声Of＞クマくzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞クマくzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_033]
 ＜声Of＞mかqBjz、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_034]
-＜声Of＞伊織くzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞伊織くzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_035]
-＜声Of＞真田くzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞真田くzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_036]
 ＜声Of＞美鶴さz、大丈夫かK… 回復しKいI！
@@ -113,25 +113,25 @@ Puede que hayamos encontrado a nuestro igual...
 ＜声Of＞4ミー
 
 [msg BTL_MES_027_038]
-＜声Of＞威姻/スさz、大丈夫かK… 回復しKいI！
+＜声Of＞ミ〒/スさz、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_039]
-＜声Of＞天田くzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞天田くzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_040]
 ＜声Of＞コロBjz、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_041]
-＜声Of＞荒垣くzがフラフラ…！ フ隠ローしKきj！
+＜声Of＞荒垣くzがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_042]
 ＜声Of＞無茶しBj4メAo！ 回復しKいI！
 
 [msg BTL_MES_027_043]
-＜声Of＞ジョー吋ー、大丈夫かK… 回復しKいI！
+＜声Of＞ジョーポー、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_044]
-＜声Of＞ス吋ルがフラフラ…！ フ隠ローしKきj！
+＜声Of＞スポルがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_045]
 ＜声Of＞パンサー、大丈夫かK… 回復しKいI！
@@ -140,10 +140,10 @@ Puede que hayamos encontrado a nuestro igual...
 ＜声Of＞モ)、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_047]
-＜声Of＞フ隠7クスがフラフラ…！ フ隠ローしKきj！
+＜声Of＞フワ7クスがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_048]
-＜声Of＞ク姻ーン、大丈夫かK… 回復しKいI！
+＜声Of＞ク〒ーン、大丈夫かK… 回復しKいI！
 
 [msg BTL_MES_027_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Puede que hayamos encontrado a nuestro igual...
 ＜声Of＞4ミー
 
 [msg BTL_MES_027_051]
-＜声Of＞クロ胤がフラフラ…！ フ隠ローしKきj！
+＜声Of＞クロボがフラフラ…！ フワローしKきj！
 
 [msg BTL_MES_027_052]
-＜声Of＞ぜーzW、eIhG (吋ーン！AN！
+＜声Of＞ぜーzW、eIhG (ポーン！AN！
 
 [msg BTL_MES_027_053]
-斡Sigamos arrasando con las Sombras!
+ムSigamos arrasando con las Sombras!
 
 [msg BTL_MES_027_054]
 ＜声Of＞ええ！がzQrv！
 
 [msg BTL_MES_027_055]
-Mira, creo que podemos golpear su debilidad. 夷Qu姻 hacemos?
+Mira, creo que podemos golpear su debilidad. メQu〒 hacemos?
 
 [msg BTL_MES_027_056]
-斡No olvides que puedes usar Relevo!
+ムNo olvides que puedes usar Relevo!
 
 [msg BTL_MES_027_057]
-夷Mi turno? 斡Ser茨 un placer!
+メMi turno? ムSerホ un placer!
 
 [msg BTL_MES_027_058]
 ＜声Of＞うz、期待しGro！
@@ -215,7 +215,7 @@ Mira, creo que podemos golpear su debilidad. 夷Qu姻 hacemos?
 ＜声Of＞4ミー
 
 [msg BTL_MES_027_072]
-＜声Of＞威姻/スさz、お願い！
+＜声Of＞ミ〒/スさz、お願い！
 
 [msg BTL_MES_027_073]
 ＜声Of＞天田くz！ 頑張DGー！
@@ -230,10 +230,10 @@ Mira, creo que podemos golpear su debilidad. 夷Qu姻 hacemos?
 ＜声Of＞うz、思いDきqkDBjDG！
 
 [msg BTL_MES_027_077]
-＜声Of＞ジョー吋ー、決hBjえ！ ズバ7I！
+＜声Of＞ジョーポー、決hBjえ！ ズバ7I！
 
 [msg BTL_MES_027_078]
-＜声Of＞いDBjえ、ス吋ル！
+＜声Of＞いDBjえ、スポル！
 
 [msg BTL_MES_027_079]
 ＜声Of＞kDBjえ、パンサー！
@@ -242,7 +242,7 @@ Mira, creo que podemos golpear su debilidad. 夷Qu姻 hacemos?
 ＜声Of＞モ)Bjz、がzQDG！
 
 [msg BTL_MES_027_081]
-＜声Of＞フ隠7クス、任せたかpN！
+＜声Of＞フワ7クス、任せたかpN！
 
 [msg BTL_MES_027_082]
 ＜声Of＞世紀末覇者、降臨…！？
@@ -254,8 +254,8 @@ Mira, creo que podemos golpear su debilidad. 夷Qu姻 hacemos?
 ＜声Of＞4ミー
 
 [msg BTL_MES_027_085]
-＜声Of＞クロ胤、お任せしeす
+＜声Of＞クロボ、お任せしeす
 
 [msg BTL_MES_027_086]
-Puedo sentir poder acumul茨ndose en m胤... 斡Mira esto!
+Puedo sentir poder acumulホndose en mボ... ムMira esto!
 

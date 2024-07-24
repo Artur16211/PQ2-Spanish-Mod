@@ -1,13 +1,13 @@
 [msg MSG_000 [Morgana]]
-夷Qu姻 hacemos? 夷Los emboscamos?
+メQu〒 hacemos? メLos emboscamos?
 
 [sel SEL_001 top]
-Hag茨moslo.
-A雨n no...
+Hagホmoslo.
+Aマn no...
 
 [msg MSG_002 [Morgana]]
-斡Muy bien, mostr姻mosles nuestro poder!
+ムMuy bien, mostr〒mosles nuestro poder!
 
 [msg MSG_003 [Morgana]]
-De acuerdo, av胤sanos cuando est姻s listo.
+De acuerdo, avボsanos cuando est〒s listo.
 

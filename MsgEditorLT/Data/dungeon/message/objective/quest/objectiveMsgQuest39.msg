@@ -1,11 +1,11 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Encuentra el objeto preciado de Hikari!
+ムEncuentra el objeto preciado de Hikari!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Pregunta a las flores para obtener m茨s[n]informaci吋n.
+Pregunta a las flores para obtener mホs[n]informaciポn.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-Alcanza la casa m茨s all茨 de la puerta.
+Alcanza la casa mホs allホ de la puerta.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
 ♪♪

@@ -1,39 +1,39 @@
 [msg MSG_000 [Ryuji]]
-All茨 vamos. Con esto ser茨 suficiente, 夷verdad?
+Allホ vamos. Con esto serホ suficiente, メverdad?
 
 [msg MSG_001 [Morgana]]
-Parece que este est茨 tan gordo como el 雨ltimo que encontramos...
+Parece que este estホ tan gordo como el マltimo que encontramos...
 
 [msg MSG_002]
-斡...!
-Hay un gusano gigante en el suelo... Deber胤a coger este tambi姻n.
+ム...!
+Hay un gusano gigante en el suelo... Deberボa coger este tambi〒n.
 
 [msg MSG_003 [P4 Hero]]
 Er...
-Perd吋n por eso. Probablemente, lo viste antes que yo.
+Perdポn por eso. Probablemente, lo viste antes que yo.
 
 [sel SEL_004 top]
-Est茨 bien, lo coger姻.
+Estホ bien, lo coger〒.
 No, adelante.
 
 [msg MSG_005 [P4 Hero]]
-Jaja, bueno, supongo que realmente no importa qui姻n lo recoja.
+Jaja, bueno, supongo que realmente no importa qui〒n lo recoja.
 Ahora que lo pienso, es la primera vez que realmente hablo contigo... Es un poco raro.
 
 [sel SEL_006 top]
-S胤.
+Sボ.
 No parece que sea la primera vez...
 
 [msg MSG_007 [P4 Hero]]
-Me pregunto por qu姻... 夷Podr胤a ser porque ambos somos l胤deres que usamos Personas?
+Me pregunto por qu〒... メPodrボa ser porque ambos somos lボderes que usamos Personas?
 ...
 
 [msg MSG_008 [Kanji]]
-Ey, tenemos un mont吋n de cebo. Ahora solo tenemos que cazar esos pe...
-夷Por qu姻 os mir茨is as胤?
+Ey, tenemos un montポn de cebo. Ahora solo tenemos que cazar esos pe...
+メPor qu〒 os mirホis asボ?
 
 [msg MSG_009 [Teddie]]
-Dos personas mir茨ndose intensamente el uno al otro... A esto le llaman...
+Dos personas mirホndose intensamente el uno al otro... A esto le llaman...
 
 [sel SEL_010 top]
 Tener un Tercer Ojo.
@@ -41,35 +41,35 @@ Un duelo
 Enamorarse.
 
 [msg MSG_011 [Ryuji]]
-As胤 eres t雨.
-En serio, 夷por qu姻 os mir茨is tan fijamente? 夷Intent茨is acabar lo que empezaron cuando se conocieron?
+Asボ eres tマ.
+En serio, メpor qu〒 os mirホis tan fijamente? メIntentホis acabar lo que empezaron cuando se conocieron?
 
 [msg MSG_012 [Ryuji]]
-斡夷En serio?! 夷Quieren acabar lo que empezaron cuando se conocieron?
+ムメEn serio?! メQuieren acabar lo que empezaron cuando se conocieron?
 
 [msg MSG_013 [P4 Hero]]
-Este sentimiento en mi pecho... 夷Qu姻 es esto?
+Este sentimiento en mi pecho... メQu〒 es esto?
 
 [msg MSG_014 [Yosuke]]
-夷No pueden tomarse esto en serio...?
+メNo pueden tomarse esto en serio...?
 
 [msg MSG_015 [P4 Hero]]
-緯bamos a hablar de l胤der a l胤der, pero no se nos ocurr胤a nada para decir.
+レbamos a hablar de lボder a lボder, pero no se nos ocurrボa nada para decir.
 
 [msg MSG_016 [Kanji]]
 Eso no es propio de ti, Senpai.
 
 [msg MSG_017 [Naoto]]
-Es posible que os entend茨is el uno al otro muy bien, por lo que las palabras no son necesarias.
+Es posible que os entendホis el uno al otro muy bien, por lo que las palabras no son necesarias.
 
 [msg MSG_018 [Ann]]
 Ahora que lo dices, se parecen.
 
 [msg MSG_019 [P4 Hero]]
-夷Crees que nos parecemos, Joker?
+メCrees que nos parecemos, Joker?
 
 [sel SEL_020 top]
-S胤.
+Sボ.
 No.
 Hermanito grande...
 
@@ -80,56 +80,56 @@ Hm...
 Correcto.
 
 [msg MSG_023 [Ann]]
-斡Un buen ejemplo!
+ムUn buen ejemplo!
 
 [msg MSG_024 [P4 Hero]]
-Oh... 斡Peque隠o hermanito!
+Oh... ムPequeワo hermanito!
 
 [msg MSG_025 [Teddie]]
-Oookay, 斡ya es suficiente! 斡El Maestro ya tiene a su preciosa hermanita!
+Oookay, ムya es suficiente! ムEl Maestro ya tiene a su preciosa hermanita!
 
 [msg MSG_026 [Yosuke]]
-S胤, ambos hacen un poco lo suyo.
+Sボ, ambos hacen un poco lo suyo.
 
 [msg MSG_027 [Yukiko]]
-斡Oh! 斡Y a los dos les quedan genial las gafas!
+ムOh! ムY a los dos les quedan genial las gafas!
 
 [msg MSG_028 [Teddie]]
-斡Tambi姻n les gusta pescar!
+ムTambi〒n les gusta pescar!
 
 [msg MSG_029 [P4 Hero]]
 Pescar...
 Ah, es verdad. Hemos encontrado otro gusano gigante.
 
 [msg MSG_030 [Teddie]]
-斡Aaahh!
+ムAaahh!
 
 [msg MSG_031 [Haru]]
-斡Wow! 斡Seguro que pescamos uno grande con esto!
+ムWow! ムSeguro que pescamos uno grande con esto!
 
 [msg MSG_032 [P4 Hero]]
 Ahora que tenemos nuestro cebo, vamos a pescar al pez.
 
 [sel SEL_033 top]
 Vamos.
-斡Vamos a pescar!
+ムVamos a pescar!
 
 [msg MSG_034 [Ryuji]]
-斡Heh! 斡Nosotros seremos quienes capturemos ese bicho! 夷Verdad, Joker?
+ムHeh! ムNosotros seremos quienes capturemos ese bicho! メVerdad, Joker?
 
 [msg MSG_035 [Kanji]]
-斡Como si un pez viejo pudiera escaparse de nuestro Sensei!
+ムComo si un pez viejo pudiera escaparse de nuestro Sensei!
 
 [msg MSG_036 [Yukiko]]
-... Quiz茨s es por esos dos.
+... Quizホs es por esos dos.
 
 [msg MSG_037 [Yusuke]]
-Amagi, 夷qu姻 ocurre?
+Amagi, メqu〒 ocurre?
 
 [msg MSG_038 [Yukiko]]
-Oh, no es nada. Un pez antiguo, 夷hm...? Quiz茨s deber胤amos hacer sashimi.
+Oh, no es nada. Un pez antiguo, メhm...? Quizホs deberボamos hacer sashimi.
 
 [msg MSG_039 [Yusuke]]
-Sashimi... Eso es m雨sica para mis o胤dos. Suena maravilloso, y seguro que sabr茨 genial.
-斡No hay tiempo que perder! 斡V茨monos!
+Sashimi... Eso es mマsica para mis oボdos. Suena maravilloso, y seguro que sabrホ genial.
+ムNo hay tiempo que perder! ムVホmonos!
 

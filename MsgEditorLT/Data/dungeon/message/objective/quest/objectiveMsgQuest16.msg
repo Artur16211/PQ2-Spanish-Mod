@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Encuentra el objeto solicitado en el contenedor!
+ムEncuentra el objeto solicitado en el contenedor!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Encuentra el contenedor roto

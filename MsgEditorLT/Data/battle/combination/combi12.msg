@@ -1,21 +1,21 @@
 [msg MSG_BTL_001]
-Teddie, 斡toma el volante!
+Teddie, ムtoma el volante!
 
 [msg MSG_BTL_002]
-斡D姻jamelo a m胤!
+ムD〒jamelo a mボ!
 
 [msg MSG_BTL_003]
-斡Idiota, las manos en el volante!
+ムIdiota, las manos en el volante!
 
 [msg MSG_BTL_004]
-斡M-Mi barriga se atasc吋!
+ムM-Mi barriga se atascポ!
 
 [msg MSG_BTL_005]
-斡夷Qu姻?!
+ムメQu〒?!
 
 [msg MSG_BTL_006]
-斡Nooo! S茨lvenosssss...
+ムNooo! Sホlvenosssss...
 
 [msg MSG_BTL_007]
-斡Vamos a chocaaar!
+ムVamos a chocaaar!
 

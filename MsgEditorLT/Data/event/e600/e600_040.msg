@@ -1,111 +1,111 @@
 [msg MSG_000 [P3 Fem Protag]]
-夷Eh? 夷Estaba durmiendo?
-Ah, s胤, estaba estudiando. Supongo que[n]termin姻 qued茨ndome dormida...
+メEh? メEstaba durmiendo?
+Ah, sボ, estaba estudiando. Supongo que[n]termin〒 quedホndome dormida...
 
 [msg MSG_001 [P3 Fem Protag]]
-Siento como si acabara de tener un[n]sue隠o, pero... 夷Eh?
+Siento como si acabara de tener un[n]sueワo, pero... メEh?
 
 [msg MSG_002 [La Voz De Yukari]]
-, 夷est茨s ah胤?
+, メestホs ahボ?
 
 [msg MSG_003 [P3 Fem Protag]]
-Oh, eh, 斡s胤! 夷Qu姻 pasa?
+Oh, eh, ムsボ! メQu〒 pasa?
 
 [msg MSG_004 [Yukari]]
-斡Oh, s胤 est茨s aqu胤! 斡Genial!
+ムOh, sボ estホs aquボ! ムGenial!
 
 [msg MSG_005 [Junpei]]
-, 夷te distra胤ste lo suficiente como para[n]babearte encima?
-Ja, ja, ja, 斡eres toda una Detective del[n]Espacio!
+, メte distraボste lo suficiente como para[n]babearte encima?
+Ja, ja, ja, ムeres toda una Detective del[n]Espacio!
 
 [msg MSG_006 [P3 Fem Protag]]
-斡夷C吋mo dices?!
+ムメCポmo dices?!
 
 [msg MSG_007 [Junpei]]
-斡Es una broma!
+ムEs una broma!
 
 [msg MSG_008 [Yukari]]
-夷Eres est雨pido o algo as胤?
-...En serio, 夷eres TAN tonto?
+メEres estマpido o algo asボ?
+...En serio, メeres TAN tonto?
 
 [msg MSG_009 [Junpei]]
-Vaya, Yuka, 斡tu respuesta sigue siendo[n]afilada como siempre!
+Vaya, Yuka, ムtu respuesta sigue siendo[n]afilada como siempre!
 
 [msg MSG_010 [Ken]]
-夷Realmente estabas echando una siesta?[n]Eso es sorprendente.
+メRealmente estabas echando una siesta?[n]Eso es sorprendente.
 
 [msg MSG_011 [Akihiko]]
-Oye, 夷cu茨l es el problema?
+Oye, メcuホl es el problema?
 
 [msg MSG_012 [Shinjiro]]
-Este tipo no paraba de hablar sobre[n]encontrarte... As胤 que vinimos a[n]buscarte.
+Este tipo no paraba de hablar sobre[n]encontrarte... Asボ que vinimos a[n]buscarte.
 
 [msg MSG_013 [Fuuka]]
-Nuestras bebidas se enfriar茨n si no[n]bajamos.
+Nuestras bebidas se enfriarホn si no[n]bajamos.
 
 [msg MSG_014 [Mitsuru]]
-Takeba, 夷has preparado los aperitivos?
+Takeba, メhas preparado los aperitivos?
 
 [msg MSG_015 [Yukari]]
-斡Oh, s胤! 斡Claro!
-Tengo galletas, chocolate y un mont吋n de[n]palomitas.
+ムOh, sボ! ムClaro!
+Tengo galletas, chocolate y un montポn de[n]palomitas.
 
 [msg MSG_016 [Junpei]]
-Nunca te imagin姻 como fan茨tica de las[n]palomitas, Yuka.
+Nunca te imagin〒 como fanホtica de las[n]palomitas, Yuka.
 
 [msg MSG_017 [Yukari]]
-C茨llate. A veces tengo ganas, 斡夷y qu姻?!
+Cホllate. A veces tengo ganas, ムメy qu〒?!
 
 [msg MSG_018 [Aigis]]
 Parece que todos estamos listos.
 
 [msg MSG_019 [Koromaru]]
-斡Bark!
+ムBark!
 
 [msg MSG_020 [P3 Fem Protag]]
 ...
 
 [msg MSG_021 [Fuuka]]
-夷Qu姻 te pasa?
+メQu〒 te pasa?
 
 [msg MSG_022 [Shinjiro]]
-Pareces bastante desanimada... 夷Tienes[n]fiebre o algo as胤?
+Pareces bastante desanimada... メTienes[n]fiebre o algo asボ?
 
 [msg MSG_023 [P3 Fem Protag]]
 Oh no, es solo que... siento que[n]finalmente estoy en casa.
 
 [msg MSG_024 [Aigis]]
-夷Eh? 夷A qu姻 te refieres?
+メEh? メA qu〒 te refieres?
 
 [msg MSG_025 [P3 Fem Protag]]
-Ja, ja, ja... No s姻.
+Ja, ja, ja... No s〒.
 Pero... siento como si hubiera querido[n]verlos durante mucho tiempo.
 
 [msg MSG_026 [Yukari]]
-夷Tuviste una pesadilla o algo as胤?
+メTuviste una pesadilla o algo asボ?
 
 [msg MSG_027 [P3 Fem Protag]]
 Umm, no creo que sea eso...
-En fin, 夷qu姻 pasa? 夷Necesitaban algo?
+En fin, メqu〒 pasa? メNecesitaban algo?
 
 [msg MSG_028 [Fuuka]]
-Mmm. Todos hemos estado hablando de ver[n]una pel胤cula juntos abajo...
+Mmm. Todos hemos estado hablando de ver[n]una pelボcula juntos abajo...
 
 [msg MSG_029 [Aigis]]
-Nuestra jefa nos dio luz verde para[n]hacerlo. 斡Vamos, chica!
+Nuestra jefa nos dio luz verde para[n]hacerlo. ムVamos, chica!
 
 [msg MSG_030 [Mitsuru]]
-...He estado pregunt茨ndome esto desde[n]hace tiempo, pero 夷de qu姻 parte del[n]mundo aprendes ese lenguaje?
+...He estado preguntホndome esto desde[n]hace tiempo, pero メde qu〒 parte del[n]mundo aprendes ese lenguaje?
 
 [msg MSG_031 [Ken]]
-夷La ver茨s con nosotros, verdad? Es una[n]pel胤cula de ciencia ficci吋n.
+メLa verホs con nosotros, verdad? Es una[n]pelボcula de ciencia ficciポn.
 
 [msg MSG_032 [P3 Fem Protag]]
-夷Ver una pel胤cula? 夷Una... pel胤cula de[n]ciencia ficci吋n?
+メVer una pelボcula? メUna... pelボcula de[n]ciencia ficciポn?
 
 [msg MSG_033 [Yukari]]
-斡S胤! 斡Vamos, vamos!
+ムSボ! ムVamos, vamos!
 
 [msg MSG_034 [P3 Fem Protag]]
-... 斡Claro!
+... ムClaro!
 

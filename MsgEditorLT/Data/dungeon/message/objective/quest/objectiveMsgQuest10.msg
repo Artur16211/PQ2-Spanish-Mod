@@ -1,11 +1,11 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Intenta pescar!
+ムIntenta pescar!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Encuentra cebo en alg雨n lugar h雨medo
+Encuentra cebo en algマn lugar hマmedo
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-Dir胤gete al lago
+Dirボgete al lago
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
 Encuentra un lugar para pescar

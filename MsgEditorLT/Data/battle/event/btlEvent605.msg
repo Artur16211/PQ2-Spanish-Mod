@@ -2,12 +2,12 @@
 Nuevos enemigos... Que forma tan interesante.
 
 [msg MSG_001 [Ryuji]]
-Bien, seguro ser茨 pan comido si descubrimos sus debilidades, 夷verdad?
+Bien, seguro serホ pan comido si descubrimos sus debilidades, メverdad?
 
 [msg MSG_002 [Futaba]]
-En realidad... son m茨s agresivas que las de antes. 斡Tengan cuidado!
+En realidad... son mホs agresivas que las de antes. ムTengan cuidado!
 
 [msg MSG_BTL_605_003 [Futaba]]
 Siempre registro los datos cuando atacan a una Sombra.
-Av胤senme si quieren echar un vistazo.
+Avボsenme si quieren echar un vistazo.
 

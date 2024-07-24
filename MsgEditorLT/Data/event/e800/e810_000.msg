@@ -1,6 +1,6 @@
 [msg MSG_000]
-Hay un mont吋n de hojas h雨medas.
+Hay un montポn de hojas hマmedas.
 
 [msg MSG_001 [Morgana]]
-夷Qu姻 pasa Joker? Continuemos.
+メQu〒 pasa Joker? Continuemos.
 

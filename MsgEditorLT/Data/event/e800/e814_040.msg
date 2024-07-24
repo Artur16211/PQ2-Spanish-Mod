@@ -5,13 +5,13 @@ Bien, una puerta cubierta de enredaderas. Noir, por favor.
 Claro. Un momento.
 
 [msg MSG_002 [Haru]]
-斡Oh! 斡Aqu胤 hay una!
+ムOh! ムAquボ hay una!
 
 [msg MSG_003 [Kanji]]
-斡Genial! 夷Es suficiente?
+ムGenial! メEs suficiente?
 
 [msg MSG_004 [Haru]]
-Um... Parece que necesitamos m茨s.
+Um... Parece que necesitamos mホs.
 
 [msg MSG_005 [Yukiko]]
 Okay. Entonces sigamos buscando.

@@ -2,22 +2,22 @@
 Dummy
 
 [msg BTL_MES_003_001]
-斡Je! Lo siento, pero voy a darlo todo. 斡Te derrotaremos!
+ムJe! Lo siento, pero voy a darlo todo. ムTe derrotaremos!
 
 [msg BTL_MES_003_002]
 ＜声Of＞kDGktうぜ！ ぜDGー負けNえ！
 
 [msg BTL_MES_003_003]
-斡夷Qu姻?! 斡Un FOE! 斡Ah, vamos...!
+ムメQu〒?! ムUn FOE! ムAh, vamos...!
 
 [msg BTL_MES_003_004]
 ＜声Of＞了解DI！ 退散退散！
 
 [msg BTL_MES_003_005]
-夷A qui姻n le importa si es un FOE? 斡No vamos a retroceder!
+メA qui〒n le importa si es un FOE? ムNo vamos a retroceder!
 
 [msg BTL_MES_003_006]
-斡Eh, una rara! 斡Qu姻 suerte!
+ムEh, una rara! ムQu〒 suerte!
 
 [msg BTL_MES_003_007]
 ＜声Of＞eかせIけDG！ ぜDGー逃がさNーぞ！
@@ -32,31 +32,31 @@ Dummy
 ＜声Of＞KrbJK！ hDBj助かrぜ、山岸さz！
 
 [msg BTL_MES_003_011]
-斡Esta es fuerte! 斡夷C吋mo salimos de esta?!
+ムEsta es fuerte! ムメCポmo salimos de esta?!
 
 [msg BTL_MES_003_012]
 ＜声Of＞えDI…ここP次O機会L！ EーこILしNぇ？
 
 [msg BTL_MES_003_013]
-No la hemos visto antes. 斡Busquemos sus debilidades!
+No la hemos visto antes. ムBusquemos sus debilidades!
 
 [msg BTL_MES_003_014]
 ＜声Of＞うDし、いtいtkDGfoうぜ！
 
 [msg BTL_MES_003_015]
-斡Oye! 斡Podr胤amos ganar esta!
+ムOye! ムPodrボamos ganar esta!
 
 [msg BTL_MES_003_016]
 ＜声Of＞oDし！ 俺LeかせKさい！
 
 [msg BTL_MES_003_017]
-斡Muy f茨cil! 斡Podemos con esto!
+ムMuy fホcil! ムPodemos con esto!
 
 [msg BTL_MES_003_018]
 ＜声Of＞お？krか？ kDBeうOか？
 
 [msg BTL_MES_003_019]
-斡Ah! 夷La Sombra cambi吋?
+ムAh! メLa Sombra cambiポ?
 
 [msg BTL_MES_003_020]
 ＜声Of＞おいおい！ ヤベーDG！
@@ -65,7 +65,7 @@ No la hemos visto antes. 斡Busquemos sus debilidades!
 ＜声Of＞くそ…！ 呼zHNーDEO！
 
 [msg BTL_MES_003_022]
-斡夷Qu姻 hacemos?!
+ムメQu〒 hacemos?!
 
 [msg BTL_MES_003_023]
 ＜声Of＞BnD、マジ！？ 立G直さNーIkZーAt。
@@ -89,13 +89,13 @@ No la hemos visto antes. 斡Busquemos sus debilidades!
 ＜声Of＞4ミー
 
 [msg BTL_MES_003_030]
-＜声Of＞完二、しDかqしt！ くそ、フ隠ローしNーIK…
+＜声Of＞完二、しDかqしt！ くそ、フワローしNーIK…
 
 [msg BTL_MES_003_031]
 ＜声Of＞マジかo、直斗… KzIかしNーIK…
 
 [msg BTL_MES_003_032]
-＜声Of＞クマ、しDかqしtDG！ くそ、フ隠ローしNーIK…
+＜声Of＞クマ、しDかqしtDG！ くそ、フワローしNーIK…
 
 [msg BTL_MES_003_033]
 ＜声Of＞岳羽さz、大丈夫か？ 助けNーI…！
@@ -113,13 +113,13 @@ No la hemos visto antes. 斡Busquemos sus debilidades!
 ＜声Of＞4ミー
 
 [msg BTL_MES_003_038]
-＜声Of＞威姻Bjz、大変KこILKDGzぞ！？ 何IかしNーIkZぇ
+＜声Of＞ミ〒Bjz、大変KこILKDGzぞ！？ 何IかしNーIkZぇ
 
 [msg BTL_MES_003_039]
-＜声Of＞天田がヤベ緯！ 放DGおけNーぞ！？
+＜声Of＞天田がヤベレ！ 放DGおけNーぞ！？
 
 [msg BTL_MES_003_040]
-＜声Of＞コロマル、KzIかしNーIK… こOeeじjマズ姻DG
+＜声Of＞コロマル、KzIかしNーIK… こOeeじjマズ〒DG
 
 [msg BTL_MES_003_041]
 ＜声Of＞荒垣さz、大丈夫… じjKいDすoN
@@ -128,22 +128,22 @@ No la hemos visto antes. 斡Busquemos sus debilidades!
 ＜声Of＞おいおい、マジか？ bDIくIヤベーzじjNーO？
 
 [msg BTL_MES_003_043]
-＜声Of＞ジョー吋ー、しDかqしtDG！ 何IかしNーI…
+＜声Of＞ジョーポー、しDかqしtDG！ 何IかしNーI…
 
 [msg BTL_MES_003_044]
-＜声Of＞ス吋ル、しDかqしt！ くそ、フ隠ローしNーIK…
+＜声Of＞スポル、しDかqしt！ くそ、フワローしNーIK…
 
 [msg BTL_MES_003_045]
-＜声Of＞パンサーがkZぇ！ フ隠ローしNーI！
+＜声Of＞パンサーがkZぇ！ フワローしNーI！
 
 [msg BTL_MES_003_046]
 ＜声Of＞モ)がピン5LKDGzぞ！ JうLかしNーI！
 
 [msg BTL_MES_003_047]
-＜声Of＞フ隠7クス、しDかqしtDG！ すぐフ隠ローしNぇI！
+＜声Of＞フワ7クス、しDかqしtDG！ すぐフワローしNぇI！
 
 [msg BTL_MES_003_048]
-＜声Of＞ク姻ーン、大丈夫かo… こOeeじjマズ姻DG！
+＜声Of＞ク〒ーン、大丈夫かo… こOeeじjマズ〒DG！
 
 [msg BTL_MES_003_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ No la hemos visto antes. 斡Busquemos sus debilidades!
 ＜声Of＞ノワール、マジかo！ 大丈夫…じjNぇoK！？
 
 [msg BTL_MES_003_051]
-＜声Of＞しDかqしtDG、クロ胤！ すぐLフ隠ローしNぇI…！
+＜声Of＞しDかqしtDG、クロボ！ すぐLフワローしNぇI…！
 
 [msg BTL_MES_003_052]
 ＜声Of＞おDし、狙い撃BしGkrぜ！
 
 [msg BTL_MES_003_053]
-斡Estamos en racha!
+ムEstamos en racha!
 
 [msg BTL_MES_003_054]
-＜声Of＞謂7ケー！ kDGktうぜD！
+＜声Of＞ヰ7ケー！ kDGktうぜD！
 
 [msg BTL_MES_003_055]
-Si quieres atacar su debilidad, 斡c茨mbiame!
+Si quieres atacar su debilidad, ムcホmbiame!
 
 [msg BTL_MES_003_056]
-斡Bien! 夷Hora de un Relevo?
+ムBien! メHora de un Relevo?
 
 [msg BTL_MES_003_057]
-斡Oh! 斡Parece que es mi momento de brillar!
+ムOh! ムParece que es mi momento de brillar!
 
 [msg BTL_MES_003_058]
 ＜声Of＞さDすが、相棒！ 頼zAぜ！
@@ -182,7 +182,7 @@ Si quieres atacar su debilidad, 斡c茨mbiame!
 ＜声Of＞4ミー
 
 [msg BTL_MES_003_061]
-＜声Of＞うおD、里中Okr気がス郁ーK
+＜声Of＞うおD、里中Okr気がスヮーK
 
 [msg BTL_MES_003_062]
 ＜声Of＞えDI…天城？ 俺たBeH燃kすKo…？
@@ -215,7 +215,7 @@ Si quieres atacar su debilidad, 斡c茨mbiame!
 ＜声Of＞4ミー
 
 [msg BTL_MES_003_072]
-＜声Of＞威姻Bjz！ WBかeしGks！
+＜声Of＞ミ〒Bjz！ WBかeしGks！
 
 [msg BTL_MES_003_073]
 ＜声Of＞おDし、天田！ 頑張so！
@@ -230,10 +230,10 @@ Si quieres atacar su debilidad, 斡c茨mbiame!
 ＜声Of＞おう、期待しGDかpK！
 
 [msg BTL_MES_003_077]
-＜声Of＞決hGくsoK、ジョー吋ー！
+＜声Of＞決hGくsoK、ジョーポー！
 
 [msg BTL_MES_003_078]
-＜声Of＞ス吋ル、WBかeしGkso！
+＜声Of＞スポル、WBかeしGkso！
 
 [msg BTL_MES_003_079]
 ＜声Of＞パンサー、 kDBeDGくs！
@@ -242,10 +242,10 @@ Si quieres atacar su debilidad, 斡c茨mbiame!
 ＜声Of＞モ)ー！ 頼zAぞー！
 
 [msg BTL_MES_003_081]
-＜声Of＞おうo。任せrぜフ隠7クス！
+＜声Of＞おうo。任せrぜフワ7クス！
 
 [msg BTL_MES_003_082]
-＜声Of＞ク姻ーンOkr気、ス郁ーぜ…！
+＜声Of＞ク〒ーンOkr気、スヮーぜ…！
 
 [msg BTL_MES_003_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Si quieres atacar su debilidad, 斡c茨mbiame!
 ＜声Of＞kDBeえ、ノワール！
 
 [msg BTL_MES_003_085]
-＜声Of＞クロ胤！ 蹴散pしGkso！
+＜声Of＞クロボ！ 蹴散pしGkso！
 
 [msg BTL_MES_003_086]
-斡Muy bien! 斡Listo para rockear!
+ムMuy bien! ムListo para rockear!
 

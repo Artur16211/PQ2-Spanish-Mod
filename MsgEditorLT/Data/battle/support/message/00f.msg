@@ -2,7 +2,7 @@
 Dummy
 
 [msg BTL_MES_015_001]
-斡Perder no es una opci吋n!
+ムPerder no es una opciポn!
 
 [msg BTL_MES_015_002]
 ＜声Of＞必ず殲滅させrHあqeす！
@@ -17,10 +17,10 @@ Ese es un FOE peligroso...
 La probabilidad de vencer a ese FOE es alta.
 
 [msg BTL_MES_015_006]
-斡Una Sombra rara! 斡Ten cuidado para que no escape!
+ムUna Sombra rara! ムTen cuidado para que no escape!
 
 [msg BTL_MES_015_007]
-＜声Of＞大変レ威Kシャ(胤HすN。 仕留hrHあqeす。
+＜声Of＞大変レミKシャ(ボHすN。 仕留hrHあqeす。
 
 [msg BTL_MES_015_008]
 ＜声Of＞)ビさz、承知いたしeした！
@@ -38,7 +38,7 @@ Este FOE es bastante formidable...
 ＜声Of＞撤退しeすか？ 戦闘L移行Hしnうか？
 
 [msg BTL_MES_015_013]
-斡Nuevo enemigo! Ser胤a mejor recompilar su informaci吋n.
+ムNuevo enemigo! Serボa mejor recompilar su informaciポn.
 
 [msg BTL_MES_015_014]
 ＜声Of＞了解Hす。 情報収集y開始すrHあqeす。
@@ -50,22 +50,22 @@ No representan ninguna amenaza para nosotros.
 ＜声Of＞了解Hあqeす おeかせくAさい
 
 [msg BTL_MES_015_017]
-No mostraremos piedad. Resolvamos esto r茨pido.
+No mostraremos piedad. Resolvamos esto rホpido.
 
 [msg BTL_MES_015_018]
 ＜声Of＞殲滅y開始すrHあqeす
 
 [msg BTL_MES_015_019]
-斡Estoy detectando un cambio en esa Sombra!
+ムEstoy detectando un cambio en esa Sombra!
 
 [msg BTL_MES_015_020]
 ＜声Of＞大ピン5Hあqeす！
 
 [msg BTL_MES_015_021]
-＜声Of＞こいEP斡急事態Hあqeす！
+＜声Of＞こいEPム急事態Hあqeす！
 
 [msg BTL_MES_015_022]
-斡La situaci吋n es grave! 斡Estamos a tus 吋rdenes!
+ムLa situaciポn es grave! ムEstamos a tus ポrdenes!
 
 [msg BTL_MES_015_023]
 ＜声Of＞回復I戦線O立G直しが 必要Hあqeす…
@@ -74,7 +74,7 @@ No mostraremos piedad. Resolvamos esto r茨pido.
 ＜声Of＞ピン5Hあqeす。 早急K治療が必要Hす
 
 [msg BTL_MES_015_025]
-＜声Of＞斡急事態Hあqeす！ 早く回復y！
+＜声Of＞ム急事態Hあqeす！ 早く回復y！
 
 [msg BTL_MES_015_026]
 ＜声Of＞陽介さzがピン5Hあqeす。 救護y要請しeす！
@@ -128,10 +128,10 @@ No mostraremos piedad. Resolvamos esto r茨pido.
 ＜声Of＞危Kい状態Hあqeす。 早く回復y！
 
 [msg BTL_MES_015_043]
-＜声Of＞ジョー吋ーさzがピン5Hあqeす。 救護y要請しeす！
+＜声Of＞ジョーポーさzがピン5Hあqeす。 救護y要請しeす！
 
 [msg BTL_MES_015_044]
-＜声Of＞ス吋ルさzがピン5Hあqeす。 救護y要請しeす！
+＜声Of＞スポルさzがピン5Hあqeす。 救護y要請しeす！
 
 [msg BTL_MES_015_045]
 ＜声Of＞パンサーさzが心配Hあqeす。 早く回復y！
@@ -140,10 +140,10 @@ No mostraremos piedad. Resolvamos esto r茨pido.
 ＜声Of＞モ)さzがピン5Hあqeす。 救護y要請しeす！
 
 [msg BTL_MES_015_047]
-＜声Of＞フ隠7クスさzがピン5Hあqeす。 救護y要請しeす！
+＜声Of＞フワ7クスさzがピン5Hあqeす。 救護y要請しeす！
 
 [msg BTL_MES_015_048]
-＜声Of＞ク姻ーンさzが心配Hあqeす。 早く回復y！
+＜声Of＞ク〒ーンさzが心配Hあqeす。 早く回復y！
 
 [msg BTL_MES_015_049]
 ＜声Of＞4ミー
@@ -152,13 +152,13 @@ No mostraremos piedad. Resolvamos esto r茨pido.
 ＜声Of＞ノワールさzが心配Hあqeす。 早く回復y！
 
 [msg BTL_MES_015_051]
-＜声Of＞クロ胤さzがピン5Hあqeす。 救護y要請しeす！
+＜声Of＞クロボさzがピン5Hあqeす。 救護y要請しeす！
 
 [msg BTL_MES_015_052]
 ＜声Of＞KrbJ！ 了解Hあqeす！
 
 [msg BTL_MES_015_053]
-斡Continuemos la operaci吋n!
+ムContinuemos la operaciポn!
 
 [msg BTL_MES_015_054]
 ＜声Of＞了解Hあqeす！ 気y抜かずLいきeしnう
@@ -170,7 +170,7 @@ Identificando debilidad... Creo que estoy preparada para esta tarea.
 Propongo un Relevo.
 
 [msg BTL_MES_015_057]
-斡Esperando 吋rdenes! Soy la m茨s adecuada para esta misi吋n.
+ムEsperando ポrdenes! Soy la mホs adecuada para esta misiポn.
 
 [msg BTL_MES_015_058]
 ＜声Of＞ここPお任せすrHあqeす！
@@ -230,10 +230,10 @@ Propongo un Relevo.
 ＜声Of＞了解Hす、お任せすrHあqeす！
 
 [msg BTL_MES_015_077]
-＜声Of＞ジョー吋ーさzL 期待させGいたAくHあqeす！
+＜声Of＞ジョーポーさzL 期待させGいたAくHあqeす！
 
 [msg BTL_MES_015_078]
-＜声Of＞ス吋ルさzO勇姿L 期待大Hあqeす！
+＜声Of＞スポルさzO勇姿L 期待大Hあqeす！
 
 [msg BTL_MES_015_079]
 ＜声Of＞思いDきqブ5eかすHあqeす！ パンサーさz！
@@ -242,10 +242,10 @@ Propongo un Relevo.
 ＜声Of＞モ)さzO時代O幕開けHあqeす！
 
 [msg BTL_MES_015_081]
-＜声Of＞そsHP、 フ隠7クスさzLお任せすrHあqeす
+＜声Of＞そsHP、 フワ7クスさzLお任せすrHあqeす
 
 [msg BTL_MES_015_082]
-＜声Of＞ク姻ーンさzKp 問題KいHあqeすN
+＜声Of＞ク〒ーンさzKp 問題KいHあqeすN
 
 [msg BTL_MES_015_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Propongo un Relevo.
 ＜声Of＞ノワールさzKp 一気LkDGくsrPずHあqeす
 
 [msg BTL_MES_015_085]
-＜声Of＞クロ胤さzが、 kr気マンマンOoうHあqeすN
+＜声Of＞クロボさzが、 kr気マンマンOoうHあqeすN
 
 [msg BTL_MES_015_086]
-Estoy preparada. 斡Empecemos!
+Estoy preparada. ムEmpecemos!
 

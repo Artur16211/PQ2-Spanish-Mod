@@ -52,50 +52,50 @@ bう、こsP…（※4ミーHす）
 貴重AK。（※4ミーHす）
 
 [msg MSG_012 [Margaret]]
-ショー:吋7:か。 Jうすr？通DGおくか？（※4ミーHす）
+ショー:ポ7:か。 Jうすr？通DGおくか？（※4ミーHす）
 
 [msg MSG_013 [Margaret]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Margaret]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Margaret]]
 こBpP通szoうAK。（※4ミーHす）
 
 [msg MSG_016 [Margaret]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Margaret]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Margaret]]
-ヤバそうK雰囲気AがJうすr? (戦闘謂3吋ラスポ7: 発見MSG（仮）)
+ヤバそうK雰囲気AがJうすr? (戦闘ヰ3ポラスポ7: 発見MSG（仮）)
 
 [msg MSG_019 [Margaret]]
-探しGfoう (戦闘謂3吋ラスポ7: 探すMSG（仮）)
+探しGfoう (戦闘ヰ3ポラスポ7: 探すMSG（仮）)
 
 [msg MSG_020 [Margaret]]
-今回PkhGおこう (戦闘謂3吋ラスポ7: khrMSG（仮）)
+今回PkhGおこう (戦闘ヰ3ポラスポ7: khrMSG（仮）)
 
 [msg MSG_021 [Margaret]]
-危KかDたK (戦闘謂3吋ラスポ7: 戦闘終了MSG（仮）)
+危KかDたK (戦闘ヰ3ポラスポ7: 戦闘終了MSG（仮）)
 
 [msg MSG_022 [Margaret]]
-ここPシャ(胤O気配が強いK。 evqLシャ(胤がいそうAが、Jうすr？[n](雑魚戦闘謂3吋ラスポ7: 発見MSG（仮）)
+ここPシャ(ボO気配が強いK。 evqLシャ(ボがいそうAが、Jうすr？[n](雑魚戦闘ヰ3ポラスポ7: 発見MSG（仮）)
 
 [msg MSG_023 [Margaret]]
-いたぞ、シャ(胤A！ (雑魚戦闘謂3吋ラスポ7: 探すMSG（仮）)
+いたぞ、シャ(ボA！ (雑魚戦闘ヰ3ポラスポ7: 探すMSG（仮）)
 
 [msg MSG_024 [Margaret]]
-そうAK、行こう (雑魚戦闘謂3吋ラスポ7: khrMSG（仮）)
+そうAK、行こう (雑魚戦闘ヰ3ポラスポ7: khrMSG（仮）)
 
 [msg MSG_025 [Margaret]]
-VーあWKかDた。あD、Kzか落BGr！ (雑魚戦闘謂3吋ラスポ7:[n]戦闘終了MSG（仮）)
+VーあWKかDた。あD、Kzか落BGr！ (雑魚戦闘ヰ3ポラスポ7:[n]戦闘終了MSG（仮）)
 
 [msg MSG_026 [Margaret]]
 出入q口があr。 戻rか？ (出入q口MSG（仮）)
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

@@ -1,76 +1,76 @@
 [msg MSG_000 [Ryuji]]
-斡Esto es incre胤ble! 夷D吋nde estamos?
+ムEsto es increボble! メDポnde estamos?
 
 [msg MSG_001 [Haru]]
-Parece el tr茨iler de la pel胤cula que[n]vimos antes. Nunca hab胤a visto ninguna[n]de estas plantas... 斡Son incre胤bles!
+Parece el trホiler de la pelボcula que[n]vimos antes. Nunca habボa visto ninguna[n]de estas plantas... ムSon increボbles!
 
 [msg MSG_002 [Morgana]]
-Esto es como una jungla real... Un[n]dinosaurio podr胤a aparecer en cualquier[n]momento.
+Esto es como una jungla real... Un[n]dinosaurio podrボa aparecer en cualquier[n]momento.
 
 [msg MSG_003 [Akechi]]
-En "Kamoshidaman", las personas que[n]estaban en el tr茨iler aparecieron tal[n]como las vimos...
-Naturalmente, los dinosaurios deber胤an[n]aparecer en esta pel胤cula.
+En "Kamoshidaman", las personas que[n]estaban en el trホiler aparecieron tal[n]como las vimos...
+Naturalmente, los dinosaurios deberボan[n]aparecer en esta pelボcula.
 
 [sel SEL_004 top]
-Esto es incre胤ble.
+Esto es increボble.
 Me estoy poniendo nervioso.
-斡Raaaargh!
+ムRaaaargh!
 
 [msg MSG_005 [Makoto]]
 En serio. Bueno, no creo poder ayudar si[n]aparece uno.
-Debemos movernos con precauci吋n y[n]mantenernos en guardia para l胤der con[n]cualquier cosa que pueda aparecer.
+Debemos movernos con precauciポn y[n]mantenernos en guardia para lボder con[n]cualquier cosa que pueda aparecer.
 
 [msg MSG_006 [Ann]]
-夷Qu姻? 夷Est茨s planeando perseguir[n]dinosaurios o algo as胤? En serio, por[n]favor no...
+メQu〒? メEstホs planeando perseguir[n]dinosaurios o algo asボ? En serio, por[n]favor no...
 
 [msg MSG_007 [Makoto]]
-Asegur姻monos de movernos con precauci吋n[n]y mantenernos en guardia para lidiar con[n]cualquier cosa que pudiera suceder.
+Asegur〒monos de movernos con precauciポn[n]y mantenernos en guardia para lidiar con[n]cualquier cosa que pudiera suceder.
 
 [msg MSG_008 [Ann]]
-斡夷Qu姻?!
-斡O-oye! Eso no es gracioso, 夷sabes?
+ムメQu〒?!
+ムO-oye! Eso no es gracioso, メsabes?
 
 [msg MSG_009 [Makoto]]
 Oh, vamos. Deja de burlarte...
-Pero, ahora que lo pienso, deber胤amos[n]ser cautelosos, por si de repente somos[n]atacados por algo.
+Pero, ahora que lo pienso, deberボamos[n]ser cautelosos, por si de repente somos[n]atacados por algo.
 
 [msg MSG_010 [Yusuke]]
-...Por cierto, s姻 que tenemos la intenci吋n de[n]cambiar el final de esta pel胤cula, pero 夷qu姻[n]se supone que hagamos exactamente?
+...Por cierto, s〒 que tenemos la intenciポn de[n]cambiar el final de esta pelボcula, pero メqu〒[n]se supone que hagamos exactamente?
 
 [msg MSG_011 [Ryuji]]
-Fue bastante f茨cil saber qu姻 hacer con[n]Kamoshidaman, solo ten胤amos que golpear[n]al malo.
+Fue bastante fホcil saber qu〒 hacer con[n]Kamoshidaman, solo tenボamos que golpear[n]al malo.
 
 [msg MSG_012 [Akechi]]
 Creo que no fue tan simple...
 
 [msg MSG_013 [Morgana]]
-夷Crow?
+メCrow?
 
 [msg MSG_014 [Akechi]]
 Lo siento... Estaba hablando conmigo[n]mismo.
-En cualquier caso, quiz茨s los[n]dinosaurios del tr茨iler son la clave[n]para cambiar esta pel胤cula...
+En cualquier caso, quizホs los[n]dinosaurios del trホiler son la clave[n]para cambiar esta pelボcula...
 
 [msg MSG_015 [Makoto]]
-Los que estaban decidiendo las cosas por[n]la regla de la mayor胤a, 夷no?
+Los que estaban decidiendo las cosas por[n]la regla de la mayorボa, メno?
 
 [msg MSG_016 [Akechi]]
-Seg雨n el tr茨iler, los dinosaurios[n]parec胤an estar discutiendo sobre si[n]salvar o no a su compa隠ero.
+Segマn el trホiler, los dinosaurios[n]parecボan estar discutiendo sobre si[n]salvar o no a su compaワero.
 
 [msg MSG_016_5 [Akechi]]
-El que insisti吋 en el rescate fue[n]exiliado por los otros por disentir del[n]grupo...
-Si vamos a cambiar algo, 夷no ser胤a el[n]lugar indicado para empezar?
+El que insistiポ en el rescate fue[n]exiliado por los otros por disentir del[n]grupo...
+Si vamos a cambiar algo, メno serボa el[n]lugar indicado para empezar?
 
 [sel SEL_017 top]
-Tienes raz吋n.
+Tienes razポn.
 Supongo que podemos intentarlo.
 
 [msg MSG_018 [Yusuke]]
-De hecho, no tenemos otras pistas. 夷Por[n]qu姻 no buscamos a esos dinosaurios?
+De hecho, no tenemos otras pistas. メPor[n]qu〒 no buscamos a esos dinosaurios?
 
 [msg MSG_019 [Makoto]]
 Estoy de acuerdo, empecemos con lo que[n]podemos hacer.
 
 [msg MSG_020 [Futaba]]
-Parece que este lugar se complica m茨s[n]adelante de tu ubicaci吋n.
-斡Joker, aseg雨rate de dibujar el mapa,[n]por si surge algo!
+Parece que este lugar se complica mホs[n]adelante de tu ubicaciポn.
+ムJoker, asegマrate de dibujar el mapa,[n]por si surge algo!
 

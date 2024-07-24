@@ -1,9 +1,9 @@
 [msg MSG_000 [Futaba]]
-Espera, por ah胤 no. Es por el otro lado.
+Espera, por ahボ no. Es por el otro lado.
 
 [msg MSG_001 [Yukiko]]
-Cierto. Tenemos que encontrar al dinosaurio herido. Debe de estar al este de aqu胤.
+Cierto. Tenemos que encontrar al dinosaurio herido. Debe de estar al este de aquボ.
 
 [msg MSG_002 [Haru]]
-As胤 que por aqu胤. Estoy empezando a preocuparme... 斡D姻monos prisa!
+Asボ que por aquボ. Estoy empezando a preocuparme... ムD〒monos prisa!
 

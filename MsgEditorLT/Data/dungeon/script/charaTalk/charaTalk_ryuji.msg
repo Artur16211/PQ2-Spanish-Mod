@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Ryuji]]
-斡Oye, parece que podemos recolectar[n]algunos materiales aqu胤!
+ムOye, parece que podemos recolectar[n]algunos materiales aquボ!
 
 [msg MSG_001 [Ryuji]]
-斡De acuerdo! 斡Manten los ojos abiertos!
+ムDe acuerdo! ムManten los ojos abiertos!
 
 [msg MSG_002 [Ryuji]]
-斡Genial! 斡Tomemos todo lo que podamos!
+ムGenial! ムTomemos todo lo que podamos!
 
 [msg MSG_003 [Ryuji]]
-夷Vamos a pasar esta vez? Bien, 斡volvamos[n]m茨s tarde!
+メVamos a pasar esta vez? Bien, ムvolvamos[n]mホs tarde!
 
 [msg MSG_004 [Ryuji]]
-斡Genial! 斡Eso es todo!
+ムGenial! ムEso es todo!
 
 [msg MSG_005]
-斡Genial!
+ムGenial!
 
 [msg MSG_006]
-斡Ge-enial!
+ムGe-enial!
 
 [msg MSG_007]
-斡Whoa!
+ムWhoa!
 
 [msg MSG_008 [Ryuji]]
-Maldici吋n... 夷Ya terminamos?
+Maldiciポn... メYa terminamos?
 
 [msg MSG_009]
-斡Est茨 bien!
+ムEstホ bien!
 
 [msg MSG_010]
-斡Oye, es una rara!
+ムOye, es una rara!
 
 [msg MSG_011]
-斡Genial! 斡Lo conseguimos!
+ムGenial! ムLo conseguimos!
 
 [msg MSG_012 [Ryuji]]
-斡Un atajo! 夷Quieres tomarlo?
+ムUn atajo! メQuieres tomarlo?
 
 [msg MSG_013 [Ryuji]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Ryuji]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Ryuji]]
 Vaya, no podemos pasar desde este[n]extremo.
 
 [msg MSG_016 [Ryuji]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Ryuji]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Ryuji]]
-Eh, 夷oye... ustedes tambi姻n est茨n[n]asustados, no?
+Eh, メoye... ustedes tambi〒n estホn[n]asustados, no?
 
 [msg MSG_019 [Ryuji]]
-斡V-vamos a hacerlo!
+ムV-vamos a hacerlo!
 
 [msg MSG_020 [Ryuji]]
-S胤... suena como un plan.
+Sボ... suena como un plan.
 
 [msg MSG_021 [Ryuji]]
-斡Dios m胤o! 斡Eso fue dif胤cil!
+ムDios mボo! ムEso fue difボcil!
 
 [msg MSG_022 [Ryuji]]
-夷Tambi姻n sientes esas Sombras? 夷Qu姻[n]vamos a hacer?
+メTambi〒n sientes esas Sombras? メQu〒[n]vamos a hacer?
 
 [msg MSG_023 [Ryuji]]
-Genial, 斡vamos a investigar!
+Genial, ムvamos a investigar!
 
 [msg MSG_024 [Ryuji]]
-夷Oh? Eso est茨 bien tambi姻n.
+メOh? Eso estホ bien tambi〒n.
 
 [msg MSG_025 [Ryuji]]
-斡Listo! 斡Todo hecho!
+ムListo! ムTodo hecho!
 
 [msg MSG_026 [Ryuji]]
-Oye, parece que podemos volver al cine.[n]夷Quieres hacerlo?
+Oye, parece que podemos volver al cine.[n]メQuieres hacerlo?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

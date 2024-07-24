@@ -1,35 +1,35 @@
 [msg MSG_000 [Futaba]]
-斡Han derrotado al todopoderoso Tyranniqueen! 斡Bien hecho, gerreros!
+ムHan derrotado al todopoderoso Tyranniqueen! ムBien hecho, gerreros!
 
 [msg MSG_001 [Kanji]]
-斡Eh! 斡Toma eso, saco de mierda! 斡No quiero ver tu fea cara aqu胤 nunca m茨s!
+ムEh! ムToma eso, saco de mierda! ムNo quiero ver tu fea cara aquボ nunca mホs!
 
 [msg MSG_002 [Ken]]
-No puedes decir eso, Kanji. Los h姻roes nunca maldicen as胤.
+No puedes decir eso, Kanji. Los h〒roes nunca maldicen asボ.
 Intenta tener algo de delicadeza.
 
 [msg MSG_003 [Kanji]]
-夷O-Oh, s胤? Muy bien, entonces...
-斡S-S胤! 斡夷Qu姻 te parece?! 斡Somos los Phoenix Rangers!
+メO-Oh, sボ? Muy bien, entonces...
+ムS-Sボ! ムメQu〒 te parece?! ムSomos los Phoenix Rangers!
 
 [msg MSG_004 [Ken]]
-斡S胤, eso es! 斡Ahora es mi turno!
-斡Los villanos no tienen ninguna oportunidad mientras est姻n los Phoenix Rangers! 斡Featherman para siempre!
+ムSボ, eso es! ムAhora es mi turno!
+ムLos villanos no tienen ninguna oportunidad mientras est〒n los Phoenix Rangers! ムFeatherman para siempre!
 
 [sel SEL_005 top]
 Muy bonito.
 Eso fue genial.
 
 [msg MSG_006 [Ken]]
-斡Gracias! Lo conseguimos trabajando en equipo.
+ムGracias! Lo conseguimos trabajando en equipo.
 
 [msg MSG_007 [Ken]]
-Je, je, je, bastante heroico, 夷verdad? Esto es un sue隠o hecho realidad.
+Je, je, je, bastante heroico, メverdad? Esto es un sueワo hecho realidad.
 
 [msg MSG_008 [Futaba]]
-El gran tirano fue derrotado, y as胤, la paz fue restaurada en Junessic Land.
-En el pr吋ximo cap胤tulo de Phoenix Ranger Featherman, 斡los h姻roes vuelven a la base!
+El gran tirano fue derrotado, y asボ, la paz fue restaurada en Junessic Land.
+En el prポximo capボtulo de Phoenix Ranger Featherman, ムlos h〒roes vuelven a la base!
 
 [msg MSG_009 [Morgana]]
-No estoy seguro de lo que est茨 pasando, pero parece que hemos terminado. Volvamos.
+No estoy seguro de lo que estホ pasando, pero parece que hemos terminado. Volvamos.
 

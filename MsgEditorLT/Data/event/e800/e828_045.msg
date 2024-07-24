@@ -1,91 +1,91 @@
 [msg MSG_000 [Ken]]
-Este camino deber胤a de ser seguro, 夷verdad?
+Este camino deberボa de ser seguro, メverdad?
 Sigamos a Joker y continuemos.
 
 [sel SEL_001 top]
 Cierto.
-He cambiado de opini吋n.
+He cambiado de opiniポn.
 
 [msg MSG_002 [Koromaru]]
-斡Arf!
+ムArf!
 
 [msg MSG_003 [Morgana]]
-夷Oh? 夷No has podido dejar ese tesoro despu姻s de todo, eh?
+メOh? メNo has podido dejar ese tesoro despu〒s de todo, eh?
 
 [msg MSG_004 [Aigis]]
-Dejaremos que decidas qu姻 camino tomamos.
+Dejaremos que decidas qu〒 camino tomamos.
 
 [msg MSG_005 [Ken]]
-夷Eh? 夷No dijiste que fu姻ramos a la izquierda? Este camino lleva al FOE.
+メEh? メNo dijiste que fu〒ramos a la izquierda? Este camino lleva al FOE.
 
 [msg MSG_006 [Morgana]]
-斡Muajaja! 斡Esa es la actitud, Joker! 斡No dejaremos ese tesoro atr茨s!
+ムMuajaja! ムEsa es la actitud, Joker! ムNo dejaremos ese tesoro atrホs!
 
 [msg MSG_007 [Aigis]]
-夷Ir茨s hacia el FOE o tomar茨s el camino de la izquierda?
+メIrホs hacia el FOE o tomarホs el camino de la izquierda?
 
 [sel SEL_008 top]
-斡Sigamos recto!
-Me equivoqu姻 de camino.
+ムSigamos recto!
+Me equivoqu〒 de camino.
 
 [msg MSG_009 [Morgana]]
-斡Eso est茨 mejor! 斡El tesoro es tan bueno como nosotros!
+ムEso estホ mejor! ムEl tesoro es tan bueno como nosotros!
 
 [msg MSG_010 [Morgana]]
-夷Qu姻? 斡Ay, vamos! Me hab胤as dado esperanzas y todo...
+メQu〒? ムAy, vamos! Me habボas dado esperanzas y todo...
 
 [msg MSG_011 [Ken]]
-Hay un FOE en este camino, 夷verdad? 夷Seguro que estaremos bien?
+Hay un FOE en este camino, メverdad? メSeguro que estaremos bien?
 
 [msg MSG_012 [Morgana]]
-Ey, 斡tambi姻n hay un tesoro! Vamos por aqu胤, 夷verdad, Joker?
+Ey, ムtambi〒n hay un tesoro! Vamos por aquボ, メverdad, Joker?
 
 [sel SEL_013 top]
 Cierto.
-He cambiado de opini吋n.
+He cambiado de opiniポn.
 
 [msg MSG_014 [Koromaru]]
-斡Arf!
+ムArf!
 
 [msg MSG_015 [Morgana]]
-斡Muy bien! Entonces prep茨rense para...
-Espera, 斡夷QU畏?! 斡夷No vamos a seguir este camino?!
+ムMuy bien! Entonces prepホrense para...
+Espera, ムメQU※?! ムメNo vamos a seguir este camino?!
 
 [msg MSG_016 [Aigis]]
-Te dejaremos a ti decidir qu姻 camino tomar.
+Te dejaremos a ti decidir qu〒 camino tomar.
 
 [msg MSG_017 [Ken]]
-夷Eh? 夷Quieres ir por aqu胤?
+メEh? メQuieres ir por aquボ?
 Este es el camino sin el FOE ni cofres del tesoro.
 
 [msg MSG_018 [Morgana]]
-夷Est茨s renunciando de verdad al tesoro, Joker?
+メEstホs renunciando de verdad al tesoro, Joker?
 Supongo que es mejor que ser aniquilado por un FOE y perderlo todo...
 
 [msg MSG_019 [Aigis]]
-夷Continuar茨s por aqu胤 o te dirigir茨s hacia el FOE?
+メContinuarホs por aquボ o te dirigirホs hacia el FOE?
 
 [sel SEL_020 top]
-Sigamos por aqu胤.
-Me equivoqu姻 de camino.
+Sigamos por aquボ.
+Me equivoqu〒 de camino.
 
 [msg MSG_021 [Morgana]]
-Hmm... No estoy totalmente de acuerdo, pero es tu decisi吋n, Joker.
+Hmm... No estoy totalmente de acuerdo, pero es tu decisiポn, Joker.
 
 [msg MSG_022 [P3 Fem Protag]]
-Mejor prevenir que curar, 夷no? 斡Vamos!
+Mejor prevenir que curar, メno? ムVamos!
 
 [msg MSG_023 [Morgana]]
-Despu姻s de todo, tampoco puedes olvidarte del tesoro, 夷verdad, Joker?
+Despu〒s de todo, tampoco puedes olvidarte del tesoro, メverdad, Joker?
 
 [msg MSG_024 [Aigis]]
-Te dejaremos a ti decidir qu姻 camino tomamos.
+Te dejaremos a ti decidir qu〒 camino tomamos.
 
 [msg MSG_025 [Aigis]]
-夷Seguir茨s por este camino?
+メSeguirホs por este camino?
 
 [sel SEL_026 top]
-Vamos por aqu胤.
+Vamos por aquボ.
 Necesito pensarlo.
 
 [msg MSG_027 [Aigis]]

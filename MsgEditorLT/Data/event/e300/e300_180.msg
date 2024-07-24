@@ -1,8 +1,8 @@
 [msg MSG_000 [Rise]]
-斡Esperen chicos! 斡Estamos recibiendo una[n]se隠al del piso de abajo!
+ムEsperen chicos! ムEstamos recibiendo una[n]seワal del piso de abajo!
 
 [msg MSG_001 [Fuuka]]
-Esta lectura... 斡Creo que lo m茨s[n]probable es que sea Aigis y nuestro[n]l胤der!
+Esta lectura... ムCreo que lo mホs[n]probable es que sea Aigis y nuestro[n]lボder!
 
 [msg MSG_002 [Shinjiro]]
 Parece que finalmente los alcanzamos.
@@ -11,17 +11,17 @@ Parece que finalmente los alcanzamos.
 Bien, debemos rescatarlos de[n]inmediato...
 
 [msg MSG_004 [Koromaru]]
-斡Guau! 斡Bark bark!
+ムGuau! ムBark bark!
 
 [msg MSG_005 [Ken]]
-斡夷Koromaru...?!
+ムメKoromaru...?!
 
 [msg MSG_006 [Ribbon]]
-ESA DIRECCI遺N... PARECE QUE KOROMARU HA[n]ENCONTRADO "LA PUERTA".
+ESA DIRECCIロN... PARECE QUE KOROMARU HA[n]ENCONTRADO "LA PUERTA".
 
 [msg MSG_007 [Ann]]
-斡Vamos!
+ムVamos!
 
 [msg MSG_008 [Morgana]]
-Algo sobre una puerta, 夷eh? Mmm...[n]Joker. Vamos a investigar esto.
+Algo sobre una puerta, メeh? Mmm...[n]Joker. Vamos a investigar esto.
 

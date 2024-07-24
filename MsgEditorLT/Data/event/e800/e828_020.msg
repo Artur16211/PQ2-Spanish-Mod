@@ -1,13 +1,13 @@
 [msg MSG_000 [P3 Fem Protag]]
 Vale, lo primero es encontrar al robot roto.
-Elizabeth dijo que deber胤amos poder encontrarlo sin problemas... Me pregunto d吋nde estar茨.
+Elizabeth dijo que deberボamos poder encontrarlo sin problemas... Me pregunto dポnde estarホ.
 
 [msg MSG_001 [Koromaru]]
-斡Arf, arf!
+ムArf, arf!
 
 [msg MSG_002 [Aigis]]
-Koromaru dice que puede o胤r algo que suena como una m茨quina rota.
+Koromaru dice que puede oボr algo que suena como una mホquina rota.
 
 [msg MSG_003 [Ken]]
-Parece que no est茨 lejos de aqu胤. Vayamos a revisar.
+Parece que no estホ lejos de aquボ. Vayamos a revisar.
 

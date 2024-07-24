@@ -1,33 +1,33 @@
 [msg MSG_000 [Ryuji]]
-Entonces, vamos a buscar amonitas, pero... 夷D吋nde demonios empezamos?
+Entonces, vamos a buscar amonitas, pero... メDポnde demonios empezamos?
 
 [sel SEL_001 top]
 Por la tierra.
 Por el bosque.
-Por el oc姻ano.
+Por el oc〒ano.
 
 [msg MSG_002 [Ann]]
-夷Quieres mirar por aqu胤? Parece que ser胤a un poco dif胤cil, 夷no crees?
+メQuieres mirar por aquボ? Parece que serボa un poco difボcil, メno crees?
 
 [msg MSG_003 [Haru]]
-Es una idea. Las amonitas son criaturas marinas despu姻s de todo.
-Pero no hay ning雨n oc姻ano en alg雨n lugar cercano, 夷no?
+Es una idea. Las amonitas son criaturas marinas despu〒s de todo.
+Pero no hay ningマn oc〒ano en algマn lugar cercano, メno?
 
 [msg MSG_004 [Akechi]]
-Si estamos buscando amonitas, imagino que lo mejor ser茨 buscar cerca del agua.
-Los f吋siles se encuentran a menudo en r胤os.
+Si estamos buscando amonitas, imagino que lo mejor serホ buscar cerca del agua.
+Los fポsiles se encuentran a menudo en rボos.
 
 [msg MSG_005 [Naoto]]
-Creo que la zona de agua m茨s cercana est茨 al este de aqu胤.
+Creo que la zona de agua mホs cercana estホ al este de aquボ.
 
 [msg MSG_006 [Yusuke]]
 Gracias a todos...
-Recordad mis palabras, 斡CONSEGUIR畏 obtener esa amonita para Amagi! 斡VER畏 florecer su pasi吋n!
+Recordad mis palabras, ムCONSEGUIR※ obtener esa amonita para Amagi! ムVER※ florecer su pasiポn!
 
 [msg MSG_007 [Yukiko]]
-Lo aprecio, pero... me da un poco de vergüenza o胤rte gritar eso as胤.
+Lo aprecio, pero... me da un poco de verg↓enza oボrte gritar eso asボ.
 
 [msg MSG_008 [Makoto]]
-Perd吋n... Es su forma de demostrarte que le importas.
+Perdポn... Es su forma de demostrarte que le importas.
 De todos modos, vayamos hacia el este.
 

@@ -2,28 +2,28 @@
 Ah, ya veo... La [f 0 1 2]jaula gira cuando giras[n]el interruptor[f 0 1 0].
 
 [msg MSG_001 [P3 Fem Protag]]
-斡S胤! 斡Ahora podemos seguir!
+ムSボ! ムAhora podemos seguir!
 
 [msg MSG_002 [Yusuke]]
-A pesar de que los humanos aqu胤 desaparecieron[n]hace tiempo, la instalaci吋n sigue funcionando.[n]Qu姻 suerte para nosotros.
+A pesar de que los humanos aquボ desaparecieron[n]hace tiempo, la instalaciポn sigue funcionando.[n]Qu〒 suerte para nosotros.
 
 [msg MSG_003 [Futaba]]
-斡Ah! Estoy recibiendo m雨ltiples se隠ales[n]fuertes adelante. Parecen ser FOEs. Ten[n]cuidado…
-夷Mm? Espera... Estoy recibiendo otra[n]se隠al...
+ムAh! Estoy recibiendo mマltiples seワales[n]fuertes adelante. Parecen ser FOEs. Ten[n]cuidado…
+メMm? Espera... Estoy recibiendo otra[n]seワal...
 
 [msg MSG_004 [Ann]]
-夷Eh? 夷Qu姻 podr茨 ser?
+メEh? メQu〒 podrホ ser?
 
 [msg MSG_005 [Futaba]]
 No son Sombras, eso seguro. Es diferente[n]de los FOEs y los dinosaurios...
-No lo entiendo, 夷qu姻 es? 斡No puedo[n]identificarla!
-Son un grupo de se隠ales fuertes, pero[n]solo s姻 eso. 斡Lo siento!
+No lo entiendo, メqu〒 es? ムNo puedo[n]identificarla!
+Son un grupo de seワales fuertes, pero[n]solo s〒 eso. ムLo siento!
 
 [msg MSG_006 [Makoto]]
-夷Eso qu姻 significa?
+メEso qu〒 significa?
 
 [msg MSG_007 [P3 Fem Protag]]
-夷Un grupo de se隠ales fuertes? 夷Podr胤an[n]ser...? Probablemente no, pero...
+メUn grupo de seワales fuertes? メPodrボan[n]ser...? Probablemente no, pero...
 
 [msg MSG_008 [Morgana]]
 Mm, parece que no tenemos ni idea.

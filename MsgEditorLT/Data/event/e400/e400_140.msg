@@ -1,56 +1,56 @@
 [msg MSG_MOVIE_000]
-斡Hikari es una chica mala!
+ムHikari es una chica mala!
 
 [msg MSG_MOVIE_001]
-斡Hikari es una chica mala!
+ムHikari es una chica mala!
 
 [msg MSG_MOVIE_002]
-斡Ella nunca escucha!
+ムElla nunca escucha!
 
 [msg MSG_MOVIE_003]
-斡Qu姻 chica mala!
+ムQu〒 chica mala!
 
 [msg MSG_MOVIE_004]
-斡Yo no hice nada malo!
+ムYo no hice nada malo!
 
 [msg MSG_MOVIE_005]
-No interrumpas la armon胤a de la clase...[n]斡Es lo que siempre te digo!
+No interrumpas la armonボa de la clase...[n]ムEs lo que siempre te digo!
 
 [msg MSG_MOVIE_005_5]
-斡Todos tienen que hacer lo que digo!
+ムTodos tienen que hacer lo que digo!
 
 [msg MSG_MOVIE_006]
-夷Por qu姻? 夷No se supone que los maestros[n]deben estar de acuerdo con quien tenga[n]raz吋n?
+メPor qu〒? メNo se supone que los maestros[n]deben estar de acuerdo con quien tenga[n]razポn?
 
 [msg MSG_MOVIE_007]
 Con una chica tan mala...
 
 [msg MSG_MOVIE_008]
-斡El conejo acabar茨 muriendo!
+ムEl conejo acabarホ muriendo!
 
 [msg MSG_MOVIE_009]
 Es culpa de Hikari...
 
 [msg MSG_MOVIE_010]
-斡Ella es la raz吋n por la que morir茨!
+ムElla es la razポn por la que morirホ!
 
 [msg MSG_MOVIE_011]
-斡No! 斡Eso no es verdad!
+ムNo! ムEso no es verdad!
 
 [msg MSG_MOVIE_012]
-斡Disc雨lpate!
+ムDiscマlpate!
 
 [msg MSG_MOVIE_013]
-斡Eso no est茨 bien!
+ムEso no estホ bien!
 
 [msg MSG_MOVIE_014]
-斡Lo que dice la profesora siempre es lo[n]correcto!
+ムLo que dice la profesora siempre es lo[n]correcto!
 
 [msg MSG_MOVIE_015]
-斡Por favor, esc雨chame!
+ムPor favor, escマchame!
 
 [msg MSG_MOVIE_016]
-斡斡斡Pide disculpas!!!
+ムムムPide disculpas!!!
 
 [msg MSG_MOVIE_017]
 Yo... Lo siento...

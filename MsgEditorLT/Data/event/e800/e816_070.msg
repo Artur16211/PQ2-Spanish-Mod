@@ -1,61 +1,61 @@
 [msg MSG_000 [Elizabeth]]
-Te agradezco que hay茨is completado la proyecci吋n especial para mi in雨til hermano.
-Desde ahora, sent胤os libres de pedirle lo que quer茨is.
+Te agradezco que hayホis completado la proyecciポn especial para mi inマtil hermano.
+Desde ahora, sentボos libres de pedirle lo que querホis.
 
 [msg MSG_001 [Yosuke]]
 Ja, ja... Me siento mal con la forma en la que lo trata...
 
 [msg MSG_002 [Theodore]]
 Gracias por traerme el "Gizmo Futurista"
-Ha sido tan apasionante como esperaba. 斡Empiezo a sentirme bastante motivado...!
+Ha sido tan apasionante como esperaba. ムEmpiezo a sentirme bastante motivado...!
 
 [msg MSG_003 [P3 Fem Protag]]
-*risita* Pareces muy emocionado, Theo. Espero que contin雨es ofreci姻ndonos tu ayuda.
-Como dije, no sab胤a que te gustaba tanto la tecnolog胤a.
+*risita* Pareces muy emocionado, Theo. Espero que continマes ofreci〒ndonos tu ayuda.
+Como dije, no sabボa que te gustaba tanto la tecnologボa.
 
 [msg MSG_004 [Theodore]]
-Bueno, no era necesariamente el aparato en s胤, en realidad solo quer胤a sostenerlo.
-Como pensaba, est茨 a temperatura ambiente.
+Bueno, no era necesariamente el aparato en sボ, en realidad solo querボa sostenerlo.
+Como pensaba, estホ a temperatura ambiente.
 
 [msg MSG_005 [P3 Fem Protag]]
-夷Eh? 夷Eso era todo lo que quer胤as?
+メEh? メEso era todo lo que querボas?
 
 [msg MSG_006 [Theodore]]
-Pude alimentar mi curiosidad, aunque no pens姻 que ser胤a tan reconfortante.
+Pude alimentar mi curiosidad, aunque no pens〒 que serボa tan reconfortante.
 
 [sel SEL_007 top]
 Me alegro por ti.
 No lo entiendo.
 
 [msg MSG_008 [Theodore]]
-S胤, y todo es gracias a todo el mundo aqu胤 presente.
+Sボ, y todo es gracias a todo el mundo aquボ presente.
 Ahora estoy renovado y listo para reanudar mis tareas.
 
 [msg MSG_009 [P3 Fem Protag]]
-夷T-T雨 no tienes ninguna pregunta? 
+メT-Tマ no tienes ninguna pregunta? 
 
 [msg MSG_010 [P3 Fem Protag]]
-P-Perd吋n. Theo pude decir la temperatura exacta de algo solo con tocarlo...
+P-Perdポn. Theo pude decir la temperatura exacta de algo solo con tocarlo...
 Supongo que eso no aclara las cosas... De todos modos, es un poco raro. Ja, ja, ja...
 
 [msg MSG_011 [Futaba]]
-De cualquier forma, Theodore est茨 listo para cualquier cosa. Supongo que llegamos al verdadero final.
+De cualquier forma, Theodore estホ listo para cualquier cosa. Supongo que llegamos al verdadero final.
 Espera un segundo...
 
 [msg MSG_012 [Fuuka]]
-El cableado y todo... Es realmente incre胤ble.
-No puedo creer lo que ven mis ojos. Y pensar que alguien tendr胤a una idea como esta.
+El cableado y todo... Es realmente increボble.
+No puedo creer lo que ven mis ojos. Y pensar que alguien tendrボa una idea como esta.
 
 [msg MSG_013 [Naoto]]
-Cierto, pero perfectamente podr胤a hacerse realidad en un futuro cercano.
-Este dispositivo actualmente est茨 siendo desarrollado en algunos pa胤ses.
+Cierto, pero perfectamente podrボa hacerse realidad en un futuro cercano.
+Este dispositivo actualmente estホ siendo desarrollado en algunos paボses.
 
 [msg MSG_014 [Yusuke]]
-Desde la perspectiva de un artista, esta l胤nea de simetr胤a es...
+Desde la perspectiva de un artista, esta lボnea de simetrボa es...
 
 [msg MSG_015 [Koromaru]]
-斡Guau! 斡Guau!
+ムGuau! ムGuau!
 
 [msg MSG_016 [Futaba]]
-夷Segu胤s con eso? 斡Esa m茨quina es realmente incre胤ble!
+メSeguボs con eso? ムEsa mホquina es realmente increボble!
 

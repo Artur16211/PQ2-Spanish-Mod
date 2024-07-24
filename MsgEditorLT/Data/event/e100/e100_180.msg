@@ -1,40 +1,40 @@
 [msg MSG_000 [Ryuji]]
-Bueno, ahora que desciframos ese extra隠o[n]misterio, vamos a buscar a Makoto y[n]Haru.
+Bueno, ahora que desciframos ese extraワo[n]misterio, vamos a buscar a Makoto y[n]Haru.
 
 [msg MSG_001 [Yusuke]]
-Antes de eso... Morgana, hay algo que me[n]gustar胤a preguntarte...
-Despu姻s de entrar en la pel胤cula,[n]夷pudiste vernos en la pantalla?
+Antes de eso... Morgana, hay algo que me[n]gustarボa preguntarte...
+Despu〒s de entrar en la pelボcula,[n]メpudiste vernos en la pantalla?
 
 [msg MSG_002 [Morgana]]
-S胤, definitivamente estaban en la[n]pantalla. Era como si fueran actores de[n]la pel胤cula.
+Sボ, definitivamente estaban en la[n]pantalla. Era como si fueran actores de[n]la pelボcula.
 
 [msg MSG_003 [Akechi]]
-夷Oh? Eso es interesante. Me gustar胤a[n]verlo por m胤 mismo.
+メOh? Eso es interesante. Me gustarボa[n]verlo por mボ mismo.
 
 [msg MSG_004 [Morgana]]
-Pero, hab胤a algo raro...
-A menos que progresaran en la pel胤cula,[n]se repet胤a la misma escena en bucle.
+Pero, habボa algo raro...
+A menos que progresaran en la pelボcula,[n]se repetボa la misma escena en bucle.
 
 [msg MSG_005 [Ann]]
-夷Eh?
+メEh?
 
 [msg MSG_006 [Futaba]]
-Parec胤a que la pel胤cula se repet胤a.[n]Cuando avanzaban, la pel胤cula[n]continuaba.
+Parecボa que la pelボcula se repetボa.[n]Cuando avanzaban, la pelボcula[n]continuaba.
 
 [msg MSG_007 [Yusuke]]
-Esencialmente, estamos desarrollando la[n]trama como si fu姻ramos los actores[n]dentro de ella.
+Esencialmente, estamos desarrollando la[n]trama como si fu〒ramos los actores[n]dentro de ella.
 Esta es una actividad creativa sin[n]precedentes.
 
 [msg MSG_008 [Ann]]
-Oye, Morgana, 夷encontraste alguna pista[n]aqu胤 en el cine?
+Oye, Morgana, メencontraste alguna pista[n]aquボ en el cine?
 
 [msg MSG_009 [Morgana]]
-No... busqu姻 por todas partes, pero no[n]hay ni rastro de Makoto y Haru aqu胤.
-Si vamos a buscarlas, ser胤a mejor[n]hacerlo dentro de la pel胤cula...
-斡As胤 que, de ahora en adelante, voy a[n]darlo todo!
+No... busqu〒 por todas partes, pero no[n]hay ni rastro de Makoto y Haru aquボ.
+Si vamos a buscarlas, serボa mejor[n]hacerlo dentro de la pelボcula...
+ムAsボ que, de ahora en adelante, voy a[n]darlo todo!
 
 [msg MSG_010 [Ann]]
-Me tranquiliza o胤r eso, pero... 夷De[n]verdad est茨 bien dejar a Futaba aqu胤[n]sola?
+Me tranquiliza oボr eso, pero... メDe[n]verdad estホ bien dejar a Futaba aquボ[n]sola?
 
 [sel SEL_011 top]
 Esa idea me preocupa.
@@ -42,13 +42,13 @@ Ella puede manejarlo.
 No estoy convencido...
 
 [msg MSG_012 [Futaba]]
-斡夷Q-qu姻?! 夷Es una confesi吋n de confianza[n]hacia m胤?
+ムメQ-qu〒?! メEs una confesiポn de confianza[n]hacia mボ?
 
 [msg MSG_013 [Futaba]]
-夷Por qu姻? 斡夷Solo porque soy[n]devastadoramente t胤mida con extra隠os?!
+メPor qu〒? ムメSolo porque soy[n]devastadoramente tボmida con extraワos?!
 
 [msg MSG_014 [Morgana]]
-斡No, para nada!
+ムNo, para nada!
 Espera... en realidad, es eso.
 
 [msg MSG_015 [Morgana]]
@@ -62,28 +62,28 @@ Morgana me susurra...
 No creo que haya problemas en dejar a[n]Futaba con ellas.
 
 [msg MSG_018 [Futaba]]
-No se preocupen por m胤... Me quedar姻[n]aqu胤 con nuestros nuevos amigos azules.
-Adem茨s, si ocurre algo malo, 夷no ser胤a[n]malo que no hubiera nadie para informar?
-Me centrar姻 en la navegaci吋n y ser姻 su[n]contacto de este lado. 夷Alguna objeci吋n?
+No se preocupen por mボ... Me quedar〒[n]aquボ con nuestros nuevos amigos azules.
+Ademホs, si ocurre algo malo, メno serボa[n]malo que no hubiera nadie para informar?
+Me centrar〒 en la navegaciポn y ser〒 su[n]contacto de este lado. メAlguna objeciポn?
 
 [msg MSG_019 [Yusuke]]
-Tu ayuda ser茨 muy apreciada. Todos[n]confiamos en ti.
+Tu ayuda serホ muy apreciada. Todos[n]confiamos en ti.
 
 [msg MSG_020 [Morgana]]
-斡Est茨 decidido!
+ムEstホ decidido!
 
 [msg MSG_021 [Hikari]]
-...夷T雨 tambi姻n vas Morgana?
+...メTマ tambi〒n vas Morgana?
 
 [msg MSG_022 [Morgana]]
-Claro que s胤. Tengo habilidades, 夷sabes?
+Claro que sボ. Tengo habilidades, メsabes?
 
 [msg MSG_023 [Hikari]]
 Puedes ser capaz de luchar... pero...
 
 [msg MSG_024 [Morgana]]
-斡Nya! Solo si姻ntate y mira.
-夷Verdad, [f 6 1 30 0 0 0]? 斡Hemos estado juntos en[n]las buenas y en las malas!
+ムNya! Solo si〒ntate y mira.
+メVerdad, [f 6 1 30 0 0 0]? ムHemos estado juntos en[n]las buenas y en las malas!
 
 [sel SEL_025 top]
 No te preocupes por nosotros.
@@ -93,16 +93,16 @@ No dejamos a nuestras amigas.
 ...
 
 [msg MSG_027 [Morgana]]
-斡S胤, lo que dijo! 斡Muy bien, v茨monos,[n]chicos!
+ムSボ, lo que dijo! ムMuy bien, vホmonos,[n]chicos!
 
 [msg MSG_028 [Futaba]]
-Bueno, entonces ser茨 mejor que decidas[n]qui姻n va a luchar primero.
-Si van todos juntos, ser茨n m茨s[n]vulnerables para los enemigos.
+Bueno, entonces serホ mejor que decidas[n]qui〒n va a luchar primero.
+Si van todos juntos, serホn mホs[n]vulnerables para los enemigos.
 
 [msg MSG_029 [Morgana]]
-Es cierto, tambi姻n hay que tener en[n]cuenta la formaci吋n del grupo, con[n]posiciones delanteras y traseras.
-Los miembros de la l胤nea trasera reciben[n]menos da隠o que los de la l胤nea[n]delantera.
+Es cierto, tambi〒n hay que tener en[n]cuenta la formaciポn del grupo, con[n]posiciones delanteras y traseras.
+Los miembros de la lボnea trasera reciben[n]menos daワo que los de la lボnea[n]delantera.
 
 [msg MSG_099]
-モル遺)が加入しeした！ ※仲間加入ＷＮＤ用画像くreHO仮。 TEMP
+モルロ)が加入しeした！ ※仲間加入ＷＮＤ用画像くreHO仮。 TEMP
 

@@ -1,149 +1,149 @@
 [msg MSG_000 [Elizabeth]]
-Ahora bien, el objetivo de esta proyecci吋n especial es...
-斡Robar el tesoro del Seidoptera!
+Ahora bien, el objetivo de esta proyecciポn especial es...
+ムRobar el tesoro del Seidoptera!
 
 [msg MSG_001 [Morgana]]
-斡夷T-Tesoro?!
+ムメT-Tesoro?!
 
 [msg MSG_002 [Makoto]]
 No creo que sea el tipo de tesoro al que estamos acostumbrados.
 
 [msg MSG_003 [Akechi]]
-Cierto. Esto no es un palacio, as胤 que quiz茨s sea algo como oro o plata.
+Cierto. Esto no es un palacio, asボ que quizホs sea algo como oro o plata.
 
 [msg MSG_004 [Elizabeth]]
-Seg雨n el ticket, el objetivo es un par de Coronas Doradas.
+Segマn el ticket, el objetivo es un par de Coronas Doradas.
 
 [msg MSG_005 [Ryuji]]
-斡S胤! 斡Eso s胤 que suena a tesoro!
+ムSボ! ムEso sボ que suena a tesoro!
 
 [msg MSG_006 [Elizabeth]]
-S胤. Por favor, robad los tesoros ocultos del dinosaurio volador, y tra姻dmelos aqu胤.
+Sボ. Por favor, robad los tesoros ocultos del dinosaurio volador, y tra〒dmelos aquボ.
 
 [msg MSG_007 [Yosuke]]
-Espera, esos bichos son FOEs, 夷verdad?
-Si intentamos enfrentarnos a ellos, probablemente acabemos como comida de dinosaurio. 夷C吋mo se supone que conseguiremos el tesoro?
+Espera, esos bichos son FOEs, メverdad?
+Si intentamos enfrentarnos a ellos, probablemente acabemos como comida de dinosaurio. メCポmo se supone que conseguiremos el tesoro?
 
 [sel SEL_008 top]
 No tenemos que pelear.
 Entrenaremos hasta vencerles.
 
 [msg MSG_009 [Chie]]
-夷Huh? 夷Entonces como conseguimos el tesoro?
+メHuh? メEntonces como conseguimos el tesoro?
 
 [msg MSG_010 [Morgana]]
 Nyahaha... Somos los Ladrones Fantasma. Tenemos que hacer las cosas con estilo.
 
 [msg MSG_011 [Chie]]
-Ohh, entrenar. Okay, 斡lo har姻 lo mejor que pueda!
+Ohh, entrenar. Okay, ムlo har〒 lo mejor que pueda!
 
 [msg MSG_012 [Morgana]]
-Hey, vamos, podemos hacerlo mejor. Somos Ladrones Fantasma, 夷no?
+Hey, vamos, podemos hacerlo mejor. Somos Ladrones Fantasma, メno?
 
 [msg MSG_013 [Makoto]]
 Es verdad. Los Seidopteras puede que no lleven sus tesoros con ellos.
-Si podemos averiguar d吋nde est茨n...
+Si podemos averiguar dポnde estホn...
 
 [msg MSG_014 [Futaba]]
-Entonces, 斡nos movemos y los conseguimos! 斡Como siempre!
+Entonces, ムnos movemos y los conseguimos! ムComo siempre!
 
 [msg MSG_015 [Chie]]
-斡Wow, realmente suenan como Ladrones Fantasma! 斡Qu姻 emocionante!
+ムWow, realmente suenan como Ladrones Fantasma! ムQu〒 emocionante!
 
 [msg MSG_016 [Elizabeth]]
 Por favor, usad esto para llevar el tesoro.
 Es una bolsa que Theo ha fabricado.
 
 [msg MSG_017 [Ann]]
-Whoa 夷Theodore ha hecho esto? Tiene mucho talento.
+Whoa メTheodore ha hecho esto? Tiene mucho talento.
 
 [msg MSG_018 [Elizabeth]]
-S胤. Vino llorando y me suplic吋 que lo utilizara.
+Sボ. Vino llorando y me suplicポ que lo utilizara.
 
 [msg MSG_019 [Futaba]]
-Es obvio que est茨s mintiendo cuando sonr胤es as胤.
+Es obvio que estホs mintiendo cuando sonrボes asボ.
 
 [msg MSG_020 [Elizabeth]]
 Eso me recuerda...
-Cuando hay ladrones fantasmas, hay un tesoro, y viceversa. Ambos est茨n profundamente, e inseparablemente unidos.
+Cuando hay ladrones fantasmas, hay un tesoro, y viceversa. Ambos estホn profundamente, e inseparablemente unidos.
 Deseo ver finalmente a los Ladrones Fantasma mostrar sus verdaderas habilidades.
-斡Bailando por el aire, corriendo por el suelo! 斡En todas partes y en ninguna al mismo tiempo!
+ムBailando por el aire, corriendo por el suelo! ムEn todas partes y en ninguna al mismo tiempo!
 
 [msg MSG_021 [Haru]]
-Um, no s姻 si podemos hacer todo eso...
+Um, no s〒 si podemos hacer todo eso...
 
 [msg MSG_022 [Elizabeth]]
-No deb姻is rendiros."斡Creo que puedo! 斡Creo que puedo!"
-斡Conf胤o en todos vosotros! 斡Ahora, adelante!
+No deb〒is rendiros."ムCreo que puedo! ムCreo que puedo!"
+ムConfボo en todos vosotros! ムAhora, adelante!
 
 [msg MSG_023 [Makoto]]
-Realmente nos est茨s presionando... En este punto, es dif胤cil decir que no podemos hacerlo...
+Realmente nos estホs presionando... En este punto, es difボcil decir que no podemos hacerlo...
 
 [msg MSG_024 [Ann]]
-Uh, deber胤amos definitivamente decir, 斡creemos que no podemos!
+Uh, deberボamos definitivamente decir, ムcreemos que no podemos!
 
 [msg MSG_025 [Morgana]]
-Hmm, la Se隠orita Elizabeth ha tomado esas palabras de otra parte, 斡pero creo que funciona! 斡Ahora estoy animad胤simo!
-Despu姻s de todo, 斡es natural que un ladr吋n fantasma se sienta atra胤do por los tesoros!
-斡Tesoooro!
+Hmm, la Seワorita Elizabeth ha tomado esas palabras de otra parte, ムpero creo que funciona! ムAhora estoy animadボsimo!
+Despu〒s de todo, ムes natural que un ladrポn fantasma se sienta atraボdo por los tesoros!
+ムTesoooro!
 
 [msg MSG_026 [Teddie]]
-斡Oho! 斡Morgana parece muy goz-oso!
+ムOho! ムMorgana parece muy goz-oso!
 
 [msg MSG_027 [Yosuke]]
 Es como si alguien le hubiera dado menta gatuna...
 
 [msg MSG_028 [Morgana]]
-No. Soy. Un. 斡GATO! 斡N-O! 夷Lo entend姻is?
+No. Soy. Un. ムGATO! ムN-O! メLo entend〒is?
 
 [msg MSG_029 [Yukiko]]
-S胤. T雨. Eres. 斡G-A-T-O!
+Sボ. Tマ. Eres. ムG-A-T-O!
 
 [msg MSG_030 [Morgana]]
 Noooooo...
 
 [msg MSG_031 [Ryuji]]
-Jaja, te est茨s emocionando demasiado.
-Bien, no estoy al nivel de Morgana, pero tambi姻n estoy algo emocionado, 夷saben?
+Jaja, te estホs emocionando demasiado.
+Bien, no estoy al nivel de Morgana, pero tambi〒n estoy algo emocionado, メsaben?
 
 [msg MSG_032 [Chie]]
-夷Huh? 夷En serio, Ryuji? 夷T雨 tambi姻n te est茨s volviendo un gato?
+メHuh? メEn serio, Ryuji? メTマ tambi〒n te estホs volviendo un gato?
 
 [msg MSG_033 [Ryuji]]
-斡No soy un gato!... 夷De verdad acabo de decir eso?
-夷Ey, record茨is como antes estaba diciendo que todav胤a no hab胤amos hecho ning雨n trabajo de ladr吋n fantasma por un tiempo?
+ムNo soy un gato!... メDe verdad acabo de decir eso?
+メEy, recordホis como antes estaba diciendo que todavボa no habボamos hecho ningマn trabajo de ladrポn fantasma por un tiempo?
 
 [msg MSG_034 [Chie]]
-斡Oh, s胤! 斡Pero ahora vamos a hacer justo esto!
+ムOh, sボ! ムPero ahora vamos a hacer justo esto!
 
 [msg MSG_035 [Ryuji]]
-Sin embargo, esto no es un escenario t胤pico, como un banco o un museo.
-Aun as胤, creo que esta pel胤cula ser茨 el lugar perfecto para hacer lo nuestro.
+Sin embargo, esto no es un escenario tボpico, como un banco o un museo.
+Aun asボ, creo que esta pelボcula serホ el lugar perfecto para hacer lo nuestro.
 
 [msg MSG_036 [Chie]]
-Y luego luch茨is contra las Seidopteras en el aire y les rob茨is el tesoro, 夷cierto?
-斡S胤! 斡Suena bien y propio de un ladr吋n!
+Y luego luchホis contra las Seidopteras en el aire y les robホis el tesoro, メcierto?
+ムSボ! ムSuena bien y propio de un ladrポn!
 
 [msg MSG_037 [Yusuke]]
 ... Dudo que seamos capaces de hacer eso.
 
 [msg MSG_038 [Futaba]]
-Esperad, 夷est茨is planeando enfrentaros a las Seidopteras? Sab姻is que son FOEs, 夷no?
+Esperad, メestホis planeando enfrentaros a las Seidopteras? Sab〒is que son FOEs, メno?
 
 [msg MSG_039 [Elizabeth]]
-Las cosas se est茨n calentando. Estar姻 aqu胤, observando con la respiraci吋n contenida.
-斡Vamos, vamos, Ladrones Fantasmas! 斡Id a conseguir ese tesoro!
-... Y ah胤 lo tienen.
+Las cosas se estホn calentando. Estar〒 aquボ, observando con la respiraciポn contenida.
+ムVamos, vamos, Ladrones Fantasmas! ムId a conseguir ese tesoro!
+... Y ahボ lo tienen.
 
 [sel SEL_040 top]
 Comencemos.
-斡Ese tesoro es nuestro!
+ムEse tesoro es nuestro!
 
 [msg MSG_041 [Ryuji]]
-Oh, t雨 tambi姻n est茨s muy animado, [f 6 1 30 0 0 0]. Debo decir que es la primera vez que me siento as胤 en mucho tiempo.
+Oh, tマ tambi〒n estホs muy animado, [f 6 1 30 0 0 0]. Debo decir que es la primera vez que me siento asボ en mucho tiempo.
 
 [msg MSG_042 [Teddie]]
-斡Yo tambi姻n! 斡Os ense隠ar姻 a todos la Teddie-forma de ser un Ladr吋n Fantasma!
+ムYo tambi〒n! ムOs enseワar〒 a todos la Teddie-forma de ser un Ladrポn Fantasma!
 
 [msg MSG_043 [Morgana]]
 Muy bien, vamos a movernos. Aseguraos de que estamos preparados.

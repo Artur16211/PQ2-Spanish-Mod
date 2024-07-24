@@ -1,85 +1,85 @@
 [msg MSG_000 [Elizabeth]]
-Esta pr吋xima proyecci吋n especial promete ser una aventura llena de acci吋n...
-Es una b雨squeda del tesoro. 斡Su tarea ser茨 localizar el tesoro oculto en las profundidades de la jungla!
+Esta prポxima proyecciポn especial promete ser una aventura llena de acciポn...
+Es una bマsqueda del tesoro. ムSu tarea serホ localizar el tesoro oculto en las profundidades de la jungla!
 
 [sel SEL_001 top]
-夷Qu姻 hay de nuevo?
+メQu〒 hay de nuevo?
 Eso es lo nuestro.
-夷Tesoro oculto?
+メTesoro oculto?
 
 [msg MSG_002 [Morgana]]
-S胤. Encontrar tesoros es la especialidad de los Ladrones Fantasma.
-夷As胤 que qu姻 tipo de tesoro es?
+Sボ. Encontrar tesoros es la especialidad de los Ladrones Fantasma.
+メAsボ que qu〒 tipo de tesoro es?
 
 [msg MSG_003 [Elizabeth]]
-Parece ser alg雨n tipo de artefacto valioso que un investigador pretend胤a ofrecer a su amante...
-Con la esperanza de hacerlo una vez acabada la investigaci吋n, lo escondi吋 para mantenerlo a salvo.
+Parece ser algマn tipo de artefacto valioso que un investigador pretendボa ofrecer a su amante...
+Con la esperanza de hacerlo una vez acabada la investigaciポn, lo escondiポ para mantenerlo a salvo.
 
 [msg MSG_004 [Rise]]
-... 夷Qu姻 le ocurri吋 al investigador?
+... メQu〒 le ocurriポ al investigador?
 
 [msg MSG_005 [Elizabeth]]
-Aqu胤 hay un mapa con la ubicaci吋n del tesoro... 夷Oh? Parece que hay algo escrito en la parte de atr茨s...
-"Una vez que termine este trabajo, finalmente le propondr姻 matrimonio"
-"Esta obra es la pura encarnaci吋n de la belleza y el encanto. Seguro que le encantar茨...".
+Aquボ hay un mapa con la ubicaciポn del tesoro... メOh? Parece que hay algo escrito en la parte de atrホs...
+"Una vez que termine este trabajo, finalmente le propondr〒 matrimonio"
+"Esta obra es la pura encarnaciポn de la belleza y el encanto. Seguro que le encantarホ...".
 
 [msg MSG_006 [Futaba]]
-Supongo que tent吋 al destino...
+Supongo que tentポ al destino...
 
 [msg MSG_007 [Ann]]
-夷Entonces era un regalo para su novia...? Me da curiosidad saber qu姻 es.
+メEntonces era un regalo para su novia...? Me da curiosidad saber qu〒 es.
 
 [msg MSG_008 [Yukari]]
-Dijo que era la encarnaci吋n de la belleza. 夷Quiz茨s es alg雨n tipo de joya?
+Dijo que era la encarnaciポn de la belleza. メQuizホs es algマn tipo de joya?
 
 [msg MSG_009 [Rise]]
-斡Wow, qu姻 rom茨ntico!
+ムWow, qu〒 romホntico!
 
 [msg MSG_010 [Junpei]]
-Las chicas seguro que est茨n emocionadas con esto...
+Las chicas seguro que estホn emocionadas con esto...
 
 [msg MSG_011 [Teddie]]
-斡Ooh! 斡Eso es!
+ムOoh! ムEso es!
 
 [msg MSG_012 [Yosuke]]
-斡夷Eh?! 斡夷Qu姻 est茨s diciendo?!
+ムメEh?! ムメQu〒 estホs diciendo?!
 
 [msg MSG_013 [Teddie]]
-El primero que encuentre el tesoro ser茨 coronado como la mascota n雨mero uno.
+El primero que encuentre el tesoro serホ coronado como la mascota nマmero uno.
 
 [sel SEL_014 top]
-夷Mascota n雨mero uno?
-夷Por qu姻?
+メMascota nマmero uno?
+メPor qu〒?
 
 [msg MSG_015 [Teddie]]
 El deber de una mascota es hacer felices a las damas y proporcionarles consuelo cuando lo necesiten...
-Naturalmente, si encontrar el tesoro hace felices a todos, 斡es justo que el que lo encuentre se lleve el t胤tulo!
+Naturalmente, si encontrar el tesoro hace felices a todos, ムes justo que el que lo encuentre se lleve el tボtulo!
 
 [msg MSG_016 [Koromaru]]
 Woof...
 
 [msg MSG_017 [Aigis]]
-Koromaru dice que no entiende de lo que est茨s hablando.
+Koromaru dice que no entiende de lo que estホs hablando.
 
 [msg MSG_018 [Morgana]]
-T雨 lo has dicho. A nadie le importa tu peque隠o y est雨pido concurso...
+Tマ lo has dicho. A nadie le importa tu pequeワo y estマpido concurso...
 
 [msg MSG_019 [Teddie]]
-夷Oho...? Bueno, si no hay ninguna competici吋n, entonces supongo que gano yo.
-Y luego tengo a la preciosa Ann para m胤 solo...
+メOho...? Bueno, si no hay ninguna competiciポn, entonces supongo que gano yo.
+Y luego tengo a la preciosa Ann para mボ solo...
 
 [msg MSG_020 [Morgana]]
-斡Arrrgh! 斡夷A d吋nde crees que vas?!
+ムArrrgh! ムメA dポnde crees que vas?!
 
 [msg MSG_021 [Teddie]]
-Si no te gusta, 斡intenta quitarme el t胤tulo!
+Si no te gusta, ムintenta quitarme el tボtulo!
 
 [msg MSG_022 [Morgana]]
-Maldici吋n... 斡Bueno, lo har姻! Pero dejemos una cosa clara...
-斡No me importa tu est雨pido t胤tulo! 斡Solo estoy haciendo esto para hacer feliz a la se隠orita Ann!
+Maldiciポn... ムBueno, lo har〒! Pero dejemos una cosa clara...
+ムNo me importa tu estマpido tボtulo! ムSolo estoy haciendo esto para hacer feliz a la seワorita Ann!
 
 [msg MSG_023 [Yukari]]
-Se est茨 calentando bastante la cosa por aqu胤. 夷Est茨n bien?
+Se estホ calentando bastante la cosa por aquボ. メEstホn bien?
 
 [sel SEL_024 top]
 No hay problema.
@@ -87,29 +87,29 @@ En realidad es conveniente.
 Morgana va a ganar.
 
 [msg MSG_025 [Futaba]]
-Bueno, es una b雨squeda del tesoro. Ser茨 bueno que todos est姻n motivados.
+Bueno, es una bマsqueda del tesoro. Serホ bueno que todos est〒n motivados.
 
 [msg MSG_026 [Morgana]]
 ...
-Cierto. 斡De ninguna forma voy a perder contra un oso pervertido!
+Cierto. ムDe ninguna forma voy a perder contra un oso pervertido!
 
 [msg MSG_027 [Haru]]
-夷Qu姻 hay de ti, Koro?
+メQu〒 hay de ti, Koro?
 
 [msg MSG_028 [Koromaru]]
-斡Arf! 斡Arf, arf!
+ムArf! ムArf, arf!
 
 [msg MSG_029 [Aigis]]
-"El concurso me interesa poco, pero ayudar姻 con gusto a buscar el tesoro..."
+"El concurso me interesa poco, pero ayudar〒 con gusto a buscar el tesoro..."
 ... Eso dice Koromaru.
 
 [msg MSG_030 [Teddie]]
-Entonces, 斡ya est茨! 斡Que empiece el primer Duelo de Mascotas!
-斡Que venga el hombre m茨s masculino!
+Entonces, ムya estホ! ムQue empiece el primer Duelo de Mascotas!
+ムQue venga el hombre mホs masculino!
 
 [msg MSG_031 [Morgana]]
-斡S胤!
+ムSボ!
 
 [msg MSG_032 [Koromaru]]
-斡Arf!
+ムArf!
 

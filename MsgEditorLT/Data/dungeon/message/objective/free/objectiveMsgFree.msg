@@ -1,5 +1,5 @@
 [msg D01_OBJECTIVE_MSG_LARGE_]
-Escapa de la polic胤a
+Escapa de la policボa
 
 [msg D01_OBJECTIVE_MSG_LARGE__2]
 Salva a Makoto y Haru
@@ -17,7 +17,7 @@ Esquiva al FOE para avanzar
 Ve hacia las escaleras
 
 [msg D01_OBJECTIVE_MSG_SMALL__5]
-Contin雨a tras las escaleras
+Continマa tras las escaleras
 
 [msg D01_OBJECTIVE_MSG_SMALL__6]
 Encuentra un camino para avanzar
@@ -35,7 +35,7 @@ Avanza evitando las luces
 Encuentra un camino para avanzar
 
 [msg D01_OBJECTIVE_MSG_SMALL__11]
-Contin雨a tras las escaleras
+Continマa tras las escaleras
 
 [msg D01_OBJECTIVE_MSG_SMALL__12]
 Encuentra un camino para avanzar
@@ -50,7 +50,7 @@ Encuentra un camino para avanzar
 Avanza tras las escaleras
 
 [msg D01_OBJECTIVE_MSG_LARGE__3]
-Aprende c吋mo apagar las luces
+Aprende cポmo apagar las luces
 
 [msg D01_OBJECTIVE_MSG_SMALL__16]
 Atraviesa la zona de alta seguridad
@@ -62,10 +62,10 @@ Derrota a Kamoshidaman
 (TEMP) Go onward
 
 [msg D02_OBJECTIVE_MSG_LARGE_]
-Encuentra a los dinosaurios del tr茨iler
+Encuentra a los dinosaurios del trホiler
 
 [msg D02_OBJECTIVE_MSG_SMALL_]
-Contin雨a adelante
+Continマa adelante
 
 [msg D02_OBJECTIVE_MSG_LARGE__2]
 Encuentra las lecturas misteriosas
@@ -86,13 +86,13 @@ Ve tras Yosukesaurio
 Ten cuidado con los FOE mientras avanzas
 
 [msg D02_OBJECTIVE_MSG_SMALL__6]
-Ve tras el herb胤voro robado
+Ve tras el herbボvoro robado
 
 [msg D02_OBJECTIVE_MSG_LARGE__4]
 Rescata a Yosuke
 
 [msg D02_OBJECTIVE_MSG_SMALL__7]
-Atrapa al carn胤voro con las puertas
+Atrapa al carnボvoro con las puertas
 
 [msg D02_OBJECTIVE_MSG_SMALL__8]
 Ve con Yosuke
@@ -101,37 +101,37 @@ Ve con Yosuke
 Persigue a la manada
 
 [msg D02_OBJECTIVE_MSG_SMALL__9]
-Contin雨a adelante
+Continマa adelante
 
 [msg D02_OBJECTIVE_MSG_SMALL__10]
-Investiga el sonido extra隠o
+Investiga el sonido extraワo
 
 [msg D02_OBJECTIVE_MSG_SMALL__11]
-Encuentra un camino que rodee los 茨rboles
+Encuentra un camino que rodee los ホrboles
 
 [msg D02_OBJECTIVE_MSG_SMALL__12]
-Contin雨a adelante
+Continマa adelante
 
 [msg D02_OBJECTIVE_MSG_SMALL__13]
-Prepara un cebo para carn胤voros
+Prepara un cebo para carnボvoros
 
 [msg D02_OBJECTIVE_MSG_SMALL__14]
-Atrae al carn胤voro
+Atrae al carnボvoro
 
 [msg D02_OBJECTIVE_MSG_SMALL__15]
-Contin雨a adelante
+Continマa adelante
 
 [msg D03_OBJECTIVE_MSG_LARGE_]
-Encuentra al robot con list吋n
+Encuentra al robot con listポn
 
 [msg D03_OBJECTIVE_MSG_SMALL_]
-Contin雨a adelante
+Continマa adelante
 
 [msg D03_OBJECTIVE_MSG_LARGE__2]
-Encuentra al due隠o del Evocador
+Encuentra al dueワo del Evocador
 
 [msg D03_OBJECTIVE_MSG_LARGE__3]
-Encuentra a Aigis y a su l胤der
+Encuentra a Aigis y a su lボder
 
 [msg D03_OBJECTIVE_MSG_SMALL__2]
 Ten cuidado con los FOE mientras avanzas
@@ -140,16 +140,16 @@ Ten cuidado con los FOE mientras avanzas
 Abre la puerta
 
 [msg D03_OBJECTIVE_MSG_SMALL__4]
-Contin雨a adelante
+Continマa adelante
 
 [msg D03_OBJECTIVE_MSG_SMALL__5]
 Atraviesa la puerta
 
 [msg D03_OBJECTIVE_MSG_LARGE__4]
-Cambia el final de la pel胤cula
+Cambia el final de la pelボcula
 
 [msg D03_OBJECTIVE_MSG_SMALL__6]
-Contin雨a adelante
+Continマa adelante
 
 [msg D03_OBJECTIVE_MSG_SMALL__7]
 Usa los teletransportadores para avanzar
@@ -158,31 +158,31 @@ Usa los teletransportadores para avanzar
 Derrota a la Madre Computadora
 
 [msg D03_OBJECTIVE_MSG_SMALL__8]
-Contin雨a adelante
+Continマa adelante
 
 [msg D04_OBJECTIVE_MSG_LARGE_]
 Encuentra a Hikari
 
 [msg D04_OBJECTIVE_MSG_SMALL_]
-Contin雨a adelante
+Continマa adelante
 
 [msg D04_OBJECTIVE_MSG_SMALL__2]
 Controla los elevadores para avanzar
 
 [msg D05_OBJECTIVE_MSG_LARGE_]
-Ve a la ubicaci吋n de Enlil
+Ve a la ubicaciポn de Enlil
 
 [msg D05_OBJECTIVE_MSG_SMALL_]
-Contin雨a adelante
+Continマa adelante
 
 [msg D05_OBJECTIVE_MSG_SMALL__2]
-Busca una soluci吋n para los escombros
+Busca una soluciポn para los escombros
 
 [msg D05_OBJECTIVE_MSG_SMALL__3]
 Atrae al FOE a los escombros
 
 [msg D05_OBJECTIVE_MSG_SMALL__4]
-Contin雨a adelante
+Continマa adelante
 
 [msg D05_OBJECTIVE_MSG_SMALL__5]
 Avanza con cuidado por el viento
@@ -200,14 +200,14 @@ Ve a la Plaza Memorial
 Ejecuta el plan
 
 [msg D05_OBJECTIVE_MSG_SMALL__7]
-Cambia toda la pel胤cula
+Cambia toda la pelボcula
 
 [msg D05_OBJECTIVE_MSG_LARGE__3]
 Pon fin al terrible plan
 
 [msg D05_OBJECTIVE_MSG_SMALL__8]
-Ve a la ubicaci吋n de Enlil
+Ve a la ubicaciポn de Enlil
 
 [msg D04_OBJECTIVE_MSG_LARGE__2]
-Dir胤gete a las profundidades
+Dirボgete a las profundidades
 

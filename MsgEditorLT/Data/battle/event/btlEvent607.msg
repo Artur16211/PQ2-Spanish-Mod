@@ -5,18 +5,18 @@ Tss, siguen viniendo.
 No te preocupes, Skull. Tengo buenas noticias.
 
 [msg MSG_002 [Ryuji]]
-夷Eh? 夷Buenas?
+メEh? メBuenas?
 
 [msg MSG_003 [Futaba]]
-Descubr胤 c吋mo darles apoyo y usar mi Persona desde aqu胤.
-斡De ahora en adelante, yo tambi姻n ayudar姻!
+Descubrボ cポmo darles apoyo y usar mi Persona desde aquボ.
+ムDe ahora en adelante, yo tambi〒n ayudar〒!
 
 [msg MSG_004 [Morgana]]
-Tenerte de apoyo ser茨 de gran ayuda.
+Tenerte de apoyo serホ de gran ayuda.
 
 [msg MSG_005 [Ann]]
-斡S胤! 斡No puedo esperar a ver qu姻 puedes hacer, Oracle!
+ムSボ! ムNo puedo esperar a ver qu〒 puedes hacer, Oracle!
 
 [msg MSG_006 [Futaba]]
-斡D姻jamelo a m胤!
+ムD〒jamelo a mボ!
 

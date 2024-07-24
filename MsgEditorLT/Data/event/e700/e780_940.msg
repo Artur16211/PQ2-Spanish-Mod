@@ -2,16 +2,16 @@
 Has vuelto, Recluso.
 
 [msg MSG_001]
-夷...?
-Marie no est茨...
+メ...?
+Marie no estホ...
 
 [msg MSG_002 [Caroline]]
-夷Qu姻, fuera otra vez?
+メQu〒, fuera otra vez?
 
 [msg MSG_003]
-夷...?
+メ...?
 Hay otro pedazo de papel en el suelo...
-Hay algo escrito en 姻l con una linda[n]letra...
+Hay algo escrito en 〒l con una linda[n]letra...
 
 [msg MSG_004 [Marie]]
 "Surprise Birthday"
@@ -30,39 +30,39 @@ I'm only crazy for you, monsieur
 
 [msg MSG_006]
 ...
-夷Es otro de los poemas de Marie?
+メEs otro de los poemas de Marie?
 
 [msg MSG_007 [Marie]]
-斡Hwaaaaaah!
+ムHwaaaaaah!
 
 [msg MSG_008 [Marie]]
-斡Espera, espera! 斡Este es uno de los[n]peores!
-斡Solo me emocion姻, eso es todo! 斡Solo[n]quiero un poco de emoci吋n, no tanta!
+ムEspera, espera! ムEste es uno de los[n]peores!
+ムSolo me emocion〒, eso es todo! ムSolo[n]quiero un poco de emociポn, no tanta!
 ...
-斡Ahteodioest雨pidose隠orsorpresas!
+ムAhteodioestマpidoseワorsorpresas!
 
 [msg MSG_009]
 La cara de Marie se ha vuelto roja,[n]hasta las orejas...
 
 [msg MSG_010 [Caroline]]
-夷"Isle of View"? 夷Qu姻 clase de mensaje[n]est茨 oculto es ese?
+メ"Isle of View"? メQu〒 clase de mensaje[n]estホ oculto es ese?
 
 [msg MSG_011 [Justine]]
 Es... una especie de isla... donde[n]puedes ver…
 
 [msg MSG_012 [Marie]]
-斡No! "Isle of View" es solo otra forma[n]de leer "I love you", obvia...
+ムNo! "Isle of View" es solo otra forma[n]de leer "I love you", obvia...
 
 [msg MSG_013 [Marie]]
-...斡Ah!
-Q-quiero decir, 斡no hay ning雨n mensaje[n]oculto! 斡夷Por qu姻 habr胤a alguna sorpresa[n]idiota as胤?!
+...ムAh!
+Q-quiero decir, ムno hay ningマn mensaje[n]oculto! ムメPor qu〒 habrボa alguna sorpresa[n]idiota asボ?!
 
 [msg MSG_014]
 Ella parece desesperada...
 
 [msg MSG_015 [Marie]]
-Esto no puede estar pasando... Estoy[n]segura de que hab胤a guardado esto...
+Esto no puede estar pasando... Estoy[n]segura de que habボa guardado esto...
 
 [msg MSG_016]
-Marie volvi吋 a su lugar, notablemente[n]inquieta...
+Marie volviポ a su lugar, notablemente[n]inquieta...
 

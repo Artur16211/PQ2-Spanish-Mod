@@ -2,118 +2,118 @@
 Dummy
 
 [msg BTL_MES_006_001]
-Esa parece dura... 斡Cuidado, chicos!
+Esa parece dura... ムCuidado, chicos!
 
 [msg BTL_MES_006_002]
-斡Mant姻nganse alerta!
+ムMant〒nganse alerta!
 
 [msg BTL_MES_006_003]
-Ese es, 斡夷un FOE...?! 斡Debemos retroceder!
+Ese es, ムメun FOE...?! ムDebemos retroceder!
 
 [msg BTL_MES_006_004]
-斡Es un FOE! 斡No luches contra 姻l!
+ムEs un FOE! ムNo luches contra 〒l!
 
 [msg BTL_MES_006_005]
-S胤, esto es muuuy arriesgado. 斡V茨monos de aqu胤!
+Sボ, esto es muuuy arriesgado. ムVホmonos de aquボ!
 
 [msg BTL_MES_006_006]
-斡Retirada! 斡Y vigila que no te persiga!
+ムRetirada! ムY vigila que no te persiga!
 
 [msg BTL_MES_006_007]
-Necesitamos un plan para atravesar su defensa. 斡Reconozco una piel gruesa cuando la veo!
+Necesitamos un plan para atravesar su defensa. ムReconozco una piel gruesa cuando la veo!
 
 [msg BTL_MES_006_008]
-斡Ese tiene ataques muy poderosos! 斡No te arriesgues!
+ムEse tiene ataques muy poderosos! ムNo te arriesgues!
 
 [msg BTL_MES_006_009]
-斡Cuidado, ese FOE tiene ataques f胤sicos superfuertes!
+ムCuidado, ese FOE tiene ataques fボsicos superfuertes!
 
 [msg BTL_MES_006_010]
-斡Cuidado, los ataques m茨gicos de ese FOE no son broma!
+ムCuidado, los ataques mホgicos de ese FOE no son broma!
 
 [msg BTL_MES_006_011]
-Es m茨s fuerte a medida que su salud baja. 斡Debes matarlo lo antes posible!
+Es mホs fuerte a medida que su salud baja. ムDebes matarlo lo antes posible!
 
 [msg BTL_MES_006_012]
-斡Una Sombra rara! 斡No dejes que escape!
+ムUna Sombra rara! ムNo dejes que escape!
 
 [msg BTL_MES_006_013]
-斡Hay una Sombra rara! 斡Derr胤bala, r茨pido!
+ムHay una Sombra rara! ムDerrボbala, rホpido!
 
 [msg BTL_MES_006_014]
-斡Bien! 斡No dejen que se escape, 夷entendido?!
+ムBien! ムNo dejen que se escape, メentendido?!
 
 [msg BTL_MES_006_015]
-斡No perdamos a esa rara!
+ムNo perdamos a esa rara!
 
 [msg BTL_MES_006_016]
 Esa puede golpear a todos a la vez. Trata de defenderte.
 
 [msg BTL_MES_006_017]
-Un enemigo usa ataques en toda la zona... 斡Usa habilidades defensivas!
+Un enemigo usa ataques en toda la zona... ムUsa habilidades defensivas!
 
 [msg BTL_MES_006_018]
-Un enemigo puede usar muerte instant茨nea. 斡Yo digo que lo elimines primero!
+Un enemigo puede usar muerte instantホnea. ムYo digo que lo elimines primero!
 
 [msg BTL_MES_006_019]
-Los ataques m茨gicos no funcionar茨n. 斡Usa otra cosa!
+Los ataques mホgicos no funcionarホn. ムUsa otra cosa!
 
 [msg BTL_MES_006_020]
-斡Cuidado! 斡El pr吋ximo ataque es muy poderoso!
+ムCuidado! ムEl prポximo ataque es muy poderoso!
 
 [msg BTL_MES_006_021]
-Sip, esa es intimidante... 斡Cuidado!
+Sip, esa es intimidante... ムCuidado!
 
 [msg BTL_MES_006_022]
 Oh... Parece que nos tomaron por sorpresa...
 
 [msg BTL_MES_006_023]
-斡Podr胤amos ganar si lo damos todo! 夷Qu姻 hacemos...?
+ムPodrボamos ganar si lo damos todo! メQu〒 hacemos...?
 
 [msg BTL_MES_006_024]
-斡No seas imprudente! 斡Si se ve muy dura, lo mejor es correr!
+ムNo seas imprudente! ムSi se ve muy dura, lo mejor es correr!
 
 [msg BTL_MES_006_025]
-斡No tenemos datos de esa Sombra! Deber胤amos buscar sus debilidades.
+ムNo tenemos datos de esa Sombra! Deberボamos buscar sus debilidades.
 
 [msg BTL_MES_006_026]
-斡Un nuevo tipo de enemigo, no conocemos sus debilidades!
+ムUn nuevo tipo de enemigo, no conocemos sus debilidades!
 
 [msg BTL_MES_006_027]
-斡Ve a por ellos, Senpai!
+ムVe a por ellos, Senpai!
 
 [msg BTL_MES_006_028]
-斡Puedes hacerlo! 斡S姻 que puedes!
+ムPuedes hacerlo! ムS〒 que puedes!
 
 [msg BTL_MES_006_029]
-斡Ten cuidado, Yosuke!
+ムTen cuidado, Yosuke!
 
 [msg BTL_MES_006_030]
-斡Vamos, Chie!
+ムVamos, Chie!
 
 [msg BTL_MES_006_031]
-斡No te detengas, Yukiko!
+ムNo te detengas, Yukiko!
 
 [msg BTL_MES_006_032]
 Dummy
 
 [msg BTL_MES_006_033]
-斡Dales una paliza, Kanji!
+ムDales una paliza, Kanji!
 
 [msg BTL_MES_006_034]
-斡Lo tienes, Naoto!
+ムLo tienes, Naoto!
 
 [msg BTL_MES_006_035]
-斡Vamos Teddie!
+ムVamos Teddie!
 
 [msg BTL_MES_006_036]
-斡Puedes hacerlo, Yukari!
+ムPuedes hacerlo, Yukari!
 
 [msg BTL_MES_006_037]
-斡Junpei, mantengamos la calma y encontremos sus debilidades!
+ムJunpei, mantengamos la calma y encontremos sus debilidades!
 
 [msg BTL_MES_006_038]
-夷A-akihiko? Vamos c茨lmate, 夷de acuerdo?
+メA-akihiko? Vamos cホlmate, メde acuerdo?
 
 [msg BTL_MES_006_039]
 Mitsuru se ve tan genial...
@@ -122,370 +122,370 @@ Mitsuru se ve tan genial...
 Dummy
 
 [msg BTL_MES_006_041]
-斡T雨 puedes, Aigis!
+ムTマ puedes, Aigis!
 
 [msg BTL_MES_006_042]
-斡C茨lmate, Ken! 斡Te estar姻 animando!
+ムCホlmate, Ken! ムTe estar〒 animando!
 
 [msg BTL_MES_006_043]
-斡Ve por ellos, Koro!
+ムVe por ellos, Koro!
 
 [msg BTL_MES_006_044]
-斡Contamos contigo, Shinjiro!
+ムContamos contigo, Shinjiro!
 
 [msg BTL_MES_006_045]
-斡Adelante! 斡Les cubriremos la espalda!
+ムAdelante! ムLes cubriremos la espalda!
 
 [msg BTL_MES_006_046]
-斡Eso es, Joker!
+ムEso es, Joker!
 
 [msg BTL_MES_006_047]
-斡Buena suerte, Skull!
+ムBuena suerte, Skull!
 
 [msg BTL_MES_006_048]
-斡Sigue as胤, Panther!
+ムSigue asボ, Panther!
 
 [msg BTL_MES_006_049]
-斡Buena idea, Mona!
+ムBuena idea, Mona!
 
 [msg BTL_MES_006_050]
-斡Vamos, Fox!
+ムVamos, Fox!
 
 [msg BTL_MES_006_051]
-斡Vamos, Queen! 斡Te apoyar姻!
+ムVamos, Queen! ムTe apoyar〒!
 
 [msg BTL_MES_006_052]
 Dummy
 
 [msg BTL_MES_006_053]
-斡Suena bien, Noir! 斡Adelante!
+ムSuena bien, Noir! ムAdelante!
 
 [msg BTL_MES_006_054]
-斡Puedes hacerlo, Crow!
+ムPuedes hacerlo, Crow!
 
 [msg BTL_MES_006_055]
-斡Nada que no puedas manejar, solo mant姻n el enfoque!
+ムNada que no puedas manejar, solo mant〒n el enfoque!
 
 [msg BTL_MES_006_056]
-斡No bajes la guardia!
+ムNo bajes la guardia!
 
 [msg BTL_MES_006_057]
-Esto parece bastante f茨cil, pero no te conf胤es.
+Esto parece bastante fホcil, pero no te confボes.
 
 [msg BTL_MES_006_058]
-No hay problema. 斡Hag茨moslo r茨pido!
+No hay problema. ムHagホmoslo rホpido!
 
 [msg BTL_MES_006_059]
-斡Acabemos con esto, chicos!
+ムAcabemos con esto, chicos!
 
 [msg BTL_MES_006_060]
-斡Derr吋talos a todos!
+ムDerrポtalos a todos!
 
 [msg BTL_MES_006_061]
-No lo olvides, 斡puedes golpear su debilidad!
+No lo olvides, ムpuedes golpear su debilidad!
 
 [msg BTL_MES_006_062]
-斡Es tu oportunidad! 斡Ve a por su punto d姻bil!
+ムEs tu oportunidad! ムVe a por su punto d〒bil!
 
 [msg BTL_MES_006_063]
-夷Qu姻 hacemos...? 斡No podemos escapar!
+メQu〒 hacemos...? ムNo podemos escapar!
 
 [msg BTL_MES_006_064]
-斡El intento de escape fall吋! 斡Cuidado!
+ムEl intento de escape fallポ! ムCuidado!
 
 [msg BTL_MES_006_065]
-N-no puede ser... 斡Apareci吋 un FOE!
+N-no puede ser... ムApareciポ un FOE!
 
 [msg BTL_MES_006_066]
-Pens姻 que todos sab胤an que es de mala educaci吋n invadir el espacio personal. 斡Parece que NO!
+Pens〒 que todos sabボan que es de mala educaciポn invadir el espacio personal. ムParece que NO!
 
 [msg BTL_MES_006_067]
-斡Ah! 斡Senpai, est茨s grave! 斡夷Lo lograr茨s?!
+ムAh! ムSenpai, estホs grave! ムメLo lograrホs?!
 
 [msg BTL_MES_006_068]
-斡Cuidado, alguien est茨 en estado cr胤tico!
+ムCuidado, alguien estホ en estado crボtico!
 
 [msg BTL_MES_006_069]
-斡Yosuke est茨 en peligro! 斡Cuidado!
+ムYosuke estホ en peligro! ムCuidado!
 
 [msg BTL_MES_006_070]
-斡Chie est茨 en problemas!
+ムChie estホ en problemas!
 
 [msg BTL_MES_006_071]
-斡Yukiko necesita ayuda!
+ムYukiko necesita ayuda!
 
 [msg BTL_MES_006_072]
 Dummy
 
 [msg BTL_MES_006_073]
-斡Kanji est茨 en aprietos! 斡Cu胤dalo!
+ムKanji estホ en aprietos! ムCuボdalo!
 
 [msg BTL_MES_006_074]
-斡Naoto est茨 en peligro!
+ムNaoto estホ en peligro!
 
 [msg BTL_MES_006_075]
-斡Teddie est茨 en apuros!
+ムTeddie estホ en apuros!
 
 [msg BTL_MES_006_076]
-斡Yukari no se encuentra muy bien!
+ムYukari no se encuentra muy bien!
 
 [msg BTL_MES_006_077]
-斡No se ve bien para Junpei!
+ムNo se ve bien para Junpei!
 
 [msg BTL_MES_006_078]
-斡Akihiko est茨 en mal estado!
+ムAkihiko estホ en mal estado!
 
 [msg BTL_MES_006_079]
-斡Mitsuru no se ve bien!
+ムMitsuru no se ve bien!
 
 [msg BTL_MES_006_080]
 Dummy
 
 [msg BTL_MES_006_081]
-斡Aigis est茨 en peligro!
+ムAigis estホ en peligro!
 
 [msg BTL_MES_006_082]
-斡Ken est茨 en problemas!
+ムKen estホ en problemas!
 
 [msg BTL_MES_006_083]
-斡Pobre Koro est茨 herido!
+ムPobre Koro estホ herido!
 
 [msg BTL_MES_006_084]
-斡Shinjiro est茨 en una mala situaci吋n!
+ムShinjiro estホ en una mala situaciポn!
 
 [msg BTL_MES_006_085]
-斡Cuidado! 斡Falta poco para que te derriben!
+ムCuidado! ムFalta poco para que te derriben!
 
 [msg BTL_MES_006_086]
-斡Joker podr胤a necesitar algo de ayuda!
+ムJoker podrボa necesitar algo de ayuda!
 
 [msg BTL_MES_006_087]
-斡Cuidado, Skull! 斡Est茨s en mal estado!
+ムCuidado, Skull! ムEstホs en mal estado!
 
 [msg BTL_MES_006_088]
-斡Panther realmente necesita ayuda, la que sea!
+ムPanther realmente necesita ayuda, la que sea!
 
 [msg BTL_MES_006_089]
-斡Mona est茨 en problemas!
+ムMona estホ en problemas!
 
 [msg BTL_MES_006_090]
-斡Cuidado! 斡Fox est茨 en aprietos!
+ムCuidado! ムFox estホ en aprietos!
 
 [msg BTL_MES_006_091]
-斡Queen parece que est茨 en un aprieto real!
+ムQueen parece que estホ en un aprieto real!
 
 [msg BTL_MES_006_092]
 Dummy
 
 [msg BTL_MES_006_093]
-斡La situaci吋n de Noir se ve terrible!
+ムLa situaciポn de Noir se ve terrible!
 
 [msg BTL_MES_006_094]
-斡Cuidado! 斡Crow est茨 por quedar inconsciente!
+ムCuidado! ムCrow estホ por quedar inconsciente!
 
 [msg BTL_MES_006_095]
-Esto no se ve bien... 夷Tal vez deber胤amos regresar?
+Esto no se ve bien... メTal vez deberボamos regresar?
 
 [msg BTL_MES_006_096]
-斡夷Est茨s bien?! 斡R茨pido, tienes que sanar!
+ムメEstホs bien?! ムRホpido, tienes que sanar!
 
 [msg BTL_MES_006_097]
-斡Oh no! 斡Alguien ha sido petrificado!
+ムOh no! ムAlguien ha sido petrificado!
 
 [msg BTL_MES_006_098]
-斡Cuidado! 斡Cuando atacas, tambi姻n te haces da隠o a ti mismo!
+ムCuidado! ムCuando atacas, tambi〒n te haces daワo a ti mismo!
 
 [msg BTL_MES_006_099]
-斡Tienes que curarte ese veneno, r茨pido!
+ムTienes que curarte ese veneno, rホpido!
 
 [msg BTL_MES_006_100]
-斡Alguien est茨 dormido! 斡Despierta!
+ムAlguien estホ dormido! ムDespierta!
 
 [msg BTL_MES_006_101]
-斡Alguien est茨 confundido! 夷C吋mo lo despertamos?
+ムAlguien estホ confundido! メCポmo lo despertamos?
 
 [msg BTL_MES_006_102]
-斡夷Qu-?! 斡Alguien ha sido paralizado!
+ムメQu-?! ムAlguien ha sido paralizado!
 
 [msg BTL_MES_006_103]
-夷Est茨s bien? 斡Aguanta!
+メEstホs bien? ムAguanta!
 
 [msg BTL_MES_006_104]
-斡Oh no! 斡Tu Persona ha sido atada!
+ムOh no! ムTu Persona ha sido atada!
 
 [msg BTL_MES_006_105]
-斡No puedes usar ataques f胤sicos!
+ムNo puedes usar ataques fボsicos!
 
 [msg BTL_MES_006_106]
-斡Tu movimiento se ralentizaron! 斡Cuidado con los pr吋ximos ataques!
+ムTu movimiento se ralentizaron! ムCuidado con los prポximos ataques!
 
 [msg BTL_MES_006_107]
-斡Es d姻bil contra los ataques f胤sicos! 斡Derr吋tala a golpes!
+ムEs d〒bil contra los ataques fボsicos! ムDerrポtala a golpes!
 
 [msg BTL_MES_006_108]
-Es d姻bil contra el Fuego. 斡Qu姻menla!
+Es d〒bil contra el Fuego. ムQu〒menla!
 
 [msg BTL_MES_006_109]
-Es d姻bil contra el hielo. 斡Congela a esa Sombra!
+Es d〒bil contra el hielo. ムCongela a esa Sombra!
 
 [msg BTL_MES_006_110]
-斡Usa ataques de viento! 斡Sorpr姻ndela!
+ムUsa ataques de viento! ムSorpr〒ndela!
 
 [msg BTL_MES_006_111]
-Su debilidad es la Electricidad. 斡Haz algo que la deje impactada!
+Su debilidad es la Electricidad. ムHaz algo que la deje impactada!
 
 [msg BTL_MES_006_112]
-斡Es d姻bil contra los ataques nucleares! 斡Demostremos que somos la bomba!
+ムEs d〒bil contra los ataques nucleares! ムDemostremos que somos la bomba!
 
 [msg BTL_MES_006_113]
-Es d姻bil contra la Psicoquinesis. 斡Pensemos en eso!
+Es d〒bil contra la Psicoquinesis. ムPensemos en eso!
 
 [msg BTL_MES_006_114]
-Es d姻bil contra las habilidades de Bendici吋n. 斡Hagamos que ruegue por su final!
+Es d〒bil contra las habilidades de Bendiciポn. ムHagamos que ruegue por su final!
 
 [msg BTL_MES_006_115]
-斡Es d姻bil contra la Maldici吋n!
+ムEs d〒bil contra la Maldiciポn!
 
 [msg BTL_MES_006_116]
-斡Usa ataques f胤sicos contra esa!
+ムUsa ataques fボsicos contra esa!
 
 [msg BTL_MES_006_117]
-斡El fuego es efectivo! 斡Qu姻menlos a todos!
+ムEl fuego es efectivo! ムQu〒menlos a todos!
 
 [msg BTL_MES_006_118]
-斡Odia el fr胤o! 夷Pero qui姻n no? 斡Intenta atacar con hielo!
+ムOdia el frボo! メPero qui〒n no? ムIntenta atacar con hielo!
 
 [msg BTL_MES_006_119]
-斡Es d姻bil contra el viento! 夷Puedes golpearla?
+ムEs d〒bil contra el viento! メPuedes golpearla?
 
 [msg BTL_MES_006_120]
-斡La electricidad es efectiva! 斡Explota esa debilidad!
+ムLa electricidad es efectiva! ムExplota esa debilidad!
 
 [msg BTL_MES_006_121]
-Usar ataques nucleares es nuestra mejor opci吋n. 斡Esa es su debilidad!
+Usar ataques nucleares es nuestra mejor opciポn. ムEsa es su debilidad!
 
 [msg BTL_MES_006_122]
-La Psicoquinesis es efectiva. 斡Derr吋tala antes de que se vuelva psic吋pata con NOSOTROS!
+La Psicoquinesis es efectiva. ムDerrポtala antes de que se vuelva psicポpata con NOSOTROS!
 
 [msg BTL_MES_006_123]
-斡Noticias celestiales! 斡Ataques de Bendici吋n son bastante eficaces contra esa!
+ムNoticias celestiales! ムAtaques de Bendiciポn son bastante eficaces contra esa!
 
 [msg BTL_MES_006_124]
-斡Los ataques de maldici吋n son buenos contra esa!
+ムLos ataques de maldiciポn son buenos contra esa!
 
 [msg BTL_MES_006_125]
-斡Lo est茨s haciendo genial!
+ムLo estホs haciendo genial!
 
 [msg BTL_MES_006_126]
-斡Vamos, vamos, vamos! 斡Derr胤benlas a todas!
+ムVamos, vamos, vamos! ムDerrボbenlas a todas!
 
 [msg BTL_MES_006_127]
-斡S胤! 斡Pueden hacerlo, chicos!
+ムSボ! ムPueden hacerlo, chicos!
 
 [msg BTL_MES_006_128]
-Solo dir姻... 斡Todos son incre胤bles!
+Solo dir〒... ムTodos son increボbles!
 
 [msg BTL_MES_006_129]
-斡Ahora puedes usar Relevo!
+ムAhora puedes usar Relevo!
 
 [msg BTL_MES_006_130]
-斡Podr胤as hacer gran da隠o con un Relevo!
+ムPodrボas hacer gran daワo con un Relevo!
 
 [msg BTL_MES_006_131]
-斡Estoy lista para apoyar en cualquier momento!
+ムEstoy lista para apoyar en cualquier momento!
 
 [msg BTL_MES_006_132]
-斡Av胤same si hay algo que pueda hacer para ayudar!
+ムAvボsame si hay algo que pueda hacer para ayudar!
 
 [msg BTL_MES_006_133]
-斡Vamos!
+ムVamos!
 
 [msg BTL_MES_006_134]
-斡Acabemos con esto!
+ムAcabemos con esto!
 
 [msg BTL_MES_006_135]
-斡Vaya! 斡Eres incre胤ble, Senpai!
+ムVaya! ムEres increボble, Senpai!
 
 [msg BTL_MES_006_136]
-斡Eso es!
+ムEso es!
 
 [msg BTL_MES_006_137]
-斡Bien, Yosuke!
+ムBien, Yosuke!
 
 [msg BTL_MES_006_138]
-斡Bien, Chie!
+ムBien, Chie!
 
 [msg BTL_MES_006_139]
-斡S胤! 斡No esperaba menos de ti, Yukiko!
+ムSボ! ムNo esperaba menos de ti, Yukiko!
 
 [msg BTL_MES_006_140]
 Dummy
 
 [msg BTL_MES_006_141]
-斡Vamos, Kanji!
+ムVamos, Kanji!
 
 [msg BTL_MES_006_142]
-斡As胤 se hace, Naoto!
+ムAsボ se hace, Naoto!
 
 [msg BTL_MES_006_143]
-斡Eso es todo, Teddie!
+ムEso es todo, Teddie!
 
 [msg BTL_MES_006_144]
-斡Eso estuvo genial, Yukari!
+ムEso estuvo genial, Yukari!
 
 [msg BTL_MES_006_145]
-斡As胤 se hace, Junpei!
+ムAsボ se hace, Junpei!
 
 [msg BTL_MES_006_146]
-斡Buen movimiento, Akihiko!
+ムBuen movimiento, Akihiko!
 
 [msg BTL_MES_006_147]
-斡Eso ten胤a estilo, Mitsuru!
+ムEso tenボa estilo, Mitsuru!
 
 [msg BTL_MES_006_148]
 Dummy
 
 [msg BTL_MES_006_149]
-斡Bien hecho, Aigis!
+ムBien hecho, Aigis!
 
 [msg BTL_MES_006_150]
-斡Lo hiciste, Ken!
+ムLo hiciste, Ken!
 
 [msg BTL_MES_006_151]
-斡Buen chico, Koro!
+ムBuen chico, Koro!
 
 [msg BTL_MES_006_152]
-斡Le mostraste lo que tienes, Shinjiro!
+ムLe mostraste lo que tienes, Shinjiro!
 
 [msg BTL_MES_006_153]
-斡Bien! 斡Lo tienes!
+ムBien! ムLo tienes!
 
 [msg BTL_MES_006_154]
-斡Buen trabajo, Joker!
+ムBuen trabajo, Joker!
 
 [msg BTL_MES_006_155]
-斡Te ves bien, Skull!
+ムTe ves bien, Skull!
 
 [msg BTL_MES_006_156]
-斡Est茨s en el punto, Panther!
+ムEstホs en el punto, Panther!
 
 [msg BTL_MES_006_157]
-斡Eso fue perfecto, Mona!
+ムEso fue perfecto, Mona!
 
 [msg BTL_MES_006_158]
-斡Claro que s胤, adelante Fox!
+ムClaro que sボ, adelante Fox!
 
 [msg BTL_MES_006_159]
-斡T雨 mandas, Queen!
+ムTマ mandas, Queen!
 
 [msg BTL_MES_006_160]
 Dummy
 
 [msg BTL_MES_006_161]
-斡Eso estuvo genial, Noir!
+ムEso estuvo genial, Noir!
 
 [msg BTL_MES_006_162]
-斡Lo tienes, Crow!
+ムLo tienes, Crow!
 
 [msg BTL_MES_006_163]
 Dummy
@@ -494,80 +494,80 @@ Dummy
 Dummy
 
 [msg BTL_MES_006_165]
-Cuidado con esas Sombras. 斡D姻jenme el apoyo a m胤!
+Cuidado con esas Sombras. ムD〒jenme el apoyo a mボ!
 
 [msg BTL_MES_006_166]
-Tenemos que demostrarle que se equivoca... 斡Vamos, chicos!
+Tenemos que demostrarle que se equivoca... ムVamos, chicos!
 
 [msg BTL_MES_006_167]
-斡夷Qu姻?! Algo anda mal. 斡No se conf胤en, chicos!
+ムメQu〒?! Algo anda mal. ムNo se confボen, chicos!
 
 [msg BTL_MES_006_168]
-斡Cuidado con la retaguardia! 斡Elim胤nenlos primero!
+ムCuidado con la retaguardia! ムElimボnenlos primero!
 
 [msg BTL_MES_006_169]
-斡Conc姻ntrate en los amigos de atr茨s primero!
+ムConc〒ntrate en los amigos de atrホs primero!
 
 [msg BTL_MES_006_170]
-Creo que podemos tomarlo... 斡Adelante y t吋menlo, chicos!
+Creo que podemos tomarlo... ムAdelante y tポmenlo, chicos!
 
 [msg BTL_MES_006_171]
-斡Tenemos que ganar! 斡Por Ribbon!
+ムTenemos que ganar! ムPor Ribbon!
 
 [msg BTL_MES_006_172]
-Este mundo est茨 mal... Bueno, 斡denlo todo, chicos!
+Este mundo estホ mal... Bueno, ムdenlo todo, chicos!
 
 [msg BTL_MES_006_173]
-Gracias a Oracle y Ribbon, perdi吋 la capacidad de repararse. 斡Vamos, vamos, vamos!
+Gracias a Oracle y Ribbon, perdiポ la capacidad de repararse. ムVamos, vamos, vamos!
 
 [msg BTL_MES_006_174]
-斡Reparaci吋n deshabilitada! 斡Dale todo lo que tienes!
+ムReparaciポn deshabilitada! ムDale todo lo que tienes!
 
 [msg BTL_MES_006_175]
-Eh, 斡夷qu姻?!
+Eh, ムメqu〒?!
 
 [msg BTL_MES_006_176]
-Algo horrible le est茨 pasando... 斡Tengan cuidado, chicos!
+Algo horrible le estホ pasando... ムTengan cuidado, chicos!
 
 [msg BTL_MES_006_177]
-斡A por los ojos!
+ムA por los ojos!
 
 [msg BTL_MES_006_178]
-夷Es su punto d姻bil? 斡Yo digo que concentres tus ataques all胤!
+メEs su punto d〒bil? ムYo digo que concentres tus ataques allボ!
 
 [msg BTL_MES_006_179]
-斡No...! 夷Ese no era su punto d姻bil?
+ムNo...! メEse no era su punto d〒bil?
 
 [msg BTL_MES_006_180]
-Esto no es bueno... 夷Qu姻 hacemos...?
+Esto no es bueno... メQu〒 hacemos...?
 
 [msg BTL_MES_006_181]
-El apoyo de Hikari... 斡Tal vez esto pueda cambiar las cosas!
+El apoyo de Hikari... ムTal vez esto pueda cambiar las cosas!
 
 [msg BTL_MES_006_182]
-斡S胤, est茨 funcionando!
+ムSボ, estホ funcionando!
 
 [msg BTL_MES_006_183]
-Siento un poder masivo y despiadado... 斡Prom姻tame que te cuidar茨s!
+Siento un poder masivo y despiadado... ムProm〒tame que te cuidarホs!
 
 [msg BTL_MES_006_184]
-Hemos llegado hasta aqu胤. 斡No hay marcha atr茨s!
+Hemos llegado hasta aquボ. ムNo hay marcha atrホs!
 
 [msg BTL_MES_006_185]
-斡La afinidad del enemigo cambi吋!
+ムLa afinidad del enemigo cambiポ!
 
 [msg BTL_MES_006_186]
-Una gran cantidad de poder se est茨 acumulando... 斡Podr胤amos estar en grandes problemas!
+Una gran cantidad de poder se estホ acumulando... ムPodrボamos estar en grandes problemas!
 
 [msg BTL_MES_006_187]
-夷Qu姻 est茨 pasando? 斡El tiempo... se est茨 acelerando!
+メQu〒 estホ pasando? ムEl tiempo... se estホ acelerando!
 
 [msg BTL_MES_006_188]
-No... No puede ser. 斡Est茨 utilizando la grieta temporal para atacarnos simult茨neamente!
+No... No puede ser. ムEstホ utilizando la grieta temporal para atacarnos simultホneamente!
 
 [msg BTL_MES_006_189]
-夷Qu姻...? 斡Ahora el tiempo va hacia atr茨s!
+メQu〒...? ムAhora el tiempo va hacia atrホs!
 
 [msg BTL_MES_006_190]
-斡Est茨 usando nuestras acciones anteriores...! 夷C吋mo es posible...?
+ムEstホ usando nuestras acciones anteriores...! メCポmo es posible...?
 

@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Fuuka]]
-Parece que podr胤a haber un tesoro en ese[n]lugar. 夷Quieres comprobarlo?
+Parece que podrボa haber un tesoro en ese[n]lugar. メQuieres comprobarlo?
 
 [msg MSG_001 [Fuuka]]
-斡Correcto! 斡Mantengan los ojos bien[n]abiertos!
+ムCorrecto! ムMantengan los ojos bien[n]abiertos!
 
 [msg MSG_002 [Fuuka]]
-斡Entendido! 斡Vamos a centrarnos al[n]m茨ximo en buscar objetos!
+ムEntendido! ムVamos a centrarnos al[n]mホximo en buscar objetos!
 
 [msg MSG_003 [Fuuka]]
 De acuerdo, entiendo. Vamos a tomar un[n]riesgo calculado.
 
 [msg MSG_004 [Fuuka]]
-斡Eso es! Buen trabajo a todos.
+ムEso es! Buen trabajo a todos.
 
 [msg MSG_005]
-斡Vaya!
+ムVaya!
 
 [msg MSG_006]
-夷Era un buen bot胤n?
+メEra un buen botボn?
 
 [msg MSG_007]
-斡Interesante!
+ムInteresante!
 
 [msg MSG_008 [Fuuka]]
 Buen trabajo. Parece que hemos[n]terminado.
 
 [msg MSG_009]
-斡Esa es uno raro!
+ムEsa es uno raro!
 
 [msg MSG_010]
-斡Lo lograste!
+ムLo lograste!
 
 [msg MSG_011]
-斡Ahora hay algo especial!
+ムAhora hay algo especial!
 
 [msg MSG_012 [Fuuka]]
-斡Es un atajo! 夷Deber胤amos abrirlo?
+ムEs un atajo! メDeberボamos abrirlo?
 
 [msg MSG_013 [Fuuka]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Fuuka]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Fuuka]]
-No podemos pasar por aqu胤. 斡Vamos a[n]revisar el otro lado!
+No podemos pasar por aquボ. ムVamos a[n]revisar el otro lado!
 
 [msg MSG_016 [Fuuka]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Fuuka]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Fuuka]]
-斡Espera, espera! Estoy detectando la[n]se隠al de algo realmente peligroso all胤[n]dentro.
+ムEspera, espera! Estoy detectando la[n]seワal de algo realmente peligroso allボ[n]dentro.
 
 [msg MSG_019 [Fuuka]]
-De acuerdo... 斡Mantente a salvo!
+De acuerdo... ムMantente a salvo!
 
 [msg MSG_020 [Fuuka]]
 Entendido.
 
 [msg MSG_021 [Fuuka]]
-E-eso estuvo cerca... 夷Est茨 todo el[n]mundo bien?
+E-eso estuvo cerca... メEstホ todo el[n]mundo bien?
 
 [msg MSG_022 [Fuuka]]
-斡Estoy detectando Sombras en la zona![n]斡Mantente alerta!
+ムEstoy detectando Sombras en la zona![n]ムMantente alerta!
 
 [msg MSG_023 [Fuuka]]
-斡De acuerdo! 斡Puedes contar conmigo!
+ムDe acuerdo! ムPuedes contar conmigo!
 
 [msg MSG_024 [Fuuka]]
 Entendido.
 
 [msg MSG_025 [Fuuka]]
-斡Excelente trabajo a todos!
+ムExcelente trabajo a todos!
 
 [msg MSG_026 [Fuuka]]
-Eso lleva de vuelta al cine. 夷Volvemos?
+Eso lleva de vuelta al cine. メVolvemos?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

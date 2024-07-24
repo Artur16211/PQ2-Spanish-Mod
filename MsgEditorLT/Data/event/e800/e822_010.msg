@@ -1,78 +1,78 @@
 [msg MSG_000 [Elizabeth]]
-La siguiente proyecci吋n especial es una pel胤cula de acci吋n trepidante.
-Su destino ser茨 A.I.G.I.S.
-Y vuestro objetivo ser茨 derrotar a tres M茨quinas Guardianas.
+La siguiente proyecciポn especial es una pelボcula de acciポn trepidante.
+Su destino serホ A.I.G.I.S.
+Y vuestro objetivo serホ derrotar a tres Mホquinas Guardianas.
 
 [msg MSG_001 [Ryuji]]
-Son esos grandes, 夷no? Entonces ser茨 mejor que mejoremos.
+Son esos grandes, メno? Entonces serホ mejor que mejoremos.
 
 [msg MSG_002 [Morgana]]
-S胤. 斡No hay lugar para errores cuando formas parte de los Ladrones Fantasma!
+Sボ. ムNo hay lugar para errores cuando formas parte de los Ladrones Fantasma!
 
 [msg MSG_003 [Ken]]
-Um, 斡esperad!
+Um, ムesperad!
 
 [msg MSG_004 [Ryuji]]
-夷Hm?
+メHm?
 
 [msg MSG_005 [Ken]]
-Si no les importa, 夷podr胤an ense隠arme m茨s acerca de los Ladrones Fantasma durante esta proyecci吋n?
+Si no les importa, メpodrボan enseワarme mホs acerca de los Ladrones Fantasma durante esta proyecciポn?
 
 [sel SEL_006 top]
-夷Por qu姻?
-夷Quieres unirte?
+メPor qu〒?
+メQuieres unirte?
 
 [msg MSG_007 [Ryuji]]
-Oh, 夷quieres ser como nosotros?
+Oh, メquieres ser como nosotros?
 
 [msg MSG_008 [Morgana]]
-夷Un ladr吋n fantasma esperanzado, eh...? Bueno, ciertamente tienes potencial.
-Tendremos que ver c吋mo sigues mi estricto liderazgo...
+メUn ladrポn fantasma esperanzado, eh...? Bueno, ciertamente tienes potencial.
+Tendremos que ver cポmo sigues mi estricto liderazgo...
 
 [msg MSG_009 [Ken]]
-斡N-no quiero unirme exactamente...! 斡Preferir胤a observaros y aprender!
+ムN-no quiero unirme exactamente...! ムPreferirボa observaros y aprender!
 
 [msg MSG_010 [Morgana]]
 Mmm, desear aprender es algo maravilloso.
 
 [msg MSG_011 [Ryuji]]
-Entonces, 夷qu姻 tal si te ense隠amos el c吋digo de los Ladrones Fantasma aqu胤 y ahora?
+Entonces, メqu〒 tal si te enseワamos el cポdigo de los Ladrones Fantasma aquボ y ahora?
 
 [sel SEL_012 top]
-夷Qui姻n te ha hecho el l胤der?
-夷C吋digo?
-斡Podremos llamarte Ni隠o Fantasma!
+メQui〒n te ha hecho el lボder?
+メCポdigo?
+ムPodremos llamarte Niワo Fantasma!
 
 [msg MSG_013 [Ann]]
-S胤. 夷No crees que te est茨s dejando llevar un poco...?
-No tienes que decir que s胤 si no quieres, Ken.
+Sボ. メNo crees que te estホs dejando llevar un poco...?
+No tienes que decir que sボ si no quieres, Ken.
 
 [msg MSG_014 [Ken]]
 V-Vale.
-Aunque quiero aprender m茨s acerca de los ladrones fantasma, as胤 que me alegrar胤a si aceptarais ense隠arme.
+Aunque quiero aprender mホs acerca de los ladrones fantasma, asボ que me alegrarボa si aceptarais enseワarme.
 
 [msg MSG_015 [Ryuji]]
-Es como... Bueno... Sabes lo que quiero decir, 夷verdad, Morgana?
+Es como... Bueno... Sabes lo que quiero decir, メverdad, Morgana?
 
 [msg MSG_016 [Morgana]]
-夷Eh? O-Oh, s胤. Absolutamente.
+メEh? O-Oh, sボ. Absolutamente.
 
 [msg MSG_017 [Ann]]
-Perd吋n por estos dos, Ken... No tienes que decir que s胤 si no quieres.
+Perdポn por estos dos, Ken... No tienes que decir que sボ si no quieres.
 
 [msg MSG_018 [Ken]]
-No, est茨 bien. De todos modos, es mejor aprender con experiencia. Puedo apa隠茨rmelas.
+No, estホ bien. De todos modos, es mejor aprender con experiencia. Puedo apaワホrmelas.
 
 [msg MSG_019 [Ken]]
-Ey, 斡parad de tratarme como un cr胤o!
+Ey, ムparad de tratarme como un crボo!
 
 [msg MSG_020 [Ann]]
-S胤, dejad de molestarlo. No tiene que unirse si no quiere...
+Sボ, dejad de molestarlo. No tiene que unirse si no quiere...
 
 [msg MSG_021 [Ken]]
-Oh... Bueno, no me importar胤a veros durante un rato.
+Oh... Bueno, no me importarボa veros durante un rato.
 
 [msg MSG_022 [Elizabeth]]
-Bueno, bueno, bueno... Se perfila como una proyecci吋n llena de acontecimientos.
+Bueno, bueno, bueno... Se perfila como una proyecciポn llena de acontecimientos.
 Ahora bien, os deseo a todos la mejor de las suertes.
 

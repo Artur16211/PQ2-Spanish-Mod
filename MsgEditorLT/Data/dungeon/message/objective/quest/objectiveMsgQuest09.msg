@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Encuentra el graffiti que ha cambiado!
+ムEncuentra el graffiti que ha cambiado!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Investiga el graffiti sospechoso

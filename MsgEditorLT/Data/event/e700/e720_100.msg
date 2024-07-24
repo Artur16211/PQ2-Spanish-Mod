@@ -1,11 +1,11 @@
 [msg MSG_000 [Yusuke]]
-夷Mm? Hay una palanca en esta m茨quina.
+メMm? Hay una palanca en esta mホquina.
 
 [msg MSG_001 [Akechi]]
-夷Eh? Parece estar relacionada con esa[n]jaula.
+メEh? Parece estar relacionada con esa[n]jaula.
 
 [msg MSG_002 [Makoto]]
-Si es as胤, entonces ser茨 雨til. Podremos[n]seguir si la giramos.
+Si es asボ, entonces serホ マtil. Podremos[n]seguir si la giramos.
 
 [msg MSG_003 [Makoto]]
 Tu decies, Joker...

@@ -1,6 +1,6 @@
 [msg MSG_BTL_001]
-斡Adelante!
+ムAdelante!
 
 [msg MSG_BTL_002]
-斡Toma esto!
+ムToma esto!
 

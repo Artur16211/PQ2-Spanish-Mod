@@ -1,17 +1,17 @@
 [msg MSG_000 [Madre Computadora]]
-Objetivos marcados. Prepar茨ndose para atacar. Todas las "individualidades" ser茨n destruidas.
+Objetivos marcados. Preparホndose para atacar. Todas las "individualidades" serホn destruidas.
 
 [msg MSG_001 [P3 Hero]]
 Yo soy yo. Puedo parecerme a otros, pero no somos exactamente iguales.
 
 [msg MSG_002 [Mitsuru]]
-As胤 es. Mientras los humanos vivan, la individualidad siempre existir茨.
+Asボ es. Mientras los humanos vivan, la individualidad siempre existirホ.
 
 [msg MSG_003 [P3 Fem Protag]]
-No negar姻 qui姻n soy, 斡y nunca temer姻 ser diferente a los dem茨s!
+No negar〒 qui〒n soy, ムy nunca temer〒 ser diferente a los demホs!
 
 [msg MSG_004 [Madre Computadora]]
-斡Iniciando eliminaci吋n...!
+ムIniciando eliminaciポn...!
 
 [msg MSG_BTL_KAEN [Madre Computadora]]
 リボン 「火炎属性H攻撃しG！」 ※仮演出
@@ -71,5 +71,5 @@ No negar姻 qui姻n soy, 斡y nunca temer姻 ser diferente a los dem茨s!
 リボン 「解析率７５％！あI少し！」 ※仮演出
 
 [msg MSG_BTL_100_3 [Madre Computadora]]
-リボン 「解析率１００％！ 自動回復機構yシャ7:4胤ン！」 ※仮演出
+リボン 「解析率１００％！ 自動回復機構yシャ7:4ボン！」 ※仮演出
 

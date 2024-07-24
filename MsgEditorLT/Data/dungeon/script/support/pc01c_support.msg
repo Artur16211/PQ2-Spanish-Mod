@@ -1,32 +1,32 @@
 [msg AKECHI_FOE_FOLLOW_START_]
-Viene, no entres en p茨nico.
+Viene, no entres en pホnico.
 
 [msg AKECHI_FOE_FOLLOW_START__2]
-Un FOE... Mant姻n la calma.
+Un FOE... Mant〒n la calma.
 
 [msg AKECHI_FOE_FOLLOW_START__3]
-斡El FOE se acerca!
+ムEl FOE se acerca!
 
 [msg AKECHI_FOE_NEAR_1]
-Estar茨 bien. No perdamos la calma.
+Estarホ bien. No perdamos la calma.
 
 [msg AKECHI_FOE_NEAR_2]
-Est茨 justo delante.
+Estホ justo delante.
 
 [msg AKECHI_FOE_NEAR_3]
-Maldici吋n, est茨 justo ah胤...[n]斡Cuidado!
+Maldiciポn, estホ justo ahボ...[n]ムCuidado!
 
 [msg AKECHI_FOE_FOLLOW_END_1]
-Qu姻 alivio haber escapado.
+Qu〒 alivio haber escapado.
 
 [msg AKECHI_FOE_FOLLOW_END_2]
-Parece que lo dejamos atr茨s.
+Parece que lo dejamos atrホs.
 
 [msg AKECHI_FOE_FOLLOW_END_3]
-Parece que no nos est茨 siguiendo.
+Parece que no nos estホ siguiendo.
 
 [msg AKECHI_KANSI_REACTION_1]
-Est茨 bien. Estoy seguro de que[n]estar茨s bien.
+Estホ bien. Estoy seguro de que[n]estarホs bien.
 
 [msg AKECHI_KANSI_REACTION_2]
 En realidad, es un simple truco.
@@ -38,55 +38,55 @@ Mantengamos la calma.
 Debemos encontrar una forma de[n]detenerlo.
 
 [msg AKECHI_DENKISAKU_REACTIO_2]
-Oh... una puerta el姻ctrica...
+Oh... una puerta el〒ctrica...
 
 [msg AKECHI_DENKISAKU_REACTIO_3]
 Tal vez haya una forma de evitarlo.
 
 [msg AKECHI_KYOUHU_REACTION_1]
-斡Ngh...!
+ムNgh...!
 
 [msg AKECHI_KYOUHU_REACTION_2]
-斡Whoa...!
+ムWhoa...!
 
 [msg AKECHI_KYOUHU_REACTION_3]
-斡Vaya viento...!
+ムVaya viento...!
 
 [msg AKECHI_STAIR_FIND_1]
 Parece que podemos avanzar.
 
 [msg AKECHI_STAIR_FIND_2]
-Espl姻ndido, sigamos a la siguiente[n]茨rea.
+Espl〒ndido, sigamos a la siguiente[n]ホrea.
 
 [msg AKECHI_STAIR_FIND_3]
-夷Cu茨l es el plan? 夷Seguir adelante?
+メCuホl es el plan? メSeguir adelante?
 
 [msg AKECHI_TREASURE_FIND_1]
-Un cofre del tesoro. Ser姻 generoso y[n]te lo dejar姻.
+Un cofre del tesoro. Ser〒 generoso y[n]te lo dejar〒.
 
 [msg AKECHI_TREASURE_FIND_2]
-Un cofre del tesoro, 夷eh? 夷Por qu姻 no[n]intentas abrirlo?
+Un cofre del tesoro, メeh? メPor qu〒 no[n]intentas abrirlo?
 
 [msg AKECHI_TREASURE_FIND_3]
-斡He aqu胤! 斡Un cofre del tesoro!
+ムHe aquボ! ムUn cofre del tesoro!
 
 [msg AKECHI_CHECK_WALL_1]
-夷Hm? 夷Eso es...?
+メHm? メEso es...?
 
 [msg AKECHI_CHECK_WALL_2]
-Estas paredes no enga隠an MIS ojos.
+Estas paredes no engaワan MIS ojos.
 
 [msg AKECHI_CHECK_WALL_3]
-夷Por qu姻 no lo revisamos?
+メPor qu〒 no lo revisamos?
 
 [msg AKECHI_SWITCH_FIND_1]
 Un interruptor... Ah, lo entiendo.
 
 [msg AKECHI_SWITCH_FIND_2]
-Hay un interruptor aqu胤.
+Hay un interruptor aquボ.
 
 [msg AKECHI_SWITCH_FIND_3]
-Un interruptor... 夷Qu姻 hacemos?
+Un interruptor... メQu〒 hacemos?
 
 [msg AKECHI_SHORTCUT_FIND_1]
 Parece que podemos pasar.
@@ -95,7 +95,7 @@ Parece que podemos pasar.
 Es bueno saber que tenemos un atajo.
 
 [msg AKECHI_SHORTCUT_FIND_3]
-Quiz茨 podamos pasar. 夷Qu姻 hacemos?
+Quizホ podamos pasar. メQu〒 hacemos?
 
 [msg AKECHI_PARTY_DEAD_1]
 ?
@@ -113,61 +113,61 @@ Es bastante persistente.
 No nos deja tomar un descanso.
 
 [msg AKECHI_FOE_WARNING_NEAR__3]
-El FOE todav胤a nos persigue.
+El FOE todavボa nos persigue.
 
 [msg AKECHI_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AKECHI_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AKECHI_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AKECHI_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg AKECHI_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg AKECHI_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg AKECHI_1PERSON_HPTP10_1]
-He recibido demasiado da隠o. Necesito[n]apoyo.
+He recibido demasiado daワo. Necesito[n]apoyo.
 
 [msg AKECHI_1PERSON_HPTP10_2]
-Estoy en mal estado. 夷Un poco de[n]ayuda, por favor?
+Estoy en mal estado. メUn poco de[n]ayuda, por favor?
 
 [msg AKECHI_1PERSON_HPTP10_3]
-Seguir adelante podr胤a ser[n]imprudente...
+Seguir adelante podrボa ser[n]imprudente...
 
 [msg AKECHI_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AKECHI_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AKECHI_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AKECHI_1PERSON_HP10_1]
-夷Creen que podemos curarnos en un[n]futuro cercano?
+メCreen que podemos curarnos en un[n]futuro cercano?
 
 [msg AKECHI_1PERSON_HP10_2]
-Estoy m茨s da隠ado de lo que pensaba...
+Estoy mホs daワado de lo que pensaba...
 
 [msg AKECHI_1PERSON_HP10_3]
 Es-esto no es nada, lo juro.
 
 [msg AKECHI_1PERSON_TP10_1]
-Estoy agotado... Creo que... podr胤a[n]desmayarme.
+Estoy agotado... Creo que... podrボa[n]desmayarme.
 
 [msg AKECHI_1PERSON_TP10_2]
-Tal vez podr胤amos descansar un[n]poco...
+Tal vez podrボamos descansar un[n]poco...
 
 [msg AKECHI_1PERSON_TP10_3]
-Parece que ser茨 una batalla de[n]resistencia...
+Parece que serホ una batalla de[n]resistencia...
 
 [msg AKECHI_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,10 +179,10 @@ Parece que ser茨 una batalla de[n]resistencia...
 【justificadamente
 
 [msg AKECHI_1PERSON_HP80_1]
-Todo el mundo est茨 bien.
+Todo el mundo estホ bien.
 
 [msg AKECHI_1PERSON_HP80_2]
-斡Estamos logrando haza隠as realmente[n]impresionantes!
+ムEstamos logrando hazaワas realmente[n]impresionantes!
 
 [msg AKECHI_1PERSON_HP80_3]
 Siempre puedes contar conmigo.
@@ -197,58 +197,58 @@ Siempre puedes contar conmigo.
 ■:
 
 [msg AKECHI_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg AKECHI_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg AKECHI_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg AKECHI_DUNGEON_START_1]
-斡Ahora, comencemos!
+ムAhora, comencemos!
 
 [msg AKECHI_DUNGEON_START_2]
 Tengo plena confianza en que podemos[n]hacerlo.
 
 [msg AKECHI_DUNGEON_START_3]
-Todos est姻n alerta.
+Todos est〒n alerta.
 
 [msg AKECHI_QUEST_START_1]
-Comencemos la misi吋n.
+Comencemos la misiポn.
 
 [msg AKECHI_QUEST_START_2]
-Veamos de qu姻 se trata este lugar.
+Veamos de qu〒 se trata este lugar.
 
 [msg AKECHI_QUEST_START_3]
-Ahora, que comience nuestra noble[n]exploraci吋n.
+Ahora, que comience nuestra noble[n]exploraciポn.
 
 [msg AKECHI_TOUHA_25_1]
 Poco a poco, pero con seguridad...
 
 [msg AKECHI_TOUHA_25_2]
-El mapa de Roma no se dibuj吋 en un[n]d胤a.
+El mapa de Roma no se dibujポ en un[n]dボa.
 
 [msg AKECHI_TOUHA_50_1]
-斡A medio camino!
+ムA medio camino!
 
 [msg AKECHI_TOUHA_50_2]
-Est茨 quedando bastante bien.
+Estホ quedando bastante bien.
 
 [msg AKECHI_TOUHA_75_1]
-Deber胤amos proceder lentamente y con[n]cuidado.
+Deberボamos proceder lentamente y con[n]cuidado.
 
 [msg AKECHI_TOUHA_75_2]
-斡Estamos a punto de terminar!
+ムEstamos a punto de terminar!
 
 [msg AKECHI_TOUHA_100_1]
-斡Hemos terminado! 斡Se ve fant茨stico!
+ムHemos terminado! ムSe ve fantホstico!
 
 [msg AKECHI_TOUHA_100_2]
-斡Felicidades, hemos terminado con[n]este piso!
+ムFelicidades, hemos terminado con[n]este piso!
 
 [msg AKECHI_MAPPING_ICON_ALL_]
-S胤, sin dudas en eso.
+Sボ, sin dudas en eso.
 
 [msg AKECHI_MAPPING_ICON_ALL__2]
 Se ve excelente.
@@ -257,41 +257,41 @@ Se ve excelente.
 Bien hecho.
 
 [msg AKECHI_MAPPING_ICON_KAID_2]
-斡Eso es perfecto!
+ムEso es perfecto!
 
 [msg AKECHI_MAPPING_CHANGE_CO]
-Ah, cambiar los colores, 夷eh?
+Ah, cambiar los colores, メeh?
 
 [msg AKECHI_MAPPING_CHANGE_CO_2]
 Debes ser el tipo exigente.
 
 [msg AKECHI_MAPPING_ICON_DEL_]
-Debo admitir que tambi姻n creo que eso[n]es innecesario.
+Debo admitir que tambi〒n creo que eso[n]es innecesario.
 
 [msg AKECHI_MAPPING_ICON_DEL__2]
 Oh, eso es valiente de tu parte.
 
 [msg AKECHI_MAPPING_MEMO_1]
-斡Aj茨, eso es una gran idea!
+ムAjホ, eso es una gran idea!
 
 [msg AKECHI_MAPPING_MEMO_2]
-Te da tranquilidad marcar el mapa,[n]夷no?
+Te da tranquilidad marcar el mapa,[n]メno?
 
 [msg AKECHI_DOOR_OPEN_1]
-斡Por aqu胤!
+ムPor aquボ!
 
 [msg AKECHI_DOOR_OPEN_2]
-夷Vamos?
+メVamos?
 
 [msg AKECHI_DOOR_OPEN_3]
 Vamos.
 
 [msg AKECHI_KARITORU_ENCOUNT_]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg AKECHI_KARITORU_ENCOUNT__2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg AKECHI_KARITORU_ENCOUNT__3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

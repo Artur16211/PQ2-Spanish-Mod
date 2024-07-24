@@ -1,13 +1,13 @@
 [msg MSG_000 [Hombre Cansado]]
-夷Podemos... ser como los personajes de[n]esa pel胤cula?
+メPodemos... ser como los personajes de[n]esa pelボcula?
 Si en realidad no soy indefenso... Si[n]puedo cambiar...
-斡Entonces, elijo cambiar!
+ムEntonces, elijo cambiar!
 
 [msg MSG_001 [Mujer Desesperada]]
-Y-yo tambi姻n... Quiero vivir y re胤rme[n]como ellos...
-夷Puedo cambiar? Si puedo cambiarlo[n]todo... 斡Entonces no quiero rendirme!
+Y-yo tambi〒n... Quiero vivir y reボrme[n]como ellos...
+メPuedo cambiar? Si puedo cambiarlo[n]todo... ムEntonces no quiero rendirme!
 
-[msg MSG_002 [Hombre Ap茨tico]]
+[msg MSG_002 [Hombre Apホtico]]
 Estaba =asustado... Todo lo que quiera[n]era huir de mis problemas...
-Pero ya no quiero eso... 斡Quiero seguir[n]adelante!
+Pero ya no quiero eso... ムQuiero seguir[n]adelante!
 

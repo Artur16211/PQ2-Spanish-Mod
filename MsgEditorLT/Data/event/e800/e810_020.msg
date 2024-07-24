@@ -1,46 +1,46 @@
 [msg MSG_000 [Ryuji]]
-夷D吋nde cre姻is que puede estar ese pez?
+メDポnde cre〒is que puede estar ese pez?
 
 [msg MSG_001 [Yosuke]]
-夷Qu姻 hay del lugar donde hemos cocinado la carne?
+メQu〒 hay del lugar donde hemos cocinado la carne?
 
 [msg MSG_002 [Kanji]]
-斡Muy bien! 斡Vamos hacia all茨!
+ムMuy bien! ムVamos hacia allホ!
 
 [msg MSG_003 [P4 Hero]]
-... Esperad. Antes de eso, 夷no nos olvidamos de algo importante?
+... Esperad. Antes de eso, メno nos olvidamos de algo importante?
 
 [sel SEL_004 top]
-夷Algo importante?
+メAlgo importante?
 Cebo.
 Migas de pan.
 
 [msg MSG_005 [Yukiko]]
-斡Oh! 斡Ya s姻! 斡Cebo para los peces!
+ムOh! ムYa s〒! ムCebo para los peces!
 
 [msg MSG_006 [Kanji]]
-夷Migas de pan? 夷Por qu姻? 夷Por si nos entra hambre?
+メMigas de pan? メPor qu〒? メPor si nos entra hambre?
 
 [msg MSG_007 [Yukiko]]
-斡Oh! 斡Ya s姻! 斡Cebo para los peces!
+ムOh! ムYa s〒! ムCebo para los peces!
 
 [msg MSG_008 [P4 Hero]]
-Correcto. Si vamos a pescar, necesitaremos cebo. Las migas de pan ser胤an perfectas...
-Supongo que tendremos que encontrar algo por aqu胤.
+Correcto. Si vamos a pescar, necesitaremos cebo. Las migas de pan serボan perfectas...
+Supongo que tendremos que encontrar algo por aquボ.
 
 [msg MSG_009 [Yosuke]]
-夷Cebo para los peces? 夷Te refieres a algo como gusanos...? 夷D吋nde los vamos a conseguir?
+メCebo para los peces? メTe refieres a algo como gusanos...? メDポnde los vamos a conseguir?
 
 [msg MSG_010 [Haru]]
-Oh, he escuchado que los gusanos se esconden tras montones de hojas h雨medas.
+Oh, he escuchado que los gusanos se esconden tras montones de hojas hマmedas.
 
 [msg MSG_011 [Chie]]
-斡Eeek!
+ムEeek!
 
 [msg MSG_012 [Ann]]
-T-Ten胤as que decir justo ese sitio...
+T-Tenボas que decir justo ese sitio...
 
 [msg MSG_013 [P4 Hero]]
-Hm... 夷Hojas h雨medas...?
+Hm... メHojas hマmedas...?
 Muy bien, encontremos algunas y consigamos cebo.
 

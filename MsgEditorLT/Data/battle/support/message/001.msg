@@ -8,16 +8,16 @@ No podemos perder.
 ＜声Of＞大丈夫、絶対L勝Eぞ！
 
 [msg BTL_MES_001_003]
-Un FOE... Lo mejor ser胤a retirarnos.
+Un FOE... Lo mejor serボa retirarnos.
 
 [msg BTL_MES_001_004]
 ＜声Of＞無理P禁物AK…
 
 [msg BTL_MES_001_005]
-Es un FOE, pero tal vez podamos con 姻l...
+Es un FOE, pero tal vez podamos con 〒l...
 
 [msg BTL_MES_001_006]
-Una Sombra rara. 斡Es nuestra oportunidad!
+Una Sombra rara. ムEs nuestra oportunidad!
 
 [msg BTL_MES_001_007]
 ＜声Of＞Kp、最初L狙うか…！
@@ -32,7 +32,7 @@ Una Sombra rara. 斡Es nuestra oportunidad!
 ＜声Of＞KrbJ… あqがIう、山岸さz
 
 [msg BTL_MES_001_011]
-El enemigo parece fuerte... Podr胤a ser un problema.
+El enemigo parece fuerte... Podrボa ser un problema.
 
 [msg BTL_MES_001_012]
 ＜声Of＞戦うか、そsIi… Jうすr？
@@ -44,28 +44,28 @@ Esa es nueva... Encontremos su debilidad primero.
 ＜声Of＞ああ、色々試しGfoう
 
 [msg BTL_MES_001_015]
-斡De acuerdo, manteng茨monos alerta!
+ムDe acuerdo, mantengホmonos alerta!
 
 [msg BTL_MES_001_016]
 ＜声Of＞ああ、いくぞ！
 
 [msg BTL_MES_001_017]
-Terminemos esto r茨pido...
+Terminemos esto rホpido...
 
 [msg BTL_MES_001_018]
 ＜声Of＞悪いが手加減PしKい
 
 [msg BTL_MES_001_019]
-Parece que algo cambi吋... 夷Verdad?
+Parece que algo cambiポ... メVerdad?
 
 [msg BTL_MES_001_020]
-＜声Of＞マズ姻状況AK…
+＜声Of＞マズ〒状況AK…
 
 [msg BTL_MES_001_021]
 ＜声Of＞くD、Jうすr？
 
 [msg BTL_MES_001_022]
-斡Argh...! Esto no se ve bien.
+ムArgh...! Esto no se ve bien.
 
 [msg BTL_MES_001_023]
 ＜声Of＞fzK、大丈夫か？
@@ -113,7 +113,7 @@ Parece que algo cambi吋... 夷Verdad?
 ＜声Of＞4ミー
 
 [msg BTL_MES_001_038]
-＜声Of＞威姻/スさz、大丈夫か？
+＜声Of＞ミ〒/スさz、大丈夫か？
 
 [msg BTL_MES_001_039]
 ＜声Of＞天田、大丈夫か？
@@ -125,13 +125,13 @@ Parece que algo cambi吋... 夷Verdad?
 ＜声Of＞荒垣さzが危険AK…
 
 [msg BTL_MES_001_042]
-＜声Of＞フ隠ローy考えKいIK
+＜声Of＞フワローy考えKいIK
 
 [msg BTL_MES_001_043]
-＜声Of＞ジョー吋ー、しDかqしt！
+＜声Of＞ジョーポー、しDかqしt！
 
 [msg BTL_MES_001_044]
-＜声Of＞ス吋ル、しDかqしt！
+＜声Of＞スポル、しDかqしt！
 
 [msg BTL_MES_001_045]
 ＜声Of＞パンサー、大丈夫か？
@@ -140,10 +140,10 @@ Parece que algo cambi吋... 夷Verdad?
 ＜声Of＞モ)、しDかqしt！
 
 [msg BTL_MES_001_047]
-＜声Of＞フ隠7クス、しDかqしt！
+＜声Of＞フワ7クス、しDかqしt！
 
 [msg BTL_MES_001_048]
-＜声Of＞ク姻ーン、大丈夫か？
+＜声Of＞ク〒ーン、大丈夫か？
 
 [msg BTL_MES_001_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Parece que algo cambi吋... 夷Verdad?
 ＜声Of＞ノワール、大丈夫か？
 
 [msg BTL_MES_001_051]
-＜声Of＞クロ胤、しDかqしt！
+＜声Of＞クロボ、しDかqしt！
 
 [msg BTL_MES_001_052]
 ＜声Of＞ああ、そうしoう…！
 
 [msg BTL_MES_001_053]
-斡Es nuestra oportunidad! 斡Vamos!
+ムEs nuestra oportunidad! ムVamos!
 
 [msg BTL_MES_001_054]
 ＜声Of＞ああ、こO調子Hいくぞ…！
 
 [msg BTL_MES_001_055]
-夷Deber胤a tomarla?
+メDeberボa tomarla?
 
 [msg BTL_MES_001_056]
-Un Relevo podr胤a cambiar esto...
+Un Relevo podrボa cambiar esto...
 
 [msg BTL_MES_001_057]
-夷Es mi turno?
+メEs mi turno?
 
 [msg BTL_MES_001_058]
 ＜声Of＞4ミー
@@ -215,7 +215,7 @@ Un Relevo podr胤a cambiar esto...
 ＜声Of＞4ミー
 
 [msg BTL_MES_001_072]
-＜声Of＞思う存分LkDGくs、威姻/スさz！
+＜声Of＞思う存分LkDGくs、ミ〒/スさz！
 
 [msg BTL_MES_001_073]
 ＜声Of＞天田、任せGiいいか？
@@ -230,10 +230,10 @@ Un Relevo podr胤a cambiar esto...
 ＜声Of＞ああ、頼zAぞ！
 
 [msg BTL_MES_001_077]
-＜声Of＞頼iしいK、ジョー吋ー
+＜声Of＞頼iしいK、ジョーポー
 
 [msg BTL_MES_001_078]
-＜声Of＞絶好調AK、ス吋ル！
+＜声Of＞絶好調AK、スポル！
 
 [msg BTL_MES_001_079]
 ＜声Of＞パンサー、eかせた！
@@ -242,10 +242,10 @@ Un Relevo podr胤a cambiar esto...
 ＜声Of＞モ)、かDこいいぞ
 
 [msg BTL_MES_001_081]
-＜声Of＞kr気AK、フ隠7クス！
+＜声Of＞kr気AK、フワ7クス！
 
 [msg BTL_MES_001_082]
-＜声Of＞ク姻ーン、頼iしいぞ！
+＜声Of＞ク〒ーン、頼iしいぞ！
 
 [msg BTL_MES_001_083]
 ＜声Of＞4ミー
@@ -254,7 +254,7 @@ Un Relevo podr胤a cambiar esto...
 ＜声Of＞kDGくs、ノワール！
 
 [msg BTL_MES_001_085]
-＜声Of＞クロ胤、頼zA！
+＜声Of＞クロボ、頼zA！
 
 [msg BTL_MES_001_086]
 Lo siento, pero no puedo contenerme.

@@ -1,7 +1,7 @@
 [sel GOTO_DUNGEON_YESNO top]
-S胤
+Sボ
 No
 
 [msg GOTO_DUNGEON_IN]
-夷Entrar al laberinto?
+メEntrar al laberinto?
 

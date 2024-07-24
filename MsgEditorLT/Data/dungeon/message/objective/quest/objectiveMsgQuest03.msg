@@ -8,5 +8,5 @@ Comprueba las 3 ubicaciones restantes
 Comprueba las 2 ubicaciones restantes
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-Comprueba la 雨ltima ubicaci吋n
+Comprueba la マltima ubicaciポn
 

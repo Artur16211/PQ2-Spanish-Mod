@@ -1,8 +1,8 @@
 [msg MSG_000 [Futaba]]
-斡Bien, parece que ya no hay moros en la[n]costa!
-Parece que nos estamos acostumbrando, a[n]comparaci吋n de cuando empezamos.
+ムBien, parece que ya no hay moros en la[n]costa!
+Parece que nos estamos acostumbrando, a[n]comparaciポn de cuando empezamos.
 
 [msg MSG_001 [Ann]]
-斡S胤, creo que estoy recuperando mi[n]forma!
-斡Sigamos as胤 y encontremos a Queen y a[n]Noir!
+ムSボ, creo que estoy recuperando mi[n]forma!
+ムSigamos asボ y encontremos a Queen y a[n]Noir!
 

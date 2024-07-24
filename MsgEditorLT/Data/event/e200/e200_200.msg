@@ -1,60 +1,60 @@
 [msg MSG_000 [Chie]]
-Hemos llegado a una nueva zona... 夷Est茨[n]Yosuke por aqu胤?
+Hemos llegado a una nueva zona... メEstホ[n]Yosuke por aquボ?
 
 [msg MSG_001 [Rise]]
 Mmm... Lo siento, parece que no puedo[n]encontrarlo por mi cuenta...
 
 [msg MSG_002 [Naoto]]
-No es necesario que te disculpes. Despu姻s de[n]todo, el trabajo de campo tambi姻n es parte[n]vital de una investigaci吋n.
+No es necesario que te disculpes. Despu〒s de[n]todo, el trabajo de campo tambi〒n es parte[n]vital de una investigaciポn.
 
 [msg MSG_003 [Yosukesaurio]]
-斡Oye, oye! 夷Puedo hacerles algunas[n]preguntas ahora?
-斡Despu姻s de todo, la raz吋n por la que[n]les ped胤 que vinieran es porque tengo[n]tanta curiosidad por los humanos!
+ムOye, oye! メPuedo hacerles algunas[n]preguntas ahora?
+ムDespu〒s de todo, la razポn por la que[n]les pedボ que vinieran es porque tengo[n]tanta curiosidad por los humanos!
 
 [msg MSG_004 [Makoto]]
-夷Por qu姻 tan curioso?
+メPor qu〒 tan curioso?
 
 [msg MSG_005 [Yosukesaurio]]
 Los humanos son los que construyeron[n]todas las instalaciones de esta isla...
-Me obsesion姻 mucho leyendo estos[n]"libros" en una sala que encontr姻[n]llamada "Laboratorio de Investigaci吋n".
+Me obsesion〒 mucho leyendo estos[n]"libros" en una sala que encontr〒[n]llamada "Laboratorio de Investigaciポn".
 
 [sel SEL_006 top]
-夷Puedes leer?
-夷Qu姻 tipo de libros?
+メPuedes leer?
+メQu〒 tipo de libros?
 Eres un verdadero geniosaurio.
 
 [msg MSG_007 [Yosukesaurio]]
-Je, je, je, s胤... Aunque, realmente no[n]pude entender de qu姻 se trataban.
+Je, je, je, sボ... Aunque, realmente no[n]pude entender de qu〒 se trataban.
 
 [msg MSG_008 [Yosukesaurio]]
-Veamos... Creo que fue algo sobreee...[n]夷ADN?
-Bueno, no pod胤a entenderlo.
+Veamos... Creo que fue algo sobreee...[n]メADN?
+Bueno, no podボa entenderlo.
 
 [msg MSG_009 [Ann]]
-Aun as胤... 夷Puedes leer?
+Aun asボ... メPuedes leer?
 
 [msg MSG_010 [Yosukesaurio]]
-夷Un genio? No es tan asombroso...
-Adem茨s, para ser honesto, no entend胤a de[n]qu姻 se trataba.
+メUn genio? No es tan asombroso...
+Ademホs, para ser honesto, no entendボa de[n]qu〒 se trataba.
 
 [msg MSG_011 [Ann]]
-Aun as胤... 夷Puedes leer?
+Aun asボ... メPuedes leer?
 
 [msg MSG_012 [Yusuke]]
-Considerando c吋mo es capaz de hablar,[n]supongo que su alfabetizaci吋n no es tan[n]extra隠a...
+Considerando cポmo es capaz de hablar,[n]supongo que su alfabetizaciポn no es tan[n]extraワa...
 
 [msg MSG_013 [Yosukesaurio]]
-Oh, s胤, 斡tambi姻n eso! 斡S姻 acerca de esa[n]cosa misteriosa que se mueve con[n]electricidad!
-Lo llamas m茨quina, 夷verdad? 夷Tambi姻n[n]hacen cosas as胤?
+Oh, sボ, ムtambi〒n eso! ムS〒 acerca de esa[n]cosa misteriosa que se mueve con[n]electricidad!
+Lo llamas mホquina, メverdad? メTambi〒n[n]hacen cosas asボ?
 
 [msg MSG_014 [Yukiko]]
-Eso ser胤a imposible para m胤. Creo que[n]Naoto podr胤a ser capaz de hacerlo.
+Eso serボa imposible para mボ. Creo que[n]Naoto podrボa ser capaz de hacerlo.
 
 [msg MSG_015 [Morgana]]
-斡Tambi姻n puedo hacer cosas simples!
+ムTambi〒n puedo hacer cosas simples!
 
 [msg MSG_016 [Yosukesaurio]]
-斡夷En serio?! 斡Eso es incre胤ble!
+ムメEn serio?! ムEso es increボble!
 
 [msg MSG_017 [Kanji]]
 Los otros dinosaurios son silenciosos[n]como ratones, pero este no cierra la[n]boca.
@@ -63,51 +63,51 @@ Los otros dinosaurios son silenciosos[n]como ratones, pero este no cierra la[n]b
 Supongo que tiene sentido... Tiene la[n]misma cara que Yosuke.
 
 [msg MSG_019 [Teddie]]
-畏l se lleva muy f茨cilmente, exactamente[n]como nuestro propio Yosuke.
+※l se lleva muy fホcilmente, exactamente[n]como nuestro propio Yosuke.
 
 [msg MSG_020 [Yosukesaurio]]
-Y ustedes pueden comer carne y hierba,[n]夷verdad?
+Y ustedes pueden comer carne y hierba,[n]メverdad?
 
 [msg MSG_021 [Yukiko]]
-Bueno, solo comes carne, 夷verdad, Chie?
+Bueno, solo comes carne, メverdad, Chie?
 
 [msg MSG_022 [Chie]]
-A-S胤. 斡No hay espacio para comer[n]verduras aqu胤!
+A-Sボ. ムNo hay espacio para comer[n]verduras aquボ!
 
 [msg MSG_023 [Yosukesaurio]]
-夷Eh? 夷Eso significa que los humanos son[n]solo carn胤voros?
+メEh? メEso significa que los humanos son[n]solo carnボvoros?
 
 [sel SEL_024 top]
-S胤... Lo somos...
-No, tambi姻n comemos verduras.
+Sボ... Lo somos...
+No, tambi〒n comemos verduras.
 Prefiero carbohidratos.
 
 [msg MSG_025 [Makoto]]
-斡Oye, no lo asustes as胤! Los humanos[n]b茨sicamente comen cualquier cosa,[n]dependiendo de sus preferencias.
+ムOye, no lo asustes asボ! Los humanos[n]bホsicamente comen cualquier cosa,[n]dependiendo de sus preferencias.
 
 [msg MSG_026 [Yusuke]]
-Por supuesto. La carne y las verduras[n]brillan m茨s cuando se combinan con arroz[n]para hacer una comida m茨s llena.
-El equilibrio es vital tanto para la comida[n]como para el arte... 斡A diferencia de algunos,[n]comer姻 cualquier cosa para equilibrar mi[n]dieta!
+Por supuesto. La carne y las verduras[n]brillan mホs cuando se combinan con arroz[n]para hacer una comida mホs llena.
+El equilibrio es vital tanto para la comida[n]como para el arte... ムA diferencia de algunos,[n]comer〒 cualquier cosa para equilibrar mi[n]dieta!
 
 [msg MSG_027 [Yosukesaurio]]
-夷Qu姻 quieres decir? Todos son humanos,[n]as胤 que... 夷No es lo mismo?
+メQu〒 quieres decir? Todos son humanos,[n]asボ que... メNo es lo mismo?
 
 [msg MSG_028 [Haru]]
-Bueno, todos tienen sus propios gustos.[n]Algunas personas incluso se negar茨n a[n]comer algo a menos que les guste.
-Por supuesto, superar los alimentos que[n]te disgustan tambi姻n es importante para[n]el crecimiento.
+Bueno, todos tienen sus propios gustos.[n]Algunas personas incluso se negarホn a[n]comer algo a menos que les guste.
+Por supuesto, superar los alimentos que[n]te disgustan tambi〒n es importante para[n]el crecimiento.
 
 [msg MSG_029 [Yosukesaurio]]
 Uh... No lo entiendo...
 
 [msg MSG_030 [Ryuji]]
-Significa es que podemos elegir qu姻[n]carnes o verduras comemos.
+Significa es que podemos elegir qu〒[n]carnes o verduras comemos.
 
 [msg MSG_031 [Yosukesaurio]]
-As胤 que los humanos pueden decidir cosas[n]por s胤 mismos...
+Asボ que los humanos pueden decidir cosas[n]por sボ mismos...
 
 [msg MSG_032 [P3 Fem Protag]]
-Perdona, 夷dijiste algo?
+Perdona, メdijiste algo?
 
 [msg MSG_033 [Yosukesaurio]]
-斡No, nada! 斡Vamos, sigamos!
+ムNo, nada! ムVamos, sigamos!
 

@@ -1,14 +1,14 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Busca en los Puntos del Tesoro!
+ムBusca en los Puntos del Tesoro!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Ve m茨s all茨 del 雨ltimo punto de[n]teletransportaci吋n.
+Ve mホs allホ del マltimo punto de[n]teletransportaciポn.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
-Ve m茨s all茨 de los 2 puntos de[n]teletransportaci吋n.
+Ve mホs allホ de los 2 puntos de[n]teletransportaciポn.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_3]
-Ve m茨s all茨 de los 3 puntos de[n]teletransportaci吋n.
+Ve mホs allホ de los 3 puntos de[n]teletransportaciポn.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
 Encuentra otros 4.

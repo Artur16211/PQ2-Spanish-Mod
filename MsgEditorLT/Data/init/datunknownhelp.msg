@@ -2,88 +2,88 @@
 ブランク（※使用禁止）
 
 [msg material_D01]
-Un anillo que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
+Un anillo que contiene un poder[n]misterioso. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D02]
-Un broche que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
+Un broche que contiene un poder[n]misterioso. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D03]
-Un anillo con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un anillo con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D04]
-Un broche con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un broche con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D05]
 未鑑定品0xD05１行目 未鑑定品0xD05２行目
 
 [msg material_D06]
-Una diadema con un tenue resplandor[n]enigm茨tico. Eval雨ala en la tienda para[n]conocer su efecto.
+Una diadema con un tenue resplandor[n]enigmホtico. Evalマala en la tienda para[n]conocer su efecto.
 
 [msg material_D07]
-Un alfiler con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un alfiler con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D08]
-Una diadema con un tenue resplandor[n]enigm茨tico. Eval雨ala en la tienda para[n]conocer su efecto.
+Una diadema con un tenue resplandor[n]enigmホtico. Evalマala en la tienda para[n]conocer su efecto.
 
 [msg material_D09]
-Un alfiler con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un alfiler con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D0A]
-Un accesorio con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un accesorio con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D0B]
 未鑑定品0xD0B１行目 未鑑定品0xD0B２行目
 
 [msg material_D0C]
-Una banda que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
+Una banda que contiene un poder[n]misterioso. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D0D]
-Un amuleto que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
+Un amuleto que contiene un poder[n]misterioso. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D0E]
-Una banda con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Una banda con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D0F]
-Un amuleto con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un amuleto con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D10]
-Un accesorio con un resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un accesorio con un resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D11]
 未鑑定品0xD11１行目 未鑑定品0xD11２行目
 
 [msg material_D12]
-Un parche ocular que contiene un poder[n]misterioso. Eval雨alo en la tienda para[n]conocer su efecto.
+Un parche ocular que contiene un poder[n]misterioso. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D13]
-Una cruz ansada que contiene poderes[n]misteriosos. Eval雨ala en la tienda para[n]conocer su efecto.
+Una cruz ansada que contiene poderes[n]misteriosos. Evalマala en la tienda para[n]conocer su efecto.
 
 [msg material_D14]
-Un parche ocular con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un parche ocular con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D15]
-Una cruz ansada con un tenue resplandor[n]enigm茨tico. Eval雨ala en la tienda para[n]conocer su efecto.
+Una cruz ansada con un tenue resplandor[n]enigmホtico. Evalマala en la tienda para[n]conocer su efecto.
 
 [msg material_D16]
-Un accesorio con un resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un accesorio con un resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D17]
 未鑑定品0xD17１行目 未鑑定品0xD17２行目
 
 [msg material_D18]
-Un magatama que contiene poderes[n]misteriosos. Eval雨alo en la tienda para[n]conocer su efecto.
+Un magatama que contiene poderes[n]misteriosos. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D19]
-Un orbe que contiene poderes[n]misteriosos. Eval雨alo en la tienda para[n]conocer su efecto.
+Un orbe que contiene poderes[n]misteriosos. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D1A]
-Un magatama con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un magatama con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D1B]
-Un orbe con un tenue resplandor[n]enigm茨tico. Eval雨alo en la tienda para[n]conocer su efecto.
+Un orbe con un tenue resplandor[n]enigmホtico. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D1C]
-Un accesorio con un tenue resplandor[n]divino. Eval雨alo en la tienda para[n]conocer su efecto.
+Un accesorio con un tenue resplandor[n]divino. Evalマalo en la tienda para[n]conocer su efecto.
 
 [msg material_D1D]
 未鑑定品0xD1D１行目 未鑑定品0xD1D２行目

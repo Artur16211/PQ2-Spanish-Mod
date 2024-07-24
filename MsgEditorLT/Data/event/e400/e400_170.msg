@@ -1,126 +1,126 @@
 [msg MSG_000 [Yukari]]
-夷Q-qu姻 fue eso?
+メQ-qu〒 fue eso?
 
 [msg MSG_001 [Akechi]]
-夷Podr胤a haber sido un recuerdo de[n]Hikari? Fue mucho m茨s sombr胤o que el[n]tr茨iler...
+メPodrボa haber sido un recuerdo de[n]Hikari? Fue mucho mホs sombrボo que el[n]trホiler...
 
 [msg MSG_002 [Rise]]
-夷Ad吋nde fueron esa profesora y sus[n]alumnos? 夷La Hikari del pasado tambi姻n[n]desapareci吋?
+メAdポnde fueron esa profesora y sus[n]alumnos? メLa Hikari del pasado tambi〒n[n]desapareciポ?
 
 [msg MSG_003 [Koromaru]]
-斡Arf arf!
+ムArf arf!
 
 [msg MSG_004 [Hikari]]
 Ah... Eso...
 
 [msg MSG_005 [P3 Fem Protag]]
-斡Hikari!
+ムHikari!
 
 [msg MSG_006 [Ann]]
-斡Hikari! 斡Qu姻 alivio, est茨s bien!
+ムHikari! ムQu〒 alivio, estホs bien!
 
 [msg MSG_007 [Teddie]]
-夷Est茨s herida, Hikarin?
+メEstホs herida, Hikarin?
 
 [msg MSG_008 [Hikari]]
 No... estoy bien.
 
 [msg MSG_009 [Mitsuru]]
-Siento interrumpir, pero 夷a d吋nde fue[n]Doe? Te secuestr吋 y te trajo aqu胤,[n]夷verdad?
+Siento interrumpir, pero メa dポnde fue[n]Doe? Te secuestrポ y te trajo aquボ,[n]メverdad?
 
 [msg MSG_010 [Hikari]]
 Oh... Ah, eso no es...
 Yo... Yo vine sola.
 
 [msg MSG_011 [Futaba]]
-斡夷Q-qu姻?! 夷No fue Doe?
+ムメQ-qu〒?! メNo fue Doe?
 
 [msg MSG_012 [Hikari]]
-Mientras ve胤a las pel胤culas que[n]cambiaron, empec姻 a recordar, poco a[n]poco...
-Todas las cosas que hab胤a reprimido y[n]olvidado...
-Todo empez吋 a salir dentro de m胤, y[n]despu姻s de recordar esas cosas...
-...Sent胤 que necesitaba cambiar.
+Mientras veボa las pelボculas que[n]cambiaron, empec〒 a recordar, poco a[n]poco...
+Todas las cosas que habボa reprimido y[n]olvidado...
+Todo empezポ a salir dentro de mボ, y[n]despu〒s de recordar esas cosas...
+...Sentボ que necesitaba cambiar.
 
 [msg MSG_013 [Naoto]]
-夷Entonces decidiste entrar en la[n]pel胤cula por ti misma?
+メEntonces decidiste entrar en la[n]pelボcula por ti misma?
 
 [msg MSG_014 [Hikari]]
 ...Doe me dijo que lo hiciera.
-Dijo que no puedo seguir siendo parte[n]del p雨blico para siempre... Que necesito[n]superar esto...
-Cuando me dijo eso, mi deseo de venir[n]aqu胤 solo se hizo m茨s fuerte... As胤[n]que...
+Dijo que no puedo seguir siendo parte[n]del pマblico para siempre... Que necesito[n]superar esto...
+Cuando me dijo eso, mi deseo de venir[n]aquボ solo se hizo mホs fuerte... Asボ[n]que...
 
 [sel SEL_015 top]
-No seas tan imprudente la pr吋xima vez.
-夷Seguro que no est茨s herida?
-Nos alegra que est姻s bien.
+No seas tan imprudente la prポxima vez.
+メSeguro que no estホs herida?
+Nos alegra que est〒s bien.
 
 [msg MSG_016 [Hikari]]
-Lo siento... Pero sent胤 que ten胤a que[n]venir aqu胤...
+Lo siento... Pero sentボ que tenボa que[n]venir aquボ...
 
 [msg MSG_017 [Yukiko]]
-夷Est茨s herida? 夷Te han atacado mientras[n]estabas aqu胤?
+メEstホs herida? メTe han atacado mientras[n]estabas aquボ?
 
 [msg MSG_018 [Hikari]]
-No, estoy bien... Pero no estoy segura[n]de por qu姻...
+No, estoy bien... Pero no estoy segura[n]de por qu〒...
 
 [msg MSG_019 [Hikari]]
-Mmhm, No he estado en peligro desde que[n]llegu姻 aqu胤...
+Mmhm, No he estado en peligro desde que[n]llegu〒 aquボ...
 
 [msg MSG_020 [Hikari]]
-Ah... Afortunadamente, no he encontrado[n]ning雨n peligro desde que llegu姻 aqu胤...
+Ah... Afortunadamente, no he encontrado[n]ningマn peligro desde que llegu〒 aquボ...
 
 [msg MSG_021 [Yukiko]]
-Ya veo. Estoy aliviado de que no est姻s[n]herida.
+Ya veo. Estoy aliviado de que no est〒s[n]herida.
 
 [msg MSG_022 [Futaba]]
-Oh, estoy tan contenta de que est姻s[n]bien, Hikari... 斡Siento que eso me quit吋[n]unos a隠os de vida!
+Oh, estoy tan contenta de que est〒s[n]bien, Hikari... ムSiento que eso me quitポ[n]unos aワos de vida!
 
 [msg MSG_023 [Hikari]]
-Futaba, siento haberte preocupado... Y[n]los dem茨s tambi姻n.
+Futaba, siento haberte preocupado... Y[n]los demホs tambi〒n.
 
 [msg MSG_024 [P4 Hero]]
-Entonces, ese musical que vimos, 夷eras[n]t雨...?
+Entonces, ese musical que vimos, メeras[n]tマ...?
 
 [msg MSG_025 [Hikari]]
-Mmhm... La historia est茨 basada en mis[n]recuerdos.
-Fue en forma de musical, pero es lo que[n]pas吋... fue casi exactamente igual a mi[n]pasado.
+Mmhm... La historia estホ basada en mis[n]recuerdos.
+Fue en forma de musical, pero es lo que[n]pasポ... fue casi exactamente igual a mi[n]pasado.
 
 [msg MSG_026 [Yusuke]]
-As胤 que lo que vimos fue, biogr茨fico...
+Asボ que lo que vimos fue, biogrホfico...
 
 [msg MSG_027 [Ryuji]]
-斡夷Qu姻 demonios pasaba con esa maestra?![n]斡Eso fue peor que malo! 斡Deber胤an[n]haberla despedido por eso!
+ムメQu〒 demonios pasaba con esa maestra?![n]ムEso fue peor que malo! ムDeberボan[n]haberla despedido por eso!
 
 [msg MSG_028 [Akechi]]
 Es verdad, eso fue imperdonable, pero al[n]menos siento como si las piezas del[n]rompecabezas encajaran ahora.
 
 [msg MSG_029 [Naoto]]
-Conceptos como "h姻roe" y "profesor"...[n]"Autoridad absoluta". La 雨ltima palabra[n]clave ser胤a...
+Conceptos como "h〒roe" y "profesor"...[n]"Autoridad absoluta". La マltima palabra[n]clave serボa...
 
 [sel SEL_030 top]
-Regla de la mayor胤a.
+Regla de la mayorボa.
 "Conejo".
 "Robot".
 
 [msg MSG_031 [Akechi]]
-Eso es de una pel胤cula diferente. La[n]pieza final para ese rompecabezas es[n]"conejo".
+Eso es de una pelボcula diferente. La[n]pieza final para ese rompecabezas es[n]"conejo".
 
 [msg MSG_032 [Akechi]]
 Exacto.
 
 [msg MSG_033 [Ann]]
-Espera... 夷Est茨n hablando de[n]Kamoshidaman? 夷Y cu茨ndo se transform吋 en[n]un conejo?
+Espera... メEstホn hablando de[n]Kamoshidaman? メY cuホndo se transformポ en[n]un conejo?
 
 [msg MSG_034 [Futaba]]
-S胤. Kamoshidaman fue creado a partir de[n]los recuerdos de Hikari.
+Sボ. Kamoshidaman fue creado a partir de[n]los recuerdos de Hikari.
 
 [msg MSG_035 [Yusuke]]
 Esa maestra de primaria era la[n]"autoridad absoluta" de su clase.
-Esto describe perfectamente a Kamoshidaman[n]tambi姻n. Nadie debe haber podido desafiarlo,[n]incluso cuando estaba equivocado.
+Esto describe perfectamente a Kamoshidaman[n]tambi〒n. Nadie debe haber podido desafiarlo,[n]incluso cuando estaba equivocado.
 
 [msg MSG_036 [Makoto]]
-Con el incidente del conejo, Hikari fue[n]injustamente rega隠ada por una maestra,[n]alguien con autoridad absoluta.
-Y el conejo, el s胤mbolo del trauma de[n]Hikari, tambi姻n apareci吋 en la[n]pel胤cula...
+Con el incidente del conejo, Hikari fue[n]injustamente regaワada por una maestra,[n]alguien con autoridad absoluta.
+Y el conejo, el sボmbolo del trauma de[n]Hikari, tambi〒n apareciポ en la[n]pelボcula...
 
 [msg MSG_037 [Hikari]]
 ...
@@ -130,24 +130,24 @@ Ahora que lo pienso, esos ciudadanos que[n]admiraban a Kamoshidaman... Deben hab
 No, quienes no pudieron hablarle a la[n]maestra por su autoridad.
 
 [msg MSG_039 [Ryuji]]
-Una pel胤cula de mierda nacida de[n]recuerdos de mierda, 夷eh? No me extra隠a[n]que fuera tan asqueroso.
+Una pelボcula de mierda nacida de[n]recuerdos de mierda, メeh? No me extraワa[n]que fuera tan asqueroso.
 
 [msg MSG_040 [Haru]]
-Entonces, pero esta l吋gica se aplica a[n]m茨s pel胤culas, adem茨s de la de[n]Kamoshidaman, 夷no?
+Entonces, pero esta lポgica se aplica a[n]mホs pelボculas, ademホs de la de[n]Kamoshidaman, メno?
 
 [msg MSG_041 [Makoto]]
-Tienes raz吋n... Lo mismo podr胤a decirse[n]acerca de A.I.G.I.S. o Junesic Land...
+Tienes razポn... Lo mismo podrボa decirse[n]acerca de A.I.G.I.S. o Junesic Land...
 Creo que todas han estado conectadas a[n]los recuerdos de Hikari, de alguna forma[n]u otra.
 
 [msg MSG_042 [Shinjiro]]
-Eso significa que esta pel胤cula con[n]t胤tulo ilegible tambi姻n est茨 relacionada[n]con sus recuerdos.
+Eso significa que esta pelボcula con[n]tボtulo ilegible tambi〒n estホ relacionada[n]con sus recuerdos.
 
 [msg MSG_043 [Akihiko]]
-Mm... Siento que poco a poco estamos[n]empezando a ver el porqu姻 de este mundo[n]de pel胤culas.
+Mm... Siento que poco a poco estamos[n]empezando a ver el porqu〒 de este mundo[n]de pelボculas.
 
 [msg MSG_044 [Naoto]]
-夷Por qu姻 naci吋 este mundo para empezar?
-El pasado doloroso de alguien no explica[n]la raz吋n detr茨s de todo este mundo.
+メPor qu〒 naciポ este mundo para empezar?
+El pasado doloroso de alguien no explica[n]la razポn detrホs de todo este mundo.
 
 [msg MSG_045 [Mitsuru]]
 Hikari, se te ocurre algo?
@@ -156,75 +156,75 @@ Hikari, se te ocurre algo?
 Lo siento. No puedo pensar en nada...
 
 [msg MSG_047 [Morgana]]
-Un mundo que refleja el coraz吋n de una[n]persona... Suena como algo con lo que[n]tenemos experiencia.
+Un mundo que refleja el corazポn de una[n]persona... Suena como algo con lo que[n]tenemos experiencia.
 
 [sel SEL_048 top]
-夷Qu姻 quieres decir?
+メQu〒 quieres decir?
 Un mundo cognitivo...
 
 [msg MSG_049 [Morgana]]
-斡Oh, vamos! 斡Estoy hablando del mundo[n]cognitivo! 夷Realmente olvidaste todo[n]eso?
-Bueno, no podemos usar el Navegador[n]aqu胤, as胤 que esto no ser茨 exactamente[n]lo mismo...
+ムOh, vamos! ムEstoy hablando del mundo[n]cognitivo! メRealmente olvidaste todo[n]eso?
+Bueno, no podemos usar el Navegador[n]aquボ, asボ que esto no serホ exactamente[n]lo mismo...
 
 [msg MSG_050 [Morgana]]
-Cierto. Pero no podemos usar el[n]navegador Metaverse aqu胤, as胤 que esto[n]no parece ser exactamente lo mismo...
+Cierto. Pero no podemos usar el[n]navegador Metaverse aquボ, asボ que esto[n]no parece ser exactamente lo mismo...
 
 [msg MSG_051 [Yosuke]]
-No estoy seguro de por qu姻, pero este lugar se[n]siente bastante similar al mundo de la[n]televisi吋n en el que peleamos.
+No estoy seguro de por qu〒, pero este lugar se[n]siente bastante similar al mundo de la[n]televisiポn en el que peleamos.
 
 [msg MSG_052 [Kanji]]
-Oh, s胤, ahora que lo mencionas, se[n]siente igual.
+Oh, sボ, ahora que lo mencionas, se[n]siente igual.
 
 [msg MSG_053 [Yukiko]]
-As胤 que, en esencia, las pel胤culas se[n]basan en las experiencias traumatizantes[n]de Hikari, 夷verdad?
-Entonces necesitamos reconsiderar el[n]objetivo de Doe, aunque 姻l sigue siendo[n]un completo misterio para nosotros...
+Asボ que, en esencia, las pelボculas se[n]basan en las experiencias traumatizantes[n]de Hikari, メverdad?
+Entonces necesitamos reconsiderar el[n]objetivo de Doe, aunque 〒l sigue siendo[n]un completo misterio para nosotros...
 
 [msg MSG_054 [Yukari]]
-Doe le dijo a Hikari: "Necesitas superar[n]esto", 夷verdad?
-Considerando eso, estoy empezando a[n]pensar que 姻l no es realmente el malo[n]despu姻s de todo...
+Doe le dijo a Hikari: "Necesitas superar[n]esto", メverdad?
+Considerando eso, estoy empezando a[n]pensar que 〒l no es realmente el malo[n]despu〒s de todo...
 
 [msg MSG_055 [Hikari]]
 ...
 
 [msg MSG_056 [Junpei]]
-夷Est茨s bien, Hikari? 夷Te sientes mal?
+メEstホs bien, Hikari? メTe sientes mal?
 
 [msg MSG_057 [Hikari]]
-No es eso. Yo solo... Sigo pensando en[n]por qu姻 siempre soy as胤...
-Es mi problema, as胤 que deber胤a ser la[n]que lo resuelva...
-Pero al final, causo tantos problemas[n]para todos... Si soy el problema,[n]entonces tal vez deber胤a...
+No es eso. Yo solo... Sigo pensando en[n]por qu〒 siempre soy asボ...
+Es mi problema, asボ que deberボa ser la[n]que lo resuelva...
+Pero al final, causo tantos problemas[n]para todos... Si soy el problema,[n]entonces tal vez deberボa...
 
 [sel SEL_058 top]
-Te est茨s preocupando demasiado.
-No vemos las cosas as胤.
+Te estホs preocupando demasiado.
+No vemos las cosas asボ.
 No seas tan dura contigo misma.
 
 [msg MSG_059 [Yosuke]]
-S胤, lo que 姻l dijo. Ninguno de nosotros[n]est茨 molesto por eso.
+Sボ, lo que 〒l dijo. Ninguno de nosotros[n]estホ molesto por eso.
 
 [msg MSG_060 [P3 Hero]]
-La idea de que seas un problema para nosotros[n]ni siquiera cruz吋 por mi mente. Todos vinimos[n]aqu胤 porque quer胤amos ayudar.
+La idea de que seas un problema para nosotros[n]ni siquiera cruzポ por mi mente. Todos vinimos[n]aquボ porque querボamos ayudar.
 Espero que nos creas cuando decimos que[n]no pensamos eso de ti.
 
 [msg MSG_061 [Morgana]]
 Cierto, los Ladrones Fantasma estamos[n]destinados a salvar a la gente en[n]problemas.
 
 [msg MSG_062 [P3 Hero]]
-Los miembros de SEES vinieron aqu胤[n]porque quer胤amos rescatarte, lo mismo[n]para el Equipo de Investigaci吋n.
+Los miembros de SEES vinieron aquボ[n]porque querボamos rescatarte, lo mismo[n]para el Equipo de Investigaciポn.
 Espero que nos creas cuando decimos que[n]no pensamos eso de ti.
 
 [msg MSG_063 [Akihiko]]
-S胤, no hay necesidad de culparte por[n]esto. Nadie aqu胤 tiene problema en[n]ayudar.
+Sボ, no hay necesidad de culparte por[n]esto. Nadie aquボ tiene problema en[n]ayudar.
 
 [msg MSG_064 [P3 Hero]]
-La idea de que seas un problema para nosotros[n]ni siquiera cruz吋 por mi mente. Todos vinimos[n]aqu胤 porque quer胤amos ayudar.
+La idea de que seas un problema para nosotros[n]ni siquiera cruzポ por mi mente. Todos vinimos[n]aquボ porque querボamos ayudar.
 Espero que nos creas cuando decimos que[n]no pensamos eso de ti.
 
 [msg MSG_065 [Hikari]]
 Ustedes...
 
 [msg MSG_066 [P3 Fem Protag]]
-Adem茨s, solo hemos llegado tan lejos por[n]qu姻 trabajamos juntos, 夷no crees que[n]somos un equipo?
+Ademホs, solo hemos llegado tan lejos por[n]qu〒 trabajamos juntos, メno crees que[n]somos un equipo?
 
 [msg MSG_067 [Haru]]
 Todos podemos ver realmente que quieres[n]cambiar, Hikari...
@@ -232,19 +232,19 @@ Por eso quiero darte mi fuerza.
 
 [msg MSG_068 [Hikari]]
 Muchas gracias...
-Si no mucho pedir―No... 夷Podr胤an[n]prestarme su fuerza, por favor?
-Para cambiar, y para que todos salgamos[n]de este lugar... 斡Quiero ver el final de[n]esta pel胤cula!
+Si no mucho pedir―No... メPodrボan[n]prestarme su fuerza, por favor?
+Para cambiar, y para que todos salgamos[n]de este lugar... ムQuiero ver el final de[n]esta pelボcula!
 
 [msg MSG_069 [Teddie]]
-斡Totalmente y seguro! Todos opinamos lo[n]mismo, 夷verdad, Yosuke?
+ムTotalmente y seguro! Todos opinamos lo[n]mismo, メverdad, Yosuke?
 
 [msg MSG_070 [Yosuke]]
-夷Por qu姻 me preguntas, idiota? 斡No soy[n]todos! 斡Pero, por supuesto, que estoy[n]dentro!
+メPor qu〒 me preguntas, idiota? ムNo soy[n]todos! ムPero, por supuesto, que estoy[n]dentro!
 
 [msg MSG_071 [Mitsuru]]
 Mm, todos ustedes son personas tan[n]confiables...
-Escapar de este mundo sigue siendo importante,[n]pero hemos llegado hasta aqu胤, vamos a ver[n]esto juntos, hasta el final.
+Escapar de este mundo sigue siendo importante,[n]pero hemos llegado hasta aquボ, vamos a ver[n]esto juntos, hasta el final.
 
 [msg MSG_072 [Ryuji]]
-斡Bien, est茨 decidido! 斡Vamos a[n]adentrarnos en esta pel胤cula y cambiarla[n]completamente!
+ムBien, estホ decidido! ムVamos a[n]adentrarnos en esta pelボcula y cambiarla[n]completamente!
 

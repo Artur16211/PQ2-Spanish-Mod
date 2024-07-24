@@ -1,31 +1,31 @@
 [msg MSG_000 [Ryuji]]
-夷Una jaula? 夷Qu姻 hace algo as胤 en la[n]selva?
+メUna jaula? メQu〒 hace algo asボ en la[n]selva?
 
 [msg MSG_001 [Makoto]]
-夷Recuerdas el tr茨iler de la pel胤cula?[n]Esto parece ser un parque tem茨tico donde[n]las personas pueden ver dinosaurios.
+メRecuerdas el trホiler de la pelボcula?[n]Esto parece ser un parque temホtico donde[n]las personas pueden ver dinosaurios.
 
 [msg MSG_002 [Yusuke]]
 Entonces, estas jaulas son para mantener[n]a los dinosaurios bajo control.
 
 [msg MSG_003 [Akechi]]
-夷Ser茨 posible mover esto? La base parece[n]estar construida para ser rotada. Pero,[n]lo m茨s importante...
-La historia mencion吋 que los humanos[n]abandonaron este lugar hace mucho tiempo, y no[n]parece haber sido usado, recientemente...
+メSerホ posible mover esto? La base parece[n]estar construida para ser rotada. Pero,[n]lo mホs importante...
+La historia mencionポ que los humanos[n]abandonaron este lugar hace mucho tiempo, y no[n]parece haber sido usado, recientemente...
 
 [msg MSG_004 [Ann]]
-Entonces, 夷est茨s diciendo que...[n]adelante, habr茨...
+Entonces, メestホs diciendo que...[n]adelante, habrホ...
 
 [msg MSG_005 [Futaba]]
-Podr胤a haber dinosaurios corriendo por[n]aqu胤, tanto herb胤voros como carn胤voros.
+Podrボa haber dinosaurios corriendo por[n]aquボ, tanto herbボvoros como carnボvoros.
 
 [msg MSG_006 [Ryuji]]
-斡夷Mierda, de verdad?!
+ムメMierda, de verdad?!
 
 [msg MSG_007 [Futaba]]
-No te preocupes. Les avisar姻 si hay[n]peligro cerca.
+No te preocupes. Les avisar〒 si hay[n]peligro cerca.
 
 [msg MSG_008 [Haru]]
 Por favor, Oracle. Contamos contigo.
 
 [msg MSG_009 [Futaba]]
-斡S胤! 斡D姻jamelo a m胤!
+ムSボ! ムD〒jamelo a mボ!
 

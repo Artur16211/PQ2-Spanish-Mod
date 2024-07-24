@@ -1,5 +1,5 @@
 [sel YESNO_SEL top]
-S胤
+Sボ
 No
 
 [sel DEAD_SEL top]
@@ -7,8 +7,8 @@ Continuar
 Volver
 
 [msg BTL_CONTINUE]
-La dificultad actual es SEGURA. 夷Continuar?  
+La dificultad actual es SEGURA. メContinuar?  
 
 [msg BTL_TEAM_DEAD]
-El equipo ha sido eliminado. 夷Continuar batalla?  
+El equipo ha sido eliminado. メContinuar batalla?  
 

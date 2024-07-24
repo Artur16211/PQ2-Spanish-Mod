@@ -16,19 +16,19 @@ Volver
 Cancelar
 
 [msg MSG_000 [Mitsuru]]
-Puede que haya recursos aqu胤.[n]夷Deber胤amos investigar?
+Puede que haya recursos aquボ.[n]メDeberボamos investigar?
 
 [msg MSG_001 [Mitsuru]]
-Entendido. Manteng茨monos alerta.
+Entendido. Mantengホmonos alerta.
 
 [msg MSG_002 [Mitsuru]]
-Correcto. Veamos qu姻 podemos descubrir.
+Correcto. Veamos qu〒 podemos descubrir.
 
 [msg MSG_003 [Mitsuru]]
 Entiendo. Entonces podemos dejarlo por[n]ahora.
 
 [msg MSG_004 [Mitsuru]]
-Eso deber胤a ser todo.
+Eso deberボa ser todo.
 
 [msg MSG_005]
 Hm.
@@ -37,52 +37,52 @@ Hm.
 Bien.
 
 [msg MSG_007]
-No est茨 mal.
+No estホ mal.
 
 [msg MSG_008 [Mitsuru]]
 Honestamente... ya he tenido suficientes[n]sorpresas desagradables. Al menos eso ha[n]terminado.
 
 [msg MSG_009]
-斡Es magn胤fico!
+ムEs magnボfico!
 
 [msg MSG_010]
 Excelente.
 
 [msg MSG_011]
-斡Fant茨stico!
+ムFantホstico!
 
 [msg MSG_012 [Mitsuru]]
-Parece que hemos encontrado un atajo.[n]夷C吋mo procedemos?
+Parece que hemos encontrado un atajo.[n]メCポmo procedemos?
 
 [msg MSG_013 [Mitsuru]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Mitsuru]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Mitsuru]]
 Impasable, parece ser.
 
 [msg MSG_016 [Mitsuru]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Mitsuru]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Mitsuru]]
-夷Hm...? Hay algo peligroso en el aire...
+メHm...? Hay algo peligroso en el aire...
 
 [msg MSG_019 [Mitsuru]]
-Si lo dices as胤... pero mantente alerta.
+Si lo dices asボ... pero mantente alerta.
 
 [msg MSG_020 [Mitsuru]]
-Estoy de acuerdo. Ser胤a la elecci吋n[n]prudente.
+Estoy de acuerdo. Serボa la elecciポn[n]prudente.
 
 [msg MSG_021 [Mitsuru]]
 Un enemigo formidable, sin duda...
 
 [msg MSG_022 [Mitsuru]]
-Siento muchas Sombras cerca. 夷Qu姻[n]hacemos?
+Siento muchas Sombras cerca. メQu〒[n]hacemos?
 
 [msg MSG_023 [Mitsuru]]
 Entonces procedamos con cuidado.
@@ -91,11 +91,11 @@ Entonces procedamos con cuidado.
 De acuerdo. Continuaremos por ahora.
 
 [msg MSG_025 [Mitsuru]]
-Listo. Ya termin吋.
+Listo. Ya terminポ.
 
 [msg MSG_026 [Mitsuru]]
-Esto va al cine. 夷Volvemos?
+Esto va al cine. メVolvemos?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

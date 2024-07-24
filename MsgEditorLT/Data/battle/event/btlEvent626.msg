@@ -1,25 +1,25 @@
 [msg MSG_001 [Ryuji]]
-Tss, siguen llegando... 斡Los eliminaremos uno por uno!
+Tss, siguen llegando... ムLos eliminaremos uno por uno!
 
 [msg MSG_002 [Morgana]]
 Espera, Skull... Tengo una mejor idea...
-夷No crees que ya nos acostumbramos a luchar en este mundo?
+メNo crees que ya nos acostumbramos a luchar en este mundo?
 
 [msg MSG_003 [Yusuke]]
-S胤, mis movimientos se han vuelto m茨s fluidos.
+Sボ, mis movimientos se han vuelto mホs fluidos.
 
 [msg MSG_004 [Morgana]]
-Pero estamos olvidando algo importante de los Ladrones Fantasma, 夷no?
+Pero estamos olvidando algo importante de los Ladrones Fantasma, メno?
 
 [msg MSG_005 [Ann]]
-Ahhh, 斡夷Te refieres al Relevo?!
+Ahhh, ムメTe refieres al Relevo?!
 
 [msg MSG_006 [Morgana]]
-Exacto, 斡eso es Panther! Si usamos el Relevo, 斡ganaremos ventaja!
+Exacto, ムeso es Panther! Si usamos el Relevo, ムganaremos ventaja!
 
 [msg MSG_007 [Makoto]]
-Es cierto, nuestra forma de pelear deber胤a funcionar en este mundo tambi姻n.
+Es cierto, nuestra forma de pelear deberボa funcionar en este mundo tambi〒n.
 
 [msg MSG_008 [Morgana]]
-斡S胤! 斡Av胤sanos cuando est姻s listo, Joker!
+ムSボ! ムAvボsanos cuando est〒s listo, Joker!
 

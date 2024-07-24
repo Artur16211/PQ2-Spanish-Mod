@@ -1,12 +1,12 @@
 [msg MSG_000 [Chie]]
-斡Oh! 斡Miren!
+ムOh! ムMiren!
 
 [msg MSG_001 [Chie]]
-夷El FOE se qued吋 ah胤 tal como[n]esper茨bamos?
+メEl FOE se quedポ ahボ tal como[n]esperホbamos?
 
 [msg MSG_002 [Mitsuru]]
-Parece que sali吋 seg雨n lo planeado.[n]C'est magnifique.
+Parece que saliポ segマn lo planeado.[n]C'est magnifique.
 
 [msg MSG_003 [Morgana]]
-斡Genial, podemos seguir!
+ムGenial, podemos seguir!
 

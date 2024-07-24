@@ -1,15 +1,15 @@
 [msg MSG_BTL_001]
-斡Ahora, Fox!
+ムAhora, Fox!
 
 [msg MSG_BTL_002]
-斡Hag茨moslo!
+ムHagホmoslo!
 
 [msg MSG_BTL_003]
 Solo que... tengo hambre...
 
 [msg MSG_BTL_004]
-Est茨 bien... Come esto.
+Estホ bien... Come esto.
 
 [msg MSG_BTL_005]
-斡Tengo prote胤na tambi姻n! 斡Toma!
+ムTengo proteボna tambi〒n! ムToma!
 

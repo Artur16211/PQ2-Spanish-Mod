@@ -1,5 +1,5 @@
 [msg NOFFICE_HELLO_ELIZABETH_ [Elizabeth]]
-夷Qu姻 entrada te gustar胤a?
+メQu〒 entrada te gustarボa?
 
 [msg NOFFICE_HELLO_ELIZABETH__2 [Elizabeth]]
 Te he estado esperando.
@@ -8,16 +8,16 @@ Te he estado esperando.
 Bienvenido a la taquilla.
 
 [msg NOFFICE_EXP_ELIZABETH [Elizabeth]]
-夷En qu姻 puedo ayudarte?
+メEn qu〒 puedo ayudarte?
 
 [msg NOFFICE_OUT_ELIZABETH_NU [Elizabeth]]
 Gracias por tu patrocinio.
 
 [msg NOFFICE_OUT_ELIZABETH_NU_2 [Elizabeth]]
-Espero tu pr吋xima visita.
+Espero tu prポxima visita.
 
 [msg NOFFICE_OUT_ELIZABETH_NU_3 [Elizabeth]]
-Te ver姻 de nuevo.
+Te ver〒 de nuevo.
 
 [msg NOFFICE_ACCEPT_OUT_ELIZA [Elizabeth]]
 Buena suerte.
@@ -26,7 +26,7 @@ Buena suerte.
 Ten cuidado.
 
 [msg NOFFICE_ACCEPT_OUT_ELIZA_3 [Elizabeth]]
-Rezar姻 por tu 姻xito.
+Rezar〒 por tu 〒xito.
 
 [msg BBOARD_BATTLE_BEFORE_THE [Theodore]]
 Theodore antes de la batalla

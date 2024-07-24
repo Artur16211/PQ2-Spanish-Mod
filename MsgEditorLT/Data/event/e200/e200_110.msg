@@ -1,36 +1,36 @@
 [msg MSG_000 [Morgana]]
-Uff... 斡Estamos a salvo! 夷Todos siguen[n]con nosotros?
+Uff... ムEstamos a salvo! メTodos siguen[n]con nosotros?
 
-[msg MSG_001 [Chica En姻rgica]]
-斡Whoa! 斡Esto es realmente un cine!
+[msg MSG_001 [Chica En〒rgica]]
+ムWhoa! ムEsto es realmente un cine!
 
 [msg MSG_002 [Chica Reservada]]
-Esto es incre胤ble... 夷A d吋nde la jungla?[n]夷La isla? 夷Los amonites?
+Esto es increボble... メA dポnde la jungla?[n]メLa isla? メLos amonites?
 
-[msg MSG_003 [Chica En姻rgica]]
+[msg MSG_003 [Chica En〒rgica]]
 Uh, a nadie le importan los amonites.[n]Son espeluznantes. Tienen demasiadas[n]patas.
 
 [msg MSG_004 [Futaba]]
-W-whoaaa... M茨s usuarios de Persona...[n]Nuestro equipo se expande tan r茨pido...
+W-whoaaa... Mホs usuarios de Persona...[n]Nuestro equipo se expande tan rホpido...
 
 [msg MSG_005 [Chico Inteligente]]
-Um... 夷Puedo preguntar? 夷Cu茨ndo te[n]cambiaste de ropa?
+Um... メPuedo preguntar? メCuホndo te[n]cambiaste de ropa?
 
 [msg MSG_006 [Persona Disfrazada De Oso]]
-斡Whoaaaaa! 斡Son como unos ilusionistas[n]supersorprendentes!
+ムWhoaaaaa! ムSon como unos ilusionistas[n]supersorprendentes!
 
 [msg MSG_007 [Ryuji]]
-Ohhh, eso... Es una larga historia. Te[n]cuento de eso m茨s tarde.
-Tienen a alguien muy enferma, 夷verdad?
+Ohhh, eso... Es una larga historia. Te[n]cuento de eso mホs tarde.
+Tienen a alguien muy enferma, メverdad?
 
 [msg MSG_008 [Chico Compuesto]]
-S胤. 夷Hay un lugar donde pueda descansar?
+Sボ. メHay un lugar donde pueda descansar?
 
 [msg MSG_009 [Hikari]]
-...夷Est茨 bien?
+...メEstホ bien?
 
 [msg MSG_010 [Chico Compuesto]]
-夷Y t雨 eres?
+メY tマ eres?
 
 [msg MSG_011 [Makoto]]
 Ella es Hikari.
@@ -38,140 +38,140 @@ Parece que ha estado atrapada en este[n]mundo como nosotros.
 Y ella es...
 
 [msg MSG_012 [Nagi]]
-Un gusto conocerte. Soy la Curadora de[n]este cine. Por favor ll茨mame Nagi.
+Un gusto conocerte. Soy la Curadora de[n]este cine. Por favor llホmame Nagi.
 Viendo las circunstancias. Su amiga[n]requiere tratamiento inmediato.
 
 [msg MSG_013 [Hikari]]
-Nagi, 夷hay alg雨n medicamento aqu胤?[n]Tambi姻n, una manta y un lugar para que[n]ella se acueste...
+Nagi, メhay algマn medicamento aquボ?[n]Tambi〒n, una manta y un lugar para que[n]ella se acueste...
 
 [msg MSG_014 [Persona Disfrazada De Oso]]
-*Olfateo* 斡Eres tan amable, Hikarin...!
-Pero parece que los ant胤dotos normales[n]no funcionan en Rise... 斡夷Qu姻 vamos a[n]hacer?!
+*Olfateo* ムEres tan amable, Hikarin...!
+Pero parece que los antボdotos normales[n]no funcionan en Rise... ムメQu〒 vamos a[n]hacer?!
 
 [sel SEL_015 top]
-La salvaremos, no importa qu姻.
-No pierdas el 茨nimo.
+La salvaremos, no importa qu〒.
+No pierdas el ホnimo.
 Haremos lo que podamos.
 
 [msg MSG_016 [Chico Amenazador]]
 Ustedes son amables, aunque apenas nos[n]hayamos conocido y todo eso.
 
 [msg MSG_017 [Chico Inteligente]]
-Gracias. Y no deber胤amos alterarnos...[n]Necesitamos mantener la calma.
+Gracias. Y no deberボamos alterarnos...[n]Necesitamos mantener la calma.
 
 [msg MSG_018 [P3 Fem Protag]]
 Solo los he conocido a todos por un[n]corto tiempo, pero creo que son personas[n]realmente confiables.
-Adem茨s, es natural ayudarnos mutuamente,[n]especialmente en momentos como este.
+Ademホs, es natural ayudarnos mutuamente,[n]especialmente en momentos como este.
 
 [msg MSG_019 [Chico Compuesto]]
 Gracias a todos. Es un gran alivio...
 
 [msg MSG_020 [Mujer Azul]]
-Sin embargo, si ha sido envenenada,[n]necesitar茨 un ant胤doto espec胤fico.
-Haremos todo lo que est姻 a nuestro[n]alcance para ayudar.
+Sin embargo, si ha sido envenenada,[n]necesitarホ un antボdoto especボfico.
+Haremos todo lo que est〒 a nuestro[n]alcance para ayudar.
 
 [msg MSG_021 [Chico Amenazador]]
-Eso ser胤a genial.
+Eso serボa genial.
 
 [msg MSG_022 [Chico Amenazador]]
-Espera, 斡夷qu姻...?! 斡夷Qui姻n eres t雨?!
+Espera, ムメqu〒...?! ムメQui〒n eres tマ?!
 
 [msg MSG_023 [Chico Compuesto]]
-T雨 tambi姻n est茨s aqu胤, Margaret...
+Tマ tambi〒n estホs aquボ, Margaret...
 
 [msg MSG_024 [Chica Con Traje Punk]]
-...Yo tambi姻n.
+...Yo tambi〒n.
 
-[msg MSG_025 [Chica En姻rgica]]
-夷Incluso t雨, Marie? 夷Qu姻 haces aqu胤?
+[msg MSG_025 [Chica En〒rgica]]
+メIncluso tマ, Marie? メQu〒 haces aquボ?
 
 [msg MSG_026 [Chica Con Traje Punk]]
-No lo s姻... Estaba con Margaret cuando[n]termin姻 aqu胤.
+No lo s〒... Estaba con Margaret cuando[n]termin〒 aquボ.
 
 [msg MSG_027 [Ann]]
-斡No puede ser! 斡夷M茨s gente?!
-Quiero decir, 夷qui姻n es ella? 夷La[n]conoces, [f 6 1 30 0 0 0]?
+ムNo puede ser! ムメMホs gente?!
+Quiero decir, メqui〒n es ella? メLa[n]conoces, [f 6 1 30 0 0 0]?
 
 [sel SEL_028 top]
 Parece un poco familiar.
 No tengo ni idea.
-Es incre胤blemente atractiva.
+Es increボblemente atractiva.
 
 [msg MSG_029 [Haru]]
-夷En serio? Tienes un c胤rculo bastante[n]grande de conocidos.
+メEn serio? Tienes un cボrculo bastante[n]grande de conocidos.
 
 [msg MSG_030 [Yusuke]]
-...Aunque, 夷no se est茨 refiriendo a esa[n]mujer de azul que conocimos antes?
+...Aunque, メno se estホ refiriendo a esa[n]mujer de azul que conocimos antes?
 
 [msg MSG_031 [Makoto]]
-Pero, esa ropa azul... 夷Podr胤a estar[n]relacionada con los dem茨s?
+Pero, esa ropa azul... メPodrボa estar[n]relacionada con los demホs?
 
 [msg MSG_032 [Morgana]]
-Oye, suficiente admiraci吋n.
-Bueno, as胤 somos los chicos... 斡Pero mis[n]ojos son solo para se隠orita Ann!
+Oye, suficiente admiraciポn.
+Bueno, asボ somos los chicos... ムPero mis[n]ojos son solo para seワorita Ann!
 
 [msg MSG_033 [Mujer Azul]]
-Alg雨n tipo de destino debe habernos[n]tra胤do aqu胤... Despu姻s de todo, nada de[n]esto pasa por qu姻 s胤.
+Algマn tipo de destino debe habernos[n]traボdo aquボ... Despu〒s de todo, nada de[n]esto pasa por qu〒 sボ.
 
 [msg MSG_034 [Ryuji]]
-Entonces... 夷Qui姻n eres t雨?
+Entonces... メQui〒n eres tマ?
 
 [msg MSG_035 [Mujer Azul]]
-Ah, por favor, disc雨lpame.
+Ah, por favor, discマlpame.
 Es un placer conocerlos. Me llamo[n]Margaret.
 Brindo ayuda a este joven caballero.
 Es un placer hacer conocerlo.
 
 [msg MSG_036 [Chica Con Traje Punk]]
-...夷Y yo?
+...メY yo?
 
 [msg MSG_037 [Margaret]]
-Pres姻ntate.
+Pres〒ntate.
 
 [msg MSG_038 [Marie]]
 Soy Marie.
 
 [sel SEL_039 top]
-...夷Eso es todo?
+...メEso es todo?
 Encantado.
-夷Eres residente de la Habitaci吋n[n]Terciopelo?
+メEres residente de la Habitaciポn[n]Terciopelo?
 
 [msg MSG_040 [Marie]]
-斡夷Qu姻?! 夷Qu姻 m茨s se supone que diga?
-Quiero decir, de repente aparec胤 aqu胤[n]tambi姻n. 斡Nada de esto tiene sentido[n]para m胤!
+ムメQu〒?! メQu〒 mホs se supone que diga?
+Quiero decir, de repente aparecボ aquボ[n]tambi〒n. ムNada de esto tiene sentido[n]para mボ!
 
 [msg MSG_041 [Marie]]
-Oh... Uh, igual aqu胤...
-Quiero decir... simplemente aparec胤 aqu胤[n]de repente y nada de esto tiene sentido[n]para m胤.
+Oh... Uh, igual aquボ...
+Quiero decir... simplemente aparecボ aquボ[n]de repente y nada de esto tiene sentido[n]para mボ.
 
 [msg MSG_042 [Marie]]
-No, simplemente suelo pasar el rato por[n]all胤.
-Pero de repente me trajeron aqu胤 y...[n]斡Esto simplemente no tiene sentido!
+No, simplemente suelo pasar el rato por[n]allボ.
+Pero de repente me trajeron aquボ y...[n]ムEsto simplemente no tiene sentido!
 
 [msg MSG_043 [Margaret]]
-En cualquier caso, eliminar el veneno es[n]m茨s importante. Preparar姻 la medicina[n]para ella.
+En cualquier caso, eliminar el veneno es[n]mホs importante. Preparar〒 la medicina[n]para ella.
 
 [msg MSG_044 [Chico Inteligente]]
-夷En serio? Gracias, eso ser胤a muy 雨til.
+メEn serio? Gracias, eso serボa muy マtil.
 
 [msg MSG_045 [Nagi]]
-Por favor, d姻jenos el resto. Yo tambi姻n[n]ayudar姻.
+Por favor, d〒jenos el resto. Yo tambi〒n[n]ayudar〒.
 
 [msg MSG_046 [Hikari]]
-Yo tambi姻n ayudar姻...
+Yo tambi〒n ayudar〒...
 
 [msg MSG_047 [Nagi]]
 Gracias. Hikari.
 
 [msg MSG_047_5 [Nagi]]
-Seguramente est茨n exhaustos, as胤 que por[n]favor, descansen aqu胤 un rato.
+Seguramente estホn exhaustos, asボ que por[n]favor, descansen aquボ un rato.
 
 [msg MSG_048 [Margaret]]
-En efecto, 夷por qu姻 no investigan su[n]situaci吋n durante en ese tiempo?
-Volveremos una vez la medicina est姻[n]lista.
+En efecto, メpor qu〒 no investigan su[n]situaciポn durante en ese tiempo?
+Volveremos una vez la medicina est〒[n]lista.
 
 [msg MSG_049 [Marie]]
-Yo tambi姻n voy...
+Yo tambi〒n voy...
 
 [msg MSG_050 [Chico Compuesto]]
 De acuerdo. Esperaremos su regreso.

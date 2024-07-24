@@ -1,20 +1,20 @@
 [msg MAKOTO_FOE_FOLLOW_START_]
-斡Tenemos compa隠胤a!
+ムTenemos compaワボa!
 
 [msg MAKOTO_FOE_FOLLOW_START__2]
-斡Viene un FOE!
+ムViene un FOE!
 
 [msg MAKOTO_FOE_FOLLOW_START__3]
-斡Nos vio!
+ムNos vio!
 
 [msg MAKOTO_FOE_NEAR_1]
-Sabes que est茨 justo delante de[n]nosotros, 夷verdad?
+Sabes que estホ justo delante de[n]nosotros, メverdad?
 
 [msg MAKOTO_FOE_NEAR_2]
-Se est茨 acercando, tratemos de no[n]hacer ruido.
+Se estホ acercando, tratemos de no[n]hacer ruido.
 
 [msg MAKOTO_FOE_NEAR_3]
-Cuidado, est茨 cerca.
+Cuidado, estホ cerca.
 
 [msg MAKOTO_FOE_FOLLOW_END_1]
 OK... Creo que podemos relajarnos.
@@ -23,34 +23,34 @@ OK... Creo que podemos relajarnos.
 Parece que lo perdimos.
 
 [msg MAKOTO_FOE_FOLLOW_END_3]
-*risa* Menos mal que se rindi吋.
+*risa* Menos mal que se rindiポ.
 
 [msg MAKOTO_KANSI_REACTION_1]
-No hay necesidad de correr, 夷ok?
+No hay necesidad de correr, メok?
 
 [msg MAKOTO_KANSI_REACTION_2]
-Tiene que haber alg雨n truco.
+Tiene que haber algマn truco.
 
 [msg MAKOTO_KANSI_REACTION_3]
 Mantengamos los ojos abiertos.
 
 [msg MAKOTO_DENKISAKU_REACTIO]
-Es una trampa s茨dica...
+Es una trampa sホdica...
 
 [msg MAKOTO_DENKISAKU_REACTIO_2]
 Tiene que haber algo que podamos[n]hacer...
 
 [msg MAKOTO_DENKISAKU_REACTIO_3]
-Primero tenemos que interrumpir el[n]circuito el姻ctrico.
+Primero tenemos que interrumpir el[n]circuito el〒ctrico.
 
 [msg MAKOTO_KYOUHU_REACTION_1]
-斡夷Eh, qu姻...?!
+ムメEh, qu〒...?!
 
 [msg MAKOTO_KYOUHU_REACTION_2]
-斡Oh no!
+ムOh no!
 
 [msg MAKOTO_KYOUHU_REACTION_3]
-斡Eek...!
+ムEek...!
 
 [msg MAKOTO_STAIR_FIND_1]
 Parece que podemos continuar.
@@ -62,40 +62,40 @@ Ah, hemos asegurado la ruta.
 Ahora podemos pasar.
 
 [msg MAKOTO_TREASURE_FIND_1]
-斡Oh! Un cofre del tesoro.
+ムOh! Un cofre del tesoro.
 
 [msg MAKOTO_TREASURE_FIND_2]
-Veo con mi peque隠o ojo una caja de[n]tesoro.
+Veo con mi pequeワo ojo una caja de[n]tesoro.
 
 [msg MAKOTO_TREASURE_FIND_3]
-夷No es ese un tesoro?
+メNo es ese un tesoro?
 
 [msg MAKOTO_CHECK_WALL_1]
-Algo est茨 pasando aqu胤...
+Algo estホ pasando aquボ...
 
 [msg MAKOTO_CHECK_WALL_2]
-Parece que deber胤a haber algo por[n]aqu胤.
+Parece que deberボa haber algo por[n]aquボ.
 
 [msg MAKOTO_CHECK_WALL_3]
-夷Oye, tal vez deber胤amos revisar?
+メOye, tal vez deberボamos revisar?
 
 [msg MAKOTO_SWITCH_FIND_1]
 Hay un interruptor.
 
 [msg MAKOTO_SWITCH_FIND_2]
-T雨 decides, 夷lo usamos?
+Tマ decides, メlo usamos?
 
 [msg MAKOTO_SWITCH_FIND_3]
-Si vas a usar ese interruptor,[n]mantente alerta, 夷bien?
+Si vas a usar ese interruptor,[n]mantente alerta, メbien?
 
 [msg MAKOTO_SHORTCUT_FIND_1]
-夷Crees que podemos pasar por aqu胤?
+メCrees que podemos pasar por aquボ?
 
 [msg MAKOTO_SHORTCUT_FIND_2]
 Esto demuestra que siempre hay otro[n]camino.
 
 [msg MAKOTO_SHORTCUT_FIND_3]
-Eso podr胤a ser un atajo.
+Eso podrボa ser un atajo.
 
 [msg MAKOTO_PARTY_DEAD_1]
 ?
@@ -107,64 +107,64 @@ Eso podr胤a ser un atajo.
 ?
 
 [msg MAKOTO_FOE_WARNING_NEAR_]
-Todav胤a nos persigue.
+Todavボa nos persigue.
 
 [msg MAKOTO_FOE_WARNING_NEAR__2]
-夷Por qu姻 es tan persistente!
+メPor qu〒 es tan persistente!
 
 [msg MAKOTO_FOE_WARNING_NEAR__3]
-Hay un FOE. Ahora no es el momento de[n]ponerse c吋modo.
+Hay un FOE. Ahora no es el momento de[n]ponerse cポmodo.
 
 [msg MAKOTO_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg MAKOTO_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg MAKOTO_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg MAKOTO_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg MAKOTO_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg MAKOTO_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg MAKOTO_1PERSON_HPTP10_1]
-No puedo soportar m茨s...
+No puedo soportar mホs...
 
 [msg MAKOTO_1PERSON_HPTP10_2]
-夷Podr胤amos tomarnos un descanso...?
+メPodrボamos tomarnos un descanso...?
 
 [msg MAKOTO_1PERSON_HPTP10_3]
-Una l茨stima... pero creo que he[n]llegado a mi l胤mite...
+Una lホstima... pero creo que he[n]llegado a mi lボmite...
 
 [msg MAKOTO_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg MAKOTO_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg MAKOTO_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg MAKOTO_1PERSON_HP10_1]
-Por favor... 夷Alguien me ayuda?
+Por favor... メAlguien me ayuda?
 
 [msg MAKOTO_1PERSON_HP10_2]
-Podr胤a necesitar ayuda...
+Podrボa necesitar ayuda...
 
 [msg MAKOTO_1PERSON_HP10_3]
-Mi salud est茨 bajando...
+Mi salud estホ bajando...
 
 [msg MAKOTO_1PERSON_TP10_1]
 Mi resistencia se ha ido...
 
 [msg MAKOTO_1PERSON_TP10_2]
-Deber胤a haberme tomado las cosas con[n]calma...
+Deberボa haberme tomado las cosas con[n]calma...
 
 [msg MAKOTO_1PERSON_TP10_3]
 Lo siento, pero necesito un descanso.
@@ -179,13 +179,13 @@ Lo siento, pero necesito un descanso.
 【justificadamente
 
 [msg MAKOTO_1PERSON_HP80_1]
-Eso fue demasiado f茨cil.
+Eso fue demasiado fホcil.
 
 [msg MAKOTO_1PERSON_HP80_2]
 Estamos avanzando a buen ritmo.
 
 [msg MAKOTO_1PERSON_HP80_3]
-斡No hay motivo para detenerse!
+ムNo hay motivo para detenerse!
 
 [msg MAKOTO_BATTLE_CHANGE_DUN]
 ■: [f 0 1 4]\cHFF
@@ -197,19 +197,19 @@ Estamos avanzando a buen ritmo.
 ■:
 
 [msg MAKOTO_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg MAKOTO_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg MAKOTO_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg MAKOTO_DUNGEON_START_1]
 Estamos listos para irnos.
 
 [msg MAKOTO_DUNGEON_START_2]
-Ser胤a mucho m茨s f茨cil si pudiera[n]andar en bicicleta por aqu胤.
+Serボa mucho mホs fホcil si pudiera[n]andar en bicicleta por aquボ.
 
 [msg MAKOTO_DUNGEON_START_3]
 Sabes, superaremos esto si trabajamos[n]juntos.
@@ -230,22 +230,22 @@ Acabamos de empezar.
 Poco a poco...
 
 [msg MAKOTO_TOUHA_50_1]
-斡Ya estamos a mitad de camino!
+ムYa estamos a mitad de camino!
 
 [msg MAKOTO_TOUHA_50_2]
-A mitad de camino, 斡mantengamos el[n]ritmo!
+A mitad de camino, ムmantengamos el[n]ritmo!
 
 [msg MAKOTO_TOUHA_75_1]
-斡La l胤nea de meta est茨 cerca!
+ムLa lボnea de meta estホ cerca!
 
 [msg MAKOTO_TOUHA_75_2]
-Genial, 斡solo un poco m茨s!
+Genial, ムsolo un poco mホs!
 
 [msg MAKOTO_TOUHA_100_1]
-斡Qued吋 precioso!
+ムQuedポ precioso!
 
 [msg MAKOTO_TOUHA_100_2]
-斡Parece profesional!
+ムParece profesional!
 
 [msg MAKOTO_MAPPING_ICON_ALL_]
 Bien hecho, parece bastante preciso.
@@ -254,44 +254,44 @@ Bien hecho, parece bastante preciso.
 Bien jugado.
 
 [msg MAKOTO_MAPPING_ICON_KAID]
-斡Eso es perfecto!
+ムEso es perfecto!
 
 [msg MAKOTO_MAPPING_ICON_KAID_2]
 Esa es la entrada.
 
 [msg MAKOTO_MAPPING_CHANGE_CO]
-Cambi茨ndola, 夷eh?
+Cambiホndola, メeh?
 
 [msg MAKOTO_MAPPING_CHANGE_CO_2]
-Buena decisi吋n.
+Buena decisiポn.
 
 [msg MAKOTO_MAPPING_ICON_DEL_]
-夷Est茨s prescindiendo de eso?
+メEstホs prescindiendo de eso?
 
 [msg MAKOTO_MAPPING_ICON_DEL__2]
-Intent姻moslo otra vez.
+Intent〒moslo otra vez.
 
 [msg MAKOTO_MAPPING_MEMO_1]
-Lo tendr姻 en cuenta.
+Lo tendr〒 en cuenta.
 
 [msg MAKOTO_MAPPING_MEMO_2]
-Solo aseg雨rate de no olvidarlo.
+Solo asegマrate de no olvidarlo.
 
 [msg MAKOTO_DOOR_OPEN_1]
-Por aqu胤.
+Por aquボ.
 
 [msg MAKOTO_DOOR_OPEN_2]
 Sigamos.
 
 [msg MAKOTO_DOOR_OPEN_3]
-S胤gueme.
+Sボgueme.
 
 [msg MAKOTO_KARITORU_ENCOUNT_]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg MAKOTO_KARITORU_ENCOUNT__2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg MAKOTO_KARITORU_ENCOUNT__3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

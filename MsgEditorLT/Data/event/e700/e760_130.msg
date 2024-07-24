@@ -1,51 +1,51 @@
 [msg MSG_000 [Ryuji]]
 No necesito mantener mi personalidad
-斡Ugh, maldici吋n! 斡No puedo sacar la[n]canci吋n del tr茨iler de mi cabeza!
-Y esa letra de mierda me est茨n[n]deprimiendo a雨n m茨s...
+ムUgh, maldiciポn! ムNo puedo sacar la[n]canciポn del trホiler de mi cabeza!
+Y esa letra de mierda me estホn[n]deprimiendo aマn mホs...
 
 [msg MSG_001 [Teddie]]
-斡Entonces, contrarrestemos eso y[n]cantemos un mont吋n de canciones alegres[n]y felices!
+ムEntonces, contrarrestemos eso y[n]cantemos un montポn de canciones alegres[n]y felices!
 
 [msg MSG_002 [Junpei]]
-斡Cuenta conmigo! 斡Yo primero!
+ムCuenta conmigo! ムYo primero!
 
 [msg MSG_003 [Yukari]]
 No.
 
 [msg MSG_004 [Junpei]]
-Ah, 斡夷No puedo cantar un poco?!
+Ah, ムメNo puedo cantar un poco?!
 
 [msg MSG_005 [Yukari]]
-No a menos que quieras hacer sangrar[n]nuestros o胤dos.
+No a menos que quieras hacer sangrar[n]nuestros oボdos.
 
 [msg MSG_006 [Junpei]]
-Vamos, 夷por qu姻 tienes que ser tan dura?
+Vamos, メpor qu〒 tienes que ser tan dura?
 
 [msg MSG_007 [Yosuke]]
-Bien, entonces, 夷por qu姻 no lo intento?
+Bien, entonces, メpor qu〒 no lo intento?
 
 [msg MSG_008 [Chie]]
-Obviamente preferir胤amos escuchar a[n]Rise, Yosuke.
+Obviamente preferirボamos escuchar a[n]Rise, Yosuke.
 
 [msg MSG_009 [Futaba]]
-斡Oh, eso ser胤a genial! 斡Me encantar胤a[n]escuchar a Risechi en vivo!
-斡夷Cu茨ntas veces tendremos la oportunidad[n]de escuchar a una idol cantar para[n]nosotros solos?!
+ムOh, eso serボa genial! ムMe encantarボa[n]escuchar a Risechi en vivo!
+ムメCuホntas veces tendremos la oportunidad[n]de escuchar a una idol cantar para[n]nosotros solos?!
 
 [msg MSG_010 [Rise]]
-*risa* Si eso los anima, lo har姻.
+*risa* Si eso los anima, lo har〒.
 
 [msg MSG_010_1 [Rise]]
-Pero no podemos bajar la guardia mientras[n]exploramos, as胤 que tal vez ser胤a mejor[n]guardarlo para cuando regresemos, 夷s胤?
+Pero no podemos bajar la guardia mientras[n]exploramos, asボ que tal vez serボa mejor[n]guardarlo para cuando regresemos, メsボ?
 
 [msg MSG_011 [Ryuji]]
-斡夷En serio?!
+ムメEn serio?!
 
 [msg MSG_011_1 [Ryuji]]
-斡Bien! 斡Ahora estoy emocionado! 斡Vamos,[n]apresur姻monos!
+ムBien! ムAhora estoy emocionado! ムVamos,[n]apresur〒monos!
 
 [msg MSG_012 [Yusuke]]
 Skull parece estar realmente[n]entusiasmado.
 
 [msg MSG_013 [P4 Hero]]
-Esa es nuestra Rise. Ella sabe bien c吋mo[n]manejar a sus fans.
+Esa es nuestra Rise. Ella sabe bien cポmo[n]manejar a sus fans.
 

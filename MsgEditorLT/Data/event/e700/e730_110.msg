@@ -1,33 +1,33 @@
 [msg MSG_000 [Rise]]
-斡Esperen, chicos! 斡Estoy recibiendo[n]m雨ltiples lecturas fuertes tras esa[n]puerta!
+ムEsperen, chicos! ムEstoy recibiendo[n]mマltiples lecturas fuertes tras esa[n]puerta!
 
 [msg MSG_001 [Chie]]
-斡夷Eh?! 夷Qu姻 tan fuertes? 斡夷Qu姻 hacemos?!
+ムメEh?! メQu〒 tan fuertes? ムメQu〒 hacemos?!
 
 [msg MSG_002 [Futaba]]
 ...
 Son parecidas a cuando nos encontramos[n]con [f 6 1 27 0 0 0], o el equipo de [f 6 1 12 0 0 0]...
 
 [msg MSG_003 [Kanji]]
-夷Los compa隠eros de [f 6 1 27 0 0 0] est茨n all胤?
+メLos compaワeros de [f 6 1 27 0 0 0] estホn allボ?
 
 [msg MSG_004 [Rise]]
-No estoy segura, tambi姻n recibo otras[n]lecturas...
+No estoy segura, tambi〒n recibo otras[n]lecturas...
 
 [msg MSG_005 [Morgana]]
 Bueno, eso es preocupante...
-Joker, 夷qu姻 hacemos? Reagruparnos antes[n]siempre es una opci吋n.
+Joker, メqu〒 hacemos? Reagruparnos antes[n]siempre es una opciポn.
 
 [msg MSG_006 [Morgana]]
-No sabemos qu姻 hay adelante... 夷Estamos[n]listos?
+No sabemos qu〒 hay adelante... メEstamos[n]listos?
 
 [sel SEL_007 top]
 Vamos.
 Debemos reagruparnos.
 
 [msg MSG_008 [Morgana]]
-斡Bien, vamos a prepararnos y a entrar!
+ムBien, vamos a prepararnos y a entrar!
 
 [msg MSG_009 [Morgana]]
-Ah, buena decisi吋n.
+Ah, buena decisiポn.
 

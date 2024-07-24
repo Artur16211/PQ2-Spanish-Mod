@@ -2,31 +2,31 @@
 Parece que un FOE nos sigue...
 
 [msg SANADA_FOE_FOLLOW_START__2]
-Un FOE... 夷Deber胤amos luchar?
+Un FOE... メDeberボamos luchar?
 
 [msg SANADA_FOE_FOLLOW_START__3]
 Un FOE viene tras nosotros...
 
 [msg SANADA_FOE_NEAR_1]
-Un FOE est茨 cerca... Cuidado.
+Un FOE estホ cerca... Cuidado.
 
 [msg SANADA_FOE_NEAR_2]
-Conozco esa sensaci吋n... Es un FOE.
+Conozco esa sensaciポn... Es un FOE.
 
 [msg SANADA_FOE_NEAR_3]
-斡Un FOE!
+ムUn FOE!
 
 [msg SANADA_FOE_FOLLOW_END_1]
 Parece que ya no nos sigue...
 
 [msg SANADA_FOE_FOLLOW_END_2]
-夷Ya se rindi吋? Jaj茨. Pensar胤as que[n]tendr胤a m茨s agallas.
+メYa se rindiポ? Jajホ. Pensarボas que[n]tendrボa mホs agallas.
 
 [msg SANADA_FOE_FOLLOW_END_3]
-夷No vamos a luchar? Es una pena.
+メNo vamos a luchar? Es una pena.
 
 [msg SANADA_KANSI_REACTION_1]
-Ser茨 mejor que seamos cautelosos.
+Serホ mejor que seamos cautelosos.
 
 [msg SANADA_KANSI_REACTION_2]
 Si nos atrapan, entonces lucharemos.
@@ -35,7 +35,7 @@ Si nos atrapan, entonces lucharemos.
 La sigilo no es usualmente mi[n]estilo...
 
 [msg SANADA_DENKISAKU_REACTIO]
-Una puerta el姻ctrica... Tendremos que[n]rodearla.
+Una puerta el〒ctrica... Tendremos que[n]rodearla.
 
 [msg SANADA_DENKISAKU_REACTIO_2]
 Sin dolor, sin ganancia, supongo...[n]Pero esto no es bueno.
@@ -44,49 +44,49 @@ Sin dolor, sin ganancia, supongo...[n]Pero esto no es bueno.
 Odio estas trampas.
 
 [msg SANADA_KYOUHU_REACTION_1]
-斡Agh, maldici吋n!
+ムAgh, maldiciポn!
 
 [msg SANADA_KYOUHU_REACTION_2]
-夷Qu姻...
+メQu〒...
 
 [msg SANADA_KYOUHU_REACTION_3]
-斡Whoa!
+ムWhoa!
 
 [msg SANADA_STAIR_FIND_1]
 Escaleras... Vamos.
 
 [msg SANADA_STAIR_FIND_2]
-Veamos qu姻 tipo de desaf胤os nos[n]esperan...
+Veamos qu〒 tipo de desafボos nos[n]esperan...
 
 [msg SANADA_STAIR_FIND_3]
-Parece que podemos seguir yendo por[n]all胤.
+Parece que podemos seguir yendo por[n]allボ.
 
 [msg SANADA_TREASURE_FIND_1]
 Un cofre del tesoro.
 
 [msg SANADA_TREASURE_FIND_2]
-Un cofre del tesoro... 夷Quieres[n]abrirlo?
+Un cofre del tesoro... メQuieres[n]abrirlo?
 
 [msg SANADA_TREASURE_FIND_3]
-Me pregunto qu姻 hay dentro... 夷Crees[n]que es prote胤na?
+Me pregunto qu〒 hay dentro... メCrees[n]que es proteボna?
 
 [msg SANADA_CHECK_WALL_1]
-Parece extra隠o. Vamos a comprobarlo.
+Parece extraワo. Vamos a comprobarlo.
 
 [msg SANADA_CHECK_WALL_2]
-Hay algo ah胤... Me pregunto qu姻 es.
+Hay algo ahボ... Me pregunto qu〒 es.
 
 [msg SANADA_CHECK_WALL_3]
-夷Qu姻 es eso? 夷Deber胤amos revisar?
+メQu〒 es eso? メDeberボamos revisar?
 
 [msg SANADA_SWITCH_FIND_1]
-Un interruptor... 夷Alguna idea de lo[n]que hace?
+Un interruptor... メAlguna idea de lo[n]que hace?
 
 [msg SANADA_SWITCH_FIND_2]
-Parece que es un interruptor. 夷Qu姻[n]vamos a hacer?
+Parece que es un interruptor. メQu〒[n]vamos a hacer?
 
 [msg SANADA_SWITCH_FIND_3]
-夷Lo presionamos?
+メLo presionamos?
 
 [msg SANADA_SHORTCUT_FIND_1]
 Creo que podemos pasar por esto.
@@ -107,67 +107,67 @@ Un atajo... Vamos.
 ?
 
 [msg SANADA_FOE_WARNING_NEAR_]
-斡No ha terminado todav胤a!
+ムNo ha terminado todavボa!
 
 [msg SANADA_FOE_WARNING_NEAR__2]
-夷Ves ese FOE...? Todav胤a nos sigue.
+メVes ese FOE...? Todavボa nos sigue.
 
 [msg SANADA_FOE_WARNING_NEAR__3]
-夷Un FOE? Bueno, estoy calentado.
+メUn FOE? Bueno, estoy calentado.
 
 [msg SANADA_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg SANADA_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg SANADA_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg SANADA_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg SANADA_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg SANADA_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg SANADA_1PERSON_HPTP10_1]
-夷Fue eso una... campana de ring...?
+メFue eso una... campana de ring...?
 
 [msg SANADA_1PERSON_HPTP10_2]
 Tal vez tenga que rendirme...
 
 [msg SANADA_1PERSON_HPTP10_3]
-Ngh... hah... 夷Es esto tan lejos como[n]puedo llegar...?
+Ngh... hah... メEs esto tan lejos como[n]puedo llegar...?
 
 [msg SANADA_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg SANADA_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg SANADA_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg SANADA_1PERSON_HP10_1]
-A este ritmo, ser姻 noqueado...[n]Necesito curaci吋n.
+A este ritmo, ser〒 noqueado...[n]Necesito curaciポn.
 
 [msg SANADA_1PERSON_HP10_2]
-Pens姻 que tenia buena resistencia...
+Pens〒 que tenia buena resistencia...
 
 [msg SANADA_1PERSON_HP10_3]
-Esto se est茨 poniendo mal... 夷Alguien[n]puede curarme?
+Esto se estホ poniendo mal... メAlguien[n]puede curarme?
 
 [msg SANADA_1PERSON_TP10_1]
-斡Maldici吋n! 斡Mi cuerpo no me hace[n]caso!
+ムMaldiciポn! ムMi cuerpo no me hace[n]caso!
 
 [msg SANADA_1PERSON_TP10_2]
-No puedo ser noqueado ahora... 斡No[n]aqu胤!
+No puedo ser noqueado ahora... ムNo[n]aquボ!
 
 [msg SANADA_1PERSON_TP10_3]
-Uf... hah... Ugh, soy pat姻tico...
+Uf... hah... Ugh, soy pat〒tico...
 
 [msg SANADA_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,13 +179,13 @@ Uf... hah... Ugh, soy pat姻tico...
 【justificadamente
 
 [msg SANADA_1PERSON_HP80_1]
-Esto ni siquiera ser茨 suficiente para[n]calentar.
+Esto ni siquiera serホ suficiente para[n]calentar.
 
 [msg SANADA_1PERSON_HP80_2]
-Prefiero luchar contra alguien m茨s[n]fuerte.
+Prefiero luchar contra alguien mホs[n]fuerte.
 
 [msg SANADA_1PERSON_HP80_3]
-斡Buenas t茨cticas! 斡Lo hicimos!
+ムBuenas tホcticas! ムLo hicimos!
 
 [msg SANADA_BATTLE_CHANGE_DUN]
 ■: [f 0 1 4]\cHFF
@@ -197,58 +197,58 @@ Prefiero luchar contra alguien m茨s[n]fuerte.
 ■:
 
 [msg SANADA_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg SANADA_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg SANADA_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg SANADA_DUNGEON_START_1]
 Muy bien, vamos.
 
 [msg SANADA_DUNGEON_START_2]
-Estoy listo. Hag茨moslo.
+Estoy listo. Hagホmoslo.
 
 [msg SANADA_DUNGEON_START_3]
-Ap雨rate. Tengo que seguir en modo[n]entrenamiento.
+Apマrate. Tengo que seguir en modo[n]entrenamiento.
 
 [msg SANADA_QUEST_START_1]
-夷D吋nde est茨 el objetivo? Terminemos[n]esto.
+メDポnde estホ el objetivo? Terminemos[n]esto.
 
 [msg SANADA_QUEST_START_2]
 Esto es perfecto para el[n]entrenamiento.
 
 [msg SANADA_QUEST_START_3]
-Es hora de ver cu茨n fuerte me he[n]vuelto.
+Es hora de ver cuホn fuerte me he[n]vuelto.
 
 [msg SANADA_TOUHA_25_1]
-夷Puede este piso ser m茨s grande...?
+メPuede este piso ser mホs grande...?
 
 [msg SANADA_TOUHA_25_2]
 Apenas estamos empezando. Todos[n]mantengan los ojos abiertos.
 
 [msg SANADA_TOUHA_50_1]
-夷Estamos cerca de la mitad?
+メEstamos cerca de la mitad?
 
 [msg SANADA_TOUHA_50_2]
-Casi a mitad de camino. 夷C吋mo est茨n[n]todos?
+Casi a mitad de camino. メCポmo estホn[n]todos?
 
 [msg SANADA_TOUHA_75_1]
 Estamos a punto de terminar con este[n]piso.
 
 [msg SANADA_TOUHA_75_2]
-夷Est茨s cansado? Toma una prote胤na.
+メEstホs cansado? Toma una proteボna.
 
 [msg SANADA_TOUHA_100_1]
-斡Mantengamos el ritmo!
+ムMantengamos el ritmo!
 
 [msg SANADA_TOUHA_100_2]
-斡Eso fue un buen entrenamiento!
+ムEso fue un buen entrenamiento!
 
 [msg SANADA_MAPPING_ICON_ALL_]
-S胤, eso parece correcto.
+Sボ, eso parece correcto.
 
 [msg SANADA_MAPPING_ICON_ALL__2]
 Es un trabajo detallado. Estoy[n]impresionado.
@@ -257,7 +257,7 @@ Es un trabajo detallado. Estoy[n]impresionado.
 Fue definitivamente en ese lugar.
 
 [msg SANADA_MAPPING_ICON_KAID_2]
-Hm. As胤 es como lo recuerdo.
+Hm. Asボ es como lo recuerdo.
 
 [msg SANADA_MAPPING_CHANGE_CO]
 Es un alivio verlo tan organizado.
@@ -266,7 +266,7 @@ Es un alivio verlo tan organizado.
 Oh, huh. Eso lo hace bastante claro.
 
 [msg SANADA_MAPPING_ICON_DEL_]
-夷Desech茨ndolo, eh?
+メDesechホndolo, eh?
 
 [msg SANADA_MAPPING_ICON_DEL__2]
 No hay nada de malo en deshacerse del[n]peso muerto.
@@ -275,10 +275,10 @@ No hay nada de malo en deshacerse del[n]peso muerto.
 Ahora no lo olvidaremos.
 
 [msg SANADA_MAPPING_MEMO_2]
-夷Quieres que incluya nuestro programa[n]de entrenamiento?
+メQuieres que incluya nuestro programa[n]de entrenamiento?
 
 [msg SANADA_DOOR_OPEN_1]
-Por aqu胤.
+Por aquボ.
 
 [msg SANADA_DOOR_OPEN_2]
 Vamos.
@@ -287,11 +287,11 @@ Vamos.
 Hah. No puedo esperar...
 
 [msg SANADA_KARITORU_ENCOUNT_]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg SANADA_KARITORU_ENCOUNT__2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg SANADA_KARITORU_ENCOUNT__3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

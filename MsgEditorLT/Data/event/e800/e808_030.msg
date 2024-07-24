@@ -1,8 +1,8 @@
 [msg MSG_000 [Futaba]]
-斡Mirad, otro polic胤a! 斡Vamos a investigar!
+ムMirad, otro policボa! ムVamos a investigar!
 
 [msg MSG_001 [Naoto]]
-Dej茨dmelo a m胤.
+Dejホdmelo a mボ.
 
 [msg MSG_002 [Naoto]]
 Gracias por esperar.
@@ -10,12 +10,12 @@ Gracias por esperar.
 ... Eso es lo que dice.
 
 [msg MSG_003 [Futaba]]
-Y el n雨mero de su coche es...
+Y el nマmero de su coche es...
 11-10. Tiene un doble 1.
 
 [msg MSG_004 [Naoto]]
-Tenemos lo que necesit茨bamos. Sigamos adelante.
+Tenemos lo que necesitホbamos. Sigamos adelante.
 
 [msg MSG_005]
-Dijo que el polic胤a con el coche numerado '77-55' es real, y que vinieron aqu胤 juntos...
+Dijo que el policボa con el coche numerado '77-55' es real, y que vinieron aquボ juntos...
 

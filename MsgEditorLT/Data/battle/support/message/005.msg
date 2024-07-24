@@ -2,7 +2,7 @@
 Dummy
 
 [msg BTL_MES_005_001]
-斡No podemos perder!
+ムNo podemos perder!
 
 [msg BTL_MES_005_002]
 ＜声Of＞負けKいo！ 絶対、勝DGfせr！
@@ -14,7 +14,7 @@ Puede que no queramos pelear esta...
 ＜声Of＞そうAN ここP逃げたbうが良さそう
 
 [msg BTL_MES_005_005]
-Es un FOE... Pero tal vez podamos con 姻l.
+Es un FOE... Pero tal vez podamos con 〒l.
 
 [msg BTL_MES_005_006]
 Parece una Sombra rara. Es nuestra oportunidad.
@@ -32,40 +32,40 @@ Parece una Sombra rara. Es nuestra oportunidad.
 ＜声Of＞うz、風花Bjz了解！
 
 [msg BTL_MES_005_011]
-El enemigo es bastante fuerte... 夷Qu姻 hacemos?
+El enemigo es bastante fuerte... メQu〒 hacemos?
 
 [msg BTL_MES_005_012]
 ＜声Of＞うーz、Jうしoう？ 戦DBjう？
 
 [msg BTL_MES_005_013]
-Nunca hab胤amos visto esa antes... 夷Cu茨l ser茨 su debilidad?
+Nunca habボamos visto esa antes... メCuホl serホ su debilidad?
 
 [msg BTL_MES_005_014]
-＜声Of＞vかDた！ Iqあえず胤緯ル4ンHいい？
+＜声Of＞vかDた！ Iqあえずボレル4ンHいい？
 
 [msg BTL_MES_005_015]
-夷Crees que podremos ganar?
+メCrees que podremos ganar?
 
 [msg BTL_MES_005_016]
 ＜声Of＞うz、vかDた 安心しG
 
 [msg BTL_MES_005_017]
-No deber胤a tener ning雨n problema quem茨ndolos.
+No deberボa tener ningマn problema quemホndolos.
 
 [msg BTL_MES_005_018]
 ＜声Of＞VV、丸焼きが１E… 丸焼きが２E…
 
 [msg BTL_MES_005_019]
-夷Eh? Siento como si algo hubiera cambiado...
+メEh? Siento como si algo hubiera cambiado...
 
 [msg BTL_MES_005_020]
-＜声Of＞うーz、マズ姻N…Jうしoう
+＜声Of＞うーz、マズ〒N…Jうしoう
 
 [msg BTL_MES_005_021]
 ＜声Of＞うv、来BjDた… Jうすr！？
 
 [msg BTL_MES_005_022]
-Bien... Definitivamente, esto es malo, 夷verdad?
+Bien... Definitivamente, esto es malo, メverdad?
 
 [msg BTL_MES_005_023]
 ＜声Of＞たいYz。早く治療しKいI…！
@@ -92,7 +92,7 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞完二くzが危Kいo。 回復しKくBj！
 
 [msg BTL_MES_005_031]
-＜声Of＞直斗くz、大丈夫？ フ隠ローしKくBj！
+＜声Of＞直斗くz、大丈夫？ フワローしKくBj！
 
 [msg BTL_MES_005_032]
 ＜声Of＞クマさzが危Kいo。 回復しKいI！
@@ -113,10 +113,10 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞4ミー
 
 [msg BTL_MES_005_038]
-＜声Of＞威姻/スさz、大丈夫？ 手当GしKいI大変Ao！
+＜声Of＞ミ〒/スさz、大丈夫？ 手当GしKいI大変Ao！
 
 [msg BTL_MES_005_039]
-＜声Of＞天田くzが危Kいo！ フ隠ローしKくBj！
+＜声Of＞天田くzが危Kいo！ フワローしKくBj！
 
 [msg BTL_MES_005_040]
 ＜声Of＞コロマルくz、大丈夫！？ 早く手当GしGあげKいI！
@@ -128,10 +128,10 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞たいYz！ すぐL手当が必要Ao！
 
 [msg BTL_MES_005_043]
-＜声Of＞ジョー吋ーが大変KこIL…！ KzIかしKくBj！
+＜声Of＞ジョーポーが大変KこIL…！ KzIかしKくBj！
 
 [msg BTL_MES_005_044]
-＜声Of＞ス吋ルがピン5Ao！ 回復が必要fたい！
+＜声Of＞スポルがピン5Ao！ 回復が必要fたい！
 
 [msg BTL_MES_005_045]
 ＜声Of＞パンサー、大丈夫？ 早く手当Gy！
@@ -140,10 +140,10 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞モ)、しDかqしG！ すぐL処置が必要Ao！
 
 [msg BTL_MES_005_047]
-＜声Of＞フ隠7クスが大変fたい！ 回復しGあげKいI！
+＜声Of＞フワ7クスが大変fたい！ 回復しGあげKいI！
 
 [msg BTL_MES_005_048]
-＜声Of＞ク姻ーン、大丈夫かK… KzIかしKいI危険Ao
+＜声Of＞ク〒ーン、大丈夫かK… KzIかしKいI危険Ao
 
 [msg BTL_MES_005_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞大変、ノワールが…！ 早く何IかしKいI！
 
 [msg BTL_MES_005_051]
-＜声Of＞クロ胤が危Kいo。 回復しKくDBj！
+＜声Of＞クロボが危Kいo。 回復しKくDBj！
 
 [msg BTL_MES_005_052]
 ＜声Of＞うz、vかDた！ 弱点狙DGfrN
 
 [msg BTL_MES_005_053]
-斡Je, je! Sigamos as胤.
+ムJe, je! Sigamos asボ.
 
 [msg BTL_MES_005_054]
 ＜声Of＞うz、いい感じ！ kDBjおう！
 
 [msg BTL_MES_005_055]
-夷Les importa si voy a por su debilidad?
+メLes importa si voy a por su debilidad?
 
 [msg BTL_MES_005_056]
-夷Tal vez intentamos un Relevo?
+メTal vez intentamos un Relevo?
 
 [msg BTL_MES_005_057]
-斡D姻jamelo a m胤! 斡Quemar姻 todo!
+ムD〒jamelo a mボ! ムQuemar〒 todo!
 
 [msg BTL_MES_005_058]
 ＜声Of＞お願い、kDBjDG！
@@ -215,13 +215,13 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞4ミー
 
 [msg BTL_MES_005_072]
-＜声Of＞殲滅開始AN、威姻/スさz
+＜声Of＞殲滅開始AN、ミ〒/スさz
 
 [msg BTL_MES_005_073]
 ＜声Of＞天田くzKpkDGくsroN
 
 [msg BTL_MES_005_074]
-＜声Of＞5ョー1吋ベ、ゴー！
+＜声Of＞5ョー1ポベ、ゴー！
 
 [msg BTL_MES_005_075]
 ＜声Of＞荒垣さz、Jうぞ！
@@ -230,10 +230,10 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞うz！otしくおNがいN！
 
 [msg BTL_MES_005_077]
-＜声Of＞ジョー吋ー、魅せBjDG！
+＜声Of＞ジョーポー、魅せBjDG！
 
 [msg BTL_MES_005_078]
-＜声Of＞ス吋ル、お願いすrN！
+＜声Of＞スポル、お願いすrN！
 
 [msg BTL_MES_005_079]
 ＜声Of＞パンサー、弾けBjDG！
@@ -242,10 +242,10 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞頼qLしGrN、モ)！
 
 [msg BTL_MES_005_081]
-＜声Of＞フ隠7クス、力O見せ所Ao！
+＜声Of＞フワ7クス、力O見せ所Ao！
 
 [msg BTL_MES_005_082]
-＜声Of＞気合い充分AN、ク姻ーン！
+＜声Of＞気合い充分AN、ク〒ーン！
 
 [msg BTL_MES_005_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Bien... Definitivamente, esto es malo, 夷verdad?
 ＜声Of＞ノワール、お任せすrN！
 
 [msg BTL_MES_005_085]
-＜声Of＞クロ胤！ 遠慮KくkDBjDG！
+＜声Of＞クロボ！ 遠慮KくkDBjDG！
 
 [msg BTL_MES_005_086]
-Incre胤ble... 斡Hay poder brotando dentro de m胤!
+Increボble... ムHay poder brotando dentro de mボ!
 

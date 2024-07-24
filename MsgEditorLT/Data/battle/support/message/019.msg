@@ -2,13 +2,13 @@
 Dummy
 
 [msg BTL_MES_025_001]
-夷Perder? 斡Ni hablar!
+メPerder? ムNi hablar!
 
 [msg BTL_MES_025_002]
 ＜声Of＞退けKい戦いN！ いきeしn！
 
 [msg BTL_MES_025_003]
-Un FOE fuera de nuestra liga. Deber胤amos retirarnos.
+Un FOE fuera de nuestra liga. Deberボamos retirarnos.
 
 [msg BTL_MES_025_004]
 ＜声Of＞そうN ここP退きeしnう！
@@ -17,7 +17,7 @@ Un FOE fuera de nuestra liga. Deber胤amos retirarnos.
 Es un FOE, pero... tal vez podamos derrotarlo.
 
 [msg BTL_MES_025_006]
-斡Vamos a atrapar a una Sombra rara!
+ムVamos a atrapar a una Sombra rara!
 
 [msg BTL_MES_025_007]
 ＜声Of＞ええ しDかq仕留hKいIN！
@@ -32,7 +32,7 @@ Es un FOE, pero... tal vez podamos derrotarlo.
 ＜声Of＞山岸さz、あqがIう
 
 [msg BTL_MES_025_011]
-Ser茨 complicado... 夷Cu茨l es el plan?
+Serホ complicado... メCuホl es el plan?
 
 [msg BTL_MES_025_012]
 ＜声Of＞Jうすrか… 判断Peかせたvo
@@ -50,22 +50,22 @@ Vamos chicos, podemos ganar esta.
 ＜声Of＞そO通qN 気y引き締heしnう
 
 [msg BTL_MES_025_017]
-Esto ser茨 un buen ejercicio.
+Esto serホ un buen ejercicio.
 
 [msg BTL_MES_025_018]
 ＜声Of＞畳f掛けrvo…！
 
 [msg BTL_MES_025_019]
-夷Una Sombra que se transforma...?
+メUna Sombra que se transforma...?
 
 [msg BTL_MES_025_020]
 ＜声Of＞そzK… KLか手があrPず…！
 
 [msg BTL_MES_025_021]
-＜声Of＞マズ姻vN…
+＜声Of＞マズ〒vN…
 
 [msg BTL_MES_025_022]
-Esa podr胤a ser una mala se隠al...
+Esa podrボa ser una mala seワal...
 
 [msg BTL_MES_025_023]
 ＜声Of＞4メージが心配N
@@ -113,7 +113,7 @@ Esa podr胤a ser una mala se隠al...
 ＜声Of＞4ミー
 
 [msg BTL_MES_025_038]
-＜声Of＞威姻/ス、しDかq！ こsP援護が必要N…
+＜声Of＞ミ〒/ス、しDかq！ こsP援護が必要N…
 
 [msg BTL_MES_025_039]
 ＜声Of＞天田君、気yEけG！ 今、援護yすrv
@@ -128,10 +128,10 @@ Esa podr胤a ser una mala se隠al...
 ＜声Of＞大丈夫かしp…？ こsP援護が必要N…
 
 [msg BTL_MES_025_043]
-＜声Of＞ジョー吋ー、気yEけG！ 今、援護yすrv
+＜声Of＞ジョーポー、気yEけG！ 今、援護yすrv
 
 [msg BTL_MES_025_044]
-＜声Of＞ス吋ル、気yEけG！ 今、援護yすrv
+＜声Of＞スポル、気yEけG！ 今、援護yすrv
 
 [msg BTL_MES_025_045]
 ＜声Of＞パンサー、しDかq！ こsP援護が必要N…
@@ -140,7 +140,7 @@ Esa podr胤a ser una mala se隠al...
 ＜声Of＞モ)、しDかq！ こsP援護が必要N…
 
 [msg BTL_MES_025_047]
-＜声Of＞フ隠7クス、気yEけG！ 今、援護yすrv
+＜声Of＞フワ7クス、気yEけG！ 今、援護yすrv
 
 [msg BTL_MES_025_048]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Esa podr胤a ser una mala se隠al...
 ＜声Of＞ノワール、しDかq！ こsP援護が必要N…
 
 [msg BTL_MES_025_051]
-＜声Of＞クロ胤、気yEけG！ 今、援護yすrv
+＜声Of＞クロボ、気yEけG！ 今、援護yすrv
 
 [msg BTL_MES_025_052]
 ＜声Of＞SIEずE、確実Lいきeしnうか
 
 [msg BTL_MES_025_053]
-斡Es nuestra oportunidad! 斡No la desperdiciemos!
+ムEs nuestra oportunidad! ムNo la desperdiciemos!
 
 [msg BTL_MES_025_054]
 ＜声Of＞ええ Hi、油断せずL…N？
 
 [msg BTL_MES_025_055]
-夷Deber胤a unirme a la batalla? Parece que puedo atacar su debilidad...
+メDeberボa unirme a la batalla? Parece que puedo atacar su debilidad...
 
 [msg BTL_MES_025_056]
 Por cierto, siempre podemos usar Relevo...
 
 [msg BTL_MES_025_057]
-Parece que todo depende de m胤. 斡S姻 exactamente qu姻 hacer!
+Parece que todo depende de mボ. ムS〒 exactamente qu〒 hacer!
 
 [msg BTL_MES_025_058]
 ＜声Of＞お願い、頼gv！
@@ -215,7 +215,7 @@ Parece que todo depende de m胤. 斡S姻 exactamente qu姻 hacer!
 ＜声Of＞4ミー
 
 [msg BTL_MES_025_072]
-＜声Of＞威姻/ス、遠慮PいpKいv！
+＜声Of＞ミ〒/ス、遠慮PいpKいv！
 
 [msg BTL_MES_025_073]
 ＜声Of＞天田君、頼gv！
@@ -230,10 +230,10 @@ Parece que todo depende de m胤. 斡S姻 exactamente qu姻 hacer!
 ＜声Of＞遠慮PいpKいv、kDDBjDG！
 
 [msg BTL_MES_025_077]
-＜声Of＞ジョー吋ー、期待しGrv
+＜声Of＞ジョーポー、期待しGrv
 
 [msg BTL_MES_025_078]
-＜声Of＞ス吋ル、ここP決hG！
+＜声Of＞スポル、ここP決hG！
 
 [msg BTL_MES_025_079]
 ＜声Of＞5ャンスo、パンサー
@@ -242,7 +242,7 @@ Parece que todo depende de m胤. 斡S姻 exactamente qu姻 hacer!
 ＜声Of＞モ)、頑張DG
 
 [msg BTL_MES_025_081]
-＜声Of＞フ隠7クス、おNがい
+＜声Of＞フワ7クス、おNがい
 
 [msg BTL_MES_025_082]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Parece que todo depende de m胤. 斡S姻 exactamente qu姻 hacer!
 ＜声Of＞ノワール、kDBjDG！
 
 [msg BTL_MES_025_085]
-＜声Of＞クロ胤、otしくN
+＜声Of＞クロボ、otしくN
 
 [msg BTL_MES_025_086]
-斡Estaba esperando esto! 斡Es hora de mostrar lo que puedo hacer!
+ムEstaba esperando esto! ムEs hora de mostrar lo que puedo hacer!
 

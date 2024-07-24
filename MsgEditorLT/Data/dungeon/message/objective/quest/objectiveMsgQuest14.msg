@@ -1,8 +1,8 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Rescata a la familia dinosaurio!
+ムRescata a la familia dinosaurio!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Encuentra al beb姻 dinosaurio
+Encuentra al beb〒 dinosaurio
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 Encuentra hierbas cerca de un atajo

@@ -14,7 +14,7 @@ Un FOE...
 ＜声Of＞eずいK…
 
 [msg BTL_MES_020_005]
-夷Realmente podemos con esto?
+メRealmente podemos con esto?
 
 [msg BTL_MES_020_006]
 Una rara...
@@ -50,13 +50,13 @@ Dudo que esto sea un problema.
 ＜声Of＞krぞ！
 
 [msg BTL_MES_020_017]
-Esto ser茨 pan comido.
+Esto serホ pan comido.
 
 [msg BTL_MES_020_018]
 ＜声Of＞一気L行くぞ！
 
 [msg BTL_MES_020_019]
-夷Esa sombra...?
+メEsa sombra...?
 
 [msg BTL_MES_020_020]
 ＜声Of＞マズいか…
@@ -158,19 +158,19 @@ Dummy
 ＜声Of＞了解した！
 
 [msg BTL_MES_020_053]
-斡Vamos!
+ムVamos!
 
 [msg BTL_MES_020_054]
 ＜声Of＞抜かrKo！
 
 [msg BTL_MES_020_055]
-斡Puedo con esto!
+ムPuedo con esto!
 
 [msg BTL_MES_020_056]
 Es hora de un relevo.
 
 [msg BTL_MES_020_057]
-斡D姻jamelo a m胤!
+ムD〒jamelo a mボ!
 
 [msg BTL_MES_020_058]
 Dummy
@@ -257,5 +257,5 @@ Dummy
 Dummy
 
 [msg BTL_MES_020_086]
-斡Puedo encargarme!
+ムPuedo encargarme!
 

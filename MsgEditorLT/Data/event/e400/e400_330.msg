@@ -1,86 +1,86 @@
-[msg MSG_000 [Chica Con C茨mara]]
-Oh, t胤a... 夷Cu茨ndo llegaste?
+[msg MSG_000 [Chica Con Cホmara]]
+Oh, tボa... メCuホndo llegaste?
 
-[msg MSG_001 [T胤a De Hikari]]
-Hikari, 夷qu姻 hac胤as tan tarde?
+[msg MSG_001 [Tボa De Hikari]]
+Hikari, メqu〒 hacボas tan tarde?
 
 [msg MSG_002 [Hikari De Instituto]]
-Solo estaba grabando una pel胤cula...
+Solo estaba grabando una pelボcula...
 
-[msg MSG_003 [T胤o De Hikari]]
-夷Una pel胤cula? Genial, parece que ya[n]sabemos a qui姻n culpar...
+[msg MSG_003 [Tボo De Hikari]]
+メUna pelボcula? Genial, parece que ya[n]sabemos a qui〒n culpar...
 
 [msg MSG_004 [Hikari De Instituto]]
 ...
 
-[msg MSG_005 [T胤a De Hikari]]
-*suspiro* Esto se est茨 volviendo[n]aburrido...
-Las pel胤culas no tienen nada que ver con[n]tu futuro.
+[msg MSG_005 [Tボa De Hikari]]
+*suspiro* Esto se estホ volviendo[n]aburrido...
+Las pelボculas no tienen nada que ver con[n]tu futuro.
 
 [msg MSG_006 [Hikari De Instituto]]
-夷Mi futuro?
+メMi futuro?
 
-[msg MSG_007 [T胤o De Hikari]]
-Ya sabes, cosas como tu educaci吋n o[n]encontrar un trabajo.
+[msg MSG_007 [Tボo De Hikari]]
+Ya sabes, cosas como tu educaciポn o[n]encontrar un trabajo.
 
 [msg MSG_008 [Hikari De Instituto]]
 Um...
 
-[msg MSG_009 [T胤a De Hikari]]
-Bueno, no me sorprende que todav胤a no[n]puedas pensar en algo inteligente.
-Solo estamos preocupados por ti, despu姻s[n]de todo, solo tienes padre.
+[msg MSG_009 [Tボa De Hikari]]
+Bueno, no me sorprende que todavボa no[n]puedas pensar en algo inteligente.
+Solo estamos preocupados por ti, despu〒s[n]de todo, solo tienes padre.
 
 [msg MSG_010 [Hikari De Instituto]]
 ...Una directora.
 
-[msg MSG_011 [T胤o De Hikari]]
-夷Qu姻 dijiste?
+[msg MSG_011 [Tボo De Hikari]]
+メQu〒 dijiste?
 
 [msg MSG_012 [Hikari De Instituto]]
-Ser姻 directora...
+Ser〒 directora...
 
-[msg MSG_013 [T胤a De Hikari]]
+[msg MSG_013 [Tボa De Hikari]]
 Tienes que estar bromeando.
 
-[msg MSG_014 [T胤o De Hikari]]
-No me digas que... no hablas en serio,[n]夷verdad?
+[msg MSG_014 [Tボo De Hikari]]
+No me digas que... no hablas en serio,[n]メverdad?
 
 [msg MSG_015 [Hikari De Instituto]]
-Est茨s diciendo que... 夷No puedo?
+Estホs diciendo que... メNo puedo?
 
-[msg MSG_016 [T胤a De Hikari]]
+[msg MSG_016 [Tボa De Hikari]]
 Ahora, escucha: la gente normal intenta[n]asistir a una prestigiosa universidad y[n]conseguir un trabajo digno.
-No hables de un sue隠o tonto. Estoy[n]segura de que tu padre tampoco lo[n]tolerar胤a.
+No hables de un sueワo tonto. Estoy[n]segura de que tu padre tampoco lo[n]tolerarボa.
 
 [msg MSG_017 [Hikari De Instituto]]
-Pero pap茨 me dijo que puedo intentar ser[n]lo que quiera.
+Pero papホ me dijo que puedo intentar ser[n]lo que quiera.
 
-[msg MSG_018 [T胤o De Hikari]]
-Bueno, est茨 ocupado con su trabajo.[n]Probablemente, no tenga tiempo suficiente para[n]tener una conversaci吋n real al respecto.
+[msg MSG_018 [Tボo De Hikari]]
+Bueno, estホ ocupado con su trabajo.[n]Probablemente, no tenga tiempo suficiente para[n]tener una conversaciポn real al respecto.
 
-[msg MSG_019 [T胤a De Hikari]]
-Por eso estamos aqu胤, 夷entiendes?
-Es bastante malo que no tenga madre...[n]Ese hecho por s胤 solo har茨 que la gente[n]hable a sus espaldas.
+[msg MSG_019 [Tボa De Hikari]]
+Por eso estamos aquボ, メentiendes?
+Es bastante malo que no tenga madre...[n]Ese hecho por sボ solo harホ que la gente[n]hable a sus espaldas.
 Por eso tenemos que hacer que esta chica[n]sea normal.
 
-[msg MSG_020 [T胤o De Hikari]]
-As胤 es.
+[msg MSG_020 [Tボo De Hikari]]
+Asボ es.
 
-[msg MSG_020_5 [T胤o De Hikari]]
+[msg MSG_020_5 [Tボo De Hikari]]
 Primero tenemos que deshacernos de este[n]pedazo de basura.
 
 [msg MSG_021 [Hikari De Instituto]]
-斡E-espera! 斡Esa es la c茨mara de pap茨!
+ムE-espera! ムEsa es la cホmara de papホ!
 
-[msg MSG_022 [T胤o De Hikari]]
-斡夷Me est茨s contestando?!
+[msg MSG_022 [Tボo De Hikari]]
+ムメMe estホs contestando?!
 
-[msg MSG_023 [T胤a De Hikari]]
-斡En serio! 斡夷Por qu姻 tienes que ser[n]as胤?!
+[msg MSG_023 [Tボa De Hikari]]
+ムEn serio! ムメPor qu〒 tienes que ser[n]asボ?!
 
-[msg MSG_024 [T胤a De Hikari]]
-斡Act雨a normal por una vez! Nadie puede[n]decir nada de ti si al menos finges ser[n]normal.
-Todo lo que necesitas hacer es ser igual[n]a todos los dem茨s.
+[msg MSG_024 [Tボa De Hikari]]
+ムActマa normal por una vez! Nadie puede[n]decir nada de ti si al menos finges ser[n]normal.
+Todo lo que necesitas hacer es ser igual[n]a todos los demホs.
 
 [msg MSG_025 [Hikari De Instituto]]
 Haz lo que todos hacen...

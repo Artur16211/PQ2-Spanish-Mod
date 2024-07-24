@@ -1,21 +1,21 @@
 [msg MSG_000 [Koromaru]]
-斡Bark! 斡Bark bark!
+ムBark! ムBark bark!
 
 [msg MSG_001 [Ryuji]]
-Qu姻 pasa, Koromaru…
-斡夷Eh, qu姻 dem...?!
+Qu〒 pasa, Koromaru…
+ムメEh, qu〒 dem...?!
 
 [msg MSG_002 [Chie]]
 Hay un FOE...
-斡Bien hecho, Koro! Eres un buen chico.
+ムBien hecho, Koro! Eres un buen chico.
 
 [msg MSG_003 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_004 [Ken]]
-夷Mm? Pero si el FOE est茨 aqu胤,[n]夷podr胤amos...?
+メMm? Pero si el FOE estホ aquボ,[n]メpodrボamos...?
 
 [msg MSG_005 [Teddie]]
-斡Heehee! [f 0 1 2]斡Si usamos el interruptor[n]correcto, ser胤a un adi吋s para ese tipo[f 0 1 0]!
-斡Vamos! 斡Tengo ganas de encontrar ese[n]interruptor!
+ムHeehee! [f 0 1 2]ムSi usamos el interruptor[n]correcto, serボa un adiポs para ese tipo[f 0 1 0]!
+ムVamos! ムTengo ganas de encontrar ese[n]interruptor!
 

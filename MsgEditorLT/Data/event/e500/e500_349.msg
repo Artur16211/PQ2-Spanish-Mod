@@ -1,10 +1,10 @@
 [msg MSG_000 [Hikari De Instituto]]
-Trat姻 de convencerme de que no ten胤a[n]otra opci吋n, que ser quien todos quer胤an[n]que fuera era lo correcto...
-Y segu胤a viendo esas pel胤culas[n]distorsionadas para hacerme olvidar[n]qui姻n era realmente por dentro...
+Trat〒 de convencerme de que no tenボa[n]otra opciポn, que ser quien todos querボan[n]que fuera era lo correcto...
+Y seguボa viendo esas pelボculas[n]distorsionadas para hacerme olvidar[n]qui〒n era realmente por dentro...
 
 [msg MSG_000_2 [Hikari De Instituto]]
-斡Pero ya no huir姻 de m胤 misma! 斡Voy a[n]cambiar esta pel胤cula y salir de aqu胤!
+ムPero ya no huir〒 de mボ misma! ムVoy a[n]cambiar esta pelボcula y salir de aquボ!
 
 [msg MSG_001 [Hikari De Instituto]]
-Pap茨... 斡Juro que alg雨n d胤a te enviar姻[n]esa invitaci吋n!
+Papホ... ムJuro que algマn dボa te enviar〒[n]esa invitaciポn!
 

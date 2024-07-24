@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Kanji]]
-Oye, podemos conseguir algunos objetos.[n]夷Quieres parar un segundo?
+Oye, podemos conseguir algunos objetos.[n]メQuieres parar un segundo?
 
 [msg MSG_001 [Kanji]]
-斡Entendido!
+ムEntendido!
 
 [msg MSG_002 [Kanji]]
-斡Yo me encargo!
+ムYo me encargo!
 
 [msg MSG_003 [Kanji]]
-夷Oh, no vamos a por ello?
+メOh, no vamos a por ello?
 
 [msg MSG_004 [Kanji]]
-Deber胤a hacerlo.
+Deberボa hacerlo.
 
 [msg MSG_005]
 Nos llevaremos eso.
 
 [msg MSG_006]
-斡S胤!
+ムSボ!
 
 [msg MSG_007]
-斡Claro que s胤!
+ムClaro que sボ!
 
 [msg MSG_008 [Kanji]]
 Eso estuvo cerca. Supongo que[n]conseguimos todo lo que pudimos.
 
 [msg MSG_009]
-斡Genial!
+ムGenial!
 
 [msg MSG_010]
-斡Vaya!
+ムVaya!
 
 [msg MSG_011]
-斡Oye, una rara!
+ムOye, una rara!
 
 [msg MSG_012 [Kanji]]
-Parece un atajo. 夷Quieres tomarlo?
+Parece un atajo. メQuieres tomarlo?
 
 [msg MSG_013 [Kanji]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Kanji]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Kanji]]
-S胤, eso no va a suceder. Nadie va a[n]pasar por ah胤.
+Sボ, eso no va a suceder. Nadie va a[n]pasar por ahボ.
 
 [msg MSG_016 [Kanji]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Kanji]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Kanji]]
-Hombre, este lugar... Algo se siente[n]extra隠o.
+Hombre, este lugar... Algo se siente[n]extraワo.
 
 [msg MSG_019 [Kanji]]
-斡Muy bien! 斡Demos todo lo que tenemos!
+ムMuy bien! ムDemos todo lo que tenemos!
 
 [msg MSG_020 [Kanji]]
-S胤, probablemente m茨s seguro.
+Sボ, probablemente mホs seguro.
 
 [msg MSG_021 [Kanji]]
-Sali吋 de la nada... Eso fue realmente[n]una locura...
+Saliポ de la nada... Eso fue realmente[n]una locura...
 
 [msg MSG_022 [Kanji]]
-Se siente bastante "sombr胤o" por aqu胤.[n]夷Qu姻 opinas?
+Se siente bastante "sombrボo" por aquボ.[n]メQu〒 opinas?
 
 [msg MSG_023 [Kanji]]
-斡Entendido!
+ムEntendido!
 
 [msg MSG_024 [Kanji]]
-S胤, probablemente m茨s seguro.
+Sボ, probablemente mホs seguro.
 
 [msg MSG_025 [Kanji]]
-夷Eso es todo?
+メEso es todo?
 
 [msg MSG_026 [Kanji]]
-Esto deber胤a llevar al cine. 夷Quieres[n]volver?
+Esto deberボa llevar al cine. メQuieres[n]volver?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

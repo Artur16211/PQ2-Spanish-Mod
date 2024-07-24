@@ -1,5 +1,5 @@
 [msg MSG_000]
-夷Desde d吋nde deseas comenzar? *Esta[n]depuraci吋n es para confirmaci吋n de[n]misi吋n.
+メDesde dポnde deseas comenzar? *Esta[n]depuraciポn es para confirmaciポn de[n]misiポn.
 
 [sel SEL_001 top]
 Desde el principio.
@@ -13,7 +13,7 @@ Desde el Cap.5
 Iniciar gameplay.
 
 [msg MSG_003]
-Omitiendo el pr吋logo y comenzando desde[n]el cap胤tulo 1.
+Omitiendo el prポlogo y comenzando desde[n]el capボtulo 1.
 
 [msg MSG_004]
 Iniciando gameplay desde el Cap.2.

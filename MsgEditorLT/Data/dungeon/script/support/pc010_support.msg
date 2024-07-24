@@ -1,101 +1,101 @@
 [msg AMADA_FOE_FOLLOW_START_1]
-斡Whoa! 斡Ese FOE todav胤a nos est茨[n]siguiendo!
+ムWhoa! ムEse FOE todavボa nos estホ[n]siguiendo!
 
 [msg AMADA_FOE_FOLLOW_START_2]
-斡El FOE se acerca! 夷Deber胤amos[n]correr?
+ムEl FOE se acerca! メDeberボamos[n]correr?
 
 [msg AMADA_FOE_FOLLOW_START_3]
-斡A雨n nos persigue!
+ムAマn nos persigue!
 
 [msg AMADA_FOE_NEAR_1]
 Hay un FOE cerca...
 
 [msg AMADA_FOE_NEAR_2]
-夷Es un FOE?
+メEs un FOE?
 
 [msg AMADA_FOE_NEAR_3]
-斡Ah胤! 斡Un FOE!
+ムAhボ! ムUn FOE!
 
 [msg AMADA_FOE_FOLLOW_END_1]
-Espera, 夷el FOE nos dejo ir...?
+Espera, メel FOE nos dejo ir...?
 
 [msg AMADA_FOE_FOLLOW_END_2]
 Parece que nos escapamos.
 
 [msg AMADA_FOE_FOLLOW_END_3]
-斡Qu姻 suerte! El FOE se rindi吋.
+ムQu〒 suerte! El FOE se rindiポ.
 
 [msg AMADA_KANSI_REACTION_1]
 Tenemos que asegurarnos de que no nos[n]vea.
 
 [msg AMADA_KANSI_REACTION_2]
-斡Tenemos que tener cuidado!
+ムTenemos que tener cuidado!
 
 [msg AMADA_KANSI_REACTION_3]
-夷Estaremos bien...?
+メEstaremos bien...?
 
 [msg AMADA_DENKISAKU_REACTION]
-Una puerta el姻ctrica, y no hay forma[n]de atravesarla.
+Una puerta el〒ctrica, y no hay forma[n]de atravesarla.
 
 [msg AMADA_DENKISAKU_REACTION_2]
-Tenemos que buscar otro camino,[n]quiz茨s.
+Tenemos que buscar otro camino,[n]quizホs.
 
 [msg AMADA_DENKISAKU_REACTION_3]
 Tenemos que detener la electricidad[n]primero.
 
 [msg AMADA_KYOUHU_REACTION_1]
-斡Aahh!
+ムAahh!
 
 [msg AMADA_KYOUHU_REACTION_2]
 El viento es... wow!
 
 [msg AMADA_KYOUHU_REACTION_3]
-斡夷Qu姻?!
+ムメQu〒?!
 
 [msg AMADA_STAIR_FIND_1]
-斡Hay unas escaleras! 夷Arriba o abajo?
+ムHay unas escaleras! メArriba o abajo?
 
 [msg AMADA_STAIR_FIND_2]
 Bien, con esto podemos seguir[n]adelante.
 
 [msg AMADA_STAIR_FIND_3]
-Podemos continuar ahora, pero... 夷qu姻[n]hacemos?
+Podemos continuar ahora, pero... メqu〒[n]hacemos?
 
 [msg AMADA_TREASURE_FIND_1]
-Un verdadero tesoro. Podr胤a haber[n]cualquier cosa dentro...
+Un verdadero tesoro. Podrボa haber[n]cualquier cosa dentro...
 
 [msg AMADA_TREASURE_FIND_2]
-斡Vamos, abramos el cofre del tesoro!
+ムVamos, abramos el cofre del tesoro!
 
 [msg AMADA_TREASURE_FIND_3]
-斡Tesoro!
+ムTesoro!
 
 [msg AMADA_CHECK_WALL_1]
-Vi algo all胤, creo...
+Vi algo allボ, creo...
 
 [msg AMADA_CHECK_WALL_2]
-斡Vi algo! 斡Vamos a mirar!
+ムVi algo! ムVamos a mirar!
 
 [msg AMADA_CHECK_WALL_3]
-夷Qu姻 es eso...? 夷Es hora de[n]investigar?
+メQu〒 es eso...? メEs hora de[n]investigar?
 
 [msg AMADA_SWITCH_FIND_1]
-斡Vi un interruptor!
+ムVi un interruptor!
 
 [msg AMADA_SWITCH_FIND_2]
-Es un interruptor... 夷Lo presionamos?
+Es un interruptor... メLo presionamos?
 
 [msg AMADA_SWITCH_FIND_3]
-斡Mira, un interruptor!
+ムMira, un interruptor!
 
 [msg AMADA_SHORTCUT_FIND_1]
-斡Mira! 斡Tal vez podamos atravesarlo[n]ahora!
+ムMira! ムTal vez podamos atravesarlo[n]ahora!
 
 [msg AMADA_SHORTCUT_FIND_2]
-夷No parece un atajo?
+メNo parece un atajo?
 
 [msg AMADA_SHORTCUT_FIND_3]
-斡Creo que encontr姻 un atajo!
+ムCreo que encontr〒 un atajo!
 
 [msg AMADA_PARTY_DEAD_1]
 ?
@@ -107,67 +107,67 @@ Es un interruptor... 夷Lo presionamos?
 ?
 
 [msg AMADA_FOE_WARNING_NEAR_1]
-斡Ah! 斡El FOE sigue aqu胤!
+ムAh! ムEl FOE sigue aquボ!
 
 [msg AMADA_FOE_WARNING_NEAR_2]
-斡El FOE viene por nosotros!
+ムEl FOE viene por nosotros!
 
 [msg AMADA_FOE_WARNING_NEAR_3]
-斡El FOE sigue aqu胤!
+ムEl FOE sigue aquボ!
 
 [msg AMADA_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AMADA_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AMADA_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AMADA_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg AMADA_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg AMADA_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg AMADA_1PERSON_HPTP10_1]
-*jadeo* Lo siento, 夷pero podemos[n]parar?
+*jadeo* Lo siento, メpero podemos[n]parar?
 
 [msg AMADA_1PERSON_HPTP10_2]
-*jadeo* *jadeo* Estar姻 bien. No soy[n]un cobarde.
+*jadeo* *jadeo* Estar〒 bien. No soy[n]un cobarde.
 
 [msg AMADA_1PERSON_HPTP10_3]
-Esto no es nada. Podr胤a seguir todo[n]el d胤a.
+Esto no es nada. Podrボa seguir todo[n]el dボa.
 
 [msg AMADA_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AMADA_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AMADA_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg AMADA_1PERSON_HP10_1]
 No quisiera admitirlo, pero no puedo[n]seguir...
 
 [msg AMADA_1PERSON_HP10_2]
-Bueno, estoy un poco nervioso...[n]夷Podr胤a alguien curarme?
+Bueno, estoy un poco nervioso...[n]メPodrボa alguien curarme?
 
 [msg AMADA_1PERSON_HP10_3]
-Bueno... He alcanzado mi l胤mite.
+Bueno... He alcanzado mi lボmite.
 
 [msg AMADA_1PERSON_TP10_1]
-Ugh... No puedo creer que este sea mi[n]l胤mite.
+Ugh... No puedo creer que este sea mi[n]lボmite.
 
 [msg AMADA_1PERSON_TP10_2]
-Lo siento, pero no tengo energ胤a...
+Lo siento, pero no tengo energボa...
 
 [msg AMADA_1PERSON_TP10_3]
-Estoy sin energ胤a... Espero que mi[n]resistencia sea mejor cuando crezca.
+Estoy sin energボa... Espero que mi[n]resistencia sea mejor cuando crezca.
 
 [msg AMADA_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,13 +179,13 @@ Estoy sin energ胤a... Espero que mi[n]resistencia sea mejor cuando crezca.
 【justificadamente
 
 [msg AMADA_1PERSON_HP80_1]
-斡Eso fue incre胤ble!
+ムEso fue increボble!
 
 [msg AMADA_1PERSON_HP80_2]
-斡Vamos a seguir as胤!
+ムVamos a seguir asボ!
 
 [msg AMADA_1PERSON_HP80_3]
-斡Puedo hacer esos movimientos otra[n]vez!
+ムPuedo hacer esos movimientos otra[n]vez!
 
 [msg AMADA_BATTLE_CHANGE_DUNG]
 ■: [f 0 1 4]\cHFF
@@ -197,70 +197,70 @@ Estoy sin energ胤a... Espero que mi[n]resistencia sea mejor cuando crezca.
 ■:
 
 [msg AMADA_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg AMADA_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg AMADA_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg AMADA_DUNGEON_START_1]
-Yo tambi姻n puedo ser 雨til. 斡S吋lo[n]mira!
+Yo tambi〒n puedo ser マtil. ムSポlo[n]mira!
 
 [msg AMADA_DUNGEON_START_2]
 No nos arriesguemos demasiado.
 
 [msg AMADA_DUNGEON_START_3]
-斡No te decepcionar姻!
+ムNo te decepcionar〒!
 
 [msg AMADA_QUEST_START_1]
-Ahora se est茨 poniendo emocionante.
+Ahora se estホ poniendo emocionante.
 
 [msg AMADA_QUEST_START_2]
-Si trabajamos juntos, 斡s姻 que[n]estaremos bien!
+Si trabajamos juntos, ムs〒 que[n]estaremos bien!
 
 [msg AMADA_QUEST_START_3]
-斡Hag茨moslo mejor!
+ムHagホmoslo mejor!
 
 [msg AMADA_TOUHA_25_1]
-Probablemente haya m茨s por venir.
+Probablemente haya mホs por venir.
 
 [msg AMADA_TOUHA_25_2]
 Este piso es enorme.
 
 [msg AMADA_TOUHA_50_1]
-斡Por fin! 斡Estamos a mitad de camino!
+ムPor fin! ムEstamos a mitad de camino!
 
 [msg AMADA_TOUHA_50_2]
-斡No hemos terminado todav胤a!
+ムNo hemos terminado todavボa!
 
 [msg AMADA_TOUHA_75_1]
-Un poco m茨s.
+Un poco mホs.
 
 [msg AMADA_TOUHA_75_2]
 Es divertido llenar los huecos.
 
 [msg AMADA_TOUHA_100_1]
-斡Gracias por encargarte de la[n]cartograf胤a!
+ムGracias por encargarte de la[n]cartografボa!
 
 [msg AMADA_TOUHA_100_2]
-Whoa... 斡Lo hicimos!
+Whoa... ムLo hicimos!
 
 [msg AMADA_MAPPING_ICON_ALL_1]
-Claro, ah胤 estaba.
+Claro, ahボ estaba.
 
 [msg AMADA_MAPPING_ICON_ALL_2]
-斡Nada se te pasa!
+ムNada se te pasa!
 
 [msg AMADA_MAPPING_ICON_KAIDA]
-斡Ahora no nos perderemos!
+ムAhora no nos perderemos!
 
 [msg AMADA_MAPPING_ICON_KAIDA_2]
 Eso coincide con lo que recuerdo.
 
 [msg AMADA_MAPPING_CHANGE_COL]
-斡Oh! Me gusta ese color.
+ムOh! Me gusta ese color.
 
 [msg AMADA_MAPPING_CHANGE_COL_2]
 Eres bueno en eso.
@@ -269,29 +269,29 @@ Eres bueno en eso.
 Eso realmente despeja el mapa.
 
 [msg AMADA_MAPPING_ICON_DEL_2]
-Estoy aprendiendo mucho de tu[n]cartograf胤a de primera.
+Estoy aprendiendo mucho de tu[n]cartografボa de primera.
 
 [msg AMADA_MAPPING_MEMO_1]
-S胤, tomar nota es una buena idea.
+Sボ, tomar nota es una buena idea.
 
 [msg AMADA_MAPPING_MEMO_2]
 Tantos detalles.
 
 [msg AMADA_DOOR_OPEN_1]
-斡Ahora, vamos!
+ムAhora, vamos!
 
 [msg AMADA_DOOR_OPEN_2]
-斡Por aqu胤!
+ムPor aquボ!
 
 [msg AMADA_DOOR_OPEN_3]
-斡Nos vemos en la siguiente[n]habitaci吋n!
+ムNos vemos en la siguiente[n]habitaciポn!
 
 [msg AMADA_KARITORU_ENCOUNT_1]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg AMADA_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg AMADA_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

@@ -1,86 +1,86 @@
 [msg MSG_000 [Ann]]
-斡Esperen! 斡Paren, paren!
+ムEsperen! ムParen, paren!
 
 [msg MSG_001 [Morgana]]
-夷Qu姻 pasa, Panther?
+メQu〒 pasa, Panther?
 
 [msg MSG_002 [Ann]]
-斡Mira, ah胤, es una manada de[n]dinosaurios!
+ムMira, ahボ, es una manada de[n]dinosaurios!
 
 [msg MSG_003 [Kanji]]
-斡Tienes raz吋n! 夷Deber胤amos correr o[n]vamos a luchar contra ellos?
+ムTienes razポn! メDeberボamos correr o[n]vamos a luchar contra ellos?
 
 [msg MSG_004 [Haru]]
-Espera, esa manada... Parecen los[n]dinosaurios del tr茨iler de la pel胤cula.
+Espera, esa manada... Parecen los[n]dinosaurios del trホiler de la pelボcula.
 
 [msg MSG_005 [Yusuke]]
-Seg雨n recuerdo, Crow dijo que la clave[n]para cambiar esta pel胤cula est茨 con esos[n]dinosaurios.
+Segマn recuerdo, Crow dijo que la clave[n]para cambiar esta pelボcula estホ con esos[n]dinosaurios.
 
 [msg MSG_006 [Akechi]]
 Claro, al igual que lo hicimos antes con[n]Kamoshidaman, parece que necesitamos[n]cambiar su mentalidad.
-Ahora, en cuanto a c吋mo hacer eso[n]exactamente...
+Ahora, en cuanto a cポmo hacer eso[n]exactamente...
 
 [msg MSG_007 [Chie]]
-斡Uno de ellos viene hacia aqu胤!
+ムUno de ellos viene hacia aquボ!
 
 [msg MSG_008 [Dinosaurio Con Auriculares]]
-斡La hierba fresca es la mejor!
+ムLa hierba fresca es la mejor!
 
 [msg MSG_009 [Chie]]
-斡夷Y-yOSUKE?!
+ムメY-yOSUKE?!
 
 [msg MSG_010 [Haru]]
-斡夷Eh?! 夷Te refieres a tu compa隠ero[n]desaparecido?
+ムメEh?! メTe refieres a tu compaワero[n]desaparecido?
 
 [msg MSG_011 [Makoto]]
-斡夷EL ES Hanamura?! Tiene cabeza humana,[n]pero su cuerpo...
+ムメEL ES Hanamura?! Tiene cabeza humana,[n]pero su cuerpo...
 
 [msg MSG_012 [Ryuji]]
-Espera, 夷vimos un dinosaurio como 姻l en[n]el tr茨iler?
+Espera, メvimos un dinosaurio como 〒l en[n]el trホiler?
 
 [msg MSG_013 [Ann]]
-斡De ninguna manera! No habr胤amos[n]olvidado algo as胤.
+ムDe ninguna manera! No habrボamos[n]olvidado algo asボ.
 
 [msg MSG_014 [Teddie]]
-斡Yosuke, nooooooo! 夷Te has convertido en[n]un dino en el corto tiempo que estuvimos[n]separados?
-Bueno... 斡No dejar姻 que algo as胤 arruine[n]nuestra amistad!
+ムYosuke, nooooooo! メTe has convertido en[n]un dino en el corto tiempo que estuvimos[n]separados?
+Bueno... ムNo dejar〒 que algo asボ arruine[n]nuestra amistad!
 
 [msg MSG_015 [Kanji]]
-Uhhh, ese tipo est茨 muy ocupado con la[n]hierba. No creo que nos haya notado.
+Uhhh, ese tipo estホ muy ocupado con la[n]hierba. No creo que nos haya notado.
 
 [msg MSG_016 [P4 Hero]]
-Si tanto le gustan las verduras, tal vez[n]deber胤a regalarle una cabeza de repollo[n]la pr吋xima vez...
+Si tanto le gustan las verduras, tal vez[n]deberボa regalarle una cabeza de repollo[n]la prポxima vez...
 
 [sel SEL_017 top]
-As胤 que, 夷ese dinosaurio es Yosuke?
-Yo soy m茨s de lechuga.
+Asボ que, メese dinosaurio es Yosuke?
+Yo soy mホs de lechuga.
 
 [msg MSG_018 [P4 Hero]]
-Esa cara definitivamente es suya,[n]pero... No tengo idea de por qu姻 se[n]convirti吋 en un dinosaurio.
+Esa cara definitivamente es suya,[n]pero... No tengo idea de por qu〒 se[n]convirtiポ en un dinosaurio.
 
 [msg MSG_019 [Haru]]
-Tal vez se convirti吋 en su verdadero yo[n]despu姻s de pasar suficiente tiempo en[n]esta isla.
+Tal vez se convirtiポ en su verdadero yo[n]despu〒s de pasar suficiente tiempo en[n]esta isla.
 
 [msg MSG_020 [Makoto]]
-Vamos, no es una mascota que se escap吋 y[n]se volvi吋 salvaje. Eso es imposible...[n]夷Verdad?
+Vamos, no es una mascota que se escapポ y[n]se volviポ salvaje. Eso es imposible...[n]メVerdad?
 
 [msg MSG_021 [Yusuke]]
 Es cierto que la col no evoca la misma[n]imagen de hierba que la lechuga...
-Y, aunque est茨 deliciosa, si compras una[n]cabeza de col cuando est茨 de oferta, es[n]dif胤cil acab茨rsela antes de que se estropee.
+Y, aunque estホ deliciosa, si compras una[n]cabeza de col cuando estホ de oferta, es[n]difボcil acabホrsela antes de que se estropee.
 
 [msg MSG_022 [P4 Hero]]
-斡Conozco a alguien con ese mismo[n]problema!
+ムConozco a alguien con ese mismo[n]problema!
 
 [msg MSG_023 [Ann]]
 Uh, realmente no nos importa mucho el[n]repollo.
 
 [msg MSG_024 [Naoto]]
-Volviendo al tema, 夷exactamente qu姻[n]podr胤a ser ese dinosaurio?
-Considerando las notables similitudes,[n]parece absurdo pensar que no est茨n[n]relacionados.
+Volviendo al tema, メexactamente qu〒[n]podrボa ser ese dinosaurio?
+Considerando las notables similitudes,[n]parece absurdo pensar que no estホn[n]relacionados.
 
 [msg MSG_025 [Akechi]]
-Tu equipo, estos dinosaurios y esta[n]pel胤cula... Siento que debe haber alg雨n[n]tipo de conexi吋n.
-Si tan solo pudi姻ramos hablar con ese[n]dinosaurio...
+Tu equipo, estos dinosaurios y esta[n]pelボcula... Siento que debe haber algマn[n]tipo de conexiポn.
+Si tan solo pudi〒ramos hablar con ese[n]dinosaurio...
 
 [sel SEL_026 top]
 Vamos a intentarlo.
@@ -88,69 +88,69 @@ No puedo hablar dinosaurio.
 Adelante, Skull.
 
 [msg MSG_027 [Haru]]
-Bueno, 姻l hablaba nuestro idioma cuando[n]estaba hablando consigo mismo, as胤 que[n]bien podr胤a funcionar.
+Bueno, 〒l hablaba nuestro idioma cuando[n]estaba hablando consigo mismo, asボ que[n]bien podrボa funcionar.
 
 [msg MSG_028 [Chie]]
-夷Por qu姻 no intentas algo como "Raaar" o[n]"Groooo"?
+メPor qu〒 no intentas algo como "Raaar" o[n]"Groooo"?
 
 [msg MSG_029 [Haru]]
-Bueno, 姻l hablaba nuestro idioma cuando[n]estaba hablando consigo mismo, as胤 que[n]bien podr胤a funcionar.
+Bueno, 〒l hablaba nuestro idioma cuando[n]estaba hablando consigo mismo, asボ que[n]bien podrボa funcionar.
 
 [msg MSG_030 [Ryuji]]
-夷Por qu姻 yo? Si quieres una conversaci吋n[n]entre animales, puedo pensar en alguien[n]mejor...
+メPor qu〒 yo? Si quieres una conversaciポn[n]entre animales, puedo pensar en alguien[n]mejor...
 
 [msg MSG_031 [Morgana]]
-斡夷Por qu姻 me volteas a ver?!
+ムメPor qu〒 me volteas a ver?!
 
 [msg MSG_032 [Haru]]
-Bueno, 姻l hablaba nuestro idioma cuando[n]estaba hablando consigo mismo, as胤 que[n]creo que estaremos bien.
+Bueno, 〒l hablaba nuestro idioma cuando[n]estaba hablando consigo mismo, asボ que[n]creo que estaremos bien.
 
 [msg MSG_033 [Ann]]
-斡夷Qu姻 fue eso?!
+ムメQu〒 fue eso?!
 
-[msg MSG_034 [Herb胤voro Inquieto]]
-斡Cuidado! 斡Vienen los depredadores!
+[msg MSG_034 [Herbボvoro Inquieto]]
+ムCuidado! ムVienen los depredadores!
 
-[msg MSG_035 [Herb胤voro Enorme]]
-斡Aaaaaaah! 斡C-corran por sus vidas!
+[msg MSG_035 [Herbボvoro Enorme]]
+ムAaaaaaah! ムC-corran por sus vidas!
 
 [msg MSG_036 [Dinosaurio Con Auriculares]]
-Mierda, mejor tambi姻n corro...
-斡Hup... Whoa... 斡Whoaaaa!
+Mierda, mejor tambi〒n corro...
+ムHup... Whoa... ムWhoaaaa!
 
 [msg MSG_037 [Yukiko]]
-...Se tropez吋.
+...Se tropezポ.
 
 [msg MSG_038 [Dinosaurio Con Auriculares]]
-斡H-hnnnnghhhh!
+ムH-hnnnnghhhh!
 
 [msg MSG_039 [Ryuji]]
-Vaya, realmente se lo comi吋, 夷verdad?[n]M胤ralo retorcerse de dolor.
+Vaya, realmente se lo comiポ, メverdad?[n]Mボralo retorcerse de dolor.
 
 [msg MSG_040 [P4 Hero]]
 Esa imagen... Es realmente el vivo[n]retrato de Yosuke.
 
-[msg MSG_041 [Herb胤voro Malhumorado]]
-斡Tenemos que salir de aqu胤!
+[msg MSG_041 [Herbボvoro Malhumorado]]
+ムTenemos que salir de aquボ!
 
-[msg MSG_042 [Herb胤voro Testarudo]]
-斡S胤, r茨pido!
+[msg MSG_042 [Herbボvoro Testarudo]]
+ムSボ, rホpido!
 
 [msg MSG_043 [Morgana]]
-斡Oye, todos est茨n huyendo y[n]abandon茨ndolo!
+ムOye, todos estホn huyendo y[n]abandonホndolo!
 
 [msg MSG_044 [Haru]]
-夷No se supone que son sus compa隠eros?
+メNo se supone que son sus compaワeros?
 
 [msg MSG_045 [Dinosaurio Con Auriculares]]
 Hnnnnghhh... Hrgh...
 
 [msg MSG_046 [P3 Fem Protag]]
-斡A este paso va a ser atacado! 夷Qu姻[n]hacemos?
+ムA este paso va a ser atacado! メQu〒[n]hacemos?
 
 [msg MSG_047 [Chie]]
-No podemos dejarlo as胤, 斡tiene la cara[n]de Yosuke! 斡Tenemos que salvarlo!
+No podemos dejarlo asボ, ムtiene la cara[n]de Yosuke! ムTenemos que salvarlo!
 
 [msg MSG_048 [P4 Hero]]
-Bien... 斡Vamos!
+Bien... ムVamos!
 

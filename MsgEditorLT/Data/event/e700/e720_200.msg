@@ -1,13 +1,13 @@
 [msg MSG_000 [Morgana]]
-斡夷Mroww?! Esta sensaci吋n... 斡Creo que[n]hay un tesoro cerca!
+ムメMroww?! Esta sensaciポn... ムCreo que[n]hay un tesoro cerca!
 
 [msg MSG_001 [Haru]]
-斡Oh! 夷Es eso de ah胤?
+ムOh! メEs eso de ahボ?
 
 [msg MSG_002 [Haru]]
-斡Miren, un punto del tesoro!
+ムMiren, un punto del tesoro!
 
 [msg MSG_003 [Morgana]]
-夷Eh? Se siente diferente a los dem茨s...
-斡Joker! 斡Deber胤as revisarlo!
+メEh? Se siente diferente a los demホs...
+ムJoker! ムDeberボas revisarlo!
 

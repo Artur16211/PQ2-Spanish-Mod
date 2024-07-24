@@ -1,59 +1,59 @@
 [msg MSG_000 [Ken]]
-...Este piso tambi姻n tiene un ambiente[n]musical.
+...Este piso tambi〒n tiene un ambiente[n]musical.
 Flores y notas musicales... Este lugar[n]tiene un ambiente similar.
 
 [msg MSG_001 [Ryuji]]
 Sabes, nunca he visto un musical.
-La gente ah胤 solo comienza a cantar de[n]la nada, 夷verdad? Eso es demasiado[n]irreal para m胤...
+La gente ahボ solo comienza a cantar de[n]la nada, メverdad? Eso es demasiado[n]irreal para mボ...
 
 [msg MSG_002 [Hikari]]
-斡Eso no es verdad!
-Las pel胤culas sonoras existen desde la d姻cada[n]de 1920, cuando las pel胤culas habladas[n]superpuestas con m雨sica fueron...
+ムEso no es verdad!
+Las pelボculas sonoras existen desde la d〒cada[n]de 1920, cuando las pelボculas habladas[n]superpuestas con mマsica fueron...
 
 [msg MSG_003 [Ryuji]]
-O-oh, 夷Est茨s bien...?
+O-oh, メEstホs bien...?
 
 [msg MSG_004 [Hikari]]
-Oh... lo siento. No quer胤a levantar la[n]voz de esa manera...
+Oh... lo siento. No querボa levantar la[n]voz de esa manera...
 
 [msg MSG_005 [Ryuji]]
-No, est茨 bien. No s姻 nada de eso, as胤[n]que si姻ntete libre de cont茨rmelo.
+No, estホ bien. No s〒 nada de eso, asボ[n]que si〒ntete libre de contホrmelo.
 
 [msg MSG_006 [Hikari]]
 *risa* Gracias. Me alegra escucharlo.
-Ahora que lo pienso, no puedo evitar hablar[n]mucho cuando se trata de pel胤culas... La gente[n]se suele molestar conmigo por eso.
+Ahora que lo pienso, no puedo evitar hablar[n]mucho cuando se trata de pelボculas... La gente[n]se suele molestar conmigo por eso.
 
 [msg MSG_007 [Yusuke]]
-"夷Molestar"? 斡Pero, la pasi吋n que la[n]gente muestra al hablar de lo que le[n]gusta es tan alentadora!
+"メMolestar"? ムPero, la pasiポn que la[n]gente muestra al hablar de lo que le[n]gusta es tan alentadora!
 
 [msg MSG_008 [Yukari]]
-Adem茨s, a veces escuchar sobre lo que[n]les gusta a otros puede hacer que te[n]intereses en ellos tambi姻n.
+Ademホs, a veces escuchar sobre lo que[n]les gusta a otros puede hacer que te[n]intereses en ellos tambi〒n.
 
 [msg MSG_009 [Ann]]
-斡Me encantan los musicales!
-Puede que no haya sido una pel胤cula,[n]斡pero cuando vi una obra en vivo en[n]Broadway, se me eriz吋 la piel!
+ムMe encantan los musicales!
+Puede que no haya sido una pelボcula,[n]ムpero cuando vi una obra en vivo en[n]Broadway, se me erizポ la piel!
 
 [msg MSG_010 [Haru]]
-Estoy de acuerdo. Cuando escuchas las[n]voces de un gran grupo y ves c吋mo se[n]unen sus movimientos, es muy conmovedor.
-Es cierto que la gente no estalla en canciones[n]en la vida real... pero creo que hay algunos[n]momentos en los que tu coraz吋n se convierte en[n]canci吋n.
+Estoy de acuerdo. Cuando escuchas las[n]voces de un gran grupo y ves cポmo se[n]unen sus movimientos, es muy conmovedor.
+Es cierto que la gente no estalla en canciones[n]en la vida real... pero creo que hay algunos[n]momentos en los que tu corazポn se convierte en[n]canciポn.
 
 [msg MSG_011 [Hikari]]
-斡Exacto! 斡Entiendes! 斡Hay momentos en la vida[n]real en los que tus emociones se vuelven tan[n]fuertes que sientes ganas de cantar!
-Pero yo no soy mucho de cantar, as胤 que[n]experimento eso a trav姻s de los[n]personajes en los musicales.
+ムExacto! ムEntiendes! ムHay momentos en la vida[n]real en los que tus emociones se vuelven tan[n]fuertes que sientes ganas de cantar!
+Pero yo no soy mucho de cantar, asボ que[n]experimento eso a trav〒s de los[n]personajes en los musicales.
 
 [msg MSG_012 [Ann]]
-斡S胤! La tristeza, la felicidad e incluso[n]la ira se expresan de manera tan v胤vida[n]con canciones y bailes.
+ムSボ! La tristeza, la felicidad e incluso[n]la ira se expresan de manera tan vボvida[n]con canciones y bailes.
 
 [msg MSG_013 [Hikari]]
-S胤. Los actores expresan todo tipo de[n]emociones y estados de 茨nimo con su cuerpo, en[n]todo tipo de g姻neros musicales.
+Sボ. Los actores expresan todo tipo de[n]emociones y estados de ホnimo con su cuerpo, en[n]todo tipo de g〒neros musicales.
 La capacidad de un musical para expresar[n]directamente las emociones humanas es lo[n]que me atrae.
-Todav胤a recuerdo cuando descubr胤 que los[n]di茨logos no son la 雨nica forma de[n]comunicar un mensaje.
+Todavボa recuerdo cuando descubrボ que los[n]diホlogos no son la マnica forma de[n]comunicar un mensaje.
 
 [msg MSG_014 [Yukiko]]
 *risa* Parece que amas los musicales,[n]Hikari.
 
 [msg MSG_015 [Hikari]]
-*jadeo* 斡Lo siento! Ah胤 voy otra vez,[n]divagando...
+*jadeo* ムLo siento! Ahボ voy otra vez,[n]divagando...
 
 [sel SEL_016 top]
 Es bastante sorprendente, en realidad.
@@ -61,83 +61,83 @@ Eres muy apasionada.
 Eres toda una entusiasta.
 
 [msg MSG_017 [Ryuji]]
-夷Verdad? No pens姻 que pudieras[n]emocionarte tanto.
-As胤 es, los musicales te permiten[n]expresar emociones intensas a trav姻s del[n]canto y el baile, 夷verdad?
+メVerdad? No pens〒 que pudieras[n]emocionarte tanto.
+Asボ es, los musicales te permiten[n]expresar emociones intensas a trav〒s del[n]canto y el baile, メverdad?
 
 [msg MSG_018 [Makoto]]
-Ella debe amar los musicales porque es as胤 en[n]el fondo, y los musicales a menudo expresan[n]directamente esa emoci吋n.
+Ella debe amar los musicales porque es asボ en[n]el fondo, y los musicales a menudo expresan[n]directamente esa emociポn.
 
 [msg MSG_019 [Futaba]]
-Mweheheh... Una entusiasta no se detendr茨 una[n]vez que comience a hablar de su tema. 斡Estoy[n]muy feliz de ver a Hikari tan emocionada!
+Mweheheh... Una entusiasta no se detendrホ una[n]vez que comience a hablar de su tema. ムEstoy[n]muy feliz de ver a Hikari tan emocionada!
 
 [msg MSG_020 [Yukiko]]
-Admito que estoy un poco celosa de que[n]tengas algo por lo que est姻s tan[n]apasionada...
+Admito que estoy un poco celosa de que[n]tengas algo por lo que est〒s tan[n]apasionada...
 Espero poder encontrar algo que me[n]fascine de la misma manera, ya sabes,[n]como Chie con su kung fu y la carne.
 
 [msg MSG_021 [Chie]]
-Vamos, 斡no creo que la carne cuente![n]Quiero decir, s胤, me encanta y todo,[n]pero...
-斡Oh, pero estoy FASCINADA con el kung[n]fu! 夷Quieres ver "El Juicio del Drag吋n"[n]conmigo alguna vez, Yukiko?
+Vamos, ムno creo que la carne cuente![n]Quiero decir, sボ, me encanta y todo,[n]pero...
+ムOh, pero estoy FASCINADA con el kung[n]fu! メQuieres ver "El Juicio del Dragポn"[n]conmigo alguna vez, Yukiko?
 
 [msg MSG_022 [Hikari]]
-斡Esa es esa famosa pel胤cula de kung fu![n]Tambi姻n la vi, 斡incluso me hizo hervir[n]la sangre!
+ムEsa es esa famosa pelボcula de kung fu![n]Tambi〒n la vi, ムincluso me hizo hervir[n]la sangre!
 
 [msg MSG_023 [Chie]]
-斡S胤, de eso estoy hablando! 斡Me emociono[n]tanto que no puedo evitar gritar[n]"斡Hwa-taaaa!"!
-Vaya, sabes mucho, Hikari. 斡Pensar que[n]entiendes lo genial que es esa pel胤cula!
+ムSボ, de eso estoy hablando! ムMe emociono[n]tanto que no puedo evitar gritar[n]"ムHwa-taaaa!"!
+Vaya, sabes mucho, Hikari. ムPensar que[n]entiendes lo genial que es esa pelボcula!
 
 [msg MSG_024 [Hikari]]
-U-um... 夷Alguien m茨s tiene una pel胤cula[n]favorita?
+U-um... メAlguien mホs tiene una pelボcula[n]favorita?
 
 [sel SEL_025 top]
 El Caballero de la Tarta Asciende.
 Posibilidad Amorosa.
-Se隠or Miserable.
+Seワor Miserable.
 No se me ocurre ninguna.
 
 [msg MSG_026 [Morgana]]
-Ah, s胤. Pens姻 que ser胤a una pel胤cula de h姻roes[n]clich姻, pero fue sorprendentemente provocadora[n]en cuanto a la conciencia social.
+Ah, sボ. Pens〒 que serボa una pelボcula de h〒roes[n]clich〒, pero fue sorprendentemente provocadora[n]en cuanto a la conciencia social.
 
 [msg MSG_027 [Ann]]
-斡Yo tambi姻n la vi! No pude contener las[n]l茨grimas con esa pel胤cula.
+ムYo tambi〒n la vi! No pude contener las[n]lホgrimas con esa pelボcula.
 
 [msg MSG_028 [Morgana]]
-S胤, esa tambi姻n fue un musical.
-Sent胤 que aprend胤 sobre la bondad humana[n]por su naturaleza despiadada...
+Sボ, esa tambi〒n fue un musical.
+Sentボ que aprendボ sobre la bondad humana[n]por su naturaleza despiadada...
 
 [msg MSG_029 [Morgana]]
-夷En serio? Cuando volvamos, vamos a ver[n]algo.
+メEn serio? Cuando volvamos, vamos a ver[n]algo.
 
 [msg MSG_030 [Makoto]]
-Creo que "Like A Dragon" ser胤a la m胤a.[n]Fue bastante emocionante...
+Creo que "Like A Dragon" serボa la mボa.[n]Fue bastante emocionante...
 
 [msg MSG_031 [Hikari]]
-斡夷Esa es la pel胤cula de Yakuza, verdad?![n]Recuerdo se me eriz吋 la piel por lo[n]intensa que era.
+ムメEsa es la pelボcula de Yakuza, verdad?![n]Recuerdo se me erizポ la piel por lo[n]intensa que era.
 
 [msg MSG_032 [Makoto]]
-Realmente sabes mucho, 夷no, Hikari?
-Me sorprende que conozcas tantos tipos[n]de pel胤culas y no solo las musicales.
+Realmente sabes mucho, メno, Hikari?
+Me sorprende que conozcas tantos tipos[n]de pelボculas y no solo las musicales.
 
 [msg MSG_033 [Teddie]]
-夷Hay alguna raz吋n por la que te[n]enamoraste de las pel胤culas, Hikarin?
+メHay alguna razポn por la que te[n]enamoraste de las pelボculas, Hikarin?
 
 [msg MSG_034 [Hikari]]
-夷Eh...? 夷Una raz吋n?
-Mi... raz吋n...
+メEh...? メUna razポn?
+Mi... razポn...
 
 [msg MSG_035 [P3 Fem Protag]]
-夷Hikari?
+メHikari?
 
 [msg MSG_036 [Hikari]]
-夷Cm? Oh... Probablemente, sea porque he[n]visto pel胤culas desde que tengo memoria.
-Pero... no puedo recordar nada m茨s ahora[n]mismo...
+メCm? Oh... Probablemente, sea porque he[n]visto pelボculas desde que tengo memoria.
+Pero... no puedo recordar nada mホs ahora[n]mismo...
 
 [msg MSG_037 [Yukari]]
-Ya veo. Bueno, podr胤amos aprender m茨s si[n]seguimos viendo esta pel胤cula.
+Ya veo. Bueno, podrボamos aprender mホs si[n]seguimos viendo esta pelボcula.
 
 [msg MSG_038 [Hikari]]
 Mmhm... Quiero asegurarme de verla toda.[n]Sigamos.
 
 [msg MSG_039 [Morgana]]
-Aseg雨rense de estar alerta.
-Esta pel胤cula puede parecer alegre, pero[n]no olviden que... 斡Est茨 llena de[n]Sombras!
+Asegマrense de estar alerta.
+Esta pelボcula puede parecer alegre, pero[n]no olviden que... ムEstホ llena de[n]Sombras!
 

@@ -1,9 +1,9 @@
 [msg MSG_BTL_001]
-Uno: 斡Como p姻talos revoloteando!
+Uno: ムComo p〒talos revoloteando!
 
 [msg MSG_BTL_002]
-Dos: 斡Como un p茨jaro volando!
+Dos: ムComo un pホjaro volando!
 
 [msg MSG_BTL_003]
-Tres: 斡M胤renos derrotarlos con gracia!
+Tres: ムMボrenos derrotarlos con gracia!
 

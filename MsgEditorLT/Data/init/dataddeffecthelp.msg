@@ -77,43 +77,43 @@ Suerte +4.
 Suerte +5.
 
 [msg addeffect_026]
-M茨x PS +10.
+Mホx PS +10.
 
 [msg addeffect_027]
-M茨x PS +20.
+Mホx PS +20.
 
 [msg addeffect_028]
-M茨x PS +30.
+Mホx PS +30.
 
 [msg addeffect_029]
-M茨x PS +40.
+Mホx PS +40.
 
 [msg addeffect_030]
-M茨x PS +50.
+Mホx PS +50.
 
 [msg addeffect_031]
-M茨x PE +10.
+Mホx PE +10.
 
 [msg addeffect_032]
-M茨x PE +20.
+Mホx PE +20.
 
 [msg addeffect_033]
-M茨x PE +30.
+Mホx PE +30.
 
 [msg addeffect_034]
-M茨x PE +40.
+Mホx PE +40.
 
 [msg addeffect_035]
-M茨x PE +50.
+Mホx PE +50.
 
 [msg addeffect_036]
-Baja probabilidad de provocar P茨nico.
+Baja probabilidad de provocar Pホnico.
 
 [msg addeffect_037]
-Media probabilidad de provocar P茨nico.
+Media probabilidad de provocar Pホnico.
 
 [msg addeffect_038]
-Alta probabilidad de provocar P茨nico.
+Alta probabilidad de provocar Pホnico.
 
 [msg addeffect_039]
 Baja probabilidad de Envenenar.
@@ -179,13 +179,13 @@ Media probabilidad de sellar Magia.
 Alta probabilidad de sellar Magia.
 
 [msg addeffect_060]
-Bajo aumento en la probabilidad de[n]cr胤ticos.
+Bajo aumento en la probabilidad de[n]crボticos.
 
 [msg addeffect_061]
-Medio aumento en la probabilidad de[n]cr胤ticos.
+Medio aumento en la probabilidad de[n]crボticos.
 
 [msg addeffect_062]
-Alto aumento en la probabilidad de[n]cr胤ticos.
+Alto aumento en la probabilidad de[n]crボticos.
 
 [msg addeffect_063]
 +1 todos los stats.
@@ -209,22 +209,22 @@ Fortalece ataques de Fuego un 25%.
 Fortalece ataques de Hielo un 25%.
 
 [msg addeffect_070]
-Fortalece ataques El姻ctricos un 25%.
+Fortalece ataques El〒ctricos un 25%.
 
 [msg addeffect_071]
 Fortalece ataques de Viento un 25%.
 
 [msg addeffect_072]
-Baja probabilidad de reflejar ataques[n]f胤sicos.
+Baja probabilidad de reflejar ataques[n]fボsicos.
 
 [msg addeffect_073]
-Media probabilidad de reflejar ataques[n]f胤sicos.
+Media probabilidad de reflejar ataques[n]fボsicos.
 
 [msg addeffect_074]
-Alta probabilidad de reflejar ataques[n]f胤sicos.
+Alta probabilidad de reflejar ataques[n]fボsicos.
 
 [msg addeffect_075]
-Resistencia contra el P茨nico.
+Resistencia contra el Pホnico.
 
 [msg addeffect_076]
 Resistencia contra el Veneno.
@@ -272,7 +272,7 @@ Agilidad +10.
 Suerte +10.
 
 [msg addeffect_091]
-M茨x PS +100.
+Mホx PS +100.
 
 [msg addeffect_092]
 Baja probabilidad de infligir estados de[n]padecimiento.
@@ -284,58 +284,58 @@ Media probabilidad de infligir estados[n]de padecimiento.
 Alta probabilidad de infligir estados de[n]padecimiento.
 
 [msg addeffect_095]
-Reduce da隠o f胤sico recibido un 10%.
+Reduce daワo fボsico recibido un 10%.
 
 [msg addeffect_096]
-Reduce da隠o f胤sico recibido un 20%.
+Reduce daワo fボsico recibido un 20%.
 
 [msg addeffect_097]
-Reduce da隠o f胤sico recibido un 30%.
+Reduce daワo fボsico recibido un 30%.
 
 [msg addeffect_098]
-Reduce da隠o de Fuego recibido un 10%.
+Reduce daワo de Fuego recibido un 10%.
 
 [msg addeffect_099]
-Reduce da隠o de Fuego recibido un 20%.
+Reduce daワo de Fuego recibido un 20%.
 
 [msg addeffect_100]
-Reduce da隠o de Fuego recibido un 30%.
+Reduce daワo de Fuego recibido un 30%.
 
 [msg addeffect_101]
-Reduce da隠o de Hielo recibido un 10%.
+Reduce daワo de Hielo recibido un 10%.
 
 [msg addeffect_102]
-Reduce da隠o de Hielo recibido un 20%.
+Reduce daワo de Hielo recibido un 20%.
 
 [msg addeffect_103]
-Reduce da隠o de Hielo recibido un 30%.
+Reduce daワo de Hielo recibido un 30%.
 
 [msg addeffect_104]
-Reduce da隠o de Viento recibido un 10%.
+Reduce daワo de Viento recibido un 10%.
 
 [msg addeffect_105]
-Reduce da隠o de Viento recibido un 20%.
+Reduce daワo de Viento recibido un 20%.
 
 [msg addeffect_106]
-Reduce da隠o de Viento recibido un 30%.
+Reduce daワo de Viento recibido un 30%.
 
 [msg addeffect_107]
-Reduce da隠o El姻ctrico recibido un 10%.
+Reduce daワo El〒ctrico recibido un 10%.
 
 [msg addeffect_108]
-Reduce da隠o El姻ctrico recibido un 20%.
+Reduce daワo El〒ctrico recibido un 20%.
 
 [msg addeffect_109]
-Reduce da隠o El姻ctrico recibido un 30%.
+Reduce daワo El〒ctrico recibido un 30%.
 
 [msg addeffect_110]
-Reduce da隠o elemental recibido un 10%.
+Reduce daワo elemental recibido un 10%.
 
 [msg addeffect_111]
-Reduce da隠o elemental recibido un 20%.
+Reduce daワo elemental recibido un 20%.
 
 [msg addeffect_112]
-Reduce da隠o elemental recibido un 30%.
+Reduce daワo elemental recibido un 30%.
 
 [msg addeffect_113]
 Reduce probabilidad de tropezar.
@@ -347,13 +347,13 @@ Reduce un poco la probabilidad de[n]tropezar.
 Reduce mucho la probabilidad de[n]tropezar.
 
 [msg addeffect_116]
-Aumenta probabilidad de esquivar ataques[n]f胤sicos.
+Aumenta probabilidad de esquivar ataques[n]fボsicos.
 
 [msg addeffect_117]
-Aumenta un poco la probabilidad de[n]esquivar ataques f胤sicos.
+Aumenta un poco la probabilidad de[n]esquivar ataques fボsicos.
 
 [msg addeffect_118]
-Aumenta mucho la probabilidad de[n]esquivar ataques f胤sicos.
+Aumenta mucho la probabilidad de[n]esquivar ataques fボsicos.
 
 [msg addeffect_119]
 Aumenta probabilidad de esquivar ataques[n]de Fuego.
@@ -383,13 +383,13 @@ Aumenta un poco la probabilidad de[n]esquivar ataques de Viento.
 Aumenta mucho la probabilidad de[n]esquivar ataques de Viento.
 
 [msg addeffect_128]
-Aumenta probabilidad de esquivar ataques[n]El姻ctricos.
+Aumenta probabilidad de esquivar ataques[n]El〒ctricos.
 
 [msg addeffect_129]
-Aumenta un poco la probabilidad de[n]esquivar ataques El姻ctricos.
+Aumenta un poco la probabilidad de[n]esquivar ataques El〒ctricos.
 
 [msg addeffect_130]
-Aumenta mucho la probabilidad de[n]esquivar ataques El姻ctricos.
+Aumenta mucho la probabilidad de[n]esquivar ataques El〒ctricos.
 
 [msg addeffect_131]
 Aumenta la probabilidad de esquivar[n]ataques elementales.
@@ -413,7 +413,7 @@ Carisma
 Ninguno
 
 [msg addeffect_138]
-M茨x PE +100.
+Mホx PE +100.
 
 [msg addeffect_139]
 +10 todos los stats.
@@ -440,7 +440,7 @@ Resistencia al Hielo.
 Resistencia al Viento.
 
 [msg addeffect_147]
-Resistencia El姻ctrica.
+Resistencia El〒ctrica.
 
 [msg addeffect_148]
 Refleja el Fuego.

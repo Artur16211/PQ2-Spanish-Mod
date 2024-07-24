@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Morgana]]
-斡Estoy sintiendo un Tesoro aqu胤![n]夷Quieres comprobarlo?
+ムEstoy sintiendo un Tesoro aquボ![n]メQuieres comprobarlo?
 
 [msg MSG_001 [Morgana]]
-Tienes raz吋n. Debemos tener cuidado.
+Tienes razポn. Debemos tener cuidado.
 
 [msg MSG_002 [Morgana]]
-斡Perfecto! 斡Que vengan los objetos[n]raros!
+ムPerfecto! ムQue vengan los objetos[n]raros!
 
 [msg MSG_003 [Morgana]]
-Oh, 夷cambiaste de opini吋n?
+Oh, メcambiaste de opiniポn?
 
 [msg MSG_004 [Morgana]]
-斡Eso es todo!
+ムEso es todo!
 
 [msg MSG_005]
-斡Nos llevaremos esto!
+ムNos llevaremos esto!
 
 [msg MSG_006]
-斡Mmhm!
+ムMmhm!
 
 [msg MSG_007]
-斡Oho!
+ムOho!
 
 [msg MSG_008 [Morgana]]
 Eso fue aterrador... Parece que eso es[n]todo.
 
 [msg MSG_009]
-斡E-es un...!
+ムE-es un...!
 
 [msg MSG_010]
-斡Mroooow!
+ムMroooow!
 
 [msg MSG_011]
-斡Hey, buen hallazgo!
+ムHey, buen hallazgo!
 
 [msg MSG_012 [Morgana]]
-斡He encontrado un atajo! 夷Deber胤amos[n]tomarlo?
+ムHe encontrado un atajo! メDeberボamos[n]tomarlo?
 
 [msg MSG_013 [Morgana]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Morgana]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Morgana]]
 Supongo que no podemos pasar desde este[n]lado...
 
 [msg MSG_016 [Morgana]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Morgana]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Morgana]]
-斡Joker! 斡Siento peligro cerca!
+ムJoker! ムSiento peligro cerca!
 
 [msg MSG_019 [Morgana]]
-斡E-est茨 bien! 斡No bajes la guardia!
+ムE-estホ bien! ムNo bajes la guardia!
 
 [msg MSG_020 [Morgana]]
-斡Tienes raz吋n! 斡Asegur姻monos de estar[n]preparados primero!
+ムTienes razポn! ムAsegur〒monos de estar[n]preparados primero!
 
 [msg MSG_021 [Morgana]]
-*suspiro* Esa fue una Sombra dif胤cil...
+*suspiro* Esa fue una Sombra difボcil...
 
 [msg MSG_022 [Morgana]]
-Siento muchas Sombras... Probablemente[n]tengamos que luchar. 夷Cu茨l es el plan?
+Siento muchas Sombras... Probablemente[n]tengamos que luchar. メCuホl es el plan?
 
 [msg MSG_023 [Morgana]]
-斡De acuerdo! 斡No bajemos la guardia!
+ムDe acuerdo! ムNo bajemos la guardia!
 
 [msg MSG_024 [Morgana]]
-S胤, mejor no lo hagamos.
+Sボ, mejor no lo hagamos.
 
 [msg MSG_025 [Morgana]]
-斡De acuerdo! 夷Todo listo?
+ムDe acuerdo! メTodo listo?
 
 [msg MSG_026 [Morgana]]
-夷Vamos de vuelta al cine?
+メVamos de vuelta al cine?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

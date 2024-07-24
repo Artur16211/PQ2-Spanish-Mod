@@ -1,84 +1,84 @@
 [msg MSG_000]
-La sala de proyecci吋n...
+La sala de proyecciポn...
 
 [msg MSG_001 [Ryuji]]
-Nunca he estado en una sala de[n]proyecci吋n. 夷Ese proyector no es enorme?
+Nunca he estado en una sala de[n]proyecciポn. メEse proyector no es enorme?
 
 [msg MSG_002 [Futaba]]
-Oye, 斡No toques eso! Los dispositivos[n]complejos como los proyectores son[n]delicados.
+Oye, ムNo toques eso! Los dispositivos[n]complejos como los proyectores son[n]delicados.
 
-[msg MSG_003 [Cr胤ptico Objeto Negro]]
+[msg MSG_003 [Crボptico Objeto Negro]]
 ...
 
 [msg MSG_004 [Futaba]]
-夷Qu姻―Whoooaaah! 斡夷Qu姻 es eso?!
+メQu〒―Whoooaaah! ムメQu〒 es eso?!
 
 [msg MSG_005 [Akechi]]
-斡夷Es una Sombra?!
+ムメEs una Sombra?!
 
-[msg MSG_006 [Cr胤ptico Objeto Negro]]
+[msg MSG_006 [Crボptico Objeto Negro]]
 ...
 
 [msg MSG_007 [Ann]]
-Es sospechoso, pero... 夷No parece ser un[n]enemigo? 斡夷Qu姻 es esta cosa?!
+Es sospechoso, pero... メNo parece ser un[n]enemigo? ムメQu〒 es esta cosa?!
 
 [sel SEL_008 top]
-Lo tocar姻.
-Intentemos hablar con 姻l.
+Lo tocar〒.
+Intentemos hablar con 〒l.
 
 [msg MSG_009 [Morgana]]
 Espero que no te ataque... Ten cuidado,[n][f 6 1 30 0 0 0].
 
 [msg MSG_010]
-夷...?
+メ...?
 Se siente muy raro...
 
 [msg MSG_011 [Futaba]]
-夷Est茨s bien? 夷No te paso nada? 夷Solo[n]hace "boing-boing" cuando lo tocas?
-Bien... Alguien tiene que intentar[n]hablar con 姻l.
+メEstホs bien? メNo te paso nada? メSolo[n]hace "boing-boing" cuando lo tocas?
+Bien... Alguien tiene que intentar[n]hablar con 〒l.
 
 [msg MSG_012 [Ann]]
-夷H-holaaa? 夷Puedes o胤rme?
+メH-holaaa? メPuedes oボrme?
 
-[msg MSG_013 [Cr胤ptico Objeto Negro]]
+[msg MSG_013 [Crボptico Objeto Negro]]
 ...
 
 [msg MSG_014 [Futaba]]
 No responde. Es solo un objeto aburrido.
 
 [msg MSG_015 [Morgana]]
-Bueno, en ese caso... 夷D吋nde est茨n sus[n]o胤dos?
+Bueno, en ese caso... メDポnde estホn sus[n]oボdos?
 
 [msg MSG_016 [Ann]]
-Si hablamos alto, 夷no escuchar茨 lo que[n]estamos diciendo?
+Si hablamos alto, メno escucharホ lo que[n]estamos diciendo?
 
 [msg MSG_016_5 [Ann]]
-夷H-holaaa? 夷Puedes o胤rme?
+メH-holaaa? メPuedes oボrme?
 
-[msg MSG_017 [Cr胤ptico Objeto Negro]]
+[msg MSG_017 [Crボptico Objeto Negro]]
 ...
 
 [msg MSG_018 [Futaba]]
-No reacciona... 夷Quiz茨 no puede o胤rnos?
-Solo queda intentar tocarlo... 斡Ryuji!
+No reacciona... メQuizホ no puede oボrnos?
+Solo queda intentar tocarlo... ムRyuji!
 
 [msg MSG_019 [Ryuji]]
-斡夷Por qu姻 yo?!
-Ugh, bien... 夷Est茨n seguros?
+ムメPor qu〒 yo?!
+Ugh, bien... メEstホn seguros?
 
 [msg MSG_020 [Ryuji]]
-斡Whoa! 斡Es superesponjoso!
+ムWhoa! ムEs superesponjoso!
 
 [msg MSG_021 [Akechi]]
-Bien, hemos aprendido que es el茨stico,[n]pero parece que no habla.
+Bien, hemos aprendido que es elホstico,[n]pero parece que no habla.
 
 [msg MSG_022 [Yusuke]]
 No habla, ni se mueve, ni reacciona a[n]nosotros en absoluto...
-夷Quiz茨s es alg雨n tipo de mu隠eco?
+メQuizホs es algマn tipo de muワeco?
 
 [msg MSG_023 [Futaba]]
-E-espera... Es solo un mu隠eco, 夷eh? Pero[n]es demasiado grande. Al menos deber胤a[n]ser escala 1:7.
+E-espera... Es solo un muワeco, メeh? Pero[n]es demasiado grande. Al menos deberボa[n]ser escala 1:7.
 
 [msg MSG_024 [Morgana]]
-Bueno, ellas no est茨n aqu胤, as胤 que[n]sigamos buscando.
+Bueno, ellas no estホn aquボ, asボ que[n]sigamos buscando.
 

@@ -1,12 +1,12 @@
 [msg MSG_000 [Ann]]
-There's another arrow! It's pointing[n]right!
+ムHay otra flecha! ムSeワala a la derecha!
 
 [msg MSG_001 [Junpei]]
-Got it, Panther! Hard to starboard!
+ムEntendido, Panther! ムA estribor!
 
 [msg MSG_002]
-Let's try going right...
+Intentemos ir a la derecha...
 
 [msg MSG_003]
-The arrow is pointing to the right.[n]Let's try going that way...
+La flecha apunta a la derecha. Intentemos ir en esa direcciポn...
 

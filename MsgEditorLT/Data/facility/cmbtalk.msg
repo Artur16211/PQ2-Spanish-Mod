@@ -1,8 +1,8 @@
 [msg VELVET_TALK_GREET_TWINS_ [Caroline]]
-斡As胤 que aqu胤 est茨s, recluso!
+ムAsボ que aquボ estホs, recluso!
 
 [msg VELVET_TALK_GREET_TWINS__2 [Caroline]]
-Sab胤a que volver胤as arrastr茨ndote.
+Sabボa que volverボas arrastrホndote.
 
 [msg VELVET_TALK_GREET_TWINS__3 [Justine]]
 Bienvenido.
@@ -11,10 +11,10 @@ Bienvenido.
 Vuelve, Recluso.
 
 [msg VELVET_OUT_TWINS_1 [Justine]]
-Esfu姻rzate por progresar.
+Esfu〒rzate por progresar.
 
 [msg VELVET_OUT_TWINS_2 [Caroline]]
-斡No nos falles, recluso!
+ムNo nos falles, recluso!
 
 [msg CMBTALK_DUMMY]
 Dummy
@@ -357,56 +357,56 @@ Not used
 Not used
 
 [msg book_bonus001_01 [Justine]]
-Parece que has registrado un n雨mero[n]respetable de Personas.
-Para celebrar tu progreso, mereces un[n]peque隠o incentivo.
+Parece que has registrado un nマmero[n]respetable de Personas.
+Para celebrar tu progreso, mereces un[n]pequeワo incentivo.
 
 [msg book_bonus001_02]
-斡El precio para invocar Personas se han[n]reducido un 10%!
+ムEl precio para invocar Personas se han[n]reducido un 10%!
 
 [msg book_bonus001_03 [Justine]]
-A partir de ahora, ofreceremos un[n]descuento en la invocaci吋n de Personas.
-Si tu compendio sigue creciendo, puedes[n]obtener m茨s recompensas.
+A partir de ahora, ofreceremos un[n]descuento en la invocaciポn de Personas.
+Si tu compendio sigue creciendo, puedes[n]obtener mホs recompensas.
 Por favor, sigue trabajando duro.
 
 [msg book_bonus002_01 [Caroline]]
 Parece que has invocado... Vaya,[n]bastantes Personas.
-Bueno, 斡podr胤amos darte una peque隠a[n]recompensa!
+Bueno, ムpodrボamos darte una pequeワa[n]recompensa!
 
 [msg book_bonus002_02]
-斡Los precios de invocaci吋n de Personas[n]se han reducido un 15%!
+ムLos precios de invocaciポn de Personas[n]se han reducido un 15%!
 
 [msg book_bonus002_03 [Caroline]]
-斡Te haremos un descuento cuando invoques[n]Personas fuera de las pel胤culas!
-Aunque, parece que a雨n hay muchas m茨s[n]por ah胤 que no hemos visto...
-No nos importar胤a verte invocar a todos[n]esos nuevos seres.
-Esperamos mucho m茨s de ti... Pero por[n]ahora, 斡puedes tener una recompensa!
+ムTe haremos un descuento cuando invoques[n]Personas fuera de las pelボculas!
+Aunque, parece que aマn hay muchas mホs[n]por ahボ que no hemos visto...
+No nos importarボa verte invocar a todos[n]esos nuevos seres.
+Esperamos mucho mホs de ti... Pero por[n]ahora, ムpuedes tener una recompensa!
 
 [msg book_bonus003_01 [Justine]]
 Vaya, de alguna forma has conseguido[n]reunir a todas estas Personas...
-Quiz茨s no falte mucho para que todas[n]est姻n a tu disposici吋n.
+Quizホs no falte mucho para que todas[n]est〒n a tu disposiciポn.
 Ah... casi olvido tu recompensa.
 
 [msg book_bonus003_02]
-Los precios de invocaci吋n de Personas se[n]han reducido un 20%.
+Los precios de invocaciポn de Personas se[n]han reducido un 20%.
 
 [msg book_bonus003_03 [Justine]]
-Tu compendio de Personas est茨 casi[n]completo. Esto te ser茨 de ayuda...
+Tu compendio de Personas estホ casi[n]completo. Esto te serホ de ayuda...
 Para invocar a todas las Personas que[n]hay en todos estos mundos...
-Quiz茨 puedas tener ese poder en tus[n]manos. Espero descubrirlo.
+Quizホ puedas tener ese poder en tus[n]manos. Espero descubrirlo.
 
 [msg book_bonus004_01 [Caroline]]
-Pens姻 que nunca llegar胤a este d胤a...
-斡Finalmente las tienes!
-Te has esforzado mucho. 斡Te mereces una[n]gran recompensa!
+Pens〒 que nunca llegarボa este dボa...
+ムFinalmente las tienes!
+Te has esforzado mucho. ムTe mereces una[n]gran recompensa!
 
 [msg book_bonus004_02]
-斡Los precios de invocaci吋n de Personas[n]se han reducido un 25%!
+ムLos precios de invocaciポn de Personas[n]se han reducido un 25%!
 
 [msg book_bonus004_03 [Caroline]]
-斡Ahora puedes invocar a cualquier[n]Persona que desees!
-Bueno, m茨s o menos. Despu姻s de todo, no[n]es que sea gratis.
-斡As胤 es la vida!
-斡Nos vemos!
+ムAhora puedes invocar a cualquier[n]Persona que desees!
+Bueno, mホs o menos. Despu〒s de todo, no[n]es que sea gratis.
+ムAsボ es la vida!
+ムNos vemos!
 
 [msg book_bonus001_ex_01 [Elizabeth]]
 Not used
@@ -445,9 +445,9 @@ Not used
 Not used
 
 [sel msg_combine_exp_personac top]
-Fundamentos de la fusi吋n
+Fundamentos de la fusiポn
 Copiar personas
-Reglas de fusi吋n
+Reglas de fusiポn
 Herencia de habilidades
 Reglas de herencia
 Volver
@@ -456,93 +456,93 @@ Volver
 説明y聞く選択肢用 4ミーメ7セージ
 
 [msg msg_combine_HELP_KIHON [Justine]]
-"Fusi吋n" es el arte secreto de utilizar[n]dos Personas para crear una nueva.
+"Fusiポn" es el arte secreto de utilizar[n]dos Personas para crear una nueva.
 
 [msg msg_combine_HELP_KIHON_0 [Caroline]]
-Pero recuerda, las necesitar茨s como[n]Personas Secundarias si quieres[n]fusionarlas.
+Pero recuerda, las necesitarホs como[n]Personas Secundarias si quieres[n]fusionarlas.
 
 [msg msg_combine_HELP_KIHON_0_2 [Justine]]
-Con la fusi吋n, puedes crear Personas con[n]un poder a雨n mayor.
-Sin embargo, las Personas combinadas en[n]el proceso de fusi吋n se perder茨n.
+Con la fusiポn, puedes crear Personas con[n]un poder aマn mayor.
+Sin embargo, las Personas combinadas en[n]el proceso de fusiポn se perderホn.
 
 [msg msg_combine_HELP_KIHON_0_3 [Caroline]]
 Puedes elegir heredar ciertas[n]habilidades de las Personas originales[n]para la nueva.
 
 [msg msg_combine_HELP_KIHON_0_4 [Justine]]
-Las Personas reci姻n invocadas aprender茨n[n]habilidades a medida que se fortalecen.
+Las Personas reci〒n invocadas aprenderホn[n]habilidades a medida que se fortalecen.
 
 [msg msg_combine_HELP_KIHON_0_5 [Caroline]]
 En otras palabras, puedes crear una[n]Persona con todas las habilidades que[n]quieras.
-Si est茨s dispuesto a dedicarle tiempo,[n]斡Claro!
+Si estホs dispuesto a dedicarle tiempo,[n]ムClaro!
 
 [msg msg_combine_HELP_COPY [Justine]]
 Normalmente, cuando fusionas Personas,[n]las Personas que combinas son[n]sacrificados en el proceso.
 Sin embargo, si seleccionas "copiar" a[n]una Persona, vamos a duplicarla antes de[n]que desaparezca.
 
 [msg msg_combine_HELP_COPY_02 [Caroline]]
-De esta forma, aunque fusiones la[n]Persona que tienes equipada, no[n]desaparecer茨.
+De esta forma, aunque fusiones la[n]Persona que tienes equipada, no[n]desaparecerホ.
 Por supuesto, copiar no es gratis.
 
 [msg msg_combine_HELP_COPY_03 [Justine]]
-Depende de ti utilizar la opci吋n[n]sabiamente.
+Depende de ti utilizar la opciポn[n]sabiamente.
 
 [msg msg_combine_HELP_COPY_04 [Caroline]]
-Si deseas copiar Personas, selecci吋nala[n]al elegir cu茨l fusionar.
+Si deseas copiar Personas, selecciポnala[n]al elegir cuホl fusionar.
 
 [msg msg_combine_HELP_RULE [Caroline]]
-El resultado de una fusi吋n se basa en el[n]Arcano de las Personas utilizadas en la[n]fusi吋n.
-Bueno, escuch姻 de algunas que no siguen[n]esa regla...
+El resultado de una fusiポn se basa en el[n]Arcano de las Personas utilizadas en la[n]fusiポn.
+Bueno, escuch〒 de algunas que no siguen[n]esa regla...
 
 [msg msg_combine_HELP_RULE_02 [Justine]]
-Un ejemplo ser胤a si fusionas dos[n]Personas del mismo Arcano.
-Entendemos que si dos Personas del mismo[n]Arcano se fusionan, el resultado tendr茨[n]un rango inferior.
+Un ejemplo serボa si fusionas dos[n]Personas del mismo Arcano.
+Entendemos que si dos Personas del mismo[n]Arcano se fusionan, el resultado tendrホ[n]un rango inferior.
 
 [msg msg_combine_HELP_RULE_03 [Caroline]]
-斡En cualquier caso, prueba diferentes[n]combinaciones y desc雨brelo t雨 mismo!
+ムEn cualquier caso, prueba diferentes[n]combinaciones y descマbrelo tマ mismo!
 
 [msg msg_combine_HELP_KEISYOU [Justine]]
-Una Persona nacida de una fusi吋n puede[n]heredar las habilidades de las Personas[n]utilizadas para crearla.
-En otras palabras, puedes utilizar la fusi吋n[n]para ense隠arle a una Persona habilidades que[n]nunca podr胤a aprender por s胤 sola.
+Una Persona nacida de una fusiポn puede[n]heredar las habilidades de las Personas[n]utilizadas para crearla.
+En otras palabras, puedes utilizar la fusiポn[n]para enseワarle a una Persona habilidades que[n]nunca podrボa aprender por sボ sola.
 
 [msg msg_combine_HELP_KEISYOU_2 [Caroline]]
-Es la parte m茨s importante para crear[n]Personas fuertes, as胤 que recu姻rdalo.
+Es la parte mホs importante para crear[n]Personas fuertes, asボ que recu〒rdalo.
 
 [msg msg_combine_HELP_KEISYOU_3 [Justine]]
-No estamos seguras de todos los detalles[n]de la herencia, pero hay tres reglas[n]b茨sicas:
-En primer lugar, puedes seleccionar las[n]habilidades que se heredar茨n.
-Segundo, la Persona fusionada puede[n]tener un l胤mite de habilidades que se[n]pueden heredar.
-...Podemos hablar m茨s sobre eso en[n]breve.
+No estamos seguras de todos los detalles[n]de la herencia, pero hay tres reglas[n]bホsicas:
+En primer lugar, puedes seleccionar las[n]habilidades que se heredarホn.
+Segundo, la Persona fusionada puede[n]tener un lボmite de habilidades que se[n]pueden heredar.
+...Podemos hablar mホs sobre eso en[n]breve.
 
 [msg msg_combine_HELP_KEISYOU_4 [Caroline]]
-斡Por 雨ltimo: cuantas m茨s habilidades[n]tengan las Personas que se sacrificaran,[n]m茨s habilidades heredara la nueva!
-Probablemente aprendas mejor prob茨ndolo[n]por ti mismo. Adelante, recluso.
+ムPor マltimo: cuantas mホs habilidades[n]tengan las Personas que se sacrificaran,[n]mホs habilidades heredara la nueva!
+Probablemente aprendas mejor probホndolo[n]por ti mismo. Adelante, recluso.
 
 [msg msg_combine_HELP_ZOKUSEI [Justine]]
-Perm胤teme darte m茨s detalles sobre la[n]herencia de habilidades.
+Permボteme darte mホs detalles sobre la[n]herencia de habilidades.
 Cada Persona tiene habilidades que se[n]pueden y no heredar.
-Estas vienen determinadas por las[n]caracter胤sticas de la persona.
+Estas vienen determinadas por las[n]caracterボsticas de la persona.
 
 [msg msg_combine_HELP_ZOKUSEI_2 [Caroline]]
-Te diremos lo que hemos descubierto[n]hasta ahora, as胤 que presta atenci吋n.
-Las personas buenas en ataques f胤sicos[n]no pueden heredar habilidades de[n]curaci吋n...
-As胤 que por l吋gica las Personas[n]sanadoras no pueden aprender habilidades[n]f胤sicas.
+Te diremos lo que hemos descubierto[n]hasta ahora, asボ que presta atenciポn.
+Las personas buenas en ataques fボsicos[n]no pueden heredar habilidades de[n]curaciポn...
+Asボ que por lポgica las Personas[n]sanadoras no pueden aprender habilidades[n]fボsicas.
 
 [msg msg_combine_HELP_ZOKUSEI_3 [Justine]]
-Fuego y Hielo, Bendici吋n y Maldici吋n...[n]Algunos de estos pares opuestos.
+Fuego y Hielo, Bendiciポn y Maldiciポn...[n]Algunos de estos pares opuestos.
 Las Personas que favorecen una[n]determinada afinidad no pueden heredar[n]habilidades opuestas.
-Por lo tanto, sabr茨s las habilidades que[n]una Persona no puede aprender al ver sus[n]habilidades iniciales.
+Por lo tanto, sabrホs las habilidades que[n]una Persona no puede aprender al ver sus[n]habilidades iniciales.
 
 [msg msg_combine_HELP_ZOKUSEI_4 [Caroline]]
 Sin embargo, hay algunas excepciones.
 Algunas Personas tienen el potencial de[n]aprender cualquier habilidad. Pero son[n]raras.
-斡Prueba y desc雨brelo por ti mismo,[n]recluso!
+ムPrueba y descマbrelo por ti mismo,[n]recluso!
 
 [msg VELVET_HELP_GREET_TWINS_ [Caroline]]
-夷Qu姻 quieres?
+メQu〒 quieres?
 
 [msg VELVET_HELP_GREET_TWINS__2 [Justine]]
-夷Qu姻 quieres preguntar?
+メQu〒 quieres preguntar?
 
 [msg VELVET_HELP_GREET_MARRY [Marie]]
-夷Qu姻 quieres saber?
+メQu〒 quieres saber?
 

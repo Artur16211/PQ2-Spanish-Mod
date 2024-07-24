@@ -1,80 +1,80 @@
 [msg MSG_000 [Rise]]
-斡S胤胤胤! 斡ESO s胤 que es un final feliz!
+ムSボボボ! ムESO sボ que es un final feliz!
 
 [msg MSG_001 [Fuuka]]
-Siento que se me salen las l茨grimas...[n]夷C吋mo te sientes, Hikari?
+Siento que se me salen las lホgrimas...[n]メCポmo te sientes, Hikari?
 
 [msg MSG_002 [Hikari]]
 Mm... Me gusto, creo que fue un final[n]maravilloso.
 
 [msg MSG_003 [Rise]]
-夷Verdad, verdad? 斡Una historia tiene que[n]terminar feliz, justo como ahora!
+メVerdad, verdad? ムUna historia tiene que[n]terminar feliz, justo como ahora!
 
 [msg MSG_004 [Hikari]]
-Si act雨as como eres realmente, podr胤as[n]hacerte da隠o...
-As胤 que, si te escondes y solo copias a[n]los dem茨s, no te lastimar茨s, y la vida[n]ser胤a m茨s f茨cil.
-Pero, eventualmente, tu verdadero yo se[n]desvanecer茨... y perder茨s de vista lo[n]que te mantiene viva.
+Si actマas como eres realmente, podrボas[n]hacerte daワo...
+Asボ que, si te escondes y solo copias a[n]los demホs, no te lastimarホs, y la vida[n]serボa mホs fホcil.
+Pero, eventualmente, tu verdadero yo se[n]desvanecerホ... y perderホs de vista lo[n]que te mantiene viva.
 
 [msg MSG_005 [Fuuka]]
-Yo tambi姻n lo entiendo.
-Siempre me falt吋 confianza en m胤 misma y[n]me preocupaba c吋mo me ve胤an los dem茨s...
-Pero despu姻s de conocer a mis[n]compa隠eros, ser aceptada por ellos...
-E incluso siendo necesaria por ellos,[n]con el tiempo llego a gustarme qui姻n[n]soy.
+Yo tambi〒n lo entiendo.
+Siempre me faltポ confianza en mボ misma y[n]me preocupaba cポmo me veボan los demホs...
+Pero despu〒s de conocer a mis[n]compaワeros, ser aceptada por ellos...
+E incluso siendo necesaria por ellos,[n]con el tiempo llego a gustarme qui〒n[n]soy.
 
 [msg MSG_006 [Hikari]]
-Ya veo... 夷Crees que... que yo tambi姻n[n]podr胤a hacer compa隠eros as胤?
+Ya veo... メCrees que... que yo tambi〒n[n]podrボa hacer compaワeros asボ?
 
 [msg MSG_007 [Rise]]
-斡Vamos! 夷Por qu姻 no nos dices lo que[n]piensas de nosotros?
+ムVamos! メPor qu〒 no nos dices lo que[n]piensas de nosotros?
 
 [msg MSG_008 [Hikari]]
-夷Eh?
+メEh?
 
 [msg MSG_009 [Fuuka]]
-Estoy segura de que todos nosotros ya te[n]consideramos nuestra compa隠era.
+Estoy segura de que todos nosotros ya te[n]consideramos nuestra compaワera.
 
 [msg MSG_010 [Hikari]]
-Pero no puedo luchar ni ayudar como los[n]dem茨s... Y, acabamos de conocernos...
+Pero no puedo luchar ni ayudar como los[n]demホs... Y, acabamos de conocernos...
 
 [msg MSG_011 [Rise]]
 Nada de eso importa.
-Todos somos amigos que se dirigen juntos hacia[n]el mismo objetivo, que se apoyan mutuamente...[n]夷No es esa raz吋n suficiente?
+Todos somos amigos que se dirigen juntos hacia[n]el mismo objetivo, que se apoyan mutuamente...[n]メNo es esa razポn suficiente?
 
 [msg MSG_012 [Hikari]]
 Amigos...
 Entiendo, gracias...
-Yo tambi姻n quiero poder mantener la[n]cabeza en alto. Necesito hacerme m茨s[n]fuerte...
+Yo tambi〒n quiero poder mantener la[n]cabeza en alto. Necesito hacerme mホs[n]fuerte...
 
 [msg MSG_013 [Doe]]
 ...
 
 [msg MSG_014 [Rise]]
-Oh, aqu胤 viene... 夷Es la hora de la[n]llave?
+Oh, aquボ viene... メEs la hora de la[n]llave?
 
 [msg MSG_015 [Doe]]
-Ngh... 斡Nnngh!
+Ngh... ムNnngh!
 
 [msg MSG_016 [Fuuka]]
-斡夷Qu-qu姻?! 斡夷Sali吋 por sus ojos?!
+ムメQu-qu〒?! ムメSaliポ por sus ojos?!
 
 [msg MSG_017 [Rise]]
-Oh, cierto, es tu primera vez viendo[n]esto tambi姻n.
+Oh, cierto, es tu primera vez viendo[n]esto tambi〒n.
 
 [msg MSG_018 [Fuuka]]
-Me lo hab胤an contado, pero es mucho m茨s[n]inquietante de lo que imaginaba...
-Es seguro recoger esa llave... 夷Verdad?
+Me lo habボan contado, pero es mucho mホs[n]inquietante de lo que imaginaba...
+Es seguro recoger esa llave... メVerdad?
 
 [msg MSG_019 [Rise]]
-No hemos tenido problemas hasta ahora.[n]Deber胤a ir en la tercera cerradura.
+No hemos tenido problemas hasta ahora.[n]Deberボa ir en la tercera cerradura.
 
 [msg MSG_020 [Fuuka]]
-斡Oh, entonces deber胤amos guardarla para[n]cuando todos regresen!
+ムOh, entonces deberボamos guardarla para[n]cuando todos regresen!
 
 [msg MSG_021 [Rise]]
-夷Puedes recogerla, Fuuka? 斡Voy a ponerme[n]en contacto con Senpai y los dem茨s!
+メPuedes recogerla, Fuuka? ムVoy a ponerme[n]en contacto con Senpai y los demホs!
 
 [msg MSG_022 [Fuuka]]
-斡S胤, por supuesto!
+ムSボ, por supuesto!
 
 [msg MSG_023 [Hikari]]
 ...
@@ -83,20 +83,20 @@ No hemos tenido problemas hasta ahora.[n]Deber胤a ir en la tercera cerradura.
 Hikari...
 
 [msg MSG_025 [Hikari]]
-斡...!
+ム...!
 
 [msg MSG_026 [Doe]]
-No puedes... seguir siendo parte del[n]p雨blico para siempre...
+No puedes... seguir siendo parte del[n]pマblico para siempre...
 
 [msg MSG_027 [Hikari]]
 Ah... yo...
 
 [msg MSG_028 [Hikari]]
-斡Nnh--Ahhh!
+ムNnh--Ahhh!
 
 [msg MSG_029 [Fuuka]]
-斡夷Eh?!
+ムメEh?!
 
 [msg MSG_030 [Rise]]
-斡Ah!
+ムAh!
 

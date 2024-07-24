@@ -2,8 +2,8 @@
 LOS ERRORES DEBEN SER ELIMINADOS. LOS ERRORES DEBEN SER ELIMINADOS.
 
 [msg MSG_001 [Junpei]]
-Lo siento, 斡pero no te acercar茨s ni un paso m茨s a ellos!
+Lo siento, ムpero no te acercarホs ni un paso mホs a ellos!
 
 [msg MSG_002 [Koromaru]]
-斡Guau!
+ムGuau!
 

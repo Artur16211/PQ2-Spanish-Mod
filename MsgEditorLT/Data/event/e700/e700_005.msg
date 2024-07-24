@@ -1,23 +1,23 @@
 [msg MSG_000 [Ryuji]]
-Espera, 夷hacia d吋nde estamos corriendo?
+Espera, メhacia dポnde estamos corriendo?
 
 [sel SEL_001 top]
-斡Oracle!
+ムOracle!
 Vamos a averiguarlo.
 
 [msg MSG_002 [Futaba]]
-斡Espera! Veamos, escapar de la ruta,[n]escapar de la ruta...
+ムEspera! Veamos, escapar de la ruta,[n]escapar de la ruta...
 
 [msg MSG_003 [Makoto]]
-斡No tenemos tiempo para esto! Tenemos[n]que alejarnos de aqu胤 antes de que[n]lleguen refuerzos...
-斡Oracle! 夷Hay alg雨n lugar seguro?
+ムNo tenemos tiempo para esto! Tenemos[n]que alejarnos de aquボ antes de que[n]lleguen refuerzos...
+ムOracle! メHay algマn lugar seguro?
 
 [msg MSG_003_05 [Futaba]]
-斡Dame un segundo! Estoy buscando ahora[n]mismo...
+ムDame un segundo! Estoy buscando ahora[n]mismo...
 
 [msg MSG_004 [Futaba]]
-斡Joker, ve por ah胤! 斡Deber胤a estar libre[n]en esa direcci吋n!
+ムJoker, ve por ahボ! ムDeberボa estar libre[n]en esa direcciポn!
 
 [msg MSG_005 [Morgana]]
-斡Muy bien! 斡Vamos, chicos!
+ムMuy bien! ムVamos, chicos!
 

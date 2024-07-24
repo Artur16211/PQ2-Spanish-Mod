@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Yusuke]]
-Podemos recoger objetos aqu胤... 斡Qu姻[n]emocionante!
+Podemos recoger objetos aquボ... ムQu〒[n]emocionante!
 
 [msg MSG_001 [Yusuke]]
 Cierto. Sera mejor estar atentos.
 
 [msg MSG_002 [Yusuke]]
-Hm. 斡Que comience la recolecci吋n!
+Hm. ムQue comience la recolecciポn!
 
 [msg MSG_003 [Yusuke]]
-夷Hm? 夷Has decidido no hacerlo?
+メHm? メHas decidido no hacerlo?
 
 [msg MSG_004 [Yusuke]]
-Parece que eso es todo por ahora. No[n]est茨 mal.
+Parece que eso es todo por ahora. No[n]estホ mal.
 
 [msg MSG_005]
 Esto ahora nos pertenece.
 
 [msg MSG_006]
-夷Oh? Esto es...
+メOh? Esto es...
 
 [msg MSG_007]
 Hm.
 
 [msg MSG_008 [Yusuke]]
-Hemos llamado la atenci吋n de las[n]Sombras... Deber胤amos parar aqu胤.
+Hemos llamado la atenciポn de las[n]Sombras... Deberボamos parar aquボ.
 
 [msg MSG_009]
-斡Ohh!
+ムOhh!
 
 [msg MSG_010]
-斡Un hallazgo estupendo!
+ムUn hallazgo estupendo!
 
 [msg MSG_011]
 Hm, esto parece valioso.
 
 [msg MSG_012 [Yusuke]]
-Un atajo. 夷Qu姻 sugieres que hagamos?
+Un atajo. メQu〒 sugieres que hagamos?
 
 [msg MSG_013 [Yusuke]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Yusuke]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Yusuke]]
-Parece que no podemos pasar por aqu胤.
+Parece que no podemos pasar por aquボ.
 
 [msg MSG_016 [Yusuke]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Yusuke]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Yusuke]]
-夷Eh? Siento una presencia siniestra[n]cerca.
+メEh? Siento una presencia siniestra[n]cerca.
 
 [msg MSG_019 [Yusuke]]
-Muy bien. Veamos qu姻 es.
+Muy bien. Veamos qu〒 es.
 
 [msg MSG_020 [Yusuke]]
-Hm... 夷No quieres echar un vistazo?
+Hm... メNo quieres echar un vistazo?
 
 [msg MSG_021 [Yusuke]]
 Ese fue un oponente bastante fuerte...
 
 [msg MSG_022 [Yusuke]]
-Sombras... est茨n cerca.
+Sombras... estホn cerca.
 
 [msg MSG_023 [Yusuke]]
-Echemos un vistazo, 夷de acuerdo?
+Echemos un vistazo, メde acuerdo?
 
 [msg MSG_024 [Yusuke]]
-S胤, retrocedamos por ahora.
+Sボ, retrocedamos por ahora.
 
 [msg MSG_025 [Yusuke]]
-Eso estuvo cerca. 夷Es todo?
+Eso estuvo cerca. メEs todo?
 
 [msg MSG_026 [Yusuke]]
-Parece que podemos volver al cine desde[n]aqu胤.
+Parece que podemos volver al cine desde[n]aquボ.
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

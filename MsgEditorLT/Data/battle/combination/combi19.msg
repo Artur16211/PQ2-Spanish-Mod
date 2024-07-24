@@ -1,9 +1,9 @@
 [msg MSG_BTL_001]
-斡A por ellos!
+ムA por ellos!
 
 [msg MSG_BTL_002]
-斡Por supuesto!
+ムPor supuesto!
 
 [msg MSG_BTL_003]
-夷Qu姻―Qu姻―Oh, mierda! 斡Mierda!
+メQu〒―Qu〒―Oh, mierda! ムMierda!
 

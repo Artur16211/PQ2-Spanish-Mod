@@ -1,29 +1,29 @@
 [msg MSG_000 [Junpei]]
-Hey, so are Easter eggs, like... real[n]eggs?
+Ey, メentonces los huevos de Pascua son... huevos de verdad?
 
 [msg MSG_001 [Ann]]
-Sometimes they're hard-boiled eggs, but[n]they can also be egg-shaped containers[n]filled with candy and stuff.
+A veces son huevos duros, pero tambi〒n pueden ser recipientes con forma de huevo rellenos de caramelos y otras cosas.
 
 [msg MSG_002 [Haru]]
-I think there's also really famous ones[n]too―like the ones from Imperial Russia.
+Creo que tambi〒n hay algunos muy famosos, como los de la Rusia Imperial.
 
 [msg MSG_003 [Naoto]]
-I've heard of those. You're referring to[n]Faberg〒 eggs, yes?
-They come in many different colors and[n]designs. They're worth several hundred[n]million yen at least.
+He oボdo hablar de ellos. Te refieres a los huevos Faberg〒, メno?
+Los hay de muchos colores y diseワos. Valen cientos de millones de yenes como mボnimo.
 
 [msg MSG_004 [Junpei]]
-Millions!? Seriously!?
+ムメMillones?! ムメEn serio?!
 
 [msg MSG_005 [Naoto]]
-Perhaps that's what's waiting for us at[n]the end of this screening... I suppose[n]we can dream. *chuckle*
+Quizホs sea eso lo que nos espera al final de esta proyecciポn... Supongo que podemos soワar. *risita*
 
 [msg MSG_006 [Junpei]]
-Rrraaaaah! That thing's gonna make us[n]zillionaires! Here comes Junpei, Ace[n]Det-egg-tive!
+ムRrraaaaah! ムEsa cosa nos va a hacer millonarios! ムAquボ viene el Superbuscador de huevos, Junpei!
 
 [msg MSG_007 [Futaba]]
-Remember where we are, though. I don't[n]think we're gonna find anything like[n]that here.
-...Aaand he's not listening.
+Aunque, recordad donde estamos. No creo que vayamos a encontrar algo asボ.
+... Y no estホ escuchando.
 
 [msg MSG_008 [Junpei]]
-Just you wait, little egg! We're on our[n]way!
+ムEspera, huevito! ムYa vamos!
 

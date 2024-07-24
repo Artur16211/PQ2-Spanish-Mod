@@ -1,17 +1,17 @@
 [msg P4_HERO_FOE_FOLLOW_START]
-斡Nos ha visto un FOE!
+ムNos ha visto un FOE!
 
 [msg P4_HERO_FOE_FOLLOW_START_2]
 Hay un FOE cerca...
 
 [msg P4_HERO_FOE_FOLLOW_START_3]
-斡Cuidado! Es un FOE.
+ムCuidado! Es un FOE.
 
 [msg P4_HERO_FOE_NEAR_1]
 Hay un FOE cerca.
 
 [msg P4_HERO_FOE_NEAR_2]
-Hay un FOE por ah胤.
+Hay un FOE por ahボ.
 
 [msg P4_HERO_FOE_NEAR_3]
 Es un FOE... Cuidado.
@@ -20,79 +20,79 @@ Es un FOE... Cuidado.
 Lo sacudimos...
 
 [msg P4_HERO_FOE_FOLLOW_END_2]
-Parece que se rindi吋.
+Parece que se rindiポ.
 
 [msg P4_HERO_FOE_FOLLOW_END_3]
 Parece que lo perdimos.
 
 [msg P4_HERO_KANSI_REACTION_1]
-No deber胤amos meternos con eso...
+No deberボamos meternos con eso...
 
 [msg P4_HERO_KANSI_REACTION_2]
 Debemos cuidar nuestros pasos...
 
 [msg P4_HERO_KANSI_REACTION_3]
-夷Podremos pasar a trav姻s de eso?
+メPodremos pasar a trav〒s de eso?
 
 [msg P4_HERO_DENKISAKU_REACTI]
 Eso no se ve bien.
 
 [msg P4_HERO_DENKISAKU_REACTI_2]
-Una puerta el姻ctrica... No la toques.
+Una puerta el〒ctrica... No la toques.
 
 [msg P4_HERO_DENKISAKU_REACTI_3]
-Tenemos que apagar la energ胤a de[n]alguna manera...
+Tenemos que apagar la energボa de[n]alguna manera...
 
 [msg P4_HERO_KYOUHU_REACTION_]
-夷Qu姻
+メQu〒
 
 [msg P4_HERO_KYOUHU_REACTION__2]
-斡Whoa!
+ムWhoa!
 
 [msg P4_HERO_KYOUHU_REACTION__3]
-斡Agh!
+ムAgh!
 
 [msg P4_HERO_STAIR_FIND_1]
 Parece que podemos seguir adelante.
 
 [msg P4_HERO_STAIR_FIND_2]
-夷Listo para el siguiente zona?
+メListo para el siguiente zona?
 
 [msg P4_HERO_STAIR_FIND_3]
-Podemos seguir adelante. 夷Estamos[n]listos?
+Podemos seguir adelante. メEstamos[n]listos?
 
 [msg P4_HERO_TREASURE_FIND_1]
-Un cofre del tesoro... 夷Vas a[n]abrirlo?
+Un cofre del tesoro... メVas a[n]abrirlo?
 
 [msg P4_HERO_TREASURE_FIND_2]
 Veo un cofre del tesoro.
 
 [msg P4_HERO_TREASURE_FIND_3]
-Un cofre del tesoro... Me pregunto[n]qu姻 hay dentro.
+Un cofre del tesoro... Me pregunto[n]qu〒 hay dentro.
 
 [msg P4_HERO_CHECK_WALL_1]
-夷Qu姻 es eso?
+メQu〒 es eso?
 
 [msg P4_HERO_CHECK_WALL_2]
-Hay algo ah胤.
+Hay algo ahボ.
 
 [msg P4_HERO_CHECK_WALL_3]
-Algo est茨 aqu胤... Echemos un vistazo[n]m茨s de cerca.
+Algo estホ aquボ... Echemos un vistazo[n]mホs de cerca.
 
 [msg P4_HERO_SWITCH_FIND_1]
 Hemos encontrado un interruptor.
 
 [msg P4_HERO_SWITCH_FIND_2]
-Hay un interruptor por all胤.
+Hay un interruptor por allボ.
 
 [msg P4_HERO_SWITCH_FIND_3]
 Eso es un interruptor.
 
 [msg P4_HERO_SHORTCUT_FIND_1]
-Podemos pasar por all胤.
+Podemos pasar por allボ.
 
 [msg P4_HERO_SHORTCUT_FIND_2]
-夷Hm? Eso parece un atajo.
+メHm? Eso parece un atajo.
 
 [msg P4_HERO_SHORTCUT_FIND_3]
 Mira, podemos usar eso como un atajo.
@@ -113,61 +113,61 @@ Un FOE se dirige a nosotros.
 Es un FOE. Mantente en guardia.
 
 [msg P4_HERO_FOE_WARNING_NEAR_3]
-Hay un FOE detr茨s de nosotros.
+Hay un FOE detrホs de nosotros.
 
 [msg P4_HERO_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P4_HERO_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P4_HERO_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P4_HERO_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg P4_HERO_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg P4_HERO_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg P4_HERO_1PERSON_HPTP10_1]
-Ngh... Quiz茨s deber胤amos descansar.
+Ngh... Quizホs deberボamos descansar.
 
 [msg P4_HERO_1PERSON_HPTP10_2]
-Uf... Me vendr胤a bien un descanso...
+Uf... Me vendrボa bien un descanso...
 
 [msg P4_HERO_1PERSON_HPTP10_3]
 No me encuentro muy bien...
 
 [msg P4_HERO_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P4_HERO_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P4_HERO_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P4_HERO_1PERSON_HP10_1]
 Estoy herido...
 
 [msg P4_HERO_1PERSON_HP10_2]
-Estoy en las 雨ltimas...
+Estoy en las マltimas...
 
 [msg P4_HERO_1PERSON_HP10_3]
 Siento que voy a colapsar...
 
 [msg P4_HERO_1PERSON_TP10_1]
-Lo siento, no tengo energ胤a...
+Lo siento, no tengo energボa...
 
 [msg P4_HERO_1PERSON_TP10_2]
-Uf... Esto es dif胤cil...
+Uf... Esto es difボcil...
 
 [msg P4_HERO_1PERSON_TP10_3]
-No es bueno... Estoy sin energ胤as...
+No es bueno... Estoy sin energボas...
 
 [msg P4_HERO_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,7 +179,7 @@ No es bueno... Estoy sin energ胤as...
 【justificadamente
 
 [msg P4_HERO_1PERSON_HP80_1]
-Todav胤a estamos en forma.
+Todavボa estamos en forma.
 
 [msg P4_HERO_1PERSON_HP80_2]
 No hay problema.
@@ -197,19 +197,19 @@ Mantengamos el ritmo.
 ■:
 
 [msg P4_HERO_ITEM_90_DUNGEON_]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg P4_HERO_ITEM_90_DUNGEON__2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg P4_HERO_ITEM_90_DUNGEON__3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg P4_HERO_DUNGEON_START_1]
 Permanezcamos en guardia.
 
 [msg P4_HERO_DUNGEON_START_2]
-No he olvidado nada, 夷verdad?
+No he olvidado nada, メverdad?
 
 [msg P4_HERO_DUNGEON_START_3]
 Si parece peligroso, siempre podemos[n]retroceder.
@@ -227,58 +227,58 @@ Vamos, chicos.
 Creo que estoy empezando a sentir[n]este piso...
 
 [msg P4_HERO_TOUHA_25_2]
-Todav胤a hay mucho terreno que cubrir.
+Todavボa hay mucho terreno que cubrir.
 
 [msg P4_HERO_TOUHA_50_1]
 Supongo que estamos a mitad de camino[n].
 
 [msg P4_HERO_TOUHA_50_2]
-El mapa est茨 tomando forma[n]lentamente.
+El mapa estホ tomando forma[n]lentamente.
 
 [msg P4_HERO_TOUHA_75_1]
 Uf... hemos recorrido un largo[n]camino.
 
 [msg P4_HERO_TOUHA_75_2]
-Un poco m茨s, y este piso ser茨[n]nuestro.
+Un poco mホs, y este piso serホ[n]nuestro.
 
 [msg P4_HERO_TOUHA_100_1]
-Hemos visto todo lo que hay que ver[n]por aqu胤.
+Hemos visto todo lo que hay que ver[n]por aquボ.
 
 [msg P4_HERO_TOUHA_100_2]
-Bien. Este piso est茨 hecho.
+Bien. Este piso estホ hecho.
 
 [msg P4_HERO_MAPPING_ICON_ALL]
-Buena colocaci吋n.
+Buena colocaciポn.
 
 [msg P4_HERO_MAPPING_ICON_ALL_2]
-Eso nos vendr茨 bien.
+Eso nos vendrホ bien.
 
 [msg P4_HERO_MAPPING_ICON_KAI]
 Se ve bien.
 
 [msg P4_HERO_MAPPING_ICON_KAI_2]
-Eso har茨 m茨s f茨cil moverse.
+Eso harホ mホs fホcil moverse.
 
 [msg P4_HERO_MAPPING_CHANGE_C]
-夷Un favorito tuyo?
+メUn favorito tuyo?
 
 [msg P4_HERO_MAPPING_CHANGE_C_2]
 Elegante.
 
 [msg P4_HERO_MAPPING_ICON_DEL]
-Buena elecci吋n.
+Buena elecciポn.
 
 [msg P4_HERO_MAPPING_ICON_DEL_2]
-A veces tambi姻n tienes que borrar[n]cosas.
+A veces tambi〒n tienes que borrar[n]cosas.
 
 [msg P4_HERO_MAPPING_MEMO_1]
-S胤, guardar notas puede ser 雨til.
+Sボ, guardar notas puede ser マtil.
 
 [msg P4_HERO_MAPPING_MEMO_2]
 Buena idea. Ahora no lo olvidaremos.
 
 [msg P4_HERO_DOOR_OPEN_1]
-斡Por aqu胤!
+ムPor aquボ!
 
 [msg P4_HERO_DOOR_OPEN_2]
 Muy bien, vamos.
@@ -287,11 +287,11 @@ Muy bien, vamos.
 Sigamos.
 
 [msg P4_HERO_KARITORU_ENCOUNT]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg P4_HERO_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg P4_HERO_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

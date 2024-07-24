@@ -1,79 +1,79 @@
 [msg MSG_000 [Ann]]
-Veamos, la lectura ven胤a de adelante,[n]夷verdad?
+Veamos, la lectura venボa de adelante,[n]メverdad?
 
 [msg MSG_001 [Yukiko]]
-Mmm. Si no nos apuramos, ese herb胤voro[n]podr胤a ser comido...
+Mmm. Si no nos apuramos, ese herbボvoro[n]podrボa ser comido...
 
 [msg MSG_002 [Voz Distante]]
-斡夷Waaaah?!
+ムメWaaaah?!
 
 [msg MSG_003 [Teddie]]
-夷Qu姻 fue eso? Sonaba como si alguien[n]fuera aplastado... No me digas que...
+メQu〒 fue eso? Sonaba como si alguien[n]fuera aplastado... No me digas que...
 
 [sel SEL_004 top]
 Era un fantasma...
-Era s吋lo una rana.
-夷Era un carn胤voro?
+Era sポlo una rana.
+メEra un carnボvoro?
 
 [msg MSG_005 [Chie]]
-斡夷Espera, hay fantasmas en la[n]prehistoria?!
+ムメEspera, hay fantasmas en la[n]prehistoria?!
 
 [msg MSG_006 [Teddie]]
-Por favor, descansa en paz... 斡Se隠or,[n]ten piedad de este oso inocente!
+Por favor, descansa en paz... ムSeワor,[n]ten piedad de este oso inocente!
 
 [msg MSG_007 [Yukiko]]
-Espera, si es un fantasma de este[n]per胤odo, 夷es un fantasma dinosaurio? 夷No[n]ser胤a enorme?
+Espera, si es un fantasma de este[n]perボodo, メes un fantasma dinosaurio? メNo[n]serボa enorme?
 
 [msg MSG_007_5 [Yukiko]]
-Snrk... 斡Jajajajajaja! 斡U-un fantasma[n]enorme y torpe! 斡Jajajaja...!
+Snrk... ムJajajajajaja! ムU-un fantasma[n]enorme y torpe! ムJajajaja...!
 
 [msg MSG_008 [Chie]]
-斡No, no, no, no! 斡No quiero ver una rana[n]aplastada!
+ムNo, no, no, no! ムNo quiero ver una rana[n]aplastada!
 
 [msg MSG_009 [Teddie]]
-斡夷Q-qu姻?!
+ムメQ-qu〒?!
 
 [msg MSG_009_5 [Teddie]]
-斡Hraaaaaaaaah! 斡Vamos!
+ムHraaaaaaaaah! ムVamos!
 
 [msg MSG_010 [Futaba]]
-斡Vaya, Teddie se va a volver salvaje con[n]ellos! 斡A por ellos, Teddie!
+ムVaya, Teddie se va a volver salvaje con[n]ellos! ムA por ellos, Teddie!
 
 [msg MSG_011 [P4 Hero]]
 No, esa voz definitivamente era...
 
-[msg MSG_012 [Voz De P茨nico]]
-斡Aaaaagh! 斡Al姻jate!
+[msg MSG_012 [Voz De Pホnico]]
+ムAaaaagh! ムAl〒jate!
 
 [msg MSG_013 [Teddie]]
 *jadeo* Esa voz... Con toda su[n]amabilidad y ternura y patetismo...
-斡斡斡Es Yosuke!!!
+ムムムEs Yosuke!!!
 
 [msg MSG_014 [Rise]]
-斡Por fin encontramos a Yosuke! 斡Parece[n]que est茨 al otro lado de esos 茨rboles!
+ムPor fin encontramos a Yosuke! ムParece[n]que estホ al otro lado de esos ホrboles!
 
 [msg MSG_015 [Rise]]
-斡Por fin encontramos a Yosuke! 斡Parece[n]que est茨 adelante!
+ムPor fin encontramos a Yosuke! ムParece[n]que estホ adelante!
 
 [msg MSG_016 [Kanji]]
-斡Genial! Ahora que lo hemos encontrado,[n]apur姻monos y...
+ムGenial! Ahora que lo hemos encontrado,[n]apur〒monos y...
 
 [msg MSG_017 [Futaba]]
-斡Esperen! Malas noticias: 斡hay[n]dinosaurio gigante ah胤 tambi姻n!
+ムEsperen! Malas noticias: ムhay[n]dinosaurio gigante ahボ tambi〒n!
 
 [msg MSG_018 [Naoto]]
 P-pero...
 
 [sel SEL_019 top]
 Tenemos que hacer algo...
-斡Vamos al rescate!
+ムVamos al rescate!
 
 [msg MSG_020 [P4 Hero]]
-斡S胤, lo salvaremos sin importar qu姻![n]斡Aguanta, Yosuke!
+ムSボ, lo salvaremos sin importar qu〒![n]ムAguanta, Yosuke!
 
 [msg MSG_021 [P4 Hero]]
-斡S胤, lo salvaremos sin importar qu姻!
+ムSボ, lo salvaremos sin importar qu〒!
 
 [msg MSG_022 [Makoto]]
-Si no nos apuramos estar茨 en problemas.[n]斡Vamos!
+Si no nos apuramos estarホ en problemas.[n]ムVamos!
 

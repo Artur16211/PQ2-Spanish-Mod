@@ -1,11 +1,11 @@
 [msg DG_MSG_QUEST_FIND]
-斡Has encontrado una misi吋n!
+ムHas encontrado una misiポn!
 
 [msg DG_MSG_QUEST_FIND_QUESTI]
-No encontraste una misi吋n... 斡Porque ya est茨s en una!
+No encontraste una misiポn... ムPorque ya estホs en una!
 
 [msg DG_MSG_LOCK_DOOR_NO_OPEN]
-Est茨 bloqueada.
+Estホ bloqueada.
 
 [sel DG_MSG_SEL_QUEST_CLEAR top]
 Volver a la base

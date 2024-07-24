@@ -1,28 +1,28 @@
-[msg MSG_000 [Carn胤voro llamativo]]
-斡GYAAAAAAH!
+[msg MSG_000 [Carnボvoro llamativo]]
+ムGYAAAAAAH!
 
-[msg MSG_001 [Carn胤voro llamativo]]
-斡GLEEEEEEEEELCH!
+[msg MSG_001 [Carnボvoro llamativo]]
+ムGLEEEEEEEEELCH!
 
 [msg MSG_002 [Futaba]]
-斡Vaya, los ataques de los herb胤voros est茨n funcionando! 斡Es nuestra oportunidad!
+ムVaya, los ataques de los herbボvoros estホn funcionando! ムEs nuestra oportunidad!
 
 [msg MSG_003 [Yosuke]]
-斡Impresionante!
-No podemos perder, 斡tenemos que devolverles el favor!
+ムImpresionante!
+No podemos perder, ムtenemos que devolverles el favor!
 
 [msg MSG_004]
-斡Ver a los herb胤voros luchar nos dio fuerza!
+ムVer a los herbボvoros luchar nos dio fuerza!
 
 [msg MSG_004_2]
-斡Ver a los herb胤voros luchar nos dio fuerza!
+ムVer a los herbボvoros luchar nos dio fuerza!
 
-[msg MSG_005 [Carn胤voro llamativo]]
+[msg MSG_005 [Carnボvoro llamativo]]
 GRUUUUUUTCH...
 
 [msg MSG_006 [Rise]]
-斡Est茨 debilitado! 斡Aguanten un poco m茨s, chicos!
+ムEstホ debilitado! ムAguanten un poco mホs, chicos!
 
-[msg MSG_007 [Carn胤voro llamativo]]
-斡GYAAAAAAH!
+[msg MSG_007 [Carnボvoro llamativo]]
+ムGYAAAAAAH!
 

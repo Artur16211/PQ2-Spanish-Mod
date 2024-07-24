@@ -2,7 +2,7 @@
 Uf, estoy agotado.
 
 [msg MSG_000_1 [Junpei]]
-Es un camino sin salida, as胤 que podemos tomarnos un peque隠o descanso antes de volver, 夷verdad?
+Es un camino sin salida, asボ que podemos tomarnos un pequeワo descanso antes de volver, メverdad?
 
 [sel SEL_001 top]
 Claro, tomemos un descanso.
@@ -10,53 +10,53 @@ Si es necesario...
 Empezar a correr.
 
 [msg MSG_002 [Junpei]]
-斡Oh, s胤, me entiendes!
+ムOh, sボ, me entiendes!
 
 [msg MSG_002_1 [Junpei]]
-Apuesto a que alguien tan bueno como t雨 es un verdadero 姻xito con las damas. O quiz茨 ya est姻s saliendo con alguien...
+Apuesto a que alguien tan bueno como tマ es un verdadero 〒xito con las damas. O quizホ ya est〒s saliendo con alguien...
 
 [msg MSG_003 [Junpei]]
-斡Eres un tirano, t胤o! 斡Eso no te har茨 popular con las mujeres!
+ムEres un tirano, tボo! ムEso no te harホ popular con las mujeres!
 
 [msg MSG_003_1 [Junpei]]
-Hablando de eso, 夷y si te doy algunos consejos...?
+Hablando de eso, メy si te doy algunos consejos...?
 
 [msg MSG_004 [Mitsuru]]
-斡Iori!
+ムIori!
 
 [msg MSG_005 [Junpei]]
-斡夷S-S胤?!
+ムメS-Sボ?!
 
 [msg MSG_006 [Mitsuru]]
-Si tienes tiempo para charlar, est茨 claro que tienes energ胤a.
+Si tienes tiempo para charlar, estホ claro que tienes energボa.
 
 [msg MSG_006_1 [Mitsuru]]
-斡As胤 que menos hablar y m茨s caminar! 斡Vamos!
+ムAsボ que menos hablar y mホs caminar! ムVamos!
 
 [msg MSG_007 [Junpei]]
-S胤, se隠ora...
+Sボ, seワora...
 
 [msg MSG_008 [Mitsuru]]
 Honestamente...
 
 [msg MSG_009 [Makoto]]
-夷Est茨s bien?
+メEstホs bien?
 
 [msg MSG_010 [Mitsuru]]
-Oh, mis disculpas por el estallido; es solo mi imprudencia como l胤der.
+Oh, mis disculpas por el estallido; es solo mi imprudencia como lボder.
 
 [msg MSG_010_1 [Mitsuru]]
-En el fondo no es mala persona, pero es demasiado descuidado. O tal vez simplemente no sabe cu茨ndo estar serio...
+En el fondo no es mala persona, pero es demasiado descuidado. O tal vez simplemente no sabe cuホndo estar serio...
 
 [msg MSG_011 [Makoto]]
-Los problemas parecen no acabar nunca para los miembros m茨s veteranos del grupo.
+Los problemas parecen no acabar nunca para los miembros mホs veteranos del grupo.
 
 [msg MSG_012 [Mitsuru]]
-Ah, es verdad, t雨 tambi姻n eres una estudiante de tercer a隠o. Me encantar胤a charlar contigo en alg雨n momento...
+Ah, es verdad, tマ tambi〒n eres una estudiante de tercer aワo. Me encantarボa charlar contigo en algマn momento...
 
 [msg MSG_012_1 [Mitsuru]]
-Pero no quiero ser hip吋crita. Deber胤amos irnos yendo por ahora.
+Pero no quiero ser hipポcrita. Deberボamos irnos yendo por ahora.
 
 [msg MSG_013]
-Una nueva proyecci吋n especial: "Aquellos que est茨n en la Cima" ha sido a隠adida a la taquilla.
+Una nueva proyecciポn especial: "Aquellos que estホn en la Cima" ha sido aワadida a la taquilla.
 

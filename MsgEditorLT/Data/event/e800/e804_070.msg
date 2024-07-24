@@ -1,149 +1,149 @@
 [msg MSG_000 [Makoto]]
-Bueno, hemos llegado a la alcantarilla. 夷Eso era lo 雨nico que ten胤amos qu姻 hacer?
+Bueno, hemos llegado a la alcantarilla. メEso era lo マnico que tenボamos qu〒 hacer?
 
 [msg MSG_001 [Elizabeth]]
-S胤, eso es suficiente.
-Nuestras intenciones deber胤an de estar claras ahora. Dudo que el sindicato haga un movimiento pronto.
+Sボ, eso es suficiente.
+Nuestras intenciones deberボan de estar claras ahora. Dudo que el sindicato haga un movimiento pronto.
 
 [msg MSG_002 [Makoto]]
-... 夷S胤ndicato?
+... メSボndicato?
 
 [msg MSG_003 [Elizabeth]]
-Oh, nada. Solo hablaba conmigo misma. M茨s importante...
-Bien hecho superando los obst茨culos y completando la misi吋n.
-Parece que el MVP, o deber胤a decir, la protagonista femenina, no era otra que Chie.
+Oh, nada. Solo hablaba conmigo misma. Mホs importante...
+Bien hecho superando los obstホculos y completando la misiポn.
+Parece que el MVP, o deberボa decir, la protagonista femenina, no era otra que Chie.
 
 [msg MSG_004 [Chie]]
-斡夷Y-yo?!
+ムメY-yo?!
 
 [msg MSG_005 [Ann]]
-斡S胤, estuviste incre胤ble al final!
-Era como ver una pel胤cula de acci吋n. No pod胤a dejar de mirar.
+ムSボ, estuviste increボble al final!
+Era como ver una pelボcula de acciポn. No podボa dejar de mirar.
 
 [msg MSG_006 [Chie]]
-Ja, ja, ja...  Me da un poco de vergüenza escuchar eso de ti, Ann.
-En mi opini吋n, t雨 eres mucho mejor que yo.
-斡Eres guap胤sima, tu nivel de ingl姻s es genial, y eres un Ladr吋n Fantasma! 斡Est茨s en otra liga!
+Ja, ja, ja...  Me da un poco de verg↓enza escuchar eso de ti, Ann.
+En mi opiniポn, tマ eres mucho mejor que yo.
+ムEres guapボsima, tu nivel de ingl〒s es genial, y eres un Ladrポn Fantasma! ムEstホs en otra liga!
 
 [sel SEL_007 top]
 Eso no es verdad.
-T雨 tambi姻n eres incre胤ble.
-Creo que Rise es la m茨s guay.
+Tマ tambi〒n eres increボble.
+Creo que Rise es la mホs guay.
 
 [msg MSG_008 [Ryuji]]
-S胤, no seas tan dura contigo misma. Las notas de Ann, aparte de ingl姻s, son terribles.
+Sボ, no seas tan dura contigo misma. Las notas de Ann, aparte de ingl〒s, son terribles.
 
 [msg MSG_009 [Ann]]
-斡No son tan malas como las tuyas!
-... Honestamente, creo que t雨 eres de lejos m茨s guay que yo, Chie.
+ムNo son tan malas como las tuyas!
+... Honestamente, creo que tマ eres de lejos mホs guay que yo, Chie.
 
 [msg MSG_010 [Chie]]
-夷Eh?
+メEh?
 
 [msg MSG_011 [Ann]]
-S胤. De verdad pienso que eres mucho m茨s guay que yo, Chie.
+Sボ. De verdad pienso que eres mucho mホs guay que yo, Chie.
 
 [msg MSG_012 [Chie]]
-夷Eh?
+メEh?
 
 [msg MSG_013 [Rise]]
-斡夷Yo?!
+ムメYo?!
 
 [msg MSG_014 [Ryuji]]
 Bueno, es una idol nacional.
 
 [msg MSG_015 [Chie]]
 Rise is asombrosa, pero supongo que ya me he acostumbrado a ella...
-Tambi姻n es un a隠o m茨s joven que yo. Siento que eso hace un poco diferente la comparaci吋n.
+Tambi〒n es un aワo mホs joven que yo. Siento que eso hace un poco diferente la comparaciポn.
 
 [msg MSG_016 [Ann]]
 Supongo que tengo mucho a mi favor...
-Pero, debido a eso, nunca he sabido qu姻 quer胤a hacer o en qu姻 quer胤a trabajar.
-Siempre me ha inspirado la gente que se esfuerza un mont吋n para conseguir aquello que les gusta. 
+Pero, debido a eso, nunca he sabido qu〒 querボa hacer o en qu〒 querボa trabajar.
+Siempre me ha inspirado la gente que se esfuerza un montポn para conseguir aquello que les gusta. 
 
 [msg MSG_017 [Chie]]
-夷Inspirado?
+メInspirado?
 
 [msg MSG_018 [Ann]]
-S胤. T雨 siempre te emocionas cuando hablas sobre el kung-fu o la carne.
+Sボ. Tマ siempre te emocionas cuando hablas sobre el kung-fu o la carne.
 
 [msg MSG_019 [Yosuke]]
-Yo dir胤a...
+Yo dirボa...
 
 [msg MSG_020 [Ann]]
 Pero creo que me inspiraste incluso antes...
-Supongo que cuando te veo hacer lo que te caracteriza, as胤 es c吋mo quiero ser. Yo tambi姻n quiero hacer lo m胤o propio.
+Supongo que cuando te veo hacer lo que te caracteriza, asボ es cポmo quiero ser. Yo tambi〒n quiero hacer lo mボo propio.
 
 [msg MSG_021 [Chie]]
-夷C吋mo quieres ser...?
+メCポmo quieres ser...?
 Yo tampoco he pensado mucho en mi futuro, pero...
-Yo s姻 que me quiero hacer m茨s fuerte para proteger a mis amigos.
+Yo s〒 que me quiero hacer mホs fuerte para proteger a mis amigos.
 
 [sel SEL_022 top]
-夷No te pasa lo mismo, Ann?
-Las dos os parec姻is bastante.
+メNo te pasa lo mismo, Ann?
+Las dos os parec〒is bastante.
 
 [msg MSG_023 [Ann]]
-... S胤. Fall姻 al proteger a alguien muy importante para m胤...
-Me dije a m胤 misma que me har胤a m茨s fuerte para que nadie tuviera que pasar lo mismo que ella.
+... Sボ. Fall〒 al proteger a alguien muy importante para mボ...
+Me dije a mボ misma que me harボa mホs fuerte para que nadie tuviera que pasar lo mismo que ella.
 
 [msg MSG_024 [Chie]]
-夷Por eso quieres aprender kung-fu?
+メPor eso quieres aprender kung-fu?
 
 [msg MSG_025 [Ann]]
-No me interesaba el kung-fu, sino la fuerza de tu coraz吋n.
-Perd吋n… Supongo que ahora suena como si te hubiera enga隠ado.
+No me interesaba el kung-fu, sino la fuerza de tu corazポn.
+Perdポn… Supongo que ahora suena como si te hubiera engaワado.
 
 [msg MSG_026 [Chie]]
-斡No puede ser! 斡Me encanta saber que estoy luchando junto a alguien que siente lo mismo que yo!
-Adem茨s, todo esto ha sido una genial experiencia de aprendizaje.
-Seguro que si trabajamos juntas podremos hacernos incluso m茨s fuertes. Es como esas palabras de sabidur胤a...
+ムNo puede ser! ムMe encanta saber que estoy luchando junto a alguien que siente lo mismo que yo!
+Ademホs, todo esto ha sido una genial experiencia de aprendizaje.
+Seguro que si trabajamos juntas podremos hacernos incluso mホs fuertes. Es como esas palabras de sabidurボa...
 
 [sel SEL_027 top]
-夷Te refieres a un proverbio?
+メTe refieres a un proverbio?
 "Solo puedes comer brochetas de carne"
 "Dos cabezas son mejor que una"
 
 [msg MSG_028 [Chie]]
-S胤, un proverbio, pero, 夷cu茨l de ellos era?
+Sボ, un proverbio, pero, メcuホl de ellos era?
 
 [msg MSG_029 [Naoto]]
-Una frase relacionada con el trabajo en equipo... 夷"Dos cabezas son mejor que una", quiz茨s?
+Una frase relacionada con el trabajo en equipo... メ"Dos cabezas son mejor que una", quizホs?
 
 [msg MSG_030 [Chie]]
-斡S胤, s胤! 斡Ese era!
+ムSボ, sボ! ムEse era!
 
 [msg MSG_031 [Chie]]
-Ohh, suena maravilloso... Espera, no, 斡ese no es!
+Ohh, suena maravilloso... Espera, no, ムese no es!
 
 [msg MSG_032 [Naoto]]
-Una frase relacionada con el trabajo en equipo... 夷"Dos cabezas son mejor que una", quiz茨s?
+Una frase relacionada con el trabajo en equipo... メ"Dos cabezas son mejor que una", quizホs?
 
 [msg MSG_033 [Chie]]
-斡S胤, s胤! 斡Ese es!
+ムSボ, sボ! ムEse es!
 
 [msg MSG_034 [Chie]]
-Oh, s胤, creo que era...
+Oh, sボ, creo que era...
 
 [msg MSG_035 [Naoto]]
 Una frase que se refiere a trabajar en equipo para lograr un objetivo.
 
 [msg MSG_036 [Ann]]
-Trabajo en equipo, 夷eh? 斡Claro, estoy segura de que podemos hacerlo!
-Justo como cuando hoy hemos trabajado juntas para derrotar a esas sombras como "斡BAM!".
+Trabajo en equipo, メeh? ムClaro, estoy segura de que podemos hacerlo!
+Justo como cuando hoy hemos trabajado juntas para derrotar a esas sombras como "ムBAM!".
 
 [msg MSG_037 [Chie]]
-S胤, si alguien se mete con nosotros, se llevar茨 una doble dosis de "斡BAM!"
+Sボ, si alguien se mete con nosotros, se llevarホ una doble dosis de "ムBAM!"
 
 [sel SEL_038 top]
 Suena bien.
 Suena aterrador.
 
 [msg MSG_039 [P4 Hero]]
-...S胤.
+...Sボ.
 
 [msg MSG_040 [Elizabeth]]
-Una ladrona fantasma muy seductora y una intr姻pida maestra del kung-fu...
-Al parecer, un nuevo v胤nculo ha empezado a florecer a ra胤z de esta misi吋n.
-Tambi姻n, perd吋n por el peque隠o retraso, aqu胤 ten姻is vuestra recompensa.
+Una ladrona fantasma muy seductora y una intr〒pida maestra del kung-fu...
+Al parecer, un nuevo vボnculo ha empezado a florecer a raボz de esta misiポn.
+Tambi〒n, perdポn por el pequeワo retraso, aquボ ten〒is vuestra recompensa.
 

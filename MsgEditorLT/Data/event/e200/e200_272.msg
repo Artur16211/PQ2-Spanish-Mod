@@ -2,11 +2,11 @@
 Agh, algo en el camino...
 
 [msg MSG_001 [Akechi]]
-夷Es... una puerta el姻ctrica? Parece que[n]la dejaron completamente abierta.
+メEs... una puerta el〒ctrica? Parece que[n]la dejaron completamente abierta.
 
 [msg MSG_002 [Rise]]
-斡Espera, espera! 斡La se隠al de Yosuke no[n]viene en esa direcci吋n!
+ムEspera, espera! ムLa seワal de Yosuke no[n]viene en esa direcciポn!
 
 [msg MSG_003 [Naoto]]
-Tambi姻n me intriga esta puerta, pero[n]tenemos que llegar con Yosuke lo m茨s[n]r茨pido posible.
+Tambi〒n me intriga esta puerta, pero[n]tenemos que llegar con Yosuke lo mホs[n]rホpido posible.
 

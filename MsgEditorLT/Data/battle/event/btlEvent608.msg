@@ -1,3 +1,3 @@
 [msg MSG_000 [Morgana]]
-斡Refuerzos! 斡Vamos a derribarlos y robar sus uniformes!
+ムRefuerzos! ムVamos a derribarlos y robar sus uniformes!
 

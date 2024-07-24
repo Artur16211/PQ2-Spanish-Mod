@@ -2,22 +2,22 @@
 Dummy
 
 [msg BTL_MES_021_001]
-斡Bien! 斡Derrot姻moslo!
+ムBien! ムDerrot〒moslo!
 
 [msg BTL_MES_021_002]
 ＜声Of＞おうo、 ぜDGー負けNえ！
 
 [msg BTL_MES_021_003]
-斡Maldici吋n! 斡Un FOE! 斡夷Podemos con 姻l?!
+ムMaldiciポn! ムUn FOE! ムメPodemos con 〒l?!
 
 [msg BTL_MES_021_004]
 ＜声Of＞vかDた ム5ャP出来NえoK
 
 [msg BTL_MES_021_005]
-斡Je! Tal vez podamos derrotar a esta.
+ムJe! Tal vez podamos derrotar a esta.
 
 [msg BTL_MES_021_006]
-斡Una Sombra rara! 斡No dejar姻 que te escapes!
+ムUna Sombra rara! ムNo dejar〒 que te escapes!
 
 [msg BTL_MES_021_007]
 ＜声Of＞eDかせIけDG！ 狙い定hG…いDけー！
@@ -32,31 +32,31 @@ Dummy
 ＜声Of＞了解A、山岸さz！
 
 [msg BTL_MES_021_011]
-斡Maldici吋n! 斡Esta parece dif胤cil!
+ムMaldiciポn! ムEsta parece difボcil!
 
 [msg BTL_MES_021_012]
 ＜声Of＞お、おい！JうすzA？ 戦うOか！？
 
 [msg BTL_MES_021_013]
-Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
+Nunca habボa visto a esta antes... ムMejor encontrar una debilidad!
 
 [msg BTL_MES_021_014]
 ＜声Of＞oし！ いtいt試そうぜ
 
 [msg BTL_MES_021_015]
-斡La tenemos!
+ムLa tenemos!
 
 [msg BTL_MES_021_016]
 ＜声Of＞おう！ vかDGrDG！
 
 [msg BTL_MES_021_017]
-斡Ja! 斡Esto ser茨 f茨cil!
+ムJa! ムEsto serホ fホcil!
 
 [msg BTL_MES_021_018]
 ＜声Of＞おお！ WD飛QしBeおうぜ！
 
 [msg BTL_MES_021_019]
-斡夷Qu姻...?! 斡Algo acaba de pasar!
+ムメQu〒...?! ムAlgo acaba de pasar!
 
 [msg BTL_MES_021_020]
 ＜声Of＞お、おい！ JーすzAo！？
@@ -65,19 +65,19 @@ Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
 ＜声Of＞おいおい、うそAt！？
 
 [msg BTL_MES_021_022]
-斡Esto es malo!
+ムEsto es malo!
 
 [msg BTL_MES_021_023]
 ＜声Of＞KzIかしNーI…！
 
 [msg BTL_MES_021_024]
-＜声Of＞謂姻謂姻、大丈夫かo？ eDGt、今フ隠ローすzぜ！
+＜声Of＞ヰ〒ヰ〒、大丈夫かo？ eDGt、今フワローすzぜ！
 
 [msg BTL_MES_021_025]
-＜声Of＞無茶しkがDG… eDGt、今フ隠ローすzぜ！
+＜声Of＞無茶しkがDG… eDGt、今フワローすzぜ！
 
 [msg BTL_MES_021_026]
-＜声Of＞しDかqしto、陽介！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、陽介！ 今フワローすzぜ！
 
 [msg BTL_MES_021_027]
 ＜声Of＞里中さzがkZぇぞ！ 回復しGkzNーI！
@@ -89,19 +89,19 @@ Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
 ＜声Of＞4ミー
 
 [msg BTL_MES_021_030]
-＜声Of＞しDかqしto、完二！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、完二！ 今フワローすzぜ！
 
 [msg BTL_MES_021_031]
 ＜声Of＞直斗がkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_032]
-＜声Of＞しDかqしto、クマ！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、クマ！ 今フワローすzぜ！
 
 [msg BTL_MES_021_033]
 ＜声Of＞岳羽さzがkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_034]
-＜声Of＞しDかqしto、順平！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、順平！ 今フワローすzぜ！
 
 [msg BTL_MES_021_035]
 ＜声Of＞真田さzがkZぇぞ！ 回復しGkzNーI！
@@ -113,10 +113,10 @@ Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
 ＜声Of＞4ミー
 
 [msg BTL_MES_021_038]
-＜声Of＞威姻/スがkZぇぞ！ 回復しGkzNーI！
+＜声Of＞ミ〒/スがkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_039]
-＜声Of＞しDかqしto、天田！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、天田！ 今フワローすzぜ！
 
 [msg BTL_MES_021_040]
 ＜声Of＞コロマルがkZぇぞ！ 回復しGkzNーI！
@@ -128,7 +128,7 @@ Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
 ＜声Of＞こOeeじjkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_043]
-＜声Of＞しDかqしto、ジョー吋ー！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、ジョーポー！ 今フワローすzぜ！
 
 [msg BTL_MES_021_044]
 ＜声Of＞4ミー
@@ -137,13 +137,13 @@ Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
 ＜声Of＞パンサーがkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_046]
-＜声Of＞しDかqしto、モ)！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、モ)！ 今フワローすzぜ！
 
 [msg BTL_MES_021_047]
-＜声Of＞しDかqしto、フ隠7クス！ 今フ隠ローすzぜ！
+＜声Of＞しDかqしto、フワ7クス！ 今フワローすzぜ！
 
 [msg BTL_MES_021_048]
-＜声Of＞ク姻ーンがkZぇぞ！ 回復しGkzNーI！
+＜声Of＞ク〒ーンがkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Nunca hab胤a visto a esta antes... 斡Mejor encontrar una debilidad!
 ＜声Of＞ノワールがkZぇぞ！ 回復しGkzNーI！
 
 [msg BTL_MES_021_051]
-＜声Of＞クロ胤がヤベ緯… KzIかしNーI…
+＜声Of＞クロボがヤベレ… KzIかしNーI…
 
 [msg BTL_MES_021_052]
 ＜声Of＞oDしjー！ 弱点、バンバン狙おうぜ！
 
 [msg BTL_MES_021_053]
-斡Podemos hacerlo! 斡Sigan as胤!
+ムPodemos hacerlo! ムSigan asボ!
 
 [msg BTL_MES_021_054]
 ＜声Of＞oDしjあ！ こOee突き進gぜー！
 
 [msg BTL_MES_021_055]
-斡Yo! 斡Puedo golpear su punto d姻bil!
+ムYo! ムPuedo golpear su punto d〒bil!
 
 [msg BTL_MES_021_056]
-Vamos, 斡hagamos un Relevo!
+Vamos, ムhagamos un Relevo!
 
 [msg BTL_MES_021_057]
-斡Genial! Eso significa que me toca a m胤, 夷verdad?
+ムGenial! Eso significa que me toca a mボ, メverdad?
 
 [msg BTL_MES_021_058]
 ＜声Of＞ああ、蹴散pしBeおーぜ！
@@ -215,7 +215,7 @@ Vamos, 斡hagamos un Relevo!
 ＜声Of＞4ミー
 
 [msg BTL_MES_021_072]
-＜声Of＞Dしj！頼zAぜ、威姻/ス！
+＜声Of＞Dしj！頼zAぜ、ミ〒/ス！
 
 [msg BTL_MES_021_073]
 ＜声Of＞天田ー！ 頑張so！
@@ -227,10 +227,10 @@ Vamos, 斡hagamos un Relevo!
 ＜声Of＞荒垣さzKp 大丈夫At
 
 [msg BTL_MES_021_076]
-＜声Of＞ス郁ー気合いAK！ おし、任せrぜ！
+＜声Of＞スヮー気合いAK！ おし、任せrぜ！
 
 [msg BTL_MES_021_077]
-＜声Of＞さDすが、ジョー吋ー！ 頼qLKrK！
+＜声Of＞さDすが、ジョーポー！ 頼qLKrK！
 
 [msg BTL_MES_021_078]
 ＜声Of＞4ミー
@@ -242,10 +242,10 @@ Vamos, 斡hagamos un Relevo!
 ＜声Of＞モー)ー！ いDけええええ！
 
 [msg BTL_MES_021_081]
-＜声Of＞kDBeえ、フ隠7クス！
+＜声Of＞kDBeえ、フワ7クス！
 
 [msg BTL_MES_021_082]
-＜声Of＞うお！？ ク姻ーンがkr気Aぜ！
+＜声Of＞うお！？ ク〒ーンがkr気Aぜ！
 
 [msg BTL_MES_021_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Vamos, 斡hagamos un Relevo!
 ＜声Of＞気張so、ノワール！
 
 [msg BTL_MES_021_085]
-＜声Of＞余裕じjNぇか クロ胤O奴…
+＜声Of＞余裕じjNぇか クロボO奴…
 
 [msg BTL_MES_021_086]
-斡Estoy listo!
+ムEstoy listo!
 

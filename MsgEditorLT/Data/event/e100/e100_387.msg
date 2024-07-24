@@ -1,6 +1,6 @@
 [msg MSG_000 [Ryuji]]
-斡Bien! 斡Tenemos su uniforme!
+ムBien! ムTenemos su uniforme!
 
 [msg MSG_001 [Morgana]]
-Muy bien, 斡Ahora a meternos en el[n]agujero!
+Muy bien, ムAhora a meternos en el[n]agujero!
 

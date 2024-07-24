@@ -1,58 +1,58 @@
 [msg MSG_000 [Chico Con Auriculares]]
-As胤 que este es el Cine... No puedo[n]creer que estuvi姻ramos dentro de una[n]pel胤cula.
+Asボ que este es el Cine... No puedo[n]creer que estuvi〒ramos dentro de una[n]pelボcula.
 
 [msg MSG_001 [Junpei]]
-夷Verdad? 斡Por fin pude debutar en la[n]gran pantalla!
+メVerdad? ムPor fin pude debutar en la[n]gran pantalla!
 
 [msg MSG_002 [Hikari]]
 Me alegra que te hayan encontrado a[n]tiempo...
 
 [msg MSG_003 [Chico Con Auriculares]]
-Eres Hikari, 夷verdad? Un placer[n]conocerte. Todos me hablaron ti.
+Eres Hikari, メverdad? Un placer[n]conocerte. Todos me hablaron ti.
 
 [msg MSG_004 [Hikari]]
-Fueron a buscarte, y... Me alivia que[n]est姻s bien.
+Fueron a buscarte, y... Me alivia que[n]est〒s bien.
 
 [msg MSG_005 [Chico Con Auriculares]]
-Gracias por preocuparte por m胤.
+Gracias por preocuparte por mボ.
 
 [msg MSG_006 [Hikari]]
-Oh, mm... Bueno, todos los dem茨s estaban[n]preocupados, as胤 que...
+Oh, mm... Bueno, todos los demホs estaban[n]preocupados, asボ que...
 
 [msg MSG_007 [Chico Con Auriculares]]
-Por cierto, alguien me dijo que no[n]puedes recordar como llegaste aqu胤...
+Por cierto, alguien me dijo que no[n]puedes recordar como llegaste aquボ...
 
 [msg MSG_008 [Hikari]]
-M-mmhm... Cuando me despert姻, ya estaba[n]aqu胤...
+M-mmhm... Cuando me despert〒, ya estaba[n]aquボ...
 
 [msg MSG_009 [Chico Con Auriculares]]
 No te preocupes. Saldremos de este lugar[n]juntos.
-...Aunque, puede sonar extra隠o viniendo[n]de alguien que acaba de llegar.
+...Aunque, puede sonar extraワo viniendo[n]de alguien que acaba de llegar.
 
 [msg MSG_010 [Hikari]]
 ...
 
 [msg MSG_011 [Chico Con Auriculares]]
-夷C吋mo est茨 Aigis?
+メCポmo estホ Aigis?
 
 [msg MSG_012 [Fuuka]]
-Como sospechaba Mitsuru, parece que solo[n]est茨 temporalmente desactivada.
+Como sospechaba Mitsuru, parece que solo[n]estホ temporalmente desactivada.
 
 [msg MSG_013 [Morgana]]
-Futaba, 夷podr胤as echar un vistazo? Se te[n]dan bien esas cosas t姻cnicas, 夷verdad?
+Futaba, メpodrボas echar un vistazo? Se te[n]dan bien esas cosas t〒cnicas, メverdad?
 
 [msg MSG_014 [Futaba]]
-Bueno, tengo habilidades de hackeo, pero[n]no soy mec茨nica...
-Pero har姻 lo que pueda. Puedo... Echar姻[n]un vistazo.
+Bueno, tengo habilidades de hackeo, pero[n]no soy mecホnica...
+Pero har〒 lo que pueda. Puedo... Echar〒[n]un vistazo.
 
 [msg MSG_015 [Nagi]]
-En ese caso, por favor s胤gueme...
+En ese caso, por favor sボgueme...
 
 [msg MSG_016 [Yusuke]]
-夷C吋mo te fue, Futaba?
+メCポmo te fue, Futaba?
 
 [msg MSG_017 [Futaba]]
-Wow... Ella est茨 compuesta de partes[n]locas con tecnolog胤a alucinante y, mm...[n]En fin, 斡es simplemente una locura!
+Wow... Ella estホ compuesta de partes[n]locas con tecnologボa alucinante y, mm...[n]En fin, ムes simplemente una locura!
 
 [sel SEL_018 top]
 Ah, ya veo...
@@ -62,17 +62,17 @@ Eso no significa nada.
 Tampoco lo entiendo, pero entiendo la[n]idea de que es una locura.
 
 [msg MSG_020 [Futaba]]
-Parece que tiene una funci吋n de[n]autoreparaci吋n, 斡las partes rotas se[n]est茨n arreglando solas!
-斡夷Qu姻 clase de tecnolog胤a es ESA?![n]斡Parece m茨s magia que ciencia ficci吋n!
+Parece que tiene una funciポn de[n]autoreparaciポn, ムlas partes rotas se[n]estホn arreglando solas!
+ムメQu〒 clase de tecnologボa es ESA?![n]ムParece mホs magia que ciencia ficciポn!
 
 [msg MSG_021 [Mitsuru]]
 Todas sus funciones parecen funcionar[n]normalmente. No hay problemas por el[n]momento.
 
 [msg MSG_022 [Futaba]]
-Apenas tiene energ胤a, pero a este ritmo,[n]debe recuperarse pronto.
+Apenas tiene energボa, pero a este ritmo,[n]debe recuperarse pronto.
 
 [msg MSG_023 [Hikari]]
-Ya veo... Me alegro de que ella tambi姻n[n]est姻 bien...
+Ya veo... Me alegro de que ella tambi〒n[n]est〒 bien...
 
 [msg MSG_024 [Akihiko]]
 Lamento la molestia, pero vamos a tener[n]que dejar a Aigis bajo su cuidado hasta[n]que se recupere.
@@ -82,51 +82,51 @@ Una coa menos de la que preocuparnos.
 
 [msg MSG_026 [Chico Con Auriculares]]
 Debo darles las gracias de nuevo por su[n]apoyo, incluyendo lo de Aigis. Estoy muy[n]agradecido.
-Entonces... 夷Y t雨 eres...?
+Entonces... メY tマ eres...?
 
 [msg MSG_027 [Kanji]]
-斡Cierto, todav胤a no nos hemos[n]presentado! Soy Kanji Tatsumi, de primer[n]a隠o en el Instituto Yasogami.
+ムCierto, todavボa no nos hemos[n]presentado! Soy Kanji Tatsumi, de primer[n]aワo en el Instituto Yasogami.
 
 [msg MSG_028 [Chico Con Auriculares]]
-夷Primer a隠o? As胤 que eres m茨s joven que[n]yo...
+メPrimer aワo? Asボ que eres mホs joven que[n]yo...
 
 [msg MSG_029 [Chie]]
-T姻cnicamente, podr胤a ser incluso m茨s[n]joven de lo que crees...
+T〒cnicamente, podrボa ser incluso mホs[n]joven de lo que crees...
 
 [msg MSG_030 [Chico Con Auriculares]]
-夷A qu姻 te refieres?
+メA qu〒 te refieres?
 
 [msg MSG_031 [Akechi]]
 Todos hemos venido de diferentes[n]lugares... y de diferentes momentos.
-No solo eso, algunos de nosotros[n]aparentemente estamos lidiando con temas[n]a雨n m茨s anormales...
+No solo eso, algunos de nosotros[n]aparentemente estamos lidiando con temas[n]aマn mホs anormales...
 
 [msg MSG_032 [P3 Fem Protag]]
 ...
 
 [msg MSG_033 [Akechi]]
-Podemos dejar los detalles para m茨s[n]tarde...
-Pero, b茨sicamente, hemos venido de[n]mundos distintos, por m茨s raro que[n]suene.
+Podemos dejar los detalles para mホs[n]tarde...
+Pero, bホsicamente, hemos venido de[n]mundos distintos, por mホs raro que[n]suene.
 
 [msg MSG_034 [Chico Con Auriculares]]
 Ya veo... Muy bien, entonces.
 
 [msg MSG_035 [Ann]]
-夷Est茨s bien con eso?
-Oye, me est茨s empezando a recordar mucho[n]a [f 6 1 30 0 0 0]...
+メEstホs bien con eso?
+Oye, me estホs empezando a recordar mucho[n]a [f 6 1 30 0 0 0]...
 
 [sel SEL_036 top]
 Creo que nos llevaremos bien.
-Creo que est茨s imaginando cosas.
+Creo que estホs imaginando cosas.
 
 [msg MSG_037 [Chie]]
-Ahh, te entiendo. Tambi姻n se parece[n]mucho a nuestro l胤der.
+Ahh, te entiendo. Tambi〒n se parece[n]mucho a nuestro lボder.
 
 [msg MSG_038 [Chie]]
-夷En serio? Sabes, 姻l es muy similar a[n]nuestro l胤der tambi姻n.
+メEn serio? Sabes, 〒l es muy similar a[n]nuestro lボder tambi〒n.
 
 [msg MSG_039 [Makoto]]
-夷As胤 que, t雨 tambi姻n eres el l胤der de[n]Takeba e Iori?
+メAsボ que, tマ tambi〒n eres el lボder de[n]Takeba e Iori?
 
 [msg MSG_040 [Chico Con Auriculares]]
-S胤, oh, cierto que a雨n no te he dicho mi[n]nombre, 夷eh? Mi nombre es...
+Sボ, oh, cierto que aマn no te he dicho mi[n]nombre, メeh? Mi nombre es...
 

@@ -1,101 +1,101 @@
 [msg P3_HERO2_FOE_FOLLOW_STAR]
-斡Parece que el FOE nos vio!
+ムParece que el FOE nos vio!
 
 [msg P3_HERO2_FOE_FOLLOW_STAR_2]
-斡Un FOE nos persigue!
+ムUn FOE nos persigue!
 
 [msg P3_HERO2_FOE_FOLLOW_STAR_3]
-斡Cuidado! 斡Un FOE nos persigue!
+ムCuidado! ムUn FOE nos persigue!
 
 [msg P3_HERO2_FOE_NEAR_1]
-斡Hay un FOE cerca!
+ムHay un FOE cerca!
 
 [msg P3_HERO2_FOE_NEAR_2]
-斡El FOE nos vio!
+ムEl FOE nos vio!
 
 [msg P3_HERO2_FOE_NEAR_3]
-Maldici吋n, hay un FOE...
+Maldiciポn, hay un FOE...
 
 [msg P3_HERO2_FOE_FOLLOW_END_]
-Parece que el FOE nos dej吋 en paz.
+Parece que el FOE nos dejポ en paz.
 
 [msg P3_HERO2_FOE_FOLLOW_END__2]
-斡El FOE ya no nos sigue!
+ムEl FOE ya no nos sigue!
 
 [msg P3_HERO2_FOE_FOLLOW_END__3]
-Escapamos... Qu姻 alivio.
+Escapamos... Qu〒 alivio.
 
 [msg P3_HERO2_KANSI_REACTION_]
-斡Vaya, todos est茨n en alerta m茨xima!
+ムVaya, todos estホn en alerta mホxima!
 
 [msg P3_HERO2_KANSI_REACTION__2]
-Ser茨 un problema si nos encuentran.[n]斡Ten cuidado!
+Serホ un problema si nos encuentran.[n]ムTen cuidado!
 
 [msg P3_HERO2_KANSI_REACTION__3]
-斡No puedes atraparnos!
+ムNo puedes atraparnos!
 
 [msg P3_HERO2_DENKISAKU_REACT]
-Si no apagamos la energ胤a, nos[n]convertiremos en cenizas.
+Si no apagamos la energボa, nos[n]convertiremos en cenizas.
 
 [msg P3_HERO2_DENKISAKU_REACT_2]
-Una puerta el姻ctrica, eh... 斡Parece que[n]tenemos que apagar la energ胤a primero!
+Una puerta el〒ctrica, eh... ムParece que[n]tenemos que apagar la energボa primero!
 
 [msg P3_HERO2_DENKISAKU_REACT_3]
-斡Cuidado! 斡Una puerta el姻ctrica!
+ムCuidado! ムUna puerta el〒ctrica!
 
 [msg P3_HERO2_KYOUHU_REACTION]
-斡Aaaaaaahhhh!
+ムAaaaaaahhhh!
 
 [msg P3_HERO2_KYOUHU_REACTION_2]
-斡Eek!
+ムEek!
 
 [msg P3_HERO2_KYOUHU_REACTION_3]
-斡夷De verdad?!
+ムメDe verdad?!
 
 [msg P3_HERO2_STAIR_FIND_1]
-斡Parece que podemos seguir adelante!
+ムParece que podemos seguir adelante!
 
 [msg P3_HERO2_STAIR_FIND_2]
-斡Bueno, tenemos que ir a la siguiente[n]zona!
+ムBueno, tenemos que ir a la siguiente[n]zona!
 
 [msg P3_HERO2_STAIR_FIND_3]
 Creo que podemos seguir adelante.
 
 [msg P3_HERO2_TREASURE_FIND_1]
-斡Mira! 斡Un cofre del tesoro!
+ムMira! ムUn cofre del tesoro!
 
 [msg P3_HERO2_TREASURE_FIND_2]
-Hay un cofre del tesoro. 斡Vamos a[n]abrirlo!
+Hay un cofre del tesoro. ムVamos a[n]abrirlo!
 
 [msg P3_HERO2_TREASURE_FIND_3]
-Un cofre del tesoro. 斡夷Qu姻 hay[n]dentro?!
+Un cofre del tesoro. ムメQu〒 hay[n]dentro?!
 
 [msg P3_HERO2_CHECK_WALL_1]
-Algo en esta zona me est茨[n]molestando...
+Algo en esta zona me estホ[n]molestando...
 
 [msg P3_HERO2_CHECK_WALL_2]
-Debe haber algo aqu胤. 斡Vamos a[n]buscar!
+Debe haber algo aquボ. ムVamos a[n]buscar!
 
 [msg P3_HERO2_CHECK_WALL_3]
-夷No hay algo extra隠o en este[n]lugar...?
+メNo hay algo extraワo en este[n]lugar...?
 
 [msg P3_HERO2_SWITCH_FIND_1]
-斡Oh, un interruptor! 斡Demos un buen[n]tir吋n!
+ムOh, un interruptor! ムDemos un buen[n]tirポn!
 
 [msg P3_HERO2_SWITCH_FIND_2]
-斡Encontr姻 un interruptor! 斡Adelante!
+ムEncontr〒 un interruptor! ムAdelante!
 
 [msg P3_HERO2_SWITCH_FIND_3]
-夷No es un interruptor?
+メNo es un interruptor?
 
 [msg P3_HERO2_SHORTCUT_FIND_1]
-夷Crees que podamos pasar por all胤?
+メCrees que podamos pasar por allボ?
 
 [msg P3_HERO2_SHORTCUT_FIND_2]
 Creo que hay un atajo.
 
 [msg P3_HERO2_SHORTCUT_FIND_3]
-斡Bien, un atajo!
+ムBien, un atajo!
 
 [msg P3_HERO2_PARTY_DEAD_1]
 ?
@@ -107,67 +107,67 @@ Creo que hay un atajo.
 ?
 
 [msg P3_HERO2_FOE_WARNING_NEA]
-斡Todav胤a hay un FOE cerca! 斡Alerta!
+ムTodavボa hay un FOE cerca! ムAlerta!
 
 [msg P3_HERO2_FOE_WARNING_NEA_2]
-Parece que el FOE sigue por aqu胤.
+Parece que el FOE sigue por aquボ.
 
 [msg P3_HERO2_FOE_WARNING_NEA_3]
-斡FOE lanz茨ndose hacia nosotros!
+ムFOE lanzホndose hacia nosotros!
 
 [msg P3_HERO2_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P3_HERO2_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P3_HERO2_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P3_HERO2_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg P3_HERO2_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg P3_HERO2_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg P3_HERO2_1PERSON_HPTP10_]
-S胤p, esto es dif胤cil.
+Sボp, esto es difボcil.
 
 [msg P3_HERO2_1PERSON_HPTP10__2]
-夷Por qu姻 no volvemos a nuestra base?
+メPor qu〒 no volvemos a nuestra base?
 
 [msg P3_HERO2_1PERSON_HPTP10__3]
-*jadeo* Estoy m茨s cansada de lo que[n]pens姻...
+*jadeo* Estoy mホs cansada de lo que[n]pens〒...
 
 [msg P3_HERO2_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P3_HERO2_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P3_HERO2_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg P3_HERO2_1PERSON_HP10_1]
-Hrrgh... 斡Alguien, por favor, c雨reme!
+Hrrgh... ムAlguien, por favor, cマreme!
 
 [msg P3_HERO2_1PERSON_HP10_2]
-Creo que mi salud est茨 bajando...
+Creo que mi salud estホ bajando...
 
 [msg P3_HERO2_1PERSON_HP10_3]
 No puedo seguir... Mi salud es[n]demasiado baja...
 
 [msg P3_HERO2_1PERSON_TP10_1]
-Tan exhausta... 夷Podemos descansar un[n]poco?
+Tan exhausta... メPodemos descansar un[n]poco?
 
 [msg P3_HERO2_1PERSON_TP10_2]
-Mi resistencia ha sido llevada al[n]l胤mite...
+Mi resistencia ha sido llevada al[n]lボmite...
 
 [msg P3_HERO2_1PERSON_TP10_3]
-No m茨s... Estoy sin energ胤a...
+No mホs... Estoy sin energボa...
 
 [msg P3_HERO2_ITEM_90_BATTLE_]
 【justificadamente
@@ -179,13 +179,13 @@ No m茨s... Estoy sin energ胤a...
 【justificadamente
 
 [msg P3_HERO2_1PERSON_HP80_1]
-Espero que el pr吋ximo sea as胤[n]tambi姻n!
+Espero que el prポximo sea asボ[n]tambi〒n!
 
 [msg P3_HERO2_1PERSON_HP80_2]
-斡Pan comido!
+ムPan comido!
 
 [msg P3_HERO2_1PERSON_HP80_3]
-斡Eso fue pan comido!
+ムEso fue pan comido!
 
 [msg P3_HERO2_BATTLE_CHANGE_D]
 ■: [f 0 1 4]\cHFF
@@ -197,101 +197,101 @@ Espero que el pr吋ximo sea as胤[n]tambi姻n!
 ■:
 
 [msg P3_HERO2_ITEM_90_DUNGEON]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg P3_HERO2_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg P3_HERO2_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg P3_HERO2_DUNGEON_START_1]
-斡Avancemos!
+ムAvancemos!
 
 [msg P3_HERO2_DUNGEON_START_2]
-斡D姻jame encargarme de esto!
+ムD〒jame encargarme de esto!
 
 [msg P3_HERO2_DUNGEON_START_3]
-Somos un escuadr吋n incre胤ble;[n]manteng茨moslo as胤.
+Somos un escuadrポn increボble;[n]mantengホmoslo asボ.
 
 [msg P3_HERO2_QUEST_START_1]
-斡Ok, esto terminar茨 r茨pido, con[n]suerte!
+ムOk, esto terminarホ rホpido, con[n]suerte!
 
 [msg P3_HERO2_QUEST_START_2]
-Tenemos nuestras 吋rdenes, 斡Vamos!
+Tenemos nuestras ポrdenes, ムVamos!
 
 [msg P3_HERO2_QUEST_START_3]
 Estoy muy emocionada, ahora.
 
 [msg P3_HERO2_TOUHA_25_1]
-Parece que todav胤a nos queda un[n]trecho... 夷Estamos bien de salud?
+Parece que todavボa nos queda un[n]trecho... メEstamos bien de salud?
 
 [msg P3_HERO2_TOUHA_25_2]
 Parecen estar dispersos... Tengamos[n]cuidado al continuar.
 
 [msg P3_HERO2_TOUHA_50_1]
-斡El mapa se est茨 llenando muy bien!
+ムEl mapa se estホ llenando muy bien!
 
 [msg P3_HERO2_TOUHA_50_2]
-夷Creo que estamos a mitad de camino?
+メCreo que estamos a mitad de camino?
 
 [msg P3_HERO2_TOUHA_75_1]
-斡Sigamos as胤 y avancemos con[n]determinaci吋n!
+ムSigamos asボ y avancemos con[n]determinaciポn!
 
 [msg P3_HERO2_TOUHA_75_2]
-Creo que nos falta un poquito m茨s,[n]夷verdad?
+Creo que nos falta un poquito mホs,[n]メverdad?
 
 [msg P3_HERO2_TOUHA_100_1]
-斡Qu姻 sensaci吋n de logro!
+ムQu〒 sensaciポn de logro!
 
 [msg P3_HERO2_TOUHA_100_2]
-斡Perfecto! Lo hicimos.
+ムPerfecto! Lo hicimos.
 
 [msg P3_HERO2_MAPPING_ICON_AL]
-斡Me encanta!
+ムMe encanta!
 
 [msg P3_HERO2_MAPPING_ICON_AL_2]
-斡Bueno, no olvidaremos eso ahora!
+ムBueno, no olvidaremos eso ahora!
 
 [msg P3_HERO2_MAPPING_ICON_KA]
-Bien, podemos ir a otro piso desde[n]aqu胤.
+Bien, podemos ir a otro piso desde[n]aquボ.
 
 [msg P3_HERO2_MAPPING_ICON_KA_2]
-斡Ahora podemos seguir adelante sin[n]perdernos!
+ムAhora podemos seguir adelante sin[n]perdernos!
 
 [msg P3_HERO2_MAPPING_CHANGE_]
-斡Genial, ese color va a resaltar!
+ムGenial, ese color va a resaltar!
 
 [msg P3_HERO2_MAPPING_CHANGE__2]
-斡Esto me hace querer intentar mapear[n]tambi姻n!
+ムEsto me hace querer intentar mapear[n]tambi〒n!
 
 [msg P3_HERO2_MAPPING_ICON_DE]
 Formas de mejorar la legibilidad.
 
 [msg P3_HERO2_MAPPING_ICON_DE_2]
-斡S胤, dejemos todo lo que no[n]necesitamos!
+ムSボ, dejemos todo lo que no[n]necesitamos!
 
 [msg P3_HERO2_MAPPING_MEMO_1]
-斡Tenemos que asegurarnos de no[n]olvidar eso!
+ムTenemos que asegurarnos de no[n]olvidar eso!
 
 [msg P3_HERO2_MAPPING_MEMO_2]
-夷Tal vez deber胤a garabatear en[n]eso...? 斡Ja, solo bromeo!
+メTal vez deberボa garabatear en[n]eso...? ムJa, solo bromeo!
 
 [msg P3_HERO2_DOOR_OPEN_1]
-斡Vamos, vamos!
+ムVamos, vamos!
 
 [msg P3_HERO2_DOOR_OPEN_2]
-斡Vamos a salir de aqu胤!
+ムVamos a salir de aquボ!
 
 [msg P3_HERO2_DOOR_OPEN_3]
-斡Por aqu胤!
+ムPor aquボ!
 
 [msg P3_HERO2_KARITORU_ENCOUN]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg P3_HERO2_KARITORU_ENCOUN_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg P3_HERO2_KARITORU_ENCOUN_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

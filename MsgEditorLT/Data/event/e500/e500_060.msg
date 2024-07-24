@@ -1,62 +1,62 @@
 [msg MSG_000 [Yosuke]]
-Me pregunto, estos caminos... 夷Est茨n[n]hechos de alguna especie de pel胤cula?
+Me pregunto, estos caminos... メEstホn[n]hechos de alguna especie de pelボcula?
 
 [msg MSG_001 [P3 Hero]]
-Probablemente. No importa a d吋nde[n]miremos, todo esto fue creado por ella.
+Probablemente. No importa a dポnde[n]miremos, todo esto fue creado por ella.
 
 [msg MSG_002 [Yosuke]]
-S胤, pas吋 de ser la curadora de un cine a[n]convertirse en un ser que cre吋 todo un[n]mundo lleno de ellos... Qu姻 locura.
+Sボ, pasポ de ser la curadora de un cine a[n]convertirse en un ser que creポ todo un[n]mundo lleno de ellos... Qu〒 locura.
 
 [msg MSG_003 [P4 Hero]]
-El ser que cre吋 este mundo, eh...
+El ser que creポ este mundo, eh...
 Supongo que eso significa que, ser la[n]curadora del Cine no era exactamente una[n]mentira.
 
 [msg MSG_004 [Hikari]]
-Me pregunto si esa gente que vimos antes[n]est茨 atrapada, viendo solo m茨s pel胤culas[n]distorsionadas.
+Me pregunto si esa gente que vimos antes[n]estホ atrapada, viendo solo mホs pelボculas[n]distorsionadas.
 
 [msg MSG_005 [Makoto]]
-Considerando lo que Enlil dijo, es muy[n]probable que est姻n atrapados con ese[n]tipo de pel胤culas...
-Nada m茨s que colecciones de recuerdos[n]desagradables cortados de sus propias[n]vidas.
+Considerando lo que Enlil dijo, es muy[n]probable que est〒n atrapados con ese[n]tipo de pelボculas...
+Nada mホs que colecciones de recuerdos[n]desagradables cortados de sus propias[n]vidas.
 
 [msg MSG_006 [Yusuke]]
-Cortar y pegar recuerdos... De cierto[n]modo, es parecido a las pel胤culas[n]reales.
+Cortar y pegar recuerdos... De cierto[n]modo, es parecido a las pelボculas[n]reales.
 
 [sel SEL_007 top]
-夷Quieres decir que han sido editadas?
-夷Qu姻 quieres decir?
+メQuieres decir que han sido editadas?
+メQu〒 quieres decir?
 
 [msg MSG_008 [Hikari]]
-Mmhm, tambi姻n me recuerda a eso...
-Es algo anticuado hoy en d胤a, pero recuerdo[n]que mi padre conectaba piezas f胤sicas para[n]crear una pel胤cula, hace mucho tiempo.
+Mmhm, tambi〒n me recuerda a eso...
+Es algo anticuado hoy en dボa, pero recuerdo[n]que mi padre conectaba piezas fボsicas para[n]crear una pelボcula, hace mucho tiempo.
 
 [msg MSG_009 [Hikari]]
-Las pel胤culas se editan cortando y[n]pegando partes de otras pel胤culas.
-Es un m姻todo anticuado hoy en d胤a, pero[n]recuerdo que mi padre conectaba piezas f胤sicas[n]para crear una pel胤cula, hace mucho tiempo.
+Las pelボculas se editan cortando y[n]pegando partes de otras pelボculas.
+Es un m〒todo anticuado hoy en dボa, pero[n]recuerdo que mi padre conectaba piezas fボsicas[n]para crear una pelボcula, hace mucho tiempo.
 
 [msg MSG_010 [Akechi]]
-Cierto, las pel胤culas son el resultado de un[n]material editado... Incluso podr胤an editarse[n]con intenci吋n maliciosa.
+Cierto, las pelボculas son el resultado de un[n]material editado... Incluso podrボan editarse[n]con intenciポn maliciosa.
 
 [msg MSG_011 [Hikari]]
-斡No, no puedes hacer algo as胤! 斡Las[n]pel胤culas no fueron creadas para eso!
+ムNo, no puedes hacer algo asボ! ムLas[n]pelボculas no fueron creadas para eso!
 
 [msg MSG_012 [Hikari]]
-Oh... Lo siento. No quise gritarte as胤.
+Oh... Lo siento. No quise gritarte asボ.
 
 [msg MSG_013 [Shinjiro]]
-Vamos... Obviamente, hay algo que[n]quieres sacar de tu pecho, 夷verdad?
+Vamos... Obviamente, hay algo que[n]quieres sacar de tu pecho, メverdad?
 
 [msg MSG_014 [Hikari]]
-Yo... Yo quiero que las pel胤culas le den[n]esperanza a la gente.
-Incluso si te sientes cansado o[n]deprimido, las pel胤culas pueden darte la[n]fuerza para seguir intent茨ndolo.
-Es la raz吋n por la que me encantan las[n]pel胤culas...
+Yo... Yo quiero que las pelボculas le den[n]esperanza a la gente.
+Incluso si te sientes cansado o[n]deprimido, las pelボculas pueden darte la[n]fuerza para seguir intentホndolo.
+Es la razポn por la que me encantan las[n]pelボculas...
 ...
 
 [msg MSG_015 [Ryuji]]
-夷Qu姻 pasa, Hikari?
+メQu〒 pasa, Hikari?
 
 [msg MSG_016 [Hikari]]
-No es nada. 斡Vamos!
+No es nada. ムVamos!
 
 [msg MSG_017 [Ryuji]]
-夷Eh? 斡Espera!
+メEh? ムEspera!
 

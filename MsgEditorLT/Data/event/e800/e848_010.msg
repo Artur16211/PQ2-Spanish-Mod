@@ -2,58 +2,58 @@
 Estas proyecciones especiales han sido una obra maestra tras otra...
 
 [msg MSG_000_1 [Elizabeth]]
-Mientras me siento a observar sus haza隠as, he estado comiendo palomitas a velocidades inhumanas.
+Mientras me siento a observar sus hazaワas, he estado comiendo palomitas a velocidades inhumanas.
 
 [msg MSG_001 [Haru]]
-*risita* Bueno, supongo que hemos completado un buen n雨mero de ellas.
+*risita* Bueno, supongo que hemos completado un buen nマmero de ellas.
 
 [msg MSG_002 [Elizabeth]]
-Y ahora, 斡ha llegado la hora de otra proyecci吋n muy especial!
+Y ahora, ムha llegado la hora de otra proyecciポn muy especial!
 
 [msg MSG_003 [Yusuke]]
-Ah, entonces... otra tarea que requiere un reparto espec胤fico.
+Ah, entonces... otra tarea que requiere un reparto especボfico.
 
 [msg MSG_004 [Elizabeth]]
-S胤. Totalmente correcto.
+Sボ. Totalmente correcto.
 Parece que un nuevo enemigo ha surgido de las profundidades de Junessic Land...
-Vuestra tarea ser茨 acabar con esa sombra.
+Vuestra tarea serホ acabar con esa sombra.
 
 [sel SEL_005 top]
-夷Otra vez?
+メOtra vez?
 Ya era hora.
 
 [msg MSG_006 [Elizabeth]]
-Vaya, nunca imagin姻 que reaccionar胤as de tan mal humor. Espero que esta expresi吋n agria produzca resultados dulces.
+Vaya, nunca imagin〒 que reaccionarボas de tan mal humor. Espero que esta expresiポn agria produzca resultados dulces.
 
 [msg MSG_007 [Futaba]]
 Bro, esta mujer no acepta un no por respuesta.
 
 [msg MSG_008 [Elizabeth]]
-Les agradezco su paciencia. De hecho, yo tambi姻n lo esperaba con impaciencia.
+Les agradezco su paciencia. De hecho, yo tambi〒n lo esperaba con impaciencia.
 
 [msg MSG_009 [Makoto]]
-Entonces, 夷[f 6 1 29 0 0 0] tiene que luchar en esta tambi姻n?
+Entonces, メ[f 6 1 29 0 0 0] tiene que luchar en esta tambi〒n?
 
 [msg MSG_010 [Elizabeth]]
 Absolutamente, innegablemente, totalmente equivocado.
 
 [msg MSG_010_1 [Elizabeth]]
-Aqu胤 que en la entrada para esta proyecci吋n se lee: «Reparto: [f 6 1 13 0 0 0].»
+Aquボ que en la entrada para esta proyecciポn se lee: «Reparto: [f 6 1 13 0 0 0].»
 
 [msg MSG_011 [P4 Hero]]
-夷Yo...?
+メYo...?
 
 [msg MSG_012 [Elizabeth]]
 Les pido que se aseguren de que [f 6 1 13 0 0 0] participe en esta batalla.
 
 [msg MSG_013 [P4 Hero]]
-Muy bien. Har姻 todo lo que pueda.
+Muy bien. Har〒 todo lo que pueda.
 
 [msg MSG_014 [Makoto]]
-夷Y una vez que derrotemos a la sombra? 夷Volveremos a luchar contra Theodore?
+メY una vez que derrotemos a la sombra? メVolveremos a luchar contra Theodore?
 
 [msg MSG_015 [Elizabeth]]
-Bueno, no puedo arruinaros la sorpresa. Por favor, usen su imaginaci吋n.
-En primer lugar, conc姻ntrense en hacer valer su fuerza contra este enemigo mortal.
+Bueno, no puedo arruinaros la sorpresa. Por favor, usen su imaginaciポn.
+En primer lugar, conc〒ntrense en hacer valer su fuerza contra este enemigo mortal.
 Buena suerte a todos.
 

@@ -1,242 +1,242 @@
 [msg MSG_000 [Ryuji]]
-Tch... Tambi姻n hay un polic胤a aqu胤.
+Tch... Tambi〒n hay un policボa aquボ.
 
 [msg MSG_001 [Ann]]
-斡Mira! 斡Por ah胤!
+ムMira! ムPor ahボ!
 
 [msg MSG_002 [Yusuke]]
-...夷Interruptores?
+...メInterruptores?
 
 [msg MSG_003 [Akechi]]
-Nuestra predicci吋n fue correcta. Si esos[n]interruptores son para las luces de la[n]estatua...
+Nuestra predicciポn fue correcta. Si esos[n]interruptores son para las luces de la[n]estatua...
 
 [msg MSG_004 [Morgana]]
-斡夷Podemos apagar las luces desde aqu胤[n]abajo?!
+ムメPodemos apagar las luces desde aquボ[n]abajo?!
 
 [msg MSG_005 [Yusuke]]
-Con la estatua envuelta en oscuridad,[n]podr胤amos robarla f茨cilmente.
+Con la estatua envuelta en oscuridad,[n]podrボamos robarla fホcilmente.
 
 [msg MSG_006 [Ryuji]]
-Bueno, apuremos y deshag茨monos de ese[n]polic胤a, 斡entonces los interruptores[n]ser茨n todos nuestros!
+Bueno, apuremos y deshagホmonos de ese[n]policボa, ムentonces los interruptores[n]serホn todos nuestros!
 
 [msg MSG_007 [Morgana]]
-Espera, considerando lo oscuro y[n]estrecho que es este lugar, ser胤a mejor[n]evitar usar la fuerza.
-Si causamos un alboroto, definitivamente[n]acabaremos acorralados aqu胤 abajo...
+Espera, considerando lo oscuro y[n]estrecho que es este lugar, serボa mejor[n]evitar usar la fuerza.
+Si causamos un alboroto, definitivamente[n]acabaremos acorralados aquボ abajo...
 
 [msg MSG_008 [Akechi]]
-No solo eso, ser胤a in雨til apagar las[n]luces de la estatua ahora mismo.
-Solo le dar胤amos a Kamoshidaman nuestra[n]ubicaci吋n.
+No solo eso, serボa inマtil apagar las[n]luces de la estatua ahora mismo.
+Solo le darボamos a Kamoshidaman nuestra[n]ubicaciポn.
 
 [msg MSG_009 [Ryuji]]
-夷Entonces vamos a enga隠ar a ese polic胤a?[n]夷C吋mo nos deshacemos de 姻l?
+メEntonces vamos a engaワar a ese policボa?[n]メCポmo nos deshacemos de 〒l?
 
 [sel SEL_010 top]
 Hora de un poco de atractivo.
 Es hora del disfraz.
-Es hora de un peque隠o miau-miau.
+Es hora de un pequeワo miau-miau.
 
 [msg MSG_011 [Ryuji]]
-Entonces... 夷Panther?
+Entonces... メPanther?
 
 [msg MSG_012 [Morgana]]
-No, no podemos dejar toda la operaci吋n[n]en sus habilidades de actuaci吋n...
+No, no podemos dejar toda la operaciポn[n]en sus habilidades de actuaciポn...
 
 [msg MSG_013 [Ryuji]]
-Es lo que pens姻.
+Es lo que pens〒.
 
 [msg MSG_014 [Ann]]
-斡Oye! 斡夷Qu姻 se supone que significa[n]eso?!
+ムOye! ムメQu〒 se supone que significa[n]eso?!
 
 [msg MSG_015 [Yusuke]]
-夷No es el momento de usar ese uniforme?
+メNo es el momento de usar ese uniforme?
 
 [msg MSG_016 [Yusuke]]
 Correcto. Es momento de usar ese[n]uniforme.
 
 [msg MSG_017 [Ryuji]]
-Ohhh, 夷crees que podr胤a bajar la guardia[n]si se le acerca un lindo animal?
+Ohhh, メcrees que podrボa bajar la guardia[n]si se le acerca un lindo animal?
 
 [msg MSG_018 [Morgana]]
-斡夷A qui姻n llamas animal?!
+ムメA qui〒n llamas animal?!
 
 [msg MSG_019 [Ann]]
-Es demasiado peligroso ir solo, incluso[n]para Mona, adem茨s, no hay garant胤a de[n]que le gusten los gatos.
+Es demasiado peligroso ir solo, incluso[n]para Mona, ademホs, no hay garantボa de[n]que le gusten los gatos.
 
 [msg MSG_020 [Morgana]]
 ...
 
 [msg MSG_021 [Yusuke]]
-夷No es el momento de usar ese uniforme?
+メNo es el momento de usar ese uniforme?
 
 [msg MSG_022 [Akechi]]
-Ah, s胤, el uniforme de polic胤a.
-Entonces, 夷deber胤a alguien disfrazado[n]pedir un cambio falso de turno para[n]deshacerse de ese polic胤a?
-Eso asegurar胤a nuestra ruta hacia los[n]interruptores sin problemas.
+Ah, sボ, el uniforme de policボa.
+Entonces, メdeberボa alguien disfrazado[n]pedir un cambio falso de turno para[n]deshacerse de ese policボa?
+Eso asegurarボa nuestra ruta hacia los[n]interruptores sin problemas.
 
 [msg MSG_023 [P3 Fem Protag]]
-Entonces, 夷eso significa que es mi[n]turno?
+Entonces, メeso significa que es mi[n]turno?
 
 [msg MSG_024 [Ann]]
-夷No es peligroso? Quiero decir, no est茨s[n]acostumbrada a este tipo de cosas,[n]夷verdad?
+メNo es peligroso? Quiero decir, no estホs[n]acostumbrada a este tipo de cosas,[n]メverdad?
 
 [msg MSG_025 [P3 Fem Protag]]
-斡Estar姻 bien! He pasado por situaciones[n]bastante dif胤ciles antes.
-Puede que no sea un ladr吋n fantasma,[n]斡pero puedo hacerlo! No te preocupes por[n]m胤, 夷bien?
+ムEstar〒 bien! He pasado por situaciones[n]bastante difボciles antes.
+Puede que no sea un ladrポn fantasma,[n]ムpero puedo hacerlo! No te preocupes por[n]mボ, メbien?
 
 [sel SEL_026 top]
 Por supuesto.
 Contamos contigo.
 
 [msg MSG_027 [P3 Fem Protag]]
-斡Gracias! Bueno, voy a ir a cambiarme[n]r茨pido...
+ムGracias! Bueno, voy a ir a cambiarme[n]rホpido...
 
 [msg MSG_028 [P3 Fem Protag]]
-斡Ta-daaah! 夷Qu姻 piensas? 夷Me queda bien?
+ムTa-daaah! メQu〒 piensas? メMe queda bien?
 
 [msg MSG_029 [Morgana]]
-斡No est茨 mal! 斡Te ves muy linda con eso!
+ムNo estホ mal! ムTe ves muy linda con eso!
 
 [msg MSG_030 [Ryuji]]
-Pero... 夷Es as胤 realmente como se ve una[n]polic胤a? Parece bastante obvio que est茨[n]disfrazada...
+Pero... メEs asボ realmente como se ve una[n]policボa? Parece bastante obvio que estホ[n]disfrazada...
 
 [msg MSG_031 [P3 Fem Protag]]
-斡Oh, estar姻 bien! Ir姻 ahora mismo a los[n]interruptores.
+ムOh, estar〒 bien! Ir〒 ahora mismo a los[n]interruptores.
 
 [msg MSG_032 [Ann]]
-No hagas nada imprudente, 夷de acuerdo?
+No hagas nada imprudente, メde acuerdo?
 
 [msg MSG_033 [Yusuke]]
-Danos una se隠al si algo sale mal. Iremos[n]inmediatamente.
+Danos una seワal si algo sale mal. Iremos[n]inmediatamente.
 
 [msg MSG_034 [P3 Fem Protag]]
-斡Genial! 斡Ahora, miren esto!
+ムGenial! ムAhora, miren esto!
 
 [msg MSG_035]
-Completamente disfrazada, [f 6 1 27 0 0 0] se[n]acerc吋 a hablar con el polic胤a...
+Completamente disfrazada, [f 6 1 27 0 0 0] se[n]acercポ a hablar con el policボa...
 
 [msg MSG_036 [P3 Fem Protag]]
-斡Se隠or! Me han asignado para hacerme[n]cargo de esta 茨rea, 斡se隠or!
+ムSeワor! Me han asignado para hacerme[n]cargo de esta ホrea, ムseワor!
 
-[msg MSG_037 [Polic胤a Alto]]
-...夷Eh? Pero, a m胤 me asignaron este[n]sector ayer.
+[msg MSG_037 [Policボa Alto]]
+...メEh? Pero, a mボ me asignaron este[n]sector ayer.
 
 [msg MSG_038 [P3 Fem Protag]]
-Mm, me informaron que es una reubicaci吋n[n]de personal. Quiero decir... 斡Eso es lo[n]que me dijo Kamoshidaman-san!
+Mm, me informaron que es una reubicaciポn[n]de personal. Quiero decir... ムEso es lo[n]que me dijo Kamoshidaman-san!
 
-[msg MSG_039 [Polic胤a Alto]]
-夷"Kamoshidaman-san"? 夷Por qu姻 te[n]refieres a 姻l as胤?
+[msg MSG_039 [Policボa Alto]]
+メ"Kamoshidaman-san"? メPor qu〒 te[n]refieres a 〒l asボ?
 ...
-Bueno, bien... Solo dame la contrase隠a.
+Bueno, bien... Solo dame la contraseワa.
 
 [msg MSG_040 [P3 Fem Protag]]
-夷Eh? 夷La contrase隠a?
+メEh? メLa contraseワa?
 
 [msg MSG_041 [Ryuji]]
-斡Oh mierda, est茨 en problemas!
+ムOh mierda, estホ en problemas!
 
 [msg MSG_042 [Ann]]
-夷Qu姻 hacemos? 夷Deber胤amos intervenir?
+メQu〒 hacemos? メDeberボamos intervenir?
 
 [msg MSG_043 [Morgana]]
-No, veamos un poco m茨s. Si la situaci吋n[n]empeora, intervendremos de inmediato.
+No, veamos un poco mホs. Si la situaciポn[n]empeora, intervendremos de inmediato.
 
-[msg MSG_044 [Polic胤a Alto]]
-夷Qu姻 pasa? Vamos, la contrase隠a...
+[msg MSG_044 [Policボa Alto]]
+メQu〒 pasa? Vamos, la contraseワa...
 
 [msg MSG_045 [P3 Fem Protag]]
-Lo siento. 斡Estoy tan ansiosa, la olvid姻[n]completamente!
-Bueno, esta es la ciudad de[n]Kamoshidaman, y nosotros somos polic胤as,[n]as胤 que...
+Lo siento. ムEstoy tan ansiosa, la olvid〒[n]completamente!
+Bueno, esta es la ciudad de[n]Kamoshidaman, y nosotros somos policボas,[n]asボ que...
 Kamo... Kamo...
 
-[msg MSG_046 [Polic胤a Alto]]
-夷Qu姻... "Kamo Kamo"?
+[msg MSG_046 [Policボa Alto]]
+メQu〒... "Kamo Kamo"?
 
 [msg MSG_047 [P3 Fem Protag]]
-Espera... Polic胤a de la Ciudad Kamo...[n]Polic胤a... Kamo Polic胤... Polic胤a[n]Kamo... Kamo Kamo...
+Espera... Policボa de la Ciudad Kamo...[n]Policボa... Kamo Policボ... Policボa[n]Kamo... Kamo Kamo...
 
 [msg MSG_048 [Akechi]]
-Oh no. Parece que est茨 dando vueltas en[n]c胤rculos...
+Oh no. Parece que estホ dando vueltas en[n]cボrculos...
 
-[msg MSG_049 [Polic胤a Alto]]
+[msg MSG_049 [Policボa Alto]]
 ...Bien.
 
 [msg MSG_050 [Akechi]]
-斡夷Eh...?!
+ムメEh...?!
 
 [msg MSG_051 [P3 Fem Protag]]
-斡夷En serio, es correcta?!
+ムメEn serio, es correcta?!
 
-[msg MSG_052 [Polic胤a Alto]]
-斡Por supuesto que no! Me refer胤a a:[n]"Bien, ya termin姻 de lidiar con tus[n]tonter胤as".
-斡No hay ninguna contrase隠a! 斡Era una[n]pregunta trampa, est雨pida!
+[msg MSG_052 [Policボa Alto]]
+ムPor supuesto que no! Me referボa a:[n]"Bien, ya termin〒 de lidiar con tus[n]tonterボas".
+ムNo hay ninguna contraseワa! ムEra una[n]pregunta trampa, estマpida!
 
 [msg MSG_053 [P3 Fem Protag]]
-斡Oye, no es justo! 斡Mi disfraz era[n]perfecto y todo!
+ムOye, no es justo! ムMi disfraz era[n]perfecto y todo!
 
-[msg MSG_054 [Polic胤a Alto]]
-Te entregar姻 ahora mismo. 斡Creo que[n]ser茨s parte de la exposici吋n!
+[msg MSG_054 [Policボa Alto]]
+Te entregar〒 ahora mismo. ムCreo que[n]serホs parte de la exposiciポn!
 
 [msg MSG_055 [Morgana]]
-Esto es malo. 斡Vamos!
+Esto es malo. ムVamos!
 
 [msg MSG_056 [P3 Fem Protag]]
-斡Demasiado lento!
+ムDemasiado lento!
 
-[msg MSG_057 [Polic胤a Alto]]
+[msg MSG_057 [Policボa Alto]]
 AWGH...
 
 [msg MSG_058]
-斡Acaba de dejar fuera de combate al[n]polic胤a con un golpe en el cuello!
+ムAcaba de dejar fuera de combate al[n]policボa con un golpe en el cuello!
 
 [msg MSG_059 [P3 Fem Protag]]
 Uf, eso estuvo cerca...
 
 [msg MSG_059_5 [P3 Fem Protag]]
-Ok, mejor hagamos esto antes de que se[n]despierte... 夷D吋nde est茨n las esposas?[n]Ah, aqu胤 est茨n...
+Ok, mejor hagamos esto antes de que se[n]despierte... メDポnde estホn las esposas?[n]Ah, aquボ estホn...
 
 [msg MSG_060]
-...colocamos las esposas y le tapamos la[n]boca al polic胤a inconsciente...
+...colocamos las esposas y le tapamos la[n]boca al policボa inconsciente...
 
 [msg MSG_061 [Ryuji]]
-Vaya... 斡Ella acab吋 con ese tipo!
+Vaya... ムElla acabポ con ese tipo!
 
 [msg MSG_062 [Morgana]]
 Es muy buena en esto...
 
 [msg MSG_063 [P3 Fem Protag]]
-Y listo, ya est茨.
+Y listo, ya estホ.
 
 [msg MSG_064 [P3 Fem Protag]]
-Lamento la demora, 斡pero la misi吋n fue[n]un 姻xito!
+Lamento la demora, ムpero la misiポn fue[n]un 〒xito!
 
 [msg MSG_065 [Ryuji]]
-斡夷Eh, no?! 斡Eso no era parte del plan![n]Quer胤amos que se fuera, 斡no dejarlo en[n]coma!
-Y ese golpe... 斡夷Qu姻 eres, una especie[n]de sicaria?!
+ムメEh, no?! ムEso no era parte del plan![n]Querボamos que se fuera, ムno dejarlo en[n]coma!
+Y ese golpe... ムメQu〒 eres, una especie[n]de sicaria?!
 
 [msg MSG_066 [P3 Fem Protag]]
-斡Ja, ja, ja, eso! Lo vi una vez en una[n]pel胤cula, as胤 que pens姻 en probarlo.
-Parece que sali吋 bien, quiero decir,[n]夷aun as胤 lo logr姻, no?
-Esa fue la primera vez que enga隠姻 a un[n]enemigo antes de eliminarlo. 斡Fue[n]divertido!
+ムJa, ja, ja, eso! Lo vi una vez en una[n]pelボcula, asボ que pens〒 en probarlo.
+Parece que saliポ bien, quiero decir,[n]メaun asボ lo logr〒, no?
+Esa fue la primera vez que engaワ〒 a un[n]enemigo antes de eliminarlo. ムFue[n]divertido!
 
 [msg MSG_067 [Yusuke]]
-Pero no lograste enga隠arlo...
+Pero no lograste engaワarlo...
 
 [msg MSG_068 [Ann]]
-Bueno, ella no result吋 herida, as胤 que[n]simplemente llam姻moslo un 姻xito.[n]斡Gracias por la ayuda, [f 6 1 27 0 0 0]!
+Bueno, ella no resultポ herida, asボ que[n]simplemente llam〒moslo un 〒xito.[n]ムGracias por la ayuda, [f 6 1 27 0 0 0]!
 
 [msg MSG_069 [P3 Fem Protag]]
-*risa* No hay problema. 斡Encantada de[n]ayudar!
+*risa* No hay problema. ムEncantada de[n]ayudar!
 
 [msg MSG_070 [Morgana]]
 Ahora que tenemos el camino despejado,[n]podemos apagar las luces cuando[n]queramos.
 
 [msg MSG_071 [Akechi]]
-Todo lo que queda es determinar c吋mo[n]robaremos la estatua de la plaza.
+Todo lo que queda es determinar cポmo[n]robaremos la estatua de la plaza.
 
 [msg MSG_072 [Morgana]]
 Volvamos para planear los detalles.
-Despu姻s de todo, este lugar huele[n]horrible...
+Despu〒s de todo, este lugar huele[n]horrible...
 
 [msg MSG_073 [Yusuke]]
-Entonces, 夷volvemos al cine, Joker?
+Entonces, メvolvemos al cine, Joker?
 

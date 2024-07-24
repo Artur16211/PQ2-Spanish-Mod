@@ -1,102 +1,102 @@
 [msg MSG_000 [P3 Fem Protag]]
-Uhm, as胤 que solo tenemos que derrotar a los objetivos en las localizaciones que especific吋 Elizabeth, 夷verdad?
+Uhm, asボ que solo tenemos que derrotar a los objetivos en las localizaciones que especificポ Elizabeth, メverdad?
 
 [msg MSG_001 [Akihiko]]
-夷Eso es todo lo que tenemos que hacer? Eso ser茨 f茨cil.
+メEso es todo lo que tenemos que hacer? Eso serホ fホcil.
 
 [msg MSG_002 [Mitsuru]]
-Recuerda que esas sombras no son d姻biles. No dudes en huir si las cosas se salen fuera de control.
-Especialmente t雨, Akihiko. T雨 te animas muy f茨cilmente. Da un buen ejemplo a los m茨s j吋venes.
+Recuerda que esas sombras no son d〒biles. No dudes en huir si las cosas se salen fuera de control.
+Especialmente tマ, Akihiko. Tマ te animas muy fホcilmente. Da un buen ejemplo a los mホs jポvenes.
 
 [msg MSG_003 [Akihiko]]
-Lo s姻. Dame algo de cr姻dito.
+Lo s〒. Dame algo de cr〒dito.
 
 [msg MSG_004 [Shinjiro]]
-Ja, 夷lo sabes...?
+Ja, メlo sabes...?
 
 [msg MSG_005 [Akihiko]]
-夷Qu姻, no me crees, Shinji?
+メQu〒, no me crees, Shinji?
 
 [msg MSG_006 [Shinjiro]]
-Intenta ser t雨 quien tenga que frenarte cada vez que te escapes por tu cuenta.
+Intenta ser tマ quien tenga que frenarte cada vez que te escapes por tu cuenta.
 
 [msg MSG_007 [Akihiko]]
-夷Qu姻? Bueno, 斡夷qu姻 hay de ti, Shinji?! 斡Llevas qui姻n sabe cu茨nto tiempo habl茨ndonos con desprecio...!
+メQu〒? Bueno, ムメqu〒 hay de ti, Shinji?! ムLlevas qui〒n sabe cuホnto tiempo hablホndonos con desprecio...!
 
 [msg MSG_008 [Mitsuru]]
-*suspiro* Esto otra vez... Ser茨 un momento.
+*suspiro* Esto otra vez... Serホ un momento.
 
 [sel SEL_009 top]
 Por favor, di algo, Mitsuru.
 Ayuda, [f 6 1 27 0 0 0].
-Dej姻mosles ser.
+Dej〒mosles ser.
 
 [msg MSG_010 [Mitsuru]]
-Aunque interviniera, ellos seguir胤an igual.
-Quiz茨s sea porque se conocen desde que eran peque隠os. Lo juro, son tan inmaduros...
+Aunque interviniera, ellos seguirボan igual.
+Quizホs sea porque se conocen desde que eran pequeワos. Lo juro, son tan inmaduros...
 
 [msg MSG_011 [Mitsuru]]
 No creo que [f 6 1 26 0 0 0] pudiera ayudar si lo intentara.
-Estamos hablando de estos dos. Volver茨n a empezar.
+Estamos hablando de estos dos. Volverホn a empezar.
 
 [msg MSG_012 [Mitsuru]]
-Nunca terminar茨. No tienes intenci吋n de esperar a que termine, 夷verdad?
+Nunca terminarホ. No tienes intenciポn de esperar a que termine, メverdad?
 
 [msg MSG_013 [P3 Fem Protag]]
-Est茨 bien, 斡tengo una idea! 斡Solo dej茨dmelo a m胤!
+Estホ bien, ムtengo una idea! ムSolo dejホdmelo a mボ!
 
 [msg MSG_014 [Mitsuru]]
-夷Qu姻 piensas hacer, [f 6 1 26 0 0 0]?
+メQu〒 piensas hacer, [f 6 1 26 0 0 0]?
 
 [msg MSG_015 [P3 Fem Protag]]
-斡Shinjiro! 斡Akihiko! 斡Escuchad!
-Esta es una misi吋n de caza, as胤 que 夷por qu姻 no hacemos una competici吋n para ver qui姻n de vosotros es el mejor luchador?
+ムShinjiro! ムAkihiko! ムEscuchad!
+Esta es una misiポn de caza, asボ que メpor qu〒 no hacemos una competiciポn para ver qui〒n de vosotros es el mejor luchador?
 
 [msg MSG_016 [Akihiko]]
-Una competici吋n, 夷eh?
+Una competiciポn, メeh?
 
 [msg MSG_017 [P3 Fem Protag]]
-As胤 es. Pero no solo pueden derrotar a los enemigos.
-Estamos juntos en esto, as胤 que solo est茨 prohibido volar.
-Se tratar茨 de observar a tus compa隠eros y hacer todo lo posible por apoyarlos.
-Decidiremos el ganador bas茨ndonos en su rendimiento general. 夷Trato hecho?
+Asボ es. Pero no solo pueden derrotar a los enemigos.
+Estamos juntos en esto, asボ que solo estホ prohibido volar.
+Se tratarホ de observar a tus compaワeros y hacer todo lo posible por apoyarlos.
+Decidiremos el ganador basホndonos en su rendimiento general. メTrato hecho?
 
 [msg MSG_018 [Akihiko]]
 Je... Interesante. Acepto.
-Si gano, tendr茨s que entrenar conmigo, Shinji.
+Si gano, tendrホs que entrenar conmigo, Shinji.
 
 [msg MSG_019 [Shinjiro]]
-斡夷Qu姻?! 夷Por qu姻 diablos tendr胤a que hacer eso?
+ムメQu〒?! メPor qu〒 diablos tendrボa que hacer eso?
 
 [msg MSG_020 [Akihiko]]
-Que, 夷no tendr茨s miedo de perder, vedad?
+Que, メno tendrホs miedo de perder, vedad?
 
 [msg MSG_021 [Shinjiro]]
 Cabr... No hay forma de que pierda contra ti, Aki.
 
 [msg MSG_022 [Akihiko]]
-斡Muy bien, es un duelo, Shinji!
+ムMuy bien, es un duelo, Shinji!
 
 [msg MSG_023 [Shinjiro]]
 Ja, luego no me vengas llorando.
-夷Entonces donde est茨n esos enemigos? Estoy listo par acabar con ellos.
+メEntonces donde estホn esos enemigos? Estoy listo par acabar con ellos.
 
 [msg MSG_024 [Akihiko]]
-夷Intentas ir solo...? Eso va en contra de las reglas. 斡Menos un punto!
+メIntentas ir solo...? Eso va en contra de las reglas. ムMenos un punto!
 
 [msg MSG_025 [Shinjiro]]
-斡夷Qu姻?! Eso no cuenta. Ni siquiera hemos empezado a雨n.
+ムメQu〒?! Eso no cuenta. Ni siquiera hemos empezado aマn.
 
 [msg MSG_026 [P3 Fem Protag]]
-Trabajar juntos es la clave, 夷entendido? 斡Buena suerte, chicos!
+Trabajar juntos es la clave, メentendido? ムBuena suerte, chicos!
 
 [msg MSG_027 [Mitsuru]]
 Y pensar que has podido domar a esos dos... Nada mal, [f 6 1 26 0 0 0].
 
 [msg MSG_028 [P3 Fem Protag]]
-Ja, ja, ja, ya estoy acostumbrada. 斡Los que yo conozco son exactamente igual!
+Ja, ja, ja, ya estoy acostumbrada. ムLos que yo conozco son exactamente igual!
 
 [msg MSG_029 [Mitsuru]]
-*suspiro* 夷Ellos tambi姻n son as胤 all胤? Me est茨 dando dolor de cabeza de pensarlo...
+*suspiro* メEllos tambi〒n son asボ allボ? Me estホ dando dolor de cabeza de pensarlo...
 De todas formas, gracias a [f 6 1 26 0 0 0] por fin podremos avanzar. Sigamos.
 

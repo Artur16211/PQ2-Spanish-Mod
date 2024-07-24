@@ -2,11 +2,11 @@
 Mientras tanto...
 
 [msg MSG_001 [Voz Del Monitor]]
-斡Me cans姻 de tu resistencia! 斡Elijan:[n]sigan las especificaciones del sistema o[n]ser茨n eliminados!
+ムMe cans〒 de tu resistencia! ムElijan:[n]sigan las especificaciones del sistema o[n]serホn eliminados!
 
 [msg MSG_002 [Chica De Ojos Azules]]
-斡No permitir姻 que nos destruyas!
+ムNo permitir〒 que nos destruyas!
 
 [msg MSG_003 [Chica De Ojos Azules]]
-No te preocupes. Te proteger姻, sin[n]importar el costo.
+No te preocupes. Te proteger〒, sin[n]importar el costo.
 

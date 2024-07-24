@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_001 [Koromaru]]
 *olfateo olfateo*
 
 [msg MSG_002 [Koromaru]]
-斡Arf, arf!
+ムArf, arf!
 
 [msg MSG_003 [Koromaru]]
 Woof.
 
 [msg MSG_004 [Koromaru]]
-斡Guau! 斡Arf, arf!
+ムGuau! ムArf, arf!
 
 [msg MSG_005]
-斡Guau!
+ムGuau!
 
 [msg MSG_006]
-斡Arf, arf!
+ムArf, arf!
 
 [msg MSG_007]
-斡Guau!
+ムGuau!
 
 [msg MSG_008 [Koromaru]]
-斡Grrr... Bark!
+ムGrrr... Bark!
 
 [msg MSG_009]
-斡Arf, arf!
+ムArf, arf!
 
 [msg MSG_010]
-斡Awoooo!
+ムAwoooo!
 
 [msg MSG_011]
-斡Arf arf arf!
+ムArf arf arf!
 
 [msg MSG_012 [Koromaru]]
 *olfateo olfateo*
 
 [msg MSG_013 [Koromaru]]
-斡Arf! 斡Arf arf arf!
+ムArf! ムArf arf arf!
 
 [msg MSG_014 [Koromaru]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Koromaru]]
 *quejido*
 
 [msg MSG_016 [Koromaru]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Koromaru]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Koromaru]]
-斡Grrrrr...!
+ムGrrrrr...!
 
 [msg MSG_019 [Koromaru]]
-斡Arf, arf!
+ムArf, arf!
 
 [msg MSG_020 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_021 [Koromaru]]
-斡Guau! 斡Arf arf!
+ムGuau! ムArf arf!
 
 [msg MSG_022 [Koromaru]]
-*olfateo* 斡Guau!
+*olfateo* ムGuau!
 
 [msg MSG_023 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_024 [Koromaru]]
-斡Arf, arf!
+ムArf, arf!
 
 [msg MSG_025 [Koromaru]]
-斡Guau!
+ムGuau!
 
 [msg MSG_026 [Koromaru]]
-斡Arf arf!
+ムArf arf!
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

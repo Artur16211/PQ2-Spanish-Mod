@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Explora todo de A.I.G.I.S.!
+ムExplora todo de A.I.G.I.S.!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Resuelve el misterio de "GROW".

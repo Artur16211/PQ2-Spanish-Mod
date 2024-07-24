@@ -1,8 +1,8 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Derrota al Padre Sofocante!
+ムDerrota al Padre Sofocante!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
-Dir胤gete al Interludio Infinito.
+Dirボgete al Interludio Infinito.
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_2]
 ♪♪

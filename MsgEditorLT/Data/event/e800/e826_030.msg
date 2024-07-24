@@ -2,70 +2,70 @@
 Hmm...
 
 [msg MSG_001 [Ann]]
-夷Qu姻 ocurre?
+メQu〒 ocurre?
 
 [msg MSG_002 [Rise]]
-Parece que el camino se divide m茨s adelante.
-Uno contin雨a hacia el este y da una gran vuelta hacia el norte...
+Parece que el camino se divide mホs adelante.
+Uno continマa hacia el este y da una gran vuelta hacia el norte...
 
 [msg MSG_003 [Fuuka]]
 Y el otro camino lleva hacia el norte y da una vuelta menor.
-Seg雨n nuestra posici吋n, ese ser胤a el camino m茨s corto.
+Segマn nuestra posiciポn, ese serボa el camino mホs corto.
 
 [msg MSG_004 [Teddie]]
-斡Es m茨s corto! 斡Seguidme todo el mundo!
+ムEs mホs corto! ムSeguidme todo el mundo!
 
 [msg MSG_005 [Morgana]]
-Espera. El camino m茨s corno no es siempre la mejor opci吋n.
-Si algo me ha ense隠ado la experiencia, es que el camino f茨cil suele ser una trampa...
+Espera. El camino mホs corno no es siempre la mejor opciポn.
+Si algo me ha enseワado la experiencia, es que el camino fホcil suele ser una trampa...
 
 [msg MSG_006 [Teddie]]
-Quejas, quejas, quejas... Si esto fuera un concurso de quejarse, ganar胤as sin duda.
+Quejas, quejas, quejas... Si esto fuera un concurso de quejarse, ganarボas sin duda.
 
 [msg MSG_007 [Morgana]]
-斡夷Qui姻n se est茨 quejando?!
+ムメQui〒n se estホ quejando?!
 
 [msg MSG_008 [Ann]]
-Bueno, supongo que podr胤as elegir uno de los dos. 夷Qu姻 camino deber胤amos tomar, Joker?
+Bueno, supongo que podrボas elegir uno de los dos. メQu〒 camino deberボamos tomar, Joker?
 
 [sel SEL_009 top]
-El camino m茨s corto.
-El camino m茨s largo.
-Necesito m茨s informaci吋n.
+El camino mホs corto.
+El camino mホs largo.
+Necesito mホs informaciポn.
 
 [msg MSG_010 [Teddie]]
-夷Ven? 夷Qu姻 les dije?
+メVen? メQu〒 les dije?
 
 [msg MSG_011 [Morgana]]
-斡Sab胤a que lo entender胤as, Joker!
+ムSabボa que lo entenderボas, Joker!
 
 [msg MSG_012 [Ann]]
-S胤, estar胤a bien saber un poco m茨s sobre qu姻 nos espera en cada camino.
+Sボ, estarボa bien saber un poco mホs sobre qu〒 nos espera en cada camino.
 
 [msg MSG_013 [Koromaru]]
-斡Guau, guau!
+ムGuau, guau!
 
 [msg MSG_014 [Yukari]]
-夷Hm? 夷Qu姻 ocurre, Koromaru?
+メHm? メQu〒 ocurre, Koromaru?
 
 [msg MSG_015 [Aigis]]
 Parece decir que puede oler algo en cada camino.
 
 [msg MSG_016 [Chie]]
-夷En serio? Yo no huelo nada.
-Y estoy segura de que podr胤a percibir el olor de la carne en cualquier lugar cercano.
+メEn serio? Yo no huelo nada.
+Y estoy segura de que podrボa percibir el olor de la carne en cualquier lugar cercano.
 
 [msg MSG_017 [Yosuke]]
-Ah胤 va la friki de la carne... Como si eso fuera algo de lo que estar orgulloso.
+Ahボ va la friki de la carne... Como si eso fuera algo de lo que estar orgulloso.
 
 [msg MSG_018 [Ken]]
-Koromaru tiene un sentido del olfato mucho mejor que el nuestro, as胤 que puede que haya detectado algo.
+Koromaru tiene un sentido del olfato mucho mejor que el nuestro, asボ que puede que haya detectado algo.
 
 [msg MSG_019 [Futaba]]
-No hay forma de saberlo desde aqu胤. Tendremos que acercarnos m茨s.
-Querr茨s obtener toda la informaci吋n que puedas antes de tomar una decisi吋n.
+No hay forma de saberlo desde aquボ. Tendremos que acercarnos mホs.
+Querrホs obtener toda la informaciポn que puedas antes de tomar una decisiポn.
 
 [msg MSG_020 [Teddie]]
-斡Yo digo que veamos primero el camino m茨s corto!
-斡Vamooos!
+ムYo digo que veamos primero el camino mホs corto!
+ムVamooos!
 

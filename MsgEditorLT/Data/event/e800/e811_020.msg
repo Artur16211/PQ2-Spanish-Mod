@@ -1,87 +1,87 @@
 [msg MSG_000 [Morgana]]
-Muy bien, chicos. 斡Primero, tenemos que pensar un plan!
+Muy bien, chicos. ムPrimero, tenemos que pensar un plan!
 
 [msg MSG_001 [Yosuke]]
-Ohh, eso suena como algo que un ladr吋n fantasma dir胤a. 
+Ohh, eso suena como algo que un ladrポn fantasma dirボa. 
 
 [msg MSG_002 [Yukiko]]
-夷Es en esto donde realmente brilla?
+メEs en esto donde realmente brilla?
 
 [msg MSG_003 [Ryuji]]
 Bueno, Mona suele planear las cosas, y luego el equipo sigue sus indicaciones.
 
 [msg MSG_004 [Ann]]
-夷No acabas de tener una gran pelea con 姻l?
+メNo acabas de tener una gran pelea con 〒l?
 
 [msg MSG_005 [Ryuji]]
-Uh, bueno... 斡Ten胤a mucho en que pensar!
+Uh, bueno... ムTenボa mucho en que pensar!
 
 [msg MSG_006 [Kanji]]
-... 夷Ocurre algo entre ellos?
+... メOcurre algo entre ellos?
 
 [sel SEL_007 top]
 Diferencia de opiniones.
-Un mont吋n.
-Deber胤as disculparte con Mona.
+Un montポn.
+Deberボas disculparte con Mona.
 Ambos tuvieron la culpa.
 
 [msg MSG_008 [Ryuji]]
-Huh... Sabes, se siente un poco raro cuando te expresas as胤 de bien.
-No s姻... No estaba pensando muy bien en ese momento...
+Huh... Sabes, se siente un poco raro cuando te expresas asボ de bien.
+No s〒... No estaba pensando muy bien en ese momento...
 
 [msg MSG_009 [Ryuji]]
-S胤...
-Realmente deber胤a aprender a dejar de perder los estribos tan f茨cilmente...
+Sボ...
+Realmente deberボa aprender a dejar de perder los estribos tan fホcilmente...
 
 [msg MSG_010 [Ryuji]]
-Aagh... Vamos, he dicho que lo sent胤a.
-De hecho, 斡T雨 estabas ah胤, Joker! 斡Me viste disculparme!
+Aagh... Vamos, he dicho que lo sentボa.
+De hecho, ムTマ estabas ahボ, Joker! ムMe viste disculparme!
 
 [msg MSG_011 [Ryuji]]
-Nah. Todo ocurri吋 porque se me fue la olla...
+Nah. Todo ocurriポ porque se me fue la olla...
 
 [msg MSG_012 [Ann]]
-... Ahora que lo pienso, tambi姻n fue en cierta parte nuestra culpa.
-Pensamos que era otra pelea corriente, as胤 que no hicimos nada para pararla.
+... Ahora que lo pienso, tambi〒n fue en cierta parte nuestra culpa.
+Pensamos que era otra pelea corriente, asボ que no hicimos nada para pararla.
 
 [msg MSG_013 [Naoto]]
-... Bueno, ha acabado bien, 夷no? Siempre habr茨 momentos en los que no est姻s de acuerdo.
+... Bueno, ha acabado bien, メno? Siempre habrホ momentos en los que no est〒s de acuerdo.
 Sin embargo, es superando estos conflictos como se aprende a confiar de verdad en el otro.
 
 [msg MSG_014 [Haru]]
-S胤, poco a poco, llegar茨n a entenderse.
+Sボ, poco a poco, llegarホn a entenderse.
 
 [msg MSG_015 [Makoto]]
-*risita* Esto se ha convertido en una discusi吋n bastante seria, 夷no?
+*risita* Esto se ha convertido en una discusiポn bastante seria, メno?
 Seguiremos trabajando juntos como equipo, pero tenemos que encontrar nuestro objetivo primero...
 
 [msg MSG_016 [Yukiko]]
-Veamos... Tenemos que encontrar d吋nde esconden esas coronas.
+Veamos... Tenemos que encontrar dポnde esconden esas coronas.
 
 [msg MSG_017 [Morgana]]
-夷D吋nde esconder胤a una Seidoptera su tesoro? 夷Alguna idea, Joker?
+メDポnde esconderボa una Seidoptera su tesoro? メAlguna idea, Joker?
 
 [sel SEL_018 top]
 Cerca de su territorio.
 En un Punto del Tesoro.
 
 [msg MSG_019 [Naoto]]
-Buena observaci吋n. Imagino que esconder胤a su tesoro en alg雨n lugar que pueda vigilar de cerca.
+Buena observaciポn. Imagino que esconderボa su tesoro en algマn lugar que pueda vigilar de cerca.
 
 [msg MSG_020 [Naoto]]
-Ah, as胤 que lo oculta en un Punto del Tesoro, y protege la zona que lo rodea... Es ciertamente posible.
+Ah, asボ que lo oculta en un Punto del Tesoro, y protege la zona que lo rodea... Es ciertamente posible.
 
 [msg MSG_021 [Futaba]]
 Muy bien, parece que nuestro primer objetivo es encontrar una Seidoptera.
-Las Seidopteras son FOEs, as胤 que deber胤ais de poder verlas en vuestro mapa.
+Las Seidopteras son FOEs, asボ que deberボais de poder verlas en vuestro mapa.
 
 [msg MSG_022 [Rise]]
-Hay dos de ellas. As胤 que supongo que cada uno tiene un tesoro.
+Hay dos de ellas. Asボ que supongo que cada uno tiene un tesoro.
 
 [msg MSG_023 [Ryuji]]
-Bien, lo sabremos una vez lleguemos all胤.
-Muy bien, 斡vamos a buscar a esas Seidopteras!
+Bien, lo sabremos una vez lleguemos allボ.
+Muy bien, ムvamos a buscar a esas Seidopteras!
 
 [msg MSG_024 [Chie]]
-斡S胤! 斡Vamos a movernos!
+ムSボ! ムVamos a movernos!
 

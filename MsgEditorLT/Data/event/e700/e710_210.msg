@@ -1,29 +1,29 @@
 [msg MSG_000 [Yusuke]]
-夷Mm? 夷Qu姻 es eso?
+メMm? メQu〒 es eso?
 
 [msg MSG_001 [Ann]]
-Oh, parece que est茨 brillando...
+Oh, parece que estホ brillando...
 
 [msg MSG_002 [Yusuke]]
-Es un brillo bastante hermoso... Me[n]gustar胤a observarlo m茨s de cerca.
+Es un brillo bastante hermoso... Me[n]gustarボa observarlo mホs de cerca.
 
 [msg MSG_003 [Ann]]
-Espera, 夷es seguro? 斡Podr胤a ser una[n]trampa!
+Espera, メes seguro? ムPodrボa ser una[n]trampa!
 
 [msg MSG_004 [Yusuke]]
-Cuanto m茨s lo miro, m茨s misterioso se[n]vuelve su brillo. 夷Podr胤a esta aura...[n]ser replicada con pintura?
+Cuanto mホs lo miro, mホs misterioso se[n]vuelve su brillo. メPodrボa esta aura...[n]ser replicada con pintura?
 
 [msg MSG_005 [Ryuji]]
-斡No est茨 escuchando!
+ムNo estホ escuchando!
 
 [msg MSG_006 [Futaba]]
-Es in雨til intentar cuando Fox se pone[n]as胤. Solo ignora lo que dice.
-Pero... 斡M茨s importante! Parece que hay[n]algo raro.
+Es inマtil intentar cuando Fox se pone[n]asボ. Solo ignora lo que dice.
+Pero... ムMホs importante! Parece que hay[n]algo raro.
 
 [msg MSG_007 [Yusuke]]
-*suspiro* Deb胤 haber tra胤do mis[n]suministros de arte...
-Grr... 斡夷C吋mo se me pudo pasar?!
+*suspiro* Debボ haber traボdo mis[n]suministros de arte...
+Grr... ムメCポmo se me pudo pasar?!
 
 [msg MSG_008 [Ryuji]]
-Vale, ya basta, 斡vamos!
+Vale, ya basta, ムvamos!
 

@@ -1,101 +1,101 @@
 [msg ANN_FOE_FOLLOW_START_1]
-斡Viene un FOE!
+ムViene un FOE!
 
 [msg ANN_FOE_FOLLOW_START_2]
-Eee... esa cosa nos est茨 mirando!
+Eee... esa cosa nos estホ mirando!
 
 [msg ANN_FOE_FOLLOW_START_3]
-夷Eh? 夷Nos vio?
+メEh? メNos vio?
 
 [msg ANN_FOE_NEAR_1]
-斡Es un FOE!
+ムEs un FOE!
 
 [msg ANN_FOE_NEAR_2]
-夷Un FOE? 斡Esto es malo!
+メUn FOE? ムEsto es malo!
 
 [msg ANN_FOE_NEAR_3]
-斡Oye, es un FOE, ya sabes! 斡Debemos[n]tener cuidado!
+ムOye, es un FOE, ya sabes! ムDebemos[n]tener cuidado!
 
 [msg ANN_FOE_FOLLOW_END_1]
 Uf, estamos bien... Supongo que lo[n]perdimos.
 
 [msg ANN_FOE_FOLLOW_END_2]
-*suspiro* Parece que finalmente se[n]rindi吋.
+*suspiro* Parece que finalmente se[n]rindiポ.
 
 [msg ANN_FOE_FOLLOW_END_3]
-斡S胤! 斡Escapamos!
+ムSボ! ムEscapamos!
 
 [msg ANN_KANSI_REACTION_1]
 Vamos de puntillas, no queremos que[n]nos descubran.
 
 [msg ANN_KANSI_REACTION_2]
-Muy f茨cil ahora...
+Muy fホcil ahora...
 
 [msg ANN_KANSI_REACTION_3]
-Ugh, estoy sudando por todas partes.[n]斡Y no es porque hace calor!
+Ugh, estoy sudando por todas partes.[n]ムY no es porque hace calor!
 
 [msg ANN_DENKISAKU_REACTION_1]
-Puedo sentir los pelos de la nuca[n]eriz茨ndose...
+Puedo sentir los pelos de la nuca[n]erizホndose...
 
 [msg ANN_DENKISAKU_REACTION_2]
-斡NO queremos tocar eso!
+ムNO queremos tocar eso!
 
 [msg ANN_DENKISAKU_REACTION_3]
-Whoa... Toda esta electricidad es[n]rid胤cula...
+Whoa... Toda esta electricidad es[n]ridボcula...
 
 [msg ANN_KYOUHU_REACTION_1]
-斡Ay! 斡Viento!
+ムAy! ムViento!
 
 [msg ANN_KYOUHU_REACTION_2]
-斡Ugh! 斡夷En serio?! 斡Mi pelo!
+ムUgh! ムメEn serio?! ムMi pelo!
 
 [msg ANN_KYOUHU_REACTION_3]
-夷D吋nde estamos, un tornado?
+メDポnde estamos, un tornado?
 
 [msg ANN_STAIR_FIND_1]
-斡Podemos pasar por aqu胤!
+ムPodemos pasar por aquボ!
 
 [msg ANN_STAIR_FIND_2]
-斡Oh! 斡Un camino!
+ムOh! ムUn camino!
 
 [msg ANN_STAIR_FIND_3]
-斡Oye, vamos a comprobarlo!
+ムOye, vamos a comprobarlo!
 
 [msg ANN_TREASURE_FIND_1]
-斡Tesoro!
+ムTesoro!
 
 [msg ANN_TREASURE_FIND_2]
-斡Un tesoro! 斡Muy bien!
+ムUn tesoro! ムMuy bien!
 
 [msg ANN_TREASURE_FIND_3]
-斡Veo algo bueno!
+ムVeo algo bueno!
 
 [msg ANN_CHECK_WALL_1]
-Sospechoso, 夷no crees?
+Sospechoso, メno crees?
 
 [msg ANN_CHECK_WALL_2]
-夷Quieres revisarlo?
+メQuieres revisarlo?
 
 [msg ANN_CHECK_WALL_3]
-斡Tiene que haber algo por aqu胤!
+ムTiene que haber algo por aquボ!
 
 [msg ANN_SWITCH_FIND_1]
-Podemos activar este interruptor sin[n]problemas, 夷verdad?
+Podemos activar este interruptor sin[n]problemas, メverdad?
 
 [msg ANN_SWITCH_FIND_2]
-斡Oh! 斡Hay un interruptor!
+ムOh! ムHay un interruptor!
 
 [msg ANN_SWITCH_FIND_3]
-夷Deber胤amos activar este interruptor?
+メDeberボamos activar este interruptor?
 
 [msg ANN_SHORTCUT_FIND_1]
-斡Ah胤! 斡Parece un atajo!
+ムAhボ! ムParece un atajo!
 
 [msg ANN_SHORTCUT_FIND_2]
-夷Quiz茨s usemos esto como un atajo,[n]夷verdad?
+メQuizホs usemos esto como un atajo,[n]メverdad?
 
 [msg ANN_SHORTCUT_FIND_3]
-Oye, tal vez podamos pasar por ah胤.
+Oye, tal vez podamos pasar por ahボ.
 
 [msg ANN_PARTY_DEAD_1]
 ?
@@ -107,64 +107,64 @@ Oye, tal vez podamos pasar por ah胤.
 ?
 
 [msg ANN_FOE_WARNING_NEAR_1]
-斡夷Cu茨nto m茨s va a perseguirnos?!
+ムメCuホnto mホs va a perseguirnos?!
 
 [msg ANN_FOE_WARNING_NEAR_2]
-斡Viene el FOE! 斡Corre!
+ムViene el FOE! ムCorre!
 
 [msg ANN_FOE_WARNING_NEAR_3]
-夷En serio? 夷Cu茨l es su problema?
+メEn serio? メCuホl es su problema?
 
 [msg ANN_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ANN_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ANN_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ANN_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg ANN_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg ANN_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg ANN_1PERSON_HPTP10_1]
 Lo siento... No puedo seguir...
 
 [msg ANN_1PERSON_HPTP10_2]
-Oye, 夷crees que podamos descansar un[n]poco y relajarnos...?
+Oye, メcrees que podamos descansar un[n]poco y relajarnos...?
 
 [msg ANN_1PERSON_HPTP10_3]
-Creo que esto es lo m茨s lejos que[n]puedo llegar...
+Creo que esto es lo mホs lejos que[n]puedo llegar...
 
 [msg ANN_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ANN_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ANN_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg ANN_1PERSON_HP10_1]
-Maldici吋n... Esto no es bueno.
+Maldiciポn... Esto no es bueno.
 
 [msg ANN_1PERSON_HP10_2]
 *gemido* Estoy tan adolorida...
 
 [msg ANN_1PERSON_HP10_3]
-Creo que he llegado a mi l胤mite...
+Creo que he llegado a mi lボmite...
 
 [msg ANN_1PERSON_TP10_1]
 Tan... cansada...
 
 [msg ANN_1PERSON_TP10_2]
-Por favor, d姻jame descansar un[n]poco...
+Por favor, d〒jame descansar un[n]poco...
 
 [msg ANN_1PERSON_TP10_3]
 Estoy completamente agotada...
@@ -179,13 +179,13 @@ Estoy completamente agotada...
 【justificadamente
 
 [msg ANN_1PERSON_HP80_1]
-斡S胤! 斡Bien hecho!
+ムSボ! ムBien hecho!
 
 [msg ANN_1PERSON_HP80_2]
-夷Todos est茨n bien?
+メTodos estホn bien?
 
 [msg ANN_1PERSON_HP80_3]
-斡夷Por qu姻 parar ahora?!
+ムメPor qu〒 parar ahora?!
 
 [msg ANN_BATTLE_CHANGE_DUNGEO]
 ■: [f 0 1 4]\cHFF
@@ -197,101 +197,101 @@ Estoy completamente agotada...
 ■:
 
 [msg ANN_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg ANN_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg ANN_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg ANN_DUNGEON_START_1]
-斡Empecemos!
+ムEmpecemos!
 
 [msg ANN_DUNGEON_START_2]
-斡Es hora de explorar!
+ムEs hora de explorar!
 
 [msg ANN_DUNGEON_START_3]
-斡Vamos!
+ムVamos!
 
 [msg ANN_QUEST_START_1]
-斡Hag茨moslo, chicos!
+ムHagホmoslo, chicos!
 
 [msg ANN_QUEST_START_2]
-夷Est茨s listo?
+メEstホs listo?
 
 [msg ANN_QUEST_START_3]
-斡Vamos, vamos, vamos!
+ムVamos, vamos, vamos!
 
 [msg ANN_TOUHA_25_1]
-斡Todav胤a estoy lista para seguir!
+ムTodavボa estoy lista para seguir!
 
 [msg ANN_TOUHA_25_2]
-斡Vamos a darles duro!
+ムVamos a darles duro!
 
 [msg ANN_TOUHA_50_1]
 A medio camino.
 
 [msg ANN_TOUHA_50_2]
-斡A mitad de camino!
+ムA mitad de camino!
 
 [msg ANN_TOUHA_75_1]
-夷Ya casi terminamos?
+メYa casi terminamos?
 
 [msg ANN_TOUHA_75_2]
-斡Solo un poco m茨s!
+ムSolo un poco mホs!
 
 [msg ANN_TOUHA_100_1]
-斡Hurra! 斡Terminamos!
+ムHurra! ムTerminamos!
 
 [msg ANN_TOUHA_100_2]
-斡S胤! 斡Todo listo!
+ムSボ! ムTodo listo!
 
 [msg ANN_MAPPING_ICON_ALL_1]
-斡Qu姻 bien!
+ムQu〒 bien!
 
 [msg ANN_MAPPING_ICON_ALL_2]
-Hmm, 斡se ve bien!
+Hmm, ムse ve bien!
 
 [msg ANN_MAPPING_ICON_KAIDAN_]
-斡Ese es el lugar!
+ムEse es el lugar!
 
 [msg ANN_MAPPING_ICON_KAIDAN__2]
-斡Parece importante!
+ムParece importante!
 
 [msg ANN_MAPPING_CHANGE_COLOR]
-斡Me gusta ese!
+ムMe gusta ese!
 
 [msg ANN_MAPPING_CHANGE_COLOR_2]
-斡Se ve bien! 夷M茨s color, incluso?
+ムSe ve bien! メMホs color, incluso?
 
 [msg ANN_MAPPING_ICON_DEL_1]
-斡Buena forma de mantenerte[n]organizado!
+ムBuena forma de mantenerte[n]organizado!
 
 [msg ANN_MAPPING_ICON_DEL_2]
-S胤, deber胤amos deshacernos de lo que[n]no necesitamos.
+Sボ, deberボamos deshacernos de lo que[n]no necesitamos.
 
 [msg ANN_MAPPING_MEMO_1]
-斡Aseg雨rate de tomar notas!
+ムAsegマrate de tomar notas!
 
 [msg ANN_MAPPING_MEMO_2]
-Justo lo que esperar胤a de ti.
+Justo lo que esperarボa de ti.
 
 [msg ANN_DOOR_OPEN_1]
-斡Muy bien, vamos!
+ムMuy bien, vamos!
 
 [msg ANN_DOOR_OPEN_2]
-斡Por aqu胤!
+ムPor aquボ!
 
 [msg ANN_DOOR_OPEN_3]
-斡Vamos a hacer travesuras!
+ムVamos a hacer travesuras!
 
 [msg ANN_KARITORU_ENCOUNT_1]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg ANN_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg ANN_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

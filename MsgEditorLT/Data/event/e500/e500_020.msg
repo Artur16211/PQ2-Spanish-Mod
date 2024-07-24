@@ -1,117 +1,117 @@
 [msg MSG_000 [Ken]]
-夷S-su color de pelo cambi吋... solo?
+メS-su color de pelo cambiポ... solo?
 
 [msg MSG_001 [Hikari]]
-斡夷N-nagi?!
+ムメN-nagi?!
 
-[msg MSG_002 [夷Nagi?]]
-*risa* No hay por qu姻 sorprenderse.
+[msg MSG_002 [メNagi?]]
+*risa* No hay por qu〒 sorprenderse.
 
 [sel SEL_003 top]
-夷Qui姻n eres realmente?
-夷Qu姻 le hiciste a Nagi?
+メQui〒n eres realmente?
+メQu〒 le hiciste a Nagi?
 
-[msg MSG_004 [夷Nagi?]]
-Por favor, si姻ntete libre de llamarme[n]"Enlil"
+[msg MSG_004 [メNagi?]]
+Por favor, si〒ntete libre de llamarme[n]"Enlil"
 Nagi puede simplemente ser considerado[n]uno de los muchos nombres que he tenido.
 
-[msg MSG_005 [夷Nagi?]]
+[msg MSG_005 [メNagi?]]
 Estoy frente a ti. Nagi puede[n]simplemente ser considerado uno de los[n]muchos nombres que he tenido.
-Por favor, si姻ntete libre de llamarme[n]"Enlil"
+Por favor, si〒ntete libre de llamarme[n]"Enlil"
 
 [msg MSG_006 [Yukari]]
-Todo sobre ser la curadora y querer[n]salvar a Hikari, todas esas eran[n]mentiras, 夷verdad?
+Todo sobre ser la curadora y querer[n]salvar a Hikari, todas esas eran[n]mentiras, メverdad?
 
 [msg MSG_007 [Enlil]]
-Nada de eso querida. Prepar姻 cada uno de[n]estos cines, incluyendo el de Hikari.
+Nada de eso querida. Prepar〒 cada uno de[n]estos cines, incluyendo el de Hikari.
 
 [msg MSG_008 [Junpei]]
-斡夷QU畏 es todo esto?! 斡Est茨n por todas[n]partes!
+ムメQU※ es todo esto?! ムEstホn por todas[n]partes!
 
 [msg MSG_009 [Enlil]]
-Este "lugar" es mi mundo, en su forma[n]f胤sica, a trav姻s del inconsciente[n]colectivo de las masas.
+Este "lugar" es mi mundo, en su forma[n]fボsica, a trav〒s del inconsciente[n]colectivo de las masas.
 
 [msg MSG_010 [Rise]]
-夷Qu姻...? 斡夷Por qu姻 est茨 pasando esto?!
+メQu〒...? ムメPor qu〒 estホ pasando esto?!
 
 [msg MSG_011 [Enlil]]
-"No s姻 qui姻n soy realmente..." "No[n]quiero que otros me rechacen y me hagan[n]da隠o..."
-Esos terribles males alejan a las personas de[n]sus propias realidades, todos los d胤as... y[n]son a quienes me dedico a salvar.
+"No s〒 qui〒n soy realmente..." "No[n]quiero que otros me rechacen y me hagan[n]daワo..."
+Esos terribles males alejan a las personas de[n]sus propias realidades, todos los dボas... y[n]son a quienes me dedico a salvar.
 
 [msg MSG_012 [Mitsuru]]
-夷Qu姻...?
+メQu〒...?
 
 [msg MSG_013 [Enlil]]
 Los humanos desean liberarse de las[n]pesadas y dolorosas cadenas de la[n]sociedad...
-Es por eso que para salvarlos, cre姻[n]estos cines... o m茨s bien, los manifest姻[n]con su existencia.
-Estos ayudan a la gente a entender el[n]dolor que acompa隠a la individualidad.
+Es por eso que para salvarlos, cre〒[n]estos cines... o mホs bien, los manifest〒[n]con su existencia.
+Estos ayudan a la gente a entender el[n]dolor que acompaワa la individualidad.
 
 [msg MSG_014 [Shinjiro]]
-Tch... As胤 que esto era TODO lo que[n]hac胤as aqu胤.
+Tch... Asボ que esto era TODO lo que[n]hacボas aquボ.
 
 [msg MSG_014_5 [Yukari]]
-Entonces, 夷nos estuviste enga隠ando todo[n]este tiempo mientras luch茨bamos por[n]nuestras vidas?
+Entonces, メnos estuviste engaワando todo[n]este tiempo mientras luchホbamos por[n]nuestras vidas?
 
 [msg MSG_015 [Enlil]]
-Mientras los humanos vivan como individuos,[n]seguir茨n siendo lastimados por las peleas y[n]conflictos con los dem茨s...
-No hay necesidad de soportar ese dolor.[n]Dejar atr茨s sus opiniones y creencias[n]puede llevarlos a la armon胤a.
-Todo lo que deben hacer es simplemente[n]ver las pel胤culas para convencerse...
+Mientras los humanos vivan como individuos,[n]seguirホn siendo lastimados por las peleas y[n]conflictos con los demホs...
+No hay necesidad de soportar ese dolor.[n]Dejar atrホs sus opiniones y creencias[n]puede llevarlos a la armonボa.
+Todo lo que deben hacer es simplemente[n]ver las pelボculas para convencerse...
 Al hacerlo, olvidan su dolor, sus[n]problemas, cada una de sus[n]preocupaciones simplemente desaparece.
 
 [msg MSG_016 [Makoto]]
-斡Eso suena como lavarles el cerebro!
+ムEso suena como lavarles el cerebro!
 
 [msg MSG_017 [Enlil]]
-Aun as胤, es lo que la humanidad anhelaba. Todo[n]lo que hice fue proporcionarle a las personas[n]su tan deseada salvaci吋n.
+Aun asボ, es lo que la humanidad anhelaba. Todo[n]lo que hice fue proporcionarle a las personas[n]su tan deseada salvaciポn.
 
 [msg MSG_018 [Ryuji]]
-斡Salvaci吋n, una mierda! 斡Ll姻vate tus[n]cines de mierda y largarte de aqu胤!
+ムSalvaciポn, una mierda! ムLl〒vate tus[n]cines de mierda y largarte de aquボ!
 
 [msg MSG_019 [Akihiko]]
-S胤, 夷crees que aceptaremos tus tonter胤as[n]despu姻s de ese discurso? Lo siento, pero[n]estamos fuera, te guste o no.
+Sボ, メcrees que aceptaremos tus tonterボas[n]despu〒s de ese discurso? Lo siento, pero[n]estamos fuera, te guste o no.
 
 [msg MSG_020 [Enlil]]
-Ah... De acuerdo, si quieren volver a[n]casa, entonces no interferir姻.
+Ah... De acuerdo, si quieren volver a[n]casa, entonces no interferir〒.
 
 [msg MSG_021 [Kanji]]
-斡夷S胤?! Bien, vamos a encargarnos de ti…
-...Espera, 夷qu姻? 夷Quieres decir que[n]podemos irnos?
+ムメSボ?! Bien, vamos a encargarnos de ti…
+...Espera, メqu〒? メQuieres decir que[n]podemos irnos?
 
 [msg MSG_022 [Ken]]
 Um, No lo entiendo...
-Quiero decir, t雨 eres la que atrap吋 a[n]Hikari y al resto de nosotros aqu胤.
+Quiero decir, tマ eres la que atrapポ a[n]Hikari y al resto de nosotros aquボ.
 
 [msg MSG_023 [Enlil]]
-He entendido la decisi吋n que han tomado.[n]Si desean salir de aqu胤, por favor,[n]h茨ganlo.
+He entendido la decisiポn que han tomado.[n]Si desean salir de aquボ, por favor,[n]hホganlo.
 
 [sel SEL_024 top]
-夷Est茨s segura de eso?
-夷Qu姻 est茨s tramando?
+メEstホs segura de eso?
+メQu〒 estホs tramando?
 Entonces, no importa si...
 
 [msg MSG_025 [Morgana]]
-斡Idiota, detente! 斡Esto es demasiado[n]sospechoso!
+ムIdiota, detente! ムEsto es demasiado[n]sospechoso!
 
 [msg MSG_026 [Haru]]
-Mmhm, no importa de forma lo mir姻, su[n]oferta es demasiado sospechosa... 夷Qu姻[n]est茨s tramando?
+Mmhm, no importa de forma lo mir〒, su[n]oferta es demasiado sospechosa... メQu〒[n]estホs tramando?
 
 [msg MSG_027 [Enlil]]
-Aquellos con corazones fuertes como[n]ustedes no requieren la salvaci吋n de su[n]sociedad, 夷me equivoco?
-Mi protecci吋n es para las masas, los[n]d姻biles...
-Seguir姻 protegiendo a los humanos que[n]deseen permanecer aqu胤 en su propio[n]cine.
+Aquellos con corazones fuertes como[n]ustedes no requieren la salvaciポn de su[n]sociedad, メme equivoco?
+Mi protecciポn es para las masas, los[n]d〒biles...
+Seguir〒 protegiendo a los humanos que[n]deseen permanecer aquボ en su propio[n]cine.
 
 [msg MSG_028 [P3 Hero]]
-夷Hay m茨s gente aqu胤?
+メHay mホs gente aquボ?
 
 [msg MSG_029 [Enlil]]
-Admito que cambiaron el coraz吋n de[n]Hikari, y lograron que ahora ella quiera[n]salir...
+Admito que cambiaron el corazポn de[n]Hikari, y lograron que ahora ella quiera[n]salir...
 Sin embargo, eso solo un grano de arena[n]de una playa infinita.
 De hecho, en este momento, otra persona[n]que deseaba escapar de su realidad ha[n]encontrado su Cine, y otro, y otro...
-Mientras haya gente con este deseo,[n]seguir茨 habiendo cines que proyecten su[n]salvaci吋n.
+Mientras haya gente con este deseo,[n]seguirホ habiendo cines que proyecten su[n]salvaciポn.
 
 [msg MSG_030 [P4 Hero]]
-La salvaci吋n no es m茨s que una justificaci吋n[n]ego胤sta. 斡Las personas no quieren simplemente[n]abandonar su vida de esa manera!
+La salvaciポn no es mホs que una justificaciポn[n]egoボsta. ムLas personas no quieren simplemente[n]abandonar su vida de esa manera!
 
 [msg MSG_031 [Enlil]]
-*risa* 夷Est茨s seguro?
+*risa* メEstホs seguro?
 

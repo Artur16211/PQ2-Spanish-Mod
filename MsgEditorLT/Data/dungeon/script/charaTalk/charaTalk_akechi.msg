@@ -16,7 +16,7 @@ Volver
 Cancelar
 
 [msg MSG_000 [Akechi]]
-Tenemos la oportunidad de obtener[n]algunos objetos poco comunes. 夷Qu姻[n]dices?
+Tenemos la oportunidad de obtener[n]algunos objetos poco comunes. メQu〒[n]dices?
 
 [msg MSG_001 [Akechi]]
 Excelente idea. No estamos para luchar[n]contra algo poderoso en este momento.
@@ -25,7 +25,7 @@ Excelente idea. No estamos para luchar[n]contra algo poderoso en este momento.
 En efecto, busquemos esos objetos.
 
 [msg MSG_003 [Akechi]]
-Bueno, est茨 bien. Pero tal vez[n]deber胤amos regresar m茨s tarde.
+Bueno, estホ bien. Pero tal vez[n]deberボamos regresar mホs tarde.
 
 [msg MSG_004 [Akechi]]
 Parece que es todo por ahora.
@@ -37,28 +37,28 @@ Muy bien.
 Nada mal.
 
 [msg MSG_007]
-斡Genial!
+ムGenial!
 
 [msg MSG_008 [Akechi]]
-Eso estuvo cerca. Ciertamente no me[n]importar胤a si dejamos de buscar ahora.
+Eso estuvo cerca. Ciertamente no me[n]importarボa si dejamos de buscar ahora.
 
 [msg MSG_009]
-斡Eso s胤 que es un hallazgo!
+ムEso sボ que es un hallazgo!
 
 [msg MSG_010]
-斡No puede ser!
+ムNo puede ser!
 
 [msg MSG_011]
-斡Muy, muy bien!
+ムMuy, muy bien!
 
 [msg MSG_012 [Akechi]]
-Es un atajo. 夷Deber胤amos abrirlo?
+Es un atajo. メDeberボamos abrirlo?
 
 [msg MSG_013 [Akechi]]
-Es un atajo. 夷Deber胤amos abrirlo?
+Es un atajo. メDeberボamos abrirlo?
 
 [msg MSG_014 [Akechi]]
-Es un atajo. 夷Deber胤amos abrirlo?
+Es un atajo. メDeberボamos abrirlo?
 
 [msg MSG_015 [Akechi]]
 No podemos pasar desde este lado.
@@ -73,29 +73,29 @@ No podemos pasar desde este lado.
 Hay un aroma ominoso en el aire...
 
 [msg MSG_019 [Akechi]]
-De acuerdo, manteng茨monos alerta.
+De acuerdo, mantengホmonos alerta.
 
 [msg MSG_020 [Akechi]]
-Suena como el curso de acci吋n correcto.
+Suena como el curso de acciポn correcto.
 
 [msg MSG_021 [Akechi]]
-斡Esa fue una pelea seria!
+ムEsa fue una pelea seria!
 
 [msg MSG_022 [Akechi]]
-Estoy sintiendo una Sombra espeluznante.[n]斡Espero que tengas un plan!
+Estoy sintiendo una Sombra espeluznante.[n]ムEspero que tengas un plan!
 
 [msg MSG_023 [Akechi]]
 Ok, vamos a echar un vistazo.
 
 [msg MSG_024 [Akechi]]
-S胤, deber胤amos tener cuidado.
+Sボ, deberボamos tener cuidado.
 
 [msg MSG_025 [Akechi]]
 Uf... De alguna manera lo logramos.
 
 [msg MSG_026 [Akechi]]
-夷Volvemos al cine?
+メVolvemos al cine?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

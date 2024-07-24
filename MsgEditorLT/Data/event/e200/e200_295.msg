@@ -1,59 +1,59 @@
 [msg MSG_000 [Chie]]
-斡夷Est茨n bien?! 斡Ustedes acaban de hacer[n]algo totalmente loco!
+ムメEstホn bien?! ムUstedes acaban de hacer[n]algo totalmente loco!
 
 [msg MSG_001 [Futaba]]
-Hubo, como, una especie de choque de[n]poderes y algo de fusi吋n... 斡Fue tan[n]intenso!
+Hubo, como, una especie de choque de[n]poderes y algo de fusiポn... ムFue tan[n]intenso!
 
 [msg MSG_002 [Kanji]]
-斡Senpai y Joker estuvieron incre胤bles[n]all胤 afuera!
+ムSenpai y Joker estuvieron increボbles[n]allボ afuera!
 
 [msg MSG_003 [Akechi]]
-斡Espera! 斡Por impresionante que haya[n]sido, necesitamos encender esto!
+ムEspera! ムPor impresionante que haya[n]sido, necesitamos encender esto!
 
 [msg MSG_004 [Naoto]]
-Tiene raz吋n; el carn胤voro apenas est茨[n]siendo detenido.
-Si no nos apuramos, sus esfuerzos habr茨n[n]sido por nada.
+Tiene razポn; el carnボvoro apenas estホ[n]siendo detenido.
+Si no nos apuramos, sus esfuerzos habrホn[n]sido por nada.
 
 [msg MSG_005 [Yusuke]]
-...夷Eh? Hay un panel con un bot吋n en el[n]lado opuesto.
+...メEh? Hay un panel con un botポn en el[n]lado opuesto.
 
 [msg MSG_006 [Naoto]]
-No creo que sea una caracter胤stica sin[n]sentido. 斡Es probable que valga la pena[n]intentarlo!
+No creo que sea una caracterボstica sin[n]sentido. ムEs probable que valga la pena[n]intentarlo!
 
 [msg MSG_007 [Makoto]]
 No hay tiempo para discutirlo.
 
 [msg MSG_008 [Haru]]
-斡S胤! 斡Poder est茨 encendido!
+ムSボ! ムPoder estホ encendido!
 
-[msg MSG_008_05 [Carn胤voro Llamativo]]
-斡GYAAAAAH!
+[msg MSG_008_05 [Carnボvoro Llamativo]]
+ムGYAAAAAH!
 
 [msg MSG_009 [Teddie]]
-Ruge todo lo que quieras, 斡ahora la[n]pelota est茨 en nuestro tejado!
+Ruge todo lo que quieras, ムahora la[n]pelota estホ en nuestro tejado!
 
 [msg MSG_010 [Morgana]]
-Joker, 斡activa el interruptor! Espero[n]que funcione esta vez...
+Joker, ムactiva el interruptor! Espero[n]que funcione esta vez...
 
 [msg MSG_011 [Ann]]
-夷F-funcion吋...?
+メF-funcionポ...?
 
 [msg MSG_012 [Futaba]]
-斡Misi吋n completa, chicos! El objetivo ha[n]sido capturado.
+ムMisiポn completa, chicos! El objetivo ha[n]sido capturado.
 
 [msg MSG_013 [Chie]]
-Whew... 斡Qu姻 alivio!
+Whew... ムQu〒 alivio!
 
 [msg MSG_014 [Yukiko]]
 *suspiro* Lo logramos. Estaba realmente[n]preocupada de que no funcionara.
 
 [msg MSG_015 [Naoto]]
-Parece que esto era la fuente de energ胤a[n]de emergencia despu姻s de todo.
+Parece que esto era la fuente de energボa[n]de emergencia despu〒s de todo.
 Creo que estaremos a salvo por el[n]momento.
 
 [msg MSG_016 [Teddie]]
-斡Volvamos con Yosuke!
+ムVolvamos con Yosuke!
 
 [msg MSG_017 [P4 Hero]]
-Teddie tiene raz吋n, 斡vamos!
+Teddie tiene razポn, ムvamos!
 

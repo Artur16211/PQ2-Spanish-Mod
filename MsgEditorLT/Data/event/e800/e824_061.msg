@@ -1,27 +1,27 @@
 [msg MSG_000 [Yukiko]]
-Buenas tardes, y bienvenidos a "Yukiko, Cr姻elo o No"
-Quiz茨s soy solo yo... pero, 夷nadie ha sentido una extra隠a presencia durante la investigaci吋n?
-夷Nadie ha escuchado unos d姻biles pasos por detr茨s mientras camin茨bamos por el centro de investigaci吋n...?
+Buenas tardes, y bienvenidos a "Yukiko, Cr〒elo o No"
+Quizホs soy solo yo... pero, メnadie ha sentido una extraワa presencia durante la investigaciポn?
+メNadie ha escuchado unos d〒biles pasos por detrホs mientras caminホbamos por el centro de investigaciポn...?
 
 [msg MSG_001 [Chie]]
-斡夷Qu姻?! 斡夷Yukiko?!
+ムメQu〒?! ムメYukiko?!
 
 [msg MSG_002 [Yukiko]]
-Me preguntaba qu姻 era. Me dije que deb胤a de estar d茨ndole demasiadas vueltas a las cosas...
-Sin embargo, no pod胤a deshacerme de esa sensaci吋n. Quer胤a darme la vuelta, pero sent胤a que, si lo hac胤a, ocurrir胤a algo terrible...
+Me preguntaba qu〒 era. Me dije que debボa de estar dホndole demasiadas vueltas a las cosas...
+Sin embargo, no podボa deshacerme de esa sensaciポn. Querボa darme la vuelta, pero sentボa que, si lo hacボa, ocurrirボa algo terrible...
 
 [msg MSG_003 [Makoto]]
 Espera, para...
 
 [msg MSG_004 [Junpei]]
-Yo tampoco pod胤a resistirme... As胤 que me di la vuelta.
-Cuando lo hice, me encontr姻 con la silueta de un hombre extra隠o que parec胤a mirarme fijamente.
-Su rostro era p茨lido y sin rastro de vida. Ten胤a los ojos muy abiertos e inyectados de sangre.
-Un sudor fr胤o me recorr胤a la nuca. Pens姻, "Esto es malo..." Entonces, de repente...
+Yo tampoco podボa resistirme... Asボ que me di la vuelta.
+Cuando lo hice, me encontr〒 con la silueta de un hombre extraワo que parecボa mirarme fijamente.
+Su rostro era pホlido y sin rastro de vida. Tenボa los ojos muy abiertos e inyectados de sangre.
+Un sudor frボo me recorrボa la nuca. Pens〒, "Esto es malo..." Entonces, de repente...
 
 [msg MSG_005 [Makoto]]
-斡Noooooo!
+ムNoooooo!
 
 [msg MSG_006 [Yukiko]]
-El hombre se acerc吋 a nosotros y, con la boca torcida, grit吋: "斡Tengo mucha hambre! 夷Pueden darme algo de comer?"
+El hombre se acercポ a nosotros y, con la boca torcida, gritポ: "ムTengo mucha hambre! メPueden darme algo de comer?"
 

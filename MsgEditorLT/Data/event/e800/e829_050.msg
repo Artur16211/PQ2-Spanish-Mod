@@ -1,91 +1,91 @@
 [msg MSG_000 [Elizabeth]]
 Los objetivos han sido eliminados.
 Una feroz batalla contra poderosos tiranos... Es muy posible que hayan hecho historia en el cine.
-Ah, hay pocas cosas m茨s agradables que animar a mi equipo con la boca llena de palomitas.
+Ah, hay pocas cosas mホs agradables que animar a mi equipo con la boca llena de palomitas.
 
 [msg MSG_001 [Junpei]]
-Me alegro de que se est姻 divirtiendo...
+Me alegro de que se est〒 divirtiendo...
 
 [msg MSG_002 [Elizabeth]]
-Aqu胤 est茨 tu recompensa por esta vez.
-Les permitir茨 invocar la Persona "Fenrir."
-Espero que le d姻 un buen uso.
+Aquボ estホ tu recompensa por esta vez.
+Les permitirホ invocar la Persona "Fenrir."
+Espero que le d〒 un buen uso.
 
 [msg MSG_003 [Morgana]]
-斡Muy bien, esto ayudar茨 mucho!
+ムMuy bien, esto ayudarホ mucho!
 
 [msg MSG_004 [Yosuke]]
 Creo que esta vez los MVP fueron Ken y Futaba.
 Eran rivales muy duros, pero nos mantuvieron en pie.
 
 [msg MSG_005 [Rise]]
-Ja, ja, s胤. Eran supermotivadores.
-夷No ten胤as miedo, Ken? Esos Tyranniqueens eran enormes.
+Ja, ja, sボ. Eran supermotivadores.
+メNo tenボas miedo, Ken? Esos Tyranniqueens eran enormes.
 
 [msg MSG_006 [Ken]]
-Ja, ja, har茨 falta m茨s que eso para asustar a Featherman.
-Adem茨s, creo que podr胤a recrear esa famosa escena donde luchan contra el monstruo gigante.
+Ja, ja, harホ falta mホs que eso para asustar a Featherman.
+Ademホs, creo que podrボa recrear esa famosa escena donde luchan contra el monstruo gigante.
 
 [msg MSG_007 [Rise]]
-夷Famosa escena?
+メFamosa escena?
 
 [msg MSG_008 [Futaba]]
-斡Featherman Temporada 1, Episodio 13! 斡Un episodio perfecto hasta el d胤a de hoy!
+ムFeatherman Temporada 1, Episodio 13! ムUn episodio perfecto hasta el dボa de hoy!
 Suelen luchar en forma de robots cuando un enemigo se hace grande...
 
 [msg MSG_009 [Yosuke]]
-Ah, s胤. Todos salen de su base y se conectan, 夷verdad?
+Ah, sボ. Todos salen de su base y se conectan, メverdad?
 
 [msg MSG_010 [Ken]]
-S胤, pero esta vez los robots estaban siendo revisados, as胤 que no pod胤an usarlos.
+Sボ, pero esta vez los robots estaban siendo revisados, asボ que no podボan usarlos.
 
 [msg MSG_011 [Yosuke]]
-Es una situaci吋n extra隠amente realista para ese programa...
+Es una situaciポn extraワamente realista para ese programa...
 
 [msg MSG_012 [Futaba]]
-斡夷Y qu姻 hacen nuestros h姻roes?!
-斡Se unen y derrotan al monstruo como nosotros hicimos!
+ムメY qu〒 hacen nuestros h〒roes?!
+ムSe unen y derrotan al monstruo como nosotros hicimos!
 
 [msg MSG_013 [Ken]]
-斡Con todo su coraje, corren a sus pies y le hacen un ataque especial!
-斡Esa escena es genial! Me sentar胤a a verla una y otra vez.
-Fue muy emocionante poder hacer algo as胤.
+ムCon todo su coraje, corren a sus pies y le hacen un ataque especial!
+ムEsa escena es genial! Me sentarボa a verla una y otra vez.
+Fue muy emocionante poder hacer algo asボ.
 
 [msg MSG_014 [Ann]]
-Yo... realmente no entiendo lo que est茨 ocurriendo, pero suena guay.
+Yo... realmente no entiendo lo que estホ ocurriendo, pero suena guay.
 
 [msg MSG_015 [Futaba]]
-斡Si quieres, te puedo dejar el DVD! 斡Hay un mont吋n de episodios que ver!
+ムSi quieres, te puedo dejar el DVD! ムHay un montポn de episodios que ver!
 
 [sel SEL_016 top]
-Quiz茨s la pr吋xima vez...
-S胤, por favor.
+Quizホs la prポxima vez...
+Sボ, por favor.
 
 [msg MSG_017 [P3 Hero]]
 Ja, ja, te tomo la palabra. Podemos verlo juntos, Ken.
 
 [msg MSG_018 [P3 Hero]]
-Ja, ja, ja, 夷te est茨s subiendo al carro, Feather Joker?
+Ja, ja, ja, メte estホs subiendo al carro, Feather Joker?
 
 [msg MSG_019 [P3 Hero]]
 De todos modos, buen trabajo. Cuento con ustedes.
 
 [msg MSG_020 [Ken]]
-斡Por supuesto!
+ムPor supuesto!
 
 [msg MSG_021 [Futaba]]
-斡S胤, d姻janoslo a nosotros!
+ムSボ, d〒janoslo a nosotros!
 
 [msg MSG_022 [Kanji]]
-E-Ey... 夷Crees que puedo entrar en eso?
-Ser姻 B雨ho Amarillo, ese al que gusta el curry...
+E-Ey... メCrees que puedo entrar en eso?
+Ser〒 Bマho Amarillo, ese al que gusta el curry...
 
 [msg MSG_023 [Futaba]]
-斡Whoa! 斡Es la monstruosa gran calavera! 斡Atr茨s, demonio!
+ムWhoa! ムEs la monstruosa gran calavera! ムAtrホs, demonio!
 
 [msg MSG_024 [Ken]]
-Bestia persistente, 夷verdad? 斡Esta vez te derrotaremos!
+Bestia persistente, メverdad? ムEsta vez te derrotaremos!
 
 [msg MSG_025 [Kanji]]
-斡Grrrahh! 斡Dije que quer胤a ser B雨ho Amarillo!
+ムGrrrahh! ムDije que querボa ser Bマho Amarillo!
 

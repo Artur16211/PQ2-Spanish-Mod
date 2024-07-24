@@ -1,17 +1,17 @@
 [msg MSG_000 [Caroline]]
-斡Ah胤 est茨s, Recluso!
+ムAhボ estホs, Recluso!
 
 [msg MSG_001]
-夷...?
-Marie no se est茨...
+メ...?
+Marie no se estホ...
 
 [msg MSG_002 [Justine]]
-夷Est茨s buscando a Marie? Pens茨ndolo[n]bien, no la he visto.
+メEstホs buscando a Marie? Pensホndolo[n]bien, no la he visto.
 
 [msg MSG_003]
-夷...?
+メ...?
 Hay otro pedazo de papel en el suelo...
-Hay algo escrito en 姻l con una escritura[n]ostentosa...
+Hay algo escrito en 〒l con una escritura[n]ostentosa...
 
 [msg MSG_004 [Marie]]
 "Bloody Bride"
@@ -25,16 +25,16 @@ A guilty kiss...
 
 [msg MSG_006]
 ...
-夷Es otro de los poemas de Marie?
+メEs otro de los poemas de Marie?
 
 [msg MSG_007 [Marie]]
-斡Hyaaaaaaaah!
+ムHyaaaaaaaah!
 
 [msg MSG_008 [Marie]]
-斡夷P-p-por qu姻 le胤ste eso?! No, espera,[n]斡夷por qu姻 sigues encontr茨ndolos?!
-斡Deja de jugar conmigo, 斡夷entendido?! 斡O[n]si no, voy a dejar una marca eterna en[n]tu cara!
+ムメP-p-por qu〒 leボste eso?! No, espera,[n]ムメpor qu〒 sigues encontrホndolos?!
+ムDeja de jugar conmigo, ムメentendido?! ムO[n]si no, voy a dejar una marca eterna en[n]tu cara!
 ...
-斡Ohteodiotemaldigoporsiempre! 斡Todo esto[n]es un est雨pido malentendido!
+ムOhteodiotemaldigoporsiempre! ムTodo esto[n]es un estマpido malentendido!
 
 [msg MSG_009]
 La cara de Marie se ha puesto roja,[n]hasta su cuello...
@@ -43,18 +43,18 @@ La cara de Marie se ha puesto roja,[n]hasta su cuello...
 "Guilty kiss"?
 
 [msg MSG_011 [Justine]]
-Es una maldici吋n... En otras palabras,[n]debe ser una habilidad que erosiona el[n]poder espiritual de alguien.
+Es una maldiciポn... En otras palabras,[n]debe ser una habilidad que erosiona el[n]poder espiritual de alguien.
 
 [msg MSG_012 [Marie]]
-斡No, no, no! 夷De qu姻 est茨s hablando? Es una[n]fusi吋n del dolor, el sufrimiento y la tristeza[n]de alguien, todo en un pecaminoso...
-...斡Ngh!
+ムNo, no, no! メDe qu〒 estホs hablando? Es una[n]fusiポn del dolor, el sufrimiento y la tristeza[n]de alguien, todo en un pecaminoso...
+...ムNgh!
 
 [msg MSG_013 [Marie]]
-斡Es S郁 culpa!
+ムEs Sヮ culpa!
 
 [msg MSG_014 [Marie]]
-...夷Pens姻 que lo hab胤a guardado? 斡夷Qu姻[n]est茨 haciendo aqu胤?!
+...メPens〒 que lo habボa guardado? ムメQu〒[n]estホ haciendo aquボ?!
 
 [msg MSG_015]
-Marie volvi吋 a su lugar, notablemente[n]inquieta...
+Marie volviポ a su lugar, notablemente[n]inquieta...
 

@@ -3,7 +3,7 @@ Es la puerta de antes...
 Parece que podemos desbloquearla de este[n]lado.
 
 [msg MSG_001 [Ken]]
-夷Podemos hacer eso? Har胤a que nuestra[n]exploraci吋n fuera mucho m茨s f茨cil.
+メPodemos hacer eso? Harボa que nuestra[n]exploraciポn fuera mucho mホs fホcil.
 
 [sel SEL_002 top]
 Me parece bien.
@@ -13,5 +13,5 @@ Me parece bien.
 Entonces, si me disculpan...
 
 [msg MSG_004 [Ryuji]]
-斡Genial! Ya estamos listos. 斡Vamos,[n]sigamos avanzando!
+ムGenial! Ya estamos listos. ムVamos,[n]sigamos avanzando!
 

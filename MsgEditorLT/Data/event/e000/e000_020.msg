@@ -1,67 +1,67 @@
 [msg MSG_000 [Ryuji]]
-斡Otro d胤a de clase completado! 斡Fue un infierno!
+ムOtro dボa de clase completado! ムFue un infierno!
 
 [msg MSG_001 [Ryuji]]
-*bostezo* Tengo mucho sue隠o...
+*bostezo* Tengo mucho sueワo...
 
 [msg MSG_002 [Morgana]]
-斡Vamos Ryuji, contr吋late! No te pongas perezoso ahora.
+ムVamos Ryuji, contrポlate! No te pongas perezoso ahora.
 
 [msg MSG_003 [Ryuji]]
-No, es que me ha costado mucho conciliar el sue隠o 雨ltimamente, cosas de los Ladrones Fantasma y eso...
-Me est茨 poniendo tan mal, que hoy me he dormido casi toda la clase...
+No, es que me ha costado mucho conciliar el sueワo マltimamente, cosas de los Ladrones Fantasma y eso...
+Me estホ poniendo tan mal, que hoy me he dormido casi toda la clase...
 
 [msg MSG_004 [Morgana]]
-夷No es lo que haces todos los d胤as?
+メNo es lo que haces todos los dボas?
 
 [msg MSG_005 [Ryuji]]
-斡C茨lla! Entonces, 夷qu姻 hacemos ahora?
-La fecha l胤mite a雨n est茨 lejos, pero 夷a qui姻n le importa? 斡Reun茨monos todos en el escondite!
+ムCホlla! Entonces, メqu〒 hacemos ahora?
+La fecha lボmite aマn estホ lejos, pero メa qui〒n le importa? ムReunホmonos todos en el escondite!
 
 [sel SEL_006 top]
 Ese es el plan.
-夷Y hacer qu姻, exactamente?
+メY hacer qu〒, exactamente?
 Primero quiero un poco de ramen.
 
 [msg MSG_007 [Ryuji]]
-斡A eso me refiero! Siempre directo al grano.
+ムA eso me refiero! Siempre directo al grano.
 
 [msg MSG_008 [Ryuji]]
-Eh, eso lo podemos resolver cuando estemos all胤.
+Eh, eso lo podemos resolver cuando estemos allボ.
 
 [msg MSG_009 [Morgana]]
-A m胤 me parece bien.
+A mボ me parece bien.
 
 [msg MSG_010 [Ryuji]]
-夷Eh?... Mmm, yo tambi姻n podr胤a ir a por un cuenco.
+メEh?... Mmm, yo tambi〒n podrボa ir a por un cuenco.
 
 [msg MSG_011 [Morgana]]
-斡Oye, es demasiado temprano para cenar! Deber胤amos reunirnos en el escondite.
+ムOye, es demasiado temprano para cenar! Deberボamos reunirnos en el escondite.
 
 [msg MSG_012 [Haru]]
 Oh, hola chicos.
 
 [msg MSG_013 [Ryuji]]
-斡Justo a tiempo! Est茨bamos hablando de ir al escondite.
+ムJusto a tiempo! Estホbamos hablando de ir al escondite.
 
 [msg MSG_014 [Haru]]
-Bueno, estoy libre el resto del d胤a. Tengo m茨s tiempo libre ahora que las cosas se han calmado en la compa隠胤a.
+Bueno, estoy libre el resto del dボa. Tengo mホs tiempo libre ahora que las cosas se han calmado en la compaワボa.
 
 [msg MSG_015 [Morgana]]
-Ryuji, env胤a mensaje a todos.
+Ryuji, envボa mensaje a todos.
 
 [msg MSG_016 [Ryuji]]
-斡Bien!
+ムBien!
 
 [msg MSG_017 [Ryuji]]
 "Vamos a reunirnos en el escondite..."
 
 [msg MSG_018 [Ryuji]]
-斡Eso fue r茨pido!
+ムEso fue rホpido!
 
 [msg MSG_018_5 [Ryuji]]
 Todos van camino al Leblanc.
 
 [msg MSG_019 [Haru]]
-夷Entonces, vamos?
+メEntonces, vamos?
 

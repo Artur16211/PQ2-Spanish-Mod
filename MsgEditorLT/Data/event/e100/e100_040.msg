@@ -1,47 +1,47 @@
 [msg MSG_000 [Futaba]]
-No sirve de nada. No est茨n aqu胤...
+No sirve de nada. No estホn aquボ...
 
 [msg MSG_001 [Ann]]
-Incluso encontramos todas esas puertas[n]cerradas. 夷Qu姻 est茨 pasando aqu胤?
+Incluso encontramos todas esas puertas[n]cerradas. メQu〒 estホ pasando aquボ?
 
 [msg MSG_002 [Yusuke]]
-Es como si fu姻ramos esp胤ritus... Todo[n]este lugar es un verdadero misterio.
+Es como si fu〒ramos espボritus... Todo[n]este lugar es un verdadero misterio.
 
 [msg MSG_003 [Akechi]]
-Este claramente es un cine, pero hay[n]algo extra隠o...
-No hay ning雨n rastro de ellas.
+Este claramente es un cine, pero hay[n]algo extraワo...
+No hay ningマn rastro de ellas.
 
 [msg MSG_004 [Ryuji]]
-En serio, 夷c吋mo diablos terminamos aqu胤?
+En serio, メcポmo diablos terminamos aquボ?
 
 [sel SEL_005 top]
-Apuesto a que ca胤mos de arriba.
-夷Quiz茨s por ese lado?
+Apuesto a que caボmos de arriba.
+メQuizホs por ese lado?
 Creo que nos levantamos hacia arriba.
 
 [msg MSG_006 [Akechi]]
-Mmm... No recuerdo ninguna sensaci吋n de[n]estar cayendo.
+Mmm... No recuerdo ninguna sensaciポn de[n]estar cayendo.
 
 [msg MSG_007 [Ryuji]]
-Espera, 斡夷qu姻 importa si fue hacia[n]arriba?!
+Espera, ムメqu〒 importa si fue hacia[n]arriba?!
 
 [msg MSG_008 [Akechi]]
-Cierto... Se sent胤a m茨s como un[n]desplazamiento horizontal que uno[n]vertical.
+Cierto... Se sentボa mホs como un[n]desplazamiento horizontal que uno[n]vertical.
 
 [msg MSG_009 [Ryuji]]
-Eh, 斡夷Pero de d吋nde?!
+Eh, ムメPero de dポnde?!
 
 [msg MSG_010 [Akechi]]
-Oh, 夷como si nos fuera bien aqu胤? Ja,[n]ja, es una manera divertida de decirlo.
+Oh, メcomo si nos fuera bien aquボ? Ja,[n]ja, es una manera divertida de decirlo.
 
 [msg MSG_011 [Ryuji]]
-Espera, 斡夷de qu姻 est茨n hablando?!
+Espera, ムメde qu〒 estホn hablando?!
 
 [msg MSG_012 [La Voz De Morgana]]
-斡Chicos! 斡Vengan aqu胤 un segundo!
+ムChicos! ムVengan aquボ un segundo!
 
 [msg MSG_013 [Ann]]
-斡Quiz茨 Morgana encontr吋 algo!
+ムQuizホ Morgana encontrポ algo!
 
 [msg MSG_014 [Yusuke]]
 Vamos, [f 6 1 30 0 0 0].

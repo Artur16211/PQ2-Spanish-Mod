@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [P3 Fem Protag]]
-斡Ah, un espect茨culo para la vista![n]夷Deber胤amos aprovechar este punto del[n]tesoro?
+ムAh, un espectホculo para la vista![n]メDeberボamos aprovechar este punto del[n]tesoro?
 
 [msg MSG_001 [P3 Fem Protag]]
-斡D姻jame a m胤 la tarea de vigilar!
+ムD〒jame a mボ la tarea de vigilar!
 
 [msg MSG_002 [P3 Fem Protag]]
-斡Ok! 斡Hora de buscar objetos!
+ムOk! ムHora de buscar objetos!
 
 [msg MSG_003 [P3 Fem Protag]]
-De acuerdo. 斡Ser茨 en otro momento!
+De acuerdo. ムSerホ en otro momento!
 
 [msg MSG_004 [P3 Fem Protag]]
-斡Un gran bot胤n para nosotros!
+ムUn gran botボn para nosotros!
 
 [msg MSG_005]
-斡Yay!
+ムYay!
 
 [msg MSG_006]
 Perfecto.
 
 [msg MSG_007]
-斡Oooh!
+ムOooh!
 
 [msg MSG_008 [P3 Fem Protag]]
-斡Eso estuvo cerca! 斡Pero logramos salir[n]como bandidos!
+ムEso estuvo cerca! ムPero logramos salir[n]como bandidos!
 
 [msg MSG_009]
-斡Estamos viviendo la gran vida ahora!
+ムEstamos viviendo la gran vida ahora!
 
 [msg MSG_010]
-斡Eso realmente es un tesoro!
+ムEso realmente es un tesoro!
 
 [msg MSG_011]
-斡Qu姻 suerte!
+ムQu〒 suerte!
 
 [msg MSG_012 [P3 Fem Protag]]
-斡Un pasaje oculto! 夷Deber胤amos abrirnos[n]camino hacia el otro lado?
+ムUn pasaje oculto! メDeberボamos abrirnos[n]camino hacia el otro lado?
 
 [msg MSG_013 [P3 Fem Protag]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [P3 Fem Protag]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [P3 Fem Protag]]
-夷Hm? Parece que no podemos seguir por[n]aqu胤.
+メHm? Parece que no podemos seguir por[n]aquボ.
 
 [msg MSG_016 [P3 Fem Protag]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [P3 Fem Protag]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [P3 Fem Protag]]
-Tengo un mal presentimiento sobre[n]esto... 夷Qu姻 opinas?
+Tengo un mal presentimiento sobre[n]esto... メQu〒 opinas?
 
 [msg MSG_019 [P3 Fem Protag]]
-De acuerdo. 斡Seamos cautelosos!
+De acuerdo. ムSeamos cautelosos!
 
 [msg MSG_020 [P3 Fem Protag]]
-S胤, qui姻n sabe qu姻 podr胤a salir a[n]atacarnos.
+Sボ, qui〒n sabe qu〒 podrボa salir a[n]atacarnos.
 
 [msg MSG_021 [P3 Fem Protag]]
-M-me tomaron completamente[n]desprevenida... 夷Est茨n bien?
+M-me tomaron completamente[n]desprevenida... メEstホn bien?
 
 [msg MSG_022 [P3 Fem Protag]]
-Este lugar est茨 lleno de sombras. 夷Qu姻[n]hacemos?
+Este lugar estホ lleno de sombras. メQu〒[n]hacemos?
 
 [msg MSG_023 [P3 Fem Protag]]
-斡Entendido! Busquemos, pero estemos[n]alerta.
+ムEntendido! Busquemos, pero estemos[n]alerta.
 
 [msg MSG_024 [P3 Fem Protag]]
-Tienes raz吋n. 斡Mejor no lo hagamos!
+Tienes razポn. ムMejor no lo hagamos!
 
 [msg MSG_025 [P3 Fem Protag]]
-夷Creo que eso es todo? 夷Quiz茨s?
+メCreo que eso es todo? メQuizホs?
 
 [msg MSG_026 [P3 Fem Protag]]
-斡Eh! 斡Es nuestra oportunidad de volver[n]al cine! 夷Quieres volver?
+ムEh! ムEs nuestra oportunidad de volver[n]al cine! メQuieres volver?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

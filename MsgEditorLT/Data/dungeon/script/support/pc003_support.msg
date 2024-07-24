@@ -1,29 +1,29 @@
 [msg YOUSUKE_FOE_FOLLOW_START]
-斡Mierda, es un FOE!
+ムMierda, es un FOE!
 
 [msg YOUSUKE_FOE_FOLLOW_START_2]
-斡Ese FOE nos est茨 siguiendo!
+ムEse FOE nos estホ siguiendo!
 
 [msg YOUSUKE_FOE_FOLLOW_START_3]
-斡Mierda! 斡Nos encontr吋!
+ムMierda! ムNos encontrポ!
 
 [msg YOUSUKE_FOE_NEAR_1]
-斡Cuidado, un FOE!
+ムCuidado, un FOE!
 
 [msg YOUSUKE_FOE_NEAR_2]
-Cuidado... 斡El FOE est茨 ah胤!
+Cuidado... ムEl FOE estホ ahボ!
 
 [msg YOUSUKE_FOE_NEAR_3]
-斡Hay un FOE cerca!
+ムHay un FOE cerca!
 
 [msg YOUSUKE_FOE_FOLLOW_END_1]
-Phew... Podr胤a haber sido[n]desagradable.
+Phew... Podrボa haber sido[n]desagradable.
 
 [msg YOUSUKE_FOE_FOLLOW_END_2]
-斡Bien! 斡Perdimos el FOE!
+ムBien! ムPerdimos el FOE!
 
 [msg YOUSUKE_FOE_FOLLOW_END_3]
-斡Genial! Creo que lo perdimos.
+ムGenial! Creo que lo perdimos.
 
 [msg YOUSUKE_KANSI_REACTION_1]
 Cuidado, chicos.
@@ -35,67 +35,67 @@ Vamos despacio.
 Silencio, chicos... No queremos que[n]nos vean.
 
 [msg YOUSUKE_DENKISAKU_REACTI]
-S胤, probablemente no suceda. Primero[n]desactivemos la electricidad.
+Sボ, probablemente no suceda. Primero[n]desactivemos la electricidad.
 
 [msg YOUSUKE_DENKISAKU_REACTI_2]
 Si no apagamos eso, estaremos fritos.
 
 [msg YOUSUKE_DENKISAKU_REACTI_3]
-夷D吋nde est茨 el interruptor de la[n]puerta el姻ctrica?
+メDポnde estホ el interruptor de la[n]puerta el〒ctrica?
 
 [msg YOUSUKE_KYOUHU_REACTION_]
-斡De ninguna manera!
+ムDe ninguna manera!
 
 [msg YOUSUKE_KYOUHU_REACTION__2]
-斡Whoa!
+ムWhoa!
 
 [msg YOUSUKE_KYOUHU_REACTION__3]
-夷Qu姻...?
+メQu〒...?
 
 [msg YOUSUKE_STAIR_FIND_1]
-斡Oye! 斡Parece que podemos seguir!
+ムOye! ムParece que podemos seguir!
 
 [msg YOUSUKE_STAIR_FIND_2]
-斡A la siguiente zona!
+ムA la siguiente zona!
 
 [msg YOUSUKE_STAIR_FIND_3]
-Vamos, 斡lleguemos al siguiente piso!
+Vamos, ムlleguemos al siguiente piso!
 
 [msg YOUSUKE_TREASURE_FIND_1]
-斡Genial! 斡Un cofre del tesoro!
+ムGenial! ムUn cofre del tesoro!
 
 [msg YOUSUKE_TREASURE_FIND_2]
-Es un cofre del tesoro, 夷verdad?
+Es un cofre del tesoro, メverdad?
 
 [msg YOUSUKE_TREASURE_FIND_3]
-斡Un cofre del tesoro! 夷Lo abriremos,[n]verdad?
+ムUn cofre del tesoro! メLo abriremos,[n]verdad?
 
 [msg YOUSUKE_CHECK_WALL_1]
-Parece que hay algo ah胤...
+Parece que hay algo ahボ...
 
 [msg YOUSUKE_CHECK_WALL_2]
-夷No es este lugar un poco sospechoso?
+メNo es este lugar un poco sospechoso?
 
 [msg YOUSUKE_CHECK_WALL_3]
-Mant姻n los ojos abiertos, 夷de[n]acuerdo?
+Mant〒n los ojos abiertos, メde[n]acuerdo?
 
 [msg YOUSUKE_SWITCH_FIND_1]
-夷Eh? Hay un interruptor.
+メEh? Hay un interruptor.
 
 [msg YOUSUKE_SWITCH_FIND_2]
-Un interruptor... 夷Lo vamos a[n]presionar?
+Un interruptor... メLo vamos a[n]presionar?
 
 [msg YOUSUKE_SWITCH_FIND_3]
-斡Bien, encontr姻 un interruptor!
+ムBien, encontr〒 un interruptor!
 
 [msg YOUSUKE_SHORTCUT_FIND_1]
-夷No podemos pasar por ah胤?
+メNo podemos pasar por ahボ?
 
 [msg YOUSUKE_SHORTCUT_FIND_2]
-夷Eso es un atajo?
+メEso es un atajo?
 
 [msg YOUSUKE_SHORTCUT_FIND_3]
-Oye, 夷podemos tomar un atajo?
+Oye, メpodemos tomar un atajo?
 
 [msg YOUSUKE_PARTY_DEAD_1]
 ?
@@ -107,67 +107,67 @@ Oye, 夷podemos tomar un atajo?
 ?
 
 [msg YOUSUKE_FOE_WARNING_NEAR]
-Rayos, el FOE todav胤a nos est茨[n]siguiendo.
+Rayos, el FOE todavボa nos estホ[n]siguiendo.
 
 [msg YOUSUKE_FOE_WARNING_NEAR_2]
-Un FOE. Mejor mantener nuestra[n]distancia, 夷eh?
+Un FOE. Mejor mantener nuestra[n]distancia, メeh?
 
 [msg YOUSUKE_FOE_WARNING_NEAR_3]
-Hombre, todav胤a nos persigue.
+Hombre, todavボa nos persigue.
 
 [msg YOUSUKE_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YOUSUKE_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YOUSUKE_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YOUSUKE_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg YOUSUKE_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg YOUSUKE_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg YOUSUKE_1PERSON_HPTP10_1]
 Ugh… No podemos tener un respiro…
 
 [msg YOUSUKE_1PERSON_HPTP10_2]
-… 夷No podemos simplemente irnos a[n]casa?
+… メNo podemos simplemente irnos a[n]casa?
 
 [msg YOUSUKE_1PERSON_HPTP10_3]
-Maldici吋n… No aguanto m茨s…
+Maldiciポn… No aguanto mホs…
 
 [msg YOUSUKE_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YOUSUKE_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YOUSUKE_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg YOUSUKE_1PERSON_HP10_1]
-No s姻 si puedo seguir…
+No s〒 si puedo seguir…
 
 [msg YOUSUKE_1PERSON_HP10_2]
-斡Vamos, por favor! 斡Necesito algo[n]para animarme!
+ムVamos, por favor! ムNecesito algo[n]para animarme!
 
 [msg YOUSUKE_1PERSON_HP10_3]
 Hngh... Eso duele...
 
 [msg YOUSUKE_1PERSON_TP10_1]
-Maldici吋n, me quedo sin… energ胤a…
+Maldiciポn, me quedo sin… energボa…
 
 [msg YOUSUKE_1PERSON_TP10_2]
-斡No puedo seguir adelante! 斡Estoy sin[n]energ胤a!
+ムNo puedo seguir adelante! ムEstoy sin[n]energボa!
 
 [msg YOUSUKE_1PERSON_TP10_3]
-Maldici吋n… No puedo seguir…
+Maldiciポn… No puedo seguir…
 
 [msg YOUSUKE_ITEM_90_BATTLE_1]
 【justificadamente
@@ -179,13 +179,13 @@ Maldici吋n… No puedo seguir…
 【justificadamente
 
 [msg YOUSUKE_1PERSON_HP80_1]
-斡Ja! 斡Un pedazo de pastel!
+ムJa! ムUn pedazo de pastel!
 
 [msg YOUSUKE_1PERSON_HP80_2]
-斡Mantengamos el ritmo, chicos!
+ムMantengamos el ritmo, chicos!
 
 [msg YOUSUKE_1PERSON_HP80_3]
-Hombre, demasiado f茨cil.
+Hombre, demasiado fホcil.
 
 [msg YOUSUKE_BATTLE_CHANGE_DU]
 ■: [f 0 1 4]\cHFF
@@ -197,40 +197,40 @@ Hombre, demasiado f茨cil.
 ■:
 
 [msg YOUSUKE_ITEM_90_DUNGEON_]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg YOUSUKE_ITEM_90_DUNGEON__2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg YOUSUKE_ITEM_90_DUNGEON__3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg YOUSUKE_DUNGEON_START_1]
-斡Demos todo lo que tenemos!
+ムDemos todo lo que tenemos!
 
 [msg YOUSUKE_DUNGEON_START_2]
-夷Est茨n listos? 斡Vamos!
+メEstホn listos? ムVamos!
 
 [msg YOUSUKE_DUNGEON_START_3]
-斡Muy bien! 斡Mu姻vanse, chicos!
+ムMuy bien! ムMu〒vanse, chicos!
 
 [msg YOUSUKE_QUEST_START_1]
-斡Tenemos una misi吋n aqu胤!
+ムTenemos una misiポn aquボ!
 
 [msg YOUSUKE_QUEST_START_2]
-斡Yo me encargo de esto, chicos!
+ムYo me encargo de esto, chicos!
 
 [msg YOUSUKE_QUEST_START_3]
-斡Vamos! 斡Sigamos adelante!
+ムVamos! ムSigamos adelante!
 
 [msg YOUSUKE_TOUHA_25_1]
 Acabamos de empezar.
 
 [msg YOUSUKE_TOUHA_25_2]
-Manteng茨monos concentrados, chicos.
+Mantengホmonos concentrados, chicos.
 
 [msg YOUSUKE_TOUHA_50_1]
-Eso es casi la mitad, 夷verdad?
+Eso es casi la mitad, メverdad?
 
 [msg YOUSUKE_TOUHA_50_2]
 Bien, llevamos un buen ritmo.
@@ -239,59 +239,59 @@ Bien, llevamos un buen ritmo.
 Hombre, hemos recorrido un largo[n]camino.
 
 [msg YOUSUKE_TOUHA_75_2]
-斡Vaya! Eso pr茨cticamente es un mapa[n]completo.
+ムVaya! Eso prホcticamente es un mapa[n]completo.
 
 [msg YOUSUKE_TOUHA_100_1]
-斡Genial! 斡Ese mapa parece acabado!
+ムGenial! ムEse mapa parece acabado!
 
 [msg YOUSUKE_TOUHA_100_2]
-斡Terminamos el mapa! Buen trabajo.
+ムTerminamos el mapa! Buen trabajo.
 
 [msg YOUSUKE_MAPPING_ICON_ALL]
-斡Qu姻 bien!
+ムQu〒 bien!
 
 [msg YOUSUKE_MAPPING_ICON_ALL_2]
-斡Es un buen mapa!
+ムEs un buen mapa!
 
 [msg YOUSUKE_MAPPING_ICON_KAI]
-斡Ya no nos perderemos m茨s!
+ムYa no nos perderemos mホs!
 
 [msg YOUSUKE_MAPPING_ICON_KAI_2]
-斡Ahora sabemos a d吋nde tenemos que[n]ir!
+ムAhora sabemos a dポnde tenemos que[n]ir!
 
 [msg YOUSUKE_MAPPING_CHANGE_C]
 Eso tiene estilo, amigo.
 
 [msg YOUSUKE_MAPPING_CHANGE_C_2]
-Es curioso c吋mo tu personalidad se[n]refleja en esto…
+Es curioso cポmo tu personalidad se[n]refleja en esto…
 
 [msg YOUSUKE_MAPPING_ICON_DEL]
-S胤, es bueno mantener nuestras notas[n]ordenadas.
+Sボ, es bueno mantener nuestras notas[n]ordenadas.
 
 [msg YOUSUKE_MAPPING_ICON_DEL_2]
-Ah胤 tienes. 斡Deja las cosas que no[n]necesitamos!
+Ahボ tienes. ムDeja las cosas que no[n]necesitamos!
 
 [msg YOUSUKE_MAPPING_MEMO_1]
 Hay que llevar un registro de las[n]cosas importantes.
 
 [msg YOUSUKE_MAPPING_MEMO_2]
-Bien. 斡Se ve genial!
+Bien. ムSe ve genial!
 
 [msg YOUSUKE_DOOR_OPEN_1]
-斡Vamos, por aqu胤!
+ムVamos, por aquボ!
 
 [msg YOUSUKE_DOOR_OPEN_2]
-斡Pr吋xima habitaci吋n!
+ムPrポxima habitaciポn!
 
 [msg YOUSUKE_DOOR_OPEN_3]
-斡威brete s姻samo! O algo as胤.
+ムミbrete s〒samo! O algo asボ.
 
 [msg YOUSUKE_KARITORU_ENCOUNT]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg YOUSUKE_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg YOUSUKE_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

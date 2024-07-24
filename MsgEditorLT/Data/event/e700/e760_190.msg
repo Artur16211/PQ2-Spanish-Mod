@@ -1,72 +1,72 @@
 [msg MSG_000 [Chie]]
-Ah, 斡夷Otro callej吋n sin salida?!
-夷Por qu姻 este lugar es tan complicado?[n]斡Todos estos cines me hacen sentir[n]perdida!
+Ah, ムメOtro callejポn sin salida?!
+メPor qu〒 este lugar es tan complicado?[n]ムTodos estos cines me hacen sentir[n]perdida!
 
 [msg MSG_001 [Yusuke]]
-Y mientras hablamos, estos cines est茨n[n]llenos de personas viendo estas[n]pel胤culas negativas...
+Y mientras hablamos, estos cines estホn[n]llenos de personas viendo estas[n]pelボculas negativas...
 
 [msg MSG_002 [Chie]]
-Hay algo que me he estado preguntando[n]desde qu姻 llegamos a este distrito del[n]cine...
+Hay algo que me he estado preguntando[n]desde qu〒 llegamos a este distrito del[n]cine...
 
 [msg MSG_003 [Ryuji]]
-夷Qu姻?
+メQu〒?
 
 [msg MSG_004 [Chie]]
-Considerando cu茨ntos cines hay... 夷Crees[n]que en alguno de ellos est姻n mostrando[n]una pel胤cula sobre kung-fu?
-斡Y si entrara en esa pel胤cula, 夷podr胤a[n]realizar acrobacias impresionantes?!
+Considerando cuホntos cines hay... メCrees[n]que en alguno de ellos est〒n mostrando[n]una pelボcula sobre kung-fu?
+ムY si entrara en esa pelボcula, メpodrボa[n]realizar acrobacias impresionantes?!
 
 [msg MSG_005 [P4 Hero]]
 Oh... Me preguntaba lo mismo.
 
 [msg MSG_006 [Ann]]
-斡夷T雨 tambi姻n?!
+ムメTマ tambi〒n?!
 
 [msg MSG_007 [Kanji]]
-Entonces, 夷crees que hay otra pel胤cula[n]que tenga un mont吋n de... cosas[n]adorables y lindas?
+Entonces, メcrees que hay otra pelボcula[n]que tenga un montポn de... cosas[n]adorables y lindas?
 
 [msg MSG_008 [Shinjiro]]
-斡Ooh! Bueno, yo me preguntaba...
+ムOoh! Bueno, yo me preguntaba...
 
 [msg MSG_009 [Junpei]]
-斡Ja, te atrap姻! 斡No puedo creer que ESA[n]sea la pel胤cula a la que quieres entrar!
-En mi caso, 斡quiero entrar en una pel胤cula[n]deportiva! 斡Ser胤a un jugador de la liga[n]superguapo y podr胤a mostrar mis habilidades!
+ムJa, te atrap〒! ムNo puedo creer que ESA[n]sea la pelボcula a la que quieres entrar!
+En mi caso, ムquiero entrar en una pelボcula[n]deportiva! ムSerボa un jugador de la liga[n]superguapo y podrボa mostrar mis habilidades!
 
 [msg MSG_010 [Yusuke]]
-En ese caso, deseo entrar en una[n]pel胤cula rebosante de obras de arte y[n]comida deliciosa.
+En ese caso, deseo entrar en una[n]pelボcula rebosante de obras de arte y[n]comida deliciosa.
 
 [msg MSG_011 [Akechi]]
-斡Ja, ja, todos son tan abiertos con sus[n]deseos!
-Pero, considerando c吋mo funcionan las[n]pel胤culas aqu胤, incluso si logr茨ramos[n]encontrarlas, dudo que vi姻ramos lo que[n]queremos.
+ムJa, ja, todos son tan abiertos con sus[n]deseos!
+Pero, considerando cポmo funcionan las[n]pelボculas aquボ, incluso si logrホramos[n]encontrarlas, dudo que vi〒ramos lo que[n]queremos.
 
 [msg MSG_012 [P3 Hero]]
-夷En qu姻 clase de pel胤cula te gustar胤a[n]entrar, Crow?
+メEn qu〒 clase de pelボcula te gustarボa[n]entrar, Crow?
 
 [msg MSG_013 [Akechi]]
-Creo que me gustar胤a entrar en una de[n]misterio.
-Como Pr胤ncipe Detective, estoy interesado en[n]resolver casos dif胤ciles, incluso en una[n]pel胤cula... 夷No te gustar胤a, Shirogane?
+Creo que me gustarボa entrar en una de[n]misterio.
+Como Prボncipe Detective, estoy interesado en[n]resolver casos difボciles, incluso en una[n]pelボcula... メNo te gustarボa, Shirogane?
 
 [msg MSG_014 [Naoto]]
-S胤, tengo curiosidad sobre los[n]artilugios y planes que solo podr胤a[n]haber en una pel胤cula.
+Sボ, tengo curiosidad sobre los[n]artilugios y planes que solo podrボa[n]haber en una pelボcula.
 
 [msg MSG_015 [Yosuke]]
-Ser胤as la estrella, Naoto. Una detective[n]disfrazada de hombre es perfecta para[n]una historia de detective.
-Y luego, te enamoras de un amor[n]prohibido: 斡un forajido con un pasado[n]impactante! 夷Qu姻 te parece?
+Serボas la estrella, Naoto. Una detective[n]disfrazada de hombre es perfecta para[n]una historia de detective.
+Y luego, te enamoras de un amor[n]prohibido: ムun forajido con un pasado[n]impactante! メQu〒 te parece?
 
 [msg MSG_016 [Naoto]]
-斡Yo... yo nunca me enamorar胤a de alguien[n]as胤! 斡Arrestar胤a a todos y cada uno de[n]esos forajidos!
+ムYo... yo nunca me enamorarボa de alguien[n]asボ! ムArrestarボa a todos y cada uno de[n]esos forajidos!
 
 [msg MSG_017 [Hikari]]
-*risa* Ser胤a divertido ver todas esas[n]pel胤culas.
-Creo que convertir la vida cotidiana en[n]una pel胤cula tambi姻n ser胤a interesante.
-Solo ver a la gente vivir su vida al[n]m茨ximo puede ser alentador.
+*risa* Serボa divertido ver todas esas[n]pelボculas.
+Creo que convertir la vida cotidiana en[n]una pelボcula tambi〒n serボa interesante.
+Solo ver a la gente vivir su vida al[n]mホximo puede ser alentador.
 
 [msg MSG_018 [Junpei]]
-斡Oh, le diste en el clavo, Hikari!
-斡Realmente tengo que llevar mi juego a un[n]nivel m茨s alto para conquistar el coraz吋n de[n]Hikari como un jugador de las grandes ligas!
+ムOh, le diste en el clavo, Hikari!
+ムRealmente tengo que llevar mi juego a un[n]nivel mホs alto para conquistar el corazポn de[n]Hikari como un jugador de las grandes ligas!
 
 [msg MSG_019 [Futaba]]
-斡Vamos, mantengamos esa energ胤a mientras[n]avanzamos!
+ムVamos, mantengamos esa energボa mientras[n]avanzamos!
 
 [msg MSG_020 [Hikari]]
-斡S胤!
+ムSボ!
 

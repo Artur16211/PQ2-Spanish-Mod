@@ -1,39 +1,39 @@
 [msg MSG_000 [Voz Cansada De Hombre]]
-夷Qu姻 est茨 pasando?
+メQu〒 estホ pasando?
 
 [msg MSG_001 [Voz De Mujer Desesperada]]
-La pel胤cula cambi吋...
+La pelボcula cambiポ...
 
 [msg MSG_002 [Voz Cansada De Colegiala]]
 Vaya...
 
 [msg MSG_003 [Enlil]]
-夷Esto es...? 夷La pel胤cula de Hikari?[n]Pero, 夷c吋mo?
+メEsto es...? メLa pelボcula de Hikari?[n]Pero, メcポmo?
 
 [msg MSG_004 [Akihiko]]
-Lo siento, cambiamos la pel胤cula en[n]todos tus proyectores.
+Lo siento, cambiamos la pelボcula en[n]todos tus proyectores.
 
 [msg MSG_005 [Enlil]]
-夷Cu茨ndo...? Admito que me sorprende.
+メCuホndo...? Admito que me sorprende.
 
 [msg MSG_006 [Teddie]]
-Ya es hora de que te rindas, se隠orita.
+Ya es hora de que te rindas, seワorita.
 
 [msg MSG_007 [P3 Fem Protag]]
-斡Estamos dejando salir a todos de los[n]cines! 斡Tu plan fracaso!
+ムEstamos dejando salir a todos de los[n]cines! ムTu plan fracaso!
 
 [msg MSG_008 [Enlil]]
-*risa* No digas, esas tonter胤as. Solo[n]observen...
-Aun con su intromisi吋n, no hay ni una[n]sola alma que se est姻 poniendo de su[n]lado.
+*risa* No digas, esas tonterボas. Solo[n]observen...
+Aun con su intromisiポn, no hay ni una[n]sola alma que se est〒 poniendo de su[n]lado.
 
 [msg MSG_009 [Voz De Mujer]]
-P-pero... todav胤a estoy...
+P-pero... todavボa estoy...
 
 [msg MSG_010 [Voz De Estudiante Malhumorado]]
-Todav胤a tengo miedo...
+Todavボa tengo miedo...
 
-[msg MSG_011 [Voz Ap茨tica De Hombre]]
-No quiero que me hagan da隠o...
+[msg MSG_011 [Voz Apホtica De Hombre]]
+No quiero que me hagan daワo...
 
 [msg MSG_012 [Hikari]]
 Oh, no...

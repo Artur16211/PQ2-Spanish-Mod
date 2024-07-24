@@ -2,13 +2,13 @@
 Eso es... una Film Ob...
 
 [msg MARGARET_FOE_FOLLOW_STAR_2]
-Hay un FOE persigui姻ndonos.
+Hay un FOE persigui〒ndonos.
 
 [msg MARGARET_FOE_FOLLOW_STAR_3]
-Te est茨n siguiendo.
+Te estホn siguiendo.
 
 [msg MARGARET_FOE_NEAR_1]
-Mant姻n la calma, es un FOE.
+Mant〒n la calma, es un FOE.
 
 [msg MARGARET_FOE_NEAR_2]
 Es bastante grande, pero claro, todo[n]te parece grande a ti.
@@ -23,61 +23,61 @@ Bien hecho. Has evitado al FOE.
 Tu escape fue exitoso.
 
 [msg MARGARET_FOE_FOLLOW_END__3]
-Afortunadamente, dej吋 de perseguirte.
+Afortunadamente, dejポ de perseguirte.
 
 [msg MARGARET_KANSI_REACTION_]
-Si esas luces logran tocarte,[n]seguramente te ver茨n.
+Si esas luces logran tocarte,[n]seguramente te verホn.
 
 [msg MARGARET_KANSI_REACTION__2]
-Se han instalado focos aqu胤.
+Se han instalado focos aquボ.
 
 [msg MARGARET_KANSI_REACTION__3]
-Ten cuidado cuando pases por aqu胤.
+Ten cuidado cuando pases por aquボ.
 
 [msg MARGARET_DENKISAKU_REACT]
-Para continuar, ser茨 necesario[n]desactivar la puerta el姻ctrica.
+Para continuar, serホ necesario[n]desactivar la puerta el〒ctrica.
 
 [msg MARGARET_DENKISAKU_REACT_2]
-Esa puerta es un obst茨culo[n]desafortunado.
+Esa puerta es un obstホculo[n]desafortunado.
 
 [msg MARGARET_DENKISAKU_REACT_3]
-Es probable que haya un interruptor para[n]apagar la energ胤a. Espero que puedas[n]encontrarlo.
+Es probable que haya un interruptor para[n]apagar la energボa. Espero que puedas[n]encontrarlo.
 
 [msg MARGARET_KYOUHU_REACTION]
-Qu姻 fuerte viento.
+Qu〒 fuerte viento.
 
 [msg MARGARET_KYOUHU_REACTION_2]
-Cuidado con d吋nde pisan.
+Cuidado con dポnde pisan.
 
 [msg MARGARET_KYOUHU_REACTION_3]
-斡Es una brisa!
+ムEs una brisa!
 
 [msg MARGARET_STAIR_FIND_1]
 Bien hecho. Has encontrado las[n]escaleras.
 
 [msg MARGARET_STAIR_FIND_2]
-Un progreso notable. 夷Est茨s listo[n]para seguir adelante?
+Un progreso notable. メEstホs listo[n]para seguir adelante?
 
 [msg MARGARET_STAIR_FIND_3]
 Por fin, has localizado las[n]escaleras.
 
 [msg MARGARET_TREASURE_FIND_1]
-Eso parece ser un cofre del tesoro.[n]夷Tienes planeado abrirlo, espero?
+Eso parece ser un cofre del tesoro.[n]メTienes planeado abrirlo, espero?
 
 [msg MARGARET_TREASURE_FIND_2]
-Oh, un cofre del tesoro. 夷Qu姻 podr胤a[n]haber dentro, me pregunto?
+Oh, un cofre del tesoro. メQu〒 podrボa[n]haber dentro, me pregunto?
 
 [msg MARGARET_TREASURE_FIND_3]
 Espero que encuentres algo que valga[n]la pena en ese cofre del tesoro.
 
 [msg MARGARET_CHECK_WALL_1]
-Es posible que desees echar un[n]vistazo m茨s de cerca all胤.
+Es posible que desees echar un[n]vistazo mホs de cerca allボ.
 
 [msg MARGARET_CHECK_WALL_2]
-夷Qu姻 podr胤a ser eso?
+メQu〒 podrボa ser eso?
 
 [msg MARGARET_CHECK_WALL_3]
-No puedo distinguir qu姻 es, pero hay[n]algo adelante.
+No puedo distinguir qu〒 es, pero hay[n]algo adelante.
 
 [msg MARGARET_SWITCH_FIND_1]
 Hay un interruptor adelante.
@@ -86,7 +86,7 @@ Hay un interruptor adelante.
 Apuesto a que hay un interruptor[n]cerca.
 
 [msg MARGARET_SWITCH_FIND_3]
-夷Crees que deber胤as ver qu姻 hace este[n]interruptor?
+メCrees que deberボas ver qu〒 hace este[n]interruptor?
 
 [msg MARGARET_SHORTCUT_FIND_1]
 Esa pared se puede atravesar.
@@ -98,19 +98,19 @@ Hay un pasaje oculto cerca.
 Esa pared... Hay algo significativo[n]en ella.
 
 [msg MARGARET_PARTY_DEAD_1]
-Sin lugar a dudas, est茨s muy herido.
+Sin lugar a dudas, estホs muy herido.
 
 [msg MARGARET_PARTY_DEAD_2]
-Estoy de acuerdo. 夷Tal vez deber胤as[n]regresar por ahora?
+Estoy de acuerdo. メTal vez deberボas[n]regresar por ahora?
 
 [msg MARGARET_PARTY_DEAD_3]
 No puedo recomendar seguir adelante.
 
 [msg MARGARET_FOE_WARNING_NEA]
-El FOE ha vuelto. Deber胤as estar[n]alerta.
+El FOE ha vuelto. Deberボas estar[n]alerta.
 
 [msg MARGARET_FOE_WARNING_NEA_2]
-Eso es correcto, as胤 que mejor vigila[n]tus alrededores.
+Eso es correcto, asボ que mejor vigila[n]tus alrededores.
 
 [msg MARGARET_FOE_WARNING_NEA_3]
 Un FOE se acerca. Ten cuidado.
@@ -119,55 +119,55 @@ Un FOE se acerca. Ten cuidado.
 Te sugiero que te retires por ahora.
 
 [msg MARGARET_PARTY_HPTP10_2]
-Desafortunadamente, todo el equipo[n]est茨 al borde del colapso...
+Desafortunadamente, todo el equipo[n]estホ al borde del colapso...
 
 [msg MARGARET_PARTY_HPTP10_3]
-S胤, no ser胤a prudente seguir adelante[n]en ese estado.
+Sボ, no serボa prudente seguir adelante[n]en ese estado.
 
 [msg MARGARET_PARTY_HP10_1]
-La salud de todos se acerca[n]r茨pidamente a un nivel peligroso.
+La salud de todos se acerca[n]rホpidamente a un nivel peligroso.
 
 [msg MARGARET_PARTY_HP10_2]
-En verdad, deber胤as echar un vistazo[n]a la salud de tu grupo.
+En verdad, deberボas echar un vistazo[n]a la salud de tu grupo.
 
 [msg MARGARET_PARTY_HP10_3]
-Curar a todos deber胤a ser su[n]prioridad.
+Curar a todos deberボa ser su[n]prioridad.
 
 [msg MARGARET_1PERSON_HPTP10_]
-Su salud y energ胤a est茨n agotadas.
+Su salud y energボa estホn agotadas.
 
 [msg MARGARET_1PERSON_HPTP10__2]
-La curaci吋n deber胤a ser tu primera[n]tarea.
+La curaciポn deberボa ser tu primera[n]tarea.
 
 [msg MARGARET_1PERSON_HPTP10__3]
-Por desgracia, han perdido mucha[n]salud y energ胤a.
+Por desgracia, han perdido mucha[n]salud y energボa.
 
 [msg MARGARET_PARTY_TP10_1]
-Hay una escasez de energ胤a en el[n]grupo.
+Hay una escasez de energボa en el[n]grupo.
 
 [msg MARGARET_PARTY_TP10_2]
-Me preocupa cada vez m茨s sus grandes[n]p姻rdidas de energ胤a.
+Me preocupa cada vez mホs sus grandes[n]p〒rdidas de energボa.
 
 [msg MARGARET_PARTY_TP10_3]
-Parece que el grupo est茨 sufriendo[n]una falta de energ胤a.
+Parece que el grupo estホ sufriendo[n]una falta de energボa.
 
 [msg MARGARET_1PERSON_HP10_1]
-Deber胤as priorizar la curaci吋n.
+Deberボas priorizar la curaciポn.
 
 [msg MARGARET_1PERSON_HP10_2]
-夷Puedo sugerir restaurar su salud?
+メPuedo sugerir restaurar su salud?
 
 [msg MARGARET_1PERSON_HP10_3]
-夷Considerar胤a restaurar su salud[n]primero?
+メConsiderarボa restaurar su salud[n]primero?
 
 [msg MARGARET_1PERSON_TP10_1]
-夷Hay algo que puedas hacer para[n]recuperarte?
+メHay algo que puedas hacer para[n]recuperarte?
 
 [msg MARGARET_1PERSON_TP10_2]
-Estoy de acuerdo. No ser胤a[n]conveniente ser imprudente.
+Estoy de acuerdo. No serボa[n]conveniente ser imprudente.
 
 [msg MARGARET_1PERSON_TP10_3]
-Hm, est茨s completamente sin energ胤a.
+Hm, estホs completamente sin energボa.
 
 [msg MARGARET_ITEM_90_BATTLE_]
 Necesitas hacer algo de limpieza.
@@ -176,16 +176,16 @@ Necesitas hacer algo de limpieza.
 Tienes un demasiados de objetos.
 
 [msg MARGARET_ITEM_90_BATTLE__3]
-夷Sabes que puedes dejarle algunos[n]objetos a Theodore?
+メSabes que puedes dejarle algunos[n]objetos a Theodore?
 
 [msg MARGARET_1PERSON_HP80_1]
 Parece que te va bien.
 
 [msg MARGARET_1PERSON_HP80_2]
-Todav胤a hay alguien que parece estar[n]en buenas condiciones.
+Todavボa hay alguien que parece estar[n]en buenas condiciones.
 
 [msg MARGARET_1PERSON_HP80_3]
-Deber胤as seguir adelante mientras[n]puedas.
+Deberボas seguir adelante mientras[n]puedas.
 
 [msg MARGARET_BATTLE_CHANGE_D]
 ■: [f 0 1 4]\cHFF
@@ -197,43 +197,43 @@ Deber胤as seguir adelante mientras[n]puedas.
 ■:
 
 [msg MARGARET_ITEM_90_DUNGEON]
-Considera organizar tu colecci吋n[n]excesiva de objetos.
+Considera organizar tu colecciポn[n]excesiva de objetos.
 
 [msg MARGARET_ITEM_90_DUNGEON_2]
 Tienes demasiados objetos.
 
 [msg MARGARET_ITEM_90_DUNGEON_3]
-夷Sabes que puedes dejarle algunos[n]objetos a Theodore?
+メSabes que puedes dejarle algunos[n]objetos a Theodore?
 
 [msg MARGARET_DUNGEON_START_1]
-Te apoyar姻 'Detr茨s de c茨maras', como[n]dicen por aqu胤.
+Te apoyar〒 'Detrホs de cホmaras', como[n]dicen por aquボ.
 
 [msg MARGARET_DUNGEON_START_2]
-夷Has terminado los preparativos?[n]Entonces v茨monos.
+メHas terminado los preparativos?[n]Entonces vホmonos.
 
 [msg MARGARET_DUNGEON_START_3]
-夷Est茨s preparado?
+メEstホs preparado?
 
 [msg MARGARET_QUEST_START_1]
 Ambos te brindaremos apoyo, pase lo[n]que pase.
 
 [msg MARGARET_QUEST_START_2]
-Si todo el mundo est茨 listo,[n]empecemos.
+Si todo el mundo estホ listo,[n]empecemos.
 
 [msg MARGARET_QUEST_START_3]
-Empecemos la proyecci吋n especial.
+Empecemos la proyecciポn especial.
 
 [msg MARGARET_TOUHA_25_1]
-Te est茨s volviendo muy bueno en esto.
+Te estホs volviendo muy bueno en esto.
 
 [msg MARGARET_TOUHA_25_2]
 En realidad, apenas acabas de[n]comenzar.
 
 [msg MARGARET_TOUHA_50_1]
-Parece que est茨s a mitad de camino.
+Parece que estホs a mitad de camino.
 
 [msg MARGARET_TOUHA_50_2]
-Est茨s explorando a buen ritmo.
+Estホs explorando a buen ritmo.
 
 [msg MARGARET_TOUHA_75_1]
 No queda mucho en este piso.
@@ -251,22 +251,22 @@ Bien hecho. Has completado este piso.
 Parece que tu mapa es muy preciso.
 
 [msg MARGARET_MAPPING_ICON_AL_2]
-Est茨s demostrando un juicio s吋lido.
+Estホs demostrando un juicio sポlido.
 
 [msg MARGARET_MAPPING_ICON_KA]
-Con ese nivel de habilidad, no[n]deber胤as tener miedo de perderte.
+Con ese nivel de habilidad, no[n]deberボas tener miedo de perderte.
 
 [msg MARGARET_MAPPING_ICON_KA_2]
 Marquemos estas escaleras.
 
 [msg MARGARET_MAPPING_CHANGE_]
-Aprobar胤a tu sensibilidad art胤stica.
+Aprobarボa tu sensibilidad artボstica.
 
 [msg MARGARET_MAPPING_CHANGE__2]
-Espero con ansias ver el mapa cuando[n]est姻 terminado.
+Espero con ansias ver el mapa cuando[n]est〒 terminado.
 
 [msg MARGARET_MAPPING_ICON_DE]
-夷Hacer algo de limpieza?
+メHacer algo de limpieza?
 
 [msg MARGARET_MAPPING_ICON_DE_2]
 Por supuesto, es prudente corregir[n]errores siempre que sea posible.
@@ -275,7 +275,7 @@ Por supuesto, es prudente corregir[n]errores siempre que sea posible.
 No debes olvidar detalles[n]importantes.
 
 [msg MARGARET_MAPPING_MEMO_2]
-Escribir notas para m茨s tarde es un[n]h茨bito excelente.
+Escribir notas para mホs tarde es un[n]hホbito excelente.
 
 [msg MARGARET_DOOR_OPEN_1]
 ↑
@@ -287,11 +287,11 @@ Escribir notas para m茨s tarde es un[n]h茨bito excelente.
 ↑
 
 [msg MARGARET_KARITORU_ENCOUN]
-斡El Segador est茨 aqu胤! 斡No te muevas!
+ムEl Segador estホ aquボ! ムNo te muevas!
 
 [msg MARGARET_KARITORU_ENCOUN_2]
 Sigue alerta. Se acerca un enemigo[n]poderoso.
 
 [msg MARGARET_KARITORU_ENCOUN_3]
-El Segador est茨 cerca. Mantente[n]alerta.
+El Segador estホ cerca. Mantente[n]alerta.
 

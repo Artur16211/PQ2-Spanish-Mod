@@ -1,18 +1,18 @@
 [msg MSG_000 [Futaba]]
-斡夷Mmm?! 斡Oye! 斡Espera, paraaaaa!
+ムメMmm?! ムOye! ムEspera, paraaaaa!
 
 [msg MSG_001 [Yukari]]
-斡Aaah! 斡夷Qu姻 pasa?! 斡Me asustaste!
+ムAaah! ムメQu〒 pasa?! ムMe asustaste!
 
 [msg MSG_002 [Fuuka]]
-斡L-lo siento, acaba de aparecer una[n]se隠al de Hikari, cerca de su ubicaci吋n[n]actual!
+ムL-lo siento, acaba de aparecer una[n]seワal de Hikari, cerca de su ubicaciポn[n]actual!
 
 [msg MSG_003 [P3 Fem Protag]]
-斡夷En serio?!
+ムメEn serio?!
 
 [msg MSG_004 [Rise]]
-Mmm. Definitivamente estamos cerca.[n]斡Busquemos en los alrededores!
+Mmm. Definitivamente estamos cerca.[n]ムBusquemos en los alrededores!
 
 [msg MSG_005 [Ken]]
-Pero... 夷No parece haber nadie aqu胤?
+Pero... メNo parece haber nadie aquボ?
 

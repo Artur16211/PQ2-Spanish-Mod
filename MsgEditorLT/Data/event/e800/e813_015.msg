@@ -1,9 +1,9 @@
 [msg MSG_000 [Distant scream]]
-斡Aaaaaaaaaaaaah!
+ムAaaaaaaaaaaaah!
 
 [msg MSG_001 [Theodore]]
-斡夷Q-Qu姻 ha sido eso?!
+ムメQ-Qu〒 ha sido eso?!
 
 [msg MSG_002 [Morgana]]
-斡Vamos, vamos a comprobarlo!
+ムVamos, vamos a comprobarlo!
 

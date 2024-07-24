@@ -1,17 +1,17 @@
 [msg MSG_000 [Caroline]]
-Ah, as胤 que aqu胤 est茨s...
+Ah, asボ que aquボ estホs...
 
 [msg MSG_001]
-夷...?
-Marie, como siempre, no est茨 aqu胤...
+メ...?
+Marie, como siempre, no estホ aquボ...
 
 [msg MSG_002 [Justine]]
-...夷Est茨s buscando a Marie? Est茨[n]haciendo un recado para Margaret...
+...メEstホs buscando a Marie? Estホ[n]haciendo un recado para Margaret...
 
 [msg MSG_003]
-夷...?
+メ...?
 Hay otro pedazo de papel en el suelo...
-Hay algo escrito en 姻l, hecho con trazos[n]emocionalmente cargados y pesados...
+Hay algo escrito en 〒l, hecho con trazos[n]emocionalmente cargados y pesados...
 
 [msg MSG_004 [Marie]]
 "The Seven Deadly Sins"
@@ -29,74 +29,74 @@ I am a fallen angel, fallen in love[n](Lonely Lucifer)
 
 [msg MSG_006]
 ...
-夷Es otro de los poemas de Marie...?
+メEs otro de los poemas de Marie...?
 
 [msg MSG_007 [Marie]]
-斡Nngaaaaaaaah!
+ムNngaaaaaaaah!
 
 [msg MSG_008 [Marie]]
-斡P-p-por qu姻...! 斡Esto no puede estar[n]pasando! 斡ACABO de escribir esto...!
-夷Y por qu姻 los sigues leyendo? 斡Ese es[n]TU pecado mortal!
+ムP-p-por qu〒...! ムEsto no puede estar[n]pasando! ムACABO de escribir esto...!
+メY por qu〒 los sigues leyendo? ムEse es[n]TU pecado mortal!
 
 [msg MSG_009 [Margaret]]
-...Ya es suficiente. Vas a enrojecer tu[n]complexi吋n, Lonely Lucifer.
+...Ya es suficiente. Vas a enrojecer tu[n]complexiポn, Lonely Lucifer.
 
 [msg MSG_010 [Marie]]
-斡P-pero...!
-夷Sabes sobre... Lonely... Lucifer?
+ムP-pero...!
+メSabes sobre... Lonely... Lucifer?
 ...
-Como quieras,[n]斡est雨pidoteodioeresLucifer! 斡Ah胤 tienes![n]夷Por qu姻 no intentas enamorarte?
+Como quieras,[n]ムestマpidoteodioeresLucifer! ムAhボ tienes![n]メPor qu〒 no intentas enamorarte?
 
 [msg MSG_011]
-Marie est茨 sonroj茨ndose locamente...
+Marie estホ sonrojホndose locamente...
 
 [msg MSG_012 [Marie]]
-Por favor... no escuches m茨s mi dolor...
+Por favor... no escuches mホs mi dolor...
 
 [msg MSG_013 [Marie]]
-斡...! 斡N-nada!
+ム...! ムN-nada!
 
 [msg MSG_014]
-Marie volvi吋 a su lugar. Se ve胤a[n]inquieta...
+Marie volviポ a su lugar. Se veボa[n]inquieta...
 
 [msg MSG_015 [Justine]]
-...夷Tienes un momento, Recluso?
+...メTienes un momento, Recluso?
 
 [msg MSG_016 [Caroline]]
 Sobre los poemas de Marie... Bueno...[n]vimos algo...
 
 [sel SEL_017 top]
-夷Vieron qu姻?
-夷Por qu姻 est茨n susurrando?
+メVieron qu〒?
+メPor qu〒 estホn susurrando?
 
 [msg MSG_018 [Caroline]]
-斡Solo escucha!
+ムSolo escucha!
 
 [msg MSG_019 [Caroline]]
 Quien siempre deja los poemas en el[n]suelo... es...
 
 [msg MSG_020 [Margaret]]
-Oh, 夷qu姻 es esto? 夷Una peque隠a reuni吋n[n]secreta?
+Oh, メqu〒 es esto? メUna pequeワa reuniポn[n]secreta?
 
 [msg MSG_021 [Caroline]]
-斡Eep!
+ムEep!
 
 [msg MSG_022 [Margaret]]
-No te detengas por m胤. Por favor,[n]contin雨a.
+No te detengas por mボ. Por favor,[n]continマa.
 
 [msg MSG_023 [Caroline]]
 Uh... no, no es nada. Nada de nada.
-夷Verdad, Justine?
+メVerdad, Justine?
 
 [msg MSG_024 [Justine]]
-S-s胤...
+S-sボ...
 
 [msg MSG_025 [Caroline]]
-斡Olv胤dalo, Recluso! 斡夷Entendido?!
+ムOlvボdalo, Recluso! ムメEntendido?!
 
 [msg MSG_026]
-Caroline y Justine se han quedado en[n]p茨nico.
+Caroline y Justine se han quedado en[n]pホnico.
 
 [msg MSG_027 [Margaret]]
-*risa* Qu姻 par tan adorable. Por favor,[n]haz lo que puedas para seguir[n]mim茨ndolas.
+*risa* Qu〒 par tan adorable. Por favor,[n]haz lo que puedas para seguir[n]mimホndolas.
 

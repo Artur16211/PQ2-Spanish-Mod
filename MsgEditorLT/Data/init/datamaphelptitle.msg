@@ -20,10 +20,10 @@ Cambiar el Piso Mostrado
 Rotando el Mapa
 
 [msg map_help_title_008]
-C吋mo Deshacer
+Cポmo Deshacer
 
 [msg map_help_title_009]
-C吋mo usar el Piloto Autom茨tico
+Cポmo usar el Piloto Automホtico
 
 [msg map_help_title_010]
 Paleta Libre

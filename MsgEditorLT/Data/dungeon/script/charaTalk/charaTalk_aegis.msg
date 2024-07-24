@@ -16,7 +16,7 @@ Volver
 Cancelarar
 
 [msg MSG_000 [Aigis]]
-Hay un Punto del Tesoro. 夷Qu姻 vas a[n]hacer?
+Hay un Punto del Tesoro. メQu〒 vas a[n]hacer?
 
 [msg MSG_001 [Aigis]]
 Entendido. Vamos a buscar mientras[n]permanecemos cautelosos.
@@ -34,7 +34,7 @@ Parece que eso es todo.
 Objeto asegurado.
 
 [msg MSG_006]
-夷Qu姻 tenemos aqu胤?
+メQu〒 tenemos aquボ?
 
 [msg MSG_007]
 Entiendo.
@@ -46,19 +46,19 @@ Hemos sido interrumpidos por el enemigo.[n]Vamos a retirarnos por ahora.
 Esto es un hallazgo raro.
 
 [msg MSG_010]
-Como se dice a menudo, "斡Claro que s胤!"
+Como se dice a menudo, "ムClaro que sボ!"
 
 [msg MSG_011]
-斡Un aplauso para la ocasi吋n!
+ムUn aplauso para la ocasiポn!
 
 [msg MSG_012 [Aigis]]
-Atajo localizado. 夷Qu姻 vamos a hacer?
+Atajo localizado. メQu〒 vamos a hacer?
 
 [msg MSG_013 [Aigis]]
-Atajo localizado. 夷Qu姻 vamos a hacer?
+Atajo localizado. メQu〒 vamos a hacer?
 
 [msg MSG_014 [Aigis]]
-Atajo localizado. 夷Qu姻 vamos a hacer?
+Atajo localizado. メQu〒 vamos a hacer?
 
 [msg MSG_015 [Aigis]]
 Parece que no podemos pasar desde este[n]lado.
@@ -70,32 +70,32 @@ Parece que no podemos pasar desde este[n]lado.
 Parece que no podemos pasar desde este[n]lado.
 
 [msg MSG_018 [Aigis]]
-Estoy detectando un enemigo poderoso.[n]Deber胤amos mantenernos alerta.
+Estoy detectando un enemigo poderoso.[n]Deberボamos mantenernos alerta.
 
 [msg MSG_019 [Aigis]]
-Entendido. 斡Enfrentemos al enemigo!
+Entendido. ムEnfrentemos al enemigo!
 
 [msg MSG_020 [Aigis]]
-Creo que no deber胤amos meternos en[n]problemas...
+Creo que no deberボamos meternos en[n]problemas...
 
 [msg MSG_021 [Aigis]]
 Ese fue un enemigo poderoso, pero hemos[n]regresado sanos y salvos.
 
 [msg MSG_022 [Aigis]]
-Estoy detectando una Sombra fuerte. 夷Qu姻[n]hacemos?
+Estoy detectando una Sombra fuerte. メQu〒[n]hacemos?
 
 [msg MSG_023 [Aigis]]
-斡Entendido! 斡Comenzando una b雨squeda[n]cuidadosa!
+ムEntendido! ムComenzando una bマsqueda[n]cuidadosa!
 
 [msg MSG_024 [Aigis]]
-Entendido. Primero, reun茨monos.
+Entendido. Primero, reunホmonos.
 
 [msg MSG_025 [Aigis]]
-威rea asegurada. Debemos mantenernos[n]alerta.
+ミrea asegurada. Debemos mantenernos[n]alerta.
 
 [msg MSG_026 [Aigis]]
-夷Deber胤amos regresar al cine?
+メDeberボamos regresar al cine?
 
 [msg MSG_027]
-斡Ten cuidado!
+ムTen cuidado!
 

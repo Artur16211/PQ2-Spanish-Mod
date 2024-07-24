@@ -1,28 +1,28 @@
 [msg MSG_000 [Ann]]
-Entonces... 夷Pas吋 algo?
+Entonces... メPasポ algo?
 
 [msg MSG_001 [Akihiko]]
 Bueno, no parece que haya cambiado[n]nada...
 
 [sel SEL_002 top]
-Pregunt姻mosle a Oracle.
+Pregunt〒mosle a Oracle.
 El aire se siente diferente...
 
 [msg MSG_003 [Futaba]]
-OK, Un segundo. Mmm... Fuuka, Rise, 夷qu姻[n]opinan de esto?
+OK, Un segundo. Mmm... Fuuka, Rise, メqu〒[n]opinan de esto?
 
 [msg MSG_004 [Fuuka]]
-Um... 夷Creo que el aire ha cambiado un[n]poco?
+Um... メCreo que el aire ha cambiado un[n]poco?
 
 [msg MSG_005 [Rise]]
-Mmhm, yo tambi姻n lo siento. 夷Quiz茨s un[n][f 0 1 2]cambio en la direcci吋n del viento[f 0 1 0]?
+Mmhm, yo tambi〒n lo siento. メQuizホs un[n][f 0 1 2]cambio en la direcciポn del viento[f 0 1 0]?
 
 [msg MSG_006 [Akihiko]]
-Bueno, 夷qu姻 hacemos ahora?
+Bueno, メqu〒 hacemos ahora?
 
 [msg MSG_007 [Akechi]]
-...夷Podr胤a tener algo que ver con ese[n]escudo de viento que vimos antes?
+...メPodrボa tener algo que ver con ese[n]escudo de viento que vimos antes?
 
 [msg MSG_007_1 [Akechi]]
-Guas吋n, 夷por qu姻 no vamos a revisar eso[n]de nuevo?
+Guasポn, メpor qu〒 no vamos a revisar eso[n]de nuevo?
 

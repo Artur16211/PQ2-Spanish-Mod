@@ -2,25 +2,25 @@
 Uff... creo que ya van ocho
 
 [msg MSG_001 [Makoto]]
-S胤, esas deber胤an ser todas. D姻monos prisa y report姻moslo.
+Sボ, esas deberボan ser todas. D〒monos prisa y report〒moslo.
 
 [msg MSG_002 [Ann]]
-斡Wow! 夷Ya han acabado?
+ムWow! メYa han acabado?
 
 [msg MSG_003 [Teddie]]
-*uff* *puff* Son demasiado r茨pidas... Yo no podr胤a seguirles el ritmo...
-夷Ustedes son siempre as胤?
+*uff* *puff* Son demasiado rホpidas... Yo no podrボa seguirles el ritmo...
+メUstedes son siempre asボ?
 
 [msg MSG_004 [Makoto]]
-No exactamente... Solamente ten胤amos algo en mente...
+No exactamente... Solamente tenボamos algo en mente...
 
 [msg MSG_005 [Morgana]]
-夷Algo en su mente? 夷Les pasa algo?
+メAlgo en su mente? メLes pasa algo?
 
 [msg MSG_006 [Haru]]
-Mm, probablemente no deber胤amos quedarnos hablando aqu胤. 夷Por qu姻 no volvemos primero?
-Si de verdad quieren saberlo se lo podemos contar m茨s tarde... 夷De acuerdo?
+Mm, probablemente no deberボamos quedarnos hablando aquボ. メPor qu〒 no volvemos primero?
+Si de verdad quieren saberlo se lo podemos contar mホs tarde... メDe acuerdo?
 
 [msg MSG_007 [Ryuji]]
-S胤. 斡Pues nada, v茨monos!
+Sボ. ムPues nada, vホmonos!
 

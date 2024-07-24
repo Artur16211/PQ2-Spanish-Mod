@@ -2,19 +2,19 @@
 Dummy
 
 [msg BTL_MES_008_001]
-No podemos escapar. 斡La 雨nica opci吋n es ganar!
+No podemos escapar. ムLa マnica opciポn es ganar!
 
 [msg BTL_MES_008_002]
 ＜声Of＞ええ、絶対L負けpseせz 油断P禁物Hす。
 
 [msg BTL_MES_008_003]
-El FOE... Deber胤amos alejarnos en sigilo.
+El FOE... Deberボamos alejarnos en sigilo.
 
 [msg BTL_MES_008_004]
 ＜声Of＞たしかL ここP退くZきHすN。
 
 [msg BTL_MES_008_005]
-Un FOE... 斡Pero tal vez tengamos la fuerza para derrotarlo!
+Un FOE... ムPero tal vez tengamos la fuerza para derrotarlo!
 
 [msg BTL_MES_008_006]
 Ah, una Sombra rara... Esto es una oportunidad para nosotros.
@@ -32,13 +32,13 @@ Ah, una Sombra rara... Esto es una oportunidad para nosotros.
 ＜声Of＞了解しeした、山岸さz！
 
 [msg BTL_MES_008_011]
-Parecen m茨s fuertes que nosotros...
+Parecen mホs fuertes que nosotros...
 
 [msg BTL_MES_008_012]
 ＜声Of＞戦略的撤退i視野L入seしnう。
 
 [msg BTL_MES_008_013]
-Nunca hab胤amos visto a este enemigo. Analicemos su debilidad.
+Nunca habボamos visto a este enemigo. Analicemos su debilidad.
 
 [msg BTL_MES_008_014]
 ＜声Of＞いtzK攻撃y試しGfeしnう
@@ -56,10 +56,10 @@ Tenemos muchas posibilidades de ganar.
 ＜声Of＞手加減PしKい主義KzHす
 
 [msg BTL_MES_008_019]
-La Sombra ha... 夷Cambiado...?
+La Sombra ha... メCambiado...?
 
 [msg BTL_MES_008_020]
-＜声Of＞ク7！ マズ姻HすN…
+＜声Of＞ク7！ マズ〒HすN…
 
 [msg BTL_MES_008_021]
 ＜声Of＞Jうkp 囲esたoうHすN…
@@ -71,19 +71,19 @@ Estamos en peligro...
 ＜声Of＞立G直しが必要HすN…
 
 [msg BTL_MES_008_024]
-＜声Of＞先輩…！ KzIかフ隠ローしKいI！
+＜声Of＞先輩…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_025]
 ＜声Of＞危KいHすN… 治療y優先しeしnう！
 
 [msg BTL_MES_008_026]
-＜声Of＞花村先輩…！ KzIかフ隠ローしKいI！
+＜声Of＞花村先輩…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_027]
-＜声Of＞里中先輩…！ KzIかフ隠ローしKいI！
+＜声Of＞里中先輩…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_028]
-＜声Of＞天城先輩…！ KzIかフ隠ローしKいI！
+＜声Of＞天城先輩…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_029]
 ＜声Of＞4ミー
@@ -98,22 +98,22 @@ Estamos en peligro...
 ＜声Of＞大丈夫Hすか、クマくz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_033]
-＜声Of＞岳羽さz…！ KzIかフ隠ローしKいI！
+＜声Of＞岳羽さz…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_034]
-＜声Of＞伊織さz…！ KzIかフ隠ローしKいI！
+＜声Of＞伊織さz…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_035]
-＜声Of＞真田さz…！ KzIかフ隠ローしKいI！
+＜声Of＞真田さz…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_036]
-＜声Of＞桐条さz…！ KzIかフ隠ローしKいI！
+＜声Of＞桐条さz…！ KzIかフワローしKいI！
 
 [msg BTL_MES_008_037]
 ＜声Of＞4ミー
 
 [msg BTL_MES_008_038]
-＜声Of＞大丈夫Hすか、威姻/スさz？ 治療y優先しeしnう！
+＜声Of＞大丈夫Hすか、ミ〒/スさz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_039]
 ＜声Of＞大丈夫Hすか、天田くz？ 治療y優先しeしnう！
@@ -125,25 +125,25 @@ Estamos en peligro...
 ＜声Of＞大丈夫Hすか、荒垣さz？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_042]
-＜声Of＞こOeeHP危険Hす。 フ隠ローy！
+＜声Of＞こOeeHP危険Hす。 フワローy！
 
 [msg BTL_MES_008_043]
-＜声Of＞ジョー吋ーが危険Hす！ フ隠ローy！
+＜声Of＞ジョーポーが危険Hす！ フワローy！
 
 [msg BTL_MES_008_044]
-＜声Of＞ス吋ルが危険Hす！ フ隠ローy！
+＜声Of＞スポルが危険Hす！ フワローy！
 
 [msg BTL_MES_008_045]
-＜声Of＞パンサーが危険Hす！ フ隠ローy！
+＜声Of＞パンサーが危険Hす！ フワローy！
 
 [msg BTL_MES_008_046]
-＜声Of＞モ)が危険Hす！ フ隠ローy！
+＜声Of＞モ)が危険Hす！ フワローy！
 
 [msg BTL_MES_008_047]
-＜声Of＞フ隠7クスが危険Hす！ フ隠ローy！
+＜声Of＞フワ7クスが危険Hす！ フワローy！
 
 [msg BTL_MES_008_048]
-＜声Of＞大丈夫Hすか、ク姻ーン？ 治療y優先しeしnう！
+＜声Of＞大丈夫Hすか、ク〒ーン？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_049]
 ＜声Of＞4ミー
@@ -152,19 +152,19 @@ Estamos en peligro...
 ＜声Of＞大丈夫Hすか、ノワール？ 治療y優先しeしnう！
 
 [msg BTL_MES_008_051]
-＜声Of＞クロ胤が危険Hす！ フ隠ローy！
+＜声Of＞クロボが危険Hす！ フワローy！
 
 [msg BTL_MES_008_052]
 ＜声Of＞ここP、効率oくいきeしnう
 
 [msg BTL_MES_008_053]
-斡Es nuestra oportunidad! 斡La aprovechar姻!
+ムEs nuestra oportunidad! ムLa aprovechar〒!
 
 [msg BTL_MES_008_054]
 ＜声Of＞そうHすN 気y抜かずいきeしnう
 
 [msg BTL_MES_008_055]
-Puedo atacar su debilidad con precisi吋n...
+Puedo atacar su debilidad con precisiポn...
 
 [msg BTL_MES_008_056]
 Siempre podemos usar relevo.
@@ -215,7 +215,7 @@ Parece que me toca.
 ＜声Of＞4ミー
 
 [msg BTL_MES_008_072]
-＜声Of＞威姻/スさz！ 作戦y開始しGくAさい！
+＜声Of＞ミ〒/スさz！ 作戦y開始しGくAさい！
 
 [msg BTL_MES_008_073]
 ＜声Of＞天田くzがkr気HすN！
@@ -227,13 +227,13 @@ Parece que me toca.
 ＜声Of＞蹴散pしGくAさい！ 荒垣さz！
 
 [msg BTL_MES_008_076]
-＜声Of＞ここP威)3Lお任せしeす！
+＜声Of＞ここPミ)3Lお任せしeす！
 
 [msg BTL_MES_008_077]
-＜声Of＞さすがHすN！ ジョー吋ー！
+＜声Of＞さすがHすN！ ジョーポー！
 
 [msg BTL_MES_008_078]
-＜声Of＞期待しGいeす！ ス吋ル！
+＜声Of＞期待しGいeす！ スポル！
 
 [msg BTL_MES_008_079]
 ＜声Of＞パンサーL 続きeしnう！
@@ -242,10 +242,10 @@ Parece que me toca.
 ＜声Of＞モ)！ キミL託しeす！
 
 [msg BTL_MES_008_081]
-＜声Of＞フ隠7クスKp 華麗L決hGくsrPず！
+＜声Of＞フワ7クスKp 華麗L決hGくsrPず！
 
 [msg BTL_MES_008_082]
-＜声Of＞こO勢いL乗qeしnう！ ク姻ーン！
+＜声Of＞こO勢いL乗qeしnう！ ク〒ーン！
 
 [msg BTL_MES_008_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Parece que me toca.
 ＜声Of＞ノワールi kr気充分HすN！
 
 [msg BTL_MES_008_085]
-＜声Of＞クロ胤！ お願いしeすN！
+＜声Of＞クロボ！ お願いしeすN！
 
 [msg BTL_MES_008_086]
-斡Es momento de demostrarles que puedo hacer!
+ムEs momento de demostrarles que puedo hacer!
 

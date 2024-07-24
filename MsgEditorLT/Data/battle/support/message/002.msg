@@ -8,13 +8,13 @@ No podemos perder.
 ＜声Of＞大丈夫、必ず勝Gro
 
 [msg BTL_MES_002_003]
-斡Un FOE...! No tenemos oportunidad con este...
+ムUn FOE...! No tenemos oportunidad con este...
 
 [msg BTL_MES_002_004]
 ＜声Of＞こsP、逃げrOi手AN。
 
 [msg BTL_MES_002_005]
-Podr胤amos vencer a este FOE.
+Podrボamos vencer a este FOE.
 
 [msg BTL_MES_002_006]
 Una Sombra rara... Intenta no dejarla escapar.
@@ -50,13 +50,13 @@ Acabemos con ellos.
 ＜声Of＞大丈夫、eかせG。
 
 [msg BTL_MES_002_017]
-Esto no deber胤a ser r茨pido.
+Esto no deberボa ser rホpido.
 
 [msg BTL_MES_002_018]
 ＜声Of＞一気Lいこうか
 
 [msg BTL_MES_002_019]
-Esa Sombra est茨 actuando extra隠o.
+Esa Sombra estホ actuando extraワo.
 
 [msg BTL_MES_002_020]
 ＜声Of＞さG、Jうしoうか…
@@ -113,7 +113,7 @@ Dummy
 ＜声Of＞4ミー
 
 [msg BTL_MES_002_038]
-＜声Of＞威姻/ス、大丈夫か？
+＜声Of＞ミ〒/ス、大丈夫か？
 
 [msg BTL_MES_002_039]
 ＜声Of＞天田、大丈夫か？
@@ -128,10 +128,10 @@ Dummy
 ＜声Of＞KzIか回復しKいI…
 
 [msg BTL_MES_002_043]
-＜声Of＞ジョー吋ー、大丈夫？
+＜声Of＞ジョーポー、大丈夫？
 
 [msg BTL_MES_002_044]
-＜声Of＞ス吋ル、大丈夫か？
+＜声Of＞スポル、大丈夫か？
 
 [msg BTL_MES_002_045]
 ＜声Of＞パンサーL援護が必要AN
@@ -140,10 +140,10 @@ Dummy
 ＜声Of＞モ)、大丈夫か？
 
 [msg BTL_MES_002_047]
-＜声Of＞フ隠7クス、大丈夫か？
+＜声Of＞フワ7クス、大丈夫か？
 
 [msg BTL_MES_002_048]
-＜声Of＞ク姻ーンL援護が必要AN
+＜声Of＞ク〒ーンL援護が必要AN
 
 [msg BTL_MES_002_049]
 ＜声Of＞4ミー
@@ -152,25 +152,25 @@ Dummy
 ＜声Of＞ノワールL援護が必要AN
 
 [msg BTL_MES_002_051]
-＜声Of＞クロ胤、大丈夫か？
+＜声Of＞クロボ、大丈夫か？
 
 [msg BTL_MES_002_052]
 ＜声Of＞Yぇ… 狙vKい手PKいN
 
 [msg BTL_MES_002_053]
-夷Todos listos...? 斡Vamos!
+メTodos listos...? ムVamos!
 
 [msg BTL_MES_002_054]
 ＜声Of＞さあ、こO調子HJzJz行こうか
 
 [msg BTL_MES_002_055]
-夷Quieres que me encargue de esto? Conozco su debilidad.
+メQuieres que me encargue de esto? Conozco su debilidad.
 
 [msg BTL_MES_002_056]
-Un Relevo podr胤a ser 雨til.
+Un Relevo podrボa ser マtil.
 
 [msg BTL_MES_002_057]
-夷Te importa si me encargo?
+メTe importa si me encargo?
 
 [msg BTL_MES_002_058]
 ＜声Of＞ああ、一緒L暴soうか。
@@ -215,7 +215,7 @@ Un Relevo podr胤a ser 雨til.
 ＜声Of＞4ミー
 
 [msg BTL_MES_002_072]
-＜声Of＞任せたo、威姻/ス！
+＜声Of＞任せたo、ミ〒/ス！
 
 [msg BTL_MES_002_073]
 ＜声Of＞頼iしいN、天田 お願いすro
@@ -230,10 +230,10 @@ Un Relevo podr胤a ser 雨til.
 ＜声Of＞ああ、君KpkDGくsrPずA
 
 [msg BTL_MES_002_077]
-＜声Of＞いい調子AN、ジョー吋ー
+＜声Of＞いい調子AN、ジョーポー
 
 [msg BTL_MES_002_078]
-＜声Of＞ス吋ル、任せro
+＜声Of＞スポル、任せro
 
 [msg BTL_MES_002_079]
 ＜声Of＞パンサー、頼zAo
@@ -242,10 +242,10 @@ Un Relevo podr胤a ser 雨til.
 ＜声Of＞モ)、期待しGro
 
 [msg BTL_MES_002_081]
-＜声Of＞頼iしいN、フ隠7クス
+＜声Of＞頼iしいN、フワ7クス
 
 [msg BTL_MES_002_082]
-＜声Of＞ク姻ーン、あIPotしく
+＜声Of＞ク〒ーン、あIPotしく
 
 [msg BTL_MES_002_083]
 ＜声Of＞4ミー
@@ -254,7 +254,7 @@ Un Relevo podr胤a ser 雨til.
 ＜声Of＞お願いすro、ノワール
 
 [msg BTL_MES_002_085]
-＜声Of＞クロ胤、お願いしeす
+＜声Of＞クロボ、お願いしeす
 
 [msg BTL_MES_002_086]
 Ahora no tengo que contenerme.

@@ -1,5 +1,5 @@
 [msg DG_OBJECTIVE_MSG_LARGE_0]
-斡Repara al robot roto!
+ムRepara al robot roto!
 
 [msg DG_OBJECTIVE_MSG_SMALL_0]
 Encuentra al robot roto
@@ -11,5 +11,5 @@ Encuentra las piezas de repuesto
 Elige un camino
 
 [msg DG_OBJECTIVE_MSG_SMALL_0_4]
-Encuentra las piezas en la habitaci吋n noreste
+Encuentra las piezas en la habitaciポn noreste
 

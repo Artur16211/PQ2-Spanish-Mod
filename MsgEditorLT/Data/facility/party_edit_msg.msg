@@ -1,59 +1,59 @@
 [sel PARTY_EDIT_YESNO top]
-S胤
+Sボ
 No
 
 [sel PARTY_EDIT_YESNO_CALL top]
-S胤
+Sボ
 No
 
 [sel PARTY_EDIT_YESNO_CALL_DE top]
-S胤
+Sボ
 No
 
 [sel PARTY_EDIT_YESNO_REGIST_ top]
-S胤
+Sボ
 No
 
 [msg MSG_ORGIA000]
-Explicaci吋n del modo Desenfreno. Aunque[n]no es muy complicado...
-斡De acuerdo! 斡Espero verla!
+Explicaciポn del modo Desenfreno. Aunque[n]no es muy complicado...
+ムDe acuerdo! ムEspero verla!
 
 [msg PARTY_EDIT_MSG_CALL_COMF]
-夷Usar este grupo?
+メUsar este grupo?
 
 [msg PARTY_EDIT_MSG_SET_COMFI]
-夷Registrar [f 2 4 0]?
+メRegistrar [f 2 4 0]?
 
 [msg PARTY_EDIT_MSG_DEL_COMFI]
-夷Eliminar [f 2 4 0]?
+メEliminar [f 2 4 0]?
 
 [msg PARTY_EDIT_MSG_CANCEL_CR]
-夷Salir sin guardar el grupo?
+メSalir sin guardar el grupo?
 
 [msg PARTY_EDIT_MSG_NAME_ENTR]
-Ingresa un nombre para este grupo[n]utilizando la pantalla t茨ctil.
+Ingresa un nombre para este grupo[n]utilizando la pantalla tホctil.
 
 [msg PARTY_EDIT_MSG_CANCEL_ED]
-夷Deseas salir sin cambiar la formaci吋n[n]del grupo?
+メDeseas salir sin cambiar la formaciポn[n]del grupo?
 
 [msg PARTY_EDIT_MSG_PARTY_ALL]
-Nadie en tu grupo est茨 en condiciones de[n]combatir.
+Nadie en tu grupo estホ en condiciones de[n]combatir.
 
 [msg PARTY_EDIT_MSG_LEADER_NO]
-El l胤der del equipo no ha sido elegido.[n]Aseg雨rate de tener uno.
+El lボder del equipo no ha sido elegido.[n]Asegマrate de tener uno.
 
 [msg PARTY_EDIT_MSG_NO_MEMBER]
 Selecciona aliados para agregar al[n]grupo.
 
 [msg PARTY_EDIT_MSG_LEADER_NO_2]
-Elige un l胤der de grupo, alguien con el[n]poder del comod胤n.
+Elige un lボder de grupo, alguien con el[n]poder del comodボn.
 
 [msg PARTY_EDIT_MSG_FIRST_NAV]
-No se ha elegido a un navegador.[n]斡Necesitas uno!
+No se ha elegido a un navegador.[n]ムNecesitas uno!
 
 [msg PARTY_EDIT_MSG_DUNGEON_N]
 Olvidaste elegir un navegador de campo.
 
 [msg PARTY_EDIT_RISKY_INVALID]
-Cuando tu dificultad est茨 configurada en[n]"Arriesgado", debes incluir [f 6 1 30 0 0 0] en el[n]grupo.
+Cuando tu dificultad estホ configurada en[n]"Arriesgado", debes incluir [f 6 1 30 0 0 0] en el[n]grupo.
 

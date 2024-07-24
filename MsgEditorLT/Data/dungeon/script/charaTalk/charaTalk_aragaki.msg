@@ -16,13 +16,13 @@ Volver
 Cancelar
 
 [msg MSG_000 [Shinjiro]]
-Parece que podemos conseguir cosas aqu胤.[n]夷Qu姻 hacemos?
+Parece que podemos conseguir cosas aquボ.[n]メQu〒 hacemos?
 
 [msg MSG_001 [Shinjiro]]
-Entendido. Mant姻n los ojos bien[n]abiertos.
+Entendido. Mant〒n los ojos bien[n]abiertos.
 
 [msg MSG_002 [Shinjiro]]
-S胤, estamos fuera de peligro. Echemos un[n]vistazo.
+Sボ, estamos fuera de peligro. Echemos un[n]vistazo.
 
 [msg MSG_003 [Shinjiro]]
 Entendido...
@@ -34,7 +34,7 @@ Parece que esos son todos.
 Eh...
 
 [msg MSG_006]
-No est茨 mal.
+No estホ mal.
 
 [msg MSG_007]
 Nos llevamos eso.
@@ -49,53 +49,53 @@ Impresionante.
 Bien por ti.
 
 [msg MSG_011]
-Oye, eso es raro, 夷no?
+Oye, eso es raro, メno?
 
 [msg MSG_012 [Shinjiro]]
-Un atajo, 夷eh...? 夷Qu姻 hacemos?
+Un atajo, メeh...? メQu〒 hacemos?
 
 [msg MSG_013 [Shinjiro]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Shinjiro]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Shinjiro]]
-Tch... No podemos ir por aqu胤.
+Tch... No podemos ir por aquボ.
 
 [msg MSG_016 [Shinjiro]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Shinjiro]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Shinjiro]]
-Tengo un mal presentimiento sobre este[n]lugar... 夷Qu姻 opinas?
+Tengo un mal presentimiento sobre este[n]lugar... メQu〒 opinas?
 
 [msg MSG_019 [Shinjiro]]
-De acuerdo. Hag茨moslo.
+De acuerdo. Hagホmoslo.
 
 [msg MSG_020 [Shinjiro]]
-Buena elecci吋n.
+Buena elecciポn.
 
 [msg MSG_021 [Shinjiro]]
-Eso fue dif胤cil. Menos mal que[n]termin吋...
+Eso fue difボcil. Menos mal que[n]terminポ...
 
 [msg MSG_022 [Shinjiro]]
-Siento sombras cerca. 夷Cu茨l es el plan?
+Siento sombras cerca. メCuホl es el plan?
 
 [msg MSG_023 [Shinjiro]]
 De acuerdo, vamos a investigar.
 
 [msg MSG_024 [Shinjiro]]
-S胤, seguro.
+Sボ, seguro.
 
 [msg MSG_025 [Shinjiro]]
-Vaya, ten胤a la sensaci吋n de que[n]aparecer胤an.
+Vaya, tenボa la sensaciポn de que[n]aparecerボan.
 
 [msg MSG_026 [Shinjiro]]
-夷Regresamos al Cine?
+メRegresamos al Cine?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

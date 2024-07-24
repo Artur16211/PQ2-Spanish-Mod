@@ -1,6 +1,6 @@
 [msg MSG_000 [Futaba]]
-斡El interruptor de la puerta el姻ctrica[n]est茨 al noreste de su ubicaci吋n actual!
+ムEl interruptor de la puerta el〒ctrica[n]estホ al noreste de su ubicaciポn actual!
 
 [msg MSG_001 [Rise]]
-夷Recuerdas la puerta que estaba abierta?[n]斡Es por ah胤!
+メRecuerdas la puerta que estaba abierta?[n]ムEs por ahボ!
 

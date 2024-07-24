@@ -2,10 +2,10 @@
 Irregularidades incapaces de conformarse: Eliminen su individualidad...
 
 [msg MSG_000_5 [Supervisor]]
-斡Obedezcan las reglas de este mundo!
+ムObedezcan las reglas de este mundo!
 
 [msg MSG_001 [Supervisor]]
-Irregularidades... Errores... 斡Enfrenten las leyes de este mundo!
+Irregularidades... Errores... ムEnfrenten las leyes de este mundo!
 
 [msg MSG_002 [Supervisor]]
 Las irregularidades deben... eliminar... Irre...gu... Irr... re...

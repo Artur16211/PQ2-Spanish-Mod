@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Teddie]]
-斡Encontr姻 un punto del tesoro! 夷Quieres[n]recoger algunas cosas?
+ムEncontr〒 un punto del tesoro! メQuieres[n]recoger algunas cosas?
 
 [msg MSG_001 [Teddie]]
-斡D姻jamelo todo a m胤!
+ムD〒jamelo todo a mボ!
 
 [msg MSG_002 [Teddie]]
-斡Voy a encontrarlo primero!
+ムVoy a encontrarlo primero!
 
 [msg MSG_003 [Teddie]]
-Oh, 夷姻ste no? 斡Entendido!
+Oh, メ〒ste no? ムEntendido!
 
 [msg MSG_004 [Teddie]]
-斡Hemos saqueado el lugar!
+ムHemos saqueado el lugar!
 
 [msg MSG_005]
-斡Cava aqu胤! 斡Cava aqu胤!
+ムCava aquボ! ムCava aquボ!
 
 [msg MSG_006]
-斡Muy bien!
+ムMuy bien!
 
 [msg MSG_007]
-斡Lo consegu胤!
+ムLo conseguボ!
 
 [msg MSG_008 [Teddie]]
-Uf... Lo logramos. Y tambi姻n obtuvimos[n]algo de bot胤n.
+Uf... Lo logramos. Y tambi〒n obtuvimos[n]algo de botボn.
 
 [msg MSG_009]
-斡Zas!
+ムZas!
 
 [msg MSG_010]
-斡Hurra!
+ムHurra!
 
 [msg MSG_011]
-斡Bingo!
+ムBingo!
 
 [msg MSG_012 [Teddie]]
-斡He encontrado un atajo! 夷Quieres[n]tomarlo?
+ムHe encontrado un atajo! メQuieres[n]tomarlo?
 
 [msg MSG_013 [Teddie]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Teddie]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Teddie]]
 Oh, no podemos pasar...
 
 [msg MSG_016 [Teddie]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Teddie]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Teddie]]
 Algo no huele bien en este lugar.
 
 [msg MSG_019 [Teddie]]
-斡Bien! 斡Es hora de hacerlo!
+ムBien! ムEs hora de hacerlo!
 
 [msg MSG_020 [Teddie]]
-斡S胤, s胤! 斡Movimiento inteligente!
+ムSボ, sボ! ムMovimiento inteligente!
 
 [msg MSG_021 [Teddie]]
 Guh... uf... Esa sombra era realmente[n]mala noticia...
 
 [msg MSG_022 [Teddie]]
-*olfateo olfateo* Huele como si hubiera[n]un mont吋n de Sombras...
+*olfateo olfateo* Huele como si hubiera[n]un montポn de Sombras...
 
 [msg MSG_023 [Teddie]]
-斡De acuerdo! 斡Hag茨moslo!
+ムDe acuerdo! ムHagホmoslo!
 
 [msg MSG_024 [Teddie]]
-夷Retrocedemos? 斡Entendido!
+メRetrocedemos? ムEntendido!
 
 [msg MSG_025 [Teddie]]
-夷Hemos terminado?
+メHemos terminado?
 
 [msg MSG_026 [Teddie]]
-夷Eh? 夷Vamos de regreso al cine?
+メEh? メVamos de regreso al cine?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

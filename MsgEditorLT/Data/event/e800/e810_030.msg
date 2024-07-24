@@ -1,21 +1,21 @@
 [msg MSG_000 [Kanji]]
-Incre胤ble. Estaban realmente escondidos debajo de las hojas.
+Increボble. Estaban realmente escondidos debajo de las hojas.
 
 [msg MSG_001 [Haru]]
-*risita* En verdad, es muy sorprendente. Nunca hab胤a visto unos tan grandes antes.
+*risita* En verdad, es muy sorprendente. Nunca habボa visto unos tan grandes antes.
 
 [msg MSG_002 [Teddie]]
-斡Ahh! 斡No me los acerques m茨s con esa bonita sonrisa en tu cara!
+ムAhh! ムNo me los acerques mホs con esa bonita sonrisa en tu cara!
 
 [msg MSG_003 [Kanji]]
-Diablos, Teddie. 夷No soportas un peque隠o gusano?
-Espera un segundo, 夷qu姻 pasa, chicas? Est茨n muy alejadas...
+Diablos, Teddie. メNo soportas un pequeワo gusano?
+Espera un segundo, メqu〒 pasa, chicas? Estホn muy alejadas...
 
 [msg MSG_004 [Chie]]
-Ahaha... No soy la m茨s fan de esos bichos...
+Ahaha... No soy la mホs fan de esos bichos...
 
 [msg MSG_005 [Ann]]
-Sabes, hay otros aqu胤 que ser胤an mejor para esto.
+Sabes, hay otros aquボ que serボan mejor para esto.
 
 [msg MSG_006 [Morgana]]
 Lo pillo. Son un poco asquerosos cuando los ves de cerca.
@@ -23,42 +23,42 @@ Lo pillo. Son un poco asquerosos cuando los ves de cerca.
 [sel SEL_007 top]
 Estoy en ello.
 Tampoco me gustan los bichos...
-夷Quieres un mordisco, Mona?
+メQuieres un mordisco, Mona?
 
 [msg MSG_008 [Morgana]]
 Bien, Joker. No dudaste ni un poquito.
 
 [msg MSG_009 [Ann]]
-Puedes depender de alguien que act雨a as胤 de r茨pido.
+Puedes depender de alguien que actマa asボ de rホpido.
 
 [msg MSG_010 [Morgana]]
-Pero aun as胤, metiste tus manos en ese mont吋n de hojas. Eso fue muy valiente...
+Pero aun asボ, metiste tus manos en ese montポn de hojas. Eso fue muy valiente...
 
 [msg MSG_011 [Yusuke]]
-Por supuesto. Es el l胤der de los Ladrones Fantasma, despu姻s de todo.
+Por supuesto. Es el lボder de los Ladrones Fantasma, despu〒s de todo.
 
 [msg MSG_012 [Morgana]]
-斡No! 斡No me trates como si fuera un gato callejero! 斡Hey, aparta eso de mi vista!
+ムNo! ムNo me trates como si fuera un gato callejero! ムHey, aparta eso de mi vista!
 
 [msg MSG_013 [P4 Hero]]
 Siempre el primero en actuar... No esperaba menos.
 
 [msg MSG_014 [Yosuke]]
-夷Hm? 夷Qu姻 te pasa, bro?
+メHm? メQu〒 te pasa, bro?
 
 [msg MSG_015 [P4 Hero]]
-Nada... Bueno, parece que lo hemos encontrado, pero, 夷ser茨 suficiente?
+Nada... Bueno, parece que lo hemos encontrado, pero, メserホ suficiente?
 
 [msg MSG_016 [Haru]]
-Hmm... Parecen menos de lo que esper茨bamos.
+Hmm... Parecen menos de lo que esperホbamos.
 
 [msg MSG_017 [Kanji]]
-斡Sin problema! 斡Senpai podr胤a atrapar un pez sin usar nada si 姻l quisiera!
+ムSin problema! ムSenpai podrボa atrapar un pez sin usar nada si 〒l quisiera!
 
 [sel SEL_018 top]
-夷De verdad?
+メDe verdad?
 Contamos contigo.
-斡Yo tambi姻n puedo!
+ムYo tambi〒n puedo!
 
 [msg MSG_019 [P4 Hero]]
 Aprecio vuestra confianza, pero no creo que sea posible.
@@ -67,16 +67,16 @@ Aprecio vuestra confianza, pero no creo que sea posible.
 Me alegra escuchar eso, pero no creo que sea posible.
 
 [msg MSG_021 [Yusuke]]
-夷Qu姻...? Y pensar que ambos se han convertido en unos incre胤bles pescadores...
+メQu〒...? Y pensar que ambos se han convertido en unos increボbles pescadores...
 
 [msg MSG_022 [P4 Hero]]
 Aprecio el sentimiento, pero no creo que sea posible.
 
 [msg MSG_023 [Haru]]
-Bueno, entonces, podr胤amos seguir buscando en otro sitio.
-Estoy seguro de que hay m茨s sitios con hojas como estas.
+Bueno, entonces, podrボamos seguir buscando en otro sitio.
+Estoy seguro de que hay mホs sitios con hojas como estas.
 
 [msg MSG_024 [Morgana]]
 Bien, entonces sigamos buscando.
-Encontraremos m茨s hojas en el resto de Puntos del Tesoro. 斡Vamos!
+Encontraremos mホs hojas en el resto de Puntos del Tesoro. ムVamos!
 

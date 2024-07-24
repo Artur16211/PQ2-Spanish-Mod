@@ -1,61 +1,61 @@
 [msg MSG_000 [Haru]]
-斡Oh! Este agujero es profundo... Ni[n]siquiera puedo ver el fondo.
+ムOh! Este agujero es profundo... Ni[n]siquiera puedo ver el fondo.
 
 [msg MSG_001 [Yukari]]
-Esto ser胤a muy peligroso caerse... Ah...[n]solo mirarlo me est茨 mareando...
+Esto serボa muy peligroso caerse... Ah...[n]solo mirarlo me estホ mareando...
 
 [msg MSG_002 [Junpei]]
-Est茨s tratando de decir: "Espero que[n]nadie venga y me empuje[n]accidentalmente", 夷verdad? 夷Gui隠o gui隠o?
+Estホs tratando de decir: "Espero que[n]nadie venga y me empuje[n]accidentalmente", メverdad? メGuiワo guiワo?
 
 [msg MSG_003 [Yukari]]
-斡夷Qu姻?! 斡No! 斡Ni siquiera lo intentes!
+ムメQu〒?! ムNo! ムNi siquiera lo intentes!
 
 [msg MSG_004 [Naoto]]
-Um, m茨s importante... Por favor, echa un[n]vistazo.
+Um, mホs importante... Por favor, echa un[n]vistazo.
 
 [msg MSG_005 [Yukari]]
-Oh, siento que Tontei causara tal[n]escena. 夷Qu姻 encontraste?
+Oh, siento que Tontei causara tal[n]escena. メQu〒 encontraste?
 
 [msg MSG_006 [Naoto]]
-Oh, est茨 bien... Bien, parece que la[n]nariz de este 茨rbol funciona como un[n]interruptor.
+Oh, estホ bien... Bien, parece que la[n]nariz de este ホrbol funciona como un[n]interruptor.
 
 [sel SEL_007 top]
-夷Esa nariz redonda?
-夷Esa nariz larga?
-夷Ese Teddie?
+メEsa nariz redonda?
+メEsa nariz larga?
+メEse Teddie?
 
 [msg MSG_008 [P4 Hero]]
-夷Nariz?
+メNariz?
 
 [msg MSG_009 [Teddie]]
-Yyyy... 夷Teddie?
+Yyyy... メTeddie?
 
 [msg MSG_010 [P3 Hero]]
-夷Nariz?
+メNariz?
 
 [msg MSG_011 [Teddie]]
-Yyyy... 夷Teddie?
+Yyyy... メTeddie?
 
 [msg MSG_012 [Teddie]]
-斡Soy yo! 夷Qu姻 puedo hacer por ti?
+ムSoy yo! メQu〒 puedo hacer por ti?
 
 [msg MSG_013 [Ryuji]]
-斡Podemos terminar con esa broma,[n]maldici吋n!
-斡Y no tienes nada que ver con esto,[n]Teddie! 斡Fuera de aqu胤!
+ムPodemos terminar con esa broma,[n]maldiciポn!
+ムY no tienes nada que ver con esto,[n]Teddie! ムFuera de aquボ!
 
 [msg MSG_014 [Teddie]]
-斡Oh nooo! Skull est茨 siendo un gru隠吋n...[n]Deber胤as aumentar tu consumo de calcio[n]para reducir ese malhumor.
+ムOh nooo! Skull estホ siendo un gruワポn...[n]Deberボas aumentar tu consumo de calcio[n]para reducir ese malhumor.
 
 [msg MSG_015 [Ryuji]]
-斡Argh! 斡Eso no es...!
+ムArgh! ムEso no es...!
 
 [msg MSG_016 [Teddie]]
-Bueno, me siento un poco cansado. Ahhh,[n]esto debe ser c吋modo...
+Bueno, me siento un poco cansado. Ahhh,[n]esto debe ser cポmodo...
 
 [msg MSG_017 [Naoto]]
-斡Teddie! 斡No te acerques a eso!
-A雨n no sabemos qu姻…
+ムTeddie! ムNo te acerques a eso!
+Aマn no sabemos qu〒…
 
 [msg MSG_018 [Naoto]]
-...Espera, 斡夷Qu姻 es ese sonido?!
+...Espera, ムメQu〒 es ese sonido?!
 

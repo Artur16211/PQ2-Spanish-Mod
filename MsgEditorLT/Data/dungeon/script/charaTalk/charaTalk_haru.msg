@@ -16,86 +16,86 @@ Volver
 Cancelar
 
 [msg MSG_000 [Haru]]
-Mira, este es un lugar donde podemos[n]recoger objetos. 夷Quieres echar un[n]vistazo?
+Mira, este es un lugar donde podemos[n]recoger objetos. メQuieres echar un[n]vistazo?
 
 [msg MSG_001 [Haru]]
-Creo que es una decisi吋n sabia.
+Creo que es una decisiポn sabia.
 
 [msg MSG_002 [Haru]]
-Creo que tienes raz吋n; 斡centr姻monos en[n]recoger cosas!
+Creo que tienes razポn; ムcentr〒monos en[n]recoger cosas!
 
 [msg MSG_003 [Haru]]
-夷As胤 que pasamos? S姻 que tienes tus[n]razones.
+メAsボ que pasamos? S〒 que tienes tus[n]razones.
 
 [msg MSG_004 [Haru]]
-夷Eso es todo?
+メEso es todo?
 
 [msg MSG_005]
-夷Eh?
+メEh?
 
 [msg MSG_006]
-斡Wow!
+ムWow!
 
 [msg MSG_007]
-斡Hurra!
+ムHurra!
 
 [msg MSG_008 [Haru]]
-Eso fue dif胤cil y, viendo las caras de[n]todos, creo que deber胤amos descansar.
+Eso fue difボcil y, viendo las caras de[n]todos, creo que deberボamos descansar.
 
 [msg MSG_009]
-斡Uno raro!
+ムUno raro!
 
 [msg MSG_010]
-斡Un gran hallazgo!
+ムUn gran hallazgo!
 
 [msg MSG_011]
-*risa* 斡Estamos arrasando con esto!
+*risa* ムEstamos arrasando con esto!
 
 [msg MSG_012 [Haru]]
-斡Un atajo! 夷Deber胤amos usarlo?
+ムUn atajo! メDeberボamos usarlo?
 
 [msg MSG_013 [Haru]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_014 [Haru]]
-ショー:吋7:があrfたいAけJ Jうすr？[n](ショー:吋7:選択メ7セージ（仮）)
+ショー:ポ7:があrfたいAけJ Jうすr？[n](ショー:ポ7:選択メ7セージ（仮）)
 
 [msg MSG_015 [Haru]]
 Hmm, un ligero impedimento... No podemos[n]pasar desde este lado.
 
 [msg MSG_016 [Haru]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_017 [Haru]]
-こBpかpP通sKいoうA… (ショー:吋7:未開通メ7セージ（仮）)
+こBpかpP通sKいoうA… (ショー:ポ7:未開通メ7セージ（仮）)
 
 [msg MSG_018 [Haru]]
-Tengo un mal presentimiento; 夷crees que[n]estaremos bien?
+Tengo un mal presentimiento; メcrees que[n]estaremos bien?
 
 [msg MSG_019 [Haru]]
-夷E-est茨s seguro? Est茨 bien, podemos[n]hacerlo.
+メE-estホs seguro? Estホ bien, podemos[n]hacerlo.
 
 [msg MSG_020 [Haru]]
-斡Me alegra que est姻s de acuerdo! No[n]tiene sentido lanzarnos al peligro.
+ムMe alegra que est〒s de acuerdo! No[n]tiene sentido lanzarnos al peligro.
 
 [msg MSG_021 [Haru]]
-斡No puedo creer que lo hayamos logrado![n]夷Est茨 bien todo el mundo?
+ムNo puedo creer que lo hayamos logrado![n]メEstホ bien todo el mundo?
 
 [msg MSG_022 [Haru]]
-Este lugar est茨 lleno de sombras, 夷no?
+Este lugar estホ lleno de sombras, メno?
 
 [msg MSG_023 [Haru]]
-S胤, mantengamos la vista en el premio.
+Sボ, mantengamos la vista en el premio.
 
 [msg MSG_024 [Haru]]
 Cierto, no tiene sentido adentrarse[n]directamente en el peligro.
 
 [msg MSG_025 [Haru]]
-Entonces hab胤a sombras. Esperemos que no[n]haya m茨s...
+Entonces habボa sombras. Esperemos que no[n]haya mホs...
 
 [msg MSG_026 [Haru]]
-Podr胤amos regresar al cine desde aqu胤.[n]夷Qu姻 opinas?
+Podrボamos regresar al cine desde aquボ.[n]メQu〒 opinas?
 
 [msg MSG_027]
-斡Cuidado!
+ムCuidado!
 

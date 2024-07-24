@@ -1,32 +1,32 @@
 [msg RYUJI_FOE_FOLLOW_START_1]
-斡Whoa! 斡Un FOE!
+ムWhoa! ムUn FOE!
 
 [msg RYUJI_FOE_FOLLOW_START_2]
-斡Mierda! 斡Viene el FOE!
+ムMierda! ムViene el FOE!
 
 [msg RYUJI_FOE_FOLLOW_START_3]
-斡Esa cosa nos vio!
+ムEsa cosa nos vio!
 
 [msg RYUJI_FOE_NEAR_1]
-斡Mierda, est茨 justo ah胤!
+ムMierda, estホ justo ahボ!
 
 [msg RYUJI_FOE_NEAR_2]
-斡Ey! 斡Tenemos un FOE all胤!
+ムEy! ムTenemos un FOE allボ!
 
 [msg RYUJI_FOE_NEAR_3]
-斡Ey, esa cosa est茨 demasiado cerca!
+ムEy, esa cosa estホ demasiado cerca!
 
 [msg RYUJI_FOE_FOLLOW_END_1]
 Maldita sea... Eso estuvo cerca.
 
 [msg RYUJI_FOE_FOLLOW_END_2]
-斡Genial! 斡Lo perdimos!
+ムGenial! ムLo perdimos!
 
 [msg RYUJI_FOE_FOLLOW_END_3]
-Parece que se rindi吋.
+Parece que se rindiポ.
 
 [msg RYUJI_KANSI_REACTION_1]
-Trata de no ser descubierto, 夷de[n]acuerdo?
+Trata de no ser descubierto, メde[n]acuerdo?
 
 [msg RYUJI_KANSI_REACTION_2]
 Esa luz es una verdadera molestia.
@@ -38,64 +38,64 @@ Uf... Esto es tenso.
 No podemos avanzar...
 
 [msg RYUJI_DENKISAKU_REACTION_2]
-斡Tenemos que desactivar la energ胤a!
+ムTenemos que desactivar la energボa!
 
 [msg RYUJI_DENKISAKU_REACTION_3]
-斡Mierda! 斡Una puerta el姻ctrica!
+ムMierda! ムUna puerta el〒ctrica!
 
 [msg RYUJI_KYOUHU_REACTION_1]
-斡Whoa!
+ムWhoa!
 
 [msg RYUJI_KYOUHU_REACTION_2]
-斡Miiierda!
+ムMiiierda!
 
 [msg RYUJI_KYOUHU_REACTION_3]
-夷Me est茨s tomando el pelo?
+メMe estホs tomando el pelo?
 
 [msg RYUJI_STAIR_FIND_1]
-斡Ey! 斡Encontr姻 un camino!
+ムEy! ムEncontr〒 un camino!
 
 [msg RYUJI_STAIR_FIND_2]
-斡Vamos, vamos!
+ムVamos, vamos!
 
 [msg RYUJI_STAIR_FIND_3]
-斡Apuesto a que podemos pasar por[n]all胤!
+ムApuesto a que podemos pasar por[n]allボ!
 
 [msg RYUJI_TREASURE_FIND_1]
-斡Genial! 斡Un tesoro!
+ムGenial! ムUn tesoro!
 
 [msg RYUJI_TREASURE_FIND_2]
-斡Muy bien! 斡El tesoro es nuestro!
+ムMuy bien! ムEl tesoro es nuestro!
 
 [msg RYUJI_TREASURE_FIND_3]
-斡Ey, un cofre del tesoro!
+ムEy, un cofre del tesoro!
 
 [msg RYUJI_CHECK_WALL_1]
-Hay algo extra隠o en ese lugar.
+Hay algo extraワo en ese lugar.
 
 [msg RYUJI_CHECK_WALL_2]
-斡Oye, vamos a echar un vistazo!
+ムOye, vamos a echar un vistazo!
 
 [msg RYUJI_CHECK_WALL_3]
-Siento que hay algo aqu胤.
+Siento que hay algo aquボ.
 
 [msg RYUJI_SWITCH_FIND_1]
-夷Eso es un interruptor?
+メEso es un interruptor?
 
 [msg RYUJI_SWITCH_FIND_2]
-Es una especie de bot吋n.
+Es una especie de botポn.
 
 [msg RYUJI_SWITCH_FIND_3]
-夷Vas a presionarlo?
+メVas a presionarlo?
 
 [msg RYUJI_SHORTCUT_FIND_1]
-Oye, 夷crees que podemos pasar por[n]ah胤?
+Oye, メcrees que podemos pasar por[n]ahボ?
 
 [msg RYUJI_SHORTCUT_FIND_2]
 Tal vez podamos usar eso como un[n]atajo.
 
 [msg RYUJI_SHORTCUT_FIND_3]
-Mira. Podr胤a ser un atajo.
+Mira. Podrボa ser un atajo.
 
 [msg RYUJI_PARTY_DEAD_1]
 ?
@@ -107,61 +107,61 @@ Mira. Podr胤a ser un atajo.
 ?
 
 [msg RYUJI_FOE_WARNING_NEAR_1]
-斡Whoa, whoa! 斡Esa cosa todav胤a viene[n]hacia nosotros!
+ムWhoa, whoa! ムEsa cosa todavボa viene[n]hacia nosotros!
 
 [msg RYUJI_FOE_WARNING_NEAR_2]
-斡Maldita sea, esa cosa no se rinde!
+ムMaldita sea, esa cosa no se rinde!
 
 [msg RYUJI_FOE_WARNING_NEAR_3]
-Ese FOE sigue aqu胤. 斡No dejes que te[n]sorprenda!
+Ese FOE sigue aquボ. ムNo dejes que te[n]sorprenda!
 
 [msg RYUJI_PARTY_HPTP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg RYUJI_PARTY_HPTP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg RYUJI_PARTY_HPTP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg RYUJI_PARTY_HP10_1]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg RYUJI_PARTY_HP10_2]
-◆CONT威CTELO 10% DE LA VISTA
+◆CONTミCTELO 10% DE LA VISTA
 
 [msg RYUJI_PARTY_HP10_3]
-◆CONTINUAR LA B郁SQUEDA DE LA LUZ
+◆CONTINUAR LA BヮSQUEDA DE LA LUZ
 
 [msg RYUJI_1PERSON_HPTP10_1]
-Maldici吋n, estoy acabado...
+Maldiciポn, estoy acabado...
 
 [msg RYUJI_1PERSON_HPTP10_2]
 Hombre... estoy agotado...
 
 [msg RYUJI_1PERSON_HPTP10_3]
-Ugh... no puedo seguir as胤...
+Ugh... no puedo seguir asボ...
 
 [msg RYUJI_PARTY_TP10_1]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg RYUJI_PARTY_TP10_2]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg RYUJI_PARTY_TP10_3]
-■ CONTRASE謂A
+■ CONTRASEヰA
 
 [msg RYUJI_1PERSON_HP10_1]
-Maldici吋n... Esto es duro...
+Maldiciポn... Esto es duro...
 
 [msg RYUJI_1PERSON_HP10_2]
-Necesito curaci吋n...
+Necesito curaciポn...
 
 [msg RYUJI_1PERSON_HP10_3]
-Maldici吋n... estoy listo para[n]desmayarme.
+Maldiciポn... estoy listo para[n]desmayarme.
 
 [msg RYUJI_1PERSON_TP10_1]
-No puedo seguir as胤...
+No puedo seguir asボ...
 
 [msg RYUJI_1PERSON_TP10_2]
 Demasiada hambre... No puedo[n]seguir...
@@ -179,13 +179,13 @@ Estoy demasiado cansado...
 【justificadamente
 
 [msg RYUJI_1PERSON_HP80_1]
-Jeje, 斡fue pan comido!
+Jeje, ムfue pan comido!
 
 [msg RYUJI_1PERSON_HP80_2]
-斡Vamos a seguir!
+ムVamos a seguir!
 
 [msg RYUJI_1PERSON_HP80_3]
-斡Muy bien! 斡Mu姻vanse!
+ムMuy bien! ムMu〒vanse!
 
 [msg RYUJI_BATTLE_CHANGE_DUNG]
 ■: [f 0 1 4]\cHFF
@@ -197,101 +197,101 @@ Jeje, 斡fue pan comido!
 ■:
 
 [msg RYUJI_ITEM_90_DUNGEON_1]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg RYUJI_ITEM_90_DUNGEON_2]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg RYUJI_ITEM_90_DUNGEON_3]
-(DGP郁BLICA)
+(DGPヮBLICA)
 
 [msg RYUJI_DUNGEON_START_1]
-斡Bien, vamos!
+ムBien, vamos!
 
 [msg RYUJI_DUNGEON_START_2]
-斡Estamos listos! 斡Hag茨moslo!
+ムEstamos listos! ムHagホmoslo!
 
 [msg RYUJI_DUNGEON_START_3]
-斡Vamos!
+ムVamos!
 
 [msg RYUJI_QUEST_START_1]
-斡Empecemos!
+ムEmpecemos!
 
 [msg RYUJI_QUEST_START_2]
-斡Terminemos esto r茨pido!
+ムTerminemos esto rホpido!
 
 [msg RYUJI_QUEST_START_3]
-Lo de siempre, 夷verdad?
+Lo de siempre, メverdad?
 
 [msg RYUJI_TOUHA_25_1]
-Todav胤a tenemos mucho m茨s por[n]explorar...
+Todavボa tenemos mucho mホs por[n]explorar...
 
 [msg RYUJI_TOUHA_25_2]
-斡Un paso a la vez!
+ムUn paso a la vez!
 
 [msg RYUJI_TOUHA_50_1]
-A mitad de camino, 夷eh?
+A mitad de camino, メeh?
 
 [msg RYUJI_TOUHA_50_2]
-斡Aqu胤 es donde comienza la verdadera[n]diversi吋n!
+ムAquボ es donde comienza la verdadera[n]diversiポn!
 
 [msg RYUJI_TOUHA_75_1]
-斡Hemos llegado bastante lejos!
+ムHemos llegado bastante lejos!
 
 [msg RYUJI_TOUHA_75_2]
-斡Se ve muy bien!
+ムSe ve muy bien!
 
 [msg RYUJI_TOUHA_100_1]
-斡Yyyy listo! 斡Se ve perfecto!
+ムYyyy listo! ムSe ve perfecto!
 
 [msg RYUJI_TOUHA_100_2]
-斡Este piso es nuestro!
+ムEste piso es nuestro!
 
 [msg RYUJI_MAPPING_ICON_ALL_1]
-斡Bien!
+ムBien!
 
 [msg RYUJI_MAPPING_ICON_ALL_2]
-斡Se ve bien, hombre!
+ムSe ve bien, hombre!
 
 [msg RYUJI_MAPPING_ICON_KAIDA]
-斡S胤, eso es!
+ムSボ, eso es!
 
 [msg RYUJI_MAPPING_ICON_KAIDA_2]
-斡Perfecto!
+ムPerfecto!
 
 [msg RYUJI_MAPPING_CHANGE_COL]
-斡No est茨 mal!
+ムNo estホ mal!
 
 [msg RYUJI_MAPPING_CHANGE_COL_2]
-斡Genial!
+ムGenial!
 
 [msg RYUJI_MAPPING_ICON_DEL_1]
-Eh, sab胤a que har胤as eso.
+Eh, sabボa que harボas eso.
 
 [msg RYUJI_MAPPING_ICON_DEL_2]
 Podemos tirar eso.
 
 [msg RYUJI_MAPPING_MEMO_1]
-Eres bastante meticuloso, 夷verdad?
+Eres bastante meticuloso, メverdad?
 
 [msg RYUJI_MAPPING_MEMO_2]
 Whoa, genial.
 
 [msg RYUJI_DOOR_OPEN_1]
-斡Muy bien! 斡Vamos!
+ムMuy bien! ムVamos!
 
 [msg RYUJI_DOOR_OPEN_2]
-Jeje, 斡vamos, chicos!
+Jeje, ムvamos, chicos!
 
 [msg RYUJI_DOOR_OPEN_3]
-斡Ya me he adelantado!
+ムYa me he adelantado!
 
 [msg RYUJI_KARITORU_ENCOUNT_1]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg RYUJI_KARITORU_ENCOUNT_2]
-? ? Todav胤a no hay nada que ver
+? ? Todavボa no hay nada que ver
 
 [msg RYUJI_KARITORU_ENCOUNT_3]
-? ? Todav胤a no hay 姻xito
+? ? Todavボa no hay 〒xito
 

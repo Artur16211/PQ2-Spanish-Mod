@@ -2,79 +2,79 @@
 Por favor, espera un momento.
 
 [msg MSG_001 [P4 Hero]]
-夷Elizabeth...?
+メElizabeth...?
 
 [sel SEL_002 top]
-夷Qu姻 pasa?
-夷Ocurre algo?
+メQu〒 pasa?
+メOcurre algo?
 
 [msg MSG_003 [Elizabeth]]
 Mmm...
 Mm, mm, mm...
 
 [msg MSG_004 [P4 Hero]]
-夷...?
+メ...?
 
 [msg MSG_005 [Elizabeth]]
-Qu姻 grosero de mi parte...
-Inadvertidamente, he percibido un nuevo[n]"v胤nculo" desarroll茨ndose entre ustedes[n]dos.
+Qu〒 grosero de mi parte...
+Inadvertidamente, he percibido un nuevo[n]"vボnculo" desarrollホndose entre ustedes[n]dos.
 
 [msg MSG_006 [P4 Hero]]
-...夷Quieres decir [f 6 1 30 0 0 0] y yo?
+...メQuieres decir [f 6 1 30 0 0 0] y yo?
 
 [msg MSG_007 [Elizabeth]]
-Pero, 夷c吋mo puede ser? 夷Quiz茨s... porque[n]este encuentro normalmente no ser胤a[n]posible?
+Pero, メcポmo puede ser? メQuizホs... porque[n]este encuentro normalmente no serボa[n]posible?
 Sea cual sea el caso, esto es realmente[n]fascinante...
 
 [msg MSG_008 [Yosuke]]
-夷Un v胤nculo, ya? Eso es un poco[n]repentino, 夷ustedes sienten algo as胤?
+メUn vボnculo, ya? Eso es un poco[n]repentino, メustedes sienten algo asボ?
 
 [sel SEL_009 top]
-En realidad, s胤.
-No s姻...
+En realidad, sボ.
+No s〒...
 
 [msg MSG_010 [Ryuji]]
 Tengo una idea de lo que es...
-En la pel胤cula, [f 6 1 30 0 0 0] y [f 6 1 12 0 0 0] se[n]unieron y realizaron este ataque insano.
+En la pelボcula, [f 6 1 30 0 0 0] y [f 6 1 12 0 0 0] se[n]unieron y realizaron este ataque insano.
 
 [sel SEL_011 top]
 Cuando detuvimos a ese dinosaurio...
-S胤, lo olvid姻.
+Sボ, lo olvid〒.
 
 [msg MSG_012 [P4 Hero]]
-Es verdad, incluso yo me sorprend胤 de lo[n]茨gil que me sent胤a...
-Mi cuerpo parec胤a m茨s ligero, y pod胤a[n]sentir la energ胤a subiendo en m胤...
-As胤 es como logramos hacer que el[n]carn胤voro retrocediera con solo un[n]ataque.
+Es verdad, incluso yo me sorprendボ de lo[n]ホgil que me sentボa...
+Mi cuerpo parecボa mホs ligero, y podボa[n]sentir la energボa subiendo en mボ...
+Asボ es como logramos hacer que el[n]carnボvoro retrocediera con solo un[n]ataque.
 
 [msg MSG_013 [Yosuke]]
-夷En serio? 斡Eso es muy fuerte!
+メEn serio? ムEso es muy fuerte!
 
 [msg MSG_014 [P4 Hero]]
-Pero, 夷por qu姻 algo as胤 suceder胤a justo[n]ahora?
+Pero, メpor qu〒 algo asボ sucederボa justo[n]ahora?
 
 [msg MSG_015 [Elizabeth]]
-Todos ganaron la capacidad de manejar[n]m雨ltiples Personas debido a que aquellos con[n]el poder del comod胤n que se reunieron aqu胤...
-Entonces, este despertar de un poder a trav姻s[n]de los v胤nculos podr胤a ser un fen吋meno[n]espec胤fico de este mundo tambi姻n.
+Todos ganaron la capacidad de manejar[n]mマltiples Personas debido a que aquellos con[n]el poder del comodボn que se reunieron aquボ...
+Entonces, este despertar de un poder a trav〒s[n]de los vボnculos podrボa ser un fenポmeno[n]especボfico de este mundo tambi〒n.
 
 [msg MSG_016 [P4 Hero]]
-Coordinamos nuestro ataque en ese momento solo[n]por casualidad, pero si pudi姻ramos hacerlo[n]siempre que quisi姻ramos...
+Coordinamos nuestro ataque en ese momento solo[n]por casualidad, pero si pudi〒ramos hacerlo[n]siempre que quisi〒ramos...
 
 [msg MSG_017 [Elizabeth]]
-Entonces, 夷por qu姻 no desarrollar a雨n[n]m茨s esos v胤nculos?
+Entonces, メpor qu〒 no desarrollar aマn[n]mホs esos vボnculos?
 
 [sel SEL_018 top]
-夷Qu姻 quieres decir?
-夷C吋mo hacemos eso?
+メQu〒 quieres decir?
+メCポmo hacemos eso?
 
 [msg MSG_019 [Elizabeth]]
-En lugar de explicarlo con palabras,[n]ser胤a mejor que lo experimentaras por ti[n]mismo...
-Justo hay una proyecci吋n especial[n]relevante para esta ocasi吋n.
-Al profundizar los v胤nculos entre[n]ustedes, sospecho que surgir茨n poderes[n]adicionales...
-Si tienen tiempo, me gustar胤a que pasen[n]por la taquilla para que podamos[n]investigar esto m茨s a fondo.
-Con eso resuelto, por favor[n]disc雨lpeme...
+En lugar de explicarlo con palabras,[n]serボa mejor que lo experimentaras por ti[n]mismo...
+Justo hay una proyecciポn especial[n]relevante para esta ocasiポn.
+Al profundizar los vボnculos entre[n]ustedes, sospecho que surgirホn poderes[n]adicionales...
+Si tienen tiempo, me gustarボa que pasen[n]por la taquilla para que podamos[n]investigar esto mホs a fondo.
+Con eso resuelto, por favor[n]discマlpeme...
 
 [msg MSG_020]
-Despu姻s de completar ciertas misiones,[n]adquirir茨n "Habilidades de Uni吋n".
-Las Habilidades de Uni吋n son ataques poderosos[n]realizados por usuarios de Persona que han[n]fortalecido su v胤nculo entre ellos.
-Estos ser茨n 雨tiles dentro de las[n]pel胤culas, as胤 que aseg雨rate de[n]aprovecharlos al m茨ximo.
+Despu〒s de completar ciertas misiones,[n]adquirirホn "Habilidades de Uniポn".
+Las Habilidades de Uniポn son ataques poderosos[n]realizados por usuarios de Persona que han[n]fortalecido su vボnculo entre ellos.
+Estos serホn マtiles dentro de las[n]pelボculas, asボ que asegマrate de[n]aprovecharlos al mホximo.
 

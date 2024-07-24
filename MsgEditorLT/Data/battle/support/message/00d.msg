@@ -2,13 +2,13 @@
 Dummy
 
 [msg BTL_MES_013_001]
-Lo siento, pero no podemos retroceder. 斡La victoria ser茨 nuestra!
+Lo siento, pero no podemos retroceder. ムLa victoria serホ nuestra!
 
 [msg BTL_MES_013_002]
 ＜声Of＞負けrvけLPいかKい。 すeKいが、ここP退いGipうぞ！
 
 [msg BTL_MES_013_003]
-Un FOE... Retirarse ser胤a la mejor opci吋n.
+Un FOE... Retirarse serボa la mejor opciポn.
 
 [msg BTL_MES_013_004]
 ＜声Of＞ああ、こBpi 無茶yすr道理PKい
@@ -17,7 +17,7 @@ Un FOE... Retirarse ser胤a la mejor opci吋n.
 Un FOE... Pero este parece estar a nuestro alcance.
 
 [msg BTL_MES_013_006]
-斡Una Sombra rara...! 斡No dejes que escape!
+ムUna Sombra rara...! ムNo dejes que escape!
 
 [msg BTL_MES_013_007]
 ＜声Of＞KrbJ… 優先的L狙うIしoう
@@ -32,31 +32,31 @@ Un FOE... Pero este parece estar a nuestro alcance.
 ＜声Of＞承知した、山岸
 
 [msg BTL_MES_013_011]
-Esta parece poderosa... 夷Qu姻 hacemos?
+Esta parece poderosa... メQu〒 hacemos?
 
 [msg BTL_MES_013_012]
 ＜声Of＞退くか、進gか。 采配P任せr
 
 [msg BTL_MES_013_013]
-Un nuevo enemigo. Mantengan la calma y 斡encuentren su punto d姻bil!
+Un nuevo enemigo. Mantengan la calma y ムencuentren su punto d〒bil!
 
 [msg BTL_MES_013_014]
 ＜声Of＞戦闘,ー3O収集が必要AK krぞ！
 
 [msg BTL_MES_013_015]
-Esto no deber胤a ser un problema.
+Esto no deberボa ser un problema.
 
 [msg BTL_MES_013_016]
 ＜声Of＞戦力P五分五分OoうAK。 いくぞ！
 
 [msg BTL_MES_013_017]
-斡Los derrotaremos aqu胤 y ahora!
+ムLos derrotaremos aquボ y ahora!
 
 [msg BTL_MES_013_018]
 ＜声Of＞格下AかpIいDG 決しG侮rKo！
 
 [msg BTL_MES_013_019]
-夷Qu姻...? 夷La Sombra cambi吋?
+メQu〒...? メLa Sombra cambiポ?
 
 [msg BTL_MES_013_020]
 ＜声Of＞逃走失敗か… さG、Jうすr！？
@@ -65,7 +65,7 @@ Esto no deber胤a ser un problema.
 ＜声Of＞退くOi作戦Aぞ！
 
 [msg BTL_MES_013_022]
-斡Estamos en crisis! 斡Necesitamos un plan!
+ムEstamos en crisis! ムNecesitamos un plan!
 
 [msg BTL_MES_013_023]
 ＜声Of＞今P、回復y最優先H 進hrZきAtう
@@ -113,7 +113,7 @@ Esto no deber胤a ser un problema.
 ＜声Of＞4ミー
 
 [msg BTL_MES_013_038]
-＜声Of＞くD…威姻/ス！ こBpiフ隠ローL努hr！
+＜声Of＞くD…ミ〒/ス！ こBpiフワローL努hr！
 
 [msg BTL_MES_013_039]
 ＜声Of＞天田、しDかqしGくs！ すぐ援護すr！
@@ -125,13 +125,13 @@ Esto no deber胤a ser un problema.
 ＜声Of＞しDかqしt、荒垣！ 早く回復yしGkpKいI…
 
 [msg BTL_MES_013_042]
-＜声Of＞おい、大丈夫か！？ すぐLフ隠ローLあたr！
+＜声Of＞おい、大丈夫か！？ すぐLフワローLあたr！
 
 [msg BTL_MES_013_043]
-＜声Of＞ジョー吋ー、しDかqしt！ 早く手当GしKけsQ…！
+＜声Of＞ジョーポー、しDかqしt！ 早く手当GしKけsQ…！
 
 [msg BTL_MES_013_044]
-＜声Of＞こOeeHPス吋ルが危険A！ 早急L対処が必要Aぞ！
+＜声Of＞こOeeHPスポルが危険A！ 早急L対処が必要Aぞ！
 
 [msg BTL_MES_013_045]
 ＜声Of＞くD…パンサーが…！ こBpi、すぐ援護すr！
@@ -140,37 +140,37 @@ Esto no deber胤a ser un problema.
 ＜声Of＞Jうした、モ)！？ こOeeHP危険Aぞ！
 
 [msg BTL_MES_013_047]
-＜声Of＞大丈夫か、フ隠7クス！ くD…すぐL回復しKけsQ！
+＜声Of＞大丈夫か、フワ7クス！ くD…すぐL回復しKけsQ！
 
 [msg BTL_MES_013_048]
-＜声Of＞ク姻ーンがkpsGrぞ！ すぐL回復Lあたs！
+＜声Of＞ク〒ーンがkpsGrぞ！ すぐL回復Lあたs！
 
 [msg BTL_MES_013_049]
 ＜声Of＞4ミー
 
 [msg BTL_MES_013_050]
-＜声Of＞ノワール、しDかqしt！ こBpiフ隠ローすr！
+＜声Of＞ノワール、しDかqしt！ こBpiフワローすr！
 
 [msg BTL_MES_013_051]
-＜声Of＞クロ胤がkpsGいrぞ！ 早急K回復y！
+＜声Of＞クロボがkpsGいrぞ！ 早急K回復y！
 
 [msg BTL_MES_013_052]
 ＜声Of＞了解した。 すぐL楽LしGktう
 
 [msg BTL_MES_013_053]
-斡Ahora es mi turno! 斡Prep茨rate!
+ムAhora es mi turno! ムPrepホrate!
 
 [msg BTL_MES_013_054]
 ＜声Of＞フ7… eAeA、いけそうAK
 
 [msg BTL_MES_013_055]
-Perm胤teme exponer su debilidad.
+Permボteme exponer su debilidad.
 
 [msg BTL_MES_013_056]
-Un Relevo podr胤a sernos 雨til.
+Un Relevo podrボa sernos マtil.
 
 [msg BTL_MES_013_057]
-Supongo que ser茨 un desaf胤o de fuerza.
+Supongo que serホ un desafボo de fuerza.
 
 [msg BTL_MES_013_058]
 ＜声Of＞ああ、期待L応えGくs！
@@ -215,7 +215,7 @@ Supongo que ser茨 un desaf胤o de fuerza.
 ＜声Of＞4ミー
 
 [msg BTL_MES_013_072]
-＜声Of＞威姻/ス！ 敵O殲滅y開始しt！
+＜声Of＞ミ〒/ス！ 敵O殲滅y開始しt！
 
 [msg BTL_MES_013_073]
 ＜声Of＞天田、実力y見せEけGks！
@@ -230,10 +230,10 @@ Supongo que ser茨 un desaf胤o de fuerza.
 ＜声Of＞フ7…いい気合いA、期待しGrぞ！
 
 [msg BTL_MES_013_077]
-＜声Of＞お前O力、見せGくsジョー吋ー！
+＜声Of＞お前O力、見せGくsジョーポー！
 
 [msg BTL_MES_013_078]
-＜声Of＞bう…ずいWzI 頼iしいじjKいか、ス吋ル！
+＜声Of＞bう…ずいWzI 頼iしいじjKいか、スポル！
 
 [msg BTL_MES_013_079]
 ＜声Of＞パンサー！ 君O力、期待しGいrぞ！
@@ -242,10 +242,10 @@ Supongo que ser茨 un desaf胤o de fuerza.
 ＜声Of＞KpQ、モ)！ 遠慮KくkDGfせt！
 
 [msg BTL_MES_013_081]
-＜声Of＞Jうkp、フ隠7クスL eかせた方がoさそうAK
+＜声Of＞Jうkp、フワ7クスL eかせた方がoさそうAK
 
 [msg BTL_MES_013_082]
-＜声Of＞頼zAぞ、ク姻ーン。 君KpkDGくsrI信じGr
+＜声Of＞頼zAぞ、ク〒ーン。 君KpkDGくsrI信じGr
 
 [msg BTL_MES_013_083]
 ＜声Of＞4ミー
@@ -254,7 +254,7 @@ Supongo que ser茨 un desaf胤o de fuerza.
 ＜声Of＞ノワール、君O出番A。 フルパワーHいDGくs！
 
 [msg BTL_MES_013_085]
-＜声Of＞フ7、クロ胤Kp 完璧LキメGくsそうA
+＜声Of＞フ7、クロボKp 完璧LキメGくsそうA
 
 [msg BTL_MES_013_086]
 Supongo que es hora de mostrar de lo que soy capaz.

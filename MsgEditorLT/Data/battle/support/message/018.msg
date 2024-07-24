@@ -8,13 +8,13 @@ Lo mismo de siempre...
 ＜声Of＞bう、 勝負O時IいうこIAK
 
 [msg BTL_MES_024_003]
-Un FOE... Ser胤a mejor evitarlo.
+Un FOE... Serボa mejor evitarlo.
 
 [msg BTL_MES_024_004]
 ＜声Of＞そうAK ここP撤退i手か…
 
 [msg BTL_MES_024_005]
-Tal vez podamos ganar. 夷Nos quedamos a luchar?
+Tal vez podamos ganar. メNos quedamos a luchar?
 
 [msg BTL_MES_024_006]
 Mm... Esa debe ser una Sombra rara...
@@ -32,7 +32,7 @@ Mm... Esa debe ser una Sombra rara...
 ＜声Of＞vかDた、山岸さz
 
 [msg BTL_MES_024_011]
-Esa Sombra parece dif胤cil...
+Esa Sombra parece difボcil...
 
 [msg BTL_MES_024_012]
 ＜声Of＞KrbJ、行くか退くか。 見定hNQK
@@ -44,7 +44,7 @@ No hemos visto esa antes. Descubramos su debilidad.
 ＜声Of＞vかDた 情報y集hrぞ。
 
 [msg BTL_MES_024_015]
-No deber胤an ser un problema.
+No deberボan ser un problema.
 
 [msg BTL_MES_024_016]
 ＜声Of＞安心しGくs 大丈夫A
@@ -56,7 +56,7 @@ Esta no es una amenaza.
 ＜声Of＞eDたく、美しくKい…
 
 [msg BTL_MES_024_019]
-斡Ah! 斡La Sombra ha cambiado!
+ムAh! ムLa Sombra ha cambiado!
 
 [msg BTL_MES_024_020]
 ＜声Of＞危機的状況AK…
@@ -65,7 +65,7 @@ Esta no es una amenaza.
 ＜声Of＞無粋K奴pAK…
 
 [msg BTL_MES_024_022]
-Una situaci吋n muy desafortunada...
+Una situaciポn muy desafortunada...
 
 [msg BTL_MES_024_023]
 ＜声Of＞援護が必要AK
@@ -113,7 +113,7 @@ Una situaci吋n muy desafortunada...
 ＜声Of＞4ミー
 
 [msg BTL_MES_024_038]
-＜声Of＞威姻/スさzが心配AK… 回復O準備y！
+＜声Of＞ミ〒/スさzが心配AK… 回復O準備y！
 
 [msg BTL_MES_024_039]
 ＜声Of＞しDかqしt、天田！ 援護y準備A！
@@ -128,10 +128,10 @@ Una situaci吋n muy desafortunada...
 ＜声Of＞油断HきKい状況A… 回復O準備y！
 
 [msg BTL_MES_024_043]
-＜声Of＞しDかqしt、ジョー吋ー！ 援護y準備A！
+＜声Of＞しDかqしt、ジョーポー！ 援護y準備A！
 
 [msg BTL_MES_024_044]
-＜声Of＞しDかqしt、ス吋ル！ 援護y準備A！
+＜声Of＞しDかqしt、スポル！ 援護y準備A！
 
 [msg BTL_MES_024_045]
 ＜声Of＞パンサーが心配AK… 回復O準備y！
@@ -143,7 +143,7 @@ Una situaci吋n muy desafortunada...
 ＜声Of＞4ミー
 
 [msg BTL_MES_024_048]
-＜声Of＞ク姻ーンが心配AK… 回復O準備y！
+＜声Of＞ク〒ーンが心配AK… 回復O準備y！
 
 [msg BTL_MES_024_049]
 ＜声Of＞4ミー
@@ -152,13 +152,13 @@ Una situaci吋n muy desafortunada...
 ＜声Of＞ノワールが心配AK… 回復O準備y！
 
 [msg BTL_MES_024_051]
-＜声Of＞しDかqしt、クロ胤！ 援護y準備A！
+＜声Of＞しDかqしt、クロボ！ 援護y準備A！
 
 [msg BTL_MES_024_052]
 ＜声Of＞美しく散pせGktう…
 
 [msg BTL_MES_024_053]
-斡Morir茨s a manos de mi espada!
+ムMorirホs a manos de mi espada!
 
 [msg BTL_MES_024_054]
 ＜声Of＞フ7… 当然O結果AK
@@ -167,10 +167,10 @@ Una situaci吋n muy desafortunada...
 Creo que puedo aprovechar su debilidad.
 
 [msg BTL_MES_024_056]
-夷Un Relevo?
+メUn Relevo?
 
 [msg BTL_MES_024_057]
-斡D姻jame el resto a m胤!
+ムD〒jame el resto a mボ!
 
 [msg BTL_MES_024_058]
 ＜声Of＞Jうkp気合十分AK。 頼zAぞ。
@@ -215,7 +215,7 @@ Creo que puedo aprovechar su debilidad.
 ＜声Of＞4ミー
 
 [msg BTL_MES_024_072]
-＜声Of＞威姻/スさzO力… 拝見させGipおう
+＜声Of＞ミ〒/スさzO力… 拝見させGipおう
 
 [msg BTL_MES_024_073]
 ＜声Of＞ああ、天田eかせたぞ
@@ -230,10 +230,10 @@ Creo que puedo aprovechar su debilidad.
 ＜声Of＞すごい気迫A。 お手並f拝見Iいこう
 
 [msg BTL_MES_024_077]
-＜声Of＞魅せGks、ジョー吋ー
+＜声Of＞魅せGks、ジョーポー
 
 [msg BTL_MES_024_078]
-＜声Of＞ス吋ル、美しく暴sGks！
+＜声Of＞スポル、美しく暴sGks！
 
 [msg BTL_MES_024_079]
 ＜声Of＞遠慮P要pz。 弾けt、パンサー！
@@ -245,7 +245,7 @@ Creo que puedo aprovechar su debilidad.
 ＜声Of＞4ミー
 
 [msg BTL_MES_024_082]
-＜声Of＞ク姻ーン、いいぞ！ kDGks
+＜声Of＞ク〒ーン、いいぞ！ kDGks
 
 [msg BTL_MES_024_083]
 ＜声Of＞4ミー
@@ -254,8 +254,8 @@ Creo que puedo aprovechar su debilidad.
 ＜声Of＞ノワールKpQ 可憐LキメGくsrAtう
 
 [msg BTL_MES_024_085]
-＜声Of＞…クロ胤Kp問題KいAtう
+＜声Of＞…クロボKp問題KいAtう
 
 [msg BTL_MES_024_086]
-Les mostrar姻 lo elegante que puedo ser.
+Les mostrar〒 lo elegante que puedo ser.
 
