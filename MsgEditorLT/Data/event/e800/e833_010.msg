@@ -1,72 +1,72 @@
 [msg MSG_000 [Elizabeth]]
-The special screening this time is an[n]exploration of A.I.G.I.S.
-This time, the designated floor is[n]absolutely chock-full of treasure!
-And so, your glorious mission this time[n]is to gather all the filthy lucre you[n]can find.
+La proyecciポn especial esta vez es una exploraciポn de A.I.G.I.S.
+Esta vez, ムla zona estホ llena de tesoros!
+Y asボ, su gloriosa misiポn es reunir todo lo que puedan encontrar.
 
 [msg MSG_001 [Morgana]]
-Hehehe... Treasure, huh? You got my[n]attention!
+Je, je, je... メTesoro, eh? ムTienes mi atenciポn!
 
 [msg MSG_002 [Ryuji]]
-Don't get too excited, you friggin' cat.[n]We just gotta raid Treasure Spots,[n]right?
+No te emociones tanto, maldito gato. Solo tenemos que asaltar los Puntos del Tesoro, メverdad?
 
 [msg MSG_003 [Elizabeth]]
-Unfortunately, it won't be that easy.
-Along with these new Treasure Spots,[n]there are new warping points, as well.
-You will find the treasure past these[n]new warp zones.
+Desafortunadamente, no serホ tan fホcil.
+Ademホs de esos nuevos Puntos del Tesoro, tambi〒n habrホ nuevos teletransportadores.
+Encontrarホn el tesoro mホs allホ de estas nuevas zonas de teletransporte.
 
 [msg MSG_004 [Junpei]]
-Ugh... Warp zones are gonna throw us[n]everywhere? That's gonna mess up my Ace[n]Perspective...
+Uf... メLos teletransportadores nos van a llevar a cualquier parte? Esto va a estrpoear mi Superperspectiva.
 
 [msg MSG_005 [Ryuji]]
-*sigh* Dammit. It'd be a lot simpler if[n]we could just beat up a tough monster[n]and get the goods.
+*suspiro* Maldiciポn. Serボa mucho mホs simple si solo tuvi〒ramos que vencer a un enemigo fuerte y conseguir los objetos.
 
 [sel SEL_006 top]
-Stop complaining.
-No kidding.
+Deja de quejarte.
+No me digas.
 
 [msg MSG_007 [Haru]]
-*giggle* I must say, I agree. These[n]screenings have their own charm, too.
-Certainly, flashy action movies are[n]exciting, but not when they're all an[n]audience can watch.
+*risita* Debo de decir que estoy de acuerdo. Esas proyecciones tambi〒n tienen su propio encanto.
+Ciertamente, las pelボculas de acciポn son emocionantes, pero no cuando son lo マnico que el pマblico puede ver.
 
 [msg MSG_008 [Haru]]
-Oh? Not your type of movie? I myself[n]think these have a certain charm.
-Certainly, flashy action movies are[n]exciting, but not when they're all an[n]audience can watch.
+メNo es tu tipo de pelボcula? Yo misma creo que tienen cierto encanto.
+Ciertamente, las pelボculas de acciポn son emocionantes, pero no cuando son lo マnico que el pマblico puede ver.
 
 [msg MSG_009 [Ryuji]]
-Huh? Wait, what audience?
+メEh? Espera, メqu〒 pマblico?
 
 [msg MSG_010 [Mitsuru]]
-Hah. A fair point.
-Any movie can be a magnificent one...[n]All first-class actors know this to be[n]true.
+Ja. Un punto justo.
+Cualquier pelボcula puede ser magnボfica... Todos los actores de primera lo saben.
 
 [msg MSG_011 [Junpei]]
-Huh!? Well, I'm a first-class actor[n]myself! I could've told ya that!
-Then let's give this a shot! Stars don't[n]get to choose their jobs!
+ムメEh?! Bueno, ムyo soy un actor de primera! ムPodrボa hab〒rtelo dicho!
+ムEntonces intent〒moslo! ムLas estrellas no eligen su trabajo!
 
 [msg MSG_012 [Ryuji]]
-Man... All right, fine, let's get this[n]show on the road.
-There's gotta be Shadows out there, so[n]let's kick their asses, get the loot,[n]and make us some new weapons.
+Bro... Bueno, vale, pongamos este espectホculo en marcha.
+Tiene que haber sombras por allボ, asボ que vamos a acabar con ellas, conseguir el botボn y hacernos con nuevas armas.
 
 [msg MSG_013 [Haru]]
-I knew you'd come around! Let's use this[n]chance to make ourselves more powerful!
+ムSabボa que entrarボas en razポn! ムAprovechemos esta oportunidad para hacernos mホs poderosos!
 
 [msg MSG_014 [Mitsuru]]
-Having protectors like you around does[n]much to ease our minds. Now we can[n]gather treasure in peace.
-We're counting on the two of you.
+Tener protectores como ustedes cerca nos tranquiliza mucho. Ahora podemos reunir los tesoros tranquilos.
+Contamos con ustedes dos.
 
 [msg MSG_015 [Junpei]]
-Heheh, you got it!
+Je, je, je, ムlo has pillado!
 
 [msg MSG_016 [Ryuji]]
-Haha... Well, she got us good. Guess we[n]can't win, huh?
+Jaja... Bueno, nos engaワポ bien. Supongo que no podemos ganar, メeh?
 
 [msg MSG_017 [Shinjiro]]
-Geez. It's like they got brainwashed.[n]Still, I kind of admire that...
-Heh. Well if you're gonna be a leader,[n]maybe you can learn a thing or two.
+Caray. Es como si les hubieran lavado el cerebro. Aun asボ, lo admiro...
+Je. Bueno, si vas a ser un lボder, tal vez puedas aprender una o dos cosas.
 
 [msg MSG_018 [Mitsuru]]
-The floor layout's probably going to[n]change... We'll have to investigate.
+El diseワo de la planta probablemente cambiarホ... Tendremos que investigar.
 
 [msg MSG_019 [Haru]]
-Then once we're ready, let's set off.[n]Hopefully we'll find something worth the[n]trouble!
+Entonces, cuando estemos listos nos pondremos en marcha. ムEsperemos encontrar algo que merezca la pena!
 

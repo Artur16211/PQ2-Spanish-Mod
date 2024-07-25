@@ -1,23 +1,23 @@
 [msg MSG_000 [Yukiko]]
-And that's the third one!
+ムY ese es el tercero!
 
 [msg MSG_001 [Haru]]
-Good job, everyone. I'm so glad we were[n]able to succeed together!
+Bien hecho. ムMe alegro de que pudi〒ramos lograrlo juntos!
 
 [msg MSG_002 [Junpei]]
-Whew... That sure was a long walk, but[n]I'm feeling almost refreshed.
-I think everyone got to see me in[n]action... Yep, this movie's gonna be a[n]timeless classic.
+Uf... Fue una larga caminata, pero me siento casi renovado.
+Creo que todos pudieron verme en acciポn... Sボ, esta pelボcula va a ser un clホsico atemporal.
 
 [msg MSG_003 [Mitsuru]]
-*chuckle* You did well indeed. If only[n]you had such a work ethic all the time.
+*risita* Tマ tambi〒n lo hiciste bien, de hecho. Ojalホ trabajaras asボ todo el tiempo.
 
 [msg MSG_004 [Ryuji]]
-Well, it was fun. I guess these kinda[n]screenings ain't so bad.
+Bueno, fue divertido. Supongo que ese tipo de proyecciones no son tan malas.
 
 [msg MSG_005 [Morgana]]
-Hey, I put in work too! If you need a[n]treasure hunter, I'm your guy!
+ムOye, yo tambi〒n trabaj〒 duro! Si necesitas un cazador de tesoros, ムyo soy el indicado!
 
 [msg MSG_006 [Haru]]
-*giggle* I hope we get to do more of[n]these sorts of missions.
-Now, let's go back and report to[n]Elizabeth.
+*risita* Ojalホ tengamos que hacer mホs de este tipo de misiones.
+Ahora volvamos e informemos a Elizabeth.
 

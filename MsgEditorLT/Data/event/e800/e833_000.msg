@@ -1,90 +1,90 @@
 [msg MSG_000 [Junpei]]
-How long have we been going back and[n]forth like this? I can't take it any[n]more...
-C'mon, Joker, please! Can't we take a[n]break!?
+メCuホnto tiempo llevamos yendo y viniendo? No aguanto mホs...
+ムVamos, Joker, por favor! ムメPodemos tomar un descanso?!
 
 [sel SEL_001 top]
-Keep walking.
-Fine.
-Just a little one.
+Sigamos caminando.
+Muy bien.
+Solo un poco.
 
 [msg MSG_002 [Junpei]]
-Dang, Joker, why you gotta be like that?[n]I'm beggin' you here!
+Maldiciポn, Joker, メpor qu〒 tienes que ser asボ? ムTe lo suplico!
 
 [msg MSG_003 [Junpei]]
-That's what I like to hear, Joker! You[n]da man!
+ムEso es lo que me gusta oボr, Joker! ムEres lo mホs!
 
 [msg MSG_004 [Akihiko]]
-Is that all you've got, Junpei? You[n]might need to work on your stamina.
-Training when you're already tired can[n]teach you about your limits. Stand up![n]I'll train with you!
+メEso es todo lo que tienes, Junpei? Puede que necesites trabajar en tu resistencia.
+Entrenar cuando estホs cansado puede enseワarte a conocer tus lボmites. ムLevホntate! ムEntrenar〒 contigo!
 
 [msg MSG_005 [Junpei]]
-No way! I'd die mid-jumping-jack!
+ムImposible! ムMorirボa a mitad del salto!
 
 [msg MSG_006 [Mitsuru]]
-Hold on, Akihiko. Iori's fatigue is[n]perfectly understandable.
-Not only is this a complicated maze,[n]we're facing more and more vicious[n]enemies. Anyone would get tired.
+Espera, Akihiko. El cansancio de Iori es perfectamente entendible.
+No solo es un laberinto complicado, sino que nos enfrentamos a enemigos mホs feroces. Cualquiera se cansarボa.
 
 [msg MSG_007 [Junpei]]
-Y-Yeah, see!?
-I was just worried about everyone else,[n]see? My heart's aching, thinking about[n]everyone's poor feet!
+S-Si, ムメves?!
+Solo estaba preocupado por los demホs, メves? ムMe duele el corazポn de pensar en los pobres pies del resto!
 
 [msg MSG_008 [Yukari]]
-I don't know about that...
+No s〒...
 
 [msg MSG_009 [Mitsuru]]
-Either way, it's best not to force[n]ourselves. Let's take a break and[n]replenish our energy.
+De todos modos, es mejor no forzarnos. Tomemos un descanso y repongamos fuerzas.
 
 [msg MSG_010 [Ryuji]]
-But it feels like we've been goin'[n]nowhere this whole time! It's getting[n]annoying.
+ムPero parece que no hemos avanzado en todo este tiempo! Esto se estホ volviendo molesto.
 
 [msg MSG_011 [Haru]]
-Either way, if we stay calm and keep[n]moving, I'm sure we'll get there.
-Even if it's a dead end, we can still[n]enter that in the map. And that'll bring[n]us one step closer anyway!
+De todos modos, si estamos tranquilos y nos seguimos moviendo, seguro que llegamos allボ.
+Aunque sea un callejポn sin salida, podemos aワadirlo al mapa. ムY de todos modos, eso nos acercarホ mホs a nuestro destino!
 
 [msg MSG_012 [Naoto]]
-Hah... That's optimistic, at least. I[n]suppose you have a point.
-Let's take a break.
+Ja... Al menos es optimista. Supongo que tienes razポn.
+Tomemos un descanso.
 
 [msg MSG_013 [Morgana]]
-Hmm... Mitsuru and Noir are always so[n]calm. And when they speak, everyone[n]listens.
-They're both so regal, too. Is this what[n]it means to be "nobility"?
+Hmm... Mitsuru y Noir siempre estホn tan tranquilas. Y cuando hablan, todo el mundo las escucha.
+Tambi〒n son tan grandiosas. メEs esto lo que significa ser «noble»?
 
 [sel SEL_014 top]
-We should be like that.
-I'm calm too.
-I don't know...
+Asボ deberボamos de ser.
+Yo tambi〒n soy tranquilo.
+No lo s〒...
 
 [msg MSG_015 [Yosuke]]
-Haha... I don't know if you can just[n]pick it up. You've gotta be born with[n]it, I think.
-But they're both so beautiful, too...[n]I'd probably do anything they asked...
+Ja, ja... No s〒 si eso se puede adquirir. Supongo que tienes que nacer con eso.
+Pero ellas tambi〒n son tan guapas... Probablemente, harボa cualquier cosa que me pidieran...
 
 [msg MSG_016 [Chie]]
-If all you wanted was a powerful girl to[n]step on you, I could make that happen.
+Si todo lo que quieres es que una chica fuerte te pisotee, yo puedo hacer que eso suceda.
 
 [msg MSG_017 [Yosuke]]
-Haha. I mean, you are a leader, and you[n]do have a weird kinda dignity...
-But both of them are so gorgeous... I'd[n]do anything they asked me to...
+Ja, ja. Eres un lボder, y tienes una extraワa dignidad...
+Pero las dos son tan guapas... Harボa cualquier cosa que me pidieran...
 
 [msg MSG_018 [Chie]]
-If all you wanted was a powerful girl to[n]step on you, I could make that happen.
+Si todo lo que quieres es que una chica fuerte te pisotee, yo puedo hacer que eso suceda.
 
 [msg MSG_019 [Yosuke]]
-I mean... They're so calm, it makes you[n]feel like they know exactly what they're[n]doing.
-But on top of that, they're both so[n]beautiful... I'd do anything they asked[n]me to...
+Quiero decir... Son tan tranquilas, que te hace sentir que saben exactamente lo que estホn haciendo.
+Pero, por encima de ello, ambas son tan guapas... Harボa cualquier cosa que me pidieran...
 
 [msg MSG_020 [Chie]]
-If all you wanted was a powerful girl to[n]step on you, I could make that happen.
+Si todo lo que quieres es que una chica fuerte te pisotee, yo puedo hacer que eso suceda.
 
 [msg MSG_021 [Shinjiro]]
-Well, I guess it's true that people with[n]authority tend to carry themselves a[n]certain way.
-They're just used to controlling people.[n]That's how Mitsuru is.
+Bueno, supongo que es cierto que la gente con autoridad tiende a comportarse de cierta manera.
+Estホn acostumbrados a controlar a la gente. Asボ es Mitsuru.
 
 [msg MSG_022 [Yusuke]]
-Hm... Noir has a similar bearing. It's a[n]bit more subtle than Kirijo-san's,[n]though...
+Hm... Noir tiene un comportamiento similar. Aunque es un poco mホs sutil que el de Kirijo...
 
 [msg MSG_023 [Morgana]]
-I see... It might be because they're[n]both heiresses. Guess that's where the[n]charisma comes from.
+Ya veo... Puede ser porque ambas son herederas. Supongo que de ahボ viene el carisma.
 
 [msg MSG_024]
-A new special screening: "Heir Pressure"[n]has been added to the box office.
+Una nueva proyecciポn especial "Presiポn Heredera" ha sido aワadida a la taquilla.
 

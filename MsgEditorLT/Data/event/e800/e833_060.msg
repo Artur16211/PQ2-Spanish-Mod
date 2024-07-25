@@ -1,102 +1,102 @@
 [msg MSG_000 [Elizabeth]]
-Foraging onward on a treasure hunt for[n]the ages, the team finds a cache of[n]untold riches!
-How did you enjoy this fantastical[n]treasure hunt? Were you swimming in[n]coins, like a rich tycoon?
+ムEn una bマsqueda 〒pica bマsqueda del tesoro, el equipo encuentra un alijo de riquezas incalculables!
+メLes ha gustado esta fantホstica bマsqueda del tesoro? メNadaban en monedas, como un millonario?
 
 [msg MSG_001 [P3 Fem Protag]]
-Well... It didn't happen like that,[n]but... we definitely found a bunch of[n]treasure.
+Bueno... No sucediポ asボ, pero... definitivamente encontramos un montポn de tesoros.
 
 [msg MSG_002 [Elizabeth]]
-Indeed, I must commend you for your[n]sense of calm and responsibility.
-Why, nobody even complained about the[n]relative mundanity of this task...
-And nobody rushed ahead recklessly,[n]blinded by the prospect of riches.
+De hecho, debo elogiarles por su sentido de la calma y la responsabilidad.
+Pues, nadie siquiera se quejポ de esta tarea...
+Y nadie se precipitポ temerariamente, cegado por las riquezas.
 
 [msg MSG_003 [Junpei]]
-What? What're you talking about?
+メQu〒? メDe qu〒 estホs hablando?
 
 [msg MSG_004 [Ryuji]]
-Huh... Does that happen in movies?
+Eh... メEso ocurre en las pelボculas?
 
 [msg MSG_005 [Morgana]]
-Haha! Sounds like a rookie mistake.[n]That's definitely not us.
+ムJa, ja, ja! Parece un error de principiante. Definitivamente esos no somos nosotros.
 
 [msg MSG_006 [Shinjiro]]
-Heh... Someone put out those fires[n]before they got outta control.
-Guess that's thanks to those two.
+Je... Alguien apagポ esos fuegos antes de que se descontrolaran.
+Supongo que es gracias a esas dos.
 
 [msg MSG_007 [Mitsuru]]
-I've heard you're fond of gardening? Not[n]just horticultural theory―you even care[n]for the flowerbeds.
+He oボdo que te gusta la jardinerボa. No solo la teorボa hortボcola, sino que tambi〒n cuidas los parterres de flores.
 
 [msg MSG_008 [Haru]]
-Oh, you make it sound so impressive![n]It's little more than a hobby, really...
+Oh, ムhaces que suene tan impresionante! En realidad, es mホs bien un hobby...
 
 [msg MSG_009 [Mitsuru]]
-I'm currently trying to devise a plan[n]for my own garden. Do you suppose you[n]could give me some advice?
+Estoy intentando diseワar un plan para mi propio jardボn. メCrees que podrボas darme algマn consejo?
 
 [msg MSG_010 [Haru]]
-*giggle* I'd be more than happy to. I'll[n]consult some gardener friends...
+*risita* Estarボa mホs que contenta. Consultar〒 a algunos amigos jardineros...
 
 [sel SEL_011 top]
-What's going on?
-Double empresses?
+メQu〒 estホ ocurriendo?
+メDoble emperatriz?
 
 [msg MSG_012 [Shinjiro]]
-Not much we can do against it. No matter[n]how much power we got, we can't beat[n]that aura.
+No hay mucho que podamos hacer contra ella. No importa cuホnto poder tengamos, no podemos vencer esa aura.
 
 [msg MSG_013 [Yusuke]]
-Hm... It's difficult to describe with[n]words. They have some natural ability to[n]command others...
-So that must be what charisma is. I[n]suppose it's a skill, in its own way.
+Hm... Es difボcil describirlo con palabras. Tienen una habilidad natural para comandar a los demホs...
+Eso debe de ser carisma. Supongo que es una habilidad, a su manera.
 
 [sel SEL_014 top]
-I still don't get it.
-I want to be like that.
+Sigo sin entenderlo.
+Quiero ser como ellas.
 
 [msg MSG_015 [Shinjiro]]
-Hah... I guess it's hard to explain.
+Ja... Supongo que es difボcil de explicar.
 
 [msg MSG_016 [Shinjiro]]
-Hah. It's not something you can just[n]learn to be. Don't worry about it.
+Ja. No es algo que puedas aprender a ser. No te preocupes por ello.
 
 [msg MSG_017 [Shinjiro]]
-They both think pretty highly of you,[n]anyway. Have some confidence.
+Ambas piensan muy bien de ti, de todos modos. Ten un poco de confianza.
 
 [msg MSG_018 [Haru]]
-Ah, so your passions lie with tea!
+ムAh, asボ que te apasiona el t〒!
 
 [msg MSG_019 [Mitsuru]]
-I'm more of an enthusiast than an[n]authority, but you're welcome to join me[n]for a cup.
-I keep some fine leaves on me for such[n]occasions. I'd be happy to share with[n]someone who appreciates them.
+Soy mホs bien una entusiasta, pero te invito a tomar una copa.
+Guardo algunas hojas finas para estas ocasiones. Estar〒 encantada de compartirlas con alguien que las aprecie.
 
 [msg MSG_020 [Haru]]
-Oh, most certainly! I'd be delighted to[n]provide some scones.
-You see, there's this pastry shop run by[n]a friend of the family since my[n]grandfather's days...
+Oh, ムpor supuesto! Estar〒 encantado de proporcionar algunos bollos.
+Verホs, hay una pastelerボa regentada por un amigo de la familia desde los tiempos de mi abuelo...
 
 [msg MSG_021 [Mitsuru]]
-Oh? That does sound promising. I'd be[n]more than happy to sit down for a[n]discussion sometime.
+Eso suena prometedor. Estarボa mホs que feliz de sentarme a charlar algマn dボa.
 
 [msg MSG_022 [Chie]]
-H-Hey, do they live in a totally[n]different world from us...?
-Don't lose, Yosuke! Fight for the pride[n]of Junes!
+E-Ey, メellas viven en un mundo totalmente diferente al nuestro...?
+ムNo pierdas, Yosuke! ムLucha por el orgullo del Junes!
 
 [msg MSG_023 [Yosuke]]
-Uh, screw that! We're there for the[n]commoners!
+ムBah, olvボdalo! ムEstamos ahボ por la gente comマn!
 
 [msg MSG_024 [Haru]]
-Oh, everyone else is welcome too!
+Oh, ムTodos tambi〒n son bienvenidos!
 
 [msg MSG_025 [Mitsuru]]
-Yes. Perhaps when all this is taken care[n]of, a small party is in order.
+Sボ. Quizホs, cuando todo esto est〒 resuelto, sea apropiado hacer una pequeワa fiesta.
 
 [msg MSG_026 [Chie]]
-Really!? All right! Time for a barbecue[n]party! Goblets full of steak sauce!
+ムメEn serio?! ムMuy bien! ムHora de una fiesta de barbacoa! ムCopas llenas de salsa de carne!
 
 [msg MSG_027 [Yosuke]]
-They said it's a tea party! If you're[n]gonna guzzle steak sauce, do it[n]somewhere else!
+ムDijeron que era una fiesta de t〒! ムSi vas a engullir salsa de carne, hazlo en otro sitio!
 
 [msg MSG_028 [Shinjiro]]
-Mitsuru used to be so detached from the[n]rest of us, nobody would ever talk to[n]her. But now...
-Looks like she's doing pretty good for[n]herself. I guess things are finally[n]starting to change.
+Mitsuru solボa ser tan distante del resto de nosotros que nadie le hablaba. Pero ahora...
+Parece que le estホ yendo bastante bien. Supongo que las cosas por fin empiezan a cambiar.
 
 [msg MSG_029 [Yusuke]]
-It's a relief to see that gentleness in[n]Haru's expression again...
-They say meeting new people changes our[n]outlook. I suppose we should cherish[n]these encounters...
+Es un alivio volver a ver esa dulzura en la expresiポn de Haru...
+Dicen que conocer gente nueva nos cambia la perspectiva. Supongo que deberボamos valorar estos encuentros...
 
