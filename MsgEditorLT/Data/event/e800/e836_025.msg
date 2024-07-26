@@ -1,7 +1,7 @@
 [msg MSG_000 [Fuuka]]
-Oh no! It's another FOE...!
+ムOh, no! ムEs otro FOE...!
 
 [msg MSG_001 [P3 Hero]]
-Yikes. They're just gonna keep coming at[n]us.
-At this rate, we'll just wear ourselves[n]out. We should probably just avoid it.
+Vaya. Van a seguir persigui〒ndonos.
+A este paso, nos agotaremos. Probablemente deberボamos evitarlo.
 

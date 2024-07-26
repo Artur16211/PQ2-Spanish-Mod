@@ -1,50 +1,50 @@
 [msg MSG_000 [Fuuka]]
-Good job, everyone! That's the first[n]one!
+ムBuen trabajo! ムEse es el primero!
 
 [msg MSG_001 [Junpei]]
-All right! We just need two more, right?
-But this is gonna power up our[n]navigators, huh? Wonder what powers[n]they'll get?
+ムMuy bien! Solo necesitamos dos mホs, メverdad?
+Pero esto va a potenciar a nuestras navegadoras, メno? Me pregunto qu〒 poderes conseguirホn.
 
 [msg MSG_002 [Akihiko]]
-Hm... Maybe something like Auto-Protein?[n]It can automatically give us a boost of[n]protein!
+Hm... メQuizホs algo como Auto-Proteボna? ムPodrボa darnos automホticamente un aumento de proteボnas!
 
 [msg MSG_003 [Ken]]
-Well... I'd like something cooler. Maybe[n]they'll be able to generate beam sabers[n]for us!
+Bueno... Me gustarボa algo mホs guay. ムQuizホs sean capaces de generarnos sables lホser!
 
 [msg MSG_004 [Futaba]]
-Sorry to break it to you, guys, but beam[n]sabers aren't in the cards. Or protein,[n]either.
+Siento decボroslo, chicos, pero los sables lホser no estホn en nuestros planes. Ni tampoco las proteボnas.
 
 [msg MSG_005 [Akihiko]]
-Bah, figures...
+Bah, era de esperar...
 
 [msg MSG_006 [Ken]]
-O-Of course not...
+P-Por supuesto que no...
 
 [msg MSG_007 [Fuuka]]
-We're looking to increase our speed and[n]our information streaming so we can work[n]even better as a group.
-I think I should be able to hack[n]something like that together... I'm sure[n]it'll help!
+Queremos aumentar nuestra velocidad y nuestro flujo de informaciポn para que asボ podamos trabajar aマn mejor como equipo.
+Creo que deberボa de ser capad de montar algo asボ... ムSeguro que serホ de gran ayuda!
 
 [msg MSG_008 [Yosuke]]
-You say that like it's easy, but the[n]fact that you can just invent new tech[n]like that is amazing...
+Dices que es fホcil, pero el hecho de que puedas crear nueva tecnologボa es alucinante...
 
 [msg MSG_009 [Rise]]
-I know, right? It's crazy what Oracle[n]and Fuuka-chan can do with all this[n]engineering stuff!
-They're our navigator dream team! They[n]can do anything!
+Lo s〒, メverdad? ムEs una locura lo que Oracle y Fuuka pueden hacer con todas estas cosas de ingenierボa!
+ムSon nuestro equipo de navegaciポn de ensueワo! ムPueden hacer cualquier cosa!
 
 [msg MSG_010 [Fuuka]]
-O-Oh, I don't know... Your navigation[n]skills are just as good as ours.
+O-Oh, no s〒... Tus habilidades de navegaciポn son tan buenas como las nuestras.
 
 [msg MSG_011 [Futaba]]
-Yeah! She's accurate, she keeps things[n]simple, and hello, she's an IDOL! Who[n]wouldn't love having her around?
+Sボ. Es precisa, hace que las cosas sean simples, y, ムes una IDOL! メA qui〒n no le gustarボa tenerla cerca?
 
 [msg MSG_012 [P4 Hero]]
-Each navigator is different and unique.
-But there's one thing they all have, and[n]that's incredible skill. That's why we[n]can explore without worrying.
+Cada navegadora es diferente y マnica.
+Pero hay una cosa que todas tienen, y eso es una habilidad increボble. Es por ello por lo que podemos explorar sin preocuparnos.
 
 [msg MSG_013 [Rise]]
-Eheheh... Well, when Senpai says it like[n]that...!
-But this'll help us power up even more![n]So be ready, okay?
+Je, je, je... Bueno, ムcuando lo dices asボ...!
+ムPero esto nos ayudarホ a potenciarnos aマn mホs! Asボ que prepホrense, メvale?
 
 [msg MSG_014 [Fuuka]]
-Do your best to find the last two[n]pieces, everyone!
+ムHaced todo lo posible por encontrar las dos マltimas piezas!
 

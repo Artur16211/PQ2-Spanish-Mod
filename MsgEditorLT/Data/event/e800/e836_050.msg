@@ -1,71 +1,71 @@
 [msg MSG_000 [Futaba]]
-Nice! That's all of 'em! We got all the[n]parts we need!
+ムBien! ムEso es todo! ムTenemos todas las piezas que necesitamos!
 
 [msg MSG_001 [P4 Hero]]
-Now we just need to get it back safely.[n]We'll be there soon.
+Ahora solo tenemos que llevarlas a salvo. Llegaremos pronto.
 
 [msg MSG_002 [Fuuka]]
-*giggle* I'm getting excited just[n]thinking about building it!
-I haven't been able to tinker with any[n]of these mechs, so it's kind of a[n]thrill...
+*risita* ムMe estoy emocionando solo de pensar en construirlo!
+No he podido jugar con ninguno de estos mechas, asボ que es emocionante...
 
 [msg MSG_003 [Futaba]]
-Mweheheh... One step closer to evolving[n]into our new forms.
+Mue, je, je... Estamos a un paso mホs cerca de evolucionar a nuestras nuevas formas.
 
 [msg MSG_004 [Fuuka]]
-You know, something occurred to me when[n]we were talking about the turret's[n]tech...
+Sabes, se me ocurriポ algo cuando hablホbamos de la tecnologボa de la torreta...
 
 [msg MSG_005 [Futaba]]
-Oh, whatcha got? Lay it on me!
+メQu〒 tienes? ムDボmelo!
 
 [msg MSG_006 [Junpei]]
-Those two are real techies, huh? Sounds[n]like they even do this stuff in their[n]free time.
-I figured girls usually liked, y'know...[n]shopping, and desserts, and popular[n]stuff.
+Esas dos son verdaderas t〒cnicas, メeh? Parece que incluso hacen estas cosas en su tiempo libre.
+Pensaba que a las chicas normalmente les gustaba, ya sabes... ir de compras, los postres y las cosas populares.
 
 [msg MSG_007 [Yosuke]]
-I dunno. Chie's not really into that.
+No s〒. A Chie no le va mucho eso.
 
 [msg MSG_008 [Chie]]
-Wha―H-Hey, I do that stuff!
-I've gone out to shop for steak, and[n]check out popular new fighting styles,[n]and practice them down by the river!
+メQu〒? ムEy, yo hago de esas cosas!
+ムHe ido a comprar filetes, a ver nuevos estilos de lucha populares y a practicarlos junto al rボo!
 
 [msg MSG_009 [Yosuke]]
-Uhh... I shouldn't have said anything.
+Uhh... No deberボa de haber dicho nada.
 
 [msg MSG_010 [Futaba]]
-Okay, we can save the chatting for[n]later. Let's get you back to the[n]theater.
-Wait... Oh, crap!
+Vale, nos podemos ahorrar la charla para luego. Volved al cine.
+Espera... ムOh, maldiciポn!
 
 [msg MSG_011 [Yusuke]]
-What's going on, Oracle? Is there a[n]problem?
+メQu〒 ocurre, Oracle? メHay algマn problema?
 
 [msg MSG_012 [Lab security]]
-UNAUTHORIZED PRESENCE DETECTED.[n]UNAUTHORIZED PRESENCE DETECTED.
-ALL UNITS, CONVERGE ON INTRUDERS. I[n]REPEAT, UNAUTHORIZED PRESENCE DETECTED.
+PRESENCIA NO AUTORIZADA DETECTADA. PRESENCIA NO AUTORIZADA DETECTADA,
+TODAS LAS UNIDADES, VAYAN A POR LOS INTRUSOS. REPITO, PRESENCIA NO AUTORIZADA DETECTADA.
 
 [msg MSG_013 [Rise]]
-Guys, this is bad! We're reading a huge[n]spike in Shadow presence! You're[n]surrounded!
+ムChicos, esto es grave! Estamos detectando un gran aumento en la presencia de sombras. ムEstホn rodeados!
 
 [msg MSG_014 [Chie]]
-Wait, seriously!? We're in some deep[n]trouble!
+Espera, ムメen serio?! ムEstamos en un gran problema!
 
 [msg MSG_015 [Fuuka]]
-Try to stay calm. I'll analyze the[n]situation.
-Rise-chan, please search for a safe[n]route.
+Intentad permanecer tranquilos. Voy a analizar la situaciポn.
+Rise, busca por favor una ruta segura.
 
 [msg MSG_016 [Rise]]
-Roger that!
+ムEntendido!
 
 [msg MSG_017 [Futaba]]
-I'll check for other Shadows around the[n]area.
-Guys, just stay put for a second or two.[n]We'll help guide you!
-Just hang in there a little longer!
+Yo comprobar〒 si hay mホs sombras por la zona.
+Chicos, qu〒dense quietos un segundo o dos. ムLes ayudaremos a guiarse!
+ムSolo aguantad un poco mホs!
 
 [msg MSG_018 [Mitsuru]]
-Tsk. I suppose a fight is unavoidable.
+Tsk. Supongo que esta es una batalla inevitable.
 
 [msg MSG_019 [Akihiko]]
-Hmph. I'll just knock them out. I was[n]just thinking I wanted to punch[n]something!
+Hmph. Voy a noquearlos. ムJusto estaba pensando que querボa golpear algo!
 
 [msg MSG_020 [Fuuka]]
-The enemy's coming! Be careful!
+ムViene el enemigo! ムCuidado!
 

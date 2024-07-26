@@ -1,85 +1,85 @@
 [msg MSG_000 [Fuuka]]
-Rise-chan, Futaba-chan... Could I have a[n]moment?
+Rise, Futaba... メMe permiten un momento?
 
 [msg MSG_001 [Rise]]
-What's wrong?
+メQu〒 ocurre?
 
 [msg MSG_002 [Fuuka]]
-Um... We've got a lot of fighting ahead[n]of us in this world, so...
-I think it's safe to say we'll have some[n]big battles ahead, right?
+Um... Tenemos muchas peleas por delante en este mundo, asボ que...
+Creo que es seguro decir que tendremos algunas grandes batallas por delante, メverdad?
 
 [msg MSG_003 [Futaba]]
-For sure. I'm getting a bunch of "final[n]boss coming up" vibes.
+Por supuesto. Estoy sintiendo un montポn de vibras de «jefe final acercホndose».
 
 [msg MSG_004 [Fuuka]]
-So... I was thinking everyone's going to[n]need our support more than ever.
+Entonces... estaba pensando que todos van a necesitar nuestro apoyo mホs que nunca.
 
 [msg MSG_005 [Rise]]
-Okay, so you want to upgrade our[n]navigation power somehow?
+Vale, メentonces quieres mejorar nuestro poder de navegaciポn de alguna forma?
 
 [msg MSG_006 [Fuuka]]
-Yeah. I want to see if there's something[n]we can do to build up our power into[n]something more.
+Sボ. Quiero ver si hay algo que podamos hacer para aumentar aマn mホs nuestro poder.
 
 [msg MSG_007 [Futaba]]
-Whoa, like training in a hyperbaric time[n]chamber! I could get into that!
-Oh, but just FYI, I'm not sitting under[n]any waterfalls. Whatever we do, it[n]better not be manual labor.
+ムVaya, como entrenar en una habitaciポn del tiempo! ムEso me gustarボa!
+Oh, pero para tu informaciポn, no me sentar〒 bajo ninguna cascada. Hagamos lo que hagamos, mejor que no sea trabajo manual.
 
 [msg MSG_008 [Rise]]
-Most of our navigation is through our[n]Personas. I guess we can't just get[n]better that easily...
+La mayor parte de nuestra navegaciポn es a trav〒s de nuestras Personas. Supongo que no podemos mejorar tan fホcilmente...
 
 [msg MSG_009 [Futaba]]
-Yeah, it's not like we can just hook[n]some dragon up with a ball collection in[n]exchange for more power...
-...But maybe there's some sort of[n]power-up we could use. Or some cheats?
+Sボ, no es como si pudi〒ramos simplemente darle a un dragポn una colecciポn de bolas  a cambio de mホs poder...
+... Pero quizホs hay algマn tipo de poder que podrボamos utilizar. メO algマn truco?
 
 [msg MSG_010 [Fuuka]]
-Oh, you know... This was before I joined[n]the Specialized Extracurricular[n]Execution Squad...
-Mitsuru-senpai performed navigator[n]duties using a machine that helped[n]amplify her searching abilities.
+Oh, saben... Esto fue antes de unirme a la Sociedad Extraescolar de Ejecuciポn de Sombras...
+Mitsuru se encargaba de las tareas de navegaciポn utilizando una mホquina que le ayudaba a amplificar sus habilidades de bマsqueda.
 
 [msg MSG_011 [Futaba]]
-It helped her search better? So it was[n]like a personal radar?
+メLe ayudaba a buscar mejor? メAsボ que era como un radar personal?
 
 [msg MSG_012 [Fuuka]]
-Yes. It was some kind of machine, but it[n]helped refine her powers.
-Obviously we can't use Mitsuru-senpai's,[n]but if we could design a similar comms[n]system...
+Sボ. Era una especie de mホquina, pero le ayudポ a refinar sus poderes.
+Obviamente no podemos utilizar la de Mitsuru, pero si pudi〒ramos diseワar un sistema de comunicaciones similar...
 
 [msg MSG_013 [Rise]]
-Oh! That's a good idea! Sometimes it[n]seems like we really have trouble[n]contacting them.
-Wouldn't it be great if we had some[n]communication machine that told us what[n]everyone was doing?
+ムOh! ムQu〒 buena idea! A veces parece que nos cuesta contactar con ellos.
+メNo serボa genial tener una mホquina de comunicaciポn que nos dijera lo que estホ haciendo todo el mundo?
 
 [msg MSG_014 [Fuuka]]
-I agree. And I think I can make one, if[n]we can find the right parts.
+Estoy de acuerdo. Y creo que puedo fabricar una, si podemos encontrar las piezas adecuadas.
 
 [msg MSG_015 [Futaba]]
-If you need parts, then Ribbon's movie[n]might be a good place to look.
-There's a ton of Shadows and FOEs in[n]there that would probably drop stuff we[n]can use.
+Si necesitas piezas, la pelボcula de Ribbon podrボa ser un buen lugar para buscar.
+Allボ habボa un montポn de sombras y FOEs que probablemente suelten cosas que podamos usar.
 
 [msg MSG_016 [Rise]]
-I dunno for sure if it'll work, but it's[n]definitely worth a shot!
-Why don't we get started now? You guys[n]wait here!
+No s〒 si funcionarホ, ムpero merece la pena intentarlo!
+メPor qu〒 no empezamos ya? ムEy chicos, esperadnos aquボ!
 
 [msg MSG_017 [Futaba]]
-H-Hey! Where are you going?
+ムE-Ey! メA dポnde vas?
 
 [msg MSG_018 [Rise]]
-I'm baaack!
+ムHe vuelto!
 
 [msg MSG_019 [Fuuka]]
-Rise-chan, is that...?
+Rise, メeso es...?
 
 [msg MSG_020 [Rise]]
-I told Elizabeth our story, and had her[n]make a ticket.
-We put out a request! "Please gather[n]some machinery"!
+Le he contado nuestra historia a Elizabeth, y le pedボ que hiciera un ticket.
+ムHicimos una solicitud! "ムPor favor, reマnan maquinaria!"
 
 [msg MSG_021 [Futaba]]
-Whoa! GJ Rise!
-Looking for those parts on our own would[n]have been like playing on Risky Mode!
+ムHala! ムBien hecho, Rise!
+ムBuscar esas piezas por nuestra cuenta habrボa sido como jugar en Modo Experto!
 
 [msg MSG_022 [Rise]]
-Well, keep in mind that they might not[n]even pick it up, but we can be patient,[n]right?
+Bueno, tengan en cuenta que puede que ni siquiera recojan el ticket, pero podemos ser pacientes, メno?
 
 [msg MSG_023 [Fuuka]]
-Definitely. Still, I hope they accept[n]our request soon!
+Desde luego. Aun asボ, ムespero que acepten pronto nuestra peticiポn!
 
 [msg MSG_024]
-A new special screening: "Social[n]Network" has been added to the box[n]office.
+Una nueva proyecciポn especial: "Red Social" ha sido aワadida a la taquilla.
 

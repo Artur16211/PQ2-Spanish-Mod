@@ -1,52 +1,52 @@
 [msg MSG_000 [Elizabeth]]
-The request this time is to "gather[n]parts for a communication device."
-Defeat the Roaring Turret within the[n]A.I.G.I.S. movie, and...
-Gather three Futuristic Gizmos from its[n]remains.
+La solicitud esta vez es "reunir piezas para un dispositivo de comunicaciポn".
+Derrotad al Roaring Turret en la pelボcula de A.I.G.I.S., y...
+Recojan tres Gizmos Futuristas de sus restos.
 
 [msg MSG_001 [Ryuji]]
-This is for some "communication device"?[n]The hell's that supposed to mean?
+メEsto es para un "dispositivo de comunicaciones"? メQu〒 diablos se supone que significa eso?
 
 [msg MSG_002 [Elizabeth]]
-This request specifically comes from the[n]three navigatrices of your team.
+Esta solicitud procede concretamente de las tres navegadoras de su equipo.
 
 [msg MSG_003 [P4 Hero]]
-Navigatrices...? You mean Rise and the[n]others?
+メNavegadoras...? メTe refieres a Rise y las demホs?
 
 [msg MSG_004 [Rise]]
-Yeah! So, the thing is...
+ムSボ! Entonces, la cosa es...
 
 [msg MSG_005 [Mitsuru]]
-That's familiar. A communication device[n]that'll increase your navigational[n]abilities...?
+Me resulta familiar. メUn dispositivo de comunicaciポn que aumentarホ sus habilidades de navegaciポn...?
 
 [msg MSG_006 [Fuuka]]
-Right. We don't want to ask the[n]impossible, so... What do you all think?
+Cierto. No queremos pedir lo imposible, asボ que... メUstedes qu〒 piensan?
 
 [msg MSG_007 [Ryuji]]
-What do ya think, [f 6 1 30 0 0 0]?
+メQu〒 opinas, [f 6 1 30 0 0 0]?
 
 [sel SEL_008 top]
-We're on it.
-Sounds kind of hard.
+Nos pondremos a ello.
+Suena algo difボcil.
 
 [msg MSG_009 [Ryuji]]
-Yeah! Let's do this!
+ムSボ! ムHagホmoslo!
 
 [msg MSG_010 [Ryuji]]
-Aw, man... We can at least try, right?
-If we can pull this off, it'll make[n]battles easier too, dontcha think?
+Ay, bro... Al menos podemos intentarlo, メverdad?
+Si lo conseguimos, las batallas tambi〒n serホn mホs fホciles, メno crees?
 
 [msg MSG_011 [Mitsuru]]
-Indeed. It seems like a fine pursuit―[n]for the practical advantages, if nothing[n]else.
+Ya lo creo. Parece una buena opciポn, aunque solo sea por sus ventajas prホcticas.
 
 [msg MSG_012 [Futaba]]
-Really!? You guys'll take it?
+ムメEn serio?! メUstedes lo harホn?
 
 [msg MSG_013 [Chie]]
-Of course! Even if it wasn't gonna make[n]us stronger, it's a request from our[n]friends!
+ムPor supuesto! Aunque no nos hiciera mホs fuertes, ムes una peticiポn de nuestras amigas!
 
 [msg MSG_014 [Yusuke]]
-I agree. There seems little sense in[n]denying the request. I shall help.
+Estoy de acuerdo. No parece tener mucho sentido denegar la solicitud. Ayudar〒.
 
 [msg MSG_015 [Rise]]
-Thanks so much, everyone! I'm counting[n]on you guys!
+ムMuchas gracias a todos! ムCuento con ustedes, chicos!
 
