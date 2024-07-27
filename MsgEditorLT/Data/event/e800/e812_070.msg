@@ -40,7 +40,7 @@ Jeje, no te olvides de nuestro tiempo de charlar. Theo tendrホ que trabajar ext
 ムOh, estoy tan emocionada! ムTenemos mucho de qu〒 hablar!
 
 [msg MSG_012 [Ryuji]]
-Tボo, las chicas se hacen amigas tan jodidamente rホpido...
+Las chicas se hacen amigas tan jodidamente rホpido...
 
 [msg MSG_013 [Yusuke]]
 Suelen hablar mucho para conocerse. Es un ホmbito en el que nunca podrボa superarles.

@@ -91,7 +91,7 @@ C'mon over, gang! Just follow my[n]pheromones!
 The butterflies are swarming...
 
 [msg MSG_028 [Hikari]]
-......!
+...!
 Teddie, no! Get back!
 
 [msg MSG_029 [Fuuka]]

@@ -27,7 +27,7 @@ Ja, ja... Por ninguna razポn en particular.
 De todos modos, Joker toma la decisiポn final. Supongo que solo querボa tu opiniポn como referencia.
 
 [msg MSG_008 [Shinjiro]]
-......
+...
 Ni idea.
 Por lo que sabemos, ninguno de los dos es correcto.
 

@@ -7,7 +7,7 @@ Esto es peligroso.
 
 [msg MSG_002 [Futaba]]
 P-Perdポn... Parecボa divertido, asボ que pens〒 en acompaワaros.
-ムNo os molestar〒! ムPor favor, dejadme ir con vosotros!
+ムNo los molestar〒! ムPor favor, déjenme ir con ustedes!
 
 [msg MSG_003 [Morgana]]
 Eso no deberボa ser un problema, メverdad? De todos modos, ella suele venir con nosotros.

@@ -1,6 +1,6 @@
 [msg MSG_000 [Margaret]]
 Hmhm... Y asボ he perdido.
-He sentido resonar vuestro poder a trav〒s de todo mi cuerpo. Nunca imagin〒 que me emocionarボan tanto...
+He sentido resonar su poder a trav〒s de todo mi cuerpo. Nunca imagin〒 que me emocionarボan tanto...
 
 [sel SEL_001 top]
 Gracias.
@@ -26,7 +26,7 @@ La pelボcula de hollボn estホ brillando d〒bilmente...
 Whoaaa, ムahora estホ brillando! ムEso significa que lo hemos conseguido!
 
 [msg MSG_008]
-ム......!
+ム...!
 Las dos partes de pelボcula ahora estホn brillando mホs...
 
 [msg MSG_009 [P4 Hero]]
@@ -115,7 +115,7 @@ Deberボa haber otra recompensa para ellos. Dホsela de inmediato.
 ムOooh! ムTenemos otra mホs!
 
 [msg MSG_032 [Elizabeth]]
-......
+...
 ムVaya! Lo habボa olvidado, como suele decirse. Supongo que se me olvidポ mientras observaba la batalla.
 Naturalmente, fue un mero accidente, y no un intento de hurtarlo durante las largas conversaciones.
 Por favor, acepten esto.

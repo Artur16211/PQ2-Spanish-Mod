@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 Esta proyecciポn especial se centra en los grafitis de la pelボcula de Kamoshidaman...
 Parece que uno de esos dibujos ha cambiado drホsticamente.
-Esta vez vuestro objetivo es encontrar el grafiti que es diferente del resto... Eso es todo.
+Esta vez su objetivo es encontrar el grafiti que es diferente del resto... Eso es todo.
 
 [msg MSG_001 [Makoto]]
 Cuando dices grafiti, quieres decir arte callejero, メverdad?
@@ -13,7 +13,7 @@ Eso quiere decir que uno de los que habボa, ha sido modificado.
 
 [msg MSG_003 [Elizabeth]]
 *risita* Bien hecho, Prボncipe Detective. Tus habilidades deductivas son muy agudas.
-En cualquier caso, creo que tendrホ mホs sentido una vez que lo veホis por vosotros mismos.
+En cualquier caso, creo que tendrホ mホs sentido una vez que lo vean por ustedes mismos.
 
 [msg MSG_004 [Ann]]
 Eso no fue una gran explicaciポn...
@@ -32,14 +32,14 @@ Aunque no hace falta decir que esta proyecciポn especial es perfecta para mボ.
 Hmm, es verdad que no solemos ver arte callejero.
 
 [msg MSG_009 [Yukiko]]
-Sボ, armarボais un gran escホndalo si lo intentarais en Inaba.
+Sボ, armarían un gran escホndalo si lo intentaran en Inaba.
 
 [msg MSG_010 [Yusuke]]
 Una misiポn de arte callejero... Jejeje... Estoy temblando de la emociポn.
 Urgh, pero todavボa no... ムEs muy pronto todavボa! ムPホrate, mano...!
 
 [msg MSG_011 [Futaba]]
-Oh, tボo... Lo prポximo serホ que Inari abra un tercer ojo.
+Oh... Lo prポximo serホ que Inari abra un tercer ojo.
 
 [msg MSG_012 [Yusuke]]
 En cualquier caso, [f 6 1 30 0 0 0], ムd〒jame encargarme de esta proyecciポn especial!

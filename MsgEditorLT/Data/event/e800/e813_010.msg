@@ -1,11 +1,11 @@
 [msg MSG_000 [Elizabeth]]
-Para esta proyecciポn especial, tendr〒is que traer los ingredientes especificados.
+Para esta proyecciポn especial, tendrán que traer los ingredientes especificados.
 Si no recuerdo mal, esos Granos Explosivos fueron usados en la マltima receta de palomitas...
-メSerボais tan amables de traer algunos para mi tonto hermano pequeワo?
+メSerían tan amables de traer algunos para mi tonto hermano pequeワo?
 
 [msg MSG_001 [Theodore]]
-Os lo agradecerボamos mucho...
-Creo que pod〒is encontrar Granos Explosivos cerca de lugares hマmedos como estanques o rボos.
+Se los agradecerボamos mucho...
+Creo que pueden encontrar Granos Explosivos cerca de lugares hマmedos como estanques o rボos.
 Un lugar tan lleno de vegetaciポn como Junessic Land deberボa ser perfecto.
 
 [msg MSG_001_5 [Morgana]]

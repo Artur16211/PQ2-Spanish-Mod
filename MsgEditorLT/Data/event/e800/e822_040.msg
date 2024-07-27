@@ -5,7 +5,7 @@
 Je, ムesto no es nada comparado con robar un Tesoro!
 
 [msg MSG_002 [Ken]]
-Oh, メy qu〒 le ocurre a una persona cuando le robホis su Tesoro?
+Oh, メy qu〒 le ocurre a una persona cuando le roban su Tesoro?
 
 [sel SEL_003 top]
 Tienen un despertar de corazポn.

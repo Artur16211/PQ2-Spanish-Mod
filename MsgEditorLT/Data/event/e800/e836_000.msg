@@ -15,7 +15,7 @@ Por supuesto. Estoy sintiendo un montポn de vibras de «jefe final acercホndos
 Entonces... estaba pensando que todos van a necesitar nuestro apoyo mホs que nunca.
 
 [msg MSG_005 [Rise]]
-Vale, メentonces quieres mejorar nuestro poder de navegaciポn de alguna forma?
+Bien, メentonces quieres mejorar nuestro poder de navegaciポn de alguna forma?
 
 [msg MSG_006 [Fuuka]]
 Sボ. Quiero ver si hay algo que podamos hacer para aumentar aマn mホs nuestro poder.

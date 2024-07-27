@@ -83,10 +83,10 @@ Devu〒lvelo.
 ムClaro que es bonito! ムメCierto, seワoritas?!
 
 [msg MSG_024 [Makoto]]
-......
+...
 
 [msg MSG_025 [Haru]]
-......
+...
 
 [msg MSG_026 [Futaba]]
 Sボ, ese color me grita "peligroso".
@@ -168,6 +168,6 @@ Bien hecho, Koromaru.
 ムMiauuuuu...!
 
 [msg MSG_051 [Futaba]]
-Vale, olvボdense de esos dos llorones...
-ムVolved todos!
+Bien, olvボdense de esos dos llorones...
+ムVuelvan todos!
 

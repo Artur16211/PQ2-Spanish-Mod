@@ -44,7 +44,7 @@ No hace falta ser tan educada, Yukiko. Simplemente seamos buenas amigas.
 ムCierto!
 
 [msg MSG_013 [Morgana]]
-Parece que se llevan muy bien. ムSeguid asボ, chicos!
+Parece que se llevan muy bien. ムSigan asボ, chicos!
 
 [msg MSG_014 [Yukiko]]
 ムClaro que sボ! ムQuemar〒 a todos nuestros enemigos!
@@ -53,14 +53,14 @@ Parece que se llevan muy bien. ムSeguid asボ, chicos!
 No te olvides de mボ. ムAcabar〒 con hasta el マltimo enemigo que nos encontremos!
 
 [msg MSG_016 [Ryuji]]
-Jaja... Me alegro de que os llev〒is bien...
+Jaja... Me alegro de que se lleven bien...
 
 [msg MSG_017 [Kanji]]
 Son una pareja bastante aterradora...
 
 [msg MSG_018 [Haru]]
 Oh, ムeso me recuerda! Teddie estaba diciendo algo sobre "meter ficha"
-メEstabais jugando a un juego? メCre〒is que me pueda unir la prポxima vez?
+メEstaban jugando a un juego? メCreen que me pueda unir la prポxima vez?
 
 [msg MSG_019 [Yukiko]]
 メTeddie dijo eso...?
@@ -76,7 +76,7 @@ Oh, ムeso me recuerda! Teddie estaba diciendo algo sobre "meter ficha"
 
 [msg MSG_023 [Haru]]
 Wow, メesto es parte de un juego? Dejadme probar...
-ムEh, tボo bueno! メQuieres subir una colina y talar algunos ホrboles conmigo?
+ムEh, chico bueno! メQuieres subir una colina y talar algunos ホrboles conmigo?
 
 [msg MSG_024 [Yosuke]]
 ムメEsa es tu idea para meter ficha?! Espera... ムAsボ que prefieres una colina!

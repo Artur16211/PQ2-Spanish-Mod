@@ -14,5 +14,5 @@ Bien. Al siguiente teletransportador. Deberボamos de encontrar mホs tesoros al
 Es una zona bastante grande, asボ que quizホ deberボamos marcar dポnde hemos estado.
 
 [msg MSG_005 [Morgana]]
-ムVale! ムEntonces pongホmonos en marcha! ムEl tesoro estホ esperホndome ahボ fuera!
+ムBien! ムEntonces pongホmonos en marcha! ムEl tesoro estホ esperホndome ahボ fuera!
 

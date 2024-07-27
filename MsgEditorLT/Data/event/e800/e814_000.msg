@@ -16,7 +16,7 @@ Algo como una colina o un faro, ムun lugar donde puedas ver las estrellas y esa
 
 [msg MSG_004 [Yosuke]]
 ムNo seas tonto! ムEso es muy exagerado!
-Me refiero a un sitio donde haga fresco por la noche, y los dos os acerqu〒is de forma natural... メEntend〒is?
+Me refiero a un sitio donde haga fresco por la noche, y los dos se acerquen de forma natural... メEntend〒is?
 
 [msg MSG_005 [Kanji]]
 Uh, no... No en realidad.
@@ -28,7 +28,7 @@ Parece que se estホn divirtiendo mucho por allボ.
 Hmm, メcolinas y estrellas? Me pregunto de qu〒 estarホn hablando.
 
 [msg MSG_008 [Yosuke]]
-Oh, メhab〒is escuchado todo eso?
+Oh, メhan escuchado todo eso?
 Estホbamos intentando ver a qui〒n se le ocurrボa el mejor plan de citas.
 
 [msg MSG_009 [Ryuji]]
@@ -62,7 +62,7 @@ Y puede que finalmente puedas meter ficha...
 ムAaah! ムSolo era una broma!
 
 [msg MSG_018 [Yosuke]]
-Tボo... Yukiko es despiadada. Y pensar que es tan femenina cuando estホ tranquila...
+Eh... Yukiko es despiadada. Y pensar que es tan femenina cuando estホ tranquila...
 
 [msg MSG_019 [Ryuji]]
 Hablando de chicas, Noir es toda una dama.
@@ -97,7 +97,7 @@ Ambas damas son refinadas, pero en su interior se esconden corazones apasionados
 ... Entonces, メramen o una colina?
 
 [msg MSG_028 [Haru]]
-メHm? メTodavボa estamos hablando de eso? No tiene sentido, メno cre〒is?
+メHm? メTodavボa estamos hablando de eso? No tiene sentido, メno creen?
 
 [msg MSG_029 [Yukiko]]
 Sボ. Increボblemente sin sentido.
@@ -106,7 +106,7 @@ Sボ. Increボblemente sin sentido.
 Jajaja... Eso pensaba...
 
 [msg MSG_031 [Ryuji]]
-Tボo, esas dos harボan un gran equipo...
+Esas dos harボan un gran equipo...
 
 [msg MSG_032]
 Una nueva proyecciポn especial: "Los Lazos que Nos Unen" ha sido aワadida a la taquilla.

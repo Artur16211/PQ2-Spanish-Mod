@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
-Es bueno ver que estホis bien.
-ムCazasteis a vuestra presa y luego os acercasteis para matarla! Parece que ustedes eran las verdaderas bestias sedientas de sangre de esta historia.
+Es bueno ver que están bien.
+ムCazaron a su presa y luego se acercaron para matarla! Parece que ustedes eran las verdaderas bestias sedientas de sangre de esta historia.
 Qu〒 espectホculo mホs espl〒ndido. Fue una muestra perfecta de las duras leyes de la naturaleza.
 
 [msg MSG_001 [Yukari]]
@@ -29,7 +29,7 @@ Um...
 Tマ eres diferente al resto de los Ladrones Fantasma, メno?
 
 [msg MSG_009 [Akechi]]
-メ......?
+メ...?
 
 [msg MSG_010 [Ken]]
 He notado como tu expresiポn cambia cuando estホs con Koromaru...
@@ -44,7 +44,7 @@ Koromaru es un perro muy inteligente, asボ que puede notar ese tipo de cosas.
 Estaba muy preocupado por ti, asボ que eso debe significar que tマ...
 
 [msg MSG_013 [Akechi]]
-......
+...
 
 [msg MSG_014 [Ken]]
 Uh, perdポn... Probablemente no tengas ni idea de lo que estoy hablando.
@@ -56,7 +56,7 @@ Uh, perdポn... Probablemente no tengas ni idea de lo que estoy hablando.
 Me estホ llamando, asボ que me tengo que ir. Perdポn, ムolvida lo que dije!
 
 [msg MSG_017 [Akechi]]
-......
+...
 Eres muy inteligente, Koromaru.
 
 [msg MSG_018 [P4 Hero]]
@@ -79,7 +79,7 @@ Bueno... es muy maduro para su edad, asボ que es posible. Me imagino que Akechi
 Sボ. Probablemente sea mejor no entrometerse.
 
 [msg MSG_023 [P4 Hero]]
-......
+...
 Es solo una idea, pero...
 Parece que cada uno de ellos tiene algo que se cierne sobre ellos, de lo que ninguno siente que puede hablar.
 Y sean lo que sean esas cosas, acabarホn conduciendo a...

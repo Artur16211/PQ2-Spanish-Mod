@@ -17,8 +17,8 @@ Shh... Algo se acerca.
 Es tal y como pensホbamos... y ahora les encontramos in fraganti.
 
 [msg MSG_004 [Teddie]]
-ムHey, hey, hey! ムメQu〒 cre〒is que estホis haciendo con mi traje de oso?!
-ムMe niego a seguir pasando por alto vuestras maldades!
+ムHey, hey, hey! ムメQu〒 creen que están haciendo con mi traje de oso?!
+ムMe niego a seguir pasando por alto sus maldades!
 
 [msg MSG_005 [Teddie?]]
 ムメ...?!
@@ -33,11 +33,11 @@ Dada la situaciポn, solo hay una respuesta. Quitaos ese traje...
 ムCaroline y Justine!
 
 [msg MSG_010 [Caroline]]
-ムRrrgh...! ムメCポmo sabボais que 〒ramos nosotras?!
+ムRrrgh...! ムメCポmo sabían que 〒ramos nosotras?!
 
 [msg MSG_011 [Naoto]]
 Puede que solo tuvi〒ramos pruebas circunstanciales...
-Pero despu〒s de un proceso de eliminaciポn, vosotras dos erais las マnicas sospechosas que quedaban.
+Pero despu〒s de un proceso de eliminaciポn, ustedes dos eran las マnicas sospechosas que quedaban.
 
 [msg MSG_012 [Akechi]]
 Empecemos con Elizabeth y Theodore...
@@ -51,13 +51,13 @@ Marie tambi〒n tuvo un incidente con el traje de oso, asボ que claramente no f
 Asボ que ya ven, solo quedaban ustedes dos.
 
 [msg MSG_015 [Naoto]]
-Y si os imaginabais como sabボamos que erais las dos, el traje de oso nos dio una pista.
-Las dos sois demasiado pequeワas para que una de las dos lo haya llevado sola.
-Por lo tanto, la razポn por la que os balanceabais era porque una se sentaba sobre los brazos de la otra.
+Y si se preguntaban como sabボamos que eran las dos, el traje de oso nos dio una pista.
+Las dos son demasiado pequeワas para que una de las dos lo haya llevado sola.
+Por lo tanto, la razポn por la que se balanceaban era porque una se sentaba sobre los brazos de la otra.
 
 [msg MSG_015_2 [Teddie]]
 Nunca imagin〒 que dos personas cabrボan en mi traje de oso...
-ムNo es justo! ムMira lo bien que os lo estabais pasando ahボ dentro! ムメPor qu〒 yo no estaba invitado?!
+ムNo es justo! ムMira lo bien que se lo estaban pasando ahボ dentro! ムメPor qu〒 yo no estaba invitado?!
 
 [msg MSG_016 [Justine]]
 No creo que podamos hablar para salir de esto, Caroline.
@@ -108,17 +108,17 @@ Sボ, nos disculpamos por lo ocurrido...
 
 [msg MSG_028 [Teddie]]
 No pasa nada. S〒 que a veces es difボcil ser sincero.
-... ムAsボ que aquボ ten〒is! ムTa-da!
+... ムAsボ que aquボ tienen! ムTa-da!
 ムTheodore las hizo para nosotros!
 
 [msg MSG_028_2 [Justine]]
 ムP-Pero eso es...!
 
 [msg MSG_028_4 [Caroline]]
-ムメNos lo estホis dando a nosotras?!
+ムメNos lo están dando a nosotras?!
 
 [msg MSG_028_6 [Teddie]]
-ムUn regalo para vosotras! ムTodo el mundo es mホs feliz cuando comparte!
+ムUn regalo para ustedes! ムTodo el mundo es mホs feliz cuando comparte!
 
 [msg MSG_029 [Caroline]]
 *chomp* *chomp* *snarf* ... ムMmph!

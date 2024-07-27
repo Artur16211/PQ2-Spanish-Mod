@@ -11,7 +11,7 @@ Sボ, estoy sintiendo una intensa sed de sangre. Parece que nos han notado.
 メUna bestia que devota todo lo que ve? No es un mal oponente, si me preguntas.
 
 [msg MSG_004 [Futaba]]
-ムUn movimiento en falso y ser〒is carne de dinosaurio! ムQu〒 no os coman allボ!
+ムUn movimiento en falso y serán carne de dinosaurio! ムQu〒 no los coman allボ!
 
 [msg MSG_005 [Akihiko]]
 ムMe gustarボa verlo! ムAdelante!

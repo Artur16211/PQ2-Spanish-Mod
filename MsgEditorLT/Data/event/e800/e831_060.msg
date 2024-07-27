@@ -25,10 +25,10 @@ Pero... Mitsuru...
 Todos ustedes van a asumir la responsabilidad por actuar tan imprudentemente.
 
 [msg MSG_005_2 [Mitsuru]]
-メQuieren ser adultos? Bien, os llevar〒 al paraボso...
+メQuieren ser adultos? Bien, los llevar〒 al paraボso...
 
 [msg MSG_006 [Futaba]]
-Je, je, je. Oh, los chicos estホn en problemas. Parece que os va a tocar a todos.
+Je, je, je. Oh, los chicos estホn en problemas. Parece que los va a tocar a todos.
 
 [msg MSG_007 [Yosuke]]
 メQu〒? ムEy! ムD〒jame fuera de esto!

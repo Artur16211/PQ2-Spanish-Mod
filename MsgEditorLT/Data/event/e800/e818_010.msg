@@ -12,7 +12,7 @@ Descrボbeles los materiales necesarios.
 [msg MSG_003 [Theodore]]
 Cierto. El Mago Fantasmal soltarホ el Teddy Bear.
 La Arena Afluente soltarホ el Kaleidoscope...
-Y podr〒is obtener la Clay Figurine del Vehボculo Feroz.
+Y podrán obtener la Clay Figurine del Vehボculo Feroz.
 
 [msg MSG_004 [Elizabeth]]
 Todas esas son partes raras de una sombra... Nos gustarボa que las consiguieran.
@@ -35,13 +35,13 @@ Sボ, メqu〒 estホ pasando?
 Mmhm, pareces estresado. メTodo bien?
 
 [msg MSG_010 [Theodore]]
-ムTened compasiポn!
+ムTengan compasiポn!
 
 [msg MSG_011 [P3 Fem Protag]]
 Esperad. Estoy segura de que hay una buena razポn por la que estホ actuando asボ. メVerdad, Theo?
 
 [msg MSG_012 [Theodore]]
-Sボ... Si nos tra〒is los materiales listados, podremos fabricar nuevo equipamiento.
+Sボ... Si nos traen los materiales listados, podremos fabricar nuevo equipamiento.
 Cada material es bastante resistente. Eso nos permitirホ fabricar un mejor, mホs grande y mホs voluminoso equipamiento.
 
 [sel SEL_013 top]
@@ -63,7 +63,7 @@ No s〒 cポmo tomarme lo de voluminoso...
 
 [msg MSG_018 [Theodore]]
 Solo me estoy refiriendo a la fuerza del equipamiento.
-Estad tranquilos, os garantizo que estarホn contentos tanto con su efectividad como con su diseワo.
+Tranquilos, les garantizo que estarホn contentos tanto con su efectividad como con su diseワo.
 
 [msg MSG_019 [Elizabeth]]
 Cielos, cポmo te atreves a pensar que puedes usar la proyecciポn especial en tu propio beneficio...
@@ -73,5 +73,5 @@ Parece que mi inマtil hermano estホ decidido a que le corten la cabeza.
 [msg MSG_020 [Theodore]]
 ムメM-Mi cabeza?!
 ... Cierto. Si estホn dispuestos a arriesgar sus vidas por el bien de esos materiales...
-Entonces yo har〒 lo mismo. Por favor, prestadme vuestra ayuda.
+Entonces yo har〒 lo mismo. Por favor, prestadme su ayuda.
 

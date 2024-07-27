@@ -7,7 +7,7 @@ Vamos a oボrlas.
 メQu〒 has descubierto?
 
 [msg MSG_002 [Elizabeth]]
-Bueno, tened en cuenta que mayormente son especulaciones, pero...
+Bueno, tengan en cuenta que mayormente son especulaciones, pero...
 En la proyecciポn especial en cuestiポn, [f 6 1 30 0 0 0] participポ en batalla, como el ticket lo pedボa.
 La pelボcula fue dejada por la sombra que [f 6 1 30 0 0 0] derrotポ. En otras palabras...
 Mi hipポtesis es que su poder es el responsable de la apariciポn de la pelボcula.
@@ -34,7 +34,7 @@ Hmm... Eso me parece un poco exagerado, pero supongamos que esta pelボcula es r
  no parece haber cambiado mucho... メCポmo se explica eso?
 
 [msg MSG_008 [Elizabeth]]
-......
+...
 
 [msg MSG_008_1 [Elizabeth]]
 Para responder a esta pregunta, permボtanme aportar mi propia idea.
@@ -107,7 +107,7 @@ Esto no es mホs que un paso para resolver el misterio de esa pelボcula, y ahon
 Te lo explicar〒 con mucho gusto cuando le hayas dado una paliza a Theo.
 
 [msg MSG_025_1 [Elizabeth]]
-ムVenid ahora y serホn testigos de todo! ムTheo VS. todos! ムPrimera ronda! ムLUCHAD!
+ムVengan ahora y serホn testigos de todo! ムTheo VS. todos! ムPrimera ronda! ムPELEEN!
 
 [msg MSG_026 [Futaba]]
 Hala, Zabby estホ entusiasmada.

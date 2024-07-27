@@ -6,13 +6,13 @@ Este parece no estar acabado.
 
 [msg MSG_002 [Ryuji]]
 メCool... Kamoshidaman?
-メPensホis que tenボa calor con esa capa o algo? メY por eso a lo mejor la gente intentaba ayudarle refrescホndolo?
+メPiensan que tenボa calor con esa capa o algo? メY por eso a lo mejor la gente intentaba ayudarle refrescホndolo?
 
 [msg MSG_003 [Ann]]
 No, tonto. "Cool" aquボ significa obviamente "guay", no "fresco"
 
 [msg MSG_004 [Ryuji]]
-Agh, ムメasボ que esto es un ELOGIO a Kamoshidaman?! Ten〒is que estar bromeando.
+Agh, ムメasボ que esto es un ELOGIO a Kamoshidaman?! Tienen que estar bromeando.
 
 [msg MSG_005 [Akechi]]
 La gente de esta ciudad lo veボan como un h〒roe. Es probable que los grafitis sigan desde entonces.

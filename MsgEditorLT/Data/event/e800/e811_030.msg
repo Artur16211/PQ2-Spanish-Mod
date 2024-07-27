@@ -19,7 +19,7 @@ Parece que la Seidoptera sigue un camino fijo.
 Tポmatelo con calma y busca un hueco. Recuerda, siempre puedes volver si las cosas no pintan bien.
 
 [msg MSG_006 [Chie]]
-Ay, tボo, me estoy poniendo nerviosa...
+Ay, me estoy poniendo nerviosa...
 
 [msg MSG_007 [Futaba]]
 No te preocupes, ムJoker estホ contigo! ムContamos contigo para conseguir ese tesoro!

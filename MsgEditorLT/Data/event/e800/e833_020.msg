@@ -30,5 +30,5 @@ En otras palabras, nuestro enfoque habitual. No es muy exigente...
 Habボa tres lugares, メverdad? Entonces encontremos el primero.
 
 [msg MSG_009 [Futaba]]
-ムMuy bien! ムEntonces vayamos a buscar esos Puntos del Tesoro! ムTened los ojos bien abiertos, chicos!
+ムMuy bien! ムEntonces vayamos a buscar esos Puntos del Tesoro! ムTengan los ojos bien abiertos, chicos!
 

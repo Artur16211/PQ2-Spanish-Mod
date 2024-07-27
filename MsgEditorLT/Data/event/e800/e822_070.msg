@@ -31,7 +31,7 @@ Solo son buenos amigos.
 
 [msg MSG_009 [Ann]]
 De verdad.
-メOs matarボa actuar un poco mホs acorde a vuestra edad?
+メLos matarボa actuar un poco mホs acorde a su edad?
 
 [msg MSG_010 [Morgana]]
 Urgh... Perdポn... Me he dejado llevar.
@@ -58,7 +58,7 @@ De acuerdo entonces, メpor qu〒 no decimos que es un aprendiz de Ladrポn Fant
 メKen?
 
 [msg MSG_018 [Ken]]
-Oh, perdonadme... Solo estaba pensando en lo bien que os llevホis. 
+Oh, perdonadme... Solo estaba pensando en lo bien que se llevan. 
 
 [msg MSG_019 [Ryuji]]
 No lo s〒... pero todos confiamos en los demホs...
@@ -98,7 +98,7 @@ Bueno...
 ... メTal vez alguien a quien no puedes perdonar?
 
 [msg MSG_029 [Ken]]
-......
+...
 
 [msg MSG_030 [Ryuji]]
 Te dijimos por qu〒 nos convertimos en ladrones fantasma, メverdad?
@@ -132,7 +132,7 @@ Sボ. Puede ser duro al principio, pero definitivamente puedes hacerlo.
 Tienes el potencial para ser uno de nosotros. Te lo aseguro.
 
 [msg MSG_038 [Morgana]]
-Asegマrate de seguir estudiando tambi〒n, メvale?
+Asegマrate de seguir estudiando tambi〒n, メentendido?
 
 [msg MSG_039 [Ryuji]]
 No s〒 qu〒 te ha pasado... pero no hay que precipitarse, メverdad?
@@ -155,7 +155,7 @@ A lo que me refiero es... que me recuerdas un poco a mボ cuando tenボa tu edad
 
 [sel SEL_044 top]
 メCポmo?
-No os parec〒is en nada.
+No se parecen en nada.
 メTe has mirado en un espejo recientemente?
 
 [msg MSG_045 [Ryuji]]
@@ -169,11 +169,11 @@ Wow...
 メRyuji realmente se dio cuenta de algo asボ...? メVa a nevar maワana tambi〒n?
 
 [msg MSG_048 [Ryuji]]
-ムArrrgh! ムメQu〒 os pasa?!
+ムArrrgh! ムメQu〒 les pasa?!
 
 [msg MSG_049 [Ken]]
 *risita* S〒 que todavボa tengo un montポn que aprender.
-Pero espero que algマn dボa pueda usar mi poder en favor de un sentido de la justicia en el que creo, justo como vosotros.
+Pero espero que algマn dボa pueda usar mi poder en favor de un sentido de la justicia en el que creo, justo como ustedes.
 
 [msg MSG_050 [Morgana]]
 Ken...

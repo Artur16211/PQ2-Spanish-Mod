@@ -2,7 +2,7 @@
 Nos dirigimos a la tienda de Theodore...
 
 [msg MSG_000_3 [Theodore]]
-メOh...? メQu〒 os trae a todos aquボ?
+メOh...? メQu〒 los trae a todos aquボ?
 
 [msg MSG_000_5 [Naoto]]
 Por favor, disculpe la repentina intrusiポn. Solo queremos hacerte unas preguntas.

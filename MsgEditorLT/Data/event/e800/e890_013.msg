@@ -9,10 +9,10 @@ Rara vez puedo ser testigo el verdadero poder de mi hermana... Solo con pensarlo
 Oh bro, destrozarボan este sitio...
 
 [msg MSG_002_1 [Futaba]]
-Pero olvボdenlo, mホs vale que tengan cuidado. ムOs va a dar una buena batalla!
+Pero olvボdenlo, mホs vale que tengan cuidado. ムLes va a dar una buena batalla!
 
 [msg MSG_003 [Margaret]]
-......
+...
 
 [msg MSG_003_1 [Margaret]]
 Desde que llegu〒 aquボ... les he estado observando muy de cerca.
@@ -20,7 +20,7 @@ Incluso a merced del destino, sumidos en la desesperaciポn, siguen brillando...
 Y en algマn lugar de mi corazポn, confieso que he estado esperando una excusa para poneros a prueba yo misma.
 
 [msg MSG_003_2 [Margaret]]
-Asボ que... comencemos. ムDejadme ver vuestras almas encendidas de luz!
+Asボ que... comencemos. ムDejadme ver sus almas encendidas de luz!
 
 [msg MSG_004 [Margaret]]
 *risita* Espero que esta vez me den un poco mホs de tiempo para disfrutarlo. Estoy segura de que serホn un desafボo

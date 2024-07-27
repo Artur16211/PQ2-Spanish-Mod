@@ -36,7 +36,7 @@ Para ello, メqu〒 les parece destruir este lugar y devolverlo a su estado natu
 
 [msg MSG_010 [Aigis]]
 Quitando esos edificios y carreteras, podemos restaurar los bosques y otras zonas verdes.
-メOs parece satisfactorio este plan?
+メLes parece satisfactorio este plan?
 
 [msg MSG_011 [Teddie]]
 No creo que quemar la ciudad sea muy alentador...

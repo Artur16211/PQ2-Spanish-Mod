@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-......
+...
 
 [msg MSG_001 [Margaret]]
 Well, well. Elizabeth, speechless?[n]Wonders never cease.
@@ -105,7 +105,7 @@ Indeed, I was the one who raided[n]Caroline's secret stash.
 However, I cannot account for Justine's[n]missing share.
 
 [msg MSG_029 [Justine]]
-......
+...
 
 [msg MSG_030 [Caroline]]
 Uh, well... I mean, that's...!
@@ -113,10 +113,10 @@ I-It must be the Persona-users! I know[n]nothing!
 I-I mean, if you hide them in an[n]easy-to-find place like the projection[n]room, of course they'll get stolen!
 
 [msg MSG_031 [Margaret]]
-......
+...
 
 [msg MSG_032 [Theodore]]
-......
+...
 
 [msg MSG_033 [Justine]]
 ...Caroline, you have ketchup on your[n]cheek.

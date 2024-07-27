@@ -36,7 +36,7 @@ Eso muestra lo mucho que confボa en nosotros.
 Estホ dispuesta a poner su vida en nuestras manos.
 
 [msg MSG_009 [Junpei]]
-......
+...
 
 [msg MSG_010 [Akihiko]]
 ムAllボ estホn! ムAhora, vamos!

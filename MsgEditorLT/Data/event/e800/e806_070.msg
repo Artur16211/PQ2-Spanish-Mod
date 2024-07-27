@@ -115,7 +115,7 @@ Oh, ahボ van de nuevo.
 Estar en la misma onda de Inari... Ella tiene mucho talento...
 
 [msg MSG_034 [Yusuke]]
-Me gustarボa agradeceros a todos.
+Me gustarボa agradecerles a todos.
 Con esto, los Ladrones Fantasma ahora serホn aマn mホs poderosos.
 
 [sel SEL_035 top]
@@ -126,7 +126,7 @@ Suena bien.
 Dejホdmelo a mボ.
 
 [msg MSG_037 [Yukiko]]
-Oh, es verdad. Prometボ que os darボa algo a cambio.
+Oh, es verdad. Prometボ que les darボa algo a cambio.
 
 [msg MSG_038 [Teddie]]
 メAlgo a cambio?

@@ -11,7 +11,7 @@ Supongo que puedes ser todo lo entusiasta que quieras, siempre que no nos hagas 
 ムY mボrate! ムHas estado hablando mucho mホs de lo normal cuando estホs cerca de 〒l!
 
 [msg MSG_003 [Justine]]
-......
+...
 No me s〒 a qu〒 te refieres.
 
 [sel SEL_004 top]

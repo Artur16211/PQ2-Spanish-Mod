@@ -4,7 +4,7 @@ He visto todo desde la gran pantalla. Encontraron el grafiti en cuestiポn sin n
 En medio de esa obra de arte habボa una pequeワa seワal de cambio... Qu〒 fascinante.
 Parece que las palabras no son la マnica forma de expresarse. Estoy bastante impresionada por esta revelaciポn.
 Gracias por permitirme disfrutar de una proyecciポn tan maravillosa. Permitidme preparaos una recompensa.
-Te lo dar〒 a su debido tiempo. Por favor, haced buen uso de 〒l.
+Te lo dar〒 a su debido tiempo. Por favor, hagan buen uso de 〒l.
 
 [msg MSG_001 [Yusuke]]
 ...
@@ -31,7 +31,7 @@ Una vez que acabポ todo, no pensaba que habrボa nada mホs.
 Pero, tras ver ese grafiti, me di cuenta de que ese no era el caso.
 Incluso sin su influencia, la pelボcula sigue cambiando.
 Esa gente ahora se ha hecho independiente, y ahora han empezado a actuar por sボ mismos.
-No es una pelボcula corriente. Es una entidad viva... メNo estホis de acuerdo?
+No es una pelボcula corriente. Es una entidad viva... メNo están de acuerdo?
 
 [sel SEL_008 top]
 Te entiendo.

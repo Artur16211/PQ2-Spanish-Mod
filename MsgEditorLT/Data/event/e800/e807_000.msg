@@ -1,5 +1,5 @@
 [msg MSG_000 [Yosuke]]
-... Tボo, no importa cuanto avancemos, siempre es lo mismo una y otra vez.
+... No importa cuanto avancemos, siempre es lo mismo una y otra vez.
 Plantas y bichos gigantes hasta donde alcanza la vista. メY dinosaurios tambi〒n? Este lugar es una locura...
 
 [msg MSG_001 [Naoto]]
@@ -12,7 +12,7 @@ Bueno, al menos uno de nosotros lo estホ haciendo bien.
 ムAhh, qu〒 naturaleza mホs exquisita! ムNi con una montaワa de cuadernos serボa suficiente para captar toda esta belleza!
 
 [msg MSG_004 [Ann]]
-Oh, sボ, no os preocup〒is por 〒l.
+Oh, sボ, no se preocupen por 〒l.
 
 [msg MSG_005 [Yosuke]]
 Shhh, estホ muy concentrado... メNo se perderホ y serホ comido, no?
@@ -36,7 +36,7 @@ Creo que he visto alguna antes...
 Hay que conformarse con agua.
 
 [msg MSG_011 [Chie]]
-Quiero decir, los perritos calientes son geniales, pero la carne de dinosaurio es mホs... BAM, メsab〒is?
+Quiero decir, los perritos calientes son geniales, pero la carne de dinosaurio es mホs... BAM, メsaben?
 ムQuiero comerme un trozo de carne tan grande que parezca que nunca pueda acabarlo!
 
 [msg MSG_012 [Chie]]

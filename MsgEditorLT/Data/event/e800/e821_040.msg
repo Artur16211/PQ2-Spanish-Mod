@@ -27,7 +27,7 @@ Es mucho mejor usar una caワa de pescar o un arpポn o algo...
 ムCuidado, chicos! ムUn FOE se acerca rホpidamente!
 
 [msg MSG_008 [Chie]]
-ムH-Hey! ムHaced algo antes de que seamos comida de dinosaurio!
+ムH-Hey! ムHagan algo antes de que seamos comida de dinosaurio!
 
 [msg MSG_009 [Fuuka]]
 ムDebe de haber un nido cerca! ムViene hacia aquボ!
@@ -36,7 +36,7 @@ Es mucho mejor usar una caワa de pescar o un arpポn o algo...
 メQ-Qu〒 hacemos? メHuimos de 〒l?
 
 [msg MSG_011 [Yusuke]]
-......
+...
 ムHaaaaaah!
 
 [msg MSG_012 [Yusuke]]
@@ -62,7 +62,7 @@ Luchemos en algマn lugar cercano.
 ムMant〒n una distancia prudencial, ve a un lugar seguro y derrボbalo!
 
 [msg MSG_018 [Futaba]]
-Vas a luchar asボ como asボ, メeh? Creo que serホ mejor si os alejホis, pero...
+Vas a luchar asボ como asボ, メeh? Creo que serホ mejor si se alejan, pero...
 Estoy segura de que si mantienen las distancias, podremos echarlo de aquボ.
 
 [msg MSG_019 [Gaudy carnivore]]

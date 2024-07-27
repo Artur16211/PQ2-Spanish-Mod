@@ -35,7 +35,7 @@ Sボ, pero no tener una localizaciポn fija significa que podremos encontrarlos 
 
 [msg MSG_011 [Fuuka]]
 Si los materiales que dejan las sombras son duros, eso significa que ellas lo son tambi〒n.
-Aseguraos de utilizar vuestras Personas sabiamente, ムy daros una ventaja!
+Aseguraos de utilizar sus Personas sabiamente, ムy daros una ventaja!
 
 [msg MSG_012 [P3 Fem Protag]]
 ムCierto!

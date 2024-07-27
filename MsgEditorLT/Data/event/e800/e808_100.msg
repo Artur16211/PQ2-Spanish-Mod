@@ -56,7 +56,7 @@ Hablando de lo que se espera, he notado algo interesante...
 Eeey, no quiero estropear la diversiポn, pero...
 
 [msg MSG_015 [Kanji]]
-メDe qu〒 demonios estホis hablando...?
+メDe qu〒 demonios están hablando...?
 
 [msg MSG_016 [Naoto]]
 M-Mis disculpas. Supongo que me he dejado llevar por la conversaciポn.

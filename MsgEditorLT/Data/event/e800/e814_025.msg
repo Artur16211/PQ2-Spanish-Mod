@@ -1,9 +1,9 @@
 [msg MSG_000 [Haru]]
-Oh, me acabo de acordar. メHab〒is visto algマn lugar cubierto de enredaderas por aquボ?
+Oh, me acabo de acordar. メHan visto algマn lugar cubierto de enredaderas por aquボ?
 
 [msg MSG_001 [Yosuke]]
 メTe refieres a esas puertas que tenボan enredaderas encima?
-Si te refieres a eso, vi un montポn cuando fui separado de vosotros.
+Si te refieres a eso, vi un montポn cuando fui separado de ustedes.
 
 [msg MSG_002 [Haru]]
 Mhm. Debe haber hierbas medicinales creciendo justo al pasar esas enredaderas.
@@ -33,7 +33,7 @@ Sボ, pero... es guay. ムCreo que eso es lo que la hace tan genial!
 Una chica tan hermosa y de tan buen corazポn... ムSu compasiポn es realmente conmovedora!
 
 [msg MSG_011 [Haru]]
-C-Chicos, estホis exagerando...
+C-Chicos, están exagerando...
 No es nada noble. Solo lo hago porque quiero...
 
 [msg MSG_012 [Yukiko]]
@@ -47,14 +47,14 @@ Oh, perdポn. Solo estoy pensando en voz alta.
 Tenemos que encontrar al dinosaurio y protegerlo. D〒monos prisa.
 
 [msg MSG_015 [Haru]]
-ム......!
-Ey, メescuchホis eso? Ese llanto...
+ム...!
+Ey, メescuchan eso? Ese llanto...
 
 [msg MSG_016 [Yukiko]]
 ムSボ! ムViene de allボ!
 
 [msg MSG_017 [Rise]]
-ムHay algo al noreste! Estoy sorprendida de que os hayホis dado cuenta.
+ムHay algo al noreste! Estoy sorprendida de que se hayan dado cuenta.
 
 [msg MSG_018 [Haru]]
 Vamos, Joker. Necesita nuestra ayuda.

@@ -9,7 +9,7 @@ Y ahora, ムha llegado la hora de levantar el telポn de una proyecciポn muy es
 Oh, メuna de esas que especifica su reparto? メEntonces vamos a luchar contra algo fuerte otra vez?
 
 [msg MSG_002 [Elizabeth]]
-*risita* Veo que esto ya se ha convertido en rutina para vosotros. Sボ, llevas razポn.
+*risita* Veo que esto ya se ha convertido en rutina para ustedes. Sボ, llevas razポn.
 
 [msg MSG_002_1 [Elizabeth]]
 Esta vez, su brutal combate a muerte es contra un villano que ha aparecido en las profundidades de "A.I.G.I.S."
@@ -45,7 +45,7 @@ Tu oportunidad puede llegar antes de lo que crees, [f 6 1 16 0 0].
 Resulta que su nombre es el que estホ escrito en este billete.
 
 [msg MSG_011 [P3 Hero]]
-Eh. Bueno, vale. Eso significa que estoy listo para la siguiente batalla.
+Eh. Bueno. Eso significa que estoy listo para la siguiente batalla.
 
 [msg MSG_012 [P3 Hero]]
 Hagホmoslo, Lボder. Parece una gran responsabilidad, pero lo intentar〒.

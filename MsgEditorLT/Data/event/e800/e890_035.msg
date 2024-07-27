@@ -30,7 +30,7 @@ Oh right, that film...
 
 [msg MSG_008]
 The film that looked sooty is now[n]glowing faintly...
-......!
+...!
 The four pieces of film are shining[n]powerfully bright together...!
 
 [msg MSG_009 [P4 Hero]]
@@ -94,7 +94,7 @@ After all, that was where this all[n]began.
 Yeah, we'd have gotten nowhere without[n]those! Makes you wonder who was pullin'[n]the strings.
 
 [msg MSG_025 [Hikari]]
-......
+...
 
 [msg MSG_025_1 [Hikari]]
 Um... Well, I don't know if anyone set[n]it up deliberately... but I've been[n]thinking about it.

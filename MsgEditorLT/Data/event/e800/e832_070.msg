@@ -15,7 +15,7 @@ Entonces, メpor qu〒 quieres unirte tanto a la charla de chicas, Teddie?
 
 [msg MSG_004 [Teddie]]
 Bueno... Siempre parece que todas se divierten mucho.
-Pens〒 que si me unボa podrボa aprender mホs sobre vosotras. Y no solo eso...
+Pens〒 que si me unボa podrボa aprender mホs sobre ustedes. Y no solo eso...
 Tambi〒n creボa que quizホ nos podrボamos hacer mejores amigos.
 
 [msg MSG_005 [Yukiko]]

@@ -52,5 +52,5 @@ Veamos... De todo, desde una seワal de la parada del autobマs hasta el legenda
 [msg MSG_014 [Elizabeth]]
 Tenemos dos caワas de pescar aquボ...
 Sin embargo, se las confiaremos a los dos que poseen el poder de la carta del comodボn, debido a su gran experiencia pescando.
-Pescad, pescad, pescad todos los peces que querホis.
+Pescad, pescad, pescad todos los peces que quieran.
 

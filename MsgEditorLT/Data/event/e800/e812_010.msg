@@ -45,7 +45,7 @@ Oh, es verdad, los churros tienen ese olor a canela, メno? Sin eso, sentirボas
 [msg MSG_012 [Elizabeth]]
 ... Dicho esto, podrボan por favor ofrecer su ayuda a esta pobre mujer.
 He oボdo que una planta conocida como "Helecho de Canela" se puede encontrar en algマn lugar de la pelボcula de dinosaurios.
-Si no os importa reunir algunas para mボ... No gratis, por supuesto.
+Si no les importa reunir algunas para mボ... No gratis, por supuesto.
 
 [sel SEL_013 top]
 Entendido.
@@ -62,7 +62,7 @@ Hehe, me has pillado.
 ムQu〒 bien suenan ahora los churros calentitos!
 
 [msg MSG_017 [Rise]]
-Oh, ムestoy con vosotros en esto! ムVoy a ser la mejor navegante que pueda!
+Oh, ムestoy con ustedes en esto! ムVoy a ser la mejor navegante que pueda!
 
 [msg MSG_018 [Ann]]
 Ay, vamos, Elizabeth nos necesita. Vamos a ayudarle.

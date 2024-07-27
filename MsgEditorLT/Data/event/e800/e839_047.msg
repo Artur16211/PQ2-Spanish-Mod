@@ -10,7 +10,7 @@ Of course, I forgot there are scary[n]Shadows waiting for us. So... don't[n]frea
 Tsh, who do you think I am? Don't[n]undersell the charge commander of the[n]Phantom Thieves!
 
 [msg MSG_003 [Hikari]]
-......
+...
 
 [msg MSG_004 [Junpei]]
 What's wrong, Hikari-chan? You nervous?

@@ -5,7 +5,7 @@ Bueno, estamos aquボ, pero no parece que haya nada para comer.
 メQuizホs deberボamos haber guardado el plato que hicimos para ese carnivoro?
 
 [msg MSG_002 [Chie]]
-Oh, ムyo guard〒 un poco de esa salsa! メQuer〒is una poca?
+Oh, ムyo guard〒 un poco de esa salsa! メQuieren una poca?
 
 [msg MSG_003 [Yosuke]]
 ムN-No gracias, estoy bien! Ya estamos aquボ, asボ que serホ mejor que salgamos y encontremos lo que buscamos, メno?

@@ -11,7 +11,7 @@ Perdポn, Shinji, pero esta competiciポn es mボa. Sin rencores, メde acuerdo?
 Sボ, seguro... Tonto del culo.
 
 [msg MSG_004 [Mitsuru]]
-ムParad vosotros dos! ムメNo os da verg↓enza actuar de esa forma en frente de personas mホs jポvenes?!
+ムParad ustedes dos! ムメNo les da verg↓enza actuar de esa forma en frente de personas mホs jポvenes?!
 
 [msg MSG_005 [Akihiko]]
 No te preocupes, Mitsuru. Shinji se calmarホ una vez que acabe todo esto.

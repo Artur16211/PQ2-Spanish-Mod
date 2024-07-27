@@ -35,7 +35,7 @@ Es bastante intrigante. ムOjalホ pudiera verlo con mis propios ojos!
 Tu laboratorio secreto seguro que es popular, Naoto.
 
 [msg MSG_011 [Naoto]]
-......
+...
 Me siento un poco tonta por haberme avergonzado antes.
 ... Ah, tenemos que seguir buscando ese contenedor.
 Deberボa de estar solo un poco mホs lejos. Sigamos.

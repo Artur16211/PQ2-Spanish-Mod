@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 Bien hecho. Tengo la confirmaciポn de que el FOE fue efectivamente derrotado.
 Sin embargo... hay algo con lo que no estoy satisfecha.
-Esperaba impacientemente que trajerais algo de pollo de recuerdo, ムpero no hab〒is traボdo nada!
+Esperaba impacientemente que trajeran algo de pollo de recuerdo, ムpero no han traボdo nada!
 Mi deseo de pollo permanecerホ insatisfecho, dejando que estas lホgrimas de desesperaciポn fluyan para siempre.*sniff* *sniff*
 
 [msg MSG_001 [Ryuji]]
@@ -20,7 +20,7 @@ Concuerdo. El pollo frito era lo マnico que podボa llenar el vacボo que hay a
 
 [msg MSG_005 [Yosuke]]
 Wow, esos dos parecen realmente deprimidos...
-Okay, メsab〒is qu〒? Una vez que acabemos con esto, os invitar〒 al Junes, asボ que aguantad hasta entonces.
+Okay, メsaben qu〒? Una vez que acabemos con esto, los invitar〒 al Junes, asボ que aguanten hasta entonces.
 
 [msg MSG_006 [Chie]]
 ムメEn serio?!
@@ -38,7 +38,7 @@ Es solo pollo frito. Come todo lo que quieras.
 Pollo y ternera no hacen un buen balance. Deberボamos incluir mejor cerdo tambi〒n.
 
 [msg MSG_011 [Yosuke]]
-ムArrgh! ムNo empec〒is a pedir todo lo que querホis!
+ムArrgh! ムNo empiecen a pedir todo lo que quieran!
 Sheesh... ムメQu〒 tal si hacemos un presupuesto para mi cartera primero?!
 
 [msg MSG_012 [P3 Fem Protag]]
@@ -49,7 +49,7 @@ Sボ, Yosuke siempre cuida a la gente que le importa y siempre ayuda a que todo 
 Aunque, a menudo se pasa de bueno, y su cartera sufre las consecuencias...
 
 [msg MSG_014 [Yosuke]]
-Jaja... Es porque estos tボos no tienen ningマn autocontrol...
+Jaja... Es porque estos tipos no tienen ningマn autocontrol...
 
 [msg MSG_015 [P4 Hero]]
 ... Aマn asボ, deberボas tomホrtelo con calma de vez en cuando, Yosuke.
@@ -79,7 +79,7 @@ No podボa quitarme la sensaciポn de que tenボa que compensarlo de alguna form
 Parece que eres mホs blando de lo que aparentas, Yosuke.
 
 [msg MSG_023 [Yosuke]]
-Ay, ムd〒jame! Soy sensible, ムメvale?! ムPienso en estas cosas!
+Ay, ムd〒jame! Soy sensible, ムPienso en estas cosas!
 
 [msg MSG_024 [Yukiko]]
 *risita* Pero ese es uno de tus puntos fuertes, Yosuke.
@@ -90,7 +90,7 @@ Aquボ, ムTeddie te tiene! ムVamos, apポyate!
 
 [msg MSG_026 [Yosuke]]
 Oh, no, gracias. Estホs muy pegajoso por el helado.
-*suspiro* Saben, de alguna forma, despu〒s de hablar con vosotros, todas mis preocupaciones desaparecen.
+*suspiro* Saben, de alguna forma, despu〒s de hablar con ustedes, todas mis preocupaciones desaparecen.
 
 [sel SEL_027 top]
 Tienes buenos amigos.
@@ -111,16 +111,16 @@ Sボ, estoy empezando a ver por qu〒 le gustas a todo el mundo, Yosuke.
 Me alegro de que hayas vuelto con tus amigos.
 
 [msg MSG_032 [P4 Hero]]
-Sボ, no habrボamos podido hacerlo sin vuestra ayuda.
+Sボ, no habrボamos podido hacerlo sin su ayuda.
 Gracias por ayudarnos a salvarlo.
 
 [msg MSG_033 [Yosuke]]
-ムEspera! ムSi estamos dando las gracias, dejadme dホroslas a mボ tambi〒n!
-Gracias por venir a por mボ, chicos. ムEstoy muy feliz de estar aquボ con todos vosotros!
+ムEspera! ムSi estamos dando las gracias, déjenme dホroslas a mボ tambi〒n!
+Gracias por venir a por mボ, chicos. ムEstoy muy feliz de estar aquボ con todos ustedes!
 
 [msg MSG_034 [Elizabeth]]
 Vaya, hemos pasado de hablar de un falso pollo a una conmovedora conversaciポn sobre la belleza de la amistad...
 Aunque el asunto del pollo sigue siendo muy lamentable.
 Aun asボ, supongo que este resultado es satisfactorio.
-Aquボ ten〒is vuestra recompensa. Aceptadla por favor.
+Aquボ tienen su recompensa. Aceptadla por favor.
 

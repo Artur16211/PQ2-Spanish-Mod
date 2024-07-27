@@ -9,6 +9,6 @@ A calling card...!?
 "For more details, come to the box[n]office. From the avengers in blue,[n]defenders of movies and hot dogs."
 
 [msg MSG_002]
-......?
+...?
 I guess I should talk to Elizabeth about[n]this at the box office...
 

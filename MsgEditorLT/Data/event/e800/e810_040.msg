@@ -30,7 +30,7 @@ Me pregunto por qu〒... メPodrボa ser porque ambos somos lボderes que usamos
 
 [msg MSG_008 [Kanji]]
 Ey, tenemos un montポn de cebo. Ahora solo tenemos que cazar esos pe...
-メPor qu〒 os mirホis asボ?
+メPor qu〒 se miran asボ?
 
 [msg MSG_009 [Teddie]]
 Dos personas mirホndose intensamente el uno al otro... A esto le llaman...
@@ -42,7 +42,7 @@ Enamorarse.
 
 [msg MSG_011 [Ryuji]]
 Asボ eres tマ.
-En serio, メpor qu〒 os mirホis tan fijamente? メIntentホis acabar lo que empezaron cuando se conocieron?
+En serio, メpor qu〒 se miran tan fijamente? メIntentan acabar lo que empezaron cuando se conocieron?
 
 [msg MSG_012 [Ryuji]]
 ムメEn serio?! メQuieren acabar lo que empezaron cuando se conocieron?
@@ -60,7 +60,7 @@ Este sentimiento en mi pecho... メQu〒 es esto?
 Eso no es propio de ti, Senpai.
 
 [msg MSG_017 [Naoto]]
-Es posible que os entendホis el uno al otro muy bien, por lo que las palabras no son necesarias.
+Es posible que se entiendan el uno al otro muy bien, por lo que las palabras no son necesarias.
 
 [msg MSG_018 [Ann]]
 Ahora que lo dices, se parecen.

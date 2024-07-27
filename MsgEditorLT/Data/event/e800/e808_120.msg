@@ -17,7 +17,7 @@ Tenemos que hacer algo.
 
 [msg MSG_005 [Futaba]]
 メHm? Espera un segundo... Habボa otra terminal, メno?
-Quizホs pueda acceder a esa. Sボ, dejadme intentarlo.
+Quizホs pueda acceder a esa. Sボ, déjenme intentarlo.
 
 [msg MSG_006 [Naoto]]
 Entonces, para localizar los coches de policボa, tendremos que encontrar la otra terminal.

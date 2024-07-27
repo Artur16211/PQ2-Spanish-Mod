@@ -16,7 +16,7 @@ Bien, ムacabar〒 contigo con mi t〒cnica secreta de kung-fu!
 ムMuy tarde! ムYa se han ido!
 
 [msg MSG_005 [P4 Hero]]
-No os preocup〒is, Chie es muy dura en estas situaciones. Estarホn bien.
+No se preocupen, Chie es muy dura en estas situaciones. Estarホn bien.
 
 [msg MSG_006 [Chie]]
 ムAllホ vamos! ムHiiiyah!

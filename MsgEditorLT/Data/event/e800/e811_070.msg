@@ -18,7 +18,7 @@ Tienes que entrenar mホs.
 Haha, ムsolo estoy empezando! ムAl final lo conseguir〒!
 
 [msg MSG_006 [Morgana]]
-ムNo estホis nada mal! Tendremos que hacernos mホs fuertes.
+ムNo estホn nada mal! Tendremos que hacernos mホs fuertes.
 
 [msg MSG_007 [Elizabeth]]
 Bien hecho
@@ -30,7 +30,7 @@ Por cierto, メcuホnto valen estos tesoros?
 
 [msg MSG_009 [Chie]]
 Probablemente, un montポn, メverdad? Estaban resguardados por dinosaurios.
-メCre〒is que vale un suministro de boles de ternera de por vida, o eso es mucho?
+メCre〒n que nos sirva un suministro de boles de ternera de por vida, o eso es mucho?
 
 [msg MSG_010 [Yosuke]]
 メBoles de ternera? メEso es en lo マnico que piensas?
@@ -62,11 +62,11 @@ Nosotros tambi〒n nos hemos divertido. Hace tiempo que no hacボamos de ladrone
 
 [msg MSG_018 [Elizabeth]]
 Ahh, parece que la conmovedora conclusiポn estホ a punto de llegar.
-El tesoro puede ser falso, ムpero los lazos que hab〒is forjado son definitivamente reales!
+El tesoro puede ser falso, ムpero los lazos que han forjado son definitivamente reales!
 
 [msg MSG_019 [Futaba]]
 ムYa estホ! ムEl clich〒 del buen final!
 
 [msg MSG_020 [Elizabeth]]
-Espero con impaciencia vuestra prポxima exposiciポn.
+Espero con impaciencia su prポxima exposiciポn.
 

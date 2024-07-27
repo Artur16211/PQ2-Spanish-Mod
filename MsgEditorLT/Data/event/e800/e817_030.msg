@@ -14,7 +14,7 @@ Quizホs acabaron su investigaciポn y han limpiado.
 *suspiro* Bueno, ya se va mi motivaciポn.
 
 [msg MSG_004 [Yukari]]
-Os estホis rindiendo muy rホpido.
+Se están rindiendo muy rホpido.
 
 [msg MSG_005 [Ann]]
 Ey, メsoy yo, o hay un montポn de gente aquボ?
@@ -40,7 +40,7 @@ Alguien de aquボ podrボa saber lo que ha ocurrido.
 Vamos a preguntar entonces.
 
 [msg MSG_012 [Makoto]]
-Okay, Skull, tマ y los chicos id por allボ. Panther, tマ trae a las chicas aquボ.
+Okay, Skull, tマ y los chicos por allボ. Panther, tマ trae a las chicas aquボ.
 
 [msg MSG_012_1 [Makoto]]
 Nos dividiremos y veremos qu〒 podemos aprender.
@@ -52,7 +52,7 @@ Nos dividiremos y veremos qu〒 podemos aprender.
 ムD〒jamelo a mボ!
 
 [msg MSG_015 [Mitsuru]]
-......
+...
 
 [msg MSG_016 [Ken]]
 メMitsuru?

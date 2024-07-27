@@ -37,11 +37,11 @@ Mue, je, je. Tenemos mucha quボmica, eso es todo.
 Oh, hemos traボdo todas las piezas que nos pidieron. メSon estas las que necesitan?
 
 [msg MSG_012 [Fuuka]]
-Oh, ムmuchボsimas gracias! Sボ, estas deberボan de valer.
+Oh, ムmuchボsimas gracias! Sボ, estas deberボan funcionar.
 Ahora solo tenemos que construirlo...
 
 [msg MSG_013 [Futaba]]
-Hm, vale... メCrees que podemos hacer algo con todos esos cables?
+Hm, de acuerdo... メCrees que podemos hacer algo con todos esos cables?
 
 [msg MSG_014 [Fuuka]]
 Mmhm. Las piezas estホn en sorprendentes buenas condiciones, asボ que puede que no necesitemos conectar todos los conductores...
@@ -94,7 +94,7 @@ Apoyo fボsico... メComo habilidades de curaciポn y de recuperaciポn?
 
 [msg MSG_026 [Futaba]]
 ムSボ! ムEso es! ムSerホ de gran ayuda para todos!
-ムVale, vamos a montar este cacharro! ムConvoco reuniポn de navegadoras!
+ムBien, vamos a montar este cacharro! ムConvoco reuniポn de navegadoras!
 
 [msg MSG_027 [Yosuke]]
 Y allホ van con las piezas. Son como un huracホn.

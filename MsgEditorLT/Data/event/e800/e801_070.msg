@@ -38,7 +38,7 @@ Muchas gracias.
 Se te ha escapado.
 
 [msg MSG_011 [Haru]]
-No, nosotras somos quienes deberボan agradeceros a vosotros.
+No, nosotras somos quienes deberボan agradecerles a ustedes.
 Si no hubieran venido por nosotras, nunca podrボamos haber escapado.
 
 [msg MSG_012 [Morgana]]

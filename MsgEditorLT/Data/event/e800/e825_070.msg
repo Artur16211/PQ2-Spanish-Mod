@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-Quizホs este fuera demasiado fホcil para vosotros. Han hecho un tiempo excelente.
+Quizホs este fuera demasiado fホcil para ustedes. Han hecho un tiempo excelente.
 El propポsito de esta proyecciポn era ver cuホn fuertes se han hecho. Una pelボcula muy agradable.
 Aquボ tienen su recompensa. Espero con impaciencia la prポxima actuaciポn.
 
@@ -47,10 +47,10 @@ Incluso ella puede usar Personas. Exactamente, メqu〒 tipos de experimentos re
 Me llevarホ algマn tiempo explicarlo, pero...
 
 [msg MSG_014 [Aigis]]
-......
+...
 
 [msg MSG_015 [Naoto]]
-メ......?
+メ...?
 
 [msg MSG_016 [Futaba]]
 Je, je, je, ムno te preocupes por eso! ムLas chicas robot son superlindas!

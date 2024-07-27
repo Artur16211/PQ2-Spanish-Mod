@@ -50,7 +50,7 @@ Estホ bien, ムtengo una idea! ムSolo dejホdmelo a mボ!
 
 [msg MSG_015 [P3 Fem Protag]]
 ムShinjiro! ムAkihiko! ムEscuchad!
-Esta es una misiポn de caza, asボ que メpor qu〒 no hacemos una competiciポn para ver qui〒n de vosotros es el mejor luchador?
+Esta es una misiポn de caza, asボ que メpor qu〒 no hacemos una competiciポn para ver qui〒n de ustedes es el mejor luchador?
 
 [msg MSG_016 [Akihiko]]
 Una competiciポn, メeh?

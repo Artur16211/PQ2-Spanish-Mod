@@ -69,7 +69,7 @@ Cierto. Puedo tener la suerte de ir a la escuela, pero no necesariamente tengo e
 Ni tengo una familia que me apoye.
 
 [msg MSG_021 [Shinjiro]]
-......
+...
 
 [msg MSG_022 [Yusuke]]
 Si quiero seguir dedicホndome a la belleza, necesito dinero. El material artボstico no es barato, pero no puedo tener compromisos.
@@ -87,9 +87,9 @@ Sボ. Conozco como se siente hacer sacrificios para conseguir lo que realmente q
 Si eso significa hacerte mホs fuerte... entonces estoy mホs que dispuesto a arriesgar mi vida.
 
 [msg MSG_026 [Shinjiro]]
-......
+...
 Joder... Y pensar que hay otro tonto y torpe aquボ.
-Vale, que os den. Os dejar〒 comer todo lo que querホis. Solo id a buscar mホs ingredientes.
+Bien, que les den. Les dejar〒 comer todo lo que quieran. Solo vayan a buscar mホs ingredientes.
 
 [msg MSG_027 [P4 Hero]]
 Hemos recogido un montポn de plantas silvestres. Esto deberボa de ser suficiente.
@@ -149,5 +149,5 @@ Ahora que lo mencionas, recuerdo haber visto antes lo que parecボa un estanque.
 Estホ en la esquina noreste de este piso. Quizホs deberボan echar un vistazo.
 
 [msg MSG_044 [Morgana]]
-Vale, ムnos vamos a pescar! ムVamos antes de que Fox se desmaye!
+Bien, ムnos vamos a pescar! ムVamos antes de que Fox se desmaye!
 

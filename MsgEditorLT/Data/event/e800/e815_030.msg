@@ -24,7 +24,7 @@ He dicho reciente, pero aマn ha pasado algo de tiempo desde que estos huesos fu
 Ya veo. メAsボ que ahora deberボamos ir hacia el este?
 
 [msg MSG_008 [Ken]]
-ム......!
+ム...!
 
 [sel SEL_009 top]
 メPuedes entenderlo?

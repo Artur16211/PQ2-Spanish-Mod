@@ -1,5 +1,5 @@
 [msg MSG_000 [Makoto]]
-......
+...
 
 [msg MSG_001 [Morgana]]
 メQu〒 te parece? メSe te ocurriポ algマn entrenamiento para Chie y Akihiko?
@@ -80,7 +80,7 @@ Puedes analizar con calma una situaciポn y luego tomar decisiones calculadas. E
 Oh, メpero cポmo se supone que vamos a entrenar nuestro cerebro?
 
 [msg MSG_024 [Makoto]]
-Entrenamiento cerebral, メeh? *risita* Los dos sois muy fieles a vuestros objetivos.
+Entrenamiento cerebral, メeh? *risita* Los dos son muy fieles a sus objetivos.
 Una vez que tengan esa razポn para ser fuertes...
 
 [msg MSG_025 [Futaba]]

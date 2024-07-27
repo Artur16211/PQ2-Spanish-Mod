@@ -8,7 +8,7 @@ Este camino se desvボa un poco, pero definitivamente nos llevarホ al tesoro.
 ムメKoro?! メQu〒 ocurre?
 
 [msg MSG_003 [Aigis]]
-Parece que estホ diciendo, "Huelo el tesoro. Seguidme".
+Parece que estホ diciendo, "Huelo el tesoro. Siganme".
 
 [msg MSG_004 [Chie]]
 メTesoro? Hmm... Definitivamente no huele como la carne...

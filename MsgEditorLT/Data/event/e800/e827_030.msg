@@ -73,7 +73,7 @@ El valor de enfrentarse a una marea implacable de comida, y la diligencia de per
 Esas son las habilidades necesarias para ser un lボder.
 
 [msg MSG_022 [Yosuke]]
-Oh. Eh... vale. Perdポn.
+Oh. Eh... entiendo. Perdポn.
 
 [msg MSG_023 [P4 Hero]]
 No te preocupes por eso. Vamos a encontrar las partes que necesitamos.

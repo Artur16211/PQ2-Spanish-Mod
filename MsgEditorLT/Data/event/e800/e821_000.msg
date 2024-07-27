@@ -92,10 +92,10 @@ Ngh... Bueno, si no tenemos ingredientes, ムentonces solo tenemos que encontrar
 ムYo, Fox, har〒 cualquier cosa por una comida deliciosa!
 
 [msg MSG_026 [Akihiko]]
-Je... Parece que estホs a la altura. Vale, yo tambi〒n. Voy a dar lo mejor de mボ.
+Je... Parece que estホs a la altura. Bien, yo tambi〒n. Voy a dar lo mejor de mボ.
 
 [msg MSG_027 [Shinjiro]]
-メCuホnta hambre ten〒is...?
+メCuホnta hambre tienen...?
 De cualquier manera, no puedo hacer nada hasta que consigas esos ingredientes.
 
 [msg MSG_028]

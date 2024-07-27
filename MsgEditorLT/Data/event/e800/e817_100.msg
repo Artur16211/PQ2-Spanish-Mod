@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-Bravo, bravo. Me quito el sombrero ante vuestras habilidades de investigaciポn.
+Bravo, bravo. Me quito el sombrero ante sus habilidades de investigaciポn.
 
 [msg MSG_001 [Junpei]]
 Realmente nos hiciste pasar un mal rato. Fue difボcil imaginarse todo sin apenas informaciポn.
@@ -9,7 +9,7 @@ Pero la gente de Ciudad Kamo podrホ dormir tranquila esta noche, gracias a mボ
 
 [sel SEL_002 top]
 メJunpei, superdetective?
-......
+...
 
 [msg MSG_003 [Mitsuru]]
 ...J-Junpei, superdetective...

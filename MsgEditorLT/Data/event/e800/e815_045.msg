@@ -34,5 +34,5 @@ De acuerdo. Podrボamos ser atacados en cualquier momento. Tendremos que estar a
 Bueno, ciertamente es un oponente peligroso. Podrボa ser una buena idea reagruparse.
 
 [msg MSG_011 [Futaba]]
-ムVale, el enemigo estホ justo delante! ムNo bajen la guardia!
+ムBien, el enemigo estホ justo delante! ムNo bajen la guardia!
 

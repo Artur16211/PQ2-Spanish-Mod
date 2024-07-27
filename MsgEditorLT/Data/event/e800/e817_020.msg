@@ -1,5 +1,5 @@
 [msg MSG_000 [Ann]]
-Vale... asボ que necesitamos buscar pistas en la escena del crimen, メverdad?
+Bien... asボ que necesitamos buscar pistas en la escena del crimen, メverdad?
 
 [msg MSG_001 [Makoto]]
 Correcto. Elizabeth nos ha marcado las localizaciones.

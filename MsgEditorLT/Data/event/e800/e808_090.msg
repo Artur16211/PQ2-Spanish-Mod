@@ -7,7 +7,7 @@ Vamos a escuchar lo que dice.
 
 [msg MSG_002 [Naoto]]
 Esperad, deberボamos volver a comprobarlo.
-Ir〒 a asegurarme. Por favor, dejadme ocuparme de esto.
+Ir〒 a asegurarme. Por favor, déjenme ocuparme de esto.
 
 [msg MSG_003 [Naoto]]
 De acuerdo, asegur〒monos.

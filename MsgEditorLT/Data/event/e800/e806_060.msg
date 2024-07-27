@@ -50,7 +50,7 @@ Ni se te ocurra com〒rtela...
 Oh, sボ... Perdポn por eso.
 
 [msg MSG_016 [Rise]]
-ムMisiポn completada! ムVolved todo el mundo!
+ムMisiポn completada! ムVuelvan todo el mundo!
 
 [msg MSG_017 [Yusuke]]
 Ohh, ムno puedo esperar para capturar la emociポn que estoy sintiendo ahora mismo!

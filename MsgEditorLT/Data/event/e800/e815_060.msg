@@ -14,11 +14,11 @@ Estホ preguntando si estホs bien, Crow.
 Ja, ja, メestabas preocupado por mボ? Eres muy listo, メlo sabボas?
 
 [msg MSG_005 [Ken]]
-......
+...
 
 [sel SEL_006 top]
 メQu〒 ocurre?
-メEstホis bien?
+メEstán bien?
 
 [msg MSG_007 [Ken]]
 Oh, no es nada.

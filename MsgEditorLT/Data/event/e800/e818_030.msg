@@ -27,7 +27,7 @@ No, tiene razポn. Los fans de Junpei de todo el mundo van a estar muy decepcion
 メDe qu〒 estホs hablando? Incluso [f 6 1 27 0 0 0] ha perdido la fe en ti.
 
 [msg MSG_009 [P3 Fem Protag]]
-......
+...
 
 [msg MSG_010 [Junpei]]
 Y no en broma. ムSe ha quedado sin palabras!

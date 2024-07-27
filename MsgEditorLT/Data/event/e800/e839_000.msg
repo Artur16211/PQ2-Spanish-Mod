@@ -1,5 +1,5 @@
 [msg MSG_000 [Hikari]]
-......
+...
 
 [msg MSG_001 [Ryuji]]
 Yo, Hikari? Why're you just spacin' out[n]right there?

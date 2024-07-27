@@ -8,7 +8,7 @@ Bien. Empecemos con la bマsqueda.
 No parece que haya nada aquボ...
 
 [msg MSG_003 [Ryuji]]
-Tボo, vamos a descansar un poco. Me estホ empezando a doler la cadera.
+Vamos a descansar un poco. Me estホ empezando a doler la cadera.
 
 [msg MSG_004 [Futaba]]
 Suenas como un viejo, Skull.
@@ -45,7 +45,7 @@ Creo que serボa mejor que nos tomホramos un descanso.
 
 [msg MSG_014 [Yusuke]]
 メUn descanso...?
-Yo voy a seguir buscando. Sentボos libres de tomar un descanso si quieren.
+Yo voy a seguir buscando. Siéntanse libres de tomar un descanso si quieren.
 
 [msg MSG_015 [Chie]]
 Wow, ahora mismo no es necesario que te presiones.
@@ -64,7 +64,7 @@ Una vez me vi forzado a sobrevivir マnicamente a base de hierba y brotes de soj
 ムメQ-Qu〒?! ムRealmente te estホs emocionando con esto, Yukiko!
 
 [msg MSG_020 [Futaba]]
-Bueno, no parece que haya muchas sombras alrededor. Solo tened cuidado.
+Bueno, no parece que haya muchas sombras alrededor. Solo tengan cuidado.
 
 [msg MSG_021 [Yukiko]]
 No veo nada por aquボ. メQu〒 hay de ti, Fox?
@@ -73,7 +73,7 @@ No veo nada por aquボ. メQu〒 hay de ti, Fox?
 Me temo que yo tampoco.
 
 [msg MSG_023 [Makoto]]
-Vosotros dos deberボais descansar. Os vais a cansar si seguボs asボ.
+Ustedes dos deberían descansar. Se van a cansar si siguen asボ.
 
 [msg MSG_024 [Naoto]]
 No parece haber amonitas en esta zona. Tendremos que buscar en otro sitio.
@@ -115,10 +115,10 @@ La zona con agua mホs cercana estホ al noroeste
 ... Pensホndolo bien, creo que estoy demasiado hambriento como para moverme.
 
 [msg MSG_036 [Haru]]
-Me he traボdo algunas galletas, asボ que, メpor qu〒 no tomホis finalmente un descanso? Tマ tambi〒n, Yukiko.
+Me he traボdo algunas galletas, asボ que, メpor qu〒 no toman finalmente un descanso? Tマ tambi〒n, Yukiko.
 
 [msg MSG_037 [Yukiko]]
-Ok, vale. Muchas gracias.
+Ok, bien. Muchas gracias.
 
 [msg MSG_038 [Morgana]]
 Entonces estホ decidido. Descansamos un poco, ムy despu〒s al noroeste!

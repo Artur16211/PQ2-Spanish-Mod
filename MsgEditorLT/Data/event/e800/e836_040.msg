@@ -1,6 +1,6 @@
 [msg MSG_000 [Rise]]
 ムBien hecho, chicos! ムCon este ya van dos!
-ムSolo os queda uno mホs! ムYa lo tienen!
+ムSolo queda uno mホs! ムYa lo tienen!
 
 [msg MSG_001 [P3 Fem Protag]]
 Ahora que lo pienso, los navegantes son increボbles.
@@ -64,11 +64,11 @@ Pero cuando oigo eso de ustedes, me alegro de haberme esforzado al mホximo.
 Quiero decir, ムqueremos que lo hagan lo mejor posible en las batallas!
 
 [msg MSG_017 [Junpei]]
-ムDefinitivamente nos estホn motivando! ムSeguid asボ, chicas!
+ムDefinitivamente nos estホn motivando! ムSigan asボ, chicas!
 
 [msg MSG_018 [Rise]]
 ムYa lo tienes! ムTe apoyaremos con todo lo que tenemos!
 
 [msg MSG_019 [Futaba]]
-Vale, ya basta con el festival del amor. ムCorten! ムChicos, tienen que encontrar una pieza!
+Bien, ya basta con el festival del amor. ムCorten! ムChicos, tienen que encontrar una pieza!
 

@@ -2,7 +2,7 @@
 Hemos llegado a nuestro destino. メValdrホ esta ubicaciポn?
 
 [msg MSG_001 [Haru]]
-Sボ. Parece que hay un montポn de gente aquボ, asボ que deberボa de valer... Aunque, tambi〒n tendremos que tener coraje.
+Sボ. Parece que hay un montポn de gente aquボ, asボ que deberボa funcionar... Aunque, tambi〒n tendremos que tener coraje.
 Oh, メnecesitamos permiso de la policボa? メO podemos empezar ya?
 
 [msg MSG_002 [Rise]]
@@ -16,7 +16,7 @@ Entonces, メcポmo atraemos a la gente?
 Oh, um... Todavボa tenemos que resolver eso, メverdad?
 
 [msg MSG_005 [Rise]]
-ムDejadle eso a la マnica e inigualable Risechi! ムOs apoyar〒 todo el dボa!
+ムDejadle eso a la マnica e inigualable Risechi! ムLos apoyar〒 todo el dボa!
 Primero, tendremos que definir nuestras presentaciones.
 
 [msg MSG_006 [Aigis]]
@@ -28,7 +28,7 @@ Entonces, una vez que el pマblico
 Y de esa forma, ムyo tambi〒n podr〒 participar, aunque no est〒 allボ fボsicamente!
 
 [msg MSG_008 [Teddie]]
-ムAhora lo entiendo! ムVale, estoy listo!
+ムAhora lo entiendo! ムBien, estoy listo!
 
 [msg MSG_009 [Rise]]
 ムMuy bien, vamos a practicar! Intentar〒 guiar a todos, ムasボ que escuchen cuando diga sus nombres!

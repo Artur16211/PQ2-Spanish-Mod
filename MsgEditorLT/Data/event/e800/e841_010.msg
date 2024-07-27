@@ -22,10 +22,10 @@ The whole request seems odd.
 Has Marie been inspired?
 
 [msg MSG_007 [Marie]]
-......
+...
 
 [msg MSG_008 [Marie]]
-......!
+...!
 
 [msg MSG_009 [Margaret]]
 It seems she's been intrigued by[n]Hikari's movie ever since she saw those[n]flowers.

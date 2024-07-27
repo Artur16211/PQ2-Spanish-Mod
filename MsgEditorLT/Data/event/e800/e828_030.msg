@@ -14,7 +14,7 @@ Voy a echar un vistazo. Por favor, esperad un momento.
 Parece que le falta el controlador del motor. Podrボamos repararlo una vez que lo localicemos.
 
 [msg MSG_005 [P3 Fem Protag]]
-Vale, メentonces eso es todo lo que necesitamos? ムPues vamos allホ!
+Bien, メentonces eso es todo lo que necesitamos? ムPues vamos allホ!
 
 [msg MSG_006 [Ken]]
 Esto parece un trabajo para Koromaru.
@@ -27,7 +27,7 @@ Koromaru tambi〒n estホ muy motivado. Dice que su fuerte sentido del olfato no
 
 [msg MSG_009 [Teddie]]
 Ey, ムesperad un minuto! ムYo tambi〒n tengo un buen sentido del olfato, ya lo saben!
-ムSed testigos del poder de mi nariz que todo lo huele! Veamos... *sniff sniff*
+ムSean testigos del poder de mi nariz que todo lo huele! Veamos... *sniff sniff*
 ... Ah, ムeste olor! ムProviene del bolsillo de Yosuke!
 
 [msg MSG_010 [Yosuke]]

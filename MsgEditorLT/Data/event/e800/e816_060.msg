@@ -20,7 +20,7 @@ Parece que el contenedor ha estado asボ durante un tiempo.
 Bueno, hemos sacado todo, pero parece que solo es un montポn de basura.
 
 [msg MSG_007 [Naoto]]
-......
+...
 ... Espera, ムメqu〒 es esto?!
 El excelente cableado, este diseワo excepcional... メPara qu〒 podrボa servir esto?
 
@@ -42,7 +42,7 @@ Un momento, ムvoy a intentar capturar la inspiraciポn que sentボ cuando lo he
 Este material es bastante peculiar... メEs algマn tipo de aleaciポn? Me pregunto cuホl serホ la proporciポn de mezcla
 
 [msg MSG_013 [Morgana]]
-Vaya, tボo... Van a tardar un rato.
+Vaya... Van a tardar un rato.
 
 [msg MSG_014 [Naoto]]
 Este material es bastante peculiar... メEs algマn tipo de aleaciポn? Me pregunto cuホl serホ la proporciポn de mezcla
@@ -51,14 +51,14 @@ Este material es bastante peculiar... メEs algマn tipo de aleaciポn? Me pregu
 Muy bien, ムvoy a intentar capturar la inspiraciポn que sentボ cuando lo he visto por primera vez!
 
 [msg MSG_016 [Morgana]]
-Tボo, ahora estホn en su propio mundo... Esto podrボa tardar bastante.
+Ahora estホn en su propio mundo... Esto podrボa tardar bastante.
 
 [msg MSG_017 [Fuuka]]
 Ay, no es justo... ムYo tambi〒n quiero verlo!
 
 [msg MSG_018 [Futaba]]
 Vamos, la t〒cnica quiere su turno. No podemos dejarla fuera.
-Ey, frikis de los mechas, volved cuando hayホis acabado.
+Ey, frikis de los mechas, vuelvan cuando hayan acabado.
 
 [msg MSG_019 [Yusuke]]
 ムJa, ja, ja! ムPodrボa dibujar esto para siempre!

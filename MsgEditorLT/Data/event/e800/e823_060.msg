@@ -15,7 +15,7 @@ No puede ser. ムMe golpearon y no hiciste nada para apoyarme! ムEso es otro pu
 ムEso no fue nada! ムFrポtate un poco la suciedad!
 
 [msg MSG_005 [Akihiko]]
-ムメQu〒?! ムTボo, nunca me muestras ningマn respeto!
+ムメQu〒?! ムNunca me muestras ningマn respeto!
 ムY nunca me preparas comida! メTe matarボa ser algo mホs bueno conmigo?
 
 [msg MSG_006 [Shinjiro]]
@@ -27,21 +27,21 @@ Podrボa decir lo mismo de ti, Aki.
 
 [msg MSG_008 [Mitsuru]]
 ムNo estamos aquボ para divertirnos! ムEstamos poniendo en riesgo nuestras vidas!
-Y esa charla sobre ganar o perder... Pat〒tico... Hab〒is perdido de vista lo que es importante.
+Y esa charla sobre ganar o perder... Pat〒tico... Han perdido de vista lo que es importante.
 
 [msg MSG_009 [Akihiko]]
 ... Bueno, eh...
 
 [msg MSG_010 [Mitsuru]]
-メNo hab〒is escuchado lo que dijo [f 6 1 27 0 0 0]? Nada de hacerlo solo.
+メNo han escuchado lo que dijo [f 6 1 27 0 0 0]? Nada de hacerlo solo.
 Ella hizo esa regla porque ustedes solo ven lo que tienen delante.
 Y ya que ninguno de los dos pudo seguir esa regla, yo dirボa que ambos estホn descalificados.
 
 [msg MSG_011 [Shinjiro]]
-......
+...
 
 [msg MSG_012 [Akihiko]]
-......
+...
 
 [msg MSG_013 [P3 Fem Protag]]
 Hmm... Yo digo... que el ganador es...
@@ -71,8 +71,8 @@ Sボ, creo que tマ tambi〒n lo hiciste muy bien, Joker. Pero...
 メYo?
 
 [msg MSG_021 [P3 Fem Protag]]
-Sボ, todos hab〒is luchado mucho y os hab〒is mantenido firmes.
-Pero tambi〒n os pedボ que apoyarais a vuestros compaワeros.
+Sボ, todos han luchado mucho y se han mantenido firmes.
+Pero tambi〒n les pedボ que apoyaran a sus compaワeros.
 ムAsボ que Mitsuru gana porque pudo regaワar a sus compaワeros por no estar ahボ para los demホs!
 
 [msg MSG_022 [Shinjiro]]
@@ -104,7 +104,7 @@ Tanto [f 6 1 27 0 0 0] como [f 6 1 15 0 0 0] son personas increボbles.
 Hicimos el ridボculo... Aki, メqu〒 dices si lo intentamos de nuevo?
 
 [msg MSG_030 [Akihiko]]
-ムVale! ムD〒jamelo a mボ! Me asegurar〒 de apoyarte...
+ムBien! ムD〒jamelo a mボ! Me asegurar〒 de apoyarte...
 ムCon la mejor proteボna que tengo!
 
 [msg MSG_031 [Shinjiro]]

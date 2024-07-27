@@ -1,6 +1,6 @@
 [msg MSG_000 [Ryuji]]
 ムGenial! ムUno menos!
-ムEl tボo no era mホs que un gran simio apestoso!
+ムEl tipo no era mホs que un gran simio apestoso!
 
 [msg MSG_001 [Kanji]]
 ...Bien, perdoooon.

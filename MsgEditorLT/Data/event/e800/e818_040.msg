@@ -9,7 +9,7 @@ Eso se parece a la Yukari que yo conozco. Tiene buen ojo para la moda.
 メLo tiene...?
 
 [msg MSG_003 [Fuuka]]
-Ya solo queda un material raro mホs. ムVais a buen ritmo!
+Ya solo queda un material raro mホs. ムVan a buen ritmo!
 
 [msg MSG_004 [P3 Fem Protag]]
 Esto es todo gracias a ti, Fuuka. Eres tan fiable como siempre.
@@ -42,7 +42,7 @@ En serio... メEs tambi〒n tu Fuuka buena con la tecnologボa?
 Pero se le da realmente mal cocinar. Incluso ha confundido azマcar con harina.
 
 [msg MSG_012 [Fuuka]]
-......
+...
 
 [msg MSG_013 [P3 Fem Protag]]
 Um, ムesta es la Fuuka que yo conozco!
@@ -85,18 +85,18 @@ Sボ. メA dポnde vamos ahora, Fuuka?
 La マltima cosa que necesitamos es el Teddy Bear de un Phantom Mage en 4-B.
 
 [msg MSG_024 [P3 Fem Protag]]
-ムVale! ムEncontr〒moslo y volvamos rホpido con Theo!
+ムBien! ムEncontr〒moslo y volvamos rホpido con Theo!
 
 [msg MSG_025 [Fuuka]]
 La マltima cosa que necesitamos es el Kaleidoscope de un Flowing Sand en 3-F.
 
 [msg MSG_026 [P3 Fem Protag]]
-ムVale! ムEncontr〒moslo y volvamos rホpido con Theo!
+ムBien! ムEncontr〒moslo y volvamos rホpido con Theo!
 
 [msg MSG_027 [Fuuka]]
 La マltima cosa que necesitamos es la Clay Figurine de un Rampage Drive.
-Deberボais de poder encontrar alguno en cualquier lugar de esta planta.
+Deberían de poder encontrar alguno en cualquier lugar de esta planta.
 
 [msg MSG_028 [P3 Fem Protag]]
-ムVale! ムEncontr〒moslo y volvamos rホpido con Theo!
+ムBien! ムEncontr〒moslo y volvamos rホpido con Theo!
 

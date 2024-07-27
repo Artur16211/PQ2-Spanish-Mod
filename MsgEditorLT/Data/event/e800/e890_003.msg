@@ -12,7 +12,7 @@ Bueno, es una rara oportunidad para mボ. El protocolo pide que me vista adecuad
 Pero no eres nuestro enemigo, Theodore. Luchar contra ti se siente mal...
 
 [msg MSG_004 [Theodore]]
-Por favor, no dejen que eso os moleste. Despu〒s de todo, no es una simple pelea, sino un combate formal.
+Por favor, no dejen que eso los moleste. Despu〒s de todo, no es una simple pelea, sino un combate formal.
 Luchemos sin rencores. Yo tambi〒n lo dar〒 todo.
 
 [msg MSG_005 [Elizabeth]]

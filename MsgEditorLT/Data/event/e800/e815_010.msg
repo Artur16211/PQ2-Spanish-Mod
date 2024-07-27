@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 Ahora, para esta proyecciポn especial...
-Deb〒is ir a Junessic Land y acabar con la tiranボa incontrolada de la Bestia Carnボvora.
+Deben ir a Junessic Land y acabar con la tiranボa incontrolada de la Bestia Carnボvora.
 
 [msg MSG_001 [Rise]]
 Carnボvoro... espera, メno es uno de esos FOEs?
@@ -9,7 +9,7 @@ Carnボvoro... espera, メno es uno de esos FOEs?
 Correcto. Es una amenaza mucho mホs maliciosa que cualquier otro dinosaurio.
 Devorando todo a la vista, es la definiciポn de B-E-S-T-I-A.
 Actualmente, estホ desmadrado, haciendo lo que le da la gana, donde le da la gana...
-Si no se hace algo pronto, seguro que tarde o temprano irホ contra vosotros... o eso me temo.
+Si no se hace algo pronto, seguro que tarde o temprano irホ contra ustedes... o eso me temo.
 
 [msg MSG_003 [Shinjiro]]
 La mierda que estホs diciendo no concuerda con tu expresiポn...

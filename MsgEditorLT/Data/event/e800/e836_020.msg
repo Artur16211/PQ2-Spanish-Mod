@@ -11,8 +11,8 @@ Parece que esos Roaring Turrets se encuentran por la zona suroeste del mapa...
 ムNecesitamos tres de esos Gizmos Futuristas!
 
 [msg MSG_003 [Kanji]]
-Parece bastante simple... ムVale, vamos a destrozarlos!
+Parece bastante simple... ムBien, vamos a destrozarlos!
 
 [msg MSG_004 [Futaba]]
-Pero no se vuelvan locos ahボ fuera, メvale? ムBuena suerte, chicos!
+Pero no se vuelvan locos ahボ fuera, ムBuena suerte, chicos!
 

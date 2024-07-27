@@ -60,7 +60,7 @@ Caray, parece que estホn dispuestos a com〒rselo... Quizホ deberボas decirle
 [sel SEL_017 top]
 Derrotar al FOE es lo primero.
 ムEs un buffet de carne!
-Que os den.
+Que les den.
 
 [msg MSG_018 [Chie]]
 ムBien, bien, bien! ムY despu〒s conseguimos la carne!
@@ -78,8 +78,8 @@ Muy bien, haremos como nos plazca. Sugiero que llevemos recipientes para la carn
 ムOh! ムYo tambi〒n!
 
 [msg MSG_023 [Yosuke]]
-Tボos, realmente estホis empeワados en hacer esto.
-Bueno, si quieren la carne del FOE, supongo que os echar〒 una mano.
+Realmente están empeワados en hacer esto.
+Bueno, si quieren la carne del FOE, supongo que les echar〒 una mano.
 
 [msg MSG_024 [P4 Hero]]
 Yosuke... メTマ tambi〒n tienes hambre?
@@ -95,5 +95,5 @@ Estuve separado de todos durante todo este tiempo, asボ que realmente no he ten
 [msg MSG_027 [Elizabeth]]
 *risita* Apetitos monstruosos, curiosidad persistente y otros motivos complejos tambi〒n...
 Aunque sus razones puedan ser distintas, estホn muy unidos para conseguirlo.
-Sin embargo, recordad que se enfrentarホn a un FOE... Os pido que tengan cuidado hasta el final.
+Sin embargo, recordad que se enfrentarホn a un FOE... Les pido que tengan cuidado hasta el final.
 

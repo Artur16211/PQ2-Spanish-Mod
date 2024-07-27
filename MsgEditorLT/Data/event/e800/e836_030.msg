@@ -43,8 +43,8 @@ Pero hay una cosa que todas tienen, y eso es una habilidad increボble. Es por e
 
 [msg MSG_013 [Rise]]
 Je, je, je... Bueno, ムcuando lo dices asボ...!
-ムPero esto nos ayudarホ a potenciarnos aマn mホs! Asボ que prepホrense, メvale?
+ムPero esto nos ayudarホ a potenciarnos aマn mホs! Asボ que prepホrense, メde acuerdo?
 
 [msg MSG_014 [Fuuka]]
-ムHaced todo lo posible por encontrar las dos マltimas piezas!
+ムHagan todo lo posible por encontrar las dos マltimas piezas!
 

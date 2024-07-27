@@ -61,7 +61,7 @@ Contamos contigo.
 ムYo tambi〒n puedo!
 
 [msg MSG_019 [P4 Hero]]
-Aprecio vuestra confianza, pero no creo que sea posible.
+Aprecio su confianza, pero no creo que sea posible.
 
 [msg MSG_020 [P4 Hero]]
 Me alegra escuchar eso, pero no creo que sea posible.

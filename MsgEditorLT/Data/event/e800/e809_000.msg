@@ -38,10 +38,10 @@ Bueno, ya estホ otra vez asボ.
 
 [msg MSG_010 [Morgana]]
 Hmm, nunca me habボa preocupado mucho por los grafitis.
-Pero es un crimen, メverdad? Si Queen lo viera, seguro que probarボais el puワo de la justicia.
+Pero es un crimen, メverdad? Si Queen lo viera, seguro que probarボan el puワo de la justicia.
 
 [msg MSG_011 [Ann]]
-Hey, メcuホnto tiempo mホs vais a estar ahボ quietos? ムQueen y Noir nos estホn esperando! ムVamos!
+Hey, メcuホnto tiempo mホs van a estar ahボ quietos? ムQueen y Noir nos estホn esperando! ムVamos!
 
 [msg MSG_012 [Yusuke]]
 Mis disculpas, me he distraボdo... Bien. Acabemos con nuestra prioridad.

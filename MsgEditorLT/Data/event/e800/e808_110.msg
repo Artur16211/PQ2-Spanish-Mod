@@ -1,9 +1,9 @@
 [msg MSG_000 [Rise]]
-ムVolved aquボ! ムLo han hecho genial, Naoto y Futaba!
+ムVuelvan aquボ! ムLo han hecho genial, Naoto y Futaba!
 
 [msg MSG_001 [Makoto]]
 Sボ, me ha impresionado mucho la memoria de Futaba y la capacidad de anホlisis de Shirogane.
-Gracias a vosotras dos, hemos sido capaces de resolver el crimen.
+Gracias a ustedes dos, hemos sido capaces de resolver el crimen.
 
 [sel SEL_002 top]
 ムBuen trabajo!

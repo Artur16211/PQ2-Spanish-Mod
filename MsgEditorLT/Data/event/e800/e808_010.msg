@@ -15,7 +15,7 @@ Oh hoh. Esta prポxima parece que es de mホs de 9000...
 
 [msg MSG_005 [Elizabeth]]
 ムSilencio, por favor! Las proyecciones especiales no debe tomarse a la ligera...
-ムSi no os callホis, se enfrentarホn a mi poder de 530,000!
+ムSi no se callan, se enfrentarホn a mi poder de 530,000!
 
 [msg MSG_006 [Ryuji]]
 Oh, ella va a por todas con esto...
@@ -74,7 +74,7 @@ Es un poco confuso...
 メEn serio? Yo no entendido nada de eso... Eres muy inteligente, [f 6 1 30 0 0 0].
 
 [msg MSG_022 [Futaba]]
-ムNo se preocupen! ムYo os cubro las espaldas!
+ムNo se preocupen! ムYo les cubro las espaldas!
 
 [msg MSG_023 [Naoto]]
 No tienen por qu〒 preocuparos. No estホ tan mal una vez que lo intentas.

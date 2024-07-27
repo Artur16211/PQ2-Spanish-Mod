@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 Estoy muy insatisfecha con sus resultados.
 Vuestro objetivo era "reunir" los ingredientes, pero parece que se han adelantado y los han cocinado...
-Gracias a vuestro egoボsmo, me qued〒 sentada aquボ medio muerta de hambre.
+Gracias a su egoボsmo, me qued〒 sentada aquボ medio muerta de hambre.
 Ahora mi hambre es tan intensa que tengo unas ganas irrefrenables de DESTRUIRLO TODO.
 
 [msg MSG_001 [Akihiko]]
@@ -49,7 +49,7 @@ Quizホ pueda canalizar este sentimiento en mi rutina de combate.
 [msg MSG_013 [Shinjiro]]
 Estos dos son otra cosa...
 Bueno, si tienen hambre, no me importa volver a cocinar para ustedes...
-Pero si os pillo poniendo esa mierda de proteボna en todo, habrホ un infierno que pagar, メentendido?
+Pero si los descubro poniendo esa mierda de proteボna en todo, habrホ un infierno que pagar, メentendido?
 
 [msg MSG_014 [Yusuke]]
 Entendido... Tendremos que comerlo en nuestro tiempo libre. ムMuy bien, entonces! ムBuena comida y proteボnas!

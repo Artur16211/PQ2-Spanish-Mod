@@ -49,13 +49,13 @@ Sospecho... que no somos tan parecidos como crees.
 He elegido mi propio camino. Me temo que eso es todo.
 
 [msg MSG_015 [Shinjiro]]
-......
+...
 Mira, no conozco tu vida, pero d〒jame decirte esto.
 He hecho muchas cosas malas. Ojalホ pudiera deshacer algunas. Pero como no puedo, intento vivir sin arrepentimientos.
 Eso es todo. Nos vemos.
 
 [msg MSG_016 [Akechi]]
-......
+...
 De verdad que lo siento... pero es que no lo entiendo.
 
 [msg MSG_017 [Akechi]]

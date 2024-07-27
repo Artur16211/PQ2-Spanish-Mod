@@ -1,13 +1,13 @@
 [msg MSG_000 [Elizabeth]]
-Este es definitivamente el pez que os pedボ.
-Debo decir que vuestras t〒cnicas de pesca son realmente un espectホculo a la vista.
+Este es definitivamente el pez que les pedボ.
+Debo decir que sus t〒cnicas de pesca son realmente un espectホculo a la vista.
 Supongo que deberボa haberlo esperado viniendo de esos que tienen el poder de la carta del comodボn.
 
 [msg MSG_001 [Kanji]]
 Los dos estuvieron asombrosos... Creo que nos enseワaron cポmo debe ser un lボder.
 
 [msg MSG_002 [Ryuji]]
-Yeah, ムvuestro lボder fue tan guay como el nuestro!
+ムSu lボder fue tan guay como el nuestro!
 
 [msg MSG_003 [Akechi]]
 Ambos tienen el tipo de carisma que une a la gente... Imagino que por eso son tan parecidos.
@@ -61,15 +61,15 @@ Por supuesto.
 メOh? ムEs como si los dos se hubieran puesto en modo sマper amistad!
 
 [msg MSG_016 [Kanji]]
-No bromeo... Los dos juntos sois como nivel 99, o algo asボ...
+No bromeo... Los dos juntos son como nivel 99, o algo asボ...
 
 [msg MSG_017 [P4 Hero]]
 No... Es 530,000.
 
 [msg MSG_018 [Yosuke]]
-ムメDe qu〒 demonios estホis hablando?!
-Bueno, de cualquier forma... Si trabajホis juntos, no tendrホn nada que temer.
+ムメDe qu〒 demonios están hablando?!
+Bueno, de cualquier forma... Si trabajan juntos, no tendrホn nada que temer.
 
 [msg MSG_019 [Morgana]]
-ムApuesto a que vosotros dos os vais a hacer mホs fuertes todavボa!
+ムApuesto a que ustedes dos se van a hacer mホs fuertes todavボa!
 

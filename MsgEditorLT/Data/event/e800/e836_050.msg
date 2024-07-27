@@ -32,7 +32,7 @@ No s〒. A Chie no le va mucho eso.
 Uhh... No deberボa de haber dicho nada.
 
 [msg MSG_010 [Futaba]]
-Vale, nos podemos ahorrar la charla para luego. Volved al cine.
+Bien, nos podemos ahorrar la charla para luego. Vuelvan al cine.
 Espera... ムOh, maldiciポn!
 
 [msg MSG_011 [Yusuke]]
@@ -58,7 +58,7 @@ Rise, busca por favor una ruta segura.
 [msg MSG_017 [Futaba]]
 Yo comprobar〒 si hay mホs sombras por la zona.
 Chicos, qu〒dense quietos un segundo o dos. ムLes ayudaremos a guiarse!
-ムSolo aguantad un poco mホs!
+ムSolo aguanten un poco mホs!
 
 [msg MSG_018 [Mitsuru]]
 Tsk. Supongo que esta es una batalla inevitable.

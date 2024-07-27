@@ -75,7 +75,7 @@ Camarポn, camarポn... ムCAMARロN!
 Sボ... ムEsa es la mirada! ムEse es el sentimiento! ムPonlo todo en el lienzo!
 
 [msg MSG_020 [Yukiko]]
-ムVale! ムLo intentar〒!
+ムBien! ムLo intentar〒!
 
 [msg MSG_021 [Yusuke]]
 ムE-Esto es...!

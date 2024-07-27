@@ -1,11 +1,11 @@
 [msg MSG_000 [Futaba]]
-Misiポn completada. Volved todos.
+Misiポn completada. Vuelvan todos.
 
 [msg MSG_001 [Ryuji]]
 ムMuy bien! Vamos a rodar, Ken.
 
 [msg MSG_002 [Ken]]
-Um, メpasarボa algo si os pido una cosa mホs?
+Um, メpasarボa algo si les pido una cosa mホs?
 
 [msg MSG_003 [Morgana]]
 メHm? メQu〒 es?
@@ -33,5 +33,5 @@ Oh, no hay ninguna razポn. Solo tenボa un poco de curiosidad.
 Bueno, hemos terminado aquボ, ムasボ que volvamos!
 
 [msg MSG_010 [Ryuji]]
-......
+...
 

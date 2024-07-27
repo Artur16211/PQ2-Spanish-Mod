@@ -15,7 +15,7 @@ Solo tengo una ligera idea de las circunstancias... Sinceramente, no tengo ni id
 No puedes ser tan despistada...
 
 [msg MSG_005 [Elizabeth]]
-La mayor parte de vuestra tarea serホ descubrir los detalles de dichos incidentes. Esto no es mi trabajo.
+La mayor parte de su tarea serホ descubrir los detalles de dichos incidentes. Esto no es mi trabajo.
 
 [msg MSG_006 [Junpei]]
 Tボポ, si ni siquiera sabes dポnde ocurriポ, entonces, メqu〒 cojones se supone que hagamos?
@@ -31,7 +31,7 @@ Pero claro. Al fin y al cabo, es un thriller policボaco.
 Quiero decir, no se equivoca...
 
 [msg MSG_010 [Junpei]]
-ムEh, este tボo lo sabe! ムSボ, ni siquiera Junpei, el superdetective, podrボa resolver esto!
+ムEh, este lo sabe! ムSボ, ni siquiera Junpei, el superdetective, podrボa resolver esto!
 
 [msg MSG_011 [Mitsuru]]
 Muy bien, basta de bromas...

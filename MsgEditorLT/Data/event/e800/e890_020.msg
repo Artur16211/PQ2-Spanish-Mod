@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 ムVaya! Creo que ya todos conocemos el procedimiento...
 Han conseguido una nueva parte de pelボcula que contiene posibilidades ocultas del poder del comodボn.
-En consecuencia, he encontrado a unas cポmplices para que os ayuden a restaurar su luz.
+En consecuencia, he encontrado a unas cポmplices para que los ayuden a restaurar su luz.
 
 [msg MSG_001 [Caroline]]
 Hmph. No estamos aquボ por su bien.
@@ -13,14 +13,14 @@ Solo nos encontrホbamos aburridas. Esa es la マnica razポn por la que luchare
 Ohh, ムuna doble explosiポn de tsunderes!
 
 [sel SEL_004 top]
-Os lo agradezco.
+Se los agradezco.
 No se fuercen.
 
 [msg MSG_005 [Caroline]]
 ムN-No hay nada que agradecer! ムYa hemos dicho que no lo hacemos por ustedes!
 
 [msg MSG_006 [Justine]]
-Si os ganamos, hay algo en ello para nosotras.
+Si les ganamos, hay algo en ello para nosotras.
 
 [msg MSG_007 [Futaba]]
 Sボ, las dos son muy pequeワas. No queremos acabar hiri〒ndolas.

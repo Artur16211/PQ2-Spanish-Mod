@@ -16,7 +16,7 @@ Empezar a correr.
 Apuesto a que alguien tan bueno como tマ es un verdadero 〒xito con las damas. O quizホ ya est〒s saliendo con alguien...
 
 [msg MSG_003 [Junpei]]
-ムEres un tirano, tボo! ムEso no te harホ popular con las mujeres!
+ムEres un tirano! ムEso no te harホ popular con las mujeres!
 
 [msg MSG_003_1 [Junpei]]
 Hablando de eso, メy si te doy algunos consejos...?

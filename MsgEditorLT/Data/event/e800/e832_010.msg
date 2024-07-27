@@ -42,7 +42,7 @@ Es imposible que eso sea lo que estホ escrito...
 Asボ que, bホsicamente, メel trボo de chicas bellas son las estrellas de este espectホculo?
 
 [msg MSG_010_1 [Elizabeth]]
-En efecto. Supongo que serホ suficiente si aワaden a esas tres a vuestro equipo.
+En efecto. Supongo que serホ suficiente si aワaden a esas tres a su equipo.
 
 [msg MSG_011 [Haru]]
 メBellas...? メYo tambi〒n estoy incluボda en eso?
@@ -79,7 +79,7 @@ Dejando a un lado las motivaciones de Teddie, si la proyecciポn lo requiere, en
 メTe parece bien que nos encarguemos de esta proyecciポn, [f 6 1 30 0 0 0]?
 
 [sel SEL_021 top]
-Es toda vuestra.
+Es toda su.
 Estoy un poco preocupado.
 Yo tambi〒n me esforzar〒.
 

@@ -1,5 +1,5 @@
 [msg MSG_000 [Theodore]]
-Hola a todos. メQu〒 tal estホis?
+Hola a todos. メQu〒 tal están?
 
 [msg MSG_001 [Elizabeth]]
 ... ムVillano!
@@ -23,7 +23,7 @@ Sobre eso... He venido aquボ porque tenボa una solicitud.
 メOcurre algo?
 
 [msg MSG_007 [Theodore]]
-Bueno, si sois capaces...
+Bueno, si son capaces...
 Hay algo que me gustarボa tener en mis manos.
 ムLo llaman "Gizmo Futurista"!
 
@@ -61,7 +61,7 @@ B-Bien... Entonces... メFボsica?
 Hmm... Estホn dejando fuera a los normies para que los frikis puedan hablar entre sボ.
 
 [msg MSG_017 [Theodore]]
-Ah, vosotras dos sab〒is un montポn.
+Ah, ustedes dos saben un montポn.
 
 [msg MSG_018 [Naoto]]
 , メte parece bien que busquemos ese "Gizmo Futurista"?
@@ -72,11 +72,11 @@ Me parece bien.
 
 [msg MSG_020 [Theodore]]
 Muy agradecido, [f 6 1 30 0 0 0].
-Y si lo consideramos una proyecciポn especial, os podr〒 regalar una recompensa.
+Y si lo consideramos una proyecciポn especial, les podr〒 regalar una recompensa.
 Con eso, Hermana, podrボas crear una...
 
 [msg MSG_021 [Elizabeth]]
-......
+...
 
 [msg MSG_022 [Theodore]]
 ... メHermana?

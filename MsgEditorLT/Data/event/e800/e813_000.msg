@@ -6,7 +6,7 @@ Escuchad. ムTheodore ha creado un nuevo tipo de palomitas!
 Palomitas... Solo con escuchar la palabra mi estポmago ruge.
 
 [msg MSG_002 [Theodore]]
-Os he estado esperando.
+Los he estado esperando.
 Creo que me he superado en esta マltima creaciポn. Por favor, probadlas.
 
 [msg MSG_003 [Haru]]

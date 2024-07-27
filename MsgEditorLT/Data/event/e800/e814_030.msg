@@ -39,7 +39,7 @@ No te preocupes por eso. Lo estoy observando, ムasボ que me asegurar〒 de vig
 
 [msg MSG_012 [Haru]]
 Gracias, Rise.
-Espera aquボ, メvale? Volveremos para ayudarte en un momento, y entonces podrホs ver a tu mami.
+Espera aquボ. Volveremos para ayudarte en un momento, y entonces podrホs ver a tu mami.
 
 [msg MSG_013 [Young herbivore]]
 *gimoteo*

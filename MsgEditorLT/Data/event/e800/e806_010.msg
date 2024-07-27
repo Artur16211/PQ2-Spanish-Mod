@@ -44,7 +44,7 @@ Desearボa conmover el corazポn de Amagi.
 ムLas chicas quieren cosas que sean brillantes y caras!
 
 [msg MSG_013 [Chie]]
-Asボ no es cポmo se hace, pero... メDesde cuホndo vosotros dos sois algo?
+Asボ no es cポmo se hace, pero... メDesde cuホndo ustedes dos son algo?
 
 [msg MSG_014 [Yukiko]]
 Lo has malinterpretado. Yusuke me estホ enseワando a dibujar.

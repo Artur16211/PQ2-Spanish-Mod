@@ -67,7 +67,7 @@ No s〒 si esto...
 Vamos, estarホs bien. Te cubrimos las espaldas, como siempre.
 
 [msg MSG_018 [Elizabeth]]
-メHemos llegado a un acuerdo? Entonces dejadme que os lo resuma.
+メHemos llegado a un acuerdo? Entonces déjenme que lo resuma.
 
 [msg MSG_018_1 [Elizabeth]]
 Por favor, acabad con la poderosa sombra que ha aparecido en las profundidades de la Ciudad Kamo.
@@ -77,5 +77,5 @@ Y cuando lo hagホis, aseguraos que [f 6 1 30 0 0 0] se una a la batalla.
 Entendido. Nos dirigiremos allボ cuando estemos listos
 
 [msg MSG_020 [Elizabeth]]
-Espero una gran actuaciポn, [f 6 1 30 0 0 0]. Os deseo la mejor de las suertes.
+Espero una gran actuaciポn, [f 6 1 30 0 0 0]. Les deseo la mejor de las suertes.
 

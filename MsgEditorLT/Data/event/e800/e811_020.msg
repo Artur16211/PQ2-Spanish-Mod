@@ -73,7 +73,7 @@ Ah, asボ que lo oculta en un Punto del Tesoro, y protege la zona que lo rodea..
 
 [msg MSG_021 [Futaba]]
 Muy bien, parece que nuestro primer objetivo es encontrar una Seidoptera.
-Las Seidopteras son FOEs, asボ que deberボais de poder verlas en vuestro mapa.
+Las Seidopteras son FOEs, asボ que deberían de poder verlas en su mapa.
 
 [msg MSG_022 [Rise]]
 Hay dos de ellas. Asボ que supongo que cada uno tiene un tesoro.

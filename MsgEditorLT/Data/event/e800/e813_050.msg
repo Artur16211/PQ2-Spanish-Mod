@@ -16,7 +16,7 @@ Considerando su personalidad, es difボcil creer que actuarボa tan agresivament
 Tengo una teorボa al respecto...
 
 [msg MSG_005 [Teddie]]
-メOhh? Son Naoto y Goro. メQu〒 estホis haciendo aquボ?
+メOhh? Son Naoto y Goro. メQu〒 están haciendo aquボ?
 
 [msg MSG_006 [Naoto]]
 ムTeddie! ムTe estホbamos buscando!
@@ -47,7 +47,7 @@ En otras palabras, todos los incidentes fueron llevados a cabo por alguien disfr
 Sボ, alguien probablemente se disfrazポ de Teddie... メVerdad?
 
 [msg MSG_014 [Teddie]]
-ムNwaah! ムSoy inocente! ムTen〒is que creerme!
+ムNwaah! ムSoy inocente! ムTienen que creerme!
 
 [msg MSG_015 [Akechi]]
 Ya lo sabemos.
@@ -88,7 +88,7 @@ Sボ, estoy empezando a ver lo que ocurriポ, y creo que s〒 tambi〒n qui〒n 
 Yo tambi〒n tengo una idea.
 
 [msg MSG_026 [Naoto]]
-Os lo dirボa, pero todavボa no tenemos ninguna prueba irrefutable.
+Se los dirボa, pero todavボa no tenemos ninguna prueba irrefutable.
 Si el culpable decide hacerse el tonto, nos quedaremos sin opciones.
 Serボa mejor no nombrar a nadie hasta que estemos seguros.
 

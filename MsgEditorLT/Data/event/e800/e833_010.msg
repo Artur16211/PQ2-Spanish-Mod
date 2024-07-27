@@ -44,7 +44,7 @@ Cualquier pelボcula puede ser magnボfica... Todos los actores de primera lo sa
 ムEntonces intent〒moslo! ムLas estrellas no eligen su trabajo!
 
 [msg MSG_012 [Ryuji]]
-Bro... Bueno, vale, pongamos este espectホculo en marcha.
+Bro... Bueno, pongamos este espectホculo en marcha.
 Tiene que haber sombras por allボ, asボ que vamos a acabar con ellas, conseguir el botボn y hacernos con nuevas armas.
 
 [msg MSG_013 [Haru]]

@@ -1,5 +1,5 @@
 [msg MSG_000 [P3 Fem Protag]]
-Vale, lo primero es encontrar al robot roto.
+Bien, lo primero es encontrar al robot roto.
 Elizabeth dijo que deberボamos poder encontrarlo sin problemas... Me pregunto dポnde estarホ.
 
 [msg MSG_001 [Koromaru]]

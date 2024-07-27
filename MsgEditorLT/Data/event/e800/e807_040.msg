@@ -8,7 +8,7 @@ Sabes, ahora que estoy viendo la carne, o arma, o lo que sea... Esa cosa es mald
 Lo sabボa. Cuanto mホs lo veo, mi curiosidad y mi apetito se hacen mホs fuertes.
 
 [msg MSG_003 [Chie]]
-Oh, tボo, メeso es pollo frito? Eso podrボa alimentar como, cinco, no, ムdiez personas!
+Oh, メeso es pollo frito? Eso podrボa alimentar como, cinco, no, ムdiez personas!
 
 [msg MSG_004 [Yosuke]]
 Ey, esperad, chicos. Es muy peligroso entrar ahボ solos.

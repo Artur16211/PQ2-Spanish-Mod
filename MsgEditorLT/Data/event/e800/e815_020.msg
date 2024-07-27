@@ -10,7 +10,7 @@ Yo examinar〒 los huesos, asボ que esa parte estホ cubierta.
 ムArf, arf!
 
 [msg MSG_003 [Akechi]]
-メ......?
+メ...?
 メQu〒 ocurre, Koromaru?
 
 [sel SEL_004 top]

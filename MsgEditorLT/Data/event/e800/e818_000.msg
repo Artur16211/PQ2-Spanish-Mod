@@ -13,13 +13,13 @@ Podemos seguir avanzando.
 
 [msg MSG_004 [Junpei]]
 ムSボ, buena elecciポn!
-Vosotros realmente sab〒is cポmo convencer a la gente.
+Ustedes realmente saben cポmo convencer a la gente.
 
 [msg MSG_005 [Ann]]
 Hmm, todos parecen muy cansados. Quizホs deberボamos tomar un descanso.
 
 [msg MSG_006 [Junpei]]
-Bien, vamos a descansar un poco. Vosotros no sois muy buenos entendiendo a la gente, メverdad?
+Bien, vamos a descansar un poco. Ustedes no son muy buenos entendiendo a la gente, メverdad?
 
 [msg MSG_007 [P3 Fem Protag]]
 Ja, ja, ja, tマ siempre eres igual, no importa dポnde estemos, Junepi.
@@ -43,13 +43,13 @@ Um... No lo s〒.
 Joder, Yuka, メpor qu〒 eres tan cruel...?
 
 [msg MSG_014 [P3 Fem Protag]]
-......
+...
 
 [msg MSG_015 [Fuuka]]
 メ[f 6 1 27 0 0 0]...?
 
 [msg MSG_016 [P3 Fem Protag]]
-... Oh, ムv-voy a ir a hablar con los demホs! ムDisfrutad de vuestro descanso!
+... Oh, ムv-voy a ir a hablar con los demホs! ムDisfrutad de su descanso!
 
 [msg MSG_017 [Yukari]]
 ...

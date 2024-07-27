@@ -55,7 +55,7 @@ Oh. Bueno, podemos seguir con esto la prポxima vez que estemos en A.I.G.I.S., o
 メPor qu〒 no te la cuentas a ti mismo? Vホmonos.
 
 [msg MSG_017 [Junpei]]
-ムEspera! ムNo me dej〒is aquボ!
+ムEspera! ムNo me dejen aquボ!
 
 [msg MSG_018]
 Una nueva proyecciポn especial: "ムInvestiga A.I.G.I.S.!" ha sido aワadida a la taquilla.

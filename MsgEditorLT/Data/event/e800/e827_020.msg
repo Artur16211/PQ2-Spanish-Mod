@@ -10,7 +10,7 @@ Ahora bien, ムadelante! A por nuestro botボn de donu...
 [msg MSG_003 [Futaba]]
 ムEspera, Fox!
 Hay muchos mホs FOEs que de costumbre a nuestro alrededor.
-Si se lanzan a la carga, os van a destrozar.
+Si se lanzan a la carga, los van a destrozar.
 
 [msg MSG_004 [P3 Hero]]
 ... Esto va a ser largo.

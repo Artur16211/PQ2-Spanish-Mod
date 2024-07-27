@@ -68,7 +68,7 @@ Bueno, supongo que te puedes unir por esta vez. Solo estホbamos hablando sobre 
 
 [msg MSG_021 [Teddie]]
 Entrar〒 en este reino secreto de la feminidad, ムaunque eso me mate!
-メQu〒 os parece esto? Si consigo ser mホs guapo  que culaquiera de vosotras, podr〒 unirme a una charla de chicas REAL. 
+メQu〒 les parece esto? Si consigo ser mホs guapo  que culaquiera de ustedes, podr〒 unirme a una charla de chicas REAL. 
 
 [msg MSG_022 [Haru]]
 H-Hala, qu〒 determinaciポn. メTanto quieres participar?
@@ -81,7 +81,7 @@ Como miembro del mundo de los idol, no dejar〒 que me dejes en evidencia tan f�
 Muy bien, Teddie, te toca. ムVeamos lo guapo que puedes ser!
 
 [msg MSG_025 [Teddie]]
-Rrrrraaaahh, ムreto aceptado! ムOs mostrar〒 mi poder femenino!
+Rrrrraaaahh, ムreto aceptado! ムLes mostrar〒 mi poder femenino!
 
 [msg MSG_026]
 Una nueva proyecciポn especial: "El Secreto de la Belleza" ha sido aワadida a la taquilla.

@@ -6,7 +6,7 @@ Ladrones fantasma, メeh...?
 
 [msg MSG_002 [Ken]]
 Oh, nada. Es solo que... cambiar de traje y luchar contra los malos suena como algo que podrボas ver en un cポmic.
-Entonces... メPor qu〒 os convertisteis en ladrones fantasma?
+Entonces... メPor qu〒 se convirtieron en ladrones fantasma?
 
 [sel SEL_003 top]
 Nos trataron de forma inaceptable.
@@ -37,7 +37,7 @@ Y asボ es como nacieron los Ladrones Fantasma, ムprotegiendo al d〒bil y desp
 
 [msg MSG_010 [Ken]]
 Despertando los corazones de los perversos...
-......
+...
 
 [msg MSG_011 [Morgana]]
 メEstホs bien, Ken?

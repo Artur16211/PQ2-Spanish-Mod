@@ -29,8 +29,8 @@ Despu〒s de todo, hay normas que deben ser respetadas. Mientras tanto, puedes p
 Aparte de eso, han completado la peticiポn. La sombra estホ derrotada.
 
 [msg MSG_006_1 [Elizabeth]]
-Y por eso, os debo una recompensa apropiada. De hecho, [f 6 1 13 0 0 0] nos deleitポ con una magnボfica actuaciポn.
-Una vez que est〒n totalmente preparados para desplegar su poder, venid a hablar conmigo, como la otra vez.
+Y por eso, les debo una recompensa apropiada. De hecho, [f 6 1 13 0 0 0] nos deleitポ con una magnボfica actuaciポn.
+Una vez que est〒n totalmente preparados para desplegar su poder, vengan a hablar conmigo, como la otra vez.
 
 [msg MSG_007 [Morgana]]
 No sabemos a qui〒n nos enfrentaremos esta vez. Sea quien sea, no serホ fホcil.

@@ -27,7 +27,7 @@ No quiero ser un aguafiestas, pero se enfrentan a un FOE.
 Eso es demasiado para su pequeワa prueba de fuerza...
 
 [msg MSG_008 [Morgana]]
-Sボ, se enfrentarホn a un FOE. メEso no es demasiado para medir vuestra fuerza?
+Sボ, se enfrentarホn a un FOE. メEso no es demasiado para medir su fuerza?
 
 [msg MSG_009 [Akihiko]]
 Si queremos comprobar cuホn fuertes somos, las sombras d〒biles no nos sirven.

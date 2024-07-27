@@ -17,7 +17,7 @@ Y como alejamos al FOE de la zona, los peces siguen aquボ.
 
 [msg MSG_005]
 Decidimos trabajar juntos y atrapar algunos peces...
-......
+...
 ムConseguimos pescar uno muy grande!
 
 [msg MSG_006 [Fuuka]]
@@ -29,7 +29,7 @@ No hace falta que sean grandes mientras est〒n sabrosos. Vamos a ello, chicos.
 
 [msg MSG_008]
 Decidimos trabajar juntos y atrapar algunos peces...
-......
+...
 No vimos peces grandes, pero, ムconseguimos capturar algunos de tamaワo razonable!
 
 [msg MSG_009 [Chie]]
@@ -107,7 +107,7 @@ Estホ caliente. No te quemes la lengua
 ムYa sabボa que estarボa bueno, Shinjiro! ムOh, qu〒 feliz estoy ahora mismo!
 
 [msg MSG_030 [Chie]]
-ムTボo, es como si mis palillos tuvieran mente propia! ムOtro, por favor!
+ムEs como si mis palillos tuvieran mente propia! ムOtro, por favor!
 
 [msg MSG_031 [Morgana]]
 ムMiau[f 0 1 1]! ムShinjiro! ムYo tambi〒n quiero mホs!
@@ -127,7 +127,7 @@ Estホs alabando demasiado la comida. Es a Shinji a quien deberボas dar las gra
 
 [msg MSG_036 [Yusuke]]
 Cierto. Estaba delicioso. Les agradezco a ambos por permitirme comer.
-Sin embargo, eso no es todo lo que os querボa agradecer. Los dos me hab〒is recordado algo importante.
+Sin embargo, eso no es todo lo que les querボa agradecer. Los dos me han recordado algo importante.
 
 [msg MSG_037 [Akihiko]]
 メQu〒 es eso?
@@ -135,7 +135,7 @@ Sin embargo, eso no es todo lo que os querボa agradecer. Los dos me hab〒is re
 [msg MSG_038 [Yusuke]]
 Comer es algo mホs que saciar el hambre.
 Reマne a todos y, al hacerlo, satisface el corazポn.
-......
+...
 Esta experiencia me ha recordado las veces que me sentaba en la mesa con mis compaワeros aprendices.
 
 [sel SEL_039 top]
@@ -147,7 +147,7 @@ Volvamos a hacerlo alguna vez.
 Ya lo creo. Fue hace tanto tiempo que casi lo habボa olvidado... Me alegro de haber sido capaz de recordar este sentimiento.
 
 [msg MSG_041 [Yusuke]]
-No, ahora os tengo a todos.
+No, ahora los tengo a todos.
 
 [msg MSG_042 [Yusuke]]
 Absolutamente. Solamente dilo y allボ estar〒.

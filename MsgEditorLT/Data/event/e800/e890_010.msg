@@ -50,7 +50,7 @@ Necesitamos algo de tiempo.
 *risita* Ansiosos, メverdad? Bien, por favor, vengan por aquボ.
 
 [msg MSG_012 [Margaret]]
-Sボ, entendible. Por favor, volved cuando est〒n listos.
+Sボ, entendible. Por favor, vuelvan cuando est〒n listos.
 
 [msg MSG_013 [Margaret]]
 メYa estホn suficientemente preparados?
@@ -77,5 +77,5 @@ Muy bien. Entonces, por favor, vengan por aquボ.
 
 [msg MSG_020 [Margaret]]
 Mi... メEs asボ?
-Por favor, venid y preguntarme si alguna vez les apetece,
+Por favor, preguntenme si alguna vez les apetece.
 

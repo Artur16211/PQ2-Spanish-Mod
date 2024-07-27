@@ -15,10 +15,10 @@ Dejadme  tomar un pequeワo descanso...
 ムJunpei!
 
 [msg MSG_004 [Junpei]]
-ムメQu〒?! ムLo hab〒is entendido mal! No estaba vagueando ni nada...
+ムメQu〒?! ムLo han entendido mal! No estaba vagueando ni nada...
 
 [msg MSG_004_1 [Junpei]]
-Oh, solo eres tマ, Joker. No me asustes asボ, tボo, que pensaba que eras Mitsuru.
+Oh, solo eres tマ, Joker. No me asustes asボ, que pensaba que eras Mitsuru.
 
 [msg MSG_005 [Mitsuru]]
 メOh? メHay algマn problema porque yo est〒 aquボ?
@@ -90,7 +90,7 @@ Oh, ムMitsuru!
 La misma historia, varios asaltantes atacaron a alguien y le robaron sus objetos de valor.
 
 [msg MSG_021 [Junpei]]
-Esos tボos son muy pat〒ticos atacando solo a mujeres jポvenes.
+Esos tipos son muy pat〒ticos atacando solo a mujeres jポvenes.
 
 [msg MSG_022 [Mitsuru]]
 メTodas las vボctimas son mujeres?

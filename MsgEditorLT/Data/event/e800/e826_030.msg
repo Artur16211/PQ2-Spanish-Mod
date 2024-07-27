@@ -13,7 +13,7 @@ Y el otro camino lleva hacia el norte y da una vuelta menor.
 Segマn nuestra posiciポn, ese serボa el camino mホs corto.
 
 [msg MSG_004 [Teddie]]
-ムEs mホs corto! ムSeguidme todo el mundo!
+ムEs mホs corto! ムSiganme todo el mundo!
 
 [msg MSG_005 [Morgana]]
 Espera. El camino mホs corno no es siempre la mejor opciポn.

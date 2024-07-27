@@ -8,7 +8,7 @@ Chu-rros, chu-rros, ムdulces y azucarados, churroooooooos!
 ムYo estoy de buen humor solo de verla!
 
 [msg MSG_003 [Ryuji]]
-Tボo, realmente te gustan los dulces. メEs en lo マnico que piensas?
+Realmente te gustan los dulces. メEs en lo マnico que piensas?
 
 [msg MSG_004 [Ann]]
 ムCホllate! ムAl menos no soy un cabeza hueca como tマ!
@@ -30,7 +30,7 @@ Jaja... Suelo ceder mis antojos a menudo, y normalmente tengo que entrenar duro 
 Aun asボ, ムseguramente seas una de las mejores! Qu〒 envidia.
 
 [msg MSG_010 [Ann]]
-V-Vamos chicos, estホis haciendo que me sonroje.
+V-vamos chicos, están haciendo que me sonroje.
 Pero tambi〒n me pone muy feliz escucharos decir eso, asボ que ムgracias!
 
 [msg MSG_011 [Rise]]
@@ -51,6 +51,6 @@ Sボ... Probablemente serホ un rato.
 
 [msg MSG_016 [Futaba]]
 Toda esta feminidad... ムEs demasiado que manejar!
-ムDeberボais ir mejor a por la canela! ムNo podemos defraudarles!
+ムDeberían ir mejor a por la canela! ムNo podemos defraudarles!
 Nos acercamos a nuestros objetivos, ムasボ que dirボgete al que quieras!
 

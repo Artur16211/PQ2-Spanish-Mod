@@ -73,8 +73,8 @@ Deseo ver finalmente a los Ladrones Fantasma mostrar sus verdaderas habilidades.
 Um, no s〒 si podemos hacer todo eso...
 
 [msg MSG_022 [Elizabeth]]
-No deb〒is rendiros."ムCreo que puedo! ムCreo que puedo!"
-ムConfボo en todos vosotros! ムAhora, adelante!
+No deben rendiros."ムCreo que puedo! ムCreo que puedo!"
+ムConfボo en todos ustedes! ムAhora, adelante!
 
 [msg MSG_023 [Makoto]]
 Realmente nos estホs presionando... En este punto, es difボcil decir que no podemos hacerlo...
@@ -111,7 +111,7 @@ Bien, no estoy al nivel de Morgana, pero tambi〒n estoy algo emocionado, メsab
 
 [msg MSG_033 [Ryuji]]
 ムNo soy un gato!... メDe verdad acabo de decir eso?
-メEy, recordホis como antes estaba diciendo que todavボa no habボamos hecho ningマn trabajo de ladrポn fantasma por un tiempo?
+メEy, recuerdan como antes estaba diciendo que todavボa no habボamos hecho ningマn trabajo de ladrポn fantasma por un tiempo?
 
 [msg MSG_034 [Chie]]
 ムOh, sボ! ムPero ahora vamos a hacer justo esto!
@@ -121,14 +121,14 @@ Sin embargo, esto no es un escenario tボpico, como un banco o un museo.
 Aun asボ, creo que esta pelボcula serホ el lugar perfecto para hacer lo nuestro.
 
 [msg MSG_036 [Chie]]
-Y luego luchホis contra las Seidopteras en el aire y les robホis el tesoro, メcierto?
+Y luego pelean contra las Seidopteras en el aire y les roban el tesoro, メcierto?
 ムSボ! ムSuena bien y propio de un ladrポn!
 
 [msg MSG_037 [Yusuke]]
 ... Dudo que seamos capaces de hacer eso.
 
 [msg MSG_038 [Futaba]]
-Esperad, メestホis planeando enfrentaros a las Seidopteras? Sab〒is que son FOEs, メno?
+Esperad, メestán planeando enfrentaros a las Seidopteras? Saben que son FOEs, メno?
 
 [msg MSG_039 [Elizabeth]]
 Las cosas se estホn calentando. Estar〒 aquボ, observando con la respiraciポn contenida.
@@ -143,7 +143,7 @@ Comencemos.
 Oh, tマ tambi〒n estホs muy animado, [f 6 1 30 0 0 0]. Debo decir que es la primera vez que me siento asボ en mucho tiempo.
 
 [msg MSG_042 [Teddie]]
-ムYo tambi〒n! ムOs enseワar〒 a todos la Teddie-forma de ser un Ladrポn Fantasma!
+ムYo tambi〒n! ムLes enseワar〒 a todos la Teddie-forma de ser un Ladrポn Fantasma!
 
 [msg MSG_043 [Morgana]]
 Muy bien, vamos a movernos. Aseguraos de que estamos preparados.

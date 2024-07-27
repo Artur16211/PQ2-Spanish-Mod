@@ -53,7 +53,7 @@ Sボ. De verdad pienso que eres mucho mホs guay que yo, Chie.
 Bueno, es una idol nacional.
 
 [msg MSG_015 [Chie]]
-Rise is asombrosa, pero supongo que ya me he acostumbrado a ella...
+Rise es asombrosa, pero supongo que ya me he acostumbrado a ella...
 Tambi〒n es un aワo mホs joven que yo. Siento que eso hace un poco diferente la comparaciポn.
 
 [msg MSG_016 [Ann]]
@@ -81,7 +81,7 @@ Yo s〒 que me quiero hacer mホs fuerte para proteger a mis amigos.
 
 [sel SEL_022 top]
 メNo te pasa lo mismo, Ann?
-Las dos os parec〒is bastante.
+Las dos se parecen bastante.
 
 [msg MSG_023 [Ann]]
 ... Sボ. Fall〒 al proteger a alguien muy importante para mボ...
@@ -145,5 +145,5 @@ Suena aterrador.
 [msg MSG_040 [Elizabeth]]
 Una ladrona fantasma muy seductora y una intr〒pida maestra del kung-fu...
 Al parecer, un nuevo vボnculo ha empezado a florecer a raボz de esta misiポn.
-Tambi〒n, perdポn por el pequeワo retraso, aquボ ten〒is vuestra recompensa.
+Tambi〒n, perdポn por el pequeワo retraso, aquボ tienen su recompensa.
 

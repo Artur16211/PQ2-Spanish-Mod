@@ -1,5 +1,5 @@
 [msg MSG_000 [Rise]]
-ムOh! Siento que hay agua por aquボ cerca. ムDeberボais de estar ya casi!
+ムOh! Siento que hay agua por aquボ cerca. ムDeberían de estar ya casi!
 
 [msg MSG_001 [Ryuji]]
 Oye, メde verdad vamos a encontrar alguna de esas amonitas aquボ? Vivボan en el oc〒ano, メno?
@@ -34,7 +34,7 @@ Sボ... Al menos pudimos evitar que subiera solo con su uniforme.
 
 [msg MSG_010 [Ryuji]]
 Normalmente, es tranquilo, pero cuando se pone asボ, nunca se sabe lo que podrボa hacer...
-El tボo es un aut〒ntico loco por el arte. Simplemente no sabe contenerse.
+El tipo es un aut〒ntico loco por el arte. Simplemente no sabe contenerse.
 
 [msg MSG_011 [Yusuke]]
 メUn loco, dices? Deberボas saber que yo tengo mejores notas que tマ...

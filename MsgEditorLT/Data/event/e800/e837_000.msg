@@ -88,12 +88,12 @@ Pero si voy a hacerlo, necesito medir las fuerzas de cada uno para poder estable
 ムOh, Queen! Mitsuru dice que deberボamos de seguir pronto.
 
 [msg MSG_027 [Makoto]]
-Vale, deberボamos irnos por ahora. Podemos discutir su entrenamiento en otro momento.
+Bien, deberボamos irnos por ahora. Podemos discutir su entrenamiento en otro momento.
 
 [msg MSG_028 [Chie]]
 ムEntendido, Entrenadora!
 
 [msg MSG_029 [Makoto]]
 ... メEntrenadora?
-Um, vale... Vホmonos.
+Um, bien... Vホmonos.
 

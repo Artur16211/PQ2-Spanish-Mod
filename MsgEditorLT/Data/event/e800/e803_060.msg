@@ -96,7 +96,7 @@ Sボ. No es que tengamos la inteligencia o las habilidades de apoyo, pero...
 
 [msg MSG_027 [Ryuji]]
 Je, toda esta charla me hace pasar aマn mホs verg↓enza...
-No le cuentes a nadie sobre esto, メvale?
+No le cuentes a nadie sobre esto, メentendido?
 
 [msg MSG_028 [Kanji]]
 Sボ, de ninguna forma. L-lo mismo va por ti.

@@ -65,7 +65,7 @@ Cierto. Hay varias posibilidades.
 Quizホs no sea la マnica pelボcula de este tipo que existe. Si conseguimos mホs...
 
 [msg MSG_017 [Elizabeth]]
-ム......!
+ム...!
 
 [msg MSG_018 [Makoto]]
 Encontramos esta pelボcula despu〒s de una proyecciポn especial donde necesitホbamos que [f 6 1 30 0 0 0] luchara, メverdad?
@@ -94,7 +94,7 @@ Nada nos complace mホs que observar su crecimiento.
 Por supuesto. Yo tambi〒n debo daros las gracias.
 
 [msg MSG_025 [Elizabeth]]
-......
+...
 Entonces, Theo, メcポmo los recompensarホs?
 
 [msg MSG_026 [Theodore]]
@@ -151,7 +151,7 @@ Hermana, creo que me robaste todo el lote de perritos calientes que acababa de h
 メNo donarボas unos pocos en mi nombre, junto con tu recompensa?
 
 [msg MSG_042 [Elizabeth]]
-......
+...
 Gracias a Dios, se ha evitado una crisis. Has preguntado en el momento perfecto.
 Afortunadamente, me queda uno a mano. Se los regalo.
 

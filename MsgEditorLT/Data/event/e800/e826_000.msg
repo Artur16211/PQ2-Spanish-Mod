@@ -120,7 +120,7 @@ No hagan el vago solo porque no haya nadie por aquボ.
 Oh, cierto. ムPerdポn!
 
 [msg MSG_034_1 [Ann]]
-メLo ven? Nos hemos metido en problemas. Vamos a tratar de llevarnos bien, メvale?
+メLo ven? Nos hemos metido en problemas. Vamos a tratar de llevarnos bien, メentendido?
 
 [msg MSG_035 [Morgana]]
 ムB-Bien dicho, seワorita Ann! ムEl amor y la paz son el camino a seguir!

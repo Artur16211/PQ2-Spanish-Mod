@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-ムQu〒 enfrentamiento tan gloriosamente ardiente! Mientras presenciaba vuestra batalla, ムpodボa sentir cポmo se me calentaba el alma!
+ムQu〒 enfrentamiento tan gloriosamente ardiente! Mientras presenciaba su batalla, ムpodボa sentir cポmo se me calentaba el alma!
 
 [msg MSG_000_1 [Elizabeth]]
 ムEstuve a punto de abandonar mi puesto y lanzarme a la batalla!
@@ -28,5 +28,5 @@ Pues bien. Supongo que las formalidades habituales son lo primero...
 Por favor, aceptad esta recompensa por completar la proyecciポn especial.
 
 [msg MSG_006_1 [Elizabeth]]
-Una vez que est〒n totalmente preparados para una nueva batalla, os pido que vuelvan a hablar conmigo.
+Una vez que est〒n totalmente preparados para una nueva batalla, les pido que vuelvan a hablar conmigo.
 

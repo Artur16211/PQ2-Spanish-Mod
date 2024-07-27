@@ -11,7 +11,7 @@ Aw, that's a shame. Guess we should head[n]back and get the music again...
 We've only got 46 steps, Joker! Make[n]sure not to waste any!
 
 [msg MSG_004]
-......!
+...!
 The music disappeared from the music[n]box...
 
 [msg MSG_005 [Fuuka]]

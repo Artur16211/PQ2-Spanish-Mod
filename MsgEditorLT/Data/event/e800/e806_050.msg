@@ -2,7 +2,7 @@
 Bueno, ya estamos. ムEstoy segura de que esta vez encontraremos alguna!
 
 [msg MSG_001 [Yusuke]]
-ムVale! ムEncontrar〒 una amonita, cueste lo que cueste!
+ムBien! ムEncontrar〒 una amonita, cueste lo que cueste!
 
 [msg MSG_002 [Ryuji]]
 Bro, no encuentro una mierda... Quiero decir, メqu〒 es de hecho una amonita?

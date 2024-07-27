@@ -79,7 +79,7 @@ Theodore mencionポ el uso de "algo concreto", como si fuera muy inteligente por
 
 [msg MSG_023 [Akechi]]
 Ya veo...
-メTen〒is alguna idea de qu〒 puede ser ese "algo concreto"?
+メTienen alguna idea de qu〒 puede ser ese "algo concreto"?
 
 [sel SEL_024 top]
 Una Persona.

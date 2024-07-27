@@ -1,5 +1,5 @@
 [msg MSG_000 [Futaba]]
-Nuestros objetivos son tres Guardian Machines. Tened cuidado.
+Nuestros objetivos son tres Guardian Machines. Tengan cuidado.
 
 [msg MSG_001 [Morgana]]
 ムVamos, Ken, intenta mantener el ritmo!
@@ -14,7 +14,7 @@ Qu〒 mal que no lo podamos hacer aquボ...
 
 [msg MSG_004 [Ken]]
 Asボ que es verdad...
-メTambi〒n saltホis muros y os escabullボs de los lホseres de seguridad?
+メTambi〒n saltan muros y se escabullen de los lホseres de seguridad?
 
 [msg MSG_005 [Ann]]
 Sボ, lo hemos hecho unas cuantas veces.
@@ -42,7 +42,7 @@ Estupendo. Podrボas tener incluso mホs potencial que Skull.
 ムメQu〒 has dicho?!
 
 [msg MSG_013 [Ann]]
-Vale, vale, guホrdalo para las Sombras. Debemos irnos.
+Bien, bien, guホrdalo para las Sombras. Debemos irnos.
 
 [sel SEL_014 top]
 Comencemos la misiポn.

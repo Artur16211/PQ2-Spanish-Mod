@@ -8,11 +8,11 @@ Entonces creo que tienes una idea de lo fuertes que somos... メNotas algo que d
 ムEstamos listos por este entrenamiento especial, Entrenadora!
 
 [msg MSG_003 [Makoto]]
-Sボ, he anotado algunas cosas que creo que os faltan.
+Sボ, he anotado algunas cosas que creo que les faltan.
 
 [msg MSG_004 [Chie]]
 ムGracias! Veamos...
-......
+...
 
 [msg MSG_005 [Akihiko]]
 メQu〒 es esto...?
@@ -27,7 +27,7 @@ Supongo que cuenta.
 
 [msg MSG_008 [Makoto]]
 Estoy segura de que lo he dicho antes. Ambos ya son muy fuertes.
-En cuanto a entrenamiento, no hay mucho mホs que os pueda ofrecer.
+En cuanto a entrenamiento, no hay mucho mホs que les pueda ofrecer.
 
 [msg MSG_009 [Chie]]
 メPero todo un cambio de dieta...? Y... todo son pescados y verduras...
@@ -53,7 +53,7 @@ No, si este menマ nos hace mホs fuertes, entonces...
 Gracias, Makoto. Usaremos este menマ y nos volveremos mホs fuertes gracias a 〒l.
 
 [msg MSG_016 [Makoto]]
-No, yo deberボa de agradeceros a ustedes.
+No, yo deberボa de agradecerles a ustedes.
 Observar su devociポn por volverse mホs fuertes, me ha hecho pensar en mis propias razones.
 メPor qu〒 me quiero hacer fuerte?
 
@@ -101,7 +101,7 @@ Oh, pero primero tenemos que comer para reponer toda la energボa que hemos perd
 ムBooool de terneraaaa!
 
 [msg MSG_028 [Makoto]]
-メUn segundo? メQu〒 pasa con el menマ que os acabo de enseワar?
+メUn segundo? メQu〒 pasa con el menマ que les acabo de enseワar?
 
 [msg MSG_029 [Akihiko]]
 Pero dice que la carne es buena una vez al dボa. Y ya es hora de que coma un poco.

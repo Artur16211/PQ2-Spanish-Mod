@@ -10,7 +10,7 @@ No estoy segura de la parte de la competiciポn, pero lo de comer todos los donu
 Sボ. Aunque me preocupa que acabemos comiendo demasiado.
 
 [msg MSG_003 [P4 Hero]]
-......
+...
 
 [msg MSG_004 [P3 Hero]]
 ... Vamos.

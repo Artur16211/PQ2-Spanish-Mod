@@ -14,7 +14,7 @@ Ja, ja, メqu〒 es eso? Esos ojos brillantes me dicen que quieres algo.
 Creo que quiere que juegues con 〒l, Fox.
 
 [msg MSG_005 [Futaba]]
-Oh, bien por ti, Fox. Seguro que los dos os llevホis genial.
+Oh, bien por ti, Fox. Seguro que los dos se llevan genial.
 
 [msg MSG_006 [Fuuka]]
 Parece que Koro estホ interesado en la cola de Fox.
@@ -43,5 +43,5 @@ Ven, Naoto lo entiende. Puedes tocarme la pata si quieres.
 
 [msg MSG_013 [Fuuka]]
 Um, no quiero estropear la diversiポn, pero probablemente deberボamos continuar.
-El contenedor estホ justo delante. Tened cuidado.
+El contenedor estホ justo delante. Tengan cuidado.
 

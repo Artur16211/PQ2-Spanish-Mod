@@ -14,7 +14,7 @@ Then I'll take Mona...!
 You're all hoping to get some pets, huh?[n]Kanji, at least the animals have an[n]excuse, for crying out loud.
 
 [msg MSG_005 [Hikari]]
-......
+...
 
 [sel SEL_006 top]
 What's wrong?
@@ -38,7 +38,7 @@ Mm-hm. Maybe this is like my second[n]home...
 
 [msg MSG_011 [Hikari]]
 I wonder if this will always be here...[n]Or if it will change.
-......
+...
 *chuckle* Sorry for getting lost in my[n]thoughts.
 Let's look for that fruit. We don't want[n]to keep Elizabeth waiting.
 

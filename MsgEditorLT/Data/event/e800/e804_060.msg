@@ -51,7 +51,7 @@ D〒janoslo a nosotros. Se convertirホ en una maestra del kung-fu en poco tiemp
 Bro, que no estamos dirigiendo un dojo...
 
 [msg MSG_016 [Futaba]]
-Ey, メcuホnto tiempo mホs ten〒is pensado estar parados?
+Ey, メcuホnto tiempo mホs tienen pensado estar parados?
 Nuestra misiポn estホ completa. Guardホroslo para cuando volvホis.
 
 [msg MSG_017 [Chie]]

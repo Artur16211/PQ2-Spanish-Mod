@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
 La siguiente proyecciポn especial es una pelボcula de acciポn trepidante.
 Su destino serホ A.I.G.I.S.
-Y vuestro objetivo serホ derrotar a tres Mホquinas Guardianas.
+Y su objetivo serホ derrotar a tres Mホquinas Guardianas.
 
 [msg MSG_001 [Ryuji]]
 Son esos grandes, メno? Entonces serホ mejor que mejoremos.
@@ -48,8 +48,8 @@ Sボ. メNo crees que te estホs dejando llevar un poco...?
 No tienes que decir que sボ si no quieres, Ken.
 
 [msg MSG_014 [Ken]]
-V-Vale.
-Aunque quiero aprender mホs acerca de los ladrones fantasma, asボ que me alegrarボa si aceptarais enseワarme.
+B-Bien.
+Aunque quiero aprender mホs acerca de los ladrones fantasma, asボ que me alegrarボa si aceptaran enseワarme.
 
 [msg MSG_015 [Ryuji]]
 Es como... Bueno... Sabes lo que quiero decir, メverdad, Morgana?
@@ -74,5 +74,5 @@ Oh... Bueno, no me importarボa veros durante un rato.
 
 [msg MSG_022 [Elizabeth]]
 Bueno, bueno, bueno... Se perfila como una proyecciポn llena de acontecimientos.
-Ahora bien, os deseo a todos la mejor de las suertes.
+Ahora bien, les deseo a todos la mejor de las suertes.
 

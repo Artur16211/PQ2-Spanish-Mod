@@ -19,7 +19,7 @@ Sボ, pero asegマrate de equipar el material o de lo contario, no tendrボa sen
 
 [msg MSG_005 [Theodore]]
 Ah, casi se me olvida.
-Sボ que costarホ dinero. Dicho esto, esto es para vosotros.
+Sボ que costarホ dinero. Dicho esto, esto es para ustedes.
 Por favor, acepta esto, [f 6 1 27 0 0 0].
 
 [msg MSG_006 [P3 Fem Protag]]
@@ -47,11 +47,11 @@ Perdポn. Solo tenボa esos materiales para trabajar.
 メMateriales?
 
 [msg MSG_013 [Theodore]]
-Oh, siento como si lo hubierais malinterpretado.
+Oh, siento como si lo hubieran malinterpretado.
 Esto es un regalo de Yukari, Fuuka y Junpei.
 
 [msg MSG_014 [P3 Fem Protag]]
-ムメQu〒?! メEs de vosotros?
+ムメQu〒?! メEs de ustedes?
 
 [msg MSG_015 [Theodore]]
 Me lo comunicaron con antelaciポn y me preguntaron si podボa hacer algo con lo que sobraba.
@@ -90,13 +90,13 @@ Aunque, estホ hecho de sombras...
 ムJunpei! ムEs bonito! ムメAsボ que a qui〒n le importa?!
 
 [msg MSG_025 [P3 Fem Protag]]
-......
+...
 
 [msg MSG_026 [Fuuka]]
 ...?
 
 [msg MSG_027 [P3 Fem Protag]]
-... Gracias. Me hab〒is hecho muy feliz.
+... Gracias. Me han hecho muy feliz.
 Es muy bonito, incluso aunque est〒 hecho de sombras.
 
 [msg MSG_028 [Yukari]]

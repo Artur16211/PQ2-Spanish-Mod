@@ -2,7 +2,7 @@
 , ha sido un espectホculo digno de un merecido "bravo".
 
 [msg MSG_000_1 [Elizabeth]]
-Incluso contra un enemigo que superaba todas mis expectativas, hab〒is actuado de forma magnボfica.
+Incluso contra un enemigo que superaba todas mis expectativas, han actuado de forma magnボfica.
 
 [msg MSG_001 [Ryuji]]
 ムJe, je, je! Estamos hablando de nuestro lボder. メQu〒 te esperabas?
@@ -30,7 +30,7 @@ Si no te importa, メpodrボa echarle un vistazo?
 Le he entregado la "Pelボcula de Hollボn" a Elizabeth...
 
 [msg MSG_007 [Elizabeth]]
-......
+...
 Hmmmm.
 Interesante. Muy interesante.
 
@@ -47,7 +47,7 @@ Interesante. Muy interesante.
 メQu〒 podrボa ser...?
 
 [msg MSG_011 [Elizabeth]]
-......
+...
 
 [msg MSG_011_1 [Elizabeth]]
 Si mi teorボa es correcta, un poder extraordinario reside en ese objeto.

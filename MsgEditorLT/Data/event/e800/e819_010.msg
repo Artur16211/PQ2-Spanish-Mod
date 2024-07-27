@@ -23,17 +23,17 @@ Bien...
 *risita* Era de nosotras.
 
 [msg MSG_007 [Calm voice]]
-Y cumplir〒is dicha solicitud como deseamos.
+Y cumplirán dicha solicitud como deseamos.
 
 [msg MSG_008 [Futaba]]
 ムWhoa! ムメDe dポnde han salido las gemelas?!
-メQu〒 ocurre? メOs sentボais solas?
+メQu〒 ocurre? メSe sentían solas?
 
 [msg MSG_009 [Justine]]
 Apenas... Solo hemos venido a deciros nuestras ポrdenes.
 
 [msg MSG_010 [Caroline]]
-Sボ. Si dejamos que las cosas sigan asボ, todas vuestras pelボculas van a resultar muy fホciles.
+Sボ. Si dejamos que las cosas sigan asボ, todas sus pelボculas van a resultar muy fホciles.
 Pensamos en organizar algunas pruebas para ayudar en su rehabilitaciポn
 
 [msg MSG_011 [Elizabeth]]
@@ -50,14 +50,14 @@ Vuestro objetivo en esta proyecciポn especial es...
 Tambi〒n nos sentimos mホs cポmodos en este lugar. No deberボa ser muy difボcil, ahora que nuestro equipo es mホs grande.
 
 [msg MSG_015 [Justine]]
-... Quizホs. Sin embargo, hay dos FOEs. Deb〒is derrotarlos a ambos.
+... Quizホs. Sin embargo, hay dos FOEs. Deben derrotarlos a ambos.
 
 [msg MSG_016 [P4 Hero]]
 メDos?
 
 [msg MSG_017 [Caroline]]
-*risita* メYa os hab〒is asustado?
-No serボa divertido ver cポmo lo hacボais tan fホcilmente.
+*risita* メYa los han asustado?
+No serボa divertido ver cポmo lo hacían tan fホcilmente.
 
 [msg MSG_018 [Justine]]
 Ahora, que comience la proyecciポn especial. Daos prisa y entretenednos.
@@ -67,7 +67,7 @@ Supongo que deberボamos intentarlo.
 No hemos dicho que sボ.
 
 [msg MSG_020 [Caroline]]
-ムBien dicho! ムAhora, salid de aquボ y acabad con ellas!
+ムBien dicho! ムAhora, salgan de aquボ y acaben con ellas!
 
 [msg MSG_021 [Justine]]
 Esa es una buena mentalidad. Quizホs podrボamos elevar un poco nuestras expectativas.
@@ -85,12 +85,12 @@ Tienen razポn. Luchar contra enemigos fuertes puede servirnos para ganar experi
 Hmm... Ellas nos han ayudado mucho. Quizホs deberボamos escucharlas.
 
 [msg MSG_026 [Elizabeth]]
-Parece que hab〒is tomado una decisiポn.
+Parece que han tomado una decisiポn.
 Suban las cortinas. ムLa batalla estホ a punto de comenzar!
 
 [msg MSG_027 [Justine]]
-Como estrellas de este espectホculo, deb〒is dar el mホximo de vuestras capacidades.
+Como estrellas de este espectホculo, deben dar el mホximo de sus capacidades.
 
 [msg MSG_028 [Caroline]]
-Os veremos desde aquボ. ムNo se permiten pasos en falso, Recluso!
+Los veremos desde aquボ. ムNo se permiten pasos en falso, Recluso!
 

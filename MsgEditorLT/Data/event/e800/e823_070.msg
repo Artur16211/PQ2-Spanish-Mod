@@ -19,5 +19,5 @@ Y, Shinji, no te fuerces, pero si estホs interesado en entrenar, ムsimplemente
 Sボ, sボ. Cuando llegue el momento.
 
 [msg MSG_005 [P3 Fem Protag]]
-*risita* ムContamos con vosotros, chicos!
+*risita* ムContamos con ustedes, chicos!
 

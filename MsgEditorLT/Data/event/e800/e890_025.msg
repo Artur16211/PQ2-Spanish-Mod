@@ -5,7 +5,7 @@ Uf... Parece que nos ha vencido. Estoy impresionada, recluso.
 Qu〒 sorpresa... No sabボa que habボan acumulado tanto poder.
 
 [sel SEL_002 top]
-Lo mismo va por vosotras.
+Lo mismo va por ustedes.
 Es gracias a mi equipo.
 
 [msg MSG_003 [Caroline]]
@@ -33,7 +33,7 @@ La pelボcula de hollボn estホ brillando d〒bilmente.
 ムMuy bien! ムAllホ va!
 
 [msg MSG_010]
-ム......!
+ム...!
 ムLas tres partes de pelボcula estホn brillando aマn mホs juntas...!
 
 [msg MSG_011 [P3 Fem Protag]]
@@ -83,7 +83,7 @@ Casi me siento mal tomホndolo...
 
 [sel SEL_024 top]
 Ustedes pueden quedホrselo...
-Es todo vuestro.
+Es todo su.
 
 [msg MSG_025 [Caroline]]
 ムメQu〒?! ムメQu〒 quieres decir?!
@@ -109,7 +109,7 @@ Y nos aseguramos de esconderlo donde los posibles ladrones nunca pudieran encont
 Bueno, un... eso es...
 
 [msg MSG_032 [Justine]]
-メ......?
+メ...?
 
 [msg MSG_033 [Caroline]]
 ムC-C-Cierto! ムY de todas formas, aマn tenemos toda una montaワa para nosotras! ムJa, ja, ja!
@@ -121,7 +121,7 @@ Bueno, un... eso es...
 Ni idea...
 
 [msg MSG_036 [Elizabeth]]
-Ahora bien, todo el mundo. Gracias por vuestro duro trabajo.
+Ahora bien, todo el mundo. Gracias por su duro trabajo.
 Parece que estamos a un paso de descubrir el secreto de la pelボcula.
 Quizホ la prポxima proyecciポn especial con un reparto especボfico presente el clボmax de este misterio.
 Les estar〒 esperando, con el corazポn agitado. Hasta entonces, me despido.

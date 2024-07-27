@@ -1,5 +1,5 @@
 [msg MSG_000 [Ryuji]]
-メDポnde cre〒is que puede estar ese pez?
+メDポnde creen que puede estar ese pez?
 
 [msg MSG_001 [Yosuke]]
 メQu〒 hay del lugar donde hemos cocinado la carne?

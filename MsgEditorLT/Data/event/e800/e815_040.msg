@@ -17,7 +17,7 @@ Ahボ, ahボ, buen chico.
 ムJa, ja, ja! ムQu〒 cosquillas!
 
 [msg MSG_006 [Ken]]
-メ......?
+メ...?
 
 [msg MSG_007 [Rise]]
 Wow, Crow y Koro hacen muy buena pareja.
@@ -39,14 +39,14 @@ Bueno, ciertamente es diferente de otro animal que conozco que solo piensa en pe
 ムHey! メPor qu〒 me miras?
 
 [msg MSG_013 [Akechi]]
-... Ja, ja, ja. Veo que os llevホis igual que siempre.
+... Ja, ja, ja. Veo que se llevan igual que siempre.
 Ahora, vamos a ver esos huesos
 
 [msg MSG_014 [Koromaru]]
 *lloriqueo*
 
 [msg MSG_015 [Ken]]
-......
+...
 メQu〒 opinas, Crow?
 
 [msg MSG_016 [Akechi]]

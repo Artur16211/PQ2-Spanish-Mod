@@ -17,7 +17,7 @@ Tマ lo has tenido mucho mホs difボcil que todos nosotros, pero tマ tambi〒n
 
 [msg MSG_005 [P3 Fem Protag]]
 Bueno, ahora mismo, no tengo papel de lボder, asボ que es todo lo que puedo hacer.
-No tendrボa nada si me quitarais eso.
+No tendrボa nada si me quitaran eso.
 
 [sel SEL_006 top]
 Eso ayuda mucho.
@@ -34,7 +34,7 @@ Mm. A diferencia de otra persona que conozco, haces un buen trabajo.
 Creo que mantener la fiesta animada es muy importante.
 
 [msg MSG_010 [P3 Fem Protag]]
-Vais a hacer que me sonroje...
+Van a hacer que me sonroje...
 Solo estoy intentando poner de mi parte para el equipo...
 
 [msg MSG_011 [Akihiko]]
@@ -42,7 +42,7 @@ Ey, [f 6 1 27 0 0 0], メtienes un segundo? Mitsuru te estホ llamando.
 
 [msg MSG_012 [P3 Fem Protag]]
 Ahora mismo voy.
-Os dejo los materiales a vosotros.
+Les dejo los materiales a ustedes.
 
 [msg MSG_013 [Junpei]]
 Aマn parece que hay algo de distancia entre nosotros...

@@ -19,7 +19,7 @@ Ademホs, no hay ninguna evidencia que justifique la existencia de... esas cosas
 
 [msg MSG_006 [Makoto]]
 ムメAah?!
-E-ey... メHab〒is oボdo algo?
+E-ey... メHan oボdo algo?
 
 [sel SEL_007 top]
 メQue empiece por F?
@@ -36,7 +36,7 @@ Hay algo por allボ...
 No, estoy seguro de que he oボdo algo. Pero no estamos seguros de qu〒...
 
 [msg MSG_011 [Chie]]
-ムメP-pod〒is parar de hablar sobre eso?! ムLo que empieza por F no existe! ムDe ninguna forma!
+ムメP-pueden parar de hablar sobre eso?! ムLo que empieza por F no existe! ムDe ninguna forma!
 
 [msg MSG_012 [Yukiko]]
 Dicen que hablar asボ atrae a los fantasmas, メsaben?

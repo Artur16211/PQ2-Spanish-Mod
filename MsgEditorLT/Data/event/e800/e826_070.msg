@@ -11,7 +11,7 @@ Ahora bien, esta es su recompensa.
 
 [msg MSG_003 [Kanji]]
 Bro, han estado asボ desde que volvimos.
-メEstホn bien, chicos? Parece que os vais a convertir en sombras.
+メEstホn bien, chicos? Parece que se van a convertir en sombras.
 
 [sel SEL_004 top]
 Esto ocurre a menudo.
@@ -25,10 +25,10 @@ No s〒... Esto parece peor de lo normal.
 Sボ, estホ fuera de nuestras manos en este momento.
 
 [msg MSG_007 [Morgana]]
-......
+...
 
 [msg MSG_008 [Teddie]]
-......
+...
 
 [msg MSG_009 [Ann]]
 ムOye! ムLo hiciste aマn peor!
@@ -117,7 +117,7 @@ Sボ, yo tambi〒n necesito calmarme... Perdポn.
 
 [sel SEL_035 top]
 Llev〒monos todos bien.
-Contamos con vosotros.
+Contamos con ustedes.
 
 [msg MSG_036 [Morgana]]
 La prポxima vez me asegurar〒 de compensar todos los problemas que caus〒.

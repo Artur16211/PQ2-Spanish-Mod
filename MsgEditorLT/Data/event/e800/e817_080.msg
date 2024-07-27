@@ -1,5 +1,5 @@
 [msg MSG_000 [Junpei]]
-Bueno, eso es todo. Tボo, realmente les he mostrado a esas sombras mi poder...
+Bueno, eso es todo. Realmente les he mostrado a esas sombras mi poder...
 
 [msg MSG_001 [Mitsuru]]
 ムIori!
@@ -77,7 +77,7 @@ Aun asボ, preferirボa que se abrieran un poco mホs a mボ...
 Come algunos dulces con todos.
 
 [msg MSG_019 [Ryuji]]
-ムAhボ estホ! Es fホcil hablar sobre cosas en las que ambos est〒is interesados.
+ムAhボ estホ! Es fホcil hablar sobre cosas en las que ambos están interesados.
 
 [msg MSG_020 [Mitsuru]]
 Un hobby... Supongo que me gustan las motos...
@@ -95,7 +95,7 @@ Yo nunca he vuelto a ver a Queen igual despu〒s de verla acribillar a las sombr
 ... メAcribillar? No estoy segura de a qu〒 te refieres, pero no creo que Iori est〒 muy interesado en las motos.
 
 [msg MSG_024 [Ann]]
-Sボ... No parece que tマ y Junpei compartホis intereses...
+Sボ... No parece que tマ y Junpei compartan intereses...
 Si ese es el caso, tu マnica opciポn podrボa ser intentar hacer algo que le guste...
 
 [msg MSG_025 [Ann]]

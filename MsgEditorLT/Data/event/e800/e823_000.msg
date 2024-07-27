@@ -55,8 +55,8 @@ Je, muy bien... ムIr〒 con una rutina increボble!
 Eso no es lo que estoy diciendo, tonto del culo.
 
 [msg MSG_016 [Mitsuru]]
-Ugh... Francamente, me preocuparボa dejar a [f 6 1 26 0 0 0] justo con vosotros dos.
-Ambos deberボas controlar vuestros temperamentos. メEntendido?
+Ugh... Francamente, me preocuparボa dejar a [f 6 1 26 0 0 0] justo con ustedes dos.
+Ambos deberボas controlar sus temperamentos. メEntendido?
 
 [msg MSG_017]
 Una nueva proyecciポn especial: "Confianza Trascendental" ha sido aワadida a la taquilla.

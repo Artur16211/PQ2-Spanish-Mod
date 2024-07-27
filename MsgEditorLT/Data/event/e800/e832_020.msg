@@ -3,7 +3,7 @@
 
 [msg MSG_001 [Rise]]
 Teddie, esa respiraciポn pesada da mal rollo.
-Intenta calmarte, メvale? Te vamos a necesitar para esto.
+Intenta calmarte, メentendido? Te vamos a necesitar para esto.
 
 [msg MSG_002 [Haru]]
 Es interesante... Me pregunto por qu〒 nos eligieron a nosotras de entre todos...

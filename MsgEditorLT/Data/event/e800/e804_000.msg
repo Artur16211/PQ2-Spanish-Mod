@@ -77,7 +77,7 @@ Okay, メdポnde deberボamos practicar? La マnica forma de aprender es salir f
 
 [msg MSG_021 [Chie]]
 ムLo tengo! ムVamos para allホ!
-Podemos planear lo que queda despu〒s, メvale?
+Podemos planear lo que queda despu〒s, メde acuerdo?
 
 [msg MSG_022]
 Una nueva proyecciポn especial: "ムPasarela de Kung Fu!" ha sido aワadida a la taquilla.
