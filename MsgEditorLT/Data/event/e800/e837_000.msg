@@ -1,99 +1,99 @@
 [msg MSG_000 [Makoto]]
-Whew, we've covered a lot of ground. I[n]think a break would do us good―
+Uf, hemos avanzado bastante. Creo que un descanso nos irボa bien...
 
 [msg MSG_001 [Makoto]]
-W-What!? An earthquake? Are we under[n]attack?
+ムメQ-Qu〒?! メUn terremoto? メNos estホn atacando?
 
 [msg MSG_002 [Chie]]
-Here goes! The Satonaka-style secret[n]art... Dragon Kiiick!
+ムAllホ va! El arte secreto al estilo Satonaka... ムPatada Dragポn!
 
 [msg MSG_003 [Akihiko]]
-Not bad! But too slow!
+ムNo estホ mal! ムPero ha sido demasiado lenta!
 
 [msg MSG_004 [Chie]]
-You're amazing, Master! You were so[n]fast, I didn't even see you move!
+ムEres alucinante, Maestro! ムFuiste tan rホpido, que ni siquiera te vi moverte!
 
 [msg MSG_005 [Akihiko]]
-You've got a pretty amazing kick[n]yourself, Chie. If I'd taken that head-[n]on, I would've been sent flying.
+Tマ tambi〒n tienes una patada increボble, Chie. Si la hubiera recibido de frente, habrボa salido volando.
 
 [msg MSG_006 [Makoto]]
-What are you two doing!?
+ムメQu〒 estホn haciendo ustedes dos?!
 
 [msg MSG_007 [Akihiko]]
-Nothing to worry about! Just doing some[n]training. A little mock battle to get[n]the blood pumping.
+ムNada por lo que preocuparse! Solo estホbamos entrenando. Un pequeワo simulacro de batalla como calentamiento.
 
 [sel SEL_008 top]
-Someone'll get hurt...
-Now that's diligence.
+Alguien saldrホ herido...
+Eso sボ que es diligencia.
 
 [msg MSG_009 [Chie]]
-Don't sweat it. We're used to this!
+No te preocupes. ムEstamos acostumbrados!
 
 [msg MSG_010 [Makoto]]
-You may be used to this, but I'M not...
+Puede que est〒n acostumbrados a esto, pero YO NO...
 
 [msg MSG_011 [Makoto]]
-I'm glad to see you so proactive, but do[n]you really need to train all the way out[n]here?
+Me alegra verles tan activos, pero メrealmente necesitan entrenar aquボ?
 
 [msg MSG_012 [Akihiko]]
-Huh... Maybe we overdid it a little, but[n]I just couldn't contain myself.
+Eh... Quizホs nos pasamos un poco, pero es que no podボa contenerme.
 
 [msg MSG_013 [Chie]]
-Heheh, I know what you mean. You gotta[n]eat well, and fight well. That's how you[n]become the strongest!
+Je, je, je. S〒 lo que quieres decir. Tienes que comer y luchar bien. ムAsボ es como te haces el mホs fuerte!
 
 [msg MSG_014 [Makoto]]
-Is this all you two ever―I mean, do you[n]always train this hard?
+メEsto es todo lo que hacen? メSiempre entrenan tan duro?
 
 [msg MSG_015 [Chie]]
-Hmm, my usual routine is to do some[n]running, then I practice my kicks...[n]Finally, I wrap up with a beef bowl!
+Hmm, mi rutina habitual es correr un poco y despu〒s practicar mis patadas... Finalmente, ムacabo con un buen bol de carne!
 
 [msg MSG_016 [Akihiko]]
-Yeah. You gotta launch your body into a[n]tough workout, then seal the deal with a[n]healthy bite of protein.
+Sボ. Tienes que preparar tu cuerpo para un entrenamiento intenso y luego acabar con un buen bocado de proteボnas.
 
 [msg MSG_017 [Makoto]]
-*sigh*
-Recklessly swinging at each other isn't[n]training. You have to think about[n]training your mind, too.
-The same applies to your diet. You can't[n]just eat protein and nothing else. You[n]have to think about balance.
+*suspiro*
+Golpearse imprudentemente no es entrenarse. Tambi〒n hay que pensar en entrenar la mente.
+Lo mismo aplica para su dieta. No puedes comer マnicamente proteボnas. Tienes que pensar en una comida equilibrada.
 
 [msg MSG_018 [Akihiko]]
-Oh, that's right! You practice aikido,[n]right, Queen? Well, I can't deny the[n]insight of a fellow fistfighter...
+Oh, ムes cierto! Tマ practicas aikido, メverdad, Queen? Bueno, no puedo negar la opiniポn de una compaワera luchadora...
 
 [msg MSG_019 [Makoto]]
-So I'm part of this now, too, am I...?
+Asボ que entonces ahora yo tambi〒n participo en esto, メno...?
 
 [msg MSG_020 [Chie]]
-...Oh! I just had a totally great idea![n]What if Queen comes up with a new[n]training course for us?
+... ムOh! ムAcabo de tener una idea genial! メY si Queen nos prepara un nuevo curso de formaciポn?
 
 [msg MSG_021 [Akihiko]]
-Good point. If we train the same way all[n]the time, we'll get too used to it. Can[n]you help us, Queen?
+Buena idea. Si siempre entrenamos de la misma forma, nos acostumbraremos. メPuedes ayudarnos, Queen?
 
 [sel SEL_022 top]
-Give it a try.
-You can do it.
-Sounds like fun.
+Int〒ntalo.
+Puedes hacerlo.
+Suena divertido.
 
 [msg MSG_023 [Makoto]]
-I suppose I could...
-But if I'm going to do that, I need to[n]gauge everyone's strength so I can come[n]up with realistic milestones...
+Supongo que podrボa...
+Pero si voy a hacerlo, necesito medir las fuerzas de cada uno para poder establecer objetivos realistas...
 
 [msg MSG_024 [Makoto]]
-Oh, not you too... Though I suppose I[n]wouldn't mind teaching you.
-But if I'm going to do that, I need to[n]gauge everyone's strength so I can come[n]up with realistic milestones...
+Oh, no, tマ tambi〒n... Aunque supongo que no me importarボa enseワarte.
+Pero si voy a hacerlo, necesito medir las fuerzas de cada uno para poder establecer objetivos realistas...
 
 [msg MSG_025 [Makoto]]
-Is this really the time to say that?[n]Well, I suppose I don't mind teaching[n]you...
-But if I'm going to do that, I need to[n]gauge everyone's strength so I can come[n]up with realistic milestones...
+メEs realmente el momento de decir eso? Bueno, supongo que no me importa enseワarte...
+Pero si voy a hacerlo, necesito medir las fuerzas de cada uno para poder establecer objetivos realistas...
 
 [msg MSG_026 [Haru]]
-Oh, Queen! Mitsuru-san says we should[n]head out soon.
+ムOh, Queen! Mitsuru dice que deberボamos de seguir pronto.
 
 [msg MSG_027 [Makoto]]
-Okay, we should get going for now. We[n]can discuss your regimen another time.
+Vale, deberボamos irnos por ahora. Podemos discutir su entrenamiento en otro momento.
 
 [msg MSG_028 [Chie]]
-You got it, Coach!
+ムEntendido, Entrenadora!
 
 [msg MSG_029 [Makoto]]
-...Coach?
-Um, okay then... Let's go.
+... メEntrenadora?
+Um, vale... Vホmonos.
 

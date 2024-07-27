@@ -1,28 +1,28 @@
 [msg MSG_000 [Akihiko]]
-We've finally got it cornered.
+Por fin lo hemos acorralado.
 
 [msg MSG_001 [Chie]]
-Give it up and come quietly!
+ムRボndete y ven tranquilamente!
 
 [msg MSG_002 [Makoto]]
-It was a lot of trouble, but now that[n]we're here, there's only one thing left[n]to do.
+Ha costado mucho, pero ahora que estamos aquボ, solo hay una cosa que nos queda por hacer.
 
 [msg MSG_003 [Akihiko]]
-I'm ready. Let's do this! You good to[n]go, Chie?
+Estoy listo. ムHagホmoslo! メEstホs preparada, Chie?
 
 [msg MSG_004 [Chie]]
-Sure am! Don't think, feel! Right?
+ムClaro que sボ! ムNo pienses, si〒ntelo! メCierto?
 
 [msg MSG_005 [Makoto]]
-Good to hear. I'll back you up!
+Es bueno oボrlo. ムLes apoyar〒!
 
 [sel SEL_006 top]
-Let's go.
-Charge!
+Vamos.
+ムA la carga!
 
 [msg MSG_007 [Akihiko]]
-Heh, I've been waiting for this!
+Je, ムhe estado esperando para esto!
 
 [msg MSG_008 [Chie]]
-Hiiiyah!
+ムHiiiyah!
 

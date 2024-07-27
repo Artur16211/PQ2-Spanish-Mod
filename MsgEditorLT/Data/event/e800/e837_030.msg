@@ -2,91 +2,91 @@
 ......
 
 [msg MSG_001 [Morgana]]
-How about it? Did you come up with a[n]regimen for Chie and Akihiko?
+メQu〒 te parece? メSe te ocurriポ algマn entrenamiento para Chie y Akihiko?
 
 [msg MSG_002 [Makoto]]
-Well, the thing is... I can't actually[n]find any weaknesses in either of them...
+Bueno, la cosa es... que en realidad no puedo encontrar ninguna debilidad en ninguno de los dos.
 
 [sel SEL_003 top]
-Isn't that a good thing?
-They're pretty strong.
+メEs eso bueno?
+Son muy fuertes.
 
 [msg MSG_004 [Makoto]]
-Yes. They're both so strong already. Why[n]push themselves so hard?
+Sボ. Ambos ya son muy fuertes. メPor qu〒 se presionan tanto?
 
 [msg MSG_005 [Chie]]
-Coach! Is something wrong?
+ムEntrenadora! メOcurre algo?
 
 [msg MSG_006 [Akihiko]]
-You see anything missing in our[n]performance? Don't hesitate― just tell[n]me straight.
+メHas visto que falte algo en nuestra actuaciポn? No lo dudes, solo dボmelo.
 
 [msg MSG_007 [Makoto]]
-Well, not really...
+Bueno, en realidad no...
 
 [sel SEL_008 top]
-Queen has a question.
-What drives you?
+Queen tiene una pregunta.
+メQu〒 les motiva?
 
 [msg MSG_009 [Makoto]]
-Joker... Thanks.
+Joker... Gracias.
 
 [msg MSG_010 [Makoto]]
-Thanks.
+Gracias.
 
 [msg MSG_011 [Makoto]]
-From what I can tell, you're both[n]already so strong. But you're so fixated[n]on getting even stronger...
-Tell me, why do you two push yourselves[n]so hard?
+Por lo que puedo ver, ambos ya son muy fuertes. Pero estホn demasiado obsesionados con hacerse aマn mホs fuertes...
+Cu〒ntenme, メpor qu〒 se presionan tanto?
 
 [msg MSG_012 [Chie]]
-What's driving me to get stronger?[n]Well...
+メQu〒 me motiva a ser mホs fuerte? Bueno...
 
 [msg MSG_013 [Akihiko]]
-Because I want to beat even stronger[n]opponents.
+Porque quiero derrotar a enemigos aマn mホs fuertes.
 
 [msg MSG_014 [Makoto]]
-Huh?
+メEh?
 
 [msg MSG_015 [Chie]]
-The stronger we are, the more bad guys[n]we can beat! It's the same for you,[n]right, Coach?
+ムCuanto mホs fuertes seamos, mホs enemigos podremos derrotar! Piensas lo mismo, メverdad, Entrenadora?
 
 [msg MSG_016 [Akihiko]]
-Yeah. Isn't that why you learned aikido?[n]You had something you needed to fight,[n]right?
+Sボ. メNo es por eso por lo que aprendiste aikido? Habボa algo por lo que tenボas que luchar, メverdad?
 
 [msg MSG_017 [Makoto]]
-Well... My father was a policeman, so he[n]taught me and my sister aikido.
-So it kind of just happened that way for[n]me. And I'm not as strong as my father[n]or my sister...
+Bueno... Mi padre era policボa, asボ que nos enseワポ aikido a mi hermana y a mボ.
+Asボ que asボ fue para mボ. Y no soy tan fuerte como mi padre o mi hermana...
 
 [sel SEL_018 top]
-You aren't?
-Sae-san's even stronger?
+メNo lo eres?
+メSae es aマn mホs fuerte?
 
 [msg MSG_019 [Makoto]]
-There's always someone stronger. And my[n]father was one of the best.
-...Though maybe he's a little bigger in[n]my memory than he was in life.
+Siempre hay alguien mホs fuerte. Y mi padre era uno de los mejores.
+... Aunque quizホs sea mejor en mi memoria de lo que era en realidad...
 
 [msg MSG_020 [Makoto]]
-I haven't sparred with her in awhile, so[n]I'm not sure, but I never managed to[n]beat her before.
+Hace tiempo que no entreno con ella, asボ que no estoy segura, pero nunca he conseguido vencerla.
 
 [msg MSG_021 [Chie]]
-Whoa, your dad was a police officer...?[n]That's so cool...
+Vaya, メtu padre era policボa...? Qu〒 guay...
 
 [msg MSG_022 [Akihiko]]
-I'm sure he was a great man.
-But you don't have to be so modest. Your[n]strength isn't just in your raw power.
-You can calmly analyze a situation, then[n]make calculated decisions. That's[n]something we can't do.
+Seguro que era un hombre genial.
+Pero no tienes que ser tan modesta. Tu fuerza no solo estホ en tu poder bruto.
+Puedes analizar con calma una situaciポn y luego tomar decisiones calculadas. Eso es algo que nosotros no podemos hacer.
 
 [msg MSG_023 [Chie]]
-Then let's have her come up with a[n]training regimen for us! Like a workout[n]for our minds?
-Oh, but how are we supposed to train our[n]brains?
+ムPues entonces que nos prepare un entrenamiento! Como un entrenamiento para nuestras mentes.
+Oh, メpero cポmo se supone que vamos a entrenar nuestro cerebro?
 
 [msg MSG_024 [Makoto]]
-Brain training, huh? *chuckle* You're[n]both so true to your goals.
-Once you have that reason to be[n]strong...
+Entrenamiento cerebral, メeh? *risita* Los dos sois muy fieles a vuestros objetivos.
+Una vez que tengan esa razポn para ser fuertes...
 
 [msg MSG_025 [Futaba]]
-Sorry to interrupt, but I'm detecting a[n]lot of Shadows gathering up.
-You guys better skedaddle.
+Perdポn por interrumpir, pero estoy detectando un montポn de sombras acercホndose.
+Chicos, serホ mejor que se larguen.
 
 [msg MSG_026 [Morgana]]
-Save the talk for later. Let's go,[n]Joker!
+Dejen la charla para despu〒s. ムVamos, Joker!
 

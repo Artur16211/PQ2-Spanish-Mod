@@ -1,134 +1,134 @@
 [msg MSG_000 [Elizabeth]]
-Welcome back, everyone. Here is your[n]reward for this special screening.
+Bienvenidos de vuelta. Aquボ estホ su recompensa por esta proyecciポn especial.
 
 [msg MSG_001 [Akihiko]]
-So I think you got a good idea of how[n]strong we are... You notice anything[n]that needs improvement?
+Entonces creo que tienes una idea de lo fuertes que somos... メNotas algo que debamos mejorar?
 
 [msg MSG_002 [Chie]]
-We're ready for that special training[n]course, Coach!
+ムEstamos listos por este entrenamiento especial, Entrenadora!
 
 [msg MSG_003 [Makoto]]
-Yes, I wrote down some things I believe[n]you're lacking in.
+Sボ, he anotado algunas cosas que creo que os faltan.
 
 [msg MSG_004 [Chie]]
-Thanks! Let's see...
+ムGracias! Veamos...
 ......
 
 [msg MSG_005 [Akihiko]]
-What is this...?
+メQu〒 es esto...?
 
 [msg MSG_006 [Chie]]
-A menu?
+メUn menマ?
 
 [sel SEL_007 top]
-What's going on?
-Is this training?
-I guess that counts.
+メQu〒 ocurre?
+メEsto es entrenar?
+Supongo que cuenta.
 
 [msg MSG_008 [Makoto]]
-I'm sure I've said it before. You're[n]both already so strong.
-In terms of training, there's not much[n]else I can give you.
+Estoy segura de que lo he dicho antes. Ambos ya son muy fuertes.
+En cuanto a entrenamiento, no hay mucho mホs que os pueda ofrecer.
 
 [msg MSG_009 [Chie]]
-But a whole diet change...? And... it's[n]all fish and vegetables...
+メPero todo un cambio de dieta...? Y... todo son pescados y verduras...
 
 [msg MSG_010 [Akihiko]]
-There's SOME meat, but the ratio looks[n]pretty small... You sure there's enough[n]protein here?
+Hay ALGO de carne, pero la proporciポn parece muy pequeワa... メEstホs segura de que hay suficiente proteボna?
 
 [msg MSG_011 [Makoto]]
-There are plant-based proteins as well[n]as meat-based ones. You need a balance[n]of both.
-If you want to get all the necessary[n]nutrients, you can't neglect your[n]vegetables either.
-And you want to train your brain as[n]well, right? Then you should be actively[n]eating fish.
+Hay proteボnas vegetales, al igual que proteボnas cホrnicas. Necesitan un equilibrio de ambas.
+Si quieren obtener todos los nutrientes necesarios, no pueden rechazar las verduras.
+Y tambi〒n quieren entrenar su cerebro, メverdad? Entonces deberボan de comer pescado.
 
 [msg MSG_012 [Chie]]
-It makes sense, sure, but... there's[n]barely any meat...
+Tiene sentido, por supuesto, pero... apenas hay carne...
 
 [msg MSG_013 [Akihiko]]
-No, if this menu will bring us true[n]strength, then...
+No, si este menマ nos hace mホs fuertes, entonces...
 
 [msg MSG_014 [Chie]]
-...Master!
+... ムMaestro!
 
 [msg MSG_015 [Akihiko]]
-Thanks, Makoto. We'll use this menu, and[n]become even stronger for it.
+Gracias, Makoto. Usaremos este menマ y nos volveremos mホs fuertes gracias a 〒l.
 
 [msg MSG_016 [Makoto]]
-No, I should be thanking you.
-Seeing your devotion to becoming[n]stronger made me think about my own[n]reasons.
-Why did I want to become strong?
+No, yo deberボa de agradeceros a ustedes.
+Observar su devociポn por volverse mホs fuertes, me ha hecho pensar en mis propias razones.
+メPor qu〒 me quiero hacer fuerte?
 
 [sel SEL_017 top]
-To fight strong enemies?
-To protect someone?
+メPara luchar contra enemigos fuertes?
+メPara proteger a alguien?
 
 [msg MSG_018 [Makoto]]
-That's what Satonaka-san and Sanada-kun[n]said, but...
-If you want to be able to stop strong[n]enemies, isn't that because you want to[n]protect someone from them?
-Protecting people takes strength... I[n]aspired to that strength myself. I[n]wanted to be just like him.
+Eso es lo que Satonaka y Sanada dirボan, pero...
+Si quieres ser capaz de parar enemigos fuetes, メno es porque quieres proteger a alguien de ellos?
+Proteger a la gente requiere fuerza... Yo tambi〒n aspiraba a esa fuerza. Querボa ser como 〒l.
 
 [msg MSG_019 [Makoto]]
-Yes. Exactly.
-If you want to be able to stop strong[n]enemies, isn't that because you want to[n]protect someone from them?
-Protecting people takes strength... I[n]aspired to that strength myself. I[n]wanted to be just like him.
+Sボ. Exactamente.
+Si quieres ser capaz de parar enemigos fuetes, メno es porque quieres proteger a alguien de ellos?
+Proteger a la gente requiere fuerza... Yo tambi〒n aspiraba a esa fuerza. Querボa ser como 〒l.
 
 [msg MSG_020 [Chie]]
-You mean your dad, right...? He sounds[n]like a real hero. I bet he protected the[n]people.
-Sometimes I wish I could be like the[n]heroes in the movies. Swooping in,[n]saving my friends from danger...
-That's why I'm gonna get even stronger!
+Te refieres a tu padre, メverdad...? Suena como un h〒roe de verdad. Apuesto a que 〒l protegiポ a la gente.
+A veces desearボa ser como los h〒roes de las pelボculas. Saltando en picado, salvando a mis amigos del peligro...
+ムEs por eso por lo que me quiero hacer aマn mホs fuerte!
 
 [msg MSG_021 [Akihiko]]
-Yeah. That's why I need to be able to[n]trust my fists... so I never lose anyone[n]important to me again.
-If it'll help me do that, I'll go[n]through anything.
+Sボ. Es por eso por lo que necesito poder confiar en mis puワos... para no perder a nadie importante para mボ de nuevo.
+Si me ayuda a conseguirlo, pasar〒 por lo que sea.
 
 [msg MSG_022 [Makoto]]
-You guys...
+Chicos...
 
 [sel SEL_023 top]
-You're all like that.
-Don't lose to them.
+Todos ustedes son asボ.
+No pierdas contra ellos.
 
 [msg MSG_024 [Makoto]]
-Heh... Maybe so. I guess I should join[n]in their training, huh?
+Je... Tal vez. Supongo que deberボa unirme a su entrenamiento, メeh?
 
 [msg MSG_025 [Makoto]]
-I suppose not. Maybe I'd better join in[n]their training, huh?
+Supongo que no. Quizホs serボa mejor que me uniera a su entrenamiento, メeh?
 
 [msg MSG_026 [Akihiko]]
-Of course. We'd be happy to have you. We[n]could get started right now.
-Oh, but first, we've gotta eat up.[n]Replenish all the energy we've lost.
+Por supuesto. Nos alegrarボa tenerte. Podrボamos empezar ahora mismo.
+Oh, pero primero tenemos que comer para reponer toda la energボa que hemos perdido.
 
 [msg MSG_027 [Chie]]
-Beeeef boooowl!
+ムBooool de terneraaaa!
 
 [msg MSG_028 [Makoto]]
-Hold on a second. What about the menu[n]you were just looking at?
+メUn segundo? メQu〒 pasa con el menマ que os acabo de enseワar?
 
 [msg MSG_029 [Akihiko]]
-But it says meat is okay once a day. And[n]it's about time I had some.
+Pero dice que la carne es buena una vez al dボa. Y ya es hora de que coma un poco.
 
 [msg MSG_030 [Chie]]
-Yeah! Don't think, feel!
+ムSボ! ムNo pienses, si〒ntelo!
 
 [msg MSG_031 [Akihiko]]
-Truth is, Makoto, I was watching you in[n]that last battle too...
-You tend to overthink things a little.[n]Sometimes you need to be able to rely on[n]intuition alone.
+La verdad, Makoto, es que yo tambi〒n te estaba observando en la マltima batalla...
+Tienes a pensar demasiado las cosas. A veces necesitas マnicamente confiar en tu intuiciポn.
 
 [sel SEL_032 top]
-Is that her weakness?
-That's true.
-This is training too.
+メEsa es su debilidad?
+Eso es cierto.
+Esto tambi〒n es entrenar.
 
 [msg MSG_033 [Makoto]]
-I overthink things...? I guess I can't[n]deny that.
+メYo pienso demasiado las cosas...? Supongo que no puedo negar eso.
 
 [msg MSG_034 [Chie]]
-In other words, this is training for you[n]too, Makoto-san.
-The point is, don't think! Feel! Feel[n]the power of BEEF!
+En otras palabras, esto es tambi〒n un entrenamiento para ti, Makoto.
+La cuestiポn es, ムno pienses! ムSi〒ntelo! ムSiente el poder de la CARNE!
 
 [msg MSG_035 [Makoto]]
-Wait, what!? Hey!
+ムメEspera, qu〒?! ムEy!
 
 [msg MSG_036 [Elizabeth]]
-...It would seem another new bond has[n]been forged.
-And with that, the curtain falls on this[n]screening. Until next time...
+... Parece que se ha forjado un nuevo vボnculo.
+Y con eso, se vuelve a bajar el telポn. Hasta la prポxima...
 
