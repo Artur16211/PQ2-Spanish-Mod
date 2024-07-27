@@ -12,7 +12,7 @@ Descrボbeles los materiales necesarios.
 [msg MSG_003 [Theodore]]
 Cierto. El Mago Fantasmal soltarホ el Teddy Bear.
 La Arena Afluente soltarホ el Kaleidoscope...
-Y podrán obtener la Clay Figurine del Vehボculo Feroz.
+Y podrホn obtener la Clay Figurine del Vehボculo Feroz.
 
 [msg MSG_004 [Elizabeth]]
 Todas esas son partes raras de una sombra... Nos gustarボa que las consiguieran.

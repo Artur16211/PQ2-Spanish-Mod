@@ -32,7 +32,7 @@ Aunque no hace falta decir que esta proyecciポn especial es perfecta para mボ.
 Hmm, es verdad que no solemos ver arte callejero.
 
 [msg MSG_009 [Yukiko]]
-Sボ, armarían un gran escホndalo si lo intentaran en Inaba.
+Sボ, armarボan un gran escホndalo si lo intentaran en Inaba.
 
 [msg MSG_010 [Yusuke]]
 Una misiポn de arte callejero... Jejeje... Estoy temblando de la emociポn.

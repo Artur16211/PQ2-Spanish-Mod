@@ -45,7 +45,7 @@ Creo que serボa mejor que nos tomホramos un descanso.
 
 [msg MSG_014 [Yusuke]]
 メUn descanso...?
-Yo voy a seguir buscando. Siéntanse libres de tomar un descanso si quieren.
+Yo voy a seguir buscando. Si〒ntanse libres de tomar un descanso si quieren.
 
 [msg MSG_015 [Chie]]
 Wow, ahora mismo no es necesario que te presiones.
@@ -73,7 +73,7 @@ No veo nada por aquボ. メQu〒 hay de ti, Fox?
 Me temo que yo tampoco.
 
 [msg MSG_023 [Makoto]]
-Ustedes dos deberían descansar. Se van a cansar si siguen asボ.
+Ustedes dos deberボan descansar. Se van a cansar si siguen asボ.
 
 [msg MSG_024 [Naoto]]
 No parece haber amonitas en esta zona. Tendremos que buscar en otro sitio.

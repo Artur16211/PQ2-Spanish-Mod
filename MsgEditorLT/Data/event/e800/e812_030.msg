@@ -30,7 +30,7 @@ Jaja... Suelo ceder mis antojos a menudo, y normalmente tengo que entrenar duro 
 Aun asボ, ムseguramente seas una de las mejores! Qu〒 envidia.
 
 [msg MSG_010 [Ann]]
-V-vamos chicos, están haciendo que me sonroje.
+V-vamos chicos, estホn haciendo que me sonroje.
 Pero tambi〒n me pone muy feliz escucharos decir eso, asボ que ムgracias!
 
 [msg MSG_011 [Rise]]
@@ -51,6 +51,6 @@ Sボ... Probablemente serホ un rato.
 
 [msg MSG_016 [Futaba]]
 Toda esta feminidad... ムEs demasiado que manejar!
-ムDeberían ir mejor a por la canela! ムNo podemos defraudarles!
+ムDeberボan ir mejor a por la canela! ムNo podemos defraudarles!
 Nos acercamos a nuestros objetivos, ムasボ que dirボgete al que quieras!
 

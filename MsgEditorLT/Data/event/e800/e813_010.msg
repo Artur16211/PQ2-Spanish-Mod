@@ -1,7 +1,7 @@
 [msg MSG_000 [Elizabeth]]
-Para esta proyecciポn especial, tendrán que traer los ingredientes especificados.
+Para esta proyecciポn especial, tendrホn que traer los ingredientes especificados.
 Si no recuerdo mal, esos Granos Explosivos fueron usados en la マltima receta de palomitas...
-メSerían tan amables de traer algunos para mi tonto hermano pequeワo?
+メSerボan tan amables de traer algunos para mi tonto hermano pequeワo?
 
 [msg MSG_001 [Theodore]]
 Se los agradecerボamos mucho...

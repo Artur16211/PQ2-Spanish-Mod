@@ -78,7 +78,7 @@ Muy bien, haremos como nos plazca. Sugiero que llevemos recipientes para la carn
 ムOh! ムYo tambi〒n!
 
 [msg MSG_023 [Yosuke]]
-Realmente están empeワados en hacer esto.
+Realmente estホn empeワados en hacer esto.
 Bueno, si quieren la carne del FOE, supongo que les echar〒 una mano.
 
 [msg MSG_024 [P4 Hero]]

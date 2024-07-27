@@ -67,7 +67,7 @@ No bromeo... Los dos juntos son como nivel 99, o algo asボ...
 No... Es 530,000.
 
 [msg MSG_018 [Yosuke]]
-ムメDe qu〒 demonios están hablando?!
+ムメDe qu〒 demonios estホn hablando?!
 Bueno, de cualquier forma... Si trabajan juntos, no tendrホn nada que temer.
 
 [msg MSG_019 [Morgana]]

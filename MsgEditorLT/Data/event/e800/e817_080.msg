@@ -77,7 +77,7 @@ Aun asボ, preferirボa que se abrieran un poco mホs a mボ...
 Come algunos dulces con todos.
 
 [msg MSG_019 [Ryuji]]
-ムAhボ estホ! Es fホcil hablar sobre cosas en las que ambos están interesados.
+ムAhボ estホ! Es fホcil hablar sobre cosas en las que ambos estホn interesados.
 
 [msg MSG_020 [Mitsuru]]
 Un hobby... Supongo que me gustan las motos...

@@ -16,7 +16,7 @@ Considerando su personalidad, es difボcil creer que actuarボa tan agresivament
 Tengo una teorボa al respecto...
 
 [msg MSG_005 [Teddie]]
-メOhh? Son Naoto y Goro. メQu〒 están haciendo aquボ?
+メOhh? Son Naoto y Goro. メQu〒 estホn haciendo aquボ?
 
 [msg MSG_006 [Naoto]]
 ムTeddie! ムTe estホbamos buscando!

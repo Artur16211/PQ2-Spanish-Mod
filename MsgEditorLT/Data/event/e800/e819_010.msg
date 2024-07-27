@@ -23,11 +23,11 @@ Bien...
 *risita* Era de nosotras.
 
 [msg MSG_007 [Calm voice]]
-Y cumplirán dicha solicitud como deseamos.
+Y cumplirホn dicha solicitud como deseamos.
 
 [msg MSG_008 [Futaba]]
 ムWhoa! ムメDe dポnde han salido las gemelas?!
-メQu〒 ocurre? メSe sentían solas?
+メQu〒 ocurre? メSe sentボan solas?
 
 [msg MSG_009 [Justine]]
 Apenas... Solo hemos venido a deciros nuestras ポrdenes.
@@ -57,7 +57,7 @@ Tambi〒n nos sentimos mホs cポmodos en este lugar. No deberボa ser muy dif�
 
 [msg MSG_017 [Caroline]]
 *risita* メYa los han asustado?
-No serボa divertido ver cポmo lo hacían tan fホcilmente.
+No serボa divertido ver cポmo lo hacボan tan fホcilmente.
 
 [msg MSG_018 [Justine]]
 Ahora, que comience la proyecciポn especial. Daos prisa y entretenednos.

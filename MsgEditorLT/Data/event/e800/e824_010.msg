@@ -42,7 +42,7 @@ Er... Yukiko se estホ divirtiendo.
 Ahora que lo pienso, ムメyo tampoco quiero ver ninguna de esas cosas que empiezan por F, entendido?!
 
 [msg MSG_012 [Akihiko]]
-メPor qu〒 están tan asustados?
+メPor qu〒 estホn tan asustados?
 No s〒 cポmo serホ el sistema de seguridad que tengan, pero si aparece cualquier sombra, acabamos con ella. Asボ de simple.
 
 [msg MSG_013 [Junpei]]

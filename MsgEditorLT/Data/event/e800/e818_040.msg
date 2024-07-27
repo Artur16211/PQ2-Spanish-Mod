@@ -95,7 +95,7 @@ La マltima cosa que necesitamos es el Kaleidoscope de un Flowing Sand en 3-F.
 
 [msg MSG_027 [Fuuka]]
 La マltima cosa que necesitamos es la Clay Figurine de un Rampage Drive.
-Deberían de poder encontrar alguno en cualquier lugar de esta planta.
+Deberボan de poder encontrar alguno en cualquier lugar de esta planta.
 
 [msg MSG_028 [P3 Fem Protag]]
 ムBien! ムEncontr〒moslo y volvamos rホpido con Theo!

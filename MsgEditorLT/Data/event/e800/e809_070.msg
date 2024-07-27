@@ -31,7 +31,7 @@ Una vez que acabポ todo, no pensaba que habrボa nada mホs.
 Pero, tras ver ese grafiti, me di cuenta de que ese no era el caso.
 Incluso sin su influencia, la pelボcula sigue cambiando.
 Esa gente ahora se ha hecho independiente, y ahora han empezado a actuar por sボ mismos.
-No es una pelボcula corriente. Es una entidad viva... メNo están de acuerdo?
+No es una pelボcula corriente. Es una entidad viva... メNo estホn de acuerdo?
 
 [sel SEL_008 top]
 Te entiendo.

@@ -115,7 +115,7 @@ Sボ, no habrボamos podido hacerlo sin su ayuda.
 Gracias por ayudarnos a salvarlo.
 
 [msg MSG_033 [Yosuke]]
-ムEspera! ムSi estamos dando las gracias, déjenme dホroslas a mボ tambi〒n!
+ムEspera! ムSi estamos dando las gracias, d〒jenme dホroslas a mボ tambi〒n!
 Gracias por venir a por mボ, chicos. ムEstoy muy feliz de estar aquボ con todos ustedes!
 
 [msg MSG_034 [Elizabeth]]

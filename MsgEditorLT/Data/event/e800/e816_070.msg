@@ -1,6 +1,6 @@
 [msg MSG_000 [Elizabeth]]
 Te agradezco que hayan completado la proyecciポn especial para mi inマtil hermano.
-Desde ahora, siéntanse libres de pedirle lo que quieran.
+Desde ahora, si〒ntanse libres de pedirle lo que quieran.
 
 [msg MSG_001 [Yosuke]]
 Ja, ja... Me siento mal con la forma en la que lo trata...

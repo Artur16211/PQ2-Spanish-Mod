@@ -18,7 +18,7 @@ Ja, ja, メestabas preocupado por mボ? Eres muy listo, メlo sabボas?
 
 [sel SEL_006 top]
 メQu〒 ocurre?
-メEstán bien?
+メEstホn bien?
 
 [msg MSG_007 [Ken]]
 Oh, no es nada.

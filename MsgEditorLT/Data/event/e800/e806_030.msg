@@ -1,5 +1,5 @@
 [msg MSG_000 [Rise]]
-ムOh! Siento que hay agua por aquボ cerca. ムDeberían de estar ya casi!
+ムOh! Siento que hay agua por aquボ cerca. ムDeberボan de estar ya casi!
 
 [msg MSG_001 [Ryuji]]
 Oye, メde verdad vamos a encontrar alguna de esas amonitas aquボ? Vivボan en el oc〒ano, メno?

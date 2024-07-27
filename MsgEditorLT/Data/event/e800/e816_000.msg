@@ -1,5 +1,5 @@
 [msg MSG_000 [Theodore]]
-Hola a todos. メQu〒 tal están?
+Hola a todos. メQu〒 tal estホn?
 
 [msg MSG_001 [Elizabeth]]
 ... ムVillano!

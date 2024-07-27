@@ -128,7 +128,7 @@ Y luego pelean contra las Seidopteras en el aire y les roban el tesoro, メciert
 ... Dudo que seamos capaces de hacer eso.
 
 [msg MSG_038 [Futaba]]
-Esperad, メestán planeando enfrentaros a las Seidopteras? Saben que son FOEs, メno?
+Esperad, メestホn planeando enfrentaros a las Seidopteras? Saben que son FOEs, メno?
 
 [msg MSG_039 [Elizabeth]]
 Las cosas se estホn calentando. Estar〒 aquボ, observando con la respiraciポn contenida.

@@ -17,7 +17,7 @@ Shh... Algo se acerca.
 Es tal y como pensホbamos... y ahora les encontramos in fraganti.
 
 [msg MSG_004 [Teddie]]
-ムHey, hey, hey! ムメQu〒 creen que están haciendo con mi traje de oso?!
+ムHey, hey, hey! ムメQu〒 creen que estホn haciendo con mi traje de oso?!
 ムMe niego a seguir pasando por alto sus maldades!
 
 [msg MSG_005 [Teddie?]]
@@ -33,7 +33,7 @@ Dada la situaciポn, solo hay una respuesta. Quitaos ese traje...
 ムCaroline y Justine!
 
 [msg MSG_010 [Caroline]]
-ムRrrgh...! ムメCポmo sabían que 〒ramos nosotras?!
+ムRrrgh...! ムメCポmo sabボan que 〒ramos nosotras?!
 
 [msg MSG_011 [Naoto]]
 Puede que solo tuvi〒ramos pruebas circunstanciales...
@@ -115,7 +115,7 @@ No pasa nada. S〒 que a veces es difボcil ser sincero.
 ムP-Pero eso es...!
 
 [msg MSG_028_4 [Caroline]]
-ムメNos lo están dando a nosotras?!
+ムメNos lo estホn dando a nosotras?!
 
 [msg MSG_028_6 [Teddie]]
 ムUn regalo para ustedes! ムTodo el mundo es mホs feliz cuando comparte!

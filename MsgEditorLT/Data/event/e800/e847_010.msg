@@ -67,7 +67,7 @@ No s〒 si esto...
 Vamos, estarホs bien. Te cubrimos las espaldas, como siempre.
 
 [msg MSG_018 [Elizabeth]]
-メHemos llegado a un acuerdo? Entonces déjenme que lo resuma.
+メHemos llegado a un acuerdo? Entonces d〒jenme que lo resuma.
 
 [msg MSG_018_1 [Elizabeth]]
 Por favor, acabad con la poderosa sombra que ha aparecido en las profundidades de la Ciudad Kamo.

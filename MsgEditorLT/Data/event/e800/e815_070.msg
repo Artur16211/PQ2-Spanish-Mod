@@ -1,5 +1,5 @@
 [msg MSG_000 [Elizabeth]]
-Es bueno ver que están bien.
+Es bueno ver que estホn bien.
 ムCazaron a su presa y luego se acercaron para matarla! Parece que ustedes eran las verdaderas bestias sedientas de sangre de esta historia.
 Qu〒 espectホculo mホs espl〒ndido. Fue una muestra perfecta de las duras leyes de la naturaleza.
 

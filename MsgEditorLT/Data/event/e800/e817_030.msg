@@ -14,7 +14,7 @@ Quizホs acabaron su investigaciポn y han limpiado.
 *suspiro* Bueno, ya se va mi motivaciポn.
 
 [msg MSG_004 [Yukari]]
-Se están rindiendo muy rホpido.
+Se estホn rindiendo muy rホpido.
 
 [msg MSG_005 [Ann]]
 Ey, メsoy yo, o hay un montポn de gente aquボ?
