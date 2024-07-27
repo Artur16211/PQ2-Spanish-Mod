@@ -13,7 +13,7 @@ Oh, メqu〒 harボa un Ladrポn Fantasma en esta situaciポn?
 [sel SEL_004 top]
 Luchar
 Vamos a entrar
-メEstホ todo el mundo listo?
+メEstホn listos?
 
 [msg MSG_005 [Morgana]]
 Cauteloso pero audaz... En eso consiste ser un Ladrポn Fantasma.

@@ -5,7 +5,7 @@ Bien, aquボ vienen los FOEs.
 Bueno, la amenaza es mホs dura que de costumbre. No vamos a poder escabullirnos como siempre.
 
 [msg MSG_001_02 [Rise]]
-Tambi〒n parecen muy agitados... Probablemente sean mホs agresivos, asボ que, ムtened cuidado!
+Tambi〒n parecen muy agitados... Probablemente sean mホs agresivos, asボ que, ムtengan cuidado!
 
 [msg MSG_002 [Chie]]
 Ohh... Estoy empezando a ponerme nerviosa.
@@ -19,7 +19,7 @@ Sボ, a mボ me estホn sudando las manos.
 ... C〒ntrate, c〒ntrate. Ay, ahora estoy incluso mホs nerviosa...
 
 [msg MSG_005 [Kanji]]
-He escuchado eso un montポn. Pero, メfunciona realmente?
+He escuchado eso antes. Pero, メrealmente funciona?
 
 [msg MSG_006 [Naoto]]
 Se dice que las tareas sencillas ayudan a calmar la mente.

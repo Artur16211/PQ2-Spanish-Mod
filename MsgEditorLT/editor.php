@@ -208,6 +208,12 @@ $show_font_inverse = array_flip($show_font);
                 ?>
             </div>
         </div>
+        <div class="mb-3">
+            <a class="btn btn-primary mt-2" href="index.php?dir=<?php echo $parentDir; ?>"><-</a>
+            <button type="button" class="btn btn-warning" onclick="saveChanges()">Guardar Pendiente</button>
+            <button type="button" class="btn btn-info" onclick="SaveAndmarkAsCompleted()">Guardar Completado</button>
+            <button type="button" class="btn btn-success" onclick="SaveAndmarkAsRevisedV2()">Guardar Revisado</button>
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>

@@ -1,11 +1,11 @@
 [msg MSG_000 [Elizabeth]]
-Para esta proyecciポn especial, deb〒is completar una misiポn concreta.
+Para esta proyecciポn especial, deben completar una misiポn concreta.
 
 [msg MSG_001 [Yosuke]]
 メMisiポn?
 
 [msg MSG_002 [Elizabeth]]
-Me gustarボa que llegarais a la localizaciポn que os especifico.
+Me gustarボa que llegaran a la localizaciポn especボfica.
 
 [msg MSG_003 [Chie]]
 ... メHuh? メEso es todo? ムParece fホcil!
@@ -22,7 +22,7 @@ Sin problema.
 Vamos, deberボas haberlo visto venir.
 
 [msg MSG_007 [Ryuji]]
-Bro, メhay algo que te asuste? メAunque sea un poco?
+メHay algo que te asuste? メAunque sea un poco?
 
 [msg MSG_008 [Yosuke]]
 Wow... Siempre jugando tranquilo.
@@ -51,14 +51,14 @@ Son buenas amigas.
 No podemos dejar que nos pongan en evidencia.
 
 [msg MSG_015 [Ryuji]]
-Bien, qu〒 guay, supongo...
+Bien, qu〒 bien, supongo...
 Honestamente, ahora que lo pienso, hacen una pareja muy rara.
 
 [msg MSG_016 [Ryuji]]
-Bien, qu〒 guay, supongo... Aun asボ, antes no estaban tan unidas, メno?
+Bien, supongo... Aun asボ, antes no estaban tan unidas, メno?
 
 [msg MSG_017 [Ryuji]]
-ムメQu〒 es esto, una competiciポn?!
+ムメQu〒 es esto, una competencia?!
 Solo digo que hacen una pareja bastante rara, メno crees?
 
 [msg MSG_018 [Yosuke]]
@@ -69,11 +69,11 @@ Una chica golosa de ciudad, y una amante de la carne del campo...
 ムAmbas son tan diferentes y tan guapas! ムNo soporto tener que elegir entre ellas!
 
 [msg MSG_020 [Ann]]
-Hey. メQu〒 estホis murmurando por allボ?
+Hey. メQu〒 estホn murmurando por allボ?
 
 [msg MSG_021 [Chie]]
-ムTe vas a quedar atrホs!
+ムSe van a quedar atrホs!
 
 [msg MSG_022 [Kanji]]
-Estホn realmente emocionados... Supongo que deberボamos movernos tambi〒n.
+Estホn realmente emocionadas... Supongo que deberボamos movernos tambi〒n.
 

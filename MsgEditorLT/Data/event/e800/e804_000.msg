@@ -2,7 +2,7 @@
 ムCh-Chie!
 
 [msg MSG_001 [Chie]]
-ムAy! M-Me has asustado...
+ムAh! M-Me has asustado...
 メQu〒 pasa?
 
 [msg MSG_002 [Ann]]
@@ -16,10 +16,10 @@ Ann, メtambi〒n eres fan de las pelボculas de kung-fu?
 
 [msg MSG_004 [Ann]]
 ... メ"Trial of the Dragon? Perdポn, realmente no s〒 qu〒 es eso
-Te estaba viendo luchar y pensaba que te veボas muy guay...
+Te estaba viendo luchar y pensaba que te veボas increボble...
 
 [msg MSG_005 [Chie]]
-ムメG-Guay?! ムメYo?!
+ムメI-increボble?! ムメYo?!
 ムNo puede ser! Tマ eres mucho mホs guay que yo, Ann. メCポmo puedo tener un cuerpo como el tuyo? メEs tu dieta?
 メComes carne? Por favor, dime que comes carne y no solo un montポn de hojas...
 
@@ -29,7 +29,7 @@ Supongo que la dieta es importante, pero tambi〒n me gustan mucho las cosas con
 
 [msg MSG_007 [Chie]]
 メEntonces, haces deporte?
-ムOh, ya lo entiendo! ムClaro, los Ladrones Fantasma siempre estホis volando como locos!
+ムOh, ya lo entiendo! ムClaro, los Ladrones Fantasma siempre estホn volando como locos!
 
 [msg MSG_008 [Ann]]
 Sボ, es verdad. Supongo que eso me agota bastante...
@@ -43,7 +43,7 @@ Okay, メpor qu〒 no me enseワas a moverme como tマ?
 
 [msg MSG_011 [Chie]]
 Y, a cambio, yo te enseワar〒 kung-fu.
-De ese modo, ambas aprenderemos los secretos de la otra para ser guay. メQu〒 piensas?
+De ese modo, ambas aprenderemos los secretos de la otra para ser increボbles. メQu〒 piensas?
 
 [sel SEL_012 top]
 Parece divertido.
@@ -57,10 +57,10 @@ Umm, ha estado aquボ todo el tiempo.
 De todas formas, si eso es todo lo que quieres saber, ムestar〒 encantada de enseワarte!
 
 [msg MSG_015 [Chie]]
-Oh, eso suena muy ladrポn fantasmal... Que guay...
+Oh, eso suena muy ladrポn fantasma-l... increボble...
 
 [msg MSG_016 [Ann]]
-Jeje. Parece que ambas estamos consiguiendo lo que queremos.
+Je, je. Parece que ambas estamos consiguiendo lo que queremos.
 Si eso es todo lo que quieres saber, ムestar〒 encantada de enseワarte!
 
 [msg MSG_017 [Chie]]
