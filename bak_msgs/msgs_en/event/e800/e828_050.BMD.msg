@@ -1,9 +1,0 @@
-[msg MSG_000 [Koromaru]]
-[f 0 5 65278][f 2 1][f 4 6 20 1 0 3][f 4 6 17 12 0 1][f 3 1 1 0 0 17002][f 6 1 2 0 0 6]Arf arf![n][f 1 3 65535][f 1 1][e]
-
-[msg MSG_001 [Aigis]]
-[f 0 5 65278][f 2 1][f 4 6 15 12 0 4][f 3 1 1 0 0 0]It seems we are close to the missing[n]part.[n][f 1 3 65535][f 1 1][e]
-
-[msg MSG_002 [Ken]]
-[f 0 5 65278][f 2 1][f 4 6 16 2 0 4][f 3 1 1 0 0 16107][f 6 1 2 0 0 6]It's in this room, then. Let's keep[n]searching![n][f 1 3 65535][f 1 1][e]
-

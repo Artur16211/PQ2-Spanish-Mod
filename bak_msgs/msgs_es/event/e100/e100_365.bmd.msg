@@ -1,6 +1,0 @@
-[msg MSG_000 [Nagi]]
-[f 0 5 65278][f 2 1][f 4 6 84 6 0 1][f 3 1 1 0 0 1]Perdieron...[n][f 1 3 65535][f 1 1][e]
-
-[msg MSG_001 [Hikari]]
-[f 0 5 65278][f 2 1][f 4 6 81 6 2 0][f 3 1 1 0 0 2]Lo sab胤a... Nadie tiene la oportunidad contra el que tiene el poder...[n][f 1 3 65535][f 1 1][e]
-
