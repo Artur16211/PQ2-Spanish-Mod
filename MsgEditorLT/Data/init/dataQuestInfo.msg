@@ -1,5 +1,5 @@
 [msg quest_info_000]
-La proyecciポn especial "[f 0 1 2][f 2 4 0][f 0 1 0]" ha sido completada.
+Proyecciポn especial "[f 0 1 2][f 2 4 0][f 0 1 0]" completada.
 
 [msg quest_info_001]
 Derrotado [f 2 4 0] x[f 2 4 1].

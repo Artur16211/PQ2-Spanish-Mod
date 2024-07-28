@@ -59,7 +59,8 @@ if __name__ == "__main__":
         'formats/GSD', 
         'formats/manual_fixed', 
         'formats/TABLES', 
-        'formats/TBL'
+        'formats/TBL',
+        'formats/CODEBIN',
     ]
     dest_dir = 'MsgEditorLT/imported'
     
