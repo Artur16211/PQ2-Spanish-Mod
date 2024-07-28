@@ -36,7 +36,7 @@
 | 83 90 | Ñ          | ヰ                   |
 | 83 80 | ¡          | ム                   |
 | 83 81 | ¿          | メ                   |
-| B6 | Fix tbl jpn characters          | ｶ                   |
+| B6 | Fix tbl jpn characters | ｶ |
 # SMALL FONT
 | BYTES | CHARACTER | SHIFT-JIS |
 |-------|------------|----------------------|
