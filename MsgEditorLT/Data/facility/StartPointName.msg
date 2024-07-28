@@ -11,7 +11,7 @@ Pantalla de cine
 ※ポ7:０２
 
 [msg quest_03]
-Escaleras hacia la 1ra Avenida
+Escaleras hacia la 1era Avenida
 
 [msg quest_04]
 Escaleras hacia la Plaza Kamoshida
@@ -23,7 +23,7 @@ Escaleras hacia la Plaza Kamoshida
 Escaleras hacia la Zona 1
 
 [msg quest_07]
-Escaleras hacia la 1ra Avenida
+Escaleras hacia la 1era Avenida
 
 [msg quest_08]
 Escaleras hacia la Plaza Kamoshida
