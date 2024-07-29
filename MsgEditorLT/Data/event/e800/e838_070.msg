@@ -1,91 +1,91 @@
 [msg MSG_000 [Theodore]]
-Eff, eff, FOE. Now that it's crushed,[n]ex-FOE...
+Fo, fo, FOE. Ahora que estホ derrotado, ex-FOE...
 
 [msg MSG_001 [Elizabeth]]
-...I'm terribly sorry. It appears my[n]brother is overcome with delirium.
+... Lo siento muchボsimo. Parece que mi hermano tiene un delirio.
 
 [msg MSG_002 [Theodore]]
-You're the one who told me to do this!
+ムTマ fuiste quien me dijo que lo hiciera!
 
 [msg MSG_003 [Elizabeth]]
-You have successfully executed the[n]executioner! Scrapped it to scrap metal!
-It appears you can take on any obstacle[n]the enemy throws at you...
-Hm...?
+ムHan ejecutado exitosamente al ejecutor! ムLo han convertido en chatarra!
+Parece que puedes enfrentarte a cualquier obstホculo de los enemigos...
+メHm...?
 
 [msg MSG_004 [Junpei]]
-Grrrraah! Junpei Iori's not outta the[n]game yet!
+ムGrrrraah! ムJunpei Iori aマn no ha abandonado el juego!
 
 [msg MSG_005 [Kanji]]
-Ngaaahhh! I ain't gonna lose!
+ムNgaaahhh! ムNo voy a perder!
 
 [msg MSG_006 [Junpei]]
-Whoa!
+ムHala!
 
 [msg MSG_007 [Kanji]]
-Wh-Whoa!
+ムH-Hala!
 
 [msg MSG_008 [Morgana]]
-Yikes, that was a pretty bad fall...[n]Rest in peace, guys.
+Uf, esa fue una caボda bastante mala... Descansen en paz, chicos.
 
 [msg MSG_009 [Akihiko]]
-Hah! Careful there. Even when you're at[n]your limits, you gotta stay focused.
+ムJa! Cuidado. Incluso cuando est〒n en su lボmite, deben de estar concentrados.
 
 [msg MSG_010 [Kanji]]
-Guh, hah... Not bad... Junpei-san.
-Thought you... dropped out...?
+Guh, hah... Nada mal... Junpei.
+Pensaba que... te habボas rendido...
 
 [msg MSG_011 [Junpei]]
-Phew... I, uh... I'm not sure, but...
-I've got... someone... I gotta protect.
-So... I still... gotta get stronger.
+Uf... yo, eh... no estoy seguro, pero...
+Tengo... que proteger... a alguien.
+Asボ que... yo todavボa... tengo que hacerme mホs fuerte.
 
 [msg MSG_012 [Kanji]]
-Man, Junpei-san...
-Maybe I was wrong about you. You got[n]some real grit after all.
+Bro, Junpei...
+Quizホs estaba equivocado contigo. Despu〒s de todo, tienes agallas de verdad.
 
 [msg MSG_013 [Junpei]]
-Huh...? Maybe that was too serious...
-Bah, nevermind! I better get back to the[n]jokes. Can't just be Junpei, the[n]Straight-faced Detective!
+メEh...? Quizホs eso fue muy serio...
+ムBah, qu〒 mホs da! Mejor vuelvo con las bromas. ムNo puedo ser el Detective serio Junpei!
 
 [msg MSG_014 [Kanji]]
-Man, don't get embarrassed by that! You[n]got something you wanna protect, right?
-Then let's get even stronger![n]Akihiko-san can help us!
+ムBro, no te avergüences por eso! Tienes algo que quieres proteger, メverdad?
+ムEntonces hagホmonos aマn mホs fuertes! ムAkihiko puede ayudarnos!
 
 [msg MSG_015 [Junpei]]
-Uh, well... Maybe that can wait until[n]next time...
+Oh, bueno... Quizホs eso pueda esperar para la prポxima vez...
 
 [msg MSG_016 [Akihiko]]
-I heard it all!
-Already made you a training regimen.[n]I've got it covered!
+ムHe escuchado todo!
+ムYa te he hecho una sesiポn de entrenamiento! ムHe cubierto todo!
 
 [msg MSG_017 [Junpei]]
-I said next time! Didn't you hear THAT[n]part!?
+ムHe dicho la prポxima vez! ムメNo has escuchado ESA parte?!
 
 [msg MSG_018 [Kanji]]
-Junpei-san... You got this! I'm cheerin'[n]for ya!
+ムJunpei... tマ puedes! ムTe estoy animando!
 
 [msg MSG_019 [Akihiko]]
-Don't worry, Kanji. I've made you a[n]training regimen too!
+No te preocupes, Kanji. ムTe he preparado una sesiポn de entrenamiento a ti tambi〒n!
 
 [msg MSG_020 [Kanji]]
-...What?
+... メQu〒?
 
 [msg MSG_021 [Akihiko]]
-Now, let's start with warmups!
-One thousand squats! Go!
+ムAhora, empecemos con el calentamiento!
+ムMil sentadillas! ムVamos!
 
 [msg MSG_022 [Junpei]]
-Noooo!
+ムNoooo!
 
 [msg MSG_023 [Kanji]]
-Wh-Why meeee!?
+ムメP-Por qu〒 yo?!
 
 [msg MSG_024 [Yukiko]]
-They're having so much fun. I guess this[n]is what they call "teen spirit"?
+Se estホn divirtiendo mucho. Supongo que esto es a lo que llaman "espボritu adolescente.
 
 [msg MSG_025 [P3 Hero]]
-And off they go into the sunset.
+Y se van hacia el atardecer.
 
 [msg MSG_026 [Morgana]]
-I'm not sure being a teenager usually[n]involves this much screaming...
+No estoy seguro de que ser adolescente implique tantos gritos...
 

@@ -6,7 +6,7 @@ No
 No has aceptado ninguna proyecciポn[n]especial. メEstホ seguro?
 
 [msg town_warning_persona [Rise]]
-Senpai, ten cuidado. Hay alguien en tu[n]grupo que no tiene una Persona[n]Secundaria.
+Cuidado. Hay alguien en tu[n]grupo que no tiene una Persona[n]Secundaria.
 
 [msg town_warning_both [Rise]]
 Senpai, ten cuidado. Hay alguien en tu[n]grupo que no tiene una Persona[n]Secundaria.
@@ -16,16 +16,16 @@ Y parece que ni siquiera llevas[n][f 4 4 3 0 1333]s contigo. メEstホs seguro d
 Lボder, esperemos antes de regresar a ese[n]laberinto. Deberボamos ir a revisar el[n]siguiente por ahora.
 
 [msg town_goukon_event_p4 [Rise]]
-Senpai, podemos volver a ese laberinto[n]mホs tarde. Vamos a revisar el siguiente[n]primero.
+Podemos volver a ese laberinto[n]mホs tarde. Vamos a revisar el siguiente[n]primero.
 
 [msg town_odekake_alone]
 No estホ sucediendo nada interesante en[n]la escuela. Tal vez deberボas revisar de[n]nuevo mホs tarde...
 
 [msg town_1st_warning_p4 [Rise]]
-Senpai, podemos volver a ese laberinto[n]mホs tarde. Vamos a revisar el siguiente[n]primero.
+Podemos volver a ese laberinto[n]mホs tarde. Vamos a revisar el siguiente[n]primero.
 
 [msg town_warning_dungeon_p4 [Rise]]
-Senpai, メllevas Talue-Gos?
+メLlevas Talue-Gos?
 Si usas un Talue-Go en el laberinto,[n]deberボas poder regresar aquボ.
 No te arriesgues, メde acuerdo? Si se[n]vuelve difボcil allボ dentro, simplemente[n]マsalo y sal.
 Puedes curarte y cambiar tu equipo aquボ,[n]asボ que tom〒monos nuestro tiempo y[n]hagホmoslo bien.

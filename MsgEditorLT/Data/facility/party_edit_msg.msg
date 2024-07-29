@@ -34,7 +34,7 @@ Explicaciポn del modo Desenfreno. Aunque[n]no es muy complicado...
 Ingresa un nombre para este grupo[n]utilizando la pantalla tホctil.
 
 [msg PARTY_EDIT_MSG_CANCEL_ED]
-メDeseas salir sin cambiar la formaciポn[n]del grupo?
+メSalir sin cambiar la formaciポn[n]del grupo?
 
 [msg PARTY_EDIT_MSG_PARTY_ALL]
 Nadie en tu grupo estホ en condiciones de[n]combatir.

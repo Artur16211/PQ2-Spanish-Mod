@@ -1,34 +1,34 @@
 [msg MSG_000 [Rise]]
-The FOE is tracking us down! Get ready[n]to battle!
+ムEl FOE nos estホ persiguiendo! ムPrepホrense para la batalla!
 
 [msg MSG_001 [Akihiko]]
-Got it! It's about time!
-Junpei! Kanji! Let's do this!
+ムEntendido! ムHa llegado la hora!
+ムJunpei! ムKanji! ムHagホmoslo!
 
 [msg MSG_002 [Kanji]]
-Guh... hah... Uh, could you―
-...Phew... hah... hold on a sec...?
+Guh... hah... Uh, メpodrボas...
+... Uf... hah... esperar un segundo?
 
 [msg MSG_003 [Junpei]]
-I see it... I can see it...
-A beautiful sky... chirping birds...
+Lo veo... Puedo verlo...
+Un cielo hermoso... pホjaros cantando...
 
 [sel SEL_004 top]
-Do your best.
-That all you got?
+Hacedlo lo mejor posible.
+メEso es todo lo que tienen?
 
 [msg MSG_005 [Junpei]]
-This is... Junpei... Iori's... last...[n]stand...
+Este es... el マltimo... combate de... Junpei... Iori...
 
 [msg MSG_006 [Yukari]]
-Ahaha... Now I feel a little bad for[n]getting him into this...
+Ja, ja, ja... Ahora me siento un poco mal por haber hecho que acaben asボ.
 
 [msg MSG_007 [Akihiko]]
-Yeah, you're wide open. Pull it[n]together! The enemy's right there!
+Sボ, estホn completamente expuestos. ムConc〒ntrense! ムEl enemigo estホ justo aquボ!
 
 [msg MSG_008 [Kanji]]
-You guys... are monsters...
+Ustedes... son monstruos...
 
 [msg MSG_009 [Akihiko]]
-Eyes up, you two! We've got an opponent[n]to beat before we can call ourselves the[n]strongest!
+ムTengan los ojos abiertos! ムTenemos un enemigo que derrotar antes de que podamos llamarnos los mホs fuertes!
 

@@ -75,13 +75,13 @@ El cポdigo QR no pudo ser reconocido.
 メRecibir nuevos Libros?
 
 [msg FCL_NETWORK_INBOX_CHECKI]
-Comprobando los datos de StreetPass...
+Comprobando datos StreetPass...
 
 [msg FCL_NETWORK_PERSONA_DELE [Marie]]
 メEstホs seguro de que quieres descartar[n]este Libro?
 
 [msg FCL_NETWORK_PERSONA_DELE_2 [Elizabeth]]
-メDeseas descartar este Libro?
+メDescartar este Libro?
 
 [msg FCL_NETWORK_PERSONA_SUMM [Marie]]
 Costarホ [f 2 4 0] yenes invocar a[n]esta Persona. メEstホs seguro?

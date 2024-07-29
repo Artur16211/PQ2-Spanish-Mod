@@ -32,7 +32,7 @@ Siento algo ardiendo por dentro. ムSiento[n]que puedo hacer cualquier cosa!
 ムSボ, mi voz estホ en excelente forma[n]ahora mismo! ムD〒jame encargarme de la[n]navegaciポn!
 
 [msg MSG_BEST_6_2 [Rise]]
-ムLos niveles de energボa estホn al 100%![n]Deberボa estar listo para empezar.
+ムLos niveles de energボa estホn al 100%![n]Deberボa estar lista para empezar.
 
 [msg MSG_BEST_7_1 [Kanji]]
 ムPonme ahボ! ムPuedo con ellos!
@@ -44,7 +44,7 @@ Siento algo ardiendo por dentro. ムSiento[n]que puedo hacer cualquier cosa!
 メCrees que pueda unirme? Estoy en[n]excelente forma en este momento.
 
 [msg MSG_BEST_8_2 [Naoto]]
-Estoy bien de salud y energボa. Listo[n]para pelear.
+Estoy bien de salud y energボa. Lista[n]para pelear.
 
 [msg MSG_BEST_9_1 [Teddie]]
 ムOh, yo! ムElボgeme a mボ! ムMe siento muy[n]confiado!
