@@ -18,7 +18,7 @@ Azoth Dagger
 Arsene's Cane
 Nihil
 Misericordia
-ParaƒPso perdido
+Paraíso perdido
 Weapon 0x015
 Jailbreaker
 Survivor's Knife
@@ -39,15 +39,15 @@ Heavy Steel Pipe
 Weapon 0x026
 Maza pesada
 Femur Club
-TuberƒPa demonƒPaca
-BastƒRn de sueƒZo
+Tubería demoníaca
+Bastón de sueño
 Barra de pinchos
-TuberƒPa de hierro
+Tubería de hierro
 Wolf Fang Pole
 Dagda's Club
 Gaea Rod
 Hercules' Club
-Vara del dios dragƒRn
+Vara del dios dragón
 Demon Staff
 Megaton Rod
 Ruyi Jingu Bang
@@ -63,7 +63,7 @@ Weapon 0x03D
 Weapon 0x03E
 Weapon 0x03F
 Weapon 0x040
-LƒLtigo de cuero
+Látigo de cuero
 (prov) 1.5 Whip
 Training Whip
 Fundo-Kusari
@@ -72,16 +72,16 @@ Weapon 0x046
 Manacle Whip
 Fern Whip
 Desgarrapiel
-LƒLtigo electromag.
-LƒLtigo de cadena
-LƒLtigo inflamable
-LƒLtigo de hƒNroe
+Látigo electromag.
+Látigo de cadena
+Látigo inflamable
+Látigo de héroe
 Agony Whip
 White Rose Whip
 Fengshen Whip
 Nine Tails
 Blue Rose Whip
-LƒLtigo de reina
+Látigo de reina
 Golden Whip
 Weapon 0x055
 Rosebell Whip
@@ -95,7 +95,7 @@ Weapon 0x05D
 Weapon 0x05E
 Weapon 0x05F
 Weapon 0x060
-Katana de imitaciƒRn
+Katana de imitación
 Unmarked Katana
 Zanbato
 Meteorite Katana
@@ -177,7 +177,7 @@ Grand Fireworks
 Mataestrellas
 Tom Sawyer
 Chromatic Orb
-UtopƒPa
+Utopía
 Weapon 0x0B4
 Catapult
 Sleep Sling
@@ -257,8 +257,8 @@ Weapon 0x0FF
 Weapon 0x100
 (prov) Fist 1
 (prov) Fist 2
-Nudilleras de latƒRn
-EmpuƒZadura pesada
+Nudilleras de latón
+Empuñadura pesada
 Coin Knuckles
 Delta Knuckles
 Hard Rocker
@@ -277,7 +277,7 @@ Pegasus Fist
 Ultimate Fist
 Champion Gloves
 Weapon 0x116
-PuƒZo de hierro
+Puño de hierro
 Weapon 0x118
 Weapon 0x119
 Weapon 0x11A
@@ -289,7 +289,7 @@ Weapon 0x11F
 Weapon 0x120
 (prov) Two-hand 1
 (prov) Two-hand 2
-Katana de imitaciƒRn
+Katana de imitación
 Espada larga
 Palo de titanio
 Mythic Sword
@@ -334,7 +334,7 @@ Calzado de acero
 Calzado bonito
 Botas de Vidar
 Sleipnir
-Sandalias de MoisƒNs
+Sandalias de Moisés
 Stellar Greaves
 Reigan Greaves
 Weapon 0x153
@@ -358,9 +358,9 @@ Kyo Sensu
 Hanachirusato
 Downpour Fan
 Fortified Tessen
-Aban. de inversiƒRn
+Aban. de inversión
 Suzumushi
-De mƒLscaras
+De máscaras
 Suzaku Fan
 Juli-sen
 Mogari-Bue
@@ -420,7 +420,7 @@ Weapon 0x1A0
 Silla plegable
 Placa de hierro
 Placa de acero
-Placa de energƒPa
+Placa de energía
 Tabla dura
 Placa de oro
 Round Shield
@@ -459,7 +459,7 @@ Algernon
 Shield Gun
 Sci-fi Raygun
 Camello rojo
-CorazƒRn cromado
+Corazón cromado
 Magical Gun
 Ilimitado
 Juez del infierno
@@ -649,7 +649,7 @@ Megaton Hammer
 Night Stalker
 Rocket Hammer
 The Pulverizer
-Poste de autobƒTs
+Poste de autobús
 Ukonvasara
 Eliminador
 Mjolnir
@@ -703,7 +703,7 @@ Weapon 0x2BD
 Weapon 0x2BE
 Weapon 0x2BF
 Weapon 0x2C0
-PortƒLtil
+Portátil
 Mic
 Brazal
 Weapon 0x2C4
@@ -773,7 +773,7 @@ Armor 0x303
 Puffy Down Coat
 Fitted Chainmail
 Aramid Vest
-ProtecciƒRn de vida
+Protección de vida
 Camo Poncho
 Armor 0x309
 Enhanced Armor
@@ -781,12 +781,12 @@ Armadura resistente
 (prov) Unisex 6
 Camiseta de esperanza
 Soul Vest
-Armadura ƒRpera
+Armadura ópera
 Egoist Coat
 Vogue Vest
-Camiseta etƒNrea
+Camiseta etérea
 Kaiser Armor
-TƒTnica papal
+Túnica papal
 Armor 0x315
 Resistance Armor
 Unity Shirt
@@ -826,11 +826,11 @@ Manly Jinbei
 Armor 0x339
 Tigerhide Belt
 Armor 0x33B
-Happi de leƒRn
+Happi de león
 Doumaru
 Chaleco de Gigas
 Armor 0x33F
-Jersey de la pasiƒRn
+Jersey de la pasión
 Crusader Plate
 Hero's Knickers
 Placa de desesperac.
@@ -878,13 +878,13 @@ Primal Bikini
 Armor 0x36D
 Witchy Dress
 Futuristic Tights
-TƒTnica magnƒPfica
+Túnica magnífica
 (prov) Female 7
-TutƒT de brisa
+Tutú de brisa
 Spiked Bra
 Vestido de runas
 Mini invencible
-TƒTnica de Haten
+Túnica de Haten
 Eternity Dress
 Armor 0x378
 Armor 0x379
@@ -992,7 +992,7 @@ Printed T-Shirt
 4-Leaf Hoodie
 White Shirt
 Camisa de vestir
-PaƒZoleta
+Pañoleta
 Noble Blouse
 Top rosa
 Jersey de cuello alto
@@ -1001,7 +1001,7 @@ Green Sweats
 Blusa con lazo
 Traje bonito
 Camiseta de calavera
-Camiseta gƒRtica
+Camiseta gótica
 Camiseta larga
 Plain Shirt
 Long Bolero
@@ -1023,7 +1023,7 @@ Armor 0x3FD
 Armor 0x3FE
 Armor 0x3FF
 Accessories Start
-MonƒRculo
+Monóculo
 Anti-Fire Charm
 Anti-Ice Charm
 Anti-Elec Charm
@@ -1171,7 +1171,7 @@ Rosario de guardia
 Correa de Pegaso
 Ebisu de madera
 Courage Fob
-PopurrƒP de almas
+Popurrí de almas
 Ambition Fob
 Boon Potpourri
 Delta Drive
@@ -1185,12 +1185,12 @@ Crecimiento 3
 Speed Gloves
 Lucre Gloves
 Orbe omnipotente
-Gafas a la ƒTltima
+Gafas a la última
 Tirantes
 Horquilla
 Silver Keyring
 Corbata negra
-RiƒZonera
+Riñonera
 Music Player
 Medias de lunares
 Medias negras
@@ -1198,7 +1198,7 @@ Reloj de pulsera
 Aluminum Pin
 Cinta para el pelo
 Orejas de oso
-MedallƒRn de plata
+Medallón de plata
 Pendientes espiral
 Anillo sencillo
 Music Player
@@ -1242,7 +1242,7 @@ Ala Resistente
 Ala Flameante
 Piedra Congelada
 Anillo de Tormenta
-Guantes ElƒNctricos
+Guantes Eléctricos
 Aureola Radiante
 Anillo de Oscuridad
 Pluma Afilada
@@ -1284,14 +1284,14 @@ Not Used
 Not Used
 Bead
 Gota espiritual
-RapƒN espiritual
+Rapé espiritual
 Chicle espiritual
 Not Used
 Gota de Soma
-LƒLgrima de Soma
+Lágrima de Soma
 Not Used
 Abalorio de resurrec.
-BƒLlsamo vital
+Bálsamo vital
 Not Used
 Not Used
 Bind-Aid
@@ -1305,7 +1305,7 @@ Refresco de Amrita
 Reserved
 Niebla de Fuego
 Niebla de Hielo
-Niebla ElƒNctrica
+Niebla Eléctrica
 Niebla de Viento
 Niebla Nuclear
 Niebla Psi.
@@ -1321,14 +1321,14 @@ Yashichi
 Tornado Bullet
 Arroz Segaki
 Papel maldito
-Bomba psƒPquica
+Bomba psíquica
 Fission Bullet
-Cerilla atƒRmica
+Cerilla atómica
 Mental Bullet
 Reserved
 Reserved
-AnƒLlisis Simple
-HomƒTnculo
+Análisis Simple
+Homúnculo
 Repulse Pipe
 Attract Pipe
 Talue-Go
@@ -1337,8 +1337,8 @@ Not Used
 Faro de Luz
 Soma
 Cadena de abalorios
-MƒLs Talue-Go
-MƒLs En-Trada
+Más Talue-Go
+Más En-Trada
 Attract Horn
 Repulse Horn
 Treasure Renew
@@ -1359,7 +1359,7 @@ Meaty Popcorn
 Prism Popcorn
 Reserved
 Blank Card
-ComodƒPn
+Comodín
 Hagakure Bowl
 Mega Beef Bowl
 Curry del Leblanc
@@ -1604,7 +1604,7 @@ Proyector viejo
 ???
 0x644
 Carta en blanco
-ComodƒPn
+Comodín
 Duchess Crown
 Sinner's Canope
 Plentiful Wheat

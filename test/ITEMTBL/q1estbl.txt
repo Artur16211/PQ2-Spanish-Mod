@@ -14,7 +14,7 @@ Caladbog
 Espada Larga
 Aplastaalmas
 Espada de Kishido
-ZweihƒQnder
+Zweihänder
 Espada Gótica
 Zanbatou
 Filo
@@ -1280,7 +1280,7 @@ Perforación x10
 RESERVE
 Expendables Start
 Medicina
-UngƒLento
+Ungüento
 Gel Antibiótico
 Abalorio
 Gota Espiritual
@@ -1806,9 +1806,9 @@ Cubierta de Mesa
 Pieza de Escala
 Platillo de Escala
 Resto de Escala
-Pieza de ƒEguila
-Alas de ƒEguila
-Patas de ƒEguila
+Pieza de Águila
+Alas de Águila
+Patas de Águila
 Pieza Adhesiva
 Mano Adhesiva
 Resto Adhesivo
@@ -1865,9 +1865,9 @@ Piel de Reptil
 Pedazo de Víbora
 Anillo de Víbora
 Escama de Víbora
-Pieza de ƒEngel
-Flecha de ƒEngel
-Resto de ƒEngel
+Pieza de Ángel
+Flecha de Ángel
+Resto de Ángel
 Pieza de Eros
 Flecha de Eros
 Alas de Eros
@@ -3280,7 +3280,7 @@ Enlace Infinito
 Aura Mágica
 Versátil
 Resorte Heroico
-Círculo ƒEureo
+Círculo Áureo
 Mejora Curativa
 X
 Sobrecalentamiento
