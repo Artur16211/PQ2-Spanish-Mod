@@ -2,11 +2,11 @@
 La taquilla del cine...
 
 [msg MSG_001 [Futaba]]
-Parece que es funcional... メMe pregunto[n]qu〒 tipo de entradas imprimirホ?
+Parece que funciona... メMe pregunto qu〒 tipo de entradas imprimirホ?
 
 [msg MSG_002 [Yusuke]]
-Podrボamos saberlo si insertamos algo de[n]dinero en ella... No es que lleve algo[n]conmigo.
+Podrボamos saberlo si insertamos algo de dinero... No es que lleve algo conmigo.
 
 [msg MSG_003 [Morgana]]
-Parece que no hay pistas aquボ. Sigamos[n]buscando.
+No parece haber pistas aquボ. Sigamos buscando.
 

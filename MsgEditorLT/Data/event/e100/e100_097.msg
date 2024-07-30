@@ -10,24 +10,24 @@ Esto acaba de pasar... ムメVerdad?!
 Es absolutamente increボble...
 
 [msg MSG_003 [Ann]]
-Espera un segundo. Si Makoto y Haru[n]estaban con nosotros dentro de la[n]pelボcula...
-メEso significa que las dejamos atrホs en[n]la ciudad al otro lado de la pantalla?
+Espera un segundo. Si Makoto y Haru estaban con nosotros dentro de la pelボcula...
+メEso significa que las dejamos atrホs en la ciudad al otro lado de la pantalla?
 
 [msg MSG_004 [Nagi]]
 Me temo que ese parece ser el caso...
 
 [msg MSG_005 [Yusuke]]
-Bホsicamente, si quisi〒ramos rescatarlas,[n]nuestra マnica opciポn es volver dentro de[n]la pelボcula.
+Bホsicamente, si quisi〒ramos rescatarlas, nuestra マnica opciポn es volver a la pelボcula.
 
 [msg MSG_006 [Ryuji]]
-ムTenemos que ir a salvarlas!, メno[n][f 6 1 30 0 0 0]?
+ムTenemos que ir a salvarlas!, メno [f 6 1 30 0 0 0]?
 
 [sel SEL_007 top]
 Claro que sボ.
-Vamos, rホpido.
+Debemos ir, rホpido.
 
 [msg MSG_008 [Morgana]]
-Muy bien, entonces vamos a... Espera,[n]メse supone que debemos... saltar?
+Muy bien, entonces vamos a... Espera, メse supone que debemos... saltar?
 
 [msg MSG_009 [Hikari]]
 Oh... Nagi...
@@ -36,17 +36,17 @@ Oh... Nagi...
 メQu〒 pasa?
 
 [msg MSG_011]
-Ella estホ susurrホndole a Nagi otra[n]vez...
+Ella le susurrホndole a Nagi otra vez...
 
 [msg MSG_012 [Nagi]]
-Hikari estホ muy preocupada por su[n]seguridad.
-Ya que es peligroso dentro de la[n]pelボcula, ella cree que puede ser mホs[n]seguro que se queden aquボ.
+Hikari estホ muy preocupada por su seguridad.
+Es peligroso dentro de la pelボcula, ella cree que es mホs seguro que se queden aquボ.
 
 [msg MSG_013 [Ryuji]]
-Gracias por la advertencia, pero ese[n]peligro solo nos hace preocuparnos mホs[n]por ellas.
+Gracias por la advertencia, pero ese peligro solo nos hace preocuparnos mホs por ellas.
 
 [msg MSG_014 [Ann]]
-ムSボ! ムTenemos que entrar allボ lo antes[n]posible por nuestras amigas!
+ムSボ! ムTenemos que entrar allボ lo antes posible, por nuestras amigas!
 
 [msg MSG_015 [Hikari]]
 メEh?
@@ -60,13 +60,13 @@ Pero, los amigos son...
 ...メHikari?
 
 [msg MSG_018 [Ryuji]]
-ムEstホ bien! ムTodo el mundo, prepホrense![n]3, 2, 1...
+ムEstホ bien! ムTodo el mundo, prepホrense! 3, 2, 1...
 
 [msg MSG_019 [Hikari]]
 ムE-espera!
 
 [msg MSG_020 [Ryuji]]
-ムWhoa! ムメQu〒 pasa ahora?!
+ムEh! ムメQu〒 pasa ahora?!
 
 [msg MSG_021 [Hikari]]
 ...
@@ -78,7 +78,7 @@ Uhh...
 Em... por favor, un segundo...
 
 [msg MSG_024]
-Hikari estホ preguntホndole a Nagi sobre[n]algo...
+Hikari estホ preguntホndole a Nagi sobre algo...
 
 [msg MSG_025 [Hikari]]
 ...メEstホ bien?
@@ -88,17 +88,17 @@ Sボ, entiendo...
 
 [msg MSG_027 [Nagi]]
 Hikari sigue preocupada por ustedes...
-Asボ que me pidiポ que les prestara mi[n]ayuda.
+Asボ que me pidiポ que les prestara mi ayuda.
 
 [msg MSG_028 [Yusuke]]
 メTienes algo en mente?
 
 [msg MSG_029 [Nagi]]
-Efectivamente, hay algo que puedo[n]ofrecerles. メSボganme, por favor?
+Efectivamente, hay algo que puedo ofrecerles. メSボganme, por favor?
 
 [msg MSG_030]
-Nagi se dirige hacia el puesto de[n]comida...
+Nagi se dirige hacia el puesto de comida...
 
 [msg MSG_031 [Morgana]]
-Si nos va a ayudar, veamos de que se[n]trata antes de volver a la pelボcula.
+Si nos va a ayudar, veamos de que se trata antes de volver a la pelボcula.
 

@@ -2,7 +2,7 @@
 メEh? ムメNiワas?! メEstホn perdidas?
 
 [msg MSG_001 [Akechi]]
-No estoy tan seguro, parecen mホs que[n]simplemente niワas perdidas.
+No estoy tan seguro, parecen mホs que solo niワas perdidas.
 
 [msg MSG_002 [Caroline]]
 メQu〒...?
@@ -17,7 +17,7 @@ No estoy tan seguro, parecen mホs que[n]simplemente niワas perdidas.
 Tマ tambi〒n estホs aquボ, Recluso.
 
 [msg MSG_006 [Caroline]]
-Oye, recluso, ムメdポnde estamos?! ムメQu〒[n]haces aquボ?!
+Oye, recluso, ムメdポnde estamos?! ムメQu〒 haces aquボ?!
 
 [sel SEL_007 top]
 Ni idea.
@@ -25,21 +25,21 @@ Esa es mi lボnea.
 Adivina.
 
 [msg MSG_008 [Caroline]]
-Esa expresiポn en tu cara... Parece no[n]tienes ni idea.
+Esa expresiポn en tu cara... Parece no tienes ni idea.
 
 [msg MSG_009 [Caroline]]
 ムメCポmo te atreves?!
 
 [msg MSG_010 [Justine]]
 Espera, Caroline.
-Esa expresiポn en su cara... Parece no[n]tiene ni idea.
+Esa expresiポn en su cara... Parece no tiene ni idea.
 
 [msg MSG_011 [Caroline]]
 ムメQu〒 crees que estホs haciendo?!
 
 [msg MSG_012 [Justine]]
-Espera, Caroline. Dudo que el recluso[n]sea capaz de algo asボ.
-Probablemente, no tenga ni idea de lo[n]que estホ pasando.
+Espera, Caroline. Dudo que el recluso sea capaz de algo asボ.
+Probablemente, no tenga ni idea de lo que estホ pasando.
 
 [msg MSG_013 [Caroline]]
 Entonces... メQu〒 estホ pasando aquボ?
@@ -48,7 +48,7 @@ Entonces... メQu〒 estホ pasando aquボ?
 No lo s〒.
 
 [msg MSG_015 [Futaba]]
-Ooooh, ムSon tan pequeeeワas! メY son[n]GEMELAS?
+Ohhh, ムSon tan pequeeeワas! ムメY son GEMELAS?!
 
 [msg MSG_016 [Ryuji]]
 , メConoces a estas Rugrats?
@@ -60,26 +60,26 @@ Ooooh, ムSon tan pequeeeワas! メY son[n]GEMELAS?
 Esa basura...
 
 [msg MSG_019 [Morgana]]
-ムSボ! ムDeja de ser tan grosero y[n]muestrales respeto!
+ムSボ! ムDeja de ser tan grosero y muestrales respeto!
 
 [sel SEL_020 top]
 メLas conoces tambi〒n?
 Hablando de traiciポn...
 
 [msg MSG_021 [Morgana]]
-No, no es eso, pero... メM-me siento[n]bien?
+No, no es eso, pero... メM-me siento bien?
 
 [msg MSG_022 [Justine]]
-En cualquier caso, cu〒ntanos tu[n]situaciポn aquボ, recluso.
+En cualquier caso, cu〒ntanos tu situaciポn aquボ, recluso.
 
 [msg MSG_023 [Caroline]]
-Vamos a escuchar lo que tienes que decir[n]en esa habitaciポn… ムEh, tマ! ムGato!
+Vamos a escuchar lo que tienes que decir en esa habitaciポn… ムEh, tマ! ムGato!
 
 [msg MSG_024 [Morgana]]
 ムメS-sボ?!
 
 [msg MSG_025 [Caroline]]
-Escolta al prisionero a la habitaciポn,[n]ムy hazlo rホpido!
+Escolta al prisionero a la habitaciポn, ムy hazlo rホpido!
 
 [msg MSG_026 [Morgana]]
 メP-por qu〒 yo?
@@ -88,17 +88,17 @@ Escolta al prisionero a la habitaciポn,[n]ムy hazlo rホpido!
 ...
 
 [msg MSG_028 [Morgana]]
-L-lo har〒... ムClaro! ムCon mucho gusto!
+L-lo har〒... ムClaro! ムCon gusto!
 
 [msg MSG_029 [Caroline]]
-Hmph, no te olvides del resto de esa[n]gente tambi〒n.
+No te olvides del resto de esa gente tambi〒n.
 
 [msg MSG_030 [Akechi]]
-Supongo que somos "el resto de esa[n]gente"...
+Supongo que somos "el resto de esa gente"...
 
 [msg MSG_031 [Ryuji]]
 En serio, メqui〒nes son?
-Y Morgana, メpor qu〒 obedeces sus[n]ポrdenes?
+Y Morgana, メpor qu〒 obedeces sus ポrdenes?
 
 [sel SEL_032 top]
 Apuesto a que se ha enamorado.
@@ -108,36 +108,36 @@ Es como su gato mascota.
 メDe verdad? メDe qui〒n?
 
 [msg MSG_034 [Morgana]]
-ムNo seas ridボculo! ムMi amor es solo para[n]la Seワorita Ann!
+ムNo seas ridボculo! ムMi amor es solo para la Seワorita Ann!
 
 [msg MSG_035 [Morgana]]
 ムTe dije que no soy un gato!
-*jadeo* メYa estホs contento? Estoy[n]empezando a cansarme de ese par…
+*jadeo* メYa estホs contento? Estoy empezando a cansarme de ese par…
 
 [msg MSG_036 [Ryuji]]
 ムPero eso es, como, tu marca ahora!
 
 [msg MSG_037 [Morgana]]
-...Esas dos tienen algo "especial"[n]dentro de ellas.
-Cuando me miran con esos ojos, siento[n]que tengo que escucharlas.
+...Esas dos tienen algo "especial" dentro de ellas.
+Cuando me miran con esos ojos, siento que tengo que escucharlas.
 
 [sel SEL_038 top]
 メComo una especie de hipnosis?
 メTe estホs perdiendo?
 
 [msg MSG_039 [Morgana]]
-No, nada de eso. Es mホs como si hubiera[n]algo en mボ...
-Algo que grita "ムTengo que hacer lo que[n]dicen!"…
+No, nada de eso. Es mホs como si hubiera algo en mボ...
+Algo que grita "ムTengo que hacer lo que dicen!"…
 
 [msg MSG_040 [Ryuji]]
 No me gusta nada de esto...
 
 [msg MSG_041 [Morgana]]
-Bueno, ムlo hice sin pensar! Y, no tengo[n]ni idea de por qu〒...
+Bueno, ムlo hice sin pensar! Y, no tengo ni idea de por qu〒...
 
 [msg MSG_042 [Yusuke]]
-Si son conocidas de [f 6 1 30 0 0 0], creo que[n]podemos confiar en ellas.
+Si son conocidas de [f 6 1 30 0 0 0], creo que podemos confiar en ellas.
 
 [msg MSG_043 [Morgana]]
-Estar〒 bien. Vamos, no podemos hacerlas[n]esperar.
+Estar〒 bien. Vamos, no podemos hacerlas esperar.
 

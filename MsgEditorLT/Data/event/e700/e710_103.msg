@@ -1,10 +1,10 @@
 [msg MSG_000 [Yusuke]]
-Uf... Nos las arreglamos para[n]derrotarlos.
+Uf... Nos las arreglamos para derrotarlos.
 
 [msg MSG_001 [Ann]]
-ムUgh! ムMi cuerpo se siente tan pesado[n]ahora mismo!
+ムArgh! ムMi cuerpo se siente tan pesado!
 
 [msg MSG_002 [Akechi]]
-No hay nada que podamos, solo queda[n]acostumbrarnos a ello... Es frustrante.
-Joker, considerando nuestra situaciポn,[n]debemos evitar hacer algo arriesgado.[n]Procedamos con precauciポn.
+No hay nada que podamos hacer, solo queda acostumbrarnos... Es frustrante.
+Joker, considerando nuestra situaciポn, debemos evitar hacer algo arriesgado. Procedamos con precauciポn.
 

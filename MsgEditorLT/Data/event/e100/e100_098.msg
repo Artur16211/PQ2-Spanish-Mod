@@ -5,19 +5,19 @@
 ムメEh, qu〒 demonios es esto?!
 
 [msg MSG_002 [Ann]]
-Un pポster de Kamoshidaman... No estaba[n]aquボ antes, ムメverdad?!
+Un pポster de Kamoshidaman... No estaba aquボ antes, ムメverdad?!
 
 [msg MSG_003 [Ryuji]]
-メLo coloco mientras estホbamos viendo el[n]trホiler de Kamoshidaman?
+メLo colocポ mientras veボamos el trホiler de Kamoshidaman?
 
 [msg MSG_004 [Morgana]]
 メRecuerdas lo que dijo Nagi?
-Dijo que la pelボcula cambio cuando[n]llegamos.
+Dijo que la pelボcula cambiポ cuando llegamos.
 Entonces, quizホs...
 
 [msg MSG_005 [Akechi]]
-Podrボa haber una correlaciポn, pero no creo que[n]encontremos la respuesta ahora mismo, sin[n]importar cuanto lo discutamos.
+Podrボa haber una correlaciポn, pero no creo que encontremos la respuesta ahora mismo, sin importar cuanto lo discutamos.
 
 [msg MSG_006 [Ann]]
-Es verdad. Nagi nos espera en el puesto[n]de comida, vamos.
+Es verdad. Nagi nos espera en el puesto de comida, vamos.
 
