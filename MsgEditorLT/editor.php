@@ -7,6 +7,30 @@ $parentDir = dirname($filePath);
 $originalFilePath = 'EN/' . ltrim($filePath, '/');
 $editableFilePath = 'DATA/' . ltrim($filePath, '/');
 
+# Next file button
+// Obtener la lista de archivos en DATA/
+$dataDir = 'DATA/' . dirname($filePath);
+$files = scandir($dataDir);
+$files = array_diff($files, array('.', '..')); // Eliminar . y .. de la lista
+
+// Convertir a array numérico y resetear claves
+$files = array_values($files);
+
+// Obtener el índice del archivo actual
+$currentFileIndex = array_search(basename($filePath), $files);
+
+// Determinar el índice del siguiente archivo
+$nextFileIndex = ($currentFileIndex !== false && $currentFileIndex < count($files) - 1) ? $currentFileIndex + 1 : 0;
+
+// Determinar el índice del archivo anterior
+$prevFileIndex = ($currentFileIndex !== false && $currentFileIndex > 0) ? $currentFileIndex - 1 : count($files) - 1;
+
+// Obtener la ruta del siguiente y anterior archivo
+$nextFile = $files[$nextFileIndex];
+$prevFile = $files[$prevFileIndex];
+$nextFilePath = dirname($filePath) . '/' . $nextFile;
+$prevFilePath = dirname($filePath) . '/' . $prevFile;
+
 $show_font = array(
     "ホ" => "á",
     "〒" => "é",
@@ -133,6 +157,10 @@ $show_font_inverse = array_flip($show_font);
         <h2 class="my-4"><?php echo basename($editableFilePath); ?></h2>
         <div class="mb-3">
             <a class="btn btn-primary mt-2" href="index.php?dir=<?php echo $parentDir; ?>"><-</a>
+            <a class="btn btn-secondary mt-2" href="editor.php?file=<?php echo $prevFilePath; ?>">Anterior <-</a>
+            <a class="btn btn-secondary mt-2" href="editor.php?file=<?php echo $nextFilePath; ?>">Siguiente -></a>
+        </div>
+        <div class="mb-3">
             <button type="button" class="btn btn-warning" onclick="saveChanges()">Guardar Pendiente</button>
             <button type="button" class="btn btn-info" onclick="SaveAndmarkAsCompleted()">Guardar Completado</button>
             <button type="button" class="btn btn-success" onclick="SaveAndmarkAsRevisedV2()">Guardar Revisado</button>
@@ -209,10 +237,14 @@ $show_font_inverse = array_flip($show_font);
             </div>
         </div>
         <div class="mb-3">
-            <a class="btn btn-primary mt-2" href="index.php?dir=<?php echo $parentDir; ?>"><-</a>
             <button type="button" class="btn btn-warning" onclick="saveChanges()">Guardar Pendiente</button>
             <button type="button" class="btn btn-info" onclick="SaveAndmarkAsCompleted()">Guardar Completado</button>
             <button type="button" class="btn btn-success" onclick="SaveAndmarkAsRevisedV2()">Guardar Revisado</button>
+        </div>
+        <div class="mb-3">
+            <a class="btn btn-primary mt-2" href="index.php?dir=<?php echo $parentDir; ?>"><-</a>
+            <a class="btn btn-secondary mt-2" href="editor.php?file=<?php echo $prevFilePath; ?>">Anterior <-</a>
+            <a class="btn btn-secondary mt-2" href="editor.php?file=<?php echo $nextFilePath; ?>">Siguiente -></a>
         </div>
     </div>
 
