@@ -212,7 +212,7 @@
 | manhole       | alcantarilla |
 | Amonites      | Amonites    |
 | Golden Crowns | Coronas Doradas |
-| Cinnamon Fern | Helecho Canela  |
+| Cinnamon Fern | Helecho de Canela  |
 | Ravenous Beast | Bestia Carn胤vora |
 | Futuristic Gizmo | Gizmo Futurista |
 | Phantom Mage | Mago Fantasmal |
