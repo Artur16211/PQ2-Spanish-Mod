@@ -12,7 +12,7 @@ def count_characters(line):
 def filter_lines(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
-            if count_characters(line) > 17:
+            if count_characters(line) > 19:
                 print(line, end='')
 
-filter_lines('skillnametable.ebl')
+filter_lines('skillnametable - copia.ebl')
