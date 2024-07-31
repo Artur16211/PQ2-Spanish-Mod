@@ -216,11 +216,11 @@
 | Ravenous Beast | Bestia Carn胤vora |
 | Futuristic Gizmo | Gizmo Futurista |
 | Phantom Mage | Mago Fantasmal |
-| Teddy Bear |  |
-| Kaleidoscope |  |
+| Teddy Bear | Osito de peluche |
+| Kaleidoscope | Caleidoscopio |
 | Flowing Sand | Arena Afluente |
 | Rampage Drive | Vehículo Feroz |
-| Clay Figurine |  |
+| Clay Figurine | Figurita de arcilla |
 | Guardian Machines | Máquinas Guardianas |
 | Cognitive Devices | Dispositivos Cognitivos |
 | Warp Points / Warps | Teletransportadores |

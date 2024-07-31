@@ -1,27 +1,27 @@
 NULL
 Filo rebelde
-Light Knife
-Sleet Dagger
-Crimson Knife
+Cuchillo Ligero
+Daga de Aguanieve
+Cuchillo Carmesí
 Kukri
 Detonador
 Daga de plata
-Obsidian Knife
+Cuchillo Obsidiana
 Filo desollador
-Quality Kopis
+Kopis de Calidad
 Escalpelo letal
 Superconductor
-Dirk
+Puñal
 Cazador
 Daga bloqueadora
-Azoth Dagger
-Arsene's Cane
+Daga de Azoth
+Bastón de Arsène
 Nihil
 Misericordia
 Paraíso perdido
 Weapon 0x015
-Jailbreaker
-Survivor's Knife
+Rompe Cárceles
+Cuchillo de Superv.
 Weapon 0x018
 Weapon 0x019
 Weapon 0x01A
@@ -31,29 +31,29 @@ Weapon 0x01D
 Weapon 0x01E
 Weapon 0x01F
 Weapon 0x020
-Metal Pipe
+Tubo de Metal
 Bate de pinchos
-Lightweight Rod
+Varilla Ligera
 Bate infernal
-Heavy Steel Pipe
+Tubo de Acero
 Weapon 0x026
 Maza pesada
-Femur Club
+Clava de Fémur
 Tubería demoníaca
 Bastón de sueño
 Barra de pinchos
 Tubería de hierro
-Wolf Fang Pole
-Dagda's Club
-Gaea Rod
-Hercules' Club
-Vara del dios dragón
-Demon Staff
+Palo con Colmillo
+Clava de Dagda
+Varilla de Gaea
+Clava de Hércules
+Vara de dragón
+Bastón del Demonio
 Megatón
 Ruyi Jingu Bang
 Weapon 0x035
-Giant Penlight
-Sequoia Mace
+Linterna Gigante
+Maza de Secuoya
 Weapon 0x038
 Weapon 0x039
 Weapon 0x03A
@@ -64,28 +64,28 @@ Weapon 0x03E
 Weapon 0x03F
 Weapon 0x040
 Látigo de cuero
-(prov) 1.5 Whip
-Training Whip
+(prov) 1.5 Látigo
+Látigo de Entren.
 Fundo-Kusari
-Fierce Whip
+Látigo Feroz
 Weapon 0x046
-Manacle Whip
-Fern Whip
+Látigo de Esposas
+Látigo de Helecho
 Desgarrapiel
 Látigo electromag.
 Látigo de cadena
 Látigo inflamable
 Látigo de héroe
-Agony Whip
-White Rose Whip
-Fengshen Whip
-Nine Tails
-Blue Rose Whip
+Látigo de Agonía
+Látigo Rosa Blanca
+Látigo Fengshen
+Nueve Colas
+Látigo Rosa Azul
 Látigo de reina
-Golden Whip
+Látigo Dorado
 Weapon 0x055
-Rosebell Whip
-Explorer's Whip
+Látigo Campanilla
+Látigo Explorador
 Weapon 0x058
 Weapon 0x059
 Weapon 0x05A
@@ -96,15 +96,15 @@ Weapon 0x05E
 Weapon 0x05F
 Weapon 0x060
 Katana de imitación
-Unmarked Katana
+Katana Sin Marcas
 Zanbato
-Meteorite Katana
+Katana de Meteorito
 Kikuichimonji
 Weapon 0x066
 Gunto tipo 98
 Jagato
 Bizen Osafune
-Imperial Sword
+Espada Imperial
 Shikomi Kiseru
 Toragozen
 Nagamitsu
@@ -127,29 +127,29 @@ Weapon 0x07D
 Weapon 0x07E
 Weapon 0x07F
 Weapon 0x080
-Beam Saber
-Sable Lumina
-Toxoid Saber
-Violet Saber
-Eclat Saber
+Sable de Energía
+Sable Luminoso
+Sable Toxico
+Sable Violeta
+Sable Brillante
 Weapon 0x086
-Particle Saber
-Stellar Saber
-Alpha Saber
-Erg Saber
-Laplace Saber
-Ion Saber
-Beta Saber
-Anode Saber
-Cathode Saber
-Neutron Saber
-Gamma Saber
-Force Saber
-Omega Saber
-Tsar Saber
+Sable Partículas
+Sable Estelar
+Sable Alfa
+Sable Erg
+Sable de Laplace
+Sable de Ión
+Sable Beta
+Sable Ánodo
+Sable Cátodo
+Sable de Neutrones
+Sable Gamma
+Sable de Fuerza
+Sable Omega
+Sable Zar
 Weapon 0x095
-Riryoku Saber
-Arabian Saber
+Sable Riryoku
+Sable Arabe
 Weapon 0x098
 Weapon 0x099
 Weapon 0x09A
@@ -159,29 +159,29 @@ Weapon 0x09D
 Weapon 0x09E
 Weapon 0x09F
 Weapon 0x0A0
-(prov) Sling
+(prov) Honda
 Arco tirachinas
-Mount Liang
-Large Slingshot
-Paralytic Sling
+Monte Liang
+Tirachinas grande
+Honda paralizante
 Estrella fugaz
-Rubble Launcher
+Lanza escombros
 Siesta
 Luz del norte
-Strongarm
+Brazo fuerte
 Interceptor
 Cometa 3
-Overthrower
+Derrocador
 David
-Grand Fireworks
+Grandes F. Artific.
 Mataestrellas
 Tom Sawyer
-Chromatic Orb
+Orbe Cromático
 Utopía
 Weapon 0x0B4
-Catapult
-Sleep Sling
-Bomber Slingshot
+Catapulta
+Honda de Sueño
+Honda de Bombardeo
 Weapon 0x0B8
 Weapon 0x0B9
 Weapon 0x0BA
@@ -192,28 +192,28 @@ Weapon 0x0BE
 Weapon 0x0BF
 Weapon 0x0C0
 (prov) Naginata 1
-Fake Naginata
-Ardor Naginata
+Naginata Falsa
+Naginata de Ardor
 Tsukushi
-Emerald Stick
+Bastón de Esmeralda
 Dai Naginata
 Primal Naginata
-Youth Stick
+Bastón juvenil
 Muso Naginata
 Kobayashi
-Beam Naginata
-Victory Stick
-Future Naginata
-Nikko Naginata
-Origin Naginata
-Sonobe Naginata
+Naginata de Energía
+Bastón de Victoria
+Naginata del Futuro
+Naginata Nikko
+Naginata Originaria
+Naginata Sonobe
 Khakkhara
 Shizuka
 Kanemitsu
 Weapon 0x0D4
-Lacrosse Stick
-Hardwood Stick
-Long Stick
+Bastón de Lacrosse
+Bastón de Madera
+Palo Largo
 Weapon 0x0D8
 Weapon 0x0D9
 Weapon 0x0DA
@@ -223,27 +223,27 @@ Weapon 0x0DD
 Weapon 0x0DE
 Weapon 0x0DF
 Weapon 0x0E0
-(prov) Axe 1
-(prov) Axe 2
+(prov) Hacha 1
+(prov) Hacha 2
 Hacha
-Shield Axe
-Headbanger
+Hacha Escudo
+Cabeza Dura
 Bardiche
-Basalt Axe
+Hacha de Basalto
 Megahacha
-Warborn
-Bastion Axe
-Morph Axe
+Nacido en la Guerra
+Hacha del Bastión
+Hacha Morfológica
 Contrato de la muerte
-Erik's Bloodaxe
+Hacha de Erik
 Hacha de media luna
-Lethe Axe
+Hacha de Lethe
 Celtis
 Hacha de Gilgamesh
 Hacha amazona
 Fleurs du Mal
 Weapon 0x0F4
-Marble Axe
+Hacha de Mármol
 Weapon 0x0F6
 Weapon 0x0F7
 Weapon 0x0F8
@@ -259,22 +259,22 @@ Weapon 0x100
 (prov) Fist 2
 Nudilleras de latón
 Empuñadura pesada
-Coin Knuckles
-Delta Knuckles
-Hard Rocker
-Hell Knuckles
+Nudillos de Moneda
+Nudillos Delta
+Rocanrolero Duro
+Nudillos Infiernales
 Puños Sónicos
 Nudillos Titánicos
-Metal Duster
+Plumero metálico
 Guantes Puligistas
 Guantes Dorados
 Nudilleras Omega
 Colmillos de Dragón
-Ominous Fists
+Puños Amenazantes
 Sabacio
-Doble Zigurat
+Zigurat Doble
 Golpe de Pegaso
-Ultimate Fist
+Puño Definitivo
 Guantes de Campeón
 Weapon 0x116
 Puño de hierro
@@ -292,17 +292,17 @@ Weapon 0x120
 Katana de imitación
 Espada larga
 Palo de titanio
-Mythic Sword
+Espada Mítica
 Gran espada
 Espada Paralizante
-Horsechopper
+Cazacaballos
 Espada bastarda
 Tsubaki-maru
 Espada Tóxica
 Caladbog
 Tobi-botaru
-Galatine
-Labyrinth Sword
+Galatina
+Espada de Laberinto
 Mithril Club
 Usumidori
 Masakado Sword
@@ -1563,10 +1563,10 @@ Promised Script
 Ancient Bait
 Power of Bonds
 Keycard
-Sooty Film
-Sooty Film
-Sooty Film
-Sooty Film
+Pel胤cula de Holl胤n
+Pel胤cula de Holl胤n
+Pel胤cula de Holl胤n
+Pel胤cula de Holl胤n
 Ancient Bait
 Damp Kernels
 0x623
@@ -1645,11 +1645,11 @@ Film Treasure Map
 0x66C
 Dino's Stash
 Dino's Stash
-Cinnamon Fern
-Cinnamon Fern
-Cinnamon Fern
-Cognitive Device
-Cognitive Device
+Helecho de Canela
+Helecho de Canela
+Helecho de Canela
+Dispositivo Cognitivo
+Dispositivo Cognitivo
 Unknown Device
 Unknown Device
 Unknown Device
@@ -2120,9 +2120,9 @@ Material 0x846
 Material 0x847
 Material 0x848
 Material 0x849
-Teddy Bear
-Kaleidoscope
-Clay Figurine
+Osito de peluche
+Caleidoscopio
+Figurita de arcilla
 Unknown Device
 Not Used
 Not Used
@@ -2149,7 +2149,7 @@ Doze Petal
 Tasty Chocomint
 Saurian Herb
 Shattered Ore
-Futuristic Gizmo
+Gizmo Futurista
 Piano Note
 Trumpet Note
 Flute Note
@@ -2157,9 +2157,9 @@ Wood Harp Note
 Violin Note
 Timpani Note
 Metal Harp Note
-Cognitive Device
+Dispositivo Cognitivo
 Dino's Stash
-Cinnamon Fern
+Helecho de Canela
 Pieza de Mesón
 Pata de Mesón
 Resto de Mesón
