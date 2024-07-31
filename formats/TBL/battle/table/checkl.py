@@ -35,4 +35,4 @@ def process_file(input_file_path, temp_file_path):
 
     os.replace(temp_file_path, input_file_path)
 
-process_file('skillnametable.ebl', 'skillnametable_rep.ebl')
+process_file('skillnametable_modified.ebl', 'temp.ebl')

@@ -15,4 +15,4 @@ def filter_lines(file_path):
             if count_characters(line) > 19:
                 print(line, end='')
 
-filter_lines('skillnametable - copia.ebl')
+filter_lines('skillnametable.ebl')
