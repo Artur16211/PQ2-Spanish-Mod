@@ -1,0 +1,3584 @@
+NULL
+Filo rebelde
+Light Knife
+Sleet Dagger
+Crimson Knife
+Kukri
+Detonador
+Daga de plata
+Obsidian Knife
+Filo desollador
+Quality Kopis
+Escalpelo letal
+Superconductor
+Dirk
+Cazador
+Daga bloqueadora
+Azoth Dagger
+Arsene's Cane
+Nihil
+Misericordia
+Paraíso perdido
+Weapon 0x015
+Jailbreaker
+Survivor's Knife
+Weapon 0x018
+Weapon 0x019
+Weapon 0x01A
+Weapon 0x01B
+Weapon 0x01C
+Weapon 0x01D
+Weapon 0x01E
+Weapon 0x01F
+Weapon 0x020
+Metal Pipe
+Bate de pinchos
+Lightweight Rod
+Bate infernal
+Heavy Steel Pipe
+Weapon 0x026
+Maza pesada
+Femur Club
+Tubería demoníaca
+Bastón de sueño
+Barra de pinchos
+Tubería de hierro
+Wolf Fang Pole
+Dagda's Club
+Gaea Rod
+Hercules' Club
+Vara del dios dragón
+Demon Staff
+Megatón
+Ruyi Jingu Bang
+Weapon 0x035
+Giant Penlight
+Sequoia Mace
+Weapon 0x038
+Weapon 0x039
+Weapon 0x03A
+Weapon 0x03B
+Weapon 0x03C
+Weapon 0x03D
+Weapon 0x03E
+Weapon 0x03F
+Weapon 0x040
+Látigo de cuero
+(prov) 1.5 Whip
+Training Whip
+Fundo-Kusari
+Fierce Whip
+Weapon 0x046
+Manacle Whip
+Fern Whip
+Desgarrapiel
+Látigo electromag.
+Látigo de cadena
+Látigo inflamable
+Látigo de héroe
+Agony Whip
+White Rose Whip
+Fengshen Whip
+Nine Tails
+Blue Rose Whip
+Látigo de reina
+Golden Whip
+Weapon 0x055
+Rosebell Whip
+Explorer's Whip
+Weapon 0x058
+Weapon 0x059
+Weapon 0x05A
+Weapon 0x05B
+Weapon 0x05C
+Weapon 0x05D
+Weapon 0x05E
+Weapon 0x05F
+Weapon 0x060
+Katana de imitación
+Unmarked Katana
+Zanbato
+Meteorite Katana
+Kikuichimonji
+Weapon 0x066
+Gunto tipo 98
+Jagato
+Bizen Osafune
+Imperial Sword
+Shikomi Kiseru
+Toragozen
+Nagamitsu
+Monohoshizao
+Kijintou
+Katana de iai
+Fudo Masamune
+Samonji
+Filo de demonio rojo
+777 Katana
+Weapon 0x075
+Sakabatou
+Ribcage Katana
+Weapon 0x078
+Weapon 0x079
+Weapon 0x07A
+Weapon 0x07B
+Weapon 0x07C
+Weapon 0x07D
+Weapon 0x07E
+Weapon 0x07F
+Weapon 0x080
+Beam Saber
+Sable Lumina
+Toxoid Saber
+Violet Saber
+Eclat Saber
+Weapon 0x086
+Particle Saber
+Stellar Saber
+Alpha Saber
+Erg Saber
+Laplace Saber
+Ion Saber
+Beta Saber
+Anode Saber
+Cathode Saber
+Neutron Saber
+Gamma Saber
+Force Saber
+Omega Saber
+Tsar Saber
+Weapon 0x095
+Riryoku Saber
+Arabian Saber
+Weapon 0x098
+Weapon 0x099
+Weapon 0x09A
+Weapon 0x09B
+Weapon 0x09C
+Weapon 0x09D
+Weapon 0x09E
+Weapon 0x09F
+Weapon 0x0A0
+(prov) Sling
+Arco tirachinas
+Mount Liang
+Large Slingshot
+Paralytic Sling
+Estrella fugaz
+Rubble Launcher
+Siesta
+Luz del norte
+Strongarm
+Interceptor
+Cometa 3
+Overthrower
+David
+Grand Fireworks
+Mataestrellas
+Tom Sawyer
+Chromatic Orb
+Utopía
+Weapon 0x0B4
+Catapult
+Sleep Sling
+Bomber Slingshot
+Weapon 0x0B8
+Weapon 0x0B9
+Weapon 0x0BA
+Weapon 0x0BB
+Weapon 0x0BC
+Weapon 0x0BD
+Weapon 0x0BE
+Weapon 0x0BF
+Weapon 0x0C0
+(prov) Naginata 1
+Fake Naginata
+Ardor Naginata
+Tsukushi
+Emerald Stick
+Dai Naginata
+Primal Naginata
+Youth Stick
+Muso Naginata
+Kobayashi
+Beam Naginata
+Victory Stick
+Future Naginata
+Nikko Naginata
+Origin Naginata
+Sonobe Naginata
+Khakkhara
+Shizuka
+Kanemitsu
+Weapon 0x0D4
+Lacrosse Stick
+Hardwood Stick
+Long Stick
+Weapon 0x0D8
+Weapon 0x0D9
+Weapon 0x0DA
+Weapon 0x0DB
+Weapon 0x0DC
+Weapon 0x0DD
+Weapon 0x0DE
+Weapon 0x0DF
+Weapon 0x0E0
+(prov) Axe 1
+(prov) Axe 2
+Hacha
+Shield Axe
+Headbanger
+Bardiche
+Basalt Axe
+Megahacha
+Warborn
+Bastion Axe
+Morph Axe
+Contrato de la muerte
+Erik's Bloodaxe
+Hacha de media luna
+Lethe Axe
+Celtis
+Hacha de Gilgamesh
+Hacha amazona
+Fleurs du Mal
+Weapon 0x0F4
+Marble Axe
+Weapon 0x0F6
+Weapon 0x0F7
+Weapon 0x0F8
+Weapon 0x0F9
+Weapon 0x0FA
+Weapon 0x0FB
+Weapon 0x0FC
+Weapon 0x0FD
+Weapon 0x0FE
+Weapon 0x0FF
+Weapon 0x100
+(prov) Fist 1
+(prov) Fist 2
+Nudilleras de latón
+Empuñadura pesada
+Coin Knuckles
+Delta Knuckles
+Hard Rocker
+Hell Knuckles
+Puños Sónicos
+Nudillos Titánicos
+Metal Duster
+Guantes Puligistas
+Guantes Dorados
+Nudilleras Omega
+Colmillos de Dragón
+Ominous Fists
+Sabacio
+Doble Zigurat
+Golpe de Pegaso
+Ultimate Fist
+Guantes de Campeón
+Weapon 0x116
+Puño de hierro
+Weapon 0x118
+Weapon 0x119
+Weapon 0x11A
+Weapon 0x11B
+Weapon 0x11C
+Weapon 0x11D
+Weapon 0x11E
+Weapon 0x11F
+Weapon 0x120
+(prov) Two-hand 1
+(prov) Two-hand 2
+Katana de imitación
+Espada larga
+Palo de titanio
+Mythic Sword
+Gran espada
+Espada Paralizante
+Horsechopper
+Espada bastarda
+Tsubaki-maru
+Espada Tóxica
+Caladbog
+Tobi-botaru
+Galatine
+Labyrinth Sword
+Mithril Club
+Usumidori
+Masakado Sword
+Espada de Kishido
+Weapon 0x135
+Bone Sword
+Weapon 0x137
+Weapon 0x138
+Weapon 0x139
+Weapon 0x13A
+Weapon 0x13B
+Weapon 0x13C
+Weapon 0x13D
+Weapon 0x13E
+Weapon 0x13F
+Weapon 0x140
+(prov) Legs 1
+(prov) Legs 2
+Calzado de cuero
+Safety Shoes
+Zapatillas altas
+Dinosaur Legs
+Gusoku nanman
+Botas de Cobra
+Calzado para montar
+Bishamonten
+Confusion Boots
+Calzado de acero
+Calzado bonito
+Botas de Vidar
+Slepinir
+Sandalias de Moisés
+Stellar Greaves
+Grebas de Reigan
+Weapon 0x153
+Verdure Greaves
+Furinkazan
+Weapon 0x156
+Weapon 0x157
+Weapon 0x158
+Weapon 0x159
+Weapon 0x15A
+Weapon 0x15B
+Weapon 0x15C
+Weapon 0x15D
+Weapon 0x15E
+Weapon 0x15F
+Weapon 0x160
+(prov) Fan 1
+(prov) Fan 2
+Abanico de Noh
+Kyo Sensu
+Hanachirusato
+Downpour Fan
+Fortified Tessen
+Aban. de inversión
+Suzumushi
+De máscaras
+Suzaku Fan
+Juli-sen
+Mogari-Bue
+Dama veleidosa
+Treasure Fan
+Pieta
+Yume-no-Hashi
+Primordial Sea
+Weapon 0x173
+Great Bird Fan
+Weapon 0x175
+Weapon 0x176
+Weapon 0x177
+Weapon 0x178
+Weapon 0x179
+Weapon 0x17A
+Weapon 0x17B
+Weapon 0x17C
+Weapon 0x17D
+Weapon 0x17E
+Weapon 0x17F
+Weapon 0x180
+(prov) Claw 1
+(prov) Claw 2
+Spiky Claw
+Kittycat Claw
+Garra osezna
+Tyranno Claw
+Kazegiri
+Rompemoldes
+Garra de Trueno
+Megataladro
+Garra Sónica
+Garra venenosa
+Fuuma Bundou
+Garra Peligrosa
+Garra de platino
+El Destripador
+7-Star Claw
+Garra Vengativa
+Weapon 0x193
+Drunkard Claw
+Weapon 0x195
+Weapon 0x196
+Weapon 0x197
+Weapon 0x198
+Weapon 0x199
+Weapon 0x19A
+Weapon 0x19B
+Weapon 0x19C
+Weapon 0x19D
+Weapon 0x19E
+Weapon 0x19F
+Weapon 0x1A0
+(prov) Plate 1
+(prov) Plate 2
+Silla plegable
+Placa de hierro
+Placa de acero
+Placa de energía
+Tabla dura
+Placa de oro
+Escudo Circular
+Escudo Soñoliento
+Alloy Plate
+Escudo Jet
+Onigawara
+Galahad's Shield
+Asturias
+Escudo de Sabiduría
+Espejo de Cristo
+Tabla del Destino
+Weapon 0x1B3
+Origin Stone
+Weapon 0x1B5
+Weapon 0x1B6
+Weapon 0x1B7
+Weapon 0x1B8
+Weapon 0x1B9
+Weapon 0x1BA
+Weapon 0x1BB
+Weapon 0x1BC
+Weapon 0x1BD
+Weapon 0x1BE
+Weapon 0x1BF
+Weapon 0x1C0
+(prov) Gun 1
+(prov) Gun 2
+Nambu 2
+Smith Gun
+Pacificador
+Toro salvaje
+Endecha escarlata
+Algernon
+44 Anaconda
+Pistola Escudera
+Sci-fi Raygun
+Camello rojo
+Corazón cromado
+Pistola Mágica
+Ilimitado
+Juez del infierno
+Agujero negro
+Pistola Megido
+Weapon 0x1D3
+Baby Arquebus
+Weapon 0x1D5
+Weapon 0x1D6
+Weapon 0x1D7
+Weapon 0x1D8
+Weapon 0x1D9
+Weapon 0x1DA
+Weapon 0x1DB
+Weapon 0x1DC
+Weapon 0x1DD
+Weapon 0x1DE
+Weapon 0x1DF
+Weapon 0x1E0
+(prov) Dagger 1
+(prov) Dagger 2
+(prov) Dagger 3
+Llave inglesa
+Kunai venenoso
+Machete
+Cuchillo Aéreo
+Karasu-maru
+En-Giri
+Garra de Cuervo
+Kunai temeroso
+Basho
+Cuchillo de cocina
+Desgarrador Sombrío
+Rappa
+Kashin Koji
+Nandaka
+Vajra
+Espada Sílfide
+Weapon 0x1F4
+Kunai
+Llave de habilidad
+Weapon 0x1F7
+Weapon 0x1F8
+Weapon 0x1F9
+Weapon 0x1FA
+Weapon 0x1FB
+Weapon 0x1FC
+Weapon 0x1FD
+Weapon 0x1FE
+Weapon 0x1FF
+Weapon 0x200
+(prov) One-hand 1
+(prov) One-hand 2
+(prov) One-hand 3
+(prov) One-hand 4
+(prov) One-hand 5
+Shortsword
+Tizona
+Nagawakizashi
+Shishioh
+Arondight
+Kogarasumaru
+Luna Edge
+Amakuni
+Excalibur
+Deus Xiphos
+Weapon 0x210
+Falcata
+Unmarked Sword
+Weapon 0x213
+Weapon 0x214
+Weapon 0x215
+Weapon 0x216
+Weapon 0x217
+Weapon 0x218
+Weapon 0x219
+Weapon 0x21A
+Weapon 0x21B
+Weapon 0x21C
+Weapon 0x21D
+Weapon 0x21E
+Weapon 0x21F
+Weapon 0x220
+(prov) Bow 1
+(prov) Bow 2
+(prov) Bow 3
+(prov) Bow 4
+Arco Corto
+Arco de Espiral
+Shigetou-yumi
+Arco del Silencio
+Higo-yumi
+Fuuma Longbow
+Artemis Bow
+Hydravenom Bow
+Pleiades
+Arco de Hades
+Tomoe's Bow
+Origin Bow
+Weapon 0x231
+Arco de Quint
+Weapon 0x233
+Weapon 0x234
+Weapon 0x235
+Weapon 0x236
+Weapon 0x237
+Weapon 0x238
+Weapon 0x239
+Weapon 0x23A
+Weapon 0x23B
+Weapon 0x23C
+Weapon 0x23D
+Weapon 0x23E
+Weapon 0x23F
+Weapon 0x240
+(prov) Rapier 1
+(prov) Rapier 2
+(prov) Rapier 3
+(prov) Rapier 4
+Espada ropera
+Rapier de Plata
+Florete
+Espada Ropera
+Shadow Dancer
+Cuchilla Eterna
+Estilete
+Estoque Sangriento
+Final Estoc
+Illuminati
+Rapier de Damasco
+Kokuseki Senjin
+Weapon 0x251
+Flamígera
+Weapon 0x253
+Weapon 0x254
+Weapon 0x255
+Weapon 0x256
+Weapon 0x257
+Weapon 0x258
+Weapon 0x259
+Weapon 0x25A
+Weapon 0x25B
+Weapon 0x25C
+Weapon 0x25D
+Weapon 0x25E
+Weapon 0x25F
+Weapon 0x260
+(prov) Spear 1
+(prov) Spear 2
+(prov) Spear 3
+(prov) Spear 4
+Yari
+Lanza Sexy
+Frámea
+Escorpión
+Ouka Jumonji
+Oomiyari
+Ote-gine
+Trident
+Romulus's Spear
+Tonbokiri
+Pinaka
+Gae Bolg
+Weapon 0x271
+Jabalina
+Weapon 0x273
+Weapon 0x274
+Weapon 0x275
+Weapon 0x276
+Weapon 0x277
+Weapon 0x278
+Weapon 0x279
+Weapon 0x27A
+Weapon 0x27B
+Weapon 0x27C
+Weapon 0x27D
+Weapon 0x27E
+Weapon 0x27F
+Weapon 0x280
+(prov) Blunt 1
+(prov) Blunt 2
+(prov) Blunt 3
+(prov) Blunt 4
+Mazazo
+Nirili
+Megaton Hammer
+Acosador Nocturno
+Rocket Hammer
+The Pulverizer
+Poste de autobús
+Ukonvasara
+Eliminador
+Mjolnir
+Warlord Hammer
+Caduceus
+Weapon 0x291
+Mazo de Ogro
+Weapon 0x293
+Weapon 0x294
+Weapon 0x295
+Weapon 0x296
+Weapon 0x297
+Weapon 0x298
+Weapon 0x299
+Weapon 0x29A
+Weapon 0x29B
+Weapon 0x29C
+Weapon 0x29D
+Weapon 0x29E
+Weapon 0x29F
+Weapon 0x2A0
+(prov) Cannon 1
+(prov) Cannon 2
+(prov) Cannon 3
+(prov) Cannon 4
+(prov) Cannon 5
+Albireo
+Rielgón de Carbón
+Medusa
+Sniper Máxima
+Axion IG
+Obús de Cal
+Beso de Atenea
+Pandemonio
+Antimatter Gun
+Metatronius
+Weapon 0x2B0
+Grenade 80
+Sexta Ráfaga
+Weapon 0x2B3
+Weapon 0x2B4
+Weapon 0x2B5
+Weapon 0x2B6
+Weapon 0x2B7
+Weapon 0x2B8
+Weapon 0x2B9
+Weapon 0x2BA
+Weapon 0x2BB
+Weapon 0x2BC
+Weapon 0x2BD
+Weapon 0x2BE
+Weapon 0x2BF
+Weapon 0x2C0
+Portátil
+Mic
+Brazal
+Weapon 0x2C4
+Weapon 0x2C5
+Weapon 0x2C6
+Weapon 0x2C7
+Weapon 0x2C8
+Weapon 0x2C9
+Weapon 0x2CA
+Weapon 0x2CB
+Weapon 0x2CC
+Weapon 0x2CD
+Weapon 0x2CE
+Weapon 0x2CF
+Weapon 0x2D0
+Weapon 0x2D1
+Weapon 0x2D2
+Weapon 0x2D3
+Weapon 0x2D4
+Weapon 0x2D5
+Weapon 0x2D6
+Weapon 0x2D7
+Weapon 0x2D8
+Weapon 0x2D9
+Weapon 0x2DA
+Weapon 0x2DB
+Weapon 0x2DC
+Weapon 0x2DD
+Weapon 0x2DE
+Weapon 0x2DF
+Weapon 0x2E0
+Weapon 0x2E1
+Weapon 0x2E2
+Weapon 0x2E3
+Weapon 0x2E4
+Weapon 0x2E5
+Weapon 0x2E6
+Weapon 0x2E7
+Weapon 0x2E8
+Weapon 0x2E9
+Weapon 0x2EA
+Weapon 0x2EB
+Old Mic
+Old Armband
+Old Mallet
+Old Knuckles
+Old Cross Spear
+Old Rapier
+Old Practice Bow
+Old Shortsword
+Old Chalk
+Old Albireo
+Old Spikefist
+Old Nambu 2
+Old Folding Chair
+Old Kyo Sensu
+Old Shoes
+Old Sylph Blade
+Old Wrench
+Old Faux Katana
+Old Golf Club
+Weapon 0x2FF
+Armor Start
+Novelty Hoodie
+Staff Sweater
+Armor 0x303
+Puffy Down Coat
+Fitted Chainmail
+Aramid Vest
+Protección de vida
+Camo Poncho
+Armor 0x309
+Enhanced Armor
+Armadura resistente
+(prov) Unisex 6
+Camiseta de esperanza
+Soul Vest
+Armadura ópera
+Egoist Coat
+Vogue Vest
+Camiseta etérea
+Armadura de Káiser
+Túnica papal
+Armor 0x315
+Resistance Armor
+Unity Shirt
+Growth Shirt
+Trendy Shirt
+(prov) D2 Spd Amr
+(prov) D2 Res Amr
+Armor 0x31C
+Armor 0x31D
+Armor 0x31E
+Armor 0x31F
+Armor 0x320
+Armor 0x321
+Armor 0x322
+Armor 0x323
+Armor 0x324
+Armor 0x325
+Armor 0x326
+Armor 0x327
+Armor 0x328
+Armor 0x329
+Armor 0x32A
+Armor 0x32B
+Armor 0x32C
+Armor 0x32D
+Armor 0x32E
+Armor 0x32F
+Armor 0x330
+Armor 0x331
+Armor 0x332
+Armor 0x333
+Shoulder Vest
+Chaqueta Alambrada
+Armor 0x336
+Hero Tights
+Jinbei Varonil
+Armor 0x339
+Cinturón de Tigre
+Armor 0x33B
+Happi de león
+Doumaru
+Chaleco de Gigas
+Armor 0x33F
+Jersey de la pasión
+Crusader Plate
+Calzones Heróicos
+Placa de desesperac.
+Jin-Baori entero
+Armadura Sagrada
+Armor 0x346
+Armor 0x347
+Traje morado
+Superstar Attire
+Armor 0x34A
+Armor 0x34B
+Armor 0x34C
+Armor 0x34D
+Armor 0x34E
+Armor 0x34F
+Master Thief
+Gold Sneak Suit
+Shajinbaori
+White Regalia
+Cuello de Héroe
+Atuendo de Fuuma
+Tokkoufuku Dorado
+Magnet Bearsuit
+Chaqueta Monarca
+Armadura Valiente
+Traje Sirio
+Hero Hoodie
+Haori Lunar
+Armor 0x35D
+Armor 0x35E
+Armor 0x35F
+Armor 0x360
+Armor 0x361
+Armor 0x362
+Armor 0x363
+Armor 0x364
+Armor 0x365
+Primary Cat Suit
+Armor 0x367
+Enchanted Cami
+Steel Bunny Suit
+Armor 0x36A
+Utility Apron
+Primal Bikini
+Armor 0x36D
+Witchy Dress
+Futuristic Tights
+Túnica magnífica
+(prov) Female 7
+Tutú de brisa
+Bra-Peligro
+Vestido de runas
+Mini invencible
+Túnica de Haten
+Eternity Dress
+Armor 0x378
+Armor 0x379
+7-Fold Yukata
+New Year Kimono
+Armor 0x37C
+Armor 0x37D
+Armor 0x37E
+Armor 0x37F
+Crimson Leotard
+Lord's Dress
+Beauty Thief
+Wasteland Robe
+Manto Solar
+Kimono de Rubíes
+Vestido Negro
+Manto de Sakura
+Pelaje de Emperatriz
+Armor 0x389
+Armor 0x38A
+Armor 0x38B
+Armor 0x38C
+Armor 0x38D
+Armor 0x38E
+Armor 0x38F
+Armor 0x390
+Armor 0x391
+Armor 0x392
+Armor 0x393
+Armor 0x394
+Armor 0x395
+Armor 0x396
+Jersey de gato
+Bufanda de brisa
+Steel Scarf
+Red Scarf
+Grassland Scarf
+E-Collar
+Beast's Scarf
+Flowing Scarf
+Artistic Scarf
+Magical Scarf
+Solar Wind Scarf
+Collar de Id.
+Collar homenaje
+Master's Scarf
+Killer Collar
+Collar sublime
+Gorgeous Collar
+Nekomata Coat+
+Armor 0x3A9
+Guard Scarf
+Trendy Scarf
+Fluffy Scarf
+Armor 0x3AD
+Armor 0x3AE
+Armor 0x3AF
+Archangel Scarf
+Armor 0x3B1
+Armor 0x3B2
+Armor 0x3B3
+Armor 0x3B4
+(prov) Koromaru 1
+(prov) Koromaru 2
+(prov) Koromaru 3
+(prov) Koromaru 4
+Dotted Dog Suit
+Cross Dog Suit
+Guard Dog Suit
+Tech Dog Suit
+Metal Dog Suit
+Sky Dog Suit
+Marine Dog Suit
+Star Dog Suit
+Luna Dog Suit
+Solar Dog Suit
+Cosmos Dog Suit
+Light Dog Suit
+Soft Mane
+Ebony Dog Suit
+Armor 0x3C7
+Armor 0x3C8
+(prov) Aigis 1
+(prov) Aigis 2
+(prov) Aigis 3
+(prov) Aigis 4
+(prov) Aigis 5
+Coraza Completa
+Armadura Aigis V1
+Armadura Aigis V2
+Armadura TD-W
+Escudo Anti-sellos
+Armadura Completa
+Armadura Aigis V3
+Cuerpo Elemental
+Armadura Aigis V0
+D3 Aigis EX
+Frilled Armor
+Armadura Aigis V100
+Armor 0x3DA
+Armor 0x3DB
+Default Armor
+Cam. interior oscura
+Printed T-Shirt
+4-Leaf Hoodie
+White Shirt
+Camisa de vestir
+Pañoleta
+Noble Blouse
+Top rosa
+Jersey de cuello alto
+Camiseta
+Sudadera Verde
+Blusa con lazo
+Traje bonito
+Camiseta de calavera
+Camiseta gótica
+Camiseta larga
+Camisa Simple
+Bolero Largo
+Camisa larga
+Blusa con Volantes
+Chaleco de Lana
+Silk Dog Suit
+Suéter Encapuchado
+Abrigo Naval
+Armadura Aigis
+Mods Coat
+Rise Armor
+Fuuka Armor
+Tweeds Iguales
+Armor 0x3FA
+Armor 0x3FB
+Armor 0x3FC
+Armor 0x3FD
+Armor 0x3FE
+Armor 0x3FF
+Accessories Start
+Monóculo
+Anti-Fire Charm
+Anti-Ice Charm
+Anti-Elec Charm
+Anti-Wind Charm
+Red Ring
+Red Bangle
+Black Ring
+Black Bangle
+White Ring
+White Bangle
+Blue Ring
+Blue Bangle
+Gold Ring
+Gold Bangle
+Acc 0x410
+Scarlet Ring
+Scarlet Bangle
+Ebon Ring
+Ebon Bangle
+Ivory Ring
+Ivory Bangle
+Azure Ring
+Azure Bangle
+Golden Ring
+Golden Bangle
+Acc 0x41B
+X Fire Ring
+X Fire Bangle
+X Ice Ring
+X Ice Bangle
+X Wind Ring
+X Wind Bangle
+X Elec Ring
+X Elec Bangle
+Acc 0x424
+Red Circlet
+Red Pin
+Black Circlet
+Black Pin
+White Circlet
+White Pin
+Blue Circlet
+Blue Pin
+Gold Circlet
+Gold Pin
+Acc 0x42F
+Crimson Circlet
+Crimson Pin
+Ebon Circlet
+Ebon Pin
+Ivory Circlet
+Ivory Pin
+Azure Circlet
+Azure Pin
+Golden Circlet
+Golden Pin
+Acc 0x43A
+X Fire Circlet
+X Fire Pin
+X Ice Circlet
+X Ice Pin
+X Wind Circlet
+X Wind Pin
+X Elec Circlet
+X Elec Pin
+Acc 0x443
+Crimson Sash
+Crimson Charm
+Ebon Sash
+Ebon Charm
+Ivory Sash
+Ivory Charm
+Azure Sash
+Azure Charm
+Golden Sash
+Golden Charm
+Acc 0x485
+Power Sash
+Power Charm
+Mystic Sash
+Mystic Charm
+Barrier Sash
+Barrier Charm
+Haste Sash
+Haste Charm
+Lucky Sash
+Lucky Charm
+Acc 0x485
+Crimson Patch
+Crimson Ankh
+Ebon Patch
+Ebon Ankh
+Ivory Patch
+Ivory Ankh
+Azure Patch
+Azure Ankh
+Golden Patch
+Golden Ankh
+Acc 0x485
+Power Patch
+Power Ankh
+Mystic Patch
+Mystic Ankh
+Barrier Patch
+Barrier Ankh
+Haste Patch
+Haste Ankh
+Lucky Patch
+Lucky Ankh
+Acc 0x485
+Crimson Bead
+Crimson Orb
+Ebon Bead
+Ebon Orb
+Ivory Bead
+Ivory Orb
+Azure Bead
+Azure Orb
+Golden Bead
+Golden Orb
+Acc 0x485
+Power Bead
+Power Orb
+Mystic Bead
+Mystic Orb
+Barrier Bead
+Barrier Orb
+Haste Bead
+Haste Orb
+Lucky Bead
+Lucky Orb
+Acc 0x485
+X Nuke Ring
+X Psy Ring
+X Nuke Bangle
+X Psy Bangle
+X Nuke Circlet
+X Psy Circlet
+X Nuke Pin
+X Psy Pin
+Acc 0x48E
+Barril del festival
+Amuleto de bruja
+Rosario de guardia
+Correa de Pegaso
+Ebisu de madera
+Courage Fob
+Popurrí de almas
+Ambition Fob
+Boon Potpourri
+Impulso Delta
+Universal Badge
+Medalla Omnisciente
+Yosuga Bead
+Shijima Bead
+Crecimiento 1
+Crecimiento 2
+Crecimiento 3
+Speed Gloves
+Lucre Gloves
+Orbe omnipotente
+Gafas a la última
+Tirantes
+Horquilla
+Silver Keyring
+Corbata negra
+Riñonera
+Music Player
+Medias de lunares
+Medias negras
+Reloj de pulsera
+Aluminum Pin
+Cinta para el pelo
+Orejas de oso
+Medallón de plata
+Pendientes espiral
+Anillo sencillo
+Music Player
+Heart Choker
+Fancy Nails
+Pulsera
+Beanie
+Lazo rojo
+Guantes de cuero
+Silver Necklace
+Koromaru Wings
+Auriculares
+Pearl Earrings
+Bead Necklace
+Acc Fusion 2
+Acc Fusion 1
+Healing Armlet
+Voto de llama
+Psy Vow
+Lucky Cat
+Ankh Hielo-Fuego
+Wind-Elec Ankh
+Super Lucky Cat
+Tecnol. de Barrera
+Adhesivo PE 3
+Anillo de Rudra
+Anillo de chakra
+Inversor St-Ma
+Inversor St-En
+Inversor St-Ag
+Inversor St-Lu
+Inversor Ma-En
+Inversor Ma-Ag
+Inversor Ma-Lu
+Inversor En-Ag
+Inversor En-Lu
+Inversor Ag-Lu
+Ala de Sauce
+Ala Nevada
+Ala Resistente
+Ala Flameante
+Piedra Congelada
+Anillo de Tormenta
+Guantes Eléctricos
+Aureola Radiante
+Anillo de Oscuridad
+Pluma Afilada
+Pendiente de Hierro
+Casco
+Orbe Omnipotente
+Anillo Germanio
+Inversor Mental
+Collar Artesanal
+Pulsera Pesada
+Choker Rosado
+Broche Rojo
+Purple Circlet
+Brazal Prometido
+Focus Bracer
+Energy Bracer
+Dragon Bracer
+Dormir x10
+Maldición x10
+Piedra x10
+Cegar x10
+Fr x10
+Ma x10
+Rs x10
+Ag x10
+Su x10
+Vida x10
+Ki x10
+Viento x10
+Luz x10
+Oscuridad x10
+Corte x10
+Golpe x10
+Perforación x10
+Acc 0x4FF
+Expendables Start
+Medicina
+Not Used
+Not Used
+Abalorio
+Gota espiritual
+Rapé espiritual
+Chicle espiritual
+Not Used
+Gota de Soma
+Lágrima de Soma
+Not Used
+Abalorio de resurrec.
+Bálsamo vital
+Not Used
+Not Used
+Curaciｶポn de Atadu.
+Not Used
+Agua purificadora
+Sal purificadora
+Rasetsu Ofuda
+Kongou Ofuda
+Idaten Ofuda
+Refresco de Amrita
+Reserved
+Niebla de Fuego
+Niebla de Hielo
+Niebla Eléctrica
+Niebla de Viento
+Niebla Nuclear
+Niebla Psi.
+Reserved
+Reserved
+San-zun Tama
+Bala Abrasadora
+Hielo seco
+Bala Criogｶ〒nica
+Bobina de Tesla
+Bala Elｶ〒ctrica
+Yashichi
+Bala Tornado
+Arroz Segaki
+Papel maldito
+Bomba psíquica
+Fission Bullet
+Cerilla atómica
+Bala Mental
+Reserved
+Reserved
+Análisis Simple
+Homúnculo
+Tubo Repulsor
+Tubo Atractor
+Talue-Go
+En-Trada
+Not Used
+Faro de Luz
+Soma
+Cadena de abalorios
+Más Talue-Go
+Más En-Trada
+Cuerno Atractor
+Cuerno Repulsor
+Renovar Tesoro
+Not Used
+Piedra Vital
+Esfera desvanecedora
+Ave Inmortal
+Palomitas
+Papas Valientes
+Free Ticket
+Piedra de Resurrec.
+Line Heal Stone
+Palomitas de Miel
+Hot Dog Grande
+Refresco Limpio
+Palomitas Tropicales
+Palomitas Cｶホrnicas
+Palomitas Prisma
+Reserved
+Carta Blanca
+Comodín
+Bowl Hagakure
+Bowl Mega Beef
+Curry del Leblanc
+Growth Incense
+Reserved
+Large Dual Dog
+Dog Gigante
+Botella de Claridad
+Baｶワo de Claridad
+Curar Ataduras
+Liberar Ataduras
+Churros Enormes
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Hagakure Bowl x3
+Mega Beef Bowl x3
+Leblanc Curry x3
+Key Item Start
+Pamphlet
+Top-Secret Note
+Girl Power Scroll
+Shell Drawing
+Ancient Fish
+Inspire Popcorn
+Shining Stone
+Biker Gloves
+Beautiful Ring
+Fitness Lunch
+Aviso
+Memory Medal
+Gold Beetle
+Victory Trophy
+Broken Screw
+VIP Certificate
+Glamour Shot
+Comm Amp
+Special Menu
+Ticket Velvet
+Carta Velvet
+Pase Velvet
+Licencia Velvet
+Toy Clapboard
+Promised Script
+Ancient Bait
+Power of Bonds
+Keycard
+Sooty Film
+Sooty Film
+Sooty Film
+Sooty Film
+Ancient Bait
+Damp Kernels
+0x623
+0x624
+0x625
+0x626
+0x627
+0x628
+0x629
+0x62A
+0x62B
+0x62C
+0x62D
+0x62E
+0x62F
+0x630
+0x631
+0x632
+0x633
+0x634
+0x635
+0x636
+0x637
+0x638
+Ace of Cups
+Ace of Wands
+Ace of Swords
+Ace of Coins
+Shining Film
+Shining Film
+Shining Film
+Shining Film
+Shining Film
+Proyector viejo
+???
+0x644
+Carta en blanco
+Comodín
+Duchess Crown
+Sinner's Canope
+Plentiful Wheat
+Harvest Agave
+Spirit Water
+Volcanic Queen
+Gleipnir
+Solar Disk
+Stigmata Spear
+Dame's Cross
+Wyvern Fang
+Scourge's Cape
+Champ's Cape
+Seraph's Wing
+Ineffable Miter
+Tyrant's Bead
+Bunny Doll
+Book of Enoch
+Rune of Destiny
+4 Knight Crest
+Destroyer's Disk
+Glutton's Mark
+Infernal Key
+Fusion Unlock 24
+Fusion Unlock 25
+Compendium Discount 1
+Compendium Discount 2
+Compendium Discount 3
+Compendium Discount 4
+Promo Card
+Discount Card
+Client Card
+City Treasure Map
+Dino Treasure Map
+Lab Treasure Map
+Play Treasure Map
+Film Treasure Map
+0x66C
+Dino's Stash
+Dino's Stash
+Cinnamon Fern
+Cinnamon Fern
+Cinnamon Fern
+Cognitive Device
+Cognitive Device
+Unknown Device
+Unknown Device
+Unknown Device
+Fruitlike Object
+Fruitlike Object
+Fruitlike Object
+Fruitlike Object
+Vine Herb
+Vine Herb
+0x67D
+0x67E
+0x67F
+0x680
+0x681
+0x682
+0x683
+0x684
+0x685
+0x686
+0x687
+0x688
+0x689
+0x68A
+0x68B
+0x68C
+0x68D
+0x68E
+0x68F
+0x690
+0x691
+0x692
+0x693
+0x694
+0x695
+0x696
+0x697
+0x698
+0x699
+0x69A
+0x69B
+0x69C
+0x69D
+0x69E
+0x69F
+0x6A0
+0x6A1
+0x6A2
+0x6A3
+0x6A4
+0x6A5
+0x6A6
+0x6A7
+0x6A8
+0x6A9
+0x6AA
+0x6AB
+0x6AC
+0x6AD
+0x6AE
+0x6AF
+0x6B0
+0x6B1
+0x6B2
+0x6B3
+0x6B4
+0x6B5
+0x6B6
+0x6B7
+0x6B8
+0x6B9
+0x6BA
+0x6BB
+0x6BC
+0x6BD
+0x6BE
+0x6BF
+0x6C0
+0x6C1
+0x6C2
+0x6C3
+0x6C4
+0x6C5
+0x6C6
+0x6C7
+Graba-Pathos
+0x6C9
+0x6CA
+0x6CB
+0x6CC
+0x6CD
+0x6CE
+0x6CF
+0x6D0
+0x6D1
+0x6D2
+0x6D3
+0x6D4
+0x6D5
+0x6D6
+0x6D7
+0x6D8
+0x6D9
+0x6DA
+0x6DB
+0x6DC
+0x6DD
+0x6DE
+0x6DF
+0x6E0
+0x6E1
+0x6E2
+0x6E3
+0x6E4
+0x6E5
+0x6E6
+0x6E7
+0x6E8
+0x6E9
+0x6EA
+0x6EB
+0x6EC
+0x6ED
+0x6EE
+0x6EF
+0x6F0
+0x6F1
+0x6F2
+0x6F3
+0x6F4
+0x6F5
+0x6F6
+0x6F7
+0x6F8
+0x6F9
+0x6FA
+0x6FB
+0x6FC
+0x6FD
+0x6FE
+Reserved
+Sell all materials
+Broken Phone
+Beautiful Bulb
+Broken Watch
+Justice Figure
+Maya Powder
+Maya Jewel
+Basalt Rock
+Basalt Jewel
+Table Wood
+Table Jewel
+Hablerie Shell
+Hablerie Jewel
+Balance Chain
+Balance Stone
+Scripture Page
+Scripture Jewel
+Fuzz Cuffs
+Fuzz Jewel
+King Mustache
+King Jewel
+Bisagras de Estatua
+Statue Jewel
+Tower Ornament
+Tower Jewel
+Gigas Tights
+Gigas Jewel
+Gorgeous Crown
+Material 0x71C
+Scarlet Metal
+Material 0x71E
+Material 0x71F
+K Symbol
+Material 0x721
+Magic Cloth Rcp
+Origin Cloth Rcp
+Word Cloth Rcp
+Mech Armor Rcp
+Hero Copper
+Hero Silver
+Hero Gold
+Material 0x729
+Shadow Jewel
+Material 0x725
+Coral Stone
+Jade Stone
+Amethyst Stone
+Material 0x72F
+Material 0x730
+Beast Fur
+Beast Crystal
+Lady Branch
+Lady Crystal
+Maya Goop
+Maya Crystal
+Cupid Arrow
+Cupid Crystal
+Material 0x739
+Basalt Ore
+Basalt Crystal
+Eagle Feather
+Eagle Crystal
+Snake Scale
+Snake Crystal
+Papillon Scales
+Papillon Crystal
+Material 0x742
+Fossil Shard
+Amber Chunk
+Fine Fossil
+Insect in Amber
+Beautiful Screw
+Small Generator
+Detailed Circuit
+Tiny AI Chip
+Rainbow Flavor
+Honey Flavor
+Tropical Flavor
+Meat Flavor
+Light Meal Rcp
+Light Meal Rcp X
+Light Meal Rcp Z
+Soft Drink Rcp
+Pesce Scale
+Pesce Crystal
+Bambino Leaf
+Bambino Crystal
+Rainy Drop
+Rainy Crystal
+Balance Plate
+Balance Crystal
+Pluma de Cuervo
+Raven Crystal
+Gene Fibers
+Gene Crystal
+Cuerno de Toro
+Bull Crystal
+Beetle Sap
+Beetle Crystal
+Fine Horn
+Maya Grease
+Maya Core
+Wheel Gear
+Wheel Core
+Drive Screw
+Drive Core
+Phantom Cloth
+Phantom Core
+Sand Glass
+Sand Core
+Cima de Torre
+Tower Core
+Turret Plate
+Turret Core
+Dice Shard
+Black Dice Core
+Statue Needle
+Statue Core
+Castle Leg
+Castle Core
+Sigil Mask
+Sigil Core
+Gene Spireme
+Gene Core
+Sword Pommel
+Sword Core
+Cyclops Eye
+Cyclops Core
+Panzer Turret
+Panzer Core
+Gigas Mask
+Gigas Core
+Dice Plate
+White Dice Core
+Machine Metal
+Machine Core
+Grandiose Armor
+Table Steel
+Table Gem
+Cursed Pot Bit
+Cursed Pot Gem
+Twins Rod
+Twins Gem
+Okina Cup
+Okina Gem
+Balance Rod
+Balance Gem
+Maya Honey
+Maya Gem
+Hablerie Uvula
+Hablerie Gem
+Book Cover
+Book Gem
+Idol Crystal Ball
+Idol Gem
+Eagle Gizzard
+Eagle Gem
+Snake Pit Organ
+Snake Gem
+Papillon Feeler
+Papillon Gem
+Bull Cloth
+Bull Gem
+Lexy Button
+Lexy Gem
+Magus Chalice
+Magus Gem
+Mother Perfume
+Mother Gem
+Rienda de Caballo
+Knight Gem
+Dancer Balloon
+Dancer Gem
+Rainy Rivulet
+Rainy Gem
+Seeker Eye
+Seeker Gem
+Fiery Eye
+Pesce Air Sac
+Pesce Cache
+Statue Gold Foil
+Statue Cache
+Fuzz Pocketbook
+Fuzz Cache
+Maya Mercury
+Maya Cache
+Raven Balefire
+Raven Cache
+Eje de Rueda
+Wheel Cache
+Basalt Diamond
+Basalt Cache
+Tower Pillar
+Tower Cache
+Lady Pipe
+Lady Cache
+Balance Halo
+Balance Cache
+Cyclops Tear
+Cyclops Cache
+Velo de Ídolo
+Idol Cache
+Bambino Flower
+Bambino Cache
+Cupid Wing
+Cupid Cache
+Phantom Script
+Phantom Cache
+Dice Repdigit
+Dice Cache
+Gene DNA
+Gene Cache
+Mother Quilting
+Mother Cache
+Castle Bell
+Castle Cache
+Sword Rune
+Sword Cache
+Giant Right Arm
+Giant Cache
+Jotun Rocker
+Jotun Cache
+King Whisker
+Camo Scale
+Paradise Plan
+Cracked Mask
+King Treasure
+Yellow Brick
+Straw Husk
+Tin Heart
+Courage Hair
+Ivory Script
+3D Storyboard
+Flat Timetable
+Blackened Script
+1MB Blipcoin
+1GB Blipcoin
+1TB Blipcoin
+Mysterious Plan
+Escape Book
+Large Drink Rcp
+Blessed Mix Rcp
+Miracle Mix Rcp
+Release Mix Rcp
+Savior Mix Rcp
+Fried Legend Rcp
+Revive Scripture
+Spirit Scripture
+Heat End. Rcp
+Nature End. Rcp
+Mystic End. Rcp
+Purifying Recipe
+Infiltration Log
+Yin-yang Memo
+Charm Scripture
+Escape Memo
+Nano Blueprint
+Witch's Score
+Witch's Concert
+Recycle Book
+Soul Drop Rcp
+Soul Snack Rcp
+Divine Mix Rcp
+Arcane Blueprint
+New Snack Rcp
+Dangerous Book
+Stage Garb Rcp
+Dancer Garb Rcp
+Cute Garb Rcp
+Not Used 80D
+Not Used 80E
+Not Used 80F
+Akashic Record
+Material 0x811
+Small Note
+Rainbow Note
+Emerald Note
+Copper Statue
+Gold Statue
+Platinum Statue
+Material 0x818
+Fine Comb
+High-tech Pack
+Colorful Nail
+Luxury Lashes
+5-Inch Disk
+8-Inch Disk
+Book of Greats
+Book of Friends
+Book of All
+Black Tangle
+White Tangle
+Holy Shard
+Material 0x825
+Material 0x826
+Material 0x827
+Material 0x828
+Material 0x829
+Material 0x82A
+Material 0x82B
+Material 0x82C
+Material 0x82D
+Material 0x82E
+Material 0x82F
+Material 0x830
+Material 0x831
+Material 0x832
+Material 0x833
+Material 0x834
+Material 0x835
+Material 0x836
+Material 0x837
+Material 0x838
+Material 0x839
+Material 0x83A
+Material 0x83B
+Material 0x83C
+Material 0x83D
+Material 0x83E
+Material 0x83F
+Material 0x840
+Material 0x841
+Material 0x842
+Material 0x843
+Material 0x844
+Material 0x845
+Material 0x846
+Material 0x847
+Material 0x848
+Material 0x849
+Teddy Bear
+Kaleidoscope
+Clay Figurine
+Unknown Device
+Not Used
+Not Used
+Pieza de León
+Grillete de León
+Resto de Léon
+Pieza de Pez
+Filete de Pez
+Ojo de Pez
+Landsknecht Legend
+Protector Tales
+Dancer Specialty
+Gunner Memoir
+Sovereign Story
+Medic Miracle
+Accessory Recipe G
+Accessory Recipe H
+Accessory Recipe I
+Accessory Recipe J
+Craggy Boulder
+Fruitlike Object
+Unknown Device
+Doze Petal
+Tasty Chocomint
+Saurian Herb
+Shattered Ore
+Futuristic Gizmo
+Piano Note
+Trumpet Note
+Flute Note
+Wood Harp Note
+Violin Note
+Timpani Note
+Metal Harp Note
+Cognitive Device
+Dino's Stash
+Cinnamon Fern
+Pieza de Mesón
+Pata de Mesón
+Resto de Mesón
+Pieza de Mesa
+Resto de Mesa
+Burnt Table Leg
+Pieza de Escala
+Platillo de Escala
+Resto de Escala
+Pieza de Águila
+Alas de Águila
+Frozen Talons
+Pieza Adhesiva
+Mano Adhesiva
+Resto Adhesivo
+Pieza de Lengua
+Piel de Lengua
+Resto de Lengua
+Pieza de Úvula
+Piel de Úvula
+Resto de Úvula
+Pedazo de Espada
+Puño de Espada
+Resto de Espada
+Pedazo de Insecto
+Cuerno de Insecto
+Broken Carapace
+Pieza Valiosa
+Old Game Data
+Old Game Data
+Pieza de Danzarín
+Calzado Danzarín
+Restos de Danzarín
+Pieza de Bailarín
+Zapato de Bailarín
+Restos de Bailarín
+Pieza de Mariposa
+Ala de Mariposa
+Restos de Mariposa
+Pieza de Chamán
+Manto de Chamán
+Conditional Shaman
+Pieza de Ídolo
+Velo de Ídolo
+Resto de Ídolo
+Pieza de Madonna
+Velo de Madonna
+Conditional Madonna
+Pieza de Madam
+Gorro de Madam
+Resto de Madam
+Pedazo de Reptil
+Anillo de Reptil
+Eyeless Snakeskin
+Pedazo de Víbora
+Anillo de Víbora
+Conditional Serpent
+Pieza de Ángel
+Flecha de Ángel
+Resto de Ángel
+Pieza de Eros
+Flecha de Eros
+Alas de Eros
+Frag. de Escrituras
+Hilo de Escrituras
+Hoja de Escrituras
+Pedazo de Roca
+Mano de Roca
+Conditional Rock
+Trozo de Monolito
+Mano de Monolito
+Resto de Monolito
+Prenda Real
+Bigote Real
+Charred Scepter
+Gold Leaf
+Old Game Data
+Old Game Data
+Trozo de Lexy
+Lazo de Lexy
+Algodón de Lexy
+Trozo de Calocy
+Lentes de Calocy
+Resto de Calocy
+Pedazo de Urna
+Cabello de Urna
+Vestigio de Urna
+Piezas Gemelas
+Esposas Gemelas
+Restos Gemelos
+Pieza de Policía
+Medalla de Policía
+Restos de Policía
+Pieza Fantasmal
+Faro Fantasmal
+Resto Fantasmal
+Pieza Espectral
+Faro Espectral
+Restos Espectrales
+Pieza de Estatua
+Bisagras de Estatua
+Cuchilla de Estatua
+Pieza de Córvido
+Pluma de Córvido
+Resto de Córvido
+Pieza de Cuervo
+Pluma de Cuervo
+Pico de Cuervo
+Parte de Lluvia
+Aliento de Lluvia
+Núcleo de Lluvia
+Pieza Antigua
+Niebla Antigua
+Núcleo Antiguo
+Pieza Pegajosa
+Mano Pegajosa
+Gelatina Pegajosa
+Pieza de Gacha
+Mano de Gacha
+Restos de Gacha
+Pieza de Monitor
+Ceja de Monitor
+Ojo de Monitor
+Pieza Suprema
+Old Game Data
+Old Game Data
+Pieza de Musha
+Casco de Musha
+Resto de Musha
+Pedazo de Bíceps
+Máscara de Bíceps
+Restos de Bíceps
+Pieza de Tríceps
+Máscara de Tríceps
+Restos de Tríceps
+Pieza de Nyogo
+Kimono de Nyogo
+Restos de Nyogo
+Pieza de Hoja
+Kimono de Hoja
+Restos de Hoja
+Pieza de Espiral
+Resorte de Espiral
+Restos de Espiral
+Pieza de Torre
+Cima de Torre
+Ojo de Torre
+Pieza de Okina
+Abrigo de Okina
+Conditional Okina
+Pieza de Sabio
+Abrigo de Sabio
+Restos de Sabio
+Pieza Colgante
+Brazales Colgantes
+Espinas Colgantes
+Pedazo de Dado
+Puntos de Dado
+Restos de Dado
+Pedazo de Cubo
+Fragmento de Cubo
+Ojo de Cubo
+Pedazo de Rueda
+Eje de Rueda
+Cola de Rueda
+Pedazo de Llanta
+Eje de Llanta
+Melena de Llanta
+Pieza de Máquina
+Mazo de Máquina
+Garrote de Shocks
+Pieza Opulente
+Old Game Data
+Old Game Data
+Loincloth
+Pieza de Toro
+Cadena de Toro
+Cuerno de Toro
+Pieza de Talismán
+Capa de Talismán
+Bastón de Talismán
+Pieza de Castillo
+Cascajo de Castillo
+Cañón de Castillo
+Pieza de Caballo
+Rienda de Caballo
+Lanza de Caballo
+Pieza de Conductor
+Giro de Conductor
+Daga de Conductor
+Pieza de Chófer
+Rueda de Chófer
+Marcha de Chófer
+Pieza de Torreta
+Cañón de Torreta
+Correa de Torreta
+Pieza de Caballería
+Brida de Caballería
+Dogal de Caballería
+Pieza Equina
+Rienda Equina
+Restos Equinos
+Pieza Anillada
+Frag. Anillado
+Fuego Anillado
+P. Roja Anillada
+F. Rojo Anillado
+R. Rojo Anillado
+P. Torreta Roja
+Cañón Rojo
+R. Torreta Roja
+Pieza Gigante
+Puño Gigante
+Espada Gigante
+Pieza de Lujo
+Old Game Data
+Old Game Data
+Carta Rasgada
+Old Game Data
+Old Game Data
+Carta Pintada
+Old Game Data
+Old Game Data
+Pizca de Amor
+Old Game Data
+Old Game Data
+Pizca de Lujuria
+Old Game Data
+Old Game Data
+Pizca de Pasión
+Old Game Data
+Old Game Data
+Pizca de Romance
+Old Game Data
+Old Game Data
+Chupete Antiguo
+Old Game Data
+Old Game Data
+Vestimenta Roja
+Old Game Data
+Old Game Data
+Vestimenta Azul
+Old Game Data
+Old Game Data
+Kanroshu
+Old Game Data
+Old Game Data
+Daiginjo
+Old Game Data
+Old Game Data
+Sweat Droplets
+Old Game Data
+Old Game Data
+Máscara Hyottoko
+Old Game Data
+Old Game Data
+Máscara de Rapidez
+Old Game Data
+Old Game Data
+Ojo Compuesto
+Old Game Data
+Old Game Data
+Hilo Enredado
+Old Game Data
+Old Game Data
+Orden de Muerte
+Old Game Data
+Old Game Data
+Libro para Niños
+Gospel Page
+Medidor Roto
+Chaleco Cosido
+Insecto Dorado
+Oro de la Realeza
+Monitor Dorado
+Máquina Dorada
+Orochi Remnant
+Pixie Remnant
+Genbu Remnant
+Suzaku Remnant
+Lantern Remnant
+Jinn Remnant
+Byakko Remnant
+Frost Remnant
+Succubus Remnant
+Nue Remnant
+Skadi Remnant
+Matador Remnant
+Seiryu Remnant
+Cybele Remnant
+Oni Remnant
+Zeus Remnant
+Fragmento de Garra
+Triza de Yoshitsune
+Triza de Masakado
+Hueso de Asura
+Triza de Vishnu
+Roca de Huaguo
+Ala de Skanda
+Tableta Rota
+Ala Oponiente
+Arioch Remnant
+Ala de Serafín
+Destructor de Ira
+Triza de Miguel
+Triza de Chi You
+Diosa Obsidiana
+Spear Fragment
+Karma del Bromista
+Skystaff Piece
+Pieza de Sombra
+Hoja de Pastel
+Hoja de Hongo
+Hoja de Tarta
+Hoja de Tortuga
+Hoja de Grifo
+Hoja de Lirón
+Hoja de Sombrero
+Hoja de Cocina
+Hoja de Duquesa
+Alice Gem 10
+Alice Gem 11
+Alice Gem 12
+Rosa Marchita
+Orquídea Marchita
+Amarilis Marchita
+Vela Desgastada
+Choker Gastado
+Collar Gastado
+Tiara Agrietada
+Zarcillo Agrietado
+Tacón Agrietado
+Velo Rasgado
+Chal Rasgado
+Vestido Rasgado
+Date Treasure 13
+Date Treasure 14
+Date Treasure 15
+Date Treasure 16
+Hoja Anotada
+Hoja de Cuaderno
+Documento
+Planificador Roto
+Etiqueta Rota
+Emblema Roto
+Jeringa Oxidada
+Escalpelo Oxidado
+Pinzas Oxidadas
+Venda Sangrienta
+Gasa Sangrienta
+Historial Sangrío
+Horror Treasure 13
+Horror Treasure 14
+Horror Treasure 15
+Horror Treasure 16
+Madera de Agar
+Madera de Sándalo
+Kyarako
+Pentagrama 260
+Pentagrama 657
+Pentagrama 581
+Lirio
+Clavel
+Crisantemo
+Correa Blanca
+Vela Blanca
+Tarrón Blanco
+Festival Treasure 13
+Festival Treasure 14
+Festival Treasure 15
+Festival Treasure 16
+Cristal Empañado
+Cristal Sucio
+Cristal Agrietado
+Reloj Gris
+Reloj Plateado
+Reloj Dorado
+Péndulo Inmóvil
+Horquilla Atascada
+Tornillo Pelado
+Tuerca Rota #3
+Tuerca Rota #2
+Eje de Engranajes
+Cuerda de Manila
+Botella de Gas
+Estatua Familiar
+Estatua Superficial
+Estatua Espiritual
+Gafas Rayadas
+Bambú Invocador
+Mezcla Repulsiva
+Taijitú de Yin-Yang
+Espejo Abismal
+Acero Adamas
+Parte de Laberinto
+Old Game Data
+Old Game Data
+Reserved
+Acc2 From Here
+Power Anklet
+Magic Ankh
+Endurance Belt
+Army Socks
+Lucky Charm
+Leontina de Vigor
+Popurrí de Ciruela
+Alarm Clock
+Confusion Hat
+Nature Pin
+Gafas de Precisión
+Gorro Protector
+Coderas
+Calentadores
+Gas Mask
+Yoga Sash
+Polarized Specs
+Survival Book
+Acc2 0xA13
+Protector Pin
+Landsknecht Pin
+Medic Pin
+Troubadour Pin
+Ronin Pin
+Arcanist Pin
+Acc2 0xA1A
+Resonance Coil
+Soulmate Coil
+Brazales de Fuerza
+Logos Mirror
+Roman Mirror
+Sense Mirror
+Maverick Mirror
+Acc2 0xA22
+Gunner Pin
+Sovereign Pin
+Acc2 0xA25
+X Fire Sash
+X Ice Sash
+X Wind Sash
+X Elec Sash
+X Nuke Sash
+X Psy Sash
+X Fire Charm
+X Ice Charm
+X Wind Charm
+X Elec Charm
+X Nuke Charm
+X Psy Charm
+Acc2 0xA32
+X Fire Patch
+X Ice Patch
+X Wind Patch
+X Elec Patch
+X Nuke Patch
+X Psy Patch
+X Fire Ankh
+X Ice Ankh
+X Wind Ankh
+X Elec Ankh
+X Nuke Ankh
+X Psy Ankh
+Acc2 0xA3F
+X Fire Bead
+X Ice Bead
+X Wind Bead
+X Elec Bead
+X Nuke Bead
+X Psy Bead
+X Fire Orb
+X Ice Orb
+X Wind Orb
+X Elec Orb
+X Nuke Orb
+X Psy Orb
+Acc2 0xA4C
+Gold Badge
+Rich Badge
+Wealth Badge
+Lavish Badge
+Smart Specs
+Genius Specs
+Prodigy Specs
+Sage Specs
+Exorcism Idol
+Antidote Idol
+Awaken Idol
+Calm Idol
+Freedom Idol
+GuardaMentes
+GuardaBrazos
+GuardaPiernas
+Fireseal Pot
+Iceseal Pot
+Windseal Pot
+Elecseal Pot
+Nukeseal Pot
+Psyseal Pot
+Acc2 0xA63
+Tasuki de Fuerza
+Amuleto Vampiresco
+Defense Ankh
+Correa con Alas
+Cuchara de Plata
+Surehit Scope
+Ornamento Libre
+World Badge
+Acc2 0xA6C
+Acc2 0xA6D
+Acc2 0xA6E
+Acc2 0xA6F
+Acc2 0xA70
+Acc2 0xA71
+Acc2 0xA72
+Acc2 0xA73
+Acc2 0xA74
+Acc2 0xA75
+Acc2 0xA76
+Acc2 0xA77
+Acc2 0xA78
+Acc2 0xA79
+Acc2 0xA7A
+Acc2 0xA7B
+Acc2 0xA7C
+Acc2 0xA7D
+Acc2 0xA7E
+Acc2 0xA7F
+Acc2 0xA80
+Acc2 0xA81
+Acc2 0xA82
+Acc2 0xA83
+Acc2 0xA84
+Acc2 0xA85
+Acc2 0xA86
+Acc2 0xA87
+Acc2 0xA88
+Acc2 0xA89
+Acc2 0xA8A
+Acc2 0xA8B
+Acc2 0xA8C
+Acc2 0xA8D
+Acc2 0xA8E
+Acc2 0xA8F
+Acc2 0xA90
+Acc2 0xA91
+Acc2 0xA92
+Acc2 0xA93
+Acc2 0xA94
+Acc2 0xA95
+Acc2 0xA96
+Acc2 0xA97
+Acc2 0xA98
+Acc2 0xA99
+Acc2 0xA9A
+Acc2 0xA9B
+Acc2 0xA9C
+Acc2 0xA9D
+Acc2 0xA9E
+Acc2 0xA9F
+Acc2 0xAA0
+Acc2 0xAA1
+Acc2 0xAA2
+Acc2 0xAA3
+Acc2 0xAA4
+Acc2 0xAA5
+Acc2 0xAA6
+Acc2 0xAA7
+Acc2 0xAA8
+Acc2 0xAA9
+Acc2 0xAAA
+Acc2 0xAAB
+Acc2 0xAAC
+Acc2 0xAAD
+Acc2 0xAAE
+Acc2 0xAAF
+Acc2 0xAB0
+Acc2 0xAB1
+Acc2 0xAB2
+Acc2 0xAB3
+Acc2 0xAB4
+Acc2 0xAB5
+Acc2 0xAB6
+Acc2 0xAB7
+Acc2 0xAB8
+Acc2 0xAB9
+Acc2 0xABA
+Acc2 0xABB
+Acc2 0xABC
+Acc2 0xABD
+Acc2 0xABE
+Acc2 0xABF
+Acc2 0xAC0
+Acc2 0xAC1
+Acc2 0xAC2
+Acc2 0xAC3
+Acc2 0xAC4
+Acc2 0xAC5
+Acc2 0xAC6
+Acc2 0xAC7
+Acc2 0xAC8
+Acc2 0xAC9
+Acc2 0xACA
+Acc2 0xACB
+Acc2 0xACC
+Acc2 0xACD
+Acc2 0xACE
+Acc2 0xACF
+Acc2 0xAD0
+Acc2 0xAD1
+Acc2 0xAD2
+Acc2 0xAD3
+Acc2 0xAD4
+Acc2 0xAD5
+Acc2 0xAD6
+Acc2 0xAD7
+Acc2 0xAD8
+Acc2 0xAD9
+Acc2 0xADA
+Acc2 0xADB
+Acc2 0xADC
+Acc2 0xADD
+Acc2 0xADE
+Acc2 0xADF
+Acc2 0xAE0
+Acc2 0xAE1
+Acc2 0xAE2
+Acc2 0xAE3
+Acc2 0xAE4
+Acc2 0xAE5
+Acc2 0xAE6
+Acc2 0xAE7
+Acc2 0xAE8
+Acc2 0xAE9
+Acc2 0xAEA
+Acc2 0xAEB
+Acc2 0xAEC
+Acc2 0xAED
+Acc2 0xAEE
+Acc2 0xAEF
+Acc2 0xAF0
+Acc2 0xAF1
+Acc2 0xAF2
+Acc2 0xAF3
+Acc2 0xAF4
+Acc2 0xAF5
+Acc2 0xAF6
+Acc2 0xAF7
+Acc2 0xAF8
+Acc2 0xAF9
+Acc2 0xAFA
+Acc2 0xAFB
+Acc2 0xAFC
+Acc2 0xAFD
+Acc2 0xAFE
+Acc2 0xAFF
+Acc2 0xB00
+Acc2 0xB01
+Acc2 0xB02
+Acc2 0xB03
+Acc2 0xB04
+Acc2 0xB05
+Acc2 0xB06
+Acc2 0xB07
+Acc2 0xB08
+Acc2 0xB09
+Acc2 0xB0A
+Acc2 0xB0B
+Acc2 0xB0C
+Acc2 0xB0D
+Acc2 0xB0E
+Acc2 0xB0F
+Acc2 0xB10
+Acc2 0xB11
+Acc2 0xB12
+Acc2 0xB13
+Acc2 0xB14
+Acc2 0xB15
+Acc2 0xB16
+Acc2 0xB17
+Acc2 0xB18
+Acc2 0xB19
+Acc2 0xB1A
+Acc2 0xB1B
+Acc2 0xB1C
+Acc2 0xB1D
+Acc2 0xB1E
+Acc2 0xB1F
+Acc2 0xB20
+Acc2 0xB21
+Acc2 0xB22
+Acc2 0xB23
+Acc2 0xB24
+Acc2 0xB25
+Acc2 0xB26
+Acc2 0xB27
+Acc2 0xB28
+Acc2 0xB29
+Acc2 0xB2A
+Acc2 0xB2B
+Acc2 0xB2C
+Acc2 0xB2D
+Acc2 0xB2E
+Acc2 0xB2F
+Acc2 0xB30
+Acc2 0xB31
+Acc2 0xB32
+Acc2 0xB33
+Acc2 0xB34
+Acc2 0xB35
+Acc2 0xB36
+Acc2 0xB37
+Acc2 0xB38
+Acc2 0xB39
+Acc2 0xB3A
+Acc2 0xB3B
+Acc2 0xB3C
+Acc2 0xB3D
+Acc2 0xB3E
+Acc2 0xB3F
+Acc2 0xB40
+Acc2 0xB41
+Acc2 0xB42
+Acc2 0xB43
+Acc2 0xB44
+Acc2 0xB45
+Acc2 0xB46
+Acc2 0xB47
+Acc2 0xB48
+Acc2 0xB49
+Acc2 0xB4A
+Acc2 0xB4B
+Acc2 0xB4C
+Acc2 0xB4D
+Acc2 0xB4E
+Acc2 0xB4F
+Acc2 0xB50
+Acc2 0xB51
+Acc2 0xB52
+Acc2 0xB53
+Acc2 0xB54
+Acc2 0xB55
+Acc2 0xB56
+Acc2 0xB57
+Acc2 0xB58
+Acc2 0xB59
+Acc2 0xB5A
+Acc2 0xB5B
+Acc2 0xB5C
+Acc2 0xB5D
+Acc2 0xB5E
+Acc2 0xB5F
+Acc2 0xB60
+Acc2 0xB61
+Acc2 0xB62
+Acc2 0xB63
+Acc2 0xB64
+Acc2 0xB65
+Acc2 0xB66
+Acc2 0xB67
+Acc2 0xB68
+Acc2 0xB69
+Acc2 0xB6A
+Acc2 0xB6B
+Acc2 0xB6C
+Acc2 0xB6D
+Acc2 0xB6E
+Acc2 0xB6F
+Acc2 0xB70
+Acc2 0xB71
+Acc2 0xB72
+Acc2 0xB73
+Acc2 0xB74
+Acc2 0xB75
+Acc2 0xB76
+Acc2 0xB77
+Acc2 0xB78
+Acc2 0xB79
+Acc2 0xB7A
+Acc2 0xB7B
+Acc2 0xB7C
+Acc2 0xB7D
+Acc2 0xB7E
+Acc2 0xB7F
+Acc2 0xB80
+Acc2 0xB81
+Acc2 0xB82
+Acc2 0xB83
+Acc2 0xB84
+Acc2 0xB85
+Acc2 0xB86
+Acc2 0xB87
+Acc2 0xB88
+Acc2 0xB89
+Acc2 0xB8A
+Acc2 0xB8B
+Acc2 0xB8C
+Acc2 0xB8D
+Acc2 0xB8E
+Acc2 0xB8F
+Acc2 0xB90
+Acc2 0xB91
+Acc2 0xB92
+Acc2 0xB93
+Acc2 0xB94
+Acc2 0xB95
+Acc2 0xB96
+Acc2 0xB97
+Acc2 0xB98
+Acc2 0xB99
+Acc2 0xB9A
+Acc2 0xB9B
+Acc2 0xB9C
+Acc2 0xB9D
+Acc2 0xB9E
+Acc2 0xB9F
+Acc2 0xBA0
+Acc2 0xBA1
+Acc2 0xBA2
+Acc2 0xBA3
+Acc2 0xBA4
+Acc2 0xBA5
+Acc2 0xBA6
+Acc2 0xBA7
+Acc2 0xBA8
+Acc2 0xBA9
+Acc2 0xBAA
+Acc2 0xBAB
+Acc2 0xBAC
+Acc2 0xBAD
+Acc2 0xBAE
+Acc2 0xBAF
+Acc2 0xBB0
+Acc2 0xBB1
+Acc2 0xBB2
+Acc2 0xBB3
+Acc2 0xBB4
+Acc2 0xBB5
+Acc2 0xBB6
+Acc2 0xBB7
+Acc2 0xBB8
+Acc2 0xBB9
+Acc2 0xBBA
+Acc2 0xBBB
+Acc2 0xBBC
+Acc2 0xBBD
+Acc2 0xBBE
+Acc2 0xBBF
+Acc2 0xBC0
+Acc2 0xBC1
+Acc2 0xBC2
+Acc2 0xBC3
+Acc2 0xBC4
+Acc2 0xBC5
+Acc2 0xBC6
+Acc2 0xBC7
+Acc2 0xBC8
+Acc2 0xBC9
+Acc2 0xBCA
+Acc2 0xBCB
+Acc2 0xBCC
+Acc2 0xBCD
+Acc2 0xBCE
+Acc2 0xBCF
+Acc2 0xBD0
+Acc2 0xBD1
+Acc2 0xBD2
+Acc2 0xBD3
+Acc2 0xBD4
+Acc2 0xBD5
+Acc2 0xBD6
+Acc2 0xBD7
+Acc2 0xBD8
+Acc2 0xBD9
+Acc2 0xBDA
+Acc2 0xBDB
+Acc2 0xBDC
+Acc2 0xBDD
+Acc2 0xBDE
+Acc2 0xBDF
+Acc2 0xBE0
+Acc2 0xBE1
+Acc2 0xBE2
+Acc2 0xBE3
+Acc2 0xBE4
+Acc2 0xBE5
+Acc2 0xBE6
+Acc2 0xBE7
+Acc2 0xBE8
+Acc2 0xBE9
+Acc2 0xBEA
+Acc2 0xBEB
+Acc2 0xBEC
+Acc2 0xBED
+Acc2 0xBEE
+Acc2 0xBEF
+Acc2 0xBF0
+Acc2 0xBF1
+Acc2 0xBF2
+Acc2 0xBF3
+Acc2 0xBF4
+Acc2 0xBF5
+Acc2 0xBF6
+Acc2 0xBF7
+Acc2 0xBF8
+Acc2 0xBF9
+Acc2 0xBFA
+Acc2 0xBFB
+Acc2 0xBFC
+Acc2 0xBFD
+Acc2 0xBFE
+Acc2 0xBFF
+Acc2 0xC00
+Acc2 0xC01
+Acc2 0xC02
+Acc2 0xC03
+Acc2 0xC04
+Acc2 0xC05
+Acc2 0xC06
+Acc2 0xC07
+Acc2 0xC08
+Acc2 0xC09
+Acc2 0xC0A
+Acc2 0xC0B
+Acc2 0xC0C
+Acc2 0xC0D
+Acc2 0xC0E
+Acc2 0xC0F
+Acc2 0xC10
+Acc2 0xC11
+Acc2 0xC12
+Acc2 0xC13
+Acc2 0xC14
+Acc2 0xC15
+Acc2 0xC16
+Acc2 0xC17
+Acc2 0xC18
+Acc2 0xC19
+Acc2 0xC1A
+Acc2 0xC1B
+Acc2 0xC1C
+Acc2 0xC1D
+Acc2 0xC1E
+Acc2 0xC1F
+Acc2 0xC20
+Acc2 0xC21
+Acc2 0xC22
+Acc2 0xC23
+Acc2 0xC24
+Acc2 0xC25
+Acc2 0xC26
+Acc2 0xC27
+Acc2 0xC28
+Acc2 0xC29
+Acc2 0xC2A
+Acc2 0xC2B
+Acc2 0xC2C
+Acc2 0xC2D
+Acc2 0xC2E
+Acc2 0xC2F
+Acc2 0xC30
+Acc2 0xC31
+Acc2 0xC32
+Acc2 0xC33
+Acc2 0xC34
+Acc2 0xC35
+Acc2 0xC36
+Acc2 0xC37
+Acc2 0xC38
+Acc2 0xC39
+Acc2 0xC3A
+Acc2 0xC3B
+Acc2 0xC3C
+Acc2 0xC3D
+Acc2 0xC3E
+Acc2 0xC3F
+Acc2 0xC40
+Acc2 0xC41
+Acc2 0xC42
+Acc2 0xC43
+Acc2 0xC44
+Acc2 0xC45
+Acc2 0xC46
+Acc2 0xC47
+Acc2 0xC48
+Acc2 0xC49
+Acc2 0xC4A
+Acc2 0xC4B
+Acc2 0xC4C
+Acc2 0xC4D
+Acc2 0xC4E
+Acc2 0xC4F
+Acc2 0xC50
+Acc2 0xC51
+Acc2 0xC52
+Acc2 0xC53
+Acc2 0xC54
+Acc2 0xC55
+Acc2 0xC56
+Acc2 0xC57
+Acc2 0xC58
+Acc2 0xC59
+Acc2 0xC5A
+Acc2 0xC5B
+Acc2 0xC5C
+Acc2 0xC5D
+Acc2 0xC5E
+Acc2 0xC5F
+Acc2 0xC60
+Acc2 0xC61
+Acc2 0xC62
+Acc2 0xC63
+Acc2 0xC64
+Acc2 0xC65
+Acc2 0xC66
+Acc2 0xC67
+Acc2 0xC68
+Acc2 0xC69
+Acc2 0xC6A
+Acc2 0xC6B
+Acc2 0xC6C
+Acc2 0xC6D
+Acc2 0xC6E
+Acc2 0xC6F
+Acc2 0xC70
+Acc2 0xC71
+Acc2 0xC72
+Acc2 0xC73
+Acc2 0xC74
+Acc2 0xC75
+Acc2 0xC76
+Acc2 0xC77
+Acc2 0xC78
+Acc2 0xC79
+Acc2 0xC7A
+Acc2 0xC7B
+Acc2 0xC7C
+Acc2 0xC7D
+Acc2 0xC7E
+Acc2 0xC7F
+Acc2 0xC80
+Acc2 0xC81
+Acc2 0xC82
+Acc2 0xC83
+Acc2 0xC84
+Acc2 0xC85
+Acc2 0xC86
+Acc2 0xC87
+Acc2 0xC88
+Acc2 0xC89
+Acc2 0xC8A
+Acc2 0xC8B
+Acc2 0xC8C
+Acc2 0xC8D
+Acc2 0xC8E
+Acc2 0xC8F
+Acc2 0xC90
+Acc2 0xC91
+Acc2 0xC92
+Acc2 0xC93
+Acc2 0xC94
+Acc2 0xC95
+Acc2 0xC96
+Acc2 0xC97
+Acc2 0xC98
+Acc2 0xC99
+Acc2 0xC9A
+Acc2 0xC9B
+Acc2 0xC9C
+Acc2 0xC9D
+Acc2 0xC9E
+Acc2 0xC9F
+Acc2 0xCA0
+Acc2 0xCA1
+Acc2 0xCA2
+Acc2 0xCA3
+Acc2 0xCA4
+Acc2 0xCA5
+Acc2 0xCA6
+Acc2 0xCA7
+Acc2 0xCA8
+Acc2 0xCA9
+Acc2 0xCAA
+Acc2 0xCAB
+Acc2 0xCAC
+Acc2 0xCAD
+Acc2 0xCAE
+Acc2 0xCAF
+Acc2 0xCB0
+Acc2 0xCB1
+Acc2 0xCB2
+Acc2 0xCB3
+Acc2 0xCB4
+Acc2 0xCB5
+Acc2 0xCB6
+Acc2 0xCB7
+Acc2 0xCB8
+Acc2 0xCB9
+Acc2 0xCBA
+Acc2 0xCBB
+Acc2 0xCBC
+Acc2 0xCBD
+Acc2 0xCBE
+Acc2 0xCBF
+Acc2 0xCC0
+Acc2 0xCC1
+Acc2 0xCC2
+Acc2 0xCC3
+Acc2 0xCC4
+Acc2 0xCC5
+Acc2 0xCC6
+Acc2 0xCC7
+Acc2 0xCC8
+Acc2 0xCC9
+Acc2 0xCCA
+Acc2 0xCCB
+Acc2 0xCCC
+Acc2 0xCCD
+Acc2 0xCCE
+Acc2 0xCCF
+Acc2 0xCD0
+Acc2 0xCD1
+Acc2 0xCD2
+Acc2 0xCD3
+Acc2 0xCD4
+Acc2 0xCD5
+Acc2 0xCD6
+Acc2 0xCD7
+Acc2 0xCD8
+Acc2 0xCD9
+Acc2 0xCDA
+Acc2 0xCDB
+Acc2 0xCDC
+Acc2 0xCDD
+Acc2 0xCDE
+Acc2 0xCDF
+Acc2 0xCE0
+Acc2 0xCE1
+Acc2 0xCE2
+Acc2 0xCE3
+Acc2 0xCE4
+Acc2 0xCE5
+Acc2 0xCE6
+Acc2 0xCE7
+Acc2 0xCE8
+Acc2 0xCE9
+Acc2 0xCEA
+Acc2 0xCEB
+Acc2 0xCEC
+Acc2 0xCED
+Acc2 0xCEE
+Acc2 0xCEF
+Acc2 0xCF0
+Acc2 0xCF1
+Acc2 0xCF2
+Acc2 0xCF3
+Acc2 0xCF4
+Acc2 0xCF5
+Acc2 0xCF6
+Acc2 0xCF7
+Acc2 0xCF8
+Acc2 0xCF9
+Acc2 0xCFA
+Acc2 0xCFB
+Acc2 0xCFC
+Acc2 0xCFD
+Acc2 0xCFE
+Acc2 0xCFF
+Appraisal item start
+Unknown Ring
+Unknown Bangle
+Glowing Ring
+Glowing Bangle
+Appraise 0xD05
+Unknown Circlet
+Unknown Pin
+Glowing Circlet
+Glowing Pin
+Glowing Trinket
+Appraise 0xD0B
+Unknown Sash
+Unknown Charm
+Glowing Sash
+Glowing Charm
+Glowing Trinket
+Appraise 0xD11
+Unknown Patch
+Unknown Ankh
+Glowing Patch
+Glowing Ankh
+Gleaming Trinket
+Appraise 0xD17
+Unknown Bead
+Unknown Orb
+Glowing Bead
+Glowing Orb
+Sacred Trinket
+Appraise 0xD1D
+Appraise 0xD1E
+Appraise 0xD1F
+Appraise 0xD20
+Appraise 0xD21
+Appraise 0xD22
+Appraise 0xD23
+Appraise 0xD24
+Appraise 0xD25
+Appraise 0xD26
+Appraise 0xD27
+Appraise 0xD28
+Appraise 0xD29
+Appraise 0xD2A
+Appraise 0xD2B
+Appraise 0xD2C
+Appraise 0xD2D
+Appraise 0xD2E
+Appraise 0xD2F
+Appraise 0xD30
+Appraise 0xD31
+Appraise 0xD32
+Appraise 0xD33
+Appraise 0xD34
+Appraise 0xD35
+Appraise 0xD36
+Appraise 0xD37
+Appraise 0xD38
+Appraise 0xD39
+Appraise 0xD3A
+Appraise 0xD3B
+Appraise 0xD3C
+Appraise 0xD3D
+Appraise 0xD3E
+Appraise 0xD3F
+Appraise 0xD40
+Appraise 0xD41
+Appraise 0xD42
+Appraise 0xD43
+Appraise 0xD44
+Appraise 0xD45
+Appraise 0xD46
+Appraise 0xD47
+Appraise 0xD48
+Appraise 0xD49
+Appraise 0xD4A
+Appraise 0xD4B
+Appraise 0xD4C
+Appraise 0xD4D
+Appraise 0xD4E
+Appraise 0xD4F
+Appraise 0xD50
+Appraise 0xD51
+Appraise 0xD52
+Appraise 0xD53
+Appraise 0xD54
+Appraise 0xD55
+Appraise 0xD56
+Appraise 0xD57
+Appraise 0xD58
+Appraise 0xD59
+Appraise 0xD5A
+Appraise 0xD5B
+Appraise 0xD5C
+Appraise 0xD5D
+Appraise 0xD5E
+Appraise 0xD5F
+Appraise 0xD60
+Appraise 0xD61
+Appraise 0xD62
+Appraise 0xD63
+Appraise 0xD64
+Appraise 0xD65
+Appraise 0xD66
+Appraise 0xD67
+Appraise 0xD68
+Appraise 0xD69
+Appraise 0xD6A
+Appraise 0xD6B
+Appraise 0xD6C
+Appraise 0xD6D
+Appraise 0xD6E
+Appraise 0xD6F
+Appraise 0xD70
+Appraise 0xD71
+Appraise 0xD72
+Appraise 0xD73
+Appraise 0xD74
+Appraise 0xD75
+Appraise 0xD76
+Appraise 0xD77
+Appraise 0xD78
+Appraise 0xD79
+Appraise 0xD7A
+Appraise 0xD7B
+Appraise 0xD7C
+Appraise 0xD7D
+Appraise 0xD7E
+Appraise 0xD7F
+Appraise 0xD80
+Appraise 0xD81
+Appraise 0xD82
+Appraise 0xD83
+Appraise 0xD84
+Appraise 0xD85
+Appraise 0xD86
+Appraise 0xD87
+Appraise 0xD88
+Appraise 0xD89
+Appraise 0xD8A
+Appraise 0xD8B
+Appraise 0xD8C
+Appraise 0xD8D
+Appraise 0xD8E
+Appraise 0xD8F
+Appraise 0xD90
+Appraise 0xD91
+Appraise 0xD92
+Appraise 0xD93
+Appraise 0xD94
+Appraise 0xD95
+Appraise 0xD96
+Appraise 0xD97
+Appraise 0xD98
+Appraise 0xD99
+Appraise 0xD9A
+Appraise 0xD9B
+Appraise 0xD9C
+Appraise 0xD9D
+Appraise 0xD9E
+Appraise 0xD9F
+Appraise 0xDA0
+Appraise 0xDA1
+Appraise 0xDA2
+Appraise 0xDA3
+Appraise 0xDA4
+Appraise 0xDA5
+Appraise 0xDA6
+Appraise 0xDA7
+Appraise 0xDA8
+Appraise 0xDA9
+Appraise 0xDAA
+Appraise 0xDAB
+Appraise 0xDAC
+Appraise 0xDAD
+Appraise 0xDAE
+Appraise 0xDAF
+Appraise 0xDB0
+Appraise 0xDB1
+Appraise 0xDB2
+Appraise 0xDB3
+Appraise 0xDB4
+Appraise 0xDB5
+Appraise 0xDB6
+Appraise 0xDB7
+Appraise 0xDB8
+Appraise 0xDB9
+Appraise 0xDBA
+Appraise 0xDBB
+Appraise 0xDBC
+Appraise 0xDBD
+Appraise 0xDBE
+Appraise 0xDBF
+Appraise 0xDC0
+Appraise 0xDC1
+Appraise 0xDC2
+Appraise 0xDC3
+Appraise 0xDC4
+Appraise 0xDC5
+Appraise 0xDC6
+Appraise 0xDC7
+Appraise 0xDC8
+Appraise 0xDC9
+Appraise 0xDCA
+Appraise 0xDCB
+Appraise 0xDCC
+Appraise 0xDCD
+Appraise 0xDCE
+Appraise 0xDCF
+Appraise 0xDD0
+Appraise 0xDD1
+Appraise 0xDD2
+Appraise 0xDD3
+Appraise 0xDD4
+Appraise 0xDD5
+Appraise 0xDD6
+Appraise 0xDD7
+Appraise 0xDD8
+Appraise 0xDD9
+Appraise 0xDDA
+Appraise 0xDDB
+Appraise 0xDDC
+Appraise 0xDDD
+Appraise 0xDDE
+Appraise 0xDDF
+Appraise 0xDE0
+Appraise 0xDE1
+Appraise 0xDE2
+Appraise 0xDE3
+Appraise 0xDE4
+Appraise 0xDE5
+Appraise 0xDE6
+Appraise 0xDE7
+Appraise 0xDE8
+Appraise 0xDE9
+Appraise 0xDEA
+Appraise 0xDEB
+Appraise 0xDEC
+Appraise 0xDED
+Appraise 0xDEE
+Appraise 0xDEF
+Appraise 0xDF0
+Not Used01
+Not Used02
+Not Used03
+Not Used04
+Not Used05
+Not Used06
+Not Used07
+Not Used08
+Not Used09
+Not Used10
+Not Used11
+Not Used12
+Not Used13
+Not Used14
+Appraise 0xDFF

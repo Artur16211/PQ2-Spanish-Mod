@@ -116,11 +116,11 @@ replacements = {
     "Talento de Agilidad": "Talento de Agil."
 }
 
-with open('skillnametable.ebl', 'r', encoding='utf-8') as file:
+with open('skillnametable_prereplace.ebl', 'r', encoding='utf-8') as file:
     file_contents = file.read()
 
 for old_term, new_term in replacements.items():
     file_contents = re.sub(r'\b' + re.escape(old_term) + r'\b', new_term, file_contents)
 
-with open('skillnametable_modified.ebl', 'w', encoding='utf-8') as file:
+with open('skillnametable_prereplace.ebl', 'w', encoding='utf-8') as file:
     file.write(file_contents)
