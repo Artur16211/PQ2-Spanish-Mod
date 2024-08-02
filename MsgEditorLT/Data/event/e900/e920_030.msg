@@ -1,3 +1,3 @@
 [msg MSG_000]
-Esto no es exactamente lo que pediste,[n]メpero te servirホ esto?
+No es exactamente lo que pediste, メpero te servirボa esto?
 

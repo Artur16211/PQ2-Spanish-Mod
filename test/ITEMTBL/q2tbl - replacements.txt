@@ -255,8 +255,8 @@ Weapon 0x0FD
 Weapon 0x0FE
 Weapon 0x0FF
 Weapon 0x100
-(prov) Fist 1
-(prov) Fist 2
+(prov) Puño 1
+(prov) Puño 2
 Nudilleras de latón
 Empuñadura pesada
 Nudillos de Moneda
@@ -287,8 +287,8 @@ Weapon 0x11D
 Weapon 0x11E
 Weapon 0x11F
 Weapon 0x120
-(prov) Two-hand 1
-(prov) Two-hand 2
+(prov) Dos manos 1
+(prov) Dos manos 2
 Katana de imitación
 Espada larga
 Palo de titanio
@@ -303,12 +303,12 @@ Caladbog
 Tobi-botaru
 Galatina
 Espada de Laberinto
-Mithril Club
+Club Mithril
 Usumidori
-Masakado Sword
+Espada Masakado
 Espada de Kishido
 Weapon 0x135
-Bone Sword
+Espada de hueso
 Weapon 0x137
 Weapon 0x138
 Weapon 0x139
@@ -319,26 +319,26 @@ Weapon 0x13D
 Weapon 0x13E
 Weapon 0x13F
 Weapon 0x140
-(prov) Legs 1
-(prov) Legs 2
+(prov) Piernas 1
+(prov) Piernas 2
 Calzado de cuero
-Safety Shoes
+Calzado de seguridad
 Zapatillas altas
-Dinosaur Legs
+Piernas de dinosaurio
 Gusoku nanman
 Botas de Cobra
 Calzado para montar
 Bishamonten
-Confusion Boots
+Botas de confusión
 Calzado de acero
 Calzado bonito
 Botas de Vidar
 Slepinir
 Sandalias de Moisés
-Stellar Greaves
+Grebas Estelares
 Grebas de Reigan
 Weapon 0x153
-Verdure Greaves
+Grebas de Verdor
 Furinkazan
 Weapon 0x156
 Weapon 0x157
@@ -351,26 +351,26 @@ Weapon 0x15D
 Weapon 0x15E
 Weapon 0x15F
 Weapon 0x160
-(prov) Fan 1
-(prov) Fan 2
+(prov) Abanico 1
+(prov) Abanico 2
 Abanico de Noh
 Kyo Sensu
 Hanachirusato
-Downpour Fan
-Fortified Tessen
+Abanico de Tormenta
+Tessen Fortificada
 Aban. de inversión
 Suzumushi
 De máscaras
-Suzaku Fan
+Abanico Suzaku
 Juli-sen
 Mogari-Bue
 Dama veleidosa
-Treasure Fan
+Abanico del Tesoro
 Pieta
 Yume-no-Hashi
-Primordial Sea
+Mar Primordial
 Weapon 0x173
-Great Bird Fan
+Abanico del Gran Ave
 Weapon 0x175
 Weapon 0x176
 Weapon 0x177
@@ -383,12 +383,12 @@ Weapon 0x17D
 Weapon 0x17E
 Weapon 0x17F
 Weapon 0x180
-(prov) Claw 1
-(prov) Claw 2
-Spiky Claw
-Kittycat Claw
+(prov) Garra 1
+(prov) Garra 2
+Garra Espinosa
+Garra de Gatito
 Garra osezna
-Tyranno Claw
+Garra de Tyranno
 Kazegiri
 Rompemoldes
 Garra de Trueno
@@ -399,10 +399,10 @@ Fuuma Bundou
 Garra Peligrosa
 Garra de platino
 El Destripador
-7-Star Claw
+Garra 7-Estrellas
 Garra Vengativa
 Weapon 0x193
-Drunkard Claw
+Garra de borracho
 Weapon 0x195
 Weapon 0x196
 Weapon 0x197
@@ -415,8 +415,8 @@ Weapon 0x19D
 Weapon 0x19E
 Weapon 0x19F
 Weapon 0x1A0
-(prov) Plate 1
-(prov) Plate 2
+(prov) Placa 1
+(prov) Placa 2
 Silla plegable
 Placa de hierro
 Placa de acero
@@ -425,16 +425,16 @@ Tabla dura
 Placa de oro
 Escudo Circular
 Escudo Soñoliento
-Alloy Plate
+Placa de Aleación
 Escudo Jet
 Onigawara
-Galahad's Shield
+Escudo de Galahad
 Asturias
 Escudo de Sabiduría
 Espejo de Cristo
 Tabla del Destino
 Weapon 0x1B3
-Origin Stone
+Piedra del Origen
 Weapon 0x1B5
 Weapon 0x1B6
 Weapon 0x1B7
@@ -447,17 +447,17 @@ Weapon 0x1BD
 Weapon 0x1BE
 Weapon 0x1BF
 Weapon 0x1C0
-(prov) Gun 1
-(prov) Gun 2
+(prov) Pistola 1
+(prov) Pistola 2
 Nambu 2
-Smith Gun
+Pistola de Smith
 Pacificador
 Toro salvaje
 Endecha escarlata
 Algernon
 44 Anaconda
 Pistola Escudera
-Sci-fi Raygun
+Arma de Rayos
 Camello rojo
 Corazón cromado
 Pistola Mágica
@@ -466,7 +466,7 @@ Juez del infierno
 Agujero negro
 Pistola Megido
 Weapon 0x1D3
-Baby Arquebus
+Arcabuz Pequeño
 Weapon 0x1D5
 Weapon 0x1D6
 Weapon 0x1D7
@@ -479,9 +479,9 @@ Weapon 0x1DD
 Weapon 0x1DE
 Weapon 0x1DF
 Weapon 0x1E0
-(prov) Dagger 1
-(prov) Dagger 2
-(prov) Dagger 3
+(prov) Daga 1
+(prov) Daga 2
+(prov) Daga 3
 Llave inglesa
 Kunai venenoso
 Machete
@@ -511,12 +511,12 @@ Weapon 0x1FD
 Weapon 0x1FE
 Weapon 0x1FF
 Weapon 0x200
-(prov) One-hand 1
-(prov) One-hand 2
-(prov) One-hand 3
-(prov) One-hand 4
-(prov) One-hand 5
-Shortsword
+(prov) Una mano 1
+(prov) Una mano 2
+(prov) Una mano 3
+(prov) Una mano 4
+(prov) Una mano 5
+Espada corta
 Tizona
 Nagawakizashi
 Shishioh
@@ -528,7 +528,7 @@ Excalibur
 Deus Xiphos
 Weapon 0x210
 Falcata
-Unmarked Sword
+Espada Sin Marcas
 Weapon 0x213
 Weapon 0x214
 Weapon 0x215
@@ -552,13 +552,13 @@ Arco de Espiral
 Shigetou-yumi
 Arco del Silencio
 Higo-yumi
-Fuuma Longbow
-Artemis Bow
-Hydravenom Bow
+Arco Largo Fuuma
+Arco de Artemis
+Arco de Hidravenom
 Pleiades
 Arco de Hades
-Tomoe's Bow
-Origin Bow
+Arco de Tomoe
+Arco de Origen
 Weapon 0x231
 Arco de Quint
 Weapon 0x233
@@ -575,19 +575,19 @@ Weapon 0x23D
 Weapon 0x23E
 Weapon 0x23F
 Weapon 0x240
-(prov) Rapier 1
-(prov) Rapier 2
-(prov) Rapier 3
-(prov) Rapier 4
+(prov) Estoque 1
+(prov) Estoque 2
+(prov) Estoque 3
+(prov) Estoque 4
 Espada ropera
 Rapier de Plata
 Florete
 Espada Ropera
-Shadow Dancer
+Bailarina de sombras
 Cuchilla Eterna
 Estilete
 Estoque Sangriento
-Final Estoc
+Estoc Final
 Illuminati
 Rapier de Damasco
 Kokuseki Senjin
@@ -607,10 +607,10 @@ Weapon 0x25D
 Weapon 0x25E
 Weapon 0x25F
 Weapon 0x260
-(prov) Spear 1
-(prov) Spear 2
-(prov) Spear 3
-(prov) Spear 4
+(prov) Lanza 1
+(prov) Lanza 2
+(prov) Lanza 3
+(prov) Lanza 4
 Yari
 Lanza Sexy
 Frámea
@@ -618,8 +618,8 @@ Escorpión
 Ouka Jumonji
 Oomiyari
 Ote-gine
-Trident
-Romulus's Spear
+Tridente
+Lanza de Rómulo
 Tonbokiri
 Pinaka
 Gae Bolg
@@ -645,15 +645,15 @@ Weapon 0x280
 (prov) Blunt 4
 Mazazo
 Nirili
-Megaton Hammer
+Martillo Megatón
 Acosador Nocturno
-Rocket Hammer
-The Pulverizer
+Martillo Cohete
+El Pulverizador
 Poste de autobús
 Ukonvasara
 Eliminador
 Mjolnir
-Warlord Hammer
+Martillo de Guerra
 Caduceus
 Weapon 0x291
 Mazo de Ogro
@@ -684,10 +684,10 @@ Axion IG
 Obús de Cal
 Beso de Atenea
 Pandemonio
-Antimatter Gun
-Metatronius
+Pistola antimateria
+Metatronio
 Weapon 0x2B0
-Grenade 80
+Granada 80
 Sexta Ráfaga
 Weapon 0x2B3
 Weapon 0x2B4
@@ -746,52 +746,52 @@ Weapon 0x2E8
 Weapon 0x2E9
 Weapon 0x2EA
 Weapon 0x2EB
-Old Mic
-Old Armband
-Old Mallet
-Old Knuckles
-Old Cross Spear
-Old Rapier
-Old Practice Bow
-Old Shortsword
-Old Chalk
-Old Albireo
-Old Spikefist
-Old Nambu 2
-Old Folding Chair
-Old Kyo Sensu
-Old Shoes
-Old Sylph Blade
-Old Wrench
-Old Faux Katana
-Old Golf Club
+Micrófono viejo
+Brazalete antiguo
+Viejo Mazo
+Nudillos viejos
+Lanza de Cruz Vieja
+Estoque antiguo
+Arco de práctica
+Espada corta antigua
+Tiza vieja
+Viejo Albireo
+Viejo Spikefist
+Viejo Nambu 2
+Vieja silla plegable
+Viejo Kyo Sensu
+Zapatos viejos
+Cuchilla vieja Sylph
+Llave inglesa vieja
+Katana de imitación
+Club de golf antiguo
 Weapon 0x2FF
 Armor Start
-Novelty Hoodie
-Staff Sweater
+Sudadera con capucha
+Suéter de personal
 Armor 0x303
-Puffy Down Coat
-Fitted Chainmail
-Aramid Vest
+Abrigo de plumas
+Cota de malla
+Chaleco de aramida
 Protección de vida
 Camo Poncho
 Armor 0x309
-Enhanced Armor
+Armadura reforzada
 Armadura resistente
 (prov) Unisex 6
-Camiseta de esperanza
-Soul Vest
+Camisa de esperanza
+Chaleco del alma
 Armadura ópera
-Egoist Coat
-Vogue Vest
+Abrigo egoísta
+Chaleco Vogue
 Camiseta etérea
 Armadura de Káiser
 Túnica papal
 Armor 0x315
-Resistance Armor
-Unity Shirt
-Growth Shirt
-Trendy Shirt
+Armadura resistencia
+Camisa de Unidad
+Camisa crecimiento
+Camisa de moda
 (prov) D2 Spd Amr
 (prov) D2 Res Amr
 Armor 0x31C
@@ -818,10 +818,10 @@ Armor 0x330
 Armor 0x331
 Armor 0x332
 Armor 0x333
-Shoulder Vest
+Chaleco de hombro
 Chaqueta Alambrada
 Armor 0x336
-Hero Tights
+Mallas de héroe
 Jinbei Varonil
 Armor 0x339
 Cinturón de Tigre
@@ -831,7 +831,7 @@ Doumaru
 Chaleco de Gigas
 Armor 0x33F
 Jersey de la pasión
-Crusader Plate
+Placa Crusader
 Calzones Heróicos
 Placa de desesperac.
 Jin-Baori entero
@@ -839,25 +839,25 @@ Armadura Sagrada
 Armor 0x346
 Armor 0x347
 Traje morado
-Superstar Attire
+Ropa superestrella
 Armor 0x34A
 Armor 0x34B
 Armor 0x34C
 Armor 0x34D
 Armor 0x34E
 Armor 0x34F
-Master Thief
-Gold Sneak Suit
+Maestro ladrón
+Traje Sneak dorado
 Shajinbaori
-White Regalia
+Regalia blanca
 Cuello de Héroe
 Atuendo de Fuuma
 Tokkoufuku Dorado
-Magnet Bearsuit
+Traje de imán
 Chaqueta Monarca
 Armadura Valiente
 Traje Sirio
-Hero Hoodie
+Sudadera de Héroe
 Haori Lunar
 Armor 0x35D
 Armor 0x35E
@@ -868,16 +868,16 @@ Armor 0x362
 Armor 0x363
 Armor 0x364
 Armor 0x365
-Primary Cat Suit
+Traje primario
 Armor 0x367
-Enchanted Cami
-Steel Bunny Suit
+Cami encantado
+Conejito de acero
 Armor 0x36A
-Utility Apron
-Primal Bikini
+Delantal de trabajo
+Bikini Primal
 Armor 0x36D
-Witchy Dress
-Futuristic Tights
+Vestido de bruja
+Mallas futuristas
 Túnica magnífica
 (prov) Female 7
 Tutú de brisa
@@ -885,19 +885,19 @@ Bra-Peligro
 Vestido de runas
 Mini invencible
 Túnica de Haten
-Eternity Dress
+Vestido Eterno
 Armor 0x378
 Armor 0x379
-7-Fold Yukata
-New Year Kimono
+Yukata 7-pliegues
+Kimono de Año Nuevo
 Armor 0x37C
 Armor 0x37D
 Armor 0x37E
 Armor 0x37F
-Crimson Leotard
-Lord's Dress
-Beauty Thief
-Wasteland Robe
+Leotardo carmesí
+Vestido de Señor
+Ladrona de Belleza
+Túnica Wasteland
 Manto Solar
 Kimono de Rubíes
 Vestido Negro
@@ -919,30 +919,30 @@ Armor 0x395
 Armor 0x396
 Jersey de gato
 Bufanda de brisa
-Steel Scarf
-Red Scarf
-Grassland Scarf
+Bufanda de acero
+Bufanda roja
+Bufanda de pradera
 E-Collar
-Beast's Scarf
-Flowing Scarf
-Artistic Scarf
-Magical Scarf
-Solar Wind Scarf
+Bufanda de Bestia
+Bufanda fluida
+Bufanda artística
+Bufanda mágica
+Bufanda Solar
 Collar de Id.
 Collar homenaje
-Master's Scarf
-Killer Collar
+Bufanda de Maestro
+Collar asesino
 Collar sublime
-Gorgeous Collar
-Nekomata Coat+
+Collar precioso
+Abrigo Nekomata+
 Armor 0x3A9
-Guard Scarf
-Trendy Scarf
-Fluffy Scarf
+Bufanda Guarda
+Bufanda de moda
+Bufanda mullida
 Armor 0x3AD
 Armor 0x3AE
 Armor 0x3AF
-Archangel Scarf
+Bufanda Arcángel
 Armor 0x3B1
 Armor 0x3B2
 Armor 0x3B3
@@ -951,20 +951,20 @@ Armor 0x3B4
 (prov) Koromaru 2
 (prov) Koromaru 3
 (prov) Koromaru 4
-Dotted Dog Suit
-Cross Dog Suit
-Guard Dog Suit
-Tech Dog Suit
-Metal Dog Suit
-Sky Dog Suit
-Marine Dog Suit
-Star Dog Suit
-Luna Dog Suit
-Solar Dog Suit
-Cosmos Dog Suit
-Light Dog Suit
-Soft Mane
-Ebony Dog Suit
+Traje Lunar
+Traje Cruzado
+Traje Guardián
+Traje Técnico
+Traje metálico
+Traje Sky
+Traje marino
+Traje estrella
+Traje Luna
+Traje solar
+Traje Cosmos
+Traje ligero
+Melena suave
+Traje de Ébano
 Armor 0x3C7
 Armor 0x3C8
 (prov) Aigis 1
@@ -982,18 +982,18 @@ Armadura Aigis V3
 Cuerpo Elemental
 Armadura Aigis V0
 D3 Aigis EX
-Frilled Armor
+Armadura de franjas
 Armadura Aigis V100
 Armor 0x3DA
 Armor 0x3DB
-Default Armor
+Armadura por defecto
 Cam. interior oscura
-Printed T-Shirt
-4-Leaf Hoodie
-White Shirt
+Camisa estampada
+Sudadera 4 hojas
+Camisa blanca
 Camisa de vestir
 Pañoleta
-Noble Blouse
+Blusa Noble
 Top rosa
 Jersey de cuello alto
 Camiseta
@@ -1008,13 +1008,13 @@ Bolero Largo
 Camisa larga
 Blusa con Volantes
 Chaleco de Lana
-Silk Dog Suit
+Traje de seda
 Suéter Encapuchado
 Abrigo Naval
 Armadura Aigis
 Mods Coat
-Rise Armor
-Fuuka Armor
+Armadura de Rise
+Armadura de Fuuka
 Tweeds Iguales
 Armor 0x3FA
 Armor 0x3FB
@@ -1024,71 +1024,71 @@ Armor 0x3FE
 Armor 0x3FF
 Accessories Start
 Monóculo
-Anti-Fire Charm
-Anti-Ice Charm
-Anti-Elec Charm
-Anti-Wind Charm
-Red Ring
-Red Bangle
-Black Ring
-Black Bangle
-White Ring
-White Bangle
-Blue Ring
-Blue Bangle
-Gold Ring
-Gold Bangle
+Amuleto Anti-Fuego
+Amuleto Anti-Hielo
+Amuleto Anti-Elec
+Amuleto Anti-Viento
+Anillo rojo
+Brazalete rojo
+Anillo negro
+Brazalete negro
+Anillo blanco
+Brazalete blanco
+Anillo azul
+Brazalete azul
+Anillo de oro
+Brazalete de oro
 Acc 0x410
-Scarlet Ring
-Scarlet Bangle
-Ebon Ring
-Ebon Bangle
-Ivory Ring
-Ivory Bangle
-Azure Ring
-Azure Bangle
-Golden Ring
-Golden Bangle
+Anillo Escarlata
+Brazalete escarlata
+Anillo de ébano
+Brazalete de ébano
+Anillo de marfil
+Brazalete de marfil
+Anillo Azure
+Brazalete Azure
+Anillo de oro
+Brazalete dorado
 Acc 0x41B
-X Fire Ring
-X Fire Bangle
-X Ice Ring
-X Ice Bangle
-X Wind Ring
-X Wind Bangle
-X Elec Ring
-X Elec Bangle
+Anillo de fuego X
+Brazalete de fuego X
+Anillo de hielo X
+Brazalete de hielo X
+Anillo de viento X
+Brazalete viento X
+Anillo eléctrico X
+Pulsera eléctrica X
 Acc 0x424
-Red Circlet
-Red Pin
-Black Circlet
-Black Pin
-White Circlet
-White Pin
-Blue Circlet
-Blue Pin
-Gold Circlet
-Gold Pin
+Collar rojo
+Pin rojo
+Collar negro
+Pin Negro
+Collar blanco
+Pin Blanco
+Collar azul
+Pin azul
+Collar de oro
+Pin de oro
 Acc 0x42F
-Crimson Circlet
-Crimson Pin
-Ebon Circlet
-Ebon Pin
-Ivory Circlet
-Ivory Pin
-Azure Circlet
-Azure Pin
-Golden Circlet
-Golden Pin
+Collar carmesí
+Pin Carmesí
+Collar de ébano
+Pin de ébano
+Collar de marfil
+Pin de marfil
+Collar de Azure
+Pin de Azure
+Collar de oro
+Pin de oro
 Acc 0x43A
-X Fire Circlet
-X Fire Pin
-X Ice Circlet
-X Ice Pin
-X Wind Circlet
-X Wind Pin
-X Elec Circlet
-X Elec Pin
+Collar de Fuego X
+Pin de Fuego X
+Collar de Hielo X
+Pin de Hielo X
+Collar de Viento X
+Pin de Viento X
+Collar Elec. X
+Pin Elec. X
 Acc 0x443
 Crimson Sash
 Crimson Charm

@@ -46,6 +46,7 @@ $show_font = array(
     "ロ" => "Ó",
     "ヮ" => "Ú",
     "ヰ" => "Ñ",
+    "↓" => "ü",
 );
 
 $small_font = array(

@@ -227,3 +227,4 @@
 | Sooty Film | Pel胤cula de Holl胤n | # Cambiar a "Cinta?"
 | piece of film |trozo de pel胤cula |
 | proximity gauge | medidor de proximidad |
+| punishment exhibition | exposición de castigo |
