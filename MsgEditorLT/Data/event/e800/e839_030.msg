@@ -1,175 +1,175 @@
 [msg MSG_000 [Cheerful Flower]]
-Ohhh... The glorious sun wheels across[n]the sky...
+Ohhh... El sol glorioso rueda por el cielo...
 
 [msg MSG_001 [Relaxed Flower]]
-While the birds a-twitter welcome it[n]nigh.
+Mientras los pホjaros le dan la bienvenida.
 
 [msg MSG_002 [Cheerful Flower]]
-And I behold it with mine worshipful[n]eye...
+Y lo contemplo con mis adorados ojos...
 
 [msg MSG_003 [Ryuji]]
-What!? The voices came from these[n]things!?
+ムメQu〒?! ムメLas voces salieron de esas cosas?!
 
 [msg MSG_004 [P3 Fem Protag]]
-They must be the flowers we were looking[n]for. They might know something,[n]Elizabeth said.
+Deben de ser las flores que estホbamos buscando. Elizabeth dijo que podrボan saber algo.
 
 [msg MSG_005 [Naoto]]
-But is it even possible for us to[n]communicate with them?
+メPero es acaso posible comunicarnos con ellas?
 
 [sel SEL_006 top]
-They seem to have good vocabulary!
-Won't know until we try.
+ムParece que tienen un buen vocabulario!
+No lo sabremos hasta que lo intentemos.
 
 [msg MSG_007 [Ryuji]]
-Yeah. They don't look dangerous, so[n]might as well give it a go.
+Sボ. No parecen peligrosas, asボ que podrボamos intentarlo.
 
 [msg MSG_008 [Yosuke]]
-All right, show us how it's done.
+Muy bien, mu〒stranos cポmo se hace.
 
 [msg MSG_009 [Ryuji]]
-Okay. Um... hey, uh, buddy. Bud! Hey,[n]bud, you got a sec? We're lookin' for[n]something.
+De acuerdo. Em... ey, eh, amigo. ムColega! Ey, amigo, メtienes un segundo? Estamos buscando algo. 
 
 [msg MSG_010 [Relaxed Flower]]
-You're a strange-looking flower.
+Eres una flor muy rara.
 
 [msg MSG_011 [Cheerful Flower]]
-But look how his pollen shines in the[n]sun!
+ムPero mira como su polen brilla al sol!
 
 [msg MSG_012 [Ryuji]]
-That's not pollen, it's my hair, ya[n]weirdo. Anyways, we're looking for this[n]thing...
+Eso no es polen, es mi pelo, bicho raro. De todos modos, estamos buscando esta cosa...
 
 [msg MSG_013 [Relaxed Flower]]
-Sing with us, fair blossom!
+ムCanta con nosotros, flor hermosa!
 
 [msg MSG_014 [Ryuji]]
-I am NOT a "fair blossom"!
+ムNO soy una "flor hermosa"!
 
 [msg MSG_015 [Cheerful Flower]]
-Praise the golden sun in the heavenly[n]firmament!
+ムAlabado sea el sol dorado en el firmamento celestial!
 
 [msg MSG_016 [Ryuji]]
-There is no sun or heavenly firmament[n]here! WILL YOU LISTEN!?
+ムAquボ no hay ni sol ni un firmamento celestial! ムメQUIEREN ESCUCHAR?!
 
 [msg MSG_017 [Ryuji]]
-Sorry guys... But they're delusional...
+Lo siento chicos... Pero estホn delirando...
 
 [msg MSG_018 [Yukiko]]
-D-Don't worry about it... hehe... At[n]least you've still got your pollen-y[n]hair.
-When you go bald you can just blame the[n]bees for carrying your hair away.
-Hahaha! Oh, that's funny... *snort*[n]BWHAHAHAHAHAHAHAHA!
+N-No te preocupes por eso... je, je... Al menos sigues teniendo tu pelo de polen.
+Cuando te quedes calvo, puedes culpar a las abejas por llevarse tu pelo.
+ムJa, ja, ja! Oh, es tan gracioso... ムBUAJAJAJAJAJAJAJAJA!
 
 [msg MSG_019 [Ryuji]]
-Shut up, it's not THAT funny!
+Cホllate, ムno es TAN gracioso!
 
 [msg MSG_020 [Chie]]
-Oh, don't even try. Once Yukiko's been[n]set off, there's no stopping her[n]giggles.
+Oh, ni lo intentes. Una vez que Yukiko empieza, no hay quien pare sus risas.
 
 [msg MSG_021 [Junpei]]
-Hey, why don't you let me handle this?
-With my powers of persuasion, I'll[n]sweet-talk them into spilling the beans!
+Ey, メpor qu〒 no me dejan encargarme de esto?
+Con mis poderes de persuasiポn, ムles convencer〒 para que cuenten todo!
 
 [msg MSG_022 [Junpei]]
-Why hello there, lovelies!
-May I just say that you smell just[n]gorgeous today! Such an odor!
+ムHola, queridas!
+ムPuedo decir que hoy huelen de maravilla! ムMenudo aroma!
 
 [msg MSG_023 [Relaxed Flower]]
-Well, I never! What an incredibly[n]inappropriate thing to say!
+ムVaya, nunca me habボa pasado! ムQu〒 cosa tan increボblemente inapropiada para decir!
 
 [msg MSG_024 [Cheerful Flower]]
-Didn't your mother teach you any manners[n]when you were a seed?
+メAcaso tu madre no te enseワポ modales cuando eras una semilla?
 
 [msg MSG_025 [Junpei]]
-Huh? Wait, wha?
+メEh? Espera, メqu〒?
 
 [msg MSG_026 [Relaxed Flower]]
-Back to singing! Ahem... When the rays[n]shine down on me I rejoice...
+ムVolved a cantar! Ejem... Cuando los rayos brillan sobre mボ me regocijo...
 
 [msg MSG_027 [Junpei]]
-Hey, come on! I just wanna ask about[n]this thing we're looking for...
+ムEy, vamos! Solo quiero preguntaros por esa cosa que estamos buscando...
 
 [msg MSG_028 [Cheerful Flower]]
-For time eternal, we all bask in this[n]sun by choice.
+Durante un tiempo eterno, todos tomamos el sol por elecciポn propia.
 
 [msg MSG_029 [Junpei]]
 ...
 
 [msg MSG_030 [Junpei]]
-Um... They're bein' really cagey...
+Em... Estホn siendo muy cautelosas...
 
 [msg MSG_031 [Akihiko]]
-What happened to your incredible powers[n]of persuasion?
+メQu〒 ha ocurrido con tus increボbles poderes de persuasiポn?
 
 [msg MSG_032 [Junpei]]
-Dude, they can't be reasoned with!
+ムBro, no se puede razonar con ellas!
 
 [msg MSG_033 [Yosuke]]
-Time to switch out! I'll go next!
-After all, I really honed my people[n]skills at Junes.
+ムHora de cambiar! ムSer〒 el siguiente!
+Al fin y al cabo, en el Junes perfeccion〒 mi don de gentes.
 
 [msg MSG_034 [Teddie]]
-Woooo! You go, Yosuke!
+ムWoooo! ムVamos, Yosuke!
 
 [msg MSG_035 [Yosuke]]
-Watch and learn!
-WELLLLLLLCOME!
+ムVean y aprendan!
+ムBIENNNNNNVENIDAS!
 
 [msg MSG_036 [Yosuke]]
-Hm, that always worked at Junes...
-I don't get it; they just kept singing[n]those words. Which seem to be a metaphor[n]for something...?
+Hm, eso siempre funcionaba en el Junes...
+No lo entiendo; ellas siguen cantando esas letras. Que parecen ser una metホfora de algo...
 
 [msg MSG_037 [Chie]]
-Maybe something in Hikari-chan's mind...[n]But what're we supposed to do now?
-We're not getting anywhere at this rate.[n]Anybody have any other bright ideas?
+Tal vez algo en la mente de Hikari... メPero qu〒 se supone que debemos hacer ahora?
+No vamos a llegar a ningマn sitio a este ritmo. メAlguien tiene alguna otra brillante idea?
 
 [msg MSG_038 [Yosuke]]
-We don't have any other leads...
-We don't know anything else about the[n]"black thing"...
+No tenemos ninguna otra pista...
+No sabemos nada mホs sobre la "cosa negra"...
 
 [msg MSG_039 [Relaxed Flower]]
-Oh, you want to know about the black[n]thing?
+Oh, メquieres saber sobre la cosa negra?
 
 [msg MSG_040 [Cheerful Flower]]
-Well, well. Why didn't you just say so?
+Bueno, bueno. メPor qu〒 no nos lo dijiste?
 
 [msg MSG_041 [Yosuke]]
-Oh, now they respond!?
+Oh, ムメahora responden?!
 
 [msg MSG_042 [Ryuji]]
-Shut up, Yosuke! Hey, buds, what exactly[n]is the "black thing"? Where can we find[n]it?
+ムCホllate, Yosuke! Ey, amigas, メqu〒 es exactamente esa "cosa negra"? メDポnde podemos encontrarla?
 
 [msg MSG_043 [Relaxed Flower]]
-Hehehehehe. The "black thing" was taken[n]away.
+Je, je, je, je, je. Se llevaron la "cosa negra".
 
 [msg MSG_044 [Cheerful Flower]]
-And taken down below.
+Y fue llevada abajo.
 
 [msg MSG_045 [Relaxed Flower]]
-They wanted it all to themselves.
+Lo querボan todo para ellos.
 
 [msg MSG_046 [Chie]]
-Um... I don't really get what they're[n]saying, but basically there might be[n]something down below?
+Em... No entiendo lo que estホn diciendo, pero, メpodrボa haber algo abajo?
 
 [msg MSG_047 [Ryuji]]
-Hikari, does this ring any bells for[n]you?
-Or do you, like, sense anything[n]underground?
+Hikari, メte suena de algo?
+メO sientes algo bajo tierra?
 
 [msg MSG_048 [Hikari]]
-Um... It's only a vague feeling, but I[n]do sense something around here.
+Em... Es solo un sentimiento vago, pero siento algo por aquボ.
 
 [msg MSG_049 [Hikari]]
-I can't explain it...
+No puedo explicarlo...
 
 [msg MSG_050 [Akechi]]
-You don't have to. This whole movie is[n]based on your mind, Hikari-san.
-We should investigate whatever feeling[n]you get, no matter how vague.
+No tienes que hacerlo. Toda esta pelボcula estホ basada en tu mente, Hikari.
+Debemos de investigar cualquier sensaciポn que tengas, por leve que sea.
 
 [msg MSG_051 [Yosuke]]
-Sit tight, Hikari-chan. We'll find[n]whatever it is you're looking for.
+No te muevas, Hikari. Encontraremos lo que sea que est〒s buscando.
 
 [msg MSG_052 [Hikari]]
-Thank you so much... It's such a relief[n]to have everyone's help.
+Muchボsimas gracias... Es un alivio contar con la ayuda de todos.
 
 [msg MSG_053 [Junpei]]
-So we gotta be sure to mention "black[n]thing" wherever we go!
-After all, other flowers might know more[n]about it. Let's try searching on the[n]floor below this one!
+ムAsボ que tenemos que asegurarnos de mencionar "cosa negra" allホ donde vallamos!
+Despu〒s de todo, otras flores podrボan saber mホs. ムIntentemos buscar en el piso de abajo!
 

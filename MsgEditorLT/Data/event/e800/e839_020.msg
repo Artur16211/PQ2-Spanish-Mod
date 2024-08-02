@@ -1,34 +1,34 @@
 [msg MSG_000 [Yosuke]]
-All right then... Where should we start[n]looking?
-I mean this place is huge, so we don't[n]want to just wander around aimlessly.
+Muy bien, entonces... メPor dポnde deberボamos de empezar a buscar?
+Quiero decir, este lugar es enorme, asボ que no queremos viajar sin rumbo.
 
 [msg MSG_001 [Mitsuru]]
-Agreed. We were told that the "flowers"[n]would be a clue. So let's start with[n]them.
+De acuerdo. Nos dijeron que las "flores" serボan una pista. Asボ que empecemos por ellas.
 
 [msg MSG_002 [P3 Hero]]
-Well, except there are "flowers"[n]everywhere you look.
+Bueno, excepto que hay "flores" mires por donde mires.
 
 [msg MSG_003 [Ryuji]]
-Can you sense anything, Hikari? Even[n]just a vague direction?
+メPuedes sentir algo, Hikari? メAunque sea una direcciポn algo vaga?
 
 [msg MSG_004 [Hikari]]
-Um... Sorry, I don't feel anything...
+Em... Perdポn, no siento nada...
 
 [msg MSG_005 [???]]
-Hey hey. Have you heard the news?
+Ey, ey. メHan escuchado las noticias?
 
 [msg MSG_006 [???]]
-Now, now. You couldn't possibly be[n]talking about the "black thing," right?
+Ya, ya. No puedes estar hablando sobre la "cosa negra", メverdad?
 
 [msg MSG_007 [???]]
-Hahaha... Yes, I heard those rumors! I[n]heard all about the "black thing" that[n]girl was carrying, yes sirree!
+Ja, ja, ja... Sボ, ムhe escuchado esos rumores! He oボdo todo sobre esa "cosa negra" que llevaba esa chica, ムsボ seワor!
 
 [msg MSG_008 [???]]
-Hohoho... Let me assure you, it is I who[n]knows all about the "black thing" the[n]girl was carrying!
+Jo, jo, jo... ムD〒jame asegurarte que yo soy quien sabe todo acerca de la "cosa negra" que llevaba la chica!
 
 [msg MSG_009 [P4 Hero]]
-Those voices! Where are they coming[n]from?
+ムEsas voces! メDe dポnde vienen?
 
 [msg MSG_010 [Yosuke]]
-We've gotta find out!
+ムTendremos que averiguarlo!
 

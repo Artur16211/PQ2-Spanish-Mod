@@ -1,47 +1,47 @@
 [msg MSG_000 [Elizabeth]]
-Now then, for this special screening,[n]you will seek a lost, but most cherished[n]possession of Hikari's...
-The only wrinkle is... nobody knows what[n]she lost!
+Ahora, para esta proyecciポn especial, buscarホn una posesiポn perdida, pero muy valiosa para Hikari...
+El マnico inconveniente es que... ムnadie sabe qu〒 ha perdido!
 
 [msg MSG_001 [Hikari]]
-I know it was really, really special.
+S〒 que era muy, muy especial.
 
 [msg MSG_002 [Elizabeth]]
-Twinkle, twinkle, item of Hikari, how I[n]wonder what you might be...
-Somewhere in her movie's scene, like a[n]film star on the screen...
-But I digress. I imagine you will need[n]to look around for likely contenders in[n]the movie.
+Objeto de Hikari, dポnde estホs, me pregunto que serホs...
+En alguna escena de su pelボcula, una estrella de cine de verdad...
+Pero me estoy desviando. Imagino que tendrホn que buscar posibles candidatos en la pelボcula.
 
 [msg MSG_003 [Yosuke]]
-You really think we should go in with no[n]idea what we're looking for?
-I guess we can handle the fighting and[n]exploring, but... Will you know what[n]we're looking for, Hikari-chan?
+メEn serio piensas que deberボamos ir sin ninguna idea de lo que estamos buscando?
+Supongo que podemos encargarnos de la lucha y la exploraciポn, pero... メSabrホs lo que estamos buscando, Hikari?
 
 [msg MSG_004 [Hikari]]
-...Yeah, I think I'm slowly starting to[n]remember. Sorry I can't be more reliable[n]than that.
+... Sボ, creo que me estoy empezando a acordar poco a poco. Perdポn por no ser mホs fiable.
 
 [msg MSG_005 [Junpei]]
-No need to feel guilty! Relax, relax!
+ムNo te sientas culpable! ムRelax, relax!
 
 [msg MSG_006 [Makoto]]
-So the movie we're entering is "Hikari,"[n]right?
-Can you at least remember where in the[n]movie it might be?
+Entonces la pelボcula en la que entramos es "Hikari", メcierto?
+メPuedes al menos recordar en qu〒 lugar de la pelボcula podrボa estar?
 
 [msg MSG_007 [Hikari]]
-I'm sorry... I don't know...
+Lo siento... No lo s〒...
 
 [msg MSG_008 [Elizabeth]]
-And on that discouraging note, let's all[n]pay attention to me now, shall we?
-According to this super-secret book that[n]never leaves my hands...
-The flowers in that movie might give you[n]a clue to the whereabouts of your[n]quarry.
+Y con esa nota desalentadora, pongamos toda la atenciポn en mボ ahora, メde acuerdo?
+Segマn este libro supersecreto que nunca sale de mis manos...
+Las flores de esa pelボcula podrボan darles una pista sobre el paradero de su presa.
 
 [msg MSG_009 [Ryuji]]
-The flowers? You mean those things with[n]faces? That look like singing toys?
+メLas flores? メTe refieres a esas cosas con cara? メEsos que parecボan juguetes que cantaban?
 
 [msg MSG_010 [Hikari]]
-They can give clues? What do you mean?
+メPueden dar pistas? メA qu〒 te refieres?
 
 [msg MSG_011 [Elizabeth]]
-What do I mean? Not even I know, hehe.[n]You'll just have to go out there and[n]see.
+メQue a qu〒 me refiero? Ni yo lo s〒, je, je. Tendrホn que ir y verlo.
 
 [msg MSG_012 [Junpei]]
-Yeah, we'll figure it out once we get[n]there, guys! I mean, seein' is[n]believin', right?
-Uh, as long as someone else figures out[n]how to get there! Where are we going[n]again?
+ムSボ, lo averiguaremos una vez que lleguemos allボ, chicos! Quiero decir, ver para creer, メno?
+Uh, ムsiempre y cuando alguien averigüe cポmo llegar allボ! メA dポnde vamos otra vez?
 

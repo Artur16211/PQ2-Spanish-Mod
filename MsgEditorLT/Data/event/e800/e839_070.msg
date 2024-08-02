@@ -1,127 +1,127 @@
 [msg MSG_000 [Elizabeth]]
-I am pleased to see that you were able[n]to successfully find the target item.
-And what wonderful friends you are[n]blessed with, Hikari, who will stand up[n]and fight on your behalf.
-What an unexpectedly touching film that[n]was. It was so intense that my tears are[n]positively endless.
+Me alegro de ver que pudieran encontrar el objeto exitosamente.
+Y qu〒 amigos tan maravillosos tienes, Hikari, que lucharホn por ti.
+Qu〒 pelボcula tan inesperadamente conmovedora. Fue tan intensa que mis lホgrimas no tienen fin.
 
 [msg MSG_001 [Yosuke]]
-Uh, you're not crying at all, though.
+Oh, aunque no estホs llorando en absoluto.
 
 [msg MSG_002 [Ryuji]]
-Hikari, what exactly was the item you[n]lost after all that?
+Hikari, despu〒s de todo, メqu〒 era exactamente el objeto que perdiste?
 
 [msg MSG_003 [Hikari]]
-Um... It was this.
+Um... Era esto.
 
 [msg MSG_004 [Junpei]]
-Ohh, I've seen one of those before! It's[n]that thing you use in movies when you[n]say "Action!"
+Ohh, ムhe visto uno de estos antes! Es esa cosa que usan en las pelボculas cuando dicen "ムAcciポn!"
 
 [msg MSG_005 [Hikari]]
-Yeah, it's a clapboard. Just a toy one.
-When I was little, I used to pretend I[n]was a movie director. I took this with[n]me wherever I went.
-My dad gave it to me. It's... sort of my[n]treasure.
+Sボ, es una claqueta. Solo una de juguete.
+Cuando era pequeワa, la usaba para fingir que era una directora de cine. Me la llevaba a todos lados.
+Mi padre me lo dio. Es... algo como mi tesoro.
 
 [msg MSG_006 [Yosuke]]
-It sure sounds like a treasure. Good[n]thing you found it.
+Parece un tesoro. Qu〒 bien que lo encontraste.
 
 [msg MSG_007 [Hikari]]
-Yeah...
-Hanamura-kun, Sakamoto-kun, Iori- kun.[n]Thank you so much.
+Sボ...
+Hanamura, Sakamoto, Iori. Muchボsimas gracias.
 
 [msg MSG_008 [Ryuji]]
-No need to get all touchy-feely! Friends[n]help each other out, ya know!
+No hay necesidad de ponerse sentimental. Los amigos se ayudan, メsabes?
 
 [msg MSG_009 [Junpei]]
-For sure. In the world of Junpei Iori,[n]Ace Attentive, looking out for friends[n]is as important as any detective work.
-And unlike those two, I don't have any[n]ulterior motives, like wanting to show[n]off or be popular with girls, no sir.
+Por supuesto. En el mundo del Superconsiderado Junpei Iori, cuidar de los amigos es casi tan importante como cualquier trabajo detectivesco.
+Y a diferencia de esos dos, no tengo segundas intenciones, como querer presumir o ser popular entre las chicas, no seワor.
 
 [msg MSG_010 [Ryuji]]
-Way to ruin the moment, man!
+ムQu〒 manera de arruinar el momento, bro!
 
 [msg MSG_011 [Yosuke]]
-Shot down in flames... That's Junpei[n]Iori, Ace Self-Destructive for you...
+Quemado entre las llamas... Es Junpei Iori, Superdestructivo...
 
 [msg MSG_012 [Hikari]]
-*giggle* There never seems to be a dull[n]moment among you three.
-I think it's wonderful when anyone is[n]able to make others smile.
-That's why I'm so glad I met you. I hope[n]you never change.
+*risita* Nunca parece que haya un momento aburrido entre ustedes tres.
+Creo que es maravilloso cuando alguien puede hacer a otros sonreir.
+Es por eso por lo que estoy tan contenta de conoceros. Espero que nunca cambien.
 
 [msg MSG_013 [Ryuji]]
-Uh, y-yeah, sure thing. I'll try not to,[n]heh.
+Oh, s-sボ, claro. Intentar〒 no cambiar, je.
 
 [msg MSG_014 [Yosuke]]
-I, uh...
+Yo, eh...
 
 [msg MSG_015 [Junpei]]
-Heh, I s'pose it shouldn't be TOO hard[n]not to change.
+Je, supongo que no serホ TAN difボcil no cambiar.
 
 [msg MSG_016 [Chie]]
-Wow, they're so stiff just 'cause a girl[n]says something nice!
+ムVaya, se ponen tan rボgidos solo porque una chica les dice algo bonito!
 
 [msg MSG_017 [Yukari]]
-Typical boys.
+Tボpico de los chicos.
 
 [msg MSG_018 [Futaba]]
-Such is the tragic nature of the semi-[n]shameful trio.
+Tal es la trホgica naturaleza del trボo semi-vergonzoso.
 
 [msg MSG_019 [Hikari]]
-There's just one more request I have...
-I want you all to have this. As a token[n]of my thanks.
+Solo tengo una solicitud mホs...
+Quiero que todos tengan esto. Como muestra de mi agradecimiento.
 
 [msg MSG_020 [Ryuji]]
-Wait, for real!? Isn't it really[n]important to you?
+Espera, ムメen serio?! メNo es realmente importante para ti?
 
 [msg MSG_021 [Hikari]]
-That's exactly why I want you to take[n]it. I've made so many happy memories[n]with everyone.
-You've given me the courage to move[n]forward, and I want to express just how[n]grateful I am for that.
+Eso es exactamente por lo que quiero que ustedes se lo lleven. He hecho tantos recuerdos felices con todo el mundo.
+Me han dado el valor para seguir adelante, y quiero expresarles lo agradecida que estoy por ello.
 
 [msg MSG_022 [Yosuke]]
-Hikari-chan...
+Hikari...
 
 [msg MSG_023 [Junpei]]
-Ngh... Wait, timeout... there's dust in[n]my eye...
+Ngh... Espera, tiempo muerto... tengo polvo en el ojo...
 
 [msg MSG_024 [Ryuji]]
-All right then! If that's how you feel,[n]then we'll hold onto it for you.
-But honestly, I don't think what we've[n]done quite measures up to something that[n]means so much to you.
+ムMuy bien entonces! Si asボ es cポmo te sientes, entonces te lo guardaremos.
+Pero, sinceramente, no creo que lo que hemos hecho est〒 a la altura de algo que significa tanto para ti.
 
 [msg MSG_025 [Hikari]]
-Really...?
+メEn serio...?
 
 [msg MSG_026 [Yosuke]]
-Haha, he's right. That just means we[n]gotta make up the difference from here[n]on out!
+Ja, ja, tiene razポn. ムEso solo significa que tenemos que compensホrtelo de ahora en adelante!
 
 [msg MSG_027 [Junpei]]
-Yeah. We're gonna return your[n]awesomeness a hundred, no, a[n]thousand-fold! That's a promise!
-So don't miss the next episode of Junpei[n]and the Duo of Disappointment!
+Sボ. ムVamos a devolverte tu genialidad cien, no, mil veces! ムEs una promesa!
+ムAsボ que no se pierdan el prポximo episodio de Junpei y el Dマo Decepcionante!
 
 [msg MSG_028 [Yosuke]]
-Whaddaya think you're trying to pull!?[n]You're the frontman of Team[n]Disappointment!
+メQu〒 crees que estホs tratando de hacer? ムEres el lボder del Equipo Decepcionante!
 
 [msg MSG_029 [Ryuji]]
-Nah, I think that's you, Yosuke. Or[n]maybe you're the captain.
+Nah, creo que ese eres tマ, Yosuke. O quizホs seas el capitホn.
 
 [msg MSG_030 [Yosuke]]
-Well then you're the commissioner of the[n]whole league, man!
+ムBueno, entonces eres el comisario de toda la liga, bro!
 
 [msg MSG_031 [Hikari]]
-Hehe. This is more like it.
+Je, je. Esto me gusta mホs.
 
 [msg MSG_032 [P3 Hero]]
-Well, I think that wraps things up here.
-They may be our rivals, but that's one[n]thing they've got that we can never hope[n]to match.
+Bueno, creo que con esto terminamos.
+Puede que sean nuestros rivales, pero eso es algo que tienen y que nosotros nunca podremos igualar.
 
 [msg MSG_033 [P4 Hero]]
-Yeah. As long as they're here, we can[n]keep on smiling, no matter how tough[n]things get.
-It looks like we've each got an[n]irreplaceable partner.
+Sボ. Mientras est〒n aquボ, podemos seguir sonriendo, por difボciles que se pongan las cosas.
+Parece que cada uno de nosotros tiene un compaワero insustituible.
 
 [sel SEL_034 top]
-Let's make ourselves worthy.
-We should repay them in kind.
+Hagホmonos dignos.
+Deberボamos devolverles el favor.
 
 [msg MSG_035 [P3 Hero]]
-Yeah, let's do our part so that we can[n]always stay together.
+Sボ, pongamos de nuestra parte para que siempre estemos juntos.
 
 [msg MSG_036 [P4 Hero]]
-Right. We've all got a role to play...
-The very best captain's ship will sink[n]if there are no skilled sailors.
+Cierto. Todos tenemos un papel que cumplir...
+Hasta el barco del mejor capitホn se hundirホ si no hay marineros cualificados.
 

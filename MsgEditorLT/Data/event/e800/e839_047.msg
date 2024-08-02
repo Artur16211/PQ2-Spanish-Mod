@@ -1,85 +1,85 @@
 [msg MSG_000 [Junpei]]
-Alrighty! Now that we've made it through[n]the door, let's find the house.
-Wait a minute... There are a bunch of[n]houses here! How're we supposed to know[n]which one it is?
+ムMuy bien! Ahora que hemos atravesado la puerta, busquemos la casa.
+Espera un minuto... ムHay un montポn de casas por aquボ! メCポmo se supone que vamos a saber cuホl es?
 
 [msg MSG_001 [Yosuke]]
-It's at the end of a blocked path. Then[n]again, we could just search them all and[n]use the process of elimination.
-Of course, I forgot there are scary[n]Shadows waiting for us. So... don't[n]freak out, anyone.
+Estホ al final de un camino bloqueado. Por otra parte, podrボamos buscarlas todas y usar el proceso de eliminaciポn.
+Por supuesto, olvid〒 que hay Sombras aterradoras esperホndonos. Asボ que... que nadie se asuste.
 
 [msg MSG_002 [Ryuji]]
-Tsh, who do you think I am? Don't[n]undersell the charge commander of the[n]Phantom Thieves!
+Tsh, メqui〒n te crees que soy? ムNo subestimes al comandante a cargo de los Ladrones Fantasma!
 
 [msg MSG_003 [Hikari]]
 ...
 
 [msg MSG_004 [Junpei]]
-What's wrong, Hikari-chan? You nervous?
-Don't be. Ace Junpei's got you covered.[n]Those Shadows don't have a prayer!
+メQu〒 ocurre, Hikari? メEstホs nerviosa?
+No lo est〒s. Super-Junpei te tiene a salvo. ムEsas sombras no tienen nada que hacer!
 
 [msg MSG_005 [Hikari]]
-I was just wondering, how do you all[n]stay so strong?
-You're always so confident, no matter[n]what enemies you face, no matter how[n]scary they are...
+Me estaba preguntando, メcポmo hacen para ser tan fuertes?
+Siempre estホn tan seguros de sボ mismos, no importa a qu〒 enemigos se enfrenten, o lo temibles que sean...
 
 [msg MSG_006 [Ryuji]]
-You know, for me, I never really thought[n]about it.
-I guess... I just figure if I go at them[n]with everything I got, then... well, my[n]friends will back me up somehow.
-Seems like a rare thing, don't it? Plus,[n]we've got Joker. You know how amazing he[n]is, right?
+Sabes, en mi caso, nunca lo habボa pensado.
+Supongo... Me imagino que si voy a por ellos con todo lo que tengo, entonces... bueno, mis amigos me apoyarホn de alguna forma.
+Parece algo raro, メno? Ademホs, tenemos a Joker. Sabes lo increボble que es, メverdad?
 
 [msg MSG_007 [Yosuke]]
-I know what you mean about how rare it[n]is. Seriously, once I teamed up with my[n]partner here, I felt unbeatable.
-But that's exactly why I fight so hard.[n]I don't wanna drag him down.
+S〒 lo que quieres decir sobre lo raro que es. En serio, una vez que hice equipo con mi compaワero aquボ, me sentボ imbatible.
+Pero eso es exactamente por lo que lucho tanto. No quiero ser una caraga para 〒l.
 
 [msg MSG_008 [Ryuji]]
-Got that right. I can't be embarrassing[n]myself in front of my leader, ya know?
+Tienes razポn. No puedo avergonzarme delante de mi lボder, メsabes?
 
 [msg MSG_009 [Junpei]]
-Hell, I can't think of anyone that makes[n]me feel that way except [f 6 1 16 0 0].
+Diablos, no puedo pensar en nadie que me haga sentir asボ, excepto [f 6 1 16 0 0].
 
 [msg MSG_010 [Hikari]]
-You all really trust your leaders.[n]*chuckle* I'm kind of jealous.
-You're not just ordinary friends. You[n]love each other so much that you all[n]want to stand together as equals.
+Todos confiホis de verdad en vuestros lボderes. *risita* Estoy un poco celosa.
+Ustedes no son amigos corrientes. Se aman tanto que quieren estar juntos como iguales.
 
 [msg MSG_011 [Yosuke]]
-L-Love!?
-I mean, you're not wrong, but... did you[n]have to phrase it in such an[n]embarrassing way?
+ムメA-Aman?!
+Quiero decir, no estホs equivocada, pero... メTenボas que expresarlo de una forma tan avergonzante?
 
 [msg MSG_012 [Junpei]]
-Yeah, how about calling it... a fiery[n]friendship among men!
+Sボ, qu〒 tal si lo llamamos... ムUna ardiente amistad entre hombres!
 
 [msg MSG_013 [Ryuji]]
-Let's just not bring this up to the[n]others, agreed?
+No mencionemos esto a los demホs, メde acuerdo?
 
 [msg MSG_014 [Hikari]]
-Hehe, sure. I won't tell anyone.
+Je, je, claro. No se lo dir〒 a nadie.
 
 [msg MSG_015 [Chie]]
-Do you think they know that we can hear[n]everything they're saying?
+メCreen que ellos saben que podemos escuchar todo lo que estホn diciendo?
 
 [msg MSG_016 [Ann]]
-No, they don't realize how loud their[n]voices are, the goofballs.
-But how does it make you feel, what[n]they're saying?
+No, no se dan cuenta de lo fuerte que suenan sus voces, los muy bobos.
+メPero cポmo te hace sentir lo que dicen?
 
 [sel SEL_017 top]
-It's a little embarrassing.
-It's no big deal...
-I love them.
+Da un poco de vergüenza.
+No es para tanto...
+Les amo.
 
 [msg MSG_018 [P3 Hero]]
-Haha. Yeah, it kind of is. It makes me[n]glad, though.
+Ja, ja. Sボ, mホs o menos. Aunque me hace feliz.
 
 [msg MSG_019 [Makoto]]
-*giggle* You're trying to deflect, but[n]your face looks pretty happy.
+*risita* Intentas desviar la atenciポn, pero tu cara parece bastante feliz.
 
 [msg MSG_020 [P3 Hero]]
-Well, it is kind of embarrassing to[n]hear. Who's used to talking about that[n]stuff?
+Bueno, da un poco de vergüenza oボrlo. メQui〒n estホ acostumbrado a hablar de esas cosas?
 
 [msg MSG_021 [Ann]]
-Whoa! Uh, maybe you should be saying[n]that to them, not me!
+ムVaya! Uh, ムquizホs deberボas decirles eso a ellos, no a mボ!
 
 [msg MSG_022 [P3 Hero]]
-Haha, I think it's really nice, in the[n]end.
+Ja, ja, al final me parece muy bonito.
 
 [msg MSG_023 [P4 Hero]]
-We better not let all that goodwill go[n]to waste, that's all I can say!
-Especially when the house we're looking[n]for is so close. Let's stay sharp out[n]there.
+Serホ mejor que no desperdiciemos toda esa buena voluntad, ムes todo lo que puedo decir!
+Especialmente cuando la casa que buscamos estホ tan cerca. Estemos atentos ahボ fuera.
 

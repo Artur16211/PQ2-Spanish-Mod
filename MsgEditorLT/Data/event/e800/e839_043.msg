@@ -1,17 +1,17 @@
 [msg MSG_000 [Shrill flower]]
-Oh me, oh my, look at all of you. You[n]seek the "black thing," yes?
+Ay, ay, miren a todos ustedes. Estホn buscando la "cosa negra", メno?
 
 [msg MSG_001 [Smiling flower]]
-Along a dark, blocked path, a house[n]stands a-swirl in wrath. Seen through a[n]door, infused with evil long ignored.
+A lo largo de un oscuro camino bloqueado, una casa se agita con ira. Vista a trav〒s de una puerta, impregnada de un mal ignorado por mucho tiempo.
 
 [msg MSG_002 [Shrill Flower]]
-...Oh, but you must take care, great[n]care. For they are waiting in that[n]house.
+... Oh, pero deben tener mucho cuidado, gran cuidado. Porque estホn esperando en esa casa.
 
 [msg MSG_003 [Yosuke]]
-Hey, I just thought of something. When[n]they say "blocked path," do they mean a[n]dead end?
-A house located at a dead end... sweet,[n]I figured it out! And it's on the other[n]side of some door...
-Hey, there was a door right by where we[n]came down, right? Wasn't it west of[n]here? Man, I'm on a roll!
+Ey, se me acaba de ocurrir algo. Cuando dicen "camino bloquedo", メse refieren a un callejポn sin salida?
+Una casa situada en un callejポn sin salida... ムQu〒 bien, lo he descubierto! Y estホ al otro lado de una puerta...
+Ey, habボa una puerta justo por donde bajamos, メverdad? メNo estaba al oeste? ムTボo, estoy en racha!
 
 [msg MSG_004 [Junpei]]
-Dude, you are! Let's make our way over[n]there!
+ムBro, lo estホs! ムVamos para allホ!
 
