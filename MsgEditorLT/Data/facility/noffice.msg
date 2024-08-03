@@ -1,5 +1,5 @@
 [msg NOFFICE_HELLO_ELIZABETH_ [Elizabeth]]
-メQu〒 entrada te gustarボa?
+メQu〒 entrada quieres?
 
 [msg NOFFICE_HELLO_ELIZABETH__2 [Elizabeth]]
 Te he estado esperando.
@@ -41,7 +41,7 @@ Gemelas antes de la batalla
 Elizabeth antes de la batalla
 
 [msg BBOARD_BATTLE_BEFORE_ALL [Elizabeth]]
-Todos los 5 antes de la batalla
+Los 5 antes de la batalla
 
 [sel SEL_BBOARD_BATTLE_BEFORE top]
 Estoy listo.

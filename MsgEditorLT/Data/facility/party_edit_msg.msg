@@ -15,8 +15,8 @@ Sボ
 No
 
 [msg MSG_ORGIA000]
-Explicaciポn del modo Desenfreno. Aunque[n]no es muy complicado...
-ムDe acuerdo! ムEspero verla!
+Explicaciポn del modo Desenfreno. Aunque no es muy complicado...
+ムDe acuerdo! ムEspero con impaciencia!
 
 [msg PARTY_EDIT_MSG_CALL_COMF]
 メUsar este grupo?
@@ -31,29 +31,29 @@ Explicaciポn del modo Desenfreno. Aunque[n]no es muy complicado...
 メSalir sin guardar el grupo?
 
 [msg PARTY_EDIT_MSG_NAME_ENTR]
-Ingresa un nombre para este grupo[n]utilizando la pantalla tホctil.
+Ingresa un nombre para este grupo utilizando la pantalla tホctil.
 
 [msg PARTY_EDIT_MSG_CANCEL_ED]
-メSalir sin cambiar la formaciポn[n]del grupo?
+メSalir sin cambiar la formaciポn del grupo?
 
 [msg PARTY_EDIT_MSG_PARTY_ALL]
-Nadie en tu grupo estホ en condiciones de[n]combatir.
+Nadie en tu grupo estホ en condiciones de combatir.
 
 [msg PARTY_EDIT_MSG_LEADER_NO]
-El lボder del equipo no ha sido elegido.[n]Asegマrate de tener uno.
+El lボder del equipo no ha sido elegido. Asegマrate de tener uno.
 
 [msg PARTY_EDIT_MSG_NO_MEMBER]
-Selecciona aliados para agregar al[n]grupo.
+Selecciona aliados para agregar al grupo.
 
 [msg PARTY_EDIT_MSG_LEADER_NO_2]
-Elige un lボder de grupo, alguien con el[n]poder del comodボn.
+Elige un lボder de grupo, alguien con el poder del comodボn.
 
 [msg PARTY_EDIT_MSG_FIRST_NAV]
-No se ha elegido a un navegador.[n]ムNecesitas uno!
+No se ha elegido a un navegador. ムNecesitas uno!
 
 [msg PARTY_EDIT_MSG_DUNGEON_N]
-Olvidaste elegir un navegador de campo.
+Olvidaste elegir un navegador de laberinto.
 
 [msg PARTY_EDIT_RISKY_INVALID]
-Cuando tu dificultad estホ configurada en[n]"Arriesgado", debes incluir [f 6 1 30 0 0 0] en el[n]grupo.
+Cuando tu dificultad estホ configurada en "Despiadada", debes incluir [f 6 1 30 0 0 0] en el grupo.
 
