@@ -1,14 +1,14 @@
 [msg MSG_000 [Fuuka]]
-ムEstoy recibiendo una seワal tras esa[n]puerta! ムPuede ser ese robot Supervisor!
+ムEstoy recibiendo una seワal tras esa puerta! ムPuede ser ese robot Supervisor!
 
 [msg MSG_001 [Naoto]]
-Debemos suponer que serホ bastante[n]fuerte. Volver al cine para reagruparnos[n]podrボa ser buena idea.
+Debemos suponer que serホ bastante fuerte. Volver al cine para reagruparnos podrボa ser buena idea.
 
 [msg MSG_002 [P4 Hero]]
-Es un buen punto. Joker, メqu〒 hacemos?
+Es un buen punto. メJoker, qu〒 hacemos?
 
 [msg MSG_003 [P4 Hero]]
-Parece que el robot Supervisor estホ[n]aquボ. メEstamos listo?
+Parece que el robot Supervisor estホ aquボ. メEstamos listo?
 
 [sel SEL_004 top]
 ムHagホmoslo!
@@ -18,5 +18,5 @@ Aマn no.
 Prepホrense.
 
 [msg MSG_006 [P4 Hero]]
-Tienes razポn. Serホ mejor prepararse[n]primero.
+Tienes razポn. Serホ mejor prepararse primero.
 

@@ -1,14 +1,14 @@
 [msg MSG_000 [Mitsuru]]
-El viento de repente se ha vuelto[n]bastante fuerte.
+El viento de repente se ha vuelto bastante fuerte.
 
 [msg MSG_001 [Chie]]
-メNo es una especie de tマnel de viento?[n]Tal vez sea por los edificios grandes,[n]de por aquボ...
+メNo es un tipo de tマnel de viento? Tal vez sea por los edificios grandes, de por aquボ...
 
 [msg MSG_002 [Yukari]]
-Ack... メPodemos acelerar el paso? El[n]viento es demasiado fuerte, me estホ[n]despeinando...
+Ah... メPodemos acelerar el paso? El viento es demasiado fuerte, me estホ despeinando...
 
 [msg MSG_003 [Teddie]]
-*jadeo* ムLas damas primero! ムPor favor,[n]adelante!
+*jadeo* ムLas damas primero! ムPor favor, adelante!
 
 [msg MSG_004 [Yukari]]
 Gracias. Nosotras iremos...

@@ -1,23 +1,23 @@
 [msg MSG_000 [Haru]]
-ムOh! Este agujero es profundo... Ni[n]siquiera puedo ver el fondo.
+ムOh! Este agujero es profundo... Ni siquiera puedo ver el fondo.
 
 [msg MSG_001 [Yukari]]
-Esto serボa muy peligroso caerse... Ah...[n]solo mirarlo me estホ mareando...
+Esto serボa muy peligroso caerse... Ah... solo mirarlo me estホ mareando...
 
 [msg MSG_002 [Junpei]]
-Estホs tratando de decir: "Espero que[n]nadie venga y me empuje[n]accidentalmente", メverdad? メGuiワo guiワo?
+Estホs tratando de decir: "Espero que nadie venga y me empuje accidentalmente", メverdad? *guiワo* *guiワo*
 
 [msg MSG_003 [Yukari]]
 ムメQu〒?! ムNo! ムNi siquiera lo intentes!
 
 [msg MSG_004 [Naoto]]
-Um, mホs importante... Por favor, echa un[n]vistazo.
+Um, mホs importante... Echen un vistazo.
 
 [msg MSG_005 [Yukari]]
-Oh, siento que Tontei causara tal[n]escena. メQu〒 encontraste?
+Oh, siento que Tontei causara tal escena. メQu〒 encontraste?
 
 [msg MSG_006 [Naoto]]
-Oh, estホ bien... Bien, parece que la[n]nariz de este ホrbol funciona como un[n]interruptor.
+Oh, estホ bien... Bien, parece que la nariz de este ホrbol funciona como un interruptor.
 
 [sel SEL_007 top]
 メEsa nariz redonda?
@@ -40,17 +40,17 @@ Yyyy... メTeddie?
 ムSoy yo! メQu〒 puedo hacer por ti?
 
 [msg MSG_013 [Ryuji]]
-ムPodemos terminar con esa broma,[n]maldiciポn!
-ムY no tienes nada que ver con esto,[n]Teddie! ムFuera de aquボ!
+ムPodemos terminar con esa broma, maldiciポn!
+ムY no tienes nada que ver con esto, Teddie! ムFuera de aquボ!
 
 [msg MSG_014 [Teddie]]
-ムOh nooo! Skull estホ siendo un gruワポn...[n]Deberボas aumentar tu consumo de calcio[n]para reducir ese malhumor.
+ムOh nooo! Skull estホ siendo un gruワポn... Deberボas aumentar tu consumo de calcio para reducir ese malhumor.
 
 [msg MSG_015 [Ryuji]]
 ムArgh! ムEso no es...!
 
 [msg MSG_016 [Teddie]]
-Bueno, me siento un poco cansado. Ahhh,[n]esto debe ser cポmodo...
+Bueno, me siento un poco cansado. Ahhh, esto debe ser cポmodo...
 
 [msg MSG_017 [Naoto]]
 ムTeddie! ムNo te acerques a eso!

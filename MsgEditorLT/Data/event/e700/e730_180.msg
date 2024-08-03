@@ -2,5 +2,5 @@
 Y listo... ムLa puerta estホ abierta!
 
 [msg MSG_001 [Yukari]]
-Parece que podemos salir. ムHagホmoslo[n]antes de ese FOE nos atrape!
+Parece que podemos salir. ムHagホmoslo antes de ese FOE nos atrape!
 

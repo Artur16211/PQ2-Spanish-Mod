@@ -5,11 +5,11 @@
 メEs la mホquina que vimos antes?
 
 [msg MSG_002 [Futaba]]
-Hmm... Despu〒s de un vistazo rホpido, parece estar conectada a otro lugar.
-ムEn pocas palabras: es una mホquina [f 0 1 2]teletransportador[f 0 1 0]!
+Mm... Despu〒s de un vistazo rホpido, parece estar conectada a otro lugar.
+ムEn pocas palabras, es un [f 0 1 2]teletransportador[f 0 1 0]!
 
 [msg MSG_003 [Kanji]]
-メA dポnde estホ conectada?
+メA dポnde estホ conectado?
 
 [msg MSG_004 [Fuuka]]
 Lo siento. Todo lo que s〒, es que estホ en algマn lugar en este piso...

@@ -1,9 +1,9 @@
 [msg MSG_000 [Morgana]]
-ムAgh! Este viento... Es demasiado[n]fuerte... Voy a...
+ムAgh! Este viento... Es demasiado fuerte... Voy a...
 ムメMrowww?!
 
 [msg MSG_001 [Teddie]]
-ムメQu〒〒〒?! ムNooooooo! ムAyuda!
+ムメQu〒〒〒?! ムNooooooo! ムAyuuudaaa!
 
 [msg MSG_002 [Akechi]]
 ムメEh?! ムEspera, qu〒...!
@@ -12,16 +12,16 @@
 ムOh, no! ムメEstホn bien?!
 
 [msg MSG_004 [Futaba]]
-ムVaya, el viento es tan fuerte que estホn[n]flotando! Awww, Mona parece un pequeワo[n]globo...
+ムVaya, el viento es tan fuerte que estホn flotando! Awww, Mona parece un pequeワo globo...
 
 [msg MSG_005 [Morgana]]
-ムNo me llames globo! Sheesh... Eso no[n]fue divertido.
+ムNo me llames globo! Pfff... Eso no fue divertido.
 
 [msg MSG_006 [Yukiko]]
-Parece que todos estホn bien, espera,[n]メdポnde estホ Teddie?
+Parece que todos estホn bien, espera, メdポnde estホ Teddie?
 
 [msg MSG_007 [Teddie]]
-ムUf! Me alegro de haberme aferrado asボ a[n]Crow.
+ムUf! Me alegro de haberme aferrado asボ a Crow.
 
 [sel SEL_008 top]
 No le importa.
@@ -38,27 +38,27 @@ Me estoy poniendo celoso…
 Eh... メTe importarボa... cambiar lugares?
 
 [msg MSG_012 [Mitsuru]]
-Pensar que el viento puede ser tan fuerte como[n]para hacernos flotar... Supongo que tuvimos[n]suerte de no caer en ese agujero.
-Parece que tendremos que tener mホs[n]precauciポn a partir de ahora.
+Pensar que el viento puede ser tan fuerte como para hacernos flotar... Supongo que tuvimos suerte de no caer en ese agujero.
+Parece que tendremos que tener mホs cuidado a partir de ahora.
 
 [msg MSG_013 [Yosuke]]
-Sボ, estamos en el mundo de Enlil, quien[n]sabe lo que nos espera adelante.
+Sボ, estamos en el mundo de Enlil, quien sabe lo que nos espera adelante.
 ムMant〒nganse alerta!
 
 [msg MSG_014 [Morgana]]
-ムAgh! ムメPor qu〒 este viento... tan...[n]fuerte?!
+ムAgh! ムメPor qu〒 este viento... tan... fuerte?!
 
 [msg MSG_015 [Teddie]]
-ムメQu〒〒〒?! Mi piel... ムMi orgullo y[n]alegrボa se estホn despeinando!
+ムメQu〒〒〒?! Mi piel... ムMi orgullo y alegrボa se estホn despeinando!
 
 [msg MSG_015_5 [Teddie]]
-...メHrmm? ムEstoy flotando! ムメCポmo?!
+...メAh? ムEstoy flotando! ムメCポmo?!
 
 [msg MSG_016 [Mitsuru]]
-Pensar que el viento puede ser tan fuerte como[n]para hacernos flotar... Supongo que tuvimos[n]suerte de no caer en ese agujero.
-Parece que tendremos que tener mホs[n]precauciポn a partir de ahora.
+Pensar que el viento puede ser tan fuerte como para hacernos flotar... Supongo que tuvimos suerte de no caer en ese agujero.
+Parece que tendremos que tener mホs cuidado a partir de ahora.
 
 [msg MSG_017 [Yosuke]]
-Sボ, estamos en el mundo de Enlil, quien[n]sabe lo que nos espera adelante.
+Sボ, estamos en el mundo de Enlil, quien sabe lo que nos espera adelante.
 ムMant〒nganse alerta!
 

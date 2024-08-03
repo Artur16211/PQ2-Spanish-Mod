@@ -13,9 +13,9 @@ Hay un FOE...
 ムGuau!
 
 [msg MSG_004 [Ken]]
-メMm? Pero si el FOE estホ aquボ,[n]メpodrボamos...?
+メMm? Pero si el FOE estホ aquボ, メpodrボamos...?
 
 [msg MSG_005 [Teddie]]
-ムHeehee! [f 0 1 2]ムSi usamos el interruptor[n]correcto, serボa un adiポs para ese tipo[f 0 1 0]!
-ムVamos! ムTengo ganas de encontrar ese[n]interruptor!
+ムJe, je, je! [f 0 1 2]ムSi usamos el interruptor correcto, serボa un adiポs para ese tipo[f 0 1 0]!
+ムVamos! ムTengo ganas de encontrar ese interruptor!
 

@@ -1,5 +1,5 @@
 [msg MSG_000 [Rise]]
-ムChicos, Enlil estホ adelante! La seワal[n]que recibo de ella es como si fuera el[n]centro de una tormenta...
+ムChicos, Enlil estホ adelante! La seワal que recibo de ella es como si fuera el centro de una tormenta...
 
 [msg MSG_001 [P3 Hero]]
 Bien... Lo logramos. メListo, Joker?
@@ -18,7 +18,7 @@ Bien. Prepホrense...
 ムSボ! ムTenemos que detener a Enlil!
 
 [msg MSG_006 [P4 Hero]]
-No hay problema. Serホ mejor que nos[n]preparemos tanto como podamos.
+No hay problema. Serホ mejor que nos preparemos tanto como podamos.
 
 [msg MSG_007 [P3 Fem Protag]]
 ムSボ! ムNo podemos perder, no importa qu〒!

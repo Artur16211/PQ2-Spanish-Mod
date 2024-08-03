@@ -1,12 +1,12 @@
 [msg MSG_000 [Fuuka]]
-ムOh! ムEstoy recibiendo una seワal enemiga[n]cerca! ムTengan cuidado!
+ムOh! ムEstoy recibiendo una seワal enemiga cerca! ムTengan cuidado!
 
 [msg MSG_001 [P4 Hero]]
-En ese caso, podrボamos volver al Cine y[n]reagruparnos si es necesario.
+En ese caso, podrボamos volver al Cine y reagruparnos si es necesario.
 メQu〒 hacemos? メEstamos listos?
 
 [msg MSG_002 [Fuuka]]
-Estoy recibiendo una seワal enemiga.[n]メEstホs listo?
+Estoy recibiendo una seワal enemiga. メEstホs listo?
 
 [sel SEL_003 top]
 Estamos listos.
@@ -16,5 +16,5 @@ Volvamos.
 ムSボ, seワor! ムLlegポ la hora!
 
 [msg MSG_005 [Ken]]
-Cierto, qui〒n sabe que nos espera.[n]Deberボamos tener cuidado, por si acaso.
+Cierto, qui〒n sabe que nos espera. Deberボamos tener cuidado, por si acaso.
 

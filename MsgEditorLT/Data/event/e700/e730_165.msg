@@ -2,10 +2,10 @@
 ムOh! ムMiren!
 
 [msg MSG_001 [Chie]]
-メEl FOE se quedポ ahボ tal como[n]esperホbamos?
+メEl FOE se quedポ ahボ tal como esperホbamos?
 
 [msg MSG_002 [Mitsuru]]
-Parece que saliポ segマn lo planeado.[n]C'est magnifique.
+Parece que saliポ segマn lo planeado. C'est magnifique.
 
 [msg MSG_003 [Morgana]]
 ムGenial, podemos seguir!

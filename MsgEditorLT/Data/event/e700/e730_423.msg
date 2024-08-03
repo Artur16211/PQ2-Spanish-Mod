@@ -1,9 +1,9 @@
 [msg MSG_000 [Mitsuru]]
 Es la puerta de antes...
-Parece que podemos desbloquearla de este[n]lado.
+Parece que podemos desbloquearla de este lado.
 
 [msg MSG_001 [Ken]]
-メPodemos hacer eso? Harボa que nuestra[n]exploraciポn fuera mucho mホs fホcil.
+メPodemos hacer eso? Harボa que nuestra exploraciポn fuera mucho mホs fホcil.
 
 [sel SEL_002 top]
 Me parece bien.
@@ -13,5 +13,5 @@ Me parece bien.
 Entonces, si me disculpan...
 
 [msg MSG_004 [Ryuji]]
-ムGenial! Ya estamos listos. ムVamos,[n]sigamos avanzando!
+ムGenial! Ya estamos listos. ムVamos, sigamos avanzando!
 

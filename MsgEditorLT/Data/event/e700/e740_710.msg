@@ -1,14 +1,14 @@
 [msg MSG_000 [Hikari]]
-Espera... Doe estホ cerca... No estoy[n]segura de cポmo lo s〒, pero... puedo[n]sentirlo.
+Espera... Doe estホ cerca... No estoy segura de cポmo lo s〒, pero... puedo sentirlo.
 
 [msg MSG_001 [Futaba]]
-Creo que Hikari tiene razポn. Estoy[n]recibiendo una seワal fuerte de allボ,[n]ahora sabemos por qu〒.
+Creo que Hikari tiene razポn. Estoy recibiendo una seワal fuerte de allボ, ahora sabemos por qu〒.
 
 [msg MSG_002 [Hikari]]
-メQuieres por favor venir conmigo?
+メQuieres venir conmigo por favor?
 
 [msg MSG_003 [Hikari]]
-Estar〒 bien si no, pero... メNo quieres[n]venir conmigo?
+Estar〒 bien si no, pero... メNo quieres venir conmigo?
 
 [sel SEL_004 top]
 Por supuesto.
@@ -18,5 +18,5 @@ Necesito un momento.
 ムGracias!
 
 [msg MSG_006 [Hikari]]
-Bien, entiendo. Una vez est〒s listo, メme[n]acompaワarホs adentro?
+Bien, entiendo. Una vez est〒s listo, メme acompaワarホs adentro?
 

@@ -2,31 +2,31 @@
 Um... メPuedo decir algo?
 
 [msg MSG_001 [Akihiko]]
-メHm? メQu〒 pasa?
+メEh? メQu〒 pasa?
 
 [msg MSG_002 [Ken]]
 Bueno, ah... este, piso...
-Si pulsamos el interruptor mientras[n]estamos en el ascensor, [f 0 1 2]メno nos llevarボa[n]a la planta de abajo[f 0 1 0]?
+Si pulsamos el interruptor mientras estamos en el ascensor, メ[f 0 1 2]no nos llevarボa a la planta de abajo[f 0 1 0]?
 
 [sel SEL_003 top]
 Es una gran idea.
 メCrees que sea seguro?
 
 [msg MSG_004 [Akechi]]
-Cierto, podrボamos usarlo como las[n]escaleras. Creo que vale la pena[n]intentarlo.
-Aunque, SI se detiene en el piso de[n]abajo. Podrボamos acabar descendiendo[n]para siempre...
+Cierto, podrボamos usarlo como las escaleras. Creo que vale la pena intentarlo.
+Aunque, SI se detiene en el piso de abajo. Podrボamos acabar descendiendo para siempre...
 
 [msg MSG_005 [Akechi]]
-Es cierto que serボa estupendo si se conectara[n]con la siguiente planta, pero puede que[n]acabemos descendiendo para siempre...
+Es cierto que serボa estupendo si se conectara con la siguiente planta, pero podrボamos acabar descendiendo para siempre...
 
 [msg MSG_006 [Ken]]
 ムメQ-qu〒?! ムNooo!
 
 [msg MSG_007 [Akechi]]
-...Ja, ja, solo bromeo. Si parece[n]sospechoso, deberボamos preguntarle a[n]nuestras navegadoras.
+...Ja, ja, solo bromeo. Si parece sospechoso, deberボamos preguntarle a nuestras navegadoras.
 
 [msg MSG_008 [Rise]]
-ムTenボa la sensaciポn de que dirボas eso, ya lo[n]hemos comprobado! ムNo te preocupes, se detiene[n]en el siguiente piso!
+ムPens〒 que dirボas eso, ya lo hemos comprobado! ムNo te preocupes, se detiene en el siguiente piso!
 
 [msg MSG_009 [Ken]]
 メEn serio? ムGracias a Dios!
@@ -35,17 +35,17 @@ Es cierto que serボa estupendo si se conectara[n]con la siguiente planta, pero 
 Bueno, entonces, saltamos y…
 
 [msg MSG_011 [Futaba]]
-ムEspera! Serホ mejor marcar esto en su[n]mapa antes de girar las narices de los[n]ホrboles.
-Moverse arriba y abajo probablemente[n]complicarホ el mapeo.
+ムEspera! Serホ mejor marcar esto en su mapa antes de girar las narices de los ホrboles.
+Moverse arriba y abajo probablemente complicarホ el mapeo.
 
 [msg MSG_012 [Yusuke]]
-En ese caso, serボa mejor si tuvi〒ramos[n]un sボmbolo especボfico para esto.[n]Permボtanme diseワar uno...
+En ese caso, serボa mejor si tuvi〒ramos un sボmbolo especボfico para esto. Permボtanme diseワar uno...
 
 [msg MSG_013 [Yosuke]]
-ムGracias! ムEstホ hecho, vamos a probarlo,[n]Joker!
+ムGracias! ムEstホ hecho, vamos a probarlo, Joker!
 
 [msg MSG_ICON_SERI_OPEN]
-Se ha aワadido un icono [f 0 1 2]Stage Lift[f 0 1 0] al[n]mapa de la pantalla inferior.
-Si deseas comprobar cポmo utilizar este[n]icono...
-Presiona [f 0 1 2]AYUDA[f 0 1 0] en la parte inferior[n]derecha del mapa y presiona [f 0 1 2]Tipos de[n]Iconos[f 0 1 0].
+Se ha aワadido un icono [f 0 1 2]Elevador[f 0 1 0] al mapa de la pantalla inferior.
+Si deseas comprobar cポmo utilizar este icono...
+Presiona [f 0 1 2]AYUDA[f 0 1 0] en la parte inferior derecha del mapa y presiona [f 0 1 2]Tipos de Iconos[f 0 1 0].
 
