@@ -2,205 +2,205 @@
 Nada
 
 [msg addeffect_001]
-Fuerza +1.
+Fr +1
 
 [msg addeffect_002]
-Fuerza +2.
+Fr +2
 
 [msg addeffect_003]
-Fuerza +3.
+Fr +3
 
 [msg addeffect_004]
-Fuerza +4.
+Fr +4
 
 [msg addeffect_005]
-Fuerza +5.
+Fr +5
 
 [msg addeffect_006]
-Defensa +1.
+Rs +1
 
 [msg addeffect_007]
-Defensa +2.
+Rs +2
 
 [msg addeffect_008]
-Defensa +3.
+Rs +3
 
 [msg addeffect_009]
-Defensa +4.
+Rs +4
 
 [msg addeffect_010]
-Defensa +5.
+Rs +5
 
 [msg addeffect_011]
-Magia +1.
+Ma +1
 
 [msg addeffect_012]
-Magia +2.
+Ma +2
 
 [msg addeffect_013]
-Magia +3.
+Ma +3
 
 [msg addeffect_014]
-Magia +4.
+Ma +4
 
 [msg addeffect_015]
-Magia +5.
+Ma +5
 
 [msg addeffect_016]
-Agilidad +1.
+Ag +1
 
 [msg addeffect_017]
-Agilidad +2.
+Ag +2
 
 [msg addeffect_018]
-Agilidad +3.
+Ag +3
 
 [msg addeffect_019]
-Agilidad +4.
+Ag +4
 
 [msg addeffect_020]
-Agilidad +5.
+Ag +5
 
 [msg addeffect_021]
-Suerte +1.
+Su +1
 
 [msg addeffect_022]
-Suerte +2.
+Su +2
 
 [msg addeffect_023]
-Suerte +3.
+Su +3
 
 [msg addeffect_024]
-Suerte +4.
+Su +4
 
 [msg addeffect_025]
-Suerte +5.
+Su +5
 
 [msg addeffect_026]
-Mホx PS +10.
+PS +10
 
 [msg addeffect_027]
-Mホx PS +20.
+PS +20
 
 [msg addeffect_028]
-Mホx PS +30.
+PS +30
 
 [msg addeffect_029]
-Mホx PS +40.
+PS +40
 
 [msg addeffect_030]
-Mホx PS +50.
+PS +50
 
 [msg addeffect_031]
-Mホx PE +10.
+PE +10
 
 [msg addeffect_032]
-Mホx PE +20.
+PE +20
 
 [msg addeffect_033]
-Mホx PE +30.
+PE +30
 
 [msg addeffect_034]
-Mホx PE +40.
+PE +40
 
 [msg addeffect_035]
-Mホx PE +50.
+PE +50
 
 [msg addeffect_036]
-Baja probabilidad de provocar Pホnico.
+Baja probabilidad de provocar Pホnico
 
 [msg addeffect_037]
-Media probabilidad de provocar Pホnico.
+Media probabilidad de provocar Pホnico
 
 [msg addeffect_038]
-Alta probabilidad de provocar Pホnico.
+Alta probabilidad de provocar Pホnico
 
 [msg addeffect_039]
-Baja probabilidad de Envenenar.
+Baja probabilidad de Envenenar
 
 [msg addeffect_040]
-Media probabilidad de Envenenar.
+Media probabilidad de Envenenar
 
 [msg addeffect_041]
-Alta probabilidad de Envenenar.
+Alta probabilidad de Envenenar
 
 [msg addeffect_042]
-Baja probabilidad de Asustar.
+Baja probabilidad de Asustar
 
 [msg addeffect_043]
-Media probabilidad de Asustar.
+Media probabilidad de Asustar
 
 [msg addeffect_044]
-Alta probabilidad de Asustar.
+Alta probabilidad de Asustar
 
 [msg addeffect_045]
-Baja probabilidad de Enfurecer.
+Baja probabilidad de Enfurecer
 
 [msg addeffect_046]
-Media probabilidad de Enfurecer.
+Media probabilidad de Enfurecer
 
 [msg addeffect_047]
-Alta probabilidad de Enfurecer.
+Alta probabilidad de Enfurecer
 
 [msg addeffect_048]
-Baja probabilidad de Marear.
+Baja probabilidad de Marear
 
 [msg addeffect_049]
-Media probabilidad de Marear.
+Media probabilidad de Marear
 
 [msg addeffect_050]
-Alta probabilidad de Marear.
+Alta probabilidad de Marear
 
 [msg addeffect_051]
-Baja probabilidad de Agotar.
+Baja probabilidad de Agotar
 
 [msg addeffect_052]
-Media probabilidad de Agotar.
+Media probabilidad de Agotar
 
 [msg addeffect_053]
-Alta probabilidad de Agotar.
+Alta probabilidad de Agotar
 
 [msg addeffect_054]
-Baja probabilidad de Envejecer.
+Baja probabilidad de Envejecer
 
 [msg addeffect_055]
-Media probabilidad de Envejecer.
+Media probabilidad de Envejecer
 
 [msg addeffect_056]
-Alta probabilidad de Envejecer.
+Alta probabilidad de Envejecer
 
 [msg addeffect_057]
-Baja probabilidad de sellar Magia.
+Baja probabilidad de atar Magia
 
 [msg addeffect_058]
-Media probabilidad de sellar Magia.
+Media probabilidad de atar Magia
 
 [msg addeffect_059]
-Alta probabilidad de sellar Magia.
+Alta probabilidad de atar Magia
 
 [msg addeffect_060]
-Bajo aumento en la probabilidad de[n]crボticos.
+Probabilidad crボtica aumentada
 
 [msg addeffect_061]
-Medio aumento en la probabilidad de[n]crボticos.
+Probabilidad crボtica aumentada+
 
 [msg addeffect_062]
-Alto aumento en la probabilidad de[n]crボticos.
+Probabilidad crボtica aumentada++
 
 [msg addeffect_063]
-+1 todos los stats.
+Todos los stats. +1
 
 [msg addeffect_064]
-+2 todos los stats.
+Todos los stats. +2
 
 [msg addeffect_065]
-+3 todos los stats.
+Todos los stats. +3
 
 [msg addeffect_066]
-+4 todos los stats.
+Todos los stats. +4
 
 [msg addeffect_067]
-+5 todos los stats.
+Todos los stats. +5
 
 [msg addeffect_068]
 Fortalece ataques de Fuego un 25%.
@@ -215,196 +215,196 @@ Fortalece ataques El〒ctricos un 25%.
 Fortalece ataques de Viento un 25%.
 
 [msg addeffect_072]
-Baja probabilidad de reflejar ataques[n]fボsicos.
+Probabilidad de reflejar fボsicos
 
 [msg addeffect_073]
-Media probabilidad de reflejar ataques[n]fボsicos.
+Probabilidad de reflejar fボsicos+
 
 [msg addeffect_074]
-Alta probabilidad de reflejar ataques[n]fボsicos.
+Probabilidad de reflejar fボsicos++
 
 [msg addeffect_075]
-Resistencia contra el Pホnico.
+Resistir Pホnico
 
 [msg addeffect_076]
-Resistencia contra el Veneno.
+Resistir Veneno
 
 [msg addeffect_077]
-Resistencia contra el Miedo.
+Resistir Miedo
 
 [msg addeffect_078]
-Resistencia contra la Ira.
+Resistir Ira
 
 [msg addeffect_079]
-Resistencia contra el Mareo.
+Resistir Mareo
 
 [msg addeffect_080]
-Resistencia contra el Cansancio.
+Resistir Cansancio
 
 [msg addeffect_081]
-Resistencia contra el Envejecimiento.
+Resistir Envejecimiento
 
 [msg addeffect_082]
-Resistencia contra sellos de Magia.
+Resistir ataduras de Magia.
 
 [msg addeffect_083]
-Activa Tarukaja al inicio del combate.
++Auto-Tarukaja
 
 [msg addeffect_084]
-Activa Rakukaja al inicio del combate.
++Auto-Rakukaja
 
 [msg addeffect_085]
-Activa Sukukaja al inicio del combate.
++Auto-Sukukaja
 
 [msg addeffect_086]
-Fuerza +10.
+Fr +10.
 
 [msg addeffect_087]
-Defensa +10.
+Rs +10.
 
 [msg addeffect_088]
-Magia +10.
+Ma +10.
 
 [msg addeffect_089]
-Agilidad +10.
+Ag +10.
 
 [msg addeffect_090]
-Suerte +10.
+Su +10.
 
 [msg addeffect_091]
-Mホx PS +100.
+PS +100.
 
 [msg addeffect_092]
-Baja probabilidad de infligir estados de[n]padecimiento.
+Probabilidad de infligir estados alterados
 
 [msg addeffect_093]
-Media probabilidad de infligir estados[n]de padecimiento.
+Probabilidad de infligir estados alterados+
 
 [msg addeffect_094]
-Alta probabilidad de infligir estados de[n]padecimiento.
+Probabilidad de infligir estados alterados++
 
 [msg addeffect_095]
-Reduce daワo fボsico recibido un 10%.
+Reduce daワo fボsico un 10%
 
 [msg addeffect_096]
-Reduce daワo fボsico recibido un 20%.
+Reduce daワo fボsico un 20%
 
 [msg addeffect_097]
-Reduce daワo fボsico recibido un 30%.
+Reduce daワo fボsico un 30%
 
 [msg addeffect_098]
-Reduce daワo de Fuego recibido un 10%.
+Reduce daワo de Fuego un 10%
 
 [msg addeffect_099]
-Reduce daワo de Fuego recibido un 20%.
+Reduce daワo de Fuego un 20%
 
 [msg addeffect_100]
-Reduce daワo de Fuego recibido un 30%.
+Reduce daワo de Fuego un 30%
 
 [msg addeffect_101]
-Reduce daワo de Hielo recibido un 10%.
+Reduce daワo de Hielo un 10%
 
 [msg addeffect_102]
-Reduce daワo de Hielo recibido un 20%.
+Reduce daワo de Hielo un 20%
 
 [msg addeffect_103]
-Reduce daワo de Hielo recibido un 30%.
+Reduce daワo de Hielo un 30%
 
 [msg addeffect_104]
-Reduce daワo de Viento recibido un 10%.
+Reduce daワo de Viento un 10%
 
 [msg addeffect_105]
-Reduce daワo de Viento recibido un 20%.
+Reduce daワo de Viento un 20%
 
 [msg addeffect_106]
-Reduce daワo de Viento recibido un 30%.
+Reduce daワo de Viento un 30%
 
 [msg addeffect_107]
-Reduce daワo El〒ctrico recibido un 10%.
+Reduce daワo El〒ctrico un 10%
 
 [msg addeffect_108]
-Reduce daワo El〒ctrico recibido un 20%.
+Reduce daワo El〒ctrico un 20%
 
 [msg addeffect_109]
-Reduce daワo El〒ctrico recibido un 30%.
+Reduce daワo El〒ctrico un 30%
 
 [msg addeffect_110]
-Reduce daワo elemental recibido un 10%.
+Reduce daワo Mホgico un 10%
 
 [msg addeffect_111]
-Reduce daワo elemental recibido un 20%.
+Reduce daワo Mホgico un 20%
 
 [msg addeffect_112]
-Reduce daワo elemental recibido un 30%.
+Reduce daワo Mホgico un 30%
 
 [msg addeffect_113]
-Reduce probabilidad de tropezar.
+Reduce probabilidad de tropezar
 
 [msg addeffect_114]
-Reduce un poco la probabilidad de[n]tropezar.
+Reduce un poco la probabilidad de tropezar
 
 [msg addeffect_115]
-Reduce mucho la probabilidad de[n]tropezar.
+Reduce mucho la probabilidad de tropezar
 
 [msg addeffect_116]
-Aumenta probabilidad de esquivar ataques[n]fボsicos.
+Esquivar fボsicos+
 
 [msg addeffect_117]
-Aumenta un poco la probabilidad de[n]esquivar ataques fボsicos.
+Esquivar fボsicos
 
 [msg addeffect_118]
-Aumenta mucho la probabilidad de[n]esquivar ataques fボsicos.
+Esquivar fボsicos++
 
 [msg addeffect_119]
-Aumenta probabilidad de esquivar ataques[n]de Fuego.
+Esquivar fuego+
 
 [msg addeffect_120]
-Aumenta un poco la probabilidad de[n]esquivar ataques de Fuego.
+Esquivar fuego
 
 [msg addeffect_121]
-Aumenta mucho la probabilidad de[n]esquivar ataques de Fuego.
+Esquivar fuego++
 
 [msg addeffect_122]
-Aumenta probabilidad de esquivar ataques[n]de Hielo.
+Esquivar hielo+
 
 [msg addeffect_123]
-Aumenta un poco la probabilidad de[n]esquivar ataques de Hielo.
+Esquivar hielo
 
 [msg addeffect_124]
-Aumenta mucho la probabilidad de[n]esquivar ataques de Hielo.
+Esquivar hielo++
 
 [msg addeffect_125]
-Aumenta probabilidad de esquivar ataques[n]de Viento.
+Esquivar viento+
 
 [msg addeffect_126]
-Aumenta un poco la probabilidad de[n]esquivar ataques de Viento.
+Esquivar viento
 
 [msg addeffect_127]
-Aumenta mucho la probabilidad de[n]esquivar ataques de Viento.
+Esquivar viento++
 
 [msg addeffect_128]
-Aumenta probabilidad de esquivar ataques[n]El〒ctricos.
+Esquivar Elec+
 
 [msg addeffect_129]
-Aumenta un poco la probabilidad de[n]esquivar ataques El〒ctricos.
+Esquivar Elec
 
 [msg addeffect_130]
-Aumenta mucho la probabilidad de[n]esquivar ataques El〒ctricos.
+Esquivar Elec++
 
 [msg addeffect_131]
-Aumenta la probabilidad de esquivar[n]ataques elementales.
+Esquivar Magia+
 
 [msg addeffect_132]
-Aumenta un poco la probabilidad de[n]esquivar ataques elementales.
+Esquivar Magia
 
 [msg addeffect_133]
-Aumenta mucho la probabilidad de[n]esquivar ataques elementales.
+Esquivar Magia++
 
 [msg addeffect_134]
-EXP +150%
+Exp. +150%
 
 [msg addeffect_135]
-Reduce PE a la mitad al final de un[n]combate.
+PE a la mitad despu〒s del combate
 
 [msg addeffect_136]
 Carisma
@@ -413,13 +413,13 @@ Carisma
 Ninguno
 
 [msg addeffect_138]
-Mホx PE +100.
+PE +100.
 
 [msg addeffect_139]
-+10 todos los stats.
+Todos los stats. +10
 
 [msg addeffect_140]
-Costo de PE triplicado.
+Costo PE triplicado
 
 [msg addeffect_141]
 Ninguno
@@ -431,31 +431,31 @@ Ninguno
 Ninguno
 
 [msg addeffect_144]
-Resistencia al Fuego.
+Resistencia al Fuego
 
 [msg addeffect_145]
-Resistencia al Hielo.
+Resistencia al Hielo
 
 [msg addeffect_146]
-Resistencia al Viento.
+Resistencia al Viento
 
 [msg addeffect_147]
-Resistencia El〒ctrica.
+Resistencia El〒ctrica
 
 [msg addeffect_148]
-Refleja el Fuego.
+Refleja el Fuego
 
 [msg addeffect_149]
-Refleja el Hielo.
+Refleja el Hielo
 
 [msg addeffect_150]
-Refleja el Viento.
+Refleja el Viento
 
 [msg addeffect_151]
-Refleja la Electricidad.
+Refleja la Electricidad
 
 [msg addeffect_152]
-Absorve el Fuego.
+Absorbe el Fuego
 
 [msg addeffect_153]
 Absorbe Hielo
@@ -464,7 +464,7 @@ Absorbe Hielo
 Absorbe Viento
 
 [msg addeffect_155]
-Absorve la Electricidad.
+Absorbe Electricidad
 
 [msg addeffect_156]
 Ninguno
@@ -566,26 +566,26 @@ Ninguno
 Ninguno
 
 [msg addeffect_189]
-Fortalece ataques de Fuego.
+Fortalece ataques de Fuego
 
 [msg addeffect_190]
-Fortalece ataques de Hielo.
+Fortalece ataques de Hielo
 
 [msg addeffect_191]
-Fortalece ataques de Viento.
+Fortalece ataques de Viento
 
 [msg addeffect_192]
-Fortalece ataques de Electricidad.
+Fortalece ataques El〒ctricos
 
 [msg addeffect_193]
-Debilita ataques de Fuego.
+Debilita ataques de Fuego
 
 [msg addeffect_194]
-Debilita ataques de Hielo.
+Debilita ataques de Hielo
 
 [msg addeffect_195]
-Debilita ataques de Viento.
+Debilita ataques de Viento
 
 [msg addeffect_196]
-Debilita ataques de Electricidad.
+Debilita ataques El〒ctricos
 
