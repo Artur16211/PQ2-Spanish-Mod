@@ -1,3 +1,3 @@
 [msg MSG_000 [Futaba]]
-ムAquボ vienen las Sombras! ムPrepホrate,[n]Joker!
+ムAquボ vienen las Sombras! ムPrepホrate, Joker!
 

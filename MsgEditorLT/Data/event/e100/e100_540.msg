@@ -8,7 +8,7 @@ Ngh... ムNnnnghhhhh!
 ムTengan cuidado!
 
 [msg MSG_003 [Hikari]]
-ムEek!
+ムAh!
 
 [msg MSG_004 [Nagi]]
 ムHikari!
@@ -20,7 +20,7 @@ Nggh... ムGggghhhhhh!
 メEh? メEstホ... sufriendo?
 
 [msg MSG_007 [Akechi]]
-No me digas que va a atacarnos... ムNo[n]podremos defendernos aquボ!
+No me digas que va a atacarnos... ムNo podremos defendernos aquボ!
 
 [msg MSG_008 [Doe]]
 Gggggghhhh...
@@ -100,23 +100,23 @@ Doe, メpara qu〒 es esta llave?
 ...
 
 [msg MSG_033 [Futaba]]
-Bueno, no es como si hubiera respondido[n]alguna de nuestras preguntas antes.
+Bueno, no es como si hubiera respondido alguna de nuestras preguntas antes.
 
 [msg MSG_034 [Nagi]]
-Sボ, no hemos logrado ningマn tipo de[n]comunicaciポn con Doe...
+Sボ, no hemos logrado ningマn tipo de comunicaciポn con Doe...
 Hikari, estホ todo bien ahora.
 
 [msg MSG_035 [Hikari]]
 ...
 
 [msg MSG_036 [Futaba]]
-Oye, メesa llave es para las cadenas de[n]la salida?
+Oye, メesa llave es para las cadenas de la salida?
 
 [msg MSG_037 [Morgana]]
-Ahora que lo mencionas, parece que esta[n]llave y una de las cerraduras de la[n]salida podrボan coincidir.
+Ahora que lo mencionas, parece que esta llave y una de las cerraduras de la salida podrボan coincidir.
 
 [msg MSG_038 [Haru]]
-Pero, メes seguro usarla? メY si explota[n]cuando la toquemos?
+Pero, メes seguro usarla? メY si explota cuando la toquemos?
 
 [msg MSG_039 [Elizabeth]]
 メY eso no te hace querer intentarlo?
@@ -125,45 +125,45 @@ Pero, メes seguro usarla? メY si explota[n]cuando la toquemos?
 ムAh! ムメQui〒nes son ellos?!
 
 [msg MSG_041 [Futaba]]
-Bueno, la versiポn resumida es: son la[n]Brigada Azul.
+Bueno, la versiポn resumida es: son la Brigada Azul.
 
 [msg MSG_042 [Makoto]]
 Ah, sボ, son bastante azules...
-Espera, ムメPor qu〒 estホ disfrazado de[n]palomitas?!
+Espera, ムメPor qu〒 estホ disfrazado de palomitas?!
 
 [msg MSG_043 [Theodore]]
-Ah, メte intriga este disfraz? Me[n]ordenaron usarlo como parte del ritual[n]de "la gran inauguraciポn"...
+Ah, メte intriga este disfraz? Me ordenaron usarlo como parte del ritual de "la gran inauguraciポn"...
 
 [msg MSG_044 [Elizabeth]]
 AHORA, メqu〒 harホs?
-メProbarホs la llave... o no? ムメCuホl es tu[n]decisiポn?!
+メProbarホs la llave... o no? ムメCuホl es tu decisiポn?!
 
 [sel SEL_045 top]
 Prob〒mosla.
-Es muy sospechoso...
+Es muy sospechosa...
 Podrボa ser una trampa.
 
 [msg MSG_046 [Yusuke]]
-Estoy de acuerdo. Si no lo intentamos,[n]no vamos a progresar.
+Estoy de acuerdo. Si no lo intentamos, no vamos a progresar.
 
 [msg MSG_047 [Ann]]
-Quiero decir, saliポ de su cuerpo...[n]tambi〒n me da un poco de miedo.
+Quiero decir, saliポ de su cuerpo... tambi〒n me da un poco de miedo.
 
 [msg MSG_048 [Yusuke]]
-Pero no tenemos nada mホs en qu〒[n]basarnos. Creo que vale la pena[n]intentarlo.
+Pero no tenemos nada mホs en qu〒 basarnos. Creo que vale la pena intentarlo.
 
 [msg MSG_049 [Ryuji]]
-Pero no hay nada mホs que podamos[n]intentar. Estamos atrapados aquボ.
+Pero no hay nada mホs que podamos intentar. Estamos atrapados aquボ.
 
 [msg MSG_050 [Yusuke]]
-Bueno, entonces, prob〒mosla de[n]inmediato.
+Bueno, entonces, prob〒mosla de inmediato.
 
 [msg MSG_051 [Elizabeth]]
-Si ya tomaron una decisiポn, entonces[n]vホmonos.
+Si ya tomaron una decisiポn, entonces vホmonos.
 
 [msg MSG_052 [Makoto]]
-Oye, メqui〒n demonios son esas personas[n]de azul?
+Oye, メqui〒n demonios son esas personas de azul?
 
 [msg MSG_053 [Ryuji]]
-No tenemos ni idea, pero intentar〒[n]ponerte al tanto de camino.
+No tenemos ni idea, pero intentar〒 explicarte de camino.
 

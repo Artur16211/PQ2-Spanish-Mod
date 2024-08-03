@@ -20,12 +20,12 @@ Ah, メEn serio?
 [msg MSG_006 [Akechi]]
 Es para detectarnos...
 O quizホ para vigilar a los ciudadanos...
-Todo sea por no dejar escapar ese "mal"[n]del que hablan.
+Todo sea por no dejar escapar ese "mal" del que hablan.
 
 [msg MSG_007 [Ryuji]]
-Ugh, hablar de ese tipo... ムMe hace[n]querer destruir cosas!
+Argh, hablar de ese tipo... ムMe hace querer destruir cosas!
 
 [msg MSG_008 [Futaba]]
-Te entiendo, ムpero ten cuidado! Estamos[n]en problemas si los captura el[n]enemigo...
-Asegマrese de[f 0 1 2] evitar las luces de[n]bマsqueda mientras se avanzan[f 0 1 0], メde[n]acuerdo?
+Te entiendo, ムpero ten cuidado! Estaremos en problemas si los captura el enemigo...
+Asegマrese de[f 0 1 2] evitar las luces de bマsqueda mientras avanzan[f 0 1 0], メde acuerdo?
 

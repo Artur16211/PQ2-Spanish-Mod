@@ -1,5 +1,5 @@
 [msg MSG_000 [Futaba]]
-ムJoker, espera! Estoy recibiendo una[n]seワal enemiga adelante.
+ムJoker, espera! Estoy recibiendo una seワal enemiga adelante.
 メPuedes encargarte?
 
 [sel SEL_001 top]
@@ -10,5 +10,5 @@ Dame un momento.
 Muy bien, sigamos.
 
 [msg MSG_003 [Yusuke]]
-No perdemos nada preparホndonos para lo[n]peor. Debemos reagruparnos antes de[n]entrar.
+No perdemos nada preparホndonos para lo peor. Debemos reagruparnos antes de entrar.
 

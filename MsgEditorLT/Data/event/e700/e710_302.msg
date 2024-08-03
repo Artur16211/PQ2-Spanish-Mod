@@ -5,13 +5,13 @@
 Espera, メqu〒...? ムメNo hay nadie aquボ?!
 
 [msg MSG_001 [Akechi]]
-...Algo no estホ bien. メNo crees que estホ[n]demasiado tranquilo?
+...Algo no estホ bien. メNo crees que estホ demasiado tranquilo?
 
 [msg MSG_002 [Ann]]
-ムWhoa! ムメEnemigos?!
+ムAh! ムメEnemigos?!
 
 [msg MSG_003 [Futaba]]
-Pero, ムno nos persiguen! ムメQu〒 es son[n]estas lecturas...?!
+Pero, ムno nos persiguen! ムメQu〒 es son estas lecturas...?!
 
 [msg MSG_004 [Yusuke]]
 ムMiren!

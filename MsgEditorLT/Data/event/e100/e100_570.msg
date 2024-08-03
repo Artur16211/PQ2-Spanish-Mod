@@ -8,21 +8,21 @@
 ムY pensar que realmente funcionarボa!
 
 [msg MSG_003 [Morgana]]
-ムJe, je, je! メVes? ムJusto como[n]sospechホbamos!
+ムJe, je, je! メVes? ムJusto como sospechホbamos!
 
 [msg MSG_004 [Makoto]]
-Entonces, メeso significa que nuestro[n]secuestrador es ese ser llamado Doe, ya[n]que tenボa la llave?
+Entonces, メeso significa que nuestro secuestrador es ese ser llamado Doe, ya que tenボa la llave?
 
 [msg MSG_005 [Akechi]]
-No sabemos si actマa solo o no, pero no[n]hay duda de que estホ involucrado de[n]alguna manera.
+No sabemos si actマa solo o no, pero no hay duda de que estホ involucrado de alguna manera.
 
 [msg MSG_006 [Ann]]
-Entonces, メpor qu〒 nos soltarボa la[n]llave?
-※l tambi〒n parecボa estar sufriendo...[n]Estoy completamente perdida.
+Entonces, メpor qu〒 nos soltarボa la llave?
+※l tambi〒n parecボa estar sufriendo... Estoy completamente perdida.
 
 [msg MSG_007 [Ryuji]]
-Ya sabes, si tiene las llaves, メno[n]podrボamos simplemente obligarlo a[n]escupir las demホs?
-メPor qu〒 no acorralamos a Doe y[n]simplemente le decimos: "Danos las[n]llaves… ムO si no!"?
+Ya sabes, si tiene las llaves, メno podrボamos simplemente obligarlo a escupir las demホs?
+メPor qu〒 no acorralamos a Doe y simplemente le decimos: "Danos las llaves… ムO si no!"?
 
 [sel SEL_008 top]
 Eso suena peligroso...
@@ -30,44 +30,44 @@ Intent〒moslo.
 Buena suerte con eso, Ryuji.
 
 [msg MSG_009 [Ann]]
-Creo que... メNo serボa mホs inteligente no[n]provocarlo?
+Creo que... メNo serボa mホs inteligente no provocarlo?
 
 [msg MSG_010 [Futaba]]
-Todo eso del "Nnghhh" fue espeluznante...[n]Siento que explotarホ si lo molestamos. Serホ el[n]fin para nosotros.
+Todo eso del "Nnghhh" fue espeluznante... Siento que explotarホ si lo molestamos. Serホ el fin para nosotros.
 
 [msg MSG_011 [Ann]]
-ムEspera un momento! メNo serボa mホs[n]inteligente no provocarlo?
+ムEspera un momento! メNo serボa mホs inteligente no provocarlo?
 
 [msg MSG_012 [Futaba]]
-Sボ, podrボa decir "Nnghhh" y explotar...[n]Serボa el fin para nosotros.
+Sボ, podrボa decir "Nnghhh" y explotar... Serボa el fin para nosotros.
 
 [msg MSG_013 [Ryuji]]
-ムメVas a hacerme hacerlo solo?!
+ムメVas a dejarme solo?!
 
 [msg MSG_014 [Ann]]
 Mホs vale no hacer nada estマpido, Ryuji.
-Parece peligroso enojar algo que[n]realmente no entendemos.
+Parece peligroso enojar algo que realmente no entendemos.
 
 [msg MSG_015 [Futaba]]
-Sボ, podrボa decir "Nnghhh" y explotar...[n]Serボa el fin para nosotros.
+Sボ, podrボa decir "Nnghhh" y explotar... Serボa el fin para nosotros.
 
 [msg MSG_016 [Ryuji]]
-Entonces, メqu〒 se supone que debemos[n]hacer con las otras tres cerraduras?
+Entonces, メqu〒 se supone que debemos hacer con las otras tres cerraduras?
 
 [msg MSG_017 [Makoto]]
-Esto es totalmente conjetura de mi[n]parte...
-Pero, si cambiar el final de la pelボcula[n]llevポ a que Doe soltara una llave...
-Quizホs solo necesitemos cambiar otras[n]tres pelボculas. Quiero decir, serボa[n]lポgico.
+Esta es una conjetura de mi parte...
+Pero, si cambiar el final de la pelボcula llevポ a que Doe soltara una llave...
+Quizホs solo necesitemos cambiar otras tres pelボculas. Quiero decir, serボa lポgico.
 
 [msg MSG_018 [Haru]]
-メEstホn proyectando alguna otra pelボcula[n]en el cine?
+メEstホn proyectando alguna otra pelボcula en el cine?
 
 [msg MSG_019 [Nagi]]
-Hay otras tres, pero no han muestran[n]nada desde que ocurriポ la anomalボa...
+Hay otras tres, pero no han mostrado nada desde que ocurriポ la anomalボa...
 
 [msg MSG_020 [Makoto]]
-Bueno, al menos los nマmeros parecen[n]coincidir.
-Qu〒 dilema tan complicado. Si tan solo[n]tuvi〒ramos mホs informaciポn...
+Bueno, al menos los nマmeros parecen coincidir.
+Qu〒 dilema tan complicado. Si tan solo tuvi〒ramos mホs informaciポn...
 
 [msg MSG_021 [Hikari]]
 ...
@@ -79,38 +79,38 @@ Qu〒 dilema tan complicado. Si tan solo[n]tuvi〒ramos mホs informaciポn...
 ...メEh?
 
 [msg MSG_024 [Futaba]]
-Oh, um, bueno... Parecボa que querボas[n]decir algo...
+Oh, um, bueno... Parecボa que querボas decir algo...
 
 [msg MSG_025 [Hikari]]
 ...
-Mm... No s〒 si esto es una pista o no,[n]pero...
-He tenido esto conmigo desde que[n]despert〒...
+Mm... No s〒 si esto es una pista o no, pero...
+He tenido esto conmigo desde que despert〒...
 
 [msg MSG_026 [Futaba]]
-Mmm, メqu〒 es esto? メEs como el cuaderno[n]que nos diste antes?
+Mmm, メqu〒 es esto? メEs como el cuaderno que nos diste antes?
 
 [msg MSG_027 [Nagi]]
 Una invitaciポn...
 
 [msg MSG_028 [Futaba]]
-メ"Por favor, ven a ver la pelボcula, sin[n]importar qu〒..."?
+メ"Por favor, ven a ver la pelボcula, sin importar qu〒..."?
 
 [msg MSG_028_5 [Futaba]]
-E-espera, メqu〒? メSe supone que esta[n]carta es una amenaza?
+E-espera, メqu〒? メSe supone que esta carta es una amenaza?
 
 [msg MSG_029 [Ryuji]]
-Eso significa que Hikari fue traボda aquボ[n]por alguien, o al menos le pidieron que[n]viniera aquボ.
-Quizホs realmente sea Doe despu〒s de[n]todo.
+Eso significa que Hikari fue traボda aquボ por alguien, o al menos le pidieron que viniera.
+Quizホs realmente sea Doe despu〒s de todo.
 
 [msg MSG_030 [Hikari]]
-N-no lo s〒... No s〒 nada... Tengo[n]miedo...
+N-no lo s〒... No s〒 nada... Tengo miedo...
 
 [msg MSG_031 [P3 Fem Protag]]
-Has estado sola desde que despertaste,[n]puedo entender por qu〒 te sientes asボ...
-Pero, ムno te preocupes! Ahora cuentas[n]con Nagi y nosotros a tu lado.
+Has estado sola desde que despertaste, puedo entender por qu〒 te sientes asボ...
+Pero, ムno te preocupes! Ahora cuentas con Nagi y nosotros a tu lado.
 
 [msg MSG_032 [Haru]]
-Tiene razポn. Trabajaremos juntos y[n]saldremos de este lugar, メestホ bien?
+Tiene razポn. Trabajaremos juntos y saldremos de este lugar, メestホ bien?
 
 [msg MSG_033 [Hikari]]
 ...ムA-ah!
@@ -125,19 +125,19 @@ Hay una pelボcula... que necesito ver...
 ムメEh?!
 
 [msg MSG_037 [Intercomunicaciポn Del Teatro]]
-Tenemos un anuncio para nuestros[n]clientes.
-Una nueva pelボcula comenzarホ a[n]proyectarse en la Sala 2 en breve.[n]Repito...
+Tenemos un anuncio para nuestros clientes.
+Una nueva pelボcula comenzarホ a proyectarse en la Sala 2 en breve. Repito...
 
 [msg MSG_038 [Morgana]]
-メUna nueva pelボcula, justo cuando[n]estホbamos hablando de eso? メDeberボamos[n]echarle un vistazo?
+メUna nueva pelボcula, justo cuando estホbamos hablando de eso? メDeberボamos echarle un vistazo?
 
 [msg MSG_039 [Ann]]
-ムSボ! Eh, メdijo que era en la Sala 2,[n]verdad?
+ムSボ! Eh, メdijo que era en la Sala 2, verdad?
 
 [msg MSG_040 [Nagi]]
-Permボtanme guiarlos entonces. Por favor,[n]sボganme.
+Permボtanme guiarlos entonces. Por favor, sボganme.
 
 [msg MSG_041]
-Nagi se alejポ en direcciポn a las salas[n]de cine...
+Nagi se alejポ en direcciポn a las salas de cine...
 Deberボamos dirigirnos a la Sala 2...
 

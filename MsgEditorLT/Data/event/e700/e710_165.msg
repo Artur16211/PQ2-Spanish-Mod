@@ -1,5 +1,5 @@
 [msg MSG_000 [Ann]]
-Uf... Finalmente, llegamos las[n]escaleras.
+Uf... Finalmente, llegamos las escaleras.
 Parece que podemos bajar.
 
 [msg MSG_001 [Ann]]
@@ -13,5 +13,5 @@ Aマn no.
 ムSボ! ムVamos!
 
 [msg MSG_004 [Ryuji]]
-メMm? メTodavボa hay algo que aquボ?
+メMm? メTodavボa hay algo que hacer aquボ?
 

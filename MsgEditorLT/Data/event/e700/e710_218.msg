@@ -1,5 +1,5 @@
 [msg MSG_000 [Yusuke]]
-Mm, su belleza es aマn mホs cautivadora de[n]cerca...
+Mm, su belleza es aマn mホs cautivadora de cerca...
 
 [msg MSG_001 [Ryuji]]
 ムMuy bien! ムVamos a revisar!
@@ -8,6 +8,6 @@ Mm, su belleza es aマn mホs cautivadora de[n]cerca...
 ムOye! Entiendo su entusiasmo...
 
 [msg MSG_002_5 [Morgana]]
-Pero no es que los enemigos desaparezcan[n]mientras estamos lo revisamos.
+Pero no es que los enemigos desaparezcan mientras estamos revisando.
 ムSerホ mejor tener cuidado!
 

@@ -1,5 +1,5 @@
 [msg MSG_000 [Morgana]]
-ムEsta es nuestra declaraciポn contra el[n]falso h〒roe!
+ムEsta es nuestra declaraciポn contra el falso h〒roe!
 
 [msg MSG_001 [P3 Fem Protag]]
 ムEspero que est〒s listo!
@@ -14,19 +14,19 @@ Malditos...
 Sボ, ムeso es!
 
 [msg MSG_005 [Yusuke]]
-*risa* Parece que las falsificaciones[n]pueden ser bastante マtiles.
+*risa* Parece que las falsificaciones pueden ser bastante マtiles.
 
 [msg MSG_006 [Kamoshidaman]]
 ムEh! ムメQu〒 hicieron?!
 
 [msg MSG_007 [Morgana]]
-Somos los Ladrones Fantasma. ムSi[n]queremos robar algo, lo haremos!
+Somos los Ladrones Fantasma. ムSi queremos robar algo, lo haremos!
 
 [msg MSG_008 [Kamoshidaman]]
-ムCポmo se atreven a desafiarme, malditos[n]insolentes!
+ムCポmo se atreven a desafiarme, malditos insolentes!
 
 [msg MSG_009 [Hombre Indeciso]]
-メLadrones Fantasma? Pero, ellos son[n]criminales... ムメCierto?!
+メLadrones Fantasma? Pero, ellos son criminales... ムメCierto?!
 
 [msg MSG_010 [Hombre Enojado]]
 Kamoshidaman, ムcastボgalos!
@@ -41,8 +41,8 @@ Entonces, メcuホl es tu respuesta?
 Tu "justicia" ha terminado.
 
 [msg MSG_014 [Kamoshidaman]]
-ムSilencio, ladrones! Todos ustedes son[n]malhechores por alborotar a los[n]ciudadanos.
-Mi existencia es la justicia encarnada[n]de Ciudad Kamo.
+ムSilencio, ladrones! Todos ustedes son malhechores por alborotar a los ciudadanos.
+Mi existencia es la justicia encarnada de Ciudad Kamo.
 
 [msg MSG_015 [Kamoshidaman]]
 ムLes mostrar〒 el poder de un h〒roe!
@@ -51,5 +51,5 @@ Mi existencia es la justicia encarnada[n]de Ciudad Kamo.
 ムAquボ viene!
 
 [msg MSG_017 [Kamoshidaman]]
-ムHraaaaaaaaah... la justicia[n]prevalecerホ!
+ムHraaaaaaaaah... la justicia prevalecerホ!
 

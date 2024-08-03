@@ -1,47 +1,47 @@
 [msg MSG_000 [Haru]]
-Asボ que este es el cine... Vaya,[n]realmente estホbamos dentro de una[n]pelボcula...
+Asボ que este es el cine... Vaya, realmente estホbamos dentro de una pelボcula...
 
 [msg MSG_001 [Makoto]]
-Se siente extraワo saber que podボan[n]vernos desde aquボ...
+Se siente extraワo saber que podボan vernos desde aquボ...
 
 [msg MSG_002 [Ryuji]]
-Y, sigue siendo un misterio por qu〒[n]Kamoshida estaba allボ.
+Y, sigue siendo un misterio por qu〒 Kamoshida estaba allボ.
 
 [msg MSG_003 [Haru]]
-Segマn lo que dijiste, el h〒roe original[n]en la pelボcula no era 〒l.
+Segマn lo que dijeron, el h〒roe original en la pelボcula no era 〒l.
 
 [msg MSG_004 [Morgana]]
-Bien, parece haber cambiado a[n]Kamoshidaman despu〒s de que llegホramos.
+Sボ, parece haber cambiado a Kamoshidaman despu〒s de que llegホramos.
 
 [msg MSG_005 [Akechi]]
-Supuestamente, era alguien completamente[n]diferente.
+Supuestamente, era alguien completamente diferente.
 
 [msg MSG_006 [Makoto]]
-Mmm. Eso es simplemente una suposiciポn,[n]pero メtal vez... la pelボcula fue editada[n]por algo mホs personal?
-Por ejemplo, cambiar a nuestro oponente[n]por una persona que nos sea familiar.
+Eso es simplemente una suposiciポn, pero メtal vez... la pelボcula fue editada por algo mホs personal?
+Por ejemplo, cambiar a nuestro oponente por una persona que nos sea familiar.
 
 [msg MSG_007 [Ryuji]]
-メEh? Entonces, メestホs diciendo que hay[n]algo en comマn entre Kamoshida y ese[n]h〒roe?
+メEh? Entonces, メestホs diciendo que hay algo en comマn entre Kamoshida y ese h〒roe?
 
 [msg MSG_008 [Yusuke]]
-Si lo que dice Makoto es verdad...
-Una persona simbポlicamente similar al[n]personaje de esta pelボcula fue sacada de[n]nuestro mundo real.
-Asボ que, en otras palabras, le[n]"asignaron" ese papel.
+Si lo que dice Makoto debe ser verdad...
+Una persona simbポlicamente similar al personaje de esta pelボcula fue sacada de nuestro mundo real.
+Asボ que, en otras palabras, le "asignaron" ese papel.
 
 [msg MSG_009 [Nagi]]
-Me alegra que est〒n a salvo. Espero que[n]nadie est〒 herido.
+Me alegra que est〒n a salvo. Espero que nadie est〒 herido.
 
 [msg MSG_010 [Makoto]]
-メSon ustedes dos son los que conocieron[n]antes en este cine?
+メSon ustedes dos las que conocieron antes en este cine?
 
 [msg MSG_011 [Nagi]]
-Sボ, soy Nagi, la Curadora. Esta es[n]Hikari.
+Sボ, soy Nagi, la Curadora. Esta es Hikari.
 
 [msg MSG_012 [Hikari]]
 ...
 
 [msg MSG_013 [Haru]]
-Encantada de conocerte, mi nombre es[n]Haru Okumura.
+Encantada de conocerte, mi nombre es Haru Okumura.
 
 [msg MSG_014 [Makoto]]
 Soy Makoto Niijima. Somos amigas suyas.
@@ -53,20 +53,20 @@ Soy Makoto Niijima. Somos amigas suyas.
 Um...
 
 [msg MSG_017 [Ann]]
-Es un poco tボmida... Algo asボ como[n]Futaba antes.
+Es un poco tボmida... Algo asボ como Futaba antes.
 
 [msg MSG_018 [Ryuji]]
 Hikari, メcポmo estuvo la pelボcula?
 
 [msg MSG_018_5 [Ryuji]]
-ムDerrotamos a Kamoshidaman! ムEspero que[n]lo hayas visto!
+ムDerrotamos a Kamoshidaman! ムEspero que lo hayas visto!
 
 [msg MSG_019 [Hikari]]
 ...Sボ, lo hice.
 
 [msg MSG_020 [Ryuji]]
-Has tenido que ver esa pelボcula de[n]mierda una y otra vez, メverdad?
-メNo te sientes mejor ahora que tiene un[n]final?
+Has tenido que ver esa pelボcula de mierda una y otra vez, メverdad?
+メNo te sientes mejor ahora que tiene un final?
 
 [msg MSG_021 [Hikari]]
 Mmm...
@@ -75,10 +75,10 @@ Mmm...
 ムメSボ?!
 
 [msg MSG_023 [Hikari]]
-Me alegra... que rescataras a tus[n]amigas.
+Me alegra... que rescataras a tus amigas.
 
 [msg MSG_024 [Haru]]
-Estabas preocupada por nosotras.[n]Gracias.
+Estabas preocupada por nosotras. Gracias.
 
 [msg MSG_025 [Hikari]]
 Oh... Mm...
@@ -87,7 +87,7 @@ Oh... Mm...
 Pero, ahora lo entiendes, メverdad?
 
 [msg MSG_026_5 [Morgana]]
-ムNada es imposible para nosotros![n]メVerdad, [f 6 1 30 0 0 0]?
+ムNada es imposible para nosotros! メVerdad, [f 6 1 30 0 0 0]?
 
 [sel SEL_027 top]
 Es cierto.
@@ -98,23 +98,23 @@ Bueno, algunas cosas lo son.
 ...
 
 [msg MSG_029 [Morgana]]
-Mmm, ella no parece confiar tanto en[n]nosotros todavボa.
+Mmm, ella no parece confiar tanto en nosotros todavボa.
 
 [msg MSG_030 [Hikari]]
 ...
 
 [msg MSG_031 [Morgana]]
-Vaya, estaba TRATANDO de hacernos quedar[n]bien... ムPodrボas haberme seguido la[n]corriente!
+Vaya, estaba TRATANDO de hacernos quedar bien... ムPodrボas haberme seguido la corriente!
 
 [msg MSG_032 [Hikari]]
 ...
 
 [msg MSG_033 [Morgana]]
-Sin comentarios, メeh? Parece que tenemos[n]que esforzarnos mホs la prポxima vez.
+Sin comentarios, メeh? Parece que tenemos que esforzarnos mホs la prポxima vez.
 
 [msg MSG_034 [Nagi]]
 Por otro lado, sobre esa pelボcula...
-El desenlace hacia el que dirigieron la[n]pelボcula podrボa haber sido cポmo se[n]suponボa que debボa terminar.
+El desenlace hacia el que dirigieron la pelボcula podrボa haber sido cポmo se suponボa que debボa terminar.
 
 [msg MSG_035 [Yusuke]]
 Cポmo se suponボa que debボa terminar...
@@ -126,53 +126,53 @@ Cポmo se suponボa que debボa terminar...
 ...メEh?
 
 [msg MSG_038 [Nagi]]
-La pelボcula que se proyectaba antes[n]trataba sobre un mundo donde alguien en[n]el poder gobernaba de la misma manera.
-Esa puede ser una forma de vivir,[n]pero...
-Sospecho que la pelボcula editada[n]transmitボa un mensaje diferente.
+La pelボcula que se proyectaba antes trataba sobre un mundo donde alguien en el poder gobernaba de la misma manera.
+Esa puede ser una forma de vivir, pero...
+Sospecho que la pelボcula editada transmitボa un mensaje diferente.
 
 [msg MSG_039 [P3 Fem Protag]]
 Me pregunto cuホl serホ...
 
 [msg MSG_040 [Nagi]]
-Aquellos con poder no pueden equivocarse[n]en cポmo usar ese poder.
-Usarlo para salvar a los d〒biles y[n]castigar el mal, asボ es como deberボa[n]comportarse un verdadero h〒roe...
-メQuizホs ese era el verdadero punto de la[n]pelボcula?
+Aquellos con poder no pueden equivocarse.
+Usarlo para salvar a los d〒biles y castigar el mal, asボ es como deberボa comportarse un verdadero h〒roe...
+メQuizホs ese era el verdadero punto de la pelボcula?
 
 [msg MSG_041 [Hikari]]
 Yo... Sobre la pelボcula...
-La manera en que la veボa... fue[n]completamente diferente.
+La manera en que la veボa... era completamente diferente.
 
 [msg MSG_042 [Ann]]
 メQu〒 tipo de historia creボas que era?
 
 [msg MSG_043 [Hikari]]
-Si te enfrentas a quien est〒 a cargo, te[n]seワalarホn por perturbar la paz.
-Y, la gente que te rodea... te mirarホ[n]raro...
+Si te enfrentas a quien estホ a cargo, te seワalarホn por perturbar la paz.
+Y, la gente que te rodea... te mirarホ raro...
 
 [msg MSG_043_5 [Hikari]]
-Cuando la mayorボa cree que hace lo[n]correcto, simplemente es mホs fホcil[n]seguir la corriente...
-Por eso... pens〒 que la pelボcula iba a[n]terminar con todos simplemente haciendo[n]lo que les decボan.
+Cuando la mayorボa cree que hace lo correcto, simplemente es mホs fホcil seguir la corriente...
+Por eso... pens〒 que la pelボcula iba a terminar con todos simplemente haciendo lo que les decボan.
 
 [sel SEL_044 top]
 Es una situaciポn complicada.
 Esa serボa la peor pelボcula.
 
 [msg MSG_045 [Akechi]]
-Es cierto que algo asボ ocurre en la[n]realidad de vez en cuando.
+Es cierto que algo asボ ocurre en la realidad de vez en cuando.
 
 [msg MSG_046 [Ann]]
-No me gustarボa que algo asボ...
+No me gustarボa algo asボ...
 
 [msg MSG_046_5 [Ann]]
-Y no se trata solo de mボ... no puedo[n]obedecer a alguien si eso significa[n]abandonar a mis compaワeros y amigos.
+Y no se trata solo de mボ... no puedo obedecer a alguien si eso significa abandonar a mis compaワeros y amigos.
 
 [msg MSG_047 [Ryuji]]
-Sボ, besarle el culo a un pez gordo puede[n]facilitarte la vida...
-Pero, メpuedes estar a gusto contigo[n]mismo haciendo eso? Yo no serボa capaz de[n]soportarlo.
+Sボ, besarle el culo a un pez gordo puede facilitarte la vida...
+Pero, メpuedes estar bien contigo mismo haciendo eso? Yo no serボa capaz de soportarlo.
 
 [msg MSG_048 [Futaba]]
 E-entonces... メY tマ, Hikari?
-Creo que los compaワeros y amigos que te[n]ayudan son... realmente importantes.
+Creo que los compaワeros y amigos que te ayudan son... realmente importantes.
 
 [msg MSG_049 [Hikari]]
 ...
@@ -181,8 +181,8 @@ Creo que los compaワeros y amigos que te[n]ayudan son... realmente importantes.
 メHikari?
 
 [msg MSG_051 [Hikari]]
-... No lo s〒.
-Mi corazポn... siento como si estuviera[n]retorcido en este momento...
+...No lo s〒.
+Mi corazポn... siento como si estuviera retorcido en este momento...
 
 [msg MSG_052 [Nagi]]
 Hikari...
@@ -191,7 +191,7 @@ Hikari...
 ...
 
 [msg MSG_054 [Ryuji]]
-ムムムWhoa!!!
+ムムムAh!!!
 
 [msg MSG_055 [Hikari]]
 ム...!
@@ -200,10 +200,10 @@ Hikari...
 ムメDoe?!
 
 [msg MSG_057 [Makoto]]
-メQ-qu〒 es eso, メun muワeco?!
+ムメQ-qu〒 es eso, un muワeco?!
 
 [msg MSG_058 [Haru]]
-Oh, メes ese el proyeccionista del que[n]nos hablaste, que estホ reproduciendo la[n]pelボcula?
+Oh, メes ese el proyeccionista del que nos hablaste, que estホ reproduciendo la pelボcula?
 
 [msg MSG_059 [Hikari]]
 ...
@@ -212,7 +212,7 @@ Oh, メes ese el proyeccionista del que[n]nos hablaste, que estホ reproduciendo
 ...Hikari, ven.
 
 [msg MSG_061 [Akechi]]
-Quizホs estホ molesto porque cambiamos la[n]pelボcula sin su permiso.
+Quizホs estホ molesto porque cambiamos la pelボcula sin su permiso.
 
 [msg MSG_062 [Morgana]]
 Espera... メAlgo anda mal?
@@ -227,7 +227,7 @@ Ngh... ムNnnnghhhhh!
 ムCuidado!
 
 [msg MSG_0003 [Hikari]]
-ムEek!
+ムAh!
 
 [msg MSG_0004 [Nagi]]
 ムHikari!
@@ -239,7 +239,7 @@ Nggh... ムGggghhhhhh!
 メEh? メEstホ... sufriendo?
 
 [msg MSG_0007 [Akechi]]
-No me digas que va a atacarnos... ムNo[n]podremos defendernos aquボ!
+No me digas que va a atacarnos... ムNo podremos defendernos aquボ!
 
 [msg MSG_0008 [Doe]]
 Gggggghhhh...
@@ -319,7 +319,7 @@ Doe, メpara qu〒 es esta llave?
 ...
 
 [msg MSG_0033 [Futaba]]
-Bueno, no es como si nos hubiera dicho[n]algo antes.
+Bueno, no es como si nos hubiera hablado antes.
 
 [msg MSG_0034 [Nagi]]
 Hikari, todo estホ bien.
@@ -328,10 +328,10 @@ Hikari, todo estホ bien.
 ...
 
 [msg MSG_0036 [Futaba]]
-Oye, メesa llave es para las cadenas de[n]la salida?
+Oye, メesa llave es para las cadenas de la salida?
 
 [msg MSG_0037 [Morgana]]
-Ahora que lo mencionas, parece que esta[n]llave y uno de los candados de la salida[n]podrボan coincidir.
+Ahora que lo mencionas, parece que esta llave y uno de los candados de la salida podrボan coincidir.
 
 [msg MSG_0038 [Haru]]
 Pero, メY si explota cuando lo toquemos?
@@ -340,21 +340,21 @@ Pero, メY si explota cuando lo toquemos?
 メY no quieres intentarlo?
 
 [msg MSG_0040 [Haru]]
-ムWah! ムメQui〒nes son ellos?!
+ムAh! ムメQui〒nes son ellos?!
 
 [msg MSG_0041 [Futaba]]
 Bueno, en resumen: son la Brigada Azul.
 
 [msg MSG_0042 [Makoto]]
 Ah, sボ, son bastante azules...
-Espera, メqu〒...? ムメPor qu〒 〒l es una[n]bolsa de palomitas?!
+Espera, メqu〒...? ムメPor qu〒 〒l es una bolsa de palomitas?!
 
 [msg MSG_0043 [Theodore]]
-Ah, メte pica la curiosidad este disfraz?[n]Me ordenaron usarlo como parte del[n]ritual de la 'gran apertura', asボ que...
+Ah, メte pica la curiosidad este disfraz? Me ordenaron usarlo como parte del ritual de la 'gran apertura', asボ que...
 
 [msg MSG_0044 [Elizabeth]]
 AHORA, メqu〒 van a hacer?
-メVas a probar la llave... o no? ムメQu〒[n]vas a hacer?!
+メVan a probar la llave... o no? ムメQu〒 van a hacer?!
 
 [sel SEL_0045 top]
 Vamos a probar.
@@ -362,26 +362,26 @@ Es bastante sospechosa...
 Podrボa ser una trampa.
 
 [msg MSG_0046 [Yusuke]]
-Estoy de acuerdo. Si no lo intentamos,[n]no haremos ningマn progreso.
+Estoy de acuerdo. Si no lo intentamos, no haremos ningマn progreso.
 
 [msg MSG_0047 [Ann]]
-Quiero decir, saliポ de su cuerpo...[n]Tambi〒n me asusto.
+Quiero decir, saliポ de su cuerpo... Tambi〒n me asusto.
 
 [msg MSG_0048 [Yusuke]]
-Pero no tenemos nada mホs. Creo que vale[n]la pena intentarlo.
+Pero no tenemos nada mホs. Creo que vale la pena intentarlo.
 
 [msg MSG_0049 [Ryuji]]
-No hay nada mホs que podamos intentar.[n]Estamos atrapados aquボ.
+No hay nada mホs que podamos intentar. Estamos atrapados aquボ.
 
 [msg MSG_0050 [Yusuke]]
-Bueno, entonces, prob〒mosla de[n]inmediato.
+Entonces, prob〒mosla de inmediato.
 
 [msg MSG_0051 [Elizabeth]]
-Si has tomado una decisiポn, entonces[n]vホmonos.
+Si has tomado una decisiポn, entonces vホmonos.
 
 [msg MSG_0052 [Makoto]]
 Oye, メqui〒nes son esas personas de azul?
 
 [msg MSG_0053 [Ryuji]]
-No tenemos ni idea, pero intentar〒 darte[n]algunos detalles en el camino.
+No tenemos ni idea, pero intentar〒 explicarte en el camino.
 

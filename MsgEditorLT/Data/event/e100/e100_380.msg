@@ -2,11 +2,11 @@
 ムCuidado! Hay un guardia adelante.
 
 [msg MSG_001 [Morgana]]
-No parece estar vigilando nada en[n]particular...
+No parece estar vigilando nada en particular...
 メPor qu〒 estホ ahボ parado?
 
 [msg MSG_002 [Ryuji]]
-メTal vez estホ escapando? Parece un tipo[n]perezoso.
+メQuizホs solo estホ holgazaneando? Parece un tipo perezoso.
 
 [msg MSG_003 [Morgana]]
 No todos son como tマ, Skull.
@@ -15,23 +15,23 @@ No todos son como tマ, Skull.
 ムOye!
 
 [msg MSG_005 [Ann]]
-Olvボdalo. ムMira! メNo hay un agujero[n]abierto detrホs de 〒l?
+Olvボdalo. ムMira! メNo hay un agujero abierto detrホs de 〒l?
 
 [msg MSG_006 [Ryuji]]
-メEh? メUn agujero? メEstホn reparando las[n]alcantarillas o algo asボ?
+メEh? メUn agujero? メEstホn reparando las alcantarillas o algo asボ?
 
 [msg MSG_007 [Ann]]
-No, no, メno te parece que lo estホ[n]vigilando? Quizホ cosas como las lボneas[n]de energボa estホn bajo tierra.
-Tal vez la fuente de energボa de las[n]luces estホ en ese agujero.
+No, no, メno te parece que lo estホ vigilando? Quizホ cosas como las lボneas de energボa estホn bajo tierra.
+Tal vez la fuente de energボa de las luces estホ en ese agujero.
 
 [msg MSG_008 [Akechi]]
-Eso tendrボa sentido. Dudo que tengan a[n]alguien vigilando sin motivo.
+Eso tendrボa sentido. Dudo que tengan a alguien vigilando sin motivo.
 
 [msg MSG_009 [Yusuke]]
-Mmm... Es una posibilidad, メpor qu〒 no[n]vamos a las alcantarillas y lo[n]comprobamos?
+Mm... Es una posibilidad, メpor qu〒 no vamos a las alcantarillas y lo comprobamos?
 
 [msg MSG_010 [Ryuji]]
-Bueno, tenemos que hacer algo con ese[n]policボa primero... メQu〒 hacemos, Joker?
+Bueno, tenemos que hacer algo con ese policボa primero... メQu〒 hacemos, Joker?
 
 [sel SEL_011 top]
 Vamos a derribarlo.
@@ -39,37 +39,37 @@ No tenemos opciポn...
 Hablemos con 〒l.
 
 [msg MSG_012 [Ryuji]]
-ムSボ! Suena como la forma mホs rホpida de[n]hacerlo.
+ムSボ! Suena como la forma mホs rホpida de hacerlo.
 
 [msg MSG_013 [Morgana]]
-Bueno, no es que podamos simplemente[n]convencerlo de dejarnos pasar.
+Bueno, no es que podamos simplemente convencerlo de dejarnos pasar.
 
 [msg MSG_014 [Ryuji]]
-ムBien, vamos a ir con 〒l y protegerlo!
+ムBien, vamos con 〒l y protejホmoslo!
 
 [msg MSG_015 [Yusuke]]
 No creo que funcione.
-Dudo que deje pasar a los criminales que[n]desafiaron a Kamoshidaman tan[n]fホcilmente.
+Dudo que deje pasar a los criminales que desafiaron a Kamoshidaman tan fホcilmente.
 
 [msg MSG_016 [Ryuji]]
 Je, ムHora de usar los puワos!
 
 [msg MSG_017 [Yusuke]]
-Espera, me gustarボa proponer una idea[n]primero...
+Espera, me gustarボa proponer una idea primero...
 メPor qu〒 no aprovechamos su uniforme?
 
 [msg MSG_018 [Ann]]
 メDesvestir al policボa? メPor qu〒?
 
 [msg MSG_019 [Yusuke]]
-Si vamos a robar la estatua, supongo que[n]habrホ mホs guardias...
-Asボ que un uniforme policial puede ser[n]マtil para la operaciポn.
+Si vamos a robar la estatua, supongo que habrホ mホs guardias...
+Asボ que un uniforme policial puede ser マtil para la operaciポn.
 
 [msg MSG_020 [Morgana]]
-Asボ que un disfraz, メeh? No es mala[n]idea, aunque obviamente no ser〒 yo el[n]que lo use...
+Asボ que un disfraz, メeh? No es mala idea, aunque obviamente no ser〒 yo el que lo use...
 
 [msg MSG_021 [Akechi]]
-Estamos con nuestros trajes de Ladrポn[n]Fantasma, asボ que no podemos simplemente[n]quitホrnoslos.
+Estamos con nuestros trajes de Ladrポn Fantasma, asボ que no podemos simplemente quitホrnoslos.
 Lo que nos deja a...
 
 [msg MSG_022 [Ann]]
@@ -77,7 +77,7 @@ Lo que nos deja a...
 
 [msg MSG_023 [P3 Fem Protag]]
 メEh? メYo? メDisfrazarme de policボa?
-ムEso suena divertido! ムEscポgeme,[n]escポgeme! メPuedo, Joker?
+ムEso suena divertido! ムEscポgeme, escポgeme! メPuedo, Joker?
 
 [sel SEL_024 top]
 De acuerdo.
@@ -91,21 +91,21 @@ Pero... yo quiero usarlo...
 Dej〒mosle esto a [f 6 1 26 0 0 0].
 
 [msg MSG_027 [P3 Fem Protag]]
-ムMmm, cuenta conmigo! ムLlevar un disfraz[n]me harホ sentir como un ladrポn de[n]primera!
+ムCuenta conmigo! ムLlevar un disfraz me harホ sentir como un ladrポn de primera!
 
 [msg MSG_028 [Ann]]
-ムJa, ja, ja, ahora sボ que empiezas a[n]pensar como un ladrポn fantasma, [f 6 1 27 0 0 0]!
+ムJa, ja, ja, ahora sボ que empiezas a pensar como un ladrポn fantasma, [f 6 1 27 0 0 0]!
 
 [msg MSG_029 [P3 Fem Protag]]
-*risa* Bueno, ahora soy miembro de los[n]Ladrones Fantasma... ムD〒jamelo a mボ!
+*risita* Bueno, ahora soy miembro de los Ladrones Fantasma... ムD〒jamelo a mボ!
 
 [msg MSG_030 [Futaba]]
-ムBien, estホ decidido, encargu〒monos de[n]ese policボa! メListo, Joker?
+ムBien, estホ decidido, encargu〒monos de ese policボa! メListo, Joker?
 
 [sel SEL_031 top]
 Hagamoslo.
 Dame un segundo.
 
 [msg MSG_032 [Policボa De Guardia]]
-ムDeben ser ellos! ムEstホn todos[n]arrestados!
+ムSon ustedes! ムEstホn todos arrestados!
 

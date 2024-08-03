@@ -8,20 +8,20 @@
 Je, je, je, ムte lo mereces!
 
 [msg MSG_003 [Hombre Indeciso]]
-メNo se supone que la justicia... deberボa[n]ganar?
+メNo se supone que la justicia... deberボa ganar?
 
 [msg MSG_004 [Mujer Indecisa]]
 Esto es increボble...
 
 [msg MSG_005 [Akechi]]
-Todo lo que queda es que los ciudadanos[n]entren en razポn.
+Todo lo que queda es que los ciudadanos entren en razポn.
 
 [msg MSG_006 [Kamoshidaman]]
 Guhhh...
 
 [msg MSG_007 [Morgana]]
 ムKamoshidaman estホ fuera de combate!
-ムEs nuestra oportunidad de rescatar a[n]Queen y Noir!
+ムEs nuestra oportunidad de rescatar a Queen y Noir!
 
 [msg MSG_008 [Yusuke]]
 Excelente, yo ir〒.
@@ -30,28 +30,28 @@ Excelente, yo ir〒.
 Yo tambi〒n ir〒.
 
 [msg MSG_010 [Kamoshidaman]]
-ムYo castigo el mal por el bien de todos![n]ムNo se interpongan en mi camino!
+ムYo castigo el mal por el bien de todos! ムNo se interpongan en mi camino!
 
 [msg MSG_011 [Ryuji]]
 Ja, lo has entendido todo mal...
-Sujetados bajo tu egoボsta justicia...[n]ムEso no es paz NI felicidad!
+Sujetados bajo tu egoボsta justicia... ムEso no es paz NI felicidad!
 
 [msg MSG_012 [Kamoshidaman]]
-Pero... ムEl orden es perfecto con un[n]gobernante perfecto! メNo es asボ?
+Pero... ムEl orden es perfecto con un gobernante perfecto! メNo es asボ?
 
 [msg MSG_013 [Ann]]
-Puede que pienses que estホs haciendo[n]esto por la causa correcta, pero estホs[n]equivocado.
-Ya que tienes todo ese poder, ムtienes[n]que asegurarte de usarlo adecuadamente!
-メRealmente todos estホn tan satisfechos[n]con tu justicia? ムMボralo tマ mismo!
+Puede que pienses que estホs haciendo esto por la causa correcta, pero estホs equivocado.
+Ya que tienes todo ese poder, ムtienes que asegurarte de usarlo adecuadamente!
+メRealmente estホn todos tan satisfechos con tu justicia? ムMボralo tマ mismo!
 
 [msg MSG_014 [Hombre Indeciso]]
-Oye, entonces... メQui〒n tiene razポn al[n]final?
+Oye, entonces... メQui〒n tiene razポn al final?
 
 [msg MSG_015 [Mujer Indecisa]]
 メEh? メCポmo se supone que lo sepa?
 
 [msg MSG_016 [Hombre Indeciso]]
-Todo lo que hicimos fue lo que nos[n]dijo...
+Todo lo que hicimos fue lo que nos dijo...
 
 [msg MSG_017 [Kamoshidaman]]
 ムメPor qu〒?! ムメPor qu〒 no entienden?!
@@ -63,10 +63,10 @@ Todo lo que hicimos fue lo que nos[n]dijo...
 Queen, メestホs a salvo? メY tマ, Noir?
 
 [msg MSG_020 [Haru]]
-Mmm, yo tambi〒n estoy bien.
+Yo tambi〒n estoy bien.
 
 [msg MSG_021 [Morgana]]
-Bueno, entonces, Kamoshidaman: es hora[n]de rendir cuentas.
+Bueno, entonces, Kamoshidaman: es hora de rendir cuentas.
 Deja todas estas tonterボas y...
 
 [msg MSG_022 [Kamoshidaman]]
@@ -76,13 +76,13 @@ Deja todas estas tonterボas y...
 ムメEh?!
 
 [msg MSG_024 [Kamoshidaman]]
-ムLa justicia no pierde! ムLa justicia[n]siempre... GAAAAANA!
+ムLa justicia no pierde! ムLa justicia siempre... GAAAAANA!
 
 [msg MSG_025 [Makoto]]
 メSigues con eso?
 
 [msg MSG_026 [Ryuji]]
-Estホs siendo un verdadero perdedor.[n]Nadie piensa que eres un h〒ro...
+Estホs siendo un verdadero perdedor. Nadie piensa que eres un h〒ro...
 
 [msg MSG_027 [Kamoshidaman]]
 Hroooooaaaaaaah...
@@ -94,5 +94,5 @@ Hroooooaaaaaaah...
 ムCuidado, algo estホ pasando!
 
 [msg MSG_030 [Kamoshidaman]]
-No querボa revelar esto, pero ムahora es[n]demasiado tarde!
+No querボa revelar esto, pero ムahora es demasiado tarde!
 

@@ -1,3 +1,3 @@
 [msg MSG_000 [Futaba]]
-ムDetecto seワales de mマltiples Sombras![n]ムTen cuidado, Joker!
+ムDetecto seワales de mマltiples Sombras! ムTen cuidado, Joker!
 

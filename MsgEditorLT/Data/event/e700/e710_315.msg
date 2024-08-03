@@ -5,17 +5,17 @@
 ムメEh?! ムPens〒 que el FOE no se movボa!
 
 [msg MSG_002 [Akechi]]
-Es posible que solo comience a moverse[n]cuando haya un problema con las luces.
-Supongo que podrボamos llamarlo sistema[n]de seguridad dual... Esto va a ser una[n]molestia.
+Es posible que solo comience a moverse cuando haya un problema con las luces.
+Supongo que podrボamos llamarlo sistema de seguridad dual... Esto va a ser una molestia.
 
 [msg MSG_003 [Yusuke]]
-Estホs diciendo que[f 0 1 2] su comportamiento[n]estホ relacionado con los[n]interruptores[f 0 1 0]... Esto no es bueno.
+Estホs diciendo que[f 0 1 2] su comportamiento estホ relacionado con los interruptores[f 0 1 0]... Esto no es bueno.
 
 [msg MSG_004 [Ryuji]]
-No importa cポmo funcione, todo lo que[n]tenemos que hacer es engaワarlo como[n]siempre, メno?
-ムQuiero decir, vamos, toda esta[n]seguridad nos estホ gritando que hay algo[n]importante adelante!
+No importa cポmo funcione, todo lo que tenemos que hacer es engaワarlo como siempre, メno?
+ムQuiero decir, vamos, toda esta seguridad nos estホ gritando que hay algo importante adelante!
 
 [msg MSG_005 [Morgana]]
-ムSkull tiene razポn! No deberボamos tener[n]problemas si avanzamos con precauciポn...
+ムSkull tiene razポn! No deberボamos tener problemas si avanzamos con precauciポn...
 ムVamos, Joker!
 
