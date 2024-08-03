@@ -14,7 +14,7 @@ Mmm... メParece que son... coordenadas?
 ムObviamente es un mapa del tesoro!
 
 [msg MSG_004 [Futaba]]
-ムSボ, tiene que ser! ムQu〒 inteligente,[n]Mona!
+ムSボ, tiene que serlo! ムQu〒 inteligente, Mona!
 
 [msg MSG_005 [Ryuji]]
 メRealmente es tan inteligente?
@@ -24,21 +24,21 @@ Mmm... メParece que son... coordenadas?
 ムAlgo asボ!
 
 [msg MSG_007 [Ann]]
-Sボ, no es como si estuvi〒ramos seguros[n]de que es un mapa del tesoro...
+Sボ, no es como si estuvi〒ramos seguros de que es un mapa del tesoro...
 
 [msg MSG_008 [P3 Fem Protag]]
-ムPero no deberボamos ignorarlo! メPuedes[n]echar un vistazo Oracle?
+ムPero no deberボamos ignorarlo! メPuedes echar un vistazo Oracle?
 
 [msg MSG_009 [Ryuji]]
 Asボ que estホs de su lado.
-Bien, no es como si pudiera saber[n]realmente lo que es.
+Bien, no es como si pudiera saber realmente lo que es.
 
 [msg MSG_010 [P3 Fem Protag]]
-Sボ, quizホ sea real. メPuedes echar un[n]vistazo Oracle?
+Sボ, quizホ sea real. メPuedes echar un vistazo Oracle?
 
 [msg MSG_011 [Futaba]]
-Mm... Revisando coordenadas... Es aquボ,[n]aquボ...
+Mm... Revisando coordenadas... Es aquボ, aquボ...
 
 [msg MSG_012 [Futaba]]
-...ムY aquボ! ムAh, tenemos que revisar en[n]esos tres lugares!
+...ムY aquボ! ムAh, tenemos que revisar en esos tres lugares!
 

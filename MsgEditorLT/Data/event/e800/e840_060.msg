@@ -1,47 +1,47 @@
 [msg MSG_000 [Chie]]
-There are the fruits! Boy, they look[n]delicious!
+ムAhボ estホn las frutas! ムVaya, se ven deliciosas!
 
 [msg MSG_001 [Akechi]]
-Looks like they're around these dead[n]ends.
+Parece que estホn por estos callejones sin salida.
 
 [msg MSG_002 [Aigis]]
-Elizabeth informed us that there are[n]four locations in total.
-There are three areas remaining. Let us[n]proceed while watching for Shadows.
+Elizabeth nos informポ de que habボa cuatro localizaciones en total.
+Aマn quedan tres zonas. Prosigamos mientras estamos pendientes de las Sombras.
 
 [msg MSG_003 [Yosuke]]
-All right, that's the second one.
+Muy bien, esa es la segunda.
 
 [msg MSG_004 [Makoto]]
-Sure is hard to find these without any[n]hints. And the next one could be worse.
+Seguro que es difボcil encontrarlas sin ninguna pista. Y la siguiente podrボa ser aマn peor.
 
 [msg MSG_005 [Naoto]]
-Don't get too anxious. It has to be[n]somewhere.
-There are only two more locations. Let's[n]keep going.
+No est〒s tan inquieta. Tiene que estar en algマn lugar.
+Ya solo quedan dos lugares. Sigamos.
 
 [msg MSG_006 [Haru]]
-This is the third! Only one more to go!
+ムEsta es la tercera! ムSolo falta una!
 
 [msg MSG_007 [Mitsuru]]
-*chuckle* It's a strange feeling.
-Instead of running around like crazy,[n]I'm walking and thinking to myself, "Ah,[n]what a nice little stroll this is."
+*risita* Es una sensaciポn extraワa.
+En vez de correr como loca, voy andando y pensando: "Ah, qu〒 paseo mホs agradable".
 
 [msg MSG_008 [Yusuke]]
-Indeed... It's relaxing. We should thank[n]Elizabeth.
+En efecto... Es relajante. Deberボamos de agradec〒rselo a Elizabeth.
 
 [msg MSG_009 [P3 Hero]]
-I doubt she put that much thought into[n]this, but let's enjoy it while we can.
-The next one is going to be the last.
+Dudo que ella haya pensado mucho en esto, pero disfrutemos mientras podamos.
+La siguiente serホ la マltima.
 
 [msg MSG_010 [Futaba]]
-Aaaand that's the last one! Thus ends[n]the dangerous fruit-collecting mission!
+ムYyyyyy esta es la マltima! ムAsボ termina la peligrosa misiポn de recolectar fruta!
 
 [msg MSG_011 [Ken]]
-We walked a long way, and I don't even[n]feel tired.
+Hemos caminado mucho y aun asボ no me siento cansado.
 
 [msg MSG_012 [Koromaru]]
-Bark bark!
+ムBark bark!
 
 [msg MSG_013 [Aigis]]
-Koromaru-san says he's happy that he[n]didn't have to beg to go on a walk.
-But we must head back now. Elizabeth is[n]waiting for our return.
+Koromaru dice que estホ feliz de no haber tenido que suplicar para ir de paseo.
+Pero ahora debemos regresar. Elizabeth nos estホ esperando.
 

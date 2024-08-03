@@ -1,57 +1,57 @@
 [msg MSG_000 [Fuuka]]
-Parece un callejポn sin salida. メPor qu〒[n]no tomamos un descanso?
+Parece un callejポn sin salida. メPor qu〒 no tomamos un descanso?
 
 [msg MSG_001 [P3 Fem Protag]]
 ムSボ!
-Mientras caminaba estaba mirando todos[n]estos carteles de pelボculas, mi cuello[n]me estホ empezando a doler.
+Mientras caminaba estaba mirando todos estos carteles de pelボculas, mi cuello me estホ empezando a doler.
 
 [msg MSG_002 [Haru]]
-A mボ tambi〒n. Es difボcil no mirarlos[n]cuando hay tantos.
+A mボ tambi〒n. Es difボcil no mirarlos cuando hay tantos.
 
 [msg MSG_003 [Hikari]]
-メQu〒 clase de pelボculas ves? メHas visto[n]alguna recientemente?
+メQu〒 clase de pelボculas ves? メHas visto alguna recientemente?
 
 [msg MSG_004 [Yosuke]]
-Mi compaワero y yo vimos esta pelボcula[n]llamada "Loan of the Ring" que era[n]bastante divertida.
-La trama era una locura. Se trataba de[n]unos tipos arriesgando sus vidas para[n]poder pagar sus anillos de compromiso.
+Mi compaワero y yo vimos esta pelボcula llamada "Loan of the Ring" que era bastante divertida.
+La trama era una locura. Se trataba de unos tipos arriesgando sus vidas para poder pagar sus anillos de compromiso.
 
 [msg MSG_005 [P4 Hero]]
-Estuvo bien. Incluso me inspirポ a ser[n]mホs valiente.
+Estuvo bien. Incluso me dio mホs coraje.
 
 [msg MSG_006 [Mitsuru]]
-Veamos... La pelボcula romホntica que vi[n]recientemente fue bastante interesante.
+Veamos... La pelボcula romホntica que vi recientemente fue bastante interesante.
 
 [msg MSG_007 [Shinjiro]]
 ...メTマ? メUna pelボcula romホntica?
 
 [msg MSG_008 [Mitsuru]]
 ムメQu〒?! メQu〒 tiene raro eso?
-No es raro que yo vea algo romホntico,[n]メverdad?
+No es raro que yo vea algo romホntico, メverdad?
 
 [msg MSG_009 [Akihiko]]
-No es extraワo, pero difボcil de imaginar.[n]No estabas interesada en esas cosas[n]antes.
+No es extraワo, pero difボcil de imaginar. No estabas interesada en esas cosas antes.
 
 [msg MSG_010 [Mitsuru]]
-メEn serio? Son sorprendentemente[n]entretenidas.
-Las personas esclavas del amor a menudo[n]dejan que sus emociones las dominen y[n]toman decisiones irracionales.
-Hay mucho que no entiendo... Pero ver[n]personas con las que no me identifico es[n]bastante divertido.
+メEn serio? Son sorprendentemente entretenidas.
+Las personas esclavas del amor a menudo dejan que sus emociones las dominen y toman decisiones irracionales.
+Hay mucho que no entiendo... Pero ver personas con las que no me identifico es bastante divertido.
 
 [msg MSG_011 [Yosuke]]
 Es una forma de verlas...
 
 [msg MSG_012 [Hikari]]
-*risa* Creo que el hecho de que alguien pueda[n]disfrutar de ellas de esa manera es parte de[n]lo que las hace tan geniales.
-Las pelボculas te permiten experimentar[n]cosas que normalmente no puedes y ver[n]los valores de otra persona.
-Dependiendo de cポmo la veas, hay muchas[n]formas de disfrutar una pelボcula.
+*risita* Creo que el hecho de que alguien pueda disfrutar de ellas de esa manera es parte de lo que las hace tan geniales.
+Las pelボculas te permiten experimentar cosas que normalmente no puedes y ver los valores de otra persona.
+Dependiendo de cポmo la veas, hay muchas formas de disfrutar una pelボcula.
 
 [msg MSG_013 [Akihiko]]
-Entiendo. Es verdad que es importante[n]aprender sobre valores y mundos[n]diferentes al nuestro.
+Entiendo. Es verdad que es importante aprender sobre valores y mundos diferentes al nuestro.
 
 [msg MSG_014 [P3 Fem Protag]]
-Bueno, メte gustarボa ver una conmigo,[n]Akihiko? ムConozco la pelボcula romホntica[n]perfecta!
+メTe gustarボa ver una conmigo, Akihiko? ムConozco la pelボcula romホntica perfecta!
 
 [msg MSG_015 [Shinjiro]]
-...Nah, eso serボa imposible para Aki.[n]Apuesto a que se quedarボa dormido.
+...Ja, eso serボa imposible para Aki. Apuesto a que se quedarボa dormido.
 
 [msg MSG_016 [Akihiko]]
 メQu〒? Eso no es...
@@ -59,5 +59,5 @@ Bueno, メte gustarボa ver una conmigo,[n]Akihiko? ムConozco la pelボcula rom
 
 [msg MSG_017 [Mitsuru]]
 Lo imaginaba.
-...Bueno, terminemos esta pequeワa[n]charla. Tenemos que seguir avanzando.
+...Bueno, terminemos esta pequeワa charla. Tenemos que seguir avanzando.
 

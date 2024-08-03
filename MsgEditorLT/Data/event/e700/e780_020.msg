@@ -1,13 +1,13 @@
 [msg MSG_000 [Caroline]]
-ムParece que nos trajiste algo マtil por[n]una vez, Recluso!
+ムParece que nos trajiste algo マtil por una vez, Recluso!
 ムD〒jame ver!
 
 [msg MSG_001]
-Le entregu〒 [f 4 4 3 0 1602]...
+Les entregu〒 [f 4 4 3 0 1602]...
 
 [msg MSG_002 [Justine]]
-Hmm... Qu〒 intrigante...
-Esto puede ayudarnos a mejorar la[n]Habitaciポn Terciopelo.
+Mm... Qu〒 intrigante...
+Esto puede ayudarnos a mejorar la Habitaciポn Terciopelo.
 
 [msg MSG_003 [Caroline]]
 ムEspera aquボ, Recluso!
@@ -16,11 +16,11 @@ Esto puede ayudarnos a mejorar la[n]Habitaciポn Terciopelo.
 Minutos mホs tarde...
 
 [msg MSG_005 [Justine]]
-*jadeo* Fue complicado, pero esto[n]deberボa ser マtil para tu rehabilitaciポn.
+*jadeo* Fue complicado, pero esto deberボa ser マtil para tu rehabilitaciポn.
 
 [msg MSG_006]
-Ahora puedes usar ム[f 0 1 2]Fusiポn de 3 capas[f 0 1 0]![n]Esta requerirホ tres Personas para[n]funcionar.
+ムAhora puedes usar la [f 0 1 2]Fusiポn de 3-capas[f 0 1 0]! Esta requerirホ tres Personas para funcionar.
 
 [msg MSG_007 [Caroline]]
-ムNo desaproveches nuestra ayuda,[n]Recluso!
+ムNo desaproveches nuestra ayuda, Recluso!
 

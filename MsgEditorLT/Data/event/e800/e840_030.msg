@@ -1,44 +1,44 @@
 [msg MSG_000 [Yukari]]
-Whew... We've walked quite a ways.[n]Should we take a break?
+Uf... Hemos caminado bastante. メDeberボamos tomar un descanso?
 
 [msg MSG_001 [Teddie]]
-Yes! Let's all lie down! I get the spot[n]next to Yuka-chan!
+ムSボ! ムVamos a tumbarnos! ムMe quedo con el sitio al lado de Yuka!
 
 [msg MSG_002 [Morgana]]
-Well then I get the one next to Lady[n]Ann!
+ムBueno, entonces yo me quedo con el que est〒 al lado de la seワorita Ann!
 
 [msg MSG_003 [Kanji]]
-Then I'll take Mona...!
+Entonces, ムyo me quedo con Mona...!
 
 [msg MSG_004 [Futaba]]
-You're all hoping to get some pets, huh?[n]Kanji, at least the animals have an[n]excuse, for crying out loud.
+メTodos ustedes esperan recibir caricias, eh? Kanji, al menos los animales tienen una excusa, por el amor de Dios.
 
 [msg MSG_005 [Hikari]]
 ...
 
 [sel SEL_006 top]
-What's wrong?
-You're tired, too?
+メQu〒 ocurre?
+メTマ tambi〒n estホs cansada?
 
 [msg MSG_007 [Hikari]]
-Oh, I'm fine.
-I just get a strange feeling here.
-It's oddly bright, strange... And scary.
-But for some reason, I'm kind of[n]comfortable here.
+Oh, estoy bien.
+Solo tengo una sensaciポn extraワa aquボ.
+Es extraワamente brillante, extraワa... Y aterradora.
+Pero por alguna razポn, me siento cポmoda aquボ.
 
 [sel SEL_008 top]
-Well, it's your movie.
-It is a nice place.
+Bueno, es tu pelボcula.
+Es un lugar agradable.
 
 [msg MSG_009 [Hikari]]
-Mm-hm. Maybe this is like my second[n]home...
+Mmm... Quizホs este sea como mi segundo hogar...
 
 [msg MSG_010 [Hikari]]
-*chuckle* Thank you for complimenting my[n]movie.
+*risita* Gracias por elogiar mi pelボcula.
 
 [msg MSG_011 [Hikari]]
-I wonder if this will always be here...[n]Or if it will change.
+Me pregunto si esto siempre estarホ aquボ... O si cambiarホ.
 ...
-*chuckle* Sorry for getting lost in my[n]thoughts.
-Let's look for that fruit. We don't want[n]to keep Elizabeth waiting.
+*risita* Perdポn por perderme en mis pensamientos.
+Vamos a buscar esa fruta. No queremos que Elizabeth siga esperando.
 

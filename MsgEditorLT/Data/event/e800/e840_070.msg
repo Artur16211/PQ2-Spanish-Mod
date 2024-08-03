@@ -1,38 +1,38 @@
 [msg MSG_000 [Elizabeth]]
-Ambling around a fairytale-like world[n]harvesting fruit...
-Goodness, it was like a dream on the[n]screen. I felt so relaxed I was falling[n]asleep... Oh, did I say that out loud?
-That was a playful exaggeration. What I[n]meant to say was that I quite enjoyed[n]such a calming and pleasant experience.
+Recorrer un mundo de cuento de hadas recolectando fruta...
+Dios mボo, era como un sueワo en la pantalla. Estaba tan relajada que me estaba quedando dormida... Oh, メhe dicho eso en voz alta?
+Eso fue una exageraciポn juguetona. Lo que querボa decir es que disfrut〒 mucho de una experiencia tan tranquila y agradable.
 
 [msg MSG_001 [Yosuke]]
-She was sleeping.
+Ella estaba durmiendo.
 
 [msg MSG_002 [Ken]]
-Definitely.
+Definitivamente.
 
 [sel SEL_003 top]
-It was a fun mission.
-It was a drag.
+Fue una misiポn divertida.
+Fue un fastidio.
 
 [msg MSG_004 [P3 Fem Protag]]
-I mean, all we did was walk around, but[n]I had a good time all the same.
+Lo マnico que hicimos fue pasear, pero me lo pas〒 bien igualmente.
 
 [msg MSG_005 [Morgana]]
-And it provided quality time for talking[n]with companions, an important thing that[n]gets forgotten in a group this size.
+Y proporcionポ tiempo de calidad para hablar con los compaワeros, algo importante que se olvida en un grupo de este tamaワo.
 
 [msg MSG_006 [P3 Fem Protag]]
-*giggle* It WAS a long walk where not[n]much happened.
-But we got to relax a bit. And I got to[n]talk to everyone.
+*risita* FUE un largo paseo en el que no ocurriポ gran cosa.
+Pero pudimos relajarnos un poco. Y pude hablar con todo el mundo.
 
 [msg MSG_007 [P4 Hero]]
-So I guess it wasn't too bad. Looks like[n]everyone's morale went up, at least.
-So thank you, Elizabeth.
+Entonces supongo que no estuvo tan mal. Parece que al menos subiポ la moral de todos.
+Asボ que gracias, Elizabeth.
 
 [msg MSG_008 [Elizabeth]]
-*chuckle* ...No need to thank me.
-My own reward was time to rest,[n]increased morale, and of course...
-A pile of freshly gathered fruit!
-I am going to eat all of these right[n]here, and then the quest will be[n]complete.
+*risita* ... No tienen que agradec〒rmelo.
+Mi recompensa fue tiempo para descansar, mホs moral y, por supuesto...
+ムUn montポn de fruta reci〒n recogida!
+Me voy a comer todo esto, y entonces la misiポn estarホ completa.
 
 [msg MSG_009 [P3 Hero]]
-That's Elizabeth, as cunning as ever...
+Esa es Elizabeth, tan astuta como siempre...
 
