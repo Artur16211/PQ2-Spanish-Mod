@@ -2,7 +2,7 @@
 Dibujando y Borrando Paredes
 
 [msg map_help_title_002]
-Coloreando Azulejos
+Coloreando
 
 [msg map_help_title_003]
 Colocando y Quitando Iconos

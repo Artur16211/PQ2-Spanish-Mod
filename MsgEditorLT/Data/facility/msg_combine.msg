@@ -637,7 +637,7 @@ La habilidad de la Persona sacrificada habita en su interior...
 ムObtuviste [f 0 7 0 65535][f 2 5 3 65535 0][f 0 7 150 65535][f 2 5 3 65535 1] [f 0 7 0 65535][f 2 5 3 65535 2][f 0 7 150 65535][f 2 5 3 65535 3]!
 
 [msg msg_combine_sacrifice_it_3]
-Todas las ranuras de habilidades estホn llenas. Por favor, selecciona una habilidad para olvidar.
+Todas las ranuras de habilidades estホn llenas. Por favor, selecciona una a olvidar.
 
 [msg msg_combine_skcard_sel [Margaret]]
 Not used
@@ -694,36 +694,36 @@ Not used
 ★未使用！
 
 [msg msg_combine_HELP_ACCIDEN [Justine]]
-"Fusiポn de Personas" es un proceso muy delicado.
+Fusionar Personas es un proceso muy delicado.
 Aunque es muy raro, nos equivocamos ocasionalmente... y en tales casos, puede ocurrir un "accidente".
-Los accidentes en la fusiポn alteran el resultado del ritual. Especボficamente, invocando a un Persona diferente a la prevista.
-Incluso no podemos saber lo que surgirホ de tal error.
+Los accidentes en las fusiones alteran el resultado. Especボficamente, invocando a un Persona diferente a la prevista.
+No tenemos forma de saber que Persona saldrホ como resultado.
 
 [msg msg_combine_HELP_KENSAKU [Caroline]]
-Con "Bマsqueda de Fusiポn", ムPuedes ver todas las Personas que pueden ser invocadas!
-Puedes usar esto para buscar las Personas de mホs alto nivel que puedas invocar...
-Y si estホs buscando Personas que aマn no tienes en tus Cintas, tambi〒n te puede ser マtil.
+ムCon "Bマsqueda de Fusiポn", puedes ver todas las Personas que pueden ser invocadas!
+Puedes usar esto para buscar las Personas de mホs alto nivel que puedes invocar en ese momento...
+Tambi〒n te puede ser マtil si estホs buscando Personas que aマn no tienes en tus Cintas Persona.
 
 [msg msg_combine_HELP_3SIN [Justine]]
-"Fusiポn de 3 capas" es un ritual en el que tres Personas se fusionan para hacer una Persona de un nivel alto.
-Los tres serホn consumidos, pero el resultado final serホ notablemente fuerte.
+"Fusiポn de 3-capas" es un ritual en el que tres Personas se fusionan para hacer una Persona de un nivel aマn mホs alto.
+Las tres serホn consumidas, pero el resultado final serホ notablemente fuerte.
 Si quieres mホs poder, entonces sugiero usar este ritual sabiamente.
 
 [msg msg_combine_HELP_TOKUSYU [Caroline]]
-"Fusiポn especial" es una manera de invocar a una Persona especボfica, usando Personas especボficas en el proceso.
-Esta es la マnica manera de conseguir algunas Personas que no puedes invocar con fusiones normales.
-Puede que no sea fホcil, pero todas son Personas muy poderosas, definitivamente valen el esfuerzo extra.
-Podrボas intentarlo, al menos. ムUsa todas las ventajas que puedes conseguir!
+"Fusiポn Especial" es una manera de invocar a una Persona en especボfico, usando Personas especボficas en el proceso.
+Esta es la マnica manera de conseguir ciertas Personas que no puedes invocar con fusiones normales.
+Puede que no sea fホcil, pero todas son muy poderosas, definitivamente valen el esfuerzo extra.
+Podrボas intentarlo al menos. ムUsa todas las ventajas que puedas conseguir!
 
 [msg msg_combine_HELP_SACRIFI [Margaret]]
 Estoy a cargo de esto.
-La "Fusiポn de Sacrificio" es un arte secreto en el que una Persona es sacrificada para ayudar a otra Persona a mejorar.
-Cuanto mホs altos sean los niveles de la Persona Sacrificada, mホs mejoras obtendrホs.
+La "Fusiポn de Sacrificio" es un arte secreto en el que una Persona es sacrificada para ayudar a otra Persona a volverse mホs fuerte.
+Cuanto mホs alto sea el nivel de la Persona Sacrificada, mホs mejoras obtendrホ.
 Normalmente, este arte secreto requiere un pago apropiado...
 Pero en nombre de otras investigaciones, existe una condiciポn especial.
-La primera vez que sacrifiques a cualquier Persona individual, realizar〒 el ritual de forma gratuita.
-Puedes mejorar tu Persona principal de esta manera, tambi〒n. Puede ser una buena manera de fortalecerse.
-Cuando obtienes una Persona nueva, メpor qu〒 no usas la Fusiポn de Sacrificio al menos una vez?
+La primera vez que sacrifiques a cualquier Persona, realizar〒 el ritual de forma gratuita.
+Puedes mejorar a tu Persona principal de esta manera. Puede ser una buena manera de fortalecerla.
+Cuando obtengas una Persona nueva, メpor qu〒 no pruebas la Fusiポn de Sacrificio al menos una vez?
 
 [msg msg_combine_HELP_ACCESSO [Margaret]]
 Not used
@@ -735,72 +735,72 @@ Not used
 ★未使用！
 
 [msg msg_combine_NETWORK_HELP [Marie]]
-Bien, asボ que explicar〒 cポmo funciona esto de Libro.
-La cosa es que, aparentemente hay una tonelada de mundos ademホs de este, lleno de versiones alternativas de ti.
-El Libro es lo que se utiliza para comunicarse con otros mundos ademホs de 〒ste.
-Asボ que puedes contactar con uno de estos otros, para cambiar una Persona con ellos.
+Bien, te explicar〒 cポmo funciona esto de los Libros.
+La cosa es que, aparentemente, hay una tonelada de mundos ademホs de este, lleno de versiones alternativas de ti.
+El Libro es lo que se utiliza para comunicarse con otros mundos, ademホs de este.
+Asボ que puedes contactarte con uno de esos otros, para cambiar una Persona con ellos.
 Tienes que poner la informaciポn de tu equipo en el Libro, ademホs de lo que quieras.
 Pero la Persona debe ser una de tus Personas Secundarias.
-Una vez que consigas un Libro de alguien, puedes llamar a cualquier Persona que tengan.
+Una vez consigas el Libro de alguien, puedes invocar cualquier Persona que tengan.
 Si lo usas bien, puedes ver a alguna de las personas fuertes que pasan por ahボ.
 
 [msg msg_combine_NETWORK_HELP_2 [Marie]]
-Bien, asボ que explicar〒 cポmo funciona esto de Libro.
-La cosa es que, aparentemente hay una tonelada de mundos ademホs de este, lleno de versiones alternativas de ti..
-El Libro es lo que se utiliza para comunicarse con otros mundos ademホs de 〒ste.
-Asボ que puedes contactar con uno de estos otros, para cambiar una Persona con ellos.
+Bien, asボ que explicar〒 cポmo funciona esto de los Libros.
+La cosa es que, aparentemente, hay una tonelada de mundos ademホs de este, lleno de versiones alternativas de ti.
+El Libro es lo que se utiliza para comunicarse con otros mundos, ademホs de este.
+Asボ que puedes contactarte con uno de esos otros, para cambiar una Persona con ellos.
 Tienes que poner la informaciポn de tu equipo en el Libro, ademホs de lo que quieras.
 Pero la Persona debe ser una de tus Personas Secundarias.
-Una vez que consigas un Libro de alguien, puedes llamar a cualquier Persona que tengan.
+Una vez consigas el Libro de alguien, puedes invocar cualquier Persona que tengan.
 Si lo usas bien, puedes ver a alguna de las personas fuertes que pasan por ahボ.
 
 [msg msg_combine_NETWORK_HELP_3 [Marie]]
-Guardar〒 a los Libros que intercambies, asボ que avボsame cuando quieras verlos.
+Guardar〒 los Libros que intercambies, asボ que avボsame cuando quieras verlos.
 Oh, y te avisar〒 cuando tengas nuevos Libros.
-Solo ten en cuenta que, no puedes conservar cada Libro que obtengas.
-Sポlo puedes tener 100, asボ que si hay alguno que realmente quieras conservar, deberボas "Proteger" sus datos.
-Porque una vez que este lleno, empezarホn a desaparecer, empezando por el mホs viejo. A menos que estホn protegidos.
-Y puedes proteger un mホximo de 80 libros.
-Y si quieres invocar una persona de un Libro, hホzmelo saber.
-Te costarホ, pero esas pequeワas gemelas pueden invocarla. Segマn Margaret, de todos modos.
+Solo ten en cuenta que, no puedes conservar todos los Libros que obtengas.
+Solo puedes tener 100, asボ que si hay alguno que realmente quieras conservar, deberボas "Proteger" sus datos.
+Porque una vez alcances ese lボmite, empezarホn a desaparecer, empezando por el mホs viejo. A menos que est〒n protegidos.
+Puedes proteger un mホximo de 80 libros.
+Si quieres invocar la persona de un Libro, hホzmelo saber.
+Te costarホ, pero esas pequeワas gemelas pueden invocarlas. Segマn Margaret, de todos modos.
 
 [msg msg_combine_NETWORK_HELP_4 [Marie]]
-Guardar〒 a los Libros que intercambies, asボ que avボsame cuando quieras verlos.
+Guardar〒 los Libros que intercambies, asボ que avボsame cuando quieras verlos.
 Oh, y te avisar〒 cuando tengas nuevos Libros.
-Solo ten en cuenta que, no puedes conservar cada Libro que obtengas.
-Sポlo puedes tener 100, asボ que si hay alguno que realmente quieras conservar, deberボas "Proteger" sus datos.
-Porque una vez que este lleno, empezarホn a desaparecer, empezando por el mホs viejo. A menos que estホn protegidos.
-Y puedes proteger un mホximo de 80 libros.
-Y si quieres invocar una persona de un Libro, hホzmelo saber.
-Te costarホ, pero esas pequeワas gemelas pueden invocarla. Segマn Margaret, de todos modos.
+Solo ten en cuenta que, no puedes conservar todos los Libros que obtengas.
+Solo puedes tener 100, asボ que si hay alguno que realmente quieras conservar, deberボas "Proteger" sus datos.
+Porque una vez alcances ese lボmite, empezarホn a desaparecer, empezando por el mホs viejo. A menos que est〒n protegidos.
+Puedes proteger un mホximo de 80 libros.
+Si quieres invocar la persona de un Libro, hホzmelo saber.
+Te costarホ, pero esas pequeワas gemelas pueden invocarlas. Segマn Margaret, de todos modos.
 
 [msg msg_combine_NETWORK_HELP_5 [Marie]]
 Puedes cambiar los detalles de tu Libro cuando quieras.
-Cosas como las Personas Secundarias que agregaste, tu nombre de Libro, mensajes personales...
+Cosas como la Persona Secundaria que agregaste, el nombre del Libro, mensajes personales...
 Asボ que si quieres cambiar algo, todo lo que tienes que hacer es pedirlo.
-No escribas un nombre o detalles que pueda incomodar al otro.
+No escribas un nombre o detalles que pueda incomodar a otro.
 No hagas cosas raras. Despu〒s de todo, quieres que se alegren de tener tu libro, メverdad?
 
 [msg msg_combine_NETWORK_HELP_6 [Marie]]
 Puedes cambiar los detalles de tu Libro cuando quieras.
-Cosas como las Personas Secundarias que agregaste, tu nombre de Libro, mensajes personales...
+Cosas como la Persona Secundaria que agregaste, el nombre del Libro, mensajes personales...
 Asボ que si quieres cambiar algo, todo lo que tienes que hacer es pedirlo.
-No escribas un nombre o detalles que pueda incomodar al otro.
+No escribas un nombre o detalles que pueda incomodar a otro.
 No hagas cosas raras. Despu〒s de todo, quieres que se alegren de tener tu libro, メverdad?
 
 [msg msg_combine_NETWORK_HELP_7 [Marie]]
-Por lo tanto, su Libro se puede intercambiar en una cosa llamada "Cポdigo QR"
-メSupongo que puede facilitar el intercambio de los Libros?
-Si no puedes conectarte con ellos directamente, entonces siempre puedes intercambiar los cポdigos QR.
-Podrボas crear el tuyo propio, o si la otra persona ha creado la suya, podrボas leerla.
-Bueno, podrボas conseguir cosas マtiles en esos Libro. Asボ que intercambia todos los cポdigos QR que puedas.
+Tu Libro puede ser intercambiado con una cosa llamada "Cポdigo QR".
+メSupongo que puede facilitar el intercambio de Libros?
+Si no pueden contactarse directamente con StreetPass, entonces simplemente pueden intercambiar cポdigos QR.
+Podrボas crear el tuyo, o si la otra persona ha creado el suyo, podrボas leerlo.
+Bueno, podrボas conseguir cosas マtiles en esos Libros. Asボ que intercambia tantos cポdigos QR como puedas.
 
 [msg msg_combine_NETWORK_HELP_8 [Marie]]
-Por lo tanto, su Libro se puede intercambiar en una cosa llamada "Cポdigo QR"
-メSupongo que puede facilitar el intercambio de los Libros?
-Si no puedes conectarte con ellos directamente, entonces siempre puedes intercambiar los cポdigos QR.
-Podrボas crear el tuyo propio, o si la otra persona ha creado la suya, podrボas leerla.
-Bueno, podrボas conseguir cosas マtiles en esos Libro. Asボ que intercambia todos los cポdigos QR que puedas.
+Tu Libro puede ser intercambiado con una cosa llamada "Cポdigo QR".
+メSupongo que puede facilitar el intercambio de Libros?
+Si no pueden contactarse directamente con StreetPass, entonces simplemente pueden intercambiar cポdigos QR.
+Podrボas crear el tuyo, o si la otra persona ha creado el suyo, podrボas leerlo.
+Bueno, podrボas conseguir cosas マtiles en esos Libros. Asボ que intercambia tantos cポdigos QR como puedas.
 
 [msg book_bonus001_ex [Elizabeth]]
 Not used
@@ -874,10 +874,10 @@ Has protegido esta Persona, por lo que no puede ser registrada.
 La fuerza de esta Persona no puede ser llevada mホs lejos.
 
 [msg msg_combine_skcard_yet [Margaret]]
-Esta Persona aマn no ha aprendido ninguna habilidad que se pueda extraer de ella.
+Esta Persona aマn no ha aprendido ninguna habilidad que se pueda extraer.
 
 [msg msg_combine_skcard_lost [Margaret]]
-Esta Persona ha perdido la habilidad que puede extraerse de ella.
+Esta Persona ha perdido la habilidad que podボa extraerse de ella.
 
 [msg msg_combine_NETWORK_STOC_3 [Marie]]
 Oh... Esa Persona Secundaria no puede ser usada para comunicarse con otros mundos.
@@ -902,10 +902,10 @@ No hay Personas suficientes en tu inventario.
 [sel combine_sel_TICKET top]
 Pagar fusiポn
 Cancelar fusiポn
-Utilizar un ticket
+Utilizar una Entrada
 
 [msg msg_combine_sac_skill_ch [Margaret]]
-Tienes [f 0 1 3][f 2 4 0][f 0 1 0] x[f 0 1 3][f 2 4 2][f 0 1 0]. メLe gustarボa utilizarlo para transmitir [f 0 1 1][f 2 4 1][f 0 1 0]?
+Tienes [f 0 1 3][f 2 4 0][f 0 1 0] x[f 0 1 3][f 2 4 2][f 0 1 0]. メQuieres utilizarlo para transmitir [f 0 1 1][f 2 4 1][f 0 1 0]?
 
 [msg msg_combine_sac_skill_ge]
 ha aprendido [f 0 1 1][f 2 4 1][f 0 1 0]!
@@ -917,7 +917,7 @@ Ya tienes [f 2 4 0].
 Se necesitan [f 0 6 255 255][f 3 1 1 0 0 59203][f 2 4 0] ranura(s) adicional(es) para retirarse del inventario de Personas.
 
 [msg msg_combine_sac_cost_fre [Margaret]]
-Dado que es la primera vez que veo esta resonancia de poder, no habrホ ningマn costo. メEstホ seguro?
+Dado que es la primera vez que veo esta resonancia de poder, no habrホ ningマn costo. メEstホs seguro?
 
 [msg msg_combine_sac_cost_che [Margaret]]
 Necesito [f 0 1 2][f 2 4 0] yenes[f 0 1 0] para esta Fusiポn de Sacrificio. メPuedo proceder?
@@ -975,12 +975,12 @@ Abre los ojos... ムDespierta, Embaucador!
 
 [msg msg_combine_MESSAGE__052 [1]]
 メQui〒n se atreve a llamarme...?
-El que hace brillar la luz sobre las tinieblas... メTe atreves a hacer de la nada tu objeto?
+El que hace brillar la luz sobre las tinieblas... メTe atreves a convertir incluso la nada en tu objeto...?
 Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Yo determinar〒 el camino que tomes...
 
 [msg msg_combine_MESSAGE__053 [1]]
 メQui〒n se atreve a llamarme...?
-Oh corazポn radiante que brilla en la noche... Me convertir〒 en tu fuerza, Embaucador...
+Oh, corazポn radiante que brilla en la noche... Me convertir〒 en tu fuerza, Embaucador...
 Soy [f 0 1 1][f 2 4 1][f 0 1 0]... Que tu luz nunca se apague...
 
 [msg msg_combine_MESSAGE__054 [1]]
@@ -997,14 +997,14 @@ Locura en mi mano derecha, tenacidad en la izquierda... Ahora bien, メa qui〒n
 
 [msg msg_combine_MESSAGE__057 [1]]
 Soy [f 0 1 1][f 2 4 1][f 0 1 0].
-Voy a ayudar al Embaucador...? No importa. ムTraer〒 el dolor como siempre lo hago!
+メVoy a ayudar al Embaucador...? No importa. ムTraer〒 el dolor como siempre lo hago!
 
 [msg msg_combine_MESSAGE__058 [1]]
-ムJa, ja, ja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]!
-メQuieres mi fuerza...? Heh... Bien. Pero no bajes la guardia, ムo te aplastar〒 yo mismo!
+ムJa, ja, ja! ムYo soy [f 0 1 1][f 2 4 1][f 0 1 0]!
+メQuieres mi fuerza...? Je... Bien. Pero no bajes la guardia, ムo te aplastar〒 yo mismo!
 
 [msg msg_combine_MESSAGE__059 [1]]
-ムJa, ja, ja! Yo soy [f 0 1 1][f 2 4 1][f 0 1 0]!
+ムJa, ja, ja! ムYo soy [f 0 1 1][f 2 4 1][f 0 1 0]!
 メAsボ que un Embaucador quiere mi ayuda? Me parece bien... ムAplastar〒 a cualquiera que se te cruce!
 
 [msg cmb_cmm_quest02 [マーロレ7:]]

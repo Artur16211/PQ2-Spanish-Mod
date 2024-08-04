@@ -7,35 +7,35 @@ Esto funcionarホ
 Empecemos de nuevo
 
 [msg FCL_NETWORK_SETTING]
-Activar StreetPass te permitirホ[n]intercambiar Libros con otras personas.
-メActivar la funciポn StreetPass de[n]Persona Q2 en este sistema Nintendo 3DS?
+Activar StreetPass te permitirホ intercambiar Libros con otras personas.
+メActivar la funciポn StreetPass de Persona Q2 en este sistema Nintendo 3DS?
 
 [msg FCL_NETWORK_SETTING_SUCC]
-La funciポn StreetPass de Persona Q2 se[n]ha activado en este sistema Nintendo[n]3DS.
-Los intercambios de StreetPass ocurrirホn[n]automホticamente, incluso durante el modo[n]de reposo.
-Para desactivar StreetPass, desde el Menマ[n]HOME, selecciona Configuraciポn del sistema >[n]Gestiポn de datos > Gestiポn de StreetPass.
+La funciポn StreetPass de Persona Q2 se ha activado en este sistema Nintendo 3DS.
+Los intercambios StreetPass ocurrirホn automホticamente, incluso con la consola en modo reposo.
+Para desactivar StreetPass, desde el Menマ HOME, selecciona Configuraciポn del sistema > Gestiポn de datos > Gestiポn de StreetPass.
 
 [msg FCL_NETWORK_SETTING_EXIS]
-La funciポn StreetPass de Persona Q2 ya[n]estホ activada.
-Para desactivarla, selecciona[n]Configuraciポn del sistema desde el Menマ[n]HOME.
-Una vez allボ, selecciona Gestiポn de[n]datos y luego desactボvala con la opciポn[n]de Gestiポn de StreetPass.
+La funciポn StreetPass de Persona Q2 ya estホ activada.
+Para desactivarla, selecciona Configuraciポn del Sistema desde el Menマ HOME.
+Una vez allボ, selecciona Gestiポn de Datos y luego desactボvala con la opciポn de Gestiポn de StreetPass.
 
 [msg FCL_NETWORK_SETTING_FULL]
-Tu sistema Nintendo 3DS ya ha alcanzado[n]el nマmero mホximo de registros de[n]StreetPass.
-Para registrar este tボtulo para su uso con[n]StreetPass, ve a la Gestiポn de StreetPass en[n]la Configuraciポn del sistema y desactiva otro[n]tボtulo.
+Tu sistema Nintendo 3DS ya ha alcanzado el nマmero mホximo de registros StreetPass.
+Para registrar este tボtulo en StreetPass, ve a la Gestiポn de StreetPass en la Configuraciポn del sistema y desactiva otro tボtulo.
 
 [msg FCL_NETWORK_SETTING_EULA]
-Para activar StreetPass, debes estar de[n]acuerdo con el Acuerdo de Usuario del Servicio[n]de Nintendo 3DS mホs recientemente actualizado.
-Selecciona Configuraciポn de Internet -> Otra[n]informaciポn -> Acuerdo de usuario y acepta el[n]Acuerdo de usuario mホs reciente.
+Para activar StreetPass, debes estar de acuerdo con el Acuerdo de Usuario del Servicio de Nintendo 3DS mホs reciente.
+Selecciona Configuraciポn de Internet -> Otra informaciポn -> Acuerdo de usuario y acepta el Acuerdo de usuario mホs reciente.
 
 [msg FCL_NETWORK_SETTING_PARE]
-La funciポn de StreetPass en este juego no se[n]puede utilizar, ya que StreetPass estホ[n]restringido en los Controles Parentales.
+La funciポn de StreetPass en este juego no se puede utilizar, ya que StreetPass estホ restringido en los Controles Parentales.
 
 [msg FCL_NETWORK_QR_ALERT]
-Por favor, no escribas material ofensivo,[n]infrinjas derechos de autor ni reveles[n]informaciポn personal en tus mensajes.
+Por favor, no escribas material ofensivo, infrinjas derechos de autor ni reveles informaciポn personal en tus mensajes.
 
 [msg FCL_NETWORK_QR_MAKE]
-Generando el cポdigo QR del Libro en la[n]tarjeta SD. Si ya existen datos, serホn[n]sobrescritos.
+Generando Cポdigo QR del Libro en la tarjeta SD. Si ya existen alguno, serホ sobrescrito.
 メGuardar en la tarjeta SD?
 
 [msg FCL_NETWORK_QR_SD_WRITIN]
@@ -45,19 +45,19 @@ Guardando en la tarjeta SD...
 No hay una tarjeta SD en el sistema.
 
 [msg FCL_NETWORK_QR_SD_SHORTA]
-No hay suficiente espacio libre en la[n]tarjeta SD.
+No hay suficiente espacio libre en la tarjeta SD.
 
 [msg FCL_NETWORK_QR_SD_PHOTO_]
-Hay demasiadas imホgenes en la tarjeta[n]SD. El guardado ha fallado.
+Hay demasiadas imホgenes en la tarjeta SD. Error al guardar.
 
 [msg FCL_NETWORK_QR_SD_ERROR]
 La tarjeta SD no pudo ser reconocida.
 
 [msg FCL_NETWORK_QR_MAKE_SUCC]
-Los datos de la imagen del cポdigo QR se[n]han guardado en DCIM/100NINO3.
+Los la imagen del cポdigo QR se han guardado en la ruta DCIM/100NINO3.
 
 [msg FCL_NETWORK_QR_LOAD]
-Utiliza la cホmara para escanear un[n]cポdigo QR de Persona Q2.
+Utiliza la cホmara para escanear un cポdigo QR de Persona Q2.
 
 [msg FCL_NETWORK_QR_LOAD_SUCC]
 メRegistrar el Libro?
@@ -66,7 +66,7 @@ Utiliza la cホmara para escanear un[n]cポdigo QR de Persona Q2.
 Guardando el Libro escaneado...
 
 [msg FCL_NETWORK_QR_INVALID_D]
-Este cポdigo QR no es para Persona Q2.
+Este cポdigo QR no es de Persona Q2.
 
 [msg FCL_NETWORK_QR_DECODE_ER]
 El cポdigo QR no pudo ser reconocido.
@@ -78,19 +78,19 @@ El cポdigo QR no pudo ser reconocido.
 Comprobando datos StreetPass...
 
 [msg FCL_NETWORK_PERSONA_DELE [Marie]]
-メEstホs seguro de que quieres descartar[n]este Libro?
+メEstホs seguro de que quieres descartar este Libro?
 
 [msg FCL_NETWORK_PERSONA_DELE_2 [Elizabeth]]
 メDescartar este Libro?
 
 [msg FCL_NETWORK_PERSONA_SUMM [Marie]]
-Costarホ [f 2 4 0] yenes invocar a[n]esta Persona. メEstホs seguro?
+Costarホ [f 2 4 0] yenes invocar esta Persona. メEstホs seguro?
 
 [msg FCL_NETWORK_PERSONA_SUMM_2 [Elizabeth]]
-Costarホ [f 2 4 0] yenes invocar a[n]esta Persona. メTe gustarボa invocarla?
+Costarホ [f 2 4 0] yenes invocar esta Persona. メQuieres invocarla?
 
 [msg FCL_NETWORK_PERSONA_SUMM_3]
-La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha sido[n]invocada.
+La Persona [f 0 1 1][f 2 4 0][f 0 1 0] ha sido invocada.
 
 [msg FCL_NETWORK_PERSONA_EXIS [Marie]]
 Ya tienes esta Persona.
@@ -99,10 +99,10 @@ Ya tienes esta Persona.
 Parece que ya tienes esta Persona.
 
 [msg FCL_NETWORK_PERSONA_MONE [Marie]]
-ムOye, tacaワo! No tienes suficiente[n]dinero para invocar a esta Persona.
+ムOye, tacaワo! No tienes suficiente dinero para invocar esta Persona.
 
 [msg FCL_NETWORK_PERSONA_MONE_2 [Elizabeth]]
-Parece que te faltan los fondos para[n]invocar a esta Persona...
+Parece que te falta dinero para invocar a esta Persona...
 
 [msg FCL_NETWORK_PERSONA_STOC [Marie]]
 No puedes tener mホs Personas.
@@ -111,10 +111,10 @@ No puedes tener mホs Personas.
 No puedes poseer mホs Personas.
 
 [msg FCL_NETWORK_PERSONA_LV_M [Marie]]
-Tu nivel no es lo suficientemente alto[n]como para permitirte invocar a esta[n]Persona.
+Tu nivel no es lo suficientemente alto como para permitirte invocar esta Persona.
 
 [msg FCL_NETWORK_PERSONA_LV_E [Elizabeth]]
-Parece que te falta la experiencia[n]necesaria para invocar a esta Persona.
+Parece que te falta la experiencia necesaria para invocar esta Persona.
 
 [msg FCL_NETWORK_ATTACH_M [Marie]]
 メEstホs bien con esta Persona?
@@ -123,33 +123,33 @@ Parece que te falta la experiencia[n]necesaria para invocar a esta Persona.
 メEstホs bien con esta Persona?
 
 [msg FCL_NETWORK_INPUT_ATTENT]
-No ingreses detalles personales ni[n]lenguaje ofensivo.
+No ingreses detalles personales ni lenguaje ofensivo.
 
 [msg FCL_NETWORK_INPUT_NGWORD]
-Este texto contiene lenguaje ofensivo y[n]no se puede usar. Introduce un nuevo[n]nombre.
+Este texto contiene lenguaje ofensivo y no se puede usar. Introduce un nuevo nombre.
 
 [msg FCL_NETWORK_INPUT_NUMBER]
-Solo puedes ingresar hasta cinco[n]nマmeros. Introduce un nuevo nombre.
+Solo puedes ingresar hasta cinco nマmeros. Introduce un nuevo nombre.
 
 [msg FCL_NETWORK_NAME_OPEN]
-メPermitir que se hagan pマblicos los[n]nombres de tus protagonistas?
+メPermitir que se hagan pマblicos los nombres de tus protagonistas?
 
 [sel FCL_NETWORK_NAME_OPEN_SE top]
 Sボ
 No
 
 [msg FCL_NETWORK_EDIT_SAVE]
-La informaciポn del Libro ha sido[n]modificada.
-メGuardar las actualizaciones en[n]StreetPass?
+La informaciポn del Libro ha sido modificada.
+メGuardar las actualizaciones en StreetPass?
 
 [msg FCL_NETWORK_EDIT_CANCEL]
-メTe gustarボa finalizar la ediciポn sin[n]actualizar StreetPass?
+メTe gustarボa finalizar la ediciポn sin actualizar StreetPass?
 
 [msg FCL_NETWORK_NOT_EDIT_PER [Marie]]
-Esa Persona te pertenece solo a ti.[n]Supongo que no puedes usarla para[n]comunicarte con otros mundos.
+Esa Persona te pertenece solo a ti. Supongo que no puedes usarla para comunicarte con otros mundos.
 Tendrホs que elegir otra Persona.
 
 [msg FCL_NETWORK_NOT_EDIT_PER_2 [Marie]]
-Esa Persona te pertenece solo a ti.[n]Supongo que no puedes usarla para[n]comunicarte con otros mundos.
+Esa Persona te pertenece solo a ti. Supongo que no puedes usarla para comunicarte con otros mundos.
 Tendrホs que elegir otra Persona.
 
