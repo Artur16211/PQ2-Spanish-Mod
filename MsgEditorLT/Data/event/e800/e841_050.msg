@@ -1,64 +1,64 @@
 [msg MSG_000 [Akechi]]
-This is the flower.
+Esta es la flor.
 
 [msg MSG_001 [Singing flower]]
-No matter what I eat, I'm never[n]satiated. Is it a sin to feel this way?
+No importa lo que coma, nunca estoy saciada. メEs un pecado sentirse asボ?
 
 [msg MSG_002 [Marie]]
-It technically is... after all, one of the[n]seven deadly sins is gluttony. I could work[n]that in. "The sweet taste of sin..."
+T〒cnicamente lo es... despu〒s de todo, uno de los siete pecados capitales es la gula. Podrボa incluir eso. "El dulce sabor del pecado..."
 
 [msg MSG_003 [Yosuke]]
-Ooh, is that what you were looking for?
+Ooh, メeso es lo que estabas buscando?
 
 [msg MSG_004 [Marie]]
-Sweet fruit... No. It needs to sound[n]more tempting... and more toxic...
+Fruta dulce... No. Tiene que sonar mホs tentador... y mホs tポxico...
 
 [sel SEL_005 top]
-Forbidden fruit.
-Poisoned apple.
-Rotten fruit.
+Fruta prohibida.
+Manzana envenenada.
+Fruta podrida.
 
 [msg MSG_006 [Marie]]
-Yes, that's it! You're pretty good at[n]poetry. Maybe you have secret yearnings[n]of your own...?
-...The sweet forbidden fruit. Yes[n]indeed, I like the sound of that!
+ムSボ, eso es! Eres bastante bueno con la poesボa. メQuizホs tienes deseos secretos propios...?
+... La fruta prohibida. Sボ, ムme gusta cポmo suena!
 
 [msg MSG_007 [Marie]]
-Poisoned apple... Forbidden apple... No,[n]forbidden fruit!
-...The sweet forbidden fruit. Yes, I[n]like the sound of that!
+Manzana envenenada... Manzana prohibida... No, ムfruta prohibida!
+... La fruta prohibida. Sボ, ムme gusta cポmo suena!
 
 [msg MSG_008 [Marie]]
-I dunno, that's more repellent than alluring,[n]isn't it? I want it to sound bad in a good[n]way. Rotten is just... bad.
-What about "forbidden fruit"? Ooh, I[n]like the sound of that!
+No s〒, eso es mホs repelente que seductor, メno? Quiero que suene mal en el buen sentido. Podrido es simplemente... malo.
+メQu〒 tal "fruta prohibida"? Ooh, ムme gusta como suena eso!
 
 [msg MSG_009 [Haru]]
-Looks like Marie-chan's having fun.
+Parece que Marie se estホ divirtiendo.
 
 [msg MSG_010 [Marie]]
-Yes... It's a love story with the seven deadly[n]sins. It's about wearing an angelic mask while[n]harboring such dark secrets...
+Sボ... Es una historia de amor con los siete pecados capitales. Se trata de llevar una mホscara angelical mientras se albergan secretos tan oscuros...
 
 [msg MSG_011 [P4 Hero]]
-Oh, are you done?
+Oh, メhas terminado?
 
 [msg MSG_012 [Marie]]
-*gasp* NYAAAAAAAH! Was I talking out[n]loud!?
-This can't be! Please, stop up your[n]ears! Fling such words far away from[n]your memory!
+*grito ahogado* ムAAAAAAAY! ムメEstaba hablando en voz alta?!
+ムNo puede ser! ムPor favor, tホpense los oボdos! ムAlejen esas palabras de su memoria!
 
 [msg MSG_013 [P4 Hero]]
-Okay, okay. Calm down. Why don't you[n]just tell me if your poem is finished?
+Bueno, bueno, cホlmate. メPor qu〒 no me dices si tu poema estホ acabado?
 
 [msg MSG_014 [Marie]]
-Er, what's a poetic way of saying this?[n]Almost.
-If I can just get a bit more[n]inspiration, I think I can finish...
+Eh, メcuホl serボa una forma po〒tica de decir esto? Casi.
+Si consigo un poco mホs de inspiraciポn, creo que podr〒 acabar...
 
 [msg MSG_015 [Singing flower]]
-If your soul is unfulfilled... then go[n]NORTH, young lass!
+Si tu alma estホ insatisfecha... ムEntonces vete al NORTE, jovencita!
 
 [msg MSG_016 [Akechi]]
-Oh, that's right. I heard singing up[n]there. It was deep in an area with a[n]bear FOE...
+Oh, es verdad. Oボ cantar allホ arriba. Estaba en lo profundo de un ホrea con un oso FOE...
 
 [msg MSG_017 [Yosuke]]
-Yeah, that was definitely up north.[n]Okay, then! Let's go!
+Sボ, era definitivamente al norte. ムBien, entonces! ムVamos!
 
 [msg MSG_018 [P4 Hero]]
-Let's just remember to keep our eyes[n]peeled for FOEs.
+Recordemos que debemos mantener los ojos bien abiertos en busca de FOE.
 

@@ -1,90 +1,90 @@
 [msg MSG_000 [P4 Protag]]
-So this is the singing flower...
+Asボ que esta es la singing flower...
 
 [msg MSG_001 [Singing flower]]
-My wings are plucked. I yearn for the[n]sky... I know what I am, a tragic[n]effigy...
+Mis alas estホn desplumadas. Anhelo el cielo... S〒 lo que soy, una efigie trホgica...
 
 [msg MSG_002 [Kanji]]
-Huh? What the hell's this guy sayin'?
+メEh? メQu〒 demonios estホ diciendo?
 
 [msg MSG_003 [Marie]]
-Wow... I can feel so much of its pathos!
-My wings are plucked. I yearn for the[n]sky... Yes, I am an angel, fallen in[n]love!
+Vaya... ムPuedo sentir tanto pathos!
+Mis alas estホn desplumadas. Anhelo el cielo... ムSボ, soy un ホngel, enamorado!
 
 [msg MSG_004 [Morgana]]
-I don't get it... Is poetry supposed to[n]make you feel itchy?
+No lo entiendo... メSe supone que la poesボa te hace sentir incポmodo?
 
 [msg MSG_005 [Marie]]
-An angel... that is both fallen from[n]Heaven, and fallen in love... But[n]there's something missing!
-These words need an aura of solitude,[n]like they're shouldering a sin too[n]shameful for the world to see...!
+Un ホngel... caボdo del Cielo y enamorado... ムPero le falta algo! 
+Estas palabras necesitan un aura de soledad, ムcomo si cargaran con un pecado demasiado vergonzoso para que el mundo lo vea...!
 
 [sel SEL_006 top]
-Only.
-Lonely.
-Single.
+Solo.
+Solitario.
+Soltero.
 
 [msg MSG_007 [Marie]]
-That's not bad, I guess... Only, only...
-Oh! Lonely! Lonely Lucifer!
+No estホ mal, supongo... Solo, solo...
+ムOh! ムSolitario! ムLucifer solitario!
 
 [msg MSG_008 [Marie]]
-*gasp* That's it! That's great!
-Lonely Lucifer!
+*grito ahogado* ムEso es! ムEs genial!
+ムLucifer solitario!
 
 [msg MSG_009 [Marie]]
-That's sort of the idea, but I need[n]something more sad... Oh!
-Lonely! Lonely Lucifer!
+Esa es mホs o menos la idea, pero necesito algo mホs triste... ムOh!
+ムSolitario! ムLucifer solitario!
 
 [msg MSG_010 [Futaba]]
-Damn, she writes fast. Of course, our[n]team has someone like that, too...
+Maldiciポn, ella escribe rホpido. Por supuesto, nuestro equipo tambi〒n tiene a alguien asボ...
 
 [msg MSG_011 [P4 Hero]]
-Who are you talking about? Anyway, this[n]is pretty normal for Marie.
-How's it going, Marie? You have enough[n]to go on, now?
+メDe qui〒n estホs hablando? De todas formas, esto es muy normal para Marie.
+メCポmo va, Marie? メTienes suficiente para seguir?
 
 [msg MSG_012 [Marie]]
-Yes, for the loneliest of the angels is[n]corrupted by the seven deadly sins and[n]doomed to burn in the hellfires of love!
-Argh, the pathos! So strong, but not[n]quite enough. And when I'm so close!
+Sボ, porque el mホs solitario de los ホngeles estホ corrompido por los siete pecados capitales y condenado a arder en el fuego infernal del amor.
+ムArgh, el pathos! Tan fuerte, pero no lo suficiente. ムY justo cuando estoy tan cerca!
 
 [msg MSG_013 [Singing flower]]
-What you seek lies deep below...
+Lo que buscan yace en las profundidades...
 
 [msg MSG_014 [Marie]]
-Huh?
+メEh?
 
 [msg MSG_015 [Akechi]]
-Is it saying we should go to the floor[n]below?
-I think I saw a similar flower down[n]there.
+メEstホ diciendo que deberボamos ir al piso de abajo?
+Creo que vi a una flor similar por allボ debajo.
 
 [sel SEL_016 top]
-Wow, good memory.
-You speak flower?
+Wow, buena memoria.
+メTマ hablas como las flores?
 
 [msg MSG_017 [Akechi]]
-It's a result of my detective work.
+Es resultado de mi trabajo de detective.
 
 [msg MSG_018 [Marie]]
-Ahh, so you aren't just sparkly for[n]show.
+Ahh, asボ que no solo eres brillante para el espectホculo.
 
 [msg MSG_019 [Marie]]
-The language of beautiful blossoms? So[n]you have pathos as well. Didn't expect[n]that from someone so sparkly...
-*gasp* Could it be that the sparkliness[n]is just there to hide the darkness[n]inside of you...?
+メEl idioma de las bellas flores? Asボ que tマ tambi〒n tienes pathos. No me lo esperaba de alguien tan brillante...
+*grito ahogado* メPodrボa ser que el brillo solo est〒 ahボ para ocultar la oscuridad que hay dentro de ti...?
 
 [msg MSG_020 [Akechi]]
-Haha. I'm, uh, not sure I understand[n]what you're saying.
+Ja, ja. Yo, eh, no entiendo lo que estホs diciendo.
 
 [msg MSG_021 [P4 Hero]]
-Break it up, break it up. We need to[n]head to a lower floor and search for[n]more singing flowers.
+Sepホrense, sepホrense. Tenemos que dirigirnos a un piso inferior y buscar mホs singing flowers.
 
 [msg MSG_022 [Marie]]
-You don't mind keeping up the search for[n]pathos?
+メNo les importa seguir buscando el pathos?
 
 [msg MSG_023 [P4 Hero]]
-We'll keep going until you're satisfied.
+Seguiremos hasta que est〒s satisfecha.
 
 [msg MSG_024 [Teddie]]
-To the other floor, to get some more. So[n]that Marie won't be a bore! What do you[n]think of that verse, Emmy-chan?
+Al otro piso, a por mホs. ムAsボ Marie no se aburrirホ mホs! メQu〒 te parece ese verso, Marie?
 
 [msg MSG_025 [Marie]]
-Um...
+Em...
 

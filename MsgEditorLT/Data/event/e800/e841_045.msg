@@ -1,24 +1,24 @@
 [msg MSG_000 [Singing flower]]
-Sweet passion! Like the burst of juice[n]at the first bite of fruit...
-Let it drown your heart...
+ムDulce pasiポn! Como la explosiポn de jugo al morder la fruta...
+Deja que ahogue tu corazポn...
 
 [msg MSG_001 [Marie]]
-Beating wildly... with swirls of love,[n]with kisses of sugar, with sighs of[n]longing...
+Latiendo salvajemente... con remolinos de amor, con besos de azマcar, con suspiros de anhelo...
 
 [msg MSG_002 [Junpei]]
-What's next, "with eye of newt"? She[n]sounds like she's chanting a curse...
+メQu〒 sigue, "con ojo de tritポn"? Suena como si estuviera cantando una maldiciポn...
 
 [msg MSG_003 [Marie]]
-...No. This isn't right. It needs an air[n]of the forbidden!
+... No. Esto no estホ bien. ムNecesita un aire de lo prohibido!
 
 [sel SEL_004 top]
-The forbidden?
-Sounds saucy!
+メLo prohibido?
+ムSuena atrevido!
 
 [msg MSG_005 [Marie]]
-Yes, saucy. A dark sauce that bubbles[n]forth and sweetly washes you away...
-*gasp* F-Forget what I just said. I don't even[n]know what saucy means... except, like, in[n]food! I was talking about food!
+Sボ. Una salsa oscura que burbujea y te lava dulcemente...
+Olvida lo que acabo de decir. Ni siquiera s〒 lo que significa salsa... ムExcepto en comida! ムEstaba hablando de comida!
 
 [msg MSG_006 [P4 Hero]]
-All right, then. Let's go check out the[n]other flower.
+Muy bien. Vamos a revisar la otra flor.
 

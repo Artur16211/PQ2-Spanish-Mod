@@ -1,69 +1,69 @@
 [msg MSG_000 [Elizabeth]]
-Welcome one and all. The goal of this[n]special screening is...
+Bienvenidos a todos. El objetivo de esta proyecciポn especial es...
 
 [msg MSG_001 [Marie]]
-Find singing flowers.
+Encontrar singing flowers.
 
 [msg MSG_002 [Chie]]
-Hey, why are you chiming in, Marie-[n]chan?
+Ey, メpor qu〒 intervienes, Marie?
 
 [msg MSG_003 [Margaret]]
-Marie has a keen interest in this movie.
+Marie estホ muy interesada en esta pelボcula.
 
 [msg MSG_004 [Yosuke]]
-Whoa! The older sister is here too!
+ムHala! ムLa hermana mayor tambi〒n estホ aquボ!
 
 [msg MSG_005 [Kanji]]
-Singin' flowers... You mean those things[n]that were in Hikari's movie, right?
-I dunno if that counts as singin',[n]really... Why the sudden interest,[n]anyhow?
+Singing flowers... Se refieren a esas cosas que estaban en la pelボcula de Hikari, メverdad?
+No s〒 si eso cuenta como cantar, la verdad... Ademホs, メpor qu〒 ese inter〒s repentino?
 
 [sel SEL_006 top]
-The whole request seems odd.
-Has Marie been inspired?
+Toda la solicitud parece extraワa.
+メSe ha inspirado Marie?
 
 [msg MSG_007 [Marie]]
 ...
 
 [msg MSG_008 [Marie]]
-...!
+ム...!
 
 [msg MSG_009 [Margaret]]
-It seems she's been intrigued by[n]Hikari's movie ever since she saw those[n]flowers.
-Recently, she's been in a poetic slump,[n]and so craves stimulation.
+Parece que ha estado intrigada por la pelボcula de Hikari desde que vio esas flores.
+ヮltimamente, se encuentra en una depresiポn po〒tica, por lo que necesita estボmulos.
 
 [msg MSG_010 [Marie]]
-What!? Don't tell them that! Also, what[n]I write isn't poetry!
-It's just... there's nothing here, so it[n]gets boring. How am I supposed to feel[n]any pathos in a place like this?
+ムメQu〒?! ムNo les digas eso! Ademホs, ムlo que escribo no es poesボa!
+Es solo que... aquボ no hay nada, asボ que se vuelve aburrido. メCポmo se supone que voy a sentir cualquier pathos en un lugar asボ?
 
 [msg MSG_011 [Margaret]]
-There you have it. Would you mind taking[n]Marie along with you for this screening?
+Ahボ lo tienen. メLes importarボa llevar a Marie con ustedes durante esta proyecciポn?
 
 [sel SEL_012 top]
-Fine by me.
-Take her along?
-Isn't that dangerous?
+Me parece bien.
+メLlevarla con nosotros?
+メEso no es peligroso?
 
 [msg MSG_013 [Margaret]]
-Wonderful. I trust she will be quite[n]safe in your care.
+Maravilloso. Confボo en que ella estarホ muy segura con su cuidado.
 
 [msg MSG_014 [Margaret]]
-Yes, she'll certainly feel more of this[n]"pathos" if she goes in person, no?
+Sボ, seguro que sentirホ mホs ese "pathos" si va en persona, メno?
 
 [msg MSG_015 [Margaret]]
-I have already seen how capable you are.[n]I hold no worries of her safety if she[n]is with you.
+Ya he visto lo capaces que son. No me preocupa su seguridad si estホ con ustedes.
 
 [msg MSG_016 [Marie]]
-I-It's nothing important... You don't[n]have to do it if you don't want to...
+N-No es nada importante... No tienen por qu〒 hacerlo si no quieren...
 
 [msg MSG_017 [Teddie]]
-Why wouldn't we want to!? Field trip[n]with Emmy-chan! Woohoo!
+ムメPor qu〒 no querrボamos?! ムExcursiポn con Emmy! ムWoohoo!
 
 [msg MSG_018 [P4 Hero]]
-What Teddie means to say is, we don't[n]mind helping you.
+Lo que quiere decir Teddie es que no nos importa ayudarte.
 
 [msg MSG_019 [Marie]]
-Really? Um, well... Thanks.
+メEn serio? Em, bueno... Gracias.
 
 [msg MSG_020 [Elizabeth]]
-Well then, good luck out there to[n]everyone, Marie included.
+Bueno, entonces mucha suerte a todos, Marie incluボda.
 

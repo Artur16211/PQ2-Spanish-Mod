@@ -1,55 +1,55 @@
 [msg MSG_000 [Elizabeth]]
-Well done, everyone. You brought the screening[n]to a crowd-pleasing finish. Quite the auteurs[n]of cinema, you all are.
-Here is your reward.
+Bien hecho. Han llevado la proyecciポn a un final que ha encantado al pマblico. Sois todos unos autores del cine.
+Aquボ estホ su recompensa.
 
 [msg MSG_001 [Margaret]]
-I would like to personally thank you as[n]well. It was kind of you to fulfill[n]Marie's request.
-Marie? Don't you also have something to[n]give to them?
+A mボ tambi〒n me gustarボa agradec〒roslo personalmente. Han sido muy amables al atender la solicitud de Marie.
+メMarie? メTマ no tienes tambi〒n algo que darles?
 
 [msg MSG_002 [Marie]]
-Um, well... There's this...
+Em, bueno... Aquボ estホ...
 
 [sel SEL_003 top]
-What is it?
-You're giving us something?
+メQu〒 es?
+メNos vas a dar algo?
 
 [msg MSG_004 [Marie]]
-N-N-N-Nothing! It's nothing!
-It's definitely not like I'm thanking[n]you or anything, for letting me come[n]with you into the movie.
+ムN-N-N-Nada! ムNo es nada!
+Definitivamente, no es que les est〒 dando las gracias ni nada por dejarme entrar con ustedes en la pelボcula.
 
 [msg MSG_005 [Marie]]
-Huh!? Uh, well... you know...
-I-I mean, it's not like I'm feeling[n]happy that you let me tag along inside[n]the movie or anything like that.
+ムメEh?! Oh, bueno... saben...
+Q-Quiero decir, no es que me sienta feliz de que me hayas dejado entrar en la pelボcula o algo asボ.
 
 [msg MSG_006 [Marie]]
-The point is... thanks. I want you to[n]have this.
+El punto es... gracias. Quiero que tengan esto.
 
 [msg MSG_007 [Futaba]]
-Ooh, still following that classic tsundere[n]script to the letter... A prickly exterior[n]hides a soft, romantic interior...
+Oh, aマn sigue al pie de la letra el clホsico guion tsundere... Un exterior espinoso esconde un interior suave y romホntico...
 
 [msg MSG_008 [P4 Hero]]
-By the way, Marie, did you finish your[n]poem?
+Por cierto, Marie, メterminaste tu poema?
 
 [msg MSG_009 [Marie]]
-Yeah, I think it's almost done...
-I mean, no! It's not a poem! It's more[n]like... an expression of pathos...
+Sボ, creo que ya casi estホ...
+Quiero decir, ムno! ムNo es un poema! Es mホs como... una expresiポn de pathos...
 
 [msg MSG_010 [Akechi]]
-Isn't that basically a poem?
+メEso no es bホsicamente un poema?
 
 [msg MSG_011 [Marie]]
-No, it's not like that![n]You'restupidIhateyouyou'retheworst!
+ムNo, no es asボ! ムEstマpidoteodioereselpeor!
 
 [msg MSG_012 [P4 Hero]]
-Nevertheless, we'd love to see the[n]finished product at some point.
+No obstante, nos encantarボa ver el producto acabado en algマn momento.
 
 [sel SEL_013 top]
-Yeah, looking forward to it.
-Even though it tortures her?
+Sボ, lo estoy deseando.
+メAunque eso la torture?
 
 [msg MSG_014 [P4 Hero]]
-Of course!
+ムPor supuesto!
 
 [msg MSG_015 [P4 Hero]]
-...You've got a point.
+... Tienes razポn.
 

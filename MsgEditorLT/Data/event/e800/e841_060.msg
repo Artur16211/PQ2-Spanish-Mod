@@ -1,50 +1,50 @@
 [msg MSG_000 [Singing flower]]
-This is my sanctuary... Hidden from all.
+Este es mi santuario... Escondido de todos.
 
 [msg MSG_001 [Marie]]
-Forever unseen by you, as further into love I[n]fall. It is here, in this... in this... Um. I[n]need to say what the sanctuary is!
+Por siempre invisible para ti, mientras mホs me enamoro. Es aquボ, en este... en este... ムTengo que decir qu〒 es el santuario!
 
 [sel SEL_002 top]
-A place to sleep, and dream...
-Just your own room.
-A shrine.
+Un lugar para dormir, y soワar...
+Solo tu propia habitaciポn.
+Un templo.
 
 [msg MSG_003 [Marie]]
-A place to sleep and dream? Like dream[n]of the beloved?
-Yes, you can covet the sweet, forbidden[n]fruit, and dreaming of it makes wherever[n]you sleep your sanctuary...
+メUn lugar para dormir y soワar? メComo soワar con el amado?
+Sボ, puedes codiciar la dulce fruta prohibida, y soワar con ella convierte cualquier lugar donde duermas en tu santuario...
 
 [msg MSG_004 [Marie]]
-Sure, that's the idea. But even more[n]than your room, a true sanctuary is[n]impossible for anyone else to enter.
-The place that's physically impossible[n]for anyone else to enter is your dreams![n]So the sanctuary is one's bed...
+Claro, esa es la idea. Pero mホs que en tu habitaciポn, en un verdadero santuario es imposible que entre nadie mホs.
+El lugar en el que es fボsicamente imposible que entre nadie son tus sueワos. Asボ que el santuario es la cama...
 
 [msg MSG_005 [Marie]]
-That's close. A shrine is a special place, but[n]I need a place where only I can enter. Like...[n]my dreams! In my own bed!
-Yes, you can covet the sweet, forbidden[n]fruit, and dreaming of it makes wherever[n]you sleep your sanctuary...
+Eso estホ cerca. Un templo es un lugar especial, pero necesito un lugar donde solo yo pueda entrar. Como... ムMis sueワos! ムEn mi propia cama!
+Sボ, puedes codiciar la dulce fruta prohibida, y soワar con ella convierte cualquier lugar donde duermas en tu santuario...
 
 [msg MSG_006 [P3 Hero]]
-Hey, she's on a roll.
+Oye, estホ en racha.
 
 [msg MSG_007 [Marie]]
-When I'm with you, I masquerade as an[n]angel even as envy burns within me...
-I am but an innocent who can't help her[n]sinful love... You know, I think this is[n]my greatest masterpiece yet...
+Cuando estoy contigo, me disfrazo de ホngel, aunque la envidia arda en mi interior...
+No soy mホs que una chica inocente que no puede evitar su amor... Sabes, creo que esta es mi mayor obra maestra hasta ahora...
 
 [sel SEL_008 top]
-That was true pathos.
-How inspirational.
+Eso fue un verdadero pathos.
+Qu〒 inspirador.
 
 [msg MSG_009 [Marie]]
-GYAAAAAAAH! W-W-Why were you listening[n]to me!?
+ムAAAAAAAHHH! ムメP-P-Por qu〒 todos me estaban escuchando?!
 
 [msg MSG_010 [Yusuke]]
-Well, you were just saying it all out[n]loud...
-And besides, do you really want to deny[n]the world your art? Your beautiful words[n]that make one weak in the knees?
+Bueno, lo estabas diciendo todo en voz alta...
+Y ademホs, メde verdad quieres negarle al mundo tu arte? メTus hermosas palabras que hacen que a uno le tiemblen las rodillas?
 
 [msg MSG_011 [Marie]]
-Flattery's not gonna get you anywhere![n]...You really think it's beautiful?
+ムLa adulaciポn no te llevarホ a ninguna parte! ... メDe verdad crees que es hermoso?
 
 [msg MSG_012 [Marie]]
-I mean, I don't care! C'mon, let's go[n]back, already. I'm tired.
+ムQuiero decir, no me importa! Vamos, volvamos ya. Estoy cansada.
 
 [msg MSG_013 [P4 Hero]]
-*chuckle* Sure, let's go.
+*risita* Claro, vホmonos.
 

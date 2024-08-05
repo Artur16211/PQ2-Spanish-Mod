@@ -1,52 +1,52 @@
 [msg MSG_000 [Marie]]
-Are we there yet...? I'm getting tired.
+メYa hemos llegado...? Me estoy cansando.
 
 [sel SEL_001 top]
-Want to head back?
-You can keep going.
+メQuieres volver?
+Puedes seguir.
 
 [msg MSG_002 [Marie]]
-No! I can keep going!
-I was just a little hungry. And kinda[n]thirsty too...
+ムNo! ムPuedo seguir!
+Solo tenボa un poco de hambre. Y algo de sed tambi〒n...
 
 [msg MSG_003 [Marie]]
-...Okay.
+... Entendido.
 
 [msg MSG_004 [P4 Hero]]
-You don't have to push yourself.
+No hace falta que te presiones.
 
 [msg MSG_005 [Marie]]
-I know. I'll let you know if I really[n]can't keep up.
+Lo s〒. Les har〒 saber si realmente no puedo seguir el ritmo.
 
 [msg MSG_006 [Teddie]]
-I've got just the thing for all your[n]hard work, Emmy-chan...
-Ta-da! I present to you my secret stash[n]of popcorn. And I've got some juice to[n]wash it all down!
+Tengo justo lo que necesitas por todo tu duro trabajo, Marie...
+ムTachホn! Os presento mi mercancボa secreta de palomitas. ムY tambi〒n tengo zumo para acompaワarlas!
 
 [msg MSG_007 [Yosuke]]
-What the!? You still had a stash of[n]that!? You better not have spilled in[n]there!
-I'm the guy who has to wash the thing[n]later!
+ムメQu〒?! ムメTodavボa tienes tanto de eso?! ムSerホ mejor que no lo hallas derramado por ahボ!
+ムYo soy quien tiene que limpiar las cosas despu〒s!
 
 [msg MSG_008 [Teddie]]
-I-I don't know what you're talking[n]about.
-Never mind that. Have we found the[n]flower yet?
+N-No s〒 de qu〒 estホs hablando.
+No importa. メHemos encontrado ya la flor?
 
 [msg MSG_009 [Rise]]
-The road forks up ahead. It looks like[n]there's a flower along each path.
+El camino se bifurca mホs adelante. Parece que hay una flor a lo largo de cada camino.
 
 [msg MSG_010 [Akechi]]
-If I recall... I think the flower to the[n]right was singing a cheerful song.
-The left one was singing a more cryptic[n]tune, or perhaps I'd call it unique.
-Which one do we check?
+Si mal no recuerdo... creo que la flor de la derecha cantaba una alegre canciポn.
+La de la izquierda cantaba una melodボa mホs crボptica, o quizホs yo la llamarボa マnica.
+メCuホl comprobamos?
 
 [sel SEL_011 top]
-Let's go right.
-Let's go left.
-Let Marie decide.
+Vamos a la derecha.
+Vamos a la izquierda.
+Dejemos que Marie decida.
 
 [msg MSG_012 [Marie]]
-A fallen angel necessitates darkness,[n]not light. But they say true darkness[n]exists within the light...
+Un ホngel caボdo necesita oscuridad, no luz. Pero dicen que la verdadera oscuridad existe dentro de la luz...
 
 [msg MSG_013 [P4 Hero]]
-Sorry, Joker. She's in her own world[n]again...
-It should be you who decides which path.[n]Naturally, it would be best if it suited[n]Marie's tastes...
+Perdポn, Joker. Estホ otra vez en su mundo.
+Deberボas de ser tマ quien decida el camino. Ciertamente, lo mejor serボa que se adaptara a los gustos de Marie...
 

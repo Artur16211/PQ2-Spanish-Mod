@@ -1,30 +1,30 @@
 [msg MSG_000 [P4 Protag]]
-Okay, so our quarry are singing flowers?
-I recall there are a lot of flowers[n]here...
+Bien, メentonces nuestro objetivo eran singing flowers?
+Recuerdo que habボa un montポn de flores aquボ...
 
 [msg MSG_001 [Marie]]
-I already put a mark on your map for the[n]location of a flower I liked.
+Ya marqu〒 en su mapa la ubicaciポn de una flor que me gustポ.
 
 [sel SEL_002 top]
-Thank you so much.
-How thoughtful of you.
-You're really motivated.
+Muchas gracias.
+Qu〒 considerado de tu parte.
+Estホs muy motivada.
 
 [msg MSG_003 [Marie]]
-I-It's not like I like you or anything!
+ムN-No es que me gustes o algo asボ!
 
 [msg MSG_004 [Futaba]]
-Ooh, now THERE'S an endangered species[n]of a clich〒!
+Ooh, ムahボ hay un clich〒 en peligro de extinciポn!
 
 [msg MSG_005 [Marie]]
-I-I just don't want to get lost; I[n]assume that's true of everyone?
+E-Es que no quiero perderme; supongo que eso le pasa a todo el mundo.
 
 [msg MSG_006 [Rise]]
-Hey, stop teasing Marie-chan!
+Oye, ムdeja de molestar a Marie!
 
 [msg MSG_007 [Yukiko]]
-So let's make our way to those marks.
+Asボ que dirijホmonos a esas marcas.
 
 [msg MSG_008 [Marie]]
-Okay. I'll be right behind you... hoping[n]this goes well.
+Vale. Estar〒 detrホs de ustedes... esperando que todo vaya bien.
 
