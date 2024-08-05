@@ -1,157 +1,157 @@
 [msg MSG_000 [Haru]]
-Wow, estホ deteniendo todos los ataques[n]de Joker...
+Wow, estホ deteniendo todos los ataques de Joker...
 
 [msg MSG_001 [Makoto]]
-No es momento de impresionarse. Segマn[n]Oracle, hay mホs humanos poderosos[n]aquボ...
+No es momento para impresionarse. Segマn Oracle, hay mホs humanos poderosos aquボ...
 
 [msg MSG_002 [Chica En〒rgica]]
-ムWhoa, whoa, メqu〒 estホ pasando?! Estホn[n]peleando a muerte...
+ムAh, メqu〒 estホ pasando?! Estホn peleando a muerte...
 
 [msg MSG_003 [Chico Amenazador]]
-ムWow, ese tipo enmascarado estホ a la[n]altura de Senpai!
+ムWow, ese tipo enmascarado estホ a su altura!
 
 [msg MSG_004 [Chica Reservada]]
 メEh? メUn enmascarado...?
-ムTienes razポn! ムEsas personas tambi〒n estホn[n]disfrazadas! メEstホn tratando de ganar un[n]concurso de disfraces o algo asボ?
+ムTienes razポn! ムEsas personas tambi〒n estホn disfrazadas! メEstホn tratando de ganar un concurso de disfraces o algo asボ?
 
 [msg MSG_005 [Persona Disfrazada De Oso]]
-ムHOLAAAA! ムRise estホ en mal estado!
-S〒 que todos estamos preocupados por[n]Yosuke, ムpero no hay tiempo para hablar!
+ムHOLAAAA! ムRise estホ enferma!
+S〒 que estamos preocupados por Yosuke, ムpero no hay tiempo para hablar!
 
 [msg MSG_006 [Chico Inteligente]]
-Pero, lo que estホ pasando... メCポmo[n]controlamos esto?
+Pero... メCポmo controlamos esto?
 
 [msg MSG_007 [Persona Disfrazada De Oso]]
-ムUstedes, los disfrazados de forma[n]extraワa! ムQuボtense de nuestro camino[n]ahora mismo!
+ムUstedes, los de los disfraces raros! ムQuボtense de nuestro camino!
 
 [msg MSG_008 [Morgana]]
-メQu〒? ムTマ eres el que estホ vestido de[n]forma rara!
+ムメEh?! ムTマ eres el que estホ vestido de forma rara!
 
 [msg MSG_009 [Persona Disfrazada De Oso]]
-ムTenemos prisa! Suficiente charla,[n]ムd〒jennos pasar!
-ムSi no van a escuchar, no me culpen si[n]saco a mi Persona!
+ムTenemos prisa! Suficiente charla, ムd〒jennos pasar!
+ムSi no van a escuchar, no me culpen si saco a mi Persona!
 
 [msg MSG_010 [Ryuji]]
 メTマ... sabes sobre las Personas?
 
 [msg MSG_011 [Chica Reservada]]
-メEh? メTambi〒n sabes cポmo usar Personas?
+メEh? メTambi〒n saben cポmo usar Personas?
 
 [msg MSG_012 [Akechi]]
-Quizホs podrボamos considerarnos[n]compaワeros en lugar de enemigos; tambi〒n[n]somos usuarios de Personas.
+Quizホs podrボamos considerarnos compaワeros en lugar de enemigos; tambi〒n somos usuarios de Personas.
 
 [msg MSG_013 [Chico Compuesto]]
 ムメUstedes qu〒?!
 
 [msg MSG_014 [Chico Amenazador]]
-Bueno, ustedes son los que estホn[n]armados. ムEstaban intentando acabar con[n]nosotros!
+Bueno, ustedes son los que estホn armados. ムEstaban intentando acabar con nosotros!
 
 [msg MSG_015 [Yusuke]]
-Esto no dispara balas. Es solo una[n]pistola de juguete.
+Esto no dispara balas. Es solo una pistola de juguete.
 
 [msg MSG_016 [Chico Inteligente]]
-メUna pistola de juguete? メPor qu〒[n]tendrボan algo asボ?
+メUna pistola de juguete? メPor qu〒 tendrボan algo asボ?
 
 [sel SEL_017 top]
 Solo estホ mintiendo.
-Aun asボ, te dolerホ si te golpeo con[n]ella.
+Aun asボ, te dolerホ si te golpeo con ella.
 Olvid〒 que no funciona.
 
 [msg MSG_018 [Chica En〒rgica]]
-Espera, メen serio? メEs falsa? Pero, ムse[n]ve tan real!
+Espera, メen serio? メEs falsa? Pero, ムse ve tan real!
 
 [msg MSG_019 [Chico Inteligente]]
-Ya veo... Estabas tratando de evitar[n]pelear engaワホndonos.
+Ya veo... Intentas evitar pelear engaワホndonos.
 
 [msg MSG_020 [Chico Amenazador]]
-Entonces, ustedes no planeaban atacarnos[n]desde el principio, メverdad?
+Entonces, ustedes no planeaban atacarnos, メverdad?
 
 [msg MSG_021 [Chica En〒rgica]]
-メSolo iba a golpearlo? Pero, se ve tan[n]real...
+ムメSolo ibas a golpearlo?! Pero, se ve tan real...
 
 [msg MSG_022 [Chico Inteligente]]
-...ya veo. Tal vez tu intenciポn era[n]mostrarla como estrategia.
+...ya veo. Tal vez su intenciポn era mostrarla como estrategia.
 
 [msg MSG_023 [Chico Amenazador]]
-Entonces, ustedes no planeaban atacarnos[n]a nosotros, メverdad?
+Entonces, ustedes no planeaban atacarnos, メverdad?
 
 [msg MSG_024 [Chica En〒rgica]]
-ムメQu〒?! Ustedes dos parecボan estar[n]peleando en serio entre ustedes...
+ムメQ-qu〒?! Ustedes dos parecボan estar peleando en serio...
 
 [msg MSG_025 [Haru]]
-ムP-por favor, no nos malinterpreten![n]Solo pretendボamos usarla para[n]intimidar...
-Nos preocupaba encontrarnos con gente[n]aquボ, asボ que esperホbamos que la pistola[n]los asustara.
+ムP-por favor, no nos malinterpreten! Solo pretendボamos usarla para intimidar...
+Nos preocupaba encontrarnos con gente aquボ, asボ que esperホbamos que la pistola los asustara.
 
 [msg MSG_026 [Chico Amenazador]]
-Entonces, ustedes realmente no planeaban[n]atacarnos a nosotros, メverdad?
+Entonces, ustedes realmente no planeaban atacarnos, メverdad?
 
 [msg MSG_027 [Persona Disfrazada De Oso]]
-メEh? メPodrボa ser que este grupo[n]enmascarado realmente no sea nada de qu〒[n]preocuparse?
+メEh? メPodrボa ser que este grupo de enmascarados realmente no sea de qu〒 preocuparse?
 
 [msg MSG_028 [Ann]]
-Oye, メpor qu〒 no nos calmamos todos por[n]un momento?
+Oye, メpor qu〒 no nos calmamos todos un momento?
 
 [msg MSG_029 [Chico Compuesto]]
-Sボ... Lo siento por antes. Realmente no[n]entendemos la situaciポn tampoco...
-Estホbamos tan desesperados por encontrar[n]la salida que no podボamos arriesgarnos a[n]ser emboscados.
-Por supuesto, no tenボa intenciポn de[n]hacerte daワo.
+Sボ... Siento lo de antes. Realmente no entendemos esta situaciポn tampoco...
+Estホbamos tan desesperados por encontrar la salida que no podボamos arriesgarnos a ser emboscados.
+Por supuesto, no tenボa intenciポn de hacerte daワo.
 
 [msg MSG_030 [Persona Disfrazada De Oso]]
-ムMaestro, tenemos que apurarnos! ムRise[n]estホ empeorando cada minuto!
+ムMaestro, tenemos que apurarnos! ムRise estホ empeorando con cada minuto!
 
 [msg MSG_031 [Chica Coja]]
 *jadeo* *jadeo*
 
 [msg MSG_032 [P3 Fem Protag]]
-ムEstホ sudando demasiado! メY su cara estホ[n]tan pホlida...? メEstホ enferma?
+ムEstホ sudando demasiado! メY su cara estホ tan pホlida...? ムメEstホ enferma?!
 
 [msg MSG_033 [Chico Compuesto]]
-Sボ, la envenenaron. メTienen alguna[n]medicina por casualidad?
+Sボ, la envenenaron. メTienen alguna medicina por casualidad?
 
 [msg MSG_034 [Makoto]]
-Lo siento, no tenemos ningマn tipo de[n]antボdoto a mano.
+Lo siento, no tenemos ningマn tipo de antボdoto a mano.
 
 [msg MSG_035 [Chico Compuesto]]
-Ya veo... Parece que provino de una planta[n]especボfica de aquボ, asボ que la medicina que[n]tenボamos a mano tampoco sirviポ.
+Ya veo... Parece que provino de una planta muy especボfica de aquボ, asボ que la medicina que tenボamos a mano tampoco sirviポ.
 
 [msg MSG_036 [Ann]]
 Lamento no poder ayudar...
 
 [msg MSG_037 [Chica Reservada]]
-Oh, no, gracias por tu preocupaciポn.
+Oh, no, gracias por preocuparse.
 
 [msg MSG_038 [Chica En〒rgica]]
-ムAh, sボ, una cosa mホs! メHan visto a[n]alguien que se parezca a nosotros?
-Es ese chico con el pelo que... se infla[n]hacia afuera en ambos lados, con un par[n]de auriculares alrededor de su cuello.
+ムAh, sボ, una cosa mホs! メHan visto a alguien que se parezca a nosotros?
+Es un chico con el pelo que... se infla hacia ambos lados, con un par de auriculares en su cuello.
 
 [msg MSG_039 [Makoto]]
-No, por desgracia... Lo siento. Estoy[n]segura de que recordarボamos si[n]hubi〒ramos visto a alguien asボ...
+No... Lo siento. Estoy segura de que recordarボamos si hubi〒ramos visto a alguien asボ...
 
 [msg MSG_040 [P3 Fem Protag]]
-Entonces, tambi〒n han sido separados de[n]su compaワero...
+Entonces, tambi〒n han sido separados de su compaワero...
 
 [msg MSG_041 [Chico Amenazador]]
-ムDemonios! メToda esta conversaciポn fue[n]inマtil?
+ムMaldiciポn! ムメToda esta conversaciポn fue inマtil?!
 
 [msg MSG_042 [Akechi]]
-Una cosa es segura: ella necesita ser tratada[n]inmediatamente. Deberボamos llevarla a un lugar[n]donde pueda descansar de forma segura.
+Una cosa es segura: ella necesita ser tratada inmediatamente. Deberボamos llevarla a un lugar donde pueda descansar segura.
 
 [msg MSG_043 [Makoto]]
-Cierto, puede que incluso haya[n]medicamentos efectivos en el cine.[n]Volvamos de inmediato.
+Cierto, puede que incluso haya medicamento en el cine. Volvamos de inmediato.
 
 [msg MSG_044 [Chica En〒rgica]]
-メEh? メUn cine? メEncontraron un lugar asボ[n]en la jungla?
+メEh? メUn cine? メEncontraron un lugar asボ en la jungla?
 
 [sel SEL_045 top]
 Es una larga historia.
-Solo vengan con nosotros.
+Solo acompホワenos.
 
 [msg MSG_046 [Chico Compuesto]]
 ...Estホ bien. Confiamos en ustedes.
 
 [msg MSG_047 [Chico Inteligente]]
-De acuerdo, hay mucho que aマn no[n]sabemos, pero mi mayor preocupaciポn es[n]la condiciポn de Rise.
+De acuerdo, hay mucho que no sabemos, pero mi mayor preocupaciポn es la condiciポn de Rise.
 
 [msg MSG_048 [Morgana]]
-ムEntonces estホ decidido! ムVolvamos al[n]cine! ムVamos, sボganos!
+ムEntonces estホ decidido! ムVolvamos al cine! ムVamos, sボganos!
 

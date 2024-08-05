@@ -1,52 +1,52 @@
 [msg MSG_000 [Makoto]]
-Uf... Parece que todavボa nos queda un[n]trecho por recorrer. メEstホn todos bien[n]de salud?
+Uf... Parece que todavボa nos queda un trecho por recorrer. メEstホn todos bien de salud?
 
 [msg MSG_001 [Yukiko]]
 Esto no es nada.
-ムPero vaya, tu ropa realmente cambia! Es[n]tan sorprendente, メhay algマn truco[n]detrホs de eso?
+ムPero vaya, su ropa realmente cambia! Es tan sorprendente, メhay algマn truco detrホs de eso?
 
 [msg MSG_002 [Makoto]]
-S〒 que es asombroso y todo, pero es un[n]poco vergonzoso que te miren asボ...
+S〒 que es asombroso y todo, pero es un poco vergonzoso que te miren asボ...
 
 [msg MSG_003 [Naoto]]
-Estoy de acuerdo en que su ropa es[n]intrigante, pero los apodos, como Joker[n]y cosas asボ...
-メPodrボan ser nombres clave?
+Estoy de acuerdo en que su ropa es intrigante, pero los apodos, como Joker y esas cosas...
+メSon nombres clave?
 
 [msg MSG_004 [Akechi]]
-*risa* メHa encontrado la detective una[n]teorボa que funcione?
+*risita* メHa encontrado la detective una teorボa que funcione?
 
 [msg MSG_005 [Naoto]]
-B-bueno, no... Es simplemente mi propia[n]curiosidad.
+B-bueno, no... Es simplemente curiosidad.
 
 [msg MSG_006 [Yusuke]]
-Dado que provocamos tanto a la sociedad,[n]prホcticamente estamos obligados a[n]realizar nuestro trabajo de incポgnito.
-Esa es la razポn por la que decidimos[n]usar nombres en clave entre nosotros[n]durante nuestras misiones.
+Dado que provocamos tanto a la sociedad, prホcticamente estamos obligados a realizar nuestro trabajo en incポgnito.
+Esa es la razポn por la que decidimos usar nombres en clave entre nosotros durante nuestras misiones.
 
 [msg MSG_007 [Teddie]]
 ムOooooh! ムEso suena tan genial!
 
 [msg MSG_008 [Yukiko]]
-Oye, yo tambi〒n quiero un nombre en[n]clave.
+Oye, yo tambi〒n quiero un nombre en clave.
 
 [msg MSG_009 [Chie]]
-ムメQu〒... Yukiko?!
+ムメEh... Yukiko?!
 
 [msg MSG_010 [Yukiko]]
-Quiero decir, es tan genial. メTマ tambi〒n[n]quieres uno, Naoto?
+Quiero decir, es tan genial. メTマ tambi〒n quieres uno, Naoto?
 
 [msg MSG_011 [Naoto]]
-メEh? Y-yo... Mm... Solo estaba pensando[n]en lo マtiles que podrボan ser si tambi〒n[n]los tuvi〒ramos...
+メEh? Y-yo... Mm... Solo estaba pensando en lo マtiles que podrボan ser si tambi〒n los tuvi〒ramos...
 
 [msg MSG_012 [Yukiko]]
-Chie, Es mejor decidir nuestros nombres[n]en clave pronto. メCuホles serホn?
+Chie, Es mejor decidir nuestros nombres en clave pronto. メCuホles serホn?
 
 [msg MSG_013 [Chie]]
 ムメCポmo me involucr〒 en esto?!
-Quiero decir, pensar en un nombre clave[n]tan de repente... ムNo soy experta en[n]eso!
+Quiero decir, pensar en un nombre clave tan de repente... ムNo soy experta en eso!
 
 [msg MSG_014 [Morgana]]
-Supongo que no hay forma, ムd〒jalo en[n]manos de los profesionales!
-Joker, piensa en un nombre genial de[n]ladrポn fantasma para Yukiko.
+Supongo que no hay forma, ムd〒jalo en manos de los profesionales!
+Joker, piensa en un nombre genial de ladrポn fantasma para Yukiko.
 
 [sel SEL_015 top]
 Princesa Escarlata.
@@ -54,13 +54,13 @@ Fuego Negro.
 Azafata.
 
 [msg MSG_016 [Yusuke]]
-Ya veo, un nombre clave derivado de su[n]apariencia y su actitud. Es adecuado...[n]aunque tambi〒n un poco largo.
+Ya veo, un nombre clave derivado de su apariencia y su actitud. Es adecuado... aunque tambi〒n un poco largo.
 
 [msg MSG_017 [Ann]]
-Entonces, メqu〒 tal Princesa Escarlata?[n]メNo suena mホs lindo?
+Entonces, メqu〒 tal Princesa Escarlata? メNo suena mホs lindo?
 
 [msg MSG_018 [Ryuji]]
-Todo lo que hiciste fue invertir las[n]palabras. Todavボa es demasiado para un[n]nombre en clave.
+Todo lo que hiciste fue invertir las palabras. Todavボa es demasiado para un nombre en clave.
 
 [msg MSG_019 [Yukiko]]
 Ooh, me gusta. Suena fuerte.
@@ -69,52 +69,52 @@ Ooh, me gusta. Suena fuerte.
 ムメTe gusta?!
 
 [msg MSG_021 [Yusuke]]
-Pero, メpor qu〒 negro? Ella solo lleva[n]rojo.
+Pero, メpor qu〒 negro? Ella solo lleva rojo.
 
 [msg MSG_022 [Teddie]]
-Podrボa ser... メHas visto a trav〒s de[n]Yuki, hasta su verdadera naturaleza?
+Podrボa ser que... メHa visto a trav〒s de Yuki, tu verdadera naturaleza?
 
 [msg MSG_023 [Yukiko]]
-メHas dicho algo, Teddie? *risa* メQuieres[n]ser quemado?
+メHas dicho algo, Teddie? *risita* メQuieres un poco de fuego?
 
 [msg MSG_024 [Yusuke]]
-Entiendo. Fuego Negro... realmente[n]encarna su verdadera naturaleza despu〒s[n]de todo.
+Entiendo. Fuego Negro... realmente encarna su verdadera naturaleza despu〒s de todo.
 
 [msg MSG_025 [Ryuji]]
-メSiquiera lo estホs intentando? ムEso es[n]tan aburrido! Al menos dale un toque mホs[n]interesante.
+メSiquiera lo estホs intentando? ムEso es tan aburrido! Al menos dale un toque mホs interesante.
 
 [msg MSG_025_5 [Ryuji]]
-Oye, メqu〒 tal Okami? La palabra japonesa[n]para la dueワa de un hotel suena mucho[n]mホs intimidante que "Azafata", メverdad?
+Oye, メqu〒 tal Okami? La palabra japonesa para la dueワa de un hotel suena mucho mホs intimidante que "Azafata", メverdad?
 
 [msg MSG_026 [Ann]]
-Eres tan tonto... De hecho, considerando que a[n]los hu〒spedes extranjeros les encanta usar[n]t〒rminos como sushi y geisha, Okami no estホ[n]mal...
+Eres tan tonto... De hecho, considerando que a los hu〒spedes extranjeros les encanta usar t〒rminos como sushi y geisha, Okami no estホ mal...
 
 [msg MSG_027 [Chie]]
-Parece que van a empezar a brotar[n]palabras japonesas como teriyaki y[n]tempura para nuestros nombres clave...
+Parece que van a empezar a brotar palabras japonesas como teriyaki y tempura para nuestros nombres clave...
 
 [msg MSG_028 [Yukiko]]
 Bien, tマ eres la siguiente, Naoto.
 
 [msg MSG_029 [Naoto]]
-メEh? メRealmente vamos a hacer esto con[n]todos...?
+メEh? メRealmente vamos a hacer esto con todos...?
 
 [msg MSG_030 [Yusuke]]
 Veamos... メQu〒 tal Seワorita Platino?
 
 [msg MSG_031 [Ryuji]]
-メQu〒? メPor qu〒 "Seワorita"...
+メEh? メPor qu〒 "Seワorita"...?
 
 [msg MSG_032 [Ann]]
-Cierto, creo que "Seワorita" suena un[n]poco prudente. メNo serボa mejor Chica[n]Platino?
+Cierto, creo que "Seワorita" suena un poco prudente. メNo serボa mejor Chica Platino?
 
 [msg MSG_033 [Ryuji]]
-Espera, ムno! Quiero decir, ムメpor qu〒[n]estホn usando "Seワorita" y "Chica" para[n]Naoto?!
+Espera, ムno! Quiero decir, ムメpor qu〒 estホn usando "Seワorita" y "Chica" para Naoto?!
 
 [msg MSG_034 [Haru]]
 メPor qu〒 no? Naoto es una chica.
 
 [msg MSG_035 [Ryuji]]
-メQu-eh? ムメDe verdad?! ムメLo sabボas,[n]Joker?!
+メQu-eh? ムメDe verdad?! ムメLo sabボas, Joker?!
 
 [sel SEL_036 top]
 Por supuesto que lo sabボa.
@@ -124,63 +124,63 @@ No tenボa idea...
 メEn serio? ムメCuホndo lo averiguaste?!
 
 [msg MSG_038 [Ryuji]]
-メVerdad? ムメNo habボa forma de que lo[n]supiera, cierto?!
+メVerdad? ムメNo habボa forma de que lo supiera, cierto?!
 
 [msg MSG_039 [Ann]]
-Quizホs es porque eres un poco denso.[n]Pens〒 que todo el mundo lo sabボa.
+Quizホs es porque eres un poco denso. Pens〒 que todo el mundo lo sabボa.
 
 [msg MSG_040 [Ryuji]]
-ムNo tiene nada que ver con que sea[n]denso! Simplemente... no tenボa ni idea.[n]Quiero decir, no puedo creerlo...
+ムNo tiene nada que ver con que sea denso! Simplemente... no tenボa ni idea. Quiero decir, no puedo creerlo...
 
 [msg MSG_041 [Naoto]]
-ムメV-vamos a dejar de hablar de esto?![n]Rise, ムtマ sigues!
+ムメV-vamos a dejar de hablar de esto?! Rise, ムtマ sigues!
 
 [msg MSG_042 [Rise]]
-メYo? Oh, メqu〒 tipo de nombre crees que[n]serボa bueno para mボ?
+メYo? Oh, メqu〒 tipo de nombre crees que serボa bueno para mボ?
 
 [msg MSG_043 [Ryuji]]
-Para Risechi, メeh... Idol? Pero eso[n]parece tan obvio.
+Para Risechi, メeh... Idol? Pero eso parece tan obvio.
 
 [msg MSG_044 [Teddie]]
-Ademホs, eso podrボa confundir a los demホs[n]haci〒ndoles pensar en mボ, soy un idol[n]tambi〒n.
+Ademホs, eso podrボa confundir a los demホs haci〒ndoles pensar en mボ, soy un idol tambi〒n.
 
 [msg MSG_045 [Chie]]
 Sボ, sボ...
 
 [msg MSG_046 [Rise]]
-メSupongo que Kung Fu para ti, Chie? O[n]tal vez algo relacionado con la carne...
+メSupongo que Kung Fu para ti, Chie? O tal vez algo relacionado con la carne...
 
 [msg MSG_047 [Haru]]
 Carne... Mmm... メSirloin?
 
 [msg MSG_048 [Yukiko]]
-ムOh, eso es Chie! Y tambi〒n es mホs fホcil[n]de decir que Filete Mignon.
+ムOh, eso es Chie! Y tambi〒n es mホs fホcil de decir que Filete Mignon.
 
 [msg MSG_049 [Chie]]
-メQu〒 pasa con estos nombres clave? ムSon[n]solo cortes de carne! ムVamos...!
+メQu〒 pasa con estos nombres clave? ムSon solo cortes de carne! ムVamos...!
 
 [msg MSG_050 [Ann]]
-Bueno, el siguiente es Kanji… Dado que[n]llevas una camiseta de esqueleto,[n]メquizホs Skull... Parte 2?
+Bueno, el siguiente es Kanji… Dado que llevas una camiseta de esqueleto, メquizホs Skull... Parte 2?
 
 [msg MSG_051 [Kanji]]
-メQu〒? メPor qu〒 soy una secuela?
+ムメQu〒?! ムメPor qu〒 soy una secuela?!
 
 [msg MSG_052 [Yukiko]]
-Mmm... Bueno, siempre estホs gritando[n]"maldiciポn", asボ que... メCrホneo Maldito?
-Ja, ja, ja... Eso suena tan ridボculo...[n]*Resoplido* Ja, ja, ja, ムja, ja, ja, ja!
+Mmm... Bueno, siempre estホs gritando "maldiciポn", asボ que... メCrホneo Maldito?
+Ja, ja, ja... Eso suena tan ridボculo... Ja, ja, ja, ムja, ja, ja, ja!
 
 [msg MSG_053 [Kanji]]
-Ni siquiera me importa... Quiero decir,[n]メcuホnto mホs vamos a seguir con esto?
+Ni siquiera me importa... Quiero decir, メcuホnto mホs vamos a seguir con esto?
 
 [msg MSG_054 [Teddie]]
-Oh, el mボo aマn no se ha decidido. Quizホs[n]algo como "Niワo bonito" u "Osito[n]lindo"...
+Oh, el mボo aマn no se ha decidido. Quizホs algo como "Niワo bonito" u "Osito lindo"...
 
 [msg MSG_055 [Ryuji]]
 El tuyo es Ted. Terminamos.
 
 [msg MSG_056 [Teddie]]
 ムGrrrrr! ムTodavボa no hemos terminado!
-Hay tantos para elegir, como "Idol de[n]Todos" o "Querido muchacho"...[n]ムSimplemente, no puedo elegir uno!
+Hay tantos para elegir, como "Idol de Todos" o "Querido muchacho"... ムSimplemente, no puedo elegir uno!
 
 [msg MSG_057 [Yusuke]]
 Aun asボ, es Ted.
@@ -189,10 +189,10 @@ Aun asボ, es Ted.
 Mmm. Ted.
 
 [msg MSG_059 [Teddie]]
-Q-qu〒 cruel... A este ritmo, ムlo マnico[n]que puedo hacer es esperar que el[n]Maestro me vengue!
+Q-qu〒 crueles... A este ritmo, ムlo マnico que puedo hacer es esperar que el Maestro me vengue!
 
 [msg MSG_060 [Ann]]
-Un nombre en clave para [f 6 1 13 0 0 0], メeh...?[n]メQu〒 crees que serボa bueno, Joker?
+Un nombre en clave para [f 6 1 13 0 0 0], メeh...? メQu〒 crees que serボa bueno, Joker?
 
 [sel SEL_061 top]
 Kingpin.
@@ -203,25 +203,25 @@ Lobo Yasogami.
 Kingpin...
 
 [msg MSG_063 [Yusuke]]
-Eso es sorprendentemente apropiado, por[n]alguna razポn.
+Eso es sorprendentemente apropiado, por alguna razポn.
 
 [msg MSG_064 [Ryuji]]
-Debe ser por esa pelea con Joker cuando[n]nos conocimos.
+Debe ser por esa pelea con Joker cuando nos conocimos.
 
 [msg MSG_065 [Teddie]]
-ムEse es nuestro Maestro! ムUn nombre de[n]cポdigo con dignidad!
+ムEse es nuestro Maestro! ムUn nombre de cポdigo con dignidad!
 
 [msg MSG_066 [P4 Hero]]
-メMaestro? Se siente un poco raro ser[n]llamado asボ por alguien que no sea[n]Teddie...
+メMaestro? Se siente un poco raro ser llamado asボ por alguien que no sea Teddie...
 
 [msg MSG_067 [Teddie]]
-ムLo llamo Maestro porque tenemos una[n]relaciポn especial entre nosotros! ムEse[n]nombre clave es solo para Teddie!
+ムLo llamo Maestro porque tenemos una relaciポn especial entre nosotros! ムEse nombre clave es solo para Teddie!
 
 [msg MSG_068 [P4 Hero]]
 ムメLobo Yasogami?!
 
 [msg MSG_069 [Yusuke]]
-Ah... Eso es bastante impresionante.[n]Tiene un tono fuerte y digno.
+Ah... Eso es bastante impresionante. Tiene un tono fuerte y digno.
 
 [msg MSG_070 [Ryuji]]
 Oh, vamos... メNo es demasiado extremo?
@@ -230,10 +230,10 @@ Oh, vamos... メNo es demasiado extremo?
 Lobo Yasogami... Interesante...
 
 [msg MSG_072 [Naoto]]
-ムOh! Sorprendente o no como pueda ser,[n]parece que le gusta.
+ムOh! Sorprendente o no como pueda ser, parece que le gusta.
 
 [msg MSG_073 [Yukiko]]
-Si esto es para [f 6 1 13 0 0 0], puede ser una[n]buena idea mencionar Nanako de alguna[n]manera.
+Si esto es para [f 6 1 13 0 0 0], puede ser una buena idea mencionar a Nanako.
 
 [msg MSG_074 [Kanji]]
 Como... メEl hermano de Nanako?
@@ -242,37 +242,37 @@ Como... メEl hermano de Nanako?
 No estホ mal.
 
 [msg MSG_076 [Haru]]
-Mm... メQui〒n es Nanako? メEs familiar de[n][f 6 1 12 0 0 0]?
+Mm... メQui〒n es Nanako? メEs familiar de [f 6 1 12 0 0 0]?
 
 [msg MSG_077 [P4 Hero]]
-Sボ, es mi prima, estホ en la escuela[n]primaria. Vivo con ella y su padre.
+Sボ, es mi prima, estホ en la primaria. Vivo con ella y su padre.
 
 [msg MSG_078 [Ryuji]]
 Asボ que es como Joker y Oracle.
 
 [msg MSG_079 [Futaba]]
-ムOye! ムSoy mホs grande que una colegiala,[n]Skull!
+ムOye! ムSoy mホs grande que una colegiala, Skull!
 
 [msg MSG_080 [Ryuji]]
-メEso es lo que te enfadポ?
+ムメESO es lo que te enfadポ?!
 
 [msg MSG_081 [Morgana]]
-*Suspira* Ya no tengo idea de lo que[n]estホ pasando...
+*suspira* Ya no tengo idea de lo que estホ pasando...
 
 [msg MSG_082 [Naoto]]
-メPor qu〒 no dejamos lo de los nombres de[n]cポdigo? No creo que logremos nada bueno[n]a este paso...
+メPor qu〒 no dejamos lo de los nombres clave? No creo que lleguemos a nada bueno a este paso...
 
 [sel SEL_083 top]
 Es verdad.
 Qu〒 decepciポn.
 
 [msg MSG_084 [Yukiko]]
-Ah, eso fue divertido. Pensemos en mホs[n]nombres clave mホs tarde.
+Ah, fue divertido. Pensemos en mホs nombres clave mホs tarde.
 
 [msg MSG_085 [Chie]]
-Estホ bien... al final, todo lo que[n]hicimos aquボ fue hablar sin parar, de[n]todos modos.
+Estホ bien... al final, todo lo que hicimos aquボ fue hablar sin parar.
 
 [msg MSG_086 [Morgana]]
-Bueno, dado que ustedes no necesitan[n]identidades secretas, creo que tampoco[n]necesitan nombres en clave.
+Bien, como ustedes no necesitan identidades secretas, creo que tampoco necesitan nombres clave.
 Vamos a concentrarnos en salir de aquボ.
 
