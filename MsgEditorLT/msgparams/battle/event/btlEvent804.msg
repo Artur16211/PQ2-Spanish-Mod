@@ -37,7 +37,7 @@
 [msg MSG_007 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 3 1 3 0 0 213][f 6 1 2 0 0 10][f 6 1 3 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Herbívoro Nervioso]]
+[msg MSG_008 [Herbボvoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 3][f 3 1 3 0 0 214]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Herbボvoro Malhumorado]]
@@ -70,7 +70,7 @@
 [msg MSG_022 [Herbボvoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 3][f 3 1 3 0 0 227]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Herbívoro Nervioso]]
+[msg MSG_023 [Herbボvoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 1][f 3 1 3 0 0 228]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]

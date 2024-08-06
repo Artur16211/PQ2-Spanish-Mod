@@ -50,7 +50,7 @@
 [msg MSG_017 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 1 1][f 3 1 1 0 0 24][f 6 1 2 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Chica Energética]]
+[msg MSG_018 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 6 4 2 0 0][f 3 1 1 0 0 25][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -69,7 +69,7 @@
 [msg MSG_022 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 12 0 6][f 3 1 1 0 0 33]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Chica Energética]]
+[msg MSG_023 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 4 10 0 0][f 3 1 1 0 0 34][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Persona Disfrazada De Oso]]

@@ -55,7 +55,7 @@
 [msg MSG_017 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 3][f 3 1 1 0 0 19]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Policía Serio]]
+[msg MSG_018 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 2 0 1][f 3 1 1 0 0 20][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Ryuji]]
@@ -71,7 +71,7 @@
 [msg MSG_022 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 25]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Policía Serio]]
+[msg MSG_023 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 26][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Futaba]]
@@ -80,13 +80,13 @@
 [msg MSG_025 [Yusuke]]
 [f 0 5 65278][f 2 1][f 4 6 24 0 0 3][f 3 1 1 0 0 28]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Policía Serio]]
+[msg MSG_026 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 25 1 0 3][f 4 6 44 0 0 1][f 3 1 1 0 0 29][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 12 0 0][f 3 1 1 0 0 30]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_028 [Policía Serio]]
+[msg MSG_028 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31][f 6 1 3 0 0 1][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_029 [Ryuji]]
@@ -108,7 +108,7 @@
 [msg MSG_034 [Haru]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 4][f 4 6 27 12 0 4][f 3 1 1 0 0 36]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Policía Serio]]
+[msg MSG_035 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 44 2 0 1][f 3 1 1 0 0 37]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_036 top]
@@ -116,13 +116,13 @@
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 4 32][e]
 
-[msg MSG_037 [Policía Serio]]
+[msg MSG_037 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 0 1 0][f 3 1 1 0 0 38][f 6 1 2 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Policía Serio]]
+[msg MSG_038 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 39][f 6 1 3 0 0 1][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_039 [Policía Serio]]
+[msg MSG_039 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 0 1 0][f 3 1 1 0 0 40][f 6 1 2 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_040 [Ann]]
@@ -131,7 +131,7 @@
 [msg MSG_041 [Akechi]]
 [f 0 5 65278][f 2 1][f 4 6 28 0 0 6][f 3 1 1 0 0 42][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_042 [Policía Serio]]
+[msg MSG_042 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 43][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Makoto]]
@@ -140,7 +140,7 @@
 [msg MSG_044 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 45 1 0 4][f 4 6 44 1 0 1][f 4 6 23 10 0 3][f 3 1 1 0 0 45][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_045 [Policía Serio]]
+[msg MSG_045 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 2 1 0][f 3 1 1 0 0 46][f 6 1 1 0 0 1][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Policボa Gordo]]
@@ -152,6 +152,6 @@
 [msg MSG_048 [Makoto]]
 [f 0 5 65278][f 2 1][f 6 1 2 0 0 10][f 4 6 25 2 1 0][f 3 1 1 0 0 49]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_049 [Policía Serio]]
+[msg MSG_049 [Policボa Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 4 1 1][f 3 1 1 0 0 50][f 6 1 1 0 0 1][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 

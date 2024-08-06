@@ -1,7 +1,7 @@
 [msg MSG_000 [Estudiante De Aspecto Sombrボo]]
 [f 0 5 65278][f 2 1][f 4 6 57 1 0 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Niña inocente]]
+[msg MSG_001 [Niワa inocente]]
 [f 0 5 65278][f 2 1][f 4 6 37 0 0 0][f 3 1 1 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Estudiante De Aspecto Sombrボo]]

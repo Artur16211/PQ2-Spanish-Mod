@@ -7,68 +7,68 @@
 [msg MSG_002 [Rise]]
 [f 0 5 65278][f 2 1][f 4 6 6 10 100 6][f 3 1 1 0 0 0][f 6 1 2 0 0 0][f 3 1 6 0 0 500]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Robot Con Listón]]
+[msg MSG_003 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 6 1 25 0 0 0][f 4 6 35 1 0 1][f 3 1 1 0 0 35014]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26005]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Robot Con Listón]]
+[msg MSG_005 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35001]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 10 0 6][f 3 1 1 0 0 10019][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [Robot Con Listón]]
+[msg MSG_007 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35001]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 0 0][f 3 1 1 0 0 26135][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Robot Con Listón]]
+[msg MSG_009 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35001]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_010 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 21 12 1 0][f 3 1 1 0 0 21113][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_011 [Robot Con Listón]]
+[msg MSG_011 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35012]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_012 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 6 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Robot Con Listón]]
+[msg MSG_013 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26099]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_015 [Robot Con Listón]]
+[msg MSG_015 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35007]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_016 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]{dialog}[f 2 7 1 20 6 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 0 32][e]
 
-[msg MSG_017 [Robot Con Listón]]
+[msg MSG_017 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_018 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_019 [Robot Con Listón]]
+[msg MSG_019 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Robot Con Listón]]
+[msg MSG_020 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35024]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_021 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 4 0 0][f 3 1 1 0 0 26144][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Robot Con Listón]]
+[msg MSG_022 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Mitsuru]]
@@ -77,13 +77,13 @@
 [msg MSG_024 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 8 2 6][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_025 [Robot Con Listón]]
+[msg MSG_025 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35008]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 6 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_027 [Robot Con Listón]]
+[msg MSG_027 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35007]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Junpei]]
@@ -92,7 +92,7 @@
 [msg MSG_029 [Mitsuru]]
 [f 0 5 65278][f 2 1][f 4 6 13 12 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_030 [Robot Con Listón]]
+[msg MSG_030 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35002]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Akihiko]]
@@ -127,25 +127,25 @@
 [msg MSG_040 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 12 0 0][f 3 1 1 0 0 26068]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Robot Con Listón]]
+[msg MSG_041 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 35 12 0 1][f 3 1 1 0 0 35023]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 0 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_043 [Robot Con Listón]]
+[msg MSG_043 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35007]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_044 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 12 0 0][f 3 1 1 0 0 21012][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_045 [Robot Con Listón]]
+[msg MSG_045 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 3 1 1 0 0 35022][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_046 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 21 0 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_047 [Robot Con Listón]]
+[msg MSG_047 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35014]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35023][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -153,7 +153,7 @@
 [f 0 5 65278][f 2 1][f 4 6 19 12 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 19013]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 0][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_049 [Robot Con Listón]]
+[msg MSG_049 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 35 6 0 0][f 3 1 1 0 0 35022]{dialog}[n][f 1 3 65535][f 1 1][e]
@@ -166,7 +166,7 @@
 [f 0 5 65278][f 2 1][f 4 6 12 0 0 6][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 12 2 0 6][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_052 [Robot Con Listón]]
+[msg MSG_052 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 35 1 0 0][f 3 1 1 0 0 35022]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 

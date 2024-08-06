@@ -4,7 +4,7 @@
 [msg MSG_001 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 4 1 0][f 3 1 1 0 0 4062][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Robot Con Listón]]
+[msg MSG_002 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35023][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Robot Producido En Masa A]]
@@ -13,7 +13,7 @@
 [msg MSG_004 [Robot Producido En Masa B]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0][f 6 1 3 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Robot Con Listón]]
+[msg MSG_005 [Robot Con Listポn]]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 35002][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Futaba]]

@@ -4,7 +4,7 @@
 [msg MSG_001 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Chica Energética]]
+[msg MSG_002 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_003 [Chico Amenazante]]
@@ -57,7 +57,7 @@
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 4 32][e]
 
-[msg MSG_018 [Chica Energética]]
+[msg MSG_018 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 21][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chico Inteligente]]
@@ -66,7 +66,7 @@
 [msg MSG_020 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 23][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Chica Energética]]
+[msg MSG_021 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 24]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Chico Inteligente]]
@@ -75,7 +75,7 @@
 [msg MSG_023 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 26][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Chica Energética]]
+[msg MSG_024 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 27][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
@@ -120,7 +120,7 @@
 [msg MSG_037 [Chica Reservada]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 12 0 1][f 3 1 1 0 0 43]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Chica Energética]]
+[msg MSG_038 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 4][f 3 1 1 0 0 44][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -139,7 +139,7 @@
 [msg MSG_043 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 50]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_044 [Chica Energética]]
+[msg MSG_044 [Chica Energ〒tica]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 51][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_045 top]

@@ -1,4 +1,4 @@
-[msg MSG_000 [Chico Con Gorra De Béisbol]]
+[msg MSG_000 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 1][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_001 [Chica Animada]]
@@ -8,7 +8,7 @@
 [f 0 5 65278][f 2 1][f 4 6 13 6 0 6][f 3 1 1 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 4][f 6 1 2 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Chico Con Gorra De Béisbol]]
+[msg MSG_003 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 5]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -64,7 +64,7 @@
 [msg MSG_018 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 12 3 1][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 28][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_019 [Chico Con Gorra De Béisbol]]
+[msg MSG_019 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_020 top]
@@ -75,30 +75,30 @@
 [msg MSG_021 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 6 10 12 0 1][f 3 1 1 0 0 30]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Chico Con Gorra De Béisbol]]
+[msg MSG_022 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 0 0 0][f 3 1 1 0 0 31]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 1 0][f 3 1 1 0 0 32][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Chico Con Gorra De Béisbol]]
+[msg MSG_023 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 10 0 1][f 3 1 1 0 0 33][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 11 2 1 0][f 3 1 1 0 0 34][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Chica Animada]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 10 6 0 1][f 3 1 1 0 0 35]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_025 [Chico Con Gorra De Béisbol]]
+[msg MSG_025 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 6 11 12 0 0][f 3 1 1 0 0 36]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_026 [Teddie]]
 [f 0 5 65278][f 2 1][f 4 6 9 0 0 1][f 3 1 1 0 0 37][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_027 [Niño Serio]]
+[msg MSG_027 [Niワo Serio]]
 [f 0 5 65278][f 2 1][f 4 6 16 6 0 0][f 3 1 1 0 0 38]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_028 [Perro]]
 [f 0 5 65278][f 2 1][f 4 6 17 6 0 0][f 3 1 1 0 0 39]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_029 [Chico Con Gorra De Béisbol]]
+[msg MSG_029 [Chico Con Gorra De B〒isbol]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 19 1 0 1][f 4 6 11 6 0 3][f 3 1 1 0 0 40][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [P3 Fem Protag]]
@@ -111,7 +111,7 @@
 [msg MSG_032 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 4 0 3][f 3 1 1 0 0 44][f 6 1 2 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_033 [Niño Serio]]
+[msg MSG_033 [Niワo Serio]]
 [f 0 5 65278][f 2 1][f 4 6 19 1 0 1][f 4 6 16 12 0 3][f 3 1 1 0 0 45][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 46]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 47]{dialog}[n][f 1 3 65535][f 1 1][e]
@@ -119,7 +119,7 @@
 [msg MSG_034 [Perro]]
 [f 0 5 65278][f 2 1][f 4 6 17 12 0 6][f 3 1 1 0 0 48][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Niño Serio]]
+[msg MSG_035 [Niワo Serio]]
 [f 0 5 65278][f 2 1][f 4 6 16 2 0 0][f 3 1 1 0 0 49][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [P3 Fem Protag]]

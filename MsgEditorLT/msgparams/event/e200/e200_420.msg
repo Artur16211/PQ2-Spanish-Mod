@@ -15,7 +15,7 @@
 [msg MSG_004 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 6][f 3 1 1 0 0 7][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_005 [Herbívoro Nervioso]]
+[msg MSG_005 [Herbボvoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 8][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_006 [Yosukesaurio]]
