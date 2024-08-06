@@ -1,7 +1,7 @@
 [msg MSG_000 [Kanji]]
 [f 0 5 65278][f 2 1][f 4 6 35 1 0 1][f 4 6 7 0 0 3][f 3 1 1 0 0 7010][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Robot Con Cinta]]
+[msg MSG_001 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35009]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Futaba]]
@@ -10,20 +10,20 @@
 [msg MSG_003 [Yukari]]
 [f 0 5 65278][f 2 1][f 4 6 10 2 0 6][f 3 1 1 0 0 10067][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Robot Con Cinta]]
+[msg MSG_004 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 0][f 3 1 1 0 0 35012][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_005 top]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 20 1 0 0]{dialog}[f 2 7 1 20 0 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 0 32][e]
 
-[msg MSG_006 [Robot Con Cinta]]
+[msg MSG_006 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35014]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_007 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 6][f 3 1 1 0 0 26135][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Robot Con Cinta]]
+[msg MSG_008 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 1 0][f 3 1 1 0 0 35007]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Kanji]]
@@ -44,14 +44,14 @@
 [msg MSG_034 [Chie]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Robot Con Cinta]]
+[msg MSG_035 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 35008]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_036 [Naoto]]
 [f 0 5 65278][f 2 1][f 4 6 8 0 0 3][f 3 1 1 0 0 0][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_037 [Robot Con Cinta]]
+[msg MSG_037 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35008]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_038 [Yusuke]]

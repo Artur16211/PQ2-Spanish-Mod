@@ -45,7 +45,7 @@
 [msg MSG_012 [P4 Hero]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 1][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 16]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_013 [Chica En〒rgica]]
+[msg MSG_013 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 0 0 1][f 3 1 1 0 0 17]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_014 [Chie]]
@@ -60,7 +60,7 @@
 [msg MSG_017 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 6 0 6][f 3 1 1 0 0 21]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_018 [Chico Amenazador]]
+[msg MSG_018 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 7 6 0 0][f 3 1 1 0 0 22][f 6 1 2 0 0 9]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Yukiko]]

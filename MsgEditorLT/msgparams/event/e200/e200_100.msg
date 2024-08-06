@@ -4,10 +4,10 @@
 [msg MSG_001 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_002 [Chica En〒rgica]]
+[msg MSG_002 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 4 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Chico Amenazador]]
+[msg MSG_003 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 4][f 3 1 1 0 0 4][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Chica Reservada]]
@@ -43,7 +43,7 @@
 [msg MSG_013 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 10 0 1][f 3 1 1 0 0 17][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_014 [Chico Amenazador]]
+[msg MSG_014 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 4 0 1][f 3 1 1 0 0 18][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_015 [Yusuke]]
@@ -57,32 +57,32 @@
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 2 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 20 4 32][e]
 
-[msg MSG_018 [Chica En〒rgica]]
+[msg MSG_018 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 21][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_019 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 22]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Chico Amenazador]]
+[msg MSG_020 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 23][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Chica En〒rgica]]
+[msg MSG_021 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 24]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_022 [Chico Inteligente]]
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 0][f 3 1 1 0 0 25]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Chico Amenazador]]
+[msg MSG_023 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 26][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Chica En〒rgica]]
+[msg MSG_024 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 4][f 3 1 1 0 0 27][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_025 [Haru]]
 [f 0 5 65278][f 2 1][f 4 6 27 2 1 0][f 3 1 1 0 0 28][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 29]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Chico Amenazador]]
+[msg MSG_026 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 4][f 3 1 1 0 0 30][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Persona Disfrazada De Oso]]
@@ -99,7 +99,7 @@
 [msg MSG_030 [Persona Disfrazada De Oso]]
 [f 0 5 65278][f 2 1][f 4 6 9 10 1 4][f 3 1 1 0 0 36][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_031 [Chica Coja]]
+[msg MSG_031 [Chica Enferma]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 6 0 2 1][f 3 1 1 0 0 37]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_032 [P3 Fem Protag]]
@@ -120,7 +120,7 @@
 [msg MSG_037 [Chica Reservada]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 5 12 0 1][f 3 1 1 0 0 43]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Chica En〒rgica]]
+[msg MSG_038 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 0 0 4][f 3 1 1 0 0 44][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 45]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -130,7 +130,7 @@
 [msg MSG_040 [P3 Fem Protag]]
 [f 0 5 65278][f 2 1][f 4 6 19 6 0 0][f 1 5][f 6 1 28 0 0 0][n][f 3 1 1 0 0 47]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_041 [Chico Amenazador]]
+[msg MSG_041 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 7 6 0 1][f 3 1 1 0 0 48][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_042 [Akechi]]
@@ -139,7 +139,7 @@
 [msg MSG_043 [Makoto]]
 [f 0 5 65278][f 2 1][f 4 6 25 0 0 6][f 3 1 1 0 0 50]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_044 [Chica En〒rgica]]
+[msg MSG_044 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 1][f 3 1 1 0 0 51][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [sel SEL_045 top]

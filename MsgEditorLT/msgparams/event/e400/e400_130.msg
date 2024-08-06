@@ -2,7 +2,7 @@
 [f 0 5 65278][f 2 1][f 4 6 53 0 0 1][f 3 1 1 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 2]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Chica Confundida]]
+[msg MSG_001 [Niña Confundida]]
 [f 0 5 65278][f 2 1][f 6 1 25 0 0 0][f 4 6 38 0 1 0][f 3 1 1 0 0 3]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Profesora De Escuela Primaria]]
@@ -25,7 +25,7 @@
 [msg MSG_007 [Niワo Travieso]]
 [f 0 5 65278][f 2 1][f 4 6 52 2 1 0][f 3 1 1 0 0 11]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_008 [Chica Confundida]]
+[msg MSG_008 [Niña Confundida]]
 [f 0 5 65278][f 2 1][f 4 7 13 0 0][f 4 6 38 1 1 0][f 3 1 1 0 0 12]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_009 [Profesora De Escuela Primaria]]

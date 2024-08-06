@@ -13,7 +13,7 @@
 [f 0 5 65278][f 2 1][f 4 6 8 12 0 1][f 3 1 1 0 0 8068]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_004 [Policボa Serio]]
+[msg MSG_004 [Policía Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 12 0 3][f 3 1 1 0 0 44002]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_005 [Naoto]]
@@ -23,7 +23,7 @@
 [msg MSG_006 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 10 0 4][f 3 1 1 0 0 26061]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_007 [Policボa Serio]]
+[msg MSG_007 [Policía Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 12 0 3][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_008 [Naoto]]
@@ -34,7 +34,7 @@
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 8 4 1 1][f 3 1 1 0 0 8132]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_009 [Policボa Serio]]
+[msg MSG_009 [Policía Serio]]
 [f 0 5 65278][f 2 1][f 4 6 44 0 1 3][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]

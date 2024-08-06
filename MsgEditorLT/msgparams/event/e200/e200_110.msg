@@ -1,13 +1,13 @@
 [msg MSG_000 [Morgana]]
 [f 0 5 65278][f 2 1][f 4 6 23 16 1 1][f 3 1 1 0 0 1][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Chica En〒rgica]]
+[msg MSG_001 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Chica Reservada]]
 [f 0 5 65278][f 2 1][f 4 6 5 10 0 1][f 3 1 1 0 0 3][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_003 [Chica En〒rgica]]
+[msg MSG_003 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 12 0 0][f 3 1 1 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_004 [Futaba]]
@@ -53,7 +53,7 @@
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 64 0 32][e]
 [f 0 5 65278][f 2 1]{dialog}[f 2 7 1 64 0 32][e]
 
-[msg MSG_016 [Chico Amenazador]]
+[msg MSG_016 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 12 0 4][f 3 1 1 0 0 21][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_017 [Chico Inteligente]]
@@ -66,26 +66,26 @@
 [msg MSG_019 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 0 1 0][f 3 1 1 0 0 25]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_020 [Mujer Azul]]
+[msg MSG_020 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 75 0 0 1][f 3 1 1 0 0 26]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 27][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_021 [Chico Amenazador]]
+[msg MSG_021 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 0 0 0][f 3 1 1 0 0 28]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_022 [Chico Amenazador]]
+[msg MSG_022 [Chico Amenazante]]
 [f 0 5 65278][f 2 1][f 4 6 7 10 0 0][f 3 1 1 0 0 29][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_023 [Chico Compuesto]]
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 0][f 3 1 1 0 0 30]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_024 [Chica Con Traje Punk]]
+[msg MSG_024 [Chica Con Ropa Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 4][f 3 1 1 0 0 31]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_025 [Chica En〒rgica]]
+[msg MSG_025 [Chica Energética]]
 [f 0 5 65278][f 2 1][f 4 6 4 10 0 0][f 3 1 1 0 0 32][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_026 [Chica Con Traje Punk]]
+[msg MSG_026 [Chica Con Ropa Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 6 0 0][f 3 1 1 0 0 33]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_027 [Ann]]
@@ -110,19 +110,19 @@
 [f 0 5 65278][f 2 1][f 4 6 23 0 0 1][f 3 1 1 0 0 39]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 40][f 4 6 23 2 0 1][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_033 [Mujer Azul]]
+[msg MSG_033 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 75 0 0 1][f 3 1 1 0 0 41]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_034 [Ryuji]]
 [f 0 5 65278][f 2 1][f 4 6 65 0 0 3][f 3 1 1 0 0 42][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_035 [Mujer Azul]]
+[msg MSG_035 [Mujer De Azul]]
 [f 0 5 65278][f 2 1][f 4 6 75 12 0 0][f 3 1 1 0 0 43]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 44]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 1 1 0 3][f 3 1 1 0 0 45][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 46][f 6 1 3 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_036 [Chica Con Traje Punk]]
+[msg MSG_036 [Chica Con Ropa Punk]]
 [f 0 5 65278][f 2 1][f 4 6 85 0 0 4][f 3 1 1 0 0 47][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_037 [Margaret]]

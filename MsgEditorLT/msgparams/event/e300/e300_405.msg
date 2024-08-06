@@ -14,13 +14,13 @@
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 20 1 0 3][f 4 6 25 2 0 1][f 3 1 1 0 0 25068]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_0000 [Robot Con Cinta]]
+[msg MSG_0000 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 12 0 1][f 3 1 1 0 0 35022]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0001 [Futaba]]
 [f 0 5 65278][f 2 1][f 4 6 26 6 1 0][f 3 1 1 0 0 26062]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_0002 [Robot Con Cinta]]
+[msg MSG_0002 [Robot Con Listón]]
 [f 0 5 65278][f 2 1][f 4 6 35 0 0 0][f 3 1 1 0 0 35002]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_0003 [Mitsuru]]

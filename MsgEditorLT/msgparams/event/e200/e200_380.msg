@@ -91,7 +91,7 @@
 [f 0 5 65278][f 2 1][f 4 6 42 12 0 0][f 3 1 1 0 0 30]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 31][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_029 [Herbボvoro Inquieto]]
+[msg MSG_029 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 90 1 0 1][f 4 6 47 0 1 3][f 3 1 1 0 0 32][f 6 1 2 0 0 10]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_030 [Herbボvoro Tボmido]]
@@ -107,7 +107,7 @@
 [msg MSG_033 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 2 1 4][f 3 1 1 0 0 37]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_034 [Herbボvoro Inquieto]]
+[msg MSG_034 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 2 1 1][f 3 1 1 0 0 38]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_035 [Herbボvoro Tボmido]]
@@ -120,7 +120,7 @@
 [msg MSG_037 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 7 11 0 0][f 4 6 48 0 0 1][f 3 1 1 0 0 42][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_038 [Herbボvoro Inquieto]]
+[msg MSG_038 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 4][f 3 1 1 0 0 43]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 44][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 
@@ -174,7 +174,7 @@
 [msg MSG_052 [Herbボvoro Malhumorado]]
 [f 0 5 65278][f 2 1][f 4 6 42 2 1 1][f 3 1 1 0 0 63][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_053 [Herbボvoro Inquieto]]
+[msg MSG_053 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 34 1 0 3][f 4 6 47 12 0 1][f 3 1 1 0 0 64][f 6 1 2 0 0 4]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 4 6 47 0 1 1][f 3 1 1 0 0 65]{dialog}[n][f 1 3 65535][f 1 1][e]
 

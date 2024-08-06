@@ -1,7 +1,7 @@
 [msg MSG_000 [Yosukesaurio]]
 [f 0 5 65278][f 2 1][f 4 6 34 0 1 1][f 3 1 1 0 0 1]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_001 [Herbボvoro Inquieto]]
+[msg MSG_001 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 2][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_002 [Herbボvoro Enorme]]
@@ -80,7 +80,7 @@
 [f 0 5 65278][f 2 1][f 4 6 1 12 0 6][f 1 5][f 6 1 14 0 0 0][n][f 3 1 1 0 0 32]{dialog}[n][f 1 3 65535][f 1 1][e]
 [f 0 5 65278][f 2 1][f 3 1 1 0 0 33]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_023 [Herbボvoro Inquieto]]
+[msg MSG_023 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 42 1 0 6][f 6 1 25 0 0 0][f 4 6 47 1 0 0][f 3 1 1 0 0 34]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_024 [Yosukesaurio]]
@@ -107,7 +107,7 @@
 [msg MSG_029 [Herbボvoro Enorme]]
 [f 0 5 65278][f 2 1][f 4 6 48 0 0 4][f 3 1 1 0 0 46]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_030 [Herbボvoro Inquieto]]
+[msg MSG_030 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 0][f 3 1 1 0 0 47]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_031 [Yusuke]]
@@ -146,7 +146,7 @@
 [msg MSG_041 [Herbボvoro Tボmido]]
 [f 0 5 65278][f 2 1][f 4 7 0 0 0][f 4 6 90 0 0 3][f 3 1 1 0 0 61][f 6 1 2 0 0 0]{dialog}[n][f 1 3 65535][f 1 1][e]
 
-[msg MSG_042 [Herbボvoro Inquieto]]
+[msg MSG_042 [Herbívoro Nervioso]]
 [f 0 5 65278][f 2 1][f 4 6 47 12 0 1][f 3 1 1 0 0 62][f 6 1 2 0 0 6]{dialog}[n][f 1 3 65535][f 1 1][e]
 
 [msg MSG_043 [Herbボvoro Enorme]]
