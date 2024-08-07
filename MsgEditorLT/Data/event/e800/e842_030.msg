@@ -1,44 +1,44 @@
 [msg MSG_000 [Hikari]]
-Look! Over there!
+ムMirad! ムJusto allボ!
 
 [msg MSG_001 [Yukari]]
-Whoa! Isn't that one a little too big!?
+ムHala! ムメNo es demasiado grande?!
 
 [msg MSG_002 [Yusuke]]
-Such majesty... I can feel an aura of[n]resplendent dignity...
+Cuanta majestuosidad... Puedo sentir un aura de resplandeciente dignidad...
 
 [sel SEL_003 top]
-Let's catch it.
-Get to work, Skull!
+Captur〒mosla.
+ムManos a la obra, Skull!
 
 [msg MSG_004 [Futaba]]
-Yeah, if anything is gonna be Zabby's[n]lunker, it's this huge boy.
+Sボ, si algo va a ser el botボn de Elizabeth, serホ estホ enorme mariposa.
 
 [msg MSG_005 [Ryuji]]
-Oh, sure, lemme just roll up and―
+Oh, claro, d〒jame simplemente acercarme y...
 
 [msg MSG_006 [Ryuji]]
-Wait, why me!? You want me to handle[n]this alone...?
+Espera, ムメpor qu〒 yo?! メQuieres que me encargue yo solo de esto...?
 
 [msg MSG_007 [Futaba]]
-Whoa, Skull's all scared over a[n]butterfly?
+Vaya, メSkull estホ asustado por una mariposa?
 
 [msg MSG_008 [Ryuji]]
-Hey, I'm not! I'm just on the spot[n]here...
+Ey, ムno lo estoy! Es solo que estoy bajo presiポn...
 
 [msg MSG_009 [Hikari]]
-Oh!
+ムOh!
 
 [msg MSG_010]
-The butterfly flew away...
+La mariposa se fue volando...
 
 [msg MSG_011 [Yukari]]
-There it goes... It really was gigantic.
+Ahボ va... Era realmente gigantesca.
 
 [msg MSG_012 [Hikari]]
-Looks like it went through that hole up[n]there. Should we chase it down?
+Parece que pasポ por ese agujero de ahボ arriba. メDeberボamos perseguirla?
 
 [msg MSG_013 [Morgana]]
-A bug that big doesn't come along every[n]day. We might not get another chance.
-Use that switch there! Let's catch it!
+Un bicho tan grande no aparece todos los dボas. Puede que no tengamos otra oportunidad.
+ムUsa ese interruptor de ahボ! ムAtrap〒mosla!
 

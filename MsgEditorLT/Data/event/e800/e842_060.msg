@@ -1,16 +1,16 @@
 [msg MSG_000 [Futaba]]
-Whew... That was close. They almost[n]turned us into fertilizer.
+Uf... Ha estado cerca. Casi nos convierten en fertilizante.
 
 [msg MSG_001 [Mitsuru]]
-Honestly... So the scent and flowers[n]were all natural traps.
+Honestamente... Asボ que el aroma y las flores eran todas trampas naturales.
 
 [msg MSG_002 [Futaba]]
-Sorry. Obvious ambush was obvious. I[n]usually see this stuff coming in[n]games...
+Lo siento. La emboscada era obvia. Normalmente veo venir estas cosas en los juegos...
 
 [msg MSG_003 [Fuuka]]
-There might be more at any moment. You[n]should get out of there, now!
+Podrボa haber mホs en cualquier momento. ムDeberボan de irse de allボ ya!
 
 [msg MSG_004 [Morgana]]
-So much for our picnic, I guess.
-But we got the butterfly we needed.[n]Let's head back to base.
+Hasta aquボ llegポ nuestro pボcnic, supongo.
+Pero tenemos la mariposa que necesitホbamos. Volvamos a la base.
 

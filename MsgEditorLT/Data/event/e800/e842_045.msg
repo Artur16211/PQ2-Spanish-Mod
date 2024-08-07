@@ -1,10 +1,10 @@
 [msg MSG_000 [Yukari]]
-Whew... Finally, we're here. That took[n]longer than I thought.
+Uf... Finalmente estamos aquボ. Tomポ mホs tiempo de lo que me esperaba.
 
 [msg MSG_001 [Hikari]]
-It doesn't look like it's around here...
+No parece que est〒 por aquボ...
 
 [msg MSG_002 [P3 Hero]]
-We should probably look for the hole it[n]went down.
-It'd be west from here. Let's check it[n]out, Joker.
+Probablemente, deberボamos de buscar en el agujero por donde bajポ.
+Estarボa al oeste de aquボ. Vamos a comprobarlo, Joker.
 

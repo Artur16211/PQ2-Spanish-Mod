@@ -1,26 +1,26 @@
 [msg MSG_000 [Hikari]]
-There! Right by that hole!
-Huh? Wait up!
+ムAllボ! ムJusto en ese agujero!
+メEh? ムEspera!
 
 [msg MSG_001]
-The butterfly went through the hole...
+La mariposa bajポ por el agujero...
 
 [msg MSG_002 [Teddie]]
-Grrr! That butterfly doesn't know when[n]to give up!
+ムGrrr! ムEsa mariposa no sabe cuホndo rendirse!
 
 [msg MSG_003 [Hikari]]
-Maybe it saw all the people here and got[n]scared...
+Quizホs vio a toda la gente que estamos y se asustポ...
 
 [msg MSG_004 [Yukari]]
-I want to chase it down, but we can't[n]get down from here.
+Quiero perseguirla, pero no podemos bajar por aquボ.
 
 [sel SEL_005 top]
-Lets make a detour.
-Let's find the switch.
+Demos un rodeo.
+Encontremos el interruptor.
 
 [msg MSG_006 [Hikari]]
-Right. If we go to the lower floor, I'm[n]sure we can find it again.
+Cierto. Si vamos a la planta de abajo, seguro que podremos encontrarla de nuevo.
 
 [msg MSG_007 [Morgana]]
-All right! Then let's look for a switch[n]and follow it!
+ムMuy bien! ムEntonces busquemos un interruptor y sigホmosla!
 
