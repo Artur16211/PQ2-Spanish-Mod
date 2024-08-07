@@ -4,7 +4,7 @@
 
 [msg MSG_001 [Morgana]]
 ...oye.
-...oyee, ムdespierta!
+...oyee, ムdespierta! 
 
 [msg MSG_002 [Morgana]]
 Vaya, por fin despiertas. La clase ya terminポ...
