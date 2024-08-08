@@ -890,7 +890,7 @@ La variedad de sabor a proteボnas no[n]es mala, tampoco...
 ムQu〒 apetito! ムApenas puedo cumplir[n]la demanda de palomitas!
 
 [msg town_bg11_HARU_mes01]
-*risa* Este es el マltimo. Necesitar〒[n]mi fuerza.
+*risita* Este es el マltimo. Necesitar〒[n]mi fuerza.
 
 [msg town_bg11_HARU_mes02]
 Theodore, メme das un poco de t〒? Earl[n]Grey estarボa bien.
