@@ -1090,138 +1090,138 @@ Pin de Viento X
 Collar Elec. X
 Pin Elec. X
 Acc 0x443
-Crimson Sash
-Crimson Charm
-Ebon Sash
-Ebon Charm
-Ivory Sash
-Ivory Charm
-Azure Sash
-Azure Charm
-Golden Sash
-Golden Charm
+Banda carmesí
+Amuleto carmesí
+Banda de ébano
+Amuleto de ébano
+Banda de marfil
+Amuleto de marfil
+Banda de Azure
+Amuleto de Azure
+Banda Dorada
+Amuleto Dorado
 Acc 0x485
-Power Sash
-Power Charm
-Mystic Sash
-Mystic Charm
-Barrier Sash
-Barrier Charm
-Haste Sash
-Haste Charm
-Lucky Sash
-Lucky Charm
+Banda de Poder
+Amuleto de poder
+Banda Mística
+Amuleto Místico
+Banda de barrera
+Amuleto de barrera
+Banda de prisa
+Amuleto de prisa
+Banda de la suerte
+Amuleto de la suerte
 Acc 0x485
-Crimson Patch
-Crimson Ankh
-Ebon Patch
-Ebon Ankh
-Ivory Patch
-Ivory Ankh
-Azure Patch
-Azure Ankh
-Golden Patch
-Golden Ankh
+Parche carmesí
+Ankh Carmesí
+Parche Ébano
+Ankh de Ébano
+Parche de marfil
+Ankh de marfil
+Parche Azure
+Ankh Azure
+Parche dorado
+Ankh dorado
 Acc 0x485
-Power Patch
-Power Ankh
-Mystic Patch
-Mystic Ankh
-Barrier Patch
-Barrier Ankh
-Haste Patch
-Haste Ankh
-Lucky Patch
-Lucky Ankh
+Parche de poder
+Ankh de poder
+Parche místico
+Ankh místico
+Parche barrera
+Ankh Barrera
+Parche de Prisa
+Ankh de prisa
+Parche de la suerte
+Ankh de la suerte
 Acc 0x485
-Crimson Bead
-Crimson Orb
-Ebon Bead
-Ebon Orb
-Ivory Bead
-Ivory Orb
-Azure Bead
-Azure Orb
-Golden Bead
-Golden Orb
+Perla carmesí
+Orbe carmesí
+Perla de ébano
+Orbe de ébano
+Perla de marfil
+Orbe marfil
+Perla de Azure
+Orbe de Azure
+Perla Dorada
+Orbe dorado
 Acc 0x485
-Power Bead
-Power Orb
-Mystic Bead
-Mystic Orb
-Barrier Bead
-Barrier Orb
-Haste Bead
-Haste Orb
-Lucky Bead
-Lucky Orb
+Perla de Poder
+Orbe de Poder
+Perla Mística
+Orbe Místico
+Perla de barrera
+Orbe de barrera
+Perla de Prisa
+Orbe de Prisa
+Perla de la suerte
+Orbe de la suerte
 Acc 0x485
-X Nuke Ring
-X Psy Ring
-X Nuke Bangle
-X Psy Bangle
-X Nuke Circlet
-X Psy Circlet
-X Nuke Pin
-X Psy Pin
+Anillo Nuclear X
+Anillo Psi X
+Brazalete Nuclear X
+Brazalete Psi X
+Circlet Nuclear X
+Circlet Psi X
+Pin Nuclear X
+Pin Psi X
 Acc 0x48E
 Barril del festival
 Amuleto de bruja
 Rosario de guardia
 Correa de Pegaso
 Ebisu de madera
-Courage Fob
+Leontina de Coraje
 Popurrí de almas
-Ambition Fob
-Boon Potpourri
+Leontina de Ambición
+Popurrí Boon
 Impulso Delta
-Universal Badge
+Insignia universal
 Medalla Omnisciente
-Yosuga Bead
-Shijima Bead
+Perla Yosuga
+Perla Shijima
 Crecimiento 1
 Crecimiento 2
 Crecimiento 3
-Speed Gloves
-Lucre Gloves
+Guantes de Velocidad
+Guantes de Lucre
 Orbe omnipotente
 Gafas a la última
 Tirantes
 Horquilla
-Silver Keyring
+Llavero de plata
 Corbata negra
 Riñonera
-Music Player
+Reproductor
 Medias de lunares
 Medias negras
 Reloj de pulsera
-Aluminum Pin
+Pin de aluminio
 Cinta para el pelo
 Orejas de oso
 Medallón de plata
 Pendientes espiral
 Anillo sencillo
-Music Player
-Heart Choker
-Fancy Nails
+Reproductor
+Gargantilla de corazón
+Uñas de fantasía
 Pulsera
-Beanie
+Gorro
 Lazo rojo
 Guantes de cuero
-Silver Necklace
-Koromaru Wings
+Collar de plata
+Alas de Koromaru
 Auriculares
-Pearl Earrings
-Bead Necklace
+Pendientes de perla
+Collar de perlas
 Acc Fusion 2
 Acc Fusion 1
-Healing Armlet
+Brazalete Curativo
 Voto de llama
-Psy Vow
-Lucky Cat
+Voto Psíquico
+Gato de la suerte
 Ankh Hielo-Fuego
-Wind-Elec Ankh
-Super Lucky Cat
+Ankh Viento-Elec
+Super Gato con suerte
 Tecnol. de Barrera
 Adhesivo PE 3
 Anillo de Rudra
@@ -1255,11 +1255,11 @@ Collar Artesanal
 Pulsera Pesada
 Choker Rosado
 Broche Rojo
-Purple Circlet
+Circlet Violeta
 Brazal Prometido
-Focus Bracer
-Energy Bracer
-Dragon Bracer
+Brazalete de Enfoque
+Brazalete de Energía
+Brazalete de Dragón
 Dormir x10
 Maldición x10
 Piedra x10
@@ -1278,7 +1278,7 @@ Corte x10
 Golpe x10
 Perforación x10
 Acc 0x4FF
-Expendables Start
+Inicio de Consumibles
 Medicina
 Not Used
 Not Used
@@ -1294,7 +1294,7 @@ Abalorio de resurrec.
 Bálsamo vital
 Not Used
 Not Used
-Curaciｶポn de Atadu.
+Curación de Atadu.
 Not Used
 Agua purificadora
 Sal purificadora
@@ -1322,7 +1322,7 @@ Bala Tornado
 Arroz Segaki
 Papel maldito
 Bomba psíquica
-Fission Bullet
+Bala de fisión
 Cerilla atómica
 Bala Mental
 Reserved
@@ -1348,9 +1348,9 @@ Esfera desvanecedora
 Ave Inmortal
 Palomitas
 Papas Valientes
-Free Ticket
+Entrada gratuita
 Piedra de Resurrec.
-Line Heal Stone
+Piedra Curativa-Línea
 Palomitas de Miel
 Hot Dog Grande
 Refresco Limpio
@@ -1360,12 +1360,12 @@ Palomitas Prisma
 Reserved
 Carta Blanca
 Comodín
-Bowl Hagakure
-Bowl Mega Beef
+Cuenco Hagakure
+Cuenco Mega Beef
 Curry del Leblanc
-Growth Incense
+Incienso de Crecimiento
 Reserved
-Large Dual Dog
+Dog Doble Grande
 Dog Gigante
 Botella de Claridad
 Baｶワo de Claridad
@@ -1531,43 +1531,43 @@ Reserved
 Reserved
 Reserved
 Reserved
-Hagakure Bowl x3
-Mega Beef Bowl x3
-Leblanc Curry x3
+Cuenco Hagakure x3
+Cuenco Mega Beef x3
+Curry del Leblanc x3
 Key Item Start
-Pamphlet
-Top-Secret Note
-Girl Power Scroll
-Shell Drawing
-Ancient Fish
-Inspire Popcorn
-Shining Stone
-Biker Gloves
-Beautiful Ring
-Fitness Lunch
+Folleto
+Nota Secreta
+Pergamino de Poder Femenino
+Dibujo de Concha
+Pez antiguo
+Palomitas Inspiradoras
+Piedra brillante
+Guantes de Motero
+Anillo Bonito
+Almuerzo Fitness
 Aviso
-Memory Medal
-Gold Beetle
-Victory Trophy
-Broken Screw
-VIP Certificate
-Glamour Shot
-Comm Amp
-Special Menu
-Ticket Velvet
-Carta Velvet
-Pase Velvet
-Licencia Velvet
-Toy Clapboard
-Promised Script
-Ancient Bait
-Power of Bonds
-Keycard
+Medalla de Memoria
+Escarabajo dorado
+Trofeo de Victoria
+Tornillo roto
+Certificado VIP
+Foto de glamour
+Amplificador de Com.
+Menú especial
+Entrada Terciopelo
+Carta Terciopelo
+Pase Terciopelo
+Licencia Terciopelo
+Claqueta de Juguete
+Guión Prometido
+Cebo antiguo
+Poder de bonos
+Tarjeta
 Pel胤cula de Holl胤n
 Pel胤cula de Holl胤n
 Pel胤cula de Holl胤n
 Pel胤cula de Holl胤n
-Ancient Bait
+Cebo Antiguo
 Damp Kernels
 0x623
 0x624
